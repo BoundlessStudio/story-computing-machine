@@ -627,27 +627,9 @@
       "id": "cycle-02-returning-sovereignties",
       "title": "The Returning Sovereignties",
       "eyebrow": "After Nell, many old-magical societies have histories of their own.",
-      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Northbridge’s locally hidden help and Lowen’s established public sky may overlap in different civic settings; one does not date the other. Their supplied positions precede the Bay. Solstice’s coronation and her circles’ fading have their own earlier history; a prisoner is misidentified in the supplied aftermath and the same queen encounters a museum centuries later. Vantress begins a local service compact, while the Glass Sea has a separate four-century inheritance of loss and maintained works. These histories establish no single rise and fall of all public powers.",
+      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Varkesh's grain administration and Mallowbreak's temporary harbor office have different sources of authority and ways of ending it. Northbridge's locally hidden help and Lowen's established public sky may overlap in different civic settings; one does not date the other. Their supplied positions precede the Bay. Solstice's coronation and her circles' fading have their own earlier history; a prisoner is misidentified in the supplied aftermath and the same queen encounters a museum centuries later. Vantress begins a local service compact, while the Glass Sea has a separate four-century inheritance of loss and maintained works. These histories establish no single rise and fall of all public powers.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
-        {
-          "id": "event-a-crown-of-quiet-hours",
-          "title": "A Crown of Quiet Hours",
-          "magicState": "old-magic",
-          "description": "218 years of masked rule → Councils and sleeping dragons.",
-          "context": [
-            "A 218-year order sustains real public works through twelve dragons and forty-seven royal masks. Its fabricated ancestral cult confers no godhood. After a water diversion disables fire protection, an inquiry leads to elected councils and separate public cooling works; the intended two-century sleep is not an elapsed interval.",
-            "Six weeks to the Charter, seven months to the completed works; Kharost’s dragons are distinct from Varkesh’s collective god."
-          ],
-          "sequenceNote": "The first proposed event in this cycle, before Where Rival Gods Go Quiet. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "a-crown-of-quiet-hours"
-          ],
-          "window": {
-            "start": 2.3,
-            "end": 3.7
-          }
-        },
         {
           "id": "event-head-priests-in-love",
           "title": "Where Rival Gods Go Quiet",
@@ -657,7 +639,7 @@
             "Levara and Ambel are in their seventh year of shared service at Brackwater. Mooring and departure rites already support working wharves under distinct gods. They complete the truce without converting each other; their private meeting six days later is planned, and the gods' silence does not end either jurisdiction.",
             "One response has survived 112 circuits. The priests complete the current rite; their meal six days later is a plan, not an elapsed event."
           ],
-          "sequenceNote": "Proposed after A Crown of Quiet Hours and before The Attendance Ledger. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The first proposed event in this cycle, before the Northbridge showcase. The maritime truce has no established date relative to Kharost's separate water reform, now placed in a later old-magical period.",
           "stories": [
             "head-priests-in-love"
           ],
@@ -725,10 +707,10 @@
           "id": "event-a-throne-neither-wanted",
           "title": "The Throne Neither of Us Wanted",
           "magicState": "old-magic",
-          "description": "Three centuries of household forecasts → A voluntary transfer of the crown.",
+          "description": "Three centuries of household forecasts → A voluntary succession in one day.",
           "context": [
-            "A monarchy maintains three centuries of forecast records beside medical study, hydrographic ships and beacon work. This proposed old placement follows its professional institutions and succession law; the forecast remains unrelated to Sablewake's guarantee.",
-            "The archive records acts without compelling them. A fatal injury from the previous year and its coronation support lead to the present succession; the forecast tradition is older than this crisis."
+            "A royal household's three-century forecast archive coexists with medical study, coastal hydrography and plans for new beacons. Its present succession turns on a fatal injury the coronation working has delayed but cannot heal. The selected old-magical placement accommodates those established professions and that specific working; the source also leaves a renewed-magic setting possible. Neither the throne nor the forecast ties this family to the neighboring divine governments.",
+            "The previous year's injury and six weeks of accelerating decline precede the morning forecast. Eighteen months is an observed archive limit, not an automatic expiry; the present story reaches the court near midnight."
           ],
           "sequenceNote": "Proposed after The Second Wearing and before An Ordinary Education. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -761,10 +743,10 @@
           "id": "event-the-peace-they-could-sleep-through",
           "title": "The Peace They Could Sleep Through",
           "magicState": "old-magic",
-          "description": "Two centuries of collective godhood → An abdicated government.",
+          "description": "Two centuries of divine administration → Abdication and continuing hearings.",
           "context": [
-            "Two centuries of roads, grain and collective divine adjudication leave farmers and importers appealing upward for incompatible guarantees. Their ninety-day grain bargain begins a revisable practice; the dragons surrender royal and religious authority. Godhood ends while their bodies and powers remain, independently of Kharost's false royal ancestry.",
-            "A separate twelve-dragon polity; the agreed one-year review is a future condition, not an elapsed century or a completed trial."
+            "An existing divine administration supports grain reserves, roads, lenders and district records, but its incompatible judgments cannot create enough food or remove competing claims. Lumen revives the established common-plea procedure; parties must negotiate, send orders to their own forces and revise supply terms. This chosen old-magical setting does not depend on Kharost's different monarchy or date that reform. Varkesh's surrender ends a local godhood while the dragons' bodies and powers continue.",
+            "Two crop failures precede the grain dispute; the first ninety-day terms change on day seventeen. Departure has a three-day follow-up, while the one-year review and intended three-century sleep remain future."
           ],
           "sequenceNote": "Proposed after An Ordinary Education and before The Tide Will Have Her Answer. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
@@ -779,10 +761,10 @@
           "id": "event-fifty-seven-minutes",
           "title": "The Tide Will Have Her Answer",
           "magicState": "old-magic",
-          "description": "A gift from a dying sea creature → A mortal shipwright again.",
+          "description": "A gift from a dying sea creature → Ordinary measurements after the flood.",
           "context": [
-            "Mallowbreak's launch crews, court, harbor registers and old relief works meet eighty-six years of agelessness and fifty-seven minutes of divine office. Orselle's commands displace water toward two neighboring coves; restoring ordinary flow requires prepared timber, evacuation and surrender of her gift. Her earlier shipwright liability remains.",
-            "Eighty-six years of agelessness precede fifty-seven minutes of divine office; these are separate local intervals."
+            "Mallowbreak has an operating harbor court, launch crews, registers and old relief works before a misrule rite makes one gifted resident its temporary god. Her words redirect actual water beyond the harbor, while warnings travel at a runner's pace. Crews must prepare a physical escape route before she surrenders the office and salt-breath. This maritime society has a proposed old-magical place; its rite has no established ancestry in Brackwater's truce, and the rescue does not erase her earlier professional liability.",
+            "Eighty-six years of agelessness and a four-year professional sanction precede fifty-seven minutes of divine office. Damage reports arrive by dusk; the scheduled next-day hearing and future aging are not completed outcomes."
           ],
           "sequenceNote": "Proposed after The Peace They Could Sleep Through and before The One Who Gets Tired. Lowen’s possible horizon also reaches this part of the cycle; the maritime crisis establishes no order against his city.",
           "stories": [
@@ -1087,7 +1069,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. These institutions have separate prior histories. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Kharost's proposed later placement joins this period through existing water administration and the completed transfer to public control; its horizon may overlap several independent services. Their prior histories do not form one civilization or shared reform. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1117,13 +1099,31 @@
             "Proposed before extinction in a later age of publicly known magical work. The hiring fair, expedition contracts and advertised nonlethal weapon establish an operating economy, not the discovery of a new power. The four-year partnership and independently planned departure precede the afternoon's injury. Its order against the other later old-magical stories remains a reconstruction.",
             "The partnership has lasted four years. A room is arranged the preceding week and the ticket bought that morning, before the bout. The injury may ease over days, but no exact recovery, completed departure or reconciliation is witnessed."
           ],
-          "sequenceNote": "Proposed after The Strength of Ten and before The Warmest Person in the Room. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
+          "sequenceNote": "Proposed after The Strength of Ten and before the overlapping period selected for A Crown of Quiet Hours and The Warmest Person in the Room. No common government, institution or measured calendar is established.",
           "stories": [
             "where-it-hurts"
           ],
           "window": {
             "start": 2.3,
             "end": 3.7
+          }
+        },
+        {
+          "id": "event-a-crown-of-quiet-hours",
+          "title": "A Crown of Quiet Hours",
+          "magicState": "old-magic",
+          "description": "218 years of concealed rule → Seven months of civic reconstruction.",
+          "context": [
+            "Selected in a later old-magical period of established civic works. Istra audits a public water system endangered by a Founding Day diversion into a private basin that has taken nineteen months to prepare. A charter and separately supplied cooling works transfer control to human councils. This proposed horizon may overlap paid climate work, clinical research and ward-making without making their cities one state. The story's external date remains unknown.",
+            "Nineteen months of private basin preparation precede the fire; six weeks lead to the Charter and seven months to completed cooling works. The intended two-century sleep is future, not a measured gap to another story."
+          ],
+          "sequenceNote": "Selected in a later old-magical period that may overlap Brightward's applied expertise, Qarsis's municipal cold work, the mountain blood research and the estate ward-making story. These existing services make a compatible setting for public water reform. Their mutual dates and regional links remain unknown; the Charter does not date or cause the eventual extinction.",
+          "stories": [
+            "a-crown-of-quiet-hours"
+          ],
+          "window": {
+            "start": 7.3,
+            "end": 19.37
           }
         },
         {
@@ -1135,7 +1135,7 @@
             "Placed in the proposed later old-magical reach, Brightward already joins specialist teaching, certification, clinics, equipment testing and routine maintenance around living capacities. This fits the period's applied expertise and institutional demands without making an ordinary school its precursor. Canon fixes the story before extinction; its later-than-Glass-Sea position is proposed, and Brightward has no established link to the Array or its roots.",
             "Certification, equipment forms and an established clinic locate the story within a professional institution. Mirelle's useful knowledge and refusals remain her own; the ordinary scarf changes neither her power nor its costs."
           ],
-          "sequenceNote": "Proposed after Where It Hurts and before A Little Winter for Sale, in a later old-magical reach with established applied expertise. The position does not identify a common employer, college, root system or continuous institutional lineage.",
+          "sequenceNote": "Selected in a later old-magical period with established applied expertise, within the possible horizon of Kharost's water reform and before the selected Qarsis cold-work slot. Neither a common employer, college, root system nor institutional descent is established.",
           "stories": [
             "the-warmest-person-in-the-room"
           ],
@@ -1153,7 +1153,7 @@
             "Proposed in a later old-magical age than the noble-dragon accords. Qarsis already combines condensers, trade and paid living expertise: Urumet's migration and bounded municipal work belong to an established mixed infrastructure. This extends the selected history of public services across ages without identifying a shared dragon ancestry, polity or uninterrupted tradition.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after The Warmest Person in the Room and before The Fourth Blood. A city hiring living expertise and a mountain researcher have different local institutions; this ordering does not establish a common state or a route of transmission.",
+          "sequenceNote": "Its selected window may overlap Kharost's public water reform. Both societies already maintain urban services alongside living powers, but Qarsis's hired cold work and the other capital's cooling settlement have distinct causes and no established common polity or relative date.",
           "stories": [
             "a-little-winter-for-sale"
           ],
@@ -1171,7 +1171,7 @@
             "Proposed in the later old-magical reach, where established institutions already combine living powers with technical practice. Nine years of papers, restricted samples, blind comparisons and a healer's ordinary patient work support a developed local research culture despite mountain roads and seasonal isolation. The mage explicitly supplies every working through a living pulse. This is a local discovery of recurring blood patterns, not the world's first classification, modern blood-group equivalence or evidence that immortality was achieved.",
             "An earlier fatigue-sharing charm harmed a participant. The final convergence is canceled before activation; it does not fail in an experiment. Four recurring patterns and one unsettled result leave limited future research, continuing patient care and the researcher's fear of death."
           ],
-          "sequenceNote": "Proposed after A Little Winter for Sale and before The Door Knows Home. Established technical and professional practices are compatible with this later old-magical reach, but the blood research's date and relation to those institutions remain unknown.",
+          "sequenceNote": "Selected after Qarsis's cold-work slot and before The Door Knows Home, within the possible horizon of Kharost's separate civic reform. The laboratory's existing technical practices fit this later old-magical reach without identifying a common state, date or route of transmission.",
           "stories": [
             "blood-types-of-immortality"
           ],
@@ -1189,7 +1189,7 @@
             "Proposed in the later old-magical reach, the doorway workshop combines mechanical repair, bounded living-user tests, estate appraisal and a trade qualification system. These are existing institutions within an inhabited modern society, not proof of descent from earlier schools or licenses. The mother’s wear stores no person or fixed destination; all four heirs already have equal shares. Independent qualification still awaits the master’s inspection.",
             "Earlier use leaves mechanical wear, not a stored destination. The apprentice has two hours and fourteen minutes until five; the door is collected at 4:51. Independent qualification awaits the master's inspection, and the house sale is due to complete the next day."
           ],
-          "sequenceNote": "Proposed after The Fourth Blood and before Realms. These positions belong to a varied later old-magical history; no common profession, institution, root or measured calendar connects the events.",
+          "sequenceNote": "Selected after the mountain blood research and before Realms, within the possible horizon of Kharost's separate water reform. These positions establish neither shared institutions nor a succession from royal government to professional work.",
           "stories": [
             "the-door-knows-home"
           ],
@@ -2980,24 +2980,24 @@
     },
     "a-crown-of-quiet-hours": {
       "window": {
-        "start": 2.3,
-        "end": 3.7
+        "start": 7.3,
+        "end": 19.37
       },
-      "note": "A 218-year order sustains real public works through twelve dragons and forty-seven royal masks. Its fabricated ancestral cult confers no godhood. After a water diversion disables fire protection, an inquiry leads to elected councils and separate public cooling works; the intended two-century sleep is not an elapsed interval."
+      "note": "Selected in a later old-magical period of established civic works. Istra audits a public water system endangered by a Founding Day diversion into a private basin that has taken nineteen months to prepare. A charter and separately supplied cooling works transfer control to human councils. This proposed horizon may overlap paid climate work, clinical research and ward-making without making their cities one state. The story's external date remains unknown."
     },
     "the-peace-they-could-sleep-through": {
       "window": {
         "start": 30.15,
         "end": 31.55
       },
-      "note": "Two centuries of roads, grain and collective divine adjudication leave farmers and importers appealing upward for incompatible guarantees. Their ninety-day grain bargain begins a revisable practice; the dragons surrender royal and religious authority. Godhood ends while their bodies and powers remain, independently of Kharost's false royal ancestry."
+      "note": "An existing divine administration supports grain reserves, roads, lenders and district records, but its incompatible judgments cannot create enough food or remove competing claims. Lumen revives the established common-plea procedure; parties must negotiate, send orders to their own forces and revise supply terms. This chosen old-magical setting does not depend on Kharost's different monarchy or date that reform. Varkesh's surrender ends a local godhood while the dragons' bodies and powers continue."
     },
     "fifty-seven-minutes": {
       "window": {
         "start": 33.63,
         "end": 35.03
       },
-      "note": "Mallowbreak's launch crews, court, harbor registers and old relief works meet eighty-six years of agelessness and fifty-seven minutes of divine office. Orselle's commands displace water toward two neighboring coves; restoring ordinary flow requires prepared timber, evacuation and surrender of her gift. Her earlier shipwright liability remains."
+      "note": "Mallowbreak has an operating harbor court, launch crews, registers and old relief works before a misrule rite makes one gifted resident its temporary god. Her words redirect actual water beyond the harbor, while warnings travel at a runner's pace. Crews must prepare a physical escape route before she surrenders the office and salt-breath. This maritime society has a proposed old-magical place; its rite has no established ancestry in Brackwater's truce, and the rescue does not erase her earlier professional liability."
     },
     "head-priests-in-love": {
       "window": {
@@ -3508,7 +3508,7 @@
         "start": 19.71,
         "end": 21.11
       },
-      "note": "A monarchy maintains three centuries of forecast records beside medical study, hydrographic ships and beacon work. This proposed old placement follows its professional institutions and succession law; the forecast remains unrelated to Sablewake's guarantee."
+      "note": "A royal household's three-century forecast archive coexists with medical study, coastal hydrography and plans for new beacons. Its present succession turns on a fatal injury the coronation working has delayed but cannot heal. The selected old-magical placement accommodates those established professions and that specific working; the source also leaves a renewed-magic setting possible. Neither the throne nor the forecast ties this family to the neighboring divine governments."
     },
     "the-kingdom-was-the-easy-part": {
       "window": {
@@ -3845,18 +3845,21 @@
       "The visit ends without supplying a complete account of the outside world."
     ],
     "a-crown-of-quiet-hours": [
-      "Twelve dragons maintain forty-seven royal masks and a fabricated ancestral cult across 218 years.",
-      "A royal water diversion leaves hydrants dry during the Founding Day fire; the dragons reveal themselves and work beside human crews.",
-      "Six weeks later, a debated Charter transfers law, water, appointments and records to elected human councils.",
-      "Seven months after the fire, separate watershed cooling works are completed under public control; the dragons intend to sleep for two centuries."
+      "Twelve dragons maintain forty-seven royal identities over 218 years. Their roads, sewers, grain measures and fire protection are real; the dead Crowned Ancestors are invented, and the living ruler receives no worship.",
+      "Kharost has spent nineteen months preparing a private sleep basin. On Founding Day, assistant water auditor Istra Noll finds missing cistern water and is ordered to certify the figures; the intended centuries of fixed administration have not begun.",
+      "At dusk, a festival fire meets empty hydrants. Istra opens the diverted water route and rings the Flood Bell; revealed dragons, bucket lines and other human crews contain the fire together. By midnight it is contained, with thirty-one people treated and no deaths.",
+      "An inquiry precedes six weeks of argument over a Charter. Elected human councils take law, water, taxes, records and appointments; the royal masks and state ancestor worship are retired.",
+      "Seven months after the fire, public cooling works are complete on a separate watershed, with outside access to the gates and public accounts. The dragons enter as residents under the same law, with no private claim on the city's water.",
+      "The dragons intend a two-century sleep. That future interval has not elapsed, and maintaining the settlement remains the work of the living city."
     ],
     "the-peace-they-could-sleep-through": [
-      "Twelve dragons govern through one worshipped living guise for two centuries, forming an actual collective god.",
-      "Conflicting grain judgments force farmers and importers to confront the limits of a final royal answer.",
-      "The parties make a ninety-day agreement protecting seed while retaining bounded debt repayment and opening stock and cost records.",
-      "On day seventeen, a shortfall prompts a fourteen-hour meeting and an amended release schedule.",
-      "The dragons surrender royal and religious authority and leave for a refuge; continued private worship does not preserve their godhood.",
-      "Ordinary hearings continue under recallable chairs. After one year, the districts can keep, replace or discard the procedure; that review has not yet occurred."
+      "For two centuries, twelve distinct dragons rotate through one worshipped royal guise. Their collective divine government sustains roads, grain reserves, district judgments and a working clerical administration.",
+      "After two failed harvests and three imported shiploads, incompatible royal judgments promise seed protection and lenders' seizure. The existing procedure book already permits parties to file a common plea; the dragons' proposed final ruling cannot remove the shortage.",
+      "At noon, Lumen refuses a final royal answer. Revelation of the twelve dragons does not itself end worship; their refusal to compel an agreement leaves farmers and importers to bargain through the older procedure.",
+      "The ninety-day agreement protects seed and pledged land while retaining limited future debt repayment and opening inventories, import costs and margins. Each side sends its own orders; a depot opens, while one provincial company stops short and waits for the full clauses.",
+      "On day seventeen, a shortfall requires fourteen hours of negotiation and an amended release schedule. Higher flour prices and reduced payments leave continuing costs rather than universal satisfaction.",
+      "The dragons surrender royal and religious authority and depart for an old refuge, intending three centuries of sleep. Their bodies and powers remain; private prayer alone preserves no godhood. Three days after departure, travelers report voices falling silent before dawn.",
+      "Hearings continue under recallable chairs, including a fresh transport-fee dispute. The districts' one-year review is still future; neither that review nor three centuries of peace has occurred."
     ],
     "the-unfinished-sunset": [
       "Aderi's keepers use a forty-three-minute solar extension as part of ordinary collective harvest work",
@@ -4186,9 +4189,12 @@
       "The parents take over the younger children's needs; Leonor returns beside her father and falls asleep before the sequence she wanted to see"
     ],
     "a-throne-neither-wanted": [
-      "A fatal injury is suspended for roughly a year by royal office",
-      "A forecast precedes a freely accepted succession",
-      "The original injury takes effect when the support ends"
+      "The household preserves three centuries of completed forecasts. A living rite keeper supplies the working; the dish records acts without compelling them, and its grains become inert when her heat leaves.",
+      "A scaffold injury in the previous year would have killed the king. Coronation support suspends its consequence without healing him; the medical archive records no interval beyond eighteen months, and his pain and weakness have worsened for six weeks.",
+      "Before the present forecast, the older heir has begun emergency planning as her father's health fails. That morning's reading names a blood heir killing a seated king for the throne without identifying which heir or requiring either child to choose it.",
+      "Medical explanation and family discussion reveal what ending the support will do. Both heirs have independent futures in medicine or coastal survey work; neither path is secured simply by the proposed arrangements.",
+      "That night, the younger heir freely takes the office through the living transfer rite. There are three chances to stop before spoken acceptance; afterward, rising cannot undo it. The father's original injury takes effect and his death is confirmed.",
+      "Near midnight, the medicine clock sounds again. The new ruler rinses the cup and approaches the waiting court; the reign, studies and sister's survey future are still ahead."
     ],
     "the-vacant-throne": [
       "Fifteen years of caretaker government approach the sunset expiry of its compact after the king's death in a border war.",
@@ -4292,12 +4298,12 @@
       "Some youths choose to carry copied patterns to nearby rookeries; others repair Stillfire as Alexstrasza and Ceryth complete Ygdrane's burial."
     ],
     "fifty-seven-minutes": [
-      "At thirty-nine, Orselle receives salt-breath and agelessness from a dying sea creature.",
-      "Eighty-six years pass; four years before the present launch she loses her master's seal after certifying a faulty ferry repair.",
-      "The misrule rite gives her fifty-seven minutes of divine responsibility for the harbor.",
-      "Her imprecise commands displace the tide toward neighboring coves; runners carry warnings while crews prepare an old relief gate.",
-      "Shore-return ends her authority and salt-breath as the prepared route admits the water. She becomes mortal without eighty-six years arriving at once.",
-      "Damage is counted, the rite book is corrected, and the ferry hearing remains scheduled; rescue has not restored her professional seal."
+      "At thirty-nine, Orselle receives salt-breath and agelessness from a dying sea creature. Eighty-six years pass before this launch; that gift had not previously given her command of the harbor.",
+      "Four years before the launch, she loses her master's seal for certifying a faulty ferry repair. Rulik's earlier workmanship and her decision to approve it remain separate responsibilities when they meet again.",
+      "The launch-day misrule rite, public obedience and harbor right combine with Orselle's living power to make her a temporary god. Seven glasses measure fifty-seven minutes; her commands act on the water named, not the outcome she privately intends.",
+      "Broad commands shift water toward two neighboring coves. Runners carry warnings while harbor workers shore an unused relief gate, clear its route and accept damage to shops and stores; no command can substitute for that preparation.",
+      "Orselle steps ashore as the last glass empties, returning the harbor right and losing salt-breath. The gate fails along the prepared route while the shore holds the first force. Her authority ends, but the displaced water and physical losses remain.",
+      "By dusk, the eastern cove reports water in one lane and no missing people; the western cove has lost three carts. No roofs went. The rite book is corrected and ordinary measurements continue. Orselle does not age eighty-six years at once; the ferry hearing is still due at the second bell next day, and her seal has not been restored."
     ],
     "the-future-that-refused-us": [
       "Three centuries of enforced forecasts make spare boats, medicine, timber and trained substitutes seem wasteful; nine living readers bear the working's memory cost.",
@@ -4913,9 +4919,9 @@
       "note": "The original body ages from thirty-one to forty-four while Nivra builds her own life. The case passes through eighty-six hands during its last three years. One visit brings Tamaris back into the body, but she releases control before midnight, is expelled and enters a waiting volunteer within seven heartbeats. Her original displacement and any lasting solution remain unexplained."
     },
     "a-crown-of-quiet-hours": {
-      "start": "218 years of masked rule",
-      "end": "Councils and sleeping dragons",
-      "note": "Six weeks to the Charter, seven months to the completed works; Kharost’s dragons are distinct from Varkesh’s collective god."
+      "start": "218 years of concealed rule",
+      "end": "Seven months of civic reconstruction",
+      "note": "Nineteen months of private basin preparation precede the fire; six weeks lead to the Charter and seven months to completed cooling works. The intended two-century sleep is future, not a measured gap to another story."
     },
     "kite-letters-below": {
       "start": "An inherited account of surface abandonment",
@@ -4978,14 +4984,14 @@
       "note": "Inside, the same forty-three-minute interval repeats with retained memories. The body's age does not catch up at release. Eleven days of patrol and a winter's blocked pass explain only the first part of Arveth's absence, not her subsequent years of avoidance."
     },
     "the-peace-they-could-sleep-through": {
-      "start": "Two centuries of collective godhood",
-      "end": "An abdicated government",
-      "note": "A separate twelve-dragon polity; the agreed one-year review is a future condition, not an elapsed century or a completed trial."
+      "start": "Two centuries of divine administration",
+      "end": "Abdication and continuing hearings",
+      "note": "Two crop failures precede the grain dispute; the first ninety-day terms change on day seventeen. Departure has a three-day follow-up, while the one-year review and intended three-century sleep remain future."
     },
     "fifty-seven-minutes": {
       "start": "A gift from a dying sea creature",
-      "end": "A mortal shipwright again",
-      "note": "Eighty-six years of agelessness precede fifty-seven minutes of divine office; these are separate local intervals."
+      "end": "Ordinary measurements after the flood",
+      "note": "Eighty-six years of agelessness and a four-year professional sanction precede fifty-seven minutes of divine office. Damage reports arrive by dusk; the scheduled next-day hearing and future aging are not completed outcomes."
     },
     "the-night-harvest": {
       "start": "New creatures in an old trade economy",
@@ -5099,8 +5105,8 @@
     },
     "a-throne-neither-wanted": {
       "start": "Three centuries of household forecasts",
-      "end": "A voluntary transfer of the crown",
-      "note": "The archive records acts without compelling them. A fatal injury from the previous year and its coronation support lead to the present succession; the forecast tradition is older than this crisis."
+      "end": "A voluntary succession in one day",
+      "note": "The previous year's injury and six weeks of accelerating decline precede the morning forecast. Eighteen months is an observed archive limit, not an automatic expiry; the present story reaches the court near midnight."
     },
     "a-knock-in-someone-elses-sleep": {
       "start": "The earlier quarry encounter",
@@ -5834,11 +5840,11 @@
       "id": "dragon-governments",
       "from": "a-crown-of-quiet-hours",
       "to": "the-peace-they-could-sleep-through",
-      "kind": "historical",
-      "label": "Two experiments in government without waking rulers",
-      "note": "Two twelve-dragon administrations confront closely comparable failures of personal rule. Kharost retires forty-seven fabricated dead masks and builds independent watershed sleep works; Varkesh abdicates an actually divine living guise and leaves without a veto. These distinct political experiments support a proposed shared historical context. Their resemblance establishes neither borrowing nor the same dragons, state or form of divinity; mutual order remains open.",
+      "kind": "echo",
+      "label": "Who governs while the rulers sleep?",
+      "note": "Kharost's Charter transfers public water and government away from forty-seven fabricated royal identities; Varkesh's common plea and abdication leave grain bargaining to human parties after an actual collective godhood. These different reforms recur across the selected eras. Their states, dragons, religions and procedures have no established connection or relative date.",
       "ordering": "none",
-      "basis": "proposed"
+      "basis": "thematic"
     },
     {
       "id": "living-buildings",
@@ -6541,7 +6547,7 @@
         {
           "cycleId": "cycle-03-extinction-human-works",
           "title": "Authority before and after extinction",
-          "note": "Ninepin's proposed late-old campaign depends on depots and public offices while a ruler's personal magic remains active. Extinction later ends old material magical capacity. In the selected zero-era reach, Avarnth's optical registry, independent titles and funded relief operate through matter and law. Its monarchy is not established as Ninepin's successor.",
+          "note": "Ninepin's campaign depends on depots and public offices while its ruler's magic remains active. Kharost's separate capital later transfers law and water to human councils in the reconstruction; this is a local reform, with no divine office to extinguish. All Accounts Due ends old material magic after an unmeasured interval. In the selected zero-era reach, Avarnth's optical registry and funded relief operate through matter and law. These governments have no established succession.",
           "anchors": [
             "strength-of-ten",
             "all-accounts-due",
@@ -6611,23 +6617,23 @@
         },
         {
           "cycleId": "cycle-02-returning-sovereignties",
-          "title": "Cities rework inherited systems",
-          "note": "Separate watershed works free a public water system from the royal sleep basin. In the proposed later reach, Vantress’s existing ward operators begin a one-moon service compact, while the Glass Sea decentralizes a different four-century solar inheritance. Kiln crews, cleared channels and physical load paths make each change possible; neither story proves technical descent from the other.",
+          "title": "Working systems limit divine promises",
+          "note": "Mallowbreak's harbor authority still needs runners, timber, cleared routes and crews to manage displaced water. Vantress's existing ward operators begin a one-moon service compact, while the Glass Sea decentralizes a separate four-century solar inheritance. These operating systems have their own histories; divine or royal decisions do not complete the physical work.",
           "anchors": [
-            "a-crown-of-quiet-hours",
-            "daughter-of-the-sun",
-            "what-i-hate-most"
+            "fifty-seven-minutes",
+            "what-i-hate-most",
+            "daughter-of-the-sun"
           ],
           "kind": "proposed"
         },
         {
           "cycleId": "cycle-03-extinction-human-works",
-          "title": "Human works rise and fail",
-          "note": "Later old-magical services precede extinction. Courts, working cities and maritime systems then operate within the zero. Orison’s grounding is one local loss amid surviving technical work; the unrecognized arsenal has an overlapping possible horizon and an unidentified history of its own.",
+          "title": "Public control and continuing technical work",
+          "note": "Kharost's cooling settlement and Qarsis's hired cold work occupy a proposed overlapping old-magical period of existing urban services. Separate watersheds and bounded contracts address different obligations. After extinction, material courts, workshops and cities continue; Orison's grounding is one local loss amid surviving expertise, while another community explores an unidentified arsenal. No shared city or continuous technical lineage is established.",
           "anchors": [
+            "a-crown-of-quiet-hours",
             "a-little-winter-for-sale",
-            "four-million-falling",
-            "the-room-that-waited"
+            "four-million-falling"
           ],
           "kind": "proposed"
         },
