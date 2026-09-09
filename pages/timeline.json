@@ -1310,10 +1310,10 @@
           "id": "event-the-five-minute-warranty",
           "title": "The Five-Minute Warranty",
           "magicState": "long-dark",
-          "description": "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop.",
+          "description": "A deferred maintenance bid and a morning kiln blast → A spent rescue rig and a paid rebuild order by noon.",
           "context": [
-            "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Replacement manufacture remains possible despite deferred maintenance. The rescue is completed and a permanent rebuild commissioned; the inquiry, rebuilding and financial consequences lie beyond the story.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "North Rise's paid workshop and lift office retain the ability to cast and cut a replacement crown gear and reset its pedestal, but the work takes days. A surviving boiler, tested brakes, salvaged parts and measured sacrificial cloth support one five-minute evacuation. The emergency invoice is paid and a rebuild commissioned by noon; lost wage reserves and the inquiry remain real consequences. This material civic setting may overlap Avarnth's optical administration without sharing its government, parts or suppliers.",
+            "Five minutes measures operation from clutch engagement, after diagnosis, testing and construction. Replacement estimates of six days for the gear and perhaps ten for the pedestal describe work still ahead. Forty passengers escape before the lower station and strongbox are destroyed; the upper reserve pays the emergency invoice, while the rebuild and wider financial consequences remain unfinished."
           ],
           "sequenceNote": "Proposed within the overlapping interval selected for A Crown in the Bargain and before The Blade Calls Your Name. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
@@ -1328,10 +1328,10 @@
           "id": "event-blade-calls-your-name",
           "title": "The Blade Calls Your Name",
           "magicState": "long-dark",
-          "description": "A quarry-saw alloy → A service blade under repair.",
+          "description": "A century of repairs and a splice left for six years → A stable full load and a witnessed maintenance handover.",
           "context": [
-            "Hearthchain preserves a century of maintenance through skilled work and diagnostic tools. A temporary splice remains for six years because its replacement was falsely recorded as complete. Correcting attribution enables the immediate repair, while future maintenance and judgment remain separate obligations.",
-            "A century of repairs carries the old alloy into a later service blade. A six-year temporary splice fails in the present; the material’s history is longer than the current fault."
+            "Hearthchain's maintained lift and suspended terrace depend on skilled load control, rail signals, speaking tubes and a service blade that repeats stored strain patterns. A temporary splice survives six years while its promised replacement remains undone and the ledger falsely records completion. The current repair stabilizes the adjacent tooth and transfers ongoing maintenance to Kosca, while Odmara remains independent. This working material institution may overlap Avarnth without proving a shared guild, naming mechanism or manufacturing lineage.",
+            "The blade contains older quarry-saw alloy and successive repairs. Odmara's temporary splice was falsely recorded as a full replacement six years earlier. A thirty-eight-minute warning precedes the scheduled full load; afterward, a new diagnostic pattern and named responsibilities are recorded. Residents' return is conditional on a second reading, a watch remains necessary through morning, and the prior omission still awaits judgment."
           ],
           "sequenceNote": "Proposed after The Five-Minute Warranty and before The City Keeps Score. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -3137,7 +3137,7 @@
         "start": 57.13,
         "end": 58.53
       },
-      "note": "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Replacement manufacture remains possible despite deferred maintenance. The rescue is completed and a permanent rebuild commissioned; the inquiry, rebuilding and financial consequences lie beyond the story."
+      "note": "North Rise's paid workshop and lift office retain the ability to cast and cut a replacement crown gear and reset its pedestal, but the work takes days. A surviving boiler, tested brakes, salvaged parts and measured sacrificial cloth support one five-minute evacuation. The emergency invoice is paid and a rebuild commissioned by noon; lost wage reserves and the inquiry remain real consequences. This material civic setting may overlap Avarnth's optical administration without sharing its government, parts or suppliers."
     },
     "the-ordinary-slime": {
       "window": {
@@ -3151,7 +3151,7 @@
         "start": 64.97,
         "end": 66.37
       },
-      "note": "Hearthchain preserves a century of maintenance through skilled work and diagnostic tools. A temporary splice remains for six years because its replacement was falsely recorded as complete. Correcting attribution enables the immediate repair, while future maintenance and judgment remain separate obligations."
+      "note": "Hearthchain's maintained lift and suspended terrace depend on skilled load control, rail signals, speaking tubes and a service blade that repeats stored strain patterns. A temporary splice survives six years while its promised replacement remains undone and the ledger falsely records completion. The current repair stabilizes the adjacent tooth and transfers ongoing maintenance to Kosca, while Odmara remains independent. This working material institution may overlap Avarnth without proving a shared guild, naming mechanism or manufacturing lineage."
     },
     "four-crowns-in-hiding": {
       "window": {
@@ -4235,9 +4235,12 @@
       "The deep signal continues without a connected command path; medical care and Varai's relief tug remain ahead"
     ],
     "blade-calls-your-name": [
-      "An old sky-iron quarry saw survives through a century of repairs in a service blade",
-      "A temporary splice remains in place for six years",
-      "A returning material fault exposes both the repair history and the guild's record"
+      "A sky-iron quarry saw contributes material to a service blade with a century of repairs. Its labels and strain patterns require interpretation by workers; the tool does not choose a worker or judge a claim.",
+      "Six years earlier, Odmara makes a flexible emergency splice under her recently chosen work-name. Felrin records a full replacement under his own name; the promised replacement does not occur.",
+      "The present alarm repeats Odmara's stored pattern. With thirty-eight minutes before the full counterweight descends, load tests distinguish the lift guide from the terrace anchors while lower rows evacuate.",
+      "The splice still holds, but years of sideways flex have displaced the adjacent tooth. Felrin's forced test chips a sacrificial seat; separate lead and load tests identify the current cutting path.",
+      "Odmara diagnoses and cuts, Felrin seats the wedge, Kosca controls the load, and Yevet records the separate roles. Four stages of full counterweight load settle with the splice holding and the adjacent tooth clear.",
+      "Kosca demonstrates the new load pattern and accepts maintenance; Odmara releases the prior label with the mechanism's stud. Independent status is recorded, the earlier omission remains referred for judgment, and further readings and an overnight watch remain necessary."
     ],
     "the-star-that-followed-the-bells": [
       "A living ship arrives with damaged route memory and a wounded field vane",
@@ -4791,6 +4794,14 @@
       "The royal writ changes who authorized the raid without erasing the dragon's attacks. Daziel's coupled spear and quarry brakes have created a lethal release sequence that worsening loads force Imer to revise.",
       "One short fire burst scorches the net and injures Hovan. Daziel abandons the killing shot, dumps the spear and helps release the wing loads; Thelrax refuses treatment and takes the cleared downslope route.",
       "At dawn the dragon clears the ridge with an injured throat; safe onward flight is unknown. Daziel ends pursuit and keeps the writ for her mother, while the three workers disable the remaining cocked mechanism before crews return."
+    ],
+    "the-five-minute-warranty": [
+      "Before the blast, Director Vick rejects Kezli's pedestal-maintenance bid. The kiln explosion then breaks the crown gear, displaces the footing and buries the stairs, leaving forty people below.",
+      "Independent checks preserve the boiler, cages, cables and brakes. Replacement manufacture remains available on a scale of days; local tests support a temporary five-minute friction drive under four specified passenger loads.",
+      "The council requests the wage strongbox first. The extra journey would leave ten people below, so Vick signs and transmits a witnessed priority for all four passenger loads.",
+      "Operation begins at clutch engagement. Five colored cloth layers measure wear; a prepared pressure correction during the second load preserves the tested running conditions.",
+      "All forty people reach the upper landing. Bare iron triggers the declared shear, roller withdrawal, steam dump and brake sequence; the spent drive cannot be restarted within its warranty.",
+      "The lower station and strongbox are destroyed afterward. By noon Vick records her decisions, pays the emergency invoice from the upper reserve and commissions a permanent rebuild with independent inspectors. Construction and the inquiry remain ahead."
     ]
   },
   "storySpans": {
@@ -5025,9 +5036,9 @@
       "note": "Forty-six years of deferred divine obligations unfold among changing roads, worship habits and ordinary medical services. The debts do not make her immortal."
     },
     "blade-calls-your-name": {
-      "start": "A quarry-saw alloy",
-      "end": "A service blade under repair",
-      "note": "A century of repairs carries the old alloy into a later service blade. A six-year temporary splice fails in the present; the material’s history is longer than the current fault."
+      "start": "A century of repairs and a splice left for six years",
+      "end": "A stable full load and a witnessed maintenance handover",
+      "note": "The blade contains older quarry-saw alloy and successive repairs. Odmara's temporary splice was falsely recorded as a full replacement six years earlier. A thirty-eight-minute warning precedes the scheduled full load; afterward, a new diagnostic pattern and named responsibilities are recorded. Residents' return is conditional on a second reading, a watch remains necessary through morning, and the prior omission still awaits judgment."
     },
     "the-foundations-remember": {
       "start": "A claimed discovery beneath Line Zero",
@@ -5453,6 +5464,11 @@
       "start": "Earlier training and the spring's summer failure",
       "end": "A shared account after one night's fight",
       "note": "Two previous disruptions of the water carriers precede the lion's early arrival on the witnessed night. The seven lights are spent within this one encounter. Kletho's interrupted count does not measure the final hold reliably; after the magic expires, Myrine continues by ordinary strength. The council's response to their account remains ahead."
+    },
+    "the-five-minute-warranty": {
+      "start": "A deferred maintenance bid and a morning kiln blast",
+      "end": "A spent rescue rig and a paid rebuild order by noon",
+      "note": "Five minutes measures operation from clutch engagement, after diagnosis, testing and construction. Replacement estimates of six days for the gear and perhaps ten for the pedestal describe work still ahead. Forty passengers escape before the lower station and strongbox are destroyed; the upper reserve pays the emergency invoice, while the rebuild and wider financial consequences remain unfinished."
     }
   },
   "storyEvidence": {
