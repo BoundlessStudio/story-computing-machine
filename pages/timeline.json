@@ -1420,7 +1420,7 @@
       "id": "cycle-04-human-refoundings",
       "title": "The Human Refoundings",
       "eyebrow": "Ordinary modernity and later material civilizations.",
-      "description": "A wholly magicless modern interval is followed in the reconstruction by further material societies. Home invention, bodily repair, reconstructed antiquity, artificial persons and inhabited cities have different local histories. A technically equipped public defender and an engineered body exchange belong to this proposed material reach alongside civic weather work. Civilian orbital freight and a coercive military embodiment program occupy later selected positions without sharing an established government or manufacturer. These capacities do not supply one ladder of progress or one worldwide political settlement.",
+      "description": "A wholly magicless modern interval is followed in the reconstruction by further material societies. Merneith's sixty-year rise uses established genomic, energy and water systems to build an empire governing nearly four people in five; its eventual fate is unrecorded. Personal repair, altered bodies and inhabited cities occupy other selected settings with their own histories. A technically equipped public defender, an engineered body exchange and civic weather work belong to this proposed material reach. Civilian orbital freight and a coercive military embodiment program occupy later selected positions. No common government, manufacturer or transition from Merneith's rule is established.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1503,10 +1503,10 @@
           "id": "event-the-ten-thousand-year-queen",
           "title": "The Queen After Ten Thousand Years",
           "magicState": "long-dark",
-          "description": "Ancient genetic sources → Sixty years of a reconstructed dynasty.",
+          "description": "An established technical world and reconstructed adults → The sixtieth-year accession and Hatshepsut's departure.",
           "context": [
-            "Roughly ten thousand years after the last pharaoh’s entombment, reconstructed adults become participants in Merneith’s sixty-year infrastructure empire. This proposed later refounding shares an orbital interval with ordinary modernity; it supplies neither an exact gap from that modernity nor restored ancient minds.",
-            "The awakening is roughly ten thousand years after the last pharaoh’s entombment, followed by sixty local years. The ancient genetic sources have their own dates; no original memories are recovered."
+            "A mature society already has genomic reconstruction, accelerated education, orbital knowledge, municipal governments and working water and energy systems when Merneith awakens. Her union and empire expand through repaired networks, compacts, warfare and costly exits, eventually governing nearly four people in five. This selected material refounding depends on inherited technical capacity. The neighboring stories' governments and any later end to her empire remain unestablished.",
+            "Roughly ten thousand years separate the last pharaoh's entombment from the awakening; nineteen years refer to Merneith's reconstruction before it. Imperial and compact years have their own reference points. The final accession is sixty years after her awakening; the ancient donors' lives have separate dates."
           ],
           "sequenceNote": "Proposed after The Mercy Circuit and before A Little More Room. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1908,10 +1908,10 @@
           "id": "event-the-lights-beyond",
           "title": "The Lights Beyond",
           "magicState": "long-dark",
-          "description": "The wall closes after the horde defeat → A commission crosses five hundred years later.",
+          "description": "A five-century northern closure → The fifth-morning report at the Wall.",
           "context": [
-            "Five centuries of enforced separation have hidden an inhabited orc city only two ridges away. Its ordinary transport, workshops and leisure defeat the scouts' inherited enemy image. This proposed later placement joins the ground-and-orbit stories through living contemporaries concealed by official history, rather than dating the human settlement by its apparent technology.",
-            "The enclosed society and its industrial neighbor coexist; their different tools are not sequential world ages."
+            "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. These simultaneous societies support the selected period of uneven regional knowledge. The newly traversed route permits observation and return; wider geography, further contact and any common history with the orbital settlements remain unresolved.",
+            "The commission allows six days, ending at noon. The scouts see Roskell at dusk on the second day, leave the next sunrise and return on the fifth morning. The northern travel ban does not establish isolation in every direction or date the rest of the world's societies."
           ],
           "sequenceNote": "Proposed after the overlapping rural-service windows and before A Question for the Sky. The scouts' five-century closed pass separates simultaneous neighbors; it does not make either preceding settlement their ancestor.",
           "stories": [
@@ -3308,7 +3308,7 @@
         "start": 41.88,
         "end": 43.28
       },
-      "note": "Roughly ten thousand years after the last pharaoh’s entombment, reconstructed adults become participants in Merneith’s sixty-year infrastructure empire. This proposed later refounding shares an orbital interval with ordinary modernity; it supplies neither an exact gap from that modernity nor restored ancient minds."
+      "note": "A mature society already has genomic reconstruction, accelerated education, orbital knowledge, municipal governments and working water and energy systems when Merneith awakens. Her union and empire expand through repaired networks, compacts, warfare and costly exits, eventually governing nearly four people in five. This selected material refounding depends on inherited technical capacity. The neighboring stories' governments and any later end to her empire remain unestablished."
     },
     "terms-at-four": {
       "window": {
@@ -3427,7 +3427,7 @@
         "start": 49.3,
         "end": 50.7
       },
-      "note": "Five centuries of enforced separation have hidden an inhabited orc city only two ridges away. Its ordinary transport, workshops and leisure defeat the scouts' inherited enemy image. This proposed later placement joins the ground-and-orbit stories through living contemporaries concealed by official history, rather than dating the human settlement by its apparent technology."
+      "note": "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. These simultaneous societies support the selected period of uneven regional knowledge. The newly traversed route permits observation and return; wider geography, further contact and any common history with the orbital settlements remain unresolved."
     },
     "the-city-of-eleven-foundations": {
       "window": {
@@ -3824,9 +3824,13 @@
       "The being remains physically enclosed. Cleo's approaching departure leaves later contact uncertain."
     ],
     "the-lights-beyond": [
-      "The Great Wall keeps one population isolated for five hundred years",
-      "Scouts enter a neighboring city with electricity, trams and seaplanes",
-      "Both societies remain inhabited during the same journey"
+      "Five hundred years after the horde's defeat, human law still closes the northern pass. Glaciers, broken bridges and an old road reinforce that barrier; the story does not establish the human population's contacts in every other direction.",
+      "Haskett and Dunley have scouted the southern slopes together for eleven years and saved toward an inn. An anniversary commission, approved after three councils and most of the summer, permits six days beyond the Wall.",
+      "At dusk on the second day, they discover Roskell beyond the ridges. Electric lighting, controlled traffic, shops and passenger aircraft belong to an already functioning city whose language and everyday practices they must learn through observation.",
+      "Pirvek offers a paid harbor circuit and demonstrates the aircraft's belts and safe footing. The scouts store their weapons and keep the cupboard key. Haskett chooses the flight after Dunley admits that he wants to postpone committing his share of their savings.",
+      "The flight circles the island and returns to the dock. Maintained aircraft, freight work, passengers, recreation and sleeping households reveal lives continuing independently of the scouts' discovery.",
+      "Leaving at sunrise, the siblings measure the return road and mark fords and a way around the scree. They reach the Wall on the fifth morning, before the commission's deadline.",
+      "They separate their savings and retain their own choices about the inn. Their report gives the captain a firsthand account of the road and flight; later visits, a reopened border and changes to public teaching are not shown."
     ],
     "where-the-white-elk-went": [
       "A hall becomes farm walls; the walls disappear into an orchard.",
@@ -4256,10 +4260,13 @@
       "A slower relief craft launches toward a refuge with perhaps forty days of air and a thirty-six-day journey; arrival is unshown"
     ],
     "the-ten-thousand-year-queen": [
-      "Roughly ten thousand years after the last pharaoh, adults are reconstructed from fragmentary ancient DNA",
-      "Four years after the Vault, linked water and energy works extend Merneith's authority",
-      "Across sixty years, the New Egyptian Empire expands over most of the world",
-      "The public claims a returned royal house; the reconstructed people possess no original pharaonic memories"
+      "The Giza program reconstructs adults from fragmentary DNA and modeled gaps, using accelerated growth and modern teaching. Nineteen years of work precede Merneith's awakening. She chooses her name, refuses the museum role and examines existing municipal water and power problems; none of the reconstructed people remembers an ancient life.",
+      "Four years after the Vault, purchased and repaired solar and water works connect river cities through a shared Nile spine. The union depends on existing crews, councils and contracts. Hatshepsut corrects an outdated survey to preserve inhabited houses before the final river council joins.",
+      "Ramesses awakens in the empire's twelfth year. A coast accepts a twelve-year weather and defense compact with promised votes and training. War damages the western spine; the response combines military relief, a water league and redundant channels in later designs.",
+      "At the compact's twelfth year, the coast votes to leave. Merneith delays withdrawal while a separate lattice is built because shared defenses and reservoirs cross borders. The coast leaves nineteen months late; its neighbors stay, and the empire continues.",
+      "Across later decades the empire grows through treaties, campaigns and essential services. Other reconstructed rulers choose military, private or ordinary working lives under an existing freedom law, while their images still serve the imperial pageant. Technical dependence and personal freedom have different limits.",
+      "Sixty years after Merneith awakens, the equatorial accessions bring nearly four people in five under her crown. Their agreements are signed before the noon ceremony. Hatshepsut's office has nine days left, but she refuses the planned public renewal and resigns.",
+      "Hatshepsut leaves before the transmission. The broadcast shows two rulers and keeps her empty throne outside the frame; the empire and its utilities continue. Later, Merneith brings Ramesses' chair beside her own for a private audience, without a shown change to the world's government."
     ],
     "the-shadow-that-nested": [
       "An unregistered eight-sector sunshade outlasts its original service",
@@ -4962,9 +4969,9 @@
       "note": "Almost two centuries of earlier care precede these eighteen human years; that career is not the age of this home or of the whole society. The twins' departure is witnessed, while a later performance visit remains a promise."
     },
     "the-ten-thousand-year-queen": {
-      "start": "Ancient genetic sources",
-      "end": "Sixty years of a reconstructed dynasty",
-      "note": "The awakening is roughly ten thousand years after the last pharaoh’s entombment, followed by sixty local years. The ancient genetic sources have their own dates; no original memories are recovered."
+      "start": "An established technical world and reconstructed adults",
+      "end": "The sixtieth-year accession and Hatshepsut's departure",
+      "note": "Roughly ten thousand years separate the last pharaoh's entombment from the awakening; nineteen years refer to Merneith's reconstruction before it. Imperial and compact years have their own reference points. The final accession is sixty years after her awakening; the ancient donors' lives have separate dates."
     },
     "thirteen-years-borrowed": {
       "start": "The first displaced awakening, thirteen years earlier",
@@ -5122,9 +5129,9 @@
       "note": "The copied survey disputes whether earlier populations were bred, built or repaired. Tests begin the first evening and continue next morning; four days of instruction and a missed-meal setback precede the explicitly dated seventh-morning wagon crisis. The later market agreement starts a six-week trial whose completion is unshown."
     },
     "the-lights-beyond": {
-      "start": "The wall closes after the horde defeat",
-      "end": "A commission crosses five hundred years later",
-      "note": "The enclosed society and its industrial neighbor coexist; their different tools are not sequential world ages."
+      "start": "A five-century northern closure",
+      "end": "The fifth-morning report at the Wall",
+      "note": "The commission allows six days, ending at noon. The scouts see Roskell at dusk on the second day, leave the next sunrise and return on the fifth morning. The northern travel ban does not establish isolation in every direction or date the rest of the world's societies."
     },
     "the-trouble-with-tuesdays": {
       "start": "The grandfather’s card-game contract",
@@ -6169,9 +6176,9 @@
       "from": "the-gentlest-terror",
       "to": "a-little-winter-for-sale",
       "kind": "historical",
-      "label": "Dragon service beyond hereditary alliance",
-      "note": "Proposed change in regional political economy: noble-dragon agreements exchange watch, rescue, nesting care and water access, while Qarsis hires a voluntarily migrant ice dragon for bounded municipal work among condensers and trade routes. The comparison supports a later reach where some dragon services travel as paid expertise. It does not claim all alliances ended or that Urumet descends from the earlier partners.",
-      "ordering": "before",
+      "label": "Different obligations sustain dragon work",
+      "note": "Ersene's noble houses exchange maintained habitat, waterworks and care for a dragon's chosen watch; Mossback continues protecting people after his alliance ends. Qarsis already pays Urumet for bounded cold work and already has caravan freight. Its new northern route is commissioned but unfinished. The selected eras compare different regional economies of living service. Neither incident establishes when paid service began, and their relative dates and any transfer of these practices remain unknown.",
+      "ordering": "none",
       "basis": "proposed"
     },
     {
@@ -6665,13 +6672,13 @@
         },
         {
           "cycleId": "cycle-04-human-refoundings",
-          "title": "Power is built in matter",
-          "note": "Perfect zero leaves rulers dependent on material institutions. Merneith's utilities support an empire, while a different state's armed platform and courts become the instruments of a local confrontation. Ancient royal identities supply public meaning without restored minds or divine power.",
+          "title": "Material power and ancient legitimacy",
+          "note": "Merneith combines existing technical capacity with a claimed return of ancient royalty; water, energy and defense bind most of her world into an empire. Another state's armed platform and courts shape a separate confrontation. These are material institutions within perfect zero. Merneith's reconstructed adults retain no ancient memories, and the story leaves their objective divine status unestablished.",
           "anchors": [
             "the-ten-thousand-year-queen",
             "terms-at-four"
           ],
-          "kind": "absence"
+          "kind": "proposed"
         },
         {
           "cycleId": "cycle-05-divided-world-joined-sky",
@@ -6916,7 +6923,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Antiquity is reconstructed",
-          "note": "Merneith builds a new empire through a reconstruction of ancient identity and contemporary technical systems. Her tomb's ten-thousand-year interval and later sixty-year rise remain local spans; they do not date every material civilization.",
+          "note": "The Giza program reconstructs adults from fragmentary DNA and modern teaching. The roughly ten-thousand-year interval runs from the last pharaoh's entombment; Merneith's own ancient genetic source has a different date. Her sixty shown years begin at awakening. Ancient identity legitimizes a new empire, while Hatshepsut's resignation changes the public tableau without ending that empire or recovering the original minds.",
           "anchors": [
             "the-ten-thousand-year-queen"
           ],
