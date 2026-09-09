@@ -1721,7 +1721,7 @@
       "id": "cycle-05-divided-world-joined-sky",
       "title": "The Divided World and the Joined Sky",
       "eyebrow": "Political falls and surviving expertise before the joined sky.",
-      "description": "Inherited works, regional wars and functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Nerava's nearby legion grants quarter within a material border campaign; Anvek's district suffers a separate conflict while residents and services continue. Their different equipment does not supply one order of development or one war. Other communities keep incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch occupies a proposed later orbital continuation without a known connection to its signal. New magic begins after a separate, unmeasured interval.",
+      "description": "Inherited works, regional wars and functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Caravan journeys, Nerava's campaign and a city's ferry escape now share a possible period of working travel economies: loads, provisions, paid skills, road access and uneven services constrain their different journeys. The managed city already connects to less comprehensively served roads; its technology does not date every other region. Anvek's district has a separate conflict while residents and services continue. Their geographic connections, governments and relative dates remain unestablished. Other communities keep incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch occupies a proposed later orbital continuation without a known connection to its signal. New magic begins after a separate, unmeasured interval.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1802,16 +1802,16 @@
           "magicState": "long-dark",
           "description": "Less than an hour of lost awareness → One recovery night before a paid trial.",
           "context": [
-            "Flooding, dangerous basin air and a failed rope maneuver bring a surface outrider, a serpent queen and other rescuers into a joint escape. Warnings, bodily capacities and route knowledge remain local and fallible. A six-day paid trial is agreed only after reaching fresh air, with one recovery night first and the outer road still flooded.",
+            "A surface outrider, their cousin and a rope carrier meet a serpent queen whose cave warnings failed to turn the visitor from the basin. Their joint escape depends on route knowledge, rescue gear, physical strength and negotiated help; the paid six-day warning survey remains ahead, after recovery and a safe surface path. Its proposed material period overlaps caravan freight, a regional campaign and a managed city with roads beyond its boundary. This groups functioning travel economies without establishing a common route, government, date or bodily origin.",
             "The six-day job remains ahead, subject to a safe surface path and the outrider's right to leave. The witnessed second carry does not prove every earlier event or settle accusations about other travelers."
           ],
-          "sequenceNote": "Proposed after The Last Monster, with Late for Dinner's wider window overlapping this recovery night. Neither their shared interval nor their different bodies establishes a common settlement or a mutual order. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed in the same possible material period as Late for Dinner, The Weight They Never Counted and The Driver the City Could Not See. Their journeys remain distinct, and the wider window expresses uncertain placement, not a longer rescue or an established common trade route.",
           "stories": [
             "coiled-together"
           ],
           "window": {
             "start": 25.8,
-            "end": 27.2
+            "end": 38.95
           }
         },
         {
@@ -1838,16 +1838,34 @@
           "magicState": "long-dark",
           "description": "An undated bodily inheritance and an eighteenth birthday → The first shift under a six-week trial.",
           "context": [
-            "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and functioning technical knowledge: weights, rigging, nutrition, axle limits and load plans are measured together. Its proposed V position concerns a working regional economy with an older bodily history; neither that history's makers nor a descent from seedglass clinics is identified.",
+            "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and working knowledge of weights, rigging, nutrition and axle limits. Its proposed period may overlap the cave-road rescue, Nerava's campaign and the city-edge ferry: paid skills, provisioning and road authorities shape each journey. The survey's makers and method remain disputed; neither a route linking these settlements nor descent from seedglass clinics is established.",
             "The copied survey disputes whether earlier populations were bred, built or repaired. Tests begin the first evening and continue next morning; four days of instruction and a missed-meal setback precede the explicitly dated seventh-morning wagon crisis. The later market agreement starts a six-week trial whose completion is unshown."
           ],
-          "sequenceNote": "Proposed within Late for Dinner's wider possible interval and before What She Remembered of Peace. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
+          "sequenceNote": "Proposed in the same possible material period as the cave-road rescue, Nerava's campaign and the city-edge ferry. The interval also overlaps Anvek's civilian rescue. The caravan's local days remain separate from these uncertain regional dates.",
           "stories": [
             "the-weight-they-never-counted"
           ],
           "window": {
-            "start": 31.68,
-            "end": 33.08
+            "start": 25.8,
+            "end": 38.95
+          }
+        },
+        {
+          "id": "event-the-driver-the-city-could-not-see",
+          "title": "The Driver the City Could Not See",
+          "magicState": "long-dark",
+          "description": "A coin fare at twelve minutes past midnight → A ferry landing at dawn.",
+          "context": [
+            "A licensed manual cab works inside a city of autonomous traffic and municipal android labor, then escapes by cable ferry onto roads with different fuel, charging, registry and mapping coverage. Regional variation already exists within this one night. Its proposed material period overlaps the caravan journeys and Nerava's campaign; sophisticated city control need not follow or replace animal freight elsewhere. The proposed overlap establishes no shared city, road, government or actual relative date.",
+            "One night is enough to escape the city network, not to establish a new home or livelihood. Restoring the fuse would expose the missing journey; the chosen roads still require fuel, charging and decisions about registry gates."
+          ],
+          "sequenceNote": "Proposed across the same possible material period as Coiled Together, Late for Dinner and The Weight They Never Counted, also overlapping Anvek's civilian rescue. These working societies may coexist with different infrastructure; their exact dates, geographic links and political relationships remain unestablished.",
+          "stories": [
+            "the-driver-the-city-could-not-see"
+          ],
+          "window": {
+            "start": 25.8,
+            "end": 38.95
           }
         },
         {
@@ -1859,31 +1877,13 @@
             "Placed among the later divided material societies, this is a ground-city history of civic life interrupted by regional fighting. Anvek has already gained an appeal, independent technical help and years of ordinary home life; other institutions and residents still need her chosen assistance. This position does not make the war a worldwide collapse, a sequel to Loxan's military program or a consequence of the much later proposed fast-road burn.",
             "One home is destroyed, but neighbors, responders and practical institutions continue. Anvek's freedom has its own history; it does not establish a universal emancipation sequence for artificial people."
           ],
-          "sequenceNote": "Proposed after The Weight They Never Counted and before The Driver the City Could Not See. Different body histories and functioning material communities occupy this reach; no shared city, war or political regime connects the neighboring events.",
+          "sequenceNote": "Proposed within the wider possible period of the caravan journeys, Nerava's campaign and the city-edge ferry. Anvek's functioning district and civilian life have their own prior history; the overlap does not identify a common war, body origin, city or political regime.",
           "stories": [
             "what-she-remembered-of-peace"
           ],
           "window": {
             "start": 35.1,
             "end": 36.5
-          }
-        },
-        {
-          "id": "event-the-driver-the-city-could-not-see",
-          "title": "The Driver the City Could Not See",
-          "magicState": "long-dark",
-          "description": "A coin fare at twelve minutes past midnight → A ferry landing at dawn.",
-          "context": [
-            "Proposed in the later Long Dark, while other communities possess narrower accounts of their world. This city still operates sophisticated registration, android labor and transport controls; its existence prevents local loss of knowledge elsewhere from becoming a global technological disappearance. Kaith and Arovi escape one jurisdiction under immediate fuel and charging constraints. No common city or political succession is established.",
-            "One night is enough to escape the city network, not to establish a new home or livelihood. Restoring the fuse would expose the missing journey; the chosen roads still require fuel, charging and decisions about registry gates."
-          ],
-          "sequenceNote": "Proposed after What She Remembered of Peace and before the overlapping windows for Every Flower She Knew and The Ordinary Slime. Material societies with different tools remain contemporary possibilities, not one ladder of development.",
-          "stories": [
-            "the-driver-the-city-could-not-see"
-          ],
-          "window": {
-            "start": 37.55,
-            "end": 38.95
           }
         },
         {
@@ -3186,17 +3186,17 @@
     },
     "the-weight-they-never-counted": {
       "window": {
-        "start": 31.68,
-        "end": 33.08
+        "start": 25.8,
+        "end": 38.95
       },
-      "note": "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and functioning technical knowledge: weights, rigging, nutrition, axle limits and load plans are measured together. Its proposed V position concerns a working regional economy with an older bodily history; neither that history's makers nor a descent from seedglass clinics is identified."
+      "note": "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and working knowledge of weights, rigging, nutrition and axle limits. Its proposed period may overlap the cave-road rescue, Nerava's campaign and the city-edge ferry: paid skills, provisioning and road authorities shape each journey. The survey's makers and method remain disputed; neither a route linking these settlements nor descent from seedglass clinics is established."
     },
     "coiled-together": {
       "window": {
         "start": 25.8,
-        "end": 27.2
+        "end": 38.95
       },
-      "note": "Flooding, dangerous basin air and a failed rope maneuver bring a surface outrider, a serpent queen and other rescuers into a joint escape. Warnings, bodily capacities and route knowledge remain local and fallible. A six-day paid trial is agreed only after reaching fresh air, with one recovery night first and the outer road still flooded."
+      "note": "A surface outrider, their cousin and a rope carrier meet a serpent queen whose cave warnings failed to turn the visitor from the basin. Their joint escape depends on route knowledge, rescue gear, physical strength and negotiated help; the paid six-day warning survey remains ahead, after recovery and a safe surface path. Its proposed material period overlaps caravan freight, a regional campaign and a managed city with roads beyond its boundary. This groups functioning travel economies without establishing a common route, government, date or bodily origin."
     },
     "the-last-monster": {
       "window": {
@@ -3368,10 +3368,10 @@
     },
     "the-driver-the-city-could-not-see": {
       "window": {
-        "start": 37.55,
+        "start": 25.8,
         "end": 38.95
       },
-      "note": "Proposed in the later Long Dark, while other communities possess narrower accounts of their world. This city still operates sophisticated registration, android labor and transport controls; its existence prevents local loss of knowledge elsewhere from becoming a global technological disappearance. Kaith and Arovi escape one jurisdiction under immediate fuel and charging constraints. No common city or political succession is established."
+      "note": "A licensed manual cab works inside a city of autonomous traffic and municipal android labor, then escapes by cable ferry onto roads with different fuel, charging, registry and mapping coverage. Regional variation already exists within this one night. Its proposed material period overlaps the caravan journeys and Nerava's campaign; sophisticated city control need not follow or replace animal freight elsewhere. The proposed overlap establishes no shared city, road, government or actual relative date."
     },
     "the-foundations-remember": {
       "window": {
@@ -6652,6 +6652,16 @@
       "note": "Proposed overlap: Miles and Luz depend on building access, ordinary water and electrical systems, and professional repairs. Cira's separate instrument trade depends on calibration, client property, hired transport and facility staff. These working economies can coexist around living abilities that cannot replace their labor and equipment. No actual customer, supplier, landlord, city, power origin or mutual date is shared by implication.",
       "ordering": "none",
       "basis": "proposed"
+    },
+    {
+      "id": "freight-beyond-the-city-lanes",
+      "from": "the-weight-they-never-counted",
+      "to": "the-driver-the-city-could-not-see",
+      "kind": "historical",
+      "label": "Working roads beyond the city lanes",
+      "note": "Proposed overlap: the caravan's permits, load plans, provisions and negotiated pay sustain animal freight, while Kaith's city combines a licensed manual cab with autonomous traffic and a ferry onto unevenly served roads. Different transport arrangements can occupy a common material period. Each journey shows practical limits on movement and authority; no actual road, supplier, government, transmission of technology or mutual date links the stories.",
+      "ordering": "none",
+      "basis": "proposed"
     }
   ],
   "historyThreads": [
@@ -6788,9 +6798,9 @@
         {
           "cycleId": "cycle-05-divided-world-joined-sky",
           "title": "A lost route does not end technical life",
-          "note": "Inherited mine works still need skilled operators while other material communities retain different knowledge. The First People's fast-road burn is one explicit transport rupture. The later proposed Jupiter watch keeps local orbital service operating with staff, repairs and finite equipment, without a known link to the burn or its signal.",
+          "note": "Inherited mine works need skilled operators. Within another proposed overlapping period, caravans depend on loads, food, paid expertise and road permissions while a managed city connects by ferry to roads with uneven fuel, charging and registration coverage. Local sophistication does not establish a global stage or a shared route between these stories. The First People's fast-road burn is a separate explicit transport rupture. The later proposed Jupiter watch keeps orbital services operating without a known link to the burn or its signal.",
           "anchors": [
-            "a-crown-for-the-endless-fire",
+            "the-driver-the-city-could-not-see",
             "the-first-people",
             "last-watcher-of-jupiter"
           ],
