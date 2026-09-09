@@ -120,10 +120,10 @@
           "id": "event-save-that-dragon",
           "title": "One Night's Mercy",
           "magicState": "old-magic",
-          "description": "Royal copper extraction, quarry works and a dismissed forge engineer bring the dragon into a territorial resource conflict.",
+          "description": "Earlier quarry work and the authorized nest raid → Dawn escape and the remaining trigger disabled.",
           "context": [
-            "Royal copper extraction, quarry works and a dismissed forge engineer bring the dragon into a territorial resource conflict. That context supports an old frontier placement even though the nature of its breath is unclassified.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "An existing quarry, a forge levy, a dismissed engineer and a royal copper survey precede the rescue. Urrava's concealed authorization and Daziel's dangerous reuse of ordinary lifting equipment make this a local history of extraction and accountability. The older placement remains proposed; the quarry is not established as a frontier, and the dragon's bounded fire does not identify its underlying system or date the kingdom.",
+            "Imer built the inspection route when Daziel was a child. The occupied shelter was burned twelve days after her husband's death; the gap from that attack to this rescue is unspecified. Daziel has held the lever for six wet hours when they meet. The night ends with a limited escape and disarmed machinery, not recovered royal trust or a settled human-dragon peace."
           ],
           "sequenceNote": "Proposed after The Ninety-Year Barrier and before The Unfinished Sunset. No common dragon, polity, magical system or measured interval follows from those positions.",
           "stories": [
@@ -156,36 +156,18 @@
           "id": "event-the-lions-last-constellation",
           "title": "The Lion's Last Constellation",
           "magicState": "old-magic",
-          "description": "A failed spring makes the remaining watercourse a public necessity; a dangerous lion drives its carriers away.",
+          "description": "Earlier training and the spring's summer failure → A shared account after one night's fight.",
           "context": [
-            "Nemea's council requires a witness for a seven-light deed but excludes that witness from heroic participation. A failing spring makes protection urgent; Myrine and Kletho survive by departing from the authorized heroic account. This is one civic arrangement for public power, not a generic origin of magical girls.",
-            "A failed spring makes the remaining watercourse a public necessity; a dangerous lion drives its carriers away. A council witness must name visible actions, while authorized praise wastes one of seven lights. Myrine and Kletho fight together; the final hold continues after its magical support expires. Their joint account challenges what the council will credit, without establishing an enacted reform."
+            "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. The proposed older active-magical position is retained; this local institution neither founds public heroism nor dates another city's powers.",
+            "Two previous disruptions of the water carriers precede the lion's early arrival on the witnessed night. The seven lights are spent within this one encounter. Kletho's interrupted count does not measure the final hold reliably; after the magic expires, Myrine continues by ordinary strength. The council's response to their account remains ahead."
           ],
-          "sequenceNote": "Proposed after The Unfinished Sunset and before Late for Dinner. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Proposed after The Unfinished Sunset and before The Last Thing I Could Fix. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-lions-last-constellation"
           ],
           "window": {
             "start": 27.06,
             "end": 28.18
-          }
-        },
-        {
-          "id": "event-late-for-dinner",
-          "title": "Late for Dinner",
-          "magicState": "old-magic",
-          "description": "Wagons, crossbows, closed fields and burned bridges constrain an invaded territory and a three-thousand-person legion.",
-          "context": [
-            "Wagons, crossbows, closed fields and burned bridges constrain an invaded territory and a three-thousand-person legion. Its ordinary material campaign belongs among the proposed older marcher economies without requiring magic in the incident.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
-          ],
-          "sequenceNote": "Proposed after The Lion's Last Constellation and before The Last Thing I Could Fix. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "late-for-dinner"
-          ],
-          "window": {
-            "start": 29.3,
-            "end": 30.42
           }
         },
         {
@@ -197,7 +179,7 @@
             "A court-appointed hero refuses armor designed to divert danger onto protectors. Hadrik redesigns the local device around chosen assistance, while neglected reservoir works still require ordinary craft and a crew. Its place here concerns the organization of heroic duty, not merely the smith's occupation.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after Late for Dinner and before The First Call. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Lion's Last Constellation and before The First Call. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
             "the-last-thing-i-could-fix"
           ],
@@ -450,31 +432,13 @@
             "A professional caregiver with almost two centuries of experience raises her first human twins from six weeks to eighteen within working households, coach routes, wage labor, bakery training and theater. Those services continue as the twins choose their own work. The older placement is retained as one possible inhabited period; neither elf physiology nor the absence of a depicted spell supplies a date or population origin.",
             "Almost two centuries of earlier care precede these eighteen human years; that career is not the age of this home or of the whole society. The twins' departure is witnessed, while a later performance visit remains a promise."
           ],
-          "sequenceNote": "Proposed after The Friends I Built and before A Crown in the Bargain. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Friends I Built and before The Night Harvest. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
             "only-eighteen"
           ],
           "window": {
             "start": 71.82,
             "end": 72.94
-          }
-        },
-        {
-          "id": "event-a-crown-in-the-bargain",
-          "title": "A Crown in the Bargain",
-          "magicState": "old-magic",
-          "description": "Tareya makes marriage, territorial jurisdiction and emergency road aid separate choices.",
-          "context": [
-            "Tareya makes marriage, territorial jurisdiction and emergency road aid separate choices. Independent titles, votes, engineers and debt terms make her bargain a close political neighbor to sanctuary compacts and competing courts; the optical register is a tool within that society.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
-          ],
-          "sequenceNote": "Proposed after Only Eighteen and before The Night Harvest. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "a-crown-in-the-bargain"
-          ],
-          "window": {
-            "start": 74.06,
-            "end": 75.18
           }
         },
         {
@@ -486,7 +450,7 @@
             "Three months of corpse processing support roofs, rope, fuel, clinic supplies and debt. A six-night investigation exposes the preserved nodes' directional effect; destroying the stock changes handling while ordinary salvage and unpaid obligations continue. Its category and position relative to either magical boundary remain unknown, so this older trade placement stays proposed.",
             "Three months of local industry, followed by a six-night investigation. The fighters bring handling knowledge the local industry lacks; their origin and prior history remain unknown."
           ],
-          "sequenceNote": "Proposed after A Crown in the Bargain and before The Way Around. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after Only Eighteen and before The Way Around. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
             "the-night-harvest"
           ],
@@ -1123,7 +1087,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. These institutions have separate prior histories. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, ordinary courts, hereditary Houses, working cities, surveillance and maritime systems occupy different material settings. Orison’s technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. These institutions have separate prior histories. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1315,13 +1279,31 @@
             "Placed provisionally in a Long Dark urban society whose hereditary Houses administer credit, votes and burial through ordinary records. A childhood purge still shapes the living generation; a new cane prompts testimony without magical authentication or restoration of the lost House. These material institutions can exercise power during the zero. An old-magical-era setting is still possible; gaslight and noble dress alone do not decide the date.",
             "Aldous's childhood removal, fifty-three years carrying a cane, forty-six Hall gatherings and the replica's eleven weeks are separate measures. Living people preserve what the institutional roll excludes. Their testimony changes this evening without restoring the House or dating the surrounding civilization."
           ],
-          "sequenceNote": "Proposed after The Walls Are Thick Enough and before The Five-Minute Warranty. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Proposed after The Walls Are Thick Enough and before A Crown in the Bargain. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "golden-lion"
           ],
           "window": {
             "start": 53.2,
             "end": 54.6
+          }
+        },
+        {
+          "id": "event-a-crown-in-the-bargain",
+          "title": "A Crown in the Bargain",
+          "magicState": "long-dark",
+          "description": "Existing road records and incomplete marriage articles → Parallel registration before the storm closes the relay.",
+          "context": [
+            "Placed provisionally in the material history after extinction, Avarnth governs through household votes, clerks, signed records, taxation and paid engineering. Hushglass routes ordinary lamp light; failed signals have alternate towers and a vellum fallback. Existing storm records cover five years, while the new relief compact funds future work. These demonstrated operations support a magicless setting without making this court the origin or successor of neighboring institutions. Its actual era remains unknown.",
+            "Five years of storm-road records precede the night; they do not date the kingdom's founding. Lightning advances the registry deadline to forty-two minutes. The parallel household and relief compact are signed before closure, but thirty days of engineering service, three years of material repayment and two years of toll exemption remain future obligations."
+          ],
+          "sequenceNote": "Proposed within the material reach after the House gathering, with a window overlapping the quarry workshop and service-blade histories. Optical signaling, steam work and legal authority do not establish a common kingdom or a technological succession. The actual date remains unresolved.",
+          "stories": [
+            "a-crown-in-the-bargain"
+          ],
+          "window": {
+            "start": 55.4,
+            "end": 66.37
           }
         },
         {
@@ -1333,7 +1315,7 @@
             "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Replacement manufacture remains possible despite deferred maintenance. The rescue is completed and a permanent rebuild commissioned; the inquiry, rebuilding and financial consequences lie beyond the story.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after The Gentleman with the Golden Lion and before The Blade Calls Your Name. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Proposed within the overlapping interval selected for A Crown in the Bargain and before The Blade Calls Your Name. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-five-minute-warranty"
           ],
@@ -1722,7 +1704,7 @@
       "id": "cycle-05-divided-world-joined-sky",
       "title": "The Divided World and the Joined Sky",
       "eyebrow": "Political falls and surviving expertise before the joined sky.",
-      "description": "Inherited works, regional wars and fully functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Their different tools do not supply one order of development. Anvek's district loses homes while its residents and services continue; other communities hold incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch is placed after that rupture as a proposed continuation of capable local orbital life, without a known connection to its signal. The joined-sky link begins new magic after a separate, unmeasured interval.",
+      "description": "Inherited works, regional wars and functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Nerava's nearby legion grants quarter within a material border campaign; Anvek's district suffers a separate conflict while residents and services continue. Their different equipment does not supply one order of development or one war. Other communities keep incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch occupies a proposed later orbital continuation without a known connection to its signal. New magic begins after a separate, unmeasured interval.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1806,13 +1788,31 @@
             "Flooding, dangerous basin air and a failed rope maneuver bring a surface outrider, a serpent queen and other rescuers into a joint escape. Warnings, bodily capacities and route knowledge remain local and fallible. A six-day paid trial is agreed only after reaching fresh air, with one recovery night first and the outer road still flooded.",
             "The six-day job remains ahead, subject to a safe surface path and the outrider's right to leave. The witnessed second carry does not prove every earlier event or settle accusations about other travelers."
           ],
-          "sequenceNote": "Proposed after The Last Monster and before The Weight They Never Counted. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Last Monster, with Late for Dinner's wider window overlapping this recovery night. Neither their shared interval nor their different bodies establishes a common settlement or a mutual order. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
             "coiled-together"
           ],
           "window": {
             "start": 25.8,
             "end": 27.2
+          }
+        },
+        {
+          "id": "event-late-for-dinner",
+          "title": "Late for Dinner",
+          "magicState": "long-dark",
+          "description": "Nerava's five months away and a broken invasion → Quarter at Plover's Cut and dinner that night.",
+          "context": [
+            "Placed provisionally among Cycle V's material regional societies, Nerava's kingdom sustains markets, farms, household guards, patrols, surgeons and a three-thousand-person legion. Her army is already nearby; smoke, a missing wagon and the recovered mule lead it to Rellan. The enemy company's hunger and blocked retreat follow a wider failed invasion, while quarter changes this evening's custody rather than ending the war. These ordinary causes support a magicless placement; neither the actual era nor a connection to the cycle's other conflicts is established.",
+            "The enemy company has gone two days without bread when it captures Rellan late in the day. His confinement lasts about an hour before the legion closes the cut. Nerava is already four and a half miles away with her army; its rear cohorts remain at Juniper House. Prisoner care and a domestic reunion follow, without establishing the campaign's end or the total war's duration."
+          ],
+          "sequenceNote": "Proposed beside Coiled Together in an overlapping material regional interval. Its window also spans the freight, district-rescue and taxi histories without ordering their incidents or joining their wars. Unequal local equipment does not establish a single military age.",
+          "stories": [
+            "late-for-dinner"
+          ],
+          "window": {
+            "start": 25.8,
+            "end": 38.95
           }
         },
         {
@@ -1824,7 +1824,7 @@
             "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and functioning technical knowledge: weights, rigging, nutrition, axle limits and load plans are measured together. Its proposed V position concerns a working regional economy with an older bodily history; neither that history's makers nor a descent from seedglass clinics is identified.",
             "The copied survey disputes whether earlier populations were bred, built or repaired. Tests begin the first evening and continue next morning; four days of instruction and a missed-meal setback precede the explicitly dated seventh-morning wagon crisis. The later market agreement starts a six-week trial whose completion is unshown."
           ],
-          "sequenceNote": "Proposed after Coiled Together and before What She Remembered of Peace. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
+          "sequenceNote": "Proposed within Late for Dinner's wider possible interval and before What She Remembered of Peace. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
             "the-weight-they-never-counted"
           ],
@@ -2780,7 +2780,7 @@
         "start": 27.06,
         "end": 28.18
       },
-      "note": "Nemea's council requires a witness for a seven-light deed but excludes that witness from heroic participation. A failing spring makes protection urgent; Myrine and Kletho survive by departing from the authorized heroic account. This is one civic arrangement for public power, not a generic origin of magical girls."
+      "note": "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. The proposed older active-magical position is retained; this local institution neither founds public heroism nor dates another city's powers."
     },
     "never-a-mascot": {
       "window": {
@@ -3162,10 +3162,10 @@
     },
     "a-crown-in-the-bargain": {
       "window": {
-        "start": 74.06,
-        "end": 75.18
+        "start": 55.4,
+        "end": 66.37
       },
-      "note": "Tareya makes marriage, territorial jurisdiction and emergency road aid separate choices. Independent titles, votes, engineers and debt terms make her bargain a close political neighbor to sanctuary compacts and competing courts; the optical register is a tool within that society."
+      "note": "Placed provisionally in the material history after extinction, Avarnth governs through household votes, clerks, signed records, taxation and paid engineering. Hushglass routes ordinary lamp light; failed signals have alternate towers and a vellum fallback. Existing storm records cover five years, while the new relief compact funds future work. These demonstrated operations support a magicless setting without making this court the origin or successor of neighboring institutions. Its actual era remains unknown."
     },
     "the-weight-they-never-counted": {
       "window": {
@@ -3204,17 +3204,17 @@
     },
     "late-for-dinner": {
       "window": {
-        "start": 29.3,
-        "end": 30.42
+        "start": 25.8,
+        "end": 38.95
       },
-      "note": "Wagons, crossbows, closed fields and burned bridges constrain an invaded territory and a three-thousand-person legion. Its ordinary material campaign belongs among the proposed older marcher economies without requiring magic in the incident."
+      "note": "Placed provisionally among Cycle V's material regional societies, Nerava's kingdom sustains markets, farms, household guards, patrols, surgeons and a three-thousand-person legion. Her army is already nearby; smoke, a missing wagon and the recovered mule lead it to Rellan. The enemy company's hunger and blocked retreat follow a wider failed invasion, while quarter changes this evening's custody rather than ending the war. These ordinary causes support a magicless placement; neither the actual era nor a connection to the cycle's other conflicts is established."
     },
     "save-that-dragon": {
       "window": {
         "start": 20.35,
         "end": 21.46
       },
-      "note": "Royal copper extraction, quarry works and a dismissed forge engineer bring the dragon into a territorial resource conflict. That context supports an old frontier placement even though the nature of its breath is unclassified."
+      "note": "An existing quarry, a forge levy, a dismissed engineer and a royal copper survey precede the rescue. Urrava's concealed authorization and Daziel's dangerous reuse of ordinary lifting equipment make this a local history of extraction and accountability. The older placement remains proposed; the quarry is not established as a frontier, and the dragon's bounded fire does not identify its underlying system or date the kingdom."
     },
     "golden-lion": {
       "window": {
@@ -4363,10 +4363,11 @@
       "The conversation continues through the twenty-five-minute processing interval and rinsing; acknowledgment begins without a diagnosis or promised cure"
     ],
     "the-lions-last-constellation": [
-      "A failed spring makes the remaining watercourse a public necessity; a dangerous lion drives its carriers away.",
-      "A council witness must name visible actions, while authorized praise wastes one of seven lights.",
-      "Myrine and Kletho fight together; the final hold continues after its magical support expires.",
-      "Their joint account challenges what the council will credit, without establishing an enacted reform."
+      "Myrine and Kletho have trained together before the council appoints Kletho as witness. A summer spring failure leaves one water channel; the lion has already driven its night carriers away twice.",
+      "Seven lights empower accepted descriptions of visible actions. An authorized compliment wastes the third light, and the lion uses terraces, channels and two cave entrances to separate and exhaust the pair.",
+      "Kletho breaks the witness's assigned noncombatant role to help Myrine. They later untie the cord that catches around the pillar and coordinate through sight and spoken actions.",
+      "The seventh light strengthens a hold already in progress. It expires while the lion still lives, so Myrine continues with her injured body; the broken spoken count supplies no exact duration.",
+      "After checking the lion is dead, both women mark an account naming Kletho's participation and the exhausted lights. They leave the pelt for later recovery and return toward the still-running water; civic acceptance and physical recovery are not yet shown."
     ],
     "never-a-mascot": [
       "An armorer meets an already armored rooster and begins seven years of repairs.",
@@ -4766,6 +4767,30 @@
       "Releasing the fragment removes Korrin's mourning preset. Erisel then mistakes a pain flare for assent but stops before the next stage opens.",
       "Directional hand pressure supports four further stages over eleven minutes. Treatment restores stable functions and the possibility of later revision, without forcing a remembered face.",
       "At sunset the sisters finish the bounded archive closure. Mekran leaves with a remnant membrane; ordinary body revision continues in the city and in the sisters' own choices."
+    ],
+    "a-crown-in-the-bargain": [
+      "An established kingdom has competing house votes, a regency during the king's incapacity, independent March jurisdiction and at least five years of storm-road records.",
+      "Tareya's earlier six-sheet articles omit a seventh sheet that would give the crown appointment and reserve powers. The first night still allows refusal, while flood reports show immediate local needs.",
+      "Lightning advances the rooftop registry's closure to forty-two minutes. A wet relay fails on the walk; a lamp tender repairs it. Alternate towers and signed vellum preserve routes for evidence without making light the law itself.",
+      "A demonstration exposes the strong filing's loss of independent representation. Tareya removes her ring; Osvan destroys that form and makes a witnessed sole placement before receiving any renewed agreement.",
+      "Separate relief terms commit paid engineers, draft teams, materials, grain and road access under bounded local direction. Unsafe orders may be refused, military billet rights are excluded, and debt does not attach to Tareya's title.",
+      "Tareya chooses a parallel household registration before the final bar expires. She requests the road and dispatch ledgers for breakfast; crews, repairs, repayment and the contested accession hearing remain ahead."
+    ],
+    "late-for-dinner": [
+      "Nerava has been away for five months. An invading company loses support when two larger columns break; closed farms, burned bridges and missing envoys leave it seeking passage, with no bread for two days.",
+      "Late in the day, Rellan's market wagon is trapped at Plover's Cut. A guard's attempted resistance overturns it and injures him; the enemy raises the wagon so he can be freed.",
+      "Captain Cadren demands a road through Nerava's army in exchange for Rellan. Rellan cannot command his wife; his first offer of surrender and protection fails because it promises neither passage nor freedom.",
+      "Nerava is already with the legion nearby. Smoke on the western road, the wagon's absence at the east post and a patrol's discovery of the mule supply ordinary warning; the army closes the heights and both ends of the cut.",
+      "After fighting and casualties, soldiers begin surrendering independently of Cadren. Rellan raises his cloth and stands by explicit terms; Nerava accepts quarter, with custody possible and no revenge at the site.",
+      "The injured in both uniforms receive treatment before questioning, and prisoners go to separate watches. Nerava and Rellan reach home after dark; three thousand soldiers camp nearby while the wider war remains unresolved."
+    ],
+    "save-that-dragon": [
+      "Imer built the quarry inspection route when Daziel was young and was later dismissed for opposing a raid on the sealed nest. Urrava authorized the armed survey for copper but concealed her part from Daziel.",
+      "Thelrax kills Daziel's husband at the nest and burns an occupied shelter twelve days later. Those separate harms precede the current hunt; their distance from the rescue night is not given.",
+      "Flooding blocks the queen's riders. Imer and Hovan use the old inspection route, ordinary keys, maintained ropes and a lamp to reach Daziel after six hours at her lever.",
+      "The royal writ changes who authorized the raid without erasing the dragon's attacks. Daziel's coupled spear and quarry brakes have created a lethal release sequence that worsening loads force Imer to revise.",
+      "One short fire burst scorches the net and injures Hovan. Daziel abandons the killing shot, dumps the spear and helps release the wing loads; Thelrax refuses treatment and takes the cleared downslope route.",
+      "At dawn the dragon clears the ridge with an injured throat; safe onward flight is unknown. Daziel ends pursuit and keeps the writ for her mother, while the three workers disable the remaining cocked mechanism before crews return."
     ]
   },
   "storySpans": {
@@ -5408,6 +5433,26 @@
       "start": "Family practice, repeated visits and an earlier roof leak",
       "end": "The studio's sunset closure",
       "note": "Lucian died at seventy-three; a stored face is an earlier body plan, not his mind. Mekran's four later treatment stages take eleven minutes within a longer emergency. Six breaths describes specific eye revisions, not every transformation. Other revision services and ordinary city life continue after this studio closes."
+    },
+    "a-crown-in-the-bargain": {
+      "start": "Existing road records and incomplete marriage articles",
+      "end": "Parallel registration before the storm closes the relay",
+      "note": "Five years of storm-road records precede the night; they do not date the kingdom's founding. Lightning advances the registry deadline to forty-two minutes. The parallel household and relief compact are signed before closure, but thirty days of engineering service, three years of material repayment and two years of toll exemption remain future obligations."
+    },
+    "late-for-dinner": {
+      "start": "Nerava's five months away and a broken invasion",
+      "end": "Quarter at Plover's Cut and dinner that night",
+      "note": "The enemy company has gone two days without bread when it captures Rellan late in the day. His confinement lasts about an hour before the legion closes the cut. Nerava is already four and a half miles away with her army; its rear cohorts remain at Juniper House. Prisoner care and a domestic reunion follow, without establishing the campaign's end or the total war's duration."
+    },
+    "save-that-dragon": {
+      "start": "Earlier quarry work and the authorized nest raid",
+      "end": "Dawn escape and the remaining trigger disabled",
+      "note": "Imer built the inspection route when Daziel was a child. The occupied shelter was burned twelve days after her husband's death; the gap from that attack to this rescue is unspecified. Daziel has held the lever for six wet hours when they meet. The night ends with a limited escape and disarmed machinery, not recovered royal trust or a settled human-dragon peace."
+    },
+    "the-lions-last-constellation": {
+      "start": "Earlier training and the spring's summer failure",
+      "end": "A shared account after one night's fight",
+      "note": "Two previous disruptions of the water carriers precede the lion's early arrival on the witnessed night. The seven lights are spent within this one encounter. Kletho's interrupted count does not measure the final hold reliably; after the magic expires, Myrine continues by ordinary strength. The council's response to their account remains ahead."
     }
   },
   "storyEvidence": {
@@ -5983,7 +6028,7 @@
       "to": "a-crown-in-the-bargain",
       "kind": "historical",
       "label": "Royal power depends on paid public work",
-      "note": "Across two proposed old-magical ages, Sigrun's compact and Tareya's separate bargain make royal authority depend on work, supply and payment beyond the ruler. This comparison establishes no mutual order, common crown, law or institutional lineage; the selected event positions remain separate from the recurrence.",
+      "note": "In the proposed history, Ninepin's old-magical compact and Avarnth's later material bargain both limit royal authority through independent officials, supplies and payment. Gorm's personal faculty does not replace an army's logistics; Tareya's optical register does not replace signed law or repair crews. This is a possible recurrence across extinction, not continuity of one crown, legal system or technology.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -6102,8 +6147,8 @@
       "from": "a-crown-in-the-bargain",
       "to": "the-walls-are-thick-enough",
       "kind": "echo",
-      "label": "Treaty claims recur under different empires",
-      "note": "Tareya negotiates separate marriage, jurisdiction and aid terms; in a different proposed age, Tazri invokes an older treaty against an emperor's seizure of her levy. Their comparison does not establish common courts, law or institutional survival across extinction. One bargain succeeds; the other buys a contested suspension.",
+      "label": "Treaty claims in different courts",
+      "note": "Tareya negotiates separate marriage, jurisdiction and aid terms; Tazri invokes an older treaty against an emperor's seizure of her levy. These distinct legal histories fit a proposed material reach without becoming one empire or a shared succession. One bargain is registered; the other buys a contested suspension.",
       "ordering": "none",
       "basis": "thematic"
     },
@@ -6357,10 +6402,10 @@
         {
           "cycleId": "cycle-01-older-inhabited-world",
           "title": "A crown meets another will",
-          "note": "Ersene's existing alliances distribute watch, rescue, nesting care and watershed work between freely choosing partners. Another court bargains over marriage and service. These institutions already have histories; they establish neither one original monarchy nor a common dragon or divine lineage.",
+          "note": "Ersene's existing alliances distribute watch, rescue, nesting care and watershed work between freely choosing partners. Elsewhere, a queen's concealed copper-survey order and a quarry rescue expose limits of royal command. These institutions have separate histories; no common crown or dragon lineage is established.",
           "anchors": [
             "the-gentlest-terror",
-            "a-crown-in-the-bargain"
+            "save-that-dragon"
           ],
           "kind": "proposed"
         },
@@ -6377,12 +6422,12 @@
         },
         {
           "cycleId": "cycle-03-extinction-human-works",
-          "title": "Institutions across the extinction",
-          "note": "Ninepin's proposed late-old campaign depends on depots and public offices while a ruler's personal magic remains active. The terminal extinction later ends all old material magical capacity. A separate House society exercises authority through ordinary records and inherited status during the proposed zero-era reach; it is not established as Ninepin's successor.",
+          "title": "Authority before and after extinction",
+          "note": "Ninepin's proposed late-old campaign depends on depots and public offices while a ruler's personal magic remains active. Extinction later ends old material magical capacity. In the selected zero-era reach, Avarnth's optical registry, independent titles and funded relief operate through matter and law. Its monarchy is not established as Ninepin's successor.",
           "anchors": [
             "strength-of-ten",
             "all-accounts-due",
-            "golden-lion"
+            "a-crown-in-the-bargain"
           ],
           "kind": "proposed"
         },
@@ -6398,9 +6443,10 @@
         },
         {
           "cycleId": "cycle-05-divided-world-joined-sky",
-          "title": "Command destroys a connection",
-          "note": "The First People destroy the fast network rather than surrender it; surviving civilizations undertake slower relief. Much later, the new magical link requires living replies. The injured vessel's rescue has no established relationship to the burn.",
+          "title": "Regional command and stellar inheritance",
+          "note": "A kingdom's nearby army grants quarter without ending its regional war. At a much later proposed stellar horizon, the First People destroy the fast network rather than surrender control; slower relief follows. The subsequent new magical link requires living replies. These different scales and mechanisms do not form one conflict or government.",
           "anchors": [
+            "late-for-dinner",
             "the-first-people",
             "the-sky-remembers-us-return"
           ],
