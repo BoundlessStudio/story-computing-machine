@@ -499,7 +499,7 @@
           "id": "event-the-wrong-side-of-the-part",
           "title": "The Wrong Side of the Part",
           "magicState": "old-magic",
-          "description": "An earlier private message → The salon appraisal afternoon.",
+          "description": "An earlier private message → A canceled sale and an unsettled agreement.",
           "context": [
             "Proposed in the generations before Nell's low-magic home, where a privately kept implement can survive within ordinary business and family life. The wig's maker is unknown; the story establishes no family magical craft lineage. Its nonliving focus narrows Tilda's attention without replacing her judgment. This local survival does not prove that every earlier institution has vanished.",
             "A six-month-old message becomes a public weapon during one afternoon's estate dispute. The accounting and appraisal still lie ahead; the requested thirty-day financing window is not agreed."
@@ -4642,7 +4642,7 @@
     ],
     "the-wrong-side-of-the-part": [
       "The sisters inherit their mother's salon and its debts; a hidden wig has an unidentified maker.",
-      "During the appraisal dispute, Tilda uses the wig's narrowing focus and broadcasts Petra's private message from six months earlier.",
+      "During the planned sale-signing afternoon, Tilda uses the wig's narrowing focus and broadcasts Petra's private message from six months earlier.",
       "Tilda permanently unmakes the focus; copies of the message and the harm remain.",
       "Petra agrees to accounting and an independent appraisal. Forgiveness and the requested financing delay are not secured."
     ],
@@ -5347,7 +5347,7 @@
     },
     "the-wrong-side-of-the-part": {
       "start": "An earlier private message",
-      "end": "The salon appraisal afternoon",
+      "end": "A canceled sale and an unsettled agreement",
       "note": "A six-month-old message becomes a public weapon during one afternoon's estate dispute. The accounting and appraisal still lie ahead; the requested thirty-day financing window is not agreed."
     },
     "a-place-for-the-living": {
@@ -6599,7 +6599,7 @@
       "to": "the-wrong-side-of-the-part",
       "kind": "echo",
       "label": "Appraisal recurs in another age",
-      "note": "A salon and a doorway bring family property into specialist appraisal in different proposed ages. Equal shares, incomplete accounts and the holder's choices remain distinct from a working's behavior. No common law, city or institutional survival is established.",
+      "note": "A disputed salon sale leads to agreement on accounting and a future independent appraisal. In another proposed age, a repaired doorway is collected for estate appraisal while its master's inspection and the house completion remain ahead. Equal ownership shares already exist in both families; no magical test awards them. This comparison establishes no common law, city or institutional survival.",
       "ordering": "none",
       "basis": "thematic"
     },
