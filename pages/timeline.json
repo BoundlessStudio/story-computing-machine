@@ -1259,7 +1259,7 @@
           "description": "Four months of imperial marriage → The first day of a six-month suspension.",
           "context": [
             "Proposed among the Long Dark's earlier human polities. Belisar's power operates through treaty articles, guards, correspondence and a winter levy; the witnessed conflict needs no active magical mechanism. This is a separate imperial history from Merneith's much later reconstruction. Its founding and distance from extinction are unknown; the six-month suspension is a local legal interval.",
-            "The evening's thirty-six-minute estimate narrows as the guard round approaches. The papers cross before accreditation expires; the next morning starts a six-month legal suspension. The later hearing is not shown."
+            "The evening's thirty-six-minute estimate narrows as the early witness round interrupts. Jaseth carries the petition through the diplomatic gate before his safe-conduct ends, beginning the six-month legal suspension. By the next morning Tazri is confined; the tribunal hearing remains ahead."
           ],
           "sequenceNote": "Proposed after All Accounts Due and before The Gentleman with the Golden Lion. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
@@ -3881,7 +3881,7 @@
       "For two centuries, twelve distinct dragons rotate through one worshipped royal guise. Their collective divine government sustains roads, grain reserves, district judgments and a working clerical administration.",
       "After two failed harvests and three imported shiploads, incompatible royal judgments promise seed protection and lenders' seizure. The existing procedure book already permits parties to file a common plea; the dragons' proposed final ruling cannot remove the shortage.",
       "At noon, Lumen refuses a final royal answer. Revelation of the twelve dragons does not itself end worship; their refusal to compel an agreement leaves farmers and importers to bargain through the older procedure.",
-      "The ninety-day agreement protects seed and pledged land while retaining limited future debt repayment and opening inventories, import costs and margins. Each side sends its own orders; a depot opens, while one provincial company stops short and waits for the full clauses.",
+      "The ninety-day agreement protects seed and pledged land while retaining limited future debt repayment and opening inventories, import costs and margins. Each side sends its own orders; city depots reopen and terrace companies stop short of the storehouses while awaiting the full clauses.",
       "On day seventeen, a shortfall requires fourteen hours of negotiation and an amended release schedule. Higher flour prices and reduced payments leave continuing costs rather than universal satisfaction.",
       "The dragons surrender royal and religious authority and depart for an old refuge, intending three centuries of sleep. Their bodies and powers remain; private prayer alone preserves no godhood. Three days after departure, travelers report voices falling silent before dawn.",
       "Hearings continue under recallable chairs, including a fresh transport-fee dispute. The districts' one-year review is still future; neither that review nor three centuries of peace has occurred."
@@ -4718,8 +4718,8 @@
     ],
     "the-walls-are-thick-enough": [
       "The marriage has lasted four months; Belisar uses its unconsummated status to withhold Tazri's joint seat and control her household.",
-      "Before an earlier guard round and the notary's expiring safe-conduct, a sealed petition and original witness register leave the palace.",
-      "At dawn, the petition suspends the disputed winter levy for six months while Tazri remains confined and Mireth loses her appointment.",
+      "The early witness round interrupts the evening. Mireth buys time, and Jaseth carries the sealed petition and original witness register through the diplomatic gate before his safe-conduct ends.",
+      "The petition's passage through the gate begins a six-month suspension of the disputed winter levy. At dawn, Tazri remains confined and Mireth loses her appointment.",
       "The tribunal and its judgment are still future events; delay has been obtained, not release or an annulment."
     ],
     "the-gentlest-terror": [
@@ -5418,7 +5418,7 @@
     "the-walls-are-thick-enough": {
       "start": "Four months of imperial marriage",
       "end": "The first day of a six-month suspension",
-      "note": "The evening's thirty-six-minute estimate narrows as the guard round approaches. The papers cross before accreditation expires; the next morning starts a six-month legal suspension. The later hearing is not shown."
+      "note": "The evening's thirty-six-minute estimate narrows as the early witness round interrupts. Jaseth carries the petition through the diplomatic gate before his safe-conduct ends, beginning the six-month legal suspension. By the next morning Tazri is confined; the tribunal hearing remains ahead."
     },
     "the-gentlest-terror": {
       "start": "An old alliance order and a recent royal death",
