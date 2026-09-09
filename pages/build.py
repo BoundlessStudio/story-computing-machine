@@ -39,6 +39,21 @@ TIMELINE_EVIDENCE = frozenset({"boundary", "constrained", "relative", "contextua
 TIMELINE_MAGIC_STATES = frozenset(
     {"old-magic", "long-dark", "new-magic", "uncertain", "off-axis"}
 )
+# Universe histories admitted before the 2026-08-24 terminal boundary, plus
+# the established legacy Briar Hill and wig histories. Universe authority
+# applies even when the source package currently has canon: false. For Ryo
+# and Nell, this constrains the placed material frame, not destination clocks.
+# Later admissions explicitly leaving old/new open are not included.
+PRE_EXTINCTION_MATERIAL_HISTORIES = frozenset({
+    "a-crown-of-quiet-hours", "a-little-winter-for-sale", "a-place-for-the-living",
+    "daughter-of-the-sun", "life-with-a-girlfriend-with-shrinking-powers",
+    "realms", "self-reflection", "solstice-evening-bell", "tenth-world-lesson",
+    "the-attendance-ledger", "the-future-that-refused-us", "the-gentlest-terror",
+    "the-last-bus-to-briar-hill", "the-shape-of-mercy", "the-small-moon-rose-first",
+    "the-trouble-with-tuesdays", "the-warmest-person-in-the-room",
+    "the-wrong-side-of-the-part", "transitions-in-common", "voice-of-silence",
+    "what-i-hate-most",
+})
 
 
 @dataclass(frozen=True)
@@ -564,14 +579,7 @@ def _validate_timeline_order(cycles, placements, connections):
     if states != sorted(states):
         raise ValueError("Worldline history must preserve old magic, Long Dark, then new magic")
 
-    # These magical histories were already admitted when the terminal boundary
-    # was locked on 2026-08-24. Their unresolved local dates permit contextual
-    # movement, but do not place them after that boundary. Later admissions
-    # explicitly leaving old/new open are not covered by this constraint.
-    for slug in ("the-last-bus-to-briar-hill", "the-trouble-with-tuesdays",
-                 "self-reflection", "the-wrong-side-of-the-part",
-                 "transitions-in-common", "a-place-for-the-living",
-                 "the-warmest-person-in-the-room", "realms"):
+    for slug in PRE_EXTINCTION_MATERIAL_HISTORIES:
         if slug in locations and cycles[locations[slug]].magic_state != "old-magic":
             raise ValueError(f"Established magical history {slug} must precede the old magic extinction")
 

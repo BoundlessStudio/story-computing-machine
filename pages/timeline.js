@@ -10,6 +10,7 @@
   const stories = [...atlas.querySelectorAll('[data-story-slug]')];
   const threads = [...atlas.querySelectorAll('[data-thread-kind]')];
   const connections = atlas.querySelector('[data-connections-dialog]');
+  const depths = atlas.querySelector('[data-depth-dialog]');
   const threadFilters = [...atlas.querySelectorAll('[data-thread-filter]')];
   let activeDialog = null;
   let returnFocus = null;
@@ -79,7 +80,7 @@
     connections.querySelector('.thread-controls').hidden = Boolean(id);
     connections.querySelector('[data-all-connections]').hidden = !id;
   }
-  function reveal(hash, focus = true) {
+  function reveal(hash, focus = true, trigger = null) {
     let id;
     try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
     const target = document.getElementById(id);
@@ -105,8 +106,12 @@
           ? document.activeElement.closest('[data-story-slug]') || activeDialog.closest('[data-era-section]') : null;
       }
       filterThreads('all', target.matches('[data-thread-kind]') ? target.id : null);
-      showDialog(connections);
+      showDialog(connections, trigger);
       connections.querySelector('[data-dialog-close]').textContent = connectionOrigin ? '← Back to the era' : '← Back to the timeline';
+      return;
+    }
+    if (target.id === 'atlas-depths' && depths) {
+      showDialog(depths, trigger);
       return;
     }
     closeDialog(false);
@@ -135,6 +140,21 @@
   atlas.querySelector('.connections-library > summary').addEventListener('click', event => {
     event.preventDefault(); setHash('#atlas-threads'); reveal('#atlas-threads');
   });
+  if (depths) {
+    atlas.querySelector('.depth-library > summary').addEventListener('click', event => {
+      event.preventDefault(); setHash('#atlas-depths'); reveal('#atlas-depths');
+    });
+    const historySearch = depths.querySelector('[data-history-search]');
+    const histories = [...depths.querySelectorAll('[data-time-fold]')];
+    historySearch.closest('label').hidden = false;
+    historySearch.addEventListener('input', () => {
+      const terms = normalize(historySearch.value.trim()).split(/\s+/).filter(Boolean);
+      histories.forEach(item => { item.hidden = !terms.every(term => normalize(item.dataset.search).includes(term)); });
+      const total = histories.filter(item => !item.hidden).length;
+      depths.querySelector('[data-history-count]').textContent = total + (total === 1 ? ' history' : ' histories');
+      depths.querySelector('[data-history-empty]').hidden = total > 0;
+    });
+  }
   atlas.querySelectorAll('dialog').forEach(dialog => {
     const leave = () => {
       if (dialog === connections && connectionOrigin) {
@@ -164,7 +184,7 @@
     if (!link || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
     setHash(link.hash);
-    reveal(link.hash);
+    reveal(link.hash, true, link);
   });
   search.addEventListener('input', filterStories);
   atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { clearSearch(); search.focus(); });

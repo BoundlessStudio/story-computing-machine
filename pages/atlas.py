@@ -59,7 +59,9 @@ def render(catalog, timeline):
                     f'<a href="#thread-{esc(link.id)}">{esc(link.label)} <i aria-hidden="true">↗</i></a></li>'
                     for link in related[slug])
                 connections = f'<ul class="event-connections">{links}</ul>' if links else ''
-                search = " ".join((story.title, cycle.title, era.title, era.description, *era.context, placement.note, *moments))
+                span_text = (span.start, span.end, span.note) if span else ()
+                search = " ".join((story.title, cycle.title, era.title, era.description, *era.context,
+                                   placement.note, *moments, *span_text))
                 events.append(
                     f'<article class="worldline-event evidence-{evidence}" id="story-{esc(slug)}" '
                     f'data-story-slug="{esc(slug)}" data-story-evidence="{evidence}" data-search="{esc(search)}">'
@@ -127,6 +129,36 @@ def render(catalog, timeline):
             f'<p class="atlas-kicker">{LINK_LABELS[link.kind]}</p><h3>{esc(link.label)}</h3>'
             f'<p class="thread-basis">{BASIS_LABELS[link.basis]}</p><div class="thread-endpoints">{endpoints}</div>'
             f'<p>{esc(link.note)}</p></article>')
+    depth_cards = []
+    for slug, (number, cycle, era) in locations.items():
+        span = timeline.story_spans.get(slug)
+        if not span:
+            continue
+        story = stories[slug]
+        search = ' '.join((story.title, span.start, span.end, span.note, cycle.title, era.title))
+        depth_cards.append(
+            f'<article class="time-fold state-{cycle.magic_state}" data-time-fold data-search="{esc(search)}">'
+            f'<p class="atlas-kicker">Placed frame · Cycle {number:02d} · {esc(STATE_LABELS[cycle.magic_state])}</p>'
+            f'<h3><a href="#story-{esc(slug)}">{esc(story.title)} <span aria-hidden="true">↗</span></a></h3>'
+            f'<div class="fold-path"><span>{esc(span.start)}</span><i aria-hidden="true">↝</i><span>{esc(span.end)}</span></div>'
+            f'<p class="fold-note">{esc(span.note)}</p></article>')
+    depths = (
+        '<details class="depth-library" id="atlas-depths"><summary>Time within time '
+        f'<span>{len(depth_cards)} histories</span> ↗</summary>'
+        '<dialog class="depth-dialog" data-depth-dialog aria-labelledby="deep-history-title">'
+        '<div class="dialog-bar"><button type="button" data-dialog-close>← Back to the timeline</button>'
+        '<span>Local clocks · Buried civilizations · Living memory</span></div>'
+        '<div class="dialog-content"><header class="depth-heading"><p class="atlas-kicker">The past inside the present</p>'
+        '<h2 id="deep-history-title">Time within time</h2>'
+        '<p>A life can cross centuries. A town can stand on several civilizations. A journey can return before its own history fits the clock.</p>'
+        '<p class="depth-key">Each path follows a story’s experience, not the order of world eras. '
+        'Lengths are not to scale; unresolved dates stay open. The cycle label locates the story’s placed frame.</p></header>'
+        '<label class="depth-search" hidden><span>Find a history</span>'
+        '<input type="search" data-history-search placeholder="Ravel, centuries, vanished cities…" autocomplete="off"></label>'
+        f'<p class="depth-count" data-history-count role="status" aria-live="polite">{len(depth_cards)} histories</p>'
+        f'<div class="time-folds">{"".join(depth_cards)}</div>'
+        '<p data-history-empty hidden>No histories match. Try a place, title or interval.</p>'
+        '</div></dialog></details>') if depth_cards else ''
     phase_links = ''.join(f'<a class="state-{state}" href="#phase-{state}" data-phase-link="{state}"><i aria-hidden="true"></i>{STATE_LABELS[state]}</a>' for state in phases)
     total_eras = sum(len(cycle.eras) for cycle in timeline.cycles)
     return (
@@ -148,9 +180,11 @@ def render(catalog, timeline):
         'Established sequences and local intervals take precedence.</p>'
         '<p>Open a story’s “Place in history” for its evidence and connections. Direct connections, historical hypotheses '
         'and thematic echoes are distinguished. A remembered event can reach beyond its story’s proposed era.</p></div></details></div>'
+        '<nav class="history-lenses" aria-label="Explore the layers of history">'
+        f'{depths}<a href="#atlas-threads">Connections across history <span>{len(timeline.connections)} threads</span> ↗</a></nav>'
         '<div class="search-feedback" hidden data-search-feedback><p role="status" aria-live="polite" data-atlas-count></p>'
         '<button type="button" data-atlas-reset>Clear search ×</button></div>'
-        f'<section class="worldline" id="atlas-explore" aria-label="{len(timeline.cycles)} cycles, {total_eras} eras"><span id="atlas-weave"></span><span id="atlas-depths"></span>{"".join(rows)}'
+        f'<section class="worldline" id="atlas-explore" aria-label="{len(timeline.cycles)} cycles, {total_eras} eras"><span id="atlas-weave"></span>{"".join(rows)}'
         '<p class="atlas-empty" data-atlas-empty hidden>No stories found. Try another title, place or idea.</p>'
         '<div class="worldline-end"><i aria-hidden="true"></i><p>History is still being written.</p></div></section>'
         '<footer class="chronicle-footer"><a href="index.html">← The story library</a>'

@@ -35,6 +35,32 @@
 .reading-guide { max-width: 27rem; }
 .reading-guide summary { text-align: right; }
 .reading-guide[open] summary { color: var(--atlas-ink); }
+.history-lenses { display: flex; flex-wrap: wrap; gap: .75rem 2rem; padding: 0 0 1.8rem; font: .75rem/1.7 ui-sans-serif, system-ui, sans-serif; }
+.history-lenses > a, .depth-library > summary { text-decoration: none; list-style: none; color: var(--atlas-ink); }
+.depth-library > summary::-webkit-details-marker { display: none; }
+.history-lenses > a > span, .depth-library > summary > span { color: var(--atlas-muted); font-size: .62rem; padding-left: .4rem; }
+.depth-heading { max-width: 45rem; }
+.depth-heading .atlas-kicker { color: var(--worldline-violet); margin: 0 0 .8rem; }
+.depth-heading h2 { font: 400 clamp(2rem, 4vw, 3rem)/1.1 Georgia, serif; letter-spacing: -.035em; margin: 0 0 1rem; }
+.depth-heading > p { font: .9rem/1.8 ui-sans-serif, system-ui, sans-serif; color: var(--atlas-muted); }
+.depth-heading .depth-key { font-size: .72rem; padding-left: 1rem; border-left: 2px solid var(--worldline-violet); }
+.depth-search { display: flex; flex-direction: column; gap: .5rem; padding: 1.5rem 0 .6rem; max-width: 30rem; font: .7rem/1.6 ui-sans-serif, sans-serif; }
+.depth-search input { width: 100%; border: 1px solid var(--atlas-line); border-radius: 2rem; padding: .75rem 1rem; background: var(--worldline-bg); color: var(--atlas-ink); }
+.depth-count { color: var(--atlas-muted); font: .6rem/1.6 ui-monospace, monospace; }
+.time-folds { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 2rem; }
+.time-fold { min-width: 0; padding: 1.5rem 0 1.7rem; border-top: 1px solid var(--atlas-line); }
+.time-fold .atlas-kicker { color: var(--cycle-color); font-size: .53rem; margin: 0 0 .7rem; }
+.time-fold h3 { font: 400 1.5rem/1.25 Georgia, serif; margin: 0; }
+.time-fold h3 a { text-decoration: none; }
+.time-fold h3 a:hover { text-decoration: underline; }
+.time-fold h3 span { color: var(--cycle-color); font: .8rem ui-sans-serif, sans-serif; }
+.fold-path { display: grid; grid-template-columns: 1fr 1.5rem 1fr; gap: .6rem; align-items: start; margin: 1.5rem 0 .9rem; font: .72rem/1.6 ui-sans-serif, sans-serif; }
+.fold-path > span { position: relative; padding-top: 1rem; border-top: 1px dashed var(--cycle-color); }
+.fold-path > span::before { content: ''; position: absolute; top: -.23rem; left: 0; width: .4rem; height: .4rem; border: 1px solid var(--cycle-color); border-radius: 50%; background: var(--atlas-panel); }
+.fold-path > span:last-child { text-align: right; }
+.fold-path > span:last-child::before { left: auto; right: 0; }
+.fold-path i { color: var(--cycle-color); font: 1.5rem/1 Georgia, serif; margin-top: -.7rem; text-align: center; }
+.fold-note { color: var(--atlas-muted); font: .77rem/1.85 ui-sans-serif, sans-serif; margin-bottom: 0; }
 .search-feedback { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding-bottom: 1rem; font: .75rem/1.6 ui-sans-serif, system-ui, sans-serif; }
 .search-feedback button { color: var(--atlas-ink); background: none; border: 0; text-decoration: underline; }
 .worldline { --spine: 19rem; position: relative; padding-bottom: 1rem; isolation: isolate; scroll-margin-top: 6rem; }
@@ -153,6 +179,7 @@
 .atlas:not(.is-interactive) dialog { display: block; position: static; width: 100%; max-height: none; box-shadow: none; }
 .atlas:not(.is-interactive) .dialog-bar, .atlas:not(.is-interactive) .era-pagination { display: none; }
 .atlas:not(.is-interactive) .connections-library { flex-basis: 100%; }
+.atlas:not(.is-interactive) .depth-library[open] { flex-basis: 100%; }
 @keyframes open-era { from { opacity: 0; transform: translateY(.5rem); } to { opacity: 1; transform: translateY(0); } }
 @media (max-width: 1000px) {
   .worldline { --spine: 15rem; }
@@ -180,6 +207,9 @@
   .chronicle-guide { flex-direction: column; gap: .4rem; padding: 1rem 0; font-size: .65rem; }
   .reading-guide { max-width: none; }
   .reading-guide summary { text-align: left; }
+  .history-lenses { gap: .65rem; flex-direction: column; padding-bottom: 1rem; }
+  .time-folds { grid-template-columns: 1fr; }
+  .depth-heading > p { font-size: .8rem; }
   .worldline { --spine: 1rem; scroll-margin-top: 8rem; }
   .atlas-cycle { grid-template-columns: 2.8rem minmax(0, 1fr); padding-bottom: 2rem; scroll-margin-top: 8rem; }
   .cycle-node { grid-column: 1; grid-row: 1; width: 2rem; height: 2rem; font-size: .8rem; justify-self: start; margin-top: .65rem; }

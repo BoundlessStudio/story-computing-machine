@@ -200,7 +200,7 @@
     },
     {
       "id": "cycle-03-familiar-world-dims",
-      "title": "The Familiar Worlds",
+      "title": "The Familiar Modernities",
       "eyebrow": "Public disciplines and half-forgotten inheritances inhabit a familiar world.",
       "magicState": "old-magic",
       "description": "Schools and licensed trades work openly with unusual capacities; elsewhere, family objects, private changes and remembered routes survive amid ordinary modern services. Nell and Bash belong to a later low-magic trough within this reach, before later divine rises and the Glass Sea.",
@@ -266,14 +266,16 @@
           "title": "The city's other routes",
           "description": "Professional routes and household thresholds connect ordinary streets to extraordinary passages.",
           "context": [
-            "Locksmith certification, paid runners, witnesses and route work supply practical expertise.",
-            "Dwellings, living roads and external markets impose different conditions on passage."
+            "Locksmith certification, paid runners, municipal road crews and couriers supply practical expertise.",
+            "Older threshold customs meet redevelopment and digital navigation; passages depend on particular living participants."
           ],
-          "sequenceNote": "Only the material modern frames are placed. Destinations and mechanisms remain distinct; none is established as the Glass Gate or a later returned root.",
+          "sequenceNote": "Briar Hill and the Counted Road suggest a shared historical horizon of crossings maintained through fresh human replies. Their working rules differ. Only the modern material frames are placed; Ryo’s destination clocks and the market’s coordinates remain unresolved.",
           "stories": [
             "the-door-knows-home",
             "the-last-bus-to-briar-hill",
-            "realms"
+            "the-inheritance-remembers",
+            "realms",
+            "tenth-world-lesson"
           ],
           "window": {
             "start": 10,
@@ -285,13 +287,14 @@
           "title": "Unfamiliar lives on familiar streets",
           "description": "Families and friends learn to live with capacities that their wider modern surroundings may not understand.",
           "context": [
-            "Schools, care, workshops and household routines continue around unusual individual experience.",
+            "Schools, household repairs, workshops and ordinary care continue around unusual individual capacities.",
             "Named cultural traditions and long private histories supply context without one public classification."
           ],
           "sequenceNote": "Privacy does not date an epoch. Cusco, the Nina–Anin incident, Cody's school and Garnet's journeys are separate communities, not a single low-magic city.",
           "stories": [
             "self-reflection",
             "transitions-in-common",
+            "life-with-a-girlfriend-with-shrinking-powers",
             "a-knock-in-someone-elses-sleep",
             "the-one-who-gets-tired"
           ],
@@ -308,7 +311,7 @@
             "Phones, schools and ordinary transport support practical lives around scarce encounters.",
             "The Northbridge team's help expands through voluntary distributed contacts."
           ],
-          "sequenceNote": "Nell's home precedes later divine rises and the Glass Sea. Attendance leads directly to Help; their placement near Nell is proposed, and Ravel remains unplaced.",
+          "sequenceNote": "Nell’s home precedes later divine rises and the Glass Sea. Attendance leads directly to Help; their placement near Nell is proposed. Ravel is another pre-extinction material era, with its order relative to these eras unresolved.",
           "stories": [
             "the-small-moon-rose-first",
             "the-attendance-ledger",
@@ -1150,13 +1153,12 @@
           "title": "The obligations beneath the streets",
           "description": "Modern streets retain obligations whose practical meanings have partly slipped from view.",
           "context": [
-            "Flood works, old thresholds and redevelopment connect inherited customs to present needs.",
-            "A town's promise, a courier's route and a local divine service each have their own continuity."
+            "Flood rescues, local worship and ordinary emergency services sustain obligations over human lifetimes.",
+            "A witch’s open promises and a household’s divine debts persist as communities and their expectations change."
           ],
           "sequenceNote": "Their local histories are explicit, while their relation to one another is proposed. No old magical root survives extinction through these customs.",
           "stories": [
             "what-the-town-owed-her",
-            "the-inheritance-remembers",
             "gods-afraid-of-grandma"
           ],
           "window": {
@@ -1188,12 +1190,11 @@
           "description": "People fit homes, tools and habits to capacities that have particular limits.",
           "context": [
             "Cameras, panels, plumbing, clothing and ordinary care turn knowledge into practical accommodation.",
-            "Monthly change, brief shrinking and erratic sneezes have separate mechanisms and costs."
+            "Monthly bodily change and erratic sneeze workings require different accommodations and recovery practices."
           ],
           "sequenceNote": "The domestic practices may coexist with public institutions. Their privacy neither dates their origin nor identifies a shared bodily rule.",
           "stories": [
             "the-wolf-in-the-mirror",
-            "life-with-a-girlfriend-with-shrinking-powers",
             "witch-cold"
           ],
           "window": {
@@ -1227,10 +1228,9 @@
             "Cars, clinics, buses and household technology place the material frames in modern life.",
             "Crossings can alter experienced time without identifying a common route or destination."
           ],
-          "sequenceNote": "Only those home and return frames are placed. Off-axis places, layered skies and retained memories do not date one another's worlds.",
+          "sequenceNote": "Only the familiar material frames are placed. Layered skies and retained journey memories have unresolved causes and cannot be converted into one shared clock.",
           "stories": [
             "roads-under-impossible-stars",
-            "tenth-world-lesson",
             "lightning-carries-one"
           ],
           "window": {
@@ -1369,7 +1369,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "A mortuary complex older than remembered kingdoms shelters living refugees. Its maintenance and final sensory flames survive institutional change; the aurora's damage is local and does not establish a shared worldwide collapse."
+      "note": "A long-lived keeper’s mortuary practice outlasts kingdoms she can still place. She adapts its apparatus to shelter living refugees after an elder’s death. The structures’ age and the northern catastrophe’s wider reach remain unknown."
     },
     "the-villages-only-mage": {
       "window": {
@@ -1411,7 +1411,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "A lord's grain demand captures a public solar-harvest service. Twenty outside years and remembered repetitions of forty-three minutes expose a political failure inside a functioning agricultural system."
+      "note": "Arveth refuses a grain seizure, then traps her own village while trying to divert the pursuing patrol. Twenty outside years and remembered repetitions of forty-three minutes expose the cost of her choice inside a collective agricultural working."
     },
     "the-lions-last-constellation": {
       "window": {
@@ -1607,7 +1607,7 @@
         "start": 55,
         "end": 95
       },
-      "note": "Nell and Bash return to Philadelphia and Cambridge after 617 days in Ravel, only seconds after their separate departures. Their low-magic home precedes later divine rises and the Glass Sea; Ravel's era remains unplaced."
+      "note": "Nell and Bash return to Philadelphia and Cambridge after 617 shared days in Ravel, only seconds after their separate departures. Their low-magic home precedes later divine rises and the Glass Sea. Ravel is another pre-extinction era of this same physical world, with no established order relative to their home."
     },
     "a-knock-in-someone-elses-sleep": {
       "window": {
@@ -2034,7 +2034,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "Agrarian finders enter a buried, unlaunched arsenal whose controls they cannot identify. This is positive evidence of lost technical knowledge; the builders' fate, elapsed generations and cause of loss remain unknown."
+      "note": "Agrarian finders enter a buried, dormant launch facility whose controls they cannot identify. This is positive evidence of lost technical knowledge; its earlier use, builders’ fate, elapsed generations and cause of loss remain unknown."
     },
     "leave-the-names": {
       "window": {
@@ -2195,21 +2195,21 @@
         "start": 10,
         "end": 90
       },
-      "note": "A town's promise crosses 114 years from older stone flood works into electric trains and modern redevelopment. The obligation binds this settlement, not its descendants, making local custodianship its strongest historical context."
+      "note": "A modern town’s flood works and property services surround a witch whose rescue photograph is 114 years old. Open promises keep Evadne within the settlement; descendants inherit expectations rather than magical bonds. Her long life connects earlier communal aid to present-day choices."
     },
     "the-inheritance-remembers": {
       "window": {
         "start": 10,
         "end": 90
       },
-      "note": "GPS courier work and redevelopment encounter a route custom passed through a family after its meaning faded. Fresh marks and a freely given reply address a modern failure; the older Briar Hill parallel cannot carry an old root through extinction."
+      "note": "Modern road maintenance and GPS courier work disturb a threshold custom passed down after its meaning faded. Like Briar Hill, it needs fresh living replies when stored directions fail. Their close material and practical context motivates a shared pre-extinction horizon; a common town, maker or crossing system is not established."
     },
     "the-last-bus-to-briar-hill": {
       "window": {
         "start": 10,
         "end": 90
       },
-      "note": "Modern route work meets a living road custom that requires a fresh freely given answer. This admitted magical history belongs before extinction; the similar problem in The Inheritance Remembers is a later parallel, not a surviving old root."
+      "note": "Modern courier and bus work meets a living crossing custom that requires a fresh freely given answer. This admitted magical history belongs before extinction. The Counted Road shares a proposed historical horizon through older routing practices amid modern services; the stories establish neither a common mechanism nor their mutual order."
     },
     "the-cat-who-had-enough": {
       "window": {
@@ -2223,7 +2223,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "A family watch passes through dating, domestic life and decades of retained consequences in a modern service world. This admitted magical history precedes extinction; its rewinds do not identify any other crossing or time anomaly."
+      "note": "A family watch passes through dating, domestic life and many years of retained consequences in a modern service world. This admitted magical history precedes extinction; its rewinds do not identify any other crossing or time anomaly."
     },
     "gods-afraid-of-grandma": {
       "window": {
@@ -2244,7 +2244,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "A private bracelet incident unfolds among modern school, hospital and museum routines. The Nina–Anin episode is an established pre-extinction magical history, separate from other apparent doubles or divided bodies."
+      "note": "Nina’s spontaneous four-dawn encounter with Anin unfolds among modern school, hospital and family routines. The museum bracelets do not explain or reproduce it. This admitted pre-extinction history remains distinct from other apparent doubles or divided bodies."
     },
     "thirteen-years-borrowed": {
       "window": {
@@ -2370,7 +2370,7 @@
         "start": 10,
         "end": 90
       },
-      "note": "Apartment plumbing, maintenance work and a practiced twenty-four-minute shrinking limit shape a four-year partnership. It fits skilled household accommodation, rather than proving an era of population-wide bodily change."
+      "note": "Apartment plumbing, maintenance work and a practiced twenty-four-minute shrinking limit shape a four-year partnership. This admitted magical history belongs before extinction. Household adaptation connects it to the private bodily practices in this modern horizon; it establishes no population-wide rule."
     },
     "where-sleep-takes-you": {
       "window": {
@@ -2433,12 +2433,12 @@
         "start": 10,
         "end": 90
       },
-      "note": "Ryo's apartment, games and grocery app supply the placed modern frame after nine years of assignments. The destination's sacrificial storm infrastructure and later decentralized stations have their own unresolved coordinates."
+      "note": "Ryo’s apartment, games and grocery app belong to the established pre-extinction material frame. The assignments take nine years of Eiren’s life and considerably more of Ryo’s; neither gives the elapsed time at home. The storm society’s centralized sacrifice and distributed stations have their own unresolved coordinates."
     }
   },
   "storyMoments": {
     "a-knock-in-someone-elses-sleep": [
-      "An undated imprisonment before the terminal extinction",
+      "An enclosed living body encounters quarry workers before learning to meet sleeping children",
       "A childhood friendship loses direct contact",
       "Sixty years later: one child's dream relay"
     ],
@@ -2450,8 +2450,8 @@
     "where-the-white-elk-went": [
       "A hall becomes farm walls; the walls disappear into an orchard.",
       "Oaks grow through the orchard; a later road bends around them and vanishes beneath beech.",
-      "A buried foundation still separates the younger woodland’s roots from Elderweald.",
-      "The elk leads Avarra beyond her old boundary; storm-broken masonry allows the living forest to join."
+      "For a long time, a buried foundation kept the younger woodland’s roots apart from Elderweald.",
+      "Following the elk, Avarra discovers that storm-broken masonry has already allowed the two woodlands to join."
     ],
     "the-morning-her-hand-moved": [
       "For a thousand years, ledgers describe settled life on a body whose death supposedly predates the towns.",
@@ -2467,7 +2467,7 @@
       "Six candle states help guide the physical repair and release its tender."
     ],
     "when-the-eagle-bowed": [
-      "The Eagle Queen refuses to turn her living armor’s broods into a warlord’s army and is executed.",
+      "The Eagle Queen refuses to provide living talonmail for a warlord’s soldiers and is executed.",
       "Three warlords become the weir, ash and road crowns; their territories and warrants diverge.",
       "A century later, the returning queen confronts changed waterways and towns that live under those successors.",
       "She refuses to destroy those populations for revenge and takes a private life beyond the old royal role."
@@ -2492,9 +2492,9 @@
     ],
     "the-unfinished-sunset": [
       "Mineral panes and copper rails make a forty-three-minute solar harvest a collective village practice.",
-      "A lord’s seizure and overload trap the settlement inside that sunset.",
+      "Arveth overloads the harvest as a decoy while fleeing a punitive patrol; her opposed sword motion with Ilessa and severed release braid trap the village.",
       "Twenty outside years pass while those inside remember its repetitions.",
-      "A returning traveler helps complete the interrupted working; the held sunset can end."
+      "Arveth returns to face the people she trapped; Ilessa disarms her and the living keepers complete the release."
     ],
     "voice-of-silence": [
       "Kethra qualifies as an archmage"
@@ -2509,15 +2509,15 @@
       "Orison reaches the Inner Sea; survivors must leave a city that cannot rise again"
     ],
     "the-room-that-waited": [
-      "An unlaunched arsenal outlasts the people who knew its purpose",
+      "A dormant launch facility outlasts accessible knowledge of its purpose",
       "Later agrarian finders recognize EXIT but cannot identify the launch facility",
       "They leave the room unused and mark the hazardous route"
     ],
     "the-trouble-with-tuesdays": [
-      "An inherited watch carries grandfather to grandson without a dated origin",
-      "Repeated rescues leave the sister with memories the brother tried to overwrite",
-      "Many ordinary years follow the audit",
-      "After Eli's death, Rose activates the watch again and reopens the family's pattern"
+      "A watch and its witnessed contract pass from Eli’s grandfather into the family",
+      "Thirty failed rescue attempts are overwritten before Mae’s final retained material death; her re-embodied self never remembers the retries",
+      "Seven Tuesdays later, a three-minute afterlife encounter reveals that Mae’s continuing post-death self remembers all thirty-one lived deaths",
+      "Many years later Eli dies; nine days afterward Rose inherits the watch and rewinds those nine days"
     ],
     "the-first-wound": [
       "A battle lies roughly twenty-five thousand local years before the present",
@@ -2569,7 +2569,9 @@
       "Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"
     ],
     "the-players-above": [
-      "A working mill town confronts a higher-order machine through practical engineering"
+      "After a tabletop game, friends discover a metallic root fed by sincere spoken intentions to travel; it has already grown along earlier errands",
+      "A limited contact claims to be taking a turn in a cosmic game; its own location and date remain unknown",
+      "Local route knowledge and engineering redirect the hazard before the morning market"
     ],
     "the-station-between": [
       "Ruth dies in a familiar modern life; the station itself remains outside material dating"
@@ -2578,16 +2580,18 @@
       "A private infernal gate opens onto a contemporary human engineering college"
     ],
     "tenth-world-lesson": [
-      "Departure through an apartment doorway",
-      "Nine assignments",
-      "The tenth severance",
-      "Return through the same doorway"
+      "Ryo leaves through an apartment doorway and undertakes nine assignments",
+      "Nine years pass for Eiren, considerably more for Ryo; the elapsed interval at home is unspecified",
+      "The tenth assignment confronts a storm society already replacing a sacrificial office with distributed work",
+      "Ryo returns through the apartment doorway after the tenth severance"
     ],
     "realms": [
       "A phone, hospital system, tablet, and living portal coexist in one contemporary frame"
     ],
     "where-no-unicorn-stands": [
-      "A queen's magic and a warded storm seam require an active-magic era"
+      "A queen’s coronation four days earlier roots a storm above thirsty valley orchards",
+      "The same act traps a Pegasus cloud city; its failed messages lead to the heir’s abduction",
+      "A staged release lets the cloud city move and rain reach the valley, without settling the two kingdoms’ conflict"
     ],
     "the-count-was-131072": [
       "The Bay is fought and its crown permanently expended.",
@@ -2618,9 +2622,9 @@
       "Recovered records guide a severing of central control; local witnesses govern their branches, and two settlements survive after cutting failed connections."
     ],
     "all-accounts-due": [
-      "An armistice after route and furnace wars joins still-working magical societies through the Ascendancy.",
-      "The Array develops for 302 years through gathered and stolen knowledge.",
-      "Faris accumulates bounded living conditions over thirty-one years while walking cities, living palaces and other systems continue.",
+      "Six-practice engineers build the Array 302 years before the terminal confrontation as a last resort against coupled roots.",
+      "The Ascendancy, born from postwar armistice councils, appropriates Array studies and living contributions to bind every root to command.",
+      "Faris accumulates eight bounded relics over thirty-one years while walking cities, living palaces and other systems continue.",
       "The six terminal conditions end old material magic; Faris and Seyathi remain alive in open fall."
     ],
     "the-sky-remembers-us-return": [
@@ -2648,13 +2652,14 @@
     ],
     "the-foundations-remember": [
       "Earlier builders create the worked structure beneath the claimed foundation layer",
-      "The vertical city's official history claims humanity begins with itself",
+      "The city’s official founding story claims its first pillars rested on raw stone",
       "A worker's bodily route memory threatens that claim and is preserved inside collateralized personal memory"
     ],
     "the-inheritance-remembers": [
-      "A demolition lifts an inherited threshold spike",
-      "Public road users must coordinate around a displaced route",
-      "The road working remains distinct from other city networks"
+      "A family preserves a threshold-counting custom after its practical meaning is forgotten",
+      "Demolition unseats the iron spike; familiar route cues begin to disappear",
+      "Newly painted marks and fresh replies guide the couriers out before the remaining count is consumed",
+      "The spike breaks, signs return and the crew secures the route for cleanup in daylight"
     ],
     "the-night-harvest": [
       "Creatures appear; their bodies enter established markets for roofs, rope, medicine and lamps.",
@@ -2685,7 +2690,7 @@
     "sakura-hearted": [
       "A moon ride carries the couple on a date ten years earlier",
       "Eight years of marriage bring a private anniversary",
-      "The rebuilt ride circles their apartment beneath paper planets"
+      "The rebuilt ride turns on its base beneath paper planets in their apartment"
     ],
     "the-second-wearing": [
       "The living pendant accompanies Pavia for years and knows only the parts of her life shared with it.",
@@ -2708,7 +2713,7 @@
     ],
     "a-darkness-written-under-skin": [
       "After twenty years believed unmarked: ultraviolet light exposes a hidden birth mark",
-      "The scheduled graft becomes a private consultation"
+      "The graft is withheld pending consultation; a form records the concern without disclosing the ultraviolet finding"
     ],
     "friends-of-the-night": [
       "Six years of tolerated nearness precede the siege",
@@ -2716,15 +2721,17 @@
       "The host leaves without an established alliance or lasting peace"
     ],
     "the-hollow-cask": [
-      "A twelve-week harvest reopening aim begins the restoration",
-      "An early storm exposes a coerced living load",
-      "The smaller hall reopens on visible ordinary posts"
+      "A public hall is rebuilt around an older cask shell across successive generations",
+      "Later operators reduce food and use smoke to coerce the living colony supporting it",
+      "A twelve-week harvest reopening aim begins Agnes’s restoration",
+      "An early storm exposes the coerced living load",
+      "The smaller hall reopens on ordinary posts while the colony receives habitat without compulsory work"
     ],
     "the-first-people": [
       "Humanity sends roads and empty stations toward stars before younger civilizations arise",
       "Later travelers inherit the routes and turn humanity's priority into a story of legendary elders",
       "A pursued courier reaches a civilian listener in a rain-soaked house on Earth",
-      "A rolling root burn closes universal fast transit; slower rescue craft launch into a still-inhabited sky"
+      "A rolling root burn destroys the inherited fast-road network; slower rescue craft launch into a still-inhabited sky"
     ],
     "the-ten-thousand-year-queen": [
       "Roughly ten thousand years after the last pharaoh, adults are reconstructed from fragmentary ancient DNA",
@@ -2760,9 +2767,10 @@
       "The sea returns; the royal story has become a question about a changing working landscape"
     ],
     "what-the-town-owed-her": [
-      "A photograph records Evadne's flood rescue 114 years earlier",
-      "Family promises preserve her youth while restricting her movement",
-      "A renewed agreement changes who carries the obligation and opens the road out of town"
+      "A photograph records Evadne’s flood rescue 114 years earlier",
+      "Open promises preserve her youth and keep her inside Mirehaven; descendants inherit expectations, not magical bonds",
+      "After another flood rescue, Evadne releases every remaining promise herself",
+      "She crosses the town boundary and begins aging again; returning for tea is her choice"
     ],
     "lightning-carries-one": [
       "Eight years earlier, a same-second crossing leaves Tobin with long, conflicting journey memories",
@@ -2770,10 +2778,10 @@
       "On an ordinary bus route, the siblings examine the notebook and acknowledge what the crossing preserved"
     ],
     "the-last-flames": [
-      "Stillfire’s mortuary stores freely left final sensations and channels them through old gates and flues.",
-      "Its long-lived keeper maintains the accumulated works across the disappearance of kingdoms.",
-      "Sixty-one young dragons arrive from a northern catastrophe.",
-      "The keeper turns the differing stored patterns against the threat; the young survive while an elder dies."
+      "Alexstrasza maintains mortuary procedures older than the kingdoms she can still place, carrying freely left final sensations within herself.",
+      "Ygdrane dies and freely leaves flame before the refugees arrive.",
+      "Sixty-one living young dragons seek shelter from a northern catastrophe.",
+      "Alexstrasza routes the differing patterns through old gates and flues; all sixty-one survive without losing their final flame."
     ],
     "fifty-seven-minutes": [
       "At thirty-nine, Orselle receives salt-breath and agelessness from a dying sea creature.",
@@ -2795,7 +2803,7 @@
     ],
     "the-way-around": [
       "A vast ring structure is built and later receives warnings and marks from earlier visitors.",
-      "A professional expedition enters; Ivara’s living aim activates routes that remain open after her shots.",
+      "A professional expedition enters; Ivara’s shots interact with the lattice and leave routes open behind them.",
       "The accumulating paths threaten the explorers until combined observations locate an exterior closure stone.",
       "They return at dawn and record the finding under three names."
     ],
@@ -2807,7 +2815,7 @@
     "rooms-before-sunrise": [
       "Five temporarily detached housing bindings are wrongly archived during a floor molt",
       "Living chambers grow outside the official census while their residents remain alive",
-      "A pre-sunrise repair begins restoring viable routes and registrations"
+      "A pre-sunrise repair keeps the living cultures viable and opens temporary egress; the census and lease entries remain unresolved"
     ],
     "the-city-of-eleven-foundations": [
       "Eleven different technical districts actively inhabit one basin",
@@ -2815,9 +2823,9 @@
       "Crews combine their contemporaneous capacities to repair the ring"
     ],
     "thirteen-years-borrowed": [
-      "A living visitor joins a volunteer system of repeated host transfers",
-      "Thirteen years pass while the original body ages from thirty-one to forty-four",
-      "A bounded return finds another living mind in that body"
+      "Tamaris awakens behind a stranger’s eyes and begins a search through living hosts",
+      "Thirteen years pass while her original body ages from thirty-one to forty-four and Nivra builds a life within it",
+      "A present-day visit through Calo brings the two living minds together without settling ownership by prior occupancy"
     ],
     "the-warmest-person-in-the-room": [
       "Brightward already trains and certifies people with varied capacities",
@@ -2827,11 +2835,11 @@
     "the-thirteenth-command": [
       "Edda accumulates thirty-six years of dispatch experience",
       "An old sensor board and a changed landscape make archived plans unreliable",
-      "An eleven-minute command session uses experience while consuming battery cells"
+      "A roughly eleven-minute command session uses experience while consuming battery cells"
     ],
     "anatomy-of-a-god": [
       "A practitioner accumulates twelve years of regenerator-care experience",
-      "Travel reaches an abandoned cult sanctuary",
+      "Travel reaches a neglected cult sanctuary",
       "Physical care apparatus complicates the claim that its inhabitant is a god"
     ],
     "the-night-she-knew": [
@@ -2857,9 +2865,9 @@
       "note": "Millions of years of displacement; both universal coordinates open"
     },
     "the-small-moon-rose-first": {
-      "start": "Ravel encounter",
-      "end": "Old low-magic modernity",
-      "note": "617 shared Ravel days; eleven seconds for Nell and twelve for Bash at departure, but their home returns are four months apart. Ravel's Galactic coordinate is open."
+      "start": "Ravel: another material era",
+      "end": "The low-magic home returns",
+      "note": "617 shared Ravel days correspond to eleven seconds at Nell’s departure and twelve at Bash’s; their home returns are four months apart. Both material eras precede extinction. Which era comes first in world history is unresolved."
     },
     "the-count-was-131072": {
       "start": "The Battle of the Bay",
@@ -2872,9 +2880,9 @@
       "note": "Fall → ages of zero → genuinely new magic"
     },
     "tenth-world-lesson": {
-      "start": "Modern apartment departure",
-      "end": "Return through the same doorway",
-      "note": "Modern frame; ten destination coordinates remain open"
+      "start": "The apartment departure",
+      "end": "The apartment return",
+      "note": "Nine years on Eiren’s clock, considerably more on Ryo’s. The elapsed home interval and destination coordinates are unspecified; the home frame precedes extinction."
     },
     "stay-out-of-my-city": {
       "start": "The harbor ultimatum",
@@ -2919,7 +2927,7 @@
     "the-room-that-waited": {
       "start": "An arsenal built by an earlier technical society",
       "end": "A warning left by later agrarian finders",
-      "note": "The generations and cause of knowledge loss are uncounted; this unlaunched facility does not prove a nuclear war."
+      "note": "The generations and cause of knowledge loss are uncounted. The dormant facility does not establish an earlier launch or a nuclear war."
     },
     "the-first-people": {
       "start": "Roads built before the younger stellar civilizations",
@@ -2949,7 +2957,7 @@
     "the-last-flames": {
       "start": "An old dragon mortuary",
       "end": "A refuge for living young",
-      "note": "The apparatus predates remembered kingdoms; the interval and the northern threat remain undated."
+      "note": "The keeper’s mortuary procedures outlast remembered kingdoms; the apparatus’s construction date and the northern threat remain undated."
     },
     "when-the-eagle-bowed": {
       "start": "The custodial queen’s execution",
@@ -3034,7 +3042,7 @@
     "all-accounts-due": {
       "start": "A vigorous connected magical world",
       "end": "The extinction of old magic",
-      "note": "The Array is 302 years in construction and Faris’s accumulation lasts thirty-one years. The six then-active roots are not universal origins for all earlier magic."
+      "note": "The Array was built 302 years before the confrontation; Faris accumulates the relics over thirty-one years. Neither interval is a construction duration. The six ended roots are not universal origins for every earlier magic."
     },
     "strength-of-ten": {
       "start": "The military demand",
@@ -3050,6 +3058,46 @@
       "start": "The wall closes after the horde defeat",
       "end": "A commission crosses five hundred years later",
       "note": "The enclosed society and its industrial neighbor coexist; their different tools are not sequential world ages."
+    },
+    "the-trouble-with-tuesdays": {
+      "start": "The grandfather’s card-game contract",
+      "end": "Rose inherits the watch",
+      "note": "The grandfather, Eli and his niece Rose hold the watch in turn. Repeated attempts on one April 22 leave one retained death, followed by many years of Eli’s life. Mae remembers all thirty-one lived deaths only in her continuing afterlife."
+    },
+    "the-hollow-cask": {
+      "start": "A hall built around an older cask shell",
+      "end": "A smaller hall reopens",
+      "note": "Successive rebuilding, coerced living labor, abandonment and restoration belong to the same institution across undated generations."
+    },
+    "what-the-town-owed-her": {
+      "start": "The rescue photographed 114 years earlier",
+      "end": "Evadne crosses the boundary",
+      "note": "Open promises keep one woman young while the town changes. Their release ends her confinement; the descendants were never magically bound."
+    },
+    "gods-afraid-of-grandma": {
+      "start": "A card game interrupted at age sixty-two",
+      "end": "The game resumes at 108",
+      "note": "Forty-six years of deferred divine obligations unfold among changing roads, worship habits and ordinary medical services. The debts do not make her immortal."
+    },
+    "blade-calls-your-name": {
+      "start": "A quarry-saw alloy",
+      "end": "A service blade under repair",
+      "note": "A century of repairs carries the old alloy into a later service blade. A six-year temporary splice fails in the present; the material’s history is longer than the current fault."
+    },
+    "the-foundations-remember": {
+      "start": "Worked stone beneath the claimed beginning",
+      "end": "A worker recovers the forbidden route",
+      "note": "An already worn and repaired stair, lintel and channel precede an anchor stamped a year before the official First Foundation. The older builders and the full interval remain unknown."
+    },
+    "a-throne-neither-wanted": {
+      "start": "Three centuries of household forecasts",
+      "end": "A voluntary transfer of the crown",
+      "note": "The archive records acts without compelling them. A fatal injury from the previous year and its coronation support lead to the present succession; the forecast tradition is older than this crisis."
+    },
+    "a-knock-in-someone-elses-sleep": {
+      "start": "The earlier quarry encounter",
+      "end": "A child carries a new reply",
+      "note": "Sixty years after Garnet’s last childhood visits, Cleo carries a reply. The confinement’s full duration and the dream destination’s material coordinates remain unresolved."
     }
   },
   "storyEvidence": {
@@ -3169,7 +3217,7 @@
     "what-turned-eighteen": "undated",
     "transitions-in-common": "constrained",
     "a-darkness-written-under-skin": "contextual",
-    "life-with-a-girlfriend-with-shrinking-powers": "undated",
+    "life-with-a-girlfriend-with-shrinking-powers": "constrained",
     "the-warmest-person-in-the-room": "constrained",
     "captive-couples": "undated",
     "the-name-i-kept": "undated",
@@ -3182,7 +3230,7 @@
     "where-sleep-takes-you": "undated",
     "the-last-bus-to-briar-hill": "constrained",
     "realms": "constrained",
-    "the-inheritance-remembers": "undated",
+    "the-inheritance-remembers": "contextual",
     "what-the-town-owed-her": "undated",
     "where-no-unicorn-stands": "contextual",
     "a-throne-neither-wanted": "contextual",
@@ -3194,7 +3242,7 @@
     "when-the-needle-finds-you": "undated",
     "the-small-moon-rose-first": "relative",
     "the-first-kingdom-was-late-on-taxes": "undated",
-    "tenth-world-lesson": "undated",
+    "tenth-world-lesson": "constrained",
     "the-count-was-131072": "relative",
     "the-morning-her-hand-moved": "undated",
     "a-crown-for-the-endless-fire": "undated",
@@ -3225,7 +3273,7 @@
       "to": "daughter-of-the-sun",
       "kind": "direct",
       "label": "One world, a later age",
-      "note": "The established chronology places Nell and Bash’s old-modern endpoint long before the Glass-Sea era on the same physical world. This orders that endpoint only; Ravel remains undated.",
+      "note": "The established chronology places Nell and Bash’s old-modern endpoint long before the Glass-Sea era on the same physical world. This orders that endpoint only. Ravel is also a pre-extinction material era, but its order relative to either remains unresolved.",
       "ordering": "before",
       "basis": "established"
     },
@@ -3485,7 +3533,7 @@
       "to": "the-room-that-waited",
       "kind": "historical",
       "label": "When maintenance becomes forgotten knowledge",
-      "note": "A proposed long arc places Orison’s working reactor knowledge before agrarian encounters with an unrecognized arsenal. The facility is not identified as Orison, and its builders’ fate and cause of loss remain unknown. Orison’s grounding is a local event, not an established cause of this later condition.",
+      "note": "A proposed long arc places Orison’s working reactor knowledge before agrarian encounters with an unrecognized launch facility. The facility is not identified as Orison, and its builders’ fate and cause of loss remain unknown. Orison’s grounding is a local event, not an established cause of this later condition.",
       "ordering": "before",
       "basis": "proposed"
     },
@@ -3515,7 +3563,7 @@
       "to": "the-star-that-followed-the-bells",
       "kind": "historical",
       "label": "Life after the fast roads",
-      "note": "Proposed historical sequence: the destruction of universal fast transit is followed by a reach in which stellar travel is fragmented, represented here by the damaged ship over Ruskala and its independent satellite flock. The root burn does not explain the ship's memory damage, and no common route technology is established. The proposed inheritance is a disconnected sky in which local navigation matters again.",
+      "note": "Proposed historical sequence: the destruction of the inherited universal road network is followed by a reach in which stellar travel is fragmented, represented here by the damaged ship over Ruskala and its independent satellite flock. The root burn does not explain the ship's memory damage, and no common route technology is established. The proposed inheritance is a disconnected sky in which local navigation matters again.",
       "ordering": "before",
       "basis": "proposed"
     },
@@ -3620,14 +3668,14 @@
       "basis": "proposed"
     },
     {
-      "id": "road-customs-across-the-zero",
+      "id": "road-customs-and-fresh-replies",
       "from": "the-last-bus-to-briar-hill",
       "to": "the-inheritance-remembers",
-      "kind": "echo",
-      "label": "A fresh answer on an inherited road",
-      "note": "Modern route workers meet living road customs in two proposed magic-active ages. Their similar need for a fresh freely given answer is a thematic recurrence across the zero, not evidence that an old root, road or institution survived it.",
+      "kind": "historical",
+      "label": "Fresh replies on older roads",
+      "note": "Proposed shared historical horizon: courier and municipal route workers encounter older living crossing practices amid courier apps, redevelopment and ordinary traffic. Both passages defeat stored route information and require fresh human replies. These unusually close practical conditions support grouping the stories in one broad pre-extinction horizon. The threshold spike and Briar Host still have different rules; no common maker, town or direct succession is established.",
       "ordering": "none",
-      "basis": "thematic"
+      "basis": "proposed"
     }
   ]
 }

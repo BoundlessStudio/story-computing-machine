@@ -1398,12 +1398,6 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual("old-magic", states["strength-of-ten"])
         self.assertEqual("long-dark", states["the-names-on-the-cups"])
         self.assertEqual("new-magic", states["the-sky-remembers-us-return"])
-        # Instruments, contemporary settings, or quiet scenes do not establish
-        # a magicless mechanism for these observed effects.
-        for slug in ("the-upward-rain", "the-kingdom-was-the-easy-part",
-                     "the-morning-her-hand-moved", "the-night-harvest"):
-            with self.subTest(slug=slug):
-                self.assertNotEqual("long-dark", states[slug])
         self.assertIn("daughter-of-the-sun", timeline.story_spans)
         self.assertIn("the-count-was-131072", timeline.story_spans)
         self.assertIn("the-small-moon-rose-first", timeline.story_spans)
@@ -1535,7 +1529,29 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn('A remembered event can reach beyond its story’s proposed era', rendered)
         without_spans = build.render_timeline(catalog, replace(timeline, story_spans={}))
         self.assertNotIn('class="story-span"', without_spans)
+        self.assertNotIn('data-depth-dialog', without_spans)
         self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', without_spans)))
+
+    def test_long_histories_are_discoverable_without_duplicate_story_placement(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        slug = "the-small-moon-rose-first"
+        unsafe = '\"><script>unplaced history</script> & "a clock"'
+        spans = dict(timeline.story_spans)
+        spans[slug] = build.TimelineSpan(unsafe, unsafe, unsafe)
+        rendered = build.render_timeline(catalog, replace(timeline, story_spans=spans))
+        self.assertEqual(len(spans), rendered.count('data-time-fold '))
+        self.assertEqual(1, rendered.count(f'id="story-{slug}"'))
+        self.assertEqual(1, rendered.count('id="atlas-depths"'))
+        self.assertIn('data-depth-dialog aria-labelledby="deep-history-title"', rendered)
+        self.assertIn('Each path follows a story’s experience, not the order of world eras.', rendered)
+        self.assertNotIn(unsafe, rendered)
+        escaped = html.escape(unsafe, quote=True)
+        self.assertIn(f'<span>{escaped}</span>', rendered)
+        article = rendered.split(f'id="story-{slug}"', 1)[1].split('</article>', 1)[0]
+        self.assertIn(escaped, article.split('data-search="', 1)[1].split('">', 1)[0])
+        for source_slug in spans:
+            self.assertIn(f'<a href="#story-{source_slug}">', rendered)
 
     def test_worldline_escapes_editorial_text_in_panels_and_search_attributes(self):
         catalog = build.load_catalog()
@@ -1570,10 +1586,11 @@ class StorySystemTests(unittest.TestCase):
         catalog = build.load_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         # Test the authority boundary, not a preferred editorial cohort.
-        for slug in ("the-last-bus-to-briar-hill", "the-trouble-with-tuesdays",
-                     "self-reflection", "the-wrong-side-of-the-part",
-                     "transitions-in-common", "a-place-for-the-living",
-                     "the-warmest-person-in-the-room", "realms"):
+        # These two regressions come from LOCKED universe entries even though
+        # their story-package flags are false. Do not filter by catalog.canon.
+        self.assertTrue({"tenth-world-lesson", "life-with-a-girlfriend-with-shrinking-powers"}
+                        <= build.PRE_EXTINCTION_MATERIAL_HISTORIES)
+        for slug in build.PRE_EXTINCTION_MATERIAL_HISTORIES:
             for state in ("long-dark", "new-magic"):
                 with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
                     value = json.loads(json.dumps(original))
@@ -1588,6 +1605,29 @@ class StorySystemTests(unittest.TestCase):
                     path.write_text(json.dumps(value), encoding="utf-8")
                     with self.assertRaisesRegex(ValueError, "must precede the old magic extinction"):
                         build.load_timeline(catalog, path)
+
+    def test_boundary_guard_preserves_explicitly_open_later_histories(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        # A material effect with an unresolved category may fit the Long Dark;
+        # later active-magic admissions can leave either magic-active side open.
+        for slug, state in (("the-night-harvest", "long-dark"),
+                            ("there-goes-your-name", "old-magic"),
+                            ("a-throne-neither-wanted", "new-magic")):
+            with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                source = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                              if slug in era["stories"])
+                source["stories"].remove(slug)
+                destination = next(cycle for cycle in value["cycles"]
+                                   if cycle["magicState"] == state)["eras"][0]
+                destination["stories"].append(slug)
+                value["storyPlacements"][slug]["window"] = destination["window"].copy()
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                loaded = build.load_timeline(catalog, path)
+                states = {item: cycle.magic_state for cycle in loaded.cycles for item in cycle.stories}
+                self.assertEqual(state, states[slug])
 
     def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
         catalog = build.load_catalog()
