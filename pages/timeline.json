@@ -607,10 +607,10 @@
           "id": "event-the-small-moon-rose-first",
           "title": "The Small Moon Rose First",
           "magicState": "old-magic",
-          "description": "Ravel: another material era → The low-magic home returns.",
+          "description": "Ravel: another material era → One year after Nell’s return.",
           "context": [
             "Nell and Bash return to Philadelphia and Cambridge after 617 shared days in Ravel, only seconds after their separate departures. Their low-magic home precedes later divine rises and the Glass Sea. Ravel is another pre-extinction era of this same physical world, with no established order relative to their home.",
-            "617 shared Ravel days correspond to eleven seconds at Nell’s departure and twelve at Bash’s; their home returns are four months apart. Both material eras precede extinction. Which era comes first in world history is unresolved."
+            "617 shared Ravel days correspond to eleven seconds at Nell’s departure and twelve at Bash’s. The February 18 and June 7 returns are about four home months apart; the story continues through the anniversary of Nell’s return. Both material eras precede extinction, but their order relative to each other remains unresolved."
           ],
           "sequenceNote": "The last proposed event in this cycle, after The Tenth World Needs No Hero. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -4089,7 +4089,7 @@
     "the-first-kingdom-was-late-on-taxes": [
       "Kettlebridge has working trades, households and a tax reeve before the aurora. A washed-out bridge contributes to three quarters of unpaid tax; this is not an established first kingdom.",
       "Millions of outside years separate departure from arrival. The receiving society has excavated objects beyond the village's old boundary and its cemetery for generations before the villagers return.",
-      "A warning gives the excavation forty-three heartbeats to withdraw. The village arrives on the same bedrock without merging into machinery; the spring, fields, road and cemetery remain outside the transported boundary.",
+      "After a warning, the machines withdraw and are clear forty-three heartbeats before arrival. The village reaches the same bedrock without merging into machinery; the spring, fields, road and cemetery remain outside the transported boundary.",
       "Ninety-seven people are found. A twenty-minute first conversation produces a hose; by noon translation supports limited agreements while households, water stewards and care workers organize independently.",
       "Near sunset a temporary order protects living people and occupied goods. Land, ancestry, excavated remains and historical claims remain unresolved; the exhibition closes and the ceremony is paused.",
       "Households choose separately whether to move to a disused freight hall with accessible water and animal space. Others stay under site watches; loading records do not become copies of the tax roll.",
@@ -4952,8 +4952,8 @@
     },
     "the-small-moon-rose-first": {
       "start": "Ravel: another material era",
-      "end": "The low-magic home returns",
-      "note": "617 shared Ravel days correspond to eleven seconds at Nell’s departure and twelve at Bash’s; their home returns are four months apart. Both material eras precede extinction. Which era comes first in world history is unresolved."
+      "end": "One year after Nell’s return",
+      "note": "617 shared Ravel days correspond to eleven seconds at Nell’s departure and twelve at Bash’s. The February 18 and June 7 returns are about four home months apart; the story continues through the anniversary of Nell’s return. Both material eras precede extinction, but their order relative to each other remains unresolved."
     },
     "the-count-was-131072": {
       "start": "The Battle of the Bay",
