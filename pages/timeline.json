@@ -2496,7 +2496,7 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "A later new-magical world contains campaign veterans and functioning kingdoms as well as bodily professions, public works and sophisticated investigations of the past. Local lives carry their own spans: an ended six-year campaign, years of managing a curse, much older memories and inhabited structures. The Salt Crucible does not found these societies. Excavated shores and Kettlebridge's displaced arrival remain separate later encounters with unresolved earlier histories.",
+      "description": "A later new-magical world contains campaign veterans and functioning kingdoms as well as bodily professions, public works and sophisticated investigations of the past. Local lives carry their own spans: a victory six weeks before one household story, years of managing a curse, much older memories and inhabited structures. The Salt Crucible does not found these societies. Excavated shores and Kettlebridge's displaced arrival remain separate later encounters with unresolved earlier histories.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2521,10 +2521,10 @@
           "id": "event-the-kingdom-was-the-easy-part",
           "title": "The Kingdom Was the Easy Part",
           "magicState": "new-magic",
-          "description": "Six years on campaign → The later voluntary gathering.",
+          "description": "Victory at the black keep → The later voluntary gathering.",
           "context": [
-            "Proposed in the later new-magical history as a separate kingdom with an established six-year campaign behind it. The opening is six weeks after victory, and the main change concerns how former companions live afterward. A later heroic kingdom can coexist with technical cities; its appearance does not make it an early-world origin. No old dragon lineage or connection to the Salt Crucible is established.",
-            "The opening is six weeks after victory. Six days of games lead to the seventh-night crisis, followed by two days of door repairs and a gathering on the third evening. These are the local aftermath of one campaign, not a global postwar settlement."
+            "Proposed in the later new-magical history as a separate kingdom after an established campaign. The old campaign hands have six years with Dabria behind them; the story does not date the entire war. The opening is six weeks after victory, and the main change concerns how former companions live afterward. A later heroic kingdom can coexist with technical cities. No old dragon lineage or connection to the Salt Crucible is established.",
+            "The opening is six weeks after victory. Six days of games lead to the seventh-night crisis, followed by two days of door repairs and a gathering on the third evening. The old campaign hands' six years with Dabria do not establish the duration of the entire war. These intervals belong to one household's local aftermath."
           ],
           "sequenceNote": "Proposed after Thirteen Years Borrowed and before A Darkness Written Under Skin. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -3515,7 +3515,7 @@
         "start": 10.85,
         "end": 12.25
       },
-      "note": "Proposed in the later new-magical history as a separate kingdom with an established six-year campaign behind it. The opening is six weeks after victory, and the main change concerns how former companions live afterward. A later heroic kingdom can coexist with technical cities; its appearance does not make it an early-world origin. No old dragon lineage or connection to the Salt Crucible is established."
+      "note": "Proposed in the later new-magical history as a separate kingdom after an established campaign. The old campaign hands have six years with Dabria behind them; the story does not date the entire war. The opening is six weeks after victory, and the main change concerns how former companions live afterward. A later heroic kingdom can coexist with technical cities. No old dragon lineage or connection to the Salt Crucible is established."
     },
     "friends-of-the-night": {
       "window": {
@@ -4483,7 +4483,7 @@
       "The sisters stay in their refuges; cross-kingdom witnesses and routine relay repairs still lie ahead."
     ],
     "the-kingdom-was-the-easy-part": [
-      "Six years of campaigning end in victory at the black keep, with a broken promise still dividing two companions.",
+      "The old campaign hands have spent six years with Dabria. Victory at the black keep leaves a broken promise between two companions; the full war's duration is unstated.",
       "Six weeks later, Dabria tries to organize the shared household as though it were still a campaign.",
       "After six days of games, the seventh-night removal of the doors exposes private plans to leave and rooms that exclude the dragon.",
       "Two days of repairs restore the doors. On the third evening, the household gathers voluntarily and Oruvane returns.",
@@ -4970,9 +4970,9 @@
       "note": "The coup precedes the main night by two months. The coordinated response takes three hours; capture occurs near midnight and news reaches the refuges before dawn. One kingdom's fall does not date the others' founding or destroy their ongoing work."
     },
     "the-kingdom-was-the-easy-part": {
-      "start": "Six years on campaign",
+      "start": "Victory at the black keep",
       "end": "The later voluntary gathering",
-      "note": "The opening is six weeks after victory. Six days of games lead to the seventh-night crisis, followed by two days of door repairs and a gathering on the third evening. These are the local aftermath of one campaign, not a global postwar settlement."
+      "note": "The opening is six weeks after victory. Six days of games lead to the seventh-night crisis, followed by two days of door repairs and a gathering on the third evening. The old campaign hands' six years with Dabria do not establish the duration of the entire war. These intervals belong to one household's local aftermath."
     },
     "the-seventh-night": {
       "start": "The sixth safe day passes",
