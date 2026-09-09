@@ -5,29 +5,28 @@
       "id": "cycle-01-older-inhabited-world",
       "title": "The Older Inhabited World",
       "eyebrow": "Kingdoms, commercial roads and metropolitan inheritances occupy an already old world.",
-      "description": "The older world is already inhabited and contested. Rural dependence on living practitioners meets expanding crowns; alliances, sanctuary kingdoms and treaty jurisdictions limit what rulers can possess. Professional schools and commercial towns support lives beyond the court. Later metropolitan trades openly handle some workings while households keep other knowledge privately. Nell and Bash eventually inhabit a low-magic society after earlier technological and magical ages.",
-      "sequenceNote": "This proposed orbit brings together overlapping regions before a later metropolitan reach and Nell's trough. The historical movement concerns changing institutions and access to knowledge; it does not assign every region one rise or fall. Windows locate broad reaches rather than convert local years into orbital duration.",
+      "description": "The older world is already inhabited and contested. Living practitioners sustain local communities while councils, courts and armies make competing claims on public protectors. Territorial campaigns encounter lands with purposes of their own; compacts limit what crowns can possess. Schools and traveling professions coexist with commercial roads through older political worlds. Later metropolitan trades openly handle some workings while households keep other knowledge privately. Nell and Bash eventually inhabit a low-magic society after earlier technological and magical ages.",
+      "sequenceNote": "This proposed orbit brings together overlapping regional cultures before a later metropolitan reach and Nell's trough. A village, a professional school and a military road can depend on one another without representing successive stages of progress. Windows locate broad reaches rather than convert local years into orbital duration.",
       "eras": [
         {
           "id": "old-inland-territories",
           "title": "The tended watersheds",
           "magicState": "old-magic",
-          "description": "Settlements entrust crops, water, health and protection to people whose capacities have become part of everyday survival.",
+          "description": "Crops, water, health and household routines depend on living practitioners whose work has accumulated over years.",
           "context": [
-            "A maintained barrier, seasonal plant work and a failing spring make dependence on living practitioners tangible.",
-            "Research and collective agricultural workings can endanger the same neighbors they were meant to help."
+            "A maintained barrier, seasonal plant work and many small village favors support ordinary settlement life; residents still need tools, labor and practical knowledge.",
+            "A private researcher's experiment and visiting surveyors expose different failures: coercion in one case, and a mistaken model of circulating favors in the other."
           ],
-          "sequenceNote": "These communities already possess accumulated knowledge and obligations. Their local crises overlap the territorial campaigns; they do not represent the first discovery of magic.",
+          "sequenceNote": "These established communities overlap the towns, schools and territorial campaigns. Lanternscrape's visiting specialists connect rural dependence to a wider professional world; a village is not simply an earlier stage of a city.",
           "stories": [
             "the-ninety-year-barrier",
             "every-flower-she-knew",
             "blood-types-of-immortality",
-            "the-unfinished-sunset",
-            "the-lions-last-constellation"
+            "the-villages-only-mage"
           ],
           "window": {
             "start": 2,
-            "end": 35
+            "end": 60
           }
         },
         {
@@ -36,13 +35,13 @@
           "magicState": "old-magic",
           "description": "Expanding powers encounter lands and lives whose existing purposes obstruct military possession.",
           "context": [
-            "An armor colony carries a defeated queen's memory; a trained bird resists becoming a royal weapon.",
-            "Refuges, beast routes, inhabited watersheds and a dragon's quarry become contested resources rather than empty territory."
+            "Three successor crowns pursue a former custodian through changed uplands. Elsewhere, a punitive grain seizure drives a deserter's disastrous intervention in a village harvest.",
+            "Mixed refuges, beast runs, protected approaches and a dragon's nest obstruct military or extractive ambitions. Local inhabitants retain purposes that the invading power may misread."
           ],
-          "sequenceNote": "These are neighboring kinds of territorial conflict, each with its own rulers and peoples. The Eagle succession supplies a century of local depth; the other campaigns have no shared war.",
+          "sequenceNote": "These territorial conflicts have different rulers, causes and outcomes. A century of successor rule and twenty years outside a trapped sunset are separate local histories. Neither evacuation nor negotiated withdrawal establishes a common peace.",
           "stories": [
             "when-the-eagle-bowed",
-            "never-a-mascot",
+            "the-unfinished-sunset",
             "mother-of-monsters",
             "friends-of-the-night",
             "the-name-the-water-took",
@@ -52,6 +51,27 @@
           "window": {
             "start": 2,
             "end": 35
+          }
+        },
+        {
+          "id": "old-public-protectors",
+          "title": "The people called heroes",
+          "magicState": "old-magic",
+          "description": "Public protection can be a chosen feat, a civic office, or a duty that other people try to impose.",
+          "context": [
+            "Nemea's rules recognize a champion while excluding her witness from the deed. A court-appointed hero wears armor that diverts danger onto nearby protectors.",
+            "An armored rooster protects a road across both armies' wars. A cloister's private experiment produces a remarkable rescue without making its practitioner a public employee."
+          ],
+          "sequenceNote": "These proposed neighboring cultures distribute heroic power and credit differently. They overlap working communities and professional schools before Nell's later low-magic home. Their practices are not established ancestors of the later public sky or hero agencies.",
+          "stories": [
+            "the-lions-last-constellation",
+            "the-last-thing-i-could-fix",
+            "never-a-mascot",
+            "the-thousandth-fall"
+          ],
+          "window": {
+            "start": 17,
+            "end": 61
           }
         },
         {
@@ -103,26 +123,22 @@
         },
         {
           "id": "old-colleges-signal-roads",
-          "title": "The learned trades",
+          "title": "The schools and working professions",
           "magicState": "old-magic",
-          "description": "Schools, apprenticeships and specialist practices determine who may exercise a capacity, teach it, and make a living from it.",
+          "description": "Qualification, teaching and working appointments shape who can practice a capacity and which communities can receive that work.",
           "context": [
             "Kethra's qualification and later teaching form a direct local history; other practitioners confront assessment, sponsorship and access to training.",
-            "A village's accumulated favors and an itinerant healer's obligations show how formal expertise meets knowledge already held outside colleges."
+            "Road rotations and a seasonal shelter circuit take skilled care beyond the school. A technical annex must recognize living collaborators and provide access to its instruction."
           ],
-          "sequenceNote": "Kethra's pair stays together. The other schools and trades form a proposed professional horizon with distinct rules; the Cinder Annex is placed by its educational context while its physical coordinate remains unresolved.",
+          "sequenceNote": "Kethra's pair stays together. The other institutions form a proposed professional horizon with distinct rules and sources of power. The Cinder Annex is placed by its educational context while its physical coordinate remains unresolved.",
           "stories": [
-            "the-last-thing-i-could-fix",
-            "the-villages-only-mage",
             "fourth-house",
             "clerics-infernal-ex",
             "the-healers-measure",
-            "the-thousandth-fall",
             "voice-of-silence",
             "a-lock-on-the-inside",
             "the-weight-of-falling-up-rune-shoes",
-            "the-friends-i-built",
-            "tea-for-the-first-guest"
+            "the-friends-i-built"
           ],
           "window": {
             "start": 23,
@@ -131,14 +147,14 @@
         },
         {
           "id": "old-resource-expedition-corridors",
-          "title": "The caravan and expedition corridors",
+          "title": "The roads through older worlds",
           "magicState": "old-magic",
-          "description": "Caravan settlements, mines and expedition towns turn difficult landscapes and inherited structures into livelihoods.",
+          "description": "Caravans, mines and traveling livelihoods cross landscapes whose structures and political histories are already old.",
           "context": [
-            "Cooling contracts, freight credit, mine work and dockside processing keep trade moving.",
-            "Paid delvers and relic hunters encounter structures that were already old before their expeditions."
+            "Cooling contracts, freight credit, mine work and dockside processing keep trade moving; ordinary travelers depend on paid lodging and work in the next town.",
+            "Delvers find traces of earlier visitors. An isolated wizard recalls imperial commerce, but his first guest in centuries cannot tell him which of those distant institutions still exist."
           ],
-          "sequenceNote": "Resource work overlaps with the chartered towns and colleges. The Night Harvest’s underlying category and old-versus-new position remain unresolved; this is its proposed operating context.",
+          "sequenceNote": "These working corridors overlap the chartered towns and professions. The wizard's isolation does not prove a general collapse. The Night Harvest's underlying category and old-versus-new position remain unresolved; this is its proposed operating context.",
           "stories": [
             "a-little-winter-for-sale",
             "a-crown-for-the-endless-fire",
@@ -146,11 +162,12 @@
             "where-it-hurts",
             "the-seventh-night",
             "the-kingdom-was-the-easy-part",
-            "the-way-around"
+            "the-way-around",
+            "tea-for-the-first-guest"
           ],
           "window": {
             "start": 21,
-            "end": 61
+            "end": 64
           }
         },
         {
@@ -992,24 +1009,24 @@
     },
     "the-lions-last-constellation": {
       "window": {
-        "start": 2,
-        "end": 35
+        "start": 17,
+        "end": 45
       },
-      "note": "A council, trained champion and witnesses confront a failing spring system. Bounded constellation work supplements an organized agrarian polity rather than founding one."
+      "note": "Nemea's council requires a witness for a seven-light deed but excludes that witness from heroic participation. A failing spring makes protection urgent; Myrine and Kletho survive by departing from the authorized heroic account. This is one civic arrangement for public power, not a generic origin of magical girls."
     },
     "never-a-mascot": {
       "window": {
-        "start": 2,
-        "end": 35
+        "start": 17,
+        "end": 42
       },
-      "note": "Royal armor work and seven years of campaigning put extraordinary animal capacity inside a territorial war economy. The bird's resistance interrupts military appropriation; it does not end war everywhere."
+      "note": "Seven years of repairs let an army armorer misread an independent road protector as her side's mascot. The final rescue exposes that mistake. The bird's maker, training and original mission remain unknown; its dawn-bound growth is one capacity, not an army-wide capability."
     },
     "when-the-eagle-bowed": {
       "window": {
         "start": 4,
         "end": 24
       },
-      "note": "A living armor colony carries memory from the executed Eagle Queen through a century of successor crowns. Toll roads and upland livelihoods place that actual succession beside other territorial compacts."
+      "note": "A century after the Eagle Queen's execution, three successor crowns enforce incompatible warrants over a changed upland world. Yavren recovers her own previous life as a custodian, not a hereditary sovereign. The living colony remembers her revenge plan; she refuses it as well as the successors' claims."
     },
     "the-gentlest-terror": {
       "window": {
@@ -1044,7 +1061,7 @@
         "start": 2,
         "end": 35
       },
-      "note": "A powder-using army attacks a mixed refuge built around old gates and culverts. Military engineering, displaced communities and a living defensive curse make this a contested frontier rather than a mythic origin of monsters."
+      "note": "A powder-using army mistakes a mixed refuge for Halwen's commanded force. Her curse produces painful warnings; refugees and beasts make independent choices. Old culverts, different body sizes and engineering knowledge determine escape routes when the assault breaks the structure."
     },
     "the-kingdom-of-later": {
       "window": {
@@ -1084,9 +1101,9 @@
     "the-last-thing-i-could-fix": {
       "window": {
         "start": 23,
-        "end": 64
+        "end": 55
       },
-      "note": "A valley repair shop services unlike magical devices for a court-appointed hero. Reservoir damage and an overloaded armor circuit tie specialist craft to public infrastructure and the terms of paid work."
+      "note": "A court-appointed hero refuses armor designed to divert danger onto protectors. Hadrik redesigns the local device around chosen assistance, while neglected reservoir works still require ordinary craft and a crew. Its place here concerns the organization of heroic duty, not merely the smith's occupation."
     },
     "where-it-hurts": {
       "window": {
@@ -1107,14 +1124,14 @@
         "start": 23,
         "end": 64
       },
-      "note": "A twenty-year shelter circuit and a bounded traveling appointment connect religious care to carters, roads and labor obligations. The kiln court and living portal have their own unresolved external coordinates."
+      "note": "The House of Common Shelter's twenty-year circuit allows no posting beyond one season, bringing travelers care while constraining Emet's chosen life. It never forbade his relationship. Misused, bearer-powered hinge leaves threaten both the sanctuary and a working kiln court; the far side's physical coordinate remains unresolved."
     },
     "fourth-house": {
       "window": {
         "start": 31,
         "end": 54
       },
-      "note": "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft. Ten years of Gifted practice and a ten-day case for Cultivated work belong to an established urban service economy."
+      "note": "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft. After ten years of Gifted practice ends, Pelmara's different adult-developed capacity receives a ten-day limited license under the provisional description Cultivated. One case does not establish a universally adopted fourth category or a source shared with other stories."
     },
     "voice-of-silence": {
       "window": {
@@ -1146,17 +1163,17 @@
     },
     "the-thousandth-fall": {
       "window": {
-        "start": 23,
-        "end": 64
+        "start": 30,
+        "end": 60
       },
-      "note": "A season of private self-mending practice culminates in a pilgrim-bridge rescue. Grain traffic, couriers and a cloister place it among road services; the story establishes no licensing examination."
+      "note": "A season of playful, repeated self-mending practice establishes a stronger bodily baseline and culminates in a pilgrim-bridge rescue. Rasden acts by choice alongside Palla; the feat establishes neither a licensing examination nor a repeatable public service available to everyone."
     },
     "the-friends-i-built": {
       "window": {
         "start": 23,
         "end": 64
       },
-      "note": "The Cinder Annex supports schools, dispatch, transport and technical exhibitions. Its educational economy fits this horizon, but neither its material-world location nor its relation to other infernal realms is established."
+      "note": "At the Cinder Annex, Irix's living magic shapes embermoss collaborators in brass frames. Their agency and the school's access failures determine recognition and qualification. They are living organisms, not ordinary machines generating magic; the annex's material-world location remains unresolved."
     },
     "the-door-knows-home": {
       "window": {
@@ -1254,7 +1271,7 @@
         "start": 2,
         "end": 35
       },
-      "note": "A paid inland survey threatens settlements whose agronomy the captain wants to claim. Maps, guide coercion and a bounded amnesia pool place this encounter on an expanding resource frontier."
+      "note": "An armed survey coerces Ioshka and charts an approach to people she wants to protect. Her seed stocks and route knowledge have practical value, but the expedition's funding and Braska's original motive are unstated. Destroying the map does not recover or absolve the captain's earlier choices."
     },
     "stay-out-of-my-city": {
       "window": {
@@ -2423,6 +2440,18 @@
       "Private predictive fragments begin in childhood",
       "By sixteen, disclosure still carries fear of disbelief and testing",
       "A Sunday family conversation changes what can be acknowledged"
+    ],
+    "the-lions-last-constellation": [
+      "A failed spring makes the remaining watercourse a public necessity; a dangerous lion drives its carriers away.",
+      "A council witness must name visible actions, while authorized praise wastes one of seven lights.",
+      "Myrine and Kletho fight together; the final hold continues after its magical support expires.",
+      "Their joint account challenges what the council will credit, without establishing an enacted reform."
+    ],
+    "never-a-mascot": [
+      "An armorer meets an already armored rooster and begins seven years of repairs.",
+      "Damage from both armies reveals the road the bird has actually been protecting.",
+      "At first direct dawn light, one chosen enlargement lasts nine minutes and leaves wounds and cold.",
+      "The survivors give care and leave together; no army acquires command of the bird."
     ]
   },
   "storySpans": {
@@ -2675,6 +2704,11 @@
       "start": "The earlier quarry encounter",
       "end": "A child carries a new reply",
       "note": "Sixty years after Garnet’s last childhood visits, Cleo carries a reply. The confinement’s full duration and the dream destination’s material coordinates remain unresolved."
+    },
+    "never-a-mascot": {
+      "start": "An armorer first meets the rooster",
+      "end": "A shared retreat seven years later",
+      "note": "The seven-year repair history is explicit. It dates neither the armor's construction nor the beginning of the bird's independent mission."
     }
   },
   "storyEvidence": {
@@ -3403,6 +3437,36 @@
       "note": "A living tower's inhabitants survive in space the municipal record omits; an android passenger must travel outside a city's managed identity system. These concrete dependencies on civic recognition support neighboring technical societies, without identifying their biology, software or legal regime.",
       "ordering": "none",
       "basis": "proposed"
+    },
+    {
+      "id": "road-care-and-rotating-practice",
+      "from": "the-healers-measure",
+      "to": "clerics-infernal-ex",
+      "kind": "historical",
+      "label": "Skilled care travels with the roads",
+      "note": "Proposed regional affinity: a chapterhouse's sponsored training feeds road rotations, while the House of Common Shelter moves its workers through seasonal postings. Both require an inhabited road network and support for traveling practitioners. No shared order, curriculum or appointment calendar is established.",
+      "ordering": "none",
+      "basis": "proposed"
+    },
+    {
+      "id": "unrecorded-partners-and-unclaimed-protectors",
+      "from": "the-lions-last-constellation",
+      "to": "never-a-mascot",
+      "kind": "echo",
+      "label": "The official hero misses who did the work",
+      "note": "Nemea's rules exclude a witness from the deed, but she fights; an army's victory stories appropriate a bird defending people across its banners. Official heroic accounts can misdescribe visible work through different institutions. Neither establishes a common council, campaign or sequence.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "practice-beyond-a-classification",
+      "from": "the-thousandth-fall",
+      "to": "fourth-house",
+      "kind": "echo",
+      "label": "A lived capacity outruns its description",
+      "note": "Rasden changes what self-mending practice preserves; Pelmara develops a different capacity after an old gift is withdrawn. Repetition and bodily experience expose incomplete descriptions in distinct ways. Cultivated is provisional terminology for Pelmara's case, not a diagnosis imposed on Rasden.",
+      "ordering": "none",
+      "basis": "thematic"
     }
   ],
   "historyThreads": [
@@ -3493,11 +3557,11 @@
         {
           "cycleId": "cycle-01-older-inhabited-world",
           "title": "Skills circulate between settlements",
-          "note": "Colleges, itinerant care and qualified repair connect towns to their working hinterlands; distributed signal polities make another use of trained labor.",
+          "note": "Visiting surveyors meet village knowledge; schools and itinerant appointments sustain professional work beyond the town. Mechanical maintenance remains necessary alongside living capacities, and collective harvest works have local uses that military pursuit can disrupt.",
           "anchors": [
             "the-villages-only-mage",
             "the-healers-measure",
-            "four-crowns-in-hiding"
+            "the-unfinished-sunset"
           ],
           "kind": "proposed"
         },
@@ -3575,12 +3639,12 @@
       "stages": [
         {
           "cycleId": "cycle-01-older-inhabited-world",
-          "title": "Living capacities become livelihoods",
-          "note": "Healing, bounded military service and privately learned bodily changes inhabit different parts of the older social world.",
+          "title": "Public powers acquire competing duties",
+          "note": "Village work, recognized crafts and public heroism give capacities different social roles. Councils may suppress a partner's contribution; a court's protective armor may transfer danger; private practice may produce a freely chosen rescue. These older public forms precede the proposed low-magic trough and the later public sky without establishing a single institutional lineage.",
           "anchors": [
-            "every-flower-she-knew",
-            "strength-of-ten",
-            "transitions-in-common"
+            "fourth-house",
+            "the-lions-last-constellation",
+            "the-thousandth-fall"
           ],
           "kind": "proposed"
         },
@@ -3659,7 +3723,7 @@
         {
           "cycleId": "cycle-01-older-inhabited-world",
           "title": "The older world is already layered",
-          "note": "An imperial-age tower survives into a bookmender’s commercial world, and paid explorers encounter structures marked by earlier visitors. Nell’s brief departure opens onto another unresolved material era.",
+          "note": "An isolated wizard recalls old imperial networks without knowing their present reach; paid explorers find traces of earlier visitors. The older world already contains uneven histories, and Nell's brief departure opens onto another unresolved material era.",
           "anchors": [
             "tea-for-the-first-guest",
             "the-way-around",
