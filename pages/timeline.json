@@ -607,10 +607,10 @@
           "id": "event-the-way-around",
           "title": "The Way Around",
           "magicState": "old-magic",
-          "description": "The rings before the explorers → A shared expedition record.",
+          "description": "An already ancient, repeatedly visited structure → The current expedition's dawn escape.",
           "context": [
             "Paid relic hunters, expedition claims and multiple old scripts meet a dangerous surviving mechanism. Commercial exploration supplies its present-day context; the builders' civilization and the mechanism's category remain unknown.",
-            "Three warning scripts and earlier expedition marks precede the visit; their ages and builders remain unassigned."
+            "The afternoon-to-dawn expedition is one short event inside several unmeasured histories. Construction, warnings and earlier visits are not assigned to neighboring stories or civilizations; the final emerging arrow leaves the mechanism's full closure uncertain."
           ],
           "sequenceNote": "Proposed after The Night Harvest and before Tea for the First Guest. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2109,7 +2109,7 @@
       "id": "cycle-06-new-inhabited-world",
       "title": "The New Inhabited World",
       "eyebrow": "Many generations after the new beginning.",
-      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, private encounters, water kingdoms, inherited obligations and recognized public professions occupy distinct positions rather than categories of story. Local custom and public knowledge vary between places. The Salt Crucible is a later proposed regional catastrophe within a world that survives it.",
+      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, private encounters, water kingdoms, inherited obligations and recognized public professions occupy distinct positions. A continuing coast supports fisheries, field science and rescue while its inhabitants investigate older works. Local custom and public knowledge vary between places. The Salt Crucible is a later proposed regional catastrophe within a world that survives it.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2229,13 +2229,31 @@
             "A modern town’s flood works and property services surround a witch whose rescue photograph is 114 years old. Open promises keep Evadne within the settlement; descendants inherit expectations rather than magical bonds. Her long life connects earlier communal aid to present-day choices.",
             "Open promises keep one woman young while the town changes. Their release ends her confinement; the descendants were never magically bound."
           ],
-          "sequenceNote": "Proposed after By Tooth and Threshold and before His Infernal Majesty Says No. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after By Tooth and Threshold and before The Upward Rain. These are separate local histories; their selected order does not establish a common flood, coast or government.",
           "stories": [
             "what-the-town-owed-her"
           ],
           "window": {
             "start": 30.5,
             "end": 31.9
+          }
+        },
+        {
+          "id": "event-the-upward-rain",
+          "title": "The Upward Rain",
+          "magicState": "new-magic",
+          "description": "Several undated phases of coastal work → One recorded exposure and return of the sea.",
+          "context": [
+            "Placed provisionally in the mature post-return world: an inhabited coast maintains fisheries, route traditions, mast records, scientific fieldwork and shore rescue. The expedition depends on that continuing society. Namarra's repair layers belong to its undated local past; investigating them does not make this the latest civilization. The sea's upward motion has no established origin or system, and an earlier magical age remains an alternative.",
+            "Repairs, altered gates and dismantling establish a local sequence, not dates for a drowned kingdom. Older mast records precede the current day, but give no exact recurrence here. The present investigation has its own proposed post-return position; the works and their submergence remain unplaced."
+          ],
+          "sequenceNote": "A proposed mature post-return coast, after What the Town Owed Her and before His Infernal Majesty Says No. This dates the investigation only. Its neighbors share neither a demonstrated event nor a calibrated calendar, and the older works remain unplaced.",
+          "stories": [
+            "the-upward-rain"
+          ],
+          "window": {
+            "start": 32.7,
+            "end": 34.1
           }
         },
         {
@@ -2247,7 +2265,7 @@
             "Nimelza crosses from a coercive tribute court into a human engineering college, hiding her horns and lacking suitable medical coverage. These simultaneous societies have different institutions and knowledge. Only her human frame receives this proposed post-return position; the court and college are simultaneous settings with different public knowledge.",
             "A private infernal gate opens onto a contemporary human engineering college"
           ],
-          "sequenceNote": "Proposed after What the Town Owed Her and before Witch Cold. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Upward Rain and before Witch Cold. The college and tribute court coexist inside this story; no historical or geographical connection to the coastal expedition is established.",
           "stories": [
             "his-infernal-majesty-says-no"
           ],
@@ -2496,7 +2514,7 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "A later new-magical world contains campaign veterans and functioning kingdoms as well as bodily professions, public works and sophisticated investigations of the past. Local lives carry their own spans: a victory six weeks before one household story, years of managing a curse, much older memories and inhabited structures. The Salt Crucible does not found these societies. Excavated shores and Kettlebridge's displaced arrival remain separate later encounters with unresolved earlier histories.",
+      "description": "A later new-magical world contains campaign veterans and functioning kingdoms as well as bodily professions, public works and sophisticated investigations of the past. Local lives carry their own spans: a victory six weeks before one household story, years of managing a curse, much older memories and inhabited structures. The Salt Crucible does not found these societies. Kettlebridge arrives in a receiving society whose excavators and heritage authorities already have generations of history; its much earlier departure remains unplaced.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2670,7 +2688,7 @@
             "Successive rebuilding, coerced living labor and neglect precede a twelve-week restoration and a smaller reopening. This actual local institutional refounding belongs with the proposed later civic craft societies, without assigning the decline to the Salt Crucible or another story’s catastrophe.",
             "Successive rebuilding, coerced living labor, abandonment and restoration belong to the same institution across undated generations."
           ],
-          "sequenceNote": "Proposed after The House of Possible Uses and before The Upward Rain. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The House of Possible Uses and before Where the Mountain Used to Be. These separate inhabited structures have no established builders, common society or mutual dates.",
           "stories": [
             "the-hollow-cask"
           ],
@@ -2680,33 +2698,15 @@
           }
         },
         {
-          "id": "event-the-upward-rain",
-          "title": "The Upward Rain",
-          "magicState": "new-magic",
-          "description": "An undated sequence of coastal works and abandonment → One rare day of archaeological access.",
-          "context": [
-            "A modern coastal expedition finds successive repairs to a water-and-reef commons beneath a drowned-king tradition. Its active archaeological institutions share a proposed later horizon with Kettlebridge’s receiving world, without identifying their cultures, sites or technologies. The upward sea remains unexplained.",
-            "Repair phases and dismantling are observable; their dates and the site's complete purpose remain open"
-          ],
-          "sequenceNote": "A proposed later archaeological reach. The coastal investigation and Kettlebridge arrival have no established mutual order, common people, site or cause.",
-          "stories": [
-            "the-upward-rain"
-          ],
-          "window": {
-            "start": 85.0,
-            "end": 98.0
-          }
-        },
-        {
           "id": "event-the-first-kingdom-was-late-on-taxes",
           "title": "Where the Mountain Used to Be",
           "magicState": "new-magic",
-          "description": "Kettlebridge’s departure → Arrival in the excavation.",
+          "description": "The village's departure, before millions of outside years → Arrival, a temporary hearing and the first night.",
           "context": [
-            "Kettlebridge arrives intact millions of years after departure among advanced translation, hovering lenses and heritage institutions. Its receiving society shares a proposed late archaeological horizon with the coastal expedition; neither relative order nor an absolute latest date is established.",
-            "Millions of years of displacement; both universal coordinates open"
+            "The receiving society has already excavated Kettlebridge's surroundings for generations before the intact village arrives from millions of years earlier. Translation tools, automated excavation, media, rival heritage claims and independent adjudication support a proposed late receiving frame. First Kingdom is the future's interpretation, not an established founding event. Neither departure's cycle nor arrival's absolute date is known.",
+            "The village crosses a vast interval without living through it. Excavation and heritage institutions develop before its arrival, but their duration does not date the earlier village to any selected cycle. The first day's temporary protections do not settle ancestry, land ownership or the displaced community's future."
           ],
-          "sequenceNote": "A proposed later archaeological reach, not a declaration that this is the latest event. Kettlebridge arrives from millions of years earlier; its arrival has no established order against the coastal investigation.",
+          "sequenceNote": "A proposed late receiving society after The Hollow Cask, not a declaration of the world's final event. The village's departure lies millions of years earlier at an unresolved coordinate; its arrival does not date other archaeological investigations.",
           "stories": [
             "the-first-kingdom-was-late-on-taxes"
           ],
@@ -3767,14 +3767,14 @@
         "start": 86.0,
         "end": 99.0
       },
-      "note": "Kettlebridge arrives intact millions of years after departure among advanced translation, hovering lenses and heritage institutions. Its receiving society shares a proposed late archaeological horizon with the coastal expedition; neither relative order nor an absolute latest date is established."
+      "note": "The receiving society has already excavated Kettlebridge's surroundings for generations before the intact village arrives from millions of years earlier. Translation tools, automated excavation, media, rival heritage claims and independent adjudication support a proposed late receiving frame. First Kingdom is the future's interpretation, not an established founding event. Neither departure's cycle nor arrival's absolute date is known."
     },
     "the-upward-rain": {
       "window": {
-        "start": 85.0,
-        "end": 98.0
+        "start": 32.7,
+        "end": 34.1
       },
-      "note": "A modern coastal expedition finds successive repairs to a water-and-reef commons beneath a drowned-king tradition. Its active archaeological institutions share a proposed later horizon with Kettlebridge’s receiving world, without identifying their cultures, sites or technologies. The upward sea remains unexplained."
+      "note": "Placed provisionally in the mature post-return world: an inhabited coast maintains fisheries, route traditions, mast records, scientific fieldwork and shore rescue. The expedition depends on that continuing society. Namarra's repair layers belong to its undated local past; investigating them does not make this the latest civilization. The sea's upward motion has no established origin or system, and an earlier magical age remains an alternative."
     },
     "the-hoarders-house": {
       "window": {
@@ -3926,10 +3926,13 @@
       "Nine years later, the daughter prepares to leave the city."
     ],
     "the-small-moon-rose-first": [
-      "Nell and Bash spend 617 experienced days in Ravel",
-      "Nell returns eleven seconds after her departure; her home then moves forward without Bash",
-      "Four home-world months after Nell's return, Bash returns twelve seconds after his own departure",
-      "One year after Nell's return, they revisit the supermarket together"
+      "Nell and Bash experience 617 shared days in Ravel; the Regent's local identity system and the Glass Gate have different functions and living operators.",
+      "Nell's deliberate severance uses living breath and the resistance's stored charge to close the known path. Separate remembered departures anchor the two returns; the command does not select dates.",
+      "Nell returns on February 18, eleven seconds after departure, in her thirteen-year-old body with healed scars and carried traces of Ravel.",
+      "Her home moves forward through the search. Public clues draw claimants; she removes searchable details and preserves a private means of recognition.",
+      "On June 7, about four home months later, Bash returns twelve seconds after his own departure. Private answers, a live call and their families precede the reunion.",
+      "They acknowledge the severance and its harm, share names voluntarily and agree on future communication. No reopened route or further Ravel mission is shown.",
+      "One year after Nell's return, ongoing family care and an imperfect friendship support a shared supermarket visit. Ravel's place relative to these home dates remains unresolved."
     ],
     "clerics-infernal-ex": [
       "A roadside sanctuary and kiln court use crafted, bearer-powered crossings"
@@ -3990,9 +3993,13 @@
       "The council authorizes a three-pass signaling trial, with defensive conditions"
     ],
     "the-first-kingdom-was-late-on-taxes": [
-      "Kettlebridge disappears with its inhabitants",
-      "Millions of years later: the intact village arrives at an excavation on the same bedrock",
-      "Displaced villagers and excavators negotiate immediate survival"
+      "Kettlebridge has working trades, households and a tax reeve before the aurora. A washed-out bridge contributes to three quarters of unpaid tax; this is not an established first kingdom.",
+      "Millions of outside years separate departure from arrival. The receiving society has excavated objects beyond the village's old boundary and its cemetery for generations before the villagers return.",
+      "A warning gives the excavation forty-three heartbeats to withdraw. The village arrives on the same bedrock without merging into machinery; the spring, fields, road and cemetery remain outside the transported boundary.",
+      "Ninety-seven people are found. A twenty-minute first conversation produces a hose; by noon translation supports limited agreements while households, water stewards and care workers organize independently.",
+      "Near sunset a temporary order protects living people and occupied goods. Land, ancestry, excavated remains and historical claims remain unresolved; the exhibition closes and the ceremony is paused.",
+      "Households choose separately whether to move to a disused freight hall with accessible water and animal space. Others stay under site watches; loading records do not become copies of the tax roll.",
+      "The final passenger lift leaves after midnight. By predawn water, care, shelter and household choices are still being arranged; no permanent settlement or way back has been established."
     ],
     "daughter-of-the-sun": [
       "Seven service branches once operated independently before being drawn into one crown.",
@@ -4148,10 +4155,12 @@
       "The old stellar route remains lost; the flock returns to ordinary grazing"
     ],
     "the-upward-rain": [
-      "Coastal tradition turns a drowned site into the palace of a legendary kingdom",
-      "An exposed seabed reveals repeated hydraulic repairs, communal works and deliberate dismantling",
-      "The explorers preserve records and stop short of an untested uphill continuation",
-      "The sea returns; the royal story has become a question about a changing working landscape"
+      "Earlier mast crews leave records, coastal families pass on route knowledge, and the present team places markers during the week before access. No exact recurrence period is given.",
+      "At 06:11 the sea begins rising; the expedition crosses the low-water line at 06:34 while fisheries, stranded nurseries and shore rescue remain part of the inhabited coast.",
+      "Successive road repairs cross three sediment ages. At Namarra, six marking groups, four lining phases and altered gate widths support repeated water-and-reef work, without proving six communities or a royal court.",
+      "Removal scars and growth boundaries support dismantling within a bounded interval. Planned uphill retreat remains an interpretation; the team leaves the continuation unvisited.",
+      "They leave a lining flake in place and preserve composite records after a recorder fails. Joint credit, separate responsibilities, mirrored copies and a location embargo precede the return; site protection review remains ahead.",
+      "The archive verifies the copies during retreat. Shore workers aid an accessible nursery, and the explorers reach the high line before the sea falls back; neither the cause of the anomaly nor the site's original flooding is established."
     ],
     "what-the-town-owed-her": [
       "A photograph records Evadne’s flood rescue 114 years earlier",
@@ -4193,10 +4202,12 @@
       "The rulers agree a one-moon service compact with separate vetoes and a safe transfer on withdrawal."
     ],
     "the-way-around": [
-      "A vast ring structure is built and later receives warnings and marks from earlier visitors.",
-      "A professional expedition enters; Ivara’s shots interact with the lattice and leave routes open behind them.",
-      "The accumulating paths threaten the explorers until combined observations locate an exterior closure stone.",
-      "They return at dawn and record the finding under three names."
+      "Azhra's ring structure, three warning scripts and marks from earlier expeditions precede the current visit; their separate ages and makers are unknown.",
+      "Ivara, Tressa and Mazin enter as professional explorers in a society already accustomed to paid relic work and recorded claims.",
+      "Physical deflections precede Ivara's aim opening routes through intact stone; the apparatus retains routes without an established intention of its own.",
+      "A rescue opens further paths. Tressa's recorded geometry and Mazin's observations of the exterior stone let Ivara target the closure from inside.",
+      "The routes contract and ordinary weight returns; the explorers still have to climb out with dwindling water, reaching the desert at dawn.",
+      "An arrow emerges afterward carrying a chip of the exterior stone. Tressa makes room for three names in the finding; complete inertness of the ruin is not demonstrated."
     ],
     "the-weight-they-never-counted": [
       "Earlier hill populations are fitted for freight; the method is later disputed",
@@ -4520,9 +4531,9 @@
       "note": "The client estimates his age at roughly 25,000 years; this does not date the battle. Other memories are explicitly set 612 and eighty-three years before the present."
     },
     "the-first-kingdom-was-late-on-taxes": {
-      "start": "Kettlebridge’s departure",
-      "end": "Arrival in the excavation",
-      "note": "Millions of years of displacement; both universal coordinates open"
+      "start": "The village's departure, before millions of outside years",
+      "end": "Arrival, a temporary hearing and the first night",
+      "note": "The village crosses a vast interval without living through it. Excavation and heritage institutions develop before its arrival, but their duration does not date the earlier village to any selected cycle. The first day's temporary protections do not settle ancestry, land ownership or the displaced community's future."
     },
     "the-small-moon-rose-first": {
       "start": "Ravel: another material era",
@@ -4595,9 +4606,9 @@
       "note": "An immense undated inheritance ends in one night; enemy occupations and separated populations remain"
     },
     "the-upward-rain": {
-      "start": "An undated sequence of coastal works and abandonment",
-      "end": "One rare day of archaeological access",
-      "note": "Repair phases and dismantling are observable; their dates and the site's complete purpose remain open"
+      "start": "Several undated phases of coastal work",
+      "end": "One recorded exposure and return of the sea",
+      "note": "Repairs, altered gates and dismantling establish a local sequence, not dates for a drowned kingdom. Older mast records precede the current day, but give no exact recurrence here. The present investigation has its own proposed post-return position; the works and their submergence remain unplaced."
     },
     "lightning-carries-one": {
       "start": "The first shared crossing",
@@ -4690,9 +4701,9 @@
       "note": "The storm crisis and one-moon compact are local; the ward system’s founding date is unknown."
     },
     "the-way-around": {
-      "start": "The rings before the explorers",
-      "end": "A shared expedition record",
-      "note": "Three warning scripts and earlier expedition marks precede the visit; their ages and builders remain unassigned."
+      "start": "An already ancient, repeatedly visited structure",
+      "end": "The current expedition's dawn escape",
+      "note": "The afternoon-to-dawn expedition is one short event inside several unmeasured histories. Construction, warnings and earlier visits are not assigned to neighboring stories or civilizations; the final emerging arrow leaves the mechanism's full closure uncertain."
     },
     "the-morning-her-hand-moved": {
       "start": "A thousand years of inhabited ground",
@@ -6205,21 +6216,20 @@
         },
         {
           "cycleId": "cycle-06-new-inhabited-world",
-          "title": "The new world makes its own past",
-          "note": "Photographs and divine debts preserve changing local obligations. A later proposed Crucible catastrophe leaves survivors and damaged countryside instead of ending the world.",
+          "title": "Living communities keep different histories",
+          "note": "A century-old photograph carries a town's obligations into present life. On another coast, route traditions and physical repairs challenge a royal interpretation without yielding a complete ancient history. A later proposed Crucible catastrophe has its own regional consequences; none of these accounts establishes one shared disaster or archive.",
           "anchors": [
             "what-the-town-owed-her",
-            "gods-afraid-of-grandma",
+            "the-upward-rain",
             "saint-and-demon"
           ],
           "kind": "recurrence"
         },
         {
           "cycleId": "cycle-07-later-refoundings",
-          "title": "The past disputes its monuments",
-          "note": "Coastal repairs complicate a drowned-king tradition, a displaced village confronts its own founding legend, and an old memory retains limits that present expertise cannot erase.",
+          "title": "Old lives meet later institutions",
+          "note": "Kettlebridge's transported inhabitants confront a founding identity assigned by later institutions; the supposed family descent is unproven. Elsewhere, an ancient client's memory has limits that present expertise cannot erase. These encounters preserve different relationships between elapsed history and lived experience.",
           "anchors": [
-            "the-upward-rain",
             "the-first-kingdom-was-late-on-taxes",
             "the-first-wound"
           ],
