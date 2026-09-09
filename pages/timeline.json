@@ -537,16 +537,16 @@
           "magicState": "old-magic",
           "description": "An inherited threshold custom → The night the road becomes visible again.",
           "context": [
-            "Proposed late in the older modern reach, before Nell, where current courier work and redevelopment encounter a family custom whose meaning has faded. Fresh painted directions and living replies restore this particular road; neither the spike's origin nor a common mechanism with Briar Hill is established. The custom's generations and Rovandis's eleven working years remain separate intervals.",
+            "Courier dispatch, phones, road crews and redevelopment remain in ordinary use when a generations-old household custom fails. Elsidra's fresh paint and the family's replies make a route through that local disruption. This working civic setting supports a proposed overlap with Briar Hill's courier and municipal bus life, before Nell's selected home era. The spike's origin, any common town and the two incidents' mutual order remain unknown.",
             "The courtesy passes through generations with no fixed founding date. Rovandis's eleven years on the courier route do not date the threshold practice. The immediate rescue ends before the planned daylight cleanup."
           ],
-          "sequenceNote": "Proposed after The Trouble With Tuesdays and before The Last Bus to Briar Hill. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The selected interval may overlap The Last Bus to Briar Hill after The Trouble With Tuesdays and before Self-Reflection. Working transport, civic services and local magical obligations support the proposed context; no common city, operating authority or measured mutual order is established.",
           "stories": [
             "the-inheritance-remembers"
           ],
           "window": {
             "start": 87.49,
-            "end": 88.61
+            "end": 90.85
           }
         },
         {
@@ -555,15 +555,15 @@
           "magicState": "old-magic",
           "description": "The courier night → An ordinary outing two weeks later.",
           "context": [
-            "Proposed late in the older modern reach, before Nell, as an exceptional route within ordinary courier and bus life. Its borrowed maternal voice, timed requests and need for a fresh outside reply differ from a publicly licensed portal trade. The return at 06:08 and ordinary outing two weeks later remain one local story, with no established common town or historical succession with the Counted Road.",
+            "An ordinary courier economy, municipal transit staff, contactless fares and night care work sustain the city around Maude's exceptional crossing. That continuing civic life supports a proposed overlap with The Counted Road before Nell's selected home era. Maude and the Briar Host actively tend this route; neither their history nor their powers are identified with the other story's inherited threshold custom.",
             "The mother's death lies two years earlier. The night journey reaches the terminal at 06:08; the siblings' later planned outing actually occurs two weeks afterward. These are local intervals, not a placement of Route 0 within a shared portal calendar."
           ],
-          "sequenceNote": "Proposed after The Counted Road and before Self-Reflection. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The selected interval may overlap The Counted Road after The Trouble With Tuesdays and before Self-Reflection. Working transport, civic services and local magical obligations support the proposed context; no common city, operating authority or measured mutual order is established.",
           "stories": [
             "the-last-bus-to-briar-hill"
           ],
           "window": {
-            "start": 89.73,
+            "start": 87.49,
             "end": 90.85
           }
         },
@@ -3579,16 +3579,16 @@
     "the-inheritance-remembers": {
       "window": {
         "start": 87.49,
-        "end": 88.61
+        "end": 90.85
       },
-      "note": "Proposed late in the older modern reach, before Nell, where current courier work and redevelopment encounter a family custom whose meaning has faded. Fresh painted directions and living replies restore this particular road; neither the spike's origin nor a common mechanism with Briar Hill is established. The custom's generations and Rovandis's eleven working years remain separate intervals."
+      "note": "Courier dispatch, phones, road crews and redevelopment remain in ordinary use when a generations-old household custom fails. Elsidra's fresh paint and the family's replies make a route through that local disruption. This working civic setting supports a proposed overlap with Briar Hill's courier and municipal bus life, before Nell's selected home era. The spike's origin, any common town and the two incidents' mutual order remain unknown."
     },
     "the-last-bus-to-briar-hill": {
       "window": {
-        "start": 89.73,
+        "start": 87.49,
         "end": 90.85
       },
-      "note": "Proposed late in the older modern reach, before Nell, as an exceptional route within ordinary courier and bus life. Its borrowed maternal voice, timed requests and need for a fresh outside reply differ from a publicly licensed portal trade. The return at 06:08 and ordinary outing two weeks later remain one local story, with no established common town or historical succession with the Counted Road."
+      "note": "An ordinary courier economy, municipal transit staff, contactless fares and night care work sustain the city around Maude's exceptional crossing. That continuing civic life supports a proposed overlap with The Counted Road before Nell's selected home era. Maude and the Briar Host actively tend this route; neither their history nor their powers are identified with the other story's inherited threshold custom."
     },
     "the-cat-who-had-enough": {
       "window": {
@@ -6268,8 +6268,8 @@
       "from": "the-last-bus-to-briar-hill",
       "to": "the-inheritance-remembers",
       "kind": "historical",
-      "label": "Fresh replies on older roads",
-      "note": "These are separate events in the proposed older modern reach. Briar Hill needs a freely given outside reply made after entry; the Counted Road uses fresh paint and current responses to keep a count. Their practical comparison supports a nearby broad placement without establishing a common town, operator, system or measured mutual order.",
+      "label": "Modern roads, older obligations",
+      "note": "Couriers, municipal routes, night workers and road maintenance remain active around two local disruptions. These continuing services support an overlapping proposed older modern interval. Briar Hill is tended by living operators; the Counted Road's household custom has outlasted its explanation. Fresh replies help in different ways within those systems and do not establish common magic, one city or a historical sequence.",
       "ordering": "none",
       "basis": "proposed"
     },
