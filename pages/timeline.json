@@ -1946,16 +1946,16 @@
           "magicState": "long-dark",
           "description": "A five-century northern closure → The fifth-morning report at the Wall.",
           "context": [
-            "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. These simultaneous societies support the selected period of uneven regional knowledge. The newly traversed route permits observation and return; wider geography, further contact and any common history with the orbital settlements remain unresolved.",
+            "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. The scouts and Roskell are contemporaries within the story. This selected period may also overlap A Question for the Sky and The Apes Above: local aircraft, roads and access do not establish an earlier world age than orbital travel. The newly traversed route permits observation and return; actual dates, wider geography, further contact and any common history with the orbital settlements remain unresolved.",
             "The commission allows six days, ending at noon. The scouts see Roskell at dusk on the second day, leave the next sunrise and return on the fifth morning. The northern travel ban does not establish isolation in every direction or date the rest of the world's societies."
           ],
-          "sequenceNote": "Proposed after the overlapping rural-service windows and before A Question for the Sky. The scouts' five-century closed pass separates simultaneous neighbors; it does not make either preceding settlement their ancestor.",
+          "sequenceNote": "Proposed across a possible regional period overlapping A Question for the Sky and The Apes Above. The wider window expresses uncertainty about their mutual dates, not the duration of the scouts' journey; no shared population, government or route is established.",
           "stories": [
             "the-lights-beyond"
           ],
           "window": {
             "start": 49.3,
-            "end": 50.7
+            "end": 63
           }
         },
         {
@@ -1967,7 +1967,7 @@
             "The station teaches that the last ground habitats failed 812 years earlier, but its present picture of an empty surface is contradicted by living tenders. Their script resembles old service forms, establishing related provenance without a proven route of inheritance. This is a proposed Long Dark encounter between differently informed contemporaries. It neither verifies nor disproves every part of the alleged ancient failure.",
             "Shared old signs can survive through different histories. The confirmed exchange establishes present neighbors and limits for one optical set, not a surface census, known ancestry or a completed reform of the whole station."
           ],
-          "sequenceNote": "Placed beside the orbital-account incident as an independent regional history. Their mutual order and common dates remain unresolved; neither discovery causes the other.",
+          "sequenceNote": "Proposed in an overlapping period with The Lights Beyond and The Apes Above. The reed exchange, mountain crossing and ballast diversion have separate local sequences; none supplies a date for the others or establishes a common orbital network.",
           "stories": [
             "kite-letters-below"
           ],
@@ -1985,7 +1985,7 @@
             "A surface polity with hatcheries, trams, waterworks and technical observers lives beneath human stations using an old empty-basin target. Their coexistence supplies this proposed material-era position; neither body type dates a civilization's origin. An echo and a later steering command precede one diversion, but the humans' intentions, the map's age and any relationship to the other station stories remain unknown.",
             "The surface has an operating government and engineering capacity of its own. Ballast, propulsion corrections and a ground signaling choice cause material effects; neither an evolutionary ladder nor a shared station collapse connects this society to the other orbital histories."
           ],
-          "sequenceNote": "Placed beside the closed-pass correspondence as an independent regional history. The two stories can overlap in this reconstruction without sharing a population, institution or event.",
+          "sequenceNote": "Proposed in an overlapping period with The Lights Beyond and A Question for the Sky. The surface council's engineering and hatchery life do not make it an earlier stage of either society. Common dates, governments, populations and stations remain unestablished.",
           "stories": [
             "apes-in-orbit"
           ],
@@ -3425,9 +3425,9 @@
     "the-lights-beyond": {
       "window": {
         "start": 49.3,
-        "end": 50.7
+        "end": 63
       },
-      "note": "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. These simultaneous societies support the selected period of uneven regional knowledge. The newly traversed route permits observation and return; wider geography, further contact and any common history with the orbital settlements remain unresolved."
+      "note": "Human law closes the northern pass for five centuries while glaciers and a broken road obstruct access; the scouts' careers continue south of the Wall. Roskell already has shops, traffic control, maintained seaplanes and paid leisure when they arrive. The scouts and Roskell are contemporaries within the story. This selected period may also overlap A Question for the Sky and The Apes Above: local aircraft, roads and access do not establish an earlier world age than orbital travel. The newly traversed route permits observation and return; actual dates, wider geography, further contact and any common history with the orbital settlements remain unresolved."
     },
     "the-city-of-eleven-foundations": {
       "window": {
@@ -6424,7 +6424,7 @@
       "to": "kite-letters-below",
       "kind": "historical",
       "label": "The people beyond the inherited story",
-      "note": "A five-century closed pass hides an ordinary orc city from human scouts; an orbital account of surface failure hides people who can still answer in an old script. The simultaneous living populations support a proposed shared reach of divided knowledge. Their barriers, histories and peoples have different causes and no common state.",
+      "note": "The scouts and Roskell are contemporaries within one encounter; the reed tenders and orbital workers are contemporaries within another. A closed northern pass and an inherited account of surface failure restrict different communities' knowledge. Their possible periods overlap in this reconstruction, while their actual dates, geographic relationship and any common political history remain unknown.",
       "ordering": "none",
       "basis": "proposed"
     },
