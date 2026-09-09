@@ -5,7 +5,7 @@
       "id": "cycle-01-older-inhabited-world",
       "title": "The Older Inhabited World",
       "eyebrow": "Earlier powers, practiced institutions, and the generations before Nell.",
-      "description": "The chosen older sequence contains territorial powers and long-lived local obligations, public offices, household economies and established teaching. These are already inhabited societies with their own prior generations, not beginnings assigned by the presence of dragons, elves or crowns. Isolated practitioners and privately retained workings lead into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; Ravel keeps its unresolved place.",
+      "description": "The chosen older sequence contains territorial powers and long-lived local obligations, public offices, household economies and established teaching. Municipal assessment, field-care training and rural maintenance now occupy one proposed overlapping period: Candlemere's intake already spans village rooms, barges, noble kitchens and mining camps, while Lanternscrape combines living favors with existing crafts and supplies. Their named institutions and exact regional connections remain distinct. Isolated practitioners and privately retained workings lead into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; Ravel keeps its unresolved place.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -210,53 +210,53 @@
           "id": "event-fourth-house",
           "title": "The Fourth House",
           "magicState": "old-magic",
-          "description": "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft.",
+          "description": "Ten years using a supplied faculty → A limited license at 11:23 and a still-unfinished cistern job.",
           "context": [
-            "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft. After ten years of Gifted practice ends, Pelmara's different adult-developed capacity receives a ten-day limited license under the provisional description Cultivated. One case does not establish a universally adopted fourth category or a source shared with other stories.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "The city already licenses working faculties through assessors, guilds and insurance. Ten years of Beral's supplied clay-softening end before Pelmara's different adult-developed capacity is tested and provisionally licensed. The next cistern job still needs drainage, correctly sized parts, rest and ordinary repair. Its proposed overlap with Lanternscrape and Candlemere describes compatible professional settings, not shared categories, regulators or the invention of a universal fourth source.",
+            "Withdrawal is recorded at 9:52 before the noon permit deadline. One stress redistribution locks Pelmara's hands and leaves stiffness; she refuses repetition. Cultivated is entered for this one observed faculty on a ten-day provisional license at 11:23. Recovery, site diagnosis, replacement work and later reassessment remain ahead."
           ],
-          "sequenceNote": "Proposed after The First Call and before The Witchknight’s Measure. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Selected within the same proposed period as Candlemere's training and Lanternscrape's maintenance crisis, after The First Call and before The Shape of Mercy. The three may overlap; their mutual order, institutional links and calendar dates remain unknown.",
           "stories": [
             "fourth-house"
           ],
           "window": {
             "start": 36.01,
-            "end": 37.13
+            "end": 46.08
           }
         },
         {
           "id": "event-the-healers-measure",
           "title": "The Witchknight’s Measure",
           "magicState": "old-magic",
-          "description": "Fees, sponsorship, service terms and a twenty-seven-month capstone lead into road rotations and recurring training.",
+          "description": "A healer's first morning of a standard training course → A qualified road assignment and recovery after the capstone.",
           "context": [
-            "Fees, sponsorship, service terms and a twenty-seven-month capstone lead into road rotations and recurring training. Formal education feeds an itinerant public-health profession.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Candlemere recruits existing healers from villages, barges, noble kitchens and mines through service records, fees or sponsorship. A standard two-year course can be extended by repeated gates; Rhoswen's twenty-seven months prepare her for guarded field care and ordinary road duty. This varied intake supports the proposed overlap with rural maintenance and municipal craft. It does not establish a shared guild, curriculum, magical source or medical tradition with those places or Emet's shelter circuit.",
+            "The ordinary course is twenty-four months; Rhoswen's repeated gates add a quarter. Demech's earlier six years of survey work precede his field-healer training. The capstone requires six-breath transitions within twenty breaths of cover. His recovery includes six clinic days and three weeks of light duty; Rhoswen receives a road assignment and a refresher date twelve weeks ahead, not a completed first rotation."
           ],
-          "sequenceNote": "Proposed after The Fourth House and before The One Who Helped Everyone. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Selected to overlap the municipal assessment and Lanternscrape's maintenance crisis. Its twenty-seven-month course is a local duration, not the width of this Galactic Cycle window or a date for the other institutions.",
           "stories": [
             "the-healers-measure"
           ],
           "window": {
-            "start": 42.73,
-            "end": 43.85
+            "start": 36.01,
+            "end": 46.08
           }
         },
         {
           "id": "event-the-villages-only-mage",
           "title": "The One Who Helped Everyone",
           "magicState": "old-magic",
-          "description": "A mountain village's mill, cistern and road depend on many accumulated living favors.",
+          "description": "Years of useful favors and unfinished closures → Next morning's marked workings and shared repairs.",
           "context": [
-            "A mountain village's mill, cistern and road depend on many accumulated living favors. Visiting certified surveyors connect that rural network to a wider professional culture; the village is not simply an earlier stage than the city.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Lanternscrape has a mill, cistern, trained craftspeople and a road used by visiting specialists. Aumiri's modest sustained favors circulate through many open returns; the apparent vast reservoir is a measurement error. Replacement parts and ordinary repairs are already available. Its proposed overlap with a municipal assessment and Candlemere's training follows their compatible rural, urban and traveling support systems, without identifying one city, licensing law or profession.",
+            "A locating pulse triggers the current crisis; successive closures extend the initially short forecast. By sunset the cistern, mill and bridge remain linked through the same water system, requiring physical preparation before release. Next morning three bounded workings remain. The mill bearing had arrived four days earlier while a favor still supported its worn predecessor."
           ],
-          "sequenceNote": "Proposed after The Witchknight’s Measure and before The Shape of Mercy. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Selected to overlap the municipal assessment and Candlemere's training. Existing rural skills and supplies allow coexistence with those institutions; the village is not dated as their ancestor or consequence.",
           "stories": [
             "the-villages-only-mage"
           ],
           "window": {
-            "start": 44.96,
+            "start": 36.01,
             "end": 46.08
           }
         },
@@ -269,7 +269,7 @@
             "A landed household conceals Adrian's severance gift from him for ten years after his childhood intervention against his father. The succession crisis makes informed choice and ordinary witnessed records part of his stewardship. Tenants, damaged orchards and injured relatives remain after the magical coercion ends.",
             "His family conceals his faculty during the interval. The present severance is recorded before the act and witnessed afterward; the record preserves evidence without restoring the missing memory."
           ],
-          "sequenceNote": "Proposed after The One Who Helped Everyone and before The Sister Behind Her Smile. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Proposed after the overlapping municipal, training and village histories and before The Sister Behind Her Smile. This selected order does not identify their rulers, institutions or elapsed intervals.",
           "stories": [
             "the-shape-of-mercy"
           ],
@@ -391,10 +391,10 @@
           "id": "event-clerics-infernal-ex",
           "title": "Hello, Lover",
           "magicState": "old-magic",
-          "description": "A roadside sanctuary and kiln court use crafted, bearer-powered crossings",
+          "description": "A breakup nine years earlier and a theft three days ago → The closed crossing, an hour of care and dawn at the shelter.",
           "context": [
-            "The House of Common Shelter's twenty-year circuit allows no posting beyond one season, bringing travelers care while constraining Emet's chosen life. It never forbade his relationship. Misused, bearer-powered hinge leaves threaten both the sanctuary and a working kiln court; the far side's physical coordinate remains unresolved.",
-            "A roadside sanctuary and kiln court use crafted, bearer-powered crossings"
+            "The House of Common Shelter sustains travelers through an existing twenty-year circuit with no posting beyond one season. That service commitment helps explain Emet's choice nine years earlier but never forbade his relationship. A stolen private hinge and added borrower loops now endanger both a full shelter and a working kiln court. Its separate road institution supports a comparison with Candlemere; no common route network, training order or material coordinate for the far side is established.",
+            "Twenty years describes the shelter circuit's required span, not a newly completed journey or the length of the breakup. The crisis occurs during one autumn evening. After the leaves are destroyed, Emet treats injuries for an hour and reports the concealed theft; restrictions on solo watch and route decisions remain in force at dawn."
           ],
           "sequenceNote": "Proposed after The Weight of Falling Up and before The Friends I Built. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -409,10 +409,10 @@
           "id": "event-the-friends-i-built",
           "title": "The Friends I Built",
           "magicState": "old-magic",
-          "description": "Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open",
+          "description": "A solo design accepted the previous week → The first morning of confirmed adult-arranged transport.",
           "context": [
-            "At the Cinder Annex, Irix's living magic shapes embermoss collaborators in brass frames. Their agency and the school's access failures determine recognition and qualification. They are living organisms, not ordinary machines generating magic; the annex's material-world location remains unresolved.",
-            "Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"
+            "Cinder Annex is a local secondary school with workshops, equipment, entry rules and existing access failures. Irix's shaping current grows living embermoss collaborators whose choices improve the relay and emergency response. The incident changes one school's practices and the household's transport obligations. Its selected older position does not connect the school to Candlemere, a universal infernal education system, another constructed population or a known material-world location.",
+            "The collaboration requirement gives Irix three days before entries lock. The annual exhibition also lasts three days; that is not an additional waiting period. On exhibition morning the team adapts its cart in eleven minutes. Local reforms and the support agreement follow the emergency; the standing conveyance is shown working the next morning, without establishing lasting compliance everywhere."
           ],
           "sequenceNote": "Proposed after Hello, Lover and before Only Eighteen. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2735,10 +2735,10 @@
     },
     "the-villages-only-mage": {
       "window": {
-        "start": 44.96,
+        "start": 36.01,
         "end": 46.08
       },
-      "note": "A mountain village's mill, cistern and road depend on many accumulated living favors. Visiting certified surveyors connect that rural network to a wider professional culture; the village is not simply an earlier stage than the city."
+      "note": "Lanternscrape has a mill, cistern, trained craftspeople and a road used by visiting specialists. Aumiri's modest sustained favors circulate through many open returns; the apparent vast reservoir is a measurement error. Replacement parts and ordinary repairs are already available. Its proposed overlap with a municipal assessment and Candlemere's training follows their compatible rural, urban and traveling support systems, without identifying one city, licensing law or profession."
     },
     "the-ninety-year-barrier": {
       "window": {
@@ -2892,14 +2892,14 @@
         "start": 67.35,
         "end": 68.46
       },
-      "note": "The House of Common Shelter's twenty-year circuit allows no posting beyond one season, bringing travelers care while constraining Emet's chosen life. It never forbade his relationship. Misused, bearer-powered hinge leaves threaten both the sanctuary and a working kiln court; the far side's physical coordinate remains unresolved."
+      "note": "The House of Common Shelter sustains travelers through an existing twenty-year circuit with no posting beyond one season. That service commitment helps explain Emet's choice nine years earlier but never forbade his relationship. A stolen private hinge and added borrower loops now endanger both a full shelter and a working kiln court. Its separate road institution supports a comparison with Candlemere; no common route network, training order or material coordinate for the far side is established."
     },
     "fourth-house": {
       "window": {
         "start": 36.01,
-        "end": 37.13
+        "end": 46.08
       },
-      "note": "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft. After ten years of Gifted practice ends, Pelmara's different adult-developed capacity receives a ten-day limited license under the provisional description Cultivated. One case does not establish a universally adopted fourth category or a source shared with other stories."
+      "note": "The city already licenses working faculties through assessors, guilds and insurance. Ten years of Beral's supplied clay-softening end before Pelmara's different adult-developed capacity is tested and provisionally licensed. The next cistern job still needs drainage, correctly sized parts, rest and ordinary repair. Its proposed overlap with Lanternscrape and Candlemere describes compatible professional settings, not shared categories, regulators or the invention of a universal fourth source."
     },
     "voice-of-silence": {
       "window": {
@@ -2924,10 +2924,10 @@
     },
     "the-healers-measure": {
       "window": {
-        "start": 42.73,
-        "end": 43.85
+        "start": 36.01,
+        "end": 46.08
       },
-      "note": "Fees, sponsorship, service terms and a twenty-seven-month capstone lead into road rotations and recurring training. Formal education feeds an itinerant public-health profession."
+      "note": "Candlemere recruits existing healers from villages, barges, noble kitchens and mines through service records, fees or sponsorship. A standard two-year course can be extended by repeated gates; Rhoswen's twenty-seven months prepare her for guarded field care and ordinary road duty. This varied intake supports the proposed overlap with rural maintenance and municipal craft. It does not establish a shared guild, curriculum, magical source or medical tradition with those places or Emet's shelter circuit."
     },
     "the-thousandth-fall": {
       "window": {
@@ -2941,7 +2941,7 @@
         "start": 69.58,
         "end": 70.7
       },
-      "note": "At the Cinder Annex, Irix's living magic shapes embermoss collaborators in brass frames. Their agency and the school's access failures determine recognition and qualification. They are living organisms, not ordinary machines generating magic; the annex's material-world location remains unresolved."
+      "note": "Cinder Annex is a local secondary school with workshops, equipment, entry rules and existing access failures. Irix's shaping current grows living embermoss collaborators whose choices improve the relay and emergency response. The incident changes one school's practices and the household's transport obligations. Its selected older position does not connect the school to Candlemere, a universal infernal education system, another constructed population or a known material-world location."
     },
     "the-door-knows-home": {
       "window": {
@@ -3970,10 +3970,20 @@
       "One year after Nell's return, ongoing family care and an imperfect friendship support a shared supermarket visit. Ravel's place relative to these home dates remains unresolved."
     ],
     "clerics-infernal-ex": [
-      "A roadside sanctuary and kiln court use crafted, bearer-powered crossings"
+      "Nine years earlier Emet chooses the shelter circuit over a shared life, falsely saying the House forbade the relationship and that his hinge leaf was destroyed. He keeps it concealed while Lacrixa's matching leaf remains openly mounted.",
+      "Three days before the encounter, the hidden leaf is stolen at a ford; Emet does not report it. Added borrower loops misuse the bearers' living supply to widen a private step into a dangerous route between the sanctuary and kiln court.",
+      "Seventeen sanctuary guests leave through the ordinary door while kiln workers control their own hazards. Emet and Lacrixa remove the outer loop, then the middle loop after he admits the House never forbade them; Bosk maintains the count after losing his drum.",
+      "A returning grinder is caught at the final plane. Emet holds the loop, Udren braces him, and Lacrixa frees the trapped boot; both feet clear before the bearers can end the crossing safely.",
+      "Lacrixa refuses reunion and retained access. Both keyed leaves are broken, Emet withdraws, and the final loop falls as the crossing closes; the far court's location remains undated.",
+      "Emet spends the next hour treating injuries and then gives his companions the full account. Udren removes him from solo threshold watch and route decisions until trust is rebuilt; at dawn the ordinary door is propped open."
     ],
     "the-friends-i-built": [
-      "Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"
+      "A solo design has been accepted the previous week. Missed guardian tasks and transport make Irix late to the announcement that advanced-workshop entries must now be collaborative, with three days before teams lock.",
+      "Irix supplies a limited shaping current to fed embermoss cultures. Knurl and Thimble grow as living individuals, choose their names and responses, and alter the relay's spacing and sails to preserve overlapping signals.",
+      "After another transport failure on exhibition morning, the collaborators choose to adapt the chassis into a walking cart in eleven minutes. They arrive before the entry lamp changes and register as three participants.",
+      "Ekri knowingly overloads a weak furnace latch. Irix breaks the scoring seal to enlarge the evacuation map; Bexel changes the route, Ekri operates the cutoff, Knurl opens the shutter, and Thimble holds a shield until the ember spray thins.",
+      "Thimble requires cooling and a patch. The formal score is void, but demonstrated aptitude supports workshop access; Bexel posts three local access reforms and Ekri begins sorting repair parts.",
+      "The adults establish confirmed transport, backup authority and reporting duties with Irix's consent. The conveyance arrives the next morning, and Knurl and Thimble independently choose to return with Irix."
     ],
     "the-players-above": [
       "After a tabletop game, friends discover a metallic root fed by sincere spoken intentions to travel; it has already grown along earlier errands",
@@ -4820,6 +4830,30 @@
       "The padded hard test spends the first rivet; light testing confirms that another person must actively join and can release the ring. At the damaged catwalk, Aven chooses Hadrik's rescue and spends the second rivet, straining their shoulder.",
       "At the relief gate, the last brace cannot absorb sideways load. Hadrik discards the bypass shortcut, joins through the consent ring, and seats the ordinary locking wedge; the gate opens, the final rivet breaks and the braid fuses.",
       "The lower town remains safe, but both workers need care and the harness is spent. Aven chooses ordinary mail, a crew and the right to refuse future work; Hadrik changes his sign next morning and describes more candid, collaborative later repairs."
+    ],
+    "the-villages-only-mage": [
+      "Aumiri sustains many small favors while villagers keep ordinary trades and facilities working. Some supports remain after the original repair: the oven was rebuilt, the cistern stave replaced eleven months earlier, and the new mill bearing has arrived unnoticed.",
+      "Three visiting specialists investigate a misleading high reading. A consented locating pulse, powered by Torrigan, synchronizes the open returns; the pulse has ended but its answering cycles continue and shorten.",
+      "Aumiri refuses a blanket cut. Keepers identify what each working supports and prepare ropes, pegs, blankets or other fallbacks; individual closures buy time while the specialists revise their model and cancel harmonics.",
+      "At sunset, the last linked cistern, mill and bridge depend on the same water flow. The group spends a quarter hour preparing drainage, props, unloading and controls before releasing those supports in a safe sequence.",
+      "The cistern's support is withdrawn with drainage ready, the mill bearing's support is withdrawn under chocks, and the propped bridge is released last. The reverse query and contained recoil end the synchronized response; further bridge wedging remains necessary.",
+      "After sunrise, three modest workings have named keepers, endings and ordinary fallbacks. Visitors leave separation clips that require living hands; villagers install the already-delivered bearing and continue repairs. A new shutter favor is bounded by fitting the carpenter's third screw."
+    ],
+    "fourth-house": [
+      "For ten years Pelmara uses Beral's supplied clay-softening at a cost to his heat. At the morning assessment, the existing permit will expire at noon; she declines renewal and proceeds with the agreed withdrawal.",
+      "At 9:52 the supplied faculty is recalled. Beral demonstrates softening, while Pelmara cannot repeat it; variations of qualified instruction do not reproduce the withdrawn operation.",
+      "Pelmara detects stress inside a previously used coupling. Her chalked prediction and the loaded listening fork support the report; neither adult history nor attempted instruction fits the city's current Inherited or Studied certification.",
+      "One controlled test redirects existing stress to a replaceable flange. The throat holds, but Pelmara's fingers lock; water and supported weight permit release, and she refuses a second demonstration.",
+      "At 11:23 Zorevi grants a ten-day license under the provisional description Cultivated, limited to observed pipe work and witnessed recovery. Ishket's safety objection and lack of Studied insurance remain recorded.",
+      "Pelmara cannot yet carry her crate or perform the new work safely. The planned site sequence begins with draining and rest; if movement does not recover, ordinary inspection remains available, and replacement depends on the correct stocked diameter."
+    ],
+    "the-healers-measure": [
+      "Already a practicing healer, Rhoswen enters the ordinary fee-or-sponsorship course. First-morning failure shows that treating a minor wound can leave both a partner and patient exposed.",
+      "Daily load carrying, stance, falls, clinic work and six-breath switching practice continue through the seasons. The failed winter gate puts her into an extra quarter; peers bring different prior skills, including Demech's surveying experience.",
+      "Clearer large signals and repeated carrying, terrain and triage work gradually improve the pair. Senior road practice continues in the second year; Demech also repeats a gate after a bad flooded-ground decision.",
+      "In their twenty-seventh month, a bank collapse turns the supervised capstone into a real rescue. Rhoswen preserves the guard, uses Demech's terrain report, and changes to limited healing only under Fremda's twenty-breath cover.",
+      "Six breaths to switch in, bounded treatment, and six breaths to switch back preserve protection. The group frees Demech's boot and carries him out; the exercise's weighted casualty stays behind, and his wounds still require clinic care.",
+      "Demech spends six days in the clinic and three weeks on light duty. Rhoswen qualifies for an ordinary senior-paired road rotation, with her first refresher gate scheduled twelve weeks ahead; her new qualification does not end practice or care."
     ]
   },
   "storySpans": {
@@ -5512,6 +5546,31 @@
       "start": "An established repair trade and a failed first gate attempt",
       "end": "A revised sign next morning and changed later work",
       "note": "The promise of a two-hour conventional repair is rejected in favor of a redesign. Its three hard uses are the padded test, Hadrik's catwalk rescue and the gate hold; light consent testing spends no further rivet. The harness is exhausted, both workers are injured, and Aven requests ordinary mail and a crew. Hadrik changes his sign the following morning and describes a continuing change in his trade."
+    },
+    "the-villages-only-mage": {
+      "start": "Years of useful favors and unfinished closures",
+      "end": "Next morning's marked workings and shared repairs",
+      "note": "A locating pulse triggers the current crisis; successive closures extend the initially short forecast. By sunset the cistern, mill and bridge remain linked through the same water system, requiring physical preparation before release. Next morning three bounded workings remain. The mill bearing had arrived four days earlier while a favor still supported its worn predecessor."
+    },
+    "fourth-house": {
+      "start": "Ten years using a supplied faculty",
+      "end": "A limited license at 11:23 and a still-unfinished cistern job",
+      "note": "Withdrawal is recorded at 9:52 before the noon permit deadline. One stress redistribution locks Pelmara's hands and leaves stiffness; she refuses repetition. Cultivated is entered for this one observed faculty on a ten-day provisional license at 11:23. Recovery, site diagnosis, replacement work and later reassessment remain ahead."
+    },
+    "the-healers-measure": {
+      "start": "A healer's first morning of a standard training course",
+      "end": "A qualified road assignment and recovery after the capstone",
+      "note": "The ordinary course is twenty-four months; Rhoswen's repeated gates add a quarter. Demech's earlier six years of survey work precede his field-healer training. The capstone requires six-breath transitions within twenty breaths of cover. His recovery includes six clinic days and three weeks of light duty; Rhoswen receives a road assignment and a refresher date twelve weeks ahead, not a completed first rotation."
+    },
+    "clerics-infernal-ex": {
+      "start": "A breakup nine years earlier and a theft three days ago",
+      "end": "The closed crossing, an hour of care and dawn at the shelter",
+      "note": "Twenty years describes the shelter circuit's required span, not a newly completed journey or the length of the breakup. The crisis occurs during one autumn evening. After the leaves are destroyed, Emet treats injuries for an hour and reports the concealed theft; restrictions on solo watch and route decisions remain in force at dawn."
+    },
+    "the-friends-i-built": {
+      "start": "A solo design accepted the previous week",
+      "end": "The first morning of confirmed adult-arranged transport",
+      "note": "The collaboration requirement gives Irix three days before entries lock. The annual exhibition also lasts three days; that is not an additional waiting period. On exhibition morning the team adapts its cart in eleven minutes. Local reforms and the support agreement follow the emergency; the standing conveyance is shown working the next morning, without establishing lasting compliance everywhere."
     }
   },
   "storyEvidence": {
@@ -5976,8 +6035,8 @@
       "from": "the-villages-only-mage",
       "to": "fourth-house",
       "kind": "historical",
-      "label": "A profession reaching beyond the city",
-      "note": "Proposed regional connection: Lanternscrape receives three qualified surveyors with distinct instruments, while the municipal licensing story tests practice against pipe loads and source limits. These are compatible city-and-periphery conditions for circulating technical skills. A shared professional culture is plausible; the same guild, licensing law or exact date is not established.",
+      "label": "City work and village knowledge",
+      "note": "Proposed regional connection: Lanternscrape combines a load surveyor, a containment specialist and a fieldwright with local craftspeople and replacement supplies; Pelmara's city combines assessors, physical tests and limited legal permission. Their selected windows overlap. The survey pulse has a certified operating range, which does not establish the visitors' credentials or the city's licensing law. No shared regulator, route or named municipality is established.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -6246,8 +6305,8 @@
       "from": "the-healers-measure",
       "to": "clerics-infernal-ex",
       "kind": "historical",
-      "label": "Skilled care travels with the roads",
-      "note": "Proposed regional affinity: a chapterhouse's sponsored training feeds road rotations, while the House of Common Shelter moves its workers through seasonal postings. Both require an inhabited road network and support for traveling practitioners. No shared order, curriculum or appointment calendar is established.",
+      "label": "Different institutions sustain care on the road",
+      "note": "Proposed affinity between two working service systems: Candlemere takes already practicing healers through fees or sponsorship, supervised training and a later senior-paired road assignment. Emet's House supplies travelers through a twenty-year circuit with seasonal postings. Both sustain mobile care, but no common road network, training order, career length, appointment calendar or sequence is established.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -6541,12 +6600,12 @@
       "stages": [
         {
           "cycleId": "cycle-01-older-inhabited-world",
-          "title": "Skills circulate between settlements",
-          "note": "Visiting surveyors meet village knowledge; schools and itinerant appointments sustain professional work beyond the town. Mechanical maintenance remains necessary alongside living capacities, and collective harvest works have local uses that military pursuit can disrupt.",
+          "title": "Work connects town, countryside and training",
+          "note": "The proposed overlap brings municipal pipe assessment, Candlemere's varied intake and Lanternscrape's maintained services into one possible professional setting. The village's visitors revise their instruments' assumptions through keepers' knowledge; the college sends trained healers back onto roads. These are working routes for knowledge within each story, not proof of a shared regulator or a named route between the three.",
           "anchors": [
-            "the-villages-only-mage",
+            "fourth-house",
             "the-healers-measure",
-            "the-unfinished-sunset"
+            "the-villages-only-mage"
           ],
           "kind": "proposed"
         },
