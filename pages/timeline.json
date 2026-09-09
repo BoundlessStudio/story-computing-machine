@@ -699,7 +699,7 @@
       "id": "cycle-02-returning-sovereignties",
       "title": "The Returning Sovereignties",
       "eyebrow": "After Nell, many old-magical societies have histories of their own.",
-      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Northbridge's hidden helpers precede a later public sky, but private experiences continue within that mature reach. Dynasties, forests and inhabited foundations have separate local histories. Solstice's battle, the prisoner's later misidentification and a commemoration centuries afterward occupy distinct positions. Family life continues elsewhere before the Glass Sea's present.",
+      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Northbridge's hidden helpers precede a later public sky; ordinary school life, private families and public capacities continue within different societies. Solstice's coronation and her circles' fading precede the Bay by their own history; a prisoner is later misidentified and the same queen encounters a museum centuries afterward. The Glass Sea has its separate four-century inheritance of regional loss and maintained services. These histories establish no single rise and fall of all public powers.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -797,36 +797,18 @@
           "id": "event-an-ordinary-education",
           "title": "An Ordinary Education",
           "magicState": "old-magic",
-          "description": "Delsie's laboratory origin makes her visibly unusual without making her magical.",
+          "description": "Two years since leaving the laboratory → A first school week and Friday at the rink.",
           "context": [
-            "Delsie's laboratory origin makes her visibly unusual without making her magical. Public schools and ordinary recreation already distinguish capacities and eligibility, placing this story with Brightward and family-taught flight in a mature public culture.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Two years after leaving a laboratory that has closed, with two scientists imprisoned, Delsie begins at an ordinary school within a society where magic is publicly visible. Guardianship, prosecution, transport and recreation form her lived setting. Her proposed position in the earlier public modernity stands on that history, not a shared school system with Brightward. Her laboratory-made body is not evidence of magical capacity or a dated origin for other populations.",
+            "A closed laboratory, legal consequences and an existing guardian precede the new friendship. Public magical activity at the rink coexists with Delsie's nonmagical life; appearance and admissions do not identify one planetary education system."
           ],
-          "sequenceNote": "Proposed after The Throne Neither of Us Wanted and before The Warmest Person in the Room. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Throne Neither of Us Wanted and before The Peace They Could Sleep Through. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "an-ordinary-education"
           ],
           "window": {
             "start": 23.19,
             "end": 24.59
-          }
-        },
-        {
-          "id": "event-the-warmest-person-in-the-room",
-          "title": "The Warmest Person in the Room",
-          "magicState": "old-magic",
-          "description": "Brightward already trains and certifies people with varied capacities",
-          "context": [
-            "Brightward's teaching and certification turn Mirelle's capacity into something others expect to use. Its public professional hierarchy is a close social neighbor to magical-school selection and practical flight training, rather than Northbridge's disbelief.",
-            "Brightward already trains and certifies people with varied capacities The Baroness nickname dates from the previous winter An orientation morning includes three bounded demonstrations"
-          ],
-          "sequenceNote": "Proposed after An Ordinary Education and before The Peace They Could Sleep Through. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "the-warmest-person-in-the-room"
-          ],
-          "window": {
-            "start": 26.67,
-            "end": 28.07
           }
         },
         {
@@ -838,7 +820,7 @@
             "Two centuries of roads, grain and collective divine adjudication leave farmers and importers appealing upward for incompatible guarantees. Their ninety-day grain bargain begins a revisable practice; the dragons surrender royal and religious authority. Godhood ends while their bodies and powers remain, independently of Kharost's false royal ancestry.",
             "A separate twelve-dragon polity; the agreed one-year review is a future condition, not an elapsed century or a completed trial."
           ],
-          "sequenceNote": "Proposed after The Warmest Person in the Room and before The Tide Will Have Her Answer. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after An Ordinary Education and before The Tide Will Have Her Answer. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "the-peace-they-could-sleep-through"
           ],
@@ -874,7 +856,7 @@
             "Delivery work, municipal weather, roof schooling and family practice make public flight ordinary city life. Its supplied reading position is before the Bay; no shared city or direct lineage to Solstice is established.",
             "Only the reading position before the Bay is supplied; the culture’s founding date and relation to Solstice’s circles remain open."
           ],
-          "sequenceNote": "Proposed after The Tide Will Have Her Answer and before Stay Out of My City. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Tide Will Have Her Answer and before The One Who Gets Tired. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "not-about-that"
           ],
@@ -884,33 +866,15 @@
           }
         },
         {
-          "id": "event-stay-out-of-my-city",
-          "title": "Stay Out of My City",
-          "magicState": "old-magic",
-          "description": "The harbor ultimatum → A daughter’s departure.",
-          "context": [
-            "Nine years of Brackenport's exclusion challenge an already public hero economy whose battles close schools and consume civic life. Warren opposes its institutions while police, markets and council government continue. This public setting belongs beside the inhabited sky; its fate after the Bay is unknown.",
-            "Nine local years; the earlier-than-Bay location is a proposal, not an established date against other modern stories."
-          ],
-          "sequenceNote": "Proposed after Not About That and before The One Who Gets Tired. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "stay-out-of-my-city"
-          ],
-          "window": {
-            "start": 40.6,
-            "end": 42.0
-          }
-        },
-        {
           "id": "event-the-one-who-gets-tired",
           "title": "The One Who Gets Tired",
           "magicState": "old-magic",
-          "description": "In an undated magical Cusco household, the eldest sibling reaches a human limit",
+          "description": "Years in a blended divine and human family → A bakery shift and an afternoon matinee.",
           "context": [
-            "In modern Cusco, divine children practice ordinary behavior and their parents retain worshippers elsewhere. Leonor is a demigod whose human needs, including sleep, help her understand limits her family overlooks. Their hidden identity can coexist with publicly known powers; it supplies no evidence of citywide disbelief in gods.",
-            "In an undated magical Cusco household, the eldest sibling reaches a human limit"
+            "Leonor's Cusco combines ordinary work, buses and cinema with a divine household whose parents still have worshippers elsewhere. Her human needs have been part of the family for years. The proposed later old-magical position permits private divine life within an inhabited modern society; it supplies no shared calendar with other cities or proof of public disbelief.",
+            "Family roles and ordinary routines already exist before this afternoon. The parents' active capacities and worship elsewhere keep this distinct from the wholly magicless modern interval."
           ],
-          "sequenceNote": "Proposed after Stay Out of My City and before Transitions in Common. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after Not About That and before Transitions in Common. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "the-one-who-gets-tired"
           ],
@@ -1067,10 +1031,10 @@
           "id": "event-solstice-evening-bell",
           "title": "Solstice Evening Bell",
           "magicState": "old-magic",
-          "description": "The independent circles’ coronation → The Battle of the Bay.",
+          "description": "The independent circles' coronation → Dawn after the Battle of the Bay.",
           "context": [
-            "Solstice's coronation and circles lie centuries before the Battle of the Bay; by the battle she is already the last magical girl. The battle precedes the Glass Sea and begins the local aftermath sequence.",
-            "Centuries separate coronation and battle. The Bay is before the Glass Sea; the circles’ relation to other named teams is unestablished."
+            "The coronation is centuries before the Bay, and the circles have already faded by the invasion, leaving Solstice without living subjects identified in the story. The battle ends her crown's workings while her innate force and the inhabited world survive. Its place before the Glass-Sea era is established; the circles' disappearance, the regional Day of Glass and the later extinction are separate histories.",
+            "The coronation, the loss of living subjects and the invasion have different places in Solstice's life. Her administrative ultrahuman classification is local to the era, not a census of every extraordinary being."
           ],
           "sequenceNote": "Proposed after The Last Flames and before The Dress They Brought Her. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1123,8 +1087,8 @@
           "magicState": "old-magic",
           "description": "The Battle of the Bay → The museum centuries later.",
           "context": [
-            "A living witness confronts a digital museum centuries after the Bay. This is the long public-memory aftermath of the same battle, not another immediate recovery scene.",
-            "The interval from the battle is explicit; the museum’s side of extinction remains open."
+            "The same Solstice visits a working digital museum centuries after the Bay. Later civic traditions, a commemorative sword and damaged archives have reshaped a battle still accessible through living testimony. The chosen pre-extinction position avoids assuming an additional history for her survival after magic ends; the prose itself leaves that side of extinction open.",
+            "Public memory has changed over generations while ordinary technical work continues. Missing battle artifacts do not establish a general technological collapse or date the museum against the Glass Sea."
           ],
           "sequenceNote": "Proposed after The Morning Her Hand Moved and before A Place for the Living. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1175,10 +1139,10 @@
           "id": "event-daughter-of-the-sun",
           "title": "Daughter of the Sun",
           "magicState": "old-magic",
-          "description": "Independent service branches → The second dawn.",
+          "description": "Independent service branches and later centralization → The second dawn and a first local covenant.",
           "context": [
-            "Four centuries of centralized solar dependence follow the Day of Glass. This established later history comes after Nell's home era and the Bay; decentralizing its branches does not restore or identify another magical system.",
-            "The Day of Glass is four centuries before the present; the network’s earlier independent period is undated."
+            "Four centuries of centralized solar dependence follow the Day of Glass, with surviving institutions still maintaining the damaged network. The established later Glass-Sea history follows Nell's home era and the Bay. The second dawn changes control of a regional system; it does not restore an old global age, end all magic or date unrelated networks.",
+            "A regional catastrophe is followed by four centuries of maintenance, dependency and narrowed public memory. The repair redistributes authority and preserves imperfect services; it does not found every later magical practice."
           ],
           "sequenceNote": "The last proposed event in this cycle, after What I Hate Most. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1195,7 +1159,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The proposed later old-magical reach includes kingdoms dependent on depot networks, paid expertise, doorway work, commercial crossings and bodily abilities embedded in ordinary infrastructure. All Accounts Due then ends the old material magic. Unmeasured intervals separate that boundary from ordinary courts, hereditary House institutions and working cities during the zero. Surveillance, maritime engineering, Orison's fall and an encounter with a forgotten arsenal have separate local histories; they are not one uninterrupted ascent or one empire.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Institutions use living capacities while ordinary tools and maintenance remain necessary. The terminal world is still rich in magic when All Accounts Due ends its old material function. Unmeasured intervals then separate ordinary courts, hereditary Houses, working cities, surveillance, maritime engineering, Orison's fall and a forgotten arsenal. They do not share an established empire or uninterrupted ascent.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1225,13 +1189,31 @@
             "Proposed before extinction in a later age of publicly known magical work. The hiring fair, expedition contracts and advertised nonlethal weapon establish an operating economy, not the discovery of a new power. The four-year partnership and independently planned departure precede the afternoon's injury. Its order against the other later old-magical stories remains a reconstruction.",
             "The partnership has lasted four years. A room is arranged the preceding week and the ticket bought that morning, before the bout. The injury may ease over days, but no exact recovery, completed departure or reconciliation is witnessed."
           ],
-          "sequenceNote": "Proposed after The Strength of Ten and before A Little Winter for Sale. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Proposed after The Strength of Ten and before The Warmest Person in the Room. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "where-it-hurts"
           ],
           "window": {
             "start": 2.3,
             "end": 3.7
+          }
+        },
+        {
+          "id": "event-the-warmest-person-in-the-room",
+          "title": "The Warmest Person in the Room",
+          "magicState": "old-magic",
+          "description": "An existing college life and the previous winter's reputation → One orientation morning.",
+          "context": [
+            "Placed in the proposed later old-magical reach, Brightward already joins specialist teaching, certification, clinics, equipment testing and routine maintenance around living capacities. This fits the period's applied expertise and institutional demands without making an ordinary school its precursor. Canon fixes the story before extinction; its later-than-Glass-Sea position is proposed, and Brightward has no established link to the Array or its roots.",
+            "Certification, equipment forms and an established clinic locate the story within a professional institution. Mirelle's useful knowledge and refusals remain her own; the ordinary scarf changes neither her power nor its costs."
+          ],
+          "sequenceNote": "Proposed after Where It Hurts and before A Little Winter for Sale, in a later old-magical reach with established applied expertise. The position does not identify a common employer, college, root system or continuous institutional lineage.",
+          "stories": [
+            "the-warmest-person-in-the-room"
+          ],
+          "window": {
+            "start": 7.3,
+            "end": 8.7
           }
         },
         {
@@ -1243,7 +1225,7 @@
             "Proposed in a later old-magical age than the noble-dragon accords. Qarsis already combines condensers, trade and paid living expertise: Urumet's migration and bounded municipal work belong to an established mixed infrastructure. This extends the selected history of public services across ages without identifying a shared dragon ancestry, polity or uninterrupted tradition.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after Where It Hurts and before The Door Knows Home. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Warmest Person in the Room and before The Door Knows Home. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "a-little-winter-for-sale"
           ],
@@ -1310,10 +1292,10 @@
           "id": "event-all-accounts-due",
           "title": "All Accounts Due",
           "magicState": "old-magic",
-          "description": "A vigorous connected magical world → The extinction of old magic.",
+          "description": "Older institutions and thirty-one years of separate adventures → The simultaneous extinction of old magic.",
           "context": [
-            "Centuries of institutional history and thirty-one years of relic travel converge at the Array. Its release is the fixed terminal boundary of old material magic, not the consequence of one nearby city's decline.",
-            "The Array was built 302 years before the confrontation; Faris accumulates the relics over thirty-one years. Neither interval is a construction duration. The six ended roots are not universal origins for every earlier magic."
+            "The terminal world remains full of working magical cities, palaces, travel and bodily exchanges. Its extinction is a deliberate simultaneous ending, not the last stage of a gradual worldwide loss. An Array commissioned 302 years earlier, postwar institutions and Faris's thirty-one years of separate relationships converge here; none is identified as a descendant of Brightward or the solar branches.",
+            "The old world is vigorous and interdependent when the release ends its magical functions. Local crown losses, ruined cities and private capacities elsewhere neither cause this boundary nor establish a single preceding decline."
           ],
           "sequenceNote": "Proposed after Life with a Girlfriend with Shrinking Powers and before The Walls Are Thick Enough. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2496,7 +2478,7 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "Later post-return societies include campaign veterans, functioning kingdoms and mature royal service bureaucracies alongside bodily professions, public works and investigations of the past. Local spans remain distinct: a victory six weeks before one household story, three months of deferred repair in another polity, years of managing a curse and much older memories. Neither Dabria's victory nor the Salt Crucible founds these other societies. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
+      "description": "Later post-return societies include campaign veterans, functioning kingdoms, mature royal services, bodily professions and public works. Brackenport's nine-year history supplies a different political choice: ordinary city government continues while armed hero organizations are excluded and remain active elsewhere. Local victories, deferred repairs and old memories are not a common founding event. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2652,13 +2634,31 @@
             "Forty spellwrights, stored engines, municipal wards, sluices and a winchwright sustain an industrial magical city. A bounded death god participates in that labor system; the story belongs with public craft infrastructure rather than a generic rise of gods.",
             "A demonstration engine stores one charge supplied by forty living spellwrights A broken stop-pin allows seven-minute repetitions through a changing, damaged district Derva accepts one bounded patronage while crews engineer the physical failure the god cannot initiate The repeating pattern ends and the bond is dismissed; ordinary gate bracing and repair continue"
           ],
-          "sequenceNote": "Proposed after When the Needle Finds You and before The House of Possible Uses. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after When the Needle Finds You and before Stay Out of My City. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "deaths-patron"
           ],
           "window": {
             "start": 62.12,
             "end": 63.52
+          }
+        },
+        {
+          "id": "event-stay-out-of-my-city",
+          "title": "Stay Out of My City",
+          "magicState": "new-magic",
+          "description": "A harbor ultimatum when Elvi is ten → Her university departure nine years later.",
+          "context": [
+            "Placed provisionally in a later post-return age, this is a city's response to an entrenched hero economy. Nine years of exclusion let police, housing, treatment, schools and council life continue while armed organizations keep operating elsewhere. This follows the proposed professional world of Cycle VI as a later political alternative, without identifying its agencies or powers with Brackenport's. An earlier active-magical date remains possible.",
+            "A mature profession does not disappear when one city excludes it. Brackenport's continuing institutions, outside emergencies and a daughter's departure make this a regional political history with nine years of change."
+          ],
+          "sequenceNote": "Proposed after When Death Knelt and before The House of Possible Uses, among later societies with established services and different forms of authority. No shared state, government or recent catastrophe places these neighbors together; the nine-year city history does not found this cycle.",
+          "stories": [
+            "stay-out-of-my-city"
+          ],
+          "window": {
+            "start": 67.0,
+            "end": 68.4
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "Estate salvage, museum records and emergency containment trace a marker-containing lot bought eleven years earlier. That dates the lot, not the whole collection or every object. Four objects have different observed roles; the active collector's seed is contained, while its origin and biology remain unestablished. The household begins limited clearance afterward.",
             "A sale eleven years earlier dates the marker-containing lot, while other acquisition histories remain incomplete A museum investigation triggers responses inside an obstructed household Four objects are isolated by observed behavior; containment ends the room expansion Ownership notices remain pending and the household begins clearing one route and one category"
           ],
-          "sequenceNote": "Proposed after When Death Knelt and before The Hollow Cask. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after Stay Out of My City and before The Hollow Cask. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "the-hoarders-house"
           ],
@@ -2955,7 +2955,7 @@
         "start": 23.19,
         "end": 24.59
       },
-      "note": "Delsie's laboratory origin makes her visibly unusual without making her magical. Public schools and ordinary recreation already distinguish capacities and eligibility, placing this story with Brightward and family-taught flight in a mature public culture."
+      "note": "Two years after leaving a laboratory that has closed, with two scientists imprisoned, Delsie begins at an ordinary school within a society where magic is publicly visible. Guardianship, prosecution, transport and recreation form her lived setting. Her proposed position in the earlier public modernity stands on that history, not a shared school system with Brightward. Her laboratory-made body is not evidence of magical capacity or a dated origin for other populations."
     },
     "not-about-that": {
       "window": {
@@ -3043,10 +3043,10 @@
     },
     "stay-out-of-my-city": {
       "window": {
-        "start": 40.6,
-        "end": 42.0
+        "start": 67.0,
+        "end": 68.4
       },
-      "note": "Nine years of Brackenport's exclusion challenge an already public hero economy whose battles close schools and consume civic life. Warren opposes its institutions while police, markets and council government continue. This public setting belongs beside the inhabited sky; its fate after the Bay is unknown."
+      "note": "Placed provisionally in a later post-return age, this is a city's response to an entrenched hero economy. Nine years of exclusion let police, housing, treatment, schools and council life continue while armed organizations keep operating elsewhere. This follows the proposed professional world of Cycle VI as a later political alternative, without identifying its agencies or powers with Brackenport's. An earlier active-magical date remains possible."
     },
     "the-attendance-ledger": {
       "window": {
@@ -3067,7 +3067,7 @@
         "start": 75.41,
         "end": 76.81
       },
-      "note": "Solstice's coronation and circles lie centuries before the Battle of the Bay; by the battle she is already the last magical girl. The battle precedes the Glass Sea and begins the local aftermath sequence."
+      "note": "The coronation is centuries before the Bay, and the circles have already faded by the invasion, leaving Solstice without living subjects identified in the story. The battle ends her crown's workings while her innate force and the inhabited world survive. Its place before the Glass-Sea era is established; the circles' disappearance, the regional Day of Glass and the later extinction are separate histories."
     },
     "the-dress-they-brought-her": {
       "window": {
@@ -3081,7 +3081,7 @@
         "start": 85.86,
         "end": 87.26
       },
-      "note": "A living witness confronts a digital museum centuries after the Bay. This is the long public-memory aftermath of the same battle, not another immediate recovery scene."
+      "note": "The same Solstice visits a working digital museum centuries after the Bay. Later civic traditions, a commemorative sword and damaged archives have reshaped a battle still accessible through living testimony. The chosen pre-extinction position avoids assuming an additional history for her survival after magic ends; the prose itself leaves that side of extinction open."
     },
     "the-future-that-refused-us": {
       "window": {
@@ -3102,7 +3102,7 @@
         "start": 96.3,
         "end": 97.7
       },
-      "note": "Four centuries of centralized solar dependence follow the Day of Glass. This established later history comes after Nell's home era and the Bay; decentralizing its branches does not restore or identify another magical system."
+      "note": "Four centuries of centralized solar dependence follow the Day of Glass, with surviving institutions still maintaining the damaged network. The established later Glass-Sea history follows Nell's home era and the Bay. The second dawn changes control of a regional system; it does not restore an old global age, end all magic or date unrelated networks."
     },
     "the-way-around": {
       "window": {
@@ -3123,7 +3123,7 @@
         "start": 41.47,
         "end": 42.87
       },
-      "note": "Centuries of institutional history and thirty-one years of relic travel converge at the Array. Its release is the fixed terminal boundary of old material magic, not the consequence of one nearby city's decline."
+      "note": "The terminal world remains full of working magical cities, palaces, travel and bodily exchanges. Its extinction is a deliberate simultaneous ending, not the last stage of a gradual worldwide loss. An Array commissioned 302 years earlier, postwar institutions and Faris's thirty-one years of separate relationships converge here; none is identified as a descendant of Brightward or the solar branches."
     },
     "four-million-falling": {
       "window": {
@@ -3662,7 +3662,7 @@
         "start": 44.08,
         "end": 45.48
       },
-      "note": "In modern Cusco, divine children practice ordinary behavior and their parents retain worshippers elsewhere. Leonor is a demigod whose human needs, including sleep, help her understand limits her family overlooks. Their hidden identity can coexist with publicly known powers; it supplies no evidence of citywide disbelief in gods."
+      "note": "Leonor's Cusco combines ordinary work, buses and cinema with a divine household whose parents still have worshippers elsewhere. Her human needs have been part of the family for years. The proposed later old-magical position permits private divine life within an inhabited modern society; it supplies no shared calendar with other cities or proof of public disbelief."
     },
     "a-place-for-the-living": {
       "window": {
@@ -3694,10 +3694,10 @@
     },
     "the-warmest-person-in-the-room": {
       "window": {
-        "start": 26.67,
-        "end": 28.07
+        "start": 7.3,
+        "end": 8.7
       },
-      "note": "Brightward's teaching and certification turn Mirelle's capacity into something others expect to use. Its public professional hierarchy is a close social neighbor to magical-school selection and practical flight training, rather than Northbridge's disbelief."
+      "note": "Placed in the proposed later old-magical reach, Brightward already joins specialist teaching, certification, clinics, equipment testing and routine maintenance around living capacities. This fits the period's applied expertise and institutional demands without making an ordinary school its precursor. Canon fixes the story before extinction; its later-than-Glass-Sea position is proposed, and Brightward has no established link to the Array or its roots."
     },
     "captive-couples": {
       "window": {
@@ -3910,10 +3910,11 @@
       "During a distant crisis, helpers pass responsibility between willing contacts rather than requiring one team to remain always available."
     ],
     "solstice-evening-bell": [
-      "Independent circles debate monarchy for eleven days; twelve adult volunteers give their lives to make final works for the crown.",
-      "Centuries pass; the circles fade and Solstice remains queen without living subjects.",
-      "At the Bay, an adaptive host of 131,072 nonliving frames descends over an evacuated harbor.",
-      "Solstice permanently spends all thirteen tones to close the rupture; her own living power survives."
+      "Independent circles debate monarchy for eleven days; on the twelfth morning twelve adult volunteers give their lives to make final works for the crown",
+      "Centuries separate the coronation from the Bay; the circles fade without a successor before the invasion",
+      "An evacuated harbor and withdrawn conventional forces precede the arrival of 131,072 nonliving frames in eight wedges",
+      "Through the night, the crown's finite works are spent against an adapting invasion; the ordinary autumn storm is neither summoned nor controlled",
+      "The central release closes the rupture and ends every crown tone; dawn finds Solstice alive with her innate force, no bridgehead and no second wave"
     ],
     "the-dress-they-brought-her": [
       "The battle damages civic services and leaves burned archive pages in a recovery stream.",
@@ -3921,9 +3922,12 @@
       "The prisoner exposes the boundary error and refuses the extraction; the anonymous count of one remains unchanged."
     ],
     "stay-out-of-my-city": [
-      "A harbor ultimatum establishes the conditions of Brackenport’s peace.",
-      "Local civic life continues under those conditions while a child grows toward adulthood.",
-      "Nine years later, the daughter prepares to leave the city."
+      "When Elvi is ten, recurring battles have closed schools three times that month; Warren stops a harbor confrontation and excludes armed organizations",
+      "During the first year, gangs and a disguised training base test the rule; ordinary police and civic services continue",
+      "At thirteen, Elvi accompanies a renewed hero recruitment offer; at sixteen, a villain's housing proposal fails to gain a base",
+      "By the ninth year, Brackenport has gone five years without a crime; visiting researchers find no concealed exception while council disagreement continues",
+      "On Elvi's university-departure morning, Warren races fairly and loses, then turns both armed delegations away from the station road",
+      "Elvi boards her coach; Warren returns to the harbor to practice, while the city and the outside organizations retain separate futures"
     ],
     "the-small-moon-rose-first": [
       "Nell and Bash experience 617 shared days in Ravel; the Regent's local identity system and the Glass Gate have different functions and living operators.",
@@ -3976,10 +3980,13 @@
       "The queen releases the root; rain reaches the valley and the damaged cloud city moves, with losses uncounted and peace unsettled"
     ],
     "the-count-was-131072": [
-      "The Bay is fought and its crown permanently expended.",
-      "Generations later, a commemorative sword and received civic language reshape the battle’s public image.",
-      "Centuries after the battle, Solstice visits a museum with no surviving crown material or frame debris.",
-      "She records the exact initial count and its limits; the museum begins separating attributed evidence from legend."
+      "The Bay ends with all crown tones permanently expended; Solstice survives as its witness",
+      "Generations later, a commemorative sword and received civic language reshape the public account",
+      "Centuries after the battle, a museum has damaged records and reproductions, with no surviving crown material or frame debris",
+      "Forty-three minutes before scheduled opening, Solstice begins challenging the presentation; an early school group exposes its contradictions",
+      "She records the exact initial count, later limits and the supporting evidence for the final zero after royal hearing was gone",
+      "Opening is delayed eleven minutes; corrections begin while old audio packages remain in circulation",
+      "The sword's relocation and further donor-source work remain ahead; the institution has begun revision, not completed it"
     ],
     "kite-letters-below": [
       "The station inherits a service script and teaches that surface habitats failed 812 years earlier",
@@ -4002,16 +4009,24 @@
       "The final passenger lift leaves after midnight. By predawn water, care, shelter and household choices are still being arranged; no permanent settlement or way back has been established."
     ],
     "daughter-of-the-sun": [
-      "Seven service branches once operated independently before being drawn into one crown.",
-      "During the Day of Glass, centralization preserves the capital and destroys six outer cities.",
-      "Four centuries of capital priority and shortened public memory leave the shield failing and other communities dependent.",
-      "Recovered records guide a severing of central control; local witnesses govern their branches, and two settlements survive after cutting failed connections."
+      "Seven service branches once operated independently before being drawn into one crown",
+      "During the Day of Glass, Aurelia tries alternatives for forty-three minutes, then centralizes the network; the capital survives and six outer cities are lost",
+      "Four centuries later, the failing shield and an incomplete public witness interrupt the Rite of Deliverance",
+      "At the Ninth Hollow, a bounded cistern repair unintentionally wakes a master line still serving the capital",
+      "Four partial evidence streams recover the lost hour; the group rejects renewed central command and severs the master conduit",
+      "The Mother-fragment holds the failing frame for three seconds; Tovan persists in seven diverging expressions",
+      "Two branches fail before dawn and their settlements survive; the capital retains a smaller shield and the Hollow keeps its water",
+      "A first one-hour greenhouse covenant begins under local witnesses; Dhal's public judgment remains ahead"
     ],
     "all-accounts-due": [
-      "Six-practice engineers build the Array 302 years before the terminal confrontation as a last resort against coupled roots.",
-      "The Ascendancy, born from postwar armistice councils, appropriates Array studies and living contributions to bind every root to command.",
-      "Faris accumulates eight bounded relics over thirty-one years while walking cities, living palaces and other systems continue.",
-      "The six terminal conditions end old material magic; Faris and Seyathi remain alive in open fall."
+      "Six-practice engineers commission the Array 302 years before the confrontation; its relics have distinct earlier histories",
+      "Thirty-one years before the ending, Faris helps free the Underforge's young; twenty-four years before, a prison rescue leads to the Sole Chamber bargain",
+      "Eighteen years before, mutual rescue at Skairrift brings the Arc and Astrolabe; fourteen years before, Faris returns Qeluun's stolen bone",
+      "Nine years before, the Talarum rescue reveals the Yoke; four years before, Faris's return to repair his own harm at Keruvan brings custody of the Form and Latch",
+      "Armistice councils have become the Bound Ascendancy, combining stolen studies and living contributions while the magical world still functions",
+      "Six living authorities arm terminal conditions; five know the full scope while Seyathi is deliberately denied it",
+      "Faris releases the ordinary cotter at parity: old magical function ends together, ordinary matter remains, and dependence on impossible functions kills many",
+      "Faris and Seyathi are alive in open fall at this story's end; her attempted Grace gesture receives no answer"
     ],
     "the-sky-remembers-us-return": [
       "Immediately after the extinction, Faris and Seyathi strike the ground and die; ordinary light carries their final image",
@@ -4099,7 +4114,11 @@
       "The niece shares part of her grief on her own terms; the pendant cannot claim the missing years."
     ],
     "the-one-who-gets-tired": [
-      "In an undated magical Cusco household, the eldest sibling reaches a human limit"
+      "Leonor's parents divorce when she is five; Celso enters her life when she is six and becomes a loved stepfather",
+      "Years of family life establish different needs among the siblings, including Leonor's ordinary sleep and fatigue",
+      "After a bakery shift begun at four, she helps the children rehearse ordinary behavior and expands a planned outing with her father",
+      "At the matinee, competing requests interrupt the film; Leonor snaps, apologizes and acknowledges the time she wanted with her father",
+      "The parents take over the younger children's needs; Leonor returns beside her father and falls asleep before the sequence she wanted to see"
     ],
     "a-throne-neither-wanted": [
       "A fatal injury is suspended for roughly a year by royal office",
@@ -4239,9 +4258,12 @@
       "A present-day visit through Calo brings the two living minds together without settling ownership by prior occupancy"
     ],
     "the-warmest-person-in-the-room": [
-      "Brightward already trains and certifies people with varied capacities",
-      "The Baroness nickname dates from the previous winter",
-      "An orientation morning includes three bounded demonstrations"
+      "Brightward is part of Mirelle's life before her relationship with Caleb; their domestic knowledge of her cold is already established",
+      "The previous winter's incidents become exaggerated campus stories and the Blizzard Baroness nickname",
+      "On orientation morning, three demonstrations leave her hands numb before ten; Caleb joins her after forty-three minutes on campus",
+      "A request to use her as a live cold source for tomorrow's shield test is refused; Caleb apologizes for changing her answer",
+      "The tour continues past a separate valve fault requiring ordinary isolation and maintenance; Caleb lets Mirelle make her own decisions",
+      "Registration remains ahead as they part; no campus-wide correction, completed new test or cure is shown"
     ],
     "the-thirteenth-command": [
       "Edda accumulates thirty-six years of dispatch experience while maps, sensors and the actual cistern diverge",
@@ -4577,13 +4599,20 @@
       "Auden authorizes a limited warning-and-field clip while retaining control over disclosure of the death",
       "Mica unpacks before dawn and speaks at the 6 p.m. broadcast, relinquishing the family crest",
       "The public response is mixed; no new verdict, restored livelihood or family reconciliation is shown"
+    ],
+    "an-ordinary-education": [
+      "An abusive laboratory period precedes release; by the present school week the laboratory is closed and two scientists are in prison",
+      "Two years after leaving, Delsie makes a lunch-table friend at a new school and accepts a Friday invitation",
+      "By Thursday she has attended for four days; videos and private rehearsal prepare her for a rink she has never visited",
+      "After thirty-eight minutes at the rink, she considers leaving, then admits she has never skated",
+      "The friends return to the floor with different expectations of help; they fall together and continue their ordinary argument"
     ]
   },
   "storySpans": {
     "daughter-of-the-sun": {
-      "start": "Independent service branches",
-      "end": "The second dawn",
-      "note": "The Day of Glass is four centuries before the present; the network’s earlier independent period is undated."
+      "start": "Independent service branches and later centralization",
+      "end": "The second dawn and a first local covenant",
+      "note": "The independent network has an undated earlier history. Four centuries separate the Day of Glass from the present crisis. The forty-three-minute decision, three-second final intervention and one-hour later covenant are local intervals, not measures of an age or links to the Bay."
     },
     "the-first-wound": {
       "start": "Undated early battle",
@@ -4603,7 +4632,7 @@
     "the-count-was-131072": {
       "start": "The Battle of the Bay",
       "end": "The museum centuries later",
-      "note": "The interval from the battle is explicit; the museum’s side of extinction remains open."
+      "note": "The long interval is explicit. Forty-three minutes measures the opening deadline on the museum day, not its full work; the opening is eventually eleven minutes late. The museum's side of extinction remains unresolved, and no surviving crown or restored tone is implied."
     },
     "the-sky-remembers-us-return": {
       "start": "All Accounts aftermath",
@@ -4616,9 +4645,9 @@
       "note": "Nine years on Eiren's clock, considerably more on Ryo's. The gift bonds and recurring assignment thread are severed before a rest in the threshold room and a separate terminal fold home. The home interval and destination coordinates remain unspecified; this placement concerns the apartment frame."
     },
     "stay-out-of-my-city": {
-      "start": "The harbor ultimatum",
-      "end": "A daughter’s departure",
-      "note": "Nine local years; the earlier-than-Bay location is a proposal, not an established date against other modern stories."
+      "start": "A harbor ultimatum when Elvi is ten",
+      "end": "Her university departure nine years later",
+      "note": "The first-year challenges and visits at thirteen and sixteen precede the ninth-year departure. Five crime-free years are a shorter interval within the city history. This local sequence is established in the prose; its later post-return placement is a chosen reconstruction, not an established connection to the Bay or another hero agency."
     },
     "only-eighteen": {
       "start": "Twins arrive at six weeks",
@@ -4741,9 +4770,9 @@
       "note": "Only the reading position before the Bay is supplied; the culture’s founding date and relation to Solstice’s circles remain open."
     },
     "solstice-evening-bell": {
-      "start": "The independent circles’ coronation",
-      "end": "The Battle of the Bay",
-      "note": "Centuries separate coronation and battle. The Bay is before the Glass Sea; the circles’ relation to other named teams is unestablished."
+      "start": "The independent circles' coronation",
+      "end": "Dawn after the Battle of the Bay",
+      "note": "The centuries before the battle include the circles' fading; the battle does not cause that earlier disappearance. Crown loss is permanent but does not extinguish Solstice's own force or all magic. The later museum follows this same witness by further centuries."
     },
     "the-dress-they-brought-her": {
       "start": "Damaged battle records",
@@ -4771,9 +4800,9 @@
       "note": "The ledgers call the colossus dead, without establishing its origin or true condition; slowing after the impacts does not prove a response."
     },
     "all-accounts-due": {
-      "start": "A vigorous connected magical world",
-      "end": "The extinction of old magic",
-      "note": "The Array was built 302 years before the confrontation; Faris accumulates the relics over thirty-one years. Neither interval is a construction duration. The six ended roots are not universal origins for every earlier magic."
+      "start": "Older institutions and thirty-one years of separate adventures",
+      "end": "The simultaneous extinction of old magic",
+      "note": "The Array's 302 years are its age, not construction time. The six adventures occur 31, 24, 18, 14, 9 and 4 years before the confrontation, although the prose recounts them in another order. Their gifts were not collected under one original terminal plan. The ended roots do not supply universal origins for every earlier story."
     },
     "strength-of-ten": {
       "start": "Demobilization and warnings before the compact",
@@ -5104,6 +5133,21 @@
       "start": "The bridge event six months earlier",
       "end": "A later 6 p.m. public statement",
       "note": "Mica was seventeen at the bridge; a birthday since then is not dated. The upload and corrupted evidence have a next-morning sequence, while the present confrontation leads through dawn to broadcast. Two generations of public family work do not measure the age of the surrounding hero institutions."
+    },
+    "the-one-who-gets-tired": {
+      "start": "Years in a blended divine and human family",
+      "end": "A bakery shift and an afternoon matinee",
+      "note": "The separation at five and Celso's arrival at six precede the present day. Her current age and lifespan are not established. Falling asleep is an ordinary bodily limit within ongoing relationships, not a new power, a loss of divinity or a historical change in the gods."
+    },
+    "an-ordinary-education": {
+      "start": "Two years since leaving the laboratory",
+      "end": "A first school week and Friday at the rink",
+      "note": "The earlier three-night laboratory experiment belongs before release. Four school days by Thursday lead to Friday's outing; thirty-eight minutes marks the bench conversation, not the end of the visit. Her wish to practice privately for six months is imagined, not an event."
+    },
+    "the-warmest-person-in-the-room": {
+      "start": "An existing college life and the previous winter's reputation",
+      "end": "One orientation morning",
+      "note": "Mirelle's college history predates the couple. The three demonstrations occur before Caleb notices her numb hands during the tour. Tomorrow's requested ten-minute practical is refused, not performed. These intervals date the relationship and morning, not the age of the college or its place relative to another school."
     }
   },
   "storyEvidence": {
@@ -5717,11 +5761,11 @@
       "id": "public-education-and-eligibility",
       "from": "an-ordinary-education",
       "to": "the-warmest-person-in-the-room",
-      "kind": "historical",
+      "kind": "echo",
       "label": "Who is allowed to learn, and who is made useful?",
-      "note": "Public schools distinguish access to magical education from bodily appearance, while Brightward makes a student's capacity available to institutional demands. Their explicit systems of training and eligibility support a shared proposed public culture. They have different schools and capacities, with no common admissions rule established.",
+      "note": "Delsie's ordinary school life exposes mistaken assumptions about eligibility; a later proposed college setting treats Mirelle's capacity as a resource. This compares pressures in two different educational histories. It establishes neither one public culture nor a school succession, shared admissions rule or inherited magical system.",
       "ordering": "none",
-      "basis": "proposed"
+      "basis": "thematic"
     },
     {
       "id": "appearance-does-not-classify-a-person",
@@ -5735,13 +5779,13 @@
     },
     {
       "id": "hero-economies-return",
-      "from": "stay-out-of-my-city",
-      "to": "captive-couples",
-      "kind": "echo",
-      "label": "What a city asks of its heroes",
-      "note": "Brackenport excludes hero organizations because their conflicts consume ordinary civic life. Held Together depicts the care, utilities and medical systems that organized hero work needs. The later recurrence reopens a political problem from inside the profession; it does not inherit Warren's agencies or powers.",
+      "from": "captive-couples",
+      "to": "stay-out-of-my-city",
+      "kind": "historical",
+      "label": "Public heroes and a city's refusal",
+      "note": "Held Together shows the care, utilities and medical support organized hero work needs. In the proposed later history, Brackenport redirects resources and excludes armed organizations while other places still need them. This is a possible political contrast within the post-return world, not proof of shared agencies, equipment or a causal sequence between the two incidents.",
       "ordering": "none",
-      "basis": "thematic"
+      "basis": "proposed"
     },
     {
       "id": "institutions-claim-a-capacity",
@@ -6168,10 +6212,10 @@
         },
         {
           "cycleId": "cycle-07-later-refoundings",
-          "title": "Craft and advanced tools coexist",
-          "note": "Municipal engines and a restored hall remain useful beside highly mechanized excavation. Later technical cultures retain different capacities rather than occupying one final rung.",
+          "title": "Later communities choose different public services",
+          "note": "Brackenport invests in ordinary services during nine years excluding armed hero organizations. A different town restores a hall, while Kettlebridge arrives among highly mechanized excavation and older civic institutions. These separate histories do not form one city, reconstruction program or final technological rung.",
           "anchors": [
-            "deaths-patron",
+            "stay-out-of-my-city",
             "the-hollow-cask",
             "the-first-kingdom-was-late-on-taxes"
           ],
@@ -6208,10 +6252,10 @@
         },
         {
           "cycleId": "cycle-03-extinction-human-works",
-          "title": "Old capacities reach zero",
-          "note": "Individual old abilities are embedded in ordinary work before extinction. All Accounts Due then ends old magical function while preserving what ordinary matter can sustain; no dormant power remains to lift Orison.",
+          "title": "Established capacities meet the terminal boundary",
+          "note": "Brightward's existing training and certification turn living capacities into institutional expectations. Elsewhere the old magical world remains vigorous until the deliberate extinction. Ordinary matter persists afterward, but no dormant power remains to lift Orison. The college is not identified with the Array's designers or the Ascendancy.",
           "anchors": [
-            "life-with-a-girlfriend-with-shrinking-powers",
+            "the-warmest-person-in-the-room",
             "all-accounts-due",
             "four-million-falling"
           ],
