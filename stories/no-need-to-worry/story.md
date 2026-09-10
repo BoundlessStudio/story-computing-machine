@@ -1,319 +1,335 @@
 ---
 title: "No Need to Worry"
 slug: "no-need-to-worry"
-created: 2026-09-09
-created-at: 2026-09-09T23:01:01-04:00
+created: 2026-09-10
+created-at: 2026-09-10T08:16:50-04:00
 canon: false
 ---
 
 # No Need to Worry
 
-Althea had managed three sentences without saying *we* when Digby sneezed in her earpiece.
+The wedding ring came off with a strip of skin inside it. Dulsie Flett rubbed it clean on the dead man's sock and put it in her handbag. He had insisted on bringing his own rifle. Handloaded ammunition, he'd told her over dinner, as though she would know the difference. He was lying on it now.
 
-She waited for the sound to finish, keeping her eyes on the camera. Behind her, Belltarn Shoal lay pale beneath the water, its long ridges softened by the afternoon swell. The light was exactly what she had wanted. She could forgive almost anything while the light lasted.
+Across the pen, Ogden had the last hunter folded over his knees. His dinner jacket had split down the back. He was eating with his face against the man's open belly, and each time he swallowed something substantial, the bullet holes along his shoulders puckered shut. Dulsie had promised the guests a beast that would heal until one of them earned its head. The two bodies by the gate had stopped moving. Four guests, all accounted for.
 
-"Again, from 'the animal'," she said.
+Dulsie checked her watch. Through the gateway in the dividing wall she could see the outer yard, the floodlights, the firing booth beyond them. A man was moving behind its glass. Norris had finished setting up. She had hired him to operate the lodge's cannon for the after-dinner demonstration, with a private extra fee if the animal proved dangerous. Ogden believed the cannon was a dead exhibit. She had let him complain all afternoon about paying a gunner to pose beside it.
 
-"It's only on the talkback."
+At forty-eight she owned three good dresses and half a business she couldn't put on a tax return. Tonight's cashbox held more money than they had ever taken in one place. With Norris's fee deducted, the rest would still be hers. No more negotiations over expenses with a man who considered a murdered hotel porter an unexpected meal.
 
-"You've made me look concerned."
+Ogden lifted his face. A grey curl from the hunter's chest was caught between his front teeth.
 
-She turned towards the wheelhouse. Digby stood at the remote camera controls with one hand over his nose. Even at this distance she could see that he intended to sneeze again.
+“Come and get this fucking button.” He reached over his shoulder and scratched below it. “It's digging in.”
 
-"When you've finished."
+“Take the jacket off.”
 
-He held up a finger. She looked away until he lowered it.
+“You said we were keeping it.”
 
-This was their last afternoon as a film company. The marriage had ended nine months earlier, but there had been outstanding contracts, shared equipment and a boat too expensive for either of them to buy from the other. After today, she would make the programmes whose working titles began with her own name. Digby could film whatever he liked, at whatever hour he considered reasonable to get out of bed.
+They had paid a tailor for expansion pleats. Ogden had agreed to stop growing when he felt them pull, and once again he had got excited. She put her bag over her shoulder and went behind him. A button on the back vent had caught in the new ridge of flesh along his spine. She picked the thread out with her nail. The smell made her breathe through her mouth.
 
-He had, irritatingly, been up before her that morning, cleaning mineral scale from the cooling-water filters.
+“There,” she said.
 
-"Ready," he said.
+He rolled his shoulders with a grunt of relief. Beneath the torn lining, his skin smoothed itself around the old burn on his back. He always put that scar back. Dulsie had been with him when he'd acquired it, years before his body began doing these things, in a room where the mattress had caught fire. He'd carried her out wrapped in a curtain and then gone back for her purse. She had married somebody else that year. Ogden still enjoyed reminding her how that had turned out.
 
-Althea turned back to the camera on the stern platform. "The animal draws dissolved minerals from the water around it, replacing damaged armour while the wound is still fresh. To the fishermen of Belltarn Shoal, this remarkable ability makes it indestructible. For a naturalist, it means yesterday's identifying scar may be gone by morning."
+Behind them, the hired attendant struck the locked gate with a rifle butt.
 
-She left a pause for the close shot of new shell growing across a crack. They had filmed that in the shallows two days earlier, after two small specimens fought over a fish. The white branching growth had been visible from the deck. No one had needed to poke anything.
+He was a thick, bearded man with a white streak at his chin. He had been collecting the guests' spent cartridges when the screaming began. Now he was putting his whole weight into each blow. The latch held. Ogden sat between him and the pen's only other exit, the dividing gateway. The attendant looked back at Dulsie and stopped hitting the gate.
 
-"Over the coming months," she continued, "I will follow these animals into the deeper water, where the adults spend most of their lives."
+“You've got the key.”
 
-"Cut," Digby said.
+Ogden let the hunter slide off his lap.
 
-It was a good take. She knew from the absence of anything he could object to.
+“Dulsie. The key.” The attendant dropped the rifle and ran towards her, showing his empty hands. “I'm just here for the evening. I haven't seen anything.”
 
-"Camera credit at the front this time," he said.
+She stepped aside. He tried to turn, slipped in the sand and got one knee under him before Ogden caught his belt.
 
-"We agreed the credits."
+“He's staff,” Dulsie said.
 
-"The last one had my name under the distributor's logo. You could see the D."
+Ogden held the man against his chest. His jaw began to lengthen. The attendant clawed at the arm under his ribs, then changed his mind and reached for the little penknife in his waistcoat. He got it open. Dulsie saw him stab Ogden twice in the forearm. The second time, the blade stayed there.
 
-"I'll have that corrected."
+“We agreed about staff.”
 
-"I'd like people to know who I am before they get to the end."
+Ogden bit into the side of the man's head. The man's heels battered the sand; one shoe came off. Dulsie stood with her hand over the lodge insignia on her blouse until the kicking ended. She didn't want to have to clean that as well.
 
-She had once put him on screen demonstrating a hide. He had crawled inside, discovered a nesting goose and backed out with the entire structure on his shoulders. It was the most widely watched minute of anything they had made. He had also designed the hide, built it and spent eleven wet dawns obtaining the behaviour they had gone there for, facts she had pointed out whenever interviewers asked only about the goose.
+“He was going to tell,” Ogden said. The words were thick. His mouth was still arranging itself.
 
-"You said presenting made you feel naked," she reminded him.
+“Then we could have dealt with him afterwards.”
 
-"Being introduced as your husband wasn't presenting."
+He pulled the penknife out and spat a piece of ear beside it. “We're dealing with him now.”
 
-The camera swivelled away from her. He was checking the horizon, which meant she could neither answer on camera nor accuse him of wasting the light.
+Ordinary meat did the same work. They had spent a winter feeding him cheap beef in a rented room, while Dulsie looked for a business more profitable than charging sick people to watch him heal. But beef didn't scramble for a knife. Beef didn't surprise him. She had helped him discover what he liked and taught herself to call it stock.
 
-Their cutter had belonged to the coastal patrol before the stern was converted for filming. Its remaining defensive cannon occupied the foredeck, where Digby had served beside an identical installation years before. The service bill was large, the permission to keep it laborious, and the thing ruined any shot intended to suggest a small, intimate expedition. Althea nevertheless paid her half of the bill. Large animals lived in these waters. She objected to its appearance in promotional photographs, not its presence on the boat.
+“I'll get your change of clothes,” she said.
 
-On the short mast above the wheelhouse, the little panoramic safety camera took in both decks without regard for composition. Its picture and their wireless crew talkback ran continuously to a battery-backed recorder beside the radio. Digby had installed it after a falling light had narrowly missed him. Althea had subsequently discovered that it also recorded people taking her biscuits.
+“The soft trousers. And leave the boot open. I'll bring the money.”
 
-She stepped off the stern platform, unfastening the microphone clipped to her lifejacket strap. Beyond the rail, one of the pale ridges had moved against the swell.
+He had carried the cashbox into the lodge himself after dinner. He liked the weight of it. He'd sleep with it against his shins in the car, then ask her in the morning whether she thought they were rich.
 
-"Hold on."
+Dulsie went through the dividing gateway and crossed the concrete of the outer yard. The cannon protruded from a wide opening in the booth's front, to the left of an observation window. Below the window, a solid brick wall ran across to the door and its three steps. The dividing wall kept the killing pen out of Norris's sight. He pointed at her bloody skirt, then jabbed his finger towards the door.
 
-Digby's hand left the camera controls for the helm. "Where?"
+She climbed the steps. Norris pulled her inside and shut the door behind her. His hands smelled of the orange he'd been eating. There was half of it on the console beside the gun controls.
 
-"Behind us. That long one."
+“What happened?”
 
-A fringe opened along the ridge. Water ran between the plates, and the shoal acquired a row of jointed limbs. The thing that lifted its head beyond their stern was longer than the boat.
+“It got loose.” She bent over, giving herself time to breathe like a frightened woman. “The guests. I couldn't get them out.”
 
-For an instant Althea noticed the mistake with the clean, unpleasant clarity of a bad identification in print. They had come to film the outer nursery. An adult lay where she had marked a ridge on the bottom.
+“Where's the handler?”
 
-"Take us out," she said. "Deep channel, away from the nursery. It's raising its front limbs. That's the threat display I told you about."
+“Dead.”
 
-The engines rose. She abandoned the microphone on the deck and kept her talkback headset on, bracing against the rail as the cutter gathered speed. Their camera swung uselessly towards open water. Behind it, the animal lifted higher, showing a dark mouth beneath the pale overhang of its head.
+“Shit.” He turned back to the glass. “Stay away from that door.”
 
-"It's following," she said.
+Ogden emerged from the gateway carrying the soft trousers. He must have gone into the lodge to look for her. He had put on his own face again, the long nose and heavy cheeks, though the rest of him was still too big for the jacket. There was blood in the folds of the trousers.
 
-"How close?"
+He saw her behind the observation window and raised them in an irritated question.
 
-She could have reached its shell with the long microphone pole. "Very."
+“That's it,” Dulsie said. “Shoot it.”
 
-The first impact took the stern platform off with the camera still attached. Althea saw the expensive black housing turn once in the water. Then the deck kicked up beneath her and she fell against the cabin wall. The engines changed note. Something hammered below her feet and stopped.
+The gun's first burst made her teeth strike together. Her view shook. Ogden's raised arm came off at the shoulder. Flesh struck the dividing wall behind him. He fell on his side and rolled behind a stone trophy plinth. The trousers remained in the yard, tangled with the arm. Neither moved again.
 
-Digby was already calling for help over the radio.
+Norris stopped firing. His chair creaked as he leaned forward. Dulsie caught one glimpse of a wet shoulder drawing skin across itself before Ogden dragged it out of sight. His familiar throat made a sound she had never heard from it.
 
-She got up holding the rail. Her left knee would not quite straighten. Beneath the water, the animal's limbs swept backwards in a steady succession; it was turning for another pass. Its shell was streaked with the blue paint from their hull.
+“You can kill him?” she said.
 
-"Get inside," Digby said through the headset.
+“Yes.” Norris swallowed. “Yes, I can.”
 
-"It's circling."
+“He's still alive.”
 
-"Tell me from inside."
+Norris looked at the red drag mark, then back at her. He tried a smile.
 
-She took the narrow side passage towards the wheelhouse. A handful of shell chips lay beside a crushed lighting stand. Wet, they looked like broken porcelain. She had filmed a woman beating this stuff out of a fishing net while her children played beneath the hanging floats. Althea had thought the shot too domestic to use.
+“No need to worry, I discovered a fatal weakness: 30mm shells, launched at about 1000 m/s. About 4000 per minute should do.”
 
-The cutter tilted, leaving the passage sloping towards the sea.
+She stared at him. The little smile went. He wiped his mouth on his shoulder and returned both hands to the controls.
 
-"I can't get past the light."
+“Keep him in the open,” he said.
 
-Digby came out of the wheelhouse, reached across the obstructing stand and caught her wrist. She tried to step over it, failed, and said, "My knee. Wait."
+Dulsie could barely hear him through the ringing. She pulled the spare ear defenders from their hook and put them on. Norris was already wearing his. They made his face look small.
 
-He waited while she dragged her leg clear. Then they went through the wheelhouse door together, with no dignity at all.
+Beyond the plinth, Ogden's back rose and fell. He didn't have enough spare flesh to make that arm again, not quickly. He had been shot for audiences, stabbed, once run down by a drunken guest who'd panicked behind the wheel. Dulsie had always stayed beside him while he repaired himself. When he asked afterwards how bad it had looked, she told him he ought to charge more.
 
-The radio speaker announced that a rescue launch was twelve minutes away.
+Now the damaged shoulder was still leaking. Norris had done that with a twitch of his hands.
 
-"Will we float that long?" she asked.
+The intercom buzzed. Dulsie felt it more than heard it. She raised one ear cup.
 
-"If it leaves us alone."
+“Dulsie?”
 
-He shut the door. On the panel behind him, an engine-room alarm kept flashing. Through the rear window she could see that water now washed over the place where the filming platform had been. Digby reported the loss of propulsion and the flooding, then sat at the separate console for the foredeck cannon. From that low seat he could see the bow, but very little of the water alongside it. Althea stayed at the side window.
+Ogden had dragged himself to the speaker post behind the plinth. Its red call lamp shone above his remaining hand. The cannon could not reach him there.
 
-The animal broke surface on their left. In the clear water beneath its jaws Althea could see smaller fish scattering.
+“Turn it off,” he said.
 
-"It's coming round the front," she said. "It'll climb."
+Norris looked at her.
 
-"Can it reach the windows?"
+She pressed the button beside the window. “Stay where you are.”
 
-"If it gets its weight aboard."
+“Yes. Obviously. Where have you found this cunt?”
 
-She had watched these animals feed on recordings from cameras left on the bottom. The raised limbs came down to pin prey beneath the shell. Now they touched the bow rail, feeling for purchase, and the deck dipped. Althea backed away from the glass. It could push the bow under without ever reaching the windows.
+Norris's mouth opened. Dulsie held a finger up to him.
 
-The cannon moved on the deck ahead. Digby told her to get down. She crouched behind the wheelhouse wall with her hands over the headset.
+“Ogden, I need you to listen.”
 
-The noise filled the boat. Through her soles she felt a rapid, brutal vibration, then the sharp movement of the hull as the weight came off the bow. When the noise stopped, Digby was saying her name.
+“My arm's out there. Look at it. That's all gone.” His breath grated through the speaker. “Did you tell him it was me?”
 
-"Here," she said. "I'm here."
+“He could see what you were doing.”
 
-"Did it go?"
+“Could he? He could see through the wall?”
 
-She got high enough to look through the side window. A broad patch of armour had broken away. White fragments floated in the wash. The animal had pulled clear and was swimming across the bow, one side dipping lower than the other.
+Norris took one ear cup off. She could feel him looking at her while Ogden breathed. She wanted to slap the button out of the panel.
 
-"It's off us. Still moving."
+“I know you hired him,” Ogden said. “Just tell him to stop. I'll pay him.”
 
-The exposed patch began to whiten. The new mineral lay thin at first, like ice forming from the edges of a puddle. Althea had spent two days worrying that the small, delicate process would not be legible on a television. Now she could watch it from a room full of alarms.
+“She said the handler was dead,” Norris said.
 
-"It's repairing," she said.
+Dulsie's finger was still on the button. Ogden heard him.
 
-"All of it?"
+“I'm her fucking husband, near enough.”
 
-She looked again. The first impulse had been to recognise the familiar branching pattern and stop there. But growth had scarcely crossed the exposed area when it slowed. The animal rolled with its next stroke, struggling to level itself. A plate farther back had closed; the larger break remained open.
+“We aren't married,” she said, and hated herself for wasting the denial on that.
 
-"No. Some. It's slower now."
+Norris pushed her hand away from the intercom.
 
-Digby's breathing came through the talkback, close and uneven. "It's gone out of my view. Keep telling me where it is."
+“You two brought those people here?”
 
-She shifted along the window, following the pale bulk. The boat was drifting broadside to it. Their loose stern rail rose out of the water and fell back with a slap.
+“They paid to shoot him.”
 
-"Turning towards us again," she said. "It's still having trouble swimming."
+“And your attendant? The man who showed me in?”
 
-The pale head came back into view beyond the bow. Digby leaned forward at the console.
+“He wasn't supposed to be involved.”
 
-"Digby. Can you stop it before it reaches us?"
+Norris looked towards the rear door of the booth, which led to the car park. Then he looked at the gun again. He stayed in the chair.
 
-He had the terrible, deliberate calm he used when she asked how bad an equipment failure was just before a shoot. His fingers were shaking.
+“Get my money,” he said.
 
-"No need to worry, I discovered a fatal weakness: 30mm shells, launched at about 1000 m/s. About 4000 per minute should do."
+“You'll have it.”
 
-"Do it."
+“Now.”
 
-She dropped down again. The firing went on longer this time. She could not separate its sound from the movement of the boat, could not tell whether the next blow would be the cannon or the animal coming through the wall. A loose cup jumped across the floor and struck her ankle. She caught it and held on, absurdly, because it was the only thing that had come within reach.
+The speaker hissed. Ogden had pressed his call button again.
 
-Then the firing stopped.
+“Dulsie, come on. I've shit myself.”
 
-Digby said something. She could not hear it. She still had both hands clasped around the cup.
+She shut her eyes. Of course he had. The soft trousers were lying beside the plinth's shadow, and his wet breath was in this small room with her. He could turn the eating face back into the face she knew; he couldn't spare her the rest of him.
 
-He crouched beside her and touched her shoulder. Through the headset, his next words arrived clearly enough.
+“Go and get the box,” she told him through the intercom. “We need to pay Norris.”
 
-"It's stopped moving."
+“You won't shoot?”
 
-They watched together from the window. The animal lay just below the surface, pale and enormous. The swell rolled it without resistance. No fresh white growth crossed the damaged shell. Its open limbs moved only when the water moved them.
+“No.”
 
-Althea waited for a sign she had overlooked. There had always been another movement in the last two days' footage: a feeler extending, a mouthpart at work, the small steady flexing beneath the shell. Now there was none. She had meant to spend months following one of these adults. She could see more of this one than she had ever wanted to.
+“Ask him.”
 
-Digby took the cup from her and put it in the sink.
+She took her hand off the button and looked at Norris. He spoke into it himself.
 
-"We have to get off," he said.
+“Bring the money.”
 
-"Yes."
+“That's not what I asked.”
 
-They spent the remaining wait beside the wheelhouse door, with Digby reporting their condition over the radio. The rescue launch reached them while the floor was still dry. Between its arrival and the moment she stepped across to it, Althea could afterwards remember only pieces: Digby putting the radio down, someone in a yellow jacket taking her elbow, the heavy case from beside the radio passed across after her. She brought her phone and a wet cardigan. Digby brought the recorder and nothing from his cabin.
+Norris hesitated, then said, “I won't fire while you're getting it.”
 
-They sat under the launch's awning while the crew made another circuit of the dead animal and called in its position. Beyond it, their cutter settled stern first. Althea watched the wheelhouse windows reach the water and tried to remember which equipment they had already unloaded ashore. The little camera above the roof was the last familiar thing to disappear.
+Ogden crawled along the foot of the dividing wall and disappeared through the gateway. The lamp stayed on, carrying the scrape of his soles until he passed out of range.
 
-"Today's rushes," she said.
+“How much is in that box?” Norris asked.
 
-Digby nodded.
+“Enough to pay you.”
 
-"Both cameras?"
+He rubbed a thumbnail along a split in the orange peel. “How much?”
 
-"Both."
+She gave him the amount. He stopped touching the peel.
 
-She knew where the second one had been stowed. Asking had not improved its situation.
+“You've done this before,” he said.
 
-The earlier footage was safe in her room ashore, but it ended with a small animal rebuilding a crack. Their last day's work and both principal cameras were gone. Without equipment they could not finish the film and earn the rest of their fee. They would have to explain that the expedition had ended with the subject dead and most of the budget under it.
+“It was under control before.”
 
-Beside her, Digby opened the recorder's case. The little screen came on.
+He waited. She had used that tone on guests with too much drink in them, and it usually made them feel guilty for bothering her. Norris just kept waiting.
 
-At first Althea saw only the cutter from above: foredeck, roof, stern, all bowed by the wide lens. Then her own voice said, "You've made me look concerned."
+“Yes,” she said.
 
-She pressed her lips together. Digby moved the playback forward.
+Ogden limped back with the box clamped under his good arm. His wounded shoulder had tightened into a hard red knob. He had pulled flesh from his cheeks and left calf to cover the damage. His trouser leg flapped around the shrunken calf, and the loose skin beneath his eyes gave him the look of someone recently starved.
 
-The picture contained more than she expected. The animal rose behind her, a ridge becoming an enormous head. She was a small figure on the stern, the camera a smaller one. The boat started away almost as soon as she spoke. Even on this cheap screen, the speed of what followed was appalling.
+He stopped behind the plinth and set the box on its flat top. His head and shoulders were visible now. Norris kept his hands still while Ogden spoke down towards the speaker.
 
-"We did leave promptly," she said.
+“We'll give him his fee. Then split the rest. Take me to the car, Dulsie.”
 
-"Yes."
+She could do that. Norris wanted to leave and would have his money. Ogden couldn't drive while he was like this, so she'd drive, with the box of notes by her feet. At dawn she'd find a shop selling meat and buy enough for him to fill himself out. By the next evening his cheeks would be back and he would be holding a drink in each hand, one for her.
 
-She watched the platform go. Her own fall was partly concealed by the roof. She had thought she had got up immediately; on the screen she remained against the wall for several long seconds.
+She held down the talk button. “I don't want another hunt.”
 
-Digby lowered the volume. Neither of them suggested stopping.
+“All right.”
 
-Their voices described what the camera could not see inside the wheelhouse. Hers identified the animal's approach and its attempt to climb. His asked short questions, gave the radio their position, told her to get down. When the first firing ended, his voice called her name twice.
+“I mean it.”
 
-She had heard only the second time.
+“I said all right. We can stop.”
 
-"You sound frightened," she said.
+He turned the cashbox towards her. She had put sticking plaster around the handle where the metal pinched. His thumb kept finding the edge of the plaster and pressing it back down.
 
-He looked at her until she wished she had phrased that differently.
+“You said you wanted somewhere with a balcony,” he said. “We can afford that now.”
 
-"I was."
+He remembered which side of a bed she liked. He couldn't use a telephone without putting it on speaker, but he remembered her headaches and the pillows that set them off. Looking at him, she felt the sick little tug of having hurt someone who had come to her expecting help. She wanted to rest her head on his chest for a minute, before he started asking her to clean something.
 
-"You sounded very pleased with yourself when you told me about the shells."
+“Did you want him to shoot me?” Ogden asked.
 
-"I was trying to say something you could stand to hear."
+She didn't answer. Norris had stopped watching the yard; he was watching her.
 
-On the screen, the cannon swung while the animal turned. There followed her question, his elaborate assurance and her abrupt permission. The long battering sound flattened the recording, but their voices survived on the separate talkback track.
+“Dulsie. Did you?”
 
-"That's usable," she said, surprised.
+“I wanted it to stop.”
 
-"It won't make a lovely picture."
+“Which bit?”
 
-"No."
+She could hear spit catching in his damaged breathing. With half the money, the balcony would be rented, and he'd be out there in his underwear eating from a packet while she dealt with the neighbours. There would always be his half, his things, his weight on the other side of the bed. She had found the lodge, filled the pen and locked the gate. All he had done was eat.
 
-She took the screen closer. The wide view showed the adult's enormous legs extending under water that, from the deck, had seemed empty. With her commentary, people would be able to follow each stage of its approach. They would also hear her hauling air into her lungs between sentences.
+“I'm coming to the door,” she said. “Bring the box.”
 
-And Digby. Quite a lot of Digby.
+He pulled the box off the plinth and started towards her.
 
-"We could offer them a special," she said.
+Dulsie let go of the talk button and lowered her voice.
 
-"With me left in?"
+“When I've got it inside,” she told Norris. “When I'm clear.”
 
-"The gun would be difficult to explain without you."
+Norris stared at her for a moment. Then he put his ear cup back on and faced the gun.
 
-He closed the case halfway.
+She took off her own ear defenders and opened the door. Ogden stood at the bottom of the steps. His left knee had stiffened at the wrong angle and the trouser leg was black with shit. He lifted the box, stretching his good arm to bring it within her reach. The wrist grew thinner as the hand came up.
 
-"All right," she said. "With you left in."
+“Give me a hand with it.”
 
-Digby copied a short extract to her phone, and she sent it to their commissioning editor, who called before the launch reached harbour. Althea put the phone on speaker because Digby would otherwise spend the entire conversation trying to hear it through her head.
+“Put it on the step.”
 
-The editor asked if they were hurt. Althea said her knee needed looking at but they were safe. He asked about the boat, listened to the answer and was quiet for a moment.
+“Take the weight. It hurts.”
 
-"We can make a programme from this," he said. "An advance would help you replace the equipment. What happens after that?"
+She bent down from the top step and took the handle with her left hand. Her right stayed against the doorframe. He held on until her fingers were properly through, as he always did when he passed her something heavy. Then he let go.
 
-"I have the deep-water proposal," Althea said.
+Dulsie hauled the box over the threshold. It scraped her shin. She pushed it behind her with her heel, into the booth, and turned her head towards Norris.
 
-"I've read it. Would Digby be in it?"
+“Now.”
 
-"He could make a guest appearance."
+Ogden's good hand closed around her right forearm before she could pull it off the frame. His fingers met through the flesh. The crack was small, an insultingly cheap noise for what it did to her. She tried to bring her hand towards her and it hung sideways from his fist.
 
-Digby opened the case again. Without looking at her, he began to wind back through the recording.
+“You were going to leave me out here.”
 
-"We're both here," she told the phone.
+She screamed at him to let go. He dragged her down a step and she struck the frame with her shoulder. His face was so close she could see the chest hair still in his teeth.
 
-"Good. I'd like both of you in the proposal. The animal's extraordinary, but I kept listening for what you'd say to each other."
+Inside the booth the cannon moved. Ogden's eyes went towards the barrels. He let go of her and dropped back into the yard, planting his good leg to launch himself at the gun. She had been hauling backwards against his grip; released, she fell over the box and landed beneath the observation window, behind the brick wall.
 
-Digby stopped winding.
+The firing started while her shoes were still in the doorway.
 
-"We'll discuss it," Althea said.
+She lay with her smashed arm across her stomach. Her blouse filled with blood. Above her, the window shook in its frame. Through the open door she saw a piece of Ogden's flank strike the bottom step and bounce. He made one more sound, a drawn-out vowel that stopped before she could know whether he'd been saying her name.
 
-The editor asked for the complete recording and agreed to call the following morning. Althea was already working out what they could replace with the advance. Cameras first. The boat would have to wait for the insurers.
+Norris kept firing. The ceiling light went out. Dust sifted onto her face and into her open mouth. She had both feet inside now and could not remember moving them. There was no longer any separate report from the gun, only a pressure that got inside her and made her damaged arm jerk against her stomach.
 
-"Shared billing," he said.
+When it stopped, she was still screaming. She could feel it in her throat, though she couldn't hear herself.
 
-"You're already getting a credit at the front."
+Norris came to the door. His trouser cuffs brushed her shoes. He stood there for a long time, looking down into the yard.
 
-"Both names. Same size."
+“Is he dead?” she said.
 
-She studied him. His trousers were wet to the waist, and he had tied one sleeve of his jacket round a torn cuff to keep it from catching. She had spent years choosing a frame that excluded him. It would be interesting, and probably infuriating, to see what happened when he could look back out of it.
+He didn't turn. She kicked his ankle with her good shoe.
 
-"You will have to do retakes," she said.
+“Is he dead?”
 
-"When I get something wrong."
+He looked at her mouth, then out again. “Yes.”
 
-"When the light changes. When a gull goes past your head."
+She waited for the call lamp to light. It stayed dark. Below the steps lay part of his face, flattened through one eye. The rest of him was spread across the concrete in separate heaps. None of it moved. His lost arm lay where it had fallen, cooling among the ruined trousers.
 
-"You left the goose in."
+Norris knelt beside her. She tried to give him instructions, but he was already pulling the booth's first-aid bag open. He packed something against her arm and held it there. The pain changed. She vomited down her blouse, and he turned his face away without moving his hand.
 
-She considered this. "The goose was useful."
+“Hospital,” she said.
 
-"So was I."
+He nodded. For several seconds she loved him with a helpless, furious intensity. Then he shifted her left hand onto the dressing and got up to take the cashbox.
 
-"I told people that."
+“Your fee,” she said. “Take your fee.”
 
-"Tell them at the beginning this time."
+He opened it on the chair. The notes were in the neat bundles she'd counted after dinner. He lifted one, felt beneath it and put it back. Then he closed the lid.
 
-The launch slowed for harbour. Althea could see waiting figures on the quay, one of them carrying a medical bag. Her knee had swollen against the seam of her trousers. She should call their insurers; she should find someone to drive them to their separate lodgings. Instead she picked up her phone and opened the deep-water proposal.
+“The rest is mine.”
 
-She added Digby's name beneath hers and turned the screen towards him.
+Norris bent to pick up his coat. She tried to stand, got as far as one knee, and fell against the wall. Her arm had become something she had to carry, and she couldn't carry it and herself.
 
-He leaned closer. "Same line."
+“Don't fucking leave me.”
 
-Althea put both names on one line. His ran off the edge, so she reduced the lettering until it fitted.
+He stopped at the rear door. “Car keys.”
 
-"There."
+She pressed her left elbow against the dressing and worked her handbag open. The rings rattled in the bottom. Norris took the keys out of her fingers.
 
-He read it, looked at her, and smiled for the first time since they had come aboard.
+“And the bag.”
 
-"Alphabetical," he said. "Very convenient."
+She held it against her chest. He waited. The dressing was getting slippery beneath her elbow. At last she gave him the bag as well.
 
-"You can go first in the one about geese."
+“You can get more of those people?” he said.
 
-"I want that in writing."
+For a moment she couldn't connect the question to anything. He bent closer and repeated it. She understood then: the introductions, the invitation lists, the cash. Ogden was dead, and Norris was looking at the part of the business still alive on the floor.
 
-She started a second proposal before he could suggest putting her in the hide.
+“I need a doctor.”
+
+“I know. Can you?”
+
+She nodded. He reached under her good arm and pulled her up.
+
+They went out through the rear door. The car was where she'd left it, nose towards the drive. Norris put the box behind the driver's seat and lowered her into the passenger side. Her skirt caught on the seat runner. He tore it free without asking, and the movement sent her arm knocking against the door. She folded over it, making noises she would never have made with a customer present.
+
+He got in beside her. She tried to tell him where the nearest hospital was. He held up a hand while he adjusted the seat. He was shorter than Ogden.
+
+“You get people here again,” he said, loud enough for her to hear. “We don't need him.”
+
+There was blood running between her thighs onto the upholstery. He thought she could simply find another four rich men to walk in front of his gun. She had spent years filling tonight's pen. But he hadn't started the car, and the dressing was soaked through.
+
+“Yes,” she said.
+
+Norris turned the key. At the first bend the cashbox slid across the floor, and Dulsie reached back to stop it with the hand that no longer worked.

@@ -6,14 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Althea | new | Adult naturalist and presenter; Digby's former wife and business partner. No confusing prior identity. |
-| Digby | new | Adult captain and cameraman with coastal-patrol experience; Althea's former husband. No confusing prior identity. |
+| Dulsie Flett | new | Also Dulsie; adult promoter and Ogden's longtime accomplice. Targeted baseline, passing-review, and authority searches found no confusing reuse. |
+| Ogden | new | Adult living flesh-changer and Dulsie's partner; no established identity or system recurs. No exact, alias, close-spelling, or semantic collision found. |
+| Norris | new | Adult hired gunner; distinct from legacy Nora / Green Coat in sound, identity, and role. No confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Belltarn Shoal | new | Coastal filming site and animal nursery; no established geographic connection. Distinct from the unrelated person `Ambel Tarn`. |
+| None | none | The lodge, pen, outer yard, firing booth, car park, and other locations remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The goose callback closes a concrete billing dispute. Their renewed professional partnership preserves the divorce, material losses, and competitive pleasure.
+- Notes: PreReview PASS supplied. The required boast, consequential adult violence, and definitive kill fulfill the prompt. The intercom disclosure and final coerced assent preserve speaker knowledge and listener uptake. The required six-story comparison found no materially interchangeable relationship action or ending; Dulsie's injured-hand reflex completes her loss of control.
