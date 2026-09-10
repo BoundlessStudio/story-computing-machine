@@ -117,6 +117,24 @@
           }
         },
         {
+          "id": "event-what-the-wind-wanted",
+          "title": "What the Wind Wanted",
+          "magicState": "old-magic",
+          "description": "Universal comprehension leads Zerune from a coastal market to the courtship of two living winds.",
+          "context": [
+            "Zerune gains comprehension of unfamiliar speech, writing and signing in an undated coastal society with markets, orchards and a pedestrian tunnel through a mountain spur. A living breeze asks her to carry it through the cold passage in her held breath. Its dependence on warmth and a coherent turn is a local capacity, not a property of all wind.",
+            "Beyond the tunnel, a basin current answers the breeze and the two begin moving and speaking together. Zerune witnesses their changing communication without discovering the origin of her gift or a general account of wind life. Neither their meeting nor the nearby drowned temples establish ties to another recorded place or event."
+          ],
+          "sequenceNote": "Proposed in the older inhabited world before the extinction of old magic. This independent afternoon has no established order relative to neighboring stories; its selected slot is editorial reconstruction, not a measured Galactic Cycle date.",
+          "stories": [
+            "what-the-wind-wanted"
+          ],
+          "window": {
+            "start": 17.0,
+            "end": 18.2
+          }
+        },
+        {
           "id": "event-save-that-dragon",
           "title": "One Night's Mercy",
           "magicState": "old-magic",
@@ -3832,6 +3850,13 @@
       },
       "note": "Established chronology places Ryo's material home frame before extinction. Its selected position immediately before Nell's home remains proposed and does not date his assignments. Both stories depart from a familiar life into histories their travelers cannot date. Nine years for Eiren and considerably more for Ryo do not determine elapsed time at home; the storm society and other destinations stay unplaced relative to the material sequence."
     },
+    "what-the-wind-wanted": {
+      "window": {
+        "start": 17.0,
+        "end": 18.2
+      },
+      "note": "A single afternoon from market discovery through the mountain passage to the winds' meeting. The old-magic placement is proposed; no exact date or relationship to another story is established."
+    },
     "the-spiders-hunger": {
       "window": {
         "start": 23.5,
@@ -5902,6 +5927,7 @@
     "the-one-who-gets-tired": "undated",
     "the-station-between": "undated",
     "roads-under-impossible-stars": "undated",
+    "what-the-wind-wanted": "contextual",
     "the-spiders-hunger": "undated"
   },
   "connections": [

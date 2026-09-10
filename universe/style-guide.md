@@ -221,6 +221,32 @@
     not impose tragedy, unresolved conflict, awkward speech, novelty quotas, or
     a predetermined distribution of endings.
 
+## No default water infrastructure
+
+- Status: CANON
+- Summary: Do not introduce water infrastructure as a default source of plot,
+  stakes, occupations, expertise, metaphor, or incidental worldbuilding.
+- First established: explicit user decision, 2026-09-09
+- Aliases: No hydraulic default
+- Notes:
+  - This restriction includes drainage, marsh reclamation, irrigation, sewers,
+    reservoirs, aqueducts, canals, sluices, flood-control works, water-supply
+    networks, and their construction, repair, operation, or administration.
+    A passing reference, book subject, background profession, or piece of local
+    history counts; do not smuggle the default back in as minor texture.
+  - Use these subjects only when the user's actual request calls for them or
+    an explicitly requested continuation requires a specific established fact.
+    A waterside setting, a fantasy society, a practical character, or a need
+    for concrete detail is not sufficient reason.
+  - Choose material detail from this prompt's particular interests, actions,
+    relationships, and speculative promise. Do not replace the water default
+    with another routine public-works or maintenance problem.
+  - Ordinary water, weather, rivers, seas, ponds, and drinking remain available
+    when they belong to the story; this rule concerns infrastructure defaults.
+  - Apply prospectively to new drafting and authorized revisions. This policy
+    does not itself authorize reopening completed stories or alter established
+    universe facts.
+
 ## Tonal range, scale, and connection
 
 - Status: CANON
