@@ -1510,6 +1510,7 @@
             "the-names-on-the-cups",
             "the-other-twin",
             "empire-within",
+            "the-old-percentage",
             "the-station-between"
           ],
           "window": {
@@ -3932,6 +3933,13 @@
       },
       "note": "An independent old magic-active modernity is proposed before terminal extinction. Three years of accounting appointments and a recent hotel rescue precede the main evening. Cyril's earlier intervention in an unnamed conflict is recalled without a date. The compound rescue and office confrontation establish no shared geography, institution or power system with neighboring histories."
     },
+    "the-old-percentage": {
+      "window": {
+        "start": 2.3,
+        "end": 28.44
+      },
+      "note": "Elspeth returns to the same unnamed city after almost sixty years in prison. Her return follows Nobody Spends Her Name within a later technological modernity; its local interval does not establish an absolute year or date the surrounding stories."
+    },
     "i-really-need-a-sidekick": {
       "window": {
         "start": 31.98,
@@ -5073,6 +5081,12 @@
       "Years of shared living and swindles precede the hunt; Ogden's bodily power begins after the fire he survived with Dulsie.",
       "During one evening, the rigged hunt gives way to Dulsie's planned betrayal and Norris's discovery of the partnership.",
       "Ogden dies in the yard. The story ends during Dulsie and Norris's departure, before any hospital arrival or future hunt."
+    ],
+    "the-old-percentage": [
+      "Captured nineteen days after the defeated coup, Elspeth serves fifty-nine years before Shona helps her escape during outside medical care",
+      "A recruitment supper leads to a private gangland performance that Elspeth mistakes for a protection collection",
+      "Shona kills the guard; Elspeth demands continuing tribute while Corbin stays with his recording and witnesses summon help",
+      "A week later, money from Dacre and a recruited loan collector begin a new criminal foothold under active pursuit"
     ]
   },
   "storySpans": {
@@ -5850,6 +5864,11 @@
       "start": "A swollen protector on the day before departure",
       "end": "Escape from the inn at first light",
       "note": "Ivrine has kept her spider for eight years and returned home three weeks before departure; the burial was nine days before the shop visit. The investigation unfolds over one day, followed by a guarded night and a departure before dawn. Her familiar spider starts hunting again, while the loan spider remains active. Her future lodging and any later contact with Pelset remain unshown."
+    },
+    "the-old-percentage": {
+      "start": "Capture nineteen days after the coup, then fifty-nine years in prison",
+      "end": "The seventh evening after the violent collection",
+      "note": "The recruitment supper falls on the evening after her escape; the collection follows the next night. The following week brings hiding, lasting hand damage, public evidence, and a first continuing payment. Elspeth is eighty-two; no absolute year is given."
     }
   },
   "storyEvidence": {
@@ -6011,6 +6030,7 @@
     "the-spiders-hunger": "undated",
     "no-need-to-worry": "undated",
     "undisclosed": "undated",
+    "the-old-percentage": "contextual",
     "i-really-need-a-sidekick": "undated"
   },
   "connections": [
@@ -6813,6 +6833,16 @@
       "note": "Proposed overlap: the caravan's permits, load plans, provisions and negotiated pay sustain animal freight, while Kaith's city combines a licensed manual cab with autonomous traffic and a ferry onto unevenly served roads. Different transport arrangements can occupy a common material period. Each journey shows practical limits on movement and authority; no actual road, supplier, government, transmission of technology or mutual date links the stories.",
       "ordering": "none",
       "basis": "proposed"
+    },
+    {
+      "id": "elspeth-after-imprisonment",
+      "from": "empire-within",
+      "to": "the-old-percentage",
+      "kind": "direct",
+      "label": "Elspeth returns after almost sixty years",
+      "note": "Elspeth's capture and long imprisonment follow the defeated coup in Nobody Spends Her Name. Her return belongs to the future of the earlier story's already modern city, where her reputation and criminal methods have acquired unfamiliar meanings.",
+      "ordering": "before",
+      "basis": "reading-sequence"
     }
   ],
   "historyThreads": [
