@@ -5,7 +5,7 @@
       "id": "cycle-01-older-inhabited-world",
       "title": "The Older Inhabited World",
       "eyebrow": "Earlier powers, practiced institutions, and the generations before Nell.",
-      "description": "The chosen older sequence contains territorial powers and long-lived local obligations, public offices, household economies and established teaching. Municipal assessment, field-care training and rural maintenance now occupy one proposed overlapping period: Candlemere's intake already spans village rooms, barges, noble kitchens and mining camps, while Lanternscrape combines living favors with existing crafts and supplies. Their named institutions and exact regional connections remain distinct. Isolated practitioners and privately retained workings lead into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; Ravel keeps its unresolved place.",
+      "description": "The chosen older sequence contains territorial powers and long-lived local obligations, public offices, household economies and established teaching. Nemea's water protection, Hadrik's reservoir repair and the rooster's road service now share a proposed period of established settlements and regional military activity; their distinct capacities give no sequence of invention. Municipal assessment, field-care training and rural maintenance occupy another proposed overlapping period: Candlemere's intake already spans village rooms, barges, noble kitchens and mining camps, while Lanternscrape combines living favors with existing crafts and supplies. These settings establish no common polity or exact regional connections. Isolated practitioners and privately retained workings lead into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; Ravel keeps its unresolved place.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -158,16 +158,16 @@
           "magicState": "old-magic",
           "description": "Earlier training and the spring's summer failure → A shared account after one night's fight.",
           "context": [
-            "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. The proposed older active-magical position is retained; this local institution neither founds public heroism nor dates another city's powers.",
+            "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. Its proposed older period may overlap Hadrik's reservoir repair and the rooster's road protection. Established settlements, water works, practiced crafts and regional military activity coexist in this reconstruction; the stories establish no shared polity or succession between them.",
             "Two previous disruptions of the water carriers precede the lion's early arrival on the witnessed night. The seven lights are spent within this one encounter. Kletho's interrupted count does not measure the final hold reliably; after the magic expires, Myrine continues by ordinary strength. The council's response to their account remains ahead."
           ],
-          "sequenceNote": "Proposed after The Unfinished Sunset and before The Last Thing I Could Fix. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "Selected within one proposed older period for Nemea's water protection, Hadrik's reservoir repair and the rooster's road service. The three may overlap; their mutual order and regional connections remain unknown. The Unfinished Sunset and the municipal, college and village histories retain their selected positions on either side. This window is neither a measured duration nor a shared calendar.",
           "stories": [
             "the-lions-last-constellation"
           ],
           "window": {
             "start": 27.06,
-            "end": 28.18
+            "end": 34.89
           }
         },
         {
@@ -176,16 +176,16 @@
           "magicState": "old-magic",
           "description": "An established repair trade and a failed first gate attempt → A revised sign next morning and changed later work.",
           "context": [
-            "Traveling clients sustain Hadrik's established magical repair trade, while court expectations place dangerous work on Aven and neglected reservoir fittings still need maintenance. The old harness was intended to recruit willing protectors; a split assent rivet makes protective reflexes sufficient. Aven refuses both that failure risk and an automatic heroic obligation. This selected older active era concerns an existing craft and civic setting; it does not establish the invention of protective magic or a common court with neighboring stories.",
+            "Traveling clients sustain Hadrik's established magical repair trade, while court expectations place dangerous work on Aven and neglected reservoir fittings still need maintenance. The old harness was intended to recruit willing protectors; a split assent rivet makes protective reflexes sufficient. Aven refuses both that failure risk and an automatic heroic obligation. Its proposed older period may overlap Nemea's water protection and the rooster's road service. An existing workshop and working reservoir supply this context; the harness does not mark a later stage of magic than Myrine's lights or an origin for the bird's armor.",
             "The promise of a two-hour conventional repair is rejected in favor of a redesign. Its three hard uses are the padded test, Hadrik's catwalk rescue and the gate hold; light consent testing spends no further rivet. The harness is exhausted, both workers are injured, and Aven requests ordinary mail and a crew. Hadrik changes his sign the following morning and describes a continuing change in his trade."
           ],
-          "sequenceNote": "Proposed after The Lion's Last Constellation and before The First Call. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Selected within one proposed older period for Nemea's water protection, Hadrik's reservoir repair and the rooster's road service. The three may overlap; their mutual order and regional connections remain unknown. The Unfinished Sunset and the municipal, college and village histories retain their selected positions on either side. This window is neither a measured duration nor a shared calendar.",
           "stories": [
             "the-last-thing-i-could-fix"
           ],
           "window": {
-            "start": 31.54,
-            "end": 32.65
+            "start": 27.06,
+            "end": 34.89
           }
         },
         {
@@ -194,15 +194,15 @@
           "magicState": "old-magic",
           "description": "An armorer first meets the rooster → A shared retreat seven years later.",
           "context": [
-            "Seven years of repairs let an army armorer misread an independent road protector as her side's mascot. The final rescue exposes that mistake. The bird's maker, training and original mission remain unknown; its dawn-bound growth is one capacity, not an army-wide capability.",
+            "Seven years of repairs let an army armorer misread an independent road protector as her side's mascot. The final rescue exposes that mistake. Armor fitting and recruit training support the army, while contested roads carry soldiers and civilians. Its proposed older period may overlap Nemea's water protection and Hadrik's reservoir repair; no change of government or capability orders those histories. The bird's maker, training and original mission remain unknown, and its dawn-bound growth is one capacity, not an army-wide capability.",
             "The seven-year repair history is explicit. It dates neither the armor's construction nor the beginning of the bird's independent mission."
           ],
-          "sequenceNote": "Proposed after The Last Thing I Could Fix and before The Fourth House. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Selected within one proposed older period for Nemea's water protection, Hadrik's reservoir repair and the rooster's road service. The three may overlap; their mutual order and regional connections remain unknown. The Unfinished Sunset and the municipal, college and village histories retain their selected positions on either side. This window is neither a measured duration nor a shared calendar.",
           "stories": [
             "never-a-mascot"
           ],
           "window": {
-            "start": 33.77,
+            "start": 27.06,
             "end": 34.89
           }
         },
@@ -2795,16 +2795,16 @@
     "the-lions-last-constellation": {
       "window": {
         "start": 27.06,
-        "end": 28.18
+        "end": 34.89
       },
-      "note": "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. The proposed older active-magical position is retained; this local institution neither founds public heroism nor dates another city's powers."
+      "note": "Nemea already has a council, training courses, terraces and water-carrier work when a summer spring failure makes one remaining channel critical. The council's witness rule governs credit for Myrine's seven-light deed, while the lion exploits the terrain and the pair's separation. Its proposed older period may overlap Hadrik's reservoir repair and the rooster's road protection. Established settlements, water works, practiced crafts and regional military activity coexist in this reconstruction; the stories establish no shared polity or succession between them."
     },
     "never-a-mascot": {
       "window": {
-        "start": 33.77,
+        "start": 27.06,
         "end": 34.89
       },
-      "note": "Seven years of repairs let an army armorer misread an independent road protector as her side's mascot. The final rescue exposes that mistake. The bird's maker, training and original mission remain unknown; its dawn-bound growth is one capacity, not an army-wide capability."
+      "note": "Seven years of repairs let an army armorer misread an independent road protector as her side's mascot. The final rescue exposes that mistake. Armor fitting and recruit training support the army, while contested roads carry soldiers and civilians. Its proposed older period may overlap Nemea's water protection and Hadrik's reservoir repair; no change of government or capability orders those histories. The bird's maker, training and original mission remain unknown, and its dawn-bound growth is one capacity, not an army-wide capability."
     },
     "when-the-eagle-bowed": {
       "window": {
@@ -2885,10 +2885,10 @@
     },
     "the-last-thing-i-could-fix": {
       "window": {
-        "start": 31.54,
-        "end": 32.65
+        "start": 27.06,
+        "end": 34.89
       },
-      "note": "Traveling clients sustain Hadrik's established magical repair trade, while court expectations place dangerous work on Aven and neglected reservoir fittings still need maintenance. The old harness was intended to recruit willing protectors; a split assent rivet makes protective reflexes sufficient. Aven refuses both that failure risk and an automatic heroic obligation. This selected older active era concerns an existing craft and civic setting; it does not establish the invention of protective magic or a common court with neighboring stories."
+      "note": "Traveling clients sustain Hadrik's established magical repair trade, while court expectations place dangerous work on Aven and neglected reservoir fittings still need maintenance. The old harness was intended to recruit willing protectors; a split assent rivet makes protective reflexes sufficient. Aven refuses both that failure risk and an automatic heroic obligation. Its proposed older period may overlap Nemea's water protection and the rooster's road service. An existing workshop and working reservoir supply this context; the harness does not mark a later stage of magic than Myrine's lights or an origin for the bird's armor."
     },
     "where-it-hurts": {
       "window": {
@@ -6843,11 +6843,11 @@
         {
           "cycleId": "cycle-01-older-inhabited-world",
           "title": "Public powers acquire competing duties",
-          "note": "Village work, recognized crafts and public heroism give capacities different social roles. Councils may suppress a partner's contribution; a court's protective armor may transfer danger; private practice may produce a freely chosen rescue. These older public forms precede the proposed low-magic trough and the later public sky without establishing a single institutional lineage.",
+          "note": "Nemea's training terraces and water carriers, Hadrik's workshop and reservoir, and an army's armory and wagon roads already function before their crises. The proposed older period lets these settings overlap; no source makes them successive stages of public heroism. Their distinct living capacities still depend on bodily care, materials and cooperation. Municipal faculties and freely chosen rescues supply other public roles in this cycle, before the proposed low-magic trough and later public sky.",
           "anchors": [
-            "fourth-house",
             "the-lions-last-constellation",
-            "the-thousandth-fall"
+            "the-last-thing-i-could-fix",
+            "never-a-mascot"
           ],
           "kind": "proposed"
         },
