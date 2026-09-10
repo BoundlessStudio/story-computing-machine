@@ -11,6 +11,7 @@ import unittest
 from collections import Counter
 from dataclasses import replace
 from pathlib import Path
+from unittest.mock import patch
 
 from PIL import Image
 
@@ -1490,7 +1491,9 @@ class StorySystemTests(unittest.TestCase):
                          'data-era-stop', 'reading cycle'):
             self.assertNotIn(obsolete, rendered)
         self.assertEqual(1, rendered.count('class="worldline" id="atlas-explore"'))
-        self.assertEqual(1, rendered.count('aria-label="The great ages"'))
+        self.assertNotIn('aria-label="The great ages"', rendered)
+        self.assertEqual(1, rendered.count('aria-label="Historical lens"'))
+        self.assertEqual(1, rendered.count('data-cycle-picker'))
         rendered_order = re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"', rendered)
         self.assertEqual([slug for cycle in timeline.cycles for slug in cycle.stories], rendered_order)
         articles = dict(re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"[^>]*>(.*?)</article>', rendered, re.S))
@@ -1668,6 +1671,111 @@ class StorySystemTests(unittest.TestCase):
         for cycle in timeline.cycles:
             self.assertIn(f'href="#cycle-{cycle.id}"', rendered)
             self.assertIn(f'<p class="cycle-history">{html.escape(cycle.description, quote=True)}</p>', rendered)
+
+    def test_atlas_lenses_share_cycles_without_recategorizing_story_placements(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        rendered = build.render_timeline(catalog, timeline)
+        lens_ids = ["all", *(thread.id for thread in timeline.history_threads)]
+        cycle_ids = [cycle.id for cycle in timeline.cycles]
+        cycles = {cycle.id: cycle for cycle in timeline.cycles}
+        ordered_stories = [slug for cycle in timeline.cycles for slug in cycle.stories]
+        stages = {(thread.id, stage.cycle_id): stage
+                  for thread in timeline.history_threads for stage in thread.stages}
+
+        def map_views(document):
+            return dict(re.findall(
+                r'<div class="map-view [^"]*"[^>]*data-lens-view="([^"]+)"[^>]*>(.*?)</div>',
+                document, re.S))
+
+        def desk_accounts(document):
+            result = {}
+            for attributes, body in re.findall(
+                    r'<article class="desk-account"([^>]*)>(.*?)</article>', document, re.S):
+                lens = re.search(r'data-account-lens="([^"]+)"', attributes).group(1)
+                cycle = re.search(r'data-account-cycle="([^"]+)"', attributes).group(1)
+                self.assertNotIn((lens, cycle), result)
+                result[lens, cycle] = (attributes, body)
+            return result
+
+        views = map_views(rendered)
+        self.assertEqual(len(lens_ids), rendered.count('data-lens-view='))
+        self.assertEqual(lens_ids, list(views))
+        self.assertEqual(ordered_stories, re.findall(r'data-map-story="([^"]+)"', views["all"]))
+        for lens, view in views.items():
+            with self.subTest(lens=lens):
+                self.assertEqual(cycle_ids, re.findall(r'data-map-cycle="([^"]+)"', view))
+                if lens != "all":
+                    expected = [slug for cycle_id in cycle_ids if (lens, cycle_id) in stages
+                                for slug in stages[lens, cycle_id].anchors]
+                    self.assertEqual(expected, re.findall(r'data-map-story="([^"]+)"', view))
+
+        accounts = desk_accounts(rendered)
+        self.assertEqual({(lens, cycle) for lens in lens_ids for cycle in cycle_ids}, set(accounts))
+        visible = [key for key, (attributes, _) in accounts.items()
+                   if not re.search(r'(?:^|\s)hidden(?:\s|$)', attributes)]
+        self.assertEqual([("all", cycle_ids[0])], visible)
+        for (lens, cycle_id), (_, body) in accounts.items():
+            with self.subTest(account=(lens, cycle_id)):
+                anchors = re.findall(r'href="#story-([^"]+)"', body)
+                self.assertTrue(set(anchors) <= set(cycles[cycle_id].stories))
+                if lens != "all":
+                    stage = stages.get((lens, cycle_id))
+                    self.assertEqual(list(stage.anchors) if stage else [], anchors)
+                    if stage:
+                        self.assertIn(html.escape(stage.note, quote=True), body)
+                self.assertIn(f'href="#cycle-{cycle_id}"', body)
+                self.assertIn(f'Explore all {len(cycles[cycle_id].stories)} stories in this cycle', body)
+        self.assertIn('selected accounts, not exhaustive categories', rendered)
+        self.assertNotIn('data-phase-link', rendered)
+        self.assertNotIn('href="#phase-', rendered)
+        self.assertEqual(ordered_stories, re.findall(r'data-story-slug="([^"]+)"', rendered))
+
+        thread = timeline.history_threads[0]
+        removed_stage = thread.stages[0]
+        changed = replace(thread, stages=thread.stages[1:])
+        with_gap = build.render_timeline(catalog, replace(
+            timeline, history_threads=(changed, *timeline.history_threads[1:])))
+        gap_view = map_views(with_gap)[thread.id]
+        self.assertEqual([slug for stage in changed.stages for slug in stage.anchors],
+                         re.findall(r'data-map-story="([^"]+)"', gap_view))
+        _, gap_account = desk_accounts(with_gap)[thread.id, removed_stage.cycle_id]
+        self.assertIn('No account selected', gap_account)
+        self.assertEqual([], re.findall(r'href="#story-([^"]+)"', gap_account))
+        self.assertEqual(ordered_stories, re.findall(r'data-story-slug="([^"]+)"', with_gap))
+
+    def test_cycle_icons_stay_with_their_cycles_across_history_lenses(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        rendered = build.render_timeline(catalog, timeline)
+        expected_icons = {cycle.id: f"cycle-icons/{cycle.id}.png" for cycle in timeline.cycles}
+        lens_ids = ["all", *(thread.id for thread in timeline.history_threads)]
+        views = re.findall(
+            r'<div class="map-view [^"]*"[^>]*data-lens-view="([^"]+)"[^>]*>(.*?)</div>',
+            rendered, re.S)
+        self.assertEqual(lens_ids, [lens for lens, _ in views])
+        for lens, view in views:
+            map_cycles = re.findall(
+                r'<a class="map-cycle"[^>]*data-map-cycle="([^"]+)"[^>]*>(.*?)</a>',
+                view, re.S)
+            self.assertEqual(list(expected_icons), [cycle for cycle, _ in map_cycles])
+            for cycle, body in map_cycles:
+                with self.subTest(lens=lens, cycle=cycle, illustration="map"):
+                    window = re.search(r'<span class="map-window"[^>]*>(.*?)</span>', body, re.S)
+                    self.assertIsNotNone(window)
+                    self.assertEqual([expected_icons[cycle]],
+                                     re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', window.group(1)))
+
+        accounts = re.findall(r'<article class="desk-account"([^>]*)>(.*?)</article>', rendered, re.S)
+        self.assertEqual(len(lens_ids) * len(expected_icons), len(accounts))
+        for attributes, body in accounts:
+            lens = re.search(r'data-account-lens="([^"]+)"', attributes).group(1)
+            cycle = re.search(r'data-account-cycle="([^"]+)"', attributes).group(1)
+            with self.subTest(lens=lens, cycle=cycle, illustration="desk"):
+                illustration = re.search(r'<div class="desk-illustration"[^>]*>(.*?)</div>', body, re.S)
+                self.assertIsNotNone(illustration)
+                self.assertEqual([expected_icons[cycle]],
+                                 re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', illustration.group(1)))
 
     def test_history_current_cannot_cite_a_story_in_the_wrong_orbit(self):
         catalog = build.load_catalog()
@@ -1872,6 +1980,13 @@ class StorySystemTests(unittest.TestCase):
             hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
             self.assertTrue(hero_art.is_file())
             self.assertEqual(build.WORLDLINE_HERO_ART_PATH.read_bytes(), hero_art.read_bytes())
+            timeline = build.load_timeline(catalog)
+            icon_names = {f"{cycle.id}.png" for cycle in timeline.cycles}
+            self.assertEqual(icon_names, {path.name for path in (output / "cycle-icons").iterdir()})
+            for name in icon_names:
+                self.assertEqual((build.CYCLE_ICONS_PATH / name).read_bytes(),
+                                 (output / "cycle-icons" / name).read_bytes())
+            self.assertFalse((output / "cycle-icons" / "prompts.json").exists())
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
@@ -1889,6 +2004,23 @@ class StorySystemTests(unittest.TestCase):
             timeline_page = (output / "timeline.html").read_text(encoding="utf-8")
             self.assertNotIn("data-timeline-filter", timeline_page)
             self.assertNotIn("data-timeline-search", timeline_page)
+
+    def test_missing_cycle_icons_stop_build_before_replacing_output(self):
+        timeline = build.load_timeline(build.load_catalog())
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary) / "site"
+            output.mkdir()
+            previous = output / "previous-build.html"
+            previous.write_text("Keep the existing site", encoding="utf-8")
+            icons = Path(temporary) / "missing-icons"
+            icons.mkdir()
+            with patch.object(build, "CYCLE_ICONS_PATH", icons):
+                with self.assertRaisesRegex(ValueError, "Missing cycle icon assets") as failure:
+                    build.build(output)
+            for cycle in timeline.cycles:
+                self.assertIn(f"{cycle.id}.png", str(failure.exception))
+            self.assertEqual("Keep the existing site", previous.read_text(encoding="utf-8"))
+            self.assertEqual([previous], list(output.iterdir()))
 
     def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]

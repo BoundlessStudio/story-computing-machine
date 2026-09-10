@@ -31,6 +31,7 @@ THEME_SCRIPT_PATH = Path(__file__).with_name("theme.js")
 TIMELINE_PATH = Path(__file__).with_name("timeline.json")
 TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
 WORLDLINE_HERO_ART_PATH = Path(__file__).with_name("worldline-hero-art.webp")
+CYCLE_ICONS_PATH = Path(__file__).with_name("cycle-icons")
 TITLE_IMAGE_NAME = "title-image.jpg"
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -1223,9 +1224,16 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
 def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = load_catalog(snapshot_path)
     timeline = load_timeline(catalog)
+    cycle_icons = [CYCLE_ICONS_PATH / f"{cycle.id}.png" for cycle in timeline.cycles]
+    missing_icons = [icon.name for icon in cycle_icons if not icon.is_file()]
+    if missing_icons:
+        raise ValueError(f"Missing cycle icon assets: {', '.join(missing_icons)}")
     destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
+    (destination / "cycle-icons").mkdir()
+    for icon in cycle_icons:
+        shutil.copy2(icon, destination / "cycle-icons" / icon.name)
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
     shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")

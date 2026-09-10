@@ -1,4 +1,4 @@
-"""A single worldline, with context and evidence opened on demand."""
+"""A layered atlas of one world, with its chronology and evidence intact."""
 from __future__ import annotations
 import html
 
@@ -9,64 +9,91 @@ EVIDENCE = {"boundary": "Worldline boundary", "constrained": "Established constr
 LINK_LABELS = {"direct": "Direct connection", "historical": "Historical hypothesis", "echo": "Thematic echo"}
 BASIS_LABELS = {"established": "Established chronology", "reading-sequence": "Supplied reading sequence",
                 "proposed": "Proposed historical interpretation", "thematic": "A parallel, not a date"}
-PHASE_COPY = {"old-magic": "Civilizations built upon civilizations.",
-              "long-dark": "Magic is absent. The world keeps making history.",
-              "new-magic": "New workings enter an already ancient world."}
 STAGE_LABELS = {"established": "Story anchor", "proposed": "Reconstruction",
                 "recurrence": "A later recurrence", "absence": "An absence matters"}
-SHORT_STATES = {**STATE_LABELS, "long-dark": "Zero"}
 
 def esc(value):
     return html.escape(str(value), quote=True)
 
 
-def render_braid(timeline, stories):
-    """Recurring histories, not a quantified chart or a genealogy of powers."""
-    cycle_headers = ''.join(
-        f'<a class="braid-cycle state-{cycle.magic_state}" href="#cycle-{esc(cycle.id)}">'
-        f'<span>{number:02d}</span><strong>{esc(cycle.title)}</strong>'
-        '<span class="braid-phases">' + ' <i aria-hidden="true">→</i> '.join(
-            f'<b class="state-{state}">{SHORT_STATES[state]}</b>'
-            for state in cycle.magic_states) + '</span>'
-        '<i aria-hidden="true">↓</i></a>' for number, cycle in enumerate(timeline.cycles, 1))
-    strands = []
-    for number, thread in enumerate(timeline.history_threads, 1):
-        stages = {stage.cycle_id: stage for stage in thread.stages}
-        cells = []
-        for cycle in timeline.cycles:
+def render_cartography(timeline, stories):
+    """A changeable atlas of selected accounts over one shared chronology."""
+    lenses = [('all', 'Whole history',
+               'Many civilizations. Overlapping lives. Begin with the whole world, or follow one of its histories.', None)]
+    lenses += [(thread.id, thread.title, thread.description, thread) for thread in timeline.history_threads]
+    buttons, descriptions, views, accounts = [], [], [], []
+    first_cycle = timeline.cycles[0].id
+    for lens_number, (lens, title, description, thread) in enumerate(lenses):
+        buttons.append(f'<button type="button" data-history-lens="{esc(lens)}" '
+                       f'aria-pressed="{str(lens_number == 0).lower()}">{esc(title)}</button>')
+        descriptions.append(f'<p data-lens-description="{esc(lens)}"'
+                            f'{" hidden" if lens_number else ""}>{esc(description)}</p>')
+        stages = {stage.cycle_id: stage for stage in thread.stages} if thread else {}
+        columns = []
+        for number, cycle in enumerate(timeline.cycles, 1):
             stage = stages.get(cycle.id)
-            if not stage:
-                cells.append('<div class="braid-gap"><span>No account selected</span></div>')
-                continue
-            anchors = ''.join(f'<a href="#story-{esc(slug)}">{esc(stories[slug].title)} ↗</a>' for slug in stage.anchors)
-            cells.append(
-                f'<details class="braid-stage kind-{stage.kind}" data-history-stage data-stage-cycle="{esc(cycle.id)}">'
-                f'<summary><span class="braid-stitch" aria-hidden="true"></span><strong>{esc(stage.title)}</strong>'
-                f'<small>{STAGE_LABELS[stage.kind]} <i aria-hidden="true">+</i></small></summary>'
-                f'<div class="braid-account"><p>{esc(stage.note)}</p><div>{anchors}</div></div></details>')
-        strands.append(
-            f'<section class="braid-strand strand-{number}" id="current-{esc(thread.id)}" data-history-thread '
-            f'aria-labelledby="current-title-{esc(thread.id)}">'
-            f'<header><h3 id="current-title-{esc(thread.id)}">{esc(thread.title)}</h3>'
-            f'<details class="strand-context"><summary>About this thread</summary><p>{esc(thread.description)}</p></details></header>'
-            f'{"".join(cells)}</section>')
+            # Overview illustrations are entry points, not membership or chronology claims.
+            overview_anchors = list(dict.fromkeys(slug for current in timeline.history_threads
+                for item in current.stages if item.cycle_id == cycle.id for slug in item.anchors))[:3]
+            anchors = list(stage.anchors) if stage else ([] if thread else overview_anchors)
+            cycle_icon = f"cycle-icons/{cycle.id}.png"
+            heading = stage.title if stage else ('No account selected' if thread else cycle.eyebrow)
+            note = stage.note if stage else ('No account has been selected for this history in this cycle. Explore its stories below.' if thread else cycle.description)
+            selected = stage.anchors if stage else (() if thread else cycle.stories)
+            marks = []
+            for index, slug in enumerate(selected):
+                window = timeline.story_placements[slug].window
+                x = 18 + (index % 5) * 21
+                y1, y2 = 18 + window.start * 1.6, 18 + window.end * 1.6
+                marks.append(f'<g data-map-story="{esc(slug)}"><line x1="{x}" x2="{x}" '
+                             f'y1="{y1:.2f}" y2="{y2:.2f}"/><circle cx="{x}" cy="{(y1+y2)/2:.2f}" r="2"/></g>')
+            columns.append(
+                f'<a class="map-cycle" href="#cycle-{esc(cycle.id)}" data-map-cycle="{esc(cycle.id)}" '
+                f'aria-current="{str(cycle.id == first_cycle).lower()}">'
+                f'<span class="map-number"><b>{number:02d}</b><span>Cycle</span></span>'
+                f'<span class="map-window"><img src="{esc(cycle_icon)}" alt="" '
+                f'width="1280" height="1280" loading="lazy"><svg class="map-constellation" '
+                f'viewBox="0 0 120 200" aria-hidden="true">{"".join(marks)}</svg></span>'
+                f'<strong class="map-cycle-title">{esc(cycle.title)}</strong>'
+                f'<span class="map-stage-title">{esc(heading)}</span>'
+                f'<span class="map-count">{len(cycle.stories)} stories in cycle <i aria-hidden="true">↗</i></span></a>')
+            anchor_links = ''.join(f'<a href="#story-{esc(slug)}"><span>{esc(stories[slug].title)}</span> '
+                                   '<i aria-hidden="true">↗</i></a>' for slug in anchors)
+            stage_kind = STAGE_LABELS[stage.kind] if stage else ('An open account' if thread else 'Proposed historical horizon')
+            stage_attrs = f' data-history-stage data-stage-cycle="{esc(cycle.id)}"' if stage else ''
+            account_id = f' id="current-{esc(lens)}" data-history-thread ' if thread and number == 1 else ''
+            accounts.append(
+                f'<article class="desk-account"{account_id} data-account-lens="{esc(lens)}" '
+                f'data-account-cycle="{esc(cycle.id)}"{stage_attrs}'
+                f'{" hidden" if lens_number or number != 1 else ""}>'
+                f'<div class="desk-illustration"><img src="{esc(cycle_icon)}" alt="" '
+                'width="1280" height="1280" loading="lazy"></div>'
+                f'<div class="desk-copy"><p class="atlas-kicker">Cycle {number:02d} · {esc(stage_kind)}</p>'
+                f'<h3>{esc(stage.title if stage else ("No account selected" if thread else cycle.title))}</h3><p>{esc(note)}</p>'
+                f'<div class="desk-anchors"><span>{"Stories to enter through" if anchors else "This account remains open"}</span>'
+                f'{anchor_links}</div><div class="desk-actions"><a href="#cycle-{esc(cycle.id)}">'
+                f'Explore all {len(cycle.stories)} stories in this cycle <span aria-hidden="true">→</span></a>'
+                '</div></div></article>')
+        views.append(f'<div class="map-view lens-{lens_number}" data-lens-view="{esc(lens)}" '
+                     f'style="--cycle-count:{len(timeline.cycles)}"'
+                     f'{" hidden" if lens_number else ""}>{"".join(columns)}</div>')
     return (
-        '<section class="history-braid" id="atlas-currents" aria-labelledby="braid-title">'
-        '<header class="braid-heading"><div><p class="atlas-kicker">The long view</p>'
-        '<h2 id="braid-title">Four histories. One world.</h2></div>'
-        '<p>Read across to follow a current. Read down to see what shares a world. '
-        'Open a stitch for its stories.</p></header>'
-        '<p class="braid-caption">Gods, machines and extraordinary bodies have different histories. '
-        'A recurring form can be reinvented; the thread alone does not establish descent.</p>'
-        '<p class="braid-mobile-hint">Swipe across the cycles →</p>'
-        '<div class="braid-scroll" tabindex="0" role="region" aria-label="Historical currents across the cycles; scroll horizontally on small screens">'
-        f'<div class="braid-cloth" style="--cycle-count:{len(timeline.cycles)}">'
-        f'<nav class="braid-heading-row" aria-label="Jump to a cycle"><span class="braid-direction">Proposed cycles <b aria-hidden="true">→</b></span>{cycle_headers}</nav>'
-        f'{"".join(strands)}</div></div>'
-        '<div class="braid-boundaries"><a href="#story-all-accounts-due"><i class="cut" aria-hidden="true"></i>'
-        '<span><b>The extinction</b>Old magic ends. Human history continues.</span></a>'
-        '<a href="#story-the-sky-remembers-us-return"><i class="join" aria-hidden="true"></i>'
-        '<span><b>The return</b>New magic enters an inhabited world.</span></a></div></section>')
+        '<section class="atlas-cartography" id="atlas-currents" aria-labelledby="cartography-title">'
+        '<header class="cartography-heading"><div><p class="atlas-kicker">Choose a way through time</p>'
+        '<h2 id="cartography-title">A world, lived many ways.</h2></div>'
+        '<p>Follow a history. Find a civilization. Step into a life.</p></header>'
+        f'<nav class="lens-nav" aria-label="Historical lens" hidden>{"".join(buttons)}</nav>'
+        f'<div class="lens-introduction">{"".join(descriptions)}</div>'
+        '<p class="map-mobile-hint">Explore across the cycles →</p>'
+        f'<div class="atlas-panorama" tabindex="0" role="region" aria-label="{len(timeline.cycles)} cycles of one world; scroll horizontally on small screens">'
+        f'{"".join(views)}</div>'
+        '<p class="map-legend"><span>Earlier <i aria-hidden="true">⟶</i> Later</span>'
+        '<span>Story marks trace proposed placement windows. Spacing is schematic, not a measured duration.</span></p>'
+        f'<div class="atlas-desk" aria-live="polite" aria-atomic="false">{"".join(accounts)}</div>'
+        '<p class="atlas-account-note">These lenses offer selected accounts, not exhaustive categories. '
+        'A recurring form can be reinvented; the thread alone does not establish descent. '
+        'Explore a cycle to find every story placed there.</p>'
+        '<noscript><p>Follow a cycle above to browse its eras. Enable JavaScript to switch historical lenses.</p></noscript></section>')
 
 def render(catalog, timeline):
     stories = {story.slug: story for story in catalog.stories}
@@ -83,15 +110,7 @@ def render(catalog, timeline):
         for era_number, era in enumerate(cycle.eras, 1):
             if era.magic_state not in phases:
                 phases.append(era.magic_state)
-                hinge = ''
-                if era.magic_state == 'long-dark' and 'all-accounts-due' in stories:
-                    hinge = '<a class="worldline-hinge" href="#story-all-accounts-due"><span>Magic ends</span><strong>All Accounts Due</strong><i aria-hidden="true">↗</i></a>'
-                if era.magic_state == 'new-magic' and 'the-sky-remembers-us-return' in stories:
-                    hinge = '<a class="worldline-hinge" href="#story-the-sky-remembers-us-return"><span>Magic returns</span><strong>The Sky Remembers Us</strong><i aria-hidden="true">↗</i></a>'
-                era_panels.append(
-                    f'<div class="history-phase state-{era.magic_state}" id="phase-{era.magic_state}" data-phase="{era.magic_state}">'
-                    f'{hinge}<div class="phase-heading"><span class="phase-dot" aria-hidden="true"></span>'
-                    f'<h2>{STATE_LABELS[era.magic_state]}</h2><p>{PHASE_COPY.get(era.magic_state, "A different relationship to time.")}</p></div></div>')
+                era_panels.append(f'<span class="phase-anchor" id="phase-{era.magic_state}" data-phase="{era.magic_state}" aria-hidden="true"></span>')
             events = []
             for slug in era.stories:
                 story = stories[slug]
@@ -169,8 +188,9 @@ def render(catalog, timeline):
             '<header class="cycle-heading">'
             f'<p class="atlas-kicker">Cycle {number:02d}</p><h3>{esc(cycle.title)}</h3>'
             f'<p class="cycle-context">{esc(cycle.eyebrow)}</p>'
+            '<details class="cycle-background"><summary>Read this cycle’s history and placement</summary><div>'
             f'<p class="cycle-history">{esc(cycle.description)}</p>'
-            f'<p class="cycle-inheritance">{esc(cycle.sequence_note)}</p>'
+            f'<p class="cycle-inheritance">{esc(cycle.sequence_note)}</p></div></details>'
             '<a class="cycle-to-braid" href="#atlas-currents">See the wider history ↑</a></header>'
             f'<span class="cycle-node" aria-hidden="true">{number:02d}</span>'
             f'<div class="cycle-eras">{"".join(era_panels)}</div></section>')
@@ -215,22 +235,19 @@ def render(catalog, timeline):
         f'<div class="time-folds">{"".join(depth_cards)}</div>'
         '<p data-history-empty hidden>No histories match. Try a place, title or interval.</p>'
         '</div></dialog></details>') if depth_cards else ''
-    phase_links = ''.join(f'<a class="state-{state}" href="#phase-{state}" data-phase-link="{state}"><i aria-hidden="true"></i>{STATE_LABELS[state]}</a>' for state in phases)
+    cycle_options = ''.join(f'<option value="{esc(cycle.id)}">{number:02d} · {esc(cycle.title)}</option>' for number, cycle in enumerate(timeline.cycles, 1))
     total_eras = sum(len(cycle.eras) for cycle in timeline.cycles)
     return (
         '<a class="atlas-skip" href="#atlas-explore">Skip to the timeline</a><div class="atlas" data-timeline>'
         '<header class="chronicle-intro"><div><p class="atlas-kicker">One world · Deep time</p>'
-        '<h1>The Worldline</h1><p>Civilizations rise. The world remembers.</p></div>'
+        '<h1>An atlas of lives.</h1><p>Civilizations rise. Lives intertwine. The past remains.</p></div>'
         f'<p class="chronicle-total"><b>{len(stories)}</b> stories woven through<br> <b>{len(timeline.cycles)}</b> cycles of one history.</p></header>'
-        '<div class="chronicle-toolbar"><nav class="phase-nav" aria-label="The great ages">'
-        f'{phase_links}</nav><label class="atlas-search" hidden><span class="sr-only">Search the whole chronology</span>'
-        '<input type="search" data-atlas-search placeholder="Find a story, place, idea…" autocomplete="off"></label></div>'
-        '<div class="chronicle-guide"><p>Follow the currents across. Explore the eras below.</p>'
+        '<div class="chronicle-guide"><p>One world. No single path through its history.</p>'
         '<details class="reading-guide"><summary>How to read this history</summary><div>'
         '<p>A <b>Galactic Cycle</b> is an orbit of this world’s star system around the galaxy. '
         'The first orbit and absolute coordinates remain unknown. These cycle numbers locate this reconstruction, '
         'not a canonical calendar; spacing is schematic, not a measured duration.</p>'
-        '<p>Magic’s extinction and return anchor the three great ages. Divine rule, technology and public powers '
+        '<p>Magic’s extinction and return are two major events. Divine rule, technology and public powers '
         'have their own regional histories; they need not flourish, fade or return together. '
         'The extinction and return can fall inside an orbit, rather than at its edge.</p>'
         '<p>Technologies, institutions and inherited histories bring stories together. Within a cycle, '
@@ -238,11 +255,17 @@ def render(catalog, timeline):
         'Established sequences and local intervals take precedence.</p>'
         '<p>Open a story’s “Place in history” for its evidence and connections. Direct connections, historical hypotheses '
         'and thematic echoes are distinguished. A remembered event can reach beyond its story’s proposed era.</p></div></details></div>'
-        f'{render_braid(timeline, stories)}'
+        f'{render_cartography(timeline, stories)}'
         '<nav class="history-lenses" aria-label="Explore the layers of history">'
         f'{depths}<a href="#atlas-threads">Connections across history <span>{len(timeline.connections)} threads</span> ↗</a></nav>'
-        '<div class="search-feedback" hidden data-search-feedback><p role="status" aria-live="polite" data-atlas-count></p>'
-        '<button type="button" data-atlas-reset>Clear search ×</button></div>'
+        '<header class="archive-heading" id="atlas-archive"><p class="atlas-kicker">The inhabited world</p>'
+        '<h2>Find your place in history.</h2><p>Browse the societies within a cycle. Their horizons can overlap.</p></header>'
+        '<div class="chronicle-toolbar"><label class="cycle-picker" hidden><span>Explore a cycle</span>'
+        f'<select data-cycle-picker><option value="all">All cycles · The whole chronology</option>{cycle_options}</select></label>'
+        '<label class="atlas-search" hidden><span>Search every cycle</span>'
+        '<input type="search" data-atlas-search placeholder="Story, place, person, idea…" autocomplete="off"></label></div>'
+        '<div class="search-feedback" data-search-feedback><p role="status" aria-live="polite" data-atlas-count></p>'
+        '<button type="button" data-atlas-reset hidden>Clear search ×</button></div>'
         f'<section class="worldline" id="atlas-explore" aria-label="{len(timeline.cycles)} cycles, {total_eras} eras"><span id="atlas-weave"></span>{"".join(rows)}'
         '<p class="atlas-empty" data-atlas-empty hidden>No stories found. Try another title, place or idea.</p>'
         '<div class="worldline-end"><i aria-hidden="true"></i><p>History is still being written.</p></div></section>'

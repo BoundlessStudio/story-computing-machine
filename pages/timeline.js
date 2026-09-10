@@ -16,12 +16,65 @@
   let returnFocus = null;
   let previousOverflow = '';
   let connectionOrigin = null;
+  const picker = atlas.querySelector('[data-cycle-picker]');
+  const lensButtons = [...atlas.querySelectorAll('[data-history-lens]')];
+  const mapViews = [...atlas.querySelectorAll('[data-lens-view]')];
+  const accounts = [...atlas.querySelectorAll('[data-account-lens]')];
+  let activeLens = 'all';
+  let activeCycle = cycles[0].dataset.cycleSection;
+  let selectedCycle = activeCycle;
+  let hadSearch = false;
+  const validCycle = id => cycles.some(cycle => cycle.dataset.cycleSection === id);
+  function updateExplorer() {
+    lensButtons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.historyLens === activeLens)));
+    mapViews.forEach(view => { view.hidden = view.dataset.lensView !== activeLens; });
+    atlas.querySelectorAll('[data-lens-description]').forEach(note => { note.hidden = note.dataset.lensDescription !== activeLens; });
+    atlas.querySelectorAll('[data-map-cycle]').forEach(link => link.setAttribute('aria-current', String(link.dataset.mapCycle === activeCycle)));
+    accounts.forEach(account => { account.hidden = account.dataset.accountLens !== activeLens || account.dataset.accountCycle !== activeCycle; });
+    picker.value = selectedCycle;
+    // Keep the selected cycle in view without moving the reader vertically.
+    const panorama = atlas.querySelector('.atlas-panorama');
+    const selected = atlas.querySelector('[data-lens-view]:not([hidden]) [aria-current="true"]');
+    if (selected) panorama.scrollLeft = selected.offsetLeft - (panorama.clientWidth - selected.clientWidth) / 2;
+  }
+  function saveExplorer(push = false, hash = null) {
+    const url = new URL(location.href);
+    url.searchParams.set('lens', activeLens);
+    url.searchParams.set('cycle', selectedCycle);
+    if (selectedCycle === 'all') url.searchParams.set('at', activeCycle);
+    else url.searchParams.delete('at');
+    if (search.value.trim()) url.searchParams.set('q', search.value.trim());
+    else url.searchParams.delete('q');
+    if (hash !== null) url.hash = hash;
+    if (url.href !== location.href) history[push ? 'pushState' : 'replaceState'](null, '', url);
+  }
+  function restoreExplorer() {
+    const params = new URLSearchParams(location.search);
+    activeLens = lensButtons.some(button => button.dataset.historyLens === params.get('lens')) ? params.get('lens') : 'all';
+    selectedCycle = params.get('cycle') === 'all' || validCycle(params.get('cycle')) ? params.get('cycle') : cycles[0].dataset.cycleSection;
+    activeCycle = selectedCycle !== 'all' ? selectedCycle : validCycle(params.get('at')) ? params.get('at') : cycles[0].dataset.cycleSection;
+    search.value = params.get('q') || '';
+    hadSearch = Boolean(search.value.trim());
+    updateExplorer();
+    filterStories();
+  }
+  function selectCycle(id) {
+    selectedCycle = id;
+    if (id !== 'all') activeCycle = id;
+    updateExplorer();
+    filterStories();
+  }
+  atlas.querySelector('.lens-nav').hidden = false;
+  picker.closest('label').hidden = false;
   const normalize = value => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’‘]/g, "'");
 
   search.closest('label').hidden = false;
   function filterStories() {
     const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
-    stories.forEach(story => { story.hidden = !terms.every(term => normalize(story.dataset.search).includes(term)); });
+    stories.forEach(story => {
+      const cycle = story.closest('[data-cycle-section]').dataset.cycleSection;
+      story.hidden = (selectedCycle !== 'all' && cycle !== selectedCycle) || !terms.every(term => normalize(story.dataset.search).includes(term));
+    });
     eras.forEach(era => {
       const matches = [...era.querySelectorAll('[data-story-slug]')].filter(story => !story.hidden);
       era.hidden = !matches.length;
@@ -35,14 +88,14 @@
     atlas.querySelectorAll('[data-phase]').forEach(phase => {
       phase.hidden = !eras.some(era => !era.hidden && era.dataset.magicState === phase.dataset.phase);
     });
-    atlas.querySelector('.history-braid').hidden = Boolean(terms.length);
-    feedback.hidden = !terms.length;
+    feedback.hidden = false;
+    atlas.querySelector('[data-atlas-reset]').hidden = !terms.length;
     const total = stories.filter(story => !story.hidden).length;
     const eraCount = eras.filter(era => !era.hidden).length;
     count.textContent = total + (total === 1 ? ' story in ' : ' stories in ') + eraCount + (eraCount === 1 ? ' era' : ' eras');
     atlas.querySelector('[data-atlas-empty]').hidden = total > 0;
   }
-  function clearSearch() { search.value = ''; filterStories(); }
+  function clearSearch() { search.value = ''; hadSearch = false; filterStories(); }
   function setHash(hash, replace = false) {
     if (location.hash !== hash) history[replace ? 'replaceState' : 'pushState'](null, '', hash || location.pathname + location.search);
   }
@@ -68,6 +121,9 @@
     dialog.querySelector('[data-dialog-close]').focus({preventScroll: true});
   }
   function showEra(era, trigger) {
+    activeCycle = era.closest('[data-cycle-section]').dataset.cycleSection;
+    updateExplorer();
+    saveExplorer();
     const dialog = era.querySelector('[data-era-dialog]');
     showDialog(dialog, trigger);
     const available = eras.filter(item => !item.hidden);
@@ -88,7 +144,11 @@
     if (!target) { closeDialog(); return; }
     const era = target.closest('[data-era-section]');
     if (era) {
-      if (era.hidden || target.closest('[data-story-slug]')?.hidden) clearSearch();
+      const cycleId = era.closest('[data-cycle-section]').dataset.cycleSection;
+      if (era.hidden || target.closest('[data-story-slug]')?.hidden) {
+        selectedCycle = cycleId;
+        clearSearch();
+      }
       showEra(era, trigger);
       const story = target.closest('[data-story-slug]');
       if (story) {
@@ -116,7 +176,19 @@
       return;
     }
     closeDialog(false);
-    if (target.closest('[data-cycle-section]') || target.matches('[data-phase]')) clearSearch();
+    const targetCycle = target.closest('[data-cycle-section]');
+    if (targetCycle) {
+      selectCycle(targetCycle.dataset.cycleSection);
+      clearSearch();
+      saveExplorer();
+    }
+    if (target.matches('[data-history-thread]')) {
+      activeLens = target.dataset.accountLens;
+      updateExplorer();
+      saveExplorer();
+      if (focus) atlas.querySelector('#atlas-currents').scrollIntoView({block: 'start'});
+      return;
+    }
     if (focus) {
       target.setAttribute('tabindex', '-1');
       target.focus({preventScroll: true});
@@ -166,9 +238,8 @@
         reveal('#' + origin.id);
         return;
       }
-      const era = dialog.closest('[data-era-section]');
       closeDialog();
-      setHash(era ? '#' + era.closest('[data-cycle-section]').id : '#atlas-explore', true);
+      saveExplorer(false, '#atlas-archive');
     };
     dialog.querySelector('[data-dialog-close]').addEventListener('click', leave);
     dialog.addEventListener('cancel', event => { event.preventDefault(); leave(); });
@@ -184,12 +255,31 @@
     const link = event.target.closest('a[href^="#"]');
     if (!link || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
+    if (link.matches('[data-map-cycle]')) {
+      clearSearch();
+      selectCycle(link.dataset.mapCycle);
+      saveExplorer(true, '#atlas-currents');
+      return;
+    }
     setHash(link.hash);
     reveal(link.hash, true, link);
   });
-  search.addEventListener('input', filterStories);
-  atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { clearSearch(); search.focus(); });
-  window.addEventListener('popstate', () => reveal(location.hash));
+  lensButtons.forEach(button => button.addEventListener('click', () => {
+    activeLens = button.dataset.historyLens;
+    updateExplorer();
+    saveExplorer(true, '#atlas-currents');
+  }));
+  picker.addEventListener('change', () => { selectCycle(picker.value); saveExplorer(true, '#atlas-archive'); });
+  search.addEventListener('input', () => {
+    if (!hadSearch && search.value.trim()) selectedCycle = 'all';
+    hadSearch = Boolean(search.value.trim());
+    updateExplorer();
+    filterStories();
+    saveExplorer(false, '#atlas-archive');
+  });
+  atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { clearSearch(); saveExplorer(); search.focus(); });
+  window.addEventListener('popstate', () => { restoreExplorer(); reveal(location.hash); });
   window.addEventListener('hashchange', () => reveal(location.hash));
+  restoreExplorer();
   reveal(location.hash, Boolean(location.hash));
 })();
