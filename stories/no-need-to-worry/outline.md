@@ -2,49 +2,50 @@
 
 ## Story
 
-- Premise and central promise: Divorced wildlife filmmakers Althea and Digby finish their final shared shoot at Belltarn Shoal. A supposedly indestructible marine animal attacks their boat; a spectacularly unsubtle discovery saves them and ruins both accounts of events.
-- Focal pressure or attachment: Althea wants a magnificent farewell film that establishes her solo career. Digby wants visible credit after years behind her camera. Each thinks their work carried the partnership.
-- Counterforce or complication: The beast disables their cutter before they can withdraw. Althea's expertise remains useful, but filmed grandeur becomes ridiculous at biting distance. Digby's practical authority increases just when his ex-wife is least inclined to admire him.
-- POV, distance, and information limit: Close third past through Althea's professional framing and bodily fear. Digby's motives arrive through conduct and argument, with the saved recording later correcting her memory.
-- Governing movement and time shape: One coastal afternoon: retakes, abrupt attack, compressed survival, then an expanded argument aboard the rescue boat.
-- Speculative rule or ordinary-world constraint: This living animal repairs broken shell with minerals drawn from seawater; the faculty cannot overcome overwhelming physical injury. Shed mineral crust fouls filters and coats local fishing gear. Their converted patrol cutter retains a serviced defensive cannon; Digby is its experienced operator. Cameras, radio, and weapon are ordinary machinery.
-- Dialogue promise: Familiar professional irritations become frightened, badly timed marital comedy, then a struggle over who gets to own the rescue story.
-- Dialogic medium: Spoken retakes, wired crew talkback, ordinary shouts, interrupted hearing, recorded audio, and a short telephone call with an unnamed commissioning editor.
-- Dialogue engine: Althea tries to direct Digby's contribution; he keeps making consequential remarks outside her intended frame. Their recorded disagreement ultimately becomes the commodity neither can sell alone.
+- Premise and central promise: At a private hunting lodge, Dulsie Flett sells wealthy adults a chance to kill a regenerating beast. Her accomplice Ogden turns the hunters into meat while they divide the takings. Tonight she has hired Norris and the lodge's demonstration cannon to end their partnership. Deliver the quoted overkill boast, a real kill, and the ugly difference between surviving and coming out ahead.
+- Focal pressure or attachment: Dulsie wants the entire take and retirement. Years of shared beds, filthy lodgings, and successful swindles make Ogden familiar to her in ways his customers cannot imagine. She resents his assumption that she will always arrange their next meal.
+- Counterforce or complication: Ogden is dangerous, affectionate, and a willing murderer, with appetites extending beyond their agreed victims. He nevertheless offers Dulsie an equal division and departure. Norris wants payment and bodily safety; discovering their partnership changes his price.
+- POV, distance, and information limit: Close third past through Dulsie, intimate with her practical evasions. Establish her complicity and intended betrayal early. Other minds remain accessible through conduct and communication.
+- Governing movement and time shape: One evening contracts from the hunting yard into the protected firing booth, then reaches the waiting vehicle. Compress their history into present associations; dwell on the offered escape and its rejection. Target 2,500–4,000 words.
+- Speculative rule or ordinary-world constraint: Ogden is one living, formerly human person who can reshape and repair his body using swallowed flesh. Ordinary butcher's meat also works; eating people is an appetite and a choice. Available mass and repair speed are finite. Detached pieces die, cannot act independently, and cannot resurrect him. Cannon fire can destroy his living body faster than he repairs it. Guns, intercom, and locks are ordinary mechanisms.
+- Dialogue promise: An old criminal intimacy curdles under a third person's listening. Familiarity makes promises usable weapons; failed persuasion leaves consequential choices exposed.
+- Dialogic medium: Yard speech, the firing booth's audible intercom, private conversation beside its window, gestures, and injured speech.
+- Dialogue engine: Dulsie's emergency story recruits Norris. Ogden's familiar address exposes their partnership. His offer creates an alternative she must refuse or counterfeit; Norris converts what he hears into control over her survival.
 
 ## Voice
 
-- Narrative texture: Althea notices composition, animal behavior, and whatever makes her look foolish. Spacious observational sentences contract under impact; dry humor comes from the discrepancy without an external comedian explaining it.
-- Conversational texture: Familiar interruptions, practical monosyllables, complaints about retakes, and occasional unembarrassed technical precision. Leave room for fear to be ordinary and for some useful requests to receive simple answers.
-- Rhetorical ownership: Althea owns grandeur, biological interpretation, and evasive reframing. Digby owns destructive understatement and inconvenient recollection. He cannot imitate her broadcast fluency; she is quicker socially and sometimes abuses that advantage.
-- Pressure behavior: Althea initially keeps her reassuring presenter voice too long. Digby becomes brusque, then shakily overprecise. Cannon noise defeats both until a pause makes speech possible.
-- Relationship movement: She wants his endorsement of her independent stature; he wants her to acknowledge his public appeal. Neither comfortably requests the other's admiration. Rescue changes leverage; the recording gives each embarrassing evidence against the other's claim to sole authorship.
-- Anti-default: Avoid a gracious confession that they always needed each other. Let informed self-interest, vanity, genuine competence, and competitive pleasure survive.
+- Narrative texture: Dulsie notices resale value, stained clothes, embarrassing appetites, and bodies obstructing money. Let sustained attention expose what her brisk classifications omit. Injury eventually defeats that orderly attention.
+- Conversational texture: Sales patter, tired familiarity, crude complaints, inconvenient questions, and abrupt ordinary obscenity. Humor can fail, especially when Dulsie expects a shared joke.
+- Rhetorical ownership: Dulsie euphemizes cruelty and performs social authority. Ogden owns bodily pleasure, remembered kindness, and sprawling personal grievance; he can misread familiarity as loyalty. Norris's numerical precision is nervous reassurance. He listens for lies about danger and payment, without becoming an articulate moral judge.
+- Pressure behavior: Dulsie initially speaks faster, then bargains badly through pain. Ogden repeats an unanswered personal question before turning physically vicious. Norris becomes literal and interruptive; the gun's noise damages everyone's hearing.
+- Relationship movement: Dulsie wants Ogden's trust without further obligation. Ogden wants her continued pleasure in their partnership and cannot comfortably ask whether she now finds him disgusting. Norris wants reassurance but dislikes admitting fear. Their exchanges expose the betrayal and replace intimate mutual dependence with coercion.
+- Anti-default: Avoid a competent hunter tutoring frightened colleagues through a technical solution and earning their grateful cooperation.
 
 ## Beats
 
-1. **The last retake.** Establish the impending business separation through their dispute over the closing narration. Althea distinguishes sailors' invulnerability stories from observed shell repair, but still wants impressive footage. Digby resents being corrected while supplying the pictures. Establish the cutter's defensive role, crew talkback, and an unglamorous continuously recording safety camera.
-2. **The subject refuses its framing.** What appeared to be ordinary shoal becomes the animal lifting beneath their route. An immediate withdrawal fails when its first attack damages propulsion. Althea recognizes territorial behavior and directs useful escape attempts; neither prolongs danger for footage. Its weight crushes the filming platform. Call for rescue early; help cannot reach them before another attack.
-3. **An insufficient demonstration.** Digby's first defensive fire visibly breaks shell that Althea had only seen regenerate after smaller damage. The animal recoils, then renews its attack while damaged plates are still exposed. She sees that this damage persists despite the animal's continued repair.
-4. **The fatal weakness.** In a lull, Althea presses him for what actually ends this. Digby answers over working talkback: "No need to worry, I discovered a fatal weakness: 30mm shells, launched at about 1000 m/s. About 4000 per minute should do." Further fire kills the animal. Convey noise, movement, broken expectations, and relief; omit firing procedures and anatomical targeting.
-5. **The record disagrees.** The damaged cutter is sinking slowly; rescue arrives. Their principal cameras and farewell footage are lost, but the safety recording survived. It contains the complete encounter, including useful expertise, terror, the required line, and each person's attempts to manage how the other sounds. Neither can plausibly edit themselves into the solitary competent adult.
-6. **A more profitable nuisance.** An interested commissioning editor wants the argumentative partnership visible in that recording. Althea attempts to package Digby's contribution as a guest appearance; he demands shared billing. They accept a new joint venture because the sale replaces their losses and neither will surrender the opportunity. End within the consequential billing dispute: danger resolved, divorce intact, professional separation voluntarily postponed.
+1. During the hunt, Dulsie pockets jewelry while Ogden feeds. Establish that the locked yard is their trap and the supposed handler is his partner. The lodge's installed cannon is an extravagant customer attraction, now staffed by Norris as an emergency precaution. Dulsie's private intention is already legible.
+2. Ogden kills an unnamed adult attendant who was never a hunter. Dulsie's objection concerns their arrangement; she does not intervene. Give the attendant a concrete attempt to survive. Ogden's torn evening clothes and ordinary request for help with an inaccessible fastening keep his familiar personhood present inside the horror.
+3. Dulsie reaches the firing booth. Norris's first discharge tears away flesh that begins closing much too slowly. Her frightened demand for certainty prompts his exact reassurance: "No need to worry, I discovered a fatal weakness: 30mm shells, launched at about 1000 m/s. About 4000 per minute should do." His confidence outruns his composure. Render force and bodily damage, without firing instructions or technical calculations.
+4. Ogden withdraws from the immediate fire and brings their cashbox to the booth's doorway. Through the intercom he offers an equal split and the waiting vehicle. His familiar references expose their shared murders to Norris. Dulsie could accept and leave. Her momentary tenderness is real; wanting all the money survives it.
+5. Dulsie pretends to accept, takes the cashbox across the threshold, then authorizes the killing. Ogden recognizes the betrayal, mangles her forearm, then turns on the gun as she falls behind the booth's solid wall. Norris's sustained fire destroys him. Keep geography clear and the cash inside the booth; injuries arise from this failed exchange, rather than an unrelated punishment.
+6. No fragment revives. Dulsie tries to issue orders while Norris takes the cashbox and assesses whether she can still procure customers. She wants immediate help and discovers how little bargaining power remains. He gets her into the vehicle on terms she cannot dictate. End during departure, with her dependence and his possession of their takings; leave their ruined intimacy in the physical aftermath.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Althea | new | Adult naturalist and presenter; Digby's former wife and business partner. |
-| Digby | new | Adult expedition captain and cameraman; Althea's former husband. |
+| Dulsie Flett | new | Also Dulsie; adult promoter, swindler, and focal accomplice. |
+| Ogden | new | Adult living flesh-changer; Dulsie's longtime partner and intended victim. |
+| Norris | new | Adult hired gunner; frightened, observant, opportunistic. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Belltarn Shoal | new | Coastal filming site; no established geographic connection. |
+| None | none | Unnamed private lodge, hunting yard, firing booth, and vehicle approach. |
 
 ## Continuity
 
-- Canon used: `rules.md` living agency and system categories; `premise.md` recurring modernities; `timeline.md` worldline backbone. Place this magic-active modernity before terminal extinction, outside the perfectly magicless Long Dark.
-- Boundaries and unknowns: The animal's faculty is local invention, not an existing universal system. No sapience or established species identity is implied. Exact date and wider geography remain open. No reference images were supplied.
-- Noun check: Exact/close-name searches found no confusing reuse in the frozen baseline, 119 passing review inventories, or relevant universe entries.
+- Canon used: The deep-time world permits independent industrial societies. Set this unnamed magic-active modernity before the terminal extinction, outside ordinary modern time. Only life uses magic; Ogden supplies his own bounded faculty. Transformation preserves personal and moral stakes.
+- Boundaries and unknowns: Non-canon proposal; no existing character, locality, organization, or magical lineage recurs. No reference images were supplied. Explicit adult authorization supports consequential graphic violence, with no explicit sexual prose or instructional weapon detail. No water infrastructure or public-works plot.
+- Name checks: Frozen NAMES, current review inventories including PASS stories, and relevant universe names yielded no exact or alias reuse for these proposals. Close-form searches found only Nora/Green Coat near Norris; different sound, identity, and context make confusion unlikely. Retain Norris without a shortened alias.
