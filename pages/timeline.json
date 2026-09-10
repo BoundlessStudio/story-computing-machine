@@ -758,6 +758,24 @@
           }
         },
         {
+          "id": "event-no-need-to-worry",
+          "title": "No Need to Worry",
+          "magicState": "old-magic",
+          "description": "A marriage ended nine months earlier → A final wildlife shoot, rescue and competing new proposals.",
+          "context": [
+            "Althea and Digby's remaining contracts and shared cutter outlast their marriage. Coastal patrol equipment, wildlife broadcasting, rescue crews and fisheries already operate around Belltarn Shoal. The animal's rapid mineral repair coexists with ordinary cameras, radio and machinery. This independent coastal modernity has a proposed pre-extinction position; its technology establishes no common state or date with other modern societies.",
+            "Footage of smaller animals repairing shell is made two days before the adult encounter. An attempted departure fails when the adult disables the cutter. Defensive fire kills it, the crew escape to a rescue launch, and the cutter sinks. A recovered recording permits an offered advance and a revised joint proposal; the editor's following-morning call, insurance settlement and further expedition remain future possibilities."
+          ],
+          "sequenceNote": "Proposed after The Tide Will Have Her Answer and before The One Who Gets Tired. No common animal system, coastline, institution or measured interval connects these independent histories. The slot is an editorial reconstruction, not a Galactic Cycle coordinate.",
+          "stories": [
+            "no-need-to-worry"
+          ],
+          "window": {
+            "start": 39.6,
+            "end": 41.0
+          }
+        },
+        {
           "id": "event-the-one-who-gets-tired",
           "title": "The One Who Gets Tired",
           "magicState": "old-magic",
@@ -2736,6 +2754,13 @@
     }
   ],
   "storyPlacements": {
+    "no-need-to-worry": {
+      "window": {
+        "start": 39.6,
+        "end": 41.0
+      },
+      "note": "An independent coastal modernity is proposed before terminal extinction. The living animal's rapid shell repair and the filmmakers' ordinary machinery establish no shared origin, geography or calendar with neighboring stories. The marriage ended nine months before the final shoot; the encounter, rescue and revised proposals occupy one afternoon."
+    },
     "where-the-white-elk-went": {
       "window": {
         "start": 64.97,
@@ -3816,6 +3841,13 @@
     }
   },
   "storyMoments": {
+    "no-need-to-worry": [
+      "Althea and Digby divorce nine months before their remaining film contracts and shared boat are due to be separated.",
+      "Two days before the final shoot, they record smaller animals repairing shell after a fight over a fish.",
+      "During the closing narration at Belltarn Shoal, an adult rises behind the cutter. They attempt to leave, but its attack destroys the filming platform, disables propulsion and causes flooding.",
+      "Althea observes the approaching animal while Digby operates the cutter's defensive cannon. The animal's repair cannot overcome the damage; it dies, and a rescue launch takes the filmmakers off before their cutter sinks.",
+      "Digby retrieves the safety recorder. Its wide view and separate talkback track interest their editor, and the former spouses revise their next proposal around shared billing. Further commissioning and insurance outcomes remain unresolved."
+    ],
     "a-knock-in-someone-elses-sleep": [
       "An enclosed living being harms adult quarry workers through overwhelming contact, then gradually learns a smaller approach to sleeping children.",
       "Garnet's visits begin at seven and end at thirteen when direct contact can no longer continue safely.",
@@ -4940,6 +4972,11 @@
     ]
   },
   "storySpans": {
+    "no-need-to-worry": {
+      "start": "A marriage ended nine months earlier",
+      "end": "An afternoon rescue and revised film proposals",
+      "note": "Their professional partnership continues after the divorce because of shared contracts, equipment and a cutter. The smaller animals are filmed two days before the final shoot. Rescue is twelve minutes away when the disabled crew receive its reply. The editor agrees to call the next morning; that call and any new expedition lie beyond the story."
+    },
     "daughter-of-the-sun": {
       "start": "Independent service branches and later centralization",
       "end": "The second dawn and a first local covenant",
@@ -5712,6 +5749,7 @@
     }
   },
   "storyEvidence": {
+    "no-need-to-worry": "undated",
     "where-the-white-elk-went": "undated",
     "the-last-flames": "undated",
     "the-villages-only-mage": "undated",
