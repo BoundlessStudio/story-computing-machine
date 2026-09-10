@@ -1537,6 +1537,24 @@
           }
         },
         {
+          "id": "event-i-really-need-a-sidekick",
+          "title": "I Really Need a Sidekick",
+          "magicState": "long-dark",
+          "description": "Workshop preparation leads into a local theft contest at the Gilt Rotunda.",
+          "context": [
+            "An unnamed technological society supports an independent robot performer, skilled mechanical repair and a theatrical contest culture. This wholly nonmagical setting is provisionally placed within the Long Dark, in a broad material-era horizon that may overlap other developed societies. No common city, institution, manufacturer or order of invention is established; the interval represents uncertain placement rather than the duration of the contest.",
+            "Rococo has a theatrical career before the contest, and Ottilie has entered the competition before. Those local histories supply no date against other societies."
+          ],
+          "sequenceNote": "A broad proposed position after the ordinary-modern interval; overlap with other material societies does not establish contemporaneity or shared history. Exact Galactic dates remain unresolved.",
+          "stories": [
+            "i-really-need-a-sidekick"
+          ],
+          "window": {
+            "start": 31.98,
+            "end": 87.81
+          }
+        },
+        {
           "id": "event-the-rule-between-courses",
           "title": "All the Good Things",
           "magicState": "long-dark",
@@ -3921,6 +3939,13 @@
         "end": 28.44
       },
       "note": "Elspeth returns to the same unnamed city after almost sixty years in prison. Her return follows Nobody Spends Her Name within a later technological modernity; its local interval does not establish an absolute year or date the surrounding stories."
+    },
+    "i-really-need-a-sidekick": {
+      "window": {
+        "start": 31.98,
+        "end": 87.81
+      },
+      "note": "An unnamed technological society supports an independent robot performer, skilled mechanical repair and a theatrical contest culture. This wholly nonmagical setting is provisionally placed within the Long Dark, in a broad material-era horizon that may overlap other developed societies. No common city, institution, manufacturer or order of invention is established; the interval represents uncertain placement rather than the duration of the contest."
     }
   },
   "storyMoments": {
@@ -6005,7 +6030,8 @@
     "the-spiders-hunger": "undated",
     "no-need-to-worry": "undated",
     "undisclosed": "undated",
-    "the-old-percentage": "contextual"
+    "the-old-percentage": "contextual",
+    "i-really-need-a-sidekick": "undated"
   },
   "connections": [
     {
