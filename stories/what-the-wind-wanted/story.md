@@ -8,7 +8,7 @@ canon: false
 
 # What the Wind Wanted
 
-By noon, Zerune had discovered that the mysterious book in the fishmonger's window concerned the drainage of marshes. She bought it anyway. Yesterday she had spent an hour copying three of its hooked letters through the glass; today she could read even the cramped addition beneath the price: *Let it go cheap. It smells.*
+By noon, Zerune had discovered that the mysterious book in the fishmonger's window was a collection of insults for use at weddings. She bought it anyway. Yesterday she had spent an hour copying three of its hooked letters through the glass; today she could read even the cramped addition beneath the price: *Let it go cheap. It smells.*
 
 The fishmonger spoke to his sister in the language of their childhood. Zerune understood that, too. He told his sister he'd meant the little note for her, and hoped this customer would not ask for a discount.
 
@@ -20,7 +20,7 @@ At the cloth stall, two women were signing a dispute about the length of a sleev
 
 Still, every passing cart brought her something. A curse. A direction. A man assuring a tethered hen that they would be home soon. The hen's answer remained a squawk. A wheel squeaked without meaning anything at all.
 
-She sat on the low wall beside the grain sellers and opened her book. Her afternoon stretched before her, full of available things: the inscriptions above the old baths, the letters her grandmother had kept but could not read, the poet with the blue binding whom she had loved for his pictures. All at once she had too little afternoon.
+She sat on the low wall beside the grain sellers and opened her book. Her afternoon stretched before her, full of available things: the inscriptions above the old playhouse, the letters her grandmother had kept but could not read, the poet with the blue binding whom she had loved for his pictures. All at once she had too little afternoon.
 
 The book's leaves lifted beneath her fingers.
 
@@ -98,7 +98,7 @@ Zerune knew a path to the ridge. She had gone partway up it once with a party of
 
 “Show me the beginning.”
 
-She looked at the open page, where someone had written a furious objection to the author's treatment of reeds and dated it two hundred years earlier. It would keep.
+She looked at the open page, where someone had written a furious objection to the author's remarks about bridegrooms and dated it two hundred years earlier. It would keep.
 
 She tucked the book into her shoulder bag and set off for the last houses. A little dust followed her uphill.
 
