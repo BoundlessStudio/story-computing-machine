@@ -2589,6 +2589,24 @@
           }
         },
         {
+          "id": "event-the-spiders-hunger",
+          "title": "The Spider's Hunger",
+          "magicState": "new-magic",
+          "description": "A swollen protector on the day before departure → Escape from the inn at first light.",
+          "context": [
+            "An inn, a poucher who lends defensive spiders, hired carts and a sewing-shop investment support an established household economy. Living spiders consume workings while their pouches touch the wearer; repeated feeding can exhaust that protection. This proposed later magic-active placement establishes no common locality, ancestry or magical system with neighboring stories. The source leaves its position before extinction or after reawakening unresolved.",
+            "Ivrine has kept her spider for eight years and returned home three weeks before departure; the burial was nine days before the shop visit. The investigation unfolds over one day, followed by a guarded night and a departure before dawn. Her familiar spider starts hunting again, while the loan spider remains active. Her future lodging and any later contact with Pelset remain unshown."
+          ],
+          "sequenceNote": "Proposed between A Darkness Written Under Skin and The Seventh Night within the Later Refoundings. The position is an undated editorial reconstruction; no common town, household or origin of witchcraft is established.",
+          "stories": [
+            "the-spiders-hunger"
+          ],
+          "window": {
+            "start": 23.5,
+            "end": 24.9
+          }
+        },
+        {
           "id": "event-the-seventh-night",
           "title": "The Seventh Night",
           "magicState": "new-magic",
@@ -3813,6 +3831,13 @@
         "end": 95.32
       },
       "note": "Established chronology places Ryo's material home frame before extinction. Its selected position immediately before Nell's home remains proposed and does not date his assignments. Both stories depart from a familiar life into histories their travelers cannot date. Nine years for Eiren and considerably more for Ryo do not determine elapsed time at home; the storm society and other destinations stay unplaced relative to the material sequence."
+    },
+    "the-spiders-hunger": {
+      "window": {
+        "start": 23.5,
+        "end": 24.9
+      },
+      "note": "An inn, a poucher who lends defensive spiders, hired carts and a sewing-shop investment support an established household economy. Living spiders consume workings while their pouches touch the wearer; repeated feeding can exhaust that protection. This proposed later magic-active placement establishes no common locality, ancestry or magical system with neighboring stories. The source leaves its position before extinction or after reawakening unresolved."
     }
   },
   "storyMoments": {
@@ -4937,6 +4962,12 @@
       "After fall nine hundred and ninety-nine, Rasden keeps the mend open through movement. Before the planned dawn attempt, spring melt breaks the Pilgrim Span's anchorage two ridges away; he crosses the two-mile road and supports the falling bridge.",
       "Repeated trips bring forty-three people to the rim, guided by Palla's observations. When the remaining anchorage tears free, Rasden's thousandth fall reaches four children in the hidden cradle; controlled deceleration, strength and continued stamina bring them and the bridge upward.",
       "All forty-seven survive. Rasden closes the mend and retains the achieved gains, receives Palla's thousandth knot and runs toward a more distant summit. The victory opens a larger personal horizon; no later school, campaign or feat is yet established."
+    ],
+    "the-spiders-hunger": [
+      "Ivrine notices that her familiar pouch spider is swollen, still and refusing flies on the day before her paid cart journey.",
+      "A poucher demonstrates that the spider is full of witchcraft and lends her a hungry replacement. Pelset then asks for her inheritance to repair the inn.",
+      "Ivrine conceals the replacement and witnesses Pelset directing workings at her while she pretends to sleep. She bars her door and has her trunk loaded that night.",
+      "Before dawn, the loan spider interrupts Pelset's attempt to force her hand open. The carter's arrival gives her an opening to leave with her money and both spiders; ordinary movement against her skin now makes her check who is nearby."
     ]
   },
   "storySpans": {
@@ -5709,6 +5740,11 @@
       "start": "Arrival during an ongoing fever",
       "end": "Rest with continuing care",
       "note": "The eight-minute blooms, forty-second floats, thirty-second softening and five-minute copies are local effect durations, not a complete illness clock. A quiet interval and small temperature fall do not establish recovery."
+    },
+    "the-spiders-hunger": {
+      "start": "A swollen protector on the day before departure",
+      "end": "Escape from the inn at first light",
+      "note": "Ivrine has kept her spider for eight years and returned home three weeks before departure; the burial was nine days before the shop visit. The investigation unfolds over one day, followed by a guarded night and a departure before dawn. Her familiar spider starts hunting again, while the loan spider remains active. Her future lodging and any later contact with Pelset remain unshown."
     }
   },
   "storyEvidence": {
@@ -5865,7 +5901,8 @@
     "the-second-wearing": "undated",
     "the-one-who-gets-tired": "undated",
     "the-station-between": "undated",
-    "roads-under-impossible-stars": "undated"
+    "roads-under-impossible-stars": "undated",
+    "the-spiders-hunger": "undated"
   },
   "connections": [
     {
