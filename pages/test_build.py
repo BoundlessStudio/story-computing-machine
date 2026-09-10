@@ -1,4 +1,5 @@
 import importlib.util
+import html
 import json
 import os
 import re
@@ -10,6 +11,7 @@ import unittest
 from collections import Counter
 from dataclasses import replace
 from pathlib import Path
+from unittest.mock import patch
 
 from PIL import Image
 
@@ -1359,14 +1361,7 @@ class StorySystemTests(unittest.TestCase):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
         published = {story.slug for story in catalog.stories}
-        placements = {
-            slug
-            for chapter in timeline.chapters
-            for slug in (
-                *chapter.stories,
-                *(slug for group in chapter.constellations for slug in group.stories),
-            )
-        }
+        placements = {slug for cycle in timeline.cycles for slug in cycle.stories}
 
         self.assertFalse((REPO / "stories/the-sky-remembers-us").exists())
         self.assertTrue((REPO / "stories/the-sky-remembers-us-return/story.md").is_file())
@@ -1392,236 +1387,512 @@ class StorySystemTests(unittest.TestCase):
     def test_stored_timeline_places_every_story_once(self):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
-        placements = [
-            slug
-            for chapter in timeline.chapters
-            for slug in (
-                *chapter.stories,
-                *(slug for group in chapter.constellations for slug in group.stories),
-            )
-        ]
-
+        placements = [slug for cycle in timeline.cycles for slug in cycle.stories]
         self.assertEqual(len(catalog.stories), len(placements))
         self.assertEqual({story.slug for story in catalog.stories}, set(placements))
-        self.assertTrue(all(count == 1 for count in Counter(placements).values()))
-        self.assertEqual(set(placements), set(timeline.story_confidence))
-        self.assertTrue(
-            {
-                "daughter-of-the-sun",
-                "the-first-wound",
-                "the-first-kingdom-was-late-on-taxes",
-                "the-small-moon-rose-first",
-                "tenth-world-lesson",
-                "the-count-was-131072",
-                "the-sky-remembers-us-return",
-            } <= set(timeline.story_spans),
-        )
+        self.assertEqual(len(placements), len(set(placements)))
+        self.assertEqual(set(placements), set(timeline.story_evidence))
+        self.assertEqual(set(placements), set(timeline.story_placements))
+        self.assertGreater(len(timeline.cycles), 4)
+        states = {slug: era.magic_state for cycle in timeline.cycles for era in cycle.eras for slug in era.stories}
+        self.assertEqual("old-magic", states["all-accounts-due"])
+        self.assertEqual("old-magic", states["strength-of-ten"])
+        self.assertEqual("long-dark", states["the-names-on-the-cups"])
+        self.assertEqual("new-magic", states["the-sky-remembers-us-return"])
+        self.assertIn("daughter-of-the-sun", timeline.story_spans)
+        self.assertIn("the-count-was-131072", timeline.story_spans)
+        self.assertIn("the-small-moon-rose-first", timeline.story_spans)
 
-        chapter_ids = [chapter.id for chapter in timeline.chapters]
-        self.assertEqual("ancient-guardians", chapter_ids[0])
-        self.assertEqual("second-sky-kingdoms", chapter_ids[-1])
-        self.assertLess(chapter_ids.index("old-modern-age"), chapter_ids.index("glass-sea-age"))
-        self.assertLess(chapter_ids.index("all-accounts-due"), chapter_ids.index("ordinary-present-and-familiar-lives"))
-        self.assertLess(chapter_ids.index("ordinary-present-and-familiar-lives"), chapter_ids.index("joined-sky"))
-        self.assertTrue(all(not chapter.ordered for chapter in timeline.chapters))
-
-        placements_by_chapter = {
-            chapter.id: [
-                *chapter.stories,
-                *(slug for group in chapter.constellations for slug in group.stories),
-            ]
-            for chapter in timeline.chapters
-        }
-        self.assertIn(
-            "solstice-evening-bell",
-            placements_by_chapter["old-modern-age"],
-        )
-        self.assertTrue(
-            {
-                "not-about-that",
-                "the-attendance-ledger",
-                "the-help-network",
-                "solstice-evening-bell",
-                "the-dress-they-brought-her",
-            } <= set(placements_by_chapter["old-modern-age"]),
-        )
-        self.assertNotIn(
-            "the-attendance-ledger",
-            placements_by_chapter["hero-and-villain-institutions"],
-        )
-        self.assertIn("the-count-was-131072", placements_by_chapter["museum-hinge"])
-        self.assertIn("the-room-that-waited", placements_by_chapter["great-falls-and-salvage"])
-        self.assertIn("apes-in-orbit", placements_by_chapter["orbital-watchers-and-successor-earths"])
-        self.assertIn("the-names-on-the-cups", placements_by_chapter["ordinary-present-and-familiar-lives"])
-        self.assertIn("four-million-falling", placements_by_chapter["great-falls-and-salvage"])
-        self.assertIn("the-night-harvest", placements_by_chapter["monsters-gods-and-avatars"])
-        self.assertIn("voice-of-silence", placements_by_chapter["colleges-and-apprenticeship-reform"])
-        self.assertIn("blade-calls-your-name", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
-        self.assertIn("golden-lion", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
-        self.assertIn("the-small-moon-rose-first", placements_by_chapter["ravel-bridge"])
-        self.assertIn("clerics-infernal-ex", placements_by_chapter["roads-markets-and-living-doors"])
-        self.assertIn("the-friends-i-built", placements_by_chapter["constructed-life-at-cinder-annex"])
-        self.assertIn("the-players-above", placements_by_chapter["arcane-infrastructure-and-engineered-peril"])
-        self.assertIn("the-station-between", placements_by_chapter["anomalies-beside-material-zero"])
-        self.assertIn("his-infernal-majesty-says-no", placements_by_chapter["visitors-at-the-door"])
-        self.assertIn("tenth-world-lesson", placements_by_chapter["assignment-bridge"])
-        self.assertIn("realms", placements_by_chapter["threshold-transit-and-unstable-travel"])
-        self.assertIn("where-no-unicorn-stands", placements_by_chapter["second-sky-kingdoms"])
-        self.assertIn("the-second-wearing", placements_by_chapter["unassigned-heirloom"])
-        states_by_chapter = {
-            chapter.id: chapter.magic_state for chapter in timeline.chapters
-        }
-        self.assertEqual("old-magic", states_by_chapter["all-accounts-due"])
-        self.assertEqual("long-dark", states_by_chapter["ordinary-present-and-familiar-lives"])
-        self.assertEqual("new-magic", states_by_chapter["joined-sky"])
-        self.assertTrue(all(
-            chapter.magic_state in build.TIMELINE_MAGIC_STATES
-            for chapter in timeline.chapters
-        ))
-        self.assertTrue(set(timeline.story_confidence.values()) <= build.PLACEMENT_CONFIDENCE)
+    def test_chronology_preserves_known_sequences_and_local_intervals(self):
+        timeline = build.load_timeline(build.load_catalog())
+        location = {slug: index
+                    for index, cycle in enumerate(timeline.cycles) for slug in cycle.stories}
+        early = location["not-about-that"]
+        attendance = location["the-attendance-ledger"]
+        help_network = location["the-help-network"]
+        bay = location["solstice-evening-bell"]
+        dress = location["the-dress-they-brought-her"]
+        museum = location["the-count-was-131072"]
+        self.assertLessEqual(early, bay)
+        self.assertEqual(attendance, help_network)
+        self.assertLessEqual(help_network, bay)
+        self.assertEqual(bay, dress)
+        self.assertEqual(bay, museum)
+        before = {(link.source, link.target) for link in timeline.connections if link.ordering == "before"}
+        for pair in (("the-attendance-ledger", "the-help-network"),
+                     ("not-about-that", "solstice-evening-bell"),
+                     ("the-help-network", "solstice-evening-bell"),
+                     ("solstice-evening-bell", "the-dress-they-brought-her"),
+                     ("the-dress-they-brought-her", "the-count-was-131072"),
+                     ("voice-of-silence", "a-lock-on-the-inside")):
+            self.assertIn(pair, before)
+        self.assertLessEqual(bay, location["daughter-of-the-sun"])
+        self.assertIn(("solstice-evening-bell", "daughter-of-the-sun"), before)
+        self.assertLess(location["the-small-moon-rose-first"], location["daughter-of-the-sun"])
+        self.assertLess(location["all-accounts-due"], location["the-names-on-the-cups"])
+        self.assertLess(location["the-names-on-the-cups"], location["the-sky-remembers-us-return"])
+        old = [slug for cycle in timeline.cycles for era in cycle.eras if era.magic_state == "old-magic" for slug in era.stories]
+        new = [slug for cycle in timeline.cycles for era in cycle.eras if era.magic_state == "new-magic" for slug in era.stories]
+        self.assertEqual("all-accounts-due", old[-1])
+        self.assertEqual("the-sky-remembers-us-return", new[0])
+        order = {"old-magic": 0, "long-dark": 1, "new-magic": 2}
+        states = [order[era.magic_state] for cycle in timeline.cycles for era in cycle.eras if era.magic_state in order]
+        self.assertEqual(sorted(states), states)
+        self.assertEqual(location["voice-of-silence"], location["a-lock-on-the-inside"])
 
     def test_timeline_accepts_collection_growth_without_fixed_totals(self):
         catalog = build.load_catalog()
         extra = replace(catalog.stories[0], slug="additional-story")
         expanded = build.Catalog((*catalog.stories, extra))
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
-        value["chapters"][0]["stories"].append(extra.slug)
+        value["cycles"][-1]["eras"].append({
+            "id": "additional-era", "title": "Another inhabited horizon", "magicState": "new-magic",
+            "description": "A later society has another history to tell.",
+            "context": ["A distinct civic setting.", "An inherited local technology."],
+            "sequenceNote": "A proposed later period.", "stories": [extra.slug],
+            "window": {"start": 20, "end": 80},
+        })
+        value["storyPlacements"][extra.slug] = {"window": {"start": 20, "end": 80}, "note": "A proposed story horizon."}
+        value["storyEvidence"][extra.slug] = "contextual"
         with tempfile.TemporaryDirectory() as temporary:
             path = Path(temporary) / "timeline.json"
             path.write_text(json.dumps(value), encoding="utf-8")
             timeline = build.load_timeline(expanded, path)
-        self.assertEqual(len(expanded.stories), len(timeline.story_confidence))
-        self.assertIn(extra.slug, timeline.chapters[0].stories)
+        self.assertEqual(len(expanded.stories), len(timeline.story_placements))
+        self.assertIn(extra.slug, timeline.cycles[-1].stories)
+        self.assertIn('id="era-additional-era"', build.render_timeline(expanded, timeline))
+        self.assertIn(f'id="story-{extra.slug}"', build.render_timeline(expanded, timeline))
 
     def test_timeline_rejects_duplicate_story_placement(self):
         catalog = build.load_catalog()
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
-        duplicated_slug = value["chapters"][0]["stories"][0]
-        value["chapters"][1]["stories"].append(duplicated_slug)
-
+        value["cycles"][1]["eras"][0]["stories"].append(value["cycles"][0]["eras"][0]["stories"][0])
         with tempfile.TemporaryDirectory() as temporary:
-            timeline_path = Path(temporary) / "timeline.json"
-            timeline_path.write_text(json.dumps(value), encoding="utf-8")
+            path = Path(temporary) / "timeline.json"
+            path.write_text(json.dumps(value), encoding="utf-8")
             with self.assertRaisesRegex(ValueError, "repeats already placed stories"):
-                build.load_timeline(catalog, timeline_path)
+                build.load_timeline(catalog, path)
 
-    def test_timeline_render_uses_decorative_hero_art(self):
+    def test_worldline_renders_one_chronology_with_native_era_disclosures(self):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
+        eras = [era for cycle in timeline.cycles for era in cycle.eras]
+        self.assertEqual(len(catalog.stories), rendered.count('class="worldline-event '))
+        self.assertEqual(len(catalog.stories), rendered.count('class="atlas-cover"'))
+        self.assertEqual(len(timeline.cycles), rendered.count("data-cycle-section="))
+        self.assertEqual(len(eras), rendered.count("data-era-section="))
+        self.assertEqual(len(eras), rendered.count('data-era-dialog'))
+        self.assertEqual(len(timeline.connections), rendered.count("data-thread-kind="))
+        self.assertEqual(len(catalog.stories), rendered.count('Era placement proposed'))
+        for obsolete in ('Fixed anchor', 'data-position=', 'data-horizon-era=',
+                         'Orbital cycle navigator', 'data-weave', 'data-depth-picker',
+                         'data-depth-history', 'data-atlas-state', 'data-atlas-cycle',
+                         'data-era-stop', 'reading cycle'):
+            self.assertNotIn(obsolete, rendered)
+        self.assertEqual(1, rendered.count('class="worldline" id="atlas-explore"'))
+        self.assertNotIn('aria-label="The great ages"', rendered)
+        self.assertEqual(1, rendered.count('aria-label="Historical lens"'))
+        self.assertEqual(1, rendered.count('data-cycle-picker'))
+        rendered_order = re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"', rendered)
+        self.assertEqual([slug for cycle in timeline.cycles for slug in cycle.stories], rendered_order)
+        articles = dict(re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"[^>]*>(.*?)</article>', rendered, re.S))
+        for slug, article in articles.items():
+            with self.subTest(story=slug):
+                self.assertEqual(2, article.count(f'href="stories/{slug}.html"'))
+                self.assertIn('<details class="event-details" data-event-details><summary>', article)
+                moments = timeline.story_moments.get(slug, ())
+                self.assertEqual(bool(moments), f'id="depth-{slug}"' in article)
+                for moment in moments:
+                    self.assertIn(f'<li>{html.escape(moment, quote=True)}</li>', article)
+                if slug in timeline.story_spans:
+                    self.assertIn(html.escape(timeline.story_spans[slug].note, quote=True), article)
+        self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', rendered)))
+        for era in eras:
+            with self.subTest(era=era.id):
+                panel = rendered.split(f'<details class="history-era state-{era.magic_state}" id="era-{era.id}"', 1)[1].split('</dialog></details>', 1)[0]
+                self.assertIn('<summary class="era-stop">', panel)
+                self.assertIn(f'<dialog class="era-dialog" aria-labelledby="era-title-{era.id}" data-era-dialog>', panel)
+                self.assertIn(f'<h3 id="era-title-{era.id}">', panel)
+                self.assertEqual(list(era.stories), re.findall(r'data-story-slug="([^"]+)"', panel))
+                self.assertNotIn('<dialog open', panel)
+        self.assertIn('<details class="connections-library" id="atlas-threads"><summary>', rendered)
+        self.assertIn('data-connections-dialog aria-label="Connections across history"', rendered)
+        ids = re.findall(r'\bid="([^" ]+)"', rendered)
+        self.assertEqual(len(ids), len(set(ids)))
+        for target in re.findall(r'href="#([^" ]+)"', rendered):
+            self.assertIn(target, ids, f"Broken atlas fragment: {target}")
+        for label in ("Galactic Cycle", "spacing is schematic", "Direct connection", "Thematic echo", "Date unresolved"):
+            self.assertIn(label, rendered)
+        self.assertIn('role="status"', rendered)
+        self.assertIn('href="atlas.css"', rendered)
+        self.assertIn("Life in this era", rendered)
+        self.assertIn("regional stories may overlap in time", rendered)
+        self.assertIn("May share a horizon with", rendered)
+        self.assertIn("Historical hypothesis", rendered)
+        self.assertIn('A remembered event can reach beyond its story’s proposed era', rendered)
+        without_spans = build.render_timeline(catalog, replace(timeline, story_spans={}))
+        self.assertNotIn('class="story-span"', without_spans)
+        self.assertNotIn('data-depth-dialog', without_spans)
+        self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', without_spans)))
 
-        story_links = re.findall(r'href="stories/([^"/]+)\.html"', rendered)
-        self.assertEqual(len(catalog.stories), len(story_links))
-        self.assertEqual({story.slug for story in catalog.stories}, set(story_links))
-        self.assertTrue(all(count == 1 for count in Counter(story_links).values()))
-        self.assertNotIn('<img src="timeline-icons/', rendered)
-        self.assertEqual(len(catalog.stories), rendered.count('<img src="covers/'))
-        self.assertEqual(len(catalog.stories), rendered.count("data-story-marker"))
-        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-name marker-'))
-        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-cover"'))
-        self.assertNotIn('class="signal-story-copy"', rendered)
-        self.assertNotIn('class="signal-story-note"', rendered)
-        self.assertNotIn('class="signal-story-arrow"', rendered)
-        self.assertEqual(len(timeline.chapters), rendered.count("data-era-stop"))
-        self.assertEqual(len(timeline.chapters), rendered.count('style="--era-hue:'))
-        self.assertEqual(14, rendered.count("data-epoch-section"))
-        self.assertEqual(14, rendered.count('style="--epoch-hue:'))
-        self.assertEqual(14, rendered.count('class="signal-world-texture"'))
-        self.assertEqual(3, rendered.count("data-cycle-link"))
-        self.assertIn('<figure class="signal-hero-art" aria-hidden="true">', rendered)
-        self.assertIn('<img src="worldline-hero-art.webp" alt=""', rendered)
-        hero_section = rendered[
-            rendered.index('<section class="signal-hero">') : rendered.index(
-                "</section>", rendered.index('<section class="signal-hero">')
-            )
+    def test_long_histories_are_discoverable_without_duplicate_story_placement(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        slug = "the-small-moon-rose-first"
+        unsafe = '\"><script>unplaced history</script> & "a clock"'
+        spans = dict(timeline.story_spans)
+        spans[slug] = build.TimelineSpan(unsafe, unsafe, unsafe)
+        rendered = build.render_timeline(catalog, replace(timeline, story_spans=spans))
+        self.assertEqual(len(spans), rendered.count('data-time-fold '))
+        self.assertEqual(1, rendered.count(f'id="story-{slug}"'))
+        self.assertEqual(1, rendered.count('id="atlas-depths"'))
+        self.assertIn('data-depth-dialog aria-labelledby="deep-history-title"', rendered)
+        self.assertIn('Each path follows a story’s experience, not the order of world eras.', rendered)
+        self.assertNotIn(unsafe, rendered)
+        escaped = html.escape(unsafe, quote=True)
+        self.assertIn(f'<span>{escaped}</span>', rendered)
+        article = rendered.split(f'id="story-{slug}"', 1)[1].split('</article>', 1)[0]
+        self.assertIn(escaped, article.split('data-search="', 1)[1].split('">', 1)[0])
+        for source_slug in spans:
+            self.assertIn(f'<a href="#story-{source_slug}">', rendered)
+
+    def test_worldline_escapes_editorial_text_in_panels_and_search_attributes(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        unsafe = '\"><script>alert("history")</script> & <new era>'
+        escaped = html.escape(unsafe, quote=True)
+        first_cycle = timeline.cycles[0]
+        first_era = first_cycle.eras[0]
+        slug = first_era.stories[0]
+        catalog = replace(catalog, stories=tuple(replace(story, title=unsafe) if story.slug == slug else story
+                                                for story in catalog.stories))
+        altered_era = replace(first_era, title=unsafe, description=unsafe, context=(unsafe, unsafe))
+        altered_cycle = replace(first_cycle, title=unsafe, eyebrow=unsafe, eras=(altered_era, *first_cycle.eras[1:]))
+        placements = dict(timeline.story_placements)
+        placements[slug] = replace(placements[slug], note=unsafe)
+        moments = dict(timeline.story_moments)
+        moments[slug] = (unsafe,)
+        connection = replace(timeline.connections[0], label=unsafe, note=unsafe)
+        altered = replace(timeline, cycles=(altered_cycle, *timeline.cycles[1:]), story_placements=placements,
+                          story_moments=moments, connections=(connection, *timeline.connections[1:]))
+        rendered = build.render_timeline(catalog, altered)
+        self.assertNotIn('<script>alert(', rendered)
+        self.assertNotIn('<new era>', rendered)
+        self.assertIn(f'aria-label="Read {escaped}"', rendered)
+        self.assertIn(f'<h3 id="era-title-{first_era.id}">{escaped}</h3>', rendered)
+        self.assertIn(f'<li>{escaped}</li>', rendered)
+        self.assertIn(f'<p class="cycle-context">{escaped}</p>', rendered)
+        self.assertIn(f'<p>{escaped}</p>', rendered)
+        self.assertIn(f'data-search="{escaped} ', rendered)
+
+    def test_admitted_magical_histories_cannot_cross_the_extinction_boundary(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        # Test the authority boundary, not a preferred editorial cohort.
+        # These two regressions come from LOCKED universe entries even though
+        # their story-package flags are false. Do not filter by catalog.canon.
+        self.assertTrue({"tenth-world-lesson", "life-with-a-girlfriend-with-shrinking-powers"}
+                        <= build.PRE_EXTINCTION_MATERIAL_HISTORIES)
+        for slug in build.PRE_EXTINCTION_MATERIAL_HISTORIES:
+            for state in ("long-dark", "new-magic"):
+                with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
+                    value = json.loads(json.dumps(original))
+                    source = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                  if slug in era["stories"])
+                    source["stories"].remove(slug)
+                    if not source["stories"]:
+                        for cycle in value["cycles"]:
+                            cycle["eras"] = [era for era in cycle["eras"] if era is not source]
+                    destination = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                       if era["magicState"] == state)
+                    destination["stories"].append(slug)
+                    value["storyPlacements"][slug]["window"] = destination["window"].copy()
+                    path = Path(temporary) / "timeline.json"
+                    path.write_text(json.dumps(value), encoding="utf-8")
+                    with self.assertRaisesRegex(ValueError, "must precede the old magic extinction"):
+                        build.load_timeline(catalog, path)
+
+    def test_boundary_guard_preserves_explicitly_open_later_histories(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        # A material effect with an unresolved category may fit the Long Dark;
+        # later active-magic admissions can leave either magic-active side open.
+        for slug, state in (("the-night-harvest", "long-dark"),
+                            ("there-goes-your-name", "old-magic"),
+                            ("a-throne-neither-wanted", "new-magic")):
+            with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                source = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                              if slug in era["stories"])
+                source["stories"].remove(slug)
+                for thread in value["historyThreads"]:
+                    for stage in thread["stages"]:
+                        stage["anchors"] = list(dict.fromkeys(
+                            source["stories"][0] if anchor == slug else anchor for anchor in stage["anchors"]))
+                destination = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                   if era["magicState"] == state)
+                destination["stories"].append(slug)
+                value["storyPlacements"][slug]["window"] = destination["window"].copy()
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                loaded = build.load_timeline(catalog, path)
+                states = {item: era.magic_state for cycle in loaded.cycles for era in cycle.eras for item in era.stories}
+                self.assertEqual(state, states[slug])
+
+    def test_magic_boundaries_can_divide_an_orbit_but_not_reverse_its_history(self):
+        timeline = build.load_timeline(build.load_catalog())
+        for anchor, extinction in (("all-accounts-due", True), ("the-sky-remembers-us-return", False)):
+            with self.subTest(boundary=anchor):
+                cycle = next(cycle for cycle in timeline.cycles if anchor in cycle.stories)
+                self.assertEqual("mixed", cycle.magic_state)
+                dark_story = next(slug for era in cycle.eras if era.magic_state == "long-dark" for slug in era.stories)
+                placements = dict(timeline.story_placements)
+                early, late = build.TimelineWindow(0, 1), build.TimelineWindow(99, 100)
+                placements[anchor] = replace(placements[anchor], window=late if extinction else early)
+                placements[dark_story] = replace(placements[dark_story], window=early if extinction else late)
+                with self.assertRaisesRegex(ValueError, "contradicts"):
+                    build._validate_timeline_order(timeline.cycles, placements, ())
+
+    def test_history_currents_show_the_whole_world_and_escape_their_accounts(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        unsafe = '\"><script>invented descent</script>'
+        thread = timeline.history_threads[0]
+        changed = replace(thread, title=unsafe, description=unsafe,
+                          stages=(replace(thread.stages[0], title=unsafe, note=unsafe), *thread.stages[1:]))
+        rendered = build.render_timeline(catalog, replace(timeline, history_threads=(changed, *timeline.history_threads[1:])))
+        self.assertNotIn(unsafe, rendered)
+        self.assertIn(html.escape(unsafe, quote=True), rendered)
+        self.assertEqual(len(timeline.history_threads), rendered.count('data-history-thread '))
+        self.assertEqual(sum(len(item.stages) for item in timeline.history_threads), rendered.count('data-history-stage '))
+        self.assertLess(rendered.index('id="atlas-currents"'), rendered.index('id="atlas-explore"'))
+        self.assertIn('the thread alone does not establish descent', rendered)
+        for cycle in timeline.cycles:
+            self.assertIn(f'href="#cycle-{cycle.id}"', rendered)
+            self.assertIn(f'<p class="cycle-history">{html.escape(cycle.description, quote=True)}</p>', rendered)
+
+    def test_atlas_lenses_share_cycles_without_recategorizing_story_placements(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        rendered = build.render_timeline(catalog, timeline)
+        lens_ids = ["all", *(thread.id for thread in timeline.history_threads)]
+        cycle_ids = [cycle.id for cycle in timeline.cycles]
+        cycles = {cycle.id: cycle for cycle in timeline.cycles}
+        ordered_stories = [slug for cycle in timeline.cycles for slug in cycle.stories]
+        stages = {(thread.id, stage.cycle_id): stage
+                  for thread in timeline.history_threads for stage in thread.stages}
+
+        def map_views(document):
+            return dict(re.findall(
+                r'<div class="map-view [^"]*"[^>]*data-lens-view="([^"]+)"[^>]*>(.*?)</div>',
+                document, re.S))
+
+        def desk_accounts(document):
+            result = {}
+            for attributes, body in re.findall(
+                    r'<article class="desk-account"([^>]*)>(.*?)</article>', document, re.S):
+                lens = re.search(r'data-account-lens="([^"]+)"', attributes).group(1)
+                cycle = re.search(r'data-account-cycle="([^"]+)"', attributes).group(1)
+                self.assertNotIn((lens, cycle), result)
+                result[lens, cycle] = (attributes, body)
+            return result
+
+        views = map_views(rendered)
+        self.assertEqual(len(lens_ids), rendered.count('data-lens-view='))
+        self.assertEqual(lens_ids, list(views))
+        self.assertEqual(ordered_stories, re.findall(r'data-map-story="([^"]+)"', views["all"]))
+        for lens, view in views.items():
+            with self.subTest(lens=lens):
+                self.assertEqual(cycle_ids, re.findall(r'data-map-cycle="([^"]+)"', view))
+                if lens != "all":
+                    expected = [slug for cycle_id in cycle_ids if (lens, cycle_id) in stages
+                                for slug in stages[lens, cycle_id].anchors]
+                    self.assertEqual(expected, re.findall(r'data-map-story="([^"]+)"', view))
+
+        accounts = desk_accounts(rendered)
+        self.assertEqual({(lens, cycle) for lens in lens_ids for cycle in cycle_ids}, set(accounts))
+        visible = [key for key, (attributes, _) in accounts.items()
+                   if not re.search(r'(?:^|\s)hidden(?:\s|$)', attributes)]
+        self.assertEqual([("all", cycle_ids[0])], visible)
+        for (lens, cycle_id), (_, body) in accounts.items():
+            with self.subTest(account=(lens, cycle_id)):
+                anchors = re.findall(r'href="#story-([^"]+)"', body)
+                self.assertTrue(set(anchors) <= set(cycles[cycle_id].stories))
+                if lens != "all":
+                    stage = stages.get((lens, cycle_id))
+                    self.assertEqual(list(stage.anchors) if stage else [], anchors)
+                    if stage:
+                        self.assertIn(html.escape(stage.note, quote=True), body)
+                self.assertIn(f'href="#cycle-{cycle_id}"', body)
+                self.assertIn(f'Explore all {len(cycles[cycle_id].stories)} stories in this cycle', body)
+        self.assertIn('selected accounts, not exhaustive categories', rendered)
+        self.assertNotIn('data-phase-link', rendered)
+        self.assertNotIn('href="#phase-', rendered)
+        self.assertEqual(ordered_stories, re.findall(r'data-story-slug="([^"]+)"', rendered))
+
+        thread = timeline.history_threads[0]
+        removed_stage = thread.stages[0]
+        changed = replace(thread, stages=thread.stages[1:])
+        with_gap = build.render_timeline(catalog, replace(
+            timeline, history_threads=(changed, *timeline.history_threads[1:])))
+        gap_view = map_views(with_gap)[thread.id]
+        self.assertEqual([slug for stage in changed.stages for slug in stage.anchors],
+                         re.findall(r'data-map-story="([^"]+)"', gap_view))
+        _, gap_account = desk_accounts(with_gap)[thread.id, removed_stage.cycle_id]
+        self.assertIn('No account selected', gap_account)
+        self.assertEqual([], re.findall(r'href="#story-([^"]+)"', gap_account))
+        self.assertEqual(ordered_stories, re.findall(r'data-story-slug="([^"]+)"', with_gap))
+
+    def test_cycle_icons_stay_with_their_cycles_across_history_lenses(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        rendered = build.render_timeline(catalog, timeline)
+        expected_icons = {cycle.id: f"cycle-icons/{cycle.id}.png" for cycle in timeline.cycles}
+        lens_ids = ["all", *(thread.id for thread in timeline.history_threads)]
+        views = re.findall(
+            r'<div class="map-view [^"]*"[^>]*data-lens-view="([^"]+)"[^>]*>(.*?)</div>',
+            rendered, re.S)
+        self.assertEqual(lens_ids, [lens for lens, _ in views])
+        for lens, view in views:
+            map_cycles = re.findall(
+                r'<a class="map-cycle"[^>]*data-map-cycle="([^"]+)"[^>]*>(.*?)</a>',
+                view, re.S)
+            self.assertEqual(list(expected_icons), [cycle for cycle, _ in map_cycles])
+            for cycle, body in map_cycles:
+                with self.subTest(lens=lens, cycle=cycle, illustration="map"):
+                    window = re.search(r'<span class="map-window"[^>]*>(.*?)</span>', body, re.S)
+                    self.assertIsNotNone(window)
+                    self.assertEqual([expected_icons[cycle]],
+                                     re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', window.group(1)))
+
+        accounts = re.findall(r'<article class="desk-account"([^>]*)>(.*?)</article>', rendered, re.S)
+        self.assertEqual(len(lens_ids) * len(expected_icons), len(accounts))
+        for attributes, body in accounts:
+            lens = re.search(r'data-account-lens="([^"]+)"', attributes).group(1)
+            cycle = re.search(r'data-account-cycle="([^"]+)"', attributes).group(1)
+            with self.subTest(lens=lens, cycle=cycle, illustration="desk"):
+                illustration = re.search(r'<div class="desk-illustration"[^>]*>(.*?)</div>', body, re.S)
+                self.assertIsNotNone(illustration)
+                self.assertEqual([expected_icons[cycle]],
+                                 re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', illustration.group(1)))
+
+    def test_history_current_cannot_cite_a_story_in_the_wrong_orbit(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        mutations = (
+            ("wrong orbit", lambda v: v["historyThreads"][0]["stages"][0].update(anchors=v["cycles"][-1]["eras"][0]["stories"][:1]), "placed in its cycle"),
+            ("empty anchors", lambda v: v["historyThreads"][0]["stages"][0].update(anchors=[]), "one to three"),
+            ("unknown kind", lambda v: v["historyThreads"][0]["stages"][0].update(kind="canonical-descent"), "unsupported kind"),
+            ("duplicate thread", lambda v: v["historyThreads"].append(v["historyThreads"][0]), "duplicate id"),
+            ("backward stages", lambda v: v["historyThreads"][0]["stages"].reverse(), "in order"),
+        )
+        for name, mutate, error in mutations:
+            with self.subTest(case=name), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                mutate(value)
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                with self.assertRaisesRegex(ValueError, error):
+                    build.load_timeline(catalog, path)
+
+    def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        cycle_index, era_index = next((ci, ei) for ci, cycle in enumerate(original["cycles"])
+                                     for ei, era in enumerate(cycle["eras"]) if len(era["stories"]) > 1)
+        def members(value):
+            return value["cycles"][cycle_index]["eras"][era_index]["stories"]
+        first, second = members(original)[:2]
+        mutations = (
+            ("missing story", lambda v: members(v).pop(), "missing published stories"),
+            ("no eras", lambda v: v["cycles"][0].update(eras=[]), "eras must be a non-empty list"),
+            ("duplicate era", lambda v: v["cycles"][-1]["eras"][-1].update(id=v["cycles"][0]["eras"][0]["id"]), "duplicate id"),
+            ("empty context", lambda v: v["cycles"][0]["eras"][0].update(context=[]), "two to four historical observations"),
+            ("blank context", lambda v: v["cycles"][0]["eras"][0].update(context=["", "A place."]), "non-empty string"),
+            ("missing position", lambda v: v["storyPlacements"].pop(first), "cover every published story"),
+            ("empty rationale", lambda v: v["storyPlacements"][first].update(note=""), "non-empty string"),
+            ("non-finite window", lambda v: v["storyPlacements"][first]["window"].update(start=float("nan")), "must be finite"),
+            ("out of cycle", lambda v: v["storyPlacements"][first]["window"].update(end=101), "0 <= start < end <= 100"),
+            ("empty window", lambda v: v["storyPlacements"][first].update(window={"start": 20, "end": 20}), "0 <= start < end <= 100"),
+            ("outside era", lambda v: v["storyPlacements"][first].update(window={"start": 0, "end": 100}), "outside its era"),
+            ("invalid evidence", lambda v: v["storyEvidence"].update({first: "fixed"}), "storyEvidence"),
+            ("unknown connection", lambda v: v["connections"][0].update(to="nonexistent-story"), "Connection endpoints"),
+            ("self connection", lambda v: v["connections"][0].update(to=v["connections"][0]["from"]), "Connection endpoints"),
+            ("unknown kind", lambda v: v["connections"][0].update(kind="sequel-maybe"), "Connection kind"),
+            ("unknown ordering", lambda v: v["connections"][0].update(ordering="possibly"), "Connection ordering"),
+            ("false authority", lambda v: v["connections"][0].update(kind="historical", basis="established"), "basis and ordering"),
+        )
+        for name, mutate, error in mutations:
+            with self.subTest(name=name), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                mutate(value)
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                with self.assertRaisesRegex(ValueError, error):
+                    build.load_timeline(catalog, path)
+
+    def test_chronology_accepts_overlapping_lives_without_imposing_display_order(self):
+        catalog = build.load_catalog()
+        value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        era = next(era for cycle in value["cycles"] for era in cycle["eras"] if len(era["stories"]) >= 3)
+        era["window"] = {"start": 0, "end": 100}
+        for slug in era["stories"]:
+            value["storyPlacements"][slug]["window"] = {"start": 10, "end": 90}
+        a, b, c = era["stories"][:3]
+        value["connections"] = [
+            {"id": f"test-link-{index}", "from": source, "to": target, "kind": "direct",
+             "ordering": "before", "basis": "established", "label": "A local sequence", "note": "Test sequence."}
+            for index, (source, target) in enumerate(((a, b), (b, c)))
         ]
-        for removed_stat in ("Epochs", "Named eras", "Stories plotted", "Fixed anchors"):
-            self.assertNotIn(f"<dt>{removed_stat}</dt>", hero_section)
-        hero_start = rendered.index('<figure class="signal-hero-art"')
-        hero_end = rendered.index('</figure>', hero_start)
-        hero_markup = rendered[hero_start:hero_end]
-        self.assertNotIn("<a ", hero_markup)
-        self.assertNotIn("role=", hero_markup)
-        self.assertNotIn("data-hero-", rendered)
-        self.assertNotIn("signal-folded-worldline", rendered)
-        self.assertNotIn("folded-epoch", rendered)
-        self.assertNotIn("folded-hinge", rendered)
-        self.assertNotIn("signal-cycle-diagram", rendered)
-        self.assertNotIn("diagram-baseline", rendered)
-        self.assertNotIn("diagram-stage-label", rendered)
-        self.assertNotIn("diagram_y", rendered)
-        self.assertNotIn("signal-preview", rendered)
-        self.assertNotIn("perfect zero</span>", rendered)
-        self.assertIn("One worldline · 14 civilizational epochs", rendered)
-        self.assertIn("The Worldline", rendered)
-        self.assertIn("World age I", rendered)
-        self.assertIn("World age II", rendered)
-        self.assertIn("World age III", rendered)
-        self.assertIn("Old Magic", rendered)
-        self.assertIn("The Long Dark", rendered)
-        self.assertIn("New Magic", rendered)
-        self.assertIn("Material Refounding", rendered)
-        self.assertIn("Crowns Without Magic", rendered)
-        self.assertIn("The Machine Rise", rendered)
-        self.assertIn("The Great Falls", rendered)
-        self.assertIn("Successor & Orbital Civilizations", rendered)
-        self.assertIn("Magic Refounded", rendered)
-        self.assertIn("The Public-Magic Height", rendered)
-        self.assertIn("Guild Blades, Gaslight Houses &amp; Engineers", rendered)
-        self.assertIn("Synthetic Bodies &amp; War Legacies", rendered)
-        self.assertIn("Great Falls &amp; Salvage", rendered)
-        self.assertIn("Orbital Watchers &amp; Successor Earths", rendered)
-        self.assertIn("The Assignment Bridge", rendered)
-        self.assertIn("Hero &amp; Villain Institutions", rendered)
-        self.assertIn("Second-Sky Kingdoms", rendered)
-        self.assertIn("No magic + networked tech", rendered)
-        self.assertIn("Normals + exceptional actors", rendered)
-        self.assertIn("Humans + synthetics", rendered)
-        self.assertIn("Humans + dragons + slimes", rendered)
-        self.assertIn("New magic + high tech", rendered)
-        self.assertIn("Supers + normals", rendered)
-        self.assertIn("Humans + monsters + gods", rendered)
-        self.assertIn('class="signal-worldline"', rendered)
-        self.assertIn('class="signal-skip-link"', rendered)
-        self.assertIn("Close era indexes", rendered)
-        self.assertNotIn("data-timeline-filter", rendered)
-        self.assertNotIn("data-timeline-search", rendered)
-        self.assertNotIn("data-visible-total", rendered)
-        self.assertNotIn("stories in view", rendered)
-        self.assertIn("Fixed anchor", rendered)
-        self.assertIn("Relative link", rendered)
-        self.assertIn("Compatible candidate", rendered)
-        self.assertIn("Working era fit", rendered)
-        self.assertIn('<strong>Placement evidence</strong>', rendered)
-        self.assertIn('aria-label="Placement evidence legend"', rendered)
-        self.assertIn('aria-label="The Room That Waited"', rendered)
-        self.assertIn('aria-label="The Station Between"', rendered)
-        self.assertIn('data-placement-confidence="fixed"', rendered)
-        self.assertIn('data-placement-confidence="inferred"', rendered)
-        self.assertIn('data-placement-confidence="speculative"', rendered)
-        self.assertIn('data-placement-confidence="unresolved"', rendered)
-        self.assertNotIn("timeline-cover-frame", rendered)
-        self.assertNotIn("timeline-cover-grid", rendered)
-        self.assertNotIn("timeline-covers/", rendered)
-        self.assertNotIn("Off-Axis", rendered)
-        self.assertNotIn("data-offaxis-drawer", rendered)
-        self.assertNotIn("signal-coda", rendered)
-        self.assertNotIn("The rule of the line", rendered)
-        self.assertNotIn("The rhythm of the line", rendered)
-        self.assertIn(
-            '<footer class="signal-continuation" aria-labelledby="signal-continuation-title">',
-            rendered,
-        )
-        self.assertIn("Past the last plotted age", rendered)
-        self.assertIn("The line goes on.", rendered)
-        self.assertIn("unnamed ages are already beginning", rendered)
-        self.assertLess(
-            rendered.index('id="epoch-second-sky-rise"'),
-            rendered.index('class="signal-continuation"'),
-        )
-        self.assertIn('<body class="timeline-body">', rendered)
-        self.assertIn('<script src="timeline.js" defer></script>', rendered)
-        self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
+        era["stories"].reverse()
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "timeline.json"
+            path.write_text(json.dumps(value), encoding="utf-8")
+            timeline = build.load_timeline(catalog, path)
+        self.assertEqual(timeline.story_placements[a].window, timeline.story_placements[c].window)
+        self.assertEqual({(a, b), (b, c)}, {(link.source, link.target) for link in timeline.connections})
+
+    def test_chronology_rejects_circular_and_transitively_impossible_history(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        for circular in (True, False):
+            with self.subTest(circular=circular), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                era = next(era for cycle in value["cycles"] for era in cycle["eras"] if len(era["stories"]) >= 3)
+                era["window"] = {"start": 0, "end": 100}
+                a, b, c = era["stories"][:3]
+                for slug in era["stories"]:
+                    value["storyPlacements"][slug]["window"] = {"start": 10, "end": 90}
+                edges = [(a, b), (b, c)]
+                if circular:
+                    edges.append((c, a))
+                else:
+                    value["storyPlacements"][a]["window"] = {"start": 50, "end": 70}
+                    value["storyPlacements"][c]["window"] = {"start": 30, "end": 45}
+                value["connections"] = [
+                    {"id": f"test-link-{index}", "from": source, "to": target, "kind": "direct",
+                     "ordering": "before", "basis": "established", "label": "A local sequence", "note": "Test sequence."}
+                    for index, (source, target) in enumerate(edges)
+                ]
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                with self.assertRaisesRegex(ValueError, "contain a cycle" if circular else "contradicts"):
+                    build.load_timeline(catalog, path)
+
+    def test_evidence_does_not_certify_proposed_era_coordinates(self):
+        timeline = build.load_timeline(build.load_catalog())
+        self.assertEqual({"all-accounts-due", "the-sky-remembers-us-return"},
+                         {slug for slug, evidence in timeline.story_evidence.items() if evidence == "boundary"})
+        self.assertEqual("constrained", timeline.story_evidence["strength-of-ten"])
+        rendered = build.render_timeline(build.load_catalog(), timeline)
+        card = rendered.split('id="story-strength-of-ten"', 1)[1].split('</article>', 1)[0]
+        self.assertIn("Established constraint", card)
+        self.assertIn("Era placement proposed", card)
+        self.assertNotIn("Late in cycle", card)
+        historical = [link for link in timeline.connections if link.kind == "historical"]
+        self.assertTrue(historical)
+        self.assertTrue(all(link.basis == "proposed" for link in historical))
 
     def test_every_page_renders_shared_theme_controls_and_prepaint_bootstrap(self):
         catalog = build.load_catalog()
@@ -1701,6 +1972,7 @@ class StorySystemTests(unittest.TestCase):
             self.assertTrue((output / "theme.js").is_file())
             self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
+            self.assertTrue((output / "atlas.css").is_file())
             self.assertEqual(
                 (REPO / "pages/theme.js").read_bytes(),
                 (output / "theme.js").read_bytes(),
@@ -1708,6 +1980,13 @@ class StorySystemTests(unittest.TestCase):
             hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
             self.assertTrue(hero_art.is_file())
             self.assertEqual(build.WORLDLINE_HERO_ART_PATH.read_bytes(), hero_art.read_bytes())
+            timeline = build.load_timeline(catalog)
+            icon_names = {f"{cycle.id}.png" for cycle in timeline.cycles}
+            self.assertEqual(icon_names, {path.name for path in (output / "cycle-icons").iterdir()})
+            for name in icon_names:
+                self.assertEqual((build.CYCLE_ICONS_PATH / name).read_bytes(),
+                                 (output / "cycle-icons" / name).read_bytes())
+            self.assertFalse((output / "cycle-icons" / "prompts.json").exists())
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
@@ -1725,6 +2004,23 @@ class StorySystemTests(unittest.TestCase):
             timeline_page = (output / "timeline.html").read_text(encoding="utf-8")
             self.assertNotIn("data-timeline-filter", timeline_page)
             self.assertNotIn("data-timeline-search", timeline_page)
+
+    def test_missing_cycle_icons_stop_build_before_replacing_output(self):
+        timeline = build.load_timeline(build.load_catalog())
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary) / "site"
+            output.mkdir()
+            previous = output / "previous-build.html"
+            previous.write_text("Keep the existing site", encoding="utf-8")
+            icons = Path(temporary) / "missing-icons"
+            icons.mkdir()
+            with patch.object(build, "CYCLE_ICONS_PATH", icons):
+                with self.assertRaisesRegex(ValueError, "Missing cycle icon assets") as failure:
+                    build.build(output)
+            for cycle in timeline.cycles:
+                self.assertIn(f"{cycle.id}.png", str(failure.exception))
+            self.assertEqual("Keep the existing site", previous.read_text(encoding="utf-8"))
+            self.assertEqual([previous], list(output.iterdir()))
 
     def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]
