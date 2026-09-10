@@ -740,6 +740,24 @@
           }
         },
         {
+          "id": "event-undisclosed",
+          "title": "Undisclosed",
+          "magicState": "old-magic",
+          "description": "A recent uncredited hotel rescue → One evening's extraction and a witness's departure.",
+          "context": [
+            "Cyril Nabe has kept Daybreak's accounts for three years when she identifies him as the unseen agent of a recent hotel rescue. She has located eight abductees in separate wards and learned they will be moved the following day. This independent modern society combines ordinary businesses, records and emergency services with living magical powers; its proposed pre-extinction position establishes no common state, calendar or power system with another superhero culture.",
+            "The evening's extraction reveals Cyril's capacity while concealing his identity from compound witnesses and cameras. After the rescue, Daybreak refuses an unconditional promise of secrecy. Cyril briefly loops the office passage to prevent her departure, then releases it. She leaves and makes a telephone call; its purpose, any subsequent disclosure and their future relationship remain unresolved."
+          ],
+          "sequenceNote": "Proposed after An Ordinary Education and before The Peace They Could Sleep Through. These independent histories have no established relative date; the selected slot is editorial reconstruction rather than a measured Galactic Cycle coordinate.",
+          "stories": [
+            "undisclosed"
+          ],
+          "window": {
+            "start": 26.6,
+            "end": 28.0
+          }
+        },
+        {
           "id": "event-the-peace-they-could-sleep-through",
           "title": "The Peace They Could Sleep Through",
           "magicState": "old-magic",
@@ -3888,6 +3906,13 @@
         "end": 41.0
       },
       "note": "The unnamed private lodge combines a demonstration cannon, intercom, cars, and a living flesh-changing faculty. This undated industrial society is provisionally placed before the terminal magical extinction; its technology alone establishes no historical relationship to another modern-looking society."
+    },
+    "undisclosed": {
+      "window": {
+        "start": 26.6,
+        "end": 28.0
+      },
+      "note": "An independent old magic-active modernity is proposed before terminal extinction. Three years of accounting appointments and a recent hotel rescue precede the main evening. Cyril's earlier intervention in an unnamed conflict is recalled without a date. The compound rescue and office confrontation establish no shared geography, institution or power system with neighboring histories."
     }
   },
   "storyMoments": {
@@ -5959,7 +5984,8 @@
     "roads-under-impossible-stars": "undated",
     "what-the-wind-wanted": "contextual",
     "the-spiders-hunger": "undated",
-    "no-need-to-worry": "undated"
+    "no-need-to-worry": "undated",
+    "undisclosed": "undated"
   },
   "connections": [
     {
