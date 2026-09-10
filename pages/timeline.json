@@ -758,6 +758,24 @@
           }
         },
         {
+          "id": "event-pool-sovereign",
+          "title": "The Deep End",
+          "magicState": "old-magic",
+          "description": "Seven years of quiet concealment in a public pool lead to a week of recognition and a local memorial.",
+          "context": [
+            "Madelon leaves royal office after nineteen years and spends seven peaceful years abroad, turning her living body into water in a public swimming pool. Her cousin is crowned in the autumn after her departure. Familiar public leisure, television and an expatriate community coexist with her private transformation; a broad old magic-active modernity is proposed, without a shared calendar or polity with other histories.",
+            "Hewlin, formerly a seventeen-year-old palace page, recognizes her on his first day as the pool's lifeguard. A local memorial follows during the same week. These personal intervals establish neither an absolute date nor a universal royal or transformation mechanism."
+          ],
+          "sequenceNote": "The broad proposed interval overlaps other independent late old-magic societies. It expresses uncertainty of placement, not the duration of Madelon's refuge, and establishes no contemporaneity, common institutions or measured Galactic Cycle date.",
+          "stories": [
+            "pool-sovereign"
+          ],
+          "window": {
+            "start": 28.2,
+            "end": 45.48
+          }
+        },
+        {
           "id": "event-the-peace-they-could-sleep-through",
           "title": "The Peace They Could Sleep Through",
           "magicState": "old-magic",
@@ -3946,6 +3964,13 @@
         "end": 87.81
       },
       "note": "An unnamed technological society supports an independent robot performer, skilled mechanical repair and a theatrical contest culture. This wholly nonmagical setting is provisionally placed within the Long Dark, in a broad material-era horizon that may overlap other developed societies. No common city, institution, manufacturer or order of invention is established; the interval represents uncertain placement rather than the duration of the contest."
+    },
+    "pool-sovereign": {
+      "window": {
+        "start": 28.2,
+        "end": 45.48
+      },
+      "note": "Undated private transformation within a contemporary-looking public-pool society. Nineteen years of queenship precede seven years of concealment; recognition and the memorial occupy about a week. The old magic-active placement is editorial and supplies no shared polity or chronology with neighboring stories."
     }
   },
   "storyMoments": {
@@ -5087,6 +5112,13 @@
       "A recruitment supper leads to a private gangland performance that Elspeth mistakes for a protection collection",
       "Shona kills the guard; Elspeth demands continuing tribute while Corbin stays with his recording and witnesses summon help",
       "A week later, money from Dacre and a recruited loan collector begin a new criminal foothold under active pursuit"
+    ],
+    "pool-sovereign": [
+      "Madelon leaves her seal and a letter, goes abroad, and watches her cousin's coronation that autumn",
+      "Seven peaceful years pass in a public swimming pool, where she dissolves whenever people approach",
+      "The new lifeguard Hewlin recognizes her from the gallery and addresses her as his former queen",
+      "Conversations, a memorial program and remembered food lead her to ask to attend the local gathering",
+      "At the memorial she listens anonymously and joins a song associated with her late husband"
     ]
   },
   "storySpans": {
@@ -5869,6 +5901,11 @@
       "start": "Capture nineteen days after the coup, then fifty-nine years in prison",
       "end": "The seventh evening after the violent collection",
       "note": "The recruitment supper falls on the evening after her escape; the collection follows the next night. The following week brings hiding, lasting hand damage, public evidence, and a first continuing payment. Elspeth is eighty-two; no absolute year is given."
+    },
+    "pool-sovereign": {
+      "start": "Nineteen years as queen, followed by seven years hidden in the pool",
+      "end": "A week of recognition and a Sunday memorial",
+      "note": "The cousin succeeds her during the first autumn of her absence. Her thirteen years with her husband belong to earlier recollection; the story gives no calendar date for their marriage or his death. Her future residence remains open."
     }
   },
   "storyEvidence": {
@@ -6031,7 +6068,8 @@
     "no-need-to-worry": "undated",
     "undisclosed": "undated",
     "the-old-percentage": "contextual",
-    "i-really-need-a-sidekick": "undated"
+    "i-really-need-a-sidekick": "undated",
+    "pool-sovereign": "undated"
   },
   "connections": [
     {
