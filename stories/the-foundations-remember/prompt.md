@@ -1,5 +1,15 @@
 # Prompt
 
+## Cover reference
+
+- `the-foundations-remember-930b344.jpg`: option A, the original cover from Git commit `930b344`.
+
+## Cover direction
+
+> The Memory Under Line Zero  use more of the futuristic option A with the and updated title.
+
+Preserve option A's neon city artwork and replace its historical title with "The Memory Under Line Zero".
+
 ## Prompt
 
 > [WP] A vertical neon city claims to be humanity’s first civilization. Citizens pay rent by leasing selected memories to corporations that copy, edit, and resell them. A junior memory-repossession technician is ordered to erase an evicted transit worker’s recollection of a sealed tunnel beneath the lowest train line. The memory contains physical evidence of civilizations older than the city’s official history. Preserving it would require hiding it inside the technician’s licensed memory space, placing their already-collateralized childhood at risk.
