@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Yavren | new | Also the last Eagle Queen and the Queen, her prior incarnation and nonhereditary office rather than a separate person. No exact, alias, close-spelling, or confusing reuse was found. |
-| Pelka | new | Yavren's adult foster sister and trapline partner. No exact, alias, close-spelling, or confusing reuse was found; nearby forms including Pelmara Jossan, Peleth, Belkin, and Orrin Pell remain distinct by spelling, cadence, and role. |
+| Yavren | new | Also `Yav`, the `Eagle Queen`, the `Queen`, and `Queen of the Valley`; the remembered incarnation and present titles belong to the same continuing person. No accidental exact, alias, close-spelling, or confusing reuse found. |
+| Pelka | new | Yavren's adult foster sister and trapline partner. No accidental exact or alias reuse found; Pelset, Pelmara Jossan, Belkin, and Orrin Pell remain distinct in form and identity. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The mountain, valley, eyries, roads, settlements, and unnamed pass remain unnamed. |
+| None | none | The mountain, valley, eyries, roads, keeps, towns, and chapel are unnamed. Queen of the Valley is Yavren's personal title. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The eagle's repeated bow resolves as inherited nesting distress rather than allegiance or tameness, while the living talonmail colony's bounded impressions awaken Yavren's own prior-life memories without erasing her present identity or choice. The three detachments retain distinct aims, so their witnessed false death and subsequent inability to coordinate are credible; the controlled molt opens the sealed vent, returns the colony to its inner shelf, stabilizes the fault and eyries, and permits the sisters' escape. Dialogue remains context-bound and speaker-specific: Pelka grounds through immediate tasks and recent particulars, Yavren loses nouns and fluency under memory pressure, and the detachments reason from casualty, secrecy, or captured value. The final road-money, bandage, and pie exchange stays ordinary instead of explaining the resolution again.
+- Notes: The recorded 08-21 profile remains active. The armor enables all three conquests and dynastic revenge; its Eagle shadow then defies Yavren, leaving full power, mastery, love, and rebuilding for the requested bookend. The living colony supplies the magic without erasing Yavren's identity or responsibility. Exchanges preserve shared reality and distinct attention: Pelka grounds immediate action, Yavren struggles with recovered knowledge, and the officers pursue different orders. The sisters' decisive bargain changes their commitment; the tent request tests visible control, and the final weapon observation exposes its failure. The older outline's escape ending is advisory and superseded by the complete prompt.

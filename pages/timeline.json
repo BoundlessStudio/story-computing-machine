@@ -12,10 +12,10 @@
           "id": "event-when-the-eagle-bowed",
           "title": "When the Eagle Bowed",
           "magicState": "old-magic",
-          "description": "The custodial queen's execution → Her return a century later.",
+          "description": "The custodial queen's execution → Her conquest a century later and the shadow's release.",
           "context": [
             "A century after a custodial queen's execution, three successor crowns still enforce different claims on the living talonmail. This is already a layered political landscape: old passages have fallen, warrants have diverged, and later towns occupy the threatened ground. Yavren's recovered previous life does not give her a hereditary right over those inhabitants. The older-cycle position is proposed; neither the century nor the eagle's distress signal identifies an original age of monarchy.",
-            "The colony molts and the sisters escape while the three crowns continue. The officers believe the bloodied royal figure fell into the vent; Yavren has not won a throne, ended their states or secured a new home."
+            "Yavren defeats all three kings with the living armor and accepts the valley's crown, completing her revenge against the successor houses. Releasing the armor's Eagle shadow to win the last battle leaves it hunting beyond her control. The shadow remains loose, and the damaged kingdom has not yet been rebuilt."
           ],
           "sequenceNote": "The first proposed event in this cycle, before The Gentlest Terror. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -4066,8 +4066,9 @@
       "The custodial Eagle Queen refuses three warlords' demand for talonmail soldiers; they execute her and become competing crowns",
       "A century later, the colony reaches Yavren and opens memories of her own former life, including a revenge plan against all three keeps",
       "Changed paths, current horn codes and Pelka's local knowledge matter more than the queen's obsolete map",
-      "Yavren rejects the destruction of later towns and uses the old molting structure to free the colony while leaving a misleading royal husk",
-      "By the next dawn, the sisters leave with wounds and limited money; the crowns dispute the site while the eyries hold"
+      "Yavren braces the threatened eyries, chooses conquest over escape and attacks the keeps separately while Pelka helps clear civilians",
+      "Across eight days, the armor defeats the three kings; Yavren releases its Eagle shadow during the final chapel battle",
+      "Yavren accepts the valley's crown and ends the royal warrants, but the shadow begins hunting an unarmed man and resists her binding sign"
     ],
     "tea-for-the-first-guest": [
       "The wizard recalls older imperial duties, grain fleets and freight relays without knowing their present condition. By the visitor's calendar, he calculates the foundation as about 2,012 years old, with four or five years of uncertainty; he is seven months older.",
@@ -5284,8 +5285,8 @@
     },
     "when-the-eagle-bowed": {
       "start": "The custodial queen's execution",
-      "end": "Her return a century later",
-      "note": "The century measures local succession before Yavren's encounter and escape into the following dawn. It does not date the crowns against other kingdoms or make a present ruler the same person as a founding warlord."
+      "end": "Her conquest a century later and the shadow's release",
+      "note": "The century measures local succession before Yavren's return. An eight-day campaign then ends with her coronation and the armor's Eagle shadow slipping beyond her control. This does not date the crowns against other kingdoms or make a present ruler the same person as a founding warlord."
     },
     "the-unfinished-sunset": {
       "start": "A working solar harvest is trapped",
