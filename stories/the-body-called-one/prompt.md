@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > [WP] After escaping Unit 02, a rebel pilot begins searching for its missing predecessor, only to discover that “Unit 01” was not another machine—it was her first body.

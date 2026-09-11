@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > [WP] Every sunset, the emperor’s neglected new bride walks the forbidden garden in a nearly transparent ceremonial veil while the man she was ordered never to touch watches from the far end of the path; tonight, she loosens the jeweled clasp at her hip and tells him the palace walls are thick enough to hide one unforgivable night.

@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-bc52ac1c-4474-484a-83a6-b9b6c0138b73.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > [WP] The last human driver in a city ruled by autonomous machines is hired to transport an Android that must remain invisible to the system.
