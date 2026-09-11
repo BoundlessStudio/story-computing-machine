@@ -117,6 +117,24 @@
           }
         },
         {
+          "id": "event-the-house-beneath-the-horns",
+          "title": "The Last Day of the Watch",
+          "magicState": "old-magic",
+          "description": "A centennial handover exposes thirteen years of concealment, followed by a pursuit through the ruined citadel and the retirement escort's arrival at dawn.",
+          "context": [
+            "The horned elves choose one archer for each century of service at an unnamed ruined citadel. Phelnis arrives to replace Kostral, while Osmund has survived thirteen years inside its walls after an illicit excavation. These local spans establish neither the vanished civilization's age nor a date shared with another story.",
+            "Phelnis's attempt to summon her predecessor puts Osmund in immediate danger. Her later shot ends Kostral's pursuit, and she opens the gate before meeting his escort the next morning. The older-history placement is proposed; the story establishes no larger war, magical system, or outcome of the escort's judgment."
+          ],
+          "sequenceNote": "Proposed after The Ninety-Year Barrier and before What the Wind Wanted. These are independent local histories; this ordering slot is an editorial reconstruction, not a measured date or an established connection.",
+          "stories": [
+            "the-house-beneath-the-horns"
+          ],
+          "window": {
+            "start": 15.3,
+            "end": 16.6
+          }
+        },
+        {
           "id": "event-what-the-wind-wanted",
           "title": "What the Wind Wanted",
           "magicState": "old-magic",
@@ -3996,6 +4014,13 @@
         "end": 19.8
       },
       "note": "Proposed older magic-active placement from immortal sovereignty, reincarnation, and bounded narrative awareness. The scene is undated; the ring's three centuries establish only its internal history."
+    },
+    "the-house-beneath-the-horns": {
+      "window": {
+        "start": 15.3,
+        "end": 16.6
+      },
+      "note": "From a centennial handover through the following dawn. Osmund's thirteen years of hiding precede the witnessed pursuit. The proposed older-history position supplies no exact date or relation to neighboring stories."
     }
   },
   "storyMoments": {
@@ -6095,7 +6120,8 @@
     "the-old-percentage": "contextual",
     "i-really-need-a-sidekick": "undated",
     "pool-sovereign": "undated",
-    "the-ring-between-lives": "contextual"
+    "the-ring-between-lives": "contextual",
+    "the-house-beneath-the-horns": "undated"
   },
   "connections": [
     {
