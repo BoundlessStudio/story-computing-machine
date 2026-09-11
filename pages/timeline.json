@@ -135,6 +135,24 @@
           }
         },
         {
+          "id": "event-the-ring-between-lives",
+          "title": "The Ring Between Lives",
+          "magicState": "old-magic",
+          "description": "Three centuries with an unused ring → Six weeks of letters → A moonlit proposal and dawn marriage.",
+          "context": [
+            "Rhazelle has outlived two marriages to earlier incarnations of the present saint. Sidonie arrives with her own memories, political authority, and romantic intentions. The queen recognizes a returning soul and hears the current narration, but cannot know forthcoming words or the saint's unspoken thoughts. These local faculties support a magic-active placement without dating the story against another civilization.",
+            "Six weeks of truce correspondence precede the wedding-dress arrival. A witnessed marriage compact settles competing claims to a border duchy; joint cessation orders leave before dawn, and the nearest fronts acknowledge them before the wedding. The queen's three-hundred-year ring history and earlier bereavements supply internal time, while the larger historical position remains editorial reconstruction."
+          ],
+          "sequenceNote": "Proposed within the older magic-active world. This position establishes no shared kingdom, connection, or measured interval with neighboring stories.",
+          "stories": [
+            "the-ring-between-lives"
+          ],
+          "window": {
+            "start": 18.4,
+            "end": 19.8
+          }
+        },
+        {
           "id": "event-save-that-dragon",
           "title": "One Night's Mercy",
           "magicState": "old-magic",
@@ -3971,6 +3989,13 @@
         "end": 45.48
       },
       "note": "Undated private transformation within a contemporary-looking public-pool society. Nineteen years of queenship precede seven years of concealment; recognition and the memorial occupy about a week. The old magic-active placement is editorial and supplies no shared polity or chronology with neighboring stories."
+    },
+    "the-ring-between-lives": {
+      "window": {
+        "start": 18.4,
+        "end": 19.8
+      },
+      "note": "Proposed older magic-active placement from immortal sovereignty, reincarnation, and bounded narrative awareness. The scene is undated; the ring's three centuries establish only its internal history."
     }
   },
   "storyMoments": {
@@ -6069,7 +6094,8 @@
     "undisclosed": "undated",
     "the-old-percentage": "contextual",
     "i-really-need-a-sidekick": "undated",
-    "pool-sovereign": "undated"
+    "pool-sovereign": "undated",
+    "the-ring-between-lives": "contextual"
   },
   "connections": [
     {
