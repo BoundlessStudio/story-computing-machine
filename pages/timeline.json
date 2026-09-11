@@ -27,6 +27,24 @@
           }
         },
         {
+          "id": "event-yavrens-return",
+          "title": "Where the Eagle Lands",
+          "magicState": "old-magic",
+          "description": "Nine years after a chosen departure → A year raising two cities and choosing a shared home.",
+          "context": [
+            "Yavren returns nine years after saving the eyries and valley, refusing the Eagle Queen's throne and revenge, and going east with her foster sister Pelka. She has already mastered the Eagle Shadow and has loved Irdas for six years. This bookend follows that departure history; the separately retained When the Eagle Bowed recounts a different conquest ending.",
+            "Across a spring-to-spring year, Yavren raises Esvay and Tolrath while residents rebuild their lives. The three kingdoms ratify a common assembly, free settlement and joint defense; rival garrisons withdraw and a royal relative loses a property claim. The union governs without giving Yavren a throne, and her shared home with Irdas permits further journeys."
+          ],
+          "sequenceNote": "Proposed beside the related Yavren story in the older magic-active world. The supplied departure premise and local nine-year interval do not reconcile the retained conquest version or establish an absolute date; neighboring independent histories remain unordered.",
+          "stories": [
+            "yavrens-return"
+          ],
+          "window": {
+            "start": 3.65,
+            "end": 4.45
+          }
+        },
+        {
           "id": "event-the-gentlest-terror",
           "title": "The Gentlest Terror",
           "magicState": "old-magic",
@@ -4046,6 +4064,13 @@
         "end": 25.7
       },
       "note": "One night begins with the three moons aligning and ends with Isabet carrying Murrant back into the palace. His nine lives and Aphan's earlier civilizational history precede the witnessed encounter; their lengths and external chronology remain unspecified."
+    },
+    "yavrens-return": {
+      "window": {
+        "start": 3.65,
+        "end": 4.45
+      },
+      "note": "The witnessed return begins nine years after Yavren's supplied departure history and follows one year of restoration. Placement near When the Eagle Bowed marks the related characters and bookend reading; their differing earlier endings establish no shared factual sequence."
     }
   },
   "storyMoments": {
@@ -5195,6 +5220,13 @@
       "The new lifeguard Hewlin recognizes her from the gallery and addresses her as his former queen",
       "Conversations, a memorial program and remembered food lead her to ask to attend the local gathering",
       "At the memorial she listens anonymously and joins a song associated with her late husband"
+    ],
+    "yavrens-return": [
+      "Yavren arrives with Irdas already able to direct the vast Eagle Shadow and raises the first street of Esvay",
+      "Resettlement brings competing royal claims, while Irdas asks for a permanent theatre and shared home",
+      "The three rulers and resident delegates ratify a union with common border judgments, defense and free settlement",
+      "Winter rebuilding restores Tolrath; mixed town guards escort supplies as royal garrisons withdraw",
+      "Yavren returns on the promised spring date, chooses a home with Irdas and attends his opening with Pelka"
     ]
   },
   "storySpans": {
@@ -5982,6 +6014,11 @@
       "start": "Nineteen years as queen, followed by seven years hidden in the pool",
       "end": "A week of recognition and a Sunday memorial",
       "note": "The cousin succeeds her during the first autumn of her absence. Her thirteen years with her husband belong to earlier recollection; the story gives no calendar date for their marriage or his death. Her future residence remains open."
+    },
+    "yavrens-return": {
+      "start": "Departure nine years earlier, then a return after mastery and six years of love",
+      "end": "The theatre opening the following spring",
+      "note": "The Queen's older memories remain part of Yavren. The return and two-city restoration occupy about a year; no absolute civil year or Galactic Cycle coordinate is established."
     }
   },
   "storyEvidence": {
@@ -6148,7 +6185,8 @@
     "pool-sovereign": "undated",
     "the-ring-between-lives": "contextual",
     "the-house-beneath-the-horns": "undated",
-    "the-cat-who-kept-the-door": "undated"
+    "the-cat-who-kept-the-door": "undated",
+    "yavrens-return": "relative"
   },
   "connections": [
     {
