@@ -1,221 +1,363 @@
 ---
-title: "The House Beneath the Horns"
+title: "The Last Day of the Watch"
 slug: "the-house-beneath-the-horns"
 created: 2026-09-11
-created-at: 2026-09-11T09:54:37-04:00
+created-at: 2026-09-11T11:50:30-04:00
 canon: false
 ---
 
-# The House Beneath the Horns
+# The Last Day of the Watch
 
-The footprints crossed a fall of yellow pollen, and one of them had a stitch in it.
+Kostral had shown her the gate, the alarm whistle, and the place where her name would be cut beneath his. He had not mentioned the footprints.
 
-Evradis crouched, the scales of her dark armor lifting against one another. A loose thread had trailed from the right sole and drawn a little curl beyond the heel. She rested her blue-gray fingertips beside it. The pollen lay thick against the courtyard wall; this morning's wind had shaken it from the trees. Whoever had crossed it was still close.
+Phelnis found them beyond the first fallen column. Yellow pollen lay over the avenue, unmarked except for a line of boots going north into the city. One heel had a square patch. Wet earth still clung to its edges.
 
-She took an arrow from her quiver and fitted it to the string.
+She looked back. Kostral had disappeared along the eastern wall to finish his circuit. Above the closed gate, his shutters stood open. He had told her to leave her pack in the guardroom and make herself familiar with the lower courts. At dawn, in the presence of the escort, they would inspect the outer seals on the burial chambers. Then he would give her the keys and leave.
 
-Yesterday, the departing guardian had walked her around the ruins, naming the approaches, the trees from which a bowshot could reach the road, the arch beneath which trespassers invariably stopped to look up. Every hundred years the horned elves of the deep forest chose an archer for this duty. Yesterday it had become hers. The old guardian had gone home with a hundred years of weather in his cloak and remarkably little to say about what lay beyond the arches.
+Every hundred years, the horned elves of the deep forest chose one archer for the ruins. As a child she had recited their names in order, taking breath in the same places as her mother. She had been afraid she would stammer over Kostral's name when she met him. He had only asked whether the gold carving on her bow caught the light, and she had turned it in her blue-gray hand to show him the dull finish.
 
-Evradis had wanted to see those things since she was young enough to fit beneath a fallen lintel without lowering her horns. On her first circuit alone, she had left the boundary path to examine a carving. Now somebody's shabby shoe had gone ahead of her.
+“Good. Pretty things give you away.”
 
-The tracks led beneath a colonnade, where the pollen gave out. She found a smear on a stone, a fresh scratch in the dry moss beside it. Beyond stood a wall that seemed unbroken until she approached sideways. Two slabs leaned against one another, leaving a narrow passage behind their overlap.
+He had smiled when he said it. She was still pleased with herself for having thought of that before he asked.
 
-She turned her carved bow lengthwise and eased through. One horn scraped stone. At shoulder height, where a person might steady himself, a handhold shone among the rough surfaces. The polish continued around the hidden side of the slab.
+The footprints left the avenue through a broken doorway. Phelnis loosened an arrow in her quiver and followed.
 
-Inside, the air smelled of cold ash and apple peel.
+There were trees inside the rooms. Their roots had lifted floors where the vanished people had laid dark tiles in spirals; their branches reached through upper windows and held the surviving roofs apart. Under one roof, behind a screen of branches recently cut, grew beans. Someone had planted them in four stone bowls carved with kneeling figures. Beside them stood a fifth bowl, empty except for dry stalks and carefully broken eggshells.
 
-A roof survived over three small rooms. In the first, a bed of woven bark strips stood clear of the earth on stone feet. Someone had patched its sagging middle. Shoes hung from pegs above it: a split pair, a pair repaired with pale hide, a pair so worn that the soles had folded like leaves. Below a blackened cooking recess, thin layers of soot had settled into cracks in an older layer. Dried mushrooms threaded on grass stems hung beside apple rings. Nothing had been packed for departure.
+A blanket lay in a recess. Its original blue survived in a strip along one edge. The rest was patches, themselves patched with smaller pieces, and beside it were three worn-out shoes with their useful leather cut away. On a shelf sat a wooden cup polished smooth where a thumb would rest.
 
-She lowered the arrow. Years. Someone had been here for years.
+Phelnis touched the blanket. Someone had been keeping warm here for a long time.
 
-The next room contained a city.
+“Leave that.”
 
-It covered most of the floor, leaving narrow spaces for feet. She recognized the broken tower outside, although here it had a roof and a tiny band of red paint beneath the eaves. Streets bent between buildings carved from wood or assembled out of stone chips. Some were no bigger than her thumbnail. Others had courtyards into which she could have dropped an acorn. Along a wall stood older versions, their wood cracked and graying, a whole second city quietly coming apart.
+The voice came from above her. She stepped out from under the shelf, arrow on the string.
 
-A man appeared in the rear doorway carrying a small building in both hands. He stopped when he saw the arrow.
+A man stood on a broken stair, holding both hands away from his sides. His beard had been shortened with something blunt. A thread of bean fibre hung from his sleeve.
 
-His ears ended in fine points. He had no horns. Dark hair, streaked with pale strands, was tied away from his face with a strip of the same hide used on the shoes. He might have been her age or centuries older; she had uncles whose faces were less lined than hers.
+“You're the new archer?”
 
-“Who are you?” Evradis asked.
+“Come down.”
 
-He answered at length. She caught nothing. While speaking he edged his burden onto a shelf, without taking his eyes off the bow.
+“Where's the other one?”
 
-She asked again, slowly. His expression did not change.
+“On the wall. Come down where I can see you.”
 
-There was no good way to put an arrow away while looking dignified. She held the bow against her hip, freed the nock, and returned the arrow to her quiver. Then she touched her breast.
+He descended sideways, favouring one ankle. Human, and much older than the first startled glimpse had suggested. The square on his heel was fresh leather against a sole made of several different scraps.
 
-“Evradis.”
+“You wanted me to find you,” she said.
 
-He considered her hand. “Osmereth.”
+“I put those prints halfway across the city. I thought you'd walked past.”
 
-She pointed at him and repeated it. He nodded, then pointed at her and tried her name, losing its middle. She was about to correct him when he stepped forward and caught her sleeve.
+“How long have you been here?”
 
-She had set her heel between two buildings. A thin carved fence lay directly behind it. He pointed down, pulled her away, and spoke with a rapid irritation which needed no translation.
+“Take me to the gate. Get him to open it.”
 
-“I see it.” She moved her foot.
+“How long?”
 
-Osmereth inspected the fence, brushed it with a fingertip, and crouched beside the tower. He tapped its little red band, then pointed through the open doorway. From where he knelt, the actual tower's upper windows showed against the sky.
+He glanced at her bow, then at the doorway behind her. “Thirteen years.”
 
-He repeated a word. It resembled the old word for tower in her oath.
+She looked again at the blanket. Her twenty years of practice for the choosing had included winters when she hated the bow and put it away. Thirteen years here: the same walls in every weather, that little square of bed.
 
-“Tower,” she ventured, using that older form.
+“Kostral knows?”
 
-His whole face altered. He said it again and beckoned her down to his level. The windows in the model had the same unequal spacing as the real ones. She had looked at them yesterday without noticing.
+“He knows I'm somewhere. I wish you hadn't left him up there.”
 
-For the rest of that afternoon he showed her windows.
+Phelnis stepped into the doorway and looked along the wall. Empty stone, a pale shimmer of leaves. “Why does he keep you here?”
 
-There were other things she wished to ask. Had the old guardian known him? Where had he come from? But when she tried to describe the guardian, touching her horns and indicating a long beard, Osmereth glanced toward the passage. He put a finger to his lips, crossed to the first room, and lifted a mat from a deep recess behind the bed. It was just large enough to crouch in. Before letting her look inside, he tilted his head to listen.
+“Because I was quicker than the others.”
 
-She looked back at the hidden entrance. The boundary circuit passed on its far side. A person already inside could hear an archer's boots long before the archer could see him.
+“What others?”
 
-Osmereth let the mat fall and returned to the model. The thread hanging from his right shoe made a curl on the dusty floor.
+He rubbed his hands down his coat. “I can show you. It's close. Then you'll take me out.”
 
-When she left, she found a second passage from the roofed rooms into dense hazel. Small gathering paths continued through the undergrowth, all below the sightline of the outer wall. She had been told to watch for people entering the ruins.
+“What's your name?”
 
-Osmereth had his bed there.
+“Osmund.” He waited, and when she did not move, added, “Please.”
 
-* * *
+The stair led into a burial gallery above the avenue. Phelnis had expected small tombs; this passage was wide enough for six people abreast, with doorways continuing beyond sight along its inner wall. On the other side, gaps between columns opened onto a landing and broad steps down to the street. Sunlight came through the gaps and the holes left by missing roof slabs.
 
-After her dawn circuit, Evradis returned with charcoal and a sheet of pale bark. She had spent part of the night recalling the ceremonial speech in which the guardians made their promises. Much of it was useless: solemn endings, invocations, words for fidelity. But there were ordinary words inside it too.
+At the third doorway Osmund stopped beside a heap of brushwood. More branches had been pushed against the next entrance. The leaves were still green.
 
-Osmereth took the charcoal from her before she had decided how to begin. He drew the tower, put a line through the roof, and pointed out at its broken top. Then he pointed to the complete roof on his model.
+“Those weren't here last week.” He pulled one away. “He put them at every mouth he could find. I watched him carrying oil yesterday. He means to smoke me out before you open the chambers.”
 
-“Before,” Evradis said.
+“You think that.”
 
-He repeated her word with a different ending. He tapped his eye, then his breast.
+“I wasn't going to wait underneath and find out.”
 
-She tried the word for seeing. He nodded. She placed a twig upright beside the drawn tower, spread her fingers into branches, then laid the twig flat and pointed to the unbroken roof again.
+Osmund lifted a loose panel beside the sealed door, revealing a hole cut through the wall. He stooped through it, and Phelnis followed. Inside, two shapes lay near a cracked stone coffin. She saw boots, a buckle, the collapsed sleeves of a coat. One arm extended towards the hole. A rusted chisel rested beyond its fingers.
 
-“You? Before?”
+She remained on the threshold. Small gold plaques had spilled from the coffin onto the floor. Its lid lay on wooden rollers.
 
-Osmereth nodded more emphatically. He began a story. She heard the same word for seeing several times, and what might have been a name, but she could not recover the rest. He spread his arms toward the rooms around them, the scattered buildings outside.
+“You opened this.”
 
-The forest had stood within the walls for longer than her mother's life. He was old, then, even by the measure of people who gave a century to an occupation. She found herself staring. Osmereth broke off and rubbed his cheek, then looked at his fingers.
+“He shot them there. I was behind the coffin.”
 
-She looked down at the bark. All those small, unequal windows. He had looked out of some of them.
+“You broke into the tombs.”
 
-He fetched the building he had carried yesterday. It was a house, squat and large beside his delicate towers, with a green lintel marked by an off-center notch. Its roof lifted away. Inside were three niches: a low square one, a narrow tall one, and a round hollow tucked close to the floor.
+“Yes, we broke in! He told us which ones to open.” Osmund caught himself and looked up towards the gaps in the roof. His next words came lower. “We had six chambers open. He said we'd get our shares when we finished the seventh. I was putting a wedge in. That was why he missed me.”
 
-Osmereth touched the house, touched his chest, and lowered a flat hand to the height of her knee.
+He pointed at the door. “He put the seals back afterwards. Shut the front, covered the cuts. You'd never know from the avenue.”
 
-“Child?” she asked.
+Phelnis looked from the tools to the passage. Nothing here told her who had killed these people. Osmund knew the chambers, knew what they held. Kostral had sworn to keep them untouched.
 
-He repeated the word, pleased. He set two fingers walking across its little threshold. Then he placed it between the tower and a broad, low hall.
+“Where did you meet him?”
 
-“House,” he said.
+“At the gate. Where do you think? We came looking for a way in and he let us through. I thought we'd been lucky.”
 
-Evradis pointed out the door. “House?”
+“He hired you?”
 
-He shook his head. He carried the model to three other gaps in the city, hesitating at each, then put it back on the shelf.
+“We were thieves. There. Can we go now?”
 
-This, at least, she thought she understood. She took up the house and offered it to him, pointing outside. He seized her meaning at once and reached for his shoes.
+Beyond the roof, stone scraped against stone. Phelnis looked up. Someone was crossing the wall above the gallery.
 
-They spent the morning among low walls north of the hall. Osmereth led her to one foundation, then another. He knew ways through the rubble which saved her awkward climbing, and he stopped twice to retrieve objects: a bit of patterned tile, a fragment of carved stone. Yet at each place where he stopped to search, he shook his head before she had properly begun.
+“Stay beside me,” she said, reaching for the whistle.
 
-There were old scrape marks beneath the moss. He had looked here before.
+Osmund seized her wrist. She pulled free and lifted her bow between them.
 
-At the third foundation he showed her a hollow in a wall. Round, low, big enough to hold a sleeping cat. He held up the house so she could compare it, then indicated the bare stone on either side of the hollow. No square niche, no tall one. He set the model down with enough force to dislodge its roof.
+“Don't call him.”
 
-Evradis waited while he put it back.
+“He won't shoot while I'm here.”
 
-She wanted to ask how long he had been looking. Instead she offered to carry the house. He drew it against his chest, then, after a moment, handed her the roof.
+“You don't know him.”
 
-Back in the room, she studied his arrangement of the city. His house occupied almost as much ground as the hall, though the hall outside was enormous. She stretched a cord between the tower and the hall in the model, pinched off a length, and laid it across the house. Osmereth watched with increasing impatience.
+She knew a grave robber who wanted her to leave the keeper out of her inquiry. She put the whistle to her lips and blew the three clear notes Kostral had taught her.
 
-She tried moving the house farther away. He caught it.
+Osmund ran.
 
-“Small,” she said, indicating the hall in miniature, then spread her arms toward its real counterpart. “Large.”
+He got back through the hole and across the landing before the arrow caught him. It tore his coat along the thigh and knocked his leg sideways. He fell against the steps, reached for the rail that was no longer there, and began to slide.
 
-He replied with a rush of words. He knew the hall was large. His spreading hands told her that much. He restored the house to its first place and drew two curves above its roof on the bark.
+Phelnis caught his collar. A second arrow broke on the step beside her hand.
 
-Evradis touched one of her horns.
+She dragged him backwards across the landing and through the hole. His weight pulled her down with him, one dark horn striking stone hard enough to fill her vision with white. She crawled clear of the opening and put her shoulder against the wall.
 
-Osmereth looked from the drawing to her head. For a moment his mouth hung open. Then he laughed, a startled, breathless sound. He shook his head, drew a line beneath the curves, and held the bark upright beyond the model city.
+“Well found, Phelnis.” Kostral's voice carried easily from the western colonnade. “Keep away from him now.”
 
-She touched the drawing and pointed to the distant sky. He nodded. One curve was higher than the other and had a little nick at its tip.
+Osmund had both hands clamped over his thigh. Blood came between them.
 
-She knew that outline. On a clear day, from the high hunting slopes, she had watched clouds gather behind those two crags.
+“He's unarmed,” she called.
 
-Osmereth crouched so low that his cheek almost touched the floor. He shut one eye and looked out from the little house. Then he put the drawing on the shelf and began rearranging two wooden blocks in front of it.
+“There's a knife in his coat.”
 
-She crouched beside him. One block was the tower, the other the hall. He adjusted them until the two curves rose out of the gap between them. He tapped the house.
+She had seen no knife. He could still have one. She could still be wrong about everything except the second arrow striking beside her fingers.
 
-He had been showing her a view from the house. She had kept asking where to put it.
+“Put down your bow, Kostral.”
 
-“House,” she said, looking between the blocks. Osmereth nodded. He put his hand on her shoulder and moved her slightly left. From there, the tower covered the foot of the taller crag, and the hall lay beneath the shorter one.
+“Come out of there. Let me finish this.”
 
-The high terrace showed above a gap in the roof. Evradis pointed to it, touched her eyes, then tapped his drawing of the crags. Osmereth stood up. He collected the bark and the house, though he left the two blocks where they were.
+Osmund pushed at her shoulder. There was a low opening behind the coffin, almost hidden by the fallen lid.
 
-* * *
+“It comes through,” he whispered. “Go.”
 
-He knew the stair to the terrace. She would have passed its entrance a dozen times, screened as it was by a hanging sheet of ivy. Above the fourth turn, a fallen tree had caught in the stonework. Osmereth ducked beneath its trunk and waited while she untangled her pale hair from a twig. Her horns made this a slower business than she wished.
+“Where?”
 
-At the top, the forest spread into an uneven green surface broken by masonry. The tower rose below them. Beyond it, the paired crags stood blue in the afternoon light.
+“Anywhere that isn't here.”
 
-Osmereth nodded when she pointed them out. Of course he knew them. He said something and spread his hands toward the city, then toward her. What now?
+She heard Kostral's boots on the colonnade, moving towards the gallery's northern end. He knew how to get in here.
 
-She laid the bark on the parapet with his curves uppermost and put the house below them. “House.” She pointed from the model to the drawing. Osmereth added the buildings around the crags: tower to the left, hall to the right. He was particular about the gap. When she spread her fingers to suggest a wider one, he shook his head and held his own fingers closer together. She turned the bark over and drew the tower and hall as two marks, spaced roughly as they stood below.
+She hauled Osmund towards the opening.
 
-Evradis sighted along an arrow shaft toward the tower, then toward the hall. She marked the crags at the top of the bark and drew a line back from each building, away from the peak beside it. The lines converged south of the great ruins. She pointed down at the foundations where they had searched that morning and shook her head. Looking toward the crags from there, they would have the hall behind them.
+*
 
-Osmereth looked from the foundations to the hall. His fingers began to trace a path on the bark, taking several turns between the two buildings. She waited. He stopped, rubbed the path out, and drew the remembered view a third time.
+They came out into darkness that smelt of old dust and nuts. Osmund found a little lamp without searching and struck a light with hands that shook. While Phelnis bound her neckcloth around his thigh, he kept trying to pull his coat over it.
 
-She indicated the forest beyond the boundary stones.
+“Leave it. I need to see.”
 
-He stayed at the parapet for a long time. Then he brought the house out of his bag and set it beside her drawing. He turned it to face the mountains.
+“He'll follow the blood.”
 
-Evradis looked again at the house. On his floor, whole streets had been squeezed between the monuments he could still walk around. Even now, with all the distance spread out beneath them, she found it hard to imagine those streets continuing into the forest.
+She folded the torn coat under his leg. They listened. Above them came a slow dragging sound, then a thump. Kostral was shifting the coffin lid.
 
-Evradis pointed to a low rise among the trees. Somewhere on that slope, the tower and hall would open around the crags as he had drawn them. They could follow the changing gap until they found it.
+Osmund blew out the lamp.
 
-Osmereth packed the house away. He went down the stair ahead of her, fast enough that she had to call him back at the fallen tree to take the roof.
+He led her by touch through a gap between two burial chambers. She had to turn her head to pass her swept horns between the stones. On the other side, faint evening light showed a room crowded with baskets. Nuts, dried fruit, beans in their pods. A small green pear lay on a flat stone with a bite taken out of it.
 
-* * *
+“He hasn't found this one,” Osmund said. “He found the other five.”
 
-They began from the southern boundary at first light. Beyond it, the ground fell into what Evradis had always taken for ordinary forest: beech, thorn, stretches of thin soil over stone. The guardian's path turned west. They went downhill.
+The scrape of stone had stopped. Phelnis waited, listening for it to begin again.
 
-Every few dozen steps she looked back for the tower and the hall, finding them through gaps in the branches. Osmereth followed with the model in his bag. When a tangle forced them aside, he tried to turn toward a low wall, but she pointed back to the tower and they recovered their bearing. Twice they climbed outcrops to see how the hall had moved against the distant crags.
+“You can get outside from here?”
 
-As they walked farther from the tower, the gap between it and the hall narrowed. Osmereth began checking it too. He stopped beneath a beech, stepped sideways, and beckoned. The taller crag had begun to slide into its place beside the tower. She moved to stand where he was pointing.
+“Outside a room. Outside a tomb. Always another wall after it.”
 
-They had passed the last of the great buildings a long while before they found the first threshold.
+She remembered the approach: a narrow neck of rock under the gate, deep clefts on either side continuing round the whole citadel. The forest grew far below its walls. From the causeway she had thought the drop beautiful.
 
-It was level with the earth. Evradis uncovered it with her boot, then knelt to move the leaves by hand. More stones continued beneath the roots. Across a small open patch stood two low walls, each ending in a tumble of rubble. A sapling grew at one end of the threshold.
+“I tried the north face,” Osmund said. “Made a rope. It broke before I got halfway. That's the ankle.”
 
-Osmereth took the house from his bag, lifted off its roof, and handed the roof to her.
+“And the gatehouse?”
 
-A length of green stone lay against the downhill wall. Its color was faint beneath the lichen, and one end was broken, but Evradis could feel a shallow notch away from its center. She rubbed it with her thumb and looked at the model lintel.
+“Locked every night. Key on him. You saw the court. You can see a mouse crossing it from his window.”
 
-Osmereth had gone past her. He was kneeling at the other wall, clearing dead leaves from a square recess. Beside it was a taller opening, its top broken away. He reached low, into a mat of roots, and withdrew his hand full of crumbling earth.
+“Someone must bring him provisions.”
 
-Evradis put the roof down. Together they cleared the face of the stone. A round hollow emerged, smaller than she expected. The three niches stood in the same order as the ones inside the model.
+“At the far end of the causeway. He goes out and locks up behind him. Once I shouted until I couldn't speak. They were too far away, or he told them something. I don't know.”
 
-Osmereth sat back on his heels. He did not touch the house for a while.
+Phelnis knelt to look through a low window. The avenue ran south to the gate. Kostral's guardroom occupied the upper floor on its western side; the door below, which he had left open for her pack, was still open. Twenty strides of bare court lay between it and the nearest cover.
 
-From the threshold, Evradis could see the tower through a sparse stand of trees. The hall showed farther right. High between them, partly hidden by beech leaves, was the nicked tip of the taller crag. The other was obscured. She moved a pace left, but the view grew worse, so she returned to the place where the doorway had been.
+“He said he hunted rabbits for food.”
 
-“Here?” she asked.
+“So do I.” Osmund tried to straighten his wounded leg and stopped. “And pigeons. There's a whole orchard growing out of the west roofs. Mostly I eat what I can hide away before winter.”
 
-Osmereth looked up. She pointed to the niches, then the little house.
+He reached for the bitten pear, thought better of it, and put it in his pocket.
 
-“Here,” he said.
+Kostral appeared at the far end of the avenue. Phelnis drew back from the window. He was taking the open route south, towards his rooms, glancing into each doorway as he passed. The old archer walked as if he had plenty of time.
 
-She left him beside the wall and walked the room's surviving edges. Seven of her paces long, perhaps five wide. Some stones might have shifted. She could not find the back corner at all. Yet Osmereth went straight to that missing corner, bent as if to lift something, and began speaking to the empty space in front of him.
+“If we get through that door first,” she said, “we can bar him out. The gate handles are inside.”
 
-She stayed where she was. After a moment he beckoned her closer.
+“He'll be waiting.”
 
-He put both hands wide apart, just above the earth. Then he raised them almost to his waist. He said a word, made his fingers walk, and curled them under his chin. An animal? She bent her wrists, trying the shape back at him.
+“I just saw him. He's still north of us.”
 
-He nodded vigorously and repeated the word. His hands spread wider. He showed teeth.
+Osmund looked at her. Then he pressed his hand against the bandage and stood.
 
-Evradis looked at the little round niche. She pointed to it, then mimed the enormous animal with her arms.
+They went down through three adjoining rooms, following the line of the avenue. In the last, Phelnis stopped. Two travelling chests stood beneath a shelf of empty coffin niches. One was open. Under a folded green cloak lay gold plaques exactly like those scattered around the dead men.
 
-Osmereth laughed. He fitted his hands closely around the hollow, showing her something small enough to sleep there. He said the word they had used for the unbroken tower: before. Then he moved to the missing corner and spread his hands wide again.
+Kostral had been wearing that cloak when he admitted her.
 
-Small once; large later. She knew that sequence.
+Osmund tugged her sleeve. She went with him.
 
-He set the open model on the wall. Looking from its rooms to the fallen stones, he frowned. He touched the real round niche, then the much larger one he had carved. She held her hand to her knee, where he had shown her the child's height.
+At the edge of the court she made Osmund wait while she looked up at the guardroom. Empty window. The western colonnade blocked her view farther north.
 
-Osmereth caught her wrist and lowered it another handspan.
+She went first, with him two steps behind. At the fourth stride an arrow hit the paving in front of her boot.
 
-She crouched. The wall rose around her; the niches lifted toward her face. Osmereth knelt beside her and pointed into the tall one, beginning another story. She heard the word for child, and his own name, and watched his hands reach past the edge of the broken stone.
+Phelnis drove Osmund sideways behind the base of a fallen statue. Another arrow passed across the place where her face had been. He cried out as his wounded leg struck stone, and she pressed a hand over his mouth before she knew what she was doing.
+
+Above the gate, Kostral stood behind the guardroom's narrow northern window. The colonnade gave him a raised path straight to it. He had never needed to stay on the avenue.
+
+Osmund bit her palm. She took it away.
+
+“Phelnis.” Kostral had returned to the patient voice of their first meeting. “Your pack's here. Come and get it. Tomorrow we can open the chambers together.”
+
+“What about him?”
+
+“Leave him.”
+
+She could see only a sliver of his face beside his bow. No shot there. He had enough arrows to keep them crouched behind this stone until Osmund bled through the cloth.
+
+“You were going to take all that gold out with the escort.”
+
+Kostral drew back from the slit.
+
+“I kept this place safe for a hundred years,” he said. “When my wife died, I stayed here. I couldn't even stand at her grave. Do you suppose I did it for the little line they'll carve over the gate?”
+
+Phelnis looked at the stone under her hand. This morning she had run her fingers over the space left for her name.
+
+“Come down,” she said. “Leave the bow there.”
+
+An arrow struck the statue's base hard enough to send a chip against her cheek.
+
+Osmund caught her elbow and pointed behind them. A narrow doorway opened beneath the eastern gallery, three body-lengths from their stone. Keeping low, they crawled towards it. Kostral could see their feet; an arrow struck the heel of her boot as she pulled it through. The point skidded on its iron rim.
+
+She lay with her cheek on cold paving until Osmund dragged the door's fallen timber across their legs.
+
+“Don't talk to him,” he said. “He'll just keep you talking.”
+
+*
+
+Night was gathering in the room. Through the broken doorway Phelnis could see Kostral's window across the court. To its east, a little shooting terrace overlooked the gate steps. The northern window protected him from anyone on the avenue. The terrace had lost its eastern wall, leaving a low stone rail and two broken pillars.
+
+Above her, the gallery faced that open side. Its stair had fallen in a heap outside. She had passed the wreckage on her way in.
+
+“Is there another stair?” she asked.
+
+“No.”
+
+She pulled her pale hair free where it had caught under her black shoulder scales. There had to be somewhere. A man had lived here thirteen years, and Kostral had never found all his beds.
+
+Osmund followed her gaze upwards. “You couldn't fit.”
+
+“Show me.”
+
+Behind a wall panel, a sloping hole climbed through the stone. He had cut footholds along one side. At its upper end was a crack wide enough for his narrow shoulders.
+
+“I made it when we were still working,” he said. “Before the last chamber. I didn't tell the others. I meant to come back and take things for myself.”
+
+Phelnis looked at his ragged coat, at the torn pocket holding half a pear.
+
+She unbuckled her armour. Without it she could squeeze her shoulders through; the horns would be harder. She passed her bow and quiver ahead into the hole and started upwards, tilting her head until the tips scraped stone. Halfway up, one horn wedged against the ceiling. She backed down, turned onto her other side, tried again.
+
+“Left,” Osmund said. “There's a hollow on your left.”
+
+She found it with the crown of her head and pushed through. Stone tore the sleeve at her elbow. For a moment her boots hung clear of the footholds and she had to drag herself by her forearms. Then she was in the upper gallery, breathing dust through her teeth.
+
+She crept to the opening. Across the court, perhaps thirty paces away and a little higher, Kostral still watched the statue through his northern slit. The corner of the guardroom hid his body. To shoot at the doorway where Osmund waited below her, he would have to step onto the terrace. From here she could shoot across it, between the broken pillars.
+
+Phelnis returned to the crack.
+
+“I need him to come out of the guardroom.”
+
+“Call him again.”
+
+She let that pass. “He'll shoot from cover if he knows where I am.”
+
+Osmund was silent below her.
+
+“There's a pillar beside the gate steps,” she said. “Can you reach it?”
+
+“That's open ground.”
+
+“Yes.”
+
+“And this time you'll stop him?”
+
+Her bow hand had begun to shake. She pressed it against the stone. “I'll have a shot.”
+
+For a while she could hear only his breathing. Then he shifted under the crack.
+
+“Don't whistle. Just tell me when you're there.”
+
+Phelnis returned to the opening and set an arrow on the string. Kostral's outline moved behind the slit. The last light lay on the white stones of his terrace, enough to see a man standing there. She brought the string back a little, then let it forward to ease the tremor in her fingers.
+
+“Here,” she said, as quietly as she could.
+
+Below, Osmund shoved aside the timber and stumbled into the court.
+
+He had scarcely cleared the doorway when his leg failed. He caught himself on his hands. Kostral came out onto the terrace with his bow raised.
+
+Phelnis drew. A broken pillar obscured his chest; only his shoulder and horn were clear. She shifted her weight without lifting her feet, bringing the bow around the edge of her opening.
+
+Osmund was trying to stand. Kostral stepped to his left to see past the terrace rail, and the pillar no longer lay between them.
+
+Phelnis loosed into his side. His arrow went down into the court. He struck the rail with his hip, dropped to one knee, and reached towards the guardroom.
+
+She had another arrow drawn before he fell. For several breaths she watched his hand beside the threshold. The fingers did not move.
+
+Below her, Osmund was still crawling towards the pillar.
+
+“He's down,” she called.
+
+Osmund kept going until he reached the stone.
+
+*
+
+She climbed into the guardroom by its inner stair with her bow drawn, though there was no room to turn it. At the top she found Kostral where she had last seen him. She waited beside him, watching for breath, then crouched and touched his throat.
+
+The keys were on a cord beneath his collar. She had to lift his head to get them free. His horn caught the cord and she worked it loose, carefully, as though she might hurt him.
+
+In the room behind her, someone had turned down the bed for a last night. Her own pack rested beside it.
+
+Phelnis took her cloak and went downstairs.
+
+Osmund would not come inside while she opened the gate. He sat against the pillar, watching the terrace. When the gate finally moved, he pushed himself upright before she could reach him and went through, dragging his bad leg.
+
+She followed him across the narrow causeway. The clefts were full of darkness now. At the first tree he stopped and put his forehead against the bark.
+
+Phelnis settled the cloak around his shoulders. Under it, his breathing broke into short, angry catches. He gripped the tree with both hands. She stayed a little way off, holding her bow.
+
+After a while he turned. “Did you get your pack?”
+
+“No.”
+
+“Good. Don't go back for it.”
+
+She sat down beside him.
+
+They spent the night there. Whenever Osmund woke, he reached out and found the bark. Phelnis watched the open gate. By dawn she could make out the carving above it, but from this distance she could not read the names.
+
+The escort came with a white mare for Kostral. Someone had tied ribbons to its bridle; the woman leading it carried a folded robe across her saddle. She smiled when she recognised Phelnis, then saw the blood on her sleeve and brought the horses to a halt.
+
+“Where is he?”
+
+Phelnis got up. The bow had left a deep mark across her palm.
+
+“Kostral is dead. I shot him.”
+
+The woman looked towards the gate. Behind Phelnis, Osmund struggled to his feet, still holding the tree. She put out her free hand, and he took it to steady himself.

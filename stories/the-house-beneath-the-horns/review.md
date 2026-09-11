@@ -6,14 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Evradis | new | Adult horned elf and newest century guardian; no exact, alias, or confusing near reuse found. |
-| Osmereth | new | Living, long-lived hornless resident and model maker; no exact, alias, or confusing near reuse found. |
+| Phelnis | new | Newly chosen adult horned elf archer; no established identity or alias reused. |
+| Osmund | new | Human grave robber and thirteen-year hidden resident; no established identity or alias reused. |
+| Kostral | new | Retiring horned elf guardian; no established identity or alias reused. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The forest, ruined city, terrace, paired crags, and childhood house are unnamed. |
+| None | none | The forest, ruined citadel, causeway, gatehouse, and burial galleries remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Habitation traces and the recovered house fulfill the discovery promise without imposing an unsupported era or civilization identity. Speech, gesture, and corrected misreadings preserve the language barrier and change the search; the final child-height exchange is earned and remains specific in the bounded recent-story comparison.
+- Notes: Targeted exact, alias, close-spelling, and identity checks found no conflicting reuse. Comparison with all six supplied passing stories found no material interchangeability in the dialogic pattern, major exchange, or final meaningful exchange.
