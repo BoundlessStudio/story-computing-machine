@@ -207,6 +207,24 @@
           }
         },
         {
+          "id": "event-the-cat-who-kept-the-door",
+          "title": "The Cat Who Kept the Door",
+          "magicState": "old-magic",
+          "description": "A three-moon alignment awakens a buried artificial sovereign, followed by a confrontation and escape beneath the royal tombs.",
+          "context": [
+            "Forty-one days into Isabet's reign, Murrant retrieves a scythe abandoned after his eighth death. His nine remembered lives span successive royal families, while Aphan's surviving images show much older civilizations occupying the same mountain landscape. These are local spans and layered civilizations, not world resets or a shared calendar.",
+            "Murrant's living magic confronts Aphan's manufactured body and surviving machinery. Isabet helps him escape the damaged chamber with his final life intact. This proposed position before the extinction of old magic establishes no connection to another kingdom, AI, magical system, or observed configuration of moons."
+          ],
+          "sequenceNote": "Proposed after The Unfinished Sunset and before the older regional histories grouped with The Lion's Last Constellation. The neighboring positions are editorial reconstruction; neither the alignment nor the earlier civilizations establish an exact date or a shared event.",
+          "stories": [
+            "the-cat-who-kept-the-door"
+          ],
+          "window": {
+            "start": 24.4,
+            "end": 25.7
+          }
+        },
+        {
           "id": "event-the-lions-last-constellation",
           "title": "The Lion's Last Constellation",
           "magicState": "old-magic",
@@ -4021,6 +4039,13 @@
         "end": 16.6
       },
       "note": "From a centennial handover through the following dawn. Osmund's thirteen years of hiding precede the witnessed pursuit. The proposed older-history position supplies no exact date or relation to neighboring stories."
+    },
+    "the-cat-who-kept-the-door": {
+      "window": {
+        "start": 24.4,
+        "end": 25.7
+      },
+      "note": "One night begins with the three moons aligning and ends with Isabet carrying Murrant back into the palace. His nine lives and Aphan's earlier civilizational history precede the witnessed encounter; their lengths and external chronology remain unspecified."
     }
   },
   "storyMoments": {
@@ -6122,7 +6147,8 @@
     "i-really-need-a-sidekick": "undated",
     "pool-sovereign": "undated",
     "the-ring-between-lives": "contextual",
-    "the-house-beneath-the-horns": "undated"
+    "the-house-beneath-the-horns": "undated",
+    "the-cat-who-kept-the-door": "undated"
   },
   "connections": [
     {
