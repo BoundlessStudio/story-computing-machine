@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-156eb078-3266-45e0-b6c3-ce0364749d3e.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > **[WP]** Two estranged best friends take a beat-up car into the desert for one last road trip before their lives go separate ways. Late one night, beneath a sky crowded with impossible stars, a meteor burns across the horizon—and the girl who wished things could go back to how they were discovers that, for a few minutes at a time, they can. But every time she rewinds the night, the desert changes: roads lead somewhere different, abandoned buildings appear where there was only sand, and her friend remembers pieces of conversations that technically never happened.

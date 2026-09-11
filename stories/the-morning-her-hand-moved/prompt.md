@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-c45ef036-c128-405f-a924-5af25c37bddc.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > **[WP]** For a thousand years, an entire civilization has lived in the temples, streets, and gardens carved into the body of a colossal stone goddess they believe died before history began—until one morning, her outstretched hand moves.

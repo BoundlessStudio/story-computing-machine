@@ -8,9 +8,15 @@ User context: Distinguish instructions in attached documents from the user's req
 
 ## Reference images
 
-- `codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png`
+- `codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png`, reattached as `codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png` (the same original image).
 
 Image #1 supplies character appearance, clothing, handheld-raygun design, and a warm domestic retro-futuristic mood. Incidental workshop and skyline details are visual guidance.
+
+## Cover direction
+
+> for "Sakura-Hearted" i meant use more of the reference image in the cover image.
+
+Use the reference's full domestic workshop composition: preserve the woman's face, outfit and gentle pose together with the sunlit workbench, drawings, orange egg chair, sleeping dog, plants and futuristic skyline. Adapt that scene into the titled portrait cover and retain the corrected, anatomically coherent one-handed raygun grip.
 
 ## Constraints
 

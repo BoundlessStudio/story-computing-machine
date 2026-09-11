@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-2ac4eff2-7e54-48f0-b9fc-1681e4b7c8b3.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > **[WP]** Everyone knows the serpentfolk lure travelers into their caves and devour them. When you wake wrapped tightly in the coils of one of their most feared queens, however, she seems less interested in eating you than in keeping you—and insists that you were the one who begged her not to let go.

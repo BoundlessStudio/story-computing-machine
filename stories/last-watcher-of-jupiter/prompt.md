@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > [WP] For thirty years, the mecha of Jovian Station have faced Jupiter to contain whatever lives beneath its storms—until every machine turns toward deep space and kneels, except hers.

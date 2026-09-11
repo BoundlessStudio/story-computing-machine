@@ -1,5 +1,9 @@
 # Prompt
 
+## Cover direction
+
+> i think they shiould be something more a kind to human the fish make you think something else.
+
 ## Prompt
 
 > [WP] On their 18th birthday, everyone gains their true form. Most people become taller or prettier or something like that. A few people change sex or the like. Your results were more surprising than that.

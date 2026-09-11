@@ -1,5 +1,9 @@
 # Prompt
 
+## Reference images
+
+- `codex-clipboard-a215a44b-bce1-40e8-a1f2-9d34ebae8707.png` — original cover reference supplied by the user.
+
 ## Prompt
 
 > [WP] You emerge from a hidden jungle pool only to discover the water has washed away more than your clothes—it has taken your name, your past, you have no memory of who you are or how you got there.
