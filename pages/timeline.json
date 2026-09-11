@@ -117,6 +117,24 @@
           }
         },
         {
+          "id": "event-the-house-beneath-the-horns",
+          "title": "The House Beneath the Horns",
+          "magicState": "old-magic",
+          "description": "A century watch changes hands → Fresh tracks and an inhabited ruin → A three-day search for a childhood home.",
+          "context": [
+            "The horned forest elves choose a guardian every hundred years. On her first independent circuit, Evradis leaves the inherited perimeter route and finds Osmereth living within the ruins. His worn belongings and recollection of the city before the forest establish a long local history without dating its abandonment or either people’s lifespan.",
+            "A miniature city, a remembered view, and surviving landmarks lead the pair beyond the monumental precinct to a small house. The three-day search supplies internal order. No active magical working or connection to another civilization is established; the selected older-world position remains editorial reconstruction."
+          ],
+          "sequenceNote": "Proposed within the older inhabited world before terminal magical extinction. The wider era is undated, and neighboring positions establish no shared civilization or measured interval.",
+          "stories": [
+            "the-house-beneath-the-horns"
+          ],
+          "window": {
+            "start": 15.3,
+            "end": 16.6
+          }
+        },
+        {
           "id": "event-what-the-wind-wanted",
           "title": "What the Wind Wanted",
           "magicState": "old-magic",
@@ -3996,6 +4014,13 @@
         "end": 19.8
       },
       "note": "Proposed older magic-active placement from immortal sovereignty, reincarnation, and bounded narrative awareness. The scene is undated; the ring's three centuries establish only its internal history."
+    },
+    "the-house-beneath-the-horns": {
+      "window": {
+        "start": 15.3,
+        "end": 16.6
+      },
+      "note": "The century appointment, long habitation, and three-day search establish local time only. The selected position before terminal extinction is an editorial reconstruction; the wider date remains unresolved."
     }
   },
   "storyMoments": {
@@ -6095,7 +6120,8 @@
     "the-old-percentage": "contextual",
     "i-really-need-a-sidekick": "undated",
     "pool-sovereign": "undated",
-    "the-ring-between-lives": "contextual"
+    "the-ring-between-lives": "contextual",
+    "the-house-beneath-the-horns": "undated"
   },
   "connections": [
     {
