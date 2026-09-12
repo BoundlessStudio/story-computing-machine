@@ -812,6 +812,24 @@
           }
         },
         {
+          "id": "event-a-seat-for-the-sun",
+          "title": "A Seat for the Sun",
+          "magicState": "old-magic",
+          "description": "A homemade rocket reaches a low cloud → An eighth birthday and a second game of musical chairs.",
+          "context": [
+            "Tebbit turns eight and launches a homemade rocket carrying a handwritten invitation to Sun Goddess Nika. A household offering, a noon salute, and her living command of nearby light place the garden party within an independent magic-active society; its calendar and relation to other solar powers remain unknown.",
+            "Nika visits an already lively birthday, softens the cake icing with her radiance, and loses at musical chairs after hovering above a seat. Tebbit later loses too, while his cousin wins the chocolate sun. After cake, Nika sings for a second game while Tebbit signals when to stop; they turn away to conceal the signal and celebrate when the cousin is eliminated."
+          ],
+          "sequenceNote": "Proposed after An Ordinary Education and before Undisclosed in the older magic-active world. Neither neighboring history establishes its date; the slot is editorial reconstruction, with no common state or power system implied.",
+          "stories": [
+            "a-seat-for-the-sun"
+          ],
+          "window": {
+            "start": 24.9,
+            "end": 26.2
+          }
+        },
+        {
           "id": "event-undisclosed",
           "title": "Undisclosed",
           "magicState": "old-magic",
@@ -4096,6 +4114,13 @@
         "end": 46.8
       },
       "note": "Undated family transformations and childhood recollections precede one annual eclipse reunion. The mother stayed in the old house for eight years after the narrator left; Ibby is four months old at the present gathering. The old magic-active ordering is editorial and implies no common polity, mechanism or calendar with nearby stories."
+    },
+    "a-seat-for-the-sun": {
+      "window": {
+        "start": 24.9,
+        "end": 26.2
+      },
+      "note": "An undated birthday afternoon with living solar magic. The selected pre-extinction position is provisional publication chronology; the source establishes no relative date or link to another divine figure."
     }
   },
   "storyMoments": {
@@ -5252,6 +5277,12 @@
       "The three rulers and resident delegates ratify a union with common border judgments, defense and free settlement",
       "Winter rebuilding restores Tolrath; mixed town guards escort supplies as royal garrisons withdraw",
       "Yavren returns on the promised spring date, chooses a home with Irdas and attends his opening with Pelka"
+    ],
+    "a-seat-for-the-sun": [
+      "Tebbit launches an invitation on his eighth birthday; Nika brings the damaged rocket down from her cloud.",
+      "Nika dims her radiance when it softens the icing, then discovers that hovering does not claim a chair.",
+      "Tebbit and Nika watch his cousin win the chocolate sun and share cake after their own defeats.",
+      "Nika sings while Tebbit controls the stop signal. They conceal it by turning their chairs away, then celebrate when his cousin is eliminated."
     ]
   },
   "storySpans": {
@@ -6044,6 +6075,11 @@
       "start": "Departure nine years earlier, then a return after mastery and six years of love",
       "end": "The theatre opening the following spring",
       "note": "The Queen's older memories remain part of Yavren. The return and two-city restoration occupy about a year; no absolute civil year or Galactic Cycle coordinate is established."
+    },
+    "a-seat-for-the-sun": {
+      "start": "A birthday rocket interrupts an afternoon cloud nap",
+      "end": "A concealed signal and the cousin’s elimination in the second game",
+      "note": "The present action occupies one afternoon. Tebbit mentions an unsuccessful launch the previous day; these local intervals establish no date against another story."
     }
   },
   "storyEvidence": {
@@ -6212,7 +6248,8 @@
     "the-house-beneath-the-horns": "undated",
     "the-cat-who-kept-the-door": "undated",
     "yavrens-return": "relative",
-    "the-place-we-keep": "undated"
+    "the-place-we-keep": "undated",
+    "a-seat-for-the-sun": "undated"
   },
   "connections": [
     {
