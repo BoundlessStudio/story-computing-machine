@@ -920,6 +920,24 @@
           }
         },
         {
+          "id": "event-the-place-we-keep",
+          "title": "The Place We Keep",
+          "magicState": "old-magic",
+          "description": "An annual eclipse reunion brings a river-born child into the family and opens the stories behind old photographs.",
+          "context": [
+            "An unnamed valley supports photographs, living transformation and an iron casing operated by its wearer. The family dispersed before their childhood home lost its roof; the mother remained in the house for eight years after the narrator left. Their separate transformations and the valley's yearly lunar crossing have no absolute dates.",
+            "The present reunion occupies one afternoon around totality. Selvi brings her four-month-old daughter Ibby, who has always had a liquid body. Conversations about infancy and a ninth-birthday photograph bring different family memories into the gathering. This independent old magic-active placement establishes no shared transformation system, settlement or calendar with neighboring stories."
+          ],
+          "sequenceNote": "This is an editorial ordering slot before the terminal extinction, not a measured Galactic Cycle date. The story supplies no external chronology or relation to the independent histories on either side.",
+          "stories": [
+            "the-place-we-keep"
+          ],
+          "window": {
+            "start": 46.0,
+            "end": 46.8
+          }
+        },
+        {
           "id": "event-transitions-in-common",
           "title": "Transitions in Common",
           "magicState": "old-magic",
@@ -4071,6 +4089,13 @@
         "end": 4.45
       },
       "note": "The witnessed return begins nine years after Yavren's supplied departure history and follows one year of restoration. Placement near When the Eagle Bowed marks the related characters and bookend reading; their differing earlier endings establish no shared factual sequence."
+    },
+    "the-place-we-keep": {
+      "window": {
+        "start": 46.0,
+        "end": 46.8
+      },
+      "note": "Undated family transformations and childhood recollections precede one annual eclipse reunion. The mother stayed in the old house for eight years after the narrator left; Ibby is four months old at the present gathering. The old magic-active ordering is editorial and implies no common polity, mechanism or calendar with nearby stories."
     }
   },
   "storyMoments": {
@@ -6186,7 +6211,8 @@
     "the-ring-between-lives": "contextual",
     "the-house-beneath-the-horns": "undated",
     "the-cat-who-kept-the-door": "undated",
-    "yavrens-return": "relative"
+    "yavrens-return": "relative",
+    "the-place-we-keep": "undated"
   },
   "connections": [
     {
