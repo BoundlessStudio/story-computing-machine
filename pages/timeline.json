@@ -532,6 +532,24 @@
           }
         },
         {
+          "id": "event-still-taking-runaways",
+          "title": "Still Taking Runaways",
+          "magicState": "old-magic",
+          "description": "A childhood promise twenty years earlier → A brief flight between circus performances.",
+          "context": [
+            "Idrella made her circus promise at eight, twenty years before the present afternoon. She joined at sixteen; living performers awakened her bear during that first season. The circus combines ticket sales, tumbling, horses, singing and wagon travel with small acts of living magic.",
+            "Between performances, Velzie brings her wooden dragon after a quarrel at home. Rumbit's living touch awakens Matchstick; the small dragon carries the bear on a brief, awkward flight while Idrella and Velzie follow to the girl's kitchen. These individual awakenings establish no general rule for toys."
+          ],
+          "sequenceNote": "A proposed position in the older magic-active world, between Only Eighteen and The Night Harvest. The local twenty-year interval fixes no Galactic Cycle coordinate or connection to neighbouring histories.",
+          "stories": [
+            "still-taking-runaways"
+          ],
+          "window": {
+            "start": 74.0,
+            "end": 75.2
+          }
+        },
+        {
           "id": "event-the-night-harvest",
           "title": "The Night Harvest",
           "magicState": "old-magic",
@@ -4146,6 +4164,13 @@
         "end": 26.8
       },
       "note": "Twenty-two years of valley life precede three repeated-day encounters and the release on the third night. A retained conversation after the following dawn and first snow seven weeks later mark continuing time. The pre-extinction position is proposed; no absolute date or external event connection is established."
+    },
+    "still-taking-runaways": {
+      "window": {
+        "start": 74.0,
+        "end": 75.2
+      },
+      "note": "An undated circus afternoon follows a promise made twenty years earlier and Rumbit's awakening during Idrella's first circus season. The old magic-active placement is proposed; the unnamed circus and town have no established shared date, locality or mechanism with nearby histories."
     }
   },
   "storyMoments": {
@@ -5308,6 +5333,12 @@
       "Nika dims her radiance when it softens the icing, then discovers that hovering does not claim a chair.",
       "Tebbit and Nika watch his cousin win the chocolate sun and share cake after their own defeats.",
       "Nika sings while Tebbit controls the stop signal. They conceal it by turning their chairs away, then celebrate when his cousin is eliminated."
+    ],
+    "still-taking-runaways": [
+      "Velzie arrives at the ticket wagon with Matchstick and asks whether the circus still takes runaways.",
+      "Living warmth from Rumbit awakens the wooden dragon, whose size remains unchanged.",
+      "Matchstick takes off with Rumbit; Idrella and Velzie chase them through the circus and the town gardens.",
+      "The dragon lands in Velzie's kitchen and asks for butter. Rumbit and Velzie begin enlarging the account of his flight."
     ]
   },
   "storySpans": {
@@ -6105,6 +6136,11 @@
       "start": "A birthday rocket interrupts an afternoon cloud nap",
       "end": "A concealed signal and the cousin’s elimination in the second game",
       "note": "The present action occupies one afternoon. Tebbit mentions an unsuccessful launch the previous day; these local intervals establish no date against another story."
+    },
+    "still-taking-runaways": {
+      "start": "An eight-year-old's promise to her teddy bear",
+      "end": "The bear and the girl retell their first dragon flight twenty years later",
+      "note": "The main action occupies one afternoon between circus performances. Idrella joined at sixteen and her bear awakened during that first season; Velzie saw him eating an apple the previous day. These intervals establish local order only."
     }
   },
   "storyEvidence": {
@@ -6275,7 +6311,8 @@
     "yavrens-return": "relative",
     "the-place-we-keep": "undated",
     "a-seat-for-the-sun": "undated",
-    "the-first-winter": "undated"
+    "the-first-winter": "undated",
+    "still-taking-runaways": "undated"
   },
   "connections": [
     {
