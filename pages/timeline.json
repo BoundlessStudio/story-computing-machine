@@ -1681,6 +1681,24 @@
           }
         },
         {
+          "id": "event-twelve-in-the-room",
+          "title": "Twelve in the Room",
+          "magicState": "long-dark",
+          "description": "Twelve private commissions bring an old killing crew into one ballroom, where their former broker reveals the common employer and the gathering turns violent.",
+          "context": [
+            "Alvera died eight years before the gathering after taking records of killings carried out for her mother. Hesk remembers all twelve assassins agreeing that she could not be released; three years of offers on Osselin's life precede his acceptance of the final commission.",
+            "The witnessed encounter follows Hesk from the armed ring through a failed rush, Vestrin's opening of a service exit, and an explosion to his injured escape. He cannot establish who else remains alive. Guns, recordings, payment intermediaries, and the trap have ordinary material causes; no shared city, criminal organization, or calendar is established."
+          ],
+          "sequenceNote": "Proposed within a magicless technological modernity of the Long Dark. Its display slot after the ordinary modern interval is editorial reconstruction, not a measured date or an established connection to neighboring stories.",
+          "stories": [
+            "twelve-in-the-room"
+          ],
+          "window": {
+            "start": 29.0,
+            "end": 30.2
+          }
+        },
+        {
           "id": "event-sakura-hearted",
           "title": "Sakura-Hearted",
           "magicState": "long-dark",
@@ -4171,6 +4189,13 @@
         "end": 75.2
       },
       "note": "An undated circus afternoon follows a promise made twenty years earlier and Rumbit's awakening during Idrella's first circus season. The old magic-active placement is proposed; the unnamed circus and town have no established shared date, locality or mechanism with nearby histories."
+    },
+    "twelve-in-the-room": {
+      "window": {
+        "start": 29.0,
+        "end": 30.2
+      },
+      "note": "One night from the completed gathering to Hesk's injured escape. Alvera's death eight years earlier and three years of rejected offers are local intervals only; the proposed Long Dark placement supplies no absolute date or relationship to another story."
     }
   },
   "storyMoments": {
@@ -6312,7 +6337,8 @@
     "the-place-we-keep": "undated",
     "a-seat-for-the-sun": "undated",
     "the-first-winter": "undated",
-    "still-taking-runaways": "undated"
+    "still-taking-runaways": "undated",
+    "twelve-in-the-room": "undated"
   },
   "connections": [
     {
