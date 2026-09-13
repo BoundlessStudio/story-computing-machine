@@ -74,7 +74,7 @@ one Prompt section under minimal labels, and all originals via `-ReferenceImage`
 Continue the ordinary workflow with fresh agents, fresh cover, and collection
 comparison. Do not carry forward old creative artifacts or create a backup,
 replacement-history file, or managed rewrite section. Git preserves history.
-Add the final slug to chronology; commit the named removal and creation together.
+Commit the named removal and creation together.
 
 ## Collection context
 
@@ -126,10 +126,10 @@ python pages/build.py capture <slug>
 python pages/build.py check
 ```
 
-Keep the chronology placement complete before the catalog check. Capture is the
-final prose-and-cover handoff. Stage the four story Markdown files,
+Capture is the final prose-and-cover handoff; chronology entries are not required.
+Stage the four story Markdown files,
 `title-image.jpg`, `pages/catalog.json`, the captured
-`pages/covers/<slug>.jpg`, and any required chronology/removal changes. Commit,
+`pages/covers/<slug>.jpg`, and any required removal changes. Commit,
 push the current branch to `origin` with upstream tracking, and open a draft
 pull request against the repository's default branch. These steps are required
 for completion; do not merge automatically.
