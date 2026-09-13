@@ -246,12 +246,12 @@
           "id": "event-the-first-winter",
           "title": "The First Winter",
           "magicState": "old-magic",
-          "description": "Twenty-two years inside an autumn valley, three encounters with one repeated day, and a departure into the first winter.",
+          "description": "Eighteen years of repeating autumn, one final pursuit, and a departure into the first advancing winter.",
           "context": [
-            "During an undated evacuation, Orlaith entrusts her newborn to Neshka for one night. The witch holds the entire world outside her valley in a repeating day while the valley's inhabitants and possessions age in perpetual autumn. The daughter grows to twenty-two; Orlaith remains twenty-four and resumes the same search at every reset.",
-            "Three successive valley days bring three encounters at a boundary that permits sight and speech but turns crossing travelers back. Neshka releases the working on the third night. The daughter crosses, Orlaith retains their conversation after the following dawn, and ordinary time continues. Seven weeks later the daughter experiences snow and writes to Neshka. These local intervals establish no shared calendar, place, or mechanism with another story."
+            "Before the fixed dawn, the unnamed mother dies cutting the short pass crossing, delaying the blood-hunter long enough for Besset to complete her working. The witch repeats the material world from that dawn while carrying herself, the child, and worn or held belongings forward. Their injuries and memories persist. The hunter must take a longer route and loses his progress at each renewal.",
+            "At eighteen, the narrator walks down toward the approaching hunter and survives an attack when Besset renews the day. During the final interval they intercept and kill him, confirm his death, and withhold renewal at dawn. Their wounds and his body remain. The valley changes over the following weeks, and the narrator leaves as the first snow arrives."
           ],
-          "sequenceNote": "Proposed in the older magic-active world before the terminal extinction. This is an editorial ordering slot, not a measured Galactic Cycle date; the repeated outside day does not establish a chronological relationship to neighboring independent histories.",
+          "sequenceNote": "Proposed in the older magic-active world before terminal extinction. This editorial slot establishes no measured date, shared time-working, or causal connection to neighboring independent histories.",
           "stories": [
             "the-first-winter"
           ],
@@ -4158,19 +4158,19 @@
       },
       "note": "An undated birthday afternoon with living solar magic. The selected pre-extinction position is provisional publication chronology; the source establishes no relative date or link to another divine figure."
     },
-    "the-first-winter": {
-      "window": {
-        "start": 26.0,
-        "end": 26.8
-      },
-      "note": "Twenty-two years of valley life precede three repeated-day encounters and the release on the third night. A retained conversation after the following dawn and first snow seven weeks later mark continuing time. The pre-extinction position is proposed; no absolute date or external event connection is established."
-    },
     "still-taking-runaways": {
       "window": {
         "start": 74.0,
         "end": 75.2
       },
       "note": "An undated circus afternoon follows a promise made twenty years earlier and Rumbit's awakening during Idrella's first circus season. The old magic-active placement is proposed; the unnamed circus and town have no established shared date, locality or mechanism with nearby histories."
+    },
+    "the-first-winter": {
+      "window": {
+        "start": 26.0,
+        "end": 26.8
+      },
+      "note": "The mother dies before the captured dawn. Eighteen years of protected aging precede the final repeated day; an unrepeated dawn and weeks of changing weather lead to the first winter. The older magic-active placement is proposed, with no absolute date or external event connection established."
     }
   },
   "storyMoments": {
@@ -6311,8 +6311,8 @@
     "yavrens-return": "relative",
     "the-place-we-keep": "undated",
     "a-seat-for-the-sun": "undated",
-    "the-first-winter": "undated",
-    "still-taking-runaways": "undated"
+    "still-taking-runaways": "undated",
+    "the-first-winter": "undated"
   },
   "connections": [
     {

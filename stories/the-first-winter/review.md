@@ -6,14 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Neshka | new | Living witch and lifelong guardian of the unnamed narrator; no aliases or confusing prior reuse. |
-| Orlaith | new | The narrator's birth mother, twenty-four on the repeating day; no aliases or confusing prior reuse. |
+| Besset | new | Witch who raised the unnamed narrator; no aliases or confusing exact, close-spelling, or semantic reuse found in the frozen baseline, passing current inventories, relevant universe entries, or canon bundle searches. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The valley, pass, roads, town, and winter lodging remain unnamed. |
+| None | none | The valley, pass, cottage, gully, village, and inn remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The repeated meetings preserve unequal knowledge and distinct maternal wants; release and guarded correspondence earn the ending. The required recent-story comparison found no material interchangeability.
+- Notes: The supplied PreReview PASS is consistent with the independently extracted one-person inventory. Bounded comparison with the six supplied passing stories found no materially interchangeable dialogic pattern or final relationship action; shared protector and pursuit motifs are earned by this prompt.
