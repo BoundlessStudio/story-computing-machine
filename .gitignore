@@ -1,2 +1,6 @@
 /_site/
 **/__pycache__/
+
+/illustrated/node_modules/
+/tmp/
+/illustrated/.venv/

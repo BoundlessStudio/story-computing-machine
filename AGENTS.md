@@ -1,6 +1,6 @@
 # Story Computing Machine
 
-This is a shared-universe fiction workspace. Stories and universe notes are the
+This is a shared-universe fiction workspace. Stories, universe notes, and illustrated editions are the
 product; process records are not. This file owns authority, permissions,
 artifact boundaries, and worktree rules. Production details belong to the
 linked contracts below.
@@ -175,6 +175,51 @@ prose [drafting and revision](.agents/skills/short-story-writing/SKILL.md#draft-
 Those contracts own role inputs, writable files, stage ordering, independent
 review, name checks, and all seven saved-pixel cover gates. Mechanical validation
 never replaces semantic review or the coordinator's independent image review.
+
+## Illustrated editions
+
+`[Illustrate] "Story Name" (details)` and `[IL] "Story Name" (details)` are exact
+aliases for [illustrated-create](.agents/skills/illustrated-create/SKILL.md).
+Classic is the default; Deluxe and Cinematic change presentation, not the prose
+or art style. `[WP]` continues to create stories. `[Comic]` is reserved for a
+future workflow; V1 does not produce comics or panel scripts.
+
+Editions live in the separate `illustrated/` collection. A package contains
+`prompt.md`, `plan.md`, `edition.json`, `review.md`, selected cover/reference/
+illustration assets, and `edition.pdf`. The four-file story rule applies to
+`stories/`, not edition packages. Temporary candidates/previews stay outside
+packages. No duplicate prose drafts or additional lifecycle records are allowed.
+
+The original current or bundle story, its prompt, cover, and canon marker are
+read-only inputs, including when canon is true. Creating or revising an edition
+is not a source edit or unlock and never establishes universe facts. Preserve
+universe authority and binding narrative policy; do not re-review/rewrite old
+prose under a new profile. Missing/ambiguous source identity and substantive
+source/authority conflicts require user direction. References remain external
+inputs except generated approved sheets and the reused edition cover.
+
+Extend the branch sequence above to editions using `codex/illustrated-<slug>`.
+Resolve a dedicated absolute sibling worktree before production or delegation;
+leave the primary checkout on main. Keep the same safe-switch and occupied-path
+stops. Never write an edition in the primary checkout. Explicit edits can resume
+an edition; another edition needs a distinct slug and never implicitly overwrites.
+
+The user approves the plan/counts, then all selected references/cover/layout,
+then the independently reviewed final web/PDF edition. Approval is an actual user
+response bound to exact inputs, not an agent verdict or the passage of time.
+Generation uses the pinned OpenAI Image 2.5 Sunburst API with approved references,
+one asset per call, and an initial run plus two automatic corrections per stable
+image ID. Persist attempts across resumes. Source or dependency changes block
+stale approval use; the stage contract owns renewal and explicit repinning.
+
+`pages/illustrated.json` and `pages/illustrated/` store separately approved
+publication snapshots. Named `capture-illustrated` requires final approval,
+independent PASS, unchanged source, and deliberately reconciled source/catalog
+canon. It never publishes the original story implicitly. Ordinary capture and
+capture-all never refresh editions. Published editions stay frozen until an
+explicit recapture; Pages builds use stored prose/art/PDF only and never render
+PDFs, generate art, or traverse production sources. Merge edition branches
+through draft pull requests, never automatically.
 
 ## Pages
 

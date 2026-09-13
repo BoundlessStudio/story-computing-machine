@@ -1,0 +1,46 @@
+name: Illustrated edition tests
+
+on:
+  pull_request:
+    paths:
+      - 'illustrated/**'
+      - 'pages/**'
+      - '.agents/skills/illustrated-create/**'
+      - '.codex/agents/illustrated-*'
+      - 'AGENTS.md'
+      - '.github/workflows/illustrated-tests.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'illustrated/**'
+      - 'pages/**'
+      - '.agents/skills/illustrated-create/**'
+      - '.github/workflows/illustrated-tests.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      ILLUSTRATED_PDF_TESTS: '1'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: illustrated/package-lock.json
+      - run: python -m pip install -r illustrated/requirements.txt
+      - run: npm ci --prefix illustrated
+      - run: npm exec --prefix illustrated -- playwright install --with-deps chromium
+      - name: Source, lifecycle, publication, and real offline exports
+        run: python -m unittest illustrated.test_editions pages.test_illustrated pages.test_illustrated_capture pages.test_illustrated_image_cli pages.test_build -v
+      - name: Stored publication parity
+        run: python pages/build.py check
+      - name: Snapshot-only site build
+        run: python pages/build.py build --output _site

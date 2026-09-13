@@ -1,0 +1,1 @@
+{"name":"story-illustrated-export","private":true,"version":"1.0.0","type":"module","dependencies":{"playwright":"1.62.1"},"scripts":{"install-browser":"playwright install chromium"}}
