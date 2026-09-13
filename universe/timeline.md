@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: The universal timeline is measured in Galactic Cycles, each defined
   by one orbit of the world's star system around the galactic center.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q019, Q036)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q019, Q036)
 - Aliases: Galactic Cycle
 - Notes:
   - `ka`, `Ma`, and reference years may locate intervals within a Galactic
@@ -21,7 +21,7 @@
 - Status: CANON
 - Summary: The modern-like Nell and Bash era precedes the Glass-Sea era on the
   same physical world; Ravel's position relative to them is unresolved.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002–Q006,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q002–Q006,
   Q036, Q071)
 - Aliases: None
 - Notes:

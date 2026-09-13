@@ -7,8 +7,8 @@ through specialist outline, prose, independent review, and cover assignments:
 prompt.md → outline.md → story.md → review.md → title-image.jpg
 ```
 
-The stories and universe notes are the product. Production stays in these five
-artifacts, with Git preserving history and Pages publishing a stored snapshot.
+Stories, universe notes, and illustrated editions are the product. Story
+production stays in these five artifacts, with Git preserving history and Pages publishing a stored snapshot.
 
 ## Start a story
 
@@ -27,6 +27,31 @@ a draft pull request. New stories are non-canon; promotion is a separate user
 decision. For named replacements and localized edits, see
 [permissions](AGENTS.md#canon-lock-and-story-editing).
 
+## Illustrate a finished story
+
+```text
+[Illustrate] "Exact Story Title"
+[IL] "Exact Story Title" cinematic
+[IL] "story-slug" deluxe
+```
+
+`[IL]` is an exact shortcut for `[Illustrate]`. Both preserve the complete prose
+and create an illustrated reading edition. Classic is the default; Deluxe adds
+more art and Cinematic emphasizes full-page illustrations. Shared house rules
+control typography and layout, while the source cover, references, and story
+tone guide each edition's art direction. Comics and speech bubbles are deferred.
+
+The agent proposes meaningful illustration moments and reference counts. You
+approve the plan, then character/location/object references, the cover, and a
+layout sample. After that it creates scenes, assembles the web reader and PDF,
+and obtains independent review followed by your final approval. Request changes
+through Codex: regenerate a named image, move or resize a placement, or revise
+art direction. Changes renew the affected approval stages. The original cover
+is reused unless you request a new edition cover; source stories remain intact.
+
+See [illustrated-create](.agents/skills/illustrated-create/SKILL.md) for the stage
+contract and [edition tooling](illustrated/README.md) for setup and commands.
+
 ## Project map
 
 - [AGENTS.md](AGENTS.md): authority, permissions, artifact boundaries, worktrees.
@@ -37,16 +62,18 @@ decision. For named replacements and localized edits, see
   scaffold, and validation scripts.
 - [short-story-writing](.agents/skills/short-story-writing/SKILL.md): prose adapter;
   other craft skills are pinned references tracked by `skills-lock.json`.
-- `.codex/agents/`: four specialist entry points.
+- `.codex/agents/`: story and illustrated-edition specialist entry points.
+- [illustrated/](illustrated/README.md): edition packages, house rules, lifecycle and PDF exporter.
 - [stories/](stories/README.md): current and supported bundle packages;
   `_template/` supplies the four-file scaffold.
-- `pages/catalog.json`, `pages/covers/`: publication snapshot.
+- `pages/catalog.json`, `pages/covers/`: story publication snapshot.
+- `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
-GitHub Pages publishes the Library and individual story pages. The
+GitHub Pages publishes the Library, story pages, and approved illustrated readers/PDFs. The
 Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
-and renderer remain in the repository for local reference and dedicated tests.
+and renderer remain in the repository for local reference.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -106,10 +133,9 @@ completed structure, verdicts, inventory, and decodable cover. Semantic and
 visual judgment remains with the reviewers. Bundle prose receives only
 compatible checks.
 
-For tooling changes and a local site preview:
+For a local site preview:
 
 ```powershell
-python -m unittest discover -s pages -p "test_*.py" -v
 python pages/build.py build --output _site
 ```
 

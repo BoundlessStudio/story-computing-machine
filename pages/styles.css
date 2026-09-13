@@ -613,3 +613,6 @@ h1 {
 }
 
 }
+
+.illustrated-available{display:block;margin:.5rem 0;font-size:.8rem;color:var(--muted);font-style:italic}
+.edition-links{padding:1rem 1.4rem;border:1px solid var(--rule);border-radius:.4rem}

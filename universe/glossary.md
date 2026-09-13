@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: One orbit of the world's star system around the galactic center,
   used as the universal timeline's largest standard chronological unit.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q036)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q036)
 - Aliases: None
 - Notes: Capitalize when naming the formal unit. It is not a synchronized cycle
   of civilizational rise and collapse.
@@ -15,7 +15,7 @@
 - Status: LOCKED
 - Summary: Lowercase cultural labels for underlying systems, not objective
   cosmological categories.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q013–Q014)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q013–Q014)
 - Aliases: None
 - Notes: Use the vocabulary appropriate to the viewpoint culture. Private canon
   should describe mechanisms rather than assume these labels define reality.
@@ -26,7 +26,7 @@
 - Summary: An era-level description for a civilization that resembles
   contemporary Earth; modern-like culture can recur and does not identify one
   unique universal coordinate.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q003, Q006);
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q003, Q006);
   recurrence clarified by explicit user decision, 2026-08-25
 - Aliases: modern-like civilization; Earth-like era
 - Notes:
@@ -44,7 +44,7 @@
 - Status: CANON
 - Summary: The Ravel setting belongs to another era of the same physical world
   as the modern-like and Glass-Sea settings, not to a separate planet or plane.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002, Q005,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q002, Q005,
   Q071)
 - Aliases: None
 - Notes: Its chronological position and all additional Ravel details remain
@@ -98,7 +98,7 @@
 - Status: CANON
 - Summary: A later era of the same physical world, occurring long after the
   modern-like era.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002, Q004)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q002, Q004)
 - Aliases: Glass-Sea era
 - Notes: The regional entries below establish only the promoted Glass-Sea
   geography, cultures, events, and systems they name. Its wider detail and its

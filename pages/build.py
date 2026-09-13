@@ -7,6 +7,7 @@ import math
 import re
 import shutil
 import subprocess
+import sys
 from collections import Counter
 from dataclasses import dataclass, replace
 from datetime import date, datetime
@@ -1107,7 +1108,7 @@ def _display_date(value: str) -> str:
     return f"{parsed.strftime('%b')} {parsed.day}, {parsed.year}"
 
 
-def render_index(catalog: Catalog) -> str:
+def render_index(catalog: Catalog, editions=()) -> str:
     items = []
     for index, story in enumerate(catalog.stories):
         created = html.escape(story.created)
@@ -1120,11 +1121,12 @@ def render_index(catalog: Catalog) -> str:
         rating = html.escape(story.rating)
         rating_class = story.rating.casefold().replace("+", "-plus")
         loading = "eager" if index == 0 else "lazy"
+        illustrated_label = '<span class="illustrated-available">Illustrated edition available</span>' if any(e["source"]["slug"] == story.slug for e in editions) else ""
         items.append(
             f'<li class="story-card"><a class="story-card-link" href="stories/{slug}.html">'
             f'<img class="card-cover" src="{cover}" alt="Cover art for {title}" width="864" height="1536" '
             f'loading="{loading}" decoding="async">'
-            f'<div class="card-copy"><h2 class="story-title">{title}</h2>'
+            f'<div class="card-copy"><h2 class="story-title">{title}</h2>{illustrated_label}'
             f'<span class="card-prompt"><span class="prompt-label">Prompt</span>'
             f'{html.escape(story.prompt)}</span>'
             f'<dl class="card-details">'
@@ -1151,7 +1153,15 @@ def render_index(catalog: Catalog) -> str:
     )
 
 
-def render_story(story: Story) -> str:
+def render_story(story: Story, editions=()) -> str:
+    edition_links = "".join(
+        f'<li><a href="../illustrated/{html.escape(e["slug"], quote=True)}.html">'
+        f'{html.escape(e["mode"].title())} illustrated edition</a> · '
+        f'<a href="../{html.escape(e["pdf"]["path"], quote=True)}" download>PDF</a></li>'
+        for e in editions if e["source"]["slug"] == story.slug
+    )
+    if edition_links:
+        edition_links = '<ul class="edition-links">' + edition_links + '</ul>'
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
     title = html.escape(story.title)
     cover = html.escape(f"../{story.cover}", quote=True)
@@ -1159,7 +1169,7 @@ def render_story(story: Story) -> str:
         f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
         f'<h1>{title}</h1>'
         f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
-        f'{_prompt(story.prompt)}'
+        f'{edition_links}{_prompt(story.prompt)}'
         f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
         f'width="864" height="1536" decoding="async"></figure>'
         f'<div class="story-prose">{prose}</div></article>'
@@ -1191,7 +1201,7 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
     root = repository_root.resolve()
     protected = [
         root / name
-        for name in (".git", ".agents", ".codex", "pages", "sources", "stories", "universe")
+        for name in (".git", ".agents", ".codex", "pages", "stories", "universe", "illustrated")
     ]
     if (
         resolved == root
@@ -1212,15 +1222,26 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     (destination / "covers").mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
-    (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
+    edition_snapshot = snapshot_path.with_name("illustrated.json")
+    editions = []
+    if edition_snapshot.exists():
+        editions = _illustrated_module().build_editions(destination, edition_snapshot)
+    (destination / "index.html").write_text(render_index(catalog, editions), encoding="utf-8")
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover
         shutil.copy2(source_cover, destination / story.cover)
         (destination / "stories" / f"{story.slug}.html").write_text(
-            render_story(story),
+            render_story(story, editions),
             encoding="utf-8",
         )
     return catalog
+
+
+def _illustrated_module():
+    # Script invocation and synthetic workspaces both retain the original CLI.
+    sys.path.insert(0, str(REPOSITORY_ROOT))
+    from pages import illustrated_editions
+    return illustrated_editions
 
 
 def main() -> None:
@@ -1233,6 +1254,8 @@ def main() -> None:
     capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
     capture_parser.add_argument("slug")
 
+    illustrated_parser = commands.add_parser("capture-illustrated", help="Capture one approved illustrated edition.")
+    illustrated_parser.add_argument("slug")
     commands.add_parser("capture-all", help="Refresh every published story from its source package.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
@@ -1240,6 +1263,9 @@ def main() -> None:
     if args.command == "build":
         catalog = build(args.output)
         print(f"Built {len(catalog.stories)} stored stories in {args.output}")
+    elif args.command == "capture-illustrated":
+        _illustrated_module().capture_edition(REPOSITORY_ROOT, args.slug)
+        print(f"Stored illustrated edition {args.slug}")
     elif args.command == "capture":
         catalog = capture_story(args.slug)
         print(f"Stored {args.slug}; publication catalog now has {len(catalog.stories)} stories")
@@ -1251,6 +1277,9 @@ def main() -> None:
         source_count, published_count, canon_count = validate_repository_inventory(
             catalog
         )
+        if SNAPSHOT_PATH.with_name("illustrated.json").exists():
+            for note in _illustrated_module().check_snapshot(REPOSITORY_ROOT):
+                print(note)
         print(
             f"PASS: {published_count} published stories and covers; "
             f"{source_count} source packages ({canon_count} canon, "
