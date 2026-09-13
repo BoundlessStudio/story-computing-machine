@@ -461,23 +461,6 @@ deno run --allow-read scripts/dialogue-audit.ts --text "dialogue here"
 Run the manual Ground check first. A high score or empty issue list is never a
 dialogue PASS verdict.
 
-### semantic-coherence-cases.md
-
-Use `tests/semantic-coherence-cases.md` when changing this skill or checking an
-evaluator's judgment order. Judge the shuffled cases blind and require a plain
-event paraphrase, speaker evidence, listener inference, and deletion consequence
-before revealing the expected verdict. Inventing missing context is a failed
-evaluation.
-
-Run the tool guardrails after editing either heuristic script:
-
-```bash
-deno test --allow-run --allow-read tests/tool-guardrails.test.ts
-```
-
-They verify that fluent nonsense and impossible chronology cannot be reported as
-a dialogue pass, even when they match many surface-pattern heuristics.
-
 ---
 
 ## Integration with story-sense

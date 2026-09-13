@@ -1201,7 +1201,7 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
     root = repository_root.resolve()
     protected = [
         root / name
-        for name in (".git", ".agents", ".codex", "pages", "sources", "stories", "universe", "illustrated")
+        for name in (".git", ".agents", ".codex", "pages", "stories", "universe", "illustrated")
     ]
     if (
         resolved == root

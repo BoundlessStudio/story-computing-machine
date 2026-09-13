@@ -31,7 +31,7 @@ Real image generation additionally requires `OPENAI_API_KEY` set locally, model
 access, and the installed imagegen skill's unchanged `scripts/image_gen.py`.
 The default model is `gpt-image-2.5-sunburst-2026-09-08`, quality high. Do not put
 keys in the repository or chat. `generate --dry-run` validates without a paid
-request. Installation and tests make no paid image requests.
+request. Installation makes no paid image requests.
 
 ## Lifecycle and layout
 
@@ -87,21 +87,3 @@ Source changes pause production. Explicit source repinning is a user version
 decision and invalidates dependent approvals/assets while retaining attempts.
 Existing published editions remain frozen until named recapture. A second
 edition of a story needs another slug; no implicit overwrite is permitted.
-
-## Tests
-
-```powershell
-python -m unittest illustrated.test_editions pages.test_illustrated pages.test_illustrated_capture -v
-$env:ILLUSTRATED_PDF_TESTS = '1'
-python -m unittest pages.test_illustrated.PDFExportTests -v
-python -m unittest discover -s pages -p 'test_*.py' -v
-```
-
-The opt-in PDF test uses synthetic fixture artwork and a real offline Chromium
-export for all three modes. Set `ILLUSTRATED_VISUAL_OUTPUT` to an ignored temp
-folder to retain PDFs/HTML for inspection. Automated tests cover mechanical
-invariants; they cannot certify story truth, artwork quality, or real user consent.
-Set `ILLUSTRATED_IMAGE_CLI_TESTS=1` and run `python -m unittest
-pages.test_illustrated_image_cli -v` to exercise the installed, unchanged imagegen
-CLI against a local fake API, including real reference-image bytes.
-No existing story is reopened as a test fixture.

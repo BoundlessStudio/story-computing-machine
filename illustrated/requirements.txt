@@ -1,3 +1,2 @@
 -r ../pages/requirements.txt
-pypdf==6.10.0
 openai==3.13.0

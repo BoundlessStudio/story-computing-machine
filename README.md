@@ -73,7 +73,7 @@ contract and [edition tooling](illustrated/README.md) for setup and commands.
 GitHub Pages publishes the Library, story pages, and approved illustrated readers/PDFs. The
 Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
-and renderer remain in the repository for local reference and dedicated tests.
+and renderer remain in the repository for local reference.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -133,10 +133,9 @@ completed structure, verdicts, inventory, and decodable cover. Semantic and
 visual judgment remains with the reviewers. Bundle prose receives only
 compatible checks.
 
-For tooling changes and a local site preview:
+For a local site preview:
 
 ```powershell
-python -m unittest discover -s pages -p "test_*.py" -v
 python pages/build.py build --output _site
 ```
 

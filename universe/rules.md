@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: Magic, technology, and divinity are cultural labels for real
   underlying systems, not objective cosmological categories.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q011,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q011,
   Q013–Q014)
 - Aliases: None
 - Notes:
@@ -20,7 +20,7 @@
 
 - Status: LOCKED
 - Summary: Only life can use magic.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q021)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q021)
 - Aliases: None
 - Notes: Nonliving devices may store, focus, transmit, or shape magic supplied
   through living agency, but cannot act as magic users unless they qualify as
@@ -32,7 +32,7 @@
 - Status: CANON
 - Summary: Godhood requires the continuing conjunction of worship, power, and
   authority.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q015–Q016,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q015–Q016,
   Q022)
 - Aliases: Godhood
 - Notes:
@@ -54,7 +54,7 @@
 - Status: CANON
 - Summary: A universal underlying afterlife exists, while cultures experience
   and describe it differently.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q017)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q017)
 - Aliases: None
 - Notes: Ghosts, reincarnation, and digitally mediated continuations are also
   possible. Their relationships to the underlying afterlife must be defined
@@ -65,7 +65,7 @@
 - Status: CANON
 - Summary: Neither cost nor desire is a universal fuel for power; each has
   metaphysical force only where a particular system establishes it.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q023–Q024,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q023–Q024,
   Q028)
 - Aliases: None
 - Notes:
@@ -81,7 +81,7 @@
 - Summary: Memory is an umbrella for several phenomena, and transformed,
   copied, branched, projected, or reconstructed people are evaluated according
   to their specific mechanism rather than one universal ontology.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q025–Q026,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q025–Q026,
   Q031)
 - Aliases: None
 - Notes:
@@ -135,7 +135,7 @@
 - Status: CANON
 - Summary: Names are normally symbolic and socially powerful, not universally
   magical.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q027, Q072)
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q027, Q072)
 - Aliases: True names; name-power
 - Notes: Literal name-power is a rare local effect produced when a specific
   technological, magical, legal, or cultural system binds identity or
@@ -167,7 +167,7 @@
 - Status: CANON
 - Summary: False or incompatible records may preserve truth through a defined
   mechanism, but no universal loophole turns contradiction into evidence.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q029–Q030,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q029–Q030,
   Q042)
 - Aliases: None
 - Notes:
@@ -185,7 +185,7 @@
 - Status: CANON
 - Summary: Portal capabilities are system-specific; some may connect eras as
   well as places, but no universal portal network or rule is established.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q040–Q041,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q040–Q041,
   Q044)
 - Aliases: Crossings; Gates
 - Notes:
@@ -315,7 +315,7 @@
 - Status: CANON
 - Summary: Resemblance, repeated imagery, or folklore does not by itself prove
   shared origin or mechanism.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q045–Q046,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q045–Q046,
   Q052)
 - Aliases: None
 - Notes:

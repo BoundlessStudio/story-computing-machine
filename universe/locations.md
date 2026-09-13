@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: Earth, Ravel, and the Glass-Sea world are not separate planets or
   planes; they are names associated with different eras of one physical world.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002–Q005,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q002–Q005,
   Q071)
 - Aliases: Earth; Ravel; Glass-Sea world
 - Notes:
@@ -21,7 +21,7 @@
 - Status: CANON
 - Summary: The Glass Gate is a local magical crossing system capable of linking
   different eras of the same world.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q040–Q041,
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q040–Q041,
   Q044)
 - Aliases: Gate
 - Notes: Beyond the witnessed behavior promoted below, its access points,

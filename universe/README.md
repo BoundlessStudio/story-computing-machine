@@ -45,7 +45,7 @@ guidance. `RETIRED` is retained only for historical traceability.
 - `style-guide.md` — narrative craft, tone, and content boundaries.
 - `retcons.md` — approved changes to authoritative facts.
 
-The initial decision record remains in
-`sources/decisions/2026-07-22-universe-grill.md` as provenance only.
+The [initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md)
+is preserved in Git history as provenance only.
 `stories/NAMES.md` is the frozen people-name baseline from earlier production;
 current stories inventory people and places in their own `review.md`.
