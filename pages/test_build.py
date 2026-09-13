@@ -1959,34 +1959,30 @@ class StorySystemTests(unittest.TestCase):
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:
             output = Path(temporary) / "site"
-            original_loader = build.load_story_source
-            build.load_story_source = lambda *_args, **_kwargs: self.fail(
-                "Pages build reopened a production story"
-            )
-            try:
+            output.mkdir()
+            retired_files = ("timeline.html", "timeline.js", "atlas.css", "worldline-hero-art.webp")
+            for name in retired_files:
+                (output / name).write_text("Previous chronology output", encoding="utf-8")
+            (output / "cycle-icons").mkdir()
+            (output / "cycle-icons" / "old-cycle.png").write_bytes(b"Previous cycle icon")
+            with (
+                patch.object(build, "load_story_source", side_effect=AssertionError(
+                    "Pages build reopened a production story"
+                )),
+                patch.object(build, "load_timeline", side_effect=AssertionError(
+                    "Pages build loaded the unpublished chronology"
+                )),
+            ):
                 catalog = build.build(output)
-            finally:
-                build.load_story_source = original_loader
             self.assertTrue((output / "index.html").is_file())
-            self.assertTrue((output / "timeline.html").is_file())
             self.assertTrue((output / "theme.js").is_file())
-            self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
-            self.assertTrue((output / "atlas.css").is_file())
+            for name in (*retired_files, "cycle-icons"):
+                self.assertFalse((output / name).exists(), name)
             self.assertEqual(
                 (REPO / "pages/theme.js").read_bytes(),
                 (output / "theme.js").read_bytes(),
             )
-            hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
-            self.assertTrue(hero_art.is_file())
-            self.assertEqual(build.WORLDLINE_HERO_ART_PATH.read_bytes(), hero_art.read_bytes())
-            timeline = build.load_timeline(catalog)
-            icon_names = {f"{cycle.id}.png" for cycle in timeline.cycles}
-            self.assertEqual(icon_names, {path.name for path in (output / "cycle-icons").iterdir()})
-            for name in icon_names:
-                self.assertEqual((build.CYCLE_ICONS_PATH / name).read_bytes(),
-                                 (output / "cycle-icons" / name).read_bytes())
-            self.assertFalse((output / "cycle-icons" / "prompts.json").exists())
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
@@ -2001,26 +1997,10 @@ class StorySystemTests(unittest.TestCase):
                 (output / "index.html").read_text(encoding="utf-8"),
             )
             self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
-            timeline_page = (output / "timeline.html").read_text(encoding="utf-8")
-            self.assertNotIn("data-timeline-filter", timeline_page)
-            self.assertNotIn("data-timeline-search", timeline_page)
-
-    def test_missing_cycle_icons_stop_build_before_replacing_output(self):
-        timeline = build.load_timeline(build.load_catalog())
-        with tempfile.TemporaryDirectory() as temporary:
-            output = Path(temporary) / "site"
-            output.mkdir()
-            previous = output / "previous-build.html"
-            previous.write_text("Keep the existing site", encoding="utf-8")
-            icons = Path(temporary) / "missing-icons"
-            icons.mkdir()
-            with patch.object(build, "CYCLE_ICONS_PATH", icons):
-                with self.assertRaisesRegex(ValueError, "Missing cycle icon assets") as failure:
-                    build.build(output)
-            for cycle in timeline.cycles:
-                self.assertIn(f"{cycle.id}.png", str(failure.exception))
-            self.assertEqual("Keep the existing site", previous.read_text(encoding="utf-8"))
-            self.assertEqual([previous], list(output.iterdir()))
+            for page in output.rglob("*.html"):
+                rendered = page.read_text(encoding="utf-8")
+                self.assertNotIn("timeline.html", rendered, page.name)
+                self.assertNotIn(">Chronology</a>", rendered, page.name)
 
     def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]
@@ -2030,7 +2010,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn(f'src="../{story.cover}"', rendered)
         self.assertLess(rendered.index("<h1>"), rendered.index('class="prompt"'))
         self.assertLess(rendered.index('class="prompt"'), rendered.index('class="story-cover"'))
-        self.assertIn('<a href="../timeline.html">Chronology</a>', rendered)
+        self.assertIn('<a href="../index.html">Library</a>', rendered)
 
     def test_index_cards_include_prompt_and_requested_metadata(self):
         story = build.load_catalog().stories[0]
