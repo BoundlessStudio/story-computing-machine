@@ -213,7 +213,9 @@ image ID. Persist attempts across resumes. Source or dependency changes block
 stale approval use; the stage contract owns renewal and explicit repinning.
 
 `pages/illustrated.json` and `pages/illustrated/` store separately approved
-publication snapshots. Named `capture-illustrated` requires final approval,
+publication snapshots. Original story pages link only to the illustrated PDF
+download; do not add a separate illustrated-reader link there.
+Named `capture-illustrated` requires final approval,
 independent PASS, unchanged source, and deliberately reconciled source/catalog
 canon. It never publishes the original story implicitly. Ordinary capture and
 capture-all never refresh editions. Published editions stay frozen until an

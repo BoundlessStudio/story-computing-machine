@@ -1155,9 +1155,8 @@ def render_index(catalog: Catalog, editions=()) -> str:
 
 def render_story(story: Story, editions=()) -> str:
     edition_links = "".join(
-        f'<li><a href="../illustrated/{html.escape(e["slug"], quote=True)}.html">'
-        f'{html.escape(e["mode"].title())} illustrated edition</a> · '
-        f'<a href="../{html.escape(e["pdf"]["path"], quote=True)}" download>PDF</a></li>'
+        f'<li><a href="../{html.escape(e["pdf"]["path"], quote=True)}" download>'
+        f'Download illustrated PDF ({html.escape(e["mode"].title())})</a></li>'
         for e in editions if e["source"]["slug"] == story.slug
     )
     if edition_links:
