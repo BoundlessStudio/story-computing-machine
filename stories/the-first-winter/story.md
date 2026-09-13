@@ -1,435 +1,371 @@
 ---
 title: "The First Winter"
 slug: "the-first-winter"
-created: 2026-09-12
-created-at: 2026-09-12T23:10:51-04:00
+created: 2026-09-13
+created-at: 2026-09-13T00:45:29-04:00
 canon: false
 ---
 
 # The First Winter
 
-On the morning I decided to leave, I waited for Neshka to sit down before I brought out my bag. She had a way of hearing difficult things more calmly when she couldn't walk straight past me into the garden.
+I was two hours down the valley with Besset's frying pan knocking against my leg when she caught up with me.
 
-"Today," I said. "I've packed."
+I had been walking carefully in the dark. She had run. Her blue hat hung down her back on its cord, and strands of hair stuck to her open mouth. For a moment she could only bend over, hands on knees, while I tried to remember the speech I had composed on the way.
 
-She looked at the mittens tied to the buckle. I had made them for the winter I intended to find beyond the hills. In twenty-two years I had worn out three pairs of shoes, buried a dog, and learned to make almost everything we needed, but I had never touched snow.
+"I'm eighteen," I began.
 
-"Sit down," she said.
+She caught my sleeve and pulled me behind a boulder.
 
-"I'll be late."
+That spoiled the speech. I tried to shake her off. Below us the path wound through birches, pale enough to follow without a lamp. Beyond them lay country I had never walked, where people had birthdays with guests and weather happened without Besset deciding whether it should.
 
-"For what?"
+"Look," she said.
 
-There was no cart waiting, no appointment. I had got up intending to turn the mattress and had stood in my room with it balanced on its edge, thinking how many more times I would do that. Then I had let it fall and packed.
+A man was coming up the lower path. He carried a crossbow against his shoulder. I had never seen another person in the valley, and I leaned out before I thought about the weapon.
 
-I sat.
+He stopped. His head turned straight toward me.
 
-Outside, new leaves were uncurling yellow on the apple tree. Yellow leaves fell from its other branches. We had to thin the fruit, dig the beds, kill the caterpillars; the valley's endless autumn excused us from none of that. Neshka had always called it a kindness, especially when I complained about the heat from the oven. Imagine baking in summer, she'd say.
+"Down."
 
-She drew her sleeves back from her wrists. I had mended the blue cloth there so often that very little of the original remained.
+Besset's weight struck my side as the crossbow clacked. A bolt hit the birch behind us hard enough to shake its branches. I landed on my knees among the stones, with her over me and the pan's handle digging into my hip.
 
-"Someone has been looking for you since the day you were born. That's why I keep us here."
+She shoved my head lower. There was blood on one of her knuckles.
 
-"Who?"
+I could hear the man running. The path doubled back below the rock, and his boots scraped first to our left, then to our right. Besset kept looking up at the rim of the hills.
 
-"Your mother."
+"Who is he?"
 
-I looked toward the door, as though the woman might be in the garden.
+"Stay there."
 
-"You said she was dead."
+"Who is he?"
+
+"The man I brought you here to escape."
+
+His footsteps stopped. A stone clicked against another stone. I knew that sound from hunting: someone trying to place a foot quietly after making too much noise.
+
+Besset held out her uninjured hand.
+
+Light reached the highest birch. She closed her fingers, slowly, with an effort that pulled the muscles tight beside her jaw. For an instant my ears filled with a pressure I had felt every morning of my life.
+
+The bolt disappeared from the tree. Its torn bark became smooth. Leaves we had knocked down were hanging overhead again, and the man's next footstep never came.
+
+I waited for it.
+
+Up in the branches a bird gave the same three notes it had given before Besset caught my sleeve.
+
+She sat back on her heels. I could see the path now. There was nobody on it.
+
+"He'll start walking again," she said. "At the broken pass. Where he started yesterday."
+
+My knee stung. I pulled up my trouser leg and found grit in the scrape. Dawn had left that alone.
+
+***
+
+I knew what dawn did to the valley. Apples returned to their branches. Ash became wood. A shirt left half-mended on the table would lose the stitches I had put into it; I slept wearing anything I wanted to keep. Besset had taught me to tuck drawings inside my clothes and carry a gathered basket until sunrise. I had learned those things before I learned to count.
+
+She had told me that she kept the valley in autumn because winters here were cruel.
+
+"The country beyond the pass," I said. "Does it do this too?"
 
 "Yes."
 
-"You said you found me beside her."
+"How far?"
 
-"She gave you to me. She had to go back for her sister. There were fires along the road, people fighting to get on the carts. She asked me to take you for one night."
+"All of it."
 
-The bench was narrow. I had sat here for years without noticing that there was nowhere comfortable to put my feet.
+I looked downhill again. I had imagined leaving our morning behind and reaching a place where it was spring. Somewhere there ought to have been people living through all the seasons I had missed.
 
-"And she came back?"
+"There isn't a different day outside," she said. "I bring the whole world back to the same dawn. I carry you and me through it, with what we're wearing or holding. Everything else goes back."
 
-Neshka nodded. "She comes up the pass near noon. Every day."
+The dent in the frying pan was new. I ran my thumb along it while she spoke.
 
-I had obeyed Neshka's prohibition against the pass long after I stopped believing everything she said about the dangers beyond it. I knew the lower hills by the shapes of stones, but I had never stood on their crest.
+"He has to come around the mountain," she said. "The short crossing is gone. He walks all day and all night, and dawn catches him two hours short of the cottage. That's why I don't let you hunt below the white stones."
 
-"She must know where we are by now."
+"And I walked down to him."
 
-"She never gets another day to look. At dawn, everything outside begins again. The same morning, the same people waking with the same thoughts."
+She nodded. Her eyes moved over my face, my shoulders, my hands. She looked ready to search me for a wound I was concealing.
 
-I waited for her to correct herself. She was looking at me steadily.
+"What does he want?"
 
-"Everything?"
+She began to reach for my trouser leg. I moved it away.
 
-"The whole world beyond this valley. The cities. The other side of the sea. I couldn't leave any of it moving forward and keep that morning within reach. Here we grow older. Outside, even the things people remember return to what they were at the first dawn."
+"Besset."
 
-"And you're doing it now?"
+"He was dying when you were born. He came to your mother as a healer. Instead he bound his blood to yours."
 
-"I've been holding it all this time. Even asleep. It lives with me."
+I covered my scraped knee with my palm.
 
-The clock above the oven went on ticking. I tried to imagine every other kitchen, every sleeper in every bed, but I kept returning to the woman climbing the pass, expecting to find a baby.
+"He can feel which way you are," she said. "Being older won't fool him. Changing your name won't help. He means to take the years you haven't lived."
 
-"Let me out."
+"How?"
 
-"You can speak to her. Go and see. But the edge will turn you back if you try to cross it."
+"He has to kill you. Take your heart while his own is still beating."
 
-"Let me out, Neshka."
+I remembered the small correction of his shoulder before he fired. He hadn't shouted for me to stop or asked who I was.
 
-She reached across the table. I moved my hand before hers arrived.
-
-"Her name is Orlaith," she said.
-
-I took my bag.
+We stayed behind the boulder long after he had gone. Besset picked the grit from my knee with the tip of her knife, and I let her.
 
 ***
 
-At the crest there was a white stone with a hollow large enough to sit in. Beyond it, a path descended through brown scrub to the road on the plain. Smoke hung far to the east. I could see wagons, small as beetles, going the other way.
+On the way home she told me about my mother. I had known there was a mother, and that she was dead. Besset had given me those facts years apart, whenever I grew old enough to ask a question that could no longer be put off. This time she told me how.
 
-I stepped past the stone and found myself walking downhill into the valley. There had been no moment of turning. I tried again, watching my feet. The crest slid out of sight, and the apple trees were below me.
+The footbridge across the pass had been narrow, with room for one person at a time. My mother waited until Besset was across with me before cutting its ropes. The man reached her while she was still cutting. Besset saw him strike her, saw the bridge swing against the cliff with both of them on it. He caught a ledge on the far side. My mother fell.
 
-For a while I was so occupied with getting across that I forgot to look for her.
+"It took me until morning to finish the working," Besset said. She had stopped where a low branch crossed the path. "He was climbing out by then. Without what she did, he'd have reached us in minutes."
 
-She came slowly up the outer path, a folded blanket under her arm. A few yards below the stone, she stopped and shook a pebble from her shoe. Then she called Neshka's name.
+I ducked under the branch. Besset followed.
 
-I had expected someone older. She looked about my age, with dark hair coming loose from a plait and a face so tired that I wanted her to sit down.
-
-"I live with her," I said.
-
-"Is she there? Is the baby all right?"
+"So she's still there."
 
 "Yes."
 
-She hurried the last few steps. Suddenly she was walking back down the path. She halted, looked behind her, and came up again. I watched her discover it.
+"Below the bridge."
 
-"What's wrong with this place?"
+"Yes."
 
-"We can't get across. We can hear each other."
+We walked a little farther.
 
-"Then fetch Neshka. Tell her Orlaith's here."
+"Could you bring back the day before?"
 
-I had rehearsed nothing on the climb. Now there were too many things to say, and I asked the least useful one.
+"No. I can only return to the dawn I caught. She had already died."
 
-"How old are you?"
+A yellow leaf had lodged in the fold of her blue sleeve. I nearly picked it off. Then I put my hands in my pockets.
 
-"Twenty-four. Do you know where she is?"
+At the cottage she washed our cuts. The room was exactly as it had been that morning: three apples on the sill, the same wood ready by the hearth, the stool with a split that never widened. My bed was too short. For two years I had slept with my feet sticking beyond its end.
 
-Only two years. If I had passed her on a road anywhere else, I might have wondered whether she would like me.
-
-"At the house."
-
-"Go, then. Please. I can't stay on my feet much longer."
-
-She sat below the crest, holding the blanket against her middle. It was cream wool with a red border, new enough that the folds still showed. My blankets were all Neshka's old ones, thinned by washing.
-
-"Was that hers?" I asked.
-
-"I wrapped her in it when she was born. Neshka took her in her own cloak. I thought she'd need this today."
-
-"What was she like?"
-
-"What do you mean, was?" Orlaith looked straight at me.
-
-"When she was born."
-
-"Little. Cross. She wouldn't open her hands." She opened one of her own, watching it. "I kept trying to see whether all her fingers were there. She wouldn't let me."
-
-I spread mine against my skirt, where she couldn't see.
-
-"And your sister?"
-
-"She's down at the road. How did you know about her?"
-
-"Neshka told me."
-
-"Then go and get her. Please."
-
-I said I would try. It was all I could manage.
-
-On the way down, I kept stopping to look at my hands. There was a burn on one thumb from taking bread out too quickly. The little finger of the other hand bent sideways where I had shut it in a door. Nothing I could show her was little or new.
-
-***
-
-Neshka was in my room. She had opened the bag of wool at the foot of my bed and was looking for the blue skein I used on her sleeves.
-
-"You left your needles out," she said. "I nearly sat on one."
-
-"She wants you to come."
-
-"Did you tell her?"
-
-"No. She kept asking for the baby."
-
-Neshka set the wool down. "You must eat something."
-
-"She wants you."
-
-"I can't bring her what she's asking for."
-
-On the shelf behind her stood the wooden horse she had made for me when I was small. Its hind leg was black where I had held it over a candle to see whether it would kick. Neshka had smacked my hand away, then spent an hour carving off the worst of the damage. I remembered the shavings in her lap, the care she took to save the foot.
-
-"You let her come all this time?"
-
-"I didn't go up every day."
-
-"But you knew."
-
-She turned the horse so that its damaged leg faced the wall.
-
-"The road wasn't safe. She was going to carry you through that with nothing. No food, no place to stop. I wanted you to have a few days to get stronger."
-
-"And everyone on the road? They were still there."
-
-"They could wait. I thought they could wait."
-
-Downstairs, something boiled over. Neither of us moved. "I grew up," I said. "Why didn't you stop?"
-
-"You were here. You needed feeding. I thought about stopping when you were stronger. Then when you could walk. There always seemed to be something you couldn't do yet."
-
-I sat on the bed. The mattress lay crooked from that morning, with a long bare strip between it and the wall. Neshka caught the corner to straighten it.
-
-"Leave it."
-
-She let go.
-
-I went back to the pass with bread before evening. Orlaith had gone. I sat by the stone until the smoke on the plain disappeared into the dark, then went home and ate the bread myself.
-
-***
-
-The next morning I was at the crest early. I had written down what I wanted to say, beginning with the fingers. I meant to explain gently. I meant to answer her questions in the right order.
-
-Below me, Orlaith stopped to shake a pebble out of her shoe.
-
-"Neshka!"
-
-"I'm here," I called, and then, "I mean, I live with her."
-
-"Is she there? Is the baby all right?"
-
-I knew the shape of her face better than she knew mine. She had never seen mine.
-
-"The baby you gave her grew up," I said. "Here, in the valley. Outside, the same day keeps happening. You're still twenty-four. I'm twenty-two."
-
-She didn't come any closer.
-
-"Get Neshka."
-
-"Yesterday you told me I wouldn't open my hands. When I was born. You kept trying to count my fingers."
-
-"I didn't speak to you yesterday."
-
-"I know. I mean, you don't remember it."
-
-I unfolded my paper, though I no longer knew where I was on it.
-
-"I talked to you here. You had that blanket. You told me about my hands. Then I went down to fetch her, but she wouldn't come."
-
-"Witches can make people look like things. Who are you?"
-
-"I grew up in her house. I slept in a cradle, then in a bed. I had to have new shoes when my feet grew."
-
-I was explaining growing up to a woman who had done it herself. I put the paper away.
-
-Orlaith came toward the stone and was turned back. She tried once more before sitting down.
-
-"If she's made you older," she said, "she can undo it."
-
-"She didn't make me older. I lived all that time."
-
-"Let me see your ear. The left one."
-
-I pulled back my hair. There was a small point in the rim, which Neshka had once told me meant I would be stubborn. Orlaith leaned forward, then reached for me and found her hand back in her lap.
-
-"She had that," she said. "Just a little fold."
-
-For a moment I thought she would be glad.
-
-"Ask her to put you back," she said.
-
-My thumb was on the burn from the bread pan. I pressed until it hurt.
-
-"I don't want that."
-
-"You don't understand. I haven't even had a whole night with her."
-
-She tucked the empty blanket under her chin and cried into it. I had imagined telling her about climbing trees, about the dog, even about all the days I had been happy. I wanted her to ask whether I was happy now. Instead she was trying to fold the blanket small enough to fit against her chest.
-
-"I'm sorry," I said.
-
-She shook her head without looking up. I couldn't tell what she meant by it. I stayed until she stood, bracing a hand against the slope, and went back down to her sister.
-
-***
-
-That evening Neshka found me unravelling one of my mittens. Its thumb pulled painfully when I spread my hand. I had meant to ask her how to mend it before I left.
-
-"She wanted me little again," I said.
-
-Neshka sat beside me. "She was frightened. You must have frightened her."
-
-"I tried to explain."
-
-"Tomorrow you can try differently. She won't remember today."
-
-I drew out another length of wool. I could leave out the story about my hands. I could show her my ear first, talk about something funny, wait until she was sitting down. If it went badly, I could do it again.
-
-Neshka took the loose skein before it rolled off my knee. Her hands were so familiar that I nearly gave her the mitten too.
-
-"No," I said. "I'm not going to keep doing that."
-
-"You don't have to go back tomorrow."
-
-"I am going back. I want you to stop holding the day."
-
-She looked down at the wool.
-
-"You could stay here when it ends. You could have winter here."
-
-I drew the skein gently out of her hands. "I'm taking my bag."
-
-Before bed I made the thumb again, wider.
-
-***
-
-On the third day, Orlaith shook out the pebble and called for Neshka. I let her finish.
-
-"She's at the house," I said. "There's something I have to tell you. Sit down first, if you'd like. It's going to take a while."
-
-I told her about the valley. I showed her my ear when she asked. When she said she wanted her baby, I said I knew, and waited. She asked again how old I was.
-
-"Twenty-two."
-
-"That's too old."
-
-I sat on my side of the stone. She studied my face for so long that I began to want my hood up.
-
-"If you're my daughter," she said at last, "did you think I left you?"
-
-"I thought you were dead."
-
-She covered her mouth. After a while she said, "I went back for my sister."
+I set my pack beside the door. Besset saw where I had put it. "You can't go yet."
 
 "I know."
 
-"There wasn't anyone else to help her. I thought you'd be safe."
+She rubbed the cloth between her palms. I had expected relief, but she kept doing it until I reached across and took it from her.
 
-I nodded. She was staring at my bag, at the mittens tied to it.
+"Have you ever tried to kill him?"
 
-"Where are you going?"
+Her left arm rested crookedly against her ribs. She could use that hand to hold bread while she cut it, but she could not raise it above her shoulder.
 
-"I wanted to see a town. Then somewhere with snow. I don't really know."
+"When you were four. I waited for him in the birches. I missed, and he didn't."
 
-"The west road is open. There are carts going to the town where my aunt lives. We were going to get on one, when I had you back."
+"You said you fell."
 
-She picked at the blanket's red edge. "Was she kind to you?"
+"I did fall. After."
 
-There had been so much in my head on the climb. I couldn't recover any of it.
+"And this stayed."
 
-"I used to be afraid of the chickens."
+She pulled her sleeve back. The scar puckered across the inside of her elbow. I had seen it hundreds of times while we washed clothes.
 
-She looked puzzled, but she waited.
+"I don't go back any more than you do," she said. "If he kills me, I won't be here to renew the day."
 
-"One pecked me when I was little. I wouldn't go out if they were loose. Neshka said they were smaller than I was, but there were nine of them."
+I began to understand what she did every dawn with her eyes closed, while I complained about breakfast or tried to sleep. I also remembered telling her, three days ago, that I wanted to leave.
 
-Orlaith's mouth moved, almost a smile. "Did she put them away?"
+"When I said I wanted to leave," I said. "You could have told me then."
 
-"She taught me to carry a broom. I used to take it everywhere. Even to bed for a bit."
+"I was going to."
 
-"I would have put them away."
+"You let me pack."
 
-"I liked the broom," I said. I hadn't expected to mind what she thought about it.
+She looked at the bag beside the door.
 
-Orlaith asked about the house then. I described my room, badly, stopping to explain what sort of blue I meant by the curtains. She interrupted to ask whether there were other children, and I told her there were only the two of us. She looked away toward the road.
+For a while we listened to the fire. It settled with a familiar pop, and Besset put out a hand to catch a spark before it reached the blanket on her knee.
 
-By evening her sister would be worrying. Orlaith stood, keeping one hand on her back.
+"I can shoot," I said.
 
-"I'll come early tomorrow," she said. Then she remembered. "Unless—"
+"Rabbits."
 
-"I've asked her to stop."
+"And deer."
 
-"And if she won't?"
+"They don't shoot back."
 
-I had no answer. Orlaith waited for one, then looked at my bag again.
+"I know that now."
 
-"I'll come," she said.
+She opened her mouth, then turned the burnt spot in the blanket toward the light. I waited. I had learned patience in the woods, though Besset seldom saw any evidence of it at home.
+
+"Let me help," I said.
+
+She kept her head bent.
+
+I put my good knee against hers beneath the table. That made her look at me.
 
 ***
 
-Neshka reached the crest before dark, carrying my thickest coat. Her broad blue hat tipped in the wind; beneath it, loose strands of black hair caught against her mouth. The valley behind her was gold above and deep blue below. I had drawn her like that when I was a child, pressing so hard with the blue chalk that it broke.
+By noon the little crossbow was lying between us. Besset had brought it down from the roof beams, where I had always been told to leave it alone. She could hold it steady with its stock against her shoulder and its front resting on something solid. She could no longer draw it back.
 
-She put the coat beside my bag.
+I loaded it for her.
 
-"Come home for tonight."
+Outside, she knelt behind a stump and put a bolt into the centre of a scrap of cloth. Then she stayed there, staring at what she had done, until I went to fetch it.
 
-"No."
+We chose a stony gully below the boulder where she'd pulled me to safety. I knew it from following wounded deer past the white stones, farther than I was allowed to go. The gully bent sharply at its upper end. A flat shelf overlooked the bend; on the other side, a fallen beech offered Besset cover and a rest for her crossbow. Behind us the path climbed toward home.
 
-"It's cold up here."
+I would let him see me at the bend. While he watched my bow, Besset would have a shot from his side.
 
-I put the coat on. She stood beside me for a while, then sat in the hollow of the stone.
+We went down early to clear the branches that would obstruct her aim. In daylight the place looked smaller than I remembered. The shelf was hardly higher than my head. Above the beech, loose stones reached into a thicket of hazel that met the homeward path.
+
+"Keep that way clear," Besset said, pointing through the hazels. "If he stays under cover, we leave."
+
+"And you turn the day back."
+
+"If we can stay ahead of him until dawn."
+
+I looked at the path between her hiding place and mine.
+
+"No going down to see where he's got to," she added.
+
+She took off her hat and tucked it under the beech.
+
+"What if he's dead?" I asked. "You'd bring him back as well."
+
+Besset's hand stopped on the hat brim.
+
+"Yes."
+
+"Then we have to be sure. And you have to let the morning come."
+
+"I know."
+
+She pressed the hat farther out of sight. This time, when I looked at her, she did not look away.
+
+***
+
+The moon came up in its usual place. I had always hated knowing precisely where it would be. That night I watched it move through the branches and wished it would hurry.
+
+Besset waited beyond the gully, mostly hidden by the beech. Once she lifted a hand to show she was awake. I had no need to signal back; she could see me whenever she wanted.
+
+A long time later, a boot scraped on the path below.
+
+He came slowly through the birches, looking up as though he had heard me breathe. At the mouth of the gully he stopped. The moon showed a narrow face, a grey beard, a dark patch of sweat at his collar. His hand shook when he lowered the crossbow.
+
+I stood on the shelf with my bow drawn.
+
+His eyes went to my feet, then to the empty ground behind me. He touched the inside of his wrist.
+
+"You," he said.
+
+I had thought I could loose as easily as I did at a deer. I had never imagined having to watch a man discover me first.
+
+He raised the crossbow.
+
+I fired. My arrow struck the rock beside his shoulder. He threw himself backward into the birches, and the bolt he shot went whining up the gully. Besset did not fire; the trees had already hidden him from her.
+
+I reached for another arrow. The last one had left my fingers badly. I could feel it happening again before I had even set it to the string.
+
+For several breaths nothing moved. Wood creaked in the birches as he reloaded.
+
+Then leaves rustled on our right. He was climbing around the outside of the gully, toward the hazels and our way home.
+
+Besset picked up her crossbow and stepped past the broken end of the beech, toward our way out.
+
+"Besset, down!"
+
+The second bolt struck before she could lower herself. She dropped out of sight.
+
+I scrambled off the shelf and across the gully. My ankle turned on a stone, and I fell against the beech beside her. There was a bolt through the flesh above her knee. She was making a sound through her teeth, trying to keep it small. Her crossbow lay beside her, almost covered by the blue skirt of her coat.
+
+Above us I could see the man coming through the hazels. He had found the open ground behind our hiding place. His crossbow hung empty from one hand, and he had drawn a knife with the other.
+
+I pulled at Besset's shoulders. She cried out and the sound stopped my hands.
+
+"Run," she said.
+
+He watched us over the beech. Then he put his crossbow down, where he could reach it again, and moved toward the tree's broken end.
+
+"Leave her," he told me.
+
+The bow was still hooked over one wrist. I freed it and reached for an arrow.
+
+"Put it down."
+
+I kept fumbling with the arrow. He put his boot against the wounded leg. Besset's breath caught; she tried to pull away and couldn't.
+
+The arrow fell out of my hand.
+
+"That's it," he said. "Now the bow."
+
+I laid it in the leaves.
+
+Up close he smelled of old sweat and bitter medicine. His breath whistled. He looked at my chest with such concentration that I hunched my shoulders to hide it.
+
+"You'll kill her too," I said.
+
+"Come here and I won't have to."
+
+He kept the pressure on her leg as I moved. I wanted to believe him for the length of time it would take to get beside him. Besset reached for the back of my coat and missed. Beneath her coat I could still see the tip of her crossbow.
+
+I stepped past her toward the man. He caught my coat at the throat, dragged me across the gully, and shoved my back against the rock below the shelf. Besset lay by the beech behind him. His knife touched the cloth over my breastbone.
+
+"Hold still."
+
+His hand was trembling again. I thought of the scar in Besset's elbow, the blood on my knee that hadn't gone away.
+
+I caught his knife wrist with both hands.
+
+He drove me against the rock. Something tore in my shoulder. I tried to keep his arm away from my chest, but his elbow kept bending, steadily, bringing the point toward me. There was hardly room left to breathe.
+
+I stamped at his foot. Missed. He shoved his knee between my legs and I slipped lower against the rock.
+
+Wood scraped behind him. Besset was pulling her crossbow up onto the trunk.
+
+He heard it. His grip on my coat loosened as he began to turn. I let my knees fold and slid down the rock, hauling on his knife arm with both hands. He stumbled forward over me as I struck the ground on my back.
+
+The crossbow cracked. He fell across my legs, Besset's bolt standing in his back. His knife hand hit the earth beside my ear, and I caught it again before I understood that his fingers had opened. I kept holding his wrist.
+
+Besset called to me. I could see her mouth moving. The crossbow had fallen from her hands into the leaves, and she was reaching across the space between us.
+
+I could not make myself let him go.
+
+***
+
+We waited until he had stopped breathing. Then we waited longer.
+
+Besset had to tell me twice how to find the pulse beneath his jaw. I held my fingers there while she watched his chest. There was nothing. When I finally got clear of his body, I was sick against the roots of the beech.
+
+We bound Besset's leg with strips from my spare shirt. My shoulder hurt when I lifted my arm. I could move my fingers, and she kept asking me to do it, as though this one small success might become more convincing with repetition.
+
+We couldn't get her up the path before dawn. There was no need to, but both of us kept looking toward home.
+
+As the sky paled, I dragged his crossbow beyond reach, then his knife. Besset watched. She didn't repeat that he was dead.
+
+I sat beside her. Our coats were wet with dew. Below us the bird began its three notes, and Besset's good hand lifted from her lap.
+
+I caught it.
+
+She looked down at our hands in surprise. For eighteen years her fingers had closed at this hour.
+
+The light reached the birches. She spread her hand against mine and kept it open.
+
+A leaf turned in the air and landed on the man's sleeve. It stayed there.
+
+We watched the sunlight move along the trunk until it reached his face. His mouth had slackened. Nothing took him away.
+
+Besset began to cry. She leaned forward with both hands over her face, and I held her so she wouldn't fall against her wounded leg. I was still angry with her. I wanted her to stop crying, and I wanted her to keep making a sound I could hear.
+
+***
+
+It took us most of that new morning to get home.
+
+The following dawn I woke with the spare shirt under my head. Its missing strips had not returned. Neither had the wood we had burned, or the apples we had eaten. Rain arrived before noon, several hours earlier than I expected.
+
+The valley took weeks to lose its leaves. I had expected the season to change all at once, as if winter had been waiting just behind the morning. Instead the gold thinned from the trees a little each day. Bare twigs appeared. Besset learned to walk with a stick, and I learned which movements made my shoulder hurt.
+
+My pack stayed beside the door.
+
+When I finally lifted it, the first snow was blowing across the upper hills. Besset came with me to the white stones. She wore her blue hat with a scarf tied over it against the wind.
+
+There she stopped. I went a few steps farther before I noticed.
+
+"You can come down," I said.
+
+"I know."
+
+I waited on the path while she negotiated the last uneven stretch. When she reached me, she looked beyond my shoulder toward the birches.
 
 "Will you come back?"
 
-I could see the pale places around her eyes, where the sun didn't reach under the hat. She had been getting older so gradually that until now I had hardly noticed.
+"I think so."
 
-"I don't know."
+She nodded too quickly.
 
-"You could write."
+"I don't know when," I said.
 
-I wanted to promise it. I wanted the relief of seeing her stop looking at me that way. I tucked my hands under my arms and watched the outer path.
+She put her hand against the side of my face. I stood still for it. Then I shifted the pack to spare my shoulder and began walking.
 
-After a while she said, "I should have taken you down when you were little."
+By evening I reached a village. Smoke lay over its roofs, and somebody was calling a dog. I stood outside the inn for a while, listening to more voices than I could separate.
 
-"I would have wanted you to come too."
-
-Her breath caught. She pulled the hat off and held it on her knees.
-
-"I know."
-
-We sat until the stars were out. Then Neshka stood. She took a long breath and let it go slowly, her hands open at her sides. I felt a pressure ease inside my ears.
-
-"It's done," she said.
-
-Nothing on the plain changed that I could see. I stood and walked beyond the white stone. The path continued beneath my feet. I was facing away from home.
-
-Neshka did not follow. When I turned back, she was still standing with her hat in her hand.
-
-"Stay till morning," I said.
-
-She sat down again, and I sat on the outer slope, close enough to hear her breathing. Neither of us slept much.
-
-Dawn passed. Sunlight reached the apple trees below Neshka, and I waited, watching the outer path. Orlaith came soon afterward, hours before her usual arrival. There was no blanket under her arm this time.
-
-"I told my sister about you," she said. "She wants to meet you."
-
-"You remember?"
-
-"Yes. I couldn't sleep."
-
-Then she saw Neshka and stopped. Neshka came down from the stone. They stood facing each other on the path, with nothing between them.
-
-"I said one night," Orlaith said.
-
-"Yes."
-
-Orlaith looked at the grey beginning in Neshka's hair. She backed a step away, and Neshka did not come closer.
-
-Below us, the wagons were moving on the western road. The smoke was still there to the east.
-
-I took up my bag. "I'd like to go down with you," I told Orlaith. "To meet your sister. Then to the town, if there's room on a cart."
-
-She nodded, looking from me to Neshka. "There's room. We'll find some."
-
-I touched Neshka's sleeve. There was a loose end of my blue thread at the cuff. For once I left it alone.
-
-Orlaith started down. After a few steps I caught up with her, and we walked beside each other. She was shorter than I had thought when I saw her from above.
-
-***
-
-The first snow fell seven weeks later. I was lodging above a cloth shop, earning my meals by sewing, and Orlaith was staying with her aunt three streets away. Sometimes we ate together. Once she came to my door with a comb and then stood there, embarrassed, because I was already dressed for work.
-
-I went out into the snow in the coat Neshka had brought me. At first the flakes melted on the stones, but by afternoon enough snow had settled to hold the marks of my shoes. I walked the length of the street twice. On the third time, Orlaith came out to find me and asked whether I was coming in. I said soon.
-
-That evening I wrote to Neshka. I didn't put an address at the top.
-
-*The snow squeaks when you step on it. I didn't expect that. It gets into the space between your mittens and your sleeves, and then your wrists hurt. Orlaith says this is hardly any snow. I've been out in it for hours.*
-
-I paid a carrier to take the letter as far as the house in the valley. He asked if I wanted to add anything before he sealed it.
-
-I wrote, *I wish you could see it*, and gave it back.
+Snow caught in my hair while I hesitated. When I brushed it away it melted against my fingers, much colder than I had expected. I wiped my hand on my coat and went inside.
