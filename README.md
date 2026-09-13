@@ -45,8 +45,8 @@ decision. For named replacements and localized edits, see
 
 GitHub Pages publishes the Library and individual story pages. The
 Chronology/Timeline page and its assets are no longer published, and the site
-build does not load chronology data. The model and renderer remain in the
-repository for local reference and validation.
+build and `python pages/build.py check` do not load chronology data. The model
+and renderer remain in the repository for local reference and dedicated tests.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -71,13 +71,18 @@ Four recurring histories connect the cycles: authority, public works,
 extraordinary bodies, and inherited memory. These are editorial interpretations;
 a continuous visual thread does not establish descent, common origin, or a
 shared cause. `historyThreads` stages cite stories placed in their own cycles.
-The validator requires complete story coverage, unique era IDs, historical
+The retained model's dedicated validator requires complete coverage of its
+selected stories, unique era IDs, historical
 context for each era, finite windows contained by their eras, valid connection
 endpoints and evidence categories, and a feasible partial chronological order
-when running `python pages/build.py check`. Both sides of the extinction and
+when called directly with that story selection. Both sides of the extinction and
 return are checked, including when stories share an orbit with a boundary. History-current anchors
 must belong to their cited cycles. Circular or transitively impossible sequences are rejected;
 overlapping windows and independent display orders are supported.
+
+`python pages/build.py check` validates source packages, the bundle index,
+catalog, cover-byte parity, and authoritative source/catalog canon flags.
+New publications do not require a chronology entry.
 
 ## Local commands
 

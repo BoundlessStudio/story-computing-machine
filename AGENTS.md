@@ -179,7 +179,8 @@ never replaces semantic review or the coordinator's independent image review.
 ## Pages
 
 `pages/catalog.json` and `pages/covers/` are the stored publication snapshot;
-`pages/timeline.json` is a reader-facing chronology model, not canon authority.
+`pages/timeline.json` is a retained local chronology model, not canon authority
+or a required publication artifact.
 Pages builds publish the snapshot only, without traversing `stories/` or running
 story validation. Capture requires a passing review without repeating full
 validation.
@@ -195,6 +196,6 @@ scaffolds record `created-at`; date-only sources combine `created` with prose
 filesystem modification time. `capture-all` refreshes only existing catalog
 stories, never republishes an unpublished package, refuses source/catalog canon
 demotion, and is not used by CI. `python pages/build.py check` checks source,
-bundle index, catalog, chronology, cover-byte parity, and authoritative
+bundle index, catalog, cover-byte parity, and authoritative
 source/catalog canon flags. Canon mismatches block publication until deliberately
 reconciled through the named canon process.

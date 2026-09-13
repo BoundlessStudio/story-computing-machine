@@ -952,7 +952,6 @@ def published_canon_marker_conflicts(
 
 def validate_repository_inventory(
     catalog: Catalog,
-    timeline: Timeline,
     repository_root: Path = REPOSITORY_ROOT,
     snapshot_path: Path = SNAPSHOT_PATH,
 ) -> tuple[int, int, int]:
@@ -983,9 +982,6 @@ def validate_repository_inventory(
         for path in cover_root.iterdir()
         if not path.is_file() or path.suffix.lower() != ".jpg"
     }
-    placements = [slug for cycle in timeline.cycles for slug in cycle.stories]
-    placement_slugs = set(placements)
-
     problems: list[str] = []
     if invalid_sources:
         problems.append(f"unrecognized story directories: {sorted(invalid_sources)}")
@@ -1001,11 +997,6 @@ def validate_repository_inventory(
         )
     if invalid_cover_entries:
         problems.append(f"unrecognized captured-cover entries: {sorted(invalid_cover_entries)}")
-    if catalog_slugs != placement_slugs or len(placements) != len(placement_slugs):
-        problems.append(
-            f"catalog differs from chronology: catalog-only={sorted(catalog_slugs - placement_slugs)}, "
-            f"chronology-only={sorted(placement_slugs - catalog_slugs)}, placements={len(placements)}"
-        )
     if catalog_slugs != source_slugs:
         problems.append(
             f"catalog differs from story sources: catalog-only={sorted(catalog_slugs - source_slugs)}, "
@@ -1257,12 +1248,11 @@ def main() -> None:
         print(f"Stored {len(catalog.stories)} stories in {SNAPSHOT_PATH}")
     else:
         catalog = load_catalog()
-        timeline = load_timeline(catalog)
         source_count, published_count, canon_count = validate_repository_inventory(
-            catalog, timeline
+            catalog
         )
         print(
-            f"PASS: {published_count} published stories, covers, and chronology placements; "
+            f"PASS: {published_count} published stories and covers; "
             f"{source_count} source packages ({canon_count} canon, "
             f"{source_count - canon_count} non-canon)"
         )
