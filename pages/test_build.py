@@ -42,6 +42,23 @@ FRIENDS_NAME_EXCEPTION_ROWS = (
 
 
 class StorySystemTests(unittest.TestCase):
+    def retained_chronology_catalog(self):
+        """Keep local chronology tests independent of newer publications."""
+        value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        selected = set(value["storyPlacements"])
+        return build.Catalog(tuple(
+            story for story in build.load_catalog().stories if story.slug in selected
+        ))
+
+    def make_check_workspace(self, root: Path) -> Path:
+        story = self.make_current_story(root)
+        (root / "stories/INDEX.md").write_text("# Bundle index\n", encoding="utf-8")
+        snapshot = root / "pages/catalog.json"
+        build.capture_story("sample", root, snapshot)
+        for name in ("build.py", "image_validation.py"):
+            shutil.copy2(REPO / "pages" / name, root / "pages" / name)
+        return story
+
     def write_title_image(self, story: Path, width: int = 864, height: int = 1536) -> None:
         Image.new("RGB", (width, height), (40, 60, 90)).save(
             story / "title-image.jpg", format="JPEG"
@@ -1347,19 +1364,62 @@ class StorySystemTests(unittest.TestCase):
 
     def test_repository_story_and_publication_inventory_is_reconciled(self):
         catalog = build.load_catalog()
-        timeline = build.load_timeline(catalog)
 
         source_count, published_count, canon_count = build.validate_repository_inventory(
-            catalog, timeline
+            catalog
         )
 
         self.assertEqual(len(catalog.stories), source_count)
         self.assertEqual(len(catalog.stories), published_count)
         self.assertEqual(sum(story.canon for story in catalog.stories), canon_count)
 
+    def test_check_ignores_absent_malformed_and_stale_chronology(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_check_workspace(root)
+            timeline = root / "pages/timeline.json"
+            for label, content in (
+                ("absent", None),
+                ("malformed", "{broken json"),
+                ("stale", build.TIMELINE_PATH.read_text(encoding="utf-8")),
+            ):
+                with self.subTest(chronology=label):
+                    if content is not None:
+                        timeline.write_text(content, encoding="utf-8")
+                    result = subprocess.run(
+                        [sys.executable, "pages/build.py", "check"],
+                        cwd=root, text=True, capture_output=True, check=False,
+                    )
+                    self.assertEqual(0, result.returncode, result.stdout + result.stderr)
+                    self.assertIn("PASS: 1 published stories and covers", result.stdout)
+                    self.assertNotIn("chronology", result.stdout.lower())
+
+    def test_check_preserves_canon_and_cover_checks_without_chronology(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_check_workspace(root)
+            prose = story / "story.md"
+            original = prose.read_text(encoding="utf-8")
+            prose.write_text(original.replace("canon: false", "canon: true"), encoding="utf-8")
+            result = subprocess.run(
+                [sys.executable, "pages/build.py", "check"],
+                cwd=root, text=True, capture_output=True, check=False,
+            )
+            self.assertNotEqual(0, result.returncode)
+            self.assertIn("catalog canon states differ", result.stderr)
+
+            prose.write_text(original, encoding="utf-8")
+            (story / "title-image.jpg").write_bytes(b"changed source cover")
+            result = subprocess.run(
+                [sys.executable, "pages/build.py", "check"],
+                cwd=root, text=True, capture_output=True, check=False,
+            )
+            self.assertNotEqual(0, result.returncode)
+            self.assertIn("captured covers differ from story sources", result.stderr)
+
     def test_superseded_sky_source_is_removed_but_return_bookend_remains(self):
         catalog = build.load_catalog()
-        timeline = build.load_timeline(catalog)
+        timeline = build.load_timeline(self.retained_chronology_catalog())
         published = {story.slug for story in catalog.stories}
         placements = {slug for cycle in timeline.cycles for slug in cycle.stories}
 
@@ -1384,8 +1444,8 @@ class StorySystemTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "repeats story rows"):
                 build._bundle_index_slugs(index)
 
-    def test_stored_timeline_places_every_story_once(self):
-        catalog = build.load_catalog()
+    def test_stored_timeline_places_every_selected_story_once(self):
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         placements = [slug for cycle in timeline.cycles for slug in cycle.stories]
         self.assertEqual(len(catalog.stories), len(placements))
@@ -1404,7 +1464,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn("the-small-moon-rose-first", timeline.story_spans)
 
     def test_chronology_preserves_known_sequences_and_local_intervals(self):
-        timeline = build.load_timeline(build.load_catalog())
+        timeline = build.load_timeline(self.retained_chronology_catalog())
         location = {slug: index
                     for index, cycle in enumerate(timeline.cycles) for slug in cycle.stories}
         early = location["not-about-that"]
@@ -1441,7 +1501,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(location["voice-of-silence"], location["a-lock-on-the-inside"])
 
     def test_timeline_accepts_collection_growth_without_fixed_totals(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         extra = replace(catalog.stories[0], slug="additional-story")
         expanded = build.Catalog((*catalog.stories, extra))
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
@@ -1464,7 +1524,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn(f'id="story-{extra.slug}"', build.render_timeline(expanded, timeline))
 
     def test_timeline_rejects_duplicate_story_placement(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         value["cycles"][1]["eras"][0]["stories"].append(value["cycles"][0]["eras"][0]["stories"][0])
         with tempfile.TemporaryDirectory() as temporary:
@@ -1474,7 +1534,7 @@ class StorySystemTests(unittest.TestCase):
                 build.load_timeline(catalog, path)
 
     def test_worldline_renders_one_chronology_with_native_era_disclosures(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
         eras = [era for cycle in timeline.cycles for era in cycle.eras]
@@ -1537,7 +1597,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', without_spans)))
 
     def test_long_histories_are_discoverable_without_duplicate_story_placement(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         slug = "the-small-moon-rose-first"
         unsafe = '\"><script>unplaced history</script> & "a clock"'
@@ -1558,7 +1618,7 @@ class StorySystemTests(unittest.TestCase):
             self.assertIn(f'<a href="#story-{source_slug}">', rendered)
 
     def test_worldline_escapes_editorial_text_in_panels_and_search_attributes(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         unsafe = '\"><script>alert("history")</script> & <new era>'
         escaped = html.escape(unsafe, quote=True)
@@ -1587,7 +1647,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn(f'data-search="{escaped} ', rendered)
 
     def test_admitted_magical_histories_cannot_cross_the_extinction_boundary(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         # Test the authority boundary, not a preferred editorial cohort.
         # These two regressions come from LOCKED universe entries even though
@@ -1614,7 +1674,7 @@ class StorySystemTests(unittest.TestCase):
                         build.load_timeline(catalog, path)
 
     def test_boundary_guard_preserves_explicitly_open_later_histories(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         # A material effect with an unresolved category may fit the Long Dark;
         # later active-magic admissions can leave either magic-active side open.
@@ -1623,13 +1683,16 @@ class StorySystemTests(unittest.TestCase):
                             ("a-throne-neither-wanted", "new-magic")):
             with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
                 value = json.loads(json.dumps(original))
-                source = next(era for cycle in value["cycles"] for era in cycle["eras"]
-                              if slug in era["stories"])
+                source_cycle = next(cycle for cycle in value["cycles"]
+                                    if any(slug in era["stories"] for era in cycle["eras"]))
+                source = next(era for era in source_cycle["eras"] if slug in era["stories"])
                 source["stories"].remove(slug)
+                source_cycle["eras"] = [era for era in source_cycle["eras"] if era["stories"]]
+                replacement_anchor = next(item for era in source_cycle["eras"] for item in era["stories"])
                 for thread in value["historyThreads"]:
                     for stage in thread["stages"]:
                         stage["anchors"] = list(dict.fromkeys(
-                            source["stories"][0] if anchor == slug else anchor for anchor in stage["anchors"]))
+                            replacement_anchor if anchor == slug else anchor for anchor in stage["anchors"]))
                 destination = next(era for cycle in value["cycles"] for era in cycle["eras"]
                                    if era["magicState"] == state)
                 destination["stories"].append(slug)
@@ -1641,7 +1704,7 @@ class StorySystemTests(unittest.TestCase):
                 self.assertEqual(state, states[slug])
 
     def test_magic_boundaries_can_divide_an_orbit_but_not_reverse_its_history(self):
-        timeline = build.load_timeline(build.load_catalog())
+        timeline = build.load_timeline(self.retained_chronology_catalog())
         for anchor, extinction in (("all-accounts-due", True), ("the-sky-remembers-us-return", False)):
             with self.subTest(boundary=anchor):
                 cycle = next(cycle for cycle in timeline.cycles if anchor in cycle.stories)
@@ -1655,7 +1718,7 @@ class StorySystemTests(unittest.TestCase):
                     build._validate_timeline_order(timeline.cycles, placements, ())
 
     def test_history_currents_show_the_whole_world_and_escape_their_accounts(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         unsafe = '\"><script>invented descent</script>'
         thread = timeline.history_threads[0]
@@ -1673,7 +1736,7 @@ class StorySystemTests(unittest.TestCase):
             self.assertIn(f'<p class="cycle-history">{html.escape(cycle.description, quote=True)}</p>', rendered)
 
     def test_atlas_lenses_share_cycles_without_recategorizing_story_placements(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
         lens_ids = ["all", *(thread.id for thread in timeline.history_threads)]
@@ -1745,7 +1808,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(ordered_stories, re.findall(r'data-story-slug="([^"]+)"', with_gap))
 
     def test_cycle_icons_stay_with_their_cycles_across_history_lenses(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
         expected_icons = {cycle.id: f"cycle-icons/{cycle.id}.png" for cycle in timeline.cycles}
@@ -1778,7 +1841,7 @@ class StorySystemTests(unittest.TestCase):
                                  re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', illustration.group(1)))
 
     def test_history_current_cannot_cite_a_story_in_the_wrong_orbit(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         mutations = (
             ("wrong orbit", lambda v: v["historyThreads"][0]["stages"][0].update(anchors=v["cycles"][-1]["eras"][0]["stories"][:1]), "placed in its cycle"),
@@ -1797,7 +1860,7 @@ class StorySystemTests(unittest.TestCase):
                     build.load_timeline(catalog, path)
 
     def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         cycle_index, era_index = next((ci, ei) for ci, cycle in enumerate(original["cycles"])
                                      for ei, era in enumerate(cycle["eras"]) if len(era["stories"]) > 1)
@@ -1833,7 +1896,7 @@ class StorySystemTests(unittest.TestCase):
                     build.load_timeline(catalog, path)
 
     def test_chronology_accepts_overlapping_lives_without_imposing_display_order(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         era = next(era for cycle in value["cycles"] for era in cycle["eras"] if len(era["stories"]) >= 3)
         era["window"] = {"start": 0, "end": 100}
@@ -1854,7 +1917,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual({(a, b), (b, c)}, {(link.source, link.target) for link in timeline.connections})
 
     def test_chronology_rejects_circular_and_transitively_impossible_history(self):
-        catalog = build.load_catalog()
+        catalog = self.retained_chronology_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         for circular in (True, False):
             with self.subTest(circular=circular), tempfile.TemporaryDirectory() as temporary:
@@ -1881,11 +1944,11 @@ class StorySystemTests(unittest.TestCase):
                     build.load_timeline(catalog, path)
 
     def test_evidence_does_not_certify_proposed_era_coordinates(self):
-        timeline = build.load_timeline(build.load_catalog())
+        timeline = build.load_timeline(self.retained_chronology_catalog())
         self.assertEqual({"all-accounts-due", "the-sky-remembers-us-return"},
                          {slug for slug, evidence in timeline.story_evidence.items() if evidence == "boundary"})
         self.assertEqual("constrained", timeline.story_evidence["strength-of-ten"])
-        rendered = build.render_timeline(build.load_catalog(), timeline)
+        rendered = build.render_timeline(self.retained_chronology_catalog(), timeline)
         card = rendered.split('id="story-strength-of-ten"', 1)[1].split('</article>', 1)[0]
         self.assertIn("Established constraint", card)
         self.assertIn("Era placement proposed", card)
@@ -1896,11 +1959,12 @@ class StorySystemTests(unittest.TestCase):
 
     def test_every_page_renders_shared_theme_controls_and_prepaint_bootstrap(self):
         catalog = build.load_catalog()
+        chronology_catalog = self.retained_chronology_catalog()
         story = catalog.stories[0]
         rendered_pages = {
             "library": (build.render_index(build.Catalog((story,))), "theme.js"),
             "chronology": (
-                build.render_timeline(catalog, build.load_timeline(catalog)),
+                build.render_timeline(chronology_catalog, build.load_timeline(chronology_catalog)),
                 "theme.js",
             ),
             "story": (build.render_story(story), "../theme.js"),
