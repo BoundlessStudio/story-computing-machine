@@ -243,6 +243,24 @@
           }
         },
         {
+          "id": "event-the-first-winter",
+          "title": "The First Winter",
+          "magicState": "old-magic",
+          "description": "Twenty-two years inside an autumn valley, three encounters with one repeated day, and a departure into the first winter.",
+          "context": [
+            "During an undated evacuation, Orlaith entrusts her newborn to Neshka for one night. The witch holds the entire world outside her valley in a repeating day while the valley's inhabitants and possessions age in perpetual autumn. The daughter grows to twenty-two; Orlaith remains twenty-four and resumes the same search at every reset.",
+            "Three successive valley days bring three encounters at a boundary that permits sight and speech but turns crossing travelers back. Neshka releases the working on the third night. The daughter crosses, Orlaith retains their conversation after the following dawn, and ordinary time continues. Seven weeks later the daughter experiences snow and writes to Neshka. These local intervals establish no shared calendar, place, or mechanism with another story."
+          ],
+          "sequenceNote": "Proposed in the older magic-active world before the terminal extinction. This is an editorial ordering slot, not a measured Galactic Cycle date; the repeated outside day does not establish a chronological relationship to neighboring independent histories.",
+          "stories": [
+            "the-first-winter"
+          ],
+          "window": {
+            "start": 26.0,
+            "end": 26.8
+          }
+        },
+        {
           "id": "event-the-lions-last-constellation",
           "title": "The Lion's Last Constellation",
           "magicState": "old-magic",
@@ -4121,6 +4139,13 @@
         "end": 26.2
       },
       "note": "An undated birthday afternoon with living solar magic. The selected pre-extinction position is provisional publication chronology; the source establishes no relative date or link to another divine figure."
+    },
+    "the-first-winter": {
+      "window": {
+        "start": 26.0,
+        "end": 26.8
+      },
+      "note": "Twenty-two years of valley life precede three repeated-day encounters and the release on the third night. A retained conversation after the following dawn and first snow seven weeks later mark continuing time. The pre-extinction position is proposed; no absolute date or external event connection is established."
     }
   },
   "storyMoments": {
@@ -6249,7 +6274,8 @@
     "the-cat-who-kept-the-door": "undated",
     "yavrens-return": "relative",
     "the-place-we-keep": "undated",
-    "a-seat-for-the-sun": "undated"
+    "a-seat-for-the-sun": "undated",
+    "the-first-winter": "undated"
   },
   "connections": [
     {
