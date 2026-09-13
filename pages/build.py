@@ -29,9 +29,6 @@ SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
 STYLESHEET_PATH = Path(__file__).with_name("styles.css")
 THEME_SCRIPT_PATH = Path(__file__).with_name("theme.js")
 TIMELINE_PATH = Path(__file__).with_name("timeline.json")
-TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
-WORLDLINE_HERO_ART_PATH = Path(__file__).with_name("worldline-hero-art.webp")
-CYCLE_ICONS_PATH = Path(__file__).with_name("cycle-icons")
 TITLE_IMAGE_NAME = "title-image.jpg"
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -1058,7 +1055,6 @@ def _page(
     title: str,
     body: str,
     library_href: str,
-    timeline_href: str,
     stylesheet_href: str,
     theme_script_href: str,
     *,
@@ -1074,12 +1070,10 @@ def _page(
         '<span class="theme-label" data-theme-label="dark">Dark</span></button>'
     )
     library_current = ' aria-current="page"' if current == "library" else ""
-    timeline_current = ' aria-current="page"' if current == "timeline" else ""
     header = (
         f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
         f'<nav class="site-nav" aria-label="Primary">'
-        f'<a href="{library_href}"{library_current}>Library</a>'
-        f'<a href="{timeline_href}"{timeline_current}>Chronology</a></nav>'
+        f'<a href="{library_href}"{library_current}>Library</a></nav>'
         f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
     )
     theme_script = (
@@ -1160,7 +1154,6 @@ def render_index(catalog: Catalog) -> str:
         "Shared-Universe Fiction",
         body,
         "index.html",
-        "timeline.html",
         "styles.css",
         "theme.js",
         current="library",
@@ -1184,20 +1177,20 @@ def render_story(story: Story) -> str:
         story.title,
         body,
         "../index.html",
-        "../timeline.html",
         "../styles.css",
         "../theme.js",
     )
 
 
 def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
+    """Render the retained chronology for local use; Pages does not publish it."""
     if __package__:
         from .atlas import render
     else:
         from atlas import render
     return _page(
         "The Worldline — A Chronology of One World", render(catalog, timeline),
-        "index.html", "timeline.html", "styles.css", "theme.js",
+        "index.html", "styles.css", "theme.js",
         current="timeline", script_href="timeline.js",
     )
 
@@ -1223,27 +1216,12 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
 
 def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = load_catalog(snapshot_path)
-    timeline = load_timeline(catalog)
-    cycle_icons = [CYCLE_ICONS_PATH / f"{cycle.id}.png" for cycle in timeline.cycles]
-    missing_icons = [icon.name for icon in cycle_icons if not icon.is_file()]
-    if missing_icons:
-        raise ValueError(f"Missing cycle icon assets: {', '.join(missing_icons)}")
     destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
-    (destination / "cycle-icons").mkdir()
-    for icon in cycle_icons:
-        shutil.copy2(icon, destination / "cycle-icons" / icon.name)
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
-    shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")
-    shutil.copy2(Path(__file__).with_name("atlas.css"), destination / "atlas.css")
-    shutil.copy2(WORLDLINE_HERO_ART_PATH, destination / WORLDLINE_HERO_ART_PATH.name)
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
-    (destination / "timeline.html").write_text(
-        render_timeline(catalog, timeline),
-        encoding="utf-8",
-    )
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover
         shutil.copy2(source_cover, destination / story.cover)
