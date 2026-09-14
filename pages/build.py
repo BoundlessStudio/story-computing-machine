@@ -1108,20 +1108,39 @@ def _display_date(value: str) -> str:
     return f"{parsed.strftime('%b')} {parsed.day}, {parsed.year}"
 
 
+def _editions_by_source(editions, story_slugs: Iterable[str] | None = None) -> dict[str, dict]:
+    selected = {}
+    for edition in editions:
+        source_slug = edition["source"]["slug"]
+        if source_slug in selected:
+            raise ValueError(f"Multiple illustrated editions selected for source: {source_slug}")
+        selected[source_slug] = edition
+    if story_slugs is not None:
+        unknown = sorted(selected.keys() - set(story_slugs))
+        if unknown:
+            raise ValueError(f"Illustrated sources are absent from the publication catalog: {unknown}")
+    return selected
+
+
 def render_index(catalog: Catalog, editions=()) -> str:
+    selected = _editions_by_source(editions, (story.slug for story in catalog.stories))
     items = []
     for index, story in enumerate(catalog.stories):
         created = html.escape(story.created)
         edited = html.escape(story.edited)
         slug = html.escape(story.slug, quote=True)
         title = html.escape(story.title)
-        cover = html.escape(story.cover, quote=True)
+        edition = selected.get(story.slug)
+        cover = html.escape(edition["cover"]["path"] if edition else story.cover, quote=True)
         story_label = html.escape(_story_label(story))
         status_class = re.sub(r"[^a-z0-9]+", "-", _story_label(story).casefold()).strip("-")
         rating = html.escape(story.rating)
         rating_class = story.rating.casefold().replace("+", "-plus")
         loading = "eager" if index == 0 else "lazy"
-        illustrated_label = '<span class="illustrated-available">Illustrated edition available</span>' if any(e["source"]["slug"] == story.slug for e in editions) else ""
+        illustrated_label = (
+            f'<span class="illustrated-available">{html.escape(edition["mode"].title())} illustrated edition</span>'
+            if edition else ""
+        )
         items.append(
             f'<li class="story-card"><a class="story-card-link" href="stories/{slug}.html">'
             f'<img class="card-cover" src="{cover}" alt="Cover art for {title}" width="864" height="1536" '
@@ -1154,13 +1173,9 @@ def render_index(catalog: Catalog, editions=()) -> str:
 
 
 def render_story(story: Story, editions=()) -> str:
-    edition_links = "".join(
-        f'<li><a href="../{html.escape(e["pdf"]["path"], quote=True)}" download>'
-        f'Download illustrated PDF ({html.escape(e["mode"].title())})</a></li>'
-        for e in editions if e["source"]["slug"] == story.slug
-    )
-    if edition_links:
-        edition_links = '<ul class="edition-links">' + edition_links + '</ul>'
+    edition = _editions_by_source(editions).get(story.slug)
+    if edition is not None:
+        return _illustrated_module().render_document(edition, writing_prompt=story.prompt)
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
     title = html.escape(story.title)
     cover = html.escape(f"../{story.cover}", quote=True)
@@ -1168,7 +1183,7 @@ def render_story(story: Story, editions=()) -> str:
         f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
         f'<h1>{title}</h1>'
         f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
-        f'{edition_links}{_prompt(story.prompt)}'
+        f'{_prompt(story.prompt)}'
         f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
         f'width="864" height="1536" decoding="async"></figure>'
         f'<div class="story-prose">{prose}</div></article>'

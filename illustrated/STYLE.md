@@ -8,16 +8,22 @@ presentation mode are independent.
 ## House design
 
 Use the bundled Source Serif for prose and Source Sans for supporting type.
-The digital PDF is 6 by 9 inches, normally with 0.625-inch margins, 11.5-point
+Web is the default output. An explicitly requested digital PDF is 6 by 9 inches,
+normally with 0.625-inch margins, 11.5-point
 prose on 16-point leading, restrained headings, and small page numbers. Cover
 and full-page art can use wider image areas. Keep all meaningful pixels inside
 the page; never crop a cover to force another aspect ratio. No mandatory frame,
 logo, speech bubble, narration box, invented chapter, or decorative text.
 
 Web reading is continuous, responsive, and selectable, with a comfortable
-measure, light/dark themes, visible keyboard focus, descriptive alt text, an
-original-story link, and PDF download. Artwork does not contain the body prose.
-PDF export uses the same semantic content and local fonts. Printing is a digital
+measure, light/dark themes, visible keyboard focus, descriptive alt text, a
+Library link, and the existing story URL. Its single Library card uses the
+illustrated cover while retaining source metadata and catalog position.
+Keep a clearly labeled Writing Prompt box before the prose, containing the
+exact existing catalog prompt as literal text. It is publication context,
+separate from the unchanged story body.
+Artwork does not contain the body prose. Add a PDF download only when requested.
+Optional PDF export uses the same semantic content and local fonts. Printing is a digital
 reading export, not a promise of commercial press-ready bleed or color control.
 
 Paragraphs, emphasis, punctuation, headings, scene breaks, and order survive.
@@ -38,18 +44,33 @@ No caption is the default. Never fabricate an author credit.
 These are planning defaults, not forced quotas. The user approves exact counts;
 reference sheets and cover generation are counted separately. Artwork is placed
 after a stable source block at or after the illustrated revelation. Never reorder
-prose to accommodate an image. Several editions of a story can coexist under
-distinct slugs; mode does not select a canned art style.
+prose to accommodate an image. Production editions can coexist under distinct
+slugs; only one approved edition per story supplies its published reader.
+Mode does not select a canned art style.
 
 ## Story art direction
 
-Infer a coherent visual language from source tone, genre, original cover, and
-all supplied reference roles: line quality, rendering, palette, lighting, costume
-detail, material texture, camera language, realism/stylization, and emotional
-temperature. Preserve recognizable source connections without forcing every
-story to share a rendering style. Fix practical appearance choices in approved
-character/location/object sheets before scenes. Changes to those sheets require
-renewed approval of affected work.
+Honor an explicit user art style. If none is specified, default to the anime
+illustration style used for the repository's covers: drawn anime forms and
+expressive stylization within premium novel illustration, with deliberate
+composition and cinematic lighting. Adapt palette, texture, detail, and emotional
+temperature to the source. Presentation mode does not change this art default,
+and a different explicitly requested style takes precedence.
+
+Use source tone, genre, the original cover, and supplied reference roles to make
+the story-specific visual choices. Once character sheets are accepted, their
+actual rendering becomes the concrete style anchor for subsequent location and
+object references. Attach those accepted image bytes as primary style inputs;
+originals guide geometry/content and the cover contributes subordinate accents.
+Match the sheets' pen contours, hatching, wash restraint, paper texture, and
+stylization, not merely palette. Reject painterly, photographic, or 3D drift
+from the accepted style even when the result is otherwise attractive. Do not
+replace accepted sheets with a generic interpretation of the anime default.
+Plan these style dependencies within the five-reference input limit.
+
+Fix practical appearance choices in accepted character/location/object
+references before scenes. Changes require renewed review and any affected
+approvals under the production contract.
 
 ## Finish
 
@@ -59,4 +80,4 @@ Reject identity drift, inconsistent clothing/forms, unearned story details,
 warped type, muddy values, clipping, pixelation, accidental blank pages, and
 caption/prose collisions. An image is judged against source and approved
 references, not repaired through generous interpretation. Review HTML on mobile
-and desktop and inspect every PDF page after each material layout revision.
+and desktop. For a requested PDF, inspect every page after each material layout revision.

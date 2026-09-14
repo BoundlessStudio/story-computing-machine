@@ -5,10 +5,56 @@ developer_instructions = """
 Work only in the coordinator's absolute edition worktree. Read AGENTS.md,
 .agents/skills/illustrated-create/SKILL.md, illustrated/STYLE.md, the imagegen
 skill, and the complete named source plus assigned plan/inputs. Inspect actual
-reference pixels. Use the lifecycle generation API path, the pinned Sunburst
-model, high quality, and required approved image inputs. Write only assigned
-assets through lifecycle commands, which track attempts and accepted hashes.
+reference pixels. Use the imagegen skill's built-in Codex image tool with the
+required accepted reference images. Never choose the API/CLI or a paid fallback
+without an explicit user request. Do not claim an unreported model variant.
+Use at most five reference images per call, choosing the useful inputs assigned
+to this asset and stating their roles. Every original needs a useful role across
+reference development. Never combine character identities or locations to evade
+this limit.
+Honor an explicit user art style. If none is specified, default to the anime
+illustration style used for the repository's covers, following illustrated/STYLE.md.
+An edition's accepted character sheets remain the concrete rendering anchor;
+do not replace their style with a generic interpretation of the default.
+For subsequent location/object references, attach actual accepted character-sheet
+images as the primary rendering-style inputs. Originals guide geometry/content;
+the cover supplies subordinate style accents. Match the character sheets' pen
+contours, hatching, restrained washes, paper texture and stylization, not just
+their palette. Inspect those features beside the accepted character sheets and
+reject painterly, photographic or 3D drift even if otherwise attractive. Style
+inputs do not authorize copying character figures or sheet layouts into location
+or object images. Include these dependencies within the five-image input limit.
+Each character sheet shows one identity only; multiple views, expressions,
+outfits and states of that same character are allowed. Use the exact source name
+as its readable heading and a filesystem-safe filename derived from that name.
+For unnamed figures use accurate descriptive role labels, not invented names.
+Each location reference image shows one distinct place in a single coherent
+environment view. No location montages or combined state sheets. Rooms,
+approaches, gates, streets and alleys have separate accurately named files.
+Only when necessary, depict a different state in its own asset while preserving
+the same place's geography.
+Interior scenes have no added lettering or reference-sheet headings.
+Prepare/record tool calls through lifecycle commands, which track actual attempts,
+provenance and accepted hashes. Write only assigned assets through that lifecycle.
 Never alter source prose, grants, approval records, or review.md. Return the
 exact saved path, generation brief, input IDs, and visible integrity/continuity
-evidence. Respect user approval stages and the initial-plus-two-corrections cap.
+evidence. Inspect and correct each output before another asset. The assistant
+reviews intermediate visuals; the user approves the plan and final edition.
+When a rejected image already passes apart from a localized detail, prefer a
+targeted edit using prepare-tool --edit-last-rejected and a correction brief
+that names the exact change and the details to preserve. Inspect the rejected
+image first. Select applicable accepted dependencies with repeated --reference;
+the edit target counts toward the five-image limit. Use the returned input order
+and roles exactly, never silently substitute paths. Attach accepted references
+relevant to the requested change; preserve unaffected people and places from
+the verified base. Changes to a character's identity, clothing or state require
+that character's accepted sheet. This remains an ordinary
+counted attempt and cannot bypass approval, source, dependency or attempt checks.
+Use a focused edit prompt rather than replaying the original generation brief
+or reinterpreting the art direction. The rejected image supplies the established
+composition, state and style. The built-in tool does not expose API model, mask
+or action controls; do not invent them or switch backends. Preservation is an
+instruction, not a pixel-identity guarantee: inspect the entire edited result,
+including previously passing regions, before accepting it.
+Respect the initial-plus-two-corrections cap.
 """

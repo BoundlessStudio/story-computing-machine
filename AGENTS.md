@@ -186,7 +186,8 @@ future workflow; V1 does not produce comics or panel scripts.
 
 Editions live in the separate `illustrated/` collection. A package contains
 `prompt.md`, `plan.md`, `edition.json`, `review.md`, selected cover/reference/
-illustration assets, and `edition.pdf`. The four-file story rule applies to
+illustration assets, and `edition.html`. Add `edition.pdf` only when explicitly
+requested. The four-file story rule applies to
 `stories/`, not edition packages. Temporary candidates/previews stay outside
 packages. No duplicate prose drafts or additional lifecycle records are allowed.
 
@@ -204,22 +205,64 @@ leave the primary checkout on main. Keep the same safe-switch and occupied-path
 stops. Never write an edition in the primary checkout. Explicit edits can resume
 an edition; another edition needs a distinct slug and never implicitly overwrites.
 
-The user approves the plan/counts, then all selected references/cover/layout,
-then the independently reviewed final web/PDF edition. Approval is an actual user
-response bound to exact inputs, not an agent verdict or the passage of time.
-Generation uses the pinned OpenAI Image 2.5 Sunburst API with approved references,
-one asset per call, and an initial run plus two automatic corrections per stable
-image ID. Persist attempts across resumes. Source or dependency changes block
-stale approval use; the stage contract owns renewal and explicit repinning.
+The user approves the plan/counts. The assistant then reviews and corrects the
+selected references, cover, layout and scene artwork before presenting the
+independently reviewed final web edition for the user's final approval. PDF
+generation, page review, and download links are optional and require a user request.
+Record intermediate assistant review separately from user approval. User approval
+is an actual response bound to exact inputs, never an agent verdict or elapsed time.
+Use the imagegen skill's built-in Codex image generation by default, with accepted
+reference images attached, one asset per call, and an initial run plus two
+automatic corrections per stable image ID. Do not use the API, an API key, a CLI
+image runner or another paid fallback unless the user explicitly requests that
+path. Do not claim a specific backend model variant when the built-in tool does
+not report it. Persist actual tool provenance and attempts across resumes. Source
+or dependency changes block stale approval use; the stage contract owns renewal
+and explicit repinning.
 
-`pages/illustrated.json` and `pages/illustrated/` store separately approved
-publication snapshots. Original story pages link only to the illustrated PDF
-download; do not add a separate illustrated-reader link there.
+Each character reference sheet depicts one identity only; multiple viewpoints,
+expressions, outfits, or states of that same character are allowed. Use the exact
+source name in its readable heading and an unambiguous filename derived from
+that name. For unnamed figures, use accurate descriptive role labels without
+inventing names. Each location reference image depicts one distinct place in a
+single coherent environment view, with no montage or combined location sheet.
+Separate rooms, approaches, gates, streets, and alleys into accurately named
+files. When a different state needs its own reference, use a separate asset that
+preserves the same place's geography rather than packing states into one image.
+Interior illustrations do not carry reference-sheet headings.
+The built-in image tool accepts at most five reference images per call. Select
+useful inputs for each asset and assign every original a useful role across the
+edition; never combine characters or locations to evade that limit.
+
+Honor an explicitly requested art style. When none is specified, default to the
+anime illustration style used for the repository's covers. Once character
+sheets are accepted, their actual rendering remains the concrete style anchor;
+do not replace it with a generic interpretation of the default.
+Accepted character sheets establish the rendering style for subsequent location
+and object references. Attach their actual image bytes as the primary style
+inputs; originals guide geometry and content, while the cover supplies
+subordinate style accents. Match the character sheets' pen contours, hatching,
+restrained washes, paper texture, and stylization, not just their palette.
+Reject painterly, photographic, or 3D drift even when the image is otherwise
+attractive. Plan these style dependencies within the five-input limit.
+
+`pages/illustrated.json` and `pages/illustrated/` store approved artwork and prose
+snapshots backing the existing story catalog. An approved illustrated edition
+replaces the reader at `stories/<source-slug>.html` and uses that story's one
+Library card, with its illustrated cover and label. Preserve the source title,
+catalog position, metadata, and count.
+Keep the existing catalog Writing Prompt visible before the story prose, using
+the exact published text and literal HTML escaping, separately from story content.
+Do not substitute edition workflow instructions or a regenerated prompt.
+Do not add a second entry or reader, an
+Original story self-link, or a PDF link when no PDF was requested. Keep the source
+package and `pages/catalog.json` intact. Only one edition per source is selected
+for publication; named approved capture replaces the previous selection.
 Named `capture-illustrated` requires final approval,
 independent PASS, unchanged source, and deliberately reconciled source/catalog
 canon. It never publishes the original story implicitly. Ordinary capture and
 capture-all never refresh editions. Published editions stay frozen until an
-explicit recapture; Pages builds use stored prose/art/PDF only and never render
+explicit recapture; Pages builds use stored prose/art and any requested PDF only and never render
 PDFs, generate art, or traverse production sources. Merge edition branches
 through draft pull requests, never automatically.
 

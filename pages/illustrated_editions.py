@@ -117,16 +117,19 @@ def render_prose(body: str, title: str, illustrations: list[dict], asset_prefix:
     return _markdown(body, title, illustrations, asset_prefix)[0]
 
 
-def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True) -> str:
+def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='') -> str:
     title = html.escape(record['title'])
-    source_slug = record['source']['slug']
     nav = ''
     if navigation:
-        nav = (f'<nav class="edition-nav" aria-label="Edition navigation"><a href="../stories/{source_slug}.html">Original story</a>'
-               f'<a href="../index.html">Library</a><a href="{asset_prefix}{record["pdf"]["path"]}" download>Download PDF</a>'
+        pdf_link = f'<a href="{html.escape(asset_prefix + record["pdf"]["path"], quote=True)}" download>Download PDF</a>' if record.get('pdf') else ''
+        nav = ('<nav class="edition-nav" aria-label="Story navigation"><a href="../index.html">Library</a>'
+               + pdf_link +
                '<button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle color theme">'
                '<span data-theme-label="light">Light</span><span data-theme-label="dark">Dark</span></button></nav>')
     author = f'<p class="edition-author">{html.escape(record["author"])}</p>' if record.get('author') else ''
+    prompt = ('<section class="edition-prompt" aria-labelledby="writing-prompt-title">'
+              '<h2 id="writing-prompt-title">Writing Prompt</h2>'
+              f'<blockquote>{html.escape(writing_prompt)}</blockquote></section>') if writing_prompt else ''
     cover = html.escape(asset_prefix + record['cover']['path'], quote=True)
     prose = render_prose(record['body'], record['title'], record['illustrations'], asset_prefix)
     mode = record['mode']
@@ -140,6 +143,7 @@ def render_document(record: dict, *, stylesheet='../illustrated.css', asset_pref
             f'<body class="edition mode-{mode}">{nav}<main>'
             f'<section class="edition-cover"><img src="{cover}" alt="Cover for {title}"></section>'
             f'<header class="edition-title"><p class="edition-label">{mode.title()} illustrated edition</p><h1>{title}</h1>{author}</header>'
+            f'{prompt}'
             f'<article class="edition-prose" aria-label="Story">{prose}</article>'
             '<p class="edition-end" aria-label="End of story">◆</p></main></body></html>')
 
@@ -149,24 +153,34 @@ def _public_asset(entry, relative):
 
 
 def _record(root: Path, manifest: dict) -> dict:
-    from illustrated.edition import get_source_body
+    from illustrated.edition import get_source_body, pdf_requested
     slug = manifest['slug']
     return {
         'slug': slug, 'title': manifest['title'], 'mode': manifest['mode'].lower(),
         'source': {k:v for k,v in manifest['source'].items() if k in {'slug','title','layout','commit','prose','files','bodySha256'}}, 'body': get_source_body(root, manifest),
         'cover': _public_asset(manifest['cover'], f'illustrated/{slug}/cover' + Path(manifest['cover']['path']).suffix),
         'illustrations': [_public_asset(a, f'illustrated/{slug}/' + a['path']) for a in manifest['illustrations']],
-        'pdf': {'path': f'illustrated/{slug}/edition.pdf', 'sha256': (manifest.get('render') or {}).get('pdfSha256', '')},
+        **({'pdf': {'path': f'illustrated/{slug}/edition.pdf', 'sha256': (manifest.get('render') or {}).get('pdfSha256', '')}} if pdf_requested(manifest) else {}),
     }
 
 
 def render_edition(root: Path, slug: str) -> Path:
-    from illustrated.edition import validate_edition, stage_digest, save_edition, require_worktree
+    from illustrated.edition import validate_edition, stage_digest, save_edition, require_worktree, pdf_requested, get_public_prompt
     require_worktree(root)
     manifest = validate_edition(root, slug, 'render')
     directory = root / 'illustrated' / slug
     record = _record(root, manifest)
     input_hash = stage_digest(root, manifest, 'render')
+    writing_prompt = get_public_prompt(root, manifest['source']['slug'])
+    document_html = render_document(record, writing_prompt=writing_prompt)
+    if not pdf_requested(manifest):
+        target = directory / 'edition.html'
+        target.write_text(document_html, encoding='utf-8', newline='\n')
+        manifest['render'] = {'inputsSha256': input_hash, 'htmlSha256': digest(target)}
+        manifest.get('approvals', {}).pop('final', None)
+        manifest.pop('review', None)
+        save_edition(root, manifest)
+        return target
     # The preview is disposable. Only the final PDF and its bound digest are kept.
     with tempfile.TemporaryDirectory(prefix='illustrated-export-') as temporary:
         preview = Path(temporary)
@@ -177,7 +191,7 @@ def render_edition(root: Path, slug: str) -> Path:
         shutil.copyfile(ROOT / 'pages/illustrated.css', preview / 'illustrated.css')
         shutil.copytree(ROOT / 'pages/fonts', preview / 'fonts')
         document = preview / 'edition.html'
-        document.write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False), encoding='utf-8')
+        document.write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False, writing_prompt=writing_prompt), encoding='utf-8')
         pdf = preview / 'edition.pdf'
         subprocess.run(['node', str(ROOT / 'illustrated/export.mjs'), str(document), str(pdf)], check=True)
         # Check inputs again after the potentially lengthy browser operation.
@@ -185,7 +199,8 @@ def render_edition(root: Path, slug: str) -> Path:
         if stage_digest(root, current, 'render') != input_hash:
             raise ValueError('Edition changed during export')
         shutil.copyfile(pdf, directory / 'edition.pdf')
-    current['render'] = {'inputsSha256': input_hash, 'pdfSha256': digest(directory / 'edition.pdf')}
+    (directory / 'edition.html').write_text(document_html, encoding='utf-8', newline='\n')
+    current['render'] = {'inputsSha256': input_hash, 'htmlSha256': digest(directory / 'edition.html'), 'pdfSha256': digest(directory / 'edition.pdf')}
     current.get('approvals', {}).pop('final', None)
     current.pop('review', None)
     save_edition(root, current)
@@ -195,21 +210,34 @@ def render_edition(root: Path, slug: str) -> Path:
 def preview_edition(root: Path, slug: str, destination: Path) -> Path:
     """Write a disposable web preview, never into production or captured assets."""
     from illustrated.edition import validate_edition, require_worktree
-    from pages.build import prepare_output
+    from pages.build import build, load_story_source, prepare_output, render_story, render_index
     require_worktree(root)
     manifest = validate_edition(root, slug, 'render')
     out = prepare_output(destination, root)
+    catalog = build(out, root / 'pages/catalog.json')
     record = _record(root, manifest)
+    # Preview the working edition against a disposable copy of the published
+    # library, so navigation and theme controls behave as they do on Pages.
+    # An unpublished original may also be viewed here without capturing it.
+    source = next((story for story in catalog.stories if story.slug == manifest['source']['slug']), None)
+    if source is None:
+        source = load_story_source(manifest['source']['slug'], root)
+        shutil.copyfile(root / 'stories' / source.slug / 'title-image.jpg', safe_path(out, source.cover))
     for asset, target in [(manifest['cover'], record['cover'])] + list(zip(manifest['illustrations'], record['illustrations'])):
         path = safe_path(out, target['path'])
         path.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(safe_path(root / 'illustrated' / slug, asset['path']), path)
-    if (root / 'illustrated' / slug / 'edition.pdf').exists():
+    if record.get('pdf') and (root / 'illustrated' / slug / 'edition.pdf').exists():
         shutil.copyfile(root / 'illustrated' / slug / 'edition.pdf', safe_path(out, record['pdf']['path']))
     shutil.copyfile(ROOT / 'pages/illustrated.css', out / 'illustrated.css')
-    shutil.copytree(ROOT / 'pages/fonts', out / 'fonts')
-    (out / 'index.html').write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False), encoding='utf-8')
-    return out / 'index.html'
+    shutil.copytree(ROOT / 'pages/fonts', out / 'fonts', dirs_exist_ok=True)
+    target = out / 'stories' / f'{source.slug}.html'
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(render_story(source, [record]), encoding='utf-8', newline='\n')
+    if source.slug in {story.slug for story in catalog.stories}:
+        records = [item for item in load_snapshot(root / 'pages/illustrated.json') if item['source']['slug'] != source.slug] + [record]
+        (out / 'index.html').write_text(render_index(catalog, records), encoding='utf-8', newline='\n')
+    return target
 
 
 
@@ -240,7 +268,9 @@ def layout_sample(root: Path, slug: str, destination: Path) -> Path:
     shutil.copyfile(ROOT/'pages/illustrated.css', out/'illustrated.css')
     shutil.copytree(ROOT/'pages/fonts',out/'fonts')
     target = out/'index.html'
-    target.write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False),encoding='utf-8')
+    from illustrated.edition import get_public_prompt
+    target.write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False,
+                                     writing_prompt=get_public_prompt(root, manifest['source']['slug'])),encoding='utf-8')
     return target
 
 
@@ -251,8 +281,9 @@ def load_snapshot(path: Path = SNAPSHOT) -> list[dict]:
     if set(data) != {'schemaVersion', 'editions'} or data['schemaVersion'] != 1 or not isinstance(data['editions'], list):
         raise ValueError('Invalid illustrated snapshot')
     seen = set()
+    sources = set()
     for record in data['editions']:
-        if set(record) != {'slug', 'title', 'mode', 'source', 'body', 'cover', 'illustrations', 'pdf'}:
+        if set(record) not in ({'slug', 'title', 'mode', 'source', 'body', 'cover', 'illustrations'}, {'slug', 'title', 'mode', 'source', 'body', 'cover', 'illustrations', 'pdf'}):
             raise ValueError('Invalid illustrated snapshot fields')
         slug = record['slug']
         if not SLUG.fullmatch(slug) or slug in seen or record['mode'] not in MODES:
@@ -260,22 +291,29 @@ def load_snapshot(path: Path = SNAPSHOT) -> list[dict]:
         seen.add(slug)
         if not isinstance(record['body'], str) or not record['body'].strip() or not SLUG.fullmatch(record['source']['slug']):
             raise ValueError('Invalid illustrated source')
+        if record['source']['slug'] in sources:
+            raise ValueError('Only one published illustrated edition is allowed per source story')
+        sources.add(record['source']['slug'])
         if hashlib.sha256(record['body'].encode('utf-8')).hexdigest() != record['source']['bodySha256']:
             raise ValueError('Captured prose differs from its pinned source digest')
         render_prose(record['body'], record['title'], record['illustrations'])
-        for asset in [record['cover'], *record['illustrations'], record['pdf']]:
+        for asset in published_assets(record):
             if not asset['path'].startswith(f'illustrated/{slug}/'):
                 raise ValueError('Captured asset belongs to another edition')
             target = safe_path(path.parent, asset['path'])
             if not target.is_file() or digest(target) != asset['sha256']:
                 raise ValueError(f'Captured asset missing or changed: {asset["path"]}')
-            if asset is record['pdf']:
+            if asset is record.get('pdf'):
                 if not target.read_bytes().startswith(b'%PDF-'):
                     raise ValueError('Invalid captured PDF')
             else:
                 with Image.open(target) as image:
                     image.verify()
     return data['editions']
+
+
+def published_assets(record: dict) -> list[dict]:
+    return [record['cover'], *record['illustrations'], *([record['pdf']] if record.get('pdf') else [])]
 
 
 def capture_edition(root: Path, slug: str, snapshot: Path | None = None) -> dict:
@@ -296,7 +334,7 @@ def capture_edition(root: Path, slug: str, snapshot: Path | None = None) -> dict
     records = load_snapshot(snapshot)
     record = _record(root, manifest)
     render_prose(record['body'], record['title'], record['illustrations'])
-    records = sorted([r for r in records if r['slug'] != slug] + [record], key=lambda r: r['slug'])
+    records = sorted([r for r in records if r['slug'] != slug and r['source']['slug'] != source_slug] + [record], key=lambda r: r['slug'])
     target_directory = safe_path(snapshot.parent, f'illustrated/{slug}')
     target_directory.parent.mkdir(parents=True, exist_ok=True)
     # Stage every byte before touching a published edition. A failed replacement
@@ -306,7 +344,7 @@ def capture_edition(root: Path, slug: str, snapshot: Path | None = None) -> dict
         staging = Path(temporary)
         staged_assets = staging / 'assets'
         staged_assets.mkdir()
-        for source, target in [(manifest['cover'], record['cover']), *zip(manifest['illustrations'], record['illustrations']), ({'path':'edition.pdf'},record['pdf'])]:
+        for source, target in [(manifest['cover'], record['cover']), *zip(manifest['illustrations'], record['illustrations']), *([({'path':'edition.pdf'},record['pdf'])] if record.get('pdf') else [])]:
             relative = target['path'].removeprefix(f'illustrated/{slug}/')
             destination = safe_path(staged_assets, relative)
             destination.parent.mkdir(parents=True, exist_ok=True)
@@ -350,14 +388,14 @@ def check_snapshot(root: Path, snapshot: Path | None = None) -> list[str]:
         render = current.get('render') or {}
         approval = current.get('approvals', {}).get('final') or {}
         still_approved = (
-            render.get('pdfSha256') == record['pdf']['sha256']
+            render.get('pdfSha256') == record.get('pdf', {}).get('sha256')
             and render.get('inputsSha256') == stage_digest(root,current,'render')
             and approval.get('inputsSha256') == stage_digest(root,current,'final')
         )
         if not still_approved:
             notes.append(f'{record["slug"]}: publication retains its approved earlier edition')
             continue
-        if digest(directory/'edition.pdf') != record['pdf']['sha256']:
+        if record.get('pdf') and digest(directory/'edition.pdf') != record['pdf']['sha256']:
             raise ValueError(f'Production/capture PDF mismatch: {record["slug"]}')
         source_identity = {k:v for k,v in current['source'].items() if k in {'slug','title','layout','commit','prose','files','bodySha256'}}
         if current['title'] != record['title'] or current['mode'].lower() != record['mode'] or source_identity != record['source']:
@@ -389,11 +427,10 @@ def build_editions(output: Path, snapshot: Path) -> list[dict]:
     shutil.copyfile(ROOT / 'pages/illustrated.css', output / 'illustrated.css')
     shutil.copytree(ROOT / 'pages/fonts', output / 'fonts')
     for record in records:
-        for asset in [record['cover'], *record['illustrations'], record['pdf']]:
+        for asset in published_assets(record):
             target = safe_path(output, asset['path'])
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(safe_path(snapshot.parent, asset['path']), target)
-        (output / 'illustrated' / (record['slug'] + '.html')).write_text(render_document(record), encoding='utf-8')
     return records
 
 
