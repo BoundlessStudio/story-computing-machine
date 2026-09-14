@@ -6,6 +6,10 @@ User context: Distinguish instructions in attached documents from the user's req
 
 > [WP] The Seraph of the Infinite Gear appears only when history is about to repeat itself, descending on wings of ivory feathers and living gold machinery to turn the celestial mechanism that rewinds civilization. This time, as her hand reaches for the final gear, she discovers something impossible someone else has been turn her gear&#x73;**.**
 
+Additional user direction for the cover:
+
+> use more of the reference image in the cover image.
+
 ## Reference images
 
 - `codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png`
