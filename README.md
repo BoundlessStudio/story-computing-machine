@@ -42,12 +42,15 @@ control typography and layout, while the source cover, references, and story
 tone guide each edition's art direction. Comics and speech bubbles are deferred.
 
 The agent proposes meaningful illustration moments and reference counts. You
-approve the plan, then character/location/object references, the cover, and a
-layout sample. After that it creates scenes, assembles the web reader and PDF,
+approve the plan; the agent reviews character/location/object references, the
+cover and a layout sample. After that it creates scenes and assembles the web reader,
 and obtains independent review followed by your final approval. Request changes
 through Codex: regenerate a named image, move or resize a placement, or revise
 art direction. Changes renew the affected approval stages. The original cover
 is reused unless you request a new edition cover; source stories remain intact.
+Web-only is the default. The approved illustrated reader replaces the story at
+its existing Library card and URL, preserving catalog metadata and position.
+PDF generation and downloads are available only when requested.
 
 See [illustrated-create](.agents/skills/illustrated-create/SKILL.md) for the stage
 contract and [edition tooling](illustrated/README.md) for setup and commands.
@@ -70,7 +73,8 @@ contract and [edition tooling](illustrated/README.md) for setup and commands.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
-GitHub Pages publishes the Library, story pages, and approved illustrated readers/PDFs. The
+GitHub Pages publishes the Library and story pages; an approved illustrated
+edition replaces its story's reader and card presentation. The
 Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.

@@ -1,0 +1,20 @@
+# Illustrated edition review
+
+Verdict: PASS
+Reviewer: /root/review_writing_prompt (Writing Prompt restoration); retained prior edition assessments by /root/catalog_entry_flow and /root/review_realms_edition
+
+- Source fidelity: PASS
+- Visual continuity: PASS
+- Web readability: PASS
+- Every PDF page: NOT REQUESTED
+
+## Findings
+
+- Blocking: none
+- Review scope: Independent review of the restored reader-facing Writing Prompt and its effect on the final web edition. This reviewer did not implement the renderer, write the prose or generate the artwork. Prior complete prose, artwork and reader assessments are retained where their inputs remain unchanged; fresh observations and comparisons are distinguished below.
+- Evidence — source: Read the complete canon-locked bundle prose and recorded source prompt before inspecting the final reader. All four pinned source-file hashes match. Independently confirmed that the complete `edition-prose` article is byte-identical to the previously reviewed document preserved as `prompt-restoration/previous-edition.html`. The current HTML and live reader retain all 219 source blocks and eight scene figures; the HTML preserves four scene breaks, eight emphasis spans and one strong span. The prior independent semantic comparison of punctuation, emphasis and ordering remains applicable. No source prose changed.
+- Evidence — Writing Prompt: The selectable blockquote exactly equals the Realms `prompt` string in `pages/catalog.json`, including its em dash and final period. It contains the original three-sentence heartseed premise, with no `[WP]` marker or illustrated-workflow instructions. The section follows the cover/title and precedes the first prose paragraph. Its `Writing Prompt` level-two heading labels the section through `aria-labelledby`; it remains separate from the story article and source anchors.
+- Evidence — artwork: The original complete review by `/root/review_realms_edition` inspected the cover, nine external originals, fourteen selected references and eight scenes. It passed names, single-identity sheets, single-place environments, source events, ink contours, hatching, restrained washes and continuity. This reviewer freshly inspected the cover, all fourteen selected references and all eight selected scenes, and independently verified all 23 selected-asset hashes. Cal retains his right token before rooting, then the right bandage/cuff and left phone hand; Lena appears remotely; Tuck retains his left sling. The final steel door is opaque, the pillow object remains concealed, and the clear pouch visibly contains Tuck's stamped disk and clipped cord. No new visible integrity or continuity blocker was found.
+- Evidence — responsive reader: Independently inspected the live prompt at 390 pixels in light mode and 320 pixels in dark mode, and the coordinator's final 1280- and 320-pixel light-mode screenshots. The full prompt wraps inside its border with clear padding and separation from the title and opening prose; no clipping, overlap or horizontal overflow is visible. The live accessibility tree includes the complete story and all nine descriptive image alternatives. Both theme directions work, and Library navigation opens the existing index. The earlier complete-reader spacing, image-placement, cover-proportion and keyboard-focus assessment remains applicable to the unchanged article. The Library still shows one Realms card with its illustrated label and source metadata. The reader has no Original story or PDF link.
+- Evidence — requested output: This is the requested web-only edition. No PDF is part of the current deliverable; historical PDF evidence is not a current output gate.
+- Reviewed output: `illustrated/realms/edition.html`, SHA-256 `2a4425b8c3b743106db184ac8a726c4fcbacd1a599e003bc560c8263482ceca0`, independently verified byte-identical to `C:/Users/jamie/AppData/Local/Temp/codex-illustrated-realms/edition-preview/stories/realms.html`, served at `http://127.0.0.1:8765/stories/realms.html`. Final user approval is absent. This review grants no publication approval and changes only this review file.

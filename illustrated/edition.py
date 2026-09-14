@@ -1,13 +1,15 @@
 """Approval-bound illustrated editions. Run ``python -m illustrated.edition --help``.
 
 The CLI records actual human decisions; it cannot authenticate a chat identity.
-Agents must never invent approvals. Image calls use the bundled imagegen CLI
-unchanged, and temporary candidates remain outside the edition package.
+Agents must never invent approvals. New editions use Codex's built-in image
+tool; the paid API requires explicit user opt-in. Temporary candidates remain
+outside the edition package.
 """
 from __future__ import annotations
 
 import argparse
 from collections import Counter
+from copy import deepcopy
 from datetime import datetime, timezone
 import hashlib
 from html.parser import HTMLParser
@@ -27,6 +29,8 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 MODEL = "gpt-image-2.5-sunburst-2026-09-08"
 QUALITY = "high"
+TOOL_MODEL = "tool-selected"
+BACKENDS = {"codex-imagegen", "openai-api"}
 MODES = {"Classic": 8, "Deluxe": 12, "Cinematic": 8}
 SIZES = {"1024x1024", "1536x1024", "1024x1536"}
 KINDS = {"character", "location", "object", "style", "illustration", "cover"}
@@ -233,6 +237,15 @@ def get_source_body(root: Path, manifest: dict[str, Any]) -> str:
 source_body = get_source_body
 
 
+def get_public_prompt(root: Path, source_slug: str) -> str:
+    """Use the existing editorial publication text, never workflow instructions."""
+    from pages.build import load_catalog
+    path = Path(root) / 'pages/catalog.json'
+    if not path.is_file():
+        return ''  # An unpublished source has no existing public prompt yet.
+    return next((story.prompt for story in load_catalog(path).stories if story.slug == source_slug), '')
+
+
 def _assets(manifest: dict[str, Any]) -> list[dict[str, Any]]:
     return [manifest["cover"], *manifest["references"], *manifest["illustrations"]]
 
@@ -252,8 +265,14 @@ def load_edition(root: Path, slug: str) -> dict[str, Any]:
         raise ValueError(f"Cannot load edition: {path}") from error
     if not isinstance(manifest, dict) or manifest.get("schemaVersion") != 1 or manifest.get("slug") != slug:
         raise ValueError("Unsupported or mismatched edition manifest")
-    if manifest.get("mode") not in MODES or manifest.get("model") != MODEL or manifest.get("quality") != QUALITY:
-        raise ValueError("Edition must use a supported mode and the pinned Sunburst model at high quality")
+    backend = manifest.get("backend", "openai-api")  # Preserve historical provenance.
+    expected = (TOOL_MODEL, TOOL_MODEL) if backend == "codex-imagegen" else (MODEL, QUALITY)
+    if backend not in BACKENDS or manifest.get("mode") not in MODES or (manifest.get("model"), manifest.get("quality")) != expected:
+        raise ValueError("Edition backend, model and quality must describe the selected image workflow honestly")
+    if manifest.get("visualReviewPolicy", "user") not in {"user", "assistant"}:
+        raise ValueError("Visual review policy must be user or assistant")
+    if manifest.get("outputFormat", "web-pdf") not in {"web", "web-pdf"}:
+        raise ValueError("Output format must be web or explicitly requested web-pdf")
     for field in ("source", "approvals", "cover"):
         if not isinstance(manifest.get(field), dict):
             raise ValueError(f"Edition requires an object: {field}")
@@ -317,6 +336,19 @@ def _image(path: Path, size: str | None = None) -> None:
         raise ValueError(f"Invalid image {path}: {error}") from error
 
 
+def _generated_image(path: Path, manifest: dict[str, Any], asset: dict[str, Any]) -> str:
+    """Keep native tool pixels; API dimensions remain exact, tool aspect stays planned."""
+    tool_backend = manifest.get("backend") == "codex-imagegen"
+    _image(path, None if tool_backend else asset["size"])
+    with Image.open(path) as image:
+        width, height = image.size
+    if tool_backend:
+        planned_width, planned_height = map(int, asset["size"].split("x"))
+        if abs((width / height) / (planned_width / planned_height) - 1) > 0.01:
+            raise ValueError(f"Tool image {width}x{height} does not preserve the planned {asset['size']} aspect ratio")
+    return f"{width}x{height}"
+
+
 def create_edition(root: Path, selector: str, request: str, *, slug: str | None = None, mode: str = "Classic", references: list[Path] | None = None) -> dict[str, Any]:
     root = Path(root).resolve()
     _mutable(root)
@@ -342,7 +374,8 @@ def create_edition(root: Path, selector: str, request: str, *, slug: str | None 
     _image(cover_source)
     manifest = {
         "schemaVersion": 1, "slug": slug, "title": identity["title"], "createdAt": _now(),
-        "source": source, "mode": mode, "model": MODEL, "quality": QUALITY,
+        "source": source, "mode": mode, "backend": "codex-imagegen", "model": TOOL_MODEL, "quality": TOOL_MODEL,
+        "visualReviewPolicy": "assistant", "outputFormat": "web",
         "externalReferences": originals, "references": [], "illustrations": [],
         "cover": {"id": "cover", "kind": "cover", "path": "cover.jpg", "sha256": file_hash(cover_source), "reused": True,
                   "prompt": "Reuse the original cover without alteration.", "size": "1024x1536", "references": ["source-cover"], "attempts": 0, "accepted": None},
@@ -355,7 +388,7 @@ def create_edition(root: Path, selector: str, request: str, *, slug: str | None 
     inventory = "\n".join(f"- `{item['displayName']}` ({item['id']})" for item in originals) or "- None supplied."
     (directory / "prompt.md").write_text(f"# Illustrated edition request\n\n{request}\n\n## Source\n\n- Story: {identity['title']} (`{identity['slug']}`).\n- Source commit: `{source['commit']}`.\n\n## External reference images\n\n{inventory}\n", encoding="utf-8", newline="\n")
     (directory / "plan.md").write_text(f"# Illustration plan\n\nStatus: PENDING\n\n## Story analysis\n\nSeparate source-established people, places, objects and changes from proposed visual choices.\n\n## Art direction and house layout\n\nMode: {mode}. Planning target: {MODES[mode]} interior illustrations; cover and references counted separately.\n\n## Moments and placements\n\nRecord every illustration, its stable block anchor, reveal timing, layout and generation brief.\n\n## Reference inventory and generation counts\n\nRecord character/outfit, location, object and style references, plus any custom cover.\n", encoding="utf-8", newline="\n")
-    (directory / "review.md").write_text("# Illustrated edition review\n\nVerdict: PENDING\n\n- Source fidelity: PENDING\n- Visual continuity: PENDING\n- Web readability: PENDING\n- Every PDF page: PENDING\n- Blocking: pending independent review.\n", encoding="utf-8", newline="\n")
+    (directory / "review.md").write_text("# Illustrated edition review\n\nVerdict: PENDING\n\n- Source fidelity: PENDING\n- Visual continuity: PENDING\n- Web readability: PENDING\n- Every PDF page: NOT REQUESTED\n- Blocking: pending independent review.\n", encoding="utf-8", newline="\n")
     save_edition(root, manifest)
     return manifest
 
@@ -369,10 +402,14 @@ def configure_asset(root: Path, slug: str, asset_id: str, *, kind: str, prompt: 
         raise ValueError("The edition cover has the reserved ID 'cover'")
     if asset_id in {item["id"] for item in manifest["externalReferences"]}:
         raise ValueError("Asset ID collides with an external reference")
+    if asset_id in {item["id"] for item in manifest.get("retiredAssets", [])}:
+        raise ValueError("Retired asset IDs remain reserved with their original attempt history; choose a new ID")
     previous = next((item for item in _assets(manifest) if item["id"] == asset_id), None)
     if previous and previous["kind"] != kind:
         raise ValueError("An existing stable asset ID cannot change kind")
     refs = references if references is not None else (["source-cover"] + [item["id"] for item in manifest["externalReferences"]] if kind != "illustration" else [])
+    if manifest.get("backend") == "codex-imagegen" and len(refs) > 5:
+        raise ValueError("Codex image tool supports at most five input images per asset; select up to five references explicitly")
     ids = {item["id"] for item in _assets(manifest)} | {item["id"] for item in manifest["externalReferences"]} | {"source-cover"}
     if len(set(refs)) != len(refs) or asset_id in refs or any(item not in ids for item in refs):
         raise ValueError("References must be unique known IDs and cannot refer to the asset itself")
@@ -448,7 +485,8 @@ def _asset_spec(asset: dict[str, Any]) -> dict[str, Any]:
 def _plan_payload(root: Path, manifest: dict[str, Any]) -> dict[str, Any]:
     directory = edition_directory(root, manifest["slug"])
     source = {key: value for key, value in manifest["source"].items() if key != "coverInspection"}
-    return {"slug": manifest["slug"], "title": manifest["title"], "source": source, "mode": manifest["mode"], "model": manifest["model"], "quality": manifest["quality"],
+    return {**{key: manifest[key] for key in ("backend", "visualReviewPolicy", "workflowDecision", "outputFormat", "outputDecision") if key in manifest},
+            "slug": manifest["slug"], "title": manifest["title"], "source": source, "mode": manifest["mode"], "model": manifest["model"], "quality": manifest["quality"],
             "promptSha256": file_hash(directory / "prompt.md", text=True), "planSha256": file_hash(directory / "plan.md", text=True),
             "assets": [_asset_spec(asset) for asset in _assets(manifest)],
             "originals": [{key: item[key] for key in ("id", "displayName", "sha256")} for item in manifest["externalReferences"]]}
@@ -459,7 +497,7 @@ def _selected(asset: dict[str, Any]) -> dict[str, Any]:
 
 
 def _renderer_hashes() -> dict[str, str]:
-    paths = [ROOT / name for name in ("pages/illustrated.css", "pages/illustrated_editions.py", "illustrated/export.mjs", "illustrated/package-lock.json")]
+    paths = [ROOT / name for name in ("pages/illustrated.css", "pages/illustrated_editions.py", "pages/build.py", "pages/styles.css", "pages/theme.js", "illustrated/export.mjs", "illustrated/package-lock.json")]
     fonts = ROOT / "pages/fonts"
     if fonts.is_dir():
         paths += sorted(path for path in fonts.rglob("*") if path.is_file())
@@ -474,7 +512,10 @@ def stage_digest(root: Path, manifest: dict[str, Any], stage: str) -> str:
     payload.update(references=[_selected(asset) for asset in manifest["references"]], cover=_selected(manifest["cover"]), layoutPreview=manifest.get("layoutPreview"))
     if stage == "visuals":
         return _digest(payload)
+    if "visualReviewPolicy" in manifest:
+        payload["visualReview"] = manifest.get("visualReview")
     payload["illustrations"] = [_selected(asset) for asset in manifest["illustrations"]]
+    payload["writingPrompt"] = get_public_prompt(root, manifest["source"]["slug"])
     payload["renderer"] = _renderer_hashes()
     if stage == "render":
         return _digest(payload)
@@ -488,6 +529,15 @@ def _require_approval(root: Path, manifest: dict[str, Any], stage: str) -> None:
     approval = manifest["approvals"].get(stage)
     if not isinstance(approval, dict) or approval.get("actor") != "user" or not isinstance(approval.get("decision"), str) or not approval["decision"].strip() or approval.get("inputsSha256") != stage_digest(root, manifest, stage):
         raise ValueError(f"Missing or stale explicit user {stage} approval")
+
+
+def _require_visual_review(root: Path, manifest: dict[str, Any]) -> None:
+    if manifest.get("visualReviewPolicy", "user") == "user":
+        _require_approval(root, manifest, "visuals")
+        return
+    review = manifest.get("visualReview")
+    if not isinstance(review, dict) or review.get("actor") != "assistant" or not review.get("reviewer") or not review.get("evidence") or review.get("inputsSha256") != stage_digest(root, manifest, "visuals"):
+        raise ValueError("Missing or stale assistant review of the references, cover and layout")
 
 
 def _dependency(root: Path, manifest: dict[str, Any], reference_id: str, visiting: set[str] | None = None) -> tuple[Path, str]:
@@ -512,14 +562,18 @@ def _art_direction(root: Path, manifest: dict[str, Any]) -> str:
 
 def _asset_inputs(root: Path, manifest: dict[str, Any], asset: dict[str, Any], visiting: set[str] | None = None) -> tuple[str, list[Path]]:
     ids = list(asset["references"])
-    if asset["kind"] != "illustration":
+    if asset["kind"] != "illustration" and manifest.get("backend") != "codex-imagegen":
         ids = list(dict.fromkeys(["source-cover", *[item["id"] for item in manifest["externalReferences"]], *ids]))
+    if manifest.get("backend") == "codex-imagegen" and len(ids) > 5:
+        raise ValueError(f"Codex image tool supports at most five selected input images per asset: {asset['id']}")
     dependencies = [_dependency(root, manifest, item, visiting) for item in ids]
     direction = _art_direction(root, manifest)
     visual_spec = {key: asset[key] for key in ("id", "kind", "prompt", "size")}
     value = {"source": manifest["source"]["files"], "model": manifest["model"], "quality": manifest["quality"],
              "artDirection": direction, "asset": visual_spec,
              "dependencies": dict(zip(ids, [digest for _, digest in dependencies]))}
+    if "backend" in manifest:
+        value["backend"] = manifest["backend"]
     return _digest(value), [path for path, _ in dependencies]
 
 
@@ -531,10 +585,20 @@ def _check_asset(root: Path, manifest: dict[str, Any], asset: dict[str, Any], vi
     path = _safe_path(edition_directory(root, manifest["slug"]), asset["path"])
     if not path.is_file() or not asset.get("sha256") or file_hash(path) != asset["sha256"]:
         raise ValueError(f"Missing or changed selected asset: {asset['id']}")
-    _image(path, None if asset.get("reused") else asset.get("size"))
+    if asset.get("reused"):
+        _image(path)
+    else:
+        actual_size = _generated_image(path, manifest, asset)
+        if manifest.get("backend") == "codex-imagegen" and asset.get("actualSize") != actual_size:
+            raise ValueError(f"Selected tool image must record its actual native dimensions: {asset['id']}")
     accepted = asset.get("accepted")
     if not isinstance(accepted, dict) or accepted.get("sha256") != asset["sha256"] or not accepted.get("evidence"):
         raise ValueError(f"Inspect and accept the exact saved image: {asset['id']}")
+    if not asset.get("reused") and manifest.get("backend") == "codex-imagegen":
+        generation = accepted.get("generation", {})
+        if generation.get("backend") != "codex-imagegen" or generation.get("model") != TOOL_MODEL or generation.get("tool") != "image_gen" or not generation.get("outputEvidence"):
+            raise ValueError(f"Selected tool image requires its actual tool output provenance: {asset['id']}")
+        _check_tool_request(root, manifest, asset, generation, verify_files=False)
     expected = _digest({"sourceCover": manifest["source"]["files"][f"stories/{manifest['source']['slug']}/title-image.jpg"]}) if asset.get("reused") else _asset_inputs(root, manifest, asset, visiting)[0]
     if accepted.get("inputsSha256") != expected:
         raise ValueError(f"Selected asset has stale generation dependencies: {asset['id']}")
@@ -596,6 +660,8 @@ def _check_plan(root: Path, manifest: dict[str, Any]) -> None:
         raise ValueError("The plan must declare reference sheets and interior illustrations, with approved counts")
     for asset in _assets(manifest):
         _nonempty(asset.get("prompt"), f"Generation brief for {asset['id']}")
+        if manifest.get("backend") == "codex-imagegen" and not asset.get("reused") and len(asset["references"]) > 5:
+            raise ValueError(f"Codex image tool supports at most five input images per asset; select references explicitly for {asset['id']}")
         if asset.get("size") not in SIZES:
             raise ValueError(f"Use explicit square, landscape or portrait dimensions for {asset['id']}")
     _art_direction(root, manifest)
@@ -631,26 +697,38 @@ def _check_visuals(root: Path, manifest: dict[str, Any], *, preview_file: bool =
 
 def _check_render(root: Path, manifest: dict[str, Any]) -> None:
     _check_visuals(root, manifest)
-    _require_approval(root, manifest, "visuals")
+    _require_visual_review(root, manifest)
     for asset in manifest["illustrations"]:
         _check_asset(root, manifest, asset)
 
 
-def _check_pdf(root: Path, manifest: dict[str, Any]) -> None:
+def pdf_requested(manifest: dict[str, Any]) -> bool:
+    # Manifests predating output selection retain their original PDF contract.
+    return manifest.get("outputFormat", "web-pdf") == "web-pdf"
+
+
+def _check_output(root: Path, manifest: dict[str, Any]) -> None:
     render = manifest.get("render")
-    pdf = edition_directory(root, manifest["slug"]) / "edition.pdf"
-    if not isinstance(render, dict) or render.get("inputsSha256") != stage_digest(root, manifest, "render") or not pdf.is_file() or file_hash(pdf) != render.get("pdfSha256"):
-        raise ValueError("Missing or stale rendered PDF; render the current approved inputs")
-    if not pdf.read_bytes().startswith(b"%PDF-"):
-        raise ValueError("Edition PDF is not a PDF document")
+    directory = edition_directory(root, manifest["slug"])
+    if not isinstance(render, dict) or render.get("inputsSha256") != stage_digest(root, manifest, "render"):
+        raise ValueError("Missing or stale rendered edition; render the current approved inputs")
+    if "outputFormat" in manifest or render.get("htmlSha256"):
+        document = directory / "edition.html"
+        if not document.is_file() or file_hash(document) != render.get("htmlSha256"):
+            raise ValueError("Missing or changed rendered web reader")
+    if pdf_requested(manifest):
+        pdf = directory / "edition.pdf"
+        if not pdf.is_file() or file_hash(pdf) != render.get("pdfSha256") or not pdf.read_bytes().startswith(b"%PDF-"):
+            raise ValueError("Missing or changed requested PDF")
 
 
 def _check_review(root: Path, manifest: dict[str, Any]) -> None:
-    _check_pdf(root, manifest)
+    _check_output(root, manifest)
     review = manifest.get("review")
     path = edition_directory(root, manifest["slug"]) / "review.md"
-    if not isinstance(review, dict) or review.get("verdict") != "PASS" or review.get("inputsSha256") != stage_digest(root, manifest, "render") or review.get("pdfSha256") != manifest["render"]["pdfSha256"] or review.get("sha256") != file_hash(path, text=True) or not review.get("reviewer") or not review.get("evidence"):
-        raise ValueError("A fresh independent passing review must cover the exact illustrations and PDF")
+    output = manifest["render"]
+    if not isinstance(review, dict) or review.get("verdict") != "PASS" or review.get("inputsSha256") != stage_digest(root, manifest, "render") or review.get("htmlSha256") != output.get("htmlSha256") or review.get("pdfSha256") != output.get("pdfSha256") or review.get("sha256") != file_hash(path, text=True) or not review.get("reviewer") or not review.get("evidence"):
+        raise ValueError("A fresh independent passing review must cover the exact web reader, illustrations and requested outputs")
 
 
 def validate_edition(root: Path, slug: str, phase: str = "draft") -> dict[str, Any]:
@@ -695,6 +773,51 @@ def approve(root: Path, slug: str, stage: str, decision: str, *, actor: str = "u
     return manifest
 
 
+def configure_workflow(root: Path, slug: str, backend: str, visual_review_policy: str, decision: str) -> dict[str, Any]:
+    """Record a real user workflow choice; changed inputs invalidate old approvals."""
+    manifest = load_edition(root, slug)
+    verify_source(root, manifest)
+    if backend not in BACKENDS or visual_review_policy not in {"assistant", "user"}:
+        raise ValueError("Choose a supported backend and visual review policy")
+    if any(item.get("candidate", {}).get("status") in {"generating", "ready"} for item in _assets(manifest)):
+        raise ValueError("Resolve and inspect outstanding candidates before changing the workflow")
+    decision = _nonempty(decision, "Actual user workflow decision")
+    manifest.update(backend=backend, visualReviewPolicy=visual_review_policy,
+                    model=TOOL_MODEL if backend == "codex-imagegen" else MODEL,
+                    quality=TOOL_MODEL if backend == "codex-imagegen" else QUALITY)
+    manifest["workflowDecision"] = {"actor": "user", "decision": decision, "backend": backend,
+                                    "visualReviewPolicy": visual_review_policy, "at": _now()}
+    save_edition(root, manifest)
+    return manifest
+
+
+def configure_output(root: Path, slug: str, output_format: str, decision: str) -> dict[str, Any]:
+    manifest = load_edition(root, slug)
+    verify_source(root, manifest)
+    if output_format not in {"web", "web-pdf"}:
+        raise ValueError("Choose web or web-pdf")
+    manifest["outputFormat"] = output_format
+    manifest["outputDecision"] = {"actor": "user", "decision": _nonempty(decision, "Actual user output request"), "at": _now()}
+    manifest["approvals"].pop("final", None)
+    manifest.pop("render", None)
+    manifest.pop("review", None)
+    save_edition(root, manifest)
+    return manifest
+
+
+def review_visuals(root: Path, slug: str, reviewer: str, evidence: str) -> dict[str, Any]:
+    """Record assistant inspection, never a user approval, of intermediate visuals."""
+    manifest = validate_edition(root, slug, "plan")
+    if manifest.get("visualReviewPolicy", "user") != "assistant":
+        raise ValueError("This edition requires explicit user approval of intermediate visuals")
+    _check_visuals(root, manifest, preview_file=True)
+    manifest["visualReview"] = {"actor": "assistant", "reviewer": _nonempty(reviewer, "Visual reviewer identity"),
+                                "evidence": _nonempty(evidence, "References, cover and layout inspection evidence"),
+                                "at": _now(), "inputsSha256": stage_digest(root, manifest, "visuals")}
+    save_edition(root, manifest)
+    return manifest
+
+
 def allow_extra_attempt(root: Path, slug: str, asset_id: str, decision: str) -> dict[str, Any]:
     manifest = load_edition(root, slug)
     verify_source(root, manifest)
@@ -707,26 +830,61 @@ def allow_extra_attempt(root: Path, slug: str, asset_id: str, decision: str) -> 
     return manifest
 
 
-def generation_command(root: Path, manifest: dict[str, Any], asset_id: str, output: Path, *, imagegen_cli: Path | None = None, python: str | None = None, correction: str = "", dry_run: bool = False) -> list[str]:
-    asset = _asset(manifest, asset_id)
+def _generation_request(root: Path, manifest: dict[str, Any], asset: dict[str, Any], correction: str = "", *, reference_ids: list[str] | None = None, edit_target: Path | None = None) -> tuple[str, list[Path]]:
     if asset.get("reused"):
         raise ValueError("The original cover is reused; request a custom edition cover before generating")
     _, paths = _asset_inputs(root, manifest, asset)
-    cli = Path(imagegen_cli or os.environ.get("IMAGE_GEN", Path(os.environ.get("CODEX_HOME", Path.home() / ".codex")) / "skills/.system/imagegen/scripts/image_gen.py")).resolve()
-    if not cli.is_file():
-        raise ValueError("Bundled imagegen CLI not found; pass --imagegen-cli or set IMAGE_GEN")
+    ids = list(asset["references"])
+    if asset["kind"] != "illustration" and manifest.get("backend") != "codex-imagegen":
+        ids = list(dict.fromkeys(["source-cover", *[item["id"] for item in manifest["externalReferences"]], *ids]))
+    if reference_ids is not None:
+        by_id = dict(zip(ids, paths))
+        ids = list(reference_ids)
+        paths = [by_id[reference_id] for reference_id in ids]
+    if edit_target is not None:
+        paths = [edit_target, *paths]
+        with Image.open(edit_target) as image:
+            canvas = f"{image.width}x{image.height}"
+        roles = ["Image 1: exact rejected base image to edit."]
+        roles += [f"Image {index}: {reference_id}; supporting reference for this correction only, not another scene."
+                  for index, reference_id in enumerate(ids, 2)]
+        prompt = ("Edit Image 1 with one focused local correction.\n\n"
+                  + correction.strip()
+                  + "\n\nInput image roles:\n" + "\n".join(roles)
+                  + f"\n\nReturn one complete image on the same {canvas}-pixel canvas with the same framing. "
+                  "Preserve all already successful details outside the requested correction. "
+                  "Do not redesign the scene or import additional figures, scenes, labels or layouts from the references.")
+        return prompt, paths
     prompt = "Use case: illustration-story\nAsset type: " + asset["kind"] + "\n\n" + asset["prompt"]
+    if manifest.get("backend") == "codex-imagegen":
+        prompt += "\n\nCreate exactly one finished image, requested canvas " + asset["size"] + " pixels."
     prompt += "\n\nApproved story art direction:\n" + _art_direction(root, manifest)
-    prompt += "\n\nArtwork only. Do not add prose, captions, speech bubbles, author credits or watermarks; the layout engine supplies typography."
+    if asset["kind"] in {"illustration", "cover"}:
+        prompt += "\n\nArtwork only. Do not add prose, captions, speech bubbles, author credits or watermarks; the layout engine supplies typography."
+    else:
+        prompt += "\n\nReference development sheet: include the exact subject heading and any owner/state labels requested in the brief. No invented names, prose, speech bubbles, author credits or watermarks. Reference labels do not belong in final scene artwork."
     if paths:
-        reference_ids = list(asset["references"])
-        if asset["kind"] != "illustration":
-            reference_ids = list(dict.fromkeys(["source-cover", *[item["id"] for item in manifest["externalReferences"]], *reference_ids]))
-        prompt += "\n\nInput image roles:\n" + "\n".join(f"Image {index}: {reference_id}" for index, reference_id in enumerate(reference_ids, 1))
+        prompt += "\n\nInput image roles:\n" + "\n".join(f"Image {index}: {role}" for index, role in enumerate(ids, 1))
     if paths:
         prompt += "\n\nInput images are visual references. Preserve established identity, costume, setting geometry and the approved art direction. Create the requested complete asset with the layout specified above."
     if correction:
         prompt += "\n\nTargeted correction: " + correction.strip()
+    return prompt, paths
+
+
+def _require_api_opt_in(manifest: dict[str, Any]) -> None:
+    decision = manifest.get("workflowDecision", {})
+    if manifest.get("backend") != "openai-api" or decision.get("actor") != "user" or decision.get("backend") != "openai-api" or not decision.get("decision"):
+        raise ValueError("Paid API generation requires explicit user opt-in via configure-workflow; use prepare-tool for Codex image generation")
+
+
+def generation_command(root: Path, manifest: dict[str, Any], asset_id: str, output: Path, *, imagegen_cli: Path | None = None, python: str | None = None, correction: str = "", dry_run: bool = False) -> list[str]:
+    _require_api_opt_in(manifest)
+    asset = _asset(manifest, asset_id)
+    prompt, paths = _generation_request(root, manifest, asset, correction)
+    cli = Path(imagegen_cli or os.environ.get("IMAGE_GEN", Path(os.environ.get("CODEX_HOME", Path.home() / ".codex")) / "skills/.system/imagegen/scripts/image_gen.py")).resolve()
+    if not cli.is_file():
+        raise ValueError("Bundled imagegen CLI not found; pass --imagegen-cli or set IMAGE_GEN")
     command = [python or sys.executable, str(cli), "edit" if paths else "generate", "--model", MODEL, "--quality", QUALITY, "--size", asset["size"], "--output-format", "png", "--n", "1", "--no-augment", "--prompt", prompt, "--out", str(output)]
     for path in paths:
         command += ["--image", str(path)]
@@ -735,28 +893,159 @@ def generation_command(root: Path, manifest: dict[str, Any], asset_id: str, outp
     return command
 
 
-def generate_asset(root: Path, slug: str, asset_id: str, output: Path, *, imagegen_cli: Path | None = None, python: str | None = None, correction: str = "", dry_run: bool = False, runner: Callable[..., Any] | None = None) -> dict[str, Any]:
+def _generation_state(root: Path, slug: str, asset_id: str, correction: str, *, allow_exhausted: bool = False) -> tuple[dict[str, Any], dict[str, Any]]:
     manifest = validate_edition(root, slug, "plan")
     _require_approval(root, manifest, "plan")
     asset = _asset(manifest, asset_id)
     if asset["kind"] == "illustration":
         _check_visuals(root, manifest)
-        _require_approval(root, manifest, "visuals")
+        _require_visual_review(root, manifest)
     if any(item.get("candidate", {}).get("status") == "generating" for item in _assets(manifest)):
         raise ValueError("Resolve the outstanding generation before starting another image")
-    if any(item["id"] != asset_id and item.get("candidate", {}).get("status") == "ready" for item in _assets(manifest)):
+    if any(item.get("candidate", {}).get("status") == "ready" for item in _assets(manifest)):
         raise ValueError("Inspect and accept or reject the completed candidate before starting another image")
     extras = asset.get("extraAttempts", [])
     if any(not item.get("decision") or item.get("actor") != "user" for item in extras):
         raise ValueError("Additional attempts require actual user direction")
-    if asset["attempts"] >= 3 + len(extras):
+    if not allow_exhausted and asset["attempts"] >= 3 + len(extras):
         raise ValueError("Initial generation plus two corrections exhausted; further attempts require user direction")
     if asset["attempts"] and not correction.strip():
         raise ValueError("A corrective generation needs a targeted correction brief")
-    output = Path(output).resolve()
+    return manifest, asset
+
+
+def _candidate_path(root: Path, path: Path) -> Path:
+    path = Path(path).resolve()
     protected = [Path(root).resolve() / name for name in ("stories", "universe", "illustrated", "pages", ".git", ".agents", ".codex")]
-    if any(output == path or output.is_relative_to(path) for path in protected):
+    if any(path == directory or path.is_relative_to(directory) for directory in protected):
         raise ValueError("Keep temporary image candidates outside edition, story and other protected production directories")
+    return path
+
+
+def _check_tool_request(root: Path, manifest: dict[str, Any], asset: dict[str, Any], generation: dict[str, Any], *, verify_files: bool = True) -> None:
+    """Bind actual tool inputs separately from the complete approved asset dependencies."""
+    if not any(key in generation for key in ("requestVersion", "request", "requestSha256")):
+        return  # Earlier built-in outputs did not record the complete request.
+    request = generation.get("request")
+    if generation.get("requestVersion") != 1 or not isinstance(request, dict) or generation.get("requestSha256") != _digest(request):
+        raise ValueError("Tool request provenance changed or is incomplete")
+    if not isinstance(request.get("prompt"), str) or generation.get("promptSha256") != _digest(request["prompt"]):
+        raise ValueError("Tool request prompt changed")
+    images = request.get("images")
+    if not isinstance(images, list) or len(images) > 5 or any(not isinstance(item, dict) for item in images):
+        raise ValueError("Tool request must record at most five actual input images")
+    base = request.get("editBase")
+    refs = images
+    if base is not None:
+        if (not isinstance(base, dict) or base.get("status") != "rejected" or not base.get("outputEvidence")
+                or base.get("backend") != "codex-imagegen" or base.get("tool") != "image_gen"
+                or type(base.get("attempt")) is not int or type(generation.get("attempt")) is not int
+                or base["attempt"] != generation["attempt"] - 1):
+            raise ValueError("Targeted edit requires preserved rejected-candidate provenance")
+        target = {"role": "edit-target", "path": base.get("path"), "sha256": base.get("sha256")}
+        if not images or images[0] != target:
+            raise ValueError("Tool request omitted or changed its rejected edit target")
+        refs = images[1:]
+    ids = [item.get("id") for item in refs]
+    if any(not isinstance(item, str) for item in ids) or len(set(ids)) != len(ids) or any(item not in asset["references"] for item in ids):
+        raise ValueError("Tool request references must be unique planned dependencies")
+    if base is None and ids != asset["references"]:
+        raise ValueError("Ordinary tool request must retain all planned references")
+    accepted_ids = {item["id"] for item in _assets(manifest) if item.get("accepted")}
+    if base is not None and any(item not in accepted_ids for item in ids):
+        raise ValueError("Targeted edit references must be accepted planned asset dependencies")
+    for item in refs:
+        if item.get("role") != "reference":
+            raise ValueError("Tool request contains an invalid reference role")
+        if verify_files:
+            path, digest = _dependency(root, manifest, item["id"], {asset["id"]})
+            if item.get("path") != str(path.resolve()) or item.get("sha256") != digest:
+                raise ValueError("Tool request reference path or hash changed")
+    for item in images:
+        if not isinstance(item.get("path"), str) or not Path(item["path"]).is_absolute() or not item.get("sha256"):
+            raise ValueError("Tool request requires absolute input paths and hashes")
+        if verify_files and (not Path(item["path"]).is_file() or file_hash(Path(item["path"])) != item["sha256"]):
+            raise ValueError("Tool request input bytes are missing or changed")
+
+
+def prepare_tool(root: Path, slug: str, asset_id: str, *, correction: str = "", dry_run: bool = False, edit_last_rejected: bool = False, references: list[str] | None = None) -> dict[str, Any]:
+    """Reserve one actual tool attempt and return its complete deterministic inputs."""
+    if references is not None and not edit_last_rejected:
+        raise ValueError("Attempt-specific references require --edit-last-rejected")
+    if edit_last_rejected and not correction.strip():
+        raise ValueError("Editing the last rejected candidate requires a nonempty correction brief")
+    manifest, asset = _generation_state(root, slug, asset_id, correction, allow_exhausted=dry_run)
+    if manifest.get("backend") != "codex-imagegen":
+        raise ValueError("Configure this edition for codex-imagegen before preparing a tool attempt")
+    inputs, _ = _asset_inputs(root, manifest, asset)
+    ids = list(asset["references"] if references is None else references)
+    edit_base = None
+    if edit_last_rejected:
+        previous = asset.get("candidate", {})
+        if (previous.get("status") != "rejected" or previous.get("backend") != "codex-imagegen"
+                or previous.get("model") != TOOL_MODEL or previous.get("tool") != "image_gen"
+                or not previous.get("outputEvidence") or not previous.get("evidence")
+                or previous.get("attempt") != asset["attempts"] or previous.get("inputsSha256") != inputs):
+            raise ValueError("Edit the latest rejected actual Codex candidate with unchanged dependencies")
+        path = _candidate_path(root, Path(_nonempty(previous.get("path"), "Rejected candidate path")))
+        if not path.is_file() or file_hash(path) != previous.get("sha256"):
+            raise ValueError("Rejected candidate bytes are missing or changed")
+        _generated_image(path, manifest, asset)
+        _check_tool_request(root, manifest, asset, previous, verify_files=False)
+        accepted_ids = {item["id"] for item in _assets(manifest) if item.get("accepted")}
+        if len(set(ids)) != len(ids) or any(item not in asset["references"] or item not in accepted_ids for item in ids):
+            raise ValueError("Targeted edit references must be unique accepted planned asset dependencies")
+        if 1 + len(ids) > 5:
+            raise ValueError("Rejected edit target plus references must total at most five images; select references explicitly")
+        edit_base = deepcopy(previous)
+        edit_base["path"] = str(path)
+    prompt, paths = _generation_request(root, manifest, asset, correction, reference_ids=ids,
+                                         edit_target=Path(edit_base["path"]) if edit_base else None)
+    image_inputs = ([{"role": "edit-target", "path": edit_base["path"], "sha256": edit_base["sha256"]}] if edit_base else [])
+    offset = 1 if edit_base else 0
+    image_inputs += [{"id": reference_id, "role": "reference", "path": str(path.resolve()), "sha256": file_hash(path)}
+                     for reference_id, path in zip(ids, paths[offset:])]
+    request = {"prompt": prompt, "images": image_inputs}
+    if edit_base:
+        request["editBase"] = edit_base
+    attempt = asset["attempts"] + 1
+    candidate = {"path": None, "inputsSha256": inputs, "attempt": attempt,
+                 "correction": correction, "status": "generating", "backend": "codex-imagegen",
+                 "model": TOOL_MODEL, "tool": "image_gen", "promptSha256": _digest(prompt),
+                 "requestVersion": 1, "request": request, "requestSha256": _digest(request)}
+    _check_tool_request(root, manifest, asset, candidate)
+    if not dry_run:
+        asset["attempts"] = attempt
+        asset["candidate"] = candidate
+        save_edition(root, manifest)
+    return {"slug": slug, "asset": asset_id, "prompt": prompt, "referenced_image_paths": [item["path"] for item in image_inputs],
+            "attempt": attempt, "inputsSha256": inputs, "requestSha256": candidate["requestSha256"], "dryRun": dry_run}
+
+
+def record_tool_output(root: Path, slug: str, asset_id: str, path: Path, evidence: str) -> dict[str, Any]:
+    """Record a real completed built-in output; visual acceptance remains separate."""
+    manifest = validate_edition(root, slug, "plan")
+    _require_approval(root, manifest, "plan")
+    asset = _asset(manifest, asset_id)
+    candidate = asset.get("candidate", {})
+    if manifest.get("backend") != "codex-imagegen" or candidate.get("backend") != "codex-imagegen" or candidate.get("status") != "generating":
+        raise ValueError("Prepare one outstanding Codex image tool attempt before recording its output")
+    evidence = _nonempty(evidence, "Actual image tool completion and output evidence")
+    path = _candidate_path(root, path)
+    actual_size = _generated_image(path, manifest, asset)
+    if candidate["inputsSha256"] != _asset_inputs(root, manifest, asset)[0]:
+        raise ValueError("Tool output has stale plan or reference dependencies")
+    _check_tool_request(root, manifest, asset, candidate)
+    candidate.update(path=str(path), sha256=file_hash(path), status="ready", outputEvidence=evidence, actualSize=actual_size)
+    save_edition(root, manifest)
+    return manifest
+
+
+def generate_asset(root: Path, slug: str, asset_id: str, output: Path, *, imagegen_cli: Path | None = None, python: str | None = None, correction: str = "", dry_run: bool = False, runner: Callable[..., Any] | None = None) -> dict[str, Any]:
+    manifest, asset = _generation_state(root, slug, asset_id, correction)
+    _require_api_opt_in(manifest)
+    output = Path(output).resolve()
+    _candidate_path(root, output)
     if output.exists():
         raise ValueError("Candidate output already exists; use a fresh external path")
     command = generation_command(root, manifest, asset_id, output, imagegen_cli=imagegen_cli, python=python, correction=correction, dry_run=dry_run)
@@ -764,7 +1053,7 @@ def generate_asset(root: Path, slug: str, asset_id: str, output: Path, *, imageg
         return {"command": command, "attempts": asset["attempts"], "dryRun": True}
     inputs, _ = _asset_inputs(root, manifest, asset)
     asset["attempts"] += 1
-    asset["candidate"] = {"path": str(output), "inputsSha256": inputs, "attempt": asset["attempts"], "correction": correction, "status": "generating"}
+    asset["candidate"] = {"path": str(output), "inputsSha256": inputs, "attempt": asset["attempts"], "correction": correction, "status": "generating", "backend": "openai-api", "model": MODEL}
     save_edition(root, manifest)  # Reserve the attempt before the potentially paid call.
     try:
         (runner or subprocess.run)(command, check=True)
@@ -784,7 +1073,7 @@ def accept_candidate(root: Path, slug: str, asset_id: str, evidence: str) -> dic
     asset = _asset(manifest, asset_id)
     if asset["kind"] == "illustration":
         _check_visuals(root, manifest)
-        _require_approval(root, manifest, "visuals")
+        _require_visual_review(root, manifest)
     candidate = asset.get("candidate")
     if not isinstance(candidate, dict) or candidate.get("status") != "ready":
         raise ValueError("No completed candidate is ready for visual inspection")
@@ -794,7 +1083,9 @@ def accept_candidate(root: Path, slug: str, asset_id: str, evidence: str) -> dic
     inputs, _ = _asset_inputs(root, manifest, asset)
     if candidate["inputsSha256"] != inputs:
         raise ValueError("Candidate has stale plan or reference dependencies")
-    _image(path, asset["size"])
+    if manifest.get("backend") == "codex-imagegen":
+        _check_tool_request(root, manifest, asset, candidate)
+    actual_size = _generated_image(path, manifest, asset)
     evidence = _nonempty(evidence, "Visible saved-image inspection evidence")
     target = _safe_path(edition_directory(root, slug), asset["path"])
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -805,7 +1096,11 @@ def accept_candidate(root: Path, slug: str, asset_id: str, evidence: str) -> dic
         if old_cover != target and old_cover.is_file():
             old_cover.unlink()
     asset["sha256"] = file_hash(target)
+    if manifest.get("backend") == "codex-imagegen":
+        asset["actualSize"] = actual_size
     asset["accepted"] = {"sha256": asset["sha256"], "inputsSha256": inputs, "evidence": evidence}
+    if "backend" in candidate:
+        asset["accepted"]["generation"] = {key: value for key, value in candidate.items() if key not in {"status", "sha256", "inputsSha256"}}
     asset.pop("candidate", None)
     save_edition(root, manifest)
     return manifest
@@ -813,6 +1108,8 @@ def accept_candidate(root: Path, slug: str, asset_id: str, evidence: str) -> dic
 
 def record_render(root: Path, slug: str, pdf_path: Path | None = None) -> dict[str, Any]:
     manifest = validate_edition(root, slug, "render")
+    if not pdf_requested(manifest):
+        raise ValueError("PDF output was not requested; use the web renderer")
     destination = edition_directory(root, slug) / "edition.pdf"
     pdf_path = Path(pdf_path or destination).resolve()
     if not pdf_path.is_file() or not pdf_path.read_bytes().startswith(b"%PDF-"):
@@ -820,24 +1117,32 @@ def record_render(root: Path, slug: str, pdf_path: Path | None = None) -> dict[s
     _mutable(root)
     if pdf_path != destination:
         shutil.copy2(pdf_path, destination)
-    manifest["render"] = {"inputsSha256": stage_digest(root, manifest, "render"), "pdfSha256": file_hash(destination)}
+    from pages.illustrated_editions import _record, render_document
+    document = destination.with_suffix('.html')
+    document.write_text(render_document(_record(root, manifest), writing_prompt=get_public_prompt(root, manifest['source']['slug'])), encoding='utf-8', newline='\n')
+    manifest["render"] = {"inputsSha256": stage_digest(root, manifest, "render"), "htmlSha256": file_hash(document), "pdfSha256": file_hash(destination)}
+    manifest.get("approvals", {}).pop("final", None)
+    manifest.pop("review", None)
     save_edition(root, manifest)
     return manifest
 
 
 def record_review(root: Path, slug: str, reviewer: str, evidence: str) -> dict[str, Any]:
     manifest = validate_edition(root, slug, "render")
-    _check_pdf(root, manifest)
+    _check_output(root, manifest)
     path = edition_directory(root, slug) / "review.md"
     report = _text(path)
     if re.findall(r"(?m)^Verdict:\s*(\S+)\s*$", report) != ["PASS"]:
         raise ValueError("Independent review.md must declare exactly one Verdict: PASS")
-    for label in ("Source fidelity", "Visual continuity", "Web readability", "Every PDF page"):
+    for label in ("Source fidelity", "Visual continuity", "Web readability"):
         if re.findall(rf"(?m)^- {re.escape(label)}:\s*(\S+)\s*$", report) != ["PASS"]:
             raise ValueError(f"Independent review must pass {label}")
+    pdf_verdict = "PASS" if pdf_requested(manifest) else "NOT REQUESTED"
+    if re.findall(r"(?m)^- Every PDF page:\s*([^\r\n]+)", report) != [pdf_verdict]:
+        raise ValueError(f"Independent PDF review must declare {pdf_verdict}")
     if re.findall(r"(?m)^- Blocking:\s*(.*?)\s*$", report) != ["none"]:
         raise ValueError("Independent review must declare Blocking: none")
-    manifest["review"] = {"verdict": "PASS", "reviewer": _nonempty(reviewer, "Fresh independent reviewer identity"), "evidence": _nonempty(evidence, "Review evidence including every PDF page"), "sha256": file_hash(path, text=True), "inputsSha256": stage_digest(root, manifest, "render"), "pdfSha256": manifest["render"]["pdfSha256"]}
+    manifest["review"] = {"verdict": "PASS", "reviewer": _nonempty(reviewer, "Fresh independent reviewer identity"), "evidence": _nonempty(evidence, "Review evidence for the web reader and requested outputs"), "sha256": file_hash(path, text=True), "inputsSha256": stage_digest(root, manifest, "render"), **{key: manifest["render"][key] for key in ("htmlSha256", "pdfSha256") if key in manifest["render"]}}
     save_edition(root, manifest)
     return manifest
 
@@ -860,6 +1165,8 @@ def repin_source(root: Path, slug: str, decision: str) -> dict[str, Any]:
     manifest["sourceDecision"] = {"actor": "user", "decision": decision, "previousCommit": previous["commit"], "previousFiles": previous["files"], "at": _now()}
     manifest["approvals"] = {}
     manifest["layoutPreview"] = manifest["render"] = manifest["review"] = None
+    if "visualReview" in manifest:
+        manifest["visualReview"] = None
     for asset in _assets(manifest):
         asset["accepted"] = None
         asset.pop("candidate", None)
@@ -900,6 +1207,8 @@ def resolve_generation(root: Path, slug: str, asset_id: str, outcome: str, evide
     evidence = _nonempty(evidence, "Authoritative process/terminal completion evidence")
     if outcome not in {"failed", "ready"}:
         raise ValueError("Recovery outcome must be failed or ready")
+    if candidate.get("backend") == "codex-imagegen" and outcome == "ready":
+        raise ValueError("Record actual Codex image output with record-tool-output, including its tool completion evidence")
     if outcome == "ready":
         verify_source(root, manifest)
         path = Path(candidate["path"])
@@ -934,11 +1243,27 @@ def main() -> None:
     configure.add_argument("--alt", default=""); configure.add_argument("--caption", default="")
     approval = commands.add_parser("approve", help="Record an actual explicit user decision, never an inferred approval")
     approval.add_argument("slug"); approval.add_argument("stage", choices=("plan", "visuals", "final")); approval.add_argument("--decision-file", type=Path, required=True)
+    workflow = commands.add_parser("configure-workflow", help="Record a user's image backend and intermediate review choice")
+    workflow.add_argument("slug"); workflow.add_argument("--backend", choices=sorted(BACKENDS), required=True)
+    workflow.add_argument("--visual-review-policy", choices=("assistant", "user"), required=True)
+    workflow.add_argument("--decision-file", type=Path, required=True)
+    output = commands.add_parser("configure-output", help="Record an explicit web-only or web-and-PDF output request")
+    output.add_argument("slug"); output.add_argument("--format", choices=("web", "web-pdf"), required=True)
+    output.add_argument("--decision-file", type=Path, required=True)
+    visuals = commands.add_parser("review-visuals", help="Record assistant review of the selected references, cover and layout")
+    visuals.add_argument("slug"); visuals.add_argument("--reviewer", required=True); visuals.add_argument("--evidence-file", type=Path, required=True)
     preview = commands.add_parser("layout-preview")
     preview.add_argument("slug"); preview.add_argument("path", type=Path); preview.add_argument("--evidence-file", type=Path, required=True)
     generate = commands.add_parser("generate")
     generate.add_argument("slug"); generate.add_argument("id"); generate.add_argument("--out", type=Path, required=True)
     generate.add_argument("--imagegen-cli", type=Path); generate.add_argument("--python"); generate.add_argument("--correction-file", type=Path); generate.add_argument("--dry-run", action="store_true")
+    prepare = commands.add_parser("prepare-tool", help="Reserve one built-in image attempt and print its complete tool inputs as JSON")
+    prepare.add_argument("slug"); prepare.add_argument("id"); prepare.add_argument("--correction-file", type=Path); prepare.add_argument("--dry-run", action="store_true")
+    prepare.add_argument("--edit-last-rejected", action="store_true", help="Edit the verified last rejected output, counting it toward the five-image limit")
+    prepare.add_argument("--reference", action="append", help="Accepted planned dependency for this targeted edit; repeat to select a subset")
+    tool_output = commands.add_parser("record-tool-output", help="Record an actual completed built-in image result for visual review")
+    tool_output.add_argument("slug"); tool_output.add_argument("id"); tool_output.add_argument("path", type=Path)
+    tool_output.add_argument("--evidence-file", type=Path, required=True)
     accept = commands.add_parser("accept")
     accept.add_argument("slug"); accept.add_argument("id"); accept.add_argument("--evidence-file", type=Path, required=True)
     reject = commands.add_parser("reject")
@@ -966,10 +1291,21 @@ def main() -> None:
             result = configure_asset(root, args.slug, args.id, kind=args.kind, prompt=_text(args.prompt_file), size=args.size, references=args.reference, after=args.after, layout=args.layout, alt=args.alt, caption=args.caption)
         elif args.command == "approve":
             result = approve(root, args.slug, args.stage, _text(args.decision_file))
+        elif args.command == "configure-workflow":
+            result = configure_workflow(root, args.slug, args.backend, args.visual_review_policy, _text(args.decision_file))
+        elif args.command == "configure-output":
+            result = configure_output(root, args.slug, args.format, _text(args.decision_file))
+        elif args.command == "review-visuals":
+            result = review_visuals(root, args.slug, args.reviewer, _text(args.evidence_file))
         elif args.command == "layout-preview":
             result = record_layout_preview(root, args.slug, args.path, _text(args.evidence_file))
         elif args.command == "generate":
             result = generate_asset(root, args.slug, args.id, args.out, imagegen_cli=args.imagegen_cli, python=args.python, correction=_text(args.correction_file) if args.correction_file else "", dry_run=args.dry_run)
+        elif args.command == "prepare-tool":
+            result = prepare_tool(root, args.slug, args.id, correction=_text(args.correction_file) if args.correction_file else "", dry_run=args.dry_run,
+                                  edit_last_rejected=args.edit_last_rejected, references=args.reference)
+        elif args.command == "record-tool-output":
+            result = record_tool_output(root, args.slug, args.id, args.path, _text(args.evidence_file))
         elif args.command == "accept":
             result = accept_candidate(root, args.slug, args.id, _text(args.evidence_file))
         elif args.command == "reject":
@@ -986,7 +1322,7 @@ def main() -> None:
             result = validate_edition(root, args.slug, args.phase)
     except (ValueError, OSError) as error:
         parser.exit(1, f"Error: {error}\n")
-    if args.command == "generate" and args.dry_run:
+    if args.command == "prepare-tool" or args.command == "generate" and args.dry_run:
         print(json.dumps(result, ensure_ascii=False, indent=2))
     else:
         print(f"OK: {args.command} — {result['slug']}")

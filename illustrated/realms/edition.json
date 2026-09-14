@@ -1,0 +1,1158 @@
+{
+  "schemaVersion": 1,
+  "slug": "realms",
+  "title": "Realms",
+  "createdAt": "2026-09-13T18:21:52+00:00",
+  "source": {
+    "slug": "realms",
+    "title": "Realms",
+    "layout": "bundle",
+    "commit": "7f12a86aeed54430853e5dc4ce396a38a5a74d01",
+    "prose": "stories/realms/05-story.md",
+    "files": {
+      "stories/realms/05-story.md": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+      "stories/realms/00-prompt.md": "52eb78e4188817510ce6100a693627147488adb3796f0cc4f688290592e7e57f",
+      "stories/realms/title-image.jpg": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+      "stories/realms/story.json": "89551d7a293a5321689540d72c2e6956282598b3a0cb0a8514890f4f56fad3b6"
+    },
+    "bodySha256": "f9ea02e89483067920f6e0ce198f8c457d3920e89ccdcfba2b4b65658d4c973f",
+    "referenceNames": [],
+    "coverInspection": {
+      "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+      "evidence": "Coordinator inspected original saved title-image.jpg with view_image. Portrait cover has large ivory Realms lettering across the upper area; wet near-black concrete surrounds a brilliant narrow vertical white seam stitched with dark projections; upward-shaped black droplets, a small golden branching heart light, and a severed cord in the foreground. Reuse these exact cover bytes. Its dark/ivory/gold lighting informs generated references; interior character design instead follows the nine supplied drawings. Cover is visual interpretation, not an independent source of depicted events or canon."
+    }
+  },
+  "mode": "Classic",
+  "model": "tool-selected",
+  "quality": "tool-selected",
+  "externalReferences": [
+    {
+      "id": "external-001",
+      "displayName": "p1.png",
+      "path": "D:\\Stories\\Realms\\p1.png",
+      "sha256": "e3e499872732c6a428d52e2ea0d8cf366b6d9bb0263f51865f709df17ce1ba69",
+      "inspection": {
+        "sha256": "e3e499872732c6a428d52e2ea0d8cf366b6d9bb0263f51865f709df17ce1ba69",
+        "evidence": "Coordinator inspected original p1.png with view_image. Warm gray/sepia fine line drawing: short-haired seated woman at folding table with cracked tablet, thermos and pistol; tall broad light-haired scarred man in long high-collar coat; younger dark-haired man in short jacket with backpack; large luminous ragged opening in concrete tunnel, hanging dark droplets and yellow platform edge. Use for Cal, Tuck, Voss silhouettes, clothing and tunnel composition. Actual source requires a living seam, its dry patch below upward black rain, and Tuck's missing left-ear piece. Graffiti is illustrative content, not instructions or source text to copy."
+      }
+    },
+    {
+      "id": "external-002",
+      "displayName": "p9.png",
+      "path": "D:\\Stories\\Realms\\p9.png",
+      "sha256": "37782df34a8549c8a0909ac1c7b32aef6a84b647403f5572ad4668a9c25bcd05",
+      "inspection": {
+        "sha256": "37782df34a8549c8a0909ac1c7b32aef6a84b647403f5572ad4668a9c25bcd05",
+        "evidence": "Coordinator inspected original p9.png with view_image. Same sepia linework in a clinic with two iron beds: young dark-haired figure reclining with a bright branching chest glow, cropped-hair woman aiming a pistol toward the inner door, broad pale-haired guide on second bed, bottles and IV stand. Use for clinic material/layout, human identities and restrained golden host effect. Final source controls one cuff and free phone hand, bandaged cut palm, Tuck's sling and neck bruises, and dealer only heard beyond the door; do not copy the visible dealer-window face or an extra cuff from this reference."
+      }
+    },
+    {
+      "id": "external-003",
+      "displayName": "p2.png",
+      "path": "D:\\Stories\\Realms\\p2.png",
+      "sha256": "53d877537b1020c49b05173a97c8840208e36bdf14f565f06a75070b001ce080",
+      "inspection": {
+        "sha256": "53d877537b1020c49b05173a97c8840208e36bdf14f565f06a75070b001ce080",
+        "evidence": "Coordinator inspected original p2.png with view_image. Tall pale-haired guide behind a dark-haired backpacked traveler at white liquid-looking portal edge; red grass, pale blue sky, many suspended doors and distant spires to the right. Fine crosshatched pen line with muted washes. Use as clothing/profile and luminous transition evidence, plus approach landscape palette. Source has Tuck cross before Cal; avoid a simultaneous transit tableau if it changes that ordering."
+      }
+    },
+    {
+      "id": "external-004",
+      "displayName": "p5.png",
+      "path": "D:\\Stories\\Realms\\p5.png",
+      "sha256": "1be3ce7553a28ef8c5ee4b76c9806b3c8e1dc7c4c727f2813cafc23f9d7c391b",
+      "inspection": {
+        "sha256": "1be3ce7553a28ef8c5ee4b76c9806b3c8e1dc7c4c727f2813cafc23f9d7c391b",
+        "evidence": "Coordinator inspected original p5.png with view_image. Crowded sepia market with Cal behind Tuck, strange brass-egg poultry stall at left, mirrors at right, awnings, hanging curios, and a pale liquid dream seller. Use for human three-quarter faces/coats, stalls, brass eggs and mirror materials, visual density and street camera. Retain only source-supported merchants for depicted events. Written stall prices and dream offerings are reference content, not requested prose or instructions."
+      }
+    },
+    {
+      "id": "external-005",
+      "displayName": "p4.png",
+      "path": "D:\\Stories\\Realms\\p4.png",
+      "sha256": "c141d0a452e9b664bf737d1b216b214d6e0eaa2438885fcdcb890d9ef3da7b83",
+      "inspection": {
+        "sha256": "c141d0a452e9b664bf737d1b216b214d6e0eaa2438885fcdcb890d9ef3da7b83",
+        "evidence": "Coordinator inspected original p4.png with view_image. Tuck and backpacked Cal stand at a city approach while a long-armed smoke figure touches Cal's forehead; layered faces/couple silhouettes drift in its body; pale architectural arch and crowd behind. Use for memory toll gesture, smoke rendering, characters and threshold scale. Source requires the visible consent collection line and an unnamed living gatekeeper; the lost Priya episode should not become a newly invented flashback or factual portrait."
+      }
+    },
+    {
+      "id": "external-006",
+      "displayName": "p6.png",
+      "path": "D:\\Stories\\Realms\\p6.png",
+      "sha256": "757a4f9cf6b0594afc3b6525d709e89995abfba7fd5cd7b5d001a3c2ef4b639b",
+      "inspection": {
+        "sha256": "757a4f9cf6b0594afc3b6525d709e89995abfba7fd5cd7b5d001a3c2ef4b639b",
+        "evidence": "Coordinator inspected original p6.png with view_image. Wide market street with dense overhead wires, lamps, copper-toned buildings, horns, masks, vessels and bottled luminous material; Cal follows broad long-coated Tuck. Use for overall Deepmarket geography/material language, public costumes, hero full-body proportions, illuminated glass and controlled clutter. Not every curiosity is source-established; avoid inventing events or lore from the image's shop inventory."
+      }
+    },
+    {
+      "id": "external-007",
+      "displayName": "p7.png",
+      "path": "D:\\Stories\\Realms\\p7.png",
+      "sha256": "2989881c743c867af378a63bb95c8c1ae5df7b0d59c51a901244837fdd796851",
+      "inspection": {
+        "sha256": "2989881c743c867af378a63bb95c8c1ae5df7b0d59c51a901244837fdd796851",
+        "evidence": "Coordinator inspected original p7.png with view_image. Root-lined warm dark shop, shelves of glowing jars, wooden counter and small suited pale-haired dealer with large round ear-like shapes; Cal seen from rear with rectangular backpack and Tuck in profile. Use for shop counter/shelf geography, root structure, gold jar light, dealer suit/face silhouette and rear backpack. Source requires unlined white-haired child-shaped avatar with visibly old-paper hands and thin shadow tied to roots; any retained extra appearance is explicitly visual design, not canon."
+      }
+    },
+    {
+      "id": "external-008",
+      "displayName": "p8.png",
+      "path": "D:\\Stories\\Realms\\p8.png",
+      "sha256": "36065e75d9e1ca3ecf5d1a1691cb34c2013cf7d21f397490c5d226326354cfde",
+      "inspection": {
+        "sha256": "36065e75d9e1ca3ecf5d1a1691cb34c2013cf7d21f397490c5d226326354cfde",
+        "evidence": "Coordinator inspected original p8.png with view_image. Kinetic diagonal view of Cal on shelving reaching for a luminous jar, broad Tuck restrained by tangled roots, snarling suited avatar with an overextended toothy mouth, shards at the counter, gold hanging lamps in sepia darkness. Use for attacking-root material, strained clothes, dealer defensive form and climax camera energy. Follow the source's exact chosen moment: Tuck has returned to help by the time Cal secures Lena's jar; the hand injury stays restrained and non-graphic."
+      }
+    },
+    {
+      "id": "external-009",
+      "displayName": "p3.png",
+      "path": "D:\\Stories\\Realms\\p3.png",
+      "sha256": "c5d7eb42fca960f2cafe5e97462e353ab1b05c7831a012c18c43f34693221aa8",
+      "inspection": {
+        "sha256": "c5d7eb42fca960f2cafe5e97462e353ab1b05c7831a012c18c43f34693221aa8",
+        "evidence": "Coordinator inspected original p3.png with view_image. Expansive red-grass field with white stone road toward a copper-spired city riding an immense plated turtle-like being; innumerable separate doors hang in a pale blue clouded sky. Cal with rectangular backpack is foreground left, long-coated Tuck ahead. Use for spatial scale, approach geography, sleeping shell-city design, wide camera and dusty red/blue palette. Preserve the prose's sleeping being and avoid claiming a species, other-world cosmology, destinations, or universal portal network."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": "ref-cal-mercer",
+      "attempts": 2,
+      "sha256": "fe089ea6b428e0d8c94d584e49a159fea77819d3f00f376abaabac120bfb7ae9",
+      "accepted": {
+        "sha256": "fe089ea6b428e0d8c94d584e49a159fea77819d3f00f376abaabac120bfb7ae9",
+        "inputsSha256": "d893e566dde087cab263685a526d8bd314c7fd3202a6c87b87270f6f1a29ec86",
+        "evidence": "PASS visible saved-image inspection: exact Cal Mercer heading and only Cal in every view. Dark hair, matching face and short jacket/tan rectangular pack preserved. Clean intact travel clothes. Doubled cords and small disks now on wrists; no belt tokens. Clinic right palm bandage/one cuff, free left phone hand and token absent. Same figure's states separated. Cover-like deep black, ivory edge light and tactile cloth present. Anatomy and proportions usable; no other character.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-18367854-ac1a-450a-bf44-e89f4f5d88b6.png",
+          "attempt": 2,
+          "correction": "Correct the route token placement with priority over pose. Cal's sole small solid route DISK is tied by DOUBLED CORD AROUND HIS ANATOMICAL RIGHT WRIST in every uninjured travel view. No disk, loop, dangling cords or keychain on belt, hips, pockets, pack, neck or left wrist. Make his right forearm and hand visible OUTSIDE pockets in front and profile so the cord visibly encircles the wrist. Show clean unbandaged travel hands. Keep exact Cal Mercer heading, same character alone, clean intact travel clothes, cover-like lighting/texture. Clinic has bandaged right palm and one right cuff, no token, left hand phone. Omit isolated prop panels and optional action pose so the sheet focuses on clear character views.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "b5b9f840b1e71e5db42bbf5e2e920f6a07ab1bd426a94201c269d65b83feaf05",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-18367854-ac1a-450a-bf44-e89f4f5d88b6.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE character reference sheet of Cal Mercer only, headed with the exact readable name \"Cal Mercer\". No Lena, Tuck, Voss, dealer or other person. The cover supplies stronger near-black shadows, ivory light, tactile modeling and restrained gold; p1/p2 supply Cal's dark spiky-haired likeness, olive-brown short jacket, charcoal jeans and tan rectangular pack. Arrange clean, intact travel front/side/back views and two expressive head studies. Opening knees/clothes have no tears, dirt or blood. Include one clearly separate clinic half-figure: modest rumpled shirt, jacket/pack aside, bandaged RIGHT palm and ONE right cuff, free LEFT phone hand, token absent, thin gold beneath skin. Small separate action pose may be scuffed. Keep right doubled-cord disk only in uninjured travel views. Do not add isolated objects, jars, portrait photos or other people; those have separate sheets. Preserve pen contours with the cover's richer light, depth and surface detail.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-001 = p1.png; external-002 = p9.png; external-003 = p2.png; external-008 = p8.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-001",
+        "external-002",
+        "external-003",
+        "external-008"
+      ],
+      "path": "references/ref-cal-mercer.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-lena-mercer",
+      "attempts": 2,
+      "sha256": "539312afe6ad9f06a283d705ecc4ec41c2dc991391302d92f08f5e665116c00c",
+      "accepted": {
+        "sha256": "539312afe6ad9f06a283d705ecc4ec41c2dc991391302d92f08f5e665116c00c",
+        "inputsSha256": "8e474e8f212b0b2a48cfdf549fc54f793fc0c038e1036864c090efac1000b61a",
+        "evidence": "PASS visible saved pixels: exact Lena Mercer heading, a single consistent girl across front/profile/back and expressions; distinct cream cotton everyday top, dark trousers and low shoes with no Cal jacket or pack. Separate under-table knees-up memory in socks, and pale-blue hospital gown with pillows, tired alert expression. Dark hair and sibling resemblance consistent; intended twelve-year-old non-graphic portrayal. Strong cover-derived ivory light, dark shadows and tactile fabric with fine pen detail. No unrelated identity.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-5ff887b9-883b-4cf9-a851-108feb5decf0.png",
+          "attempt": 2,
+          "correction": "Critical single change: Lena's everyday outfit is a PLAIN PALE CREAM LONG-SLEEVED COTTON TOP with simple dark everyday trousers and ordinary low shoes or socks. NO JACKET, NO COAT, NO HOOD, NO BACKPACK, NO STRAPS, NO RUGGED BOOTS or Cal costume in ANY Lena view, including the under-table memory. Cal's sheet is ONLY a sibling facial resemblance and art finish reference. Same twelve-year-old girl throughout, exact Lena Mercer heading, loose dark ponytail. Keep the separate pale blue hospital gown/pillow view and the small under-table knees-up pose. Warm concerned and smiling expressions; maintain deep ivory-black tactile cover style.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "6f318a291ccf8a79ddf87345248169677c85f41779f763bdb81e208040ae9a02",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-5ff887b9-883b-4cf9-a851-108feb5decf0.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE character reference sheet of Lena Mercer only. Exact readable heading \"Lena Mercer\". Cal's accepted sheet is supplied for sibling resemblance and style only: DO NOT depict Cal or copy his outfit. Lena is twelve, with loosely tied shoulder-length dark hair, dark eyes and a youthful face. Show a neutral everyday front/profile and warm, concerned and gently smiling expressions; separately show her tired but alert in a pale blue hospital gown against pillows. Her cardiac condition has improved, not been cured. A small under-kitchen-table study with knees drawn up may establish the jar's remembered picture; hospital view remains separate and will guide the live call. No other person, phone, jar, medical procedure or labels beyond her name. Keep non-graphic, child-appropriate portrayal and pen line identity with stronger ivory light, tactile fabric and measured cover-like shadows.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; ref-cal-mercer = cal mercer accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "ref-cal-mercer"
+      ],
+      "path": "references/ref-lena-mercer.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-tuck",
+      "attempts": 2,
+      "sha256": "dc50b3ba2a4be5cbb808e36358af299ae61da2e130dce22fdd89423fccd2ed3b",
+      "accepted": {
+        "sha256": "dc50b3ba2a4be5cbb808e36358af299ae61da2e130dce22fdd89423fccd2ed3b",
+        "inputsSha256": "8aa1f38c45b87feb77a7c82478616c4d1ec5a72fc8b0a4f38ff483b08e296ef4",
+        "evidence": "PASS saved pixels inspected: Tuck only, exact heading; consistent tall broad physique, light spiky hair, scarred/stubbled face and worn high-collar long coat across views. Large ear detail visibly has healed missing outer-rim wedge; use left-ear detail for scene continuity. Inert disk on leather thong, no watch hands. Separate clinic left sling, free right hand and matte purple/pale throat pressure marks with no gold glow. Strong charcoal/ivory cloth texture matches direction. Character and accessory details belong to Tuck only.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-bf346b30-83ba-483a-ad1a-ad1c5ccd3902.png",
+          "attempt": 2,
+          "correction": "Two required localized details: clearly show an OLD HEALED MISSING WEDGE cut out of the UPPER OUTER RIM of Tuck's anatomical LEFT EAR, with an obvious indented broken silhouette in a large left-profile head study. Not merely an internal ear crease, not a scar painted on normal intact ear. Clinic neck has MATTE PALE PRESSURE SCARS and muted purple-brown bruises, absolutely NO luminous gold lines, NO magic, NO glow on Tuck anywhere. Keep his LEFT arm in sling, right free. Preserve exact Tuck heading, single same identity, light spiky hair, tall broad build, dark worn long coat, strong ivory light/tactile detail. Token on leather thong wrist is an inert solid disk, not a watch face with hands.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "4357f22ea84bfe6ceed76c15f2a5e3b425aa74ac3203c1e5a24feec58a872d65",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-bf346b30-83ba-483a-ad1a-ad1c5ccd3902.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE character reference sheet of Tuck only, exact readable heading \"Tuck\". Ignore Cal and Voss in the originals. Tuck is tall and broad, with light spiky hair, lined/scarred face, stubble, and an explicit missing piece of his LEFT ear. Show front/side/back in his worn long high-collar coat, circular hardware, boots and his own LEFT-wrist disk on leather thong; a left-profile head must clearly show the ear notch. Include sardonic and wary expressions. Separate clinic half-figure: LEFT arm in sling, pale pressure rings around throat, open ordinary shirt collar, coat removed. RIGHT hand free; show no hidden weapon. Keep coat silhouette recognizable while adding cover-like deep charcoal folds, ivory rim light and tactile cloth/leather. Only Tuck appears, no other people or separate prop inventory.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-001 = p1.png; external-002 = p9.png; external-003 = p2.png; external-004 = p5.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-001",
+        "external-002",
+        "external-003",
+        "external-004"
+      ],
+      "path": "references/ref-tuck.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-m-voss",
+      "attempts": 1,
+      "sha256": "cd3b3db140f4024f89af345da89491b1a7dbd8befb709c280aea485187c85ae7",
+      "accepted": {
+        "sha256": "cd3b3db140f4024f89af345da89491b1a7dbd8befb709c280aea485187c85ae7",
+        "inputsSha256": "282789f51184c881dadcddfa45816a8b0e80f142f37a90cd2ec335320129f9c7",
+        "evidence": "PASS: exact M. Voss heading with period, one consistent buzz-cut woman throughout. Sleeveless olive-gray utility clothing, silver narrow unlettered throat tag, ear stud, skeptical/alert expressions, standing/back/seated studies. Compact pistol and holster coherent, no firing or invented badge/employer/name. No other character; tactile cloth/metal and pen lines retain original likeness with deeper black/ivory lighting. Hands and poses credible.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-d6b0896f-9c3c-4970-9e2a-a6853a4557ea.png",
+          "attempt": 1,
+          "correction": "",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "ace42a9d27f9a2c46a6da8809d2ce1e39812366767dd20f969158a24002e0a83",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-d6b0896f-9c3c-4970-9e2a-a6853a4557ea.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE character reference sheet of M. Voss only, exact readable heading \"M. Voss\" including the period. Reference p1/p9 for the buzz cut, strong brows, ear stud, practical sleeveless olive-gray top, utility straps, dark trousers and narrow silver throat tag. Show clear front/profile/back and seated/standing studies, with skeptical and alert expressions. Include a compact dark pistol held safely and credibly in one standing pose; no firing, new badge, invented employer or additional person. The throat tag can stay unlettered; do not invent a given name. Keep fine pen contours, stronger cover-derived black cloth shadows, ivory edge lighting and tactile fabric/metal; hands and face remain readable.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-001 = p1.png; external-002 = p9.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-001",
+        "external-002"
+      ],
+      "path": "references/ref-m-voss.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-smoke-gatekeeper",
+      "attempts": 2,
+      "sha256": "7bbeb622c1cc55de9601d1e2ccfa24b7b40bb37c8251cc20b21b37291f4a4b9a",
+      "accepted": {
+        "sha256": "7bbeb622c1cc55de9601d1e2ccfa24b7b40bb37c8251cc20b21b37291f4a4b9a",
+        "inputsSha256": "b32c60d9bff2af37591ba8324c628aaa9bf112605b70c33b02e76e61b7a44560",
+        "evidence": "PASS actual pixels: exact Smoke gatekeeper role heading, one living smoke entity with coherent primary face/silhouette and incomplete generic faces within its substance. Empty articulated hands including brow-touch study; flowing charcoal layers with ivory edges. White groove indicated under full silhouette. No Cal/Tuck/Priya, invented proper name or literal memory scene. Readable pen detail, warm smoke and matching cover finish.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-f50b24ec-2e90-45c6-8712-48113134d2ee.png",
+          "attempt": 2,
+          "correction": "Include the REQUIRED LARGE READABLE HEADING exactly \"Smoke gatekeeper\" on this development sheet. These two words are the correct descriptive role name, not prose or a caption. Reserve a clear ivory or near-black header band to fit it. Only this smoke organism in multiple views, no other named character. Keep brow-touch gesture/extended EMPTY hand, no held orb or spell ball. Collection groove is a white line cut into ground. Preserve flowing living-smoke form, generic faces within same smoke, dark translucent layers and ivory rim lighting.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "298e75ca26c8b86ecf0b286091acceeb521ce326d2df93b3f21fe1720fa84f7b",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-f50b24ec-2e90-45c6-8712-48113134d2ee.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE reference sheet for the unnamed smoke gatekeeper. Exact descriptive heading \"Smoke gatekeeper\"; this is a role label, not a proper name. Use p4's long flowing living-smoke silhouette and extended hand, with front/three-quarter views and a brow-touch gesture. Generic incomplete faces emerge within the same smoke organism; do not show Cal, Tuck, Priya or an invented memory scene. The cover informs luminous ivory boundaries, deeper translucent charcoal layers and tactile light, while the pen line and warm smoke remain. A small white collection groove grounds one full silhouette. No species name, sexualized form, other character or invented text.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-005 = p4.png; external-009 = p3.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-005",
+        "external-009"
+      ],
+      "path": "references/ref-smoke-gatekeeper.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-dealer-avatar",
+      "attempts": 1,
+      "sha256": "25b6b2dcd5520dd00a7db02d89548cd62fe9ade100bdee3986090ed9ef017b3e",
+      "accepted": {
+        "sha256": "25b6b2dcd5520dd00a7db02d89548cd62fe9ade100bdee3986090ed9ef017b3e",
+        "inputsSha256": "2657258d57ce5f782c5b615897ba38c8616f5480dcf0effd6407623ed71ee2aa",
+        "evidence": "PASS visible saved image: exact Dealer avatar descriptive heading, same single nonhuman identity in calm and defensive studies. White hair, round appendages, small suited silhouette and unlined face; enlarged hands visibly old, papery and root-bound. Defense opens jaw into fibrous roots, no human gore. Gray-black suit illuminated with restrained ivory/gold; calm room-root tether/detail and defensive structure established. No Cal/Tuck or other person, no invented proper name or clinic confrontation.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-16d0f7c4-6283-40c0-aa53-df930a85895d.png",
+          "attempt": 1,
+          "correction": "",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "7d6412a5dc565099dfe65b8eabb97e88a65d6c8d162ee9ae8f3e1d28b5d617ec",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-16d0f7c4-6283-40c0-aa53-df930a85895d.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "character",
+      "prompt": "Create ONE reference sheet for the unnamed dealer avatar. Exact descriptive heading \"Dealer avatar\"; not a proper name. p7/p8 establish the white hair, small child-shaped nonhuman silhouette, gray suit and round ear-like appendages. Show calm front/profile/three-quarter with unlined face but unmistakably old-paper hands and thin shadow tether into roots. Separate defensive pose retains identity as the jaw opens too far and paper surface reveals braided roots; non-graphic horror, no human gore. No Cal, Tuck, gatekeeper or clinic confrontation. Use cover-derived near-black suit shadows, ivory edge light and tactile paper/root surfaces, with readable pen detail and restrained gold reflected from off-frame jars.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-007 = p7.png; external-008 = p8.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-007",
+        "external-008"
+      ],
+      "path": "references/ref-dealer-avatar.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-queen-street-tunnel",
+      "attempts": 2,
+      "sha256": "2fb17a0b3dbcb0010b4e804036fa446c4f05cf8107dbcb5fd1f110e6a183a896",
+      "accepted": {
+        "sha256": "2fb17a0b3dbcb0010b4e804036fa446c4f05cf8107dbcb5fd1f110e6a183a896",
+        "inputsSha256": "a066a7b6acf42be6f627e3495fa7359c704de1dd6d38ef395b58ae51e3bce28b",
+        "evidence": "PASS revised pixels inspected against accepted Cal sheet: prominent hand-inked architecture/desk contours, hatch marks, restrained gray-olive wash and paper texture now match character linework and stylization; no photoreal material rendering. Single tunnel; tall dark-centered living white seam, rising black drops, dry pale patch below, yellow line and left desk props remain coherent. No people or location montage. Accept replacement of prior painterly selection under user's explicit correction.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-454dda6d-21fc-4c57-947e-0d54dd865171.png",
+          "attempt": 2,
+          "correction": "User rejected the painted/realistic location pass. Regenerate the same named location as a clearly HAND-INKED ANIME/MANGA BACKGROUND matching the attached accepted Cal Mercer sheet. Prominent dark contours, fine hatch marks, restrained washes, simplified shadow shapes and textured ivory paper; no photographic/rendered material surfaces. Preserve location facts and single-place composition.",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "b947c420b2dc4fe334ae416d819a179a8d182dd403dde1db231ee55a20106e4d",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-454dda6d-21fc-4c57-947e-0d54dd865171.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the Queen Street tunnel only, one coherent perspective, no collage, clinic inset or characters. Tall vaulted damp concrete chamber; registration table at left with tablet, thermos, compact pistol and case; yellow line across approach. Twenty-foot living white seam with ragged organic edges and dark empty center. Black suspended rain rises upward with tails below drops. Large matte DRY pale concrete patch directly beneath seam, wet reflective floor farther away. Indicate buried living vein at seam base without a symbolic heart. NO metal stitches, center gold root/heart/star, graffiti or other location. \n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-001"
+      ],
+      "path": "references/ref-queen-street-tunnel.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-queen-street-clinic",
+      "attempts": 2,
+      "sha256": "6e0b919d657d3cb55621c3644c42f91be38fea500cecbe274352f9ffd0fff155",
+      "accepted": {
+        "sha256": "6e0b919d657d3cb55621c3644c42f91be38fea500cecbe274352f9ffd0fff155",
+        "inputsSha256": "145afdc0fbb62f1e6d2b86ed831edb2f83e636caf96a59de324190870e9b5c86",
+        "evidence": "PASS: single clinic view with visible fine ink lines on bed rails, cloth folds, door edges, wall cracks and cabinet; simplified shadow shapes/warm gray wash/paper grain match character sheets instead of prior photoreal fabric. Near-left and farther-right beds, chair/side surface/cabinet/IV stand and opaque closed steel door retained. No characters, window face, tunnel or inset. Accept replacement under requested ink-style correction.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-c331981c-2a63-4712-924d-678c3a2478f0.png",
+          "attempt": 2,
+          "correction": "Replace the earlier painted/realistic location finish with HAND-INKED ANIME/MANGA BACKGROUND art matching the accepted Cal Mercer style sheet: dark visible contours, selective hatching, restrained flat washes, simplified shadows and ivory paper grain. Preserve this location's facts and one-place composition; no character copied from style sheet.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "45d0ab4bbc9f30eaeddc5e62312790cf77443ceb63dafac9b58a9f66108bc66b",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-c331981c-2a63-4712-924d-678c3a2478f0.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the Queen Street clinic only, one coherent perspective. Empty small clinic with Cal's bed near-left and Tuck's second bed farther-right, pillows, chair, modest bedside surface, medicine cabinet and IV stand. CLOSED OPAQUE reinforced steel door at back-right, no transparent window or figure beyond it. No tunnel or portal, no character, no treatment, no invented institution. Keep room dimensions and practical contemporary fixtures clear. Source p9 guides bed arrangement and materials, but omit its window face. \n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-002"
+      ],
+      "path": "references/ref-queen-street-clinic.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-deepmarket-approach",
+      "attempts": 2,
+      "sha256": "8be43aebd058e0405b6b7bde03e244e53d5c9694b2c4039bdf628cbf9ce76ef0",
+      "accepted": {
+        "sha256": "8be43aebd058e0405b6b7bde03e244e53d5c9694b2c4039bdf628cbf9ce76ef0",
+        "inputsSha256": "f8b32419d3119730fa16b912a68aa44a2528ebf837d133dea6b0f18567892059",
+        "evidence": "PASS revised single approach: clearly drawn ink grass/road/door/plate/copper-spire contours and hatch detail, restrained red/blue/gray washes on textured paper; character-sheet anime/ink stylization restored. Sleeping plated being's eyelids closed, city atop shell, white road through red grass, doors in blue sky, no travelers/foreground market/second location. No photoreal surface pass.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-5882f1dd-4af0-463e-8666-f703f84fe42a.png",
+          "attempt": 2,
+          "correction": "Replace the earlier painted/realistic location finish with HAND-INKED ANIME/MANGA BACKGROUND art matching the accepted Cal Mercer style sheet: dark visible contours, selective hatching, restrained flat washes, simplified shadows and ivory paper grain. Preserve this location's facts and one-place composition; no character copied from style sheet.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "5d4f7a06262e16f2d09b8e394d586300d7dcce14648a17fc3e465a0d4c22cf6e",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-5882f1dd-4af0-463e-8666-f703f84fe42a.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the Deepmarket approach only, one wide coherent landscape. Dusty RED GRASS across foreground, WHITE STONE ROAD winding toward a vast COPPER CITY built ON TOP of an immense sleeping plated living being. Its eyelids are completely CLOSED if visible. Pale BLUE SKY crowded with distinct floating doors. No travelers, no foreground stalls, no inset market/alley and no giant glowing portal. Preserve p3's scale and shell/spire design; p2 supplies red/blue atmosphere.  Do not assign a species or new lore.\n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-009",
+        "external-003"
+      ],
+      "path": "references/ref-deepmarket-approach.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-deepmarket-gate",
+      "attempts": 2,
+      "sha256": "86e22940f5b80694abf6a04538f04b77d16dd4e55342c51148ef97314238c17f",
+      "accepted": {
+        "sha256": "86e22940f5b80694abf6a04538f04b77d16dd4e55342c51148ef97314238c17f",
+        "inputsSha256": "68efadadf3451f5032033e058208f0453ef8351842740c3b3c45b190eeaf4bc5",
+        "evidence": "PASS revised gate pixels: inked contours and hatching clearly visible across arch masonry, copper frames, paving and spires; flat shaded planes, restrained warm/pale-blue washes and paper grain now match character sheets. Single gate perspective, transverse white collection groove and open staging space; no people or unrelated location. No photographic metal render or glowing portal beam.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-3ddcc744-c4c7-43e9-bc40-c6310a84c248.png",
+          "attempt": 2,
+          "correction": "Replace the earlier painted/realistic location finish with HAND-INKED ANIME/MANGA BACKGROUND art matching the accepted Cal Mercer style sheet: dark visible contours, selective hatching, restrained flat washes, simplified shadows and ivory paper grain. Preserve this location's facts and one-place composition; no character copied from style sheet.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "cda228b11eb5fc4701e43317ddf08e68babd46faf509599098666ad7cf3c361b",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-3ddcc744-c4c7-43e9-bc40-c6310a84c248.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the Deepmarket CITY GATE only, one coherent eye-level view at the shell-city entrance. Copper and pale stone arch with human-scale paving, clearly visible WHITE COLLECTION GROOVE crossing the road in foreground, city spires beyond arch. Leave useful open floor space at groove for later Cal/Tuck/gatekeeper scene. No people or smoke character now, no market street montage, no alley, no huge light beam or glowing door/seam. Source p4 supplies architectural scale; p3 supplies copper shell-city family. \n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-005",
+        "external-009"
+      ],
+      "path": "references/ref-deepmarket-gate.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-deepmarket-market",
+      "attempts": 2,
+      "sha256": "161b7cded3379be1f41357c396851af2093986eb0ff9467b1a84adb00cab0a1b",
+      "accepted": {
+        "sha256": "161b7cded3379be1f41357c396851af2093986eb0ff9467b1a84adb00cab0a1b",
+        "inputsSha256": "3fa003bb0858795c3b0098a8229b771dd3841660cc91afaa4901a02dc94b5f87",
+        "evidence": "PASS revised market location: single inside-city street, visibly inked awning folds, glass/metal edges, timber, stone and spires with hatch detail and restrained muted washes. Materials no longer photoreal; pen/anime continuity matches accepted character reference. Brass-egg poultry stall and mirror/glass merchandise retained, no named people/portrait, exterior field, gate montage, or dream-selling text. Clear independent filename and one place.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-344e9536-69c6-4b51-a467-9a0c83f7bc36.png",
+          "attempt": 2,
+          "correction": "Replace the earlier painted/realistic location finish with HAND-INKED ANIME/MANGA BACKGROUND art matching the accepted Cal Mercer style sheet: dark visible contours, selective hatching, restrained flat washes, simplified shadows and ivory paper grain. Preserve this location's facts and one-place composition; no character copied from style sheet.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "d408ee92885352c9686b3db6df2d2e413e0453c894074034798e1e0e72fcd430",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-344e9536-69c6-4b51-a467-9a0c83f7bc36.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of a market street INSIDE Deepmarket, on the shell-city, one coherent view. Copper towers and shell-built shop walls, close awnings, hanging glass vessels, brass and mirror merchandise, wet cobbles, overhead cables and lamps. Empty of named characters or character portraits; source-supported three-headed brass-egg hen may appear as a small stall detail if legible. No dream seller, readable invented stall signs, exterior red-grass approach, giant creature face, city gate montage or separate alley inset. p5/p6 guide material density, \n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-004",
+        "external-006"
+      ],
+      "path": "references/ref-deepmarket-market.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-green-wax-alley",
+      "attempts": 2,
+      "sha256": "27c0998f1e4c7719c1b13e95ac2c880e848556c3881ac78cdd0740045ad89b17",
+      "accepted": {
+        "sha256": "27c0998f1e4c7719c1b13e95ac2c880e848556c3881ac78cdd0740045ad89b17",
+        "inputsSha256": "2104f9c40de681126537a97ab7d43c203153ec241b7e63b2ab5394e667c78941",
+        "evidence": "PASS: one green-wax alley ending in handleless braided-root wall with small palm depression. Strong visible ink edges and hatch shading on roots/stone/wood/fabric, muted green washes and ivory lamp light match character-sheet style. Clear single-lane perspective, no person, interior-shop inset, mechanical portal or new text. Prior painterly drift corrected.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-b1c65f13-19f6-4100-954d-44ff3128ae01.png",
+          "attempt": 2,
+          "correction": "Replace the earlier painted/realistic location finish with HAND-INKED ANIME/MANGA BACKGROUND art matching the accepted Cal Mercer style sheet: dark visible contours, selective hatching, restrained flat washes, simplified shadows and ivory paper grain. Preserve this location's facts and one-place composition; no character copied from style sheet.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "8f4a60b123aa7dac73fe25dbbaa5234e6cb18f40fab3ab8f5cb8e292df5b7014",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-b1c65f13-19f6-4100-954d-44ff3128ae01.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the GREEN-WAX ALLEY only, a single narrow lane inside Deepmarket terminating at a HANDLELESS WALL OF BRAIDED ROOTS with a palm-sized depression. Thick faded green wax on close walls and drips around modest hanging lamps, copper and shell-city materials; dark inviting root texture at lane end. No open shop interior, separate market panorama, human figure, door handle, mechanical portal or new signage. p6 supplies market material context and p7 living roots.  Maintain one place, one coherent perspective.\n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-006",
+        "external-007"
+      ],
+      "path": "references/ref-green-wax-alley.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-shop",
+      "kind": "location",
+      "prompt": "STYLE AUTHORITY: the attached accepted Cal Mercer character sheet is the PRIMARY style reference. Match its visibly drawn dark ink contours, selective crosshatching, angular manga/anime shape design, restrained warm-gray/olive washes and light paper grain. Draw architecture/material edges in clearly visible hand-inked lines. Use simplified cel-like shadow planes with selective ivory highlights and generous readable midtones. No photorealism, glossy CGI, oil-painted environment, microtexture-heavy realism, volumetric rendering or cinematic concept-art finish. Original location images supply geography/content ONLY; the existing cover influence is already present in the character sheet. No character figures copied into this environment. One place, one coherent view, no montage.\n\nLOCATION CONTENT:\nOne standalone environment reference image of the living HEARTSEED SHOP only, one coherent CALM room view from entrance. Warm dark braided roots form walls, ceiling and shelves; wooden counter against far wall; target jar position on HIGHEST REAR-RIGHT shelf; inert clear cylindrical jars each hold a plum-sized ivory-gold living light. Keep left wall continuous and root-covered: the temporary escape opens there only during a later attack, not in this calm reference. No dealer, customers, character portraits, separate attack panel, inset alley, machinery or new goods. p7 sets geography, p8 only root material, p6 glass. \n\nStyle check: match the LINEWORK and STYLIZATION of the accepted character sheet, not merely its colors.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "external-007",
+        "external-008",
+        "external-006"
+      ],
+      "attempts": 1,
+      "sha256": "99002e835af2dc05cb543d5f44e914eac1637f7a265310d59eedec3cd20abebc",
+      "accepted": {
+        "sha256": "99002e835af2dc05cb543d5f44e914eac1637f7a265310d59eedec3cd20abebc",
+        "inputsSha256": "6584ba2aeb527a76265b1a581c87dd73efaaa1d2ff6397be952c02cd47d56352",
+        "evidence": "PASS single calm heartseed shop: visible drawn ink contours and hatching in braided roots, shelving, counter and floor with muted sepia/ivory-gold washes, matching character-sheet stylization. One coherent room; counter far wall, highest rear-right shelf target position, continuous left wall, clear cylindrical inert vessels containing small living light masses. No characters/attack montage/alley inset/machinery or new narrative event. Dim light still keeps structural penwork readable.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-26b9c687-268a-47ac-a84e-b095b5895c8b.png",
+          "attempt": 1,
+          "correction": "",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "ad2a862f02f0beb15e5faa6910c7720b656ed8e3fdb2fe73763143119dbf5478",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-26b9c687-268a-47ac-a84e-b095b5895c8b.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "references/ref-shop.png",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ref-objects",
+      "kind": "object",
+      "prompt": "Object continuity sheet in the SAME hand-inked anime style as the accepted Cal Mercer, Lena Mercer and Tuck sheets: prominent fine pen contours, hatching, restrained washes, paper texture and ivory-gold light. These character sheets are identity/style references ONLY; no full characters, bodies, mixed turnarounds or character portraits outside necessary tiny photographs/screens.\n\nOrganize clearly separated practical object studies with accurate short OWNER/STATE labels. Two small SOLID INERT route disks: Cal Mercer on DOUBLED CORD tied around RIGHT wrist, Tuck on a LEATHER THONG around LEFT wrist, no watch faces. Evidence pouch contains only Tuck's stamped disk and CLIPPED CORD. Target clear cylindrical jar with dull lid and plum-sized living light; its small pictorial label shows approved Lena in a CREAM TOP sitting UNDER A KITCHEN TABLE, knees drawn up. Same jar broken, empty after rooting, modest glass fragments. Cal's clean right token-wrist detail is separate from clinic RIGHT palm bandage/one cuff with NO TOKEN. Phone screen shows Lena in PALE BLUE HOSPITAL GOWN against pillows, never the under-table memory. Small ordinary photograph of Lena in everyday cream top is separate from the jar label. p1 guides practical objects and p7 jar material only. No extra identities, magical knife, anatomical heart, treatment/cure/gore. Avoid photorealism or shiny 3D material rendering; keep visible ink and flat wash shadows.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-lena-mercer",
+        "ref-tuck",
+        "external-001",
+        "external-007"
+      ],
+      "attempts": 2,
+      "sha256": "1b5a343a473b55e64dbcfa05c11eaefdfae691c2f4e4ab65264b02d436d04f8e",
+      "accepted": {
+        "sha256": "1b5a343a473b55e64dbcfa05c11eaefdfae691c2f4e4ab65264b02d436d04f8e",
+        "inputsSha256": "f6972829104a6c70aa075c922ac7765f9645089d90cebd0102640209d79d0512",
+        "evidence": "PASS corrected prop sheet: clear exact Cal Mercer/Tuck owner labels; solid disks, Cal doubled cord/right travel wrist, Tuck flat leather thong/left wrist. Evidence pouch now contains only stamped Tuck disk and snipped flat leather thong. Clinic palm bandage/one cuff has no token. Intact jar has Lena-under-table image and living light; broken glass empty. Phone Lena blue hospital gown distinct from everyday cream-top photo and jar memory. Pen contours/wash/paper consistent; no full mixed character sheet, treatment or invented cure.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-a9dbe551-e7fc-47d4-ba38-57b9310c61f5.png",
+          "attempt": 2,
+          "correction": "Preserve the overall object sheet and exact correct labels, faces and hand states. Correct the EVIDENCE POUCH specifically: it contains ONLY TUCK'S SOLID ROUTE DISK with a simple CLOSED STAMP mark and a SHORT SNIPPED FLAT LEATHER THONG, same leather attachment as Tuck's disk study. NO braided cord in the pouch, NO carabiner, key clip, chain, second disk or Cal token. Cal's doubled braided cord appears ONLY on his clean right-wrist travel studies outside the pouch. Keep Lena-under-table cream clothing jar label distinct from Lena-blue-hospital phone screen. Visible hand-inked anime contours/hatching, no photorealism.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "e23ab810b905c891a773ac4bd2e5a3c2ea0879f70a00600ffe0b0411bdf0b96c",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-a9dbe551-e7fc-47d4-ba38-57b9310c61f5.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "references/ref-objects.png",
+      "actualSize": "1536x1024"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": "ill-01-registration",
+      "kind": "illustration",
+      "prompt": "One Realms ink-and-wash illustration using approved people, tunnel and object sheets. Cal behind yellow line, pack on, RIGHT corded disk, phone put away; Tuck displays LEFT leather-thong disk, left-ear notch clear. Voss seated with tag/tablet/thermos/pistol/case. Tall living seam and buried vein, UPWARD black rain, dry floor beneath. Eye-level wide; hands/attachments readable, graffiti cropped. No later injury, cuff, glow, lettering or panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-m-voss = m voss accepted sheet; ref-queen-street-tunnel = queen street accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-m-voss",
+        "ref-queen-street-tunnel",
+        "ref-objects"
+      ],
+      "attempts": 2,
+      "sha256": "c46267e365e13fc9d1e0e3e30092fcd79ca6d56def9388a828bbd072fee2bd23",
+      "accepted": {
+        "sha256": "c46267e365e13fc9d1e0e3e30092fcd79ca6d56def9388a828bbd072fee2bd23",
+        "inputsSha256": "1b0af0ee6bcc4a75ad6346511d949a9737864939c21d997e73109dc0f37c6d17",
+        "evidence": "PASS saved scene: Cal with clean intact jeans/short jacket/tan pack stands behind yellow line, right doubled-cord wrist disk and no injury/glow. Tuck taller in worn long coat raises left attached wrist disk across chest, right hand in pocket; matching light hair/face. Voss seated left with silver tag/tablet/thermos/pistol/case. Tall living seam and suspended black rain, pale landing directly beneath; no copied headings or labels. Single coherent ink/anime scene, clear hands/props and source moment.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-e6e7bf02-3f6e-460c-946c-d17417c8c771.png",
+          "attempt": 2,
+          "correction": "Tuck displays his ANATOMICAL LEFT WRIST (the arm on viewer RIGHT in a front-facing pose): raise this wrist across his chest, pull sleeve back, and show the solid disk tied ON THAT WRIST by leather thong. Do not hold a detached disk/cord in fingers, do not put it on his right wrist. His right arm may hang or rest in coat pocket. Cal's own disk remains on anatomical RIGHT wrist with doubled cord, clean intact clothes. Keep Voss seated at left-side registration station relative to seam, camera can frame her foreground; yellow line visibly between Cal's boots and portal approach. Tall living seam, dry patch under it, upward black rain, fine visible ink/hatching, no heading or label.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "86f7159bc5a94574a25d6dcff0f0ac35c4e71652dc0e82685511be1b02117f03",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-e6e7bf02-3f6e-460c-946c-d17417c8c771.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "illustrations/ill-01-registration.png",
+      "after": "b0025-f4eb6723579f",
+      "layout": "inline",
+      "alt": "Cal and Tuck show separate wrist disks beside Voss's table and the bright tunnel seam.",
+      "caption": "",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ill-02-deepmarket",
+      "kind": "illustration",
+      "prompt": "One Realms fine-pen panorama, dusty red/blue/copper paper washes. Approved travelers and Deepmarket geography. Cal foreground, tan pack, red grass avoiding boots; tall Tuck ahead toward white road. Copper city rides sleeping plated being, eyes shut if visible. Blue sky filled with distinct varied doors, small source-permitted fire/water/room glimpses. Intact tokens, no injuries/glow. No simultaneous crossing, species claim, network diagram, lettering or panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-deepmarket-approach = deepmarket accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-deepmarket-approach"
+      ],
+      "attempts": 1,
+      "sha256": "0a0574d577dd783ab3736357e70801dc4383cb6a0bcd0e8f83a5399085aff0fa",
+      "accepted": {
+        "sha256": "0a0574d577dd783ab3736357e70801dc4383cb6a0bcd0e8f83a5399085aff0fa",
+        "inputsSha256": "344a0c2cb17bb82aebcb8be7673bcdc6c60022327873eaf112f6ffbdce4fd927",
+        "evidence": "PASS actual scene pixels: rear three-quarter Cal tan rectangular pack/short jacket/right wrist token, Tuck ahead in long worn coat, intact travel state/no glow. White road through red grass toward copper spires on sleeping plated giant; eyelids read closed without active pupil. Floating doors have varied small permitted water/fire/room glimpses, no cosmology diagram. Clear ink contours and wash palette consistent with character/location sheets, no labels/panels, credible walking feet/scale.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-52a51fe7-2635-44d1-b835-8cbb5fbd0bb5.png",
+          "attempt": 1,
+          "correction": "",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "a7fe5660fd928982c2a63791d7beb7a2ca506f5c85547a92a482ac0d480229f4",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-52a51fe7-2635-44d1-b835-8cbb5fbd0bb5.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "illustrations/ill-02-deepmarket.png",
+      "after": "b0044-b1bb7a429b07",
+      "layout": "inline",
+      "alt": "Cal and Tuck approach the sleeping shell-city under a blue sky crowded with doors.",
+      "caption": "",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ill-03-memory-toll",
+      "kind": "illustration",
+      "prompt": "One Realms pen/sepia-ivory-wash image using approved people, smoke, gate and tokens. Cal folds in disorientation after crossing visible WHITE groove; Tuck catches collar with credible supporting grip, not strangling. Gatekeeper's hand withdraws after brow touch; generic smoke faces, no Priya/kiss flashback. Medium framing retains feet/groove, copper architecture soft behind. No premature extraction, new merchant, wound, glow, lettering or panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-smoke-gatekeeper = smoke gatekeeper accepted sheet; ref-deepmarket-gate = deepmarket accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-smoke-gatekeeper",
+        "ref-deepmarket-gate",
+        "ref-objects"
+      ],
+      "attempts": 1,
+      "sha256": "138e17e5f2a04b8b453b5dbcb80e44fc2f0ff1ce0d2ecf439cd001b11e990c00",
+      "accepted": {
+        "sha256": "138e17e5f2a04b8b453b5dbcb80e44fc2f0ff1ce0d2ecf439cd001b11e990c00",
+        "inputsSha256": "410f0e68c0444c7aa386e6a6252143c5a47498ea77cc6601bd3dd8f53f30e9b1",
+        "evidence": "PASS: Cal folds in disorientation just beyond visible white collection groove, uninjured right palm/token and intact travel clothes; Tuck crouches with planted boots, gripping upper coat/collar area to support him without throat contact. Gatekeeper withdraws empty hand, same smoke identity with generic changing internal faces and no Priya flashback. Copper arch matches separate gate reference; no wound/host glow/text/panels, ink rendering consistent and hands/weight credible.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-876f832a-3fcd-48d8-b259-82b8b029b425.png",
+          "attempt": 1,
+          "correction": "",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "5e94358aa474271592a175feecdedfb6364efa81a20995a33d8f8f46e6c53015",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-876f832a-3fcd-48d8-b259-82b8b029b425.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "illustrations/ill-03-memory-toll.png",
+      "after": "b0060-a7aecd01a119",
+      "layout": "inline",
+      "alt": "Tuck steadies Cal by the collar while the smoke gatekeeper withdraws its hand.",
+      "caption": "",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ill-04-refusal",
+      "kind": "illustration",
+      "prompt": "One Realms intimate pen/sepia/gold portrait using approved identities/shop/objects. Cal withdraws uninjured RIGHT hand from root; clear gap, attached token, knife NOT drawn. Dealer unsmiling calm form, old-paper hands/tether; Tuck watchful left. Records/photo intact; highest rear-right jar shows approved Lena-under-table picture. Center hand and face, jar above. No attack yet, family erasure, apparition, generated text or panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-dealer-avatar = dealer avatar accepted sheet; ref-shop = shop accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1024x1536",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-dealer-avatar",
+        "ref-shop",
+        "ref-objects"
+      ],
+      "attempts": 2,
+      "sha256": "32869c67a8218949805e30d4090883b082d72cfaec0cb5fd28634678950ceb5e",
+      "accepted": {
+        "sha256": "32869c67a8218949805e30d4090883b082d72cfaec0cb5fd28634678950ceb5e",
+        "inputsSha256": "e2bf3182b48455da1bc781b012d3f995c9fc8060a0fcc98937c342074dae5d12",
+        "evidence": "PASS corrected portrait: highest rear-right shelf has Lena-under-table labeled jar with only ceiling roots above; Cal withdraws clean right hand with token and clear gap from offered root. Dealer calm unsmiling face and visibly old-paper hands, Tuck watchful left, no knife/attack/host glow. Same identities/clothing and rooted shop, drawn contour/hatch rendering and restrained gold. No title/labels/prose or flashback overlay.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-898976f4-d54f-463e-aac0-368a78c6cc7d.png",
+          "attempt": 2,
+          "correction": "At the refusal beat the DEALER IS UNSMILING: neutral closed straight mouth, calm unsettling gaze, old-paper hands. Lena's labeled target jar must be on the TOPMOST/HIGHEST REAR-RIGHT SHELF with ceiling roots directly above and ABSOLUTELY NO SHELF OR OTHER JAR ABOVE IT in the image. Keep visible Lena-under-table label. Cal draws back clean RIGHT hand and attached wrist token with a clear gap from offered root; no knife/attack/injury. Tuck watchful on left. Keep visible anime ink contours/hatching and restrained wash in both figures and room, no photo-real background or headings.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "b76fb3632909890d16bd8953e0dde4565a03c15e6875058fd35177fa52a5e2db",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-898976f4-d54f-463e-aac0-368a78c6cc7d.png. No API/CLI used.",
+          "actualSize": "1024x1536"
+        }
+      },
+      "path": "illustrations/ill-04-refusal.png",
+      "after": "b0124-29eb99a60e35",
+      "layout": "full-page",
+      "alt": "Cal withdraws his hand from the offered root beneath Lena's glowing jar.",
+      "caption": "",
+      "actualSize": "1024x1536"
+    },
+    {
+      "id": "ill-05-theft",
+      "kind": "illustration",
+      "prompt": "One Realms kinetic pen/sepia/gold image, approved character/shop/object continuity. Cal on contracting shelves JUST holds target jar against chest, restrained RIGHT palm cut, pack intact. Tuck ALREADY returned: braced boots, shoulder drives avatar against counter, not helplessly bound. Same defensive paper/root avatar, non-graphic. Credible shelf/hand support; small shards/milky fluid below. Both tokens present, no host glow, ejection or target-jar break. No lettering/panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-dealer-avatar = dealer avatar accepted sheet; ref-shop = shop accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-dealer-avatar",
+        "ref-shop",
+        "ref-objects"
+      ],
+      "attempts": 3,
+      "sha256": "322ac8a2ed5c84ea3fe6544fe676a5cd8ac3920c6f72b58e4f30dc291ed68a0b",
+      "accepted": {
+        "sha256": "322ac8a2ed5c84ea3fe6544fe676a5cd8ac3920c6f72b58e4f30dc291ed68a0b",
+        "inputsSha256": "bbd36f9081ee9d0ec4db507791cce4b92f20495a512a208ee337ffe2e60f1f9e",
+        "evidence": "PASS third saved candidate: Cal bare hands/no wraps/cuffs, right wrist token at viewer left, injured palm occluded against intact jar with clean visible hand backs, left hand supports jar. Jar held firmly at chest; label can be obscured by grip/rotation. Bent leg supported by low shelving area, other boot grounded. Tuck's braced body/shoulder presses defensive root-paper dealer against counter; no separate strangling grip. Small shards/milky sap, no host glow or target break. Same clothing, pack and ink-style room/characters. Cut not forced into a wrong dorsal-hand depiction.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-8f9ac6ee-38c6-4857-abe7-865174057315.png",
+          "attempt": 3,
+          "correction": "Final precise staging: Cal clutches jar at his sternum with his injured ANATOMICAL RIGHT PALM pressed flat against the jar's BACK, so the palm cut is OCCLUDED and NOT VISIBLE. His clean LEFT hand supports jar from below. BOTH HAND BACKS have NO cuts and NO BLOOD. No bandages/cuffs. Right token remains but its wrist may be hidden behind jar; NEVER move token to left wrist. Frame Cal near front-facing so arms read clearly; one boot braces contracting shelf. Keep intact Lena-under-table jar. Tuck plants boots and presses SHOULDER against dealer's upper torso, no throat-grab. Same defensive avatar, restrained sap/shards, ink/anime contours, no host glow.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "14c4980aaddf356ff01f7ccdf8cf7b05184a93d6533c53e743bda9c76acac0a7",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-8f9ac6ee-38c6-4857-abe7-865174057315.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "illustrations/ill-05-theft.png",
+      "after": "b0155-c99ef16780f3",
+      "layout": "inline",
+      "alt": "Cal clutches Lena's jar while Tuck shoulder-checks the dealer against the counter.",
+      "caption": "",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ill-06-rooting",
+      "kind": "illustration",
+      "prompt": "One Realms fine-pen concrete/sepia-wash aftermath with sparse gold, approved people/objects/tunnel materials. Cal on floor, same broken jar near RIGHT cut palm; thin gold UNDER skin toward chest, alarm not triumph. Voss holds shoulder, pistol in other hand directed away. Bruised Tuck nearby, no sling yet; his disk stamped, Cal disk ABSENT. No bandage/cuff yet. Crop seam out; sound contact/glass/anatomy, no gore/lettering/panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-m-voss = m voss accepted sheet; ref-queen-street-tunnel = queen street accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1024x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-m-voss",
+        "ref-queen-street-tunnel",
+        "ref-objects"
+      ],
+      "attempts": 3,
+      "sha256": "85467dcaad00432d6d045e53311c1f61b52ea75faa5bb452c481d29e8c2c6144",
+      "accepted": {
+        "sha256": "85467dcaad00432d6d045e53311c1f61b52ea75faa5bb452c481d29e8c2c6144",
+        "inputsSha256": "e6dd6a51526ace1df024eabf34241f57c70924b3bac8cd842f470483887d3e7c",
+        "evidence": "PASS after saved-pixel inspection: the close downward framing crops the seam and Tuck's wrists entirely out, avoiding false route states. Dry concrete and physically distinct broken glass surround the same shattered jar. Cal's bare RIGHT upturned palm has a small fresh cut with sparse gold beneath skin toward chest, no bandage/cuff/token; his LEFT hand is bare on his lap. Voss holds his shoulder and directs the pistol down and away. Tuck's bruised throat and worn coat persist, without clinic sling. Identities, searching ink contours and restrained warm washes match the selected references; visible hands/contact and alarm read cleanly.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-f1fb87bb-c22e-4007-84ee-f9006219ea62.png",
+          "attempt": 3,
+          "correction": "Final targeted correction ill-06-rooting. Tight square HIGH THREE-QUARTER downward scene on DRY scratched concrete, broken jar near Cal bare RIGHT upturned palm with small fresh cut and sparse gold UNDER skin travelling wrist to chest. No Cal disk, cord, bandages, cuffs, or loose disk anywhere. TUCK IS CROPPED TO HIS HEAD, BRUISED THROAT AND COAT SHOULDERS in upper-left background; BOTH OF HIS HANDS AND WRISTS ARE COMPLETELY HIDDEN behind Cal and outside the frame. Do not draw any disk or thong on any visible wrist: his stamped mark has been secured out of view. Voss at upper-right kneels holding Cal shoulder with one hand, pistol lowered away in other. Cal seated, exhausted and frightened, bare LEFT hand resting on his lap. Floor is dry matte concrete, glass shards only, no water or reflections. Completely crop out every portal/seam/threshold and black rain. Crisp expressive anime ink contours, crosshatching and restrained washes, tactile paper, decisive charcoal shadows, soft ivory light. Anatomy and contact clean, no text, single scene.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "146231c1f80a3d946436f8086e8a3d92c07ef294ee3f2cc6dce716646209f5c6",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-f1fb87bb-c22e-4007-84ee-f9006219ea62.png. No API/CLI used.",
+          "actualSize": "1254x1254"
+        }
+      },
+      "path": "illustrations/ill-06-rooting.png",
+      "after": "b0169-82cdc350cc3d",
+      "layout": "inline",
+      "alt": "Gold branches beneath Cal's skin as Voss holds his shoulder and bruised Tuck watches.",
+      "caption": "",
+      "actualSize": "1254x1254"
+    },
+    {
+      "id": "ill-07-family-call",
+      "kind": "illustration",
+      "prompt": "One quiet Realms pen/pale-clinic/sepia-wash image using approved siblings and clinic references. Cal near-left bed smiles, RIGHT palm bandage/ONE right cuff, LEFT phone hand, faint gold, no token. On physical phone: approved twelve-year-old Lena pale but alert against hospital pillows, smiling; better, not cured. Tuck rests far-right with LEFT sling/throat rings, coat/boots aside. Door opaque/closed, no aimed weapon. No floating portrait, treatment, lettering or panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-lena-mercer = lena mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-queen-street-clinic = queen street accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1536x1024",
+      "references": [
+        "ref-cal-mercer",
+        "ref-lena-mercer",
+        "ref-tuck",
+        "ref-queen-street-clinic",
+        "ref-objects"
+      ],
+      "attempts": 2,
+      "sha256": "f90c0f9bafbb4b33b657068c3f5f4e550f24a66ad199a95f776017951fe6281e",
+      "accepted": {
+        "sha256": "f90c0f9bafbb4b33b657068c3f5f4e550f24a66ad199a95f776017951fe6281e",
+        "inputsSha256": "716e2ee4042d20ef3e35efec7812a6d4790cc52e929dedc5f0ba8d530fcdaac1",
+        "evidence": "PASS after saved-pixel review: Cal's RIGHT palm bandage and single wrist cuff/short rail chain rest on blanket; his free bare LEFT hand holds the single physical phone showing recognizable pale twelve-year-old Lena in hospital blue against pillows. Quiet smile and restrained under-skin gold express improvement without depicting a cure. Tuck reclines in the other bed with LEFT sling and matte throat bruising, covered legs, one pair of boots and removed coat beside bed. Opaque shut door, pale clinic surfaces, expressive ink contours and crosshatching remain consistent; no floating portrait or captions.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-697e4c81-e57a-48d4-af3b-51cff6eecd32.png",
+          "attempt": 2,
+          "correction": "Targeted correction family call: Cal reclines on near-left clinic bed, torso facing nearly front toward camera so anatomical handedness is unambiguous. His RIGHT arm (viewer-left) lies extended RESTING ON BLANKET/OUTER BED EDGE, one leather wrist cuff physically attached by short chain to bedrail, white bandage wraps his RIGHT PALM and thumb web, fingers relaxed, absolutely no phone in that hand. His FREE BARE LEFT HAND (viewer-right) holds a SINGLE upright smartphone naturally tilted toward his face; camera can see the screen obliquely with twelve-year-old Lena in pale blue hospital gown against pillows, smiling but pale. Cal smiles gently at screen, faint gold under chest skin, no token. Separate these hands widely in composition. Tuck RECLINES in far-right bed UNDER BLANKET FROM WAIST DOWN, LEFT arm in sling, bruised throat, RIGHT forearm resting freely; his legs/feet entirely covered. Exactly ONE pair of boots stands on floor beside his removed long coat, no boots worn. Opaque shut steel door. Pen-drawn anime contours/crosshatching and muted wash like accepted sheets, ivory wall light, dark cloth, no invented people, no captions.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "3f71a440d896bd27f1bb1a96454ce9fef83b86b52f0742e4dd310ac7e81cb75c",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-697e4c81-e57a-48d4-af3b-51cff6eecd32.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "illustrations/ill-07-family-call.png",
+      "after": "b0202-2693ed7b3fd4",
+      "layout": "inline",
+      "alt": "Cal smiles at twelve-year-old Lena on his phone, his other wrist cuffed and palm bandaged.",
+      "caption": "",
+      "actualSize": "1536x1024"
+    },
+    {
+      "id": "ill-08-three-knocks",
+      "kind": "illustration",
+      "prompt": "One Realms pen/clinic-sepia portrait, sparse gold, approved people/room/props. Steel door CLOSED OPAQUE: no dealer, face, silhouette, reflection or intruding root. Voss pistol drawn, not firing. Tuck LEFT sling/throat marks; RIGHT hand reaches under pillow, concealed object NEVER shown. Cal ONE right cuff/bandage, LEFT phone with ended-call dark screen, subtle chest gold. Pouch holds Tuck stamped disk/clipped cord, Cal token absent. No fight/outcome/lettering/panels. Use reference-sheet headings only to identify the characters; do not copy headings or labels into this scene. Apply the revised cover-influenced lighting and tactile finish.\n\nSupplied image roles: ref-cal-mercer = cal mercer accepted sheet; ref-tuck = tuck accepted sheet; ref-m-voss = m voss accepted sheet; ref-queen-street-clinic = queen street accepted sheet; ref-objects = objects accepted sheet.",
+      "size": "1024x1536",
+      "references": [
+        "ref-cal-mercer",
+        "ref-tuck",
+        "ref-m-voss",
+        "ref-queen-street-clinic",
+        "ref-objects"
+      ],
+      "attempts": 4,
+      "sha256": "a5a84feabded381ee6d048a3cd83f05e2550f5a94911fa9ec042d32dc1f7cb82",
+      "accepted": {
+        "sha256": "a5a84feabded381ee6d048a3cd83f05e2550f5a94911fa9ec042d32dc1f7cb82",
+        "inputsSha256": "221c18f458ffbfefde70be8112caa29791c442e64ac3bf424e99b5a628b1a8ee",
+        "evidence": "PASS after whole-image saved-pixel review of targeted edit: foreground now shows a small clear evidence bag with the one stamped-closed disk and clipped flat leather cord visibly inside, matching accepted object reference; no fabric pouch or loose token remains. Cal's correct RIGHT palm bandage/single rail cuff, free bare LEFT phone hand, gold beneath chest, and identity persist. Voss remains the buzzcut standing pistol-holder; white-haired Tuck retains LEFT sling and RIGHT reach under pillow, matte throat marks, removed coat/boots. Closed opaque door has no dealer or reflection. Composition, readable hands, people/contact, clinic geography and ink/wash style remain consistent; minor rendering differences do not change story state.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-d84ed3c8-6c61-414c-a403-f208f49be492.png",
+          "attempt": 4,
+          "correction": "Edit only the evidence objects on the foreground bedside table in the latest ending image. Replace the bulky closed fabric zipper pouch and adjacent loose disk with ONE small OPEN TRANSPARENT PLASTIC EVIDENCE BAG, its Tuck stamped-closed disk and short CLIPPED FLAT LEATHER CORD visibly INSIDE, matching accepted ref-objects. No disk remains outside; Cal's disk is absent. Preserve every other pixel/composition: Cal right cuff and palm bandage/free left hand dark phone, Voss buzzcut woman standing with pistol, Tuck white-haired man in left sling reaching right hand under pillow, closed opaque door, beds, coat/boots, ink contours, light, texture and framing. No additional lettering.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "1478d0d53f7239cc82003f88a872eba36b0db049ebdc2fe7f834aa242f827d41",
+          "requestVersion": 1,
+          "request": {
+            "prompt": "Edit Image 1 with one focused local correction.\n\nEdit only the evidence objects on the foreground bedside table in the latest ending image. Replace the bulky closed fabric zipper pouch and adjacent loose disk with ONE small OPEN TRANSPARENT PLASTIC EVIDENCE BAG, its Tuck stamped-closed disk and short CLIPPED FLAT LEATHER CORD visibly INSIDE, matching accepted ref-objects. No disk remains outside; Cal's disk is absent. Preserve every other pixel/composition: Cal right cuff and palm bandage/free left hand dark phone, Voss buzzcut woman standing with pistol, Tuck white-haired man in left sling reaching right hand under pillow, closed opaque door, beds, coat/boots, ink contours, light, texture and framing. No additional lettering.\n\nInput image roles:\nImage 1: exact rejected base image to edit.\nImage 2: ref-objects; supporting reference for this correction only, not another scene.\n\nReturn one complete image on the same 1024x1536-pixel canvas with the same framing. Preserve all already successful details outside the requested correction. Do not redesign the scene or import additional figures, scenes, labels or layouts from the references.",
+            "images": [
+              {
+                "role": "edit-target",
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-fad02774-1c1f-452e-a652-15e07bf8d04f.png",
+                "sha256": "f3508b471e5e10347008563dee400e7f662d5849da4ae1c3ee4ca14e6a23e045"
+              },
+              {
+                "id": "ref-objects",
+                "role": "reference",
+                "path": "D:\\Development\\BoundlessAi\\story-computing-machine-illustrated-realms\\illustrated\\realms\\references\\ref-objects.png",
+                "sha256": "1b5a343a473b55e64dbcfa05c11eaefdfae691c2f4e4ab65264b02d436d04f8e"
+              }
+            ],
+            "editBase": {
+              "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-fad02774-1c1f-452e-a652-15e07bf8d04f.png",
+              "inputsSha256": "221c18f458ffbfefde70be8112caa29791c442e64ac3bf424e99b5a628b1a8ee",
+              "attempt": 3,
+              "correction": "Only three people. MOST IMPORTANT IDENTITY/ACTION LOCK: IMAGE 3 is M. VOSS, the BUZZCUT WOMAN in sleeveless dark top with silver throat tag: SHE STANDS between beds holding the pistol aimed toward the closed door. IMAGE 2 is TUCK, the WHITE-HAIRED OLDER MAN with missing left-ear wedge and scarred face: HE LIES IN THE FAR-RIGHT BED, plain shirt, LEFT ARM IN A BLACK SLING, matte bruised throat, RIGHT HAND REACHING UNDER HIS PILLOW. He has NO gun visible and wears NO long coat or boots. DO NOT SWAP THESE TWO CHARACTERS. Image 1 CAL MERCER, young dark-haired man, reclines in near-left bed, legs covered; RIGHT hand/palm bandaged with one RIGHT wrist cuff/short chain to bedrail, resting in viewer-left foreground. His free BARE LEFT hand holds the only phone in image, black ended-call screen. Cal faces nearly forward, looks anxiously toward door, faint gold beneath chest skin; no token. Voss's bare arms remain uninjured and she has no sling. Tuck's left sling remains visible and his right fingertips disappear under pillow, no concealed object shown. Tuck's single removed coat and pair of boots beside bed. One clear pouch on table has the only token, stamped closed disk and short flat cut leather cord; no wearable token. Closed opaque steel door upper-right, NO face, silhouette, reflection or dealer. Single portrait scene drawn in expressive ANIME PEN INK/crosshatching with restrained washes and ivory light. No lettering, no duplicate phones, no other people. Final illustration of tense response to unseen visitor, never depict a battle.\n",
+              "status": "rejected",
+              "backend": "codex-imagegen",
+              "model": "tool-selected",
+              "tool": "image_gen",
+              "promptSha256": "9d651484651e37a3c6ec2e4177701769ad18347a71cdf50d7ff239d7d0801704",
+              "sha256": "f3508b471e5e10347008563dee400e7f662d5849da4ae1c3ee4ca14e6a23e045",
+              "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-fad02774-1c1f-452e-a652-15e07bf8d04f.png. No API/CLI used.",
+              "actualSize": "1024x1536",
+              "evidence": "REVISE after coordinator and independent reviewer review_realms_edition inspected saved pixels: character roles, Cal's right cuff/palm bandage/free left phone hand, Tuck's left sling/right reach beneath pillow, Voss pistol and closed opaque steel door pass. Foreground evidence object fails: accepted clear bag with Tuck's stamped disk and clipped leather cord inside has become a closed bulky fabric pouch with the disk outside. Preserve all other successful pixels and replace only this foreground object. Three attempts consumed; another image call requires actual user direction under current workflow."
+            }
+          },
+          "requestSha256": "55b3a2a5b5b805727f189bfa292bc04257dc4665595821c561e0ae9d2e6514c1",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-d84ed3c8-6c61-414c-a403-f208f49be492.png. No API/CLI used.",
+          "actualSize": "1024x1536"
+        }
+      },
+      "path": "illustrations/ill-08-three-knocks.png",
+      "after": "b0219-8471122cbd76",
+      "layout": "full-page",
+      "alt": "Voss faces the closed steel door while Tuck reaches beneath his pillow and Cal keeps his phone.",
+      "caption": "",
+      "extraAttempts": [
+        {
+          "actor": "user",
+          "decision": "Context selected by the user:\nI found a pipeline gap: corrections currently redraw the whole scene. I’m adding support for editing the rejected image directly, so this bag fix can preserve the characters that already passed review.\n\nVerbatim user response:\nthis a great idea i hear the new model 2.5 can alot more with ediitng you should research it before making the changes.",
+          "afterAttempt": 3,
+          "at": "2026-09-13T22:21:34+00:00"
+        }
+      ],
+      "actualSize": "1024x1536"
+    }
+  ],
+  "cover": {
+    "id": "cover",
+    "kind": "cover",
+    "path": "cover.jpg",
+    "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+    "reused": true,
+    "prompt": "Reuse the original cover without alteration.",
+    "size": "1024x1536",
+    "references": [
+      "source-cover"
+    ],
+    "attempts": 0,
+    "accepted": {
+      "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+      "inputsSha256": "0d113f0de1ebb290f01fcb6a3b80d8fc78615a2ebdf3e2398e20a76f5df9110c",
+      "evidence": "Coordinator inspected original saved title-image.jpg with view_image. Portrait cover has large ivory Realms lettering across the upper area; wet near-black concrete surrounds a brilliant narrow vertical white seam stitched with dark projections; upward-shaped black droplets, a small golden branching heart light, and a severed cord in the foreground. Reuse these exact cover bytes. Its dark/ivory/gold lighting informs generated references; interior character design instead follows the nine supplied drawings. Cover is visual interpretation, not an independent source of depicted events or canon."
+    }
+  },
+  "approvals": {
+    "plan": {
+      "actor": "user",
+      "decision": "its the 1st attempt at 1st story... so while i think there maybe issues with the plan its hard to tell with out running the skill and seeing the results; so approval giving (knowing we goign to want ot make changes to results and pipeline).\n\nmake sure we using the codex iamge skill (not the API and burring $$$)\n\ni want you review the images 1st and i will do the final review and approveal.\n\nupdatre the repo instructions to change the \"your instruction overrides the repository’s API requirement.  \"\n\n\ni also think we should pull alittle more of the cover image style into the these references.\n\nalso do not mix chracters on a single sheet it will cause issues later; also make sure they name correctly.\n\n\n\nwe shoudl do the same with the location references and only have one place / image ...\n\n\nwe lost the ink style of the character sheets in the location references; try again.\n\nupdate the agent to make sure the location image references match the style of the character sheets.\n\nif there is no style it should default to the anime style we using for the cover images.\n\nContext selected by the user:\nI found a pipeline gap: corrections currently redraw the whole scene. I’m adding support for editing the rejected image directly, so this bag fix can preserve the characters that already passed review.\n\nVerbatim user response:\nthis a great idea i hear the new model 2.5 can alot more with ediitng you should research it before making the changes.\n\nUser revision:\nok; the 1st major change i would make is that since we have the original prose of the story in these [IL] i would just replace them in the github page catalog instead of adding something new on top what is already there.\n\ni dont need the PDF version the web version replace is fine.\n\nUser revision:\nthe replaced version should also include the Writing Prompt; like the previous version.",
+      "at": "2026-09-14T00:07:55+00:00",
+      "inputsSha256": "f59f804434794f0ad4554321a40abd93122ce19cab1f37cf21a2b6e6e94f51cf"
+    },
+    "final": {
+      "actor": "user",
+      "decision": "open a PR",
+      "at": "2026-09-14T00:27:00+00:00",
+      "inputsSha256": "2072f33aadaec63a5ecd94baf6eb596ac947ac3212df745748b37e6e0ebf1594"
+    }
+  },
+  "layoutPreview": {
+    "path": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\index.html",
+    "sha256": "e1b08db2787165af65c4ad158a9dbae02ddb0af65938bd85dd605fe006bf488f",
+    "planSha256": "f59f804434794f0ad4554321a40abd93122ce19cab1f37cf21a2b6e6e94f51cf",
+    "renderer": {
+      "pages/illustrated.css": "df43825a034be924787367e17b29d716caa9f55750c2911b4c0c3c86f024a307",
+      "pages/illustrated_editions.py": "d80a23d7a624a94547697a0e2c68e464d8aad27a1ab66ea9f7ddbb5fc053474d",
+      "pages/build.py": "34e03b27649cf1e258501fcf9271161b93adc1c5f523faa6caa63de1441807e2",
+      "pages/styles.css": "f890d002b92ec529c4877dc77035572838a8ef3255e9c6d783e56f5c78aa6811",
+      "pages/theme.js": "41990ee0754d57962ec6ed209defc7c96dfec681d1e233e82498260064ae83f4",
+      "illustrated/export.mjs": "6a44193b8aad1c769f108c1fdc81927a8e673dc2ebb7b77445e7a8d5518ef8e5",
+      "illustrated/package-lock.json": "17bbdf11d1ff71e2157c025db6ef831a6bc5c6a63ab3b93596c4db6a7f16d804",
+      "pages/fonts/README.md": "96da1e144213443f166b1ac00b2637f2fa63ec7706f05315556e4420ef03ee17",
+      "pages/fonts/source-sans-LICENSE.md": "f9e57d28452ab6162c7fc0d248b5a5e81bf64676a6950d56b2e137c1253f79e8",
+      "pages/fonts/source-serif-LICENSE.md": "c21d7293d87b6d7ab1d0229a2f55b77f33a7613a6a4e66f6693d68d7d8d09464",
+      "pages/fonts/SourceSans3-Regular.woff2": "53492fb3a0def77354f166a55d09b63a10855e91c206c7620a81cf56e97f8ec3",
+      "pages/fonts/SourceSans3-Semibold.woff2": "47b9b661b9f395fe7f0d0e119637fba5c8dad97bde3df60066fd24229c0792f4",
+      "pages/fonts/SourceSerif4-Bold.woff2": "6d4fd4c0f08798a478fe34aafea9bf5cfa1cbc6ae4b834193febaee74254d10c",
+      "pages/fonts/SourceSerif4-It.woff2": "ca3b17ed1e3e668ffd9e03385cfd46e1b095df783de53710d25d41241496026b",
+      "pages/fonts/SourceSerif4-Regular.woff2": "6b053e98f0838afe81f3e784727be4583a7c13bb42f198dc5202ecffee0aaee0"
+    },
+    "dependencies": {
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\illustrated.css": "df43825a034be924787367e17b29d716caa9f55750c2911b4c0c3c86f024a307",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\fonts\\SourceSerif4-Regular.woff2": "6b053e98f0838afe81f3e784727be4583a7c13bb42f198dc5202ecffee0aaee0",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\fonts\\SourceSerif4-It.woff2": "ca3b17ed1e3e668ffd9e03385cfd46e1b095df783de53710d25d41241496026b",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\fonts\\SourceSerif4-Bold.woff2": "6d4fd4c0f08798a478fe34aafea9bf5cfa1cbc6ae4b834193febaee74254d10c",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\fonts\\SourceSans3-Regular.woff2": "53492fb3a0def77354f166a55d09b63a10855e91c206c7620a81cf56e97f8ec3",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\fonts\\SourceSans3-Semibold.woff2": "47b9b661b9f395fe7f0d0e119637fba5c8dad97bde3df60066fd24229c0792f4",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\illustrated\\realms\\cover.jpg": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+      "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\prompt-restoration\\layout\\illustrated\\realms\\sample.png": "fe089ea6b428e0d8c94d584e49a159fea77819d3f00f376abaabac120bfb7ae9"
+    },
+    "evidence": "Inspected current layout at1280 and320 pixels. The Writing Prompt box is fully visible between title and story prose, legible with matching margins and no clipping or horizontal overflow. Its literal blockquote text exactly equals the existing Realms catalog prompt at1280/390/320. The previous selected references and cover remain unchanged; no art regeneration or prose changes."
+  },
+  "backend": "codex-imagegen",
+  "visualReviewPolicy": "assistant",
+  "workflowDecision": {
+    "actor": "user",
+    "decision": "make sure we using the codex iamge skill (not the API and burring $$$)\n\ni want you review the images 1st and i will do the final review and approveal.\n\nupdatre the repo instructions to change the \"your instruction overrides the repository’s API requirement.  \"",
+    "backend": "codex-imagegen",
+    "visualReviewPolicy": "assistant",
+    "at": "2026-09-13T19:15:20+00:00"
+  },
+  "retiredAssets": [
+    {
+      "id": "ref-mercers",
+      "kind": "character",
+      "prompt": "Realms character sheet; fine pen, crosshatching, sepia/olive washes, ivory paper, no lettering/panels. Follow p1/p2 Cal likeness/clothes, p7 rear pack, p8 scuffing. Show travel front/profile/back and worried/determined faces; right corded token. Separate p9-derived clinic half-figure corrected to right palm bandage, ONE right cuff, free left phone hand, absent token, subtle gold below skin. Propose twelve-year-old Lena with dark tied shoulder-length hair/family resemblance: everyday portrait and tired-alert pale-blue-gown hospital view. Same identity across snapshot/jar/phone; no cure. Apply plan's source/design distinctions.\n\nOriginal input inventory and roles. Only the listed asset references are attached to this call; use their matching identities below. The remaining entries are contextual inventory, not additional supplied images. Focus on the sheet subjects requested above:\nAll originals inspected directly with view_image; hashes/evidence are in edition.json. Attachment order is retained below; originals stay external.\n\n| ID / user image | Original path | Useful sheet roles |\n| --- | --- | --- |\n| `source-cover` | `D:\\Development\\BoundlessAi\\story-computing-machine-illustrated-realms\\stories\\realms\\title-image.jpg` | Black/ivory/gold/cord: ref-queen-street, ref-objects; reused cover. |\n| `external-001` / #1 p1 | `D:\\Stories\\Realms\\p1.png` | People/table/seam: ref-mercers, ref-tuck-voss, ref-queen-street, ref-objects. Correct ear/rain/dry floor. |\n| `external-002` / #2 p9 | `D:\\Stories\\Realms\\p9.png` | Clinic faces/materials/gold: same four sheets. Correct one cuff/phone hand/sling/neck marks/invisible dealer. |\n| `external-003` / #3 p2 | `D:\\Stories\\Realms\\p2.png` | Profiles/straps/coats/red-blue: ref-mercers, ref-tuck-voss, ref-deepmarket. No simultaneous crossing. |\n| `external-004` / #4 p5 | `D:\\Stories\\Realms\\p5.png` | Faces/coats/awnings/mirrors/brass: ref-tuck-voss, ref-deepmarket. Exactly three hen heads, no dream sale/sign text. |\n| `external-005` / #5 p4 | `D:\\Stories\\Realms\\p4.png` | Smoke/hand/gate: ref-denizens, ref-deepmarket. Add collection groove; no Priya flashback. |\n| `external-006` / #6 p6 | `D:\\Stories\\Realms\\p6.png` | Proportions/clothes/city/glass: ref-tuck-voss, ref-deepmarket, ref-shop. No extra creature lore. |\n| `external-007` / #7 p7 | `D:\\Stories\\Realms\\p7.png` | Rear pack/calm dealer/shop/jars: ref-mercers, ref-denizens, ref-shop, ref-objects. Old hands/tether explicit. |\n| `external-008` / #8 p8 | `D:\\Stories\\Realms\\p8.png` | Strain/defense/roots/glass: ref-mercers, ref-denizens, ref-shop, ref-objects. Tuck returned at chosen theft moment. |\n| `external-009` / #9 p3 | `D:\\Stories\\Realms\\p3.png` | Approach/road/sleeper/city: ref-deepmarket. Eyes shut, no species assertion. |\n\nSource and proposed visual continuity from this plan. Apply relevant details to the requested sheet only; this context does not request additional subjects or images:\nBlock numbers refer to anchors from `python -m pages.illustrated_editions anchors realms`.\n\n| Person | Source-established details | Proposed edition continuity |\n| --- | --- | --- |\n| Cal | Older brother/first crossing; jacket, clean jeans, borrowed pack, phone/photo, bill in sock, disk on doubled cord (b0006–b0031). Cut palm, stolen jar, lost token, gold beneath skin (b0150–b0169). Bandaged hand, one clinic cuff and free phone hand (b0172–b0202). Numeric age unresolved. | Originals' young-looking face, short dark tousled hair, dark expressive eyes, slight build, short olive-brown high-collar jacket, charcoal jeans, sturdy shoes and tan rectangular canvas pack. Assign no numeric age. Fix RIGHT token wrist/cut palm/clinic cuff, LEFT phone hand; these sides are design choices. Scuff clothes in struggle; clinic shirt rumpled with modest collar, jacket/pack aside. No glow before rooting; token absent afterward. |\n| Lena | Twelve, cardiac illness; saved voice/photo/jar image, then remote hospital call after improvement, not cure (b0007, b0027, b0099, b0182–b0202). Jar image shows her under kitchen table, knees drawn up. | Propose dark loosely tied shoulder-length hair, dark eyes and family resemblance to Cal. Pale everyday top; pale blue hospital gown against pillows. Clearly twelve, tired but alert. Same identity in snapshot, jar label and phone; never physically in Cal's room. Face/hair/clothes are non-canon design proposals. |\n| Tuck | Tall, missing piece of LEFT ear, worn coat, own disk on leather thong beneath sleeve (b0016, b0024). Almost leaves, returns, frees Cal and shoulder-checks avatar (b0132–b0155). Bruises, sling, pale throat rings, boots at bedfoot, reach under pillow (b0169, b0174, b0206, b0218). | Broad frame, light spiky hair, lined/scarred face, chin stubble, long high collar and circular coat hardware. Explicit left-ear notch. Fix LEFT wrist thong/LEFT clinic sling; RIGHT hand reaches under pillow. Open collar reveals throat marks, coat beside boots at bedfoot. No invented concealed weapon. |\n| M. Voss | Woman, silver throat tag; table/tablet/thermos/pistol, case/stamp, later book/phone/evidence pouch. Name expansion, employer and jurisdiction unresolved. | p1/p9 buzz cut, strong brows, ear stud, sleeveless olive-gray practical top, utility straps, dark trousers, narrow silver tag, compact dark pistol. No invented badges/faction/employer or firing. Exact tag wording stays in prose. |\n| Gatekeeper | Warm living smoke, changing faces, stated toll after white groove crossed, brow touch (b0045–b0060). | p4 long fluid form/hand, androgynous main face and generic incomplete faces in smoke. No Priya portrait, kiss flashback or assigned species. |\n| Dealer | Child-shaped shop avatar, gray suit, white hair, unlined face, old-paper hands and shadow tether. Defensive jaw/paper-root structure; final voice only through steel (b0093–b0096, b0133, b0153, b0215–b0219). | Retain p7/p8 small suited silhouette and round ear-like appendages as non-canon creature design without naming species. Calm/defensive forms keep same identity; old hands/tether explicit. Never show dealer, face, silhouette or reflection at final door. |\n\nMother remains offstage; Priya, Tuck's father/abandoned friend and GutSaint72 receive no invented portrait. Source-supported beetle-winged thunder seller, three-headed brass-egg hen, mirror-eyed seller and thin antlered merchant inform environment studies only. Image-only dream selling becomes no new event.\n\n### Places, objects and state changes\n\n| Element | Source-established facts | Proposed design and limits |\n| --- | --- | --- |\n| Queen Street | Twenty-foot white living seam in wet concrete, upward black rain and dry floor below, yellow line/table, buried living vein; adjacent clinic; separate return marks open overlapping circles. | Tall p1 vault allows seam height, table left facing seam, line across approach. Crop graffiti out; no metal sutures/machine. p9 clinic: Cal near-left, Tuck farther-right, chair/surface, opaque steel door back-right. No real-city identifiers or clear door window. |\n| Approach/Deepmarket | Red grass, blue door sky, white road, copper city on sleeping plated being; white gate groove; shell-built market, green wax alley and handleless root wall. | p3 broad shell, eyes shut if visible, no species claim. Road-to-gate-to-city coherent; grass avoids boots. p5/p6 city materials, not extra lore/signs. |\n| Shop | Warm dark roots/shelves/counter; jars of plum-sized light; highest-shelf Lena target; inward-folding defense, temporary escape behind Tuck, milky root fluid. | Counter far wall, target highest rear-right shelf, Tuck to Cal's left. Left-wall escape only during defense; same room compresses. No permanent extra door/machine. |\n| Tokens | Two inert disks store living-seam marks. Cal doubled cord; Tuck leather thong. Cal's disk stays with dealer; Tuck stamped closed. Pouch holds Tuck disk/clipped cord. | Distinct attachments/wear, never necklace/shared token. No Cal disk in return aftermath/clinic. Stored marks do not imply autonomous magic. |\n| Heartseed | Living plum-sized light in inert jar, tuned using records/photo/want/relationship; broken jar allows rooting through fresh palm blood, gold under skin. One transfusion helps Lena without cure. | Cylindrical clear jar/dull lid, irregular ivory-gold light, pictorial Lena-under-table label. Same glass broken. Thin gold below right palm/wrist/chest skin, never exposed anatomical heart/fairy/baby. |\n| Ordinary props | Phone/photo/bill/cash, pack supplies/knife/salt, registration equipment, cuff/bandage/sling/book/envelope/pouch. | Worn contemporary unbranded objects. Dark phone, everyday snapshot distinct from jar picture. No magical knife, new treatment or invented documents. |\n\nOnly living agents use magic. Desire pricing, memory toll, shame gate, salt response and ejection remain local; the rejected bargain is not shown happening. Doors establish no parallel universes, time routes, universal network or Glass Gate connection. Era/real-world Queen Street identity remains unresolved. End at the closed door.",
+      "size": "1536x1024",
+      "references": [
+        "external-001",
+        "external-002",
+        "external-003",
+        "external-007",
+        "external-008"
+      ],
+      "attempts": 3,
+      "sha256": null,
+      "accepted": null,
+      "path": "references/ref-mercers.png",
+      "candidate": {
+        "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-2b8d1895-e619-4d91-b1ac-6fc7eb5f866a.png",
+        "inputsSha256": "bca9857050589532f297fb6a3fead0636b0a31d772415aa474aa3ea90818e2df",
+        "attempt": 3,
+        "correction": "Correct only these two continuity defects in the previous character-sheet concept. (1) The three standing travel turnaround views are the OPENING outfit: jeans and jacket must be clean, intact and uninjured, with NO holes, tears, frayed knees or blood. Keep any scuffing only in the separate action pose. (2) The enlarged route-token wrist detail must be an UNINJURED BARE RIGHT HAND and BARE WRIST with the doubled cord disk. NO bandage on that token detail. Bandage and ONE cuff belong only to the clinic study, where the token is ABSENT and the left hand holds the phone. Preserve the expressive dark-haired Cal, dark tied-hair twelve-year-old Lena, sepia/olive pen-and-wash style, rear pack, clear character-sheet arrangement and non-graphic treatment.\n",
+        "status": "rejected",
+        "backend": "codex-imagegen",
+        "model": "tool-selected",
+        "tool": "image_gen",
+        "promptSha256": "68409a4c08b4e8ccb1600aaaceb88f8994bd85ca29440fc341c9fea6f8e748f7",
+        "sha256": "cd4c42f5eb06aaa6a0d764148662838d7e1671017dd51b8b04566775296e9a20",
+        "outputEvidence": "Actual built-in image_gen__imagegen call completed in coordinator functions.exec after 106.9 seconds. It displayed and saved C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-2b8d1895-e619-4d91-b1ac-6fc7eb5f866a.png. The five assigned originals were supplied for ref-mercers attempt 3. No API/CLI runner was used; backend variant was not reported.",
+        "actualSize": "1536x1024",
+        "evidence": "Coordinator inspected the displayed full PNG. The baseline travel jeans are now intact and the isolated token hand is unbandaged. Cal's clinic study preserves one cuff and a free phone hand; his identity and Lena's appearance remain recognizable. The user now explicitly requests more influence from the source cover style: 'i also think we should pull alittle more of the cover image style into the these references.' Revise the warm, evenly lit sepia treatment toward the cover's deeper blacks, ivory edge light, tactile surface modeling and restrained gold. For the next character-only sheet, keep clear source-separated travel/clinic appearances and avoid ambiguous prop state studies; objects have their own sheet. Do not copy a table-memory snapshot onto the live-call phone; Lena's hospital view is the live-call reference."
+      },
+      "retiredAt": "2026-09-13T19:35:12.415123+00:00",
+      "supersededBy": [
+        "ref-cal-mercer",
+        "ref-lena-mercer"
+      ],
+      "retirementDecision": "also do not mix chracters on a single sheet it will cause issues later; also make sure they name correctly."
+    },
+    {
+      "id": "ref-tuck-voss",
+      "kind": "character",
+      "prompt": "Realms separated character studies, fine pen/sepia-olive wash, ivory paper, no lettering. Tuck from p1/p2/p5/p6: tall broad, light spiky hair, lined face, long coat; explicit LEFT-ear notch and left-wrist leather-thong disk. Front/profile/back, sardonic/wary expressions; separate clinic torso with LEFT sling/throat marks, coat aside. Voss from p1/p9: buzz cut, sleeveless utility clothing, silver tag, compact pistol; full figure/profile/seated posture/equipment. No invented badge, firing or pillow weapon. Preserve approved plan clothing and side choices.\n\nOriginal input inventory and roles. Only the listed asset references are attached to this call; use their matching identities below. The remaining entries are contextual inventory, not additional supplied images. Focus on the sheet subjects requested above:\nAll originals inspected directly with view_image; hashes/evidence are in edition.json. Attachment order is retained below; originals stay external.\n\n| ID / user image | Original path | Useful sheet roles |\n| --- | --- | --- |\n| `source-cover` | `D:\\Development\\BoundlessAi\\story-computing-machine-illustrated-realms\\stories\\realms\\title-image.jpg` | Black/ivory/gold/cord: ref-queen-street, ref-objects; reused cover. |\n| `external-001` / #1 p1 | `D:\\Stories\\Realms\\p1.png` | People/table/seam: ref-mercers, ref-tuck-voss, ref-queen-street, ref-objects. Correct ear/rain/dry floor. |\n| `external-002` / #2 p9 | `D:\\Stories\\Realms\\p9.png` | Clinic faces/materials/gold: same four sheets. Correct one cuff/phone hand/sling/neck marks/invisible dealer. |\n| `external-003` / #3 p2 | `D:\\Stories\\Realms\\p2.png` | Profiles/straps/coats/red-blue: ref-mercers, ref-tuck-voss, ref-deepmarket. No simultaneous crossing. |\n| `external-004` / #4 p5 | `D:\\Stories\\Realms\\p5.png` | Faces/coats/awnings/mirrors/brass: ref-tuck-voss, ref-deepmarket. Exactly three hen heads, no dream sale/sign text. |\n| `external-005` / #5 p4 | `D:\\Stories\\Realms\\p4.png` | Smoke/hand/gate: ref-denizens, ref-deepmarket. Add collection groove; no Priya flashback. |\n| `external-006` / #6 p6 | `D:\\Stories\\Realms\\p6.png` | Proportions/clothes/city/glass: ref-tuck-voss, ref-deepmarket, ref-shop. No extra creature lore. |\n| `external-007` / #7 p7 | `D:\\Stories\\Realms\\p7.png` | Rear pack/calm dealer/shop/jars: ref-mercers, ref-denizens, ref-shop, ref-objects. Old hands/tether explicit. |\n| `external-008` / #8 p8 | `D:\\Stories\\Realms\\p8.png` | Strain/defense/roots/glass: ref-mercers, ref-denizens, ref-shop, ref-objects. Tuck returned at chosen theft moment. |\n| `external-009` / #9 p3 | `D:\\Stories\\Realms\\p3.png` | Approach/road/sleeper/city: ref-deepmarket. Eyes shut, no species assertion. |\n\nSource and proposed visual continuity from this plan. Apply relevant details to the requested sheet only; this context does not request additional subjects or images:\nBlock numbers refer to anchors from `python -m pages.illustrated_editions anchors realms`.\n\n| Person | Source-established details | Proposed edition continuity |\n| --- | --- | --- |\n| Cal | Older brother/first crossing; jacket, clean jeans, borrowed pack, phone/photo, bill in sock, disk on doubled cord (b0006–b0031). Cut palm, stolen jar, lost token, gold beneath skin (b0150–b0169). Bandaged hand, one clinic cuff and free phone hand (b0172–b0202). Numeric age unresolved. | Originals' young-looking face, short dark tousled hair, dark expressive eyes, slight build, short olive-brown high-collar jacket, charcoal jeans, sturdy shoes and tan rectangular canvas pack. Assign no numeric age. Fix RIGHT token wrist/cut palm/clinic cuff, LEFT phone hand; these sides are design choices. Scuff clothes in struggle; clinic shirt rumpled with modest collar, jacket/pack aside. No glow before rooting; token absent afterward. |\n| Lena | Twelve, cardiac illness; saved voice/photo/jar image, then remote hospital call after improvement, not cure (b0007, b0027, b0099, b0182–b0202). Jar image shows her under kitchen table, knees drawn up. | Propose dark loosely tied shoulder-length hair, dark eyes and family resemblance to Cal. Pale everyday top; pale blue hospital gown against pillows. Clearly twelve, tired but alert. Same identity in snapshot, jar label and phone; never physically in Cal's room. Face/hair/clothes are non-canon design proposals. |\n| Tuck | Tall, missing piece of LEFT ear, worn coat, own disk on leather thong beneath sleeve (b0016, b0024). Almost leaves, returns, frees Cal and shoulder-checks avatar (b0132–b0155). Bruises, sling, pale throat rings, boots at bedfoot, reach under pillow (b0169, b0174, b0206, b0218). | Broad frame, light spiky hair, lined/scarred face, chin stubble, long high collar and circular coat hardware. Explicit left-ear notch. Fix LEFT wrist thong/LEFT clinic sling; RIGHT hand reaches under pillow. Open collar reveals throat marks, coat beside boots at bedfoot. No invented concealed weapon. |\n| M. Voss | Woman, silver throat tag; table/tablet/thermos/pistol, case/stamp, later book/phone/evidence pouch. Name expansion, employer and jurisdiction unresolved. | p1/p9 buzz cut, strong brows, ear stud, sleeveless olive-gray practical top, utility straps, dark trousers, narrow silver tag, compact dark pistol. No invented badges/faction/employer or firing. Exact tag wording stays in prose. |\n| Gatekeeper | Warm living smoke, changing faces, stated toll after white groove crossed, brow touch (b0045–b0060). | p4 long fluid form/hand, androgynous main face and generic incomplete faces in smoke. No Priya portrait, kiss flashback or assigned species. |\n| Dealer | Child-shaped shop avatar, gray suit, white hair, unlined face, old-paper hands and shadow tether. Defensive jaw/paper-root structure; final voice only through steel (b0093–b0096, b0133, b0153, b0215–b0219). | Retain p7/p8 small suited silhouette and round ear-like appendages as non-canon creature design without naming species. Calm/defensive forms keep same identity; old hands/tether explicit. Never show dealer, face, silhouette or reflection at final door. |\n\nMother remains offstage; Priya, Tuck's father/abandoned friend and GutSaint72 receive no invented portrait. Source-supported beetle-winged thunder seller, three-headed brass-egg hen, mirror-eyed seller and thin antlered merchant inform environment studies only. Image-only dream selling becomes no new event.\n\n### Places, objects and state changes\n\n| Element | Source-established facts | Proposed design and limits |\n| --- | --- | --- |\n| Queen Street | Twenty-foot white living seam in wet concrete, upward black rain and dry floor below, yellow line/table, buried living vein; adjacent clinic; separate return marks open overlapping circles. | Tall p1 vault allows seam height, table left facing seam, line across approach. Crop graffiti out; no metal sutures/machine. p9 clinic: Cal near-left, Tuck farther-right, chair/surface, opaque steel door back-right. No real-city identifiers or clear door window. |\n| Approach/Deepmarket | Red grass, blue door sky, white road, copper city on sleeping plated being; white gate groove; shell-built market, green wax alley and handleless root wall. | p3 broad shell, eyes shut if visible, no species claim. Road-to-gate-to-city coherent; grass avoids boots. p5/p6 city materials, not extra lore/signs. |\n| Shop | Warm dark roots/shelves/counter; jars of plum-sized light; highest-shelf Lena target; inward-folding defense, temporary escape behind Tuck, milky root fluid. | Counter far wall, target highest rear-right shelf, Tuck to Cal's left. Left-wall escape only during defense; same room compresses. No permanent extra door/machine. |\n| Tokens | Two inert disks store living-seam marks. Cal doubled cord; Tuck leather thong. Cal's disk stays with dealer; Tuck stamped closed. Pouch holds Tuck disk/clipped cord. | Distinct attachments/wear, never necklace/shared token. No Cal disk in return aftermath/clinic. Stored marks do not imply autonomous magic. |\n| Heartseed | Living plum-sized light in inert jar, tuned using records/photo/want/relationship; broken jar allows rooting through fresh palm blood, gold under skin. One transfusion helps Lena without cure. | Cylindrical clear jar/dull lid, irregular ivory-gold light, pictorial Lena-under-table label. Same glass broken. Thin gold below right palm/wrist/chest skin, never exposed anatomical heart/fairy/baby. |\n| Ordinary props | Phone/photo/bill/cash, pack supplies/knife/salt, registration equipment, cuff/bandage/sling/book/envelope/pouch. | Worn contemporary unbranded objects. Dark phone, everyday snapshot distinct from jar picture. No magical knife, new treatment or invented documents. |\n\nOnly living agents use magic. Desire pricing, memory toll, shame gate, salt response and ejection remain local; the rejected bargain is not shown happening. Doors establish no parallel universes, time routes, universal network or Glass Gate connection. Era/real-world Queen Street identity remains unresolved. End at the closed door.",
+      "size": "1536x1024",
+      "references": [
+        "external-001",
+        "external-002",
+        "external-003",
+        "external-004",
+        "external-006"
+      ],
+      "attempts": 0,
+      "sha256": null,
+      "accepted": null,
+      "path": "references/ref-tuck-voss.png",
+      "retiredAt": "2026-09-13T19:35:12.415164+00:00",
+      "supersededBy": [
+        "ref-tuck",
+        "ref-m-voss"
+      ],
+      "retirementDecision": "also do not mix chracters on a single sheet it will cause issues later; also make sure they name correctly."
+    },
+    {
+      "id": "ref-denizens",
+      "kind": "character",
+      "prompt": "Realms creature studies, fine pen and translucent sepia wash, no lettering. p4 gatekeeper: whole smoke silhouette, long hand/detail, generic incomplete faces, no Priya/kiss portrait. p7 dealer: same white-haired gray-suited child-shaped AVATAR with rounded appendages, calm front/three-quarter, conspicuously old-paper hands and thin shadow-root tether. p8 defensive version retains identity, jaw opens too far, paper surface/braided roots, no human gore. Separate views, readable anatomy; no assigned species or visible clinic dealer.\n\nOriginal input inventory and roles. Only the listed asset references are attached to this call; use their matching identities below. The remaining entries are contextual inventory, not additional supplied images. Focus on the sheet subjects requested above:\nAll originals inspected directly with view_image; hashes/evidence are in edition.json. Attachment order is retained below; originals stay external.\n\n| ID / user image | Original path | Useful sheet roles |\n| --- | --- | --- |\n| `source-cover` | `D:\\Development\\BoundlessAi\\story-computing-machine-illustrated-realms\\stories\\realms\\title-image.jpg` | Black/ivory/gold/cord: ref-queen-street, ref-objects; reused cover. |\n| `external-001` / #1 p1 | `D:\\Stories\\Realms\\p1.png` | People/table/seam: ref-mercers, ref-tuck-voss, ref-queen-street, ref-objects. Correct ear/rain/dry floor. |\n| `external-002` / #2 p9 | `D:\\Stories\\Realms\\p9.png` | Clinic faces/materials/gold: same four sheets. Correct one cuff/phone hand/sling/neck marks/invisible dealer. |\n| `external-003` / #3 p2 | `D:\\Stories\\Realms\\p2.png` | Profiles/straps/coats/red-blue: ref-mercers, ref-tuck-voss, ref-deepmarket. No simultaneous crossing. |\n| `external-004` / #4 p5 | `D:\\Stories\\Realms\\p5.png` | Faces/coats/awnings/mirrors/brass: ref-tuck-voss, ref-deepmarket. Exactly three hen heads, no dream sale/sign text. |\n| `external-005` / #5 p4 | `D:\\Stories\\Realms\\p4.png` | Smoke/hand/gate: ref-denizens, ref-deepmarket. Add collection groove; no Priya flashback. |\n| `external-006` / #6 p6 | `D:\\Stories\\Realms\\p6.png` | Proportions/clothes/city/glass: ref-tuck-voss, ref-deepmarket, ref-shop. No extra creature lore. |\n| `external-007` / #7 p7 | `D:\\Stories\\Realms\\p7.png` | Rear pack/calm dealer/shop/jars: ref-mercers, ref-denizens, ref-shop, ref-objects. Old hands/tether explicit. |\n| `external-008` / #8 p8 | `D:\\Stories\\Realms\\p8.png` | Strain/defense/roots/glass: ref-mercers, ref-denizens, ref-shop, ref-objects. Tuck returned at chosen theft moment. |\n| `external-009` / #9 p3 | `D:\\Stories\\Realms\\p3.png` | Approach/road/sleeper/city: ref-deepmarket. Eyes shut, no species assertion. |\n\nSource and proposed visual continuity from this plan. Apply relevant details to the requested sheet only; this context does not request additional subjects or images:\nBlock numbers refer to anchors from `python -m pages.illustrated_editions anchors realms`.\n\n| Person | Source-established details | Proposed edition continuity |\n| --- | --- | --- |\n| Cal | Older brother/first crossing; jacket, clean jeans, borrowed pack, phone/photo, bill in sock, disk on doubled cord (b0006–b0031). Cut palm, stolen jar, lost token, gold beneath skin (b0150–b0169). Bandaged hand, one clinic cuff and free phone hand (b0172–b0202). Numeric age unresolved. | Originals' young-looking face, short dark tousled hair, dark expressive eyes, slight build, short olive-brown high-collar jacket, charcoal jeans, sturdy shoes and tan rectangular canvas pack. Assign no numeric age. Fix RIGHT token wrist/cut palm/clinic cuff, LEFT phone hand; these sides are design choices. Scuff clothes in struggle; clinic shirt rumpled with modest collar, jacket/pack aside. No glow before rooting; token absent afterward. |\n| Lena | Twelve, cardiac illness; saved voice/photo/jar image, then remote hospital call after improvement, not cure (b0007, b0027, b0099, b0182–b0202). Jar image shows her under kitchen table, knees drawn up. | Propose dark loosely tied shoulder-length hair, dark eyes and family resemblance to Cal. Pale everyday top; pale blue hospital gown against pillows. Clearly twelve, tired but alert. Same identity in snapshot, jar label and phone; never physically in Cal's room. Face/hair/clothes are non-canon design proposals. |\n| Tuck | Tall, missing piece of LEFT ear, worn coat, own disk on leather thong beneath sleeve (b0016, b0024). Almost leaves, returns, frees Cal and shoulder-checks avatar (b0132–b0155). Bruises, sling, pale throat rings, boots at bedfoot, reach under pillow (b0169, b0174, b0206, b0218). | Broad frame, light spiky hair, lined/scarred face, chin stubble, long high collar and circular coat hardware. Explicit left-ear notch. Fix LEFT wrist thong/LEFT clinic sling; RIGHT hand reaches under pillow. Open collar reveals throat marks, coat beside boots at bedfoot. No invented concealed weapon. |\n| M. Voss | Woman, silver throat tag; table/tablet/thermos/pistol, case/stamp, later book/phone/evidence pouch. Name expansion, employer and jurisdiction unresolved. | p1/p9 buzz cut, strong brows, ear stud, sleeveless olive-gray practical top, utility straps, dark trousers, narrow silver tag, compact dark pistol. No invented badges/faction/employer or firing. Exact tag wording stays in prose. |\n| Gatekeeper | Warm living smoke, changing faces, stated toll after white groove crossed, brow touch (b0045–b0060). | p4 long fluid form/hand, androgynous main face and generic incomplete faces in smoke. No Priya portrait, kiss flashback or assigned species. |\n| Dealer | Child-shaped shop avatar, gray suit, white hair, unlined face, old-paper hands and shadow tether. Defensive jaw/paper-root structure; final voice only through steel (b0093–b0096, b0133, b0153, b0215–b0219). | Retain p7/p8 small suited silhouette and round ear-like appendages as non-canon creature design without naming species. Calm/defensive forms keep same identity; old hands/tether explicit. Never show dealer, face, silhouette or reflection at final door. |\n\nMother remains offstage; Priya, Tuck's father/abandoned friend and GutSaint72 receive no invented portrait. Source-supported beetle-winged thunder seller, three-headed brass-egg hen, mirror-eyed seller and thin antlered merchant inform environment studies only. Image-only dream selling becomes no new event.\n\n### Places, objects and state changes\n\n| Element | Source-established facts | Proposed design and limits |\n| --- | --- | --- |\n| Queen Street | Twenty-foot white living seam in wet concrete, upward black rain and dry floor below, yellow line/table, buried living vein; adjacent clinic; separate return marks open overlapping circles. | Tall p1 vault allows seam height, table left facing seam, line across approach. Crop graffiti out; no metal sutures/machine. p9 clinic: Cal near-left, Tuck farther-right, chair/surface, opaque steel door back-right. No real-city identifiers or clear door window. |\n| Approach/Deepmarket | Red grass, blue door sky, white road, copper city on sleeping plated being; white gate groove; shell-built market, green wax alley and handleless root wall. | p3 broad shell, eyes shut if visible, no species claim. Road-to-gate-to-city coherent; grass avoids boots. p5/p6 city materials, not extra lore/signs. |\n| Shop | Warm dark roots/shelves/counter; jars of plum-sized light; highest-shelf Lena target; inward-folding defense, temporary escape behind Tuck, milky root fluid. | Counter far wall, target highest rear-right shelf, Tuck to Cal's left. Left-wall escape only during defense; same room compresses. No permanent extra door/machine. |\n| Tokens | Two inert disks store living-seam marks. Cal doubled cord; Tuck leather thong. Cal's disk stays with dealer; Tuck stamped closed. Pouch holds Tuck disk/clipped cord. | Distinct attachments/wear, never necklace/shared token. No Cal disk in return aftermath/clinic. Stored marks do not imply autonomous magic. |\n| Heartseed | Living plum-sized light in inert jar, tuned using records/photo/want/relationship; broken jar allows rooting through fresh palm blood, gold under skin. One transfusion helps Lena without cure. | Cylindrical clear jar/dull lid, irregular ivory-gold light, pictorial Lena-under-table label. Same glass broken. Thin gold below right palm/wrist/chest skin, never exposed anatomical heart/fairy/baby. |\n| Ordinary props | Phone/photo/bill/cash, pack supplies/knife/salt, registration equipment, cuff/bandage/sling/book/envelope/pouch. | Worn contemporary unbranded objects. Dark phone, everyday snapshot distinct from jar picture. No magical knife, new treatment or invented documents. |\n\nOnly living agents use magic. Desire pricing, memory toll, shame gate, salt response and ejection remain local; the rejected bargain is not shown happening. Doors establish no parallel universes, time routes, universal network or Glass Gate connection. Era/real-world Queen Street identity remains unresolved. End at the closed door.",
+      "size": "1536x1024",
+      "references": [
+        "external-005",
+        "external-007",
+        "external-008"
+      ],
+      "attempts": 0,
+      "sha256": null,
+      "accepted": null,
+      "path": "references/ref-denizens.png",
+      "retiredAt": "2026-09-13T19:35:12.415189+00:00",
+      "supersededBy": [
+        "ref-smoke-gatekeeper",
+        "ref-dealer-avatar"
+      ],
+      "retirementDecision": "also do not mix chracters on a single sheet it will cause issues later; also make sure they name correctly."
+    },
+    {
+      "id": "ref-queen-street",
+      "kind": "location",
+      "prompt": "Queen Street environment reference, no character portraits. The cover contributes deep concrete blacks, brilliant ivory seam light and tactile pitting; p1 supplies vaulted tunnel/table placement. Show a twenty-foot living white seam, table left, yellow line, buried living vein, upward black rain and DRY floor directly below it. No metal sutures or copied graffiti. Separate p9-derived clinic perspective: near-left bed for Cal, farther-right for Tuck, chair/surface and opaque closed steel door back-right. No dealer, door window face, new institution or treatment. Preserve pen line, spatial clarity and physical materials; use only neutral scale markers if needed.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-001 = p1.png; external-002 = p9.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-001",
+        "external-002"
+      ],
+      "attempts": 2,
+      "sha256": "49a19ee249a13ce9142da36f2d49c7038e7a33de354efe90752061869265b887",
+      "accepted": {
+        "sha256": "49a19ee249a13ce9142da36f2d49c7038e7a33de354efe90752061869265b887",
+        "inputsSha256": "7e5a5aba11ded4a0db0ca42e9054870a2b90e29ad7740779f4f298afe58fbd34",
+        "evidence": "PASS visible saved pixels: tall luminous living seam in vaulted concrete, dark interior without heart/root overlay, suspended black drops with upward tails, clear matte dry patch below seam separated from wet foreground at yellow line. Left table/tablet/thermos/pistol/case appropriate. Clinic near-left/far-right beds, side surface, opaque closed reinforced door, no figure/window. No main character portraits. Strong cover-derived material/lighting without symbolic cover contents.",
+        "generation": {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-c38e257e-44ab-4b3e-8b1d-2cf80736e323.png",
+          "attempt": 2,
+          "correction": "Correct tunnel only: a CLEAR LARGE MATTE DRY PATCH of pale dusty concrete directly below and around the bottom of the living white seam; no puddle/reflection/wet sheen in that patch. Wet reflective floor may remain farther away. The tall opening has luminous irregular LIVING WHITE EDGES and a dark interior: NO GOLD ROOT, NO HEART, NO STAR in its center, NO METAL STITCHES/BARS crossing it. Black rain visibly rises upward with narrow tails below suspended drops, never pooling beneath. Cover used only for black/ivory lighting and concrete texture. Keep registration table at left/yellow line, same clinic two-bed geometry and opaque closed door. No people.\n",
+          "backend": "codex-imagegen",
+          "model": "tool-selected",
+          "tool": "image_gen",
+          "promptSha256": "36e1f57c4da64cd47e42dfec525444e1d9d63d28e5b5b78855c575387b8f3288",
+          "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-c38e257e-44ab-4b3e-8b1d-2cf80736e323.png. No API/CLI used.",
+          "actualSize": "1536x1024"
+        }
+      },
+      "path": "references/ref-queen-street.png",
+      "actualSize": "1536x1024",
+      "retiredAt": "2026-09-13T20:09:49+00:00",
+      "supersededBy": [
+        "ref-queen-street-tunnel",
+        "ref-queen-street-clinic"
+      ],
+      "retirementDecision": "we shoudl do the same with the location references and only have one place / image ...",
+      "retiredFilePath": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-illustrated-realms\\retired-ref-queen-street.png"
+    },
+    {
+      "id": "ref-deepmarket",
+      "kind": "location",
+      "prompt": "Deepmarket location reference, no character portraits. p3 supplies red grass, white road, blue door sky and copper city on a sleeping plated being, eyes shut if visible. p4 supplies city gate with WHITE consent collection groove; p5/p6 supply shell-built awnings, copper, glass and source-supported stalls. The cover adds stronger ivory illumination, deep defined shadow planes and tactile material finish without erasing the red/blue palette. Include a small green-wax alley/root-wall study. No dream sale, invented signage, universal portal diagram, assigned species or extra lore. Clear road-gate-city scale; no main character figures.\n\nSupplied image roles: source-cover = original Realms cover: lighting, texture and finish, not character identity; external-004 = p5.png; external-005 = p4.png; external-006 = p6.png; external-009 = p3.png.",
+      "size": "1536x1024",
+      "references": [
+        "source-cover",
+        "external-004",
+        "external-005",
+        "external-006",
+        "external-009"
+      ],
+      "attempts": 2,
+      "sha256": null,
+      "accepted": null,
+      "path": "references/ref-deepmarket.png",
+      "candidate": {
+        "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-bf599e98-afb4-4065-a309-527010c54396.png",
+        "inputsSha256": "7f92396c35546e2c8a4f9cbeabea51f00ab41f4107ee8b1ffb3f426d395f48a6",
+        "attempt": 2,
+        "correction": "Make a DEVELOPMENT SHEET with THREE clearly separate environmental studies, not one composite geography. (1) upper wide approach panorama: uninterrupted RED GRASS, WHITE ROAD toward copper city ON TOP OF a sleeping plated giant, eyelids fully CLOSED, BLUE SKY of floating doors. No foreground market stalls here. (2) lower-left inside-city gate/market street study: copper buildings and awnings ON THE SHELL, ordinary open arch entrance, clear WHITE GROOVE across paving. No giant vertical glowing portal/seam or enormous closed glowing doors. (3) lower-right narrow green-wax alley terminating in HANDLELESS ROOT WALL. No main characters, no magical gatebeam, no open giant eye. Keep pen structure with rich black shadows/ivory highlights/copper surfaces. Small accurate location labels allowed.\n",
+        "status": "rejected",
+        "backend": "codex-imagegen",
+        "model": "tool-selected",
+        "tool": "image_gen",
+        "promptSha256": "21038c72ab0d883ef285472201788ebe3518354a6e2879846f07519091b3961e",
+        "sha256": "8a19d2a708bc31d07156a27abf8cba7a97e3bdd628d75fd0b6ea3d363231b2fc",
+        "outputEvidence": "Built-in image_gen completed and returned C:\\Users\\jamie\\.codex\\generated_images\\01a09bf8-589b-70c3-b9d9-e8fec754a9eb\\exec-bf599e98-afb4-4065-a309-527010c54396.png. No API/CLI used.",
+        "actualSize": "1536x1024",
+        "evidence": "SUPERSEDED by explicit user instruction after visible review. Three separate studies now clarify approach/market/alley and remove giant portal beam, but user requires one place per image. Do not use this combined location sheet in scenes. Retain both attempts and generated output history while splitting into separately named place references."
+      },
+      "retiredAt": "2026-09-13T20:09:49+00:00",
+      "supersededBy": [
+        "ref-deepmarket-approach",
+        "ref-deepmarket-gate",
+        "ref-deepmarket-market",
+        "ref-green-wax-alley"
+      ],
+      "retirementDecision": "we shoudl do the same with the location references and only have one place / image ..."
+    }
+  ],
+  "visualReview": {
+    "actor": "assistant",
+    "reviewer": "coordinator",
+    "evidence": "Coordinator visually inspected original cover and all fourteen selected reference images: six correctly named single-character sheets, seven separately named single-place environments, one object/state sheet. Corrected token placement, Lena costume, Tuck left-ear notch/neck marks, role heading, location splits and ink-style drift. Revised location pixels are visibly hand-inked with contours/hatching/restrained washes matching accepted character sheets. Corrected evidence pouch holds Tuck disk/snipped leather only; jar memory/hospital call distinct. Reference inputs remain external or approved sheets, source unchanged. Inspected desktop/mobile layout cover/inline sample, readable/no overflow. PASS assistant intermediate review, not user final approval; final scene/PDF review remains required.\n\nWeb-only revision: selected reference and cover hashes remain unchanged. Inspected the newly generated web layout at desktop1280 and mobile390 pixels. Cover retains all pixels and proportions; Source Serif prose, source scene-break styling and the example image are legible, with no overflow or overlap. This web-only revision uses the previously inspected unchanged selected reference/cover bytes. Final reader will have Library/theme navigation at the source story URL and no PDF download or Original story self-link.\n\nWriting Prompt restoration: Inspected current layout at1280 and320 pixels. The Writing Prompt box is fully visible between title and story prose, legible with matching margins and no clipping or horizontal overflow. Its literal blockquote text exactly equals the existing Realms catalog prompt at1280/390/320. The previous selected references and cover remain unchanged; no art regeneration or prose changes.",
+    "at": "2026-09-14T00:10:28+00:00",
+    "inputsSha256": "4a87d5c9be752e5e8327774a72a510d3e7b1bdd26bb7365857b7944855bd1bfd"
+  },
+  "outputFormat": "web",
+  "outputDecision": {
+    "actor": "user",
+    "decision": "ok; the 1st major change i would make is that since we have the original prose of the story in these [IL] i would just replace them in the github page catalog instead of adding something new on top what is already there.\n\ni dont need the PDF version the web version replace is fine.",
+    "at": "2026-09-13T23:39:59+00:00"
+  },
+  "render": {
+    "inputsSha256": "4d0513ea77a168f7338ba2b09cdabc29ee794fe2d9064596e1851f86255b713e",
+    "htmlSha256": "2a4425b8c3b743106db184ac8a726c4fcbacd1a599e003bc560c8263482ceca0"
+  },
+  "review": {
+    "verdict": "PASS",
+    "reviewer": "/root/review_writing_prompt",
+    "evidence": "# Illustrated edition review\n\nVerdict: PASS\nReviewer: /root/review_writing_prompt (Writing Prompt restoration); retained prior edition assessments by /root/catalog_entry_flow and /root/review_realms_edition\n\n- Source fidelity: PASS\n- Visual continuity: PASS\n- Web readability: PASS\n- Every PDF page: NOT REQUESTED\n\n## Findings\n\n- Blocking: none\n- Review scope: Independent review of the restored reader-facing Writing Prompt and its effect on the final web edition. This reviewer did not implement the renderer, write the prose or generate the artwork. Prior complete prose, artwork and reader assessments are retained where their inputs remain unchanged; fresh observations and comparisons are distinguished below.\n- Evidence — source: Read the complete canon-locked bundle prose and recorded source prompt before inspecting the final reader. All four pinned source-file hashes match. Independently confirmed that the complete `edition-prose` article is byte-identical to the previously reviewed document preserved as `prompt-restoration/previous-edition.html`. The current HTML and live reader retain all 219 source blocks and eight scene figures; the HTML preserves four scene breaks, eight emphasis spans and one strong span. The prior independent semantic comparison of punctuation, emphasis and ordering remains applicable. No source prose changed.\n- Evidence — Writing Prompt: The selectable blockquote exactly equals the Realms `prompt` string in `pages/catalog.json`, including its em dash and final period. It contains the original three-sentence heartseed premise, with no `[WP]` marker or illustrated-workflow instructions. The section follows the cover/title and precedes the first prose paragraph. Its `Writing Prompt` level-two heading labels the section through `aria-labelledby`; it remains separate from the story article and source anchors.\n- Evidence — artwork: The original complete review by `/root/review_realms_edition` inspected the cover, nine external originals, fourteen selected references and eight scenes. It passed names, single-identity sheets, single-place environments, source events, ink contours, hatching, restrained washes and continuity. This reviewer freshly inspected the cover, all fourteen selected references and all eight selected scenes, and independently verified all 23 selected-asset hashes. Cal retains his right token before rooting, then the right bandage/cuff and left phone hand; Lena appears remotely; Tuck retains his left sling. The final steel door is opaque, the pillow object remains concealed, and the clear pouch visibly contains Tuck's stamped disk and clipped cord. No new visible integrity or continuity blocker was found.\n- Evidence — responsive reader: Independently inspected the live prompt at 390 pixels in light mode and 320 pixels in dark mode, and the coordinator's final 1280- and 320-pixel light-mode screenshots. The full prompt wraps inside its border with clear padding and separation from the title and opening prose; no clipping, overlap or horizontal overflow is visible. The live accessibility tree includes the complete story and all nine descriptive image alternatives. Both theme directions work, and Library navigation opens the existing index. The earlier complete-reader spacing, image-placement, cover-proportion and keyboard-focus assessment remains applicable to the unchanged article. The Library still shows one Realms card with its illustrated label and source metadata. The reader has no Original story or PDF link.\n- Evidence — requested output: This is the requested web-only edition. No PDF is part of the current deliverable; historical PDF evidence is not a current output gate.\n- Reviewed output: `illustrated/realms/edition.html`, SHA-256 `2a4425b8c3b743106db184ac8a726c4fcbacd1a599e003bc560c8263482ceca0`, independently verified byte-identical to `C:/Users/jamie/AppData/Local/Temp/codex-illustrated-realms/edition-preview/stories/realms.html`, served at `http://127.0.0.1:8765/stories/realms.html`. Final user approval is absent. This review grants no publication approval and changes only this review file.",
+    "sha256": "54e1eee1a95fdd46b4782335b993e89154e0a5595cd99c62ee814f43b959cd57",
+    "inputsSha256": "4d0513ea77a168f7338ba2b09cdabc29ee794fe2d9064596e1851f86255b713e",
+    "htmlSha256": "2a4425b8c3b743106db184ac8a726c4fcbacd1a599e003bc560c8263482ceca0"
+  }
+}
