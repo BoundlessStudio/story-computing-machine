@@ -521,6 +521,8 @@ def stage_digest(root: Path, manifest: dict[str, Any], stage: str) -> str:
         return _digest(payload)
     if stage == "final":
         payload.update(render=manifest.get("render"), review=manifest.get("review"))
+        if "reviewFindingsAcceptance" in manifest:
+            payload["reviewFindingsAcceptance"] = manifest["reviewFindingsAcceptance"]
         return _digest(payload)
     raise ValueError(f"Unknown approval stage: {stage}")
 
@@ -731,6 +733,56 @@ def _check_review(root: Path, manifest: dict[str, Any]) -> None:
         raise ValueError("A fresh independent passing review must cover the exact web reader, illustrations and requested outputs")
 
 
+def _check_artwork_review_report(root: Path, manifest: dict[str, Any], reviewer: str) -> Path:
+    """Only documented artwork findings can receive a user publication exception."""
+    path = edition_directory(root, manifest["slug"]) / "review.md"
+    if not path.is_file():
+        raise ValueError("An independent REVISE review.md is required before accepting artwork findings")
+    report = _text(path)
+    if re.findall(r"(?m)^Verdict:\s*(\S+)\s*$", report) != ["REVISE"]:
+        raise ValueError("Independent review.md must declare exactly one Verdict: REVISE")
+    if re.findall(r"(?m)^Reviewer:[ \t]*([^\r\n]+)", report) != [reviewer]:
+        raise ValueError("The independent REVISE report must name the matching reviewer")
+    verdicts = []
+    for label in ("Source fidelity", "Visual continuity"):
+        result = re.findall(rf"(?m)^- {re.escape(label)}:\s*(\S+)\s*$", report)
+        if len(result) != 1 or result[0] not in {"PASS", "REVISE"}:
+            raise ValueError(f"Independent artwork review must declare PASS or REVISE for {label}")
+        verdicts += result
+    if "REVISE" not in verdicts:
+        raise ValueError("A publication exception requires documented artwork REVISE findings")
+    findings = re.findall(r"(?m)^- Blocking(?:[ \t]*[:\u2014\u2013][ \t]*)([^\r\n]+)", report)
+    if not any(finding.strip().lower() not in {"none", "pending"} for finding in findings):
+        raise ValueError("The independent REVISE report must document its blocking artwork findings")
+    if re.findall(r"(?m)^- Web readability:\s*(\S+)\s*$", report) != ["PASS"]:
+        raise ValueError("Artwork findings acceptance requires Web readability: PASS")
+    pdf_verdict = "PASS" if pdf_requested(manifest) else "NOT REQUESTED"
+    if re.findall(r"(?m)^- Every PDF page:\s*([^\r\n]+)", report) != [pdf_verdict]:
+        raise ValueError(f"Independent PDF review must declare {pdf_verdict}")
+    return path
+
+
+def _check_publication_review(root: Path, manifest: dict[str, Any]) -> None:
+    acceptance = manifest.get("reviewFindingsAcceptance")
+    if acceptance is None:
+        _check_review(root, manifest)
+        return
+    _check_output(root, manifest)
+    if (not isinstance(acceptance, dict) or acceptance.get("actor") != "user"
+            or not isinstance(acceptance.get("decision"), str) or not acceptance["decision"].strip()
+            or acceptance.get("verdict") != "REVISE"
+            or acceptance.get("scope") != ["Source fidelity", "Visual continuity"]
+            or not isinstance(acceptance.get("reviewer"), str) or not acceptance["reviewer"].strip()
+            or not isinstance(acceptance.get("evidence"), str) or not acceptance["evidence"].strip()):
+        raise ValueError("An explicit user acceptance of independent artwork findings is required")
+    path = _check_artwork_review_report(root, manifest, acceptance["reviewer"])
+    output = manifest["render"]
+    if (acceptance.get("inputsSha256") != stage_digest(root, manifest, "render")
+            or acceptance.get("sha256") != file_hash(path, text=True)
+            or any(acceptance.get(key) != output.get(key) for key in ("htmlSha256", "pdfSha256"))):
+        raise ValueError("User acceptance of artwork findings is stale; it must cover the exact independent review and rendered outputs")
+
+
 def validate_edition(root: Path, slug: str, phase: str = "draft") -> dict[str, Any]:
     manifest = load_edition(root, slug)
     verify_source(root, manifest)
@@ -750,9 +802,11 @@ def validate_edition(root: Path, slug: str, phase: str = "draft") -> dict[str, A
         return manifest
     if phase not in {"review", "final", "capture"}:
         raise ValueError(f"Unknown validation phase: {phase}")
-    _check_review(root, manifest)
     if phase in {"final", "capture"}:
+        _check_publication_review(root, manifest)
         _require_approval(root, manifest, "final")
+    else:
+        _check_review(root, manifest)
     return manifest
 
 
@@ -765,7 +819,7 @@ def approve(root: Path, slug: str, stage: str, decision: str, *, actor: str = "u
         _check_visuals(root, manifest, preview_file=True)
     elif stage == "final":
         _check_render(root, manifest)
-        _check_review(root, manifest)
+        _check_publication_review(root, manifest)
     elif stage != "plan":
         raise ValueError("Approval stage must be plan, visuals or final")
     manifest["approvals"][stage] = {"actor": "user", "decision": decision, "at": _now(), "inputsSha256": stage_digest(root, manifest, stage)}
@@ -1143,6 +1197,33 @@ def record_review(root: Path, slug: str, reviewer: str, evidence: str) -> dict[s
     if re.findall(r"(?m)^- Blocking:\s*(.*?)\s*$", report) != ["none"]:
         raise ValueError("Independent review must declare Blocking: none")
     manifest["review"] = {"verdict": "PASS", "reviewer": _nonempty(reviewer, "Fresh independent reviewer identity"), "evidence": _nonempty(evidence, "Review evidence for the web reader and requested outputs"), "sha256": file_hash(path, text=True), "inputsSha256": stage_digest(root, manifest, "render"), **{key: manifest["render"][key] for key in ("htmlSha256", "pdfSha256") if key in manifest["render"]}}
+    manifest.pop("reviewFindingsAcceptance", None)
+    save_edition(root, manifest)
+    return manifest
+
+
+def accept_review_findings(root: Path, slug: str, decision: str, reviewer: str, evidence: str, *, actor: str = "user") -> dict[str, Any]:
+    """Record an actual user exception, preserving the independent REVISE verdict.
+
+    This records acceptance of the report, not a passing review or final approval.
+    As with approve(), the caller must supply the user's actual decision.
+    """
+    if actor != "user":
+        raise ValueError("Only an actual user decision can accept artwork review findings")
+    decision = _nonempty(decision, "Actual user artwork findings acceptance")
+    reviewer = _nonempty(reviewer, "Independent reviewer identity")
+    evidence = _nonempty(evidence, "Independent review evidence for the exact artwork and rendered outputs")
+    manifest = validate_edition(root, slug, "render")
+    _check_output(root, manifest)
+    path = _check_artwork_review_report(root, manifest, reviewer)
+    manifest["reviewFindingsAcceptance"] = {
+        "actor": "user", "decision": decision, "at": _now(),
+        "scope": ["Source fidelity", "Visual continuity"], "verdict": "REVISE",
+        "reviewer": reviewer, "evidence": evidence, "sha256": file_hash(path, text=True),
+        "inputsSha256": stage_digest(root, manifest, "render"),
+        **{key: manifest["render"][key] for key in ("htmlSha256", "pdfSha256") if key in manifest["render"]},
+    }
+    manifest["approvals"].pop("final", None)
     save_edition(root, manifest)
     return manifest
 
@@ -1276,6 +1357,9 @@ def main() -> None:
     recovery.add_argument("--evidence-file", type=Path, required=True)
     review = commands.add_parser("record-review")
     review.add_argument("slug"); review.add_argument("--reviewer", required=True); review.add_argument("--evidence-file", type=Path, required=True)
+    findings = commands.add_parser("accept-review-findings", help="Record an actual user's publication exception for exact independent REVISE artwork findings; final approval is still required")
+    findings.add_argument("slug"); findings.add_argument("--decision-file", type=Path, required=True)
+    findings.add_argument("--reviewer", required=True); findings.add_argument("--evidence-file", type=Path, required=True)
     repin = commands.add_parser("repin-source")
     repin.add_argument("slug"); repin.add_argument("--decision-file", type=Path, required=True)
     validate = commands.add_parser("validate")
@@ -1316,6 +1400,8 @@ def main() -> None:
             result = resolve_generation(root, args.slug, args.id, args.outcome, _text(args.evidence_file))
         elif args.command == "record-review":
             result = record_review(root, args.slug, args.reviewer, _text(args.evidence_file))
+        elif args.command == "accept-review-findings":
+            result = accept_review_findings(root, args.slug, _text(args.decision_file), args.reviewer, _text(args.evidence_file))
         elif args.command == "repin-source":
             result = repin_source(root, args.slug, _text(args.decision_file))
         else:

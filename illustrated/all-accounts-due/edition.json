@@ -4415,6 +4415,12 @@
       "decision": "Actual prior expanded-plan approval: i think this is the better plan. The same29 interiors,22 references,reused cover and web-only scope remain. Actual24 correction response: Yes, keep correcting Seyathi’s image. Latest actual user direction: create the full story with the image placement with what we have generated right now\\..... This explicitly requests immediate assembly with current generated images and pauses more image correction for that reader; it does not approve final publication.",
       "at": "2026-09-14T22:46:46+00:00",
       "inputsSha256": "6a960697f279fda6052b28b5291c7b1b23e464c264983b56f93d029554230dde"
+    },
+    "final": {
+      "actor": "user",
+      "decision": "Question presented to the user:\nFor All Accounts Due, should I publish the exact current 29-image edition with the six documented art issues accepted, or correct those images first? Publishing as-is needs an explicit exception to the passing-review requirement; the review findings will remain recorded.\n\nActual user answer:\nPublish current images as-is; accept the six issues\n\nRecorded scope: publish the exact current All Accounts Due web edition with all 29 selected illustrations and its unchanged complete prose, replacing the existing published reader and its one Library card. Accept the existing review findings for illustrations 09-talarum-covenant, 16-underforge-hurzais-rescue, 24-seyathi-arms-tessera, 25-malrec-renounces-claims, 28-jelveth-selector-and-form, and 06-world-without-magic. Preserve the independent REVISE report and the existing artwork, including scene 05 attempt 12. This is the user's publication approval and explicit exception for these unchanged outputs; it is not a reviewer PASS or permission to change source facts. No PDF requested.",
+      "at": "2026-09-14T23:59:06+00:00",
+      "inputsSha256": "44351cf88aff6cf0949fe935b25c544494ea47459784fc68147cb3b17bc3dbd0"
     }
   },
   "layoutPreview": {
@@ -4526,5 +4532,20 @@
       "request": "also we need to review the outline process of the images; i expect to see an one image for every major interaction/exchange Faris made up to construct the device.",
       "scope": "Review and expand the edition outline around all major relic, permission and assembly exchanges; exact new counts await plan approval. No art generated under this request yet."
     }
-  ]
+  ],
+  "reviewFindingsAcceptance": {
+    "actor": "user",
+    "decision": "Question presented to the user:\nFor All Accounts Due, should I publish the exact current 29-image edition with the six documented art issues accepted, or correct those images first? Publishing as-is needs an explicit exception to the passing-review requirement; the review findings will remain recorded.\n\nActual user answer:\nPublish current images as-is; accept the six issues\n\nRecorded scope: publish the exact current All Accounts Due web edition with all 29 selected illustrations and its unchanged complete prose, replacing the existing published reader and its one Library card. Accept the existing review findings for illustrations 09-talarum-covenant, 16-underforge-hurzais-rescue, 24-seyathi-arms-tessera, 25-malrec-renounces-claims, 28-jelveth-selector-and-form, and 06-world-without-magic. Preserve the independent REVISE report and the existing artwork, including scene 05 attempt 12. This is the user's publication approval and explicit exception for these unchanged outputs; it is not a reviewer PASS or permission to change source facts. No PDF requested.",
+    "at": "2026-09-14T23:58:40+00:00",
+    "scope": [
+      "Source fidelity",
+      "Visual continuity"
+    ],
+    "verdict": "REVISE",
+    "reviewer": "/root/expanded_final_review",
+    "evidence": "The unchanged independent report in illustrated/all-accounts-due/review.md was authored by /root/expanded_final_review for this exact 29-image web assembly, including selected scene 05 attempt 12. Its verdict is REVISE, with Source fidelity and Visual continuity REVISE; Web readability PASS; Every PDF page NOT REQUESTED. Four findings identify six selected image files: 09, 16, 24, 25, 28, and 06. The report's full findings, reviewer attribution, and visible inspection evidence are preserved verbatim.\n\nThe user was explicitly asked whether to publish this exact current 29-image edition accepting those six findings or correct the artwork. Their actual answer was: Publish current images as-is; accept the six issues. This acceptance applies only to the current report and the current unchanged artwork, source, placements, and rendered HTML. No new semantic PASS is claimed.\n\nThe coordinator verified the current publication preview against the source: all 634 HTML tokens across 206 prose blocks match, all 29 illustration IDs and their source anchors match the selected manifest, the published Writing Prompt is displayed as exact escaped literal text, all accepted interior images retain their 1536x1024 dimensions, and the reader contains no PDF download. The source/package, selected artwork/reader/report, existing catalog, and other published edition were fingerprinted before capture so the final publication can be checked for unintended changes.",
+    "sha256": "05eaadd2c39a24a66058cd8ba8ecc466ce578f49491e399cc910bbb6892e7bbf",
+    "inputsSha256": "0131165579bbad1646d0af5cc50cf29f074025e7ce4b3978aa0d677454be617b",
+    "htmlSha256": "644646923c5ae2fc559e4559345a5723bb70145c005504ca6e82482b903e14fb"
+  }
 }
