@@ -5,6 +5,7 @@ from dataclasses import replace
 import hashlib
 import html
 import json
+import re
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
@@ -101,6 +102,50 @@ class IllustratedPublicationTests(unittest.TestCase):
         self.assertIn('src="covers/source-story.jpg"',
                       build.render_index(build.Catalog((self.story,))))
 
+    def test_illustrated_header_matches_the_shared_story_header_in_every_mode(self):
+        plain = build.render_story(self.story)
+        header = re.search(r'<header class="site-header">.*?</header>', plain).group()
+        for mode in ('classic', 'deluxe', 'cinematic'):
+            with self.subTest(mode=mode):
+                self.edition['mode'] = mode
+                result = build.render_story(self.story, [self.edition])
+                self.assertEqual(re.search(r'<header class="site-header">.*?</header>', result).group(), header)
+                self.assertEqual(result.count('data-theme-toggle'), 1)
+                self.assertEqual(result.count(build.THEME_BOOTSTRAP), 1)
+                self.assertEqual(result.count('src="../theme.js"'), 1)
+                self.assertIn('href="../styles.css"', result)
+                self.assertIn('href="../illustrated.css"', result)
+                self.assertIn(f'<main class="edition mode-{mode}">', result)
+                self.assertNotIn('edition-nav', result)
+
+    def test_requested_pdf_keeps_shared_header_and_standalone_has_no_web_controls(self):
+        self.edition['pdf'] = {'path': 'illustrated/illustrated-story/edition.pdf'}
+        web = build.render_story(self.story, [self.edition])
+        self.assertIn('href="../illustrated/illustrated-story/edition.pdf" download', web)
+        self.assertEqual(web.count('Download PDF'), 1)
+        self.assertEqual(web.count('data-theme-toggle'), 1)
+        standalone = illustrated_editions.render_document(
+            self.edition, navigation=False, stylesheet='illustrated.css', asset_prefix='', writing_prompt=self.story.prompt,
+        )
+        self.assertIn('class="edition-standalone"', standalone)
+        self.assertIn('<main class="edition mode-classic">', standalone)
+        self.assertIn('src="illustrated/illustrated-story/door.png"', standalone)
+        for unexpected in ('data-theme-toggle', 'site-header', 'theme.js', 'Download PDF', '../styles.css'):
+            self.assertNotIn(unexpected, standalone)
+        self.assertEqual(
+            re.search(r'<article class="edition-prose".*?</article>', web, re.S).group().replace('../illustrated/', 'illustrated/'),
+            re.search(r'<article class="edition-prose".*?</article>', standalone, re.S).group(),
+        )
+
+    def test_shared_page_optional_attributes_are_escaped(self):
+        document = build._page(
+            'Title', '<p>Reader</p>', 'index.html', 'styles.css', 'theme.js',
+            extra_stylesheet_hrefs=('reader".css',), body_class='body"name', main_class='main"name',
+        )
+        self.assertIn('href="reader&quot;.css"', document)
+        self.assertIn('class="body&quot;name"', document)
+        self.assertIn('class="main&quot;name"', document)
+
     def test_duplicate_and_orphan_source_selections_fail(self):
         duplicate = deepcopy(self.edition)
         duplicate["slug"] = "another-edition"
@@ -139,6 +184,7 @@ class IllustratedPublicationTests(unittest.TestCase):
             reader = output / "stories/source-story.html"
             self.assertTrue(reader.is_file())
             self.assertIn('class="edition-prose"', reader.read_text(encoding="utf-8"))
+            self.assertIn('<header class="site-header">', reader.read_text(encoding="utf-8"))
             self.assertEqual(len(list((output / "stories").glob("*.html"))), 1)
             self.assertFalse(list((output / "illustrated").glob("*.html")))
             self.assertFalse((output / "editions").exists())

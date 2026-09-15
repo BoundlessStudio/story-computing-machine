@@ -1,6 +1,8 @@
 """Web output integrity and publication replacement regression checks."""
 
 import hashlib
+import html
+import re
 from dataclasses import replace
 from pathlib import Path
 from tempfile import TemporaryDirectory
@@ -263,6 +265,63 @@ class WebOutputTests(unittest.TestCase):
         self.assertNotIn("final", self.manifest["approvals"])
         self.assertFalse(target.with_suffix(".pdf").exists())
         edition._check_output(self.root, self.manifest)
+
+    def test_layout_sample_has_real_library_header_local_resources_and_selected_pilot(self):
+        pages = self.root / 'pages'
+        (pages / 'covers').mkdir(parents=True)
+        story = story_fixture(prompt='Keep *this*: <door> & "key".')
+        Image.new('RGB', (864, 1536), 'navy').save(pages / story.cover)
+        build.save_catalog([story], pages / 'catalog.json')
+        original_catalog = (pages / 'catalog.json').read_bytes()
+        reference = {**self.manifest['cover'], 'id': 'reference', 'accepted': {'evidence': 'Inspected'}}
+        self.manifest['references'] = [reference, {'id': 'pending-reference'}]
+        pilot = self.manifest['illustrations'][0]
+        pilot['accepted'] = {'evidence': 'Inspected'}
+        pilot['after'] = illustrated_editions.block_anchors(self.manifest['fixtureBody'], story.title)[1]['id']
+        self.manifest['productionPolicy'] = {'pilotAssetId': pilot['id']}
+        self.manifest['outputFormat'] = 'web-pdf'
+        plain_header = re.search(r'<header class="site-header">.*?</header>', build.render_story(story)).group()
+        for selected_pilot in (False, True):
+            with self.subTest(selected_pilot=selected_pilot):
+                self.manifest['productionPolicy']['pilotAssetId'] = pilot['id'] if selected_pilot else 'not-yet-accepted'
+                with patch.object(edition, '_require_approval') as approval, patch.object(edition, '_check_asset') as check_asset:
+                    target = illustrated_editions.layout_sample(self.root, 'new-edition', self.root / 'sample')
+                approval.assert_called_once_with(self.root, self.manifest, 'plan')
+                self.assertEqual(check_asset.call_args_list[-1].args[-1]['id'], pilot['id'] if selected_pilot else reference['id'])
+                self.assertEqual(target, self.root / 'sample/stories/source-story.html')
+                document = target.read_text(encoding='utf-8')
+                self.assertEqual(re.search(r'<header class="site-header">.*?</header>', document).group(), plain_header)
+                self.assertEqual(document.count('data-theme-toggle'), 1)
+                self.assertIn(f'<blockquote>{html.escape(story.prompt)}</blockquote>', document)
+                self.assertIn('A quiet beginning.', document)
+                self.assertIn('An open door.', document)
+                self.assertNotIn('Download PDF', document)
+                self.assertIn('src="../illustrated/new-edition/sample.png"', document)
+                sample_bytes = (target.parent.parent / 'illustrated/new-edition/sample.png').read_bytes()
+                selected = pilot if selected_pilot else reference
+                self.assertEqual(sample_bytes, (self.root / 'illustrated/new-edition' / selected['path']).read_bytes())
+                library = (target.parent.parent / 'index.html').read_text(encoding='utf-8')
+                self.assertEqual(library.count('<li class="story-card">'), 1)
+                self.assertIn('href="stories/source-story.html"', library)
+                resources = edition._preview_dependencies(target)
+                for name in ('styles.css', 'illustrated.css', 'theme.js', 'fonts/SourceSerif4-Regular.woff2'):
+                    self.assertIn(str((target.parent.parent / name).resolve()), resources)
+        self.assertEqual((pages / 'catalog.json').read_bytes(), original_catalog)
+
+    def test_final_preview_uses_same_shared_header_and_resources(self):
+        pages = self.root / 'pages'
+        (pages / 'covers').mkdir(parents=True)
+        story = story_fixture()
+        Image.new('RGB', (864, 1536), 'navy').save(pages / story.cover)
+        build.save_catalog([story], pages / 'catalog.json')
+        target = illustrated_editions.preview_edition(self.root, 'new-edition', self.root / 'preview')
+        document = target.read_text(encoding='utf-8')
+        self.assertEqual(
+            re.search(r'<header class="site-header">.*?</header>', document).group(),
+            re.search(r'<header class="site-header">.*?</header>', build.render_story(story)).group(),
+        )
+        self.assertEqual(document.count('data-theme-toggle'), 1)
+        self.assertTrue(edition._preview_dependencies(target))
 
     def test_changed_or_missing_html_and_stale_inputs_block_final_validation(self):
         self.finalize(self.manifest)

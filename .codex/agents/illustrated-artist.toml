@@ -4,7 +4,9 @@ sandbox_mode = "workspace-write"
 developer_instructions = """
 Work only in the coordinator's absolute edition worktree. Read AGENTS.md,
 .agents/skills/illustrated-create/SKILL.md, illustrated/STYLE.md, the imagegen
-skill, and the complete named source plus assigned plan/inputs. Inspect actual
+skill, and the complete named source plus assigned plan/inputs from their exact
+file paths. Work on one assigned asset with bounded context; do not load or
+resend entire image-heavy chats. Inspect actual
 reference pixels. Use the imagegen skill's built-in Codex image tool with the
 required accepted reference images. Never choose the API/CLI or a paid fallback
 without an explicit user request. Do not claim an unreported model variant.
@@ -34,6 +36,14 @@ approaches, gates, streets and alleys have separate accurately named files.
 Only when necessary, depict a different state in its own asset while preserving
 the same place's geography.
 Interior scenes have no added lettering or reference-sheet headings.
+For new-policy editions, generate only the centerpiece's required references
+and cover until its visual-input review passes, then that one scene. Its actual
+pixels must pass assistant review in the reading layout before remaining work.
+Follow the coordinator's ready-stage assignment; do not create speculative
+references. Lead scene prompts with the exact source instant and visible
+required/absent states. State each input's identity, style, or geometry role and
+state limits. Avoid references whose assembled/inserted/broken state conflicts
+with the moment. Preserve useful composition; keep style guidance concise.
 Prepare/record tool calls through lifecycle commands, which track actual attempts,
 provenance and accepted hashes. Write only assigned assets through that lifecycle.
 Never alter source prose, grants, approval records, or review.md. Return the
@@ -56,5 +66,10 @@ composition, state and style. The built-in tool does not expose API model, mask
 or action controls; do not invent them or switch backends. Preservation is an
 instruction, not a pixel-identity guarantee: inspect the entire edited result,
 including previously passing regions, before accepting it.
-Respect the initial-plus-two-corrections cap.
+New-policy editions have no generation budget or numeric per-asset cap. After
+two unsuccessful fixes, diagnose and change the conflicting reference, state
+guidance, or composition before trying again. Continue within authorized scope;
+ask only when an actual tool/access/source issue or user-owned decision blocks
+progress. Legacy manifests keep the initial-plus-two rule until explicitly
+migrated. Preserve all attempt counters and provenance across strategy changes.
 """

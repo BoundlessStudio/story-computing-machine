@@ -119,13 +119,10 @@ def render_prose(body: str, title: str, illustrations: list[dict], asset_prefix:
 
 def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='') -> str:
     title = html.escape(record['title'])
-    nav = ''
-    if navigation:
-        pdf_link = f'<a href="{html.escape(asset_prefix + record["pdf"]["path"], quote=True)}" download>Download PDF</a>' if record.get('pdf') else ''
-        nav = ('<nav class="edition-nav" aria-label="Story navigation"><a href="../index.html">Library</a>'
-               + pdf_link +
-               '<button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle color theme">'
-               '<span data-theme-label="light">Light</span><span data-theme-label="dark">Dark</span></button></nav>')
+    pdf_link = (
+        f'<p class="edition-download"><a href="{html.escape(asset_prefix + record["pdf"]["path"], quote=True)}" download>Download PDF</a></p>'
+        if navigation and record.get('pdf') else ''
+    )
     author = f'<p class="edition-author">{html.escape(record["author"])}</p>' if record.get('author') else ''
     prompt = ('<section class="edition-prompt" aria-labelledby="writing-prompt-title">'
               '<h2 id="writing-prompt-title">Writing Prompt</h2>'
@@ -135,17 +132,23 @@ def render_document(record: dict, *, stylesheet='../illustrated.css', asset_pref
     mode = record['mode']
     if mode not in MODES:
         raise ValueError('Invalid presentation mode')
+    body = (f'<section class="edition-cover"><img src="{cover}" alt="Cover for {title}"></section>'
+            f'<header class="edition-title"><p class="edition-label">{mode.title()} illustrated edition</p><h1>{title}</h1>{author}{pdf_link}</header>'
+            f'{prompt}'
+            f'<article class="edition-prose" aria-label="Story">{prose}</article>'
+            '<p class="edition-end" aria-label="End of story">◆</p>')
+    if navigation:
+        from pages.build import _page
+        return _page(
+            record['title'] + ' — Illustrated Edition', body,
+            asset_prefix + 'index.html', asset_prefix + 'styles.css', asset_prefix + 'theme.js',
+            extra_stylesheet_hrefs=(stylesheet,), body_class='edition-page', main_class=f'edition mode-{mode}',
+        )
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<title>{title} — Illustrated Edition</title>'
             f'<link rel="stylesheet" href="{html.escape(stylesheet, quote=True)}">'
-            + ('<script src="../theme.js" defer></script>' if navigation else '') + '</head>'
-            f'<body class="edition mode-{mode}">{nav}<main>'
-            f'<section class="edition-cover"><img src="{cover}" alt="Cover for {title}"></section>'
-            f'<header class="edition-title"><p class="edition-label">{mode.title()} illustrated edition</p><h1>{title}</h1>{author}</header>'
-            f'{prompt}'
-            f'<article class="edition-prose" aria-label="Story">{prose}</article>'
-            '<p class="edition-end" aria-label="End of story">◆</p></main></body></html>')
+            f'</head><body class="edition-standalone"><main class="edition mode-{mode}">{body}</main></body></html>')
 
 
 def _public_asset(entry, relative):
@@ -243,14 +246,24 @@ def preview_edition(root: Path, slug: str, destination: Path) -> Path:
 
 def layout_sample(root: Path, slug: str, destination: Path) -> Path:
     """Show real typography before scene generation, using an accepted reference."""
-    from illustrated.edition import validate_edition, require_worktree
-    from pages.build import prepare_output
+    from illustrated.edition import validate_edition, require_worktree, _require_approval, _check_asset
+    from pages.build import build, load_story_source, prepare_output, render_index, render_story
     require_worktree(root)
-    manifest = validate_edition(root, slug, 'references')
+    manifest = validate_edition(root, slug, 'plan')
+    _require_approval(root, manifest, 'plan')
+    _check_asset(root, manifest, manifest['cover'])
     directory = root / 'illustrated' / slug
     out = prepare_output(destination, root)
+    catalog = build(out, root / 'pages/catalog.json')
     record = _record(root, manifest)
-    sample = next((a for a in manifest['references'] if a.get('accepted')), manifest['cover'])
+    # A pilot may settle the hardest composition before the remaining reference
+    # sheets are generated. Only the displayed assets must be accepted here.
+    pilot_id = (manifest.get('productionPolicy') or {}).get('pilotAssetId')
+    sample = next((a for a in manifest['illustrations'] if a['id'] == pilot_id and a.get('accepted')), None)
+    sample = sample or next((a for a in manifest['references'] if a.get('accepted')), None)
+    if sample is None:
+        raise ValueError('Accept a reference or the planned pilot illustration before making a layout sample')
+    _check_asset(root, manifest, sample)
     sample_path = safe_path(directory, sample['path'])
     if not sample_path.is_file():
         raise ValueError('Accept a reference or the reused cover before making a layout sample')
@@ -260,17 +273,26 @@ def layout_sample(root: Path, slug: str, destination: Path) -> Path:
     sample_target = f'illustrated/{slug}/sample' + sample_path.suffix
     shutil.copyfile(sample_path, safe_path(out, sample_target))
     anchors = block_anchors(record['body'], record['title'])
+    is_pilot = sample['id'] == pilot_id
     record['illustrations'] = [{
-        'id':'layout-sample', 'after':anchors[0]['id'], 'path':sample_target,
-        'layout':'full-page' if record['mode']=='cinematic' else 'inline',
-        'alt':'Approved visual reference used to demonstrate page layout.',
-        'caption':'Layout preview: reference artwork; scene illustrations will follow approval.'}]
+        'id':'layout-sample', 'after':sample['after'] if is_pilot else anchors[0]['id'], 'path':sample_target,
+        'layout':sample.get('layout', 'inline') if is_pilot else ('full-page' if record['mode']=='cinematic' else 'inline'),
+        'alt':sample['alt'] if is_pilot else 'Approved visual reference used to demonstrate page layout.',
+        **({'caption': sample['caption']} if is_pilot and sample.get('caption') else {}),
+        **({'caption':'Layout preview: reference artwork; scene illustrations will follow approval.'} if not is_pilot else {}),
+    }]
+    # A sample must never advertise a PDF that has not been rendered yet.
+    record.pop('pdf', None)
     shutil.copyfile(ROOT/'pages/illustrated.css', out/'illustrated.css')
-    shutil.copytree(ROOT/'pages/fonts',out/'fonts')
-    target = out/'index.html'
-    from illustrated.edition import get_public_prompt
-    target.write_text(render_document(record, stylesheet='illustrated.css', asset_prefix='', navigation=False,
-                                     writing_prompt=get_public_prompt(root, manifest['source']['slug'])),encoding='utf-8')
+    shutil.copytree(ROOT/'pages/fonts',out/'fonts', dirs_exist_ok=True)
+    source = next((story for story in catalog.stories if story.slug == manifest['source']['slug']), None)
+    if source is None:
+        source = load_story_source(manifest['source']['slug'], root)
+    target = out / 'stories' / f'{source.slug}.html'
+    target.write_text(render_story(source, [record]), encoding='utf-8', newline='\n')
+    if source.slug in {story.slug for story in catalog.stories}:
+        records = [item for item in load_snapshot(root / 'pages/illustrated.json') if item['source']['slug'] != source.slug] + [record]
+        (out / 'index.html').write_text(render_index(catalog, records), encoding='utf-8', newline='\n')
     return target
 
 
