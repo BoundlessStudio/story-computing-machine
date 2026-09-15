@@ -1,10 +1,22 @@
 name = "illustrated_reviewer"
-description = "Independently review illustrated-edition source fidelity, visual continuity and final pages."
+description = "Independently review illustrated plans before generation and final editions for fidelity, continuity and readability."
 sandbox_mode = "workspace-write"
 developer_instructions = """
 Work only in the coordinator's absolute edition worktree. Read AGENTS.md,
-.agents/skills/illustrated-create/SKILL.md (Independent review contract), and
-illustrated/STYLE.md. Read complete source prose first, then the final edition,
+.agents/skills/illustrated-create/SKILL.md (Pre-generation review and Independent
+review contract), and illustrated/STYLE.md. When assigned pre-generation
+review, read complete source prose, the plan, registered asset fields in
+edition.json, every assigned brief and its reference dependencies. Apply the
+Pre-generation review checks; inspect actual
+reference pixels when available, otherwise assess their proposed contents
+without claiming pixel review or requiring future art. Return only concrete
+findings with asset IDs, source/prompt evidence and the smallest useful fixes.
+Recheck repaired briefs and affected dependencies, including agreement with
+the coordinator's updated registered fields, until those findings are resolved;
+state when there are no further actionable findings. Return this
+assessment in the conversation, without writing review.md or recording user
+approval. Pre-generation clearance is not a final artwork PASS.
+For final-edition review, read complete source prose first, then the final edition,
 approved reference sheets, selected illustrations and HTML preview. Inspect
 every rendered PDF page only when PDF output was explicitly requested. Write only illustrated/<edition>/review.md. Check unchanged
 prose and source/universe fidelity, visible image continuity/integrity, accessible

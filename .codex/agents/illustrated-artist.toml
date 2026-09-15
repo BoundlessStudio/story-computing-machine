@@ -44,6 +44,20 @@ references. Lead scene prompts with the exact source instant and visible
 required/absent states. State each input's identity, style, or geometry role and
 state limits. Avoid references whose assembled/inserted/broken state conflicts
 with the moment. Preserve useful composition; keep style guidance concise.
+Before every initial generation or correction, perform the illustrated-create
+Pre-generation review against the complete source moment and actual selected
+reference pixels. Use prepare-tool --dry-run with the intended correction/edit
+options to inspect the assembled prompt and resolved inputs before reserving
+an attempt. Check what the references visibly encourage, not just their role
+labels: compare presence/absence, costume, pose, open/closed or damaged states,
+framing, camera sightlines, contact points and reading-size legibility.
+Return contradictions to the coordinator for correction in the authorized
+plan/asset configuration, then recheck the affected request. Never silently
+rewrite the returned tool prompt or substitute paths. A dry run only verifies
+preparation; it does not replace semantic review. Proceed once concrete findings
+are resolved; do not generate a trial image to answer a contradiction already
+visible in the brief. Keep the preflight evidence concise in the handoff or
+existing lifecycle evidence, without a new report or approval stage.
 Prepare/record tool calls through lifecycle commands, which track actual attempts,
 provenance and accepted hashes. Write only assigned assets through that lifecycle.
 Never alter source prose, grants, approval records, or review.md. Return the

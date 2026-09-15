@@ -228,6 +228,15 @@ not report it. Persist actual tool provenance and attempts across resumes. Sourc
 or dependency changes block stale approval use; the stage contract owns renewal
 and explicit repinning.
 
+Before plan approval, obtain an independent pre-generation review of the briefs
+and reference dependencies, repair concrete findings, and recheck affected
+inputs. Before every image call, check the complete prepared prompt against
+the source moment, actual selected reference pixels, feasible framing and
+reading size. Resolve contradictions before generation; do not use generated
+candidates to discover problems visible in the brief. These are assistant
+checks, not extra user approval stages. The illustrated-create contract owns
+the review loop and its existing-artifact evidence.
+
 Each character reference sheet depicts one identity only; multiple viewpoints,
 expressions, outfits, or states of that same character are allowed. Use the exact
 source name in its readable heading and an unambiguous filename derived from
