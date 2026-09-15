@@ -77,7 +77,9 @@ the edition. Original cover pixels may be copied to the edition cover.
    minimum reference dependencies first, including any dependencies of those
    references. Give every reference a downstream use and every attached input
    a role. Bind each scene to an exact source state with `--state-file`; register
-   input roles with repeated `--reference-role ID=ROLE`. Stop
+   input roles with repeated `--reference-role ID=ROLE`. Complete the independent
+   [Pre-generation review](#pre-generation-review) loop and repair its concrete
+   findings before presenting the plan for approval. Stop
    for explicit user plan approval. Only the coordinator records the actual
    response with `approve EDITION plan --decision-file FILE`.
 3. **Visual development.** Use the imagegen skill's built-in Codex image tool.
@@ -227,6 +229,78 @@ separate from prose; any quoted passage must be exact. Never invent sections,
 author credits, dialogue, captions claiming new story facts, or omitted prose.
 
 ## Generation and lifecycle controls
+
+### Pre-generation review
+
+Use reasoning and source/reference inspection to resolve contradictions before
+spending an image call. This is required assistant work, not an additional user
+approval stage or a promise that a clear prompt will produce perfect pixels.
+
+**Plan review.** The planner checks every asset brief and the reference graph.
+Then assign an independent illustrated_reviewer, who did not write those
+briefs, the complete source, plan, edition.json, original image paths and proposed references.
+Before art exists, review the proposed contents; do not require generated
+references or claim to have inspected future pixels. Return concrete findings
+with asset IDs and source/prompt evidence. The planner fixes plan.md; the
+coordinator re-registers affected prompts, sceneState, references, roles,
+placements and layouts in edition.json, then runs `validate EDITION --phase plan`.
+The reviewer rechecks affected briefs and downstream dependencies, including
+agreement between the repaired plan and registered fields. Finish when the
+known contradictions are resolved and the coordinator has verified that the
+manifest matches the cleared plan before recording user plan approval.
+Keep a concise findings/repairs summary
+in plan.md, not another report or ledger. This clearance never certifies final
+artwork or substitutes for user plan approval.
+
+**Checks for both the plan and each prepared image request:**
+
+- Bind one visible instant to the source: who is present, what has happened,
+  posture, costume/wetness, season, prop state, and what must still be absent.
+  Check placements for spoilers and premature relationship or event outcomes.
+- Compare positive instructions and exclusions across the brief, sceneState,
+  reference roles and actual inputs. Reject incompatible crops/body parts,
+  gestures, occupied hands, contact points, object counts, or open/closed states.
+- Check camera and composition: coherent sightlines, consistent room fixtures,
+  clear subject separation, and visible contact points. A mid-thigh crop cannot
+  also show feet. Do not require a direct view of a wall behind the camera or
+  full frontal readability from labels seen at oblique angles. Distinguish a
+  contradiction from an impossible perspective deliberately required by the
+  source or approved art direction.
+- Assess the planned aspect ratio and actual desktop/mobile display width.
+  Faces, hands, mechanisms and necessary inscriptions must remain readable at
+  that size. Change the framing or layout before drawing an action that would
+  become an illegible spot image. Use current CSS or a disposable layout sketch
+  for this check; generate no art just to measure the available space.
+- Check what each reference will encourage beyond its declared role. Keep
+  reusable identity/style sheets free of unnecessary transient story props.
+  An umbrella before its introduction or a closed book in an open-page scene
+  can conflict despite a role label. Prefer compatible inputs and concise
+  scene-specific descriptions for simple props. Add a state reference only
+  when an actual recurring continuity need requires it.
+- Resolve conflicts by removing competing instructions, choosing useful inputs
+  or clarifying staging. Do not accumulate a longer list of negatives while
+  leaving the conflicting positive reference in place. Preserve source facts,
+  established identities and approved style while simplifying.
+
+**Before every image call, including corrections.** Once the approved stage and
+accepted dependencies are ready, the artist inspects their actual pixels and
+runs `prepare-tool EDITION ID --dry-run` with the intended correction/edit
+options. Review the complete assembled prompt and resolved paths using the
+checks above; mechanical dry-run success alone is insufficient. Send concrete
+conflicts to the coordinator for repair in the authorized plan/asset fields,
+follow existing approval/dependency renewal rules, then repeat the dry run.
+Do not silently amend the returned prompt or paths. Reserve the real attempt
+only after these checks pass and use its current returned inputs exactly.
+
+For a correction, identify the visible defect, likely cause, exact change and
+details to preserve; inspect the rejected base and selected references together.
+When a defect recurs, diagnose the conflicting input or staging before the next
+call rather than resending the same request with stronger wording. Record short
+evidence in the existing handoff or lifecycle review evidence. Recheck changed
+inputs and unresolved concerns; do not endlessly repeat a clean review, invent
+extra assets, impose an attempt cap, or create new user permission checkpoints.
+
+### Tool and dependency rules
 
 Default to the imagegen skill's built-in Codex image generation. Do not invoke
 the API, use OPENAI_API_KEY, run an image-generation CLI or choose a paid fallback

@@ -17,6 +17,20 @@ states for the coordinator's --state-file. For every attached input, provide a
 --reference-role distinguishing identity, style, or geometry and state limits.
 Do not use an assembled or inserted object state to guide an earlier/removed
 state. Plan a different state asset only for a concrete downstream need.
+Before handing off the plan, perform the illustrated-create Pre-generation
+review checks on every brief and its reference dependencies. Make framing,
+camera sightlines, visible body parts, hand/prop actions, object states and
+desktop/mobile reading size mutually compatible. Keep transient story props
+out of reusable identity/style sheets when they would bias other scenes;
+describe simple prop geometry in the applicable scene briefs instead.
+Submit the plan for independent review before user plan approval. Repair
+specific findings and return affected briefs/dependencies to the coordinator
+for re-registration and independent recheck until the known contradictions are
+resolved. Do not leave the registered prompts/states behind the repaired plan.
+Record the reviewer's concise findings
+and repairs in plan.md; do not invent independent clearance or pixel inspection
+for references that have not been generated. Do not add speculative sheets or
+repeat a clean review without a changed input or unresolved concrete concern.
 Counts describe approved coverage; do not introduce generation budgets or caps.
 Plan web-only output by default. The edition replaces the reader at the source
 story's existing URL and Library card, preserving source metadata and catalog
