@@ -71,7 +71,13 @@ the edition. Original cover pixels may be copied to the edition cover.
    block anchors with `python -m pages.illustrated_editions anchors EDITION`.
    Register each planned visual with `set-asset`; anchors place scenes after the
    corresponding source passage. Show the plan, exact reference/interior counts,
-   reused or requested new cover, art direction, and correction allowance. Stop
+   reused or requested new cover, art direction, and coverage of each major
+   exchange as an image or explicit prose-only treatment. Name the centerpiece
+   with `configure-production EDITION --pilot ASSET` before approval. Plan its
+   minimum reference dependencies first, including any dependencies of those
+   references. Give every reference a downstream use and every attached input
+   a role. Bind each scene to an exact source state with `--state-file`; register
+   input roles with repeated `--reference-role ID=ROLE`. Stop
    for explicit user plan approval. Only the coordinator records the actual
    response with `approve EDITION plan --decision-file FILE`.
 3. **Visual development.** Use the imagegen skill's built-in Codex image tool.
@@ -79,9 +85,10 @@ the edition. Original cover pixels may be copied to the edition cover.
    illustration style used for the repository's covers, as defined in
    illustrated/STYLE.md. Accepted character sheets remain the concrete style
    anchor for an existing edition; do not replace them with a generic default.
-   Generate references one asset per call, based on inspected source cover
-   and original image evidence. Establish and accept character sheets before
-   subsequent location/object references. Their actual image bytes are the
+   For new editions, first generate only the centerpiece's required reference
+   chain and cover. Generate references one asset per call, based on inspected
+   source cover and original image evidence. Establish and accept character
+   sheets before subsequent location/object references. Their actual image bytes are the
    primary style inputs for those references; original images guide geometry
    and content, while the cover supplies subordinate style accents. Match the
    accepted character sheets' pen contours, hatching, restrained washes, paper
@@ -104,28 +111,40 @@ the edition. Original cover pixels may be copied to the edition cover.
    only when needed. Every external reference must have an assigned useful role
    in reference development. Proposed unspecified details are visual design,
    never new universe facts. Inspect and accept each selected image.
-4. **Assistant visual review.** Reuse the existing cover by default; inspect it explicitly.
-   A requested new cover belongs only to this edition. Generate new cover artwork
-   without lettering; reference sheets retain their identity/state labels.
-   The layout engine renders the exact source title as selectable
-   text on its title page, with no invented credit. Produce a representative layout with
-   `python -m pages.illustrated_editions layout-sample EDITION --output TEMP_DIR`.
-   Inspect it, then record `layout-preview EDITION HTML_PATH --evidence-file FILE`.
-   Review all selected references, cover, and layout. Correct visible problems
-   within the attempt allowance before scene artwork. Record this assistant review
-   with `review-visuals EDITION --reviewer ID --evidence-file FILE`; never present
-   it as user approval. Continue to scenes after it passes. The user performs the
-   final edition review and approval. If the user explicitly requests an additional
-   intermediate approval stage, configure and honor that request.
-5. **Illustrate.** Assign illustrated_artist one planned image, its exact brief,
-   accepted character/location/object reference files, and any supplementary
-   preceding accepted scene. Always attach the applicable accepted reference
-   bytes to the built-in tool; preceding scenes alone are insufficient. The written brief
-   distinguishes each input's role. Generate a complete illustration per call,
-   never the typeset prose. Interior scenes have no added lettering or
-   reference-sheet headings. Inspect source truth, identity, clothing, geometry,
-   objects/contact points, anatomy, time of day, palette, and tone. Accept only
-   visibly successful outputs; fix targeted problems within the allowance.
+4. **Review the centerpiece first.** Reuse and explicitly inspect the cover by
+   default. A requested new cover belongs only to this edition and has no
+   generated lettering; the layout supplies the exact selectable title. Generate
+   `layout-sample EDITION --output TEMP_DIR` through
+   `python -m pages.illustrated_editions`. It returns a reader at
+   `stories/<source-slug>.html` inside a disposable Library with the shared
+   Pages header, theme controls, and local assets. Record the inspected reader
+   with `layout-preview EDITION HTML_PATH --evidence-file FILE`.
+   Review the centerpiece's accepted references, cover, and sample with
+   `review-visuals EDITION --pilot --reviewer ID --evidence-file FILE`.
+   Generate, inspect, and accept the centerpiece. Run layout-sample again: it
+   now uses that scene's actual pixels, placement, and presentation. Inspect
+   narrative impact, scale, framing, source state, and legibility in context;
+   record the new layout preview, then
+   `review-pilot EDITION --reviewer ID --evidence-file FILE`.
+   These are assistant reviews, with no added user approval stage. If the user
+   explicitly requested intermediate approval, honor that workflow using
+   `approve EDITION pilot-visuals --decision-file FILE` for the initial pilot
+   visual inputs. The user still approves the complete final edition.
+5. **Complete the artwork.** After the centerpiece review passes, generate the
+   remaining references. Refresh the sample as needed and record ordinary full
+   `review-visuals EDITION --reviewer ID --evidence-file FILE` after inspecting
+   all references, cover, and layout. Then generate the remaining scenes.
+   Assign illustrated_artist one planned image, its exact source moment/brief,
+   accepted reference file paths, and any useful preceding accepted scene.
+   Always attach applicable accepted reference bytes; preceding scenes alone
+   are insufficient. Keep source truth, required and absent states, framing,
+   and input roles prominent in a concise generation prompt. Generate one
+   complete illustration per call, never typeset prose or reference headings.
+   Inspect identity, clothing, geography, contact points, objects, anatomy,
+   lighting, style, and tone. Correct visible failures within the requested
+   scope. After two unsuccessful fixes, diagnose and change the conflicting
+   reference or composition before trying again. Resolve consequences for
+   dependent images and reviews through the existing lifecycle.
 6. **Compose and review.** Run `python -m pages.illustrated_editions render EDITION`
    and `preview EDITION --output TEMP_DIR`. Review the Library card and complete
    responsive reader at the existing story URL. Assign a fresh illustrated_reviewer
@@ -141,6 +160,12 @@ the edition. Original cover pixels may be copied to the edition cover.
    Publication below. The final response links the story's illustrated reader
    and draft PR, plus the PDF only when requested.
 
+New manifests use `productionPolicy` version 1 and a selected `pilotAssetId`.
+Existing manifests keep their historical stage ordering and initial-plus-two
+attempt rule until explicitly migrated with `configure-production` and a
+recorded user decision. Migration preserves attempts/provenance and requires
+renewed plan approval; it does not authorize source or unrelated package edits.
+
 ## Planner contract
 
 Write plan.md with these sections:
@@ -148,6 +173,10 @@ Write plan.md with these sections:
 - **Source and visual analysis:** summary, themes, tone; all characters, locations,
   important objects, and appearance/state changes relevant to the illustrations.
   Attribute established facts to source passages; label proposed visual choices.
+- **Coverage:** list every major interaction, exchange, reveal, and turn with its
+  source anchor and planned scene ID or explicit prose-only treatment. Counts
+  follow this coverage, not a quota. Name the centerpiece whose emotional impact
+  or composition needs to be settled first.
 - **Art direction:** use one nonempty `## Art direction` section; line/rendering language, palette, light, texture, camera,
   realism/stylization, mood, and recognizable connections to cover/originals.
   Honor explicit user style; otherwise use the repository's anime cover
@@ -172,14 +201,24 @@ Write plan.md with these sections:
   Include explicit style dependencies on accepted character sheets for each
   subsequent location/object asset, with those actual images attached within
   the same five-input limit. Keep content and style roles distinct in prompts.
+  Name each reference's downstream consumers; indirect use through another
+  needed reference counts. Remove references that no scene or generated cover
+  consumes. Put the centerpiece's dependency chain first. A separate state
+  reference needs a concrete downstream reason, not speculative completeness.
 - **Illustration plan:** stable ID, source anchor, scene purpose, visible facts,
-  framing, referenced asset IDs, layout, alt text, optional caption, and prompt.
+  framing, referenced asset IDs and their roles, layout, alt text, optional
+  caption, and prompt. State the exact source instant, what must be visible,
+  and what must be absent or already changed. Register that description with
+  `set-asset --state-file FILE`; use `--reference-role ID=ROLE` for every input.
+  Distinguish identity, rendering style, and geography/object shape, and state
+  which reference details do not apply to this instant.
   Choose opening, reveals, emotional turns, climax, and ending where the source
   earns them. Avoid quotas of repetitive scenes, spoilers placed before their
   reveal, invented events, and decorative explanatory lore.
 - **Presentation and counts:** mode, house-rule exceptions explicitly requested,
-  exact reference/interior/cover counts, one initial generation plus two
-  automatic corrections per generated asset, and selected page treatments.
+  exact reference/interior/cover counts, centerpiece-first order, and selected
+  page treatments. Counts describe coverage and production work; do not impose
+  a generation budget or infer a weekly usage percentage from them.
 
 Source-based prose and facts control depicted events; an outline is design
 intent. Reference sheets guide visual continuity, never authorize source edits.
@@ -204,6 +243,25 @@ plan framing and reference dependencies accordingly. Do not evade the limit by
 combining character or location sheets or silently omit an original from the edition's
 overall reference-development mapping.
 
+A reference is evidence for its declared role, not authority for every depicted
+state. Do not attach a fully assembled object or an inserted retaining rod as a
+literal state guide for a scene before assembly or after removal. Prefer a
+compatible reference; if needed, change framing or create a justified state
+asset while preserving geography. For example, an empty apparatus must specify
+empty sockets and an absent rod in its scene-state file; the character sheet
+supplies identity/style, while an apparatus input may guide shape only when its
+visible state is compatible. Prompts lead with the exact event and required or
+absent details, then the useful input roles and composition. Avoid long repeated
+style descriptions that bury source truth.
+
+Give each delegated artist the absolute worktree, one asset ID, concise
+assignment, and exact source/plan/reference paths. Read relevant originals and
+source files directly; do not resend an entire image-heavy conversation to
+coordinate a single asset. When auditing historical tasks, use bounded,
+sanitized local text extracts and inspect selected image files separately.
+Avoid `read_thread` for histories whose embedded images cause oversized tool
+responses; do not repeatedly reload a crashing image payload.
+
 Use `prepare-tool` to reserve one attempt and obtain the complete prompt and
 resolved image paths. Pass those actual inputs to the built-in image tool. Record
 its real saved output with `record-tool-output`, then visibly inspect and accept
@@ -219,13 +277,17 @@ Useful commands (all `python -m illustrated.edition`):
 - `inspect-original EDITION ID --evidence-file FILE`
 - `set-asset EDITION ID --kind character|location|object|style|illustration|cover
   --prompt-file FILE --size SIZE [--reference ID ...] [--after ANCHOR]
-  [--layout inline|full-page|spot --alt TEXT --caption TEXT]`
+  [--layout inline|full-page|spot --alt TEXT --caption TEXT]
+  [--state-file FILE] [--reference-role ID=ROLE ...]`
+- `configure-production EDITION --pilot ASSET [--decision-file FILE]`
 - `configure-workflow EDITION --backend codex-imagegen --visual-review-policy assistant --decision-file FILE`
 - `configure-output EDITION --format web|web-pdf --decision-file FILE`
 - `prepare-tool EDITION ID [--dry-run] [--correction-file FILE]`
 - `prepare-tool EDITION ID --edit-last-rejected --reference ACCEPTED_ID ... --correction-file FILE [--dry-run]`
 - `record-tool-output EDITION ID SAVED_IMAGE --evidence-file FILE`
-- `review-visuals EDITION --reviewer ID --evidence-file FILE`
+- `review-visuals EDITION [--pilot] --reviewer ID --evidence-file FILE`
+- `review-pilot EDITION --reviewer ID --evidence-file FILE`
+- `stats EDITION`
 - `accept EDITION ID --evidence-file FILE`
 - `reject EDITION ID --evidence-file FILE`
 - `repin-source EDITION --decision-file FILE`
@@ -244,7 +306,7 @@ geography, state, style and composition in the brief. The
 target counts toward the five-image cap. A subset changes only this attempt's
 inputs, not the asset's full dependency binding. Persist the actual target hash,
 selected inputs, prompt and prior provenance. Never replace returned paths by
-hand or use a targeted edit to bypass the attempt allowance.
+hand or use a targeted edit to bypass dependency checks or legacy attempt rules.
 Keep the edit prompt focused on the local change and explicit invariants; do not
 replay the full scene-generation brief or request a fresh interpretation of its
 style. The base image supplies the established composition and rendering. No
@@ -254,11 +316,22 @@ pixels. Inspect the whole edited image, including previously passing regions,
 and reject new drift before proceeding.
 Use UTF-8 files for multiline prompts, decisions, and evidence. Read-only dry
 runs do not consume an attempt or approval. Persist attempts by stable asset ID;
-renaming files or resuming a session cannot reset them. After the initial run
-plus two corrections, stop for actual user direction; `extra-attempt EDITION ID
---decision-file FILE` records authorization for another attempt. Failed calls
-are counted conservatively. A request to change an approved visual invalidates
-its dependent scenes, render, review, and approval.
+renaming files or resuming a session cannot reset them. New-policy editions have
+no numeric generation budget or per-asset cap. Correct autonomously within the
+requested scope. After two unsuccessful fixes, explain the diagnosed cause and
+change the composition, state guidance, or conflicting references instead of
+repeating the same request. Ask only when an actual tool/access problem,
+source conflict, or user-owned decision prevents progress. Legacy editions
+retain one initial run plus two corrections and their `extra-attempt EDITION ID
+--decision-file FILE` mechanism until explicit migration. Failed calls count
+conservatively. A changed accepted visual invalidates its dependent scenes,
+render, review, and approval.
+
+`stats EDITION` reports recorded attempts, outcomes, durations, and unused
+references from the existing manifest. Preserve actual timestamps and tool
+provenance across resumes; missing historic timing is unknown. These statistics
+help diagnose rework. They do not represent account-wide weekly usage, establish
+a budget, or create another ledger/artifact.
 
 If a generation is interrupted, verify its exact process/tool handle is terminal
 or missing before recovery. A stored `generating` flag, elapsed time, or observation
@@ -297,9 +370,12 @@ PDF output was requested. Check:
 - one distinct place per location image, shown as a single coherent environment
   rather than a montage, with accurate filenames and consistent state geography;
 - clean anatomy, contact points, object integrity, and image finish;
-- useful moment selection, spoiler placement, alt text and optional captions;
+- coverage of major exchanges, useful moment selection, centerpiece impact at
+  actual reader size, exact depicted state, spoiler placement, alt text and
+  optional captions;
 - one existing Library card and canonical story URL, preserved source metadata
-  and order, illustrated cover/label, working Library/theme controls, and no
+  and order, illustrated cover/label, the shared Pages branding/Library/theme/
+  repository header with one working theme control, and no
   redundant original-reader or unrequested PDF link;
 - the existing catalog's exact Writing Prompt displayed as escaped literal text
   before the story prose, separately from it; no workflow instructions, regenerated
@@ -355,3 +431,9 @@ captured assets; commit, push with upstream, and open a draft PR. Do not merge.
 Builds use only captured prose, artwork, and explicitly requested PDFs; never production generation
 or source traversal. Final edition assets are derivative illustrations, not
 canon authority.
+
+A renderer/header change builds from stored snapshots without recapture,
+regeneration, or editing old production packages. Publication of new artwork
+still requires the named capture above. A pushed branch or draft PR alone is
+not a changed live reader: verify the intended captured selection in the built
+story URL, and report draft-PR status separately from deployed publication.

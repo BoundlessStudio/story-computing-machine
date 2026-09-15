@@ -16,6 +16,9 @@ link is added. PDF output and its download link require an explicit request.
 The reader retains a Writing Prompt box before the prose, using the exact
 existing catalog prompt. Changes to that published prompt invalidate pending
 render/review approval; edition workflow instructions never replace it.
+Illustrated readers and early layout previews use the same Pages header as the
+Library and ordinary stories: branding, Library, theme icons, and GitHub link.
+Illustrated typography is confined to the reading area.
 
 ## Install
 
@@ -93,7 +96,28 @@ position and content so repeated paragraphs remain distinguishable and changed
 source cannot silently reuse placements. Parse the complete Markdown; never
 render individual prose fragments to insert images.
 
-After actual plan approval, prepare one built-in call at a time:
+Before plan approval, map each major exchange to an illustration or explicit
+prose-only treatment. Name the hardest or most important composition as the
+centerpiece, list every reference's downstream use, and remove unused sheets.
+A reference used through another needed reference counts as a downstream use.
+Register the exact source instant and required/absent states for each scene,
+and explain every input's identity, style, or geometry role. For example:
+
+```powershell
+python -m illustrated.edition set-asset edition-slug centerpiece --kind illustration --prompt-file tmp/centerpiece.md --state-file tmp/centerpiece-state.md --size 1536x1024 --after ANCHOR_FROM_COMMAND --layout inline --alt "Description of the planned scene" --reference character-id --reference setting-id --reference-role "character-id=Identity and rendering style" --reference-role "setting-id=Room geography at the scene's required state"
+python -m illustrated.edition configure-production edition-slug --pilot centerpiece
+python -m illustrated.edition approve edition-slug plan --decision-file tmp/user-plan.md
+```
+
+A scene-state file names the source moment, what is present, and what is absent
+or changed. An example for a scene before assembly: "The apparatus is empty.
+All sockets are visibly empty; the retaining rod has not been inserted."
+Use compatible inputs; a reference showing full sockets and an inserted rod
+would work against that state. Change the reference or framing before spending
+more generations on conflicting instructions.
+
+After actual plan approval, generate only the centerpiece's required reference
+chain and cover first. Prepare one built-in call at a time:
 
 ```powershell
 python -m illustrated.edition prepare-tool edition-slug asset-id
@@ -115,9 +139,9 @@ Choose accepted dependencies relevant to the edit, keeping the input set small.
 Unchanged people and places are preserved from the verified base; changes to
 character identity, clothing or state require that character's sheet.
 The request records the target and selected input hashes; use its paths
-and order exactly. This is a counted correction with the same attempt cap and
-approval checks as a fresh generation. `--dry-run` checks preparation without
-consuming an attempt.
+and order exactly. This is a counted correction with the same source,
+dependency, and applicable legacy attempt checks as a fresh generation.
+`--dry-run` checks preparation without consuming an attempt.
 
 Keep the edit prompt limited to the correction and the details that must stay
 fixed. Do not resend the full scene-generation brief or ask for fresh art
@@ -137,22 +161,57 @@ an older edition to web-only. Use `--format web-pdf` only for an explicit PDF
 request. New editions default to web; old manifests preserve their original
 output choice until deliberately changed.
 
-After the assistant has inspected and accepted every reference sheet:
+New editions use `productionPolicy` version 1. For an existing edition, adopt
+it only with explicit user direction using
+`configure-production edition-slug --pilot centerpiece --decision-file FILE`,
+then renew plan approval. Migration preserves old attempts and provenance.
+Unmigrated editions keep their historical stage ordering and three-attempt
+allowance; `extra-attempt` remains their explicit extension mechanism.
+
+Once the centerpiece's references and cover are inspected and accepted:
 
 ```powershell
 python -m pages.illustrated_editions layout-sample edition-slug --output tmp/layout-sample
-python -m illustrated.edition layout-preview edition-slug tmp/layout-sample/index.html --evidence-file tmp/layout-evidence.md
-python -m illustrated.edition review-visuals edition-slug --reviewer coordinator --evidence-file tmp/visual-review.md
+python -m illustrated.edition layout-preview edition-slug tmp/layout-sample/stories/source-slug.html --evidence-file tmp/layout-evidence.md
+python -m illustrated.edition review-visuals edition-slug --pilot --reviewer coordinator --evidence-file tmp/pilot-visual-review.md
+# Generate, inspect, and accept the centerpiece with the lifecycle above.
+python -m pages.illustrated_editions layout-sample edition-slug --output tmp/layout-sample
+python -m illustrated.edition layout-preview edition-slug tmp/layout-sample/stories/source-slug.html --evidence-file tmp/pilot-layout-evidence.md
+python -m illustrated.edition review-pilot edition-slug --reviewer coordinator --evidence-file tmp/pilot-review.md
 ```
 
-Inspect and correct the reference sheets, reused/requested cover, and sample
-before recording assistant visual review. Continue to scene generation after
-this review; the user reviews and approves the complete final edition. Record
-assistant review separately from user approval. Honor an extra intermediate
-user approval stage only when the user requests it.
-The allowance is one initial call plus two automatic corrections per stable
-asset ID. Renaming a file or restarting the agent does not reset it. Additional
-attempts need explicit user direction, recorded with `extra-attempt`.
+Use the exact returned reader path, substituting the real source slug. The
+first sample can use an accepted reference while other references remain
+pending. The second uses the accepted centerpiece's actual pixels, anchor,
+and layout. Inspect its narrative impact, scale, state, and framing at desktop
+and mobile reading sizes. After that assistant review passes, produce the
+remaining references, record ordinary full `review-visuals` for the complete
+reference set/cover/layout, and generate the remaining scenes.
+Remaining references may use the reviewed centerpiece, but cannot depend on
+later scenes: the full reference review must precede those scenes.
+
+These reviews belong to the assistant. The user approves the plan and final
+edition; there is no new routine permission stage. If the user explicitly
+requests intermediate approval, use `approve edition-slug pilot-visuals
+--decision-file FILE` for the initial centerpiece visual inputs and honor the
+configured approval workflow thereafter.
+
+New-policy editions have no numeric generation budget or per-asset cap.
+Correct visible problems within the requested scope. After two unsuccessful
+fixes, diagnose the cause and change composition, conflicting references, or
+state guidance instead of repeating the same call. Ask only for an actual
+blocking tool/access/source issue or a user-owned decision. Preserve counters
+and provenance when changing strategy, renaming files, or resuming work.
+
+Use `python -m illustrated.edition stats edition-slug` for compact recorded
+outcomes, durations, and unused-reference diagnostics. Historic missing timing
+stays unknown; attempt counts cannot establish weekly account usage. Statistics
+use attempt evidence from the existing manifest and produce command output,
+without extra records.
+Assign artists one asset with bounded instructions and exact source/reference
+paths. For historical audits, read sanitized local text extracts and inspect
+selected image files separately; avoid image-heavy `read_thread` payloads that
+can overwhelm the app.
 
 After every scene is accepted:
 
@@ -168,7 +227,7 @@ python pages/build.py build --output _site
 
 Rendering creates edition.html. The preview command returns
 `stories/<source-slug>.html` inside a disposable Library copy, with the same
-single story card, illustrated cover/label, Library link and light/dark controls.
+single story card, illustrated cover/label, and complete shared Pages header.
 It does not capture or publish anything. Inspect the complete HTML at mobile
 and desktop widths before independent review/final approval. Only when PDF
 output was requested, render also creates the digital 6×9-inch edition.pdf;
@@ -185,3 +244,9 @@ the published selection for that source story; only one edition supplies its
 Library card and reader. Captured prose/art remain stored separately from the
 unchanged original catalog and source package. Ordinary capture/capture-all
 never refresh an edition.
+
+Shared-header/template fixes take effect when Pages rebuilds the stored
+snapshots; they require no art regeneration, production-package edits, or
+recapture. For new artwork, capture is still required. A draft PR is reviewable
+work, not a changed live reader: verify the selected illustration snapshot at
+the built story URL and report deployment status separately from PR creation.

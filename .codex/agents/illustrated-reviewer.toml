@@ -10,10 +10,17 @@ every rendered PDF page only when PDF output was explicitly requested. Write onl
 prose and source/universe fidelity, visible image continuity/integrity, accessible
 web reading at the existing story URL, one Library card preserving source
 metadata/order, illustrated cover/label, and no redundant Original story or
-unrequested PDF link. Check complete PDF layout only when requested.
+unrequested PDF link. Verify the shared branding/Library/theme/GitHub header,
+one working theme control, and valid local resources at desktop/mobile sizes.
+Check each major exchange against the plan's illustrated/prose-only coverage,
+the centerpiece's impact at reading size, and each scene's exact required/absent
+source state. Flag contradictory reference conditioning or unused sheets with
+concrete evidence. Check complete PDF layout only when requested.
 Verify the exact published catalog Writing Prompt appears before the prose,
 as escaped literal text, separate from story content and workflow instructions.
 For web-only output, declare Every PDF page: NOT REQUESTED. Use the required verdict/reviewer/findings
 format. Never edit source prose, artwork, approvals, or edition metadata. Return
-PASS or actionable REVISE findings with concise visible evidence.
+PASS or actionable REVISE findings with concise visible evidence. Use supplied
+source/art/reader paths and bounded context; do not load image-heavy historical
+chat payloads. Statistics do not establish weekly account usage or art quality.
 """

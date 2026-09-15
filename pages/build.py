@@ -1052,7 +1052,11 @@ def _page(
     *,
     current: str | None = None,
     script_href: str | None = None,
+    extra_stylesheet_hrefs: tuple[str, ...] = (),
+    body_class: str | None = None,
+    main_class: str | None = None,
 ) -> str:
+    library_href = html.escape(library_href, quote=True)
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
     theme_toggle = (
         '<button class="theme-toggle" type="button" data-theme-toggle '
@@ -1076,8 +1080,14 @@ def _page(
         if script_href is not None
         else ""
     )
-    body_class = ' class="timeline-body"' if current == "timeline" else ""
+    body_classes = (["timeline-body"] if current == "timeline" else []) + ([body_class] if body_class else [])
+    body_attribute = f' class="{html.escape(" ".join(body_classes), quote=True)}"' if body_classes else ""
+    main_attribute = f' class="{html.escape(main_class, quote=True)}"' if main_class else ""
     atlas_styles = '<link rel="stylesheet" href="atlas.css">' if current == "timeline" else ""
+    extra_styles = ''.join(
+        f'<link rel="stylesheet" href="{html.escape(href, quote=True)}">'
+        for href in extra_stylesheet_hrefs
+    )
     return (
         '<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -1086,7 +1096,7 @@ def _page(
         f'<title>{html.escape(title)}</title>'
         f'{THEME_BOOTSTRAP}'
         f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
-        f'{atlas_styles}{theme_script}{script}</head><body{body_class}>{header}<main>{body}</main></body></html>'
+        f'{atlas_styles}{extra_styles}{theme_script}{script}</head><body{body_attribute}>{header}<main{main_attribute}>{body}</main></body></html>'
     )
 
 

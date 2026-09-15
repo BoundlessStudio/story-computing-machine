@@ -212,8 +212,16 @@ generation, page review, and download links are optional and require a user requ
 Record intermediate assistant review separately from user approval. User approval
 is an actual response bound to exact inputs, never an agent verdict or elapsed time.
 Use the imagegen skill's built-in Codex image generation by default, with accepted
-reference images attached, one asset per call, and an initial run plus two
-automatic corrections per stable image ID. Do not use the API, an API key, a CLI
+reference images attached, one asset per call. New editions resolve the
+centerpiece and its necessary references first, then review its actual pixels
+in the reading layout before producing the remaining artwork. Map major
+exchanges to images or explicit prose-only treatment, justify every reference
+through a downstream use, and bind scene states and reference roles in the
+existing plan/manifest. Correct within the authorized scope; after two
+unsuccessful fixes, diagnose the cause and change the composition or conflicting
+inputs. New editions have no numeric generation budget or attempt cap. Legacy
+manifests retain their recorded production rules until explicitly migrated;
+never reset their attempt history. Do not use the API, an API key, a CLI
 image runner or another paid fallback unless the user explicitly requests that
 path. Do not claim a specific backend model variant when the built-in tool does
 not report it. Persist actual tool provenance and attempts across resumes. Source
@@ -251,6 +259,10 @@ snapshots backing the existing story catalog. An approved illustrated edition
 replaces the reader at `stories/<source-slug>.html` and uses that story's one
 Library card, with its illustrated cover and label. Preserve the source title,
 catalog position, metadata, and count.
+Use the same shared Pages header in illustrated readers and early layout
+previews, including branding, Library, theme controls, and the repository link.
+Scope illustrated styling to the reading area. Header/template fixes apply to
+builds of stored snapshots without regenerating art or recapturing an edition.
 Keep the existing catalog Writing Prompt visible before the story prose, using
 the exact published text and literal HTML escaping, separately from story content.
 Do not substitute edition workflow instructions or a regenerated prompt.

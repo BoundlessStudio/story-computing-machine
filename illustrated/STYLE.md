@@ -17,7 +17,10 @@ logo, speech bubble, narration box, invented chapter, or decorative text.
 
 Web reading is continuous, responsive, and selectable, with a comfortable
 measure, light/dark themes, visible keyboard focus, descriptive alt text, a
-Library link, and the existing story URL. Its single Library card uses the
+shared Pages header, and the existing story URL. The header matches ordinary
+stories and the Library: branding, Library navigation, theme icons, and GitHub
+link. Use it in early layout previews too; keep reading-area CSS from changing
+the shared header. Its single Library card uses the
 illustrated cover while retaining source metadata and catalog position.
 Keep a clearly labeled Writing Prompt box before the prose, containing the
 exact existing catalog prompt as literal text. It is publication context,
@@ -46,7 +49,16 @@ reference sheets and cover generation are counted separately. Artwork is placed
 after a stable source block at or after the illustrated revelation. Never reorder
 prose to accommodate an image. Production editions can coexist under distinct
 slugs; only one approved edition per story supplies its published reader.
-Mode does not select a canned art style.
+Mode does not select a canned art style. Map every major exchange and reveal
+to a planned image or explicit prose-only treatment before fixing counts.
+Keep the coverage the story needs; prevent unnecessary generations through
+useful references and settled compositions, not a numeric generation budget.
+
+Choose the centerpiece first: the image whose impact, scale, or framing is
+hardest to settle. Develop only its required references and cover, then inspect
+its actual pixels in the shared reading layout before producing the remainder.
+A strong standalone close-up may still miss a climax that needs environmental
+scale. Judge the moment at its actual desktop and mobile reading size.
 
 ## Story art direction
 
@@ -69,8 +81,25 @@ replace accepted sheets with a generic interpretation of the anime default.
 Plan these style dependencies within the five-reference input limit.
 
 Fix practical appearance choices in accepted character/location/object
-references before scenes. Changes require renewed review and any affected
+references before their dependent scenes. Every reference needs a downstream
+consumer; indirect use through another necessary reference is sufficient.
+Avoid speculative sheets that never help a selected illustration. A different
+state earns its own reference only when it solves a specific scene need.
+
+State each scene's exact instant: who and what is present, which objects are
+intact or broken, what is inserted or removed, and what must be absent. Choose
+inputs compatible with that instant. Do not ask a fully assembled apparatus
+image to teach an empty apparatus scene without resolving that contradiction.
+Assign each input a specific identity, style, or geometry role with state
+limits. Put source truth and composition ahead of repetitive style prose in
+the generation prompt. Changes require renewed review and any affected
 approvals under the production contract.
+
+After two unsuccessful fixes, diagnose what is driving the repeated error.
+Change the conflicting reference, simplify the visible mechanism, or reframe
+the moment while preserving the source. Continue corrections within scope;
+new editions have no per-asset attempt cap. Historical rules remain active
+for an unmigrated legacy manifest, with attempts/provenance preserved.
 
 ## Finish
 
