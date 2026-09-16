@@ -24,8 +24,6 @@
 #world-network { display: block; width: 100%; flex: 1; min-height: 0; cursor: grab; touch-action: none; }
 #world-network.is-dragging { cursor: grabbing; }
 .graph-map-footer { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: space-between; align-items: center; padding: .55rem .9rem; font: .59rem/1.5 ui-sans-serif, system-ui, sans-serif; color: var(--muted); border-top: 1px solid var(--line); background: var(--paper-raised); }
-.graph-map-footer label { display: flex; align-items: center; gap: .3rem; white-space: nowrap; }
-.graph-map-footer input { accent-color: var(--accent); }
 .network-edge { stroke: var(--muted); stroke-width: 1; opacity: .34; vector-effect: non-scaling-stroke; }
 .edge-direct { stroke: var(--accent); stroke-width: 1.5; opacity: .7; }
 .edge-historical { stroke-dasharray: 6 4; opacity: .55; }
@@ -36,10 +34,7 @@
 .network-node { cursor: pointer; outline: none; }
 .node-hit { fill: transparent; stroke: transparent; stroke-width: 2; }
 .node-dot { stroke: var(--paper-raised); stroke-width: 2; }
-.node-title { font: 14px ui-sans-serif, system-ui, sans-serif; fill: var(--ink); stroke: var(--paper); stroke-width: 4px; stroke-linejoin: round; paint-order: stroke; display: none; }
-.network-node.has-overview-label .node-title, .network-node:hover .node-title, .network-node:focus .node-title, .network-node.is-selected .node-title, .show-titles .node-title, .is-zoomed .node-title { display: block; }
 .network-node.is-dimmed { opacity: .22; }
-.network-node.is-dimmed .node-title { display: none; }
 .network-node:hover, .network-node:focus { opacity: 1; }
 .network-node:hover .node-hit, .network-node:focus .node-hit { stroke: var(--focus); }
 .network-node.is-selected .node-hit { stroke: var(--ink); }

@@ -56,8 +56,7 @@ def render_graph(data: dict) -> str:
         <p id="graph-key-description"></p><div id="graph-legend"></div>
       </section>
     </details>
-    <div class="graph-map-footer"><span>Drag to pan · Scroll to zoom</span>
-      <label><input type="checkbox" id="graph-labels"> Show titles</label></div>
+    <div class="graph-map-footer"><span>Drag to pan · Scroll to zoom · Hover or select a story</span></div>
     <div class="graph-tooltip" id="graph-tooltip" hidden></div>
   </section>
   <aside class="graph-sidebar" id="graph-sidebar" aria-label="Story explorer" hidden>

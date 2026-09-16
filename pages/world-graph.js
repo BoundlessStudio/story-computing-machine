@@ -98,7 +98,6 @@
   }
   function applyCamera() {
     camera.setAttribute("transform", `translate(${panX} ${panY}) scale(${zoom})`);
-    svg.classList.toggle("is-zoomed", zoom > 1.8);
     $("graph-zoom-in").disabled = zoom >= 6;
     $("graph-zoom-out").disabled = zoom <= 0.4;
   }
@@ -124,17 +123,6 @@
   function paintNetwork() {
     edgeLayer.replaceChildren(); nodeLayer.replaceChildren(); nodeElements = new Map(); edgeElements = [];
     const nodeScale = Math.max(1, 900 / Math.max(300, svg.clientWidth));
-    const degree = new Map();
-    for (const edge of shownEdges) for (const id of [edge.source, edge.target]) degree.set(id, (degree.get(id) || 0) + 1);
-    const overviewLabels = new Set(), labelBounds = [];
-    for (const node of [...visible].sort((a, b) => (degree.get(b.id) || 0) - (degree.get(a.id) || 0))) {
-      if (!degree.get(node.id) || overviewLabels.size >= (svg.clientWidth < 600 ? 3 : 8)) break;
-      const p = positions.get(node.id), width = node.title.length * 7 * nodeScale;
-      const left = p.x > 750 ? p.x - width - 14 * nodeScale : p.x + 14 * nodeScale;
-      const bounds = { left, right: left + width, top: p.y - 14 * nodeScale, bottom: p.y + 12 * nodeScale };
-      if (bounds.left < 10 || bounds.right > 1090 || labelBounds.some(b => bounds.left < b.right + 10 && bounds.right > b.left - 10 && bounds.top < b.bottom + 10 && bounds.bottom > b.top - 10)) continue;
-      overviewLabels.add(node.id); labelBounds.push(bounds);
-    }
     for (const edge of shownEdges) {
       const a = positions.get(edge.source), b = positions.get(edge.target);
       const line = svgElement("line", { x1: a.x, y1: a.y, x2: b.x, y2: b.y, class: `network-edge edge-${edge.kind}` });
@@ -154,10 +142,6 @@
           transform: `rotate(${i * 360 / colors.length - 90})`,
         })));
       }
-      const label = svgElement("text", { x: (p.x > 750 ? -14 : 14) * nodeScale, y: 4 * nodeScale,
-        "text-anchor": p.x > 750 ? "end" : "start", class: "node-title" }); label.textContent = node.title; group.append(label);
-      label.style.fontSize = `${14 * nodeScale}px`;
-      group.classList.toggle("has-overview-label", overviewLabels.has(node.id));
       group.addEventListener("click", () => selectStory(node.id));
       group.addEventListener("keydown", event => {
         if (event.key === "Enter" || event.key === " ") { event.preventDefault(); selectStory(node.id, true); }
@@ -168,7 +152,6 @@
       group.addEventListener("blur", () => { $("graph-tooltip").hidden = true; });
       nodeLayer.append(group); nodeElements.set(node.id, group);
     }
-    for (const id of overviewLabels) nodeLayer.append(nodeElements.get(id));
     highlight();
   }
   function highlight() {
@@ -322,14 +305,13 @@
   });
   $("graph-status").addEventListener("change", () => update());
   $("graph-search").addEventListener("input", () => update());
-  $("graph-labels").addEventListener("change", event => svg.classList.toggle("show-titles", event.target.checked));
   $("graph-clear-category").addEventListener("click", () => {
     category = null; update(); document.querySelector(".graph-floating-key > summary").focus();
   });
   $("graph-reset").addEventListener("click", () => {
     connectionMode = "recorded"; colorMode = "cycle"; category = null; selected = null;
     $("graph-connections").value = "recorded"; $("graph-color").value = "cycle"; $("graph-status").value = "all";
-    $("graph-search").value = ""; $("graph-labels").checked = false; svg.classList.remove("show-titles");
+    $("graph-search").value = "";
     setExplorer(false); document.querySelector(".graph-floating-key").open = false;
     edges = connectionsFor(data, connectionMode); basePositions = layout(data.nodes, edges); scalePositions(); update();
   });

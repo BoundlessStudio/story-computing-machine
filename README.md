@@ -88,7 +88,8 @@ story panel support exploration. The panel preserves each recorded connection's
 reason, basis and relative order. Shared-category links are computed from
 explicit memberships and do not imply shared characters, places or causes.
 The canvas fills the page by default; the color key, explanatory text and story
-panel open on demand. Mobile controls collapse above the graph.
+panel open on demand. Nodes have no text labels; story names appear on hover
+and in the explorer. Mobile controls collapse above the graph.
 
 `pages/world_graph.py` derives the network from stored publication snapshots
 and the optional `pages/timeline.json` classifications. It never reads source
