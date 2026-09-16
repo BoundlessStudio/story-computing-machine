@@ -78,7 +78,10 @@ story pages; an approved illustrated edition replaces its story's reader and
 card presentation. The shared header links to the graph from both ordinary and
 illustrated readers. The former Chronology/Timeline page is not restored.
 
-The graph shows every catalog story as a node. Its independent **Connect by**
+The graph includes every catalog story, showing only stories with links in the
+current view by default. **Show unlinked stories** includes the remaining nodes.
+Search retains matching stories and their direct neighbors so relationships
+stay visible. Its independent **Connect by**
 and **Color by** controls offer recorded relationships, direct connections,
 historical interpretations, thematic echoes, shared eras and history threads;
 colors describe historical cycles, magic phases, overlapping history threads,
@@ -94,7 +97,8 @@ and in the explorer. Mobile controls collapse above the graph.
 `pages/world_graph.py` derives the network from stored publication snapshots
 and the optional `pages/timeline.json` classifications. It never reads source
 packages or changes catalog entries. A new story appears automatically on the
-next Pages build, even without a classification; missing memberships display
+next Pages build, even without a classification; stories without links are
+available through **Show unlinked stories**, and missing memberships display
 as Unclassified. History-thread membership uses only the model's cited anchors
 and may overlap, shown with multicolored node rings. Builds validate a present
 classification model against the stories it covers, with malformed records or

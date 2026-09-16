@@ -2,7 +2,7 @@
 
 const assert = require("node:assert/strict");
 const { test } = require("node:test");
-const { connectionsFor, layout } = require("./world-graph.js");
+const { connectionsFor, filterGraph, layout } = require("./world-graph.js");
 
 function fixture() {
   return {
@@ -136,4 +136,128 @@ test("dense shared-category layout remains deterministic and finite", () => {
   const edges = connectionsFor(data, "history");
   assert.equal(edges.length, nodes.length * (nodes.length - 1) / 2);
   assertCompleteFiniteLayout(nodes, freezeDeep(edges));
+});
+
+function filterFixture() {
+  return {
+    nodes: [
+      { id: "alpha", title: "Anchor story", canon: true, classes: { cycle: ["north"] } },
+      { id: "beta", title: "Bridge story", canon: true, classes: { cycle: ["north"] } },
+      { id: "gamma", title: "Beyond story", canon: false, classes: { cycle: ["north"] } },
+      { id: "delta", title: "Distant story", canon: false, classes: { cycle: ["south"] } },
+      { id: "unplaced-one", title: "Unplaced harbor", canon: true, classes: { cycle: [] } },
+      { id: "unplaced-two", title: "Unplaced island", canon: true, classes: { cycle: [] } },
+      { id: "lonely", title: "Lonely story", canon: true, classes: { cycle: [] } },
+    ],
+    edges: [
+      { id: "ab", source: "alpha", target: "beta", kind: "direct", basis: "established", ordering: "before" },
+      { id: "bc", source: "beta", target: "gamma", kind: "echo", basis: "thematic", ordering: "none" },
+      { id: "cd", source: "gamma", target: "delta", kind: "historical", basis: "proposed", ordering: "none" },
+      { id: "au", source: "alpha", target: "unplaced-one", kind: "echo", basis: "thematic", ordering: "none" },
+      { id: "uv", source: "unplaced-one", target: "unplaced-two", kind: "direct", basis: "reading-sequence", ordering: "before" },
+    ],
+  };
+}
+
+const nodeIds = result => result.nodes.map(node => node.id);
+const edgeIds = result => result.edges.map(edge => edge.id);
+
+test("graph defaults to linked stories and includes isolates only when requested", () => {
+  const data = filterFixture();
+  const linked = filterGraph(data.nodes, data.edges);
+  assert.deepEqual(nodeIds(linked), ["alpha", "beta", "gamma", "delta", "unplaced-one", "unplaced-two"]);
+  assert.deepEqual(linked.edges, data.edges);
+  assert.equal(linked.matchCount, 6);
+  const all = filterGraph(data.nodes, data.edges, { includeUnlinked: true });
+  assert.deepEqual(all.nodes, data.nodes);
+  assert.deepEqual(all.edges, data.edges);
+  assert.equal(all.matchCount, 7);
+});
+
+test("a graph without links stays empty unless unlinked stories are enabled", () => {
+  const { nodes } = filterFixture();
+  assert.deepEqual(filterGraph(nodes, []), { nodes: [], edges: [], matchCount: 0 });
+  assert.deepEqual(filterGraph(nodes, [], { includeUnlinked: true }), { nodes, edges: [], matchCount: nodes.length });
+  assert.deepEqual(filterGraph([], []), { nodes: [], edges: [], matchCount: 0 });
+});
+
+test("search keeps one-hop neighbors and every induced link without expanding a second hop", () => {
+  const data = filterFixture();
+  const neighborsEdge = { id: "bu", source: "beta", target: "unplaced-one", kind: "echo" };
+  const result = filterGraph(data.nodes, [...data.edges, neighborsEdge], { query: "  ANCHOR  " });
+  assert.deepEqual(nodeIds(result), ["alpha", "beta", "unplaced-one"]);
+  assert.deepEqual(edgeIds(result), ["ab", "au", "bu"]);
+  assert.equal(result.matchCount, 1, "Neighbors must not inflate the title-match count");
+  const bridge = filterGraph(data.nodes, data.edges, { query: "bridge" });
+  assert.deepEqual(nodeIds(bridge), ["alpha", "beta", "gamma"]);
+  assert.deepEqual(edgeIds(bridge), ["ab", "bc"]);
+  assert.equal(bridge.matchCount, 1);
+});
+
+test("category and canon filters limit search neighbors before expansion", () => {
+  const data = filterFixture();
+  const north = filterGraph(data.nodes, data.edges, { category: "north", query: "anchor" });
+  assert.deepEqual(nodeIds(north), ["alpha", "beta"]);
+  assert.deepEqual(edgeIds(north), ["ab"]);
+  const canon = filterGraph(data.nodes, data.edges, { status: "canon", query: "bridge" });
+  assert.deepEqual(nodeIds(canon), ["alpha", "beta"]);
+  assert.deepEqual(edgeIds(canon), ["ab"]);
+  assert.deepEqual(filterGraph(data.nodes, data.edges, { status: "noncanon", query: "anchor" }),
+    { nodes: [], edges: [], matchCount: 0 });
+});
+
+test("filters that remove all links also remove resulting isolates unless opted in", () => {
+  const data = filterFixture();
+  assert.deepEqual(filterGraph(data.nodes, data.edges, { category: "south" }),
+    { nodes: [], edges: [], matchCount: 0 });
+  const south = filterGraph(data.nodes, data.edges, { category: "south", includeUnlinked: true });
+  assert.deepEqual(nodeIds(south), ["delta"]);
+  assert.deepEqual(south.edges, []);
+  assert.equal(south.matchCount, 1);
+
+  const crossing = [{ id: "crossing", source: "alpha", target: "gamma" }];
+  assert.deepEqual(filterGraph(data.nodes, crossing, { status: "noncanon" }),
+    { nodes: [], edges: [], matchCount: 0 });
+  const noncanon = filterGraph(data.nodes, crossing, { status: "noncanon", includeUnlinked: true });
+  assert.deepEqual(nodeIds(noncanon), ["gamma", "delta"]);
+  assert.deepEqual(noncanon.edges, []);
+});
+
+test("empty and unmatched searches report only visible matches", () => {
+  const data = filterFixture();
+  const empty = filterGraph(data.nodes, data.edges, { query: "   " });
+  assert.equal(empty.matchCount, empty.nodes.length);
+  assert.deepEqual(empty, filterGraph(data.nodes, data.edges));
+  for (const includeUnlinked of [false, true]) {
+    assert.deepEqual(filterGraph(data.nodes, data.edges, { query: "not-a-story-title", includeUnlinked }),
+      { nodes: [], edges: [], matchCount: 0 });
+  }
+  assert.deepEqual(filterGraph(data.nodes, data.edges, { query: "lonely" }),
+    { nodes: [], edges: [], matchCount: 0 });
+  const isolatedMatch = filterGraph(data.nodes, data.edges, { query: "lonely", includeUnlinked: true });
+  assert.deepEqual(nodeIds(isolatedMatch), ["lonely"]);
+  assert.deepEqual(isolatedMatch.edges, []);
+  assert.equal(isolatedMatch.matchCount, 1);
+});
+
+test("unclassified stories retain stored links and can be selected as a category", () => {
+  const data = filterFixture();
+  const result = filterGraph(data.nodes, data.edges, { category: "__unclassified__" });
+  assert.deepEqual(nodeIds(result), ["unplaced-one", "unplaced-two"]);
+  assert.deepEqual(edgeIds(result), ["uv"]);
+  assert.equal(result.matchCount, 2);
+  const all = filterGraph(data.nodes, data.edges, { category: "__unclassified__", includeUnlinked: true });
+  assert.deepEqual(nodeIds(all), ["unplaced-one", "unplaced-two", "lonely"]);
+  assert.deepEqual(edgeIds(all), ["uv"]);
+});
+
+test("graph filtering leaves frozen nodes, edges, classifications, and options unchanged", () => {
+  const data = freezeDeep(filterFixture());
+  const original = structuredClone(data);
+  const options = freezeDeep({ query: "story", status: "canon", category: "north", color: "cycle", includeUnlinked: true });
+  const originalOptions = structuredClone(options);
+  filterGraph(data.nodes, data.edges, options);
+  filterGraph(data.nodes, data.edges);
+  assert.deepEqual(data, original);
+  assert.deepEqual(options, originalOptions);
 });

@@ -27,6 +27,26 @@
     return [...pairs.values()].map(edge => ({ ...edge, label: edge.labels.join(" · ") }));
   }
 
+  function filterGraph(nodes, edges, { status = "all", color = "cycle", category = null, query = "", includeUnlinked = false } = {}) {
+    const eligible = nodes.filter(node => (status === "all" || node.canon === (status === "canon")) &&
+      (category === null || (node.classes[color].length ? node.classes[color] : [UNCLASSIFIED]).includes(category)));
+    const allowed = new Set(eligible.map(node => node.id));
+    const allowedEdges = edges.filter(edge => allowed.has(edge.source) && allowed.has(edge.target));
+    const term = query.trim().toLocaleLowerCase();
+    const matches = new Set(eligible.filter(node => !term || node.title.toLocaleLowerCase().includes(term)).map(node => node.id));
+    const scope = new Set(matches);
+    if (term) {
+      for (const edge of allowedEdges) {
+        if (matches.has(edge.source)) scope.add(edge.target);
+        if (matches.has(edge.target)) scope.add(edge.source);
+      }
+    }
+    const visibleEdges = allowedEdges.filter(edge => scope.has(edge.source) && scope.has(edge.target));
+    const linked = new Set(visibleEdges.flatMap(edge => [edge.source, edge.target]));
+    const visibleNodes = eligible.filter(node => scope.has(node.id) && (includeUnlinked || linked.has(node.id)));
+    return { nodes: visibleNodes, edges: visibleEdges, matchCount: visibleNodes.filter(node => matches.has(node.id)).length };
+  }
+
   function layout(nodes, edges) {
     // Seeded positions and a bounded simulation keep reloads stable and avoid motion.
     const points = nodes.map((node, i) => ({ id: node.id,
@@ -64,7 +84,7 @@
     return new Map(points.map(p => [p.id, { x: 550 + p.x / xExtent, y: 360 + p.y / yExtent }]));
   }
 
-  if (typeof module !== "undefined" && module.exports) module.exports = { connectionsFor, layout };
+  if (typeof module !== "undefined" && module.exports) module.exports = { connectionsFor, filterGraph, layout };
   if (typeof document === "undefined") return;
   const dataElement = document.getElementById("world-graph-data");
   if (!dataElement) return;
@@ -86,7 +106,7 @@
   };
   let connectionMode = "recorded", colorMode = "cycle", category = null;
   let selected = null, visible = data.nodes, visibleIds = new Set();
-  let edges = connectionsFor(data, connectionMode), shownEdges = [], basePositions = layout(data.nodes, edges);
+  let edges = connectionsFor(data, connectionMode), shownEdges = [], basePositions = new Map(), layoutKey = "";
   let viewHeight = 720, positions = basePositions;
   let nodeElements = new Map(), edgeElements = [], zoom = 1, panX = 0, panY = 0;
   const valuesFor = node => node.classes[colorMode].length ? node.classes[colorMode] : [UNCLASSIFIED];
@@ -241,11 +261,6 @@
     }
     panel.append(list);
   }
-  function baseVisible() {
-    const query = $("graph-search").value.trim().toLocaleLowerCase(), status = $("graph-status").value;
-    return data.nodes.filter(node => (!query || node.title.toLocaleLowerCase().includes(query)) &&
-      (status === "all" || node.canon === (status === "canon")));
-  }
   function renderLegend(base) {
     const classification = data.classifications[colorMode];
     $("graph-key-title").textContent = `Color by ${classification.label.toLowerCase()}`;
@@ -276,12 +291,22 @@
     }
   }
   function update({ refit = true } = {}) {
-    const base = baseVisible(); visible = base.filter(node => category === null || valuesFor(node).includes(category));
+    const query = $("graph-search").value;
+    const options = { status: $("graph-status").value, color: colorMode, category, query, includeUnlinked: $("graph-unlinked").checked };
+    const filtered = filterGraph(data.nodes, edges, options);
+    visible = filtered.nodes; shownEdges = filtered.edges;
+    const base = category === null ? visible : filterGraph(data.nodes, edges, { ...options, category: null }).nodes;
     visibleIds = new Set(visible.map(node => node.id));
     if (selected && !visibleIds.has(selected)) selected = null;
-    shownEdges = edges.filter(edge => visibleIds.has(edge.source) && visibleIds.has(edge.target));
-    $("graph-summary").textContent = `${visible.length} of ${data.nodes.length} stories · ${shownEdges.length} connections`;
+    const nextLayoutKey = `${connectionMode}:${visible.map(node => node.id).join(",")}`;
+    if (layoutKey !== nextLayoutKey) {
+      layoutKey = nextLayoutKey; basePositions = layout(visible, shownEdges); scalePositions(); refit = true;
+    }
+    const matchLabel = query.trim() ? ` · ${filtered.matchCount} title ${filtered.matchCount === 1 ? "match" : "matches"}` : "";
+    $("graph-summary").textContent = `${visible.length} of ${data.nodes.length} stories · ${shownEdges.length} connections${matchLabel}`;
     $("graph-empty").hidden = visible.length !== 0;
+    $("graph-empty").textContent = options.includeUnlinked ? "No stories match. Clear the search or reset the view."
+      : "No linked stories match this view. Clear filters or turn on Show unlinked stories.";
     $("graph-tooltip").hidden = true;
     renderLegend(base); paintNetwork(); renderDetail(); renderList();
     if (refit) fit();
@@ -298,13 +323,16 @@
     document.querySelector(".graph-line-key").hidden = ["era", "history", "none"].includes(connectionMode);
   }
   $("graph-connections").addEventListener("change", event => {
-    connectionMode = event.target.value; edges = connectionsFor(data, connectionMode); basePositions = layout(data.nodes, edges); scalePositions(); update();
+    connectionMode = event.target.value;
+    if (connectionMode === "none") $("graph-unlinked").checked = true;
+    edges = connectionsFor(data, connectionMode); update();
   });
   $("graph-color").addEventListener("change", event => {
     const refit = category !== null; colorMode = event.target.value; category = null; update({ refit });
   });
   $("graph-status").addEventListener("change", () => update());
   $("graph-search").addEventListener("input", () => update());
+  $("graph-unlinked").addEventListener("change", () => update());
   $("graph-clear-category").addEventListener("click", () => {
     category = null; update(); document.querySelector(".graph-floating-key > summary").focus();
   });
@@ -312,8 +340,9 @@
     connectionMode = "recorded"; colorMode = "cycle"; category = null; selected = null;
     $("graph-connections").value = "recorded"; $("graph-color").value = "cycle"; $("graph-status").value = "all";
     $("graph-search").value = "";
+    $("graph-unlinked").checked = false;
     setExplorer(false); document.querySelector(".graph-floating-key").open = false;
-    edges = connectionsFor(data, connectionMode); basePositions = layout(data.nodes, edges); scalePositions(); update();
+    edges = connectionsFor(data, connectionMode); update();
   });
   $("graph-zoom-in").addEventListener("click", () => zoomAt(1.3));
   $("graph-zoom-out").addEventListener("click", () => zoomAt(1 / 1.3));
@@ -342,8 +371,8 @@
   });
   const missing = data.metadata.unclassifiedCount;
   $("graph-coverage").textContent = data.metadata.sourceAvailable
-    ? `All ${data.nodes.length} published stories are here. The retained world model classifies ${data.metadata.classifiedCount}; ${missing} ${missing === 1 ? "story has" : "stories have"} no placement yet. Unclassified stories stay visible, even without recorded links.`
-    : `All ${data.nodes.length} published stories are here. No world classifications are available in this snapshot yet. Canon status and content rating remain available.`;
+    ? `All ${data.nodes.length} published stories are available. The retained world model classifies ${data.metadata.classifiedCount}; ${missing} ${missing === 1 ? "story has" : "stories have"} no placement yet. By default, only stories with links in the current view appear. Turn on Show unlinked stories to include the rest. Search includes matching stories and their direct neighbors.`
+    : `All ${data.nodes.length} published stories are available, but this snapshot has no recorded links or world classifications. Turn on Show unlinked stories to explore canon status and content rating.`;
   function scalePositions() {
     positions = new Map([...basePositions].map(([id, p]) => [id, { x: p.x, y: p.y / 720 * viewHeight }]));
   }
