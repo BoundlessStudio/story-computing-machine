@@ -1066,10 +1066,14 @@ def _page(
         '<span class="theme-label" data-theme-label="dark">Dark</span></button>'
     )
     library_current = ' aria-current="page"' if current == "library" else ""
+    world_href = library_href.rpartition("/")[0]
+    world_href = f"{world_href}/world.html" if world_href else "world.html"
+    world_current = ' aria-current="page"' if current == "world" else ""
     header = (
         f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
         f'<nav class="site-nav" aria-label="Primary">'
-        f'<a href="{library_href}"{library_current}>Library</a></nav>'
+        f'<a href="{library_href}"{library_current}>Library</a>'
+        f'<a href="{world_href}"{world_current}>World graph</a></nav>'
         f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
     )
     theme_script = (
@@ -1250,6 +1254,21 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     editions = []
     if edition_snapshot.exists():
         editions = _illustrated_module().build_editions(destination, edition_snapshot)
+    if __package__:
+        from .world_graph import graph_data
+        from .graph_view import render_graph
+    else:
+        from world_graph import graph_data
+        from graph_view import render_graph
+    graph = graph_data(catalog, snapshot_path.with_name("timeline.json"), editions)
+    (destination / "world.html").write_text(_page(
+        "World graph — Story Computing Machine", render_graph(graph),
+        "index.html", "styles.css", "theme.js", current="world",
+        script_href="world-graph.js", extra_stylesheet_hrefs=("world-graph.css",),
+        body_class="graph-body", main_class="graph-main",
+    ), encoding="utf-8")
+    for asset in ("world-graph.js", "world-graph.css"):
+        shutil.copy2(Path(__file__).with_name(asset), destination / asset)
     (destination / "index.html").write_text(render_index(catalog, editions), encoding="utf-8")
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover

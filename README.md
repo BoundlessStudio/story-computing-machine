@@ -73,11 +73,34 @@ contract and [edition tooling](illustrated/README.md) for setup and commands.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
-GitHub Pages publishes the Library and story pages; an approved illustrated
-edition replaces its story's reader and card presentation. The
-Chronology/Timeline page and its assets are no longer published, and the site
-build and `python pages/build.py check` do not load chronology data. The model
-and renderer remain in the repository for local reference.
+GitHub Pages publishes the Library, the **World graph** at `world.html`, and
+story pages; an approved illustrated edition replaces its story's reader and
+card presentation. The shared header links to the graph from both ordinary and
+illustrated readers. The former Chronology/Timeline page is not restored.
+
+The graph shows every catalog story as a node. Its independent **Connect by**
+and **Color by** controls offer recorded relationships, direct connections,
+historical interpretations, thematic echoes, shared eras and history threads;
+colors describe historical cycles, magic phases, overlapping history threads,
+placement evidence, canon status or content rating. Search, canon filtering,
+clickable color keys, pan/zoom, a keyboard-accessible story list and a selected
+story panel support exploration. The panel preserves each recorded connection's
+reason, basis and relative order. Shared-category links are computed from
+explicit memberships and do not imply shared characters, places or causes.
+The canvas fills the page by default; the color key, explanatory text and story
+panel open on demand. Mobile controls collapse above the graph.
+
+`pages/world_graph.py` derives the network from stored publication snapshots
+and the optional `pages/timeline.json` classifications. It never reads source
+packages or changes catalog entries. A new story appears automatically on the
+next Pages build, even without a classification; missing memberships display
+as Unclassified. History-thread membership uses only the model's cited anchors
+and may overlap, shown with multicolored node rings. Builds validate a present
+classification model against the stories it covers, with malformed records or
+unpublished endpoints reported as errors. An absent model still produces the
+full graph with canon and rating colors. No separate graph capture is needed.
+`python pages/build.py check` remains a publication inventory check and does not
+load chronology data. The old chronology renderer remains for local reference.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -141,7 +164,19 @@ For a local site preview:
 
 ```powershell
 python pages/build.py build --output _site
+python -m http.server 8000 --directory _site
 ```
+
+Open `http://localhost:8000/world.html` to preview the network. Run its data,
+publication integration and layout checks with:
+
+```powershell
+python -m unittest pages.test_build pages.test_world_graph
+node --test pages/test_world_graph.cjs
+```
+
+The production graph is plain JavaScript and SVG with no external graph library
+or network service. Node.js is needed only for the JavaScript tests.
 
 Capture derives the public prompt on first publication and preserves editorial
 catalog text on recapture. `capture-all` refreshes existing catalog entries only.

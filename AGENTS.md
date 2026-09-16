@@ -290,8 +290,10 @@ through draft pull requests, never automatically.
 ## Pages
 
 `pages/catalog.json` and `pages/covers/` are the stored publication snapshot;
-`pages/timeline.json` is a retained local chronology model, not canon authority
-or a required publication artifact.
+`pages/timeline.json` is a retained editorial chronology model and optional
+classification source for the World graph, not canon authority or a required
+publication artifact. The graph includes all catalog stories; missing model
+memberships remain unclassified. Graph builds use stored snapshots only.
 Pages builds publish the snapshot only, without traversing `stories/` or running
 story validation. Capture requires a passing review without repeating full
 validation.
