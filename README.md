@@ -79,7 +79,8 @@ card presentation. The shared header links to the graph from both ordinary and
 illustrated readers. The former Chronology/Timeline page is not restored.
 
 The graph includes every catalog story, showing only stories with links in the
-current view by default. **Show unlinked stories** includes the remaining nodes.
+current view by default. The **Show** dropdown switches between linked and all
+stories, including canon-only and non-canon-only options.
 Search retains matching stories and their direct neighbors so relationships
 stay visible. Its independent **Connect by**
 and **Color by** controls offer recorded relationships, direct connections,
@@ -98,7 +99,7 @@ and in the explorer. Mobile controls collapse above the graph.
 and the optional `pages/timeline.json` classifications. It never reads source
 packages or changes catalog entries. A new story appears automatically on the
 next Pages build, even without a classification; stories without links are
-available through **Show unlinked stories**, and missing memberships display
+available through **Show → All stories**, and missing memberships display
 as Unclassified. History-thread membership uses only the model's cited anchors
 and may overlap, shown with multicolored node rings. Builds validate a present
 classification model against the stories it covers, with malformed records or

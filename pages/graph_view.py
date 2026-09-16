@@ -28,8 +28,10 @@ def render_graph(data: dict) -> str:
     <option value="history">History threads</option><option value="evidence">Placement evidence</option>
     <option value="canon">Canon status</option><option value="rating">Content rating</option>
   </select></label>
-  <label>Show<select id="graph-status"><option value="all">All stories</option>
-    <option value="canon">Canon stories</option><option value="noncanon">Non-canon stories</option>
+  <label>Show<select id="graph-status"><option value="linked">Linked stories</option>
+    <option value="all">All stories</option>
+    <option value="linked-canon">Linked canon stories</option><option value="canon">All canon stories</option>
+    <option value="linked-noncanon">Linked non-canon stories</option><option value="noncanon">All non-canon stories</option>
   </select></label>
   <label class="graph-search-label">Find a story<input id="graph-search" type="search" placeholder="Search titles…" autocomplete="off"></label>
   <button id="graph-reset" type="button">Reset view</button>
@@ -56,8 +58,7 @@ def render_graph(data: dict) -> str:
         <p id="graph-key-description"></p><div id="graph-legend"></div>
       </section>
     </details>
-    <div class="graph-map-footer"><span>Drag to pan · Scroll to zoom</span>
-      <label><input type="checkbox" id="graph-unlinked"> Show unlinked stories</label></div>
+    <div class="graph-map-footer"><span>Drag to pan · Scroll to zoom · Hover or select a story</span></div>
     <div class="graph-tooltip" id="graph-tooltip" hidden></div>
   </section>
   <aside class="graph-sidebar" id="graph-sidebar" aria-label="Story explorer" hidden>

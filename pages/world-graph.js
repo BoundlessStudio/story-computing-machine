@@ -292,7 +292,10 @@
   }
   function update({ refit = true } = {}) {
     const query = $("graph-search").value;
-    const options = { status: $("graph-status").value, color: colorMode, category, query, includeUnlinked: $("graph-unlinked").checked };
+    const show = $("graph-status").value;
+    const includeUnlinked = !show.startsWith("linked");
+    const status = show === "linked" ? "all" : show.replace("linked-", "");
+    const options = { status, color: colorMode, category, query, includeUnlinked };
     const filtered = filterGraph(data.nodes, edges, options);
     visible = filtered.nodes; shownEdges = filtered.edges;
     const base = category === null ? visible : filterGraph(data.nodes, edges, { ...options, category: null }).nodes;
@@ -306,7 +309,7 @@
     $("graph-summary").textContent = `${visible.length} of ${data.nodes.length} stories · ${shownEdges.length} connections${matchLabel}`;
     $("graph-empty").hidden = visible.length !== 0;
     $("graph-empty").textContent = options.includeUnlinked ? "No stories match. Clear the search or reset the view."
-      : "No linked stories match this view. Clear filters or turn on Show unlinked stories.";
+      : "No linked stories match this view. Clear filters or choose All stories under Show.";
     $("graph-tooltip").hidden = true;
     renderLegend(base); paintNetwork(); renderDetail(); renderList();
     if (refit) fit();
@@ -324,7 +327,10 @@
   }
   $("graph-connections").addEventListener("change", event => {
     connectionMode = event.target.value;
-    if (connectionMode === "none") $("graph-unlinked").checked = true;
+    if (connectionMode === "none") {
+      const show = $("graph-status").value;
+      $("graph-status").value = show === "linked" ? "all" : show.replace("linked-", "");
+    }
     edges = connectionsFor(data, connectionMode); update();
   });
   $("graph-color").addEventListener("change", event => {
@@ -332,15 +338,13 @@
   });
   $("graph-status").addEventListener("change", () => update());
   $("graph-search").addEventListener("input", () => update());
-  $("graph-unlinked").addEventListener("change", () => update());
   $("graph-clear-category").addEventListener("click", () => {
     category = null; update(); document.querySelector(".graph-floating-key > summary").focus();
   });
   $("graph-reset").addEventListener("click", () => {
     connectionMode = "recorded"; colorMode = "cycle"; category = null; selected = null;
-    $("graph-connections").value = "recorded"; $("graph-color").value = "cycle"; $("graph-status").value = "all";
+    $("graph-connections").value = "recorded"; $("graph-color").value = "cycle"; $("graph-status").value = "linked";
     $("graph-search").value = "";
-    $("graph-unlinked").checked = false;
     setExplorer(false); document.querySelector(".graph-floating-key").open = false;
     edges = connectionsFor(data, connectionMode); update();
   });
@@ -371,8 +375,8 @@
   });
   const missing = data.metadata.unclassifiedCount;
   $("graph-coverage").textContent = data.metadata.sourceAvailable
-    ? `All ${data.nodes.length} published stories are available. The retained world model classifies ${data.metadata.classifiedCount}; ${missing} ${missing === 1 ? "story has" : "stories have"} no placement yet. By default, only stories with links in the current view appear. Turn on Show unlinked stories to include the rest. Search includes matching stories and their direct neighbors.`
-    : `All ${data.nodes.length} published stories are available, but this snapshot has no recorded links or world classifications. Turn on Show unlinked stories to explore canon status and content rating.`;
+    ? `All ${data.nodes.length} published stories are available. The retained world model classifies ${data.metadata.classifiedCount}; ${missing} ${missing === 1 ? "story has" : "stories have"} no placement yet. By default, only stories with links in the current view appear. Choose All stories under Show to include the rest. Search includes matching stories and their direct neighbors.`
+    : `All ${data.nodes.length} published stories are available, but this snapshot has no recorded links or world classifications. Choose All stories under Show to explore canon status and content rating.`;
   function scalePositions() {
     positions = new Map([...basePositions].map(([id, p]) => [id, { x: p.x, y: p.y / 720 * viewHeight }]));
   }
