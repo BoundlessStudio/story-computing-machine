@@ -8,6 +8,10 @@ Subsequent user direction on title and cover:
 
 > ima not a fan of the title and cover image it dose not hit the right notes with the orginal prompt.
 
+Further user direction on the cover:
+
+> i think that dose not look visual like a pricness and the demon king laughable underwhleming both in present and his defect...
+
 ## Reference images
 
 - None supplied.
