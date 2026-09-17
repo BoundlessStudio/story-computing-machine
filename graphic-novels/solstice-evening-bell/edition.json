@@ -482,8 +482,8 @@
       "id": "page-004",
       "number": 4,
       "path": "pages/page-004.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
       "dependsOn": [
         "R1",
         "R2",
@@ -491,12 +491,50 @@
         "R4",
         "page-003"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary identity/style; clean state except new nose/sternum recoil in last panel."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Night geography and palette."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Twelve bells in4columns of3; focus stays hidden."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving human-size machine geometry and fragments."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-003.png",
+          "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "role": "IndependentPASS prior page, clean state and8wedge continuity."
+        }
+      ],
+      "attempts": [
+        "P04-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-004",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "60d223a11a6e4903c0301af2fafd92cf89f3e793eb98234e0317d5806fd5264b",
+        "readerSha256": "807d140055152e898c29a32177ae44cbcc4c03102d982a67e7473f6aa16808e0",
+        "evidence": "review.md",
+        "evidenceSummary": "Entire selected page, exact lettering, full-size and actual 390px/desktop reader captures, state handoff and transcript independently passed. Live controls previously passed; full book remains unreviewed."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-005",
@@ -1716,6 +1754,69 @@
         "reviewer": "coordinator",
         "verdict": "PASS-for-independent-review"
       }
+    },
+    {
+      "id": "P04-001",
+      "assetId": "page-004",
+      "state": "accepted",
+      "prompt": "Create ONE complete comic PAGE4, portrait1024x1536, exactly FOUR full-width horizontal panels with bold black rectangular frames and crisp white gutters. No printed title, page number, inset, montage or extra panel. Left-to-right lettering, top-to-bottom sequence. Bold black contours, broad flat midnight/storm-blue fields, near-white silver, hard-edged cel shadows, yellow narration boxes and bold condensed uppercase lettering. Match the accepted GN references, no painted shading, glossy3D, gradients, wash or dense hatching.\n\nFIVE INPUTS IN ORDER:\n1 Solstice identity and rendering sheet. Use the SAME adult woman, long silver hair, blue-gray eyes, white armored dress, silver gauntlets. Clean dry uninjured upper-row state for panels1–3. Panel4 introduces ONLY a tiny nosebleed and sternum pain. DO NOT copy the sheet's scored pauldron, rib injury, hip graze, wet hair, cracked armor or aftermath recess.\n2 Western bay geography; night, evacuated, ordinary storm still below. No rain striking her yet.\n3 Crown equipment geometry: twelve separate silver chimes, C9 uniquely smallest, plus one central focus HIDDEN beneath opaque intact sternum armor. The reference's3rows of4 bells become the four vertical lines of3 required in panel2. No C labels/heading/diagram, exposed focus or fragments of bells anywhere on this page.\n4 Invasion frame geometry: numerous HUMAN-SIZED nonliving featureless folded-vane machines, not giant ships, organisms or pilots.\n5 Accepted page3: preceding clean identity, eight separate airborne wedge swarms beneath one remote black seam, intact crown and drawing style. Continuity only: page4 has FOUR different bands, never copy page3 layout or its words.\n\nGEOMETRY:40px outer white margins, all panels x40..984 (944wide). Panel1 y40..272 (232high);24px gutter; panel2 y296..660 (364high);24px gutter; panel3 y684..1232 (548high);24px gutter; panel4 y1256..1496 (240high);40px bottom margin. The narrow hand cue leads to a clear array, then a dominant destruction image, then a quiet recoil close-up. Keep the white gutter between destruction and recoil entirely readable and do not draw a continuous blast across it.\nUse40–44px bold condensed uppercase comic letters. Exact four captions below, each ONCE. No spoken balloons, SFX, other numbers/words, HUD or captions. Wide single-line captions in panels1/2 where feasible, two lines in panel3, short upper-right box in panel4. All words inside safe margins.\n\nPANEL1: Tight horizontal close-up of Solstice's intent eyes and BOTH armored hands guiding several partly cropped intact chimes into alignment. Her hands are open, fingers naturally curved in command, no physical strings or grips, five coherent fingers each. No complete ring inventory is shown in this close crop. Same adult, dry silver hair, uninjured skin and intact white armor. No attack has arrived, no blood. Yellow caption across clear upper space:\nTHE FULL CHORD WOULD EXPOSE ITS PATTERN.\n\nPANEL2: Wide view of EXACTLY TWELVE intact silver chimes aligned as FOUR VERTICAL COLUMNS, THREE BELLS IN EACH COLUMN. Four clearly separated columns across the width, each with one upper, one middle, one lower whole chime. This is the same twelve-object layout as the equipment reference's3rows of4, without labels. Stage the twelve bell centers approximately at x200,408,616,824 and y452,524,596. Each normal chime about52px tall, all silhouettes/clappers fully visible and separate. One uniquely smaller C9 occupies the bottom-left slot. No thirteenth floating bell and no hidden/overlapping bell. Do not add tiny extra bells as scenery. No orbit ring, cords, connection lines or external focus.\nFar ABOVE this array, in a narrow distant sky strip around y380..415, retain EIGHT small separated triangular point-cloud swarms made from tiny individual vaned frames. They are rigid, synchronized and still intact; enough sky gaps to distinguish eight distant groups. Keep enemy silhouettes distinct from the larger nearby silver bells. The black seam remains far overhead and may be outside this cropped view. No figure is needed in this equipment-and-host view. No beams or effects yet. Caption in the upper clear strip:\nTHEY WOULD NEVER BE THIS VULNERABLE AGAIN.\n\nPANEL3: The chord strikes INSIDE the enemy formation. Show EIGHT distinct dark cascades, four left/four right, one beneath each of EIGHT separate wedge swarms. The leading approximately QUARTER of each wedge has folded inward and broken; the remaining upper three quarters remain airborne as individual vaned machines. Dark metal fragments and small blue sparks spill below the eight separated swarms like eight black waterfalls. For this white instant, nearby individual vane edges are sharply white, outlining broken shells. Preserve eight separate groups/plumes with clear gaps. This is a close dramatic view of the enormous host, not eight giant ships and not a planetwide explosion. No need to draw exactly32768 individual marks; the caption supplies the count.\nCRITICAL MECHANISM: resonance arrives within their coordination mesh, not through the air. Draw NO projectile, laser, long attack ray, shockwave ring or line between Solstice and the host; no giant magic web or plane here. The only effects are localized white vane edges, collapsing dark shells and blue sparks within/beneath the eight formations. Solstice can be outside this close host view. The crown's twelve chimes are NOT being destroyed. Source attacks have not yet struck her armor.\nYellow caption in clear top space, above the swarms and all cascade tips:\nRESONANCE PASSED THROUGH THEIR MESH. 32,768 FRAMES BROKE.\n\nPANEL4: A heartbeat LATER, close on the SAME Solstice's face and upper chest as the recoil hits. Her eyes pinch with pain; one tiny line of red blood runs from her anatomical RIGHT nostril. Her RIGHT gauntlet reflexively presses the center of her INTACT opaque sternum armor. Five coherent fingers and a connected wrist; this is one hand touching her own armor. The focus beneath it has bruised her sternum but remains hidden: no external jewel, opened panel, exposed wound, crack, hole or glow. BOTH shoulder pauldrons remain UNMARKED; no needle/shoulder/rib/hip/leg injury yet. Her white dress/hair snap sideways from the delayed pressure; trailing clean cloth at the sides suggests that sudden motion. No wetness or torn clothing. A few intact chimes may crop at the edges; none is broken or burnt.\nUse the broad band for the face, chest contact and whipping clean fabric, with the short yellow caption in clear upperRIGHT space:\n98,304 REMAINED.\n\nState after this page: twelve orbiting chimes and hidden central resonator ALL intact. Solstice now has a tiny nosebleed and sternum pain only; no other injury. Enemy survivors98304. No dead donor face/ghost, helper, ally, civilian, aircraft, weapon battery, second living figure, new spell, head tiara or crown restoration. The four captions and four story moments are the entire page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary identity/style; clean state except new nose/sternum recoil in last panel."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Night geography and palette."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Twelve bells in4columns of3; focus stays hidden."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving human-size machine geometry and fragments."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-003.png",
+          "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "role": "IndependentPASS prior page, clean state and8wedge continuity."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "P03PASS recorded before preparation. Source opening-chord passage reread; all5 selected actual inputs inspected. Four rows232+364+548+240 +72gutters+80margins=1536. Array uses source4columns of3 and R3's equivalent grid, separated52px bells with72px row spacing; C9 uniquely small.8enemy groups above remain tiny and separate. Destruction shows only enemy quarter-loss with no air-travel attack. Delayed recoil is a separate last panel; right nostril is an edition staging choice, source side unspecified. No pauldron damage before page5. Four captions fit broad boxes."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "modelVariant": null,
+        "height": 1536,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen",
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-29ac3130-390c-4265-9af0-e7ca2de3f058.png",
+        "width": 1024,
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-29ac3130-390c-4265-9af0-e7ca2de3f058.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T20:01:58Z",
+      "completedAt": "2026-09-17T20:02:56Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P04-001.png",
+      "outputSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+      "inspection": {
+        "fullSize": true,
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "evidence": "Twelve bells in4columns of3, unique small C9,8intact swarms then8debris cascades, exact4captions and delayed recoil. Armor remains intact; tiny single nosebleed and sternum contact only. No airborne attack beam. Nosebleed position differs from the prepared side choice; source/plan leaves nostril side unspecified, so retain selected actual position in later pages rather than regenerate this otherwise faithful image.",
+        "readingWidth": 390,
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P04-001-reader-390.png",
+        "readerInspection": "Actual assembled390px page inspected after the cover-zoom fix passed; all4caption blocks and count-bearing groups remain readable."
+      }
     }
   ],
   "reviews": [
@@ -1813,6 +1914,40 @@
       "readerSha256": "386b6f29eb89574c3fcc995897e8563becd64f8fc6f27613bc712ae704ea7cf7",
       "evidence": "review.md",
       "limitation": "Entire revised page and actual static mobile/desktop reader captures inspected. Live controls and complete book remain separately unreviewed."
+    },
+    {
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "readerSha256": "2172c3d0bb2da210a3bb0f79ed3641cd0d12d8a0d28ad675d945f24827b8bf39",
+      "finding": "Reader-F1: desktop natural cover zoom is capped at864 rather than941px. All other requested live desktop/mobile controls passed.",
+      "reviewFileSha256": "713b752d2bff31ad6edbf041cfd7c7b52637e275803899b866fd428c6d004106",
+      "verdict": "REVISE",
+      "scope": "live reader cover and pages1-3",
+      "evidence": "review.md"
+    },
+    {
+      "role": "graphic_novel_reviewer",
+      "resolvedFinding": "Reader-F1",
+      "scope": "live reader cover and pages1-3 recheck",
+      "reviewer": "/root/gn_preflight",
+      "reviewFileSha256": "7d3366b0ff2f2bf082c2465accb9fa32675d9f8cdbdebff3dd49bbc6b8d58ab4",
+      "evidence": "review.md",
+      "readerSha256": "c89861dbcc368a88892f8aba800accc75f60aaf193641e5b196ee3e879d7ec61",
+      "limitation": "Only existing cover+3pages; complete book must receive fresh review.",
+      "verdict": "PASS",
+      "evidenceSummary": "Independent actual desktop/mobile navigation, keyboard, bounds, jump, transcript, theme and zoom checks passed. Cover natural941x1672; desktop/mobile fit864/390; adjacent page zoom and overflow passed."
+    },
+    {
+      "scope": "page-004",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "60d223a11a6e4903c0301af2fafd92cf89f3e793eb98234e0317d5806fd5264b",
+      "readerSha256": "807d140055152e898c29a32177ae44cbcc4c03102d982a67e7473f6aa16808e0",
+      "evidence": "review.md",
+      "evidenceSummary": "Entire selected page, exact lettering, full-size and actual 390px/desktop reader captures, state handoff and transcript independently passed. Live controls previously passed; full book remains unreviewed."
     }
   ],
   "approvals": {
