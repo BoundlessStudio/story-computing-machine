@@ -175,3 +175,81 @@ The screenshots show the same selected four-panel artwork. The desktop capture's
 **Blocking findings: none. Page 001: PASS for this exact selected image and the stated static reading-preview scope.** This establishes the page treatment within the approved plan and permits the sequential P02 preparation gate. It does not upgrade the coordinator's reference/cover decisions into a separate independent review of those assets, certify future pages, or constitute user approval.
 
 **P02–P24: NOT REVIEWED. Complete book: NOT REVIEWED. Live reader navigation/accessibility behavior: NOT REVIEWED by this reviewer. PDF: NOT REQUESTED.**
+
+## Page 002 independent review 1 — PASS
+
+- Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of P02-001 and the reader.
+- Reviewed: 2026-09-17, approximately 19:35 UTC, in the same dedicated worktree.
+- Scope: all four panels and seven captions in selected `pages/page-002.png`, full 1024 × 1536 pixels and actual 390 px/desktop reader captures, plus P02 transcript data. Re-read the source passages concerning fatal willing gifts, the smallest chime's maker, living agency and the compact; compared the approved full script/coverage and current P02 instructions with unchanged accepted R1/R3 pixels and preceding P01 PASS. P03 was inspected as a script transition only, not as nonexistent artwork.
+- This is the assigned static visual gate. Actual reader captures were independently inspected; no live control interaction or whole-reader behavior is certified. The previously recorded CUA limitation remains an access limitation, not a claim that all possible browser tooling is unavailable.
+
+### Exact reviewed versions
+
+| Input/output | SHA-256 |
+| --- | --- |
+| Selected `pages/page-002.png` / P02-001 | `db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a` |
+| Current `edition.html` | `970e5e0a2e85732535fdb7f07228835c0c10b701c064bb73724fd30dcb02f5f9` |
+| `edition.json` at review read | `ccd9b872907a2c592cef355fb2916881d7dd18cd4b919ee5b6d9b7aa07d6fcec` |
+| External `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P02-001-reader-390.png` | `b0c7f1981fc8a4aad9c39b36ff5f058b8947ff98b54ccefb46cc2179e3484923` |
+| External `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P02-001-reader-desktop.png` | `cd546967d465f2b7e45e96fb623635ce13fb04a3510c9845e879b6200083fc80` |
+
+Independently recomputed and confirmed unchanged: preceding P01 `4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d`; R1 `cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c`; R3 `2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208`; plan `be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2`; STYLE.md `be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb`; source prose `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c`. These identify the same source/reference pixels inspected in the preceding review, not substitutions. Output of this review is this appended section; generation prompt and actual provenance remain in the manifest.
+
+### Panel findings
+
+- **P02.1: PASS.** The extreme eye close-up shows physical chime reflections, not donor faces or souls. Both exact captions retain the twelve strongest magical girls then living, adult status, freely given final spells, fatal bodily cost and absence of captive souls. No words are missing, duplicated or misspelled; the paired dashes in the first caption and sentence punctuation preserve the script. Eye/hair/skin rendering agrees with R1 and P01.
+- **P02.2: PASS.** The eleven-day narration and compact clause are exact, in reading order. The clean adult identity and two lifted armored hands remain in the present night. Finger/wrist arrangements are coherent and no extra digit, wound, jewel or tiara is introduced. Cropped chimes indicate off-frame equipment rather than a newly reduced count. The remembered compact is a yellow caption with no speaking bell or misleading tail.
+- **P02.3: PASS.** The exact remembered-fingers caption precedes a single small C9 above Solstice's armored fingertips. A visible gap separates bell and glove. The crop maintains a plausible right hand and does not depict the deceased donor's hand. The long single-line caption is the page's most compact text, but every word remains distinguishable in the 390 px capture without zoom or transcript reliance.
+- **P02.4: PASS.** The same right hand opens farther beneath the same small bell, preserving its gap, location, scale and construction. The two exact captions read “USE US. DO NOT MAKE A SHRINE.” and “THE CROWN COULD DO NOTHING UNTIL SOLSTICE WOKE IT.” The preceding memory attribution makes the first the donor's remembered words; there is no present helper, soul, speech tail or autonomous spellcasting.
+
+### Page-wide gates
+
+**Reading order, transitions and source state: PASS.** Four wide bands read directly downward: eye/inner memory, present face/hands, close fingertips, held open palm. Black frames and white gutters separate moments; no inset, overlap or frame crossing confuses time. The smallest-chime detail carries the attention change across the last two panels. Clean dry armor, intact equipment and the same night preserve P01 continuity; no rupture or enemy prematurely appears before scripted P03.
+
+**Rendering and readability: PASS.** Black contours, hard-edged silver/blue shadow shapes, flat saturated night, white gutters, yellow boxes and bold uppercase lettering retain the established GN treatment. I read all seven captions at full size and in the actual mobile/desktop captures; no clipping, malformed words or text/action collision blocks them. The enlarged eye and restrained pose changes support a memory pause without inventing a flashback or copying a standard action layout.
+
+**Transcript: PASS by data inspection.** All seven lines match the actual selected image in panel order. The compact and the smallest-chime maker are accurately identified as remembered by Solstice, distinct from narration; the essential hand/chime action is represented. Disclosure behavior and keyboard navigation are outside this static verdict.
+
+**Blocking findings: none. Page 002: PASS for the exact selected P02-001 image and stated static reading-preview scope.** P03 preparation may follow its reference/preflight requirements. This does not certify future artwork or grant user approval. **P03–P24: NOT REVIEWED. Complete book/live reader behavior: NOT REVIEWED by this reviewer. PDF: NOT REQUESTED.**
+
+**Reader-description recheck before completion:** the coordinator subsequently replaced the eight P01/P02 action descriptions with reader-facing prose, leaving lettering, speaker attribution, order and images unchanged. Independently read all eight updated descriptions and compared them with the inspected panels, including P01's right gauntlet and six-per-side halo, P02's reflected bells, two raised hands and right-hand gap beneath the small chime. All eight are accurate and remove internal IDs/camera directions. **Action descriptions: PASS.** The latest reviewed `edition.html` is now SHA-256 `77a62deb689eb0fc9e7f2a160e615dabd9ad2a7002e4f7cf485975226b68b009`, superseding the earlier reader hash for this stage. Page-image verdicts and the live-control limitation are unchanged.
+
+## Page 003 independent review 1 — REVISE
+
+- Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of P03 production and corrections.
+- Reviewed: 2026-09-17. Scope: all three panels of selected P03-002 at full 1024 × 1536 size and in the supplied actual 390 px/desktop reader captures; exact lettering, route geometry and current P03 transcript. Re-read the relevant source invasion/declaration, compared the approved complete script and current P03 instructions, unchanged R1–R3/preceding P02 and newly inspected accepted R4 pixels. P04 remains a scripted transition only. No live controls or whole-book behavior are certified.
+- Selected page SHA-256: `f99ad1a0a3ff3f43aaaaacad86ddd182a43f3cf093dd095273c3b233b50e1b76`.
+- Reader SHA-256: `386b6f29eb89574c3fcc995897e8563becd64f8fc6f27613bc712ae704ea7cf7`.
+- Manifest at review read SHA-256: `d08009b422089e8c411d5bde81ed274e4eafc682a14f955df353dd72588d3bc4`.
+- Actual reader evidence in `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P03-002-reader-390.png` SHA-256 `11230036b8f5b7c4fe42f1f7283a147b0cf8f92588cbdb2140d469ea9b3bc078`; `P03-002-reader-desktop.png` SHA-256 `bb122ed53c2aa904b312b49c3bb67bbfb1fe6c8d126dff80e1ecd4365ae0f376`.
+- Accepted R4 `references/invasion-frame.png` SHA-256: `e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a`.
+- Preceding P02 SHA-256: `db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a`. Source, plan, STYLE.md and R1–R3 remain the exact versions recorded in the prior page reviews. R4 is a faceless nonliving angular shell with folding vanes, not a giant piloted ship; no independent acceptance of its entire reference sheet is implied by this page comparison.
+
+### Required correction
+
+**P03-F1 — P03.3, second speech balloon: REVISE.** The actual lettering reads “FIRST MONARCH, QUEEN OF ALL …” with a comma after MONARCH. The retained Q5 source/script and transcript require “FIRST MONARCH. QUEEN OF ALL …” with a period. Replace only that comma with a period through the image correction workflow, keeping the remaining exact text, balloon/tail, figures, chimes, counts, routes and layout. This is exact-script compliance; the underlying speaker intent is otherwise preserved. Reinspect the whole corrected page for collateral change before acceptance.
+
+### Passing checks on this version
+
+- **P03.1 — PASS except no page-level acceptance yet.** Eight distinct triangular swarms, four on either side of the open center, comprise separate small vaned units beneath one visible dark seam. The wide separation from the small foreground Solstice conveys the distant scale; the caption supplies the exact twenty kilometers. The formations are not eight solid vessels. Both captions exactly retain “TWENTY KILOMETERS ABOVE THE BAY.” and “131,072 NONLIVING FRAMES. EIGHT WEDGES OF 16,384.” No attack, casualty or injury occurs.
+- **P03.2 — PASS.** Counted all eight white route arrows independently: the outer two end on offshore water outside the bay mouth; the next pair end on the actual concrete northern/southern breakwater arms; the four central arrows end at distinct inland ridge points. The corrected geometry retains R2's left/right relationship. Exact caption and accessible visual description match those eight destinations. Arrows read as explanatory routes, not a new in-world technological display.
+- **P03.3 — image/state PASS; lettering REVISE only as above.** Adult identity, silver hair, clean white/silver armor, hidden focus and coherent open five-digit hands agree with R1 and P02. Cropped intact chimes agree with R3 and do not imply a loss. Both balloon tails identify Solstice without crossing her face or introducing another speaker. The first balloon is exact; all words of the second are present and readable, with only the identified punctuation mismatch.
+- **Flow/style/readability — PASS.** Three clearly separated wide panels take the reader from scale to destinations to declaration. White gutters and black frames remain unambiguous; no inset, overlap or frame crossing confuses time. Black contours, flat saturated color fields, hard-edged armor shadows, yellow narration and uppercase comic lettering remain consistent. Independently read all three captions and both balloons at full size, mobile capture and desktop capture; no clipping or illegible word found.
+- **Transcript — action/speaker PASS, image parity pending P03-F1.** The three reader-facing descriptions correctly describe the swarm, routes and raised hands. Transcript order and attribution are correct, and its period after MONARCH matches the approved script. Correct the image to it; do not silently change the retained quotation or transcript to excuse the comma.
+
+**Page 003: REVISE for P03-F1 only.** This does not reopen passing P01/P02. P04 preparation remains gated on a corrected independent P03 PASS. Actual reader controls and complete book remain NOT REVIEWED; PDF: NOT REQUESTED. No user approval is recorded by this review.
+
+## Page 003 independent review 2 — PASS
+
+- Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of the one-mark repair.
+- Reviewed: 2026-09-17, approximately 19:55 UTC. Re-inspected the **entire** corrected 1024 × 1536 page, all three captions and both balloons, and both fresh actual mobile/desktop reader captures. The earlier source/script/reference comparison remains applicable; this is not acceptance based solely on the producer's preservation claim.
+- Selected P03-003 `pages/page-003.png` SHA-256: `99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288`.
+- Reader HTML SHA-256 remains `386b6f29eb89574c3fcc995897e8563becd64f8fc6f27613bc712ae704ea7cf7`; its unchanged approved transcript now matches the corrected image completely.
+- Manifest at review read SHA-256: `590090b11eb3849006e76464c6e1db30458294712e8fac60a6c50f8c9e936013`.
+- Fresh evidence in `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P03-003-reader-390.png` SHA-256 `5f8e74c871ddc5d0da6030e6a7c4f353f884ed8848b01aad800fbc094645a040`; `P03-003-reader-desktop.png` SHA-256 `02a5f4cf2346544359de1c290c69cbb0057f46ec41e813198e0cec731e725a32`.
+
+**P03-F1: RESOLVED.** The second speech balloon now reads “FIRST MONARCH. QUEEN OF ALL MAGICAL GIRLS. EARTH'S ONLY ULTRAHUMAN.” The period is visible in the actual pixels. All remaining lettering was reread and matches the exact script; no new spelling, punctuation, clipping or attribution error appeared.
+
+**Whole-page preservation: PASS.** Recounted eight separate swarms, four left/four right, beneath one dark rupture; the distant units remain small individual machines. Rechecked all eight route endpoints: two offshore shelf, two concrete breakwater arms and four ridge points. Rechecked the clean adult face, both coherent open armored hands, intact cropped chimes, concealed focus and absence of injury/attack. The three-panel reading path, tails, white gutters, black contours, flat color/shadow treatment and continuity from P02 remain sound. All required text is readable in the new 390 px and desktop captures without zoom or transcript dependence.
+
+**Page 003: PASS for this exact P03-003 image and the stated static reading-preview scope.** No blocking findings remain; P04 preparation may proceed. The earlier REVISE is retained for its earlier image hash. No future page, complete book, live control behavior or user approval is certified. **P04–P24: NOT REVIEWED. Complete book/live reader behavior: NOT REVIEWED by this reviewer. PDF: NOT REQUESTED.**

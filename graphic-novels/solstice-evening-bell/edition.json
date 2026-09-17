@@ -375,26 +375,54 @@
       "id": "page-002",
       "number": 2,
       "path": "pages/page-002.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
       "dependsOn": [
         "R1",
         "R3",
         "page-001"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Clean adult identity/style only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "BellC9 geometry; no cutaway/labels."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "role": "IndependentPASS preceding page identity/state/style only; not its layout."
+        }
+      ],
+      "attempts": [
+        "P02-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-002-and-P01-P02-reader-action-descriptions",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "2213670e2eef34af8e283b38d76ae837ccfca72505f9af1ea8a941072a1254a6",
+        "readerSha256": "77a62deb689eb0fc9e7f2a160e615dabd9ad2a7002e4f7cf485975226b68b009",
+        "evidence": "review.md#page-002",
+        "limitation": "Static fullactual and390/desktopreader captures independentlyreviewed. Livecontrols notindependentlytested; completebooknotreviewed."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-003",
       "number": 3,
       "path": "pages/page-003.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
       "dependsOn": [
         "R1",
         "R2",
@@ -402,12 +430,53 @@
         "R4",
         "page-002"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Cleanidentity/style"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Chimegeometry;hiddenfocus"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-size nonliving folding-vane geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-002.png",
+          "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "role": "Preceding independentPASS; identity/state/style only"
+        }
+      ],
+      "attempts": [
+        "P03-001",
+        "P03-002",
+        "P03-003"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-003-recheck",
+        "pass": 2,
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "64e42db33f8e433eaa8a76b5d1fe1244ccfcf45eb3ea47bfb99d34a15601e3a4",
+        "readerSha256": "386b6f29eb89574c3fcc995897e8563becd64f8fc6f27613bc712ae704ea7cf7",
+        "evidence": "review.md",
+        "limitation": "Entire revised page and actual static mobile/desktop reader captures inspected. Live controls and complete book remain separately unreviewed."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-004",
@@ -1347,7 +1416,8 @@
           "output_hint"
         ],
         "height": 1024,
-        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-a4b902c8-61dc-4303-986c-b3b8845a6f32.png"
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-a4b902c8-61dc-4303-986c-b3b8845a6f32.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-a4b902c8-61dc-4303-986c-b3b8845a6f32.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
       },
       "startedAt": "2026-09-17T19:20:34Z",
       "completedAt": "2026-09-17T19:21:10Z",
@@ -1397,7 +1467,8 @@
         "returnedFields": [
           "image_url",
           "output_hint"
-        ]
+        ],
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-d85d1232-be9a-4bd2-9d34-89010a615ef3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
       },
       "startedAt": "2026-09-17T19:15:18Z",
       "completedAt": "2026-09-17T19:16:00Z",
@@ -1409,6 +1480,241 @@
         "readingWidth": 390,
         "evidence": "Actual saved full page and390reader screenshot inspected:12bells6eachside, C9 unique small; exact4captions+sign; clean adult, hiddenfocus, feasible hand contact, bay geography,4panels and obvious readingpath. No invasion/injury. Narrow caption letters read at390; independent readability verdictpending.",
         "fullSize": true
+      }
+    },
+    {
+      "id": "P02-001",
+      "assetId": "page-002",
+      "state": "accepted",
+      "prompt": "Create ONE finished graphic-novel page, page 02 of SOLSTICE EVENING BELL, as a 1024 × 1536 portrait image. This is sequential story artwork, not a reference sheet. Follow the exact four-panel geometry and seven caption blocks below. Do not generate a cover, title, page number, extra text, or extra panels.\n\nINPUT ROLES, IN THIS ORDER:\n1. references/solstice-evening-bell.png: accepted R1 character/style anchor. Depict only the SAME adult Solstice shown in its clean, uninjured top views: long silver hair, adult face and proportions, white armored dress, opaque silver segmented torso armor and gauntlets. Do not import the sheet's later injury states, damage, pose montage, labels or background.\n2. references/thirteen-tone-crown.png: accepted R3 object geometry only. The twelve chimes are separate small silver bell-shaped magical objects; C9 is uniquely smallest. The central thumb-sized resonator is hidden under her intact opaque sternum armor. Do not import the reference sheet's labels, diagrams, cutaway, removed armor plate, fragments or exposed central focus.\n3. pages/page-001.png: accepted immediately preceding page, for the same woman's appearance, clean opening state, evening palette, black contours, flat color, caption treatment and uninterrupted moment above the western bay. Do NOT copy its panel layout, words or artwork. This new page has FOUR FULL-WIDTH HORIZONTAL PANELS.\n\nSTYLE:\nUse the accepted R1's bold black ink contours and flat saturated graphic-novel colors, hard-edged cel shadows, crisp uncluttered shapes and white gutters. Silver hair and silver armor remain distinct through ink shapes and cool flat tones. No painterly brush rendering, airbrush gradients, realistic metal gloss, photographic textures, 3D rendering or soft bloom. All story lettering is clear uppercase bold condensed comic BLOCK lettering. Yellow rectangular narration boxes have black outlines and black lettering. Neither remembered quotation is a speech balloon; both are narration captions with no tails. Let the yellow captions guide the eye from top to bottom; leave the physical subjects uncovered.\n\nSTORY STATE AND CONTINUITY:\nThe same continuous opening seconds as page 1, before the sky opens and before the invasion. Solstice hovers alone above the evacuated modern western bay at night. The dark clear sky and spare distant bay lights may appear as subdued background within the close views. Her hair, dress, hands and armor are dry, clean and intact; no blood, fatigue, cracks, torn cloth or injuries. The twelve chimes remain physically present around her, and the thirteenth tone is her own concealed central focus. Cropping is intentional: these close views show selected actual chimes or reflections, not a new full chime inventory. Do not add or lose a chime in the story. Nothing is being struck, broken, burned or activated here.\nThe donors died centuries earlier after freely making their final spells. These captions describe her present memory. There is no literal flashback, second character, younger identity, donor portrait, donor hand, soul, spirit, ghost, floating face, helper or disembodied speaking presence. Solstice alone can wake the crown. No throne, royal tiara, necklace, earrings, gemstone, external chest ornament, glowing chest inset or exposed resonator. No invasion frames, vessels, rupture, weapon effects, lightning or giant ships.\n\nEXACT PAGE GEOMETRY:\nCanvas 1024 × 1536. Outer white margins 40 px. Every panel is x=40 to984, width944 px, with a strong black border. Four horizontal bands read downward:\nPanel 1: y=40 to440, height400.\nWhite gutter: y=440 to464, height24.\nPanel 2: y=464 to792, height328.\nWhite gutter: y=792 to816, height24.\nPanel 3: y=816 to1144, height328.\nWhite gutter: y=1144 to1168, height24.\nPanel 4: y=1168 to1496, height328.\nBottom white margin40. No vertical subdivision, inset, overlap, frame break or montage. Each band depicts one instant. The repeated silver chime shape links the successive close views; the gutters provide reflective pauses rather than elapsed battle time.\n\nLETTERING AND FIT:\nExactly SEVEN yellow caption blocks, in the listed order, each printed ONCE. Use the literal words and punctuation supplied, including apostrophe and em dashes. No printed quotation marks around the remembered quotations. Use nominal 40 px uppercase bold condensed lettering, 44 px line height, never shrink below40 to fit. Use broad boxes with at least904 px of usable inner text width when a full-width box is specified. Allow8 px vertical padding above and below the text in each caption and12 px between paired boxes. Wrap at phrase boundaries, never hyphenate words. Caption labels and planning instructions must not be printed.\nPanel1 has exactly five total text lines in two full-width boxes: three lines in its first caption and two in its second. Their total height is exactly264 px: five44-px lines + four8-px padding edges +12-px gap. This leaves136 px for a clearly drawn close eye detail. No extra padding or decorative heading may consume this allocation. Follow these line breaks:\nCENTURIES AGO, THE TWELVE STRONGEST\nMAGICAL GIRLS THEN LIVING—ALL ADULTS—HAD\nFREELY GIVEN THEIR FINAL SPELLS.\nThen:\nTHEIR BODIES HAD NOT SURVIVED.\nNO SOUL WAS HELD IN SILVER.\nOther panels have generous full-width caption areas. Preserve the40-px type size and enlarge or wrap boxes within their assigned panel instead of squeezing text. In panel2, use two lines for Caption3 and ONE line for Caption4 in the904px inner width. At40px condensed type this fits, as measured. Their total text-zone height is176px: three44px lines + four8px padding edges +12px gap. Leave152px for the face-and-hands close crop. Never reduce the font size. Caption3 line breaks:\nELEVEN DAYS OF ARGUMENT HAD MADE HER THE FIRST\nMONARCH. THE COMPACT ENDED:\nCaption4 on one line:\nWHAT THE CROWN JOINS, THE MONARCH MAY RELEASE.\n\nPANEL 1 — PRESENT EYE, NOT A FLASHBACK:\nExtreme horizontal close-up of one of Solstice's eyes with silver hair framing the brow and cheek. The eye is calmly focused and unmistakably the same adult woman's eye. In its small reflection are a few simple silver chime silhouettes physically outside her eye; they are reflected objects, with no miniature people, memories or other faces. Maintain the clean night palette. Caption boxes occupy the upper264 px; the lower136 px is the uninterrupted eye-detail strip. No tear, injury, chest or donor appears.\nCaption1, exact:\nCENTURIES AGO, THE TWELVE STRONGEST MAGICAL GIRLS THEN LIVING—ALL ADULTS—HAD FREELY GIVEN THEIR FINAL SPELLS.\nCaption2, exact:\nTHEIR BODIES HAD NOT SURVIVED. NO SOUL WAS HELD IN SILVER.\n\nPANEL 2 — THE PRESENT MONARCH REMEMBERS THE COMPACT:\nPull back just enough to show Solstice's adult face between her lifted gauntleted hands, at the same present instant above the bay. This is a broad face-and-hands close crop, not a tiny full-body figure. Her expression is grave and attentive. The palms are open and anatomically plausible; five fingers per visible hand, wrists attached naturally to her own arms. A few chimes may be partly cropped at the upper edge of the artwork, implying the intact orbit outside the crop. No literal coronation scene, crown headpiece, living donors or touch from another person. Her anatomical right hand, seen toward the viewer's left in the front/three-quarter view, is the hand selected for the following close-ups. Full-width paired captions above the close artwork, with sufficient area left to read the face and raised palms.\nCaption3, exact:\nELEVEN DAYS OF ARGUMENT HAD MADE HER THE FIRST MONARCH. THE COMPACT ENDED:\nCaption4, exact remembered compact:\nWHAT THE CROWN JOINS, THE MONARCH MAY RELEASE.\n\nPANEL 3 — HER OWN FINGERTIPS BELOW THE SMALLEST CHIME:\nMatch into a tight close-up of Solstice's anatomical RIGHT gauntleted hand and the uniquely smallest C9 chime. Her own clean silver armored fingertips are gently lifted beneath the bell, with a clearly visible narrow AIR GAP. The bell freely floats; she does not grip it, strike it, ring it or rest its weight on a finger. Five anatomically coherent fingers with plausible knuckles, no fused fingers, extra digits, detached hand or impossible joint. The larger portion of the panel is this tactile, present-time object detail against dark night, no body or hand of the remembered maker. A broad top caption uses two lines at40 px; the lower image area remains spacious.\nCaption5, exact:\nSHE REMEMBERED THE SMALLEST CHIME'S MAKER SQUEEZING HER FINGERS.\n\nPANEL 4 — OPEN HAND, UNFORCED GIFT:\nHold the SAME right hand and SAME C9 chime from panel3 in a slightly wider close view. Open relaxed palm underneath, same clean silver gauntlet, same consistent bell form and free-floating air gap. This is a held contemplative instant; there is no action sequence inside the frame. Let the open hand and small bell have breathing room against the quiet clear evening. Put the remembered quotation in a yellow narration box at the top and the final agency caption in a yellow narration box at the bottom. Leave the central image unobscured. The last line closes the page on Solstice's sole living agency and leads toward the opening of the sky on the next page without depicting that later event.\nCaption6, exact remembered words:\nUSE US. DO NOT MAKE A SHRINE.\nCaption7, exact:\nTHE CROWN COULD DO NOTHING UNTIL SOLSTICE WOKE IT.\n\nFINAL CHECKS BEFORE RETURNING:\nOne adult identity only. Exactly four horizontal panels, exactly seven readable yellow caption blocks, exact words. No dialogue balloon or donor manifestation. All armor intact and central resonator concealed. Bell C9 is small, silver and separate from the gauntlet. Same right hand in panels3 and4. No invasion or injury yet. Maintain the accepted flat ink-and-color style throughout.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Clean adult identity/style only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "BellC9 geometry; no cutaway/labels."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "role": "IndependentPASS preceding page identity/state/style only; not its layout."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "PrecedingP01 PASS verified beforepreparation. Inspected actual3inputs. Seven exactcaptions/sourceverified. Fourbands400/328/328/328+72+80=1536. P1five44pxlines+32padding+12gap=264 text/136eye. Corrected producer arithmetic inP2: measured compactquote fits904px at40px condensed inone line, caption3two lines; total176text leaves152face/palms. Noextra donor identity, plausible right handairgap and source cleanstate."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "width": 1024,
+        "height": 1536,
+        "tool": "image_gen.imagegen",
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-07d4b5d7-5e18-4f15-b945-623c99e4825e.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-07d4b5d7-5e18-4f15-b945-623c99e4825e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T19:30:50Z",
+      "completedAt": "2026-09-17T19:32:25Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P02-001.png",
+      "outputSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+      "inspection": {
+        "evidence": "Saved fullpage and390reader inspected. Exact7captionblocks,4widebands; adult cleanSolstice, reflectedphysicalchimes/nootheridentity; right-gauntlet fingers and C9airgap coherent betweenpanels3/4. No donors/invasion/damage. Allwordsreadable390. Threeinputstate consistentwithP01.",
+        "readingWidth": 390,
+        "fullSize": true,
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator"
+      }
+    },
+    {
+      "id": "P03-001",
+      "assetId": "page-003",
+      "state": "revise",
+      "prompt": "Create ONE complete finished COMIC PAGE, 1024x1536 portrait, exactly THREE full-width horizontal panels. This is page3 of Solstice Evening Bell; no printed title or page number. Preserve bold black ink, broad saturated blue fills, HARD-EDGED flat shadows, white gutters, yellow narration boxes and uppercase bold condensed comic lettering from the accepted inputs.\n\nFIVE INPUT ROLES IN ORDER:\n1 Solstice character reference: primary adult identity/armor/style. Use ONLY clean uninjured upper-row views, long silver hair, white armored dress, blue-gray eyes, articulated silver gauntlets. No wounds/damage/blood/dirt.\n2 Western bay reference: one place with NORTH concrete breakwater on image LEFT, SOUTH on RIGHT, shallow shelf OUTSIDE the mouth in foreground, EASTERN inland ridge across back. Simplify water detail.\n3 Crown reference: small silver chime geometry, central focus entirely HIDDEN under intact opaque sternum armor; no sheet labels/cutaway/fragments.\n4 Invasion frame reference: HUMAN-SIZED nonliving featureless shell with folding vanes. Each invasion swarm contains many tiny individual examples of this machine type, never a single giant vessel. No diagram labels, needle firing or interlocking yet.\n5 Accepted page2: immediate clean state, same adult face/hands, flat rendering and caption language. Use continuity ONLY, never copy its four-band layout or words.\n\nPAGE GEOMETRY: 40px white outer margins, panels x40..984 (944wide), crisp black borders;24px gutters.\nTOP panel y40..640,600high.\nMIDDLE panel y664..1080,416high.\nBOTTOM panel y1104..1496,392high.\nNo inset, diagonal subdivision, fourth panel, montage, overlap or frame crossing. Read top to bottom. Use legible40–44px condensed uppercase text,44px baseline spacing, generous but economical padding. Exact words only as specified below. Narration is yellow boxes; speech is white rounded balloons with black tails. No HUD, compass labels, invented symbols, SFX, captions beyond those specified, credits or logos.\n\nTOP PANEL: Reveal the immense vertical separation. Two wide yellow caption boxes at the top, then ONE thin black seam across the high stars, visibly far overhead. Beneath that seam are EXACTLY EIGHT separated triangular WEDGE FORMATIONS: FOUR on image LEFT of a central gap, FOUR on RIGHT. Make each wedge a triangular POINT CLOUD of numerous tiny individual folded-vane R4 machine silhouettes, with dark sky gaps between the units. No outer solid triangular hull or continuous ship surface. Keep all eight separate leading tips visible, and clear air between every wedge. These are vast swarms, not eight large machines. Below their formation leave a deep stretch of empty night sky. At the very low foreground, a tiny clean white Solstice floats alone, far below and unable to reach the seam. No attack has begun. Low ordinary storm clouds may edge the bottom, never obscuring formation count. All text stays above the seam/formation, no letters across a tip.\nCaption1 EXACT:\nTWENTY KILOMETERS ABOVE THE BAY.\nCaption2 EXACT:\n131,072 NONLIVING FRAMES. EIGHT WEDGES OF 16,384.\n\nMIDDLE PANEL: A single clear oblique view from OFFSHORE WEST into the SAME bay, north concrete arm LEFT, south arm RIGHT, shelf in FRONT outside the mouth, eastern ridge behind the harbor across TOP. A broad top yellow caption uses at most176px height; leave at least240px for the geography and routes below.\nShow EIGHT distinct airborne routes toward EIGHT still-unreached endpoints. Use a small separated cluster of tiny vaned shells at each route origin and ONE short thin white EDITORIAL DIRECTION ARROW per route. Arrows are simple comic navigation marks, not physical beams, magic, glowing weapons or an electronic targeting display. Arrange route origins in this noncrossing left-to-right order:\n1 toward LEFT shallow SEA SHELF outside the bay mouth;\n2 toward the LEFT/NORTHERN concrete breakwater;\n3,4,5,6 toward FOUR separated points along the BACK/EASTERN RIDGE;\n7 toward the RIGHT/SOUTHERN concrete breakwater;\n8 toward RIGHT shallow SEA SHELF outside the bay mouth.\nDo NOT print numbers1..8. Four central routes continue inland; the flanking pairs fan down toward the concrete arms and outer shallows. Keep each origin/arrow/end visually separated and the two shelf endpoints OUTSIDE the harbor. No shell has landed, struck water, damaged concrete or reached the ridge yet. Empty roads, no civilians, boats, batteries or aircraft. The arrows explain direction only, never imply a new power.\nSingle caption EXACT:\nTWO FOR THE SHELF. TWO FOR THE BREAKWATERS. FOUR FOR THE RIDGE AND THE INHABITED DARK BEYOND.\n\nBOTTOM PANEL: Low-angle medium close view of the SAME adult Solstice raising both open armored hands, composed around the lower central face. Clean, dry, uninjured; white/silver dress armor opaque over sternum, no gem or tiara. Same stable face, silver hair and five fingers on each visible gauntlet. A few intact silver chimes appear partly cropped at side/upper edges, explicitly just a crop of the twelve surviving chimes, not a complete ring. No cords/halo line. Night sky background, no extra figure or ghost. Her lifted gaze commits her to the host above.\nExactly TWO speech balloons in left-to-right order across upper portion of this band. First balloon upperLEFT, about360pxwide, two lines. Second balloon upperRIGHT, about520pxwide, three lines. Keep them clear of her face and palms; leave roughly200px height for her face/hands below. Both small clear tails lead to HER MOUTH and cross no other words, hand or face. The second balloon contains all three sentences in ONE balloon. These are ordinary spoken words, not magically transmitted.\nBalloon1 EXACT:\nI AM SOLSTICE EVENING BELL.\nBalloon2 EXACT:\nFIRST MONARCH. QUEEN OF ALL MAGICAL GIRLS. EARTH'S ONLY ULTRAHUMAN.\n\nDo not show attacks, needle volleys, destroyed frames, edict planes, active crown beams, injury, donor faces/spirits, allies, second living person, head crown or an exposed chest focus. Enemy formations remain tiny separate machines airborne under a single distant seam. One page,3panels,3yellow caption blocks total in top/middle (2+1),2white speech balloons in bottom. Match accepted drawing style and clean story state.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Cleanidentity/style"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Chimegeometry;hiddenfocus"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-size nonliving folding-vane geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-002.png",
+          "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "role": "Preceding independentPASS; identity/state/style only"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "P02PASS recorded before preparation. All5actualselectedinputs inspected. Creator separately checkedR2,R4,P02 andsource: eight pointcloudwedges4+4, noncrossingrouteorder shelf/north/4ridge/south/shelf, outershallowsoutsideharbor. Top/middle/bottom600/416/392 +48gutters+80margins=1536. Middlecaption<=176leaves240routes. Two speechballoons above200pxface/palms; same speaker tails. No new powers, attack or injury; source counts/exactwords retained."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-8c1ba3b4-69da-485f-9547-58c0c7c5312c.png",
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "height": 1536,
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "width": 1024,
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-8c1ba3b4-69da-485f-9547-58c0c7c5312c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T19:41:13Z",
+      "completedAt": "2026-09-17T19:42:59Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P03-001.png",
+      "outputSha256": "3999c4b11dfe8f5c14ca028b9c15e29c53e4e8f90fcbfd67a2d2fe8f3452a92a",
+      "inspection": {
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "verdict": "REVISE",
+        "evidence": "Eightpointcloudwedges4+4, exact3captions/2balloons, cleanidentity and3panels pass. Riftreadsasfinepalestring ratherthanblackseam. Middle second-from-right arrowendsatshorebuildings; moveontoactualsouthbreakwater. Other7routespreserve."
+      }
+    },
+    {
+      "id": "P03-002",
+      "assetId": "page-003",
+      "state": "revise-after-independent-review",
+      "prompt": "Make a targeted correction to the FIRST attached complete comic page. Preserve its1024x1536 canvas, THREE horizontal panels, every existing word/number and punctuation, all3yellow captions and2white speech balloons, Solstice's clean adult identity/face/hair/armor/hands, the eight separate swarms and all other passing regions. The other four inputs are accepted Solstice identity/style, bay geography, crown geometry and human-sized invasion-frame geometry; they are preservation anchors, never sheet text/diagrams to import.\n\nChange ONLY these two details:\n1 TOP PANEL: the thin pale curved line directly beneath the captions currently resembles a string. Replace it in the SAME position with ONE clear narrow BLACK RUPTURE in the starry sky. It must read as a slit/gash in space, with a genuinely solid black interior about12–18px thick across most of its length, tapering toward its ends. Slightly irregular torn edges; a very thin restrained pale-blue edge suggests starlight bending inward, not a glowing rope. Keep it between roughlyy158 andy182, above the eight point-cloud wedge tips/units and below the second yellow caption. Do not cover or move any word or reduce the eight separate formations. Not a circular portal, beam, wire, road or extra panel. The black seam is20km above the tiny Solstice; keep the deep clear air gap and all eight swarms untouched.\n\n2 MIDDLE PANEL: retain EXACTLY EIGHT thin WHITE EDITORIAL DIRECTION ARROWS. Adjust ONLY the destination endpoints of the TWO breakwater routes: the second arrow from LEFT must clearly point onto the top concrete surface of the northern/LEFT breakwater near its small lamp (approximatelyx220,y905); the second arrow from RIGHT must clearly point onto the top concrete surface of the southern/RIGHT breakwater (approximatelyx772,y930), instead of terminating near distant shoreline buildings. Keep both arrows connected to their same existing airborne swarm origins. Preserve the four central ridge arrows and the two outer shelf arrows exactly as they are. No crossing routes. All eight swarms remain airborne, no impact or landing. These are neutral editorial motion arrows, not physical beams or magical powers.\n\nDo not change the bottom panel or its balloons/tails. Do not repaint any figure, damage armor, add a crown/gem/ghost/ally, fire a weapon, add a ninth formation or ninth arrow, alter the geography or alter lettering. Return ONE corrected FULL PAGE with all preserved panels and text.",
+      "inputs": [
+        {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P03-001.png",
+          "sha256": "3999c4b11dfe8f5c14ca028b9c15e29c53e4e8f90fcbfd67a2d2fe8f3452a92a",
+          "role": "Full correctiontarget; replace previouspageinputslot."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Clean identity/ink preservation"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Actualbreakwatergeography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Chime preservation"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Frame geometrypreservation"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Actualtarget/refpixels inspected. Captionendsy146 andwedgesstartnear190: blackseam12–18px fits158..182 withoutocclusion. Actualconcretebreakwaterendpoints identified; twoedited arrowsretainorigins/noncrossingrouteorder, other6preserved. Exactly5inputs. No story/approvedscopechange."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "height": 1536,
+        "tool": "image_gen.imagegen",
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-dc89f9ce-a04a-4c16-9d7d-e68fddb5e3aa.png",
+        "modelVariant": null,
+        "width": 1024,
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-dc89f9ce-a04a-4c16-9d7d-e68fddb5e3aa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T19:45:44Z",
+      "completedAt": "2026-09-17T19:47:17Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P03-002.png",
+      "outputSha256": "f99ad1a0a3ff3f43aaaaacad86ddd182a43f3cf093dd095273c3b233b50e1b76",
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "readingWidth": 390,
+        "evidence": "Saved full image and 390px reader inspected. Eight separate swarms, black slit, three exact captions and two exact spoken balloons. Eight editorial routes reach two outer shelf points, both concrete breakwaters and four ridge points. Clean adult identity, coherent raised hands, cropped intact chimes and hidden focus. No attacks or injuries. Clear three-band reading order.",
+        "fullSize": true,
+        "reviewer": "coordinator",
+        "correction": "Coordinator missed comma after MONARCH; independent reviewer caught it. Exact-lettering claim is superseded by REVISE for this punctuation."
+      }
+    },
+    {
+      "id": "P03-003",
+      "assetId": "page-003",
+      "state": "accepted",
+      "prompt": "Make ONE punctuation-only correction to the FIRST attached finished comic page. In the SECOND speech balloon at the LOWER RIGHT, replace the comma immediately after MONARCH with a PERIOD. The exact complete text in that same single white balloon must read:\nFIRST MONARCH. QUEEN OF ALL MAGICAL GIRLS. EARTH'S ONLY ULTRAHUMAN.\n\nThis is one comma-to-period change only. Keep the same line breaks, letter size, bold uppercase comic face, white balloon shape, border and tail. Preserve every other word, number, punctuation mark and all other pixels as closely as possible. Do NOT relayout or redraw the page.\n\nThe remaining four inputs are accepted identity/style, bay geography, crown geometry and invasion-frame references for preservation only. Preserve the existing1024x1536 full page: THREE panels, the black sky slit, all EIGHT separate swarms, all EIGHT editorial routes and exact endpoints, all3yellow narration boxes, first speech balloon, Solstice's face/hair/clean armor/five-fingered hands and cropped chimes. No added or removed figure, machine, bell, caption or panel. No new injury, magic, frame crossing or color/style change. Return ONE complete corrected page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-003.png",
+          "sha256": "f99ad1a0a3ff3f43aaaaacad86ddd182a43f3cf093dd095273c3b233b50e1b76",
+          "role": "Current selected target; change comma after MONARCH to period only.",
+          "historicalCopyPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P03-002.png"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity/style preservation"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography preservation"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Chime preservation"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Frame preservation"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Independent reviewer found a comma after MONARCH in P03.3, contrary to exact Q5/source/script. One punctuation substitution in existing ample balloon requires no composition, count, anatomy or text-fit change. Actual target and four references inspected; five-input limit observed."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "height": 1536,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-eeafb26e-a2a7-4e38-b1d6-a46b7340b002.png",
+        "width": 1024,
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-eeafb26e-a2a7-4e38-b1d6-a46b7340b002.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T19:52:30Z",
+      "completedAt": "2026-09-17T19:53:12Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P03-003.png",
+      "outputSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+      "inspection": {
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Entire saved page rechecked at1024 and390. MONARCH now followed by a period. Other exact words/counts,8swarms,8routes, blackrift, face/hands and clean state remain intact. Minor water/small-frame texture changes do not alter geography or graphic readability.",
+        "reviewer": "coordinator",
+        "verdict": "PASS-for-independent-review"
       }
     }
   ],
@@ -1471,6 +1777,42 @@
       "readerSha256": "066c31275d05e507ccf9768880770d9e5748acbc4bab28d8b63b9abe7867c73e",
       "evidence": "review.md#page-001",
       "limitation": "Full actualimage and actual390px/desktop reader captures inspected. Reviewer couldnotexercise livecontrols; coordinator did. Completebook andfuturepages notcertified."
+    },
+    {
+      "scope": "page-002-and-P01-P02-reader-action-descriptions",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "2213670e2eef34af8e283b38d76ae837ccfca72505f9af1ea8a941072a1254a6",
+      "readerSha256": "77a62deb689eb0fc9e7f2a160e615dabd9ad2a7002e4f7cf485975226b68b009",
+      "evidence": "review.md#page-002",
+      "limitation": "Static fullactual and390/desktopreader captures independentlyreviewed. Livecontrols notindependentlytested; completebooknotreviewed."
+    },
+    {
+      "reviewFileSha256": "4c6b4289aa27eb7e463eb22fe72cad790daff36d4155a61d8a21c9d33a703e16",
+      "finding": "P03.3 FIRST MONARCH has comma instead of exact period. Other gates pass; entire corrected page needs reinspection.",
+      "reviewer": "/root/gn_preflight",
+      "verdict": "REVISE",
+      "scope": "page-003",
+      "evidence": "review.md",
+      "role": "graphic_novel_reviewer",
+      "pass": 1,
+      "pageSha256": "f99ad1a0a3ff3f43aaaaacad86ddd182a43f3cf093dd095273c3b233b50e1b76"
+    },
+    {
+      "scope": "page-003-recheck",
+      "pass": 2,
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "64e42db33f8e433eaa8a76b5d1fe1244ccfcf45eb3ea47bfb99d34a15601e3a4",
+      "readerSha256": "386b6f29eb89574c3fcc995897e8563becd64f8fc6f27613bc712ae704ea7cf7",
+      "evidence": "review.md",
+      "limitation": "Entire revised page and actual static mobile/desktop reader captures inspected. Live controls and complete book remain separately unreviewed."
     }
   ],
   "approvals": {
