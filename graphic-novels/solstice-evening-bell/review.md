@@ -378,3 +378,28 @@ Independently recomputed source, plan, STYLE and R1–R4 hashes: unchanged from 
 **Flow/style/lettering/transcript: PASS.** Broad opening → left/right attention shifts → broad descent reads clearly through black frames and white gutters. No diagonal bypass or confusing overlap joins separate moments. Crisp contours, flat saturated fills, hard shadows and yellow uppercase captions remain consistent. Every word and punctuation mark is readable at full size and 390 px. All four narration entries and plain action descriptions match the actual page in panel order. No broad live-control rerun was needed for this data-only addition.
 
 **Page 006: PASS; blocking findings: none.** This is an assistant page verdict only. **P07–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Page 007 independent review 1 — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of production; 2026-09-17. Scope: every panel and all five text objects in actual P07-001 at 1024 × 1536 and the supplied actual 390 px/desktop reader captures; current transcript. Re-read the source first-loss passage through the eleven-tone count and following northern threat, and compared approved P07/P08 script, complete previously reviewed coverage, accepted P06 and unchanged R1–R4 reference state.
+
+Reviewed SHA-256 versions:
+
+- P07-001: `c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb`.
+- Reader: `cec52c458b8c4ca89bf94a0289a23f1be749c2183fab2bf2d4ca112b0d2e5d89`.
+- Manifest at read: `35ffc13e7e95bb790f24dbacfc20153ca6ac58b1dd9853e689f99f8a2e5d3f91`.
+- Evidence under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P07-001-reader-390.png` — `57eb3c8d565b689bc8ccb73e27a0ee01bcea7c25d1008f7c106b67b27e861602`; `P07-001-reader-desktop.png` — `2979f22e4b1cb2c3d6685cc00a05ef2ded86242ef6439c522ce2f298d6fc4876`.
+
+Independently recomputed source, plan and STYLE: unchanged from the precise versions recorded above. Preceding P06 remains `8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d`. R1–R4 remain the previously inspected and versioned accepted inputs; no reference substitution is certified here.
+
+**P07.1: PASS.** Needle contact visibly cracks one ordinary-sized chime; broken-machine/spark traces reveal the failing defense toward the image-right southern breakwater. The first caption exactly retains the choice, including its comma. This establishes damage before Solstice commands the overload; the smallest chime is not mistakenly sacrificed.
+
+**P07.2: PASS.** The coherent anatomical right arm and open gauntlet command the same cracked chime without impossible contact. The balloon reads exactly “NO.” and its tail identifies Solstice. Advancing machines remain in the scene; no voluntary enemy pause or helper appears. Adult face, hair, nosebleed, right-pauldron score and closed sternum armor continue P06.
+
+**P07.3: PASS.** The already damaged chime begins shattering as its plane broadens into the source-authorized white cut across the southern route. Dark broken shells support its destructive action; the width is a temporary overload, not a new permanent force-field ability. “ITS MAKER HAD LAUGHED BEFORE EVERY CHARGE.” retains the correct first donor's particular memory. No donor body, apparition or speaking soul appears.
+
+**P07.4: PASS.** Independently counted eleven whole surviving chimes: six image-left and five image-right, including one distinctly smaller survivor. Separate jagged silver shards descend toward the southern/right breakwater. Solstice's pained temple gesture conveys the loss; the anatomical left hand has plausible contact. Source/script do not assign this gesture's side, so the incidental prepared-prompt alternative is not a fidelity error. Prior external injuries persist without additional wounds or exposed focus. Both exact captions distinguish ending the dead woman's last work from killing her again, and correctly retain the eleven-plus-central count.
+
+**Reading/style/transcript: PASS.** Damage → command → widened cut → personal cost reads clearly through the top pair, broad action panel and separated final pause. No overlap or frame crossing confuses sequence. Crisp contours, flat saturated fields, hard shadows, white gutters and yellow uppercase captions remain consistent. Independently read every word and punctuation mark at full size and 390 px, including the long final caption. All transcript descriptions, exact lettering and speaker attribution match the selected pixels; temple contact is accurately side-neutral. No broad live-control regression was needed.
+
+**Page 007: PASS; blocking findings: none.** Assistant review only. **P08–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**

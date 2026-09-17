@@ -658,8 +658,8 @@
       "id": "page-007",
       "number": 7,
       "path": "pages/page-007.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
       "dependsOn": [
         "R1",
         "R2",
@@ -667,12 +667,50 @@
         "R4",
         "page-006"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult identity; right shoulder score/nosebleed, closed focus, new neural recoil only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Southern breakwater on right and distant bay geometry."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "First normal-size chime C1 fails; eleven whole survivors including smaller C9."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving vaned machines and broken frames."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "Accepted preceding P06-002 state and rendering, all twelve intact at entry."
+        }
+      ],
+      "attempts": [
+        "P07-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-007",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "7e6ca9221b54f78c09e9fd0ecd870ca34b580b1fa2f078b8f00348ff79b1831f",
+        "readerSha256": "cec52c458b8c4ca89bf94a0289a23f1be749c2183fab2bf2d4ca112b0d2e5d89",
+        "evidence": "review.md",
+        "evidenceSummary": "Independent first-loss sequence, exact eleven survivors, donor wording, anatomy and transcript passed at full size and actual 390px reader. No blocking findings."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-008",
@@ -2146,6 +2184,69 @@
         "evidence": "Saved full revised pixels and actual 390px reading view checked. Bottom panel counted exactly twelve intact bells after three extras removed; top has three upper plus three lower. All four captions exact/readable; coherent whole airborne figure or border-cropped medium view, two guiding hands, unchanged nosebleed/right shoulder score, fixed planes shown by local severed metal and straight route strokes. Four beats and bayward descending maze intact.",
         "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P06-002-reader-390.png"
       }
+    },
+    {
+      "id": "P07-001",
+      "assetId": "page-007",
+      "state": "accepted",
+      "prompt": "Create ONE complete lettered comic PAGE 7, portrait 1024x1536. FOUR panels only: two smaller side-by-side causal panels at top, one dominant full-width overload panel, then a quieter full-width consequence panel separated by a wider white gutter. Bold black contours, saturated flat night blues/cyan, near-white armor/silver, hard-edge cel shadows, clean black frames, white gutters, yellow narration and bold condensed uppercase text. No watercolor, painterly gradients, 3D, extra title/label/credit/SFX.\n\nATTACHED REFERENCES IN ORDER:\n1 SAME adult Solstice, long silver hair, blue-gray eyes, opaque white armored dress, gauntlets and boots. Use current tiny nosebleed, sternum pain, shallow anatomical RIGHT pauldron score (viewer-left in front view). No rib/hip/leg wound, wet state, exposed focus or head tiara.\n2 SAME western bay: from offshore looking EAST, NORTH breakwater is LEFT, SOUTH breakwater RIGHT, inland ridge far beyond. The damaged corridor and falling fragments on THIS page concern the RIGHT/SOUTH breakwater. Keep coast tiny and distant; figure and foreground bells cannot be truncated by terrain.\n3 Crown: twelve whole chimes at entry, C9 uniquely smallest, hidden central focus under closed sternum armor. Here ONE ordinary full-size chime C1 is cracked and deliberately overloaded; it shatters, leaving exactly ELEVEN whole orbiting bells. No reference labels or cutaway. Broken silver fragments are equipment, not souls.\n4 Nonliving HUMAN-SIZED featureless folding-vane frames; no giant ship, pilot, face, creature or living enemy.\n5 Accepted page6: same identity/style/phase, above ordinary storm, twelve whole bells at entry. Use its actual shoulder/nose injury and scale, not layout/text.\n\nLAYOUT AND LETTERING: outer margin about20px. Top pair y20..380,16px gutter; wide panel3 y396..980,28px gutter; quiet panel4 y1008..1516. Four frames, no inset or panel crossing. Use36–44px bold condensed uppercase letters and wrap text into generous lines. Exact FIVE text objects total: panel1 ONE yellow caption, panel2 ONE white speech balloon, panel3 ONE yellow caption, panel4 TWO yellow captions. No other words/numbers. Do not shrink text to one line when wrapping is needed.\n\nPANEL1 TOP LEFT — Damage: Large close view of ONE normal-size silver chime C1. Thin enemy needles strike its silver shell; visible hairline cracks spread across it but it remains one intact bell at this instant. Do not depict several bells being hit. Behind it, localized broken-frame contacts peter out where its paired invisible edict plane frays; this opening leads toward the distant SOUTH/RIGHT concrete breakwater. Tiny advancing vaned frames exploit the gap. Ordinary plane remains invisible except intercepted metal/sparks, no filled glass shield. No rain on the bell yet. Other eleven bells outside close crop, still whole.\nExact yellow caption, wrap in two large lines:\nSAVE THE TONE, LOSE THE CORRIDOR.\n\nPANEL2 TOP RIGHT — Choice: Close face, clenched jaw and ONE raised RIGHT gauntlet belonging to Solstice, issuing a command toward the same cracked chime. The chime can appear at the frame edge; hand does not grip it. Five coherent fingers, connected wrist, clear gap. Her tiny nosebleed and shoulder score persist. Host continues behind her, no enemy pause or helpers. Determined painful refusal.\nONE white black-outlined speech balloon with a clear tail ending at HER mouth, containing exactly:\nNO.\n\nPANEL3 FULL WIDTH — Burning the first spell: The same cracked C1 overloads at the SOUTHERN corridor. Its normally hair-thin edict broadens into a KILOMETER-WIDE WHITE CUT, an enormous clean hard-edged blade-like swath through one sector of the machine host. The cut follows the fixed plane; it is NOT a beam shot from Solstice, a sword she holds, a spherical explosion, a humanoid spirit or a resurrected woman.\nShow the overloaded bell at one END of the broad white swath, its silver silhouette beginning to fail in the intense white instant. Nearby crossing folding-vane shells flash dark and break along the widened plane; other distant schools remain outside it. Perspective and tiny right/south breakwater far below convey the breadth. Keep source geography: the threatened southern route is on image RIGHT. No other chime burns or breaks. Solstice may be outside this effect-focused crop.\nExact large yellow caption across the safe top area:\nITS MAKER HAD LAUGHED BEFORE EVERY CHARGE.\nThere is NO donor face, ghost, body, girl, hand or person inside the effect. The deceased maker remains a remembered person, her last equipment-spell alone is consumed.\n\nPANEL4 QUIET CONSEQUENCE — Eleven remain: A wider gutter makes this a later moment after overload. At center, Solstice recoils from the new neural absence, eyes squeezed or shocked with pain. Her RIGHT gauntlet touches her temple naturally. The figure is a medium head-and-upper-torso view, lower torso CROPPED ONLY BY THE BOTTOM PANEL BORDER; no torso ending at a ridge. Nosebleed and old right shoulder scrape remain. Chest stays opaque/intact.\nArrange exactly ELEVEN intact surviving silver bells around the center face, distinctly separated and fully countable. SIX to her LEFT in two rows of THREE (centers approximately x110,225,340 in each row), FIVE to her RIGHT (THREE upper at x680,795,910; TWO lower at x740,865). Upper bell centers around y1320; lower centers around y1440. One small C9 in lower-left group's third slot is uniquely smaller; every other bell is ordinary size. No twelfth bell, no hidden extra bell, no external central resonator. The central focus stays invisible beneath her armor.\nSmall irregular shards from the LOST C1 drift down on the far RIGHT toward the tiny distant southern breakwater, keeping away from the eleven whole silhouettes. Irregular unrecognizable fragments, no complete bell-shaped shard, no sparkling spirit. Coast occupies only a distant lower-right background glimpse and cannot cover her body or any surviving bell.\nTWO yellow caption boxes stacked above the art, exact wording in large wrapped lines:\nSHE HAD NOT KILLED THE WOMAN AGAIN. SHE HAD ENDED HER LAST WORK.\nELEVEN ORBITING TONES. AND THE CENTRAL ONE.\n\nFinal state: C1 irreversibly gone, eleven orbiting whole bells + concealed central focus. Silver residue in C1 fragments falls toward SOUTH breakwater. Solstice suffers loss/pain but no new bodily injury. The woman died willingly centuries ago, not here again. No ghosts, resurrection, allies, civilian casualties, rain, new spell, crown restoration or new writing. Exactly four panels and five exact text objects.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult identity; right shoulder score/nosebleed, closed focus, new neural recoil only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Southern breakwater on right and distant bay geometry."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "First normal-size chime C1 fails; eleven whole survivors including smaller C9."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving vaned machines and broken frames."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "Accepted preceding P06-002 state and rendering, all twelve intact at entry."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read first-loss source span and exact script; inspected unchanged selected reference pixels and accepted P06. Creator checked feasible final panel >=440px, central border-cropped portrait with 6+5 clear whole bells, separate shard trail to southern breakwater, no donor apparition. Prepared bottom panel508px allows176px captions and332px art. Fixed normal-plane invisibility changes only for source-authorized kilometer-wide white overload cut."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17T20:50:11Z",
+      "completedAt": "2026-09-17T20:51:13Z",
+      "outputPath": "pages/page-007.png",
+      "outputSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-adfc8e78-63cd-405c-aae9-dba6aae0544a.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-adfc8e78-63cd-405c-aae9-dba6aae0544a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved full pixels and actual 390px reader inspected. First damaged chime alone cracks/overloads/shatters, southern route stays on right, source-authorized broad white cut has no donor apparition. Final exact eleven whole chimes counted 6 left/5 right, one small C9, separate jagged silver fall to south breakwater. All five text objects exact/readable, speaking tail identifies Solstice. Final temple contact uses left hand rather than incidental prepared right-hand choice; source/approved script leaves recoil hand unspecified, so selected natural contact is accepted. No new bodily wound or visible central focus.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P07-001-reader-390.png"
+      }
     }
   ],
   "reviews": [
@@ -2315,6 +2416,18 @@
       "readerSha256": "4f85f0b78dab436d5db5210aaddb90feef927beb589db8203add28a19edf4dcd",
       "evidence": "review.md",
       "evidenceSummary": "Independent full-size and actual 390px review passed. Twelve bottom chimes, first-plane geometry, branching schools, guiding hands, straight segments, injuries, exact lettering and transcript passed. Complete book remains unreviewed."
+    },
+    {
+      "scope": "page-007",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "7e6ca9221b54f78c09e9fd0ecd870ca34b580b1fa2f078b8f00348ff79b1831f",
+      "readerSha256": "cec52c458b8c4ca89bf94a0289a23f1be749c2183fab2bf2d4ca112b0d2e5d89",
+      "evidence": "review.md",
+      "evidenceSummary": "Independent first-loss sequence, exact eleven survivors, donor wording, anatomy and transcript passed at full size and actual 390px reader. No blocking findings."
     }
   ],
   "approvals": {
