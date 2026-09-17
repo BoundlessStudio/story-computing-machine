@@ -451,3 +451,80 @@ Independently recomputed source, plan and STYLE hashes remain their precise prev
 **Flow/style/lettering/transcript: PASS.** Three broad panels take the reader from compression through the count to the new threat. White gutters separate successive moments; no inset, overlap or frame crossing confuses the sequence. Human-scale vaned-machine design, crisp contours, flat saturated fields, hard shadows and yellow uppercase captions remain consistent. Every word and punctuation mark, including the count comma and sentence breaks, is legible at full size and 390 px. All five narration entries and three plain visual descriptions match the actual selected page in order. No broad live-control rerun was needed for this image/data addition.
 
 **Page 009: PASS; blocking findings: none.** Assistant page review only. **P10–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Page 010 independent review 1 — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of production/correction; 2026-09-17. Scope: every panel of selected P10-002 at full 1024 × 1536 and actual supplied 390 px/desktop reader captures, three captions, silent P10.3 and current transcript. Re-read the source storm/updraft passage and following collision boundary; compared approved P10/P11 script, previously reviewed full coverage, accepted P09 and R1–R4 state. P10-001 was not independently reviewed here.
+
+Reviewed SHA-256 versions:
+
+- P10-002: `80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60`.
+- Reader: `a8685cee40b40413909f2b1b035bb0a14f0f6b4598a146f7fa707174b4a74400`.
+- Manifest at read: `53c0cb5d41ada661eabc1587a669a05940f149e1bf4d41cf974e581e321d173d`.
+- Evidence under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P10-002-reader-390.png` — `6e7fb247fe3982ea8a62e74d967d3f25fa57170f8d6ba6f28db4f6422e7dbf5c`; `P10-002-reader-desktop.png` — `0c5b8de3f05ea5430c45e0521b88de73b364bb85211118d24d2d2073a66021c9`.
+
+Source, plan and STYLE hashes were independently recomputed and remain their precise previously recorded versions. P09 remains `f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c`; unchanged R1–R4 remain the accepted reference comparison.
+
+**P10.1: PASS.** One complete Solstice falls feet first beneath a ceiling of vaned machines. Heavy rain and streaming hair/dress establish entry into the soaked state. Lightning belongs to the surrounding storm; lowered hands and the exact caption do not imply weather control. Body/armor identity remains coherent, sternum focus concealed. No stray red skirt mark or early hip, rib or leg injury appears.
+
+**P10.2: PASS.** A rising cloud column grounds the updraft, with an upper chime inside it and another below. The straight vertical sounding connection is distinct from the horizontal plane disclosed by interrupted rain. “THAT MADE IT USEFUL.” is exact. Both chimes remain whole; the seven unused survivors are outside this local crop, not lost.
+
+**P10.3: PASS.** One complete Solstice arrives beside the upper endpoint with both boots above the horizontal plane. One straight vertical line connects the same two bells; there is no curved route, duplicate body or unexplained third endpoint. Wet schools dive toward the trap. The panel is correctly silent, without printed “NONE,” narration or sound effects.
+
+**P10.4: PASS.** Different machine tilts and heights visibly disrupt the descending ranks before successive crossings split them along the fixed horizontal plane. Dark fragments fall into cloud; neither chime breaks. The exact two-sentence caption assigns lost alignment to rising air, preserving the source mechanism without adding a new power.
+
+**Flow/style/lettering/transcript: PASS.** The broad fall, paired setup/pursuit views and broad payoff read in the intended order. Matching chime positions and plane height connect the middle panels without erasing their time distinction; white gutters and black frames remain clear. Corrected clouds use definite flat blue shapes and hard edges rather than soft painted modeling. Figure/machine contours, hard shadows and yellow uppercase captions retain GN consistency. All three exact captions, including punctuation, are readable at full size and 390 px. Four plain action descriptions and three narration entries match the selected pixels; P10.3 has no lettering entry. No broad live-control rerun was needed.
+
+**Page 010: PASS; blocking findings: none.** The wet state is now established for subsequent continuity. Assistant page review only. **P11–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Delivery migration and partial PDF assembly review — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of instruction edits, binding records and PDF assembly; 2026-09-17. Applied the explicitly requested v0.5 delivery contract and read the PDF skill. This is a bounded review of the delivery-only migration and **eleven-page partial PDF: cover plus P01–P10**. It is not the fresh complete-book review or final approval. Earlier “PDF: NOT REQUESTED” entries retain their historical meaning before the user's subsequent PDF request.
+
+### Reviewed migration versions and scope
+
+Inspected the full current GN contract and creator/reviewer TOMLs, the STYLE delivery changes, both README diffs, the AGENTS GN section, prompt/plan diff and manifest delivery bindings. SHA-256:
+
+| Input | Reviewed version |
+| --- | --- |
+| GN contract v0.5 | `b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Creator TOML | `fc32b503344c02c19987b23d3eadb2525cb7fa1fc39e35672d893f86e3800958` |
+| Reviewer TOML | `a377618fb564d293d7dec8d34de5aeafa1c9b947acdbc2397fc8c3a25cff5b65` |
+| AGENTS.md | `44be7240806173e0dde98f6cb46d1ab2b4c0fa2b75f40c0af48221a32d269791` |
+| Root README | `d5f95a9765788bdae127757431800f7da79ce2ac720fe1c5c853575d9ad8b375` |
+| GN README | `fc8b5a53e3bbaf355b0ff79c93034b33c919069e1e1467d38d50c3c13ef5f7bd` |
+| Edition prompt | `ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0` |
+| Edition plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+
+Manifest at initial migration read: `7393ce35f3e4a0cba870e728c310426c47e646177eb7764a3ac56f45fa7bc50e`. Production bookkeeping advanced during review; re-read the delivery-change/PDF-migration records and P01–P10 statuses at `dca80ca7032bc04d3f3add55f8427b7cffb7975ffb9e8a761ea93f50540e5901`, with the scoped bindings unchanged. This does not certify unrelated evolving production fields.
+
+**Delivery migration: PASS.** The verbatim PDF request is separately recorded. Original plan approval, original hashes and prior scope remain preserved; the new delivery binding names the current contract/style/plan/prompt hashes without claiming approval of unseen artwork or a final book. The plan diff changes delivery/assembly only: the 24-page/92-panel script, four references, one cover and rendering remain unchanged. Final output is 25 PDF pages, cover first, references excluded absent an appendix request. Instructions consistently require ordered complete images, preserved aspect ratios, actual PDF rendering, fresh complete-book review and final approval bound to the exact PDF. The illustrated workflow is unaffected. Reading these revised role files does not claim the running agent configuration was dynamically reloaded.
+
+Source prose, source prompt, canon marker and original cover were independently rehashed and remain `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c`, `26e9256c7b6de56632fbd249963ca6fa42c75ef367ee5e4a4626baa3921411db`, `8e7ac17b0a818a5fac10c735f4a2c53f9edb1a06e288a0e49ad7f41ff51f4e13`, and `685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88`. P01–P10 keep their historical independent image PASS scopes. The former reader is preserved outside the package as `pre-pdf-migration-reader.html`, hash `a8685cee40b40413909f2b1b035bb0a14f0f6b4598a146f7fa707174b4a74400`. Neither `edition.html` nor an incomplete `edition.pdf` occupies the package.
+
+### Actual partial PDF and ordered image evidence
+
+Reviewed `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/edition-preview.pdf`, retained unchanged as `through-010.pdf`. Both SHA-256: **`77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6`**.
+
+| PDF page | Selected image | Image SHA-256 |
+| --- | --- | --- |
+| 1 | Cover | `e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca` |
+| 2 | P01 | `4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d` |
+| 3 | P02 | `db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a` |
+| 4 | P03 | `99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288` |
+| 5 | P04 | `ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90` |
+| 6 | P05 | `3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9` |
+| 7 | P06 | `8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d` |
+| 8 | P07 | `c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb` |
+| 9 | P08 | `11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe` |
+| 10 | P09 | `f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c` |
+| 11 | P10 | `80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60` |
+
+**Independent structural check: PASS.** Reopened the actual archived PDF with pypdf and compared every decoded embedded RGB image against its selected original using Pillow: eleven exact matches, one image per page in the order above. Original resolutions remain 941 × 1672 for the cover and 1024 × 1536 for each comic page. Each PDF page has a 648-point height; cover width is 364.6938 points and comic width 432 points. Ratios, unrotated crop/media boxes and full-page image transforms agree; no image is stretched or cropped. Eleven bookmarks have correct titles and consecutive destinations, cover through Page 10. No omission, duplicate, reference sheet or blank page appears.
+
+**Rendered visual check: PASS for every PDF page 1–11.** Independently inspected all `full-01.png`–`full-11.png` and `reading-01.png`–`reading-11.png` in that temporary PDF folder. Full-page renders are 730 × 1296 for the cover and 864 × 1296 for comics; reduced renders are 390 × 693 and 390 × 585 respectively. All page edges, frames, gutters, title, captions, speech and story-bearing action remain intact, with no clipping, stretch, missing strip, color damage or corrupted glyph. Read the visible lettering at both render sizes and compared the selected versions: notably the repaired P03 period, enlarged P05 captions, corrected P05 figure, P06/P08 bell counts, P09 rupture and P10 cloud treatment are the accepted variants. Cover and P01–P10 occur in the correct sequence. No new assembly-induced readability issue appeared.
+
+Render evidence digest: `149a615a6d13619867c301a300380207d239c50165943587b557741472b911c6`, computed as SHA-256 of UTF-8 LF-joined `filename + space + file SHA-256` lines for full-01 through full-11, then reading-01 through reading-11, with no final LF. This binds the exact 22 inspected render files without creating another evidence artifact.
+
+**Delivery migration and this eleven-page partial assembly: PASS; blocking findings: none. PDF: REQUESTED, PARTIAL ASSEMBLY REVIEWED.** The partial PDF does not contain P11–P24 or the ending. No complete-book fidelity/pacing verdict, fresh final-review verdict, publication authorization or final user approval is issued. **P11–P24 and the complete 25-page PDF book: NOT REVIEWED.**

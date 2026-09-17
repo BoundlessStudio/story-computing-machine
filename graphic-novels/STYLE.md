@@ -1,4 +1,4 @@
-# Graphic-novel house style — draft v0.4
+# Graphic-novel house style — draft v0.5
 
 Publisher design guidance, not universe facts. These are proposed defaults for
 user review. Explicit preferences and the approved edition plan take precedence
@@ -73,7 +73,12 @@ image's figures, headings or panel arrangement into new reference sheets.
   placement reinforce that route. A different reading direction is edition-wide
   and requires explicit preference in the plan.
 - Keep text and important action safely inside the page. The panel treatment
-  below must work in the single-page web reader, including at mobile size.
+  below must remain readable in the assembled PDF, including at reduced reading size.
+- Assemble the selected cover followed by all ordered comic-page images into
+  edition.pdf, one image per PDF page. Preserve each complete image and its
+  aspect ratio without cropping or stretching; verify none is omitted or
+  duplicated. Reference sheets are production assets unless an appendix is
+  expressly requested. A differently proportioned cover retains its own ratio.
 - There is no preferred panel count. Determine the necessary panels from the
   scene's action, dialogue and pacing after deciding how its moments connect.
 - A page has a dramatic purpose and a clear final beat. Page turns can reveal or
@@ -186,9 +191,10 @@ checks. Do not rely on color alone to identify speakers or communicate action.
   script while retaining source quotations' original wording/case for provenance.
   Case conversion is a lettering treatment, not a change of meaning; preserve
   any case-sensitive in-world code or sign. Start around 40–44 px on a
-  1024 px-wide page; verify actual legibility at approximately 390 CSS px wide
-  and at desktop size. Enlarge text or simplify/split a page if it fails. Zoom
-  and the transcript supplement a readable page, not excuse unreadable type.
+  1024 px-wide page; verify actual legibility at approximately 390 px wide
+  and at desktop reading size, including the rendered PDF. Enlarge text or
+  simplify/split a page if it fails. Zoom and the plan transcript supplement
+  a readable page, not excuse unreadable type.
 - Aim for 10–22 words per balloon, normally no more than two balloons per panel,
   and roughly 50–90 words on a dialogue page. These are planning guides; silent
   pages can have none. Do not add filler to reach a target or shrink letters to
@@ -203,9 +209,10 @@ checks. Do not rely on color alone to identify speakers or communicate action.
 - No reference headings, watermark, invented credit or unsolicited decorative
   writing inside final pages. Necessary signs have exact scripted wording.
 
-Maintain an accessible per-panel transcript in the local reader, derived from
-the approved script, with speakers, exact words and brief essential visual
-actions. It must match the selected page after every correction. OCR may assist
+Maintain the exact per-panel transcript in plan.md, with speakers, words and
+brief essential visual actions. An optional temporary HTML preview outside the
+package may display it; do not add another authored transcript document. The
+transcript must match the selected page after every correction. OCR may assist
 inspection but cannot certify text, tails or reading order. Correct lettering
 through the image tool and review the entire changed page for collateral drift.
 
@@ -227,5 +234,11 @@ spatial connections, stable faces and outfits, lettering, tails, panel transitio
 gutter clarity, inset/overlap hierarchy, frame crossings, clipping and compression.
 Trace the intended reading path across the page and compare adjacent pages,
 not just isolated panels.
-The final whole-book pass also checks pacing, repetitive compositions, palette
-drift, missing exchanges and whether the ending still lands.
+Use the PDF skill for final assembly. Render the actual PDF and inspect every
+page at full and reading sizes, including approximately 390 px wide. A fresh
+independent whole-book pass checks the complete rendered PDF for image order,
+page count, omissions/duplicates, undistorted complete artwork and readable
+lettering, along with pacing, repetitive compositions, palette drift, missing
+exchanges and whether the ending still lands. Record the reviewed PDF hash and
+ordered image versions; final user approval applies to that exact PDF. HTML is
+an optional temporary production preview outside the package, not the final book.

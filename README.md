@@ -66,8 +66,12 @@ contract and [edition tooling](illustrated/README.md) for setup and commands.
 `[GN]` is a separate draft process for adapting a finished story into sequential
 comic pages. It inspects the story's cover and suitable existing artwork,
 proposes references and a page/panel script, then creates and independently
-reviews one page at a time after explicit approval to try the plan. A fresh
-reviewer checks the complete book before final user approval.
+reviews one page at a time after explicit approval to try the plan. The selected
+cover and all ordered comic-page images are assembled into edition.pdf, one image
+per page with complete artwork and preserved aspect ratios. A fresh reviewer
+checks every rendered PDF page and the complete book before final user approval
+of that exact PDF. Any HTML preview is temporary production material outside
+the edition package; the final deliverable is the PDF.
 
 Read the [draft workflow and choices](graphic-novels/README.md) and
 [written house style](graphic-novels/STYLE.md). Page composition follows the

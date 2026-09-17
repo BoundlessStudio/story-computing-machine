@@ -1,6 +1,6 @@
 {
   "format": "graphic-novel-draft-manual",
-  "contractVersion": "0.4",
+  "contractVersion": "0.5",
   "slug": "solstice-evening-bell",
   "title": "Solstice Evening Bell",
   "status": "producing-pages",
@@ -48,7 +48,7 @@
   },
   "style": {
     "path": "graphic-novels/STYLE.md",
-    "sha256": "be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb"
+    "sha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f"
   },
   "authority": [
     {
@@ -90,15 +90,15 @@
   ],
   "contract": {
     "path": ".agents/skills/graphic-novel-create/SKILL.md",
-    "sha256": "a297e37dacb902462b64568907d32ac582009ab4744e2bfa9fdb3232b1994807"
+    "sha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95"
   },
   "request": {
     "path": "graphic-novels/solstice-evening-bell/prompt.md",
-    "sha256": "be8ef84fb4dfad6fd72de61d2beb0c8455c14a36a400ee19b8501aa6eddf26fe"
+    "sha256": "ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0"
   },
   "plan": {
     "path": "graphic-novels/solstice-evening-bell/plan.md",
-    "sha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+    "sha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
     "independentVerdict": "PASS",
     "pages": 24,
     "panels": 92
@@ -834,8 +834,8 @@
       "id": "page-010",
       "number": 10,
       "path": "pages/page-010.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
       "dependsOn": [
         "R1",
         "R2",
@@ -843,19 +843,58 @@
         "R4",
         "page-009"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity and first soaked state; explicitly exclude later reference rib/hip wounds."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay beneath obscuring storm; subordinate geography."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Nine intact bells, selected vertical pair, horizontal edict and hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving rain-heavy frames and dark wreckage."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-009.png",
+          "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "role": "Accepted P09-002 identity/counts and pre-rain state."
+        }
+      ],
+      "attempts": [
+        "P10-001",
+        "P10-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-010",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "44422ae9473daf79d69122b092d62294e433802e257871768a054e93d25913f0",
+        "readerSha256": "a8685cee40b40413909f2b1b035bb0a14f0f6b4598a146f7fa707174b4a74400",
+        "evidence": "review.md",
+        "evidenceSummary": "Independent review passed wet-state transition,horizontal rain-revealed plane,straight transit,updraft effect,corrected graphic style,three exact captions and silent-panel transcript at full and390px. User subsequently requested PDF final output; these remain pixel/temporary-preview checks, not PDF-page certification."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-011",
       "number": 11,
       "path": "pages/page-011.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "awaiting-independent-review",
+      "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
       "dependsOn": [
         "R1",
         "R2",
@@ -863,12 +902,43 @@
         "R4",
         "page-010"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style; early battle before contact; STORM right-rib state after collision only"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 eastern ridge and empty harbor geography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 intact silver chime design; nine survivors, concealed focus"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 human-sized nonliving vaned attacker geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-010.png",
+          "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "role": "Accepted P10 wet storm, rain-plane and rendering continuity"
+        }
+      ],
+      "attempts": [
+        "P11-001",
+        "P11-002"
+      ],
       "independentReview": {
         "verdict": "NOT REVIEWED",
         "evidence": null
-      }
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-012",
@@ -2575,6 +2645,263 @@
         "evidence": "Saved full corrected image and actual390px reader checked. Rupture is now an unlit irregular black tear consistent with accepted P06. Three beats and all five exact readable captions retained, including49,152 comma. Nine whole final bells in3rows3 and unique small lower-left C9 counted; mechanical needle apertures aim at them, sacrifice group breaks in separate rear corner. Dark machine wreckage falls to storm tops; no bell loss, exposed focus, donor apparition or rain on Solstice.",
         "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P09-002-reader-390.png"
       }
+    },
+    {
+      "id": "P10-001",
+      "assetId": "page-010",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished lettered comic PAGE10, portrait1024x1536, FOUR panels: wide top falling scene, two side-by-side middle setup/pursuit panels, wide large bottom payoff. Bold black outlines, flat saturated storm-blue/cyan, near-white silver armor, clean hard-edge cel shadows, white gutters and yellow narration. Same accepted GN style, no painterly wash, 3D or glossy photo rain. THREE caption boxes only; panel3 is SILENT.\n\nFIVE INPUTS: 1 Same adult Solstice, long silver hair, blue-gray eyes, opaque white armored dress, gauntlets and boots. FIRST SUSTAINED RAIN now mats her hair and weights her dress. Use wetness only from the sheet's STORM detail, NOT its later rib injury or side-holding pose. Retain tiny nosebleed, sternum pain and shallow anatomical RIGHT pauldron score. Ribs/hip/legs remain intact, no new wound or blood elsewhere, no open chest focus. 2 Bay geography under the storm, mostly obscured/outside these cloud-level crops. 3 Crown geometry: NINE whole orbiting bells survive, one uniquely smaller C9, central focus HIDDEN under intact sternum armor. Do not copy twelve-bell inventory, labels/diagram, head tiara or jewel. The seven unused bells can remain outside the close weather setup; no new loss. 4 HUMAN-SIZED nonliving featureless folding-vane machine shells, needles and dark fragments. 5 Accepted page9: same woman/current injuries/nine whole chimes and graphic rendering. This page changes only to soaked storm state and a new weather trap.\n\nMECHANICS: the weather is ORDINARY and does NOT obey Solstice. Lightning is distant atmosphere behind machines, never issued from her hands. The special paired EDICT is HORIZONTAL, midway between an UPPER and LOWER chime. Its surface is INVISIBLE except for a thin intermittent HORIZONTAL row of rain contacts/spray and later broken metal. The TWO chimes lie vertically one ABOVE the other. Their thin straight sounding/transit line is VERTICAL; do not confuse it with the HORIZONTAL plane. No solid floor, glass platform, filled transparent wall, glowing grid or long blast laser. Every bell-step has TWO sounding chime endpoints, ONE straight route and ONE Solstice at the destination, never an origin ghost or curved step.\n\nLAYOUT:20px outer margins,16px white gutters. Top panel y20..430; middle row y446..916 (left panel2,right panel3); bottom panel4 y932..1516. Exact THREE yellow narration captions, one in panel1, one in panel2 and one in panel4. Panel3 has NO TEXT at all: never print NONE or a page/panel number. Large36–44px condensed uppercase comic letters, use broad wrapped lines rather than shrink. White gutters keep consecutive instants separate; no figures or effects cross a gutter.\n\nPANEL1 — Entering weather: Solstice falls FEET-FIRST down into dark rain, a long vertical motion inside the wide view. Show her ONE complete body in midair, white dress/hair dragged upward by the fall but now clinging and weighted with water; fabric remains opaque, armor fully worn. Her arms stay naturally close to her body, not raised as a lightning command. Rain stings her face and streams diagonally across the scene. Ordinary distant lightning outlines the enormous ceiling of folding vanes ABOVE her in sharp white against deep blue. No beam connects lightning to her. Clear downward body direction leads toward the next panel's lower chime placement.\nExact yellow caption in TWO or THREE large lines across the top:\nTHE STORM OBEYED PRESSURE, HEAT AND GRAVITY. IT DID NOT OBEY HER.\n\nPANEL2 MIDDLE LEFT — Setup in side view: A coherent cloud pocket with exactly TWO whole bells along its LEFT side, vertically separated. Upper chime visibly sits INSIDE a rising curled column of cloud/mist and rain, lower chime directly BENEATH it. Approximate upper center y590, lower y840; HORIZONTAL edict level midway around y715. The plane extends sideways across the pocket as an intermittent thin horizontal line of raindrops breaking into tiny spray. NO vertical wall between the bells. Curling cloud and locally lifted rain show an ordinary UPDRAFT, with no labeled arrows, weather diagram, wind god or magic gust from Solstice. Other seven bells outside crop and intact. Solstice can be outside this setup-only view.\nOne compact yellow caption at top:\nTHAT MADE IT USEFUL.\n\nPANEL3 MIDDLE RIGHT — Pursuit, SILENT: Repeat the SAME side-view geometry and relative heights. Two sounding bells along the LEFT side of this panel, upper in rising air and lower beneath, with the same horizontal rain-contact plane between their heights. ONE faint ruler-straight near-VERTICAL transit streak directly connects both bells. ONE complete soaked Solstice has arrived beside the UPPER bell, wholly ABOVE the horizontal plane. Place her head around y520 and boots around y695, above plane at715; upper bell near her upper torso, clear gap between body and bell. Full dress/boots in open cloud air, no body chopped off at a cloud edge. No departure figure, ghost, repeated body, bent line or midair path ending without a bell.\nPursuing rain-heavy machine schools PLUNGE DOWN on the RIGHT of her, still mostly above the plane. Water streaks cling to their vanes; she looks downward toward their leading ranks, guiding the reader into the bottom action. Lightning does not originate from her hands. No ribs struck here. NO captions, balloons, letters or SFX.\n\nPANEL4 — The rising air takes alignment: Wide side view of the SAME horizontal trap. Keep the upper and lower whole chimes at the LEFT outside the main diving lane, plane level midway. Seven other bells safely outside crop; no bell shatters. Across the wide panel, upper incoming machine ranks begin evenly aligned as they dive through rain. An ordinary rising curl of cloud/rain pushes them off alignment, tipping adjacent frames to DIFFERENT angles and heights. At the horizontal rain-contact level, those staggered wet frames cross OUT OF SEQUENCE and split into dark metal at separated contact points. Below, rows of black broken frames vanish into dense cloud. Each position is a different frame in ONE instant, no repeated-body time overlay.\nMake opposing directions visually clear: curled rising mist/rain against heavy downward-diving shells. The HORIZONTAL plane is only a thin interrupted row of rain/metal contact sparks, not a solid luminous floor or broad white overload blade. No chime burn, new magic or lightning-controlled attack.\nExact yellow caption across top in TWO large lines:\nTHE MESH EXPECTED ALIGNMENT. THE RISING AIR TOOK IT AWAY.\n\nExit: nine whole orbiting bells plus hidden central focus, same prior injuries ONLY. Solstice now visibly SOAKED; this wet state persists. No rib/hip/leg wound, donor apparition, ally, civilian, restored bell, new writing or extra panel. Four clear panels and exactly three caption boxes.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity and first soaked state; explicitly exclude later reference rib/hip wounds."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay beneath obscuring storm; subordinate geography."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Nine intact bells, selected vertical pair, horizontal edict and hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving rain-heavy frames and dark wreckage."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-009.png",
+          "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "role": "Accepted P09-002 identity/counts and pre-rain state."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Source/script and actual accepted images checked. Creator independently checked stable side axis, upper chime in updraft/lower beneath, horizontal rain-revealed surface distinct from vertical straight transit, whole Solstice above plane, right-hand dive lane into payoff and no premature rib injury. Middle470px and bottom584px give geometry and exact captions room; P10.3 is silent."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17T21:29:07Z",
+      "completedAt": "2026-09-17T21:30:51Z",
+      "outputPath": "pages/page-010.png",
+      "outputSha256": "e9050558ad4db592b11ec9bab23eee02246447d86b243bc05a86b1b1618fe1e6",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-b9979bd4-43f3-4dc8-aea8-f56def72296c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-b9979bd4-43f3-4dc8-aea8-f56def72296c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Source geometry and three exact captions read correctly: horizontal rain-contact surface/vertical two-chime transit, one whole Solstice above plane, staggered diving frames and first soaked state. Clouds drifted into soft painted volume rather than hard graphic forms; additionally remove tiny red front-skirt streak that could imply premature hip/thigh injury. Existing nose/right shoulder marks retained. Full reader and cropped figure detail inspected."
+      }
+    },
+    {
+      "id": "P10-002",
+      "assetId": "page-010",
+      "state": "accepted",
+      "prompt": "Edit image5, the complete FOUR-panel PAGE10. Return ONE complete1024x1536 lettered page. Preserve the exact composition, all characters/bells/machines, mechanical geometry, rain, lightning locations, text and panel frames. Make TWO carefully scoped corrections:\n\n1. CLOUD RENDERING ONLY — Match the established GN HOUSE STYLE.\nThe target's clouds/updraft have drifted into softly painted photographic volume. Redraw ONLY cloud/mist rendering as crisp graphic comic forms: clear black/navy contours, broad FLAT deep-blue/mid-blue/cyan shapes, only TWO or THREE HARD-EDGED value steps. Replace fuzzy airbrushed highlights, smoky gradients and granular soft texture with confident scalloped/curling ink shapes and solid color areas. Use image1's bold contours/hard cel shadows and image2's outlined flat-blue SKY/cloud treatment as style anchors. Image2 is NOT permission to add a harbor or lower the action: this page stays INSIDE the storm.\nKeep cloud POSITIONS and recognizable upward CURL/UPDRAFT exactly where they are. The rising plume must remain readable as ordinary air lifting rain. Do not turn clouds into a solid tower, glass structure, magic wind or decorative ribbon. Preserve dramatic storm darkness and existing white rain/lightning accents.\nKeep ALL rain streaks and the thin HORIZONTAL dotted row of rain-contact spray crossing the middle and bottom panels. That is the invisible horizontal edict, never a solid floor. Keep the TWO vertically separated whole chimes and the thin straight VERTICAL bell-step between them. One whole Solstice remains above the horizontal plane in panel3; no body below or duplicate. Preserve staggered machine ranks breaking at different contact points in panel4.\n\n2. STRAY SKIRT MARK — Remove the little red streak on the FRONT of Solstice's white skirt in panel1, around x505,y326 of the full image, and the equivalent lower-skirt red mark in panel3 if present. Restore intact wet white fabric there, preserving its folds and pose. Her only visible injuries so far are the tiny NOSEBLEED and the shallow anatomical RIGHT SHOULDER-ARMOR SCORE: keep those existing marks. No rib, hip, thigh or leg wound, no new damaged cloth. Do not change her outfit or natural raised wet hem during the fall.\n\nINPUTS: image1 SAME adult identity/ink style, current nose/right shoulder injury only; image2 sky/cloud graphic treatment only; image3 crown geometry only, nine survivors, hidden chest focus; image4 nonliving folded-vane machines; image5 exact PAGE10 target. No other source/ref headings or counts enter the page.\n\nPRESERVE EXACT THREE yellow captions and their readable lettering:\nTHE STORM OBEYED PRESSURE, HEAT AND GRAVITY. IT DID NOT OBEY HER.\nTHAT MADE IT USEFUL.\nTHE MESH EXPECTED ALIGNMENT. THE RISING AIR TOOK IT AWAY.\nPanel3 remains SILENT with no text, not the word NONE.\n\nPreserve one adult Solstice per pictured instant, coherent hands/boots, wet silver hair and opaque white armor/dress, current source injury state, lightning independent of her hands, nine surviving bells (only selected pair visible in the close setup), no new chime loss, no donor/ghost/helper, no exposed focus, no new caption/SFX/signature. One full corrected four-panel comic page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity and hard GN contours; existing nose/right shoulder injury only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Flat outlined sky/cloud rendering only, no bay insertion."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Nine intact surviving bells and hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Mechanical frames, preserve contact poses."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-010.png",
+          "sha256": "e9050558ad4db592b11ec9bab23eee02246447d86b243bc05a86b1b1618fe1e6",
+          "role": "Exact P10-001 target; original retained in temporary P10-001.png."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Entire target/390 reader and figure detail inspected. Cloud locations/updraft geometry preserved while only render treatment changes to2–3 hard flat tones; remove isolated stray skirt stain, preserve allowed injuries. Horizontal plane/vertical transit and all three captions already correct, specifically protected."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17T21:34:15Z",
+      "completedAt": "2026-09-17T21:35:03Z",
+      "outputPath": "pages/page-010.png",
+      "outputSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-c69a64ea-7ca1-4b09-8992-8e1e7c4e4d10.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-c69a64ea-7ca1-4b09-8992-8e1e7c4e4d10.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved revised pixels and actual390px reader checked. Clouds now use hard flat blue shapes matching GN style; upward curl remains legible. Stray skirt mark removed, no premature rib/hip/leg wound. Three exact captions readable and panel3 silent. Two vertical endpoints, horizontal rain-contact surface, one whole Solstice above plane and staggered machine rows retain source mechanism. Nine survive with unused seven outside crop; first soaked state and ordinary lightning/rain clear.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P10-002-reader-390.png"
+      }
+    },
+    {
+      "id": "P11-001",
+      "assetId": "page-011",
+      "state": "rejected-coordinator",
+      "prompt": "Create ONE complete lettered portrait comic page, 1024x1536, page 11 of \"Solstice Evening Bell\". This is illustration-story. Follow the five-panel script exactly. Do not print a page title, number, reference headings or unscripted words.\n\nACTUAL INPUT ROLES, in order:\n1 Solstice reference: identity and strong black-contour/flat-color style. Upper views define adult face, silver hair, blue-gray eyes, layered white/silver armor, opaque chest plate, white long dress, gauntlets, boots. EARLY BATTLE shows established tiny nosebleed and scored RIGHT pauldron. STORM state's RIGHT-rib pain becomes true during THIS page after the collision, not in panel1. Ignore HIP GRAZE and AFTERMATH.\n2 Western bay: geography only. View from offshore WEST toward EAST: north on left, south on right; ridge beyond empty harbor. Use cloud-obscured eastern ridge in last panel, not a new location.\n3 Crown: intact silver bell shape only; nine bells survive off-frame/locally cropped. No bell burns here; never expose hidden central focus or copy reference labels/cutaway.\n4 Invasion frame: human-sized nonliving charcoal capsule shells with angular folding vanes; no pilot, face, hands or humanoid body.\n5 Accepted page10: exact preceding wet storm state, graphic flat-blue clouds, rain, captions, gutters, bell endpoints and invisible plane shown by intercepted rain. This is continuity, not a layout template.\n\nSTYLE: crisp bold black ink, saturated navy/cobalt/cyan flat fields, white armor with hard lavender-gray shadows, clean near-white gutters. Hard-edged graphic clouds, no soft painterly rendering, photo, glow haze or 3D. Yellow black-outlined narration boxes, bold condensed uppercase comic text large enough to read at390px. Wrap text into clear lines without reducing letters. One solid Solstice in each panel where she appears; no duplicate motion bodies. Night storm, rain throughout, soaked hair/dress since prior page. Tiny old nosebleed, scored anatomical RIGHT shoulder. Focus concealed beneath opaque sternum armor; no crown/tiara. No companions, donor ghosts, later hip/leg injury or left-hand numbness.\n\nLAYOUT: exactly FIVE panels. Two upper panels left/right, one broad central action panel, two lower panels left/right. Upper row about31% height, central row34%, lower row35%. White gutters; slightly wider gutter before lower row separates later collision aftermath from counterblow. Clear top-left→top-right→middle→bottom-left→bottom-right path. Give the central counterblow generous room and leave last panel enough environmental view. Contacts and bodies remain inside panels; no cross-panel figure.\n\nPANEL1 upperleft — misleading perception. Chest-up Solstice turns her face toward a northern cloud bank at screenleft, alert but no fresh rib damage yet. A small faint dotted contour of a machine mass in cloud suggests SUBJECTIVE false royal-hearing information, not solid enemy bodies or ghosts. Keep it abstract/dotted rather than an opaque swarm. Rain and two cropped intact bells can frame her. Yellow caption exact:\n\"PHANTOM MASSES TO THE NORTH. AN OPENING AT THE SHELF. A COLLAPSE OVER THE RIDGE.\"\n\nPANEL2 upperright — FIRST real hit at arrival. One human-sized vaned machine slams broad shoulder-first against her anatomical RIGHT ribs (viewer-left side of her front-facing torso, below the right arm), denting side armor without piercing skin. She is knocked off balance, torso bending away. Keep her face, contacting shell edge, right shoulder score and right-side contact readable. Show TWO separated sounding chime endpoints linked by a SINGLE straight diagonal transit line ending beside her; one departure bell at lower left, one arrival bell above/right. She exists only at arrival, not as a trail of bodies. Contact sparks are small; no blood spray. Chest center remains closed. Exact yellow caption:\n\"SHE ANSWERED THE FIRST.\"\n\nPANEL3 broadmiddle — LATER instant, her counterblow. One Solstice in three-quarter view grips a sharp vane/shoulder of the SAME machine with one clearly attached articulated gauntlet and drives it bodily downward across a horizontal edict plane. Her fingers visibly close around the metal edge; connected wrist/elbow/shoulder and forceful posture, no floating hand. The machine intersects the plane and splits into two hard charcoal shell sections in a sharp BLUE flare with fragments. Rain stops/breaks along the thin horizontal plane; no opaque glowing floor or portal. Two intact sounding silver chimes at opposite sides anchor the local trap. Her damaged RIGHT side is still painful but this is her own strength, not a summoned helper. SILENT: no caption, balloon, sound effect or the word NONE.\n\nPANEL4 lowerleft — THREE FURTHER attacks, later aftermath in one moment. The third additional human-sized shell has just rebounded from her anatomical RIGHT side; two other shells recede deeper into rain behind it. Exactly three additional intact attackers visible: one nearby recoiling, two smaller receding. Distinct from already-broken first machine. One Solstice folds tightly around her painful right ribs with a guarding forearm; white side plate newly dented/scuffed, modest red abrasion permitted on armor only. No penetrative wound or gore. Next intact chime lies ahead, still beyond her reach. Exact caption (wrap into short lines at top):\n\"THREE MORE STRUCK BEFORE SHE REACHED THE NEXT CHIME. SOMETHING IN HER SIDE GAVE.\"\n\nPANEL5 lowerright — tactical orientation. From offshore toward eastern land, a gap in rain reveals the dark inland ridge and empty harbor roads running toward it. Solstice foreground half-length, still wet, one hand guarding anatomical RIGHT ribs, pained face turning decisively toward roads. No recovery. Two separate yellow captions in reading order:\n\"SHE COULD NOT TELL WHICH MASSES WERE REAL.\"\n\"SHE COULD STILL TELL WHICH ROADS LED EAST.\"\n\nCheck lettering word-for-word,5panels, nine-survivor state with only local bells in crops/no destroyed bell, first-hit→counterblow→three-more chronology, right-side injury consistently, real mechanical contact, visible plane only through rain/metal, straight two-chime arrival and last view east. No explanatory labels or new events.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style; early battle before contact; STORM right-rib state after collision only"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 eastern ridge and empty harbor geography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 intact silver chime design; nine survivors, concealed focus"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 human-sized nonliving vaned attacker geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-010.png",
+          "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "role": "Accepted P10 wet storm, rain-plane and rendering continuity"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Re-read source false-pulse/collision passage and exact five-panel P11 script. Prior P10 independently passed. All five actual inputs inspected; later R1 injuries excluded. Layout provides room for 59 words; contact and three further attackers separated in time; anatomical right side fixed viewer-left in front view; two bell endpoints and straight arrival; panel3 silent. PDF delivery migration does not alter art/script."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:03:05 UTC",
+      "completedAt": "2026-09-17 22:04:48 UTC",
+      "outputPath": "pages/page-011.png",
+      "outputSha256": "51e671b2d46cf4813602aeb6eb5c6c5b4709013b808278f08bdfb516f78a7c2c",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-725104ad-8af5-4577-bdd2-a66777e481b1.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-725104ad-8af5-4577-bdd2-a66777e481b1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Five panels, exact words, wet/right injury chronology and contact readable. P11.4 depicts four additional intact shells rather than three. P11.3 two upper bells send rays down to the plane rather than clearly continuing the vertical sounding pair of P10. Correct these localized geometry/count errors; preserve all lettering and figure."
+      }
+    },
+    {
+      "id": "P11-002",
+      "assetId": "page-011",
+      "state": "coordinator-selected-awaiting-independent-review",
+      "prompt": "Edit the LAST attached image (page11 candidate) only. First four images are accepted identity/style, bay, silver bells, and machine geometry references. Preserve exactly the five panels, every yellow caption word/punctuation/placement, all Solstice figures/anatomy/identity/wet state, right-side damage, established black ink/flat color, and all passing upper/lower-right content. Two localized corrections:\n\n1) Bottom-left panel currently has FOUR intact attackers around the injured Solstice. It must have exactly THREE, as the caption says. Remove ONLY the small mid-distance machine near the center-right of that panel (around x333,y1174 of1024x1536), between the upper small machine and the lower near machine. Fill its former area with matching uninterrupted rain and flat-blue cloud. Retain the large upper-right rebounding shell, the small upper-middle receding shell, and the near lower-right receding shell. Preserve the separate intact silver bell at right, her guard over anatomical RIGHT ribs, and all text.\n\n2) Broad middle silent panel: continue the preceding page's clear TWO-BELL VERTICAL PAIR holding a HORIZONTAL rain-revealed plane. Keep the existing upper-left silver bell around x133,y545. MOVE the existing upper-right bell to lower-left around x133,y846, below the horizontal plane, making it about half the upper bell's apparent size if necessary to fit the left rain margin without covering the figure or changing her costume. Remove its old upper-right location and downward ray, replacing with ordinary rain/cloud. Draw ONE straight thin sounding connection between upper-left and lower-left bell, crossing the horizontal plane; it must terminate at these two whole bells. Keep the current horizontal plane at y739, rain interruption, black machine split/blue flare, and her gripping hand and full figure unchanged. No third bell. The plane is only a thin rain/metal-intersection line, no solid floor or portal.\n\nEverything else must remain the same. No added lettering, headings, labels, or page numbers. Deliver one entire corrected1024x1536 comic page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style and current right-side injury only"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 unchanged eastern view"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 silver bell design"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 machine geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-011.png",
+          "sha256": "51e671b2d46cf4813602aeb6eb5c6c5b4709013b808278f08bdfb516f78a7c2c",
+          "role": "P11-001 edit target: remove one additional attacker and restore vertical two-bell plane setup"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Counted four shells in lower-left; identified removable isolated one. Middle vertical pair can fit left rain margin with small lower bell, preserving figure/grip/text. Full prompt preserves all other regions."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:06:46 UTC",
+      "completedAt": "2026-09-17 22:08:21 UTC",
+      "outputPath": "pages/page-011.png",
+      "outputSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-3b0f3750-ed99-459b-9053-b66043c4c5b0.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-3b0f3750-ed99-459b-9053-b66043c4c5b0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Inspected full selected PNG and actual PDF page12 full/390 renders. Five panels and all exact captions; central panel silent. Four-to-three extra shell correction works. Vertical bell pair straddles rain plane, hand/shell contact readable, right rib damage begins at collision and persists, wet/shoulder/nose state maintained; no later injury. PDF image pixels preserved, edges intact.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P11-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-011.pdf",
+          "sha256": "16e5af24a5577a4734b6c7858e6667f5124369d3369c20fe3c54a04a3f41635b",
+          "pdfPage": 12,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-12.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-12.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -2780,6 +3107,27 @@
       "readerSha256": "6c3f98ebbfdbe91dddd87e87ade2df2fef5e4d01011e441e527668632ecf76d0",
       "evidence": "review.md",
       "evidenceSummary": "Repaired rupture,49,152 count,nine intact chimes,targeting shift and all lettering/transcript independently passed full-size and actual390px reading view."
+    },
+    {
+      "scope": "page-010",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "44422ae9473daf79d69122b092d62294e433802e257871768a054e93d25913f0",
+      "readerSha256": "a8685cee40b40413909f2b1b035bb0a14f0f6b4598a146f7fa707174b4a74400",
+      "evidence": "review.md",
+      "evidenceSummary": "Independent review passed wet-state transition,horizontal rain-revealed plane,straight transit,updraft effect,corrected graphic style,three exact captions and silent-panel transcript at full and390px. User subsequently requested PDF final output; these remain pixel/temporary-preview checks, not PDF-page certification."
+    },
+    {
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "scope": "Delivery migration and cover+P01–P10 partial PDF only",
+      "pdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-010.pdf",
+      "pdfSha256": "77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6",
+      "reviewFileSha256": "cba2e100c702956bff761052c694f505639e669fd860779f4eef58f125426df2",
+      "evidence": "review.md: all22 full/390 renders, lossless embedded image parity, order, proportions/bookmarks; complete book remains unreviewed"
     }
   ],
   "approvals": {
@@ -2838,12 +3186,78 @@
       "status": "not-requested",
       "userResponse": null,
       "binding": null
+    },
+    "deliveryChange": {
+      "status": "user-authorized",
+      "userResponse": "it should not be finalized as website but instead all the pictures should be assembled into a PDF; make sure to update the agent instructions.",
+      "recordedAt": "2026-09-17T21:56:03.245Z",
+      "priorBinding": {
+        "contractVersion": "0.4",
+        "contractSha256": "a297e37dacb902462b64568907d32ac582009ab4744e2bfa9fdb3232b1994807",
+        "styleSha256": "be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "requestSha256": "be8ef84fb4dfad6fd72de61d2beb0c8455c14a36a400ee19b8501aa6eddf26fe",
+        "outputs": {
+          "reader": "edition.html",
+          "pdf": "NOT REQUESTED",
+          "publication": "No GN publication integration; no capture authorized"
+        }
+      },
+      "binding": {
+        "contractVersion": "0.5",
+        "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "requestSha256": "ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0",
+        "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+        "counts": {
+          "storyPages": 24,
+          "newReferenceImages": 4,
+          "reusedReferenceImages": 0,
+          "reusedCovers": 0,
+          "newCovers": 1,
+          "minimumNewImageOutputs": 29,
+          "status": "user-authorized",
+          "note": "24 pages, four references, one newly requested cover. Selected deliverable counts, not an attempt cap."
+        }
+      },
+      "scope": "Delivery only: final PDF cover plus 24 comic pages; temporary HTML outside package. Source, script, style rendering and art counts unchanged. Earlier image reviews retain actual scope and do not certify the PDF."
     }
   },
   "outputs": {
-    "reader": "edition.html",
-    "pdf": "NOT REQUESTED",
-    "publication": "No GN publication integration; no capture authorized"
+    "pdf": "edition.pdf",
+    "pdfStatus": "pending-complete-book",
+    "expectedPdfPages": 25,
+    "order": [
+      "cover",
+      "page-001",
+      "page-002",
+      "page-003",
+      "page-004",
+      "page-005",
+      "page-006",
+      "page-007",
+      "page-008",
+      "page-009",
+      "page-010",
+      "page-011",
+      "page-012",
+      "page-013",
+      "page-014",
+      "page-015",
+      "page-016",
+      "page-017",
+      "page-018",
+      "page-019",
+      "page-020",
+      "page-021",
+      "page-022",
+      "page-023",
+      "page-024"
+    ],
+    "referenceAppendix": false,
+    "temporaryPreview": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/edition.html",
+    "publication": "No website publication or GN Pages integration; final local PDF requires fresh independent review and actual user final approval."
   },
   "coordinatorChecks": {
     "checkedAt": "2026-09-17T17:39:32.2713702Z",
@@ -2897,6 +3311,42 @@
         1024,
         390
       ]
+    },
+    "pdfMigration": {
+      "scope": "delivery-only",
+      "priorReaderSha256": "a8685cee40b40413909f2b1b035bb0a14f0f6b4598a146f7fa707174b4a74400",
+      "priorReaderArchive": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pre-pdf-migration-reader.html",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/edition-preview.pdf",
+      "partialPdfSha256": "77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6",
+      "partialPdfPageCount": 11,
+      "embeddedPixelParity": true,
+      "renderedInspection": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "pdfSha256": "77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6",
+        "pdfPagesInspected": 11,
+        "fullRender": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-01.png through full-11.png",
+        "readingRender": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-01.png through reading-11.png",
+        "readingWidth": 390,
+        "evidence": "Inspected cover and P01–P10 from actual PDF renders: complete edges, unchanged framing/colors, legible captions, proportional cover, correct order, no omitted/duplicate/blank pages; prior selected art scope preserved."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "scope": "Delivery migration and cover+P01–P10 partial PDF only",
+        "pdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-010.pdf",
+        "pdfSha256": "77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6",
+        "reviewFileSha256": "cba2e100c702956bff761052c694f505639e669fd860779f4eef58f125426df2",
+        "evidence": "review.md: all22 full/390 renders, lossless embedded image parity, order, proportions/bookmarks; complete book remains unreviewed"
+      },
+      "partialPdfArchive": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-010.pdf"
+    },
+    "pdfInstructionAudit": {
+      "verdict": "PASS",
+      "reviewer": "/root/gn_pdf_instructions_scan",
+      "scope": "Seven GN instruction/doc diffs, TOML parsing and no non-GN scope drift",
+      "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
+      "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f"
     }
   }
 }
