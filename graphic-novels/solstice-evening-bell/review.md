@@ -99,3 +99,31 @@ No additional blocking findings. The earlier verified coverage, exact attrition,
 | User final approval | **NOT RECEIVED** |
 
 This PASS makes the concrete plan ready for the user's decision to try it. It does not certify future images, page lettering, the book or reader, and it is not user approval.
+
+## Cover-change preflight 3 — PASS
+
+- Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of the C0 brief and prepared image prompt.
+- Reviewed: 2026-09-17, approximately 18:29 UTC, in the same dedicated worktree.
+- Scope: the new C0 cover brief and full ready-to-call prompt, revised asset counts/development dependencies, and their effect on the previously passing adaptation. Re-read the relevant complete opening passage through the raised-hands invasion moment and inspected the actual original cover pixels again. No new cover pixels exist at this review.
+- The new user response is recorded verbatim by the coordinator in `prompt.md` and the manifest. This review assesses the requested change's production brief; it neither records nor certifies user approval.
+
+### Exact changed inputs
+
+| Input | SHA-256 |
+| --- | --- |
+| `plan.md`, including C0 brief and exact initial prompt | `be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2` |
+| `prompt.md` with new-cover request | `be8ef84fb4dfad6fd72de61d2beb0c8455c14a36a400ee19b8501aa6eddf26fe` |
+| `edition.json` at review time | `ae3ea02fdaed085631a738c2d9f120d9d12ce2d4a30741b8d3220275a00a46d8` |
+
+Recomputed source prose, source prompt, source marker, original cover, STYLE.md and GN contract hashes still match preflight 1. The actual inspected source cover is `685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88`; source prose is `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c`; written GN style is `be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb`. The old edition `cover.jpg` still matches the original at this inspection; it is not a generated C0 or evidence that C0 passes. The coordinator's manifest plan/cover selections remain pending bookkeeping for the change and must distinguish the original input from the new candidate before recording the call.
+
+### Findings
+
+- **Moment and identity — PASS.** The opening reveal supports uninjured Solstice alone above the bay, hands beginning to rise, twelve intact orbiting chimes and a concealed central resonator. The brief forbids a thirteenth floating bell, external jewel, powered tiara, donor figures, allies, spent fragments and premature attack effects. It preserves the inspected adult identity, long silver hair, white armored dress and segmented armor while explicitly excluding the source cover's incompatible content and finish.
+- **Composition and lettering — PASS as a feasible brief.** A tall 9:16 composition can hold a central three-quarter figure, six separated bells on either side, upper distant formations and a separate lower title field. The bell-count instruction is explicit, with one smaller member and no occluded extras. The two-line title is exactly `SOLSTICE` / `EVENING BELL`; condensed uppercase lettering at the specified size has sufficient width within the 48 px safety margin. The brief preserves clear face, hands and bell silhouettes. Actual title spelling, countability, anatomy and reduced-size readability remain saved-pixel checks, not presumed successes.
+- **Enemy and setting — PASS.** Eight wedges comprise numerous separate human-sized nonliving shells at distance, rather than the original cover's giant ships. One remote seam, the evacuated modern-like bay, two breakwaters and eastern ridge agree with the source/plan. No count of individually rendered distant shells is falsely promised. The cover does not introduce a battle outcome, new capability or new plot fact.
+- **Rendering — PASS as a brief.** Crisp black contours, saturated flat fills, hard-edged shadows and stylized anatomy are specified beyond palette. The original's painted modeling, webbing, fantasy coast and fine serif title are explicitly excluded. A single cover composition does not need comic gutters, caption boxes or speech balloons; their absence here does not change the interior style rules. Photo 1 remains provenance rather than a compulsory input or layout template.
+- **Dependencies and counts — PASS.** C0 initially uses one inspected source-cover input. It does not replace R1's separate character-reference acceptance, and any selected C0 contribution to R1 remains subordinate and within the five-input limit. Later R1/C0 disagreement must lead to a bounded cover correction, not an unreviewed identity change. Counts are 29 new selected images: one cover, four references and 24 pages; no reused cover output. No added reference or page is hidden in that count.
+- **Unchanged adaptation — PASS retained.** Compared the script-and-coverage section with the previously committed plan: unchanged. It still has 24 pages and 92 panels. This cover addition does not alter the prior source-fidelity, arithmetic, donor, continuity or ending findings.
+
+No blocking findings for the C0 trial brief. Output of this review is this preflight-3 section only. **Actual C0 artwork: NOT REVIEWED. References/pages: NOT REVIEWED. Complete book and reader: NOT REVIEWED. PDF: NOT REQUESTED.** Earlier plan-only verdicts remain historical evidence; this review grants no approval to unseen artwork and records no final user approval.

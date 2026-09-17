@@ -15,7 +15,7 @@
 - Teen / PG-13: large-scale nonliving-machine destruction, non-graphic injuries and voluntary fatal sacrifices remembered from centuries earlier. No sexual material.
 - Preserve the sole-combatant battle, exact attrition milestones, twelve distinct donors' freely given final works, permanent crown loss, and Solstice's continuing ultrahuman classification.
 - Default rendering: `graphic-novels/STYLE.md` — bold black contours, saturated flat fills, hard-edged shadows, white gutters, yellow narration boxes, uppercase comic lettering.
-- Default cover: reuse the source cover unchanged at its existing 864 × 1536 aspect ratio; no new cover requested.
+- Cover: the user requested a new cover in the GN comic style on 2026-09-17, superseding the default unchanged reuse. Retain the original 9:16 aspect ratio. The source cover remains an unchanged, external identity/costume input.
 - Deliverable after approval and production: separate local graphic-novel reader, with ordered portrait pages and accessible panel transcripts.
 - PDF: not requested. Website publication: outside this draft workflow.
 
@@ -29,4 +29,12 @@
 
 ## User decisions
 
-The request authorizes preparation and independent review of a concrete plan. No plan/count approval or image-generation approval has yet been received. The draft graphic-novel contract requires an explicit user response to the reviewed plan before generation. No final-book approval exists.
+The initial request authorized preparation and independent review of a concrete plan. That 24-page / 92-panel / four-reference plan received independent PASS before the following response.
+
+### 2026-09-17 — try the plan with a new comic cover
+
+> 1. i think we should redo the cover image in the new comic style but lets trying it out.
+
+The coordinator interprets this response to the plan-approval question as approval to try the reviewed 24-page / four-reference workflow, with the explicit change from reusing the original cover to generating one new cover in the established comic style. This interpretation was stated in conversation before production. New selected outputs therefore total 29: 24 pages, four references and one cover. The cover will be tried first. Source identity, source story, page script, art style, reference count and PDF/publication scope are unchanged. Exact input bindings and the verbatim response are retained in `edition.json`.
+
+This decision authorizes generation; it does not approve unseen artwork or the final book. No final-book approval exists.
