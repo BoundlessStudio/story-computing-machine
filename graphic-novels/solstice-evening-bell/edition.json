@@ -1,0 +1,840 @@
+{
+  "format": "graphic-novel-draft-manual",
+  "contractVersion": "0.4",
+  "slug": "solstice-evening-bell",
+  "title": "Solstice Evening Bell",
+  "status": "awaiting-plan-approval",
+  "createdAt": "2026-09-17T17:20:49.9152999Z",
+  "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-solstice-evening-bell",
+  "branch": "codex/graphic-novel-solstice-evening-bell",
+  "source": {
+    "slug": "solstice-evening-bell",
+    "title": "Solstice Evening Bell",
+    "layout": "bundle",
+    "snapshotCommit": "eef3951c7c3ba961b9fecef778955908ba46af86",
+    "proseLastCommit": "760be9974b5bf8bdd79a1961607b1a0a8fc52a15",
+    "prose": {
+      "path": "stories/solstice-evening-bell/05-story.md",
+      "sha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c"
+    },
+    "prompt": {
+      "path": "stories/solstice-evening-bell/00-prompt.md",
+      "sha256": "26e9256c7b6de56632fbd249963ca6fa42c75ef367ee5e4a4626baa3921411db"
+    },
+    "state": {
+      "path": "stories/solstice-evening-bell/story.json",
+      "sha256": "8e7ac17b0a818a5fac10c735f4a2c53f9edb1a06e288a0e49ad7f41ff51f4e13"
+    },
+    "cover": {
+      "path": "stories/solstice-evening-bell/title-image.jpg",
+      "sha256": "685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88"
+    },
+    "review": {
+      "path": "stories/solstice-evening-bell/04-review.md",
+      "sha256": "c93215d6e5dfd1980e293f0dd40c9b245d2b4f4276e16f653dc4a747e4548e5a"
+    },
+    "canon": true,
+    "catalogCanon": true,
+    "canonReconciliation": "matching",
+    "historicalReview": {
+      "pass": 7,
+      "verdict": "PASS",
+      "certifiedProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+      "matchesCurrentProse": true,
+      "scope": "Source historical certification only, not adaptation certification"
+    },
+    "externalOriginals": [],
+    "sameStoryIllustratedEditions": []
+  },
+  "style": {
+    "path": "graphic-novels/STYLE.md",
+    "sha256": "be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb"
+  },
+  "authority": [
+    {
+      "path": "universe/README.md",
+      "sha256": "ff7a9e9568c52737f06dffd190584d16a68a1754e18d7444f8010607637f5aef"
+    },
+    {
+      "path": "universe/style-guide.md",
+      "sha256": "9059f1dcfa9d01fb5279ae8d921a33bb09cf45c9844446034620ee8496bff966"
+    },
+    {
+      "path": "universe/rules.md",
+      "sha256": "4885af39c8b4652bcd03064e95d7d5fd814402014888b1de30b55f5228e049ca"
+    },
+    {
+      "path": "universe/characters.md",
+      "sha256": "dbe1d4e8cb8b9bab1936994fbc945ac655ecb659d90a7e879eb2234a2d87e8f6"
+    },
+    {
+      "path": "universe/locations.md",
+      "sha256": "767211808229a55c2373606027a7e7d9b95fdcdfa6318eacfbbd6ed44fb8205d"
+    },
+    {
+      "path": "universe/timeline.md",
+      "sha256": "a81e89dd8ba4827fde5d5777339461e44ec4233970f026ccaf439f196708205e"
+    },
+    {
+      "path": "universe/factions.md",
+      "sha256": "87606896be6880257fa3225c439d5df2d1216a8143db79ddbf7c422b2d779b57"
+    },
+    {
+      "path": "universe/glossary.md",
+      "sha256": "dc77578ce53305cbfaf7ca6fb90c9cda9aadceddea62c5de8e303dc917b07ceb"
+    },
+    {
+      "path": "universe/retcons.md",
+      "sha256": "2decd9766c4567c451a011b21ab3106bb1e445eb94e31e060b7dfb0cdc2ee26b"
+    }
+  ],
+  "contract": {
+    "path": ".agents/skills/graphic-novel-create/SKILL.md",
+    "sha256": "a297e37dacb902462b64568907d32ac582009ab4744e2bfa9fdb3232b1994807"
+  },
+  "request": {
+    "path": "graphic-novels/solstice-evening-bell/prompt.md",
+    "sha256": "f339fac015a5c7b8a52dbcded586eec204bb5fc9347c8423f79ef6cbae6a786d"
+  },
+  "plan": {
+    "path": "graphic-novels/solstice-evening-bell/plan.md",
+    "sha256": "9dbba29612d9904697d54f7733e051bb9eba324e879064bb197f211b5dc6b69c",
+    "independentVerdict": "PASS",
+    "pages": 24,
+    "panels": 92
+  },
+  "proposedCounts": {
+    "storyPages": 24,
+    "newReferenceImages": 4,
+    "reusedReferenceImages": 0,
+    "reusedCovers": 1,
+    "newCovers": 0,
+    "minimumNewImageOutputs": 28,
+    "status": "proposal-only",
+    "note": "Counts describe selected planned assets, not an attempt cap. Cover is separate from the 24 pages."
+  },
+  "cover": {
+    "path": "cover.jpg",
+    "sha256": "685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88",
+    "kind": "unchanged-source-cover",
+    "width": 864,
+    "height": 1536,
+    "generatedForEdition": false,
+    "inspectedBy": "coordinator",
+    "inspection": "Inspected full saved image. Reuse as cover at original aspect ratio. Appearance input only: adult silver-haired woman, white armored dress and silver armor. Exclude giant ships, implied geography, luminous net, unverified chime count and exposed jewel as literal battle facts. Written GN style controls new rendering."
+  },
+  "references": [
+    {
+      "id": "R1",
+      "path": "references/solstice-evening-bell.png",
+      "kind": "character",
+      "subject": "Solstice Evening Bell",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "source-cover"
+      ],
+      "consumers": [
+        "page-001",
+        "page-002",
+        "page-003",
+        "page-004",
+        "page-005",
+        "page-006",
+        "page-007",
+        "page-008",
+        "page-009",
+        "page-010",
+        "page-011",
+        "page-012",
+        "page-013",
+        "page-014",
+        "page-015",
+        "page-016",
+        "page-017",
+        "page-018",
+        "page-019",
+        "page-020",
+        "page-021",
+        "page-022",
+        "page-023",
+        "page-024"
+      ],
+      "inspection": null
+    },
+    {
+      "id": "R2",
+      "path": "references/western-bay.png",
+      "kind": "location",
+      "subject": "Unnamed western bay",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1"
+      ],
+      "consumers": [
+        "page-001",
+        "page-003",
+        "page-004",
+        "page-005",
+        "page-006",
+        "page-007",
+        "page-008",
+        "page-009",
+        "page-010",
+        "page-011",
+        "page-012",
+        "page-013",
+        "page-014",
+        "page-015",
+        "page-016",
+        "page-017",
+        "page-018",
+        "page-019",
+        "page-020",
+        "page-021",
+        "page-022",
+        "page-023",
+        "page-024"
+      ],
+      "inspection": null
+    },
+    {
+      "id": "R3",
+      "path": "references/thirteen-tone-crown.png",
+      "kind": "object-system",
+      "subject": "Thirteen-tone crown",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1"
+      ],
+      "consumers": [
+        "page-001",
+        "page-002",
+        "page-003",
+        "page-004",
+        "page-005",
+        "page-006",
+        "page-007",
+        "page-008",
+        "page-009",
+        "page-010",
+        "page-011",
+        "page-012",
+        "page-013",
+        "page-014",
+        "page-015",
+        "page-016",
+        "page-017",
+        "page-018",
+        "page-019",
+        "page-020",
+        "page-021",
+        "page-022",
+        "page-023"
+      ],
+      "inspection": null
+    },
+    {
+      "id": "R4",
+      "path": "references/invasion-frame.png",
+      "kind": "object",
+      "subject": "Nonliving human-sized invasion frame",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1"
+      ],
+      "consumers": [
+        "page-003",
+        "page-004",
+        "page-005",
+        "page-006",
+        "page-007",
+        "page-008",
+        "page-009",
+        "page-010",
+        "page-011",
+        "page-012",
+        "page-013",
+        "page-014",
+        "page-015",
+        "page-016",
+        "page-017",
+        "page-018",
+        "page-019",
+        "page-020",
+        "page-021",
+        "page-022",
+        "page-023"
+      ],
+      "inspection": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "page-001",
+      "number": 1,
+      "path": "pages/page-001.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-002",
+      "number": 2,
+      "path": "pages/page-002.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R3",
+        "page-001"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-003",
+      "number": 3,
+      "path": "pages/page-003.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-002"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-004",
+      "number": 4,
+      "path": "pages/page-004.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-003"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-005",
+      "number": 5,
+      "path": "pages/page-005.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-004"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-006",
+      "number": 6,
+      "path": "pages/page-006.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-005"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-007",
+      "number": 7,
+      "path": "pages/page-007.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-006"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-008",
+      "number": 8,
+      "path": "pages/page-008.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-007"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-009",
+      "number": 9,
+      "path": "pages/page-009.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-008"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-010",
+      "number": 10,
+      "path": "pages/page-010.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-009"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-011",
+      "number": 11,
+      "path": "pages/page-011.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-010"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-012",
+      "number": 12,
+      "path": "pages/page-012.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-011"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-013",
+      "number": 13,
+      "path": "pages/page-013.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-012"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-014",
+      "number": 14,
+      "path": "pages/page-014.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-013"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-015",
+      "number": 15,
+      "path": "pages/page-015.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-014"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-016",
+      "number": 16,
+      "path": "pages/page-016.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-015"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-017",
+      "number": 17,
+      "path": "pages/page-017.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-016"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-018",
+      "number": 18,
+      "path": "pages/page-018.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-017"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-019",
+      "number": 19,
+      "path": "pages/page-019.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-018"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-020",
+      "number": 20,
+      "path": "pages/page-020.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-019"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-021",
+      "number": 21,
+      "path": "pages/page-021.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-020"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-022",
+      "number": 22,
+      "path": "pages/page-022.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-021"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-023",
+      "number": 23,
+      "path": "pages/page-023.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "page-022"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    },
+    {
+      "id": "page-024",
+      "number": 24,
+      "path": "pages/page-024.png",
+      "status": "planned",
+      "sha256": null,
+      "dependsOn": [
+        "R1",
+        "R2",
+        "page-023"
+      ],
+      "actualDependencyVersions": [],
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "evidence": null
+      }
+    }
+  ],
+  "attempts": [],
+  "reviews": [
+    {
+      "scope": "complete-adaptation-plan",
+      "pass": 1,
+      "verdict": "REVISE",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "planSha256": "162354cd27cda0c4e98361cb25d0ff24f84066d252ac3cb615f716d4dac1de6b",
+      "evidence": "review.md#plan-preflight-1--revise",
+      "findings": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ]
+    },
+    {
+      "scope": "complete-adaptation-plan-with-repaired-inputs-rechecked",
+      "pass": 2,
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "planSha256": "9dbba29612d9904697d54f7733e051bb9eba324e879064bb197f211b5dc6b69c",
+      "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+      "styleSha256": "be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb",
+      "coverSha256": "685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88",
+      "evidence": "review.md#plan-preflight-2--pass",
+      "reviewFileSha256": "ad7f89b5d633339d462e4068433ed3e35c75ca323996656cd354d83cb59d1d34",
+      "resolvedFindings": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ],
+      "remainingFindings": [],
+      "limitation": "Plan-only review. Generated references, comic pixels, reader and complete book remain NOT REVIEWED."
+    }
+  ],
+  "approvals": {
+    "plan": {
+      "status": "awaiting-user",
+      "userResponse": null,
+      "binding": {
+        "sourceSnapshotCommit": "eef3951c7c3ba961b9fecef778955908ba46af86",
+        "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+        "sourcePromptSha256": "26e9256c7b6de56632fbd249963ca6fa42c75ef367ee5e4a4626baa3921411db",
+        "sourceStateSha256": "8e7ac17b0a818a5fac10c735f4a2c53f9edb1a06e288a0e49ad7f41ff51f4e13",
+        "sourceCoverSha256": "685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88",
+        "editionRequestSha256": "f339fac015a5c7b8a52dbcded586eec204bb5fc9347c8423f79ef6cbae6a786d",
+        "planSha256": "9dbba29612d9904697d54f7733e051bb9eba324e879064bb197f211b5dc6b69c",
+        "styleSha256": "be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb",
+        "contractSha256": "a297e37dacb902462b64568907d32ac582009ab4744e2bfa9fdb3232b1994807",
+        "reviewFileSha256": "ad7f89b5d633339d462e4068433ed3e35c75ca323996656cd354d83cb59d1d34",
+        "counts": {
+          "storyPages": 24,
+          "newReferenceImages": 4,
+          "reusedReferenceImages": 0,
+          "reusedCovers": 1,
+          "newCovers": 0,
+          "minimumNewImageOutputs": 28,
+          "status": "proposal-only",
+          "note": "Counts describe selected planned assets, not an attempt cap. Cover is separate from the 24 pages."
+        },
+        "meaning": "Exact proposal presented for explicit approval to try the draft GN generation workflow. This binding is not approval; userResponse remains null."
+      }
+    },
+    "final": {
+      "status": "not-requested",
+      "userResponse": null,
+      "binding": null
+    }
+  },
+  "outputs": {
+    "reader": null,
+    "pdf": "NOT REQUESTED",
+    "publication": "No GN publication integration; no capture authorized"
+  },
+  "coordinatorChecks": {
+    "checkedAt": "2026-09-17T17:39:32.2713702Z",
+    "sourceAndCatalogCanonAgree": true,
+    "sourcePinsVerified": true,
+    "sourceCoverByteParity": true,
+    "pageCount": 24,
+    "uniquePanelIds": 92,
+    "maximumPlannedImageInputs": 5,
+    "sourceStoryUniverseAndPublicationUnmodified": true,
+    "note": "Manual draft consistency checks, not an automated production certification. No new images generated."
+  }
+}
