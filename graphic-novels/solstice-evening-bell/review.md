@@ -428,3 +428,26 @@ Source, plan and STYLE hashes were independently recomputed and remain the preci
 **Flow/style/readability/transcript: PASS.** Four full-width panels alternate loss and reaction, preserving C2 → ten → C3 → nine without merging times or locations. Black frames and white gutters protect the reading path; no overlap or frame crossing obscures action. Crisp contours, flat saturated fields, hard-edged shadows and yellow uppercase captions remain consistent. Independently read every caption at full size and 390 px, including the donor sentence and em dash. All six narration entries and four plain action descriptions match the selected pixels and panel order. No broad live-control rerun was needed.
 
 **Page 008: PASS; blocking findings: none.** Assistant page review only. **P09–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Page 009 independent review 1 — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of production/correction; 2026-09-17. Scope: complete selected P09-002 at full 1024 × 1536 and actual supplied 390 px/desktop reader captures; all five captions and current transcript. Re-read the source tropopause/compression passage through “enormous, and finite,” approved P09/P10 script and previously reviewed complete coverage; compared accepted P08, R1–R4 state and the established P06 rupture. P09-001 was not independently reviewed here.
+
+Reviewed SHA-256 versions:
+
+- P09-002: `f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c`.
+- Reader: `6c3f98ebbfdbe91dddd87e87ade2df2fef5e4d01011e441e527668632ecf76d0`.
+- Manifest at read: `690fce444fc839f54cbb5001baf130c1d3d61233d5559788b0c06b8b22a8bcfc`.
+- Evidence under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P09-002-reader-390.png` — `bbbc020c480b8fdb653c0e4418da26024846a1c6adcfaa48504b32da8624965e`; `P09-002-reader-desktop.png` — `9e59e04f72e0b8835ca81abf1926bada9f9f7e81c6e2abe8358a7791106b1a8f`.
+
+Independently recomputed source, plan and STYLE hashes remain their precise previously recorded versions. Preceding P08 remains `11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe`. R1–R4 remain the previously inspected accepted references; this review does not alter their roles or certify new references.
+
+**P09.1: PASS.** The high opening is now one irregular black horizontal tear, consistent with the established rupture; no glowing oval portal remains. Dense machine schools crowd the narrowing space between it and the storm towers. One whole adult Solstice floats at the corridor edge with coherent limbs/dress and concealed sternum focus. The body remains above the clouds rather than rain-soaked; no new wound or chime loss appears. The exact caption preserves her deliberate containment.
+
+**P09.2: PASS.** Dark broken shells sheet down into storm tops and existing wreckage while intact schools remain above, conveying the closing trap's consequence. Impact highlights accompany fragments rather than a new lightning command or attack through air. Both captions are exact: “49,152 REMAINED.” and “HALF THE SURVIVORS OF THE OPENING CHORD.” This retains the correct half of 98,304, without implying half the original invasion.
+
+**P09.3: PASS.** Independently counted nine whole chimes in three rows of three, with the unique smaller C9 at lower left. Separate machine shells physically orient needle apertures toward the array; no targeting HUD, living pilot or marked magical glyph replaces that action. Behind the chimes, a leading group breaks at an interception while intact followers approach. No chime is already cracked or destroyed. The two exact captions preserve the enemy's finite-hardware assessment and Solstice's nine promises without donor apparitions or autonomous crown action.
+
+**Flow/style/lettering/transcript: PASS.** Three broad panels take the reader from compression through the count to the new threat. White gutters separate successive moments; no inset, overlap or frame crossing confuses the sequence. Human-scale vaned-machine design, crisp contours, flat saturated fields, hard shadows and yellow uppercase captions remain consistent. Every word and punctuation mark, including the count comma and sentence breaks, is legible at full size and 390 px. All five narration entries and three plain visual descriptions match the actual selected page in order. No broad live-control rerun was needed for this image/data addition.
+
+**Page 009: PASS; blocking findings: none.** Assistant page review only. **P10–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
