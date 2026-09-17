@@ -287,6 +287,43 @@ explicit recapture; Pages builds use stored prose/art and any requested PDF only
 PDFs, generate art, or traverse production sources. Merge edition branches
 through draft pull requests, never automatically.
 
+## Graphic novels (draft)
+
+`[GN] "Story Name" (details)` starts the separate
+[graphic-novel-create](.agents/skills/graphic-novel-create/SKILL.md) draft workflow.
+It takes a finished repository story title or slug and proposes a sequential
+panel adaptation using the source cover and suitable existing illustrations as
+visual inputs. While the contract is draft, prepare the concrete plan for user
+review; image generation needs explicit approval to try that plan. `[GN]` has
+no aliases. `[Comic]` remains reserved. `[Illustrate]` / `[IL]`, their contracts,
+agents, tooling, artifacts and publication behavior are unchanged.
+
+Graphic novels belong in `graphic-novels/<edition-slug>/`, separate from source
+stories and prose-preserving illustrated editions. Read
+[graphic-novels/STYLE.md](graphic-novels/STYLE.md) for panel interaction,
+palette, lettering and visual continuity rules. The draft contract owns package
+files, source pinning, adaptation coverage, reference reuse, one-page-at-a-time
+generation, independent per-page review and a fresh complete-book review.
+The user approves the plan and independently reviewed final book; intermediate
+reference/page checks are assistant reviews unless more checkpoints are requested.
+
+Extend the branch sequence to this workflow with
+`codex/graphic-novel-<edition-slug>` and a dedicated absolute sibling worktree.
+Keep the same safe-switch and occupied-path stops, and pass that worktree to
+every agent. Canon and non-canon stories may be read for adaptation; every
+source-package file and existing illustrated edition remains read-only.
+Adaptations establish no universe facts and authorize no unlock or source edit.
+
+Existing source covers and compatible same-story artwork may supply inspected,
+versioned references; never silently inherit stale art or a prior edition's
+visual departures. Generate one reference or one complete comic page per built-in
+image-tool call and inspect its actual pixels. Page N must pass independent
+review before page N+1 is generated. Review the full assembled sequence again.
+The draft has no comic CLI, automated lifecycle validator or Pages integration.
+Do not use story/illustrated capture commands, alter publication snapshots or
+replace existing readers for it. Optional PDF output needs an explicit request.
+Merge any later edition branch through a pull request, never automatically.
+
 ## Pages
 
 `pages/catalog.json` and `pages/covers/` are the stored publication snapshot;
