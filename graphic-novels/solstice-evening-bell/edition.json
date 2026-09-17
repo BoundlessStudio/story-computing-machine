@@ -3,7 +3,7 @@
   "contractVersion": "0.4",
   "slug": "solstice-evening-bell",
   "title": "Solstice Evening Bell",
-  "status": "developing-references",
+  "status": "producing-pages",
   "createdAt": "2026-09-17T17:20:49.9152999Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-solstice-evening-bell",
   "branch": "codex/graphic-novel-solstice-evening-bell",
@@ -154,8 +154,8 @@
       "path": "references/solstice-evening-bell.png",
       "kind": "character",
       "subject": "Solstice Evening Bell",
-      "status": "prepared",
-      "sha256": null,
+      "status": "assistant-accepted",
+      "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
       "dependsOn": [
         "source-cover",
         "C0"
@@ -186,15 +186,21 @@
         "page-023",
         "page-024"
       ],
-      "inspection": null
+      "inspection": {
+        "reviewer": "coordinator",
+        "verdict": "PASS",
+        "fullSize": true,
+        "evidence": "Same adult across7views; bold flat inks; no jewelry; exact heading/labels; distinct clean/damaged states; right ribs and left hip correctly sided; sternum recess appears as small broken armor without restored focus.",
+        "limits": "Draped cloth obscures exact seated knee assignment: source/page script controls right-leg failure. Sheet gives position/pose guidance for damage; page4 has nose/sternum only, pauldron score starts page5. Armor scuffs do not authorize extra wounds."
+      }
     },
     {
       "id": "R2",
       "path": "references/western-bay.png",
       "kind": "location",
       "subject": "Unnamed western bay",
-      "status": "planned",
-      "sha256": null,
+      "status": "assistant-accepted",
+      "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
       "dependsOn": [
         "R1"
       ],
@@ -223,15 +229,21 @@
         "page-023",
         "page-024"
       ],
-      "inspection": null
+      "inspection": {
+        "evidence": "One coherent bay; left north/right south breakwaters, shelf and dark center channel, east inland ridge, empty right road with blank board. No people or invasion. Outlined hard shadows and blue palette; dense water detail remains subordinate to broad forms in page use.",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "verdict": "PASS",
+        "readingWidth": 390
+      }
     },
     {
       "id": "R3",
       "path": "references/thirteen-tone-crown.png",
       "kind": "object-system",
       "subject": "Thirteen-tone crown",
-      "status": "planned",
-      "sha256": null,
+      "status": "assistant-accepted",
+      "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
       "dependsOn": [
         "R1"
       ],
@@ -260,7 +272,13 @@
         "page-022",
         "page-023"
       ],
-      "inspection": null
+      "inspection": {
+        "evidence": "All12 labeled bells present; C9 uniquely small. Exactly one smooth silver central focus in armor-only recess, opaque coverplate, thumb outline scale. No body/flesh. Minor rounded metal highlight does not read as faceted gem or active glow.",
+        "fullSize": true,
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "readingWidth": 390
+      }
     },
     {
       "id": "R4",
@@ -311,7 +329,10 @@
         "R3"
       ],
       "actualDependencyVersions": [],
-      "attempts": [],
+      "attempts": [
+        "P01-001",
+        "P01-002"
+      ],
       "independentReview": {
         "verdict": "NOT REVIEWED",
         "evidence": null
@@ -941,7 +962,7 @@
     {
       "id": "R1-001",
       "assetId": "R1",
-      "state": "prepared",
+      "state": "REVISE",
       "preparedAt": "2026-09-17T18:42:19.0681964Z",
       "prompt": "Create ONE clean character reference sheet for ONE identity: SOLSTICE EVENING BELL. Landscape 1536 x 1024 or larger in the same 3:2 aspect, with a plain near-white background and generous spacing. This is a production reference, not a story page or cast sheet.\n\nINPUT 1 (original painted cover): identity and costume source only. Retain the recognizable adult face, long silver hair and white armored dress. Do NOT carry over its painted finish, tiara, external chest gem, golden filigree, bells, giant vessels or background.\nINPUT 2 (selected comic cover): concrete rendering and compatible body/armor continuity. Match its heavy clean black contours, simplified matte silver-white armor, expressive adult face, broad flat fills and hard-edged shadows. The written instructions control any conflict. No painterly modeling, chrome reflections, watercolor, hatching fields, paper grain or glossy 3D.\n\nDepict the SAME adult woman in every view: pale natural skin, cool gray eyes, long silver hair, white flowing dress, opaque articulated silver-white chest armor, layered silver pauldrons, segmented forearm and hand armor. No head crown/tiara. No jewelry, blue collar inset or exposed sternum gemstone. The central resonator is normally hidden beneath opaque sternum armor. Keep five coherent fingers on each hand. Her outfit is practical fantasy battle dress, fully covering torso and hips, not sexualized.\n\nTop row: three generously separated full-body views of this one woman: FRONT, THREE-QUARTER, BACK. These show the initial clean, dry, uninjured state. Show clear armor construction and the same flowing white skirt in all three. Enough face detail to anchor a repeated identity. Do not invent a sword, cape attachment, new emblems, shoes with different technology or new accessories.\n\nBottom row: FOUR clearly separated detail/state views of the same woman, not four new characters:\n1 AFTER FIRST CHORD: larger three-quarter face/shoulder close-up, same identity, tiny non-graphic nose bleed and a scored RIGHT pauldron. The word RIGHT always means her own anatomical right.\n2 STORM: torso and both armored hands, wet silver hair and damp white fabric, her RIGHT hand protectively against injured RIGHT ribs. Her LEFT hand briefly hangs numb; five fingers, no amputation or invented wound. Show posture and small scuffs, not medical anatomy.\n3 HIP GRAZE: clothed waist/upper legs detail of this SAME outfit, small tear in loose cloth above her anatomical LEFT hip and a narrow non-graphic graze, no bare pelvis, sexualized framing or gore.\n4 AFTERMATH: same adult woman seated exhausted, all preceding modest damage retained, RIGHT leg drawn awkwardly in after giving way. Her hand touches a SMALL cracked sternum recess where the thumb-sized resonator has been destroyed; no glowing jewel or regeneration. No added injury, no healed costume, no wheelchair or crutch.\n\nOnly the exact heading and labels below may appear, in crisp uppercase comic lettering:\nSOLSTICE EVENING BELL\nFRONT\nTHREE-QUARTER\nBACK\nAFTER FIRST CHORD\nSTORM\nHIP GRAZE\nAFTERMATH\n\nUse natural skin, near-white cloth, pale silver, black ink and restrained cool-gray/blue hard shadows. One identity throughout, with matched face/hair/armor proportions. The supporting labels distinguish moments; they do not imply clones or other cast members. Exclude ALL floating chimes, enemies, donors, ghosts, city scenes, portals, speech balloons, decorative lettering, credits and watermarks. Do not depict injuries graphically. Keep every view and all lettering fully inside the image.",
       "inputs": [
@@ -959,6 +980,314 @@
       "preflight": {
         "verdict": "PASS",
         "coordinator": "Both actual inputs inspected. One identity only; all views/labels correspond to approved R1 state brief. No bells or background; body injuries follow anatomical right ribs/pauldron, left hip, right failed leg. Explicit initial and aftermath state separation avoids wrong-time injuries."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "modelVariant": null,
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b061-6f2b-78a3-ac5b-006b085db75c/exec-686f5559-a2f4-4f01-9785-f81b438734e5.png",
+        "width": 1536,
+        "height": 1024
+      },
+      "startedAt": "2026-09-17T18:43:04Z",
+      "completedAt": "2026-09-17T18:43:46Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R1-001.png",
+      "outputSha256": "12429fc69b7b362495324d965d62427b097d69e3a80b0fae2062e892ceea4d28",
+      "inspection": {
+        "reviewer": "coordinator and creator",
+        "verdict": "REVISE",
+        "fullSize": true,
+        "findings": [
+          "Added dangling earrings",
+          "Serif heading/labels",
+          "Injury-state texture denser than accepted flat comic style",
+          "Right hand centered over abdomen rather than right ribs",
+          "Aftermath hand obscures broken sternum recess",
+          "Coordinator prompt label AFTER FIRST CHORD erroneously bundled later pauldron damage; change to EARLY BATTLE"
+        ],
+        "passing": [
+          "One recognizable adult identity across seven views",
+          "Initial white/silver outfit consistent",
+          "Correct right pauldron and left hip injury sides",
+          "No floating chimes or other cast"
+        ]
+      }
+    },
+    {
+      "id": "R1-002",
+      "assetId": "R1",
+      "state": "accepted",
+      "preparedAt": "2026-09-17T18:46:30.480668Z",
+      "prompt": "Correct this ONE-IDENTITY reference sheet. Input1 is the sheet to edit; input2 is the accepted comic cover for rendering/armor continuity. Preserve the same recognizable adult silver-haired woman, the three clean full-body views, the four lower detail views, all clothing coverage, and the 1536 x 1024 layout. Do not add views or characters.\n\nUnify every view with the accepted cover's BOLD COMIC INKS AND FLAT COLORS: heavier clean outer contours, simplified interior lines, matte white and pale-silver armor, flat skin, and one hard-edged cool shadow per surface. Remove reflective chrome slivers, dirty speckled textures and painterly scuff shading. Keep injuries as a few simple purposeful marks. Preserve facial identity and matched body/armor proportions. No earrings or other jewelry anywhere; erase the dangling earrings in all views. No tiara or external chest gem.\n\nCorrect the lower second view, STORM: the woman's anatomical RIGHT hand must be clearly pressed to her injured RIGHT ribs, immediately below her RIGHT pauldron, on the VIEWER'S LEFT side of her torso. Bend the right elbow out and bring the palm to that same-side rib area; do not place the hand over the central abdomen or across to her left ribs. Her LEFT arm remains down with a relaxed, briefly numb hand and five coherent fingers. Wet hair and damp fabric are simple flat graphic shapes, not rendered water droplets or glossy texture.\n\nIn the lower fourth AFTERMATH view, keep her seated with her anatomical RIGHT leg tucked in and the other extending toward viewer right. Let the touching hand rest just BELOW the small cracked sternum recess so the empty thumb-sized hollow can be seen. This is cracked ARMOR, not an open body wound. No glow, no gemstone, no restored resonator. All modest earlier damage persists.\n\nThe lower first face/shoulder detail has a tiny nose bleed and the scored anatomical RIGHT pauldron; it represents EARLY BATTLE after both those injuries. Change its label from AFTER FIRST CHORD to EARLY BATTLE so it cannot introduce the pauldron injury too soon. Keep the third lower clothed LEFT-hip graze modest and correctly sided (viewer's right), without enlarging exposed skin or adding gore.\n\nReplace ALL serif typography with clean BOLD CONDENSED UPPERCASE COMIC BLOCK LETTERING, black on plain near-white. Only these exact words appear:\nSOLSTICE EVENING BELL\nFRONT\nTHREE-QUARTER\nBACK\nEARLY BATTLE\nSTORM\nHIP GRAZE\nAFTERMATH\n\nKeep the sheet margins, readable headings and all seven views fully visible. No chimes, enemies, donors, ghosts, scenery, captions, speech balloons, credits or new props. Preserve anatomy and five-fingered hands throughout.",
+      "inputs": [
+        {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R1-001.png",
+          "sha256": "12429fc69b7b362495324d965d62427b097d69e3a80b0fae2062e892ceea4d28",
+          "role": "Correction target; preserve one identity, seven-view layout and correct costume/injury regions."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/cover.png",
+          "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "role": "Accepted flat GN rendering/armor guidance only; do not carry title/scene/chimes into sheet."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Inspected both actual inputs. Right-rib contact on viewer left is feasible with same-side bent elbow. Early-battle label corrects preflight1 oversight; page4 remains nose/sternum only and pauldron starts page5. Empty sternum recess is armor only, exposed by moving hand slightly below it; no additional wound."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "modelVariant": null,
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b061-6f2b-78a3-ac5b-006b085db75c/exec-816406ab-d8f6-482e-8556-1aa1e8ac1461.png",
+        "width": 1536,
+        "height": 1024
+      },
+      "startedAt": "2026-09-17T18:47:04Z",
+      "completedAt": "2026-09-17T18:48:34Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R1-002.png",
+      "outputSha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+      "inspection": {
+        "reviewer": "coordinator",
+        "verdict": "PASS",
+        "fullSize": true,
+        "evidence": "Same adult across7views; bold flat inks; no jewelry; exact heading/labels; distinct clean/damaged states; right ribs and left hip correctly sided; sternum recess appears as small broken armor without restored focus.",
+        "limits": "Draped cloth obscures exact seated knee assignment: source/page script controls right-leg failure. Sheet gives position/pose guidance for damage; page4 has nose/sternum only, pauldron score starts page5. Armor scuffs do not authorize extra wounds."
+      }
+    },
+    {
+      "id": "R2-001",
+      "assetId": "R2",
+      "state": "accepted",
+      "preparedAt": "2026-09-17T18:52:36.3377144Z",
+      "prompt": "Create ONE coherent environment reference image of the unnamed WESTERN BAY in a modern-like setting at night. Landscape 1536 x 1024. This must be a single continuous place seen in one high oblique view from offshore WEST looking EAST into the bay, not a map, montage, split view or sheet of different places.\n\nThe attached accepted character sheet is a RENDERING-STYLE INPUT ONLY. Match its crisp heavy black outlines, broad flat fills and hard-edged cel shadows. Do not copy its woman, costumes, labels, injuries or white sheet layout. Environment colors: saturated dark navy, strong storm blue, restrained cyan shallows, near-white foam and small ordinary harbor lights. No watercolor, hatching, grain, soft atmospheric painting or photorealistic water.\n\nLock the spatial geography clearly:\n- Ocean is in the lower foreground / west.\n- The NORTHERN concrete breakwater is on the IMAGE LEFT.\n- The SOUTHERN concrete breakwater is on the IMAGE RIGHT.\n- These are two opposing arms around ONE bay mouth, not two separate harbors.\n- A shallow SEA SHELF spans their outer offshore approaches; show shallow water using a simple cyan/blue change of flat value, not exposed fantasy islands.\n- The EASTERN RIDGE spans the far inland horizon behind the harbor. Inhabited land lies beyond the ridge, not floating offshore.\n- Empty paved harbor roads sit behind the southern/right breakwater. One passive public hazard board is a small dark rectangular board on that road; its surface is blank here, no invented text.\nKeep sight lines across the bay mouth and to the eastern ridge unobstructed. The two breakwaters, shelf and right-side road need recognizable simple shapes usable from later camera angles.\n\nAn autumn storm approaches from offshore west; use a few substantial blue-black cloud masses without hiding the geography. This is ordinary weather, no magical cyclone. Keep a dark night sky above, with room for a later rupture, but NO rupture or enemy invasion in this reference. Concrete surfaces and empty roads are intact; no wreckage, ruins or spent silver. A few low utilitarian harbor structures may establish scale but do not turn the coast into ornate fantasy architecture.\n\nNo people, Solstice, donor spirits, boats, aircraft, weapons batteries, chimes, crown equipment, robots, portals, magic effects, labels, lettering, headings, compass arrows or inset diagrams. Do not print any words. ONE coherent flat-color comic environment, clean and spatially readable.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary flat GN rendering only; no character/labels in the environment."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Actual R1 inspected. Single continuous bay view preserves north-left/south-right/east-inland geography, visible shelf and empty road; no inhabitants or unplanned scene effects."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b061-6f2b-78a3-ac5b-006b085db75c/exec-d07401e7-3e96-48d4-8c66-b49f4e73946b.png",
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "height": 1024,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "width": 1536
+      },
+      "startedAt": "2026-09-17T18:53:16Z",
+      "completedAt": "2026-09-17T18:53:53Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R2-001.png",
+      "outputSha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+      "inspection": {
+        "evidence": "One coherent bay; left north/right south breakwaters, shelf and dark center channel, east inland ridge, empty right road with blank board. No people or invasion. Outlined hard shadows and blue palette; dense water detail remains subordinate to broad forms in page use.",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "verdict": "PASS",
+        "readingWidth": 390
+      }
+    },
+    {
+      "id": "R3-001",
+      "assetId": "R3",
+      "state": "revise",
+      "preparedAt": "2026-09-17T18:52:36.3430445Z",
+      "prompt": "Create ONE object reference sheet for the THIRTEEN-TONE CROWN, a nonliving equipment system from a comic story. Landscape 1536 x 1024, plain near-white background. The attached accepted Solstice character sheet is the primary RENDERING and ARMOR-DESIGN input: match crisp heavy black outlines, broad flat pale-silver/white fills and hard-edged cool shadows. Do not carry over the woman's full body, face, hair, injuries, character-sheet labels or earrings. No painted shading, chrome reflection, paper grain or hatching.\n\nThe upper two-thirds contain EXACTLY TWELVE separate intact silver bell-like CHIMES, arranged as THREE clean horizontal ROWS OF FOUR, with generous gaps. Count by the labels beneath them:\nRow 1: C1, C2, C3, C4\nRow 2: C5, C6, C7, C8\nRow 3: C9, C10, C11, C12\nEach chime is one complete object with smooth domed silver body, open flared bell rim, one rounded clapper, small pointed top finial and a simple neck band. These shapes match the comic's silver bells. Do not add strings, cords, orbit lines, glow, faces, tiny people, wings or extra clappers. No chime is obscured or cropped. Labels are neutral drawing labels BELOW the objects, never engravings on the equipment. C9 must be unmistakably the UNIQUE SMALLEST chime, roughly two-thirds the regular size. C1 is slightly more slender and C2 slightly broader; all still belong to one coherent silver-bell design family. No other chime is as small as C9. The labels assign later loss order, not supernatural identity.\n\nIn the lower-right area, show ONE distinct thumb-sized CENTRAL RESONATOR seated inside a small unattached sternum-armor section consistent with the input sheet. It is a compact solid silver focus, NOT bell-shaped, NOT a gem, NOT blue jewelry, and NOT a thirteenth floating chime. Use a small technical cutaway edge of the ARMOR ONLY to show that the resonator is hidden beneath opaque outer white/silver armor when worn. No cutaway body, blood, exposed flesh, ghost or anatomical nerves. A small outline of an armored thumb beside the focus gives approximate scale, without showing another character. Do not draw duplicate intact/working resonators elsewhere.\n\nIn the lower-left area, show a few SMALL ABSTRACT MATERIAL FRAGMENTS from cracked/burnt silver: fractured curved metal and darkened edges. They are fragments, not additional whole bells. No intact reconstructed bell or new magical effect. These are optional texture/shape samples within the same equipment-system sheet, not a second object system.\n\nOnly this exact black bold condensed uppercase comic lettering may appear:\nTHIRTEEN-TONE CROWN\nC1\nC2\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nC11\nC12\nCENTRAL RESONATOR\nTHUMB-SIZED\nBROKEN SILVER\n\nMake the twelve intact bell silhouettes and the separate hidden sternum focus visually unambiguous. Everything is nonliving equipment. Do not show a head tiara, donors, a woman, battle scene, enemy, location montage, speech balloon, number13 label, credits, watermark or decorative writing.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary flat GN rendering and armor design; no character faces or injury-state details."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Actual R1 inspected. Twelve whole bells in3rows of4 plus one distinct compact hidden sternum focus. C9 unique smallest; fragments are not extra whole bells. Armor cutaway has no body or unsupported mechanism."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-945c1ea1-90ca-43a8-8a29-d3d2da9871cc.png",
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "height": 1024,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "width": 1536
+      },
+      "startedAt": "2026-09-17T18:53:19Z",
+      "completedAt": "2026-09-17T18:54:04Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R3-001.png",
+      "outputSha256": "98c15031a85eed35e2d507d3de893c988916f2297be548e2309013a11f8b50ac",
+      "inspection": {
+        "evidence": "Upper twelve bells and C9 unique smallness pass. Bottom duplicates the one working central resonator and gives it a faceted gemstone reading; remove standalone duplicate and clarify solid hidden metal focus.",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "verdict": "REVISE"
+      }
+    },
+    {
+      "id": "R3-002",
+      "assetId": "R3",
+      "state": "accepted",
+      "prompt": "Make ONE targeted correction to the attached THIRTEEN-TONE CROWN equipment reference. Input1 is the correction target. Input2 supplies the accepted matte silver-white armor and bold flat comic rendering only; do not copy any woman, injury state, figure or background from it.\n\nPreserve the 1536 x 1024 canvas, near-white background, heading, upper THREE ROWS OF FOUR BELLS, and every label C1 through C12. All twelve intact bells must remain individually visible, with C9 the smallest. Preserve the lower-left BROKEN SILVER fragments and their label. Preserve the existing bold black outlines and flat white/silver hard-edged shading. Do not modify these passing regions.\n\nCorrect ONLY the lower central-resonator diagram. It currently shows a separate freestanding resonator AND another installed in armor. DELETE the freestanding resonator in the lower center completely, leaving no duplicate, shadow or ghost of it. The finished sheet must show exactly ONE central resonator anywhere.\n\nShow that ONE resonator as a tiny, plain, smooth solid-metal insert seated inside the existing lower-right sternum-armor recess. Its simple oval silver face has one flat hard-edged shadow, with no faceted jewel center, gem, crystal, glowing core, eye, ornament or pendant shape. It is functional nonliving metal equipment, not jewelry. Keep its size approximately that of a human thumb.\n\nMake the surrounding diagram clearly an UNATTACHED ARMOR SECTION on the white reference background, not armor worn by a person. No body, flesh, skin, breast contour or bodily wound is visible. Preserve the removed opaque white/silver coverplate floating immediately to the right and its simple dashed alignment guides, so the diagram clearly explains that this single insert is completely hidden beneath the opaque plate when worn. The removed coverplate contains NO second resonator.\n\nUse the space reclaimed by deleting the freestanding duplicate to place one simple, unfilled light-gray thumb OUTLINE for scale beside the installed focus. This is a small diagrammatic contour only, not a rendered hand, armored finger, person or flesh. Place THUMB-SIZED directly beside that outline. Place CENTRAL RESONATOR directly beneath the one installed focus, with a short unobtrusive leader if needed. Do not print either label twice.\n\nRetain only the existing exact heading and labels:\nTHIRTEEN-TONE CROWN\nC1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12\nBROKEN SILVER\nTHUMB-SIZED\nCENTRAL RESONATOR\n\nKeep labels clean, bold, uppercase and readable. Do not introduce more bells, additional resonator views, figures, souls, magic effects, decorative text, credits or watermarks. Final equipment count: twelve intact orbiting chimes plus exactly one installed central resonator, with separate dead silver fragments.",
+      "inputs": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-945c1ea1-90ca-43a8-8a29-d3d2da9871cc.png",
+          "sha256": "98c15031a85eed35e2d507d3de893c988916f2297be548e2309013a11f8b50ac",
+          "role": "Correction target; retain twelve bells and labels/fragments, remove duplicate focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Matte GN rendering and armor only."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Both actual inputs inspected. One installed compact focus, one thumb outline for scale and opaque removed coverplate explain hidden sternum equipment without a body or duplicate. Localized correction has adequate free lower-center space; twelve labels/bells untouched."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "width": 1536,
+        "tool": "image_gen.imagegen",
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b061-6f2b-78a3-ac5b-006b085db75c/exec-9dd81e3b-e6d1-48ba-b902-7f45b17a45bf.png",
+        "modelVariant": null,
+        "height": 1024
+      },
+      "startedAt": "2026-09-17T19:03:44Z",
+      "completedAt": "2026-09-17T19:04:18Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R3-002.png",
+      "outputSha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+      "inspection": {
+        "evidence": "All12 labeled bells present; C9 uniquely small. Exactly one smooth silver central focus in armor-only recess, opaque coverplate, thumb outline scale. No body/flesh. Minor rounded metal highlight does not read as faceted gem or active glow.",
+        "fullSize": true,
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "readingWidth": 390
+      }
+    },
+    {
+      "id": "P01-001",
+      "assetId": "page-001",
+      "state": "revise",
+      "prompt": "Create ONE complete finished comic PAGE, portrait 1024 x 1536, exactly FOUR panels. This is page 1 of SOLSTICE EVENING BELL; do not print a title or page number. Read left to right, top to bottom: one wide top panel, two equal side-by-side middle panels, one wide bottom panel. All are strong simple rectangular black borders with 24px white gutters and 40px outer safety. Target row heights 336, 448, 624px. No montage, inset or extra panel.\n\nINPUT ROLES: image1 accepted SOLSTICE character sheet is primary identity, armor and bold flat-ink rendering. Use only her CLEAN UNINJURED upper-row state: one adult woman with long silver hair, pale natural skin, blue-gray eyes, white armored dress, articulated white/silver pauldrons and gauntlets. Ignore lower injury states and all sheet words. Image2 is the single western bay: preserve north breakwater LEFT, south RIGHT, empty right harbor road and EASTERN inland ridge; simplify tiny water detail to broad strong ink shapes. Image3 crown sheet supplies bell shapes and the one hidden sternum focus, not a cutaway composition. Carry NO sheet labels into the page.\n\nSTYLE: crisp heavy black silhouettes and confident internal contours, saturated midnight and strong blue fields, hard-edged two-step shadows, near-white silver armor, yellow narration boxes with black outlines, BOLD CONDENSED UPPERCASE COMIC lettering. No painted rendering, gradients, washed texture, hatching, gloss or 3D. Use 40-44px lettering at 1024 width, generous line spacing and box padding. Exact words below, no additions. If text is long, wrap at natural spaces in a broad box; keep it readable rather than reducing letter size. Panel1 caption fits two/three lines across; middle captions four/five short lines; bottom caption two/three broad lines.\n\nPANEL1 (top wide): High oblique view from offshore WEST into the empty western bay. The two concrete arms surround ONE bay: north on left, south on right, shallow sea shelf across outer approaches, eastern ridge far inland. A single tiny white silhouette of Solstice is suspended over the bay, alone. Low ordinary storm clouds over the western water, stars visible above. Empty harbor road behind right breakwater has several simple glowing red directional evacuation arrows; no words on these road arrows. Place a yellow caption high in clear sky, without covering Solstice:\n\"THE INSTRUMENTS WENT BLIND NINE SECONDS BEFORE THE SKY OPENED.\"\n\nPANEL2 (middle LEFT): Close on the ordinary dark rectangular public hazard board mounted beside that EMPTY southern road. Modern utilitarian structure, no person or vehicle. Its red luminous block letters show clearly through minimal static; static must not obscure any word. Compose the board frontally enough to read, with a narrow empty road margin. The black board contains ONLY:\n\"ULTRAHUMAN ASSETS IN EXCLUSION ZONE: 1\"\nWrap sign into three/four readable lines. This is diegetic RED sign lettering, not a narration box. Above the board, a separate yellow caption contains ONLY:\n\"SHE HAD ORDERED EVERY BATTERY AND AIRCRAFT BEYOND THE EASTERN RIDGE.\"\nKeep caption and board separate and fully readable. Never show the withdrawn batteries/aircraft.\n\nPANEL3 (middle RIGHT): Tight chest-and-armored-hand detail of the SAME Solstice. Her right hand rests naturally across the UNBROKEN, OPAQUE white sternum armor. Coherent wrist and five gauntleted fingers. She is unhurt; no blood, dents, dirt or torn clothes. The thumb-sized focus is completely hidden UNDER the armor, NO exterior jewel, glow, seam opening or cutaway. Background dark blue night, a few silver hair strands. Yellow caption in clear upper space:\n\"THE FORCE WAS HERS. THE CROWN GAVE IT PRECISION.\"\n\nPANEL4 (bottom wide): Medium-wide front three-quarter view of the SAME adult Solstice suspended alone, clean and dry, gaze lifted into unbroken starry night. Calm gravity, not an attack pose; hands relaxed after the preceding sternum touch. Her white dress and long silver hair move gently. EXACTLY TWELVE separate silver chimes form a loose uneven halo: SIX clearly separated on image LEFT and SIX on RIGHT, all fully visible and countable, with C9 uniquely smaller. No printed C labels. Keep each side's six staggered vertically and well separated from hair, hands, caption and borders. Nothing connects them: no cords, strings, halo ring, web, beam or electrical arc. The central focus remains hidden beneath opaque chest armor; there is no thirteenth floating bell and NO head tiara. One wide yellow caption in clear lower space, not overlapping any bell or her hands:\n\"TWELVE LAST SPELLS, FREELY MADE. THE THIRTEENTH TONE WAS HER OWN.\"\n\nExact current instant: BEFORE the sky opens. No rupture, portal, invaders, aircraft, armies, donors, donor faces/ghosts, additional people, attacks, magical planes, active mesh, wounds, weapon or blood anywhere. The twelve chimes are nonliving equipment. All scene figures are the same one living adult across separate panels. No lettering outside the four specified narration captions and the single specified sign. Keep all anatomy, bells and text within borders.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary identity/style, CLEAN upper-row state only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography with north left/south right, ridge inland; simplify detail."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "12 bell shapes, C9 unique smallness; centralfocus hidden on page, no cutaway/labels."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "All3accepted actual refs inspected. Source opening verified: before seam, unhurt, empty bay,1on sign. 336/448/624 rows +48gutters +80margin=1536. Browser42px condensed sample: top120px, middle caption216+sign120 leaves112scene; right168px; bottom120px. Twelve bells staged6per side without overlap, chestcontact natural; no unsupported figures or premature powers."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "width": 1024,
+        "tool": "image_gen.imagegen",
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-c351ed13-c470-495a-8249-3879f0341abe.png",
+        "modelVariant": null,
+        "height": 1536,
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-c351ed13-c470-495a-8249-3879f0341abe.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "startedAt": "2026-09-17T19:06:36Z",
+      "completedAt": "2026-09-17T19:08:12Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-001.png",
+      "outputSha256": "669d6321e5a032512037d17a7e6052c24dc4afebbf6b67f9c2bd6cfe752b9b34",
+      "inspection": {
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "verdict": "REVISE",
+        "evidence": "Four-panel flow, exact five lettering blocks, clean identity/contact, bay axis and no premature invasion pass. Bottom panel has ten bells (five each side), needs twelve; two lowest bells too small to distinguish unique C9."
+      }
+    },
+    {
+      "id": "P01-002",
+      "assetId": "page-001",
+      "state": "prepared",
+      "prompt": "Make ONE localized correction to this finished four-panel comic page. Input1 is the complete correction target; input2 is Solstice's accepted identity/armor/flat comic-rendering sheet; input3 is the accepted equipment geometry sheet. Preserve the 1024x1536 canvas, ALL FOUR panels, every border/gutter, all five existing lettering blocks EXACTLY, the bay geography, empty road, red arrows, sign and chest-hand contact. Preserve the one adult woman's face, clean armor, hair, anatomy, pose and clothing in all panels.\n\nCorrect ONLY the silver chime count in the BOTTOM FOURTH PANEL. It currently has FIVE on the left and FIVE on the right (ten total). The finished bottom panel must have EXACTLY SIX whole chimes on the LEFT of Solstice and SIX on the RIGHT, twelve total. Keep the existing five on each side in their same approximate positions. Add ONE additional whole regular-size silver bell in the open lower-left dark sky centered around x115,y1370, above and to the left of the bottom caption and left of her cape. Add ONE additional whole regular-size bell in the open lower-right dark sky centered around x890,y1390, above and to the right of the bottom caption and beyond her arm. These two additions must be clearly separate from the other ten, fully within the bottom panel, not covered by text or cloth. A regular bell should be about55–65px tall in these lower slots, with its domed/flared silver form, one clapper and small top finial like input3. No text or C numbers on bells.\n\nThe existing smallest LEFT bell around x175,y1285 represents C9: keep that ONE uniquely smallest, about35–40px high. Enlarge the existing tiny lowest RIGHT bell around x820,y1305 to a regular55–65px high bell centered at that same location, clearly separate from Solstice's forearm, caption and new lower-right bell. No other bell should be as small as C9. Upper bells can remain larger by perspective; do not change them into ships or lanterns.\n\nCount the final bottom-panel objects as 6 LEFT + 6 RIGHT = 12. There is still just ONE woman in this panel. Do not add any bell elsewhere on the page, duplicate the woman, add a head crown, reveal the hidden sternum focus, make connecting cords/lines, introduce a rupture/enemy or change any words. The exact bottom caption must stay:\nTWELVE LAST SPELLS, FREELY MADE. THE THIRTEENTH TONE WAS HER OWN.\n\nPreserve all passing page regions. Maintain bold clean black contours, broad flat blue/white/silver fills, hard-edged shadow steps and yellow captions; do not repaint the page or change its palette. Output ONE corrected complete comic page, never a crop or contact sheet.",
+      "inputs": [
+        {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-001.png",
+          "sha256": "669d6321e5a032512037d17a7e6052c24dc4afebbf6b67f9c2bd6cfe752b9b34",
+          "role": "Complete correction target; localized bottom count correction."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Preserve clean adult identity and armor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Bell geometry, uniquely small C9."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Full saved target inspected. Open dark sky exists at both specified slots beyond cape/arm and above caption. Add two not four: target has5+5. Enlarge lowright smallbell to preserve unique C9. Preserve all words and anatomy; three inputs withinlimit."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": null,
+      "startedAt": null,
+      "completedAt": null,
+      "outputPath": null,
+      "outputSha256": null,
+      "inspection": null
+    },
+    {
+      "id": "R4-001",
+      "assetId": "R4",
+      "state": "prepared",
+      "prompt": "Create ONE object-design reference sheet for a roughly HUMAN-SIZED NONLIVING INVASION FRAME from a comic. Landscape1536x1024, plain near-white background. The sole attached character sheet is for bold clean BLACK INK, broad FLAT fills and HARD-EDGED shadow rendering, plus approximate human proportion context ONLY. Do not draw the woman, armor costume, person, ghost, donor, injuries or character-sheet labels.\n\nThis is ONE machine type seen in several technical views, not several creatures or an army. Design a roughly upright human-sized smooth featureless dark shell with slender FOLDING VANES hinged around its central body. The closed shell is compact; the vanes open outward into a distinct angular silhouette and can fold back against it. No face, eyes, cockpit, pilot, mouth, skull, organic tissue, humanoid hands/feet, decorative humanoid armor or weapons turret. It is not a giant spacecraft. Use charcoal/navy body fills, restrained storm-blue planes and thin near-white hard edge accents, no glossy chrome or painted modeling.\n\nAcross the top/main area show three separated views of exactly this SAME object design:\n1 LEFT: compact shell with vanes folded closed, full height visible. A simple vertical scale rule next to it is labeled APPROXIMATE HUMAN SCALE, with no person silhouette and no numerical height claims.\n2 CENTER: front three-quarter full object with its same folding vanes open. Keep it visually the same size and machine identity as view1. Show real hinge geometry and coherent connections; no floating unrelated blades.\n3 RIGHT: side view of the same open frame, showing shell depth and hinged vanes, not a different machine type.\n\nBottom LEFT: a close technical detail of the shell's small NEEDLE APERTURE with one thin metal needle projectile just emerging, its straight path indicated by a short plain arrow. This is a metal needle, not beam/flame/missile/ammunition belt.\nBottom RIGHT: an enlarged cropped VANES INTERLOCKING detail where one vane of this frame fits against a single cropped neighboring frame's vane/shell edge. This demonstrates nonliving synchronized lattice geometry, not a giant combined creature, living grasp or magical rope. Only necessary partial neighboring geometry, not another full frame view or an army.\n\nUse confident heavy outlines and crisp flat cel shadows like the accepted character reference. White gaps separate the views. Only these exact black bold condensed uppercase comic labels may appear, no C labels or story narration:\nINVASION FRAME\nCLOSED\nOPEN\nSIDE\nAPPROXIMATE HUMAN SCALE\nNEEDLE APERTURE\nVANES INTERLOCKING\n\nDo not print duplicate labels, extra words, credits or watermarks. No battle scene, location, portal, chimes, queen, donor spirit, ally, aircraft, faces, body damage or blood. These diagrams establish geometry only; the machines are nonliving equipment. Everything must fit uncut within the single reference canvas.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Primary bold GN rendering, approximate human proportion context; no identity transfer."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Actual R1 inspected; source/plan specifies human-size nonliving featureless shell, folding vanes, needle attacks and interlocking lattice. One coherent equipment design; adjacent partial frame is same type, no extra named identity. Three body views plus two details fit landscape; scale label introduces no invented size number. Generation deferred until after page2 per development order."
       },
       "tool": "image_gen.imagegen",
       "toolProvenance": null,
@@ -1090,7 +1419,7 @@
     "uniquePanelIds": 92,
     "maximumPlannedImageInputs": 5,
     "sourceStoryUniverseAndPublicationUnmodified": true,
-    "note": "Manual draft consistency checks, not an automated production certification. No new images generated.",
+    "note": "Manual draft checks. New cover and R1/R2 references selected; comic pages await independent review.",
     "readerQaInventory": [
       "Desktop and390px mobile artwork fit with no cropping or color filters",
       "Previous/next and jump selector; first/last bounds; keyboard arrows/Home/End",
