@@ -1217,8 +1217,8 @@
       "id": "page-016",
       "number": 16,
       "path": "pages/page-016.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
       "dependsOn": [
         "R1",
         "R2",
@@ -1226,12 +1226,57 @@
         "R4",
         "page-015"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity and current wet injured state; LEFT hip only, hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geometry: offshore shelf, north-left/south-right tips, ridge behind harbor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Only ordinary C10–C12: three bells with three potential planes/steps; C9 absent."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving frame silhouettes repeated as eight distinct columns."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-015.png",
+          "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "role": "Accepted P15-002 current wet/injury, three-bell, flat-ink and lettering continuity."
+        }
+      ],
+      "attempts": [
+        "P16-001",
+        "P16-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-016",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "8b1198c73fabafaafc22ec76249182a5f6cb87f4d596a140ed5221b8f2e80a92",
+        "temporaryPreviewSha256": "e370676bb6065adad56f8755bfa63cf3cba3d8ed5bab2638f26cb65e9ad21ed4",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-016.pdf",
+        "partialPdfSha256": "95e003d3bda2c69a5fa8b294a3a80e60ef07efd30ea3ceabbd6fa7f702d4da5e",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-17.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-17.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P16-002 PASS: 2 shelf/2 breakwater/4 ridge columns, three surviving bells/planes, exact captions and current injury state; full390 PDF page17 and RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-017",
@@ -3567,6 +3612,138 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P16-001",
+      "assetId": "page-016",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished 1024x1536 portrait comic page, page16 of Solstice Evening Bell. Exactly THREE panels, read top to bottom: shallow full-width face/count band (about20%), large full-width aerial geography/formation panel (about45%), full-width triangular deployment panel (about35%). Use the established page15 rendering: bold black contours, saturated flat navy/cobalt colors, angular inked storm/cloud shapes, hard-edged silver shadows, clean white gutters, black borders, yellow narration boxes with condensed uppercase black comic letters around40–44px, minimum40px. Fractions exclude gutters. No page number/title/extra text/SFX. Three exact captions below.\n\nInputs1 character sheet: one adult silver-haired Solstice, blue-gray eyes, silver layered armor/white skirt. She is wet and injured: existing RIGHT shoulder score/RIGHT ribs damage, small nosebleed and LEFT hip graze under torn white fabric only. RIGHT thigh cloth intact. Both legs still work. Opaque sternum hides central focus; no exposed chest gem/head crown/aftermath collapse. Input2 western bay geometry. Input3 bells: only three ordinary equal-type C10–C12 remain; SMALL C9 already destroyed. No extra little bell or revived fragments. Input4 nonliving human-sized pointed metal invasion capsules with folded dark vanes, no pilots/faces/heads. Input5 accepted page15 for actual graphic ink, lettering, wetness and correct injury sides. Exclude sheet labels and multiple poses.\n\nMoment: after ninth bell loss, below the offshore storm at night. Only one living defender. NO bell loss on this page, no attack casualties or explosion yet. Invasion now totals8,192 frames in EXACTLY EIGHT distinct columns, each1,024. Thousands are visually implied by dense tapering repetition; do NOT draw1024 individually. Eight group silhouettes must be countable without relying on the caption. Keep the eight dark columns geographically separate from three silver bells. Harbor and eastern ridge intact. Camera geography: offshore WEST looking EAST into the bay, north LEFT and south RIGHT. Sea shelf is offshore outside/between the two breakwater tips. Ridge is inland BEHIND harbor. Do not turn shelf into a new island, reef, building or third breakwater. Omit high rupture outside the framing.\n\nPANEL1: close-up face of Solstice angled downward, eyes sharply concentrating through wet silver hair; rain beads, trace nosebleed, existing blood on RIGHT shoulder at viewer-left if visible. No bells or enemy count diagram in this tight crop. Exactly:\n\"8,192 FRAMES. EIGHT COLUMNS OF 1,024.\"\n\nPANEL2: large, clean oblique elevated view from offshore toward the bay and ridge, enough empty dark-blue air between EXACTLY EIGHT dense streams of dark frames. Show their pointed leading ends descending toward their different targets:\n- TWO separate foreground streams at lower center-left and lower center-right descend toward the offshore sea shelf water OUTSIDE the breakwater tips. Clear water is their landing target; no extra stone shelf above water.\n- ONE middle-distance stream at left descends toward NORTH breakwater tip; ONE middle-distance stream at right toward SOUTH breakwater tip.\n- FOUR separate smaller background streams spread evenly across the upper/background inland ridge, each toward a distinct ridge point beyond harbor.\nThese eight streams are individual narrow tapered columns made of many small featureless black/gray capsule silhouettes with folded vanes, NOT eight giant machines, tornadoes, beams, thick wedges, nine groups, branching streams, or cloud shadows. Use scale and separation to make foreground2 + middle2 + background4 countable. Distinct uninterrupted stream outline for each; do not overlap/merge any pair. Storm band overhead; shore lights below. NO silver bells or Solstice figure in this panel to confuse counting. Single yellow caption at top, wrapped into two lines if needed:\n\"TWO FOR THE SHELF. TWO FOR THE BREAKWATERS. FOUR FOR THE RIDGE.\"\n\nPANEL3: broader lower-air deployment view across the same bay. Exactly THREE intact ordinary silver bells, large and distinct, form a triangle: one high at center, one lower-left, one lower-right. No fourth bell, no tiny bell. Solstice descends into the bay's air inside the triangle, one full or knee-up figure, commanding with both hands spread; sternum opaque, right-side armor damage persists, left hip injury only if this angle reveals it. Her pose is controlled despite pain. Rain interrupts abruptly along three planar boundaries sharing the three bell endpoints. Show the triangle's three straight edges by thin white rain-interception traces and sparse clipped droplets, and small adjacent patches of intercepted rain to imply the three fixed edict planes extending into space. These are otherwise invisible surfaces, not opaque blue energy walls, glowing polygon panels or extra bell-like nodes. Three possible straight bell-step routes are established by this geometry; she is NOT teleporting now, so no duplicate figure or travel streak. Distant dark frame streams can be omitted/cropped rather than introduce another ambiguous count in this panel. No explosions, no bell breaking, no new injuries. Caption:\n\"THREE STRAIGHT BELL-STEPS. THREE EDICT PLANES. NO REDUNDANCY.\"\n\nEnsure exact words, readable lettering, eight clearly separable enemy columns in panel2 and exactly three equal-type surviving bells in panel3. Full artwork, not a reference sheet.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity and current wet injured state; LEFT hip only, hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geometry: offshore shelf, north-left/south-right tips, ridge behind harbor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Only ordinary C10–C12: three bells with three potential planes/steps; C9 absent."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving frame silhouettes repeated as eight distinct columns."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-015.png",
+          "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "role": "Accepted P15-002 current wet/injury, three-bell, flat-ink and lettering continuity."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read exact P16 script and source from three-bell triangle through bay deployment. Actual anchors and preceding page inspected. Three captions fit 20/45/35 panels; eight columns separated as foreground2/middle2/background4, no bells in counting panel. Last panel three endpoints with intercepted rain, no literal energy walls or teleport event. No loss or new injury. P15 independent PASS recorded."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:38:43 UTC",
+      "completedAt": "2026-09-17 23:40:24 UTC",
+      "outputPath": "pages/page-016.png",
+      "outputSha256": "7d52eb14659811c87d9cdf4edf5fd3688c18dff6fd5a00c91cf38f133a0f05bb",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-2c424467-df81-4a46-86b3-9c82faba6905.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-2c424467-df81-4a46-86b3-9c82faba6905.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Exact text, three-bell geometry, identity/injuries and style pass. P16.2 shows five apparent upper ridge bundles because northern breakwater stream continues through an extra ridge contact. Remove upper-left continuation and ridge glow so exactly four separate ridge-bound bundles remain, distinct from north breakwater stream. Remove apparent ridge impact glows and keep leading ends in air before landing."
+      }
+    },
+    {
+      "id": "P16-002",
+      "assetId": "page-016",
+      "state": "accepted",
+      "prompt": "Make a targeted correction ONLY to the MIDDLE geographic panel of the FIFTH attached complete comic page (page16,1024x1536). Keep the top face/count panel and entire bottom three-bell triangle panel unchanged. Keep all three exact captions, faces, hands, injury sides, color, borders, gutters, waves, landmarks and overall composition. Return one full corrected page.\n\nMiddle-panel correction: currently there appear to be FIVE short upper streams over the ridge, because the far-left background stream at approximately x260–308,y322–425 is joined to the northern breakwater stream below it. There must be EXACTLY FOUR ridge-target streams plus TWO breakwater streams plus TWO offshore shelf streams = EIGHT total.\n\nREMOVE ONLY the unwanted far-left UPPER continuation above the ridge (around x260–308,y322–425) and the bright contact flash directly beneath it, restoring ordinary flat storm/cloud and mountain coloring there. RETAIN the lower northern breakwater-bound stream at left, which runs from about x243,y453 down-left toward the northern breakwater at x115,y602. Let its upper tip begin clearly in air IN FRONT OF the ridge, visually separated from all four ridge bundles. Do not delete this necessary north-breakwater column.\nRetain the FOUR genuine background ridge streams around x435,586,735,850. Ensure each ends a little ABOVE its distinct ridge point, with clear dark air between its leading frames and the mountain surface. Remove the white collision/landing flares at the bottom of those four ridge streams; they have NOT landed yet. Their target mountain points stay intact. Do not add a fifth ridge stream.\nRetain the right/southern breakwater stream and both large foreground offshore shelf streams. Keep all eight streams recognizable as dense repetitions of small pointed nonliving dark capsules with vanes, each separate and unbranched. Do not add arrows, labels, numbers, new beams or explosions.\n\nUse references1–4 only as identity, geography, ordinary silver bell, and invasion capsule anchors. Target fifth image controls all passing artwork. Preserve the exact middle caption:\n\"TWO FOR THE SHELF. TWO FOR THE BREAKWATERS. FOUR FOR THE RIDGE.\"\nNo other change.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Character identity and correct injuries unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geometry unchanged; preserve north-left and south-right target streams."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Three ordinary bells and all bottom geometry unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Frame construction in eight grouped columns."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-016.png",
+          "sha256": "7d52eb14659811c87d9cdf4edf5fd3688c18dff6fd5a00c91cf38f133a0f05bb",
+          "role": "P16-001 complete target; middle panel only remove false fifth ridge continuation/contact and keep four genuine ridge groups airborne."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Inspected entire saved P16-001. Upper-left continuation makes five apparent ridge groups and crosses mountain. Local removal preserves north breakwater stream below and yields two shelf/two tips/four ridge, source exact. Remove four landing glows to preserve pre-landing instant. All other panels/text pass."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:41:40 UTC",
+      "completedAt": "2026-09-17 23:43:14 UTC",
+      "outputPath": "pages/page-016.png",
+      "outputSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-a019caae-24f1-44c8-a995-7008105434d9.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-a019caae-24f1-44c8-a995-7008105434d9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved full PNG and actual PDF page17 full/390 inspected: exactly eight distinct columns (two foreground shelf, two breakwaters, four ridge), false upper-left continuation removed; ridge impacts removed. Three exact captions legible, three ordinary bells in rain-revealed triangle, no loss/new injury/visible focus. RIGHT shoulder/ribs and LEFT hip correct.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P16-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-016.pdf",
+          "sha256": "95e003d3bda2c69a5fa8b294a3a80e60ef07efd30ea3ceabbd6fa7f702d4da5e",
+          "pdfPage": 17,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-17.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-17.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -3883,6 +4060,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P15-002 PASS: reserve decision, small C9 destroyed, four-to-three ordinary bells, corrected LEFT hip, exact captions/full390 PDF page16 and RGB parity."
+    },
+    {
+      "scope": "page-016",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "8b1198c73fabafaafc22ec76249182a5f6cb87f4d596a140ed5221b8f2e80a92",
+      "temporaryPreviewSha256": "e370676bb6065adad56f8755bfa63cf3cba3d8ed5bab2638f26cb65e9ad21ed4",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-016.pdf",
+      "partialPdfSha256": "95e003d3bda2c69a5fa8b294a3a80e60ef07efd30ea3ceabbd6fa7f702d4da5e",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-17.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-17.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P16-002 PASS: 2 shelf/2 breakwater/4 ridge columns, three surviving bells/planes, exact captions and current injury state; full390 PDF page17 and RGB parity."
     }
   ],
   "approvals": {

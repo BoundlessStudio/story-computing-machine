@@ -671,3 +671,25 @@ Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; 
 **Actual PDF page 16: PASS.** Independently confirmed its sole embedded image has exact decoded RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and complete edges; Page 15's bookmark targets PDF page 16. Both 864 × 1296 and 390 × 585 actual renders retain all lettering and action without clipping or stretch. No previous-page assembly or reader-control regression was repeated.
 
 **P15-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P16–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 016 — P16-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: entire selected P16, P15 continuity and actual PDF page 17. Read the source's three-chime/8,192-frame passage, exact three-panel script and both attempt prompts/findings. Inspected the actual 1024 × 1536 PNG and PDF renders at 864 × 1296 and 390 × 585. Source, plan, STYLE and accepted P15 were rehashed and retain the exact versions recorded in the preceding P15 review.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P16-002 `page-016.png` | `a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706` |
+| Manifest at scoped read | `b36374278d44de9b33c2d56b85ad8f9dd45b835716f2bfa877530aa784f376e3` |
+| `through-016.pdf` | `95e003d3bda2c69a5fa8b294a3a80e60ef07efd30ea3ceabbd6fa7f702d4da5e` |
+| `full-17.png` | `d6a539ce9712befad1879b4718e74920904ee571cc776b1ea2bdcb3e0790c3de` |
+| `reading-17.png` | `1a4aaf96aff5e14350f73b389f98ba55428183f01c92c95519eda1f834cfde00` |
+
+PDF/render paths are under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Panels and continuity: PASS.** P16.1 preserves her adult identity, downward concentration, wet hair, nosebleed and scored right pauldron. P16.2 has exactly eight separate machine columns: two large foreground streams toward offshore shelf water, one toward each concrete breakwater tip and four smaller streams toward distinct eastern ridge points. The removed north-column continuation no longer creates a fifth ridge group. The ridge landing flashes are absent; destinations remain intact, with the frames still depicted on approach. Groups remain countable at 390 pixels and consist of repeated machines rather than eight giant objects. P16.3 contains exactly three ordinary whole chimes, with three straight boundaries exposed by interrupted rain. No small C9, additional node, solid energy wall, transit duplicate or new bell loss appears. One coherent Solstice commands inside the triangle; right shoulder/rib injury, left-hip graze, intact right-thigh cloth and concealed focus agree with P15. No leg failure or healing is introduced.
+
+**Lettering and presentation: PASS.** Independently read all three exact captions at full and 390-pixel sizes, including the commas in `8,192` and `1,024`, the `BELL-STEPS` hyphen and every period. The count, geographic explanation and deployment read top to bottom through clear white gutters. Crisp contours, flat saturated color, hard shadows and yellow uppercase lettering remain consistent with accepted art. The arithmetic is correct: eight columns of 1,024 total 8,192.
+
+**Actual PDF page 17: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. Media/crop boxes are 432 × 648 points, unrotated, with a full-page transform and the Page 16 bookmark correctly targeting page 17. Both actual renders preserve edges, aspect, words and action without clipping or stretch. No previous PDF-page, optional HTML or broad control regression was repeated.
+
+**P16-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P17–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
