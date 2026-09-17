@@ -39,7 +39,8 @@ decision. For named replacements and localized edits, see
 and create an illustrated reading edition. Classic is the default; Deluxe adds
 more art and Cinematic emphasizes full-page illustrations. Shared house rules
 control typography and layout, while the source cover, references, and story
-tone guide each edition's art direction. Comics and speech bubbles are deferred.
+tone guide each edition's art direction. This prose-preserving process does not
+produce comic pages or speech bubbles.
 
 The agent proposes meaningful illustration moments and reference counts. You
 approve the plan; the agent reviews character/location/object references, the
@@ -55,6 +56,27 @@ PDF generation and downloads are available only when requested.
 See [illustrated-create](.agents/skills/illustrated-create/SKILL.md) for the stage
 contract and [edition tooling](illustrated/README.md) for setup and commands.
 
+## Draft a graphic novel from a story
+
+```text
+[GN] "Exact Story Title"
+[GN] "story-slug" — use its existing illustrations as visual references
+```
+
+`[GN]` is a separate draft process for adapting a finished story into sequential
+comic pages. It inspects the story's cover and suitable existing artwork,
+proposes references and a page/panel script, then creates and independently
+reviews one page at a time after explicit approval to try the plan. A fresh
+reviewer checks the complete book before final user approval.
+
+Read the [draft workflow and choices](graphic-novels/README.md) and
+[written house style](graphic-novels/STYLE.md). Page composition follows the
+story; the style is documented as text without a visual template preview.
+The draft adds agent instructions, not a tested renderer or publication path.
+`[GN]` has no aliases; `[Comic]` remains reserved. `[IL]` and all its existing
+behavior stay unchanged. Graphic-novel output is separate from both the source
+story and its illustrated edition.
+
 ## Project map
 
 - [AGENTS.md](AGENTS.md): authority, permissions, artifact boundaries, worktrees.
@@ -66,6 +88,7 @@ contract and [edition tooling](illustrated/README.md) for setup and commands.
 - [short-story-writing](.agents/skills/short-story-writing/SKILL.md): prose adapter;
   other craft skills are pinned references tracked by `skills-lock.json`.
 - `.codex/agents/`: story and illustrated-edition specialist entry points.
+- [graphic-novels/](graphic-novels/README.md): draft `[GN]` agent contract and comic house style.
 - [illustrated/](illustrated/README.md): edition packages, house rules, lifecycle and PDF exporter.
 - [stories/](stories/README.md): current and supported bundle packages;
   `_template/` supplies the four-file scaffold.
