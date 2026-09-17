@@ -599,8 +599,8 @@
       "id": "page-006",
       "number": 6,
       "path": "pages/page-006.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
       "dependsOn": [
         "R1",
         "R2",
@@ -608,12 +608,51 @@
         "R4",
         "page-005"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Same adult GN identity; nosebleed/sternum pain/right pauldron score, no other injury."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "North-left/south-right bay geography far below clouds."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Twelve intact chimes; cropped inventory, hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-size nonliving machines, waist-split fragments."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-005.png",
+          "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "role": "Preceding independently accepted P05-002; actual full airborne silhouette and state."
+        }
+      ],
+      "attempts": [
+        "P06-001",
+        "P06-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-006",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "8ec6d77e018d8331208a555fda7bfabd9bbdcc40cbe5e277e9cfacd96390888d",
+        "readerSha256": "4f85f0b78dab436d5db5210aaddb90feef927beb589db8203add28a19edf4dcd",
+        "evidence": "review.md",
+        "evidenceSummary": "Independent full-size and actual 390px review passed. Twelve bottom chimes, first-plane geometry, branching schools, guiding hands, straight segments, injuries, exact lettering and transcript passed. Complete book remains unreviewed."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-007",
@@ -1982,6 +2021,131 @@
         "evidence": "Full saved revised page and actual 390px reader inspected. All five exact captions readable after wrapping upper-right pair. One complete head-to-boots airborne figure now clear of terrain, two intact endpoints connected by one straight line, shallow anatomical right shoulder score. Twelve-bell middle array and other content remain correct. No new injury, typo or panel drift found.",
         "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P05-002-reader-390.png"
       }
+    },
+    {
+      "id": "P06-001",
+      "assetId": "page-006",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE complete lettered comic PAGE 6, portrait 1024x1536, FOUR clearly framed panels, white gutters, bold black contours, saturated flat midnight blues/cyan/near-white silver, hard-edged cel shadows and pale-yellow narration boxes. Match accepted GN artwork. No painterly wash, gradients, photo/3D, decorative writing, headings, labels, numbers or SFX beyond the exact four captions.\n\nFIVE ATTACHED INPUTS: 1 SAME adult Solstice: long silver hair, blue-gray eyes, opaque white armored dress/gauntlets/boots, tiny nosebleed and a shallow score on anatomical RIGHT pauldron (viewer-left when front-facing). Sternum pain continues but armor remains closed. No rib/hip/leg injury, wet hair or open chest. 2 Western bay geography, NORTH image-left and SOUTH image-right when looking east from offshore; eastern ridge far beyond, bay center between two breakwaters. 3 Twelve silver chimes, one uniquely smaller, central focus HIDDEN under sternum plate; no loss yet, no visible gem/tiara, reference label, cord, fragment or cutaway. 4 Nonliving HUMAN-SIZED featureless folding-vane machines and their broken metal. 5 Accepted page5: actual identity, injury/state, fixed invisible-plane effects and straight two-chime bell-step. Copy style/state, not its layout or captions.\n\nCRITICAL MECHANICS: edict planes stay FIXED between paired sounding chimes. They are INVISIBLE except where metal crosses them. Convey planes through aligned local showers of severed machines/needles and tiny sparks. Do not draw solid glass panes, filled transparent shields, bright luminous walls, grids or long laser beams. A few faint straight sounding lines between bell endpoints are allowed, distinct from the localized metal impacts. No sweeping moving attack wall. Every bell-step is one straight thin stroke between two sounding bells, NEVER curved, with only ONE Solstice at the latest destination. No origin body, ghost, afterimage, duplicate figure or living helper.\nHIGH-ALTITUDE STAGING: still above the ordinary storm, no rain on her yet. Rupture remains one stationary remote black seam high above the cloud deck. Keep people and bells floating in open sky, not huge people behind land. Any figure not cropped by a PANEL BORDER must have a complete coherent body and visible dress/boots. Distant land/clouds may lie behind but may not truncate her torso.\n\nLAYOUT: 20px white margin, 16px white gutters. Panel1 full-width top, approximately y20..530. Middle row panels2 LEFT and3 RIGHT y546..936. Panel4 full-width bottom y952..1516. Top dominant corridor image, middle enemy-learning then Solstice-adjusting pair, bottom descending maze. Large 36–44px bold condensed uppercase lettering; wrap text rather than shrink. One exact narration box per panel, four total. Keep text above essential action and inside margins. No words outside these four boxes.\n\nPANEL1 — The first fixed trap: Oblique aerial view toward the EAST, NORTH left and SOUTH right. Three complete UPPER chimes across the high part of the view below the remote black slit, and three complete LOWER chimes near the storm-cloud deck at different depths. Exactly SIX bells visible; the other six are safely outside this crop, not destroyed. The plane spans obliquely from north/left to south/right between this setup. A sheet-like alignment of broken machine waists and localized sparks reveals its position while its empty regions remain ordinary dark sky. Tiny vaned frames are sliced into upper/lower halves at contact, then tumble away; intact pursuit schools remain beyond. The caption establishes 4000 losses; do not attempt 4000 individually countable drawings.\nOne small COMPLETE Solstice has stepped clear beside a near western endpoint, in front of the destruction field. A single fine straight route between two visible chimes implies her finished departure from the trap edge; no second body. All six visible bells whole, none scored, central focus unseen. Retain shoulder score and nosebleed where figure size allows.\nExact yellow caption:\nFOUR THOUSAND CROSSED THE FIRST PLANE.\n\nPANEL2 — Learning: Shift attention to surviving machine schools around the same trap. Some abruptly brake before the localized severing line; two streams flow around opposite ends, while one stream rises away toward the stars. Show clear branching paths of individual machines, no giant ships or route arrows. Solstice can be outside this enemy-only crop. Effects only where metal intersects the fixed plane, no visible glass wall. Caption in two broad lines:\nTHE REST LEARNED WHERE NOT TO BE.\n\nPANEL3 — Her answer: Medium Solstice from head to upper torso, lower torso naturally cropped BY THE BOTTOM PANEL BORDER. She directs an upper pair of TWO whole floating bells with both open gauntleted hands. Show the pair only in its NEW positions, narrowing an open corridor; no ghost duplicate positions. Repositioned endpoints create the new fixed geometry, not a wall chasing the schools. Hands hover with clear gaps from the bells, five natural digits each, connected wrists. One bell slightly higher/forward than the other; narrow enemy passage visible beyond her shoulder. Only this pair is in the crop, all twelve still exist. Same adult, tiny nosebleed, RIGHT shoulder score, no further injury. Opaque sternum plate, no gem. Intent expression despite pain, dry hair and white dress.\nExact caption, two or three lines with large letters:\nTHAT MADE THEIR NEXT TURN PREDICTABLE.\n\nPANEL4 — A smaller sky: Deep aerial perspective looking DOWN through a DESCENDING MAZE above the black-blue storm tops, gaps angled toward the BAY CENTER. Staggered bands of intercepted/broken vaned machines outline several fixed invisible planes, with clear dark gaps between them. Frames dodging one line meet the next; slowing frames crowd against intact following schools. Perspective leads downward through that funnel into the distant central bay opening glimpsed between clouds. No map, arrows, labels, literal translucent walls or filled energy corridors.\nSeveral intact silver chimes anchor the cropped near/far geometry; partial edge bells may be clipped by the PANEL BORDER. Do not imply a complete reduced crown inventory or any chime loss. ONE complete small Solstice occupies the newest LOWEST clear endpoint at one side; a few very thin STRAIGHT strokes link sounding endpoints through the stepped geometry, showing completed routes but NO repeated body. All strokes stay within this panel and connect two bells, not empty sky. Do not show a zigzag single curving step. Keep her whole body clear of cloud edges and terrain; below her, the ordinary storm is still not touching her.\nFinal yellow caption across top, TWO or THREE large lines:\nSHE COULD NOT HUNT NINETY THOUSAND TARGETS. SHE COULD MAKE THE SKY SMALLER.\n\nExit state: twelve orbiting chimes + hidden focus intact; nosebleed, sternum pain and right pauldron score only. No new injury, no burning bell, no donor/ghost/ally, no civilian, no invented magic, no rain at her altitude. Four panels and exact four captions, readable at 390px page width.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Same adult GN identity; nosebleed/sternum pain/right pauldron score, no other injury."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "North-left/south-right bay geography far below clouds."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Twelve intact chimes; cropped inventory, hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-size nonliving machines, waist-split fragments."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-005.png",
+          "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "role": "Preceding independently accepted P05-002; actual full airborne silhouette and state."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Complete source span/script and selected reference pixels checked. Creator independently checked north–south axis, three upper/three lower visible bells, fixed surfaces revealed only by intercepted metal, three descending levels toward bay center, one whole body at newest lowest endpoint and straight two-bell segments. Four captions have wide or wrapped space; no chime loss or rain."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17T20:37:32Z",
+      "completedAt": "2026-09-17T20:39:23Z",
+      "outputPath": "pages/page-006.png",
+      "outputSha256": "28d67b6b384a3b092fd0d6135c9f8c5658c7c52eac5706853affeda0fb8affa0",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-c77d9d52-4992-4eac-b049-514e498f54e9.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-c77d9d52-4992-4eac-b049-514e498f54e9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Fifteen bells in bottom panel exceed twelve total. Remove three unconnected right-side extras at centers 833/1058,762/1170,698/1262. Other captions, four beats, whole airborne figure, injuries, invisible-plane contacts and straight route segments pass full and actual 390px inspection."
+      }
+    },
+    {
+      "id": "P06-002",
+      "assetId": "page-006",
+      "state": "accepted",
+      "prompt": "Edit the fifth attached image: the complete four-panel comic PAGE 6. Return one complete 1024x1536 page. Images1–4 supply the accepted Solstice identity/style, bay, crown and machine anchors. Preserve every caption, panel, figure, machine formation, motion line, color and all passing artwork EXCEPT the three extra bells identified below.\n\nONLY FIX: the BOTTOM panel accidentally contains FIFTEEN silver chimes. The crown has only TWELVE. REMOVE exactly THREE isolated extra bells from the right-hand side of the bottom panel, replacing their shapes with the existing blue night sky/machine background, with no explosion, fragments, disappearance effect or sign of an in-story loss.\n\nOn the full 1024x1536 image, REMOVE these three complete bells:\nA. The small isolated bell at approximately center x833,y1058, near the TOP-RIGHT of the bottom panel, just to the right of the caption.\nB. The small isolated bell at approximately center x762,y1170, below-left of A in the right half.\nC. The medium isolated bell at approximately center x698,y1262, below-left of B, just right of the central transit path.\n\nThese three form a descending diagonal of unconnected bells on the right. Remove those exact three, and do NOT move, duplicate or remove any other bell.\nKEEP the bottom panel's two giant cropped foreground endpoint bells at far LEFT and RIGHT.\nKEEP the intact bell beside the ONE complete Solstice at lower-right.\nKEEP all NINE other existing small/middle bells distributed across the central/left stepped routes. They include the two upper central endpoints, the two middle pair endpoints, and the smaller descending sequence. After removal, independently count exactly TWELVE bell silhouettes total in this bottom panel (including the two large cropped ones). Do not add a bell anywhere else.\n\nPreserve panels1–3 unchanged, especially panel1's three upper and three lower bells and panel3's two open guiding hands. Preserve the bottom panel's straight endpoint-to-endpoint transit strokes and single whole airborne Solstice, all twelve crown instruments still intact. No extra body, phantom bell, broken chime, ghost or duplicated prop.\n\nPreserve exact FOUR yellow-caption texts, punctuation and readable size:\nFOUR THOUSAND CROSSED THE FIRST PLANE.\nTHE REST LEARNED WHERE NOT TO BE.\nTHAT MADE THEIR NEXT TURN PREDICTABLE.\nSHE COULD NOT HUNT NINETY THOUSAND TARGETS. SHE COULD MAKE THE SKY SMALLER.\n\nNo new writing, labels A/B/C, arrows, numbers, SFX, signatures or title. Keep the existing bold black contours, flat saturated blues/white/silver, hard-edge shadows and white gutters. This is a localized count correction, not a new page design.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity/style only; preserve existing state."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography only; preserve current layout."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Twelve-bell maximum and silver geometry."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving machine form only."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "28d67b6b384a3b092fd0d6135c9f8c5658c7c52eac5706853affeda0fb8affa0",
+          "role": "Exact P06-001 target; historical original also saved in temporary P06-001.png."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Counted fifteen in selected candidate; located three unconnected right-hand extras for surgical removal. Twelve remaining shapes recounted, route endpoints and single Solstice preserved. Exact text and all other panels unchanged by instruction."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17T20:41:11Z",
+      "completedAt": "2026-09-17T20:42:41Z",
+      "outputPath": "pages/page-006.png",
+      "outputSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-68dc9c04-6492-4449-9e78-a4e248b9745e.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-68dc9c04-6492-4449-9e78-a4e248b9745e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved full revised pixels and actual 390px reading view checked. Bottom panel counted exactly twelve intact bells after three extras removed; top has three upper plus three lower. All four captions exact/readable; coherent whole airborne figure or border-cropped medium view, two guiding hands, unchanged nosebleed/right shoulder score, fixed planes shown by local severed metal and straight route strokes. Four beats and bayward descending maze intact.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P06-002-reader-390.png"
+      }
     }
   ],
   "reviews": [
@@ -2139,6 +2303,18 @@
       "readerSha256": "ffc7fcda3167a04b191cd032565cea0fe07ac34e242d48251efc426d8e19c510",
       "evidence": "review.md",
       "evidenceSummary": "P05-002 entire-page recheck independently passed. Both findings resolved; exact enlarged lettering readable at 390px, complete airborne figure, all bell counts, straight transit, right shoulder contact and transcript correct."
+    },
+    {
+      "scope": "page-006",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "8ec6d77e018d8331208a555fda7bfabd9bbdcc40cbe5e277e9cfacd96390888d",
+      "readerSha256": "4f85f0b78dab436d5db5210aaddb90feef927beb589db8203add28a19edf4dcd",
+      "evidence": "review.md",
+      "evidenceSummary": "Independent full-size and actual 390px review passed. Twelve bottom chimes, first-plane geometry, branching schools, guiding hands, straight segments, injuries, exact lettering and transcript passed. Complete book remains unreviewed."
     }
   ],
   "approvals": {

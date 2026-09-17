@@ -353,3 +353,28 @@ Independently recomputed and confirmed unchanged: preceding P01 `4cfd938d4583349
 **Transcript: PASS.** All five exact lettering entries retain narration attribution and panel order. All four descriptions agree with the corrected action; P05.4's arrival and right-shoulder scrape now have sound visual support. No broad control rerun was needed for the changed image/data.
 
 **Page 005: PASS for this exact P05-002 image and stated reader-preview scope.** No blocking finding remains; the earlier REVISE is retained for its earlier image version. This does not certify a future page or grant user approval. **P06–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Page 006 independent review 1 — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of generation/correction; 2026-09-17. Scope: complete selected P06-002 at full 1024 × 1536 pixels and actual supplied 390 px/desktop reader captures, all four captions and transcript entries. Re-read the source from “Schools pursued. Good.” through “Solstice herded it downward,” approved P06 script and P07 entry; compared the previously reviewed complete coverage and actual accepted P05/R1–R4 state. P06-001 was not independently reviewed here.
+
+Reviewed SHA-256 versions:
+
+- P06-002: `8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d`.
+- Reader: `4f85f0b78dab436d5db5210aaddb90feef927beb589db8203add28a19edf4dcd`.
+- Manifest at read: `28ef7b69af5b88eb04a4a4d3e04a37ca237cd3ca8ddfea264ef09e874a2d3b42`.
+- Evidence in `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P06-002-reader-390.png` — `beedb7e5490ecf6ab3f22ebef16c70d25a89a972a1da6abaa06e8d0b26d06426`; `P06-002-reader-desktop.png` — `d1b3a8b3d2248001e4b8be59f0741fd67a107d844a4c8bc200612fe6117b2077`.
+
+Independently recomputed source, plan, STYLE and R1–R4 hashes: unchanged from their precise P04 review versions. Preceding P05 remains the reviewed `3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9`.
+
+**P06.1: PASS.** Counted three upper and three lower intact chimes; cropped equipment does not imply loss. Split shells and sparks reveal the oblique fixed plane, with a single whole Solstice clear beside its upper/western endpoint. The rupture remains overhead and the bay below. “FOUR THOUSAND CROSSED THE FIRST PLANE.” is exact; no moving force-field wall is introduced.
+
+**P06.2: PASS.** Schools visibly divide around the interception band, including a separate upward stream. “THE REST LEARNED WHERE NOT TO BE.” is exact. The cut shifts attention to adaptation without inventing a second attack or enemy character.
+
+**P06.3: PASS.** Two coherent open gauntlets guide two floating chimes without impossible contact. Adult identity, silver hair, right-pauldron score, single nosebleed and closed sternum armor agree with P05. The narrowed enemy corridor supports the exact prediction caption. No later wound or donor loss appears.
+
+**P06.4: PASS.** Independently counted twelve intact chimes: nine smaller interior bells, the bell beside Solstice and two large foreground edge-cropped bells. Straight bell-to-bell segments and broken-metal bands form a descending maze toward the bay center. One complete Solstice occupies the newest lower endpoint; no duplicated body, curved transit or terrain occlusion appears. The distant bay and cloud layers convey descent. Both exact sentences remain present, including “NINETY THOUSAND TARGETS” and “THE SKY SMALLER.”
+
+**Flow/style/lettering/transcript: PASS.** Broad opening → left/right attention shifts → broad descent reads clearly through black frames and white gutters. No diagonal bypass or confusing overlap joins separate moments. Crisp contours, flat saturated fills, hard shadows and yellow uppercase captions remain consistent. Every word and punctuation mark is readable at full size and 390 px. All four narration entries and plain action descriptions match the actual page in panel order. No broad live-control rerun was needed for this data-only addition.
+
+**Page 006: PASS; blocking findings: none.** This is an assistant page verdict only. **P07–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
