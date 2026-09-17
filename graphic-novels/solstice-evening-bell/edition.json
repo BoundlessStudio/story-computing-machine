@@ -1152,8 +1152,8 @@
       "id": "page-015",
       "number": 15,
       "path": "pages/page-015.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
       "dependsOn": [
         "R1",
         "R2",
@@ -1161,12 +1161,57 @@
         "R4",
         "page-014"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult Solstice identity; wet storm state with existing RIGHT shoulder/rib damage and LEFT hip graze, opaque sternum."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Western bay geography only: northern left, southern right, ridge inland east; hard flat comic rendering."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C9 small reserve versus ordinary C10–C12 shapes; no visible central focus; no sheet labels."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Featureless nonliving human-sized invasion frame construction and vanes."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-014.png",
+          "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "role": "Accepted P14-003 current injury, four-bell state, palette, contours, rain and lettering."
+        }
+      ],
+      "attempts": [
+        "P15-001",
+        "P15-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-015",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "8ad3dee6f05a5f25e759f4363f1e66946b94642ee53c37e754ea471527485451",
+        "temporaryPreviewSha256": "0e0508515348b2939f536d08373803f287978d99993332fbc55dbe7a6ce5cec6",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-015.pdf",
+        "partialPdfSha256": "9c6905cd225baf3505ea69e4d0c117e02f363a6e3ffa8826c92302fd100a866e",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-16.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-16.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P15-002 PASS: reserve decision, small C9 destroyed, four-to-three ordinary bells, corrected LEFT hip, exact captions/full390 PDF page16 and RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-016",
@@ -3385,6 +3430,143 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P15-001",
+      "assetId": "page-015",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished portrait comic page, page 15 of Solstice Evening Bell, 1024 x 1536. Four panels only, in a clear top-to-bottom sequence: full-width aerial strip, full-width intimate strip, full-width threat/choice strip, large full-width bottom action panel. White gutters, solid black borders, confident bold black contours, saturated midnight/navy/cobalt flat fills, hard-edged silver shadows, angular inked storm clouds, white rain strokes. Match preceding accepted comic page’s graphic rendering exactly. Panel height proportions apply to drawable space after margins and gutters. Use lettering around 40–44px, never below 40px. All narration in yellow black-bordered rectangles with large condensed uppercase black comic lettering; exact text below, readable at 390px page width. No page title, page number, labels, extra narration, speech balloons or SFX.\n\nImage roles: (1) Solstice character sheet for single adult identity, silver long wet hair, blue-gray eyes, layered silver armor and white skirt, existing RIGHT shoulder score, RIGHT rib damage and newly existing LEFT hip graze/tear; (2) western bay geographical geometry, redrawn in hard flat comic style; (3) crown sheet for silver bell shapes only: C9 is distinctly smaller than the three remaining ordinary bells C10–C12. Central focus remains completely hidden under opaque sternum armor; no head crown, chest gem or cutaway; (4) featureless nonliving human-sized invasion frames, pointed capsule bodies/folding vanes, no humanoid heads, pilots or eyes; (5) page14 for exact current injuries, wetness, flat ink style and four-to-three bell continuity. Do not copy headings or the multiple views of reference sheets.\n\nSingle living protagonist Solstice only. No donor apparition or ghost hand, no additional people. Her will operates nonliving equipment; memory is conveyed by her own expression and hand. Preserve RIGHT ribs/pauldron damage, trace nosebleed, LEFT hip torn skirt and superficial red graze. Both legs still function. One Solstice per panel, no motion duplicates. The storm is offshore; mountains and inhabited harbor remain intact. No need to include rupture in this framing. Geography: offshore camera looking east toward land means northern breakwater LEFT, southern breakwater RIGHT, ridge behind harbor. Incoming frames travel from offshore foreground toward background land. Broad burning edict appears as a white cut and intercepted rain/metal, not a permanent laser wall.\n\nPANEL 1 (about 22% height): wide elevated view from offshore looking east. Exactly FOUR silver bells along the eastern wall of the storm: three ordinary bells distributed across center/right, and distinctly SMALL C9 isolated at LEFT above the northern breakwater. A conspicuous open corridor beneath that small reserve bell leads inland toward the ridge. Several thin streams of dark invasion frames enter that corridor and recede toward land; do not present these as the final counted eight-column formation yet. No Solstice figure needed in this establishing panel. Caption at top in two readable lines:\n\"SHE KEPT ONE IN RESERVE. THE REIGN AFTER THIS BATTLE. A WAY OUT.\"\n\nPANEL 2 (about 20%): intimate close crop of Solstice's pained, intent face and her own partly clenched LEFT armored hand held near her face. The nearby smallest reserve chime is visible beside her hand; a nonfigurative silver highlight on her gauntlet reflects its shine, never another miniature bell. Face/hand dominate, distant frame silhouettes are small, simplified flat silhouettes in the background, no other bells in crop. Her eye tracks the real frames beyond the small chime. Hand anatomy clear, one thumb/four fingers. Caption:\n\"SHE WAS PROTECTING HER NEED NEVER TO DESTROY THEIR WORK.\"\n\nPANEL 3 (about 20%): wide view across her LEFT shoulder toward land; her same hand opens into a deliberate command in foreground. Show a substantial thin column of REAL dark frames pouring through the unprotected route toward the eastern ridge, with open air before them. Keep composition calm enough that the hand unclenching is the emotional beat. No ghost, no magic human figure, no extra whole bell needed in crop. Yellow remembered-caption box, exactly:\n\"USE US. DO NOT MAKE A SHRINE.\"\n\nPANEL 4 (remaining about 38%): wide decisive aftermath instant. The SMALL reserve chime has just exploded into clearly broken jagged silver pieces at LEFT above the northern breakwater; NO intact small bell survives. A broad hard WHITE overloaded edict cuts across and shuts the ridge-bound corridor, smashing crossing dark frames before they reach land. Broken silver fragments sweep eastward into the background, extending a curved discontinuous silver arc over the bay; depict discrete shards, never an intact extra bell. Solstice in foreground right in a three-quarter frontal airborne pose, her own left palm still open after the command. Show her intact opaque chest plate, RIGHT shoulder/rib blood scratches and visible torn LEFT hip fabric/graze. Exactly THREE intact ORDINARY silver bells orbit clearly near her, separated in a simple triangle; all equal ordinary bell size, none tiny. Intact landmarks beyond the cut. Her sorrowful expression and open hand carry the maker's remembered grip, no literal other hand. Two distinct yellow captions with room for art:\n\"THE SMALLEST CHIME WAS GONE. SHE STILL REMEMBERED ITS MAKER'S GRIP.\"\n\"THREE ORBITING.\"\n\nKeep the four exact panels, all five exact caption blocks, and the emotional choice across the gutter before the burn. No premature last-bell loss, leg failure, exposed focus or additional injuries.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult Solstice identity; wet storm state with existing RIGHT shoulder/rib damage and LEFT hip graze, opaque sternum."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Western bay geography only: northern left, southern right, ridge inland east; hard flat comic rendering."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C9 small reserve versus ordinary C10–C12 shapes; no visible central focus; no sheet labels."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Featureless nonliving human-sized invasion frame construction and vanes."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-014.png",
+          "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "role": "Accepted P14-003 current injury, four-bell state, palette, contours, rain and lettering."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read P15 script and source through reserve loss. Inspected actual R1–R4/P14 and P02 memory motif. Four clear whole bells enter, small C9 burns, three ordinary bells exit. Five exact caption blocks fit four wide panels. Open hand carries memory with no donor apparition. Broad white cut seals inland corridor; no exposed focus, extra injury or final eight-column formation. Source/style/plan pins match; P14 independent PASS.",
+        "creatorCheck": {
+          "reviewer": "/root/gn_plan",
+          "verdict": "PASS",
+          "evidence": "Exact script/source and actual R1–R4/P14 checked. Single small bell and nonfigurative gauntlet glint preserve motif; four-to-three count feasible; added 40–44px/min40 lettering and flat silhouettes, clarified drawable proportions."
+        }
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:23:29 UTC",
+      "completedAt": "2026-09-17 23:25:13 UTC",
+      "outputPath": "pages/page-015.png",
+      "outputSha256": "ebe580636ac1b3be081687b4452b3520fa46fd964028019d2bd86bf603a382fe",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-9f59ef18-1ca6-4d42-bb62-1778c0d43825.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-9f59ef18-1ca6-4d42-bb62-1778c0d43825.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Exact captions, 4→3 count, C9 burn, source choice and style pass. Bottom panel wrongly puts existing hip graze on her anatomical RIGHT thigh (viewer left). Restore intact cloth there and preserve established graze only on anatomical LEFT hip (viewer right). Hand selection differs incidentally from prepared prompt but source and plan do not require a side; no hand change needed."
+      }
+    },
+    {
+      "id": "P15-002",
+      "assetId": "page-015",
+      "state": "accepted",
+      "prompt": "Edit the FIFTH attached image, the complete 1024 x 1536 page15, with ONE localized continuity correction in the BOTTOM PANEL ONLY. Preserve all four panels, exact lettering, borders/gutters, faces, hair, hands, armor, bell counts, shattered small bell, white edict, frames, rain, geography and colors. Do not redesign or mirror the character.\n\nRequired correction: the bottom figure's currently exposed torn-and-grazed thigh on VIEWER LEFT, below her blood-scored shoulder, is her anatomical RIGHT thigh. It must be uninjured and covered by INTACT white skirt cloth there. Replace that exposed skin/red scratch and ragged edge with continuous opaque white skirt fabric, matching the nearby black contours and hard silver-blue folds. Keep the underlying raised leg pose if useful, but cover it fully with unbroken cloth.\nHer ONLY existing hip wound belongs on her anatomical LEFT hip, on VIEWER RIGHT below the opposite side of her waist and near her lower relaxed gauntlet. Reveal a SMALL source-consistent torn patch of white skirt and superficial red graze THERE, just below the viewer-right hip armor and safely above/left of the THREE ORBITING caption. It may be a small narrow visible patch; do not add a broad new wound, gore, breast exposure or a second thigh opening.\nRIGHT shoulder and RIGHT ribs remain damaged in their current correct places. Everything else, especially every letter and EXACTLY THREE ordinary whole bells in the final panel, stays as it is.\n\nReferences1–4: character identity/injury guide (LEFT hip graze only, sternum opaque); bay geography; silver bell geometry (small C9 destroyed, ordinary three remain); nonliving invasion frame. Target fifth image controls composition and all passing page details. Match its bold black contours, flat hard-edged color and yellow caption style; do not import reference-sheet labels or future aftermath/exposed-focus states. This is one whole corrected comic page, not a crop.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity and injury anatomy, LEFT hip graze only; opaque sternum."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Exactly three ordinary final bells; small C9 destroyed."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Frame geometry unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-015.png",
+          "sha256": "ebe580636ac1b3be081687b4452b3520fa46fd964028019d2bd86bf603a382fe",
+          "role": "P15-001 complete correction target: preserve all passing details except restore cloth over RIGHT thigh and show existing graze on LEFT hip."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Saved P15-001 inspected. Local wound-side correction only, feasible small left-hip patch beside relaxed gauntlet; source and prior P14 explicitly LEFT hip. No script, count, art direction or framing changes."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:26:33 UTC",
+      "completedAt": "2026-09-17 23:27:58 UTC",
+      "outputPath": "pages/page-015.png",
+      "outputSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-48b50aff-1407-4770-b356-2815213ff003.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-48b50aff-1407-4770-b356-2815213ff003.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved corrected PNG, actual PDF page16 full/390 and desktop preview inspected. Five exact captions legible. Four bells including small C9 lead to three ordinary bells and broken small-bell fragments. Choice precedes burn; ridge route sealed. RIGHT thigh restored to intact cloth, existing LEFT hip graze now correctly viewer-right. Right ribs/shoulder and opaque sternum retained. Incidental command hand side is not source/script binding.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P15-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-015.pdf",
+          "sha256": "9c6905cd225baf3505ea69e4d0c117e02f363a6e3ffa8826c92302fd100a866e",
+          "pdfPage": 16,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-16.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-16.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -3683,6 +3865,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent heel contact, first left-hip graze, four whole chimes, existing injury continuity, exact captions/readability and PDF15 pixel/render PASS."
+    },
+    {
+      "scope": "page-015",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "8ad3dee6f05a5f25e759f4363f1e66946b94642ee53c37e754ea471527485451",
+      "temporaryPreviewSha256": "0e0508515348b2939f536d08373803f287978d99993332fbc55dbe7a6ce5cec6",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-015.pdf",
+      "partialPdfSha256": "9c6905cd225baf3505ea69e4d0c117e02f363a6e3ffa8826c92302fd100a866e",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-16.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-16.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P15-002 PASS: reserve decision, small C9 destroyed, four-to-three ordinary bells, corrected LEFT hip, exact captions/full390 PDF page16 and RGB parity."
     }
   ],
   "approvals": {

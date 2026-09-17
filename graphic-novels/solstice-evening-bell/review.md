@@ -642,3 +642,32 @@ Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; 
 **Actual PDF page 15: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and edges; the Page 14 bookmark targets PDF page 15. Inspected actual 864 × 1296 and 390 × 585 renders without clipping, stretch or lettering damage. Earlier PDF pages and reader controls were not rerun.
 
 **P14-003 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P15–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 015 — P15-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: the entire corrected P15, continuity from P14, exact transcript and actual PDF page 16. Re-read the source from the real host's landing columns through the remembered maker's grip, the four-panel script and both recorded attempt prompts/findings. Compared accepted P14/R1–R4 pixels and verified unchanged dependency hashes. Inspected every panel/word in the selected 1024 × 1536 PNG, actual full/390-pixel PDF renders and temporary desktop/390-pixel captures.
+
+Reviewed SHA-256 versions:
+
+| Input | SHA-256 |
+| --- | --- |
+| P15-002 selected image | `ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa` |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Manifest at scoped read | `3939ed7a1782b6a80e76a458e5e8557f3b984793c07ca70bd866e20a60b5c977` |
+| `through-015.pdf` | `9c6905cd225baf3505ea69e4d0c117e02f363a6e3ffa8826c92302fd100a866e` |
+| `pdf/full-16.png` | `ef8eae07b25f681cb7734da3d4732907761889d33d1feb63174e1526d2f2fd76` |
+| `pdf/reading-16.png` | `b18d853555797392e3a558a12e47260adbe828a129d0f03e596b6411011e05e6` |
+
+Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; additional inspected captures: `P15-002-reader-desktop.png` and `P15-002-reader-390.png`. Temporary HTML transcript hash: `0e0508515348b2939f536d08373803f287978d99993332fbc55dbe7a6ce5cec6`.
+
+**Panel findings: PASS.** P15.1 contains exactly four whole chimes: small C9 above the northern/left breakwater and three ordinary bells across the eastern storm. Real frames exploit the open landward corridor beneath the reserve. P15.2 joins her intent face, clenched gauntlet, nearby chime and advancing frames; no second hand or miniature person appears. P15.3 opens her own hand into command before the sacrifice, with the real column still moving toward land. The source/script do not bind that command to a particular hand. P15.4 breaks the small chime into jagged silver remnants and closes the ridge route with the broadened cut. The fragments curve landward from the northern burn, distinct from dark wreckage. Exactly three ordinary whole bells remain; no intact small bell survives.
+
+**Choice and state: PASS.** The reserve, recognition, deliberate command and destruction occupy separate readable moments. The remembered request supports the donors' prior consent while Solstice remains the sole living decision-maker. No donor apparition, autonomous bell action or replacement memory is invented. The repaired final figure has intact cloth over her right thigh and the existing small tear/graze at her left hip, viewer-right. Right shoulder/rib marks, nosebleed, wet hair/dress and closed sternum armor persist. Attached hands and the cloth-covered leg pose remain coherent; there is no new wound, premature leg failure or healing.
+
+**Lettering, sequence and style: PASS.** All five exact caption blocks, punctuation and “MAKER'S” apostrophe match the script and remain readable at full, desktop and actual 390-pixel size. “USE US. DO NOT MAKE A SHRINE.” is correctly attributed in the transcript to the smallest-chime maker remembered by Solstice; the image has no live speaker balloon or ghost. All four transcript actions agree with the pixels. Stacked panels and white gutters make the hand opening precede the burn. Crisp contours, hard shadows, flat saturated storm colors and yellow uppercase lettering retain the accepted rendering.
+
+**Actual PDF page 16: PASS.** Independently confirmed its sole embedded image has exact decoded RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and complete edges; Page 15's bookmark targets PDF page 16. Both 864 × 1296 and 390 × 585 actual renders retain all lettering and action without clipping or stretch. No previous-page assembly or reader-control regression was repeated.
+
+**P15-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P16–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
