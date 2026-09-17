@@ -958,8 +958,8 @@
       "id": "page-012",
       "number": 12,
       "path": "pages/page-012.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
       "dependsOn": [
         "R1",
         "R2",
@@ -967,12 +967,56 @@
         "R4",
         "page-011"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style and existing right-rib injury; left-hand numbness begins last panel"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 shelf/bay mouth/eastern ridge geographical sequence"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 C4–C6 burns; six whole survivors including smallC9"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 nonliving human-size machines; many swept into downdraft"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-011.png",
+          "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "role": "Accepted P11 wet injuries and hard-edged storm rendering"
+        }
+      ],
+      "attempts": [
+        "P12-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-012",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "02a66bbc126eaf1b91a486e0ba8938033880c8e3e6bf0f399a2748d743d094e4",
+        "temporaryPreviewSha256": "d1d73e4a37718c6eb6fa349869b24bc7ebde53a8782a29940c9a646a3f75d42b",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-012.pdf",
+        "partialPdfSha256": "e9dc39f911fed539069615ae8eac12b7b73581c75665b98f6bea8a354e83705e",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-13.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-13.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent four-panel source order/geography, exactly6whole survivors, right-rib/left-numbness continuity, all52caption words and PDF13 full/390 PASS."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-013",
@@ -2916,6 +2960,77 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P12-001",
+      "assetId": "page-012",
+      "state": "accepted",
+      "prompt": "Create ONE complete lettered portrait comic page1024x1536, page12 of Solstice Evening Bell. Exactly FOUR stacked full-width panels: a slim decision strip about16% of drawable height, then three action strips about26%,26%,32%; these proportions apply AFTER outer margins and gutters. Broad clean white gutters distinguish separate later moments. Never print page/title/reference labels, numbers apart from the exact captions, or extra text.\n\nATTACHED INPUT ROLES:\n1 Solstice sheet: adult identity, silver hair/blue-gray eyes, white layered armor/dress/boots, bold black ink and hard flat shadows. EARLY BATTLE nosebleed/right shoulder score and STORM injured RIGHT ribs now apply. Ignore HIP GRAZE/AFTERMATH. Her LEFT hand becomes temporarily numb only in last panel.\n2 Western bay: physical geography. Offshore WEST looking EAST means north left, south right; bright shallow shelf OUTSIDE/between breakwater tips, harbor behind and ridge farther east. Match these places, not generic city mountains.\n3 Crown: silver bell shape; C9 uniquely small. Entry nine whole orbiting bells C4–C12; burn4 then5 then6 leaves exactly SIX whole survivors C7–C12. Central focus still invisible beneath opaque sternum armor. No sheet headings/cutaway.\n4 Invasion frame: human-size nonliving charcoal vaned machine geometry; no pilots/faces/people.\n5 Accepted page11: soaked storm state, marked right pauldron/right side, serious rib pain, current face/armor, sharp flat-blue clouds and caption treatment. Not a layout template.\n\nSTYLE: bold crisp black pen contours, saturated navy/cobalt/cyan flat fills, hard-edged lavender-gray armor shadows, white gutters, yellow black-bordered caption boxes, bold condensed uppercase lettering nominal40–44px at1024px width, clearly readable at390px. Reserve broad two-line donor-caption boxes, especially panel3; place its second caption clear of the descending ranks. No painterly clouds, soft airbrush,3D,photoreal texture. Rain throughout. Caption rows get reserved space without covering bells/actions. No ghosts, donor portraits, sentientbells,helpers,weather control, healing,newhip/leg wounds. One solid Solstice per panel where shown. Her RIGHT is viewer-left in frontal views. Nosebleed and RIGHT shoulder/side abrasions persist. No tiara/exposedchestfocus. Chime overloads widen fixed planes into sharp WHITE cuts; silver fragments have jagged incomplete shapes and are never counted as whole bells. Ordinary intact plane surfaces are visible only through intercepted rain or machines.\n\nPANEL1 slimTOP — tactical decision. Wide elevated view east toward ridgelines/empty roads beyond the bay. Solstice floats at one side, wet and guarding RIGHT ribs, directing fixed traps across descending enemy landing routes instead of following phantom swarms. Show two LOCAL sounding chime pairs (four bells) straddling two straight rain/debris intersection lines across landing vectors; other surviving bells are outside this crop, NOT destroyed. No full-array count illustration yet. Distant machine schools approach the barriers. Exact caption:\n\"SHE ABANDONED PURSUIT AND CLOSED THE ROADS EAST.\"\n\nPANEL2 — fourth bell, northern shelf. Wide north-side view above the outer shallow cyan shelf and whitecaps by the NORTH/left breakwater tip. One foreground C4 chime overloads into a broad white cut through black machine ranks; its body already splits into jagged silver pieces. Clearly let silver fragments fall straight down into the foaming northern shelf, distinct from black wreckage. Other whole bells and Solstice may be outside this tight local action view, avoiding a partial array masquerading as a full count. No donor portrait. Caption exactly:\n\"FOURTH: THE WOMAN WHO STAINED EVERY GLOVE WITH VIOLET INK.\"\n\nPANEL3 — fifth bell, bay mouth. Broader view between the two outer breakwater tips; C5 overloads over the bay mouth. Its wide WHITE plane cuts diagonally across the incoming schools and forces many compact streams of machines into a strong DOWNDRAFT: coherent downward-bent rain streaks and dense dark ranks tumbling toward lower cloud/sea make downward force unmistakable. Fractured SILVER C5 debris falls while intact charcoal machines are swept downward; do not make all six thousand explode at once or imply her hands generate wind. Geography matches same bay, northleft/southright. Caption1 at top-left, caption2 lower/right with clear order and large wrapping:\n\"FIFTH: SHE MENDED GLOVES WITH MISMATCHED THREAD AND CALLED MATCHING WASTEFUL.\"\n\"SIX THOUSAND FRAMES SWEPT INTO THE DOWNDRAFT.\"\n\nPANEL4 broadBOTTOM — sixth bell, halfway inland toward ridge. We have advanced east beyond the bay mouth, halfway toward the dark ridge, with harbor/near slope behind in rain. C6 has just overloaded: show its shattered incomplete shell and jagged silver debris falling below a sharp receding white cut through machines; NO whole C6 remains.\nReserve at least260px unobscured art height between captions in this bottom panel. Use a waist-up/upper-thigh foreground Solstice large enough to show BOTH arms: she recoils painfully, eyes squeezed briefly shut, anatomical RIGHT hand rests on same-side marked RIGHT ribs without crossing her torso; anatomical LEFT arm (viewer-right) hangs slack with loose separated gauntlet fingers, making sudden numbness clear. It remains attached and armored, not severed. No new open wound. Closed sternum plate unchanged.\nEXACTLY SIX surviving WHOLE silver bells surround her, in two clear vertical columns of three, three to her viewer-left and three to viewer-right. ONE of the six (bottom of left column) is distinctly smaller C9; the other FIVE are ordinary size. Keep all six unoccluded, separately countable and safely inset from panels/captions. The shattered C6 pieces are small jagged fragments rather than a seventh bell silhouette; place them separately from both surviving-bell columns. Internal neural pain is expressed by her face/posture only, no red eye beams or magic. Donor ink/thread exist only in caption memories, never decorate Solstice's gloves. No other intact bells anywhere in this panel. Two exact captions:\n\"SIXTH: SHE HAD LOOKED AT DEATH AND REFUSED TO CALL IT BEAUTIFUL.\"\n\"SIX ORBITING CHIMES REMAINED.\"\n\nReview four chronologicalpanels, individualdonorcaptionwithcorrectburn, northern shelf→baymouth→halfwayridge geography, rightinjuryremaining/lefthandnumbonlylast, downflowvisible, final6whole(5ordinary+1small), no ghosts or donorillustrations. All words exact.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style and existing right-rib injury; left-hand numbness begins last panel"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 shelf/bay mouth/eastern ridge geographical sequence"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 C4–C6 burns; six whole survivors including smallC9"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 nonliving human-size machines; many swept into downdraft"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-011.png",
+          "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "role": "Accepted P11 wet injuries and hard-edged storm rendering"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "P11 independent PASS saved. Root read exact source/script and inspected actual five inputs. Creator gn_plan checked full draft/currentv0.5: no mechanics blocker; tightened percentages after gutters,40–44px caption allowance,260px bottom art area, separated C6 fragments and six whole bells, right-hand same-side guard/left relaxed. Original text unchanged; no future injury or donor portrait."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:24:45 UTC",
+      "completedAt": "2026-09-17 22:26:37 UTC",
+      "outputPath": "pages/page-012.png",
+      "outputSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-735b763a-d85c-4a69-97e1-912b82fa5180.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-735b763a-d85c-4a69-97e1-912b82fa5180.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved image and actual PDF13 full/390 inspected: four strips, exact donor/order captions, northern shelf whitecaps then baymouth downdraft then sixth loss; six whole survivors3+3 with uniquely small lower-leftC9, shatteredC6 clearly separate. Right-rib guard/left slack attached hand and wet/shoulder state clear. P12.1 has two local visible chimes, not four suggested by prepared composition; approved script does not require a full array or local count and nine survive until burns. All text readable at390 though compact; PDF edges/pixel parity pass.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P12-001-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-012.pdf",
+          "sha256": "e9dc39f911fed539069615ae8eac12b7b73581c75665b98f6bea8a354e83705e",
+          "pdfPage": 13,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-13.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-13.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -3160,6 +3275,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent exact five panels, all49 caption words/silent counterblow, physical grip/right-rib chronology, three further shells, two-bell vertical plane, wet state and PDF12 full/390 PASS."
+    },
+    {
+      "scope": "page-012",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "02a66bbc126eaf1b91a486e0ba8938033880c8e3e6bf0f399a2748d743d094e4",
+      "temporaryPreviewSha256": "d1d73e4a37718c6eb6fa349869b24bc7ebde53a8782a29940c9a646a3f75d42b",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-012.pdf",
+      "partialPdfSha256": "e9dc39f911fed539069615ae8eac12b7b73581c75665b98f6bea8a354e83705e",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-13.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-13.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent four-panel source order/geography, exactly6whole survivors, right-rib/left-numbness continuity, all52caption words and PDF13 full/390 PASS."
     }
   ],
   "approvals": {

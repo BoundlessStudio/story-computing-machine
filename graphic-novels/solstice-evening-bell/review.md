@@ -555,3 +555,32 @@ P10 and all four reference hashes were independently verified unchanged from the
 **Actual PDF page 12: PASS.** Independently decoded its sole embedded image: exact RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and edges; the Page 11 bookmark targets PDF page 12. Inspected its 864 × 1296 and 390 × 585 renders: no crop, stretch, missing content or damaged lettering. This check does not rerun prior PDF pages, reader controls or the separate encoding experiment.
 
 **P11-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P12–P24 and the complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 012 — P12-001 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: P12, its transition from accepted P11 and actual PDF page 13. Re-read the source from abandoning pursuit through six remaining chimes, the exact four-panel script, current lettering guidance, prepared prompt and selected-attempt record. Compared the accepted P11/R1–R4 pixels and verified their hashes unchanged. Inspected the selected 1024 × 1536 PNG, actual PDF renders at 864 × 1296 and 390 × 585, and temporary desktop/390-pixel captures.
+
+Reviewed SHA-256 versions:
+
+| Input | SHA-256 |
+| --- | --- |
+| P12-001 selected image | `7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792` |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Manifest at scoped read | `7ef2cd2395ef148fbf9bef7ca5814c1577bbfb6fd3da448de36f92b3cda37ee6` |
+| `through-012.pdf` | `e9dc39f911fed539069615ae8eac12b7b73581c75665b98f6bea8a354e83705e` |
+| `pdf/full-13.png` | `58cee54090243d4a4a380e8881b399db9f4421ccdab73611f8ffd3ddbb2ed947` |
+| `pdf/reading-13.png` | `9bf93b4b49a54ad363ca8de2d377f3c8eb22199b3ff09d4e9b3c9ec7ced1bd69` |
+
+Temporary evidence root is `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; additional inspected files are `P12-001-reader-desktop.png` and `P12-001-reader-390.png`. P12 transcript data was checked in temporary HTML `d1d73e4a37718c6eb6fa349869b24bc7ebde53a8782a29940c9a646a3f75d42b`.
+
+**Panel findings: PASS.** P12.1 establishes barriers across eastern landing routes, ending the phantom pursuit. Its two visible whole chimes are a local view, not a complete array or a new loss. The approved script does not require the prepared prompt's four local bells; intercepted rain/metal locates the fixed defenses without a new transit or ability. P12.2 places the fourth overload above cyan offshore shallows/whitecaps, beside and clear of the left concrete breakwater. Silver falls into water rather than onto concrete. P12.3 moves between both breakwater tips: the fifth expanded plane redirects dense machine schools visibly downward; the exact six-thousand caption supplies the quantity without claiming six thousand countable drawn shells. P12.4 brings the ridge/harbor nearer and shows the sixth loss as separate jagged fragments. Exactly six whole bells remain, three on each side, with the uniquely small C9 at lower left; the fragments cannot read as a seventh bell.
+
+**State, intent and style: PASS.** Wet hair/armor, prior nosebleed, right-pauldron score and right-rib damage persist. Her right hand guards that same side; the attached left arm and loose fingers become distinctly slack with the sixth-loss recoil. No premature hip wound, healing, exposed focus, extra defender or donor apparition appears. Ink, mismatched thread and refusal to romanticize death remain distinct donor memories, correctly paired with losses four, five and six. Four horizontal panels separate the decision and three sacrifices; white gutters preserve chronology. Crisp contours, saturated flat fields, hard shadow shapes and yellow uppercase captions retain the accepted GN treatment.
+
+**Lettering/transcript: PASS.** Read all six caption blocks, 52 words, including punctuation, at full and actual 390-pixel sizes. The opening and fourth-donor single lines are compact but decipherable without zoom; words remain separated and no letter is clipped. Fifth/sixth captions wrap cleanly. Exact wording, narration attribution and order match the plan and temporary transcript; its four action descriptions match visible events.
+
+**Actual PDF page 13: PASS.** Independently decoded its sole image and confirmed exact RGB parity with the selected PNG under the new lossless encoding. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve edges and aspect; Page 12's bookmark targets PDF page 13. Both actual renders retain all art and lettering without crop or stretch. Earlier PDF pages and reader controls were not rerun.
+
+**P12-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P13–P24 and complete book: NOT REVIEWED.** This verdict is not final user approval.
