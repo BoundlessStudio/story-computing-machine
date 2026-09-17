@@ -1022,8 +1022,8 @@
       "id": "page-013",
       "number": 13,
       "path": "pages/page-013.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
       "dependsOn": [
         "R1",
         "R2",
@@ -1031,12 +1031,56 @@
         "R4",
         "page-012"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style, wet right-rib injury; left-hand control sufficient again"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 distant bay and eastern ridge context only"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 six-to-five bell attrition including unique smallC9"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 narrow files of nonliving vaned shells and failed turn"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-012.png",
+          "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "role": "AcceptedP12 state/flat-color rendering/six bells"
+        }
+      ],
+      "attempts": [
+        "P13-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-013",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "137f160e836a65d8511919d842e5e70769bfd2e54957de80b00f79182ae2de9b",
+        "temporaryPreviewSha256": "6383b2f93bf6495d47466f3547bf4ef88ff658406c280f44d9a77a37d7289750",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-013.pdf",
+        "partialPdfSha256": "9b7d5afe98ce9f893639857985f7b49d8c589ff2c7f45b023a0775cb5f2bd561",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-14.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-14.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent exact captions/readability, trap/transit geometry, seventhloss and5wholechimes, wet/rightinjury continuity and PDF14 pixel/render PASS."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-014",
@@ -3031,6 +3075,77 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P13-001",
+      "assetId": "page-013",
+      "state": "accepted",
+      "prompt": "Generate ONE complete lettered 1024x1536 portrait comic page, page13 of Solstice Evening Bell, exactly THREE stacked panels. Top roughly28%, middle38%, bottom34% of drawable height after margins/white gutters. Top shows narrow machine files, middle makes trap geometry and failed turn clear, bottom gives the seventh loss room. No title/page number/reference labels or unscripted words.\n\nINPUT ROLES in order: (1)Solstice reference: same adult silver-haired, blue-gray-eyed sole living defender, white layered armor/dress, hard black contours and flat shadows. Current EARLY BATTLE nosebleed/RIGHT pauldron marks and STORM RIGHT-rib injury persist. Ignore HIP GRAZE/AFTERMATH. Left-hand feeling returns enough for this page's action; no limp-hand paralysis here. (2)Westernbay geography, subordinate distant background only; dark east ridge/harbor far behind storm. (3)Crown reference for silver bell forms, ONE uniquely smallC9. StartSIX whole C7–C12; burnC7 leavesFIVE, four ordinary plus smallC9. Focus hidden under opaque sternum armor. (4)Enemy reference: human-sized NONLIVING charcoal capsule machines, folding vanes, no faces/pilots/humanoid hands. (5)AcceptedP12: current soaked hair/dress, marked anatomicalRIGHT shoulder/ribs, real ink/flat-blue raincloud rendering and caption language, not a layout template.\n\nSTYLE: crisp bold black contours, saturated flat navy/cobalt/cyan fields, sharp white/cool-gray armor and hard shadows. Graphic flat-edged storm clouds, slanting rain. White gutters and clean heavy black frames. Pale-yellow black-bordered captions in bold condensed uppercase, at least40px, aiming40–44px, comfortably readable at390px. No painterly shading, haze, photographs or3D. The planes are ordinarily invisible, disclosed by interrupted rain/metal only; an overload produces a broader sharp WHITE cut. Bell-step is always one perfectly STRAIGHT luminous connection between TWO whole sounding chimes, with ONE solid Solstice only at destination. No duplicate motion body, curved teleport trail, ghosts, donor portraits or helpers. Preserve serious RIGHT-rib pain, modest existing red marks only. No new injury/healing/exposedchestgem/tiara.\n\nPANEL1 TOP: several very long needle-thin ONE-FILE streams of vaned frames descend through broad unused spaces between the existing rain-revealed defensive corridors. Emphasize how ranks that were broad are now reduced to thin lines, not giant missiles or literal needles. Nearer few shells show recognizable folding vanes and following smaller shells form long thin queues. Tiny silver bells may crop at distant edges; do not show a false full inventory. No Solstice necessary in this tactical view. One yellow caption:\n\"THE HOST BECAME FILES TOO NARROW FOR HER CORRIDORS.\"\n\nPANEL2 MIDDLE: later instant after two chimes have crossed/repositioned. Two whole silver bells now form a broadly HORIZONTAL pair, one at left and one at right. Their clear single straight sounding connection crosses a VERTICAL edict plane, shown as a narrow vertical stripe of broken/interrupted raindrops, never an opaque wall or glowing oval. Contrasting horizontal connection and vertical rain stripe must be readable. The vertical stripe continues well above/below the horizontal sounding line, visible only through interrupted raindrops; it is a tall plane edge, not a cross-shaped projectile.\nSolstice has bell-stepped BEHIND the descending files, arriving beside the far/right bell on the files' rear/upstream side. One entire coherent Solstice, her head/body/boots or intentional mid-thigh framing, no disconnected limbs. Her right side remains guarded/strained; left gauntlet can command again. The files' ORIGINAL travel is from upper-right/rear toward lower-left/front. Right-bell Solstice now clearly occupies their upstream/rear side. The leading machines have turned their noses back up/right TOWARD her; their tilting vanes, wider spacing and downward-sagging flight traces show rain and gravity carrying this turn too far. Use short ordinary ink motion strokes on MACHINES only, not extra glowing transit arcs around Solstice. An oblique scene view may make behind/upstream position clear, but retain only two bell endpoints and one straight step. Do not show many destroyed frames yet; this is the overshoot before the burn. Exact caption:\n\"SHE LET RAIN AND GRAVITY CARRY THEIR TURN PAST RECOVERY.\"\n\nPANEL3 BOTTOM: the SEVENTH chimeC7 overloads, shatters, and its widened VERTICAL white edge slices across the turning files, closing their attempted recovery route. Black machine sections and sparks separate along the cut; jagged SILVER chime fragments fall distinctly. One medium Solstice beside the remaining trap endpoint grimaces through loss, wet silver hair framing her face; same RIGHT shoulder/rib abrasions, chest center closed. Her own decision ends the spell; no spectral donor or second person.\nShow EXACTLY FIVE other WHOLE silver bells, unoccluded and independently countable, four ordinary and ONE distinctly smallerC9. Reserve a dedicated unobscured strip ABOVE the FIVE ORBITING caption and arrange them there in a shallow clear arc; keep the five separate from the SHATTERED C7 debris above. No intact sixth bell or intact shell in the burn area. Do not shrink important text or hide her hands/face behind captions. Two yellow narration boxes in reading order, donor remembrance wrapped into two readable lines at top and count at bottom:\n\"THE SEVENTH HAD ARGUED AGAINST MONARCHY FOR TEN DAYS—THEN VOLUNTEERED FIRST.\"\n\"FIVE ORBITING.\"\n\nCheck exact punctuation including DAYS—THEN, THREE panels, needle-file adaptation→clear vertical trap/rear arrival/overshoot→seventh burn, six-to-five bells with smallC9 retained, active left hand but continuing right-rib pain. Keep all important art/text inside margins.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/style, wet right-rib injury; left-hand control sufficient again"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 distant bay and eastern ridge context only"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 six-to-five bell attrition including unique smallC9"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 narrow files of nonliving vaned shells and failed turn"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-012.png",
+          "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "role": "AcceptedP12 state/flat-color rendering/six bells"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read source/three-panel plan. P12 independently passed. Actual references and P12 inspected. Creator checked complete draft: clear upper-right→lower-left original travel makes right-bell arrival upstream; horizontal two-chime line distinct from vertical interrupted-rain edge; no X teleports. Atleast40px exacttext, reserved five-bell strip clear of C7fragment/countcaption; fourordinary+smallC9, activelefthand/rightinjurypersists."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:39:37 UTC",
+      "completedAt": "2026-09-17 22:41:25 UTC",
+      "outputPath": "pages/page-013.png",
+      "outputSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-a9bad604-bbc8-4c3b-9512-46797ce1088c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-a9bad604-bbc8-4c3b-9512-46797ce1088c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved full PNG and PDF14 full/390 inspected. Three chronologicalpanels, all exactcaptions including DAYS—THEN, thin files/turnovershoot/vertical overload clear. Two horizontal sounding endpoints and one Solstice at right behind streams; vertical rain stripe distinct. Bottom five wholebells (fourordinary+smallC9) in upper arc, separate from visibly jagged brokenC7 pieces and white cut; actual upper arc differs from incidental lower-strip prompt, without changing approved script/count. Wet/right injury persists and arms attached; no hip wound. PDF pixels/edges/legibility pass.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P13-001-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-013.pdf",
+          "sha256": "9b7d5afe98ce9f893639857985f7b49d8c589ff2c7f45b023a0775cb5f2bd561",
+          "pdfPage": 14,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-14.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-14.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -3293,6 +3408,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent four-panel source order/geography, exactly6whole survivors, right-rib/left-numbness continuity, all52caption words and PDF13 full/390 PASS."
+    },
+    {
+      "scope": "page-013",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "137f160e836a65d8511919d842e5e70769bfd2e54957de80b00f79182ae2de9b",
+      "temporaryPreviewSha256": "6383b2f93bf6495d47466f3547bf4ef88ff658406c280f44d9a77a37d7289750",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-013.pdf",
+      "partialPdfSha256": "9b7d5afe98ce9f893639857985f7b49d8c589ff2c7f45b023a0775cb5f2bd561",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-14.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-14.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent exact captions/readability, trap/transit geometry, seventhloss and5wholechimes, wet/rightinjury continuity and PDF14 pixel/render PASS."
     }
   ],
   "approvals": {

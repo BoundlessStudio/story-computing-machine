@@ -584,3 +584,32 @@ Temporary evidence root is `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`
 **Actual PDF page 13: PASS.** Independently decoded its sole image and confirmed exact RGB parity with the selected PNG under the new lossless encoding. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve edges and aspect; Page 12's bookmark targets PDF page 13. Both actual renders retain all art and lettering without crop or stretch. Earlier PDF pages and reader controls were not rerun.
 
 **P12-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P13–P24 and complete book: NOT REVIEWED.** This verdict is not final user approval.
+
+## Page 013 — P13-001 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: selected P13, preceding P12 continuity, exact transcript and actual PDF page 14. Re-read the needle-file/vertical-plane passage through “Five orbiting,” the three-panel script and complete recorded generation prompt. Compared accepted P12/R1–R4 pixels and verified their hashes unchanged. Inspected every panel and word in the saved 1024 × 1536 PNG, actual full/390-pixel PDF renders and temporary desktop/390-pixel captures.
+
+Reviewed SHA-256 versions:
+
+| Input | SHA-256 |
+| --- | --- |
+| P13-001 selected image | `030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821` |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Manifest at scoped read | `0c2422986d445af6e66ac5d42752dfb63b46591edd2c0241ad5f18b288a6ee20` |
+| `through-013.pdf` | `9b7d5afe98ce9f893639857985f7b49d8c589ff2c7f45b023a0775cb5f2bd561` |
+| `pdf/full-14.png` | `3c09111ccb0f1662321f2ac55ae0b3be6026d52fdc2f8f0985b3a970c275c306` |
+| `pdf/reading-14.png` | `37c9d35397bc6045479907812064e61950cf06c4ee45094f1f51f3504d9ed914` |
+
+Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`. Additional inspected captures: `P13-001-reader-desktop.png` and `P13-001-reader-390.png`. Temporary HTML transcript version: `6383b2f93bf6495d47466f3547bf4ef88ff658406c280f44d9a77a37d7289750`.
+
+**Panel findings: PASS.** P13.1 shows long individual files of recognizable vaned machines, with broad gaps between them; these are neither solid giant needles nor new ships. P13.2 separates the horizontal two-chime sounding connection from a vertical stripe of interrupted rain. One complete airborne Solstice stands at the right endpoint, behind/upstream of the machine streams. Their fanned turn, changing spacing and curved machine traces convey the maneuver carried wide; the only bell-step line is straight, with two visible endpoints. The vertical effect remains rain evidence rather than an opaque wall. P13.3 widens that edge into the seventh overload, breaking machines and the chime. The lower-left bell remnant has conspicuously missing jagged sections, distinct from the five complete bells in the upper arc: four ordinary plus the unique small C9. The arc's position differs from an incidental prompt proposal but satisfies the approved script and remains countable at 390 pixels.
+
+**Continuity, intent and rendering: PASS.** Solstice retains adult identity, soaked hair/dress, right-pauldron marks, nosebleed and painful right ribs. Both attached arms/hands can act again; subsequent guarding and recoil do not imply recovery from the rib injury. No hip wound, exposed focus, duplicate figure, donor portrait or helper appears. The donor's opposition to monarchy and first volunteering remain paired with her own seventh loss. Black contours, hard-edged armor/cloud shadows, flat saturated color, yellow captions and white gutters remain consistent with P12 and the references. Three stacked frames lead clearly from adaptation to trap to irreversible loss without a misleading frame crossing.
+
+**Lettering/transcript: PASS.** All four caption blocks match the exact script, including the joined “DAYS—THEN,” periods and “FIVE ORBITING.” Independently read them at full, desktop and actual 390-pixel sizes; no clipped or substituted word appears. The three plain transcript descriptions, narration attribution and reading order agree with the artwork.
+
+**Actual PDF page 14: PASS.** Its sole embedded image decodes to exactly the selected PNG's RGB pixels. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and complete edges. The Page 13 bookmark targets PDF page 14. Actual 864 × 1296 and 390 × 585 renders preserve lettering, gutters and action without cropping or stretch. Prior PDF pages and reader controls were not rerun.
+
+**P13-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P14–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
