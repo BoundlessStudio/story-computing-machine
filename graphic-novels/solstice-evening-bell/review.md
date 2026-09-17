@@ -127,3 +127,51 @@ Recomputed source prose, source prompt, source marker, original cover, STYLE.md 
 - **Unchanged adaptation — PASS retained.** Compared the script-and-coverage section with the previously committed plan: unchanged. It still has 24 pages and 92 panels. This cover addition does not alter the prior source-fidelity, arithmetic, donor, continuity or ending findings.
 
 No blocking findings for the C0 trial brief. Output of this review is this preflight-3 section only. **Actual C0 artwork: NOT REVIEWED. References/pages: NOT REVIEWED. Complete book and reader: NOT REVIEWED. PDF: NOT REQUESTED.** Earlier plan-only verdicts remain historical evidence; this review grants no approval to unseen artwork and records no final user approval.
+
+## Page 001 independent review 1 — PASS
+
+- Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of P01 generation/corrections and the reader.
+- Reviewed: 2026-09-17, approximately 19:21 UTC, in the dedicated worktree.
+- Scope: selected P01-003 / `pages/page-001.png`, all four panels and all visible lettering, full saved pixels and actual reader captures at approximately 390 px and desktop size; current P01 transcript data. Compared with the approved complete script/coverage already read, the relevant source opening, written GN style and actual accepted R1/R2/R3 pixels. Inspected the accepted C0 pixels as adjacent cover context. There is no preceding comic page; P02 does not exist and was checked only as the scripted next state.
+- Browser access limitation: attempted the supplied local reader URL through CUA, which reported no browser; an independent surface inventory returned empty apps and browsers. Therefore this reviewer independently inspected the supplied actual reader screenshot pixels and current reader source, but did not personally exercise live navigation, zoom, theme controls or the transcript disclosure. No interactive-reader PASS is claimed.
+
+### Exact reviewed versions
+
+Edition paths are relative to `graphic-novels/solstice-evening-bell/` unless otherwise stated.
+
+| Input/output | SHA-256 |
+| --- | --- |
+| Selected output `pages/page-001.png`, 1024 × 1536 | `4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d` |
+| Current `edition.html`, including repaired transcript order | `066c31275d05e507ccf9768880770d9e5748acbc4bab28d8b63b9abe7867c73e` |
+| `edition.json` at final review read | `6a84fef47b740f05115f61d863264a50f7d73ea89fe70da516b53613d6988626` |
+| R1 `references/solstice-evening-bell.png` | `cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c` |
+| R2 `references/western-bay.png` | `42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a` |
+| R3 `references/thirteen-tone-crown.png` | `2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208` |
+| C0 `cover.png` | `e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca` |
+| `plan.md` | `be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2` |
+| `graphic-novels/STYLE.md`, worktree-relative | `be004194e8bd90cb3e3fe7a0ba0ab6dea53ffa7090a6c01f18729be924cbfafb` |
+| Source `stories/solstice-evening-bell/05-story.md`, worktree-relative | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| External evidence `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-003-reader-390.png` | `744ac2b2434c2f05ae53f2ac2855c6aff1d0b08e55b1f98bb93a5b9cb86d1bd2` |
+| External evidence `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-003-reader-desktop.png` | `18b58993fc52c1768278875b4e000dca76d7fd8089907c7bb06a082c846ec12d` |
+
+The screenshots show the same selected four-panel artwork. The desktop capture's transcript is collapsed; the later reader change reordered transcript entries only, not the depicted page. This review certifies the selected P01-003 image, not earlier P01-001/P01-002 candidates. Actual attempts and generation provenance remain in the coordinator's manifest.
+
+### Panel and lettering inspection
+
+| Panel | Result and evidence |
+| --- | --- |
+| P01.1 | **PASS.** One small airborne Solstice above the empty bay, north breakwater left and south road/right breakwater consistent with R2; eastern ridge behind the town, stars and cloud, no invasion or helpers yet. Exact yellow caption: “THE INSTRUMENTS WENT BLIND NINE SECONDS BEFORE THE SKY OPENED.” |
+| P01.2 | **PASS.** The road/board detail follows the geography above. Exact caption: “SHE HAD ORDERED EVERY BATTERY AND AIRCRAFT BEYOND THE EASTERN RIDGE.” The red board reads “ULTRAHUMAN ASSETS IN EXCLUSION ZONE: 1”. The red display and yellow narration remain distinct; no unplanned speech or extra text appears. |
+| P01.3 | **PASS.** Armored hand has a coherent wrist and distinct fingers resting over intact opaque sternum armor; no jewel or wound. Face crop, hair, layered pauldron and bodice agree with R1's clean state. Exact caption: “THE FORCE WAS HERS. THE CROWN GAVE IT PRECISION.” |
+| P01.4 | **PASS.** Six separately visible chimes at left and six at right: twelve total, all intact. The small lower-left chime is uniquely smallest; no hidden thirteenth orbiting focus. The concealed central resonator, bare head, clean costume, adult identity, relaxed armored hands and upward attention fit the source opening and R1/R3. Exact caption: “TWELVE LAST SPELLS, FREELY MADE. THE THIRTEENTH TONE WAS HER OWN.” |
+
+### Page-wide gates
+
+- **Reading path and transitions: PASS.** The wide establishing panel leads to the middle-left public board, middle-right private sternum detail, then the full-width figure/halo. Crisp frames and continuous white gutters keep four distinct moments; captions do not conceal required action. There is no inset/overlap ambiguity, frame crossing or speech tail to misread. The last upward gaze and intact crown state lead coherently into P02's remembered gifts.
+- **Rendering and continuity: PASS.** Heavy black contours, controlled flat blue fields, hard angular armor shadows, yellow boxes and bold uppercase words retain the written GN treatment and accepted reference style. Wave/hair detail remains subordinate to readable shapes. No IL wash, hatching field, photographic rendering, ghost donor, autonomous helper or premature injury is introduced.
+- **Full-size and reading-size lettering: PASS.** Independently read every caption and board word in the saved 1024 px page and both actual reader captures. At 390 px the compact lettering remains distinguishable and readable without relying on a transcript or zoom; the number 1 remains clear. This is an observed readability judgment, not an assumption that image generation honored a requested font size. The desktop capture shows the complete page without image clipping.
+- **Transcript content: PASS by source inspection.** Current P01.1–P01.4 text matches the image's exact words and speakers. Independently verified the coordinator's P01.2 correction: narration precedes the board entry, matching visible top-to-bottom order. Essential actions, twelve chimes and hidden focus are represented. Actual disclosure/keyboard behavior was not independently tested.
+
+**Blocking findings: none. Page 001: PASS for this exact selected image and the stated static reading-preview scope.** This establishes the page treatment within the approved plan and permits the sequential P02 preparation gate. It does not upgrade the coordinator's reference/cover decisions into a separate independent review of those assets, certify future pages, or constitute user approval.
+
+**P02–P24: NOT REVIEWED. Complete book: NOT REVIEWED. Live reader navigation/accessibility behavior: NOT REVIEWED by this reviewer. PDF: NOT REQUESTED.**

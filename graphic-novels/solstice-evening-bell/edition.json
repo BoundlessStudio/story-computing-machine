@@ -285,8 +285,8 @@
       "path": "references/invasion-frame.png",
       "kind": "object",
       "subject": "Nonliving human-sized invasion frame",
-      "status": "planned",
-      "sha256": null,
+      "status": "assistant-accepted",
+      "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
       "dependsOn": [
         "R1"
       ],
@@ -313,7 +313,13 @@
         "page-022",
         "page-023"
       ],
-      "inspection": null
+      "inspection": {
+        "evidence": "One machine type across closed/open/side views; plain nonliving faceless shell, hinged angular vanes, needle aperture and one cropped interlock. Human-scale rule no invented meter value. No cockpit/person/giantvessel. Crisp outlined navy/silver hardshadows; exactlabels.",
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390
+      }
     }
   ],
   "pages": [
@@ -321,22 +327,49 @@
       "id": "page-001",
       "number": 1,
       "path": "pages/page-001.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
       "dependsOn": [
         "R1",
         "R2",
         "R3"
       ],
-      "actualDependencyVersions": [],
+      "actualDependencyVersions": [
+        {
+          "path": "references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "id": "R1"
+        },
+        {
+          "path": "references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "id": "R2"
+        },
+        {
+          "path": "references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "id": "R3"
+        }
+      ],
       "attempts": [
         "P01-001",
-        "P01-002"
+        "P01-002",
+        "P01-003"
       ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-001",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+        "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+        "reviewFileSha256": "40322ce84d864fc4142e095d4d98263a8e7329811e3c0a0209b257e53e1bd04c",
+        "readerSha256": "066c31275d05e507ccf9768880770d9e5748acbc4bab28d8b63b9abe7867c73e",
+        "evidence": "review.md#page-001",
+        "limitation": "Full actualimage and actual390px/desktop reader captures inspected. Reviewer couldnotexercise livecontrols; coordinator did. Completebook andfuturepages notcertified."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-002",
@@ -1242,7 +1275,7 @@
     {
       "id": "P01-002",
       "assetId": "page-001",
-      "state": "prepared",
+      "state": "revise",
       "prompt": "Make ONE localized correction to this finished four-panel comic page. Input1 is the complete correction target; input2 is Solstice's accepted identity/armor/flat comic-rendering sheet; input3 is the accepted equipment geometry sheet. Preserve the 1024x1536 canvas, ALL FOUR panels, every border/gutter, all five existing lettering blocks EXACTLY, the bay geography, empty road, red arrows, sign and chest-hand contact. Preserve the one adult woman's face, clean armor, hair, anatomy, pose and clothing in all panels.\n\nCorrect ONLY the silver chime count in the BOTTOM FOURTH PANEL. It currently has FIVE on the left and FIVE on the right (ten total). The finished bottom panel must have EXACTLY SIX whole chimes on the LEFT of Solstice and SIX on the RIGHT, twelve total. Keep the existing five on each side in their same approximate positions. Add ONE additional whole regular-size silver bell in the open lower-left dark sky centered around x115,y1370, above and to the left of the bottom caption and left of her cape. Add ONE additional whole regular-size bell in the open lower-right dark sky centered around x890,y1390, above and to the right of the bottom caption and beyond her arm. These two additions must be clearly separate from the other ten, fully within the bottom panel, not covered by text or cloth. A regular bell should be about55–65px tall in these lower slots, with its domed/flared silver form, one clapper and small top finial like input3. No text or C numbers on bells.\n\nThe existing smallest LEFT bell around x175,y1285 represents C9: keep that ONE uniquely smallest, about35–40px high. Enlarge the existing tiny lowest RIGHT bell around x820,y1305 to a regular55–65px high bell centered at that same location, clearly separate from Solstice's forearm, caption and new lower-right bell. No other bell should be as small as C9. Upper bells can remain larger by perspective; do not change them into ships or lanterns.\n\nCount the final bottom-panel objects as 6 LEFT + 6 RIGHT = 12. There is still just ONE woman in this panel. Do not add any bell elsewhere on the page, duplicate the woman, add a head crown, reveal the hidden sternum focus, make connecting cords/lines, introduce a rupture/enemy or change any words. The exact bottom caption must stay:\nTWELVE LAST SPELLS, FREELY MADE. THE THIRTEENTH TONE WAS HER OWN.\n\nPreserve all passing page regions. Maintain bold clean black contours, broad flat blue/white/silver fills, hard-edged shadow steps and yellow captions; do not repaint the page or change its palette. Output ONE corrected complete comic page, never a crop or contact sheet.",
       "inputs": [
         {
@@ -1266,17 +1299,32 @@
         "coordinator": "Full saved target inspected. Open dark sky exists at both specified slots beyond cape/arm and above caption. Add two not four: target has5+5. Enlarge lowright smallbell to preserve unique C9. Preserve all words and anatomy; three inputs withinlimit."
       },
       "tool": "image_gen.imagegen",
-      "toolProvenance": null,
-      "startedAt": null,
-      "completedAt": null,
-      "outputPath": null,
-      "outputSha256": null,
-      "inspection": null
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b061-6f2b-78a3-ac5b-006b085db75c/exec-d2bbbc38-4973-4ea2-9359-0988e2efb0b8.png",
+        "height": 1536,
+        "modelVariant": null,
+        "width": 1024,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ]
+      },
+      "startedAt": "2026-09-17T19:11:08Z",
+      "completedAt": "2026-09-17T19:12:29Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-002.png",
+      "outputSha256": "8324206c48f2253114476017dc2e3351300d0885caae6938e5325c1447806a09",
+      "inspection": {
+        "verdict": "REVISE",
+        "fullSize": true,
+        "reviewer": "coordinator",
+        "evidence": "Six left bells now correct; right has only five. Exact text and four panels preserved, C9 unique smallest. Add one right bell in empty lower-right sky only."
+      }
     },
     {
       "id": "R4-001",
       "assetId": "R4",
-      "state": "prepared",
+      "state": "accepted",
       "prompt": "Create ONE object-design reference sheet for a roughly HUMAN-SIZED NONLIVING INVASION FRAME from a comic. Landscape1536x1024, plain near-white background. The sole attached character sheet is for bold clean BLACK INK, broad FLAT fills and HARD-EDGED shadow rendering, plus approximate human proportion context ONLY. Do not draw the woman, armor costume, person, ghost, donor, injuries or character-sheet labels.\n\nThis is ONE machine type seen in several technical views, not several creatures or an army. Design a roughly upright human-sized smooth featureless dark shell with slender FOLDING VANES hinged around its central body. The closed shell is compact; the vanes open outward into a distinct angular silhouette and can fold back against it. No face, eyes, cockpit, pilot, mouth, skull, organic tissue, humanoid hands/feet, decorative humanoid armor or weapons turret. It is not a giant spacecraft. Use charcoal/navy body fills, restrained storm-blue planes and thin near-white hard edge accents, no glossy chrome or painted modeling.\n\nAcross the top/main area show three separated views of exactly this SAME object design:\n1 LEFT: compact shell with vanes folded closed, full height visible. A simple vertical scale rule next to it is labeled APPROXIMATE HUMAN SCALE, with no person silhouette and no numerical height claims.\n2 CENTER: front three-quarter full object with its same folding vanes open. Keep it visually the same size and machine identity as view1. Show real hinge geometry and coherent connections; no floating unrelated blades.\n3 RIGHT: side view of the same open frame, showing shell depth and hinged vanes, not a different machine type.\n\nBottom LEFT: a close technical detail of the shell's small NEEDLE APERTURE with one thin metal needle projectile just emerging, its straight path indicated by a short plain arrow. This is a metal needle, not beam/flame/missile/ammunition belt.\nBottom RIGHT: an enlarged cropped VANES INTERLOCKING detail where one vane of this frame fits against a single cropped neighboring frame's vane/shell edge. This demonstrates nonliving synchronized lattice geometry, not a giant combined creature, living grasp or magical rope. Only necessary partial neighboring geometry, not another full frame view or an army.\n\nUse confident heavy outlines and crisp flat cel shadows like the accepted character reference. White gaps separate the views. Only these exact black bold condensed uppercase comic labels may appear, no C labels or story narration:\nINVASION FRAME\nCLOSED\nOPEN\nSIDE\nAPPROXIMATE HUMAN SCALE\nNEEDLE APERTURE\nVANES INTERLOCKING\n\nDo not print duplicate labels, extra words, credits or watermarks. No battle scene, location, portal, chimes, queen, donor spirit, ally, aircraft, faces, body damage or blood. These diagrams establish geometry only; the machines are nonliving equipment. Everything must fit uncut within the single reference canvas.",
       "inputs": [
         {
@@ -1287,15 +1335,81 @@
       ],
       "preflight": {
         "verdict": "PASS",
-        "coordinator": "Actual R1 inspected; source/plan specifies human-size nonliving featureless shell, folding vanes, needle attacks and interlocking lattice. One coherent equipment design; adjacent partial frame is same type, no extra named identity. Three body views plus two details fit landscape; scale label introduces no invented size number. Generation deferred until after page2 per development order."
+        "coordinator": "Actual R1 inspected; source/plan specifies human-size nonliving featureless shell, folding vanes, needle attacks and interlocking lattice. One coherent equipment design; adjacent partial frame is same type, no extra named identity. Three body views plus two details fit landscape; scale label introduces no invented size number. Independent reference can be developed alongside page1 review: it uses acceptedR1 only and is required beforepage3. No future comic page is prepared/generated before preceding PASS; asset count/style/content unchanged."
       },
       "tool": "image_gen.imagegen",
-      "toolProvenance": null,
-      "startedAt": null,
-      "completedAt": null,
-      "outputPath": null,
-      "outputSha256": null,
-      "inspection": null
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "width": 1536,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "height": 1024,
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-a4b902c8-61dc-4303-986c-b3b8845a6f32.png"
+      },
+      "startedAt": "2026-09-17T19:20:34Z",
+      "completedAt": "2026-09-17T19:21:10Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/R4-001.png",
+      "outputSha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+      "inspection": {
+        "evidence": "One machine type across closed/open/side views; plain nonliving faceless shell, hinged angular vanes, needle aperture and one cropped interlock. Human-scale rule no invented meter value. No cockpit/person/giantvessel. Crisp outlined navy/silver hardshadows; exactlabels.",
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390
+      }
+    },
+    {
+      "id": "P01-003",
+      "assetId": "page-001",
+      "state": "accepted",
+      "prompt": "Edit the FIRST attached comic page with ONE tiny localized addition. It has eleven silver bells in its bottom panel: SIX on the left and FIVE on the right. ADD EXACTLY ONE NEW WHOLE SILVER BELL in the empty dark-blue lower-right sky at pixel center (900,1400), about60px tall, safely ABOVE/RIGHT of the yellow caption and to the RIGHT of the woman's hand. The final bottom panel must have SIX existing left bells plus SIX right bells, TWELVE total. Keep all ELEVEN existing bells untouched in their current positions, including the unique smallest bell on the left. Do not replace or move an existing bell; add a genuinely new separate twelfth bell at (900,1400). It should match the silver domed/flared bells with one clapper and finial in input3. No string, label or glow.\n\nPreserve absolutely everything else: ALL FOUR PANELS, 1024x1536 canvas, gutters, white margins, exact five lettering blocks, yellow caption placement, red hazard-board text, empty bay and geography, and the adult Solstice's clean face, silver hair, armor, five-fingered hands, pose and body. Input2 anchors her accepted identity/rendering only. No new person, no head tiara, no new focus, no wounds, no rupture or invaders. The extra bell is confined to the empty dark sky of the bottom panel. Do not crop, repaint or relayout any region. Return the corrected FULL PAGE.",
+      "inputs": [
+        {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-002.png",
+          "sha256": "8324206c48f2253114476017dc2e3351300d0885caae6938e5325c1447806a09",
+          "role": "Target with11bells; add exactly one to emptylower-right."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Preserve clean adult identity/armor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Bellgeometry."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "coordinator": "Full actual target confirms6left5right. Newslot x900y1400 clear of all existing objects/caption. Simplified one-addition edit avoids simultaneousresizeandcount instructions; text/anatomy unchanged."
+      },
+      "tool": "image_gen.imagegen",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-d85d1232-be9a-4bd2-9d34-89010a615ef3.png",
+        "height": 1536,
+        "modelVariant": null,
+        "width": 1024,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ]
+      },
+      "startedAt": "2026-09-17T19:15:18Z",
+      "completedAt": "2026-09-17T19:16:00Z",
+      "outputPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P01-003.png",
+      "outputSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+      "inspection": {
+        "reviewer": "coordinator",
+        "verdict": "PASS-for-independent-review",
+        "readingWidth": 390,
+        "evidence": "Actual saved full page and390reader screenshot inspected:12bells6eachside, C9 unique small; exact4captions+sign; clean adult, hiddenfocus, feasible hand contact, bay geography,4panels and obvious readingpath. No invasion/injury. Narrow caption letters read at390; independent readability verdictpending.",
+        "fullSize": true
+      }
     }
   ],
   "reviews": [
@@ -1345,6 +1459,18 @@
       "evidence": "review.md#cover-change-preflight-3--pass",
       "reviewFileSha256": "e77d435a68f457b15e4db2fc9e042d0c43897ad3206d929ea5bd9308aa7a23b3",
       "limitation": "Prepared cover brief only; generated cover pixels not yet reviewed."
+    },
+    {
+      "scope": "page-001",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+      "planSha256": "be2d7793e915923b0bbaa61e923ef01e7777c5fde79c5ccb78f70d7a819045e2",
+      "reviewFileSha256": "40322ce84d864fc4142e095d4d98263a8e7329811e3c0a0209b257e53e1bd04c",
+      "readerSha256": "066c31275d05e507ccf9768880770d9e5748acbc4bab28d8b63b9abe7867c73e",
+      "evidence": "review.md#page-001",
+      "limitation": "Full actualimage and actual390px/desktop reader captures inspected. Reviewer couldnotexercise livecontrols; coordinator did. Completebook andfuturepages notcertified."
     }
   ],
   "approvals": {
@@ -1447,6 +1573,21 @@
       "noFitOverflow": "PASS",
       "evidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/cover-reader-390.png",
       "limitations": "Only cover exists; page navigation tests await page1"
+    },
+    "readerPage1Checks": {
+      "prevNextJump": "PASS",
+      "limitation": "Only coverandpage1; completebooknotreviewed.",
+      "keyboardHomeEnd": "PASS",
+      "noHorizontalOverflow": "PASS",
+      "transcriptExactFiveBlocks": "PASS",
+      "futurePagesUnavailable": "PASS",
+      "themeFilter": "none",
+      "version": "P01-003",
+      "viewport": 390,
+      "zoomFitWidths": [
+        1024,
+        390
+      ]
     }
   }
 }
