@@ -1086,8 +1086,8 @@
       "id": "page-014",
       "number": 14,
       "path": "pages/page-014.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
       "dependsOn": [
         "R1",
         "R2",
@@ -1095,12 +1095,58 @@
         "R4",
         "page-013"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/current wetrightinjury; LEFThipgraze onlylast; noaftermath"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 samebay/ridgecontext"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 five-to-fourchimes; ordinaryC8burn and smallC9survives"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 human-sizecollision shell geometry and back/heelcontact"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-013.png",
+          "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "role": "AcceptedP13 currentstate/flatinkstyle/fivebells"
+        }
+      ],
+      "attempts": [
+        "P14-001",
+        "P14-002",
+        "P14-003"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-014",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "8e73cc78b9a77c9f8134fc498d43ac4ec6d239005f04e24d3da138b55ec46ea7",
+        "temporaryPreviewSha256": "4c14d12604bbaad5a62dc1c33af42c8873f9c480b15b5689e82097f34f5860a4",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-014.pdf",
+        "partialPdfSha256": "ef0eaae14439590a61182cb71d43512f8f1c506aa417b2a5b24bbc2444b99700",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-15.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-15.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent heel contact, first left-hip graze, four whole chimes, existing injury continuity, exact captions/readability and PDF15 pixel/render PASS."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-015",
@@ -3146,6 +3192,199 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P14-001",
+      "assetId": "page-014",
+      "state": "rejected-coordinator",
+      "prompt": "Generate ONE complete lettered portrait comic page1024x1536: page14 of Solstice Evening Bell. Exactly FOUR panels: a full-width upper attack panel about26% drawable height; two equal side-by-side middle panels about40% (burn on left, later heel push-off on right); a full-width bottom close graze panel about34%. Percentages exclude white gutters/margins. Read top→middle-left→middle-right→bottom. Converging attack diagonals stop inside the top panel, never cross into later time. No page number,title,reference headings,unscripted lettering or sound effects.\n\nINPUT ROLES:\n1 Solstice sheet: adult identity, silver hair/blue-gray eyes, white segmented armor/dress/boots, crisp black contours/flat shadows. Current nosebleed, scored anatomicalRIGHT pauldron, injured RIGHT ribs. HIP GRAZE reference becomes applicable ONLY in final panel: anatomicalLEFT hip, minor shallow red line and torn fabric. AFTERMATH is future, exclude.\n2 Western bay: continuing storm over same bay, northleft/southright when looking east, harbor/ridge distant; no new cities.\n3 Crown: start FIVE whole bells C8–C12. Burn ordinaryC8, leaving THREE ordinary whole bells plus ONE uniquely smallC9. Hidden thirteenth focus stays under closed sternum armor, no cutaway/labels.\n4 Invasion frame: human-sized nonliving dark vaned capsule shells, clear broad armored back for impact in middle-right; no pilots/faces/humanoid arms.\n5 AcceptedP13: actual wet state, existing RIGHT shoulder/rib marks, same face/costume/rain/flat-blue clouds, five-bell entry count; not a layout template.\n\nSTYLE: bold black ink, saturated flat navy/cobalt/cyan, hard cool-gray/lavender armor shadows, high-contrast WHITE overload cut, white gutters/heavy panel borders. Definite graphic cloud shapes, no painterly/soft3D treatment. Yellow black-outlined narration boxes, bold uppercase condensed comic letters, at least40px; wrap captions on multiple lines in middle panels rather than shrink text. Reserve action/figure/counting space. One Solstice per panel, coherent twoarms/twolegs. No motion duplicates. No helpers, donor ghosts/portraits, floating music notes, healing or later leg failure. Serious RIGHT-rib pain persists; left hand usable again. Only panel4 introduces LEFT-hip graze. Sternum remains opaque, no exposed central gem or head crown.\n\nPANEL1 TOP — two-sided collision assault. Two dense swarms of roughly human-size vaned collision shells approach from opposite LEFT and RIGHT sides toward TWO exposed upper ordinary chimes. Many small machines indicate thousands, not two giant machines. Both chimes are now diving toward one another above bay: show ONE whole bell per side at CURRENT lowered position, with two straight descending motion strokes from high left/high right toward the current bells; their routes converge low near center inside this panel, but the TWO CURRENT bells remain individually spaced, never fused into one. No duplicate old-position bells; no curved paths. Solstice can remain outside this tight tactical view. Only these two local bells visible; other three are outside crop, not lost yet. Exact caption:\n\"TWO THOUSAND COLLISION SHELLS. TWO EXPOSED CHIMES.\"\n\nPANEL2 MIDDLE-LEFT — later instant at convergence. Solstice has reached the two bells' convergence and CROSSES HER ARMORED FOREARMS firmly in front of her OWN closed chest, with hands separate from bells. One adult figure, wet hair/dress, strained injured right side. The eighth chimeC8 is actively SHATTERING beside her: clearly jagged broken silver sides, not an intact extra bell. Its broadened sharp WHITE edict catches the approaching opposing machine swarms AND the schools beneath; dark vaned shells break and fall down beyond the lower part of the view. A second ordinary whole sounding chime survives beside her; other survivors are outside this close crop. No donor ghost or musical symbols. Exact caption, wrap into FOUR lines at40px if needed; reserve ample room for crossed arms and breaking chime:\n\"THE EIGHTH WOMAN'S OFF-KEY MARCHING SONG STOPPED THREADING THE CROWN.\"\n\nPANEL3 MIDDLE-RIGHT — later exact HEEL PUSH-OFF moment. After an earlier knee-first landing, a machine's broad back already has a visible knee-shaped dent. Show ONLY the subsequent push: Solstice's anatomicalRIGHT boot HEEL firmly drives into that dent, splitting the horizontal charcoal shell beneath her. Heel/back CONTACT is clear at a small impact burst. Same right boot visibly connects to lower leg/knee/body; her OTHER knee is lifted away and no longer contacts the shell. Arms balance her painful body, wet dress lifted by motion but modest. One dynamic solid pose, no earlier knee pose duplicated and no extra feet/limbs. Broken shell pieces begin separating down while she pushes upward; no human pilot or organism.\nReserve roughly300px clear action height after three-to-four lines of remembrance text and the separate count box. The machine is human-sized, not an enormous platform. Her right heel/ankle stays aligned beneath its own shin, other knee visibly lifted. Exactly FOUR WHOLE floating silver chimes visible in background, unoccluded in a simple2+2 arrangement beside the figure: THREE ordinary and ONE distinctly smallerC9. These remain in SKY, not touching machinery; do not add a fifth. No hip tear yet in this panel. Two captions:\n\"SOLSTICE STILL REMEMBERED IT. THE SPELL WOULD NEVER SING AGAIN.\"\n\"FOUR ORBITING.\"\n\nPANEL4 BOTTOM — first LEFT-hip graze and ignored deception. Large three-quarter frontal view, head to upper thighs, body turning enough to expose anatomicalLEFT hip on viewer-RIGHT. A thin projectile skims the OUTSIDE of that left hip through loose white fabric just above the side armor, tearing a narrow strip and leaving a small shallow red linear graze (match HIP GRAZE state), no penetrating wound, no blood spray. Show the needle already outside the cloth immediately past the tear, never as a lodged spear with a short clear flight stroke; don't place injury on right hip or center abdomen. Her existing RIGHT shoulder/rib injury remains on viewer-LEFT and her right hand guards that side. Face set, eyes looking purposefully away from a faint SUBJECTIVE dotted phantom-machine contour in cloud off to one side. Dotted contour is a false perception, not a real new enemy/ghost. She ignores it rather than turning to attack. Hair/dress soaked and windblown. Exact caption:\n\"ANOTHER FALSE MASS. THIS TIME SHE IGNORED IT.\"\n\nVerify chronological4panels, two converging bells then C8shatters, single heel/back contact after prior knee dent,4survivors3ordinary+smallC9, firstLEFThipgraze onlylast, rightinjurycontinues, exact words and uppercase/hyphen/apostrophe. No printed notes or additional lettering.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity/current wetrightinjury; LEFThipgraze onlylast; noaftermath"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 samebay/ridgecontext"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 five-to-fourchimes; ordinaryC8burn and smallC9survives"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 human-sizecollision shell geometry and back/heelcontact"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-013.png",
+          "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "role": "AcceptedP13 currentstate/flatinkstyle/fivebells"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "P13 independently passed. Read exact4-panel script/source and inspected inputs. Creator checked fullpreparedprompt: allow4lines middlecaption at40px;300pxheel/contactart; separatedcurrentbells, forearmscrossownchest, bootheelalignedshin, prior-kneedentonly(noextrabody), human-sizedshell, projectilepastLEFTfabric notlodged. Fourwhole3ordinary+smallC9; sourceinjurychronology and exacttext retained."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:55:42 UTC",
+      "completedAt": "2026-09-17 22:57:33 UTC",
+      "outputPath": "pages/page-014.png",
+      "outputSha256": "5eab906f99357c5882445c333cfb3758cfa9fa655a652a1d681b62f30ef56f42",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-7f22f730-665e-42ba-aef5-ea7ea96fb19c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-7f22f730-665e-42ba-aef5-ea7ea96fb19c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Fourpanels/exactcaptions/4wholechimes/armcross/hpgraze chronology present. P14.3 boot points toe-first at impact, heel source contact not clear. P14.4 needle flight stroke passes well above graze/cloth tear and needs alignment. Preserve passinglayout/count/text/identity."
+      }
+    },
+    {
+      "id": "P14-002",
+      "assetId": "page-014",
+      "state": "rejected-coordinator",
+      "prompt": "Edit only the LAST attached image, the complete page14 comic. Other four attachments guide established Solstice identity, bay, bells and machine. Preserve EXACTLY all four panel borders/layout, EVERY caption word/punctuation/placement, two converging bells and swarms in top, crossed arms/broken eighth bell in middle-left, FOUR whole bells in middle-right (threeordinary+onesmall), face/hair/costume/colors/rain in all panels. No added panels, words or effects. Two narrowly targeted physical-contact fixes:\n\n1 MIDDLE-RIGHT panel: fix ONLY the lower boot contacting the dark machine and its immediate dent/impact. It currently appears to strike toe-first. The story requires a HEEL push-off. Keep the same connected shin/ankle, the same ONE body and the other bent leg/raised boot. Rotate/rearticulate the contacting foot so its HARD REAR HEEL sits firmly in the dent in the machine's broad back, directly beneath the ankle, while the pointed TOE angles slightly UP and clear of the metal. Put the small impactburst/shellcrack directly UNDER THE HEEL, not at the toe. Show the older broad knee dent in the metal around this heel contact; no additional knee/body/foot, no second pose. Preserve ordinary human-sized machine geometry and splitting shell sections.\n\n2 BOTTOM panel: align the needle and its straight motion stroke with the existing LEFT-hip graze and torn white cloth (viewer-right hip). Move the one needle DOWN from its currently too-high waist-level path. It should be already clear of cloth, farther to viewer-right, on a straight shallow rising-to-right line that visibly extends OUT from the narrow red graze/tear around x480,y1370 toward the free needle around x850,y1335 (coordinates approximate on1024x1536). The needle is NOT lodged in her. Keep wound a shallow narrow nongraphic graze, not a deep cut. Preserve clothing tear, face looking away from dotted false mass, right hand guarding existing right-rib injury, all other anatomy and framing. Do not add a second needle or leave the old high flight line.\n\nNo other changes. Deliver the entire corrected1024x1536 page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity and injury-side guidance"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 unchangedbay"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 unchangedbellgeometry/count"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 knee-dented machine back and splitting contact"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-014.png",
+          "sha256": "5eab906f99357c5882445c333cfb3758cfa9fa655a652a1d681b62f30ef56f42",
+          "role": "P14-001 correction target: heel contact and needle/graze alignment"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Inspected full actualtarget. Two localized pose/contact issues; keep existing connected leg/other raisedboot and move only contactingfoot/impact, align singleneedle outsideexistingLEFTtear. Exactwords/count/layout passing preserved; no need newstorybeat or extrafigure."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 22:59:39 UTC",
+      "completedAt": "2026-09-17 23:01:15 UTC",
+      "outputPath": "pages/page-014.png",
+      "outputSha256": "3a21712e89899df75db78d08e5390e1d4ed713e061718efa7f239731108971ef",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-535713fd-66e1-44f7-97c2-6c3597b0a52c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-535713fd-66e1-44f7-97c2-6c3597b0a52c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Heel contact nowclearlyrearheelunderankle withtoeup and noextrabody. Alltext/counts preserved. Needle moved too far down: its longtrail remains belowexistingredhipgraze. Simplify to a short dash and horizontal projectile at grazeheight without a long connectingtrail crossingfigure."
+      }
+    },
+    {
+      "id": "P14-003",
+      "assetId": "page-014",
+      "state": "accepted",
+      "prompt": "Targeted edit of LAST attached complete page14. Preserve the entire image including every caption, panel, figure, all FOUR bells, corrected HEEL contact in middle-right, bottom red LEFT-hip graze and torn white fabric, bottom face/hand/body. Change ONLY the single needle projectile and its thin white-blue motion line in the bottom panel.\n\nThe current needle at far lower-right and its long diagonal line are TOO LOW, beneath the red graze. Erase that needle and the ENTIRE old long diagonal line, restoring the underlying white dress and blue water unchanged.\n\nPlace ONE short slender silver needle in the open area to the RIGHT of her hanging left gauntlet, at the SAME HORIZONTAL HEIGHT as the upper red graze on her exposed left hip. The graze is just below the waistband at the TOP of the exposed skin. Do not align to the knee or bottom of exposed thigh. The new needle is free of cloth/body, pointing right, around x850,y1370 on1024x1536. Give it only a SHORT horizontal motion dash immediately behind the needle in the open area, roughly x750–820 at that same height. Do NOT draw a long line across the body/hand/fabric. This is the instant just after it skimmed the hip and has flown beyond her. Do not add/change any wound, tear, limb or finger.\n\nEverything else identical; one entire corrected comic page1024x1536.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 sameidentity/currentinjury"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 backgroundrepaironly"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 preserveallbells"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 thinprojectiledesignonly"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-014.png",
+          "sha256": "3a21712e89899df75db78d08e5390e1d4ed713e061718efa7f239731108971ef",
+          "role": "P14-002 edit target: retaincorrectedheel; only replace low longneedletrail with short horizontaldash at existinggrazeheight"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Priorcorrectionfixedheel butneedlemovedtoo low. Simplified prompt: deleteoldlongline; smallfreeprojectile+shortdash at upperredgrazeheight to rightofgauntlet, nofigurecrossing. Allotherpassingregionspreserved; not a new injury."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:03:14 UTC",
+      "completedAt": "2026-09-17 23:04:40 UTC",
+      "outputPath": "pages/page-014.png",
+      "outputSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-b8fc239f-657c-427d-bff4-91fee513f166.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-b8fc239f-657c-427d-bff4-91fee513f166.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Inspected entire saved PNG and PDF15 full/390 after both edits: exact fourpanels/allcaptions, top2separatebells straightdivingroutes, crossedforearmsatC8burn,4wholechimes3ordinary+smallC9, contactingheel nowunderankle/toeraised and shellsplit, finalLEFT hipgraze/tear onlythere withfreeprojectile/shortdash and falsemassignored. Existingwet/rightinjurystate retained, nolegfailure. Other raisedleg mostlycoveredbydress; no extra motionbody. PDFpixels/edges/legibility pass.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P14-003-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-014.pdf",
+          "sha256": "ef0eaae14439590a61182cb71d43512f8f1c506aa417b2a5b24bbc2444b99700",
+          "pdfPage": 15,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-15.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-15.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -3426,6 +3665,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent exact captions/readability, trap/transit geometry, seventhloss and5wholechimes, wet/rightinjury continuity and PDF14 pixel/render PASS."
+    },
+    {
+      "scope": "page-014",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "8e73cc78b9a77c9f8134fc498d43ac4ec6d239005f04e24d3da138b55ec46ea7",
+      "temporaryPreviewSha256": "4c14d12604bbaad5a62dc1c33af42c8873f9c480b15b5689e82097f34f5860a4",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-014.pdf",
+      "partialPdfSha256": "ef0eaae14439590a61182cb71d43512f8f1c506aa417b2a5b24bbc2444b99700",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-15.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-15.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent heel contact, first left-hip graze, four whole chimes, existing injury continuity, exact captions/readability and PDF15 pixel/render PASS."
     }
   ],
   "approvals": {

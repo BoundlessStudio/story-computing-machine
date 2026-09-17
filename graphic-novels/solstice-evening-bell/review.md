@@ -613,3 +613,32 @@ Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`. 
 **Actual PDF page 14: PASS.** Its sole embedded image decodes to exactly the selected PNG's RGB pixels. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and complete edges. The Page 13 bookmark targets PDF page 14. Actual 864 × 1296 and 390 × 585 renders preserve lettering, gutters and action without cropping or stretch. Prior PDF pages and reader controls were not rerun.
 
 **P13-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P14–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 014 — P14-003 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: the entire selected P14 after the coordinator's two contact/projectile repairs, P13 continuity, exact transcript and actual PDF page 15. Re-read the source from the opposing collision attack through the ignored false mass, the four-panel script and all three recorded attempt prompts/findings. Compared accepted P13/R1–R4 pixels and verified unchanged dependency hashes. Inspected the saved 1024 × 1536 page, full/390-pixel PDF renders and temporary desktop/390-pixel captures.
+
+Reviewed SHA-256 versions:
+
+| Input | SHA-256 |
+| --- | --- |
+| P14-003 selected image | `64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373` |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Manifest at scoped read | `00a0d732555c33e26ea5129a7b59b22a04a15521eaf8e3d5824ad9b1c0a92927` |
+| `through-014.pdf` | `ef0eaae14439590a61182cb71d43512f8f1c506aa417b2a5b24bbc2444b99700` |
+| `pdf/full-15.png` | `f134f9d80d6d2792c9bc671769301c8a6bbb635e924a1d0f6d8023184398c258` |
+| `pdf/reading-15.png` | `b38823b59f7a18d69a510c4d1cc681db3d534185b9fe9a9fd38b52cadbe3e558` |
+
+Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; additional inspected captures: `P14-003-reader-desktop.png` and `P14-003-reader-390.png`. Temporary HTML transcript hash: `4c14d12604bbaad5a62dc1c33af42c8873f9c480b15b5689e82097f34f5860a4`.
+
+**Panel findings: PASS.** P14.1 shows two opposing machine swarms and two distinct chimes diving on straight converging routes above the established bay. No duplicate earlier-position bells appear. P14.2 shows one Solstice with crossed forearms, a shattered eighth chime and the broadened edict breaking the approaching shells and ranks below. P14.3 depicts one later heel push-off: the connected shin/ankle lead to a rear heel pressed into the already-dented shell, with the toe raised clear and cracks/fragments beneath the contact. Her other leg is substantially hidden by the moving dress; the single pose remains coherent, without a detached foot or duplicate knee-impact body. Exactly four whole bells remain in two pairs, three ordinary and one small C9. P14.4 first introduces the left-hip cloth tear and shallow red graze. The short free projectile lies beyond her hip, with no long misplaced line across her body or a lodged spear. Her gaze turns away from the dotted subjective mass.
+
+**Continuity and intent: PASS.** Adult face, wet hair/dress, right-pauldron score, nosebleed and right-rib injury persist. The hip injury is absent before the final panel; no leg failure, healing, exposed focus, donor apparition or second defender appears. The remembrance captions explicitly retain Solstice's own memory while ending the spell's song permanently. Clear gutters and the top/left-middle/right-middle/bottom route preserve the attack, sacrifice, push-off and graze chronology. Crisp contours, hard shadows, saturated flat color and graphic storm shapes continue the accepted GN style.
+
+**Lettering/transcript: PASS.** Read every word and punctuation mark in all five caption blocks against the script, including “WOMAN'S,” “OFF-KEY,” both remembrance sentences and “FOUR ORBITING.” They remain legible in full, desktop and actual 390-pixel views. The four temporary transcript descriptions, literal lettering, narration attribution and order accurately match the selected pixels.
+
+**Actual PDF page 15: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and edges; the Page 14 bookmark targets PDF page 15. Inspected actual 864 × 1296 and 390 × 585 renders without clipping, stretch or lettering damage. Earlier PDF pages and reader controls were not rerun.
+
+**P14-003 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P15–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
