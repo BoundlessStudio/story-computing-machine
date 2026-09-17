@@ -528,3 +528,30 @@ Reviewed `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/edition-preview
 Render evidence digest: `149a615a6d13619867c301a300380207d239c50165943587b557741472b911c6`, computed as SHA-256 of UTF-8 LF-joined `filename + space + file SHA-256` lines for full-01 through full-11, then reading-01 through reading-11, with no final LF. This binds the exact 22 inspected render files without creating another evidence artifact.
 
 **Delivery migration and this eleven-page partial assembly: PASS; blocking findings: none. PDF: REQUESTED, PARTIAL ASSEMBLY REVIEWED.** The partial PDF does not contain P11–P24 or the ending. No complete-book fidelity/pacing verdict, fresh final-review verdict, publication authorization or final user approval is issued. **P11–P24 and the complete 25-page PDF book: NOT REVIEWED.**
+
+## Page 011 — P11-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: selected P11 only, its P10 transition, exact script/transcript and PDF page 12. Re-read the false-pulse/collision source passage through the roads-east decision, the approved five-panel script and both recorded P11 attempts. Inspected the actual selected PNG at 1024 × 1536, accepted P10 and R1–R4 pixels, full/390-pixel PDF renders and temporary desktop/390-pixel reading captures.
+
+Reviewed SHA-256 versions:
+
+| Input | SHA-256 |
+| --- | --- |
+| P11-002 selected image | `18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0` |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current plan | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Manifest at scoped read | `328b6e4fa86052f5497a95a2b5aeaeae7d5b95b2751d40aaa749935eb8177c5c` |
+| `through-011.pdf` | `16e5af24a5577a4734b6c7858e6667f5124369d3369c20fe3c54a04a3f41635b` |
+| `pdf/full-12.png` | `b5b44e0a5c06f74eb92702db78730ac2cafccb342d9c6801c36a6a24f3dc6686` |
+| `pdf/reading-12.png` | `2c298b54911738efb5f3cf46e5273c7d328c86af6cdb32bb3e4d67f004bdfcf2` |
+
+P10 and all four reference hashes were independently verified unchanged from their recorded accepted versions above. Temporary evidence root: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`; additional inspected captures: `P11-002-reader-desktop.png` and `P11-002-reader-390.png`. Temporary HTML inspected for P11 transcript data only: `fbb5fa5acdf4c3e593e719e9968e16448342931b2237f059d9f03c28938bcc4c`.
+
+**Panel findings: PASS.** P11.1 distinguishes the subjective dotted northern mass from solid machines and keeps the prior wet/nose/shoulder state. P11.2 gives the first human-scale shell convincing contact against anatomical right ribs; her unbalanced torso, two sounding endpoints and straight arrival remain readable. P11.3 is silent: an attached articulated hand grips the shell shoulder, the split occurs at the horizontal rain/metal intersection, and exactly two vertically paired whole bells straddle it. No opaque platform or unrelated projectile appears. P11.4 now contains exactly three additional intact attackers, separated in depth; her guarded right side and unreachable next chime convey the further impacts without an extra body. P11.5 maintains that injury and turns attention toward the eastern ridge and harbor routes. No new bell loss, exposed focus, hip wound, leg damage or left-hand numbness appears.
+
+**Lettering, continuity and reading: PASS.** Read every visible word and punctuation mark against the script: five caption blocks, 49 words total, with no added text in the central panel. Both final captions retain their correct order and narration attribution. The temporary transcript's five plain action descriptions and literal lettering agree with the pixels. The upper pair, broad counterblow and lower pair establish clear chronology through white gutters; hands, armor and silhouettes remain distinct. Adult identity, segmented costume, wet state, crisp black contours, flat saturated blues and hard shadows follow the accepted references and P10. All captions remain readable at 390 pixels, including the compact opening and lower-left blocks.
+
+**Actual PDF page 12: PASS.** Independently decoded its sole embedded image: exact RGB parity with the selected PNG. The 432 × 648-point media/crop boxes, zero rotation and full-page transform preserve aspect and edges; the Page 11 bookmark targets PDF page 12. Inspected its 864 × 1296 and 390 × 585 renders: no crop, stretch, missing content or damaged lettering. This check does not rerun prior PDF pages, reader controls or the separate encoding experiment.
+
+**P11-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P12–P24 and the complete book: NOT REVIEWED.** No final user approval is certified.

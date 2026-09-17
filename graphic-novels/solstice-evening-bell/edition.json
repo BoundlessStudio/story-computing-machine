@@ -893,7 +893,7 @@
       "id": "page-011",
       "number": 11,
       "path": "pages/page-011.png",
-      "status": "awaiting-independent-review",
+      "status": "independent-pass",
       "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
       "dependsOn": [
         "R1",
@@ -934,8 +934,22 @@
         "P11-002"
       ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
+        "scope": "page-011",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "8e661ef9f1aab737179f58a2dc7d7041c0bdb825291d0226e8fd4e47ad7800bd",
+        "temporaryPreviewSha256": "fbb5fa5acdf4c3e593e719e9968e16448342931b2237f059d9f03c28938bcc4c",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-011.pdf",
+        "partialPdfSha256": "16e5af24a5577a4734b6c7858e6667f5124369d3369c20fe3c54a04a3f41635b",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-12.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-12.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent exact five panels, all49 caption words/silent counterblow, physical grip/right-rib chronology, three further shells, two-bell vertical plane, wet state and PDF12 full/390 PASS."
       },
       "width": 1024,
       "height": 1536
@@ -2835,7 +2849,7 @@
     {
       "id": "P11-002",
       "assetId": "page-011",
-      "state": "coordinator-selected-awaiting-independent-review",
+      "state": "accepted",
       "prompt": "Edit the LAST attached image (page11 candidate) only. First four images are accepted identity/style, bay, silver bells, and machine geometry references. Preserve exactly the five panels, every yellow caption word/punctuation/placement, all Solstice figures/anatomy/identity/wet state, right-side damage, established black ink/flat color, and all passing upper/lower-right content. Two localized corrections:\n\n1) Bottom-left panel currently has FOUR intact attackers around the injured Solstice. It must have exactly THREE, as the caption says. Remove ONLY the small mid-distance machine near the center-right of that panel (around x333,y1174 of1024x1536), between the upper small machine and the lower near machine. Fill its former area with matching uninterrupted rain and flat-blue cloud. Retain the large upper-right rebounding shell, the small upper-middle receding shell, and the near lower-right receding shell. Preserve the separate intact silver bell at right, her guard over anatomical RIGHT ribs, and all text.\n\n2) Broad middle silent panel: continue the preceding page's clear TWO-BELL VERTICAL PAIR holding a HORIZONTAL rain-revealed plane. Keep the existing upper-left silver bell around x133,y545. MOVE the existing upper-right bell to lower-left around x133,y846, below the horizontal plane, making it about half the upper bell's apparent size if necessary to fit the left rain margin without covering the figure or changing her costume. Remove its old upper-right location and downward ray, replacing with ordinary rain/cloud. Draw ONE straight thin sounding connection between upper-left and lower-left bell, crossing the horizontal plane; it must terminate at these two whole bells. Keep the current horizontal plane at y739, rain interruption, black machine split/blue flare, and her gripping hand and full figure unchanged. No third bell. The plane is only a thin rain/metal-intersection line, no solid floor or portal.\n\nEverything else must remain the same. No added lettering, headings, labels, or page numbers. Deliver one entire corrected1024x1536 comic page.",
       "inputs": [
         {
@@ -3128,6 +3142,24 @@
       "pdfSha256": "77962bb1c6dd689e9c28b9dfd20543fda6fa61f7f449e703bd6a4d8749b205d6",
       "reviewFileSha256": "cba2e100c702956bff761052c694f505639e669fd860779f4eef58f125426df2",
       "evidence": "review.md: all22 full/390 renders, lossless embedded image parity, order, proportions/bookmarks; complete book remains unreviewed"
+    },
+    {
+      "scope": "page-011",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "8e661ef9f1aab737179f58a2dc7d7041c0bdb825291d0226e8fd4e47ad7800bd",
+      "temporaryPreviewSha256": "fbb5fa5acdf4c3e593e719e9968e16448342931b2237f059d9f03c28938bcc4c",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-011.pdf",
+      "partialPdfSha256": "16e5af24a5577a4734b6c7858e6667f5124369d3369c20fe3c54a04a3f41635b",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-12.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-12.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent exact five panels, all49 caption words/silent counterblow, physical grip/right-rib chronology, three further shells, two-bell vertical plane, wet state and PDF12 full/390 PASS."
     }
   ],
   "approvals": {
@@ -3347,6 +3379,17 @@
       "scope": "Seven GN instruction/doc diffs, TOML parsing and no non-GN scope drift",
       "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
       "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f"
+    },
+    "pdfLosslessEncoding": {
+      "verdict": "PASS",
+      "reviewer": "coordinator",
+      "beforePath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-011.pdf",
+      "beforeSha256": "16e5af24a5577a4734b6c7858e6667f5124369d3369c20fe3c54a04a3f41635b",
+      "afterPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/encoding-check.pdf",
+      "afterSha256": "e00a6207d140a91f1efc490d15835ec9be9bbcbd18bd7759055b61ab399ba93e",
+      "beforeBytes": 48889011,
+      "afterBytes": 31073946,
+      "evidence": "Original RGB PNG IDAT streams embedded with lossless PNG predictors. All12 embedded RGB images equal selected original pixels; all12 full Poppler render PNG hashes identical to prior unoptimized PDF. Original PNGs untouched. Future assemblies use this encoding; final25-page rendering/review still required."
     }
   }
 }
