@@ -403,3 +403,28 @@ Independently recomputed source, plan and STYLE: unchanged from the precise vers
 **Reading/style/transcript: PASS.** Damage → command → widened cut → personal cost reads clearly through the top pair, broad action panel and separated final pause. No overlap or frame crossing confuses sequence. Crisp contours, flat saturated fields, hard shadows, white gutters and yellow uppercase captions remain consistent. Independently read every word and punctuation mark at full size and 390 px, including the long final caption. All transcript descriptions, exact lettering and speaker attribution match the selected pixels; temple contact is accurately side-neutral. No broad live-control regression was needed.
 
 **Page 007: PASS; blocking findings: none.** Assistant review only. **P08–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
+
+## Page 008 independent review 1 — PASS
+
+Reviewer: `graphic_novel_reviewer`, agent `/root/gn_preflight`, independent of production/correction; 2026-09-17. Scope: complete selected P08-002 at 1024 × 1536 and actual supplied 390 px/desktop reader captures, all six captions and current transcript. Re-read the source northern/third-loss passage through “Their last works did not,” approved P08/P09 script, and compared previously reviewed full coverage, P07 and unchanged R1–R4 reference state. P08-001 was not independently reviewed here.
+
+Reviewed SHA-256 versions:
+
+- P08-002: `11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe`.
+- Reader: `a72cbb9164da6778fa029a32ccbd9a7d784bc85e1fc721522373b5009871d874`.
+- Manifest at read: `eeac0f4b082dd4debfdc34ade1bfe2ecb14492afd0f355a764412a16601b45dc`.
+- Evidence under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/`: `P08-002-reader-390.png` — `512822ee921ba36ef413f99bd591496ea8fc140641ad69fb2237868cb916e596`; `P08-002-reader-desktop.png` — `8af802c73386438653ea4d94a5067c677c510375afe940d4500794f1b5f8af4f`.
+
+Source, plan and STYLE hashes were independently recomputed and remain the precise versions recorded above. Preceding P07 remains `c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb`; the previously inspected R1–R4 versions remain the reference comparison, without new acceptance claims.
+
+**P08.1: PASS.** One whole airborne Solstice commands the northern/image-left corridor. The damaged second chime overloads there; the widened cut and falling silver lead toward the northern breakwater, distinct from P07's southern loss. Surrounding equipment is a partial view, not a new full-crown count. Both exact captions preserve before-failure timing and the second donor's tea-burning particular; no living donor or autonomous equipment acts.
+
+**P08.2: PASS.** The attention shift and exact “TEN ORBITING.” mark the intermediate state before the third loss. Cropped chimes do not assert a complete visible count. Adult identity, nosebleed and anatomical right-pauldron score continue correctly, with no additional wound.
+
+**P08.3: PASS.** Exactly two foreground machine shells pinch the third chime from opposite sides, with plausible contact. Its overload cuts vertically downward through the host, with silver descending to the offshore shelf between the breakwater tips. The long caption is exact, including “NIGHT—AND,” shaking hands, coronation night and volunteering anyway. It retains the third donor's willing agency without a portrait, soul or apparition.
+
+**P08.4: PASS.** Independently counted nine intact survivors: five image-left and four image-right, including one uniquely small C9. Three separate residue trails remain toward north, south and the intervening shelf. Solstice's right gauntlet contacts intact sternum armor naturally; the central focus stays hidden. Pained breathing and prior injuries persist without later damage. Both exact captions retain the nine-tone count and distinguish the remembered women from their ended works.
+
+**Flow/style/readability/transcript: PASS.** Four full-width panels alternate loss and reaction, preserving C2 → ten → C3 → nine without merging times or locations. Black frames and white gutters protect the reading path; no overlap or frame crossing obscures action. Crisp contours, flat saturated fields, hard-edged shadows and yellow uppercase captions remain consistent. Independently read every caption at full size and 390 px, including the donor sentence and em dash. All six narration entries and four plain action descriptions match the selected pixels and panel order. No broad live-control rerun was needed.
+
+**Page 008: PASS; blocking findings: none.** Assistant page review only. **P09–P24 and complete book: NOT REVIEWED. PDF: NOT REQUESTED.**
