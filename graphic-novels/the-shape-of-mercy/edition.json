@@ -363,17 +363,31 @@
       "path": "references/bellweather-hall-damaged.png",
       "subject": "Same Hall geography at N3; broken doors/windows, overturned table, pillar, far gallery, ice barrier",
       "consumers": "Page 6; 6–11, 13–15, 17–18",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+      "attempts": [
+        "R09-attempt-01",
+        "R09-attempt-02"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T22:15:07.5772388Z",
+        "assetSha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+        "evidence": "Inspected actual native and390px pixels. One coherent empty R08 Hall in N3, same stone/timber structure, left supporting pillar/gallery, fireplace separate from passages, head table and side windows. Overturned foreground table supplies sheltered floor, glass/slush and damaged doors/windows read. Thick physical ice blocks left/side passages and, after narrow correction, orchard doorway; upper ashfire outside remains visible. All candles dark, no projected blue wards, no people or text. Crisp contours, hard shadows and graphic fills match accepted references and Page005 aftermath."
       },
       "plannedInputs": [
         "R08",
         "R01",
         "R02"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R09-attempt-02"
     },
     {
       "id": "R10",
@@ -2622,6 +2636,130 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "344757a4c55af02bdb88b5636a391e1d79d46e254a4b327b765176a8a242ceee",
         "evidence": "Independent PAGE005 PASS at native/768/390: all page gates including exact readable text, three blocked passages, ice/ward distinction, extinguished candles, source/adjacent continuity and Marcus final-panel left-sleeve injury; no blocking findings."
+      }
+    },
+    {
+      "id": "R09-attempt-01",
+      "assetId": "R09",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T22:05:47Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE coherent environment reference,1024x1536 portrait: Bellweather Hall immediately AFTER the ice/lightning disaster, stateN3. No people or creatures. Single continuous interior perspective, no montage, diagram, labels or text.\n\nINPUT ROLES:\nImage1 is the SAME Hall's intact GEOMETRY: preserve the room's tan dressed stone, dark timber ceiling and left gallery/balcony, supporting pillar, far-gallery inner doorway, head-table/chimney breast, side-passage door beside it, broad orchard double doorway and tall windows on RIGHT. Use essentially the same room/camera relationship, not another hall. Its intact furniture/glass/lighting state is overridden below.\nImages2 and3 are accepted Adrian/Evelyn sheets for RENDERING STYLE ONLY: match bold crisp black contours, broad saturated flat fills and hard-edged shadows. Import no identities, people, clothing, faces, headings or sheet layout. Avoid soft/photo/3D drift, gradients, blur, bloom, washes or hatching.\n\nREQUIRED N3 DAMAGE/CONTINUITY:\nThe broad orchard doors on RIGHT have exploded inward: retain their recognizable frame, broken dark wooden leaves/hinges and splinters. ALL orchard-side tall window glass is shattered, with frame/mullions surviving. Night outside, orange-white orchard ASHFIRE still active beyond, charred nearest vegetation visible; this supplies limited warm light.\nEvery ordinary candle in chandelier, wall sconces and tabletop holders is EXTINGUISHED: intact candle sticks with BLACK unlit wicks, NO tiny flame, glow or halo anywhere indoors. Cold blue ambient/ice light and outside ashfire illuminate the room. NO projected blue rectangular magical ward panes: Rowena's wards have failed and gone dark. Blue shapes here must be thick physical water-ice, not shields.\n\nThe foreground supper table from the left row is OVERTURNED ON ITS SIDE, broad wooden tabletop facing the threat/right, legs visible. It provides a clear low sheltered floor pocket behind/on the near-left side, large enough for two people to crouch or lie later; show that space empty and legible. Do not make a hollow box, intact standing table or impassable heap. Adjacent surviving LEFT supporting pillar remains intact and accessible, correctly related to the opposite gallery as in Image1, with room at its base to sit. Keep table shelter/pillar positions understandable for later close scenes.\nOther furniture is displaced: a few chairs down, skewed white tablecloths, scattered cups/plates, broken glass and wet slush on stone floor. Preserve navigable patches around the table shelter; no excessive rubble obscuring all routes.\n\nA substantial uneven wall of FROZEN WATER divides the main threat/threshold zone from the far LEFT gallery, penning the gallery while shielding it. It is pale cyan, translucent thick ice with white frosted facets, recalling a collapsed frozen wave; not a cave full of random spikes. Frost also spreads along courtyard/threshold floor.\nShow exactly THREE actual blocked exit openings, recognizable despite ice:\n- Far-gallery inner doorway on LEFT.\n- Floor-reaching side-passage door BESIDE/RIGHT of the central chimney breast, beyond the head table's right edge.\n- Broad broken orchard doorway on RIGHT.\nEach has visible jamb/lintel/threshold and ice sealing its opening. One double doorway counts as one. Keep the central FIREPLACE a recognizable unlit fireplace with mantel, raised hearth and dark back; never turn it into an exit or add an iced doorway under its mantel. Do not invent extra rooms or portals.\n\nThe distant head-table area and gallery remain structurally recognizable, with no unnecessary building collapse. No humans, animals, antlers, weapons, blood, magical threads, active lightning or independent magical objects. Whole scene fully opaque and readable at390px. Match the accepted sheets' strong outlines/flat graphic color while retaining this precise same-room geography and damaged state.",
+      "inputImages": [
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "same Hall geometry/camera/doors/windows/gallery/pillar; N0 state overridden with N3 damage"
+        },
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; no identity/people/heading"
+        },
+        {
+          "id": "R02",
+          "path": "references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "accepted GN rendering style only; no identity/people/heading"
+        }
+      ],
+      "preflight": {
+        "adjacentContinuityInspected": {
+          "path": "pages/page-005.png",
+          "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+          "attached": false
+        },
+        "evidence": "Actual accepted R08/R01/R02 and selected Page005 aftermath pixels already inspected; all current hashes verified. One N3 environment, table shelter/pillar/gallery/three true exits; distinguish hearth and side passage, extinguish every candle, no active projected wards."
+      },
+      "completedAt": "2026-09-18T22:09:49Z",
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef293295-acbd-4885-9811-2a8aecff74e1.png",
+      "outputSha256": "ccb5e447344f2c9ffc3b2fd74c853eae74a3b9d9a8e4afa15a73e6231ecb9c90",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef293295-acbd-4885-9811-2a8aecff74e1.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ef293295-acbd-4885-9811-2a8aecff74e1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T22:09:49Z",
+        "sizes": [
+          "native1024x1536 entire environment",
+          "390x585 preview"
+        ],
+        "findings": [
+          "Orchard doorway remains largely open above low ice/broken leaves, so sealing of that required exit is weaker than the other two."
+        ],
+        "passing": "Same R08 room/geometry, readable empty overturned-table shelter and intact left pillar, far-gallery/side-passage ice, dark candles, broken orchard glass/doors, slush, separate unlit hearth, no people or projected wards.",
+        "disposition": "Proposed narrow physical-ice barrier correction at orchard doorway only; coordinator notified."
+      }
+    },
+    {
+      "id": "R09-attempt-02",
+      "assetId": "R09",
+      "kind": "reference-edit",
+      "preflightAt": "2026-09-18T22:11:06Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit this SINGLE environment reference with ONE local correction: seal the broad broken ORCHARD DOORWAY at the RIGHT edge with thick physical water-ice. The opening is currently too open above low ice and broken wood.\n\nRaise a continuous irregular wall of pale-cyan FROZEN WATER across the doorway's LOWER and CENTRAL opening, reaching roughly adult chest/head height and spanning its full visible width between the jambs. A person must clearly be unable to walk through or step over it. Make it thick, solid, uneven/faceted, with white frost edges and natural frozen-wave contours matching the existing physical ice elsewhere in this image. NOT a thin blue rectangle, projected ward, glowing force-field or curtain. Keep enough of the UPPER opening unobstructed to see the ongoing orange-white orchard ashfire outside. Preserve the broken wooden door leaves/framing and their recognizable damage around/in front of the new ice.\n\nChange nothing else: same tan-stone/wood Hall geometry, left gallery and intact supporting pillar, other two blocked exits, separate dark fireplace and side passage, overturned foreground table and clear sheltered floor pocket, displaced chairs, glass/slush, white cloths, broken windows and outside ashfire. Every ordinary candle remains extinguished with dark wicks. No active ward panes, humans, animals, text or labels.\n\nMaintain1024x1536 opaque portrait dimensions, crisp bold black outlines, flat saturated colors and hard-edged shadows. Do not introduce blur, bloom, soft texture or photographic/3D rendering. This is only the orchard exit's solid-ice sealing correction.",
+      "inputImages": [
+        {
+          "id": "R09-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef293295-acbd-4885-9811-2a8aecff74e1.png",
+          "sha256": "ccb5e447344f2c9ffc3b2fd74c853eae74a3b9d9a8e4afa15a73e6231ecb9c90",
+          "role": "sole edit target; strengthen physical ice sealing of orchard doorway only"
+        }
+      ],
+      "preflight": {
+        "evidence": "Target native/390 inspected; coordinator agrees narrow orchard-exit physical-ice correction only, preserving upper ashfire view and all room/shelter geometry."
+      },
+      "completedAt": "2026-09-18T22:13:39Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-cf511619-7bde-465a-af99-409ad479e0b3.png",
+      "outputSha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+      "candidatePath": "references/bellweather-hall-damaged.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-cf511619-7bde-465a-af99-409ad479e0b3.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-cf511619-7bde-465a-af99-409ad479e0b3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T22:13:39Z",
+        "sizes": [
+          "native1024x1536 entire environment",
+          "390x585 preview"
+        ],
+        "findings": [
+          "Orchard doorway now sealed through lower/central opening by thick irregular pale-cyan physical water-ice, leaving upper ashfire view; no walk-through gap.",
+          "Same R08 room geometry, empty overturned-table shelter, surviving left pillar/far gallery and other ice-blocked doors remain clear at390px.",
+          "Separate unlit hearth and side passage, shattered doors/window glass, scattered cups/glass/slush and outside ashfire preserved.",
+          "All ordinary candles dark, no active projected wards, people, creatures, labels or text; opaque image with crisp outlined hard-shadow structure."
+        ],
+        "disposition": "Suitable candidate for coordinator review; no independent PASS or user approval."
       }
     }
   ],
