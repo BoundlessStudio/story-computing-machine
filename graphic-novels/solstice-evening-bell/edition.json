@@ -1544,8 +1544,8 @@
       "id": "page-021",
       "number": 21,
       "path": "pages/page-021.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
       "dependsOn": [
         "R1",
         "R2",
@@ -1553,12 +1553,57 @@
         "R4",
         "page-020"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult Solstice current wet injured/kneeling state; right hand moves from ribs to focus, left braces ground."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geography for physical north→shelf→south arc and open southern end."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Dead jagged silver and intact thumb-sized central resonator under palm; all orbiting bells excluded."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Physical interlocked capsules/vanes crossing residue."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-020.png",
+          "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "role": "Accepted P20 current lattice, low pose, failed right leg, LEFT hip/RIGHT shoulder/ribs and rendering."
+        }
+      ],
+      "attempts": [
+        "P21-001",
+        "P21-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-021",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "877d45db2c25e0402bde050478634dd8b51cd8df3548a3c500f7777cb361a92b",
+        "temporaryPreviewSha256": "bf43648730b4fc929ae983feb52ba9420ba5becfd8a59af8d829897ada1e049d",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-021.pdf",
+        "partialPdfSha256": "a0b500adfaa4f4131cffc6421d32e03c10a5fdfe0a30ae3112cf22709a1550c8",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-22.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-22.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P21-002 PASS: twelve separated residue trails and physical lattice crossings, grounded living contact/intact focus before release, no restored bells or new wound; all captions/full390 PDF page22/RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-022",
@@ -4566,6 +4611,138 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P21-001",
+      "assetId": "page-021",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished1024x1536 portrait comic page21, Solstice Evening Bell. FOUR distinct full-width panels stacked top-to-bottom: broad high-oblique physical arc38%; close material crossing18%; medium kneeling contact24%; close face/hand20%. Black borders, white gutters, bold ink, hard flat navy/cobalt/silver color, graphic rain, yellow uppercase condensed narration40–44px with natural wrapping. All words exact below; no title/page number/labels/SFX. Match accepted page20.\n\nRefs1 single adult Solstice identity/current wet state: RIGHT shoulder/right ribs wounds, nose trace, LEFT hip graze and torn skirt only, RIGHT leg failed so kneeling, RIGHT thigh intact cloth.2 bay geometry: northLEFT, southRIGHT from offshore WEST looking inlandEAST, sea shelf outside tips, ridge behind.3 broken silver shapes and central THUMB-SIZED silver oval resonator inset UNDER sternum plate; NO whole bells permitted.4 nonliving human-size capsule frames and physical vanes/interlocks.5 page20 actual lattice, cracked southern concrete, low pose and injury sides. Exclude all sheet headings and intact orbiting bells. All12 bells are permanently gone; no royal-hearing rings, teleport lines, donor ghosts or autonomous silver magic. Central focus intact, no cracking/crushing/white inverse wave yet.\n\nPANEL1: grounded high oblique offshore overview, with the real bay mouth lattice spanning north/LEFT to south/RIGHT tips. The lattice consists of open-jointed metal vanes and pointed capsule bodies with water visible through gaps. Across water/concrete, EXACTLY TWELVE SHORT SEPARATE TRAILS of dull broken silver fragments collectively describe ONE interrupted U-shaped arc from north breakwater, out across offshore shelf foreground, to southern concrete. Make the12 trails visually countable as discrete groups with small dark gaps: THREE short fragment trails along the NORTH/LEFT arm, SIX along the broad offshore bottom curve, THREE along the SOUTH/RIGHT arm. Each trail is a narrow group of a few jagged silver chips; not a whole bell, bead string, drawn number, arrow, twelve glowing lines or sentient path. Dark water/concrete under them separates white-gray metal from sparse foam. The physical lattice repeatedly crosses this distributed silver arc; do not hide crossings under captions. At farRIGHT southern open end, tiny kneeling Solstice may mark the final contact point; arc remains open there, no giant complete glowing circle. Crop out high sky/rupture to give material geography room. Caption above artwork:\n\"THE MESH HAD LEARNED EVERY FREQUENCY. IT HAD MADE ITSELF A PERFECT CONDUCTOR.\"\n\nPANEL2: close physical detail at an actual crossing. A dark mechanical vane interlocks with a neighboring capsule while physically passing across dead jagged silver pieces on wet concrete/at the water edge. Readable solid contact/overlap, not a floating symbolic overlay. Only a faint subdued silver-white edge shimmer indicates dying residue, no active spell/bright beam/ghost/whole bell reforms. Caption:\n\"THE BROKEN CHIMES COULD CALL NO POWER. THEIR FRAGMENTS HELD ONLY THE LAST DYING RESIDUE.\"\n\nPANEL3: Solstice remains KNEELING on cracked SOUTHERN concrete at the open end of the broken silver trail. One body; RIGHT knee down from failure, LEFT hip wound persists; near/far shoulder wounds on correct anatomical sides. LEFT palm braces on the ground beside the physical silver trail. Her RIGHT palm now presses over the tiny central resonator at her STERNUM. The palm covers most of it: at most a small edge of a dull THUMB-SIZED silver oval is visible in a small inset armor recess under her hand, following reference3. The surrounding armor remains intact/opaque, no exposed chest skin, big breast jewel, pendant, hole through body or cutaway anatomy. Her living body contacts ground and focus; do not add wires, brain diagrams, shining channels or a completed spell effect. Face resolves through pain. Caption:\n\"HER LIVING BODY COULD CLOSE THE CIRCUIT. SHE HAD PROMISED THE CROWN WOULD NEVER OWN THEIR WORK.\"\n\nPANEL4: closer face and RIGHT hand still pressed flat over sternum focus, acceptance with actual rib pain; fingers not yet closing/crushing. Wet silver hair frames blue-gray eyes; nose trace and RIGHT shoulder score persist. No apparition, donor silhouette or new figure. Two yellow remembered/explanatory captions with generous room for expression:\n\"WHAT THE CROWN JOINS, THE MONARCH MAY RELEASE.\"\n\"SHE HAD MISTAKEN CUSTODY FOR KEEPING.\"\n\nFive caption blocks total, four moments. The12 disconnected physical residue trails, repeated lattice crossings and her living contact explain an available circuit BEFORE its release. No future destruction, bright restored bells or new sensing operation.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult Solstice current wet injured/kneeling state; right hand moves from ribs to focus, left braces ground."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geography for physical north→shelf→south arc and open southern end."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Dead jagged silver and intact thumb-sized central resonator under palm; all orbiting bells excluded."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Physical interlocked capsules/vanes crossing residue."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-020.png",
+          "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "role": "Accepted P20 current lattice, low pose, failed right leg, LEFT hip/RIGHT shoulder/ribs and rendering."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read P21 and source synchronization/circuit/compact through custody insight. Actual R1–R4/P20 inspected. High oblique panel reserves space for12 distinct physical fragment trails as3+6+3 groups, no glowing paths or intact bells. Close actual metal crossing then grounded living contact, hidden-mostly thumb focus under palm, fingers not crushing yet. Five exact captions fit four strips. P20 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:07:44 UTC",
+      "completedAt": "2026-09-18 01:09:39 UTC",
+      "outputPath": "pages/page-021.png",
+      "outputSha256": "a8863c38a213f632487643411ff854b6909264fb916aacbb941d4ec20cf63f84",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-981207a2-0fec-40c9-8e83-a834a7475bbe.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-981207a2-0fec-40c9-8e83-a834a7475bbe.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Twelve separated silver groups count correctly; exact captions/contact/empty-bell state pass. Top lattice is a single chain behind outer arc, missing repeated physical crossings. Expand forward as a porous interlocked mesh with vanes crossing several existing silver groups, preserving12 visible trails. Bottom close face adds unsupported bloody cheek/ear cut; remove it, preserving established nosebleed only."
+      }
+    },
+    {
+      "id": "P21-002",
+      "assetId": "page-021",
+      "state": "accepted",
+      "prompt": "Correct TWO localized issues in the FIFTH attached full comic page21 (1024x1536). Keep all four panels, exact five caption blocks, poses, reference identity, current RIGHT shoulder/rib and LEFT hip injuries, kneeling state, hand-over-focus, colors and gutters.\n\nTOP PANEL: Preserve the EXACT TWELVE existing separate groups of silver fragments in their interrupted U arc. Do not move, add, merge or remove those12 groups. Currently the dark frames form only one linked row BEHIND the silver, so the material circuit crossings are missing. Expand that existing row forward toward the arc with one or two staggered rows/branches of existing dark capsule bodies and interlocking mechanical vanes, making a POROUS PHYSICAL MESH with open water gaps. The linked vanes must visibly CROSS/CONTACT several of the existing silver groups, including some at the north-left arm, the offshore foreground curve, and south-right arm. At least four clear physical metal-over-silver crossings, not just proximity. Keep most of each silver group visible so all12 separate trails remain countable. Branches join shell-to-shell using the same rigid jointed vanes, not long cables, magic beams, spider silk or drawn diagram lines. No additional incoming formations or new arrival: these are the same4096 surviving frames arranging as a mesh. Keep northern/southern tips and kneeling tiny Solstice at open southern end visible. Do not cover intersections with captions or turn silver into glowing lines/whole bells.\n\nBOTTOM PANEL FACE: Remove the newly invented reddish slash/wound on Solstice's outer cheek/near ear (viewerLEFT of her face, roughly x574–604,y1200–1290). Restore normal pale skin/wet highlights there, same face contours and hair. She has no cheek/ear injury in the story. Retain only the already-established small nosebleed trace beneath her nostril and on upper lip, sweat/rain, and correct blood-scored RIGHT pauldron. Do not heal the shoulder/ribs/hip, alter her expression or hand, or expose/crack the sternum focus.\n\nMiddle two panels already pass and must stay unchanged. All five captions already match exactly; preserve their lettering/punctuation. References1–4 anchor identity, geography, dead silver/focus and frame structure. Target5 controls composition and passing details. Return one complete corrected page, no new text.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Identity/current source wounds only; remove invented outer-cheek slash."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Existing bay/arc positions retained."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Exactly12 existing dead-silver trails remain separate; intact focus hidden under palm."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Interlocked rigid vanes extend physical porous mesh to cross silver repeatedly."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-021.png",
+          "sha256": "a8863c38a213f632487643411ff854b6909264fb916aacbb941d4ec20cf63f84",
+          "role": "P21-001 target: top material crossings and bottom cheek cleanup only."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Saved P21-001 inspected: twelve groups counted from north-left3, shelf6, south-right3. Need visible physical crossings in wide view as already shown close-up. Feasible staggered mesh forward rows retain most shards visible. Remove unsupported cheek slash; nose/shoulder/rib/hip states unchanged. All text already exact."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:12:00 UTC",
+      "completedAt": "2026-09-18 01:13:44 UTC",
+      "outputPath": "pages/page-021.png",
+      "outputSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-cbd4df3b-3296-43ac-823c-2009fab43a6d.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-cbd4df3b-3296-43ac-823c-2009fab43a6d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved full PNG and actual PDF page22 full/390 inspected. Twelve separate silver groups retained under repeated physical lattice crossings; north3/shelf6/south3 arc, open southern end. Macro vane/dead-silver contact and living grounded body/hand-over-intact-focus establish circuit before release. Unsupported outer cheek slash removed; established nose and RIGHT shoulder/ribs/LEFT hip remain. Five exact captions legible, no whole bell/ghost/new power/crush yet.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P21-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-021.pdf",
+          "sha256": "a0b500adfaa4f4131cffc6421d32e03c10a5fdfe0a30ae3112cf22709a1550c8",
+          "pdfPage": 22,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-22.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-22.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -4972,6 +5149,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P20-002 PASS: four physical incoming origins into one lattice; landing then right knee failure, correct wound sides; zero bells/intact hidden focus, single unlit rupture, exact captions/full390 PDF page21/RGB parity."
+    },
+    {
+      "scope": "page-021",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "877d45db2c25e0402bde050478634dd8b51cd8df3548a3c500f7777cb361a92b",
+      "temporaryPreviewSha256": "bf43648730b4fc929ae983feb52ba9420ba5becfd8a59af8d829897ada1e049d",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-021.pdf",
+      "partialPdfSha256": "a0b500adfaa4f4131cffc6421d32e03c10a5fdfe0a30ae3112cf22709a1550c8",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-22.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-22.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P21-002 PASS: twelve separated residue trails and physical lattice crossings, grounded living contact/intact focus before release, no restored bells or new wound; all captions/full390 PDF page22/RGB parity."
     }
   ],
   "approvals": {

@@ -781,3 +781,25 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 21: PASS.** Independently verified one embedded image with exact decoded RGB parity, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 20's bookmark targets page 21. Both actual renders preserve complete edges, aspect, text and action without clipping or stretch. No earlier-page assembly, optional HTML or broad controls were rerun.
 
 **P20-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P21–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 021 — P21-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: whole corrected P21, P20 continuity and actual PDF page 22. Read the conductor, spent-silver arc, living-body connection and custody/release source passage; checked the four-panel script and both attempt prompts/findings. Inspected the 1024 × 1536 saved image and actual 864 × 1296/390 × 585 PDF renders. Source/plan/STYLE rehashes retain the P15 versions; P20 remains `73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c`.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P21-002 `page-021.png` | `8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06` |
+| Manifest at scoped read | `87bd97a9324f8e97dddd0977f875bc935ed7b9b669ac60969022d054372736a9` |
+| `through-021.pdf` | `a0b500adfaa4f4131cffc6421d32e03c10a5fdfe0a30ae3112cf22709a1550c8` |
+| `full-22.png` | `4ba2383efb37c75e41ff541d240a8e1be1dae72e6d4c53386f325e581c925113` |
+| `reading-22.png` | `7a2b62426485ff207f8e74c825a20e75f631249bf0277b41017a93c6e11014c0` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Material sequence and continuity: PASS.** P21.1 retains twelve separated silver groups: three along the northern arm, six around the offshore curve and three toward southern concrete. Rigid interlocked vanes now physically cross multiple deposits across that arc, with visible gaps and an open southern end; the silver is neither an intact crown nor twelve luminous paths. P21.2 confirms solid vane/fragment overlap on wet concrete, with jagged dead silver rather than a re-formed bell. P21.3 keeps Solstice low on the southern landing cracks: left palm grounded, right hand over the tiny sternum recess, body beside the silver trail. The focus remains intact and mostly hidden, without a large jewel, exposed skin or diagram. P21.4 retains that contact with unclosed fingers; pain and recognition precede the act. No crush, inverse discharge, restored hearing or new power source appears.
+
+**Identity, text and reading: PASS.** The corrected outer cheek has no separate slash; the nose trace, right pauldron/rib injury and left hip graze remain, with right-thigh cloth intact. Hands, wrists, knees and bracing pose remain coherent. No ghost, second defender, whole orbiting bell or new host appears. All five captions match the script word-for-word and were read at full and actual 390-pixel sizes, including the remembered release clause and its comma. The physical arc, material close-up, living contact and ethical recognition read in four distinct stacked moments; captions leave the essential contacts visible. Crisp black contours, flat saturated fields, hard shadows and white gutters remain consistent with accepted GN art.
+
+**Actual PDF page 22: PASS.** Independently verified one embedded image with exact decoded RGB parity, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 21's bookmark targets page 22. Both actual renders preserve edges, aspect, lettering and physical crossings without clipping or stretch. No earlier-page assembly, optional HTML or broad controls were rerun.
+
+**P21-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P22–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
