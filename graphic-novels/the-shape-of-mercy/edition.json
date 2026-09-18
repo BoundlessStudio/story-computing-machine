@@ -3,7 +3,7 @@
   "contractVersion": "0.6",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
-  "status": "reference-production",
+  "status": "page-production",
   "createdAt": "2026-09-18T18:37:05.8498501Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
   "branch": "codex/graphic-novel-the-shape-of-mercy",
@@ -281,16 +281,29 @@
       "path": "references/bellweather-hall-intact.png",
       "subject": "One coherent view of intact ceremonial Hall, candlelight; external orchard glimpse only",
       "consumers": "Page 1; geometry input for 1, 4–5",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+      "attempts": [
+        "R08-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T19:37:08.470221Z",
+        "assetSha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+        "evidence": "Native/full and 390px saved pixels inspected. Single coherent intact Hall: right orchard doors/windows and flowering trees, opposite left ground-floor gallery/inner doors with substantial pillar, head table with ordinary ledger and ink, legible clear aisles. No people or crisis damage. Hard outlined architecture, broad flat color and strong hard-edged shadows match GN sheets; subordinate floor marks and localized candle light do not create painterly/3D drift. Exterior blue is evening ambience; page-specific night/storm state governs later calls."
       },
       "plannedInputs": [
         "R01",
         "R05"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R08-attempt-01"
     },
     {
       "id": "R09",
@@ -362,8 +375,8 @@
       "number": 1,
       "id": "page-001",
       "path": "pages/page-001.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
       "plannedInputs": [
         "R01",
         "R03",
@@ -371,12 +384,35 @@
         "R08"
       ],
       "framing": "Only Adrian, Marcus and Rowena visibly identified",
-      "attempts": [],
+      "attempts": [
+        "page-001-attempt-01",
+        "page-001-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "reviewFile": "review.md",
+        "reviewFileSha256": "174387ac646dd1dc2d2cb908853bf5c0ac0cb90dd0452f65643d78eb3e9df7f5",
+        "evidence": "Independent native,390px and768px recheck passed. Both lettering and rendering findings resolved. All74words, punctuation, tails, identities, anatomy, four-beat sequence and N0 continuity retained without collateral issues."
+      },
+      "selectedAttempt": "page-001-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+        "reviewedAt": "2026-09-18T19:58:50.1328046Z",
+        "evidence": "Native and390px inspected. All74words/punctuation and four ordered beats retained; larger readable captions/balloons, correct tails and two-finger ledger contact; identities/formal costumes/N0 intact. Room,candles and props rendered with stronger crisp contours and hard-edged fills. Independent recheck pending."
       }
     },
     {
@@ -1024,6 +1060,204 @@
         ],
         "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-70108e60-f8be-4a01-97f2-52c6ab5a0573.png",
         "backendModel": null
+      }
+    },
+    {
+      "id": "R08-attempt-01",
+      "assetId": "R08",
+      "kind": "reference",
+      "status": "selected",
+      "preflightAt": "2026-09-18T19:33:29Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create one fully opaque portrait 1024 x 1536 environment reference image: the intact ceremonial supper Hall at Bellweather Hall, before the storm crisis. This must be ONE coherent interior environment seen in a single wide three-quarter perspective, not a montage, cutaway, map or diagram. Use both supplied character sheets ONLY for rendering style: crisp bold black outlines, heavier silhouettes, broad flat saturated color fields and clean hard-edged shadows. Do not include their people, names, clothing, white-sheet layout or headings. Show a warm stone great room with tall windows, timber ceiling structure, formal long supper tables and chairs oriented toward a distinct head table. The head table carries an ordinary brown leather ledger, black inkpot, plain pen, cups and normal dinner place settings; no readable writing. Normal candles provide warm evening light, with simple hard-edged shadow shapes, no photographic glow. Keep the floor and aisles legible. Geography is essential: the RIGHT side has tall intact orchard windows and broad CLOSED double orchard doors with glazed upper sections; glimpse green flowering orchard trees and white petals beyond their glass only. On the OPPOSITE LEFT side, show the far gallery as a clearly accessible recess, a substantial supporting pillar at its edge and closed inner retreat doors beyond it. The gallery must visibly connect to the Hall, separated from the orchard-door threat side by the room and tables. Maintain plausible architectural perspective and enough broad clear threshold floor for later movement of a very large animal. This is a handsome inhabited household dining room, prepared for a formal supper, but presently empty for reference clarity. All doors, windows, chairs and tables intact. No people, animal, stormhart, antlers, fire except ordinary candles, ice, snow, water damage, debris, shattered glass, projected wards, glowing objects, magical writing, shields, heraldry, banners, title, heading, labels, signatures or watermark. Warm tan stone, deep wood, near-white cloth, restrained green through windows; same outlined flat-color comic rendering as supplied sheets. No watercolor, dense hatching, painted modeling, aged-paper texture, gradients, photorealism or 3D.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude character/heading"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "accepted GN rendering style only; exclude character/heading"
+        }
+      ],
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-819755e7-4a70-4bd7-aa6c-62545d8b073a.png",
+      "outputSha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-819755e7-4a70-4bd7-aa6c-62545d8b073a.png",
+        "backendModel": null
+      }
+    },
+    {
+      "id": "page-001-attempt-01",
+      "assetId": "page-001",
+      "kind": "comic-page",
+      "status": "needs-correction",
+      "preflightAt": "2026-09-18T19:37:54Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete, fully lettered graphic-novel page, portrait 1024 x 1536, fully opaque, exactly FOUR panels in the sequence below. This is a comic page, not a reference sheet. Read left-to-right and top-to-bottom. Four horizontal panels of varied depth: narrow knife-focused opening, larger two-person exchange, broad room/head-table scene, then low ledger detail. Clean white outer margins and gutters, aligned crisp black frames, no inset, overlap or frame break on this page. Keep every face, hand, balloon, caption and word safely inside its panel. No title, page number or reference headings.\nINPUT ROLES: Image1 Adrian Bellweather fixes Adrian's face, warm medium-brown skin, short uneven dark hair and CHARCOAL FORMAL COAT; use only his formal costume. Image2 Marcus Bellweather fixes his distinct older, broader face, wavy hair and BLUE FORMAL COAT; use his INTACT state only, absolutely no frost or injury. Image3 Lady Rowena Bellweather fixes her mature face, swept-back gray-dark hair, dark high collar and silver stitched sleeve channels. Image4 fixes the intact candlelit Hall, warm stone, long supper tables, head table, right orchard windows/doors, left far-gallery pillar. Keep exact character identities from these images; do not import sheet headings, state labels or spare reference views. Only Adrian, Marcus and Rowena are identifiable named characters; distant dinner guests may be anonymous small silhouettes.\nRENDERING: match the accepted character sheets' crisp bold black contours, heavier silhouettes, flat saturated colors and hard-edged shadow steps. Warm candlelit evening, warm stone, charcoal Adrian, blue Marcus, dark Rowena, natural skin. Ordinary candles only. Avoid painterly backgrounds, dense hatching, photographic/3D modeling and muddy brown washes. The Hall is intact. No magical effects, projected wards, glowing knife, storm, beast, ice, injuries, broken furniture or shattered glass. Marcus's warded cup may be plain-looking metal/crystal with no invented symbol or emitted glow.\nLETTERING: bold condensed hand-lettered-looking UPPERCASE comic lettering, around 40–44 px at this canvas size. Make it genuinely readable when page is reduced to 390 px width. Allocate generous text space before composing faces. Narration uses pale-yellow rectangular boxes with black borders; all spoken balloons are near-white with black contours and clear speaker tails. Do not invent or omit a single word. Printed text is ONLY the exact text listed below. No panel labels, captions naming speakers, decorative writing, sound effects, provenance notes or lettering on clothing/props. Each exact text appears once.\nPANEL 1, top: Adrian seated, looking down toward his plain steel supper knife on the table, one ordinary hand beside it. Knife foreground close-up dominates, with enough of Adrian's face to establish his wry concentration. His hand is not touching magic. Two yellow narration boxes in clear order. First exact text: MY ELDEST SISTER COULD TURN FORESTS TO ASH. MY OLDER BROTHER COULD FREEZE AN OCEAN REACH. Second exact text: I COULD MAKE A SUPPER KNIFE NERVOUS.\nPANEL 2: A clear two-shot at the same supper table. Marcus is on the left in his intact blue coat, leaning slightly toward Adrian on the right in his charcoal coat. Marcus's hand has gone still around his cup while his face carries a restrained teasing smile; Adrian looks back wryly. Faces, hands and cup readable with feasible anatomy. First white balloon above Marcus, tail unmistakably to Marcus, exact text: IT'S STEEL. IF YOU GLARE ANY HARDER, IT MAY DISCOVER AN ANCESTRAL GIFT. Second white balloon above Adrian, tail unmistakably to Adrian, exact text: PERHAPS IT WILL APPOINT ME ITS STEWARD.\nPANEL 3: Wider head-table view in the same intact Hall. Rowena has just risen behind the head table, her silver stitched sleeves catching ordinary candlelight. The ordinary brown ledger is near her elbow. Anonymous relations/tenants sit beyond her, small and subordinate; do not introduce identifiable siblings or another named character. Right-side windows show intact glass and green white-flowering orchard in evening light. This panel has THREE yellow narration boxes and NO speech balloon. First exact text: WE HAD GATHERED FOR THE SUCCESSION APPOINTMENTS. I HAD ASKED FOR WITNESSED RECORDS. Second exact text: EARLIER, MOTHER HAD SAID: Third exact text, including quotation marks: “INK IS FOR PEOPLE WHOSE WORD CANNOT DEFEND ITSELF.” Make the last two boxes visibly consecutive narration/recollection, never a present spoken balloon and never a tail pointing to Rowena.\nPANEL 4, bottom: Low close view of Rowena's hand with exactly two fingers resting on the plain open household ledger. Her silver-channel sleeve clearly identifies the hand; her body/face may be partly visible above or behind it. Adrian watches from the nearer edge in charcoal coat. The ledger is ordinary brown leather, cheap paper and non-glowing black ink; no readable page text or invented sigils. One white speech balloon, tail clearly to present Rowena, exact text: ADRIAN BELLWEATHER WILL SERVE AS—\nEnd at the interrupted sentence. No explosion, sound effect or next-scene hint is depicted yet. Preserve the calm setup and the distinction between earlier recalled speech in panel3 and present speech in panel4.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian identity, formal charcoal coat and accepted GN style"
+        },
+        {
+          "id": "R03",
+          "path": "references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus identity, INTACT blue coat only and accepted GN style; exclude frost/morning states"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity, dark gown/silver sleeve channels and accepted GN style"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "Intact Hall architecture, N0 supper atmosphere and geometry"
+        }
+      ],
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-f9f498dc-e9f2-4cce-a2cb-c6057cc63d54.png",
+      "outputSha256": "c9f2c3914cedd802f34e0b3dc5c18c6c6a6e7f200cfc1a18512e98cb7c4bfcb7",
+      "candidatePath": "pages/page-001.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-f9f498dc-e9f2-4cce-a2cb-c6057cc63d54.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-f9f498dc-e9f2-4cce-a2cb-c6057cc63d54.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T19:42:57Z",
+        "sizes": [
+          "native 1024x1536 entire image",
+          "390x585 reading preview"
+        ],
+        "evidence": "All four panels, all exact scripted words and punctuation visually checked. Yellow narration distinguishes earlier quotation from present Rowena balloon. Marcus/Adrian tails point correctly. Formal costumes, intact Marcus sleeve, ordinary knife/ledger and two-finger ledger contact verified. White gutters and sequential reading order clear. No crisis effects or headings.",
+        "observations": "Text is visually smaller than the requested 40–44px starting target but could be read in the 390px preview; independent reader-size judgment remains necessary. Some distant background and candle details use soft focus; main character/architecture contours and shadows remain graphic.",
+        "independentVerdict": "NOT REVIEWED"
+      },
+      "independentReview": {
+        "verdict": "REVISE",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "c9f2c3914cedd802f34e0b3dc5c18c6c6a6e7f200cfc1a18512e98cb7c4bfcb7",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "evidence": "Native,390px,768px inspected. Exact74words/punctuation,speakers,tails,fourbeats,identity and anatomy pass. Enlarge/reflow lettering for390px readability; replace photographic blur/bloom/soft props in panels1,2,4 with crisp outlined flat rendering."
+      }
+    },
+    {
+      "id": "page-001-attempt-02",
+      "assetId": "page-001",
+      "kind": "comic-page-edit",
+      "preflightAt": "2026-09-18T19:51:38Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the supplied comic page (Image1) to fix TWO review failures: ALL lettering is too small for phone reading, and several backgrounds/props have photographic blur and bloom. Return ONE corrected fully opaque 1024 x 1536 comic page, still exactly FOUR horizontal panels in the same story order. This is a substantial lettering reflow and rendering correction, not an upscale of the old page.\nINPUT ROLES: Image1 is the edit target and preserves the four story beats, wording, identities, poses and prop/contact continuity. Image2 is accepted Adrian identity/style in formal charcoal coat. Image3 is accepted Marcus identity/style, INTACT blue-coat state only; no frost or injuries. Image4 is accepted Rowena identity/style, gray-dark swept-back hair and dark gown with silver sleeve channels. Image5 is accepted intact Bellweather Hall geometry and crisp outlined environment treatment. Do not import reference headings or sheet layouts.\nPRIORITY 1 — PHONE-READABLE LETTERING: Redraw every caption and balloon with substantially bigger, bold condensed uppercase comic text. Target an actual uppercase glyph/capital height of at least 34–36 pixels on this 1024-wide canvas, using approximately 44–48-pixel lettering. No tiny text anywhere. At 390-pixel page width each capital should remain about 13 pixels high. The old small boxes are NOT constraints: enlarge boxes/balloons, rewrap the words and adjust the four panel heights/camera crops to make genuine room for the text. Text may occupy roughly the upper half of dialogue-heavy panels. Preserve faces and essential actions below/alongside it. Use full-width or much wider narration boxes where needed instead of old narrow boxes. Do not simply magnify the full old page. Keep comfortable margins inside each box and an unmistakable top-to-bottom reading path. Black text on pale-yellow rectangular narration boxes; black text on near-white speech balloons with correct tails. Keep exactly all text below with identical spelling/punctuation, no extra or duplicated words. Prioritize readable words and clear faces over incidental room detail.\nPRIORITY 2 — GRAPHIC RENDERING: Replace ALL depth-of-field blur, bokeh, photographic candle bloom and smoothly modeled reflective props, especially panels1/2/4, with crisp black outlines, broad flat saturated fills and hard-edged shadows consistent with Images2–5. The flowers, background diners, architecture, candles, knife, cups and ledger must be sharply drawn graphic shapes. Background diners can be simple outlined silhouettes, never blurred photographic smudges. Candle flames are small clean outlined yellow shapes, not glowing light blobs. Metal highlights use two or three flat value shapes, not glossy smooth reflections. Preserve the warm candlelit N0 supper and all intact architecture. No watercolor, painterly haze, gradients, bloom, lens blur or 3D gloss.\nPRESERVE: Adrian's and Marcus's distinct accepted faces and charcoal/blue formal outfits; Rowena's accepted face, dark high collar and silver sleeve channels; anatomy; Marcus's cup grip; Rowena's two-finger contact on the plain ledger; calm N0 state; four clean black frames and white gutters. No storm, beast, damage, injuries, frost, projected wards, magical writing, added named people, titles/page numbers/SFX or reference-sheet text.\nFOUR PANELS AND COMPLETE EXACT TRANSCRIPT:\n1. KNIFE: Adrian seated and eyeing plain supper knife, ordinary hand nearby, no magic. Two yellow narration boxes in order. Box1: MY ELDEST SISTER COULD TURN FORESTS TO ASH. MY OLDER BROTHER COULD FREEZE AN OCEAN REACH. Box2: I COULD MAKE A SUPPER KNIFE NERVOUS. Make both boxes and their lettering much larger; a wide text band above the knife/face detail is permitted.\n2. EXCHANGE: Marcus left in intact blue coat, hand still around cup, teasing face toward Adrian right in charcoal; two readable faces and clear cup grip. First white balloon, tail to Marcus: IT'S STEEL. IF YOU GLARE ANY HARDER, IT MAY DISCOVER AN ANCESTRAL GIFT. Second white balloon, tail to Adrian: PERHAPS IT WILL APPOINT ME ITS STEWARD. Enlarge these balloons dramatically and rewrap the lettering; never leave Marcus's speech small.\n3. GATHERING: Rowena rises behind head table with ordinary ledger; small anonymous guests, intact orchard windows/right-side geography. THREE pale-yellow narration boxes with NO tails and NO speech balloon. Box1: WE HAD GATHERED FOR THE SUCCESSION APPOINTMENTS. I HAD ASKED FOR WITNESSED RECORDS. Box2: EARLIER, MOTHER HAD SAID: Box3, including quotation marks: “INK IS FOR PEOPLE WHOSE WORD CANNOT DEFEND ITSELF.” Enlarge and reflow all three boxes; the last two clearly form a remembered quotation, not present spoken words. Reserve a generous full-width text area so the gathering caption and quoted ink line do not become tiny. Keep Rowena's face visible.\n4. APPOINTMENT: Low close view of Rowena's silver-channel sleeve and hand with exactly TWO fingers resting on ordinary open brown ledger; Adrian watching from nearer edge. One large white speech balloon with tail to Rowena's cropped figure: ADRIAN BELLWEATHER WILL SERVE AS—. Plain page strokes may remain nonlinguistic but no readable ledger writing. Preserve the final interruption dash and the calm moment before the intrusion.\nAfter correcting the lettering and rendering, check the entire page again: all 74 words exactly once, no spelling error, no face covered, no tail confused, no altered hand anatomy, no script change, no missing/duplicated panel. Readability at 390px takes precedence over preserving the original small box sizes or ornamental details.",
+      "inputImages": [
+        {
+          "id": "page-001-attempt-01",
+          "path": "pages/page-001.png",
+          "sha256": "c9f2c3914cedd802f34e0b3dc5c18c6c6a6e7f200cfc1a18512e98cb7c4bfcb7",
+          "role": "edit target; preserve passing beats/identity/transcript/contact, replace small lettering and photographic rendering"
+        },
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted Adrian formal-coat identity and GN rendering"
+        },
+        {
+          "id": "R03",
+          "path": "references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "accepted Marcus INTACT blue-coat identity and GN rendering only"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "accepted Rowena identity/silver-sleeve costume and GN rendering"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "accepted Hall geometry and crisp outlined environment rendering"
+        }
+      ],
+      "addresses": [
+        "P001-R1",
+        "P001-R2"
+      ],
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-12a30b44-5a8c-49b6-a755-beb19755351d.png",
+      "outputSha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+      "candidatePath": "pages/page-001.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-12a30b44-5a8c-49b6-a755-beb19755351d.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-12a30b44-5a8c-49b6-a755-beb19755351d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T19:56:20Z",
+        "sizes": [
+          "native 1024x1536 entire image",
+          "390x585 reading preview",
+          "768x1152 reading preview"
+        ],
+        "evidence": "Entire corrected page reinspected: all74 scripted words/punctuation present exactly once, including quotation marks and final interruption dash. All lettering/boxes visibly enlarged and read at390px without magnification; 768px also inspected. Four panels/gutters/order, distinct Adrian/Marcus/Rowena faces and formal costumes, intact sleeves, cup grip, two-finger ledger contact, yellow remembered quotation and correct present-speech tails remain coherent. Background diners/architecture/candles/flowers redrawn as sharply outlined graphic forms; broad prior DOF/bloom removed. Normal N0 state, no crisis effects or sheet headings.",
+        "remainingObservations": "No new blocking discrepancy observed by producer; actual reader-size/style acceptance remains independent reviewer responsibility.",
+        "independentVerdict": "NOT REVIEWED"
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "reviewFile": "review.md",
+        "reviewFileSha256": "174387ac646dd1dc2d2cb908853bf5c0ac0cb90dd0452f65643d78eb3e9df7f5",
+        "evidence": "Independent native,390px and768px recheck passed. Both lettering and rendering findings resolved. All74words, punctuation, tails, identities, anatomy, four-beat sequence and N0 continuity retained without collateral issues."
       }
     }
   ],

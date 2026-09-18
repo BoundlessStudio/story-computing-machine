@@ -81,3 +81,54 @@ Recheck evidence:
 The repair retains 25 comic-page sections and 95 main panels, the same page-image input sets, 12 proposed new references, one unchanged reused cover, zero cover generations, and a 26-page final PDF. The source-coverage, narrative, lettering-feasibility, page-turn, and five-identity close-framing findings from the original review stand. No broader recertification or art inspection is claimed by this targeted recheck.
 
 **Limits of PASS:** This is the independent pre-generation plan gate only. Reference images, comic pages 01–25, and the assembled PDF remain **NOT REVIEWED** because they do not yet exist. Actual 390 px readability, complete saved-pixel page review, and fresh complete-PDF review remain future gates. Plan/count approval still requires the user's actual response bound to these inputs; this assistant verdict grants no user approval or image-generation authorization.
+
+## Page 001 independent pixel review — 2026-09-18, attempt 01
+
+- **Verdict: REVISE.** Scope is saved `pages/page-001.png` only, SHA-256 `c9f2c3914cedd802f34e0b3dc5c18c6c6a6e7f200cfc1a18512e98cb7c4bfcb7`.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; this reviewer did not produce the page or references. Only this review file is changed.
+- Inspected every panel and visible word in the actual 1024 × 1536 image and supplied 768 px and approximately 390 px previews using `view_image`. Also inspected actual accepted R01/R03/R05/R08 pixels, reread source lines 9–31 and Page 01 script, and confirmed the complete previously reviewed script/coverage and STYLE.md hashes remain unchanged. Page 001 has no preceding comic page; page 002 does not yet exist.
+
+### Blocking findings
+
+1. **P001-R1 — all panels, especially 01.2 and 01.3: reading-size lettering.** Wording is correct, but the approximately 390 px image reduces letters to roughly 6–9 px high. Marcus's opening balloon and the gathering/recalled-ink captions are too small for comfortable ordinary phone-size reading without magnification. Desktop/full-size readability does not cure this. Enlarge and reflow the lettering and its reserved balloon/caption space within the existing four panels, using the approved approximately 40–44 px starting scale at 1024 width and checking the actual result at 390 px. Recompose the surrounding crops as needed; retain every exact word, the recalled-speech distinction, speaker tails, and the four beats. Do not merely upscale the current whole page.
+2. **P001-R2 — 01.1, 01.2, 01.4: rendering drift in environments and props.** Background columns, guests, candles, foreground flowers, and reflective goblets use conspicuous soft photographic depth-of-field blur, bloom, and smooth reflective modeling. The blurred flowers/goblet at the lower-left of 01.4 are especially evident at native size. Accepted R08 retains crisp outlined architecture/objects and graphic value steps; its localized candle light does not justify this broad soft-focus treatment. Re-render these areas with crisp black contours, broad flat fills, and hard-edged shadows, keeping candlelight subordinate. Preserve the passing faces, clothing, exact text, anatomy, props, and staging; inspect the whole corrected page for collateral changes.
+
+### Passing observations to preserve
+
+All 74 scripted words are present with correct spelling and punctuation, including the recollection's quotation marks and final interruption dash. Marcus's and Adrian's tails are unambiguous, Rowena's final tail points to her cropped figure, and the quoted earlier remark remains in yellow narration rather than present speech. Four frames read cleanly downward with white gutters and no confusing inset, overlap, or frame crossing. The knife joke, two-person exchange, gathering/recalled ink remark, and interrupted appointment occur in order. Adrian, Marcus, and Rowena retain accepted facial/hair identities, respective charcoal/blue/dark costumes, and silver sleeve channels. Visible hands, cup grip, and two-finger ledger contact are coherent. The ordinary brown ledger has no added readable text or magic. N0 remains intact and candlelit, with no storm, crisis ice, projected wards, extra named siblings, or injuries.
+
+### Version bindings
+
+| Input | SHA-256 |
+| --- | --- |
+| Approved `plan.md` | `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2` |
+| Source `05-story.md` | `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a` |
+| GN `STYLE.md` | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| R01 `references/adrian-bellweather.png` | `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3` |
+| R03 `references/marcus-bellweather.png` | `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f` |
+| R05 `references/lady-rowena-bellweather.png` | `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f` |
+| R08 `references/bellweather-hall-intact.png` | `d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051` |
+| Inspected manifest snapshot | `9843645ba5571717eb846f4516d79c3cd6ddadeb16359ef31ac5f1fd640d5077` |
+| QA `page-001-390.png` | `ae0a2aeb0ba74375683472964256f61efa2eb37fab9964edab44871c147906a1` |
+| QA `page-001-768.png` | `f27d36e3366517831b0f82ee3c44803ecf4855e380af8c6fdf058e97f67a7c81` |
+
+QA files were supplied under `C:/Users/jamie/AppData/Local/Temp/codex-gn-the-shape-of-mercy/qa/` and were read-only review inputs. No page PASS is granted; recheck the corrected saved page independently before page 002 generation. This verdict is not a complete-book review or user approval.
+## Page 001 independent corrected-page recheck — 2026-09-18
+
+- **Current page 001 verdict: PASS.** Reviewed selected `pages/page-001.png`, SHA-256 `b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65`. The earlier REVISE remains the verdict on the superseded image.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the page producer. Scope: both prior findings and the entire edited page for collateral changes. Only `review.md` is written.
+- Viewed the actual saved 1024 × 1536 page and its 768 px and approximately 390 px previews in full. Re-read every visible word and punctuation mark against the approved Page 01 transcript; inspected every panel, face, hand, prop, balloon/tail, gutter, and transition. No neighboring comic page exists yet.
+- Confirmed unchanged actual hashes for approved plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`, source prose `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`, STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`, and R01/R03/R05/R08 at their hashes recorded in the preceding page review. Their full-source/script and actual reference-pixel inspections remain applicable.
+
+**P001-R1 resolved:** Caption and balloon lettering is materially enlarged and reflowed. All 74 words, quotation marks, punctuation, and the interruption dash remain correct and are readable at the actual 390 px preview without enlarging it. The larger boxes retain safe text insets, clear speaker tails, visible faces, the recalled-speech distinction, and the knife/ledger actions. No text is clipped or added.
+
+**P001-R2 resolved:** Architecture, guests, candles, flowers, and vessels now have clear graphic edges and substantially flatter shading. Candle light remains localized; the earlier broad photographic blur and bloom no longer governs the room or foreground. The ink contours, saturated fills, hard shadow steps, white gutters, yellow captions, and uppercase letters are coherent with the accepted GN references and written style. Some controlled reflective highlights remain on tableware without defeating the outlined treatment.
+
+**Whole-page collateral check: PASS.** All four planned beats remain in order with clear downward reading. Marcus and Adrian's distinct accepted faces/hair and blue/charcoal coats remain stable; Rowena retains her graying swept-back hair, dark high collar, and silver channels. Visible anatomy, Marcus's cup grip, Adrian's plain-knife scrutiny, and Rowena's two-finger contact with the ordinary ledger remain coherent. The Hall is intact in N0, with anonymous guests, candlelight and orchard glimpses; no premature crisis state, named extra sibling, magical ledger, or new readable writing appears. No overlap, frame crossing, clipping, or gutter ambiguity was introduced.
+
+QA preview bindings, under `C:/Users/jamie/AppData/Local/Temp/codex-gn-the-shape-of-mercy/qa/`:
+
+- `exec-12a30b44-5a8c-49b6-a755-beb19755351d-390.png`: `5d5a49f6847f6f6b091c568edc577f4c73a5880df2a57f767600697d25b377e1`.
+- `exec-12a30b44-5a8c-49b6-a755-beb19755351d-768.png`: `72ab4d3075e9d639c40a6c13b1cddd75db76bbede8dcb3d0602fac2d5f186fbe`.
+
+This PASS satisfies the independent page 001 gate for these bytes. It is not a whole-book verdict or user approval; pages 002–025 and the actual assembled PDF remain NOT REVIEWED.
