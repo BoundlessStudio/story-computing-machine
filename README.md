@@ -76,7 +76,8 @@ the edition package; the final deliverable is the PDF.
 Read the [draft workflow and choices](graphic-novels/README.md) and
 [written house style](graphic-novels/STYLE.md). Page composition follows the
 story; the style is documented as text without a visual template preview.
-The draft adds agent instructions, not a tested renderer or publication path.
+Approved comics can be published as PDF downloads on their existing story pages;
+comic creation and visual review remain an agent workflow.
 `[GN]` has no aliases; `[Comic]` remains reserved. `[IL]` and all its existing
 behavior stay unchanged. Graphic-novel output is separate from both the source
 story and its illustrated edition.
@@ -98,10 +99,12 @@ story and its illustrated edition.
   `_template/` supplies the four-file scaffold.
 - `pages/catalog.json`, `pages/covers/`: story publication snapshot.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
+- `pages/graphic-novels.json`, `pages/graphic-novels/`: comic PDF download snapshot.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
 GitHub Pages publishes the Library and story pages; an approved illustrated
-edition replaces its story's reader and card presentation. The
+edition replaces its story's reader and card presentation. A selected comic adds
+a **Download comic PDF** link to the existing story reader. The
 Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.
@@ -156,6 +159,7 @@ Run these from the story worktree at the appropriate workflow stage:
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 python pages/build.py capture <slug>
+python pages/build.py capture-graphic-novel <edition-slug>
 python pages/build.py check
 ```
 
@@ -175,3 +179,8 @@ catalog text on recapture. `capture-all` refreshes existing catalog entries only
 Both refuse canon demotion; see [Pages rules](AGENTS.md#pages). GitHub Actions
 builds and deploys the stored snapshot after merge; it does not reopen story
 sources or run production review.
+
+`capture-graphic-novel` stores a separately approved and independently reviewed
+comic PDF for an already cataloged story. It leaves prose, reader presentation
+and catalog metadata intact. Later builds copy that frozen PDF; updating the
+production edition requires a deliberate named recapture to change the download.

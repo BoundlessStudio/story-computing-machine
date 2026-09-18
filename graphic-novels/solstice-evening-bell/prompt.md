@@ -17,7 +17,7 @@
 - Default rendering: `graphic-novels/STYLE.md` — bold black contours, saturated flat fills, hard-edged shadows, white gutters, yellow narration boxes, uppercase comic lettering.
 - Cover: the user requested a new cover in the GN comic style on 2026-09-17, superseding the default unchanged reuse. Retain the original 9:16 aspect ratio. The source cover remains an unchanged, external identity/costume input.
 - Final deliverable: `edition.pdf`, assembling the selected comic-style cover followed by all 24 comic-page images in order. Reference sheets remain production inputs. Exact panel transcripts remain in `plan.md`.
-- PDF requested explicitly on 2026-09-17. Any browser reader is a temporary production preview outside the package, not the finished book. Website publication remains outside this workflow.
+- PDF requested explicitly on 2026-09-17. Any browser reader is a temporary production preview outside the package, not the finished book. PDF download publication follows the subsequent user decision below.
 
 ## Reference inventory
 
@@ -37,7 +37,7 @@ The initial request authorized preparation and independent review of a concrete 
 
 The coordinator interprets this response to the plan-approval question as approval to try the reviewed 24-page / four-reference workflow, with the explicit change from reusing the original cover to generating one new cover in the established comic style. This interpretation was stated in conversation before production. New selected outputs therefore total 29: 24 pages, four references and one cover. The cover will be tried first. Source identity, source story, page script, art style, reference count and PDF/publication scope are unchanged. Exact input bindings and the verbatim response are retained in `edition.json`.
 
-This decision authorizes generation; it does not approve unseen artwork or the final book. No final-book approval exists.
+This decision authorized generation; it did not approve unseen artwork or the final book.
 
 ### 2026-09-17 — finish as PDF and update agent instructions
 
@@ -46,3 +46,9 @@ This decision authorizes generation; it does not approve unseen artwork or the f
 This decision replaces the earlier web-reader delivery scope. The finished book is one PDF containing the selected cover and all 24 numbered comic pages, one image per PDF page, preserving every image's aspect ratio without cropping or stretching. The four reference sheets remain production assets rather than story pages. Any HTML reader is only a temporary inspection aid outside the package. The GN instructions and role contracts are updated accordingly; the illustrated-edition workflow is unchanged.
 
 The source, adaptation script, 24-page / 92-panel count, four references, new cover and art direction remain as approved. Previously accepted artwork remains accepted for its recorded pixel/preview scope; every assembled PDF page and the complete PDF still require rendered inspection and fresh independent final review. This is a delivery change, not final-book approval.
+
+## Subsequent publication decision
+
+> lets update the github pages publishing to include the PDF comic as downloadable link in the story page (if a comic has been created)
+
+This response followed presentation of the independently passing 25-page PDF. The coordinator interprets the request to make that comic downloadable on its existing story page as approval to distribute the exact reviewed PDF (SHA-256 ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656). It authorizes a stored PDF download, preserving the standard or illustrated story reader, source prose, catalog metadata and one Library card. No artwork, script, cover or PDF bytes change. This publishing decision supersedes the earlier no-Pages scope; production remains a PDF workflow. Exact approval and publication bindings are recorded in edition.json.

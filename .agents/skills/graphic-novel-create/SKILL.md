@@ -3,7 +3,7 @@ name: graphic-novel-create
 description: "Draft a sequential-art adaptation of a named finished repository story with [GN]; create pages only after explicit approval to try the draft plan."
 ---
 
-# Graphic-novel production — draft v0.5
+# Graphic-novel production — draft v0.6
 
 ## Entry and scope
 
@@ -64,8 +64,9 @@ An edition lives under `graphic-novels/<edition-slug>/`:
   by every selected comic-page image in order, one image per PDF page. Reference
   sheets remain production assets unless the user expressly requests an appendix.
 
-This is a proposed manually maintained format, not an implemented schema/CLI.
-No command can currently certify its state. An HTML reading preview is optional
+The production format is manually maintained. Named Pages capture verifies the
+publication prerequisites; it does not certify the entire artistic lifecycle.
+An HTML reading preview is optional
 and temporary; keep it outside the package and do not finalize a website as the
 book. Keep discarded candidates, debug previews and temporary evidence outside
 the package. Keep exact panel transcripts in plan.md; an optional preview may
@@ -185,7 +186,12 @@ limitation. Never claim a new role was exercised when only its TOML was parsed.
    actual PDF hash and its ordered selected-image hashes. Retain
    draft/awaiting-approval status until an actual response. Do not claim that an
    assistant review or elapsed time is user approval. The reviewed PDF is the
-   final local deliverable in this draft. There is no website publication step.
+   final book deliverable. Publishing adds its PDF download to the existing
+   story reader; it does not turn the comic into a website.
+9. **Publish the approved PDF download.** Use the named capture described below,
+   build the stored Pages snapshot and verify the link on the matching story
+   page. Keep the work on its edition branch and submit changes through a pull
+   request; never merge automatically.
 
 ## Image calls and correction loop
 
@@ -249,10 +255,35 @@ this PDF contract, is recorded with the user's request and updated delivery
 bindings. Recheck assembly and final-output review; do not invalidate unaffected
 art or reopen the approved adaptation solely because the delivery format changed.
 
-Do not run story capture, capture-all or capture-illustrated for a comic.
-Do not edit pages/catalog.json, pages/illustrated.json or their snapshots, add
-another Library card or replace a published reader. Current validators certify
-neither this format nor its prose adaptation. Future publication requires its
-own explicit implementation and review. Keep work on its branch; merge only
-through a pull request, never automatically. Draft-contract checks are TOML
-parsing, links and consistency; they are not end-to-end production validation.
+## PDF download publication
+
+After final approval, run from the dedicated worktree:
+
+```text
+python pages/build.py capture-graphic-novel <edition-slug>
+python pages/build.py build --output _site
+```
+
+The named capture verifies the final PDF and ordered selected-image hashes,
+passing page and fresh complete-book reviews, final user approval, unchanged
+source and matching source/catalog canon. The source must already have a catalog
+entry; this command never publishes a story implicitly. Store only the selected
+PDF under `pages/graphic-novels/<edition-slug>/edition.pdf` and its frozen record
+in `pages/graphic-novels.json`. One comic is selected per source story.
+
+The existing standard or illustrated story page gains a `Download comic PDF`
+link when a stored comic is selected. Preserve its reader, prose, published
+Writing Prompt, catalog metadata, Library card and any illustrated PDF link.
+Do not add a comic website, second story reader or extra Library entry.
+
+Builds use stored snapshots only and copy the reviewed PDF bytes; they never
+traverse production comic packages, regenerate artwork or render PDFs. Source
+and comic production changes do not refresh published downloads. Ordinary
+capture, capture-all and capture-illustrated do not capture comics; use the named
+comic capture deliberately to replace a selection. Verify download URLs and
+bytes, including when the story has an illustrated reader, and keep publication
+changes on the edition branch for a pull request. Never merge automatically.
+
+The capture checks publication prerequisites, not artistic quality or the full
+manually maintained GN lifecycle. Semantic and saved-pixel review remain the
+independent reviewers' responsibility.

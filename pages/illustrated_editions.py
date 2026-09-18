@@ -117,12 +117,14 @@ def render_prose(body: str, title: str, illustrations: list[dict], asset_prefix:
     return _markdown(body, title, illustrations, asset_prefix)[0]
 
 
-def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='') -> str:
+def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='', comic=None) -> str:
+    from pages.graphic_novels import download_link
     title = html.escape(record['title'])
     pdf_link = (
         f'<p class="edition-download"><a href="{html.escape(asset_prefix + record["pdf"]["path"], quote=True)}" download>Download PDF</a></p>'
         if navigation and record.get('pdf') else ''
     )
+    comic_link = download_link(comic, asset_prefix) if navigation else ''
     author = f'<p class="edition-author">{html.escape(record["author"])}</p>' if record.get('author') else ''
     prompt = ('<section class="edition-prompt" aria-labelledby="writing-prompt-title">'
               '<h2 id="writing-prompt-title">Writing Prompt</h2>'
@@ -133,7 +135,7 @@ def render_document(record: dict, *, stylesheet='../illustrated.css', asset_pref
     if mode not in MODES:
         raise ValueError('Invalid presentation mode')
     body = (f'<section class="edition-cover"><img src="{cover}" alt="Cover for {title}"></section>'
-            f'<header class="edition-title"><p class="edition-label">{mode.title()} illustrated edition</p><h1>{title}</h1>{author}{pdf_link}</header>'
+            f'<header class="edition-title"><p class="edition-label">{mode.title()} illustrated edition</p><h1>{title}</h1>{author}{pdf_link}{comic_link}</header>'
             f'{prompt}'
             f'<article class="edition-prose" aria-label="Story">{prose}</article>'
             '<p class="edition-end" aria-label="End of story">◆</p>')

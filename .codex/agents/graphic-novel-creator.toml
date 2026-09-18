@@ -50,6 +50,8 @@ evidence for fresh independent complete-book review and final user approval.
 Keep exact panel transcripts in plan.md. Any HTML reading preview is optional,
 temporary and outside the edition package; it is not a final website or book.
 Do not edit universe facts, source prose, publication catalogs or existing
-readers. Do not run illustrated/story capture tools for a comic. The current
-draft has no implemented comic CLI or publication integration; do not invent one.
+readers. Do not run illustrated/story capture tools for a comic. The coordinator
+uses pages/build.py capture-graphic-novel only after final approval to add the
+reviewed PDF download to the existing story reader. That publication step does
+not authorize a comic website or changes to source prose or illustrated art.
 """

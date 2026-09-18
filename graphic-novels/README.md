@@ -1,9 +1,9 @@
-# Graphic novels — draft v0.5
+# Graphic novels — draft v0.6
 
 This is a draft agent workflow and house style for adapting finished stories
 into PDF graphic novels. The agent entry points and production instructions are
-supplied; this draft does not implement a comic CLI, automated lifecycle validator
-or publication integration.
+supplied. Pages can publish an approved comic PDF download on its existing story
+page; comic generation and the artistic review lifecycle remain agent work.
 
 ## Start from a finished story
 
@@ -46,14 +46,38 @@ named edition. A general discussion of the workflow is not that authorization.
    story coverage, pacing, continuity, visual consistency and readable lettering.
    Repair and recheck.
 7. Present the complete PDF for the user's final approval, bound to its actual hash.
+8. Capture the approved PDF download for the existing story page, build and check
+   the Pages snapshot, then submit the branch through a pull request.
 
 Intermediate art and page reviews are assistant work. The default does not ask
 the user to approve every image; an explicit request for additional checkpoints
 takes precedence. PDF is the required final GN output. Reference sheets remain
 production assets unless an appendix is expressly requested. Exact panel
 transcripts stay in plan.md. An HTML preview is optional temporary production
-material outside the package; it is not the final book. This workflow has no
-website publication step and does not replace an existing reader.
+material outside the package; it is not the final book. The published download
+preserves the existing standard or illustrated reader and its Library card.
+
+## Publish the PDF download
+
+```text
+python pages/build.py capture-graphic-novel <edition-slug>
+python pages/build.py build --output _site
+```
+
+Named capture requires final user approval and fresh independent complete-book
+PASS bound to the current PDF and selected images, an unchanged source and
+matching source/catalog canon. The story must already be in the catalog.
+It stores the PDF in `pages/graphic-novels/<edition-slug>/edition.pdf` and records
+the selection in `pages/graphic-novels.json`. One comic is selected per source.
+
+The matching story page shows **Download comic PDF**, alongside an illustrated
+PDF download if one exists. Stories without a selected comic have no comic link.
+Builds copy the stored PDF without reopening production packages; subsequent
+production changes cannot silently replace a published download. Use named
+capture again to update it. Ordinary story and illustrated captures do not
+refresh comics. Publishing never changes the source prose, story metadata,
+Writing Prompt, card count or existing reader format. Merge through a pull
+request, never automatically.
 
 ## Draft choices to review
 

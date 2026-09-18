@@ -3,7 +3,7 @@
   "contractVersion": "0.5",
   "slug": "solstice-evening-bell",
   "title": "Solstice Evening Bell",
-  "status": "awaiting-final-user-approval",
+  "status": "approved-for-publication",
   "createdAt": "2026-09-17T17:20:49.9152999Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-solstice-evening-bell",
   "branch": "codex/graphic-novel-solstice-evening-bell",
@@ -94,7 +94,7 @@
   },
   "request": {
     "path": "graphic-novels/solstice-evening-bell/prompt.md",
-    "sha256": "ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0"
+    "sha256": "456bed6cdb5635ae3ae7b8f045d91435e6e399c41934347f5e23d84598c0c300"
   },
   "plan": {
     "path": "graphic-novels/solstice-evening-bell/plan.md",
@@ -5888,9 +5888,9 @@
       "authorizedChange": "Generate one new GN-style cover instead of reusing the original; 24 story pages and four new references unchanged. Coordinator stated interpretation before generation."
     },
     "final": {
-      "status": "awaiting-user-response",
+      "status": "approved",
       "requestedAt": "2026-09-18 02:26:27 UTC",
-      "userResponse": null,
+      "userResponse": "lets update the github pages publishing to include the PDF comic as downloadable link in the story page (if a comic has been created)",
       "binding": {
         "pdfPath": "edition.pdf",
         "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
@@ -6027,7 +6027,9 @@
         "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
         "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
         "independentReviewFileSha256": "4123a03a4e5742c03077df9df5e3c1af0eac09b72c4b41bc8ef58b9898815d18"
-      }
+      },
+      "approvedAt": "2026-09-18 02:48:39 UTC",
+      "interpretation": "The user responded to the presented reviewed PDF by requesting its downloadable publication on the story page; this authorizes distributing the exact shown edition. No creative changes or new rendering are approved or needed."
     },
     "deliveryChange": {
       "status": "user-authorized",
@@ -6064,11 +6066,158 @@
         }
       },
       "scope": "Delivery only: final PDF cover plus 24 comic pages; temporary HTML outside package. Source, script, style rendering and art counts unchanged. Earlier image reviews retain actual scope and do not certify the PDF."
+    },
+    "publicationChange": {
+      "userResponse": "lets update the github pages publishing to include the PDF comic as downloadable link in the story page (if a comic has been created)",
+      "recordedAt": "2026-09-18 02:48:39 UTC",
+      "scope": "Add a frozen comic PDF download to the existing Pages story reader; preserve story and illustrated-reader content, catalog and Library entry.",
+      "priorRequestSha256": "ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0",
+      "requestSha256": "456bed6cdb5635ae3ae7b8f045d91435e6e399c41934347f5e23d84598c0c300",
+      "binding": {
+        "pdfPath": "edition.pdf",
+        "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+        "pdfPages": 25,
+        "orderedImages": [
+          {
+            "pdfPage": 1,
+            "path": "cover.png",
+            "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca"
+          },
+          {
+            "pdfPage": 2,
+            "path": "pages/page-001.png",
+            "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d"
+          },
+          {
+            "pdfPage": 3,
+            "path": "pages/page-002.png",
+            "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a"
+          },
+          {
+            "pdfPage": 4,
+            "path": "pages/page-003.png",
+            "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288"
+          },
+          {
+            "pdfPage": 5,
+            "path": "pages/page-004.png",
+            "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90"
+          },
+          {
+            "pdfPage": 6,
+            "path": "pages/page-005.png",
+            "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9"
+          },
+          {
+            "pdfPage": 7,
+            "path": "pages/page-006.png",
+            "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d"
+          },
+          {
+            "pdfPage": 8,
+            "path": "pages/page-007.png",
+            "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb"
+          },
+          {
+            "pdfPage": 9,
+            "path": "pages/page-008.png",
+            "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe"
+          },
+          {
+            "pdfPage": 10,
+            "path": "pages/page-009.png",
+            "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c"
+          },
+          {
+            "pdfPage": 11,
+            "path": "pages/page-010.png",
+            "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60"
+          },
+          {
+            "pdfPage": 12,
+            "path": "pages/page-011.png",
+            "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0"
+          },
+          {
+            "pdfPage": 13,
+            "path": "pages/page-012.png",
+            "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792"
+          },
+          {
+            "pdfPage": 14,
+            "path": "pages/page-013.png",
+            "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821"
+          },
+          {
+            "pdfPage": 15,
+            "path": "pages/page-014.png",
+            "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373"
+          },
+          {
+            "pdfPage": 16,
+            "path": "pages/page-015.png",
+            "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa"
+          },
+          {
+            "pdfPage": 17,
+            "path": "pages/page-016.png",
+            "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706"
+          },
+          {
+            "pdfPage": 18,
+            "path": "pages/page-017.png",
+            "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5"
+          },
+          {
+            "pdfPage": 19,
+            "path": "pages/page-018.png",
+            "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96"
+          },
+          {
+            "pdfPage": 20,
+            "path": "pages/page-019.png",
+            "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a"
+          },
+          {
+            "pdfPage": 21,
+            "path": "pages/page-020.png",
+            "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c"
+          },
+          {
+            "pdfPage": 22,
+            "path": "pages/page-021.png",
+            "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06"
+          },
+          {
+            "pdfPage": 23,
+            "path": "pages/page-022.png",
+            "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47"
+          },
+          {
+            "pdfPage": 24,
+            "path": "pages/page-023.png",
+            "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27"
+          },
+          {
+            "pdfPage": 25,
+            "path": "pages/page-024.png",
+            "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72"
+          }
+        ],
+        "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
+        "independentReviewFileSha256": "4123a03a4e5742c03077df9df5e3c1af0eac09b72c4b41bc8ef58b9898815d18"
+      },
+      "productionContractPinPreserved": true,
+      "creativeInputsUnchanged": true,
+      "notes": "Production contract/style pins retain reviewed art provenance. Explicitly authorized publication-only instruction updates do not invalidate the unchanged PDF or its independent review."
     }
   },
   "outputs": {
     "pdf": "edition.pdf",
-    "pdfStatus": "independent-pass-awaiting-user-approval",
+    "pdfStatus": "independent-pass-user-approved",
     "expectedPdfPages": 25,
     "order": [
       "cover",
@@ -6099,7 +6248,7 @@
     ],
     "referenceAppendix": false,
     "temporaryPreview": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/edition.html",
-    "publication": "No website publication or GN Pages integration; final local PDF requires fresh independent review and actual user final approval.",
+    "publication": "Named capture-graphic-novel stores the approved PDF in Pages and adds Download comic PDF to its existing standard or illustrated story page. Builds use the frozen stored PDF; source and reader remain intact.",
     "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
     "pdfBytes": 71873963,
     "pdfPages": 25,

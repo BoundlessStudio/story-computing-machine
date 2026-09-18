@@ -326,14 +326,26 @@ rendered PDF page at full and reading sizes, and obtain a fresh independent
 complete-book review. Bind final user approval to the actual PDF hash. An HTML
 preview is optional temporary production material outside the package, not the
 final deliverable. Keep exact panel transcripts in the existing plan.
-The draft has no comic CLI, automated lifecycle validator or Pages integration.
-Do not use story/illustrated capture commands, alter publication snapshots or
-replace existing readers for it. PDF is the required final GN output.
+PDF is the required final GN output. The draft has no comic generation CLI or
+automated lifecycle validator. After final approval, named
+`python pages/build.py capture-graphic-novel <edition-slug>` stores the reviewed
+PDF in `pages/graphic-novels/` with its selection in `pages/graphic-novels.json`.
+Capture requires an unchanged source, matching source/catalog canon, current
+selected-image/PDF hashes, independent complete-book PASS and final approval
+bound to those exact bytes. It never captures the source story implicitly.
+One selected comic per source adds a `Download comic PDF` link to that story's
+existing standard or illustrated reader. Preserve the reader, prose, Writing
+Prompt, Library card, catalog metadata and any illustrated PDF download.
+Ordinary story/illustrated capture does not refresh comics. Pages builds copy
+only the stored comic PDF, without traversing production editions or generating
+art/PDFs. Published comic downloads stay frozen until an explicit named recapture.
 Merge any later edition branch through a pull request, never automatically.
 
 ## Pages
 
-`pages/catalog.json` and `pages/covers/` are the stored publication snapshot;
+`pages/catalog.json` and `pages/covers/` are the stored story publication snapshot;
+`pages/graphic-novels.json` and `pages/graphic-novels/` store approved comic PDFs
+linked from their existing story readers. No comic snapshot means no comic link.
 `pages/timeline.json` is a retained local chronology model, not canon authority
 or a required publication artifact.
 Pages builds publish the snapshot only, without traversing `stories/` or running
