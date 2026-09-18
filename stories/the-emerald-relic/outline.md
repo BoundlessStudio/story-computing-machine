@@ -2,7 +2,7 @@
 
 ## Story
 
-- Premise and central promise: **The Mercy of Teeth.** Dying Taremet offers Anubis her father's stolen Emerald Relic if he conceals her assistance forever. Obtaining it requires exploiting her father's trust: a private betrayal whose kindness remains uncertain.
+- Premise and central promise: **A Bargain with Anubis.** Dying Taremet offers Anubis her father's stolen Emerald Relic if he conceals her assistance forever. Obtaining it requires exploiting her father's trust: a private betrayal whose kindness remains uncertain.
 - Focal pressure or attachment: Taremet, twenty-two, wants her failing body to finish dying, but cannot bear her father remembering her as someone who chose to leave him. She still wants his hands supporting her head.
 - Counterforce or complication: Pharaoh Khaseb mistakes three survived nights for recovery. He treasures their competitiveness at knucklebones and keeps suggesting another game. Anubis needs his instrument intact; a threatened king could scatter its parts beyond immediate recovery.
 - POV, distance, and information limit: Close third past through Taremet's body, observations, and memories. Other intentions require disclosure. Anubis remains difficult to read, never a narrator of universal truth.
