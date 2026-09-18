@@ -438,16 +438,29 @@
       "path": "references/household-ledger.png",
       "subject": "Ordinary brown-leather ledger, black inkpot, pen, detachable appointment leaf; dry/wet paper states of same object",
       "consumers": "Page 15; 15, 19, 21–23, 25",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+      "attempts": [
+        "R12-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T23:43:29.4813094Z",
+        "assetSha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+        "evidence": "Coordinator inspected actual native,390,768 pixels: one consistent ordinary brown ledger in dry/wet-edge states, blank ruled detachable leaf, black nib pen and inkpot. Crisp contours/flat shadows consistent with GN anchor; no magic/cords/title symbolism or identities transferred. Readable descriptive heading and state labels. Accepted for planned pages15,19,21–23,25."
       },
       "plannedInputs": [
         "R01",
         "cover"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R12-attempt-01"
     }
   ],
   "pages": [
@@ -1020,7 +1033,10 @@
         "P09"
       ],
       "framing": "Cost discussion; Marcus/Garran off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-010-attempt-01",
+        "page-010-attempt-02"
+      ],
       "independentReview": {
         "verdict": "NOT REVIEWED",
         "reviewer": null,
@@ -3541,6 +3557,214 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "a78955792d56a299258f63f67dfe2b9eb5f965787c32b3894d4bb86c302bcf73",
         "evidence": "Independent native/390/768 PASS, no blockers; exact text/attribution, anatomy/injury states and memory boundary hold."
+      }
+    },
+    {
+      "id": "page-010-attempt-01",
+      "assetId": "page-010",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-18T23:29:06Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete 1024x1536 portrait graphic-novel page, FOUR quiet present-day panels. Match the attached accepted comic's crisp contours, saturated flat fills/hard shadow shapes and generous white gutters. LARGE LETTERING: nominal48–52px uppercase comic font, ACTUAL cap height34–40px minimum, comfortably readable at390px page width. Reserve generous white balloons first, using deliberate short lines. Expand boxes or allocate more panel height rather than shrinking letters. Black text; no narration captions.\n\nEXACTLY SIX speech blocks, in this precise panel/order. The line breaks below are flexible; all words/punctuation are fixed:\nPANEL1 Rowena:\nOUR HOUSE BELIEVES POWER\nFOLLOWS DESIRE. YOURS ANSWERED\nTHE DESIRE TO MAKE\nSOMETHING STOP. YOU SEVER\nMAGICAL CONNECTIONS.\nPANEL2 Rowena OFF-FRAME:\nWHEN THE CUT IS COMPLETE,\nYOUR MIND LOSES ITS MEMORY\nOF MAKING THAT CUT.\nPANEL3 Rowena first balloon:\nNOT YOUR CHILDHOOD.\nNOT YOUR KNOWLEDGE\nOR YOUR LOVE.\nPANEL3 Rowena second balloon:\nTHE ACT ITSELF, AND THE\nMOMENTS IN WHICH\nYOU PERFORM IT.\nPANEL4 Adrian first:\nHOW DO YOU KNOW?\nPANEL4 Evelyn second:\nBECAUSE WE TESTED YOU.\nNo other words, labels, page numbers or sound effects. Keep these six blocks distinct, speakers/tails unambiguous, reading left-to-right then down.\n\nFive actual input roles in order:\n1 Adrian age19, warm medium-brown skin, short uneven dark hair, charcoal formal coat/white shirt.\n2 Evelyn age26, distinct adult family face, long single dark braid, rust-red formal clothing. Current LEFT glove still WORN/scorched, RIGHT bare; no exposed burned left hand or bandage.\n3 Lady Rowena, mature graying swept-back hair, dark high-collared gown, silver stitched sleeve channels. Sleeves are ordinary unlit cloth/metal now.\n4 Damaged Hall, same N3 geography: surviving LEFT pillar, overturned table shelter, shattered windows and broken orchard threshold RIGHT, physical ice barriers, glass/slush.\n5 Accepted preceding comic: rendering, typography and current continuity. Do NOT copy its dialogue or show Marcus/Garran.\nIgnore reference headings, alternate ages/outfits/states. Show ONLY Adrian, Rowena and Evelyn.\n\nLAYOUT: Four broad horizontal frames of varied heights, roughly410,280,400,380px with modest clean gutters/outer border. They are quieter attention shifts within one conversation, not a montage of memories. Adrian remains on hall/LEFT side; speakers face him from RIGHT. Place the top long balloon in ample upper-left space with Rowena visible at right and Adrian's head/shoulder lower-left; give dense PANEL3 its two upper balloons and a clear lower area for hands/profile. No inset, flashback or illustrated testing apparatus.\n\nPANEL1: Rowena faces Adrian, looking tired and older without her bright wards. Medium conversational view; her silver sleeves visibly unlit. Adrian foreground LEFT, listening, never reaching to act. Rowena's five-line balloon occupies the clear upper-left/middle space with short tail to her at RIGHT. Keep both faces readable and distinct from the balloon.\n\nPANEL2: Closer Adrian listening, eyes intent and unsettled toward RIGHT. The three-line balloon belongs to Rowena OFF-FRAME to RIGHT; its tail exits the RIGHT panel border toward her, never toward Adrian. This is explanation of a rule: no present cut, magical projection, fading face, memory erasure or vanished person is depicted. He retains self, love and ordinary knowledge.\n\nPANEL3: Emphasize restraint and interpersonal distance. Adrian's two ordinary empty hands at lower LEFT/centre are held away from Rowena, fingers relaxed/open and separate, not pointing or gripping. Rowena appears in profile on RIGHT, speaking both balloons. Read NOT YOUR CHILDHOOD... first in upper-left, THE ACT ITSELF... second upper-right; both tails lead to Rowena without crossing the hands. Leave a visible air gap between his hands and her person/sleeves. No glow, literal connection threads, cut gesture or severance. The memory loss applies narrowly to the act and its active moments, never all childhood/identity.\n\nPANEL4: Adrian on LEFT turns toward Evelyn on RIGHT, asking first. Evelyn answers with shame—lowered/tight gaze, guarded mouth, no defiance or smile. Two separate generous balloons ordered left then right; tails to their speakers. Show her scorched LEFT glove still on and RIGHT bare near lap/torso; no removal yet. No Rowena balloon or further explanation in this frame.\n\nThroughout: all ordinary candles OUT, projected wards gone, glass/slush and hard physical ice persist. Exterior ashfire is visible but subordinate to faces/text, with quiet reflected light. No new lightning attack or spectacle. Preserve crisp drawn environment, complete coherent hands and the same adult identities.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current age19 formal charcoal coat identity; no morning or child state"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn current rust-red clothing/dark braid, anatomical LEFT glove still worn/scorched and RIGHT bare"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena mature identity/dark high-collared gown; silver sleeve channels unlit cloth/metal only"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "N3 room geography/table shelter/pillar/physical ice/glass/slush; dark candles, failed wards and broken threshold"
+        },
+        {
+          "id": "P09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/pages/page-009.png",
+          "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+          "role": "Accepted immediately preceding page: actual GN style, large lettering, quiet present-day N3 lighting/costumes/spatial continuity only; no Marcus/Garran or text transfer"
+        }
+      ],
+      "preflight": {
+        "composition": "Four quiet present frames, off-right Rowena voice in10.2, two Rowena balloons in10.3, clear space between ordinary Adrian hands and Rowena",
+        "precedingPageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "referencePixels": "Accepted actual R01/R02/R05/R09/P09 pixels reused unchanged; current SHA256 values verified",
+        "sourceMoment": "Approved Page10/source181–191 and accepted Page009 inspected",
+        "lettering": "Six exact speech blocks/punctuation/speakers checked; five/three-line explanation and split scope clauses sized for actualcap34–40px",
+        "state": "No cut or broad memory erasure; unlit Rowena channels, worn Evelyn LEFT glove/RIGHT bare; N3 dark candles/ice/glass/subordinate outside fire"
+      },
+      "status": "needs-correction",
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T23:33:16Z",
+        "findings": [
+          "Six exact speech blocks/punctuation/speakers, narrow active-cut memory-loss rule, clear hand air gap, no severance, unlit Rowena channels and worn Evelyn left glove all retained.",
+          "All lettering undersized, particularly panel3 scope balloons and final admission at roughly8–10px caps at390. Coordinator agrees typography-only correction."
+        ],
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Enlarge all six blocks uniformly; taller balloons/shorter lines preserve faces and hands."
+      },
+      "dimensions": {
+        "width": 1024,
+        "opaque": true,
+        "height": 1536,
+        "pixelFormat": "RGB24"
+      },
+      "outputSha256": "1452b843d0b6a50b6bd8184ddb6495571ec14b7655a830e8a4ed733ef0f20b54",
+      "completedAt": "2026-09-18T23:33:16Z",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png",
+      "toolProvenance": {
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null,
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen"
+      }
+    },
+    {
+      "id": "page-010-attempt-02",
+      "assetId": "page-010",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-18T23:33:16Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit ONLY the lettering and white balloon sizes/line breaks in this complete1024x1536 comic page. Existing text is too small at390px. Use a UNIFORM bold uppercase comic font across ALL SIX blocks with ACTUAL cap height34–38px, approximately45–55% larger than current. Do not shrink letters to retain old balloon sizes. Enlarge balloons into open background space; preserve all four panels, faces, hands, speaker identity and art.\n\nKeep the EXACT SIX blocks/punctuation/order. Reflow like this:\n\nPANEL1 Rowena, enlarged taller balloon:\nOUR HOUSE BELIEVES\nPOWER FOLLOWS DESIRE.\nYOURS ANSWERED THE\nDESIRE TO MAKE\nSOMETHING STOP. YOU\nSEVER MAGICAL CONNECTIONS.\nUse six shorter lines at large uniform type. Expand balloon vertically and moderately left/right between Adrian foreground and Rowena at right, without obscuring either face; its tail remains Rowena's.\n\nPANEL2 off-frame Rowena, widen/heighten balloon:\nWHEN THE CUT IS COMPLETE,\nYOUR MIND LOSES ITS MEMORY\nOF MAKING THAT CUT.\nIt may expand LEFT into empty background but leave Adrian's face clear. Its tail MUST still exit the RIGHT panel edge, not point to Adrian.\n\nPANEL3 first Rowena balloon, taller and five short lines:\nNOT YOUR\nCHILDHOOD.\nNOT YOUR\nKNOWLEDGE\nOR YOUR LOVE.\nPANEL3 second Rowena balloon, taller and four short lines:\nTHE ACT ITSELF,\nAND THE MOMENTS\nIN WHICH\nYOU PERFORM IT.\nUse available vertical background space above the ordinary separated hands. Keep both balloons left-to-right, tails toward Rowena at right, not Adrian. Increase height instead of covering faces or hands. Roughly280–310px width per balloon with these short lines allows large type between the edge faces.\n\nPANEL4 Adrian first balloon, two lines:\nHOW DO\nYOU KNOW?\nPANEL4 Evelyn second balloon, two lines:\nBECAUSE\nWE TESTED YOU.\nIncrease both balloon heights/widths so these short blocks use the SAME34–38px actual cap height. Keep the first tail to Adrian and second to Evelyn; preserve ashamed Evelyn face unobscured.\n\nEvery original word, comma, apostrophe and period remains exactly. Line breaks add no words or punctuation. No extra captions, dialogue, labels or SFX.\n\nALL OTHER CONTENT stays unchanged: four quiet N3 frames, exact identities and costumes, ordinary unlit silver sleeve channels, no active wards or severance, no memory imagery. Adrian's hands remain separated from Rowena with visible air gap. Evelyn's anatomical LEFT glove remains worn/scorched and RIGHT bare. Preserve damaged Hall, dark candles, physical ice/glass/slush, subordinate outside ashfire, crisp flat outlines/shadows and full original dimensions. This is solely a typography/container correction.",
+      "inputImages": [
+        {
+          "id": "page-010-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png",
+          "sha256": "1452b843d0b6a50b6bd8184ddb6495571ec14b7655a830e8a4ed733ef0f20b54",
+          "role": "sole edit target; enlarge all six exact speech blocks/containers, preserve passing art/state/layout"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page10 unchanged; all six exact blocks and speaker tails checked",
+        "composition": "Typography only: six/three/five/four/two/two line blocks, bigger containers above hands and between faces. Preserve all existing passing content.",
+        "inputPixels": "Actual target inspected native390768; SHA verified"
+      },
+      "outputSha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+      "completedAt": "2026-09-18T23:35:19Z",
+      "dimensions": {
+        "height": 1536,
+        "width": 1024,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "status": "candidate-pending-independent-review",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-51904ec4-222e-471e-b15c-f64a4f96fbd9.png",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-010.png",
+      "toolProvenance": {
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-51904ec4-222e-471e-b15c-f64a4f96fbd9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-51904ec4-222e-471e-b15c-f64a4f96fbd9.png",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "disposition": "Selected candidate for independent review; no independent PASS or user approval claimed.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All six exact speech blocks/punctuation retained; enlarged typography and taller balloons are readable at390, including final admission and both scope clauses.",
+          "Speaker tails remain clear: off-right Rowena in10.2; both10.3 balloons to Rowena; Adrian then Evelyn in10.4. Faces and ordinary separated hands remain unobscured.",
+          "The rule remains narrow: loss of making that cut/active moments, explicitly excluding childhood/knowledge/love. No present severance or flashback/memory imagery.",
+          "Rowena sleeve channels stay unlit; Evelyn worn scorched LEFT glove/RIGHT bare, shame, N3 dark candles/ice/glass/slush/subordinate outside ashfire retained.",
+          "Whole page reinspected after edit; no blocking producer finding."
+        ],
+        "inspectedAt": "2026-09-18T23:35:19Z"
+      }
+    },
+    {
+      "id": "R12-attempt-01",
+      "assetId": "R12",
+      "kind": "reference-generation",
+      "preflightAt": "2026-09-18T23:40:16Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE 1024x1536 fully opaque near-white reference sheet for an ordinary household ledger and its writing tools. Exact large readable heading: HOUSEHOLD LEDGER. Only two smaller state labels: DRY and WET EDGES. No other text, signatures, names, numbers, logos or symbols anywhere.\n\nUse attached image1 ONLY as the concrete graphic-novel rendering style: bold crisp black contours, heavier outer silhouettes, saturated flat brown/cream/black fills, hard-edged stepped shadows, clean near-white #FFFDF4 background. Exclude the person, clothes, pose and ADRIAN heading. Image2 is CONTENT ONLY for ordinary cream paper and the plain black nib pen: exclude its photographic rendering, wet stone environment, all black cords and colored strands, lightning/fire/ice effects, antler shadow, and title. This ledger and ink are completely unenchanted.\n\nOne consistent ledger object in two clearly labeled state views, not two different books:\nDRY upper view: open substantial household account ledger, modest plain dark-brown leather covers, squared thick cream page block, rounded slightly worn spine, a thin ochre-brown stitched/tooled edge like the ledger already shown at the formal supper. No crest, metal clasp, jewels or ornate fantasy hardware. Its ordinary cream paper has faint fine gray horizontal ledger ruling, otherwise BLANK: no handwriting or preprinted headings. Use a clear three-quarter angle that reveals the leather cover beneath the open spread, binding, page thickness and usable blank appointment pages. This is a workaday book, not a magical tome or luxury treasure.\n\nBeside the upper view, show ONE small squat plain inkpot holding dull black ink and ONE ordinary slender black-shaft writing pen with a simple metal nib. The pen is visibly a pen, not knife/quill/wand. No feather, glow, decorative inscription or brand. Keep them large enough to read clearly and match the cover's ordinary pen content in the accepted flat GN style. No hands or characters.\n\nWET EDGES lower view: the SAME brown ledger after water exposure, same dimensions/leather/spine/ruling, opened at a similar angle. Paper edges darkened and mildly curled/softened by water, a few small flat drawn droplets, but the pages and book remain INTACT. One blank appointment leaf has been carefully detached from the binding and lies beside/in front of it, fully visible with a slightly ragged inner binding edge, faint ordinary ruling and water-darkened margins. No missing central paper chunks, burn damage, blood or black strands. The detached page is blank, ready to receive a consent record in later comic panels; do not prewrite it or invent signatures. The dry upper pages establish the separate clean appointment leaf used later.\n\nArrange these as uncluttered views of the same object family on one consistent fully opaque light ground, with useful breathing room between them. No room, table, floor, cage or scene. Preserve coherent book perspective and natural usable page geometry, no impossible doubled spines or fused tools. The black ink, pen and wet paper are physically ordinary; no magic or symbolic effects. Everything rendered with sharp flat comic linework/shadow shapes rather than watercolor, pencil hatching, soft glow, blur, 3D or photography.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "RENDERING STYLE ONLY: bold crisp black contours, flat fills/hard shadows, opaque near-white sheet; exclude Adrian/person/clothes/heading"
+        },
+        {
+          "id": "cover",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/stories/the-shape-of-mercy/title-image.jpg",
+          "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+          "role": "ORDINARY PAPER/PEN CONTENT ONLY: cream ledger paper, wet edge behavior and black nib pen; exclude all cords/strands/antler shadow/title/photography"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Actual unchanged source cover inspected native: ordinary cream/wet paper and black nib pen content only. Accepted R01 style pixels reused and hashes verified.",
+        "sourceMoment": "Approved R12 brief; source ledger29/273–293/341/411 reread. Accepted Page001 ordinary brown leather/open ruled book visually inspected for continuity.",
+        "lettering": "Only HOUSEHOLD LEDGER, DRY, WET EDGES headings; all paper blank except faint ruling",
+        "composition": "One ordinary object family, same ledger dry/wet states, inkpot/pen and blank detached appointment leaf. Opaque near-white ground, no scene.",
+        "exclusions": "No source-cover cords/title/antler/magic/photography; no invented names/signatures/enchantment."
+      },
+      "outputSha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+      "dimensions": {
+        "height": 1536,
+        "opaque": true,
+        "width": 1024,
+        "pixelFormat": "RGB24"
+      },
+      "status": "selected",
+      "toolProvenance": {
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-c4b5eeb1-d05e-4da6-b498-dede0ec8181e.png",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-c4b5eeb1-d05e-4da6-b498-dede0ec8181e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "tool": "image_gen.imagegen",
+        "backendModel": null
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-c4b5eeb1-d05e-4da6-b498-dede0ec8181e.png",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+      "completedAt": "2026-09-18T23:42:37Z",
+      "producerInspection": {
+        "findings": [
+          "Exact readable HOUSEHOLD LEDGER, DRY and WET EDGES headings; no other writing or invented signatures.",
+          "Same ordinary brown-leather/cream-ruled ledger in dry/wet views, consistent page/binding geometry; lower detached blank appointment leaf intact with ragged binding edge and water-darkened margins.",
+          "Plain black inkpot and black-shaft metal-nib pen repeated consistently alongside each state; unenchanted, no cords/strands/antler shadow/title/people/scene.",
+          "Opaque near-white ground; crisp contour/flat hard-shadow rendering and plain paper/pen content retained without photographic cover styling.",
+          "Full and reading-size inspection found no blocking producer issue."
+        ],
+        "inspectedAt": "2026-09-18T23:42:37Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Saved reference candidate for coordinator pixel acceptance; no independent PASS/user approval claimed."
       }
     }
   ],
