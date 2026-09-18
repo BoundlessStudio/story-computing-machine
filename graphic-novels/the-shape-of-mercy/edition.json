@@ -3,7 +3,7 @@
   "contractVersion": "0.6",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
-  "status": "awaiting-plan-approval",
+  "status": "reference-production",
   "createdAt": "2026-09-18T18:37:05.8498501Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
   "branch": "codex/graphic-novel-the-shape-of-mercy",
@@ -98,7 +98,7 @@
   ],
   "request": {
     "path": "graphic-novels/the-shape-of-mercy/prompt.md",
-    "sha256": "176e72c32088810574534b010c74344fa2c0a153a10744cac29757bfcdc52db7"
+    "sha256": "0ed5a9f3f99e8dcd9e46c28b93757821a23de75738d807c0a9361fedc943e0dc"
   },
   "plan": {
     "path": "graphic-novels/the-shape-of-mercy/plan.md",
@@ -138,13 +138,27 @@
       "path": "references/adrian-bellweather.png",
       "subject": "Adrian Bellweather, age 19, one identity; formal coat and morning shirt states",
       "consumers": "Page 1; pages 1–25 as listed in call table",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+      "attempts": [
+        "R01-attempt-01",
+        "R01-attempt-02"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T19:26:30.9647826Z",
+        "assetSha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+        "evidence": "Native/full and 390px saved pixels inspected. Exact readable heading; one consistent 19-year-old identity in four views; intact hands/boots; charcoal formal coat and plain morning shirt; opaque near-white ground; bold dark contours, broad flat fills and hard-edged shadows match approved GN direction. No magic or unwanted props."
       },
-      "plannedInputs": []
+      "plannedInputs": [],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R01-attempt-02"
     },
     {
       "id": "R02",
@@ -168,7 +182,9 @@
       "consumers": "Page 1; 1, 5, 7, 9, 11, 14–16, 22, 24",
       "status": "planned",
       "sha256": null,
-      "attempts": [],
+      "attempts": [
+        "R03-attempt-01"
+      ],
       "inspection": {
         "verdict": "NOT REVIEWED"
       },
@@ -868,12 +884,113 @@
       }
     }
   ],
-  "attempts": [],
+  "attempts": [
+    {
+      "id": "R01-attempt-01",
+      "assetId": "R01",
+      "kind": "reference",
+      "status": "needs-correction",
+      "preflightAt": "2026-09-18T19:21:10Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Asset: one character reference sheet for The Shape of Mercy graphic novel, initial style and identity anchor R01. Create a portrait 2:3 sheet, target 1024 x 1536 pixels, on a clean near-white background. Depict ONLY ADRIAN BELLWEATHER, the same nineteen-year-old male identity in every view: warm medium-brown skin, short uneven dark hair, lean young-adult build, expressive thoughtful face with a restrained wry quality. Show a clear full-length front view in a plain charcoal formal coat, a three-quarter upper-body view in that same coat, a clean profile head view, and one upper-body morning-shirt view of the SAME identity in a plain light shirt. Keep the same face, hair, skin tone and proportions across all four views. Formal clothing is simple fantasy household attire, unadorned, no armor or invented heraldry. Hands are relaxed and anatomically readable. This is a reference sheet, not a story scene. Drawing language: crisp bold black contours, heavier outer silhouettes, confident expressive comic anatomy, broad saturated flat color fills and hard-edged shadows with limited tonal steps. Use clean graphic shapes and clear color/value separation; preserve warm natural skin rather than tinting it blue. No watercolor, washes, dense hatching, aged paper, soft painted modeling, photorealism, gradients or glossy 3D. Place the exact heading ADRIAN BELLWEATHER at the top, large uppercase comic lettering, black ink, entirely visible. No other text. Keep generous white separation among views, no overlap, no clipped feet or heads. No other character, weapons, jewelry, spell effects, visible magical threads, cords, glowing eyes, book, props, background setting or watermark. The morning-shirt view changes clothing only, not age or identity.",
+      "inputImages": [],
+      "preflight": "Source marker, source/plan/style hashes, identity, rendering, one-identity sheet, clean anatomy and frame fit checked by creator.",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4958b444-0977-4df3-a891-77d80fba5ee2.png",
+      "outputSha256": "59da3c5a9de2e05a748d9e1fc461a84c608fe911e64686c3fd7dfee94f88e608",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4958b444-0977-4df3-a891-77d80fba5ee2.png",
+        "backendModel": null
+      },
+      "inspection": {
+        "reviewer": "/root",
+        "verdict": "REVISE",
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGBA",
+        "evidence": "Actual native pixels inspected. Identity, four views, costume, hands, age and heading spelling suitable. Background alpha and dark halos make black heading unreadable on dark viewer. Request opaque near-white background preserving passing art."
+      }
+    },
+    {
+      "id": "R01-attempt-02",
+      "assetId": "R01",
+      "kind": "reference-correction",
+      "status": "selected",
+      "preflightAt": "2026-09-18T19:23:46Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the supplied Adrian Bellweather character reference sheet. Change ONLY the background and its transparency: replace every transparent or partially transparent background area, dark background, gradient and surrounding halo with a uniform, fully opaque near-white background, color #FFFDF4. The entire 1024 x 1536 canvas must be opaque; do not return transparency. Preserve the existing four character views exactly in identity, age, face, hair, warm medium-brown skin, body proportions, anatomy, charcoal formal-coat costume, morning-shirt costume, poses, expressive linework, hard-edged shadows, flat colors, layout and dimensions. Preserve the exact existing heading ADRIAN BELLWEATHER in clear solid black uppercase comic lettering, fully readable against the new near-white background. Preserve all character and lettering edges cleanly. Do not add, remove, redraw or rearrange any character view. No new text, props, magic, border, watermark, vignette or drop shadow. This is a background opacity/color correction to the existing sheet, not a new design.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4958b444-0977-4df3-a891-77d80fba5ee2.png",
+          "sha256": "59da3c5a9de2e05a748d9e1fc461a84c608fe911e64686c3fd7dfee94f88e608",
+          "role": "edit target; preserve identity/art, correct background only"
+        }
+      ],
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-20ba746d-0507-439d-8120-72d820ad413a.png",
+      "outputSha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-20ba746d-0507-439d-8120-72d820ad413a.png",
+        "backendModel": null
+      }
+    },
+    {
+      "id": "R03-attempt-01",
+      "assetId": "R03",
+      "kind": "reference",
+      "status": "prepared",
+      "preflightAt": "2026-09-18T19:27:03Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create one 1024 x 1536 portrait character reference sheet for MARCUS BELLWEATHER. The supplied Adrian sheet is a rendering-style reference ONLY: match its crisp bold black contours, heavier silhouettes, expressive comic anatomy, saturated flat fills and hard-edged limited-step shadows. Do NOT copy Adrian's face, hair shape, charcoal coat, pose arrangement or name. Marcus is one distinct twenty-three-year-old man throughout: warm medium-brown skin, wavy dark hair swept loosely back, a broader and more assured build than Adrian, a distinct broader jaw and a restrained teasing expression. He wears a plain rich-blue formal fantasy coat, light shirt, dark trousers and practical dark shoes, with no armor, heraldry or jewelry. Show four separated views of this SAME identity: an intact full-length front view with both relaxed hands; an intact three-quarter face/upper-body view; a waist-up AFTER ICE state with frost glazing ONLY HIS ANATOMICAL LEFT SLEEVE (on the viewer's right in a frontal view), tired face and left arm held close; and a waist-up MORNING state wearing the same blue coat, surface ice gone, left arm guarded close to his body, tired but lightly wry face. The injury-state views depict the same Marcus at later moments, not different characters or a magical duplicate. No exposed wounds, invented scars, blood, bandages or sling. The right sleeve remains plain blue in every view. Frost is inert ice on fabric, no emitted spell, aura or glowing eyes. Keep skin tone, face, hair, outfit construction and age identical across the four views. Composition is clean and readable with generous separation, no overlaps or clipped head, feet or hands. Heading at top, exact large black uppercase comic lettering: MARCUS BELLWEATHER. The only smaller labels, each directly under its corresponding state view, are INTACT, AFTER ICE, MORNING; the portrait needs no label. FULLY OPAQUE solid near-white #FFFDF4 background across the entire sheet; no transparency, dark backdrop, gradients, halos, vignette or drop shadows. No scenery, props, other people, extra text, watermark, watercolor, dense hatching, soft painted modeling, photorealism or 3D.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted rendering style only, exclude identity/costume/heading"
+        }
+      ],
+      "outputPath": null,
+      "outputSha256": null,
+      "toolProvenance": null
+    }
+  ],
   "approvals": {
     "plan": {
-      "status": "pending",
-      "userResponse": null,
-      "binding": null,
+      "status": "approved",
+      "userResponse": "approved, but less planning more images and review.",
+      "binding": {
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "sourcePromptSha256": "a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d",
+        "sourceStateSha256": "1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5",
+        "sourceCoverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+        "sourceReviewSha256": "df9d8ae7f07ff4068fc06e94c0bd1200487d7b8371b0af945282fe2d23a1dc3f",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "contractSha256": "54e437d058244a5fe83547f53af88687d554c70136ad962b80b18418bb6fd8bc",
+        "coverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+        "independentPlanReviewFileSha256": "bfc35fcaa43812624a23daec53abafe8b18a3eb99fc72bfc1211664a89dc778f",
+        "counts": {
+          "storyPages": 25,
+          "newReferenceImages": 12,
+          "reusedReferenceImages": 0,
+          "reusedCovers": 1,
+          "coverGenerations": 0,
+          "pdfPages": 26
+        },
+        "panels": 95
+      },
       "proposedBinding": {
         "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
         "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
@@ -894,7 +1011,8 @@
           "pdfPages": 26
         },
         "panels": 95
-      }
+      },
+      "approvedAt": "2026-09-18T19:20:41.8217987Z"
     },
     "final": {
       "status": "pending",

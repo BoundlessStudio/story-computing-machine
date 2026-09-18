@@ -36,3 +36,5 @@
 - 2026-09-18: User requested the named GN adaptation with the verbatim request above.
 - Plan/counts approval: pending.
 - Final PDF approval: pending.
+
+- 2026-09-18: User approved the independently passing 25-page, 12-reference plan: "approved, but less planning more images and review." Approval is bound in edition.json; production proceeds with concise updates and the required image reviews.
