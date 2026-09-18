@@ -619,8 +619,8 @@
       "number": 4,
       "id": "page-004",
       "path": "pages/page-004.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
       "plannedInputs": [
         "R01",
         "R02",
@@ -629,12 +629,44 @@
         "R10"
       ],
       "framing": "Only Evelyn, Adrian and beast; guests secondary",
-      "attempts": [],
+      "attempts": [
+        "page-004-attempt-01",
+        "page-004-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "inputImages": [
+          {
+            "id": "page-004-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png",
+            "sha256": "0be7fc0c0a888f69788abf78ed8a7c504568173585476da80a13db51084ab9bd",
+            "role": "sole edit target; extinguish ordinary candle flames only, preserve correct ashfire and all text/action"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "944b70df7f754deb4f53bfb8bd11ec79cd66f478e38871b2803b9b2eda45aa79",
+        "evidence": "Independent PAGE004 PASS at native/768/390: captions, reading order, glove state, extinguished candles, liquid pond, anatomy, style and adjacent-page/source continuity; no blocking findings."
+      },
+      "selectedAttempt": "page-004-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "reviewedAt": "2026-09-18T21:35:18.5698945Z",
+        "evidence": "Actual native1024/390/768 saved pixels inspected. Three planned beats and left→upper-right→lower-right flow, both exact captions readable, Evelyn left glove/right bare hand, safe fleeing guests, blackening crescent and surviving oldest trees, stormhart scar/native storm and liquid pond strike present. Candle-only correction extinguished all indoor sconces and preserved ashfire/identities/text/action. No further findings."
       }
     },
     {
@@ -2216,6 +2248,167 @@
           "No people/creatures, fire, ice, wards, damage, montage, labels or scene text."
         ],
         "disposition": "Suitable candidate. Coordinator separately inspected actual native/390 pixels and directed saving without correction; formal acceptance remains coordinator-owned."
+      }
+    },
+    {
+      "id": "page-004-attempt-01",
+      "assetId": "page-004",
+      "kind": "comic-page",
+      "preflightAt": "2026-09-18T21:20:27Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete lettered graphic-novel page, 1024x1536 portrait, with THREE panels: one TALL LEFT panel read first, feeding a TOP-RIGHT panel read second, then BOTTOM-RIGHT panel read third. Black panel borders, clean white gutters; about36% page width for tall-left and62% for the two stacked right panels, remainder gutters/margins. No extra panels/insets. Evelyn's extended arms in the left panel point right toward the firebreak in the top-right panel; the beast's turn there leads the eye down to the pond impact in bottom-right. All fire/water remains inside frames. Crisp bold black contours, heavier silhouettes, saturated flat colors, hard-edged shadow planes, sharp environment/props. No blur, bloom, soft airbrush, photographic modeling, painterly wash, hatching or3D.\n\nACTUAL FIVE INPUT ROLES:\nImage1 Adrian identity,19, warm medium-brown complexion, short uneven dark hair, charcoal CURRENT FORMAL COAT; not morning shirt.\nImage2 Evelyn identity,26, distinct adult woman, long dark braid, rust-red long-sleeved formal coat-dress/dark trousers/boots. Use ONLY the LEFT GLOVE state: anatomical LEFT hand still wears charcoal full-finger glove, anatomical RIGHT hand bare normal skin. No bare burned left palm, no bandage. Preserve her current formal identity/clothes and consistent left/right anatomy.\nImage3 accepted stormhart identity: same immense living creature, four coherent cloven-hooved legs, smooth translucent storm-blue hide with internal silver currents, winter-tree branching antlers and native lightning, old curved skin scar AROUND throat below jaw with dark old blood. No shaggy fur, solid ice body, external collar/rope or rider.\nImage4 Hall GEOMETRY only: tan stone, tall arched multipaned orchard windows, broad dark wooden double orchard doors, supper tables and white cloths. Its INTACT state is overridden: doors are already shattered open inward, orchard-side window glass is cracked but still mostly in frames, some failed blue ward remnants may remain near threshold. All candles are OUT.\nImage5 orchard GEOGRAPHY only: Hall facade/threshold at LEFT, courtyard stones, low-rimmed ornamental pond nearby, flowering orchard trees/right and low boundary wall beyond. Its INTACT state is overridden by the specific burning/flood moments below. Do not restore closed doors/uncracked glass because references show an earlier time.\nUse the accepted character sheets as the actual rendering anchor; no sheet headings or labels in this page.\n\nSTORY STATE: immediate continuation after first ward failure. A fresh charge is answered by Evelyn's ashfire. Family/guests remain on Hall/LEFT side, threat/orchard on RIGHT. Named cast visible ONLY Evelyn, Adrian and stormhart. Anonymous fleeing guests are allowed as small clearly safe background silhouettes. No Garran, Rowena, Marcus, Phoebe or other named identity. No ice, frost, frozen water, physical magical bonds/cords, new human injury or restored setting. No active candle flame. The ashfire and creature's native stormlight are the permitted effects. Fire is controlled to choose vegetation, not people.\n\nPANEL1 TALL LEFT — Evelyn drives BOTH palms toward the orchard/right through the BROKEN threshold. Three-quarter/profile view facing RIGHT: show distinct naturally attached arms and separated hands, near anatomical LEFT hand gloved charcoal, other RIGHT hand bare. Her rust-red coat, long dark braid and resolute adult face remain recognizable. White-orange ASHFIRE sheets out toward the doorway/right, directed away from fleeing guests. Its shape must leave the people plainly unharmed. Compose Evelyn large enough to read the two hands; flames do not cover hands/face.\nAdrian crouches LOW behind an interior table edge in lower/near foreground, wearing charcoal formal coat, watching her with incomplete understanding. Keep his head/face and crouched posture readable; he does not cast magic or touch her. Farther LEFT behind them, a few anonymous guests retreat away from the fire route toward hall interior, no one burned or enclosed by flame. Dark extinguished candleholders, ordinary tableware/white cloth, shattered door fragments; a little cracked window glass visible. Maintain spatial continuity.\nAt top of this left panel place one generous YELLOW black-bordered narration box with EXACT text:\nEVELYN CHOSE GRASS AND LEAF. THE PEOPLE WERE SPARED.\n\nPANEL2 TOP RIGHT — a wide-feeling view just beside the Hall threshold, looking out diagonally across its connected courtyard and orchard. Include part of BROKEN doorway at the LEFT edge with Evelyn still there as a SMALL BUT READABLE rust-red/braided figure. Her LEFT charcoal glove is STILL WORN, and thin gray smoke curls visibly from its seams; her right hand remains bare. Avoid blue aura or bare left burn.\nA deliberate CRESCENT firebreak curves across grass/leaf between Hall and oldest orchard trees. Show nearest rows blackening and white-orange magical flames consuming their foliage; beyond the crescent the larger oldest trees remain living green with pale blossoms. It is a costly rescue, not all trees burning or all restored green. A few small ordinary birds flee the heat upward/right. Keep their silhouettes distinct from embers. The low orchard wall and courtyard/pond relation follow Image5; no alternate landscape or castle.\nOne large YELLOW black-bordered narration box in clear upper space reads EXACTLY:\nSHE DIRECTED DESTRUCTION SO IT WOULD REMAIN RESCUE.\nThe crescent and surviving trees must remain visible outside the caption.\n\nPANEL3 BOTTOM RIGHT — SILENT, NO TEXT. The SAME stormhart veers AWAY FROM the burning crescent/heat to the low-rimmed ornamental pond. Capture the single impact instant: its hooves STRIKE liquid pond water, and a high rising fan of LIQUID WATER surges LEFT toward Hall's cracked tall windows/broken doors. Make the body turn and hoof-to-water impact physically clear with coherent four-legged anatomy. Low oval stone pond rim and courtyard stones recognizable from Image5, Hall windows at LEFT for a clear splash destination, fire/orchard to RIGHT/beyond. Creature is huge relative to doorway. Preserve blue translucent living hide, branching antlers, old curved throat scar and intrinsic lightning. Water has flowing curved sheets/droplets, not spikes or solid blue blocks; ABSOLUTELY NO ICE YET. No extra beast, rider or person in this panel. Dynamic water cannot obscure the creature's head/turn or the pond impact completely.\n\nLETTERING: Exactly TWO yellow narration boxes above, no speech balloons, quotes, SFX, title, page number or other words. All uppercase bold black comic lettering. ACTUAL uppercase cap height34–36px MINIMUM at1024px, about44–48px font height, so every word remains readable at390px phone width. Reserve large boxes and reflow short lines, especially in narrow tall-left panel; NEVER shrink letters to fit. Keep exact punctuation and all words. Clear left→top-right→bottom-right reading sequence and no effects crossing gutters.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current formal identity and accepted GN style"
+        },
+        {
+          "id": "R02",
+          "path": "references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn current LEFT GLOVE state only; long braid/rust-red formal clothing; no bare burned left or bandage"
+        },
+        {
+          "id": "R07",
+          "path": "references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "stormhart identity/anatomy/antlers/translucent skin/old throat scar"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "Hall geometry only; override intact state with broken doors/cracked windows/candles out"
+        },
+        {
+          "id": "R10",
+          "path": "references/bellweather-orchard-intact.png",
+          "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+          "role": "orchard/pond/threshold geometry; override vegetation/water for N2 firebreak and liquid flood"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page04/source89–97; three beats from ashfire rescue through burning crescent to liquid pond flood.",
+        "adjacentContinuityInspected": {
+          "path": "pages/page-003.png",
+          "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+          "attached": false
+        },
+        "evidence": "Actual accepted inputs/adjacent page previously inspected; all six hashes verified this stage. Exact two captions, LEFT glove worn/right bare, N1b→N2 broken threshold/cracked windows/out candles, no ice, family-left/threat-right. Three-panel flow and caption room explicit."
+      },
+      "completedAt": "2026-09-18T21:25:11Z",
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png",
+      "outputSha256": "0be7fc0c0a888f69788abf78ed8a7c504568173585476da80a13db51084ab9bd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:25:11Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Wall-sconce candles remain lit in tall-left panel and through the doorway, violating extinguished-candle state."
+        ],
+        "passing": "Three-panel flow, both exact readable captions, Evelyn's worn left glove/smoke and identity, safe fleeing guests, Adrian low behind table, burned crescent/surviving trees/birds, liquid pond impact with no ice.",
+        "disposition": "Narrow candle-only correction required; root inspected and agreed."
+      }
+    },
+    {
+      "id": "page-004-attempt-02",
+      "assetId": "page-004",
+      "kind": "comic-page-edit",
+      "preflightAt": "2026-09-18T21:25:11Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make ONE narrow correction to the supplied complete1024x1536 three-panel comic page: extinguish EVERY CANDLE in Bellweather Hall. Preserve all other pixels/content as closely as possible.\n\nIn the TALL LEFT panel, the ordinary indoor wall candle sconces behind the fleeing guests currently have little yellow-white flames. Remove ALL those candle flames, wick glows and their localized golden halos. Leave the existing candle sticks, sconces and candles intact with black unlit wicks. In the TOP-RIGHT panel, inspect the Hall interior visible through the broken doorway and remove every candle/sconce flame visible there too. In the BOTTOM-RIGHT panel, any candle visible through Hall windows/doorways must also be unlit. Ordinary candles were extinguished by the storm before this scene. No newly lit candles or torches anywhere.\n\nCRUCIAL: Do NOT remove or dim EVELYN'S MAGICAL ASHFIRE. The white-orange jet around her outstretched hands and crossing the broken threshold, the deliberately burning crescent and blackening nearest trees, reflected outdoor firelight and the background orchard fire in bottom-right all MUST remain. Those flames are correct and separate from the tiny forbidden candle flames in indoor metal holders. Keep cold stormlight plus reflected orchard-fire light for readability, but no candle-shaped flame remains on a wick.\n\nDo not change panel layout, identities, Evelyn's long braid/rust-red clothes or worn LEFT charcoal glove/right bare hand, glove smoke, Adrian's low crouch, fleeing guests, broken doors/cracked windows, intact surviving oldest trees and escaping birds, stormhart smooth translucent blue hide/antlers/old curved throat scar, pond geometry or LIQUID-water splash. NO ICE. Keep bold crisp black outlines, flat saturated fills and hard shadows; no blur or bloom.\n\nPreserve these TWO exact yellow narration boxes and their existing large lettering, padding, line breaks and punctuation unchanged:\nEVELYN CHOSE GRASS AND LEAF. THE PEOPLE WERE SPARED.\nSHE DIRECTED DESTRUCTION SO IT WOULD REMAIN RESCUE.\nBottom-right panel stays silent. No added text, effects, people, props or injury. Complete image/three frames/white gutters/dimensions unchanged. This is only an ordinary-candle-extinguishing edit.",
+      "inputImages": [
+        {
+          "id": "page-004-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png",
+          "sha256": "0be7fc0c0a888f69788abf78ed8a7c504568173585476da80a13db51084ab9bd",
+          "role": "sole edit target; extinguish ordinary candle flames only, preserve correct ashfire and all text/action"
+        }
+      ],
+      "preflight": {
+        "evidence": "Entire target native/390/768 inspected; root separately confirmed candle defect only. Prompt explicitly separates forbidden ordinary wick flames from permitted ashfire; all passing content/lettering remains."
+      },
+      "completedAt": "2026-09-18T21:29:03Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-a390cb72-f68a-4a06-b7be-99a18b2b13f9.png",
+      "outputSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+      "candidatePath": "pages/page-004.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-a390cb72-f68a-4a06-b7be-99a18b2b13f9.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-a390cb72-f68a-4a06-b7be-99a18b2b13f9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:29:03Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Every ordinary candle flame removed in Hall/doorway/window views; correct ashfire, orchard flames and reflected firelight preserved.",
+          "Two exact uppercase yellow captions remain readable with punctuation intact; tall-left then top-right then silent bottom-right sequence unchanged.",
+          "Evelyn's current identity/rust-red coat/braid, worn left glove with smoke/right bare hand, low crouched Adrian and unharmed retreating guests retained.",
+          "Burning crescent blackens nearest rows while oldest trees survive and birds escape; broken threshold/cracked windows/pond geography retained.",
+          "Stormhart's living translucent hide, native antlers/lightning, old throat scar and coherent liquid-water impact preserved, without ice or physical command rope."
+        ],
+        "disposition": "Suitable for independent review; coordinator separately inspected native/390 and reported no further finding. No independent PASS or user approval."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "inputImages": [
+          {
+            "id": "page-004-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-be1f21a8-7019-45ad-ad88-b41793f7fb5c.png",
+            "sha256": "0be7fc0c0a888f69788abf78ed8a7c504568173585476da80a13db51084ab9bd",
+            "role": "sole edit target; extinguish ordinary candle flames only, preserve correct ashfire and all text/action"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "944b70df7f754deb4f53bfb8bd11ec79cd66f478e38871b2803b9b2eda45aa79",
+        "evidence": "Independent PAGE004 PASS at native/768/390: captions, reading order, glove state, extinguished candles, liquid pond, anatomy, style and adjacent-page/source continuity; no blocking findings."
       }
     }
   ],

@@ -175,3 +175,28 @@ Version bindings:
 - Temporary QA `page-003-390.png`: `474741efd4d8f0a00c13c72a74b759456dd32fd41bd00f89a2bb6adb7dcb3825`; `page-003-768.png`: `74f51468ae154562b8ead08b59021297a6ab8ce9e5e1303725063e47726a0048` (same previously recorded QA directory).
 
 This passes page 003 for the selected bytes only. Page 004 onward and the assembled PDF remain NOT REVIEWED. It is not whole-book PASS or user approval.
+## Page 004 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-004.png`, attempt 02, SHA-256 `83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66`, 1024 × 1536.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected the entire saved image at native, 768 px and approximately 390 px widths, including every caption, figure, hand, prop and panel transition. Reread approved Page 04 and source lines 89–97; inspected new actual R02/R10 pixels and compared previously inspected R01/R07/R08 and preceding accepted page 003 at verified unchanged hashes. The complete approved script/coverage remains applicable. Only `review.md` is written.
+- **Text and reading: PASS.** Both yellow captions reproduce all 17 exact scripted words and punctuation and remain comfortably legible at 390 px. The pond panel is silent with no added text. The tall left action leads through Evelyn's arms into the upper-right firebreak, then down into the pond impact; three black-framed panels and white gutters keep the time and reading order clear. Effects remain inside their frames.
+- **Action, anatomy and state: PASS.** Evelyn's two distinct arms and open palms direct white-orange ashfire through the damaged threshold away from fleeing guests. Her anatomical left glove remains worn and visibly smoking; the right hand is bare, with no premature bandage or exposed left burn. Adrian stays low behind an interior table and does not cast. The upper-right scene retains the costly burned crescent, blackening nearest trees, surviving flowering trees beyond, escaping birds and Evelyn at the doorway. The lower-right stormhart impacts visibly liquid pond water; curved sheets and droplets rise toward the Hall windows, without frozen shapes or ice. Visible limbs, hoof/water contact, enormous creature scale, branching antlers, living hide, intrinsic storm and throat scar remain coherent.
+- **Continuity and style: PASS.** Hall/interior stays left of the orchard threat; the facade, threshold, low pond and tree/wall relationship follow the accepted environments while their intact states are correctly overridden. Broken doors and cracked glass remain. Indoor candle sconces now show unlit wicks, including the doorway view; the valid orchard ashfire is preserved. No extra named relatives appear. Evelyn's rust-red clothing, braid and face and Adrian's formal appearance match their references. Crisp contours, graphic shadow steps, saturated fire/storm accents, flat environmental treatment, white gutters and uppercase lettering remain consistent with the accepted pages; no blocking collateral drift is visible.
+
+Version bindings:
+
+| Input | SHA-256 |
+| --- | --- |
+| Plan | `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2` |
+| Source prose | `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a` |
+| GN STYLE.md | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Adjacent page 003 | `7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65` |
+| R01 Adrian | `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3` |
+| R02 Evelyn | `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5` |
+| R07 Stormhart | `7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6` |
+| R08 Hall | `d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051` |
+| R10 Orchard | `c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272` |
+| QA 390 px | `46d666b3cd52424398650b5849452420bcc226e585bd1b86049c1994c7be0eec` |
+| QA 768 px | `7ade4a63d1a07bb60ceb089f9e031206755ab5012ef06f995e79281cca3c4cb9` |
+
+QA previews are `exec-a390cb72-f68a-4a06-b7be-99a18b2b13f9-{390,768}.png` in the previously recorded temporary QA directory. This passes page 004 for these bytes only. Page 005 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
