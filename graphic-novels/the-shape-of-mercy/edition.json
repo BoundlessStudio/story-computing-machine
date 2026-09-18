@@ -208,15 +208,28 @@
       "path": "references/phoebe-bellweather.png",
       "subject": "Phoebe Bellweather, age 16 and same identity age 6 for remembered fragment; overwhelmed and morning states",
       "consumers": "Page 2; 2–3, 6, 8, 12–13, 16, 18–20, 24",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+      "attempts": [
+        "R04-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T20:07:31.5082911Z",
+        "assetSha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+        "evidence": "Native and390px saved pixels inspected. Exact readable heading and age/state labels; one Phoebe identity across age16 and age6, visibly appropriate age differences; green long-sleeved tunic, loose ponytail and warm medium-brown skin stable. Clear hands and complete boots, opaque light ground, crisp contours, flat fills and hard-edged shadows. No unwanted magic, props or extra identities."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R04-attempt-01"
     },
     {
       "id": "R05",
@@ -251,30 +264,57 @@
       "path": "references/garran-bellweather.png",
       "subject": "Garran Bellweather now lean and ten years earlier broader; dull bracelet on right wrist, nonliving focus",
       "consumers": "Page 2; 2–3, 8–9, 12, 17",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+      "attempts": [
+        "R06-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T20:24:03.9224322Z",
+        "assetSha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+        "evidence": "Native and 390px pixels inspected. One mature identity; lean, graying, rain-soaked current state and visibly broader younger state; dull non-glowing bracelet on anatomical right wrist. Complete hands and feet, readable exact name/state labels, crisp contours and flat shadow shapes consistent with R01. No unwanted powers or external props."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R06-attempt-01"
     },
     {
       "id": "R07",
       "path": "references/stormhart.png",
       "subject": "Unnamed stormhart, one creature; throat scar, branching antlers, intrinsic storm",
       "consumers": "Page 2; 2–6, 12–14, 18, 20",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+      "attempts": [
+        "R07-attempt-01",
+        "R07-attempt-02"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T20:24:04.8481367Z",
+        "assetSha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+        "evidence": "Native and 390px pixels inspected. Irregular old skin scar curves around throat below jaw in both views, with a little dark blood and no external collar. Smooth translucent-looking hide and internal silver currents replace heavy shaggy fur; minor silhouette tufts do not undermine this. Four separated hooved legs, complete branching antlers, native lightning, exact heading and outlined flat rendering retained. One unnamed creature only."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R07-attempt-02"
     },
     {
       "id": "R08",
@@ -1258,6 +1298,208 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "174387ac646dd1dc2d2cb908853bf5c0ac0cb90dd0452f65643d78eb3e9df7f5",
         "evidence": "Independent native,390px and768px recheck passed. Both lettering and rendering findings resolved. All74words, punctuation, tails, identities, anatomy, four-beat sequence and N0 continuity retained without collateral issues."
+      }
+    },
+    {
+      "id": "R04-attempt-01",
+      "assetId": "R04",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T20:02:55Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create ONE fully opaque 1024 x 1536 portrait character reference sheet for PHOEBE BELLWEATHER. The supplied Adrian sheet is a RENDERING-STYLE-ONLY input: match crisp bold black contours, heavier outer silhouettes, saturated flat fills, expressive clear anatomy and hard-edged shadow steps. Do not copy Adrian's identity, hair, clothes, headings or layout.\nDepict ONLY Phoebe, the same female identity in four clearly separated views. At age16 she has warm medium-brown skin, a youthful face distinct from Adrian, attentive empathetic eyes, a loose dark ponytail, and a modest green long-sleeved formal tunic with plain dark trousers and simple boots. Her teenage proportions must be natural and age-appropriate. No sexualization, revealing clothing, jewelry, heraldry, weapons or props.\nFour views: (1) a complete full-length AGE16 front/three-quarter view, relaxed open hands, steady attentive face, ponytail tied loosely; (2) an AGE16 waist-up OVERWHELMED state, same green tunic, hair loosened, open but unfocused eyes and exhausted concerned expression, plain hands near chest, no wounds or blood; (3) an AGE16 MORNING waist-up view, same face/outfit, tired slightly swollen eyes without bruising, small relieved smile, no blood or magical effect; (4) the SAME Phoebe at AGE6, a small complete standing childhood view with unmistakably six-year-old proportions and the same recognizable facial family traits, simple fully covering green long-sleeved child tunic and plain trousers, dark hair loosely tied, frightened/tearful expression, hands unobstructed. This is one identity at two ages, not siblings, a mother-and-child scene or extra characters. Separate the four views with generous near-white space. Do not overlap or crop heads, hands or the full-length figures' feet.\nExact large uppercase heading across the top: PHOEBE BELLWEATHER. The ONLY smaller labels, each directly beside/below its associated view, are: AGE 16 ; AGE 16: OVERWHELMED ; AGE 16: MORNING ; AGE 6. Use bold black uppercase comic lettering, readable at390px sheet width. No other text. Keep all teenage views consistent in identity, age, skin tone, hairstyle and tunic design; state changes alter expression/hair tidiness only. The age6 view must remain identifiable as the same person while visibly much younger.\nUniform FULLY OPAQUE near-white #FFFDF4 background; no transparency, halos, gradients, haze, depth-of-field blur, candle bloom or scenery. Sharply outlined flat comic rendering throughout, matching the actual input sheet, with no watercolor, dense hatching, soft painterly modeling, photorealism or 3D. No magic, visible bond threads, animals, cage, other people, injuries, scars, wounds, bleeding or watermark.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude Adrian identity/costume/heading/layout"
+        }
+      ],
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-efe5a758-9618-4715-ac8e-85313682d0d6.png",
+      "outputSha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+      "candidatePath": "references/phoebe-bellweather.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-efe5a758-9618-4715-ac8e-85313682d0d6.png",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:06:05Z",
+        "sizes": [
+          "native1024x1536 entire image",
+          "390x585 preview"
+        ],
+        "evidence": "Exact PHOEBE BELLWEATHER heading and four age/state labels readable. One same identity across teenage neutral/overwhelmed/morning and childhood6 views; age difference clear, all fully clothed. Green tunic/ponytail/skin tone consistent; hands and boots coherent and unclipped. No blood, wounds, animal, extra identity or magic. Near-white opaque background, crisp contours and hard-edged fills match accepted R01.",
+        "independentVerdict": "NOT REVIEWED"
+      }
+    },
+    {
+      "id": "R06-attempt-01",
+      "assetId": "R06",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T20:08:23Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create one fully opaque 1024 x 1536 portrait reference sheet for GARRAN BELLWEATHER, one consistent mature male identity. Use the supplied Adrian sheet ONLY for its rendering: crisp bold black contours, heavier silhouettes, expressive anatomy, broad flat saturated fills and hard-edged shadows. Exclude Adrian's youthful face, hairstyle, name and costume design.\nGarran CURRENT: warm medium-brown skin, mature lean rainworn face, short graying dark hair, a stern wounded expression, dark formal coat visibly rain-soaked through flat darkened fabric patches. He is a lean middle-aged father, not a young sibling. A plain dull gray metal bracelet circles HIS ANATOMICAL RIGHT WRIST (viewer-left in a straight frontal view). Show that wrist exposed enough to establish bracelet placement. The bracelet is a nonliving, non-glowing focus: no glyphs, gem, light, energy or magical emission. Both hands ordinary and clearly drawn.\nShow three separated views of the SAME man: a full-length current front view with both hands and boots complete; a current three-quarter face/upper-body close view to establish age, graying hair and distinct identity; and a waist-up TEN YEARS EARLIER view of that same man, clearly broader through face and shoulders, less gaunt, darker hair with little gray, wearing a simple dry formal coat, hands visible and no bracelet needed in this earlier view. The younger view is the same adult father ten years earlier, never a new character and never a teenager. Maintain his recognizable nose, brow, eyes and underlying jaw structure across time. Present-day grief/anger should be human, not demonic or monstrous.\nExact heading at top, large black uppercase comic lettering: GARRAN BELLWEATHER. Only two smaller state labels: CURRENT beneath the full-length view, and TEN YEARS EARLIER beneath the younger view. No label on current portrait and no other text. Generous separation between views, no overlapping silhouettes or clipped faces/hands/feet. All views fully clothed. Uniform FULLY OPAQUE near-white #FFFDF4 background; no alpha, halo, gradient, haze, depth-of-field blur or bloom.\nNo other people, weapons, armor, crown, jewelry other than the specified current right-wrist bracelet, prop, beast, cord, magical connection, spell effect, glowing eyes, wound, scar, blood, scenery or watermark. Match the actual input's clean outlined flat-color drawing, never watercolor, dense hatching, soft painted modeling, photographic texture or glossy3D.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude Adrian face/identity/costume/heading"
+        }
+      ],
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6f87d4e8-2005-4ef1-bc10-9c8436942e46.png",
+      "outputSha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+      "candidatePath": "references/garran-bellweather.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6f87d4e8-2005-4ef1-bc10-9c8436942e46.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-6f87d4e8-2005-4ef1-bc10-9c8436942e46.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:11:05Z",
+        "sizes": [
+          "native1024x1536 entire image",
+          "390x585 preview"
+        ],
+        "evidence": "Exact GARRAN BELLWEATHER heading and CURRENT/TEN YEARS EARLIER labels readable. Same mature male identity, current face leaner/grayer/rainworn and younger view broader/drier. Current bracelet on anatomical RIGHT wrist/viewer-left, dull plain metal without emitted magic. Dark formal coat has flat wet patches; both hands/boots intact. No extra people/weapons/effects. Opaque near-white field and crisp hard-shadow style match accepted R01.",
+        "independentVerdict": "NOT REVIEWED"
+      }
+    },
+    {
+      "id": "R07-attempt-01",
+      "assetId": "R07",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T20:13:15Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create ONE 1024 x 1536 portrait reference sheet of the unnamed STORMHART for The Shape of Mercy. Use the supplied human character sheet ONLY for its crisp bold black contour drawing, heavier outer silhouettes, saturated flat color fills and hard-edged shadows. Do not import its person, human anatomy, clothing, lettering or layout.\nDepict one consistent living antlered magical beast, stag-like and enormously powerful, taller than a carriage horse, with coherent natural four-legged ungulate anatomy, sturdy neck, clearly separated legs and cloven hooves. Its large antlers branch like a bare winter tree; keep all tines fully inside the canvas and anatomically connected to the skull. Translucent stormlit skin is rendered graphically in broad flat storm-blue, cyan and silver planes, with sparse branching silver currents suggested beneath the skin. Native lightning crawls from antler tine to tine in crisp hard-edged silver/white angular marks. This is the creature's own living storm, not power coming from a rider, collar or artifact. Do not show an exposed skeleton, organs or gore.\nThe important old scar lies IN the skin around the throat, a narrow irregular healed scar with a little dark dried-red blood along it. It is NOT an external collar, rope, wire, necklace, chain or metal ring. A clear head-and-throat detail must make that distinction visible. No physical command-thread is visible on this reference sheet.\nComposition: one large complete three-quarter side view of the entire creature, in a tense standing posture, head somewhat lowered, all four legs/hooves and entire branching antlers visible and separate. Add one smaller useful head/throat close detail of the SAME creature below or beside the main view, separated by generous near-white space; keep the scar, muzzle and antler bases consistent. The head detail is not a second beast and no new body-state change occurs. Use plausible anatomy and strong readable silhouettes, no hidden extra legs, twisted hoof joints or decorative appendages.\nExact heading at top: STORMHART, large bold black uppercase comic lettering. No other words, diagram arrows, scale figures or symbols. Fully OPAQUE uniform near-white #FFFDF4 ground; no transparent background. No people, other animal, saddle, rider, reins, harness, armor, bracelet, collar, physical magic rope, weapons, scenery, smoke, fog, soft aura or blur. Render lightning and translucency with FLAT graphic color shapes and sharp outlines, no glowing bloom, gradient, glossy3D, photorealism, watercolor, dense hatching or painterly modeling. Preserve a living creature's expressive fear/anger without a demonic face or gratuitous injury.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude human anatomy/identity/clothing/heading"
+        }
+      ],
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef61078c-1320-4513-92e3-0a1d45118530.png",
+      "outputSha256": "17e2c59a4caa5d79494778f03dd5888f5b307f6f916259731a24dae77ddd2cbd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef61078c-1320-4513-92e3-0a1d45118530.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ef61078c-1320-4513-92e3-0a1d45118530.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:17:05Z",
+        "sizes": [
+          "native1024x1536 entire image",
+          "390x585 preview"
+        ],
+        "findings": [
+          "Scar is a long vertical stitched-looking gash down side of neck rather than old scar around throat.",
+          "Shaggy opaque-looking blue fur does not establish translucent stormlit living skin."
+        ],
+        "preserve": "Four coherent hooved legs, branching antler silhouette, intrinsic lightning, exact STORMHART heading and two-view layout."
+      },
+      "coordinatorReview": {
+        "verdict": "REVISE",
+        "reviewer": "/root",
+        "evidence": "Coordinator native/390px review supplied matching throat-scar and opaque-fur findings in task message; not selected."
+      }
+    },
+    {
+      "id": "R07-attempt-02",
+      "assetId": "R07",
+      "kind": "reference-edit",
+      "preflightAt": "2026-09-18T20:17:05Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the supplied STORMHART reference sheet, Image1, to correct TWO specific source errors in BOTH the large whole-body view and the smaller head/throat detail. Image2 Adrian is ONLY the accepted GN rendering-style anchor; do not import any human identity, clothing or text.\n1. THROAT SCAR: Remove the long vertical side-neck gash completely. Replace it with a narrow irregular OLD HEALED SKIN SCAR curving ACROSS AND AROUND THE THROAT just below the jaw, following the neck's circumference and perspective. It crosses the front of the throat and curves around the visible side; it does not run lengthwise down the neck. Add only a little dark dried-red blood along a few points. It must be visibly embedded in living skin, not an external collar, rope, cord, wire, chain, metal band or stitched wound. Do not draw sutures or barbs. The same scar position and curved orientation must agree in both views.\n2. LIVING TRANSLUCENT HIDE: Replace the heavy shaggy opaque blue fur and mane with smooth, visibly translucent stormlit skin. Reduce shaggy outline spikes on neck/torso while keeping the same body's anatomy and recognizable overall silhouette. Show sparse silver branching currents WITHIN the living blue skin, seen beneath its surface, using lighter storm-blue and silver flat planes and clear overlaps. No exposed skeleton or organs. It must read as a living creature with translucent skin, not a shaggy animal, solid ice statue, crystal construct or glossy3D model. Keep it graphic: broad saturated flat fills, crisp black outer contours, limited hard-edged shadow steps, no gradients, bloom, soft aura, haze or photorealistic texture.\nPreserve all passing content: the SAME unnamed creature and expressive face, coherent four-legged anatomy, clear cloven hooves, whole-body stance, large branching winter-tree antler silhouette, antlers anatomically attached, native silver lightning between tines, exact STORMHART heading, two-view layout, 1024 x 1536 portrait canvas, fully opaque near-white background. Keep the main creature's antlers/hooves entirely inside the canvas and separate. No added people, animals, saddle, reins, armor, bracelet, physical magic connection, scene setting, labels, other text or watermark. Do not change the sheet's identity or invent another injury. This is a focused correction to scar direction/material and hide treatment.",
+      "inputImages": [
+        {
+          "id": "R07-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ef61078c-1320-4513-92e3-0a1d45118530.png",
+          "sha256": "17e2c59a4caa5d79494778f03dd5888f5b307f6f916259731a24dae77ddd2cbd",
+          "role": "edit target; correct throat scar and hide only, preserve identity/anatomy/antlers/layout"
+        },
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude human anatomy/identity/clothing/heading"
+        }
+      ],
+      "completedAt": "2026-09-18T20:23:02Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-20a8aadf-6fa5-4d26-a04e-d13e3e297a5a.png",
+      "outputSha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+      "candidatePath": "references/stormhart.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-20a8aadf-6fa5-4d26-a04e-d13e3e297a5a.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-20a8aadf-6fa5-4d26-a04e-d13e3e297a5a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:23:02Z",
+        "sizes": [
+          "native1024x1536 entire image",
+          "390x585 preview"
+        ],
+        "findings": [
+          "Curved old skin scar crosses and wraps throat beneath jaw consistently in whole-body and detail views; no external collar or cord.",
+          "Heavy shaggy fur replaced by broad smooth blue hide planes with layered internal silver currents; a few silhouette tufts remain at chest, tail and ankles.",
+          "Four coherent hooved legs, branching antler silhouette, intrinsic lightning, exact STORMHART heading and two-view layout preserved.",
+          "Crisp contours and hard shadow planes remain legible at390px; fully opaque near-white background."
+        ],
+        "disposition": "Suitable candidate for coordinator review; no independent PASS or user approval."
       }
     }
   ],
