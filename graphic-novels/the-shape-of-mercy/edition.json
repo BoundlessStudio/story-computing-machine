@@ -856,8 +856,8 @@
       "number": 8,
       "id": "page-008",
       "path": "pages/page-008.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
       "plannedInputs": [
         "R01",
         "R02",
@@ -866,12 +866,67 @@
         "R09"
       ],
       "framing": "Child/current Phoebe and past/current Garran are temporal states, clearly separated",
-      "attempts": [],
+      "attempts": [
+        "page-008-attempt-01"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 current formal coat identity; cropped shoulder alongside present Phoebe; primary flat GN style"
+          },
+          {
+            "id": "R02",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+            "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+            "role": "Present Evelyn age26 rust-red clothes/braid, worn scorched anatomical LEFT glove only"
+          },
+          {
+            "id": "R04",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "One Phoebe identity; AGE6 for top remembered fragment, AGE16 exhausted current green-tunic state for final panel"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Younger broader man for coercive top fragment; current lean graying man for present testimony, dull sole bracelet anatomical RIGHT"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "Present N3 Hall only: dark candles, physical ice/glass/slush, broken threshold right, outside fire; NOT memory room"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "6910a62c7de32a8a131757d49b750f6883f280574e9577ce996e8de5711134bf",
+        "evidence": "Independent Page008 PASS at native/390/768: all gates including memory/present separation, exact readable text and attribution, ages, non-graphic anatomy/contact, source states and adjacent continuity clear; no blocking findings."
+      },
+      "selectedAttempt": "page-008-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "reviewedAt": "2026-09-18T23:16:51.1985381Z",
+        "evidence": "Inspected native/390/768 actual saved pixels. Five exact text units readable from first render; four clear panels, shallow six-year-old memory fragment and return to present teenage Phoebe separated through captions/age/cast/setting. Non-graphic coercive wrist grip and distressed caged fox, no child Adrian/cut/missing-interval reconstruction. Current Garran right bracelet/left defensive palm and Evelyn worn scorched left glove correct; final Phoebe lifts head beside cropped Adrian. N3 damage/candlesout/failedwards/outsidefire and stable identities/style/adjacent continuity preserved."
       }
     },
     {
@@ -3169,6 +3224,137 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "c9d8490c8342ad84fa282db3469e02bf62d39287ec1710b0533fed86314675c0",
         "evidence": "Independent Page007 PASS at native/390/768: all exact text and attribution, four-panel reading order, anatomy/contact, gifts/injury/glove states, identities/style and source/preceding-page continuity hold; no blocking findings."
+      }
+    },
+    {
+      "id": "page-008-attempt-01",
+      "assetId": "page-008",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-18T23:09:49Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete 1024x1536 portrait graphic-novel page, FOUR panels. Prioritize LARGE readable lettering from the start: nominal48–52px bold uppercase comic font, ACTUAL cap height34–40px minimum. It must read comfortably when the entire page is390px wide. Allocate generous yellow narration boxes and white speech balloons before arranging art. Do not shrink letters to fit. Black lettering, bold black contours, saturated flat colors, hard-edged shadows, clean white gutters. No blur/bloom/photographic rendering.\n\nEXACTLY FIVE text units in reading order. All words/punctuation must match, line breaks may follow these:\nTOP remembered fragment, yellow narration1:\nI REMEMBERED PHOEBE AT SIX.\nHIS HAND ON HER WRIST.\nTHE FOX IN ITS CAGE.\nTOP same fragment, yellow narration2:\nTHEN MORNING.\nNOTHING BETWEEN.\nMIDDLE LEFT present, Evelyn speech:\nHE WANTED HER AFFINITY\nTO COMMAND ANYTHING\nALIVE. HE MADE HER FEEL\nTHE FOX'S PAIN UNTIL\nSHE COMPLIED.\nMIDDLE RIGHT present, Garran speech:\nI WAS FORGING A WEAPON\nNO ENEMY COULD RESIST.\nFOR THIS FAMILY.\nBOTTOM present, Phoebe speech:\nYOU WERE TEACHING ME\nTHAT LOVE AND OBEDIENCE\nWERE THE SAME.\n\nNo other text, labels, headings, page numbers or SFX. In particular do not add TEN YEARS EARLIER or MORNING headings. Narration conveys incomplete memory; never depict the missing interval or forgotten severance.\n\nFive actual attached references:\n1 Adrian age19, charcoal formal coat/white shirt, short uneven dark hair; current only and rendering style.\n2 Evelyn age26, rust-red formal clothes, long dark braid. Current anatomical LEFT glove still worn/scorched/smoking; no bare burned left palm or morning bandage.\n3 Phoebe SAME identity across age6 child and age16 teenager. Use actual young view ONLY in top memory, current green long-sleeved tunic/loose dark ponytail ONLY in bottom.\n4 Garran SAME man: younger/broader state for top fragment; current lean mature graying rainworn man/dark wet coat for middle-right. Dull non-glowing bracelet on anatomical RIGHT wrist.\n5 N3 damaged Hall for present frames only: broken orchard doors/windows RIGHT, physical water-ice, glass/slush, dark candles, outside firebreak. No projected ward panes.\nIgnore reference-sheet headings/labels. Preserve warm medium-brown family complexions and distinct faces/age states.\n\nLAYOUT: Shallow full-width top memory fragment approximately380–400px high; a visibly wider white gap marks return to present. Two opposed present testimony panels side by side, Evelyn LEFT/Garran RIGHT, about620px high; ordinary gutter, left-to-right reading. Full-width final Phoebe close-up about440px high. Reserve large upper speech areas in both testimony frames, enough for five/three lines at the required cap height, with faces and hands below them. The final panel slows the confrontation with an exhausted direct face. All four panels remain clear; no inset or extra scene.\n\nTOP, remembered fragment ONLY: close, cropped composition of six-year-old Phoebe's tearful face and small wrist held coercively by younger broader Garran's hand; a corner of the cage and distressed red fox in depth. Garran may be partial shoulder/face/forearm, avoiding a full room establishment. Child fully clothed, non-graphic distress; fox crouched or recoiling against bars, no blood or wounds. Clear five-finger anatomy and adult grip around wrist, not throat. First narration upper-left; second narration later at lower-right, both on this SAME fragment. NO child Adrian, severing action, morning bedroom, older siblings or invented architecture. The second caption names the gap without illustrating it.\n\nMIDDLE LEFT, present Hall: adult Evelyn's rigid jaw and grave testimony toward Adrian just off-frame on the hall side. Her scorched LEFT glove visible at lower edge, RIGHT hand bare, no bandage. Balloon occupies generous upper area, short clear tail to Evelyn. No memory imagery or perception overlays in this frame.\n\nMIDDLE RIGHT, present Hall/threshold side: current Garran lean/graying, facing LEFT toward the family. He lifts his EMPTY anatomical LEFT hand defensively; his sole dull metal bracelet remains on anatomical RIGHT wrist, which can rest lower. Clearly show which wrist is which; no duplicate bracelet or glowing focus. His large upper balloon tails to him. Keep damaged threshold/ice/ashfire as sparse background; no beast or lightning bolt added.\n\nBOTTOM, present: SIXTEEN-year-old Phoebe lifts her head from near the floor beside the overturned table, exhausted but direct, looking toward off-frame Garran to RIGHT. Frame her face prominently with Adrian's charcoal-coated shoulder cropped alongside LEFT. Keep her recognizably older/taller-faced than age6, same ponytail and green tunic. Large balloon above/beside face tails unmistakably to Phoebe, no obscured expression. Only current Hall wreckage behind. No Rowena, Marcus or stormhart anywhere. Preserve all consequences and restrained testimony; no magical action occurs.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 current formal coat identity; cropped shoulder alongside present Phoebe; primary flat GN style"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Present Evelyn age26 rust-red clothes/braid, worn scorched anatomical LEFT glove only"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "One Phoebe identity; AGE6 for top remembered fragment, AGE16 exhausted current green-tunic state for final panel"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Younger broader man for coercive top fragment; current lean graying man for present testimony, dull sole bracelet anatomical RIGHT"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "Present N3 Hall only: dark candles, physical ice/glass/slush, broken threshold right, outside fire; NOT memory room"
+        }
+      ],
+      "preflight": {
+        "composition": "Top cropped childhood memory only, wider gap back to N3, opposed present testimony, final age16 face. No forgotten severance/morning depiction.",
+        "lettering": "Five exact units/speakers/punctuation checked; nominal48–52px requested with actualcap34–40px, deliberate short lines",
+        "sourceMoment": "Approved Page08/source157–169 and accepted Page007 continuity inspected",
+        "state": "Evelyn left glove worn/scorched; current Garran empty left hand up/right dull bracelet; candlesout/ice/glass/ashfire, no projected wards",
+        "precedingPageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "referencePixels": "Accepted unchanged actual pixels reused; current hashes verified; distinct R04 age6/16 and R06 younger/current roles"
+      },
+      "outputSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+      "completedAt": "2026-09-18T23:13:10Z",
+      "dimensions": {
+        "opaque": true,
+        "pixelFormat": "RGB24",
+        "height": 1536,
+        "width": 1024
+      },
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-008.png",
+      "producerInspection": {
+        "disposition": "Selected candidate for fresh independent review; no independent PASS or user approval claimed.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All five exact text units, punctuation and speakers retained; narration and long speech read clearly at390px.",
+          "Four frames read top memory, left/right present testimony, final present Phoebe. The fragment contains age6 Phoebe, younger broader Garran gripping wrist and caged distressed fox; no wounds or missing severance/morning scene.",
+          "Present Phoebe is recognizably16, with Adrian shoulder beside her; present Garran is lean/graying with empty LEFT hand raised and sole dull RIGHT bracelet. Evelyn retains worn scorched LEFT glove and bare RIGHT hand.",
+          "N3 ice/glass/slush, extinguished candles, failed wards and outside ashfire retained; no extra named cast or magical action.",
+          "Full page inspected; no blocking producer finding."
+        ],
+        "inspectedAt": "2026-09-18T23:13:10Z"
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-97e44cd8-1468-4674-a835-aaf465613d33.png",
+      "toolProvenance": {
+        "backendModel": null,
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-97e44cd8-1468-4674-a835-aaf465613d33.png",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-97e44cd8-1468-4674-a835-aaf465613d33.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "status": "selected",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 current formal coat identity; cropped shoulder alongside present Phoebe; primary flat GN style"
+          },
+          {
+            "id": "R02",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+            "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+            "role": "Present Evelyn age26 rust-red clothes/braid, worn scorched anatomical LEFT glove only"
+          },
+          {
+            "id": "R04",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "One Phoebe identity; AGE6 for top remembered fragment, AGE16 exhausted current green-tunic state for final panel"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Younger broader man for coercive top fragment; current lean graying man for present testimony, dull sole bracelet anatomical RIGHT"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "Present N3 Hall only: dark candles, physical ice/glass/slush, broken threshold right, outside fire; NOT memory room"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "6910a62c7de32a8a131757d49b750f6883f280574e9577ce996e8de5711134bf",
+        "evidence": "Independent Page008 PASS at native/390/768: all gates including memory/present separation, exact readable text and attribution, ages, non-graphic anatomy/contact, source states and adjacent continuity clear; no blocking findings."
       }
     }
   ],

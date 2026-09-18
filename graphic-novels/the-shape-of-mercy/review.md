@@ -250,3 +250,20 @@ SHA-256 bindings:
 - Temporary QA `page-007-390.png` `783e719f1c1ec634a5bd014bea1ceeadfb50442644f813e984bbab47f081c846`; `page-007-768.png` `a61ad81fbf6e200d186505b3885936b9e7daf394538fcbffae702c18c43c6f94`, in the previously recorded temporary QA directory.
 
 This passes page 007 only for these bytes. Page 008 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
+
+## Page 008 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-008.png`, attempt 01, SHA-256 `f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874`, 1024 × 1536.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected every panel and word at native, 768 px and approximately 390 px widths; reread approved Page 08 and source lines 157–169 with surrounding context. Compared accepted page 007 and previously inspected actual R01/R02/R04/R06/R09 at verified unchanged hashes. The existing full-script/coverage review remains applicable. Only this review file is written.
+- **Text and transitions: PASS.** All five exact text units retain their wording and punctuation, with clear speaker tails and readable lettering at 390 px. Both yellow captions belong to Adrian's incomplete memory. The shallow childhood crop and white gap lead into two present testimony frames, left to right, then Phoebe's final response. The caption explicitly identifying Phoebe at six, her distinctly younger face, Garran's younger state, and the return to the damaged Hall make the temporal transition clear. `THEN MORNING. NOTHING BETWEEN.` does not introduce a pictured morning or recovered interval. No child Adrian, forgotten severance, added speech or extra scene appears.
+- **Figures, action and state: PASS.** Younger, broader Garran grips the clothed child's wrist with coherent adult/child hand ownership; her tearful face and the caged fox's defensive distress remain non-graphic. Present Phoebe reads as sixteen, lifts her exhausted face toward Garran, and retains Adrian's cropped charcoal shoulder alongside. Evelyn's rust clothing, braid and scorched smoking left glove remain intact. Current Garran is leaner and graying, with the sole ordinary bracelet on his anatomical right wrist and his empty left hand raised defensively. Visible anatomy, clothing and gazes remain coherent across the opposed testimony.
+- **Environment and rendering: PASS.** Present panels preserve N3 broken windows, ice, glass/slush, overturned furniture, dark candles and outside ashfire without restored ward panes or subjective gift overlays. Identities and Hall-side/threshold-side relationships continue accepted references and page 007. Crisp contours, flat saturated color, graphic shadows, white gutters, yellow narration and uppercase lettering maintain the edition style; no blocking photographic or painterly drift appears.
+
+SHA-256 bindings:
+
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Preceding page 007 `57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee`.
+- R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`; R06 `e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0`; R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`.
+- Temporary QA `exec-97e44cd8-1468-4674-a835-aaf465613d33-390.png` `ae56c5e015df1a33e22132c115e00e00d7dc8967bd0456881a9cdda43313ef5c`; corresponding `-768.png` `b1105fa5c1e54b7726edfdcaa53d57f8049ce840a2e68668aba5a3d0a4aa6ea8`, in the previously recorded temporary QA directory.
+
+This passes page 008 only for these bytes. Page 009 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
