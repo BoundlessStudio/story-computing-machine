@@ -715,3 +715,25 @@ PDF/render files: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 18: PASS.** Independently confirmed one embedded image with exact decoded RGB parity to the selected PNG, unrotated 432 × 648-point media/crop boxes and a full-page transform. The Page 17 bookmark targets page 18. Both actual renders preserve all edges, lettering and action without clipping or stretch. No earlier-page assembly, optional HTML or broad control regression was repeated.
 
 **P17-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P18–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 018 — P18-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: entire corrected P18, P17 continuity and actual PDF page 19. Read the source from the final-pair step through the eleventh donor's memory, including the following subsecond timing needed to judge the exit; checked the four-panel script and both attempt prompts/findings. Inspected the selected 1024 × 1536 PNG and actual 864 × 1296/390 × 585 PDF renders. Source/plan/STYLE hashes remain the versions recorded in P15; P17 remains `b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5`.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P18-002 `page-018.png` | `1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96` |
+| Manifest at scoped read | `28f8d9559299ea52fa0a32d0e5951ba341e461382a4622063317db17bacc2aaa` |
+| `through-018.pdf` | `51208d62ae1ac229fdc8ef6ddcc405438807d1cf741d8038927e22fb2bf77ab3` |
+| `full-19.png` | `8502f44e9b8d7d738d06151a1f1263066499b7a7d127de4b888f0c57bdba5ca0` |
+| `reading-19.png` | `0aad63e55835f025d23d54fdc686912da72b4e9aab43b02dde0381f72e0b54db` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Panel mechanics and continuity: PASS.** P18.1 now has two actual whole bell endpoints joined by one straight trace, with one Solstice at the northern/left destination inside the third column. The old elevated bell/stray route does not persist. Needle impacts form a separate water trail behind her. P18.2 gives both coherent hands room to drive apart amid human-scale nonliving shells; severed lower ranks disclose the paired plane while upper ranks descend. P18.3 destroys C11 at the northern breakwater, with dark wreckage and silver fragments distinguishable; intact C12 stays south/right. P18.4 retains the separating C11 pieces and straight residual line to that sole intact bell. Her strained face, pitched shoulders and flying hair read as immediate convulsion, not recovery or an elapsed rest. The dying endpoint is not rebuilt, and the next transit has not happened yet.
+
+**State, intent and presentation: PASS.** Adult identity, soaked hair/armor, right shoulder/rib injury, nosebleed and opaque sternum match P17; no new injury, leg failure, helper or extra figure appears. The donor's unhidden crying remains a remembered human response, without a literal donor/mold apparition. All five caption blocks match the exact script, including `1,024` and all sentence punctuation, and were independently read at full and 390-pixel sizes. Four stacked panels and clear gutters keep step, close attack, burn and recoil sequential. Crisp contours, hard shadows, flat saturated storm colors and yellow uppercase lettering remain consistent.
+
+**Actual PDF page 19: PASS.** Independently verified one embedded image with exact decoded RGB parity to the selected PNG, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 18's bookmark targets PDF page 19. Both actual renders preserve edges, aspect, lettering and action without clipping or stretch. No earlier-page assembly, optional HTML or broad control regression was repeated.
+
+**P18-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P19–P24 and complete book: NOT REVIEWED.** No final user approval is certified.

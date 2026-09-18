@@ -1346,8 +1346,8 @@
       "id": "page-018",
       "number": 18,
       "path": "pages/page-018.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
       "dependsOn": [
         "R1",
         "R2",
@@ -1355,12 +1355,57 @@
         "R4",
         "page-017"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity/current wet and injured state; only LEFT hip tear, hidden focus, no leg failure."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Northern breakwater LEFT, southern endpoint RIGHT, same offshore view."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Only C11/C12; C11 whole until third panel and still sounding as fragments at final instant."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-scale nonliving third-column capsules forced across final paired plane."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-017.png",
+          "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "role": "Accepted P17 two whole bells and current injury/style continuity."
+        }
+      ],
+      "attempts": [
+        "P18-001",
+        "P18-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-018",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "000067033dea7f44c084bf404a26e6ec3be180d39f4eea77fa84f7e086036431",
+        "temporaryPreviewSha256": "f3629527c20416c80d492fef966c4e24a39dc1dd657b9d1bd02bd390a1836e02",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-018.pdf",
+        "partialPdfSha256": "51208d62ae1ac229fdc8ef6ddcc405438807d1cf741d8038927e22fb2bf77ab3",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-19.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-19.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P18-002 PASS: straight true-endpoint transit, third column/northern C11 burn, intact southern C12 and immediate dying-line continuation, all captions/full390 PDF page19/RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-019",
@@ -3859,6 +3904,138 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P18-001",
+      "assetId": "page-018",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished portrait comic page18 of Solstice Evening Bell,1024x1536. FOUR clear black-bordered panels with white gutters: long upper straight-step panel22%, close middle attack25%, wide eruption30%, close lower convulsion23%. Read top to bottom, no inset or overlap. Match accepted page17: strong black ink, hard-edged flat silver/navy/cobalt, angular storm clouds, rain strokes, yellow narration rectangles with uppercase condensed black comic lettering around40–44px, minimum40px. No title/page number/extra words/SFX.\n\nReference roles:1 one adult Solstice, long wet silver hair/gray-blue eyes, layered silver armor/white skirt, RIGHT shoulder/right ribs blood damage, tiny nosebleed, LEFT hip graze only and RIGHT thigh covered, both legs still functional, focus hidden by opaque sternum.2 western bay geometry: offshore west camera looks east, NORTHLEFT/SOUTHRIGHT, intact ridge behind harbor.3 ONLY final ordinary C11 and C12 bells; no tiny reserve bell, no restored C1–C10.4 nonliving human-sized pointed dark capsule frames/folding vanes, no faces or pilots.5 page17 exact current injuries, two-bell state, flat-ink and caption styling. No sheet headings/cutaways or future aftermath state.\n\nThis page destroys the THIRD column,1,024 frames, at the NORTHERN breakwater. The first two shelf columns were destroyed on previous page. The southern fourth column and four ridge columns are outside this crop until later; no extra destruction. Bell11 burns here and remains disintegrating but sounding at the final instant. Bell12 stays whole to the SOUTH. Everything is a rapid uninterrupted sequence; NO resting pause in the last panel. One Solstice per panel, no duplicate teleport body, ghost donor, literal silver mold or new woman. Her own suffering and captions convey memory.\n\nPANEL1: long wide view across bay from offshore. Whole C11 at LEFT near northern breakwater, whole C12 at RIGHT toward southern breakwater. A SINGLE STRAIGHT thin white bell-step trace joins their positions, oriented right-to-left. Solstice is visible ONCE at the LEFT/northern destination beside C11, inside a descending dense third column of human-scale dark frames; no earlier body at the other end. The step travels BETWEEN these two existing chimes, not beyond either. Behind her toward the right, needles stitch a racing sequence of small white water splashes BELOW the step route. Intact breakwaters and bay establish direction. Both whole chime silhouettes remain visible. Caption:\n\"TWO TONES. ONE LINE.\"\n\nPANEL2: close contact in that SAME northern column. Solstice drives her two hands apart, one coherent attached adult figure, strained face/right-rib pain, shells as large as a human packed around her. C11 is nearby at left; the paired edict plane extends straight from this endpoint toward C12 off to the RIGHT in the wider geography. C12 may appear smaller at far-right edge if framing permits; do not invent a nearby extra endpoint. Rain and severed metal reveal a thin planar cutting boundary below her hands. Lower frame ranks are forced down across it by tightly stacked descending upper ranks; some lower shells visibly split while those above push down. Keep her hands and face unobscured. C11 has NOT broken yet in this panel. Caption:\n\"SHE ARRIVED INSIDE THE THIRD COLUMN.\"\n\nPANEL3: wide violent flare at north/LEFT breakwater. C11 visibly SHATTERS at LEFT into jagged silver fragments, never another whole bell. Its paired plane widens into a broad hard WHITE cut through the full third column, broken dark capsule bodies/vanes tumbling against the northern breakwater and foam. Solstice stays in its near air, one silhouette clear of wreckage, no new collision injury. Silver C11 fragments start spraying SOUTHWARD, screenRIGHT, toward still-intact C12 visible at the far RIGHT. Distinguish these silver fragments from dark machine wreckage. No whole eleventh chime remains, but thin residual rain traces still connect its breaking location to C12 during this instant. No damage to distant harbor or ridge. Caption in2lines:\n\"1,024 MORE FRAMES BROKE AGAINST THE NORTHERN BREAKWATER.\"\n\nPANEL4: the next fraction of a second, close Solstice face and upper torso sharply convulsing, shoulders pitched toward harbor below, wet hair flung by the movement. She is NOT resting, upright posing or falling unconscious. Her eyes stay fixed to screenRIGHT/SOUTH, toward the last whole bell. In the upper background LEFT show the same C11 fragment cluster STILL in the act of separating with a diminishing white vibration/rain trace; at upperRIGHT show the sole whole C12. An unbroken thin straight residual line between them makes the still-sounding dying bridge legible. No rebuilt bell, extra whole bell, second figure or exposed focus. Keep current RIGHT shoulder/rib blood and nose trace. Two exact yellow captions, arranged with clear space for her expression and both endpoint states:\n\"THE ELEVENTH HAD HELD THE SILVER MOLD WHILE HER TRANSFORMATION CONSUMED HER.\"\n\"SHE HAD CRIED WITHOUT HIDING IT.\"\n\nFive exact caption blocks, all letters safely inside borders. End mid-convulsion with C11 dying and C12 intact, inviting an IMMEDIATE step along that dying line on next page. Do not depict that next step yet.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity/current wet and injured state; only LEFT hip tear, hidden focus, no leg failure."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Northern breakwater LEFT, southern endpoint RIGHT, same offshore view."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Only C11/C12; C11 whole until third panel and still sounding as fragments at final instant."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-scale nonliving third-column capsules forced across final paired plane."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-017.png",
+          "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "role": "Accepted P17 two whole bells and current injury/style continuity."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read P18 script and source from two tones/one line through eleventh maker remembrance. Actual anchors/preceding page inspected. Straight right-to-left step ends beside C11, one body. Source-close hand separation and descending ranks precede burn. C11 shatters southward; C12 remains whole, residual bridge visibly continues through immediate convulsion. Five captions fit four distinct panels with no literal donor/mold and no rest. P17 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:01:51 UTC",
+      "completedAt": "2026-09-18 00:03:41 UTC",
+      "outputPath": "pages/page-018.png",
+      "outputSha256": "931c658d4bc3f10d9709956e7e3f120d58bcfe989e3068f85e6b2b172222f327",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-758770a4-0bee-4e67-93ed-fad0075abec6.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-758770a4-0bee-4e67-93ed-fad0075abec6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Text, four-panel action, C11 burn/continued note, source states and style pass. P18.1 trace ends at Solstice below elevated left C11, not at the chime. Lower left C11 beside destination and reroute a single straight trace between actual two clappers; remove old trace segment and old bell position. Other panels preserve."
+      }
+    },
+    {
+      "id": "P18-002",
+      "assetId": "page-018",
+      "state": "accepted",
+      "prompt": "Correct ONLY the TOP PANEL of the FIFTH attached complete comic page18 (1024x1536). All other panels, all five exact captions, gutters, art style, anatomy, injuries, breaking-bell states and background details must remain unchanged. One full page output.\n\nIn the top panel the white bell-step trace currently reaches Solstice below the LEFT whole chime. Correct the geometry so ONE straight line visibly connects the TWO actual sounding whole chimes.\nMove the existing LEFT whole bell C11 from its high position (roughly x185,y135 clapper) downward into the destination vicinity, immediately LEFT of Solstice's head/body, with its new clapper around x150,y213. Its complete ordinary bell silhouette should occupy approximately x115–185,y156–229. Keep its full bell shape/clapper visible with clear separation from Solstice's face at about x200,y235. Restore normal dark frame silhouettes/rain where that same bell USED TO be; there must still be exactly TWO whole bells total, never a duplicate at the old location.\nKeep RIGHT C12 exactly at its existing place, with clapper around x886,y209.\nDraw a SINGLE thin straight white arrival/step trace between the newly positioned LEFT C11 clapper and the existing RIGHT C12 clapper, almost horizontal aroundy211. It must end at each bell, not extend beyond, bend toward her body, or fork. Remove the old sloping trace segment that ran below C11 toward Solstice. Solstice remains ONCE at the left/northern destination beside the moved C11, within the third column; do not add any earlier-position body.\nPreserve the needle splashes on the WATER BELOW, the frames, breakwaters and exact caption \"TWO TONES. ONE LINE.\"\n\nReferences1–4 provide identity/geography/bell/capsule anchors; target5 controls exact passing page. Do not change middle/eruption/final-convulsion panels or their endpoint states. Preserve bold black contours, hard flat silver/navy fills and yellow lettering.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity/current state unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Northern-left/southern-right axis unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Two true whole endpoints in panel1; later C11 breaking/C12 intact unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Frames behind moved bell restored in prior position."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-018.png",
+          "sha256": "931c658d4bc3f10d9709956e7e3f120d58bcfe989e3068f85e6b2b172222f327",
+          "role": "P18-001 correction target; first panel only endpoint alignment."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Actual saved P18-001 inspected. Feasible local move of C11 beside destination puts its clapper on straight line to C12 without touching Solstice face or water splashes. Remove former bell/trace positions to avoid duplication. All remaining panels/source state/captions pass."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:05:20 UTC",
+      "completedAt": "2026-09-18 00:06:49 UTC",
+      "outputPath": "pages/page-018.png",
+      "outputSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-76ded7a9-4a8d-4a58-a05e-8b45d752c30c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-76ded7a9-4a8d-4a58-a05e-8b45d752c30c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Saved complete PNG and actual PDF page19 full/390 inspected. Corrected first-panel single straight route reaches both whole bell positions with one Solstice at northern destination; needle water trail separate. Human-scale third-column contact, widened C11 burn and rapid convulsion follow in four panels. C11 broken still sounding at end, C12 whole south; current injury/opaque focus and all five exact captions retained.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P18-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-018.pdf",
+          "sha256": "51208d62ae1ac229fdc8ef6ddcc405438807d1cf741d8038927e22fb2bf77ab3",
+          "pdfPage": 19,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-19.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-19.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -4211,6 +4388,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P17-001 PASS: shared dying endpoint for two successive cuts, empty palm memory, two surviving whole bells, exact captions and actual full390 PDF page18/RGB parity."
+    },
+    {
+      "scope": "page-018",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "000067033dea7f44c084bf404a26e6ec3be180d39f4eea77fa84f7e086036431",
+      "temporaryPreviewSha256": "f3629527c20416c80d492fef966c4e24a39dc1dd657b9d1bd02bd390a1836e02",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-018.pdf",
+      "partialPdfSha256": "51208d62ae1ac229fdc8ef6ddcc405438807d1cf741d8038927e22fb2bf77ab3",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-19.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-19.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P18-002 PASS: straight true-endpoint transit, third column/northern C11 burn, intact southern C12 and immediate dying-line continuation, all captions/full390 PDF page19/RGB parity."
     }
   ],
   "approvals": {
