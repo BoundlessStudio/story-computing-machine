@@ -1609,8 +1609,8 @@
       "id": "page-022",
       "number": 22,
       "path": "pages/page-022.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
       "dependsOn": [
         "R1",
         "R2",
@@ -1618,12 +1618,57 @@
         "R4",
         "page-021"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity/current injured grounded body, no extra cheek cut; right hand closes only in panel2."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Southern concrete and bay geography, intact harbor under white glare."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Thumb-sized silver focus seated inside small sternum recess; actual material crack, all orbiting bells excluded."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Connected interlocking capsules/vanes conduct destructive inverse internally."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-021.png",
+          "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "role": "Accepted P21 intact focus under palm, grounded left hand and crossed dead-silver/mesh chain."
+        }
+      ],
+      "attempts": [
+        "P22-001",
+        "P22-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-022",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_ending_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "61c3c5f115d441adefb3d82538c616e518f1fb2c7d7a65865985e7aab125df87",
+        "temporaryPreviewSha256": "68839cded365f625f8c8b2a0b44b2bd5a72045ed3278d2fe1f155397e047bdd7",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-022.pdf",
+        "partialPdfSha256": "5a001019832aa1b91ea6c02f384baad7b0c06fd85ebc353ec4b75f9dbfa227da",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-23.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-23.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent saved full-page and actual PDF full/390 PASS: intact speech, separate crack, connected inverse; exact text, state, anatomy and P21 continuity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-023",
@@ -4743,6 +4788,142 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P22-001",
+      "assetId": "page-022",
+      "state": "rejected",
+      "prompt": "Create ONE finished1024x1536 portrait comic page22 of Solstice Evening Bell. Exactly THREE panels: upper wide speaking face/hand29%, short physical crush close-up17%, largest lower release54%. Clear black borders/white gutters, same bold black contour/hard flat silver/navy comic style as page21. Speech uses WHITE black-outlined balloons with tails to Solstice; narration uses YELLOW black-bordered boxes. Uppercase condensed black letters40–44px, wrap exact words naturally, readable at390px. No title/page number/SFX/extra text.\n\nInputs1 adult Solstice identity and current state: wet long silver hair, gray-blue eyes, RIGHT shoulder/right rib wounds, small nosebleed, LEFT hip graze only, failed RIGHT leg, kneeling. No invented cheek injury; RIGHT thigh cloth intact.2 southern concrete/bay geometry.3 actual central thumb-sized dull silver oval RESONATOR inside small sternum armor recess, and dead jagged silver. All12 orbiting bells permanently gone.4 interlocked nonliving human-sized capsule frames/vanes.5 page21 actual grounded pose, right palm over focus/left palm supporting, physical silver arc crossed by mesh and exact ink/style.\nOne living woman, no donors/ghosts/souls/animal figures, no replacement magical girls. Zero whole orbiting bells. No royal-hearing rings. The final act permanently destroys the central resonator and spends the dead spells' last residue. It does NOT restore bells, heal Solstice, resurrect anyone or remove her innate living power. Do not show next-page collapsed mesh/closed rupture/countzero yet.\n\nPANEL1: medium-close Solstice still kneeling on cracked SOUTHERN concrete, exhausted but deliberate. Frame face, wounded RIGHT pauldron and right hand at sternum. Her RIGHT fingers are still open/pressed over the small inset focus, NOT crushing yet. LEFT bracing forearm may enter lower edge; grounded pose legible. Eye expression grave, mouth slightly open as she SPEAKS. Two separate WHITE speech balloons, left then right, with clear small tails to HER mouth and exact text:\n\"YOU WERE NEVER MINE TO KEEP.\"\n\"EARTH DOES NOT BELONG TO ITS SAVIOR.\"\nKeep balloons clear of face/hand. No quoted caption substitution, no second speaker.\n\nPANEL2 SILENT: tight true physical close-up of her RIGHT armored fingers now CLOSING on the THUMB-SIZED silver oval resonator where it remains seated in the small STERNUM ARMOR recess. Right thumb opposes curled index/middle fingers; other fingers naturally follow, coherent hand not an extra cluster. The oval is roughly a thumb pad's length, much smaller than the palm. Its silver body develops an unmistakable thin jagged BLACK MATERIAL CRACK, not merely a light reflection. The part remains attached INSIDE the recess, not a jewel held outside her chest or a pendant. Armor surrounds it; no exposed chest skin, anatomy cutaway, gore, donor face, gigantic gem or intact bell. No text. This is the act BEFORE the next panel's consequence.\n\nPANEL3 LARGE: bay turns soundless WHITE as destructive inverse runs THROUGH existing physical connections. Show the connected spatial chain in a wide diagonal view: kneeling Solstice and cracked sternum under her closed RIGHT hand at nearRIGHT southern concrete, LEFT hand touching ground/silver; dead silver pieces laid along the arc; interlocked capsule/vanes crossing those pieces and spanning the bay mouth toward LEFT; then one thin signal connection rising UPWARD from the far mesh toward the high sky beyond the top of this panel. No high rupture need appear in this crop. Represent the inverse as white stress/light traveling INSIDE linked metal surfaces and joints, bleaching the existing dark lattice from within, with black/gray structural outlines still recognizable against an expanding WHITE field. The silver fragments remain broken, their last edge shine fading as spent; no whole bell shapes or donor apparitions.\nSolstice's connected hand/forearm has fine white internal highlights and visible strain to imply the nerve connection without an X-ray, exposed anatomy or extra magical limbs. Keep her a single grounded adult body; no second astral self. The route follows the material links into the synchronized machines and upward signal. This is NOT a radial explosion from her, NO concentric blast rings, outward rays, fireball, mushroom cloud or new giant energy weapon. The whiteness overtakes the bay as the connections release, rather than blowing civilians/buildings away. Distant harbor remains faint intact linework through white glare. Enemy mesh has not yet fully collapsed; final outcome is next page.\nTwo yellow narration boxes on safe clear areas, never obscuring the cracked focus or physical chain, exact wording:\n\"THE FULL CHORD HAD MOVED OUTWARD IN HARMONY. THIS WENT INWARD THROUGH EVERY CONNECTION.\"\n\"NO SOUL RETURNED. ONLY THE LAST RESIDUE OF TWELVE FREELY MADE SPELLS ANSWERED HER LIVING WILL—AND ENDED.\"\n\nKeep the long dash in WILL—AND exactly. Four text blocks total: two spoken balloons, two narration captions; crush panel silent. Three distinct chronological beats: words, material crack, connected inverse/white silence. Final focus destroyed, residue consumed, loss permanent.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity/current injured grounded body, no extra cheek cut; right hand closes only in panel2."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Southern concrete and bay geography, intact harbor under white glare."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Thumb-sized silver focus seated inside small sternum recess; actual material crack, all orbiting bells excluded."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Connected interlocking capsules/vanes conduct destructive inverse internally."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-021.png",
+          "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "role": "Accepted P21 intact focus under palm, grounded left hand and crossed dead-silver/mesh chain."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read exact P22/script and source decision/crack/inverse through white bay. Actual R1–R4/P21 inspected. Two white balloons point to sole speaker; silent macro shows opposed thumb/fingers cracking a small seated focus without exposed chest. Largest panel keeps internal physical connection path visible in white field, not a radial blast or resurrection; outcome/closure reserved for next page. Four exact text blocks including WILL—AND, readable reserved zones. P21 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:26:17 UTC",
+      "completedAt": "2026-09-18 01:27:08 UTC",
+      "outputPath": "pages/page-022.png",
+      "outputSha256": "daf0de6dfd2c42e96e98ea9efcb91a72b169120d2c37577ca6b5f1314c1bb26b",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-34ea2560-6f44-4859-90b8-b16c90c0250a.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-34ea2560-6f44-4859-90b8-b16c90c0250a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "P22.1 visibly cracks the focus before the silent crush panel, collapsing the required sequence. Repair top focus to intact, preserve separate material crack in middle.",
+        "independentDiagnosis": {
+          "reviewer": "/root/gn_plan",
+          "evidence": "Confirmed premature crack in upper focus. Lower pointed mechanical formation reasonably reads as core/signal column using faceted metal and interlocking vanes, with no civic architecture; no scope expansion necessary."
+        }
+      }
+    },
+    {
+      "id": "P22-002",
+      "assetId": "page-022",
+      "state": "accepted",
+      "prompt": "Edit the attached complete comic page P22. Preserve the three-panel layout, character identity, injuries, rendering, all lettering verbatim, middle physical crush and lower connected inverse release. ONE localized chronology repair only: in the UPPER speaking panel, the small silver oval focus visible within Solstice's sternum armor recess must be completely INTACT, a smooth unbroken silver surface. Remove the black zigzag crack and every split/separation line from that UPPER oval; preserve its oval volume, metallic shading, surrounding armor and fingers. She is speaking before crushing it. In the MIDDLE close-up, KEEP the clear material crack unchanged: this is the subsequent actual crush. Lower panel remains the separate resulting inward conduction through her living body, spent silver and interlocked shells. No new words or panels; no orbiting chimes or restoration. The final attached image is the target complete page; the other four establish exact identity, geography and equipment only. Output a single corrected complete 1024x1536 page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "R1 identity and current injuries"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "R2 bay geography"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "R3 thumb-sized silver focus geometry, no orbiting chimes"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "R4 capsule frame geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-022.png",
+          "sha256": "daf0de6dfd2c42e96e98ea9efcb91a72b169120d2c37577ca6b5f1314c1bb26b",
+          "role": "Complete P22-001 edit target; upper focus only"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Compared actual full candidate against source/approved P22. Upper focus prematurely cracked. Local intact-surface repair preserves lower physical cause and consequence, all exact lettering and layout."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:33:21 UTC",
+      "completedAt": "2026-09-18 01:35:03 UTC",
+      "outputPath": "pages/page-022.png",
+      "outputSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-3e57e048-96f3-4cf8-adfa-2a7abfaf8f9e.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-3e57e048-96f3-4cf8-adfa-2a7abfaf8f9e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved image and actual PDF full/390 inspected: upper smooth intact focus, separate middle physical crack, then internally connected white inverse across silver/lattice. Exact two white speech balloons and two yellow narration boxes; no resurrected donors, restored bells or outward blast. Prior right shoulder and left hip states persist.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P22-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-022.pdf",
+          "sha256": "5a001019832aa1b91ea6c02f384baad7b0c06fd85ebc353ec4b75f9dbfa227da",
+          "pdfPage": 23,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-23.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-23.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -5167,6 +5348,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P21-002 PASS: twelve separated residue trails and physical lattice crossings, grounded living contact/intact focus before release, no restored bells or new wound; all captions/full390 PDF page22/RGB parity."
+    },
+    {
+      "scope": "page-022",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_ending_review",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "61c3c5f115d441adefb3d82538c616e518f1fb2c7d7a65865985e7aab125df87",
+      "temporaryPreviewSha256": "68839cded365f625f8c8b2a0b44b2bd5a72045ed3278d2fe1f155397e047bdd7",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-022.pdf",
+      "partialPdfSha256": "5a001019832aa1b91ea6c02f384baad7b0c06fd85ebc353ec4b75f9dbfa227da",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-23.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-23.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent saved full-page and actual PDF full/390 PASS: intact speech, separate crack, connected inverse; exact text, state, anatomy and P21 continuity."
     }
   ],
   "approvals": {
@@ -5397,6 +5596,15 @@
       "beforeBytes": 48889011,
       "afterBytes": 31073946,
       "evidence": "Original RGB PNG IDAT streams embedded with lossless PNG predictors. All12 embedded RGB images equal selected original pixels; all12 full Poppler render PNG hashes identical to prior unoptimized PDF. Original PNGs untouched. Future assemblies use this encoding; final25-page rendering/review still required."
+    },
+    "finalPreparation": {
+      "sourceAndAuthorityPins": 17,
+      "verifiedSelectedComicPages": 22,
+      "recordedImageOutputs": 53,
+      "originalOutputHashFailures": [],
+      "packageBoundary": "Only prompt.md, plan.md, review.md, edition.json, selected cover/references/pages; final PDF pending. Temporary scripts/previews/rejections remain external.",
+      "sourceAndPublicationEdits": false,
+      "completeBookReview": "NOT REVIEWED"
     }
   }
 }

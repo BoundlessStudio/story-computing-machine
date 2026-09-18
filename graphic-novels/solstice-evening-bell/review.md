@@ -803,3 +803,31 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 22: PASS.** Independently verified one embedded image with exact decoded RGB parity, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 21's bookmark targets page 22. Both actual renders preserve edges, aspect, lettering and physical crossings without clipping or stretch. No earlier-page assembly, optional HTML or broad controls were rerun.
 
 **P21-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P22–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 022 — P22-002 independent review — PASS
+
+Reviewer: `gn_ending_review`, independent graphic-novel reviewer; 2026-09-17. Scope: selected corrected P22, its immediate P21 transition, and the actual PDF page 23 renders. Read the complete approved script/coverage and source passages from the surviving columns and conductor setup through the ending. Inspected all three panels and every visible word in the saved 1024 × 1536 page, actual 864 × 1296 desktop PDF render and 390 × 585 reading render; compared accepted R1, R3, R4 and P21 pixels. This reviewer produced none of those inputs and changed only this review file.
+
+| Reviewed input/output | SHA-256 |
+| --- | --- |
+| Source `05-story.md` | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Current `plan.md` | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| GN `STYLE.md` v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| R1 identity/rendering | `cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c` |
+| R3 equipment | `2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208` |
+| R4 frame | `e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a` |
+| P21-002 `page-021.png` | `8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06` |
+| P22-002 `page-022.png` | `f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47` |
+| `through-022.pdf` | `5a001019832aa1b91ea6c02f384baad7b0c06fd85ebc353ec4b75f9dbfa227da` |
+| `full-23.png` | `d131f75b31209fc621b4d1b21f5fb47c6e53c5b4b3295b9c3a70a2ee55e40c55` |
+| `reading-23.png` | `3bb0684bfdb9778c23d6bd14b84e12069ff01319a623b26b60232eec24ec7ccd` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`. All listed hashes independently rechecked.
+
+**Action, material state and continuity: PASS.** P22.1 now shows the small oval focus intact in its sternum recess throughout both speeches; the prior premature-crack concern is resolved in these actual pixels. P22.2 separately shows the armored fingers closing around a visibly cracked physical resonator, consistent with R3, without an external jewel or exposed chest. P22.3 retains her grounded low posture, right hand at sternum and left palm on wet concrete. White connection accents run along the existing interlocked shells and spent-silver arc, with an upward connection at the metallic core. That pointed shape belongs to the frame formation rather than reading as a new coastal landmark. There is no radial air blast, renewed bell, ghost, resurrection or already-completed seam closure. The inverse's verified outcome remains for P23. Wet adult identity, nose trace, right shoulder/rib damage and left hip graze continue from P21; no new injury or recovery is introduced. Both hands, attached wrists and folded legs read coherently.
+
+**Lettering and sequential presentation: PASS.** Both speech balloons and both yellow captions match the exact P22 transcript, including terminal periods and `WILL—AND ENDED.` The middle panel is silent. Tails unambiguously identify Solstice, and the left-to-right speech order precedes the downward hand close-up and wider consequence. Three crisp frames and white gutters separate time without inset/overlap ambiguity or misleading crossings. At 390 px, all four text blocks remain readable and clear of the essential contact. Black contours, hard-edged armor/cloth shadows, flat storm fields, yellow captions and uppercase lettering retain the accepted GN rendering. The story-required white bloom reduces background contrast without obscuring the causal figures or turning the page into wash rendering.
+
+**Actual PDF page 23 renders: PASS.** Both supplied renders retain the complete selected page, its proportions, panel borders, lettering and action without visible clipping, stretch or rendering damage. The coordinator's decoded-image parity/order checks are separate evidence and were not repeated here. Earlier PDF pages, complete assembly, navigation and accessibility were outside this bounded visual review.
+
+**P22-002 and its rendered PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P23–P24 and complete book: NOT REVIEWED.** This is assistant page review, not whole-book certification or user approval.
