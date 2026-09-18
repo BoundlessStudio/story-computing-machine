@@ -1,0 +1,966 @@
+{
+  "format": "graphic-novel-draft-manual",
+  "contractVersion": "0.6",
+  "slug": "the-shape-of-mercy",
+  "title": "The Shape of Mercy",
+  "status": "awaiting-plan-approval",
+  "createdAt": "2026-09-18T18:37:05.8498501Z",
+  "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
+  "branch": "codex/graphic-novel-the-shape-of-mercy",
+  "source": {
+    "slug": "the-shape-of-mercy",
+    "title": "The Shape of Mercy",
+    "layout": "bundle",
+    "snapshotCommit": "dd47e0ff894a93f0a397a43d80b3c4541b0b6954",
+    "proseLastCommit": "760be9974b5bf8bdd79a1961607b1a0a8fc52a15",
+    "prose": {
+      "path": "stories/the-shape-of-mercy/05-story.md",
+      "sha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a"
+    },
+    "prompt": {
+      "path": "stories/the-shape-of-mercy/00-prompt.md",
+      "sha256": "a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d"
+    },
+    "state": {
+      "path": "stories/the-shape-of-mercy/story.json",
+      "sha256": "1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5"
+    },
+    "cover": {
+      "path": "stories/the-shape-of-mercy/title-image.jpg",
+      "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+    },
+    "review": {
+      "path": "stories/the-shape-of-mercy/04-review.md",
+      "sha256": "df9d8ae7f07ff4068fc06e94c0bd1200487d7b8371b0af945282fe2d23a1dc3f"
+    },
+    "canon": true,
+    "catalogCanon": true,
+    "canonReconciliation": "matching",
+    "historicalReview": {
+      "pass": 4,
+      "verdict": "PASS",
+      "certifiedProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+      "matchesCurrentProse": true,
+      "scope": "Historical source certification only; adaptation review is separate"
+    },
+    "externalOriginals": [],
+    "sameStoryIllustratedEditions": []
+  },
+  "style": {
+    "path": "graphic-novels/STYLE.md",
+    "sha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f"
+  },
+  "contract": {
+    "path": ".agents/skills/graphic-novel-create/SKILL.md",
+    "sha256": "54e437d058244a5fe83547f53af88687d554c70136ad962b80b18418bb6fd8bc"
+  },
+  "authority": [
+    {
+      "path": "universe/README.md",
+      "sha256": "ff7a9e9568c52737f06dffd190584d16a68a1754e18d7444f8010607637f5aef"
+    },
+    {
+      "path": "universe/style-guide.md",
+      "sha256": "9059f1dcfa9d01fb5279ae8d921a33bb09cf45c9844446034620ee8496bff966"
+    },
+    {
+      "path": "universe/premise.md",
+      "sha256": "d2838fa36194dcc27cdcc26665a9c8b30f8ffc2b2d42a648b64372934e9f92d9"
+    },
+    {
+      "path": "universe/rules.md",
+      "sha256": "4885af39c8b4652bcd03064e95d7d5fd814402014888b1de30b55f5228e049ca"
+    },
+    {
+      "path": "universe/characters.md",
+      "sha256": "dbe1d4e8cb8b9bab1936994fbc945ac655ecb659d90a7e879eb2234a2d87e8f6"
+    },
+    {
+      "path": "universe/locations.md",
+      "sha256": "767211808229a55c2373606027a7e7d9b95fdcdfa6318eacfbbd6ed44fb8205d"
+    },
+    {
+      "path": "universe/factions.md",
+      "sha256": "87606896be6880257fa3225c439d5df2d1216a8143db79ddbf7c422b2d779b57"
+    },
+    {
+      "path": "universe/timeline.md",
+      "sha256": "a81e89dd8ba4827fde5d5777339461e44ec4233970f026ccaf439f196708205e"
+    },
+    {
+      "path": "universe/glossary.md",
+      "sha256": "dc77578ce53305cbfaf7ca6fb90c9cda9aadceddea62c5de8e303dc917b07ceb"
+    },
+    {
+      "path": "universe/retcons.md",
+      "sha256": "2decd9766c4567c451a011b21ab3106bb1e445eb94e31e060b7dfb0cdc2ee26b"
+    }
+  ],
+  "request": {
+    "path": "graphic-novels/the-shape-of-mercy/prompt.md",
+    "sha256": "176e72c32088810574534b010c74344fa2c0a153a10744cac29757bfcdc52db7"
+  },
+  "plan": {
+    "path": "graphic-novels/the-shape-of-mercy/plan.md",
+    "sha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+    "pages": 25,
+    "panels": 95,
+    "independentVerdict": "PASS"
+  },
+  "proposedCounts": {
+    "storyPages": 25,
+    "newReferenceImages": 12,
+    "reusedReferenceImages": 0,
+    "reusedCovers": 1,
+    "coverGenerations": 0,
+    "pdfPages": 26
+  },
+  "cover": {
+    "path": "cover.jpg",
+    "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+    "sourcePath": "stories/the-shape-of-mercy/title-image.jpg",
+    "sourceSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+    "status": "selected-reuse",
+    "width": 864,
+    "height": 1536,
+    "preserveAspectRatio": true,
+    "inspection": {
+      "verdict": "PASS",
+      "reviewer": "/root",
+      "role": "coordinator",
+      "inspectedAt": "2026-09-18T18:37:05.8554056Z",
+      "evidence": "Full-size source pixels inspected: readable exact title, ordinary paper/pen and symbolic cut black cord with intact storm/ice/fire strands, antler shadow. Reused unchanged as cover; no cast identity evidence; photographic rendering and literal cords excluded from comic interiors."
+    }
+  },
+  "references": [
+    {
+      "id": "R01",
+      "path": "references/adrian-bellweather.png",
+      "subject": "Adrian Bellweather, age 19, one identity; formal coat and morning shirt states",
+      "consumers": "Page 1; pages 1–25 as listed in call table",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": []
+    },
+    {
+      "id": "R02",
+      "path": "references/evelyn-bellweather.png",
+      "subject": "Evelyn Bellweather, age 26; left gloved, scorched bare, morning bandaged hand states",
+      "consumers": "Page 4; 4, 6–11, 14, 16, 24",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R03",
+      "path": "references/marcus-bellweather.png",
+      "subject": "Marcus Bellweather, age 23; intact coat, cold-injured sleeve, morning state",
+      "consumers": "Page 1; 1, 5, 7, 9, 11, 14–16, 22, 24",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R04",
+      "path": "references/phoebe-bellweather.png",
+      "subject": "Phoebe Bellweather, age 16 and same identity age 6 for remembered fragment; overwhelmed and morning states",
+      "consumers": "Page 2; 2–3, 6, 8, 12–13, 16, 18–20, 24",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R05",
+      "path": "references/lady-rowena-bellweather.png",
+      "subject": "Lady Rowena Bellweather; silver-channel gown; no separate magical identity",
+      "consumers": "Page 1; 1–3, 5, 7, 10–12, 15–17, 19, 21–24",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R06",
+      "path": "references/garran-bellweather.png",
+      "subject": "Garran Bellweather now lean and ten years earlier broader; dull bracelet on right wrist, nonliving focus",
+      "consumers": "Page 2; 2–3, 8–9, 12, 17",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R07",
+      "path": "references/stormhart.png",
+      "subject": "Unnamed stormhart, one creature; throat scar, branching antlers, intrinsic storm",
+      "consumers": "Page 2; 2–6, 12–14, 18, 20",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R08",
+      "path": "references/bellweather-hall-intact.png",
+      "subject": "One coherent view of intact ceremonial Hall, candlelight; external orchard glimpse only",
+      "consumers": "Page 1; geometry input for 1, 4–5",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01",
+        "R05"
+      ]
+    },
+    {
+      "id": "R09",
+      "path": "references/bellweather-hall-damaged.png",
+      "subject": "Same Hall geography at N3; broken doors/windows, overturned table, pillar, far gallery, ice barrier",
+      "consumers": "Page 6; 6–11, 13–15, 17–18",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R08",
+        "R01",
+        "R02"
+      ]
+    },
+    {
+      "id": "R10",
+      "path": "references/bellweather-orchard-intact.png",
+      "subject": "One coherent outdoor view: flowering trees, pond, courtyard edge, orchard wall and Hall doors",
+      "consumers": "Page 4; direct inputs 4, 20, 25; page 5 preserves the inspected page-4 geometry without another attached image",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01",
+        "R08"
+      ]
+    },
+    {
+      "id": "R11",
+      "path": "references/adrian-bedchamber.png",
+      "subject": "One coherent plain bedchamber, bed, doorway and morning window; no invented heraldry",
+      "consumers": "Page 19; 19, 21–23, 25",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01"
+      ]
+    },
+    {
+      "id": "R12",
+      "path": "references/household-ledger.png",
+      "subject": "Ordinary brown-leather ledger, black inkpot, pen, detachable appointment leaf; dry/wet paper states of same object",
+      "consumers": "Page 15; 15, 19, 21–23, 25",
+      "status": "planned",
+      "sha256": null,
+      "attempts": [],
+      "inspection": {
+        "verdict": "NOT REVIEWED"
+      },
+      "plannedInputs": [
+        "R01",
+        "cover"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "id": "page-001",
+      "path": "pages/page-001.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R03",
+        "R05",
+        "R08"
+      ],
+      "framing": "Only Adrian, Marcus and Rowena visibly identified",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 2,
+      "id": "page-002",
+      "path": "pages/page-002.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ],
+      "framing": "Tight threshold/cast framing; other siblings remain off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 3,
+      "id": "page-003",
+      "path": "pages/page-003.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ],
+      "framing": "Same axis; no additional visible family",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 4,
+      "id": "page-004",
+      "path": "pages/page-004.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R07",
+        "R08",
+        "R10"
+      ],
+      "framing": "Only Evelyn, Adrian and beast; guests secondary",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 5,
+      "id": "page-005",
+      "path": "pages/page-005.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R03",
+        "R05",
+        "R07",
+        "R08"
+      ],
+      "framing": "Marcus, Rowena, Adrian and beast; damaged geometry scripted",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 6,
+      "id": "page-006",
+      "path": "pages/page-006.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R04",
+        "R07",
+        "R09"
+      ],
+      "framing": "Close perception views; Garran's bracelet endpoint is described, not a sixth visible figure",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 7,
+      "id": "page-007",
+      "path": "pages/page-007.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R05",
+        "R09"
+      ],
+      "framing": "Beast and Garran off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 8,
+      "id": "page-008",
+      "path": "pages/page-008.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R04",
+        "R06",
+        "R09"
+      ],
+      "framing": "Child/current Phoebe and past/current Garran are temporal states, clearly separated",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 9,
+      "id": "page-009",
+      "path": "pages/page-009.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R06",
+        "R09"
+      ],
+      "framing": "Rowena off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 10,
+      "id": "page-010",
+      "path": "pages/page-010.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R05",
+        "R09",
+        "P09"
+      ],
+      "framing": "Cost discussion; Marcus/Garran off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 11,
+      "id": "page-011",
+      "path": "pages/page-011.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R05",
+        "R09"
+      ],
+      "framing": "Phoebe appears only in spoken/captioned recollection",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 12,
+      "id": "page-012",
+      "path": "pages/page-012.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ],
+      "framing": "Five identities, tight local views; no wide new geography",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 13,
+      "id": "page-013",
+      "path": "pages/page-013.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R07",
+        "R09",
+        "P12"
+      ],
+      "framing": "Adrian/Phoebe consultation",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 14,
+      "id": "page-014",
+      "path": "pages/page-014.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R07",
+        "R09"
+      ],
+      "framing": "Separate sibling restraint frames; Phoebe/Rowena off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 15,
+      "id": "page-015",
+      "path": "pages/page-015.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R03",
+        "R05",
+        "R09",
+        "R12"
+      ],
+      "framing": "Record retrieval and warning",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 16,
+      "id": "page-016",
+      "path": "pages/page-016.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05"
+      ],
+      "framing": "Close faces/hands/leaf only; all five individual identities",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 17,
+      "id": "page-017",
+      "path": "pages/page-017.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R05",
+        "R06",
+        "R09",
+        "P16"
+      ],
+      "framing": "Record stays outside Garran's reach; other siblings off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 18,
+      "id": "page-018",
+      "path": "pages/page-018.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R07",
+        "R09",
+        "P17"
+      ],
+      "framing": "Approach before cut; no omniscient outcome",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 19,
+      "id": "page-019",
+      "path": "pages/page-019.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R05",
+        "R11",
+        "R12"
+      ],
+      "framing": "Evelyn/Marcus have entered but remain off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 20,
+      "id": "page-020",
+      "path": "pages/page-020.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R04",
+        "R07",
+        "R10",
+        "P19"
+      ],
+      "framing": "Explicit witnessed reconstruction; no Garran confinement image",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 21,
+      "id": "page-021",
+      "path": "pages/page-021.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R05",
+        "R11",
+        "R12",
+        "P19"
+      ],
+      "framing": "Back in bedroom; document and admission",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 22,
+      "id": "page-022",
+      "path": "pages/page-022.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R03",
+        "R05",
+        "R11",
+        "R12"
+      ],
+      "framing": "Negotiation opening; other sisters off-frame",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 23,
+      "id": "page-023",
+      "path": "pages/page-023.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R05",
+        "R11",
+        "R12",
+        "P22"
+      ],
+      "framing": "Terms and Rowena's challenge",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 24,
+      "id": "page-024",
+      "path": "pages/page-024.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05"
+      ],
+      "framing": "Close five-person hand/face sequence; no new room view",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    },
+    {
+      "number": 25,
+      "id": "page-025",
+      "path": "pages/page-025.png",
+      "status": "planned",
+      "sha256": null,
+      "plannedInputs": [
+        "R01",
+        "R10",
+        "R11",
+        "R12",
+        "P24"
+      ],
+      "framing": "Empty orchard and final signing; no visible distant beast",
+      "attempts": [],
+      "independentReview": {
+        "verdict": "NOT REVIEWED",
+        "reviewer": null,
+        "role": "graphic_novel_reviewer",
+        "pageSha256": null
+      }
+    }
+  ],
+  "attempts": [],
+  "approvals": {
+    "plan": {
+      "status": "pending",
+      "userResponse": null,
+      "binding": null,
+      "proposedBinding": {
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "sourcePromptSha256": "a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d",
+        "sourceStateSha256": "1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5",
+        "sourceCoverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+        "sourceReviewSha256": "df9d8ae7f07ff4068fc06e94c0bd1200487d7b8371b0af945282fe2d23a1dc3f",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "contractSha256": "54e437d058244a5fe83547f53af88687d554c70136ad962b80b18418bb6fd8bc",
+        "coverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+        "independentPlanReviewFileSha256": "bfc35fcaa43812624a23daec53abafe8b18a3eb99fc72bfc1211664a89dc778f",
+        "counts": {
+          "storyPages": 25,
+          "newReferenceImages": 12,
+          "reusedReferenceImages": 0,
+          "reusedCovers": 1,
+          "coverGenerations": 0,
+          "pdfPages": 26
+        },
+        "panels": 95
+      }
+    },
+    "final": {
+      "status": "pending",
+      "userResponse": null,
+      "binding": null
+    }
+  },
+  "preflightReview": {
+    "scope": "complete-adaptation-plan",
+    "verdict": "PASS",
+    "reviewer": "/root/mercy_plan_review",
+    "role": "graphic_novel_reviewer",
+    "producer": "/root/mercy_plan; coordinator /root applied R1–R4 repairs",
+    "reviewedPlanSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+    "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+    "sourcePromptSha256": "a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d",
+    "sourceStateSha256": "1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5",
+    "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+    "coverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+    "reviewFile": "review.md",
+    "reviewFileSha256": "bfc35fcaa43812624a23daec53abafe8b18a3eb99fc72bfc1211664a89dc778f",
+    "blockingFindings": [],
+    "resolvedFindings": [
+      "R1",
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "evidence": "Independent full-plan review and targeted recheck recorded in review.md; only plan feasibility passed. All future generated reference/page/PDF scopes remain NOT REVIEWED."
+  },
+  "wholeBookReview": {
+    "scope": "complete-pdf-book",
+    "verdict": "NOT REVIEWED"
+  },
+  "outputs": {
+    "pdf": "edition.pdf",
+    "pdfSha256": null,
+    "pdfPages": null,
+    "expectedPdfPages": 26,
+    "order": [
+      "cover",
+      "page-001",
+      "page-002",
+      "page-003",
+      "page-004",
+      "page-005",
+      "page-006",
+      "page-007",
+      "page-008",
+      "page-009",
+      "page-010",
+      "page-011",
+      "page-012",
+      "page-013",
+      "page-014",
+      "page-015",
+      "page-016",
+      "page-017",
+      "page-018",
+      "page-019",
+      "page-020",
+      "page-021",
+      "page-022",
+      "page-023",
+      "page-024",
+      "page-025"
+    ]
+  }
+}
