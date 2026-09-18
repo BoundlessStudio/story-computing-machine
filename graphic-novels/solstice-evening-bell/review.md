@@ -737,3 +737,25 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 19: PASS.** Independently verified one embedded image with exact decoded RGB parity to the selected PNG, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 18's bookmark targets PDF page 19. Both actual renders preserve edges, aspect, lettering and action without clipping or stretch. No earlier-page assembly, optional HTML or broad control regression was repeated.
 
 **P18-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P19–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 019 — P19-005 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: entire P19-005 after all coordinator repairs, immediate P18 continuity and actual PDF page 20. Read the source through the retained 4,096 count, exact four-panel script and all five attempt prompts/findings. Inspected the actual 1024 × 1536 image and 864 × 1296/390 × 585 PDF renders. Rehashed source/plan/STYLE: unchanged versions recorded in P15; P18 remains `1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96`.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P19-005 `page-019.png` | `70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a` |
+| Manifest at scoped read | `b10226373bf25b1ea67a525402644cd5e8e8b56d5b8d6268afe8b4955e7f1d73` |
+| `through-019.pdf` | `f4c947ba66d582e1fd9c95d9a6343b64520d2af09c0cb241d0e10b8dc02624ff` |
+| `full-20.png` | `0174b28b440519c56d1a940168daf22d727b47ff9d58aef017df206db94d4dc4` |
+| `reading-20.png` | `7fdbe4c720042e4988f080119519297a928d4d168e964494342b72e4ae46c1a3` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Whole-page mechanics and state: PASS.** P19.1 continues immediately from P18: visibly broken C11 at north/left still connects by one straight line to whole C12 at south/right, with one Solstice at arrival. P19.2 is silent and shows direct contact between her blood-scored anatomical right pauldron and the bell wall; the rib guard, twisted torso and attached arms are coherent. P19.3 breaks C12 and the foreground fourth column over southern concrete/foam. Three intact curved ridge streams and a separate small upright core remain in distant dark air, distinct from that foreground destruction. Their whole frames survive even though the three streams lose their separate landing geometry. P19.4 contains shocked Solstice and jagged silver pieces only: zero whole orbiting bells, no renewed hearing effect or exposed focus. The exact retained count is appropriately deferred rather than depicted as new sensing. Wetness, adult identity and prior injury sides persist; no early leg failure, healing or extra person appears.
+
+**Lettering, intent and presentation: PASS.** Read every visible word/punctuation at full and 390-pixel sizes. The opening now clearly ends `SOUNDED.` with a period; its two exact scripted sentences occupy separate yellow boxes without changed wording or order. There are six visible boxes carrying the original five script blocks; the contact panel remains silent. The final consent heading retains its colon and `WOMAN'S` apostrophe; the remembered answer is exactly `YES. ENTIRELY. DO NOT SOFTEN IT FOR ME.` No live donor or apparition is implied. Four stacked panels and clear gutters preserve the immediate transit/contact/burn/silence sequence. Crisp contours, hard shadows, flat saturated color and uppercase yellow-caption treatment remain consistent after the edits.
+
+**Actual PDF page 20: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. Unrotated 432 × 648-point media/crop boxes and full-page placement preserve aspect and edges; Page 19's bookmark targets page 20. Both actual renders retain all words/action without cropping or stretch. No previous-page assembly, optional HTML or broad controls were rerun.
+
+**P19-005 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P20–P24 and complete book: NOT REVIEWED.** No final user approval is certified.

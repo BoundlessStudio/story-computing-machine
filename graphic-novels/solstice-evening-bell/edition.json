@@ -1411,8 +1411,8 @@
       "id": "page-019",
       "number": 19,
       "path": "pages/page-019.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
       "dependsOn": [
         "R1",
         "R2",
@@ -1420,12 +1420,60 @@
         "R4",
         "page-018"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity and current injuries; scarred RIGHT shoulder makes direct C12 contact; hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "North-left dying endpoint to south-right last bell; ridge behind harbor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C11 already broken, C12 sole whole bell until third-panel burn; zero whole bells thereafter."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Fourth column breaks while three ridge groups and one core remain intact."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-018.png",
+          "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "role": "Accepted P18-002 immediate residual bridge, injury and rendering continuity."
+        }
+      ],
+      "attempts": [
+        "P19-001",
+        "P19-002",
+        "P19-003",
+        "P19-004",
+        "P19-005"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-019",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "43ac713657603d155d01f50946aef8a479e9506fd9220646f0568aaa1ca89197",
+        "temporaryPreviewSha256": "e210ab9c84c66ecbce6c5b0380d8326758f100cf4d8adf976c61e3abd3fea7b3",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-019.pdf",
+        "partialPdfSha256": "f4c947ba66d582e1fd9c95d9a6343b64520d2af09c0cb241d0e10b8dc02624ff",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-20.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-20.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P19-005 PASS: exact two-sentence relettering, true-endpoint dying transit, direct RIGHT shoulder contact, foreground fourth-column destruction plus four intact survivor groups, zero final bells, full390 PDF page20/RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-020",
@@ -4036,6 +4084,311 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P19-001",
+      "assetId": "page-019",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE complete1024x1536 portrait comic page19 of Solstice Evening Bell. Four distinct black-bordered panels with white gutters: wide thin transit22%, silent shoulder-contact17%, large southern strike40%, close face21% of usable height. Top-to-bottom only; transit entirely inside first panel. Match page18 bold black contours, saturated flat navy/cobalt, hard silver shadows, graphic rain/clouds and large condensed uppercase black lettering in yellow boxes. Around40–44px/min40 type, wrap longer captions. No title/page number/labels/SFX/additional words.\n\nReferences1 character identity/current state: one adult Solstice with wet silver hair, gray-blue eyes, layered silver armor, white skirt, RIGHT pauldron blood score, RIGHT rib damage, nose trace, LEFT hip torn/grazed only, right thigh cloth intact. No leg failure yet; central resonator hidden behind OPAQUE sternum.2 bay: NORTHLEFT/SOUTHRIGHT from offshore west looking east; inhabited ridge behind harbor.3 ordinary bell shapes: C11 is ALREADY visibly breaking, ONLY C12 whole on entry; no small bell, restored bell or head crown.4 human-scale nonliving pointed capsule frames, folded vanes, no pilots/faces.5 page18 current state, north-left fragment cluster linked by fading straight line to south-right C12. Exclude sheet labels/alternate future states.\nImmediate continuation of page18, no recovery interval. C11 still sounds for LESS THAN ONE SECOND; it is broken silver, never a whole bell again. She uses its dying straight line to C12. Then C12 burns, ending ALL orbiting chimes and royal hearing permanently. No donor ghost/flashback figure.\n\nPANEL1: wide bay axis, C11 breaking fragments at far LEFT/north; ONLY whole C12 at far RIGHT/south, beside the southern fourth descending column. ONE straight thin white bell-step trace spans directly between those two sounding positions, no third endpoint, no curve, no extension beyond them. Solstice appears ONCE, arriving sideways immediately beside the RIGHT whole bell at the SOUTHERN destination. Put her body just to the right of C12 so her scarred right shoulder will press toward it in next panel. No earlier body at left or in midline. Water and two breakwaters below maintain geography. Fourth dark column descending around south endpoint remains intact here. Exact caption in2–3lines:\n\"FOR LESS THAN A SECOND, TWO CHIMES STILL SOUNDED. SHE STEPPED THE DYING LINE.\"\n\nPANEL2 SILENT, no text: close unmistakable physical CONTACT. Whole C12 occupies LEFT side of this local crop; Solstice is RIGHT of it in a three-quarter frontal pose. Her anatomical RIGHT shoulder, recognizable by the existing blood-scored pauldron at viewer-left of her body, is JAMMED directly against C12's RIGHT outer silver wall. Tangent/contact/compression clearly visible, NO gap. Her right arm is bent low guarding painful right ribs; her LEFT arm trails clear, not grasping the bell. Face clenched in pain, torso twisted sideways, no extra arm or detached shoulder. One intact bell only. A thin trembling rain-marked plane extends from this bell back toward the fading northern C11 off to left/background; no solid wall or second whole bell. Chest opaque. Keep close crop at waist.\n\nPANEL3 LARGE: the decisive southern breakwater strike. C12 has just BURST into jagged silver pieces at the RIGHT/southern end of the bay's broken-silver arc. ZERO whole bells anywhere in this panel. Broad hard WHITE edict cuts through the southern FOURTH column in foreground, its dark machine bodies split and tumble into southern concrete and foam. Solstice remains one airborne waist-up/small figure near the burst, not yet collapsed onto concrete.\nIn the DISTANT EASTERN background behind harbor, show EXACTLY FOUR surviving intact dark formation groups, separated from the broken foreground column: ONE upright core column near background RIGHT, and THREE distinct narrow streams coming from separate ridge points at background LEFT/center, curving LATERALLY RIGHT toward that core. All three turning streams retain whole pointed capsule silhouettes and dark vanes; no burning, debris, white impact or destruction among these survivors. Their curved flight differs from the straight bell-step in panel1. Clearly three deflected escorts plus one surviving core, not four destroyed groups or three extra bells. Ridge and harbor stay intact. Two yellow captions positioned around the broad scene, wrapped for readable type:\n\"THE LAST ORBITING TONE TOOK THE FOURTH COLUMN.\"\n\"THREE RIDGE COLUMNS LOST THEIR SEPARATE LANDING GEOMETRY. THEIR FRAMES SURVIVED.\"\n\nPANEL4: close shocked Solstice face as royal hearing goes silent, wet silver hair, gray-blue eyes widened, nose trace, RIGHT shoulder score if visible. Dark empty air and a few fading silver shards only; ZERO whole bells, zero sound rings, no visible chest focus. No sleeping/resting or invented donor. The last maker's words are remembered yellow narration, not a live speech balloon. Exact TWO caption blocks:\n\"THE TWELFTH WOMAN'S ANSWER TO CONSENT:\"\n\"YES. ENTIRELY. DO NOT SOFTEN IT FOR ME.\"\n\nFive caption blocks total (none in panel2). No count4,096 yet; next page supplies remembered final count. Preserve the permanent loss of all12 bells, surviving four enemy groups, direct right-shoulder contact and immediate tempo.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice adult identity and current injuries; scarred RIGHT shoulder makes direct C12 contact; hidden focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "North-left dying endpoint to south-right last bell; ridge behind harbor."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C11 already broken, C12 sole whole bell until third-panel burn; zero whole bells thereafter."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Fourth column breaks while three ridge groups and one core remain intact."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-018.png",
+          "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "role": "Accepted P18-002 immediate residual bridge, injury and rendering continuity."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read exact P19 and full dying-line/last-tone source through final retained count. Inspected anchors/P18. One straight transit between broken C11 and whole C12; one body at southern endpoint. Silent panel locates C12 to left of body so known scarred RIGHT pauldron directly contacts its right wall. Large panel separates destroyed foreground fourth column from three intact background turning escorts plus one core. Five caption blocks fit four panels, no invented next-page count/sensing, collapse or leg failure. P18 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:15:47 UTC",
+      "completedAt": "2026-09-18 00:17:39 UTC",
+      "outputPath": "pages/page-019.png",
+      "outputSha256": "afe9c9fd4bce8a776d566a2ae68d60de67159d01ea2179579ebe8913d0a7895d",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-eddae591-2d91-4f39-8e35-850f2d5ed650.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-eddae591-2d91-4f39-8e35-850f2d5ed650.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Direct scarred RIGHT shoulder contact, dying-line transit, zero final bells and memory all pass. P19.3 intended survivor core sits directly atop foreground destruction and resembles unbroken upper ranks of fourth column. Move it into small distant separate background group with clear air gap and show three intact curved streams joining it. P19.1 punctuation after SOUNDED is comma; must be period."
+      }
+    },
+    {
+      "id": "P19-002",
+      "assetId": "page-019",
+      "state": "coordinator-revise",
+      "prompt": "Edit the FIFTH attached full comic page19,1024x1536. Preserve all passing artwork, especially the clear RIGHT shoulder contact in SILENT PANEL2, top straight transit, southern foreground explosion/figure, final shocked face, all bell-loss states, borders/colors and caption wording. Make only two targeted corrections:\n\n1) TOP caption punctuation: the sentence must read exactly\n\"FOR LESS THAN A SECOND, TWO CHIMES STILL SOUNDED. SHE STEPPED THE DYING LINE.\"\nChange the comma currently AFTER \"SOUNDED\" into a PERIOD. Keep comma after \"SECOND\". Keep the same lettering, layout and other words.\n\n2) LARGE THIRD PANEL, DISTANT BACKGROUND formations ONLY. The surviving core currently appears as the upright big frame group at far upperRIGHT, directly on top of the foreground explosion. That makes it look like the destroyed fourth column's intact upper ranks. Remove that far-right upright group (approximately x880–945,y668–815) and restore the ordinary flat dark storm sky there. Leave the exploding southern fourth column and silver bell fragments BELOW untouched.\nDepict the ONE surviving core as a SMALL DISTANT compact upright column farther LEFT in the background, about x730–785,y695–765, clearly over the ridge/harbor in distant air, with at least60px of clear dark air between it and any foreground explosion below. It must be comparable in small capsule scale to the THREE other distant groups, not giant foreground capsules.\nArrange the THREE existing intact left/center ridge streams as THREE distinctly separate narrow CURVING ribbons of WHOLE dark capsules sweeping RIGHTWARD toward that small distant core. Keep each stream's coherent leading end toward the core. Use actual curving arrangements of intact capsules to show their flight, not white energy beams. Remove the existing three long smooth white curved trail lines if they confuse movement; a few small motion strokes are enough. These three intact streams plus the one distinct compact core make EXACTLY FOUR survivor groups. They remain visually well separated from the white foreground blast and broken dark wreckage. No collision flashes, split shells, debris or burning among these four background groups.\nPreserve both third-panel captions exactly, including \"THEIR FRAMES SURVIVED.\"\n\nNo other panel change. No new image labels or count text. Preserve zero whole bells after the third-panel burn, one Solstice per panel, all injury sides and all exact words. R1–R4 are identity/geography/bell/frame anchors; target fifth image controls the composition and all passing details. Return one whole corrected comic page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity/contact and injuries unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Intact ridge/background spatial separation from foreground south blast."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Bell states unchanged: C11 broken, C12 burns, zero whole thereafter."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Four survivor groups must stay whole and distinct from fourth-column wreckage."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "afe9c9fd4bce8a776d566a2ae68d60de67159d01ea2179579ebe8913d0a7895d",
+          "role": "P19-001 target; top punctuation and third-panel distant survivor arrangement only."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Actual P19-001 inspected. Two localized fixes: period after SOUNDED; separate small background core from foreground destroyed column and route three whole-frame streams toward it without energy-beam confusion. Exact script/source requires four surviving groups, all contact, figure, bell-loss and other lettering pass."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:19:34 UTC",
+      "completedAt": "2026-09-18 00:21:01 UTC",
+      "outputPath": "pages/page-019.png",
+      "outputSha256": "7956578ae631b97402e7dcdb168f80ecc81267f631328869209288b8306fc81c",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-cb0cfe93-e0c9-40bf-8859-c250d02e61b6.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-cb0cfe93-e0c9-40bf-8859-c250d02e61b6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Survivor correction passed: three whole-frame streams and separate small distant upright core, disconnected from foreground fourth-column wreckage; all other passing art preserved. Top caption still retains comma after SOUNDED rather than required period. Target only this punctuation next."
+      }
+    },
+    {
+      "id": "P19-003",
+      "assetId": "page-019",
+      "state": "coordinator-revise",
+      "prompt": "Make ONE tiny LETTERING correction to the FIFTH attached complete page19 image. Preserve EVERY other word and all artwork/panels/colors/counts/geometry exactly. Do not redesign anything.\n\nIn the uppermost yellow caption, the SECOND LINE currently ends \"TWO CHIMES STILL SOUNDED,\" with a COMMA after SOUNDED. Change that one mark to a full stop / PERIOD: a compact black DOT sitting on the baseline, with NO descending comma tail. Erase the comma's downward tail and leave only the black dot. It must read \"TWO CHIMES STILL SOUNDED.\" The first line's comma after SECOND stays unchanged.\nThe entire caption must read, in the same three-line layout:\nFOR LESS THAN A SECOND,\nTWO CHIMES STILL SOUNDED.\nSHE STEPPED THE DYING LINE.\n\nNo quotation marks added. This is the ONLY requested change. Preserve the corrected third-panel background: THREE intact turning streams plus the separate small upright surviving core; preserve the foreground destruction, direct shoulder contact, all other captions and final face. References1–4 are identity anchors only; target5 controls all pixels. Return one full1024x1536 comic page with this punctuation corrected, no extra text.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "Bell states unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Corrected intact survivor groups unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "7956578ae631b97402e7dcdb168f80ecc81267f631328869209288b8306fc81c",
+          "role": "P19-002 target: erase descending comma tail after SOUNDED only, leaving baseline period."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Full P19-002 inspected; all story and image gates pass except one punctuation glyph. Prepared explicit three-line exact caption and surgical dot/descender instruction. No other change."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:22:25 UTC",
+      "completedAt": "2026-09-18 00:23:54 UTC",
+      "outputPath": "pages/page-019.png",
+      "outputSha256": "6fadc3214e75cdeacc4f443516de2500ff4fb44ae3868ce99fa5aebb02f82bd2",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-abac333b-8762-47a0-aeaf-5f529e5f39d7.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-abac333b-8762-47a0-aeaf-5f529e5f39d7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Tiny punctuation-only edit did not visibly remove the comma after SOUNDED. All story artwork remains passing. After two failed glyph fixes (002/003), diagnose preservation of small target lettering as conflicting cue; change strategy to fully reletter the opening yellow box at larger width/type, preserving all other art."
+      }
+    },
+    {
+      "id": "P19-004",
+      "assetId": "page-019",
+      "state": "coordinator-revise",
+      "prompt": "Reletter the ENTIRE FIRST YELLOW CAPTION BOX of the FIFTH attached complete comic page19. Two tiny edits have preserved the wrong comma, so DO NOT merely preserve or retouch that existing text. Erase the old first yellow box and its letters, then generate a NEW WIDER first yellow box with NEW LETTERING from the exact text below. Leave ALL other panels and artwork unchanged.\n\nNew box: topLEFT about x20,y15, approximately510px wide and145px high, black border/yellow fill. Three lines of bold condensed uppercase black comic lettering, approximately40px high, with comfortable margins. The wider box can cover a little more of the upper sky, but must keep the breaking LEFT bell's main lower fragment cluster visible and keep the white transit line clear. Rebuild any exposed old-box background naturally. Do not alter the figure or right endpoint.\n\nTypeset these exact THREE lines, including punctuation:\nFOR LESS THAN A SECOND,\nTWO CHIMES STILL SOUNDED.\nSHE STEPPED THE DYING LINE.\n\nFirst line ends with a COMMA. Second and third lines end with a PERIOD (a round or square DOT on baseline, NO TAIL). Especially SOUNDED must have a full stop. These are two sentences: the first ends at SOUNDED; the second starts SHE. No comma after SOUNDED, no extra punctuation or words.\n\nPreserve all remaining image content: four panels, direct scarred RIGHT shoulder contact with bell, three intact distant turning streams plus small separate survivor core, exploding foreground fourth column, no whole bells after burn, final shocked face and other exact captions. Inputs1–4 are continuity anchors only; target5 controls all other art. Return one complete1024x1536 page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Geography unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "All bell states unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Survivor formation unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "6fadc3214e75cdeacc4f443516de2500ff4fb44ae3868ce99fa5aebb02f82bd2",
+          "role": "P19-003 target: replace entire opening caption box at larger width/type instead of repeating tiny failed glyph edit."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "After two unsuccessful punctuation fixes, diagnosed small preserved caption as conflict. New composition enlarges/reletters whole yellow box; main C11 fragment cluster and step route remain clear. Exact text unchanged, no art direction or count change. All other panels pass."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:26:03 UTC",
+      "completedAt": "2026-09-18 00:27:32 UTC",
+      "outputPath": "pages/page-019.png",
+      "outputSha256": "8efa608a37bcdeb0b20ecaae8fd16cf7b9d30f3d7f40368f3ee823e0c9f6be31",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-d73e4c84-07d3-458e-bb9c-49ecec20b4e1.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-d73e4c84-07d3-458e-bb9c-49ecec20b4e1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Relettering enlarged caption but retained apparent comma after SOUNDED. Other artwork remains passing. Requested narrow independent glyph diagnosis; next strategy separates the two exact sentences into individual caption boxes and removes nonessential geography/object references from typography correction, retaining identity and target."
+      }
+    },
+    {
+      "id": "P19-005",
+      "assetId": "page-019",
+      "state": "accepted",
+      "prompt": "Edit the SECOND attached image, the complete comic page19. First attachment is Solstice identity reference only. This is a TYPOGRAPHY/LAYOUT edit. Preserve the artwork and ALL other text.\n\nDELETE the ENTIRE large opening caption box at the top left, including ALL its old letters. Replace it with TWO SEPARATE yellow, black-bordered narration boxes across the top of PANEL1, with a visible gap between boxes. Each new box contains ONE complete sentence. Do NOT combine their text into one box.\n\nBOX A at upperLEFT, about x20,y15,width440,height105. Exact text, two lines:\nFOR LESS THAN A SECOND,\nTWO CHIMES STILL SOUNDED.\n\nBOX B in the upper central sky, about x480,y15,width250,height115. Exact text, three lines:\nSHE STEPPED\nTHE DYING\nLINE.\n\nBOX A is a complete sentence and therefore ends with a PERIOD after SOUNDED (a dot, NOT comma). BOX B ends with a PERIOD after LINE. The only comma is after SECOND. Use strong black condensed uppercase comic lettering, clean exact spelling, clear punctuation and yellow fill. No quotation marks or box labels. There must be TWO boxes and a clear gap. You may reflow line breaks within each box for legibility, but keep the exact words and sentence punctuation. Do not preserve any original opening-box glyphs.\n\nThe lower part of PANEL1 must still show breaking C11 at north/LEFT, one straight line to intact C12 south/RIGHT, and one arriving Solstice beside C12. Leave remaining panels completely unchanged: silent direct RIGHT shoulder contact; southern column destruction with three intact distant turning streams and one separate core; final shocked face and remembered consent captions. Preserve all current images and words outside this replaced top-caption area. No additional figure, chime, caption or symbol. Return one whole1024x1536 page.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "8efa608a37bcdeb0b20ecaae8fd16cf7b9d30f3d7f40368f3ee823e0c9f6be31",
+          "role": "P19-004 target; replace whole opening caption with two separate exact-sentence boxes."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Independent gn_plan confirmed actual comma tail persists. Root/creator agree separate sentence boxes change preservation failure cause. New narrow central-sky second box avoids main right column while endpoints/figure/step stay clear. Exact combined script text unchanged; routine lettering reflow only. Reduce inputs to essential identity+target; no future-page preparation.",
+        "creatorCheck": {
+          "reviewer": "/root/gn_plan",
+          "verdict": "PASS-with-layout-adjustment",
+          "evidence": "Confirmed comma; two exact-sentence boxes and R1+target sufficient. Moved second box to narrow central sky to preserve descending column."
+        }
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:34:40 UTC",
+      "completedAt": "2026-09-18 00:36:02 UTC",
+      "outputPath": "pages/page-019.png",
+      "outputSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-f6898a25-e706-45d6-8eda-9fc6e820f879.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-f6898a25-e706-45d6-8eda-9fc6e820f879.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved PNG and PDF page20 full/390 inspected. Opening two exact sentences now in separate yellow boxes, period after SOUNDED visible; all other text matches. Dying line, direct RIGHT shoulder contact, fourth-column destruction versus three intact turning streams plus separate core, zero final whole bells and remembered consent pass. Full-page edit retains identity, injuries, contours and panel action; inspect whole edited result rather than assuming preservation.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P19-005-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-019.pdf",
+          "sha256": "f4c947ba66d582e1fd9c95d9a6343b64520d2af09c0cb241d0e10b8dc02624ff",
+          "pdfPage": 20,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-20.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-20.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -4406,6 +4759,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P18-002 PASS: straight true-endpoint transit, third column/northern C11 burn, intact southern C12 and immediate dying-line continuation, all captions/full390 PDF page19/RGB parity."
+    },
+    {
+      "scope": "page-019",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "43ac713657603d155d01f50946aef8a479e9506fd9220646f0568aaa1ca89197",
+      "temporaryPreviewSha256": "e210ab9c84c66ecbce6c5b0380d8326758f100cf4d8adf976c61e3abd3fea7b3",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-019.pdf",
+      "partialPdfSha256": "f4c947ba66d582e1fd9c95d9a6343b64520d2af09c0cb241d0e10b8dc02624ff",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-20.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-20.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P19-005 PASS: exact two-sentence relettering, true-endpoint dying transit, direct RIGHT shoulder contact, foreground fourth-column destruction plus four intact survivor groups, zero final bells, full390 PDF page20/RGB parity."
     }
   ],
   "approvals": {
