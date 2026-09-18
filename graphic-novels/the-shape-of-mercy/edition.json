@@ -933,8 +933,8 @@
       "number": 9,
       "id": "page-009",
       "path": "pages/page-009.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
       "plannedInputs": [
         "R01",
         "R02",
@@ -943,12 +943,67 @@
         "R09"
       ],
       "framing": "Rowena off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-009-attempt-01"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian current age19 charcoal formal coat identity; primary crisp flat GN style"
+          },
+          {
+            "id": "R02",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+            "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+            "role": "Evelyn current adult identity/rust-red clothes/braid, worn scorched anatomical LEFT glove; no bare-left/bandage states"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus adult blue coat identity; anatomical LEFT sleeve frost-stiff, RIGHT arm usable"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran CURRENT lean graying rainworn identity/wet dark coat, sole dull bracelet on anatomical RIGHT wrist, no younger-state transfer"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "N3 Hall geometry: established LEFT pillar/far gallery/table shelter, RIGHT broken orchard threshold, dark candles, physical ice/glass/slush, outside ashfire"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "a78955792d56a299258f63f67dfe2b9eb5f965787c32b3894d4bb86c302bcf73",
+        "evidence": "Independent native/390/768 PASS, no blockers; exact text/attribution, anatomy/injury states and memory boundary hold."
+      },
+      "selectedAttempt": "page-009-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "reviewedAt": "2026-09-18T23:26:09.1801153Z",
+        "evidence": "Inspected actual native,390,768 pixels: all four exact text blocks legible; Marcus RIGHT support and LEFT iced sleeve, Evelyn LEFT scorched glove worn, Garran empty hands/dull RIGHT bracelet and grief, Adrian uncertainty. N3 damagedHall, dark candles and exterior fire; no restored memory or actual cut."
       }
     },
     {
@@ -3355,6 +3410,137 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "6910a62c7de32a8a131757d49b750f6883f280574e9577ce996e8de5711134bf",
         "evidence": "Independent Page008 PASS at native/390/768: all gates including memory/present separation, exact readable text and attribution, ages, non-graphic anatomy/contact, source states and adjacent continuity clear; no blocking findings."
+      }
+    },
+    {
+      "id": "page-009-attempt-01",
+      "assetId": "page-009",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-18T23:19:29Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete 1024x1536 portrait graphic-novel page with FOUR present-day panels, top to bottom. Prioritize LARGE lettering: nominal48–52px bold uppercase comic font, ACTUAL cap height34–40px minimum, clear at390px page width. Allocate generous white speech balloons before arranging art; never shrink type to fit. Black bold contours, saturated flat colors, hard-edged shadows and clean white gutters. Crisp backgrounds/props, no blur/bloom/photographic shading.\n\nEXACTLY FOUR spoken text units, no captions or other text, with these optional deliberate line breaks:\nPANEL1 Marcus:\nYOU RAN AT HIM, ADRIAN.\nYOU GRABBED HIS ARM.\nTHEN EVERY COMMAND-BOND\nIN THE ROOM FELL APART.\nPANEL2 Evelyn:\nNOT ONLY THE BONDS.\nHIS GIFT. ALL OF IT.\nPANEL3 Garran:\nI WOKE INSIDE A DEAD WORLD.\nEVERY LIVING WILL I HAD FELT\nWAS GONE. YOU MADE ME HARMLESS.\nPANEL4 Adrian:\nI DON'T REMEMBER.\nPreserve every word, comma, apostrophe, period and the hyphen in COMMAND-BOND. Short unmistakable balloon tails to the correct current speaker. No labels, page numbers, sound effects or extra text.\n\nFive actual attached image roles:\n1 Adrian: age19, warm medium-brown skin, short uneven dark hair, charcoal formal coat/white shirt. CURRENT state only; primary rendering style.\n2 Evelyn: age26, same family complexion, long dark braid and rust-red formal clothing; anatomical LEFT glove still WORN and scorched, a little smoke. Her RIGHT hand stays bare; no exposed left burn or morning bandage.\n3 Marcus: age23, wavy dark hair, blue formal coat. LEFT sleeve frost-stiff from the recent injury; RIGHT arm uninjured and usable.\n4 Garran: CURRENT lean mature graying rain-soaked man in wet dark formal coat. Sole dull non-glowing bracelet on anatomical RIGHT wrist; never younger/broader state.\n5 Damaged Hall: same N3 place, surviving pillar/far gallery LEFT, overturned supper-table shelter, broken orchard threshold and tall windows RIGHT, thick physical ice barriers, glass/slush. All candles OUT and projected wards gone; ashfire continues OUTSIDE.\nIgnore all reference headings/labels and unused alternative states. Match identities and flat outlined rendering, not merely palette.\n\nCOMPOSITION: Four full-width horizontal panels of varied height: Marcus witness about350px; Evelyn confirmation about250px; Garran loss about470px; Adrian uncertainty about360px. Make the white gutter BEFORE Garran noticeably wider, about30px, to let his irreversible loss register. Other gutters ordinary and narrow. All panels are present N3 in the same minute. NO flashback, severance scene, memory picture, literal command rope, subjective gift overlay or restored power.\n\nPANEL1: Marcus at the established LEFT pillar, pushes/steadies himself with anatomical RIGHT hand against stone, addressing Adrian just off-frame to RIGHT on the Hall side. His iced LEFT sleeve remains lowered and guarded; show correct limb separation. Medium view, serious witness rather than performing magic. Face/brace on LEFT, generous four-line balloon on RIGHT, leaving frost injury visible.\n\nPANEL2: Evelyn holds Adrian's gaze. Frame her on RIGHT, rigid but candid, with at most Adrian's charcoal-coated shoulder cropped at LEFT to anchor the eyeline. Keep her worn scorched LEFT glove visible near lower edge and face unobscured. Large two-line balloon in open LEFT space, tail to Evelyn. No new flame or power emitted here.\n\nPANEL3: Current Garran on threshold/RIGHT side faces LEFT toward the family. Medium view includes his face and BOTH hands spread empty, open palms, right wrist's sole dull metal bracelet plainly distinguishable. His grief underneath anger is human and specific: tired eyes, strained mouth, incredulous loss. Neither sneering monster nor vindicated hero. No energy, tendril or glow comes from him/bracelet/hands; nothing suggests his severed faculty can return. Large three-line balloon upper-left with tail toward his face at right; keep both empty hands clearly BELOW it. Sparse broken threshold, hard ice and outside ashfire preserve geography. No other people or creature in this frame.\n\nPANEL4: Pull back: Adrian is small against the ruined Hall, near overturned table shelter on LEFT, shoulders drawn in, looking RIGHT toward off-frame Garran. He is unsettled, not triumphant or decisive. Empty hands, no touching/cutting/spell. A plain roomy I DON'T REMEMBER. balloon with clear tail to him; dark damaged room and cold scattered glass carry the silence. No Phoebe, Rowena, stormhart or unlisted background cast anywhere. Preserve ordinary black/flat GN rendering and all consequences.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current age19 charcoal formal coat identity; primary crisp flat GN style"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn current adult identity/rust-red clothes/braid, worn scorched anatomical LEFT glove; no bare-left/bandage states"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus adult blue coat identity; anatomical LEFT sleeve frost-stiff, RIGHT arm usable"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean graying rainworn identity/wet dark coat, sole dull bracelet on anatomical RIGHT wrist, no younger-state transfer"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "N3 Hall geometry: established LEFT pillar/far gallery/table shelter, RIGHT broken orchard threshold, dark candles, physical ice/glass/slush, outside ashfire"
+        }
+      ],
+      "preflight": {
+        "state": "Marcus left iced/right usable; Evelyn left glove worn/scorched; current Garran right dull bracelet/no emitted power; small unsettled Adrian. N3 dark candles/ice/glass/ashfire",
+        "referencePixels": "Accepted actual reference pixels reused unchanged; all current hashes verified",
+        "precedingPageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "composition": "Four present-day testimony/response panels, wider pause before Garran; no flashback or cut. Both empty Garran hands beneath balloon.",
+        "sourceMoment": "Approved Page09/source171–179 and accepted Page008 continuity inspected",
+        "lettering": "Four exact units/punctuation/speakers checked; large Page008 benchmark, nominal48–52px and actualcap34–40px requested"
+      },
+      "dimensions": {
+        "opaque": true,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "width": 1024
+      },
+      "outputSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+      "completedAt": "2026-09-18T23:21:35Z",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-009.png",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "backendModel": null,
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-71755d4a-330f-4724-acc8-ab3d6b69c22c.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-71755d4a-330f-4724-acc8-ab3d6b69c22c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      "status": "selected",
+      "producerInspection": {
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All four exact spoken units, punctuation including COMMAND-BOND hyphen, and speaker tails retained; long speech remains readable at390px.",
+          "Four present-day frames alternate Marcus/Evelyn/Garran/Adrian; wider gutter before Garran provides the planned pause. No flashback or severance depiction.",
+          "Marcus steadies with RIGHT arm and iced LEFT sleeve guarded; Evelyn retains worn scorched LEFT glove; Garran has both empty hands spread and sole dull RIGHT bracelet with no emitted power.",
+          "Garran grief beneath anger and Adrian unsettled smaller figure against the ruined Hall read clearly. N3 dark candles, physical ice, glass/slush and outside ashfire preserved; no extra named cast.",
+          "Full page inspected; no blocking producer finding."
+        ],
+        "disposition": "Selected candidate for fresh independent review; no independent PASS or user approval claimed.",
+        "inspectedAt": "2026-09-18T23:21:35Z"
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-71755d4a-330f-4724-acc8-ab3d6b69c22c.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian current age19 charcoal formal coat identity; primary crisp flat GN style"
+          },
+          {
+            "id": "R02",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+            "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+            "role": "Evelyn current adult identity/rust-red clothes/braid, worn scorched anatomical LEFT glove; no bare-left/bandage states"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus adult blue coat identity; anatomical LEFT sleeve frost-stiff, RIGHT arm usable"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran CURRENT lean graying rainworn identity/wet dark coat, sole dull bracelet on anatomical RIGHT wrist, no younger-state transfer"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "N3 Hall geometry: established LEFT pillar/far gallery/table shelter, RIGHT broken orchard threshold, dark candles, physical ice/glass/slush, outside ashfire"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "a78955792d56a299258f63f67dfe2b9eb5f965787c32b3894d4bb86c302bcf73",
+        "evidence": "Independent native/390/768 PASS, no blockers; exact text/attribution, anatomy/injury states and memory boundary hold."
       }
     }
   ],

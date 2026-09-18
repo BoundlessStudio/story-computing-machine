@@ -267,3 +267,20 @@ SHA-256 bindings:
 - Temporary QA `exec-97e44cd8-1468-4674-a835-aaf465613d33-390.png` `ae56c5e015df1a33e22132c115e00e00d7dc8967bd0456881a9cdda43313ef5c`; corresponding `-768.png` `b1105fa5c1e54b7726edfdcaa53d57f8049ce840a2e68668aba5a3d0a4aa6ea8`, in the previously recorded temporary QA directory.
 
 This passes page 008 only for these bytes. Page 009 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
+
+## Page 009 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-009.png`, attempt 01, SHA-256 `79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965`, 1024 × 1536.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected every panel and word at native, 768 px and approximately 390 px widths; reread approved Page 09 and source lines 171–179 with adjacent context. Compared preceding accepted page 008 and previously inspected actual R01/R02/R03/R06/R09 at verified unchanged hashes. The complete approved script/coverage remains applicable. Only `review.md` is written.
+- **Text and reading: PASS.** All four speech units reproduce the exact approved text and punctuation, including `COMMAND-BOND` and Adrian's final contraction. Lettering remains readable at 390 px and each tail clearly identifies its speaker. Four downward panels move from Marcus's witness account to Evelyn's correction, Garran's accusation and Adrian's uncertain response. The larger gutter before Garran gives his grief space without implying a new time. No crossing, inset or added text obscures the reading path.
+- **Action, anatomy and characterization: PASS.** Marcus supports himself with his anatomical right palm against the pillar while his left sleeve remains iced. Evelyn holds Adrian's gaze with her scorched smoking left glove still worn; her other hand is bare. Garran spreads two empty, anatomically coherent hands, retaining one ordinary dull bracelet on his right wrist with no emitted power. His strained face shows grief under anger; the preceding abuse testimony is neither contradicted nor absolved. Adrian is small against the ruined Hall, looking toward Garran without triumph. No childhood cut, recovered interval, literal command rope or returning faculty is shown.
+- **Continuity and rendering: PASS.** Accepted identities, hair, ages and costumes remain stable. N3 continues broken windows/threshold, ice, glass/slush, overturned furniture, unlit candles and ashfire outside without restored projected wards. Opposed gazes and the Hall/threshold setting preserve scene geography. Crisp contours, graphic flat color and shadow shapes, white gutters and bold uppercase lettering follow the accepted GN style; no blocking collateral drift appears.
+
+SHA-256 bindings:
+
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Preceding page 008 `f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874`.
+- R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R06 `e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0`; R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`.
+- Temporary QA `page-009-390.png` `ef9d8502981372cb1cadcd0e16915a57d18b7efa8bb3e1fbcd6712498edbb8dc`; `page-009-768.png` `8658216b2aa7208abfbf87ee04657fbf72a1fc09daf43b5c61be349daa159773`, in the previously recorded temporary QA directory.
+
+This passes page 009 only for these bytes. Page 010 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
