@@ -673,8 +673,8 @@
       "number": 5,
       "id": "page-005",
       "path": "pages/page-005.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
       "plannedInputs": [
         "R01",
         "R03",
@@ -683,12 +683,50 @@
         "R08"
       ],
       "framing": "Marcus, Rowena, Adrian and beast; damaged geometry scripted",
-      "attempts": [],
+      "attempts": [
+        "page-005-attempt-01",
+        "page-005-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "inputImages": [
+          {
+            "id": "page-005-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png",
+            "sha256": "b32d69e9b9b0e4a2212ef0cb52e7a32a18e594811bc69bceca9031b5eb52ec5c",
+            "role": "edit target; enlarge two texts, clarify true side-passage exit, extinguish tiny balcony candle"
+          },
+          {
+            "id": "R08",
+            "path": "references/bellweather-hall-intact.png",
+            "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+            "role": "actual side-passage/chimney geometry only; do not restore intact/N0 state"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "344757a4c55af02bdb88b5636a391e1d79d46e254a4b327b765176a8a242ceee",
+        "evidence": "Independent PAGE005 PASS at native/768/390: all page gates including exact readable text, three blocked passages, ice/ward distinction, extinguished candles, source/adjacent continuity and Marcus final-panel left-sleeve injury; no blocking findings."
+      },
+      "selectedAttempt": "page-005-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+        "reviewedAt": "2026-09-18T22:01:18.7209898Z",
+        "evidence": "Inspected native/390/768 actual pixels. Four planned beats and larger consequence gutter; two exact text units comfortably readable after enlargement, clear Marcus balloon tail. Ice wave, guests/beast separation, three blocked passages distinct from fireplace, native lightning through ice and thin ward failure read. Candles out; final Marcus anatomical left sleeve iced, right normal, Adrian crawls behind overturned table, no restored wards or added named cast. Reference identities, Hall/pond threshold geography and preceding page continuity retained."
       }
     },
     {
@@ -2409,6 +2447,181 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "944b70df7f754deb4f53bfb8bd11ec79cd66f478e38871b2803b9b2eda45aa79",
         "evidence": "Independent PAGE004 PASS at native/768/390: captions, reading order, glove state, extinguished candles, liquid pond, anatomy, style and adjacent-page/source continuity; no blocking findings."
+      }
+    },
+    {
+      "id": "page-005-attempt-01",
+      "assetId": "page-005",
+      "kind": "comic-page",
+      "preflightAt": "2026-09-18T21:40:46Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create one complete 1024x1536 portrait comic page. Four full-width horizontal panels, read downward: high wave panel, wider barrier view, thin lightning strip, low aftermath. Vary heights approximately310/430/250/470px; use remaining space for white margins/gutters. The gutter before aftermath is larger, marking immediate consequence in the SAME room. No inset or border breaks. Bold black contours, saturated flat fills, hard-edged shadows and sharp props; no blur, bloom, painterly/photographic/3D rendering.\n\nFive actual inputs:\n1 Adrian19: charcoal FORMAL COAT, uneven dark hair/current identity.\n2 Marcus23: wavy hair, blue formal coat. INTACT sleeves until final panel; then AFTER ICE state on anatomical LEFT sleeve only (viewer-right when frontal). Right sleeve remains blue; no bandage.\n3 Rowena: mature identity, graying swept hair, black high-collared gown/silver sleeve channels. Her last blue wards fail in panel3.\n4 Stormhart: huge four-legged creature, smooth translucent storm-blue living hide/internal currents, branching antlers/native lightning, old curved throat scar. No physical collar/command rope.\n5 Hall GEOMETRY ONLY: tan stone, dark wood tables, orchard doors/windows RIGHT; opposite far gallery/inner doors/supporting pillar LEFT. Override intact reference: orchard doors ALREADY broken open, windows cracked at start, ALL CANDLES OUT. End with shattered windows, ice, glass/slush and overturned table. Exclude all sheet headings and alternate states.\n\nContinue previous pond flood immediately. Stormhart remains in pond/broad-threshold zone RIGHT, never teleported into far gallery LEFT. Anonymous guests shelter in that gallery. Orange-white ashfire remains outside, but Evelyn stays off-frame. No Phoebe, Garran, Evelyn or extra named figures. Ice is thick pale/cyan frozen water with white facets; Rowena wards are thin transparent BLUE rectangles. No gore, new human wounds or physical magical bonds. Ordinary candle wicks remain dark everywhere.\n\nPANEL1—SILENT:\nMarcus Hall/LEFT thrusts BOTH bare hands outward/right, naturally attached arms, intact blue sleeves. Rising pond flood freezes in midair as an enormous CURVED SUSPENDED WAVE over courtyard/broken threshold. Frozen liquid crest must read clearly, not a generic shield. Adrian small/crouched at near-left table edge watching. Stormhart partially visible at threshold/pond RIGHT. Outside ashfire contrasts cold light.\n\nPANEL2—wider barrier:\nThe wave has fallen into a thick ICE WALL separating guests far LEFT gallery from beast at RIGHT broken threshold. Beast is on opposite side from guests and nowhere inside their gallery. Frost/ice visibly seals THREE distinct exit openings: broad broken orchard doorway/right, known far-gallery inner doorway/left, and a side-passage opening revealed by the wider view. Keep Hall architecture consistent; one double doorway counts as ONE opening. All three blocked routes should be readable. Guests are protected but penned; courtyard/pond frost and outside burning crescent explain entrapment.\nMarcus pants in foreground Hall/LEFT, still upright/uninjured, sleeves both blue. White balloon with clear tail to Marcus, EXACT:\nSAVED EVERYONE. MINOR ISSUE WITH SAVING US.\n\nPANEL3—thin SILENT impact:\nStormhart's native lightning strikes ice at RIGHT. Sharp blue-white conductive paths split/multiply THROUGH frozen wall toward windows and LEFT pillar. Remaining orchard-side glass bursts INWARD. Rowena at hall/left-midground braces her silver-sleeved arm; last thin blue ward panes catch shards, visibly dim and fail. One simultaneous impact instant, no repeated action silhouettes. Marcus may be driven backward toward pillar; do not depict final iced sleeve yet. Lightning originates from beast, not siblings. No SFX.\n\nLARGER WHITE GUTTER.\n\nPANEL4—aftermath:\nMarcus has struck SAME LEFT supporting pillar and slumped against it, seated/dazed/alive, face readable. ONLY anatomical LEFT coat sleeve is white/glazed with his own cold, matching AFTER ICE reference; right sleeve normal blue.\nAdrian crawls LOW behind an OVERTURNED table through glass and wet slush in near-left foreground. Young charcoal-coat identity, natural hands/knees, face visible, distinct from Marcus. Table is on its SIDE with legs showing, sheltering Adrian; not a standing table.\nWindows now broken, ordinary candles dead, Rowena's wards gone DARK/vanished. Ice wall/barred exits remain; ashfire outside persists. No restored blue rectangular ward shields.\nYellow black-bordered narration in clear space, not hiding iced sleeve/crawling pose, EXACT:\nTHE ICE HAD SAVED OUR GUESTS. NOW IT HELD THE STORM AMONG US.\n\nExactly TWO text units above, no title/numbers/SFX/headings/other words. Uppercase bold black comic lettering, actual cap height34–36px MINIMUM at1024px (roughly44–48px font height), comfortable at390px. Give white balloon/yellow caption generous space and padding; reflow short lines, never shrink text. Preserve every word/period. Clear wave→barrier→conducted lightning→injury progression, coherent anatomy and sharp readable four-panel page.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current formal identity/accepted GN style"
+        },
+        {
+          "id": "R03",
+          "path": "references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus intact blue coat until05.4; AFTER ICE anatomical LEFT sleeve only in05.4"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity/silver sleeve channels; last ward failure in05.3"
+        },
+        {
+          "id": "R07",
+          "path": "references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "stormhart at threshold/pond, native lightning, smooth living hide/old throat scar"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "Hall/gallery/pillar/threshold geometry only; override N0 to N2→N3 with ice, glass, overturned table and all candles out"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page05/source99–113, ice wave/barrier/conducted bolt/left-sleeve injury.",
+        "adjacentContinuityInspected": {
+          "path": "pages/page-004.png",
+          "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+          "attached": false
+        },
+        "evidence": "Accepted input/adjacent actual pixels inspected; unchanged hashes verified; Marcus sheet reopened for left-sleeve state. Four panels/two exact text units; three blocked exit openings counted singly; threshold-right beast remains separated from far-left gallery guests; wards fail before05.4; extinguished candles persist."
+      },
+      "completedAt": "2026-09-18T21:49:48Z",
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png",
+      "outputSha256": "b32d69e9b9b0e4a2212ef0cb52e7a32a18e594811bc69bceca9031b5eb52ec5c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:49:48Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Speech caps approximately26px and caption24px are too small at390px; enlarge both exact text units.",
+          "Tiny lit candle remains on far-left balcony in05.2.",
+          "Central iced rectangle lies under fireplace mantle and must not count as third exit; clarify floor-reaching side-passage doorway beside/right of chimney breast using R08."
+        ],
+        "passing": "Four ordered action beats, correct exact words/punctuation, Marcus intact until final anatomical LEFT sleeve injury, Rowena wards fail, Adrian crawls behind overturned table, threshold-right stormhart/native bolt and ice/ward distinction.",
+        "disposition": "Coordinator compared actual R08 and agreed three targeted fixes; preserve other regions."
+      }
+    },
+    {
+      "id": "page-005-attempt-02",
+      "assetId": "page-005",
+      "kind": "comic-page-edit",
+      "preflightAt": "2026-09-18T21:49:48Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit Image1, the complete1024x1536 four-panel comic page, with THREE targeted fixes. Image2 is the accepted Hall reference for ARCHITECTURE ONLY: locate the floor-reaching side-passage doorway beside/right of the fireplace chimney breast, beyond the head table's right side. Its intact state does NOT apply: preserve this comic's broken doors/windows, ice, glass/slush, outside ashfire and extinguished candles. Keep all passing art, identities, anatomy, actions, four panel frames and larger gutter before final panel.\n\n1. ENLARGE BOTH TEXT UNITS to actual uppercase cap height34–36px minimum, about40% larger than the present small lettering. Bold black uppercase comic letters, generous padding, short reflowed lines. Enlarge boxes rather than shrinking letters. Exactly these words/punctuation:\nPanel2 white Marcus balloon, tail still clearly to Marcus:\nSAVED EVERYONE. MINOR ISSUE WITH SAVING US.\nPanel4 yellow black-bordered narrator box:\nTHE ICE HAD SAVED OUR GUESTS. NOW IT HELD THE STORM AMONG US.\nThe final caption may span much more of the clear TOP BAND of panel4, using three lines if useful. Keep Marcus's face/LEFT iced sleeve and Adrian's crawl/table readable. No other text.\n\n2. CLARIFY THE THIRD TRUE BLOCKED EXIT IN PANEL2 ONLY.\nThe central rectangular iced recess currently UNDER THE FIREPLACE MANTLE is a fireplace; it must not substitute for an exit. Retain a recognizable fireplace/chimney breast with hearth and no passage through it.\nInstead reveal the known tall SIDE-PASSAGE DOOR immediately BESIDE/RIGHT of that chimney breast, consistent with Image2. Expose enough of its two upright jambs, lintel and floor-level threshold to show a genuine human-sized floor-reaching doorway, then visibly seal its opening with ice. Do not invent another room or new architecture elsewhere. There must be THREE readable ice-blocked ways out in this panel: far-gallery inner doorway LEFT; side-passage door beside chimney breast; broad broken orchard doorway RIGHT. One double door counts as one. Keep guests behind the dividing ice at far-left and beast at far-right threshold, never swap them. Preserve the main ice wall, Marcus foreground and all other geometry.\n\n3. EXTINGUISH THE TINY CANDLE.\nIn panel2 near the extreme upper-left balcony railing/pillar, remove the tiny orange/yellow wick-shaped flame and local glow. Leave ordinary candle/sconce intact with a dark unlit wick. All candles remain out. Preserve orange ashfire OUTSIDE, which is correct.\n\nKeep every other region unchanged: frozen curved wave/palms, stormhart's smooth translucent living hide/antlers/scar, conducted lightning and failing blue ward panes, Rowena's reaction, final Marcus dazed at pillar with ONLY anatomical LEFT sleeve iced (viewer-right), Adrian crawling under overturned table, no wards restored in aftermath. Sharp black contours/flat fills/hard shadows, no blur/bloom. Whole-page lettering must read comfortably at390px. No new person, injury, effect or label.",
+      "inputImages": [
+        {
+          "id": "page-005-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png",
+          "sha256": "b32d69e9b9b0e4a2212ef0cb52e7a32a18e594811bc69bceca9031b5eb52ec5c",
+          "role": "edit target; enlarge two texts, clarify true side-passage exit, extinguish tiny balcony candle"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "actual side-passage/chimney geometry only; do not restore intact/N0 state"
+        }
+      ],
+      "preflight": {
+        "evidence": "Target inspected native/390/768; root independently confirmed typography, candle and fireplace-versus-exit issue after R08 comparison. Correction preserves four beats and specifies true side-passage door, generous lettering and candle-only extinction."
+      },
+      "completedAt": "2026-09-18T21:54:32Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-cad13307-a29c-43ce-a7e1-be865eebf65c.png",
+      "outputSha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+      "candidatePath": "pages/page-005.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-cad13307-a29c-43ce-a7e1-be865eebf65c.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-cad13307-a29c-43ce-a7e1-be865eebf65c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:54:32Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Both exact text units are now larger and comfortable at390px; proper speech tail and yellow narration preserved.",
+          "Fireplace/hearth is visibly separate from adjacent floor-level ice-blocked side passage; far-gallery doorway and broad orchard threshold remain ice-blocked.",
+          "Tiny balcony candle flame removed; ordinary candles remain dark while ashfire outside persists.",
+          "Frozen curved wave, separating ice barrier, native lightning conducted through ice, Rowena's ward catch/failure, and aftermath all remain in four ordered panels.",
+          "Final Marcus dazed against pillar with anatomical LEFT iced sleeve/right blue sleeve; Adrian's natural low crawl behind overturned table, glass/slush and no restored wards preserved."
+        ],
+        "disposition": "Suitable for independent review. Coordinator separately inspected native/390 and directed saving without further changes. No independent PASS or user approval claimed."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "inputImages": [
+          {
+            "id": "page-005-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-e1feb84b-95af-48bb-acd5-ee6e1edbcb2d.png",
+            "sha256": "b32d69e9b9b0e4a2212ef0cb52e7a32a18e594811bc69bceca9031b5eb52ec5c",
+            "role": "edit target; enlarge two texts, clarify true side-passage exit, extinguish tiny balcony candle"
+          },
+          {
+            "id": "R08",
+            "path": "references/bellweather-hall-intact.png",
+            "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+            "role": "actual side-passage/chimney geometry only; do not restore intact/N0 state"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "344757a4c55af02bdb88b5636a391e1d79d46e254a4b327b765176a8a242ceee",
+        "evidence": "Independent PAGE005 PASS at native/768/390: all page gates including exact readable text, three blocked passages, ice/ward distinction, extinguished candles, source/adjacent continuity and Marcus final-panel left-sleeve injury; no blocking findings."
       }
     }
   ],
