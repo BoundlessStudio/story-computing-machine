@@ -757,7 +757,11 @@
         "R09"
       ],
       "framing": "Close perception views; Garran's bracelet endpoint is described, not a sixth visible figure",
-      "attempts": [],
+      "attempts": [
+        "page-006-attempt-01",
+        "page-006-attempt-02",
+        "page-006-attempt-03"
+      ],
       "independentReview": {
         "verdict": "NOT REVIEWED",
         "reviewer": null,
@@ -2761,6 +2765,168 @@
         ],
         "disposition": "Suitable candidate for coordinator review; no independent PASS or user approval."
       }
+    },
+    {
+      "id": "page-006-attempt-01",
+      "assetId": "page-006",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-18T22:18:43Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE1024x1536 portrait comic page. PRIORITIZE LETTERING: all FIVE exact text units below must use bold uppercase black comic lettering with actual cap height34–36px minimum (roughly44–48px font height), generous boxes/padding and short reflowed lines. Make every word comfortable at390px. Reserve text space BEFORE artwork; never shrink lettering. White speech balloons, yellow black-bordered narration.\nA Phoebe speech: IT HURTS. IT CAN'T STOP WANTING TO RUN. IT CAN'T STOP BEING ORDERED FORWARD.\nB narration: NOT VISIBLE THREADS. I PERCEIVED CONNECTIONS. PHOEBE SHARED ITS TERROR; SHE DID NOT HOLD IT.\nC inset narration: THE COMMAND WAS FOREIGN. ITS EDGE WAS DISTINCT FROM THE STORM.\nD narration: NOT SURPRISE. RECOGNITION.\nE Adrian speech: WHAT AM I?\nExact punctuation including semicolon/apostrophes; no other text, title, numbers, SFX or headings.\n\nLAYOUT: THREE MAIN FRAMES, stacked top→middle→bottom, plus ONE bordered SCAR INSET wholly INSIDE the larger middle frame. These correspond to contact, subjective perception with simultaneous inset, then separate reaction. NOT four main frames plus an inset. Suggested heights approximately350/780/350px, rest white margins/gutters. Middle caption B high; inset with C lower-right, read after B; D then E in final frame. Keep black borders and clear inset placement. Bold crisp contours, saturated flat fills, hard-edged shadows, no blur/bloom, painterly/photographic/3D drift.\n\nFIVE ACTUAL INPUTS:\n1 Adrian19, current charcoal formal coat/short uneven hair; not morning shirt.\n2 Evelyn26, rust-red formal coat-dress/long braid. ONLY current LEFT-GLOVE state: anatomical LEFT glove remains worn, now scorched/smoking; RIGHT hand bare. Exclude bare-left-burn and morning-bandage views.\n3 Phoebe AGE16 ONLY, loose dark ponytail/green long-sleeved tunic; overwhelmed, not age6 or morning.\n4 Stormhart, huge living creature with smooth translucent storm-blue hide/internal SILVER currents, branching antlers/native lightning, old curved throat scar. No physical collar/rope.\n5 Damaged Hall N3 geography/state: overturned-table shelter, left supporting pillar/gallery, broken orchard doors/windows RIGHT, thick physical ice barriers, glass/slush, all candles OUT and all projected ward panes GONE; ashfire still active outside.\nUse actual identities/flat graphic style. No sheet headings. No Marcus, Rowena, Garran, bracelet, unreferenced hand or other named cast.\n\nTOP FRAME—ordinary physical contact:\nClose view beside/behind overturned table. Phoebe lies CURLED on her side in slush, eyes open but unseeing, fully clothed. Adrian crouches next to her and gently CATCHES her bare WRIST with one naturally attached hand, not gripping her throat or restraining her body. Clear correct wrist contact, five natural digits, coherent arms. Table's underside/legs and cold floor locate the shelter. Large white balloon A with tail unmistakably to PHOEBE. No connection overlays yet, no literal strands or effects on their bodies.\n\nMIDDLE MAIN FRAME—Adrian's explicitly SUBJECTIVE perception:\nThe real ruined Hall remains visible behind SPARSE GRAPHIC OVERLAYS, not replaced by a void or astral realm. Phoebe remains toward shelter/LEFT, stormhart beyond toward broken-threshold/RIGHT; preserve actual distance and ice barrier. Her perceived empathy is a few thin pale-gold OPEN BRAID-like graphic arcs reaching toward the beast, loose/unhooked at BOTH ends. Nothing attaches to or snares its throat. No tension, lasso, knot or physical cord; these are abstract subjective marks, with no material texture/shadow. The beast's branching SILVER native currents remain visible INSIDE its living blue body, intact and distinct from empathy.\nYellow caption B explicitly labels this perception. Keep the overlay sparse enough to read room, Phoebe and beast clearly.\n\nSCAR INSET INSIDE middle frame:\nMagnify the SAME simultaneous perceived instant at stormhart's old curved throat scar, showing a short FOREIGN BLACK TWIST as abstract ink-like perception over living skin, distinct from internal silver current and open empathy braid. The black connection continues toward OFF-FRAME RIGHT to an unseen focus; do not show focus/bracelet, Garran/body/hand. NOT an external rope, leather collar, metal ring, stitches or tangible neck object. Give it no cord thickness/fibers/cast shadow. No cutting, severance or changed native currents. Yellow caption C belongs INSIDE this inset with readable lettering and enough separate scar picture space. This is an inset, not another time/extra main panel.\n\nBOTTOM FRAME—ordinary reaction:\nAdrian has clearly RELEASED Phoebe's wrist: his empty hands are apart from her, no continued contact; a free Phoebe wrist/forearm may remain at frame edge. His intense newly aware expression persists, but do not draw perception overlays in this ordinary reaction view. Evelyn watches him with controlled RECOGNITION, not generic shock. Her RIGHT bare hand still holds a small magical orange-white flame; LEFT charcoal glove is still worn/scorched/smoking, no bandage or bare left burn. Keep their faces and correct hands clear. Adrian sincere/uncertain, no cut performed. Yellow narration D first, then white question E with short clear tail to ADRIAN's mouth. Real N3 room/candles-out state remains. All native gifts/connections are still intact.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current formal identity/style"
+        },
+        {
+          "id": "R02",
+          "path": "references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn current LEFT glove worn/scorched/smoking; right bare, no post-removal/morning state"
+        },
+        {
+          "id": "R04",
+          "path": "references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 overwhelmed identity/green tunic only"
+        },
+        {
+          "id": "R07",
+          "path": "references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "stormhart living identity/native silver currents/old throat scar; overlays explicitly subjective"
+        },
+        {
+          "id": "R09",
+          "path": "references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "N3 Hall geography/table shelter/ice/glass/slush; no candles or projected wards"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page06/source113–145; prior Page005 and actual accepted R01,R02,R04,R07,R09 inspected",
+        "lettering": "Five exact text units checked against plan; source, anatomy, contact/release, N3 state, three main frames plus one subjective scar inset checked"
+      },
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3428bc72-4e31-421f-a54f-3cd4aa31ab80.png",
+      "outputSha256": "59d909ee1bcae525213099ba0afe925f79c50b60d40ffc634ab82148453807a8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3428bc72-4e31-421f-a54f-3cd4aa31ab80.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3428bc72-4e31-421f-a54f-3cd4aa31ab80.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "sizes": [
+          "native 1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Five exact text units, three main frames plus inset, wrist contact/release, empathy/native currents/foreign command distinctions, threshold-right beast and Evelyn left glove/right flame preserved.",
+          "Undersized lettering, particularly middle narration and scar-inset caption, requires enlargement for390px reading."
+        ],
+        "disposition": "Correct undersized lettering without changing passing art; no independent PASS.",
+        "inspectedAt": "2026-09-18T22:35:47Z"
+      },
+      "completedAt": "2026-09-18T22:21:50Z"
+    },
+    {
+      "id": "page-006-attempt-02",
+      "assetId": "page-006",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-18T22:26:05Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit ONLY the lettering/lettering-container sizes in this complete1024x1536 comic page. The current middle/inset narration is too small. Make ALL undersized words have ACTUAL uppercase cap height34–36px minimum, comfortable at390px phone width. Use bold black uppercase comic letters, strong contrast and generous padding. Enlarge/reflow boxes and balloons; NEVER keep their current size by shrinking letters.\n\nPreserve exactly THREE main frames plus ONE inset contained in the middle frame. Keep the same panel arrangement, all story art/identities, hand contact/release, creature at broken-threshold/RIGHT, N3 room and subjective-overlays-only-in-middle rule. No added text.\n\nTOP speech balloon:\nIncrease the current lettering modestly to34–36px caps and WIDEN balloon into available upper-left space. Reflow into fewer shorter lines if useful, preserving all text:\nIT HURTS. IT CAN'T STOP WANTING TO RUN. IT CAN'T STOP BEING ORDERED FORWARD.\nKeep tail to Phoebe, leave both faces and gentle wrist contact unobscured.\n\nMIDDLE main yellow caption:\nIncrease type roughly50%, expand box width/height, using FOUR readable lines if useful:\nNOT VISIBLE THREADS.\nI PERCEIVED CONNECTIONS.\nPHOEBE SHARED ITS TERROR;\nSHE DID NOT HOLD IT.\nThose line breaks add no punctuation. Preserve exact semicolon/periods. Place in clear upper-left space; retain visible open unhooked pale-gold empathy relation and beast's native internal silver currents.\n\nMIDDLE inset yellow caption:\nIncrease type roughly70–80% to at least34–36px actual caps. ENLARGE THE INSET as needed within the SAME middle frame, with a real scar-picture area ABOVE a larger yellow caption, preferably THREE lines:\nTHE COMMAND WAS FOREIGN.\nITS EDGE WAS DISTINCT\nFROM THE STORM.\nDo not cover the scar/foreign black subjective twist with text. An enlarged inset can extend upward over nonessential lower-right background/legs, but preserve beast's face, Phoebe's face, clear empathy relationship and its contained-inset reading order. Do not turn it into a separate full-width main panel. The black twist remains an abstract perceived connection, not physical rope/collar.\n\nBOTTOM yellow caption:\nEnlarge to same34–36px cap height, widen its box as needed:\nNOT SURPRISE.\nRECOGNITION.\nLeave Adrian/Evelyn faces, his released empty hands, her left glove and right flame unobscured.\nBOTTOM white speech WHAT AM I? already reads well; preserve it and its tail to Adrian.\n\nEvery original word/punctuation must remain exactly, in the same five-unit reading sequence. No quotes/numbers/headings/SFX or duplicated text. Preserve all passing art: ordinary top contact and bottom reaction have no connection overlays; middle/inset retain explicit subjective grammar; Evelyn's left glove remains worn/scorched/smoking, right bare hand magical flame; no cut, bandage, extra cast, active wards or candle flames. Maintain crisp outlines, flat fills/hard shadows and opaque dimensions. Typography and its containers are the only intended changes.",
+      "inputImages": [
+        {
+          "id": "page-006-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3428bc72-4e31-421f-a54f-3cd4aa31ab80.png",
+          "sha256": "59d909ee1bcae525213099ba0afe925f79c50b60d40ffc634ab82148453807a8",
+          "role": "sole edit target; enlarge undersized text/containers while preserving all passing page content"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Page06 source moment unchanged; exact transcript and full target pixels checked",
+        "lettering": "Enlarge actual uppercase caps to34–36px, expanding containers without covering faces/gestures/scar or open empathy relationship",
+        "composition": "Preserve three main frames plus one inset and all passing states; threshold geography remains clear"
+      },
+      "completedAt": "2026-09-18T22:33:31Z",
+      "status": "candidate-pending-independent-review",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-f9a05018-6e28-4ba2-9d60-2a2b0320c635.png",
+      "outputSha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+      "candidatePath": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/pages/page-006.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-f9a05018-6e28-4ba2-9d60-2a2b0320c635.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-f9a05018-6e28-4ba2-9d60-2a2b0320c635.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "sizes": [
+          "native 1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Exact five text units and punctuation preserved; enlarged lettering comfortably readable at390px.",
+          "Three main frames plus scar inset remain clear. Contact/release, identities, Evelyn left glove/right flame, threshold geography, N3 room and distinct subjective overlays retained.",
+          "Residual: inset overlaps middle lower border/gutter about30px. It covers no lettering, faces or gestures and still reads as middle-frame magnification. Coordinator requested independent assessment before any further edit."
+        ],
+        "disposition": "Selected attempt02 for independent review. No independent PASS claimed.",
+        "inspectedAt": "2026-09-18T22:35:47Z"
+      }
+    },
+    {
+      "id": "page-006-attempt-03",
+      "assetId": "page-006",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-18T22:33:31Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "status": "not-run-deferred",
+      "prompt": "Make one narrow layout correction to this complete 1024x1536 comic page. The enlarged scar inset now protrudes below the middle main frame. Move the ENTIRE existing bordered inset (scar art, yellow caption, border) UPWARD about 50 pixels so its bottom edge sits about 18 pixels ABOVE the middle frame's lower border. Keep its horizontal position, width, height, lettering size and complete contents unchanged. The inset must be wholly contained INSIDE the middle main frame, separated from its lower border by a visible strip of the middle scene. Restore the exposed lower strip with the same floor/slush/background, and restore the continuous white gutter/borders between middle and bottom main frames. This may cover a little nonessential lower-right creature leg/background above its former position; do not cover the beast's face, Phoebe, open gold empathy relationship, or main caption.\n\nPreserve exactly THREE main frames plus this ONE contained inset. Do not resize/reflow any text. The corrected larger black uppercase lettering is essential and already comfortable at 390px. Preserve all five exact text units, punctuation, order, boxes/balloons and tails:\nIT HURTS. IT CAN'T STOP WANTING TO RUN. IT CAN'T STOP BEING ORDERED FORWARD.\nNOT VISIBLE THREADS. I PERCEIVED CONNECTIONS. PHOEBE SHARED ITS TERROR; SHE DID NOT HOLD IT.\nTHE COMMAND WAS FOREIGN. ITS EDGE WAS DISTINCT FROM THE STORM.\nNOT SURPRISE. RECOGNITION.\nWHAT AM I?\n\nPreserve all passing artwork outside this inset move: top gentle wrist contact; bottom released hands; all faces/costumes/anatomy; Evelyn's anatomical LEFT worn scorched glove and RIGHT bare hand flame; beast at broken orchard threshold RIGHT; ice/glass/slush, outside ashfire and extinguished candles. The perceived gold connection/black foreign twist remain subjective overlays only in middle/inset. No new text, people, wards or effects. Maintain crisp contours, flat fills/hard shadows, full opaque original dimensions. Only move the complete inset up and repair its vacated strip/gutter.",
+      "inputImages": [
+        {
+          "id": "page-006-attempt-02",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-f9a05018-6e28-4ba2-9d60-2a2b0320c635.png",
+          "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+          "role": "sole edit target; move complete enlarged scar inset upward to restore containment, preserving all text/art"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page06/source113–145 unchanged",
+        "lettering": "Exact five text units checked; preserve enlarged type/punctuation",
+        "inputPixels": "Actual target inspected native390768; SHA verified",
+        "composition": "Proposed complete inset upward50px move, preserving size/content"
+      },
+      "disposition": "Prepared correction NOT CALLED. Coordinator explicitly requested saving attempt02 and independent assessment of minor overlap before further generation.",
+      "deferredAt": "2026-09-18T22:35:47Z",
+      "recordRecovery": "A serialization typo briefly truncated edition.json. Restored unchanged committed R09 baseline plus only Page006 attempt entries, using exact prepared prompts/input hashes and actual tool results retained in memory. Attempt01 completedAt recovered from output file UTC timestamp; summary inspection metadata reconstructed from recorded findings. No other asset/approval/review data changed."
     }
   ],
   "approvals": {
