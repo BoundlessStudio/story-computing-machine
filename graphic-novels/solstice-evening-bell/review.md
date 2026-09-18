@@ -759,3 +759,25 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 20: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. Unrotated 432 × 648-point media/crop boxes and full-page placement preserve aspect and edges; Page 19's bookmark targets page 20. Both actual renders retain all words/action without cropping or stretch. No previous-page assembly, optional HTML or broad controls were rerun.
 
 **P19-005 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P20–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 020 — P20-002 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: whole corrected P20, P19 continuity and actual PDF page 21. Read the source's surviving formations, lattice, landing and failed stand through the next-wave constraint; checked the exact four-panel script and both attempt prompts. Inspected the 1024 × 1536 selected image and actual 864 × 1296/390 × 585 PDF renders. Source/plan/STYLE retain their reverified P15 hashes; P19 retains `70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a`. Reinspected P06 solely for the rupture shape, hash `8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d`; its former bells/states are not imported.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P20-002 `page-020.png` | `73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c` |
+| Manifest at scoped read | `28b65aeb5b09fd217694a3bd34abfcde5e5f7f26e630b5f0b553f5d10e820a91` |
+| `through-020.pdf` | `3b006651312c80ef0cff325a43ffaa4da69a32bd3951f2033c0307454c214afb` |
+| `full-21.png` | `ac12e908de5b5eae84ce7b4f3674c97d1e1c7055d1d407cf78c2ea2bf97ab094` |
+| `reading-21.png` | `5df6427fcbc4b619273e83179ed8f587f057c2b32f13906634ce6604117e2d63` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Panel mechanics and continuity: PASS.** P20.1 has four distinguishable incoming origins: dense central core plus three narrower escort streams. Their leading frames join one porous lattice of physically interlocked vanes across the bay mouth; no duplicated before/after groups or energy net appears. P20.2 is silent and shows one heavy landing with local concrete cracks, attached bent limbs, bracing left hand and upward-tossed hair. P20.3 follows with the right support dropping to its knee, left palm on concrete and right arm guarding the ribs. Both knees down is a coherent later instant of the scripted failed stand, without requiring the incidental prepared left-boot support. P20.4 preserves this low position, the left hip tear/graze and clean near left pauldron; the injured far right shoulder is hidden by hair. The single high oblique rupture is black and unlit, consistent with P06's seam. No new host emerges.
+
+**State, lettering and style: PASS.** Zero orbiting bells or step routes return. The resonator remains intact behind opaque sternum armor; no premature exposure, inverse attack or healing appears. Adult identity, wetness, nosebleed, right shoulder/rib damage and intact right-thigh cloth remain consistent. All four exact captions were read at full and 390-pixel size, including `4,096`, `BAY-MOUTH` and punctuation; the retained count is explicitly her last count, not renewed hearing. The top/middle-left/middle-right/bottom route clearly separates consolidation, impact, failed rise and threat. Crisp contours, hard shadows, flat saturated fills, white gutters and yellow uppercase boxes persist.
+
+**Actual PDF page 21: PASS.** Independently verified one embedded image with exact decoded RGB parity, unrotated 432 × 648-point media/crop boxes and full-page placement. Page 20's bookmark targets page 21. Both actual renders preserve complete edges, aspect, text and action without clipping or stretch. No earlier-page assembly, optional HTML or broad controls were rerun.
+
+**P20-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P21–P24 and complete book: NOT REVIEWED.** No final user approval is certified.

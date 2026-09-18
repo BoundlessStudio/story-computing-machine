@@ -1479,8 +1479,8 @@
       "id": "page-020",
       "number": 20,
       "path": "pages/page-020.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
       "dependsOn": [
         "R1",
         "R2",
@@ -1488,12 +1488,57 @@
         "R4",
         "page-019"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity, current wounds; RIGHT leg first fails in panel3, LEFT hip only, opaque intact focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay/breakwater/ridge geography and sea."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Capsule bodies and interlocking vanes for physical porous lattice."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "role": "Immediate zero-bell and four-survivor-group continuity; current injuries and rendering."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "ONLY high black unlit oblique rupture seam geometry, widening along same seam; exclude all former bells/host counts and prior injury state."
+        }
+      ],
+      "attempts": [
+        "P20-001",
+        "P20-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-020",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "b961d6550eea092bda62cc2125bb8eba120c200798e0850966eb12e85c0a65d7",
+        "temporaryPreviewSha256": "b0658918e62378e92fbe1afbc4723d25c2acac8084f621bb6e629a36a470fda1",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-020.pdf",
+        "partialPdfSha256": "3b006651312c80ef0cff325a43ffaa4da69a32bd3951f2033c0307454c214afb",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-21.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-21.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P20-002 PASS: four physical incoming origins into one lattice; landing then right knee failure, correct wound sides; zero bells/intact hidden focus, single unlit rupture, exact captions/full390 PDF page21/RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-021",
@@ -4389,6 +4434,138 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P20-001",
+      "assetId": "page-020",
+      "state": "coordinator-revise",
+      "prompt": "Create ONE finished portrait comic page20 of Solstice Evening Bell,1024x1536. Four panels: broad upper consolidation28%; middle row LEFT impact and RIGHT failed stand, together40%; broad lower ground-level lattice view32%. Black borders/clean white gutters; read top then middleleft/middleright then bottom. Match established bold black contour comic style, hard-edged flat saturated navy/cobalt/silver, graphic rain/clouds, yellow captions with uppercase condensed black letters40–44px, wrap longer text. No title/page number/labels/SFX.\n\nFIVE REFERENCES IN THIS SPECIFIC ORDER:\n1 Solstice identity sheet: adult silver-haired gray-blue-eyed defender, layered silver armor/white skirt; wet, RIGHT shoulder/right ribs blood damage, nose trace, LEFT hip fabric tear/graze ONLY, right thigh covered. Opaque sternum still hides intact central resonator. No head crown.\n2 Western bay geometry, two breakwaters, shelf offshore, ridge inland.\n3 Invasion frame sheet: nonliving human-sized dark pointed capsules whose fold-out vanes interlock shell-to-shell as a mesh, no pilots/faces.\n4 Page19 actual current state: ALL12 orbiting chimes permanently gone, four intact survivor groups. Preserve current wounds, hair and comic treatment.\n5 Page06 ONLY for the HIGH BLACK UNLIT RUPTURE’S jagged oblique seam geometry in its upper-right sky and established graphic ink. EXCLUDE ALL its bells, earlier injuries, old host counts and magic lines. On this page ZERO whole bells, zero bell-step traces, zero royal-hearing aura.\nNo new host arrives. Total4,096 is remembered from before hearing ended, not freshly sensed. One living Solstice per panel. Central focus remains intact and hidden throughout. Do not show the later revelation, focus cracking, inverse wave or repaired crown.\n\nPANEL1: oblique offshore west-to-east bay overview. Northern breakwater LEFT, southern RIGHT, ridge behind harbor. At the bay mouth the leading dark frames already lock their open vanes to neighbors, making a porous crosslinked lattice spanning between the two outer breakwater tips. Show individual pointed metal bodies and jointed vanes, with holes through which water remains visible; not a concrete bridge, building, wall of solid armor, spiderweb or energy net.\nEXACTLY FOUR distinguishable incoming streams feed into this SAME mesh: one denser central/core stream and three distinct narrower escort streams with separate origins at left, middle and right background. Their leading capsules merge progressively into the interlocked foreground ranks. This is ONE instant with4 incoming streams, not four duplicate before/after columns or8 groups. All incoming frames intact, no new destroyed column. No Solstice needed in this establishing view. Two yellow captions:\n\"HER LAST COUNT: 4,096.\"\n\"ONE CORE. THREE ESCORT FORMATIONS. ALL FOUR JOINED THE BAY-MOUTH LATTICE.\"\n\nPANEL2 MIDDLELEFT, SILENT: Solstice falls onto the SOUTHERN concrete hard enough to crack it. Show one whole coherent figure in the instant of a heavy crouched/kneeling landing, left palm/forearm bracing near her body, white skirt and wet hair snapping upward from downward momentum. A local star of cracks and small concrete chips beneath the landing, not the entire breakwater collapsing. Armor and source injuries persist; show LEFT hip graze only if skirt opens there. No teleport beam, bell, ghost or duplicate motion body. Normal bent joints, no severed limb or new gore. Harbor water/beacon behind confirms southern concrete.\n\nPANEL3 MIDDLERIGHT: next moment, her attempted stand fails as anatomical RIGHT leg BUCKLES. Front three-quarter view: right knee (viewerLEFT of her body) folds down toward concrete, connected shin/boot visible enough to read the failed support. Anatomical LEFT boot remains planted; her LEFT palm braces on concrete at viewerRIGHT while RIGHT forearm guards her wounded right ribs. One body with coherent two arms/two legs, normal joint bend, no twisted fracture. Right thigh cloth intact; existing tear/graze only LEFT hip/viewerRIGHT. Sternum still completely opaque. Face strained. Caption wrapped into several readable short lines with space for anatomy below:\n\"THE CENTRAL RESONATOR COULD ARMOR A RETREAT. GIVEN TIME, IT COULD SHAPE SMALLER BLOWS.\"\n\nPANEL4: from BESIDE kneeling Solstice on the SOUTHERN breakwater, look across the bay mouth mesh toward the northern tip. Southern concrete/solstice in near RIGHT foreground, northern beacon farLEFT, intact harbor/ridge beyond. She stays low, supporting herself with LEFT hand, RIGHT arm near ribs, no new stand. The interlocked dark capsules/vanes span the bay entrance in midground. Far HIGH overhead, ONE stationary ragged BLACK UNLIT elongated oblique tear widens along the SAME seam shown in reference5. Its interior pure dark void, edges dark navy/black, NO white/cyan halo, luminous portal rim, rings, lightning or second rupture. Do not show any new frames emerging. The lattice supports the widening rupture; no literal giant cable or beam connecting sky and mesh. Caption in3 readable lines:\n\"IT COULD NOT STOP 4,096 SYNCHRONIZED FRAMES BEFORE ANOTHER WAVE. THE LATTICE WAS STABILIZING THE RUPTURE.\"\n\nFour exact caption blocks total; none in impact panel. Distinguish landing from failed stand, maintain remembered count, zero bells and hidden intact focus.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity, current wounds; RIGHT leg first fails in panel3, LEFT hip only, opaque intact focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay/breakwater/ridge geography and sea."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Capsule bodies and interlocking vanes for physical porous lattice."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-019.png",
+          "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "role": "Immediate zero-bell and four-survivor-group continuity; current injuries and rendering."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "ONLY high black unlit oblique rupture seam geometry, widening along same seam; exclude all former bells/host counts and prior injury state."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read P20/source through impossible synchronized defense. Inspected actual R1/R2/R4/P19 plus P06 unlit oblique rupture. Four distinct streams feed one lattice in one instant; no duplicate groups. Silent landing then anatomically RIGHT buckling leg with LEFT bracing hand; intact hidden focus/zero bells. Replaced unused crown sheet with actual earlier seam visual; explicit exclusions of P06 bells/states. Four exact caption blocks fit upper/middle/bottom hierarchy. P19 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:49:56 UTC",
+      "completedAt": "2026-09-18 00:51:49 UTC",
+      "outputPath": "pages/page-020.png",
+      "outputSha256": "567fc8869f4bd689481b8ba37fb4940258dfaf69261441f582fbf3f09cc8bc4b",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-375b2401-0741-44f9-8bc1-1fee76550e16.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-375b2401-0741-44f9-8bc1-1fee76550e16.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Four incoming origins/lattice, source fall→right knee collapse, exact captions, zero bells/hidden focus and unlit black seam pass. Bottom rear-view figure correctly braces LEFT hand and shows LEFT hip but carries red marks onto visible LEFT pauldron. Remove those incidental left-shoulder marks; right shoulder damage remains on far side hidden by hair. First three panels correct."
+      }
+    },
+    {
+      "id": "P20-002",
+      "assetId": "page-020",
+      "state": "accepted",
+      "prompt": "Edit the FIFTH attached complete comic page20,1024x1536. Make ONE localized color/injury-continuity correction in the BOTTOM PANEL ONLY. Preserve all other art and every letter.\nIn the bottom rear-view kneeling figure, the visible near shoulder on VIEWER LEFT connects to the bracing LEFT arm/hand. It is Solstice's anatomical LEFT pauldron and must NOT have the red blood scratches currently shown there. Remove ONLY those few reddish marks from that visible left shoulder plate, restoring clean silver armor with the same black contours and hard blue-white shading. Preserve rain/wet highlights and armor seams. The wounded RIGHT shoulder is the far shoulder hidden under her hair in this rear view; it need not be exposed.\nDo NOT remove the correct existing LEFT HIP red graze/tear visible lower down. Do not alter the LEFT bracing hand, back/hair, kneeling legs/boots or skirt. Do not mirror/repose the figure.\nPreserve RIGHT shoulder/rib injuries in the first three panels exactly. Preserve four streams into the interlocked lattice, impact cracks, right-leg failure, all captions, ZERO bells, opaque hidden intact resonator, and the high BLACK UNLIT jagged rupture. All other content and styling unchanged.\n\nInput1 Solstice identity; input2 bay; input3 frame geometry; input4 earlier page06 ONLY unlit rupture geometry with all bells excluded; input5 actual page20 correction target controls composition. Return one whole page, no added labels or words.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Correct identity/injury sides, only RIGHT pauldron damaged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geography unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Lattice/frame geometry unchanged."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "Only established unlit black seam, all earlier bells excluded."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-020.png",
+          "sha256": "567fc8869f4bd689481b8ba37fb4940258dfaf69261441f582fbf3f09cc8bc4b",
+          "role": "P20-001 target: remove incidental LEFT pauldron red marks in bottom panel only."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Full saved P20 inspected. Bottom back view identifies visible near arm/hand as LEFT; erase unsupported left-pauldron blood only. Preserve correctly exposed LEFT hip and all right-side wounds in earlier front views. Contact/leg pose, four origins, unlit rupture and exact lettering pass."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 00:53:49 UTC",
+      "completedAt": "2026-09-18 00:55:25 UTC",
+      "outputPath": "pages/page-020.png",
+      "outputSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-8b388a5e-1c72-4624-be59-669a7c59fa5c.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-8b388a5e-1c72-4624-be59-669a7c59fa5c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved PNG and actual PDF page21 full/390 inspected. Four incoming origins feed one physical vane lattice, retained-count caption correct. Landing with planted right support precedes right knee dropping in failed stand; two coherent kneeling legs and LEFT bracing hand, RIGHT rib guard. Opaque intact focus/zero bells and high unlit black oblique seam retained. Bottom near LEFT pauldron markings corrected while LEFT hip graze preserved. Four exact caption blocks legible.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P20-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-020.pdf",
+          "sha256": "3b006651312c80ef0cff325a43ffaa4da69a32bd3951f2033c0307454c214afb",
+          "pdfPage": 21,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-21.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-21.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -4777,6 +4954,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P19-005 PASS: exact two-sentence relettering, true-endpoint dying transit, direct RIGHT shoulder contact, foreground fourth-column destruction plus four intact survivor groups, zero final bells, full390 PDF page20/RGB parity."
+    },
+    {
+      "scope": "page-020",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "b961d6550eea092bda62cc2125bb8eba120c200798e0850966eb12e85c0a65d7",
+      "temporaryPreviewSha256": "b0658918e62378e92fbe1afbc4723d25c2acac8084f621bb6e629a36a470fda1",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-020.pdf",
+      "partialPdfSha256": "3b006651312c80ef0cff325a43ffaa4da69a32bd3951f2033c0307454c214afb",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-21.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-21.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P20-002 PASS: four physical incoming origins into one lattice; landing then right knee failure, correct wound sides; zero bells/intact hidden focus, single unlit rupture, exact captions/full390 PDF page21/RGB parity."
     }
   ],
   "approvals": {
