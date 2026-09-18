@@ -132,3 +132,29 @@ QA preview bindings, under `C:/Users/jamie/AppData/Local/Temp/codex-gn-the-shape
 - `exec-12a30b44-5a8c-49b6-a755-beb19755351d-768.png`: `72ab4d3075e9d639c40a6c13b1cddd75db76bbede8dcb3d0602fac2d5f186fbe`.
 
 This PASS satisfies the independent page 001 gate for these bytes. It is not a whole-book verdict or user approval; pages 002–025 and the actual assembled PDF remain NOT REVIEWED.
+## Page 002 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-002.png`, SHA-256 `fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce`, 1024 × 1536 RGB.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected all saved page pixels at native, 768 px, and approximately 390 px widths; reread Page 02 and source lines 33–55; inspected actual R04/R06/R07 and compared against previously inspected, unchanged R01/R05 and accepted page 001. The complete reviewed script/coverage remains unchanged. Only this `review.md` is written.
+- **Text and reading: PASS.** All 26 scripted words and punctuation are correct, with no unlisted writing. The upper absence caption, Phoebe's plea, the family's look, and Garran's accusation remain legible at 390 px. Both balloon tails identify their speakers; Adrian's silence/ignorance is preserved. Three panels read down clearly through white gutters; the large intrusion, compressed reaction, and lower confrontation have distinct narrative weight. No antler, balloon, or text is clipped in the upper panel; the lower beast crop is intentional.
+- **Identity, anatomy, and state: PASS.** Phoebe is the sixteen-year-old reference identity in her green tunic, with a plausible raised five-finger hand; Rowena retains her mature face, gray hair and silver-channel gown. Garran is the lean current adult in a soaked coat; the dull bracelet is on his anatomical right wrist in both views and emits no power. Adrian matches page 001. The stormhart's enormous scale, complete upper-panel antlers, translucent-looking hide/internal storm, visible forelegs/hooves and irregular bloody throat scar match R07; hidden hindquarters are naturally occluded by the doorway. No leash or collar is added.
+- **Chair finding: nonblocking.** Panel 02.2 visibly shows a sharply tilted chair beside/behind the abruptly standing Phoebe. Its floor contact is cropped, but the tilted back/rails and the fully sideways chair amid the intrusion debris in 02.1 make the toppled-chair beat readable. It does not read as her calmly remaining seated or as a floating prop. No additional frame or floor detail is required.
+- **Continuity and style: PASS.** The intact supper gives way to the broken orchard threshold, scattered furniture and extinguished candles. N1a contains no projected wards, ashfire or ice. Head-on intrusion followed by the family reaction and Adrian's foreground confrontation keeps the threat/location understandable. Contours, graphic shadows, flat color fields, yellow captions and uppercase lettering match the settled page treatment; stormlight is a story-supported effect. No photographic blur or broad candle bloom returns.
+
+Version bindings (SHA-256):
+
+| Input | SHA-256 |
+| --- | --- |
+| Approved plan | `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2` |
+| Source prose | `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a` |
+| GN STYLE.md | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| Adjacent accepted page 001 | `b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65` |
+| R01 Adrian | `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3` |
+| R04 Phoebe | `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251` |
+| R05 Rowena | `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f` |
+| R06 Garran | `e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0` |
+| R07 Stormhart | `7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6` |
+| QA 390 px | `faba7cd84099219d2fb75ba154e406afa27e660e59990a18bc1ebcd69e1b41a2` |
+| QA 768 px | `d13d35bae3daccf75a11a4db243d129cdb0e1d1bf74d3cbaed55cda40a1cc147` |
+
+QA images are `exec-09dff5a2-5069-47ae-9f68-69bbf113c41a-{390,768}.png` in the previously recorded temporary QA directory. This passes page 002 only for the selected bytes. Page 003 onward and the assembled PDF are NOT REVIEWED; this is neither whole-book PASS nor user approval.
