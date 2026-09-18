@@ -3,7 +3,7 @@
   "contractVersion": "0.5",
   "slug": "solstice-evening-bell",
   "title": "Solstice Evening Bell",
-  "status": "producing-pages",
+  "status": "assembling-final-pdf",
   "createdAt": "2026-09-17T17:20:49.9152999Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-solstice-evening-bell",
   "branch": "codex/graphic-novel-solstice-evening-bell",
@@ -1738,19 +1738,64 @@
       "id": "page-024",
       "number": 24,
       "path": "pages/page-024.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
       "dependsOn": [
         "R1",
         "R2",
         "page-023"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Exact adult identity and exhausted seated aftermath style"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geometry, two breakwaters and intact eastern ridge; change lighting to dawn"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "role": "Small sternum recess geometry only; focus now destroyed and empty"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "role": "Immediate injured surviving face and closed-rupture continuity"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "role": "Public red LED hazard board appearance and exact sign; exclude old bells and early state"
+        }
+      ],
+      "attempts": [
+        "P24-001",
+        "P24-002"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-024",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_ending_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "47eabbc1d2908da2b4d98df5e723e72734ab1323b20239538bf93b3c478f864c",
+        "temporaryPreviewSha256": "5c9f5ee1ca400c4f418c1e081b16ddbdf61c807bd2e83dcba085a7e0d74e6759",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-024.pdf",
+        "partialPdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-25.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-25.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent PASS: exact six text elements, dawn/ridge/count1, emptyfocus, surviving adult, corrected right-thigh cloth and occluded left hip; full/390 actualPDF checked."
+      },
+      "width": 1024,
+      "height": 1536
     }
   ],
   "attempts": [
@@ -5039,6 +5084,128 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P24-001",
+      "assetId": "page-024",
+      "state": "rejected",
+      "prompt": "Generate ONE complete final comic page P24, 1024x1536 portrait, exactly FOUR panels, no printed page title or number. The same crisp black ink, clean flat fills, sharp cel shadows and elegant adult anime-comic rendering as the attached accepted references/pages. Dawn brings pale blue, restrained peach/gold and silver; no painterly/photographic drift. Yellow caption rectangles with black uppercase condensed lettering matching preceding pages, readable at 390px. Layout: broad top panorama about 440px; two side-by-side bordered middle details about 370px (board LEFT, sternum hand RIGHT); large quiet bottom portrait that opens gently into clean white page space, with NO enclosing black bottom border. The two middle panels are separate moments. Leave generous white breathing room around the final caption; all words safely inside image.\n\nINPUT ROLES: R1 exact adult Solstice identity/silver layered armor/long white hair/blue eyes and exhausted AFTERMATH posture; R2 exact western bay geography/two breakwaters/eastern ridge; P22 source of small central recess and destroyed focus geometry ONLY (it is now empty, not intact/cracked gem); P23 immediate battered living face, right shoulder/nose injury and closed rupture; P01 ONLY same public hazard board design and exact red LED sign, ignore former night/uninjured state and all orbiting bells.\n\nState across page: DAWN after invasion ended. Zero whole bells, zero active machinery, zero rupture, no standing enemy columns or new wave; inert shell wreckage remains in water. The central silver focus is permanently destroyed: small cracked EMPTY DARK HOLLOW in sternum armor, not an exposed jewel, glowing device, biological wound or giant opening. She is hurt and exhausted, still Earth's sole ultrahuman from her own innate power. Right pauldron remains scored/blood-marked, nose/lip blood has dried, right ribs painful, LEFT hip fabric tear/graze if visible; RIGHT thigh fabric intact and LEFT shoulder uninjured. Do not add new cheek cuts. Costume/hair damp and beginning to dry. No crowd, second character, ghosts, restoration or triumph pose.\n\nPANEL 1: wide dawn panorama from offshore looking EAST into the same bay; NORTH breakwater on LEFT, SOUTH on RIGHT, intact eastern ridge behind harbor. Tiny but recognizable Solstice sits against southern concrete at right, not standing/floating. Pale ordinary open sky; inert angular wreckage drifts in water, no active frame/column. Place two separate clear yellow captions in reading order leaving wide view visible:\n\"DAWN. THE RIDGE STOOD INTACT.\"\n\"FOR THE FIRST TIME IN CENTURIES, SHE COULD NOT COUNT EVERYTHING APPROACHING. THE UNCERTAINTY FRIGHTENED HER.\"\n\nPANEL 2 (middle LEFT): the same dark-framed public digital hazard board from P01 across an EMPTY harbor road, now at dawn. Red LED display is clear of static, exact sign text including colon and numeral:\n\"ULTRAHUMAN ASSETS IN EXCLUSION ZONE: 1\"\nNatural line breaks as on P01, do not change/add words. Large frontal readable board, road edge and daylight location establish reality. This sign is the ONLY text in this panel, no yellow caption.\n\nPANEL 3 (middle RIGHT): intimate close-up of her armored RIGHT hand gently touching the small cracked EMPTY dark hollow at sternum. The silver oval has been crushed and spent: tiny residual broken rim, no round silver object or functioning gem in center. Fingers anatomically attached and resting, not still crushing. Opaque silver armor surrounds it. Exact yellow caption, positioned not to hide contact:\n\"THE TWELVE WORKS WERE GONE. SHE REMEMBERED EVERY WOMAN.\"\n\nPANEL 4 (large lower quiet portrait opening into white borderless margin): Solstice is visibly SEATED against southern breakwater concrete, shoulders tired, pale blue eyes looking toward ordinary open dawn sky. Show bent seated knees or enough slumped support to avoid a standing portrait. Adult serene but frightened/exhausted resolve, raw hurt still present. Long silver-white hair, same armor and injuries. Right hand may remain at small empty sternum recess; left hand rests on concrete. No visualized new power, no orbit/crown, no bell fragments arranged as a halo. If left hip visible keep its existing graze/torn cloth, right thigh intact; avoid decorative extra red marks. Grounded seated body, coherent hands/limbs, same solitary person. Two distinct yellow captions in clear top-to-bottom reading order, final one rests in ample white breathing room:\n\"STILL SOLSTICE EVENING BELL. STILL FIRST MONARCH. STILL EARTH'S ONLY ULTRAHUMAN.\"\n\"THE NEXT IMPOSSIBLE THING WOULD MEET HER WITHOUT THEIR VOICES.\"\n\nNo extra words, speech, sound effects, labels, watermarks or fifth panel. Closing mood is permanent loss, memory and survival. Preserve complete four-panel content and exact six text elements, safe margins, no clipping.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Exact adult identity and exhausted seated aftermath style"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Bay geometry, two breakwaters and intact eastern ridge; change lighting to dawn"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "role": "Small sternum recess geometry only; focus now destroyed and empty"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "role": "Immediate injured surviving face and closed-rupture continuity"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "role": "Public red LED hazard board appearance and exact sign; exclude old bells and early state"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Exact final source/script checked: dawn, intact ridge, lone seated survivor, ordinary sky, exact hazard count1, cracked empty focus, memory and permanent crown loss. Four-panel layout gives sign/contact separate paired panels, bottom borderless white breathing room; current injuries preserved. Actual five selected references inspected."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:58:49 UTC",
+      "completedAt": "2026-09-18 01:59:49 UTC",
+      "outputPath": "pages/page-024.png",
+      "outputSha256": "12eaec9390cc7dfd111b003b5ca3c7217703fc33b7820fb3c88eb291f1b647b2",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-48bdfd7b-38e3-4b10-be40-eed349cef9f8.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-48bdfd7b-38e3-4b10-be40-eed349cef9f8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "REVISE",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "evidence": "Bottom seated portrait places hip tear/blood on foreground anatomical RIGHT thigh under the injured right shoulder. Source established LEFT hip graze only. Restore intact white drapery over foreground right thigh; true left hip can remain occluded by body/skirt/arm in this angle. Preserve all six exact text elements, empty focus, dawn and other panels."
+      }
+    },
+    {
+      "id": "P24-002",
+      "assetId": "page-024",
+      "state": "accepted",
+      "prompt": "Edit the attached complete P24 comic page, preserving its exact four-panel layout, all six text elements VERBATIM, dawn bay, readable board, empty dark sternum recess, adult identity, seated pose and established RIGHT shoulder injury. ONE LOCAL REPAIR in the BOTTOM PORTRAIT ONLY: the foreground thigh at viewer-left/center, on the same anatomical side as her blood-scored foreground shoulder and chest-touching hand, is her RIGHT thigh. The image currently shows a large red bare-skin graze and torn fabric there. REMOVE that incorrect wound and exposed patch completely. Restore ordinary INTACT WHITE COSTUME FABRIC over that exact patch, with natural cloth folds matching adjacent skirt. There must be NO red/brown stain, tear, skin exposure or graze on the foreground RIGHT thigh. Her real earlier injury was on the far anatomical LEFT hip, which is occluded in this seated angle; do not expose or relocate it just to show it. Keep the existing right pauldron marks and nose trace unchanged. Do not remove any shoulder injury, change either hand, add marks elsewhere, alter empty focus or rewrite letters. First image is character identity reference, second is immediate prior injured face/state; LAST image is complete P24-001 target. Produce the full corrected 1024x1536 page, not a crop.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult identity; preserve clothing geometry"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "role": "Prior right shoulder/nose injury state"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-024.png",
+          "sha256": "12eaec9390cc7dfd111b003b5ca3c7217703fc33b7820fb3c88eb291f1b647b2",
+          "role": "Complete P24-001 target; only incorrect right thigh patch repaired"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Inspected whole target: bottom foreground blood-scored right shoulder establishes near leg as right. Remove only unsupported near/right thigh exposure; far/left graze legitimately occluded. Three actual inputs sufficient, reducing irrelevant intact-focus/early-state references."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 02:01:02 UTC",
+      "completedAt": "2026-09-18 02:02:54 UTC",
+      "outputPath": "pages/page-024.png",
+      "outputSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-9be0e2d9-58bc-4fcc-a19f-7a84e46b8a25.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-9be0e2d9-58bc-4fcc-a19f-7a84e46b8a25.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved page plus actual PDF full/390 inspected. Exact six text elements including hazard count1 and final words. Intact dawn ridge, solitary seated adult and inert wreckage; cracked empty dark sternum recess, no focus/gem/light. Corrected foreground anatomical right thigh intact; far left hip is occluded. Prior right shoulder/nose injuries persist, no restored crown or new threat. Four-panel top/paired-middle/borderless-bottom route clear.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P24-002-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-024.pdf",
+          "sha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+          "pdfPage": 25,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-25.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-25.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -5499,6 +5666,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent PASS: four exact captions, right-to-left south/north lattice collapse, returning signal, closed seam and exhausted survivor; full and390 actual PDF renders checked."
+    },
+    {
+      "scope": "page-024",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_ending_review",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "47eabbc1d2908da2b4d98df5e723e72734ab1323b20239538bf93b3c478f864c",
+      "temporaryPreviewSha256": "5c9f5ee1ca400c4f418c1e081b16ddbdf61c807bd2e83dcba085a7e0d74e6759",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-024.pdf",
+      "partialPdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-25.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-25.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent PASS: exact six text elements, dawn/ridge/count1, emptyfocus, surviving adult, corrected right-thigh cloth and occluded left hip; full/390 actualPDF checked."
     }
   ],
   "approvals": {
@@ -5597,7 +5782,7 @@
   },
   "outputs": {
     "pdf": "edition.pdf",
-    "pdfStatus": "pending-complete-book",
+    "pdfStatus": "assembly-in-progress",
     "expectedPdfPages": 25,
     "order": [
       "cover",
@@ -5732,10 +5917,10 @@
     },
     "finalPreparation": {
       "sourceAndAuthorityPins": 17,
-      "verifiedSelectedComicPages": 22,
-      "recordedImageOutputs": 53,
+      "verifiedSelectedComicPages": 24,
+      "recordedImageOutputs": 56,
       "originalOutputHashFailures": [],
-      "packageBoundary": "Only prompt.md, plan.md, review.md, edition.json, selected cover/references/pages; final PDF pending. Temporary scripts/previews/rejections remain external.",
+      "selectedAssets": 29,
       "sourceAndPublicationEdits": false,
       "completeBookReview": "NOT REVIEWED"
     }

@@ -855,3 +855,26 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 24 renders: PASS.** Both actual renders preserve the whole image, aspect, frame edges, lettering and action without visible crop, stretch or render damage. Coordinator RGB-parity/order checks were not repeated. Earlier PDF pages, complete-book assembly, navigation and accessibility remain outside this page review.
 
 **P23-001 and its rendered PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P24 and complete book: NOT REVIEWED.** Assistant page review does not certify whole-book PASS or user approval.
+
+## Page 024 — P24-002 independent review — PASS
+
+Reviewer: `gn_ending_review`, independent graphic-novel reviewer; 2026-09-17. Scope: complete corrected P24, P23 transition, relevant P22 focus/P01 board continuity and actual PDF page 25 renders. Re-read the exact P24 script, source's final paragraphs and correction prompt. Inspected every panel and visible text element in the saved 1024 × 1536 page, its 390 px reduction and actual 864 × 1296/390 × 585 PDF renders. Compared the accepted R1 identity and R2 geography already inspected in this assignment. Source, plan and STYLE were rehashed and retain the versions bound in the P22 review above.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P24-002 `page-024.png` | `0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72` |
+| P23-001 continuity input | `bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27` |
+| P01 hazard-board comparison | `4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d` |
+| `through-024.pdf` | `ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656` |
+| `full-25.png` | `8967ef0cfb3cd6b46a64f04f982c4b663daf5673fe7b35d7fd1914ca54f0762a` |
+| `reading-25.png` | `06f664ba8c32999ad6e1b2d7baffe73e9b9518dbc56593ef31cdbe665dad137e` |
+
+PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`. Listed hashes independently checked.
+
+**Aftermath, identity and repaired state: PASS.** P24.1 explicitly changes to dawn: the familiar bay, two breakwaters, intact eastern ridge, empty road and inert wreckage remain, with one small seated defender at the southern concrete. No columns, rupture, second wave, allies or celebratory crowd appear. P24.2 returns to the same red-letter public board and unchanged living count of one. P24.3 shows her attached right hand touching a dark, cracked, empty sternum recess: no functioning gem or residual light. P24.4 retains her adult face, exhausted seated posture, wet silver hair, scored right pauldron and nose trace. The erroneous foreground right-thigh graze is absent in the selected repaired pixels; white cloth and coherent folds now cover that area. The real left hip is hidden by the pose, without a healing claim or relocated wound. Both hands, wrists, shoulders and bent legs read coherently. No bell, crown aura, spectral donor or restored technique returns.
+
+**Text, final beat and rendering: PASS.** All six text elements match the exact transcript, including `ULTRAHUMAN ASSETS IN EXCLUSION ZONE: 1`, `EARTH'S` and the final source sentence. The two top captions, board, hand caption and two closing captions remain readable in the actual 390 px PDF render. Top panorama → middle-left board → middle-right hand → large lower portrait is clear; black frames and white gutters separate the paired details, while the borderless lower image gives the ending space without implying another moment inside it. The bottom captions remain ordered and clear of her face and hand. Dawn warmth changes light while retaining crisp contours, flat color shapes, hard-edged armor/cloth shadows and yellow uppercase captions. The ending keeps uncertainty, permanent loss, remembered women and her continuing identity/ultrahuman status; it adds no future feat or recovery.
+
+**Actual PDF page 25 renders: PASS.** Both actual renders preserve complete content, proportions, panel boundaries, readable lettering and the repaired cloth with no visible crop, stretch or render damage. Coordinator image-parity and assembly checks were not repeated. Whole-sequence pacing, every preceding PDF page, navigation and accessibility remain for the fresh complete-book review.
+
+**P24-002 and its rendered PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. Complete book: NOT REVIEWED by this reviewer.** This bounded page verdict is neither whole-book approval nor final user approval.
