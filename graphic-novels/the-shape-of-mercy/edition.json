@@ -165,15 +165,28 @@
       "path": "references/evelyn-bellweather.png",
       "subject": "Evelyn Bellweather, age 26; left gloved, scorched bare, morning bandaged hand states",
       "consumers": "Page 4; 4, 6–11, 14, 16, 24",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+      "attempts": [
+        "R02-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T21:10:53.597851Z",
+        "assetSha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+        "evidence": "Inspected actual saved native and 390px pixels: one consistent adult Evelyn, long dark braid and rust-red coat-dress, stable warm complexion; anatomical left glove, bare scorched palm and morning bandage all correctly distinguished, right hand normal; exact readable headings, clear hands/full boots and opaque near-white background; bold outlined flat rendering matches accepted GN style."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R02-attempt-01"
     },
     {
       "id": "R03",
@@ -367,16 +380,29 @@
       "path": "references/bellweather-orchard-intact.png",
       "subject": "One coherent outdoor view: flowering trees, pond, courtyard edge, orchard wall and Hall doors",
       "consumers": "Page 4; direct inputs 4, 20, 25; page 5 preserves the inspected page-4 geometry without another attached image",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+      "attempts": [
+        "R10-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T21:17:20.2959844Z",
+        "assetSha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+        "evidence": "Inspected actual native and390px pixels: one coherent exterior night location, Hall arched double threshold and tall adjacent windows match R08; court leads directly to low oval pond and intact flowering tree rows/boundary wall. Pond's right edge lies outside frame but its shape/placement remain clear and usable. No cast, magic or damage. Crisp outlined stone/foliage, controlled hard-edged shadows and saturated fills retain GN style."
       },
       "plannedInputs": [
         "R01",
         "R08"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R10-attempt-01"
     },
     {
       "id": "R11",
@@ -2074,6 +2100,122 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "a01479fceaa3ec5cd4df563529a26b7cdd6fca594c4f9c3c7fab55cd9119a49b",
         "evidence": "Independent full/native,390px,768px and adjacent-page review PASS. Exact text, tails, reading order, ward progression, simultaneous scar inset, identities, anatomy, wrist continuity, noncontact hand, state and phone readability all passed."
+      }
+    },
+    {
+      "id": "R02-attempt-01",
+      "assetId": "R02",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T21:07:19Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE character reference sheet for EVELYN BELLWEATHER, 1024 x1536 portrait, fully OPAQUE uniform near-white background (#FFFDF4). One identity only: a distinct adult woman aged26, warm medium-brown family complexion, long dark hair in ONE long braid, strong thoughtful adult face and controlled/resolute expression. She is Adrian's older sister, but do NOT copy the reference person's male face, short hair or charcoal clothing. Her formal clothing is rust-red: a modest high-collared long-sleeved tailored coat-dress with a practical split lower hem over dark trousers and plain dark boots. Consistent garment design and face across all views; fully clothed, nonsexual, no jewelry, crown, weapon or scene props.\n\nThe sole attached Adrian image is ONLY the accepted GN RENDERING-STYLE anchor: match its crisp bold black contours, heavier outer silhouettes, broad saturated flat fills and limited hard-edged shadows. Do not copy Adrian, his clothes or heading. No gradients, soft shading, blur, bloom, haze, photography,3D, painterly wash, hatching or transparent halos.\n\nLay out THREE clear views of the SAME Evelyn, showing three sequential states of her ANATOMICAL LEFT HAND. Her RIGHT hand is always ordinary bare/uninjured/unbandaged, never gloved. In frontal views her left hand is on the VIEWER'S RIGHT. Do not mirror the hand states. Keep all hands anatomically clear, attached to correct arms, with five natural digits; complete boots/feet in full-length view. No detached floating hands.\n\n1. Large full-length front/three-quarter view occupying the left side. Evelyn's formal outfit intact; only her anatomical LEFT hand wears an intact simple charcoal full-finger glove, from fingertips to wrist. Her RIGHT hand is bare normal skin. Both arms/hands readable and separate from body. One long braid visible; face age26 and distinct from Adrian. Exact label below:\nLEFT GLOVE\n\n2. Upper-right waist-up/three-quarter view of the SAME Evelyn after the glove has been removed. Show her anatomical LEFT hand held open with palm toward viewer, so its bare palm has restrained scorch marks: a little dull red irritation and charcoal soot, no active flames, no open wound or gore. No glove remains on this hand. Her RIGHT hand also visible lower down, normal bare and uninjured. Rust-red formal sleeves/clothes unchanged. Face strained but controlled. Exact label:\nSCORCHED LEFT HAND\n\n3. Lower-right waist-up view of SAME Evelyn the following morning, tired and more open expression. Her anatomical LEFT hand/wrist now wrapped in plain cream linen bandages, clearly visible raised near chest with natural fingers/thumb and coherent wrapping; the right hand remains bare, normal and unbandaged. Same rust-red garment for clothing continuity, slightly rumpled, braid still long and recognizable. No new jewelry or healing effects. Exact label:\nMORNING LEFT BANDAGE\n\nAt top, one large bold black exact heading:\nEVELYN BELLWEATHER\nNo other words besides that heading and the three exact state labels. Make all labels clear at390px display width. No magic, fire, smoke, ice, wards, backgrounds, props, other people, duplicate identities or child versions. The sheet must make the same LEFT hand's intact glove, scorched bare state and morning bandage unmistakable while the RIGHT hand stays normal.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted GN rendering style only; exclude Adrian identity/hair/clothing/heading"
+        }
+      ],
+      "preflight": {
+        "evidence": "R02 approved brief and source glove/scorch/removal/morning-bandage passages checked; age26 canon. Actual R01 pixels inspected and accepted hash verified. One adult identity, rust-red clothing/long braid, anatomical LEFT only for three hand states; right stays normal. No magic or scene props."
+      },
+      "completedAt": "2026-09-18T21:09:40Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-dc966753-0308-40ff-ba51-f2cb81f20853.png",
+      "outputSha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+      "candidatePath": "references/evelyn-bellweather.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-dc966753-0308-40ff-ba51-f2cb81f20853.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-dc966753-0308-40ff-ba51-f2cb81f20853.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:09:40Z",
+        "sizes": [
+          "native1024x1536 entire sheet",
+          "390x585 preview"
+        ],
+        "findings": [
+          "One distinct adult Evelyn identity, consistent long dark braid, warm medium-brown complexion and rust-red formal coat-dress/trousers across three views.",
+          "Anatomical left hand consistently gloved, then bare/scorched palm, then cream bandage; right hand remains normal bare/uninjured in all views.",
+          "Clear natural hands and complete boots in full-length view; no added person, magic or scene props.",
+          "Exact EVELYN BELLWEATHER heading and three exact state labels readable at390px; fully opaque near-white ground and crisp outlined flat rendering match style anchor."
+        ],
+        "disposition": "Suitable candidate for coordinator review; no independent PASS or user approval."
+      }
+    },
+    {
+      "id": "R10-attempt-01",
+      "assetId": "R10",
+      "kind": "reference",
+      "preflightAt": "2026-09-18T21:13:15Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE coherent outdoor location reference image, 1024x1536 portrait, fully opaque: the intact Bellweather Hall orchard courtyard at night, before any attack or burning. No people, creature, magic, fire, ice, damage, captions, headings or labels. A single continuous eye-level/slightly elevated exterior perspective, not a montage, map, cutaway or combined interior/exterior scene.\n\nImage1 Adrian reference supplies RENDERING STYLE ONLY: crisp bold black contours, heavier silhouettes, saturated broad flat colors, hard-edged shadow steps, stylized graphic-novel clarity. Exclude his identity, human anatomy, clothing and text. Image2 intact Hall supplies GEOMETRY at its orchard-side doorway/windows: tan dressed-stone wall, broad dark-brown double orchard doors with paneled lower wood and small glazed upper panes beneath a rounded arch/transom, adjacent tall multipaned arched windows and substantial stone surrounds. Show that same wall/doorway from OUTSIDE. Do not copy the Hall interior, tables, people or reference composition. Follow Image1's crisp flat rendering rather than photographic/painterly lighting. No blur, depth of field, bloom, haze, gradients, watercolor texture, hatching or3D.\n\nCompose the Hall facade and broad closed intact orchard doorway on the LEFT side of the view, facing a clear open court extending toward the RIGHT orchard. Its doorstep leads directly onto orderly tan-gray courtyard paving stones. Keep the double-door threshold, glazing and adjacent window geometry plainly visible. Only warm flat amber windowpane color can suggest indoor supper light; no view into an entire room, no visible candles/fire or invented exterior lights.\n\nA low-rimmed ornamental pond lies a few paces outside the doorway in the near-middle/right courtyard. Use one broad simple oval stone basin, shallow-looking dark-blue water at paving level, low smooth stone edging, no fountain, statue, railings or bridge. Show the whole pond shape and its relationship to the doorstep; retain a clear strip of paving between them. Its position should make it physically plausible for a large four-legged animal later to veer from the orchard edge into the pond and splash toward the Hall windows, but do not show that event now.\n\nBeyond and to the RIGHT of the paving/pond stand rows of living orchard trees, dark branching trunks, healthy green leaves and pale cream-white spring blossoms, including larger older trees farther back. Leave a visible planted/grass strip between the Hall/courtyard and oldest trees so a later burned crescent has comprehensible ground to occupy. The trees are intact and unburned. A simple continuous low gray-brown stone orchard boundary wall is visible behind the trees and across the far background, intact, with no heraldry, gatehouse, signs or new structures. Ensure the doorway-to-courtyard-to-pond-to-trees-to-wall relationship reads as ONE connected physical place, with clear walkable routes and no impossible perspective.\n\nNight palette: deep blue sky, cool blue-green foliage, muted tan stone, dark blue pond, limited hard-edged cool shadows. Make all geography easily readable at390px display width without daylight brightness, muddy black silhouettes or soft lighting effects. Draw stone joints, tree silhouettes, blossoms and water reflections as subordinate crisp graphic shapes; no photographic texture or glossy realism. Fully intact setting: no broken glass, fallen doors, rubble, scorch, smoke, flood, ice, ward panes, storm lightning, animals or people. No text or border layout. One coherent exterior location view only.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "GN rendering style only; exclude person/identity/clothing/heading"
+        },
+        {
+          "id": "R08",
+          "path": "references/bellweather-hall-intact.png",
+          "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051",
+          "role": "Hall orchard-side doorway/window/threshold geometry viewed from outside; no interior montage"
+        }
+      ],
+      "preflight": {
+        "evidence": "Approved R10 brief/source geography checked. R01 actual accepted pixels retained from prior inspected stage; R08 actual pixels inspected now; hashes verified. One intact exterior night view, matching doorway geometry and legible connected courtyard/pond/trees/wall, no people/effects/damage."
+      },
+      "completedAt": "2026-09-18T21:16:20Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-606ba2bf-3d7b-483d-a7f7-338a00c7af92.png",
+      "outputSha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+      "candidatePath": "references/bellweather-orchard-intact.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-606ba2bf-3d7b-483d-a7f7-338a00c7af92.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-606ba2bf-3d7b-483d-a7f7-338a00c7af92.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T21:16:20Z",
+        "sizes": [
+          "native1024x1536 entire image",
+          "390x585 preview"
+        ],
+        "findings": [
+          "One coherent intact night exterior: Hall stone wall/double glazed orchard doors left, courtyard paving and low-rimmed pond near-right, flowering trees and intact stone boundary wall beyond.",
+          "Threshold-to-pond distance and clear paved route are readable at390px; pond's far right edge extends beyond frame but its shape/scale remain clear.",
+          "Crisp outlined architectural/foliage shapes with hard shadow structure, flat night palette and opaque image; subordinate paving/reflection detail does not obscure layout.",
+          "No people/creatures, fire, ice, wards, damage, montage, labels or scene text."
+        ],
+        "disposition": "Suitable candidate. Coordinator separately inspected actual native/390 pixels and directed saving without correction; formal acceptance remains coordinator-owned."
       }
     }
   ],
