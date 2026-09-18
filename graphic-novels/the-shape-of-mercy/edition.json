@@ -802,8 +802,8 @@
       "number": 7,
       "id": "page-007",
       "path": "pages/page-007.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
       "plannedInputs": [
         "R01",
         "R02",
@@ -812,12 +812,44 @@
         "R09"
       ],
       "framing": "Beast and Garran off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-007-attempt-01",
+        "page-007-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+        "inputImages": [
+          {
+            "id": "page-007-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png",
+            "sha256": "291ee2e38a32ec206ea25d9ac995d07d2d4b680419308c23094fd369c914b0cf",
+            "role": "sole edit target; enlarge/reflow six exact lettering units, preserve passing art/state/four-panel layout"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "c9d8490c8342ad84fa282db3469e02bf62d39287ec1710b0533fed86314675c0",
+        "evidence": "Independent Page007 PASS at native/390/768: all exact text and attribution, four-panel reading order, anatomy/contact, gifts/injury/glove states, identities/style and source/preceding-page continuity hold; no blocking findings."
+      },
+      "selectedAttempt": "page-007-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "reviewedAt": "2026-09-18T23:06:28.8425359Z",
+        "evidence": "Actual native/390/768 inspected: four planned panels and all six exact text units, larger lettering and distinct speaker tails remain readable. Intact subjective gift connections in first panel only, yellow STOP narration with no cut/spell, Rowena silver-to-stone conduits without restored projected wards. Marcus right arm supports him at pillar, left sleeve iced; Evelyn left glove remains worn/smoking, bare right burning hand lowered while outside ashfire persists. No flashback/extra cast, stable identities, N3 damage and adjacent continuity."
       }
     },
     {
@@ -2977,6 +3009,167 @@
       "disposition": "Prepared correction NOT CALLED. Coordinator explicitly requested saving attempt02 and independent assessment of minor overlap before further generation.",
       "deferredAt": "2026-09-18T22:35:47Z",
       "recordRecovery": "A serialization typo briefly truncated edition.json. Restored unchanged committed R09 baseline plus only Page006 attempt entries, using exact prepared prompts/input hashes and actual tool results retained in memory. Attempt01 completedAt recovered from output file UTC timestamp; summary inspection metadata reconstructed from recorded findings. No other asset/approval/review data changed."
+    },
+    {
+      "id": "page-007-attempt-01",
+      "assetId": "page-007",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-18T22:50:39Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete 1024x1536 portrait graphic-novel page, FOUR panels, crisp bold black contours, saturated flat color, hard-edged shadows and clean white gutters. LARGE LEGIBLE LETTERING FIRST: actual uppercase cap height34–36px minimum, roughly44px font, comfortably readable at390px wide. Reserve generous opaque yellow caption boxes and white speech balloons; expand boxes rather than shrinking text. All lettering black bold uppercase. Include EXACTLY these six units, in this order; line breaks are allowed, punctuation fixed:\n\nPANEL1 yellow narration:\nTHEIR GIFTS BELONGED TO THEM.\nEVERY CONNECTION PRESENTED\nAN EDGE.\nPANEL1 separate yellow narration, no speech tail:\nSTOP.\nPANEL2 Marcus speech:\nTELL HIM.\nPANEL3 Rowena speech, read first:\nNOT NOW.\nPANEL3 Marcus OFF-FRAME speech, read second:\nWE RAN OUT OF LATER\nTEN YEARS AGO.\nPANEL4 Evelyn speech:\nWHEN YOU WERE NINE,\nFATHER TRIED TO BIND PHOEBE.\n\nNo other words, headings, labels, page numbers or SFX. STOP. is Adrian's private narration, NEVER a spoken spell or severing action. All living gifts remain intact throughout.\n\nREFERENCE ROLES, five actual images in attached order:\n1 Adrian: same young adult19 warm medium-brown identity, short uneven dark hair, charcoal formal coat/white shirt.\n2 Evelyn: same distinct adult26 warm medium-brown identity, single long dark braid, rust-red formal clothing. Use CURRENT worn LEFT glove; exclude bare scorched-hand and bandaged morning views.\n3 Marcus: same adult23 wavy-haired blue-coated identity, current frost-stiff anatomical LEFT sleeve. RIGHT arm uninjured.\n4 Lady Rowena: same mature warm medium-brown identity, swept-back graying hair, dark high collar and silver stitched sleeve channels.\n5 Damaged Hall: actual N3 geography and rendering, overturned supper table, pillar/far gallery LEFT, broken orchard threshold/windows RIGHT, solid physical water-ice blocking exits, cold glass/slush. Keep all candles OUT. Outside ashfire remains active. No actual projected ward panes.\nExclude all reference-sheet headings, labels and alternate ages/states.\n\nLAYOUT: Broad full-width upper panel about500px high; a middle row of two clear panels about390px high, Marcus LEFT then Rowena RIGHT; larger full-width bottom exchange about580px high. White gutters separate attention shifts during the SAME dangerous minute. No inset or flashback. Maintain family inside hall/LEFT and danger beyond orchard threshold/RIGHT. Show only Adrian, Evelyn, Marcus and Rowena; beast, Garran, Phoebe and guests remain off-frame.\n\nPANEL1, subjective Adrian perception: Adrian foreground LEFT, three living family members across the room: Marcus by the surviving LEFT pillar, Rowena central, Evelyn nearer RIGHT. Real damaged Hall remains legible underneath SPARSE, crisp graphic overlays. Evelyn's red ashfire is intimately connected to her living chest/core, Marcus has a deep-blue pressure shape behind his heart, Rowena's pulse at wrist joins silver sleeve channels then stone. These three are clearly DIFFERENT visual motifs, not ropes or solid objects. Show Rowena's conduit as subtle subjective linework following pulse/silver/stone, NEVER blue rectangular ward panes. Do not show anatomical organs. All connections unbroken; Adrian does nothing to them. The first large yellow narration rests in open upper-left space; the smaller STOP. yellow box follows at right/lower-right, with no tail.\n\nPANEL2, ordinary view without perception overlays: close Marcus braces against pillar using his clearly bare, uninjured anatomical RIGHT hand/arm. His anatomical LEFT arm stays lowered/guarded inside the frost-stiff blue sleeve. He looks toward Rowena to his RIGHT, dazed but insistent; his TELL HIM. balloon has a short unambiguous tail to him.\n\nPANEL3, ordinary view: Rowena turns sharply toward Marcus on her LEFT. NOT NOW. balloon above her with tail to her. Below it, WE RAN OUT OF LATER TEN YEARS AGO. enters from the LEFT border with an off-frame tail pointing LEFT toward Marcus, never toward Rowena. Keep both large and clearly ordered; preserve her silver sleeve channels without magical glow or active ward planes.\n\nPANEL4, ordinary reveal, NOT flashback: Adrian LEFT listens to Evelyn RIGHT, continuing the previous page's side-by-side positions. Evelyn lowers her burning bare anatomical RIGHT hand toward her lap/hip, restrained and sober. Her anatomical LEFT hand remains in its worn scorched dark glove, a little smoke; no bare burned left palm or bandage. Show both hands clearly where feasible. Ashfire still blazes outside the shattered RIGHT threshold. Her large balloon sits above the exchange, tail to Evelyn, leaving both faces and lowered hand visible. Adrian's empty hands are separate; no touching, spell, cut or visible connection overlay here. Keep crisp outlined backgrounds and props, no blur/bloom/photographic shading.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 formal charcoal coat identity; primary crisp flat GN rendering"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn adult identity/rust-red clothing/dark braid; current worn anatomical LEFT glove, no bare-left or morning bandage states"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus identity/blue coat; current anatomical LEFT frost-stiff sleeve, RIGHT uninjured"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity/swept-back graying hair/dark high-collared gown and silver stitched sleeve channels"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "N3 same Hall geometry: left pillar, overturned table, dark candles, shattered glass/slush, physical ice, broken orchard threshold right and outside ashfire"
+        }
+      ],
+      "preflight": {
+        "state": "N3; gifts unbroken, STOP is private narration, no active ward panes; Marcus left sleeve frosted/right arm pushing; Evelyn left glove worn/right burning hand lowered.",
+        "composition": "Broad subjective gift field, paired Marcus/Rowena reactions, large Evelyn/Adrian reveal; four main panels, no flashback. Full-size boxes prioritized.",
+        "referencePixels": "Five accepted actual references previously inspected; current SHA256 values verified",
+        "sourceMoment": "Approved Page07/source129–155 and accepted Page006 inspected; six exact text units/speakers checked",
+        "precedingPageSha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68"
+      },
+      "completedAt": "2026-09-18T22:54:21Z",
+      "outputSha256": "291ee2e38a32ec206ea25d9ac995d07d2d4b680419308c23094fd369c914b0cf",
+      "producerInspection": {
+        "disposition": "One targeted lettering/container edit required.",
+        "inspectedAt": "2026-09-18T22:54:21Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All six exact text units and punctuation/speakers retained. Four-panel sequence, intact subjective top-panel gifts, correct Marcus left injury/right push, Evelyn left glove/right lowered fire, N3 continuity preserved.",
+          "Longer dialogue remains approximately9–10px high at390; enlarge/reflow all lettering with actualcap34–36px minimum."
+        ]
+      },
+      "status": "needs-correction",
+      "toolProvenance": {
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png",
+        "backendModel": null,
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen"
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png",
+      "dimensions": {
+        "height": 1536,
+        "opaque": true,
+        "width": 1024,
+        "pixelFormat": "RGB24"
+      }
+    },
+    {
+      "id": "page-007-attempt-02",
+      "assetId": "page-007",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-18T22:54:21Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit ONLY lettering and its containing boxes/balloons on this complete 1024x1536 comic page. The longer dialogue still reads too small at390px. Make EVERY text unit actual uppercase cap height34–36px minimum (roughly44px font), visibly about30–40% larger than current, bold black comic lettering. Enlarge/reflow the containers into available open space; never fit them by shrinking the letters. Keep exactly FOUR panels and preserve all passing artwork, identities, poses, hands, states and layout.\n\nSix exact text units in reading order:\n1 TOP yellow caption, enlarge to roughly600px wide and150px high while leaving faces visible. Three lines:\nTHEIR GIFTS BELONGED TO THEM.\nEVERY CONNECTION PRESENTED\nAN EDGE.\n2 TOP smaller yellow caption, enlarge lettering/box:\nSTOP.\nThis remains private narration, no tail, no spell or cut.\n3 MIDDLE-LEFT Marcus balloon:\nTELL HIM.\nEnlarge to same34–36px actual caps with short tail to Marcus.\n4 MIDDLE-RIGHT Rowena first balloon:\nNOT NOW.\nKeep tail to Rowena and clear first position.\n5 MIDDLE-RIGHT Marcus off-frame second balloon:\nWE RAN OUT OF LATER\nTEN YEARS AGO.\nExpand balloon across more of the clear lower chest area, about430px wide. Maintain an off-frame tail pointing LEFT toward Marcus, never Rowena. Preserve both lines and all punctuation; make this text comfortably phone-readable.\n6 BOTTOM Evelyn balloon:\nWHEN YOU WERE NINE,\nFATHER TRIED TO\nBIND PHOEBE.\nUse these THREE shorter lines to allow actual cap height34–36px in a larger generous balloon above the exchange. This line break changes no words or punctuation. Tail to Evelyn at RIGHT. Faces and lowered flaming hand must stay unobscured.\n\nNo extra text, no duplicated words, no labels/SFX/page number. Preserve every period/comma. Expand balloon areas before reducing art; no changes to the four-panel reading sequence.\n\nPreserve passing art exactly: top subjective red core/fire, Marcus blue heart-pressure and Rowena pulse/silver/stone overlays remain intact; no new projected blue ward panes. These graphic overlays exist only in TOP subjective panel. Marcus pushes pillar with anatomical RIGHT uninjured arm, LEFT sleeve frost-stiff. Evelyn has worn scorched anatomical LEFT glove with smoke; her bare anatomical RIGHT burning hand lowers in bottom, outside firebreak remains alight. All candles remain out, N3 shattered windows/ice/glass/slush and hall geography unchanged. No flashback or extra people. Crisp flat GN contours/colors/shadows unchanged. Only enlarge lettering and its containers.",
+      "inputImages": [
+        {
+          "id": "page-007-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png",
+          "sha256": "291ee2e38a32ec206ea25d9ac995d07d2d4b680419308c23094fd369c914b0cf",
+          "role": "sole edit target; enlarge/reflow six exact lettering units, preserve passing art/state/four-panel layout"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Actual target inspected native390768 and hash verified",
+        "sourceMoment": "Approved Page07 unchanged; all six exact text units/speakers checked",
+        "composition": "Enlarge containers into open space, keep four panels and all passing art. Three-line bottom reveal balloon supports34–36px caps."
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-16fa8873-fd49-4661-ab05-166ab55bcbd6.png",
+      "completedAt": "2026-09-18T22:56:03Z",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-007.png",
+      "producerInspection": {
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All six exact text units and punctuation retained; every unit now reads comfortably at390px with generous lettering containers.",
+          "Four-panel sequence, first-person yellow STOP narration, clear Rowena/Marcus off-frame reply tail and Evelyn final reveal balloon preserve reading order.",
+          "Top-only subjective red/blue/silver gift motifs remain intact with no severance or restored ward panes; later ordinary panels have no perceptual overlays.",
+          "Marcus LEFT sleeve frost-stiff and RIGHT hand bracing; Evelyn LEFT glove worn/scorched and RIGHT burning hand lowered; N3 ice/glass/slush, dark candles, active outside firebreak and named cast retained.",
+          "Entire page reinspected after lettering edit; no blocking producer finding."
+        ],
+        "disposition": "Selected candidate for fresh independent review; no independent PASS or user approval claimed.",
+        "inspectedAt": "2026-09-18T22:56:03Z"
+      },
+      "status": "selected",
+      "dimensions": {
+        "pixelFormat": "RGB24",
+        "opaque": true,
+        "height": 1536,
+        "width": 1024
+      },
+      "toolProvenance": {
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-16fa8873-fd49-4661-ab05-166ab55bcbd6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "tool": "image_gen.imagegen",
+        "backendModel": null,
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-16fa8873-fd49-4661-ab05-166ab55bcbd6.png",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ]
+      },
+      "outputSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+        "inputImages": [
+          {
+            "id": "page-007-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-ed2ba7d8-4376-4030-8c92-eeefe0d77601.png",
+            "sha256": "291ee2e38a32ec206ea25d9ac995d07d2d4b680419308c23094fd369c914b0cf",
+            "role": "sole edit target; enlarge/reflow six exact lettering units, preserve passing art/state/four-panel layout"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "c9d8490c8342ad84fa282db3469e02bf62d39287ec1710b0533fed86314675c0",
+        "evidence": "Independent Page007 PASS at native/390/768: all exact text and attribution, four-panel reading order, anatomy/contact, gifts/injury/glove states, identities/style and source/preceding-page continuity hold; no blocking findings."
+      }
     }
   ],
   "approvals": {
