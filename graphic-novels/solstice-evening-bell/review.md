@@ -878,3 +878,119 @@ PDF/render directory: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
 **Actual PDF page 25 renders: PASS.** Both actual renders preserve complete content, proportions, panel boundaries, readable lettering and the repaired cloth with no visible crop, stretch or render damage. Coordinator image-parity and assembly checks were not repeated. Whole-sequence pacing, every preceding PDF page, navigation and accessibility remain for the fresh complete-book review.
 
 **P24-002 and its rendered PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. Complete book: NOT REVIEWED by this reviewer.** This bounded page verdict is neither whole-book approval nor final user approval.
+
+
+## Complete PDF book — fresh independent final review — PASS
+
+Reviewer: `gn_final_review` (`/root/gn_final_review`), fresh independent graphic-novel reviewer; 2026-09-17. This reviewer produced none of the source, script, reference sheets, cover, comic pages, PDF or supplied renders, and wrote only this appended section of `review.md`. Earlier page verdicts were context, not the evidence for this verdict.
+
+**Scope: PDF REQUESTED; complete 25-page PDF REVIEWED.** Read the complete source prose and complete source acceptance prompt, authoritative bundle marker, complete current plan including all 92 panel scripts and coverage/continuity tables, edition request and manifest, AGENTS.md, GN production contract v0.5, STYLE.md v0.5, universe README and applicable style policy. Read the specific canonical living-agency, crown, invasion, Solstice, compact, geography and timeline entries. Independently inspected the actual source-cover pixels and all four accepted edition-specific reference images. Independently inspected every final PDF render, every panel and every visible word in order: `full-01.png` through `full-25.png` and `reading-01.png` through `reading-25.png` in `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/final/`. This is 50 separate actual-PDF render inspections, not a contact-sheet or inherited thumbnail review. Full cover is 941 × 1672, full comic pages 1024 × 1536; reading renders are 390 × 693 and 390 × 585 respectively. Full images supplied desktop-scale inspection; 390-pixel images supplied reduced reading-size inspection. No partial PDF was treated as the final book.
+
+### Version binding
+
+The final output reviewed is `edition.pdf`, SHA-256 **`ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656`**, 71,873,963 bytes, 25 PDF pages. Its selected-image order and hashes are bound below. This verdict is valid only for these unchanged bytes and the listed script/source/reference versions. It does not record user approval.
+
+| Input | SHA-256 |
+| --- | --- |
+| Source prose | `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c` |
+| Complete source prompt | `26e9256c7b6de56632fbd249963ca6fa42c75ef367ee5e4a4626baa3921411db` |
+| Source state, canon true | `8e7ac17b0a818a5fac10c735f4a2c53f9edb1a06e288a0e49ad7f41ff51f4e13` |
+| Original source cover, read-only | `685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88` |
+| Edition request | `ac20434a92c7a374de089f3d58dad324a78d9bbd0fa523c747fad22461a5dfe0` |
+| Complete plan/script | `75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e` |
+| GN STYLE v0.5 | `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f` |
+| GN contract v0.5 | `b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95` |
+| R1 `references/solstice-evening-bell.png` | `cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c` |
+| R2 `references/western-bay.png` | `42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a` |
+| R3 `references/thirteen-tone-crown.png` | `2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208` |
+| R4 `references/invasion-frame.png` | `e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a` |
+| Manifest input snapshot at final write (coordinator will add this verdict later) | `612a8af01589d5fd0495403c0ef1490425df2ceb084fe8da2bc9f811013dd291` |
+| Final assembly/render evidence snapshot | `e52d4319db36c1d773ba47550ebad642a268d8ccedb42982ba04a2367e549869` |
+| Review history before this append | `47eabbc1d2908da2b4d98df5e723e72734ab1323b20239538bf93b3c478f864c` |
+
+The reviewer independently rehashed the PDF, all 25 selected images, all 50 reviewed renders, all four references and 17 source/style/contract/plan/authority pins; all matched their records. The evidence JSON's coordinator visual-review annotation changed during this review; the PDF, selected-image and render bytes did not change. The current evidence hash above names the final annotated snapshot. Render hashes are retained in that evidence and the manifest; visual judgments here came from the reviewer's own inspections.
+
+| PDF page | Selected image | SHA-256 |
+| ---: | --- | --- |
+| 1 | `cover.png` | `e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca` |
+| 2 | `pages/page-001.png` | `4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d` |
+| 3 | `pages/page-002.png` | `db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a` |
+| 4 | `pages/page-003.png` | `99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288` |
+| 5 | `pages/page-004.png` | `ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90` |
+| 6 | `pages/page-005.png` | `3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9` |
+| 7 | `pages/page-006.png` | `8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d` |
+| 8 | `pages/page-007.png` | `c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb` |
+| 9 | `pages/page-008.png` | `11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe` |
+| 10 | `pages/page-009.png` | `f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c` |
+| 11 | `pages/page-010.png` | `80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60` |
+| 12 | `pages/page-011.png` | `18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0` |
+| 13 | `pages/page-012.png` | `7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792` |
+| 14 | `pages/page-013.png` | `030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821` |
+| 15 | `pages/page-014.png` | `64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373` |
+| 16 | `pages/page-015.png` | `ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa` |
+| 17 | `pages/page-016.png` | `a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706` |
+| 18 | `pages/page-017.png` | `b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5` |
+| 19 | `pages/page-018.png` | `1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96` |
+| 20 | `pages/page-019.png` | `70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a` |
+| 21 | `pages/page-020.png` | `73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c` |
+| 22 | `pages/page-021.png` | `8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06` |
+| 23 | `pages/page-022.png` | `f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47` |
+| 24 | `pages/page-023.png` | `bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27` |
+| 25 | `pages/page-024.png` | `0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72` |
+
+### Complete-book gates
+
+| Gate | Verdict | Independent findings |
+| --- | --- | --- |
+| Source coverage and adaptation intent | PASS | All major actions, decisions, losses and reveals in the complete source are represented. P02 establishes adult willing donors, fatal past sacrifice, absence of captive souls and living agency. P07–P19 retain all twelve distinct donor particulars. P15 gives the reserved-chime decision its own causal and emotional beat. P21–P24 preserve release, permanent loss, memory and continuing identity. No new ally, living donor, second ultrahuman, enemy origin, restoration or future feat is introduced. |
+| Invasion arithmetic and formation continuity | PASS | The lettered sequence is 131,072 → 98,304 → 49,152 → 8,192 → 4,096 → 0. The second chord's fewer-than-100 and first plane's 4,000 remain within the reduction to 49,152. P16 establishes eight columns; P17 takes both shelf columns, P18 takes the northern column, P19 takes the southern column while three ridge formations survive their diversion. P20 visibly consolidates one core and three escorts into the same physical lattice; no unexplained disappearance or extra force occurs. |
+| Chime state, movement and climax mechanism | PASS | Count-bearing views step from twelve to eleven, nine, six, five, four, three, two and zero as scripted; cropped views do not introduce a new full set. C9 remains the smallest reserved loss. P17's two planes share the still-breaking endpoint; P18–P19 maintain a sounding dying line for the explicitly subsecond transit. P21 shows physical silver/lattice contact and her living contact. P22 separates intact focus during speech, material crack and inverse consequence. P23 closes the seam; P24's focus is empty and dark. |
+| Identity, costume, injuries, anatomy and contact | PASS | The same adult face, blue eyes, silver hair and articulated white/silver armor persist from accepted R1. Nose blood, right pauldron/rib damage, later left hip graze and failed right leg remain coherent. P12's left-hand impairment is temporary as scripted. Hands, grip, shell contact, shoulder contact, brace and seated anatomy remain readable. P24's foreground right thigh is cloth-covered; the left hip is occluded without a healing claim. No repair accidentally restores crown machinery or moves the wound. |
+| Geography, props and scale | PASS | R2's northern/left and southern/right breakwaters, shelf, harbor road and eastern ridge anchor the recurring bay views. Enemy close-ups retain human-scale featureless R4 shells, folding vanes and needle apertures. Chimes retain R3's material design; the central focus appears only in the final small armor recess. The last lattice uses interlocked physical shells and contacts spent silver. No giant source-cover ship, tiara, ornate coast or external chest jewel becomes a story fact. |
+| Exact lettering and transcript correspondence | PASS | Read every title, balloon, yellow caption and hazard-board word against the complete plan, at full and 390-pixel size. All scripted words, counts and meaningful punctuation are present in order; retained dialogue and remembered quotations preserve their intended speakers and provenance. The repeated public sign remains `ULTRAHUMAN ASSETS IN EXCLUSION ZONE: 1`. P10.3, P11.3, P19.2, P20.2 and P22.2 remain silent. No panel IDs, reference headings, SFX, credit or extraneous text enters the final pages. |
+| Reading path and panel interaction | PASS | All 92 panels read left-to-right/top-to-bottom. Caption positions, gaze, hands, transit lines and target movements connect each intended next moment. White gutters and black frames keep cause, impact and recoil separate. P17's matching geometry makes the second shared-endpoint strike sequential; P18–P19's page turn preserves immediate transit. No inset/overlap or frame crossing hides words, merges times or sends the eye past a reveal. P24's borderless closing portrait remains subordinate to the upper panorama and paired details in a clear route. |
+| Pacing, page turns and whole-sequence effect | PASS | Opening stillness and compact precede the invasion commitment. Opponent learning changes the tactics before successive losses; the weather and false-pulse injury alter the fight rather than repeat the opening exchange. The full page for the reserve choice, reduced final triangle, rapid dying-line continuation, grounded conductor setup and separate crack/consequence/closure give the final decision adequate space. Repeated bays and chimes orient the battle; variations in scale, hand/face detail and aftermath prevent the sequence from becoming a repeated illustration grid. |
+| GN rendering and cumulative style | PASS | Bold black contours, heavier silhouette edges, flat saturated fields, hard-edged armor/cloth shadows, white gutters, pale-yellow captions and uppercase comic lettering remain consistent with the written style and accepted GN references. Selective rain, sea texture and lighting accents do not become an IL wash/hatching finish. P22's source-required white inverse and P24's dawn warmth change illumination without replacing the drawing language. Composition serves this single-defender battle and does not import Photo 1's story or page layout. |
+| Cover | PASS | The complete title reads `SOLSTICE / EVENING BELL`; only that title is lettered. Twelve discrete chimes and eight distant formations are countable. The same uninjured adult identity, concealed central focus, raised hands and evacuated bay establish the opening without revealing the ending. Title and essential anatomy/objects survive the narrower aspect ratio and 390-pixel reading size. |
+| PDF sequence, count and selected-image correspondence | PASS | Independently verified 25 PDF pages, ordered cover then page-001 through page-024 exactly once, one image XObject drawn once on every page, expected image dimensions and unique selected paths/hashes. No reference appendix, blank page, omission or duplicate. The coordinator's decoded-RGB parity result was inspected and accepted as mechanical evidence; expensive pixel extraction was not repeated. All actual renders independently match the selected narrative sequence and recorded versions. |
+| PDF geometry, complete art and rendering | PASS | Independently parsed every page: zero rotation, equal MediaBox/CropBox, image matrix fills the corresponding box with zero translation and no skew. Cover box is 364.6938 × 648 points for its 941:1672 pixels; each comic box is 432 × 648 points for 1024:1536. All 50 actual renders retain full content and proportions without crop, stretching, clipped letters, lost frames, garbled glyphs or rendering damage. |
+| Reduced reading-size legibility | PASS | All captions, balloons and signs were readable in the actual 390-pixel renders, including compact long captions on P02/P12/P17/P21 and the final source sentence on P24. Key contact, count and route distinctions remain visible. Full-size reading and the exact transcript supplement the images; no unreadable text was excused by the transcript or assumed OCR. |
+| PDF navigation structure | PASS | Independently parsed all 25 outline entries. `Cover` targets PDF page 1; each correctly titled numbered story bookmark targets its corresponding PDF page 2–25. PDF is unencrypted. This verifies stored destinations, not a particular viewer's controls. |
+| Interactive PDF-viewer behavior | NOT REVIEWED | The coordinator reported that the available headless Chromium session downloaded the PDF instead of rendering an interactive native viewer. No actual next/back, bookmark-click, fit-width, zoom, device touch or Codex-panel behavior is certified by this reviewer. Poppler renders and page/outline inspection establish only the stated visual and structural scope. |
+| Accessibility | NOT REVIEWED for assistive-technology behavior | Structural inspection found zero extractable page-text characters and no PDF structure tree: this is the approved image-only PDF, without searchable/selectable comic text or tagged screen-reader reading order. Exact per-panel words and essential actions are available in `plan.md`, which was checked in full. Screen-reader operation, keyboard operation and equivalent accessibility of a particular viewer were not tested and are not claimed. |
+
+### Page-specific sequence observations
+
+These are fresh observations from every final rendered page, in addition to the gates above. Every listed page was inspected at both full and 390-pixel size.
+
+| PDF / story page | Observed state and transition |
+| --- | --- |
+| 01 / cover | Clean defender, twelve intact chimes, eight formations; full title safe. |
+| 02 / P01 | Four panels; empty bay and board establish solitude; concealed sternum focus and twelve-chime view agree. |
+| 03 / P02 | Four intimate panels; eyes, hands and smallest chime keep remembered words separate from present speech; no donor figure appears. |
+| 04 / P03 | Three panels; eight wedges and eight grounded destinations lead into both declaration balloons with clear Solstice tails. |
+| 05 / P04 | Four panels; four lines of three chimes, eight cascades, 32,768 destroyed, delayed nose bleed and 98,304 remaining. |
+| 06 / P05 | Four panels; small schools evade repetition; twelve intact paired chimes precede straight transit and right-pauldron strike. |
+| 07 / P06 | Four panels; cut, avoidance, reposition and descending maze form a readable tactical sequence with a single Solstice in each instant. |
+| 08 / P07 | Four panels; crack → refusal → first burn → eleven remaining. Donor laughter is memory, not a summoned woman. |
+| 09 / P08 | Four panels; north and shelf losses stay distinct; third donor's fear and voluntary choice survive the nine-chime aftermath. |
+| 10 / P09 | Three panels; compressed host and closure establish 49,152, followed by a distinct nine-chime hardware-target reveal. |
+| 11 / P10 | Four panels; storm is environmental; paired vertical positions and rain-marked horizontal cut distinguish preparation, pursuit and failure of alignment. |
+| 12 / P11 | Five panels; dotted false mass precedes real right-rib collision, physical counter-grip, three later collisions and route decision. |
+| 13 / P12 | Four panels; separate fourth/fifth/sixth burns retain the ink, mending and death particulars; six remain and left hand hangs briefly. |
+| 14 / P13 | Three panels; thin files, wide failed turn and seventh burn preserve the dissenter's choice; five surviving bells remain. |
+| 15 / P14 | Four panels; opposing collision attack, crossed-arm burn, heel push-off and left hip graze remain separate instants; four survive. |
+| 16 / P15 | Four panels; reserve and open route create the choice before command and ninth loss; final three are intact. |
+| 17 / P16 | Three panels; 8,192 and eight columns are distinct from the three equipment endpoints; full bay view re-establishes all target groups. |
+| 18 / P17 | Four panels; the shared broken endpoint takes the two shelf columns in sequence; remembered sugar does not physically appear in the empty palm. |
+| 19 / P18 | Four panels; straight north transit and close shell contact precede eleventh burn; the dying note still links to the last intact chime. |
+| 20 / P19 | Four panels; immediate north-to-south line, shoulder contact, fourth-column destruction and three intact diversions end in zero orbiting chimes. |
+| 21 / P20 | Four panels; four incoming groups feed interlocked vanes; fall and failed right-leg support establish grounded vulnerability before the widened rupture. |
+| 22 / P21 | Four panels; physical silver arc, vane contact, living body and remembered compact prepare the release with no premature crack or soul return. |
+| 23 / P22 | Three panels; intact oval focus during both speeches, real crack in silent close-up, then inverse through the connected equipment. |
+| 24 / P23 | Four panels; south-to-north failure, upward signal, ordinary stars and raw breath confirm zero and retained living power. |
+| 25 / P24 | Four panels; dawn and intact ridge, unchanged public classification, dark empty focus and hurt seated adult preserve the permanent cost and exact ending. |
+
+**Blocking findings: none. Required repairs: none. Complete PDF book: PASS for the visual, narrative, transcript, assembly and structural-navigation scope above.** Interactive viewer and assistive-technology behavior remain explicitly untested; the image-only accessibility limitation is disclosed rather than certified as accessible. Neither these limits nor earlier per-page passes are misrepresented as whole-device testing.
+
+**User final approval: NOT REQUESTED / NOT CERTIFIED by this reviewer.** The coordinator may now present this exact independently passing PDF for the user's response. Any changed PDF, selected-image, source, script or materially dependent reference bytes require the appropriate renewed review; assistant PASS and elapsed time do not constitute user approval. No website, Pages publication, source edit, canon action or reference appendix is reviewed or authorized here.

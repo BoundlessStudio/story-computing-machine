@@ -3,7 +3,7 @@
   "contractVersion": "0.5",
   "slug": "solstice-evening-bell",
   "title": "Solstice Evening Bell",
-  "status": "assembling-final-pdf",
+  "status": "awaiting-final-user-approval",
   "createdAt": "2026-09-17T17:20:49.9152999Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-solstice-evening-bell",
   "branch": "codex/graphic-novel-solstice-evening-bell",
@@ -5684,6 +5684,155 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent PASS: exact six text elements, dawn/ridge/count1, emptyfocus, surviving adult, corrected right-thigh cloth and occluded left hip; full/390 actualPDF checked."
+    },
+    {
+      "scope": "complete-pdf-book",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_final_review",
+      "role": "graphic_novel_reviewer",
+      "freshReviewer": true,
+      "pdfPath": "edition.pdf",
+      "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+      "pdfPages": 25,
+      "orderedImages": [
+        {
+          "pdfPage": 1,
+          "path": "cover.png",
+          "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca"
+        },
+        {
+          "pdfPage": 2,
+          "path": "pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d"
+        },
+        {
+          "pdfPage": 3,
+          "path": "pages/page-002.png",
+          "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a"
+        },
+        {
+          "pdfPage": 4,
+          "path": "pages/page-003.png",
+          "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288"
+        },
+        {
+          "pdfPage": 5,
+          "path": "pages/page-004.png",
+          "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90"
+        },
+        {
+          "pdfPage": 6,
+          "path": "pages/page-005.png",
+          "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9"
+        },
+        {
+          "pdfPage": 7,
+          "path": "pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d"
+        },
+        {
+          "pdfPage": 8,
+          "path": "pages/page-007.png",
+          "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb"
+        },
+        {
+          "pdfPage": 9,
+          "path": "pages/page-008.png",
+          "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe"
+        },
+        {
+          "pdfPage": 10,
+          "path": "pages/page-009.png",
+          "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c"
+        },
+        {
+          "pdfPage": 11,
+          "path": "pages/page-010.png",
+          "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60"
+        },
+        {
+          "pdfPage": 12,
+          "path": "pages/page-011.png",
+          "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0"
+        },
+        {
+          "pdfPage": 13,
+          "path": "pages/page-012.png",
+          "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792"
+        },
+        {
+          "pdfPage": 14,
+          "path": "pages/page-013.png",
+          "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821"
+        },
+        {
+          "pdfPage": 15,
+          "path": "pages/page-014.png",
+          "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373"
+        },
+        {
+          "pdfPage": 16,
+          "path": "pages/page-015.png",
+          "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa"
+        },
+        {
+          "pdfPage": 17,
+          "path": "pages/page-016.png",
+          "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706"
+        },
+        {
+          "pdfPage": 18,
+          "path": "pages/page-017.png",
+          "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5"
+        },
+        {
+          "pdfPage": 19,
+          "path": "pages/page-018.png",
+          "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96"
+        },
+        {
+          "pdfPage": 20,
+          "path": "pages/page-019.png",
+          "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a"
+        },
+        {
+          "pdfPage": 21,
+          "path": "pages/page-020.png",
+          "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c"
+        },
+        {
+          "pdfPage": 22,
+          "path": "pages/page-021.png",
+          "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06"
+        },
+        {
+          "pdfPage": 23,
+          "path": "pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47"
+        },
+        {
+          "pdfPage": 24,
+          "path": "pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27"
+        },
+        {
+          "pdfPage": 25,
+          "path": "pages/page-024.png",
+          "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72"
+        }
+      ],
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+      "reviewFileSha256": "4123a03a4e5742c03077df9df5e3c1af0eac09b72c4b41bc8ef58b9898815d18",
+      "evidence": "review.md:883",
+      "fullSizeAllPages": true,
+      "readingWidth": 390,
+      "readingSizeAllPages": true,
+      "blockingFindings": [],
+      "limitations": [
+        "Image-only PDF; exact transcripts in plan.md, no selectable text or screen-reader semantics claimed.",
+        "Interactive native PDF-viewer next/back/zoom behavior NOT REVIEWED; 25 bookmark destinations and all page matrices independently verified."
+      ]
     }
   ],
   "approvals": {
@@ -5739,9 +5888,146 @@
       "authorizedChange": "Generate one new GN-style cover instead of reusing the original; 24 story pages and four new references unchanged. Coordinator stated interpretation before generation."
     },
     "final": {
-      "status": "not-requested",
+      "status": "awaiting-user-response",
+      "requestedAt": "2026-09-18 02:26:27 UTC",
       "userResponse": null,
-      "binding": null
+      "binding": {
+        "pdfPath": "edition.pdf",
+        "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+        "pdfPages": 25,
+        "orderedImages": [
+          {
+            "pdfPage": 1,
+            "path": "cover.png",
+            "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca"
+          },
+          {
+            "pdfPage": 2,
+            "path": "pages/page-001.png",
+            "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d"
+          },
+          {
+            "pdfPage": 3,
+            "path": "pages/page-002.png",
+            "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a"
+          },
+          {
+            "pdfPage": 4,
+            "path": "pages/page-003.png",
+            "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288"
+          },
+          {
+            "pdfPage": 5,
+            "path": "pages/page-004.png",
+            "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90"
+          },
+          {
+            "pdfPage": 6,
+            "path": "pages/page-005.png",
+            "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9"
+          },
+          {
+            "pdfPage": 7,
+            "path": "pages/page-006.png",
+            "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d"
+          },
+          {
+            "pdfPage": 8,
+            "path": "pages/page-007.png",
+            "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb"
+          },
+          {
+            "pdfPage": 9,
+            "path": "pages/page-008.png",
+            "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe"
+          },
+          {
+            "pdfPage": 10,
+            "path": "pages/page-009.png",
+            "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c"
+          },
+          {
+            "pdfPage": 11,
+            "path": "pages/page-010.png",
+            "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60"
+          },
+          {
+            "pdfPage": 12,
+            "path": "pages/page-011.png",
+            "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0"
+          },
+          {
+            "pdfPage": 13,
+            "path": "pages/page-012.png",
+            "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792"
+          },
+          {
+            "pdfPage": 14,
+            "path": "pages/page-013.png",
+            "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821"
+          },
+          {
+            "pdfPage": 15,
+            "path": "pages/page-014.png",
+            "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373"
+          },
+          {
+            "pdfPage": 16,
+            "path": "pages/page-015.png",
+            "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa"
+          },
+          {
+            "pdfPage": 17,
+            "path": "pages/page-016.png",
+            "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706"
+          },
+          {
+            "pdfPage": 18,
+            "path": "pages/page-017.png",
+            "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5"
+          },
+          {
+            "pdfPage": 19,
+            "path": "pages/page-018.png",
+            "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96"
+          },
+          {
+            "pdfPage": 20,
+            "path": "pages/page-019.png",
+            "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a"
+          },
+          {
+            "pdfPage": 21,
+            "path": "pages/page-020.png",
+            "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c"
+          },
+          {
+            "pdfPage": 22,
+            "path": "pages/page-021.png",
+            "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06"
+          },
+          {
+            "pdfPage": 23,
+            "path": "pages/page-022.png",
+            "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47"
+          },
+          {
+            "pdfPage": 24,
+            "path": "pages/page-023.png",
+            "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27"
+          },
+          {
+            "pdfPage": 25,
+            "path": "pages/page-024.png",
+            "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72"
+          }
+        ],
+        "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "contractSha256": "b8fd2c7ed36fe1f1d5651dc35544adab2905886a189afb7439df69433144fe95",
+        "independentReviewFileSha256": "4123a03a4e5742c03077df9df5e3c1af0eac09b72c4b41bc8ef58b9898815d18"
+      }
     },
     "deliveryChange": {
       "status": "user-authorized",
@@ -5782,7 +6068,7 @@
   },
   "outputs": {
     "pdf": "edition.pdf",
-    "pdfStatus": "assembly-in-progress",
+    "pdfStatus": "independent-pass-awaiting-user-approval",
     "expectedPdfPages": 25,
     "order": [
       "cover",
@@ -5813,7 +6099,1001 @@
     ],
     "referenceAppendix": false,
     "temporaryPreview": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/edition.html",
-    "publication": "No website publication or GN Pages integration; final local PDF requires fresh independent review and actual user final approval."
+    "publication": "No website publication or GN Pages integration; final local PDF requires fresh independent review and actual user final approval.",
+    "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+    "pdfBytes": 71873963,
+    "pdfPages": 25,
+    "assembly": {
+      "output": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-solstice-evening-bell\\graphic-novels\\solstice-evening-bell\\edition.pdf",
+      "sha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+      "pdfPages": 25,
+      "comicPages": 24,
+      "complete": true,
+      "embeddedPixelParity": true,
+      "layout": [
+        {
+          "pdfPage": 1,
+          "assetId": "cover",
+          "path": "cover.png",
+          "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "imageWidth": 941,
+          "imageHeight": 1672,
+          "pageWidthPt": 364.6937799043062,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 2,
+          "assetId": "page-001",
+          "path": "pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 3,
+          "assetId": "page-002",
+          "path": "pages/page-002.png",
+          "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 4,
+          "assetId": "page-003",
+          "path": "pages/page-003.png",
+          "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 5,
+          "assetId": "page-004",
+          "path": "pages/page-004.png",
+          "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 6,
+          "assetId": "page-005",
+          "path": "pages/page-005.png",
+          "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 7,
+          "assetId": "page-006",
+          "path": "pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 8,
+          "assetId": "page-007",
+          "path": "pages/page-007.png",
+          "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 9,
+          "assetId": "page-008",
+          "path": "pages/page-008.png",
+          "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 10,
+          "assetId": "page-009",
+          "path": "pages/page-009.png",
+          "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 11,
+          "assetId": "page-010",
+          "path": "pages/page-010.png",
+          "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 12,
+          "assetId": "page-011",
+          "path": "pages/page-011.png",
+          "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 13,
+          "assetId": "page-012",
+          "path": "pages/page-012.png",
+          "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 14,
+          "assetId": "page-013",
+          "path": "pages/page-013.png",
+          "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 15,
+          "assetId": "page-014",
+          "path": "pages/page-014.png",
+          "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 16,
+          "assetId": "page-015",
+          "path": "pages/page-015.png",
+          "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 17,
+          "assetId": "page-016",
+          "path": "pages/page-016.png",
+          "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 18,
+          "assetId": "page-017",
+          "path": "pages/page-017.png",
+          "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 19,
+          "assetId": "page-018",
+          "path": "pages/page-018.png",
+          "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 20,
+          "assetId": "page-019",
+          "path": "pages/page-019.png",
+          "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 21,
+          "assetId": "page-020",
+          "path": "pages/page-020.png",
+          "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 22,
+          "assetId": "page-021",
+          "path": "pages/page-021.png",
+          "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 23,
+          "assetId": "page-022",
+          "path": "pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 24,
+          "assetId": "page-023",
+          "path": "pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        },
+        {
+          "pdfPage": 25,
+          "assetId": "page-024",
+          "path": "pages/page-024.png",
+          "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+          "imageWidth": 1024,
+          "imageHeight": 1536,
+          "pageWidthPt": 432,
+          "pageHeightPt": 648
+        }
+      ],
+      "orderedAssets": [
+        {
+          "pdfPage": 1,
+          "path": "cover.png",
+          "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca"
+        },
+        {
+          "pdfPage": 2,
+          "path": "pages/page-001.png",
+          "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d"
+        },
+        {
+          "pdfPage": 3,
+          "path": "pages/page-002.png",
+          "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a"
+        },
+        {
+          "pdfPage": 4,
+          "path": "pages/page-003.png",
+          "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288"
+        },
+        {
+          "pdfPage": 5,
+          "path": "pages/page-004.png",
+          "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90"
+        },
+        {
+          "pdfPage": 6,
+          "path": "pages/page-005.png",
+          "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9"
+        },
+        {
+          "pdfPage": 7,
+          "path": "pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d"
+        },
+        {
+          "pdfPage": 8,
+          "path": "pages/page-007.png",
+          "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb"
+        },
+        {
+          "pdfPage": 9,
+          "path": "pages/page-008.png",
+          "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe"
+        },
+        {
+          "pdfPage": 10,
+          "path": "pages/page-009.png",
+          "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c"
+        },
+        {
+          "pdfPage": 11,
+          "path": "pages/page-010.png",
+          "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60"
+        },
+        {
+          "pdfPage": 12,
+          "path": "pages/page-011.png",
+          "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0"
+        },
+        {
+          "pdfPage": 13,
+          "path": "pages/page-012.png",
+          "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792"
+        },
+        {
+          "pdfPage": 14,
+          "path": "pages/page-013.png",
+          "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821"
+        },
+        {
+          "pdfPage": 15,
+          "path": "pages/page-014.png",
+          "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373"
+        },
+        {
+          "pdfPage": 16,
+          "path": "pages/page-015.png",
+          "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa"
+        },
+        {
+          "pdfPage": 17,
+          "path": "pages/page-016.png",
+          "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706"
+        },
+        {
+          "pdfPage": 18,
+          "path": "pages/page-017.png",
+          "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5"
+        },
+        {
+          "pdfPage": 19,
+          "path": "pages/page-018.png",
+          "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96"
+        },
+        {
+          "pdfPage": 20,
+          "path": "pages/page-019.png",
+          "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a"
+        },
+        {
+          "pdfPage": 21,
+          "path": "pages/page-020.png",
+          "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c"
+        },
+        {
+          "pdfPage": 22,
+          "path": "pages/page-021.png",
+          "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06"
+        },
+        {
+          "pdfPage": 23,
+          "path": "pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47"
+        },
+        {
+          "pdfPage": 24,
+          "path": "pages/page-023.png",
+          "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27"
+        },
+        {
+          "pdfPage": 25,
+          "path": "pages/page-024.png",
+          "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72"
+        }
+      ],
+      "renders": [
+        {
+          "pdfPage": 1,
+          "asset": "cover.png",
+          "assetSha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-01.png",
+          "sha256": "b7f012e33337ef63438f87600662b9c0c845c9121383f25800d710fcb86bc811",
+          "dimensions": [
+            941,
+            1672
+          ]
+        },
+        {
+          "pdfPage": 1,
+          "asset": "cover.png",
+          "assetSha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-01.png",
+          "sha256": "6553db64ff93c12c076d040c5472bdb934951f2a78bc334f40e9b0c16befac87",
+          "dimensions": [
+            390,
+            693
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "asset": "pages/page-001.png",
+          "assetSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-02.png",
+          "sha256": "d64ae7204e92d2b6342f57de27fb9e42a00f50037a682601a3b19760a98d5afb",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "asset": "pages/page-001.png",
+          "assetSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-02.png",
+          "sha256": "6399ce29532ec7ed2b23289005240431743efc9269b406a79193b80dfe5cd3ca",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "asset": "pages/page-002.png",
+          "assetSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-03.png",
+          "sha256": "756a6b694350dab4eed52f0608f428dcf917b0b4ebbab82b2ab362c1bea5738d",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "asset": "pages/page-002.png",
+          "assetSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-03.png",
+          "sha256": "45b793f4c0e8509401063fa0742733e0efb33e7ab850c39b5f254d6ab13f71de",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "asset": "pages/page-003.png",
+          "assetSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-04.png",
+          "sha256": "5997ae7d2ffb45cc74247ca01d1d91178d53f0eee8856c89550ec6ab646ade2b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "asset": "pages/page-003.png",
+          "assetSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-04.png",
+          "sha256": "00afba368a27694506f847a89bedc7cccd490ced91c5f324cac452a8e4188e43",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 5,
+          "asset": "pages/page-004.png",
+          "assetSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-05.png",
+          "sha256": "a01f7ec39c0044bcae4f21006d2a52900393947b693653a85ecffc508117a201",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 5,
+          "asset": "pages/page-004.png",
+          "assetSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-05.png",
+          "sha256": "1fb24dce6762f39f42633c08b951a466220d22c37dfef7fdbb13e7cfbaafec3d",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "asset": "pages/page-005.png",
+          "assetSha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-06.png",
+          "sha256": "6b5f6b682312f3aa4f255e408c5b73d176da81e16c85461b478f0c657e93e387",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "asset": "pages/page-005.png",
+          "assetSha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-06.png",
+          "sha256": "650e56495278134eb0bcde53f4f930be9e3c98542d55b4455d467208d1e350c5",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "asset": "pages/page-006.png",
+          "assetSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-07.png",
+          "sha256": "523d9a480e0e382dcf67f62e05f8457fdc7ab148e033a5f3f8972414e5299138",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "asset": "pages/page-006.png",
+          "assetSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-07.png",
+          "sha256": "4c0489a27e38fcde907f14bb7038e6052fd958fe9f3c2d588153f3fb788f8970",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "asset": "pages/page-007.png",
+          "assetSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-08.png",
+          "sha256": "56b3cde1414ca11a8cf774bc0ec4cc4d2bb1a788ceebdfcd2843d1f9a4e0743c",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "asset": "pages/page-007.png",
+          "assetSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-08.png",
+          "sha256": "d3941dd4586f878a37384409d29828b0cdce8707959b0edb32e7814d4bfc1216",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "asset": "pages/page-008.png",
+          "assetSha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-09.png",
+          "sha256": "b8610c4420aeb3ef18b9d60fcb88e6cfd56b07b311e9579f4df16f4ad9ce3d25",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "asset": "pages/page-008.png",
+          "assetSha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-09.png",
+          "sha256": "497c8bbac9469428d9ddc0d40df491b2f427632b1adf994763ab3e8cec07a649",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 10,
+          "asset": "pages/page-009.png",
+          "assetSha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-10.png",
+          "sha256": "f35baa14509c812557016ce90bb9df30cb55b8efa82bb8f54c84c9ef3dabe0a1",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 10,
+          "asset": "pages/page-009.png",
+          "assetSha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-10.png",
+          "sha256": "f3cd0b33f9e889a42ddef15a616dc8ea2360240acd41cc008a4ac0150d7e47c5",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "asset": "pages/page-010.png",
+          "assetSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-11.png",
+          "sha256": "a22cb566a7e79526557fa64280dce273293287e88d0dfbd069a97ff74c84bd7a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "asset": "pages/page-010.png",
+          "assetSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-11.png",
+          "sha256": "ae0b6cba04c7690f322c4bbcf44ec59b46f8ca0d2655e0e43c1437102c193ca6",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "asset": "pages/page-011.png",
+          "assetSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-12.png",
+          "sha256": "6b63d5041c226551665cc31c4f0b3bd7c1c36dc013642dad664c8ef6be1a3dba",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "asset": "pages/page-011.png",
+          "assetSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-12.png",
+          "sha256": "2c298b54911738efb5f3cf46e5273c7d328c86af6cdb32bb3e4d67f004bdfcf2",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 13,
+          "asset": "pages/page-012.png",
+          "assetSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-13.png",
+          "sha256": "9eac4b736fc1fdbec3d604fedad4f7bb40b86b2732cf538accec4efc9565284b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 13,
+          "asset": "pages/page-012.png",
+          "assetSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-13.png",
+          "sha256": "9bf93b4b49a54ad363ca8de2d377f3c8eb22199b3ff09d4e9b3c9ec7ced1bd69",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "asset": "pages/page-013.png",
+          "assetSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-14.png",
+          "sha256": "87ec3f6f755d7fdeba586325aff13220b2767272405b571a18b804659f839aef",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "asset": "pages/page-013.png",
+          "assetSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-14.png",
+          "sha256": "37c9d35397bc6045479907812064e61950cf06c4ee45094f1f51f3504d9ed914",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 15,
+          "asset": "pages/page-014.png",
+          "assetSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-15.png",
+          "sha256": "782d239497029eedab789dc6c9b0180791ea1de9c9e898bad8a7f9aec7190ca4",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 15,
+          "asset": "pages/page-014.png",
+          "assetSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-15.png",
+          "sha256": "b38823b59f7a18d69a510c4d1cc681db3d534185b9fe9a9fd38b52cadbe3e558",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 16,
+          "asset": "pages/page-015.png",
+          "assetSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-16.png",
+          "sha256": "d2f56447180aeb442bdbf7d406ca4704c0db338c8e9e657d847b4c8c10335744",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 16,
+          "asset": "pages/page-015.png",
+          "assetSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-16.png",
+          "sha256": "b18d853555797392e3a558a12e47260adbe828a129d0f03e596b6411011e05e6",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 17,
+          "asset": "pages/page-016.png",
+          "assetSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-17.png",
+          "sha256": "9f28b50fe0473398c1aeeb54a200dbdb0a746c31f15ff24deb975e565b6068aa",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 17,
+          "asset": "pages/page-016.png",
+          "assetSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-17.png",
+          "sha256": "1a4aaf96aff5e14350f73b389f98ba55428183f01c92c95519eda1f834cfde00",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "asset": "pages/page-017.png",
+          "assetSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-18.png",
+          "sha256": "281c2455a707eefd44ba83a737c12cd8dd6ddfe7d3bf6b51c34315babe8c1c48",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "asset": "pages/page-017.png",
+          "assetSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-18.png",
+          "sha256": "e77918719c3d1a01da119927e8e94a403fcfdd6f5444d3acdb1a8ff7391a5c48",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "asset": "pages/page-018.png",
+          "assetSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-19.png",
+          "sha256": "3fd7f9bf17f9e54f730d7a1e151b7c9b80b40a527bcf807a1ea1fa320ba83434",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "asset": "pages/page-018.png",
+          "assetSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-19.png",
+          "sha256": "0aad63e55835f025d23d54fdc686912da72b4e9aab43b02dde0381f72e0b54db",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 20,
+          "asset": "pages/page-019.png",
+          "assetSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-20.png",
+          "sha256": "00e6709f37cdc39763e43e7dad69e3069c27b845e4badc5de2dc4c7a282aedab",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 20,
+          "asset": "pages/page-019.png",
+          "assetSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-20.png",
+          "sha256": "7fdbe4c720042e4988f080119519297a928d4d168e964494342b72e4ae46c1a3",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 21,
+          "asset": "pages/page-020.png",
+          "assetSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-21.png",
+          "sha256": "deb98479072085262fd346f94ed580b68bc04c92b4f9f7d04ec54a9a481c4d01",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 21,
+          "asset": "pages/page-020.png",
+          "assetSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-21.png",
+          "sha256": "5df6427fcbc4b619273e83179ed8f587f057c2b32f13906634ce6604117e2d63",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 22,
+          "asset": "pages/page-021.png",
+          "assetSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-22.png",
+          "sha256": "670f3a4c480a5e134e7db425042fc6e35cfb6301f4c6c3e4c610d0452f33ef1b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 22,
+          "asset": "pages/page-021.png",
+          "assetSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-22.png",
+          "sha256": "7a2b62426485ff207f8e74c825a20e75f631249bf0277b41017a93c6e11014c0",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 23,
+          "asset": "pages/page-022.png",
+          "assetSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-23.png",
+          "sha256": "5ab79f770840e87dfe5161944c45f299f8771512de231a5486c1b7e1ae45013a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 23,
+          "asset": "pages/page-022.png",
+          "assetSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-23.png",
+          "sha256": "3bb0684bfdb9778c23d6bd14b84e12069ff01319a623b26b60232eec24ec7ccd",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 24,
+          "asset": "pages/page-023.png",
+          "assetSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-24.png",
+          "sha256": "c3a8ad1f65a7446401e41741fd65246f54e6884f3c913fe99969e5460c7c5023",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 24,
+          "asset": "pages/page-023.png",
+          "assetSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-24.png",
+          "sha256": "6fba3c46e4446a77360f51560efd309ede853d514e03340bcc94486309d6ae35",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 25,
+          "asset": "pages/page-024.png",
+          "assetSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-25.png",
+          "sha256": "846e40e2707bd98b278a5f67b8051b7c4aae91f554c68ae65949a8206d75565a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 25,
+          "asset": "pages/page-024.png",
+          "assetSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-25.png",
+          "sha256": "06f664ba8c32999ad6e1b2d7baffe73e9b9518dbc56593ef31cdbe665dad137e",
+          "dimensions": [
+            390,
+            585
+          ]
+        }
+      ],
+      "externalEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/final/assembly-evidence.json",
+      "externalEvidenceSha256": "e52d4319db36c1d773ba47550ebad642a268d8ccedb42982ba04a2367e549869"
+    }
   },
   "coordinatorChecks": {
     "checkedAt": "2026-09-17T17:39:32.2713702Z",
@@ -5923,6 +7203,800 @@
       "selectedAssets": 29,
       "sourceAndPublicationEdits": false,
       "completeBookReview": "NOT REVIEWED"
+    },
+    "completePdfReview": {
+      "reviewer": "coordinator",
+      "verdict": "PASS",
+      "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+      "inspectedPdfPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "fullSize": true,
+      "readingWidth": 390,
+      "evidence": "All50 actual final PDF renders visually inspected individually. Complete cover/title and ordered24comicpages present; no cropping/stretch/clipping/render damage, captions and sign readable, gutters/tails/page turns clear, permanent-loss ending consistent.",
+      "renderVersions": [
+        {
+          "pdfPage": 1,
+          "asset": "cover.png",
+          "assetSha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-01.png",
+          "sha256": "b7f012e33337ef63438f87600662b9c0c845c9121383f25800d710fcb86bc811",
+          "dimensions": [
+            941,
+            1672
+          ]
+        },
+        {
+          "pdfPage": 1,
+          "asset": "cover.png",
+          "assetSha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-01.png",
+          "sha256": "6553db64ff93c12c076d040c5472bdb934951f2a78bc334f40e9b0c16befac87",
+          "dimensions": [
+            390,
+            693
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "asset": "pages/page-001.png",
+          "assetSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-02.png",
+          "sha256": "d64ae7204e92d2b6342f57de27fb9e42a00f50037a682601a3b19760a98d5afb",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "asset": "pages/page-001.png",
+          "assetSha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-02.png",
+          "sha256": "6399ce29532ec7ed2b23289005240431743efc9269b406a79193b80dfe5cd3ca",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "asset": "pages/page-002.png",
+          "assetSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-03.png",
+          "sha256": "756a6b694350dab4eed52f0608f428dcf917b0b4ebbab82b2ab362c1bea5738d",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "asset": "pages/page-002.png",
+          "assetSha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-03.png",
+          "sha256": "45b793f4c0e8509401063fa0742733e0efb33e7ab850c39b5f254d6ab13f71de",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "asset": "pages/page-003.png",
+          "assetSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-04.png",
+          "sha256": "5997ae7d2ffb45cc74247ca01d1d91178d53f0eee8856c89550ec6ab646ade2b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "asset": "pages/page-003.png",
+          "assetSha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-04.png",
+          "sha256": "00afba368a27694506f847a89bedc7cccd490ced91c5f324cac452a8e4188e43",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 5,
+          "asset": "pages/page-004.png",
+          "assetSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-05.png",
+          "sha256": "a01f7ec39c0044bcae4f21006d2a52900393947b693653a85ecffc508117a201",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 5,
+          "asset": "pages/page-004.png",
+          "assetSha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-05.png",
+          "sha256": "1fb24dce6762f39f42633c08b951a466220d22c37dfef7fdbb13e7cfbaafec3d",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "asset": "pages/page-005.png",
+          "assetSha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-06.png",
+          "sha256": "6b5f6b682312f3aa4f255e408c5b73d176da81e16c85461b478f0c657e93e387",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "asset": "pages/page-005.png",
+          "assetSha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-06.png",
+          "sha256": "650e56495278134eb0bcde53f4f930be9e3c98542d55b4455d467208d1e350c5",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "asset": "pages/page-006.png",
+          "assetSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-07.png",
+          "sha256": "523d9a480e0e382dcf67f62e05f8457fdc7ab148e033a5f3f8972414e5299138",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "asset": "pages/page-006.png",
+          "assetSha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-07.png",
+          "sha256": "4c0489a27e38fcde907f14bb7038e6052fd958fe9f3c2d588153f3fb788f8970",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "asset": "pages/page-007.png",
+          "assetSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-08.png",
+          "sha256": "56b3cde1414ca11a8cf774bc0ec4cc4d2bb1a788ceebdfcd2843d1f9a4e0743c",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "asset": "pages/page-007.png",
+          "assetSha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-08.png",
+          "sha256": "d3941dd4586f878a37384409d29828b0cdce8707959b0edb32e7814d4bfc1216",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "asset": "pages/page-008.png",
+          "assetSha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-09.png",
+          "sha256": "b8610c4420aeb3ef18b9d60fcb88e6cfd56b07b311e9579f4df16f4ad9ce3d25",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "asset": "pages/page-008.png",
+          "assetSha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-09.png",
+          "sha256": "497c8bbac9469428d9ddc0d40df491b2f427632b1adf994763ab3e8cec07a649",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 10,
+          "asset": "pages/page-009.png",
+          "assetSha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-10.png",
+          "sha256": "f35baa14509c812557016ce90bb9df30cb55b8efa82bb8f54c84c9ef3dabe0a1",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 10,
+          "asset": "pages/page-009.png",
+          "assetSha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-10.png",
+          "sha256": "f3cd0b33f9e889a42ddef15a616dc8ea2360240acd41cc008a4ac0150d7e47c5",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "asset": "pages/page-010.png",
+          "assetSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-11.png",
+          "sha256": "a22cb566a7e79526557fa64280dce273293287e88d0dfbd069a97ff74c84bd7a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "asset": "pages/page-010.png",
+          "assetSha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-11.png",
+          "sha256": "ae0b6cba04c7690f322c4bbcf44ec59b46f8ca0d2655e0e43c1437102c193ca6",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "asset": "pages/page-011.png",
+          "assetSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-12.png",
+          "sha256": "6b63d5041c226551665cc31c4f0b3bd7c1c36dc013642dad664c8ef6be1a3dba",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "asset": "pages/page-011.png",
+          "assetSha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-12.png",
+          "sha256": "2c298b54911738efb5f3cf46e5273c7d328c86af6cdb32bb3e4d67f004bdfcf2",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 13,
+          "asset": "pages/page-012.png",
+          "assetSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-13.png",
+          "sha256": "9eac4b736fc1fdbec3d604fedad4f7bb40b86b2732cf538accec4efc9565284b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 13,
+          "asset": "pages/page-012.png",
+          "assetSha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-13.png",
+          "sha256": "9bf93b4b49a54ad363ca8de2d377f3c8eb22199b3ff09d4e9b3c9ec7ced1bd69",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "asset": "pages/page-013.png",
+          "assetSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-14.png",
+          "sha256": "87ec3f6f755d7fdeba586325aff13220b2767272405b571a18b804659f839aef",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "asset": "pages/page-013.png",
+          "assetSha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-14.png",
+          "sha256": "37c9d35397bc6045479907812064e61950cf06c4ee45094f1f51f3504d9ed914",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 15,
+          "asset": "pages/page-014.png",
+          "assetSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-15.png",
+          "sha256": "782d239497029eedab789dc6c9b0180791ea1de9c9e898bad8a7f9aec7190ca4",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 15,
+          "asset": "pages/page-014.png",
+          "assetSha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-15.png",
+          "sha256": "b38823b59f7a18d69a510c4d1cc681db3d534185b9fe9a9fd38b52cadbe3e558",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 16,
+          "asset": "pages/page-015.png",
+          "assetSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-16.png",
+          "sha256": "d2f56447180aeb442bdbf7d406ca4704c0db338c8e9e657d847b4c8c10335744",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 16,
+          "asset": "pages/page-015.png",
+          "assetSha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-16.png",
+          "sha256": "b18d853555797392e3a558a12e47260adbe828a129d0f03e596b6411011e05e6",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 17,
+          "asset": "pages/page-016.png",
+          "assetSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-17.png",
+          "sha256": "9f28b50fe0473398c1aeeb54a200dbdb0a746c31f15ff24deb975e565b6068aa",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 17,
+          "asset": "pages/page-016.png",
+          "assetSha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-17.png",
+          "sha256": "1a4aaf96aff5e14350f73b389f98ba55428183f01c92c95519eda1f834cfde00",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "asset": "pages/page-017.png",
+          "assetSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-18.png",
+          "sha256": "281c2455a707eefd44ba83a737c12cd8dd6ddfe7d3bf6b51c34315babe8c1c48",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "asset": "pages/page-017.png",
+          "assetSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-18.png",
+          "sha256": "e77918719c3d1a01da119927e8e94a403fcfdd6f5444d3acdb1a8ff7391a5c48",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "asset": "pages/page-018.png",
+          "assetSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-19.png",
+          "sha256": "3fd7f9bf17f9e54f730d7a1e151b7c9b80b40a527bcf807a1ea1fa320ba83434",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "asset": "pages/page-018.png",
+          "assetSha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-19.png",
+          "sha256": "0aad63e55835f025d23d54fdc686912da72b4e9aab43b02dde0381f72e0b54db",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 20,
+          "asset": "pages/page-019.png",
+          "assetSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-20.png",
+          "sha256": "00e6709f37cdc39763e43e7dad69e3069c27b845e4badc5de2dc4c7a282aedab",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 20,
+          "asset": "pages/page-019.png",
+          "assetSha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-20.png",
+          "sha256": "7fdbe4c720042e4988f080119519297a928d4d168e964494342b72e4ae46c1a3",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 21,
+          "asset": "pages/page-020.png",
+          "assetSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-21.png",
+          "sha256": "deb98479072085262fd346f94ed580b68bc04c92b4f9f7d04ec54a9a481c4d01",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 21,
+          "asset": "pages/page-020.png",
+          "assetSha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-21.png",
+          "sha256": "5df6427fcbc4b619273e83179ed8f587f057c2b32f13906634ce6604117e2d63",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 22,
+          "asset": "pages/page-021.png",
+          "assetSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-22.png",
+          "sha256": "670f3a4c480a5e134e7db425042fc6e35cfb6301f4c6c3e4c610d0452f33ef1b",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 22,
+          "asset": "pages/page-021.png",
+          "assetSha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-22.png",
+          "sha256": "7a2b62426485ff207f8e74c825a20e75f631249bf0277b41017a93c6e11014c0",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 23,
+          "asset": "pages/page-022.png",
+          "assetSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-23.png",
+          "sha256": "5ab79f770840e87dfe5161944c45f299f8771512de231a5486c1b7e1ae45013a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 23,
+          "asset": "pages/page-022.png",
+          "assetSha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-23.png",
+          "sha256": "3bb0684bfdb9778c23d6bd14b84e12069ff01319a623b26b60232eec24ec7ccd",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 24,
+          "asset": "pages/page-023.png",
+          "assetSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-24.png",
+          "sha256": "c3a8ad1f65a7446401e41741fd65246f54e6884f3c913fe99969e5460c7c5023",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 24,
+          "asset": "pages/page-023.png",
+          "assetSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-24.png",
+          "sha256": "6fba3c46e4446a77360f51560efd309ede853d514e03340bcc94486309d6ae35",
+          "dimensions": [
+            390,
+            585
+          ]
+        },
+        {
+          "pdfPage": 25,
+          "asset": "pages/page-024.png",
+          "assetSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+          "size": "full",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\full-25.png",
+          "sha256": "846e40e2707bd98b278a5f67b8051b7c4aae91f554c68ae65949a8206d75565a",
+          "dimensions": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "pdfPage": 25,
+          "asset": "pages/page-024.png",
+          "assetSha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72",
+          "size": "reading",
+          "path": "C:\\Users\\jamie\\.codex\\tmp\\gn-solstice-evening-bell\\pdf\\final\\reading-25.png",
+          "sha256": "06f664ba8c32999ad6e1b2d7baffe73e9b9518dbc56593ef31cdbe665dad137e",
+          "dimensions": [
+            390,
+            585
+          ]
+        }
+      ],
+      "interactiveViewer": {
+        "status": "NOT REVIEWED",
+        "evidence": "Headless Chromium attempted actual edition.pdf and initiated download; native interactive PDF viewer navigation/zoom not certified."
+      },
+      "accessibility": {
+        "status": "image-only PDF",
+        "evidence": "Exact lettering is embedded in raster pages; plan.md retains exact transcripts. No selectable text/screen-reader semantics claimed."
+      }
     }
+  },
+  "wholeBookReview": {
+    "scope": "complete-pdf-book",
+    "verdict": "PASS",
+    "reviewer": "/root/gn_final_review",
+    "role": "graphic_novel_reviewer",
+    "freshReviewer": true,
+    "pdfPath": "edition.pdf",
+    "pdfSha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
+    "pdfPages": 25,
+    "orderedImages": [
+      {
+        "pdfPage": 1,
+        "path": "cover.png",
+        "sha256": "e89c6bca8987d8496f3bb192a74812b485119c0f27f02341eb87d84d3f51e6ca"
+      },
+      {
+        "pdfPage": 2,
+        "path": "pages/page-001.png",
+        "sha256": "4cfd938d4583349ff7ed1e996f7a34e11e83f983a232d7655f39625e61e0e41d"
+      },
+      {
+        "pdfPage": 3,
+        "path": "pages/page-002.png",
+        "sha256": "db6c596f85211a4b31461d965bd71d9ecf1ce3d89b5133c0acb3dfe5e1ccbb4a"
+      },
+      {
+        "pdfPage": 4,
+        "path": "pages/page-003.png",
+        "sha256": "99dccff53f90fbfa0731ae496e3a7494f0a9f13c9bb329f59f3b7ed27ac81288"
+      },
+      {
+        "pdfPage": 5,
+        "path": "pages/page-004.png",
+        "sha256": "ee1df060d104ff9d791eb9e29d26632facd05fa13d975eb12c0802f92c9c1f90"
+      },
+      {
+        "pdfPage": 6,
+        "path": "pages/page-005.png",
+        "sha256": "3d6d55c8b904f48dba52a0d452ef22c8f116d30862166745a08902cc868b99b9"
+      },
+      {
+        "pdfPage": 7,
+        "path": "pages/page-006.png",
+        "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d"
+      },
+      {
+        "pdfPage": 8,
+        "path": "pages/page-007.png",
+        "sha256": "c09f3a6b0ec4771dc5e1ab4ed30f03c31fca6f62f0ff27eb0c2ea811d489c6bb"
+      },
+      {
+        "pdfPage": 9,
+        "path": "pages/page-008.png",
+        "sha256": "11a2b3ea3bf3ef9ff75c9726192d01f649487d7edc877b847fc94d7ab2ce7efe"
+      },
+      {
+        "pdfPage": 10,
+        "path": "pages/page-009.png",
+        "sha256": "f6902ba4cec437d79afabf0ec06bef9577f8db0f15a26ab0df0a433ace4d5a7c"
+      },
+      {
+        "pdfPage": 11,
+        "path": "pages/page-010.png",
+        "sha256": "80df2fb5b2e5684ff78e705b83a9c9512e7621b1d7871f6c43e0a577000dfe60"
+      },
+      {
+        "pdfPage": 12,
+        "path": "pages/page-011.png",
+        "sha256": "18e5454c85541661a6f4bac1c034d046f5eddda7ef5964833d4906a3e2a95db0"
+      },
+      {
+        "pdfPage": 13,
+        "path": "pages/page-012.png",
+        "sha256": "7465051dd868d86b92aef7cc27c7f1f856a598a2c659ac51cb2de6bb7fdcb792"
+      },
+      {
+        "pdfPage": 14,
+        "path": "pages/page-013.png",
+        "sha256": "030ac4004d60f21e51676e83f090798fb4c695da08c6696587d0242b07677821"
+      },
+      {
+        "pdfPage": 15,
+        "path": "pages/page-014.png",
+        "sha256": "64b1b68402cc499074892ac6e29e8cbc7d6d653158728c9387bb5a3783192373"
+      },
+      {
+        "pdfPage": 16,
+        "path": "pages/page-015.png",
+        "sha256": "ae530768e3fdce762f54a8fcba169ac8254ca0fff42644e33ba0c07267d003fa"
+      },
+      {
+        "pdfPage": 17,
+        "path": "pages/page-016.png",
+        "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706"
+      },
+      {
+        "pdfPage": 18,
+        "path": "pages/page-017.png",
+        "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5"
+      },
+      {
+        "pdfPage": 19,
+        "path": "pages/page-018.png",
+        "sha256": "1cb66e8351ac15be89c7fe55f127e0bd6258aa623f944d2927d1a756908add96"
+      },
+      {
+        "pdfPage": 20,
+        "path": "pages/page-019.png",
+        "sha256": "70cdfc4ced94683eb5764468b85c4ea0fa4d0c3e4c9108a707772054a1e6c15a"
+      },
+      {
+        "pdfPage": 21,
+        "path": "pages/page-020.png",
+        "sha256": "73b1b1774dd47bfe868d2100f70c196972098fce9328e9968806f51cb237d42c"
+      },
+      {
+        "pdfPage": 22,
+        "path": "pages/page-021.png",
+        "sha256": "8a42e4caaa4dfd05a3a78451818e405f188213b6c6185ed2965ff57116ad3a06"
+      },
+      {
+        "pdfPage": 23,
+        "path": "pages/page-022.png",
+        "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47"
+      },
+      {
+        "pdfPage": 24,
+        "path": "pages/page-023.png",
+        "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27"
+      },
+      {
+        "pdfPage": 25,
+        "path": "pages/page-024.png",
+        "sha256": "0ffdff06637ef29c5f3f83e8d79ab1458fb45be201d0b792fe6608a30a6a3b72"
+      }
+    ],
+    "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+    "sourceProseSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+    "reviewFileSha256": "4123a03a4e5742c03077df9df5e3c1af0eac09b72c4b41bc8ef58b9898815d18",
+    "evidence": "review.md:883",
+    "fullSizeAllPages": true,
+    "readingWidth": 390,
+    "readingSizeAllPages": true,
+    "blockingFindings": [],
+    "limitations": [
+      "Image-only PDF; exact transcripts in plan.md, no selectable text or screen-reader semantics claimed.",
+      "Interactive native PDF-viewer next/back/zoom behavior NOT REVIEWED; 25 bookmark destinations and all page matrices independently verified."
+    ]
   }
 }
