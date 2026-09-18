@@ -1,12 +1,12 @@
 ---
-title: "The Mercy of Teeth"
+title: "A Bargain with Anubis"
 slug: "the-emerald-relic"
 created: 2026-09-17
 created-at: 2026-09-17T23:05:38-04:00
 canon: false
 ---
 
-# The Mercy of Teeth
+# A Bargain with Anubis
 
 Taremet had to tell the bearers twice to put her down outside the gates. They stood with the litter on their shoulders, looking at the open bronze doors as though she had mistaken which side of them was safe.
 
