@@ -1023,8 +1023,8 @@
       "number": 10,
       "id": "page-010",
       "path": "pages/page-010.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
       "plannedInputs": [
         "R01",
         "R02",
@@ -1038,10 +1038,39 @@
         "page-010-attempt-02"
       ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "inputImages": [
+          {
+            "id": "page-010-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png",
+            "sha256": "1452b843d0b6a50b6bd8184ddb6495571ec14b7655a830e8a4ed733ef0f20b54",
+            "role": "sole edit target; enlarge all six exact speech blocks/containers, preserve passing art/state/layout"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "735054b91928ee878e44f8be8ee7ffed17ac3a9e62818a2f9a9a2a3e029379fa",
+        "evidence": "Independent native/390/768 PASS; exact dialogue, narrow memory-rule scope, tails, separated hands and character states hold with no blockers."
+      },
+      "selectedAttempt": "page-010-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+        "reviewedAt": "2026-09-18T23:45:53.3801798Z",
+        "evidence": "Inspected actual native/390/768: all six exact speech blocks now large and legible after lettering correction; off-frame tail clear, Rowena's explanation limits memory loss to cut/active moments, ordinary empty hands separated with no severance; Rowena unlit sleeves and Evelyn ashamed/worn LEFT glove/RIGHT bare. N3 setting persists."
       }
     },
     {
@@ -3670,7 +3699,7 @@
         "pixelFormat": "RGB24",
         "opaque": true
       },
-      "status": "candidate-pending-independent-review",
+      "status": "selected",
       "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-51904ec4-222e-471e-b15c-f64a4f96fbd9.png",
       "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-010.png",
       "toolProvenance": {
@@ -3698,6 +3727,27 @@
           "Whole page reinspected after edit; no blocking producer finding."
         ],
         "inspectedAt": "2026-09-18T23:35:19Z"
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "inputImages": [
+          {
+            "id": "page-010-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2aa23524-2eab-41c7-88a3-2b74aa4d61af.png",
+            "sha256": "1452b843d0b6a50b6bd8184ddb6495571ec14b7655a830e8a4ed733ef0f20b54",
+            "role": "sole edit target; enlarge all six exact speech blocks/containers, preserve passing art/state/layout"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "735054b91928ee878e44f8be8ee7ffed17ac3a9e62818a2f9a9a2a3e029379fa",
+        "evidence": "Independent native/390/768 PASS; exact dialogue, narrow memory-rule scope, tails, separated hands and character states hold with no blockers."
       }
     },
     {

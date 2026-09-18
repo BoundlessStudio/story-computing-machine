@@ -284,3 +284,20 @@ SHA-256 bindings:
 - Temporary QA `page-009-390.png` `ef9d8502981372cb1cadcd0e16915a57d18b7efa8bb3e1fbcd6712498edbb8dc`; `page-009-768.png` `8658216b2aa7208abfbf87ee04657fbf72a1fc09daf43b5c61be349daa159773`, in the previously recorded temporary QA directory.
 
 This passes page 009 only for these bytes. Page 010 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
+
+## Page 010 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-010.png`, attempt 02, SHA-256 `63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405`, 1024 × 1536.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected the whole saved image at native, 768 px and approximately 390 px widths; reread approved Page 10 and source lines 181–191 with adjacent context. Compared preceding accepted page 009 and previously inspected actual R01/R02/R05/R09 at verified unchanged hashes. The existing complete script/coverage review remains applicable. Only this review file is written.
+- **Text and reading: PASS.** All six exact blocks retain scripted words and punctuation and remain readable at 390 px. Panel 1 belongs to Rowena; panel 2's tail exits toward off-frame Rowena on the right, not Adrian. Both panel 3 balloons direct toward Rowena and read left to right. The last two tails correctly assign Adrian's question and Evelyn's admission. Four quieter frames flow downward without obscured faces, hands, inset confusion or added text.
+- **Meaning and action: PASS.** The dialogue preserves local household belief and limits the memory loss to making the cut and the moments of that act; it expressly preserves childhood, knowledge and love. Nothing depicts a new severance, erased identity, recovered childhood interval or a physical connection being cut. Adrian's ordinary hands remain clearly separated from Rowena's open hand, with coherent fingers, arm ownership and visible air between them. Rowena's silver sleeve channels remain unlit cloth and metal. Evelyn's lowered ashamed gaze supports the admission; her scorched left glove stays worn and her right hand is bare.
+- **Continuity and rendering: PASS.** Accepted faces, ages, hair and clothing remain stable. N3 holds broken windows, physical ice, glass/slush, overturned furniture and dark candles; exterior fire remains beyond the wrecked Hall. No restored ward panes or literal ropes appear. Gazes retain the conversation's geography and the final turn toward Evelyn. Crisp black contours, graphic flat fills and shadows, white gutters and bold uppercase lettering remain consistent with accepted GN references. No blocking collateral change appears in the edited page.
+
+SHA-256 bindings:
+
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Preceding page 009 / P09 `79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965`.
+- R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`.
+- Temporary QA `exec-51904ec4-222e-471e-b15c-f64a4f96fbd9-390.png` `67c21442d4bb308850657dfd86a2620a6e8063a6db833dc1e678f163068f25c8`; corresponding `-768.png` `c5b9d97c0d9d38d1ad81e945a81a3e8e7aae07c026d06f8a6614828766b30c7a`, in the previously recorded temporary QA directory.
+
+This passes page 010 only for these bytes. Page 011 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
