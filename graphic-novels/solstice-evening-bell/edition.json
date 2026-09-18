@@ -1674,8 +1674,8 @@
       "id": "page-023",
       "number": 23,
       "path": "pages/page-023.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
       "dependsOn": [
         "R1",
         "R2",
@@ -1683,12 +1683,56 @@
         "R4",
         "page-022"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult identity and aftermath style; existing right shoulder/nose injuries"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Single bay geography: north left, south right, eastern ridge"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-scale nonliving gray capsules and interlocking vanes"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "role": "Immediate preceding inverse release and exhausted state, no intact crown"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "Only established high unlit elongated oblique black rupture geometry; ignore old states"
+        }
+      ],
+      "attempts": [
+        "P23-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-023",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_ending_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "1cc5d6cf8ffdd1e72b54ca2402e8cf0a97c14c1d868761949471f5dc28d2482d",
+        "temporaryPreviewSha256": "d8636862cfede4814a4102760b7836059c01d8b6d940cdeeae95791d8bcf3244",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-023.pdf",
+        "partialPdfSha256": "9e7623c58b2eadc386826da9921bcd760cea16c785362fabd154eff46c4dc810",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-24.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-24.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent PASS: four exact captions, right-to-left south/north lattice collapse, returning signal, closed seam and exhausted survivor; full and390 actual PDF renders checked."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-024",
@@ -4924,6 +4968,77 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P23-001",
+      "assetId": "page-023",
+      "state": "accepted",
+      "prompt": "Create ONE complete portrait comic page P23, 1024x1536, \"Zero\" (do NOT print a title/page number). Four distinct stacked panels with bold black frames and white gutters: sweeping upper darkening lattice (about 340px), upward signal view (about 320px), wide closed-seam view (about 290px), quiet close breathing portrait (remaining height). Crisp black manga/comic contours, clean flat saturated colors, sharp shadow shapes, white/silver costume, storm navy transitioning from the preceding white inverse flash back to ordinary night. Same actual drawing style as attached R1 and preceding P22. Strong yellow caption boxes, black condensed uppercase lettering, exact text, comfortable 390px-wide reading. No speech balloons, no sound effects.\n\nINPUT ROLES: R1 establishes Solstice's exact adult identity, silver layered armor/long white hair/blue eyes and AFTERMATH state. R2 establishes the single bay and its two breakwaters with eastern ridge beyond; offshore looking east means NORTH LEFT, SOUTH RIGHT. R4 establishes the human-scale pointed gray mechanical capsule frames and interlocking vanes, no eyes/faces/pilots. P22 is immediate preceding state and concrete rendering: all twelve chimes spent, central focus just crushed, connected inverse burning through lattice. P06 supplies ONLY the high, stationary, elongated oblique UNLIT BLACK JAGGED RUPTURE shape seen at the top of its bottom panel; ignore all old bells, aircraft formations, heroine state and lettering in P06.\n\nPANEL 1, a single sweeping view from just offshore looking east over the same bay mouth: show the existing physical mesh of connected human-size frames collapsing from the SOUTH/RIGHT foreground toward NORTH/LEFT. On right, dark inert shells with locked folded vanes are already tumbling downward into foaming water; toward left, a few remaining connected shells catch the last white inverse before darkening. This is one continuous collapse at one instant, not multiple time-exposure rows or a second army. Show sinking weight, broken physical joints, splash, not outward explosions or weapons firing. No live orbiting bells anywhere. Exact upper-left yellow caption: \"SOUTH TO NORTH, THE FRAMES WENT DARK.\"\n\nPANEL 2, a separate upward-looking low-angle view, no Solstice needed. Track the existing low-latency signal axis upward from the failing mechanical core/lattice fragments below to the established oblique black seam high overhead. The inverse runs BACK along this narrow signal, not a new laser fired by the heroine. The black fracture races inward from BOTH ends of this SAME narrow unlit rupture as its edges pinch shut; tips have closed/reclaimed normal starry sky, the middle is closing now. Clear two-ended closure in one image. One seam only; never a glowing circular portal, vortex, architectural tower or newly arriving host. Exact yellow caption: \"THE INVERSE RAN BACK THROUGH THEIR SIGNAL.\"\n\nPANEL 3, wide ordinary dark starry sky and thinning cloud wisps where the seam WAS: the seam is completely CLOSED, so no slit, portal, fracture, lingering glow or second opening remains. A few inert mechanical wreckage silhouettes fall along the low edge toward the bay. This confirms outcome after panel2. Exact yellow caption: \"4,096 BECAME ZERO.\"\n\nPANEL 4, close exhausted living Solstice against rough SOUTHERN breakwater concrete, one adult body, raw open-mouthed breath, tired open blue eyes and soaked heavy white hair. Foreground right shoulder keeps its existing blood-scored silver pauldron; nosebleed trace remains. No new cheek cuts or left-shoulder blood. Do not show a healed upright heroic stance. All crown equipment is permanently spent; no bells, royal-hearing graphics, crown aura, new blast or donor apparitions. Her immense innate force is conveyed through surviving presence, not added visible machinery. Anatomically coherent attached neck/shoulders and naturally resting hand if included; crop below chest rather than invent limb poses. Exact yellow caption, give enough area for every word and punctuation: \"SURF. FALLING METAL. HER BREATH. BENEATH IT, HER RAW POWER REMAINED: IMMENSE, UNHARMONIZED, HERS.\"\n\nNo headings, labels, arrows, invented words, extra panels, resurrection, reinforcement, second wave or dawn yet. Respect the temporal sequence: physical collapse; inverse signal closes seam from both ends; ordinary sky confirms zero; then battered survivor breathing. Preserve source's permanent crown loss and independent living power. Entire page, all frames/lettering visible with safe outer margin.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Adult identity and aftermath style; existing right shoulder/nose injuries"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Single bay geography: north left, south right, eastern ridge"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Human-scale nonliving gray capsules and interlocking vanes"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-022.png",
+          "sha256": "f295b16ee9bb44dceb83cdcd9413f26e41cc77878c1ca0a2dfca08a16108da47",
+          "role": "Immediate preceding inverse release and exhausted state, no intact crown"
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-006.png",
+          "sha256": "8aec66585f4aa96fdeb53b7646fcf7418dab1a074a083a10a8796b937f96812d",
+          "role": "Only established high unlit elongated oblique black rupture geometry; ignore old states"
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Source/plan ending checked: south-to-north collapse, inverse up existing signal, both seam ends close, ordinary sky confirms zero, living innate force remains. Five inspected inputs selected for identity/bay/frame/prior-state/black-seam roles. Four panels and four exact captions fit without invented apparatus."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-18 01:52:04 UTC",
+      "completedAt": "2026-09-18 01:54:08 UTC",
+      "outputPath": "pages/page-023.png",
+      "outputSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-98abe0da-82d0-4821-bb8d-3dea56f2d203.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-98abe0da-82d0-4821-bb8d-3dea56f2d203.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved page plus actual PDF full/390 inspected. Four sequential panels show south/right to north/left physical collapse, narrow returning signal to single oblique black seam, ordinary stars and falling wreckage, then exhausted living Solstice. Four exact yellow captions clear, zero bells, no new army/injuries or restored crown.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P23-001-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-023.pdf",
+          "sha256": "9e7623c58b2eadc386826da9921bcd760cea16c785362fabd154eff46c4dc810",
+          "pdfPage": 24,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-24.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-24.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -5366,6 +5481,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent saved full-page and actual PDF full/390 PASS: intact speech, separate crack, connected inverse; exact text, state, anatomy and P21 continuity."
+    },
+    {
+      "scope": "page-023",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_ending_review",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "bf328910d71613da88c037e695743d5e99dcfcc75a8d50cae71b98204b3c6f27",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "1cc5d6cf8ffdd1e72b54ca2402e8cf0a97c14c1d868761949471f5dc28d2482d",
+      "temporaryPreviewSha256": "d8636862cfede4814a4102760b7836059c01d8b6d940cdeeae95791d8bcf3244",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-023.pdf",
+      "partialPdfSha256": "9e7623c58b2eadc386826da9921bcd760cea16c785362fabd154eff46c4dc810",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-24.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-24.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent PASS: four exact captions, right-to-left south/north lattice collapse, returning signal, closed seam and exhausted survivor; full and390 actual PDF renders checked."
     }
   ],
   "approvals": {
