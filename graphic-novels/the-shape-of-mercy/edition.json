@@ -526,8 +526,8 @@
       "number": 3,
       "id": "page-003",
       "path": "pages/page-003.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
       "plannedInputs": [
         "R01",
         "R04",
@@ -536,12 +536,57 @@
         "R07"
       ],
       "framing": "Same axis; no additional visible family",
-      "attempts": [],
+      "attempts": [
+        "page-003-attempt-01",
+        "page-003-attempt-02",
+        "page-003-attempt-03"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce",
+        "inputImages": [
+          {
+            "id": "page-003-attempt-02",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png",
+            "sha256": "903624e05730b4f3c79fc555f3a495cc1aef5cd6f5e7394d2f9ca561d297d8d6",
+            "role": "edit target; only top Garran wrists and middle-right Phoebe hand gap may change"
+          },
+          {
+            "id": "R06",
+            "path": "references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran current lean/wet identity with dull anatomical right-wrist bracelet"
+          },
+          {
+            "id": "R04",
+            "path": "references/phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "Phoebe age16 only; tunic/ponytail/identity"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "a01479fceaa3ec5cd4df563529a26b7cdd6fca594c4f9c3c7fab55cd9119a49b",
+        "evidence": "Independent full/native,390px,768px and adjacent-page review PASS. Exact text, tails, reading order, ward progression, simultaneous scar inset, identities, anatomy, wrist continuity, noncontact hand, state and phone readability all passed."
+      },
+      "selectedAttempt": "page-003-attempt-03",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "reviewedAt": "2026-09-18T21:03:54.6733837Z",
+        "evidence": "Native and 390px pixels inspected. All six exact text units, punctuation and tails retained; four main panels with simultaneous scar inset read clearly. Enlarged lettering, restored Adrian-left/Garran-right lower scene, correct sole right-wrist bracelet and clear palm-to-ward air gap. First blue wards and first-pane impact, no candle flames/fire/ice or physical command ropes. Identities and clothing stable."
       }
     },
     {
@@ -1761,6 +1806,275 @@
         "evidence": "After native/390/768 whole-page recheck, remaining middle-chair correction isolated to exact panel/location; foreground table edge may shift to reveal floor. Preserve solved antlers/caption and all exact text/identities/N1a state."
       },
       "disposition": "Prompt prepared, but coordinator directed no further correction before independent review. No image-tool call occurred and no output exists for this entry."
+    },
+    {
+      "id": "page-003-attempt-01",
+      "assetId": "page-003",
+      "kind": "comic-page",
+      "preflightAt": "2026-09-18T20:43:55Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE finished lettered comic page, 1024 x1536 portrait, immediately following the accepted intrusion into Bellweather Hall. FOUR clearly ordered main panels: broad shallow top panel; unequal paired reaction panels in the middle read LEFT then RIGHT; broad bottom impact panel. Inside the middle-LEFT panel only, include one small simultaneous unlettered scar-detail inset. This inset is contained within its parent frame and is NOT a fifth narrative moment. Crisp bold black contours, heavier silhouettes, saturated flat fills, hard-edged shadows, opaque image, black panel borders and clean white gutters. No photographic blur, bloom, fog, soft airbrush, painterly washes, hatching, gradients or3D.\n\nACTUAL INPUTS:\nImage1 ADRIAN identity: age19, warm medium-brown skin, short uneven dark hair, CURRENT CHARCOAL FORMAL COAT. Exclude morning shirt-only state.\nImage2 PHOEBE identity: AGE16 ONLY, loose dark ponytail, green long-sleeved formal tunic, dark trousers. Exclude age6/morning states and reference headings.\nImage3 ROWENA identity: mature mother, graying swept-back dark hair, black high-collared gown and silver stitched channels on sleeves. This scene newly activates her wards; those channels may now flare thin blue-white light, while the reference supplies anatomy/costume.\nImage4 GARRAN identity: CURRENT lean rainworn mature man, graying dark short hair, wet dark formal coat. Dull metal focus bracelet on anatomical RIGHT wrist only. Exclude younger/broader flashback state; bracelet itself does not glow.\nImage5 STORMHART identity: same immense four-legged antlered living creature, smooth translucent storm-blue hide, internal silver currents, old curved scar AROUND throat below jaw, little dark old blood, large winter-tree branching antlers with native lightning. Scar is embedded in skin, NOT an external collar/rope.\nUse all sheets as actual crisp graphic rendering anchors. Do not copy their headings or layout.\n\nSPATIAL/STATE CONTINUITY:\nDim cold stormlight in tan-stone Bellweather Hall. Shattered dark wooden orchard double doors and wet green flowering orchard are on the threat/RIGHT side. Candleholders, formal dining furniture and white cloths remain ordinary; ALL CANDLES ARE OUT. Family stands toward the hall/LEFT; stormhart strains at the broken threshold with Garran beside/behind it. At the top panel Rowena raises BLUE MAGICAL WARD PANES for the FIRST time: overlapping flat translucent blue rectangles span the broken doorway, rooted visually in her silver-sleeved extended forearm. These are magical shields, not ice, and do not relocate the characters. Before the bottom panel they are intact. No fire/ice magic, frost, physical command ropes, magical strings/braids, perceptual bonds, invisible-control-hand illustration, weapons, new injury to people, extra named cast or free-floating magical writing. Only Rowena's new blue wards/channel light and the stormhart's intrinsic currents/lightning are allowed effects. Garran's dull bracelet FOCUSES an existing command and has NO beam or line joining it to the creature.\n\nREADING/LAYOUT AND LETTERING:\nReserve the middle RIGHT panel more width for its longer dialogue and caption: approximately left36%/right64%, separated by a clear white vertical gutter, slight irregular/slanted border acceptable without uncertain reading order. Suggested vertical allocation: top about310px; paired middle about690px; bottom about480px, with remaining margins/gutters. Allow text boxes to take substantial space so no text is reduced.\nALL exact words below in bold uppercase black comic lettering. Actual uppercase cap height34–36px minimum at1024px, roughly44–48px font height, readable around13px at390px phone width. White balloons for speech, one yellow narration box. Generous padding and short lines. Do not cover faces, hands, bracelet or scar with lettering. NO added title, page number, panel labels, SFX, sheet headings or other words. Do not print the panel instructions.\n\nPANEL1 TOP, broad ward-plane composition: Rowena at hall/left extends one silver-sleeved forearm and open hand toward the shattered doors/right. Her sleeve's channels flare as overlapping blue ward panes rise across the opening between family and beast. Show her controlled stern face, clear arm attachment and five natural fingers. Stormhart beyond barrier strains at threshold; its head/shoulder visible enough to establish placement, Garran can be a subordinate current-state figure at right. One large WHITE speech balloon with unmistakable tail to ROWENA says EXACTLY:\nYOU WILL LEAVE.\n\nPANEL2 MIDDLE-LEFT, bracelet/neck action-reaction: tight Garran CURRENT face and upper body with his anatomical RIGHT forearm raised so the dull metal wrist bracelet is clearly visible. His hand and wrist are natural, no mirror bracelet. He manipulates/raises the focus but sends no visible ray/rope. A small black-bordered inset fully INSIDE lower part of THIS panel shows the SAME creature's old curved throat scar tightening/puckering in living smooth blue skin with a little dark blood; no severance, stitches, collar or gripping hand. The inset shows simultaneous consequence, no arrow and no text.\nThe ONLY balloon in this panel is PHOEBE SPEAKING FROM OFF-FRAME LEFT, not Garran. Put it high at left, with the open-ended speech tail clearly EXITING the LEFT PANEL EDGE toward her off-frame position, nowhere near Garran's mouth/body or inset. Garran's mouth is closed. EXACT balloon text:\nTHERE ARE TWO WANTS IN IT.\n\nPANEL3 MIDDLE-RIGHT, empathic reaction: teenage Phoebe at left of this panel, urgent fear/confusion in face, extends one OPEN PALM toward beast's living head beyond/right. Maintain a plainly visible AIR GAP: she does not touch the beast, its scar, antlers or ward. Head is the same stormhart, natural eye/neck attachment, no duplicate beast. Existing blue wards can be visible behind/between at threshold; they are still intact at this moment. One generous WHITE balloon with tail unambiguously to PHOEBE's mouth reads EXACTLY:\nTHE STORM AND FEAR ARE ITS OWN. THE ORDER IS SOMETHING HE ALREADY MADE: FORWARD. KILL.\nBelow that balloon in reading sequence, a separate YELLOW black-bordered Adrian narration box reads EXACTLY:\nTHE BRACELET FOCUSED AN OLD COMMAND. THE LIVING BEAST FED IT.\nText may occupy the upper part and/or bottom strip of this wider panel, with Phoebe's expressive face, separated hand and beast head clearly visible in the remaining picture area. Make the narration distinctly rectangular/yellow and speech rounded/white; do not attribute narration to Phoebe.\n\nPANEL4 BOTTOM, wide impact: FIRST ward pane bursts into angular BLUE MAGICAL fragments under stormhart's forward impact; deeper overlapping panes remain. Rowena visibly staggers backward toward hall/left with her silver-sleeved arm still connected naturally to her body; she is alive and uninjured. The creature's head/shoulder presses into the barrier at right. Garran looks past the breaking pane toward Adrian. Adrian, charcoal formal coat and young uneven-haired identity, appears toward foreground RIGHT in a near profile with clear puzzled/ignorant face; he is still inside the hall, closest to the camera. Garran remains across the scene closer to threshold/right; his gaze and speech address Adrian. Compose with distinct silhouettes and keep the ward collision apart from their faces.\nReading left-to-right before downward: place Garran's WHITE balloon first at upper-left/center of bottom panel, its clear tail traveling to GARRAN's mouth without crossing another balloon or pointing to Rowena. It reads EXACTLY:\nI CANNOT MAKE ANOTHER BOND. ADRIAN SAW TO THAT. HE CAN STOP THIS ONE.\nThen Adrian's WHITE response balloon at upper-right, its short clear tail pointing to ADRIAN's nearby foreground-right mouth without crossing the Garran tail; keep both connections unambiguous. It reads EXACTLY:\nI DON'T KNOW WHAT YOU'RE TALKING ABOUT.\nDo not show any new power, memory or knowledge in Adrian. His ignorance is sincere. No additional speech.\n\nThere must be exactly SIX text units: Rowena balloon; off-frame-left Phoebe balloon; visible Phoebe balloon; yellow narrator box; Garran balloon; Adrian balloon, in that order. Exact punctuation including the colon after MADE and apostrophes in DON'T/YOU'RE. Four main panels with the one small simultaneous scar inset. Maintain phone-readable lettering and complete coherent anatomy throughout.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current formal coat identity and GN style"
+        },
+        {
+          "id": "R04",
+          "path": "references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 only; tunic/ponytail/identity"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity/gown/silver sleeve channels; N1b first activation permits thin channel light and projected wards"
+        },
+        {
+          "id": "R06",
+          "path": "references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran current lean/wet identity with dull anatomical right-wrist bracelet"
+        },
+        {
+          "id": "R07",
+          "path": "references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "Corrected stormhart identity, translucent hide, old curved throat scar, antlers and anatomy"
+        }
+      ],
+      "preflight": {
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceMoment": "Page03/source57–87; first raised wards, focus/scar reaction, Phoebe's two wants, first pane burst and sincere Adrian ignorance.",
+        "adjacentContinuityInspected": {
+          "path": "pages/page-002.png",
+          "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce",
+          "attached": false
+        },
+        "evidence": "Verified actual accepted five reference hashes, current age/costume states and Page002 image. Wider03.3/tall paired reaction row reserves readable text; Phoebe's off-frame03.2 tail explicitly exits left, Garran mouth closed; no physical bond. Lower response placement prioritizes unambiguous tails."
+      },
+      "completedAt": "2026-09-18T20:48:44Z",
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-eae7f228-a665-4a87-9d15-f9b2058d289d.png",
+      "outputSha256": "5b198c2a43fe1fb3960a5f04d931fc79d236a047ef673a7c597d79507833510d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-eae7f228-a665-4a87-9d15-f9b2058d289d.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-eae7f228-a665-4a87-9d15-f9b2058d289d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:48:44Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Most text has estimated24–29px cap height and is too small at390px; requested34–36px minimum unmet.",
+          "Bottom foreground-right Adrian reverses established hall/left versus threat/right geography.",
+          "Top-panel Garran appears to have focus bracelet on anatomical left wrist;03.2 has correct right wrist.",
+          "Small candle flame at far-left of bottom panel violates extinguished state."
+        ],
+        "passing": "All six exact text blocks and punctuation, off-frame-left Phoebe balloon, focus/scar simultaneous inset, open palm gap, four main panels, first ward raise/impact and identities.",
+        "disposition": "Needs targeted correction before selection; external candidate retained."
+      }
+    },
+    {
+      "id": "page-003-attempt-02",
+      "assetId": "page-003",
+      "kind": "comic-page-edit",
+      "preflightAt": "2026-09-18T20:50:29Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the supplied COMPLETE COMIC PAGE, Image1, to fix lettering/readability, final-panel geography and two small continuity errors. Keep EXACTLY four main panels in the same reading pattern: broad top; unequal paired middle panels read LEFT then RIGHT; broad bottom. Keep the small simultaneous scar-detail inset INSIDE middle-LEFT panel. The canvas remains opaque1024x1536. Preserve all SIX exact text units and every word/punctuation below. This is a focused correction of the existing scene, not a new event.\n\nActual reference roles:\nImage1 is the page edit target, source for passing scene/action, stormhart identity, smooth translucent storm-blue hide, internal silver currents, old curved skin scar AROUND throat, antlers and native lightning. Preserve those creature details unchanged.\nImage2 Adrian: young19 identity, warm medium-brown skin, uneven dark hair and charcoal FORMAL COAT, not shirt-only morning state.\nImage3 Phoebe: AGE16 identity only, loose ponytail and green long-sleeved tunic; exclude age6 and morning.\nImage4 Rowena: mature mother identity, graying swept-back hair, high-collared black gown/silver sleeve channels. Channels are actively glowing blue-white now because her wards are raised.\nImage5 Garran: CURRENT lean mature rainworn identity, wet dark formal coat, dull focus bracelet on anatomical RIGHT wrist; no younger flashback state.\nNever import reference headings/labels or another cast member.\n\n1. ENLARGE ALL LETTERING AND REALLOCATE PANEL SPACE.\nThe current text is too small. Increase actual uppercase glyph cap height to34–36px MINIMUM at1024px page width (approximately45–48px overall font height), visibly about40% larger than current dense text. It must stay comfortable at390px phone width. Do not solve by keeping the same small letters. ENLARGE boxes/balloons and reflow lines. Suggested row heights: top about250px, paired middle about780px, bottom about450px; remaining pixels for white margins/gutters. Middle-right panel remains about64–66% width to accommodate its long speech and yellow narration. Allow those text containers substantial space, simplifying nonessential background. Keep clear faces, hands, inset scar and bracelet in picture space. Caption yellow with black border; speech white with black border; bold black uppercase lettering throughout. No translucent lettering boxes.\nMaintain these exact SIX text units in this sequence:\nTop Rowena speech: YOU WILL LEAVE.\nMiddle-left off-frame PHOEBE speech: THERE ARE TWO WANTS IN IT.\nMiddle-right visible PHOEBE speech: THE STORM AND FEAR ARE ITS OWN. THE ORDER IS SOMETHING HE ALREADY MADE: FORWARD. KILL.\nMiddle-right yellow ADRIAN NARRATION below that speech: THE BRACELET FOCUSED AN OLD COMMAND. THE LIVING BEAST FED IT.\nBottom GARRAN speech first/high: I CANNOT MAKE ANOTHER BOND. ADRIAN SAW TO THAT. HE CAN STOP THIS ONE.\nBottom ADRIAN speech second/lower-left: I DON'T KNOW WHAT YOU'RE TALKING ABOUT.\nDo not omit, shorten, duplicate or add words; keep the colon after MADE, full stops and apostrophes. No title/page numbers/SFX/labels.\n\n2. BOTTOM PANEL GEOGRAPHY AND BALLOON ORDER.\nRecompose ONLY this bottom action to restore established sides. ADRIAN is hall/LEFT foreground, facing RIGHT toward his father with sincere confused expression. ROWENA is midground LEFT, visibly staggering back from the ward impact, sleeve channels active, uninjured. GARRAN is threshold/RIGHT, facing LEFT toward Adrian. The living STORMHART and bursting BLUE WARD PANE occupy the threat/RIGHT portion behind/beside Garran, with deeper overlapping blue panes still standing. Do not place Adrian at the orchard side or reverse their axis.\nPlace Garran's larger first balloon HIGH in the panel with a clear short tail to his RIGHT-side mouth. Place Adrian's reply LOWER-LEFT with a clear short tail to his LEFT foreground mouth. This higher-then-lower arrangement makes reading order unmistakable WITHOUT crossing either tail. Keep both faces and Rowena's reaction visible; simplified waist-up compositions are acceptable if the burst and staggering remain clear. The beast causes the first pane to burst; Garran is addressing Adrian's genuine ignorance, no one is touching another person.\n\n3. GARRAN RIGHT WRIST IN TOP PANEL.\nIn the top panel, move the dull metal bracelet off his anatomical LEFT wrist. It belongs ONLY on his anatomical RIGHT wrist, on the viewer's LEFT when he is frontal. His other wrist is plain. Preserve the correct raised RIGHT wrist bracelet in middle-left panel and correct wrist in bottom panel. No extra bracelet, no glowing metal, no physical beam/cord from it to the beast.\n\n4. CANDLES OUT AND CLEAR NONCONTACT PALM.\nRemove the stray tiny yellow candle flame at far-left of the bottom panel and any other flame anywhere. All candle wicks are completely dark. There is no fire or ice magic.\nIn middle-right panel preserve Phoebe's anxious face and open palm but show a clear visible AIR GAP between her fingertips/palm and BOTH the beast and the nearest blue ward plane. The palm must not overlap or press against a pane. Place the blue pane farther RIGHT at the threshold and Phoebe's hand to its LEFT against plain dark hall background, with at least30px clear gap; beast beyond pane. Five natural digits, no touching the animal/scar/ward.\n\nPRESERVE PASSING STORY/RENDERING:\nTop Rowena first extends silver-sleeved arm to raise overlapping blue ward panes across broken orchard doors. Cold stormlit tan stone, shattered wood, dim wet green flowering orchard outside. Middle-left Garran raises existing-command focus; mouth closed. Phoebe's off-frame balloon MUST retain its open-ended tail clearly exiting the LEFT PANEL EDGE, never pointing to Garran or the scar inset. The inset remains unlettered, simultaneous, showing old curved throat skin scar tightening, no literal control hand, collar or rope. Middle-right Phoebe describes two wants without making contact. Bottom first ward bursts into blue magical angular fragments, Rowena staggers; other wards remain.\nKeep identities and clothing from target/references, smooth living stormhart translucency and circled throat scar, sharp outlined background/props, bold black contours, flat saturated fills and hard shadow planes. Avoid blur/bloom/haze/airbrush/washes/3D. No literal magical bond line, braid, flame, ice, frost, new injury or other new effect. Do not modify exact story beats. After fixes the entire page must remain coherent and phone-readable.",
+      "inputImages": [
+        {
+          "id": "page-003-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-eae7f228-a665-4a87-9d15-f9b2058d289d.png",
+          "sha256": "5b198c2a43fe1fb3960a5f04d931fc79d236a047ef673a7c597d79507833510d",
+          "role": "edit target; preserve stormhart, successful panel beats/words and off-left Phoebe tail; correct typography/geography/wrist/flame/noncontact gap"
+        },
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current formal coat identity and GN style"
+        },
+        {
+          "id": "R04",
+          "path": "references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 only; tunic/ponytail/identity"
+        },
+        {
+          "id": "R05",
+          "path": "references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity/gown/silver sleeve channels; N1b first activation permits thin channel light and projected wards"
+        },
+        {
+          "id": "R06",
+          "path": "references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran current lean/wet identity with dull anatomical right-wrist bracelet"
+        }
+      ],
+      "preflight": {
+        "evidence": "Target inspected entire page native/390/768; root confirms four findings. Five inputs target+R01/R04/R05/R06. Actual source/six-text transcript preserved; denser text receives taller middle row; bottom returns hall-left/threshold-right with vertically ordered balloons; palm must stay clear of beast and ward."
+      },
+      "completedAt": "2026-09-18T20:54:50Z",
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png",
+      "outputSha256": "903624e05730b4f3c79fc555f3a495cc1aef5cd6f5e7394d2f9ca561d297d8d6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:54:50Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview",
+          "QA magnifications of top Garran wrists and middle-right palm"
+        ],
+        "findings": [
+          "Middle-right palm still overlaps blue ward plane; required air gap is absent.",
+          "Top Garran retains outlined silver/white band at anatomical left wrist; anatomical right bracelet not clearly visible."
+        ],
+        "passing": "Larger exact six text blocks, correct off-left Phoebe tail, bottom hall-left Adrian/threshold-right Garran geography and ordered balloon tails, no candle flames, scar inset, identities and ward-impact action retained.",
+        "disposition": "Two local corrections remain; external candidate retained."
+      }
+    },
+    {
+      "id": "page-003-attempt-03",
+      "assetId": "page-003",
+      "kind": "comic-page-edit",
+      "preflightAt": "2026-09-18T20:55:54Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Apply ONLY TWO small localized corrections to Image1, the complete1024x1536 comic page. Preserve all panels, enlarged lettering, reading order, character identities, bottom-panel hall-left/threshold-right geography and every other part of the picture. Do not redraw or change the entire page. Image2 is current Garran's identity/right-wrist bracelet reference. Image3 is Phoebe AGE16 identity and green tunic only. Exclude younger Garran, age6 Phoebe and all sheet labels.\n\nREGION A — TOP PANEL GARRAN'S TWO WRISTS:\nGarran is the wet-coated mature man at the far RIGHT of the TOP panel. He currently has an outlined pale/silver band at his anatomical LEFT wrist, on the VIEWER'S RIGHT near x970,y347. Remove that band COMPLETELY; remove any bright cuff strip there as well, leaving plain bare wrist skin directly below the dark coat sleeve. No metal or outlined pale band on that wrist.\nPlace ONE dull gray metal bracelet on his ANATOMICAL RIGHT wrist, which is on the VIEWER'S LEFT near x855,y345, immediately above that hand. Show this one bracelet clearly against wrist skin. It must be visibly on the opposite wrist from the erased band, not duplicated. Use the right-wrist placement from Image2. Do not alter his hands, face or posture. Leave the already correct raised right-wrist bracelet in the middle-left panel and the correct right wrist in the bottom panel unchanged. Bracelet has no glow, ray, rope or magical power of its own.\n\nREGION B — MIDDLE-RIGHT PANEL PHOEBE'S OPEN HAND:\nThe green-tunic teenage girl must NOT TOUCH OR OVERLAP THE BLUE WARD. Her hand currently lies on the blue pane, which is incorrect. Pull her ENTIRE hand and distal forearm BACK TOWARD HER BODY/LEFT by roughly80–100px, bending her elbow naturally. The final hand must sit fully over the DARK GRAY STONE-HALL BACKGROUND, LEFT of the nearest bright blue pane, with a CLEAR30–45px STRIP OF EMPTY DARK BACKGROUND between every fingertip/thumb and the pane's left edge. Keep the ward pane at the threshold on the right; the beast stays beyond it. No blue area, blue edge or lightning may run behind/through her hand. Five natural separated digits, open palm directed toward the beast, no contact with beast OR ward. Her face, ponytail, anxious expression and torso stay recognizable and unchanged. No new gesture, no touching the scar.\n\nEverything else is preserved exactly, especially six already enlarged uppercase text units, their order, words and punctuation:\nYOU WILL LEAVE.\nTHERE ARE TWO WANTS IN IT.\nTHE STORM AND FEAR ARE ITS OWN. THE ORDER IS SOMETHING HE ALREADY MADE: FORWARD. KILL.\nTHE BRACELET FOCUSED AN OLD COMMAND. THE LIVING BEAST FED IT.\nI CANNOT MAKE ANOTHER BOND. ADRIAN SAW TO THAT. HE CAN STOP THIS ONE.\nI DON'T KNOW WHAT YOU'RE TALKING ABOUT.\nKeep the second balloon tail EXITING LEFT frame toward off-panel Phoebe, not Garran. The long middle-right speech tail points to Phoebe; yellow box is narration. Bottom first balloon points to Garran right and later lower-left reply to Adrian left. Keep scar inset unlettered.\n\nPreserve four main panels plus one contained inset, black borders/white gutters, crisp black contours, flat saturated colors and hard-edged shadows. Keep creature's smooth translucent blue living skin, internal silver currents and old curved throat scar; blue wards first rise then burst; Rowena staggers in lower midground left. ALL candles stay extinguished. No new flames, fire/ice, frost, haze, blur, glow on bracelet, bonds/cords, injury, extra text or other changes. Focus solely on the specified top-panel wrist band relocation and middle-right noncontact hand gap.",
+      "inputImages": [
+        {
+          "id": "page-003-attempt-02",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png",
+          "sha256": "903624e05730b4f3c79fc555f3a495cc1aef5cd6f5e7394d2f9ca561d297d8d6",
+          "role": "edit target; only top Garran wrists and middle-right Phoebe hand gap may change"
+        },
+        {
+          "id": "R06",
+          "path": "references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran current lean/wet identity with dull anatomical right-wrist bracelet"
+        },
+        {
+          "id": "R04",
+          "path": "references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 only; tunic/ponytail/identity"
+        }
+      ],
+      "preflight": {
+        "evidence": "Entire target inspected native/390/768, then magnified wrists and hand; prior broad correction did not relocate these details. Prompt now identifies exact regions, erases wrong wrist band and changes forearm geometry to create an explicit30–45px dark air gap. Preserve solved text/geography and all other pixels as far as tool allows."
+      },
+      "completedAt": "2026-09-18T20:58:29Z",
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f9bb3ad-1301-46e2-a154-6ff4e86702df.png",
+      "outputSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+      "candidatePath": "pages/page-003.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f9bb3ad-1301-46e2-a154-6ff4e86702df.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-7f9bb3ad-1301-46e2-a154-6ff4e86702df.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-18T20:58:29Z",
+        "sizes": [
+          "native1024x1536 entire page",
+          "390x585 preview",
+          "768x1152 preview"
+        ],
+        "findings": [
+          "Top Garran now has sole dull bracelet on anatomical right wrist, viewer-left; opposite wrist plain. Middle raised right wrist and lower right wrist retained.",
+          "Phoebe's open palm is pulled into dark hall space with clear visible gap to both ward and beast; five natural digits and sleeve attachment retained.",
+          "All six exact text blocks and punctuation preserved, enlarged lettering legible at390px, proper yellow narration/white speech and correct tails.",
+          "Four ordered main panels and contained simultaneous scar inset; off-frame Phoebe tail exits left with Garran mouth closed; first pane raise, focus/scar reaction, open-palm empathy and impact/stagger retained.",
+          "Bottom Adrian hall-left and Garran threshold-right geography, first high Garran balloon then lower-left Adrian response preserved.",
+          "No candle flames, fire/ice, physical bonds or invented wounds; stormhart skin/scar/native lightning and crisp outlined flat style retained."
+        ],
+        "disposition": "Suitable candidate for coordinator and independent review; no independent PASS or user approval claimed."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce",
+        "inputImages": [
+          {
+            "id": "page-003-attempt-02",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fef6c1f8-6dae-49e3-9f17-1983d75837d8.png",
+            "sha256": "903624e05730b4f3c79fc555f3a495cc1aef5cd6f5e7394d2f9ca561d297d8d6",
+            "role": "edit target; only top Garran wrists and middle-right Phoebe hand gap may change"
+          },
+          {
+            "id": "R06",
+            "path": "references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran current lean/wet identity with dull anatomical right-wrist bracelet"
+          },
+          {
+            "id": "R04",
+            "path": "references/phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "Phoebe age16 only; tunic/ponytail/identity"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "a01479fceaa3ec5cd4df563529a26b7cdd6fca594c4f9c3c7fab55cd9119a49b",
+        "evidence": "Independent full/native,390px,768px and adjacent-page review PASS. Exact text, tails, reading order, ward progression, simultaneous scar inset, identities, anatomy, wrist continuity, noncontact hand, state and phone readability all passed."
+      }
     }
   ],
   "approvals": {
