@@ -1182,10 +1182,11 @@ def render_index(catalog: Catalog, editions=()) -> str:
     )
 
 
-def render_story(story: Story, editions=()) -> str:
+def render_story(story: Story, editions=(), comics=()) -> str:
+    comic = _graphic_novel_module().by_source(comics).get(story.slug)
     edition = _editions_by_source(editions).get(story.slug)
     if edition is not None:
-        return _illustrated_module().render_document(edition, writing_prompt=story.prompt)
+        return _illustrated_module().render_document(edition, writing_prompt=story.prompt, comic=comic)
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
     title = html.escape(story.title)
     cover = html.escape(f"../{story.cover}", quote=True)
@@ -1193,6 +1194,7 @@ def render_story(story: Story, editions=()) -> str:
         f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
         f'<h1>{title}</h1>'
         f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
+        f'{_graphic_novel_module().download_link(comic)}'
         f'{_prompt(story.prompt)}'
         f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
         f'width="864" height="1536" decoding="async"></figure>'
@@ -1225,7 +1227,7 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
     root = repository_root.resolve()
     protected = [
         root / name
-        for name in (".git", ".agents", ".codex", "pages", "stories", "universe", "illustrated")
+        for name in (".git", ".agents", ".codex", "pages", "stories", "universe", "illustrated", "graphic-novels")
     ]
     if (
         resolved == root
@@ -1241,6 +1243,8 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
 
 def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = load_catalog(snapshot_path)
+    comic_snapshot = snapshot_path.with_name("graphic-novels.json")
+    comics = _graphic_novel_module().load_snapshot(comic_snapshot, catalog)
     destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
@@ -1250,12 +1254,13 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     editions = []
     if edition_snapshot.exists():
         editions = _illustrated_module().build_editions(destination, edition_snapshot)
+    _graphic_novel_module().build_editions(destination, comic_snapshot, comics)
     (destination / "index.html").write_text(render_index(catalog, editions), encoding="utf-8")
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover
         shutil.copy2(source_cover, destination / story.cover)
         (destination / "stories" / f"{story.slug}.html").write_text(
-            render_story(story, editions),
+            render_story(story, editions, comics),
             encoding="utf-8",
         )
     return catalog
@@ -1266,6 +1271,12 @@ def _illustrated_module():
     sys.path.insert(0, str(REPOSITORY_ROOT))
     from pages import illustrated_editions
     return illustrated_editions
+
+
+def _graphic_novel_module():
+    sys.path.insert(0, str(REPOSITORY_ROOT))
+    from pages import graphic_novels
+    return graphic_novels
 
 
 def main() -> None:
@@ -1280,6 +1291,8 @@ def main() -> None:
 
     illustrated_parser = commands.add_parser("capture-illustrated", help="Capture one approved illustrated edition.")
     illustrated_parser.add_argument("slug")
+    comic_parser = commands.add_parser("capture-graphic-novel", help="Capture one approved comic PDF.")
+    comic_parser.add_argument("slug")
     commands.add_parser("capture-all", help="Refresh every published story from its source package.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
@@ -1290,6 +1303,9 @@ def main() -> None:
     elif args.command == "capture-illustrated":
         _illustrated_module().capture_edition(REPOSITORY_ROOT, args.slug)
         print(f"Stored illustrated edition {args.slug}")
+    elif args.command == "capture-graphic-novel":
+        _graphic_novel_module().capture_edition(REPOSITORY_ROOT, args.slug)
+        print(f"Stored comic PDF {args.slug}")
     elif args.command == "capture":
         catalog = capture_story(args.slug)
         print(f"Stored {args.slug}; publication catalog now has {len(catalog.stories)} stories")
@@ -1304,6 +1320,9 @@ def main() -> None:
         if SNAPSHOT_PATH.with_name("illustrated.json").exists():
             for note in _illustrated_module().check_snapshot(REPOSITORY_ROOT):
                 print(note)
+        comics = _graphic_novel_module().load_snapshot(SNAPSHOT_PATH.with_name("graphic-novels.json"), catalog)
+        if comics:
+            print(f"PASS: {len(comics)} stored comic PDFs")
         print(
             f"PASS: {published_count} published stories and covers; "
             f"{source_count} source packages ({canon_count} canon, "

@@ -304,7 +304,7 @@ stories and prose-preserving illustrated editions. Read
 palette, lettering and visual continuity rules. The draft contract owns package
 files, source pinning, adaptation coverage, reference reuse, one-page-at-a-time
 generation, independent per-page review and a fresh complete-book review.
-The user approves the plan and independently reviewed final book; intermediate
+The user approves the plan and independently reviewed final PDF book; intermediate
 reference/page checks are assistant reviews unless more checkpoints are requested.
 
 Extend the branch sequence to this workflow with
@@ -318,15 +318,34 @@ Existing source covers and compatible same-story artwork may supply inspected,
 versioned references; never silently inherit stale art or a prior edition's
 visual departures. Generate one reference or one complete comic page per built-in
 image-tool call and inspect its actual pixels. Page N must pass independent
-review before page N+1 is generated. Review the full assembled sequence again.
-The draft has no comic CLI, automated lifecycle validator or Pages integration.
-Do not use story/illustrated capture commands, alter publication snapshots or
-replace existing readers for it. Optional PDF output needs an explicit request.
+review before page N+1 is generated. Assemble the selected cover and all ordered
+comic-page images into `edition.pdf`, one image per PDF page, with no omissions
+or duplicates and no cropping or stretching. References remain production assets
+unless the user expressly requests an appendix. Use the PDF skill, inspect every
+rendered PDF page at full and reading sizes, and obtain a fresh independent
+complete-book review. Bind final user approval to the actual PDF hash. An HTML
+preview is optional temporary production material outside the package, not the
+final deliverable. Keep exact panel transcripts in the existing plan.
+PDF is the required final GN output. The draft has no comic generation CLI or
+automated lifecycle validator. After final approval, named
+`python pages/build.py capture-graphic-novel <edition-slug>` stores the reviewed
+PDF in `pages/graphic-novels/` with its selection in `pages/graphic-novels.json`.
+Capture requires an unchanged source, matching source/catalog canon, current
+selected-image/PDF hashes, independent complete-book PASS and final approval
+bound to those exact bytes. It never captures the source story implicitly.
+One selected comic per source adds a `Download comic PDF` link to that story's
+existing standard or illustrated reader. Preserve the reader, prose, Writing
+Prompt, Library card, catalog metadata and any illustrated PDF download.
+Ordinary story/illustrated capture does not refresh comics. Pages builds copy
+only the stored comic PDF, without traversing production editions or generating
+art/PDFs. Published comic downloads stay frozen until an explicit named recapture.
 Merge any later edition branch through a pull request, never automatically.
 
 ## Pages
 
-`pages/catalog.json` and `pages/covers/` are the stored publication snapshot;
+`pages/catalog.json` and `pages/covers/` are the stored story publication snapshot;
+`pages/graphic-novels.json` and `pages/graphic-novels/` store approved comic PDFs
+linked from their existing story readers. No comic snapshot means no comic link.
 `pages/timeline.json` is a retained local chronology model, not canon authority
 or a required publication artifact.
 Pages builds publish the snapshot only, without traversing `stories/` or running

@@ -1,9 +1,9 @@
-# Graphic novels — draft v0.4
+# Graphic novels — draft v0.6
 
-This is a proposed agent workflow and house style for review with the user.
-No graphic novel has been generated, and no comic renderer, validation CLI or
-publication integration is implemented by this draft. The agent entry points
-and instructions are supplied; their image-production workflow is untested.
+This is a draft agent workflow and house style for adapting finished stories
+into PDF graphic novels. The agent entry points and production instructions are
+supplied. Pages can publish an approved comic PDF download on its existing story
+page; comic generation and the artistic review lifecycle remain agent work.
 
 ## Start from a finished story
 
@@ -38,14 +38,46 @@ named edition. A general discussion of the workflow is not that authorization.
 4. Generate page 1, inspect it at reading size, correct it, and obtain independent
    page review. Only a passing page permits work on the next page.
 5. Continue in order, with the same review loop for every complete page.
-6. Review the entire assembled book independently for story coverage, pacing,
-   continuity, visual consistency and readable lettering. Repair and recheck.
-7. Present the complete local web edition for the user's final approval.
+6. Use the PDF skill to assemble the selected cover followed by all comic-page
+   images in order into edition.pdf, one image per PDF page. Preserve complete
+   images and their aspect ratios without cropping or stretching; verify no
+   image is omitted or duplicated. Render and inspect every PDF page at full
+   and reading sizes. A fresh reviewer checks the entire PDF independently for
+   story coverage, pacing, continuity, visual consistency and readable lettering.
+   Repair and recheck.
+7. Present the complete PDF for the user's final approval, bound to its actual hash.
+8. Capture the approved PDF download for the existing story page, build and check
+   the Pages snapshot, then submit the branch through a pull request.
 
 Intermediate art and page reviews are assistant work. The default does not ask
 the user to approve every image; an explicit request for additional checkpoints
-takes precedence. A PDF is produced only if requested. Website publication is a
-separate future integration, not an implicit replacement of an existing reader.
+takes precedence. PDF is the required final GN output. Reference sheets remain
+production assets unless an appendix is expressly requested. Exact panel
+transcripts stay in plan.md. An HTML preview is optional temporary production
+material outside the package; it is not the final book. The published download
+preserves the existing standard or illustrated reader and its Library card.
+
+## Publish the PDF download
+
+```text
+python pages/build.py capture-graphic-novel <edition-slug>
+python pages/build.py build --output _site
+```
+
+Named capture requires final user approval and fresh independent complete-book
+PASS bound to the current PDF and selected images, an unchanged source and
+matching source/catalog canon. The story must already be in the catalog.
+It stores the PDF in `pages/graphic-novels/<edition-slug>/edition.pdf` and records
+the selection in `pages/graphic-novels.json`. One comic is selected per source.
+
+The matching story page shows **Download comic PDF**, alongside an illustrated
+PDF download if one exists. Stories without a selected comic have no comic link.
+Builds copy the stored PDF without reopening production packages; subsequent
+production changes cannot silently replace a published download. Use named
+capture again to update it. Ordinary story and illustrated captures do not
+refresh comics. Publishing never changes the source prose, story metadata,
+Writing Prompt, card count or existing reader format. Merge through a pull
+request, never automatically.
 
 ## Draft choices to review
 
@@ -60,7 +92,8 @@ separate future integration, not an implicit replacement of an existing reader.
 | Color | Strong flat color, near-white gutters/balloons and yellow narration; scene palette follows the story |
 | Lettering | Bold condensed uppercase captions/dialogue, checked word-for-word against the script/transcript |
 | Production | One complete page at a time; fix and pass before proceeding |
-| User checkpoints | Plan, then independently reviewed complete book |
+| Final output | edition.pdf: selected cover, then all ordered comic-page images, one image per PDF page |
+| User checkpoints | Plan, then independently reviewed complete PDF bound to its hash |
 
 Read the [written style draft](STYLE.md) or inspect the
 [production contract](../.agents/skills/graphic-novel-create/SKILL.md).
