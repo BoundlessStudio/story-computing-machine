@@ -180,17 +180,28 @@
       "path": "references/marcus-bellweather.png",
       "subject": "Marcus Bellweather, age 23; intact coat, cold-injured sleeve, morning state",
       "consumers": "Page 1; 1, 5, 7, 9, 11, 14–16, 22, 24",
-      "status": "planned",
-      "sha256": null,
+      "status": "coordinator-accepted",
+      "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
       "attempts": [
         "R03-attempt-01"
       ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T19:30:28.9492573Z",
+        "assetSha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+        "evidence": "Native/full and 390px saved pixels inspected. One consistent 23-year-old identity, broader jaw and wavier hair distinct from Adrian; blue coat stable; inert frost only on anatomical left sleeve in AFTER ICE; morning surface ice gone with arm guarded. Exact heading/state labels readable, hands/boots intact. Flat fills, crisp black contours and hard-edged shadows match accepted R01. Minor silhouette overlap does not obscure anatomy or required costume."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R03-attempt-01"
     },
     {
       "id": "R04",
@@ -212,15 +223,28 @@
       "path": "references/lady-rowena-bellweather.png",
       "subject": "Lady Rowena Bellweather; silver-channel gown; no separate magical identity",
       "consumers": "Page 1; 1–3, 5, 7, 10–12, 15–17, 19, 21–24",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+      "attempts": [
+        "R05-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-18T19:32:46.9107422Z",
+        "assetSha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+        "evidence": "Native/full and 390px saved pixels inspected. Same mature woman across three views, swept-back graying hair, dark high-collared gown and matte silver sleeve channels. Clear hands, complete hem, readable exact name. Rendering matches R01 contours, flat fills and hard-edged shadows; no magic, crowns, props or extra identities."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R05-attempt-01"
     },
     {
       "id": "R06",
@@ -948,7 +972,7 @@
       "id": "R03-attempt-01",
       "assetId": "R03",
       "kind": "reference",
-      "status": "prepared",
+      "status": "selected",
       "preflightAt": "2026-09-18T19:27:03Z",
       "producer": "/root/mercy_plan",
       "tool": "image_gen.imagegen",
@@ -961,9 +985,46 @@
           "role": "accepted rendering style only, exclude identity/costume/heading"
         }
       ],
-      "outputPath": null,
-      "outputSha256": null,
-      "toolProvenance": null
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f325cb1-095f-44ac-92f4-5ccd8b2ef04b.png",
+      "outputSha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f325cb1-095f-44ac-92f4-5ccd8b2ef04b.png",
+        "backendModel": null
+      }
+    },
+    {
+      "id": "R05-attempt-01",
+      "assetId": "R05",
+      "kind": "reference",
+      "status": "selected",
+      "preflightAt": "2026-09-18T19:28:55Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Create one portrait 1024 x 1536 character reference sheet for LADY ROWENA BELLWEATHER. Use the supplied Adrian image ONLY as the rendering-style anchor: crisp bold black contours, heavier outer silhouettes, confident expressive comic anatomy, broad flat saturated fills and hard-edged shadow steps. Exclude Adrian's identity, face, hairstyle, male clothing and heading. Depict only ONE consistent middle-aged woman, mother of the Bellweather siblings: warm medium-brown skin, swept-back graying dark hair in a practical pinned arrangement, mature dignified face, controlled posture, attentive eyes carrying restrained fear under authority. She wears a dark high-collared long gown with clearly visible narrow silver stitched channels running through both sleeves. The silver is ordinary matte metal thread, not self-powered glowing clothing. Show three separated views of this same identity: a complete full-length front view in the gown with empty relaxed hands and hem fully visible; a three-quarter waist-up view with one empty hand slightly open and an expression of controlled concern; and a clear closer face view, dignified and fearful without caricature. Keep her age, face, hair, skin tone, collar and sleeve construction identical across the views. Hands must be anatomically clear. Keep generous near-white space separating all three views; no overlapping silhouettes, cropped heads or clipped hem. At the top place only the exact heading LADY ROWENA BELLWEATHER, in large solid black uppercase comic lettering, fully readable. No other text. The entire canvas must have a FULLY OPAQUE, uniform near-white #FFFDF4 background: no transparency, gradient, halo or vignette. No other people, crowns, jewelry, weapons, book, props, heraldry, magical panes, glowing channels, spell effects or background scenery. No watercolor, washes, dense hatching, aged paper, soft painted shading, photorealism, glossy 3D or watermark.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "accepted rendering style only; exclude Adrian identity, costume and heading"
+        }
+      ],
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-70108e60-f8be-4a01-97f2-52c6ab5a0573.png",
+      "outputSha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-70108e60-f8be-4a01-97f2-52c6ab5a0573.png",
+        "backendModel": null
+      }
     }
   ],
   "approvals": {
