@@ -1282,8 +1282,8 @@
       "id": "page-017",
       "number": 17,
       "path": "pages/page-017.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
       "dependsOn": [
         "R1",
         "R2",
@@ -1291,12 +1291,56 @@
         "R4",
         "page-016"
       ],
-      "actualDependencyVersions": [],
-      "attempts": [],
+      "actualDependencyVersions": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity/current wet RIGHT shoulder/ribs and LEFT hip state; opaque focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Northern offshore shelf geometry, stable viewpoint in successive strikes."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C10 breaking shared endpoint, C11/C12 intact; no small C9."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving capsules split into dark wreckage in two shelf columns."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-016.png",
+          "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "role": "Accepted P16 three-bell triangle and flat rendering continuity."
+        }
+      ],
+      "attempts": [
+        "P17-001"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "evidence": null
-      }
+        "scope": "page-017",
+        "verdict": "PASS",
+        "reviewer": "/root/gn_preflight",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+        "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+        "reviewFileSha256": "94defbb8de45153635cb44b34116372e4dfa42cbc630c538cc55c342ab8c7d01",
+        "temporaryPreviewSha256": "58f362b6a0c3688c1ba95dcba6ef3fa70af69d5fa92e74d30dcf47ad4b6040c8",
+        "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-017.pdf",
+        "partialPdfSha256": "1be563cca53f570a1c4d427f1e48e3073380fa078dd85dad1ee36336ac5d2848",
+        "pdfRenderedEvidence": {
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-18.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-18.png"
+        },
+        "evidence": "review.md",
+        "evidenceSummary": "Independent P17-001 PASS: shared dying endpoint for two successive cuts, empty palm memory, two surviving whole bells, exact captions and actual full390 PDF page18/RGB parity."
+      },
+      "width": 1024,
+      "height": 1536
     },
     {
       "id": "page-018",
@@ -3744,6 +3788,77 @@
           "embeddedPixelParity": true
         }
       }
+    },
+    {
+      "id": "P17-001",
+      "assetId": "page-017",
+      "state": "accepted",
+      "prompt": "Generate ONE completed portrait comic page17,1024x1536, of Solstice Evening Bell. Exactly FOUR full-width horizontal panels stacked top-to-bottom, separate crisp black borders/white gutters: first strike27%, second strike27%, empty-hand memory18%, falling remnants28% of usable height. Bold black contours, saturated flat navy/cobalt, angular storm shapes, hard silver shadows, white rain and yellow captions in bold condensed uppercase40–44px letters/minimum40. Match accepted page16. No title, page number, SFX, labels or extra text.\n\nReferences:1 adult Solstice identity (wet silver hair, gray-blue eyes, silver armor/white skirt, blood-scored RIGHT shoulder/RIGHT ribs, nose trace, existing LEFT hip tear/graze, RIGHT thigh intact cloth, no leg failure);2 western bay geometry (looking east: northLEFT/southRIGHT, sea shelf offshore outside tips, ridge behind harbor);3 ordinary silver C10,C11,C12 shapes, never small C9; central focus hidden behind opaque sternum;4 nonliving human-sized dark pointed capsule frames/folded vanes, no pilots or faces;5 accepted page16 for actual graphic style and previous 3-bell triangle. Exclude sheet headings/cutaways/future states.\nExactly one living defender. No ghost, donor figure, animals or actual sugar. These are memories, not physical visions. Only C10 is destroyed on this page. C11 and C12 survive intact. Two enemy shelf columns of1,024 each are destroyed, totaling2,048; other six columns are outside the crop, not destroyed here. Keep the TWO linked planes sharing ONE breaking endpoint unambiguous. Broad white overloaded edict is intercepted rain/metal, not a permanent solid wall. Same setting/axis in first two panels; do not mirror the triangle between them.\n\nPANEL1: broad aerial view over offshore northern shelf water, northern breakwater in left background. The local triangle is seen obliquely: C10 at LEFT, C11 upperRIGHT, C12 lowerRIGHT. C11 and C12 are TWO distinct ordinary whole bells. C10 at left has JUST burst apart, its recognizable bell rim now broken into a few jagged separated pieces with a brilliant white center. No extra whole bell at the burst. The upper plane running from this breaking LEFT endpoint toward upperRIGHT C11 expands into a broad hard WHITE slicing band and destroys the FIRST shelf column along its full descending length; dark frame bodies/vanes visibly split. The lower plane toward lowerRIGHT C12 is still only a narrow line of clipped rain, available for the next moment. The SECOND shelf column approaches that lower plane intact with visible separation from the first wreckage. Solstice's single cropped armored hand at the lower edge commands the burn; no extra full figure needed. Caption in2lines:\n\"THE FIRST SHELF COLUMN CROSSED. SHE BURNED THE SHARED ENDPOINT.\"\n\nPANEL2: heartbeat later, repeat SAME camera, bay background and same triangle positions. C10 is still disintegrating at LEFT, now somewhat more fragmented but still sounding for this instant; it never becomes a whole bell again. UpperRIGHT C11 and lowerRIGHT C12 remain intact in their same positions. The SECOND shelf column now crosses the OTHER, lower plane linking dying LEFT C10 to lowerRIGHT C12. That lower boundary broadens into a hard WHITE cut that breaks the second column front-to-rear. Distinct first-column dark wreckage falls beyond the upper boundary. Show the white widening lower edge beginning at the SAME visible jagged C10 remains, so the shared endpoint is unmistakable. No new fourth chime, no second burn, no rebuilding the broken bell. Caption:\n\"BEFORE IT FINISHED BREAKING, THE SECOND CROSSED THE OTHER PLANE.\"\n\nPANEL3: quiet full-width reaction strip, enough vertical room for caption and clearly visible hand underneath. Close-up Solstice's OWN empty silver armored palm, fingers slightly tensing with memory, rain beads and dark storm background. One attached wrist, one thumb/four fingers, no extra hand, sugar/grains/crystals, animal, coat or apparition. Exact caption wrapped naturally:\n\"THE TENTH HAD CARRIED SUGAR FOR STRAY ANIMALS IN HER BATTLE COAT.\"\n\nPANEL4: wider aftermath above NORTHERN shallow water. TWO distinct cascades of broken dark machine bodies/vanes fall into the sea; fragmented C10 silver pieces rain separately into the northern shallows, no intact third bell at all. In the nearer air to the right, exactly TWO whole ordinary silver bells C11,C12 remain, clearly separated at similar scale, one slightly higher than other. Solstice may be a single waist-up figure beside the two bells, pained and wet, hand lowered, maintaining RIGHT shoulder/rib injuries and OPAQUE sternum. Crop at waist to keep hip out of this composition; do not create another thigh tear. Leave harbor/ridge intact, other six live columns outside crop. TWO caption blocks:\n\"SOLSTICE HAD FOUND THE GRAINS AFTERWARD.\"\n\"2,048 FRAMES BROKE. TWO ORBITING TONES REMAINED.\"\n\nFive exact caption blocks total. Make successive strikes and permanent3→2 bell loss readable at390px page width. Do not render a second copy of the same scene inside one panel.",
+      "inputs": [
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/solstice-evening-bell.png",
+          "sha256": "cabfd98ad21acd1f926d68a221c3f6f3dc6fc6c232d9cdf430f76728b7421e8c",
+          "role": "Solstice identity/current wet RIGHT shoulder/ribs and LEFT hip state; opaque focus."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/western-bay.png",
+          "sha256": "42402464da825a19826b56efb325e299a30e35d8cc00b1e13e92eee725b6331a",
+          "role": "Northern offshore shelf geometry, stable viewpoint in successive strikes."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/thirteen-tone-crown.png",
+          "sha256": "2f31954581d68273b043a143c67c13fdc8423f45f71806b619143cc3241bb208",
+          "role": "C10 breaking shared endpoint, C11/C12 intact; no small C9."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/references/invasion-frame.png",
+          "sha256": "e9b159a3f8a612440de17276e6acff695f4d44ebe54b471e1f0adcd38936723a",
+          "role": "Nonliving capsules split into dark wreckage in two shelf columns."
+        },
+        {
+          "path": "graphic-novels/solstice-evening-bell/pages/page-016.png",
+          "sha256": "a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706",
+          "role": "Accepted P16 three-bell triangle and flat rendering continuity."
+        }
+      ],
+      "preflight": {
+        "verdict": "PASS",
+        "reviewer": "coordinator",
+        "evidence": "Read exact P17 script and source tenth spell sequence. Actual R1–R4/P16 inspected. Two broad strikes use the same visibly breaking LEFT C10 endpoint with stable upper/right C11 and lower/right C12; no restored tone. Empty palm memory contains no sugar or ghost. Five exact caption blocks fit four strips with40px lettering. Bottom waist crop retains visible shoulder/rib state while avoiding unnecessary hip framing. P16 independent PASS."
+      },
+      "tool": "image_gen.imagegen",
+      "startedAt": "2026-09-17 23:51:22 UTC",
+      "completedAt": "2026-09-17 23:53:11 UTC",
+      "outputPath": "pages/page-017.png",
+      "outputSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "modelVariant": null,
+        "returnedFields": [
+          "image_url",
+          "output_hint"
+        ],
+        "originalSavedPath": "C:/Users/jamie/.codex/generated_images/01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1/exec-2e08d5c9-83f8-4fc5-9db0-afae824fc158.png",
+        "output_hint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b05f-cf3e-7aa0-9741-8e45ed39f1e1\\exec-2e08d5c9-83f8-4fc5-9db0-afae824fc158.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "width": 1024,
+        "height": 1536
+      },
+      "inspection": {
+        "verdict": "PASS-for-independent-review",
+        "reviewer": "coordinator",
+        "fullSize": true,
+        "readingWidth": 390,
+        "evidence": "Full saved PNG and PDF page18 full/390 inspected. Five captions exact and legible. Successive upper then lower white cuts share the same visibly breaking left C10; two right endpoints intact throughout, no restored tone. Empty palm memory contains no sugar. Bottom two dark wreckage cascades and jagged silver remnants are separate from two intact finial/clapper bells; current wet/right injuries and opaque sternum persist.",
+        "readerEvidence": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/P17-001-reader-390.png",
+        "pdf": {
+          "path": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-017.pdf",
+          "sha256": "1be563cca53f570a1c4d427f1e48e3073380fa078dd85dad1ee36336ac5d2848",
+          "pdfPage": 18,
+          "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-18.png",
+          "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-18.png",
+          "embeddedPixelParity": true
+        }
+      }
     }
   ],
   "reviews": [
@@ -4078,6 +4193,24 @@
       },
       "evidence": "review.md",
       "evidenceSummary": "Independent P16-002 PASS: 2 shelf/2 breakwater/4 ridge columns, three surviving bells/planes, exact captions and current injury state; full390 PDF page17 and RGB parity."
+    },
+    {
+      "scope": "page-017",
+      "verdict": "PASS",
+      "reviewer": "/root/gn_preflight",
+      "role": "graphic_novel_reviewer",
+      "pageSha256": "b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5",
+      "planSha256": "75d5fb24b73bf8098d8a60276c88006f1d57328f34d43ccdfdd0ddec2981668e",
+      "reviewFileSha256": "94defbb8de45153635cb44b34116372e4dfa42cbc630c538cc55c342ab8c7d01",
+      "temporaryPreviewSha256": "58f362b6a0c3688c1ba95dcba6ef3fa70af69d5fa92e74d30dcf47ad4b6040c8",
+      "partialPdfPath": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/through-017.pdf",
+      "partialPdfSha256": "1be563cca53f570a1c4d427f1e48e3073380fa078dd85dad1ee36336ac5d2848",
+      "pdfRenderedEvidence": {
+        "full": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/full-18.png",
+        "reading390": "C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/reading-18.png"
+      },
+      "evidence": "review.md",
+      "evidenceSummary": "Independent P17-001 PASS: shared dying endpoint for two successive cuts, empty palm memory, two surviving whole bells, exact captions and actual full390 PDF page18/RGB parity."
     }
   ],
   "approvals": {

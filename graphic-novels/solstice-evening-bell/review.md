@@ -693,3 +693,25 @@ PDF/render paths are under `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/p
 **Actual PDF page 17: PASS.** Its sole embedded image has exact decoded RGB parity with the selected PNG. Media/crop boxes are 432 × 648 points, unrotated, with a full-page transform and the Page 16 bookmark correctly targeting page 17. Both actual renders preserve edges, aspect, words and action without clipping or stretch. No previous PDF-page, optional HTML or broad control regression was repeated.
 
 **P16-002 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P17–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
+
+## Page 017 — P17-001 independent review — PASS
+
+Reviewer: `gn_preflight`, independent graphic-novel reviewer; 2026-09-17. Scope: entire selected P17, P16 transition and actual PDF page 18. Re-read the two shelf-column strikes, sugar memory and two-tone aftermath in the source, the exact four-panel script and recorded prompt. Inspected the saved 1024 × 1536 page and actual PDF renders at 864 × 1296 and 390 × 585. Rehashed source/plan/STYLE: unchanged versions recorded in P15; accepted P16 remains `a62d09069f0bbee513149a9a3e884c0e25cf530131e7079959915456e9c4c706`.
+
+| Reviewed artifact | SHA-256 |
+| --- | --- |
+| P17-001 `page-017.png` | `b3a1d1abe035fbb52f64f47c69ba79ed6e0868551300246a3db79c1c90380ea5` |
+| Manifest at scoped read | `0979f29f808469ae75af8d10a980dfcf784c58d718228fa0f3518ea037a0f42a` |
+| `through-017.pdf` | `1be563cca53f570a1c4d427f1e48e3073380fa078dd85dad1ee36336ac5d2848` |
+| `full-18.png` | `d93643d6cd64c61696974019ac803bc6c455c5cceb1247dfdaa3baff1dfc5f8e` |
+| `reading-18.png` | `e77918719c3d1a01da119927e8e94a403fcfdd6f5444d3acdb1a8ff7391a5c48` |
+
+PDF/render files: `C:/Users/jamie/.codex/tmp/gn-solstice-evening-bell/pdf/`.
+
+**Panel sequence and mechanics: PASS.** P17.1 widens the upper plane from breaking left C10 to intact upper-right C11, destroying the first column while the second remains along the lower boundary. P17.2 retains the same geography and endpoint positions; the lower C10–C12 plane now widens through the second column before C10 finishes disintegrating. The continuing upper wreckage distinguishes the two moments. This is one shared dying endpoint, not another burn or rebuilt bell. P17.3 shows her empty gauntleted palm and attached wrist, with fingers tensing/folding in perspective; no physical sugar, animal, apparition or extra hand appears. P17.4 separates two dark wreckage cascades and jagged silver remains over the northern shallows from exactly two whole ordinary bells at right. The hollow, truncated silver shell piece in the left cascade lacks a complete finial/clapper silhouette and does not restore a third tone.
+
+**Continuity, words and presentation: PASS.** The familiar bay, adult identity, wetness, right shoulder/rib damage, nosebleed and opaque sternum remain consistent; the waist crop does not invent a new hip/leg state. One living defender remains. All five caption blocks match the script, including `2,048`, the comma after `BREAKING` and every period. Read them at full and actual 390-pixel size; the final two boxes remain legible and correctly ordered. Two columns of 1,024 account for the stated 2,048 losses. The donor's practical kindness and Solstice's later discovery remain memory rather than physical conjuration. Four separate horizontal panels, white gutters, crisp contours, hard shadows and flat saturated fills preserve chronology and accepted style.
+
+**Actual PDF page 18: PASS.** Independently confirmed one embedded image with exact decoded RGB parity to the selected PNG, unrotated 432 × 648-point media/crop boxes and a full-page transform. The Page 17 bookmark targets page 18. Both actual renders preserve all edges, lettering and action without clipping or stretch. No earlier-page assembly, optional HTML or broad control regression was repeated.
+
+**P17-001 and its PDF page: PASS; blocking findings: none. PDF: REQUESTED, THIS PAGE REVIEWED. P18–P24 and complete book: NOT REVIEWED.** No final user approval is certified.
