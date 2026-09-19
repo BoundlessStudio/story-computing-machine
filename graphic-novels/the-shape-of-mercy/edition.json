@@ -3,7 +3,7 @@
   "contractVersion": "0.7",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
-  "status": "page-production",
+  "status": "awaiting-final-approval",
   "createdAt": "2026-09-18T18:37:05.8498501Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
   "branch": "codex/graphic-novel-the-shape-of-mercy",
@@ -7586,7 +7586,149 @@
     "final": {
       "status": "pending",
       "userResponse": null,
-      "binding": null
+      "binding": {
+        "pdfPath": "edition.pdf",
+        "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+        "pdfPages": 26,
+        "orderedImages": [
+          {
+            "pdfPage": 1,
+            "path": "cover.jpg",
+            "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+          },
+          {
+            "pdfPage": 2,
+            "path": "pages/page-001.png",
+            "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65"
+          },
+          {
+            "pdfPage": 3,
+            "path": "pages/page-002.png",
+            "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce"
+          },
+          {
+            "pdfPage": 4,
+            "path": "pages/page-003.png",
+            "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65"
+          },
+          {
+            "pdfPage": 5,
+            "path": "pages/page-004.png",
+            "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66"
+          },
+          {
+            "pdfPage": 6,
+            "path": "pages/page-005.png",
+            "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c"
+          },
+          {
+            "pdfPage": 7,
+            "path": "pages/page-006.png",
+            "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68"
+          },
+          {
+            "pdfPage": 8,
+            "path": "pages/page-007.png",
+            "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee"
+          },
+          {
+            "pdfPage": 9,
+            "path": "pages/page-008.png",
+            "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874"
+          },
+          {
+            "pdfPage": 10,
+            "path": "pages/page-009.png",
+            "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965"
+          },
+          {
+            "pdfPage": 11,
+            "path": "pages/page-010.png",
+            "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405"
+          },
+          {
+            "pdfPage": 12,
+            "path": "pages/page-011.png",
+            "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34"
+          },
+          {
+            "pdfPage": 13,
+            "path": "pages/page-012.png",
+            "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e"
+          },
+          {
+            "pdfPage": 14,
+            "path": "pages/page-013.png",
+            "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07"
+          },
+          {
+            "pdfPage": 15,
+            "path": "pages/page-014.png",
+            "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867"
+          },
+          {
+            "pdfPage": 16,
+            "path": "pages/page-015.png",
+            "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd"
+          },
+          {
+            "pdfPage": 17,
+            "path": "pages/page-016.png",
+            "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc"
+          },
+          {
+            "pdfPage": 18,
+            "path": "pages/page-017.png",
+            "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d"
+          },
+          {
+            "pdfPage": 19,
+            "path": "pages/page-018.png",
+            "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d"
+          },
+          {
+            "pdfPage": 20,
+            "path": "pages/page-019.png",
+            "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e"
+          },
+          {
+            "pdfPage": 21,
+            "path": "pages/page-020.png",
+            "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf"
+          },
+          {
+            "pdfPage": 22,
+            "path": "pages/page-021.png",
+            "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248"
+          },
+          {
+            "pdfPage": 23,
+            "path": "pages/page-022.png",
+            "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4"
+          },
+          {
+            "pdfPage": 24,
+            "path": "pages/page-023.png",
+            "sha256": "ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232"
+          },
+          {
+            "pdfPage": 25,
+            "path": "pages/page-024.png",
+            "sha256": "6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e"
+          },
+          {
+            "pdfPage": 26,
+            "path": "pages/page-025.png",
+            "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b"
+          }
+        ],
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "contractSha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f",
+        "independentReviewFileSha256": "f64fab385011f352c84d8a7f8fa770a915fb4d145a1ae633dd83ebe0447423a4"
+      },
+      "preparedAt": "2026-09-19T01:47:59.655828-04:00"
     },
     "deliveryChanges": [
       {
@@ -7748,12 +7890,189 @@
   },
   "wholeBookReview": {
     "scope": "complete-pdf-book",
-    "verdict": "NOT REVIEWED"
+    "verdict": "PASS",
+    "role": "graphic_novel_reviewer",
+    "reviewer": "/root/mercy_book_review",
+    "freshReviewer": true,
+    "blockingFindings": [],
+    "pdfPath": "edition.pdf",
+    "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+    "pdfPages": 26,
+    "orderedImages": [
+      {
+        "pdfPage": 1,
+        "path": "cover.jpg",
+        "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+      },
+      {
+        "pdfPage": 2,
+        "path": "pages/page-001.png",
+        "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65"
+      },
+      {
+        "pdfPage": 3,
+        "path": "pages/page-002.png",
+        "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce"
+      },
+      {
+        "pdfPage": 4,
+        "path": "pages/page-003.png",
+        "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65"
+      },
+      {
+        "pdfPage": 5,
+        "path": "pages/page-004.png",
+        "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66"
+      },
+      {
+        "pdfPage": 6,
+        "path": "pages/page-005.png",
+        "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c"
+      },
+      {
+        "pdfPage": 7,
+        "path": "pages/page-006.png",
+        "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68"
+      },
+      {
+        "pdfPage": 8,
+        "path": "pages/page-007.png",
+        "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee"
+      },
+      {
+        "pdfPage": 9,
+        "path": "pages/page-008.png",
+        "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874"
+      },
+      {
+        "pdfPage": 10,
+        "path": "pages/page-009.png",
+        "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965"
+      },
+      {
+        "pdfPage": 11,
+        "path": "pages/page-010.png",
+        "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405"
+      },
+      {
+        "pdfPage": 12,
+        "path": "pages/page-011.png",
+        "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34"
+      },
+      {
+        "pdfPage": 13,
+        "path": "pages/page-012.png",
+        "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e"
+      },
+      {
+        "pdfPage": 14,
+        "path": "pages/page-013.png",
+        "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07"
+      },
+      {
+        "pdfPage": 15,
+        "path": "pages/page-014.png",
+        "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867"
+      },
+      {
+        "pdfPage": 16,
+        "path": "pages/page-015.png",
+        "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd"
+      },
+      {
+        "pdfPage": 17,
+        "path": "pages/page-016.png",
+        "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc"
+      },
+      {
+        "pdfPage": 18,
+        "path": "pages/page-017.png",
+        "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d"
+      },
+      {
+        "pdfPage": 19,
+        "path": "pages/page-018.png",
+        "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d"
+      },
+      {
+        "pdfPage": 20,
+        "path": "pages/page-019.png",
+        "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e"
+      },
+      {
+        "pdfPage": 21,
+        "path": "pages/page-020.png",
+        "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf"
+      },
+      {
+        "pdfPage": 22,
+        "path": "pages/page-021.png",
+        "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248"
+      },
+      {
+        "pdfPage": 23,
+        "path": "pages/page-022.png",
+        "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4"
+      },
+      {
+        "pdfPage": 24,
+        "path": "pages/page-023.png",
+        "sha256": "ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232"
+      },
+      {
+        "pdfPage": 25,
+        "path": "pages/page-024.png",
+        "sha256": "6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e"
+      },
+      {
+        "pdfPage": 26,
+        "path": "pages/page-025.png",
+        "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b"
+      }
+    ],
+    "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+    "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+    "reviewFileSha256": "f64fab385011f352c84d8a7f8fa770a915fb4d145a1ae633dd83ebe0447423a4",
+    "recordedAt": "2026-09-19T01:47:59.655828-04:00",
+    "inspectionSizes": [
+      "native/full",
+      "390px-wide",
+      "768px-wide"
+    ],
+    "inspectedPdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "scriptedPanelsChecked": 95
   },
   "outputs": {
     "pdf": "edition.pdf",
-    "pdfSha256": null,
-    "pdfPages": null,
+    "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+    "pdfPages": 26,
     "expectedPdfPages": 26,
     "order": [
       "cover",
@@ -7785,11 +8104,940 @@
     ],
     "pdfGeneration": {
       "policy": "exactly-once-after-all-image-work-and-reviews",
-      "attemptedCount": 0,
-      "completedCount": 0,
-      "status": "not-started",
-      "history": [],
-      "htmlPreviews": "prohibited"
+      "attemptedCount": 1,
+      "completedCount": 1,
+      "status": "generated-and-reviewed",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "generated-awaiting-inspection",
+          "startedAt": "2026-09-19T05:27:57.947578+00:00",
+          "command": [
+            "C:\\Users\\jamie\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+            "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-gn-the-shape-of-mercy\\assemble_pdf.py",
+            "--execute"
+          ],
+          "scriptSha256": "5b93e13348878337c6bdcffce304682e7e5d7a2edca8beee9eb320fa7dd55409",
+          "marker": {
+            "command": [
+              "C:\\Users\\jamie\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe",
+              "C:\\Users\\jamie\\.codex\\plugins\\cache\\openai-primary-runtime\\pdf\\26.905.11957\\skills\\pdf\\container_tools\\mark_artifact_operation_started.mjs",
+              "--operation-kind",
+              "create",
+              "--expected-output-count",
+              "1",
+              "--output-format",
+              "pdf"
+            ],
+            "invokedAt": "2026-09-19T05:27:57.947578+00:00",
+            "finishedAt": "2026-09-19T05:27:58.632441+00:00",
+            "returncode": 0,
+            "stdout": "",
+            "stderr": ""
+          },
+          "orderedImages": [
+            {
+              "id": "cover",
+              "path": "cover.jpg",
+              "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+              "width": 864,
+              "height": 1536,
+              "pdfPage": 1
+            },
+            {
+              "id": "page-001",
+              "path": "pages/page-001.png",
+              "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 2
+            },
+            {
+              "id": "page-002",
+              "path": "pages/page-002.png",
+              "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 3
+            },
+            {
+              "id": "page-003",
+              "path": "pages/page-003.png",
+              "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 4
+            },
+            {
+              "id": "page-004",
+              "path": "pages/page-004.png",
+              "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 5
+            },
+            {
+              "id": "page-005",
+              "path": "pages/page-005.png",
+              "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 6
+            },
+            {
+              "id": "page-006",
+              "path": "pages/page-006.png",
+              "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 7
+            },
+            {
+              "id": "page-007",
+              "path": "pages/page-007.png",
+              "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 8
+            },
+            {
+              "id": "page-008",
+              "path": "pages/page-008.png",
+              "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 9
+            },
+            {
+              "id": "page-009",
+              "path": "pages/page-009.png",
+              "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 10
+            },
+            {
+              "id": "page-010",
+              "path": "pages/page-010.png",
+              "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 11
+            },
+            {
+              "id": "page-011",
+              "path": "pages/page-011.png",
+              "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 12
+            },
+            {
+              "id": "page-012",
+              "path": "pages/page-012.png",
+              "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 13
+            },
+            {
+              "id": "page-013",
+              "path": "pages/page-013.png",
+              "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 14
+            },
+            {
+              "id": "page-014",
+              "path": "pages/page-014.png",
+              "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 15
+            },
+            {
+              "id": "page-015",
+              "path": "pages/page-015.png",
+              "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 16
+            },
+            {
+              "id": "page-016",
+              "path": "pages/page-016.png",
+              "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 17
+            },
+            {
+              "id": "page-017",
+              "path": "pages/page-017.png",
+              "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 18
+            },
+            {
+              "id": "page-018",
+              "path": "pages/page-018.png",
+              "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 19
+            },
+            {
+              "id": "page-019",
+              "path": "pages/page-019.png",
+              "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 20
+            },
+            {
+              "id": "page-020",
+              "path": "pages/page-020.png",
+              "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 21
+            },
+            {
+              "id": "page-021",
+              "path": "pages/page-021.png",
+              "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 22
+            },
+            {
+              "id": "page-022",
+              "path": "pages/page-022.png",
+              "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 23
+            },
+            {
+              "id": "page-023",
+              "path": "pages/page-023.png",
+              "sha256": "ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 24
+            },
+            {
+              "id": "page-024",
+              "path": "pages/page-024.png",
+              "sha256": "6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 25
+            },
+            {
+              "id": "page-025",
+              "path": "pages/page-025.png",
+              "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b",
+              "width": 1024,
+              "height": 1536,
+              "pdfPage": 26
+            }
+          ],
+          "canvasSaveCalls": 1,
+          "inputManifestSha256": "55ace2da047af3150577352dfecb277c368231540e2782f26af7416fbce89c93",
+          "catalogSha256": "1a7a2344f130c4f28d71879e81b21c6e1b4fed5ebbc2798c80425f16ad71742a",
+          "source": {
+            "slug": "the-shape-of-mercy",
+            "title": "The Shape of Mercy",
+            "layout": "bundle",
+            "snapshotCommit": "dd47e0ff894a93f0a397a43d80b3c4541b0b6954",
+            "proseLastCommit": "760be9974b5bf8bdd79a1961607b1a0a8fc52a15",
+            "prose": {
+              "path": "stories/the-shape-of-mercy/05-story.md",
+              "sha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a"
+            },
+            "prompt": {
+              "path": "stories/the-shape-of-mercy/00-prompt.md",
+              "sha256": "a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d"
+            },
+            "state": {
+              "path": "stories/the-shape-of-mercy/story.json",
+              "sha256": "1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5"
+            },
+            "cover": {
+              "path": "stories/the-shape-of-mercy/title-image.jpg",
+              "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+            },
+            "review": {
+              "path": "stories/the-shape-of-mercy/04-review.md",
+              "sha256": "df9d8ae7f07ff4068fc06e94c0bd1200487d7b8371b0af945282fe2d23a1dc3f"
+            },
+            "canon": true,
+            "catalogCanon": true,
+            "canonReconciliation": "matching",
+            "historicalReview": {
+              "pass": 4,
+              "verdict": "PASS",
+              "certifiedProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+              "matchesCurrentProse": true,
+              "scope": "Historical source certification only; adaptation review is separate"
+            },
+            "externalOriginals": [],
+            "sameStoryIllustratedEditions": []
+          },
+          "plan": {
+            "path": "graphic-novels/the-shape-of-mercy/plan.md",
+            "sha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+            "pages": 25,
+            "panels": 95,
+            "independentVerdict": "PASS"
+          },
+          "style": {
+            "path": "graphic-novels/STYLE.md",
+            "sha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464"
+          },
+          "reportlabVersion": "4.4.9",
+          "imageEncoding": "Lossless RGB Flate without ASCII85 overhead; source JPEG retained as DCT",
+          "savedAt": "2026-09-19T05:28:05.606833+00:00",
+          "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+          "pdfPages": 26,
+          "completedAt": "2026-09-19T05:28:05.931363+00:00"
+        }
+      ],
+      "htmlPreviews": "prohibited",
+      "reviewedAt": "2026-09-19T01:47:59.655828-04:00"
+    },
+    "preAssemblyReview": {
+      "scope": "complete-ordered-selected-image-sequence",
+      "verdict": "PASS",
+      "reviewer": "/root",
+      "reviewedAt": "2026-09-19T05:21:50.399130+00:00",
+      "orderedImages": [
+        {
+          "pdfPage": 1,
+          "path": "cover.jpg",
+          "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+        },
+        {
+          "pdfPage": 2,
+          "path": "pages/page-001.png",
+          "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65"
+        },
+        {
+          "pdfPage": 3,
+          "path": "pages/page-002.png",
+          "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce"
+        },
+        {
+          "pdfPage": 4,
+          "path": "pages/page-003.png",
+          "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65"
+        },
+        {
+          "pdfPage": 5,
+          "path": "pages/page-004.png",
+          "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66"
+        },
+        {
+          "pdfPage": 6,
+          "path": "pages/page-005.png",
+          "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c"
+        },
+        {
+          "pdfPage": 7,
+          "path": "pages/page-006.png",
+          "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68"
+        },
+        {
+          "pdfPage": 8,
+          "path": "pages/page-007.png",
+          "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee"
+        },
+        {
+          "pdfPage": 9,
+          "path": "pages/page-008.png",
+          "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874"
+        },
+        {
+          "pdfPage": 10,
+          "path": "pages/page-009.png",
+          "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965"
+        },
+        {
+          "pdfPage": 11,
+          "path": "pages/page-010.png",
+          "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405"
+        },
+        {
+          "pdfPage": 12,
+          "path": "pages/page-011.png",
+          "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34"
+        },
+        {
+          "pdfPage": 13,
+          "path": "pages/page-012.png",
+          "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e"
+        },
+        {
+          "pdfPage": 14,
+          "path": "pages/page-013.png",
+          "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07"
+        },
+        {
+          "pdfPage": 15,
+          "path": "pages/page-014.png",
+          "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867"
+        },
+        {
+          "pdfPage": 16,
+          "path": "pages/page-015.png",
+          "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd"
+        },
+        {
+          "pdfPage": 17,
+          "path": "pages/page-016.png",
+          "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc"
+        },
+        {
+          "pdfPage": 18,
+          "path": "pages/page-017.png",
+          "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d"
+        },
+        {
+          "pdfPage": 19,
+          "path": "pages/page-018.png",
+          "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d"
+        },
+        {
+          "pdfPage": 20,
+          "path": "pages/page-019.png",
+          "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e"
+        },
+        {
+          "pdfPage": 21,
+          "path": "pages/page-020.png",
+          "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf"
+        },
+        {
+          "pdfPage": 22,
+          "path": "pages/page-021.png",
+          "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248"
+        },
+        {
+          "pdfPage": 23,
+          "path": "pages/page-022.png",
+          "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4"
+        },
+        {
+          "pdfPage": 24,
+          "path": "pages/page-023.png",
+          "sha256": "ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232"
+        },
+        {
+          "pdfPage": 25,
+          "path": "pages/page-024.png",
+          "sha256": "6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e"
+        },
+        {
+          "pdfPage": 26,
+          "path": "pages/page-025.png",
+          "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b"
+        }
+      ],
+      "inspectionSizes": [
+        "native",
+        "390px-wide",
+        "768px-wide"
+      ],
+      "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+      "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+      "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+      "contractSha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f",
+      "reviewFileSha256": "cade260e0632162971f1c35dd8a08de7f9997430f5ee75a037321a6cccb4f5f6",
+      "independentPagePasses": 25,
+      "acceptedReferences": 12,
+      "unresolvedMaterialFindings": [],
+      "evidence": "Coordinator inspected all selected images at native, 390 and 768 widths and the complete ordered narrative sequence. Exact lettering, source events, identities, memory/testimony boundary, ordinary consent evidence, persistent injuries, final safeguards/agreement and completed stewardship signing pass. Disclosed nonblocking staging variations remain recorded in the individual page reviews. All image work is complete; no further image generation or correction is pending.",
+      "dimensions": "Common PDF height768pt; unchanged864x1536 cover432x768pt; all1024x1536 comic images512x768pt. Full art, no cropping, stretching, recoloring or reference appendix.",
+      "frozenForSingleFinalPdf": true
+    },
+    "pdfOrderedImages": [
+      {
+        "id": "cover",
+        "path": "cover.jpg",
+        "sha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9",
+        "width": 864,
+        "height": 1536,
+        "pdfPage": 1
+      },
+      {
+        "id": "page-001",
+        "path": "pages/page-001.png",
+        "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 2
+      },
+      {
+        "id": "page-002",
+        "path": "pages/page-002.png",
+        "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 3
+      },
+      {
+        "id": "page-003",
+        "path": "pages/page-003.png",
+        "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 4
+      },
+      {
+        "id": "page-004",
+        "path": "pages/page-004.png",
+        "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 5
+      },
+      {
+        "id": "page-005",
+        "path": "pages/page-005.png",
+        "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 6
+      },
+      {
+        "id": "page-006",
+        "path": "pages/page-006.png",
+        "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 7
+      },
+      {
+        "id": "page-007",
+        "path": "pages/page-007.png",
+        "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 8
+      },
+      {
+        "id": "page-008",
+        "path": "pages/page-008.png",
+        "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 9
+      },
+      {
+        "id": "page-009",
+        "path": "pages/page-009.png",
+        "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 10
+      },
+      {
+        "id": "page-010",
+        "path": "pages/page-010.png",
+        "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 11
+      },
+      {
+        "id": "page-011",
+        "path": "pages/page-011.png",
+        "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 12
+      },
+      {
+        "id": "page-012",
+        "path": "pages/page-012.png",
+        "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 13
+      },
+      {
+        "id": "page-013",
+        "path": "pages/page-013.png",
+        "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 14
+      },
+      {
+        "id": "page-014",
+        "path": "pages/page-014.png",
+        "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 15
+      },
+      {
+        "id": "page-015",
+        "path": "pages/page-015.png",
+        "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 16
+      },
+      {
+        "id": "page-016",
+        "path": "pages/page-016.png",
+        "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 17
+      },
+      {
+        "id": "page-017",
+        "path": "pages/page-017.png",
+        "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 18
+      },
+      {
+        "id": "page-018",
+        "path": "pages/page-018.png",
+        "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 19
+      },
+      {
+        "id": "page-019",
+        "path": "pages/page-019.png",
+        "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 20
+      },
+      {
+        "id": "page-020",
+        "path": "pages/page-020.png",
+        "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 21
+      },
+      {
+        "id": "page-021",
+        "path": "pages/page-021.png",
+        "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 22
+      },
+      {
+        "id": "page-022",
+        "path": "pages/page-022.png",
+        "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 23
+      },
+      {
+        "id": "page-023",
+        "path": "pages/page-023.png",
+        "sha256": "ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 24
+      },
+      {
+        "id": "page-024",
+        "path": "pages/page-024.png",
+        "sha256": "6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 25
+      },
+      {
+        "id": "page-025",
+        "path": "pages/page-025.png",
+        "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b",
+        "width": 1024,
+        "height": 1536,
+        "pdfPage": 26
+      }
+    ],
+    "pdfAssemblyAudit": {
+      "checkedAt": "2026-09-19T01:31:24.167639-04:00",
+      "scope": "read-only mechanical PDF and rendered-image verification; complete-book visual review remains separate",
+      "verdict": "PASS",
+      "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+      "pdfBytes": 81199896,
+      "pdfPages": 26,
+      "checks": [
+        "ordered selected images",
+        "current independent page reviews",
+        "one embedded image per PDF page",
+        "decoded pixel equality",
+        "native image dimensions",
+        "page aspect ratios",
+        "uncropped media boxes"
+      ],
+      "jpegVerification": "Native DCT stream equals the unchanged source cover byte-for-byte; direct decoded RGB equals source. Initial page.images export mismatch was caused by pypdf export recompression, corrected in read-only audit only.",
+      "auditReport": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-gn-the-shape-of-mercy\\audit-final.json",
+      "auditReportSha256": "9bf57068e1995704b2df8ee2e9e2bfdc0c057cb5eb3d3b6e3847b7bd0d374553",
+      "renderReport": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-gn-the-shape-of-mercy\\render-final.json",
+      "renderReportSha256": "f9c28d117d377f55917c8373cca55188fec104f5ef753a39af15271a8909c452",
+      "renderDirectory": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-gn-the-shape-of-mercy\\rendered-book",
+      "renderedPages": 26,
+      "renderDpi": 144,
+      "readingWidths": [
+        390,
+        768
+      ],
+      "nativeDimensions": {
+        "cover": [
+          864,
+          1536
+        ],
+        "comicPages": [
+          1024,
+          1536
+        ]
+      }
+    },
+    "pdfInspection": {
+      "scope": "coordinator-actual-complete-pdf-book",
+      "verdict": "PASS",
+      "reviewer": "/root",
+      "reviewedAt": "2026-09-19T01:47:59.655828-04:00",
+      "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+      "inspectedPdfPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "inspectionSizes": [
+        "native/full",
+        "390px-wide",
+        "768px-wide"
+      ],
+      "pageRenders": [
+        {
+          "pdfPage": 1,
+          "verdict": "PASS",
+          "nativeRenderSha256": "a5f4542e14d8dc72b24b2de60e1abdf35885b62f9abce9c465cc24c17c980927",
+          "reading390Sha256": "fd16e2b5dd42fe29ceffba48a0f03054fe3465afb28070e58a47b693b9c7fe4e",
+          "reading768Sha256": "d6ed2aa2706348803bb63d81c7325ccdeb6b6a7ec7c21cd8c9d9b68edacfdcf5"
+        },
+        {
+          "pdfPage": 2,
+          "verdict": "PASS",
+          "nativeRenderSha256": "b3743ba5c450edb0fa718beaaf76512cca3c4198b6559dd23317f99a834c1601",
+          "reading390Sha256": "ed6ababcff2a988d659c4a078c81212140ebbb98edb453a90b77ed6fb23adbee",
+          "reading768Sha256": "46e94151388ea613b6b3fd33596ffb75603d566a51e1e1c136cec87a6b5dd134"
+        },
+        {
+          "pdfPage": 3,
+          "verdict": "PASS",
+          "nativeRenderSha256": "87905a0296f6fc6583c9460e0fbfe00086ba91fb9d4dbef9c0d45228dfdee5b3",
+          "reading390Sha256": "d899c9eee5eb84215a38a31a8dd0d6efae919a5c8ed2fae3500138ae50cb75f8",
+          "reading768Sha256": "da75094a63891fca44c0d7134756b078552ddcf6c36017bf4ed9af7163cedae2"
+        },
+        {
+          "pdfPage": 4,
+          "verdict": "PASS",
+          "nativeRenderSha256": "8e1ba5a55d2a78194be2064513f9acf8dfcf31fda032d154fa6dc903ef2eb3a4",
+          "reading390Sha256": "736ab2d95d323687fad9b89d038a5fb653cc7769d08c1a61887512aadf1932d9",
+          "reading768Sha256": "f74428ec563adc3ecce3da97de195a79094f62d0883e9f726f62ba9bb3f521c5"
+        },
+        {
+          "pdfPage": 5,
+          "verdict": "PASS",
+          "nativeRenderSha256": "90d6e607e3f0de1f8a9aadf5786cb76619f55769af6a66285eb03a573131a326",
+          "reading390Sha256": "da4fac2fa6f989a0f69d20a0ce1539bf68cde139d0c7b51ea7958331dc8ebe7c",
+          "reading768Sha256": "b9d039714f738ff454df02c53fc62c1f201ebb62ebef5ddff5b9cb9e201e567c"
+        },
+        {
+          "pdfPage": 6,
+          "verdict": "PASS",
+          "nativeRenderSha256": "9644d5c4efe93b61c702b18b7fd681d1b5c0a43b0f0895f5d85e1a756ef2bb61",
+          "reading390Sha256": "e14ddb8c53dfc03dd66dd2f8a75199844ec536b8b9ed620fcb349b70d44b7c89",
+          "reading768Sha256": "517434fb2f2f156edfc8d26c69e82abfbbaec7e657bf25d13fa649e92c2a37b2"
+        },
+        {
+          "pdfPage": 7,
+          "verdict": "PASS",
+          "nativeRenderSha256": "f424e2c75833748b54373504a84cbef500149bacca5b80590e184246e5054c85",
+          "reading390Sha256": "a919a66d914a713129ca0409318b9ad352cfae9830c8eeeda4d41b9fa3f8b03e",
+          "reading768Sha256": "6d6852875ae54b19454b240a6c90772ce61426554b40b8c58cd71933407bdeee"
+        },
+        {
+          "pdfPage": 8,
+          "verdict": "PASS",
+          "nativeRenderSha256": "1159ea00bdfc53199d94362e3e114e3e4cbb7b287bdf09b2b727ff6372ee2101",
+          "reading390Sha256": "c26acd5cd28c312840ddf2c7485f385f8cbc8ba0da82874c3996eba9ddedf1e6",
+          "reading768Sha256": "7652750c014c6147c0152c51764094d91f0726004ba8f300469fc82959398c7d"
+        },
+        {
+          "pdfPage": 9,
+          "verdict": "PASS",
+          "nativeRenderSha256": "ce48a925331e80c278da51267ffd1b3c0b4173992d754a788c4f23763979ed21",
+          "reading390Sha256": "ab2df51aff0a98f57f6593862d88968e1139372a0e9fda7e569521937c1336db",
+          "reading768Sha256": "5746d1731d2f24b8778404ba19d6d9ca3ad19c793d971727836175330f34a4a5"
+        },
+        {
+          "pdfPage": 10,
+          "verdict": "PASS",
+          "nativeRenderSha256": "ecc790b9a7ac4e6cae3efae90b61223a8d391c472664c7f0323124ad650f734f",
+          "reading390Sha256": "8bc30813d67fdb3bcad6253614cf497912250ecb9c552eaf1ba0f3faf065f079",
+          "reading768Sha256": "f8729119c3c9665af69a168e5602eae0276b6fa67893bb08b00c84e0c12fe272"
+        },
+        {
+          "pdfPage": 11,
+          "verdict": "PASS",
+          "nativeRenderSha256": "0be2f68d10f88e583bdc795f9e0809529f84ff1a48c02780c8e93eb6e67633e9",
+          "reading390Sha256": "d92b59858edb8a9c3951d10ce2728b230bdb76b14414e5651127540b7c9c0987",
+          "reading768Sha256": "9e37949794463f6f7beb076d50ec0d02e2facb22ee8feb45340509081d42a963"
+        },
+        {
+          "pdfPage": 12,
+          "verdict": "PASS",
+          "nativeRenderSha256": "8ed5c7e1ffeea497b92ee1572ec9f9205d1ea68daacbf089f40f42e757cb5733",
+          "reading390Sha256": "83857b9d397cecc068fbb2c5b82392922e478d1cc0cb935b2d46ce7ef9d0e0f9",
+          "reading768Sha256": "c3665b17331ddd59bd63d0e89f52f1b4e1cc518c3b867778008e1aa00e90d38b"
+        },
+        {
+          "pdfPage": 13,
+          "verdict": "PASS",
+          "nativeRenderSha256": "35ecd9f280b06841b743086b3d31e1a6c38992e6f145fbc0b250bbf1a386ae2a",
+          "reading390Sha256": "8dc62acf8e74450082e5a0df3c2c7ae3b8c32bdd79aaccd71addef9052240896",
+          "reading768Sha256": "8cc37a4ccf2da4cb425298220f34bc14dd7e067ec5e0756abc90e3eef0098f36"
+        },
+        {
+          "pdfPage": 14,
+          "verdict": "PASS",
+          "nativeRenderSha256": "0a9019f6e0c859e2b1badb2b9933fc4bb31f31602e86c3019690199fd54e5e4c",
+          "reading390Sha256": "a3f07c434099c286f4451b43fa8c937eb10ba33dcef29d3f98de9de5c544069c",
+          "reading768Sha256": "60541cfc866197e9f9c54ee80c71600f960a54f6d8ac2e9a3c4363579e3318a8"
+        },
+        {
+          "pdfPage": 15,
+          "verdict": "PASS",
+          "nativeRenderSha256": "f27ae8ec852a429b618e9243ca4a63c861c7fee8397d18c00e8b149273df326a",
+          "reading390Sha256": "23b72169338c8d728193a1b7bdab07f0ba66b4995111b08e4bbb54226a1e966b",
+          "reading768Sha256": "d29d1e89d122edeec00e549c4896236c2e0d185d5e7a69acd0ceb56f860f1f65"
+        },
+        {
+          "pdfPage": 16,
+          "verdict": "PASS",
+          "nativeRenderSha256": "3d03d52e129965092d273a376f3339677fc8fedf056cdbe5712d61bdf87edf46",
+          "reading390Sha256": "e40a4c6473377ab7448daf7fa3b001ebec0cb5aefbcd9eea9e7d11e2c24c7f69",
+          "reading768Sha256": "152648c6e75bc5659177f842b3b08281d5c7c5005213f2e1a1829f50454b7fce"
+        },
+        {
+          "pdfPage": 17,
+          "verdict": "PASS",
+          "nativeRenderSha256": "f972bc219592ba04f207fe62e3627de6dbd5be122a6c6ccb5702e3fd9df9e7d6",
+          "reading390Sha256": "71ed8f09e7b22f48bffe0776aef6d84efbd9626ecea6c668739d0d2d99325473",
+          "reading768Sha256": "e761c89f39045b5867a4e1df1f1db4a82ab0f868d33171597fb95179403ecca6"
+        },
+        {
+          "pdfPage": 18,
+          "verdict": "PASS",
+          "nativeRenderSha256": "1035a64cc14067da7c0401e1e000b5d9317a05d46fd5a040e3ab3b556b058648",
+          "reading390Sha256": "6e56411cd019f4852c172396900be67b3243336acbd7706a9a10fde4bf5b6b81",
+          "reading768Sha256": "be78644f048128cdf7dbc1c6250a1661c80edf793f5b49cd3de4817ee070abe4"
+        },
+        {
+          "pdfPage": 19,
+          "verdict": "PASS",
+          "nativeRenderSha256": "19183e7b4574953f050dc7be081da0944495aa6b5684da35ee8b9e4738d63188",
+          "reading390Sha256": "0bcf2f95d815f7fdc4f1c43fb06273efcbcd30c4c6b7f51935b94265398125c2",
+          "reading768Sha256": "be566081552a2d7037f128ede465d7c4f8df95fd38fe50c6e0cdf9977c548819"
+        },
+        {
+          "pdfPage": 20,
+          "verdict": "PASS",
+          "nativeRenderSha256": "fee4302be9054ebb1c912caac9d69dbd96bf2afe4bfe331810bc03b87ac4f5ec",
+          "reading390Sha256": "0fbd245ebbed45d665ccf7efbed53117472c4d2bcd0449b50b11333518a6f4e5",
+          "reading768Sha256": "32abc16a3fcbadb4087bc912c33b79c1a87c459766a5da66124a0305701d1700"
+        },
+        {
+          "pdfPage": 21,
+          "verdict": "PASS",
+          "nativeRenderSha256": "d8c7d7a39a66cff8df5d1c2a86a23c13f2f1151e70b97a7879a44acde7e64e63",
+          "reading390Sha256": "0f6687ede86d2f374fea83b404e841f4da95d800087b571d74d72b6519e071fb",
+          "reading768Sha256": "a3dc8d35564d00a6995783ca4f46ede3bfb9992eec3585a34fa7e405958076ee"
+        },
+        {
+          "pdfPage": 22,
+          "verdict": "PASS",
+          "nativeRenderSha256": "51ba87b0c51aa6a4b82339decf2ffa1d20eea7b7df2d69b35979c61a62a43c16",
+          "reading390Sha256": "9fe3a48b40dd437465ce0c3771f57b75f2cce5422388394d18149ef51020ff73",
+          "reading768Sha256": "6406b843766e3a66007a4189d7c0a12c29bfcc503799cf66a16ab664120d2a4f"
+        },
+        {
+          "pdfPage": 23,
+          "verdict": "PASS",
+          "nativeRenderSha256": "79ccfb63daa2806495a41f3dbe9f4f280f5b3b69c31665fb92886d0e4856ddc0",
+          "reading390Sha256": "9df3b6c9de87102f99227ae48c685c69f365d160d503fc34d00246917810067f",
+          "reading768Sha256": "6755b571db51a5f1c7cb4ae07398d20cde896432ec84f5ba52958d270a4ab4c1"
+        },
+        {
+          "pdfPage": 24,
+          "verdict": "PASS",
+          "nativeRenderSha256": "aa670e9b0949aedfb507faa9e7e52c2edde4408052df439af2af3f0ace74b678",
+          "reading390Sha256": "9df0d09a00ac7bd17e390e7f0125719418e2d3aa6b7c1e0d54c64be777eca488",
+          "reading768Sha256": "71d2d00e269a3dcc08e77e0d6e069f57c8ae48cf20e3024c79b9b95d5088428b"
+        },
+        {
+          "pdfPage": 25,
+          "verdict": "PASS",
+          "nativeRenderSha256": "ee0ee9c2eb2648e475e9067f54cd710adebddb6c78c0ae6b25d258fbdeceb811",
+          "reading390Sha256": "1085c7391c9c4e10bfe6052cc70aa3000cfaa0607f598999ff745a7fcfc06ab7",
+          "reading768Sha256": "ffab7e3e41cc242d5f019ce0539e76a910dba0a37c1a3c232c2edd737c8fe0d7"
+        },
+        {
+          "pdfPage": 26,
+          "verdict": "PASS",
+          "nativeRenderSha256": "648bf27ab7f04b4c029610caf76aa74ad3105ea61146b2eb7234711ebb9974df",
+          "reading390Sha256": "340d19aa87f445bcae4e998dd6b85114e82d5011d23d563238f7f1051b485933",
+          "reading768Sha256": "89bdb803d2d56cce0ac8c277f437725e193e1ef597d9305539c387f21e3fbca2"
+        }
+      ],
+      "unresolvedMaterialFindings": [],
+      "evidence": "All 26 actual PDF renders inspected directly in order at all three sizes. Full framing, aspect ratios, panel order, lettering, identities, state and transitions pass. The original cover, deliberate whitespace on comic 018, morning memory gap, explicitly framed testimony and completed final signature are preserved. Mechanical audit confirms one unaltered selected image per PDF page. No PDF or image regeneration was performed during final review.",
+      "independentReviewFileSha256": "f64fab385011f352c84d8a7f8fa770a915fb4d145a1ae633dd83ebe0447423a4"
     }
   }
 }
