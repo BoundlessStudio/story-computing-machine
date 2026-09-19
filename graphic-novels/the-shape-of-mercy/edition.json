@@ -1,6 +1,6 @@
 {
   "format": "graphic-novel-draft-manual",
-  "contractVersion": "0.6",
+  "contractVersion": "0.7",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
   "status": "page-production",
@@ -48,11 +48,11 @@
   },
   "style": {
     "path": "graphic-novels/STYLE.md",
-    "sha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f"
+    "sha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464"
   },
   "contract": {
     "path": ".agents/skills/graphic-novel-create/SKILL.md",
-    "sha256": "54e437d058244a5fe83547f53af88687d554c70136ad962b80b18418bb6fd8bc"
+    "sha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f"
   },
   "authority": [
     {
@@ -1480,8 +1480,8 @@
       "number": 17,
       "id": "page-017",
       "path": "pages/page-017.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
       "plannedInputs": [
         "R01",
         "R05",
@@ -1490,12 +1490,63 @@
         "P16"
       ],
       "framing": "Record stays outside Garran's reach; other siblings off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-017-attempt-01",
+        "page-017-attempt-02",
+        "page-017-attempt-03",
+        "page-017-attempt-04"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png",
+            "sha256": "4713bfa016030996c5f6536434bf22dd8a733326e52c1c69cd934392b83e5101",
+            "role": "complete-page target, recompose panel2 only to remove ambiguous Adrian arm"
+          },
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian19 current charcoal formal coat, ordinary hands, no magic"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+          },
+          {
+            "id": "R05",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "bd4807601679e19e7ec7bedda6470dfa347d5757783c304cdb084714e0a48ad5",
+        "evidence": "Independent PASS at native/390/768 for text, anatomy, restraint and source intent. P2 occluded grip is nonblocking across clear P1/P4 contact. Delivery-only instruction revision preserves prior approved visual scope."
+      },
+      "selectedAttempt": "page-017-attempt-04",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "reviewedAt": "2026-09-19T02:40:11.9853990Z",
+        "evidence": "Actual native/390/768: seven exact readable blocks, grief and refusal intact. Correct sole right bracelet and physical pin in1/4; close2 traces Garran right forearm with Adrian arms cropped out and Rowena sleeve at edge. No new gift/cut, record safe off-frame, night/slush/dark candles maintained."
       }
     },
     {
@@ -5503,6 +5554,335 @@
         "reviewFileSha256": "66143542ecabe7148d38aad921123e69116ab3dcb80fc649eb38b896c66f7d6f",
         "evidence": "Independent whole-page PASS at native/390/768: exact consent, signature, all four witnesses, hand ownership and corrected sleeve states; no blocking findings."
       }
+    },
+    {
+      "id": "page-017-attempt-01",
+      "assetId": "page-017",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T02:12:02Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait graphic-novel page, FOUR sequential panels. Bold crisp black contours, saturated flat colors, hard-edged shadows, clear white gutters. No photographic blur/bloom. GENEROUS LETTERING FIRST: actual uppercase cap height34–38px minimum, bold black comic type, readable at390px. Reserve ample white balloons for the longer dialogue, one yellow narration box. Use all exact text below and nothing else; no page number/title/SFX/prior-page words.\n\nLayout: top low bodily restraint frame; deeper second frame for two Adrian statements; short third refusal close-up; wider white gutter before substantial final promise frame. Four frames only. Same continuous N4→N5 NIGHT in damaged Hall. Reference4 is geometry only: ice now slumped/receding with OPEN routes, glass/slush/shallow narrow water channels and overturned furniture; all ordinary candles OUT. Dark navy sky/near-black trees through broken panes, ordinary wet embers outside only, NO magical white core or standing ward panes. No new flood.\n\nPANEL1: one instant AFTER Garran's attempted lunge, not motion montage. Current mature Garran is already on BOTH knees on wet stone, rain-soaked dark coat, angry/desperate toward approaching Adrian. Rowena physically kneels beside him and holds his anatomical RIGHT wrist down against floor with her plain hand. The sole dull metal focus bracelet on that RIGHT wrist touches wet stone. His RIGHT forearm follows a natural shoulder/elbow/wrist line, no backward twist/dislocation. Other LEFT hand may brace naturally; no second bracelet. Rowena's black silver-channel sleeves remain unlit; no spell, ropes, cuffs, extra restraints or injury.\nAdrian19 charcoal coat approaches from inner-Hall LEFT, Garran/threshold side RIGHT. Clear tail from Garran's exact balloon:\nYOU OWE ME.\nThe signed consent paper remains safely OFF-FRAME with siblings, never seized/torn/lost.\n\nPANEL2: Adrian at LEFT close enough to meet kneeling Garran's eyes at RIGHT. Rain in Garran's lashes. Rowena's same bodily restraint remains visible at lower edge, correct RIGHT bracelet. Adrian is serious, neither triumphant nor excusing his father. TWO separate exact Adrian balloons, first above second, clear tails to his face:\nI OWE YOU THE TRUTH THAT\nWHAT I DID WAS IRREVERSIBLE\nAND WITHOUT YOUR CONSENT.\nThen:\nI WAS NINE. YOU WERE HURTING\nPHOEBE. BOTH FACTS MATTER.\nGive this panel enough height for both large balloons plus faces/edge restraint. No flashback or depiction of childhood cut.\n\nPANEL3: close tense exchange, same left/right characters. Garran's hope breaks into grief, human rather than monstrous; he remains restrained below crop. Upper Garran balloon reads first:\nTHEN RESTORE ME.\nAdrian's lower reply, plain straight apostrophe:\nI CAN'T.\nShort noncrossing tails unambiguously identify both. No miraculous recovery, emitted magic or promised cure. No smile or victory pose.\n\nPANEL4: after WIDER WHITE GUTTER, Adrian has risen and turns away toward the OFF-FRAME beast/RIGHT orchard direction, ordinary hands relaxed. Show his turn/movement without threatening father. Garran remains alive, grieving on knees, held by Rowena in the background; no choking, facial injury or punishment tableau. Preserve right-wrist restraint/sole dull bracelet where visible. A slightly wider angle may show separation while keeping restraint coherent.\nAdrian exact large balloon:\nI WILL NOT CUT YOU AGAIN.\nTHERE IS NOTHING IN YOU\nI NEED TO CUT.\nYellow narration in generous clear lower band:\nHIS GRIEF WAS REAL.\nSO WAS THE STORMHART'S PAIN.\nBoth facts coexist; grief is real without absolving the coercion. No literal threads, weapon, severance effect, restored faculty or revenge framing.\n\nInputs:1 Adrian current19 charcoal;2 Rowena current mature black gown;3 Garran CURRENT lean graying rainworn father/right bracelet, NOT younger flashback;4 same damaged Hall geography overridden by N4/night state;5 previous accepted PAGE16 for established rendering/continuity ONLY. Do not copy any page16 lettering, witnesses, paper, signature or panel arrangement. Only Adrian, Garran and Rowena visible on this page; beast and siblings off-frame. Paper stays safe elsewhere. Keep exact facial identities, coherent hands/limbs, ordinary restraint and generous phone-readable text throughout.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal formal coat, ordinary hands, no magic"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "Hall damaged GEOMETRY only, N4/N5 override slumped ice/open routes/no magical fire/night/dark candles"
+        },
+        {
+          "id": "P16",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/pages/page-016.png",
+          "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+          "role": "preceding accepted page rendering/Adrian-Rowena identity/emotional continuity only; exclude all prior text, paper and other cast from new page"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Accepted Page16 native390768 inspected unchanged; R06 actual CURRENT/right bracelet pixels refreshed; R01/R05/R09 inspected unchanged, five hashes verified.",
+        "composition": "Four panels, deeper second for two statements and wider gutter before final. Body-only restraint of kneeling Garran RIGHT wrist, ordinary anatomy/sole dull bracelet. N4/N5 night/slumped ice overrides N3 ref; paper safe off-frame, no new cut/restoration.",
+        "sourceMoment": "Approved Page17/source297-313 read, seven exact text units with plan ASCII apostrophes. Irreversible loss, childhood context and refusal of another cut preserved."
+      },
+      "candidatePath": null,
+      "dimensions": {
+        "opaque": true,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "width": 1024
+      },
+      "producerInspection": {
+        "findings": [
+          "Exact seven text blocks, bodily restraint/grief/refusal beats and N4 night preserved.",
+          "Garran pinned/braceleted wrist is anatomical LEFT in1/2/4, must be RIGHT; coordinated Rowena pose repair required.",
+          "Tiny head-table candle flames require extinction. Coordinator finds typography readable, no unrelated changes."
+        ],
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Targeted correction required; coordinator concurs.",
+        "inspectedAt": "2026-09-19T02:19:10Z"
+      },
+      "status": "needs-correction",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b88ff7c3-7c1a-4e68-b51c-10429ab9d883.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-b88ff7c3-7c1a-4e68-b51c-10429ab9d883.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "outputSha256": "bfd16df3eee552f46653b03c166e97ea90f6e551bb526680009d2c4d8f366ec6",
+      "completedAt": "2026-09-19T02:19:10Z",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b88ff7c3-7c1a-4e68-b51c-10429ab9d883.png"
+    },
+    {
+      "id": "page-017-attempt-02",
+      "assetId": "page-017",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T02:19:10Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Targeted coherent POSE/LATERALITY correction only to the complete1024x1536 four-panel comic page image1. Preserve all seven exact text blocks, current readable font/balloons/tails, Adrian's positions/identity, facial grief, night setting and all passing art.\n\nGarran is front-facing or three-quarter front. In panels1,2 and4 his pinned bracelet wrist is incorrectly screen-RIGHT/anatomical LEFT. Correct it to his anatomical RIGHT, screen-LEFT. Do NOT merely add a second bracelet.\n\nPANEL1: relocate Rowena from his screen-right side to BEHIND/AT his RIGHT SHOULDER, screen-left of Garran. She physically kneels beside/behind him, reaches naturally down and pins his RIGHT wrist to wet stone. The sole DULL metal bracelet is on that RIGHT wrist and touches floor. Remove bracelet AND her restraining hand from the LEFT wrist entirely; LEFT hand is plain, unadorned and supports him naturally on floor. Preserve Garran on both knees and his face looking toward Adrian left. Coherent shoulder–elbow–wrist anatomy, no twist/dislocation/extra limb or restraint. Fill Rowena's vacated old position with existing ordinary room/floor, no ghost duplicate.\n\nPANEL2: maintain that SAME corrected physical arrangement. Garran RIGHT bracelet/wrist held at the lower screen-left edge of his body. Rowena is behind/at his RIGHT shoulder, partly cropped if necessary; edge of her gripping hand/right-wrist restraint remains visible. Do not relocate Adrian or alter their face/eyeline exchange. Garran LEFT wrist plain, no bracelet or grip there.\n\nPANEL3: close face exchange/text unchanged. If old Rowena sleeve remains at far-right edge inconsistent with new position, replace ONLY that obsolete robe fragment with ordinary dark room; do not change either face or add another hand.\n\nPANEL4: same corrected Rowena-behind-RIGHT-shoulder restraint, RIGHT bracelet wrist on floor, LEFT hand plain supporting. Garran still alive/grieving on knees. Adrian remains standing/turned away in existing foreground position. No release, spell, magical restraint, cuffs/rope or new injury.\n\nExtinguish the tiny ordinary head-table candle flames visible in panel1; all candle wicks throughout remain dark. Do not alter outside ordinary wet embers/night color or restore magical white ashfire.\n\nInputs:1 target,2 Rowena current black/silver-channel gown and identity,3 Garran CURRENT lean rainworn/right-bracelet identity, not younger state. Preserve all exact words, punctuation, seven units, four panels, no new lettering/SFX, no paper or cut/restoration. Keep current readable lettering, crisp contours/flat colors. Only this coordinated restraint repair and tiny candle extinction.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b88ff7c3-7c1a-4e68-b51c-10429ab9d883.png",
+          "sha256": "bfd16df3eee552f46653b03c166e97ea90f6e551bb526680009d2c4d8f366ec6",
+          "role": "complete-page target, coordinated RIGHT wrist restraint repair only plus tiny candle extinction"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "RIGHT wrist/sole dull bracelet physically pinned after lunge; no cut/restoration/paper loss.",
+        "inputPixels": "Target native390768 and actual R05/R06 current pixels inspected; hashes verified. Coordinator concurs.",
+        "composition": "Move Rowena to Garran right/screen-left in1/2/4; left plain hand supports. Preserve all words/Adrian/grief/night and extinguish tiny interior flames."
+      },
+      "candidatePath": null,
+      "completedAt": "2026-09-19T02:23:21Z",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d6757d-8bf0-458e-9b7e-42303dec9453.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-b0d6757d-8bf0-458e-9b7e-42303dec9453.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "findings": [
+          "Panels1/4 now correct RIGHT bracelet/wrist pin, left plain support; candle flames gone, all seven texts/grief preserved.",
+          "Panel2 retained old Rowena on wrong anatomical-left side. Tight face/balloon space makes full relocation awkward; crop Rowena body and show only correct silver-sleeved right-wrist grip at lower edge."
+        ],
+        "inspectedAt": "2026-09-19T02:23:21Z",
+        "disposition": "Targeted correction required; coordinator concurs.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "outputSha256": "88f5187aeff1eb1b40bae96bd2256ea3050688ac2c8b6d2507a4c2dfe647129f",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d6757d-8bf0-458e-9b7e-42303dec9453.png",
+      "dimensions": {
+        "opaque": true,
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24"
+      },
+      "status": "needs-correction"
+    },
+    {
+      "id": "page-017-attempt-03",
+      "assetId": "page-017",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T02:23:21Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Correct PANEL2 ONLY of image1, the complete1024x1536 four-panel comic page. Panels1,3,4 must remain unchanged, including their now-correct right-wrist restraint, exact lettering, faces, night and dark candles.\n\nIn panel2 Rowena is still on Garran's wrong anatomical LEFT/screen-RIGHT side. Remove ONLY that old Rowena figure and her gripping hand from the far-RIGHT background; fill vacated space with the existing dark ruined Hall. Preserve Garran's and Adrian's faces, their positions/eyelines, and both exact Adrian balloons.\n\nDo not force Rowena's full face into this crowded dialogue panel. Instead her body remains cropped/occluded BEHIND Garran's anatomical RIGHT shoulder (screen-LEFT), consistent with panels1 and4. Show just her recognizably black-and-silver-sleeved forearm/hand at the LOWER screen-left edge of Garran's body, pinning his RIGHT wrist to wet stone. Garran's RIGHT forearm must be traceably connected from his screen-left shoulder toward that lower edge. The sole dull bracelet is on that RIGHT wrist. Use a slight local lower-edge framing adjustment if needed to make the grip clear, without moving faces or balloons.\nGarran's LEFT wrist is plain/unrestrained; no bracelet there, no duplicate Rowena/hand, no twisted/dislocated arm. This is ordinary bodily restraint, no spell or extra binding.\n\nFrozen invariants: panel1 Rowena at Garran RIGHT/screen-left with RIGHT-bracelet floor pin; panel2 same arrangement with Rowena mostly cropped; panel3 no obsolete Rowena robe on wrong side; panel4 same correct RIGHT pin. Adrian unchanged in all four. ALL SEVEN text blocks stay exact and same readable size. No changes to grief, night, floor, paper-offframe state or absence of new cut/restoration.\n\nInputs1target,2Rowena identity/silver sleeve,3Garran CURRENT identity/sole RIGHT bracelet. No new people/text, preserve1024x1536.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d6757d-8bf0-458e-9b7e-42303dec9453.png",
+          "sha256": "88f5187aeff1eb1b40bae96bd2256ea3050688ac2c8b6d2507a4c2dfe647129f",
+          "role": "complete-page target, panel2 remaining wrong-side Rowena restraint only"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Same source Page17 right wrist body restraint, no new cut/restoration.",
+        "inputPixels": "Whole output native390768 checked; accepted R05/R06 current pixels/hashes verified.",
+        "composition": "P2 only: remove old wrong-side Rowena figure, show correctly placed lower-edge grip with her body offcrop. Freeze other3frames/words/identities."
+      },
+      "producerInspection": {
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "inspectedAt": "2026-09-19T02:27:26Z",
+        "disposition": "Targeted correction required; coordinator concurs.",
+        "findings": [
+          "Other panels/words remain correct, but panel2 grip/bracelet attached to Adrian instead of Garran.",
+          "After two constrained repairs, diagnosed similar dark coats and fixed tight pose causing ambiguous lower-left arm. Coordinator authorizes local panel2 reframing: Adrian arms offcrop, Garran traceable right arm to pinned wrist."
+        ]
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "outputSha256": "4713bfa016030996c5f6536434bf22dd8a733326e52c1c69cd934392b83e5101",
+      "completedAt": "2026-09-19T02:27:26Z",
+      "status": "needs-correction",
+      "candidatePath": null,
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png",
+      "dimensions": {
+        "width": 1024,
+        "opaque": true,
+        "height": 1536,
+        "pixelFormat": "RGB24"
+      }
+    },
+    {
+      "id": "page-017-attempt-04",
+      "assetId": "page-017",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T02:27:26Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "RECOMPOSE PANEL2 ONLY of this four-panel comic page to remove ambiguous arm ownership. Keep panels1,3,4 EXACTLY unchanged. Keep both panel2 spoken statements exact and clearly readable, same speaker Adrian.\n\nPANEL2 new framing: Adrian19 is a CLOSE FOREGROUND HEAD-AND-SHOULDER PROFILE ONLY at the LEFT edge looking RIGHT at his father. Crop Adrian at upper chest: BOTH his arms and hands are entirely OUTSIDE the frame. Absolutely no bracelet/hand/grip attached to Adrian. Remove the current incorrect bracelet and silver-sleeved grip from him.\n\nGarran, the older graying rainworn father, is at RIGHT, kneeling. Pull back/reframe his body enough to show ONE continuous anatomically coherent RIGHT shoulder→upper arm→elbow→forearm→wrist reaching to wet floor at LOWER CENTER. The RIGHT arm is the screen-left side of his own torso. His sole dull metal bracelet is on THAT wrist. Make its connection to GARRAN'S shoulder obvious; no detached arm. His LEFT arm may remain cropped, no bracelet there.\n\nRowena is behind Garran's RIGHT shoulder, mostly cropped/hidden. Her black sleeve with silver stitched channels leads to her plain hand pressing GARRAN'S right bracelet-wrist against the floor at lower center. No Rowena face is required. Make the restraint small but legible and ordinary, not spell/rope/handcuff. The camera adjustment is authorized to make this single traceable right arm visible, so do not preserve the old confusing forearm arrangement.\n\nTwo Adrian balloons, reading top to bottom, with tails to his cropped left-side face:\nI OWE YOU THE TRUTH THAT WHAT I DID WAS IRREVERSIBLE AND WITHOUT YOUR CONSENT.\nI WAS NINE. YOU WERE HURTING PHOEBE. BOTH FACTS MATTER.\nPreserve exact punctuation and same font size; natural line breaks permitted. Keep Garran's grief and eye contact. Same dark-night ruined Hall, wet stone, no lit candles/magic/paper/new cut.\n\nFrozen outside panel2: panel1 and4 Rowena correctly pins Garran RIGHT bracelet wrist, LEFT plain hand supports; panel3 face exchange; all their lettering, identities, colors, gutter structure and scene states unchanged. Inputs1target,2Adrian current identity,3Garran CURRENT/right bracelet,4Rowena/silver sleeve. Keep1024x1536.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png",
+          "sha256": "4713bfa016030996c5f6536434bf22dd8a733326e52c1c69cd934392b83e5101",
+          "role": "complete-page target, recompose panel2 only to remove ambiguous Adrian arm"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal formal coat, ordinary hands, no magic"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Right-wrist bodily restraint after lunge, Adrian approaches without being restrained; same seven exact text units.",
+        "inputPixels": "Whole output native390768 inspected; actual R01/R06/R05 selected pixels/hashes current.",
+        "composition": "Change cause by recomposing panel2 with Adrian head/shoulder only, fully offcrop arms, complete visible Garran right arm chain and Rowena silver-sleeved grip. Freeze1/3/4."
+      },
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "opaque": true,
+        "pixelFormat": "RGB24"
+      },
+      "outputSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+      "status": "selected",
+      "producerInspection": {
+        "findings": [
+          "All four frames/seven exact text blocks and speakers preserved; readable390 wording, source irreversible loss/refusal/grief beats intact.",
+          "P1/P4 Rowena correctly pins Garran anatomical RIGHT wrist with sole dull bracelet to floor, LEFT hand plain supporting; no injury/magical restraint.",
+          "P2 reframed Adrian head/shoulder only with all arms offcrop; Garran RIGHT shoulder-elbow-forearm-bracelet wrist traceable, no restraint on Adrian. Rowena silver sleeve visible behind right arm, her actual hand largely occluded at edge; disclose this for independent assessment rather than repeat speculative repair.",
+          "Night navy exterior/damaged Hall/slumped ice/wet floor, ordinary embers/no magical core, all interior candles dark. No new cut/restoration/paper or sibling exposure.",
+          "Full-page collateral check confirms P1/P3/P4 text/identity/pose states retained after local P2 reframing."
+        ],
+        "inspectedAt": "2026-09-19T02:32:03Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Suitable review candidate with P2 hand occlusion disclosed; no independent PASS claimed."
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-d146603c-d19d-448d-8813-b2beb17e6263.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-d146603c-d19d-448d-8813-b2beb17e6263.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-d146603c-d19d-448d-8813-b2beb17e6263.png",
+      "completedAt": "2026-09-19T02:32:03Z",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-017.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-2e6e7ec6-7cbe-40dd-94eb-2f1280008bc2.png",
+            "sha256": "4713bfa016030996c5f6536434bf22dd8a733326e52c1c69cd934392b83e5101",
+            "role": "complete-page target, recompose panel2 only to remove ambiguous Adrian arm"
+          },
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian19 current charcoal formal coat, ordinary hands, no magic"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "Garran CURRENT lean mature/rainworn/graying, wet dark coat, sole dull focus bracelet on anatomical RIGHT wrist"
+          },
+          {
+            "id": "R05",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena current black high-collared gown/unlit silver sleeves, purely bodily wrist restraint"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "bd4807601679e19e7ec7bedda6470dfa347d5757783c304cdb084714e0a48ad5",
+        "evidence": "Independent PASS at native/390/768 for text, anatomy, restraint and source intent. P2 occluded grip is nonblocking across clear P1/P4 contact. Delivery-only instruction revision preserves prior approved visual scope."
+      }
     }
   ],
   "approvals": {
@@ -5557,7 +5937,141 @@
       "status": "pending",
       "userResponse": null,
       "binding": null
-    }
+    },
+    "deliveryChanges": [
+      {
+        "scope": "delivery-only",
+        "userResponse": "make sure to update the instructions to remove need for the HTML preview and/or add instructions not to do that and do the PDF instead AND MAKE SURE TO ONLY GENERATE THE PDF once at the end of the image generation.",
+        "recordedAt": "2026-09-19T02:33:22.8319326Z",
+        "instructionCommit": "a69f30c",
+        "previousBinding": {
+          "contractVersion": "0.6",
+          "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+          "contractSha256": "54e437d058244a5fe83547f53af88687d554c70136ad962b80b18418bb6fd8bc"
+        },
+        "binding": {
+          "contractVersion": "0.7",
+          "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+          "contractSha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f",
+          "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+          "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+          "coverSha256": "fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9"
+        },
+        "effect": "HTML previews prohibited. Generate the PDF exactly once at the end, after all image generation, corrections, required image reviews and ordered-image checks. Existing visual instructions, approved script/counts, source and accepted image bytes are unchanged.",
+        "preservedIndependentPages": [
+          {
+            "id": "page-001",
+            "sha256": "b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65"
+          },
+          {
+            "id": "page-002",
+            "sha256": "fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce"
+          },
+          {
+            "id": "page-003",
+            "sha256": "7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65"
+          },
+          {
+            "id": "page-004",
+            "sha256": "83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66"
+          },
+          {
+            "id": "page-005",
+            "sha256": "33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c"
+          },
+          {
+            "id": "page-006",
+            "sha256": "15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68"
+          },
+          {
+            "id": "page-007",
+            "sha256": "57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee"
+          },
+          {
+            "id": "page-008",
+            "sha256": "f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874"
+          },
+          {
+            "id": "page-009",
+            "sha256": "79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965"
+          },
+          {
+            "id": "page-010",
+            "sha256": "63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405"
+          },
+          {
+            "id": "page-011",
+            "sha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34"
+          },
+          {
+            "id": "page-012",
+            "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e"
+          },
+          {
+            "id": "page-013",
+            "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07"
+          },
+          {
+            "id": "page-014",
+            "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867"
+          },
+          {
+            "id": "page-015",
+            "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd"
+          },
+          {
+            "id": "page-016",
+            "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc"
+          }
+        ],
+        "preservedReferences": [
+          {
+            "id": "R01",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3"
+          },
+          {
+            "id": "R02",
+            "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5"
+          },
+          {
+            "id": "R03",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f"
+          },
+          {
+            "id": "R04",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251"
+          },
+          {
+            "id": "R05",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f"
+          },
+          {
+            "id": "R06",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0"
+          },
+          {
+            "id": "R07",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6"
+          },
+          {
+            "id": "R08",
+            "sha256": "d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051"
+          },
+          {
+            "id": "R09",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323"
+          },
+          {
+            "id": "R10",
+            "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272"
+          },
+          {
+            "id": "R12",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df"
+          }
+        ]
+      }
+    ]
   },
   "preflightReview": {
     "scope": "complete-adaptation-plan",
@@ -5618,6 +6132,14 @@
       "page-023",
       "page-024",
       "page-025"
-    ]
+    ],
+    "pdfGeneration": {
+      "policy": "exactly-once-after-all-image-work-and-reviews",
+      "attemptedCount": 0,
+      "completedCount": 0,
+      "status": "not-started",
+      "history": [],
+      "htmlPreviews": "prohibited"
+    }
   }
 }

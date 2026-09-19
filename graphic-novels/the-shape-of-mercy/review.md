@@ -420,3 +420,18 @@ SHA-256 bindings:
 - QA `exec-8475a838-d4dd-477c-89fe-87b73602990e-390.png` `df6e1a27c2a3720efb793820a5b1a2f167a3f26929cc02f6b10c5171676d1bff`; corresponding `-768.png` `b2607140571c71e32aeebce1ef7e646700b3cee1d84bea8d8acbdb15b159cdd4` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 017 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 017 independent pixel review — 2026-09-18
+
+**PASS**, attempt 04. Reviewer `/root/mercy_plan_review` independently inspected the complete saved page at native, 768 px and 390 px against approved Page 17/source 297–313, predecessor, actual edit target and accepted reference pixels.
+
+All seven exact text blocks, punctuation, tails and reading order pass at reading size. Rowena's physical right-wrist pin is clear in panels 1 and 4. In panel 2, Garran's right forearm and dull bracelet remain traceable to his body; Rowena's silver sleeve continues behind it, with the gripping hand occluded. That crop preserves restraint continuity and introduces neither an extra Adrian arm nor a release. Bodies, hands, faces and costumes remain coherent. The exchange acknowledges irreversible harm and real grief while retaining Phoebe's abuse and the stormhart's pain; no restoration, further cut, spell or paper loss is depicted. N4/N5 night, slush, open routes, ordinary outside embers and dark candles hold. Graphic contours, flat color/shadows, gutters and uppercase lettering remain consistent. No material blocker found.
+
+SHA-256 bindings:
+
+- Candidate `f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d`; predecessor 016/P16 `7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; current STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual attempt 04 target `4713bfa016030996c5f6536434bf22dd8a733326e52c1c69cd934392b83e5101`, plus R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`, R06 `e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0`, R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`. Inherited environment R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323` and P16 above.
+- QA `exec-d146603c-d19d-448d-8813-b2beb17e6263-390.png` `061943498969cfb21f67862af0765542d802d88c86735516086e08dfdc93da5a`; corresponding `-768.png` `2825ef23668398db295d0f7c9720166ad7c7a29366a6e15d8c02ff37c06ac7a7` in the previously recorded temporary QA directory.
+
+Delivery-only update acknowledged: no HTML previews; generate the PDF exactly once after all image work/reviews/order checks. It does not invalidate unaffected earlier art. Page-only PASS; page 018 onward/PDF NOT REVIEWED. No user approval implied.
