@@ -301,3 +301,21 @@ SHA-256 bindings:
 - Temporary QA `exec-51904ec4-222e-471e-b15c-f64a4f96fbd9-390.png` `67c21442d4bb308850657dfd86a2620a6e8063a6db833dc1e678f163068f25c8`; corresponding `-768.png` `c5b9d97c0d9d38d1ad81e945a81a3e8e7aae07c026d06f8a6614828766b30c7a`, in the previously recorded temporary QA directory.
 
 This passes page 010 only for these bytes. Page 011 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
+
+## Page 011 independent pixel review — 2026-09-18
+
+- **Verdict: PASS.** Selected `pages/page-011.png`, attempt 02, SHA-256 `eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34`, 1024 × 1536.
+- Reviewer: `/root/mercy_plan_review`, independent `graphic_novel_reviewer`; not the producer. Inspected every panel and visible word at native, 768 px and approximately 390 px widths; reread approved Page 11 and source lines 191–207 with adjacent context. Compared preceding accepted page 010 and previously inspected actual R01/R02/R03/R05/R09 at verified unchanged hashes. The complete approved script/coverage remains applicable. Only `review.md` is written.
+- **Text and sequence: PASS.** All six exact blocks preserve wording, punctuation and both em dashes. Dialogue and yellow narration remain readable at 390 px. Tails assign Evelyn's admission, Rowena's claim, Adrian's two challenges and Rowena's final answer correctly. Panel 2 reads Rowena first, then Adrian below; panel 3 reads the caption before Adrian's accusation. Four distinct present-time frames, white gutters and the final isolated close-up keep the exchange clear without inset or overlap confusion.
+- **Source intent: PASS.** Evelyn explicitly places agreement after each cut began and places question, answer and completion inside the lost interval. The page invents neither testing equipment nor a testing flashback. Past avoidance remains Adrian's narrated realization over present figures. Rowena's strained final expression and unsparing `BOTH` retain fear for Adrian alongside fear of him; the framing does not resolve the admission into reassurance or exoneration.
+- **Anatomy, states and continuity: PASS.** Marcus's corrected panel 3 torso has a clear centerline: his anatomical left sleeve is iced on the viewer's right, while his normal right hand supports that forearm. Hand/arm ownership is coherent and he does not touch Adrian. Evelyn's scorched left glove remains worn in panels 1 and 3, with her right hand bare; her withdrawn hand remains separated from Adrian. Rowena's silver channels are unlit. Faces, ages, hair and clothing hold. N3 retains broken windows, physical ice, glass/slush, dark candles and outside ashfire, without restored projected wards or literal magical ropes.
+- **Rendering: PASS.** Crisp black contours, flat saturated fills, hard graphic shadows, white gutters, yellow narration and uppercase lettering follow the accepted edition style. The whole edited page shows no blocking collateral change.
+
+SHA-256 bindings:
+
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Preceding page 010 `63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405`.
+- R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`.
+- Temporary QA `exec-9ad1178e-5177-409a-ba05-1bcec77c9103-390.png` `a5bf038f136269e467e9f9f216b6c82bfc45a70dd446783e4ab07ff907389084`; corresponding `-768.png` `9e637fc3a83c20b8abda342cc7a605a85bca0ce4c16eca3108eec80e5ee58373`, in the previously recorded temporary QA directory.
+
+This passes page 011 only for these bytes. Page 012 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
