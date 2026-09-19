@@ -318,14 +318,20 @@ Existing source covers and compatible same-story artwork may supply inspected,
 versioned references; never silently inherit stale art or a prior edition's
 visual departures. Generate one reference or one complete comic page per built-in
 image-tool call and inspect its actual pixels. Page N must pass independent
-review before page N+1 is generated. Assemble the selected cover and all ordered
-comic-page images into `edition.pdf`, one image per PDF page, with no omissions
-or duplicates and no cropping or stretching. References remain production assets
+review before page N+1 is generated. Finish all image generation, corrections,
+image reviews and ordered-image checks before generating `edition.pdf` exactly
+once at the end. Do not create partial, intermediate or progress PDFs, or
+automatically rebuild the PDF. Assemble the selected cover and all ordered
+comic-page images, one image per PDF page, with no omissions or duplicates and
+no cropping or stretching. References remain production assets
 unless the user expressly requests an appendix. Use the PDF skill, inspect every
 rendered PDF page at full and reading sizes, and obtain a fresh independent
-complete-book review. Bind final user approval to the actual PDF hash. An HTML
-preview is optional temporary production material outside the package, not the
-final deliverable. Keep exact panel transcripts in the existing plan.
+complete-book review. Rendering the existing PDF for inspection does not regenerate
+it. A later correction does not authorize a second PDF generation; that requires
+the user to explicitly change the single-generation instruction. Bind final user
+approval to the actual PDF hash. Do not create, serve or open HTML previews for
+GN, including temporary previews outside the package. Inspect the image files
+directly during production and keep exact panel transcripts in the existing plan.
 PDF is the required final GN output. The draft has no comic generation CLI or
 automated lifecycle validator. After final approval, named
 `python pages/build.py capture-graphic-novel <edition-slug>` stores the reviewed

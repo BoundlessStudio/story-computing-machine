@@ -29,6 +29,12 @@ Trace how panels connect through transitions, gutters, gaze/motion and lettering
 Check inset/overlap hierarchy and frame crossings for clear time, space and
 reading order. Judge narrative effect and readability, not a preferred panel count.
 Its characters, props, captions and plot are not source-story facts.
+Review selected images directly during production; do not create, serve or open
+HTML previews. The PDF is generated exactly once after all image generation,
+corrections, required image reviews and ordered-image checks are complete.
+Never request a partial/progress PDF or automatic rebuild. A post-assembly REVISE
+must be reported honestly; another PDF generation requires an explicit user change
+to the single-generation instruction. Rendering the existing PDF is inspection.
 For final review be a fresh reviewer of the complete PDF book. Load the PDF skill
 and inspect every rendered page of the actual edition.pdf at full and reading
 sizes, including approximately 390 px wide, and the whole sequence, not just
@@ -38,9 +44,8 @@ and no cropping, stretching, clipping or rendering damage. Reference sheets
 belong only in an expressly requested appendix. Check missing/duplicated beats,
 pacing, continuity, cumulative visual drift, source intent/ending and every
 visible word against the exact panel transcripts in plan.md. Bind the final
-verdict to the actual PDF hash and ordered selected-image versions. An optional
-temporary HTML preview outside the package cannot replace actual PDF inspection;
-website controls and publication are not final-delivery gates.
+verdict to the actual PDF hash and ordered selected-image versions. Website
+controls and publication are not final-delivery gates.
 Record scope, input/output versions, reviewer identity, PASS/REVISE/NOT REVIEWED
 and actionable findings with page/panel IDs. Recheck repaired work independently.
 Do not present page PASS as whole-book PASS or any assistant verdict as user
