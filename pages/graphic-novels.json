@@ -16,6 +16,22 @@
         "sha256": "ee687d00a72edbb95cfbf651a41f11d362fc38d3880f5b5be59454709d081656",
         "pages": 25
       }
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "title": "The Shape of Mercy",
+      "source": {
+        "slug": "the-shape-of-mercy",
+        "title": "The Shape of Mercy",
+        "layout": "bundle",
+        "canon": true,
+        "proseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a"
+      },
+      "pdf": {
+        "path": "graphic-novels/the-shape-of-mercy/edition.pdf",
+        "sha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
+        "pages": 26
+      }
     }
   ]
 }

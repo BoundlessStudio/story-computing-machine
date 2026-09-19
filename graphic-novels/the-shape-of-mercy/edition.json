@@ -3,7 +3,7 @@
   "contractVersion": "0.7",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
-  "status": "awaiting-final-approval",
+  "status": "approved",
   "createdAt": "2026-09-18T18:37:05.8498501Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
   "branch": "codex/graphic-novel-the-shape-of-mercy",
@@ -7584,8 +7584,8 @@
       "approvedAt": "2026-09-18T19:20:41.8217987Z"
     },
     "final": {
-      "status": "pending",
-      "userResponse": null,
+      "status": "approved",
+      "userResponse": "open PR",
       "binding": {
         "pdfPath": "edition.pdf",
         "pdfSha256": "4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d",
@@ -7728,7 +7728,9 @@
         "contractSha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f",
         "independentReviewFileSha256": "f64fab385011f352c84d8a7f8fa770a915fb4d145a1ae633dd83ebe0447423a4"
       },
-      "preparedAt": "2026-09-19T01:47:59.655828-04:00"
+      "preparedAt": "2026-09-19T01:47:59.655828-04:00",
+      "approvedAt": "2026-09-19T02:50:25.008542-04:00",
+      "authorizationContext": "The user replied \"open PR\" directly after presentation of this exact independently passing 26-page PDF and the request to approve it for publication. This authorizes staging its download in the requested draft pull request; it does not authorize merging."
     },
     "deliveryChanges": [
       {
