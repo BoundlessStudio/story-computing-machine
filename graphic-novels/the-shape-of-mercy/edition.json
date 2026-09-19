@@ -1137,8 +1137,8 @@
       "number": 12,
       "id": "page-012",
       "path": "pages/page-012.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
       "plannedInputs": [
         "R01",
         "R04",
@@ -1147,12 +1147,68 @@
         "R07"
       ],
       "framing": "Five identities, tight local views; no wide new geography",
-      "attempts": [],
+      "attempts": [
+        "page-012-attempt-01",
+        "page-012-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34",
+        "inputImages": [
+          {
+            "id": "page-012-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png",
+            "sha256": "6a2c4ed0ca57482ed9c38ba024edd7361f10656791ac1408d59267e6bb20fa60",
+            "role": "primary complete-page edit target; preserve actors/action/right-wrist gesture/exact text, repair stated defects"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "actual damaged Hall N3 background geometry/state, shattered panes/overturned table/glass/slush/dark candles/physical ice"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "preserve living translucent stormhart identity/antlers/native silver currents/scar during top-panel pullback"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "preserve CURRENT Garran identity and sole dull anatomical RIGHT-wrist focus pulled by LEFT hand; no emission"
+          },
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "preserve Adrian current charcoal coat identity/flat GN rendering; no headings or morning state"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b660c015f8567e27a63761aa2a8766759e2ff47717a304fed9b166e862243cec",
+        "evidence": "Independent native/390/768 PASS: exacttext, braceletcontact, physicaliceimpact, damagedHall and subjectiveuncutoverlays clear; no blockers."
+      },
+      "selectedAttempt": "page-012-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "reviewedAt": "2026-09-19T00:22:49.9617403Z",
+        "evidence": "Inspected entire corrected actual native/390/768: five exactblocks now readable; LEFT hand pulls dull RIGHTbracelet, antlers impact ice with native storm alive, Phoebe throatpain, Rowena physically blocksline; N3brokenpanes/darkcandles/glass+slush/debris restored. Final flat connectioncontours read as subjective uncutperception with no tactile grip/severance/giftloss. Allfigures and actionremain consistent."
       }
     },
     {
@@ -4028,6 +4084,217 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "d8db7f2ebe24aa81f84620520d93c2b477ea7cc2d3d204cba840d9b323fa6bc9",
         "evidence": "Independent native/390/768 PASS, exacttext/attribution, consent timing, current character states and corrected MarcusLEFTinjury checked; no blockers."
+      }
+    },
+    {
+      "id": "page-012-attempt-01",
+      "assetId": "page-012",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T00:05:38Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete 1024x1536 portrait graphic-novel page, FOUR panels. LARGE LETTERING FIRST: nominal48–52px bold uppercase comic font, ACTUAL cap height34–40px minimum, readable at390px page width. Generous white balloons and yellow narration boxes; short lines, adequate panel space, never shrink letters. Crisp bold black contours, saturated flat fills, hard-edged shadows, clean white gutters. No blur/bloom/photographic style.\n\nEXACTLY FIVE visible text blocks; PANEL1 is SILENT:\nPANEL2 Garran white speech:\nTAKE EVELYN'S FIRE.\nTAKE MARCUS'S COLD.\nSTRIP ROWENA'S WARDS.\nGIVE THEM THE MERCY\nTHEY GAVE ME.\nPANEL3 Rowena white speech first:\nADRIAN, DO NOTHING.\nPANEL3 yellow Adrian narration second:\nBOTH WERE CERTAIN\nMY CHOICE BELONGED\nTO THEM.\nPANEL4 yellow Adrian narration first:\nI COULD MAKE EVERYTHING STOP.\nHARMLESS WAS WHAT FRIGHTENED\nPEOPLE CALLED SOMEONE\nTHEY HAD DIMINISHED.\nPANEL4 separate yellow narration second:\nSAFE WAS HARDER.\nPreserve every word/apostrophe/comma/period. No other text, labels, page number or SFX. These thoughts show temptation, NEVER a performed mass cut.\n\nFive actual attached references:\n1 Adrian current19, charcoal formal coat/white shirt, short dark uneven hair.\n2 Phoebe current AGE16 ONLY, green tunic/loose dark ponytail; exclude age6/morning.\n3 Rowena mature graying swept-back hair, dark high-collared gown with ordinary UNLIT silver sleeve channels.\n4 Garran CURRENT lean mature graying rain-soaked face/dark coat; sole dull nonliving metal focus on anatomical RIGHT wrist. No younger state.\n5 Stormhart larger than a carriage horse, smooth translucent storm-blue hide/internal silver currents, branching winter-tree antlers, old curved scar around throat. Native lightning belongs to its body/antlers.\nKeep all actual identities/rendering. No reference labels or extra named cast.\n\nN3 GEOGRAPHY THROUGHOUT: same warm-stone ceremonial Hall with timber roof, surviving pillar/far gallery LEFT, shattered tall orchard windows/broad broken orchard doors RIGHT. Family hall-side LEFT; Garran and beast remain threat/threshold-side RIGHT. Physical thick water-ice barrier separates beast from far-gallery guests off-frame LEFT. Tables overturned, glass/slush, dark extinguished candles, no active projected ward panes. Outside ashfire still burns through broken windows. No new fire/flood or creature teleportation.\n\nLAYOUT: Four ordered horizontal frames of varied heights: broad silent impact about430px, Garran invitation about290px, Rowena intervention about310px, larger quiet subjective choice about430px. Black panel borders confine competing commands; noticeably broader WHITE gutter before last frame releases visual pressure. No inset/flashback/imagined severance.\n\nPANEL1, exact simultaneous impact: Garran at RIGHT pulls the dull bracelet ON HIS ANATOMICAL RIGHT WRIST with his LEFT hand. Both hands/wrist orientation readable; bracelet stays attached, no glow/emitted power. Behind/beside him, huge stormhart lowers head from threshold-right toward LEFT and drives branching antlers INTO the thick physical ice barrier. Show actual tine-to-ice CONTACT and radiating cracks travelling LEFT toward off-frame gallery guests, not antlers floating in air. Keep antler silhouette inside frame. Phoebe at LEFT frame edge winces at throat pain, green tunic/age16, one hand near throat; no wound/nosebleed yet. Native silver/blue currents in beast remain alive. No physical command rope, collar or magical lash.\n\nPANEL2: Garran at RIGHT addresses off-frame Adrian to LEFT over the beast's lowered blue flank across the lower foreground. His five-line balloon uses generous open LEFT/upper space with short tail to Garran. His invitation is coercive speech, not power. Dull right bracelet if visible; beast remains present, not subdued/dead. No Evelyn or Marcus appears when he names them.\n\nPANEL3: Rowena physically steps into the line between Adrian LEFT and Garran RIGHT, blocking their sight with her own body. Adrian faces her; Garran may be partial at far-right. Her first speech balloon above, clearly tailed to her; yellow narration below/left in clean space, both large. Her sleeves remain UNLIT: no fresh barrier or blue ward pane. Her body supplies the obstruction.\n\nPANEL4: Adrian foreground LEFT looks toward Phoebe at RIGHT within the family-side space, deliberately away from both parents. Present room/Phoebe remain visible. ONLY HERE, sparse layered graphic edge-lines crowd his subjective view: red, deep blue, silver and an open pale-gold empathy arc, plus a narrow foreign dark edge. They are abstract PERCEIVED connection contours, not physical ropes or leashes, never wrapping necks/wrists. Gold empathy is open/unhooked, not a command. Every connection stays UNCUT; no gap/cut marks or dimmed gifts. Main four-line yellow caption above/open space, separate SAFE WAS HARDER. box lower-right. No weapon, reaching/cutting gesture, triumphant face or actual destruction. Keep figures/faces clear beneath the subjective linework.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current19 charcoal formal coat, thoughtful/strained identity and flat GN style"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe AGE16 only, green long-sleeved tunic/loose dark ponytail, overwhelmed throat pain; no child/morning state"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena mature identity/dark gown, unlit silver sleeve channels; physical intervening body only"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "Garran CURRENT lean graying wet coat, nonliving dull focus on anatomical RIGHT wrist pulled by LEFT hand; no native power emission"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "Huge stormhart, smooth translucent storm-blue hide/native silver currents, branching antlers, old curved scar AROUND throat; no fur/collar/physical leash"
+        }
+      ],
+      "preflight": {
+        "composition": "Four frames: right-focus tug/actual antler-ice contact, Garran invitation, physical Rowena intervention, subjective uncut edges with broader preceding gutter",
+        "precedingPageSha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34",
+        "referencePixels": "Five accepted actual R01/R04/R05/R06/R07 pixels reused unchanged; all hashes verified",
+        "lettering": "Five exact visible blocks/punctuation/speakers checked; silent first panel, large type and deliberate5/1/3/4/1-line breaks",
+        "state": "N3 same hall/threat-right-gallery-left geography, dark candles/failed wards/physical ice/glass/slush/exterior ashfire; no actual cut/diminished gifts/physical ropes/new powers",
+        "sourceMoment": "Approved Page12/source209–223 and accepted Page011 inspected"
+      },
+      "completedAt": "2026-09-19T00:13:07Z",
+      "producerInspection": {
+        "findings": [
+          "All five exact text blocks, right-wrist focus gesture, antler/ice contact and physical Rowena intervention retained.",
+          "Narration/some speech too small at390. Final overlays neon/glowing/fuzzy black cord-like instead of flat subjective edges; antler tips clip upper frame.",
+          "Coordinator additionally identified N3 drift: largely intact windows, tidy standing banquet tables/floor, visible candle flames. Actual R09 damaged pixels reinspected."
+        ],
+        "disposition": "Targeted combined typography, N3 scenery, subjective-contour and top-framing correction; preserve actors/action/axis and live gifts.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "inspectedAt": "2026-09-19T00:13:07Z"
+      },
+      "dimensions": {
+        "pixelFormat": "RGB24",
+        "height": 1536,
+        "opaque": true,
+        "width": 1024
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png",
+      "toolProvenance": {
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null,
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "tool": "image_gen.imagegen",
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png"
+      },
+      "outputSha256": "6a2c4ed0ca57482ed9c38ba024edd7361f10656791ac1408d59267e6bb20fa60",
+      "status": "needs-correction"
+    },
+    {
+      "id": "page-012-attempt-02",
+      "assetId": "page-012",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T00:13:07Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit this complete1024x1536 comic page using image1 as the target. Correct FOUR concrete defects while preserving all passing story beats, cast identities, poses/eyelines, four-panel order and exact text.\n\nInput2 is the ACTUAL N3 damaged Hall for background state; input3 preserves stormhart identity; input4 preserves CURRENT Garran/right-wrist focus; input5 preserves current Adrian/style. Preserve Rowena and age16 Phoebe directly from target; no reference headings/alternate states or new cast.\n\n1. LARGE LETTERING: every one of the FIVE blocks must have actual uppercase cap height34–38px minimum, about40–50% larger than the small current narration. Bold black comic letters; enlarge/reflow white balloons and yellow captions into generous space. No shrinking to old boxes. Preserve exactly:\nPANEL2 Garran speech:\nTAKE EVELYN'S FIRE.\nTAKE MARCUS'S COLD.\nSTRIP ROWENA'S WARDS.\nGIVE THEM THE MERCY\nTHEY GAVE ME.\nPANEL3 Rowena speech first:\nADRIAN, DO NOTHING.\nPANEL3 yellow narration second:\nBOTH WERE CERTAIN\nMY CHOICE BELONGED\nTO THEM.\nPANEL4 main yellow narration first:\nI COULD MAKE EVERYTHING STOP.\nHARMLESS WAS WHAT FRIGHTENED\nPEOPLE CALLED SOMEONE\nTHEY HAD DIMINISHED.\nPANEL4 separate yellow box second:\nSAFE WAS HARDER.\nLine breaks may change, no words or punctuation may change. All five blocks—not just the largest balloon—must be comfortably readable at390px. Keep first panel silent. Preserve clear tails to Garran/Rowena. Expand final panel's upper text space modestly if needed, retaining four frames, relative actor positions/poses and the broader white gutter before it; leave both faces unobscured. No added headings/SFX/text.\n\n2. RESTORE N3 BACKGROUNDS wherever visible, following image2: the many current intact orange panes are wrong. Show unmistakably shattered jagged window openings and broken orchard doors with dark frames, exterior ashfire beyond. Floor must contain scattered sharp glass, cloudy cold slush, broken dishes and wood debris, with an overturned supper-table shelter visibly near family-side area; remove the tidy banquet arrangement. Keep the established LEFT pillar/far-gallery and RIGHT threat/threshold axis. All ordinary candles must be EXTINGUISHED, dark wicks without yellow/orange flames. Keep physical thick water-ice and existing impact cracks; no restored projected wards, new flood/fire or fresh attack. Repair scenery behind actors without relocating them.\n\n3. FINAL PANEL subjective linework: replace ALL current glowing/neon tubes and fuzzy black cord with thin, FLAT, non-emissive graphic connection contours. Use restrained red/deep-blue/silver/open pale-gold and a narrow flat dark edge. No light cores, glow, sparks, rope fibres or tube shading. Arrange in viewpoint/background space, with no lines coiling around or fastening to Adrian's neck, torso, hands or Phoebe. They are perceived edges crowding awareness, not objects holding anyone. Gold remains open/unhooked voluntary empathy. Every line/connection stays UNCUT, no gap/cut marks and no dimmed gifts. Preserve Adrian looking toward Phoebe, not his parents. Native storm currents in beast stay alive and unchanged.\n\n4. TOP PANEL framing: pull back the WHOLE first-panel camera modestly so ALL antler tines fit inside with safe margin. Keep the creature huge relative to Garran and Phoebe; do not simply shrink it independently. Preserve actual antler-to-ice CONTACT and radiating cracks toward off-frame LEFT gallery guests. Keep Phoebe's throat pain and Garran LEFT hand pulling sole dull focus on his RIGHT wrist, attached/non-glowing. No power emitted from Garran. Preserve old curved throat scar without redesign.\n\nKeep Rowena's bodily intervention and unlit silver sleeves, same no-contact faces/hand anatomy, all clothing/age states, no added people or weapons. Crisp black contours, flat color/hard shadow structure throughout; only the specified fixes.",
+      "inputImages": [
+        {
+          "id": "page-012-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png",
+          "sha256": "6a2c4ed0ca57482ed9c38ba024edd7361f10656791ac1408d59267e6bb20fa60",
+          "role": "primary complete-page edit target; preserve actors/action/right-wrist gesture/exact text, repair stated defects"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "actual damaged Hall N3 background geometry/state, shattered panes/overturned table/glass/slush/dark candles/physical ice"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "preserve living translucent stormhart identity/antlers/native silver currents/scar during top-panel pullback"
+        },
+        {
+          "id": "R06",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+          "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+          "role": "preserve CURRENT Garran identity and sole dull anatomical RIGHT-wrist focus pulled by LEFT hand; no emission"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "preserve Adrian current charcoal coat identity/flat GN rendering; no headings or morning state"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Target native390768, R09 actual native damaged Hall reinspected; unchanged R07/R06/R01 pixels/hashes verified",
+        "composition": "Five-input correction uses target+R09+R07+R06+R01; preserve Rowena/Phoebe identities from target. Maintain antler contact, relative scale, no cut and no Garran emission.",
+        "sourceMoment": "Approved Page12 unchanged, exact five text blocks/voices checked"
+      },
+      "dimensions": {
+        "height": 1536,
+        "opaque": true,
+        "pixelFormat": "RGB24",
+        "width": 1024
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b9336cd4-e797-47d1-9161-9dd9ee197eb8.png",
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T00:17:12Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All five exact text blocks/punctuation/speakers retained and enlarged to legible390px reading; first panel remains silent.",
+          "N3 damaged windows, dark extinguished candles, glass/slush/debris and overturned furniture restored against R09; no active ward panes/new flood.",
+          "Full top antler silhouette now framed; real antler/physical-ice contact and cracks toward left remain. Garran LEFT hand pulls attached dull RIGHT-wrist focus without power emission; stormhart native currents alive.",
+          "Rowena bodily blocks father/son, Adrian looks to age16 Phoebe; final contours now flat non-emissive subjective lines with no tactile grip or severance.",
+          "Whole page reinspected after correction. Coordinator also inspected native390768 and requested selection for independent review, no further speculative edit."
+        ],
+        "disposition": "Selected candidate for fresh independent review; no independent PASS or user approval claimed."
+      },
+      "toolProvenance": {
+        "backendModel": null,
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b9336cd4-e797-47d1-9161-9dd9ee197eb8.png",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-b9336cd4-e797-47d1-9161-9dd9ee197eb8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "tool": "image_gen.imagegen"
+      },
+      "completedAt": "2026-09-19T00:17:12Z",
+      "outputSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+      "status": "selected",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-012.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34",
+        "inputImages": [
+          {
+            "id": "page-012-attempt-01",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-446b4c08-b9d4-4bda-b052-8802e64d54b8.png",
+            "sha256": "6a2c4ed0ca57482ed9c38ba024edd7361f10656791ac1408d59267e6bb20fa60",
+            "role": "primary complete-page edit target; preserve actors/action/right-wrist gesture/exact text, repair stated defects"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "actual damaged Hall N3 background geometry/state, shattered panes/overturned table/glass/slush/dark candles/physical ice"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "preserve living translucent stormhart identity/antlers/native silver currents/scar during top-panel pullback"
+          },
+          {
+            "id": "R06",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/garran-bellweather.png",
+            "sha256": "e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0",
+            "role": "preserve CURRENT Garran identity and sole dull anatomical RIGHT-wrist focus pulled by LEFT hand; no emission"
+          },
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "preserve Adrian current charcoal coat identity/flat GN rendering; no headings or morning state"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b660c015f8567e27a63761aa2a8766759e2ff47717a304fed9b166e862243cec",
+        "evidence": "Independent native/390/768 PASS: exacttext, braceletcontact, physicaliceimpact, damagedHall and subjectiveuncutoverlays clear; no blockers."
       }
     }
   ],
