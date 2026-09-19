@@ -423,15 +423,28 @@
       "path": "references/adrian-bedchamber.png",
       "subject": "One coherent plain bedchamber, bed, doorway and morning window; no invented heraldry",
       "consumers": "Page 19; 19, 21–23, 25",
-      "status": "planned",
-      "sha256": null,
-      "attempts": [],
+      "status": "coordinator-accepted",
+      "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+      "attempts": [
+        "R11-attempt-01"
+      ],
       "inspection": {
-        "verdict": "NOT REVIEWED"
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "reviewedAt": "2026-09-19T03:14:48.7303915Z",
+        "assetSha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+        "evidence": "Actual selected pixels inspected at native, 390 and 768 px. One coherent plain morning bedroom: wooden bed at left with grey-blue blanket, open entry behind its head/right edge, window at right, clear bedside walking space and ordinary bedside table. Warm daylight/hard window shadows, crisp contours and restrained flat fills fit accepted GN style. No figures, text, heraldry, magic, damage or premature story props."
       },
       "plannedInputs": [
         "R01"
-      ]
+      ],
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "selectedAttempt": "R11-attempt-01"
     },
     {
       "id": "R12",
@@ -1604,7 +1617,7 @@
         "reviewer": "/root",
         "role": "coordinator",
         "pageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
-        "reviewedAt": "2026-09-19T03:03:34.4528200Z",
+        "reviewedAt": "2026-09-19T03:03:34.45282Z",
         "evidence": "Actual native/390/768: three exact readable text blocks, old narrow scar/no physical collar or barbs; detached ochre perception marks and subtle dark scar edge, intrinsic storm intact; empty hands do not touch beast; Phoebe light nosebleed/open attention. Night/open ice/char/dark candles and poised pre-cut ending preserved."
       }
     },
@@ -6092,6 +6105,64 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "5dddf1aa73edc3c20e654fc86bf0e73dd4d5edc78aa416bfa0b3212176dca362",
         "evidence": "Independent PASS at native/390/768: exact text, separated hands, intact pre-cut state. Subtle dark command edge readable with caption and established context; no blocking findings."
+      }
+    },
+    {
+      "id": "R11-attempt-01",
+      "assetId": "R11",
+      "kind": "reference-generation",
+      "preflightAt": "2026-09-19T03:12:00.344Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE portrait 1024×1536 fully opaque graphic-novel environment reference: Adrian's plain bedchamber on the morning after the storm, a single coherent room seen in one clear three-quarter interior view. No lettering, labels, panels, montage or people.\n\nThe attached ADRIAN BELLWEATHER sheet is R01, used ONLY as the actual rendering-style anchor: bold crisp black contours, heavier object silhouettes, clean saturated flat color areas and a few hard-edged shadow planes. Match that ink-and-flat-color language on architecture, bedding and furniture. Transfer no character, face, clothing, heading or reference-sheet layout. Do not use photographic, painterly or 3D rendering, soft gradients, haze, bloom or depth-of-field blur.\n\nEstablish simple, consistent geography for later bedside and doorway conversations. From near the foot of the bed, show a modest wooden bed along the LEFT side of the room, its plain headboard against the left wall. One ordinary cream pillow and a slightly rumpled muted blue blanket make the empty bed clear. At the BACK, a plain wooden entry door stands partly open in a simple rectangular doorway. On the RIGHT wall is one generous ordinary rectangular morning window. Keep a broad uncluttered floor route from the entry to the open side of the bed, enough space for family visitors to stand without crowding. Include only one small empty wooden bedside table if useful. Pale warm plaster or plain stone walls, simple dark timber trim and clean ordinary wooden floorboards; a modest lived-in room, with no lavish ornament.\n\nBright unobstructed MORNING daylight enters from the right window and casts a broad sharply bounded sunlit shape across the bed and floor. The modest exterior glimpse is pale blue sky and ordinary distant quiet foliage, with no fantasy spectacle. Every edge stays legible at small reading size, while the room remains calm and natural. All surfaces, bed, glass and furniture are intact. There is no fire, frost, storm damage, magic, heraldry, wall art, writing, ledger, loose document, pen, signature, weapon or other narrative prop. The image establishes this ONE room and its doorway/bed/window relationships, without inventing additional rooms or alternative states.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Rendering style only; no identity, clothing, heading or sheet layout transfer."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Source333ff: morning sunlight across Adrian's bed and family entrance through doorway. Approved R11 is a plain coherent bedroom, no established ornate details.",
+        "inputPixels": "Actual unchanged R01 inspected; hash verified. Crisp ink contours and flat hard shadows govern environment.",
+        "composition": "One bed left, back entry, right morning window; clear walking space. No characters or text. Reference only; no PDF/HTML."
+      },
+      "completedAt": "2026-09-19T03:13:38.305Z",
+      "status": "selected",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-40338bec-a422-4e21-80f3-920c36c48d0b.png",
+      "outputSha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+      "candidatePath": "references/adrian-bedchamber.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-40338bec-a422-4e21-80f3-920c36c48d0b.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-40338bec-a422-4e21-80f3-920c36c48d0b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T03:13:38.305Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "One coherent plain intact bedchamber: empty wooden bed left, clear back doorway, right morning window, open floor beside bed.",
+          "Strong outlined architecture and sharply bounded morning light; broad bedding shadow planes. Subordinate wood/plaster texture does not obscure geography at390px.",
+          "No people, lettering, heraldry, magic, storm damage, ledger, signatures or premature story props. Fully opaque RGB image.",
+          "Door, bed, bedside table and window have consistent single-view perspective; walking space is clear for later exchanges."
+        ],
+        "disposition": "Suitable candidate for coordinator pixel review; no correction generated."
       }
     }
   ],
