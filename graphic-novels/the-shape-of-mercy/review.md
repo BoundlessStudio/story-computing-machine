@@ -480,3 +480,18 @@ SHA-256 bindings:
 - QA `exec-165cae80-8c8d-4d25-a5d7-fe29fd5df654-390.png` `3bdcfca9be9c71a25918dd63312cb631863dc71b96a424e1b59b70f6d354c79f`; corresponding `-768.png` `0d368ea49a0ad3fd3eeb939ca283d5766d8b2b04fe1e1f244e8d21323964ba93` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 021 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 021 independent pixel review — 2026-09-19
+
+**PASS**, attempt 01. Reviewer `/root/mercy_plan_review` inspected the complete saved page at native, 768 px and 390 px against approved Page 21/source 357–371, preceding page 020 and actual morning/reference anchors.
+
+All five exact dialogue/narration units, punctuation, tails and the five names read correctly, including at 390 px: ADRIAN BELLWEATHER, MARCUS, EVELYN, PHOEBE, ROWENA. The upper consent and lower account remain nonspecific ink strokes. Four ordinary single-framed panels clearly return to morning. The one buckled leaf passes between coherent hands; Adrian's two linked balloons preserve love and the refusal to call concealment honest. Rereading brings evidence without recovered memory or magic. Identities, morning clothes, bed/window geometry, warm light and graphic rendering hold. No material blocker; the prepared uncalled attempt 02 is not reviewed.
+
+SHA-256 bindings:
+
+- Candidate `ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248`; predecessor 020 `70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf`; morning P19 `b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual inputs: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R11 `f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998`; R12 `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df`; P19 above.
+- QA `exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1-390.png` `5681390139146851da51e285cdfd085a2c0ca8b8ba5a9d715498ca578e44d138`; corresponding `-768.png` `1e1ae9672e7ebde7bb144f363763a366c63611c8a9da762d393408f9569bf2c1` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 022 onward/PDF NOT REVIEWED. No user approval implied.

@@ -1755,8 +1755,8 @@
       "number": 21,
       "id": "page-021",
       "path": "pages/page-021.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
       "plannedInputs": [
         "R01",
         "R05",
@@ -1765,12 +1765,68 @@
         "P19"
       ],
       "framing": "Back in bedroom; document and admission",
-      "attempts": [],
+      "attempts": [
+        "page-021-attempt-01",
+        "page-021-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity, plain light morning shirt, ordinary uninjured hands, actual crisp GN rendering."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity, graying swept-back hair and dark silver-stitched gown with channels unlit."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "One morning bedroom geography, bed left/headboard, entry behind, window right, grey-blue blanket."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "Ordinary detached cream ruled consentleaf with wet buckled edges. Add only scripted five legible signature names and otherwise unreadable ink; exclude headings, book, pen and inkpot."
+          },
+          {
+            "id": "P19",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-019.png",
+            "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+            "role": "Direct visual continuation of morning room, Adrian/Rowena faces, hand/leaf states, warm light and readable lettering. Exclude Phoebe from new crops."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b24aad31fc80c30d53980f8a9a529435bfc5a0e9ed247a35bf3c2228cae8424a",
+        "evidence": "Independent Page021 PASS native/390/768: exact text and all five names readable; handoff, morning continuity and unrecovered memory boundary hold."
+      },
+      "selectedAttempt": "page-021-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "reviewedAt": "2026-09-19T04:18:27.4491300Z",
+        "evidence": "Actual native/390/768 inspection PASS. Five exact readable paper names, upper consent/lower account strokes, ordinary buckled leaf handover, single-frame morning return, exact admission/love/honesty/re-reading lettering and tails, identity/bedroom continuity, no recovered memory or magic. Smaller diegetic names readable at390; no cosmetic correction needed."
       }
     },
     {
@@ -6538,6 +6594,156 @@
         "reviewFileSha256": "c55dc7471c5c2cb28b0e172de96757e96ebbf38584e9fdc8f84acf5b6abb8ab3",
         "evidence": "Independent Page020 PASS native/390/768: exact captions, witness-reconstruction framing, collapse-before-escape sequence and corrected damp char."
       }
+    },
+    {
+      "id": "page-021-attempt-01",
+      "assetId": "page-021",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T04:06:17.286Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete portrait1024×1536 graphic-novel page with FOUR ordinary SINGLE black-bordered panels, read top to bottom with clean white gutters. Return unambiguously to the warm MORNING bedroom of the fifth attached page. Do NOT use the double frames of reconstructed night testimony. No dream, flashback, glowing record or restored memory image.\n\nPrioritize large readable lettering at390px display: bold uppercase comic letters, actual cap height about36px, generous yellow narration boxes and white speech balloons with short deliberate line breaks. The first panel needs extra height for a large readable PAPER DETAIL WITHIN that frame; it is not an extra inset or separate full-page document. Allocate roughly the upper third to that first frame and distribute the other three frames generously. Keep all five narration/dialogue units and all five scripted signature names exact. No title, page number, SFX, labels or extra words.\n\nUse actual references: R01 Adrian age19 with warm medium-brown skin, tousled dark hair and the plain light morning shirt, no formal charcoal coat. R05 Rowena mature, swept-back graying dark hair, dark high-collared gown with silver stitched sleeve channels completely unlit. R11 supplies the bedroom: bed at LEFT, wooden headboard and grey-blue blanket, open entry behind, morning window at RIGHT. R12 supplies just the ordinary single detached cream ruled leaf, damp buckled/torn binding edge and modest ink bleeding, no magic. P19 is the immediate morning visual anchor for these faces, bed/entry/window geography, light and letter size. Show only Adrian and Rowena in these crops; other siblings stay outside frame. All visible hands are ordinary, coherent and uninjured.\n\nMatch the actual crisp black contours, saturated flat fills and hard-edged shadows of the character sheets and P19. Warm daylight from the right makes clean shadow shapes, never haze, photographic blur, bloom or painterly modeling. This is restrained conversation, not an absolution or triumph.\n\nPANEL1, generous large close view of the handover: Rowena's silver-stitched sleeve and ordinary hand enter from RIGHT holding the right edge of ONE wet-buckled consent leaf; Adrian's light-shirted hand accepts its left/lower edge from LEFT. Only this single sheet, no duplicate document. It fills much of the panel, angled mildly yet readable. The grey-blue blanket and morning room remain visible behind it. Main long consent text at the TOP is oblique NONLEGIBLE black handwriting strokes, not readable words. Beneath that, make Adrian's complete signature plainly legible in uppercase black handwritten letters:\nADRIAN BELLWEATHER\nThen FOUR separate witness signatures, one per line in this exact order:\nMARCUS\nEVELYN\nPHOEBE\nROWENA\nBelow the witnesses show a separated lower account block as several NONLEGIBLE ink strokes. That lower block is visibly distinct from the consent above. Slight ink bleeding around Adrian's name must not erase or obscure any letter. No signature headings, date, extra names or legal text. Paper and ink are entirely mundane. A yellow narration box in its own clear upper-left band says:\n\"MY CONSENT. FOUR WITNESSES. THEIR ACCOUNT, WRITTEN BEFORE DAWN. THE CHEAP INK HELD.\"\n\nPANEL2: Rowena beside the bed in a medium close view, looking left toward Adrian. Her expression is ashamed but candid, bare hands relaxed and silver sleeve stitching unlit. One large white speech balloon clearly tailed to her:\n\"I CALLED CONCEALMENT MERCY. IT WAS FEAR MADE RESPECTABLE.\"\n\nPANEL3: a two-shot, Adrian LEFT looking up from the paper at Rowena RIGHT. Her eyes briefly brighten with hope at his first sentence; his expression stays thoughtful and firm as he completes the qualification. Use TWO distinct sequential balloons, BOTH clearly belonging to Adrian, in natural left-to-right/downward order without crossing tails:\n\"IT WAS ALSO LOVE.\"\n\"THAT DOES NOT MAKE IT HONEST.\"\nKeep faces and their eye contact unobscured. No embrace or sudden celebration.\n\nPANEL4: Adrian quietly rereads the ordinary leaf in his hands, framed close against the bed/window setting. His gaze is on the written side, but the viewer mostly sees its plain reverse/edge so no extra readable text is repeated. No reflected memory, beast, scar, night scene or magic appears in his eyes or paper. His expression acknowledges evidence and continuing absence. Large yellow narration:\n\"THE EVIDENCE DID NOT FILL THE ABSENCE. MY CHOICE HAD LEFT CONSEQUENCES I COULD KNOW.\"\n\nPreserve ordinary paper, coherent hand-to-edge contact and the same room axis across all four panels.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 identity, plain light morning shirt, ordinary uninjured hands, actual crisp GN rendering."
+        },
+        {
+          "id": "R05",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity, graying swept-back hair and dark silver-stitched gown with channels unlit."
+        },
+        {
+          "id": "R11",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+          "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+          "role": "One morning bedroom geography, bed left/headboard, entry behind, window right, grey-blue blanket."
+        },
+        {
+          "id": "R12",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+          "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+          "role": "Ordinary detached cream ruled consentleaf with wet buckled edges. Add only scripted five legible signature names and otherwise unreadable ink; exclude headings, book, pen and inkpot."
+        },
+        {
+          "id": "P19",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-019.png",
+          "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+          "role": "Direct visual continuation of morning room, Adrian/Rowena faces, hand/leaf states, warm light and readable lettering. Exclude Phoebe from new crops."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page21/source357–371; actual consent/witness/account evidence, Rowena admission and Adrian's qualification without restored memory.",
+        "inputPixels": "All five actual accepted anchors already visually inspected unchanged in recent stages; fresh hash checks match. P19 supplies morning continuity and one damp leaf; R12 ordinary paper shape only.",
+        "composition": "Four single frames, tall first paper handover detail with exact five names and nonlegible long blocks; two Adrian balloons correctly attributed; final read has plain reverse toward viewer. Large lettering, no extra identities/magic."
+      },
+      "completedAt": "2026-09-19T04:09:50.509Z",
+      "status": "selected",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1.png",
+      "outputSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T04:09:50.509Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Five exact signature names and five exact narration/dialogue units retained; ordinary single frames and morning geography intact.",
+          "Paper handover/contact, one wet leaf, nonlegible long consent/lower account blocks, Rowena admission and Adrian's two-balloon qualification/read all correct.",
+          "Signature names thin and substantially smaller than captions at390px; enlarge and thicken only those five names. P1 background furniture/blanket mildly blurred; sharpen flat outlined rendering there."
+        ],
+        "disposition": "Unchanged attempt01 submitted for independent review after coordinator found all five names readable at390 and background softness nonblocking; no cosmetic edit generated."
+      },
+      "candidatePath": "pages/page-021.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity, plain light morning shirt, ordinary uninjured hands, actual crisp GN rendering."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity, graying swept-back hair and dark silver-stitched gown with channels unlit."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "One morning bedroom geography, bed left/headboard, entry behind, window right, grey-blue blanket."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "Ordinary detached cream ruled consentleaf with wet buckled edges. Add only scripted five legible signature names and otherwise unreadable ink; exclude headings, book, pen and inkpot."
+          },
+          {
+            "id": "P19",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-019.png",
+            "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+            "role": "Direct visual continuation of morning room, Adrian/Rowena faces, hand/leaf states, warm light and readable lettering. Exclude Phoebe from new crops."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b24aad31fc80c30d53980f8a9a529435bfc5a0e9ed247a35bf3c2228cae8424a",
+        "evidence": "Independent Page021 PASS native/390/768: exact text and all five names readable; handoff, morning continuity and unrecovered memory boundary hold."
+      }
+    },
+    {
+      "id": "page-021-attempt-02",
+      "assetId": "page-021",
+      "kind": "page-correction",
+      "preflightAt": "2026-09-19T04:09:50.509Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "status": "prepared-not-called",
+      "prompt": "Edit ONLY the FIRST (top) panel of this complete comic page. Preserve panels2,3,4 pixel-for-pixel in composition, faces, hands, speech, captions, room, sunlight and all lettering.\n\nIn panel1, make the FIVE existing signature names on the ONE ordinary paper leaf substantially larger and heavier, clearly readable at390px page width. Aim for actual uppercase cap height30–34px and strong black handwritten strokes, approximately50% larger than the current thin small names. Preserve EXACT spelling, uppercase and order:\nADRIAN BELLWEATHER\nMARCUS\nEVELYN\nPHOEBE\nROWENA\n\nKeep each name on its own line; Adrian's full name stays one complete line. Reflow the available paper area to give these names room: the nonlegible consent strokes above and the nonlegible lower account strokes may become shorter/sparser while both blocks remain visibly present, with the lower account still below all four witnesses. Use the existing sheet's width efficiently. Keep the five names separate; do not add headings, dates, extra signatures, readable legal text or any other word. Mildly reduce the paper's tilt only if necessary for readability, retaining ONE damp buckled cream ruled leaf and the existing coherent handover: light-shirted Adrian's hand from LEFT, silver-sleeved Rowena's hand from RIGHT holding opposite edges. Do not add a second sheet or extra hand.\n\nAlso sharpen only the slightly blurred headboard, bedside table and blanket BACKGROUND in panel1 into crisp black contours and flat hard-edged morning-shadow shapes consistent with panels2–4. Keep their exact objects, positions, grey-blue blanket and warm lighting; no new props.\n\nFreeze the top yellow caption, exact words, font size and box:\nMY CONSENT. FOUR WITNESSES. THEIR ACCOUNT, WRITTEN BEFORE DAWN. THE CHEAP INK HELD.\nFreeze all other page text, ordinary single panel borders/white gutters, identity/costume/anatomy, and nonmagical meaning. No glow or memory imagery.",
+      "inputImages": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1.png",
+          "sha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+          "role": "Complete Page021 target; enlarge five names and sharpen background only in top panel; all other regions frozen."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Source357–361 ordinary consent signature/four witnesses/lower account; no extra words or recovered memory.",
+        "inputPixels": "Full attempt01 inspected native390768; only first-panel name weight/size and background sharpness fail.",
+        "composition": "Five names enlarged inside existing single sheet, sparse nonlegible blocks kept; top caption and all other panels/text frozen."
+      },
+      "notCalledAt": "2026-09-19T04:11:00.2161859Z",
+      "notCalledReason": "Coordinator actual native390768 assessment: all five names readable, softness nonblocking; instructed retain original candidate if edit not yet called. No tool invocation occurred."
     }
   ],
   "approvals": {
