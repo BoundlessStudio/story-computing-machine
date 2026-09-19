@@ -435,3 +435,18 @@ SHA-256 bindings:
 - QA `exec-d146603c-d19d-448d-8813-b2beb17e6263-390.png` `061943498969cfb21f67862af0765542d802d88c86735516086e08dfdc93da5a`; corresponding `-768.png` `2825ef23668398db295d0f7c9720166ad7c7a29366a6e15d8c02ff37c06ac7a7` in the previously recorded temporary QA directory.
 
 Delivery-only update acknowledged: no HTML previews; generate the PDF exactly once after all image work/reviews/order checks. It does not invalidate unaffected earlier art. Page-only PASS; page 018 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 018 independent pixel review — 2026-09-18
+
+**PASS**, attempt 02. Reviewer `/root/mercy_plan_review` inspected the complete saved page at native, 768 px and 390 px against approved Page 18/source 315–329, predecessor, actual target and accepted reference pixels.
+
+All three exact text units, punctuation, speaker/narrator roles and reading order pass. Adrian's empty hands remain separate from the throat and muzzle; Phoebe's light nostril bleed and voluntary presence do not become a restraint. The advancing beast retains coherent hoof contact, intrinsic silver lightning and the old narrow throat scar. The perceived dark command edge is subtle at 390 px but traceable along the scar; the identifying caption and established perception context preserve its distinction from the silver storm and detached gold marks. No material rope, collar, new wound, severed endpoint or early gift loss appears. The final profile remains poised before the active cut, with the open white space beneath it preserving the intended memory boundary. Night, melted ice/open footing, dark candles, ruined Hall, identities and GN rendering hold. No material blocker found.
+
+SHA-256 bindings:
+
+- Candidate `e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d`; predecessor 017/P17 `f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual attempt 02 target `7f71b063963ffdff1eb92d0baad97a8ae6b2217f7f44809d31c398fc681e89db` plus R07 `7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6`. Inherited R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`, R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`, R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`, and P17 above.
+- QA `exec-d043ddf7-4222-42dc-9a48-a8d582a2060e-390.png` `a52a8428abd56d5ebbf25b2e067805b95d58daff2b9f07814d517090e5ba2a46`; corresponding `-768.png` `6cd41b8b373c1f4a4a08ed5639fa55e4d4a65b85d61f3a3ddc547d4cc50d08b2` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 019 onward/PDF NOT REVIEWED. No user approval implied.

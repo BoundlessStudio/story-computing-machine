@@ -1545,7 +1545,7 @@
         "reviewer": "/root",
         "role": "coordinator",
         "pageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
-        "reviewedAt": "2026-09-19T02:40:11.9853990Z",
+        "reviewedAt": "2026-09-19T02:40:11.985399Z",
         "evidence": "Actual native/390/768: seven exact readable blocks, grief and refusal intact. Correct sole right bracelet and physical pin in1/4; close2 traces Garran right forearm with Adrian arms cropped out and Rowena sleeve at edge. No new gift/cut, record safe off-frame, night/slush/dark candles maintained."
       }
     },
@@ -1553,8 +1553,8 @@
       "number": 18,
       "id": "page-018",
       "path": "pages/page-018.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
       "plannedInputs": [
         "R01",
         "R04",
@@ -1563,12 +1563,49 @@
         "P17"
       ],
       "framing": "Approach before cut; no omniscient outcome",
-      "attempts": [],
+      "attempts": [
+        "page-018-attempt-01",
+        "page-018-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png",
+            "sha256": "7f71b063963ffdff1eb92d0baad97a8ae6b2217f7f44809d31c398fc681e89db",
+            "role": "complete-page target; simplify perceived command/scar and isolate open ochre marks only"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "giant living stormhart/smooth translucent body/native silver currents/branching antlers/old curved throat scar; no collar"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "5dddf1aa73edc3c20e654fc86bf0e73dd4d5edc78aa416bfa0b3212176dca362",
+        "evidence": "Independent PASS at native/390/768: exact text, separated hands, intact pre-cut state. Subtle dark command edge readable with caption and established context; no blocking findings."
+      },
+      "selectedAttempt": "page-018-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "reviewedAt": "2026-09-19T03:03:34.4528200Z",
+        "evidence": "Actual native/390/768: three exact readable text blocks, old narrow scar/no physical collar or barbs; detached ochre perception marks and subtle dark scar edge, intrinsic storm intact; empty hands do not touch beast; Phoebe light nosebleed/open attention. Night/open ice/char/dark candles and poised pre-cut ending preserved."
       }
     },
     {
@@ -5882,6 +5919,179 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "bd4807601679e19e7ec7bedda6470dfa347d5757783c304cdb084714e0a48ad5",
         "evidence": "Independent PASS at native/390/768 for text, anatomy, restraint and source intent. P2 occluded grip is nonblocking across clear P1/P4 contact. Delivery-only instruction revision preserves prior approved visual scope."
+      }
+    },
+    {
+      "id": "page-018-attempt-01",
+      "assetId": "page-018",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T02:45:24Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait comic page with THREE panels: tall approach at top, subjective close distinction in middle, broad quiet final poised moment below. Regular white gutters and noticeable OPEN WHITE SPACE BENEATH the final panel. Crisp bold black contours, saturated flat fills, hard-edged shadows; no photo/blur/bloom. Ending is BEFORE active severance: ALL three magical connections still whole, no cut/escape/forgotten interval shown.\n\nLETTERING FIRST: all THREE exact text units below in bold uppercase comic letters, actual cap height34–38px minimum, clearly readable at390px. Generous white speech balloon and yellow narration boxes, short line breaks, never tiny type. No extra words, headings, SFX, title or page number.\n\nN5→N6 NIGHT throughout: dark navy sky and near-black living trees through SHATTERED orchard windows/doors. Old image4 room geometry is overridden: ashfire is GONE, only low ordinary smoldering wet char outside; no white core/flame wall. Ice melted/receded into slush and narrow channels, OPEN routes/firm patches for footing. ALL candles OUT. Same overturned table/debris, no projected wards, new flood or daylight.\n\nPANEL1, tallest frame: Adrian19 charcoal coat at LEFT stands toward ADVANCING stormhart at RIGHT, both hands OPEN and EMPTY, held out with clear air between hands and creature. Phoebe16 green long-sleeved tunic rises beside him, loose dark ponytail; ONE nostril has a small non-graphic trickle of blood, no other wound. She maintains a voluntary open gift, not controlled or bound. Her exact balloon with clear tail to her:\nI'M HERE.\nTHE PAIN ISN'T\nTHE WHOLE WORLD.\nStormhart advances from broken RIGHT threshold over receding ice, choosing footing. It is larger than a carriage horse, living/dangerous, native silver lightning crowning branching antlers and moving inside its smooth translucent storm-blue skin. Old curved throat scar stays in place. Pull back whole camera enough to fit all antler tines INSIDE frame with safe margin; do not collide with gutter/balloon or shrink creature relative to humans.\n\nPANEL2: Adrian's SUBJECTIVE close perception, real dark room still visible. Adrian profile/charcoal sleeve and outstretched EMPTY hand at LEFT, creature's scar/throat at RIGHT, at least a clearly visible palm-width air gap from hand to skin/antlers. No contact, knife, slash or grabbing.\nDistinguish three WHOLE phenomena visually:\n1 SILVER native currents INSIDE the translucent beast, continuing normally.\n2 Foreign BLACK command: a narrow flat graphic perceptual edge tightening AT the old curved throat scar, continuous and uncut; it belongs to the scar's foreign compulsion, not the silver storm. Treat it as an overlaid perception line, NOT a physical rope/collar/tube around the neck.\n3 Phoebe's compassion: small pale-ochre OPEN parallel curved strokes in peripheral empty room space, unhooked voluntarily, clearly separate from black scar-command and silver current. Keep ends visibly in empty space, no end touches/disappears into a human body/hair. Flat marks, not glowing braid/rope.\nUse the established distinction of small translucent/flat perceptual marks over visible room, not tangible props or wrapped bodies. No unrelated magical strands.\nYellow exact narration:\nI TRACED THE FOREIGN COMMAND\nPAST ITS RAGE, PAST PHOEBE'S\nCOMPASSION, PAST THE STORM.\n\nPANEL3, broad quiet poised last instant: Adrian's thoughtful face in profile foreground LEFT, living stormhart in depth RIGHT, clear separation. Same three connections STILL WHOLE: native silver storm alive, black foreign edge continuous at scar, open ochre empathy separate. Adrian has chosen narrowness but has NOT begun the act. Empty ordinary hands if visible. No cutting gesture, severed line, cancelled power, released beast or memory-restoration image. Hold a still, deliberate breath before the next page's time jump.\nYellow exact narration:\nTHE LAST THING I REMEMBERED\nWAS CHOOSING HOW NARROW\nMERCY SHOULD BE.\nLeave generous white breathing space below this final frame; no additional image or caption there.\n\nActual inputs1Adrian current19;2Phoebe AGE16 only;3same stormhart;4same damaged Hall geometry with N5/night overrides;5prior accepted page for rendering/night/Adrian continuity ONLY. Exclude all reference headings/alternate ages, previous-page words, father/mother/other siblings. Preserve exact faces/clothes, coherent hands/hooves and no human–creature contact.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal coat, ordinary empty open hands, last remembered conscious choice"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe current AGE16 green tunic/loose ponytail; this moment adds light bleed from ONE nostril, no other injury"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "giant living stormhart/smooth translucent body/native silver currents/branching antlers/old curved throat scar; no collar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "damaged Hall GEOMETRY ONLY, N5/N6 override open routes/melted ice, night/no magical fire/dark candles"
+        },
+        {
+          "id": "P17",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/pages/page-017.png",
+          "sha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+          "role": "accepted immediately preceding rendering/night/Adrian identity continuity ONLY; exclude prior words/Rowena/Garran"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page18/source315-329 read. Three exact text units with plan apostrophes. Last remembered poised choice, all connections intact BEFORE cut, next page direct morning.",
+        "inputPixels": "Accepted Page17 native390768 inspected. R07 actual smooth hide/native storm/curved scar refreshed; R01/R04/R09 accepted pixels unchanged, five hashes verified.",
+        "composition": "Three frames tall approach/subjective distinction/quiet profile with open white below. Hands physically separate, only one light nostril bleed. Separate flat scar-black/open-ochre/internal-silver perception; no material ropes or cut. N5/N6 night/receded ice overrides N3 ref."
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "status": "needs-correction",
+      "dimensions": {
+        "opaque": true,
+        "pixelFormat": "RGB24",
+        "width": 1024,
+        "height": 1536
+      },
+      "producerInspection": {
+        "disposition": "Targeted perceived-shape corrections agreed by coordinator.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Three exact text units, night/open footing, empty hands separated, light nosebleed and poised ending before cut present.",
+          "Black scar-command has literal barbed/spiky/gaping appearance, contrary to subjective foreign edge/old scar; simplify local shape.",
+          "Ochre open strokes too close/aligned to Adrian eye/hair, risking eye-beam attribution; shorten/isolate in empty room.",
+          "Coordinator finds compact text readable and asks no cosmetic typography change; preserve all passing layout/words."
+        ],
+        "inspectedAt": "2026-09-19T02:52:23Z"
+      },
+      "outputSha256": "7f71b063963ffdff1eb92d0baad97a8ae6b2217f7f44809d31c398fc681e89db",
+      "candidatePath": null,
+      "completedAt": "2026-09-19T02:52:23Z"
+    },
+    {
+      "id": "page-018-attempt-02",
+      "assetId": "page-018",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T02:52:23Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make ONLY these small perception/scar corrections to image1, the complete1024x1536 THREE-panel comic page. Preserve all three exact text units/current readable lettering, every face/hand/pose, native silver storm, night room and poised BEFORE-cut ending.\n\n1 THROAT SCAR / BLACK COMMAND, all three panels: the existing dark spiky shape looks like literal barbed wire or a new open wound. Remove ALL barbs, thorn branches, metallic highlights, cord/tube thickness and gaping black wound shapes. Restore the beast's OLD NARROW curved reddish-brown healed throat scar, matching image2. A little existing dried dark blood is fine; no fresh gash, exposed flesh or newly cut edge.\nPanel1 ordinary view: only the old narrow scar, no physical collar/rope/spikes.\nPanels2 and3 subjective views: add just a THIN FLAT DARK perceptual contour tightly FOLLOWING a short section of that old scar. It is foreign command perceived by Adrian, not a tangible object. No protrusions or volume, no line around the whole neck like a collar. Keep the dark contour CONTINUOUS/WHOLE, uncut and not erased as magic. Intrinsic silver lightning inside body remains entirely intact and distinct.\n\n2 OCHRE EMPATHY MARKS in panels2 and3: shorten the current long horizontal marks and relocate them into EMPTY ROOM SPACE between Adrian and beast, separated from EVERY head/hair/eye/hand and the creature by a visible gap. They must not look like beams emitted by Adrian's eyes.\nUse two or three SMALL, FLAT PALE-OCHRE open curved strokes, about100–130px long, with no glow/core/tube shading. Position them slightly diagonal/curved in peripheral open background, rather than horizontally aligned with Adrian's eyes. Both ends stop visibly in empty space: no attachment to a person/creature, no disappearing behind hair. The open ends represent Phoebe's voluntary unhooked empathy, not a cut.\nPanel2 shorten into the available clear middle-room patch ABOVE Adrian's outstretched hand, safely away from his face and beast muzzle. Panel3 shorten into the open room gap between his profile and distant beast, with clear margins both sides.\n\nEverything else FROZEN: exact three texts/balloons/yellow boxes, three borders/white space below, Phoebe16's tiny single-nostril bleed, Adrian19 ordinary open EMPTY hands with air gap from beast, intact living silver storm, old scar, all three unsevered connections. No weapon, contact, cut, new blood, escape or memory event. Same night, receded ice/open routes, extinguished candles and ordinary char only. Input1target,2stormhart reference for OLD SCAR/native anatomy only. Keep original rendering and1024x1536.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png",
+          "sha256": "7f71b063963ffdff1eb92d0baad97a8ae6b2217f7f44809d31c398fc681e89db",
+          "role": "complete-page target; simplify perceived command/scar and isolate open ochre marks only"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "giant living stormhart/smooth translucent body/native silver currents/branching antlers/old curved throat scar; no collar"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "All connections whole before active cut. Source old scar/foreign compulsion is subjective, no physical collar/new wound; open empathy is Phoebe.",
+        "inputPixels": "Target whole native390768 inspected; R07 actual narrow old scar re-inspected/current hash verified. Root concurs.",
+        "composition": "Thin flat scar-edge replaces barbs/gash, short isolated ochre arcs away from body/eye alignment. Freeze full page words/poses/night/native storm/hand gap/white below."
+      },
+      "outputSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+      "producerInspection": {
+        "findings": [
+          "Three frames/all three exact text units preserved, final open white breathing space and last remembered poised instant before any cut.",
+          "Adrian empty open hands physically separated from creature, Phoebe current16 tiny single-nostril bleed, native silver storm alive and no escape/cancelled power.",
+          "Old narrow scar restored, no literal barbs/physical collar/gaping new wound. Dark perceived edge follows scar in2/3 but is subtle at390; disclose detectability for independent judgment.",
+          "Ochre open strokes shortened/flat/isolated in room, clear of heads/hair/hands and no eye-beam appearance. All connections remain whole.",
+          "Night navy sky/dark trees, damaged Hall/open footing/receded ice, ordinary char only/no white magical core, candles dark. Full-page collateral check found no new concrete defect.",
+          "Coordinator native390768 inspection concurs candidate ready and asks independent reviewer to assess subtle dark edge rather than speculative extra edit."
+        ],
+        "disposition": "Suitable candidate for independent review with subtle perceived-edge reading-size issue disclosed; no independent PASS claimed.",
+        "inspectedAt": "2026-09-19T02:56:23Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-d043ddf7-4222-42dc-9a48-a8d582a2060e.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-d043ddf7-4222-42dc-9a48-a8d582a2060e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "dimensions": {
+        "height": 1536,
+        "width": 1024,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "completedAt": "2026-09-19T02:56:23Z",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-d043ddf7-4222-42dc-9a48-a8d582a2060e.png",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-018.png",
+      "status": "selected",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-b0d7b541-2b5a-47aa-b7b1-8018ec56721f.png",
+            "sha256": "7f71b063963ffdff1eb92d0baad97a8ae6b2217f7f44809d31c398fc681e89db",
+            "role": "complete-page target; simplify perceived command/scar and isolate open ochre marks only"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "giant living stormhart/smooth translucent body/native silver currents/branching antlers/old curved throat scar; no collar"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "5dddf1aa73edc3c20e654fc86bf0e73dd4d5edc78aa416bfa0b3212176dca362",
+        "evidence": "Independent PASS at native/390/768: exact text, separated hands, intact pre-cut state. Subtle dark command edge readable with caption and established context; no blocking findings."
       }
     }
   ],
