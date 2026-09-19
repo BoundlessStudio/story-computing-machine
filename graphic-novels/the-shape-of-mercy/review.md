@@ -525,3 +525,20 @@ SHA-256 bindings:
 - QA `exec-2e97b88c-20ae-46a2-bbc2-9d21e86e73cc-390.png` `49c15fa07e33b6902ca7c724b0d843f2df794754bc762440739c0d00047845a3`; corresponding `-768.png` `158c92659d6b0de20b82e1a0a2793402b587e984487ce50416d57e95b7bd73ac` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 024 onward/PDF NOT REVIEWED. No user approval implied. No HTML or PDF created.
+
+## Page 024 independent pixel review — 2026-09-19
+
+**PASS**, attempt 01. Reviewer `/root/mercy_page22_review` independently inspected the complete selected `pages/page-024.png` at native 1024 × 1536, 768 px and 390 px against approved Page 24/source 393–407, the source ending, previously read full script/coverage, preceding 023 and actual accepted R01/R02/R03/R04/R05 pixels. Dependency hashes are unchanged.
+
+All four agreement balloons and the yellow narration match exactly, with correct tails, punctuation and reading order. Panels 24.1–24.4 add two, three, four and five distinct hand owners in sequence: Adrian's right lowest, Evelyn's bandaged left, Marcus's uninjured right, Phoebe's right, then Rowena. Overlapping fingers remain traceable through their cuffs and preceding moments; no extra limb, injury-side swap or magical contact appears. Marcus's injured left arm stays outside the active stack; Evelyn's bandage persists. Phoebe's climb and closeness read clearly. Five distinct faces/costumes, the warm bedroom axis, and Rowena's remaining fear hold. The wider final ensemble and extra gutter space let the agreement land; crisp black contours, flat fills, hard-edged shadows, white gutters and readable uppercase lettering remain consistent.
+
+**Nonblocking staging variation, 24.4:** Rowena adds her anatomical right hand, whereas the plan specified left. The source specifies neither side, both hands are uninjured, and this natural reach introduces no contact or downstream continuity conflict. No repair required. The prepared, uncalled attempt 02 is not reviewed.
+
+SHA-256 bindings:
+
+- Candidate `6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e`; predecessor 023 `ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Accepted identity anchors: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`.
+- QA `exec-d27740c4-7ef1-44f1-ae40-9efa51cc5aee-390.png` `c17aef128e19adc4433f323531cce55bdd1194a08be36aa68cb6aace3c52c90d`; corresponding `-768.png` `4b5794dff1a78d9e814200bbf9ac7e29b31e0fcfa2aa2539718ed5233a665c58` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 025/PDF NOT REVIEWED. No user approval implied. No HTML or PDF created.
