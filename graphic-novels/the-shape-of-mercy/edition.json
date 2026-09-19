@@ -1419,8 +1419,8 @@
       "number": 16,
       "id": "page-016",
       "path": "pages/page-016.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
       "plannedInputs": [
         "R01",
         "R02",
@@ -1429,12 +1429,51 @@
         "R05"
       ],
       "framing": "Close faces/hands/leaf only; all five individual identities",
-      "attempts": [],
+      "attempts": [
+        "page-016-attempt-01",
+        "page-016-attempt-02",
+        "page-016-attempt-03",
+        "page-016-attempt-04"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png",
+            "sha256": "9219da8c150125196b33c7d39ae6afb431c549b9684af298316450f5836741c0",
+            "role": "complete-page target, panel3 missing Marcus LEFT-sleeve frost only"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus23 blue coat AFTER ICE; LEFT sleeve injured/frosted, only normal RIGHT hand writes"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "66143542ecabe7148d38aad921123e69116ab3dcb80fc649eb38b896c66f7d6f",
+        "evidence": "Independent whole-page PASS at native/390/768: exact consent, signature, all four witnesses, hand ownership and corrected sleeve states; no blocking findings."
+      },
+      "selectedAttempt": "page-016-attempt-04",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "reviewedAt": "2026-09-19T02:07:39.3468638Z",
+        "evidence": "Actual native/390/768 checks pass: three exact legible consent clauses before severance, Marcus right writing/left frost in1–3; Evelyn burned bare left hand and Phoebe beside leaf; Adrian right signing intact full name on one ordinary leaf; four acknowledgments with correct dual tail. P4 Marcus left occluded/right plain, Adrian sleeves charcoal; candles dark."
       }
     },
     {
@@ -5158,6 +5197,311 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "b04229c9e1d4592aba1debf27654cd8dae4e2324292572b4b23960f3f3336719",
         "evidence": "Independent PASS at native/390/768. Exact text including compact narration, contact/retrieval and N4 continuity pass; inkpot adjacent to ledger accepted as nonblocking placement compression."
+      }
+    },
+    {
+      "id": "page-016-attempt-01",
+      "assetId": "page-016",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T01:45:12Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait comic page, FIVE sequential horizontal panels with regular white gutters. Bold crisp black outlines, saturated flat colors, hard-edged shadows. Tight faces/hands/ordinary paper framing, NO room-wide view. This is informed consent BEFORE any active cut; no lost memory yet, magic, glowing paper or severance.\n\nLETTERING FIRST: large bold black uppercase comic lettering, actual cap height34–38px minimum, readable at390px page width. Reserve generous white balloons for the three verbatim dictated clauses. Use short lines below; never shrink to tiny text. Five strips may have unequal heights: first~300,second~230,third~260,fourth~430,last~210 plus gutters. All content remains inside page. No narration/title/page number/reference labels/SFX. Exact visible words ONLY as listed below.\n\nPANEL1 Adrian dictates, clearly visible speaking face, balloon tail to him:\nI, ADRIAN BELLWEATHER,\nBEING INFORMED THAT SEVERANCE\nWILL REMOVE MY MEMORY\nOF PERFORMING IT,\nMarcus alone writes on ONE ordinary cream ruled appointment leaf with black pen in his anatomical RIGHT hand. His LEFT sleeve remains frost-stiff/injured, normal right sleeve blue. Evelyn's BARE scorched LEFT hand steadies paper's edge; red sleeve visibly links that hand to her. No glove or bandage. Paper wet-edged but intact, ordinary black inkpot nearby. Main written statement faces obliquely away, only indistinct black strokes, no extra readable words. Show tight cropped heads/hands with enough sleeve/arm continuity to identify ownership.\n\nPANEL2 same ordinary leaf and writing position, next chronological clause. Adrian exact balloon:\nCHOOSE TO CUT THE COMMAND\nFORCING THIS STORMHART\nTO KILL.\nMarcus continues writing with RIGHT hand, only pen holder. Phoebe16's green-sleeved hand now rests beside Evelyn's at edge/surface, no hand grips Adrian/Marcus or their wrists. Adrian may be cropped at edge but the balloon tail clearly comes from him, never from a supporting witness. Hands are coherent, separate and not a tangled pile.\n\nPANEL3 final dictated clause. Adrian exact balloon, ASCII apostrophe in PHOEBE'S:\nI DO NOT CONSENT TO CUT ITS STORM,\nPHOEBE'S BOND, OR ANY OTHER GIFT.\nMarcus STILL holds the pen in his RIGHT hand and records this final clause; Adrian is only speaking/listening here, no pen handoff while writing. The final stroke is completed before the BETWEEN-PANEL handoff to Adrian. Supporting hands stay at edges, ordinary ink dull black. No signatures yet, no extra text.\n\nPANEL4 larger signing/witness frame. AFTER that handoff, Adrian's anatomical RIGHT hand alone holds the pen and finishes his own signature. Paper makes a tiny tear just AFTER the final letter, leaving the whole readable name intact. Only readable writing on the leaf:\nADRIAN BELLWEATHER\nMake this signature legible uppercase, main legal-record strokes above it oblique/unreadable. No new full statement on paper.\nMarcus BLUE at back-left, Evelyn RUST-RED at back-middle, Phoebe GREEN at back-right, all three identifiable faces; Adrian charcoal nearer paper in foreground. Witnesses touch only paper edge or adjacent surface, never the pen or Adrian's hand.\nMarcus has his own single-tailed balloon:\nWITNESSED.\nEvelyn AND Phoebe answer together in ONE second balloon with TWO CLEAR SEPARATE TAILS, one directly to Evelyn's face and the other directly to Phoebe's face:\nWITNESSED.\nThese are THREE sibling acknowledgments. Keep their shared balloon visibly dual-tailed, never assign it to Adrian. Marcus's LEFT sleeve still iced, Evelyn LEFT hand bare/scorched, Phoebe age16. Give four faces, signing hand and page enough room rather than crowding.\n\nPANEL5 quiet Rowena ALONE, other people cropped out. She looks down at the signed page angled near lower edge; fear becomes acknowledgment, no smile/absolution. Her exact single-tailed balloon:\nWITNESSED.\nThis is the FOURTH witness. Paper text here is angled away, not another readable duplicate signature.\n\nAll panels are N4 NIGHT: only subordinate dark stone/slush/glass if background appears; candle wicks dark, no daylight, ashfire core or standing magical ward panes. Existing ice has receded, no new wall. Same single wet-edge detached cream ruled leaf with ragged binding edge from prior page; plain black pen/inkpot, no enchanted lettering/seal. Actual inputs1 Adrian19 charcoal coat,2 Evelyn26 long braid/rust-red,3 Marcus23 wavy hair/blue,4 Phoebe16 ponytail/green,5 Rowena black silver-channel gown. Use those current states only; exclude reference headings, alternate ages and all morning bandages/outfits. Preserve correct hand laterality and no coercive bodily contact.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal coat, dictates then signs using RIGHT hand"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn26 rust-red braid, bare scorched LEFT hand now; no glove/bandage"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE; LEFT sleeve injured/frosted, only normal RIGHT hand writes"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe current AGE16 green tunic/loose dark ponytail, voluntary witness; no age6/morning state"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena gray dark hair/black high collar silver sleeves unlit; final separate acknowledgment"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Accepted Page15 native390768 ordinary leaf/pen/state inspected. R04 actual current16 pixels refreshed, all five identity sheets inspected previously unchanged and current hashes verified.",
+        "composition": "Five close sequential strips with generous text, single pen holder Marcus RIGHT through1-3 then Adrian RIGHT in4. Bare scorched Evelyn LEFT, iced Marcus LEFT. Shared Evelyn/Phoebe witness balloon explicitly dual-tailed; Rowena separate fifth panel. No room-wide crowd.",
+        "sourceMoment": "Approved Page16/source283-295 read. Three legal statement clauses exactly retained with plan ASCII apostrophe; consent signed before active cut, all four witnesses."
+      },
+      "completedAt": "2026-09-19T01:49:39Z",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-8e03b146-8d3b-4972-a7fa-cebb56250622.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-8e03b146-8d3b-4972-a7fa-cebb56250622.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-8e03b146-8d3b-4972-a7fa-cebb56250622.png",
+      "dimensions": {
+        "opaque": true,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "width": 1024
+      },
+      "candidatePath": null,
+      "outputSha256": "bcc986edc7a6bff53f8a77f9f991d852e60d91fb896c1ad91bf9edee6b995026",
+      "producerInspection": {
+        "findings": [
+          "Five panels, exact legal clauses, signature and all four witness acknowledgments including Evelyn/Phoebe shared dual-tail.",
+          "Legal-clause type is too small at390. Panel4 Marcus injury swaps to right sleeve; tiny background candle lit.",
+          "Signing nib sits before name rather than after last letter; paper reads as layered leaves. First three writing/right-hand states and supporting hands otherwise hold."
+        ],
+        "disposition": "Targeted material corrections agreed by coordinator.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "inspectedAt": "2026-09-19T01:49:39Z"
+      }
+    },
+    {
+      "id": "page-016-attempt-02",
+      "assetId": "page-016",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T01:49:39Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Targeted correction of complete1024x1536 FIVE-panel comic page image1. Preserve all exact words, identities, chronological consent/writing/signing sequence and four witness acknowledgments. Correct only typography and the specified panel4 details. Do not add a cut, glow, magical paper, new scene or extra panel.\n\nLARGER LETTERING: the three legal-clause balloons are too small at390px. Enlarge to actual uppercase cap height34px minimum, bold and clearly readable. Expand their balloons, reflow lines, and if needed give the first three strips a little more height by shortening the currently generous bottom Rowena strip. Keep five sequential strips/white gutters and visible writing hands. Preserve Adrian's face and clear speaker tail; other repeated faces in panels1–3 may be cropped more tightly to protect legal-lettering space, but sleeve-linked supporting hands remain coherent.\nPANEL1 exact:\nI, ADRIAN BELLWEATHER,\nBEING INFORMED THAT SEVERANCE\nWILL REMOVE MY MEMORY\nOF PERFORMING IT,\nPANEL2 exact:\nCHOOSE TO CUT THE COMMAND\nFORCING THIS STORMHART TO KILL.\nPANEL3 exact, use ordinary straight apostrophe:\nI DO NOT CONSENT TO CUT ITS STORM,\nPHOEBE'S BOND, OR ANY OTHER GIFT.\nNo word substitutions or omissions. Keep Marcus alone writing with normal RIGHT hand in all first three panels, not Adrian; Marcus LEFT sleeve frosted as already correct there. Evelyn's bare scorched LEFT steadies edge, Phoebe's hand beside surface, never restraining anyone.\n\nPANEL4 MARCUS AT FAR LEFT: remove the frost incorrectly placed on his anatomical RIGHT sleeve at viewer-LEFT. That arm must be ordinary blue cloth, no frost. Retain frost ONLY on his anatomical LEFT sleeve at viewer-RIGHT, the arm partly occluded behind Adrian. A small visible correctly positioned frosted sleeve segment is enough; do not invent extra limbs/hands or change Marcus's face/costume. Match image3 AFTER ICE laterality. His witness balloon remains his.\n\nPANEL4 PAPER/SIGNING: consolidate the apparent layered sheets into ONE ordinary wet-edged cream ruled leaf, with its ragged binding edge, lying on the wood surface. No page stacked beneath or extra flap/page beneath it. Main record strokes remain oblique and unreadable. Preserve only this readable uppercase signature, enlarge slightly if useful:\nADRIAN BELLWEATHER\nKeep the full name intact. Adrian holds the pen in anatomical RIGHT hand; reposition the natural right forearm/hand so nib is just AFTER the final R at the RIGHT END of the finished signature, next to a very small fresh tear after that last letter. The nib must NOT sit near the beginning of the name. No hand covers the letters. Other people touch only edge/surface, not pen or Adrian's hand.\nKeep panel4 two witness balloons EXACT:\nMarcus single tail: WITNESSED.\nEvelyn and Phoebe ONE shared balloon with TWO clearly separate tails to their faces: WITNESSED.\nPreserve panel5 Rowena alone with her exact single-tailed WITNESSED. All FOUR witnesses remain explicit.\n\nExtinguish the tiny ordinary candle flame in panel4 far-right background and any other ordinary flame. Keep night/dark stone background, no new intact sunlit windows or restored wards. Do not change palette/interior globally.\n\nInputs:1 target;2 Adrian current19 charcoal coat/right-signing anatomy;3 Marcus23 AFTER ICE correct LEFT frost and RIGHT-normal identity;4 Evelyn26 bare scorched LEFT only, no glove/bandage. Other identities/poses preserved from target. No reference headings or alternate/morning states. Maintain crisp outlined flat rendering, no blur/bloom, and perform a whole-page consistency check after these local changes.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-8e03b146-8d3b-4972-a7fa-cebb56250622.png",
+          "sha256": "bcc986edc7a6bff53f8a77f9f991d852e60d91fb896c1ad91bf9edee6b995026",
+          "role": "complete-page edit target, all exact clauses/witnesses and passing identity/state preserved"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal coat, dictates then signs using RIGHT hand"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE; LEFT sleeve injured/frosted, only normal RIGHT hand writes"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn26 rust-red braid, bare scorched LEFT hand now; no glove/bandage"
+        }
+      ],
+      "preflight": {
+        "composition": "Larger legal balloons with five strips retained; panel4 left-only frost, one leaf/intact name/nib after finalR, ordinary candle out. No unrelated redesign.",
+        "sourceMoment": "Approved Page16 unchanged; preserve full legal wording, writing before between-panel handoff, signature before cut and all four witnesses.",
+        "inputPixels": "Target native390768 inspected and coordinator concurs. R01/R03/R02 current pixels/hand states inspected unchanged, hashes verified."
+      },
+      "candidatePath": null,
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f5cbaa8-3b87-45b9-8db2-455ab0742ba1.png",
+      "outputSha256": "8788d28d1f79a2b5d6c48e7c151f4441b1ed3ab026c3fe7e16916546307c463c",
+      "completedAt": "2026-09-19T01:53:44Z",
+      "dimensions": {
+        "opaque": true,
+        "pixelFormat": "RGB24",
+        "width": 1024,
+        "height": 1536
+      },
+      "status": "needs-correction",
+      "producerInspection": {
+        "findings": [
+          "Larger exact legal text/readable witnesses, one leaf/name intact/nib after finalR, background candle out.",
+          "Collateral patch assigns frost to Adrian left sleeve in panel4. Cause: request for a visible Marcus left-sleeve segment despite that arm being occluded. Correct by leaving Marcus left arm entirely hidden and restoring Adrian charcoal sleeve; no other changes."
+        ],
+        "disposition": "Single-region identity/injury correction required.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "inspectedAt": "2026-09-19T01:53:44Z"
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f5cbaa8-3b87-45b9-8db2-455ab0742ba1.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-7f5cbaa8-3b87-45b9-8db2-455ab0742ba1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      }
+    },
+    {
+      "id": "page-016-attempt-03",
+      "assetId": "page-016",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T01:53:44Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make ONE tiny local correction in PANEL4 of this complete1024x1536 five-panel comic page.\n\nThe blue frosted patch on ADRIAN'S visible LEFT upper sleeve, between Adrian's charcoal torso and Evelyn's red clothing, is WRONG. Remove that entire blue/white frost patch and replace it with ordinary uninjured CHARCOAL COAT fabric matching Adrian's other sleeve. This sleeve belongs to Adrian, not Marcus. Adrian has no frost injury.\n\nMarcus is the BLUE-coated man at far LEFT. His normal RIGHT sleeve is already correct. His injured LEFT arm is fully OCCLUDED BEHIND Adrian in this panel; leave it hidden. Do not force a visible frosted sleeve through Adrian's body, add a limb or move the frost somewhere else. Marcus's LEFT injury remains clearly shown in panels1–3, which MUST stay unchanged.\n\nChange NOTHING ELSE. Preserve every exact text block/large lettering, all witness tails including Evelyn+Phoebe dual-tail, all faces, right-handed signing pose/nib after finalR, single ordinary paper/name/tear, Evelyn scorched LEFT hand, Phoebe hand, Rowena final witness, night background and extinguished candles. No glow, new cut or other adjustment.\nInput1 complete-page target; input2 Adrian current charcoal-coat identity/costume only. Same five panels and1024x1536 dimensions.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-7f5cbaa8-3b87-45b9-8db2-455ab0742ba1.png",
+          "sha256": "8788d28d1f79a2b5d6c48e7c151f4441b1ed3ab026c3fe7e16916546307c463c",
+          "role": "complete-page target; one panel4 erroneous frost patch only"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal coat, dictates then signs using RIGHT hand"
+        }
+      ],
+      "preflight": {
+        "composition": "Diagnosed occlusion conflict resolved by no visible Marcus left sleeve in4; erase only frost patch on Adrian sleeve, preserve writing/signature/text/other panels.",
+        "inputPixels": "Target native390768 inspected; R01 current charcoal-coat identity verified, both hashes current.",
+        "sourceMoment": "Adrian has no frost injury, Marcus left remains injured. All consent/witness content unchanged."
+      },
+      "outputSha256": "9219da8c150125196b33c7d39ae6afb431c549b9684af298316450f5836741c0",
+      "status": "needs-correction",
+      "producerInspection": {
+        "disposition": "Diagnosed single-panel collateral restoration, coordinator concurs.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Panel4 Adrian charcoal sleeve now correct; all signature/text/witness/candle corrections retained.",
+          "Whole-page check found collateral removal of Marcus left-sleeve frost in3 while1/2 still correct. Similar repeated strip poses caused scope spill; isolate panel3 writer only and explicitly freeze injury invariants in all five frames."
+        ],
+        "inspectedAt": "2026-09-19T01:57:57Z"
+      },
+      "candidatePath": null,
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png",
+      "completedAt": "2026-09-19T01:57:57Z",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "dimensions": {
+        "opaque": true,
+        "width": 1024,
+        "pixelFormat": "RGB24",
+        "height": 1536
+      }
+    },
+    {
+      "id": "page-016-attempt-04",
+      "assetId": "page-016",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T01:57:57Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "ONE REGION ONLY: restore frost to Marcus's LEFT sleeve in PANEL3 (the MIDDLE strip of five, with the “I DO NOT CONSENT...” balloon). He is the BLUE-coated writer at center-right. His anatomical LEFT forearm/sleeve on viewer-RIGHT, beside Evelyn's red sleeve and above the paper, must have the same white-blue branching surface frost as his LEFT sleeve already correctly has in panels1 and2. Use image2 AFTER ICE state. His normal RIGHT hand still holds pen, RIGHT sleeve stays plain blue.\n\nFreeze all other regions/invariants:\n- Panel1 blue Marcus LEFT iced, RIGHT writing sleeve plain: unchanged.\n- Panel2 blue Marcus LEFT iced, RIGHT writing sleeve plain: unchanged.\n- Panel3 ONLY this LEFT blue sleeve gains its missing frost; keep all poses/hands/ink/text unchanged.\n- Panel4 charcoal Adrian signer BOTH sleeves plain charcoal, NO frost. Blue Marcus at far-left has LEFT arm fully hidden behind Adrian, visible RIGHT sleeve plain. DO NOT add any frost anywhere in panel4.\n- Panel5 Rowena unchanged.\nPreserve ALL exact large lettering, three legal clauses, all witness acknowledgments/dual tails, right-handed signature/nib after finalR, one leaf, complete ADRIAN BELLWEATHER name, tiny tear, candle-out state, every face and all five borders/gutters.\nThis is restoring one missing costume detail, not redesigning any pose or moving an injury. Input1 full-page target; input2 Marcus identity/LEFT frost only. No other change; keep1024x1536.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png",
+          "sha256": "9219da8c150125196b33c7d39ae6afb431c549b9684af298316450f5836741c0",
+          "role": "complete-page target, panel3 missing Marcus LEFT-sleeve frost only"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE; LEFT sleeve injured/frosted, only normal RIGHT hand writes"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Marcus left sleeve remains iced through all visible states, no healing. Consent scene exact words/order unchanged.",
+        "inputPixels": "Target native390768 whole-page check; accepted R03 AFTER ICE pixels/current hash verified.",
+        "composition": "Only panel3 left blue sleeve frost restoration, every panel injury invariant explicitly frozen to avoid scope spill. No further pose/composition or lettering changes."
+      },
+      "outputSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+      "producerInspection": {
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "inspectedAt": "2026-09-19T02:01:43Z",
+        "disposition": "Suitable candidate for independent review, no independent PASS or user approval claimed.",
+        "findings": [
+          "All five sequential panels inspected, legal clauses exact and larger readable type; main writing remains illegible strokes except complete signature.",
+          "P1/P2/P3 Marcus normal RIGHT holds pen, anatomical LEFT sleeve consistently iced. Evelyn bare scorched LEFT steadies edge; Phoebe voluntary hand alongside from2.",
+          "P4 Adrian normal charcoal sleeves and RIGHT hand finishes intact ADRIAN BELLWEATHER name, nib after finalR/tiny tear on ONE ordinary leaf. Marcus LEFT arm fully occluded, visible RIGHT blue sleeve plain.",
+          "Marcus WITNESSED single tail and Evelyn/Phoebe WITNESSED shared clear dual tail, Rowena WITNESSED separately in5: all four acknowledgments. No one touches signer/pen.",
+          "Night dark background/candle-out states, ordinary ink/paper, no active cut/memory-loss effect/glow/bandage. Full-page check found no additional concrete material defect after final local repair."
+        ]
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-8475a838-d4dd-477c-89fe-87b73602990e.png",
+      "dimensions": {
+        "opaque": true,
+        "height": 1536,
+        "width": 1024,
+        "pixelFormat": "RGB24"
+      },
+      "completedAt": "2026-09-19T02:01:43Z",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-016.png",
+      "status": "selected",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-8475a838-d4dd-477c-89fe-87b73602990e.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-8475a838-d4dd-477c-89fe-87b73602990e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-47ce4196-a1b0-412e-afb0-3e8801075c79.png",
+            "sha256": "9219da8c150125196b33c7d39ae6afb431c549b9684af298316450f5836741c0",
+            "role": "complete-page target, panel3 missing Marcus LEFT-sleeve frost only"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus23 blue coat AFTER ICE; LEFT sleeve injured/frosted, only normal RIGHT hand writes"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "66143542ecabe7148d38aad921123e69116ab3dcb80fc649eb38b896c66f7d6f",
+        "evidence": "Independent whole-page PASS at native/390/768: exact consent, signature, all four witnesses, hand ownership and corrected sleeve states; no blocking findings."
       }
     }
   ],

@@ -405,3 +405,18 @@ SHA-256 bindings:
 - QA `exec-0fe68db3-8f72-4486-b81a-a3f45e8af05c-390.png` `a4cc317ce03d4f7f8e573d23bebb9b21203138a507d90d275dea51e7d24092e0`; corresponding `-768.png` `9268888b5a602ee7af37748454b37e7a7689c43a915fb348221d4da1bbb3020e` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 016 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 016 independent pixel review — 2026-09-18
+
+**PASS**, attempt 04. Reviewer `/root/mercy_plan_review` independently inspected the complete saved page at native, 768 px and 390 px against approved Page 16/source 283–295, predecessor, actual edit target and accepted references.
+
+All three verbatim consent clauses, punctuation, signature `ADRIAN BELLWEATHER` and three witness balloons are correct and readable. The five-frame sequence completes Marcus's writing before Adrian signs, entirely before any active cut. Marcus uses his normal right hand; his left sleeve stays iced in all three writing frames. Evelyn's bare burned left hand steadies the leaf; Phoebe's hand rests alongside, without restraining the signer. Adrian's right signing hand, charcoal sleeve, nib beyond the final letter and tiny paper tear remain coherent; the name holds. Marcus's visible right sleeve is plain in the witness frame. Tails clearly assign Marcus, Evelyn/Phoebe together, then Rowena alone. Ordinary paper/ink, N4 night, unlit background, identities, anatomy and crisp flat GN style hold. No material blocker or collateral frost transfer remains.
+
+SHA-256 bindings:
+
+- Candidate `7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc`; predecessor 015 `dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Actual attempt 04 target `9219da8c150125196b33c7d39ae6afb431c549b9684af298316450f5836741c0` plus R03 below. Inherited character inputs: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R02 `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`.
+- QA `exec-8475a838-d4dd-477c-89fe-87b73602990e-390.png` `df6e1a27c2a3720efb793820a5b1a2f167a3f26929cc02f6b10c5171676d1bff`; corresponding `-768.png` `b2607140571c71e32aeebce1ef7e646700b3cee1d84bea8d8acbdb15b159cdd4` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 017 onward/PDF NOT REVIEWED. No user approval implied.
