@@ -3,7 +3,7 @@
   "contractVersion": "0.7",
   "slug": "the-shape-of-mercy",
   "title": "The Shape of Mercy",
-  "status": "awaiting-final-approval",
+  "status": "approved",
   "createdAt": "2026-09-18T18:37:05.8498501Z",
   "worktree": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy",
   "branch": "codex/graphic-novel-the-shape-of-mercy",
@@ -7697,8 +7697,8 @@
       "approvedAt": "2026-09-18T19:20:41.8217987Z"
     },
     "final": {
-      "status": "pending",
-      "userResponse": null,
+      "status": "approved",
+      "userResponse": "approved, update the PR and merge.",
       "binding": {
         "pdfPath": "edition.pdf",
         "pdfSha256": "13b6376bfd00a25442f994246347e94701a7db53d216c395f827b9b4a04d426a",
@@ -7841,8 +7841,9 @@
         "contractSha256": "1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f",
         "independentReviewFileSha256": "d0a8827682bdf5f08f793295112cc72267d5ef6b50f54f44b7f8f0df9ae26169"
       },
-      "reason": "New cover and resulting PDF require review and final user approval; historical prior approval retained in revisions.",
-      "preparedAt": "2026-09-19T04:01:23.766562-04:00"
+      "preparedAt": "2026-09-19T04:01:23.766562-04:00",
+      "approvedAt": "2026-09-19T07:08:04.145036-04:00",
+      "authorizationContext": "The user explicitly approved the independently passing revised 26-page PDF presented in the preceding response and authorized updating PR #329 and merging it. Approval binds to this exact PDF and ordered image hashes."
     },
     "deliveryChanges": [
       {
@@ -9534,7 +9535,7 @@
           "sha256": "1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b"
         }
       ],
-      "status": "reviewed-awaiting-final-approval",
+      "status": "approved",
       "selectedCoverSha256": "45f40a9ab1b8a20c4dc6790b81fc34ee606482aa01546c2dacf01aba7ec8ba6e",
       "previousPreAssemblyReview": {
         "scope": "complete-ordered-selected-image-sequence",
@@ -10169,7 +10170,8 @@
       "newPdfSha256": "13b6376bfd00a25442f994246347e94701a7db53d216c395f827b9b4a04d426a",
       "actualPdfEdits": 1,
       "reviewFileSha256": "d0a8827682bdf5f08f793295112cc72267d5ef6b50f54f44b7f8f0df9ae26169",
-      "independentVerdict": "PASS"
+      "independentVerdict": "PASS",
+      "approvedAt": "2026-09-19T07:08:04.145036-04:00"
     }
   ]
 }
