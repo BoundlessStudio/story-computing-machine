@@ -1281,8 +1281,8 @@
       "number": 14,
       "id": "page-014",
       "path": "pages/page-014.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
       "plannedInputs": [
         "R01",
         "R02",
@@ -1291,12 +1291,51 @@
         "R09"
       ],
       "framing": "Separate sibling restraint frames; Phoebe/Rowena off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-014-attempt-01",
+        "page-014-attempt-02",
+        "page-014-attempt-03",
+        "page-014-attempt-04"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "inputImages": [
+          {
+            "sha256": "14f39d2d8b97b6df800693e4c4849f5765bf0868a5ab610b50441bf38ef727e1",
+            "role": "same actual pixels as selected Page014; immutable external complete-page target; preserve all except exterior sky/tree night palette",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png"
+          },
+          {
+            "id": "R10",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-orchard-intact.png",
+            "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+            "role": "night exterior palette ONLY, no intact state/flowers/moon/architecture/windowlight transfer"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "fb5bf478364ea0b208fa28a6a19d68191e1a62fa8f7c3f201b1cc4b84378554a",
+        "evidence": "Independent re-review PASS on attempt 04, actual native/390/768 pixels and Page013 continuity. Corrected night lighting without collateral change to lettering, release sequence, anatomy, ice/fire transitions, stormhart or damaged hall. No blocking findings."
+      },
+      "selectedAttempt": "page-014-attempt-04",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "reviewedAt": "2026-09-19T01:25:42.3500885Z",
+        "evidence": "Inspected actual selected pixels at native, 390 and 768 px. All exterior regions are night; five exact large text blocks remain readable. Evelyn lowers fire before exposing burned left palm and holding removed glove in right hand. Marcus alone releases ice, left arm remains iced and right normal; gallery closed before his release, open with retreat afterwards. Adrian hands relaxed; candles unlit and damaged room preserved."
       }
     },
     {
@@ -4605,6 +4644,336 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "f5234b33073e1fe10628cb4ca9b307e28cdc03afdaa8df8794d8bb3f54ce2869",
         "evidence": "Independent native/390/768 PASS: exactdialogue, consultation, N3blockedexit and detachedsubjectivescar echo clear. Minorantler-tipcrop explicitly nonblocking."
+      }
+    },
+    {
+      "id": "page-014-attempt-01",
+      "assetId": "page-014",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T00:53:17Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait graphic-novel page. LETTERING FIRST: all five exact text blocks below must have actual uppercase cap height34–38px minimum, bold black comic letters, generous white balloons/yellow narration box and deliberate short line breaks. Readable at390px page width. Reserve the space before drawing; never shrink long caption to fit. No headings, page number, reference labels, SFX or other words.\n\nFOUR panels, orderly white gutters. Upper row: panel1 request atLEFT, panel2 silent response atRIGHT. Middle panel3 full-width request/reply. Final panel4 full-width LARGER release scene taking nearly lower half. Align sibling hand gestures down the page for voluntary sequential actions. Fire is released FIRST, then ice. No Adrian severance or new cut anywhere.\n\nPANEL1 exact Adrian balloon:\nEVELYN,\nLOWER THE FIRE.\nMoment before fire release. Adrian19 in charcoal coat at inner LEFT edge speaks gently toward Evelyn26 in rust-red clothing/braid; clear short tail to him. Evelyn looks past broken orchard windows toward living branches smoking beyond a charred crescent/firebreak. Outside ashfire still has a white magical heart at this moment. Her scorched anatomical LEFT glove is STILL WORN, RIGHT hand bare. Frame this as one present instant, no duplicated Evelyn. Ice still solid, candles dark.\n\nPANEL2 SILENT, one instant AFTER release and AFTER glove removal. Evelyn near-frontal, presents anatomical LEFT palm OPEN and BARE with non-graphic scorched skin, clearly on viewer-RIGHT. Her normal RIGHT hand on viewer-LEFT holds the removed black LEFT glove, fingers naturally closed around it. She is not simultaneously pulling it off. No bandage, no fire in her palms. Outside the broken window, magical white fire core is GONE; only ordinary low embers in wet char/earth and thin smoke remain. Living branches beyond the burned crescent survive. Quiet deliberate restraint, not loss of her gift.\n\nPANEL3 exact balloons in order, tails unmistakable:\nAdrian: MARCUS. LET THE ICE GO.\nMarcus: IT IS KEEPING THE ANTLERS\nOUT OF OUR RELATIVES.\nAdrian turns toward Marcus at the surviving stone pillar on the inner Hall side. Marcus23 blue coat, tired and injured: anatomical LEFT sleeve frost-stiff, normal RIGHT arm and bare right hand. Near-frontal pose makes laterality clear: frosted LEFT on viewer-RIGHT. Marcus looks toward Adrian and the cracked barrier; the joke fades from his face. This is before his release, ice still upright. No fire magic remains outside, only embers.\n\nPANEL4 exact Adrian balloon first:\nAND KEEPING THE STORM IN.\nYellow narration box in clear lower band:\nTHEIR RESTRAINT SEPARATED\nTHE CONNECTIONS. RED WITHDREW.\nBLUE RECEDED. THE STORM AND\nFOREIGN COMMAND REMAINED.\nLarge wide aftermath view, enough space for the actual action above the caption. Marcus by LEFT pillar voluntarily lowers BOTH palms toward floor. Both hands remain attached coherently, anatomical LEFT sleeve still iced, RIGHT normal. Adrian nearby in charcoal speaks with clear tail. Thick PHYSICAL water-ice softens and slumps along edges; meltwater runs through NARROW channels across glass/slush, no explosive collapse or flood. Anonymous guests retreat LEFT into far-gallery inner doors through newly opened passage. No other named family visible.\nThe huge living stormhart at broken RIGHT orchard threshold carefully places its hooves among slumping ice, finding footing toward the newly open route. Preserve its scale, branched antlers, smooth translucent blue hide and native INTERNAL silver storm. Old curved throat scar and tight dark foreign-command edge remain intact; the beast is still bound by that command, not yet freed. No physical collar/rope, no cut mark or severance effect. Evelyn's flame absent; ordinary ember-lit wet char outside. No floating red/blue strings needed: actual released fire and melting ice tell the change.\n\nActual inputs1 Adrian,2 Evelyn,3 Marcus,4 stormhart,5 SAME damaged Hall. Use specified current states only, exclude sheet lettering/backgrounds/alternate morning states. Hall keeps RIGHT orchard doors/windows shattered, LEFT gallery/pillar, overturned table shelter, glass/slush/debris and ALL candles OUT. No restored projected ward panes. Match accepted crisp bold black contours, saturated flat colors, hard-edged shadow steps; sharp outlined background/props, no blur/bloom/photographic modeling. Clear anatomy and generous lettering space govern composition.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 identity/current charcoal formal coat and crisp GN style; exclude morning outfit"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn26 braid/rust-red formal clothing; panel1 LEFT glove worn, panel2 bare scorched LEFT palm and removed glove in RIGHT hand; exclude bandage"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE state; anatomical LEFT sleeve frosted, RIGHT arm normal and hand bare"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "same giant living stormhart smooth translucent hide/branching antlers/native silver currents/old curved throat scar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "same damaged room geometry/N3 base; LEFT gallery/pillar, RIGHT orchard threshold, broken panes/dark candles/debris; scripted N4 fire extinguishing and ice release override reference states"
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page14 and source241-259 checked: fire voluntarily released first, glove already removed in14.2, then ice voluntarily released; no Adrian cut.",
+        "composition": "Four frames with paired upper Evelyn request/response, middle Marcus exchange, large final release view; five exact text units checked. Left glove worn then bare scorched left palm/right holds removed glove. Marcus left sleeve iced/right normal, both palms lowered. Large lettering reserved before art.",
+        "inputPixels": "Accepted Page13 native390768 continuity inspected. Accepted R01/R07 pixels unchanged; R02/R03/R09 re-inspected for hand laterality and room. All five hashes verified."
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6c2eb8ac-4cad-434d-8fb5-26955e6b5366.png",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6c2eb8ac-4cad-434d-8fb5-26955e6b5366.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-6c2eb8ac-4cad-434d-8fb5-26955e6b5366.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "dimensions": {
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true,
+        "width": 1024
+      },
+      "status": "needs-correction",
+      "producerInspection": {
+        "disposition": "Targeted lettering/candle/local rendering correction required.",
+        "inspectedAt": "2026-09-19T00:57:23Z",
+        "findings": [
+          "All five exact text blocks and four sequential voluntary restraint frames present. Evelyn left glove then bare scorched left palm/right-held glove; Marcus left frosted sleeve/both palms lowered correct.",
+          "Type undersized, especially final caption at390. Enlarge all boxes/type, final yellow box across clear lower floor band.",
+          "Tiny ordinary candles lit deep in left gallery in panels3/4; remove. Exterior smoke/embers and glossy floor contain soft photographic texture; simplify local rendering.",
+          "Stormhart large and antlers cropped in final wide framing; no anatomy defect, native storm/old scar remain."
+        ],
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "completedAt": "2026-09-19T00:57:23Z",
+      "outputSha256": "a8a769fa6bb29993f762ed915e70baa5b3673f3448d020a0ced9afc481234a99",
+      "candidatePath": null
+    },
+    {
+      "id": "page-014-attempt-02",
+      "assetId": "page-014",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T00:57:23Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the complete1024x1536 four-panel comic page in image1. Preserve the exact story sequence, passing identities/poses/hand anatomy, panel arrangement and all text wording. Make the following targeted corrections.\n\nLETTERING: current type is too small at390px page width. Enlarge ALL five text blocks to actual uppercase cap height34–38px minimum. Bold crisp black comic lettering throughout, no narrow tiny font. ENLARGE the balloons and narration box to fit, never constrain text to existing small boxes. Leave faces and hands visible. Short line breaks below are suggestions; words/punctuation are exact:\nPanel1 Adrian:\nEVELYN,\nLOWER THE FIRE.\nPanel2 is silent, no lettering.\nPanel3 Adrian first:\nMARCUS.\nLET THE ICE GO.\nPanel3 Marcus second:\nIT IS KEEPING\nTHE ANTLERS OUT\nOF OUR RELATIVES.\nPanel4 Adrian speech:\nAND KEEPING\nTHE STORM IN.\nPanel4 yellow narration:\nTHEIR RESTRAINT SEPARATED THE CONNECTIONS.\nRED WITHDREW. BLUE RECEDED.\nTHE STORM AND FOREIGN COMMAND REMAINED.\nThe yellow narration box should span almost the entire lower panel width within the border, around900–950px, occupying the already open bottom floor band. Give it generous padding and enough height for three or four lines at the SAME large cap height. Do not cover Marcus's lowered palms, faces, beast's planted hooves or retreating people. Expand panel1/3/4 balloons into available upper/background space for larger type, correct tails to Adrian/Marcus preserved. No new text or labels.\n\nDARK CANDLES: extinguish EVERY visible tiny candle flame, including candles deep inside the LEFT gallery retreat doorway in panels3 and4. Keep actual unlit candles and architecture, but remove flame tips and their artificial golden bloom. This N3/N4 Hall has no lit ordinary candles. The gallery can stay readable in subdued reflected cool light.\n\nLOCAL BACKGROUND RENDERING: flatten/sharpen the photographic-looking exterior fire/char/smoke/foliage and glossy floor highlights into the same outlined flat graphic-novel rendering as the figures and actual references. Use clear hard-edged dark masses, crisp contours and simplified flat color patches. Smoke uses a few flat pale shapes, no blurred/cloudy photographic wisps. Retain the crucial temporal difference: panel1 still has the white magical ashfire heart among the firebreak; panels2/3/4 have NO magical white core, only ordinary low embers in wet char and thin smoke. Surviving living branches beyond the crescent remain. Do not restore the ashfire after its release.\n\nPreserve Evelyn's single post-release instant in panel2: bare scorched anatomical LEFT palm open on viewer-RIGHT, no bandage; RIGHT hand on viewer-LEFT naturally holds removed black glove. Panel1 LEFT glove still worn. Preserve Marcus's anatomical LEFT sleeve frost-stiff on viewer-RIGHT, RIGHT arm/hand normal, BOTH palms lowered in final frame. Preserve Adrian's quiet asking, no severance effect anywhere. Ice melts/slumps only after Marcus's reply, narrow channels not flood; guests retreat LEFT gallery, huge living stormhart finds footing at RIGHT threshold/newly open route. Native silver current and old throat scar/dark foreign command remain intact; no cut or physical rope. Keep shattered panes, debris, overturned table and no projected wards.\n\nActual inputs: image1 complete-page target; image2 Evelyn current glove/bareLEFT states only; image3 Marcus AFTER ICE left-sleeve state only; image4 same living stormhart identity; image5 same damaged Hall geometry and crisp physical ice. All reference headings/morning states excluded. Preserve untouched faces, clothing and coherent anatomy. No extra people or scene beats. Reinspect whole composition for all five exact readable blocks, four panels, sequential voluntary restraint and clear hand laterality.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6c2eb8ac-4cad-434d-8fb5-26955e6b5366.png",
+          "sha256": "a8a769fa6bb29993f762ed915e70baa5b3673f3448d020a0ced9afc481234a99",
+          "role": "complete-page edit target, preserve exact sequence/text/identities/hand states"
+        },
+        {
+          "id": "R02",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/evelyn-bellweather.png",
+          "sha256": "cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5",
+          "role": "Evelyn26 braid/rust-red formal clothing; panel1 LEFT glove worn, panel2 bare scorched LEFT palm and removed glove in RIGHT hand; exclude bandage"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE state; anatomical LEFT sleeve frosted, RIGHT arm normal and hand bare"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "same giant living stormhart smooth translucent hide/branching antlers/native silver currents/old curved throat scar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "same damaged room geometry/N3 base; LEFT gallery/pillar, RIGHT orchard threshold, broken panes/dark candles/debris; scripted N4 fire extinguishing and ice release override reference states"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Target native390768 inspected, accepted R02/R03/R09 inspected current and R07 unchanged, all hashes verified.",
+        "sourceMoment": "Approved Page14 unchanged, all five exact text blocks/punctuation/speakers checked; no cut, fire release before ice release.",
+        "composition": "Enlarge lettering with full-width bottom caption; extinguish gallery candles and flatten only soft local environmental texture; preserve all passing sequence/anatomy/hand states."
+      },
+      "dimensions": {
+        "width": 1024,
+        "opaque": true,
+        "pixelFormat": "RGB24",
+        "height": 1536
+      },
+      "candidatePath": null,
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fea1c545-7906-46d5-b18f-b7cc9281b1cc.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-fea1c545-7906-46d5-b18f-b7cc9281b1cc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "status": "needs-correction",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fea1c545-7906-46d5-b18f-b7cc9281b1cc.png",
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T01:00:46Z",
+        "findings": [
+          "All five exact text blocks now comfortably readable at390; candles extinguished; exterior/floor rendering flatter and sharper.",
+          "Correct Evelyn hand states, Marcus left frost injury, voluntary release sequence otherwise preserved.",
+          "Coordinator identified two additional concrete sequence/agency defects: panel3 left gallery already open with retreat before ice release; panel4 Adrian duplicates Marcus palms-down release gesture.",
+          "Beast size/cropped framing explicitly accepted by coordinator, preserve."
+        ],
+        "disposition": "Narrow correction of pre-release gallery closure and Adrian ordinary relaxed hands required.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "completedAt": "2026-09-19T01:00:46Z",
+      "outputSha256": "38181d8111d9f6f49e71aa401542462862bdfb04a73911e61a42faaaf286b9b3"
+    },
+    {
+      "id": "page-014-attempt-03",
+      "assetId": "page-014",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T01:00:46Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make only TWO precise local edits to this complete1024x1536 four-panel comic page, image1. Preserve all five exact text blocks at their current large readable size, all balloons/tails/yellow caption, the entire two upper panels, Marcus's correct LEFT frost injury, stormhart scale/framing, colors and every other passing detail.\n\n1 MIDDLE FULL-WIDTH PANEL3, far LEFT gallery doorway: this is BEFORE Marcus releases ice. Restore a substantial SOLID water-ice barrier across that inner-gallery opening, from floor upward, visibly blocking walking passage. Reference image4 shows the physical cloudy jagged ice. No open route yet. The two anonymous guests must remain still on the far protected side behind this ice, if visible as partly obscured figures; no retreating/walking through the doorway in this panel. Preserve doorway/pillar geometry and the darkness of all candle wicks. Do not alter Adrian's conversational hand or Marcus's reply/body in this middle panel.\n\n2 LARGE BOTTOM PANEL4, Adrian in CHARCOAL coat at LEFT: currently his two palms-down pose duplicates Marcus's magic-release action. Change ONLY Adrian's arms/hands to ordinary relaxed hands hanging naturally at his coat sides, fingers gently curled, no pointing, pressing-down, spell gesture or outstretched palms. Preserve his head/gaze/body location/costume, balloon attribution and anatomy. Only Marcus in BLUE coat visibly lowers BOTH palms toward floor to voluntarily release HIS ice. Marcus's frosted anatomical LEFT sleeve/viewer-RIGHT and normal RIGHT arm must remain exactly correct. Do not alter Marcus's hands or pose.\n\nIn this final panel4 ONLY, keep the gallery route OPEN and anonymous guests retreating through it, melted ice slumping with narrow meltwater channels, and living stormhart carefully at RIGHT threshold. No flood or explosive collapse. Adrian performs NO severance anywhere on this page; native silver storm and old throat-scar foreign command remain intact. Keep fire already released in panels2–4, ordinary embers only, all ordinary candles extinguished, shattered windows/debris/slush/overturned table. No other art changes, no new words, no extra panel.\n\nInput1 primary target. Input2 Adrian current19 charcoal-coat identity/anatomy only. Input3 Marcus AFTER ICE anatomicalLEFT injury/right-normal pose reference only. Input4 damaged Hall gallery/pillar/solid water-ice geography only, with panel4 release overriding its intact barriers. Exclude reference headings, alternate morning states and original active fire. Preserve the corrected crisp contours/flat colors/hard shadows and large lettering.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-fea1c545-7906-46d5-b18f-b7cc9281b1cc.png",
+          "sha256": "38181d8111d9f6f49e71aa401542462862bdfb04a73911e61a42faaaf286b9b3",
+          "role": "complete-page target; preserve all five exact large text blocks and passing art"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 identity/current charcoal formal coat and crisp GN style; exclude morning outfit"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 blue coat AFTER ICE state; anatomical LEFT sleeve frosted, RIGHT arm normal and hand bare"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "same damaged room geometry/N3 base; LEFT gallery/pillar, RIGHT orchard threshold, broken panes/dark candles/debris; scripted N4 fire extinguishing and ice release override reference states"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Target native390768 inspected; accepted R01/R03/R09 pixels unchanged/current hashes verified.",
+        "composition": "Only panel3 far-left gallery barrier and panel4 Adrian relaxed arms change. Preserve lettering/top panels/Marcus left frost/beast framing and final retreat. Coordinator explicitly requested both local repairs.",
+        "sourceMoment": "Approved Page14/source241-259 sequence checked: Marcus alone voluntarily releases ice in14.4, no Adrian cut."
+      },
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-014.png",
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T01:03:30Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Four frames with all five exact text blocks and correct tails/order, large readable390 typography, silent second frame.",
+          "Evelyn fire released first: worn left glove then bare scorched left palm/right hand holds glove; white core gone after first panel, ordinary ember aftermath. No bandage.",
+          "Marcus left sleeve frosted/right normal throughout; panel3 gallery is physically blocked by ice and guests remain behind it, panel4 route opens with retreat and narrow meltwater channels.",
+          "Panel4 Adrian hands relaxed at sides; Marcus alone lowers both palms, no Adrian severance or diminished gifts.",
+          "Stormhart remains living/native silver storm and throat scar/foreign command intact at right threshold. Coordinator accepted large cropped framing.",
+          "Dark ordinary candles, damaged room/overturned table/glass/slush, flatter sharp environment preserved. Full-page collateral check found no new concrete issue."
+        ],
+        "disposition": "Suitable candidate for independent review; no independent PASS or user approval claimed."
+      },
+      "outputSha256": "14f39d2d8b97b6df800693e4c4849f5765bf0868a5ab610b50441bf38ef727e1",
+      "status": "candidate-pending-independent-review",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png",
+      "completedAt": "2026-09-19T01:03:30Z",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "dimensions": {
+        "height": 1536,
+        "width": 1024,
+        "opaque": true,
+        "pixelFormat": "RGB24"
+      }
+    },
+    {
+      "id": "page-014-attempt-04",
+      "assetId": "page-014",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T01:13:34Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit image1, the complete1024x1536 four-panel comic page, with ONE LOCAL PALETTE CORRECTION ONLY. Independent review passed every other feature.\n\nThe outdoor sky and tree illumination visible through the broken windows/threshold in panels1,2 and4 wrongly look like daytime. Make ONLY those EXTERIOR SKY/TREE-CROWN regions unmistakably NIGHT:\n- Dark inky/navy sky, near-black cool green/blue tree masses with restrained cool rim accents.\n- Remove daylight-blue sky and pale daylight clouds. No dawn/sunrise glow.\n- Keep tree silhouettes, branch positions and surviving living foliage; do not replace them with dead trees.\nImage2 supplies NIGHT LIGHTING/PALETTE ONLY. Do not transfer its intact buildings/doors, flowering trees, pond, moon, window lights or other content.\n\nPreserve all existing charred crescent, wet earth, smoke and ember positions. Panel1's white magical fire heart remains present. Panels2 and4 remain AFTER fire release: only ordinary low embers and smoke, NO reintroduced white magical core. Smoke may remain visible as restrained flat gray shapes against navy night. Do not change fire/ember intensity or add flames.\n\nDo NOT globally darken the comic. Preserve the interior and every face/figure exactly: all five exact text blocks and their readable lettering, frames/white gutters, identities, Evelyn LEFT glove then bare scorched LEFT palm/right-held removed glove, Marcus LEFT frost sleeve/right normal, panel3 solid iced gallery with guests behind, panel4 open retreat, Adrian hands relaxed at sides and Marcus palms down. Preserve stormhart anatomy/scale/native silver lightning/scar, physical ice/water, props, glass/slush, dark ordinary candles and all other previously reviewed details. No new text, panel, severance or ward. Maintain crisp outlined flat rendering and1024x1536 dimensions.",
+      "inputImages": [
+        {
+          "sha256": "14f39d2d8b97b6df800693e4c4849f5765bf0868a5ab610b50441bf38ef727e1",
+          "role": "same actual pixels as selected Page014; immutable external complete-page target; preserve all except exterior sky/tree night palette",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png"
+        },
+        {
+          "id": "R10",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-orchard-intact.png",
+          "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+          "role": "night exterior palette ONLY, no intact state/flowers/moon/architecture/windowlight transfer"
+        }
+      ],
+      "preflight": {
+        "composition": "No composition change: only exterior sky/tree illumination in14.1/14.2/14.4, preserve fire-first/ice-second state and all other independently passing content. Diagnosed local palette defect, not repeat of previous state corrections.",
+        "inputPixels": "Selected target native390768 unchanged, external original hash equals selected. R10 actual night palette re-inspected; both hashes verified.",
+        "sourceMoment": "Independent REVISE night-only finding at review4edac9dd66430ca66cad293d147a7ac4df4fd6398bc940647c67c872136e3e39. Same continuous night before later morning memory transition."
+      },
+      "dimensions": {
+        "pixelFormat": "RGB24",
+        "height": 1536,
+        "width": 1024,
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-a3006ef5-c533-4222-9fe9-04acd4b33caf.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-a3006ef5-c533-4222-9fe9-04acd4b33caf.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-014.png",
+      "status": "selected",
+      "completedAt": "2026-09-19T01:17:16Z",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-a3006ef5-c533-4222-9fe9-04acd4b33caf.png",
+      "outputSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T01:17:16Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Night-only independent finding addressed; suitable candidate for independent re-review, no independent PASS claimed.",
+        "findings": [
+          "Exterior sky/tree illumination in14.1/14.2/14.4 now dark navy night and near-black cool crowns, no premature daylight/pale clouds. Living branches retained.",
+          "Panel1 white magical core still present; panels2/4 ordinary low embers/smoke only, no restored ashfire.",
+          "All five exact text blocks/speaker tails and readable lettering preserved; whole-page native390768 collateral check.",
+          "Evelyn left glove then bare scorched left palm/right-held glove preserved. Marcus left sleeve iced/right normal; panel3 gallery solidly blocked, panel4 retreat open with Adrian relaxed hands and Marcus palms down.",
+          "Beast/native storm/scar, slumping physical ice/narrow channels, room damage/debris and dark ordinary candles remain; no new cut."
+        ]
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "inputImages": [
+          {
+            "sha256": "14f39d2d8b97b6df800693e4c4849f5765bf0868a5ab610b50441bf38ef727e1",
+            "role": "same actual pixels as selected Page014; immutable external complete-page target; preserve all except exterior sky/tree night palette",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-6ce67580-e0e4-4b5c-9a6b-66854657ff9f.png"
+          },
+          {
+            "id": "R10",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-orchard-intact.png",
+            "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+            "role": "night exterior palette ONLY, no intact state/flowers/moon/architecture/windowlight transfer"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "fb5bf478364ea0b208fa28a6a19d68191e1a62fa8f7c3f201b1cc4b84378554a",
+        "evidence": "Independent re-review PASS on attempt 04, actual native/390/768 pixels and Page013 continuity. Corrected night lighting without collateral change to lettering, release sequence, anatomy, ice/fire transitions, stormhart or damaged hall. No blocking findings."
       }
     }
   ],
