@@ -644,3 +644,98 @@ Every row below received the full/native, 390 px and 768 px visual inspection st
 
 
 The single completed PDF-generation history was checked; this reviewer made no image-generation, PDF-authoring/rebuild or HTML-preview operation. **Final user approval remains pending** and must bind to the exact PDF and ordered images above. Publication is outside this review's scope; this assistant PASS is not publication or user approval.
+
+## Requested comic-style cover revision — 2026-09-19
+
+Coordinator `/root`: **PASS**, selected cover attempt02, SHA-256 `45f40a9ab1b8a20c4dc6790b81fc34ee606482aa01546c2dacf01aba7ec8ba6e`. Native 1024x1536 and 390/768-width saved pixels inspected. Exact two-line title is large, legible and safely framed. Adrian age19/Phoebe age16 match accepted identities and formal costumes; open hands remain empty and separate from the beast. The stormhart retains intrinsic lightning, old throat scar and complete physical antlers. Corrected branches fit the canvas; wall candles are extinguished. Ink contours, flat saturated fills and hard-edged shadows match the actual comic. No extra text, new event or material anatomy/framing issue.
+
+The user explicitly requested this new cover and first-page PDF replacement after the original book/PR. The prior photographic cover and prior PDF approval are historical. The 25 interior PNGs and all95 panel transcripts are unchanged. No new PDF has been written at this cover gate; one additional edit is authorized by the recorded user request.
+
+
+## Cover revision and complete revised PDF - fresh independent review - 2026-09-19
+
+**Verdict: PASS.** Reviewer: `/root/mercy_cover_book_review`, independent graphic-novel reviewer. This reviewer produced none of the source, plan, reference sheets, cover, comic pages or PDF and edited only this appended review. Scope is the new selected comic-style cover and the entire actual revised 26-page `edition.pdf`, not merely the replaced page or a reuse of the original book verdict.
+
+Read the complete 411-line source and original prompt, the edition request including the explicit cover/PDF-replacement instruction, the complete current plan with all 95 panel transcripts and coverage, AGENTS.md, GN contract v0.7, STYLE.md, universe authority/policy, and applicable Bellweather character, faculty, family, location and timeline entries. Inspected the source cover, all 12 accepted edition references and the selected comic page 018 used by the new cover. The source remains canon true and read-only. No source, interior script or interior image change is part of this revision.
+
+Independently inspected **every actual revised PDF page in order at full/native 1024 x 1536 pixels, 390 px width and 768 px width**: `book-01.png` through `book-26.png`, plus all corresponding `reading-NN-390.png` and `reading-NN-768.png`, under `C:/Users/jamie/AppData/Local/Temp/codex-gn-the-shape-of-mercy/cover-revision/rendered-book/`. All 78 views were inspected; no page was omitted. These are renders/reductions of the actual revised PDF, not an HTML preview or substitutes assembled from selected art. All 26 native render hashes match the PDF-bound render report, and all 52 reading reductions were independently verified pixel-for-pixel against native renders resized to their stated widths. Prior page/book verdicts did not substitute for this fresh visual reading.
+
+### Exact review bindings
+
+- Actual revised PDF SHA-256: `13b6376bfd00a25442f994246347e94701a7db53d216c395f827b9b4a04d426a`; **84,613,518 bytes; 26 pages**. Each page is 512 x 768 pt, matching its selected 2:3 image.
+- Selected new cover: `cover.png`, attempt 02, RGB 1024 x 1536; SHA-256 `45f40a9ab1b8a20c4dc6790b81fc34ee606482aa01546c2dacf01aba7ec8ba6e`.
+- Current plan including authorized cover-only revision: `a124e75011fe64342f96ce2da190f2a7915ddc01ceb082c9203fa8b10789acaf`.
+- Edition request/decisions: `88964c76fab040a2ebbf539753a8764d5f2292bf79cffda2a02c72aac2a162f9`.
+- Complete source prose: `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; original prompt: `a403840d96154a5985b9a7a3de7d8b6a1e05fc9f5d872afada4735293e81c13d`; authoritative state: `1a08afc35706cb7d9d0c8cec437e1debdba589cd791c785bd50ffc1ed67de7d5`; original source cover: `fe21bdac14823ff34de1aa354a64f68c085457e1d5be555fd23abf6c1c1ccbe9`.
+- Current STYLE.md: `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; GN v0.7 contract: `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual revised render report SHA-256: `655c50f14aa00d793219be3884971c08fbb5b14102aa820e55a45e9122ef44d9`, explicitly bound to the revised PDF above.
+- Superseded PDF `4e8acb1441f52ef6eaccf9555dfd259fe775b5fddc45d7e4fadb4e901a74ed6d` is historical evidence only. Its passing verdict does not certify the new bytes.
+
+### Complete-book gate findings
+
+| Gate | Independent finding |
+| --- | --- |
+| New cover source fidelity and composition | PASS. Adrian at left and age-16 Phoebe in green confront the stormhart in the damaged nighttime Hall. Open, empty hands remain physically separate from the creature. No cut, weapon, leash, lost native storm or invented event is depicted. The old throat scar and complete antler branches remain clear. Broken windows, overturned furniture, melting ice and extinguished wall candles fit the pre-cut approach. The large exact two-line title `THE SHAPE` / `OF MERCY` is complete, safely framed and immediately legible at 390 px; no added credit or other wording appears. |
+| New cover style and identity | PASS. R01/R04/R07 identities, ages, facial structure, hair and formal clothing agree with accepted pixels and page 018. Crisp black contours, substantial silhouettes, saturated fills and hard shadow edges match the comic. Storm glow and reflective debris remain subordinate to the outlined drawing; the cover does not inherit the source cover's photographic finish or drift to wash/hatching. The single dramatic illustration serves the story without copying a panel template. |
+| Cover first, ordering and exact image correspondence | PASS. Direct independent inspection of the PDF objects found exactly one embedded image per page. Decoded RGB bytes and dimensions match `cover.png`, then `pages/page-001.png` through `page-025.png` in order. All 26 selected pixel versions are unique. No comic image is omitted or repeated and no reference sheet or unrequested appendix appears. |
+| Authorized first-page-only PDF change | PASS. Direct independent comparison with the original PDF verified the encoded and decoded interior image streams and page-content streams for pages 2-26 are unchanged. The retained original generation and separately authorized one-write cover replacement remain distinct. This reviewer performed no PDF authoring, rebuild, image generation or HTML operation. |
+| Dimensions, placement and rendered integrity | PASS. All 26 media/crop boxes are 512 x 768 pt. Full-image placement matrices preserve the 1024 x 1536 art ratio without crop or stretch. Inspection of all actual renders found no clipping, missing borders, cut-off lettering, black boxes, color damage or rendering degradation. |
+| Every visible word, speakers and text fit | PASS. Every visible caption, balloon, diegetic signature and title matches the exact current plan display text across all 95 scripted panels. This includes the full three-part pre-act consent in 16.1-16.3, Adrian's signature and four witness acknowledgments in 16.4-16.5, all five names in 21.1, the safeguards across 22.3-23.2, and final signature/captions in 25.1-25.2. No extra readable background text appears. Uppercase words, punctuation and speaker tails remain clear at the inspected reading widths; the dual tail in 16.4 identifies Evelyn and Phoebe. |
+| Panel connections, reading order and hierarchy | PASS. Gaze, gesture and balloon placement preserve left-to-right/downward flow. Page 04's tall left panel leads to the upper- and lower-right action; page 03's scar inset and page 06's perception inset remain subordinate simultaneous details. Page 15's ledger detail clarifies the object without implying a second retrieval. Gutters separate time and attention; no overlap or frame crossing obscures dialogue, confuses locations or adds an event. Page 20's double frames and explicit testimony captions distinguish its reconstruction from present experience. |
+| Source coverage, dialogue intent and causality | PASS. The sequence retains the appointment, father's return, old coercive bond, rescue/entrapment, shared perception, childhood abuse, irreversible loss, bounded memory cost, concealment, competing commands, Phoebe's distinction, voluntary restraint, consent, witnesses, Garran's grief, narrow choice, evidence and negotiated stewardship. The opening condensation and omitted minor jokes do not change the source's causal or ethical argument. Garran's grief remains real without excusing his coercion; family love does not excuse concealment. |
+| Memory interval and outcome | PASS. Page 08 contains only the remembered childhood fragment, not the erased cut. Pages 16-18 establish conscious pre-act choice. The turn from 18.3 directly to morning 19.1 preserves the absent act. Page 20 explicitly depicts the witnesses' account, and page 21 states that evidence does not restore memory. The freed creature retains lightning, scar and agency; Garran remains unpowered and confined, with the bracelet retained as evidence. |
+| Anatomy, contacts and continuity | PASS. Hands and bodies remain readable through wrist contact, Rowena's restraint, writing/signing and the cumulative family hand stack. Faces and costumes stay distinct. Evelyn's left glove progresses to bare burn and morning bandage; Marcus's left cold injury becomes a guarded morning arm. Hall threshold, gallery, pillar, pond/orchard and bedroom relationships remain coherent. Damage persists; ordinary paper stays nonmagical and the old wet consent record remains separate from the final new appointment leaf. The previously noted open speaking-hand variation in 23.2 is still nonblocking. |
+| Pacing, page turns and cumulative rendering | PASS. The quiet opening gives the intrusion force; separate fire/ice pages show rescue's costs before the testimony slows the pace. The narrow-choice pause, morning turn, witness reconstruction and hand-by-hand agreement each have distinct narrative weight. Ink, silhouette, flat color and shadow language persist across storm lighting and warm morning. White gutters, yellow captions and uppercase lettering remain consistent; no cumulative wash, photographic or 3D drift develops. |
+| Ending and material findings | PASS. Burned orchard, broken wall, meltwater and departing thunder retain consequence. The final action is Adrian signing the actual stewardship appointment with ordinary ink after the family accepts the full safeguards. No unresolved material finding or required repair was identified. |
+
+### Ordered selected image versions - revised book
+
+Every row below was inspected in the actual revised PDF at native, 390 px and 768 px sizes. Image paths are relative to this edition. Each row passes.
+
+| PDF page | Selected image | SHA-256 |
+| --- | --- | --- |
+| 01 | `cover.png` | `45f40a9ab1b8a20c4dc6790b81fc34ee606482aa01546c2dacf01aba7ec8ba6e` |
+| 02 | `pages/page-001.png` | `b293e56f238a4bc18191b78faf04a43c8cb03313d049c8bdb5979713ffb3ba65` |
+| 03 | `pages/page-002.png` | `fc48c0c36209fc54f80aed8f69789a0a939c8329ca10199764fc39708d51dcce` |
+| 04 | `pages/page-003.png` | `7a8b48546c757d27a6063f49c6686c52111f8a1f53c9ebbbd603caa47574cd65` |
+| 05 | `pages/page-004.png` | `83e9b7dbe3d8eacd97cae84f7d63ea0339b63f65ab5c48dbe8e0d7d9119cfe66` |
+| 06 | `pages/page-005.png` | `33be47e8f265f20abfa3814fc17191cf466c5edda7e4838b3e2cf0b9320d210c` |
+| 07 | `pages/page-006.png` | `15f4d74927ea9d32432ef7ffc477279a4769c74c52cd67c5612851b920fd0e68` |
+| 08 | `pages/page-007.png` | `57e0f31739704e180aef5c6e0bd9615d34db6d5a12775dec1312d8f807b842ee` |
+| 09 | `pages/page-008.png` | `f82066ceb6a7414b112213b06f646f5d20761265ca2e8428e12784f233dbe874` |
+| 10 | `pages/page-009.png` | `79c4474188894932a52df2062d17bb9758ef8263d681de031949c96e048a7965` |
+| 11 | `pages/page-010.png` | `63cda19684168795b557684c584ab0f260dadf945048b3511a34ed9bce2b1405` |
+| 12 | `pages/page-011.png` | `eb2aaf73ce38549e52dcdee34c50eeac46fb64276bcc3a884d4bf11ad04c1e34` |
+| 13 | `pages/page-012.png` | `ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e` |
+| 14 | `pages/page-013.png` | `9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07` |
+| 15 | `pages/page-014.png` | `ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867` |
+| 16 | `pages/page-015.png` | `dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd` |
+| 17 | `pages/page-016.png` | `7c0b904a1c7104887571401f17a47e713280eae54ebbcc1cc522f5595f8e42fc` |
+| 18 | `pages/page-017.png` | `f579e121ffa78885b0063372ef5fce3aef84b52d0f33b9c87cb9641a5b82cc8d` |
+| 19 | `pages/page-018.png` | `e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d` |
+| 20 | `pages/page-019.png` | `b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e` |
+| 21 | `pages/page-020.png` | `70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf` |
+| 22 | `pages/page-021.png` | `ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248` |
+| 23 | `pages/page-022.png` | `8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4` |
+| 24 | `pages/page-023.png` | `ada9a24361740018a79ff5e5c4ff5b6399d95942b73557048fdde5659c877232` |
+| 25 | `pages/page-024.png` | `6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e` |
+| 26 | `pages/page-025.png` | `1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b` |
+
+### Accepted reference pixels inspected and bound
+
+| Reference | SHA-256 |
+| --- | --- |
+| R01 `references/adrian-bellweather.png` | `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3` |
+| R02 `references/evelyn-bellweather.png` | `cea16d4e00e5411d6a8715ae2d1a98b5dc85a7f609b073a6c13ff4451558f6e5` |
+| R03 `references/marcus-bellweather.png` | `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f` |
+| R04 `references/phoebe-bellweather.png` | `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251` |
+| R05 `references/lady-rowena-bellweather.png` | `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f` |
+| R06 `references/garran-bellweather.png` | `e3d8e22d3b687e899d5eb79ebbe5876c456c5909c29078a65622bb17997494b0` |
+| R07 `references/stormhart.png` | `7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6` |
+| R08 `references/bellweather-hall-intact.png` | `d2a43f461f9cb0832d12213249f08fc8e4bb169b5f4972528c14d43b32b85051` |
+| R09 `references/bellweather-hall-damaged.png` | `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323` |
+| R10 `references/bellweather-orchard-intact.png` | `c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272` |
+| R11 `references/adrian-bedchamber.png` | `f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998` |
+| R12 `references/household-ledger.png` | `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df` |
+
+**Final user approval of this revised PDF remains pending.** This fresh assistant PASS is bound only to the exact revised PDF and selected versions above; it is not user approval, source canon authority or publication authorization. Publication is outside this review's scope.
