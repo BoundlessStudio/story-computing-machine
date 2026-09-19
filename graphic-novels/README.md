@@ -1,4 +1,4 @@
-# Graphic novels — draft v0.6
+# Graphic novels — draft v0.7
 
 This is a draft agent workflow and house style for adapting finished stories
 into PDF graphic novels. The agent entry points and production instructions are
@@ -38,13 +38,17 @@ named edition. A general discussion of the workflow is not that authorization.
 4. Generate page 1, inspect it at reading size, correct it, and obtain independent
    page review. Only a passing page permits work on the next page.
 5. Continue in order, with the same review loop for every complete page.
-6. Use the PDF skill to assemble the selected cover followed by all comic-page
-   images in order into edition.pdf, one image per PDF page. Preserve complete
+6. Finish all image generation, corrections and required image reviews. Check
+   the complete ordered images and resolve known findings before assembly.
+   Use the PDF skill to generate edition.pdf exactly once at the end: selected
+   cover followed by all comic-page images in order, one image per PDF page. Preserve complete
    images and their aspect ratios without cropping or stretching; verify no
    image is omitted or duplicated. Render and inspect every PDF page at full
    and reading sizes. A fresh reviewer checks the entire PDF independently for
    story coverage, pacing, continuity, visual consistency and readable lettering.
-   Repair and recheck.
+   Rendering the existing PDF is inspection, not regeneration. Report any final
+   REVISE; do not automatically rebuild. A second PDF generation requires an
+   explicit user change to the single-generation instruction.
 7. Present the complete PDF for the user's final approval, bound to its actual hash.
 8. Capture the approved PDF download for the existing story page, build and check
    the Pages snapshot, then submit the branch through a pull request.
@@ -53,8 +57,10 @@ Intermediate art and page reviews are assistant work. The default does not ask
 the user to approve every image; an explicit request for additional checkpoints
 takes precedence. PDF is the required final GN output. Reference sheets remain
 production assets unless an appendix is expressly requested. Exact panel
-transcripts stay in plan.md. An HTML preview is optional temporary production
-material outside the package; it is not the final book. The published download
+transcripts stay in plan.md. Do not create, serve or open HTML previews, including
+temporary previews outside the package. Review image files directly during
+production. Do not generate partial, intermediate or progress PDFs. Preserve
+PDF-generation history across resumes. The published download
 preserves the existing standard or illustrated reader and its Library card.
 
 ## Publish the PDF download

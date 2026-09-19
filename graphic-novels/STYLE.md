@@ -74,8 +74,11 @@ image's figures, headings or panel arrangement into new reference sheets.
   and requires explicit preference in the plan.
 - Keep text and important action safely inside the page. The panel treatment
   below must remain readable in the assembled PDF, including at reduced reading size.
-- Assemble the selected cover followed by all ordered comic-page images into
-  edition.pdf, one image per PDF page. Preserve each complete image and its
+- Finish all image generation, corrections, required image reviews and checks
+  of the complete ordered image sequence before generating edition.pdf exactly
+  once at the end. No partial, intermediate or progress PDFs and no automatic
+  rebuilds. Assemble the selected cover followed by all ordered comic-page images,
+  one image per PDF page. Preserve each complete image and its
   aspect ratio without cropping or stretching; verify none is omitted or
   duplicated. Reference sheets are production assets unless an appendix is
   expressly requested. A differently proportioned cover retains its own ratio.
@@ -210,8 +213,9 @@ checks. Do not rely on color alone to identify speakers or communicate action.
   writing inside final pages. Necessary signs have exact scripted wording.
 
 Maintain the exact per-panel transcript in plan.md, with speakers, words and
-brief essential visual actions. An optional temporary HTML preview outside the
-package may display it; do not add another authored transcript document. The
+brief essential visual actions. Do not create, serve or open HTML previews,
+even outside the package. Inspect image files directly and do not add another
+authored transcript document. The
 transcript must match the selected page after every correction. OCR may assist
 inspection but cannot certify text, tails or reading order. Correct lettering
 through the image tool and review the entire changed page for collateral drift.
@@ -234,11 +238,15 @@ spatial connections, stable faces and outfits, lettering, tails, panel transitio
 gutter clarity, inset/overlap hierarchy, frame crossings, clipping and compression.
 Trace the intended reading path across the page and compare adjacent pages,
 not just isolated panels.
-Use the PDF skill for final assembly. Render the actual PDF and inspect every
+Use the PDF skill for the single final assembly after all image work and reviews
+are complete. Render the existing PDF for inspection without regenerating it.
+A later REVISE does not authorize another PDF generation; that requires an explicit
+user change to the single-generation instruction. Inspect every
 page at full and reading sizes, including approximately 390 px wide. A fresh
 independent whole-book pass checks the complete rendered PDF for image order,
 page count, omissions/duplicates, undistorted complete artwork and readable
 lettering, along with pacing, repetitive compositions, palette drift, missing
 exchanges and whether the ending still lands. Record the reviewed PDF hash and
-ordered image versions; final user approval applies to that exact PDF. HTML is
-an optional temporary production preview outside the package, not the final book.
+ordered image versions; final user approval applies to that exact PDF. PDF is
+the only GN reading deliverable. Temporary raster reductions of images for
+reading-size inspection are allowed; HTML previews are prohibited.

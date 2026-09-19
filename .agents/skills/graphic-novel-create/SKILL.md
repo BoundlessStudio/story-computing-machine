@@ -3,7 +3,7 @@ name: graphic-novel-create
 description: "Draft a sequential-art adaptation of a named finished repository story with [GN]; create pages only after explicit approval to try the draft plan."
 ---
 
-# Graphic-novel production — draft v0.6
+# Graphic-novel production — draft v0.7
 
 ## Entry and scope
 
@@ -66,11 +66,13 @@ An edition lives under `graphic-novels/<edition-slug>/`:
 
 The production format is manually maintained. Named Pages capture verifies the
 publication prerequisites; it does not certify the entire artistic lifecycle.
-An HTML reading preview is optional
-and temporary; keep it outside the package and do not finalize a website as the
-book. Keep discarded candidates, debug previews and temporary evidence outside
-the package. Keep exact panel transcripts in plan.md; an optional preview may
-display them without creating another authored package document. Do not add approval
+Do not create, serve or open an HTML reading preview, including temporary HTML
+outside the package. Review image files directly; temporary raster reductions
+for reading-size inspection are allowed. Generate the PDF exactly once, only
+after all image generation, corrections and reviews are complete. No partial,
+intermediate or progress PDFs. Keep discarded candidates, raster inspection
+copies and temporary evidence outside the package. Keep exact panel transcripts
+in plan.md without creating another authored transcript document. Do not add approval
 receipts, separate bibles, duplicated scripts, prose drafts or process ledgers.
 Keep decisions in the files above. Source originals/external references remain
 external; a selected existing cover or accepted same-story reference/illustration
@@ -164,8 +166,14 @@ limitation. Never claim a new role was exercised when only its TOML was parsed.
    character/object/location state and selected output hashes after acceptance.
    Do not propagate an unnoticed continuity error just because an earlier page
    passed. Resolve affected pages and dependencies before advancing.
-7. **Assemble and review the entire PDF book.** Use the PDF skill to assemble
-   edition.pdf from the selected cover followed by all selected comic-page images
+7. **Generate the PDF once, at the end, then review it.** Finish all reference,
+   cover and comic-page generation and corrections; every selected page must
+   have its required independent PASS. Check the complete ordered image sequence,
+   lettering, transitions and planned page dimensions directly from the images
+   before assembly, and resolve known findings first. Freeze the selected image
+   hashes. Do not generate a partial, intermediate or progress PDF.
+   Use the PDF skill to generate edition.pdf exactly once from the selected
+   cover followed by all selected comic-page images
    in their approved order, one image per PDF page. Preserve each image's aspect
    ratio and complete content without cropping, stretching or altering its art
    colors. Use page dimensions matching the image or fit it within the page
@@ -176,11 +184,11 @@ limitation. Never claim a new role was exercised when only its TOML was parsed.
    size and at reading size, including approximately 390 px wide. A fresh
    independent reviewer inspects the entire PDF sequence, every rendered page
    and its correspondence to the selected images and exact plan transcripts.
-   Per-page passes do not imply a whole-book PASS. Repair findings, re-review
-   changed pages and affected neighbors, rebuild the PDF, inspect every rendered
-   PDF page after layout changes, and repeat the final review. An optional
-   temporary HTML preview outside the package may assist production; it is not
-   the final deliverable or a substitute for reviewing the actual PDF.
+   Per-page passes do not imply a whole-book PASS. Rendering the existing PDF
+   for inspection does not regenerate it. Report any post-assembly REVISE
+   honestly; do not automatically rebuild the PDF or resume image generation.
+   A second PDF generation requires an explicit user change to the
+   single-generation instruction. Never use an HTML preview for GN production.
 8. **Present for final approval.** Show the exact independently passing book and
    provide the edition.pdf link for the user's final approval, bound to the
    actual PDF hash and its ordered selected-image hashes. Retain
@@ -254,6 +262,9 @@ An explicit delivery-only change, such as migrating an in-progress edition to
 this PDF contract, is recorded with the user's request and updated delivery
 bindings. Recheck assembly and final-output review; do not invalidate unaffected
 art or reopen the approved adaptation solely because the delivery format changed.
+Preserve existing PDF-generation history on resume; do not treat a new task or
+session as permission to generate the PDF again. Copying an approved PDF for
+publication and rendering it for inspection do not constitute a new generation.
 
 ## PDF download publication
 
