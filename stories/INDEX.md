@@ -18,7 +18,6 @@ flag is the sole canon-state authority; Pages publication lives separately in
 | `life-with-a-girlfriend-with-shrinking-powers` | *Life with a Girlfriend with Shrinking Powers* |
 | `voice-of-silence` | *The Voice of Silence* |
 | `tenth-world-lesson` | *The Tenth World Needs No Hero* |
-| `a-crown-of-quiet-hours` | *A Crown of Quiet Hours* |
 | `a-little-winter-for-sale` | *A Little Winter for Sale* |
 | `a-place-for-the-living` | *A Place for the Living* |
 | `daughter-of-the-sun` | *Daughter of the Sun* |
