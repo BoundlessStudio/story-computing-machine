@@ -542,3 +542,20 @@ SHA-256 bindings:
 - QA `exec-d27740c4-7ef1-44f1-ae40-9efa51cc5aee-390.png` `c17aef128e19adc4433f323531cce55bdd1194a08be36aa68cb6aace3c52c90d`; corresponding `-768.png` `4b5794dff1a78d9e814200bbf9ac7e29b31e0fcfa2aa2539718ed5233a665c58` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 025/PDF NOT REVIEWED. No user approval implied. No HTML or PDF created.
+
+## Page 025 independent pixel review — 2026-09-19
+
+**PASS**, attempt 02. Reviewer `/root/mercy_page22_review` independently inspected the complete selected `pages/page-025.png` at native 1024 × 1536, 768 px and 390 px against approved Page 25/source 409–411, previously read full script/coverage, predecessor 024 and accepted R01/R10/R11/R12 pixels. Also inspected selected 020 for the orchard's damaged state. Source, plan and style hashes remain unchanged.
+
+Both yellow captions and the single complete `ADRIAN BELLWEATHER` signature match exactly and remain readable at the inspected sizes. Panel 25.1 retains the damaged Hall, burned ground/wood, thinning smoke, meltwater and broken wall with living orchard beyond; no beast, rider, new spell or repaired damage appears. Hall/pond/orchard geography is coherent. The white gutter makes a clear cut back to the bedroom. In 25.2, Adrian's natural right pen hand and separate steadying left hand surround one clean loose appointment leaf lying above the ledger crease. The old stained, buckled consent record remains separate at left with only nonspecific ink strokes visible. His identity, morning shirt and bedroom continuity hold. Crisp outlined drawing, controlled flat color/shadows, yellow captions and complete framing match the accepted GN treatment. The ending carries actual chosen stewardship after the family's agreement.
+
+**Nonblocking staging variation, 25.2:** the nib hovers near the initial B of the completed surname rather than touching its final R as requested in the correction prompt. The intact finished signature and exact past-tense caption establish completed signing; this changes no source event or consequential state. No repair required. Prepared, uncalled attempt 03 is not reviewed.
+
+SHA-256 bindings:
+
+- Candidate `1558a829b5849ba6f0495f9662c198b385287f7be941fb32be4e997aac78706b`; predecessor/input P24 `6d2424f2b7f48b638a9352642becca16bb81c5f5aa4f541f46216a32bc29cf5e`; damaged-orchard comparison 020 `70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Accepted anchors: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R10 `c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272`; R11 `f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998`; R12 `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df`.
+- QA `exec-9a881153-5072-4db0-8915-e6990c76b9bd-390.png` `8a1a7713c12dba80bbb5b8a2e89448da6e1dd532cdeca6bc11c2ffff85d0a8d8`; corresponding `-768.png` `e31a211ebdee5c6a6357048dc033f69d7f9671dc78c7d9c1b2123f03232ceac2` in the previously recorded temporary QA directory.
+
+Page-only PASS; complete book/PDF NOT REVIEWED. No user approval implied. No HTML or PDF created.
