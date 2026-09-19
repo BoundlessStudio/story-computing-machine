@@ -38,3 +38,5 @@
 - Final PDF approval: pending.
 
 - 2026-09-18: User approved the independently passing 25-page, 12-reference plan: "approved, but less planning more images and review." Approval is bound in edition.json; production proceeds with concise updates and the required image reviews.
+
+- 2026-09-18: User corrected the delivery focus: "why are we still doing HTML stuff with [GN] it should be a PDF... your wasting my time and tokens; fix that and move on to the PDF." The optional temporary HTML preview was stopped. Continue the approved comic images and reviews directly to the required PDF; create no further HTML previews.
