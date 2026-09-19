@@ -1342,8 +1342,8 @@
       "number": 15,
       "id": "page-015",
       "path": "pages/page-015.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
       "plannedInputs": [
         "R01",
         "R03",
@@ -1352,12 +1352,67 @@
         "R12"
       ],
       "framing": "Record retrieval and warning",
-      "attempts": [],
+      "attempts": [
+        "page-015-attempt-01"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian19 current charcoal formal coat/short dark hair, no morning shirt"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus23 AFTER ICE blue coat; anatomical LEFT sleeve iced/injured, normal RIGHT retrieves leaf"
+          },
+          {
+            "id": "R05",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena mature gray dark hair, high-collared black gown/silver sleeve channels unlit, plain uninjured hand"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "damaged Hall GEOMETRY only; override N3 with N4 night, slumped/receding ice/open routes, ordinary embers no white core"
+          },
+          {
+            "id": "R12",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "one ordinary brown leather ledger, blank ruled wet-edge cream paper, detachable one leaf, black inkpot/plain pen; no heading/text"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b04229c9e1d4592aba1debf27654cd8dae4e2324292572b4b23960f3f3336719",
+        "evidence": "Independent PASS at native/390/768. Exact text including compact narration, contact/retrieval and N4 continuity pass; inkpot adjacent to ledger accepted as nonblocking placement compression."
+      },
+      "selectedAttempt": "page-015-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "reviewedAt": "2026-09-19T01:41:27.8262265Z",
+        "evidence": "Actual native/390/768 pixels checked: exact readable text; shoulder touch then withdrawal without injury, night and receding ice, unlit candles, Marcus left iced/right tearing, one blank leaf and ordinary ink/ledger. No premature consent writing or severance."
       }
     },
     {
@@ -4974,6 +5029,135 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "fb5bf478364ea0b208fa28a6a19d68191e1a62fa8f7c3f201b1cc4b84378554a",
         "evidence": "Independent re-review PASS on attempt 04, actual native/390/768 pixels and Page013 continuity. Corrected night lighting without collateral change to lettering, release sequence, anatomy, ice/fire transitions, stormhart or damaged hall. No blocking findings."
+      }
+    },
+    {
+      "id": "page-015-attempt-01",
+      "assetId": "page-015",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T01:29:14Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait comic page with FOUR main panels and one SMALL UNLETTERED simultaneous detail inset INSIDE panel3. White gutters, clear top-to-bottom sequence. Bold crisp black contours, saturated flat fills, hard-edged shadows, no photo/blur/bloom. LETTERING FIRST: give every exact text block below actual uppercase cap height34–38px minimum, generous white balloons and yellow narration box. Readable at390px page width, similar large text throughout. Reserve space before art; do not shrink long words to fit. No title, page number, reference headings, SFX, signatures or writing on paper.\n\nSTATE THROUGHOUT: N4 NIGHT immediately after voluntary release of fire and ice. Image4 is OLD damaged-Hall geometry only; override its standing ice walls/ashfire: ice is now slumped/receding, passages OPEN, narrow meltwater channels through glass/slush; outside only ordinary wet embers/smoke, NO white magical core. ALL candles OUT. Exterior sky is dark navy, living trees near-black/cool-rimmed, never daylight. Broken windows/doors, surviving pillar/gallery and overturned table remain. No projected blue wards. No severance, no consent writing yet.\n\nPANEL1, shallow full-width opening, SILENT. Close two-shot: Rowena LEFT in black high-collared gown with unlit silver sleeve channels briefly seizes Adrian's shoulder; Adrian RIGHT in charcoal formal coat reacts inwardly to the vulnerability of her living wards. Show one anatomically coherent maternal hand gripping coat at shoulder, no injury. His own hands remain ordinary, not striking/cutting/burning her. Subdued startled eyes convey perception; no physical threads or renewed ward panes. This is one instant of contact, not simultaneous release.\n\nPANEL2, full-width slightly deeper. Same screen positions. Rowena has LET GO, her uninjured hand now withdrawn near her own chest with clear air gap from Adrian. Fear in her face, not absolution. Adrian meets her gaze, frightened yet deliberate. Exact balloons left-to-right:\nRowena: YOU WILL FORGET.\nAdrian: YES.\nYellow narration in generous clear band:\nWHAT DID IT MEAN TO CHOOSE\nIF I COULD NOT KEEP\nTHE CHOOSING?\nNo burn mark, wound or smoke on her hand; “as though burned” is a simile, no attack happened.\n\nPANEL3, full-width with a small bordered unlettered ledger detail inset contained in its LOWER-RIGHT corner, no overlap into gutters or panel4. Adrian foreground LEFT looks down toward the ordinary household ledger on wet stone near the overturned head table. Marcus in blue coat beside him follows that gaze, still cold/injured. Marcus's anatomical LEFT sleeve remains visibly frost-stiff, RIGHT arm normal. No Rowena needed here.\nAdrian's exact large balloon:\nYOU WANTED ME TO\nSTEWARD RECORDS.\nSTART WITH MINE.\nMain scene shows ONE ledger, intact but wet at edges; black inkpot rolled beneath a nearby chair. Inset is the SAME ledger at SAME instant, magnification of brown leather cover and blank cream ruled pages/wet edges, not a second book/location or later retrieval. No hands in inset, no text/labels on book, no separate detached leaf yet. Arrange balloon, people and inset so each remains readable.\n\nPANEL4, larger wide concluding frame. Marcus kneels close to ledger on floor, fingers shaking from cold/injury. Near-frontal torso makes handedness clear: frosted anatomical LEFT sleeve on viewer-RIGHT, injured arm held guarded near his thigh; normal RIGHT hand on viewer-LEFT does the useful work, pulling ONE blank appointment leaf along its binding seam. Single instant: one sheet nearly detached with small remaining attachment and ragged binding edge, not multiple loose sheets. Ledger's weight holds it on floor. Its cream ruled page has NO writing/signature/enchantment. Ordinary black pen already rests within reach and inkpot nearby. Adrian kneels/squats beside him, looking at the ordinary materials.\nExact balloons in reading order with clear tails:\nAdrian: NO ENCHANTMENT.\nMarcus: CHEAPEST INK\nIN THE HOUSE.\nKeep hands/page visible below ample lettering. No miraculous healing of Marcus's LEFT arm; cold/injury remains.\n\nActual input roles:1 Adrian current19;2 Marcus23 AFTER ICE state only;3 Rowena;4 SAME ruined Hall geometry with N4 overrides above;5 ordinary ledger/inkpot/pen, WET EDGES object state only. Exclude all reference headings/morning states. Only these three named humans appear. No beast/father/other siblings added. Preserve each identity/costume and clear hand anatomy. Page ends at blank-leaf retrieval, before anyone writes consent or performs a cut.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian19 current charcoal formal coat/short dark hair, no morning shirt"
+        },
+        {
+          "id": "R03",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus23 AFTER ICE blue coat; anatomical LEFT sleeve iced/injured, normal RIGHT retrieves leaf"
+        },
+        {
+          "id": "R05",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena mature gray dark hair, high-collared black gown/silver sleeve channels unlit, plain uninjured hand"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "damaged Hall GEOMETRY only; override N3 with N4 night, slumped/receding ice/open routes, ordinary embers no white core"
+        },
+        {
+          "id": "R12",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/household-ledger.png",
+          "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+          "role": "one ordinary brown leather ledger, blank ruled wet-edge cream paper, detachable one leaf, black inkpot/plain pen; no heading/text"
+        }
+      ],
+      "preflight": {
+        "composition": "Four main frames with small simultaneous contained unlettered ledger inset in panel3. All six text units exact, large lettering reserved. N4 overrides old R09 barriers/fire; Marcus left injury persists and right hand retrieves one blank leaf.",
+        "inputPixels": "Accepted Page14 attempt04 native390768 inspected previously unchanged. R05/R12 actual pixels re-inspected; R01/R03/R09 accepted pixels unchanged, all five hashes verified.",
+        "sourceMoment": "Approved Page15/source261-281 read. Shoulder contact/release is noninjurious; ordinary blank leaf retrieval before consent/cut."
+      },
+      "producerInspection": {
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "disposition": "Suitable first-render candidate for independent review; no independent PASS or user approval claimed. Coordinator requested no cosmetic regeneration.",
+        "findings": [
+          "Four main panels plus contained unlettered simultaneous ledger inset; all six exact text units and speaker tails preserved.",
+          "Shoulder grip followed by clearly withdrawn uninjured Rowena hand, no actual burn/cut/ward attack.",
+          "Marcus anatomical left sleeve remains frosted/injured and normal right hand tears one blank ruled leaf; ordinary pen visibly within reach, no consent writing/signature yet.",
+          "N4 night navy sky/dark trees, damaged Hall/glass/slush, receded ice/open passages, ordinary embers/no magical core and dark candles retained.",
+          "Reading-size text can be read, though yellow narration is compact relative to previous page; coordinator inspected native390768 and found exact/readable text with no blocker, requested save without cosmetic regeneration.",
+          "Minor prop staging variance retained for independent assessment: panel3 inkpot is visible beside ledger rather than clearly under a chair."
+        ],
+        "inspectedAt": "2026-09-19T01:33:54Z"
+      },
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-015.png",
+      "outputSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+      "completedAt": "2026-09-19T01:33:54Z",
+      "dimensions": {
+        "pixelFormat": "RGB24",
+        "opaque": true,
+        "width": 1024,
+        "height": 1536
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-0fe68db3-8f72-4486-b81a-a3f45e8af05c.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-0fe68db3-8f72-4486-b81a-a3f45e8af05c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "status": "selected",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-0fe68db3-8f72-4486-b81a-a3f45e8af05c.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian19 current charcoal formal coat/short dark hair, no morning shirt"
+          },
+          {
+            "id": "R03",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus23 AFTER ICE blue coat; anatomical LEFT sleeve iced/injured, normal RIGHT retrieves leaf"
+          },
+          {
+            "id": "R05",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena mature gray dark hair, high-collared black gown/silver sleeve channels unlit, plain uninjured hand"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "damaged Hall GEOMETRY only; override N3 with N4 night, slumped/receding ice/open routes, ordinary embers no white core"
+          },
+          {
+            "id": "R12",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "one ordinary brown leather ledger, blank ruled wet-edge cream paper, detachable one leaf, black inkpot/plain pen; no heading/text"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "b04229c9e1d4592aba1debf27654cd8dae4e2324292572b4b23960f3f3336719",
+        "evidence": "Independent PASS at native/390/768. Exact text including compact narration, contact/retrieval and N4 continuity pass; inkpot adjacent to ledger accepted as nonblocking placement compression."
       }
     }
   ],

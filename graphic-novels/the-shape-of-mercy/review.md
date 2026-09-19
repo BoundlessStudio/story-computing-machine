@@ -390,3 +390,18 @@ SHA-256 bindings:
 - Temporary QA `exec-a3006ef5-c533-4222-9fe9-04acd4b33caf-390.png` `1ebad40c23858348c3c01e35e3e31ca296f605a9efd56e2d26f72f59369c026e`; corresponding `-768.png` `6c446ddf4938b11293782e57a0ec9a99cce3cd3f40d4e7a95e0f81bc894f96c0`, in the previously recorded temporary QA directory.
 
 This passes page 014 only for the corrected bytes. Page 015 onward and the assembled PDF remain NOT REVIEWED; this is not whole-book PASS or user approval.
+
+## Page 015 independent pixel review — 2026-09-18
+
+**PASS**, attempt 01. Reviewer `/root/mercy_plan_review` independently inspected the complete saved page at native, 768 px and 390 px against approved Page 15/source 261–281, accepted predecessor and actual references, including new R12 pixels.
+
+All six exact text blocks and tails pass; the compact yellow question remains readable at 390 px. Four main frames and the simultaneous ledger inset have a clear reading path. Shoulder contact ends without an actual burn or retaliation. Correct identities, anatomy and injury laterality hold; Marcus's normal right hand retrieves one blank leaf, with no writing or enchantment yet. N4 night, receded ice/open routes, wet embers, damage and dark candles continue correctly. Ordinary ledger/pen/ink and crisp flat GN rendering match the accepted inputs. The inkpot beside the ledger, rather than beneath a chair, is a nonblocking placement compression; the ordinary-record cause remains clear. No material blocker found.
+
+SHA-256 bindings:
+
+- Candidate `dcf82963f573051da71d94972bf0d6d9a9e1a536eaf178508df6d369188715dd`; predecessor 014 `ded787a930cf3a148c9198351474c12d977c5f507d36fbb827624fc82cf8d867`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f`.
+- Actual inputs: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R09 `3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323`; R12 `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df`.
+- QA `exec-0fe68db3-8f72-4486-b81a-a3f45e8af05c-390.png` `a4cc317ce03d4f7f8e573d23bebb9b21203138a507d90d275dea51e7d24092e0`; corresponding `-768.png` `9268888b5a602ee7af37748454b37e7a7689c43a915fb348221d4da1bbb3020e` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 016 onward/PDF NOT REVIEWED. No user approval implied.
