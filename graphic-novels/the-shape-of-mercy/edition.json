@@ -1625,8 +1625,8 @@
       "number": 19,
       "id": "page-019",
       "path": "pages/page-019.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
       "plannedInputs": [
         "R01",
         "R04",
@@ -1635,12 +1635,67 @@
         "R12"
       ],
       "framing": "Evelyn/Marcus have entered but remain off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-019-attempt-01"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity and morning light-shirt state; primary GN rendering anchor."
+          },
+          {
+            "id": "R04",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "Phoebe age16 morning identity, green long-sleeved tunic and dark ponytail. Exclude age6 state."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity and dark gown with unlit silver sleeve channels."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "Exact single-bedroom geometry and morning light: bed left, entry behind head, window right, grey-blue blanket."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "Content of one detached wet-edge cream ruled consent leaf in panel4 only. Exclude book, pen, inkpot, headings and labels."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "790222389688a3588fcc1c5a9e5d8e9287aaa955e6cfb24674dd074910283189",
+        "evidence": "Independent Page019 PASS at native/390/768: morning transition, exact text, memory boundary, character states and bedroom continuity."
+      },
+      "selectedAttempt": "page-019-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "reviewedAt": "2026-09-19T03:45:24.4052889Z",
+        "evidence": "Inspected actual selected pixels at native, 390 and 768. Exact seven text units, direct morning transition and memory boundary, Phoebe/Rowena/Adrian states, R11 bedroom geography and ordinary damp unreadable consent leaf pass."
       }
     },
     {
@@ -6163,6 +6218,135 @@
           "Door, bed, bedside table and window have consistent single-view perspective; walking space is clear for later exchanges."
         ],
         "disposition": "Suitable candidate for coordinator pixel review; no correction generated."
+      }
+    },
+    {
+      "id": "page-019-attempt-01",
+      "assetId": "page-019",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T03:17:08.582Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete portrait 1024×1536 graphic-novel PAGE, with FOUR clearly separated horizontal panels read top to bottom. Prioritize LARGE LEGIBLE LETTERING: bold black uppercase comic lettering, actual capital height approximately 36–38 pixels, generous white speech balloons and yellow black-bordered narration boxes. Allocate enough text space before drawing figures; use short deliberate line breaks, never shrink the long speech to fit a tiny balloon. No title, page number, reference headings, sound effects or extra words. The seven exact text units below are the entire transcript. Their punctuation and speaker attribution must be exact.\n\nUse the five attached actual references with these roles: R01 Adrian, age19, warm medium-brown skin, dark tousled hair, his plain light MORNING SHIRT state without charcoal coat. R04 Phoebe, AGE16 MORNING state only, warm family complexion, dark loose ponytail, green long-sleeved tunic; exclude age6. R05 mature Rowena, swept-back graying dark hair, dark high-collared gown, silver stitched sleeve channels UNLIT. R11 is the actual bedroom geometry: bed on LEFT with grey-blue blanket and cream pillow, wooden entry behind its head, ordinary window on RIGHT, empty wooden bedside table and open floor route. R12 supplies ONLY the detached cream ruled wet-edge paper shape in the last panel; exclude its heading, book, inkpot and pen.\n\nThis page cuts DIRECTLY from the previous page's last remembered night instant to MORNING. It contains only present morning conversation, no dream, flashback or visualization of the severance, beast escape or confinement. Match the references' crisp black contours, saturated flat colors and hard-edged shadow steps; sharp room edges, no photographic blur, glow, haze or painterly modeling. Broad warm daylight enters from the right window and crosses the blanket. The bedroom is intact, ordinary and quiet. Adrian has slept in the plain light shirt; smoke-tousled hair means rumpled hair, not visible floating smoke or a new injury. Phoebe's eyes are tired and slightly swollen, with a small relieved smile. No magic effects or bleeding. Rowena is exhausted and sober. Evelyn and Marcus have followed Phoebe but remain entirely OUTSIDE these crops.\n\nPANEL1, broad opening frame: Adrian just awake, sitting up against the left headboard under the grey-blue blanket. Establish the bedroom's back entry and right-side morning window, bright sharply bounded sunlight across his bed. His ordinary hands and face are uninjured. Reserve a generous yellow caption above him:\n\"I WOKE THE NEXT MORNING WITH SMOKE IN MY HAIR AND A MISSING PIECE OF THE NIGHT.\"\n\nPANEL2: Phoebe is opening the same back entry door without knocking, one hand on the ordinary knob, her tired small smile directed left toward Adrian. Adrian may appear as a partial head/shoulder at lower left or remain off-frame left. Keep the bedroom axis. Yellow caption first:\n\"I REMEMBERED THE RECORD. I REMEMBERED CHOOSING. THE ACT WAS GONE.\"\nThen a white speech balloon with its tail clearly toward Adrian/left, never Phoebe:\n\"THE STORMHART?\"\n\nPANEL3: quiet bedside two-shot, Adrian left and Phoebe now beside the open right side of the bed. She meets his gaze; normal relaxed hands, no affinity overlay. Two distinct white balloons belonging to Phoebe, ordered upper-left to lower-right and with unambiguous short tails:\n\"IT KEPT ITS LIGHTNING.\"\n\"IT BROKE THE LAST ORCHARD WALL AND RAN. I GUIDED IT UNTIL IT NO LONGER NEEDED ME.\"\nThese are her spoken report only; show no beast or orchard inset.\n\nPANEL4, slightly taller closing frame: Rowena enters last through the same doorway and stands on Adrian's right. Adrian turns from the bed toward her. She holds ONE ordinary wet-buckled detached consent leaf, with uneven damp edges and a torn binding edge, angled obliquely so its existing black writing is only unreadable strokes. No readable signature or additional paper text. Keep her silver sleeve channels unlit. Adrian's small balloon first at upper left:\n\"AND GARRAN?\"\nRowena's generous answer balloon on the right, tail directly to her mouth:\n\"CONFINED IN AN UNWARDED ROOM. THE BRACELET IS LOCKED AWAY AS EVIDENCE, NOT DESTROYED.\"\nNo image of Garran, bracelet, confinement or the act. Preserve all four panel borders and clean regular white gutters; all bodies, hands and faces remain anatomically clear.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 identity and morning light-shirt state; primary GN rendering anchor."
+        },
+        {
+          "id": "R04",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 morning identity, green long-sleeved tunic and dark ponytail. Exclude age6 state."
+        },
+        {
+          "id": "R05",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity and dark gown with unlit silver sleeve channels."
+        },
+        {
+          "id": "R11",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+          "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+          "role": "Exact single-bedroom geometry and morning light: bed left, entry behind head, window right, grey-blue blanket."
+        },
+        {
+          "id": "R12",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+          "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+          "role": "Content of one detached wet-edge cream ruled consent leaf in panel4 only. Exclude book, pen, inkpot, headings and labels."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page19/source333–349; direct morning gap and oral aftermath testimony only.",
+        "inputPixels": "R01/R11 actual unchanged pixels inspected in preceding R11 stage; R04/R05/R12 and Page018 inspected now. All5input hashes match accepted selections.",
+        "composition": "Four horizontal sequential frames; seven exact text units with room for large type. Bedroom left-bed/right-window axis. Age16Phoebe, morning-shirtAdrian, unlitRowena, one oblique wet consentleaf. Offcrop siblings. No remembered act."
+      },
+      "completedAt": "2026-09-19T03:22:26.059Z",
+      "status": "selected",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ad83d396-777e-41d8-997d-aaae9f4f2cbb.png",
+      "outputSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+      "candidatePath": "pages/page-019.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ad83d396-777e-41d8-997d-aaae9f4f2cbb.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-ad83d396-777e-41d8-997d-aaae9f4f2cbb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T03:22:26.059Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Four clearly ordered present-morning panels; direct transition from Page018 poised pre-cut instant, with no intervening cut or recovered memory image.",
+          "All seven exact text units, punctuation and speaker tails checked. Lettering is compact but readable at390; neither long report loses words.",
+          "Adrian light morning shirt/tousled hair, age16Phoebe tired with small smile and normal hands, Rowena graying hair/dark gown/unlit sleeve channels match reference states.",
+          "R11 bed-left/back-entry/window-right geography, grey-blue blanket and hard-edged morning sunlight persist across crops. Anatomy and gestures coherent.",
+          "Rowena holds one damp-edged detached cream leaf. It is more front-facing than the oblique brief, but writing remains unreadable strokes with no readable signature or additional words.",
+          "No magic, beast/escape/confinement/bracelet visualization, extra named cast or invented injuries."
+        ],
+        "disposition": "Suitable candidate for independent page review; no correction generated."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity and morning light-shirt state; primary GN rendering anchor."
+          },
+          {
+            "id": "R04",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\phoebe-bellweather.png",
+            "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+            "role": "Phoebe age16 morning identity, green long-sleeved tunic and dark ponytail. Exclude age6 state."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity and dark gown with unlit silver sleeve channels."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "Exact single-bedroom geometry and morning light: bed left, entry behind head, window right, grey-blue blanket."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "Content of one detached wet-edge cream ruled consent leaf in panel4 only. Exclude book, pen, inkpot, headings and labels."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "790222389688a3588fcc1c5a9e5d8e9287aaa955e6cfb24674dd074910283189",
+        "evidence": "Independent Page019 PASS at native/390/768: morning transition, exact text, memory boundary, character states and bedroom continuity."
       }
     }
   ],

@@ -450,3 +450,18 @@ SHA-256 bindings:
 - QA `exec-d043ddf7-4222-42dc-9a48-a8d582a2060e-390.png` `a52a8428abd56d5ebbf25b2e067805b95d58daff2b9f07814d517090e5ba2a46`; corresponding `-768.png` `6cd41b8b373c1f4a4a08ed5639fa55e4d4a65b85d61f3a3ddc547d4cc50d08b2` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 019 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 019 independent pixel review — 2026-09-18
+
+**PASS**, attempt 01. Reviewer `/root/mercy_plan_review` inspected the complete saved page at native, 768 px and 390 px against approved Page 19/source 333–349, predecessor and actual R01/R04/R05/R11/R12 pixels.
+
+All seven exact text units, punctuation, tails and four-panel reading order pass. The direct morning transition preserves remembered consent and the absent act; no recovered-cut imagery appears. Phoebe's account retains the beast's lightning and voluntary departure. Rowena reports confinement and the intact evidentiary bracelet, carrying one ordinary buckled leaf with no readable added wording or magic. Morning identities, Adrian's white shirt, Phoebe's tired smile/green tunic, Rowena's gray hair/unlit silver sleeves, hand contacts and bed-left/window-right geometry hold. Daylight, crisp contours, flat shadow shapes, white gutters and uppercase lettering match R11 and the edition. No material finding.
+
+SHA-256 bindings:
+
+- Candidate `b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e`; predecessor 018 `e100e9f56222c5c52ab6c3094dc8027c2ee49ffeb5db90bb32973fb0b5426c6d`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual inputs: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R11 `f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998`; R12 `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df`.
+- QA `exec-ad83d396-777e-41d8-997d-aaae9f4f2cbb-390.png` `5a3cc52b1bad9dc6cc6ac6be0ff3d9103aab0720ce2a49ef9e1e437c8a360444`; corresponding `-768.png` `0bb799ccc0737b7ca80ad4f73fb0b73678455c3ce01867dad70a5f5095799c40` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 020 onward/PDF NOT REVIEWED. No user approval implied.
