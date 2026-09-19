@@ -465,3 +465,18 @@ SHA-256 bindings:
 - QA `exec-ad83d396-777e-41d8-997d-aaae9f4f2cbb-390.png` `5a3cc52b1bad9dc6cc6ac6be0ff3d9103aab0720ce2a49ef9e1e437c8a360444`; corresponding `-768.png` `0bb799ccc0737b7ca80ad4f73fb0b73678455c3ce01867dad70a5f5095799c40` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 020 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 020 independent pixel review — 2026-09-19
+
+**PASS**, attempt 02. Reviewer `/root/mercy_plan_review` inspected the complete saved page at native, 768 px and 390 px against approved Page 20/source 345 and 351–355, predecessor, actual target and accepted anchors.
+
+All three exact captions and punctuation are readable. Double black frames and explicit testimony in every panel clearly distinguish this night reconstruction from Adrian's memory. The sequence preserves the native bolt and unchanged scar, Adrian's safe limp collapse before escape, Phoebe's unforced guidance through melting ice, then the beast breaking the remaining wall and running free. No active cut is reconstructed. Damp char replaces upright flames; surviving trees do not restore the burned crescent. Night geography, pond/Hall/wall relationships, bodies/hooves, costumes and crisp GN rendering hold. No material blocker found.
+
+SHA-256 bindings:
+
+- Candidate `70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf`; predecessor 019/P19 `b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual edit target `ab43fa2391ac9228d43b6a35a049784141f347e7d80017a46c348df9fa5492a1`. Inherited R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`, R04 `c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251`, R07 `7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6`, R10 `c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272`, and P19 above.
+- QA `exec-165cae80-8c8d-4d25-a5d7-fe29fd5df654-390.png` `3bdcfca9be9c71a25918dd63312cb631863dc71b96a424e1b59b70f6d354c79f`; corresponding `-768.png` `0d368ea49a0ad3fd3eeb939ca283d5766d8b2b04fe1e1f244e8d21323964ba93` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 021 onward/PDF NOT REVIEWED. No user approval implied.

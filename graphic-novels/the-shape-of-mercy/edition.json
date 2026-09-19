@@ -1702,8 +1702,8 @@
       "number": 20,
       "id": "page-020",
       "path": "pages/page-020.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
       "plannedInputs": [
         "R01",
         "R04",
@@ -1712,12 +1712,43 @@
         "P19"
       ],
       "framing": "Explicit witnessed reconstruction; no Garran confinement image",
-      "attempts": [],
+      "attempts": [
+        "page-020-attempt-01",
+        "page-020-attempt-02"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "inputImages": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png",
+            "sha256": "ab43fa2391ac9228d43b6a35a049784141f347e7d80017a46c348df9fa5492a1",
+            "role": "Complete Page020 correction target; remove local active-looking flames from charred orchard only, preserve every other region and exact text."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "c55dc7471c5c2cb28b0e172de96757e96ebbf38584e9fdc8f84acf5b6abb8ab3",
+        "evidence": "Independent Page020 PASS native/390/768: exact captions, witness-reconstruction framing, collapse-before-escape sequence and corrected damp char."
+      },
+      "selectedAttempt": "page-020-attempt-02",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "reviewedAt": "2026-09-19T04:02:28.1407332Z",
+        "evidence": "Inspected actual full selected page native/390/768. Exact three captions and double black witness-reconstruction frames, night, unchanged scar and intrinsic bolt, dark-coat safe collapse before departure, voluntary Phoebe guidance, orchard/meltwater/wall-break order, damp char without active flames all pass."
       }
     },
     {
@@ -6347,6 +6378,165 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "790222389688a3588fcc1c5a9e5d8e9287aaa955e6cfb24674dd074910283189",
         "evidence": "Independent Page019 PASS at native/390/768: morning transition, exact text, memory boundary, character states and bedroom continuity."
+      }
+    },
+    {
+      "id": "page-020-attempt-01",
+      "assetId": "page-020",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T03:48:16.525Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete portrait 1024×1536 comic PAGE containing THREE broad landscape panels, stacked top to bottom. Each individual panel has a clearly visible DOUBLE OUTER BLACK FRAME: two nested rectangular black outlines with a narrow white strip between them. Separate panels with ordinary generous white gutters. This double-frame convention marks the FAMILY'S MORNING TESTIMONY reconstructed as past NIGHT events, never Adrian's recovered memory. Every panel has its own explicit yellow narration. No speech balloons, titles, page numbers, labels, sound effects or other text.\n\nLETTERING FIRST: use the fifth attached page's large readable bold uppercase comic lettering, actual cap height about36–38px, in generous yellow black-bordered caption boxes with short deliberate line breaks. Do not shrink the long first caption. Put captions in clear broad bands so none obscures the beast's head, Adrian's collapsed body or the escape action. The three exact caption strings below are all the page's words.\n\nActual input roles: R01 is Adrian age19, warm medium-brown skin, short dark hair, DARK CHARCOAL FORMAL COAT and trousers, as worn during the crisis. Do NOT transfer his morning white-shirt-only outfit. R04 is Phoebe AGE16, dark loose ponytail, green long-sleeved tunic, dark trousers/boots; never age6. R07 is the same huge stormhart, larger than a carriage horse: four anatomically coherent hooved legs, winter-tree branching antlers, smooth translucent storm-blue skin and intrinsic silver currents. Its narrow OLD reddish-brown scar still curves around the throat below its jaw, unchanged and unhealed. No new wound, collar, rope, barbs or foreign black command remains. R10 supplies the exterior geography: Hall and doorway on LEFT, stone courtyard, pond on RIGHT, trees and farther orchard boundary wall. Override its intact state: broken doorway/windows, all interior candlelight OUT, burned crescent in nearest orchard rows, slumped melting ice and wet stones. Living older trees beyond the burned crescent remain dark and intact. P19 supplies actual crisp black contours, saturated flat colors, hard shadow steps and readable lettering ONLY, not morning light, bedroom or light-shirt costume. No photographic blur, haze, bloom or soft painterly rendering.\n\nAll THREE reconstructed scenes occur in the same deep navy NIGHT. The stormhart's own silver currents remain alive; its storm was not removed. There are no active wards, magical ashfire or restarted flames. Use ordinary damp char, water runoff and thinning ice. No depiction of the active cut, cutting gesture, subjective severance edges, golden empathy threads or literal bonds. Only externally witnessable actions are reconstructed.\n\nPANEL1: after release, the stormhart throws its head back toward the open night sky. ONE native lightning bolt rises from its antlers into empty sky; keep one clear continuous bolt rather than multiple sky strikes. Show its old curved throat scar, powerful neck, part or all of its living body, and sufficient framing margin around the branching antlers. Broken dark Hall architecture remains at the far left, charred ground and melting ice below. No coercive posture or human controlling it. Yellow narration:\n\"THEY TOLD ME WHAT HAPPENED AFTER THE EDGE. THE COMMAND WAS GONE. THE SCAR REMAINED. ITS LIGHTNING WAS ITS OWN.\"\n\nPANEL2: a wider view near the Hall threshold. Adrian has ALREADY COLLAPSED safely onto wet ground in the left foreground: eyes closed, limp on his side with relaxed empty hands, cheek on folded coat sleeve, coherent naturally bent legs, no heroic kneeling or raised arm. No fresh wound. He wears his dark formal coat. Farther right Phoebe and the huge beast are moving toward a path through slumped melting ice, still WITHIN the orchard. Keep clear separation between unconscious Adrian and moving hooves. The pond edge is on the right; the far orchard wall still stands. Yellow narration:\n\"THEIR ACCOUNTS AGREED: I COLLAPSED BEFORE IT CLEARED THE ORCHARD.\"\n\nPANEL3: the later escape instant. Phoebe remains left at a safe distance, open attentive posture and relaxed open hands, guiding by voluntary attention without touching, riding, restraining or pulling anything. To the right the stormhart is running through a fresh breach it has made in the remaining orchard boundary wall, loose masonry falling away behind its body. Its forward motion goes OUT into open dark country. Show a clear route from receding ice to broken wall, preserve the burned nearer rows and surviving dark older trees. Native silver currents still live in the creature; no foreign command or healed scar. Yellow narration:\n\"THEY DESCRIBED PHOEBE LEADING IT THROUGH THE MELTING ICE. THEN IT RAN FREE.\"\n\nKeep all antlers, bodies and action comfortably within their own double frame. No other named people, reconstructed bedroom, confinement image, paper or bracelet.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 identity and DARK CHARCOAL FORMAL COAT for late-night collapse, not morning shirt."
+        },
+        {
+          "id": "R04",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe age16 identity, ponytail and green long-sleeved tunic; exclude age6."
+        },
+        {
+          "id": "R07",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "Huge stormhart identity, anatomy, smooth translucent hide/native silver lightning, unchanged old curved throat scar."
+        },
+        {
+          "id": "R10",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\bellweather-orchard-intact.png",
+          "sha256": "c56eca8acdf1097a15e396d48b57f4f93d16964ecdd83bc4bf72ad5ef3eda272",
+          "role": "Night exterior geography only: Hall left, courtyard threshold, pond right, trees and farther orchard wall. Override intact/bright-window state with broken dark windows, burned crescent and receding ice."
+        },
+        {
+          "id": "P19",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-019.png",
+          "sha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+          "role": "Accepted crisp comic rendering, readable lettering scale and preceding testimony context. Exclude bedroom, daylight and morning light-shirt outfit."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page20/source345–355; witnessed late-night account after the edge, never Adrian recovered memory. Three exact narration units.",
+        "inputPixels": "Actual R07/R10 inspected for scar/anatomy/night geography; unchanged R01/R04/P19 actual pixels already inspected. All five accepted hashes verified.",
+        "composition": "Three double-framed wide reconstructions: native bolt; Adrian safely collapsed before clearing orchard; voluntary guidance and wall breach. Full night, formal coat, no active cut/perception effects, captions sized first."
+      },
+      "completedAt": "2026-09-19T03:51:36.047Z",
+      "status": "revise",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png",
+      "outputSha256": "ab43fa2391ac9228d43b6a35a049784141f347e7d80017a46c348df9fa5492a1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T03:51:36.047Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All three exact captions/readable uppercase, double frames, night and ordered witness reconstruction correct.",
+          "Adrian's relaxed side-lying dark-coat collapse, native beast lightning/old scar, moving Phoebe and later wall breach coherent; no active cutting/perception/touch/reins.",
+          "Upright bright orange tongues among charred tree trunks across all panels read as restarted flames rather than damp aftermath; targeted char-only correction needed."
+        ],
+        "disposition": "REVISE local orange flame shapes only; do not select initial output."
+      }
+    },
+    {
+      "id": "page-020-attempt-02",
+      "assetId": "page-020",
+      "kind": "page-correction",
+      "preflightAt": "2026-09-19T03:51:36.047Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make a narrowly targeted edit to this complete comic page. Change ONLY the bright orange/yellow flame-like tongues and glowing streaks on and around the charred orchard trunks and ground in ALL THREE panels. These events occur after the fire was voluntarily lowered. Replace those little upright flames and bright burning trunk streaks with cool near-black DAMP CHAR and ordinary wet dark ash. A few tiny dull reddish-brown points embedded low in char are acceptable, but no flame silhouettes, bright orange firelight or rising fire. Keep the burned trunks and their exact shapes; do not restore foliage to burned trees. Preserve the living dark older tree crowns.\n\nFreeze everything else: three panels and their DOUBLE outer black frames/white gutters; all exact yellow narration and its existing font/box positions; navy night sky; the single intrinsic lightning bolt in panel1 and the stormhart's living silver body currents; unchanged old curved throat scar; every beast pose and antler; broken Hall left, pond right, wall intact in panel2 and breached in panel3; melting ice/water; Adrian safely limp in his charcoal formal coat in panel2; Phoebe's age16 identity/green outfit/positions/open attention; all hands/legs/anatomy. No new magic, wound, rope, person or text. Do not recompose, crop, relight the whole page or alter lettering.\n\nThe three captions must remain exactly:\nTHEY TOLD ME WHAT HAPPENED AFTER THE EDGE. THE COMMAND WAS GONE. THE SCAR REMAINED. ITS LIGHTNING WAS ITS OWN.\nTHEIR ACCOUNTS AGREED: I COLLAPSED BEFORE IT CLEARED THE ORCHARD.\nTHEY DESCRIBED PHOEBE LEADING IT THROUGH THE MELTING ICE. THEN IT RAN FREE.",
+      "inputImages": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png",
+          "sha256": "ab43fa2391ac9228d43b6a35a049784141f347e7d80017a46c348df9fa5492a1",
+          "role": "Complete Page020 correction target; remove local active-looking flames from charred orchard only, preserve every other region and exact text."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Post-release late-night witness reconstruction; magical fire already lowered. Damp burned orchard, no restarted flame.",
+        "inputPixels": "Entire actual attempt01 inspected at native390768; localized orange flame tongues diagnosed across orchard panels.",
+        "composition": "Target-only local palette/shape correction; all passing framing, text, identities, anatomy, night and sequence frozen."
+      },
+      "completedAt": "2026-09-19T03:54:14.356Z",
+      "status": "selected",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-165cae80-8c8d-4d25-a5d7-fe29fd5df654.png",
+      "outputSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+      "candidatePath": "pages/page-020.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-165cae80-8c8d-4d25-a5d7-fe29fd5df654.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-165cae80-8c8d-4d25-a5d7-fe29fd5df654.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T03:54:14.356Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Whole page rechecked after local edit: upright bright orange flame shapes removed across all three orchard panels; damp cool dark char and burned trunks remain with only low dull ember points.",
+          "Three exact readable yellow narration units and double outer frames preserved, distinguishing family's reconstructed late-night account from Adrian's memory.",
+          "Single native sky bolt, living intrinsic silver currents, old throat scar unchanged, no physical command/collar/rope or active severance imagery.",
+          "Dark-formal-coated Adrian remains safely limp on side at Hall threshold before creature clears orchard; Phoebe remains voluntary, unrestrained and separate from moving hooves.",
+          "Hall left/pond right, broken windows/doors, melting ice, intact wall before final breach, surviving older trees and dark open-country escape preserve ordered geography.",
+          "First-panel lower legs are cropped at the panel edge, while head/antler silhouette remains clear; no gutter collision or anatomical contradiction."
+        ],
+        "disposition": "Suitable candidate for independent review; localized correction complete."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "70a920c8f2029f7919fe55ab48c4abd65a73a6ebfefad175372f6defff14f0bf",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "b369f2e6965d35fdc84779cb4170a45269a9eef7e21b7759bc98d20357ba789e",
+        "inputImages": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3f8661cb-cea5-4dce-9a38-6732c3ba3e5b.png",
+            "sha256": "ab43fa2391ac9228d43b6a35a049784141f347e7d80017a46c348df9fa5492a1",
+            "role": "Complete Page020 correction target; remove local active-looking flames from charred orchard only, preserve every other region and exact text."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "c55dc7471c5c2cb28b0e172de96757e96ebbf38584e9fdc8f84acf5b6abb8ab3",
+        "evidence": "Independent Page020 PASS native/390/768: exact captions, witness-reconstruction framing, collapse-before-escape sequence and corrected damp char."
       }
     }
   ],
