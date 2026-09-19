@@ -495,3 +495,18 @@ SHA-256 bindings:
 - QA `exec-94f3e07b-b070-4ecf-aaee-8daae74a39e1-390.png` `5681390139146851da51e285cdfd085a2c0ca8b8ba5a9d715498ca578e44d138`; corresponding `-768.png` `1e1ae9672e7ebde7bb144f363763a366c63611c8a9da762d393408f9569bf2c1` in the previously recorded temporary QA directory.
 
 Page-only PASS; page 022 onward/PDF NOT REVIEWED. No user approval implied.
+
+## Page 022 independent pixel review — 2026-09-19
+
+**PASS**, attempt 01. Reviewer `/root/mercy_page22_review` independently inspected the complete selected `pages/page-022.png` at native 1024 × 1536, 768 px and 390 px, after reading the full approved script/coverage and source 333–391. Compared preceding page 021 and actual accepted R01/R03/R05/R11/R12 pixels.
+
+All seven exact balloons, punctuation and speaker tails pass at all inspected sizes. Panels 22.1–22.2 carry Rowena's interrupted offer, Adrian's acceptance and Marcus's bargaining joke in clear order. In 22.3, Marcus's small upper balloon precedes Adrian's record safeguard; 22.4 completes the consent and history safeguards without clipping or face overlap. Adrian raises then lowers one ordinary buckled leaf, showing its blank ruled reverse; no added writing, magic or restored memory appears. Marcus's uninjured right hand supports his guarded anatomical left arm, with no remaining ice. Faces, morning clothing, coherent hands, bed-left/doorway/window-right geography and warm daylight match the accepted anchors and predecessor. Crisp contours, flat color and hard-edged shadows remain consistent; white gutters and simple single frames clearly separate the four successive beats. No inset, overlap or frame crossing confuses time or reading order. No material blocker found.
+
+SHA-256 bindings:
+
+- Candidate `8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4`; predecessor 021 `ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248`.
+- Plan `6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2`; source `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`; STYLE.md `89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464`; contract v0.7 `1997210900c9f6bb1f01969dad24d48c67f2c33b999ad704550c01d16474370f`.
+- Actual accepted anchors: R01 `8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3`; R03 `a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f`; R05 `89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f`; R11 `f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998`; R12 `0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df`.
+- QA `exec-8ee4b449-1f58-4442-a857-5b9e9659b80e-390.png` `b32a35b43742429f432868fc3b10a4a226538f83a6ee818865034fb4f54ec018`; corresponding `-768.png` `0e3b774f18670e6677a4788bf4632f870b2a50d8a82fa9d85ce548ec7a28bd25` in the previously recorded temporary QA directory.
+
+Page-only PASS; page 023 onward/PDF NOT REVIEWED. No user approval implied. No HTML or PDF created.

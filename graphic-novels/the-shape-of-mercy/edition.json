@@ -1825,7 +1825,7 @@
         "reviewer": "/root",
         "role": "coordinator",
         "pageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
-        "reviewedAt": "2026-09-19T04:18:27.4491300Z",
+        "reviewedAt": "2026-09-19T04:18:27.44913Z",
         "evidence": "Actual native/390/768 inspection PASS. Five exact readable paper names, upper consent/lower account strokes, ordinary buckled leaf handover, single-frame morning return, exact admission/love/honesty/re-reading lettering and tails, identity/bedroom continuity, no recovered memory or magic. Smaller diegetic names readable at390; no cosmetic correction needed."
       }
     },
@@ -1833,8 +1833,8 @@
       "number": 22,
       "id": "page-022",
       "path": "pages/page-022.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
       "plannedInputs": [
         "R01",
         "R03",
@@ -1843,12 +1843,67 @@
         "R12"
       ],
       "framing": "Negotiation opening; other sisters off-frame",
-      "attempts": [],
+      "attempts": [
+        "page-022-attempt-01"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_page22_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity, plain light morning shirt and ordinary hands."
+          },
+          {
+            "id": "R03",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus age23 blue-coat MORNING state only: injured LEFT arm guarded by normal RIGHT, no surface ice, no bandage."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity, dark high-collared gown, graying hair and unlit silver sleeve channels."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "Warm morning bedroom: bed left/grey-blue blanket, door behind, window right and clear floor route."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "One ordinary detached damp buckled ruled cream consentleaf only; no headings/book/inkpot/pen, no readable extra words."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "3c3e30e6a941807bee3de070daa7fd3266a5857fb696804aa5c78783cf253e20",
+        "evidence": "Independent Page022 attempt01 PASS after native/768/390 inspection: exact lettering, anatomy, continuity and style; no material findings."
+      },
+      "selectedAttempt": "page-022-attempt-01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+        "reviewedAt": "2026-09-19T04:30:15.3591251Z",
+        "evidence": "Actual native/390/768 whole-page PASS: seven exact readable balloons/tails/order, long safeguards fit comfortably, ordinary leaf below face, Marcus LEFT guarded/uniced and RIGHT supporting normally, warm room and character continuity. No correction."
       }
     },
     {
@@ -6744,6 +6799,134 @@
       },
       "notCalledAt": "2026-09-19T04:11:00.2161859Z",
       "notCalledReason": "Coordinator actual native390768 assessment: all five names readable, softness nonblocking; instructed retain original candidate if edit not yet called. No tool invocation occurred."
+    },
+    {
+      "id": "page-022-attempt-01",
+      "assetId": "page-022",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T04:21:43.215Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024×1536 portrait graphic-novel PAGE with FOUR ordinary single black-bordered horizontal panels, clear white gutters, read top to bottom. This is quiet MORNING negotiation in Adrian's bedroom, continuing the signed-record conversation. No double reconstruction frames, flashbacks, magic, narration captions, headings or page numbers.\n\nLETTERING FIRST: seven exact speech balloons below are the entire transcript. Use LARGE bold uppercase black comic lettering, comfortable at390px page width. For the long third/fourth-panel terms, reserve substantial white balloon area and short lines at approximately34–38px actual capital height; never shrink the type to squeeze it around figures. Make the lower two panels taller if needed. Keep balloon order and tails unmistakable, with no face covered or crossed tail. The long terms are Adrian's speech, not writing on the record.\n\nInput roles: R01 Adrian age19, warm medium-brown skin, dark tousled short hair, plain LIGHT MORNING SHIRT and normal uninjured hands. R03 Marcus age23, broader distinct face, wavy dark hair, BLUE formal coat, its MORNING reference state: anatomical LEFT arm still injured and held guarded close to his body, ordinary RIGHT arm supports it. Both sleeves are plain fabric with NO ICE or frost; do not transfer the AFTER ICE state, invent bandages or imply healing. R05 Rowena, graying swept-back hair, dark high-collared gown/silver stitched sleeve channels UNLIT. R11 establishes the exact morning bedroom: wooden bed LEFT with cream pillow/grey-blue blanket, open entry behind its head, window on RIGHT giving sharply bounded warm sunlight. R12 supplies only one ordinary damp buckled cream ruled record leaf. Its written face may show nonlegible strokes or its plain reverse toward viewer; no additional readable signature/name/text on this page.\n\nMatch the actual sheets' crisp black contours, saturated flat colors and hard-edged shadows. All room edges remain outlined and sharp, no depth-of-field blur, haze, bloom or photographic rendering. Only Adrian, Rowena and Marcus may be visible. Keep bed/entry/window relationships and the established Adrian-left/visitors-right conversational axis. The leaf is an ordinary reminder, not a source of power.\n\nPANEL1: Rowena at the right side of the bed begins discussing stewardship; Adrian answers from the bed at left, the single leaf resting on his lap. Her hopeful opening is interrupted by his calm acceptance. First Rowena's white balloon, short tail clearly to her:\n\"ABOUT THE STEWARDSHIP—\"\nThen Adrian's separate balloon, tail to him:\n\"I ACCEPT.\"\nPreserve the final EM DASH after STEWARDSHIP. Use a clear upper/lower order so her line reads first even though he is left.\n\nPANEL2: Marcus leans by the same doorway on the right, raises an eyebrow toward Adrian, with a restrained teasing look. His LEFT arm remains guarded, his RIGHT arm comfortably supports it as in R03 MORNING. No frozen sleeve. Adrian is at left, cropped if needed. First Marcus:\n\"YOU MIGHT AT LEAST BARGAIN BEFORE SURRENDERING.\"\nThen Adrian:\n\"I HAVE TERMS.\"\n\nPANEL3, generous height: Adrian lifts the ordinary single record at chest height, keeping his face clear, looking toward Rowena off-frame right. Marcus's faint smile is visible at the doorway edge. First a small but readable balloon clearly belonging to Marcus:\n\"THERE HE IS.\"\nThen the prominent large balloon clearly belonging to Adrian, with ample short-line space:\n\"EVERY SEVERANCE GETS AN UNENCHANTED RECORD, BEGUN BEFORE THE ACT WHEN POSSIBLE AND COMPLETED BY WITNESSES AFTERWARD.\"\nHis hands just hold paper; no gesture of severance. Keep the long balloon away from Marcus's face/tail so speaker attribution is clear.\n\nPANEL4: closer Adrian, serious and composed, looking toward Rowena at right; she may remain off-crop. The leaf is lowered enough to leave his face and mouth visible. One LARGE white balloon from Adrian:\n\"NO TESTING ME WITHOUT INFORMED CONSENT. NO CONCEALMENT OF MY HISTORY, ESPECIALLY FROM ME.\"\n\nNo invented people, injuries, signatures, props, effects, moral triumph or restored memories. Preserve complete words and punctuation, coherent hands/paper and all four panel borders.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian age19 identity, plain light morning shirt and ordinary hands."
+        },
+        {
+          "id": "R03",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\marcus-bellweather.png",
+          "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+          "role": "Marcus age23 blue-coat MORNING state only: injured LEFT arm guarded by normal RIGHT, no surface ice, no bandage."
+        },
+        {
+          "id": "R05",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+          "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+          "role": "Rowena identity, dark high-collared gown, graying hair and unlit silver sleeve channels."
+        },
+        {
+          "id": "R11",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+          "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+          "role": "Warm morning bedroom: bed left/grey-blue blanket, door behind, window right and clear floor route."
+        },
+        {
+          "id": "R12",
+          "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+          "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+          "role": "One ordinary detached damp buckled ruled cream consentleaf only; no headings/book/inkpot/pen, no readable extra words."
+        }
+      ],
+      "preflight": {
+        "sourceMoment": "Approved Page22/source373–385, first safeguards in morning negotiation; seven exact spoken text units.",
+        "inputPixels": "Fresh R03 MORNING actual pixels inspected: LEFT guarded/RIGHT support with no ice. R01/R05/R11/R12 previously inspected unchanged; all five accepted hashes verified. Accepted Page021 continuation remains in visual context.",
+        "composition": "Four single-frame warm morning panels, lower two generous for long balloons; Adrian-left/visitors-right. Record ordinary, exact interrupted dash and speech order, no extras."
+      },
+      "completedAt": "2026-09-19T04:25:50.592Z",
+      "status": "selected",
+      "outputPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-8ee4b449-1f58-4442-a857-5b9e9659b80e.png",
+      "outputSha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+      "candidatePath": "pages/page-022.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "opaque": true
+      },
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-8ee4b449-1f58-4442-a857-5b9e9659b80e.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-8ee4b449-1f58-4442-a857-5b9e9659b80e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T04:25:50.592Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "Four ordinary single frames in warm morning bedroom; all seven exact spoken units and final stewardship interruption dash checked.",
+          "Long record and consent/history terms remain comfortably readable at390px. Rowena/Marcus/Adrian attribution and first/second balloon order are clear without crossed tails.",
+          "Marcus's anatomical LEFT arm guarded at doorway, ordinary RIGHT supports it; both blue sleeves have no ice and no miraculous healing/bandage.",
+          "Adrian's morning shirt, Rowena unlit silver gown, coherent hands/one ordinary damp leaf and clear faces preserved; no added readable paper words or magic.",
+          "Bed-left/window-right geometry and dialogue axis remain consistent. Leaf rises below Adrian's face for terms, ordinary lowered record in final close-up."
+        ],
+        "disposition": "Suitable first-render candidate for independent review; no correction generated."
+      },
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_page22_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "8b627c702781dd3d3bc997f4c32caa887e2e368fa31cd9f98875105ea29796d4",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "89d67a557063f89772ee6ef0d66adaa1ba1f7dedc803b1b48ecb94d267568464",
+        "precedingPageSha256": "ba947f227ddfd62fe7bf187acf47beb59df12773cd1284f41710671002036248",
+        "inputImages": [
+          {
+            "id": "R01",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bellweather.png",
+            "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+            "role": "Adrian age19 identity, plain light morning shirt and ordinary hands."
+          },
+          {
+            "id": "R03",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\marcus-bellweather.png",
+            "sha256": "a73f3d92bcbef8224c8cac49f96dd9c7d4323675a87cea78a003b46adadfe38f",
+            "role": "Marcus age23 blue-coat MORNING state only: injured LEFT arm guarded by normal RIGHT, no surface ice, no bandage."
+          },
+          {
+            "id": "R05",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\lady-rowena-bellweather.png",
+            "sha256": "89090d2e04f6ef9663b7ad92e23fb25122b5c8deaf4e9a75719c6c42e88c1e8f",
+            "role": "Rowena identity, dark high-collared gown, graying hair and unlit silver sleeve channels."
+          },
+          {
+            "id": "R11",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\adrian-bedchamber.png",
+            "sha256": "f5f2cd5b204e7c4b800c4906a06b0a2c227e87403887512da918848fcd17c998",
+            "role": "Warm morning bedroom: bed left/grey-blue blanket, door behind, window right and clear floor route."
+          },
+          {
+            "id": "R12",
+            "path": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\references\\household-ledger.png",
+            "sha256": "0eb22591c5a99096068f9c2ae3dc64e385d18385b98a2444cdc1b5a81c8f35df",
+            "role": "One ordinary detached damp buckled ruled cream consentleaf only; no headings/book/inkpot/pen, no readable extra words."
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "3c3e30e6a941807bee3de070daa7fd3266a5857fb696804aa5c78783cf253e20",
+        "evidence": "Independent Page022 attempt01 PASS after native/768/390 inspection: exact lettering, anatomy, continuity and style; no material findings."
+      }
     }
   ],
   "approvals": {
