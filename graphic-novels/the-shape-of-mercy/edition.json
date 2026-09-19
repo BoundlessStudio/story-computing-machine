@@ -1215,8 +1215,8 @@
       "number": 13,
       "id": "page-013",
       "path": "pages/page-013.png",
-      "status": "planned",
-      "sha256": null,
+      "status": "independent-pass",
+      "sha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
       "plannedInputs": [
         "R01",
         "R04",
@@ -1225,12 +1225,56 @@
         "P12"
       ],
       "framing": "Adrian/Phoebe consultation",
-      "attempts": [],
+      "attempts": [
+        "page-013-attempt-01",
+        "page-013-attempt-02",
+        "page-013-attempt-03"
+      ],
       "independentReview": {
-        "verdict": "NOT REVIEWED",
-        "reviewer": null,
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
         "role": "graphic_novel_reviewer",
-        "pageSha256": null
+        "pageSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png",
+            "sha256": "6ec331b67dae90046fcb624f3816460e6214098a45b652acb54b84c836f5a90e",
+            "role": "complete-page correction target; preserve all exact text, human poses/contact state and passing art"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "living giant creature/antlers/smooth translucent skin/native currents/old curved throat scar, no collar"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "damaged N3 room remains continuously visible in final frame, dark candles/ice/glass/slush/broken windows"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "f5234b33073e1fe10628cb4ca9b307e28cdc03afdaa8df8794d8bb3f54ce2869",
+        "evidence": "Independent native/390/768 PASS: exactdialogue, consultation, N3blockedexit and detachedsubjectivescar echo clear. Minorantler-tipcrop explicitly nonblocking."
+      },
+      "selectedAttempt": "page-013-attempt-03",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536,
+        "mode": "RGB"
+      },
+      "coordinatorInspection": {
+        "verdict": "PASS",
+        "reviewer": "/root",
+        "role": "coordinator",
+        "pageSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "reviewedAt": "2026-09-19T00:50:52.2069254Z",
+        "evidence": "Inspected entire actual native/390/768: all five exactspeechblocks readable including ITS; consultation matched eye levels/no grip and Phoebe bothpalmsfloor; beastnativegiftintact, highiceblocksdoor. Corrected finalsmalltranslucentscar echo has room visiblethrough, shortforeignblackscar-edge and separateopenempathyarc clearof hair/bodies, no actualcord or cut. Minoruppertinecrop left for independentassessment."
       }
     },
     {
@@ -4295,6 +4339,272 @@
         "reviewFile": "review.md",
         "reviewFileSha256": "b660c015f8567e27a63761aa2a8766759e2ff47717a304fed9b166e862243cec",
         "evidence": "Independent native/390/768 PASS: exacttext, braceletcontact, physicaliceimpact, damagedHall and subjectiveuncutoverlays clear; no blockers."
+      }
+    },
+    {
+      "id": "page-013-attempt-01",
+      "assetId": "page-013",
+      "kind": "page-generation",
+      "preflightAt": "2026-09-19T00:27:26Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Create ONE complete1024x1536 portrait graphic-novel page with FOUR panels. LARGE LETTERING FIRST: nominal48–52px bold uppercase comic type, actual cap height34–40px minimum, clear at390px page width. Reserve ample white balloons before art; use short lines, never shrink letters to fit. Crisp bold contours, saturated flat colors, hard-edged shadows, regular quiet white gutters. This is consent through listening, not a domination scene.\n\nEXACTLY FIVE spoken blocks, no narration/captions/SFX/other words:\nPANEL1 Adrian:\nLOOK AT ME.\nPANEL2 Adrian:\nI NEED TO KNOW WHAT\nBELONGS TO IT. NOT WHAT\nWOULD MAKE THIS EASIER.\nWHAT DOES IT WANT?\nPANEL3 Phoebe:\nIT WANTS THE STORM.\nTHE LIGHTNING. TO RUN\nUNDER OPEN SKY.\nTHAT'S ALL ITS.\nDON'T TAKE THAT.\nPANEL4 Adrian first:\nAND THE ORDER?\nPANEL4 Phoebe second:\nFOREIGN. OLD.\nIT HURTS EVERY TIME\nIT RESISTS.\nCUT THAT. ONLY THAT.\nPreserve all punctuation and wording, especially THAT'S ALL ITS. (ITS has no apostrophe). Every balloon has a clear short tail to its speaker, reading top-to-bottom and left-to-right. No new labels/page number.\n\nFive actual image inputs:\n1 Adrian current age19, warm medium-brown face, short uneven dark hair, charcoal formal coat/white shirt.\n2 Phoebe current AGE16 ONLY, warm medium-brown family complexion, green long-sleeved tunic/dark trousers, loose dark ponytail. Exclude child/morning state.\n3 Same huge stormhart, larger than carriage horse, smooth translucent storm-blue living hide and native silver currents, branching winter-tree antlers, old curved scar AROUND throat. No shaggy fur or external collar.\n4 Exact N3 damaged Hall: broken jagged panes and orchard doors RIGHT, LEFT pillar/far-gallery, physical water-ice barriers, scattered glass/slush/dishes/debris, overturned supper-table shelter. Ordinary candles ALL OUT. Outside ashfire remains alive, no new flood/fire or projected wards.\n5 Accepted previous comic: rendering/spatial continuity, current Phoebe/Adrian/beast states and FLAT subjective-line language. Exclude all its dialogue, yellow captions and Rowena/Garran; neither parent nor other sibling appears here.\n\nLAYOUT: Four ordered broad horizontal frames, approximately250px approach,370px consultation,430px beast relationship,420px close precise answer. Adjust modestly to fit full-size text and hands. Regular white gutters signal attention/listening, no flashback or inset. Family remains hall-side LEFT of threatening creature/threshold RIGHT. The first two tight views may omit beast but never relocate it.\n\nPANEL1: Adrian crawls through glass/slush and stops in front of Phoebe near the overturned table. Show him LEFT, low on hands/knees, Phoebe RIGHT, exhausted near floor. His gaze seeks hers; LOOK AT ME. is a quiet invitation, short tail to Adrian. Their bodies and hands remain separate. No chin/wrist grip, no lifting her physically.\n\nPANEL2: Low MATCHED EYE LEVEL consultation: Adrian LEFT crouches/kneels to Phoebe RIGHT. She braces BOTH distinct hands flat on the floor, fingers anatomically clear; he asks with concern, not orders. Keep her face and both braced hands visible below/beside his generous four-line balloon, tail to Adrian. No magical contact, no power from his fingers. Preserve fully clothed age19/16 identities.\n\nPANEL3: Wider relation: Phoebe nearer LEFT/centre foreground, speaking to Adrian just off-frame on family side; stormhart remains beyond to RIGHT at the broken threshold/ice. Wind from beast moves her loose hair LEFT, intense empathic anguish without monstrous facial distortion. Large five-line balloon in open space tails to Phoebe; leave creature head/antlers and her face readable. Beast's native silver lightning is clearly INTERNAL to its translucent body/antlers and remains alive; dangerous, not tamed, dying or diminished. Keep antler tips within frame. Physical ice/glass/slush and outside fire persist.\n\nPANEL4: Close two-shot, Adrian LEFT/Phoebe RIGHT at equal eye level, neither touches the other. Adrian's shorter question first upper-left; Phoebe's four-line answer second upper-right, faces below with clear tails. In PERIPHERAL background only, a little stormhart throat/scar remains visible to establish the distinction: thin flat pale-gold open/unhooked empathy arcs toward beast, separate from a narrow flat BLACK foreign-command edge at old scar exiting toward off-frame focus. These are explicitly SUBJECTIVE graphic overlays, not physical cords, no glow, fibres, leash or body-wrapping. Keep them out of faces/text and no loop constrains any neck/wrist. Native silver currents stay distinct from gold empathy and black command. Everything remains UNCUT; no weapon, severed ends, extinguished gift or new wound/nosebleed. Phoebe names the narrow choice while Adrian listens.",
+      "inputImages": [
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "Adrian current age19 charcoal coat identity, crouched eye-level listening rather than dominance"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "Phoebe current AGE16 only, green long-sleeved tunic/loose dark ponytail; both hands braced on floor, voluntary empathic focus"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "Living dangerous huge translucent stormhart, branching antlers/internal native silver currents/old curved throat scar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "Actual N3 Hall damage/geography: broken panes/doors, physical ice, glass/slush/debris, overturned table shelter, dark candles, outside ashfire"
+        },
+        {
+          "id": "P12",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/pages/page-012.png",
+          "sha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+          "role": "Accepted preceding page spatial/current-state/style continuity and flat subjective-contour grammar; exclude its extra cast and all text"
+        }
+      ],
+      "preflight": {
+        "lettering": "Five exact spoken blocks, speaker tails and punctuation checked, including THAT'S ALL ITS. No narration/SFX.",
+        "state": "Age19/16/current clothes; no gripping, domination, literal ropes/neon, cutting, nosebleed or diminished gifts. N3 R09 damage/dark candles/slush/glass/ice/outside ashfire",
+        "referencePixels": "Accepted actual R01/R04/R07/R09/P12 pixels reused unchanged; current hashes verified",
+        "composition": "Four quiet regular-gutter frames: approach, matched-eye consultation with both Phoebe hands floor, native beast relationship, close narrow-choice answer with peripheral subjective distinction",
+        "precedingPageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "sourceMoment": "Approved Page13/source225–239 and accepted Page012 inspected; actual accepted Page006 reopened for empathy/native storm/foreign command distinction"
+      },
+      "producerInspection": {
+        "inspectedAt": "2026-09-19T00:33:47Z",
+        "disposition": "Targeted typography, antler framing and subjective peripheral distinction correction; preserve consultation and no severance.",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ],
+        "findings": [
+          "All five exact spoken blocks including ITS, both Phoebe floor-braced hands, no contact, current identities and N3 damage retained.",
+          "Longer dialogue is undersized at390, particularly panels3/4; panel3 antler tips clipped.",
+          "Panel4 oversized solid throat immediately behind pair and gold/black lines disappearing behind Phoebe head blur peripheral subjective perception with physical proximity/attachment."
+        ]
+      },
+      "outputSha256": "123e978d3609355fcb8f4e6d48a4a582cb090ad0033201fd2f48e3c5ef98df35",
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3e274ce0-0b83-4b48-9a38-d27889916f4f.png",
+      "dimensions": {
+        "height": 1536,
+        "pixelFormat": "RGB24",
+        "width": 1024,
+        "opaque": true
+      },
+      "completedAt": "2026-09-19T00:33:47Z",
+      "status": "needs-correction",
+      "toolProvenance": {
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3e274ce0-0b83-4b48-9a38-d27889916f4f.png",
+        "backendModel": null,
+        "tool": "image_gen.imagegen",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-3e274ce0-0b83-4b48-9a38-d27889916f4f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ]
+      }
+    },
+    {
+      "id": "page-013-attempt-02",
+      "assetId": "page-013",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T00:34:33Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Edit the complete1024x1536 comic page in image1. Preserve four panels, all five exact spoken text blocks and passing consultation/art. Correct only lettering scale, panel3 antler framing and panel4 subjective-perception clarity.\n\n1 LETTERING: enlarge all undersized dialogue, especially panels3/4, to actual uppercase cap height34–38px minimum, uniformly bold black comic letters and comfortable at390px page width. Enlarge/reflow balloons before shrinking type. Keep face/hand visibility, exact punctuation and speaker tails. Exact text:\nPANEL1 Adrian: LOOK AT ME.\nPANEL2 Adrian:\nI NEED TO KNOW WHAT\nBELONGS TO IT. NOT WHAT\nWOULD MAKE THIS EASIER.\nWHAT DOES IT WANT?\nPANEL3 Phoebe:\nIT WANTS THE STORM.\nTHE LIGHTNING. TO RUN\nUNDER OPEN SKY.\nTHAT'S ALL ITS.\nDON'T TAKE THAT.\nPANEL4 Adrian first: AND THE ORDER?\nPANEL4 Phoebe second:\nFOREIGN. OLD.\nIT HURTS EVERY TIME\nIT RESISTS.\nCUT THAT. ONLY THAT.\nITS is spelled exactly ITS, never IT'S. No narration/labels/SFX/extra text. Give panel3 balloon more width/height in central open space between Phoebe and beast; give final long balloon more space above Phoebe while leaving her face clear.\n\n2 PANEL3: modestly pull back the ENTIRE panel camera so every antler tine has safe margin inside the frame. Preserve Phoebe foreground LEFT, beast threshold/RIGHT, and its huge scale relative to Hall furniture; do not shrink the creature alone. Keep loose hair blown by beast's wind, native silver lightning in its living translucent body and old curved throat scar. Keep the creature dangerous/alive, not tamed, transformed or diminished. Preserve the physically BLOCKED orchard threshold behind it: substantial thick water-ice spans the lower/central broken doorway, no open escape route yet. Upper jagged opening may show exterior ashfire, but nobody can simply walk out through the lower doorway. Match R09 solid ice, never a thin projected ward.\n\n3 PANEL4: the huge solid throat immediately behind the human pair wrongly suggests the beast has physically relocated beside them. Replace ONLY that background feature with the ordinary damaged N3 room visible CONTINUOUSLY behind them. Retain a SMALL UNBORDERED peripheral SUBJECTIVE ECHO of the scar/throat within open background space: a clearly TRANSLUCENT flat partial contour fragment superimposed over visible room, not a solid chest/body standing between them, not an inset/fifth panel. This is Adrian's perception of the distant creature; no physical relocation.\n\nSeparate two clearly different FLAT, non-glowing subjective marks around that small scar echo:\n- Pale-gold open empathy arcs toward the creature, UNHOOKED at both ends, with visible air gaps. No end disappears behind or attaches to Phoebe's head/body. No glowing core.\n- A narrow BLACK foreign-command edge AT the old throat-scar echo, travelling away toward the unseen focus OFF-FRAME RIGHT, never toward or through Phoebe/Adrian. No physical rope texture, collar, fibres or tube shading.\nNative silver currents in the echo remain distinct from both. Keep every connection UNCUT; no slash, gap from severance, broken line or effect cancelling magic. The open empathy endpoints are voluntary connection grammar, not a cut.\nKeep these marks peripheral and small, out of faces/text, with no coil/body wrapping. No additional labels or caption explaining them.\n\nActual extra references: image2 stormhart identity/scar; image3 N3 room; image4 Phoebe AGE16 only; image5 current Adrian. Exclude headings/alternate ages/morning states. Preserve first two panels' no-contact approach, matched eye level, BOTH Phoebe hands flat on floor, anatomically coherent fingers and clothes. Preserve all current expressions and the final precise two-shot/balloon order. N3 shattered panes/dark candles/physical ice/slush/glass/outside ashfire persist. No new wound/nosebleed, other people, weapons or new cut. Crisp bold contours/flat color/hard shadows unchanged.",
+      "inputImages": [
+        {
+          "id": "page-013-attempt-01",
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-3e274ce0-0b83-4b48-9a38-d27889916f4f.png",
+          "sha256": "123e978d3609355fcb8f4e6d48a4a582cb090ad0033201fd2f48e3c5ef98df35",
+          "role": "primary complete-page edit target; preserve exact words, consultation, identities, no contact and N3 states"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "living giant creature/antlers/smooth translucent skin/native currents/old curved throat scar, no collar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "damaged N3 room remains continuously visible in final frame, dark candles/ice/glass/slush/broken windows"
+        },
+        {
+          "id": "R04",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/phoebe-bellweather.png",
+          "sha256": "c7c76269c5a22f6c51d687132773e42ca0865e79548e102f3a468ecfbc12c251",
+          "role": "preserve Phoebe current AGE16/green tunic identity, loose hair, anatomy and voluntary open empathy"
+        },
+        {
+          "id": "R01",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/adrian-bellweather.png",
+          "sha256": "8707300daf02f64eb1707d4ac7ac82ccd497842511e2565cfb792a52204079d3",
+          "role": "preserve Adrian current19/charcoal coat identity and quiet listening, no contact/command"
+        }
+      ],
+      "preflight": {
+        "composition": "Keep four frames; full panel3 pullback preserves relative scale. Final room visible behind humans with small unbordered subjective scar echo, separate open gold empathy and foreign black scar edge toward off-frame focus, no physical attachment. Coordinator concurs narrow P4 fix; retain blocked physical orchard threshold before Page014 release. Small scar echo explicitly translucent over room.",
+        "inputPixels": "Target native390768 and accepted Page006 perception grammar inspected; accepted R07/R09/R04/R01 pixels unchanged and hashes verified",
+        "sourceMoment": "Approved Page13 unchanged, five exact spoken blocks/punctuation/speakers checked"
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png",
+      "outputSha256": "6ec331b67dae90046fcb624f3816460e6214098a45b652acb54b84c836f5a90e",
+      "candidatePath": null,
+      "status": "needs-correction",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "producerInspection": {
+        "disposition": "Targeted second correction of small perceptual background and blocked threshold/framing required.",
+        "inspectedAt": "2026-09-19T00:42:31Z",
+        "findings": [
+          "All five dialogue blocks exact; lower dialogue larger and readable, faces/hands/no-contact consultation preserved.",
+          "Scar echo now translucent with room visible, but gold enters Phoebe hair and detached black stroke does not clearly follow scar.",
+          "Panel3 antler tips still clipped; doorway ice insufficiently substantial."
+        ],
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "completedAt": "2026-09-19T00:42:31Z",
+      "dimensions": {
+        "height": 1536,
+        "opaque": true,
+        "width": 1024,
+        "pixelFormat": "RGB24"
+      }
+    },
+    {
+      "id": "page-013-attempt-03",
+      "assetId": "page-013",
+      "kind": "page-edit",
+      "preflightAt": "2026-09-19T00:42:31Z",
+      "producer": "/root/mercy_plan",
+      "tool": "image_gen.imagegen",
+      "prompt": "Make one narrowly targeted edit to image1, the complete1024x1536 four-panel comic page. Preserve ALL exact existing lettering, large readable font, panel order, human faces/costumes/poses, both Phoebe hands on floor in panel2, no human contact, and the rest of the passing artwork. Change only the following two background regions. No new words, labels or panels.\n\nPANEL4 PERCEPTUAL MARKS: Remove the current long gold and black curves completely. They wrongly disappear into Phoebe's hair. Remove any remnant behind/in her hair. Keep her entire silhouette unchanged.\nMake the existing translucent scar echo SMALLER and isolate it entirely within the narrow open room space LEFT of Phoebe's hair and RIGHT of Adrian's shoulder, below the AND THE ORDER? balloon. The room must remain continuously visible through the echo, clearly an unbordered subjective perception overlay, never a solid nearby creature. Leave at least25px of clear ordinary background between EVERY edge/mark of this tiny echo and either human silhouette. The echo needs only a partial pale-blue translucent throat contour, native silver current and the curved healed scar.\nAlong the scar itself place a short flat BLACK foreign-command edge, tightly following part of the scar. NO long black tail elsewhere, no line continuing toward a human or disappearing behind hair. The command is still intact, not cut.\nBeside the echo place one small FLAT PALE-OCHRE OPEN ARC of voluntary empathy, separated from the black scar edge and from both people by visible empty room. Both ends visibly stop in empty space. No bloom, glow, bright core, tube shading, knot, loop around body or physical rope. Keep this small graphical overlay peripheral. It must read as Adrian's subjective distinctions, not a tangible object, actual collar or contact with Phoebe. Do not alter or diminish the real beast or its living gift.\n\nPANEL3 ONLY: modestly reframe the entire view to provide a clear12px safe margin above every antler tip INSIDE the panel, retaining the huge beast's scale relative to architecture and furniture and Phoebe's foreground-left placement. Do not shrink only the beast. Raise the existing solid jagged water-ice across the lower/central broken orchard doorway BEHIND the creature into a broad thick barrier high enough to block a human walking through. It is a physically blocked exit until the next story beat. Keep upper broken doorway showing outside ashfire. Match image3 thick cloudy physical ice with jagged mass/depth, NOT projected magical ward panes. The creature remains INSIDE in front of that sealed threshold; do not place the ice across its body or replace the room.\nPreserve all of panel3's large exact dialogue and speaker tail. Keep head, curved throat scar, native internal silver lightning, smooth translucent hide and all visible limbs coherent.\n\nReference roles: image1 primary complete-page target; image2 stormhart anatomy/antler/scar identity only; image3 damaged Hall solid ice/geography only. The two human identities must be preserved directly from image1. No extra people, unlisted props or reference headings.\nN3 shattered windows, dark candles, glass/slush/debris, outside ashfire and physical blocked exits remain. No new flame inside, restored ward, wound, active severance, severed bond or cancelled power. Bold black outlines, saturated flat fills and hard shadows unchanged. Recheck the full page for unchanged exact five dialogue blocks, clear tails and four-frame reading order.",
+      "inputImages": [
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png",
+          "sha256": "6ec331b67dae90046fcb624f3816460e6214098a45b652acb54b84c836f5a90e",
+          "role": "complete-page correction target; preserve all exact text, human poses/contact state and passing art"
+        },
+        {
+          "id": "R07",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+          "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+          "role": "living giant creature/antlers/smooth translucent skin/native currents/old curved throat scar, no collar"
+        },
+        {
+          "id": "R09",
+          "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+          "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+          "role": "damaged N3 room remains continuously visible in final frame, dark candles/ice/glass/slush/broken windows"
+        }
+      ],
+      "preflight": {
+        "inputPixels": "Target inspected native390768; accepted R07 and R09 pixels inspected and current hashes verified.",
+        "sourceMoment": "Approved Page13 unchanged; five exact spoken text units preserved from target.",
+        "composition": "Only P4 isolated tiny translucent scar echo with flat separated marks, no human attachment; P3 safe tine margin and physical threshold barrier. Human poses/text/other panels preserved."
+      },
+      "status": "selected",
+      "producerInspection": {
+        "findings": [
+          "All five spoken blocks exact, including ITS; large lower dialogue and correct speaker tails readable at390. No extra lettering.",
+          "Four regular frames retain voluntary consultation, age19/16 identities, no contact/gripping, both Phoebe hands braced on floor and matched eye level.",
+          "Panel4 now small translucent unbordered scar echo with real room visible, short dark edge follows scar and open gold arc is isolated from hair/body. No physical relocation, rope or active severance.",
+          "Panel3 substantial solid ice now blocks orchard doorway behind living stormhart; native silver current and curved throat scar remain. N3 damaged windows/dark candles/glass/slush/outside ashfire preserved.",
+          "Residual: upper antler tips still touch/crop at panel3 top despite camera-margin request; secondary framing issue retained for independent judgment. After two corrections, no identical edit repeated."
+        ],
+        "disposition": "Suitable candidate for independent review; residual antler framing disclosed, no independent PASS claimed.",
+        "inspectedAt": "2026-09-19T00:45:24Z",
+        "sizes": [
+          "native1024x1536",
+          "390x585",
+          "768x1152"
+        ]
+      },
+      "dimensions": {
+        "pixelFormat": "RGB24",
+        "width": 1024,
+        "height": 1536,
+        "opaque": true
+      },
+      "outputPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-0f858b4d-a3c6-4ca3-a2ce-d1ecf84ae664.png",
+      "outputSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+      "toolProvenance": {
+        "tool": "image_gen.imagegen",
+        "reportedKeys": [
+          "image_url",
+          "output_hint"
+        ],
+        "savedPath": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-0f858b4d-a3c6-4ca3-a2ce-d1ecf84ae664.png",
+        "outputHint": "Generated images are saved to C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9 as C:\\Users\\jamie\\.codex\\generated_images\\01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9\\exec-0f858b4d-a3c6-4ca3-a2ce-d1ecf84ae664.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "backendModel": null
+      },
+      "completedAt": "2026-09-19T00:45:24Z",
+      "candidatePath": "D:\\Development\\BoundlessAi\\story-computing-machine-gn-the-shape-of-mercy\\graphic-novels\\the-shape-of-mercy\\pages\\page-013.png",
+      "independentReview": {
+        "verdict": "PASS",
+        "reviewer": "/root/mercy_plan_review",
+        "role": "graphic_novel_reviewer",
+        "pageSha256": "9b55da79b208ff8197ac5553ae1bf5f7af5cdbedc5890b064af384d688c40a07",
+        "planSha256": "6d0de63c02ab634b149d267059d813fbda3c6304e6a08c0c839a1c61acaa9da2",
+        "sourceProseSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "styleSha256": "67851ddacecb4333f03f49730225dcbb97465d3dae8c3cfd2082782ab2b7f55f",
+        "precedingPageSha256": "ed6c4461394ba1f9ce60fe21a2028bb4909cc9bddee4140dafe3acbbca363a0e",
+        "inputImages": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0b5cd-4dc8-7370-afc9-8a1972a8ecd9/exec-4ce1f080-4078-4ab2-8fab-d5224f69d59b.png",
+            "sha256": "6ec331b67dae90046fcb624f3816460e6214098a45b652acb54b84c836f5a90e",
+            "role": "complete-page correction target; preserve all exact text, human poses/contact state and passing art"
+          },
+          {
+            "id": "R07",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/stormhart.png",
+            "sha256": "7240fcd4f5eff3d092be7e78eddb7b3ba542573695d29c366ed7289897b3d1f6",
+            "role": "living giant creature/antlers/smooth translucent skin/native currents/old curved throat scar, no collar"
+          },
+          {
+            "id": "R09",
+            "path": "D:/Development/BoundlessAi/story-computing-machine-gn-the-shape-of-mercy/graphic-novels/the-shape-of-mercy/references/bellweather-hall-damaged.png",
+            "sha256": "3a45d2b8f7e383ecf38d33e8145a0d38e2cd36bf2a83d54aac45a002a74ca323",
+            "role": "damaged N3 room remains continuously visible in final frame, dark candles/ice/glass/slush/broken windows"
+          }
+        ],
+        "reviewFile": "review.md",
+        "reviewFileSha256": "f5234b33073e1fe10628cb4ca9b307e28cdc03afdaa8df8794d8bb3f54ce2869",
+        "evidence": "Independent native/390/768 PASS: exactdialogue, consultation, N3blockedexit and detachedsubjectivescar echo clear. Minorantler-tipcrop explicitly nonblocking."
       }
     }
   ],
