@@ -702,7 +702,7 @@ function Test-BundleExactUse {
         return $false
     }
     $pattern = '(?<![\p{L}\p{M}\p{N}_])' + [regex]::Escape($Name) + '(?![\p{L}\p{M}\p{N}_])'
-    return @(Select-String -LiteralPath $bundleStoryFiles -Pattern $pattern -List).Count -gt 0
+    return @(Select-String -LiteralPath $bundleStoryFiles -Pattern $pattern -CaseSensitive -List).Count -gt 0
 }
 
 function Test-DocumentedBundleRecurrence {
