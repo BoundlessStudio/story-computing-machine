@@ -1732,63 +1732,6 @@
       "reader": "stories/no-need-to-worry.html",
       "images": [
         {
-          "id": "01-the-lodge-at-dusk",
-          "title": "The lodge at dusk",
-          "alt": "The lodge at dusk — oil landscape for No Need to Worry",
-          "source": "stories/no-need-to-worry/art/landscapes/01-the-lodge-at-dusk.png",
-          "sourceSha256": "59ce8562ff957ae9ecf4dab9315ac6f3ac167d62d1760f8f27614bc2e469eb94",
-          "full": {
-            "path": "landscapes/no-need-to-worry/01-the-lodge-at-dusk.webp",
-            "sha256": "abd2538cb2307ba2c92faba8a31e381a93a37699e4c732eb5968df103f8d7381",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-need-to-worry/01-the-lodge-at-dusk-thumb.webp",
-            "sha256": "804a6bb9367061636dac1fe91771bc230d416b3701c9b23329abe39603241653",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-beyond-the-dividing-wall",
-          "title": "Beyond the dividing wall",
-          "alt": "Beyond the dividing wall — oil landscape for No Need to Worry",
-          "source": "stories/no-need-to-worry/art/landscapes/02-beyond-the-dividing-wall.png",
-          "sourceSha256": "7168dfe6a04a91bc2c6d9d2be9dd0374c3a55ec23ea2941f6916a5fc91faf8a9",
-          "full": {
-            "path": "landscapes/no-need-to-worry/02-beyond-the-dividing-wall.webp",
-            "sha256": "eb83d4095b35566754fa5677130e9400dc3c6e2b45e5d77a819e4e6e1bf59d0d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-need-to-worry/02-beyond-the-dividing-wall-thumb.webp",
-            "sha256": "e04d902fea6b8109e5dc75cac1bd317b5fcdd5e3a09ac8b6d482ba27751dd203",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-unoccupied-drive",
-          "title": "The unoccupied drive",
-          "alt": "The unoccupied drive — oil landscape for No Need to Worry",
-          "source": "stories/no-need-to-worry/art/landscapes/03-the-unoccupied-drive.png",
-          "sourceSha256": "df619446e024f869decfc0d01104369890104503bc2d2429de00cc5debae29a5",
-          "full": {
-            "path": "landscapes/no-need-to-worry/03-the-unoccupied-drive.webp",
-            "sha256": "99c9a1a526a73d074c1ba3123632f4b0c4e93a1af4ddbc6f059c602cdc025fa6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-need-to-worry/03-the-unoccupied-drive-thumb.webp",
-            "sha256": "ad514fab9688a642d6b6fae62ca42bcfe963f02fad3e10c9298ab98e13c77f71",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-light-beyond-the-yard",
           "title": "Light beyond the yard",
           "alt": "Light beyond the yard — oil landscape for No Need to Worry",
@@ -17438,6 +17381,21 @@
       "source": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
       "sourceSha256": "625c5a6ffccae27d4b6d2488db2e7c846465d72d6ee6eb3521586ceb45511721",
       "reason": "Replaces the broken sanctuary of the opening image with a large intact multi-storey castle across a different valley; the collapse view breaks location continuity."
+    },
+    {
+      "source": "stories/no-need-to-worry/art/landscapes/01-the-lodge-at-dusk.png",
+      "sourceSha256": "59ce8562ff957ae9ecf4dab9315ac6f3ac167d62d1760f8f27614bc2e469eb94",
+      "reason": "Adds a distant dusk panorama, lake and open moorland not established by the pen-and-booth action."
+    },
+    {
+      "source": "stories/no-need-to-worry/art/landscapes/02-beyond-the-dividing-wall.png",
+      "sourceSha256": "7168dfe6a04a91bc2c6d9d2be9dd0374c3a55ec23ea2941f6916a5fc91faf8a9",
+      "reason": "Moves the view outside the dividing wall into open scrubland; the wall divides the killing pen from the concrete outer yard, not the surrounding countryside."
+    },
+    {
+      "source": "stories/no-need-to-worry/art/landscapes/03-the-unoccupied-drive.png",
+      "sourceSha256": "df619446e024f869decfc0d01104369890104503bc2d2429de00cc5debae29a5",
+      "reason": "Repeats the same lodge access road without a distinct event; the final bend already represents the actual departure."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
