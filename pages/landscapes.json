@@ -6188,82 +6188,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-queens-gardens",
-          "title": "The queens gardens",
-          "alt": "The queens gardens — oil landscape for The Ring Between Lives",
-          "source": "stories/the-ring-between-lives/art/landscapes/02-the-queens-gardens.png",
-          "sourceSha256": "821a610786de9a9a085bfa7ac8cf57e6f8b315d07cb5a63b5168c2bafe8cf7e3",
-          "full": {
-            "path": "landscapes/the-ring-between-lives/02-the-queens-gardens.webp",
-            "sha256": "97c5ec1520d2aedcc9e4d5ec02db4ff86d294632c174fad5cd02d64a446ea3a7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ring-between-lives/02-the-queens-gardens-thumb.webp",
-            "sha256": "df0ad68b5e865ac32b94f171635796d5507a09f0ab4389613d021955014f44f7",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-orange-groves-on-southern-slopes",
-          "title": "Orange groves on southern slopes",
-          "alt": "Orange groves on southern slopes — oil landscape for The Ring Between Lives",
-          "source": "stories/the-ring-between-lives/art/landscapes/03-orange-groves-on-southern-slopes.png",
-          "sourceSha256": "4070bf5bbe64c2cdf60c90daf5e9320e714d9fb0afc23805b30e1299783a6e6b",
-          "full": {
-            "path": "landscapes/the-ring-between-lives/03-orange-groves-on-southern-slopes.webp",
-            "sha256": "2d986fe41fc86ce9017fd36dbeb1fb3e3b76cc58b1897fb99390874082b80559",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ring-between-lives/03-orange-groves-on-southern-slopes-thumb.webp",
-            "sha256": "1bc13e8a59428330d5f0707d865995e7ff585dd0ef71a7e529f757825bc53f34",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-winter-comet-above-the-castle",
-          "title": "Winter comet above the castle",
-          "alt": "Winter comet above the castle — oil landscape for The Ring Between Lives",
-          "source": "stories/the-ring-between-lives/art/landscapes/04-winter-comet-above-the-castle.png",
-          "sourceSha256": "c1d44838e04c4bda7c72a5189416be208b220377257f428b36cd5b79a481e370",
-          "full": {
-            "path": "landscapes/the-ring-between-lives/04-winter-comet-above-the-castle.webp",
-            "sha256": "f22a68291c02a55b4f760feaea6679a4e5d6c0f39b5c0846650d7acdde09cb77",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ring-between-lives/04-winter-comet-above-the-castle-thumb.webp",
-            "sha256": "05347ad385354d121e08ab7aa6af453d47c7badd4a4e742017adb8da62f3f5f4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-at-the-east-gallery",
-          "title": "Dawn at the east gallery",
-          "alt": "Dawn at the east gallery — oil landscape for The Ring Between Lives",
-          "source": "stories/the-ring-between-lives/art/landscapes/05-dawn-at-the-east-gallery.png",
-          "sourceSha256": "e798babcf312c6f9e761b34275615a1dbe5e2ebf28f136cc5c12a91fdc1f5fbf",
-          "full": {
-            "path": "landscapes/the-ring-between-lives/05-dawn-at-the-east-gallery.webp",
-            "sha256": "8eb6d589238d64092c98de030f29698d2ab5988f15bcc5de8d73f1dbf3e1c394",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ring-between-lives/05-dawn-at-the-east-gallery-thumb.webp",
-            "sha256": "5db377f49c2493bab1cdedb8e7b96d5c62c8e67cf0a00d17472d6b2690641330",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14121,6 +14045,26 @@
       "source": "stories/the-red-dot/art/landscapes/05-road-beyond-the-yard.png",
       "sourceSha256": "223cd867624c99a255db52c64d75742ffda691e52e8dd682116ec981eb234f07",
       "reason": "Repeats the service-road escape already captured through the open gate in image 03."
+    },
+    {
+      "source": "stories/the-ring-between-lives/art/landscapes/02-the-queens-gardens.png",
+      "sourceSha256": "821a610786de9a9a085bfa7ac8cf57e6f8b315d07cb5a63b5168c2bafe8cf7e3",
+      "reason": "The queen's gardens are mentioned in their letters and past attempts to choose a proposal setting, not visited in this story."
+    },
+    {
+      "source": "stories/the-ring-between-lives/art/landscapes/03-orange-groves-on-southern-slopes.png",
+      "sourceSha256": "4070bf5bbe64c2cdf60c90daf5e9320e714d9fb0afc23805b30e1299783a6e6b",
+      "reason": "Turns the orange-peel discussion into an unvisited orchard landscape."
+    },
+    {
+      "source": "stories/the-ring-between-lives/art/landscapes/04-winter-comet-above-the-castle.png",
+      "sourceSha256": "c1d44838e04c4bda7c72a5189416be208b220377257f428b36cd5b79a481e370",
+      "reason": "Expands one remembered winter-comet detail into a separate exterior castle scene."
+    },
+    {
+      "source": "stories/the-ring-between-lives/art/landscapes/05-dawn-at-the-east-gallery.png",
+      "sourceSha256": "e798babcf312c6f9e761b34275615a1dbe5e2ebf28f136cc5c12a91fdc1f5fbf",
+      "reason": "Moves the wedding from inside the east gallery to a garden exterior overlooking the castle."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
