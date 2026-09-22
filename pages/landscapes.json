@@ -2748,6 +2748,32 @@
           }
         },
         {
+          "id": "04-the-road-ends-in-air",
+          "title": "The road ends in air",
+          "alt": "The road ends in air — oil landscape for Mother of Monsters",
+          "source": "pages/landscape-replacements/mother-of-monsters/04-the-road-ends-in-air.png",
+          "sourceSha256": "4f6628811d1451dbcffac36993ea6583fb022916264ef217c8b92ef2d771f31c",
+          "full": {
+            "path": "landscapes/mother-of-monsters/04-the-road-ends-in-air-4f6628811d1451db.webp",
+            "sha256": "045f0a3942e4886b17d213403b31b03c1cedb920d66ed7dac36dacdbaee18cbd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/mother-of-monsters/04-the-road-ends-in-air-4f6628811d1451db-thumb.webp",
+            "sha256": "11a079e8579298dc207f3c31f7f977e88fbf86ea64d17c8baa8db53da7bbf587",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
+            "originalSha256": "625c5a6ffccae27d4b6d2488db2e7c846465d72d6ee6eb3521586ceb45511721",
+            "correction": "Replaces the broken sanctuary of the opening image with a large intact multi-storey castle across a different valley; the collapse view breaks location continuity.",
+            "prompt": "Correct the first reference, The Road Ends in Air, for Mother of Monsters. Preserve its thick impasto oil style and dramatic broken-road subject, but it invents a grand intact castle and a different broad valley. Use the SECOND reference as the exact sanctuary/ravine geography anchor and the THIRD as the immediately preceding cracked-switchback state. Depict the aftermath of the source's second blast: the upper switchback's OUTER CURVE has broken into THREE vast slabs and fallen into the steep narrow ravine. View from the lower host approach toward the now MISSING BEND: paving terminates at a jagged unsupported edge, a clear wide air gap separates it from the higher sanctuary-side road. Three huge fallen slab fragments and a thinning plume of pale stone dust descend below the break; no remaining footbridge or walkable ledge crosses the missing curve. Keep the old low broken sanctuary walls at upper right, breached smoking gate, sparse dark trees behind, narrow gray ravine on the left and thin watercourse far below, matching references two and three. No new castle, palace, pristine tower complex or wide forested valley. Early cold dawn light with slight warm horizon, not bright midday. Focus on geography and physical aftermath, no people needed, no text or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-the-separate-ways",
           "title": "The separate ways",
           "alt": "The separate ways — oil landscape for Mother of Monsters",
