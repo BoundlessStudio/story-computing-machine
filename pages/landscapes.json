@@ -6453,44 +6453,6 @@
           }
         },
         {
-          "id": "02-the-blackened-hills",
-          "title": "The blackened hills",
-          "alt": "The blackened hills — oil landscape for The Shape of Mercy",
-          "source": "stories/the-shape-of-mercy/art/landscapes/02-the-blackened-hills.png",
-          "sourceSha256": "1470883a7a9954e419dcc7573857f90d68c2bef5f76ef0798e315e743d3fc727",
-          "full": {
-            "path": "landscapes/the-shape-of-mercy/02-the-blackened-hills.webp",
-            "sha256": "a52c9ee72243b3062cb6584032ff12210acbb2887b4b5cb64281269356f31228",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-shape-of-mercy/02-the-blackened-hills-thumb.webp",
-            "sha256": "6808cbc8ee70fbf01030b436d7bbf949be4161a4e3034dbf701cf016e4f14296",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-frozen-ocean-reach",
-          "title": "The frozen ocean reach",
-          "alt": "The frozen ocean reach — oil landscape for The Shape of Mercy",
-          "source": "stories/the-shape-of-mercy/art/landscapes/03-the-frozen-ocean-reach.png",
-          "sourceSha256": "385c58c83934a950775fbb5d44dae1259c390aa75762bb5f8d95ffbfcaede3f1",
-          "full": {
-            "path": "landscapes/the-shape-of-mercy/03-the-frozen-ocean-reach.webp",
-            "sha256": "4503841a4ac4a803cb6153c1d0e889d6bac29fa3aa08f30c4c27dd4b20961b79",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-shape-of-mercy/03-the-frozen-ocean-reach-thumb.webp",
-            "sha256": "89725ad6a57f9b5c4a095f9bc6338af64e9937284cb295ee90ebb85a9524b8b9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-burned-crescent",
           "title": "The burned crescent",
           "alt": "The burned crescent — oil landscape for The Shape of Mercy",
@@ -6505,25 +6467,6 @@
           "thumbnail": {
             "path": "landscapes/the-shape-of-mercy/04-the-burned-crescent-thumb.webp",
             "sha256": "c1274bec9b31c4fa5da97cbb2f8a94e92bddf0f0182483c12cc75d36332e5cc4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-meltwater-through-the-orchard",
-          "title": "Meltwater through the orchard",
-          "alt": "Meltwater through the orchard — oil landscape for The Shape of Mercy",
-          "source": "stories/the-shape-of-mercy/art/landscapes/05-meltwater-through-the-orchard.png",
-          "sourceSha256": "6bbb0b0d3ee07b777943e7470a3598ffcd1d1d4c683385f880f630e4d2a33489",
-          "full": {
-            "path": "landscapes/the-shape-of-mercy/05-meltwater-through-the-orchard.webp",
-            "sha256": "aa524a852501f9d8a2851abc999747ab44497c523f9519daa732fdef461a15c6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-shape-of-mercy/05-meltwater-through-the-orchard-thumb.webp",
-            "sha256": "649bea18eddbb35ed56f065e4bbb7f5624f617517264402286621e945536f306",
             "width": 480,
             "height": 320
           }
@@ -13810,6 +13753,21 @@
       "source": "stories/the-shadow-that-nested/art/landscapes/05-light-returns-to-the-reservoirs.png",
       "sourceSha256": "4bfb193c2874bca827e7463f83bcb40cac0f14623d030d179e98134d887d9888",
       "reason": "Repeats the ground reservoir panorama already established by image 01; the actual changed structure producing returning light is better shown in image 04."
+    },
+    {
+      "source": "stories/the-shape-of-mercy/art/landscapes/02-the-blackened-hills.png",
+      "sourceSha256": "1470883a7a9954e419dcc7573857f90d68c2bef5f76ef0798e315e743d3fc727",
+      "reason": "The black hills belong to one introductory sentence about Evelyn's earlier wildfire intervention, not this story's setting."
+    },
+    {
+      "source": "stories/the-shape-of-mercy/art/landscapes/03-the-frozen-ocean-reach.png",
+      "sourceSha256": "385c58c83934a950775fbb5d44dae1259c390aa75762bb5f8d95ffbfcaede3f1",
+      "reason": "The frozen ocean is a past feat mentioned in the opening, not visited during the Hall confrontation."
+    },
+    {
+      "source": "stories/the-shape-of-mercy/art/landscapes/05-meltwater-through-the-orchard.png",
+      "sourceSha256": "6bbb0b0d3ee07b777943e7470a3598ffcd1d1d4c683385f880f630e4d2a33489",
+      "reason": "Moves the melted ice to an elevated cliff-like barrier above the orchard, whereas Marcus freezes the ornamental pond and courtyard beside the Hall. Image 04 better preserves the actual pond/firebreak geography."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
