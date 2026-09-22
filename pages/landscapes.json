@@ -5062,82 +5062,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-exchange-rooflines",
-          "title": "The exchange rooflines",
-          "alt": "The exchange rooflines — oil landscape for The Mercy Circuit",
-          "source": "stories/the-mercy-circuit/art/landscapes/02-the-exchange-rooflines.png",
-          "sourceSha256": "df6048c765f9910e69b6a587ff99942d9eb44f465c7d2164889bf975566b9033",
-          "full": {
-            "path": "landscapes/the-mercy-circuit/02-the-exchange-rooflines.webp",
-            "sha256": "fc7cc54653e6c8da6df7493609fb38a10277077721de83497c663e11ce3bb743",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-mercy-circuit/02-the-exchange-rooflines-thumb.webp",
-            "sha256": "9833555cd6681b27bc666c6b8832ecaae2c60784b70333380a38ce62ddab003a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-twelfth-dock-salvage-yard",
-          "title": "Twelfth dock salvage yard",
-          "alt": "Twelfth dock salvage yard — oil landscape for The Mercy Circuit",
-          "source": "stories/the-mercy-circuit/art/landscapes/03-twelfth-dock-salvage-yard.png",
-          "sourceSha256": "2a428a3c4221d4edb8b94d7164d6b95f55acbdb3c768d1c30f37cfdbe101958d",
-          "full": {
-            "path": "landscapes/the-mercy-circuit/03-twelfth-dock-salvage-yard.webp",
-            "sha256": "1916d388d883814636a089789a07a3602d70b3ac3ed0ca98ed2863203a35c318",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-mercy-circuit/03-twelfth-dock-salvage-yard-thumb.webp",
-            "sha256": "0d61f8c98f6b5c34b9216a9589f9bea6c0772bfd208bd24dbb8fe3f6bbe2bb43",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-lowered-market-gate",
-          "title": "The lowered market gate",
-          "alt": "The lowered market gate — oil landscape for The Mercy Circuit",
-          "source": "stories/the-mercy-circuit/art/landscapes/04-the-lowered-market-gate.png",
-          "sourceSha256": "0b5ab439a7907f2331cf6d2e7235333eb712f4c3d48daa2154f58a5591751a36",
-          "full": {
-            "path": "landscapes/the-mercy-circuit/04-the-lowered-market-gate.webp",
-            "sha256": "dfc77343d31002fb28b680037252f41ce8e85026bdc3758852360ec9eca39a96",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-mercy-circuit/04-the-lowered-market-gate-thumb.webp",
-            "sha256": "a026944e744c5b1ee323122f189946211b0d7ea28d6f1a6bc7841731d6a17544",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-over-the-docks",
-          "title": "Dawn over the docks",
-          "alt": "Dawn over the docks — oil landscape for The Mercy Circuit",
-          "source": "stories/the-mercy-circuit/art/landscapes/05-dawn-over-the-docks.png",
-          "sourceSha256": "5d819cbfe34610fcefd131d81c33ae784fda44533306ed32976bef8a6b564933",
-          "full": {
-            "path": "landscapes/the-mercy-circuit/05-dawn-over-the-docks.webp",
-            "sha256": "6bb059edb278a9fad366661a6f014976d84987e49a2897adf6197eb899a8fe3f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-mercy-circuit/05-dawn-over-the-docks-thumb.webp",
-            "sha256": "8f0159b2303cd2f6df9ec82a863c8af94c20a0f3f93afa20571191f6d18a0621",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14723,6 +14647,26 @@
       "source": "stories/the-lions-last-constellation/art/landscapes/05-last-water-at-daybreak.png",
       "sourceSha256": "6ddc72f9b801dfe9aee02fcb6f5fc84bf1400fe18632d19ac13b91f13163e119",
       "reason": "Adds an unestablished daybreak scene and a substantial cascading canal after the story ends with the injured pair leaving the cave at night; it also repeats the orchard/town setting."
+    },
+    {
+      "source": "stories/the-mercy-circuit/art/landscapes/02-the-exchange-rooflines.png",
+      "sourceSha256": "df6048c765f9910e69b6a587ff99942d9eb44f465c7d2164889bf975566b9033",
+      "reason": "Repeats the Exchange market from a rooftop viewpoint without a distinct scene."
+    },
+    {
+      "source": "stories/the-mercy-circuit/art/landscapes/03-twelfth-dock-salvage-yard.png",
+      "sourceSha256": "2a428a3c4221d4edb8b94d7164d6b95f55acbdb3c768d1c30f37cfdbe101958d",
+      "reason": "Twelfth Dock is a proposed next-day job, not a place visited in this repair story."
+    },
+    {
+      "source": "stories/the-mercy-circuit/art/landscapes/04-the-lowered-market-gate.png",
+      "sourceSha256": "0b5ab439a7907f2331cf6d2e7235333eb712f4c3d48daa2154f58a5591751a36",
+      "reason": "Adds another distant view of the same market closure; image 01 already establishes the gatefall setting."
+    },
+    {
+      "source": "stories/the-mercy-circuit/art/landscapes/05-dawn-over-the-docks.png",
+      "sourceSha256": "5d819cbfe34610fcefd131d81c33ae784fda44533306ed32976bef8a6b564933",
+      "reason": "Depicts the future dawn dock job, which has not occurred when the story ends at the Exchange."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
