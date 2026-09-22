@@ -6110,6 +6110,32 @@
           }
         },
         {
+          "id": "03-the-three-exit-ring-road",
+          "title": "The three exit ring road",
+          "alt": "The three exit ring road — oil landscape for The Last Bus to Briar Hill",
+          "source": "pages/landscape-replacements/the-last-bus-to-briar-hill/03-the-three-exit-ring-road.png",
+          "sourceSha256": "2d1140f11cb29836440ee8c54a0da22f690eb2069b2c6c7c8b9210d563f13cd3",
+          "full": {
+            "path": "landscapes/the-last-bus-to-briar-hill/03-the-three-exit-ring-road-2d1140f11cb29836.webp",
+            "sha256": "40a4e258fbb408bc5621a216949564a5589e3ec9358a26794eb9e11695538456",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-last-bus-to-briar-hill/03-the-three-exit-ring-road-2d1140f11cb29836-thumb.webp",
+            "sha256": "bb8b12d5689c267808da346d5e67b673e429397a7991d29cfb003f66a312ba8b",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-last-bus-to-briar-hill/art/landscapes/03-the-three-exit-ring-road.png",
+            "originalSha256": "58f68c19f64a35ba8995100d5a6806c139703c5d21e7b62311a79f88175d8355",
+            "correction": "Shows the false-exit ring road in daylight, although this test occurs during the night crossing before the sky begins to brighten at Briar Hill.",
+            "prompt": "Correct this Three-Exit Ring Road oil landscape from The Last Bus to Briar Hill. Preserve the roundabout geometry, exactly THREE identical exit roads, dense thorn hedges, wet asphalt and thick impasto brushwork. It is the MIDDLE OF THE NIGHT IN STEADY RAIN, well before sunrise, not overcast daylight. Make the sky dark navy-black, the distant city just scattered tiny lights, and the tall thorn hedges blue-black. Illuminate the wet foreground and the three matching signs with diffuse white bus headlights from BEHIND THE VIEWER; restrained wet road highlights lead to the exits without lighting the sky. Each of the three exits has one identical front-facing destination sign reading exactly 'BRIAR HILL' in simple modest white uppercase letters, and a small municipal stop placard beneath it. Exactly three signs, no extra exit. Rain falls at the same diagonal angle over each route, reinforcing the repeated uncanny alternatives. No sun, orange horizon, daytime clouds, giant glowing magic roads, visible bus or people. Retain traditional tactile oil-paint texture throughout, no caption or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-root-bridge-at-sunrise",
           "title": "Root bridge at sunrise",
           "alt": "Root bridge at sunrise — oil landscape for The Last Bus to Briar Hill",
