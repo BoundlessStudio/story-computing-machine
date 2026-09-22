@@ -2836,6 +2836,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-the-way-home",
+          "title": "The way home",
+          "alt": "The way home — oil landscape for Nine Lives of Excuses",
+          "source": "pages/landscape-replacements/the-cat-who-had-enough/05-the-way-home.png",
+          "sourceSha256": "9091f89829d623d510e036e8705c55adee9ade93ddf175b58fe8fd8fb9709162",
+          "full": {
+            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-9091f89829d623d5.webp",
+            "sha256": "ee5ede73d529e4101f0dcd75960c3be092609feb2976edef4ef99f00050b8d18",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-9091f89829d623d5-thumb.webp",
+            "sha256": "76d1fba94e4e09d263489e8daaa240f5c7a96f2ad83d5a985835bbdae1ca9a48",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
+            "originalSha256": "eaaae4bb828395a4c3550fdc2b867d30ed8fa028db52f5eedd8f8be33d1ae40c",
+            "correction": "Replaces the urban route with a rural hillside footpath and unsupported landscape.",
+            "prompt": "Correct this image for Nine Lives of Excuses (the-cat-who-had-enough). The story's journey home is through an ordinary modern CITY neighborhood, with street crossings, commercial shopfronts and delivery trucks along curbs. The old image incorrectly invents a rural hillside footpath and scattered cottages. Use that reference for thick tactile impasto oil strokes, leafy accents and cool/warm light only. Recompose a street-level urban walk home: a paved sidewalk leads past modest brick shopfronts into attached residential buildings, a marked pedestrian crossing spans a narrow asphalt street, delivery trucks stand at the curb in the middle distance, upper-floor home windows and a few street trees give a lived-in neighborhood. Chilly bright Tuesday daylight with soft violet shadows, not a golden rural sunset. The viewpoint should follow the sidewalk toward the homeward street corner, no rugged terrain, unpaved trail, mountain vista, detached country cottages or large gardens. Focus on environment without identifiable characters. A coherent traditional oil streetscape, broad physical brushwork, wide image, no readable words or logos, no border.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
