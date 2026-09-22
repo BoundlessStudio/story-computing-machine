@@ -5851,25 +5851,6 @@
       "reader": "stories/the-other-twin.html",
       "images": [
         {
-          "id": "01-october-pavement",
-          "title": "October pavement",
-          "alt": "October pavement — oil landscape for The Other Twin",
-          "source": "stories/the-other-twin/art/landscapes/01-october-pavement.png",
-          "sourceSha256": "3768fb344faf67ea7076b47b4ca3ebc533a1e3109fbff61bb604215265121c70",
-          "full": {
-            "path": "landscapes/the-other-twin/01-october-pavement.webp",
-            "sha256": "11dfb377e1b35ff2845074a0533dd9c18581332dec42dd8d3cd2970af00b3f20",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-other-twin/01-october-pavement-thumb.webp",
-            "sha256": "ba92d12a7b447c5c02a2fd070d8116a2999a93305a7b8cdf1b59b68cf5f11e5d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-early-bus-shelter",
           "title": "The early bus shelter",
           "alt": "The early bus shelter — oil landscape for The Other Twin",
@@ -5884,63 +5865,6 @@
           "thumbnail": {
             "path": "landscapes/the-other-twin/02-the-early-bus-shelter-thumb.webp",
             "sha256": "ece3bca8b9b693dfb31609300f50da7af40e03fc2d94301be58fe7f4a9372324",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-school-in-winter-evening",
-          "title": "School in winter evening",
-          "alt": "School in winter evening — oil landscape for The Other Twin",
-          "source": "stories/the-other-twin/art/landscapes/03-school-in-winter-evening.png",
-          "sourceSha256": "d5474eb20660df9b6a88e04f7f8f97dceb2faf2c1c6c05d9a1400048f80b7ff1",
-          "full": {
-            "path": "landscapes/the-other-twin/03-school-in-winter-evening.webp",
-            "sha256": "bed2a20d41de4d1b39874e5a59293fc7acd040706ae7f2dad75a3ec38d01d469",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-other-twin/03-school-in-winter-evening-thumb.webp",
-            "sha256": "96d7aff51c1f9dd162b4a235b74a6374b263417d1caeaa391162e213e6f9541c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-clinic-approach-in-rain",
-          "title": "Clinic approach in rain",
-          "alt": "Clinic approach in rain — oil landscape for The Other Twin",
-          "source": "stories/the-other-twin/art/landscapes/04-clinic-approach-in-rain.png",
-          "sourceSha256": "431758d3376ed02304c7c2f1ce897cd1b9aa0871e94a745d5634e54d846b1d63",
-          "full": {
-            "path": "landscapes/the-other-twin/04-clinic-approach-in-rain.webp",
-            "sha256": "7e66bcab837f70938cd4946a12a833cc454df0c9fb323537927a4d26ac12ed06",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-other-twin/04-clinic-approach-in-rain-thumb.webp",
-            "sha256": "fa99abcdd043947a193582861706a14ea3034bded95a6bcaac59703426649c63",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-february-road-to-school",
-          "title": "February road to school",
-          "alt": "February road to school — oil landscape for The Other Twin",
-          "source": "stories/the-other-twin/art/landscapes/05-february-road-to-school.png",
-          "sourceSha256": "067d4a93c2dad52caf1edbf012176a9cead75ca55e7e83fd484a3b73572a4166",
-          "full": {
-            "path": "landscapes/the-other-twin/05-february-road-to-school.webp",
-            "sha256": "f70da0078f663538a328035667dfba912d9369361da7e429aa3a6b785a2cb100",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-other-twin/05-february-road-to-school-thumb.webp",
-            "sha256": "f1466ee0082ffbb0bf53e2609348125f1e80ed6e881f4738e277e69620a2b848",
             "width": 480,
             "height": 320
           }
@@ -14338,6 +14262,26 @@
       "source": "stories/the-one-who-gets-tired/art/landscapes/05-before-the-bakery-opens.png",
       "sourceSha256": "91cbac5a7c9b47421ba20a50ff5f6894237f8d139609fe9ac978a064597e0abc",
       "reason": "Invents a predawn bakery approach before the story opens with the narrator already home from work."
+    },
+    {
+      "source": "stories/the-other-twin/art/landscapes/01-october-pavement.png",
+      "sourceSha256": "3768fb344faf67ea7076b47b4ca3ebc533a1e3109fbff61bb604215265121c70",
+      "reason": "Repeats the wet autumn walk already represented by the more specific bus-shelter scene in image 02."
+    },
+    {
+      "source": "stories/the-other-twin/art/landscapes/03-school-in-winter-evening.png",
+      "sourceSha256": "d5474eb20660df9b6a88e04f7f8f97dceb2faf2c1c6c05d9a1400048f80b7ff1",
+      "reason": "The twins explicitly miss the winter concert; this school-at-evening landscape depicts a destination they never reach."
+    },
+    {
+      "source": "stories/the-other-twin/art/landscapes/04-clinic-approach-in-rain.png",
+      "sourceSha256": "431758d3376ed02304c7c2f1ce897cd1b9aa0871e94a745d5634e54d846b1d63",
+      "reason": "Moves the indoor clinic consultations out to an invented exterior approach."
+    },
+    {
+      "source": "stories/the-other-twin/art/landscapes/05-february-road-to-school.png",
+      "sourceSha256": "067d4a93c2dad52caf1edbf012176a9cead75ca55e7e83fd484a3b73572a4166",
+      "reason": "The February ending occurs at the bathroom sink and ends as they leave; this snowy panoramic school route is not an enacted view and repeats the earlier walk."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
