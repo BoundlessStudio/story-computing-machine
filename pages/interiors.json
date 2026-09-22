@@ -8322,6 +8322,70 @@
       ]
     },
     {
+      "slug": "the-unopened-ring",
+      "title": "The Unopened Ring",
+      "reader": "stories/the-unopened-ring.html",
+      "images": [
+        {
+          "id": "01-the-queens-reception-fireplace",
+          "title": "The queens reception fireplace",
+          "alt": "The queens reception fireplace — oil interior study for The Unopened Ring",
+          "source": "stories/the-unopened-ring/art/interiors/01-the-queens-reception-fireplace.png",
+          "sourceSha256": "5cbce5a2099b768930df056a4719540def2ada4bd4ea491b01ce754e8a310ae5",
+          "full": {
+            "path": "interiors/the-unopened-ring/01-the-queens-reception-fireplace-5cbce5a2099b7689.webp",
+            "sha256": "99bee6f07b3cd1158120ea5415103e12d382e4e766d2d76ee5fbd39af1cd1e6c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unopened-ring/01-the-queens-reception-fireplace-5cbce5a2099b7689-thumb.webp",
+            "sha256": "cc10ed2f34e8eaced435b9ec74312f73f84460d2f9c3941e8950cf3fddeca1ad",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-dinner-between-black-columns",
+          "title": "Dinner between black columns",
+          "alt": "Dinner between black columns — oil interior study for The Unopened Ring",
+          "source": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+          "sourceSha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d",
+          "full": {
+            "path": "interiors/the-unopened-ring/02-dinner-between-black-columns-ea1f7faaa936cbaf.webp",
+            "sha256": "9bf70ed854b55c46aa8f250b1fa76f534642517d7bf874e14ff105bba67fef4c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unopened-ring/02-dinner-between-black-columns-ea1f7faaa936cbaf-thumb.webp",
+            "sha256": "bf98f64c1a800078eaa9eb28cfd78f1cab9e56f52e052131a6c3118b0d5bdc58",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-rings-at-the-late-table",
+          "title": "The rings at the late table",
+          "alt": "The rings at the late table — oil interior study for The Unopened Ring",
+          "source": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
+          "sourceSha256": "a9e56b7fca6bc05379fb7d3f682e30a084fa934761cddd483be090c278b54060",
+          "full": {
+            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-a9e56b7fca6bc053.webp",
+            "sha256": "55e7c86d8f34090298a899589775ccd38274cdc0aebed7e3c17b6ebb5f1f6d82",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-a9e56b7fca6bc053-thumb.webp",
+            "sha256": "a91384ae0428260797a3e613c89fe68add7e4635e56518451d3491e457bcab3f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-walls-are-thick-enough",
       "title": "The Walls Are Thick Enough",
       "reader": "stories/the-walls-are-thick-enough.html",
@@ -8507,6 +8571,70 @@
           "thumbnail": {
             "path": "interiors/the-healers-measure/03-iron-bars-in-the-equipment-room-946b54a545d799c2-thumb.webp",
             "sha256": "e0cf08c0ab2d4266dae9ce5bf4d8005481eb99a160c20ac135f9edc598d85ce2",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-wrong-side-of-the-part",
+      "title": "The Wrong Side of the Part",
+      "reader": "stories/the-wrong-side-of-the-part.html",
+      "images": [
+        {
+          "id": "01-the-closing-wig-shop",
+          "title": "The closing wig shop",
+          "alt": "The closing wig shop — oil interior study for The Wrong Side of the Part",
+          "source": "stories/the-wrong-side-of-the-part/art/interiors/01-the-closing-wig-shop.png",
+          "sourceSha256": "dcdb466c27eb9430faa9fe1d0e9adfd348d79045103103b2e5245c32876943ee",
+          "full": {
+            "path": "interiors/the-wrong-side-of-the-part/01-the-closing-wig-shop-dcdb466c27eb9430.webp",
+            "sha256": "4f886b96ea8d9e76f3c3b6f77e8d2452d9a89661364610dda0d727fd2e39d5b4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wrong-side-of-the-part/01-the-closing-wig-shop-dcdb466c27eb9430-thumb.webp",
+            "sha256": "5a4800f1edafa96eda3bc7f0f79813ac20710cd49f48570dc7e7bc2541650b39",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-fitting-platform",
+          "title": "The fitting platform",
+          "alt": "The fitting platform — oil interior study for The Wrong Side of the Part",
+          "source": "stories/the-wrong-side-of-the-part/art/interiors/02-the-fitting-platform.png",
+          "sourceSha256": "bacf5bda81e5e85495a9dc9ad0927f2e5c24e0e88ada1e019604f5512a14f646",
+          "full": {
+            "path": "interiors/the-wrong-side-of-the-part/02-the-fitting-platform-bacf5bda81e5e854.webp",
+            "sha256": "c4dcd35d5d6c1bd52bf413d3a73674ad6f41075ed6b4dba6ecbf558d9b42f17f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wrong-side-of-the-part/02-the-fitting-platform-bacf5bda81e5e854-thumb.webp",
+            "sha256": "96cfa2a4b0dc182ecfc7752b3b41a53b6297fbc51b43498556b1d3c3194a2e26",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-wigmakers-workbench",
+          "title": "The wigmakers workbench",
+          "alt": "The wigmakers workbench — oil interior study for The Wrong Side of the Part",
+          "source": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
+          "sourceSha256": "a2583a75c70acb805dadfd5726369207afe58a8ebeae943b9c4613fa8c670285",
+          "full": {
+            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-a2583a75c70acb80.webp",
+            "sha256": "a1639137e71b4ec6c0417e59ae2b32e2aef85c0aac3835a9235efe2bc302ab1d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-a2583a75c70acb80-thumb.webp",
+            "sha256": "4c473c6f9f75cbc8f5924f26eeb5aab6bcd42eb5efecef837c70d94e92c9909e",
             "width": 480,
             "height": 320
           }
