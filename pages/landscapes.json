@@ -6236,6 +6236,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-violet-shadow-on-the-dunes",
+          "title": "Violet shadow on the dunes",
+          "alt": "Violet shadow on the dunes — oil landscape for The Last Color Through",
+          "source": "pages/landscape-replacements/the-color-that-comes-home/05-violet-shadow-on-the-dunes.png",
+          "sourceSha256": "89fa8428ee25e4319efd4b66dfcd0239cd4f756d6481830f79799586b35cdba7",
+          "full": {
+            "path": "landscapes/the-color-that-comes-home/05-violet-shadow-on-the-dunes-89fa8428ee25e431.webp",
+            "sha256": "80c66365945f390f489d5b5b31eb46f4cbe1a5b2293b3f161dc28553f5538bd5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-color-that-comes-home/05-violet-shadow-on-the-dunes-89fa8428ee25e431-thumb.webp",
+            "sha256": "a3ed289fab7f0813ce5e544e4652512cbd6d1195f38b02fcf5f50943428128de",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
+            "originalSha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
+            "correction": "The violet world is defined by hollow curled mineral shells like trumpet mouths, including house-sized living spirals. This painting replaces them with ordinary jagged rock outcrops and dunes; the droplet stems alone do not preserve the setting.",
+            "prompt": "Correct this Violet Shadow on the Dunes landscape for The Last Color Through. Keep its pale sand dunes, violet shadows, lilac sky, delicate pale stems carrying heavy glistening moisture droplets, and tactile thick impasto oil technique. Essential source correction: the slope is full of HOLLOW CURLED MINERAL SHELLS with mouths like TRUMPETS, not ordinary jagged rocks. Replace the pointed rock ridges with visibly spiral-curled stone/mineral shells, from fist-sized examples in the foreground to enormous house-sized hollow forms across the dunes. Place two large flared trumpet mouths prominently in the foreground/middle ground, with thin curved cream-colored mineral lips, deep VIOLET interiors and continuous ridged spiral bodies curling away into the sand. Their hollow openings must read unmistakably, not solid boulders, mountain peaks, simple tubes or metal horns. Farther along one ridge, several living mineral spirals have begun to open MANY small dark feet beneath their shells, leaving little parallel tracks; keep this subtle but physically legible. Retain the tall pale droplet-bearing stems in selected gaps, and open spaces of softly undulating sand between shells. Alien yet naturally coherent, wide environmental composition, no characters, labels, text or border. Thick traditional oil paint, not plastic 3D shells.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
