@@ -694,25 +694,6 @@
       "reader": "stories/ultimate-evil-dog.html",
       "images": [
         {
-          "id": "01-tri-city-morning",
-          "title": "Tri city morning",
-          "alt": "Tri city morning — oil landscape for A Very Good Dog",
-          "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
-          "sourceSha256": "4e0b0ccf921dfbb02a47fb2f91a59e17554fc01c99043f2de833ef48561b6875",
-          "full": {
-            "path": "landscapes/ultimate-evil-dog/01-tri-city-morning.webp",
-            "sha256": "129fc530203c04f7d403863c61c3c43260d1422bb9a91ded3a91b8c841ce524a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/ultimate-evil-dog/01-tri-city-morning-thumb.webp",
-            "sha256": "7466d985dba0ef218c4363570499f864b69c1904983dccf5997da864ac4dd0bf",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-service-garden",
           "title": "The service garden",
           "alt": "The service garden — oil landscape for A Very Good Dog",
@@ -746,44 +727,6 @@
           "thumbnail": {
             "path": "landscapes/ultimate-evil-dog/03-brightguards-balcony-view-thumb.webp",
             "sha256": "6cabe1daef3b8f2a9e87f6ddc8e6c45eed7d1a12ee2c7619f4f1190f50ac69c2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-three-cities-at-nine",
-          "title": "Three cities at nine",
-          "alt": "Three cities at nine — oil landscape for A Very Good Dog",
-          "source": "stories/ultimate-evil-dog/art/landscapes/04-three-cities-at-nine.png",
-          "sourceSha256": "9bd2705c40c8be2b9ce543bbaf79a9ab7b2d2b77b6eb74338f1b116e13b5f461",
-          "full": {
-            "path": "landscapes/ultimate-evil-dog/04-three-cities-at-nine.webp",
-            "sha256": "f57f3195021dbdc207db3df87173dcfa4d928b3443f70e2d454f808aea27f1c1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/ultimate-evil-dog/04-three-cities-at-nine-thumb.webp",
-            "sha256": "46238645071a0f998fafbce60229d9d04781b3a8b54f9fbc916e9b23e224d9fe",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-tower-next-morning",
-          "title": "The tower next morning",
-          "alt": "The tower next morning — oil landscape for A Very Good Dog",
-          "source": "stories/ultimate-evil-dog/art/landscapes/05-the-tower-next-morning.png",
-          "sourceSha256": "9fad518d3d2131bf1d1a5f36bcd53a513c36ea6c1dfd208747876571e0fa8790",
-          "full": {
-            "path": "landscapes/ultimate-evil-dog/05-the-tower-next-morning.webp",
-            "sha256": "a695052d736f16e96a5581a0de68a1a6c087c97a0b21ee900324639f900fe95a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/ultimate-evil-dog/05-the-tower-next-morning-thumb.webp",
-            "sha256": "dc69ba75b0f4726937e3e39cf561cad78349c42abf2380a17845781b9a2faebf",
             "width": 480,
             "height": 320
           }
@@ -18655,6 +18598,21 @@
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
       "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
       "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
+    },
+    {
+      "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
+      "sourceSha256": "4e0b0ccf921dfbb02a47fb2f91a59e17554fc01c99043f2de833ef48561b6875",
+      "reason": "A redundant broad Tri-City panorama after the retained balcony view; its rocky hillside vantage is not a separate scene."
+    },
+    {
+      "source": "stories/ultimate-evil-dog/art/landscapes/04-three-cities-at-nine.png",
+      "sourceSha256": "9bd2705c40c8be2b9ce543bbaf79a9ab7b2d2b77b6eb74338f1b116e13b5f461",
+      "reason": "The emergency is at nine in the morning, followed by nine-twenty household action. This moonlit night city substitutes nine at night and repeats the same skyline."
+    },
+    {
+      "source": "stories/ultimate-evil-dog/art/landscapes/05-the-tower-next-morning.png",
+      "sourceSha256": "9fad518d3d2131bf1d1a5f36bcd53a513c36ea6c1dfd208747876571e0fa8790",
+      "reason": "The next-morning scene returns to breakfast inside Brightguard's home, not an exterior visit to Maledict's tower. This is another redundant city/tower panorama."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
