@@ -2253,6 +2253,32 @@
           }
         },
         {
+          "id": "03-the-wall-goes-dark",
+          "title": "The wall goes dark",
+          "alt": "The wall goes dark — oil landscape for Friends of the Night",
+          "source": "pages/landscape-replacements/friends-of-the-night/03-the-wall-goes-dark.png",
+          "sourceSha256": "0a15cf9e8c3ecaa9cc447df66331a2cf8ef146d8e830cc16af2f76f02771adae",
+          "full": {
+            "path": "landscapes/friends-of-the-night/03-the-wall-goes-dark-0a15cf9e8c3ecaa9.webp",
+            "sha256": "2f50d458e5a0c31bfa38f0b2e21e65c263ed80905d7f73cd8bb981ad93839438",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/friends-of-the-night/03-the-wall-goes-dark-0a15cf9e8c3ecaa9-thumb.webp",
+            "sha256": "cc52f669867676b26a855d45c3f039be942e7d4a024623e9d5a9f94695d1d3e1",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+            "originalSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+            "correction": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town.",
+            "prompt": "Make a precise final correction to this Friends of the Night oil landscape. Preserve the entire composition, masonry fort wall, lowered beacon hoods, tiny crew covering the final far beacon, dark roof silhouettes, distant enemy bonfires across the fields and heavy impasto brushwork. REMOVE EVERY WARM LIT WINDOW in the houses INSIDE the fort on the left: the source explicitly says Tavik shuttered house lamps, and nearby roofs disappear into darkness when the beacons are hooded. All town windows must be shut by dark opaque shutters, all roofs and buildings dim blue-black without orange squares or interior light leaking out. The only visible warm lights in the picture are the tiny last beacon being hooded on the far wall and the distant enemy-camp fires outside the fort at the far right. Keep foreground and middle beacon hoods completely dark and the sky fully nocturnal. Change no other structures, framing, geography or painterly style. No text or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "04-road-west-at-dawn",
           "title": "Road west at dawn",
           "alt": "Road west at dawn — oil landscape for Friends of the Night",
