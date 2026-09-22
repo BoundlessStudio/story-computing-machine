@@ -7024,108 +7024,6 @@
       ]
     },
     {
-      "slug": "a-throne-neither-wanted",
-      "title": "The Throne Neither of Us Wanted",
-      "reader": "stories/a-throne-neither-wanted.html",
-      "images": [
-        {
-          "id": "01-western-survey-coast",
-          "title": "Western survey coast",
-          "alt": "Western survey coast — oil landscape for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/landscapes/01-western-survey-coast.png",
-          "sourceSha256": "6dcf5a9e0a518aa9485020b1a72e33ee78a7ab667619cd9a63aca9cee6ef98fd",
-          "full": {
-            "path": "landscapes/a-throne-neither-wanted/01-western-survey-coast.webp",
-            "sha256": "7d8320a5adb13c641c40b324ec0ca5eb44164698f60e1adb4714e8d01dbc1384",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-throne-neither-wanted/01-western-survey-coast-thumb.webp",
-            "sha256": "0d1fcfabe0ba2a8fd0d6380f3c2a69ada12f0527db5a4287809a237743fe7c6c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-reef-at-low-water",
-          "title": "Reef at low water",
-          "alt": "Reef at low water — oil landscape for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/landscapes/02-reef-at-low-water.png",
-          "sourceSha256": "d082740e6f87b51b6f9af64fea53d2d98513ec33cc62ec76389a0814641fc416",
-          "full": {
-            "path": "landscapes/a-throne-neither-wanted/02-reef-at-low-water.webp",
-            "sha256": "bf35f30f19afa2e1f1cb5e8454b3f6004f12150a6cfc69133f24558a32c07056",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-throne-neither-wanted/02-reef-at-low-water-thumb.webp",
-            "sha256": "06e3786fc4724c93bcb6e32cdf36f848269974ff654bd5ef19bd7e224c4ea642",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-eastern-cape",
-          "title": "Eastern cape",
-          "alt": "Eastern cape — oil landscape for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/landscapes/03-eastern-cape.png",
-          "sourceSha256": "b20ff3ac80dd40f1dda20f672a5840b40017491dba2adef37120881a593a5bad",
-          "full": {
-            "path": "landscapes/a-throne-neither-wanted/03-eastern-cape.webp",
-            "sha256": "fbd8b5263405fcf578a4a67e1d1ddf01d47e55f420a91bb7df9b9e9654712032",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-throne-neither-wanted/03-eastern-cape-thumb.webp",
-            "sha256": "850d9a5b11087632eb4b5e750ab887096ff6e4ddc681b2c4767833d9683b51e3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-palace-in-winter-light",
-          "title": "Palace in winter light",
-          "alt": "Palace in winter light — oil landscape for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/landscapes/04-palace-in-winter-light.png",
-          "sourceSha256": "8b7be2ec471bfe99a967a8a209966ebed66dfef0f871a5bb5c26f3fb235f3600",
-          "full": {
-            "path": "landscapes/a-throne-neither-wanted/04-palace-in-winter-light.webp",
-            "sha256": "7591d116246d2c77e3f7caedb1b434671a89c2e0eeb943b1f67dd4ff75b119a2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-throne-neither-wanted/04-palace-in-winter-light-thumb.webp",
-            "sha256": "a5ae566cad7d0519104a3aad4b0ad1214ba6c6abd9c0db22f40ad65ed34e9a52",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-midnight-beyond-the-palace",
-          "title": "Midnight beyond the palace",
-          "alt": "Midnight beyond the palace — oil landscape for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/landscapes/05-midnight-beyond-the-palace.png",
-          "sourceSha256": "d177e878446302631c7da1bd3fc085cfc23f4988fc62ed8272171905e3c19f95",
-          "full": {
-            "path": "landscapes/a-throne-neither-wanted/05-midnight-beyond-the-palace.webp",
-            "sha256": "a9ef28c67813ff3102af0e45994a875228bc0b401d964fd0fb6e481de3ac890d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-throne-neither-wanted/05-midnight-beyond-the-palace-thumb.webp",
-            "sha256": "01c653199c681f5a69afda3730b0837d13d59a9996649133d876a0b2321f7ae2",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "fifty-seven-minutes",
       "title": "The Tide Will Have Her Answer",
       "reader": "stories/fifty-seven-minutes.html",
@@ -11481,6 +11379,31 @@
       "source": "stories/a-seat-for-the-sun/art/landscapes/05-flattened-grass-at-afternoon.png",
       "sourceSha256": "7408b7cdcedb209ff545ae8d523c64a6e16df810cba5794ec47249bdcd289844",
       "reason": "Another view of the same tree and lawn, implying an empty after-party state. The source ends during the game with the children still there; no separate aftermath landscape is needed."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/landscapes/01-western-survey-coast.png",
+      "sourceSha256": "6dcf5a9e0a518aa9485020b1a72e33ee78a7ab667619cd9a63aca9cee6ef98fd",
+      "reason": "The western survey coast appears only on the sister's map and as a deferred spring commission; it is never visited."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/landscapes/02-reef-at-low-water.png",
+      "sourceSha256": "d082740e6f87b51b6f9af64fea53d2d98513ec33cc62ec76389a0814641fc416",
+      "reason": "The reef is a detail on a proposed survey route, not an actual coast scene."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/landscapes/03-eastern-cape.png",
+      "sourceSha256": "b20ff3ac80dd40f1dda20f672a5840b40017491dba2adef37120881a593a5bad",
+      "reason": "The cape belongs to the sister's unrealized survey ambitions, not a landscape encountered in the story."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/landscapes/04-palace-in-winter-light.png",
+      "sourceSha256": "8b7be2ec471bfe99a967a8a209966ebed66dfef0f871a5bb5c26f3fb235f3600",
+      "reason": "The winter palace story is entirely indoors; this distant exterior invents a landscape viewpoint."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/landscapes/05-midnight-beyond-the-palace.png",
+      "sourceSha256": "d177e878446302631c7da1bd3fc085cfc23f4988fc62ed8272171905e3c19f95",
+      "reason": "The final events remain in the throne chamber and medicine-clock room. No midnight garden scene occurs."
     },
     {
       "source": "stories/all-accounts-due/art/landscapes/02-black-fire-fortress.png",
