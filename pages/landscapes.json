@@ -1500,6 +1500,25 @@
       "reader": "stories/coiled-together.html",
       "images": [
         {
+          "id": "01-north-road-before-the-storm",
+          "title": "North road before the storm",
+          "alt": "North road before the storm — oil landscape for Coiled Together",
+          "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
+          "sourceSha256": "5290edda64954befbd32b51321dbb9dbcdbe1e1dc4734d5995daaea2dac34d7c",
+          "full": {
+            "path": "landscapes/coiled-together/01-north-road-before-the-storm.webp",
+            "sha256": "b051b658c53957cd7f9166ab3ebf2bae39b790fc74bcae1d3aaab064cf829801",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/coiled-together/01-north-road-before-the-storm-thumb.webp",
+            "sha256": "8aa4aeb1736c3f67687eee4f3ed1bac27accef69770d9965f6ca10a4d500a5c3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "02-black-water-under-stone",
           "title": "Black water under stone",
           "alt": "Black water under stone — oil landscape for Coiled Together",
@@ -10448,11 +10467,6 @@
       "source": "stories/clerics-infernal-ex/art/landscapes/05-the-ford-after-rain.png",
       "sourceSha256": "fba864a0587a750a37a60e9b07d77c9fa6d6bd854ca6f08551febb4ee2b5ddc7",
       "reason": "Repeats the offstage ford and invents a post-rain landscape scene."
-    },
-    {
-      "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
-      "sourceSha256": "5290edda64954befbd32b51321dbb9dbcdbe1e1dc4734d5995daaea2dac34d7c",
-      "reason": "The north-road approach is only a fragmentary memory after waking underground. This extra exterior establishes an excursion the narrated action does not show."
     },
     {
       "source": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
