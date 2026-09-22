@@ -6282,108 +6282,6 @@
       ]
     },
     {
-      "slug": "the-second-wearing",
-      "title": "The Second Wearing",
-      "reader": "stories/the-second-wearing.html",
-      "images": [
-        {
-          "id": "01-the-winter-fair",
-          "title": "The winter fair",
-          "alt": "The winter fair — oil landscape for The Second Wearing",
-          "source": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
-          "sourceSha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72",
-          "full": {
-            "path": "landscapes/the-second-wearing/01-the-winter-fair.webp",
-            "sha256": "9601318b18a18051ec7223fa586bc15791759bfb11ae3e4bd2c785056324760a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-second-wearing/01-the-winter-fair-thumb.webp",
-            "sha256": "803d7bead532f6cd8011707a9e19f3e70c701e0668aa96ec3631989f23ab41f6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-apartment-roofs-after-rain",
-          "title": "Apartment roofs after rain",
-          "alt": "Apartment roofs after rain — oil landscape for The Second Wearing",
-          "source": "stories/the-second-wearing/art/landscapes/02-apartment-roofs-after-rain.png",
-          "sourceSha256": "cce4123378c8ec044ce19dde3f2b60faaa2fecd3dfe6ae455fa8936d97e792b7",
-          "full": {
-            "path": "landscapes/the-second-wearing/02-apartment-roofs-after-rain.webp",
-            "sha256": "1f9d514ea167adf5c3026ae1894e7e0464fca8230de3d5b328834cec8a2098ba",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-second-wearing/02-apartment-roofs-after-rain-thumb.webp",
-            "sha256": "bde53c4ad45cf4e376fd50dc439c76876a4736e1a484a9472e1f67c676acda2b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-pavias-tomato-garden",
-          "title": "Pavias tomato garden",
-          "alt": "Pavias tomato garden — oil landscape for The Second Wearing",
-          "source": "stories/the-second-wearing/art/landscapes/03-pavias-tomato-garden.png",
-          "sourceSha256": "e35ea817dad03d12fd7b411f26cc89d58d65fb334944b67224510ee8d7fda766",
-          "full": {
-            "path": "landscapes/the-second-wearing/03-pavias-tomato-garden.webp",
-            "sha256": "1aae672eafa858bb061f43926fc983e393082361e2ed799bc1634e0659038b71",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-second-wearing/03-pavias-tomato-garden-thumb.webp",
-            "sha256": "dd6b4aa6f6a5fb10f4af90b87bce91e0ae7064de5abc74b77d46b826b6d25925",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-recital-evening-street",
-          "title": "Recital evening street",
-          "alt": "Recital evening street — oil landscape for The Second Wearing",
-          "source": "stories/the-second-wearing/art/landscapes/04-recital-evening-street.png",
-          "sourceSha256": "592fe31101239d9b469eb1bd3b37b00761bcdeb2293cf6d9d0575e5e1d11912e",
-          "full": {
-            "path": "landscapes/the-second-wearing/04-recital-evening-street.webp",
-            "sha256": "672b71e248e09b7ccde542197da6c0ade864eb4c92f155b478f015f16bdd8bf2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-second-wearing/04-recital-evening-street-thumb.webp",
-            "sha256": "09afc856f7efb9d86642ce03df1a2d0b841084889b15fad9e92ff762412b01c3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-open-window-neighborhood",
-          "title": "The open window neighborhood",
-          "alt": "The open window neighborhood — oil landscape for The Second Wearing",
-          "source": "stories/the-second-wearing/art/landscapes/05-the-open-window-neighborhood.png",
-          "sourceSha256": "efc85b472abf03269172e3122aa99ca2f68b983f76db63e9cd92d12976bd46fb",
-          "full": {
-            "path": "landscapes/the-second-wearing/05-the-open-window-neighborhood.webp",
-            "sha256": "b46ca4559ab794a8a27c82393d86d22fe776415075a457f54b0abbf29d241a34",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-second-wearing/05-the-open-window-neighborhood-thumb.webp",
-            "sha256": "1bccf6eff203cf901a5c742b214246a5c104b00d6b15c1bd2522e02e8084e476",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "seraph-infinite-gear",
       "title": "The Seraph of the Infinite Gear",
       "reader": "stories/seraph-infinite-gear.html",
@@ -14006,6 +13904,31 @@
       "source": "stories/the-rule-between-courses/art/landscapes/05-the-rain-washed-market-road.png",
       "sourceSha256": "ce871b11939f33153b38f1402e6b994f2561ed2d2502eee9d49f1208039dcf5f",
       "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
+    },
+    {
+      "source": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+      "sourceSha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72",
+      "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
+    },
+    {
+      "source": "stories/the-second-wearing/art/landscapes/02-apartment-roofs-after-rain.png",
+      "sourceSha256": "cce4123378c8ec044ce19dde3f2b60faaa2fecd3dfe6ae455fa8936d97e792b7",
+      "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
+    },
+    {
+      "source": "stories/the-second-wearing/art/landscapes/03-pavias-tomato-garden.png",
+      "sourceSha256": "e35ea817dad03d12fd7b411f26cc89d58d65fb334944b67224510ee8d7fda766",
+      "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
+    },
+    {
+      "source": "stories/the-second-wearing/art/landscapes/04-recital-evening-street.png",
+      "sourceSha256": "592fe31101239d9b469eb1bd3b37b00761bcdeb2293cf6d9d0575e5e1d11912e",
+      "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
+    },
+    {
+      "source": "stories/the-second-wearing/art/landscapes/05-the-open-window-neighborhood.png",
+      "sourceSha256": "efc85b472abf03269172e3122aa99ca2f68b983f76db63e9cd92d12976bd46fb",
+      "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
