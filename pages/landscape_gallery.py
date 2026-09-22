@@ -130,24 +130,30 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
     return _capture_collection(repository_root, "landscapes", snapshot_path)
 
 
-def capture_interiors(repository_root: Path, snapshot_path: Path | None = None) -> dict:
-    return _capture_collection(repository_root, "interiors", snapshot_path)
+def capture_interiors(repository_root: Path, snapshot_path: Path | None = None, slugs: list[str] | None = None) -> dict:
+    return _capture_collection(repository_root, "interiors", snapshot_path, slugs)
 
 
-def _capture_collection(repository_root: Path, collection: str, snapshot_path: Path | None) -> dict:
+def _capture_collection(repository_root: Path, collection: str, snapshot_path: Path | None,
+                        slugs: list[str] | None = None) -> dict:
     from pages import build
 
     repository_root = repository_root.resolve()
     snapshot_path = snapshot_path or repository_root / "pages" / f"{collection}.json"
     catalog = build.load_catalog(snapshot_path.with_name("catalog.json"))
     published = {story.slug: story for story in catalog.stories}
+    requested = set(slugs) if slugs else None
+    if requested and any(slug not in published for slug in requested):
+        raise ValueError("An art study story is absent from the publication catalog")
+    prior = load_snapshot(snapshot_path, collection)
     previous = {(story["slug"], image["id"]): image
-                for story in load_snapshot(snapshot_path, collection)["stories"] for image in story["images"]}
-    groups = []
+                for story in prior["stories"] for image in story["images"]}
+    groups = [story for story in prior["stories"] if requested and story["slug"] not in requested]
     jobs = []
+    found = set()
     for directory in sorted((repository_root / "stories").glob(f"*/art/{collection}")):
         slug = directory.parents[1].name
-        if slug == "_template":
+        if slug == "_template" or (requested and slug not in requested):
             continue
         if slug not in published:
             raise ValueError(f"Landscape story is absent from the publication catalog: {slug}")
@@ -157,9 +163,12 @@ def _capture_collection(repository_root: Path, collection: str, snapshot_path: P
         if len({p.stem for p in sources}) != len(sources):
             raise ValueError(f"Repeated landscape filename stem in {directory}")
         story = published[slug]
+        found.add(slug)
         groups.append({"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []})
         jobs.extend((source, repository_root, snapshot_path.parent, slug, story.title,
                      previous.get((slug, source.stem)), collection) for source in sources)
+    if requested and requested - found:
+        raise ValueError(f"No {collection} source directory for: {', '.join(sorted(requested - found))}")
     selected = {story["slug"]: story for story in groups}
     # Only this explicit capture operation reads production art or encodes web copies.
     with ThreadPoolExecutor(max_workers=8) as executor:

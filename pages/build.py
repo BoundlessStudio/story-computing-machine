@@ -1364,7 +1364,8 @@ def main() -> None:
     comic_parser.add_argument("slug")
     commands.add_parser("capture-all", help="Refresh every published story from its source package.")
     commands.add_parser("capture-landscapes", help="Store landscape gallery web copies without recapturing prose.")
-    commands.add_parser("capture-interiors", help="Store interior study web copies without recapturing prose or landscapes.")
+    interior_parser = commands.add_parser("capture-interiors", help="Store interior study web copies without recapturing prose or landscapes.")
+    interior_parser.add_argument("slugs", nargs="*", help="Optional story slugs to capture only completed sets.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
     args = parser.parse_args()
@@ -1388,7 +1389,7 @@ def main() -> None:
         count = sum(len(story["images"]) for story in gallery["stories"])
         print(f"Stored {count} landscapes across {len(gallery['stories'])} stories")
     elif args.command == "capture-interiors":
-        gallery = _landscape_module().capture_interiors(REPOSITORY_ROOT)
+        gallery = _landscape_module().capture_interiors(REPOSITORY_ROOT, slugs=args.slugs)
         count = sum(len(story["images"]) for story in gallery["stories"])
         print(f"Stored {count} interiors across {len(gallery['stories'])} stories")
     else:

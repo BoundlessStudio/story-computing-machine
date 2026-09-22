@@ -133,6 +133,8 @@ settings per story, or different views of the same room when there is only one.
 Stories set entirely outdoors receive no interior studies. These are independent
 environment paintings, without lettering, and establish no new canon facts.
 Open `gallery.html?type=interiors` to browse just the interior collection.
+For a small batch, `python pages/build.py capture-interiors <slug> [<slug> ...]`
+updates only those stories and retains the other stored interior studies.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible

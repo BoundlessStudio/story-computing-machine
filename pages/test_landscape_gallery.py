@@ -208,6 +208,27 @@ class LandscapeGalleryTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Missing or changed"):
             gallery.build_gallery(output, self.snapshot, self.catalog)
 
+    def test_named_interior_capture_preserves_other_stored_sets(self):
+        self.add_interior()
+        first = gallery.capture_interiors(self.root)
+        other = story_fixture(slug="another-story", title="Another Story")
+        build.save_catalog([self.story, other], self.pages / "catalog.json")
+        Image.new("RGB", (864, 1536), "navy").save(self.pages / other.cover)
+        other_art = self.root / "stories" / other.slug / "art" / "interiors"
+        other_art.mkdir(parents=True)
+        Image.new("RGB", (96, 64), "gold").save(other_art / "01-the-room.png")
+        # The first source may be offline; a named capture must retain its snapshot.
+        self.art.parent.rename(self.art.parent.with_name("offline-art"))
+        second = gallery.capture_interiors(self.root, slugs=[other.slug])
+        self.assertEqual(len(second["stories"]), 2)
+        retained = next(story for story in second["stories"] if story["slug"] == self.story.slug)
+        self.assertEqual(retained, first["stories"][0])
+        self.assertEqual(gallery.check_assets(second, self.pages), 2)
+        saved = (self.pages / "interiors.json").read_bytes()
+        with self.assertRaisesRegex(ValueError, "No interiors source directory"):
+            gallery.capture_interiors(self.root, slugs=[self.story.slug])
+        self.assertEqual((self.pages / "interiors.json").read_bytes(), saved)
+
 
 if __name__ == "__main__":
     unittest.main()
