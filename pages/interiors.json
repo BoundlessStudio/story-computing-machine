@@ -7746,6 +7746,70 @@
       ]
     },
     {
+      "slug": "the-small-moon-rose-first",
+      "title": "The Small Moon Rose First",
+      "reader": "stories/the-small-moon-rose-first.html",
+      "images": [
+        {
+          "id": "01-the-freezer-aisle",
+          "title": "The freezer aisle",
+          "alt": "The freezer aisle — oil interior study for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/interiors/01-the-freezer-aisle.png",
+          "sourceSha256": "af2b1ce43c23fec01ede1545825ece57966455ae1c4b27235c5915a45de8bcbe",
+          "full": {
+            "path": "interiors/the-small-moon-rose-first/01-the-freezer-aisle-af2b1ce43c23fec0.webp",
+            "sha256": "90a24ef170d14fcaeffdf73ed417690b626e0dda5d95e2c04354f75848d737cd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-small-moon-rose-first/01-the-freezer-aisle-af2b1ce43c23fec0-thumb.webp",
+            "sha256": "b616f74bb3c3cad94d42c71e15995dc78dd7e9a2c20425f78b9dc30170623570",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-under-the-kitchen-table",
+          "title": "Under the kitchen table",
+          "alt": "Under the kitchen table — oil interior study for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "sourceSha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+          "full": {
+            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-fdf0114d77319059.webp",
+            "sha256": "185f5cb6cfe0d0d26a660009235f441ceb1b814db069712c1c342867ab05b291",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-fdf0114d77319059-thumb.webp",
+            "sha256": "e7055827b366eb74925d60940552bd3d3fa3f83ba0f1ee5c6bb57b8db29272f2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-station-concourse",
+          "title": "The station concourse",
+          "alt": "The station concourse — oil interior study for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "sourceSha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+          "full": {
+            "path": "interiors/the-small-moon-rose-first/03-the-station-concourse-7497dc9b57ea7865.webp",
+            "sha256": "fd18b8fe209ba9d80ddb5e08baacfd817ca406a5172104faecb96473f62dc18c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-small-moon-rose-first/03-the-station-concourse-7497dc9b57ea7865-thumb.webp",
+            "sha256": "6077abb3c5eebb499a1b208b1894db1d97b267cd0a457d781c98d8bd08ae245a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-spiders-hunger",
       "title": "The Spider's Hunger",
       "reader": "stories/the-spiders-hunger.html",
@@ -7803,6 +7867,70 @@
           "thumbnail": {
             "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-c6d7713218da586d-thumb.webp",
             "sha256": "18c111ff6d2141e4dcdc13663941d0861a29ee603a798a60fc1fcd506c1e188c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-station-between",
+      "title": "The Station Between",
+      "reader": "stories/the-station-between.html",
+      "images": [
+        {
+          "id": "01-the-station-bench",
+          "title": "The station bench",
+          "alt": "The station bench — oil interior study for The Station Between",
+          "source": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+          "sourceSha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+          "full": {
+            "path": "interiors/the-station-between/01-the-station-bench-5d215333253ba11f.webp",
+            "sha256": "9e46626da51b189c5cd66cc0dee5095bbe3dee084ed72d8b20fff16542a70042",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-station-between/01-the-station-bench-5d215333253ba11f-thumb.webp",
+            "sha256": "3012085b47626cdfca3d6b1bae062d0600ec75b347243b667a3997713cae0a42",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-information-window",
+          "title": "The information window",
+          "alt": "The information window — oil interior study for The Station Between",
+          "source": "stories/the-station-between/art/interiors/02-the-information-window.png",
+          "sourceSha256": "a9cecce85fc7b2e3acd8148247c6b49db50c962e66d31b20d77466cbf50969c5",
+          "full": {
+            "path": "interiors/the-station-between/02-the-information-window-a9cecce85fc7b2e3.webp",
+            "sha256": "3d9167795a3599147e7a6aaca585ae6ba7bd6b233bfaafd9d7b5848e11950c94",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-station-between/02-the-information-window-a9cecce85fc7b2e3-thumb.webp",
+            "sha256": "4eecd8416953b1d8035f2cb5dc97b22f5c3eeb643a3540ca046b564d95d0b333",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-dark-red-carriage",
+          "title": "The dark red carriage",
+          "alt": "The dark red carriage — oil interior study for The Station Between",
+          "source": "stories/the-station-between/art/interiors/03-the-dark-red-carriage.png",
+          "sourceSha256": "033db9bed39adb3816bd305b003d24261056dbaae7d5658ab4d226ce2c98138f",
+          "full": {
+            "path": "interiors/the-station-between/03-the-dark-red-carriage-033db9bed39adb38.webp",
+            "sha256": "f61d8ccc5ac0743526fc7e00e85931e31175462c2c739686cb9cb9e2bebbadea",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-station-between/03-the-dark-red-carriage-033db9bed39adb38-thumb.webp",
+            "sha256": "358cb62d3d56a4d70b9ba9628b53e0051cf4882c4eb19c935c8c12c23c7357fa",
             "width": 480,
             "height": 320
           }
