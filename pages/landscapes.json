@@ -2959,6 +2959,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "02-the-old-club-district",
+          "title": "The old club district",
+          "alt": "The old club district — oil landscape for Nobody Spends Her Name",
+          "source": "pages/landscape-replacements/empire-within/02-the-old-club-district.png",
+          "sourceSha256": "7e56253089d51e9e9d16da6f006059d075422529a2b5e626b2a827a9fee06a65",
+          "full": {
+            "path": "landscapes/empire-within/02-the-old-club-district-7e56253089d51e9e.webp",
+            "sha256": "53b846782d9a506b28e0e011c80186818f56889aad62bc2efe92da2a35bd9b5f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/empire-within/02-the-old-club-district-7e56253089d51e9e-thumb.webp",
+            "sha256": "890fce5214da5988846cc195abc24c16714fddac78c41ac4c610f6f934cb254c",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/empire-within/art/landscapes/02-the-old-club-district.png",
+            "originalSha256": "086eff5ced2689cbf7c24d8e14198dbbf6d393e0f0ae00afbe9c2365dcc57439",
+            "correction": "Turns a city athletic club reached during a night operation into an isolated overgrown lakeside ruin in daylight.",
+            "prompt": "Correct the setting and time of this Nobody Spends Her Name (empire-within) illustration. Keep the reference's derelict athletic-club architectural character and expressive thick impasto oil paint, but put the old closed ATHLETIC CLUB ON A DENSE CITY BLOCK AT NIGHT IN HEAVY RAIN. Street-level view across a wet asphalt street: the weathered club frontage has dark dusty windows and closed doors, neighboring multi-storey urban brick buildings close to either side, curb, drains, a side service alley and puddles catching sparse amber streetlights. The building remains structurally intact but long neglected, not a remote roofless ruin. No lake, hills, forest, country path, open parkland, sun or daylight sky. The surrounding city continues into the dark, with a few lit upper windows; most of the club is unlit, the atmosphere tense and quiet just before the operation. Keep focus on the place with no named characters, no violence and no readable signs. Wide composition, rich black-blue rain shadows, muted rust/brown masonry, broken knife strokes and tactile traditional oil pigment rather than photography.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
