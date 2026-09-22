@@ -1346,6 +1346,70 @@
       ]
     },
     {
+      "slug": "four-crowns-in-hiding",
+      "title": "Four Crowns in Hiding",
+      "reader": "stories/four-crowns-in-hiding.html",
+      "images": [
+        {
+          "id": "01-nalevane-throne-room",
+          "title": "Nalevane throne room",
+          "alt": "Nalevane throne room — oil interior study for Four Crowns in Hiding",
+          "source": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+          "sourceSha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7",
+          "full": {
+            "path": "interiors/four-crowns-in-hiding/01-nalevane-throne-room-60d6fddb24d842f1.webp",
+            "sha256": "0cade5a7fc22bd037576f7fc7aa6f57db4b90ec77c131f9bdda3f92e27964e1f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-crowns-in-hiding/01-nalevane-throne-room-60d6fddb24d842f1-thumb.webp",
+            "sha256": "622062cf8c25724a80e17df3205a5d6eaf466fca642f1f1e92709a8392c225ec",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-rusk-hollow-relay-room",
+          "title": "Rusk hollow relay room",
+          "alt": "Rusk hollow relay room — oil interior study for Four Crowns in Hiding",
+          "source": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+          "sourceSha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944",
+          "full": {
+            "path": "interiors/four-crowns-in-hiding/02-rusk-hollow-relay-room-dc0ccfb9c27dac56.webp",
+            "sha256": "12d7d5aec4945089f624420e0a489960c88ce1f099898ed1f3e003f9f69c6d17",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-crowns-in-hiding/02-rusk-hollow-relay-room-dc0ccfb9c27dac56-thumb.webp",
+            "sha256": "e4971679968b354bcc7c1fa33e97f817a666143fac01d4f8278e88c241a8c8bc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-ternhold-shutter-room",
+          "title": "Ternhold shutter room",
+          "alt": "Ternhold shutter room — oil interior study for Four Crowns in Hiding",
+          "source": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+          "sourceSha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48",
+          "full": {
+            "path": "interiors/four-crowns-in-hiding/03-ternhold-shutter-room-0daa27ddb4a3bbb6.webp",
+            "sha256": "7886ce6f781143728f35b5d9232cff6d0fdc4901ca085fe8b47bfff1bb670cae",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-crowns-in-hiding/03-ternhold-shutter-room-0daa27ddb4a3bbb6-thumb.webp",
+            "sha256": "64f276c399032409354d6361741bace8921ef96caa341b6aa2e88b0f9c024a35",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "captive-couples",
       "title": "Held Together",
       "reader": "stories/captive-couples.html",
@@ -1979,6 +2043,70 @@
           "thumbnail": {
             "path": "interiors/deja-vu-too-late/03-tug-cabin-restraints-8d0a41f3a210cfdd-thumb.webp",
             "sha256": "ad8813ccfb89feb3e3f4dfab2e9170ef4d78191b3de9361a432c6c1834842018",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deaths-patron",
+      "title": "When Death Knelt",
+      "reader": "stories/deaths-patron.html",
+      "images": [
+        {
+          "id": "01-the-winchwrights-apartment",
+          "title": "The winchwrights apartment",
+          "alt": "The winchwrights apartment — oil interior study for When Death Knelt",
+          "source": "stories/deaths-patron/art/interiors/01-the-winchwrights-apartment.png",
+          "sourceSha256": "717769b5c12656ff61fc82dabcdbd6f35b500c637b533a7ed1887871ea25a8c4",
+          "full": {
+            "path": "interiors/deaths-patron/01-the-winchwrights-apartment-717769b5c12656ff.webp",
+            "sha256": "1d25726a198dc791215bc7ac6f477081e41589b29c57789408e3adddb4b381e1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deaths-patron/01-the-winchwrights-apartment-717769b5c12656ff-thumb.webp",
+            "sha256": "45dbefd06d89c1e3194a51ebac2924944c82ff62170a8c59275154fd0cf51e27",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-landing-window",
+          "title": "The landing window",
+          "alt": "The landing window — oil interior study for When Death Knelt",
+          "source": "stories/deaths-patron/art/interiors/02-the-landing-window.png",
+          "sourceSha256": "15be3648cbd04be02dd11b3e7b65bbe08e95d91027f0ea904f6c6af8821bb5a6",
+          "full": {
+            "path": "interiors/deaths-patron/02-the-landing-window-15be3648cbd04be0.webp",
+            "sha256": "e08840ed5e090545122f1e4913360b88b69187f0edda3f8f5ce4678008dbcc2f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deaths-patron/02-the-landing-window-15be3648cbd04be0-thumb.webp",
+            "sha256": "fcfe3c1115b33fd9d0b05647dae8a778c80373b5e0f279ff6b00504b1f5e6e67",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-sluice-gallery",
+          "title": "The sluice gallery",
+          "alt": "The sluice gallery — oil interior study for When Death Knelt",
+          "source": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+          "sourceSha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20",
+          "full": {
+            "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3.webp",
+            "sha256": "2073c2000e7097057ed92f0f9e0ce1fe4a968e4eb739e63886f9255c69f42c52",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3-thumb.webp",
+            "sha256": "df0323b71079e2dc61eea5c01fa4348db36fee15d06d154dac57514e8c52d6be",
             "width": 480,
             "height": 320
           }
