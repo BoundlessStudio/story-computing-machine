@@ -7560,25 +7560,6 @@
           }
         },
         {
-          "id": "02-the-closed-river-gate",
-          "title": "The closed river gate",
-          "alt": "The closed river gate — oil landscape for The Vacant Throne",
-          "source": "stories/the-vacant-throne/art/landscapes/02-the-closed-river-gate.png",
-          "sourceSha256": "dd999e938d23a4c666a0381491e47c8c0454fa0624234530f24bdebca0e52083",
-          "full": {
-            "path": "landscapes/the-vacant-throne/02-the-closed-river-gate.webp",
-            "sha256": "843f825dcf393c234141b8d98ad4bda320ad0932cfab472d55111c1c8616e88f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-vacant-throne/02-the-closed-river-gate-thumb.webp",
-            "sha256": "aa06667c40036fcdde4da999d614965e18bf11defb96f2d77a6533d7c0684044",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-rain-court-in-sunlight",
           "title": "Rain court in sunlight",
           "alt": "Rain court in sunlight — oil landscape for The Vacant Throne",
@@ -7593,25 +7574,6 @@
           "thumbnail": {
             "path": "landscapes/the-vacant-throne/03-rain-court-in-sunlight-thumb.webp",
             "sha256": "3c2ca64e80f01bd1a386c8e526d672853e8096bd3b1d42a20de57744830e96e4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-last-light-on-the-western-wall",
-          "title": "Last light on the western wall",
-          "alt": "Last light on the western wall — oil landscape for The Vacant Throne",
-          "source": "stories/the-vacant-throne/art/landscapes/04-last-light-on-the-western-wall.png",
-          "sourceSha256": "8b60f5d98c776a1a7112a733cf0e0cd494b71031189117342db32118ce117ff5",
-          "full": {
-            "path": "landscapes/the-vacant-throne/04-last-light-on-the-western-wall.webp",
-            "sha256": "624c7d6ccd65500c31860aa008ba0d00efe57b19e21c0f1e1d8721d286ac4f04",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-vacant-throne/04-last-light-on-the-western-wall-thumb.webp",
-            "sha256": "63299da2b9ddabc4a2cf8d29af25aee84edc338b2f1b0d2914bce7c08dfbbcae",
             "width": 480,
             "height": 320
           }
@@ -13040,6 +13002,16 @@
       "source": "stories/the-unopened-ring/art/landscapes/05-morning-side-of-the-palace.png",
       "sourceSha256": "36e0723a231af681ac84d17b53f9b91c5642315dadbbb08f7ee532223f929b25",
       "reason": "The story ends during the evening dinner, not at a sunny morning palace exterior."
+    },
+    {
+      "source": "stories/the-vacant-throne/art/landscapes/02-the-closed-river-gate.png",
+      "sourceSha256": "dd999e938d23a4c666a0381491e47c8c0454fa0624234530f24bdebca0e52083",
+      "reason": "The Captain signals the river gate shut from the palace; the narrative never visits this exterior riverbank viewpoint."
+    },
+    {
+      "source": "stories/the-vacant-throne/art/landscapes/04-last-light-on-the-western-wall.png",
+      "sourceSha256": "8b60f5d98c776a1a7112a733cf0e0cd494b71031189117342db32118ce117ff5",
+      "reason": "Sunlight reaches the western wall during the indoor succession ritual. An outside fortress-wall panorama moves that interior light cue into an invented scene."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
