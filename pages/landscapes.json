@@ -2381,25 +2381,6 @@
       "reader": "stories/storm-warning.html",
       "images": [
         {
-          "id": "01-the-twelfth-night-rain",
-          "title": "The twelfth night rain",
-          "alt": "The twelfth night rain — oil landscape for Storm Warning",
-          "source": "stories/storm-warning/art/landscapes/01-the-twelfth-night-rain.png",
-          "sourceSha256": "e7b2c7bf8ea2bcc1e094dccc96591516bde588f49dfa38fff291b9e78ab6e170",
-          "full": {
-            "path": "landscapes/storm-warning/01-the-twelfth-night-rain.webp",
-            "sha256": "d4bd926da31bf0d490353a208c196e6d2edcd96a09baa3630435de93fe4c45f4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/storm-warning/01-the-twelfth-night-rain-thumb.webp",
-            "sha256": "3e37aa26e2c51fbc9db4e01cd753bddbd9deb8ae9536f6af7d42610596ef4985",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-red-in-the-puddles",
           "title": "Red in the puddles",
           "alt": "Red in the puddles — oil landscape for Storm Warning",
@@ -2414,63 +2395,6 @@
           "thumbnail": {
             "path": "landscapes/storm-warning/02-red-in-the-puddles-thumb.webp",
             "sha256": "08414fc75f2859a9b5654a1b08304649bc15a1edfb09c65d24615247fa973261",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-dead-blue-light",
-          "title": "The dead blue light",
-          "alt": "The dead blue light — oil landscape for Storm Warning",
-          "source": "stories/storm-warning/art/landscapes/03-the-dead-blue-light.png",
-          "sourceSha256": "95b2359ece15cf4dc55acfb3769bb6108ee52dc73ea5fabb72abe12b25cb881f",
-          "full": {
-            "path": "landscapes/storm-warning/03-the-dead-blue-light.webp",
-            "sha256": "c36356d57bd5ee855a57191efec7d0561fcdd38b160b0c22b8f27a992e600aa9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/storm-warning/03-the-dead-blue-light-thumb.webp",
-            "sha256": "47a0147b10c77a82dbd8dd13f4cb15bf4b944a986a8d296571a24767a8d7c5b8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-wind-across-the-steps",
-          "title": "Wind across the steps",
-          "alt": "Wind across the steps — oil landscape for Storm Warning",
-          "source": "stories/storm-warning/art/landscapes/04-wind-across-the-steps.png",
-          "sourceSha256": "40f4e7a5e87402e444e05b2e6713f9dd439f2bfb5c4d33ea7db22cd2359ad02c",
-          "full": {
-            "path": "landscapes/storm-warning/04-wind-across-the-steps.webp",
-            "sha256": "29039cca5f04915806c38cc910433ffd5bd22d2b28e4d3489e12b7d0670f78ea",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/storm-warning/04-wind-across-the-steps-thumb.webp",
-            "sha256": "3e13479362c48ae6fee9d8646ce1bf215c82089e1a427584a6dd3d50b1070acd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-rain-easing",
-          "title": "Rain easing",
-          "alt": "Rain easing — oil landscape for Storm Warning",
-          "source": "stories/storm-warning/art/landscapes/05-rain-easing.png",
-          "sourceSha256": "fca5ce17446900dfdd751670442486cae6cbe263ed4ea9ac4beae215063b45a2",
-          "full": {
-            "path": "landscapes/storm-warning/05-rain-easing.webp",
-            "sha256": "614a28268957912d0e3c78e97586b6862bc056ec26b5f478f7d42e05312b946e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/storm-warning/05-rain-easing-thumb.webp",
-            "sha256": "979509d9013012479730d45b0e74563d7926bad848022895b95e5da9f72cd05b",
             "width": 480,
             "height": 320
           }
@@ -16787,6 +16711,26 @@
       "source": "stories/still-taking-runaways/art/landscapes/05-the-road-back-to-the-tent.png",
       "sourceSha256": "3c6fe6064dfd808d374abd580183e6f01ba3c2be8cd7f3255ab856390ec114a7",
       "reason": "Invents a sunset return to the circus. The story ends in the family's kitchen, before such a return."
+    },
+    {
+      "source": "stories/storm-warning/art/landscapes/01-the-twelfth-night-rain.png",
+      "sourceSha256": "e7b2c7bf8ea2bcc1e094dccc96591516bde588f49dfa38fff291b9e78ab6e170",
+      "reason": "Uses a bright daytime storm for the twelfth-night opening and repeats the stronger red-lit street view."
+    },
+    {
+      "source": "stories/storm-warning/art/landscapes/03-the-dead-blue-light.png",
+      "sourceSha256": "95b2359ece15cf4dc55acfb3769bb6108ee52dc73ea5fabb72abe12b25cb881f",
+      "reason": "Renders the hotel as a low garage-like frontage in daylight, losing the upward view to a hotel window during the night drive."
+    },
+    {
+      "source": "stories/storm-warning/art/landscapes/04-wind-across-the-steps.png",
+      "sourceSha256": "40f4e7a5e87402e444e05b2e6713f9dd439f2bfb5c4d33ea7db22cd2359ad02c",
+      "reason": "Adds a generic leafy residential porch and repeats the rain-street composition without the city holding-house context."
+    },
+    {
+      "source": "stories/storm-warning/art/landscapes/05-rain-easing.png",
+      "sourceSha256": "fca5ce17446900dfdd751670442486cae6cbe263ed4ea9ac4beae215063b45a2",
+      "reason": "Changes the night ending to a colorful sunset and replaces the red sign seen through wired glass with generic sky reflections."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
