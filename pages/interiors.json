@@ -512,6 +512,134 @@
           }
         }
       ]
+    },
+    {
+      "slug": "a-note-of-spite",
+      "title": "A Note of Spite",
+      "reader": "stories/a-note-of-spite.html",
+      "images": [
+        {
+          "id": "01-candlelit-stairs",
+          "title": "Candlelit stairs",
+          "alt": "Candlelit stairs — oil interior study for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/interiors/01-candlelit-stairs.png",
+          "sourceSha256": "a1f09aae03b9ff9abc20440c749700a0b2b48391b932345d19ff9452b22e20df",
+          "full": {
+            "path": "interiors/a-note-of-spite/01-candlelit-stairs-a1f09aae03b9ff9a.webp",
+            "sha256": "d7e8310e4eb90be2467d4b20042508b1a9ca81c6f6e4d62d4bfb8bfacc3e12cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-note-of-spite/01-candlelit-stairs-a1f09aae03b9ff9a-thumb.webp",
+            "sha256": "833edabcbde5a85571f2410e2cde07f4cb6733297bd7eec83c2d79bc118f74aa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-drawing-room-piano",
+          "title": "Drawing room piano",
+          "alt": "Drawing room piano — oil interior study for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+          "sourceSha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934",
+          "full": {
+            "path": "interiors/a-note-of-spite/02-drawing-room-piano-293299aadc07e327.webp",
+            "sha256": "06635d846cf2da0881172d8c61e9acc3c9324aaadbe3da2fb377a8d181603bdc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-note-of-spite/02-drawing-room-piano-293299aadc07e327-thumb.webp",
+            "sha256": "ff4e8455bdce6067ad1a8139b6b3337d1924d5139465be72feb0de6008254757",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-wrap-room",
+          "title": "Wrap room",
+          "alt": "Wrap room — oil interior study for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/interiors/03-wrap-room.png",
+          "sourceSha256": "a48d35817343b44170842ca8866d2971be2e9a6660250d97457d7ae02002abfb",
+          "full": {
+            "path": "interiors/a-note-of-spite/03-wrap-room-a48d35817343b441.webp",
+            "sha256": "5dfe63d4ffcc0aa18a1e0ad958b3d797a0c5457f16a508254c34a936df6d04fa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-note-of-spite/03-wrap-room-a48d35817343b441-thumb.webp",
+            "sha256": "b7cbef58a0d525a33aa93d5a5571e80848f5af06313046a1faaa80c5750f5c83",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-throne-neither-wanted",
+      "title": "The Throne Neither of Us Wanted",
+      "reader": "stories/a-throne-neither-wanted.html",
+      "images": [
+        {
+          "id": "01-palace-records-room",
+          "title": "Palace records room",
+          "alt": "Palace records room — oil interior study for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "sourceSha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434",
+          "full": {
+            "path": "interiors/a-throne-neither-wanted/01-palace-records-room-2ed6c59352cdde0b.webp",
+            "sha256": "4bc87b10df4efc2bd24989c4c83d4f54651728ea80ad271d473239810a3702e5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-throne-neither-wanted/01-palace-records-room-2ed6c59352cdde0b-thumb.webp",
+            "sha256": "64c12410abc42ee7612176775dd92ac0268c3c5f76fade43023f98c5d6d3e7fb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-kings-room",
+          "title": "The kings room",
+          "alt": "The kings room — oil interior study for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "sourceSha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5",
+          "full": {
+            "path": "interiors/a-throne-neither-wanted/02-the-kings-room-c24f158da624ce4e.webp",
+            "sha256": "00c9482d9eb782e68c18677a3fa69ff86623fed02fc18abe20e701113694bb9e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-throne-neither-wanted/02-the-kings-room-c24f158da624ce4e-thumb.webp",
+            "sha256": "add6f9f27e5f375994aa8a99b9d163db3f5e791ccbfa36ea8f695af0c5b97c4a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-empty-throne-chamber",
+          "title": "Empty throne chamber",
+          "alt": "Empty throne chamber — oil interior study for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
+          "sourceSha256": "dbec06a9a1891554bd13489ffb86f93e1b1058aae6c79333f89debab9850cec6",
+          "full": {
+            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554.webp",
+            "sha256": "d380b820d8888f16b541c43c015ce75a146e37850887a5121f3985d4f413db10",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554-thumb.webp",
+            "sha256": "939ae30e649b56831d71e58b6ee6b4c1c7d3e2e39cc90c804bae62066d3dce2f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
     }
   ]
 }
