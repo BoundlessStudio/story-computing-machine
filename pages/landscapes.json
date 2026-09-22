@@ -5040,108 +5040,6 @@
       ]
     },
     {
-      "slug": "the-foundations-remember",
-      "title": "The Memory Under Line Zero",
-      "reader": "stories/the-foundations-remember.html",
-      "images": [
-        {
-          "id": "01-sun-on-the-upper-tiers",
-          "title": "Sun on the upper tiers",
-          "alt": "Sun on the upper tiers — oil landscape for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/landscapes/01-sun-on-the-upper-tiers.png",
-          "sourceSha256": "9f7d3d3cdb9b1753b8e856ae19a8f402b09f724594b2b87ab7ef86d5cb2285da",
-          "full": {
-            "path": "landscapes/the-foundations-remember/01-sun-on-the-upper-tiers.webp",
-            "sha256": "f737cf864d83772599a806ee37b2fcde0d4a4f03cdf2ae48441b5faefd4246cb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-foundations-remember/01-sun-on-the-upper-tiers-thumb.webp",
-            "sha256": "255f322af2686b647ca838673bd5eb34a229b6f4eb2d769f241055608a773175",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-rain-above-line-zero",
-          "title": "Rain above line zero",
-          "alt": "Rain above line zero — oil landscape for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
-          "sourceSha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
-          "full": {
-            "path": "landscapes/the-foundations-remember/02-rain-above-line-zero.webp",
-            "sha256": "d88f70e8fd51726c4a7c332b3a09a5b5ace06e05eb4faa036afca61785ac6014",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-foundations-remember/02-rain-above-line-zero-thumb.webp",
-            "sha256": "588ba8e5ba55132372958939a5510064058227382fb1dd205c130d296ecbd2ab",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-calm-ferry-crossing",
-          "title": "The calm ferry crossing",
-          "alt": "The calm ferry crossing — oil landscape for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/landscapes/03-the-calm-ferry-crossing.png",
-          "sourceSha256": "cbd33971d08bd853bee94fa8cf93fa9d5eeb3244c5a942aba5a739ddb55ca70c",
-          "full": {
-            "path": "landscapes/the-foundations-remember/03-the-calm-ferry-crossing.webp",
-            "sha256": "0b049f9adefa4b56dbc9484015bb8adde107bbc2b4a3296f3653e9411b88424b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-foundations-remember/03-the-calm-ferry-crossing-thumb.webp",
-            "sha256": "dbcdde3113cc93864d520f5e1a8d70cfabca798a970bf5a54e9d05aeb86ab2cb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-city-weight-on-old-stone",
-          "title": "City weight on old stone",
-          "alt": "City weight on old stone — oil landscape for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/landscapes/04-city-weight-on-old-stone.png",
-          "sourceSha256": "8605f3952b808cde13ac4500d5c8ba2c4d0ee1abe8bf56b246a8ec4a97b9d8c4",
-          "full": {
-            "path": "landscapes/the-foundations-remember/04-city-weight-on-old-stone.webp",
-            "sha256": "95c820fc85b2cfec87dca191db37c9564e8f2809d1a1d38ae7ffe7695bbb89bf",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-foundations-remember/04-city-weight-on-old-stone-thumb.webp",
-            "sha256": "f7015dc63539319e5a6f4aa5dfddd33c3b9e54c3cb4a871b6a209dedda79bb14",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-over-the-habitation-decks",
-          "title": "Dawn over the habitation decks",
-          "alt": "Dawn over the habitation decks — oil landscape for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/landscapes/05-dawn-over-the-habitation-decks.png",
-          "sourceSha256": "93b11cd3be93a026bfe5140f78febcff6e1165e494d1d4a0412e92a89b72dc36",
-          "full": {
-            "path": "landscapes/the-foundations-remember/05-dawn-over-the-habitation-decks.webp",
-            "sha256": "2c319f2ed850c9428515a1ca8aa2e604548e9e1746ffef97ce6fcfc59fb579de",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-foundations-remember/05-dawn-over-the-habitation-decks-thumb.webp",
-            "sha256": "cef1442ac99eff70850d35a9ef62da0289fafc86c488369d7978b7eb4b675c51",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-mercy-circuit",
       "title": "The Mercy Circuit",
       "reader": "stories/the-mercy-circuit.html",
@@ -14595,6 +14493,31 @@
       "source": "stories/the-five-minute-warranty/art/landscapes/05-the-quarry-at-noon.png",
       "sourceSha256": "53b89a86218484b2e09705cee4c086ec0523d728b0488d54db9041eef0abcd3e",
       "reason": "Invents a quiet noon aftermath and adds another quarry panorama; the ending inventories the still-broken lift after the lower station collapses into fire."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/landscapes/01-sun-on-the-upper-tiers.png",
+      "sourceSha256": "9f7d3d3cdb9b1753b8e856ae19a8f402b09f724594b2b87ab7ef86d5cb2285da",
+      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+      "sourceSha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/landscapes/03-the-calm-ferry-crossing.png",
+      "sourceSha256": "cbd33971d08bd853bee94fa8cf93fa9d5eeb3244c5a942aba5a739ddb55ca70c",
+      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/landscapes/04-city-weight-on-old-stone.png",
+      "sourceSha256": "8605f3952b808cde13ac4500d5c8ba2c4d0ee1abe8bf56b246a8ec4a97b9d8c4",
+      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/landscapes/05-dawn-over-the-habitation-decks.png",
+      "sourceSha256": "93b11cd3be93a026bfe5140f78febcff6e1165e494d1d4a0412e92a89b72dc36",
+      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
     },
     {
       "source": "stories/the-friends-i-built/art/landscapes/01-ash-road-to-cinder-annex.png",
