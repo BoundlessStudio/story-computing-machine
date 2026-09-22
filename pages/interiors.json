@@ -3458,6 +3458,70 @@
       ]
     },
     {
+      "slug": "the-chair-at-the-back",
+      "title": "The Chair at the Back",
+      "reader": "stories/the-chair-at-the-back.html",
+      "images": [
+        {
+          "id": "01-tavern-hearth-chair",
+          "title": "Tavern hearth chair",
+          "alt": "Tavern hearth chair — oil interior study for The Chair at the Back",
+          "source": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+          "sourceSha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+          "full": {
+            "path": "interiors/the-chair-at-the-back/01-tavern-hearth-chair-adc589f9026cd7fe.webp",
+            "sha256": "ebde26f771776af948316e3e61de2522d0b5e4ef8bcb20bd1fae68e5a7d77fe8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-chair-at-the-back/01-tavern-hearth-chair-adc589f9026cd7fe-thumb.webp",
+            "sha256": "71de21ddb0e58aa90de5b4af3610cdb90914854d7527e23b5f5a81f6dc58df5c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-tavern-tables-and-counter",
+          "title": "Tavern tables and counter",
+          "alt": "Tavern tables and counter — oil interior study for The Chair at the Back",
+          "source": "stories/the-chair-at-the-back/art/interiors/02-tavern-tables-and-counter.png",
+          "sourceSha256": "98d793c2515a45c63153b71a9fe7c6f016877aa972cd876805087dc1c9e6d5a8",
+          "full": {
+            "path": "interiors/the-chair-at-the-back/02-tavern-tables-and-counter-98d793c2515a45c6.webp",
+            "sha256": "defd41c13851ad4dde0142c95184821b60c8a3214961b9a8ad53bc9f626ff7f7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-chair-at-the-back/02-tavern-tables-and-counter-98d793c2515a45c6-thumb.webp",
+            "sha256": "2ce28f72e58ff385187f5c6011ec47c546a0cf3a50933a55c845750871d80d15",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-tavern-curtained-passage",
+          "title": "Tavern curtained passage",
+          "alt": "Tavern curtained passage — oil interior study for The Chair at the Back",
+          "source": "stories/the-chair-at-the-back/art/interiors/03-tavern-curtained-passage.png",
+          "sourceSha256": "30519f118cf2239f9bef01d312575034cdfb275b52d1d048f90840884557a04d",
+          "full": {
+            "path": "interiors/the-chair-at-the-back/03-tavern-curtained-passage-30519f118cf2239f.webp",
+            "sha256": "662837cabb532f914e0af70851b01383847e63609c15298231dde877e758b0d7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-chair-at-the-back/03-tavern-curtained-passage-30519f118cf2239f-thumb.webp",
+            "sha256": "90b08a3c93335c0a071a293ac70d3ff5cb41b045a0136edeb1af6a1479f36c1e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-city-of-eleven-foundations",
       "title": "The City of Eleven Foundations",
       "reader": "stories/the-city-of-eleven-foundations.html",
