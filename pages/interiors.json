@@ -834,6 +834,70 @@
       ]
     },
     {
+      "slug": "a-reasonable-declaration",
+      "title": "A Reasonable Declaration",
+      "reader": "stories/a-reasonable-declaration.html",
+      "images": [
+        {
+          "id": "01-assessment-table",
+          "title": "Assessment table",
+          "alt": "Assessment table — oil interior study for A Reasonable Declaration",
+          "source": "stories/a-reasonable-declaration/art/interiors/01-assessment-table.png",
+          "sourceSha256": "85a6ec96982f863efff23d84c02076023de5a5b7fbe81c43aaf6d3ceebfeec8b",
+          "full": {
+            "path": "interiors/a-reasonable-declaration/01-assessment-table-85a6ec96982f863e.webp",
+            "sha256": "4be136cb7c05b5f8e8088c4d49dbc8581959ab7c03ee118f60654cc5edc69c0f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-reasonable-declaration/01-assessment-table-85a6ec96982f863e-thumb.webp",
+            "sha256": "9ca6b559dada25be93b9db02dabdbca29f7eb92a57c10e1e94a02727efd54b66",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-office-landing",
+          "title": "Office landing",
+          "alt": "Office landing — oil interior study for A Reasonable Declaration",
+          "source": "stories/a-reasonable-declaration/art/interiors/02-office-landing.png",
+          "sourceSha256": "284a5801b09d7c30b19aedf63bcee34461ab556a1d3d9c2b2e4f1a76ef19d771",
+          "full": {
+            "path": "interiors/a-reasonable-declaration/02-office-landing-284a5801b09d7c30.webp",
+            "sha256": "405d3ed57e92b59b3780e219eab3795569bb04b2edb992bef11c4d790541e596",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-reasonable-declaration/02-office-landing-284a5801b09d7c30-thumb.webp",
+            "sha256": "7242aad9b3bbe3990c409c7a55edd2f33450bada747eb4a56566b2c3e78ac26e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-office-urn-view",
+          "title": "Office urn view",
+          "alt": "Office urn view — oil interior study for A Reasonable Declaration",
+          "source": "stories/a-reasonable-declaration/art/interiors/03-office-urn-view.png",
+          "sourceSha256": "eb1bd7469f22fc042bb5518a7d80117a84340a540540575148274986180d3ca3",
+          "full": {
+            "path": "interiors/a-reasonable-declaration/03-office-urn-view-eb1bd7469f22fc04.webp",
+            "sha256": "b3cdf82c0bf74c5a720e4c0f59529469715257df55636e306b232378beb4f314",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-reasonable-declaration/03-office-urn-view-eb1bd7469f22fc04-thumb.webp",
+            "sha256": "b377cbb60135e0826094f659256ecd5f186a47503000555d4a771ba0f685c0b9",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "before-lunch",
       "title": "Before Lunch",
       "reader": "stories/before-lunch.html",
@@ -955,6 +1019,70 @@
           "thumbnail": {
             "path": "interiors/between-the-colors/03-dressing-room-window-108c849c2bca650a-thumb.webp",
             "sha256": "e1884d90c6d41201e6cfe47f4417a4dbafc39fbb095bf0d961e002294e3a0523",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "apes-in-orbit",
+      "title": "The Apes Above",
+      "reader": "stories/apes-in-orbit.html",
+      "images": [
+        {
+          "id": "01-council-map-well",
+          "title": "Council map well",
+          "alt": "Council map well — oil interior study for The Apes Above",
+          "source": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "sourceSha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60",
+          "full": {
+            "path": "interiors/apes-in-orbit/01-council-map-well-4c8cb67f5e6937fb.webp",
+            "sha256": "483d4557ab26d66c5af27e3b2ab4deb1e90c2eda4e0e3bec28b7d367c2c8b23a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/apes-in-orbit/01-council-map-well-4c8cb67f5e6937fb-thumb.webp",
+            "sha256": "0174bed174fcb6ec132a4c1e841e87361a44e64fa64e47ba87d3d458e7db5304",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-trace-instrument-alcove",
+          "title": "Trace instrument alcove",
+          "alt": "Trace instrument alcove — oil interior study for The Apes Above",
+          "source": "stories/apes-in-orbit/art/interiors/02-trace-instrument-alcove.png",
+          "sourceSha256": "a599578d9dc0d75fa921c704720869f7aaa0ba1b70918cee7e6f7f6d4beb31e3",
+          "full": {
+            "path": "interiors/apes-in-orbit/02-trace-instrument-alcove-a599578d9dc0d75f.webp",
+            "sha256": "f66f512e2d5aef5f4038608968b12e495c29f35c23b0430673ea5baddd4f2da8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/apes-in-orbit/02-trace-instrument-alcove-a599578d9dc0d75f-thumb.webp",
+            "sha256": "57e7b96aaac6e2c599a4e4ab952c662da47f22d3c4bce4dc5aaed745cb006517",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-defence-control-rail",
+          "title": "Defence control rail",
+          "alt": "Defence control rail — oil interior study for The Apes Above",
+          "source": "stories/apes-in-orbit/art/interiors/03-defence-control-rail.png",
+          "sourceSha256": "a06f129352b8fafc95338851957dc0af4b01974623bfd63cfd978a1c424f41f9",
+          "full": {
+            "path": "interiors/apes-in-orbit/03-defence-control-rail-a06f129352b8fafc.webp",
+            "sha256": "d4848ab5269f0cd42718519af4c22c4628713f613cc97e115d759e7658234e1d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/apes-in-orbit/03-defence-control-rail-a06f129352b8fafc-thumb.webp",
+            "sha256": "32c995d82a7ca4988d9535161008d9c90530e763de8a074183fb1e3c8f28d927",
             "width": 480,
             "height": 320
           }
