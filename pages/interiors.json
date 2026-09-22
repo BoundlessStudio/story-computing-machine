@@ -1410,6 +1410,70 @@
       ]
     },
     {
+      "slug": "empire-within",
+      "title": "Nobody Spends Her Name",
+      "reader": "stories/empire-within.html",
+      "images": [
+        {
+          "id": "01-private-room",
+          "title": "Private room",
+          "alt": "Private room — oil interior study for Nobody Spends Her Name",
+          "source": "stories/empire-within/art/interiors/01-private-room.png",
+          "sourceSha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc",
+          "full": {
+            "path": "interiors/empire-within/01-private-room-8235e8358b72f2e3.webp",
+            "sha256": "45c18426fc48ea7c630718d9c1cb31aa756fe0db121954f648ba092e3be8d9f8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/empire-within/01-private-room-8235e8358b72f2e3-thumb.webp",
+            "sha256": "81ee990db01b56760beedff93d41caf2c42d1b0f4299f1841f56ef95d9473779",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-basement-pool",
+          "title": "Basement pool",
+          "alt": "Basement pool — oil interior study for Nobody Spends Her Name",
+          "source": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "sourceSha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+          "full": {
+            "path": "interiors/empire-within/02-basement-pool-56b99ca2a9ee2c05.webp",
+            "sha256": "cca6a589cf454cbfc0fbde6e5f869637848e6c8c78cafe13918ca9375ae094b4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/empire-within/02-basement-pool-56b99ca2a9ee2c05-thumb.webp",
+            "sha256": "0b55058d7b4d89af1da524369538fa4018a5dc77acd3a6991c68e749e5069377",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-machinery-corridor",
+          "title": "Machinery corridor",
+          "alt": "Machinery corridor — oil interior study for Nobody Spends Her Name",
+          "source": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "sourceSha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c",
+          "full": {
+            "path": "interiors/empire-within/03-machinery-corridor-7a0bed7b0ef7814e.webp",
+            "sha256": "02c40a18e0221b658792c9ac03424fd93e861a030c193f1cb863f49badcd3346",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/empire-within/03-machinery-corridor-7a0bed7b0ef7814e-thumb.webp",
+            "sha256": "03ea0ded89772b1540aa9d0f5e8aeb5c4948eb2013915f1267f6059203b18542",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "before-she-gets-tired",
       "title": "Not Friday",
       "reader": "stories/before-she-gets-tired.html",
@@ -1723,6 +1787,70 @@
           "thumbnail": {
             "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554-thumb.webp",
             "sha256": "939ae30e649b56831d71e58b6ee6b4c1c7d3e2e39cc90c804bae62066d3dce2f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deja-vu-too-late",
+      "title": "The Warning Comes Second",
+      "reader": "stories/deja-vu-too-late.html",
+      "images": [
+        {
+          "id": "01-service-tug-cockpit",
+          "title": "Service tug cockpit",
+          "alt": "Service tug cockpit — oil interior study for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+          "sourceSha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658",
+          "full": {
+            "path": "interiors/deja-vu-too-late/01-service-tug-cockpit-f685ee9688b70657.webp",
+            "sha256": "065977cf02860b979b6fd3c4d35cfd267ec163fe963598ace62a2f309d05b4b1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deja-vu-too-late/01-service-tug-cockpit-f685ee9688b70657-thumb.webp",
+            "sha256": "b0dbff550927c131439fe49aca18adaf1b5d76ff20b208544f707f0962bdeef8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-rescue-lock",
+          "title": "Rescue lock",
+          "alt": "Rescue lock — oil interior study for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/interiors/02-rescue-lock.png",
+          "sourceSha256": "b0faec1d3c00478dce534dbf22e4ed6c4012e1c30ceee8b36d4f5455a57ab09a",
+          "full": {
+            "path": "interiors/deja-vu-too-late/02-rescue-lock-b0faec1d3c00478d.webp",
+            "sha256": "42970ccaa8b163025d7ed594ca3be5162ad9fb4123674cef93c8651b5bb9e2e5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deja-vu-too-late/02-rescue-lock-b0faec1d3c00478d-thumb.webp",
+            "sha256": "0829507b451e406e42a1217d5764cc05b4b3f87aebde3a5a36069016c8320b23",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-tug-cabin-restraints",
+          "title": "Tug cabin restraints",
+          "alt": "Tug cabin restraints — oil interior study for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/interiors/03-tug-cabin-restraints.png",
+          "sourceSha256": "8d0a41f3a210cfdd585a436156db6a5c179f3a9df14971bcc30976b2405e1c5d",
+          "full": {
+            "path": "interiors/deja-vu-too-late/03-tug-cabin-restraints-8d0a41f3a210cfdd.webp",
+            "sha256": "832e7e60c4438ee09b5abc28dadc5cfc619437f65ce21e287cf68eb9191006db",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/deja-vu-too-late/03-tug-cabin-restraints-8d0a41f3a210cfdd-thumb.webp",
+            "sha256": "ad8813ccfb89feb3e3f4dfab2e9170ef4d78191b3de9361a432c6c1834842018",
             "width": 480,
             "height": 320
           }
