@@ -2426,25 +2426,6 @@
           }
         },
         {
-          "id": "02-hawthorn-beyond-the-arch",
-          "title": "Hawthorn beyond the arch",
-          "alt": "Hawthorn beyond the arch — oil landscape for Tea for the First Guest",
-          "source": "stories/tea-for-the-first-guest/art/landscapes/02-hawthorn-beyond-the-arch.png",
-          "sourceSha256": "a57737838ce08f8805b48857e12b3c69974b315e6ec357bfa8050101573fdcb8",
-          "full": {
-            "path": "landscapes/tea-for-the-first-guest/02-hawthorn-beyond-the-arch.webp",
-            "sha256": "d79c9e267525feb42077b25e851ebab7e59975a5f1394eddb712d511a67cf3ac",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tea-for-the-first-guest/02-hawthorn-beyond-the-arch-thumb.webp",
-            "sha256": "7f351c23c5af8a21ec3a686af3bf97401adb073e6b4ed31d755f606ae8557bda",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-hill-to-the-bridge",
           "title": "The hill to the bridge",
           "alt": "The hill to the bridge — oil landscape for Tea for the First Guest",
@@ -2459,44 +2440,6 @@
           "thumbnail": {
             "path": "landscapes/tea-for-the-first-guest/03-the-hill-to-the-bridge-thumb.webp",
             "sha256": "99f49ce0548dc0f24884b5fb2423b908ae1cc4b56f747af102abe0ddc5b53e83",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-twenty-minutes-of-evening",
-          "title": "Twenty minutes of evening",
-          "alt": "Twenty minutes of evening — oil landscape for Tea for the First Guest",
-          "source": "stories/tea-for-the-first-guest/art/landscapes/04-twenty-minutes-of-evening.png",
-          "sourceSha256": "d3cf462328bc2050c08be2b7c077b82b8e35de43850e32a20cc30fc26f9d09ed",
-          "full": {
-            "path": "landscapes/tea-for-the-first-guest/04-twenty-minutes-of-evening.webp",
-            "sha256": "ca710decd26724b1de4e7e064e1fe73ae76c619e0d4c4eb68e5fc92b45aeb095",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tea-for-the-first-guest/04-twenty-minutes-of-evening-thumb.webp",
-            "sha256": "58de707f7030308d6618907c6cf3b9f8c51b8e806afd8ba1b6eb815ac02218f4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-silver-rain-through-stone",
-          "title": "Silver rain through stone",
-          "alt": "Silver rain through stone — oil landscape for Tea for the First Guest",
-          "source": "stories/tea-for-the-first-guest/art/landscapes/05-silver-rain-through-stone.png",
-          "sourceSha256": "2aebe6ce91e2ea8520f8c6f86cd44a2ef21d5ad611dd91b40ca3d9e7db86f54e",
-          "full": {
-            "path": "landscapes/tea-for-the-first-guest/05-silver-rain-through-stone.webp",
-            "sha256": "38035691d4d01975a2b9bdc2d47fb1e1998d92233ea4c40d5d39f9fe03da1ee0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tea-for-the-first-guest/05-silver-rain-through-stone-thumb.webp",
-            "sha256": "40a150439f54ab7780cd7ea607131b6f367871e25488c211d5fd565805650fd8",
             "width": 480,
             "height": 320
           }
@@ -16731,6 +16674,21 @@
       "source": "stories/storm-warning/art/landscapes/05-rain-easing.png",
       "sourceSha256": "fca5ce17446900dfdd751670442486cae6cbe263ed4ea9ac4beae215063b45a2",
       "reason": "Changes the night ending to a colorful sunset and replaces the red sign seen through wired glass with generic sky reflections."
+    },
+    {
+      "source": "stories/tea-for-the-first-guest/art/landscapes/02-hawthorn-beyond-the-arch.png",
+      "sourceSha256": "a57737838ce08f8805b48857e12b3c69974b315e6ec357bfa8050101573fdcb8",
+      "reason": "Repeats the arch-and-muddy-road setting without a distinct change; the retained opening includes the roadside shelter."
+    },
+    {
+      "source": "stories/tea-for-the-first-guest/art/landscapes/04-twenty-minutes-of-evening.png",
+      "sourceSha256": "d3cf462328bc2050c08be2b7c077b82b8e35de43850e32a20cc30fc26f9d09ed",
+      "reason": "Another nearly identical arch and muddy road, only twenty minutes later; redundant for a primarily indoor conversation."
+    },
+    {
+      "source": "stories/tea-for-the-first-guest/art/landscapes/05-silver-rain-through-stone.png",
+      "sourceSha256": "2aebe6ce91e2ea8520f8c6f86cd44a2ef21d5ad611dd91b40ca3d9e7db86f54e",
+      "reason": "Fourth arch/road view adds no new setting and changes the bare broken stone shelter into an ivy-covered monument."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
