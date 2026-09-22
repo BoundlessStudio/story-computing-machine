@@ -7042,6 +7042,134 @@
       ]
     },
     {
+      "slug": "the-second-wearing",
+      "title": "The Second Wearing",
+      "reader": "stories/the-second-wearing.html",
+      "images": [
+        {
+          "id": "01-the-empty-apartment-room",
+          "title": "The empty apartment room",
+          "alt": "The empty apartment room — oil interior study for The Second Wearing",
+          "source": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+          "sourceSha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b",
+          "full": {
+            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-be4e4ac75fce168a.webp",
+            "sha256": "647e063566054890d3b30df2654e21a8a6f3e9bb8c47bdc295e45ea9dfe9129c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-be4e4ac75fce168a-thumb.webp",
+            "sha256": "df613df59e531d560879c871c31dd65b1f2be15ea430878b211ae77ab02b58e3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-room-from-the-window",
+          "title": "Room from the window",
+          "alt": "Room from the window — oil interior study for The Second Wearing",
+          "source": "stories/the-second-wearing/art/interiors/02-room-from-the-window.png",
+          "sourceSha256": "c91e55fe5eb46d3f78ab3390930ef9b44d53abcc076e97efcf041579e0a2bea1",
+          "full": {
+            "path": "interiors/the-second-wearing/02-room-from-the-window-c91e55fe5eb46d3f.webp",
+            "sha256": "ebd8177db5a8ec47d478c38916a0e8dc038e817b34d82b8e7fbbd16013b97232",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-second-wearing/02-room-from-the-window-c91e55fe5eb46d3f-thumb.webp",
+            "sha256": "dca4facc9a09801942755b7cb06c1cb2b3e462e6437f0ad31181eef30d988866",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-open-box",
+          "title": "The open box",
+          "alt": "The open box — oil interior study for The Second Wearing",
+          "source": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+          "sourceSha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef",
+          "full": {
+            "path": "interiors/the-second-wearing/03-the-open-box-49542c4c8cce1da9.webp",
+            "sha256": "ab29fe80f0c6e81aa5ac72c882e2f211ed2a96e0919af58e06f283f4ba2e604f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-second-wearing/03-the-open-box-49542c4c8cce1da9-thumb.webp",
+            "sha256": "c16c9c9f22a2fab32b8750f05154caaa4ed5d70e6f971a9c298ae02959d9b616",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-seventh-night",
+      "title": "The Seventh Night",
+      "reader": "stories/the-seventh-night.html",
+      "images": [
+        {
+          "id": "01-private-supper-room",
+          "title": "Private supper room",
+          "alt": "Private supper room — oil interior study for The Seventh Night",
+          "source": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+          "sourceSha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58",
+          "full": {
+            "path": "interiors/the-seventh-night/01-private-supper-room-56ced3300b6bf3d7.webp",
+            "sha256": "f9e7365719f2e5544f8378ae7d79ff71c5e09004fb3aaebf634b634ea88e321d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-seventh-night/01-private-supper-room-56ced3300b6bf3d7-thumb.webp",
+            "sha256": "2a68fe32050c6677cd79e8e0b3f146e3b7df9fa7351a20ecf29735e2a849085b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-gauntlet-beside-supper",
+          "title": "The gauntlet beside supper",
+          "alt": "The gauntlet beside supper — oil interior study for The Seventh Night",
+          "source": "stories/the-seventh-night/art/interiors/02-the-gauntlet-beside-supper.png",
+          "sourceSha256": "cfad2fd299346d1d592ad75ca9137f6dbbc840980decc0e6d71ea1609f58fdfd",
+          "full": {
+            "path": "interiors/the-seventh-night/02-the-gauntlet-beside-supper-cfad2fd299346d1d.webp",
+            "sha256": "22595f8890aad62ad19c6ba7db98c48f6aa54ce6845f9a8dd5b07a0325cef3e4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-seventh-night/02-the-gauntlet-beside-supper-cfad2fd299346d1d-thumb.webp",
+            "sha256": "49c7aeb669ac4ba8757fea33e08a61eea9f2e11c84d4993e43a7e407bdaa2da1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-quince-tart-and-shortened-candles",
+          "title": "The quince tart and shortened candles",
+          "alt": "The quince tart and shortened candles — oil interior study for The Seventh Night",
+          "source": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
+          "sourceSha256": "f23bfd44370d22a34826e9a2b83a15942653d979d0a8b5a686ee208f40683d2d",
+          "full": {
+            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-f23bfd44370d22a3.webp",
+            "sha256": "49bd4eec9a5adf71f6c3484bf25694e919aceec2644cb17a42f6283cf846269d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-f23bfd44370d22a3-thumb.webp",
+            "sha256": "3bc6588ec378f0d8defa728e165cf869d209dda06e0760ecb8624d2b24203eed",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-sky-remembers-us-return",
       "title": "The Sky Remembers Us",
       "reader": "stories/the-sky-remembers-us-return.html",
