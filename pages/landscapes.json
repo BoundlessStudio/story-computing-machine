@@ -614,108 +614,6 @@
       ]
     },
     {
-      "slug": "a-darkness-written-under-skin",
-      "title": "A Darkness Written Under Skin",
-      "reader": "stories/a-darkness-written-under-skin.html",
-      "images": [
-        {
-          "id": "01-dye-house-at-gray-morning",
-          "title": "Dye house at gray morning",
-          "alt": "Dye house at gray morning — oil landscape for A Darkness Written Under Skin",
-          "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
-          "sourceSha256": "2005c2c4e4dc65c2734b4eeddcf22f12d7714fd2be4306254b347fd2a018ad85",
-          "full": {
-            "path": "landscapes/a-darkness-written-under-skin/01-dye-house-at-gray-morning.webp",
-            "sha256": "5add785c1f134e403378ef70654212734d859bcce9bd6765c4571ebc5af139bd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-darkness-written-under-skin/01-dye-house-at-gray-morning-thumb.webp",
-            "sha256": "0abba52727598be6056f3fdd08ba7c3e08a266dd9ec6cc41dcd8b9685f42f276",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-morning-coach-road",
-          "title": "The morning coach road",
-          "alt": "The morning coach road — oil landscape for A Darkness Written Under Skin",
-          "source": "stories/a-darkness-written-under-skin/art/landscapes/02-the-morning-coach-road.png",
-          "sourceSha256": "3e983385588fd02e80b9d7d9abcb41905710d9ef9d2dcdcf058d8159f9907f27",
-          "full": {
-            "path": "landscapes/a-darkness-written-under-skin/02-the-morning-coach-road.webp",
-            "sha256": "2cd4baa5a2d1133c90e2674d9d35c5b910f3e327ce6093a72a1d058db6d32161",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-darkness-written-under-skin/02-the-morning-coach-road-thumb.webp",
-            "sha256": "0ab6c2a44b16bc7f0dc7328f7ebeec278355a1e21bc204513ff2d03f95d2e834",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-winter-around-the-house",
-          "title": "Winter around the house",
-          "alt": "Winter around the house — oil landscape for A Darkness Written Under Skin",
-          "source": "stories/a-darkness-written-under-skin/art/landscapes/03-winter-around-the-house.png",
-          "sourceSha256": "fde52e9c4f8cbbaefff2f2429d3c5c189b523c8c7b26cf9df323721dced6a6dd",
-          "full": {
-            "path": "landscapes/a-darkness-written-under-skin/03-winter-around-the-house.webp",
-            "sha256": "cf9f3e47845c28f55120e60c485e598bbea6bfb5f522234989a4055b968b264a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-darkness-written-under-skin/03-winter-around-the-house-thumb.webp",
-            "sha256": "a9615b80ab912c9b5d76f749710763d870fac3d245ba98f7a982a22fd418b146",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-walnut-and-madder-dawn",
-          "title": "Walnut and madder dawn",
-          "alt": "Walnut and madder dawn — oil landscape for A Darkness Written Under Skin",
-          "source": "stories/a-darkness-written-under-skin/art/landscapes/04-walnut-and-madder-dawn.png",
-          "sourceSha256": "72503ce1f2b0373b154b17f7aa7b9072aa4ed6a0ccda8c8a4f9221ad09893bfb",
-          "full": {
-            "path": "landscapes/a-darkness-written-under-skin/04-walnut-and-madder-dawn.webp",
-            "sha256": "14e3bff3bce0702b26c3cbee86decb95e1cb9835f06ca1f4bfad31724a61c4b3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-darkness-written-under-skin/04-walnut-and-madder-dawn-thumb.webp",
-            "sha256": "696435f0a68bb17bb8247ce86d02b311206065fd02a72e156cfc5843a7b9ef85",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-high-window-morning-light",
-          "title": "High window morning light",
-          "alt": "High window morning light — oil landscape for A Darkness Written Under Skin",
-          "source": "stories/a-darkness-written-under-skin/art/landscapes/05-high-window-morning-light.png",
-          "sourceSha256": "bed3b3adb46933c62e97ff48005079b35d698c7a825e00c15d8cc0d78db09529",
-          "full": {
-            "path": "landscapes/a-darkness-written-under-skin/05-high-window-morning-light.webp",
-            "sha256": "68144d04d774d6e9c574cc64361a132dab06aa5e7456b4222d06bb3149f6e50c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-darkness-written-under-skin/05-high-window-morning-light-thumb.webp",
-            "sha256": "fbb4ede670622876da0cf011ad406bf989430df938afb6d25e16598303183565",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "a-knock-in-someone-elses-sleep",
       "title": "A Knock in Someone Else's Sleep",
       "reader": "stories/a-knock-in-someone-elses-sleep.html",
@@ -19686,6 +19584,33 @@
           }
         }
       ]
+    }
+  ],
+  "excludedSources": [
+    {
+      "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
+      "sourceSha256": "2005c2c4e4dc65c2734b4eeddcf22f12d7714fd2be4306254b347fd2a018ad85",
+      "reason": "The story never leaves the locked dye workroom. This village exterior, lake and distant hills are invented rather than a depicted setting."
+    },
+    {
+      "source": "stories/a-darkness-written-under-skin/art/landscapes/02-the-morning-coach-road.png",
+      "sourceSha256": "3e983385588fd02e80b9d7d9abcb41905710d9ef9d2dcdcf058d8159f9907f27",
+      "reason": "The narrator explicitly cancels the morning coach journey. The lake, rural road and village are not a scene in the story."
+    },
+    {
+      "source": "stories/a-darkness-written-under-skin/art/landscapes/03-winter-around-the-house.png",
+      "sourceSha256": "fde52e9c4f8cbbaefff2f2429d3c5c189b523c8c7b26cf9df323721dced6a6dd",
+      "reason": "The winter reference is a remembered frozen bedroom wall, not an outdoor snow scene. This snowy country house and lake relocate the incident outside."
+    },
+    {
+      "source": "stories/a-darkness-written-under-skin/art/landscapes/04-walnut-and-madder-dawn.png",
+      "sourceSha256": "72503ce1f2b0373b154b17f7aa7b9072aa4ed6a0ccda8c8a4f9221ad09893bfb",
+      "reason": "Walnut and madder are dyes staining the indoor worktable. The painting converts those color references into an invented lakeside countryside at dawn."
+    },
+    {
+      "source": "stories/a-darkness-written-under-skin/art/landscapes/05-high-window-morning-light.png",
+      "sourceSha256": "bed3b3adb46933c62e97ff48005079b35d698c7a825e00c15d8cc0d78db09529",
+      "reason": "Gray morning reaches high workroom windows; the source supplies no panoramic village, lake or hilltop view. This repeats the invented outdoor setting."
     }
   ]
 }
