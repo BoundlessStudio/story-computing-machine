@@ -9151,44 +9151,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-the-road-inland",
-          "title": "The road inland",
-          "alt": "The road inland — oil landscape for Where It Hurts",
-          "source": "stories/where-it-hurts/art/landscapes/04-the-road-inland.png",
-          "sourceSha256": "ff377cf065f739eae536e534a9c5b3cd94714e2c2cb30f7573f591a5d9917974",
-          "full": {
-            "path": "landscapes/where-it-hurts/04-the-road-inland.webp",
-            "sha256": "73e5ad021e92359531e79e01945683b496b283034f6742a78e34d0cf57208212",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-it-hurts/04-the-road-inland-thumb.webp",
-            "sha256": "90358f745595e89ebe6830a73890e3748fb9077290b5b38f9ab1640aece57537",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-evening-at-the-yard-entrance",
-          "title": "Evening at the yard entrance",
-          "alt": "Evening at the yard entrance — oil landscape for Where It Hurts",
-          "source": "stories/where-it-hurts/art/landscapes/05-evening-at-the-yard-entrance.png",
-          "sourceSha256": "36aefae15aca614b75ca9d6e66ccb6e78f642163c6a9f989b7155f94724ca6b2",
-          "full": {
-            "path": "landscapes/where-it-hurts/05-evening-at-the-yard-entrance.webp",
-            "sha256": "7817da9bc25a51cb64af884727385c695c2625892ba82034f4274b2a3807a72e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-it-hurts/05-evening-at-the-yard-entrance-thumb.webp",
-            "sha256": "d8dabd8de1433bb2351c8c9e5ed38b7f8af77ead2b4d3fe688549a089785a7cc",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12320,6 +12282,16 @@
       "source": "stories/when-the-needle-finds-you/art/landscapes/05-masthead-baths-at-night.png",
       "sourceSha256": "cd2e1cf242ab32654d0a08eab3323523c2f9385abbe96ec046e9943ba3e48f32",
       "reason": "They enter Masthead Baths through the tenement's service culvert and descend into the pump chamber. No exterior approach to the baths occurs."
+    },
+    {
+      "source": "stories/where-it-hurts/art/landscapes/04-the-road-inland.png",
+      "sourceSha256": "ff377cf065f739eae536e534a9c5b3cd94714e2c2cb30f7573f591a5d9917974",
+      "reason": "The narrator has booked an inland room but remains waiting at the coach yard when the story ends. This road journey has not happened."
+    },
+    {
+      "source": "stories/where-it-hurts/art/landscapes/05-evening-at-the-yard-entrance.png",
+      "sourceSha256": "36aefae15aca614b75ca9d6e66ccb6e78f642163c6a9f989b7155f94724ca6b2",
+      "reason": "Repeats the same coach-yard entrance and awning already represented by the retained yard image, without a separate setting."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
