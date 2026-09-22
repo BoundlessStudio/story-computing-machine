@@ -7,44 +7,6 @@
       "reader": "stories/the-emerald-relic.html",
       "images": [
         {
-          "id": "01-level-stone-outside-the-gates",
-          "title": "Level stone outside the gates",
-          "alt": "Level stone outside the gates — oil landscape for A Bargain with Anubis",
-          "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
-          "sourceSha256": "4b5f3e4733824c5b0c69f045050004148c34c6f2ff6d42735b0aac6513888aab",
-          "full": {
-            "path": "landscapes/the-emerald-relic/01-level-stone-outside-the-gates.webp",
-            "sha256": "e4110015703dcd237f272d76d4b93adc06792b09686b4c376fd5a578882f1a35",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-emerald-relic/01-level-stone-outside-the-gates-thumb.webp",
-            "sha256": "b0d4d1ad5d7fea7d0b9710a55bd25608775cd64708044f488a631f82f8237d5a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-bedchamber-garden",
-          "title": "The bedchamber garden",
-          "alt": "The bedchamber garden — oil landscape for A Bargain with Anubis",
-          "source": "stories/the-emerald-relic/art/landscapes/02-the-bedchamber-garden.png",
-          "sourceSha256": "3d2775b1d3941a057c496ed7e76787e9332444825a6e604334099ceaf539d842",
-          "full": {
-            "path": "landscapes/the-emerald-relic/02-the-bedchamber-garden.webp",
-            "sha256": "352827ac73ded746dcb8bc3fa02ff83bf2f9a6b598385baff7d498d689329e05",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-emerald-relic/02-the-bedchamber-garden-thumb.webp",
-            "sha256": "91af593cc69703d23ccafcf37a6bd0c3e4efa9db3f9ed1609e171aa5209b84a3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-a-door-left-open",
           "title": "A door left open",
           "alt": "A door left open — oil landscape for A Bargain with Anubis",
@@ -59,44 +21,6 @@
           "thumbnail": {
             "path": "landscapes/the-emerald-relic/03-a-door-left-open-thumb.webp",
             "sha256": "e60e327f0cf4b8ebedfcad9dbab2929c75ee0096e14ee85ccdc6278f55ed8669",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-first-grey-of-morning",
-          "title": "The first grey of morning",
-          "alt": "The first grey of morning — oil landscape for A Bargain with Anubis",
-          "source": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
-          "sourceSha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
-          "full": {
-            "path": "landscapes/the-emerald-relic/04-the-first-grey-of-morning.webp",
-            "sha256": "ccf70b9f7ffd738f87e0da4bffaa8cf96917cafb6bc66936f4fb3b51369a2fe9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-emerald-relic/04-the-first-grey-of-morning-thumb.webp",
-            "sha256": "da7e29968273c37529a250737ccec5d155785d991960cf0dada0ec27730f7a7c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-morning-over-the-palace-garden",
-          "title": "Morning over the palace garden",
-          "alt": "Morning over the palace garden — oil landscape for A Bargain with Anubis",
-          "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
-          "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
-          "full": {
-            "path": "landscapes/the-emerald-relic/05-morning-over-the-palace-garden.webp",
-            "sha256": "4a3e4d677b3ac1e210a7358c67acd41fce35be7b7de5b7414f21d73eaf992807",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-emerald-relic/05-morning-over-the-palace-garden-thumb.webp",
-            "sha256": "fb5856f399077f60851983019f35ae24c4ad9d8ba9b956431dbccf2c934d737f",
             "width": 480,
             "height": 320
           }
@@ -19509,6 +19433,26 @@
       "source": "stories/a-darkness-written-under-skin/art/landscapes/05-high-window-morning-light.png",
       "sourceSha256": "bed3b3adb46933c62e97ff48005079b35d698c7a825e00c15d8cc0d78db09529",
       "reason": "Gray morning reaches high workroom windows; the source supplies no panoramic village, lake or hilltop view. This repeats the invented outdoor setting."
+    },
+    {
+      "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
+      "sourceSha256": "4b5f3e4733824c5b0c69f045050004148c34c6f2ff6d42735b0aac6513888aab",
+      "reason": "The gate encounter occurs at night as Anubis passes through torchlight; this painting gives the encounter's location bright golden daylight."
+    },
+    {
+      "source": "stories/the-emerald-relic/art/landscapes/02-the-bedchamber-garden.png",
+      "sourceSha256": "3d2775b1d3941a057c496ed7e76787e9332444825a6e604334099ceaf539d842",
+      "reason": "Redundant daylight view of the same bedchamber garden already represented by the source-supported night doorway; the action uses it at night through first gray morning."
+    },
+    {
+      "source": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+      "sourceSha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+      "reason": "Adds a broad river-and-mountain panorama where the source only shows first gray light across the garden doorway, and repeats the already represented garden."
+    },
+    {
+      "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
+      "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
+      "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
