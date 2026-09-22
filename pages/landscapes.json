@@ -3002,25 +3002,6 @@
       "reader": "stories/the-bride-who-came-back.html",
       "images": [
         {
-          "id": "01-the-black-ice-causeway",
-          "title": "The black ice causeway",
-          "alt": "The black ice causeway — oil landscape for The Bride Who Came Back",
-          "source": "stories/the-bride-who-came-back/art/landscapes/01-the-black-ice-causeway.png",
-          "sourceSha256": "7ee3cd6057b86ce4ca608cc9ec1ca6e57e60de182186213d5d97af1ae118b1c0",
-          "full": {
-            "path": "landscapes/the-bride-who-came-back/01-the-black-ice-causeway.webp",
-            "sha256": "0e777876b1d69011897c950fe0d432c59d62173e2a1004a75f2989b237152097",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bride-who-came-back/01-the-black-ice-causeway-thumb.webp",
-            "sha256": "f0ce1318539d3aab40e9b4d7ba73d9edb3575dbf27d685235e699d0c68c6a122",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-cyrak-beyond-the-pass",
           "title": "Cyrak beyond the pass",
           "alt": "Cyrak beyond the pass — oil landscape for The Bride Who Came Back",
@@ -3040,25 +3021,6 @@
           }
         },
         {
-          "id": "03-smoke-over-the-sun",
-          "title": "Smoke over the sun",
-          "alt": "Smoke over the sun — oil landscape for The Bride Who Came Back",
-          "source": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
-          "sourceSha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832",
-          "full": {
-            "path": "landscapes/the-bride-who-came-back/03-smoke-over-the-sun.webp",
-            "sha256": "a15222d5183406e28e0dbdf852856d3e194d5a4b5a1dc246d0c11053696f538d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bride-who-came-back/03-smoke-over-the-sun-thumb.webp",
-            "sha256": "d075784df7dedc9300375b4b3cd80d663a89779e728dbe1bc67897f37d6c5f13",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-water-spreads-over-the-road",
           "title": "Water spreads over the road",
           "alt": "Water spreads over the road — oil landscape for The Bride Who Came Back",
@@ -3073,25 +3035,6 @@
           "thumbnail": {
             "path": "landscapes/the-bride-who-came-back/04-water-spreads-over-the-road-thumb.webp",
             "sha256": "7fa7d35a5b8eb88cf81892d44b31cf7076a466355acbd1c8d9d04af5d1dcbf75",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-pass-without-troops",
-          "title": "The pass without troops",
-          "alt": "The pass without troops — oil landscape for The Bride Who Came Back",
-          "source": "stories/the-bride-who-came-back/art/landscapes/05-the-pass-without-troops.png",
-          "sourceSha256": "6e0f8915dd454f7e41bf3e4bf55c8490c75e46e356df31f31f3758e93348bb59",
-          "full": {
-            "path": "landscapes/the-bride-who-came-back/05-the-pass-without-troops.webp",
-            "sha256": "2f3ac276a0db68e6c03d095bb2ded10f938fbcc904ec5fed4f8e7ffd5f539abe",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bride-who-came-back/05-the-pass-without-troops-thumb.webp",
-            "sha256": "89115a8429271b4facbd5adfa631c6b7951a40c7b60a722803ac2bb1a3d82a23",
             "width": 480,
             "height": 320
           }
@@ -16431,6 +16374,21 @@
       "source": "stories/the-body-called-one/art/landscapes/04-shadow-beyond-the-foundry.png",
       "sourceSha256": "84e29d2dfeb6f2fa92afea99e5754d6174a748e6cba7b91e1bc8bc836a57e3ac",
       "reason": "Repeats the same foundry wreckage and debris lane already covered by the opening and departure views."
+    },
+    {
+      "source": "stories/the-bride-who-came-back/art/landscapes/01-the-black-ice-causeway.png",
+      "sourceSha256": "7ee3cd6057b86ce4ca608cc9ec1ca6e57e60de182186213d5d97af1ae118b1c0",
+      "reason": "Shows a clear blue sky over the southern approach, contradicting the opening wall of smoke that darkens the afternoon."
+    },
+    {
+      "source": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+      "sourceSha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832",
+      "reason": "Repeats the lake/pass under smoke already represented by the burning-Cyrak view without a distinct location."
+    },
+    {
+      "source": "stories/the-bride-who-came-back/art/landscapes/05-the-pass-without-troops.png",
+      "sourceSha256": "6e0f8915dd454f7e41bf3e4bf55c8490c75e46e356df31f31f3758e93348bb59",
+      "reason": "Repeats the smoky pass based on a guardroom report; no new exterior scene follows the return inside."
     },
     {
       "source": "stories/the-cat-who-had-enough/art/landscapes/03-before-dawn-at-the-corner.png",
