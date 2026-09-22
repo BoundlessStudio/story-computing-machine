@@ -19482,108 +19482,6 @@
           }
         }
       ]
-    },
-    {
-      "slug": "witch-cold",
-      "title": "Witch Cold",
-      "reader": "stories/witch-cold.html",
-      "images": [
-        {
-          "id": "01-the-apartment-approach",
-          "title": "The apartment approach",
-          "alt": "The apartment approach — oil landscape for Witch Cold",
-          "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
-          "sourceSha256": "b50f48a8a0caf1bd7264c9dec34e7cf5929a604c6b9ead189dc17598c075c36e",
-          "full": {
-            "path": "landscapes/witch-cold/01-the-apartment-approach.webp",
-            "sha256": "51a0600527bc9780fb9c824da4c40e4b5b0111ebda6c4a261eac327f32bc1305",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/witch-cold/01-the-apartment-approach-thumb.webp",
-            "sha256": "11e4f900a2c0cb122f82b170e8e9ec4e9a60a45ad675e29faaf1d987b94aaa8b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-quiet-front-door",
-          "title": "The quiet front door",
-          "alt": "The quiet front door — oil landscape for Witch Cold",
-          "source": "stories/witch-cold/art/landscapes/02-the-quiet-front-door.png",
-          "sourceSha256": "a85d7b24ecde3f1181a3b1b27bb42d01aec320c9a34b493e7a38137f107a64c3",
-          "full": {
-            "path": "landscapes/witch-cold/02-the-quiet-front-door.webp",
-            "sha256": "c9333312e73d7004d0d589d1d305d72eaa3a0203b49e2846634ef80568d60253",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/witch-cold/02-the-quiet-front-door-thumb.webp",
-            "sha256": "6198e162397a4c914316ca6a1291cbdac5902e7febf244c1c291ea96229e48db",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-basement-windows",
-          "title": "The basement windows",
-          "alt": "The basement windows — oil landscape for Witch Cold",
-          "source": "stories/witch-cold/art/landscapes/03-the-basement-windows.png",
-          "sourceSha256": "56a1182c702836d3ea3d1fb8958c46ab6055b42a37a31a8cb8a67c3a169edeaf",
-          "full": {
-            "path": "landscapes/witch-cold/03-the-basement-windows.webp",
-            "sha256": "42787272a094eadcb6c0e90a2391728988b173c136794a795c893f56ef5b6e46",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/witch-cold/03-the-basement-windows-thumb.webp",
-            "sha256": "17ccda3907f22d08cc415428bf8dc83809b95abbe65082e7c54c2c8a799a2d58",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-roofs-above-the-washroom",
-          "title": "Roofs above the washroom",
-          "alt": "Roofs above the washroom — oil landscape for Witch Cold",
-          "source": "stories/witch-cold/art/landscapes/04-roofs-above-the-washroom.png",
-          "sourceSha256": "84abb6b7439a7112e738214f72fc5db278c2e498aec6db5df2fdc103c140370f",
-          "full": {
-            "path": "landscapes/witch-cold/04-roofs-above-the-washroom.webp",
-            "sha256": "aff8a483342beb196247eb27dee300fefb60118244664e47c2717711d0228285",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/witch-cold/04-roofs-above-the-washroom-thumb.webp",
-            "sha256": "1b1d5dd99f995b78cacc7a4e50fa5fb5f2462e6a6ea192510144b43d5a8abf0f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-still-building-outside",
-          "title": "The still building outside",
-          "alt": "The still building outside — oil landscape for Witch Cold",
-          "source": "stories/witch-cold/art/landscapes/05-the-still-building-outside.png",
-          "sourceSha256": "59959793463219250f79ed3116c245d82474ef98ea993c386ae051c647032f76",
-          "full": {
-            "path": "landscapes/witch-cold/05-the-still-building-outside.webp",
-            "sha256": "7114392632d11e010439d8d7ebb428023858b89e22b49349950626c994ca9556",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/witch-cold/05-the-still-building-outside-thumb.webp",
-            "sha256": "b093ce246036025fe989ea4ea1c479ae364341dc5ee386863c2de2990fef6a8d",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
     }
   ],
   "excludedSources": [
@@ -19611,6 +19509,31 @@
       "source": "stories/a-darkness-written-under-skin/art/landscapes/05-high-window-morning-light.png",
       "sourceSha256": "bed3b3adb46933c62e97ff48005079b35d698c7a825e00c15d8cc0d78db09529",
       "reason": "Gray morning reaches high workroom windows; the source supplies no panoramic village, lake or hilltop view. This repeats the invented outdoor setting."
+    },
+    {
+      "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
+      "sourceSha256": "b50f48a8a0caf1bd7264c9dec34e7cf5929a604c6b9ead189dc17598c075c36e",
+      "reason": "The story opens at the apartment door and remains indoors. This lakeside street, autumn trees and building approach are invented."
+    },
+    {
+      "source": "stories/witch-cold/art/landscapes/02-the-quiet-front-door.png",
+      "sourceSha256": "a85d7b24ecde3f1181a3b1b27bb42d01aec320c9a34b493e7a38137f107a64c3",
+      "reason": "The relevant door is the apartment fire door opening into the internal stairwell. The painting substitutes an exterior neighborhood street."
+    },
+    {
+      "source": "stories/witch-cold/art/landscapes/03-the-basement-windows.png",
+      "sourceSha256": "56a1182c702836d3ea3d1fb8958c46ab6055b42a37a31a8cb8a67c3a169edeaf",
+      "reason": "The basement scene is a bare concrete washroom with two exits; no view through basement windows is described. This exterior wet street relocates the indoor setting."
+    },
+    {
+      "source": "stories/witch-cold/art/landscapes/04-roofs-above-the-washroom.png",
+      "sourceSha256": "84abb6b7439a7112e738214f72fc5db278c2e498aec6db5df2fdc103c140370f",
+      "reason": "The washroom is in the basement, with no rooftop scene or view. The lake panorama and autumn rooftops have no source support."
+    },
+    {
+      "source": "stories/witch-cold/art/landscapes/05-the-still-building-outside.png",
+      "sourceSha256": "59959793463219250f79ed3116c245d82474ef98ea993c386ae051c647032f76",
+      "reason": "The ending stays between two washroom doors beside the sleeping Nuala. This exterior repeats the invented lakeside apartment landscape."
     }
   ]
 }
