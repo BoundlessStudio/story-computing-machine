@@ -1955,6 +1955,32 @@
       ]
     },
     {
+      "slug": "captive-couples",
+      "title": "Held Together",
+      "reader": "stories/captive-couples.html",
+      "images": [
+        {
+          "id": "03-clinic-lights-in-the-heat",
+          "title": "Clinic lights in the heat",
+          "alt": "Clinic lights in the heat — oil landscape for Held Together",
+          "source": "stories/captive-couples/art/landscapes/03-clinic-lights-in-the-heat.png",
+          "sourceSha256": "df4d100f64e3b2ed39bc76ff4239061dff9c8e97b7bae5e5bdd3fce80deafd05",
+          "full": {
+            "path": "landscapes/captive-couples/03-clinic-lights-in-the-heat.webp",
+            "sha256": "79e471937b1d2394b88c925955156dcaef2b934ce50aa99e2971033dfb8423e2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/captive-couples/03-clinic-lights-in-the-heat-thumb.webp",
+            "sha256": "0d0dfd3b262a84ff8394c83ed67b575f1385677997e065994cdb3f96d1de3cd5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "late-for-dinner",
       "title": "Late for Dinner",
       "reader": "stories/late-for-dinner.html",
@@ -10426,11 +10452,6 @@
     {
       "source": "stories/captive-couples/art/landscapes/02-transfer-station-at-night.png",
       "sourceSha256": "c6d1c327da1b6d5420de25ee0a82c4e662eb5650abbca6a27349187ab7008043",
-      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
-    },
-    {
-      "source": "stories/captive-couples/art/landscapes/03-clinic-lights-in-the-heat.png",
-      "sourceSha256": "df4d100f64e3b2ed39bc76ff4239061dff9c8e97b7bae5e5bdd3fce80deafd05",
       "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
     },
     {
