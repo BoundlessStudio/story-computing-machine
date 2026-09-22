@@ -8898,6 +8898,70 @@
       ]
     },
     {
+      "slug": "voice-of-silence",
+      "title": "The Voice of Silence",
+      "reader": "stories/voice-of-silence.html",
+      "images": [
+        {
+          "id": "01-the-examination-chamber",
+          "title": "The examination chamber",
+          "alt": "The examination chamber — oil interior study for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+          "sourceSha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+          "full": {
+            "path": "interiors/voice-of-silence/01-the-examination-chamber-6a3529ef6baa3b67.webp",
+            "sha256": "55bd4dfddc06fec8ed9971691a754bbdfb39e012341d6c5353c25a2d7595b3eb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/voice-of-silence/01-the-examination-chamber-6a3529ef6baa3b67-thumb.webp",
+            "sha256": "6958ee8046383e3281f594086794384f68154d4db621392a97622dc0bb0c0fb9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-central-brass-node",
+          "title": "The central brass node",
+          "alt": "The central brass node — oil interior study for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/interiors/02-the-central-brass-node.png",
+          "sourceSha256": "a93462aae0c9aa33f134467558953704c86159f986f0f434ff6527374d2284ea",
+          "full": {
+            "path": "interiors/voice-of-silence/02-the-central-brass-node-a93462aae0c9aa33.webp",
+            "sha256": "4ffd41a90c843f98d5519ff85739d6ab1f29b82533ee61a7d970fe48037b2f48",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/voice-of-silence/02-the-central-brass-node-a93462aae0c9aa33-thumb.webp",
+            "sha256": "ec6276879513c60a617e33131dc0c0073ed311ba532653f50cdafa804ae7547c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-from-the-western-gallery",
+          "title": "From the western gallery",
+          "alt": "From the western gallery — oil interior study for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/interiors/03-from-the-western-gallery.png",
+          "sourceSha256": "02b74d1b85aa736161a2968d30ae34f371fa2699fca323e1d1ff4ecd7212bc2e",
+          "full": {
+            "path": "interiors/voice-of-silence/03-from-the-western-gallery-02b74d1b85aa7361.webp",
+            "sha256": "713fd1542727aa8173af1a3e1ba9ded71f534f94969d41c286c91d1f34ff47e2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/voice-of-silence/03-from-the-western-gallery-02b74d1b85aa7361-thumb.webp",
+            "sha256": "5d758c2c12e4a621cef6b4c24b3705cd14ca1d1c60e38147c4423deec9aae740",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-walls-are-thick-enough",
       "title": "The Walls Are Thick Enough",
       "reader": "stories/the-walls-are-thick-enough.html",
@@ -9595,6 +9659,70 @@
           "thumbnail": {
             "path": "interiors/undisclosed/03-the-passage-to-the-stairs-7849e3962c610a2e-thumb.webp",
             "sha256": "58812bdf44c65d0cc80d5d07a5e74c23ef919ccae96a7f18f8ec8dbc58ad0cef",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "what-i-hate-most",
+      "title": "What I Hate Most",
+      "reader": "stories/what-i-hate-most.html",
+      "images": [
+        {
+          "id": "01-the-ward-room-before-dawn",
+          "title": "The ward room before dawn",
+          "alt": "The ward room before dawn — oil interior study for What I Hate Most",
+          "source": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
+          "sourceSha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235",
+          "full": {
+            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-0f40363e83b8cf31.webp",
+            "sha256": "d8396ddf03df171139416f0056d4214b11f54f1aca41248c029a6854c34d2f81",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-0f40363e83b8cf31-thumb.webp",
+            "sha256": "e82b78cf77b1c7e6e5c83215b3b97987fd9cc810b6ed3d4e4f248475844c5b81",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-pressure-map-and-private-hours",
+          "title": "The pressure map and private hours",
+          "alt": "The pressure map and private hours — oil interior study for What I Hate Most",
+          "source": "stories/what-i-hate-most/art/interiors/02-the-pressure-map-and-private-hours.png",
+          "sourceSha256": "2edd777cedac27711b88a5b50c2d711d0f010e5fcd4d086a8ad4669e883c748b",
+          "full": {
+            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-2edd777cedac2771.webp",
+            "sha256": "0b315bab6bff653edd6d9cd6a937cac7176688de7e53d4f976c1597ae8a6c2ea",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-2edd777cedac2771-thumb.webp",
+            "sha256": "e504eb605b0da83c8b7ff2f051846bbc1bfa1e7deb54797f99b24a3d42dde209",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-first-light-through-the-ward-door",
+          "title": "First light through the ward door",
+          "alt": "First light through the ward door — oil interior study for What I Hate Most",
+          "source": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
+          "sourceSha256": "4aa91ad20e03208be8d6143e91f4e441196ac031136f24471f03759cb451d955",
+          "full": {
+            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-4aa91ad20e03208b.webp",
+            "sha256": "dc4dcad9d863044b612735fc0e3cbd60f49f6f7af8212f3e01633191e356cc72",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-4aa91ad20e03208b-thumb.webp",
+            "sha256": "832dcbfd340d29d9e26c5e6661a697fe32dfb1e14d5cfa1ae6a09e1676d3881b",
             "width": 480,
             "height": 320
           }
