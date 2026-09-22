@@ -7821,82 +7821,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-dark-capstone",
-          "title": "The dark capstone",
-          "alt": "The dark capstone — oil landscape for The Way Around",
-          "source": "stories/the-way-around/art/landscapes/02-the-dark-capstone.png",
-          "sourceSha256": "fc985acffbaebd4612e534bc147c65314d9e109f71a9b1a17e19b87feabedbd7",
-          "full": {
-            "path": "landscapes/the-way-around/02-the-dark-capstone.webp",
-            "sha256": "5ba30e3d6a48a570d317ab326217ebc448fd2684705cc43060e92ea9d35e3a72",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-way-around/02-the-dark-capstone-thumb.webp",
-            "sha256": "3cd50022725870c49dbaf12e0591fc83105e34a77671ba0b0ab3b0dd4c43e861",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-blue-noon-above-the-cliffs",
-          "title": "Blue noon above the cliffs",
-          "alt": "Blue noon above the cliffs — oil landscape for The Way Around",
-          "source": "stories/the-way-around/art/landscapes/03-blue-noon-above-the-cliffs.png",
-          "sourceSha256": "d4a9523840aceee05e0b591a71aa5e3a1f9145eaf7b079e04f3696420979d5e1",
-          "full": {
-            "path": "landscapes/the-way-around/03-blue-noon-above-the-cliffs.webp",
-            "sha256": "140e873e1142e7c34b3bf716f913249738565a92adfe79541ecef111716a42b4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-way-around/03-blue-noon-above-the-cliffs-thumb.webp",
-            "sha256": "490401c7e4ea3d9c0e7d26184877d608b20a44b20e73820207f1a0cece78db50",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-predawn-at-the-sunken-entrance",
-          "title": "Predawn at the sunken entrance",
-          "alt": "Predawn at the sunken entrance — oil landscape for The Way Around",
-          "source": "stories/the-way-around/art/landscapes/04-predawn-at-the-sunken-entrance.png",
-          "sourceSha256": "e693b39a367ff1612f3aa2ed2e45d5982cd0cf6557ea49fb97fee6c311d40451",
-          "full": {
-            "path": "landscapes/the-way-around/04-predawn-at-the-sunken-entrance.webp",
-            "sha256": "1209bf41d1560724c8131228f260dd766c1a3aecca5755537a0b43772feecaab",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-way-around/04-predawn-at-the-sunken-entrance-thumb.webp",
-            "sha256": "5b61bb23bece33b18aec810571ea53f7d0a474f8be6aa81054626cc29dd38c2c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-bleached-desert",
-          "title": "The bleached desert",
-          "alt": "The bleached desert — oil landscape for The Way Around",
-          "source": "stories/the-way-around/art/landscapes/05-the-bleached-desert.png",
-          "sourceSha256": "3c4b5ac912beab508d1d8a6864f7cecd666a8264a493c6e22ae20cd4875f5ffa",
-          "full": {
-            "path": "landscapes/the-way-around/05-the-bleached-desert.webp",
-            "sha256": "15ea74cb9a4f69c6a880405e54947ea947c80e42dba9baf1b5971fc645ad5bdd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-way-around/05-the-bleached-desert-thumb.webp",
-            "sha256": "158b387bcb120bae4439880182266404efdadf5edc049e052b6627c2bc00caea",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12843,6 +12767,26 @@
       "source": "stories/the-warmest-person-in-the-room/art/landscapes/03-the-south-practice-court.png",
       "sourceSha256": "fa7a8f9bef3de1451920cf1690a85cbe9d64d8fc6757f3b0c28af9bfc5d8bcdf",
       "reason": "The frozen south court is a brief account of last winter's evacuation, not a scene visited during the present college tour."
+    },
+    {
+      "source": "stories/the-way-around/art/landscapes/02-the-dark-capstone.png",
+      "sourceSha256": "fc985acffbaebd4612e534bc147c65314d9e109f71a9b1a17e19b87feabedbd7",
+      "reason": "The dark cap is beside the narrow entrance, where Mazin sets the water and Tressa casts her shadow. This isolated slab on a high open canyon rim changes its geography."
+    },
+    {
+      "source": "stories/the-way-around/art/landscapes/03-blue-noon-above-the-cliffs.png",
+      "sourceSha256": "d4a9523840aceee05e0b591a71aa5e3a1f9145eaf7b079e04f3696420979d5e1",
+      "reason": "The source shows a hard blue strip from within the slot and a false-noon corridor inside the labyrinth. This broad aerial canyon view invents an exterior viewpoint."
+    },
+    {
+      "source": "stories/the-way-around/art/landscapes/04-predawn-at-the-sunken-entrance.png",
+      "sourceSha256": "e693b39a367ff1612f3aa2ed2e45d5982cd0cf6557ea49fb97fee6c311d40451",
+      "reason": "The escape is through the same half-sunken entrance in a sandstone slot. This high cliff doorway overlooking an open plain relocates the entrance."
+    },
+    {
+      "source": "stories/the-way-around/art/landscapes/05-the-bleached-desert.png",
+      "sourceSha256": "3c4b5ac912beab508d1d8a6864f7cecd666a8264a493c6e22ae20cd4875f5ffa",
+      "reason": "The ending emerges from the half-sunken slot entrance; this freestanding blocked dolmen in an open desert replaces that architecture and geography."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
