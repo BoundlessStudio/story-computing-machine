@@ -4279,108 +4279,6 @@
       ]
     },
     {
-      "slug": "the-kill-she-wouldnt-take",
-      "title": "The Kill She Wouldn't Take",
-      "reader": "stories/the-kill-she-wouldnt-take.html",
-      "images": [
-        {
-          "id": "01-grandfall-under-cyan-sky",
-          "title": "Grandfall under cyan sky",
-          "alt": "Grandfall under cyan sky — oil landscape for The Kill She Wouldn't Take",
-          "source": "stories/the-kill-she-wouldnt-take/art/landscapes/01-grandfall-under-cyan-sky.png",
-          "sourceSha256": "9705c016b356d62241b21e841eb4300ebc9387fef56c690680a3ed3c5e36aad4",
-          "full": {
-            "path": "landscapes/the-kill-she-wouldnt-take/01-grandfall-under-cyan-sky.webp",
-            "sha256": "10a8e74bb950a7561b323e808ccb895e92b3d5ae358ef7e91bd5ac169b491405",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kill-she-wouldnt-take/01-grandfall-under-cyan-sky-thumb.webp",
-            "sha256": "e3453dab22d402e68feeaeb2e3bfaa029e374b520b1c9e8ec8e8df78cf95f2cf",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-red-light-on-the-arena-rim",
-          "title": "Red light on the arena rim",
-          "alt": "Red light on the arena rim — oil landscape for The Kill She Wouldn't Take",
-          "source": "stories/the-kill-she-wouldnt-take/art/landscapes/02-red-light-on-the-arena-rim.png",
-          "sourceSha256": "86e7536872a873a535bc77186126c0344d3a319992e5b856811633d0d82f7895",
-          "full": {
-            "path": "landscapes/the-kill-she-wouldnt-take/02-red-light-on-the-arena-rim.webp",
-            "sha256": "eadaeb861cf0348e1177fe28bb7994dc1c0916ee8569fefbe5430459cff049b2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kill-she-wouldnt-take/02-red-light-on-the-arena-rim-thumb.webp",
-            "sha256": "5b47961a98ff71386d43ee5c6a26f528d541308314c0adaa2562b5c549ca1ed2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-grandfall-rooflines-at-dawn",
-          "title": "Grandfall rooflines at dawn",
-          "alt": "Grandfall rooflines at dawn — oil landscape for The Kill She Wouldn't Take",
-          "source": "stories/the-kill-she-wouldnt-take/art/landscapes/03-grandfall-rooflines-at-dawn.png",
-          "sourceSha256": "fd57083817ada27807e7ccc19a6c0988e04f2b1e7fc4184a3bc254128afcfeef",
-          "full": {
-            "path": "landscapes/the-kill-she-wouldnt-take/03-grandfall-rooflines-at-dawn.webp",
-            "sha256": "690b1aa9dbd16c29f539a26e7ac9a16c10db7b85f1709dd421edb5373bd83567",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kill-she-wouldnt-take/03-grandfall-rooflines-at-dawn-thumb.webp",
-            "sha256": "2829b3f8ce91e9c67b9518ec4e96f2526752a515b056f97eba939eb0504e9188",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-quiet-arena-approach",
-          "title": "The quiet arena approach",
-          "alt": "The quiet arena approach — oil landscape for The Kill She Wouldn't Take",
-          "source": "stories/the-kill-she-wouldnt-take/art/landscapes/04-the-quiet-arena-approach.png",
-          "sourceSha256": "49a578cea35dc7011de67488623dd7a4504ba48cb271034f33e620b98e4aa596",
-          "full": {
-            "path": "landscapes/the-kill-she-wouldnt-take/04-the-quiet-arena-approach.webp",
-            "sha256": "ca8a3dd535a7a2343e5bf61922dadc3696e318e19ce3d99ffaa3fa5a849cad13",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kill-she-wouldnt-take/04-the-quiet-arena-approach-thumb.webp",
-            "sha256": "43736cf1f07b1991e2caf7bf453f1f327471332901cd5dc05b3d118b117c7ac2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-cyan-and-red-evening",
-          "title": "Cyan and red evening",
-          "alt": "Cyan and red evening — oil landscape for The Kill She Wouldn't Take",
-          "source": "stories/the-kill-she-wouldnt-take/art/landscapes/05-cyan-and-red-evening.png",
-          "sourceSha256": "507aea61af2c26d525b6a27d3aaad776c33d80788654b57595c516e57715e07d",
-          "full": {
-            "path": "landscapes/the-kill-she-wouldnt-take/05-cyan-and-red-evening.webp",
-            "sha256": "80e9e0527ec0a6f70e20e95d0e0ceee3359ce887ad712f8a6b8370a56060302b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kill-she-wouldnt-take/05-cyan-and-red-evening-thumb.webp",
-            "sha256": "24d1eb3636e38b26f69168f49fb93f64c761ef0aa904cf70d8042774216ac751",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-kingdom-of-later",
       "title": "The Kingdom of Later",
       "reader": "stories/the-kingdom-of-later.html",
@@ -15143,6 +15041,31 @@
       "source": "stories/the-inheritance-remembers/art/landscapes/05-after-the-rain-closure.png",
       "sourceSha256": "227c4d7a1c700f70d2c105377198eb551f8eaf98ef4dcf3d21a29d174baa0950",
       "reason": "Invents a clearing sunset after the wet-line closure and repeats the culvert, changing its concrete geometry into a different pipe outlet."
+    },
+    {
+      "source": "stories/the-kill-she-wouldnt-take/art/landscapes/01-grandfall-under-cyan-sky.png",
+      "sourceSha256": "9705c016b356d62241b21e841eb4300ebc9387fef56c690680a3ed3c5e36aad4",
+      "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
+    },
+    {
+      "source": "stories/the-kill-she-wouldnt-take/art/landscapes/02-red-light-on-the-arena-rim.png",
+      "sourceSha256": "86e7536872a873a535bc77186126c0344d3a319992e5b856811633d0d82f7895",
+      "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
+    },
+    {
+      "source": "stories/the-kill-she-wouldnt-take/art/landscapes/03-grandfall-rooflines-at-dawn.png",
+      "sourceSha256": "fd57083817ada27807e7ccc19a6c0988e04f2b1e7fc4184a3bc254128afcfeef",
+      "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
+    },
+    {
+      "source": "stories/the-kill-she-wouldnt-take/art/landscapes/04-the-quiet-arena-approach.png",
+      "sourceSha256": "49a578cea35dc7011de67488623dd7a4504ba48cb271034f33e620b98e4aa596",
+      "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
+    },
+    {
+      "source": "stories/the-kill-she-wouldnt-take/art/landscapes/05-cyan-and-red-evening.png",
+      "sourceSha256": "507aea61af2c26d525b6a27d3aaad776c33d80788654b57595c516e57715e07d",
+      "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
