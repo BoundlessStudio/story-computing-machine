@@ -983,25 +983,6 @@
       "reader": "stories/the-bat-at-the-door.html",
       "images": [
         {
-          "id": "01-rain-above-the-lane",
-          "title": "Rain above the lane",
-          "alt": "Rain above the lane — oil landscape for By Wing and Welcome",
-          "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
-          "sourceSha256": "617f5a3071db8988dfb87a951935586eed68942e740c9141479326c861130e15",
-          "full": {
-            "path": "landscapes/the-bat-at-the-door/01-rain-above-the-lane.webp",
-            "sha256": "de0d1444c9afa3ba16590094c6f722a8af578261ed118ea3b4f887630d60d13c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bat-at-the-door/01-rain-above-the-lane-thumb.webp",
-            "sha256": "565f5402ec59110886d89ad4a0e5a43b4b8d248b9409919126c90974b40997c8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-lightning-over-the-road",
           "title": "Lightning over the road",
           "alt": "Lightning over the road — oil landscape for By Wing and Welcome",
@@ -1035,44 +1016,6 @@
           "thumbnail": {
             "path": "landscapes/the-bat-at-the-door/03-the-first-dry-step-thumb.webp",
             "sha256": "10386790db2d7c5583fb5c02ae7af8407779c6cd217201b9c18cec880eab737a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-school-field-at-dusk",
-          "title": "The school field at dusk",
-          "alt": "The school field at dusk — oil landscape for By Wing and Welcome",
-          "source": "stories/the-bat-at-the-door/art/landscapes/04-the-school-field-at-dusk.png",
-          "sourceSha256": "697738ed3cc534862fba0a5f1445948583e4d45310cc9dc7a2944bf2130b2b5e",
-          "full": {
-            "path": "landscapes/the-bat-at-the-door/04-the-school-field-at-dusk.webp",
-            "sha256": "567e7390d5760b7a02ee5c2ecbc6e8cc8811244f170fd9b6e5f8a7de7ab7fc4d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bat-at-the-door/04-the-school-field-at-dusk-thumb.webp",
-            "sha256": "ed9f42c245af033cc1962d2a83dcc5bc5705b9d33d90500c0b801ebade76ac71",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-clouds-beyond-the-garden",
-          "title": "Clouds beyond the garden",
-          "alt": "Clouds beyond the garden — oil landscape for By Wing and Welcome",
-          "source": "stories/the-bat-at-the-door/art/landscapes/05-clouds-beyond-the-garden.png",
-          "sourceSha256": "ff4f1a9f2b5de7e05462b0c674eaef93be4ee4f036ecfea0282d6cb6cade1da5",
-          "full": {
-            "path": "landscapes/the-bat-at-the-door/05-clouds-beyond-the-garden.webp",
-            "sha256": "bb5e10b095ef878f78eb609cf8e07a2e5c8ae4385e1bad2bda11a86d4bbf2b55",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-bat-at-the-door/05-clouds-beyond-the-garden-thumb.webp",
-            "sha256": "48986c3f0a6d91f37dd9d6f53a67866cf58215984e4e6d986aae42b8b103271c",
             "width": 480,
             "height": 320
           }
@@ -18203,6 +18146,21 @@
       "source": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
       "sourceSha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
       "reason": "A redundant third canopy/fern garden view after the retained planter wall and shade bed. The ending returns to the same test field, not another garden location."
+    },
+    {
+      "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
+      "sourceSha256": "617f5a3071db8988dfb87a951935586eed68942e740c9141479326c861130e15",
+      "reason": "Another wet-lane view duplicates the retained lightning-over-road scene without a different source location or state."
+    },
+    {
+      "source": "stories/the-bat-at-the-door/art/landscapes/04-the-school-field-at-dusk.png",
+      "sourceSha256": "697738ed3cc534862fba0a5f1445948583e4d45310cc9dc7a2944bf2130b2b5e",
+      "reason": "The school field is only part of Teyo's account of his accident twelve days before. No school-field scene occurs in the current indoor reunion."
+    },
+    {
+      "source": "stories/the-bat-at-the-door/art/landscapes/05-clouds-beyond-the-garden.png",
+      "sourceSha256": "ff4f1a9f2b5de7e05462b0c674eaef93be4ee4f036ecfea0282d6cb6cade1da5",
+      "reason": "No garden excursion or panoramic garden view occurs. This adds a third redundant storm exterior to the same house setting."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
