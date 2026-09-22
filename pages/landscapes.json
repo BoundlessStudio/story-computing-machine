@@ -3407,108 +3407,6 @@
       ]
     },
     {
-      "slug": "pool-sovereign",
-      "title": "The Deep End",
-      "reader": "stories/pool-sovereign.html",
-      "images": [
-        {
-          "id": "01-snow-around-the-pool",
-          "title": "Snow around the pool",
-          "alt": "Snow around the pool — oil landscape for The Deep End",
-          "source": "stories/pool-sovereign/art/landscapes/01-snow-around-the-pool.png",
-          "sourceSha256": "76a90c4d7840d2c7651fad627b365705ccf25c85277d31cff9542b98ad7a2914",
-          "full": {
-            "path": "landscapes/pool-sovereign/01-snow-around-the-pool.webp",
-            "sha256": "35ceae99998aa0ce312c8345fa726be8f99617bfbe997feea703c91d5d04e7c8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/pool-sovereign/01-snow-around-the-pool-thumb.webp",
-            "sha256": "b4a7e9c11151f9f9b50dccf9f9a59f66fa431c36904cbc8186b77b15e18cb63e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-coast-before-work",
-          "title": "The coast before work",
-          "alt": "The coast before work — oil landscape for The Deep End",
-          "source": "stories/pool-sovereign/art/landscapes/02-the-coast-before-work.png",
-          "sourceSha256": "16aab9fd0d9de705498574bc2d1c27280070531b4cb5e9a2c60edef0be4504c4",
-          "full": {
-            "path": "landscapes/pool-sovereign/02-the-coast-before-work.webp",
-            "sha256": "8ef3e4fc9aa467b24fe90801612b588ebd3092b3c91f52e1a679c82b84caccf1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/pool-sovereign/02-the-coast-before-work-thumb.webp",
-            "sha256": "1f8fd51529e6f6ae421c0b6c5b1c3e1c0fafad9b4079b6dbf0f5cd0b6eedcf9f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-rainy-concert-garden",
-          "title": "The rainy concert garden",
-          "alt": "The rainy concert garden — oil landscape for The Deep End",
-          "source": "stories/pool-sovereign/art/landscapes/03-the-rainy-concert-garden.png",
-          "sourceSha256": "6ec3f3ee917d1d9e698e91741d0706b1e42954c8559532d46d9164a63487832f",
-          "full": {
-            "path": "landscapes/pool-sovereign/03-the-rainy-concert-garden.webp",
-            "sha256": "bdd33f1a472dfbdf8190b6c09925875e6a055c4398f7eccde50e94619793d44b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/pool-sovereign/03-the-rainy-concert-garden-thumb.webp",
-            "sha256": "319b4f0e8b380297a948169da57251bbe6758c27d85933cb2579d19f37dd9272",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-schoolroom-apple-trees",
-          "title": "Schoolroom apple trees",
-          "alt": "Schoolroom apple trees — oil landscape for The Deep End",
-          "source": "stories/pool-sovereign/art/landscapes/04-schoolroom-apple-trees.png",
-          "sourceSha256": "65ffab60c6af50e8a23c754d6b0f06ad4dd7adbb2927e072d755b50036d6f7ee",
-          "full": {
-            "path": "landscapes/pool-sovereign/04-schoolroom-apple-trees.webp",
-            "sha256": "dea74f1148c5d1693aacb93bc2505a688de00b9eaf1f673391264507ba92ca49",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/pool-sovereign/04-schoolroom-apple-trees-thumb.webp",
-            "sha256": "348ecf5dcec64936f5eabd35932847b656b52e31d03a67f75384b50943489233",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-another-winter-morning",
-          "title": "Another winter morning",
-          "alt": "Another winter morning — oil landscape for The Deep End",
-          "source": "stories/pool-sovereign/art/landscapes/05-another-winter-morning.png",
-          "sourceSha256": "7af73f234bb5ea1f93547fa74b5314dd6558965f92df24339d0851b750cf8850",
-          "full": {
-            "path": "landscapes/pool-sovereign/05-another-winter-morning.webp",
-            "sha256": "230dea9552426180450899f75c5a76b93fa218fe7377f23a9a7274dd362a152c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/pool-sovereign/05-another-winter-morning-thumb.webp",
-            "sha256": "63a1242206a3011614d0730c477a0cc707e1a487865429e0457ea0c3b05a3ad5",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-door-in-the-ivy",
       "title": "The Door in the Ivy",
       "reader": "stories/the-door-in-the-ivy.html",
@@ -15683,6 +15581,31 @@
       "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
       "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
       "reason": "The river crossing is a future point where the twins will separate, not a setting reached in the story."
+    },
+    {
+      "source": "stories/pool-sovereign/art/landscapes/01-snow-around-the-pool.png",
+      "sourceSha256": "76a90c4d7840d2c7651fad627b365705ccf25c85277d31cff9542b98ad7a2914",
+      "reason": "Moves the indoor pool's winter view up through its glass roof to an invented snowy garden outside."
+    },
+    {
+      "source": "stories/pool-sovereign/art/landscapes/02-the-coast-before-work.png",
+      "sourceSha256": "16aab9fd0d9de705498574bc2d1c27280070531b4cb5e9a2c60edef0be4504c4",
+      "reason": "The coast is Hewlin's previous seasonal workplace, not visited in this story."
+    },
+    {
+      "source": "stories/pool-sovereign/art/landscapes/03-the-rainy-concert-garden.png",
+      "sourceSha256": "6ec3f3ee917d1d9e698e91741d0706b1e42954c8559532d46d9164a63487832f",
+      "reason": "Expands a brief remembered ruined concert into a present scenic garden, omitting its defining concert/peacock details."
+    },
+    {
+      "source": "stories/pool-sovereign/art/landscapes/04-schoolroom-apple-trees.png",
+      "sourceSha256": "65ffab60c6af50e8a23c754d6b0f06ad4dd7adbb2927e072d755b50036d6f7ee",
+      "reason": "Turns a passing schoolroom memory during an indoor memorial reading into a separate orchard setting."
+    },
+    {
+      "source": "stories/pool-sovereign/art/landscapes/05-another-winter-morning.png",
+      "sourceSha256": "7af73f234bb5ea1f93547fa74b5314dd6558965f92df24339d0851b750cf8850",
+      "reason": "Repeats the unsupported snowy pool exterior and invents a later winter-morning scene."
     },
     {
       "source": "stories/realms/art/landscapes/02-the-white-road.png",
