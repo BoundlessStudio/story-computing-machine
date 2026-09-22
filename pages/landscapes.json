@@ -8329,6 +8329,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-the-temple-hills",
+          "title": "The temple hills",
+          "alt": "The temple hills — oil landscape for The Thread That Held",
+          "source": "stories/the-thread-that-held/art/landscapes/05-the-temple-hills.png",
+          "sourceSha256": "58d63cf5d1d9e026f86f703d91b93c4dd021cf4b63ec5691c472fc0dc45ffda1",
+          "full": {
+            "path": "landscapes/the-thread-that-held/05-the-temple-hills.webp",
+            "sha256": "2b4dfa71a39db3aa99954eb30cebf072115e4c2eae30d0d686cf8c9c8cabe4cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-thread-that-held/05-the-temple-hills-thumb.webp",
+            "sha256": "38530dd2a8592f77dca675bd5adfc4d7d4a0a7a99cb64d243dacf9e07eac47a6",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -12795,11 +12814,6 @@
       "source": "stories/the-thread-that-held/art/landscapes/04-barley-on-the-high-slopes.png",
       "sourceSha256": "71e82a37cba023909059a3fe2b2eb7a14556243862b9eb650ed48e30175401c8",
       "reason": "The high-slope barley variety is explicitly extinct. The lush growing fields turn a lament over its loss into a present landscape."
-    },
-    {
-      "source": "stories/the-thread-that-held/art/landscapes/05-the-temple-hills.png",
-      "sourceSha256": "58d63cf5d1d9e026f86f703d91b93c4dd021cf4b63ec5691c472fc0dc45ffda1",
-      "reason": "The temple and burial hills are discussed through petitions and divine protections, not shown as this exterior landscape."
     },
     {
       "source": "stories/the-trouble-with-tuesdays/art/landscapes/02-the-side-passage-in-rain.png",
