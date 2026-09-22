@@ -4230,63 +4230,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-storm-over-the-hall-roof",
-          "title": "Storm over the hall roof",
-          "alt": "Storm over the hall roof — oil landscape for The Hollow Cask",
-          "source": "stories/the-hollow-cask/art/landscapes/03-storm-over-the-hall-roof.png",
-          "sourceSha256": "672bc9377c605546dce6812d7c39ccc765677246b74238e1a3ce29179bc0fa6c",
-          "full": {
-            "path": "landscapes/the-hollow-cask/03-storm-over-the-hall-roof.webp",
-            "sha256": "8e29935350c3ae1ca9a7f8673aa99edc3ed2fa10b5db742ac0c69aaa1e18c73d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hollow-cask/03-storm-over-the-hall-roof-thumb.webp",
-            "sha256": "521b20d0dc87fab80df955c7b61033c2ad92209c6374455f329854c19a56ff30",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-wet-acreage-behind-the-cask",
-          "title": "Wet acreage behind the cask",
-          "alt": "Wet acreage behind the cask — oil landscape for The Hollow Cask",
-          "source": "stories/the-hollow-cask/art/landscapes/04-wet-acreage-behind-the-cask.png",
-          "sourceSha256": "84d0df544337fdbc51ffa53f3d880f255717a7dc8319f8f1533e40f2492b8667",
-          "full": {
-            "path": "landscapes/the-hollow-cask/04-wet-acreage-behind-the-cask.webp",
-            "sha256": "ae881368826656bbb0195bac9e4bd299af47b77fc87ab598f950d97b4e4b3536",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hollow-cask/04-wet-acreage-behind-the-cask-thumb.webp",
-            "sha256": "eb896c36cf2ec1dba0922218a3c46d5393b9978d4cf430beabac320d222c004a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-harvest-evening-outside",
-          "title": "Harvest evening outside",
-          "alt": "Harvest evening outside — oil landscape for The Hollow Cask",
-          "source": "stories/the-hollow-cask/art/landscapes/05-harvest-evening-outside.png",
-          "sourceSha256": "ed345d9e8e257ec4bb13966b21fb575caba8860e9151bf97198f81578d129763",
-          "full": {
-            "path": "landscapes/the-hollow-cask/05-harvest-evening-outside.webp",
-            "sha256": "96c140c92739c4f7ff498e99be2d92f638a5bf21af52d6d8913599696cad9b7e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hollow-cask/05-harvest-evening-outside-thumb.webp",
-            "sha256": "8a440d451495164fda00265e18db56df2b4947d4b1f0c4192ba1e3baf7eb03fd",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15217,6 +15160,21 @@
       "source": "stories/the-help-network/art/landscapes/05-the-closed-underpass.png",
       "sourceSha256": "7f2a6b6ea7f7bd827fa707df5751e17e33971a09e33fdad0f532ae8fd8782402",
       "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-hollow-cask/art/landscapes/03-storm-over-the-hall-roof.png",
+      "sourceSha256": "672bc9377c605546dce6812d7c39ccc765677246b74238e1a3ce29179bc0fa6c",
+      "reason": "Repeats the hall and wet weather already established in image 01; the distinct storm action concerns its interior gallery and supports, not another distant exterior."
+    },
+    {
+      "source": "stories/the-hollow-cask/art/landscapes/04-wet-acreage-behind-the-cask.png",
+      "sourceSha256": "84d0df544337fdbc51ffa53f3d880f255717a7dc8319f8f1533e40f2492b8667",
+      "reason": "The acreage is mentioned only as an asset Agnes could sell; this adds another hall exterior without an enacted scene."
+    },
+    {
+      "source": "stories/the-hollow-cask/art/landscapes/05-harvest-evening-outside.png",
+      "sourceSha256": "ed345d9e8e257ec4bb13966b21fb575caba8860e9151bf97198f81578d129763",
+      "reason": "Shows a clear sunset and a timber-sided hall, conflicting with the rain at the harvest opening and the established stone building."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
