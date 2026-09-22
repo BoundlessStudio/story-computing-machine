@@ -8992,6 +8992,39 @@
       ]
     },
     {
+      "slug": "the-thirteenth-command",
+      "title": "The Thirteenth Command",
+      "reader": "stories/the-thirteenth-command.html",
+      "images": [
+        {
+          "id": "01-copperwell-before-dawn",
+          "title": "Copperwell before dawn",
+          "alt": "Copperwell before dawn — oil landscape for The Thirteenth Command",
+          "source": "pages/landscape-replacements/the-thirteenth-command/01-copperwell-before-dawn.png",
+          "sourceSha256": "3df06d8a50a50bc9d18a60c704a44c292f7f3b3b6fc0e6c9c88abf00e4d321cf",
+          "full": {
+            "path": "landscapes/the-thirteenth-command/01-copperwell-before-dawn-3df06d8a50a50bc9.webp",
+            "sha256": "f8547377cc65354d90f32dcf3de48f479452b6216408b96279689e8e42385380",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-thirteenth-command/01-copperwell-before-dawn-3df06d8a50a50bc9-thumb.webp",
+            "sha256": "c2709eb032711e14ebc3549e42a3fca3259e2569e432eaac42e05beefe053ad2",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-thirteenth-command/art/landscapes/01-copperwell-before-dawn.png",
+            "originalSha256": "446f396240f779cb758d1927b1e17e52d07e882e99f08ea30e7dd89037ea620d",
+            "correction": "The opening is inside the cistern command gallery, not an outdoor panorama of a walled reservoir at dawn.",
+            "prompt": "Repaint reference 2 as a Canadian Group of Seven inspired oil environment study, 1536x1024. Reference 1 provides the ORIGINAL STYLE: bold masses, broken bristle-brush strokes, restrained ochre/slate color and strong rhythmic shapes. Reference 2 provides the correct CONTENT only; its meticulous architecture and machinery look too much like a 3D game environment.\n\nThe scene is fully INDOORS in Copperwell's cistern command gallery before dawn: massive stone vault and piers above a dark water basin, narrow raised maintenance walkway with iron railing, large pipes and valve wheels, steep service stair, inactive dark old glass dispatch board and a paper chart on a work bench. Keep the board, valves and chart at left, arches and dark contained water at right. Small warm work lamps are the only local light; no outdoor skyline, reservoir panorama or sunrise. No people and no glowing digital interface.\n\nInterpret this industrial space with the Group of Seven's strong simplification and painterly structure. Stone vaults become broad blue-gray and ochre arches, pipes and rails bold near-black strokes, water a few long muted slate bands. The dead board is one smoky rectangle with only a few simple diagram lines, the chart a flat ochre patch with sparse marks. Group masonry instead of drawing each block. Use vigorous visible brushwork to create every surface; edges can be expressive and slightly flattened while spatial relationships remain clear. Suppress individual bolts, perfect shine, fine cobbles, sharp chrome, 3D modeling, lens effects and repetitive decorative impasto. Oil painting first, machinery legible through economical shapes. No readable text, signature or border.",
+            "generator": "image_gen"
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-thousandth-fall",
       "title": "The Thousandth Fall",
       "reader": "stories/the-thousandth-fall.html",
