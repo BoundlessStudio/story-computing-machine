@@ -1218,6 +1218,70 @@
       ]
     },
     {
+      "slug": "coiled-together",
+      "title": "Coiled Together",
+      "reader": "stories/coiled-together.html",
+      "images": [
+        {
+          "id": "01-lamplit-crown-ledge",
+          "title": "Lamplit crown ledge",
+          "alt": "Lamplit crown ledge — oil interior study for Coiled Together",
+          "source": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "sourceSha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+          "full": {
+            "path": "interiors/coiled-together/01-lamplit-crown-ledge-008061fac9aefa7f.webp",
+            "sha256": "d1f2f252ecbd6989c9132f783c1b9f9031e6ecd6cd36532b91580bf8594af915",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/coiled-together/01-lamplit-crown-ledge-008061fac9aefa7f-thumb.webp",
+            "sha256": "1a49c0d21aea97f2b106a09befa4cdcf00bfba2d07cc7690d0f5963ea947cb91",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-signal-fissure-and-chimney",
+          "title": "Signal fissure and chimney",
+          "alt": "Signal fissure and chimney — oil interior study for Coiled Together",
+          "source": "stories/coiled-together/art/interiors/02-signal-fissure-and-chimney.png",
+          "sourceSha256": "ef8bd1f2b22d202c9631d757efe91e88de0d8b6024d695750c1ddd29cc309e75",
+          "full": {
+            "path": "interiors/coiled-together/02-signal-fissure-and-chimney-ef8bd1f2b22d202c.webp",
+            "sha256": "d3ac97b641b7549cfd06ff928d1b8a0ee36f86b7f1ffdb21b5c17fcc8222e7c0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/coiled-together/02-signal-fissure-and-chimney-ef8bd1f2b22d202c-thumb.webp",
+            "sha256": "73d30e733d15b02dbf03cd00a4937a77ee8f32fa03dda2fe8e9bf25ecf398bcd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-private-cave-niche",
+          "title": "Private cave niche",
+          "alt": "Private cave niche — oil interior study for Coiled Together",
+          "source": "stories/coiled-together/art/interiors/03-private-cave-niche.png",
+          "sourceSha256": "790358db0fca8ffcf3c6361e1c85b99f5a777837409d1fd8a98a0cb60789b2a3",
+          "full": {
+            "path": "interiors/coiled-together/03-private-cave-niche-790358db0fca8ffc.webp",
+            "sha256": "1b61685d1aa54f22f921835666041e3dc0e6f391e2b01d86fb75aeb2cef15363",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/coiled-together/03-private-cave-niche-790358db0fca8ffc-thumb.webp",
+            "sha256": "bd9f160ff78c3a5931fee4c798f5b1065d9a173153468812e2515b8d0b83baa1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "captive-couples",
       "title": "Held Together",
       "reader": "stories/captive-couples.html",
@@ -1531,6 +1595,70 @@
           "thumbnail": {
             "path": "interiors/apes-in-orbit/03-defence-control-rail-a06f129352b8fafc-thumb.webp",
             "sha256": "32c995d82a7ca4988d9535161008d9c90530e763de8a074183fb1e3c8f28d927",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "blade-calls-your-name",
+      "title": "The Blade Calls Your Name",
+      "reader": "stories/blade-calls-your-name.html",
+      "images": [
+        {
+          "id": "01-chainwrights-guild-hall",
+          "title": "Chainwrights guild hall",
+          "alt": "Chainwrights guild hall — oil interior study for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/interiors/01-chainwrights-guild-hall.png",
+          "sourceSha256": "33126e1cea4b55bc7964d50b443fb4ed57b2a2c3f9bfd424b4b3cab10729bb44",
+          "full": {
+            "path": "interiors/blade-calls-your-name/01-chainwrights-guild-hall-33126e1cea4b55bc.webp",
+            "sha256": "1912903adc2ebadef3d6e90257d86e11b2b7b271602e2d3eba77cfd7ebc7da1e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/blade-calls-your-name/01-chainwrights-guild-hall-33126e1cea4b55bc-thumb.webp",
+            "sha256": "60db87ebbc1641f385681a39a64f10374aa46aa3994aa94c7abce8e6a49d7fb8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-west-nine-anchor-chamber",
+          "title": "West nine anchor chamber",
+          "alt": "West nine anchor chamber — oil interior study for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+          "sourceSha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "full": {
+            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-9e9b324dd74c6efc.webp",
+            "sha256": "1c66aac790f66c6cdf146ce5c9123e562fe701cfb2d861fee975bf13268bf69b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-9e9b324dd74c6efc-thumb.webp",
+            "sha256": "71a9bd72a30e0baec3f8117bc85bcfda105ce13c01e5fd8a172aa7568b2748ac",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-comb-and-service-trestles",
+          "title": "Comb and service trestles",
+          "alt": "Comb and service trestles — oil interior study for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
+          "sourceSha256": "7ce1fac9270c6addfd82e51627b83f1953ce08e1fef68c8e97bc38302703428c",
+          "full": {
+            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add.webp",
+            "sha256": "698bc4d5321703df38e7dc01d077a8feeca581df0112aa6f630d76f50ab274d2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add-thumb.webp",
+            "sha256": "610673f138bef4ee159d1caf1f629e6ebce918a84716ed2e07472002a3a980c1",
             "width": 480,
             "height": 320
           }
