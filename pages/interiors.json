@@ -3202,6 +3202,70 @@
       ]
     },
     {
+      "slug": "the-attendance-ledger",
+      "title": "The Attendance Ledger",
+      "reader": "stories/the-attendance-ledger.html",
+      "images": [
+        {
+          "id": "01-northbridge-science-lab",
+          "title": "Northbridge science lab",
+          "alt": "Northbridge science lab — oil interior study for The Attendance Ledger",
+          "source": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "sourceSha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "full": {
+            "path": "interiors/the-attendance-ledger/01-northbridge-science-lab-2d20d5b6f575f42b.webp",
+            "sha256": "4f7ffc502e7f3b0ef0145c4c36dbc2333cdfec76c6caaff427ac04630903ee1b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-attendance-ledger/01-northbridge-science-lab-2d20d5b6f575f42b-thumb.webp",
+            "sha256": "3b3e9e3889efe3b55fc2ffff23be38f6a6e1d2449e275c3079226a88ed4b5011",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-school-showcase-auditorium",
+          "title": "School showcase auditorium",
+          "alt": "School showcase auditorium — oil interior study for The Attendance Ledger",
+          "source": "stories/the-attendance-ledger/art/interiors/02-school-showcase-auditorium.png",
+          "sourceSha256": "4d95a833112802b8478cc6073e30d21e960c97799330e68f829cc66c5b03fc2c",
+          "full": {
+            "path": "interiors/the-attendance-ledger/02-school-showcase-auditorium-4d95a833112802b8.webp",
+            "sha256": "a87040c24257d25204a16c1ca435aca9a7ffc10830fd79e4fa0066bbdb886e78",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-attendance-ledger/02-school-showcase-auditorium-4d95a833112802b8-thumb.webp",
+            "sha256": "c8dc6d8c9577957150ed4efd43106d5bc26939e263b2e829e55a658e9b8f0326",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-amber-service-corridor",
+          "title": "Amber service corridor",
+          "alt": "Amber service corridor — oil interior study for The Attendance Ledger",
+          "source": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "sourceSha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "full": {
+            "path": "interiors/the-attendance-ledger/03-amber-service-corridor-d12cfdc83d422d93.webp",
+            "sha256": "f28b2becb0b92e9510a51e3147ccceff16c66697a9a060a972e3e4623a0df251",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-attendance-ledger/03-amber-service-corridor-d12cfdc83d422d93-thumb.webp",
+            "sha256": "95787041c7013a5dcc094ac436f184d8506b4b3d56d92c4112ab40468a13c3fe",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "saint-and-demon",
       "title": "The Beloved World",
       "reader": "stories/saint-and-demon.html",
@@ -3323,6 +3387,70 @@
           "thumbnail": {
             "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add-thumb.webp",
             "sha256": "610673f138bef4ee159d1caf1f629e6ebce918a84716ed2e07472002a3a980c1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-bride-who-came-back",
+      "title": "The Bride Who Came Back",
+      "reader": "stories/the-bride-who-came-back.html",
+      "images": [
+        {
+          "id": "01-the-lower-guardroom",
+          "title": "The lower guardroom",
+          "alt": "The lower guardroom — oil interior study for The Bride Who Came Back",
+          "source": "stories/the-bride-who-came-back/art/interiors/01-the-lower-guardroom.png",
+          "sourceSha256": "4d3878706f785f0bdc1384373f40f245275f3aeb5f04e53d7d5a804896c6123c",
+          "full": {
+            "path": "interiors/the-bride-who-came-back/01-the-lower-guardroom-4d3878706f785f0b.webp",
+            "sha256": "65ebb0ff978c7bd03832ef6aaec7fc6707d2fb2541975f406e0f94cb5fe27f5c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bride-who-came-back/01-the-lower-guardroom-4d3878706f785f0b-thumb.webp",
+            "sha256": "ce90f6d4e3f9062cc7996205dab071b3c2cc2d6ba420e43a688b6a146ef4d2e6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-healers-screen-in-the-guardroom",
+          "title": "Healers screen in the guardroom",
+          "alt": "Healers screen in the guardroom — oil interior study for The Bride Who Came Back",
+          "source": "stories/the-bride-who-came-back/art/interiors/02-healers-screen-in-the-guardroom.png",
+          "sourceSha256": "8215e848ea85a76e1bb7fab36ae93a22d2d80d150b62d7dfb6fc34f720a511a9",
+          "full": {
+            "path": "interiors/the-bride-who-came-back/02-healers-screen-in-the-guardroom-8215e848ea85a76e.webp",
+            "sha256": "22381b4b94efe54b1fda7ed835888c2049298aaa3078d04ed3dbeb2c25074e54",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bride-who-came-back/02-healers-screen-in-the-guardroom-8215e848ea85a76e-thumb.webp",
+            "sha256": "2a46ddc5aefa9661c73929a3b785f940dd9751edb1d14ab06810cd8d10d5bde2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-marzena-bedroom",
+          "title": "Marzena bedroom",
+          "alt": "Marzena bedroom — oil interior study for The Bride Who Came Back",
+          "source": "stories/the-bride-who-came-back/art/interiors/03-marzena-bedroom.png",
+          "sourceSha256": "b2635a2f5cd2d25c63e53074cc400999e6132ed1615078a31c80024feb97dd9e",
+          "full": {
+            "path": "interiors/the-bride-who-came-back/03-marzena-bedroom-b2635a2f5cd2d25c.webp",
+            "sha256": "18709abb0c24cc64db29daea349b9ddb044c78df7791c7dd950dea99268bf72d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bride-who-came-back/03-marzena-bedroom-b2635a2f5cd2d25c-thumb.webp",
+            "sha256": "95f2f9be7f0db9db8757e1e8672ed9fa33df22d959778a2caae99a1d35271260",
             "width": 480,
             "height": 320
           }
