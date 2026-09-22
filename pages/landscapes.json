@@ -1488,63 +1488,6 @@
           }
         },
         {
-          "id": "02-barley-above-the-track",
-          "title": "Barley above the track",
-          "alt": "Barley above the track — oil landscape for Late for Dinner",
-          "source": "stories/late-for-dinner/art/landscapes/02-barley-above-the-track.png",
-          "sourceSha256": "f534f6caa771b01d58fd997ccdb7a71cccdf7435fcae0afd5b012658c2e01a23",
-          "full": {
-            "path": "landscapes/late-for-dinner/02-barley-above-the-track.webp",
-            "sha256": "0c7067f9da0dd4a2edc4a8841213f29b3109daa027b29f9d335f3b3579fb7cc3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/late-for-dinner/02-barley-above-the-track-thumb.webp",
-            "sha256": "5808cc18b7316139cef6b1b4b3b0e61615af22025f420e17ddae57b645bbe22b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-smoke-on-the-western-road",
-          "title": "Smoke on the western road",
-          "alt": "Smoke on the western road — oil landscape for Late for Dinner",
-          "source": "stories/late-for-dinner/art/landscapes/03-smoke-on-the-western-road.png",
-          "sourceSha256": "545c996bdbbb1dd99f723535e6460545600b99c2a067b3d16528e6e5af9f78a1",
-          "full": {
-            "path": "landscapes/late-for-dinner/03-smoke-on-the-western-road.webp",
-            "sha256": "1d44749be587d625056c370ae553353005d1d2762882d36b1479202641b5c355",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/late-for-dinner/03-smoke-on-the-western-road-thumb.webp",
-            "sha256": "248264060d6c7caf9cfca18b9f8cf7d6f9aaecb1932b8453ad00fc10bf1dec54",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-sunset-over-the-eastern-rim",
-          "title": "Sunset over the eastern rim",
-          "alt": "Sunset over the eastern rim — oil landscape for Late for Dinner",
-          "source": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
-          "sourceSha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
-          "full": {
-            "path": "landscapes/late-for-dinner/04-sunset-over-the-eastern-rim.webp",
-            "sha256": "22f01e440e0a2f0a2d3b20105d53e5d9ace857b137664bf55f09fdbb70a242cc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/late-for-dinner/04-sunset-over-the-eastern-rim-thumb.webp",
-            "sha256": "9ccd9686139a29f758b8c3a231bd11ab37397d6c2d109208a8a7e7639c4f095b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-night-around-juniper-house",
           "title": "Night around juniper house",
           "alt": "Night around juniper house — oil landscape for Late for Dinner",
@@ -17697,6 +17640,21 @@
       "source": "stories/kite-letters-below/art/landscapes/05-until-the-ground-shines.png",
       "sourceSha256": "4f5e66ad6a4d31d124a4448823bbaf9e1ee33bac8c300cea0b594fe9bc68cf73",
       "reason": "A second near-identical orbital planet view adds no distinct location or visible signal state beyond the retained world-below image."
+    },
+    {
+      "source": "stories/late-for-dinner/art/landscapes/02-barley-above-the-track.png",
+      "sourceSha256": "f534f6caa771b01d58fd997ccdb7a71cccdf7435fcae0afd5b012658c2e01a23",
+      "reason": "Adds a second substantially repetitive view of the same chalk track and barley, without a distinct story setting or changed state."
+    },
+    {
+      "source": "stories/late-for-dinner/art/landscapes/03-smoke-on-the-western-road.png",
+      "sourceSha256": "545c996bdbbb1dd99f723535e6460545600b99c2a067b3d16528e6e5af9f78a1",
+      "reason": "Invents a forked scenic road around the brief recollection of smoke seen earlier at a crossroads; adds filler countryside to the cutting and house sequence."
+    },
+    {
+      "source": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+      "sourceSha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+      "reason": "Turns a shallow, climbable chalk cutting into an enormous rocky canyon. The sunset crosses the cutting bank, not a distant canyon rim."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
