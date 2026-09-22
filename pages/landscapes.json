@@ -7700,6 +7700,32 @@
       ]
     },
     {
+      "slug": "the-sister-behind-her-smile",
+      "title": "The Sister Behind Her Smile",
+      "reader": "stories/the-sister-behind-her-smile.html",
+      "images": [
+        {
+          "id": "02-the-canal-quarter",
+          "title": "The canal quarter",
+          "alt": "The canal quarter — oil landscape for The Sister Behind Her Smile",
+          "source": "stories/the-sister-behind-her-smile/art/landscapes/02-the-canal-quarter.png",
+          "sourceSha256": "dec05269ff26d9e2543f07a7740a690f409d7296d6b4204c56921f11f192c6d3",
+          "full": {
+            "path": "landscapes/the-sister-behind-her-smile/02-the-canal-quarter.webp",
+            "sha256": "d8aca38ec083186e15e12ca9a13f740bed1932c9fa39660fd684d990501609ff",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-sister-behind-her-smile/02-the-canal-quarter-thumb.webp",
+            "sha256": "2bfe055e081f94fe99314f6454376b20430f0cfe8956e17f1b0ece36f3cf2675",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-sky-remembers-us-return",
       "title": "The Sky Remembers Us",
       "reader": "stories/the-sky-remembers-us-return.html",
@@ -12611,11 +12637,6 @@
     {
       "source": "stories/the-sister-behind-her-smile/art/landscapes/01-valsor-palace-at-supper.png",
       "sourceSha256": "c0fc9238e43f6377e6bfe70f434f892e633b5d9df7121cab67fb447a4421ece5",
-      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
-    },
-    {
-      "source": "stories/the-sister-behind-her-smile/art/landscapes/02-the-canal-quarter.png",
-      "sourceSha256": "dec05269ff26d9e2543f07a7740a690f409d7296d6b4204c56921f11f192c6d3",
       "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
     },
     {
