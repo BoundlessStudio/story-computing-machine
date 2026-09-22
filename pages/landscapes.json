@@ -4189,108 +4189,6 @@
       ]
     },
     {
-      "slug": "the-help-network",
-      "title": "The Help Network",
-      "reader": "stories/the-help-network.html",
-      "images": [
-        {
-          "id": "01-rail-yards-at-dusk",
-          "title": "Rail yards at dusk",
-          "alt": "Rail yards at dusk — oil landscape for The Help Network",
-          "source": "stories/the-help-network/art/landscapes/01-rail-yards-at-dusk.png",
-          "sourceSha256": "8400d798f6be9b11680a8932c9f1517a85b93f971edad9b3e5c6609e54a05740",
-          "full": {
-            "path": "landscapes/the-help-network/01-rail-yards-at-dusk.webp",
-            "sha256": "bb4eaff22cabfbecaa26c1ffe85feb8eb6d5afb0472c47d2a512d649bccd8a8c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-help-network/01-rail-yards-at-dusk-thumb.webp",
-            "sha256": "f3554dfae7d0edc3bb481c536557f38c2b2e9e80c90c0af2bdf4369098e284ff",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-river-side-wind",
-          "title": "River side wind",
-          "alt": "River side wind — oil landscape for The Help Network",
-          "source": "stories/the-help-network/art/landscapes/02-river-side-wind.png",
-          "sourceSha256": "415b6f513bfbc9974312b1657a33b920fb5819fdb6e052e77e3b22de6db1c90d",
-          "full": {
-            "path": "landscapes/the-help-network/02-river-side-wind.webp",
-            "sha256": "27af0bd450f1617c602b617967647532c9acc25baad5d79e4970d67e21ba0e5d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-help-network/02-river-side-wind-thumb.webp",
-            "sha256": "1b8ec87e383db68d28bc2129ef068d4cd8aff7683e8b6fc8b453adc29cee4cf8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-rooftop-sightlines",
-          "title": "Rooftop sightlines",
-          "alt": "Rooftop sightlines — oil landscape for The Help Network",
-          "source": "stories/the-help-network/art/landscapes/03-rooftop-sightlines.png",
-          "sourceSha256": "191320ac5f6a9aac3813badca77d4da73557c20a3c5505ac05435fd635d6abea",
-          "full": {
-            "path": "landscapes/the-help-network/03-rooftop-sightlines.webp",
-            "sha256": "b37f79004c4fc2cfcec78b5e882973ff9bfd0c11156ac67b972ffacf25b436b1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-help-network/03-rooftop-sightlines-thumb.webp",
-            "sha256": "ff99e95b016ae7af8d2e62adfa9515f5bdb80f16ca5df4f13481a1cb29357094",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-northbridge-school-loop",
-          "title": "Northbridge school loop",
-          "alt": "Northbridge school loop — oil landscape for The Help Network",
-          "source": "stories/the-help-network/art/landscapes/04-northbridge-school-loop.png",
-          "sourceSha256": "d9a50d93396c021917322517f2ab344cff3ddaef0a4c9df45db0b743100e1f64",
-          "full": {
-            "path": "landscapes/the-help-network/04-northbridge-school-loop.webp",
-            "sha256": "26075efc0823495bd5915529af5c778138bdf01553eb88dfe287665a9a28839d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-help-network/04-northbridge-school-loop-thumb.webp",
-            "sha256": "0a7d1d43ad4c5684ee53475d595a65e93f6b8c86cb92bee74857d7d985dcaa66",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-closed-underpass",
-          "title": "The closed underpass",
-          "alt": "The closed underpass — oil landscape for The Help Network",
-          "source": "stories/the-help-network/art/landscapes/05-the-closed-underpass.png",
-          "sourceSha256": "7f2a6b6ea7f7bd827fa707df5751e17e33971a09e33fdad0f532ae8fd8782402",
-          "full": {
-            "path": "landscapes/the-help-network/05-the-closed-underpass.webp",
-            "sha256": "5f8932e6928283cbe9f53579707da85b1ec671b3a0c845acc96b986025e50e2a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-help-network/05-the-closed-underpass-thumb.webp",
-            "sha256": "f24bf8a73b50fcf9e795eafe91d2831fbe227ce23192c6e4cb516b1ca35e7031",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-hollow-cask",
       "title": "The Hollow Cask",
       "reader": "stories/the-hollow-cask.html",
@@ -15294,6 +15192,31 @@
       "source": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
       "sourceSha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
       "reason": "Repeats the tournament setting already represented in image 01 and adds enclosing rails to a platform with exposed edges and marshals catching falls."
+    },
+    {
+      "source": "stories/the-help-network/art/landscapes/01-rail-yards-at-dusk.png",
+      "sourceSha256": "8400d798f6be9b11680a8932c9f1517a85b93f971edad9b3e5c6609e54a05740",
+      "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-help-network/art/landscapes/02-river-side-wind.png",
+      "sourceSha256": "415b6f513bfbc9974312b1657a33b920fb5819fdb6e052e77e3b22de6db1c90d",
+      "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-help-network/art/landscapes/03-rooftop-sightlines.png",
+      "sourceSha256": "191320ac5f6a9aac3813badca77d4da73557c20a3c5505ac05435fd635d6abea",
+      "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-help-network/art/landscapes/04-northbridge-school-loop.png",
+      "sourceSha256": "d9a50d93396c021917322517f2ab344cff3ddaef0a4c9df45db0b743100e1f64",
+      "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-help-network/art/landscapes/05-the-closed-underpass.png",
+      "sourceSha256": "7f2a6b6ea7f7bd827fa707df5751e17e33971a09e33fdad0f532ae8fd8782402",
+      "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
