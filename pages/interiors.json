@@ -2434,6 +2434,70 @@
       ]
     },
     {
+      "slug": "save-that-dragon",
+      "title": "One Night's Mercy",
+      "reader": "stories/save-that-dragon.html",
+      "images": [
+        {
+          "id": "01-imers-forge",
+          "title": "Imers forge",
+          "alt": "Imers forge — oil interior study for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "sourceSha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "full": {
+            "path": "interiors/save-that-dragon/01-imers-forge-fc196869c3c5a577.webp",
+            "sha256": "09d9030b14ff8b9e2b5f2a6d7cc5f00c3df61e788d58449f6b16d6d5f80092dc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/save-that-dragon/01-imers-forge-fc196869c3c5a577-thumb.webp",
+            "sha256": "f1b2b0c00f0b88546aa35e89fd178c1ace3aa20f41d6284e2a443f29cec7789d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-inspection-chute",
+          "title": "The inspection chute",
+          "alt": "The inspection chute — oil interior study for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/interiors/02-the-inspection-chute.png",
+          "sourceSha256": "26265079944477a8abf881e1a55edffcfdfe53174df2b08af40457ebd209a0dc",
+          "full": {
+            "path": "interiors/save-that-dragon/02-the-inspection-chute-26265079944477a8.webp",
+            "sha256": "768bf844afe4e5d172e3367b7712344ceae7a7cf6d904b3334802f46617ba73d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/save-that-dragon/02-the-inspection-chute-26265079944477a8-thumb.webp",
+            "sha256": "f3e67ead6512236936e43d3586a04b529331b7831cd506ffddd0f0455a005afa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-winch-shed",
+          "title": "The winch shed",
+          "alt": "The winch shed — oil interior study for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/interiors/03-the-winch-shed.png",
+          "sourceSha256": "550b9a6fa31f5333b248257f1d741a06fa9fc19dcceea4379e465873799d1e1d",
+          "full": {
+            "path": "interiors/save-that-dragon/03-the-winch-shed-550b9a6fa31f5333.webp",
+            "sha256": "339b1c0ae872fd703855e6cbcdd4fb2030916f6503e68b5ae1e6232e0c6c0ce9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/save-that-dragon/03-the-winch-shed-550b9a6fa31f5333-thumb.webp",
+            "sha256": "3de7a3f29dd7a2585a5b2941429cc7e8a83e8f789cde6ab0f7899fafcc3070b1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "only-eighteen",
       "title": "Only Eighteen",
       "reader": "stories/only-eighteen.html",
@@ -2619,6 +2683,70 @@
           "thumbnail": {
             "path": "interiors/roads-under-impossible-stars/03-foil-blanket-refuge-d42514f9566e5db9-thumb.webp",
             "sha256": "69cfa0eca2cb8b1832ec85cb2c99d7d0d32c7db85ef9cce3d642c4b032ec013b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "self-reflection",
+      "title": "Self-Reflection",
+      "reader": "stories/self-reflection.html",
+      "images": [
+        {
+          "id": "01-ninas-bedroom-at-dawn",
+          "title": "Ninas bedroom at dawn",
+          "alt": "Ninas bedroom at dawn — oil interior study for Self-Reflection",
+          "source": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "sourceSha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "full": {
+            "path": "interiors/self-reflection/01-ninas-bedroom-at-dawn-c5fdbd01496fdb71.webp",
+            "sha256": "e17e2144992f6872361bab0c08338352ca3eeabf94b08fbe463072f47401ae99",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/self-reflection/01-ninas-bedroom-at-dawn-c5fdbd01496fdb71-thumb.webp",
+            "sha256": "2c0279a7b1c25a3fbc9c9fe7f7d1074060f11a6cf80d2ea9945ad010115edfe0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-ordinary-bathroom-mirror",
+          "title": "Ordinary bathroom mirror",
+          "alt": "Ordinary bathroom mirror — oil interior study for Self-Reflection",
+          "source": "stories/self-reflection/art/interiors/02-ordinary-bathroom-mirror.png",
+          "sourceSha256": "2fc5d9c2256249a6ce7a45e3c71de0f5d19d747663388ce6a3fc693a1517d16b",
+          "full": {
+            "path": "interiors/self-reflection/02-ordinary-bathroom-mirror-2fc5d9c2256249a6.webp",
+            "sha256": "362e2aa16f6f2b27fec53440d69800f6f4b5d373ecad81d678b943ffe7288317",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/self-reflection/02-ordinary-bathroom-mirror-2fc5d9c2256249a6-thumb.webp",
+            "sha256": "255b751ac1b28593b5a1a96bb3a4542f98f39c736174390faf91553116922ff1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-family-kitchen-table",
+          "title": "Family kitchen table",
+          "alt": "Family kitchen table — oil interior study for Self-Reflection",
+          "source": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "sourceSha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "full": {
+            "path": "interiors/self-reflection/03-family-kitchen-table-ae4390c0783747ea.webp",
+            "sha256": "6f38acf68c0970813461ec0a67fb18a6f70e6eedd209a0a16022c225c762c370",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/self-reflection/03-family-kitchen-table-ae4390c0783747ea-thumb.webp",
+            "sha256": "d20429d84e0d82f43f861f4293d839b5d521db0e17108c4df58ec770093ee0b5",
             "width": 480,
             "height": 320
           }
