@@ -855,44 +855,6 @@
       "reader": "stories/between-the-colors.html",
       "images": [
         {
-          "id": "01-the-theatre-before",
-          "title": "The theatre before",
-          "alt": "The theatre before — oil landscape for Between the Colors",
-          "source": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
-          "sourceSha256": "66cb8f0c21d39138836e2b6acabc940c06819f4d50635e7e9aa2d59211b0a26b",
-          "full": {
-            "path": "landscapes/between-the-colors/01-the-theatre-before.webp",
-            "sha256": "1f3fb0c5d76f6cc565c2738be25853253711093943277c936d6d8b2048019e62",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/between-the-colors/01-the-theatre-before-thumb.webp",
-            "sha256": "1ddd898ed512e8944308fd0d1843809e3e287ba330c619f2c124fdd1625f1d86",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-smoke-over-the-roofs",
-          "title": "Smoke over the roofs",
-          "alt": "Smoke over the roofs — oil landscape for Between the Colors",
-          "source": "stories/between-the-colors/art/landscapes/02-smoke-over-the-roofs.png",
-          "sourceSha256": "f71ecc0dcbb32dad6ea0c6605a66034e73b081857d61b2ad602761975c9c21b4",
-          "full": {
-            "path": "landscapes/between-the-colors/02-smoke-over-the-roofs.webp",
-            "sha256": "125920cbec63002a7a312dcec3a5de6d785a75079cc11f276871e1d5da27d159",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/between-the-colors/02-smoke-over-the-roofs-thumb.webp",
-            "sha256": "f9ca27aae6e5cc0edc1f594643fe6f7a05eb896e9e8ef41ba8eaa38686408d06",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-daylight-through-the-shell",
           "title": "Daylight through the shell",
           "alt": "Daylight through the shell — oil landscape for Between the Colors",
@@ -926,25 +888,6 @@
           "thumbnail": {
             "path": "landscapes/between-the-colors/04-the-low-awning-thumb.webp",
             "sha256": "f1cd989fea884d5122e3d3dcd0b38ff43f2aff2cf8e9986a9800d48ae6af7a23",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-afternoon-beyond-the-fire",
-          "title": "Afternoon beyond the fire",
-          "alt": "Afternoon beyond the fire — oil landscape for Between the Colors",
-          "source": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
-          "sourceSha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
-          "full": {
-            "path": "landscapes/between-the-colors/05-afternoon-beyond-the-fire.webp",
-            "sha256": "9a7bc21e258ada0e61911781565f79cde858e994172363ca6d008183be1c51b3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/between-the-colors/05-afternoon-beyond-the-fire-thumb.webp",
-            "sha256": "3c3b7d43e35dd9e53a1d7576467b1b893133cbd669afc7d5b8eac8e3becb1714",
             "width": 480,
             "height": 320
           }
@@ -18214,6 +18157,21 @@
       "source": "stories/before-lunch/art/landscapes/05-shade-beyond-the-hotel.png",
       "sourceSha256": "a01e65dd015d0d1a07ea27303d66b3586f0810f7d2b6187d7b9bba8e98fe5b73",
       "reason": "No park or garden excursion beyond the hotel occurs. The source walks round a street corner; this shaded park is invented."
+    },
+    {
+      "source": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
+      "sourceSha256": "66cb8f0c21d39138836e2b6acabc940c06819f4d50635e7e9aa2d59211b0a26b",
+      "reason": "The distant white classical facade does not match the red-brick theatre shell in the retained collapse image, and the invented hilltop panorama is not the street-level approach."
+    },
+    {
+      "source": "stories/between-the-colors/art/landscapes/02-smoke-over-the-roofs.png",
+      "sourceSha256": "f71ecc0dcbb32dad6ea0c6605a66034e73b081857d61b2ad602761975c9c21b4",
+      "reason": "A second distant city panorama repeats the fire without a useful distinct setting; the retained shell shows the actual theatre damage more directly."
+    },
+    {
+      "source": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
+      "sourceSha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
+      "reason": "Adds an invented wide lakeside city panorama after the fire. The ending remains beside the theatre on the street, not at this remote viewpoint."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
