@@ -8962,6 +8962,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "03-rain-around-the-nine-channels",
+          "title": "Rain around the nine channels",
+          "alt": "Rain around the nine channels — oil landscape for The Tenth World Needs No Hero",
+          "source": "pages/landscape-replacements/tenth-world-lesson/03-rain-around-the-nine-channels.png",
+          "sourceSha256": "36dc9040bf9f6e3074f7035cfc08db1670caeaad863a118a6dd86d0eeb9dbd6e",
+          "full": {
+            "path": "landscapes/tenth-world-lesson/03-rain-around-the-nine-channels-36dc9040bf9f6e30.webp",
+            "sha256": "e36f349ea50625f61a049dc857be5a5a4a2bda014865be182dc0c15012475bf9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/tenth-world-lesson/03-rain-around-the-nine-channels-36dc9040bf9f6e30-thumb.webp",
+            "sha256": "5c85d1c352ccd8bd32257e0d79c63ba1118eb3b88a7a8e4d89e2dca80eab2024",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/tenth-world-lesson/art/landscapes/03-rain-around-the-nine-channels.png",
+            "originalSha256": "ae04c4b27414c2feb0f4a00f1f4d6abe28c74501fb81528783c21e3d4adbc0f5",
+            "correction": "The nine stations and conductor paths are on the tower floor around the engine. The painting replaces them with outdoor stone channels spread over an exposed hill beside a closed tower.",
+            "prompt": "Repaint this storm-engine environment as a Canadian Group of Seven inspired oil painting, 1536x1024. Reference 1 supplies the ORIGINAL COLLECTION STYLE: bold grouped shapes, broad rhythmic brushwork, storm-slate and ochre relationships. Reference 2 supplies the correct INSIDE-THE-TOWER content, but reject its tiny hardware, individual cobbles and realistic rendered surfaces.\n\nInside a tall stone tower open to wind and rain through broad arches, a massive black engine column with simple copper conduits rises three stories beyond the top of the view. Compose the column in the back-center of the interior, with EXACTLY NINE small low conductor stations visible across the broad wet floor in a spacious shallow horseshoe in front of and to either side of it. Nine separate squat rectangular housings, each with one upright copper vane and a distinct radial copper floor path towards the column. Arrange them so none hides behind the column and there are nine clearly countable stations; do not add other similar little boxes or extra vanes. No need for tiny hardware. A high oblique viewpoint shows the equipment layout clearly without turning it into a diagram. Masonry arches at sides and overhead frame glimpses of slate town roofs and violet rain outside. The apparatus and nine radial paths are inside on stone, never outdoors on a hillside.\n\nUse large, simplified interlocking dark and warm planes with energetic oil-brush edges. Column is a bold near-black mass with a handful of copper strokes; station silhouettes and nine broad paths are clear and spare. Walls and floor are grouped angular shapes, not individually drawn bricks or cobbles. Rain is directional painted streaks. Expressive, slightly flattened space, decisive contours, restrained detail and real painterly form rather than realistic rendering under an impasto filter. No people, labels, text, border, signature or glowing superhero.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
