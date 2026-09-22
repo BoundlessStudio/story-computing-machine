@@ -7868,44 +7868,6 @@
           }
         },
         {
-          "id": "03-blue-streamers-in-the-wind",
-          "title": "Blue streamers in the wind",
-          "alt": "Blue streamers in the wind — oil landscape for The Weight of Falling Up",
-          "source": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
-          "sourceSha256": "2ba83a44c521c7bcec01e08cfb442d5a76ce45777dd13b0e36de7395f7864913",
-          "full": {
-            "path": "landscapes/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind.webp",
-            "sha256": "24bf5da177d4c0904be18889fa710b9e285d0db3ceb5d3ed1cb17cbb928f8451",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind-thumb.webp",
-            "sha256": "ecba8f41f767a7ea8218ca65658e12d06b62a9baa163d2ff2a6b836d257e047d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-silver-bend-below",
-          "title": "The silver bend below",
-          "alt": "The silver bend below — oil landscape for The Weight of Falling Up",
-          "source": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/04-the-silver-bend-below.png",
-          "sourceSha256": "82743b79b8e59fa884fc5784067bd73e0b3e969e8e9e43ca2b3d891a7dc4febc",
-          "full": {
-            "path": "landscapes/the-weight-of-falling-up-rune-shoes/04-the-silver-bend-below.webp",
-            "sha256": "c3558b3abd4f2c0080e72b1984d09f2847ac9d32bbd4aacf1084ff24bd922f29",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-weight-of-falling-up-rune-shoes/04-the-silver-bend-below-thumb.webp",
-            "sha256": "71f215a7ad3a3f436ad5dd5c4458f66380a5783338af7b26772e68588b02cc5f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-quiet-landing-roof",
           "title": "The quiet landing roof",
           "alt": "The quiet landing roof — oil landscape for The Weight of Falling Up",
@@ -12787,6 +12749,16 @@
       "source": "stories/the-way-around/art/landscapes/05-the-bleached-desert.png",
       "sourceSha256": "3c4b5ac912beab508d1d8a6864f7cecd666a8264a493c6e22ae20cd4875f5ffa",
       "reason": "The ending emerges from the half-sunken slot entrance; this freestanding blocked dolmen in an open desert replaces that architecture and geography."
+    },
+    {
+      "source": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
+      "sourceSha256": "2ba83a44c521c7bcec01e08cfb442d5a76ce45777dd13b0e36de7395f7864913",
+      "reason": "The blue-streamer course is flown among high rooftops. The painting places its marker on a rocky, tree-covered hillside instead."
+    },
+    {
+      "source": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/04-the-silver-bend-below.png",
+      "sourceSha256": "82743b79b8e59fa884fc5784067bd73e0b3e969e8e9e43ca2b3d891a7dc4febc",
+      "reason": "Repeats the city and silver river bend already established in the retained Nine Eaves panorama without a distinct course location."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
