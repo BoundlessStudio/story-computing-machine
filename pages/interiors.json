@@ -6146,6 +6146,70 @@
       ]
     },
     {
+      "slug": "the-sky-remembers-us-return",
+      "title": "The Sky Remembers Us",
+      "reader": "stories/the-sky-remembers-us-return.html",
+      "images": [
+        {
+          "id": "01-keshens-sleeping-hollow",
+          "title": "Keshens sleeping hollow",
+          "alt": "Keshens sleeping hollow — oil interior study for The Sky Remembers Us",
+          "source": "stories/the-sky-remembers-us-return/art/interiors/01-keshens-sleeping-hollow.png",
+          "sourceSha256": "b5d21789d33fd2d4ce74f3f6dfd7375caca178ec4b01b76dd70dadae6736e432",
+          "full": {
+            "path": "interiors/the-sky-remembers-us-return/01-keshens-sleeping-hollow-b5d21789d33fd2d4.webp",
+            "sha256": "5f54f2cd01a91d06aecddaa4ced8d1e8f8ea219f0b644910ccce9bfcd262e4d0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sky-remembers-us-return/01-keshens-sleeping-hollow-b5d21789d33fd2d4-thumb.webp",
+            "sha256": "bfa453ad4cea141320b06b662fdbdc2e42900b4bac1342818fd78033b518101d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-restored-doorway",
+          "title": "The restored doorway",
+          "alt": "The restored doorway — oil interior study for The Sky Remembers Us",
+          "source": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
+          "sourceSha256": "c80e74ae1a8afd8d17ed2a17446da6261e6b4961435f315382069cc606daebc3",
+          "full": {
+            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c80e74ae1a8afd8d.webp",
+            "sha256": "271eeb30e1119d3663e569d37b36c869cf21819120df84c1430081c8c2825c84",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c80e74ae1a8afd8d-thumb.webp",
+            "sha256": "6d73ad8b62da24c54ee2a75679a39c4bade90c296ca4f6a16f0fcd1c200f2525",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-inward-room-after-sunrise",
+          "title": "The inward room after sunrise",
+          "alt": "The inward room after sunrise — oil interior study for The Sky Remembers Us",
+          "source": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
+          "sourceSha256": "533a57753cc207d62ba262fc88c1d6bb39a4eeffb0b66b7dc2dea6ff786742a3",
+          "full": {
+            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-533a57753cc207d6.webp",
+            "sha256": "5721dd8dbd4b18984606d6ba42d2ab9b432343b1fada58891f8964221ba60cb5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-533a57753cc207d6-thumb.webp",
+            "sha256": "e0a732b365311b59fa8523578fc4d73d9984726017f8d1d8c59ee1b3d276a85e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "strength-of-ten",
       "title": "The Strength of Ten",
       "reader": "stories/strength-of-ten.html",
@@ -6459,6 +6523,70 @@
           "thumbnail": {
             "path": "interiors/the-healers-measure/03-iron-bars-in-the-equipment-room-946b54a545d799c2-thumb.webp",
             "sha256": "e0cf08c0ab2d4266dae9ce5bf4d8005481eb99a160c20ac135f9edc598d85ce2",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "transitions-in-common",
+      "title": "Transitions in Common",
+      "reader": "stories/transitions-in-common.html",
+      "images": [
+        {
+          "id": "01-between-the-costume-screens",
+          "title": "Between the costume screens",
+          "alt": "Between the costume screens — oil interior study for Transitions in Common",
+          "source": "stories/transitions-in-common/art/interiors/01-between-the-costume-screens.png",
+          "sourceSha256": "d2eb4396bc16184778eea9b39ca9a9adbe19e13c7fd4d7fce735c4fb710ddf26",
+          "full": {
+            "path": "interiors/transitions-in-common/01-between-the-costume-screens-d2eb4396bc161847.webp",
+            "sha256": "c3dec7f23d8b57fcdd0e225d16d9953969c2ca447d3f597f7fba387b42d1e90f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/transitions-in-common/01-between-the-costume-screens-d2eb4396bc161847-thumb.webp",
+            "sha256": "66c29e8352d14d8cd286cff23a7188bc1a21f23972fabb445f27ad5c8ee94bac",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-secondhand-fitting-room",
+          "title": "The secondhand fitting room",
+          "alt": "The secondhand fitting room — oil interior study for Transitions in Common",
+          "source": "stories/transitions-in-common/art/interiors/02-the-secondhand-fitting-room.png",
+          "sourceSha256": "08f07537b1e8295511cdebf0095120356ca684a17f5a1e0ee44146a9443cae08",
+          "full": {
+            "path": "interiors/transitions-in-common/02-the-secondhand-fitting-room-08f07537b1e82955.webp",
+            "sha256": "5977946d47dc02bdef79b69eabd5c3f7b15b044018155b1ac035c205433e673d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/transitions-in-common/02-the-secondhand-fitting-room-08f07537b1e82955-thumb.webp",
+            "sha256": "bafa27f46b16fefcd4cc1c219a3427006d565362e7a8642fdf4db1e64634d598",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-portrait-corner",
+          "title": "The portrait corner",
+          "alt": "The portrait corner — oil interior study for Transitions in Common",
+          "source": "stories/transitions-in-common/art/interiors/03-the-portrait-corner.png",
+          "sourceSha256": "34d416b2937beda0dfdbcf7c1542a742903371215803262bc68ad69a5a1169e8",
+          "full": {
+            "path": "interiors/transitions-in-common/03-the-portrait-corner-34d416b2937beda0.webp",
+            "sha256": "0a332d5962709914af7b183140f9da60b655248c7f826f4606c801dfb114dde3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/transitions-in-common/03-the-portrait-corner-34d416b2937beda0-thumb.webp",
+            "sha256": "3a051e3e0b3577400feef346e725b7c2de5d01f7ae9d24067f3bb9815d3e1f33",
             "width": 480,
             "height": 320
           }
