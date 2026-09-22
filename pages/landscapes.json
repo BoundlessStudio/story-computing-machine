@@ -1381,6 +1381,32 @@
           }
         },
         {
+          "id": "02-the-long-mild-slope",
+          "title": "The long mild slope",
+          "alt": "The long mild slope — oil landscape for All the Ways They Knew Her",
+          "source": "pages/landscape-replacements/everyone-knows-her/02-the-long-mild-slope.png",
+          "sourceSha256": "3424fab28f8000663a86a5b9290b7359276c1f1952413213cc50bb8737bb17a8",
+          "full": {
+            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-3424fab28f800066.webp",
+            "sha256": "b85dd71237961db31da47b4d24d0d5d9302ff12d0f34d69ceb67bfb42bb66fbe",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-3424fab28f800066-thumb.webp",
+            "sha256": "0f7a92ee3f946521d45fe30ee99d4cc765c3cdd6e8632df05763cb5fb7350852",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/everyone-knows-her/art/landscapes/02-the-long-mild-slope.png",
+            "originalSha256": "49ec3982e9283417460b0df1f15a6cb7e0a2571793e1d5f0587ce77e36b6ea70",
+            "correction": "The long slope has tables pressing from both curbs and only a bicycle-width passage. This wide open road with no stalls gives materially wrong route geometry.",
+            "prompt": "Correct this existing oil landscape for All the Ways They Knew Her. Keep tactile thick palette-knife oil paint, summer park trees, overhead paper pennants, wide landscape format. Change the empty wide road into the actual crowded festival route: view from midway INSIDE the festival at walking-eye height, looking east down a LONG MILD SLOPE. Rows of food tables, craft stalls and awnings project out from both curbs, almost meeting in the middle, leaving only a very narrow bicycle-width strip of patched asphalt snaking between them. The passage should occupy no more than roughly a tenth of the road width. Fill both sides with a busy, diverse impressionistic crowd of visitors, vendors, parents and children, tiny loosely painted people for environmental scale, some stepping out of the narrow channel. Cooking smoke softens the middle distance and paper pennants hang overhead. Shallow gentle road gradient, not a steep hillside descent. Sunlit noon scene. Focus on the close pressure of tables and the thin winding path through the festival; crop out the reference's distracting distant lake panorama and broad open roadway. Distinct composition from the gate image: NO gateway or foreground gateposts, this is amid the stalls. No readable text, no border, no photorealism.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "04-the-service-verge",
           "title": "The service verge",
           "alt": "The service verge — oil landscape for All the Ways They Knew Her",
