@@ -1893,25 +1893,6 @@
       "reader": "stories/save-that-dragon.html",
       "images": [
         {
-          "id": "01-storm-over-the-forge-valley",
-          "title": "Storm over the forge valley",
-          "alt": "Storm over the forge valley — oil landscape for One Night's Mercy",
-          "source": "stories/save-that-dragon/art/landscapes/01-storm-over-the-forge-valley.png",
-          "sourceSha256": "25603e3b64274ea83710952646d6257d2f4c5e2ca6795e2f21ac3a9400322775",
-          "full": {
-            "path": "landscapes/save-that-dragon/01-storm-over-the-forge-valley.webp",
-            "sha256": "a3a2fd29c9198f852e4229da4b257aafcbaac2bf9c1eb76a9e77ff4c2abbacd3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/save-that-dragon/01-storm-over-the-forge-valley-thumb.webp",
-            "sha256": "644aaa595f319bb690ab65b0d27112f84be00a82d760953b2898ff29c88cbf65",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-flooded-lower-lane",
           "title": "The flooded lower lane",
           "alt": "The flooded lower lane — oil landscape for One Night's Mercy",
@@ -1945,25 +1926,6 @@
           "thumbnail": {
             "path": "landscapes/save-that-dragon/03-sheep-track-on-the-ridge-thumb.webp",
             "sha256": "da42eddf5eecefe345cb59915c26c547bc666145e4d4c2166e4f58efa535dae1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-three-pale-quarry-steps",
-          "title": "Three pale quarry steps",
-          "alt": "Three pale quarry steps — oil landscape for One Night's Mercy",
-          "source": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-          "sourceSha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
-          "full": {
-            "path": "landscapes/save-that-dragon/04-three-pale-quarry-steps.webp",
-            "sha256": "621c071d6fcba9545012d94c6c6ef48d81292a60baa99025389abc22124b3165",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/save-that-dragon/04-three-pale-quarry-steps-thumb.webp",
-            "sha256": "ff53cec9a16362bdbc76692c56392ae0d915e3f7d2a4e41c7fe304064a91ad20",
             "width": 480,
             "height": 320
           }
@@ -17179,6 +17141,16 @@
       "source": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
       "sourceSha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
       "reason": "Introduces a lake, mountainous horizon and steep-roofed monumental city inconsistent with the surrounding flat-roofed urban block; the retained dusk roof supplies the supported change of light."
+    },
+    {
+      "source": "stories/save-that-dragon/art/landscapes/01-storm-over-the-forge-valley.png",
+      "sourceSha256": "25603e3b64274ea83710952646d6257d2f4c5e2ca6795e2f21ac3a9400322775",
+      "reason": "Adds a second general flood-valley panorama when the specific flooded lane already represents the journey from the forge."
+    },
+    {
+      "source": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+      "sourceSha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+      "reason": "Renders the quarry as a closed circular pit with a flooded bottom. The dragon on the lowest shelf needs an open descending road to a valley lip, not a climb out of a deep enclosed bowl."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
