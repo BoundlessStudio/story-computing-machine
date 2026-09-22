@@ -758,25 +758,6 @@
           }
         },
         {
-          "id": "02-black-fire-fortress",
-          "title": "Black fire fortress",
-          "alt": "Black fire fortress — oil landscape for All Accounts Due",
-          "source": "stories/all-accounts-due/art/landscapes/02-black-fire-fortress.png",
-          "sourceSha256": "14eddf905177fc51dfc9ff71f7255e204d01bc14d68674d1d2eec992bb02d476",
-          "full": {
-            "path": "landscapes/all-accounts-due/02-black-fire-fortress.webp",
-            "sha256": "2e19185dc20e6ee617a1643a9b8c54afc4aae2dc572c73917e036d7d194ea756",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/all-accounts-due/02-black-fire-fortress-thumb.webp",
-            "sha256": "65aa25f4bb0ab04b5ab1a00263fb02509ad0a89422e743968836bbfffc2f64b8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-repeating-horizon",
           "title": "The repeating horizon",
           "alt": "The repeating horizon — oil landscape for All Accounts Due",
@@ -791,44 +772,6 @@
           "thumbnail": {
             "path": "landscapes/all-accounts-due/03-the-repeating-horizon-thumb.webp",
             "sha256": "647029f82ba3359e47e8084596ba3687aedcdae5af8ddf8f2c19c283684fee03",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-aurora-over-the-mountain",
-          "title": "Aurora over the mountain",
-          "alt": "Aurora over the mountain — oil landscape for All Accounts Due",
-          "source": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
-          "sourceSha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
-          "full": {
-            "path": "landscapes/all-accounts-due/04-aurora-over-the-mountain.webp",
-            "sha256": "906c3c825e49c452cd8d72588cd9ad7a050ace7cbc7e590be1b9610b5d3b3058",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/all-accounts-due/04-aurora-over-the-mountain-thumb.webp",
-            "sha256": "0b225174d7950bfd89fe0c3139083af3c2777ed719aa28e48c28790fc1dbee91",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-when-the-horizons-straighten",
-          "title": "When the horizons straighten",
-          "alt": "When the horizons straighten — oil landscape for All Accounts Due",
-          "source": "stories/all-accounts-due/art/landscapes/05-when-the-horizons-straighten.png",
-          "sourceSha256": "304b694b66b583960c638c0c3cf33d5dc43155ecfffcec2a7909b2c67da1c159",
-          "full": {
-            "path": "landscapes/all-accounts-due/05-when-the-horizons-straighten.webp",
-            "sha256": "9ff8f73793b0d994997ce53ce77815702049852d449fe62d051b1da9a3a07721",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/all-accounts-due/05-when-the-horizons-straighten-thumb.webp",
-            "sha256": "e9ec40edf9a9cbadefa51510136142f5ab2e461d6d2223ded8e87d62a66a7616",
             "width": 480,
             "height": 320
           }
@@ -18553,6 +18496,21 @@
       "source": "stories/a-seat-for-the-sun/art/landscapes/05-flattened-grass-at-afternoon.png",
       "sourceSha256": "7408b7cdcedb209ff545ae8d523c64a6e16df810cba5794ec47249bdcd289844",
       "reason": "Another view of the same tree and lawn, implying an empty after-party state. The source ends during the game with the children still there; no separate aftermath landscape is needed."
+    },
+    {
+      "source": "stories/all-accounts-due/art/landscapes/02-black-fire-fortress.png",
+      "sourceSha256": "14eddf905177fc51dfc9ff71f7255e204d01bc14d68674d1d2eec992bb02d476",
+      "reason": "The source fortress is being eaten by black fire. This intact distant fortress beneath an orange storm/sunset does not depict that defining magical event."
+    },
+    {
+      "source": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
+      "sourceSha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
+      "reason": "The source aurora holds a mountain aloft before its disastrous release. This conventional alpine mountain under northern lights loses the essential suspended/living geography."
+    },
+    {
+      "source": "stories/all-accounts-due/art/landscapes/05-when-the-horizons-straighten.png",
+      "sourceSha256": "304b694b66b583960c638c0c3cf33d5dc43155ecfffcec2a7909b2c67da1c159",
+      "reason": "When horizons straighten, cities fall and break against mountains. This quiet, open valley with old ruins supplies an unsupported peaceful aftermath and repeats the already represented ruin landscape."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
