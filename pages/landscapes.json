@@ -3739,25 +3739,6 @@
           }
         },
         {
-          "id": "02-broken-mountain-pass",
-          "title": "Broken mountain pass",
-          "alt": "Broken mountain pass — oil landscape for The First Winter",
-          "source": "stories/the-first-winter/art/landscapes/02-broken-mountain-pass.png",
-          "sourceSha256": "0affb0a958bc90cd24863fadb595e081388218347c5293139309a45644607b69",
-          "full": {
-            "path": "landscapes/the-first-winter/02-broken-mountain-pass.webp",
-            "sha256": "042918518bc9cc69455d314ce3bec29bacd17bab0f7c419a7d835996b5f8943c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-winter/02-broken-mountain-pass-thumb.webp",
-            "sha256": "dd406ec2dd0b5638f66ef806e5f076ab81afd0e06b44089fb831b833630bc3c5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-moonlit-stony-gully",
           "title": "Moonlit stony gully",
           "alt": "Moonlit stony gully — oil landscape for The First Winter",
@@ -15777,6 +15758,11 @@
       "source": "stories/the-first-people/art/landscapes/04-ocean-before-the-living.png",
       "sourceSha256": "630fc154f719abdfd877c78a53493a56366d5120ce4aa5c260b4ce5553e346ed",
       "reason": "Literalizes the account of oceans before life into a separate alien seascape; those eras are discussed through route records, not visited or shown as landscapes."
+    },
+    {
+      "source": "stories/the-first-winter/art/landscapes/02-broken-mountain-pass.png",
+      "sourceSha256": "0affb0a958bc90cd24863fadb595e081388218347c5293139309a45644607b69",
+      "reason": "Leaves ropes spanning between both cliffs after the footbridge was cut and swung against one cliff with both people on it; also adds an unvisited current view of a crossing described in backstory."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
