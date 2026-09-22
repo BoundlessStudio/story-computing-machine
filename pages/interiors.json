@@ -3970,6 +3970,70 @@
       ]
     },
     {
+      "slug": "the-door-in-the-ivy",
+      "title": "The Door in the Ivy",
+      "reader": "stories/the-door-in-the-ivy.html",
+      "images": [
+        {
+          "id": "01-whitewashed-service-passage",
+          "title": "Whitewashed service passage",
+          "alt": "Whitewashed service passage — oil interior study for The Door in the Ivy",
+          "source": "stories/the-door-in-the-ivy/art/interiors/01-whitewashed-service-passage.png",
+          "sourceSha256": "9fcb66d19c665e97ac13c4e7c3eb54185d78f4861019f3013617cba6a1ff99e3",
+          "full": {
+            "path": "interiors/the-door-in-the-ivy/01-whitewashed-service-passage-9fcb66d19c665e97.webp",
+            "sha256": "38bd2831a2e787c82162c4ceb98c93ad0e4810796b12691a66689543c611e65a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-in-the-ivy/01-whitewashed-service-passage-9fcb66d19c665e97-thumb.webp",
+            "sha256": "18d1926dfc1ae6ae5aa647f0bdd8ea87fa905dd3358229dd793b996b97b68e19",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-passage-toward-green-door",
+          "title": "Passage toward green door",
+          "alt": "Passage toward green door — oil interior study for The Door in the Ivy",
+          "source": "stories/the-door-in-the-ivy/art/interiors/02-passage-toward-green-door.png",
+          "sourceSha256": "2998d8acbf0312b85e3f75949d73c29107c81568ee69e105cfde4b128df49b87",
+          "full": {
+            "path": "interiors/the-door-in-the-ivy/02-passage-toward-green-door-2998d8acbf0312b8.webp",
+            "sha256": "63ef6f1eb3c829de81f606dca83e6e522f961a027417ba47451a4258e3dfc1e0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-in-the-ivy/02-passage-toward-green-door-2998d8acbf0312b8-thumb.webp",
+            "sha256": "30c9c8c66948e43a622bdb01a406971335ba636df58bbd7028ca44dba09cda4f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-passage-tap-and-pail",
+          "title": "Passage tap and pail",
+          "alt": "Passage tap and pail — oil interior study for The Door in the Ivy",
+          "source": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
+          "sourceSha256": "314a620102fc0c1405bfee310761ebb02ac84043a3eba0c8189cac59f6e94d05",
+          "full": {
+            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-314a620102fc0c14.webp",
+            "sha256": "dba8a6b887474223e97ef257b8f12cceefa06d9849c13d43bc0199ff185290db",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-314a620102fc0c14-thumb.webp",
+            "sha256": "5e8feb5437bebb9fb8ec40ce510ef1f142f17760e96470705b69a3010b772c90",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-door-knows-home",
       "title": "The Door Knows Home",
       "reader": "stories/the-door-knows-home.html",
@@ -4027,6 +4091,70 @@
           "thumbnail": {
             "path": "interiors/the-door-knows-home/03-print-shop-loft-e0e853384d793c9e-thumb.webp",
             "sha256": "14e498510a43aa93e179a8c4cb684dc5ea42aac1d0f4e30c8861a145507a8666",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-dress-they-brought-her",
+      "title": "The Dress They Brought Her",
+      "reader": "stories/the-dress-they-brought-her.html",
+      "images": [
+        {
+          "id": "01-the-prison-cell",
+          "title": "The prison cell",
+          "alt": "The prison cell — oil interior study for The Dress They Brought Her",
+          "source": "stories/the-dress-they-brought-her/art/interiors/01-the-prison-cell.png",
+          "sourceSha256": "6086366dd681e7e00e9de2f67410a24aa7b29153722c3c198011e912774dc04b",
+          "full": {
+            "path": "interiors/the-dress-they-brought-her/01-the-prison-cell-6086366dd681e7e0.webp",
+            "sha256": "099088c2874dc32aa2908d9a588cbb42c25a75d1ccbb708215b5da059a5cc4fd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-dress-they-brought-her/01-the-prison-cell-6086366dd681e7e0-thumb.webp",
+            "sha256": "89564ac199831a4a5d1eb6eed8c02b55241b5a32630b85bde7bec4a71bd023f7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-intake-corridor",
+          "title": "The intake corridor",
+          "alt": "The intake corridor — oil interior study for The Dress They Brought Her",
+          "source": "stories/the-dress-they-brought-her/art/interiors/02-the-intake-corridor.png",
+          "sourceSha256": "ca683a3783e7dad5113bb3e318bbf5d45432145d0c282ce32593f4fd463a2dc7",
+          "full": {
+            "path": "interiors/the-dress-they-brought-her/02-the-intake-corridor-ca683a3783e7dad5.webp",
+            "sha256": "445c1eaa7ebdcf7510330dd4ff1d63366bd464291801ef12990d5b571c2c5b59",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-dress-they-brought-her/02-the-intake-corridor-ca683a3783e7dad5-thumb.webp",
+            "sha256": "217c99211616509a0c0542ca36bb1a8b017347d2f58753bd0e4320a892eb9797",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-property-counter",
+          "title": "The property counter",
+          "alt": "The property counter — oil interior study for The Dress They Brought Her",
+          "source": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+          "sourceSha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+          "full": {
+            "path": "interiors/the-dress-they-brought-her/03-the-property-counter-2ef1333066eb1250.webp",
+            "sha256": "c6ed9cd087141ef06b27fec7b70d955a6eafb0ecbb029ae28dc10c6fcb84ea50",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-dress-they-brought-her/03-the-property-counter-2ef1333066eb1250-thumb.webp",
+            "sha256": "e4ac17ef2617e09a56a231ade19bf7c9a6b0ec686d273e55340c9db7e9006b35",
             "width": 480,
             "height": 320
           }
