@@ -1359,16 +1359,16 @@
           "title": "The West Gate Closing",
           "alt": "The West Gate Closing — corrected oil landscape for All the Ways They Knew Her",
           "source": "pages/landscape-replacements/everyone-knows-her/01-west-gate-before-the-festival.png",
-          "sourceSha256": "b330dd436260fc939174e853c2fd46817ed6683d38755fef63f3474ba50ae627",
+          "sourceSha256": "a09b45821e3182eac51253d5822937a493c1a126ce8e67c37229679420537479",
           "full": {
-            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-b330dd436260fc93.webp",
-            "sha256": "accefe00fe35184c40e98e7a2ef20ea4f96aea8ec685b2d9eaf91729ba60b070",
+            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-a09b45821e3182ea.webp",
+            "sha256": "c213aa39b263e39b16c599468406c6c582970e30ba0d6d1d8853dc9110293627",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-b330dd436260fc93-thumb.webp",
-            "sha256": "c4441255071c455890e216816d3184daeb7993d053f6be936451215d001ee8b3",
+            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-a09b45821e3182ea-thumb.webp",
+            "sha256": "8b6b16cfe476018ee3da472b1a5d07badbfcffa162381f2eb30177646ecfec1d",
             "width": 480,
             "height": 320
           },
@@ -1376,7 +1376,7 @@
             "originalSource": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
             "originalSha256": "089f55d32d90f376e3f5b61bc68e5d67aa531b29df2371e9f602a410488d69e8",
             "correction": "The story begins during the crowded festival as the gate closes. The empty before-festival view invents a different state and omits the waist-high barrier controlling the route.",
-            "prompt": "Revise this oil-painted landscape to match the opening of All the Ways They Knew Her. Keep the existing west park gateway, mature trees, stone gateposts, summer daylight, thick impasto palette-knife brushwork and wide format. The story is DURING the bustling summer festival at NOON, not an empty setup before it. Compose from just outside the gate, close enough that the gateway and a waist-high temporary route barrier dominate the foreground. Two adult festival volunteers in simple bright safety vests are operating that waist-high barrier, which is swung diagonally most of the way across the entrance, leaving one narrow passage. Behind them, food and craft tables press inward from BOTH curbs and many small, impressionistically painted festival visitors crowd the road, under paper pennants with cooking smoke blurring the first block. The road has only a long gentle descent, not a steep hill. The visible channel through tables and people is bicycle-width, with crowd filling nearly all the rest. Keep tiny human silhouettes integrated as landscape scale markers, not detailed portraits. The image must visibly say festival in progress and gate closing. Do not add readable signage, text, border or cars. Retain tactile traditional oil style from the supplied reference.",
+            "prompt": "Repaint the second reference as a Canadian Group of Seven inspired oil environment study, 1536x1024. Reference 1 is the primary ORIGINAL STYLE sample: broad interlocking color shapes, expressive bristle brushwork, simplified trees and strong light-shadow pattern. Reference 2 supplies the STORY CONTENT and composition only; reduce its fussy detail.\n\nPreserve this source moment at the WEST GATE of a busy park festival in summer at noon: two adult volunteers close a waist-high wooden barrier between rough stone gateposts, while a dense festival with tables, canvas awnings, visitors, pennants and cooking smoke continues down the tree-lined gentle slope behind them. The two volunteers wear plain safety vests and remain small anonymous staffage, their hands visibly placed on the barrier; paint them with a few broad strokes without faces or detailed clothing. Crowd behind them consists of grouped small color dabs. Keep the gate and strong tree silhouettes central to this environment view. Do not empty the festival or turn the gate into an open entrance.\n\nPaint the entire image directly with economical broad, rhythmic oil brushmarks: ochre road and stone, slate-violet shadows, dark green tree shapes and sunlit yellow-green masses, cobalt and cream sky. Simplify merchandise to general table shapes. Use clear grouped values and slightly flattened bold forms; no photographic skin, glossy 3D details, tiny illustrative goods, cinematic lighting, or paint-texture overlay. Match the original collection's Canadian landscape painting spirit even though this setting includes people. No captions, signatures, logos or readable signs.",
             "generator": "image_gen"
           }
         },
