@@ -7106,6 +7106,70 @@
       ]
     },
     {
+      "slug": "the-villages-only-mage",
+      "title": "The One Who Helped Everyone",
+      "reader": "stories/the-villages-only-mage.html",
+      "images": [
+        {
+          "id": "01-mill-bearing-room",
+          "title": "Mill bearing room",
+          "alt": "Mill bearing room — oil interior study for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/interiors/01-mill-bearing-room.png",
+          "sourceSha256": "1c1bc147b7073b11259d9b17a117712574076e0d8bffff6aa764c0be574b989e",
+          "full": {
+            "path": "interiors/the-villages-only-mage/01-mill-bearing-room-1c1bc147b7073b11.webp",
+            "sha256": "bb8a62f7e467389f1b62bc955d8239f2fe1e43fe99b1fd7cb877f95e8f67b773",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-villages-only-mage/01-mill-bearing-room-1c1bc147b7073b11-thumb.webp",
+            "sha256": "0d760216bf78e3b02e363ddd2468a862445aee72e286aeebc45fe2492c52e272",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-bakery-oven-room",
+          "title": "Bakery oven room",
+          "alt": "Bakery oven room — oil interior study for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/interiors/02-bakery-oven-room.png",
+          "sourceSha256": "4ed8edc1f9badc0c6d9d3b8c3ad504c36476dd7ebf9cc34c2494715b621f35ab",
+          "full": {
+            "path": "interiors/the-villages-only-mage/02-bakery-oven-room-4ed8edc1f9badc0c.webp",
+            "sha256": "a3cbbca4009548afbaa5f709eaa67400c25981db67ee40351d23ba7bd45d153b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-villages-only-mage/02-bakery-oven-room-4ed8edc1f9badc0c-thumb.webp",
+            "sha256": "c89f0902283faadf41807a0663080c1627e7d5b00c25fb2f37ac0795e6486b46",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-mill-office-morning",
+          "title": "Mill office morning",
+          "alt": "Mill office morning — oil interior study for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/interiors/03-mill-office-morning.png",
+          "sourceSha256": "178f37af233a0e6255e3247198f7139a035697bb2b8a3e10c871d85c7bccb84f",
+          "full": {
+            "path": "interiors/the-villages-only-mage/03-mill-office-morning-178f37af233a0e62.webp",
+            "sha256": "7bd68d0a82eb555d4cacfed7fed44eb59faffe569cf8b64231e323438bae01e5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-villages-only-mage/03-mill-office-morning-178f37af233a0e62-thumb.webp",
+            "sha256": "5a30fc0e0531c3439f53abd96edb0526a7f9accb55752db4eeef196c1854479e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-ordinary-slime",
       "title": "The Ordinary Slime",
       "reader": "stories/the-ordinary-slime.html",
@@ -9339,6 +9403,70 @@
           "thumbnail": {
             "path": "interiors/the-healers-measure/03-iron-bars-in-the-equipment-room-946b54a545d799c2-thumb.webp",
             "sha256": "e0cf08c0ab2d4266dae9ce5bf4d8005481eb99a160c20ac135f9edc598d85ce2",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-wolf-in-the-mirror",
+      "title": "The Wolf in the Mirror",
+      "reader": "stories/the-wolf-in-the-mirror.html",
+      "images": [
+        {
+          "id": "01-prepared-studio",
+          "title": "Prepared studio",
+          "alt": "Prepared studio — oil interior study for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+          "sourceSha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+          "full": {
+            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-04b3a1ad986fc0ae.webp",
+            "sha256": "cac7730911f6cefce5e662e654a8ad8cc2fb2f5c6c3013d353c2f08d4f3fa0de",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-04b3a1ad986fc0ae-thumb.webp",
+            "sha256": "f221af765ff71cb3830ea73da54504569dc37bfcd41501f8e9e0fef38ba4b05d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-observation-vestibule",
+          "title": "Observation vestibule",
+          "alt": "Observation vestibule — oil interior study for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/interiors/02-observation-vestibule.png",
+          "sourceSha256": "61985ba602e539e167d3bfba269dad457300964081c0d7873acdbd45d7205351",
+          "full": {
+            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-61985ba602e539e1.webp",
+            "sha256": "bcff74efbe1e63c10d6e83516a380ba6a24bf045843c8e355fa7ad6356cba795",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-61985ba602e539e1-thumb.webp",
+            "sha256": "0f02d29c53da81a21ef8cdc1f6d02f886b09cc4121be7d4dccf2be1d91b92442",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-covered-studio-at-dawn",
+          "title": "Covered studio at dawn",
+          "alt": "Covered studio at dawn — oil interior study for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+          "sourceSha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+          "full": {
+            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-72c2d26a162613c2.webp",
+            "sha256": "422e46c2069624944d2e6d5eefb78832702690420459bc1c53c12c9997a1546c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-72c2d26a162613c2-thumb.webp",
+            "sha256": "fa21b42caaa8a74fc23844f731aa3cc6b5cd924c3f4494acbe34e159de1f9105",
             "width": 480,
             "height": 320
           }
