@@ -3483,25 +3483,6 @@
       "reader": "stories/the-dress-they-brought-her.html",
       "images": [
         {
-          "id": "01-the-western-sky-went-white",
-          "title": "The western sky went white",
-          "alt": "The western sky went white — oil landscape for The Dress They Brought Her",
-          "source": "stories/the-dress-they-brought-her/art/landscapes/01-the-western-sky-went-white.png",
-          "sourceSha256": "0d61928fb6f3237ce4acf7afe98241aabf131490dc7aab588b999d38420d62f8",
-          "full": {
-            "path": "landscapes/the-dress-they-brought-her/01-the-western-sky-went-white.webp",
-            "sha256": "71604fcba2cfae6c032e17e2c03d6d6c4f83b9a8c013993b8a5e92416d7e41df",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-dress-they-brought-her/01-the-western-sky-went-white-thumb.webp",
-            "sha256": "cc715346aba5a696f791cb3f86f559c49f7aced356647a75cbe5145104afc420",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-evening-above-the-court",
           "title": "Evening above the court",
           "alt": "Evening above the court — oil landscape for The Dress They Brought Her",
@@ -3516,63 +3497,6 @@
           "thumbnail": {
             "path": "landscapes/the-dress-they-brought-her/02-evening-above-the-court-thumb.webp",
             "sha256": "8840d8aece4f1b817e73f031acdf064b4d00cc010929219de383020c0c7b24c4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-hot-pavement-before-rain",
-          "title": "Hot pavement before rain",
-          "alt": "Hot pavement before rain — oil landscape for The Dress They Brought Her",
-          "source": "stories/the-dress-they-brought-her/art/landscapes/03-hot-pavement-before-rain.png",
-          "sourceSha256": "9d062ea975fd9d90b68569ee1aa735e5ca2f5ff23d0bc8f3e92811da0e33d1e1",
-          "full": {
-            "path": "landscapes/the-dress-they-brought-her/03-hot-pavement-before-rain.webp",
-            "sha256": "77b507e14a0e3291a9281978ff7bb2307442370acda7f2c9d7d71ee764c60597",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-dress-they-brought-her/03-hot-pavement-before-rain-thumb.webp",
-            "sha256": "b6330803a1868c4d02832da9813e1c18d9c41e19c669711413f24c5808cf7523",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-narrow-open-gate",
-          "title": "The narrow open gate",
-          "alt": "The narrow open gate — oil landscape for The Dress They Brought Her",
-          "source": "stories/the-dress-they-brought-her/art/landscapes/04-the-narrow-open-gate.png",
-          "sourceSha256": "4e58f6287cbf9538b3f1a0a8707851c17d442058cd2c26094e237ae814d7258a",
-          "full": {
-            "path": "landscapes/the-dress-they-brought-her/04-the-narrow-open-gate.webp",
-            "sha256": "1c8ec586d927c7ee241bc43134da6821a6f6ba567c3aa56679ec1d6b5c7b88c0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-dress-they-brought-her/04-the-narrow-open-gate-thumb.webp",
-            "sha256": "332c2d50aadf41d7b67c6e91c36d62c43b515d862949e27c49ff545065380bcd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-grey-light-over-the-city",
-          "title": "Grey light over the city",
-          "alt": "Grey light over the city — oil landscape for The Dress They Brought Her",
-          "source": "stories/the-dress-they-brought-her/art/landscapes/05-grey-light-over-the-city.png",
-          "sourceSha256": "3a5ef02e73a5db80e804e274440081f4fdb3149fc79f482934e27812376e9ed4",
-          "full": {
-            "path": "landscapes/the-dress-they-brought-her/05-grey-light-over-the-city.webp",
-            "sha256": "12a0b42ac0d67b4734e986dc2fc13ede6b69a90baa211dc1ba2425ae252f09c7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-dress-they-brought-her/05-grey-light-over-the-city-thumb.webp",
-            "sha256": "2e5121dc92c5d34d569f7eb8a1e342aa4e6cfcf783895806d1eaa8b3156fb82e",
             "width": 480,
             "height": 320
           }
@@ -15883,6 +15807,26 @@
       "source": "stories/the-door-knows-home/art/landscapes/05-five-oclock-in-the-lane.png",
       "sourceSha256": "9a06f8f041c3a29ca5ce35e22cce3d4e08e9373d6d9a3f046d79405e3f3301f7",
       "reason": "Repeats the workshop lane at a later light state with no distinct location; one delivery/collection view suffices."
+    },
+    {
+      "source": "stories/the-dress-they-brought-her/art/landscapes/01-the-western-sky-went-white.png",
+      "sourceSha256": "0d61928fb6f3237ce4acf7afe98241aabf131490dc7aab588b999d38420d62f8",
+      "reason": "Turns the earlier battle's remembered white western sky into a new exterior landscape; the story begins afterward inside a cell."
+    },
+    {
+      "source": "stories/the-dress-they-brought-her/art/landscapes/03-hot-pavement-before-rain.png",
+      "sourceSha256": "9d062ea975fd9d90b68569ee1aa735e5ca2f5ff23d0bc8f3e92811da0e33d1e1",
+      "reason": "Expands the smell of hot pavement into an unvisited outdoor wasteland."
+    },
+    {
+      "source": "stories/the-dress-they-brought-her/art/landscapes/04-the-narrow-open-gate.png",
+      "sourceSha256": "4e58f6287cbf9538b3f1a0a8707851c17d442058cd2c26094e237ae814d7258a",
+      "reason": "Moves the narrow-open recovery gate from an interior transfer-reader threshold into a low freestanding wall across open countryside."
+    },
+    {
+      "source": "stories/the-dress-they-brought-her/art/landscapes/05-grey-light-over-the-city.png",
+      "sourceSha256": "3a5ef02e73a5db80e804e274440081f4fdb3149fc79f482934e27812376e9ed4",
+      "reason": "Invents a grey-light city panorama after the character has returned to her cell; no exterior city view occurs."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
