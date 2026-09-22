@@ -4674,6 +4674,70 @@
       ]
     },
     {
+      "slug": "the-future-that-refused-us",
+      "title": "The Future That Refused Us",
+      "reader": "stories/the-future-that-refused-us.html",
+      "images": [
+        {
+          "id": "01-salt-glass-reading-chamber",
+          "title": "Salt glass reading chamber",
+          "alt": "Salt glass reading chamber — oil interior study for The Future That Refused Us",
+          "source": "stories/the-future-that-refused-us/art/interiors/01-salt-glass-reading-chamber.png",
+          "sourceSha256": "514fd4772c181e9f4b8d5def356ebf99a9e4de20a9a246f0804a66a89f0d72ef",
+          "full": {
+            "path": "interiors/the-future-that-refused-us/01-salt-glass-reading-chamber-514fd4772c181e9f.webp",
+            "sha256": "a4e5f6ccf57a26c7c94b22e5e50c5ebf5a55d45cf9c9a613840cb859baf4462e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-future-that-refused-us/01-salt-glass-reading-chamber-514fd4772c181e9f-thumb.webp",
+            "sha256": "619053115af1ab5f7ea169a06caecec3a65faefd550abd53b58d80cecb7634b6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-undergate-gallery",
+          "title": "Undergate gallery",
+          "alt": "Undergate gallery — oil interior study for The Future That Refused Us",
+          "source": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+          "sourceSha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+          "full": {
+            "path": "interiors/the-future-that-refused-us/02-undergate-gallery-2169fb66e367f89f.webp",
+            "sha256": "40411567fa6e09abbb2f17b923a193470c2645ec2f591a2b5610076015690129",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-future-that-refused-us/02-undergate-gallery-2169fb66e367f89f-thumb.webp",
+            "sha256": "3bfe702c796d0ae3faf817b041c3ab829560ae7cc88f01471d843524df3b4aed",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-bell-table-chamber",
+          "title": "Bell table chamber",
+          "alt": "Bell table chamber — oil interior study for The Future That Refused Us",
+          "source": "stories/the-future-that-refused-us/art/interiors/03-bell-table-chamber.png",
+          "sourceSha256": "d38a04897127a2d4d79e59b18b2eddc15b50b71fb1be4a006ea34af62678ec51",
+          "full": {
+            "path": "interiors/the-future-that-refused-us/03-bell-table-chamber-d38a04897127a2d4.webp",
+            "sha256": "b95c1bbaa0e3673b5e28cc06571e849fe234131dc20a568e05d89eb442324808",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-future-that-refused-us/03-bell-table-chamber-d38a04897127a2d4-thumb.webp",
+            "sha256": "3b2fc572fa1b4fcc2d9e422342c60d8c48d5e2a6da5303549f446b4756da6d1f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "golden-lion",
       "title": "The Gentleman with the Golden Lion",
       "reader": "stories/golden-lion.html",
@@ -5243,6 +5307,70 @@
           "thumbnail": {
             "path": "interiors/deja-vu-too-late/03-tug-cabin-restraints-8d0a41f3a210cfdd-thumb.webp",
             "sha256": "ad8813ccfb89feb3e3f4dfab2e9170ef4d78191b3de9361a432c6c1834842018",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-healers-measure",
+      "title": "The Witchknight’s Measure",
+      "reader": "stories/the-healers-measure.html",
+      "images": [
+        {
+          "id": "01-candlemere-clinic",
+          "title": "Candlemere clinic",
+          "alt": "Candlemere clinic — oil interior study for The Witchknight’s Measure",
+          "source": "stories/the-healers-measure/art/interiors/01-candlemere-clinic.png",
+          "sourceSha256": "ddc6213dc5959eb01ba17f323d0a8bf7bd1c2b0a13c89e4f1792bc6f31d8de55",
+          "full": {
+            "path": "interiors/the-healers-measure/01-candlemere-clinic-ddc6213dc5959eb0.webp",
+            "sha256": "25c79b2c1484e140c4676864b62702543b52a33ca07ff9b00863e2de33c2335f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-healers-measure/01-candlemere-clinic-ddc6213dc5959eb0-thumb.webp",
+            "sha256": "ae0b9094219a7e544d863626ea9fb2ee1769488dad773d9ce6025023ef0768ab",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-reconstruction-room",
+          "title": "The reconstruction room",
+          "alt": "The reconstruction room — oil interior study for The Witchknight’s Measure",
+          "source": "stories/the-healers-measure/art/interiors/02-the-reconstruction-room.png",
+          "sourceSha256": "f77ad2a787a0094f548025f090506e584722848e68004b5b8a707a042a6153c7",
+          "full": {
+            "path": "interiors/the-healers-measure/02-the-reconstruction-room-f77ad2a787a0094f.webp",
+            "sha256": "9ede9b13030c8853fa2fd9e141c1ffd85bf1d3576264f1dfab63d50ac0b2c791",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-healers-measure/02-the-reconstruction-room-f77ad2a787a0094f-thumb.webp",
+            "sha256": "8fc7be7bcf3d6646b4e859ad3fb7e1a40e32e79c007d27f18bc49e4ea0670d5f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-iron-bars-in-the-equipment-room",
+          "title": "Iron bars in the equipment room",
+          "alt": "Iron bars in the equipment room — oil interior study for The Witchknight’s Measure",
+          "source": "stories/the-healers-measure/art/interiors/03-iron-bars-in-the-equipment-room.png",
+          "sourceSha256": "946b54a545d799c27ee5ddedb86c5bd82641859362ac728ae940bc1949351c31",
+          "full": {
+            "path": "interiors/the-healers-measure/03-iron-bars-in-the-equipment-room-946b54a545d799c2.webp",
+            "sha256": "79551270ed49489818796311192b9bce5c19714618627227fc74bb1912e0cd31",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-healers-measure/03-iron-bars-in-the-equipment-room-946b54a545d799c2-thumb.webp",
+            "sha256": "e0cf08c0ab2d4266dae9ce5bf4d8005481eb99a160c20ac135f9edc598d85ce2",
             "width": 480,
             "height": 320
           }
