@@ -147,6 +147,37 @@ overlapping windows and independent display orders are supported.
 catalog, cover-byte parity, and authoritative source/catalog canon flags.
 New publications do not require a chronology entry.
 
+## Social link previews
+
+The Library and standard/illustrated readers include Twitter large-image cards,
+Open Graph metadata, and canonical URLs on `https://stories.rgbknights.com/`.
+Story cards use the published writing prompt as their description (up to 200
+characters). All cards share [the generated artwork](pages/social-preview.jpg),
+a 1200×630 JPEG copied into the site by the build. If the public domain changes,
+update `SITE_URL` in `pages/build.py`.
+
+The artwork was generated with the built-in Codex image tool using this prompt:
+
+```text
+Use case: ads-marketing. Create a finished landscape social link preview for Story Computing Machine, a shared-universe fiction library. Canvas: exactly 1200 by 630 pixels. On warm ivory paper, set large, exceptionally readable dark espresso literary serif type on the left: "Story" / "Computing" / "Machine" on three lines, with the smaller subtitle "Shared-Universe Fiction". On the right, illustrate an open book whose curling pages become a luminous miniature landscape of a distant city, mountains, and stars, with subtle brass mechanical details near the binding. Use refined anime-inspired pen contours, delicate hatching, restrained watercolor washes, warm amber light and muted teal accents. Editorial book-jacket composition, generous breathing room, compelling at small mobile-card size. Keep all text and important artwork comfortably inside an 80-pixel safe margin. Only the exact title and subtitle are readable text. No people, logos, URLs, watermarks, mockup frame, or interface elements.
+```
+
+The title line spacing was refined with two built-in image edits:
+
+```text
+Use case: text-localization. Edit the supplied social preview image with one precise typography adjustment: add a little more vertical space between the three title lines "Story", "Computing", and "Machine". Preserve the exact serif typeface, font sizes, word widths, dark espresso color, left alignment, and spelling. Increase the baseline spacing by about 20 pixels per gap on the 1200×630 canvas: move "Story" about 40 pixels upward and "Computing" about 20 pixels upward, keeping "Machine" in its current position. The descenders should have visible breathing room above the following line. Keep the decorative rule, star, subtitle "Shared-Universe Fiction", paper texture, and entire book/landscape illustration in exactly their existing positions and appearance. Do not redraw, restyle, add, or remove any other elements. Preserve the 1200×630 landscape composition.
+```
+
+```text
+Use case: text-localization. Make one precise correction to the supplied image. Keep the word "Story" exactly where it is. Move BOTH complete words "Computing" and "Machine" upward by the same small distance: 24 pixels in this supplied 1731×909 image (equivalent to about 17 pixels at 1200×630). Do not change their horizontal positions, serif typeface, font size, color, spelling, or word widths. This should give the three title lines evenly spaced baselines and restore a comfortable gap above the gold decorative rule. Keep the gold rule and star, "Shared-Universe Fiction" subtitle, paper background, book, mechanical details, city, mountains, sky, and every other part of the illustration as in the supplied image. Only the vertical position of the two specified title words changes. Preserve the landscape aspect ratio.
+```
+
+The large moon was removed, retaining the small moon on the curved line, with this built-in image edit:
+
+```text
+Use case: precise-object-edit. The user wants to KEEP the small moon because it belongs to the curved orbital line in the sky. Edit the supplied two-moon preview by removing ONLY the LARGE moon, the big round body toward the upper-left of the illustrated sky, above the mountains. Replace its disk with a natural continuation of the surrounding muted teal starry sky, preserving the bordering clouds. Keep the SMALL moon to its right exactly as it is, including its position on the curved line; preserve that whole curved line, the bright gold star, and all other stars. The finished sky has exactly one moon: the small moon on the line. Preserve the city, mountains, open book, brass details, paper texture, exact three-line "Story Computing Machine" typography with its existing wider vertical spacing, decorative rule, and "Shared-Universe Fiction" subtitle. Do not move, redesign, repaint, or restyle any other elements. Preserve the 1200×630 landscape composition.
+```
+
 ## Local commands
 
 Install the Python dependencies, Markdown and Pillow:

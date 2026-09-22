@@ -8,6 +8,7 @@ import re
 import shutil
 import subprocess
 import sys
+import textwrap
 from collections import Counter
 from dataclasses import dataclass, replace
 from datetime import date, datetime
@@ -29,6 +30,17 @@ REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
 STYLESHEET_PATH = Path(__file__).with_name("styles.css")
 THEME_SCRIPT_PATH = Path(__file__).with_name("theme.js")
+SOCIAL_IMAGE_PATH = Path(__file__).with_name("social-preview.jpg")
+SITE_URL = "https://stories.rgbknights.com/"
+SITE_NAME = "Story Computing Machine"
+SITE_DESCRIPTION = (
+    "Explore a library of shared-universe short stories and illustrated editions. "
+    "Choose a cover and step into another world."
+)
+SOCIAL_IMAGE_ALT = (
+    "Story Computing Machine — Shared-Universe Fiction. An open book unfolds into "
+    "a luminous city, mountains, and stars on warm ivory paper."
+)
 TIMELINE_PATH = Path(__file__).with_name("timeline.json")
 TITLE_IMAGE_NAME = "title-image.jpg"
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
@@ -1043,6 +1055,40 @@ MOON_ICON = '''<svg class="theme-icon theme-icon-dark" viewBox="0 0 24 24" aria-
 THEME_BOOTSTRAP = '''<script>(function(){var key="story-computing-machine-theme",theme=null;try{theme=localStorage.getItem(key)}catch(error){}if(theme!=="light"&&theme!=="dark"){try{theme=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}catch(error){theme="light"}}document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme}());</script>'''
 
 
+def _social_metadata(title: str, description: str, page_path: str, page_type: str) -> str:
+    description = textwrap.shorten(description or SITE_DESCRIPTION, width=200, placeholder="…")
+    url = SITE_URL + page_path.lstrip("/")
+    image_url = SITE_URL + SOCIAL_IMAGE_PATH.name
+    open_graph = {
+        "og:site_name": SITE_NAME,
+        "og:type": page_type,
+        "og:title": title,
+        "og:description": description,
+        "og:url": url,
+        "og:image": image_url,
+        "og:image:type": "image/jpeg",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "og:image:alt": SOCIAL_IMAGE_ALT,
+    }
+    twitter = {
+        "twitter:card": "summary_large_image",
+        "twitter:title": title,
+        "twitter:description": description,
+        "twitter:image": image_url,
+        "twitter:image:alt": SOCIAL_IMAGE_ALT,
+    }
+    return (
+        f'<link rel="canonical" href="{html.escape(url, quote=True)}">'
+        f'<meta name="description" content="{html.escape(description, quote=True)}">'
+        + "".join(
+            f'<meta {attribute}="{name}" content="{html.escape(value, quote=True)}">'
+            for attribute, values in (("property", open_graph), ("name", twitter))
+            for name, value in values.items()
+        )
+    )
+
+
 def _page(
     title: str,
     body: str,
@@ -1055,6 +1101,9 @@ def _page(
     extra_stylesheet_hrefs: tuple[str, ...] = (),
     body_class: str | None = None,
     main_class: str | None = None,
+    page_path: str | None = None,
+    description: str = SITE_DESCRIPTION,
+    page_type: str = "website",
 ) -> str:
     library_href = html.escape(library_href, quote=True)
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
@@ -1088,12 +1137,17 @@ def _page(
         f'<link rel="stylesheet" href="{html.escape(href, quote=True)}">'
         for href in extra_stylesheet_hrefs
     )
+    social_metadata = (
+        _social_metadata(title, description, page_path, page_type)
+        if page_path is not None else ""
+    )
     return (
         '<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
         '<meta name="color-scheme" content="light dark">'
         '<meta name="theme-color" content="#f5f0e7">'
         f'<title>{html.escape(title)}</title>'
+        f'{social_metadata}'
         f'{THEME_BOOTSTRAP}'
         f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
         f'{atlas_styles}{extra_styles}{theme_script}{script}</head><body{body_attribute}>{header}<main{main_attribute}>{body}</main></body></html>'
@@ -1173,12 +1227,13 @@ def render_index(catalog: Catalog, editions=()) -> str:
         f'<ol class="story-grid">{"".join(items)}</ol></section>'
     )
     return _page(
-        "Shared-Universe Fiction",
+        f"{SITE_NAME} — Shared-Universe Fiction",
         body,
         "index.html",
         "styles.css",
         "theme.js",
         current="library",
+        page_path="",
     )
 
 
@@ -1206,6 +1261,9 @@ def render_story(story: Story, editions=(), comics=()) -> str:
         "../index.html",
         "../styles.css",
         "../theme.js",
+        page_path=f"stories/{story.slug}.html",
+        description=story.prompt,
+        page_type="article",
     )
 
 
@@ -1250,6 +1308,7 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     (destination / "covers").mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
+    shutil.copy2(SOCIAL_IMAGE_PATH, destination / SOCIAL_IMAGE_PATH.name)
     edition_snapshot = snapshot_path.with_name("illustrated.json")
     editions = []
     if edition_snapshot.exists():
