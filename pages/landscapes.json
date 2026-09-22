@@ -2199,82 +2199,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-one-block-home",
-          "title": "One block home",
-          "alt": "One block home — oil landscape for She Literally Has Wings",
-          "source": "stories/she-literally-has-wings/art/landscapes/02-one-block-home.png",
-          "sourceSha256": "e4dde179868b7d612a3ced055c8e48c2f5664eeeae7ca45b6fb7eb7a60271c90",
-          "full": {
-            "path": "landscapes/she-literally-has-wings/02-one-block-home.webp",
-            "sha256": "eb94e21ab5b86a25dff2c3e64a45972e15f776403c17adc05a99604a38fd6b47",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/she-literally-has-wings/02-one-block-home-thumb.webp",
-            "sha256": "572faf9808bc17e09fe4a1c966a1605705869cb976217d5897db83eb70f3a515",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-roofs-on-a-clear-night",
-          "title": "Roofs on a clear night",
-          "alt": "Roofs on a clear night — oil landscape for She Literally Has Wings",
-          "source": "stories/she-literally-has-wings/art/landscapes/03-roofs-on-a-clear-night.png",
-          "sourceSha256": "70e395fe989e5081803e32e6d57549ab40ac8891e26cd991c265b7aa4f1718b7",
-          "full": {
-            "path": "landscapes/she-literally-has-wings/03-roofs-on-a-clear-night.webp",
-            "sha256": "acf9d98f1654c3fa0569031f535627351977e2c23a07ded847c974f41af3e0d0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/she-literally-has-wings/03-roofs-on-a-clear-night-thumb.webp",
-            "sha256": "634bac1bccff741102cd7a3537581d9a16c18e6f2531a70e5949e6786ab70f68",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-dinner-garden-in-rain",
-          "title": "The dinner garden in rain",
-          "alt": "The dinner garden in rain — oil landscape for She Literally Has Wings",
-          "source": "stories/she-literally-has-wings/art/landscapes/04-the-dinner-garden-in-rain.png",
-          "sourceSha256": "5aece16cd2ecdbb8d0f15cef4667f1aff9620d56adc5e22bff5447fdfc34ea85",
-          "full": {
-            "path": "landscapes/she-literally-has-wings/04-the-dinner-garden-in-rain.webp",
-            "sha256": "bf712ed46ffaaf6c0c1c5abba29360b5df0218bac941547d37a843bc95144f1f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/she-literally-has-wings/04-the-dinner-garden-in-rain-thumb.webp",
-            "sha256": "80f56f4fabdd39a51d5ab11d70606d5e311ce7e669f55cd0e52dcf2309cebfa5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-mist-lifts-from-the-block",
-          "title": "The mist lifts from the block",
-          "alt": "The mist lifts from the block — oil landscape for She Literally Has Wings",
-          "source": "stories/she-literally-has-wings/art/landscapes/05-the-mist-lifts-from-the-block.png",
-          "sourceSha256": "a956fb827ee5e28ae9360b18db95e73555567cd2924bcc3fdaf06fb53b7584fe",
-          "full": {
-            "path": "landscapes/she-literally-has-wings/05-the-mist-lifts-from-the-block.webp",
-            "sha256": "db3c2f05363d22cf48c36bb7471cc81c05ab7694fbe3ca41b5f38dc463390f26",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/she-literally-has-wings/05-the-mist-lifts-from-the-block-thumb.webp",
-            "sha256": "2040cf156c8733688f3d6955653c77dd634527dea927fc42f0f22f85ef85a492",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -16941,6 +16865,26 @@
       "source": "stories/self-reflection/art/landscapes/05-cold-air-after-sunrise.png",
       "sourceSha256": "9a14861da9f242f260380933605710cd82886cafc009b7e1af056b199ecda725",
       "reason": "Turns cold air through the open bedroom window into an outdoor hill path not visited in the prose."
+    },
+    {
+      "source": "stories/she-literally-has-wings/art/landscapes/02-one-block-home.png",
+      "sourceSha256": "e4dde179868b7d612a3ced055c8e48c2f5664eeeae7ca45b6fb7eb7a60271c90",
+      "reason": "Repeats the same one-block walk already represented by the misty street."
+    },
+    {
+      "source": "stories/she-literally-has-wings/art/landscapes/03-roofs-on-a-clear-night.png",
+      "sourceSha256": "70e395fe989e5081803e32e6d57549ab40ac8891e26cd991c265b7aa4f1718b7",
+      "reason": "Shows a clear-night roof flight mentioned only as a habit; Coralie specifically walks because tonight her feathers are wet."
+    },
+    {
+      "source": "stories/she-literally-has-wings/art/landscapes/04-the-dinner-garden-in-rain.png",
+      "sourceSha256": "5aece16cd2ecdbb8d0f15cef4667f1aff9620d56adc5e22bff5447fdfc34ea85",
+      "reason": "Invents a dinner garden; the meal and cleanup take place inside the hall and kitchen."
+    },
+    {
+      "source": "stories/she-literally-has-wings/art/landscapes/05-the-mist-lifts-from-the-block.png",
+      "sourceSha256": "a956fb827ee5e28ae9360b18db95e73555567cd2924bcc3fdaf06fb53b7584fe",
+      "reason": "Invents a bright clearing of the mist after the story has returned indoors; repeats the neighborhood unnecessarily."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
