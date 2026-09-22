@@ -12062,6 +12062,32 @@
       "reader": "stories/where-the-white-elk-went.html",
       "images": [
         {
+          "id": "01-elderwealds-western-stones",
+          "title": "Elderwealds western stones",
+          "alt": "Elderwealds western stones — oil landscape for Where the White Elk Went",
+          "source": "pages/landscape-replacements/where-the-white-elk-went/01-elderwealds-western-stones.png",
+          "sourceSha256": "af68e8337aad407d6f3a473ab44f89fdaf98cdb46314c50b9dc81d2be3c34f03",
+          "full": {
+            "path": "landscapes/where-the-white-elk-went/01-elderwealds-western-stones-af68e8337aad407d.webp",
+            "sha256": "0c60fb7cd6e906f57003ba885f777b3cf7db0edc01742a88f4d1de94cd2e70a3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/where-the-white-elk-went/01-elderwealds-western-stones-af68e8337aad407d-thumb.webp",
+            "sha256": "06d0a51673b37fe4d55cfd2fc653c34ddc6b8f8dcffb02465dcfebeb6d7d96e9",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+            "originalSha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+            "correction": "The source explicitly says there is no field beyond Elderweald: young birches crowd the slope, with hazel and thorn immediately catching the elk. The painting opens a broad grassy field between the boundary stones and distant birches, replacing that continuous thicket.",
+            "prompt": "Correct the geography of this existing Canadian Group of Seven inspired oil landscape, 1536x1024, keeping its original strong painting style. In Where the White Elk Went, the western boundary opens immediately into dense young woodland: \"Beyond Elderweald lay no field.\" Remove the broad open golden meadow and distant open view.\n\nPreserve the procession of moss-covered waist-high stone slabs sunk among large roots, viewed obliquely along the line beneath an old crooked yew, with mature beech and oak trunks on the Elderweald side at left. The old stones have no readable markings; moss conceals any ancient carving. Immediately on the OTHER side of the stones at right, young white-trunked birches crowd a shallow slope, thick hazel reaches chest height, and thorn tangles carry showers of yellow autumn leaves. Only a very thin strip of brown trampled grass sits immediately at the stones' feet. Dense birch, hazel and thorn begin within a step beyond it and fill the right half and background. No meadow, field, distant pasture, house, road, paved path, ruined wall, gate or open panorama. Morning autumn light filters through the enclosed woodland canopy; small blue-gray sky fragments only. No elk, rider or people needed.\n\nUse the original's bold dark trunk rhythms, broad opaque ochre/russet/yellow-green foliage shapes, angular slate stones, decisive simplified contours and large directional oil-brush marks. Paint the young thicket as interlocking masses with several clear pale trunk strokes rather than thousands of fine twigs and leaves. Genuine Group of Seven inspired painterly structure across the whole image, not a realistic woodland photograph with impasto texture. Keep the boundary and continuity of forest across it clearly readable. No text, signature, border or montage.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "02-the-road-beneath-the-thicket",
           "title": "The road beneath the thicket",
           "alt": "The road beneath the thicket — oil landscape for Where the White Elk Went",
