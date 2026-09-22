@@ -1385,16 +1385,16 @@
           "title": "The long mild slope",
           "alt": "The long mild slope — oil landscape for All the Ways They Knew Her",
           "source": "pages/landscape-replacements/everyone-knows-her/02-the-long-mild-slope.png",
-          "sourceSha256": "3424fab28f8000663a86a5b9290b7359276c1f1952413213cc50bb8737bb17a8",
+          "sourceSha256": "283cf438ea7979c2ca680ffc30de8a660cb7f9b0d23130b05fe8243574a2af52",
           "full": {
-            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-3424fab28f800066.webp",
-            "sha256": "b85dd71237961db31da47b4d24d0d5d9302ff12d0f34d69ceb67bfb42bb66fbe",
+            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-283cf438ea7979c2.webp",
+            "sha256": "6f6897f38d4b40ff470c65ac13608a5abf927001c8792c65b41433518bdc0030",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-3424fab28f800066-thumb.webp",
-            "sha256": "0f7a92ee3f946521d45fe30ee99d4cc765c3cdd6e8632df05763cb5fb7350852",
+            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-283cf438ea7979c2-thumb.webp",
+            "sha256": "572880f83828fe5d8650d6f99da722811cd1311e0aed0b7f32a243cac491e4b3",
             "width": 480,
             "height": 320
           },
@@ -1402,7 +1402,7 @@
             "originalSource": "stories/everyone-knows-her/art/landscapes/02-the-long-mild-slope.png",
             "originalSha256": "49ec3982e9283417460b0df1f15a6cb7e0a2571793e1d5f0587ce77e36b6ea70",
             "correction": "The long slope has tables pressing from both curbs and only a bicycle-width passage. This wide open road with no stalls gives materially wrong route geometry.",
-            "prompt": "Correct this existing oil landscape for All the Ways They Knew Her. Keep tactile thick palette-knife oil paint, summer park trees, overhead paper pennants, wide landscape format. Change the empty wide road into the actual crowded festival route: view from midway INSIDE the festival at walking-eye height, looking east down a LONG MILD SLOPE. Rows of food tables, craft stalls and awnings project out from both curbs, almost meeting in the middle, leaving only a very narrow bicycle-width strip of patched asphalt snaking between them. The passage should occupy no more than roughly a tenth of the road width. Fill both sides with a busy, diverse impressionistic crowd of visitors, vendors, parents and children, tiny loosely painted people for environmental scale, some stepping out of the narrow channel. Cooking smoke softens the middle distance and paper pennants hang overhead. Shallow gentle road gradient, not a steep hillside descent. Sunlit noon scene. Focus on the close pressure of tables and the thin winding path through the festival; crop out the reference's distracting distant lake panorama and broad open roadway. Distinct composition from the gate image: NO gateway or foreground gateposts, this is amid the stalls. No readable text, no border, no photorealism.",
+            "prompt": "Make one targeted spatial correction to this Canadian Group of Seven inspired oil painting. Keep its existing broad bristle-brush painting, simplified anonymous people, warm/cool color pattern, strong tree silhouettes, pennants, summer noon light and gentle slope. Preserve the 1536x1024 canvas.\n\nThe story requires TABLES AND STALLS TO LEAVE ONLY A BICYCLE-WIDTH PASSAGE. The present central street is still much too broad. Extend the vendor tables and stalls from BOTH sides far inward so they nearly touch, including large cropped table corners across most of the lower foreground. Leave only a narrow ONE-PERSON-WIDE zigzag slit of patched pavement, approximately 80â€“100 cm physically, between their edges. At each depth it must be only about one adult's shoulder width, never broad enough for people to walk abreast. Small simplified visitors thread SINGLE FILE through it and cluster among the tables; there is no spacious central promenade. Preserve environmental focus with no large foreground person. Show the cramped table geometry clearly from the existing slightly raised viewpoint. The route remains a very gentle slope, not stairs or a steep hill.\n\nKeep every surface built from the same broad confident oil-brush marks and simplified flat color planes. Do not add detailed faces, intricate merchandise, photo-like material detail, letters, signatures or a paint-texture filter. Change crowd spacing and table positions as necessary to make the narrow passage believable while preserving the achieved painting style.",
             "generator": "image_gen"
           }
         },
