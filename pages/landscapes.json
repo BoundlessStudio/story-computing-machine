@@ -1472,6 +1472,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-the-school-field-at-dusk",
+          "title": "The school field at dusk",
+          "alt": "The school field at dusk — oil landscape for By Wing and Welcome",
+          "source": "stories/the-bat-at-the-door/art/landscapes/04-the-school-field-at-dusk.png",
+          "sourceSha256": "697738ed3cc534862fba0a5f1445948583e4d45310cc9dc7a2944bf2130b2b5e",
+          "full": {
+            "path": "landscapes/the-bat-at-the-door/04-the-school-field-at-dusk.webp",
+            "sha256": "567e7390d5760b7a02ee5c2ecbc6e8cc8811244f170fd9b6e5f8a7de7ab7fc4d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-bat-at-the-door/04-the-school-field-at-dusk-thumb.webp",
+            "sha256": "ed9f42c245af033cc1962d2a83dcc5bc5705b9d33d90500c0b801ebade76ac71",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -11144,11 +11163,6 @@
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
       "sourceSha256": "617f5a3071db8988dfb87a951935586eed68942e740c9141479326c861130e15",
       "reason": "Another wet-lane view duplicates the retained lightning-over-road scene without a different source location or state."
-    },
-    {
-      "source": "stories/the-bat-at-the-door/art/landscapes/04-the-school-field-at-dusk.png",
-      "sourceSha256": "697738ed3cc534862fba0a5f1445948583e4d45310cc9dc7a2944bf2130b2b5e",
-      "reason": "The school field is only part of Teyo's account of his accident twelve days before. No school-field scene occurs in the current indoor reunion."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/05-clouds-beyond-the-garden.png",
