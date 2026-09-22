@@ -4244,6 +4244,51 @@
       ]
     },
     {
+      "slug": "pool-sovereign",
+      "title": "The Deep End",
+      "reader": "stories/pool-sovereign.html",
+      "images": [
+        {
+          "id": "02-the-coast-before-work",
+          "title": "The coast before work",
+          "alt": "The coast before work — oil landscape for The Deep End",
+          "source": "stories/pool-sovereign/art/landscapes/02-the-coast-before-work.png",
+          "sourceSha256": "16aab9fd0d9de705498574bc2d1c27280070531b4cb5e9a2c60edef0be4504c4",
+          "full": {
+            "path": "landscapes/pool-sovereign/02-the-coast-before-work.webp",
+            "sha256": "8ef3e4fc9aa467b24fe90801612b588ebd3092b3c91f52e1a679c82b84caccf1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/pool-sovereign/02-the-coast-before-work-thumb.webp",
+            "sha256": "1f8fd51529e6f6ae421c0b6c5b1c3e1c0fafad9b4079b6dbf0f5cd0b6eedcf9f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "04-schoolroom-apple-trees",
+          "title": "Schoolroom apple trees",
+          "alt": "Schoolroom apple trees — oil landscape for The Deep End",
+          "source": "stories/pool-sovereign/art/landscapes/04-schoolroom-apple-trees.png",
+          "sourceSha256": "65ffab60c6af50e8a23c754d6b0f06ad4dd7adbb2927e072d755b50036d6f7ee",
+          "full": {
+            "path": "landscapes/pool-sovereign/04-schoolroom-apple-trees.webp",
+            "sha256": "dea74f1148c5d1693aacb93bc2505a688de00b9eaf1f673391264507ba92ca49",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/pool-sovereign/04-schoolroom-apple-trees-thumb.webp",
+            "sha256": "348ecf5dcec64936f5eabd35932847b656b52e31d03a67f75384b50943489233",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-door-in-the-ivy",
       "title": "The Door in the Ivy",
       "reader": "stories/the-door-in-the-ivy.html",
@@ -11195,19 +11240,9 @@
       "reason": "Moves the indoor pool's winter view up through its glass roof to an invented snowy garden outside."
     },
     {
-      "source": "stories/pool-sovereign/art/landscapes/02-the-coast-before-work.png",
-      "sourceSha256": "16aab9fd0d9de705498574bc2d1c27280070531b4cb5e9a2c60edef0be4504c4",
-      "reason": "The coast is Hewlin's previous seasonal workplace, not visited in this story."
-    },
-    {
       "source": "stories/pool-sovereign/art/landscapes/03-the-rainy-concert-garden.png",
       "sourceSha256": "6ec3f3ee917d1d9e698e91741d0706b1e42954c8559532d46d9164a63487832f",
       "reason": "Expands a brief remembered ruined concert into a present scenic garden, omitting its defining concert/peacock details."
-    },
-    {
-      "source": "stories/pool-sovereign/art/landscapes/04-schoolroom-apple-trees.png",
-      "sourceSha256": "65ffab60c6af50e8a23c754d6b0f06ad4dd7adbb2927e072d755b50036d6f7ee",
-      "reason": "Turns a passing schoolroom memory during an indoor memorial reading into a separate orchard setting."
     },
     {
       "source": "stories/pool-sovereign/art/landscapes/05-another-winter-morning.png",
