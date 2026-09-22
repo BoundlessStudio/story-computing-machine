@@ -6474,108 +6474,6 @@
       ]
     },
     {
-      "slug": "the-sister-behind-her-smile",
-      "title": "The Sister Behind Her Smile",
-      "reader": "stories/the-sister-behind-her-smile.html",
-      "images": [
-        {
-          "id": "01-valsor-palace-at-supper",
-          "title": "Valsor palace at supper",
-          "alt": "Valsor palace at supper — oil landscape for The Sister Behind Her Smile",
-          "source": "stories/the-sister-behind-her-smile/art/landscapes/01-valsor-palace-at-supper.png",
-          "sourceSha256": "c0fc9238e43f6377e6bfe70f434f892e633b5d9df7121cab67fb447a4421ece5",
-          "full": {
-            "path": "landscapes/the-sister-behind-her-smile/01-valsor-palace-at-supper.webp",
-            "sha256": "7c67a8c5f58e9b690044faebd754aa93f3b10b31be8aaa1a401b882817d39fb2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sister-behind-her-smile/01-valsor-palace-at-supper-thumb.webp",
-            "sha256": "97f2ae23d76ec2c7fc8dd5b10c795ea8757fb1578911c83d4ebcd0713edcf162",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-canal-quarter",
-          "title": "The canal quarter",
-          "alt": "The canal quarter — oil landscape for The Sister Behind Her Smile",
-          "source": "stories/the-sister-behind-her-smile/art/landscapes/02-the-canal-quarter.png",
-          "sourceSha256": "dec05269ff26d9e2543f07a7740a690f409d7296d6b4204c56921f11f192c6d3",
-          "full": {
-            "path": "landscapes/the-sister-behind-her-smile/02-the-canal-quarter.webp",
-            "sha256": "d8aca38ec083186e15e12ca9a13f740bed1932c9fa39660fd684d990501609ff",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sister-behind-her-smile/02-the-canal-quarter-thumb.webp",
-            "sha256": "2bfe055e081f94fe99314f6454376b20430f0cfe8956e17f1b0ece36f3cf2675",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-beyond-the-palace-gates",
-          "title": "Beyond the palace gates",
-          "alt": "Beyond the palace gates — oil landscape for The Sister Behind Her Smile",
-          "source": "stories/the-sister-behind-her-smile/art/landscapes/03-beyond-the-palace-gates.png",
-          "sourceSha256": "2ebf841edfdd1bcc7446fbbad5af211ae6ae8acd4c69966c995f32927e75cc3b",
-          "full": {
-            "path": "landscapes/the-sister-behind-her-smile/03-beyond-the-palace-gates.webp",
-            "sha256": "a76c43d6b31d113030951958c4e4cbe41203a208a86ac7b43b868b73784f1ffa",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sister-behind-her-smile/03-beyond-the-palace-gates-thumb.webp",
-            "sha256": "d9ea3b149cae403f6114e3b5a0266dd5e239c160bfb52bc367e9c32e3a06b099",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-moonlight-on-the-east-wing",
-          "title": "Moonlight on the east wing",
-          "alt": "Moonlight on the east wing — oil landscape for The Sister Behind Her Smile",
-          "source": "stories/the-sister-behind-her-smile/art/landscapes/04-moonlight-on-the-east-wing.png",
-          "sourceSha256": "6e46965b7d5d944af016b60847c2f44e86b68a209c7aaa473bd0cd1daa62a4eb",
-          "full": {
-            "path": "landscapes/the-sister-behind-her-smile/04-moonlight-on-the-east-wing.webp",
-            "sha256": "bab5e173a13f2eb0402f42843f8c6ba422f33ff81ef90ff4925ae761c93c319f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sister-behind-her-smile/04-moonlight-on-the-east-wing-thumb.webp",
-            "sha256": "a9263f00d67073f2d70fe30b754a7be2570fd48de21ae3bde8dde9a9a472e128",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-first-red-light-at-valsor",
-          "title": "First red light at valsor",
-          "alt": "First red light at valsor — oil landscape for The Sister Behind Her Smile",
-          "source": "stories/the-sister-behind-her-smile/art/landscapes/05-first-red-light-at-valsor.png",
-          "sourceSha256": "bbb8df07d4870fc33a3b74d5c885b456a3a352a11888a67baecade7c73fe9e62",
-          "full": {
-            "path": "landscapes/the-sister-behind-her-smile/05-first-red-light-at-valsor.webp",
-            "sha256": "9bb02d88a7a141066d2d13a344056e843c2f52f5c6e285ebff58a94d2d23a8c7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sister-behind-her-smile/05-first-red-light-at-valsor-thumb.webp",
-            "sha256": "9d88ed2825dd3d76b6706a465e22d128c8422f7d3d49c181d06c1b1474621952",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-sky-remembers-us-return",
       "title": "The Sky Remembers Us",
       "reader": "stories/the-sky-remembers-us-return.html",
@@ -13768,6 +13666,31 @@
       "source": "stories/the-shape-of-mercy/art/landscapes/05-meltwater-through-the-orchard.png",
       "sourceSha256": "6bbb0b0d3ee07b777943e7470a3598ffcd1d1d4c683385f880f630e4d2a33489",
       "reason": "Moves the melted ice to an elevated cliff-like barrier above the orchard, whereas Marcus freezes the ornamental pond and courtyard beside the Hall. Image 04 better preserves the actual pond/firebreak geography."
+    },
+    {
+      "source": "stories/the-sister-behind-her-smile/art/landscapes/01-valsor-palace-at-supper.png",
+      "sourceSha256": "c0fc9238e43f6377e6bfe70f434f892e633b5d9df7121cab67fb447a4421ece5",
+      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
+    },
+    {
+      "source": "stories/the-sister-behind-her-smile/art/landscapes/02-the-canal-quarter.png",
+      "sourceSha256": "dec05269ff26d9e2543f07a7740a690f409d7296d6b4204c56921f11f192c6d3",
+      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
+    },
+    {
+      "source": "stories/the-sister-behind-her-smile/art/landscapes/03-beyond-the-palace-gates.png",
+      "sourceSha256": "2ebf841edfdd1bcc7446fbbad5af211ae6ae8acd4c69966c995f32927e75cc3b",
+      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
+    },
+    {
+      "source": "stories/the-sister-behind-her-smile/art/landscapes/04-moonlight-on-the-east-wing.png",
+      "sourceSha256": "6e46965b7d5d944af016b60847c2f44e86b68a209c7aaa473bd0cd1daa62a4eb",
+      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
+    },
+    {
+      "source": "stories/the-sister-behind-her-smile/art/landscapes/05-first-red-light-at-valsor.png",
+      "sourceSha256": "bbb8df07d4870fc33a3b74d5c885b456a3a352a11888a67baecade7c73fe9e62",
+      "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
