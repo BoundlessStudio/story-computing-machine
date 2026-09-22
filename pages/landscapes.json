@@ -7695,25 +7695,6 @@
       "reader": "stories/the-warmest-person-in-the-room.html",
       "images": [
         {
-          "id": "01-brightward-college-in-cloud",
-          "title": "Brightward college in cloud",
-          "alt": "Brightward college in cloud — oil landscape for The Warmest Person in the Room",
-          "source": "stories/the-warmest-person-in-the-room/art/landscapes/01-brightward-college-in-cloud.png",
-          "sourceSha256": "574bbae35ef23e83df90b1a2d6acdd4621abbbd4913b541f391e5bdb68ca9516",
-          "full": {
-            "path": "landscapes/the-warmest-person-in-the-room/01-brightward-college-in-cloud.webp",
-            "sha256": "b6b076df0ec772a5963c1a9a28d0907b00cbd33b31dc220d26509a5c5815cb46",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-warmest-person-in-the-room/01-brightward-college-in-cloud-thumb.webp",
-            "sha256": "d42d3ebb58c0c6a81ee408f9592883920a24481d8af85e9f007df3b6a2ee74f1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-covered-walkway",
           "title": "The covered walkway",
           "alt": "The covered walkway — oil landscape for The Warmest Person in the Room",
@@ -7728,25 +7709,6 @@
           "thumbnail": {
             "path": "landscapes/the-warmest-person-in-the-room/02-the-covered-walkway-thumb.webp",
             "sha256": "8a5275fbb948f5423b335d2a5456d260047f23cd96a4b57a211f683125d205e0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-south-practice-court",
-          "title": "The south practice court",
-          "alt": "The south practice court — oil landscape for The Warmest Person in the Room",
-          "source": "stories/the-warmest-person-in-the-room/art/landscapes/03-the-south-practice-court.png",
-          "sourceSha256": "fa7a8f9bef3de1451920cf1690a85cbe9d64d8fc6757f3b0c28af9bfc5d8bcdf",
-          "full": {
-            "path": "landscapes/the-warmest-person-in-the-room/03-the-south-practice-court.webp",
-            "sha256": "de864adc75b4598070e63fcd382b9b222ca1066b2dae59f94816f3f25bc4613d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-warmest-person-in-the-room/03-the-south-practice-court-thumb.webp",
-            "sha256": "32e928fc671ac687e38f5726c868aaaef14dac8240bba8ac5c427ecd3def2bb7",
             "width": 480,
             "height": 320
           }
@@ -12913,6 +12875,16 @@
       "source": "stories/the-walls-are-thick-enough/art/landscapes/05-dawn-at-the-north-wing.png",
       "sourceSha256": "c8b37822944128c7eb47aa42408b2d5c6457632f856f8fb18e7817ceb7ef35c0",
       "reason": "The dawn confrontation occurs in the outer chamber. This exterior north-wing landscape changes the indoor setting into an outdoor one."
+    },
+    {
+      "source": "stories/the-warmest-person-in-the-room/art/landscapes/01-brightward-college-in-cloud.png",
+      "sourceSha256": "574bbae35ef23e83df90b1a2d6acdd4621abbbd4913b541f391e5bdb68ca9516",
+      "reason": "The opening is inside registration; this remote campus panorama is not an observed approach and repeats the city/campus setting already represented by the explicit stair-window view."
+    },
+    {
+      "source": "stories/the-warmest-person-in-the-room/art/landscapes/03-the-south-practice-court.png",
+      "sourceSha256": "fa7a8f9bef3de1451920cf1690a85cbe9d64d8fc6757f3b0c28af9bfc5d8bcdf",
+      "reason": "The frozen south court is a brief account of last winter's evacuation, not a scene visited during the present college tour."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
