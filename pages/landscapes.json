@@ -4980,6 +4980,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "02-the-dry-dock",
+          "title": "The dry dock",
+          "alt": "The dry dock — oil landscape for The Door Knows Home",
+          "source": "pages/landscape-replacements/the-door-knows-home/02-the-dry-dock.png",
+          "sourceSha256": "58730e35c9c7880045c840843b594a5e94d74aa25fd6bfbba314e1b4a5f6116d",
+          "full": {
+            "path": "landscapes/the-door-knows-home/02-the-dry-dock-58730e35c9c78800.webp",
+            "sha256": "0c309cef1edd07d970c647f3e54e631f026c383602acb58f61db634fd18b21f7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-door-knows-home/02-the-dry-dock-58730e35c9c78800-thumb.webp",
+            "sha256": "e1701c36cb23eef3596d39a397e02840e2f44090b7834f41718158bffd3fdcf5",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-door-knows-home/art/landscapes/02-the-dry-dock.png",
+            "originalSha256": "63d7686d851782e4fa43f63f20f84636edf7226c1c2de24d897f875bf51fb8e9",
+            "correction": "Shows an empty dock where the view explicitly contains steel props and the algae-streaked underside of a barge.",
+            "prompt": "Correct this dry-dock oil landscape for The Door Knows Home. The source glimpse includes STEEL PROPS AND THE ALGAE-STREAKED UNDERSIDE OF A CANAL BARGE RESTING IN DRY DOCK. Keep the reference's stone-lined drained dock, rough masonry, damp stone floor, cold daylight and thick impasto oil texture, but make the dock clearly OCCUPIED. Recompose lower within the dock, looking obliquely along a modest long flat-bottomed canal barge raised on keel blocks and sturdy adjustable STEEL SUPPORT PROPS bearing against its underside and bilges. The underside of the barge dominates the upper middle frame, dark worn hull with green algae streaks and a distinct old waterline. Several steel props visibly connect solidly from the dock floor to pads beneath the hull, mechanically plausible, no floating boat or supports leaning uselessly on dock walls. Show enough dry floor and stone dock wall on each side to establish the setting. A small sliver of gray daylight above the dock rim suffices; no broad idyllic river panorama. Environment view of the precise place seen through the cabin's round window, without needing to draw the window frame. No people, text, logos or border. Traditional thick physical oil brushwork, not photography.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
