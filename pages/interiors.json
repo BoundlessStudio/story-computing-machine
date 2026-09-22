@@ -6658,6 +6658,70 @@
       ]
     },
     {
+      "slug": "the-ordinary-slime",
+      "title": "The Ordinary Slime",
+      "reader": "stories/the-ordinary-slime.html",
+      "images": [
+        {
+          "id": "01-the-assay-room",
+          "title": "The assay room",
+          "alt": "The assay room — oil interior study for The Ordinary Slime",
+          "source": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sourceSha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "full": {
+            "path": "interiors/the-ordinary-slime/01-the-assay-room-1967b77df7f63968.webp",
+            "sha256": "9562450709dbf7d8d8566bc1dfc68103083881b9c70d8e99c31657531a6cd0c9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ordinary-slime/01-the-assay-room-1967b77df7f63968-thumb.webp",
+            "sha256": "752501695660385157c33457ea9d51d4992d428c37c0da6616998bc5ab8839c5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-service-gallery",
+          "title": "The service gallery",
+          "alt": "The service gallery — oil interior study for The Ordinary Slime",
+          "source": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
+          "sourceSha256": "a73d98c68b43bf45176c67ba659eafa37674052c924e03476c99ab4d3e8d8aca",
+          "full": {
+            "path": "interiors/the-ordinary-slime/02-the-service-gallery-a73d98c68b43bf45.webp",
+            "sha256": "3acd8eb0a0fff9191d468eff444934d177cc6ab51be97b81e4dda761c6463205",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ordinary-slime/02-the-service-gallery-a73d98c68b43bf45-thumb.webp",
+            "sha256": "7574e5b5d3af63b1a9448914ecdc8bbed4d5d8736a5c17b4e020335f950dec5a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-repair-watch",
+          "title": "The repair watch",
+          "alt": "The repair watch — oil interior study for The Ordinary Slime",
+          "source": "stories/the-ordinary-slime/art/interiors/03-the-repair-watch.png",
+          "sourceSha256": "689793e5ab5c2d427af147be6e1454e78b8d9993e2cd94fb6bf4b990529c8dd4",
+          "full": {
+            "path": "interiors/the-ordinary-slime/03-the-repair-watch-689793e5ab5c2d42.webp",
+            "sha256": "f11fea370ac23289a2774e30b2ffd12a1405ed2ec140568f3c8588d006ab93a3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ordinary-slime/03-the-repair-watch-689793e5ab5c2d42-thumb.webp",
+            "sha256": "1c237e920674fb615fd0bedef94897db4ed4180bb3bd3141fb6ee13d6ed18b9a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-other-twin",
       "title": "The Other Twin",
       "reader": "stories/the-other-twin.html",
@@ -6843,6 +6907,70 @@
           "thumbnail": {
             "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8-thumb.webp",
             "sha256": "325909acf2d1ed1f37fac1f9ba702d48f0a804857fe39b207ce88ac163d9196e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-ring-between-lives",
+      "title": "The Ring Between Lives",
+      "reader": "stories/the-ring-between-lives.html",
+      "images": [
+        {
+          "id": "01-rhazelles-drawing-room",
+          "title": "Rhazelles drawing room",
+          "alt": "Rhazelles drawing room — oil interior study for The Ring Between Lives",
+          "source": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+          "sourceSha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+          "full": {
+            "path": "interiors/the-ring-between-lives/01-rhazelles-drawing-room-2f5abef3f454b156.webp",
+            "sha256": "62d7d7f0c143b59cb84548c6d3675da53c8fe0c5c10d9b2074deb019c8924622",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ring-between-lives/01-rhazelles-drawing-room-2f5abef3f454b156-thumb.webp",
+            "sha256": "ac91c23ee9391bd675a9a15d28a03351de5719ad95fa81db339fea32f3d73eff",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-ring-and-compact",
+          "title": "The ring and compact",
+          "alt": "The ring and compact — oil interior study for The Ring Between Lives",
+          "source": "stories/the-ring-between-lives/art/interiors/02-the-ring-and-compact.png",
+          "sourceSha256": "7ac3acd65bbcc2ecc792500f56e1799068b023ce582eb551fe8fdfa3aa8bc286",
+          "full": {
+            "path": "interiors/the-ring-between-lives/02-the-ring-and-compact-7ac3acd65bbcc2ec.webp",
+            "sha256": "38aa8884c83099eb6b7f80399cd5bddd5618e3a38df507581acff5ec266ec878",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ring-between-lives/02-the-ring-and-compact-7ac3acd65bbcc2ec-thumb.webp",
+            "sha256": "c2295c647ef394e9eb80619671ac6af88f638deb3bd23212926c9f2ae930c0db",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-east-gallery-at-dawn",
+          "title": "The east gallery at dawn",
+          "alt": "The east gallery at dawn — oil interior study for The Ring Between Lives",
+          "source": "stories/the-ring-between-lives/art/interiors/03-the-east-gallery-at-dawn.png",
+          "sourceSha256": "7d53061f28acb4b0375edc93bbbc646bbe8615a5824f032972b51f2ad729651e",
+          "full": {
+            "path": "interiors/the-ring-between-lives/03-the-east-gallery-at-dawn-7d53061f28acb4b0.webp",
+            "sha256": "b624533edc1c39bac7fef3779b1f166b3c4d9fd4d8accac0a3ae8cca41f895e2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ring-between-lives/03-the-east-gallery-at-dawn-7d53061f28acb4b0-thumb.webp",
+            "sha256": "971bd687ef982a8fdf973e75a871d91d3fa09a3f168fc8b789b9bc90d2378b3c",
             "width": 480,
             "height": 320
           }
