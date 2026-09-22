@@ -6210,6 +6210,70 @@
       ]
     },
     {
+      "slug": "the-names-on-the-cups",
+      "title": "The Names on the Cups",
+      "reader": "stories/the-names-on-the-cups.html",
+      "images": [
+        {
+          "id": "01-the-counter-on-sunday",
+          "title": "The counter on sunday",
+          "alt": "The counter on sunday — oil interior study for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+          "sourceSha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b",
+          "full": {
+            "path": "interiors/the-names-on-the-cups/01-the-counter-on-sunday-594dd5e07adc8060.webp",
+            "sha256": "7bbf908b99f67a03a66ffa66b5145b6bd80476fd75c9f91f3864e48a04dc404c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-names-on-the-cups/01-the-counter-on-sunday-594dd5e07adc8060-thumb.webp",
+            "sha256": "3889aaf3b999a0f731978dd26d3ee70f57aadc5055a322465a190f0a75619aa4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-window-and-radiator",
+          "title": "The window and radiator",
+          "alt": "The window and radiator — oil interior study for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/interiors/02-the-window-and-radiator.png",
+          "sourceSha256": "8b209a5501136ec660bb124d16fd0e66ffd7ff663c63e6dcba440621e1ec8721",
+          "full": {
+            "path": "interiors/the-names-on-the-cups/02-the-window-and-radiator-8b209a5501136ec6.webp",
+            "sha256": "e18b5627c5ad069278cd351a214d82151727cf2d1b81835775f6b044327e95d2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-names-on-the-cups/02-the-window-and-radiator-8b209a5501136ec6-thumb.webp",
+            "sha256": "0d3e7cb75e88703f54ac59b2dd2442add9bb0c6ed29191e9b8d3f68237d5ab7b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-by-the-bookshelves",
+          "title": "By the bookshelves",
+          "alt": "By the bookshelves — oil interior study for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/interiors/03-by-the-bookshelves.png",
+          "sourceSha256": "ccd9830fa247e60e9153ca9976bb12cf7b4e492fa2b8bfbcec04b23394ddb6b9",
+          "full": {
+            "path": "interiors/the-names-on-the-cups/03-by-the-bookshelves-ccd9830fa247e60e.webp",
+            "sha256": "2b05b9e2504a2e32e2453c5d2d7f76ce587b0ab31ab31336c23af7c1ff3ad175",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-names-on-the-cups/03-by-the-bookshelves-ccd9830fa247e60e-thumb.webp",
+            "sha256": "5575b52e2f2d9c23cc868f3d442b68947ce3f471b250cc28cd570eb59d02b4cc",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-next-train",
       "title": "The Next Train",
       "reader": "stories/the-next-train.html",
@@ -6523,6 +6587,70 @@
           "thumbnail": {
             "path": "interiors/the-old-percentage/03-the-borrowed-room-fc4744e79f30a300-thumb.webp",
             "sha256": "c61d3dadc21ecf021cd954c064bc99d2a3b4fd298e295176e686550559b5f7ad",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-one-who-gets-tired",
+      "title": "The One Who Gets Tired",
+      "reader": "stories/the-one-who-gets-tired.html",
+      "images": [
+        {
+          "id": "01-the-sofa-after-the-bakery",
+          "title": "The sofa after the bakery",
+          "alt": "The sofa after the bakery — oil interior study for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/interiors/01-the-sofa-after-the-bakery.png",
+          "sourceSha256": "1c0b06d63f751fb68fe7e78ea76c19e4176d361d6b1be4a20abfa73f90ae44ed",
+          "full": {
+            "path": "interiors/the-one-who-gets-tired/01-the-sofa-after-the-bakery-1c0b06d63f751fb6.webp",
+            "sha256": "f1eba4a52fefbac19a54f1faa122b6bc3c8004c2591b0699770427cc751273f5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-one-who-gets-tired/01-the-sofa-after-the-bakery-1c0b06d63f751fb6-thumb.webp",
+            "sha256": "64e3648f2ab36085a1119b7851f62715aa024e3d53c2000616b5d3ba08e128a1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-cinema-lobby",
+          "title": "The cinema lobby",
+          "alt": "The cinema lobby — oil interior study for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+          "sourceSha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+          "full": {
+            "path": "interiors/the-one-who-gets-tired/02-the-cinema-lobby-e1424712777fbd90.webp",
+            "sha256": "96a93b794e1abc6918cc5fe920adb78e53419319d95d6c3a60844550e0014cfa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-one-who-gets-tired/02-the-cinema-lobby-e1424712777fbd90-thumb.webp",
+            "sha256": "cee18b06d4ef30e0a54c420dc30935b3cfd0c9e03f2e12d018d78dacf0f70e98",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-aisle-seat",
+          "title": "The aisle seat",
+          "alt": "The aisle seat — oil interior study for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/interiors/03-the-aisle-seat.png",
+          "sourceSha256": "4337f56fd852fb50ad9cc26f29a1a30703c5f6c653e7179518b0961b74f4f7f5",
+          "full": {
+            "path": "interiors/the-one-who-gets-tired/03-the-aisle-seat-4337f56fd852fb50.webp",
+            "sha256": "d56c6d5d1c8f6a636d0085a851304462e40da4a7b81dd8ec84421bdbfd625622",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-one-who-gets-tired/03-the-aisle-seat-4337f56fd852fb50-thumb.webp",
+            "sha256": "ba264e9042759cad26756fa523051b19b5f603b15c03fceb5977ab82e947e2bc",
             "width": 480,
             "height": 320
           }
