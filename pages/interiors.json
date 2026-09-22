@@ -1090,6 +1090,70 @@
       ]
     },
     {
+      "slug": "ultimate-evil-dog",
+      "title": "A Very Good Dog",
+      "reader": "stories/ultimate-evil-dog.html",
+      "images": [
+        {
+          "id": "01-brightguards-breakfast-kitchen",
+          "title": "Brightguards breakfast kitchen",
+          "alt": "Brightguards breakfast kitchen — oil interior study for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+          "sourceSha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+          "full": {
+            "path": "interiors/ultimate-evil-dog/01-brightguards-breakfast-kitchen-35092a348b8170a6.webp",
+            "sha256": "7c1dd1b38d4c2e5db8339ef409c8b8fd589f93acd9e8427c2956ee433d1c2916",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/ultimate-evil-dog/01-brightguards-breakfast-kitchen-35092a348b8170a6-thumb.webp",
+            "sha256": "f3ec9524561c55a17a6c16427037edf63e1d4f2ac94d60ad52b7b3b2b49c8e7b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-two-beds-in-the-living-room",
+          "title": "Two beds in the living room",
+          "alt": "Two beds in the living room — oil interior study for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/interiors/02-two-beds-in-the-living-room.png",
+          "sourceSha256": "0c6e94878c3b8f381db8ae727a27851b4b14cdda1836cea25d17ea1feb36e09d",
+          "full": {
+            "path": "interiors/ultimate-evil-dog/02-two-beds-in-the-living-room-0c6e94878c3b8f38.webp",
+            "sha256": "cce9c76f0a0d21a007840180faade66da6b8f3bf223b645f5db07f595297efe9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/ultimate-evil-dog/02-two-beds-in-the-living-room-0c6e94878c3b8f38-thumb.webp",
+            "sha256": "df2a4da2d5477afbfd60c2712cd0c59400022f0936fcc019f15aa371c1cc68e9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-maledicts-exchange-laboratory",
+          "title": "Maledicts exchange laboratory",
+          "alt": "Maledicts exchange laboratory — oil interior study for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+          "sourceSha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+          "full": {
+            "path": "interiors/ultimate-evil-dog/03-maledicts-exchange-laboratory-c257510af9dd2695.webp",
+            "sha256": "a03eb003d9a010563117dc3a072ce36880d72d7e84fae85408f2dacb407c60ce",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/ultimate-evil-dog/03-maledicts-exchange-laboratory-c257510af9dd2695-thumb.webp",
+            "sha256": "2dde37d267705c588919f5481462c68cd60f6b31e2f5da14887c60a33225ae38",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "all-accounts-due",
       "title": "All Accounts Due",
       "reader": "stories/all-accounts-due.html",
@@ -9979,6 +10043,70 @@
           "thumbnail": {
             "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd-thumb.webp",
             "sha256": "4ef4bf7c26e83e4cb1e9255d1a99c8992fc0069cbe761d6b31a8c612249c7d15",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "what-the-town-owed-her",
+      "title": "What the Town Owed Her",
+      "reader": "stories/what-the-town-owed-her.html",
+      "images": [
+        {
+          "id": "01-the-half-packed-apartment",
+          "title": "The half packed apartment",
+          "alt": "The half packed apartment — oil interior study for What the Town Owed Her",
+          "source": "stories/what-the-town-owed-her/art/interiors/01-the-half-packed-apartment.png",
+          "sourceSha256": "d6f9b1686c36cf8ee52d2407d7670d6c5aa27467169e9fbcee148fc1a4fda7d0",
+          "full": {
+            "path": "interiors/what-the-town-owed-her/01-the-half-packed-apartment-d6f9b1686c36cf8e.webp",
+            "sha256": "b5bb57552ea101dd8aecd90d7b465a79a85416a8cd0871cbfb5e0d1505e94cf5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-town-owed-her/01-the-half-packed-apartment-d6f9b1686c36cf8e-thumb.webp",
+            "sha256": "6d77799d2181eab397869fbd56190543827d57d834dde1688e2d3ff21edbbd9d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-evadnes-storm-room",
+          "title": "Evadnes storm room",
+          "alt": "Evadnes storm room — oil interior study for What the Town Owed Her",
+          "source": "stories/what-the-town-owed-her/art/interiors/02-evadnes-storm-room.png",
+          "sourceSha256": "8a35a1c1d5a00a67064e3ac9552ceafc4b50cbe389041a2433e5e61e55900ad6",
+          "full": {
+            "path": "interiors/what-the-town-owed-her/02-evadnes-storm-room-8a35a1c1d5a00a67.webp",
+            "sha256": "b8fead651f779100d5915b29963de7b0cf02f4e32d7201b28dc918ae56501f5d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-town-owed-her/02-evadnes-storm-room-8a35a1c1d5a00a67-thumb.webp",
+            "sha256": "283282e3baf6b379e03f699315be3c71c480efe48afa3e2193a5d4300d0db51a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-landing-at-dawn",
+          "title": "The landing at dawn",
+          "alt": "The landing at dawn — oil interior study for What the Town Owed Her",
+          "source": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+          "sourceSha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00",
+          "full": {
+            "path": "interiors/what-the-town-owed-her/03-the-landing-at-dawn-a23001d471bea09f.webp",
+            "sha256": "feec645588e953ccbf3847acf468299098ead34bebcd5d74bbae708313d9b9cd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-town-owed-her/03-the-landing-at-dawn-a23001d471bea09f-thumb.webp",
+            "sha256": "ca4ddfcac3fd382525aeb773072031ae48b55ee55e73ca809e8c96502a94db16",
             "width": 480,
             "height": 320
           }
