@@ -649,25 +649,6 @@
       "reader": "stories/a-seat-for-the-sun.html",
       "images": [
         {
-          "id": "01-cloud-above-the-garden",
-          "title": "Cloud above the garden",
-          "alt": "Cloud above the garden — oil landscape for A Seat for the Sun",
-          "source": "stories/a-seat-for-the-sun/art/landscapes/01-cloud-above-the-garden.png",
-          "sourceSha256": "f014975bd7164a39ff155de41a0640cd52a1ae204abac8f534cad2138ca8ea5a",
-          "full": {
-            "path": "landscapes/a-seat-for-the-sun/01-cloud-above-the-garden.webp",
-            "sha256": "43a7a6b59abe93b7d4433268323d27d9d0a9a2fc10335a4b615652359e5ee425",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-seat-for-the-sun/01-cloud-above-the-garden-thumb.webp",
-            "sha256": "7703cd8dc79c1bd641952a84f0cb3b0911a91382ecf5853b162f9488fb613ea9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-birthday-tree",
           "title": "The birthday tree",
           "alt": "The birthday tree — oil landscape for A Seat for the Sun",
@@ -687,25 +668,6 @@
           }
         },
         {
-          "id": "03-gold-through-the-leaves",
-          "title": "Gold through the leaves",
-          "alt": "Gold through the leaves — oil landscape for A Seat for the Sun",
-          "source": "stories/a-seat-for-the-sun/art/landscapes/03-gold-through-the-leaves.png",
-          "sourceSha256": "ef6d7a9d4f417ec1d17f2931b1ed329da669bca09329a13ce8ca83e5d3485757",
-          "full": {
-            "path": "landscapes/a-seat-for-the-sun/03-gold-through-the-leaves.webp",
-            "sha256": "070c3279116f6134cc5556515c9e79434fde4eba91e8f5797ef3ccc7477b688f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-seat-for-the-sun/03-gold-through-the-leaves-thumb.webp",
-            "sha256": "d6423675584fa9ab6a2bd704511159cd46508ccd4e1f8934eee439beac418aa7",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-notched-cloud",
           "title": "The notched cloud",
           "alt": "The notched cloud — oil landscape for A Seat for the Sun",
@@ -720,25 +682,6 @@
           "thumbnail": {
             "path": "landscapes/a-seat-for-the-sun/04-the-notched-cloud-thumb.webp",
             "sha256": "e56766725d987c371bfc09197791ab79259a44aecf75f1dedcc1e5e0c56e7836",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-flattened-grass-at-afternoon",
-          "title": "Flattened grass at afternoon",
-          "alt": "Flattened grass at afternoon — oil landscape for A Seat for the Sun",
-          "source": "stories/a-seat-for-the-sun/art/landscapes/05-flattened-grass-at-afternoon.png",
-          "sourceSha256": "7408b7cdcedb209ff545ae8d523c64a6e16df810cba5794ec47249bdcd289844",
-          "full": {
-            "path": "landscapes/a-seat-for-the-sun/05-flattened-grass-at-afternoon.webp",
-            "sha256": "137d60c4d13bcccee0a11a8fdc4aa5800f2f24834bb4c28002a480cb68504e7d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-seat-for-the-sun/05-flattened-grass-at-afternoon-thumb.webp",
-            "sha256": "dcda349de28d9be03689b41019056244a60f8880ec55fc4785158937bbd31247",
             "width": 480,
             "height": 320
           }
@@ -18652,6 +18595,21 @@
       "source": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
       "sourceSha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8",
       "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
+    },
+    {
+      "source": "stories/a-seat-for-the-sun/art/landscapes/01-cloud-above-the-garden.png",
+      "sourceSha256": "f014975bd7164a39ff155de41a0640cd52a1ae204abac8f534cad2138ca8ea5a",
+      "reason": "Adds an extensive lake-and-island landscape to the cloud's view of a small garden, house and birthday table; that geography is not in the story."
+    },
+    {
+      "source": "stories/a-seat-for-the-sun/art/landscapes/03-gold-through-the-leaves.png",
+      "sourceSha256": "ef6d7a9d4f417ec1d17f2931b1ed329da669bca09329a13ce8ca83e5d3485757",
+      "reason": "Repeats the birthday tree as ordinary sunshine and drops its bunting, rather than depicting the source's golden threads and rings. The retained tree already establishes the location."
+    },
+    {
+      "source": "stories/a-seat-for-the-sun/art/landscapes/05-flattened-grass-at-afternoon.png",
+      "sourceSha256": "7408b7cdcedb209ff545ae8d523c64a6e16df810cba5794ec47249bdcd289844",
+      "reason": "Another view of the same tree and lawn, implying an empty after-party state. The source ends during the game with the children still there; no separate aftermath landscape is needed."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
