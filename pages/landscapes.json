@@ -8399,82 +8399,6 @@
       "reader": "stories/twelve-in-the-room.html",
       "images": [
         {
-          "id": "01-the-abandoned-ballroom-at-night",
-          "title": "The abandoned ballroom at night",
-          "alt": "The abandoned ballroom at night — oil landscape for Twelve in the Room",
-          "source": "stories/twelve-in-the-room/art/landscapes/01-the-abandoned-ballroom-at-night.png",
-          "sourceSha256": "c585bdcee8c0621677d1a5240b5a66fa99feab161b99625dc31a00fb925a701f",
-          "full": {
-            "path": "landscapes/twelve-in-the-room/01-the-abandoned-ballroom-at-night.webp",
-            "sha256": "ac72c29ba7d2e3807c260e714bca76e3435d706209bff6dbf6ece444c5723a75",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/twelve-in-the-room/01-the-abandoned-ballroom-at-night-thumb.webp",
-            "sha256": "421bd38d5a715c4488ef600ac4b1ab50088583f540b292057d906d044600edeb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-service-side",
-          "title": "The service side",
-          "alt": "The service side — oil landscape for Twelve in the Room",
-          "source": "stories/twelve-in-the-room/art/landscapes/02-the-service-side.png",
-          "sourceSha256": "4ef715917212cf39d0de9408c6ef4de84473d250b69812c900d91dcad4598ae6",
-          "full": {
-            "path": "landscapes/twelve-in-the-room/02-the-service-side.webp",
-            "sha256": "feb2f4578282f78a240d6044ce456ff03ae35db32309b068819a6359ae15d236",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/twelve-in-the-room/02-the-service-side-thumb.webp",
-            "sha256": "4b9c181a039412e86d0dfc212ef8ccc6fd4ab736246cfaf0e6b42e2e97202616",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-night-beyond-the-kitchen",
-          "title": "Night beyond the kitchen",
-          "alt": "Night beyond the kitchen — oil landscape for Twelve in the Room",
-          "source": "stories/twelve-in-the-room/art/landscapes/03-night-beyond-the-kitchen.png",
-          "sourceSha256": "22121841bae5a54ba37a06492d187416f0058069a295a851ffff8fa1fd727f01",
-          "full": {
-            "path": "landscapes/twelve-in-the-room/03-night-beyond-the-kitchen.webp",
-            "sha256": "20aabcc22ee392e118acedd08ac50e10f366f0c62970fd28b696cf1824605f30",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/twelve-in-the-room/03-night-beyond-the-kitchen-thumb.webp",
-            "sha256": "ca7763a799f88309379e6a72cc0269ff4a11623a76520bd0d82014ab06aa9f50",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-dust-above-the-old-roof",
-          "title": "Dust above the old roof",
-          "alt": "Dust above the old roof — oil landscape for Twelve in the Room",
-          "source": "stories/twelve-in-the-room/art/landscapes/04-dust-above-the-old-roof.png",
-          "sourceSha256": "d909a70b53fb39a30a1d277a948c81ceab9fa12a0013a8098f6eef46b96889cb",
-          "full": {
-            "path": "landscapes/twelve-in-the-room/04-dust-above-the-old-roof.webp",
-            "sha256": "3b789195e1a4adf40b96fe55ee906a0d47658747b5f04186ce3d0a6b351d31e6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/twelve-in-the-room/04-dust-above-the-old-roof-thumb.webp",
-            "sha256": "d07fd403da0af2d5e11268186a88515cd682d047595d822567512d948b0ff377",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-rear-stones-afterward",
           "title": "The rear stones afterward",
           "alt": "The rear stones afterward — oil landscape for Twelve in the Room",
@@ -12523,6 +12447,26 @@
       "source": "stories/transitions-in-common/art/landscapes/05-monday-evening-at-the-arts-wing.png",
       "sourceSha256": "188a8fd8096a912778f7d6a58127a96e72e30474a59ae13ed8b308050dac6825",
       "reason": "Monday's portrait work and ending stay at the costume-room table. The arts-wing exterior repeats the school location and invents an outdoor scene."
+    },
+    {
+      "source": "stories/twelve-in-the-room/art/landscapes/01-the-abandoned-ballroom-at-night.png",
+      "sourceSha256": "c585bdcee8c0621677d1a5240b5a66fa99feab161b99625dc31a00fb925a701f",
+      "reason": "The story opens inside the ballroom with weapons raised, not on this moonlit exterior approach."
+    },
+    {
+      "source": "stories/twelve-in-the-room/art/landscapes/02-the-service-side.png",
+      "sourceSha256": "4ef715917212cf39d0de9408c6ef4de84473d250b69812c900d91dcad4598ae6",
+      "reason": "The service route is an indoor brick passage through the kitchen. This exterior outbuilding view is not visited and duplicates the eventual rear exit."
+    },
+    {
+      "source": "stories/twelve-in-the-room/art/landscapes/03-night-beyond-the-kitchen.png",
+      "sourceSha256": "22121841bae5a54ba37a06492d187416f0058069a295a851ffff8fa1fd727f01",
+      "reason": "Repeats the kitchen's rear exit already represented by the retained post-blast stones; it adds no distinct outdoor location."
+    },
+    {
+      "source": "stories/twelve-in-the-room/art/landscapes/04-dust-above-the-old-roof.png",
+      "sourceSha256": "d909a70b53fb39a30a1d277a948c81ceab9fa12a0013a8098f6eef46b96889cb",
+      "reason": "The blast is experienced inside the kitchen under falling dust. This broad exterior roof-collapse view invents a viewpoint and repeats the retained aftermath."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
