@@ -8117,25 +8117,6 @@
           }
         },
         {
-          "id": "03-the-northern-tracks",
-          "title": "The northern tracks",
-          "alt": "The northern tracks — oil landscape for The Wrong Rescue",
-          "source": "stories/what-the-gates-keep/art/landscapes/03-the-northern-tracks.png",
-          "sourceSha256": "e33ae16be3f705c57765f7f8a1985c2026faa20871c4c1fbff37da21bc4366ee",
-          "full": {
-            "path": "landscapes/what-the-gates-keep/03-the-northern-tracks.webp",
-            "sha256": "bf3b37d30808a198b8c0cd45ac2f4970edc7e9507d07734d90dbd7eeceb72031",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-the-gates-keep/03-the-northern-tracks-thumb.webp",
-            "sha256": "8b7cdefd136892870d7b4d7f11dbde24c691a320557d301b53b3067deec13dca",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-empty-lower-courtyard",
           "title": "The empty lower courtyard",
           "alt": "The empty lower courtyard — oil landscape for The Wrong Rescue",
@@ -12698,6 +12679,11 @@
       "source": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
       "sourceSha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
       "reason": "A second view of the same scarred practice court after the disaster repeats the retained wreckage image without a new location or materially changed condition."
+    },
+    {
+      "source": "stories/what-the-gates-keep/art/landscapes/03-the-northern-tracks.png",
+      "sourceSha256": "e33ae16be3f705c57765f7f8a1985c2026faa20871c4c1fbff37da21bc4366ee",
+      "reason": "The northern journey and advancing companies are summarized in dialogue and recollection; this generic rocky track is not a distinct depicted scene and adds another road view beyond the actual ending departure."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
