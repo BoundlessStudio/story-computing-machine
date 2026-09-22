@@ -8642,6 +8642,70 @@
       ]
     },
     {
+      "slug": "the-unfixed-face",
+      "title": "The Unfixed Face",
+      "reader": "stories/the-unfixed-face.html",
+      "images": [
+        {
+          "id": "01-mirrorglass-vestibule",
+          "title": "Mirrorglass vestibule",
+          "alt": "Mirrorglass vestibule — oil interior study for The Unfixed Face",
+          "source": "stories/the-unfixed-face/art/interiors/01-mirrorglass-vestibule.png",
+          "sourceSha256": "5b26ec244ff5444bb683dc5c313c0606cf65df4bbaff10e2934c2da21b508be7",
+          "full": {
+            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-5b26ec244ff5444b.webp",
+            "sha256": "a1b945ccabe4f58f5fb2c496fe5e178dc2e87eefcffec0907eaff0c55a16bc12",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-5b26ec244ff5444b-thumb.webp",
+            "sha256": "29575c28bb40543166589fdd0931efe265f3adb7dce5565647c37cfdf1088192",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-mirrorglass-revision-room",
+          "title": "Mirrorglass revision room",
+          "alt": "Mirrorglass revision room — oil interior study for The Unfixed Face",
+          "source": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+          "sourceSha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+          "full": {
+            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-c02596e9443f7f0c.webp",
+            "sha256": "91a46476952c6ba68d294ec74679c5dafc876c7fa2f9a5eb3b809fcbff665234",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-c02596e9443f7f0c-thumb.webp",
+            "sha256": "252f5d76b3c21c12e05cc644a0a7f2a5ba11b178bd62d2375cdcfbc561c7beb0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-mirrorglass-private-archive",
+          "title": "Mirrorglass private archive",
+          "alt": "Mirrorglass private archive — oil interior study for The Unfixed Face",
+          "source": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
+          "sourceSha256": "a06f14ca59e4c8a8ea8202a574c8bb09cf21ba7467de27685c82b6161ad793d8",
+          "full": {
+            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-a06f14ca59e4c8a8.webp",
+            "sha256": "9a670bf063bba3ea0f8e1c93573c99b493e22d5d7b2cde7e2f840e1a32d798bb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-a06f14ca59e4c8a8-thumb.webp",
+            "sha256": "123c16b948f52c0ec53c5bcf9c9cb275c28a03ee95644e7e54dc215bedddb5fc",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-unoffered-hand",
       "title": "The Unoffered Hand",
       "reader": "stories/the-unoffered-hand.html",
@@ -8763,6 +8827,70 @@
           "thumbnail": {
             "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-a9e56b7fca6bc053-thumb.webp",
             "sha256": "a91384ae0428260797a3e613c89fe68add7e4635e56518451d3491e457bcab3f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-vacant-throne",
+      "title": "The Vacant Throne",
+      "reader": "stories/the-vacant-throne.html",
+      "images": [
+        {
+          "id": "01-the-empty-throne-room",
+          "title": "The empty throne room",
+          "alt": "The empty throne room — oil interior study for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/interiors/01-the-empty-throne-room.png",
+          "sourceSha256": "5f402696e01fb58e693ed4fa42cc257526f24b16c03de188404682f9a1269d33",
+          "full": {
+            "path": "interiors/the-vacant-throne/01-the-empty-throne-room-5f402696e01fb58e.webp",
+            "sha256": "c38d6bf55620e44582416e9bf065b1632f69544f282ac1c6c9504b71b65fd6fa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-vacant-throne/01-the-empty-throne-room-5f402696e01fb58e-thumb.webp",
+            "sha256": "1800478e95e1e653270638f2d19495a33c2c3d144e3ef4a2e0c20030fc5237bc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-preserved-bedchamber",
+          "title": "The preserved bedchamber",
+          "alt": "The preserved bedchamber — oil interior study for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/interiors/02-the-preserved-bedchamber.png",
+          "sourceSha256": "6acb3a55061e14efbbfd80788096a3bbbec12768b87a0173ef5527c3f40e5c0b",
+          "full": {
+            "path": "interiors/the-vacant-throne/02-the-preserved-bedchamber-6acb3a55061e14ef.webp",
+            "sha256": "e36a312b7c67b97fac94ffcb656df7463bb3e8d4249feb66007b3d1039143cc6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-vacant-throne/02-the-preserved-bedchamber-6acb3a55061e14ef-thumb.webp",
+            "sha256": "1adc65d0e0995bece73944939b8dd086381c762c1b4483a257698a88902b0153",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-little-map-room",
+          "title": "The little map room",
+          "alt": "The little map room — oil interior study for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/interiors/03-the-little-map-room.png",
+          "sourceSha256": "00401a76be9966f5cd65f19a8b0f7557fa2b213b2c2d4a1a1297f333436854b7",
+          "full": {
+            "path": "interiors/the-vacant-throne/03-the-little-map-room-00401a76be9966f5.webp",
+            "sha256": "398e7be85fa3c43a6f645244e7ea0efa55c9becfa5e9f46e76b5f60fa5df18f7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-vacant-throne/03-the-little-map-room-00401a76be9966f5-thumb.webp",
+            "sha256": "a5f371dba4715138cefbef5f542a495d1125e644d107927c32296728061bf26b",
             "width": 480,
             "height": 320
           }
