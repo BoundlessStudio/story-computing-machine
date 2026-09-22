@@ -9265,6 +9265,44 @@
           }
         },
         {
+          "id": "02-the-empty-approach",
+          "title": "The empty approach",
+          "alt": "The empty approach — oil landscape for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/landscapes/02-the-empty-approach.png",
+          "sourceSha256": "b3e8b5f2527405ee8d4ca077f4c473c03cb2c2c83532ff6d72a61ef28a51c83d",
+          "full": {
+            "path": "landscapes/deja-vu-too-late/02-the-empty-approach.webp",
+            "sha256": "81d412f7bb824c2bdc677d9dc25c2b23bc16fed48c316c6aeee07251f24f3740",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/deja-vu-too-late/02-the-empty-approach-thumb.webp",
+            "sha256": "af3b4e8f88a4590a058be7f43f402d18fc1099212bc2faa85299a721140477a5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-white-arc-in-darkness",
+          "title": "White arc in darkness",
+          "alt": "White arc in darkness — oil landscape for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
+          "sourceSha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43",
+          "full": {
+            "path": "landscapes/deja-vu-too-late/03-white-arc-in-darkness.webp",
+            "sha256": "104c1bc523a6444aea67f985ccdffd6ef1319385d2d365fc13a262114bf9d4ce",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/deja-vu-too-late/03-white-arc-in-darkness-thumb.webp",
+            "sha256": "31db9d3b427b97ad6419a2650c7d2e3b33b2b6e7dec5861feb4d7ef40c9b5f9d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "04-beyond-the-recovery-cone",
           "title": "Beyond the recovery cone",
           "alt": "Beyond the recovery cone — oil landscape for The Warning Comes Second",
@@ -9279,6 +9317,25 @@
           "thumbnail": {
             "path": "landscapes/deja-vu-too-late/04-beyond-the-recovery-cone-thumb.webp",
             "sha256": "70c45150a2ed7f21b6d9cace5b2da686da87b14ed76ba246ee171de15faf8fd5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "05-the-space-between",
+          "title": "The space between",
+          "alt": "The space between — oil landscape for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/landscapes/05-the-space-between.png",
+          "sourceSha256": "42f6f84a2cd1d7d8d69b4fab2e248b798ba32ec34ddb08c35a75764748bc3466",
+          "full": {
+            "path": "landscapes/deja-vu-too-late/05-the-space-between.webp",
+            "sha256": "296d19899c2bd87e2045f57e1843599a5e17bca237aace483626b019eaf4c450",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/deja-vu-too-late/05-the-space-between-thumb.webp",
+            "sha256": "73b082e97e075dc7b3004537ebacdbc5d229b9f53ebb97410b5d6e29bc7d70d2",
             "width": 480,
             "height": 320
           }
@@ -11448,21 +11505,6 @@
       "source": "stories/deaths-patron/art/landscapes/05-water-still-contained.png",
       "sourceSha256": "71dbce105641f70481e481d2c96664ce847d154eb60a8d9b0e67b06835c99b63",
       "reason": "Repeats the already represented reservoir/sluice complex; its straight beam bridge conflicts with the stone bridge shown in the retained image and the source's cracking stone crossing."
-    },
-    {
-      "source": "stories/deja-vu-too-late/art/landscapes/02-the-empty-approach.png",
-      "sourceSha256": "b3e8b5f2527405ee8d4ca077f4c473c03cb2c2c83532ff6d72a61ef28a51c83d",
-      "reason": "Repeats the service ring against stars at a smaller scale; the brief pre-approach recollection does not warrant another generic view of the same location."
-    },
-    {
-      "source": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
-      "sourceSha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43",
-      "reason": "A second close white ring arc duplicates the retained ring-and-spoke view while losing the occupied spoke central to the collision risk."
-    },
-    {
-      "source": "stories/deja-vu-too-late/art/landscapes/05-the-space-between.png",
-      "sourceSha256": "42f6f84a2cd1d7d8d69b4fab2e248b798ba32ec34ddb08c35a75764748bc3466",
-      "reason": "Another tiny ring and starfield duplicates the already retained separation/recovery-cone aftermath."
     },
     {
       "source": "stories/drone-down/art/landscapes/05-after-six-blocks.png",
