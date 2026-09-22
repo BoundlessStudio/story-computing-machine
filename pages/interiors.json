@@ -3906,6 +3906,70 @@
       ]
     },
     {
+      "slug": "the-inheritance-remembers",
+      "title": "The Counted Road",
+      "reader": "stories/the-inheritance-remembers.html",
+      "images": [
+        {
+          "id": "01-the-paint-rig-cab",
+          "title": "The paint rig cab",
+          "alt": "The paint rig cab — oil interior study for The Counted Road",
+          "source": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
+          "sourceSha256": "f5c50822290e73ccc335ab856c2d0ea82842ff5307b5f21da60b37ca202ea533",
+          "full": {
+            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-f5c50822290e73cc.webp",
+            "sha256": "e28556e294b2cebd10116855a9f0e25972066f9e63c3bfb063a4c393a359e44f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-f5c50822290e73cc-thumb.webp",
+            "sha256": "f87e38908c32f98441bfb2b5973de24c0dcf89d553d7783817cbc932ee2f8134",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-parcel-van-cab",
+          "title": "The parcel van cab",
+          "alt": "The parcel van cab — oil interior study for The Counted Road",
+          "source": "stories/the-inheritance-remembers/art/interiors/02-the-parcel-van-cab.png",
+          "sourceSha256": "cc4fde6fc7a75780adfcb8110a68f0a7a33e3f0f83f4c067b7682e3eaa79db49",
+          "full": {
+            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-cc4fde6fc7a75780.webp",
+            "sha256": "b8b31305dd4840d37775dad20e69709f97bf4c93ee625f5eb633f7d2581b2072",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-cc4fde6fc7a75780-thumb.webp",
+            "sha256": "c9b43aef1a714ad45c738182a6f58f0ccf4fe6be7ec9069c0115e6c2ba8b98c9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-crescents-in-the-cab",
+          "title": "Crescents in the cab",
+          "alt": "Crescents in the cab — oil interior study for The Counted Road",
+          "source": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+          "sourceSha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "full": {
+            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-3560bcc10dc296cd.webp",
+            "sha256": "92868f85d401a21fec1bb7538df57c796a79626c0de599813ea5fee9e1199310",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-3560bcc10dc296cd-thumb.webp",
+            "sha256": "f7730cdeca35fcfe3a4e9baeabaccc8b84b10c68c653e5346614f2bfbdc8a336",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-credit-book",
       "title": "The Credit Book",
       "reader": "stories/the-credit-book.html",
@@ -5051,6 +5115,70 @@
           "thumbnail": {
             "path": "interiors/the-kill-she-wouldnt-take/03-raw-review-console-b48218af3a190fbd-thumb.webp",
             "sha256": "21b270269019e3516ffe1e883f961329be6e263f888b7d685432ffbab16de960",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-kingdom-was-the-easy-part",
+      "title": "The Kingdom Was the Easy Part",
+      "reader": "stories/the-kingdom-was-the-easy-part.html",
+      "images": [
+        {
+          "id": "01-manydoor-library",
+          "title": "Manydoor library",
+          "alt": "Manydoor library — oil interior study for The Kingdom Was the Easy Part",
+          "source": "stories/the-kingdom-was-the-easy-part/art/interiors/01-manydoor-library.png",
+          "sourceSha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "full": {
+            "path": "interiors/the-kingdom-was-the-easy-part/01-manydoor-library-ff8f6f369bff59a3.webp",
+            "sha256": "1b0e09c6e57ff0166d0ca2753571649c1323a04f153efeef3649ecaec75763d6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-was-the-easy-part/01-manydoor-library-ff8f6f369bff59a3-thumb.webp",
+            "sha256": "44f915629d0585ff9fbbc1aaad0d3ee0d691a2437ecec009fe6b86174b64957b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-library-door-maze",
+          "title": "The library door maze",
+          "alt": "The library door maze — oil interior study for The Kingdom Was the Easy Part",
+          "source": "stories/the-kingdom-was-the-easy-part/art/interiors/02-the-library-door-maze.png",
+          "sourceSha256": "0aeba484e3afa6070997683ad11fd4de501c53e31934ea0a7391b4d6c8ab57b2",
+          "full": {
+            "path": "interiors/the-kingdom-was-the-easy-part/02-the-library-door-maze-0aeba484e3afa607.webp",
+            "sha256": "16220cf4dbaa0793f0e647f234bd8e85034c5ecd615d7296972793033c8febb7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-was-the-easy-part/02-the-library-door-maze-0aeba484e3afa607-thumb.webp",
+            "sha256": "ce0e0531413640a5fd0b76d504748acfc9eb3f1d3a3d795bffe7fd1cebc4590e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-east-room-stove",
+          "title": "The east room stove",
+          "alt": "The east room stove — oil interior study for The Kingdom Was the Easy Part",
+          "source": "stories/the-kingdom-was-the-easy-part/art/interiors/03-the-east-room-stove.png",
+          "sourceSha256": "bdbe465ecf43c594201f7251d068925772392cae77a4d5c0d7df098b54fc7e88",
+          "full": {
+            "path": "interiors/the-kingdom-was-the-easy-part/03-the-east-room-stove-bdbe465ecf43c594.webp",
+            "sha256": "adfdac0c832601baf8ef5710f7902df5fa58ca86e04975b99b96d8c6e0bce5ed",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-was-the-easy-part/03-the-east-room-stove-bdbe465ecf43c594-thumb.webp",
+            "sha256": "9543b4856a1a9fb9d8f2f14f30d9b7945eeb92f5e83bb36cc8d37df203298c6f",
             "width": 480,
             "height": 320
           }
