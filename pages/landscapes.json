@@ -2720,25 +2720,6 @@
           }
         },
         {
-          "id": "02-a-sea-of-copper-light",
-          "title": "A sea of copper light",
-          "alt": "A sea of copper light — oil landscape for The Astral Valkyrie",
-          "source": "stories/the-astral-valkyrie/art/landscapes/02-a-sea-of-copper-light.png",
-          "sourceSha256": "aa3eee380c87716a386e67bf43be22f5cc7b0802dfdf65c50dae525f5235d403",
-          "full": {
-            "path": "landscapes/the-astral-valkyrie/02-a-sea-of-copper-light.webp",
-            "sha256": "a705c804cba8e529615a6198c6d54d97b9f2de64bfd825a173918b1e9cdbdbbc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-astral-valkyrie/02-a-sea-of-copper-light-thumb.webp",
-            "sha256": "8e341c3289546717e7ee2b4a5c00b3aa3aea6c9c21a30ddd953012da3f572141",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-island-vanishes",
           "title": "The island vanishes",
           "alt": "The island vanishes — oil landscape for The Astral Valkyrie",
@@ -2753,25 +2734,6 @@
           "thumbnail": {
             "path": "landscapes/the-astral-valkyrie/03-the-island-vanishes-thumb.webp",
             "sha256": "859e2fb9503e79d0781cc7c6897506391276a7b0db4ca2675243765948a3d0eb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-fragments-above-the-water",
-          "title": "Fragments above the water",
-          "alt": "Fragments above the water — oil landscape for The Astral Valkyrie",
-          "source": "stories/the-astral-valkyrie/art/landscapes/04-fragments-above-the-water.png",
-          "sourceSha256": "6a2823fe6797eee12a8c3d1b0d4bc4d92f4b705652241910ebd4aee72fb07f73",
-          "full": {
-            "path": "landscapes/the-astral-valkyrie/04-fragments-above-the-water.webp",
-            "sha256": "e4d854ec479719cbdb926863091735ea120f3a12d708868c83a9390d5187f67a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-astral-valkyrie/04-fragments-above-the-water-thumb.webp",
-            "sha256": "229fd4f4196799953403ab9155d8c32acb096852f1b70c885e09dc735013ce60",
             "width": 480,
             "height": 320
           }
@@ -16570,6 +16532,16 @@
       "source": "stories/terms-at-four/art/landscapes/05-evening-over-quiet-roofs.png",
       "sourceSha256": "e4b98aa4300daf15b1970e55205d5549cb4841cf849c1e22491ab4e228a6a214",
       "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
+    },
+    {
+      "source": "stories/the-astral-valkyrie/art/landscapes/02-a-sea-of-copper-light.png",
+      "sourceSha256": "aa3eee380c87716a386e67bf43be22f5cc7b0802dfdf65c50dae525f5235d403",
+      "reason": "Repeats the western sea as an ordinary sunset, losing the growing destructive body and falling fragments of the retained opening."
+    },
+    {
+      "source": "stories/the-astral-valkyrie/art/landscapes/04-fragments-above-the-water.png",
+      "sourceSha256": "6a2823fe6797eee12a8c3d1b0d4bc4d92f4b705652241910ebd4aee72fb07f73",
+      "reason": "Repeats the same impact aftermath already shown by the concentric-ring image; another ocean/fire view adds little distinct setting information."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
