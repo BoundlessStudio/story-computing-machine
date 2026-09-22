@@ -272,108 +272,6 @@
       ]
     },
     {
-      "slug": "a-little-more-room",
-      "title": "A Little More Room",
-      "reader": "stories/a-little-more-room.html",
-      "images": [
-        {
-          "id": "01-apartment-district-evening",
-          "title": "Apartment district evening",
-          "alt": "Apartment district evening — oil landscape for A Little More Room",
-          "source": "stories/a-little-more-room/art/landscapes/01-apartment-district-evening.png",
-          "sourceSha256": "9ad74f77644ced83b49d420213aca167adf6fcfbf2af8723c7aa53eaad6dcd26",
-          "full": {
-            "path": "landscapes/a-little-more-room/01-apartment-district-evening.webp",
-            "sha256": "67c5ace932f050109a067a4c149fc285bedf42d3fde011719497c26611e2dac8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-more-room/01-apartment-district-evening-thumb.webp",
-            "sha256": "da048bf9ae47f165f294715ba94a1e24a1497dcc44c7266f85bfc9f5d56b36b2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-rain-song-cityscape",
-          "title": "Rain song cityscape",
-          "alt": "Rain song cityscape — oil landscape for A Little More Room",
-          "source": "stories/a-little-more-room/art/landscapes/02-rain-song-cityscape.png",
-          "sourceSha256": "7b2a6fda36fabc6838a7eba8dbdb3fafcbb8894ca16a90d8f04ad837ae897ec7",
-          "full": {
-            "path": "landscapes/a-little-more-room/02-rain-song-cityscape.webp",
-            "sha256": "6eb07d6cf275045c4ec1075398d260da9fa236cb01adebf92a2e5c6dfc3a42e4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-more-room/02-rain-song-cityscape-thumb.webp",
-            "sha256": "bdc0010efd77827fcb4ca6f861cce73d4db25be8d736facf46147e9ed309a006",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-space-between-the-buildings",
-          "title": "Space between the buildings",
-          "alt": "Space between the buildings — oil landscape for A Little More Room",
-          "source": "stories/a-little-more-room/art/landscapes/03-space-between-the-buildings.png",
-          "sourceSha256": "f1273e38e96717764c6ed6bd1f246b3f1655d908a71edb34e8a699e2532f5b3a",
-          "full": {
-            "path": "landscapes/a-little-more-room/03-space-between-the-buildings.webp",
-            "sha256": "d6633203986e4ed513e55ea350f7b82f93b2421d2da6fe2393102ad8faaa047d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-more-room/03-space-between-the-buildings-thumb.webp",
-            "sha256": "17d560af1a59d038d6f9264247434e9359cb7305947dea93f9d63c7535f39024",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-saturday-dusk-rooftops",
-          "title": "Saturday dusk rooftops",
-          "alt": "Saturday dusk rooftops — oil landscape for A Little More Room",
-          "source": "stories/a-little-more-room/art/landscapes/04-saturday-dusk-rooftops.png",
-          "sourceSha256": "264fa5cfd2cc28c94e162c9c19e72d1e546a272823eba09dfcc32e651daf9cc5",
-          "full": {
-            "path": "landscapes/a-little-more-room/04-saturday-dusk-rooftops.webp",
-            "sha256": "7b433a12c0c1c0311805b128e4b90f34276332fac18a1a1abf83403484d7d06e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-more-room/04-saturday-dusk-rooftops-thumb.webp",
-            "sha256": "d85852b73b492cf6ca5ec18670f0332d50607531c9dcadef6f5d3ed1d65a370e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-night-over-the-neighborhood",
-          "title": "Night over the neighborhood",
-          "alt": "Night over the neighborhood — oil landscape for A Little More Room",
-          "source": "stories/a-little-more-room/art/landscapes/05-night-over-the-neighborhood.png",
-          "sourceSha256": "5075957fd757d5e8afdb6bef823763de377f3733f142e2144145ed5a52ec0a6d",
-          "full": {
-            "path": "landscapes/a-little-more-room/05-night-over-the-neighborhood.webp",
-            "sha256": "c46e97b2787618244cc7f7bea4b347be68439d83d12614a0ca9574f2e3ec2b9d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-more-room/05-night-over-the-neighborhood-thumb.webp",
-            "sha256": "bd3827b7ab85b8ccc505aeccfbd02533a2a978efaa1b0834de99e32a61023b19",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "laughing-clouds",
       "title": "A Little Weather Between Us",
       "reader": "stories/laughing-clouds.html",
@@ -19160,6 +19058,31 @@
       "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/05-the-green-tiled-dream-house.png",
       "sourceSha256": "041cc2cd0f1ed626ee16bc9ba8b09be558bccff007eddef418ff05272ee7831b",
       "reason": "The green-tiled dream house stands inside a whale, whose ribs support its gutters, and initially has no door. The painting puts a cottage with a door in an open meadow beside distant water."
+    },
+    {
+      "source": "stories/a-little-more-room/art/landscapes/01-apartment-district-evening.png",
+      "sourceSha256": "9ad74f77644ced83b49d420213aca167adf6fcfbf2af8723c7aa53eaad6dcd26",
+      "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/a-little-more-room/art/landscapes/02-rain-song-cityscape.png",
+      "sourceSha256": "7b2a6fda36fabc6838a7eba8dbdb3fafcbb8894ca16a90d8f04ad837ae897ec7",
+      "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/a-little-more-room/art/landscapes/03-space-between-the-buildings.png",
+      "sourceSha256": "f1273e38e96717764c6ed6bd1f246b3f1655d908a71edb34e8a699e2532f5b3a",
+      "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/a-little-more-room/art/landscapes/04-saturday-dusk-rooftops.png",
+      "sourceSha256": "264fa5cfd2cc28c94e162c9c19e72d1e546a272823eba09dfcc32e651daf9cc5",
+      "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/a-little-more-room/art/landscapes/05-night-over-the-neighborhood.png",
+      "sourceSha256": "5075957fd757d5e8afdb6bef823763de377f3733f142e2144145ed5a52ec0a6d",
+      "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
