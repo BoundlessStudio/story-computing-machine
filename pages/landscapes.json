@@ -8179,82 +8179,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-lenders-street",
-          "title": "The lenders street",
-          "alt": "The lenders street — oil landscape for The Wrong Side of the Part",
-          "source": "stories/the-wrong-side-of-the-part/art/landscapes/02-the-lenders-street.png",
-          "sourceSha256": "5f56c4cdb0bc346ee5cf74976c90747a01ee1ca823173af768c7ce8f877250d8",
-          "full": {
-            "path": "landscapes/the-wrong-side-of-the-part/02-the-lenders-street.webp",
-            "sha256": "f73e3f0a7cbf655b58a0f01b505611587a9d2cd36abb7207ee186021b992b3c7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wrong-side-of-the-part/02-the-lenders-street-thumb.webp",
-            "sha256": "d6eef66c1f425ba2ea57d146b0d2a1abbee435acfb6cfe7b64500cf5a9ac6ba8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-late-light-on-the-shop-roofs",
-          "title": "Late light on the shop roofs",
-          "alt": "Late light on the shop roofs — oil landscape for The Wrong Side of the Part",
-          "source": "stories/the-wrong-side-of-the-part/art/landscapes/03-late-light-on-the-shop-roofs.png",
-          "sourceSha256": "b0e0a96c50afe01c64eb7dfeae5ab9ac1de66412aa7c0e3305d62818203dc31d",
-          "full": {
-            "path": "landscapes/the-wrong-side-of-the-part/03-late-light-on-the-shop-roofs.webp",
-            "sha256": "16ec55098d2fbd03a8a2d96bbddc0fae9c51d4fb0e19de4bba07b64646f30d11",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wrong-side-of-the-part/03-late-light-on-the-shop-roofs-thumb.webp",
-            "sha256": "ac3e31b8cdb799241ccd77a9164d27b15ef4241fba76d86c89fdc88856f8814f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-street-after-five",
-          "title": "The street after five",
-          "alt": "The street after five — oil landscape for The Wrong Side of the Part",
-          "source": "stories/the-wrong-side-of-the-part/art/landscapes/04-the-street-after-five.png",
-          "sourceSha256": "cfc2cb599b77b328fb4d0a06e02488f6895d73aa7a2905b125494b7129d634fa",
-          "full": {
-            "path": "landscapes/the-wrong-side-of-the-part/04-the-street-after-five.webp",
-            "sha256": "83c4385faed39fcdd30ee127ef0fb86782389c5a971862262d83574b74e46a4c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wrong-side-of-the-part/04-the-street-after-five-thumb.webp",
-            "sha256": "fa3362b89b172d33be16b51f3cfc704206b9f76b00eeb19f76a074006b29988e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-windows-above-the-shop",
-          "title": "Windows above the shop",
-          "alt": "Windows above the shop — oil landscape for The Wrong Side of the Part",
-          "source": "stories/the-wrong-side-of-the-part/art/landscapes/05-windows-above-the-shop.png",
-          "sourceSha256": "0acec3dde716422723e912da6d2a4c2793d7fde6969be83ec7914fa90773ae11",
-          "full": {
-            "path": "landscapes/the-wrong-side-of-the-part/05-windows-above-the-shop.webp",
-            "sha256": "82c2b631aa39461a671fae80e57fda1c6182ae9004647b628192b4e663d1dbc6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wrong-side-of-the-part/05-windows-above-the-shop-thumb.webp",
-            "sha256": "50bbc05d44fa343e53e151df75cbbf5e0db662acf17e52add772ff2626eff899",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12649,6 +12573,26 @@
       "source": "stories/the-wolf-in-the-mirror/art/landscapes/05-gray-light-after-the-night.png",
       "sourceSha256": "5ba3192e2dce2d4d676baa7a9e05d3fcd01433087f7bdcc279711aa45e45a28b",
       "reason": "Dawn light appears around blackout panels while both characters remain in the vestibule. The landscaped outdoor sunrise view moves the ending outside."
+    },
+    {
+      "source": "stories/the-wrong-side-of-the-part/art/landscapes/02-the-lenders-street.png",
+      "sourceSha256": "5f56c4cdb0bc346ee5cf74976c90747a01ee1ca823173af768c7ce8f877250d8",
+      "reason": "Petra reports being stuck at the lender by phone. This lender-street exterior is not a scene in the story."
+    },
+    {
+      "source": "stories/the-wrong-side-of-the-part/art/landscapes/03-late-light-on-the-shop-roofs.png",
+      "sourceSha256": "b0e0a96c50afe01c64eb7dfeae5ab9ac1de66412aa7c0e3305d62818203dc31d",
+      "reason": "No rooftop viewpoint occurs; it repeats the shop neighborhood from an invented elevated angle."
+    },
+    {
+      "source": "stories/the-wrong-side-of-the-part/art/landscapes/04-the-street-after-five.png",
+      "sourceSha256": "cfc2cb599b77b328fb4d0a06e02488f6895d73aa7a2905b125494b7129d634fa",
+      "reason": "After five the confrontation and terms remain inside the locked shop. This exterior repeats the retained awning location without a new outdoor event."
+    },
+    {
+      "source": "stories/the-wrong-side-of-the-part/art/landscapes/05-windows-above-the-shop.png",
+      "sourceSha256": "0acec3dde716422723e912da6d2a4c2793d7fde6969be83ec7914fa90773ae11",
+      "reason": "Another exterior of the same shop street adds no distinct setting or observed view."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
