@@ -2696,6 +2696,32 @@
           }
         },
         {
+          "id": "02-the-upper-switchback",
+          "title": "The Cracked Upper Switchback",
+          "alt": "The Cracked Upper Switchback — corrected oil landscape for Mother of Monsters",
+          "source": "pages/landscape-replacements/mother-of-monsters/02-the-upper-switchback.png",
+          "sourceSha256": "8b64141c4a61f8ed874c4940fb35fcb6ef708eb46aa6e3fe48878ac78c940caa",
+          "full": {
+            "path": "landscapes/mother-of-monsters/02-the-upper-switchback-8b64141c4a61f8ed.webp",
+            "sha256": "ea97a14193655e937443e8765cd28fba496d8d59acfb61633b1a8f1ef92121ea",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/mother-of-monsters/02-the-upper-switchback-8b64141c4a61f8ed-thumb.webp",
+            "sha256": "15357dc2d223843cdd36462acb984ef61981aad8026c18f317d17e92b39e64a5",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/mother-of-monsters/art/landscapes/02-the-upper-switchback.png",
+            "originalSha256": "8cc62608e4931538836028794d1318289c4f9c9ed9483ef91845621b2c6331f6",
+            "correction": "Repeats the same intact upper causeway already shown with the sanctuary, without a distinct state.",
+            "prompt": "Create a corrected, DISTINCT upper-switchback illustration for Mother of Monsters. FIRST reference supplies the upper-road subject and thick impasto oil style; SECOND reference is the continuity authority for the old ruined sanctuary and narrow steep ravine. This image must not repeat the second reference's wide intact-causeway panorama. Move the camera CLOSE to the upper switchback's unsupported OUTER FACE, viewed from a small adjacent service ledge, after the first gate blast but before the later road-demolition charge. The principal subject is a dangerous fresh CRACK splitting the pale stone paving, continuing down the partly detached retaining face above empty ravine air. Slightly tilted slabs, fallen parapet stones and a small unlit clay powder crock wedged against the unsupported face show the work site. The narrow ascending road still connects around the bend at this moment. Crop most of the sanctuary out; at the top right show only a partial old broken wall with a smoking breached gate, matching the SECOND reference's aged low ruins, NOT a new intact castle. Keep the same steep gray ravine with thin watercourse far below on the left, sparse dark scrub, cool early dawn light with faint smoke. No armies or named figures required. Heavy expressive oil brushwork, stone texture, wide format. No readable labels, diagram arrows or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-the-separate-ways",
           "title": "The separate ways",
           "alt": "The separate ways — oil landscape for Mother of Monsters",
