@@ -898,6 +898,70 @@
       ]
     },
     {
+      "slug": "kite-letters-below",
+      "title": "A Question for the Sky",
+      "reader": "stories/kite-letters-below.html",
+      "images": [
+        {
+          "id": "01-maintenance-archive",
+          "title": "Maintenance archive",
+          "alt": "Maintenance archive — oil interior study for A Question for the Sky",
+          "source": "stories/kite-letters-below/art/interiors/01-maintenance-archive.png",
+          "sourceSha256": "cd9142da6cab3d04c3ea742c4721dab8ea8d49b625315be8d9839e20016604d3",
+          "full": {
+            "path": "interiors/kite-letters-below/01-maintenance-archive-cd9142da6cab3d04.webp",
+            "sha256": "df2aedd8eb33efb02e84cda756fb97598634241c37d52c4eb0c5d15ec3e3ad5e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/kite-letters-below/01-maintenance-archive-cd9142da6cab3d04-thumb.webp",
+            "sha256": "9dddfd7624da9ac09fdaef8910c04f50f22a59b7ecbc431ca5e26c629574780a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-radiator-control-hub",
+          "title": "Radiator control hub",
+          "alt": "Radiator control hub — oil interior study for A Question for the Sky",
+          "source": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+          "sourceSha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e",
+          "full": {
+            "path": "interiors/kite-letters-below/02-radiator-control-hub-b248a373a3b9fb05.webp",
+            "sha256": "d4f6f730fce3d14209e3677e78a400260567703adfbcabeb272ce52a4040e18c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/kite-letters-below/02-radiator-control-hub-b248a373a3b9fb05-thumb.webp",
+            "sha256": "a5fac954c906a2d9804583d9e7d28b4c0d06d82510a0861567bf9c1ac7d8c795",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-small-station-galley",
+          "title": "Small station galley",
+          "alt": "Small station galley — oil interior study for A Question for the Sky",
+          "source": "stories/kite-letters-below/art/interiors/03-small-station-galley.png",
+          "sourceSha256": "7b75a609879cdbbd141cf3ac2d2b59ebe1f1f2c85aea7ab273913d56a2c2c295",
+          "full": {
+            "path": "interiors/kite-letters-below/03-small-station-galley-7b75a609879cdbbd.webp",
+            "sha256": "393e092f36eb420a3b792cf77f84c38544204d8eaa551a87a2277cf402149133",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/kite-letters-below/03-small-station-galley-7b75a609879cdbbd-thumb.webp",
+            "sha256": "7f418d3f106a2dfd551bb9659d6289ee1040f2d74bef29951181650f565b782e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-reasonable-declaration",
       "title": "A Reasonable Declaration",
       "reader": "stories/a-reasonable-declaration.html",
@@ -1787,6 +1851,70 @@
           "thumbnail": {
             "path": "interiors/i-really-need-a-sidekick/03-moon-wagon-from-gallery-098ce40602ef07a4-thumb.webp",
             "sha256": "0ebe2314a19b1c2b29ca6520e78587d7fd83e65ad8c14a7328be370e3e88e63c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "no-one-like-me",
+      "title": "No One Like Me",
+      "reader": "stories/no-one-like-me.html",
+      "images": [
+        {
+          "id": "01-dressing-room-corridor",
+          "title": "Dressing room corridor",
+          "alt": "Dressing room corridor — oil interior study for No One Like Me",
+          "source": "stories/no-one-like-me/art/interiors/01-dressing-room-corridor.png",
+          "sourceSha256": "86bee4763710ae9ab88ef663f027d6ac0cfdee80f166fce9f392482217eb9fc3",
+          "full": {
+            "path": "interiors/no-one-like-me/01-dressing-room-corridor-86bee4763710ae9a.webp",
+            "sha256": "808693e7561a93131649b29fbc4ee8f6b1b2e048a80a3ecfc40a0a5c92adfe32",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/no-one-like-me/01-dressing-room-corridor-86bee4763710ae9a-thumb.webp",
+            "sha256": "1bd1bc4f641237f9c902bb53a041776e7b568728f321ef9291f355c5dfcb9528",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-black-stage",
+          "title": "The black stage",
+          "alt": "The black stage — oil interior study for No One Like Me",
+          "source": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
+          "sourceSha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07",
+          "full": {
+            "path": "interiors/no-one-like-me/02-the-black-stage-a47d681463a524aa.webp",
+            "sha256": "334bbfb90259a09049bed4342494e49b2cdd24cd10bfcafe83d6b632d28d807e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/no-one-like-me/02-the-black-stage-a47d681463a524aa-thumb.webp",
+            "sha256": "40e98ed52e60adb2e501aa7a81fcf9e9161ec8e6b2aa772e4e633f13ec269652",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-behind-the-curtain",
+          "title": "Behind the curtain",
+          "alt": "Behind the curtain — oil interior study for No One Like Me",
+          "source": "stories/no-one-like-me/art/interiors/03-behind-the-curtain.png",
+          "sourceSha256": "b2f1f5851ca2f9deec2d30276f08df2e06184a4f36922649576594d4d51ac53a",
+          "full": {
+            "path": "interiors/no-one-like-me/03-behind-the-curtain-b2f1f5851ca2f9de.webp",
+            "sha256": "2733958fd5abfac0ac101af408a42c671bd445a5bee570c0aaf4f7c24a066a15",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/no-one-like-me/03-behind-the-curtain-b2f1f5851ca2f9de-thumb.webp",
+            "sha256": "d7c53d708da3562e753f86614fa49b57d26749932e4fd2c4c43df3eb00b326f7",
             "width": 480,
             "height": 320
           }
