@@ -268,82 +268,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-abandoned-quarry",
-          "title": "The abandoned quarry",
-          "alt": "The abandoned quarry — oil landscape for A Knock in Someone Else's Sleep",
-          "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/02-the-abandoned-quarry.png",
-          "sourceSha256": "d99c8d193cddd56a7aca04cc697d8a211fe38d3d2196701f0b89232ce65e6c7f",
-          "full": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/02-the-abandoned-quarry.webp",
-            "sha256": "8c9c408af47edc1671b102753cbbf27926a2558d3a62a0435fd7739ff696c6fd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/02-the-abandoned-quarry-thumb.webp",
-            "sha256": "963c1735aecb26b1094c501369808361fb1471fdb9063c557d948e060e9a26d3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-dream-sea",
-          "title": "The dream sea",
-          "alt": "The dream sea — oil landscape for A Knock in Someone Else's Sleep",
-          "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/03-the-dream-sea.png",
-          "sourceSha256": "5a115b4e2bf945c49dc7d70705dbbb127c5c0bb3a1df52c065cd363d108735f7",
-          "full": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea.webp",
-            "sha256": "503349d7e9c60f909ae58ea72e3a21b73060f64b8758f063addafbb0f8ba75cf",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea-thumb.webp",
-            "sha256": "c1d2ae6c15d7adc9a17a4e0f5be4168468765ce2142c6abf03e7672a5eb1a859",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-house-at-the-turning-place",
-          "title": "House at the turning place",
-          "alt": "House at the turning place — oil landscape for A Knock in Someone Else's Sleep",
-          "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/04-house-at-the-turning-place.png",
-          "sourceSha256": "817e9ed0b3f03bc2dd12aec2d489dca1c272f6e95bfc759c23d5b2c0e2eb3a4d",
-          "full": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/04-house-at-the-turning-place.webp",
-            "sha256": "b3c50b792848674b661d5e10c02d715e66feb595d3a46ccfdfe3e70e09c69fb1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/04-house-at-the-turning-place-thumb.webp",
-            "sha256": "22d2d62e787b59d7ffa1a2d76d65909174e7253141457fad9bbb9bbacc717c12",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-green-tiled-dream-house",
-          "title": "The green tiled dream house",
-          "alt": "The green tiled dream house — oil landscape for A Knock in Someone Else's Sleep",
-          "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/05-the-green-tiled-dream-house.png",
-          "sourceSha256": "041cc2cd0f1ed626ee16bc9ba8b09be558bccff007eddef418ff05272ee7831b",
-          "full": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house.webp",
-            "sha256": "5ae02f578476d2c1c1e310ed6d416eefb94897b46b2bd8996b6938ade0df61af",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house-thumb.webp",
-            "sha256": "12289351edaafa64fedcc38713d54b933fab34e85045502917941f69a2c75179",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -19216,6 +19140,26 @@
       "source": "stories/a-darkness-written-under-skin/art/landscapes/05-high-window-morning-light.png",
       "sourceSha256": "bed3b3adb46933c62e97ff48005079b35d698c7a825e00c15d8cc0d78db09529",
       "reason": "Gray morning reaches high workroom windows; the source supplies no panoramic village, lake or hilltop view. This repeats the invented outdoor setting."
+    },
+    {
+      "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/02-the-abandoned-quarry.png",
+      "sourceSha256": "d99c8d193cddd56a7aca04cc697d8a211fe38d3d2196701f0b89232ce65e6c7f",
+      "reason": "A second nearly identical quarry establishing view adds no separate story setting; the cottages-above-quarry painting already shows the same geography."
+    },
+    {
+      "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/03-the-dream-sea.png",
+      "sourceSha256": "5a115b4e2bf945c49dc7d70705dbbb127c5c0bb3a1df52c065cd363d108735f7",
+      "reason": "The dream sea is made inside a cupboard and later inside the bus. This natural open coast strips away the interior dream container and relocates it outdoors."
+    },
+    {
+      "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/04-house-at-the-turning-place.png",
+      "sourceSha256": "817e9ed0b3f03bc2dd12aec2d489dca1c272f6e95bfc759c23d5b2c0e2eb3a4d",
+      "reason": "A house at a bus turnaround is only reported in conversation. No coastline or lakeside road is established; this painting invents its defining geography."
+    },
+    {
+      "source": "stories/a-knock-in-someone-elses-sleep/art/landscapes/05-the-green-tiled-dream-house.png",
+      "sourceSha256": "041cc2cd0f1ed626ee16bc9ba8b09be558bccff007eddef418ff05272ee7831b",
+      "reason": "The green-tiled dream house stands inside a whale, whose ribs support its gutters, and initially has no door. The painting puts a cottage with a door in an open meadow beside distant water."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
