@@ -5186,6 +5186,70 @@
       ]
     },
     {
+      "slug": "the-hoarders-house",
+      "title": "The House of Possible Uses",
+      "reader": "stories/the-hoarders-house.html",
+      "images": [
+        {
+          "id": "01-the-shoulder-wide-path",
+          "title": "The shoulder wide path",
+          "alt": "The shoulder wide path — oil interior study for The House of Possible Uses",
+          "source": "stories/the-hoarders-house/art/interiors/01-the-shoulder-wide-path.png",
+          "sourceSha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "full": {
+            "path": "interiors/the-hoarders-house/01-the-shoulder-wide-path-abcbfe7a19ec6c42.webp",
+            "sha256": "9580b5a8bf0ea95e93102e57c08cbbd3c29f84dd69bfe85c912760f1e68240ef",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hoarders-house/01-the-shoulder-wide-path-abcbfe7a19ec6c42-thumb.webp",
+            "sha256": "736a005a8032e87ec736902042d83ffcdd767f1b8677cd36e6ab94fb1eca3e07",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-impossible-pantry",
+          "title": "The impossible pantry",
+          "alt": "The impossible pantry — oil interior study for The House of Possible Uses",
+          "source": "stories/the-hoarders-house/art/interiors/02-the-impossible-pantry.png",
+          "sourceSha256": "a9030d810fe4c5c93d74db2e8676cd56a0805d6a0d1e55d74547a9e1f2dccc09",
+          "full": {
+            "path": "interiors/the-hoarders-house/02-the-impossible-pantry-a9030d810fe4c5c9.webp",
+            "sha256": "c30e7d41f387dfb68da7d57ef899f27e7b6301b7e05970d0e8288e45e0dac294",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hoarders-house/02-the-impossible-pantry-a9030d810fe4c5c9-thumb.webp",
+            "sha256": "b4b01a07225a9f1882460c8365caec836e3f640cc3e87ac6cdab04919e7fc729",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-original-kitchen",
+          "title": "The original kitchen",
+          "alt": "The original kitchen — oil interior study for The House of Possible Uses",
+          "source": "stories/the-hoarders-house/art/interiors/03-the-original-kitchen.png",
+          "sourceSha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "full": {
+            "path": "interiors/the-hoarders-house/03-the-original-kitchen-b6935a84b59e5054.webp",
+            "sha256": "6323b1f2877847e1652c800f55ec8d4d0d10274601d218cdf61e78f6019b32a7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hoarders-house/03-the-original-kitchen-b6935a84b59e5054-thumb.webp",
+            "sha256": "c3c3e83a64a76d7fd186898ad4c934661b6de64dc20ccb1e9d45f3fcd44358b8",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-kill-she-wouldnt-take",
       "title": "The Kill She Wouldn't Take",
       "reader": "stories/the-kill-she-wouldnt-take.html",
@@ -5307,6 +5371,70 @@
           "thumbnail": {
             "path": "interiors/the-kingdom-was-the-easy-part/03-the-east-room-stove-bdbe465ecf43c594-thumb.webp",
             "sha256": "9543b4856a1a9fb9d8f2f14f30d9b7945eeb92f5e83bb36cc8d37df203298c6f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-last-bus-to-briar-hill",
+      "title": "The Last Bus to Briar Hill",
+      "reader": "stories/the-last-bus-to-briar-hill.html",
+      "images": [
+        {
+          "id": "01-midnight-bus-interior",
+          "title": "Midnight bus interior",
+          "alt": "Midnight bus interior — oil interior study for The Last Bus to Briar Hill",
+          "source": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "sourceSha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "full": {
+            "path": "interiors/the-last-bus-to-briar-hill/01-midnight-bus-interior-906fb77bb4f6b1ea.webp",
+            "sha256": "dad7018084a3f31e89b50aacb97dc4855ef09c9883821580a5d76e343dbedce2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-bus-to-briar-hill/01-midnight-bus-interior-906fb77bb4f6b1ea-thumb.webp",
+            "sha256": "2666e3545ba7d60848a5652677d3058b7dc84663943e1dcdf444953e95e520e8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-closed-shopping-concourse",
+          "title": "Closed shopping concourse",
+          "alt": "Closed shopping concourse — oil interior study for The Last Bus to Briar Hill",
+          "source": "stories/the-last-bus-to-briar-hill/art/interiors/02-closed-shopping-concourse.png",
+          "sourceSha256": "4066aaad3a0952f70e725000b9e7d0ca4bb0d0ad2b4d1b2ccce37c4eba20304a",
+          "full": {
+            "path": "interiors/the-last-bus-to-briar-hill/02-closed-shopping-concourse-4066aaad3a0952f7.webp",
+            "sha256": "d32aea2ed6d6a7335e8f6f0b855716930269cb2dd9b909a496a25d6f4a6f9e1f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-bus-to-briar-hill/02-closed-shopping-concourse-4066aaad3a0952f7-thumb.webp",
+            "sha256": "90843f1ed19a1ffcbdfbd9373dd6c1a60b13b0316e18d90f4d38f895d57ea787",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-apartment-kitchen-at-dawn",
+          "title": "Apartment kitchen at dawn",
+          "alt": "Apartment kitchen at dawn — oil interior study for The Last Bus to Briar Hill",
+          "source": "stories/the-last-bus-to-briar-hill/art/interiors/03-apartment-kitchen-at-dawn.png",
+          "sourceSha256": "83823cc42e50d55b0f6d19e17b09ebfeb97fb4a4dc0419fa3ac1270b43a03674",
+          "full": {
+            "path": "interiors/the-last-bus-to-briar-hill/03-apartment-kitchen-at-dawn-83823cc42e50d55b.webp",
+            "sha256": "6bef51ebcdaac3b1851a52ba18b97f0eb1774d2891ac97e82285f1a7fb996bf0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-bus-to-briar-hill/03-apartment-kitchen-at-dawn-83823cc42e50d55b-thumb.webp",
+            "sha256": "6c8642be99edd63a350f0b98c829f250422c9560e5fda3a29a5a4f65c202e191",
             "width": 480,
             "height": 320
           }
