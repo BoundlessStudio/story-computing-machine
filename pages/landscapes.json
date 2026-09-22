@@ -4159,82 +4159,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-mended-lane",
-          "title": "The mended lane",
-          "alt": "The mended lane — oil landscape for The Gods Are Afraid of Grandma",
-          "source": "stories/gods-afraid-of-grandma/art/landscapes/02-the-mended-lane.png",
-          "sourceSha256": "0d43c6f5faaafb0f277b5566a37de4681f23250bbbce0d9466c74f21beaa6427",
-          "full": {
-            "path": "landscapes/gods-afraid-of-grandma/02-the-mended-lane.webp",
-            "sha256": "03bcd445b7cf4179739d69f0e3a5c9b333e83bcb9025f2df9fa9658038c60847",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/gods-afraid-of-grandma/02-the-mended-lane-thumb.webp",
-            "sha256": "a762a5115f0947b8ef266883e7a9fa1d1da0c75aee4f58962be93429c073aea3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-rain-over-the-wheat",
-          "title": "Rain over the wheat",
-          "alt": "Rain over the wheat — oil landscape for The Gods Are Afraid of Grandma",
-          "source": "stories/gods-afraid-of-grandma/art/landscapes/03-rain-over-the-wheat.png",
-          "sourceSha256": "ef6595d606902c33e664f88c0268b1c3dd679f21b59edf9a3e6d79ea6ecbd588",
-          "full": {
-            "path": "landscapes/gods-afraid-of-grandma/03-rain-over-the-wheat.webp",
-            "sha256": "461c310c013d0fae51c10656b9da9855677bf22ebb32fbff320f30ea102b4840",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/gods-afraid-of-grandma/03-rain-over-the-wheat-thumb.webp",
-            "sha256": "274011c1bb73cb4d7f4193b487bbc9ed58eaed289d650a0cfee71c8d485cf5d0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-washed-out-culvert",
-          "title": "The washed out culvert",
-          "alt": "The washed out culvert — oil landscape for The Gods Are Afraid of Grandma",
-          "source": "stories/gods-afraid-of-grandma/art/landscapes/04-the-washed-out-culvert.png",
-          "sourceSha256": "b528b69c96da38fbc31a74d7e8ff4f0b8d96ea923f199f70bcd89d969ae2f89b",
-          "full": {
-            "path": "landscapes/gods-afraid-of-grandma/04-the-washed-out-culvert.webp",
-            "sha256": "4022f0f9c10e40171714e31bbcaa46fdd8cceeb6bfaa10ee84590dee088fc308",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/gods-afraid-of-grandma/04-the-washed-out-culvert-thumb.webp",
-            "sha256": "e30a0c31ee7ab250435fa767bc189173c38a58d1e5e72e94d1eabd445cb10ef3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-roads-beyond-the-windows",
-          "title": "Roads beyond the windows",
-          "alt": "Roads beyond the windows — oil landscape for The Gods Are Afraid of Grandma",
-          "source": "stories/gods-afraid-of-grandma/art/landscapes/05-roads-beyond-the-windows.png",
-          "sourceSha256": "0d3a809ff9e3366d956e6d7223d5642d471ffe3c67471efca68bc49c3a503859",
-          "full": {
-            "path": "landscapes/gods-afraid-of-grandma/05-roads-beyond-the-windows.webp",
-            "sha256": "68d44379ab0e36e1cdae0f2f1ac6053c555a8ff90a4bf32e641207511fe501db",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/gods-afraid-of-grandma/05-roads-beyond-the-windows-thumb.webp",
-            "sha256": "1cb7858ff46992f0fad074c68bcb4bdd2ad4c0ddca56fb02b5cefa3f938d41bd",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14596,6 +14520,26 @@
       "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
       "sourceSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
       "reason": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town."
+    },
+    {
+      "source": "stories/gods-afraid-of-grandma/art/landscapes/02-the-mended-lane.png",
+      "sourceSha256": "0d43c6f5faaafb0f277b5566a37de4681f23250bbbce0d9466c74f21beaa6427",
+      "reason": "The repaired pothole is discovered in the rain after midnight, but the painting presents the lane in broad daylight."
+    },
+    {
+      "source": "stories/gods-afraid-of-grandma/art/landscapes/03-rain-over-the-wheat.png",
+      "sourceSha256": "ef6595d606902c33e664f88c0268b1c3dd679f21b59edf9a3e6d79ea6ecbd588",
+      "reason": "Expands a brief account of Valka's girlhood into an outdoor wheat-field scene that is not enacted."
+    },
+    {
+      "source": "stories/gods-afraid-of-grandma/art/landscapes/04-the-washed-out-culvert.png",
+      "sourceSha256": "b528b69c96da38fbc31a74d7e8ff4f0b8d96ea923f199f70bcd89d969ae2f89b",
+      "reason": "The washed-out culvert is only mentioned as a cost of the gods' diverted attention, not visited or seen."
+    },
+    {
+      "source": "stories/gods-afraid-of-grandma/art/landscapes/05-roads-beyond-the-windows.png",
+      "sourceSha256": "0d3a809ff9e3366d956e6d7223d5642d471ffe3c67471efca68bc49c3a503859",
+      "reason": "Expands the closing thought about roads beyond the windows into another panoramic exterior instead of the indoor card game; the actual house grounds are already represented by image 01."
     },
     {
       "source": "stories/golden-lion/art/landscapes/01-gardens-beyond-the-hall.png",
