@@ -10251,6 +10251,32 @@
           }
         },
         {
+          "id": "03-blue-streamers-in-the-wind",
+          "title": "Blue streamers in the wind",
+          "alt": "Blue streamers in the wind — oil landscape for The Weight of Falling Up",
+          "source": "pages/landscape-replacements/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind.png",
+          "sourceSha256": "5bd4a1c5c055c7e9365b2907dfcd6d71e0bb9bff93cb0ef219b264bc3b961d55",
+          "full": {
+            "path": "landscapes/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind-5bd4a1c5c055c7e9.webp",
+            "sha256": "0a19e33f98d918535c99b5de2b922c053bede06dac613401fbe859b7aee561d1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind-5bd4a1c5c055c7e9-thumb.webp",
+            "sha256": "d92b4259ecaf5dc9d6a99b105c42f172fee9013432f82ac04b310073fc215d18",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
+            "originalSha256": "2ba83a44c521c7bcec01e08cfb442d5a76ce45777dd13b0e36de7395f7864913",
+            "correction": "The blue-streamer course is flown among high rooftops. The painting places its marker on a rocky, tree-covered hillside instead.",
+            "prompt": "Repaint reference 2 as a Canadian Group of Seven inspired oil cityscape, 1536x1024. Reference 1 supplies the original collection's actual STYLE: bold dark silhouettes, broad opaque bristle strokes, big cream/cobalt clouds and simplified ochre/green/blue-gray planes. Reference 2 provides the CORRECT ROOFTOP LOCATION, but its individually rendered tiles, Gothic tracery and tiny buildings must be simplified.\n\nPreserve the flight-course environment atop Nine Eaves: the viewpoint is on steep black-slate collegiate rooftops high over the city, with two windblown BLUE STREAMERS fixed to tall roof-mounted poles, chimneys, stone towers and elevated bridges joining towers. The city descends towards a distant silver river bend beneath a lively cloud-filled blue sky. Foreground is entirely sloping roofs and masonry; no grassy or rocky hill, no ground-level outdoor park. No people.\n\nGroup the foreground roof slopes into a few bold dark-blue triangular planes, with broad directional brush strokes suggesting slate. Simplify the towers to strong ochre shapes and dark strokes for windows. Distant city is loose grouped color, without individually described ornate facades. River and clouds give a sweeping rhythmic background. Blue streamers are two clear calligraphic cobalt ribbons. Strong confident composition, expressive brush edges and economy of detail, closely related to the original Canadian painting influence. No photo-real architecture, glossy CGI, miniature-model detail, texture filter, ornate illustration, captions, signature or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-the-quiet-landing-roof",
           "title": "The quiet landing roof",
           "alt": "The quiet landing roof — oil landscape for The Weight of Falling Up",
