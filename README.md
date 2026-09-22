@@ -147,6 +147,21 @@ overlapping windows and independent display orders are supported.
 catalog, cover-byte parity, and authoritative source/catalog canon flags.
 New publications do not require a chronology entry.
 
+## Social link previews
+
+The Library and standard/illustrated readers include Twitter large-image cards,
+Open Graph metadata, and canonical URLs on `https://stories.rgbknights.com/`.
+Story cards use the published writing prompt as their description (up to 200
+characters). All cards share [the generated artwork](pages/social-preview.jpg),
+a 1200×630 JPEG copied into the site by the build. If the public domain changes,
+update `SITE_URL` in `pages/build.py`.
+
+The artwork was generated with the built-in Codex image tool using this prompt:
+
+```text
+Use case: ads-marketing. Create a finished landscape social link preview for Story Computing Machine, a shared-universe fiction library. Canvas: exactly 1200 by 630 pixels. On warm ivory paper, set large, exceptionally readable dark espresso literary serif type on the left: "Story" / "Computing" / "Machine" on three lines, with the smaller subtitle "Shared-Universe Fiction". On the right, illustrate an open book whose curling pages become a luminous miniature landscape of a distant city, mountains, and stars, with subtle brass mechanical details near the binding. Use refined anime-inspired pen contours, delicate hatching, restrained watercolor washes, warm amber light and muted teal accents. Editorial book-jacket composition, generous breathing room, compelling at small mobile-card size. Keep all text and important artwork comfortably inside an 80-pixel safe margin. Only the exact title and subtitle are readable text. No people, logos, URLs, watermarks, mockup frame, or interface elements.
+```
+
 ## Local commands
 
 Install the Python dependencies, Markdown and Pillow:

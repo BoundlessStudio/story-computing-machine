@@ -145,6 +145,8 @@ def render_document(record: dict, *, stylesheet='../illustrated.css', asset_pref
             record['title'] + ' — Illustrated Edition', body,
             asset_prefix + 'index.html', asset_prefix + 'styles.css', asset_prefix + 'theme.js',
             extra_stylesheet_hrefs=(stylesheet,), body_class='edition-page', main_class=f'edition mode-{mode}',
+            page_path=f'stories/{record["source"]["slug"]}.html',
+            description=writing_prompt, page_type='article',
         )
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
