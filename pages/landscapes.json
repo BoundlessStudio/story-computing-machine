@@ -422,82 +422,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-road-to-the-college",
-          "title": "The road to the college",
-          "alt": "The road to the college — oil landscape for A Lock on the Inside",
-          "source": "stories/a-lock-on-the-inside/art/landscapes/02-the-road-to-the-college.png",
-          "sourceSha256": "fb527fe05fbf31292d1c3443f84d2f21227411972c5af736e6dbb09d9f7824bf",
-          "full": {
-            "path": "landscapes/a-lock-on-the-inside/02-the-road-to-the-college.webp",
-            "sha256": "efe1082e76fc1ebbef3d195ab947d7306bd43479b99a4c0f1190c727e3eedd6d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-lock-on-the-inside/02-the-road-to-the-college-thumb.webp",
-            "sha256": "4afde3ddd761e36e5949c8bbc3f3d0e9b47e448e9c86f9b1b3baaeafd5e76889",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-college-ground-after-rain",
-          "title": "College ground after rain",
-          "alt": "College ground after rain — oil landscape for A Lock on the Inside",
-          "source": "stories/a-lock-on-the-inside/art/landscapes/03-college-ground-after-rain.png",
-          "sourceSha256": "b957935d16dc2a37035d6e6be25e26b34015c52546f82396855e6250c3dbaf98",
-          "full": {
-            "path": "landscapes/a-lock-on-the-inside/03-college-ground-after-rain.webp",
-            "sha256": "7eb25c8baa20ef232cb670fe231fe528487146d31540f9712a6f6785306bf591",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-lock-on-the-inside/03-college-ground-after-rain-thumb.webp",
-            "sha256": "31a9a7dd9e529a66e3f8ef4eaa62642cc48fac8a5b3f493a3525e1ec14cd8eef",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-dusk-over-the-college-roofs",
-          "title": "Dusk over the college roofs",
-          "alt": "Dusk over the college roofs — oil landscape for A Lock on the Inside",
-          "source": "stories/a-lock-on-the-inside/art/landscapes/04-dusk-over-the-college-roofs.png",
-          "sourceSha256": "577fa26f5696096ad238553e6c64a103d5296789bfd352e561dd64514047cf20",
-          "full": {
-            "path": "landscapes/a-lock-on-the-inside/04-dusk-over-the-college-roofs.webp",
-            "sha256": "230aaa5679d314e77e55ffc5ae3258319632273c14390efad72b52c6393bb141",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-lock-on-the-inside/04-dusk-over-the-college-roofs-thumb.webp",
-            "sha256": "d93caed5ac35b3ba5e8c6b47ab3eaca30eb06b4acacd8711d82ce6f720cbd2d8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-a-quiet-night-outside",
-          "title": "A quiet night outside",
-          "alt": "A quiet night outside — oil landscape for A Lock on the Inside",
-          "source": "stories/a-lock-on-the-inside/art/landscapes/05-a-quiet-night-outside.png",
-          "sourceSha256": "4142d8281762655094070ef8c9c5933ea8aaaa3735e9fdefbcff0bafa011e7e2",
-          "full": {
-            "path": "landscapes/a-lock-on-the-inside/05-a-quiet-night-outside.webp",
-            "sha256": "83549425150fd67fb68af6fa6cc3077cdff090d6286c29c74606824c424c2a84",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-lock-on-the-inside/05-a-quiet-night-outside-thumb.webp",
-            "sha256": "1c4868e7c9934efa722bcb93a33bbbbbfb5de282ba3c3081399f1b4d4e685010",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -19012,6 +18936,26 @@
       "source": "stories/a-little-winter-for-sale/art/landscapes/05-urumets-northern-ice-shelf.png",
       "sourceSha256": "cad9e1a17eda702e5ea457fbfd652e219a4017693ea6075a5b50a9be12a5f7e2",
       "reason": "Urumet mentions an ice shelf far north of every mapped road as its former home. No scene visits or describes this coastline; the painting invents a fifth destination beyond the actual desert story."
+    },
+    {
+      "source": "stories/a-lock-on-the-inside/art/landscapes/02-the-road-to-the-college.png",
+      "sourceSha256": "fb527fe05fbf31292d1c3443f84d2f21227411972c5af736e6dbb09d9f7824bf",
+      "reason": "The road appears only as grit on cuffs and an earlier hardship. This rural approach, fields and village are invented; the story starts and remains inside the college."
+    },
+    {
+      "source": "stories/a-lock-on-the-inside/art/landscapes/03-college-ground-after-rain.png",
+      "sourceSha256": "b957935d16dc2a37035d6e6be25e26b34015c52546f82396855e6250c3dbaf98",
+      "reason": "The source supplies a roof crowded with chimneys outside the room's window, not landscaped college grounds. This creates an outdoor setting from indoor college scenes."
+    },
+    {
+      "source": "stories/a-lock-on-the-inside/art/landscapes/04-dusk-over-the-college-roofs.png",
+      "sourceSha256": "577fa26f5696096ad238553e6c64a103d5296789bfd352e561dd64514047cf20",
+      "reason": "Repeats the retained chimney view with an invented sunset panorama; the dusk scene is a supper tray at the bedroom doorway."
+    },
+    {
+      "source": "stories/a-lock-on-the-inside/art/landscapes/05-a-quiet-night-outside.png",
+      "sourceSha256": "4142d8281762655094070ef8c9c5933ea8aaaa3735e9fdefbcff0bafa011e7e2",
+      "reason": "The ending is inside the bolted bedroom, listening to corridor footsteps. This exterior country campus at night is unsupported and redundant."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
