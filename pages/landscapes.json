@@ -644,108 +644,6 @@
       ]
     },
     {
-      "slug": "a-reasonable-declaration",
-      "title": "A Reasonable Declaration",
-      "reader": "stories/a-reasonable-declaration.html",
-      "images": [
-        {
-          "id": "01-the-precipice-in-white-air",
-          "title": "The precipice in white air",
-          "alt": "The precipice in white air — oil landscape for A Reasonable Declaration",
-          "source": "stories/a-reasonable-declaration/art/landscapes/01-the-precipice-in-white-air.png",
-          "sourceSha256": "a0fee145eb84cf916720e64b257b58b9078fd21085341ccb280b154097693c12",
-          "full": {
-            "path": "landscapes/a-reasonable-declaration/01-the-precipice-in-white-air.webp",
-            "sha256": "47a4580a686d204ea0f496fbb2842e5728f391e31003abb5e51f8fd0abd34a3b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-reasonable-declaration/01-the-precipice-in-white-air-thumb.webp",
-            "sha256": "5453806c6c2c7a4a4634c513ccdc1e3073d2adf41c75d3eae4e25f23a62689fb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-black-stair-and-strip-sky",
-          "title": "Black stair and strip sky",
-          "alt": "Black stair and strip sky — oil landscape for A Reasonable Declaration",
-          "source": "stories/a-reasonable-declaration/art/landscapes/02-black-stair-and-strip-sky.png",
-          "sourceSha256": "1f263a4e3e0f89f9a67916297a66baed0ec0796f72bc3120d43aaf646508440c",
-          "full": {
-            "path": "landscapes/a-reasonable-declaration/02-black-stair-and-strip-sky.webp",
-            "sha256": "ef9ba9c927216f1b91bf4b8914267b395a98bf2682e8bc5faa843ce7741689cb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-reasonable-declaration/02-black-stair-and-strip-sky-thumb.webp",
-            "sha256": "25694799e381fe3481574ce4d510ac782e83efe923ad2c1371072639b0d8216c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-frost-beyond-the-crossing",
-          "title": "Frost beyond the crossing",
-          "alt": "Frost beyond the crossing — oil landscape for A Reasonable Declaration",
-          "source": "stories/a-reasonable-declaration/art/landscapes/03-frost-beyond-the-crossing.png",
-          "sourceSha256": "c8574e15ad9c7d28c900fec5db0846119f1959a0eac519fd013b6ec952c8c46d",
-          "full": {
-            "path": "landscapes/a-reasonable-declaration/03-frost-beyond-the-crossing.webp",
-            "sha256": "cb272b60401e8b893724256bb7404d78d1f612c84629186a55d453d11739fb40",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-reasonable-declaration/03-frost-beyond-the-crossing-thumb.webp",
-            "sha256": "53f9c6136ef2a0bd08065bceb5b7fbca740a4afb107927334fe5a6bd12b01b79",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-fort-in-the-stone-hills",
-          "title": "The fort in the stone hills",
-          "alt": "The fort in the stone hills — oil landscape for A Reasonable Declaration",
-          "source": "stories/a-reasonable-declaration/art/landscapes/04-the-fort-in-the-stone-hills.png",
-          "sourceSha256": "84fed92a251ca7be90ef37a18f23ed0dbd32cb057b116f693d502527cc28a842",
-          "full": {
-            "path": "landscapes/a-reasonable-declaration/04-the-fort-in-the-stone-hills.webp",
-            "sha256": "4f1578e0c278807ca73938ef4d770dd12fd0d7df8aa13a4e02b3a5b4670dfdd7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-reasonable-declaration/04-the-fort-in-the-stone-hills-thumb.webp",
-            "sha256": "cecc8af97fe4050ca5865cd0f5a911d6f9e44767ae752ff70d112636b0ed1167",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-queen-street-after-rain",
-          "title": "Queen street after rain",
-          "alt": "Queen street after rain — oil landscape for A Reasonable Declaration",
-          "source": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
-          "sourceSha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8",
-          "full": {
-            "path": "landscapes/a-reasonable-declaration/05-queen-street-after-rain.webp",
-            "sha256": "a2635ac85cd36e6f0d4b681ee8c7b5868f4b0e35484067bb460d12d144732314",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-reasonable-declaration/05-queen-street-after-rain-thumb.webp",
-            "sha256": "396bf8b1b41a59a324e1550eed5f024a1fdf20d2aedb572167d2adc1b7fbb74c",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "a-seat-for-the-sun",
       "title": "A Seat for the Sun",
       "reader": "stories/a-seat-for-the-sun.html",
@@ -18729,6 +18627,31 @@
       "source": "stories/a-place-for-the-living/art/landscapes/05-home-lights-after-rain.png",
       "sourceSha256": "3a09b36e730dd623a40f986e7a5e9d95fa3ec317ef88c84d9cc452a9bc2fee26",
       "reason": "The departure ends inside the car listening to rain, after cold mist under the eave. This clear night of home lights invents a later weather state and repeats the same approach."
+    },
+    {
+      "source": "stories/a-reasonable-declaration/art/landscapes/01-the-precipice-in-white-air.png",
+      "sourceSha256": "a0fee145eb84cf916720e64b257b58b9078fd21085341ccb280b154097693c12",
+      "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
+    },
+    {
+      "source": "stories/a-reasonable-declaration/art/landscapes/02-black-stair-and-strip-sky.png",
+      "sourceSha256": "1f263a4e3e0f89f9a67916297a66baed0ec0796f72bc3120d43aaf646508440c",
+      "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
+    },
+    {
+      "source": "stories/a-reasonable-declaration/art/landscapes/03-frost-beyond-the-crossing.png",
+      "sourceSha256": "c8574e15ad9c7d28c900fec5db0846119f1959a0eac519fd013b6ec952c8c46d",
+      "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
+    },
+    {
+      "source": "stories/a-reasonable-declaration/art/landscapes/04-the-fort-in-the-stone-hills.png",
+      "sourceSha256": "84fed92a251ca7be90ef37a18f23ed0dbd32cb057b116f693d502527cc28a842",
+      "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
+    },
+    {
+      "source": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
+      "sourceSha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8",
+      "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
