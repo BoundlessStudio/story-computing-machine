@@ -3291,108 +3291,6 @@
       ]
     },
     {
-      "slug": "the-count-was-131072",
-      "title": "The Count Was 131,072",
-      "reader": "stories/the-count-was-131072.html",
-      "images": [
-        {
-          "id": "01-the-bay-remembered",
-          "title": "The bay remembered",
-          "alt": "The bay remembered — oil landscape for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/landscapes/01-the-bay-remembered.png",
-          "sourceSha256": "4660740968600882cd5a0232a1d306239dbc0d1dc07cbcc16bccf15f6dcb6965",
-          "full": {
-            "path": "landscapes/the-count-was-131072/01-the-bay-remembered.webp",
-            "sha256": "77cdeffc95cc5ab984d5c22540c4b708d111b6c1732fc1d26610e588ac993015",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-count-was-131072/01-the-bay-remembered-thumb.webp",
-            "sha256": "cb2596695ccbab2af6137eee2f21778d731734c2e77f965d22c00a9cade8013a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-between-two-breakwaters",
-          "title": "Between two breakwaters",
-          "alt": "Between two breakwaters — oil landscape for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/landscapes/02-between-two-breakwaters.png",
-          "sourceSha256": "7cdfd9a6824f41a2ee281978cbcecfb8cbdb9352e7f95414697de4bd3a1ef4dc",
-          "full": {
-            "path": "landscapes/the-count-was-131072/02-between-two-breakwaters.webp",
-            "sha256": "097d3d50f0e20c9950456aeca42dc1be9c453f56d0d1522383ff8ae178dfa28a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-count-was-131072/02-between-two-breakwaters-thumb.webp",
-            "sha256": "0acc2ba7b55e37d0b69441154bac847788b6ded2cedb0b1e08cebf5510b44b3e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-eastern-ridge",
-          "title": "The eastern ridge",
-          "alt": "The eastern ridge — oil landscape for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/landscapes/03-the-eastern-ridge.png",
-          "sourceSha256": "6e182a08767c20d151169fce438d9105748712583ea47500222d102f32feae35",
-          "full": {
-            "path": "landscapes/the-count-was-131072/03-the-eastern-ridge.webp",
-            "sha256": "f2cf95db5bcbcea64b29266b6209be5508797640f9ef4e0fab10a43d52e0a51d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-count-was-131072/03-the-eastern-ridge-thumb.webp",
-            "sha256": "837b4844983c9e5d0fe6db440b357612874072daa8d03ddc6d9b17c87604f002",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-sky-after-the-rupture",
-          "title": "The sky after the rupture",
-          "alt": "The sky after the rupture — oil landscape for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/landscapes/04-the-sky-after-the-rupture.png",
-          "sourceSha256": "341c0eb474e430b618d5fa6254dbe8aafdf8c6670e39ad4fd6ca262f28d4fdbe",
-          "full": {
-            "path": "landscapes/the-count-was-131072/04-the-sky-after-the-rupture.webp",
-            "sha256": "0c86c18881f7f0086fb6d558a7c2ac6ebe4590e6fe08b15518b756632e955116",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-count-was-131072/04-the-sky-after-the-rupture-thumb.webp",
-            "sha256": "c50b080023758f90308697424b0b68047559522d4dbe3adc30e87cd6547a8db0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-quiet-water-beyond-memory",
-          "title": "Quiet water beyond memory",
-          "alt": "Quiet water beyond memory — oil landscape for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/landscapes/05-quiet-water-beyond-memory.png",
-          "sourceSha256": "82ef97b665de717716820d9d48fcf0d78d71a77495ced76b083d349428fb4106",
-          "full": {
-            "path": "landscapes/the-count-was-131072/05-quiet-water-beyond-memory.webp",
-            "sha256": "0de6908303dbc72b1afeb90edc6058f6a34d8b4f32cca6125f2306ca46d486ba",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-count-was-131072/05-quiet-water-beyond-memory-thumb.webp",
-            "sha256": "f05e9c42790effa8796c17be177c63ec64205e89177e21722d2d74f09ee284f3",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-inheritance-remembers",
       "title": "The Counted Road",
       "reader": "stories/the-inheritance-remembers.html",
@@ -16285,6 +16183,31 @@
       "source": "stories/the-city-of-eleven-foundations/art/landscapes/05-light-returns-to-the-basin.png",
       "sourceSha256": "ada46e42600224adc9f603cfd0f8b64ef7c89824f3db5b36a9bb2c4449172ac5",
       "reason": "The final panorama turns the eleven sharply distinct architectural districts into a uniform old-fashioned lakeside town, losing the defining city geometry and material boundaries."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/landscapes/01-the-bay-remembered.png",
+      "sourceSha256": "4660740968600882cd5a0232a1d306239dbc0d1dc07cbcc16bccf15f6dcb6965",
+      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/landscapes/02-between-two-breakwaters.png",
+      "sourceSha256": "7cdfd9a6824f41a2ee281978cbcecfb8cbdb9352e7f95414697de4bd3a1ef4dc",
+      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/landscapes/03-the-eastern-ridge.png",
+      "sourceSha256": "6e182a08767c20d151169fce438d9105748712583ea47500222d102f32feae35",
+      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/landscapes/04-the-sky-after-the-rupture.png",
+      "sourceSha256": "341c0eb474e430b618d5fa6254dbe8aafdf8c6670e39ad4fd6ca262f28d4fdbe",
+      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/landscapes/05-quiet-water-beyond-memory.png",
+      "sourceSha256": "82ef97b665de717716820d9d48fcf0d78d71a77495ced76b083d349428fb4106",
+      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
