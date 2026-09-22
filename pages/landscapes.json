@@ -5915,25 +5915,6 @@
           }
         },
         {
-          "id": "03-shadow-before-the-eclipse",
-          "title": "Shadow before the eclipse",
-          "alt": "Shadow before the eclipse — oil landscape for The Place We Keep",
-          "source": "stories/the-place-we-keep/art/landscapes/03-shadow-before-the-eclipse.png",
-          "sourceSha256": "8bb26db0cc5f382a918b4b2420f48d3eb2cbb3f5277d0777796f5df5a87a8f36",
-          "full": {
-            "path": "landscapes/the-place-we-keep/03-shadow-before-the-eclipse.webp",
-            "sha256": "2a53d2b80aa9f0c83ac63311f9c2b5d316f77c0e4ca8d8dccd20db66b876d215",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-place-we-keep/03-shadow-before-the-eclipse-thumb.webp",
-            "sha256": "c827e6a6f0dfdd51a6d2e9bb64d30f6dac2067b7053591809a8226848beaec2a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-totality-over-the-valley",
           "title": "Totality over the valley",
           "alt": "Totality over the valley — oil landscape for The Place We Keep",
@@ -5948,25 +5929,6 @@
           "thumbnail": {
             "path": "landscapes/the-place-we-keep/04-totality-over-the-valley-thumb.webp",
             "sha256": "a87a3f18fe052faf82abc6146216bd67c04284a4ab5a0da97298d73140bc3bba",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-field-behind-the-orchard",
-          "title": "Field behind the orchard",
-          "alt": "Field behind the orchard — oil landscape for The Place We Keep",
-          "source": "stories/the-place-we-keep/art/landscapes/05-field-behind-the-orchard.png",
-          "sourceSha256": "9ca794a654db96015a5991047a0abb62d11bf3d37c5afa05c8470d6beff701e3",
-          "full": {
-            "path": "landscapes/the-place-we-keep/05-field-behind-the-orchard.webp",
-            "sha256": "bcaefe83adec2ad5b1d6d5a27bcf550b5fdd68560b5a91d56df411e26d00c818",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-place-we-keep/05-field-behind-the-orchard-thumb.webp",
-            "sha256": "8b90ccb006c578e1f6af664d2fc64ef5083ee876b29518ada2e1907d54f31534",
             "width": 480,
             "height": 320
           }
@@ -14205,6 +14167,16 @@
       "source": "stories/the-peace-they-could-sleep-through/art/landscapes/05-beyond-the-inhabited-road.png",
       "sourceSha256": "0d62526c40e2827d5bc8cb186eee0ca17bbe1ddee9c8b6c864d79ee07ce58c2e",
       "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
+    },
+    {
+      "source": "stories/the-place-we-keep/art/landscapes/03-shadow-before-the-eclipse.png",
+      "sourceSha256": "8bb26db0cc5f382a918b4b2420f48d3eb2cbb3f5277d0777796f5df5a87a8f36",
+      "reason": "Repeats the house/valley eclipse composition; image 04 more directly represents the shared totality moment, while image 01 already establishes the daylight house."
+    },
+    {
+      "source": "stories/the-place-we-keep/art/landscapes/05-field-behind-the-orchard.png",
+      "sourceSha256": "9ca794a654db96015a5991047a0abb62d11bf3d37c5afa05c8470d6beff701e3",
+      "reason": "The field dance is only a brief remembered sound heard through a window, not an orchard scene visited during the reunion."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
