@@ -1410,6 +1410,70 @@
       ]
     },
     {
+      "slug": "daughter-of-the-sun",
+      "title": "Daughter of the Sun",
+      "reader": "stories/daughter-of-the-sun.html",
+      "images": [
+        {
+          "id": "01-ninth-hollow-cistern",
+          "title": "Ninth hollow cistern",
+          "alt": "Ninth hollow cistern — oil interior study for Daughter of the Sun",
+          "source": "stories/daughter-of-the-sun/art/interiors/01-ninth-hollow-cistern.png",
+          "sourceSha256": "06f10df88eed89ce362160fcd8390b4f36f646b0946fcccbf5d4fc01254cf34b",
+          "full": {
+            "path": "interiors/daughter-of-the-sun/01-ninth-hollow-cistern-06f10df88eed89ce.webp",
+            "sha256": "46de81948f9d5229f6609641a2e4a9950b3aba7a87d53716405ab8c8195fa60e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/daughter-of-the-sun/01-ninth-hollow-cistern-06f10df88eed89ce-thumb.webp",
+            "sha256": "873637a6d36db2a6a62cb54b11766baf41f3a1a3411a0ce1df0e64c0565bd521",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-crown-of-noon-chamber",
+          "title": "Crown of noon chamber",
+          "alt": "Crown of noon chamber — oil interior study for Daughter of the Sun",
+          "source": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "sourceSha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "full": {
+            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-0431bf4512a62b92.webp",
+            "sha256": "c23ac695ce9c8e3a5cbefa6d900c5fab05141316573a1a25ae4b5dcf2b0fc9c5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-0431bf4512a62b92-thumb.webp",
+            "sha256": "b664e17212bb44f1f0b697aabf301f47324ae364d25a71cdef0cd85fb8b32282",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-ninth-hollow-greenhouse",
+          "title": "Ninth hollow greenhouse",
+          "alt": "Ninth hollow greenhouse — oil interior study for Daughter of the Sun",
+          "source": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "sourceSha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "full": {
+            "path": "interiors/daughter-of-the-sun/03-ninth-hollow-greenhouse-a38b53e88df0c521.webp",
+            "sha256": "f5088e29a0c3795b82d1fe1126e44f7e607227f2d2341fb55ba9e940b463d7fe",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/daughter-of-the-sun/03-ninth-hollow-greenhouse-a38b53e88df0c521-thumb.webp",
+            "sha256": "a262fc423cc06fee564a6ed0b96f16af41bcf4b98ccce9253732278e205c508b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "every-flower-she-knew",
       "title": "Every Flower She Knew",
       "reader": "stories/every-flower-she-knew.html",
@@ -2683,6 +2747,70 @@
           "thumbnail": {
             "path": "interiors/golden-lion/03-the-garden-end-table-ea20adefc68ae229-thumb.webp",
             "sha256": "29940e81c7fc1313307dca215e5aa787c904719fe06b81cc4d7d3f1edf944fcd",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "gods-afraid-of-grandma",
+      "title": "The Gods Are Afraid of Grandma",
+      "reader": "stories/gods-afraid-of-grandma.html",
+      "images": [
+        {
+          "id": "01-valkas-kitchen",
+          "title": "Valkas kitchen",
+          "alt": "Valkas kitchen — oil interior study for The Gods Are Afraid of Grandma",
+          "source": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "sourceSha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "full": {
+            "path": "interiors/gods-afraid-of-grandma/01-valkas-kitchen-3526fb41484ff8a1.webp",
+            "sha256": "69de5fc95a87d264d2511b7912f545278ff46b7b65bb0d89c57aa6bf2dde8adf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/gods-afraid-of-grandma/01-valkas-kitchen-3526fb41484ff8a1-thumb.webp",
+            "sha256": "576348d7c428c1761d1569e2e995cd193e206b0c395c9ee69f11297e4566a861",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-four-foot-pantry",
+          "title": "The four foot pantry",
+          "alt": "The four foot pantry — oil interior study for The Gods Are Afraid of Grandma",
+          "source": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "sourceSha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "full": {
+            "path": "interiors/gods-afraid-of-grandma/02-the-four-foot-pantry-dbda7f103677f5c8.webp",
+            "sha256": "5b25edb623d5bbbb7dd3c204559b12499066d411d78068d501ae6b59f400b640",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/gods-afraid-of-grandma/02-the-four-foot-pantry-dbda7f103677f5c8-thumb.webp",
+            "sha256": "521e2bba64e6a64a072d7b5043acc8384634676e7972da3f43c9fd40a5fd7b1a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-bedroom-in-the-rain",
+          "title": "Bedroom in the rain",
+          "alt": "Bedroom in the rain — oil interior study for The Gods Are Afraid of Grandma",
+          "source": "stories/gods-afraid-of-grandma/art/interiors/03-bedroom-in-the-rain.png",
+          "sourceSha256": "8410216520fe9a051e6b9085619c581daa63c467c459f1fd92e1ef7c5c065316",
+          "full": {
+            "path": "interiors/gods-afraid-of-grandma/03-bedroom-in-the-rain-8410216520fe9a05.webp",
+            "sha256": "c0b0d014a1bc281cd5c2cd359bf7c9c02b4ce909c03dbde2e7b0707591b78770",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/gods-afraid-of-grandma/03-bedroom-in-the-rain-8410216520fe9a05-thumb.webp",
+            "sha256": "fed0c04ef13ae6dce170cc9e87fd05c8e836a41d264e5d7a51423e7cf81def59",
             "width": 480,
             "height": 320
           }
