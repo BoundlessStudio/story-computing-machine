@@ -1090,6 +1090,70 @@
       ]
     },
     {
+      "slug": "the-rule-between-courses",
+      "title": "All the Good Things",
+      "reader": "stories/the-rule-between-courses.html",
+      "images": [
+        {
+          "id": "01-the-amber-dining-room",
+          "title": "The amber dining room",
+          "alt": "The amber dining room — oil interior study for All the Good Things",
+          "source": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+          "sourceSha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7",
+          "full": {
+            "path": "interiors/the-rule-between-courses/01-the-amber-dining-room-e1e8a353763f6c95.webp",
+            "sha256": "61f247258df4e0ca46973174872d63868e84a57484b02ce154e6176ae001d738",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-rule-between-courses/01-the-amber-dining-room-e1e8a353763f6c95-thumb.webp",
+            "sha256": "3c97d0b10972f46eabfd9c390ba3f281b7864f9e23fcc832a2ba90d43ed279f6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-table-near-the-guitar",
+          "title": "The table near the guitar",
+          "alt": "The table near the guitar — oil interior study for All the Good Things",
+          "source": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
+          "sourceSha256": "ab4bd133a2d5b7fb3890061d95831392f4561917adf97d76c3b7840a69a3562b",
+          "full": {
+            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-ab4bd133a2d5b7fb.webp",
+            "sha256": "d89d4f64a87c138b99278858367ae4717fd9dada99e979d858b8aeb3706e5e53",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-ab4bd133a2d5b7fb-thumb.webp",
+            "sha256": "0240f15a8d32fa75cb88d7795b6d1daa0ae79ce2ad374cccafcb7c4bb48f005e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-rain-beyond-the-table",
+          "title": "Rain beyond the table",
+          "alt": "Rain beyond the table — oil interior study for All the Good Things",
+          "source": "stories/the-rule-between-courses/art/interiors/03-rain-beyond-the-table.png",
+          "sourceSha256": "5a7ee4f7cb6a344a766285130bbfab74a2c6daaf192ff8eabd384cca48640ce1",
+          "full": {
+            "path": "interiors/the-rule-between-courses/03-rain-beyond-the-table-5a7ee4f7cb6a344a.webp",
+            "sha256": "ed08ed1cc61a9ebca9c227ee361c823e3ded0e418d9db3032386c07318f2d5ab",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-rule-between-courses/03-rain-beyond-the-table-5a7ee4f7cb6a344a-thumb.webp",
+            "sha256": "4ed68baf9fcd2570731ddf32c6b71a28e6fec249e9392044891a4261aebf8d58",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "an-ordinary-education",
       "title": "An Ordinary Education",
       "reader": "stories/an-ordinary-education.html",
@@ -5755,6 +5819,70 @@
           "thumbnail": {
             "path": "interiors/last-watcher-of-jupiter/03-service-link-under-seat-29c89cf6bbb390d0-thumb.webp",
             "sha256": "f51cf7df5c1cc94d3b79eefcf053a8b43bb00d4c35d2a8360b157ac25a7a01a0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-mercy-circuit",
+      "title": "The Mercy Circuit",
+      "reader": "stories/the-mercy-circuit.html",
+      "images": [
+        {
+          "id": "01-exchange-repair-kiosk",
+          "title": "Exchange repair kiosk",
+          "alt": "Exchange repair kiosk — oil interior study for The Mercy Circuit",
+          "source": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+          "sourceSha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+          "full": {
+            "path": "interiors/the-mercy-circuit/01-exchange-repair-kiosk-234b8a4d394328d4.webp",
+            "sha256": "4b436163eb2f26683d6d1d42ac3b3b8feac96225808f8fbe7456e7cda53c1cfa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-mercy-circuit/01-exchange-repair-kiosk-234b8a4d394328d4-thumb.webp",
+            "sha256": "1f021e60744f13a13c91e2e861f9ebbc78481af66558feff7a38b716c9f29380",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-kiosk-privacy-bay",
+          "title": "Kiosk privacy bay",
+          "alt": "Kiosk privacy bay — oil interior study for The Mercy Circuit",
+          "source": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+          "sourceSha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+          "full": {
+            "path": "interiors/the-mercy-circuit/02-kiosk-privacy-bay-254e6692d4d1475c.webp",
+            "sha256": "5ea4a463bc763c345e08fae3a2955ef36b1e5b0dcc35499cd14c41e39be26f7b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-mercy-circuit/02-kiosk-privacy-bay-254e6692d4d1475c-thumb.webp",
+            "sha256": "7b1a6d2957af4bc0b589bf3b6d686cd31eaebf91481216858858401ea24faa87",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kiosk-shielded-test-lane",
+          "title": "Kiosk shielded test lane",
+          "alt": "Kiosk shielded test lane — oil interior study for The Mercy Circuit",
+          "source": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
+          "sourceSha256": "60f8c4d158bfa70e4533dba021a903894ed82cfd092cfa817b11062a723e9209",
+          "full": {
+            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-60f8c4d158bfa70e.webp",
+            "sha256": "b60f13ccff8d91c60864f0b7f36c85c34c9a3e929617c9e17a5dba6cb1e405e3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-60f8c4d158bfa70e-thumb.webp",
+            "sha256": "3452e286ab6c77c4c35700c95cab6c142f377988dc2c3e7becd5666d145a9af6",
             "width": 480,
             "height": 320
           }
