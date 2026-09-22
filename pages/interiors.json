@@ -10178,6 +10178,70 @@
       ]
     },
     {
+      "slug": "what-turned-eighteen",
+      "title": "What Turned Eighteen",
+      "reader": "stories/what-turned-eighteen.html",
+      "images": [
+        {
+          "id": "01-before-the-birth-minute",
+          "title": "Before the birth minute",
+          "alt": "Before the birth minute — oil interior study for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/interiors/01-before-the-birth-minute.png",
+          "sourceSha256": "965ace632bf7acd9dd84d0e93ce852cb9d92f849b9760e9f4c9ecdfbae240fed",
+          "full": {
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-965ace632bf7acd9.webp",
+            "sha256": "77e0be8c9a782de4b2ed6f46365e5e8b55ca4b0b82d7abceeca8110596dd3c2f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-965ace632bf7acd9-thumb.webp",
+            "sha256": "a1465cc1dae68b50de7833a94b42bc6330f4d0badc6b114c4f958f844feb4d04",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-water-tray-and-lamps",
+          "title": "The water tray and lamps",
+          "alt": "The water tray and lamps — oil interior study for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+          "sourceSha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+          "full": {
+            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-435d552b373e35b3.webp",
+            "sha256": "01613d7e4532a4162fdd71a0e1591302e798bc70f274f11c8156fa12505ae2c4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-435d552b373e35b3-thumb.webp",
+            "sha256": "29ef7a2542bb1ef1a9a09ccdaa7f067a2a9ca9ea511ca2bdc9a8fe38dbfff521",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-rain-at-the-bedroom-window",
+          "title": "Rain at the bedroom window",
+          "alt": "Rain at the bedroom window — oil interior study for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
+          "sourceSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
+          "full": {
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-24b980aede13e2ca.webp",
+            "sha256": "437a10a22a479b61e1b00253fdc4eaa4b2b5556388a0452cdfe78916b1330ff0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-24b980aede13e2ca-thumb.webp",
+            "sha256": "cc02caa44f3049ee00eab56cc6fed56beb0ecd7ea82b60ec96955c56a922750c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "deaths-patron",
       "title": "When Death Knelt",
       "reader": "stories/deaths-patron.html",
@@ -10363,6 +10427,70 @@
           "thumbnail": {
             "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-b13634be36cd2457-thumb.webp",
             "sha256": "529cbab22e14350eccda28bd50fac257544d900a708c342038a7f8a9c720c73f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "where-no-unicorn-stands",
+      "title": "Where No Unicorn Stands",
+      "reader": "stories/where-no-unicorn-stands.html",
+      "images": [
+        {
+          "id": "01-the-audience-sling",
+          "title": "The audience sling",
+          "alt": "The audience sling — oil interior study for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/interiors/01-the-audience-sling.png",
+          "sourceSha256": "43415faa41e7368c3c78d1783090866ad41ba5f14b3a70bf86aa63a9b763961e",
+          "full": {
+            "path": "interiors/where-no-unicorn-stands/01-the-audience-sling-43415faa41e7368c.webp",
+            "sha256": "56902292a9f9024b550c9fdd27233477d17e4452b6c1302eca00320a078b6f0d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-no-unicorn-stands/01-the-audience-sling-43415faa41e7368c-thumb.webp",
+            "sha256": "4324a26e82c8ee767813173194112b051062b49ac519deb0b968cb89d0bd345e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-returned-messages",
+          "title": "The returned messages",
+          "alt": "The returned messages — oil interior study for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/interiors/02-the-returned-messages.png",
+          "sourceSha256": "6aba8d7f1c0580879c32ec28a32db8ceec46b52358dc7e5c02b8dd1173838dc4",
+          "full": {
+            "path": "interiors/where-no-unicorn-stands/02-the-returned-messages-6aba8d7f1c058087.webp",
+            "sha256": "3d635f4bcee470e1b53212f4b34fafe63e8ef37108f87cbe9d9dd4fa5d2f8f1a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-no-unicorn-stands/02-the-returned-messages-6aba8d7f1c058087-thumb.webp",
+            "sha256": "8e2ed6a356d9a57f545a565fc64d43c74c44d6eb5d84110a5d29e1014812a532",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-shepherds-hut",
+          "title": "The shepherds hut",
+          "alt": "The shepherds hut — oil interior study for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/interiors/03-the-shepherds-hut.png",
+          "sourceSha256": "a828d964e02efecc734bc27936f7a1febfa467a20d9ab329a928c5f864dacd38",
+          "full": {
+            "path": "interiors/where-no-unicorn-stands/03-the-shepherds-hut-a828d964e02efecc.webp",
+            "sha256": "4865cca6eb4e469fd91000fd7816d0b5819cb1dded2c88f3db685a1a4b978d90",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-no-unicorn-stands/03-the-shepherds-hut-a828d964e02efecc-thumb.webp",
+            "sha256": "feabf72d9e571d4b1cf795024dd2fc89a293a87e001ef56537411470b9d56531",
             "width": 480,
             "height": 320
           }
