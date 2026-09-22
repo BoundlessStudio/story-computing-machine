@@ -9215,44 +9215,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-two-long-bands-of-rain",
-          "title": "Two long bands of rain",
-          "alt": "Two long bands of rain — oil landscape for Where No Unicorn Stands",
-          "source": "stories/where-no-unicorn-stands/art/landscapes/04-two-long-bands-of-rain.png",
-          "sourceSha256": "5346b409a7ca547208f79b7ec1f7c269537995663afd7ff1ba5a450f690c7dd1",
-          "full": {
-            "path": "landscapes/where-no-unicorn-stands/04-two-long-bands-of-rain.webp",
-            "sha256": "b184c8ff55d0b393c48d085a83cdb2906d2308cbf2a2e39b428d2a0bea19e45f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-no-unicorn-stands/04-two-long-bands-of-rain-thumb.webp",
-            "sha256": "2d48e2542d5a40e3ee1fa89f0d09b05323a324bedba8a1278c978d074beb4ce0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-ridge-after-release",
-          "title": "The ridge after release",
-          "alt": "The ridge after release — oil landscape for Where No Unicorn Stands",
-          "source": "stories/where-no-unicorn-stands/art/landscapes/05-the-ridge-after-release.png",
-          "sourceSha256": "355fe9333fd0d8a40ae2d3beb4b999fea3d86456f664003c01329ffe8a2a11ff",
-          "full": {
-            "path": "landscapes/where-no-unicorn-stands/05-the-ridge-after-release.webp",
-            "sha256": "58d97bf5215b1edac6576930c61782f6c7033bd78c5a52422c98f0a49b29bc95",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-no-unicorn-stands/05-the-ridge-after-release-thumb.webp",
-            "sha256": "8b63973e1b12ced761e776193b38f1b5957d851abfb721a228bf2ed3c32180ea",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12292,6 +12254,16 @@
       "source": "stories/where-it-hurts/art/landscapes/05-evening-at-the-yard-entrance.png",
       "sourceSha256": "36aefae15aca614b75ca9d6e66ccb6e78f642163c6a9f989b7155f94724ca6b2",
       "reason": "Repeats the same coach-yard entrance and awning already represented by the retained yard image, without a separate setting."
+    },
+    {
+      "source": "stories/where-no-unicorn-stands/art/landscapes/04-two-long-bands-of-rain.png",
+      "sourceSha256": "5346b409a7ca547208f79b7ec1f7c269537995663afd7ff1ba5a450f690c7dd1",
+      "reason": "The two rain bands open after the storm begins shearing after sunset, across miles of thirsty dark. The painting shows bright sunlit fields and daytime clouds."
+    },
+    {
+      "source": "stories/where-no-unicorn-stands/art/landscapes/05-the-ridge-after-release.png",
+      "sourceSha256": "355fe9333fd0d8a40ae2d3beb4b999fea3d86456f664003c01329ffe8a2a11ff",
+      "reason": "The ridge landing follows the night release in continuing rain, followed by shelter in a hut. This clear daytime, partly sunny ridge contradicts the ending's time and weather."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
