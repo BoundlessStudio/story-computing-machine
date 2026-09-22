@@ -7810,6 +7810,70 @@
       ]
     },
     {
+      "slug": "the-sister-behind-her-smile",
+      "title": "The Sister Behind Her Smile",
+      "reader": "stories/the-sister-behind-her-smile.html",
+      "images": [
+        {
+          "id": "01-valsor-supper-room",
+          "title": "Valsor supper room",
+          "alt": "Valsor supper room — oil interior study for The Sister Behind Her Smile",
+          "source": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+          "sourceSha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+          "full": {
+            "path": "interiors/the-sister-behind-her-smile/01-valsor-supper-room-1aeb69473050245d.webp",
+            "sha256": "bd2b5a7547ea75861c3dde70a602767e2ecfb7a1e31ff75051af0bb547313a6d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sister-behind-her-smile/01-valsor-supper-room-1aeb69473050245d-thumb.webp",
+            "sha256": "d118b7328e2cf1e3dc6409b37c589688a70697001749ebfbb08abda145910bec",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-valsor-dressing-room",
+          "title": "Valsor dressing room",
+          "alt": "Valsor dressing room — oil interior study for The Sister Behind Her Smile",
+          "source": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+          "sourceSha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+          "full": {
+            "path": "interiors/the-sister-behind-her-smile/02-valsor-dressing-room-76b424f71e66eb14.webp",
+            "sha256": "a181a5de6d712f38f76e32fd007b5bc95aa3403ba6b9a3faca82f5d14ed6c49d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sister-behind-her-smile/02-valsor-dressing-room-76b424f71e66eb14-thumb.webp",
+            "sha256": "e69b97c9b5ecdc415cda9c7ba9faa181a9c80f4bdbb889985178315beb68f79c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-valsor-mirror-chamber",
+          "title": "Valsor mirror chamber",
+          "alt": "Valsor mirror chamber — oil interior study for The Sister Behind Her Smile",
+          "source": "stories/the-sister-behind-her-smile/art/interiors/03-valsor-mirror-chamber.png",
+          "sourceSha256": "1e0ec62ecccc4f76ac4232ed5039937ae0dc11bea9039d1a8b50f2ca5a67abab",
+          "full": {
+            "path": "interiors/the-sister-behind-her-smile/03-valsor-mirror-chamber-1e0ec62ecccc4f76.webp",
+            "sha256": "be1a6f764f2086143f5cdb4be8454e2aa20334adbc5b3811751943a79b16dca5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-sister-behind-her-smile/03-valsor-mirror-chamber-1e0ec62ecccc4f76-thumb.webp",
+            "sha256": "d81922a30b04835b72015681d402614121aab5abbb5c4a5f4c034964e579803f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-sky-remembers-us-return",
       "title": "The Sky Remembers Us",
       "reader": "stories/the-sky-remembers-us-return.html",
@@ -8379,6 +8443,70 @@
           "thumbnail": {
             "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554-thumb.webp",
             "sha256": "939ae30e649b56831d71e58b6ee6b4c1c7d3e2e39cc90c804bae62066d3dce2f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-trouble-with-tuesdays",
+      "title": "The Trouble With Tuesdays",
+      "reader": "stories/the-trouble-with-tuesdays.html",
+      "images": [
+        {
+          "id": "01-tea-at-the-kitchen-table",
+          "title": "Tea at the kitchen table",
+          "alt": "Tea at the kitchen table — oil interior study for The Trouble With Tuesdays",
+          "source": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+          "sourceSha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f",
+          "full": {
+            "path": "interiors/the-trouble-with-tuesdays/01-tea-at-the-kitchen-table-15d29df61dff1ccc.webp",
+            "sha256": "45e741b99e681bdcf51cc63df5aea6848ace8487d611864563962569df5d0e15",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-trouble-with-tuesdays/01-tea-at-the-kitchen-table-15d29df61dff1ccc-thumb.webp",
+            "sha256": "9726cbe079351606b67bb56c428cfd88e5fbb16afd1ab06c2a352e4c09c4fd1d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-shoebox-in-the-bedroom",
+          "title": "The shoebox in the bedroom",
+          "alt": "The shoebox in the bedroom — oil interior study for The Trouble With Tuesdays",
+          "source": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
+          "sourceSha256": "826fcb72b64f9bbccbb52420540ea77020a524000674375ffca6d60af3d6436a",
+          "full": {
+            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-826fcb72b64f9bbc.webp",
+            "sha256": "b8749594542ff2c6ec9b7e813c677add3c290296d8883711dead7af4d909cf4e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-826fcb72b64f9bbc-thumb.webp",
+            "sha256": "8f2ae759274dca7da4b6027160925d45592e57355c8c19385b550a24296ba843",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-kitchen-after-midnight",
+          "title": "The kitchen after midnight",
+          "alt": "The kitchen after midnight — oil interior study for The Trouble With Tuesdays",
+          "source": "stories/the-trouble-with-tuesdays/art/interiors/03-the-kitchen-after-midnight.png",
+          "sourceSha256": "b3b1dab281188ef734ddeebc791b68feaae0b462156a3e2d45d987ef2e6fd5d8",
+          "full": {
+            "path": "interiors/the-trouble-with-tuesdays/03-the-kitchen-after-midnight-b3b1dab281188ef7.webp",
+            "sha256": "bb2a1121e40c9c0315d0c423c3f7fecc3703c6cdb44cb2b54f959fd910fb5363",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-trouble-with-tuesdays/03-the-kitchen-after-midnight-b3b1dab281188ef7-thumb.webp",
+            "sha256": "cc06de92bec738991da7a2c92924481067bb84189dfe4436e1a81dcd48e67271",
             "width": 480,
             "height": 320
           }
