@@ -7527,6 +7527,32 @@
       ]
     },
     {
+      "slug": "the-seventh-night",
+      "title": "The Seventh Night",
+      "reader": "stories/the-seventh-night.html",
+      "images": [
+        {
+          "id": "01-supper-lights-in-town",
+          "title": "Supper lights in town",
+          "alt": "Supper lights in town — oil landscape for The Seventh Night",
+          "source": "stories/the-seventh-night/art/landscapes/01-supper-lights-in-town.png",
+          "sourceSha256": "4c8501db7f270ccb7b1cadae913b6ea5a7f8a4b2d3ad5a9d7f2dc9d7a989c3bc",
+          "full": {
+            "path": "landscapes/the-seventh-night/01-supper-lights-in-town.webp",
+            "sha256": "0434f1c4f0b38989dce3d935058982c4f4a7ccce801e6d0cf06370842cb32452",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-seventh-night/01-supper-lights-in-town-thumb.webp",
+            "sha256": "d2a2bf25707084cff9fee801571fb455709d7f5d672270f2585bfc060035a0d1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-shadow-that-nested",
       "title": "The Shadow That Nested",
       "reader": "stories/the-shadow-that-nested.html",
@@ -12508,11 +12534,6 @@
       "source": "stories/the-second-wearing/art/landscapes/05-the-open-window-neighborhood.png",
       "sourceSha256": "efc85b472abf03269172e3122aa99ca2f68b983f76db63e9cd92d12976bd46fb",
       "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
-    },
-    {
-      "source": "stories/the-seventh-night/art/landscapes/01-supper-lights-in-town.png",
-      "sourceSha256": "4c8501db7f270ccb7b1cadae913b6ea5a7f8a4b2d3ad5a9d7f2dc9d7a989c3bc",
-      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
     },
     {
       "source": "stories/the-seventh-night/art/landscapes/02-dawn-at-the-tomb-entrance.png",
