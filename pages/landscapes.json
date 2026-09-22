@@ -5873,6 +5873,44 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "02-storm-tops-under-the-watch",
+          "title": "Storm tops under the watch",
+          "alt": "Storm tops under the watch — oil landscape for The Last Watcher of Jupiter",
+          "source": "stories/last-watcher-of-jupiter/art/landscapes/02-storm-tops-under-the-watch.png",
+          "sourceSha256": "dbd57d02c42e3b38813fec25cc544e6008c9aa3272b486bceadda37c12afbd91",
+          "full": {
+            "path": "landscapes/last-watcher-of-jupiter/02-storm-tops-under-the-watch.webp",
+            "sha256": "9894a8cff5641231b54b731f0956038202eefa4ebf095ac2ce2282209ab5b92c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/last-watcher-of-jupiter/02-storm-tops-under-the-watch-thumb.webp",
+            "sha256": "56b50ffa4348a96a9f51bc16e208bf37908903ecdd0f15ea6e59cb724858a3cc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "05-the-uneven-field-settles",
+          "title": "The uneven field settles",
+          "alt": "The uneven field settles — oil landscape for The Last Watcher of Jupiter",
+          "source": "stories/last-watcher-of-jupiter/art/landscapes/05-the-uneven-field-settles.png",
+          "sourceSha256": "2eb4745878c88b2aa55b2373ee484ac11ee6b2430edf7ef9394297b916c86b5b",
+          "full": {
+            "path": "landscapes/last-watcher-of-jupiter/05-the-uneven-field-settles.webp",
+            "sha256": "692de973028a021f8710d312391f5c2fc5dc46754cec65c06193eac79a89b489",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/last-watcher-of-jupiter/05-the-uneven-field-settles-thumb.webp",
+            "sha256": "81f9809ec96cc7bf429686eecedffccfe09ab31656c6630587c7d6501e18e863",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -11196,11 +11234,6 @@
       "reason": "A second near-identical orbital planet view adds no distinct location or visible signal state beyond the retained world-below image."
     },
     {
-      "source": "stories/last-watcher-of-jupiter/art/landscapes/02-storm-tops-under-the-watch.png",
-      "sourceSha256": "dbd57d02c42e3b38813fec25cc544e6008c9aa3272b486bceadda37c12afbd91",
-      "reason": "Repeats Jupiter's cloud tops rather than adding a distinct story location or a clearly depicted phase of the watch."
-    },
-    {
       "source": "stories/last-watcher-of-jupiter/art/landscapes/03-the-pale-seam.png",
       "sourceSha256": "0bcc928efae566abd4ae35387d08917581993837eea62498d08652008fb1d53b",
       "reason": "The organism opens a needle-straight pale seam explicitly too straight to be weather; the painting substitutes a broad irregular lightning-like cloud band."
@@ -11209,11 +11242,6 @@
       "source": "stories/last-watcher-of-jupiter/art/landscapes/04-the-current-spreads.png",
       "sourceSha256": "028e5a56220f876ad45e6348cfd81fd65fc9b454ac8d39cedeb446033c86e84a",
       "reason": "Repeats the Jovian storm panorama without clearly depicting the spreading organism current that distinguishes the named moment."
-    },
-    {
-      "source": "stories/last-watcher-of-jupiter/art/landscapes/05-the-uneven-field-settles.png",
-      "sourceSha256": "2eb4745878c88b2aa55b2373ee484ac11ee6b2430edf7ef9394297b916c86b5b",
-      "reason": "Another repeated Jovian panorama; the ragged green working field whose uneven edges settle is not meaningfully depicted."
     },
     {
       "source": "stories/late-for-dinner/art/landscapes/02-barley-above-the-track.png",
