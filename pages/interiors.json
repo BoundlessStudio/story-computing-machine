@@ -5826,6 +5826,70 @@
       ]
     },
     {
+      "slug": "the-lions-last-constellation",
+      "title": "The Lion's Last Constellation",
+      "reader": "stories/the-lions-last-constellation.html",
+      "images": [
+        {
+          "id": "01-the-cistern-cave",
+          "title": "The cistern cave",
+          "alt": "The cistern cave — oil interior study for The Lion's Last Constellation",
+          "source": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+          "sourceSha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+          "full": {
+            "path": "interiors/the-lions-last-constellation/01-the-cistern-cave-9e1309a7f1d6a41d.webp",
+            "sha256": "6bbf8cbdd33dc43f474211482309da228b2ec5f01fdbd18e85f9c3badbe4f109",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lions-last-constellation/01-the-cistern-cave-9e1309a7f1d6a41d-thumb.webp",
+            "sha256": "277aa52b2445dbda84f77b6a6d6889102aede842f61e9c82b437e9d977df823f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-upper-mouth",
+          "title": "The upper mouth",
+          "alt": "The upper mouth — oil interior study for The Lion's Last Constellation",
+          "source": "stories/the-lions-last-constellation/art/interiors/02-the-upper-mouth.png",
+          "sourceSha256": "22b59dccb0cd5a5debcdfd4bc17c633e1a29ae037bb5eb4c624b9a320bd292ed",
+          "full": {
+            "path": "interiors/the-lions-last-constellation/02-the-upper-mouth-22b59dccb0cd5a5d.webp",
+            "sha256": "351c7977d57f6ab8fba1dedd402dd88253dd272681e4dfd37f21e16e5370758d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lions-last-constellation/02-the-upper-mouth-22b59dccb0cd5a5d-thumb.webp",
+            "sha256": "259c7a644edb6124f37dc943d4340a29a91764dc5c1649ac2dd94c500f4ff33e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-scored-pillar",
+          "title": "The scored pillar",
+          "alt": "The scored pillar — oil interior study for The Lion's Last Constellation",
+          "source": "stories/the-lions-last-constellation/art/interiors/03-the-scored-pillar.png",
+          "sourceSha256": "ae3d6fc967eea735cbe797e6cd6a025fde2432d3ef994ddefd1896ca5fcb71cb",
+          "full": {
+            "path": "interiors/the-lions-last-constellation/03-the-scored-pillar-ae3d6fc967eea735.webp",
+            "sha256": "bd5a923d57bb48e0f0b571eeab475f877f5818195bbe07fb122db3850ed4a66a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lions-last-constellation/03-the-scored-pillar-ae3d6fc967eea735-thumb.webp",
+            "sha256": "e2a2e375cb883b1741998dcc5af4976306c8d4268849125780a10d2f6711fa27",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-mercy-circuit",
       "title": "The Mercy Circuit",
       "reader": "stories/the-mercy-circuit.html",
@@ -5883,6 +5947,70 @@
           "thumbnail": {
             "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-60f8c4d158bfa70e-thumb.webp",
             "sha256": "3452e286ab6c77c4c35700c95cab6c142f377988dc2c3e7becd5666d145a9af6",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-name-i-kept",
+      "title": "The Name I Kept",
+      "reader": "stories/the-name-i-kept.html",
+      "images": [
+        {
+          "id": "01-the-laundromat",
+          "title": "The laundromat",
+          "alt": "The laundromat — oil interior study for The Name I Kept",
+          "source": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "sourceSha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7",
+          "full": {
+            "path": "interiors/the-name-i-kept/01-the-laundromat-efa23e1c86be63fc.webp",
+            "sha256": "29621c2df977ff47c34a81d084a8eee989abddf6eee46a799b2280236bb5de5b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-i-kept/01-the-laundromat-efa23e1c86be63fc-thumb.webp",
+            "sha256": "e2b520bfd4dee193e0cd9d67c63ee30fb1e0354cafea577b397601ef22a4fa72",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-beside-the-washer",
+          "title": "Beside the washer",
+          "alt": "Beside the washer — oil interior study for The Name I Kept",
+          "source": "stories/the-name-i-kept/art/interiors/02-beside-the-washer.png",
+          "sourceSha256": "44b1dc75a7946cd7531e9be4314d2bad4c80be664248bb206ebda8b226b61943",
+          "full": {
+            "path": "interiors/the-name-i-kept/02-beside-the-washer-44b1dc75a7946cd7.webp",
+            "sha256": "f1490c7b1fff99988c17a8db4c1254d20666ed6aabd0ea31c265ac6bdde8afb6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-i-kept/02-beside-the-washer-44b1dc75a7946cd7-thumb.webp",
+            "sha256": "d959e3bc5e8bc135250dc1c7cb8902fa1ab746e1e22a66db70c3a95c3bd7f7ff",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-memorial-studio",
+          "title": "The memorial studio",
+          "alt": "The memorial studio — oil interior study for The Name I Kept",
+          "source": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "sourceSha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f",
+          "full": {
+            "path": "interiors/the-name-i-kept/03-the-memorial-studio-b266df206a4e19cb.webp",
+            "sha256": "dd8db154fdfc38ff56c21aee864e38ef6191afd2aa9d68caa49970d697283e01",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-i-kept/03-the-memorial-studio-b266df206a4e19cb-thumb.webp",
+            "sha256": "38e998d021d817035c5a488dafcac54d99f8a50237ff742f3f6537c308dfcdd6",
             "width": 480,
             "height": 320
           }
