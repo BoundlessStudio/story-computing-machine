@@ -4431,44 +4431,6 @@
           }
         },
         {
-          "id": "03-the-three-exit-ring-road",
-          "title": "The three exit ring road",
-          "alt": "The three exit ring road — oil landscape for The Last Bus to Briar Hill",
-          "source": "stories/the-last-bus-to-briar-hill/art/landscapes/03-the-three-exit-ring-road.png",
-          "sourceSha256": "58f68c19f64a35ba8995100d5a6806c139703c5d21e7b62311a79f88175d8355",
-          "full": {
-            "path": "landscapes/the-last-bus-to-briar-hill/03-the-three-exit-ring-road.webp",
-            "sha256": "3f791d79de4cfb9b7148b1076541d71f80172fcb5fa9da214f558c2af02b1418",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-bus-to-briar-hill/03-the-three-exit-ring-road-thumb.webp",
-            "sha256": "73414ce5ce55c71a78e33b66e62822cc39cf737cb8c2dab03ad1e2cd82ca0766",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-briar-hill-root-steps",
-          "title": "Briar hill root steps",
-          "alt": "Briar hill root steps — oil landscape for The Last Bus to Briar Hill",
-          "source": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
-          "sourceSha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
-          "full": {
-            "path": "landscapes/the-last-bus-to-briar-hill/04-briar-hill-root-steps.webp",
-            "sha256": "2e8806a20d9224cc834e3806b1159144f0a479ceee3d868779ab1e5221d8b429",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-bus-to-briar-hill/04-briar-hill-root-steps-thumb.webp",
-            "sha256": "6432d282b7a83311b6b1aedcbb7ad34cf48907a8cb88ee4d1d1f60fbd0c1a247",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-root-bridge-at-sunrise",
           "title": "Root bridge at sunrise",
           "alt": "Root bridge at sunrise — oil landscape for The Last Bus to Briar Hill",
@@ -14996,6 +14958,16 @@
       "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/05-mountain-weather.png",
       "sourceSha256": "f1a4625dae19b493e4122cf352a37561af7196418e3d75c15c0c3eaa26ed6d03",
       "reason": "Expands the mountain-herb smell on Oruvane's return into an unseen mountain landscape."
+    },
+    {
+      "source": "stories/the-last-bus-to-briar-hill/art/landscapes/03-the-three-exit-ring-road.png",
+      "sourceSha256": "58f68c19f64a35ba8995100d5a6806c139703c5d21e7b62311a79f88175d8355",
+      "reason": "Shows the false-exit ring road in daylight, although this test occurs during the night crossing before the sky begins to brighten at Briar Hill."
+    },
+    {
+      "source": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+      "sourceSha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+      "reason": "Replaces steps formed by living roots lifting out of pavement with ordinary stone stairs crossed by a few roots, and advances the night arrival to sunrise."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
