@@ -8706,6 +8706,70 @@
       ]
     },
     {
+      "slug": "the-warmest-person-in-the-room",
+      "title": "The Warmest Person in the Room",
+      "reader": "stories/the-warmest-person-in-the-room.html",
+      "images": [
+        {
+          "id": "01-the-registration-hall",
+          "title": "The registration hall",
+          "alt": "The registration hall — oil interior study for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
+          "sourceSha256": "ba1ad4c3c4c8a02ecb3f96e048238981c859c15ee20b7fcf9a8ce10f962ba1a6",
+          "full": {
+            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-ba1ad4c3c4c8a02e.webp",
+            "sha256": "dcd73272e33f41d5ec0d23b1a8223a14dd4d0928c501398bfbd0b41bc582bc07",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-ba1ad4c3c4c8a02e-thumb.webp",
+            "sha256": "505d4b8a77dd400b9a230484be19b28b114b9a007af265b476212eed24755864",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-equipment-corridor",
+          "title": "The equipment corridor",
+          "alt": "The equipment corridor — oil interior study for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/interiors/02-the-equipment-corridor.png",
+          "sourceSha256": "1523315f726b8ee12ce6038ea7a52dabed7c5ad324ee0e9771edfa19931d78f9",
+          "full": {
+            "path": "interiors/the-warmest-person-in-the-room/02-the-equipment-corridor-1523315f726b8ee1.webp",
+            "sha256": "eeba45c8dc32c486267d745875b035006609d8839e21e0a7af42da939ef499ca",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-warmest-person-in-the-room/02-the-equipment-corridor-1523315f726b8ee1-thumb.webp",
+            "sha256": "0324732e75e83f356b6a31767da4db5836d84e0f5a4f3843edbc9f816b6f5ba9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-service-stair",
+          "title": "The service stair",
+          "alt": "The service stair — oil interior study for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+          "sourceSha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+          "full": {
+            "path": "interiors/the-warmest-person-in-the-room/03-the-service-stair-d57b8712b63e792b.webp",
+            "sha256": "5835635edde979beb0da9b64e4c7262742d075bd6bbf48bb83c15cf357976b25",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-warmest-person-in-the-room/03-the-service-stair-d57b8712b63e792b-thumb.webp",
+            "sha256": "780803ce0daf6b0959ad876fbf82d60bae708c841f2929a977e1dbd62bfe346c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "deja-vu-too-late",
       "title": "The Warning Comes Second",
       "reader": "stories/deja-vu-too-late.html",
@@ -9083,6 +9147,70 @@
           "thumbnail": {
             "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd-thumb.webp",
             "sha256": "4ef4bf7c26e83e4cb1e9255d1a99c8992fc0069cbe761d6b31a8c612249c7d15",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "what-the-wind-wanted",
+      "title": "What the Wind Wanted",
+      "reader": "stories/what-the-wind-wanted.html",
+      "images": [
+        {
+          "id": "01-the-cold-ridge-tunnel",
+          "title": "The cold ridge tunnel",
+          "alt": "The cold ridge tunnel — oil interior study for What the Wind Wanted",
+          "source": "stories/what-the-wind-wanted/art/interiors/01-the-cold-ridge-tunnel.png",
+          "sourceSha256": "bbd8ba0a0c05c3f0f63bcd429a9dccbe9a937d71bc3774d55db3adedd05ddfb7",
+          "full": {
+            "path": "interiors/what-the-wind-wanted/01-the-cold-ridge-tunnel-bbd8ba0a0c05c3f0.webp",
+            "sha256": "3f63d9642b1e751ee9f4cd5fc630e1f7f8be0f9e839dc0b022567b3c998ab1a7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-wind-wanted/01-the-cold-ridge-tunnel-bbd8ba0a0c05c3f0-thumb.webp",
+            "sha256": "3a942e0ec64fe58072e7e070c8132c851bb680a242c54705179b4ef57d601257",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-middle-passage",
+          "title": "The middle passage",
+          "alt": "The middle passage — oil interior study for What the Wind Wanted",
+          "source": "stories/what-the-wind-wanted/art/interiors/02-the-middle-passage.png",
+          "sourceSha256": "4a741d8f298d2acadac47451df71ffe0816351e186fb58edd826b85bbca2d7dd",
+          "full": {
+            "path": "interiors/what-the-wind-wanted/02-the-middle-passage-4a741d8f298d2aca.webp",
+            "sha256": "ce208f41bda452994627266b1b513b1e1cbbaf60c8819f31352c5b73da9bd98e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-wind-wanted/02-the-middle-passage-4a741d8f298d2aca-thumb.webp",
+            "sha256": "7da851f13d929f289a9a6e40395427fd10afb55eacf947aeb8e2beb664dbdd3c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-warm-side-exit",
+          "title": "The warm side exit",
+          "alt": "The warm side exit — oil interior study for What the Wind Wanted",
+          "source": "stories/what-the-wind-wanted/art/interiors/03-the-warm-side-exit.png",
+          "sourceSha256": "c50bf5286c7d3423b1041eb96f47e740dd3f174ad14709dcb29e8ea709768988",
+          "full": {
+            "path": "interiors/what-the-wind-wanted/03-the-warm-side-exit-c50bf5286c7d3423.webp",
+            "sha256": "726f4d3a44962863be6d3ccc61282cbcbc43f55a8ff66fcecbb8cc8a6b1b01b0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-wind-wanted/03-the-warm-side-exit-c50bf5286c7d3423-thumb.webp",
+            "sha256": "cf74756f48e68d648551b5fe7eef52bd6334bf9a1c8c93aaeae413197ffa1726",
             "width": 480,
             "height": 320
           }
