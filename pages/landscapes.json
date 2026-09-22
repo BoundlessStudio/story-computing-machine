@@ -3931,25 +3931,6 @@
       "reader": "stories/the-friends-i-built.html",
       "images": [
         {
-          "id": "01-ash-road-to-cinder-annex",
-          "title": "Ash road to cinder annex",
-          "alt": "Ash road to cinder annex — oil landscape for The Friends I Built",
-          "source": "stories/the-friends-i-built/art/landscapes/01-ash-road-to-cinder-annex.png",
-          "sourceSha256": "7ae8c0bbb46aec83ad1597ec7b05a49f994f5ad38dcd8d290fe34c13245b69e8",
-          "full": {
-            "path": "landscapes/the-friends-i-built/01-ash-road-to-cinder-annex.webp",
-            "sha256": "ccb79d6df7ad0068ce997cc8be6f8bf546ebd70ba5173c23aa9ea967540023ed",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-friends-i-built/01-ash-road-to-cinder-annex-thumb.webp",
-            "sha256": "eb16dcf5216ed4b92b03fc6268b1c8c1f4846f26ed2bd09f6957a3a9637968fa",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-chimneys-beyond-ash-trees",
           "title": "Chimneys beyond ash trees",
           "alt": "Chimneys beyond ash trees — oil landscape for The Friends I Built",
@@ -3969,25 +3950,6 @@
           }
         },
         {
-          "id": "03-service-yard-evening",
-          "title": "Service yard evening",
-          "alt": "Service yard evening — oil landscape for The Friends I Built",
-          "source": "stories/the-friends-i-built/art/landscapes/03-service-yard-evening.png",
-          "sourceSha256": "188136c74670ac44f73eb2bd06a323fda8fcfe313e42ce88a570e0b7f88481b5",
-          "full": {
-            "path": "landscapes/the-friends-i-built/03-service-yard-evening.webp",
-            "sha256": "e04955e517e12eb63d2be7d336064379317d4d273a7a35ca2786fa03cb50da7e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-friends-i-built/03-service-yard-evening-thumb.webp",
-            "sha256": "730c49c83ca6b708842add2f2229a6b561eff252737a57538891eb8a62d4c5bb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-uphill-school-road",
           "title": "The uphill school road",
           "alt": "The uphill school road — oil landscape for The Friends I Built",
@@ -4002,25 +3964,6 @@
           "thumbnail": {
             "path": "landscapes/the-friends-i-built/04-the-uphill-school-road-thumb.webp",
             "sha256": "63726d77e1589d0a6e1baeea4c46fc00a66a88a33a531ea488ad2147bdf9ad83",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-morning-outside-the-house",
-          "title": "Morning outside the house",
-          "alt": "Morning outside the house — oil landscape for The Friends I Built",
-          "source": "stories/the-friends-i-built/art/landscapes/05-morning-outside-the-house.png",
-          "sourceSha256": "9fdcd46229f6cfce2b3b5caf88b00aaaf30a6738dcda805fcdb98d2fef87408e",
-          "full": {
-            "path": "landscapes/the-friends-i-built/05-morning-outside-the-house.webp",
-            "sha256": "b253ac8709e556f65f7663bf802e182c3ec3009f0aaa12c5eb399d84d37f29a5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-friends-i-built/05-morning-outside-the-house-thumb.webp",
-            "sha256": "1a0f734ae0b1dec8dbaeec68a23e23424f47126e875a3b42e8fff1d507528800",
             "width": 480,
             "height": 320
           }
@@ -15553,6 +15496,21 @@
       "source": "stories/the-five-minute-warranty/art/landscapes/05-the-quarry-at-noon.png",
       "sourceSha256": "53b89a86218484b2e09705cee4c086ec0523d728b0488d54db9041eef0abcd3e",
       "reason": "Invents a quiet noon aftermath and adds another quarry panorama; the ending inventories the still-broken lift after the lower station collapses into fire."
+    },
+    {
+      "source": "stories/the-friends-i-built/art/landscapes/01-ash-road-to-cinder-annex.png",
+      "sourceSha256": "7ae8c0bbb46aec83ad1597ec7b05a49f994f5ad38dcd8d290fe34c13245b69e8",
+      "reason": "Repeats the ash-road approach already represented by the uphill road in image 04, which matches the cart-hauling ascent."
+    },
+    {
+      "source": "stories/the-friends-i-built/art/landscapes/03-service-yard-evening.png",
+      "sourceSha256": "188136c74670ac44f73eb2bd06a323fda8fcfe313e42ce88a570e0b7f88481b5",
+      "reason": "Invents an evening service-yard landscape; the exhibition and rescue happen inside the furnace hall."
+    },
+    {
+      "source": "stories/the-friends-i-built/art/landscapes/05-morning-outside-the-house.png",
+      "sourceSha256": "9fdcd46229f6cfce2b3b5caf88b00aaaf30a6738dcda805fcdb98d2fef87408e",
+      "reason": "Turns the indoor home/conveyance ending into another panoramic road view, repeating the school approach without a distinct source scene."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
