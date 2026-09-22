@@ -4642,25 +4642,6 @@
           }
         },
         {
-          "id": "02-northern-ice-route",
-          "title": "Northern ice route",
-          "alt": "Northern ice route — oil landscape for The Last Flames",
-          "source": "stories/the-last-flames/art/landscapes/02-northern-ice-route.png",
-          "sourceSha256": "7f125c55b3d9a56673c7e0eba4c6f12e5fc2b0d23c7bb52287191e38081d47d5",
-          "full": {
-            "path": "landscapes/the-last-flames/02-northern-ice-route.webp",
-            "sha256": "935dfba8e845c8264ab3e6aba53985848bca28ad7f8b33d3dee8942b4de438fa",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-flames/02-northern-ice-route-thumb.webp",
-            "sha256": "6afcf0810c2e56dd91e88526f312ac3300b55272c25f57ccd8064f6c57e6d4dd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-aurora-above-the-southern-ridge",
           "title": "Aurora above the southern ridge",
           "alt": "Aurora above the southern ridge — oil landscape for The Last Flames",
@@ -14940,6 +14921,11 @@
       "source": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
       "sourceSha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
       "reason": "Replaces steps formed by living roots lifting out of pavement with ordinary stone stairs crossed by a few roots, and advances the night arrival to sunrise."
+    },
+    {
+      "source": "stories/the-last-flames/art/landscapes/02-northern-ice-route.png",
+      "sourceSha256": "7f125c55b3d9a56673c7e0eba4c6f12e5fc2b0d23c7bb52287191e38081d47d5",
+      "reason": "The northern route is conveyed through recollection and frost-map marks, with a future expedition proposed; this open ice-route panorama is never visited in the story."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
