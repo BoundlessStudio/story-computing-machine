@@ -6406,6 +6406,25 @@
           }
         },
         {
+          "id": "04-volunteer-park-in-may",
+          "title": "Volunteer park in may",
+          "alt": "Volunteer park in may — oil landscape for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/landscapes/04-volunteer-park-in-may.png",
+          "sourceSha256": "ac9536dcb1c36fe7ad1bbdde86eec5c56583095d6a269fb325e10f899a8b103e",
+          "full": {
+            "path": "landscapes/the-names-on-the-cups/04-volunteer-park-in-may.webp",
+            "sha256": "3df2a963c2e8a72fbaa99643bd3bab5c56ad3879015c7253d8339dda34d60cf6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-names-on-the-cups/04-volunteer-park-in-may-thumb.webp",
+            "sha256": "a4612b4472095e65e30595fc4f57044e5914d48f8a01c7a846072acaa35c9fa7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "05-first-pink-roses-on-mercer",
           "title": "First pink roses on mercer",
           "alt": "First pink roses on mercer — oil landscape for The Names on the Cups",
@@ -12226,11 +12245,6 @@
       "source": "stories/the-names-on-the-cups/art/landscapes/03-soft-rain-in-march.png",
       "sourceSha256": "c09ec3d60c9b41478634cc3da97f4adef85a92585f5c0ba2b91e57899e5318ac",
       "reason": "Repeats the same wet cafe street already represented by image 01; the distinct spring rosebush state is covered by image 05."
-    },
-    {
-      "source": "stories/the-names-on-the-cups/art/landscapes/04-volunteer-park-in-may.png",
-      "sourceSha256": "ac9536dcb1c36fe7ad1bbdde86eec5c56583095d6a269fb325e10f899a8b103e",
-      "reason": "Volunteer Park is proposed for a future date, not visited before this cafe story ends."
     },
     {
       "source": "stories/the-next-train/art/landscapes/02-the-eastbound-street.png",
