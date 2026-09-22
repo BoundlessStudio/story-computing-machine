@@ -500,6 +500,32 @@
             "prompt": "Use case: illustration-story, regenerate from a visual reference. One horizontal 1536x1024 oil painting for 'A Knock in Someone Else's Sleep'. Image 1 supplies the paint handling, foaming sea, blue-green water and warm highlights, but its open outdoor coast is incorrect. The story's sea exists INSIDE A CUPBOARD in a dream room. Show a wooden cupboard with its two doors open in the foreground of an interior with floorboards. The cupboard's clearly visible jambs, top and bottom frame an impossibly deep little sea, its waves and sea light receding within that bounded interior opening. A little tide has just washed over the cupboard's lower lip onto the surrounding floorboards, carrying one small strand of weed, then retreated. The room is visibly enclosed on both sides and above; this cannot read as a doorway onto an outdoor beach. No external coast, trees or outdoor cliff landscape surrounding the cupboard. The sea may have dreamlike depth inside the cabinet, but all outer margins show the room and cabinet structure. No people needed. Retain the reference's tactile impasto oil painting and lively thick brushstrokes throughout both wood and water. A coherent, gentle surreal interior landscape; no labels, writing, collage panels or watermark.",
             "generator": "image_gen"
           }
+        },
+        {
+          "id": "05-the-green-tiled-dream-house",
+          "title": "The green tiled dream house",
+          "alt": "The green tiled dream house — oil landscape for A Knock in Someone Else's Sleep",
+          "source": "pages/landscape-replacements/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house.png",
+          "sourceSha256": "f20d3dc2038cda8cdbbce1bea98864083427d90d1c0064db9770b1369c3ec9c2",
+          "full": {
+            "path": "landscapes/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house-f20d3dc2038cda8c.webp",
+            "sha256": "9fb45698ad5d1c8d8e278a2e52d74f5af44265cf90c14d97842a03b703f52133",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house-f20d3dc2038cda8c-thumb.webp",
+            "sha256": "184188af945f882e32d1ede22c9beb052fe2cbf35b2656ee24ee3acc0048e0bd",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-knock-in-someone-elses-sleep/art/landscapes/05-the-green-tiled-dream-house.png",
+            "originalSha256": "041cc2cd0f1ed626ee16bc9ba8b09be558bccff007eddef418ff05272ee7831b",
+            "correction": "The green-tiled dream house stands inside a whale, whose ribs support its gutters, and initially has no door. The painting puts a cottage with a door in an open meadow beside distant water.",
+            "prompt": "Use case: illustration-story. One corrected horizontal 1536x1024 oil-painted dream environment for 'A Knock in Someone Else's Sleep'. Image 1 is the old image and concrete brushwork/style reference. Keep its little green-tiled house as the main motif, but REMOVE the outdoor meadow, distant water, sky and any door. The actual little house stands INSIDE A WHALE. Huge smooth curved ribs arch around this enclosed dream interior and physically support the house's gutters at the eaves. The surrounding space is a warm, shadowed, gently organic cavern; make the rib cage unmistakable, with the whale's soft tongue-like floor and enclosing body walls, never an outdoor landscape. A staircase approaches the house, and a small window supplies the possible way in. At this opening moment the house has NO DOOR: use continuous wall where the original entrance was. Roof intact with green tiles. No gore or exposed wounds, no corpse: it is the benign impossible interior of a living whale in a child's dream. No child or other figure is needed in this setting study. Preserve the broad textured impasto brushstrokes, muted earthy color harmonies and painterly charm of the supplied artwork rather than cartoon, photorealism or 3D. One coherent scene, no text, border or watermark.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
