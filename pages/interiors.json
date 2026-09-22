@@ -5506,6 +5506,70 @@
       ]
     },
     {
+      "slug": "the-help-network",
+      "title": "The Help Network",
+      "reader": "stories/the-help-network.html",
+      "images": [
+        {
+          "id": "01-the-back-stairwell",
+          "title": "The back stairwell",
+          "alt": "The back stairwell — oil interior study for The Help Network",
+          "source": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+          "sourceSha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+          "full": {
+            "path": "interiors/the-help-network/01-the-back-stairwell-62231910985b17b0.webp",
+            "sha256": "c3a8b017b0823824527a279d6e40839ea1985127a9fdb37ad59707b2f0164447",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-help-network/01-the-back-stairwell-62231910985b17b0-thumb.webp",
+            "sha256": "d9a2a3982c814c9d534df82cff3e134f0e3874207a8af2fc59503914e44d5806",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-cassias-room-after-midnight",
+          "title": "Cassias room after midnight",
+          "alt": "Cassias room after midnight — oil interior study for The Help Network",
+          "source": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+          "sourceSha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+          "full": {
+            "path": "interiors/the-help-network/02-cassias-room-after-midnight-cbd02fa8f97c91cd.webp",
+            "sha256": "a5acfcff612810f1f4b79be49412642db5a578effcbec802c602947a16c8d64d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-help-network/02-cassias-room-after-midnight-cbd02fa8f97c91cd-thumb.webp",
+            "sha256": "d7488b4405376be26a1c64f95f30334058e24b2f278376bb5b1073a710decd20",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-juice-on-the-worksheet",
+          "title": "Juice on the worksheet",
+          "alt": "Juice on the worksheet — oil interior study for The Help Network",
+          "source": "stories/the-help-network/art/interiors/03-juice-on-the-worksheet.png",
+          "sourceSha256": "4032dc1bc99afbd913a7efffb791543fe62af1ef06ef64f9fd9a8a9544ef3d02",
+          "full": {
+            "path": "interiors/the-help-network/03-juice-on-the-worksheet-4032dc1bc99afbd9.webp",
+            "sha256": "9003206ab7afa00f27564b77559cdc2c54c3066e68c01414947d1bf9c6403b40",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-help-network/03-juice-on-the-worksheet-4032dc1bc99afbd9-thumb.webp",
+            "sha256": "b10fcc46be1a791f1fec2d1c88ee0eba846e81ba57cf2f5197033e5f9a0780f8",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-hollow-cask",
       "title": "The Hollow Cask",
       "reader": "stories/the-hollow-cask.html",
@@ -5691,6 +5755,70 @@
           "thumbnail": {
             "path": "interiors/the-kill-she-wouldnt-take/03-raw-review-console-b48218af3a190fbd-thumb.webp",
             "sha256": "21b270269019e3516ffe1e883f961329be6e263f888b7d685432ffbab16de960",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-kingdom-of-later",
+      "title": "The Kingdom of Later",
+      "reader": "stories/the-kingdom-of-later.html",
+      "images": [
+        {
+          "id": "01-the-cobblers-leaking-shop",
+          "title": "The cobblers leaking shop",
+          "alt": "The cobblers leaking shop — oil interior study for The Kingdom of Later",
+          "source": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "sourceSha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "full": {
+            "path": "interiors/the-kingdom-of-later/01-the-cobblers-leaking-shop-678ecb428ed0c3f3.webp",
+            "sha256": "0b2dfa133b4c9e99ee35b6eb632b8e3f3447abd69a80ac18444fe5f8fb625758",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-of-later/01-the-cobblers-leaking-shop-678ecb428ed0c3f3-thumb.webp",
+            "sha256": "539847a5e6a523886886531c0a4aa21b213a3632e05b038491a7edb7c1dab065",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-attic-underlay",
+          "title": "The attic underlay",
+          "alt": "The attic underlay — oil interior study for The Kingdom of Later",
+          "source": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "sourceSha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "full": {
+            "path": "interiors/the-kingdom-of-later/02-the-attic-underlay-9b213ef6292aaa5f.webp",
+            "sha256": "84759758c7b16cbc1fabc7e488923c5750c11f4ba4919bf84e5632bc732b8e67",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-of-later/02-the-attic-underlay-9b213ef6292aaa5f-thumb.webp",
+            "sha256": "0921230b0fd4a2b94ed6146703c02472cd110ac1ae08cb15d357bfa7aa092e6b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-dry-bench-at-dusk",
+          "title": "The dry bench at dusk",
+          "alt": "The dry bench at dusk — oil interior study for The Kingdom of Later",
+          "source": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
+          "sourceSha256": "40b685fb1eebebef7049fe6884f779bf401a3012740346b01ea9abf47b7ba96d",
+          "full": {
+            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-40b685fb1eebebef.webp",
+            "sha256": "475cce949eba2e3325b04eb832523f286c188f431b1053ec49ee6e6356dba710",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-40b685fb1eebebef-thumb.webp",
+            "sha256": "cbd3f3ef6d71829cd3d7b1e3e66caaf59177b44081d11022a5c0c800ad76032f",
             "width": 480,
             "height": 320
           }
