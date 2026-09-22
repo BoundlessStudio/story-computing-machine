@@ -11733,6 +11733,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-two-long-bands-of-rain",
+          "title": "Two long bands of rain",
+          "alt": "Two long bands of rain — oil landscape for Where No Unicorn Stands",
+          "source": "pages/landscape-replacements/where-no-unicorn-stands/04-two-long-bands-of-rain.png",
+          "sourceSha256": "48123d8e3157b35767d343fe46a7e577f399d1233610a17f66f926f513dac7eb",
+          "full": {
+            "path": "landscapes/where-no-unicorn-stands/04-two-long-bands-of-rain-48123d8e3157b357.webp",
+            "sha256": "51081ced78181f9d20f53b933836fb0c0c265cc2dd14e7449f3d9604b8067166",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/where-no-unicorn-stands/04-two-long-bands-of-rain-48123d8e3157b357-thumb.webp",
+            "sha256": "03290d838658ec78ab0d78893d1d80c81385487a5fe45a1c5190d9b8cdf09d07",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/where-no-unicorn-stands/art/landscapes/04-two-long-bands-of-rain.png",
+            "originalSha256": "5346b409a7ca547208f79b7ec1f7c269537995663afd7ff1ba5a450f690c7dd1",
+            "correction": "The two rain bands open after the storm begins shearing after sunset, across miles of thirsty dark. The painting shows bright sunlit fields and daytime clouds.",
+            "prompt": "Correct the time and lighting of this landscape while preserving its Canadian Group of Seven inspired oil-painting character, 1536x1024. In Where No Unicorn Stands, the storm begins to shear AFTER SUNSET and the two controlled releases spread across miles of thirsty DARK country. This cannot be a sunlit landscape.\n\nKeep the elevated view of an orchard valley and a meandering river, with TWO separate long slanting curtains of rain descending from one great storm front over different reaches of the valley. Make it deep blue-violet NIGHT after sunset: black cloud masses with broad slate-violet planes, muted silver rain bands, dark orchards as grouped low shapes, a narrow cool silver reflection on the river. The river has swelled but remains clearly within its banks; no inundated fields, giant waterfall, rain laser beams or blanket flood. A dim internal lightning glow may softly reveal part of the cloud, but no bright sun, yellow horizon, daytime blue sky or sunlit golden slopes. Foreground ridge uses charcoal, slate and muted ochre forms under the weak storm light. No people, unicorns or foreground creatures; this is an environment view of the controlled rain release.\n\nRetain the original broad brushwork, stylized angular landforms, rhythmic grouped trees and strong simplified color masses associated with Canadian Group of Seven oil landscapes. Build forms directly with opaque bristle strokes and expressive contours, not realistic rendering or a texture overlay. Keep two rain bands legible at thumbnail scale, distant valley details quiet and economical. No text, signature or borders.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
