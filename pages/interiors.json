@@ -1346,6 +1346,70 @@
       ]
     },
     {
+      "slug": "the-bat-at-the-door",
+      "title": "By Wing and Welcome",
+      "reader": "stories/the-bat-at-the-door.html",
+      "images": [
+        {
+          "id": "01-the-flight-room",
+          "title": "The flight room",
+          "alt": "The flight room — oil interior study for By Wing and Welcome",
+          "source": "stories/the-bat-at-the-door/art/interiors/01-the-flight-room.png",
+          "sourceSha256": "d13435ef9aa1354da36501a695aba0efa81dd8483d3c739196efa00572289c28",
+          "full": {
+            "path": "interiors/the-bat-at-the-door/01-the-flight-room-d13435ef9aa1354d.webp",
+            "sha256": "610a621752bb5905f02ec135a1e3c80e3d35da071f7e777ea5d9c76e33074b1e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bat-at-the-door/01-the-flight-room-d13435ef9aa1354d-thumb.webp",
+            "sha256": "aa36821c6192781bb93b13bd349122f3e9284a2c9c138e111be870a7617f32dd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-tiled-vestibule",
+          "title": "Tiled vestibule",
+          "alt": "Tiled vestibule — oil interior study for By Wing and Welcome",
+          "source": "stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+          "sourceSha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3",
+          "full": {
+            "path": "interiors/the-bat-at-the-door/02-tiled-vestibule-7f4a88c3811b33f1.webp",
+            "sha256": "5330202f3de3242829382792b573d476e069070b7d72ed74346ceebebfd417ab",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bat-at-the-door/02-tiled-vestibule-7f4a88c3811b33f1-thumb.webp",
+            "sha256": "2d50dc43a71a627cba27d5e2df9b2db170ccca3844edee809a0582b6cc5795a8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kitchen-in-the-rain",
+          "title": "Kitchen in the rain",
+          "alt": "Kitchen in the rain — oil interior study for By Wing and Welcome",
+          "source": "stories/the-bat-at-the-door/art/interiors/03-kitchen-in-the-rain.png",
+          "sourceSha256": "bae772270fe1d4dacee1ee467b5d1c2dc0c9105846764ef6f34dd5a87ee4a6bb",
+          "full": {
+            "path": "interiors/the-bat-at-the-door/03-kitchen-in-the-rain-bae772270fe1d4da.webp",
+            "sha256": "bee8f996e2e9b378cf477358265b4cfbc399f9216c9550ce3957832094e693d2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-bat-at-the-door/03-kitchen-in-the-rain-bae772270fe1d4da-thumb.webp",
+            "sha256": "31c46a1c1dddb443a57a56f5721a6a504b787e751dd4dc114f9c74a59b5c1a56",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "coiled-together",
       "title": "Coiled Together",
       "reader": "stories/coiled-together.html",
@@ -3067,6 +3131,70 @@
           "thumbnail": {
             "path": "interiors/rooms-before-sunrise/03-service-sinus-2c5bf0df1a157090-thumb.webp",
             "sha256": "1db372ff8ddbfba5d261f629c6417d0544e8321d7b2af5d95160a22854225e0a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "strength-of-ten",
+      "title": "The Strength of Ten",
+      "reader": "stories/strength-of-ten.html",
+      "images": [
+        {
+          "id": "01-gorms-hall",
+          "title": "Gorms hall",
+          "alt": "Gorms hall — oil interior study for The Strength of Ten",
+          "source": "stories/strength-of-ten/art/interiors/01-gorms-hall.png",
+          "sourceSha256": "56d3836c4eef9d10975bff6ceab64e960f5961e490dbb5ca6ce4c761af9e7269",
+          "full": {
+            "path": "interiors/strength-of-ten/01-gorms-hall-56d3836c4eef9d10.webp",
+            "sha256": "c7ab2d5bd2b9341ac01d3d610f0d9ba0c9ec3f259673a2db7f34afc81dbce148",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/strength-of-ten/01-gorms-hall-56d3836c4eef9d10-thumb.webp",
+            "sha256": "9503761b3ac74cec544b84f2d88ef8a158416eb60d9d1a5c5b9e6855b34567bf",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-harrowfast-map-room",
+          "title": "Harrowfast map room",
+          "alt": "Harrowfast map room — oil interior study for The Strength of Ten",
+          "source": "stories/strength-of-ten/art/interiors/02-harrowfast-map-room.png",
+          "sourceSha256": "f23928f3e7ca68c9f581bb3108478b2490d3efa40a596d6b8d701bded476d328",
+          "full": {
+            "path": "interiors/strength-of-ten/02-harrowfast-map-room-f23928f3e7ca68c9.webp",
+            "sha256": "eb914cf2bbb930b37aa8692a5e410dd94fffcbe6ad351d01e121d0fece7eb676",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/strength-of-ten/02-harrowfast-map-room-f23928f3e7ca68c9-thumb.webp",
+            "sha256": "c89f034c6a13a0cab2d2a1ef3bee256dff66baf332398f0446f5ba63e0400312",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-blocked-hall-doors",
+          "title": "The blocked hall doors",
+          "alt": "The blocked hall doors — oil interior study for The Strength of Ten",
+          "source": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
+          "sourceSha256": "ec854d303dd368de9e5a852788a65fd797a2ba935ea3dac365b4bf1e8cbe4f6b",
+          "full": {
+            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-ec854d303dd368de.webp",
+            "sha256": "228d153917e10a74fc2891674a357912c765f79be47cc971c86eee25a90db0b0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-ec854d303dd368de-thumb.webp",
+            "sha256": "1a1f3e2826cbe6ec20d5493cd51d3aade622653aa5b2c8bb5690b71e218c1f02",
             "width": 480,
             "height": 320
           }
