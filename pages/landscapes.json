@@ -1244,6 +1244,25 @@
           }
         },
         {
+          "id": "02-the-empty-bus-stop-road",
+          "title": "The empty bus stop road",
+          "alt": "The empty bus stop road — oil landscape for Before Lunch",
+          "source": "stories/before-lunch/art/landscapes/02-the-empty-bus-stop-road.png",
+          "sourceSha256": "46e99e78046e76f6ed1581bf53a074c5e8a077de696d479d1be342ca9b5e842c",
+          "full": {
+            "path": "landscapes/before-lunch/02-the-empty-bus-stop-road.webp",
+            "sha256": "38b303fc731c68b3e55f16961bb2a45962656cfd0724e44b93e8a2384639fdb9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/before-lunch/02-the-empty-bus-stop-road-thumb.webp",
+            "sha256": "2616525b09b60bb04f83c084487be53675223287a4375a51f8fca75a0b98b07e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "03-around-the-corner",
           "title": "Around the corner",
           "alt": "Around the corner — oil landscape for Before Lunch",
@@ -10281,11 +10300,6 @@
       "source": "stories/apes-in-orbit/art/landscapes/05-the-north-road-ramp.png",
       "sourceSha256": "205394734e3c9d999bd5a94458cf403467b94197cfc9358636932d49bee82c89",
       "reason": "Adds an unvisited ramp/tunnel view from evacuation reports to a story centered on the council well and hatchery; its separate daylight panorama is unsupported by the night-to-dawn sequence."
-    },
-    {
-      "source": "stories/before-lunch/art/landscapes/02-the-empty-bus-stop-road.png",
-      "sourceSha256": "46e99e78046e76f6ed1581bf53a074c5e8a077de696d479d1be342ca9b5e842c",
-      "reason": "Another view of the same street episode centered on the bus escape the narrator considers but does not take; redundant after hotel exterior and actual corner departure."
     },
     {
       "source": "stories/before-lunch/art/landscapes/04-noon-over-the-roofs.png",
