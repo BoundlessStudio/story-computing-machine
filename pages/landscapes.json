@@ -1549,6 +1549,32 @@
       "reader": "stories/between-the-colors.html",
       "images": [
         {
+          "id": "01-the-theatre-before",
+          "title": "The theatre before",
+          "alt": "The theatre before — oil landscape for Between the Colors",
+          "source": "pages/landscape-replacements/between-the-colors/01-the-theatre-before.png",
+          "sourceSha256": "cc80c45ff88b213f1f403b833ae387f12b07ffb728c18461b38193c4052acde7",
+          "full": {
+            "path": "landscapes/between-the-colors/01-the-theatre-before-cc80c45ff88b213f.webp",
+            "sha256": "414b0d60f3944920cd7d2aff7ff3d831dc5a332320bdc953ace921fdaa032bf0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/between-the-colors/01-the-theatre-before-cc80c45ff88b213f-thumb.webp",
+            "sha256": "bcdb36c0c2248c0cc729cb432b289d6a307d7815f04872e29531d3de3a00282e",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
+            "originalSha256": "66cb8f0c21d39138836e2b6acabc940c06819f4d50635e7e9aa2d59211b0a26b",
+            "correction": "The distant white classical facade does not match the red-brick theatre shell in the retained collapse image, and the invented hilltop panorama is not the street-level approach.",
+            "prompt": "Correct the first reference, the before-fire theatre landscape for Between the Colors. Use the SECOND reference for the SAME BUILDING'S red-brick walls, proportions and urban neighbors, but reconstruct its intact pre-fire state. The first image wrongly uses a distant pale classical theatre viewed from an invented wooded hill. Instead paint a modest red-brick urban theatre at STREET LEVEL from just across the narrow street, looking toward its CLOSED wooden entrance door and upper dressing-room window. Intact pitched roof, simple brick facade with dark structural detailing recalling the surviving second-reference walls; no white stone colonnade or grand classical pediment. A neighboring upholsterer's shop has a LOW CANVAS AWNING below the upper theatre window, physically close enough for someone to climb down onto it. Neighboring street buildings are nearby, without a hillside, park foreground or valley vista. Ordinary afternoon daylight, before visible fire or structural collapse. No burning roof, no ruins, no people, no readable lettering. Preserve the two references' thick, broken impasto oil strokes, palette-knife texture and warm earth colors with cool blue shadows, wide environmental composition.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "02-smoke-over-the-roofs",
           "title": "Smoke over the roofs",
           "alt": "Smoke over the roofs — oil landscape for Between the Colors",
