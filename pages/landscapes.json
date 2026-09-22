@@ -4531,25 +4531,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-violet-shadow-on-the-dunes",
-          "title": "Violet shadow on the dunes",
-          "alt": "Violet shadow on the dunes — oil landscape for The Last Color Through",
-          "source": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
-          "sourceSha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
-          "full": {
-            "path": "landscapes/the-color-that-comes-home/05-violet-shadow-on-the-dunes.webp",
-            "sha256": "621755ca74c5c687297b5edc2974adf28cb6825b0a819bb04be0409ea420514d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-color-that-comes-home/05-violet-shadow-on-the-dunes-thumb.webp",
-            "sha256": "8a7c6e154f43951709a631b9b04fc24a7538a25de7b6743facf9990488f5c8c1",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14598,6 +14579,11 @@
       "source": "stories/the-city-of-eleven-foundations/art/landscapes/05-light-returns-to-the-basin.png",
       "sourceSha256": "ada46e42600224adc9f603cfd0f8b64ef7c89824f3db5b36a9bb2c4449172ac5",
       "reason": "The final panorama turns the eleven sharply distinct architectural districts into a uniform old-fashioned lakeside town, losing the defining city geometry and material boundaries."
+    },
+    {
+      "source": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
+      "sourceSha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
+      "reason": "The violet world is defined by hollow curled mineral shells like trumpet mouths, including house-sized living spirals. This painting replaces them with ordinary jagged rock outcrops and dunes; the droplet stems alone do not preserve the setting."
     },
     {
       "source": "stories/the-count-was-131072/art/landscapes/01-the-bay-remembered.png",
