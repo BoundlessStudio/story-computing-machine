@@ -4365,6 +4365,25 @@
       "reader": "stories/the-dress-they-brought-her.html",
       "images": [
         {
+          "id": "01-the-western-sky-went-white",
+          "title": "The western sky went white",
+          "alt": "The western sky went white — oil landscape for The Dress They Brought Her",
+          "source": "stories/the-dress-they-brought-her/art/landscapes/01-the-western-sky-went-white.png",
+          "sourceSha256": "0d61928fb6f3237ce4acf7afe98241aabf131490dc7aab588b999d38420d62f8",
+          "full": {
+            "path": "landscapes/the-dress-they-brought-her/01-the-western-sky-went-white.webp",
+            "sha256": "71604fcba2cfae6c032e17e2c03d6d6c4f83b9a8c013993b8a5e92416d7e41df",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-dress-they-brought-her/01-the-western-sky-went-white-thumb.webp",
+            "sha256": "cc715346aba5a696f791cb3f86f559c49f7aced356647a75cbe5145104afc420",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "02-evening-above-the-court",
           "title": "Evening above the court",
           "alt": "Evening above the court — oil landscape for The Dress They Brought Her",
@@ -11668,11 +11687,6 @@
       "source": "stories/the-door-knows-home/art/landscapes/05-five-oclock-in-the-lane.png",
       "sourceSha256": "9a06f8f041c3a29ca5ce35e22cce3d4e08e9373d6d9a3f046d79405e3f3301f7",
       "reason": "Repeats the workshop lane at a later light state with no distinct location; one delivery/collection view suffices."
-    },
-    {
-      "source": "stories/the-dress-they-brought-her/art/landscapes/01-the-western-sky-went-white.png",
-      "sourceSha256": "0d61928fb6f3237ce4acf7afe98241aabf131490dc7aab588b999d38420d62f8",
-      "reason": "Turns the earlier battle's remembered white western sky into a new exterior landscape; the story begins afterward inside a cell."
     },
     {
       "source": "stories/the-dress-they-brought-her/art/landscapes/03-hot-pavement-before-rain.png",
