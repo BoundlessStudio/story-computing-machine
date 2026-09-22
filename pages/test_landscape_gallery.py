@@ -141,6 +141,75 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertIn('width="96" height="64"', document)
         self.assertNotIn('src="/', document)
 
+    def replacement_fixture(self):
+        data = self.capture()
+        original = data["stories"][0]["images"][0]
+        replacement = self.pages / "landscape-replacements" / self.story.slug / self.source.name
+        replacement.parent.mkdir(parents=True)
+        Image.new("RGB", (96, 64), "midnightblue").save(replacement)
+        selected = gallery._encode((replacement, self.root, self.pages, self.story.slug, self.story.title, None))
+        selected["title"] = "The valley at the correct hour"
+        selected["revision"] = {
+            "originalSource": original["source"], "originalSha256": original["sourceSha256"],
+            "correction": "The source scene occurs after dark.",
+            "prompt": "Preserve the valley; replace sunlight with night.",
+            "generator": "image_gen",
+        }
+        data["stories"][0]["images"] = [selected]
+        data["excludedSources"] = [{
+            "source": original["source"], "sourceSha256": original["sourceSha256"],
+            "reason": selected["revision"]["correction"],
+        }]
+        self.snapshot.write_text(json.dumps(data), encoding="utf-8")
+        return replacement, data
+
+    def test_replacement_recapture_preserves_original_and_selected_provenance(self):
+        replacement, data = self.replacement_fixture()
+        original_bytes = self.source.read_bytes()
+        catalog_bytes = (self.pages / "catalog.json").read_bytes()
+        with patch.object(Image.Image, "save", side_effect=AssertionError("Re-encoded reviewed replacement")):
+            self.assertEqual(self.capture(), data)
+        self.assertEqual(self.source.read_bytes(), original_bytes)
+        self.assertEqual((self.pages / "catalog.json").read_bytes(), catalog_bytes)
+        selected = data["stories"][0]["images"][0]
+        self.assertEqual(selected["source"], replacement.relative_to(self.root).as_posix())
+        (self.pages / selected["thumbnail"]["path"]).unlink()
+        self.assertEqual(self.capture(), data)
+
+    def test_changed_replacement_source_blocks_recapture_but_not_frozen_build(self):
+        replacement, data = self.replacement_fixture()
+        before = self.snapshot.read_bytes()
+        Image.new("RGB", (96, 64), "pink").save(replacement)
+        with self.assertRaisesRegex(ValueError, "changed since review"):
+            self.capture()
+        self.assertEqual(self.snapshot.read_bytes(), before)
+        (self.root / "stories").rename(self.root / "offline-stories")
+        replacement.unlink()
+        output = self.root / "frozen-site"
+        output.mkdir()
+        self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 1)
+        self.assertFalse(list(output.rglob("*.png")))
+
+    def test_replacement_requires_safe_source_and_matching_excluded_reference(self):
+        _, original = self.replacement_fixture()
+        for mutation in ("unsafe", "wrong-story", "missing-exclusion", "wrong-hash", "missing-prompt"):
+            with self.subTest(mutation=mutation):
+                data = deepcopy(original)
+                image = data["stories"][0]["images"][0]
+                if mutation == "unsafe":
+                    image["source"] = "pages/landscape-replacements/../../private.png"
+                elif mutation == "wrong-story":
+                    image["revision"]["originalSource"] = "stories/another/art/landscapes/01-the-bright-valley.png"
+                elif mutation == "missing-exclusion":
+                    data["excludedSources"] = []
+                elif mutation == "wrong-hash":
+                    image["revision"]["originalSha256"] = "0" * 64
+                else:
+                    image["revision"]["prompt"] = ""
+                self.snapshot.write_text(json.dumps(data), encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    gallery.load_snapshot(self.snapshot)
+
     def test_missing_snapshot_has_a_valid_empty_gallery_and_reader_navigation(self):
         empty = gallery.load_snapshot(self.snapshot)
         self.assertEqual(empty["stories"], [])

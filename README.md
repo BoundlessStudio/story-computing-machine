@@ -130,6 +130,13 @@ when an original remains in a canon-locked story package; changing its pixels
 does not silently restore it. Restoring a painting requires explicit editorial
 selection by removing its exclusion before capture.
 
+Reviewed replacement PNGs live in pages/landscape-replacements, grouped by story
+and image ID, outside the original story package. A selected replacement records
+its original reference and hash, correction context, generation prompt and tool in
+the gallery snapshot. Its rejected original remains excluded. Capture preserves
+that selection and refuses changed replacement bytes until the selection is
+reviewed and updated. Pages builds use only the stored WebP copies.
+
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
 institutions, technology, magical conditions, and inherited history. Different

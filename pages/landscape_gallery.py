@@ -16,6 +16,7 @@ from PIL import Image, ImageOps
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 DIGEST = re.compile(r"[a-f0-9]{64}\Z")
 ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
+REPLACEMENT_ROOT = "pages/landscape-replacements"
 
 
 def _sha256(path: Path) -> str:
@@ -55,6 +56,7 @@ def load_snapshot(path: Path) -> dict:
         if not isinstance(exclusion.get("reason"), str) or not exclusion["reason"].strip():
             raise ValueError(f"Missing landscape exclusion reason: {source}")
         excluded.add(source)
+    exclusions_by_source = {entry["source"]: entry for entry in exclusions}
     slugs = set()
     for story in data["stories"]:
         if not isinstance(story, dict):
@@ -81,8 +83,24 @@ def load_snapshot(path: Path) -> dict:
             if not isinstance(image.get("sourceSha256"), str) or not DIGEST.fullmatch(image["sourceSha256"]):
                 raise ValueError(f"Invalid landscape source hash: {slug}/{image_id}")
             source = image.get("source", "")
-            if source not in {f"stories/{slug}/art/landscapes/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}:
+            original_sources = {f"stories/{slug}/art/landscapes/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}
+            replacement_source = f"{REPLACEMENT_ROOT}/{slug}/{image_id}.png"
+            if not isinstance(source, str) or source not in original_sources | {replacement_source}:
                 raise ValueError(f"Invalid landscape source path: {source}")
+            revision = image.get("revision")
+            if source == replacement_source:
+                if not isinstance(revision, dict):
+                    raise ValueError(f"Missing replacement provenance: {source}")
+                reference = revision.get("originalSource")
+                if not isinstance(reference, str) or reference not in original_sources or reference not in excluded:
+                    raise ValueError(f"Replacement requires its excluded original: {source}")
+                if revision.get("originalSha256") != exclusions_by_source[reference]["sourceSha256"]:
+                    raise ValueError(f"Replacement reference hash differs from the reviewed original: {source}")
+                if any(not isinstance(revision.get(key), str) or not revision[key].strip()
+                       for key in ("correction", "prompt", "generator")):
+                    raise ValueError(f"Incomplete replacement provenance: {source}")
+            elif revision is not None:
+                raise ValueError(f"Replacement provenance requires separate replacement artwork: {source}")
             if source in excluded:
                 raise ValueError(f"Excluded landscape is still selected: {source}")
             for role, suffix in (("full", ""), ("thumbnail", "-thumb")):
@@ -177,10 +195,30 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
         jobs.extend((source, repository_root, snapshot_path.parent, slug, story.title,
                      previous.get((slug, source.stem))) for source in sources)
     selected = {story["slug"]: story for story in groups}
+    # Replacement originals live outside locked story packages. Only explicitly
+    # selected replacements are captured; directory scans never select candidates.
+    for (slug, _), image in previous.items():
+        if "revision" not in image:
+            continue
+        if slug not in published:
+            raise ValueError(f"Landscape story is absent from the publication catalog: {slug}")
+        source = _asset(repository_root, image["source"])
+        if not source.is_file() or _sha256(source) != image["sourceSha256"]:
+            raise ValueError(f"Replacement artwork changed since review: {image['source']}")
+        if slug not in selected:
+            story = published[slug]
+            selected[slug] = {"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []}
+            groups.append(selected[slug])
+        jobs.append((source, repository_root, snapshot_path.parent, slug,
+                     published[slug].title, image))
     # Only this explicit capture operation reads production art or encodes web copies.
     with ThreadPoolExecutor(max_workers=8) as executor:
         for job, image in zip(jobs, executor.map(_encode, jobs)):
+            if job[5] and "revision" in job[5]:
+                image.update({key: job[5][key] for key in ("title", "alt", "revision")})
             selected[job[3]]["images"].append(image)
+    for group in groups:
+        group["images"].sort(key=lambda image: image["id"])
     groups.sort(key=lambda story: (story["title"].casefold(), story["slug"]))
     data = {"schemaVersion": 1, "stories": groups}
     if snapshot.get("excludedSources"):
