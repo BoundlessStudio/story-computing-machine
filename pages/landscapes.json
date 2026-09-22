@@ -8802,25 +8802,6 @@
       "reader": "stories/what-turned-eighteen.html",
       "images": [
         {
-          "id": "01-warm-tiles-before-the-rain",
-          "title": "Warm tiles before the rain",
-          "alt": "Warm tiles before the rain — oil landscape for What Turned Eighteen",
-          "source": "stories/what-turned-eighteen/art/landscapes/01-warm-tiles-before-the-rain.png",
-          "sourceSha256": "b29d1d6e9f79fb3bf901ae4cef6d8d707ea9f063088fee75e377a5fc04141ce5",
-          "full": {
-            "path": "landscapes/what-turned-eighteen/01-warm-tiles-before-the-rain.webp",
-            "sha256": "abe502ed4a62969fc825a2f132b8129cd05c0c1ecb298372a3f78d10a386398f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-turned-eighteen/01-warm-tiles-before-the-rain-thumb.webp",
-            "sha256": "7f243558fb0219d8eea0e5b69ba601c09eab3551434c3fd095767ba6490dac46",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-sheets-around-the-roof",
           "title": "Sheets around the roof",
           "alt": "Sheets around the roof — oil landscape for What Turned Eighteen",
@@ -8873,25 +8854,6 @@
           "thumbnail": {
             "path": "landscapes/what-turned-eighteen/04-a-sheet-loose-in-rain-thumb.webp",
             "sha256": "6cf19441bf270c46d7f2c55ddb8a6421a5fff4bfdcca11451f77f7bcba946a7a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-rain-on-the-screened-windows",
-          "title": "Rain on the screened windows",
-          "alt": "Rain on the screened windows — oil landscape for What Turned Eighteen",
-          "source": "stories/what-turned-eighteen/art/landscapes/05-rain-on-the-screened-windows.png",
-          "sourceSha256": "83e8918648c1e62ab1ea6b0e49b69c293e7dd3e5748e1a64274716c9896117da",
-          "full": {
-            "path": "landscapes/what-turned-eighteen/05-rain-on-the-screened-windows.webp",
-            "sha256": "6b3a54d0f47efa9b515e3abb24086b3fcacf104794166eaf1b03bfbf85c3065e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-turned-eighteen/05-rain-on-the-screened-windows-thumb.webp",
-            "sha256": "85b498cef534a7f375c2bf0908b7a9f6161a3e6e82cc9e262190917e860917db",
             "width": 480,
             "height": 320
           }
@@ -12404,6 +12366,16 @@
       "source": "stories/what-the-wind-wanted/art/landscapes/05-three-bands-on-the-pond.png",
       "sourceSha256": "dde3437016af51c803936e39bf9fd0beeac9ffe3c442d70b6d877999dc7686bc",
       "reason": "A second view of the same pond repeats the retained warm basin; its ordinary ripples add little distinct visual evidence of the three-band wind exchange, while changing the basin's apparent geography."
+    },
+    {
+      "source": "stories/what-turned-eighteen/art/landscapes/01-warm-tiles-before-the-rain.png",
+      "sourceSha256": "b29d1d6e9f79fb3bf901ae4cef6d8d707ea9f063088fee75e377a5fc04141ce5",
+      "reason": "Repeats the birthday roof without the sheet windbreaks that are installed before Arlon goes up; the actual prepared roof is better represented by the retained windbreak view."
+    },
+    {
+      "source": "stories/what-turned-eighteen/art/landscapes/05-rain-on-the-screened-windows.png",
+      "sourceSha256": "83e8918648c1e62ab1ea6b0e49b69c293e7dd3e5748e1a64274716c9896117da",
+      "reason": "The final supper is indoors with rain on a screened window. This outside neighborhood panorama moves the ending outdoors and repeats the roofline setting."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
