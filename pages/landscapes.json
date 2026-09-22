@@ -3886,44 +3886,6 @@
           }
         },
         {
-          "id": "02-upper-bridge-in-the-rain",
-          "title": "Upper bridge in the rain",
-          "alt": "Upper bridge in the rain — oil landscape for The Fourth Blood",
-          "source": "stories/blood-types-of-immortality/art/landscapes/02-upper-bridge-in-the-rain.png",
-          "sourceSha256": "4d6b65c6e51c9998978ea4914d6dfa46e68b1ec634cab9efc872f8f0463a6c89",
-          "full": {
-            "path": "landscapes/blood-types-of-immortality/02-upper-bridge-in-the-rain.webp",
-            "sha256": "fd7dc25c07b25e562c334a2b2bf8c1e2adc29140254078f4b3b718e4628dfe89",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/blood-types-of-immortality/02-upper-bridge-in-the-rain-thumb.webp",
-            "sha256": "825e360051a8f410da0ad89cc48ed25db5b19791a051b0f41e03fbdc4119bb6e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-valley-under-winter",
-          "title": "The valley under winter",
-          "alt": "The valley under winter — oil landscape for The Fourth Blood",
-          "source": "stories/blood-types-of-immortality/art/landscapes/03-the-valley-under-winter.png",
-          "sourceSha256": "96a52fe6eed37a5132c182fa8be76aa4ec8dee5d21b355be69fbb0d919fbeb20",
-          "full": {
-            "path": "landscapes/blood-types-of-immortality/03-the-valley-under-winter.webp",
-            "sha256": "744f65310035a719b0b2fceb87d85160ed5cb7ce5ef665c72f1371b36164bfdd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/blood-types-of-immortality/03-the-valley-under-winter-thumb.webp",
-            "sha256": "5033a352e0f03fd6855b43cdc281fca1f3e6b57734075b9fabe8ee1399c85a68",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-weather-rods-in-snow",
           "title": "Weather rods in snow",
           "alt": "Weather rods in snow — oil landscape for The Fourth Blood",
@@ -14753,6 +14715,16 @@
       "source": "stories/blade-calls-your-name/art/landscapes/05-after-the-load-settles.png",
       "sourceSha256": "692acd65df9ebf98b06c5433f9562ee2c4b2d5129d3dd24427bad4726ae0045e",
       "reason": "Changes the hanging settlement into rows seated on ordinary rock shelves and invents a moonlit aftermath instead of the unchanged load-bearing terrace."
+    },
+    {
+      "source": "stories/blood-types-of-immortality/art/landscapes/02-upper-bridge-in-the-rain.png",
+      "sourceSha256": "4d6b65c6e51c9998978ea4914d6dfa46e68b1ec634cab9efc872f8f0463a6c89",
+      "reason": "The upper bridge is mentioned as a sample-delivery route and a washout concern; no bridge scene is visited."
+    },
+    {
+      "source": "stories/blood-types-of-immortality/art/landscapes/03-the-valley-under-winter.png",
+      "sourceSha256": "96a52fe6eed37a5132c182fa8be76aa4ec8dee5d21b355be69fbb0d919fbeb20",
+      "reason": "Adds a broad winter-valley vista to an already well-covered mountain setting; the valley sleepers are contemplated during indoor work, not a separate landscape scene."
     },
     {
       "source": "stories/by-tooth-and-threshold/art/landscapes/02-creek-mud-and-willows.png",
