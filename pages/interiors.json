@@ -3906,6 +3906,70 @@
       ]
     },
     {
+      "slug": "the-credit-book",
+      "title": "The Credit Book",
+      "reader": "stories/the-credit-book.html",
+      "images": [
+        {
+          "id": "01-orlenas-old-cookshop",
+          "title": "Orlenas old cookshop",
+          "alt": "Orlenas old cookshop — oil interior study for The Credit Book",
+          "source": "stories/the-credit-book/art/interiors/01-orlenas-old-cookshop.png",
+          "sourceSha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "full": {
+            "path": "interiors/the-credit-book/01-orlenas-old-cookshop-8fed624f6db63de9.webp",
+            "sha256": "d71d9b8a76b7795720d6a2b65bf0d76e75a01205c4e07bc69a26e6b9389085a1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-credit-book/01-orlenas-old-cookshop-8fed624f6db63de9-thumb.webp",
+            "sha256": "6aaacf964ab482ff52185f1b32dfb4a471fc34e4431c9e07dac1bf915be2dfb1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-fodrics-back-room",
+          "title": "Fodrics back room",
+          "alt": "Fodrics back room — oil interior study for The Credit Book",
+          "source": "stories/the-credit-book/art/interiors/02-fodrics-back-room.png",
+          "sourceSha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "full": {
+            "path": "interiors/the-credit-book/02-fodrics-back-room-5914ea2382778cec.webp",
+            "sha256": "5325f3958cacc109856089d40b70cd22172d4b4bc4156ab2a87bd580b1d58a71",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-credit-book/02-fodrics-back-room-5914ea2382778cec-thumb.webp",
+            "sha256": "fb3435d0a6a9b04e735fbccdecee226060de385057d3ac63356dec8e90108ae6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-new-bakehouse",
+          "title": "The new bakehouse",
+          "alt": "The new bakehouse — oil interior study for The Credit Book",
+          "source": "stories/the-credit-book/art/interiors/03-the-new-bakehouse.png",
+          "sourceSha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "full": {
+            "path": "interiors/the-credit-book/03-the-new-bakehouse-c36b18cb650b4654.webp",
+            "sha256": "e97299625e036fa2b46d2c6a0a602f069ddb87361415c6121f4e2f60c995c19c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-credit-book/03-the-new-bakehouse-c36b18cb650b4654-thumb.webp",
+            "sha256": "968518b17f24abc5178d0f6194ef0bb3faa39a170f466a5af3118147656a346e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-door-knows-home",
       "title": "The Door Knows Home",
       "reader": "stories/the-door-knows-home.html",
@@ -3963,6 +4027,70 @@
           "thumbnail": {
             "path": "interiors/the-door-knows-home/03-print-shop-loft-e0e853384d793c9e-thumb.webp",
             "sha256": "14e498510a43aa93e179a8c4cb684dc5ea42aac1d0f4e30c8861a145507a8666",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-first-winter",
+      "title": "The First Winter",
+      "reader": "stories/the-first-winter.html",
+      "images": [
+        {
+          "id": "01-the-autumn-cottage",
+          "title": "The autumn cottage",
+          "alt": "The autumn cottage — oil interior study for The First Winter",
+          "source": "stories/the-first-winter/art/interiors/01-the-autumn-cottage.png",
+          "sourceSha256": "11c7b453e945938611d6025c09e0d510347b1e2d59265e48472772ee42677961",
+          "full": {
+            "path": "interiors/the-first-winter/01-the-autumn-cottage-11c7b453e9459386.webp",
+            "sha256": "8167e36d82aa7f9301b19319c515bacda56a33e8031dc019219cb6243bc955ce",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-winter/01-the-autumn-cottage-11c7b453e9459386-thumb.webp",
+            "sha256": "2aca21d0d6ceb6214ed09d07d74aafb1b548f6054e5c31a059779eb582b8c815",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-hearth-and-table",
+          "title": "The hearth and table",
+          "alt": "The hearth and table — oil interior study for The First Winter",
+          "source": "stories/the-first-winter/art/interiors/02-the-hearth-and-table.png",
+          "sourceSha256": "63e97a8cf9ea18598c4605fc43a85833ce537e37dd6dbfa9605b89ff7680734c",
+          "full": {
+            "path": "interiors/the-first-winter/02-the-hearth-and-table-63e97a8cf9ea1859.webp",
+            "sha256": "d6e0cc4743c5e6de043ba3fb050ce7d6902e1ea54e87bc58a88846168dfeae74",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-winter/02-the-hearth-and-table-63e97a8cf9ea1859-thumb.webp",
+            "sha256": "4efc9cf7a235e0e35a6eef531192c1e81702d735e3e35ecb10604bb0ebb3c141",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-cottage-after-dawn",
+          "title": "The cottage after dawn",
+          "alt": "The cottage after dawn — oil interior study for The First Winter",
+          "source": "stories/the-first-winter/art/interiors/03-the-cottage-after-dawn.png",
+          "sourceSha256": "0d00cfd092780c3b9f85aace42ff0fcb210beb5d4961a6683fd120a5d84f9ec7",
+          "full": {
+            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-0d00cfd092780c3b.webp",
+            "sha256": "f91ef4b6c519b0e597f8f3607f5bace0423259be875c16d602ff4ae5bbe58a27",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-0d00cfd092780c3b-thumb.webp",
+            "sha256": "d88802a679252f129461db67a235cafa34998322e8274ae27322c6944d636b24",
             "width": 480,
             "height": 320
           }
