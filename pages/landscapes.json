@@ -5731,6 +5731,32 @@
           }
         },
         {
+          "id": "02-the-mended-lane",
+          "title": "The mended lane",
+          "alt": "The mended lane — oil landscape for The Gods Are Afraid of Grandma",
+          "source": "pages/landscape-replacements/gods-afraid-of-grandma/02-the-mended-lane.png",
+          "sourceSha256": "5a70fbd83e743c2570c12f4aa21b3ad2561b89c86ddf46d3e5f3f62e4b3e2593",
+          "full": {
+            "path": "landscapes/gods-afraid-of-grandma/02-the-mended-lane-5a70fbd83e743c25.webp",
+            "sha256": "5f027da65684b6d754909c899ccbc539b7706a86cf29d89195695eea504b59cd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/gods-afraid-of-grandma/02-the-mended-lane-5a70fbd83e743c25-thumb.webp",
+            "sha256": "6657e989b14900386ed2d5e0f25bad00428cab41035c4476e2ea58b495741128",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/gods-afraid-of-grandma/art/landscapes/02-the-mended-lane.png",
+            "originalSha256": "0d43c6f5faaafb0f277b5566a37de4681f23250bbbce0d9466c74f21beaa6427",
+            "correction": "The repaired pothole is discovered in the rain after midnight, but the painting presents the lane in broad daylight.",
+            "prompt": "Correct only the lighting/weather of this Mended Lane oil landscape for The Gods Are Afraid of Grandma. The source moment occurs AFTER MIDNIGHT, in continuing RAIN: the pothole by Valka's gate has become a smooth black asphalt patch, still warm enough to steam. Keep the same lane, curbside repaired patch, gate, hedge, ditch and tree arrangement and thick impasto brushwork. Replace the daytime landscape and bright clouds with deep midnight navy overcast; rain streaks and wet reflections show a dark rainy night. Crop or dim the distant valley into nearly indistinct shadow. A subdued porch light just off the left frame softly catches the gate, rain and a little STEAM rising from the freshly mended BLACK PATCH. The patch is the foreground focus, warm steam contrasting the cold rain, without glowing lava or magical neon. Keep the lane and vegetation dark enough to read as midnight, no sun, sunset glow, pale daytime sky or moonlight beams. No people, text or border, traditional textured oil landscape.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "03-rain-over-the-wheat",
           "title": "Rain over the wheat",
           "alt": "Rain over the wheat — oil landscape for The Gods Are Afraid of Grandma",
