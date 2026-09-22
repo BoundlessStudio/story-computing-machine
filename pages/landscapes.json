@@ -1848,25 +1848,6 @@
       "reader": "stories/before-she-gets-tired.html",
       "images": [
         {
-          "id": "01-arts-center-afternoon",
-          "title": "Arts center afternoon",
-          "alt": "Arts center afternoon — oil landscape for Not Friday",
-          "source": "stories/before-she-gets-tired/art/landscapes/01-arts-center-afternoon.png",
-          "sourceSha256": "cde7ae23201be2a9f41a438ec47882feb79ab0f0cb9a81e81f3012589ece78eb",
-          "full": {
-            "path": "landscapes/before-she-gets-tired/01-arts-center-afternoon.webp",
-            "sha256": "07742a3feafbbb2ded5c818832a6f0db959df97f559e1ce8435c53e5a7018e41",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-she-gets-tired/01-arts-center-afternoon-thumb.webp",
-            "sha256": "c0867cb8f2d516fdd8fae8bf25f779a38916b629d08f957273a6089876fa3974",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-evening-outside-rehearsal",
           "title": "Evening outside rehearsal",
           "alt": "Evening outside rehearsal — oil landscape for Not Friday",
@@ -1886,25 +1867,6 @@
           }
         },
         {
-          "id": "03-the-road-to-supper",
-          "title": "The road to supper",
-          "alt": "The road to supper — oil landscape for Not Friday",
-          "source": "stories/before-she-gets-tired/art/landscapes/03-the-road-to-supper.png",
-          "sourceSha256": "bc01b42eb144295f9af039406291f4210671fc501e640aa3c55cacb0ec3c7179",
-          "full": {
-            "path": "landscapes/before-she-gets-tired/03-the-road-to-supper.webp",
-            "sha256": "84664aaa07a244375f6bade14fbef1388e55630d69b4864d8727390f6a891ec4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-she-gets-tired/03-the-road-to-supper-thumb.webp",
-            "sha256": "6facd0d6db046dbde6c88eba0c73418b3cd33cc7d3fa90af211bd531b30adabc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-beyond-the-restaurant-window",
           "title": "Beyond the restaurant window",
           "alt": "Beyond the restaurant window — oil landscape for Not Friday",
@@ -1919,25 +1881,6 @@
           "thumbnail": {
             "path": "landscapes/before-she-gets-tired/04-beyond-the-restaurant-window-thumb.webp",
             "sha256": "d66e3fa05395b0a463d2c5913c39bbff8c5b3de9cda625ce2270252a0c6d5994",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-after-the-bus-has-gone",
-          "title": "After the bus has gone",
-          "alt": "After the bus has gone — oil landscape for Not Friday",
-          "source": "stories/before-she-gets-tired/art/landscapes/05-after-the-bus-has-gone.png",
-          "sourceSha256": "bc4e2e0db7a738d43ea746346fa8df2963afcb16e3852c111fb0a7fd467413e9",
-          "full": {
-            "path": "landscapes/before-she-gets-tired/05-after-the-bus-has-gone.webp",
-            "sha256": "406d3fe6a9425495466a82d56ce92bc5b2e8d1c510078885e5769f3c77426a31",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-she-gets-tired/05-after-the-bus-has-gone-thumb.webp",
-            "sha256": "b659c6bf4412e0f35e6004c0359af35545d09437d42ee5ddef2a3555ec9a9d8a",
             "width": 480,
             "height": 320
           }
@@ -16861,6 +16804,21 @@
       "source": "stories/before-lunch/art/landscapes/05-shade-beyond-the-hotel.png",
       "sourceSha256": "a01e65dd015d0d1a07ea27303d66b3586f0810f7d2b6187d7b9bba8e98fe5b73",
       "reason": "No park or garden excursion beyond the hotel occurs. The source walks round a street corner; this shaded park is invented."
+    },
+    {
+      "source": "stories/before-she-gets-tired/art/landscapes/01-arts-center-afternoon.png",
+      "sourceSha256": "cde7ae23201be2a9f41a438ec47882feb79ab0f0cb9a81e81f3012589ece78eb",
+      "reason": "Adds a second arts-center exterior to an afternoon scene occurring inside the rehearsal hall."
+    },
+    {
+      "source": "stories/before-she-gets-tired/art/landscapes/03-the-road-to-supper.png",
+      "sourceSha256": "bc01b42eb144295f9af039406291f4210671fc501e640aa3c55cacb0ec3c7179",
+      "reason": "Invents a sunset journey to supper; supper follows the evening fundraiser and the prose cuts directly to the restaurant."
+    },
+    {
+      "source": "stories/before-she-gets-tired/art/landscapes/05-after-the-bus-has-gone.png",
+      "sourceSha256": "bc4e2e0db7a738d43ea746346fa8df2963afcb16e3852c111fb0a7fd467413e9",
+      "reason": "Repeats the restaurant street after the bus leaves without a distinct setting or significant changed state."
     },
     {
       "source": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
