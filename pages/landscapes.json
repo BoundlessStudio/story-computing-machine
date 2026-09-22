@@ -981,6 +981,25 @@
       "reader": "stories/a-seat-for-the-sun.html",
       "images": [
         {
+          "id": "01-cloud-above-the-garden",
+          "title": "Cloud above the garden",
+          "alt": "Cloud above the garden — oil landscape for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/landscapes/01-cloud-above-the-garden.png",
+          "sourceSha256": "f014975bd7164a39ff155de41a0640cd52a1ae204abac8f534cad2138ca8ea5a",
+          "full": {
+            "path": "landscapes/a-seat-for-the-sun/01-cloud-above-the-garden.webp",
+            "sha256": "43a7a6b59abe93b7d4433268323d27d9d0a9a2fc10335a4b615652359e5ee425",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-seat-for-the-sun/01-cloud-above-the-garden-thumb.webp",
+            "sha256": "7703cd8dc79c1bd641952a84f0cb3b0911a91382ecf5853b162f9488fb613ea9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "02-the-birthday-tree",
           "title": "The birthday tree",
           "alt": "The birthday tree — oil landscape for A Seat for the Sun",
@@ -10113,11 +10132,6 @@
       "source": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
       "sourceSha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8",
       "reason": "The story takes place in a tax office, separating real recollection from extravagant adventure-book titles. These outdoor precipice, stair, frost, fort and tunnel landscapes literalize recalled or exaggerated claims as fully depicted locations; none is a present outdoor scene."
-    },
-    {
-      "source": "stories/a-seat-for-the-sun/art/landscapes/01-cloud-above-the-garden.png",
-      "sourceSha256": "f014975bd7164a39ff155de41a0640cd52a1ae204abac8f534cad2138ca8ea5a",
-      "reason": "Adds an extensive lake-and-island landscape to the cloud's view of a small garden, house and birthday table; that geography is not in the story."
     },
     {
       "source": "stories/a-seat-for-the-sun/art/landscapes/03-gold-through-the-leaves.png",
