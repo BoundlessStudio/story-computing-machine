@@ -2417,6 +2417,32 @@
       ]
     },
     {
+      "slug": "no-one-like-me",
+      "title": "No One Like Me",
+      "reader": "stories/no-one-like-me.html",
+      "images": [
+        {
+          "id": "02-gold-against-violet",
+          "title": "Gold against violet",
+          "alt": "Gold against violet — oil landscape for No One Like Me",
+          "source": "stories/no-one-like-me/art/landscapes/02-gold-against-violet.png",
+          "sourceSha256": "d1e2d627082f344a9fa0d832ef8ee961012992ee319774c15271887175e3280f",
+          "full": {
+            "path": "landscapes/no-one-like-me/02-gold-against-violet.webp",
+            "sha256": "5b3d16599bd5d16ec9c77c8674927404fc656a9273708db4f92e792214407b7f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/no-one-like-me/02-gold-against-violet-thumb.webp",
+            "sha256": "17648d7429a28c9907ed834440c7f3af9ec3c9127b5abb8e040b8c7a84637fef",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "empire-within",
       "title": "Nobody Spends Her Name",
       "reader": "stories/empire-within.html",
@@ -10965,11 +10991,6 @@
     {
       "source": "stories/no-one-like-me/art/landscapes/01-outside-the-hall.png",
       "sourceSha256": "813e92df32bb389c68003b3a263e44a43e22935583a0a0a0f022c0a9cf39e7a4",
-      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
-    },
-    {
-      "source": "stories/no-one-like-me/art/landscapes/02-gold-against-violet.png",
-      "sourceSha256": "d1e2d627082f344a9fa0d832ef8ee961012992ee319774c15271887175e3280f",
       "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
     },
     {
