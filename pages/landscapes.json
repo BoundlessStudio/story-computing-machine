@@ -2272,25 +2272,6 @@
           }
         },
         {
-          "id": "02-the-harbor-settles",
-          "title": "The harbor settles",
-          "alt": "The harbor settles — oil landscape for Stay Out of My City",
-          "source": "stories/stay-out-of-my-city/art/landscapes/02-the-harbor-settles.png",
-          "sourceSha256": "2b4ac9f36804737357c45228c91c76cae4fe0aec44fc2e667fd92e5cb1ea47a2",
-          "full": {
-            "path": "landscapes/stay-out-of-my-city/02-the-harbor-settles.webp",
-            "sha256": "93aa24e1bba4e37af7c0d2a182f3bdb80da8ffc6d0a56bbe3e5b50548c104110",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/stay-out-of-my-city/02-the-harbor-settles-thumb.webp",
-            "sha256": "2d88a7fc72ba78377c02a6a8146135280551996c58547e27eff2198679db4e26",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-after-dinner-sea",
           "title": "After dinner sea",
           "alt": "After dinner sea — oil landscape for Stay Out of My City",
@@ -2324,25 +2305,6 @@
           "thumbnail": {
             "path": "landscapes/stay-out-of-my-city/04-quarry-at-the-boundary-thumb.webp",
             "sha256": "1b1c575fbff223b410d86349d7369ddd4f93d1f6d203fa90db1087d988991996",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-clear-water-below-the-ladder",
-          "title": "Clear water below the ladder",
-          "alt": "Clear water below the ladder — oil landscape for Stay Out of My City",
-          "source": "stories/stay-out-of-my-city/art/landscapes/05-clear-water-below-the-ladder.png",
-          "sourceSha256": "27b4f910df07c092f0db1a4fc1ad39c1f82b8078b491a8a8a0d2de260fd27f1c",
-          "full": {
-            "path": "landscapes/stay-out-of-my-city/05-clear-water-below-the-ladder.webp",
-            "sha256": "58bc839cbe768c1a8687eb3c54c940ce3fca2d5868a31391e8206db6a5e7b156",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/stay-out-of-my-city/05-clear-water-below-the-ladder-thumb.webp",
-            "sha256": "9ebe2ff6e23b46d1a53a7f8d562e72c27675bceadb5733282e1922ba2dea9ba5",
             "width": 480,
             "height": 320
           }
@@ -16843,6 +16805,16 @@
       "source": "stories/solstice-evening-bell/art/landscapes/04-a-burnt-silver-arc.png",
       "sourceSha256": "9066b3e0a27f50205191f534e1240ffdc9adabde2e9c7342c4982610cd174d96",
       "reason": "Replaces the twelve trails of burnt silver chime fragments with an ordinary sunlit shoreline arc; the defining physical aftermath is absent."
+    },
+    {
+      "source": "stories/stay-out-of-my-city/art/landscapes/02-the-harbor-settles.png",
+      "sourceSha256": "2b4ac9f36804737357c45228c91c76cae4fe0aec44fc2e667fd92e5cb1ea47a2",
+      "reason": "Repeats the same swimming platform and breakwater for a momentary settling of water rather than a distinct setting."
+    },
+    {
+      "source": "stories/stay-out-of-my-city/art/landscapes/05-clear-water-below-the-ladder.png",
+      "sourceSha256": "27b4f910df07c092f0db1a4fc1ad39c1f82b8078b491a8a8a0d2de260fd27f1c",
+      "reason": "Repeats the clear-water swim view while changing the shore access from the established metal rails to a different wooden ladder, crowding the set with another harbor angle."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
