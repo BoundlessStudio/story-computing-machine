@@ -7067,44 +7067,6 @@
           }
         },
         {
-          "id": "03-east-cliff-road",
-          "title": "East cliff road",
-          "alt": "East cliff road — oil landscape for The Tide Will Have Her Answer",
-          "source": "stories/fifty-seven-minutes/art/landscapes/03-east-cliff-road.png",
-          "sourceSha256": "1249b5db1b3a844c1b51dda29fe84a8c032052618f28d0c0f5e59594848091d2",
-          "full": {
-            "path": "landscapes/fifty-seven-minutes/03-east-cliff-road.webp",
-            "sha256": "abadfe3fda07c3d99a385f1bd738b758a1e97f5fe47a520ba66c5fadf25d23ff",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fifty-seven-minutes/03-east-cliff-road-thumb.webp",
-            "sha256": "e342a7eab45b27eebb1e635880fa4ac1498b4f47561e99c685ec3908e649bda1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-western-cove",
-          "title": "The western cove",
-          "alt": "The western cove — oil landscape for The Tide Will Have Her Answer",
-          "source": "stories/fifty-seven-minutes/art/landscapes/04-the-western-cove.png",
-          "sourceSha256": "e23bbb98d187768b9cef4cb391c845087672a55556b1f87eeceb1a2efce1616a",
-          "full": {
-            "path": "landscapes/fifty-seven-minutes/04-the-western-cove.webp",
-            "sha256": "96871d27e06486310126cb3ee80142a8e607cdcbc73c6b46abb247fbb721c303",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fifty-seven-minutes/04-the-western-cove-thumb.webp",
-            "sha256": "acb97ccc1f0c6c7b1f41ab96143761991a2197effe579969b5c1dbe633c453b8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-water-through-the-ruined-yard",
           "title": "Water through the ruined yard",
           "alt": "Water through the ruined yard — oil landscape for The Tide Will Have Her Answer",
@@ -11654,6 +11616,16 @@
       "source": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
       "sourceSha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
       "reason": "A fourth broad empty road/plaza view adds no useful separate setting; the east end is the family stall and children's drum lineup. Retain the distinct behind-stall verge instead."
+    },
+    {
+      "source": "stories/fifty-seven-minutes/art/landscapes/03-east-cliff-road.png",
+      "sourceSha256": "1249b5db1b3a844c1b51dda29fe84a8c032052618f28d0c0f5e59594848091d2",
+      "reason": "The east cliff road is assigned to offstage runners and its flood is reported; the story does not move to this coastal-road viewpoint."
+    },
+    {
+      "source": "stories/fifty-seven-minutes/art/landscapes/04-the-western-cove.png",
+      "sourceSha256": "e23bbb98d187768b9cef4cb391c845087672a55556b1f87eeceb1a2efce1616a",
+      "reason": "The western cove is known through the runner's report, not visited or shown as a separate scene; it also repeats the adjacent coastal-road composition."
     },
     {
       "source": "stories/four-million-falling/art/landscapes/02-the-inner-sea-rises.png",
