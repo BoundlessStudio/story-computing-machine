@@ -6325,25 +6325,6 @@
           }
         },
         {
-          "id": "03-white-ground-in-summer",
-          "title": "White ground in summer",
-          "alt": "White ground in summer — oil landscape for The Seraph of the Infinite Gear",
-          "source": "stories/seraph-infinite-gear/art/landscapes/03-white-ground-in-summer.png",
-          "sourceSha256": "81acaad51bc53f285ccb7299682ac3889547176c6ba00e21e2824ed08a235eb6",
-          "full": {
-            "path": "landscapes/seraph-infinite-gear/03-white-ground-in-summer.webp",
-            "sha256": "7045724b8bb485ab5008ed92ceca83a46917f334b87f6c88f21e4c44e71c5a84",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/seraph-infinite-gear/03-white-ground-in-summer-thumb.webp",
-            "sha256": "fec6bbb2956b46c621344811d543a38011e1f4691859dfb6b717c3753a5396c8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-a-field-returned-to-morning",
           "title": "A field returned to morning",
           "alt": "A field returned to morning — oil landscape for The Seraph of the Infinite Gear",
@@ -12959,6 +12940,11 @@
       "source": "stories/self-reflection/art/landscapes/05-cold-air-after-sunrise.png",
       "sourceSha256": "9a14861da9f242f260380933605710cd82886cafc009b7e1af056b199ecda725",
       "reason": "Turns cold air through the open bedroom window into an outdoor hill path not visited in the prose."
+    },
+    {
+      "source": "stories/seraph-infinite-gear/art/landscapes/03-white-ground-in-summer.png",
+      "sourceSha256": "81acaad51bc53f285ccb7299682ac3889547176c6ba00e21e2824ed08a235eb6",
+      "reason": "The snowy plains are a proposed trip that the Seraph explicitly refuses to take with Sovekh. This landscape depicts a journey that never happens."
     },
     {
       "source": "stories/she-literally-has-wings/art/landscapes/02-one-block-home.png",
