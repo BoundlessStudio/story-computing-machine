@@ -2178,6 +2178,70 @@
       ]
     },
     {
+      "slug": "mother-of-monsters",
+      "title": "Mother of Monsters",
+      "reader": "stories/mother-of-monsters.html",
+      "images": [
+        {
+          "id": "01-sanctuary-chainhouse",
+          "title": "Sanctuary chainhouse",
+          "alt": "Sanctuary chainhouse — oil interior study for Mother of Monsters",
+          "source": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sourceSha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "full": {
+            "path": "interiors/mother-of-monsters/01-sanctuary-chainhouse-3e2e196e88af095b.webp",
+            "sha256": "fc77e3140a0fdd120b05db77b996a5d73b302d7a3a8d932011fbd7cca6a3210f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/mother-of-monsters/01-sanctuary-chainhouse-3e2e196e88af095b-thumb.webp",
+            "sha256": "9d72bd1ca95cdf499e2a2cfbbf636b529a33b4fb2adf95e0def8329d4b520c5d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-brake-and-counterweight",
+          "title": "The brake and counterweight",
+          "alt": "The brake and counterweight — oil interior study for Mother of Monsters",
+          "source": "stories/mother-of-monsters/art/interiors/02-the-brake-and-counterweight.png",
+          "sourceSha256": "5d54242f434898cf80742384471917f6defc318d7eb506160f93268922bface2",
+          "full": {
+            "path": "interiors/mother-of-monsters/02-the-brake-and-counterweight-5d54242f434898cf.webp",
+            "sha256": "a2aa0b9f8291e19a542e2f38ef9eead9061e829cbfceb1fc95b41c4ed34b5979",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/mother-of-monsters/02-the-brake-and-counterweight-5d54242f434898cf-thumb.webp",
+            "sha256": "8eef94bff261ea8bdefb4c4699af931649cf3600a26783f825bacd9fc575985d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-under-the-culvert-vault",
+          "title": "Under the culvert vault",
+          "alt": "Under the culvert vault — oil interior study for Mother of Monsters",
+          "source": "stories/mother-of-monsters/art/interiors/03-under-the-culvert-vault.png",
+          "sourceSha256": "60dd35841c5385e8a28715bd0431b23d3cf02ed61d81c4bbed3cb4db6f239e53",
+          "full": {
+            "path": "interiors/mother-of-monsters/03-under-the-culvert-vault-60dd35841c5385e8.webp",
+            "sha256": "12066a79057bed47e527c33592f492ce52290a7679c6ceb55ba8ca159fb9bcf3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/mother-of-monsters/03-under-the-culvert-vault-60dd35841c5385e8-thumb.webp",
+            "sha256": "7445f3cfcbaf62abd631ca5824ff1c4b24acb8bc94e6b7eb223a6731994b681c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "no-need-to-worry",
       "title": "No Need to Worry",
       "reader": "stories/no-need-to-worry.html",
@@ -3899,6 +3963,70 @@
           "thumbnail": {
             "path": "interiors/gods-afraid-of-grandma/03-bedroom-in-the-rain-8410216520fe9a05-thumb.webp",
             "sha256": "fed0c04ef13ae6dce170cc9e87fd05c8e836a41d264e5d7a51423e7cf81def59",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "last-watcher-of-jupiter",
+      "title": "The Last Watcher of Jupiter",
+      "reader": "stories/last-watcher-of-jupiter.html",
+      "images": [
+        {
+          "id": "01-cairn-nine-canopy",
+          "title": "Cairn nine canopy",
+          "alt": "Cairn nine canopy — oil interior study for The Last Watcher of Jupiter",
+          "source": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sourceSha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "full": {
+            "path": "interiors/last-watcher-of-jupiter/01-cairn-nine-canopy-f8e27bd2ac93154a.webp",
+            "sha256": "3b50b604209aec6a1dfe5484bfa6a876245cb1703b4e482aa37a7dfd1a8d7af5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/last-watcher-of-jupiter/01-cairn-nine-canopy-f8e27bd2ac93154a-thumb.webp",
+            "sha256": "1e991310d14ed6548f27878bee1a116c7d77868ee8ace8f841967c2f3da64c66",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-manual-coolant-wheel",
+          "title": "Manual coolant wheel",
+          "alt": "Manual coolant wheel — oil interior study for The Last Watcher of Jupiter",
+          "source": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sourceSha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "full": {
+            "path": "interiors/last-watcher-of-jupiter/02-manual-coolant-wheel-b3082d963350cfd2.webp",
+            "sha256": "b14e150773697adcefd14215bdf6450a68816e13595adbdfaa468ec26fac5fde",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/last-watcher-of-jupiter/02-manual-coolant-wheel-b3082d963350cfd2-thumb.webp",
+            "sha256": "ed2db68a2ed2f6f7e70414b643f968c815dbe3c6d94c84988a8e86e085b78958",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-service-link-under-seat",
+          "title": "Service link under seat",
+          "alt": "Service link under seat — oil interior study for The Last Watcher of Jupiter",
+          "source": "stories/last-watcher-of-jupiter/art/interiors/03-service-link-under-seat.png",
+          "sourceSha256": "29c89cf6bbb390d0ff6b6ef12a4509c3f65475aed068de079ad964f791da5b27",
+          "full": {
+            "path": "interiors/last-watcher-of-jupiter/03-service-link-under-seat-29c89cf6bbb390d0.webp",
+            "sha256": "a8064d07f1011ea4daba7dfb9aed18718a32ce73169f222cbe356dfc4cefe6cc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/last-watcher-of-jupiter/03-service-link-under-seat-29c89cf6bbb390d0-thumb.webp",
+            "sha256": "f51cf7df5c1cc94d3b79eefcf053a8b43bb00d4c35d2a8360b157ac25a7a01a0",
             "width": 480,
             "height": 320
           }
