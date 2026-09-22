@@ -8354,25 +8354,6 @@
       "reader": "stories/transitions-in-common.html",
       "images": [
         {
-          "id": "01-friday-at-the-school",
-          "title": "Friday at the school",
-          "alt": "Friday at the school — oil landscape for Transitions in Common",
-          "source": "stories/transitions-in-common/art/landscapes/01-friday-at-the-school.png",
-          "sourceSha256": "bc65b413b91056acca67bd2f1d509fc7b337d4b26e5a1153f81fcf51e8f3bc21",
-          "full": {
-            "path": "landscapes/transitions-in-common/01-friday-at-the-school.webp",
-            "sha256": "de8f1600c86cb56065740d0a8d0086300bb92a7a34fe40acbd8ca5545e379a08",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/transitions-in-common/01-friday-at-the-school-thumb.webp",
-            "sha256": "9dc45abd22aae0f122e61bb5a9602b1d9b1d75b9765320e40dddc7393c69b9ba",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-secondhand-shop-on-saturday",
           "title": "The secondhand shop on saturday",
           "alt": "The secondhand shop on saturday — oil landscape for Transitions in Common",
@@ -8392,25 +8373,6 @@
           }
         },
         {
-          "id": "03-sunday-before-the-arts-night",
-          "title": "Sunday before the arts night",
-          "alt": "Sunday before the arts night — oil landscape for Transitions in Common",
-          "source": "stories/transitions-in-common/art/landscapes/03-sunday-before-the-arts-night.png",
-          "sourceSha256": "000c261bf74de54c9cde72abdf6aae29728518e75feaf82c946219cadbe50c22",
-          "full": {
-            "path": "landscapes/transitions-in-common/03-sunday-before-the-arts-night.webp",
-            "sha256": "a57bf519547f1dd7fa4be7a411cc0e2f3875d0876ecea8ae03af53bdae7fe8a2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/transitions-in-common/03-sunday-before-the-arts-night-thumb.webp",
-            "sha256": "180709872797307ed68680f1e955ace7f73bb9cdf44f8197ad7b698984d8addf",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-walk-home",
           "title": "The walk home",
           "alt": "The walk home — oil landscape for Transitions in Common",
@@ -8425,25 +8387,6 @@
           "thumbnail": {
             "path": "landscapes/transitions-in-common/04-the-walk-home-thumb.webp",
             "sha256": "23199213d983959ca3b69da76172389a5e198ebd6d1f5f94db73e5711b185996",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-monday-evening-at-the-arts-wing",
-          "title": "Monday evening at the arts wing",
-          "alt": "Monday evening at the arts wing — oil landscape for Transitions in Common",
-          "source": "stories/transitions-in-common/art/landscapes/05-monday-evening-at-the-arts-wing.png",
-          "sourceSha256": "188a8fd8096a912778f7d6a58127a96e72e30474a59ae13ed8b308050dac6825",
-          "full": {
-            "path": "landscapes/transitions-in-common/05-monday-evening-at-the-arts-wing.webp",
-            "sha256": "ea6c4883a6afebc60a31052d72859703999a6b2b3ceb0c0897d346c2578cb4ab",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/transitions-in-common/05-monday-evening-at-the-arts-wing-thumb.webp",
-            "sha256": "8b439fdedd1a95a1ad8da154ac8f2b2e4b3f8b88fda63281c27207ccec4e3dfd",
             "width": 480,
             "height": 320
           }
@@ -12565,6 +12508,21 @@
       "source": "stories/thirteen-years-borrowed/art/landscapes/05-rain-against-the-front-windows.png",
       "sourceSha256": "d3e8b25954402f7a7e7d47c0a287f4929d9c1a7233814d7422819128794bb908",
       "reason": "The late-night rain is heard against the windows during the indoor body-transfer scene. This outside street view moves that moment outdoors and repeats Nivra's street."
+    },
+    {
+      "source": "stories/transitions-in-common/art/landscapes/01-friday-at-the-school.png",
+      "sourceSha256": "bc65b413b91056acca67bd2f1d509fc7b337d4b26e5a1153f81fcf51e8f3bc21",
+      "reason": "Friday's opening is inside the costume room. This school courtyard replaces the indoor setting with an exterior."
+    },
+    {
+      "source": "stories/transitions-in-common/art/landscapes/03-sunday-before-the-arts-night.png",
+      "sourceSha256": "000c261bf74de54c9cde72abdf6aae29728518e75feaf82c946219cadbe50c22",
+      "reason": "Sunday's fitting and transformation occur inside the costume room, not on the empty outdoor school approach."
+    },
+    {
+      "source": "stories/transitions-in-common/art/landscapes/05-monday-evening-at-the-arts-wing.png",
+      "sourceSha256": "188a8fd8096a912778f7d6a58127a96e72e30474a59ae13ed8b308050dac6825",
+      "reason": "Monday's portrait work and ending stay at the costume-room table. The arts-wing exterior repeats the school location and invents an outdoor scene."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
