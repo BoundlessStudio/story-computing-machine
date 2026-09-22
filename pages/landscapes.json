@@ -88,44 +88,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-boulder-beyond-the-clearing",
-          "title": "Boulder beyond the clearing",
-          "alt": "Boulder beyond the clearing — oil landscape for A Beginner of Considerable Age",
-          "source": "stories/a-beginner-of-considerable-age/art/landscapes/04-boulder-beyond-the-clearing.png",
-          "sourceSha256": "acae48b9c3272112d8eb6a88e80ff52651fcca9cd2b0ade4d4bb735ce2d5ca88",
-          "full": {
-            "path": "landscapes/a-beginner-of-considerable-age/04-boulder-beyond-the-clearing.webp",
-            "sha256": "154fcd4ff91859ddc2720e76f6874e996250cc501345cb8bff3d381be28a08d8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-beginner-of-considerable-age/04-boulder-beyond-the-clearing-thumb.webp",
-            "sha256": "9ccab85ceb7e6cafb616ba867c9a911fe2fb5d2006021045819705ba442607b2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-ridge-and-cave",
-          "title": "Ridge and cave",
-          "alt": "Ridge and cave — oil landscape for A Beginner of Considerable Age",
-          "source": "stories/a-beginner-of-considerable-age/art/landscapes/05-ridge-and-cave.png",
-          "sourceSha256": "5f3bec4ed11058f07c2d78f39f0234f5f33687d0430e57897c75fedae4939ad6",
-          "full": {
-            "path": "landscapes/a-beginner-of-considerable-age/05-ridge-and-cave.webp",
-            "sha256": "6682926c97cd9a06c32c0ecf7a7f8939384ab7e3603056bdda70ff1edcf3749e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-beginner-of-considerable-age/05-ridge-and-cave-thumb.webp",
-            "sha256": "25ec92ed3ded46b24f4981daf172cdf0953f3d5d8b6dfeff740f711695007495",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -19409,6 +19371,16 @@
     }
   ],
   "excludedSources": [
+    {
+      "source": "stories/a-beginner-of-considerable-age/art/landscapes/04-boulder-beyond-the-clearing.png",
+      "sourceSha256": "acae48b9c3272112d8eb6a88e80ff52651fcca9cd2b0ade4d4bb735ce2d5ca88",
+      "reason": "Repeats the lodge clearing but changes its lush green vegetation into dry golden grass and autumn foliage during the same outing."
+    },
+    {
+      "source": "stories/a-beginner-of-considerable-age/art/landscapes/05-ridge-and-cave.png",
+      "sourceSha256": "5f3bec4ed11058f07c2d78f39f0234f5f33687d0430e57897c75fedae4939ad6",
+      "reason": "The cave is a possible retreat Orsugal considers and declines, not a visited landscape; this additional mountain vista expands a passing thought beyond the three settings used."
+    },
     {
       "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
       "sourceSha256": "2005c2c4e4dc65c2734b4eeddcf22f12d7714fd2be4306254b347fd2a018ad85",
