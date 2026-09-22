@@ -1289,6 +1289,25 @@
       "reader": "stories/between-the-colors.html",
       "images": [
         {
+          "id": "02-smoke-over-the-roofs",
+          "title": "Smoke over the roofs",
+          "alt": "Smoke over the roofs — oil landscape for Between the Colors",
+          "source": "stories/between-the-colors/art/landscapes/02-smoke-over-the-roofs.png",
+          "sourceSha256": "f71ecc0dcbb32dad6ea0c6605a66034e73b081857d61b2ad602761975c9c21b4",
+          "full": {
+            "path": "landscapes/between-the-colors/02-smoke-over-the-roofs.webp",
+            "sha256": "125920cbec63002a7a312dcec3a5de6d785a75079cc11f276871e1d5da27d159",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/between-the-colors/02-smoke-over-the-roofs-thumb.webp",
+            "sha256": "f9ca27aae6e5cc0edc1f594643fe6f7a05eb896e9e8ef41ba8eaa38686408d06",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "03-daylight-through-the-shell",
           "title": "Daylight through the shell",
           "alt": "Daylight through the shell — oil landscape for Between the Colors",
@@ -10330,11 +10349,6 @@
       "source": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
       "sourceSha256": "66cb8f0c21d39138836e2b6acabc940c06819f4d50635e7e9aa2d59211b0a26b",
       "reason": "The distant white classical facade does not match the red-brick theatre shell in the retained collapse image, and the invented hilltop panorama is not the street-level approach."
-    },
-    {
-      "source": "stories/between-the-colors/art/landscapes/02-smoke-over-the-roofs.png",
-      "sourceSha256": "f71ecc0dcbb32dad6ea0c6605a66034e73b081857d61b2ad602761975c9c21b4",
-      "reason": "A second distant city panorama repeats the fire without a useful distinct setting; the retained shell shows the actual theatre damage more directly."
     },
     {
       "source": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
