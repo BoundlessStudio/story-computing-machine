@@ -1341,44 +1341,6 @@
           }
         },
         {
-          "id": "02-the-inner-sea-rises",
-          "title": "The inner sea rises",
-          "alt": "The inner sea rises — oil landscape for Four Million Falling",
-          "source": "stories/four-million-falling/art/landscapes/02-the-inner-sea-rises.png",
-          "sourceSha256": "dc9c89cb00dc28415441467882986ba7c5c55696552171ba9f7e27a5c968b899",
-          "full": {
-            "path": "landscapes/four-million-falling/02-the-inner-sea-rises.webp",
-            "sha256": "fcb194353cfb0ef553b4c52f579fd56670f4309c492d15b956388a32d938a9e4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/four-million-falling/02-the-inner-sea-rises-thumb.webp",
-            "sha256": "b311e5127e9b7807b69bcb26baa5b5605d37e5b1c71d37c9d9a126b4f93e0624",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-spray-beneath-the-city",
-          "title": "Spray beneath the city",
-          "alt": "Spray beneath the city — oil landscape for Four Million Falling",
-          "source": "stories/four-million-falling/art/landscapes/03-spray-beneath-the-city.png",
-          "sourceSha256": "1905569566d73ae4bdc2b8e184097ebd337b76a44c0a4d7647b73c6570e9a798",
-          "full": {
-            "path": "landscapes/four-million-falling/03-spray-beneath-the-city.webp",
-            "sha256": "48c8b2dd9c5c041d52f92456dd58c6ce4c4b9cfe82c1fee48281088e339b8493",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/four-million-falling/03-spray-beneath-the-city-thumb.webp",
-            "sha256": "f4040276ff8550b157728f47407709aaa61d68c02fc2223120e175ac618f8cba",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-orison-terribly-still",
           "title": "Orison terribly still",
           "alt": "Orison terribly still — oil landscape for Four Million Falling",
@@ -18037,6 +17999,16 @@
       "source": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
       "sourceSha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
       "reason": "A fourth broad empty road/plaza view adds no useful separate setting; the east end is the family stall and children's drum lineup. Retain the distinct behind-stall verge instead."
+    },
+    {
+      "source": "stories/four-million-falling/art/landscapes/02-the-inner-sea-rises.png",
+      "sourceSha256": "dc9c89cb00dc28415441467882986ba7c5c55696552171ba9f7e27a5c968b899",
+      "reason": "Another open-sea view repeats the established Inner Sea and airborne-city setting; it adds no distinct location or readable state beyond the retained airborne and grounded city views."
+    },
+    {
+      "source": "stories/four-million-falling/art/landscapes/03-spray-beneath-the-city.png",
+      "sourceSha256": "1905569566d73ae4bdc2b8e184097ebd337b76a44c0a4d7647b73c6570e9a798",
+      "reason": "The floating city loses its engineered concentric-ring form and becomes a mass of mountainous rock/castle silhouettes in cloud. This conflicts with the city identity in the source and retained airborne view."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
