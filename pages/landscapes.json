@@ -2976,63 +2976,6 @@
           }
         },
         {
-          "id": "02-salt-planet-from-above",
-          "title": "Salt planet from above",
-          "alt": "Salt planet from above — oil landscape for The Body Called One",
-          "source": "stories/the-body-called-one/art/landscapes/02-salt-planet-from-above.png",
-          "sourceSha256": "b999035b49f22686db745a11b85740aa4678c932b0dd6a62118699935e22b3ee",
-          "full": {
-            "path": "landscapes/the-body-called-one/02-salt-planet-from-above.webp",
-            "sha256": "8d049f123dc14717367bfab15ea9b35c2e98a947bd338e33ec37c0fa1a701e89",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-body-called-one/02-salt-planet-from-above-thumb.webp",
-            "sha256": "7a65e68ae4b7b622bed9c197f4133e631b8973b90ab50ce5c3c9001abfe8ded1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-white-salt-horizon",
-          "title": "White salt horizon",
-          "alt": "White salt horizon — oil landscape for The Body Called One",
-          "source": "stories/the-body-called-one/art/landscapes/03-white-salt-horizon.png",
-          "sourceSha256": "e0515ba19cfe5b6d84048ce459c3c30290fa865b77b41078fcbbdce8ae76a8b0",
-          "full": {
-            "path": "landscapes/the-body-called-one/03-white-salt-horizon.webp",
-            "sha256": "9d4af72bb669b7f8d8670cb518b5b18ddb26ac58ed199c2f83e090bd71b23e78",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-body-called-one/03-white-salt-horizon-thumb.webp",
-            "sha256": "8918b9ec8138ef1173a7d6209e5f1e98369c9247b85682339890866ab74d3367",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-shadow-beyond-the-foundry",
-          "title": "Shadow beyond the foundry",
-          "alt": "Shadow beyond the foundry — oil landscape for The Body Called One",
-          "source": "stories/the-body-called-one/art/landscapes/04-shadow-beyond-the-foundry.png",
-          "sourceSha256": "84e29d2dfeb6f2fa92afea99e5754d6174a748e6cba7b91e1bc8bc836a57e3ac",
-          "full": {
-            "path": "landscapes/the-body-called-one/04-shadow-beyond-the-foundry.webp",
-            "sha256": "33919f7526b1adb5223c0a8c94ccec49ca33c6ab6ab297fabbc7b6907f8e55be",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-body-called-one/04-shadow-beyond-the-foundry-thumb.webp",
-            "sha256": "6d204236f98de08251c708ba06c2335a4fefd00f2f033018bf44814b559adefe",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-quiet-route",
           "title": "The quiet route",
           "alt": "The quiet route — oil landscape for The Body Called One",
@@ -16473,6 +16416,21 @@
       "source": "stories/the-bat-at-the-door/art/landscapes/05-clouds-beyond-the-garden.png",
       "sourceSha256": "ff4f1a9f2b5de7e05462b0c674eaef93be4ee4f036ecfea0282d6cb6cade1da5",
       "reason": "No garden excursion or panoramic garden view occurs. This adds a third redundant storm exterior to the same house setting."
+    },
+    {
+      "source": "stories/the-body-called-one/art/landscapes/02-salt-planet-from-above.png",
+      "sourceSha256": "b999035b49f22686db745a11b85740aa4678c932b0dd6a62118699935e22b3ee",
+      "reason": "The salt planet belongs to an earlier maneuver recalled while inspecting a muscle plot, not a planet approached in this story."
+    },
+    {
+      "source": "stories/the-body-called-one/art/landscapes/03-white-salt-horizon.png",
+      "sourceSha256": "e0515ba19cfe5b6d84048ce459c3c30290fa865b77b41078fcbbdce8ae76a8b0",
+      "reason": "Turns a recorded, tilted neural horizon inside the annex into a literal ground-level salt landscape; duplicates the unrelated planet image."
+    },
+    {
+      "source": "stories/the-body-called-one/art/landscapes/04-shadow-beyond-the-foundry.png",
+      "sourceSha256": "84e29d2dfeb6f2fa92afea99e5754d6174a748e6cba7b91e1bc8bc836a57e3ac",
+      "reason": "Repeats the same foundry wreckage and debris lane already covered by the opening and departure views."
     },
     {
       "source": "stories/the-cat-who-had-enough/art/landscapes/03-before-dawn-at-the-corner.png",
