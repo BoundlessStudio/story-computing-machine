@@ -779,108 +779,6 @@
       ]
     },
     {
-      "slug": "the-rule-between-courses",
-      "title": "All the Good Things",
-      "reader": "stories/the-rule-between-courses.html",
-      "images": [
-        {
-          "id": "01-rain-outside-the-restaurant",
-          "title": "Rain outside the restaurant",
-          "alt": "Rain outside the restaurant — oil landscape for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
-          "sourceSha256": "effec89e481b2e34d987407377ad736f44f65e1adce3391a18c29081ce67f030",
-          "full": {
-            "path": "landscapes/the-rule-between-courses/01-rain-outside-the-restaurant.webp",
-            "sha256": "4adc9d083ed2471afb5abc24fe483ac8a59aef646171e8869339090b7cdbee99",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-rule-between-courses/01-rain-outside-the-restaurant-thumb.webp",
-            "sha256": "46f375abe82f6af88d53c6c753a12986ad0622d609d290587efe53b5c057c590",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-tramway-by-the-soap-shop",
-          "title": "The tramway by the soap shop",
-          "alt": "The tramway by the soap shop — oil landscape for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/landscapes/02-the-tramway-by-the-soap-shop.png",
-          "sourceSha256": "7513b58fb1d3df3f9b0cdef28e1aeaa83c1c2c271df15458d9d1f6cb2dad97fd",
-          "full": {
-            "path": "landscapes/the-rule-between-courses/02-the-tramway-by-the-soap-shop.webp",
-            "sha256": "d230e6774b7fcf4ffbab7689c10ddb2825673d18ae869773666acd08ab93815c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-rule-between-courses/02-the-tramway-by-the-soap-shop-thumb.webp",
-            "sha256": "f231788f8580eebaa2e3916a382cac2e53ea440ca1c72ceb8fe6719a699e16cd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-lane-above-the-cabinetmaker",
-          "title": "Lane above the cabinetmaker",
-          "alt": "Lane above the cabinetmaker — oil landscape for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/landscapes/03-lane-above-the-cabinetmaker.png",
-          "sourceSha256": "6df079df35801cc2c9e28dbdfc7a63b463a6c0559f2fec9a70c1571e8555ed76",
-          "full": {
-            "path": "landscapes/the-rule-between-courses/03-lane-above-the-cabinetmaker.webp",
-            "sha256": "65b19efeef5c6731b7c58e5e66b15540ce085a3bd520a97ee65f6cc7c050e6b3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-rule-between-courses/03-lane-above-the-cabinetmaker-thumb.webp",
-            "sha256": "5014609b01dc75e8b69916568bb7022d074850a3c0050609a3f944014feb8187",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-long-street-home",
-          "title": "The long street home",
-          "alt": "The long street home — oil landscape for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/landscapes/04-the-long-street-home.png",
-          "sourceSha256": "bc7ee3a6247448cbed82b3ba5f7a06c1c7c086bc5bbc6334db08b29cd50e02e5",
-          "full": {
-            "path": "landscapes/the-rule-between-courses/04-the-long-street-home.webp",
-            "sha256": "e994f7063904d7ed74070a8b59a5d137902bb081d8710f32ec8b19dbce462f96",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-rule-between-courses/04-the-long-street-home-thumb.webp",
-            "sha256": "20e101cf0f858a946e66f36331dae9febc9dc1a14841d93631a97b2d5156685b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-rain-washed-market-road",
-          "title": "The rain washed market road",
-          "alt": "The rain washed market road — oil landscape for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/landscapes/05-the-rain-washed-market-road.png",
-          "sourceSha256": "ce871b11939f33153b38f1402e6b994f2561ed2d2502eee9d49f1208039dcf5f",
-          "full": {
-            "path": "landscapes/the-rule-between-courses/05-the-rain-washed-market-road.webp",
-            "sha256": "cf94ec6c09258adf25a36cb5d4d3303b49f4d02c935b11ead3d0d0d5a084a81d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-rule-between-courses/05-the-rain-washed-market-road-thumb.webp",
-            "sha256": "529a1ad7ad22cbce56c7a0009428f0a8e2ff7fdcfa905b43af298119ac441f20",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "everyone-knows-her",
       "title": "All the Ways They Knew Her",
       "reader": "stories/everyone-knows-her.html",
@@ -18556,6 +18454,31 @@
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
       "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
       "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
+      "sourceSha256": "effec89e481b2e34d987407377ad736f44f65e1adce3391a18c29081ce67f030",
+      "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/landscapes/02-the-tramway-by-the-soap-shop.png",
+      "sourceSha256": "7513b58fb1d3df3f9b0cdef28e1aeaa83c1c2c271df15458d9d1f6cb2dad97fd",
+      "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/landscapes/03-lane-above-the-cabinetmaker.png",
+      "sourceSha256": "6df079df35801cc2c9e28dbdfc7a63b463a6c0559f2fec9a70c1571e8555ed76",
+      "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/landscapes/04-the-long-street-home.png",
+      "sourceSha256": "bc7ee3a6247448cbed82b3ba5f7a06c1c7c086bc5bbc6334db08b29cd50e02e5",
+      "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/landscapes/05-the-rain-washed-market-road.png",
+      "sourceSha256": "ce871b11939f33153b38f1402e6b994f2561ed2d2502eee9d49f1208039dcf5f",
+      "reason": "The story is an indoor supper in one small restaurant. Tram route, cabinetmaker lodging and walks home are discussed rather than visited. These five exterior vistas invent a waterfront town and outdoor scenes, replacing the story's interior setting."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
