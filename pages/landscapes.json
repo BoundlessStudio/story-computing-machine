@@ -3431,25 +3431,6 @@
           }
         },
         {
-          "id": "02-where-marble-becomes-brick",
-          "title": "Where marble becomes brick",
-          "alt": "Where marble becomes brick — oil landscape for The Door in the Ivy",
-          "source": "stories/the-door-in-the-ivy/art/landscapes/02-where-marble-becomes-brick.png",
-          "sourceSha256": "c69b64a0fd8853fa46a985bd95f9d883e6fd3569966607c6e092ddb334fe4f19",
-          "full": {
-            "path": "landscapes/the-door-in-the-ivy/02-where-marble-becomes-brick.webp",
-            "sha256": "bf5f01427b428860c39c271252453f9673c2b2a5b714c7c1eed9ac109af9dcca",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-in-the-ivy/02-where-marble-becomes-brick-thumb.webp",
-            "sha256": "885f28611ba37a9df7711125a926df7e0d65cb3f9a30caf17c27a44922a96a21",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-hidden-service-door",
           "title": "The hidden service door",
           "alt": "The hidden service door — oil landscape for The Door in the Ivy",
@@ -3464,44 +3445,6 @@
           "thumbnail": {
             "path": "landscapes/the-door-in-the-ivy/03-the-hidden-service-door-thumb.webp",
             "sha256": "c92f0d9a363d6d82601960562ea38731e5cccd6f7298efc60cca029af2770679",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-south-garden",
-          "title": "The south garden",
-          "alt": "The south garden — oil landscape for The Door in the Ivy",
-          "source": "stories/the-door-in-the-ivy/art/landscapes/04-the-south-garden.png",
-          "sourceSha256": "7df959e7dd47f0fae0dc34636b3f4c11584971f1980629eb7d23dac3222b970f",
-          "full": {
-            "path": "landscapes/the-door-in-the-ivy/04-the-south-garden.webp",
-            "sha256": "9310e22e35568e7cd7320652e4027f1827655ae351018b5afc2affd33040c1c5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-in-the-ivy/04-the-south-garden-thumb.webp",
-            "sha256": "bdb7c0a2be26e2109ee1f0e069f5c306799f4c10914d4cc68a97495d1a9d1598",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-hedge-after-the-bells",
-          "title": "The hedge after the bells",
-          "alt": "The hedge after the bells — oil landscape for The Door in the Ivy",
-          "source": "stories/the-door-in-the-ivy/art/landscapes/05-the-hedge-after-the-bells.png",
-          "sourceSha256": "5458b4a0138d2ef7b56abe2027e710e452033979caa30b5e3d88bcc09bc8d48a",
-          "full": {
-            "path": "landscapes/the-door-in-the-ivy/05-the-hedge-after-the-bells.webp",
-            "sha256": "e6a2c895b7f394a28cc6fa66b7be71829c35fed41d77ef7a1241e2452f9d6003",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-in-the-ivy/05-the-hedge-after-the-bells-thumb.webp",
-            "sha256": "ba3f92c8762b2ae940901fcc33260dd5738e96cb2a1b3aaab7e8355ad8a75c72",
             "width": 480,
             "height": 320
           }
@@ -15981,6 +15924,21 @@
       "source": "stories/the-credit-book/art/landscapes/05-sundown-beside-the-new-shop.png",
       "sourceSha256": "24089b5443484b5797b7593e7c6c0045587be3a79f8e4c6d8d3f7fc4d176cf0e",
       "reason": "Repeats the river sunset while again stripping the crossing of its streets and moving the buildings onto a separate hill."
+    },
+    {
+      "source": "stories/the-door-in-the-ivy/art/landscapes/02-where-marble-becomes-brick.png",
+      "sourceSha256": "c69b64a0fd8853fa46a985bd95f9d883e6fd3569966607c6e092ddb334fe4f19",
+      "reason": "Adds a decorative gateway to the transition from marble facade to old brick; repeats the narrow garden-path setting without a distinct moment."
+    },
+    {
+      "source": "stories/the-door-in-the-ivy/art/landscapes/04-the-south-garden.png",
+      "sourceSha256": "7df959e7dd47f0fae0dc34636b3f4c11584971f1980629eb7d23dac3222b970f",
+      "reason": "The south garden appears only in Clarimond's offer of rooms, not as a visited scene."
+    },
+    {
+      "source": "stories/the-door-in-the-ivy/art/landscapes/05-the-hedge-after-the-bells.png",
+      "sourceSha256": "5458b4a0138d2ef7b56abe2027e710e452033979caa30b5e3d88bcc09bc8d48a",
+      "reason": "Repeats the ivy/hedge path with another scenic angle after the bells rather than adding a distinct setting."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
