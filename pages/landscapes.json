@@ -2204,6 +2204,44 @@
           }
         },
         {
+          "id": "02-the-empty-beach",
+          "title": "The empty beach",
+          "alt": "The empty beach — oil landscape for Lightning Carries One",
+          "source": "stories/lightning-carries-one/art/landscapes/02-the-empty-beach.png",
+          "sourceSha256": "ec2e0ac9380c61e543efc1c4beee5f42dc10eb09610c97d5fb0122507aa48c2e",
+          "full": {
+            "path": "landscapes/lightning-carries-one/02-the-empty-beach.webp",
+            "sha256": "08feed4d5bac44d4e464de7cee67a22179d712f274c60ca65c5dd6fade0ed069",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/lightning-carries-one/02-the-empty-beach-thumb.webp",
+            "sha256": "a79c9243cef063dfa74088039af4a6d656c42c57d2c63bda9fa295a0c11b66a7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-a-mountaintop-blue-with-cold",
+          "title": "A mountaintop blue with cold",
+          "alt": "A mountaintop blue with cold — oil landscape for Lightning Carries One",
+          "source": "stories/lightning-carries-one/art/landscapes/03-a-mountaintop-blue-with-cold.png",
+          "sourceSha256": "4556f9a1f875da3cd0ef4fd017101a0bd852a6ada81a163dd8c115d369e84fcf",
+          "full": {
+            "path": "landscapes/lightning-carries-one/03-a-mountaintop-blue-with-cold.webp",
+            "sha256": "b5c13a4e176af3d7771f83dce20939808a536dc06be83721de119d0124a54cf6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/lightning-carries-one/03-a-mountaintop-blue-with-cold-thumb.webp",
+            "sha256": "91ea8a31a5e6ec4173600d4c2dccf1b1f5f816a0a309031ddc7071789da2108f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "04-rain-through-the-maple",
           "title": "Rain through the maple",
           "alt": "Rain through the maple — oil landscape for Lightning Carries One",
@@ -10888,16 +10926,6 @@
       "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/05-a-small-patch-of-morning.png",
       "sourceSha256": "2c60a3dec5c07f4a242e8fda25110d8929bd41e08826b08aa3c8dfe45d894f6d",
       "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
-    },
-    {
-      "source": "stories/lightning-carries-one/art/landscapes/02-the-empty-beach.png",
-      "sourceSha256": "ec2e0ac9380c61e543efc1c4beee5f42dc10eb09610c97d5fb0122507aa48c2e",
-      "reason": "The beach belongs to a brief list of earlier solo teleportations, not the story's shared bus-and-street journey."
-    },
-    {
-      "source": "stories/lightning-carries-one/art/landscapes/03-a-mountaintop-blue-with-cold.png",
-      "sourceSha256": "4556f9a1f875da3cd0ef4fd017101a0bd852a6ada81a163dd8c115d369e84fcf",
-      "reason": "The mountaintop belongs to the same offstage list of earlier teleports and supplies unrelated scenic filler."
     },
     {
       "source": "stories/mother-of-monsters/art/landscapes/02-the-upper-switchback.png",
