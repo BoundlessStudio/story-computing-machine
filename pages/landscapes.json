@@ -1573,108 +1573,6 @@
       ]
     },
     {
-      "slug": "life-with-a-girlfriend-with-shrinking-powers",
-      "title": "Life with a Girlfriend with Shrinking Powers",
-      "reader": "stories/life-with-a-girlfriend-with-shrinking-powers.html",
-      "images": [
-        {
-          "id": "01-saturday-above-the-roofs",
-          "title": "Saturday above the roofs",
-          "alt": "Saturday above the roofs — oil landscape for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/01-saturday-above-the-roofs.png",
-          "sourceSha256": "a48312c205913fa08380e1cc49c0165cf9e69f07c808bf0c9f0c912a38f38a23",
-          "full": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/01-saturday-above-the-roofs.webp",
-            "sha256": "5c2a3bf5bde5e879fa6770142023ef5c3212e7864ae0ddc03e8d7dd60cc3d41e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/01-saturday-above-the-roofs-thumb.webp",
-            "sha256": "3762783e3bc81ba6b323797771de32f925e6e8c2fad29404ee942a0e202c5227",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-rain-against-the-evening",
-          "title": "Rain against the evening",
-          "alt": "Rain against the evening — oil landscape for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/02-rain-against-the-evening.png",
-          "sourceSha256": "f35178d7c298dbd8a37a97fda7646705c9087a3d5799704811a60a3836c22173",
-          "full": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/02-rain-against-the-evening.webp",
-            "sha256": "3f7f5041512184485c54c27d108b3e8e7d9bddfc03a051253a85a3fca664da34",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/02-rain-against-the-evening-thumb.webp",
-            "sha256": "88e67cc90311d89f1f881f9a2dc98e23dcbdf9b0d74415eb6c1cbfeb01258275",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-storm-at-street-level",
-          "title": "The storm at street level",
-          "alt": "The storm at street level — oil landscape for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/03-the-storm-at-street-level.png",
-          "sourceSha256": "7db701312db3e285b0c61630022909bdd6dda5dfe2dd392837368c67cbb015bb",
-          "full": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/03-the-storm-at-street-level.webp",
-            "sha256": "19af6043864d289d3126cca92db80df6cb3f426aa86faf95226916bf26f1acb9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/03-the-storm-at-street-level-thumb.webp",
-            "sha256": "23bfe283c30db7f48f7aa03b1390672e1b9bc18e21787904e900e94f996034d5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-blue-hour-after-the-rain",
-          "title": "Blue hour after the rain",
-          "alt": "Blue hour after the rain — oil landscape for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/04-blue-hour-after-the-rain.png",
-          "sourceSha256": "8a497660362cc2d0063802752402f5ef90127f98c0ecaace5a5225fcc9d2b46c",
-          "full": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/04-blue-hour-after-the-rain.webp",
-            "sha256": "c3a8b1ec76247f91df760ecaf37f7bacf69c1e2c9a96342d5a1f0a389939a277",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/04-blue-hour-after-the-rain-thumb.webp",
-            "sha256": "d96664da3cf19d30bef7acf0083569f0d6c8b19b2556f742ad417ced4a3d2cb1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-a-small-patch-of-morning",
-          "title": "A small patch of morning",
-          "alt": "A small patch of morning — oil landscape for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/05-a-small-patch-of-morning.png",
-          "sourceSha256": "2c60a3dec5c07f4a242e8fda25110d8929bd41e08826b08aa3c8dfe45d894f6d",
-          "full": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/05-a-small-patch-of-morning.webp",
-            "sha256": "c4459a02dc43c5a9d4a4332368d1d0f03836a612152d8d4263b8a8fb31eac35c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/life-with-a-girlfriend-with-shrinking-powers/05-a-small-patch-of-morning-thumb.webp",
-            "sha256": "49499cbec50fc938eea0c3e5f56b9e94417043b91d4cfac9c66399772b831654",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "lightning-carries-one",
       "title": "Lightning Carries One",
       "reader": "stories/lightning-carries-one.html",
@@ -17642,6 +17540,31 @@
       "source": "stories/leave-the-names/art/landscapes/04-dusk-over-the-north-court.png",
       "sourceSha256": "c6e827b83b4c0d24a6ba1f0299c2bea313e9663d3f4cd39467bf1d6253280682",
       "reason": "Repeats the roofless city and cistern panorama already covered by the two more specific retained views."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/01-saturday-above-the-roofs.png",
+      "sourceSha256": "a48312c205913fa08380e1cc49c0165cf9e69f07c808bf0c9f0c912a38f38a23",
+      "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/02-rain-against-the-evening.png",
+      "sourceSha256": "f35178d7c298dbd8a37a97fda7646705c9087a3d5799704811a60a3836c22173",
+      "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/03-the-storm-at-street-level.png",
+      "sourceSha256": "7db701312db3e285b0c61630022909bdd6dda5dfe2dd392837368c67cbb015bb",
+      "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/04-blue-hour-after-the-rain.png",
+      "sourceSha256": "8a497660362cc2d0063802752402f5ef90127f98c0ecaace5a5225fcc9d2b46c",
+      "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/05-a-small-patch-of-morning.png",
+      "sourceSha256": "2c60a3dec5c07f4a242e8fda25110d8929bd41e08826b08aa3c8dfe45d894f6d",
+      "reason": "Invents outdoor neighborhood, street or garden scenes for an entirely indoor apartment story. The dangerous water is from the broken kitchen pipe, not an exterior storm sequence."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
