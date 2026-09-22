@@ -9009,6 +9009,25 @@
           }
         },
         {
+          "id": "02-the-closed-river-gate",
+          "title": "The closed river gate",
+          "alt": "The closed river gate — oil landscape for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/landscapes/02-the-closed-river-gate.png",
+          "sourceSha256": "dd999e938d23a4c666a0381491e47c8c0454fa0624234530f24bdebca0e52083",
+          "full": {
+            "path": "landscapes/the-vacant-throne/02-the-closed-river-gate.webp",
+            "sha256": "843f825dcf393c234141b8d98ad4bda320ad0932cfab472d55111c1c8616e88f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-vacant-throne/02-the-closed-river-gate-thumb.webp",
+            "sha256": "aa06667c40036fcdde4da999d614965e18bf11defb96f2d77a6533d7c0684044",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "03-rain-court-in-sunlight",
           "title": "Rain court in sunlight",
           "alt": "Rain court in sunlight — oil landscape for The Vacant Throne",
@@ -12975,11 +12994,6 @@
       "source": "stories/the-unopened-ring/art/landscapes/05-morning-side-of-the-palace.png",
       "sourceSha256": "36e0723a231af681ac84d17b53f9b91c5642315dadbbb08f7ee532223f929b25",
       "reason": "The story ends during the evening dinner, not at a sunny morning palace exterior."
-    },
-    {
-      "source": "stories/the-vacant-throne/art/landscapes/02-the-closed-river-gate.png",
-      "sourceSha256": "dd999e938d23a4c666a0381491e47c8c0454fa0624234530f24bdebca0e52083",
-      "reason": "The Captain signals the river gate shut from the palace; the narrative never visits this exterior riverbank viewpoint."
     },
     {
       "source": "stories/the-vacant-throne/art/landscapes/04-last-light-on-the-western-wall.png",
