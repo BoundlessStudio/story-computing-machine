@@ -3377,82 +3377,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-gold-beyond-the-yard",
-          "title": "Gold beyond the yard",
-          "alt": "Gold beyond the yard — oil landscape for The Courtesy of Blades",
-          "source": "stories/the-courtesy-of-blades/art/landscapes/02-gold-beyond-the-yard.png",
-          "sourceSha256": "fc77590fb833b6ba65f41a0d806e6122a4e6c6fafcf3fe857e8ce11bdfb74103",
-          "full": {
-            "path": "landscapes/the-courtesy-of-blades/02-gold-beyond-the-yard.webp",
-            "sha256": "c0b8ae35ce574ba85c654c88d67db6a1d307773c22e3c9c279a6dee71ac5299b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-courtesy-of-blades/02-gold-beyond-the-yard-thumb.webp",
-            "sha256": "9a437af51d077f5be7cdf015f3b03de7b150923997c21e2fa37c2b4eb3f79ec3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-supper-hour-river",
-          "title": "The supper hour river",
-          "alt": "The supper hour river — oil landscape for The Courtesy of Blades",
-          "source": "stories/the-courtesy-of-blades/art/landscapes/03-the-supper-hour-river.png",
-          "sourceSha256": "d600e368bd7f35cdc86121a756ba2ae0057bb1b9499dc495e4a5b7595d90f628",
-          "full": {
-            "path": "landscapes/the-courtesy-of-blades/03-the-supper-hour-river.webp",
-            "sha256": "b7b9c2ac929a33f63777ed35a71b72229c839695a70fbdc3e1eb677fee6eda84",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-courtesy-of-blades/03-the-supper-hour-river-thumb.webp",
-            "sha256": "97d66076e4093535636631713a646fb56fbb53574d09cac1f952621273587b2f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-upriver-to-east-weir",
-          "title": "Upriver to east weir",
-          "alt": "Upriver to east weir — oil landscape for The Courtesy of Blades",
-          "source": "stories/the-courtesy-of-blades/art/landscapes/04-upriver-to-east-weir.png",
-          "sourceSha256": "518370027b0e273346f68823c7fe98d46a16335aa720d7a2ade520b487b5f615",
-          "full": {
-            "path": "landscapes/the-courtesy-of-blades/04-upriver-to-east-weir.webp",
-            "sha256": "ef1a92670cbdf77e1814f5da4c514d79b8a40c35f6e922f5039c25dd92adb64f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-courtesy-of-blades/04-upriver-to-east-weir-thumb.webp",
-            "sha256": "f08ae2eb9981947be4d7fd4a6c6e7718e370f5e2810439d8ea6f530eaa185df1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-carries-east",
-          "title": "Dawn carries east",
-          "alt": "Dawn carries east — oil landscape for The Courtesy of Blades",
-          "source": "stories/the-courtesy-of-blades/art/landscapes/05-dawn-carries-east.png",
-          "sourceSha256": "1f0b56bd780747983bbe0fa8111c36037a68069ef99e8a996d6f1d9200efdfa5",
-          "full": {
-            "path": "landscapes/the-courtesy-of-blades/05-dawn-carries-east.webp",
-            "sha256": "1ec80ad43d5e99aa9cc52ce04403244b696c0dc43628438643e3a80afbb9479d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-courtesy-of-blades/05-dawn-carries-east-thumb.webp",
-            "sha256": "a45601ea9759bead9885f72fa47d7160a20e381f4d2a5b6b492819e50b93a966",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -16170,6 +16094,26 @@
       "source": "stories/the-count-was-131072/art/landscapes/05-quiet-water-beyond-memory.png",
       "sourceSha256": "82ef97b665de717716820d9d48fcf0d78d71a77495ced76b083d349428fb4106",
       "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
+    },
+    {
+      "source": "stories/the-courtesy-of-blades/art/landscapes/02-gold-beyond-the-yard.png",
+      "sourceSha256": "fc77590fb833b6ba65f41a0d806e6122a4e6c6fafcf3fe857e8ce11bdfb74103",
+      "reason": "Repeats the river and pilings from a slightly different angle without depicting the actual blade-yard scene."
+    },
+    {
+      "source": "stories/the-courtesy-of-blades/art/landscapes/03-the-supper-hour-river.png",
+      "sourceSha256": "d600e368bd7f35cdc86121a756ba2ae0057bb1b9499dc495e4a5b7595d90f628",
+      "reason": "Third evening river vista duplicates the same location without the supper stalls or another distinct story setting."
+    },
+    {
+      "source": "stories/the-courtesy-of-blades/art/landscapes/04-upriver-to-east-weir.png",
+      "sourceSha256": "518370027b0e273346f68823c7fe98d46a16335aa720d7a2ade520b487b5f615",
+      "reason": "East Weir is tomorrow's destination and is not reached during the story."
+    },
+    {
+      "source": "stories/the-courtesy-of-blades/art/landscapes/05-dawn-carries-east.png",
+      "sourceSha256": "1f0b56bd780747983bbe0fa8111c36037a68069ef99e8a996d6f1d9200efdfa5",
+      "reason": "The dawn journey is still in the future at the ending; this repeats the river with an invented later scene."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
