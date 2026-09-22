@@ -313,63 +313,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-the-sudden-small-shower",
-          "title": "The sudden small shower",
-          "alt": "The sudden small shower — oil landscape for A Little Weather Between Us",
-          "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
-          "sourceSha256": "8f1dfc414c13a601249fad6e38720e940e478ca0a7f642963fdc59b245edce9f",
-          "full": {
-            "path": "landscapes/laughing-clouds/03-the-sudden-small-shower.webp",
-            "sha256": "4e99c576ed205fb2aaaa1ffbb286d5d74aa91a01fcde733cd73777cce9e9177d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/laughing-clouds/03-the-sudden-small-shower-thumb.webp",
-            "sha256": "79b209e64db865772cbe84f72de259ec6ad0cb13cf3dd387f3eb27af26bf1c3e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-wide-dry-path",
-          "title": "The wide dry path",
-          "alt": "The wide dry path — oil landscape for A Little Weather Between Us",
-          "source": "stories/laughing-clouds/art/landscapes/04-the-wide-dry-path.png",
-          "sourceSha256": "65a57e6d6560998e42de3a725bc6bfb38f527e38a679c05479ba02fc9ef7d88d",
-          "full": {
-            "path": "landscapes/laughing-clouds/04-the-wide-dry-path.webp",
-            "sha256": "2d70c036171d258184391d798cc491a1003efd641d40ca2dd8904187e7c33341",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/laughing-clouds/04-the-wide-dry-path-thumb.webp",
-            "sha256": "ff0af6c14f3ff78ae80b2e2912c59af7937aa56f25b905c707385184a9910421",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-last-strip-of-sun",
-          "title": "The last strip of sun",
-          "alt": "The last strip of sun — oil landscape for A Little Weather Between Us",
-          "source": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
-          "sourceSha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
-          "full": {
-            "path": "landscapes/laughing-clouds/05-the-last-strip-of-sun.webp",
-            "sha256": "d2b52ca58308bd2636f514b0833cd982b760c31dc6ccef4c7f54e3f591be885c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/laughing-clouds/05-the-last-strip-of-sun-thumb.webp",
-            "sha256": "a4323e85ea86edf7f9307908637739f7d3b7eeefc4c94dce67d0c3510c2ce8a7",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -19083,6 +19026,21 @@
       "source": "stories/a-little-more-room/art/landscapes/05-night-over-the-neighborhood.png",
       "sourceSha256": "5075957fd757d5e8afdb6bef823763de377f3733f142e2144145ed5a52ec0a6d",
       "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
+      "sourceSha256": "8f1dfc414c13a601249fad6e38720e940e478ca0a7f642963fdc59b245edce9f",
+      "reason": "The working cloud forms under the festival canopy over an acoustically targeted person and collapses when that target fades. This detached cloud rains over an empty natural woodland fern patch with no target, device or court."
+    },
+    {
+      "source": "stories/laughing-clouds/art/landscapes/04-the-wide-dry-path.png",
+      "sourceSha256": "65a57e6d6560998e42de3a725bc6bfb38f527e38a679c05479ba02fc9ef7d88d",
+      "reason": "The wide dry route is a short access route to the repair-court ramp, beside corded test mats and glass tile. This extended woodland garden path invents a different setting."
+    },
+    {
+      "source": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+      "sourceSha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+      "reason": "A redundant third canopy/fern garden view after the retained planter wall and shade bed. The ending returns to the same test field, not another garden location."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
