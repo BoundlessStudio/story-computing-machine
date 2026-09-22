@@ -6786,6 +6786,70 @@
       ]
     },
     {
+      "slug": "yavrens-return",
+      "title": "Where the Eagle Lands",
+      "reader": "stories/yavrens-return.html",
+      "images": [
+        {
+          "id": "01-the-winter-garden-stage",
+          "title": "The winter garden stage",
+          "alt": "The winter garden stage — oil interior study for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "sourceSha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "full": {
+            "path": "interiors/yavrens-return/01-the-winter-garden-stage-1276dd291f32b564.webp",
+            "sha256": "ad15f7533165ed4c882c367636f2d02ad74e8e9dacb8073cbdd3584831dfbbc2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/yavrens-return/01-the-winter-garden-stage-1276dd291f32b564-thumb.webp",
+            "sha256": "c73768e583995307ef292dad0c052e620da29c586ac0fc8b846c5a11bfaae788",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-flowers-in-the-upper-room",
+          "title": "Flowers in the upper room",
+          "alt": "Flowers in the upper room — oil interior study for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/interiors/02-flowers-in-the-upper-room.png",
+          "sourceSha256": "bb8edb76e2d2cc42c1678e2809821c7917e76d5cfc31d7432f2696ea7632bcff",
+          "full": {
+            "path": "interiors/yavrens-return/02-flowers-in-the-upper-room-bb8edb76e2d2cc42.webp",
+            "sha256": "bb969fc6d7659933404efdbd283c7767721cb4f4b705b709166b040d6e82644f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/yavrens-return/02-flowers-in-the-upper-room-bb8edb76e2d2cc42-thumb.webp",
+            "sha256": "55c7ffef021b8ba4163b9cba582269ff5b516c86f61b95bb37bf640ec8b75308",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-upper-supper-room",
+          "title": "The upper supper room",
+          "alt": "The upper supper room — oil interior study for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/interiors/03-the-upper-supper-room.png",
+          "sourceSha256": "f3e3810deaadb773a9c582f23f5e7f21032204e12c10cfa13b7fd5384203498a",
+          "full": {
+            "path": "interiors/yavrens-return/03-the-upper-supper-room-f3e3810deaadb773.webp",
+            "sha256": "ddcdd199ecec6d0077597e9bb80c78c02ea1f900104697fccd6cc760ed497bf5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/yavrens-return/03-the-upper-supper-room-f3e3810deaadb773-thumb.webp",
+            "sha256": "0916852c4f2efd1997e3bb0de18185b584a99cad83e628398a103ab3f9efcc02",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-first-kingdom-was-late-on-taxes",
       "title": "Where the Mountain Used to Be",
       "reader": "stories/the-first-kingdom-was-late-on-taxes.html",
