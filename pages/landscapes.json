@@ -3474,82 +3474,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-dry-dock",
-          "title": "The dry dock",
-          "alt": "The dry dock — oil landscape for The Door Knows Home",
-          "source": "stories/the-door-knows-home/art/landscapes/02-the-dry-dock.png",
-          "sourceSha256": "63d7686d851782e4fa43f63f20f84636edf7226c1c2de24d897f875bf51fb8e9",
-          "full": {
-            "path": "landscapes/the-door-knows-home/02-the-dry-dock.webp",
-            "sha256": "49f04756636d05aa858764b6feb690671e76b18a925d6b808b3304298278aae9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-knows-home/02-the-dry-dock-thumb.webp",
-            "sha256": "a1ae43fe486794950e4cc4d289bd53bcdfe4239694aa1c5d58bd498842d90269",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-canal-bank",
-          "title": "The canal bank",
-          "alt": "The canal bank — oil landscape for The Door Knows Home",
-          "source": "stories/the-door-knows-home/art/landscapes/03-the-canal-bank.png",
-          "sourceSha256": "af6db9059da8f9b198fe5f67b2d7892e8f8eb1e2f827bf63c662668f97f7d6d6",
-          "full": {
-            "path": "landscapes/the-door-knows-home/03-the-canal-bank.webp",
-            "sha256": "26962584e7c60a3be2699f16e58308fb8c5b76056f7b0feba6e67d9fbd43fc76",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-knows-home/03-the-canal-bank-thumb.webp",
-            "sha256": "6c799c7121b96b3294b74f671fa7ce26a12412a6b5ecb40d22cdea62e61de28e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-leaking-shed-roof",
-          "title": "The leaking shed roof",
-          "alt": "The leaking shed roof — oil landscape for The Door Knows Home",
-          "source": "stories/the-door-knows-home/art/landscapes/04-the-leaking-shed-roof.png",
-          "sourceSha256": "69a4ab004f21b222e4c03d009a101e2fa47127a5c985b2419389ee0d223a141f",
-          "full": {
-            "path": "landscapes/the-door-knows-home/04-the-leaking-shed-roof.webp",
-            "sha256": "81bf97548ad40c04dc0239298d4c7aab2ee0a252c75fafecbbed1ab19dccc984",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-knows-home/04-the-leaking-shed-roof-thumb.webp",
-            "sha256": "54475cd3d0b7ccdff5de926c71cb9601748868d2f8dcb537fbfbaf0cbfaf28e1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-five-oclock-in-the-lane",
-          "title": "Five oclock in the lane",
-          "alt": "Five oclock in the lane — oil landscape for The Door Knows Home",
-          "source": "stories/the-door-knows-home/art/landscapes/05-five-oclock-in-the-lane.png",
-          "sourceSha256": "9a06f8f041c3a29ca5ce35e22cce3d4e08e9373d6d9a3f046d79405e3f3301f7",
-          "full": {
-            "path": "landscapes/the-door-knows-home/05-five-oclock-in-the-lane.webp",
-            "sha256": "8662584e77a759aee83d4ea9fc01ad4a42e2f08aa23d0789eb47c202b851a4d0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-door-knows-home/05-five-oclock-in-the-lane-thumb.webp",
-            "sha256": "7da4de2f646a607d31d4014907bd38bc56e052c55da0a4168a34d89a32a091d2",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15939,6 +15863,26 @@
       "source": "stories/the-door-in-the-ivy/art/landscapes/05-the-hedge-after-the-bells.png",
       "sourceSha256": "5458b4a0138d2ef7b56abe2027e710e452033979caa30b5e3d88bcc09bc8d48a",
       "reason": "Repeats the ivy/hedge path with another scenic angle after the bells rather than adding a distinct setting."
+    },
+    {
+      "source": "stories/the-door-knows-home/art/landscapes/02-the-dry-dock.png",
+      "sourceSha256": "63d7686d851782e4fa43f63f20f84636edf7226c1c2de24d897f875bf51fb8e9",
+      "reason": "Shows an empty dock where the view explicitly contains steel props and the algae-streaked underside of a barge."
+    },
+    {
+      "source": "stories/the-door-knows-home/art/landscapes/03-the-canal-bank.png",
+      "sourceSha256": "af6db9059da8f9b198fe5f67b2d7892e8f8eb1e2f827bf63c662668f97f7d6d6",
+      "reason": "Replaces a barge resting in dry dock with an open water-filled canal view that never appears."
+    },
+    {
+      "source": "stories/the-door-knows-home/art/landscapes/04-the-leaking-shed-roof.png",
+      "sourceSha256": "69a4ab004f21b222e4c03d009a101e2fa47127a5c985b2419389ee0d223a141f",
+      "reason": "The leaking shed roof is merely the reason pump parts were stored in a scullery; no garden-shed scene occurs."
+    },
+    {
+      "source": "stories/the-door-knows-home/art/landscapes/05-five-oclock-in-the-lane.png",
+      "sourceSha256": "9a06f8f041c3a29ca5ce35e22cce3d4e08e9373d6d9a3f046d79405e3f3301f7",
+      "reason": "Repeats the workshop lane at a later light state with no distinct location; one delivery/collection view suffices."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
