@@ -6214,6 +6214,25 @@
           }
         },
         {
+          "id": "04-water-in-the-central-crease",
+          "title": "Water in the central crease",
+          "alt": "Water in the central crease — oil landscape for The Morning Her Hand Moved",
+          "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
+          "sourceSha256": "f1f91b16f8eb485b05d8d187c921c3626fb5b0e4a2ba29df541c2b96a7aa71cb",
+          "full": {
+            "path": "landscapes/the-morning-her-hand-moved/04-water-in-the-central-crease.webp",
+            "sha256": "8592adf88b2ea1837af1bebab6def2b81d4755cf2dad4aa4227173743e20d406",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-morning-her-hand-moved/04-water-in-the-central-crease-thumb.webp",
+            "sha256": "78a1429f83d80db93d654742d07850fda32c8c70a87ead55264cfc5172810dba",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "05-gardens-above-the-crease",
           "title": "Gardens above the crease",
           "alt": "Gardens above the crease — oil landscape for The Morning Her Hand Moved",
@@ -12177,11 +12196,6 @@
       "source": "stories/the-mercy-circuit/art/landscapes/04-the-lowered-market-gate.png",
       "sourceSha256": "0b5ab439a7907f2331cf6d2e7235333eb712f4c3d48daa2154f58a5591751a36",
       "reason": "Adds another distant view of the same market closure; image 01 already establishes the gatefall setting."
-    },
-    {
-      "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
-      "sourceSha256": "f1f91b16f8eb485b05d8d187c921c3626fb5b0e4a2ba29df541c2b96a7aa71cb",
-      "reason": "Depicts a small placid pool in low rounded rocks with intact houses above it. The central crease instead holds floodwater and broken roofs in a vast cupped palm under raised, curving fingers; this image loses both the disaster state and defining geography."
     },
     {
       "source": "stories/the-name-i-kept/art/landscapes/01-laundromat-street-at-night.png",
