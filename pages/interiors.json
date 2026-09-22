@@ -4418,6 +4418,70 @@
       ]
     },
     {
+      "slug": "the-five-minute-warranty",
+      "title": "The Five-Minute Warranty",
+      "reader": "stories/the-five-minute-warranty.html",
+      "images": [
+        {
+          "id": "01-upper-lift-machinery-shed",
+          "title": "Upper lift machinery shed",
+          "alt": "Upper lift machinery shed — oil interior study for The Five-Minute Warranty",
+          "source": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+          "sourceSha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870",
+          "full": {
+            "path": "interiors/the-five-minute-warranty/01-upper-lift-machinery-shed-21aa7792fedf61ae.webp",
+            "sha256": "43963a1855ee9e162718178b8ca7db2cac34727e58c6d74b18a7eaaba04426bd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-five-minute-warranty/01-upper-lift-machinery-shed-21aa7792fedf61ae-thumb.webp",
+            "sha256": "7705fc33d9543f47b2970131b9ab4a575e44b441f32e83365b09630550a1d221",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-emergency-roller-train",
+          "title": "The emergency roller train",
+          "alt": "The emergency roller train — oil interior study for The Five-Minute Warranty",
+          "source": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
+          "sourceSha256": "d915ee0c955be29d9fd83fcae7c21800336c4809828ce04a46ed7b1feba7da40",
+          "full": {
+            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-d915ee0c955be29d.webp",
+            "sha256": "5830f7ddeef2c1319ca0e9347ba9a6ded90f7185644b86390477afc375ac35af",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-d915ee0c955be29d-thumb.webp",
+            "sha256": "60900e5a6ee5f7bf0eeeed255035a6c0bded20874dd7bf4c956d2be423cb3528",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-lower-lift-station-before-the-blast",
+          "title": "Lower lift station before the blast",
+          "alt": "Lower lift station before the blast — oil interior study for The Five-Minute Warranty",
+          "source": "stories/the-five-minute-warranty/art/interiors/03-lower-lift-station-before-the-blast.png",
+          "sourceSha256": "d605990240dc08a5c66ae1bacbdf75d53507dbf3d8310d62415f2ff8367d5265",
+          "full": {
+            "path": "interiors/the-five-minute-warranty/03-lower-lift-station-before-the-blast-d605990240dc08a5.webp",
+            "sha256": "1426ee4521b2cd328ec6f5ee3188e462c6ac2a904cd7180e6562514ccebfc406",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-five-minute-warranty/03-lower-lift-station-before-the-blast-d605990240dc08a5-thumb.webp",
+            "sha256": "ff99ed3e48a8f53fd331f07b9b4f5045f46f9c3943a63e8d64f8b2ca4b57295b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "blood-types-of-immortality",
       "title": "The Fourth Blood",
       "reader": "stories/blood-types-of-immortality.html",
@@ -4539,6 +4603,70 @@
           "thumbnail": {
             "path": "interiors/fourth-house/03-coupling-and-load-frame-bb3304fea0c7e144-thumb.webp",
             "sha256": "f9f5c7a8556f840506c5451667379bf9225ba6431ec6d9e1f3ea0cbda0218dd8",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-friends-i-built",
+      "title": "The Friends I Built",
+      "reader": "stories/the-friends-i-built.html",
+      "images": [
+        {
+          "id": "01-the-household-couch",
+          "title": "The household couch",
+          "alt": "The household couch — oil interior study for The Friends I Built",
+          "source": "stories/the-friends-i-built/art/interiors/01-the-household-couch.png",
+          "sourceSha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "full": {
+            "path": "interiors/the-friends-i-built/01-the-household-couch-bcff7aa2285b7007.webp",
+            "sha256": "860b1cff52f14ea0a2ee423351238b0df384026c4a9ebb1dd4880a4ab7dd8b96",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-friends-i-built/01-the-household-couch-bcff7aa2285b7007-thumb.webp",
+            "sha256": "1d945cbee90fbe45ead332f4ac5769d4d5570831cd2c9cb660e3657a0e959c59",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-irixs-workbench",
+          "title": "Irixs workbench",
+          "alt": "Irixs workbench — oil interior study for The Friends I Built",
+          "source": "stories/the-friends-i-built/art/interiors/02-irixs-workbench.png",
+          "sourceSha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "full": {
+            "path": "interiors/the-friends-i-built/02-irixs-workbench-e739619662d5476d.webp",
+            "sha256": "052abaf7e3df3c541847c803a72f2b93a5fcce8d3875d2335665ba504afeccf2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-friends-i-built/02-irixs-workbench-e739619662d5476d-thumb.webp",
+            "sha256": "775373355cb0003625c98522c993705c7fd8a60cd9cc39bc8f0a59286c0c0489",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-cinder-annex-furnace-hall",
+          "title": "The cinder annex furnace hall",
+          "alt": "The cinder annex furnace hall — oil interior study for The Friends I Built",
+          "source": "stories/the-friends-i-built/art/interiors/03-the-cinder-annex-furnace-hall.png",
+          "sourceSha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "full": {
+            "path": "interiors/the-friends-i-built/03-the-cinder-annex-furnace-hall-8153910f6e9f67a7.webp",
+            "sha256": "8434c51571150f758ea5f4eb611ea4eaa11f7dbbd8809f1bed2f2227dfb73dc7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-friends-i-built/03-the-cinder-annex-furnace-hall-8153910f6e9f67a7-thumb.webp",
+            "sha256": "3d77d0583529e8e64e3fdecf59447eaddc225682ffc6f6be68aed5ba3a44f028",
             "width": 480,
             "height": 320
           }
