@@ -8424,6 +8424,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-meltwater-through-the-orchard",
+          "title": "Meltwater through the orchard",
+          "alt": "Meltwater through the orchard — oil landscape for The Shape of Mercy",
+          "source": "pages/landscape-replacements/the-shape-of-mercy/05-meltwater-through-the-orchard.png",
+          "sourceSha256": "b422baa1280057283cc184e1bcb86e3909d12acd0805414098a5c2e66e791a3c",
+          "full": {
+            "path": "landscapes/the-shape-of-mercy/05-meltwater-through-the-orchard-b422baa128005728.webp",
+            "sha256": "c4b562c5e9c6b4493c45ad007e93de09886bbc84f6137ed980c74811af1810f2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-shape-of-mercy/05-meltwater-through-the-orchard-b422baa128005728-thumb.webp",
+            "sha256": "f08316de9339dba047a330ad89a197bc974e1a31a671a7e651c79405517b76b0",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-shape-of-mercy/art/landscapes/05-meltwater-through-the-orchard.png",
+            "originalSha256": "6bbb0b0d3ee07b777943e7470a3598ffcd1d1d4c683385f880f630e4d2a33489",
+            "correction": "Moves the melted ice to an elevated cliff-like barrier above the orchard, whereas Marcus freezes the ornamental pond and courtyard beside the Hall. Image 04 better preserves the actual pond/firebreak geography.",
+            "prompt": "Correct the FIRST oil landscape, Meltwater Through the Orchard, for The Shape of Mercy. Use the SECOND reference as the geography anchor: Bellweather Hall stands immediately beside an ornamental pond and paved courtyard, with a burned crescent between the Hall and the oldest flowering orchard trees. The first reference wrongly invents a long ice cliff high above the orchard. Remove that entire distant elevated ice barrier and rocky hillside waterfall. Instead compose close to the COURTYARD POND BESIDE THE HALL: the remains of a broken wall of frozen pond water sit at HUMAN/ROOM SCALE on the courtyard stones along the pond edge. Translucent blue-white ice slabs slump and fracture, sending modest rivulets of meltwater across paving joints and through the nearby burned crescent into low ground among the orchard trees. Broken orchard doors and cracked tall Hall windows are visible immediately behind on the right; surviving white-blossomed trees stand to the left and beyond the scorched crescent, some thin smoke lingering. This is the following MORNING with soft morning sun and cool wet shadows, not the second reference's sunset. The ice originated from this small pond, not a glacier or cliff. No huge flood river, distant ice mountain, frozen ocean, waterfall gorge, people or text. Preserve both references' heavy impasto oil paint and wide coherent environment.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
