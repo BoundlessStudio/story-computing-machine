@@ -3066,25 +3066,6 @@
           }
         },
         {
-          "id": "02-the-crooked-mountain",
-          "title": "The crooked mountain",
-          "alt": "The crooked mountain — oil landscape for The Cat Who Kept the Door",
-          "source": "stories/the-cat-who-kept-the-door/art/landscapes/02-the-crooked-mountain.png",
-          "sourceSha256": "89f6696675b2be97fe53a6d75466b253238b37c61f9c583433e02ac7b1584b0c",
-          "full": {
-            "path": "landscapes/the-cat-who-kept-the-door/02-the-crooked-mountain.webp",
-            "sha256": "291905850554ccab497f9d8c24e92fc008108ba90d61c30de665bf0a881b8864",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-cat-who-kept-the-door/02-the-crooked-mountain-thumb.webp",
-            "sha256": "0dfdf9b79d0eeec53d7b795c2b63b73f41ede401404b7b67c8593b8957e3b466",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-transparent-towers-long-ago",
           "title": "Transparent towers long ago",
           "alt": "Transparent towers long ago — oil landscape for The Cat Who Kept the Door",
@@ -16404,6 +16385,11 @@
       "source": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
       "sourceSha256": "eaaae4bb828395a4c3550fdc2b867d30ed8fa028db52f5eedd8f8be33d1ae40c",
       "reason": "Replaces the urban route with a rural hillside footpath and unsupported landscape."
+    },
+    {
+      "source": "stories/the-cat-who-kept-the-door/art/landscapes/02-the-crooked-mountain.png",
+      "sourceSha256": "89f6696675b2be97fe53a6d75466b253238b37c61f9c583433e02ac7b1584b0c",
+      "reason": "Isolates the crooked mountain as an extra scenic view already covered through the projection's three changing city/forest states."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
