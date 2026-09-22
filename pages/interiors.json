@@ -1026,6 +1026,134 @@
       ]
     },
     {
+      "slug": "clerics-infernal-ex",
+      "title": "Hello, Lover",
+      "reader": "stories/clerics-infernal-ex.html",
+      "images": [
+        {
+          "id": "01-common-shelter",
+          "title": "Common shelter",
+          "alt": "Common shelter — oil interior study for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+          "sourceSha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+          "full": {
+            "path": "interiors/clerics-infernal-ex/01-common-shelter-64eadacf1250fb61.webp",
+            "sha256": "4ebc1a82d37ba7cac5fa342523cea9cade5e24e8034a2c6552f486270e1f36c9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/clerics-infernal-ex/01-common-shelter-64eadacf1250fb61-thumb.webp",
+            "sha256": "063a98b9459d81724d477f3dc057bfda3d0ec0640fc538597d0fbbf5216e36eb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-lacrixas-old-room",
+          "title": "Lacrixas old room",
+          "alt": "Lacrixas old room — oil interior study for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+          "sourceSha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
+          "full": {
+            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-b2b9e5c1d66603e8.webp",
+            "sha256": "702ba935c968307a71e611480403646c7011297c36d80f35c3b44318c98c9a88",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-b2b9e5c1d66603e8-thumb.webp",
+            "sha256": "68369aee04a3587f8e1a8a57f2d95749d0e6cec3ba69bad85b03084c94c927e1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-shelter-pantry",
+          "title": "Shelter pantry",
+          "alt": "Shelter pantry — oil interior study for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/interiors/03-shelter-pantry.png",
+          "sourceSha256": "7ad05a918576c1bf080d35e6281125069619499c5664d2e4b105fc560362cfba",
+          "full": {
+            "path": "interiors/clerics-infernal-ex/03-shelter-pantry-7ad05a918576c1bf.webp",
+            "sha256": "317c6c988681ffa1b7edae78d1dd96a9dff1cc5f3a646d3c6d197e4a2f4feaa0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/clerics-infernal-ex/03-shelter-pantry-7ad05a918576c1bf-thumb.webp",
+            "sha256": "4d181e76bbfaef748cd23adc07fa400b0c5f184925ce0372f199e5be7d228e89",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "before-she-gets-tired",
+      "title": "Not Friday",
+      "reader": "stories/before-she-gets-tired.html",
+      "images": [
+        {
+          "id": "01-rehearsal-hall",
+          "title": "Rehearsal hall",
+          "alt": "Rehearsal hall — oil interior study for Not Friday",
+          "source": "stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+          "sourceSha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+          "full": {
+            "path": "interiors/before-she-gets-tired/01-rehearsal-hall-8d3d7f5d01b511b0.webp",
+            "sha256": "f62062e132b4a652b468e2ef9a0f869266169b21cad43b7ada2fad585f57226b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-she-gets-tired/01-rehearsal-hall-8d3d7f5d01b511b0-thumb.webp",
+            "sha256": "e66ebe0bcbc7543911d08635b0049c349fcc006bed41580c74a0b47619c3ff3b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-studio-b-storage",
+          "title": "Studio b storage",
+          "alt": "Studio b storage — oil interior study for Not Friday",
+          "source": "stories/before-she-gets-tired/art/interiors/02-studio-b-storage.png",
+          "sourceSha256": "3612e9d42370158b6c86c3e6c246399dbf4b5c7580f9f51c4df20aa8a9c6c445",
+          "full": {
+            "path": "interiors/before-she-gets-tired/02-studio-b-storage-3612e9d42370158b.webp",
+            "sha256": "996d07cf09053e941fb27572de578d496bf0e5e3bf24d8a2ede3345066ffeb9a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-she-gets-tired/02-studio-b-storage-3612e9d42370158b-thumb.webp",
+            "sha256": "8ac7a24880ee244edf16c6f7a4728e5143f4961976297ed46748496939532d04",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-noodle-place",
+          "title": "Noodle place",
+          "alt": "Noodle place — oil interior study for Not Friday",
+          "source": "stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+          "sourceSha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea",
+          "full": {
+            "path": "interiors/before-she-gets-tired/03-noodle-place-52a308666e6606a0.webp",
+            "sha256": "c931b1d7c8429928e4d3e6c86b5b3a24e3c9507911ae614b3df6b86b2fad844d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-she-gets-tired/03-noodle-place-52a308666e6606a0-thumb.webp",
+            "sha256": "a070f6d08cb9e0fe05a5e509b1ee32df514af3ffcf6137cf4585ed54c5491b5d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "apes-in-orbit",
       "title": "The Apes Above",
       "reader": "stories/apes-in-orbit.html",
