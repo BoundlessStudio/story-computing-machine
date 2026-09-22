@@ -2050,6 +2050,70 @@
       ]
     },
     {
+      "slug": "roads-under-impossible-stars",
+      "title": "Roads Under Impossible Stars",
+      "reader": "stories/roads-under-impossible-stars.html",
+      "images": [
+        {
+          "id": "01-hatchback-dashboard",
+          "title": "Hatchback dashboard",
+          "alt": "Hatchback dashboard — oil interior study for Roads Under Impossible Stars",
+          "source": "stories/roads-under-impossible-stars/art/interiors/01-hatchback-dashboard.png",
+          "sourceSha256": "cea77f42775f4749345dc28151db6490e6738cea08c1f95f8ad3667f2523e115",
+          "full": {
+            "path": "interiors/roads-under-impossible-stars/01-hatchback-dashboard-cea77f42775f4749.webp",
+            "sha256": "7870e83d9633285194e3c8240a9f4f82dbd88f7693fed6ff366ed6a1541ba4c9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/roads-under-impossible-stars/01-hatchback-dashboard-cea77f42775f4749-thumb.webp",
+            "sha256": "51b4d0bbac6c9c63b150ebb61c4a8b3573ad22d34a898c3ea8ee0277016f721f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-cargo-supplies",
+          "title": "Cargo supplies",
+          "alt": "Cargo supplies — oil interior study for Roads Under Impossible Stars",
+          "source": "stories/roads-under-impossible-stars/art/interiors/02-cargo-supplies.png",
+          "sourceSha256": "0caefc373fbfae7cf88557d11e5cdd423fb6c13b54c8d5cd233616e3c2376b95",
+          "full": {
+            "path": "interiors/roads-under-impossible-stars/02-cargo-supplies-0caefc373fbfae7c.webp",
+            "sha256": "fcbd719abb3382698fa35132f128fab9123823b676cf6f2ceef0138de66a693b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/roads-under-impossible-stars/02-cargo-supplies-0caefc373fbfae7c-thumb.webp",
+            "sha256": "12b31615555c48b14d4f806ed0b6981290d48f75397d93ce610f46caac42bc62",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-foil-blanket-refuge",
+          "title": "Foil blanket refuge",
+          "alt": "Foil blanket refuge — oil interior study for Roads Under Impossible Stars",
+          "source": "stories/roads-under-impossible-stars/art/interiors/03-foil-blanket-refuge.png",
+          "sourceSha256": "d42514f9566e5db9b405bb9deb1eeecc10d7eeeb3513152d8e1324e15b9e9db6",
+          "full": {
+            "path": "interiors/roads-under-impossible-stars/03-foil-blanket-refuge-d42514f9566e5db9.webp",
+            "sha256": "b213f4ae32faa24cec4d9ca962c9607d4289d5f4b9bc58b21bba4a1c2a8c6d9f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/roads-under-impossible-stars/03-foil-blanket-refuge-d42514f9566e5db9-thumb.webp",
+            "sha256": "69cfa0eca2cb8b1832ec85cb2c99d7d0d32c7db85ef9cce3d642c4b032ec013b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "anatomy-of-a-god",
       "title": "The Anatomy of a God",
       "reader": "stories/anatomy-of-a-god.html",
