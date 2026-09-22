@@ -1,0 +1,263 @@
+"""Capture landscape web copies, then publish only the frozen gallery snapshot."""
+
+from __future__ import annotations
+
+from concurrent.futures import ThreadPoolExecutor
+import hashlib
+import html
+from io import BytesIO
+import json
+from pathlib import Path
+import re
+import shutil
+
+from PIL import Image, ImageOps
+
+SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
+DIGEST = re.compile(r"[a-f0-9]{64}\Z")
+ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
+
+
+def _sha256(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def _asset(root: Path, path: str) -> Path:
+    resolved = (root / path).resolve()
+    if not resolved.is_relative_to(root.resolve()):
+        raise ValueError(f"Landscape asset escapes its snapshot: {path}")
+    return resolved
+
+
+def load_snapshot(path: Path) -> dict:
+    if not path.exists():
+        return {"schemaVersion": 1, "stories": []}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Cannot read landscape snapshot: {path}") from exc
+    if not isinstance(data, dict) or data.get("schemaVersion") != 1 or not isinstance(data.get("stories"), list):
+        raise ValueError("Invalid landscape snapshot schema")
+    slugs = set()
+    for story in data["stories"]:
+        if not isinstance(story, dict):
+            raise ValueError("Invalid landscape story")
+        slug = story.get("slug", "")
+        if not isinstance(slug, str) or not SLUG.fullmatch(slug) or slug in slugs:
+            raise ValueError(f"Invalid or duplicate landscape story: {slug}")
+        slugs.add(slug)
+        if not isinstance(story.get("title"), str) or not story["title"].strip():
+            raise ValueError(f"Missing landscape story title: {slug}")
+        if story.get("reader") != f"stories/{slug}.html":
+            raise ValueError(f"Invalid landscape story reader: {slug}")
+        if not isinstance(story.get("images"), list) or not story["images"]:
+            raise ValueError(f"Missing landscape images: {slug}")
+        ids = set()
+        for image in story["images"]:
+            image_id = image.get("id", "") if isinstance(image, dict) else ""
+            if not isinstance(image_id, str) or not SLUG.fullmatch(image_id) or image_id in ids:
+                raise ValueError(f"Invalid or duplicate landscape image: {slug}/{image_id}")
+            ids.add(image_id)
+            for key in ("title", "alt"):
+                if not isinstance(image.get(key), str) or not image[key].strip():
+                    raise ValueError(f"Missing landscape {key}: {slug}/{image_id}")
+            if not isinstance(image.get("sourceSha256"), str) or not DIGEST.fullmatch(image["sourceSha256"]):
+                raise ValueError(f"Invalid landscape source hash: {slug}/{image_id}")
+            source = image.get("source", "")
+            if source not in {f"stories/{slug}/art/landscapes/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}:
+                raise ValueError(f"Invalid landscape source path: {source}")
+            for role, suffix in (("full", ""), ("thumbnail", "-thumb")):
+                asset = image.get(role)
+                expected = f"landscapes/{slug}/{image_id}{suffix}.webp"
+                versioned = f"landscapes/{slug}/{image_id}-{image['sourceSha256'][:16]}{suffix}.webp"
+                if not isinstance(asset, dict) or asset.get("path") not in (expected, versioned):
+                    raise ValueError(f"Invalid landscape {role} path: {slug}/{image_id}")
+                if not isinstance(asset.get("sha256"), str) or not DIGEST.fullmatch(asset["sha256"]):
+                    raise ValueError(f"Invalid landscape asset hash: {expected}")
+                if any(type(asset.get(key)) is not int or asset[key] <= 0 for key in ("width", "height")):
+                    raise ValueError(f"Invalid landscape dimensions: {expected}")
+                if asset["width"] <= asset["height"]:
+                    raise ValueError(f"Expected horizontal landscape: {expected}")
+                _asset(path.parent, asset["path"])
+    return data
+
+
+def _encode(job: tuple[Path, Path, Path, str, str, dict | None]) -> dict:
+    source, repository_root, pages_root, slug, story_title, previous = job
+    image_id = source.stem
+    if not SLUG.fullmatch(image_id):
+        raise ValueError(f"Landscape filename must use lowercase words and hyphens: {source.name}")
+    relative_source = source.resolve().relative_to(repository_root.resolve()).as_posix()
+    source_bytes = source.read_bytes()
+    caption = re.sub(r"^\d+-", "", image_id).replace("-", " ").capitalize()
+    result = {
+        "id": image_id, "title": caption,
+        "alt": f"{caption} — oil landscape for {story_title}",
+        "source": relative_source, "sourceSha256": hashlib.sha256(source_bytes).hexdigest(),
+    }
+    if previous and previous["sourceSha256"] == result["sourceSha256"]:
+        if all(
+            (asset := _asset(pages_root, previous[role]["path"])).is_file()
+            and _sha256(asset) == previous[role]["sha256"]
+            for role in ("full", "thumbnail")
+        ):
+            return {**result, **{role: previous[role] for role in ("full", "thumbnail")}}
+    with Image.open(BytesIO(source_bytes)) as opened:
+        opened.load()
+        image = ImageOps.exif_transpose(opened).convert("RGB")
+    if image.width <= image.height:
+        raise ValueError(f"Expected a horizontal landscape: {source}")
+    for role, suffix, quality in (("full", "", 80), ("thumbnail", "-thumb", 70)):
+        rendition = image
+        if role == "thumbnail":
+            rendition = image.copy()
+            rendition.thumbnail((480, 320), Image.Resampling.LANCZOS)
+        # New source bytes receive new paths, keeping the selected snapshot usable
+        # even if a later image in this capture fails validation or encoding.
+        relative = f"landscapes/{slug}/{image_id}-{result['sourceSha256'][:16]}{suffix}.webp"
+        destination = _asset(pages_root, relative)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        rendition.save(destination, format="WEBP", quality=quality, method=5)
+        result[role] = {"path": relative, "sha256": _sha256(destination),
+                        "width": rendition.width, "height": rendition.height}
+    return result
+
+
+def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None) -> dict:
+    from pages import build
+
+    repository_root = repository_root.resolve()
+    snapshot_path = snapshot_path or repository_root / "pages" / "landscapes.json"
+    catalog = build.load_catalog(snapshot_path.with_name("catalog.json"))
+    published = {story.slug: story for story in catalog.stories}
+    previous = {(story["slug"], image["id"]): image
+                for story in load_snapshot(snapshot_path)["stories"] for image in story["images"]}
+    groups = []
+    jobs = []
+    for directory in sorted((repository_root / "stories").glob("*/art/landscapes")):
+        slug = directory.parents[1].name
+        if slug == "_template":
+            continue
+        if slug not in published:
+            raise ValueError(f"Landscape story is absent from the publication catalog: {slug}")
+        sources = sorted(p for p in directory.iterdir() if p.suffix.lower() in {".png", ".jpg", ".jpeg", ".webp"} and p.is_file())
+        if not sources:
+            raise ValueError(f"No landscape images in {directory}")
+        if len({p.stem for p in sources}) != len(sources):
+            raise ValueError(f"Repeated landscape filename stem in {directory}")
+        story = published[slug]
+        groups.append({"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []})
+        jobs.extend((source, repository_root, snapshot_path.parent, slug, story.title,
+                     previous.get((slug, source.stem))) for source in sources)
+    selected = {story["slug"]: story for story in groups}
+    # Only this explicit capture operation reads production art or encodes web copies.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for job, image in zip(jobs, executor.map(_encode, jobs)):
+            selected[job[3]]["images"].append(image)
+    groups.sort(key=lambda story: (story["title"].casefold(), story["slug"]))
+    data = {"schemaVersion": 1, "stories": groups}
+    snapshot_path.parent.mkdir(parents=True, exist_ok=True)
+    pending = snapshot_path.with_suffix(".json.tmp")
+    pending.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    load_snapshot(pending)
+    check_assets(data, snapshot_path.parent)
+    pending.replace(snapshot_path)
+    old_assets = {image[role]["path"] for image in previous.values() for role in ("full", "thumbnail")}
+    selected_assets = {image[role]["path"] for story in groups for image in story["images"] for role in ("full", "thumbnail")}
+    for obsolete in old_assets - selected_assets:
+        _asset(snapshot_path.parent, obsolete).unlink(missing_ok=True)
+    return data
+
+
+def check_assets(data: dict, pages_root: Path) -> int:
+    count = 0
+    for story in data["stories"]:
+        for image in story["images"]:
+            for role in ("full", "thumbnail"):
+                asset = image[role]
+                source = _asset(pages_root, asset["path"])
+                if not source.is_file() or _sha256(source) != asset["sha256"]:
+                    raise ValueError(f"Missing or changed landscape snapshot asset: {asset['path']}")
+            count += 1
+    return count
+
+
+def render_gallery(data: dict) -> str:
+    from pages import build
+
+    escape = lambda value: html.escape(str(value), quote=True)
+    count = sum(len(story["images"]) for story in data["stories"])
+    options = []
+    groups = []
+    for story in data["stories"]:
+        slug, title, reader = (escape(story[key]) for key in ("slug", "title", "reader"))
+        options.append(f'<option value="{slug}">{title}</option>')
+        cards = []
+        for index, image in enumerate(story["images"], 1):
+            caption, alt, full = escape(image["title"]), escape(image["alt"]), escape(image["full"]["path"])
+            thumb = image["thumbnail"]
+            cards.append(
+                f'<li class="landscape-card" data-search="{title} {caption}">'
+                f'<a class="landscape-link" data-gallery-image data-full="{full}" data-title="{caption}" '
+                f'data-story-title="{title}" data-story-slug="{slug}" data-image-id="{slug}/{escape(image["id"])}" '
+                f'data-reader="{reader}" href="{full}"><figure>'
+                f'<img src="{escape(thumb["path"])}" alt="{alt}" width="{thumb["width"]}" height="{thumb["height"]}" loading="lazy" decoding="async">'
+                f'<figcaption><span class="landscape-number">{index:02}</span><span>{caption}</span></figcaption></figure></a></li>'
+            )
+        groups.append(
+            f'<section class="gallery-story" id="story-{slug}" data-story="{slug}" data-title="{title}">'
+            f'<header class="gallery-story-heading"><h2>{title}</h2><a href="{reader}">Read story →</a></header>'
+            f'<ul class="landscape-grid">{"".join(cards)}</ul></section>'
+        )
+    introduction = (
+        '<section class="gallery-intro"><p class="gallery-eyebrow">The landscape collection</p>'
+        '<h1>Landscape gallery</h1><p class="gallery-lede">Oil-painted landscapes inspired by the Group of Seven, drawn from our stories.</p>'
+        f'<p class="gallery-summary">{count:,} paintings · {len(groups):,} stories</p></section>'
+    )
+    controls = (
+        '<form id="gallery-filters" class="gallery-controls" role="search" hidden>'
+        '<div class="gallery-field"><label for="gallery-search">Search paintings</label>'
+        '<input id="gallery-search" type="search" name="q" placeholder="A place, a mood, a story…"></div>'
+        '<div class="gallery-field"><label for="gallery-story">Story</label>'
+        '<select id="gallery-story" name="story"><option value="">All stories</option>'
+        f'{"".join(options)}</select></div><button id="gallery-reset" type="button">Clear filters</button></form>'
+        f'<p id="gallery-count" class="gallery-count" role="status" aria-live="polite">{count:,} paintings across {len(groups):,} stories</p>'
+        '<p id="gallery-empty" class="gallery-empty" hidden>No landscapes found. Try another search or clear your filters.</p>'
+    )
+    empty = '<p class="gallery-empty">The landscape collection is coming soon.</p>' if not groups else ""
+    viewer = (
+        '<dialog id="gallery-viewer" class="gallery-viewer" aria-labelledby="viewer-title">'
+        '<div class="viewer-toolbar"><p id="viewer-story"></p><button id="viewer-close" type="button" aria-label="Close image viewer">Close ×</button></div>'
+        '<div class="viewer-stage"><button id="viewer-prev" type="button" aria-label="Previous painting">←</button>'
+        '<img id="viewer-image" alt=""><button id="viewer-next" type="button" aria-label="Next painting">→</button></div>'
+        '<div class="viewer-footer"><h2 id="viewer-title"></h2><p id="viewer-position"></p>'
+        '<a id="viewer-full" target="_blank" rel="noopener">Open image ↗</a><a id="viewer-read-story">Read story →</a>'
+        '<p id="viewer-error" role="status" hidden>This image could not load. Try opening it directly.</p></div></dialog>'
+    )
+    return build._page(
+        "Landscape gallery — Story Computing Machine", introduction + controls + empty
+        + f'<div class="gallery-collection">{"".join(groups)}</div>' + viewer,
+        "index.html", "styles.css", "theme.js", current="landscapes",
+        script_href="landscape-gallery.js", extra_stylesheet_hrefs=("landscape-gallery.css",),
+        main_class="landscape-gallery", page_path="gallery.html",
+        description=f"Explore {count:,} oil-painted landscapes from {len(groups):,} stories, inspired by the Group of Seven.",
+    )
+
+
+def build_gallery(destination: Path, snapshot_path: Path, catalog) -> int:
+    data = load_snapshot(snapshot_path)
+    published = {story.slug for story in catalog.stories}
+    if any(story["slug"] not in published for story in data["stories"]):
+        raise ValueError("A landscape reader is absent from the publication catalog")
+    count = check_assets(data, snapshot_path.parent)
+    for story in data["stories"]:
+        for image in story["images"]:
+            for role in ("full", "thumbnail"):
+                relative = image[role]["path"]
+                target = _asset(destination, relative)
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(_asset(snapshot_path.parent, relative), target)
+    for filename in ASSET_NAMES:
+        shutil.copyfile(Path(__file__).with_name(filename), destination / filename)
+    (destination / "gallery.html").write_text(render_gallery(data), encoding="utf-8")
+    return count

@@ -1105,6 +1105,7 @@ def _page(
     description: str = SITE_DESCRIPTION,
     page_type: str = "website",
 ) -> str:
+    gallery_href = f'{library_href.rsplit("/", 1)[0]}/gallery.html' if "/" in library_href else "gallery.html"
     library_href = html.escape(library_href, quote=True)
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
     theme_toggle = (
@@ -1115,10 +1116,12 @@ def _page(
         '<span class="theme-label" data-theme-label="dark">Dark</span></button>'
     )
     library_current = ' aria-current="page"' if current == "library" else ""
+    gallery_current = ' aria-current="page"' if current == "landscapes" else ""
     header = (
         f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
         f'<nav class="site-nav" aria-label="Primary">'
-        f'<a href="{library_href}"{library_current}>Library</a></nav>'
+        f'<a href="{library_href}"{library_current}>Library</a>'
+        f'<a href="{html.escape(gallery_href, quote=True)}"{gallery_current}>Landscapes</a></nav>'
         f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
     )
     theme_script = (
@@ -1322,6 +1325,7 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
             render_story(story, editions, comics),
             encoding="utf-8",
         )
+    _landscape_module().build_gallery(destination, snapshot_path.with_name("landscapes.json"), catalog)
     return catalog
 
 
@@ -1336,6 +1340,12 @@ def _graphic_novel_module():
     sys.path.insert(0, str(REPOSITORY_ROOT))
     from pages import graphic_novels
     return graphic_novels
+
+
+def _landscape_module():
+    sys.path.insert(0, str(REPOSITORY_ROOT))
+    from pages import landscape_gallery
+    return landscape_gallery
 
 
 def main() -> None:
@@ -1353,6 +1363,7 @@ def main() -> None:
     comic_parser = commands.add_parser("capture-graphic-novel", help="Capture one approved comic PDF.")
     comic_parser.add_argument("slug")
     commands.add_parser("capture-all", help="Refresh every published story from its source package.")
+    commands.add_parser("capture-landscapes", help="Store landscape gallery web copies without recapturing prose.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
     args = parser.parse_args()
@@ -1371,6 +1382,10 @@ def main() -> None:
     elif args.command == "capture-all":
         catalog = capture_all()
         print(f"Stored {len(catalog.stories)} stories in {SNAPSHOT_PATH}")
+    elif args.command == "capture-landscapes":
+        gallery = _landscape_module().capture_landscapes(REPOSITORY_ROOT)
+        count = sum(len(story["images"]) for story in gallery["stories"])
+        print(f"Stored {count} landscapes across {len(gallery['stories'])} stories")
     else:
         catalog = load_catalog()
         source_count, published_count, canon_count = validate_repository_inventory(
@@ -1382,6 +1397,11 @@ def main() -> None:
         comics = _graphic_novel_module().load_snapshot(SNAPSHOT_PATH.with_name("graphic-novels.json"), catalog)
         if comics:
             print(f"PASS: {len(comics)} stored comic PDFs")
+        landscape_path = SNAPSHOT_PATH.with_name("landscapes.json")
+        landscapes = _landscape_module().load_snapshot(landscape_path)
+        if landscapes["stories"]:
+            count = _landscape_module().check_assets(landscapes, landscape_path.parent)
+            print(f"PASS: {count} stored landscape paintings")
         print(
             f"PASS: {published_count} published stories and covers; "
             f"{source_count} source packages ({canon_count} canon, "
