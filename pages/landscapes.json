@@ -8793,25 +8793,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-three-bands-on-the-pond",
-          "title": "Three bands on the pond",
-          "alt": "Three bands on the pond — oil landscape for What the Wind Wanted",
-          "source": "stories/what-the-wind-wanted/art/landscapes/05-three-bands-on-the-pond.png",
-          "sourceSha256": "dde3437016af51c803936e39bf9fd0beeac9ffe3c442d70b6d877999dc7686bc",
-          "full": {
-            "path": "landscapes/what-the-wind-wanted/05-three-bands-on-the-pond.webp",
-            "sha256": "e58594da6541eb284bc6bff08217fd39e02d0863e29e3cf656388a01b2042a0c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-the-wind-wanted/05-three-bands-on-the-pond-thumb.webp",
-            "sha256": "ce34a0f9093cb8552b994c789924903a4917cca87dd26cc4151c4dbd06238231",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12418,6 +12399,11 @@
       "source": "stories/what-the-town-owed-her/art/landscapes/03-the-fallen-tree-and-broken-span.png",
       "sourceSha256": "ab4c3b5ff6b1bf0bc4ebdcb41d44242cda4cb5596a1f088e061b0fe8b6cb96f1",
       "reason": "The tree strikes and bridge breaks during continuing heavy rain, with Leonie carrying a light. This blue-sky sunlit view contradicts the rescue's weather and lighting."
+    },
+    {
+      "source": "stories/what-the-wind-wanted/art/landscapes/05-three-bands-on-the-pond.png",
+      "sourceSha256": "dde3437016af51c803936e39bf9fd0beeac9ffe3c442d70b6d877999dc7686bc",
+      "reason": "A second view of the same pond repeats the retained warm basin; its ordinary ripples add little distinct visual evidence of the three-band wind exchange, while changing the basin's apparent geography."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
