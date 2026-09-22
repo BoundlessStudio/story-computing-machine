@@ -8345,44 +8345,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-the-kiln-neighborhood",
-          "title": "The kiln neighborhood",
-          "alt": "The kiln neighborhood — oil landscape for Thirteen Years Borrowed",
-          "source": "stories/thirteen-years-borrowed/art/landscapes/04-the-kiln-neighborhood.png",
-          "sourceSha256": "064c3cda9525839e8fcd190db69585f7b35e0e05e9c4a21cdd2ad299d61e103b",
-          "full": {
-            "path": "landscapes/thirteen-years-borrowed/04-the-kiln-neighborhood.webp",
-            "sha256": "81965cbdb1f56d9c878f6cb4c726c28bdc7dcc52b62a0ea9b0affbc065734903",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/thirteen-years-borrowed/04-the-kiln-neighborhood-thumb.webp",
-            "sha256": "61a36a51f95638c8c9ba70dc9af07c7777902d05581c36e34b6f0c91e9e2bf16",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-rain-against-the-front-windows",
-          "title": "Rain against the front windows",
-          "alt": "Rain against the front windows — oil landscape for Thirteen Years Borrowed",
-          "source": "stories/thirteen-years-borrowed/art/landscapes/05-rain-against-the-front-windows.png",
-          "sourceSha256": "d3e8b25954402f7a7e7d47c0a287f4929d9c1a7233814d7422819128794bb908",
-          "full": {
-            "path": "landscapes/thirteen-years-borrowed/05-rain-against-the-front-windows.webp",
-            "sha256": "6c2a3d9514680b1e34d5549d97e822407cce5b85dba0cfe9fb33d257e636661d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/thirteen-years-borrowed/05-rain-against-the-front-windows-thumb.webp",
-            "sha256": "25f144b837473372cf7f24270a12bf295b24794f5acbe860729124dae1dbad92",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12593,6 +12555,16 @@
       "source": "stories/the-wrong-side-of-the-part/art/landscapes/05-windows-above-the-shop.png",
       "sourceSha256": "0acec3dde716422723e912da6d2a4c2793d7fde6969be83ec7914fa90773ae11",
       "reason": "Another exterior of the same shop street adds no distinct setting or observed view."
+    },
+    {
+      "source": "stories/thirteen-years-borrowed/art/landscapes/04-the-kiln-neighborhood.png",
+      "sourceSha256": "064c3cda9525839e8fcd190db69585f7b35e0e05e9c4a21cdd2ad299d61e103b",
+      "reason": "Nivra mentions starting work at the kiln years earlier; the story never visits or observes this kiln-neighborhood panorama."
+    },
+    {
+      "source": "stories/thirteen-years-borrowed/art/landscapes/05-rain-against-the-front-windows.png",
+      "sourceSha256": "d3e8b25954402f7a7e7d47c0a287f4929d9c1a7233814d7422819128794bb908",
+      "reason": "The late-night rain is heard against the windows during the indoor body-transfer scene. This outside street view moves that moment outdoors and repeats Nivra's street."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
