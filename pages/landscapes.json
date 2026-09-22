@@ -2647,6 +2647,25 @@
           }
         },
         {
+          "id": "04-the-river-crossing",
+          "title": "The river crossing",
+          "alt": "The river crossing — oil landscape for Only Eighteen",
+          "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
+          "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
+          "full": {
+            "path": "landscapes/only-eighteen/04-the-river-crossing.webp",
+            "sha256": "a62232def20ee4bb8a5234b6483fd397b16bc7e41c31faba70cd2399c44cf97a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/only-eighteen/04-the-river-crossing-thumb.webp",
+            "sha256": "270c1030c2225bf72a7881de974d5b6e474a12643bbcfc5252ef02d5c7e6021f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "05-the-bend-after-departure",
           "title": "The bend after departure",
           "alt": "The bend after departure — oil landscape for Only Eighteen",
@@ -11032,11 +11051,6 @@
       "source": "stories/only-eighteen/art/landscapes/03-the-narrow-path-behind-the-laundry.png",
       "sourceSha256": "42201c7a9a2d785dd32ed6630e52a998660d4e9d88b0bb2b0caf79a4df0bb0b3",
       "reason": "The path behind the laundry belongs to a wished-for outing Ceveth imagines instead of letting the twins leave; it is not taken."
-    },
-    {
-      "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
-      "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
-      "reason": "The river crossing is a future point where the twins will separate, not a setting reached in the story."
     },
     {
       "source": "stories/pool-sovereign/art/landscapes/01-snow-around-the-pool.png",
