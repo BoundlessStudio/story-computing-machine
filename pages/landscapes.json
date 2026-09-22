@@ -1794,82 +1794,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-old-club-district",
-          "title": "The old club district",
-          "alt": "The old club district — oil landscape for Nobody Spends Her Name",
-          "source": "stories/empire-within/art/landscapes/02-the-old-club-district.png",
-          "sourceSha256": "086eff5ced2689cbf7c24d8e14198dbbf6d393e0f0ae00afbe9c2365dcc57439",
-          "full": {
-            "path": "landscapes/empire-within/02-the-old-club-district.webp",
-            "sha256": "e3d9370580beca4924efb021ed8a57198132f245bb2039877ffb37fe6ff2c00f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/empire-within/02-the-old-club-district-thumb.webp",
-            "sha256": "298cd59f99e9e2e4107ac2aed874dde4b47058d254441565c18c33f85fef7ab9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-two-streets-away",
-          "title": "Two streets away",
-          "alt": "Two streets away — oil landscape for Nobody Spends Her Name",
-          "source": "stories/empire-within/art/landscapes/03-two-streets-away.png",
-          "sourceSha256": "e3bcf0921ad50c04dbd653109b932af4b080367350ad4f336cdc0ae7b753ddfc",
-          "full": {
-            "path": "landscapes/empire-within/03-two-streets-away.webp",
-            "sha256": "643ed3d25b1a0d6ca31d3604b814dc7f3fdbe3db1a241759c182f90a4e331348",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/empire-within/03-two-streets-away-thumb.webp",
-            "sha256": "e0b810c842962d670ae7234b8b704515c833aed139d59ad411da5e1fd7ecf751",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-east-service-approach",
-          "title": "East service approach",
-          "alt": "East service approach — oil landscape for Nobody Spends Her Name",
-          "source": "stories/empire-within/art/landscapes/04-east-service-approach.png",
-          "sourceSha256": "56f601298f4d498039d3da4d4be8dab6f240bbb5bf080a34a9428500f7215532",
-          "full": {
-            "path": "landscapes/empire-within/04-east-service-approach.webp",
-            "sha256": "8d8a0e506914492894b9ca2c66af1542df5ff0177d132ce8a4c42f5c3088823d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/empire-within/04-east-service-approach-thumb.webp",
-            "sha256": "747fa68d49dd32684ccf94553120a01c87756e12b36af700c16774d7b9b217f6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-city-after-the-sirens",
-          "title": "The city after the sirens",
-          "alt": "The city after the sirens — oil landscape for Nobody Spends Her Name",
-          "source": "stories/empire-within/art/landscapes/05-the-city-after-the-sirens.png",
-          "sourceSha256": "1d4777011b2ef8b89956f32f3162fe2e22e1ee25c6c5ba6a4e3eca30f0b554f4",
-          "full": {
-            "path": "landscapes/empire-within/05-the-city-after-the-sirens.webp",
-            "sha256": "15bafd27404d714255ecec9f87914ae248944d0ce10b39e0345751468fba2ff9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/empire-within/05-the-city-after-the-sirens-thumb.webp",
-            "sha256": "c620a43cdbb3fc3e0879010928c310ed76630b6a33aa58bac08461c439094d1f",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -17089,6 +17013,26 @@
       "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
       "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
       "reason": "The second dawn travels in seven unequal lines; the Glass Sea is not changed into an ordinary liquid ocean. This conventional coastal sunset with natural waves and pine shore loses both defining facts."
+    },
+    {
+      "source": "stories/empire-within/art/landscapes/02-the-old-club-district.png",
+      "sourceSha256": "086eff5ced2689cbf7c24d8e14198dbbf6d393e0f0ae00afbe9c2365dcc57439",
+      "reason": "Turns a city athletic club reached during a night operation into an isolated overgrown lakeside ruin in daylight."
+    },
+    {
+      "source": "stories/empire-within/art/landscapes/03-two-streets-away.png",
+      "sourceSha256": "e3bcf0921ad50c04dbd653109b932af4b080367350ad4f336cdc0ae7b753ddfc",
+      "reason": "The location two streets away is relayed by phone; this extra street view repeats the retained drive without a depicted scene."
+    },
+    {
+      "source": "stories/empire-within/art/landscapes/04-east-service-approach.png",
+      "sourceSha256": "56f601298f4d498039d3da4d4be8dab6f240bbb5bf080a34a9428500f7215532",
+      "reason": "Invents an overgrown outdoor service approach where the action remains at the basement east door and indoor machinery corridor."
+    },
+    {
+      "source": "stories/empire-within/art/landscapes/05-the-city-after-the-sirens.png",
+      "sourceSha256": "1d4777011b2ef8b89956f32f3162fe2e22e1ee25c6c5ba6a4e3eca30f0b554f4",
+      "reason": "Adds an unobserved panoramic waterfront city after sirens; the ending stays inside the club while engines are heard leaving."
     },
     {
       "source": "stories/every-flower-she-knew/art/landscapes/05-lamps-below-the-ridge.png",
