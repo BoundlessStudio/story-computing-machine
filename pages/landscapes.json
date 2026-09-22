@@ -7202,44 +7202,6 @@
           }
         },
         {
-          "id": "02-northbound-rail-corridor",
-          "title": "Northbound rail corridor",
-          "alt": "Northbound rail corridor — oil landscape for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/landscapes/02-northbound-rail-corridor.png",
-          "sourceSha256": "89b88c511def29548c497687b286fd2406b345f306bc60241fea8b8e06f97e0d",
-          "full": {
-            "path": "landscapes/the-unfixed-face/02-northbound-rail-corridor.webp",
-            "sha256": "22c7365fb9d70f44b3c44cc9c7aa5c172801409c46bc5d7a62c2320cb4163634",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unfixed-face/02-northbound-rail-corridor-thumb.webp",
-            "sha256": "fb82f3a2431bdc2cc7bdae7a366791a08bd274e9e7559b55867c49fa71c03e42",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-western-windows-at-sunset",
-          "title": "Western windows at sunset",
-          "alt": "Western windows at sunset — oil landscape for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/landscapes/03-western-windows-at-sunset.png",
-          "sourceSha256": "2ac55460565dd7ec75711f03251401d94f0c783315748a7571206739c7f2e7e1",
-          "full": {
-            "path": "landscapes/the-unfixed-face/03-western-windows-at-sunset.webp",
-            "sha256": "21d3d4d1956fdb98dbf2de1a180e29853be845b92339a0427cff00b229dc8e52",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unfixed-face/03-western-windows-at-sunset-thumb.webp",
-            "sha256": "d732602b1fa433ff9df5396f53004f745176f29ae9ee8a3772d57a68e9e497f8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-tram-stop-at-evening",
           "title": "The tram stop at evening",
           "alt": "The tram stop at evening — oil landscape for The Unfixed Face",
@@ -7254,25 +7216,6 @@
           "thumbnail": {
             "path": "landscapes/the-unfixed-face/04-the-tram-stop-at-evening-thumb.webp",
             "sha256": "7e3dc88a2aeb504e7b568ec81178992ffea72930f87a5522a5cc76d5c4272273",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-after-the-studio-closes",
-          "title": "After the studio closes",
-          "alt": "After the studio closes — oil landscape for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/landscapes/05-after-the-studio-closes.png",
-          "sourceSha256": "a457097cbe23fde81ebbf62d501a3f14bc283aa10f568c43b985d76be036fe71",
-          "full": {
-            "path": "landscapes/the-unfixed-face/05-after-the-studio-closes.webp",
-            "sha256": "96ccd57a1206f3e1399dd8012913bb2b5962792389de3c4f43c2d5f2df5aa7e6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unfixed-face/05-after-the-studio-closes-thumb.webp",
-            "sha256": "c246a50ee18b5904d7df55ce87e6f231aa85e59c262dd18b57ace0f4f1156eeb",
             "width": 480,
             "height": 320
           }
@@ -13152,6 +13095,21 @@
       "source": "stories/the-unfinished-sunset/art/landscapes/05-night-beyond-the-ditch.png",
       "sourceSha256": "1eb0406aa29e83f4e4e65eb6ce9a8474d84959bbc766791425e0e24a89c279b3",
       "reason": "The boundary is a dry ditch that characters step across, with Neth walking six paces beyond it. The painting makes it a deep, steep-sided rock ravine that cannot serve that geography."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/landscapes/02-northbound-rail-corridor.png",
+      "sourceSha256": "89b88c511def29548c497687b286fd2406b345f306bc60241fea8b8e06f97e0d",
+      "reason": "No northbound snowy rail journey is shown. The story takes place in the studio and immediately outside it; the train station is mentioned only as where cold food was bought."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/landscapes/03-western-windows-at-sunset.png",
+      "sourceSha256": "2ac55460565dd7ec75711f03251401d94f0c783315748a7571206739c7f2e7e1",
+      "reason": "Repeats the same studio windows and evening street already represented by the retained exterior, without a new setting."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/landscapes/05-after-the-studio-closes.png",
+      "sourceSha256": "a457097cbe23fde81ebbf62d501a3f14bc283aa10f568c43b985d76be036fe71",
+      "reason": "A third studio-neighborhood view from an invented elevated viewpoint adds no distinct story setting."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
