@@ -199,25 +199,6 @@
       "reader": "stories/a-crown-for-the-endless-fire.html",
       "images": [
         {
-          "id": "01-summer-mountain-vents",
-          "title": "Summer mountain vents",
-          "alt": "Summer mountain vents — oil landscape for A Crown for the Endless Fire",
-          "source": "stories/a-crown-for-the-endless-fire/art/landscapes/01-summer-mountain-vents.png",
-          "sourceSha256": "57d5335d20301c58645efda4045d081d8e8962505a6d5b9924742c690601918e",
-          "full": {
-            "path": "landscapes/a-crown-for-the-endless-fire/01-summer-mountain-vents.webp",
-            "sha256": "b0aa38bd5b00e3c0ba4e53512cf2b3aeedc8e2ccb4899395a94775ce0af45498",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-for-the-endless-fire/01-summer-mountain-vents-thumb.webp",
-            "sha256": "470a470db486df5e964c3fa23b325db28f2164fddb64955c79b114226ea2dacb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-endless-fire-gulf",
           "title": "The endless fire gulf",
           "alt": "The endless fire gulf — oil landscape for A Crown for the Endless Fire",
@@ -232,63 +213,6 @@
           "thumbnail": {
             "path": "landscapes/a-crown-for-the-endless-fire/02-the-endless-fire-gulf-thumb.webp",
             "sha256": "3bd558ba0fb95898bcefc54963cb21196b4d4a0b43db0386f02e23943d96d663",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-black-bridge-across-the-gulf",
-          "title": "Black bridge across the gulf",
-          "alt": "Black bridge across the gulf — oil landscape for A Crown for the Endless Fire",
-          "source": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
-          "sourceSha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9",
-          "full": {
-            "path": "landscapes/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf.webp",
-            "sha256": "e30757541ce79368baa6ad1adbab64be8f40e5da5b953f9b78f4758cf9c31e58",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf-thumb.webp",
-            "sha256": "232aaf0e6fe8b42bce7cc9eade26ef7f8f91c1adb5bfb7ff5a0ea1c02381a3b1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-pale-seam-over-the-fire",
-          "title": "Pale seam over the fire",
-          "alt": "Pale seam over the fire — oil landscape for A Crown for the Endless Fire",
-          "source": "stories/a-crown-for-the-endless-fire/art/landscapes/04-pale-seam-over-the-fire.png",
-          "sourceSha256": "51165e46791cedb1083d700d10deaf4b0181c7ab901569e95e48265af3cc2ab8",
-          "full": {
-            "path": "landscapes/a-crown-for-the-endless-fire/04-pale-seam-over-the-fire.webp",
-            "sha256": "b81c03d752b5b1560d19cc8a1020a39f7032461e3814ccaa9948ac9fb175f80c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-for-the-endless-fire/04-pale-seam-over-the-fire-thumb.webp",
-            "sha256": "352831f71f9bb17b61213d123258ae83782ee6db8dd7dbb1f7508b5be66a8af9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-furnace-depths-and-dim-light",
-          "title": "Furnace depths and dim light",
-          "alt": "Furnace depths and dim light — oil landscape for A Crown for the Endless Fire",
-          "source": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
-          "sourceSha256": "d71ef729e62a53c4a36a2820e7cbcb2cd346257bf232155a8cd5277ed2781851",
-          "full": {
-            "path": "landscapes/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light.webp",
-            "sha256": "eb1321ffc11d63d2ac2a15efdec2f9a94c3df45fc2f05704dcf905ad0f1473f4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light-thumb.webp",
-            "sha256": "a2ab6e06c23f2ad29731c0d2b5fd9f63eb5050745880b96ed411088dc939787a",
             "width": 480,
             "height": 320
           }
@@ -19380,6 +19304,26 @@
       "source": "stories/a-beginner-of-considerable-age/art/landscapes/05-ridge-and-cave.png",
       "sourceSha256": "5f3bec4ed11058f07c2d78f39f0234f5f33687d0430e57897c75fedae4939ad6",
       "reason": "The cave is a possible retreat Orsugal considers and declines, not a visited landscape; this additional mountain vista expands a passing thought beyond the three settings used."
+    },
+    {
+      "source": "stories/a-crown-for-the-endless-fire/art/landscapes/01-summer-mountain-vents.png",
+      "sourceSha256": "57d5335d20301c58645efda4045d081d8e8962505a6d5b9924742c690601918e",
+      "reason": "The entire story stays within mine galleries, fire gulf and service stairs. The sunny mountain exterior turns summer ventilation described from underground into an invented outdoor scene."
+    },
+    {
+      "source": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
+      "sourceSha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9",
+      "reason": "The source bridge is about thirty paces, supported by six lengthwise ribs seated in opposite walls. The painting substitutes a monumental arched viaduct with tall piers descending into the fire."
+    },
+    {
+      "source": "stories/a-crown-for-the-endless-fire/art/landscapes/04-pale-seam-over-the-fire.png",
+      "sourceSha256": "51165e46791cedb1083d700d10deaf4b0181c7ab901569e95e48265af3cc2ab8",
+      "reason": "The pale seam is a narrow air leak inside the mine beside the bridge, not a broad sunlit canyon under open sky. This moves underground action outdoors."
+    },
+    {
+      "source": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
+      "sourceSha256": "d71ef729e62a53c4a36a2820e7cbcb2cd346257bf232155a8cd5277ed2781851",
+      "reason": "The source explicitly gives the fire no visible floor or fuel. This painting supplies a visible molten river/floor and repeats the already represented gulf."
     },
     {
       "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
