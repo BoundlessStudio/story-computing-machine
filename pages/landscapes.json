@@ -559,44 +559,6 @@
           }
         },
         {
-          "id": "02-wet-stone-and-trees",
-          "title": "Wet stone and trees",
-          "alt": "Wet stone and trees — oil landscape for A Place for the Living",
-          "source": "stories/a-place-for-the-living/art/landscapes/02-wet-stone-and-trees.png",
-          "sourceSha256": "5bc63d3bf6e5a07d69d61982e43db97be671e3be8e4cdf3118c6f02f6e9b6e86",
-          "full": {
-            "path": "landscapes/a-place-for-the-living/02-wet-stone-and-trees.webp",
-            "sha256": "711629f15552722e89370313d61536d88f8e789147a00c1d03290cc90b301138",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-place-for-the-living/02-wet-stone-and-trees-thumb.webp",
-            "sha256": "273681e66e0a6a4ddeec4ecca8f1200fa053b9f5dbeb2741d83be50660f3acf6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-rain-dark-window-view",
-          "title": "Rain dark window view",
-          "alt": "Rain dark window view — oil landscape for A Place for the Living",
-          "source": "stories/a-place-for-the-living/art/landscapes/03-rain-dark-window-view.png",
-          "sourceSha256": "8468577ce4f9c3d7dd103923536f4dfe0ed1b643d83ee247ca40d5f9734d1446",
-          "full": {
-            "path": "landscapes/a-place-for-the-living/03-rain-dark-window-view.webp",
-            "sha256": "00dba3312c86a78957454c798322b3fb582f225040e5551038e2c969893f66aa",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-place-for-the-living/03-rain-dark-window-view-thumb.webp",
-            "sha256": "32dacf5843f6d96e5ee2ac14fea8adae632f7e666ee73dc3b09dad2a46c06ed9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-cold-mist-at-the-eaves",
           "title": "Cold mist at the eaves",
           "alt": "Cold mist at the eaves — oil landscape for A Place for the Living",
@@ -611,25 +573,6 @@
           "thumbnail": {
             "path": "landscapes/a-place-for-the-living/04-cold-mist-at-the-eaves-thumb.webp",
             "sha256": "63c1eac44704167ed08925f909bd1d5c8c9880ac4d9b5a2baf4ecfc57872751c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-home-lights-after-rain",
-          "title": "Home lights after rain",
-          "alt": "Home lights after rain — oil landscape for A Place for the Living",
-          "source": "stories/a-place-for-the-living/art/landscapes/05-home-lights-after-rain.png",
-          "sourceSha256": "3a09b36e730dd623a40f986e7a5e9d95fa3ec317ef88c84d9cc452a9bc2fee26",
-          "full": {
-            "path": "landscapes/a-place-for-the-living/05-home-lights-after-rain.webp",
-            "sha256": "97b7e463de773f1842e6095d5d00f3c3120d188397e5bb8bf151e87649e0c622",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-place-for-the-living/05-home-lights-after-rain-thumb.webp",
-            "sha256": "db2019c090c7a133871a1466ae3a3a7a8e8a79032f977f48c8d2ddbac0f0f6a7",
             "width": 480,
             "height": 320
           }
@@ -18809,6 +18752,21 @@
       "source": "stories/a-place-for-sunday/art/landscapes/05-city-roofs-beyond-the-olive.png",
       "sourceSha256": "497c05d82bef111dbcf01b56a5c1a29c1cf0247a4d0fc89d10a5ef97acc61112",
       "reason": "Duplicates the retained olive-and-lavender doorstep with a new elevated hillside panorama. The actual changed view is city roofs from Cosimo's kitchen window, not another olive-grove landscape."
+    },
+    {
+      "source": "stories/a-place-for-the-living/art/landscapes/02-wet-stone-and-trees.png",
+      "sourceSha256": "5bc63d3bf6e5a07d69d61982e43db97be671e3be8e4cdf3118c6f02f6e9b6e86",
+      "reason": "An additional woodland stone path has no distinct scene; it repeats the wet approach already represented by the house-arrival painting."
+    },
+    {
+      "source": "stories/a-place-for-the-living/art/landscapes/03-rain-dark-window-view.png",
+      "sourceSha256": "8468577ce4f9c3d7dd103923536f4dfe0ed1b643d83ee247ca40d5f9734d1446",
+      "reason": "The text says only rain-dark window while surveying the dining room. This broad street view invents geography beyond it and adds another redundant wet approach."
+    },
+    {
+      "source": "stories/a-place-for-the-living/art/landscapes/05-home-lights-after-rain.png",
+      "sourceSha256": "3a09b36e730dd623a40f986e7a5e9d95fa3ec317ef88c84d9cc452a9bc2fee26",
+      "reason": "The departure ends inside the car listening to rain, after cold mist under the eave. This clear night of home lights invents a later weather state and repeats the same approach."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
