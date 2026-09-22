@@ -4275,63 +4275,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-side-passage-after-rain",
-          "title": "Side passage after rain",
-          "alt": "Side passage after rain — oil landscape for The House of Possible Uses",
-          "source": "stories/the-hoarders-house/art/landscapes/03-side-passage-after-rain.png",
-          "sourceSha256": "41b9a8a32926146b7ed8e0f9cc7a8bf7d5c45cc0af3cb9eca08c3afb5c261dbf",
-          "full": {
-            "path": "landscapes/the-hoarders-house/03-side-passage-after-rain.webp",
-            "sha256": "152758402bfb8640bbf9fca15d8920f83fd105631abbf29b5f18ae0fa4d6c11a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hoarders-house/03-side-passage-after-rain-thumb.webp",
-            "sha256": "c2911d022769b39759fd67220908d2713bedcb554a2f6ba94c00990a1dacdd20",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-midnight-neighborhood",
-          "title": "Midnight neighborhood",
-          "alt": "Midnight neighborhood — oil landscape for The House of Possible Uses",
-          "source": "stories/the-hoarders-house/art/landscapes/04-midnight-neighborhood.png",
-          "sourceSha256": "02cfb53c11e9a42f4a38ddef6d30fa35daebf404606711c49740c2637d6075a6",
-          "full": {
-            "path": "landscapes/the-hoarders-house/04-midnight-neighborhood.webp",
-            "sha256": "273797ec1171bb522a5833ffc1b1f334a2fbdd92092a8eb9188c8afd6ae3a615",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hoarders-house/04-midnight-neighborhood-thumb.webp",
-            "sha256": "64cc26ca8abcbc7d2cabc6849b4aef1feba8c217cfdcb1def8364783f1783c01",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-morning-over-the-small-yard",
-          "title": "Morning over the small yard",
-          "alt": "Morning over the small yard — oil landscape for The House of Possible Uses",
-          "source": "stories/the-hoarders-house/art/landscapes/05-morning-over-the-small-yard.png",
-          "sourceSha256": "1ca2b5bb0a7f853542257efe1baae5ac6b850ccfae8c610a0f7048ebd4a72037",
-          "full": {
-            "path": "landscapes/the-hoarders-house/05-morning-over-the-small-yard.webp",
-            "sha256": "c4ec71515935d3aa9b20f1b400899ce70c9ad1e7e456f3af3000039f28d1bd02",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-hoarders-house/05-morning-over-the-small-yard-thumb.webp",
-            "sha256": "946a6267efedd63b32670c0d50f5604b5436e5f54f071b09b9ccb1459a575aec",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15160,6 +15103,21 @@
       "source": "stories/the-help-network/art/landscapes/05-the-closed-underpass.png",
       "sourceSha256": "7f2a6b6ea7f7bd827fa707df5751e17e33971a09e33fdad0f532ae8fd8782402",
       "reason": "The story is enacted indoors through messages and conversations. These landscapes turn remote contacts' locations and brief reports into outdoor scenes; the school scene is in a back stairwell, not the landscaped drive."
+    },
+    {
+      "source": "stories/the-hoarders-house/art/landscapes/03-side-passage-after-rain.png",
+      "sourceSha256": "41b9a8a32926146b7ed8e0f9cc7a8bf7d5c45cc0af3cb9eca08c3afb5c261dbf",
+      "reason": "Repeats the small yard/passage already represented by image 02 without a separate outdoor scene."
+    },
+    {
+      "source": "stories/the-hoarders-house/art/landscapes/04-midnight-neighborhood.png",
+      "sourceSha256": "02cfb53c11e9a42f4a38ddef6d30fa35daebf404606711c49740c2637d6075a6",
+      "reason": "Invents a midnight neighborhood scene; the spatial crisis and its resolution occur inside the house."
+    },
+    {
+      "source": "stories/the-hoarders-house/art/landscapes/05-morning-over-the-small-yard.png",
+      "sourceSha256": "1ca2b5bb0a7f853542257efe1baae5ac6b850ccfae8c610a0f7048ebd4a72037",
+      "reason": "Adds a third view of the same small yard; image 02 already contains the source's nettles, fence and rain barrel."
     },
     {
       "source": "stories/the-hollow-cask/art/landscapes/03-storm-over-the-hall-roof.png",
