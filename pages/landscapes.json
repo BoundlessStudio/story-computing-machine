@@ -5346,25 +5346,6 @@
           }
         },
         {
-          "id": "02-the-eastbound-street",
-          "title": "The eastbound street",
-          "alt": "The eastbound street — oil landscape for The Next Train",
-          "source": "stories/the-next-train/art/landscapes/02-the-eastbound-street.png",
-          "sourceSha256": "95963e9ff509b41d77ee2ab515aa18a88449e8800a2df4085a3f70b7655208fb",
-          "full": {
-            "path": "landscapes/the-next-train/02-the-eastbound-street.webp",
-            "sha256": "29d891f6d2ae607f1431279d5109d3975f062b4fb05761e5c209d60745554538",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-next-train/02-the-eastbound-street-thumb.webp",
-            "sha256": "53814fe3fbc3ce7c3f395b6ef088fc8548e4c9432b07a17e8dad4a30e2c2a6ec",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-signal-lights-at-dusk",
           "title": "Signal lights at dusk",
           "alt": "Signal lights at dusk — oil landscape for The Next Train",
@@ -5379,44 +5360,6 @@
           "thumbnail": {
             "path": "landscapes/the-next-train/03-signal-lights-at-dusk-thumb.webp",
             "sha256": "3e3432fe355194530693377d9cd99da56cd7a046c3e46c8d51b5d2cdfbf731a6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-three-streets-from-home",
-          "title": "Three streets from home",
-          "alt": "Three streets from home — oil landscape for The Next Train",
-          "source": "stories/the-next-train/art/landscapes/04-three-streets-from-home.png",
-          "sourceSha256": "bf97d3a58c973db34ec85a7b3e8ba5771d7075975af0b5cc51c8b9f5e8cec1d8",
-          "full": {
-            "path": "landscapes/the-next-train/04-three-streets-from-home.webp",
-            "sha256": "6f3c9672a71be030ac83bcd8be13b6ec9d2f254da2408b865763c756170a5c4e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-next-train/04-three-streets-from-home-thumb.webp",
-            "sha256": "4a5c8a26d61568a8c4bb2baa19a14d7e84718547294187fa77728fc9d94786f5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-temple-steps-in-evening",
-          "title": "Temple steps in evening",
-          "alt": "Temple steps in evening — oil landscape for The Next Train",
-          "source": "stories/the-next-train/art/landscapes/05-temple-steps-in-evening.png",
-          "sourceSha256": "e3ea477f7f7b8486ab5e831dde72893ae5462aa058c7df33859128718686c2c9",
-          "full": {
-            "path": "landscapes/the-next-train/05-temple-steps-in-evening.webp",
-            "sha256": "eabf971882ff29d650c4c1f5ef44c24ae0d8863f710c4eff1fd9923f1a344342",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-next-train/05-temple-steps-in-evening-thumb.webp",
-            "sha256": "486dd275aa71fcfcce5a972bb4cc84ba40b2959af1a6b96147a8af9441ea427c",
             "width": 480,
             "height": 320
           }
@@ -14555,6 +14498,21 @@
       "source": "stories/the-names-on-the-cups/art/landscapes/04-volunteer-park-in-may.png",
       "sourceSha256": "ac9536dcb1c36fe7ad1bbdde86eec5c56583095d6a269fb325e10f899a8b103e",
       "reason": "Volunteer Park is proposed for a future date, not visited before this cafe story ends."
+    },
+    {
+      "source": "stories/the-next-train/art/landscapes/02-the-eastbound-street.png",
+      "sourceSha256": "95963e9ff509b41d77ee2ab515aa18a88449e8800a2df4085a3f70b7655208fb",
+      "reason": "The cellar destination is discussed and the Fates head toward the stairs, but the story never follows them onto this street."
+    },
+    {
+      "source": "stories/the-next-train/art/landscapes/04-three-streets-from-home.png",
+      "sourceSha256": "bf97d3a58c973db34ec85a7b3e8ba5771d7075975af0b5cc51c8b9f5e8cec1d8",
+      "reason": "The narrator considers going home three streets away but remains on the train; this residential street is an unrealized destination."
+    },
+    {
+      "source": "stories/the-next-train/art/landscapes/05-temple-steps-in-evening.png",
+      "sourceSha256": "e3ea477f7f7b8486ab5e831dde72893ae5462aa058c7df33859128718686c2c9",
+      "reason": "The temple appears only in an explanation of the god's familiar poster image, not as a visited setting."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
