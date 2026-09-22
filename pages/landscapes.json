@@ -1772,108 +1772,6 @@
       ]
     },
     {
-      "slug": "no-one-like-me",
-      "title": "No One Like Me",
-      "reader": "stories/no-one-like-me.html",
-      "images": [
-        {
-          "id": "01-outside-the-hall",
-          "title": "Outside the hall",
-          "alt": "Outside the hall — oil landscape for No One Like Me",
-          "source": "stories/no-one-like-me/art/landscapes/01-outside-the-hall.png",
-          "sourceSha256": "813e92df32bb389c68003b3a263e44a43e22935583a0a0a0f022c0a9cf39e7a4",
-          "full": {
-            "path": "landscapes/no-one-like-me/01-outside-the-hall.webp",
-            "sha256": "f7ea370dff62ddfe30d443d7aa07331d599f06286e7d9c8dec62b99d903a5d6c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-one-like-me/01-outside-the-hall-thumb.webp",
-            "sha256": "41b3329733f737bd5dde0eaf07f981010ff9b778b4c8123620b2327ba6c4952a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-gold-against-violet",
-          "title": "Gold against violet",
-          "alt": "Gold against violet — oil landscape for No One Like Me",
-          "source": "stories/no-one-like-me/art/landscapes/02-gold-against-violet.png",
-          "sourceSha256": "d1e2d627082f344a9fa0d832ef8ee961012992ee319774c15271887175e3280f",
-          "full": {
-            "path": "landscapes/no-one-like-me/02-gold-against-violet.webp",
-            "sha256": "5b3d16599bd5d16ec9c77c8674927404fc656a9273708db4f92e792214407b7f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-one-like-me/02-gold-against-violet-thumb.webp",
-            "sha256": "17648d7429a28c9907ed834440c7f3af9ec3c9127b5abb8e040b8c7a84637fef",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-morning-somewhere-else",
-          "title": "Morning somewhere else",
-          "alt": "Morning somewhere else — oil landscape for No One Like Me",
-          "source": "stories/no-one-like-me/art/landscapes/03-morning-somewhere-else.png",
-          "sourceSha256": "f70c6aced76e2151fb99a180bd611612ad93b9a9995ae56a866759f3322e1806",
-          "full": {
-            "path": "landscapes/no-one-like-me/03-morning-somewhere-else.webp",
-            "sha256": "e7b9aa465086cacb7835ae370bb34d881480ee788e306ea0b6f93e59ccbba004",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-one-like-me/03-morning-somewhere-else-thumb.webp",
-            "sha256": "3a5025bb1e4e5c62ac58b16b56b7c989afc17b20522edef3190293d4835f1136",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-midnight-somewhere-else",
-          "title": "Midnight somewhere else",
-          "alt": "Midnight somewhere else — oil landscape for No One Like Me",
-          "source": "stories/no-one-like-me/art/landscapes/04-midnight-somewhere-else.png",
-          "sourceSha256": "f06c25a1e5ff75f5b38900474a11b5f66d4a69ef57ad7504568032373b467b83",
-          "full": {
-            "path": "landscapes/no-one-like-me/04-midnight-somewhere-else.webp",
-            "sha256": "2879f7288c235c2c8d46cfe25ab6daacb69f9674b5501ede0b747c01981259b2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-one-like-me/04-midnight-somewhere-else-thumb.webp",
-            "sha256": "66e4a5ba3d81beeb1021c3e011aea179c6850be73f055db8ffd81c8c66cac9f9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-light-left-on",
-          "title": "The light left on",
-          "alt": "The light left on — oil landscape for No One Like Me",
-          "source": "stories/no-one-like-me/art/landscapes/05-the-light-left-on.png",
-          "sourceSha256": "c1b4cb850fcf5437501cb2a03d2419729850674e33002558fccb2f507c3347ad",
-          "full": {
-            "path": "landscapes/no-one-like-me/05-the-light-left-on.webp",
-            "sha256": "1e3333adb066230424b114c232ad24573bff2aeb882ed0cec6e0cdb3d7a0fed1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/no-one-like-me/05-the-light-left-on-thumb.webp",
-            "sha256": "5995389e181e65a148b69c4dc17ea748755f8a218a0c3f36d50ec436554b1b89",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "empire-within",
       "title": "Nobody Spends Her Name",
       "reader": "stories/empire-within.html",
@@ -17396,6 +17294,31 @@
       "source": "stories/no-need-to-worry/art/landscapes/03-the-unoccupied-drive.png",
       "sourceSha256": "df619446e024f869decfc0d01104369890104503bc2d2429de00cc5debae29a5",
       "reason": "Repeats the same lodge access road without a distinct event; the final bend already represents the actual departure."
+    },
+    {
+      "source": "stories/no-one-like-me/art/landscapes/01-outside-the-hall.png",
+      "sourceSha256": "813e92df32bb389c68003b3a263e44a43e22935583a0a0a0f022c0a9cf39e7a4",
+      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
+    },
+    {
+      "source": "stories/no-one-like-me/art/landscapes/02-gold-against-violet.png",
+      "sourceSha256": "d1e2d627082f344a9fa0d832ef8ee961012992ee319774c15271887175e3280f",
+      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
+    },
+    {
+      "source": "stories/no-one-like-me/art/landscapes/03-morning-somewhere-else.png",
+      "sourceSha256": "f70c6aced76e2151fb99a180bd611612ad93b9a9995ae56a866759f3322e1806",
+      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
+    },
+    {
+      "source": "stories/no-one-like-me/art/landscapes/04-midnight-somewhere-else.png",
+      "sourceSha256": "f06c25a1e5ff75f5b38900474a11b5f66d4a69ef57ad7504568032373b467b83",
+      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
+    },
+    {
+      "source": "stories/no-one-like-me/art/landscapes/05-the-light-left-on.png",
+      "sourceSha256": "c1b4cb850fcf5437501cb2a03d2419729850674e33002558fccb2f507c3347ad",
+      "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
