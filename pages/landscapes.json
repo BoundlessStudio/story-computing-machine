@@ -1277,6 +1277,32 @@
           }
         },
         {
+          "id": "02-black-fire-fortress",
+          "title": "Black fire fortress",
+          "alt": "Black fire fortress — oil landscape for All Accounts Due",
+          "source": "pages/landscape-replacements/all-accounts-due/02-black-fire-fortress.png",
+          "sourceSha256": "b6e8b101d37baa4e1a8c46ac2c81872999c6a0474bf1afe9547daa0dea366a49",
+          "full": {
+            "path": "landscapes/all-accounts-due/02-black-fire-fortress-b6e8b101d37baa4e.webp",
+            "sha256": "bd6747b7c08897626b994047326094dbcf3a0f6e35632b1728c9be5bf75a1d0e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/all-accounts-due/02-black-fire-fortress-b6e8b101d37baa4e-thumb.webp",
+            "sha256": "66d691446a809519424d5146b8021710b5f47ecfb4df412030a35c36e1a448bd",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/all-accounts-due/art/landscapes/02-black-fire-fortress.png",
+            "originalSha256": "14eddf905177fc51dfc9ff71f7255e204d01bc14d68674d1d2eec992bb02d476",
+            "correction": "The source fortress is being eaten by black fire. This intact distant fortress beneath an orange storm/sunset does not depict that defining magical event.",
+            "prompt": "Correct this existing landscape illustration for the story All Accounts Due. Preserve its thick tactile impasto oil paint, broad palette-knife strokes, rough canvas texture, Group-of-Seven-inspired landscape handling, wide composition and dark fortress on rocky heath under a copper-orange turbulent sky. Essential story correction: BLACK FIRE IS ACTIVELY EATING THE FORTRESS. Show intensely black, pointed licking tongues of fire visibly attached to and climbing the masonry itself, streaming through windows and over battlements, consuming several tower edges and wall sections into sagging slag. Distinguish black flames from ordinary smoke by clear flame-shaped curling tips, sharp inky bodies and faint hot copper rims against illuminated stone; the masonry caught in them is visibly being destroyed. Smoke may rise above but cannot substitute for actual black fire on the building. Keep part of the fortress legible and solid for contrast. This is a fantastical exterior from the story opening, not merely an intact castle with dark clouds behind it. No figures, no lettering, no border. Retain the reference's oil-paint art style rather than digital concept art or photorealism.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "03-the-repeating-horizon",
           "title": "The repeating horizon",
           "alt": "The repeating horizon — oil landscape for All Accounts Due",
