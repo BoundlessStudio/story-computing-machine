@@ -3010,6 +3010,70 @@
       ]
     },
     {
+      "slug": "stay-out-of-my-city",
+      "title": "Stay Out of My City",
+      "reader": "stories/stay-out-of-my-city.html",
+      "images": [
+        {
+          "id": "01-warrens-kitchen",
+          "title": "Warrens kitchen",
+          "alt": "Warrens kitchen — oil interior study for Stay Out of My City",
+          "source": "stories/stay-out-of-my-city/art/interiors/01-warrens-kitchen.png",
+          "sourceSha256": "d60172da3a025ca97d7b146733ec0a45f9080ac4df5d69cc80b248ed8930bb2a",
+          "full": {
+            "path": "interiors/stay-out-of-my-city/01-warrens-kitchen-d60172da3a025ca9.webp",
+            "sha256": "831ab2f840b6981fb683c6c90387f888dd8c0b305a0994d843861624577e4444",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/stay-out-of-my-city/01-warrens-kitchen-d60172da3a025ca9-thumb.webp",
+            "sha256": "6e4a9a84996de6988f71fc51d37200b05b7f0c5d76c1ce5841e3d9007f8f65a5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-before-the-morning-race",
+          "title": "Before the morning race",
+          "alt": "Before the morning race — oil interior study for Stay Out of My City",
+          "source": "stories/stay-out-of-my-city/art/interiors/02-before-the-morning-race.png",
+          "sourceSha256": "89a3ce6ea7a023f5bb1efc53605d73449f283cd1e52a5070a00a31f84d60bfb2",
+          "full": {
+            "path": "interiors/stay-out-of-my-city/02-before-the-morning-race-89a3ce6ea7a023f5.webp",
+            "sha256": "ca4663062321d7676e6eaa32ad3b2ad3029e1b6b9614f1ca6a2fe10f12831bd3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/stay-out-of-my-city/02-before-the-morning-race-89a3ce6ea7a023f5-thumb.webp",
+            "sha256": "919bad11ab795e5cf1764348f74f65ea509db6859fe45c0148fde4695b4dd4d6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-dark-cinema",
+          "title": "The dark cinema",
+          "alt": "The dark cinema — oil interior study for Stay Out of My City",
+          "source": "stories/stay-out-of-my-city/art/interiors/03-the-dark-cinema.png",
+          "sourceSha256": "37758d7578ac0dbbb99358fff38374f36f16d529b9a131c5fa56adf668228f9b",
+          "full": {
+            "path": "interiors/stay-out-of-my-city/03-the-dark-cinema-37758d7578ac0dbb.webp",
+            "sha256": "366fdfe7c6fcee7f035681a79284a26959358b7c6d4e6f6a50fb4294440ac48b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/stay-out-of-my-city/03-the-dark-cinema-37758d7578ac0dbb-thumb.webp",
+            "sha256": "ddbf34041272b39f3804f8e08f5436ee59d0f3988f56aa18967b8180b8f20484",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "still-taking-runaways",
       "title": "Still Taking Runaways",
       "reader": "stories/still-taking-runaways.html",
@@ -3195,6 +3259,70 @@
           "thumbnail": {
             "path": "interiors/tea-for-the-first-guest/03-garden-under-glass-e38214dd2215a9e7-thumb.webp",
             "sha256": "808919ffc58b471129f948671de324691b30c5e63388a4843b4e2204c053270e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "terms-at-four",
+      "title": "Terms at Four",
+      "reader": "stories/terms-at-four.html",
+      "images": [
+        {
+          "id": "01-tea-and-telemetry",
+          "title": "Tea and telemetry",
+          "alt": "Tea and telemetry — oil interior study for Terms at Four",
+          "source": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+          "sourceSha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+          "full": {
+            "path": "interiors/terms-at-four/01-tea-and-telemetry-9364542795c06472.webp",
+            "sha256": "5667e4a18bbf76ad48f993873ded40afb8bd416d8d8f2989db8038d63ca3c206",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/terms-at-four/01-tea-and-telemetry-9364542795c06472-thumb.webp",
+            "sha256": "ed55c49d4257f7f912dc8e5417ba77af9da9c9471702d497da1bb54063c316c8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-operations-training-suite",
+          "title": "The operations training suite",
+          "alt": "The operations training suite — oil interior study for Terms at Four",
+          "source": "stories/terms-at-four/art/interiors/02-the-operations-training-suite.png",
+          "sourceSha256": "ea26e88d5ffdbd354f5bac119e924508cec0313bdb842ec08c791227bede4ff9",
+          "full": {
+            "path": "interiors/terms-at-four/02-the-operations-training-suite-ea26e88d5ffdbd35.webp",
+            "sha256": "d170123bebb9ff79797a2b05e89a1fec4896c7ed4ec78f3d4651299524757118",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/terms-at-four/02-the-operations-training-suite-ea26e88d5ffdbd35-thumb.webp",
+            "sha256": "f83389b85d3740eb4cd67c192e76b5b808c2b8a820ba7742f13e9daddd49e952",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-table-at-five-twelve",
+          "title": "The table at five twelve",
+          "alt": "The table at five twelve — oil interior study for Terms at Four",
+          "source": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
+          "sourceSha256": "1fef77aafe6c5189759682761885f162a0fcf7702cba18c9548b15d029ebe667",
+          "full": {
+            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-1fef77aafe6c5189.webp",
+            "sha256": "13b4bbfe6658141129cdfde1c6d6190c642fd0d82aad03b4dbb4887919fd99fe",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-1fef77aafe6c5189-thumb.webp",
+            "sha256": "5e88c62eea03bf5242ca009dceb8a6e2bb81ea7fa26eb097b61a442976975d4d",
             "width": 480,
             "height": 320
           }
