@@ -2019,82 +2019,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-white-road",
-          "title": "The white road",
-          "alt": "The white road — oil landscape for Realms",
-          "source": "stories/realms/art/landscapes/02-the-white-road.png",
-          "sourceSha256": "3c05212e8b0febb38782e61e7e6366dfb8dea1e01bf1ebc155e7323b36bf3cc8",
-          "full": {
-            "path": "landscapes/realms/02-the-white-road.webp",
-            "sha256": "2ea592400aa3a320611f0d16f686ca196c37963f54305d0de30227b8cee4667f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/realms/02-the-white-road-thumb.webp",
-            "sha256": "3abf8e6692ef02c9dc97130795badf06da032a2425a40eb7e3485e975a3275a6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-doors-above-the-plain",
-          "title": "Doors above the plain",
-          "alt": "Doors above the plain — oil landscape for Realms",
-          "source": "stories/realms/art/landscapes/03-doors-above-the-plain.png",
-          "sourceSha256": "1ed6421a796e740f168d02bfc2c6479a403e4face0ab819ee4f26127842f7bb3",
-          "full": {
-            "path": "landscapes/realms/03-doors-above-the-plain.webp",
-            "sha256": "d1637ff71f6c72eb6bfb162adc723b8e0de97e0912c6905173beaf39aa13a8f0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/realms/03-doors-above-the-plain-thumb.webp",
-            "sha256": "e1598d97b4fb8c044b50616953cbe2209cfc223c98892105c21dd859b8bb5af2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-copper-in-the-distance",
-          "title": "Copper in the distance",
-          "alt": "Copper in the distance — oil landscape for Realms",
-          "source": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
-          "sourceSha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
-          "full": {
-            "path": "landscapes/realms/04-copper-in-the-distance.webp",
-            "sha256": "b1f8852872d9540701d9a92dd8da43550ce138ea0d819a38ae987ba3ea572e90",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/realms/04-copper-in-the-distance-thumb.webp",
-            "sha256": "ca77e2cbf941b66fdfec14be3d4001d70f5e2ce6730205fd7bfec91c435c25ea",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-rain-above-queen-street",
-          "title": "Rain above queen street",
-          "alt": "Rain above queen street — oil landscape for Realms",
-          "source": "stories/realms/art/landscapes/05-rain-above-queen-street.png",
-          "sourceSha256": "e6331969f83cfe1d938c89ed338ecb6493d3592aa5284b2f3248b34eb22592dc",
-          "full": {
-            "path": "landscapes/realms/05-rain-above-queen-street.webp",
-            "sha256": "d05d806e7a6e06ba03a925e9bfd3329ab8df879e0012dbca65993b6725342a8f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/realms/05-rain-above-queen-street-thumb.webp",
-            "sha256": "50c6dc9de43ac72e64f43913e8862d2612fc58739e2d8da5ddb0458420dbd52b",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -17099,6 +17023,26 @@
       "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
       "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
       "reason": "The river crossing is a future point where the twins will separate, not a setting reached in the story."
+    },
+    {
+      "source": "stories/realms/art/landscapes/02-the-white-road.png",
+      "sourceSha256": "3c05212e8b0febb38782e61e7e6366dfb8dea1e01bf1ebc155e7323b36bf3cc8",
+      "reason": "Repeats the white road and red plain already clearly represented in the opening view."
+    },
+    {
+      "source": "stories/realms/art/landscapes/03-doors-above-the-plain.png",
+      "sourceSha256": "1ed6421a796e740f168d02bfc2c6479a403e4face0ab819ee4f26127842f7bb3",
+      "reason": "A third nearly identical white-road/red-plain view adds no distinct location or story state."
+    },
+    {
+      "source": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+      "sourceSha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+      "reason": "Adds another red-plain vista while reducing the distinctive breathing, shell-borne city to ordinary towers on the distant ground."
+    },
+    {
+      "source": "stories/realms/art/landscapes/05-rain-above-queen-street.png",
+      "sourceSha256": "e6331969f83cfe1d938c89ed338ecb6493d3592aa5284b2f3248b34eb22592dc",
+      "reason": "Moves the portal rain out of the underground Queen Street tunnel into an ordinary rainy street; the black rain crawls upward indoors."
     },
     {
       "source": "stories/save-that-dragon/art/landscapes/01-storm-over-the-forge-valley.png",
