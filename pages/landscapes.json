@@ -431,25 +431,6 @@
       "reader": "stories/a-pet-human.html",
       "images": [
         {
-          "id": "01-the-red-sky-garden",
-          "title": "The red sky garden",
-          "alt": "The red sky garden — oil landscape for A Pet Human",
-          "source": "stories/a-pet-human/art/landscapes/01-the-red-sky-garden.png",
-          "sourceSha256": "9956a3c75d97c672a8db5b7c2b9a7d5d49828fdd08911ed447e06b3c44c1400b",
-          "full": {
-            "path": "landscapes/a-pet-human/01-the-red-sky-garden.webp",
-            "sha256": "f94c4aa9b66dd1246fd752346a5b2e29b7b9f707b04d8eabf823bc6956d4b5bc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-pet-human/01-the-red-sky-garden-thumb.webp",
-            "sha256": "3c124a9cd1c9c9a2f488d4a7e28f640b64fa9588408881f161e273fba21966e2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-flowers-closing-at-dusk",
           "title": "Flowers closing at dusk",
           "alt": "Flowers closing at dusk — oil landscape for A Pet Human",
@@ -464,44 +445,6 @@
           "thumbnail": {
             "path": "landscapes/a-pet-human/02-flowers-closing-at-dusk-thumb.webp",
             "sha256": "3dcb2fcfaea944fdd9d02f4c04a6e05fdf71cb0014d26c0db2662d923569af9f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-beyond-the-east-balcony",
-          "title": "Beyond the east balcony",
-          "alt": "Beyond the east balcony — oil landscape for A Pet Human",
-          "source": "stories/a-pet-human/art/landscapes/03-beyond-the-east-balcony.png",
-          "sourceSha256": "3341526e6fac3cbd624ed7a3ce05eeba799392d9b1bba6919417c7fe11641b2c",
-          "full": {
-            "path": "landscapes/a-pet-human/03-beyond-the-east-balcony.webp",
-            "sha256": "23303db74f9325838e801387006789ce0a2d32b3e11b9d01b3815556bf79a8b9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-pet-human/03-beyond-the-east-balcony-thumb.webp",
-            "sha256": "382988c5ba6ef88a10261dc5ef838edef6ede81f262dad1d596a0dc50e8b8ed2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-empty-fairground-after-rain",
-          "title": "Empty fairground after rain",
-          "alt": "Empty fairground after rain — oil landscape for A Pet Human",
-          "source": "stories/a-pet-human/art/landscapes/04-empty-fairground-after-rain.png",
-          "sourceSha256": "9ced7471ce8a93a63d2705c3538c81f23c083b04259bba0ac849d99a65e9ff3d",
-          "full": {
-            "path": "landscapes/a-pet-human/04-empty-fairground-after-rain.webp",
-            "sha256": "1552de8595e4212c7c0bbabb2d4c8d14814c0ca2c79ef65b43856f1183076ec6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-pet-human/04-empty-fairground-after-rain-thumb.webp",
-            "sha256": "ba87405d09e66bcc0891dce64309dad4ed5493654baf5f24efbfa1257f5d8d5d",
             "width": 480,
             "height": 320
           }
@@ -18879,6 +18822,21 @@
       "source": "stories/a-note-of-spite/art/landscapes/05-evening-beyond-the-party.png",
       "sourceSha256": "db731bc9b844833f9e0f92019c396e596aa92caaf2901455aa1ae7b26d64696d",
       "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
+    },
+    {
+      "source": "stories/a-pet-human/art/landscapes/01-the-red-sky-garden.png",
+      "sourceSha256": "9956a3c75d97c672a8db5b7c2b9a7d5d49828fdd08911ed447e06b3c44c1400b",
+      "reason": "Repeats the garden already represented by the more accurate closing spiked buds. The described view shows the flowers shutting as red light drains upward, rather than this field of open blooms."
+    },
+    {
+      "source": "stories/a-pet-human/art/landscapes/03-beyond-the-east-balcony.png",
+      "sourceSha256": "3341526e6fac3cbd624ed7a3ce05eeba799392d9b1bba6919417c7fe11641b2c",
+      "reason": "Another redundant garden panorama. The east balcony is forbidden because biting moths live there and is never visited; no separate panoramic excursion occurs."
+    },
+    {
+      "source": "stories/a-pet-human/art/landscapes/04-empty-fairground-after-rain.png",
+      "sourceSha256": "9ced7471ce8a93a63d2705c3538c81f23c083b04259bba0ac849d99a65e9ff3d",
+      "reason": "The three wet fairs only explain how the narrator once earned his boots. An empty fairground is not a scene or described location in this story."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
