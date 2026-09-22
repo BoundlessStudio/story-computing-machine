@@ -640,44 +640,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-weather-over-empty-works",
-          "title": "Weather over empty works",
-          "alt": "Weather over empty works — oil landscape for A Question for the Sky",
-          "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
-          "sourceSha256": "168550b6e15a24ee6771f9e2279cb6f57ac0f51c830dfc573ed0e8a01c5d38df",
-          "full": {
-            "path": "landscapes/kite-letters-below/04-weather-over-empty-works.webp",
-            "sha256": "0bfe23f1c687eba78e167168e00c303f118753c62341ce4d0b7dece510d24c40",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/kite-letters-below/04-weather-over-empty-works-thumb.webp",
-            "sha256": "25d63fd3b9cbac3d5ab79b7ac783149faae97e578670220c268e81dfd6d6ab9d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-until-the-ground-shines",
-          "title": "Until the ground shines",
-          "alt": "Until the ground shines — oil landscape for A Question for the Sky",
-          "source": "stories/kite-letters-below/art/landscapes/05-until-the-ground-shines.png",
-          "sourceSha256": "4f5e66ad6a4d31d124a4448823bbaf9e1ee33bac8c300cea0b594fe9bc68cf73",
-          "full": {
-            "path": "landscapes/kite-letters-below/05-until-the-ground-shines.webp",
-            "sha256": "36a5143fdbba17a40f7aec6a41da3851cc35a0cfe0734a4ee44d863d280b68fa",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/kite-letters-below/05-until-the-ground-shines-thumb.webp",
-            "sha256": "ec6397b56b5521623d283d2991e7a06986ada709ea9e60cdba98f4c5b35ec520",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -18767,6 +18729,16 @@
       "source": "stories/a-place-for-the-living/art/landscapes/05-home-lights-after-rain.png",
       "sourceSha256": "3a09b36e730dd623a40f986e7a5e9d95fa3ec317ef88c84d9cc452a9bc2fee26",
       "reason": "The departure ends inside the car listening to rain, after cold mist under the eave. This clear night of home lights invents a later weather state and repeats the same approach."
+    },
+    {
+      "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
+      "sourceSha256": "168550b6e15a24ee6771f9e2279cb6f57ac0f51c830dfc573ed0e8a01c5d38df",
+      "reason": "The sterile soil and empty works are the station's inherited account, challenged by observed living reed beds. This unobserved ground-level wasteland presents that account as a verified place."
+    },
+    {
+      "source": "stories/kite-letters-below/art/landscapes/05-until-the-ground-shines.png",
+      "sourceSha256": "4f5e66ad6a4d31d124a4448823bbaf9e1ee33bac8c300cea0b594fe9bc68cf73",
+      "reason": "A second near-identical orbital planet view adds no distinct location or visible signal state beyond the retained world-below image."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
