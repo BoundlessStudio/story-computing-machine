@@ -9346,6 +9346,70 @@
       ]
     },
     {
+      "slug": "where-sleep-takes-you",
+      "title": "Where Sleep Takes You",
+      "reader": "stories/where-sleep-takes-you.html",
+      "images": [
+        {
+          "id": "01-the-instrument-storage-unit",
+          "title": "The instrument storage unit",
+          "alt": "The instrument storage unit — oil interior study for Where Sleep Takes You",
+          "source": "stories/where-sleep-takes-you/art/interiors/01-the-instrument-storage-unit.png",
+          "sourceSha256": "3794cd009020e0ca92ce0f97830e32720b77712758222a361eb8c2b1072115b5",
+          "full": {
+            "path": "interiors/where-sleep-takes-you/01-the-instrument-storage-unit-3794cd009020e0ca.webp",
+            "sha256": "d7e58f3960c6ed5c9f9099e87d6fd1352fb4c4b3e566aaa6958931bfc0fd1fcb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-sleep-takes-you/01-the-instrument-storage-unit-3794cd009020e0ca-thumb.webp",
+            "sha256": "733cde73d68b714288b33df6775e0b3ace0e242f48c99bf86328c3605bfb324f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-locked-laundry-room",
+          "title": "The locked laundry room",
+          "alt": "The locked laundry room — oil interior study for Where Sleep Takes You",
+          "source": "stories/where-sleep-takes-you/art/interiors/02-the-locked-laundry-room.png",
+          "sourceSha256": "edb5a412f1d979c513629f682ef06f82f30eea2833472e1a78a1ae0f22f9dea1",
+          "full": {
+            "path": "interiors/where-sleep-takes-you/02-the-locked-laundry-room-edb5a412f1d979c5.webp",
+            "sha256": "5ef741b521144419e8d20bf9e04e1d2d8aa5ff881416b53581105dbb95c7ee40",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-sleep-takes-you/02-the-locked-laundry-room-edb5a412f1d979c5-thumb.webp",
+            "sha256": "508349facdeea6f11b91a877d33b27e27fd21507cc6758794cc2ee2bbed11bdc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-inventory-van",
+          "title": "The inventory van",
+          "alt": "The inventory van — oil interior study for Where Sleep Takes You",
+          "source": "stories/where-sleep-takes-you/art/interiors/03-the-inventory-van.png",
+          "sourceSha256": "f955a8be5a504e6be7f6ecbe3d4af7f968c121ef5a0cf6613b46ae86df8f5ee4",
+          "full": {
+            "path": "interiors/where-sleep-takes-you/03-the-inventory-van-f955a8be5a504e6b.webp",
+            "sha256": "f360e548456edc5f5fc42f9b196a4b021de28e78a6bd673f10f01223f0fa69df",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-sleep-takes-you/03-the-inventory-van-f955a8be5a504e6b-thumb.webp",
+            "sha256": "083e624bbad1d6015313e0f9d92a76ee0ce7b9e2762989e49d8f099c329fcfcd",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "yavrens-return",
       "title": "Where the Eagle Lands",
       "reader": "stories/yavrens-return.html",
