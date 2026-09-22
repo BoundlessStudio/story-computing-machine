@@ -6873,63 +6873,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-rain-around-the-nine-channels",
-          "title": "Rain around the nine channels",
-          "alt": "Rain around the nine channels — oil landscape for The Tenth World Needs No Hero",
-          "source": "stories/tenth-world-lesson/art/landscapes/03-rain-around-the-nine-channels.png",
-          "sourceSha256": "ae04c4b27414c2feb0f4a00f1f4d6abe28c74501fb81528783c21e3d4adbc0f5",
-          "full": {
-            "path": "landscapes/tenth-world-lesson/03-rain-around-the-nine-channels.webp",
-            "sha256": "16b5c8b1e68db16ae74b5859ceb6a2790f7c6cb74981b99fbec95b1ffa131a31",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tenth-world-lesson/03-rain-around-the-nine-channels-thumb.webp",
-            "sha256": "3e53f476da8a4c267ef6c58d705b4fa4ecf52c42d6f6842765d4502000c65bd8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-dark-hillside",
-          "title": "The dark hillside",
-          "alt": "The dark hillside — oil landscape for The Tenth World Needs No Hero",
-          "source": "stories/tenth-world-lesson/art/landscapes/04-the-dark-hillside.png",
-          "sourceSha256": "d860c7da690602df978f4008703d7ef2976189bab8cf93a8cd7846fc0b7af645",
-          "full": {
-            "path": "landscapes/tenth-world-lesson/04-the-dark-hillside.webp",
-            "sha256": "43dbfb59a15e3c3b4e71d00054cb2d301ea3ab7aa45fe3d1a60999fc5532dcd5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tenth-world-lesson/04-the-dark-hillside-thumb.webp",
-            "sha256": "fb225656d0061a553a23607064c03d0b9c66ec8cd1618e58b875bf06301f807a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-a-neighborhood-garden",
-          "title": "A neighborhood garden",
-          "alt": "A neighborhood garden — oil landscape for The Tenth World Needs No Hero",
-          "source": "stories/tenth-world-lesson/art/landscapes/05-a-neighborhood-garden.png",
-          "sourceSha256": "703fc6ebceaad519b03142f83f1b3bd49bc76e036027f62973b6afe86718d896",
-          "full": {
-            "path": "landscapes/tenth-world-lesson/05-a-neighborhood-garden.webp",
-            "sha256": "4ec8c7e8e3bd8524c193022837428c7ff895b6cd0a04af1b1e9452114b0a36e0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/tenth-world-lesson/05-a-neighborhood-garden-thumb.webp",
-            "sha256": "2cdfea784e6ca5dc743ae25d78059f3dff11d72a0b8847e9a35a9ad9f6012da3",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12482,6 +12425,21 @@
       "source": "stories/tea-for-the-first-guest/art/landscapes/05-silver-rain-through-stone.png",
       "sourceSha256": "2aebe6ce91e2ea8520f8c6f86cd44a2ef21d5ad611dd91b40ca3d9e7db86f54e",
       "reason": "Fourth arch/road view adds no new setting and changes the bare broken stone shelter into an ivy-covered monument."
+    },
+    {
+      "source": "stories/tenth-world-lesson/art/landscapes/03-rain-around-the-nine-channels.png",
+      "sourceSha256": "ae04c4b27414c2feb0f4a00f1f4d6abe28c74501fb81528783c21e3d4adbc0f5",
+      "reason": "The nine stations and conductor paths are on the tower floor around the engine. The painting replaces them with outdoor stone channels spread over an exposed hill beside a closed tower."
+    },
+    {
+      "source": "stories/tenth-world-lesson/art/landscapes/04-the-dark-hillside.png",
+      "sourceSha256": "d860c7da690602df978f4008703d7ef2976189bab8cf93a8cd7846fc0b7af645",
+      "reason": "Another distant view of the same hillside town under the storm, without a distinct setting beyond the retained town and purple-front views."
+    },
+    {
+      "source": "stories/tenth-world-lesson/art/landscapes/05-a-neighborhood-garden.png",
+      "sourceSha256": "703fc6ebceaad519b03142f83f1b3bd49bc76e036027f62973b6afe86718d896",
+      "reason": "The neighborhood garden is an item on Ryo's list that he may not manage to visit; the story ends at his apartment door, before any garden scene."
     },
     {
       "source": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
