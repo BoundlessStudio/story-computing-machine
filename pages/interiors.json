@@ -6402,6 +6402,70 @@
       ]
     },
     {
+      "slug": "the-other-twin",
+      "title": "The Other Twin",
+      "reader": "stories/the-other-twin.html",
+      "images": [
+        {
+          "id": "01-shared-bathroom",
+          "title": "Shared bathroom",
+          "alt": "Shared bathroom — oil interior study for The Other Twin",
+          "source": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+          "sourceSha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+          "full": {
+            "path": "interiors/the-other-twin/01-shared-bathroom-eb34594d9feed913.webp",
+            "sha256": "545806816a213fe0a2d6c89fde0b7a3ebd397c5e53837d7fef91d18a1edaa746",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-other-twin/01-shared-bathroom-eb34594d9feed913-thumb.webp",
+            "sha256": "18e4104522eb970eb368e86e184d9f17e67ad84bbac08484ab6788931a1de393",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-clinic-consultation-room",
+          "title": "Clinic consultation room",
+          "alt": "Clinic consultation room — oil interior study for The Other Twin",
+          "source": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+          "sourceSha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+          "full": {
+            "path": "interiors/the-other-twin/02-clinic-consultation-room-172c1cc35cf6e579.webp",
+            "sha256": "125005b1f1a46a9597ee01ed55fe324811f0935fb6113b78e482b644f1801454",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-other-twin/02-clinic-consultation-room-172c1cc35cf6e579-thumb.webp",
+            "sha256": "7c9ca53a65a8d2f172a191d81b4a3102ef8c25cd44e0da61690e5ab2849fe0a1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-bedroom-concert-evening",
+          "title": "Bedroom concert evening",
+          "alt": "Bedroom concert evening — oil interior study for The Other Twin",
+          "source": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+          "sourceSha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "full": {
+            "path": "interiors/the-other-twin/03-bedroom-concert-evening-c5c47ef8d28f1e9c.webp",
+            "sha256": "20bb97ef94084b5857435f5fa5195845305ca2ea62b8eff2880c88adb14f842a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-other-twin/03-bedroom-concert-evening-c5c47ef8d28f1e9c-thumb.webp",
+            "sha256": "ce20a1ec5520c3159640ef0a37b975008f5f6def0c9b464a7c566426019dc297",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-peace-they-could-sleep-through",
       "title": "The Peace They Could Sleep Through",
       "reader": "stories/the-peace-they-could-sleep-through.html",
@@ -6459,6 +6523,70 @@
           "thumbnail": {
             "path": "interiors/the-peace-they-could-sleep-through/03-the-hall-of-petitions-13c7d1cd3eb42f58-thumb.webp",
             "sha256": "0cd97eebdc0378de09162f3879a262feaa126908f976d0c90e50c20d8ea0ea9e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-players-above",
+      "title": "The Players Above",
+      "reader": "stories/the-players-above.html",
+      "images": [
+        {
+          "id": "01-game-table-in-the-mill",
+          "title": "Game table in the mill",
+          "alt": "Game table in the mill — oil interior study for The Players Above",
+          "source": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+          "sourceSha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e",
+          "full": {
+            "path": "interiors/the-players-above/01-game-table-in-the-mill-56feecaf1fb857b9.webp",
+            "sha256": "5354c397be09accdc9de7c86cef75c44c2dc46ce617dc7377c4d461fda347178",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-players-above/01-game-table-in-the-mill-56feecaf1fb857b9-thumb.webp",
+            "sha256": "6102fdf03b950642c50f14c638addbccf00d7ca7cfd55a2d635d696394d7e7f2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-beneath-the-lifted-floorboards",
+          "title": "Beneath the lifted floorboards",
+          "alt": "Beneath the lifted floorboards — oil interior study for The Players Above",
+          "source": "stories/the-players-above/art/interiors/02-beneath-the-lifted-floorboards.png",
+          "sourceSha256": "a23fb94a938cb5b01294d74b52aa07e13ba1e8bd35a1adc28919a020a98c9ab0",
+          "full": {
+            "path": "interiors/the-players-above/02-beneath-the-lifted-floorboards-a23fb94a938cb5b0.webp",
+            "sha256": "8e4931a247b374c3dee5d70faad4bb32ca71804264dd4ce3be71f2b9cd10c0dd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-players-above/02-beneath-the-lifted-floorboards-a23fb94a938cb5b0-thumb.webp",
+            "sha256": "4db891c6fae4aa9a58209ec1220ad623ab509ce1b74958b5f09da2dc0a183062",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-split-delivery-sill",
+          "title": "The split delivery sill",
+          "alt": "The split delivery sill — oil interior study for The Players Above",
+          "source": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
+          "sourceSha256": "c60edb22accdcbb8c9fa6debaeefdf26949a77b277fef5e2d84a5e1dacbba6b2",
+          "full": {
+            "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8.webp",
+            "sha256": "c44507f387591f9348aa041724018ed9e815633cb8a822a2a0568b7a9e38a593",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8-thumb.webp",
+            "sha256": "325909acf2d1ed1f37fac1f9ba702d48f0a804857fe39b207ce88ac163d9196e",
             "width": 480,
             "height": 320
           }
