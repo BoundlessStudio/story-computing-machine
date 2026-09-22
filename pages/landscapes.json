@@ -7020,63 +7020,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-the-open-eastern-pass",
-          "title": "The open eastern pass",
-          "alt": "The open eastern pass — oil landscape for The Thread That Held",
-          "source": "stories/the-thread-that-held/art/landscapes/03-the-open-eastern-pass.png",
-          "sourceSha256": "7660bf4c0e19fcf9d4073a210e9b3bac2fef26ceac1db7eb6e49cf36193296a5",
-          "full": {
-            "path": "landscapes/the-thread-that-held/03-the-open-eastern-pass.webp",
-            "sha256": "76e08b12325e177e37342202203db41c67e553f07c3585c969897b3eafbe052b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-thread-that-held/03-the-open-eastern-pass-thumb.webp",
-            "sha256": "16412d3dca4910c18ee2eef7c34651d8e5e3f6adf8880e7fa89dd8031daeb459",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-barley-on-the-high-slopes",
-          "title": "Barley on the high slopes",
-          "alt": "Barley on the high slopes — oil landscape for The Thread That Held",
-          "source": "stories/the-thread-that-held/art/landscapes/04-barley-on-the-high-slopes.png",
-          "sourceSha256": "71e82a37cba023909059a3fe2b2eb7a14556243862b9eb650ed48e30175401c8",
-          "full": {
-            "path": "landscapes/the-thread-that-held/04-barley-on-the-high-slopes.webp",
-            "sha256": "0b842ec061cafb72eeb7a28a97d86643d3b931e8f0a598bdbce7dc4289329d1b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-thread-that-held/04-barley-on-the-high-slopes-thumb.webp",
-            "sha256": "f14a4905a61259ae7df5e2f115a44f584343ced97b12256bee499a429b0c582d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-temple-hills",
-          "title": "The temple hills",
-          "alt": "The temple hills — oil landscape for The Thread That Held",
-          "source": "stories/the-thread-that-held/art/landscapes/05-the-temple-hills.png",
-          "sourceSha256": "58d63cf5d1d9e026f86f703d91b93c4dd021cf4b63ec5691c472fc0dc45ffda1",
-          "full": {
-            "path": "landscapes/the-thread-that-held/05-the-temple-hills.webp",
-            "sha256": "2b4dfa71a39db3aa99954eb30cebf072115e4c2eae30d0d686cf8c9c8cabe4cb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-thread-that-held/05-the-temple-hills-thumb.webp",
-            "sha256": "38530dd2a8592f77dca675bd5adfc4d7d4a0a7a99cb64d243dacf9e07eac47a6",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -13383,6 +13326,21 @@
       "source": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
       "sourceSha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76",
       "reason": "The ending climbs toward daylight without showing an exterior. The small open hillside pool also fails to represent the extensive enclosed cistern and pressure-chamber complex."
+    },
+    {
+      "source": "stories/the-thread-that-held/art/landscapes/03-the-open-eastern-pass.png",
+      "sourceSha256": "7660bf4c0e19fcf9d4073a210e9b3bac2fef26ceac1db7eb6e49cf36193296a5",
+      "reason": "The eastern pass is a reported failed escape and a discussion of travel protections, not a location the narrator watches or visits; the empty open pass omits the blocking guards central to the account."
+    },
+    {
+      "source": "stories/the-thread-that-held/art/landscapes/04-barley-on-the-high-slopes.png",
+      "sourceSha256": "71e82a37cba023909059a3fe2b2eb7a14556243862b9eb650ed48e30175401c8",
+      "reason": "The high-slope barley variety is explicitly extinct. The lush growing fields turn a lament over its loss into a present landscape."
+    },
+    {
+      "source": "stories/the-thread-that-held/art/landscapes/05-the-temple-hills.png",
+      "sourceSha256": "58d63cf5d1d9e026f86f703d91b93c4dd021cf4b63ec5691c472fc0dc45ffda1",
+      "reason": "The temple and burial hills are discussed through petitions and divine protections, not shown as this exterior landscape."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
