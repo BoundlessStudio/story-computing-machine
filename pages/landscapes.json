@@ -3656,25 +3656,6 @@
       "reader": "stories/the-first-people.html",
       "images": [
         {
-          "id": "01-rain-on-black-shingle",
-          "title": "Rain on black shingle",
-          "alt": "Rain on black shingle — oil landscape for The First People",
-          "source": "stories/the-first-people/art/landscapes/01-rain-on-black-shingle.png",
-          "sourceSha256": "ea7cf80a8cd785c64b944e6b4e0338f44474048e6a5030bdbb7bc0b40daa3620",
-          "full": {
-            "path": "landscapes/the-first-people/01-rain-on-black-shingle.webp",
-            "sha256": "f4f5a75a5f163d43de95b1ddad8ff9e6f8457cf749dd45a56de8ea68552ae42f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-people/01-rain-on-black-shingle-thumb.webp",
-            "sha256": "2ac5114f745aee221b27023f45de26862fbf188c09fe2c7468d1cdcb70bb279c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-low-house-by-the-sea",
           "title": "The low house by the sea",
           "alt": "The low house by the sea — oil landscape for The First People",
@@ -3708,25 +3689,6 @@
           "thumbnail": {
             "path": "landscapes/the-first-people/03-white-road-in-the-clouds-thumb.webp",
             "sha256": "a6ea295cc3c2b14acd749c5d77449e73bbc3aeba458551ec1b98304cdede55f6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-ocean-before-the-living",
-          "title": "Ocean before the living",
-          "alt": "Ocean before the living — oil landscape for The First People",
-          "source": "stories/the-first-people/art/landscapes/04-ocean-before-the-living.png",
-          "sourceSha256": "630fc154f719abdfd877c78a53493a56366d5120ce4aa5c260b4ce5553e346ed",
-          "full": {
-            "path": "landscapes/the-first-people/04-ocean-before-the-living.webp",
-            "sha256": "ac798e87ff152cd629ffa933bd38831f98599a2361c7757536494d973d0a938b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-people/04-ocean-before-the-living-thumb.webp",
-            "sha256": "1d52d186d5c86589404046af28e9350a3ffeaf38498d3734fa573f800d212094",
             "width": 480,
             "height": 320
           }
@@ -15805,6 +15767,16 @@
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
       "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
       "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
+    },
+    {
+      "source": "stories/the-first-people/art/landscapes/01-rain-on-black-shingle.png",
+      "sourceSha256": "ea7cf80a8cd785c64b944e6b4e0338f44474048e6a5030bdbb7bc0b40daa3620",
+      "reason": "Repeats the same storm shore and sky scratch already covered by the house view and the stronger sky-road composition."
+    },
+    {
+      "source": "stories/the-first-people/art/landscapes/04-ocean-before-the-living.png",
+      "sourceSha256": "630fc154f719abdfd877c78a53493a56366d5120ce4aa5c260b4ce5553e346ed",
+      "reason": "Literalizes the account of oceans before life into a separate alien seascape; those eras are discussed through route records, not visited or shown as landscapes."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
