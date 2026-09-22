@@ -1976,63 +1976,6 @@
           }
         },
         {
-          "id": "02-white-sunlight-on-the-road",
-          "title": "White sunlight on the road",
-          "alt": "White sunlight on the road — oil landscape for Only Eighteen",
-          "source": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
-          "sourceSha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb",
-          "full": {
-            "path": "landscapes/only-eighteen/02-white-sunlight-on-the-road.webp",
-            "sha256": "ca8316bc857d8c9d6e36b00fa65dff2ebccf977cae2ee337cf3470fdb97126d4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/only-eighteen/02-white-sunlight-on-the-road-thumb.webp",
-            "sha256": "d57b6e4acb10cadef4365d9f6080db938285fa5744163003552d9873487fcd76",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-narrow-path-behind-the-laundry",
-          "title": "The narrow path behind the laundry",
-          "alt": "The narrow path behind the laundry — oil landscape for Only Eighteen",
-          "source": "stories/only-eighteen/art/landscapes/03-the-narrow-path-behind-the-laundry.png",
-          "sourceSha256": "42201c7a9a2d785dd32ed6630e52a998660d4e9d88b0bb2b0caf79a4df0bb0b3",
-          "full": {
-            "path": "landscapes/only-eighteen/03-the-narrow-path-behind-the-laundry.webp",
-            "sha256": "cb9845cd78c7937a053a595000575231397c7ef2559663d49badc5fe39ab5025",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/only-eighteen/03-the-narrow-path-behind-the-laundry-thumb.webp",
-            "sha256": "aaec9f7a9549817c52c0ea67e0be8222c02d189b42238a2cb60d9de7a2f5f0d5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-river-crossing",
-          "title": "The river crossing",
-          "alt": "The river crossing — oil landscape for Only Eighteen",
-          "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
-          "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
-          "full": {
-            "path": "landscapes/only-eighteen/04-the-river-crossing.webp",
-            "sha256": "a62232def20ee4bb8a5234b6483fd397b16bc7e41c31faba70cd2399c44cf97a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/only-eighteen/04-the-river-crossing-thumb.webp",
-            "sha256": "270c1030c2225bf72a7881de974d5b6e474a12643bbcfc5252ef02d5c7e6021f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-bend-after-departure",
           "title": "The bend after departure",
           "alt": "The bend after departure — oil landscape for Only Eighteen",
@@ -17141,6 +17084,21 @@
       "source": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
       "sourceSha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
       "reason": "Introduces a lake, mountainous horizon and steep-roofed monumental city inconsistent with the surrounding flat-roofed urban block; the retained dusk roof supplies the supported change of light."
+    },
+    {
+      "source": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+      "sourceSha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb",
+      "reason": "Repeats the sunlit road already covered by the more specific coach-stop wall and milestone view."
+    },
+    {
+      "source": "stories/only-eighteen/art/landscapes/03-the-narrow-path-behind-the-laundry.png",
+      "sourceSha256": "42201c7a9a2d785dd32ed6630e52a998660d4e9d88b0bb2b0caf79a4df0bb0b3",
+      "reason": "The path behind the laundry belongs to a wished-for outing Ceveth imagines instead of letting the twins leave; it is not taken."
+    },
+    {
+      "source": "stories/only-eighteen/art/landscapes/04-the-river-crossing.png",
+      "sourceSha256": "c96ef539956bff152302b3e4f5389edc15e11c34cb4f49511a1c13dcfc7cb4e3",
+      "reason": "The river crossing is a future point where the twins will separate, not a setting reached in the story."
     },
     {
       "source": "stories/save-that-dragon/art/landscapes/01-storm-over-the-forge-valley.png",
