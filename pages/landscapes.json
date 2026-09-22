@@ -5154,44 +5154,6 @@
       "reader": "stories/the-name-i-kept.html",
       "images": [
         {
-          "id": "01-laundromat-street-at-night",
-          "title": "Laundromat street at night",
-          "alt": "Laundromat street at night — oil landscape for The Name I Kept",
-          "source": "stories/the-name-i-kept/art/landscapes/01-laundromat-street-at-night.png",
-          "sourceSha256": "f0ab0e732ec46c1aa85ea36cc939c9d414d4ae3ea2e5e686fc108bdda5cec15b",
-          "full": {
-            "path": "landscapes/the-name-i-kept/01-laundromat-street-at-night.webp",
-            "sha256": "0ac4f23ab588fbe9e6e340df51905f092fad52be2963fe1776737991b00a3eb3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-name-i-kept/01-laundromat-street-at-night-thumb.webp",
-            "sha256": "92d32038d125600a8a4e96ad4303c8be5b6af787f33baab5f3bd470d52dc22f0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-rail-bridge-over-black-water",
-          "title": "Rail bridge over black water",
-          "alt": "Rail bridge over black water — oil landscape for The Name I Kept",
-          "source": "stories/the-name-i-kept/art/landscapes/02-rail-bridge-over-black-water.png",
-          "sourceSha256": "b0d8b56b47e1f020c358fd8973a65f4a99e1d8023fc2855e3e4542c6532b2624",
-          "full": {
-            "path": "landscapes/the-name-i-kept/02-rail-bridge-over-black-water.webp",
-            "sha256": "4da8b1390273314b02ce4072e048e779df58664d03d5826344c799fd16865ba5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-name-i-kept/02-rail-bridge-over-black-water-thumb.webp",
-            "sha256": "7b4b9c6f9f3eacb77aefe0357f21e7e7526ecddbe30b5eac1de656b78541b6fc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-storm-at-the-bridge-foot",
           "title": "Storm at the bridge foot",
           "alt": "Storm at the bridge foot — oil landscape for The Name I Kept",
@@ -5206,25 +5168,6 @@
           "thumbnail": {
             "path": "landscapes/the-name-i-kept/03-storm-at-the-bridge-foot-thumb.webp",
             "sha256": "2a2166ecb6c5a10cc1f5f588759646b562a185b15d9738d72daefd2813d2ac69",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-city-roofs-in-evening-blue",
-          "title": "City roofs in evening blue",
-          "alt": "City roofs in evening blue — oil landscape for The Name I Kept",
-          "source": "stories/the-name-i-kept/art/landscapes/04-city-roofs-in-evening-blue.png",
-          "sourceSha256": "aca97a13b28c5d7eb4aa16c9304872677d8ce6260a69b153e9e14db974d4645a",
-          "full": {
-            "path": "landscapes/the-name-i-kept/04-city-roofs-in-evening-blue.webp",
-            "sha256": "5c2cf55dabdf3fc22b3db5900c3589855ae337a709ebcf84394c6cd1e3ad87cb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-name-i-kept/04-city-roofs-in-evening-blue-thumb.webp",
-            "sha256": "33e3fa4b94214445e046c95b8005da512ac34b534c8f640b76c7c3b87305c4fc",
             "width": 480,
             "height": 320
           }
@@ -14653,6 +14596,21 @@
       "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
       "sourceSha256": "f1f91b16f8eb485b05d8d187c921c3626fb5b0e4a2ba29df541c2b96a7aa71cb",
       "reason": "Depicts a small placid pool in low rounded rocks with intact houses above it. The central crease instead holds floodwater and broken roofs in a vast cupped palm under raised, curving fingers; this image loses both the disaster state and defining geography."
+    },
+    {
+      "source": "stories/the-name-i-kept/art/landscapes/01-laundromat-street-at-night.png",
+      "sourceSha256": "f0ab0e732ec46c1aa85ea36cc939c9d414d4ae3ea2e5e686fc108bdda5cec15b",
+      "reason": "Duplicates the laundromat street approach in image 05."
+    },
+    {
+      "source": "stories/the-name-i-kept/art/landscapes/02-rail-bridge-over-black-water.png",
+      "sourceSha256": "b0d8b56b47e1f020c358fd8973a65f4a99e1d8023fc2855e3e4542c6532b2624",
+      "reason": "Repeats the bridge landscape while showing a much more intact span than the broken braces and hanging train in the footage; image 03 better preserves the damaged structure."
+    },
+    {
+      "source": "stories/the-name-i-kept/art/landscapes/04-city-roofs-in-evening-blue.png",
+      "sourceSha256": "aca97a13b28c5d7eb4aa16c9304872677d8ce6260a69b153e9e14db974d4645a",
+      "reason": "Invents a rooftop city viewpoint during a story conducted in the laundromat and broadcast interview, and adds a third laundromat exterior."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
