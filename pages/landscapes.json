@@ -7110,82 +7110,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-side-passage-in-rain",
-          "title": "The side passage in rain",
-          "alt": "The side passage in rain — oil landscape for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/landscapes/02-the-side-passage-in-rain.png",
-          "sourceSha256": "c2a47ac43c382f651ca87754ef1677941ef040218c53a77453e088e45b845b6f",
-          "full": {
-            "path": "landscapes/the-trouble-with-tuesdays/02-the-side-passage-in-rain.webp",
-            "sha256": "d52d909d29844a3d9bd606f306de4b87f4a35b9329cafe9891dcba05b2238c46",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-trouble-with-tuesdays/02-the-side-passage-in-rain-thumb.webp",
-            "sha256": "9bfb0541180691b3b563dd69e27efcb50033b055f0d7489e25b29dd40b702268",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-late-train-city",
-          "title": "The late train city",
-          "alt": "The late train city — oil landscape for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/landscapes/03-the-late-train-city.png",
-          "sourceSha256": "6969c534dc8896cbc8dcae696d9aa9749d1f97cd37d173a689980653a6062569",
-          "full": {
-            "path": "landscapes/the-trouble-with-tuesdays/03-the-late-train-city.webp",
-            "sha256": "14e46391490f59056696274181e08d5525dbb36d4f481e3c1192717d1486c3e9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-trouble-with-tuesdays/03-the-late-train-city-thumb.webp",
-            "sha256": "09832b69c0808a50846768f29dd6b779c205a16c6fb6f567ee082cb5f43a3dbc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-long-walks-through-the-neighborhood",
-          "title": "Long walks through the neighborhood",
-          "alt": "Long walks through the neighborhood — oil landscape for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/landscapes/04-long-walks-through-the-neighborhood.png",
-          "sourceSha256": "41e055687e00b0122c5b2cdebc4f6d4dc6b4fe14cbfa0831b9ce44d097fb2fca",
-          "full": {
-            "path": "landscapes/the-trouble-with-tuesdays/04-long-walks-through-the-neighborhood.webp",
-            "sha256": "e10defc283ac39df5b3eacb56314a8306445f162bd3565820937849eaad77241",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-trouble-with-tuesdays/04-long-walks-through-the-neighborhood-thumb.webp",
-            "sha256": "467ff2c58e11ed1e0454ed098ecf34f9e163ff3c2a8c075f06559b20a76aa07d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-sunday-morning-before-the-call",
-          "title": "Sunday morning before the call",
-          "alt": "Sunday morning before the call — oil landscape for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/landscapes/05-sunday-morning-before-the-call.png",
-          "sourceSha256": "be7ea5457e06219782b60d2d7b1e1771ae6baa26ee40cc9dd37774f41af0f3f9",
-          "full": {
-            "path": "landscapes/the-trouble-with-tuesdays/05-sunday-morning-before-the-call.webp",
-            "sha256": "a07e240d564a582978675bc8704cc538221e2cc8170937188fc764feea7c2860",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-trouble-with-tuesdays/05-sunday-morning-before-the-call-thumb.webp",
-            "sha256": "5f8a3f6707add0520e1553c11ba2e951d669e90e77c1ede6299e8fc4567b95c3",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -13236,6 +13160,26 @@
       "source": "stories/the-thread-that-held/art/landscapes/05-the-temple-hills.png",
       "sourceSha256": "58d63cf5d1d9e026f86f703d91b93c4dd021cf4b63ec5691c472fc0dc45ffda1",
       "reason": "The temple and burial hills are discussed through petitions and divine protections, not shown as this exterior landscape."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/landscapes/02-the-side-passage-in-rain.png",
+      "sourceSha256": "c2a47ac43c382f651ca87754ef1677941ef040218c53a77453e088e45b845b6f",
+      "reason": "A second expansive exterior of the same station adds no distinct scene beyond the retained station view; the source's side passage is one briefly listed failed escape within the crowded station encounter."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/landscapes/03-the-late-train-city.png",
+      "sourceSha256": "6969c534dc8896cbc8dcae696d9aa9749d1f97cd37d173a689980653a6062569",
+      "reason": "Eli hears the late train while sitting inside his kitchen. The elevated outdoor city panorama is not a witnessed setting."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/landscapes/04-long-walks-through-the-neighborhood.png",
+      "sourceSha256": "41e055687e00b0122c5b2cdebc4f6d4dc6b4fe14cbfa0831b9ce44d097fb2fca",
+      "reason": "The source lists long walks among many later-life events without establishing this neighborhood landscape; this is generic filler rather than a distinct depicted place."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/landscapes/05-sunday-morning-before-the-call.png",
+      "sourceSha256": "be7ea5457e06219782b60d2d7b1e1771ae6baa26ee40cc9dd37774f41af0f3f9",
+      "reason": "The Sunday death happens while carrying groceries into the flat, and Rose awakens in Sunday light indoors. This empty outdoor street is not either scene."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
