@@ -2306,6 +2306,70 @@
       ]
     },
     {
+      "slug": "the-cat-who-had-enough",
+      "title": "Nine Lives of Excuses",
+      "reader": "stories/the-cat-who-had-enough.html",
+      "images": [
+        {
+          "id": "01-the-kitchen-guarantee",
+          "title": "The kitchen guarantee",
+          "alt": "The kitchen guarantee — oil interior study for Nine Lives of Excuses",
+          "source": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+          "sourceSha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+          "full": {
+            "path": "interiors/the-cat-who-had-enough/01-the-kitchen-guarantee-3a3d3c9250d1813f.webp",
+            "sha256": "52dffee1e38e2bbaeca7a76e5997f7c304ffb40a00499efc1875a2b5c7385e10",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-had-enough/01-the-kitchen-guarantee-3a3d3c9250d1813f-thumb.webp",
+            "sha256": "fa5dda4b5955a2a0c68784576ca0ce33148bdfae7a8450c8ea7a1293d7f35ed5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-empty-bakery-unit",
+          "title": "The empty bakery unit",
+          "alt": "The empty bakery unit — oil interior study for Nine Lives of Excuses",
+          "source": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+          "sourceSha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+          "full": {
+            "path": "interiors/the-cat-who-had-enough/02-the-empty-bakery-unit-bff08dde98fc264b.webp",
+            "sha256": "b36ee77798886920cc999414698cbea52ec952b6e3d5a232bf51106ccb06e3fa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-had-enough/02-the-empty-bakery-unit-bff08dde98fc264b-thumb.webp",
+            "sha256": "69fa552df0ba48dfd0b7bcaaf94739a9d68b68e454427fba897b9f5b9753ba06",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-bedroom-design-desk",
+          "title": "Bedroom design desk",
+          "alt": "Bedroom design desk — oil interior study for Nine Lives of Excuses",
+          "source": "stories/the-cat-who-had-enough/art/interiors/03-bedroom-design-desk.png",
+          "sourceSha256": "9ce003417f45b5645a6ff1cd710a077549bd56180ed64a7c0f531fbde9636e2d",
+          "full": {
+            "path": "interiors/the-cat-who-had-enough/03-bedroom-design-desk-9ce003417f45b564.webp",
+            "sha256": "b5201ad802150fe7548d051ab5d20428b8175149fd9578edcb751fc0c2a7599c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-had-enough/03-bedroom-design-desk-9ce003417f45b564-thumb.webp",
+            "sha256": "70595ca60cb433ff89ab6c257f1bfcdf7d2641cd297de247b995942c5d22b2b2",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "no-need-to-worry",
       "title": "No Need to Worry",
       "reader": "stories/no-need-to-worry.html",
@@ -4219,6 +4283,70 @@
           "thumbnail": {
             "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-3560bcc10dc296cd-thumb.webp",
             "sha256": "f7730cdeca35fcfe3a4e9baeabaccc8b84b10c68c653e5346614f2bfbdc8a336",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-courtesy-of-blades",
+      "title": "The Courtesy of Blades",
+      "reader": "stories/the-courtesy-of-blades.html",
+      "images": [
+        {
+          "id": "01-lacebridge-blade-yard",
+          "title": "Lacebridge blade yard",
+          "alt": "Lacebridge blade yard — oil interior study for The Courtesy of Blades",
+          "source": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+          "sourceSha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+          "full": {
+            "path": "interiors/the-courtesy-of-blades/01-lacebridge-blade-yard-41599a99ad74a1fe.webp",
+            "sha256": "1daebaa26f31e387601b760a0805b229f402b130fe1b1d29e2fbaec4458db088",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-courtesy-of-blades/01-lacebridge-blade-yard-41599a99ad74a1fe-thumb.webp",
+            "sha256": "dbff5c94bf01fbf44555e414f269c7bb69447a234c246eb52bb897c79d7cc9c3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-spectator-rail",
+          "title": "The spectator rail",
+          "alt": "The spectator rail — oil interior study for The Courtesy of Blades",
+          "source": "stories/the-courtesy-of-blades/art/interiors/02-the-spectator-rail.png",
+          "sourceSha256": "4b4cb83376db5d0f9733abe900700e10cd753ea9114ac75636b4c297ae07c46d",
+          "full": {
+            "path": "interiors/the-courtesy-of-blades/02-the-spectator-rail-4b4cb83376db5d0f.webp",
+            "sha256": "7171fd0187f0b6ed19e7dcc2b312a3901eaa7df26e37593a3bb7b2624028614d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-courtesy-of-blades/02-the-spectator-rail-4b4cb83376db5d0f-thumb.webp",
+            "sha256": "1e7a73bb46c6a9b49256d15f0b073b56d818e56f544bc3c4fae1adddfab92406",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-chalking-bench",
+          "title": "The chalking bench",
+          "alt": "The chalking bench — oil interior study for The Courtesy of Blades",
+          "source": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+          "sourceSha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+          "full": {
+            "path": "interiors/the-courtesy-of-blades/03-the-chalking-bench-e843efc06a603d46.webp",
+            "sha256": "1eda6bfce9e8a4cdd924d3637fd1135d069f8a3716ff5c2d28c4b639486396d9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-courtesy-of-blades/03-the-chalking-bench-e843efc06a603d46-thumb.webp",
+            "sha256": "58ba81fab6ad89aa121a922cfe7912ddb3ef761763c91b41501b22171474716c",
             "width": 480,
             "height": 320
           }
