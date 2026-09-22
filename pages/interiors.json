@@ -1346,6 +1346,70 @@
       ]
     },
     {
+      "slug": "every-flower-she-knew",
+      "title": "Every Flower She Knew",
+      "reader": "stories/every-flower-she-knew.html",
+      "images": [
+        {
+          "id": "01-herb-room-before-dawn",
+          "title": "Herb room before dawn",
+          "alt": "Herb room before dawn — oil interior study for Every Flower She Knew",
+          "source": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+          "sourceSha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d",
+          "full": {
+            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-2489b91bc9fc0bb3.webp",
+            "sha256": "4aff2e093a081c77d2db1519115f228a25e3da81d2ae6ed85ca8b6b0cd96fcb0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-2489b91bc9fc0bb3-thumb.webp",
+            "sha256": "7f5cae6195828cf31a0dfe55149a86ad6bb80e4f85c78cc4c38aba44cb3fbcc5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-herb-table-after-the-harvest",
+          "title": "Herb table after the harvest",
+          "alt": "Herb table after the harvest — oil interior study for Every Flower She Knew",
+          "source": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
+          "sourceSha256": "4fd126978367a34edbf32bd1b05f6b24f25f79b4944e1df7e5d8458eb2bd1d89",
+          "full": {
+            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-4fd126978367a34e.webp",
+            "sha256": "875be8e71f4193de3f1d9307e9f5268b882b3051a363eb008914a203a7a356c1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-4fd126978367a34e-thumb.webp",
+            "sha256": "6794b73bbb07da4277b0562b100913ec83e098e1666f7896737adc22cab5684e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-herb-room-night-watch",
+          "title": "Herb room night watch",
+          "alt": "Herb room night watch — oil interior study for Every Flower She Knew",
+          "source": "stories/every-flower-she-knew/art/interiors/03-herb-room-night-watch.png",
+          "sourceSha256": "1ac910866d06a78ec55e40b22a0907cbd095083bfe50aefb4ead702dce585381",
+          "full": {
+            "path": "interiors/every-flower-she-knew/03-herb-room-night-watch-1ac910866d06a78e.webp",
+            "sha256": "e66167be96bd7e9e0dd1d69141a2ca32c6a7e0a7842aef87b1286b76ce8dfc9e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/every-flower-she-knew/03-herb-room-night-watch-1ac910866d06a78e-thumb.webp",
+            "sha256": "9ef25764f44d91765855f6461bc43925f964babb527b569248ddb6ea96c13e0d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "four-crowns-in-hiding",
       "title": "Four Crowns in Hiding",
       "reader": "stories/four-crowns-in-hiding.html",
@@ -1659,6 +1723,70 @@
           "thumbnail": {
             "path": "interiors/his-infernal-majesty-says-no/03-royal-gate-corridor-9452e6bf7685d362-thumb.webp",
             "sha256": "1fcb98d1ce7b591f8e3f9c6473166a92775c2eae9a38ebafd21383243ffa2dfa",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "i-really-need-a-sidekick",
+      "title": "I Really Need a Sidekick",
+      "reader": "stories/i-really-need-a-sidekick.html",
+      "images": [
+        {
+          "id": "01-ottilies-workshop",
+          "title": "Ottilies workshop",
+          "alt": "Ottilies workshop — oil interior study for I Really Need a Sidekick",
+          "source": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+          "sourceSha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72",
+          "full": {
+            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-9d74a922916dad48.webp",
+            "sha256": "02c6ab16f80ff9b4451af6b9f8167dac8bce3e9e76ae3ba5e3e0db92555ab0b7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-9d74a922916dad48-thumb.webp",
+            "sha256": "a9ee7b9bb0191ebfc27311e55bf7020d6978a2dd153cda56f8680ae26d128da3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-gilt-rotunda",
+          "title": "Gilt rotunda",
+          "alt": "Gilt rotunda — oil interior study for I Really Need a Sidekick",
+          "source": "stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+          "sourceSha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+          "full": {
+            "path": "interiors/i-really-need-a-sidekick/02-gilt-rotunda-0f87c1f768c72d2d.webp",
+            "sha256": "b10b8b1061d338b4f0b46ffbcca3b18fbf0d17a01874fddcfca2355e18f3a1ca",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/i-really-need-a-sidekick/02-gilt-rotunda-0f87c1f768c72d2d-thumb.webp",
+            "sha256": "2268c6bb4a4692718454e8fc5de8e9ae7f14a26abfc401eadd5404a7ac6f0d86",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-moon-wagon-from-gallery",
+          "title": "Moon wagon from gallery",
+          "alt": "Moon wagon from gallery — oil interior study for I Really Need a Sidekick",
+          "source": "stories/i-really-need-a-sidekick/art/interiors/03-moon-wagon-from-gallery.png",
+          "sourceSha256": "098ce40602ef07a46ee26ec583c69bd8cb4f69cd8a6c31bb0ceffbbf696bf26c",
+          "full": {
+            "path": "interiors/i-really-need-a-sidekick/03-moon-wagon-from-gallery-098ce40602ef07a4.webp",
+            "sha256": "aead45d1fd5905cf235c1509f54fe9f786322c494ccd137bcd7149f3ab30bda2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/i-really-need-a-sidekick/03-moon-wagon-from-gallery-098ce40602ef07a4-thumb.webp",
+            "sha256": "0ebe2314a19b1c2b29ca6520e78587d7fd83e65ad8c14a7328be370e3e88e63c",
             "width": 480,
             "height": 320
           }
