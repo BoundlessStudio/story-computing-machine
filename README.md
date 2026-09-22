@@ -102,6 +102,7 @@ story and its illustrated edition.
 - `pages/catalog.json`, `pages/covers/`: story publication snapshot.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/graphic-novels.json`, `pages/graphic-novels/`: comic PDF download snapshot.
+- `pages/landscapes.json`, `pages/landscapes/`: landscape gallery snapshot and web images.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
 GitHub Pages publishes the Library and story pages; an approved illustrated
@@ -110,6 +111,17 @@ a **Download comic PDF** link to the existing story reader. The
 Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.
+
+The **Landscapes** navigation link opens `gallery.html`: oil-painted landscape
+studies grouped by story, with search, a story filter and an image viewer.
+Arrow keys move between paintings; Escape closes the viewer. Filter URLs can be
+shared. Without JavaScript, every painting remains available as a direct image
+link. Original PNGs live in each story's `art/landscapes/` directory. An explicit
+`python pages/build.py capture-landscapes` saves full-resolution WebP copies,
+small thumbnails and a separate gallery snapshot. It neither changes prose nor
+recaptures the story catalog. Ordinary Pages builds copy those stored web images
+without reading source artwork or encoding new images. The existing GitHub
+Actions workflow deploys the gallery with the rest of the site after merge.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -193,6 +205,7 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Story 
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 python pages/build.py capture <slug>
 python pages/build.py capture-graphic-novel <edition-slug>
+python pages/build.py capture-landscapes
 python pages/build.py check
 ```
 
