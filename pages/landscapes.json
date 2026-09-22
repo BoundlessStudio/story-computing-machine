@@ -9326,44 +9326,6 @@
       "reader": "stories/where-sleep-takes-you.html",
       "images": [
         {
-          "id": "01-the-storage-loading-bay",
-          "title": "The storage loading bay",
-          "alt": "The storage loading bay — oil landscape for Where Sleep Takes You",
-          "source": "stories/where-sleep-takes-you/art/landscapes/01-the-storage-loading-bay.png",
-          "sourceSha256": "2285594f4b5eab0868fcc7372b95195c56baa63858e3b370b6f03d7ef665e8a2",
-          "full": {
-            "path": "landscapes/where-sleep-takes-you/01-the-storage-loading-bay.webp",
-            "sha256": "446e81aff8c751b07e9b34cde786b6c9e22caaef5afcb5ecf4f3f4600a74cece",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-sleep-takes-you/01-the-storage-loading-bay-thumb.webp",
-            "sha256": "c2c7158c9148128b0a3532ae6ca45f7eaf7411dcd80bb08b0500960718f5847e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-nine-blocks-between",
-          "title": "Nine blocks between",
-          "alt": "Nine blocks between — oil landscape for Where Sleep Takes You",
-          "source": "stories/where-sleep-takes-you/art/landscapes/02-nine-blocks-between.png",
-          "sourceSha256": "faafb82b33a79f499f593fa7392eea91a2103940720b522b5e2b2f140d6be26c",
-          "full": {
-            "path": "landscapes/where-sleep-takes-you/02-nine-blocks-between.webp",
-            "sha256": "bceba46a27e777db1424261a5222638c695276698055951363657eea73db6f48",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-sleep-takes-you/02-nine-blocks-between-thumb.webp",
-            "sha256": "ae1ec8fa668b258daa9b2aecbba583759498f5ad2e6cfb134c040663728a9fda",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-exposed-service-roof",
           "title": "The exposed service roof",
           "alt": "The exposed service roof — oil landscape for Where Sleep Takes You",
@@ -9378,25 +9340,6 @@
           "thumbnail": {
             "path": "landscapes/where-sleep-takes-you/03-the-exposed-service-roof-thumb.webp",
             "sha256": "ab6dce339a4f16ac2be349566e45705870c573850051930dc96e845bce1fe8f0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-light-on-the-roof-puddle",
-          "title": "Light on the roof puddle",
-          "alt": "Light on the roof puddle — oil landscape for Where Sleep Takes You",
-          "source": "stories/where-sleep-takes-you/art/landscapes/04-light-on-the-roof-puddle.png",
-          "sourceSha256": "8a17621c8517793dab9a4055b0b8d7559e224c3569f88b875b11e4dc5c88c8b6",
-          "full": {
-            "path": "landscapes/where-sleep-takes-you/04-light-on-the-roof-puddle.webp",
-            "sha256": "8db6438802b2debab993235b054f722ab46580605d2af76a8607de0d99b1d30c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-sleep-takes-you/04-light-on-the-roof-puddle-thumb.webp",
-            "sha256": "104374d0739b9739b220b2fd0c13eaa7e4e16378f3b71f1f2fa9f47fbc66b19b",
             "width": 480,
             "height": 320
           }
@@ -12264,6 +12207,21 @@
       "source": "stories/where-no-unicorn-stands/art/landscapes/05-the-ridge-after-release.png",
       "sourceSha256": "355fe9333fd0d8a40ae2d3beb4b999fea3d86456f664003c01329ffe8a2a11ff",
       "reason": "The ridge landing follows the night release in continuing rain, followed by shelter in a hut. This clear daytime, partly sunny ridge contradicts the ending's time and weather."
+    },
+    {
+      "source": "stories/where-sleep-takes-you/art/landscapes/01-the-storage-loading-bay.png",
+      "sourceSha256": "2285594f4b5eab0868fcc7372b95195c56baa63858e3b370b6f03d7ef665e8a2",
+      "reason": "The storage units open onto an indoor corridor under white lights, with a lift route to the loading bay. The painting substitutes an outdoor row of drive-up storage garages."
+    },
+    {
+      "source": "stories/where-sleep-takes-you/art/landscapes/02-nine-blocks-between.png",
+      "sourceSha256": "faafb82b33a79f499f593fa7392eea91a2103940720b522b5e2b2f140d6be26c",
+      "reason": "The nine-block interval is a hired-car transfer between buildings. The prose supplies no distinct street scene or this broad hillside streetscape; the painting adds generic transit scenery."
+    },
+    {
+      "source": "stories/where-sleep-takes-you/art/landscapes/04-light-on-the-roof-puddle.png",
+      "sourceSha256": "8a17621c8517793dab9a4055b0b8d7559e224c3569f88b875b11e4dc5c88c8b6",
+      "reason": "Repeats the same tar service roof and puddle already represented by the retained roof painting, without a separate location or substantial scene change."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
