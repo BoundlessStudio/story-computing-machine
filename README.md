@@ -137,6 +137,14 @@ the gallery snapshot. Its rejected original remains excluded. Capture preserves
 that selection and refuses changed replacement bytes until the selection is
 reviewed and updated. Pages builds use only the stored WebP copies.
 
+Replacement artwork keeps the collection's Canadian Group of Seven inspired
+oil-painting direction. Inspect the original image as the style reference and
+use the story-specific removal reason as correction context. Preserve broad
+painted shapes, rhythmic brushwork, strong silhouettes and simplified detail
+across the whole image, including interiors, buildings and any necessary small
+figures. Paint texture alone does not establish a match. Review the actual
+result against both the story and the original artwork before selecting it.
+
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
 institutions, technology, magical conditions, and inherited history. Different
