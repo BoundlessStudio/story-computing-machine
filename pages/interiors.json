@@ -7170,6 +7170,70 @@
       ]
     },
     {
+      "slug": "the-red-dot",
+      "title": "The Red Dot",
+      "reader": "stories/the-red-dot.html",
+      "images": [
+        {
+          "id": "01-the-warehouse-aisle",
+          "title": "The warehouse aisle",
+          "alt": "The warehouse aisle — oil interior study for The Red Dot",
+          "source": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+          "sourceSha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+          "full": {
+            "path": "interiors/the-red-dot/01-the-warehouse-aisle-f9ace91b7a2e36cb.webp",
+            "sha256": "4e9d013874a5245eda8d5d91bbcc046fc6a1cddf02edad7d5031803720f3dd57",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-red-dot/01-the-warehouse-aisle-f9ace91b7a2e36cb-thumb.webp",
+            "sha256": "858aea51bb2f916a590ad947a694a07ef465177bde0175eff7fa1c4e34e9ca6a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-clock-counter",
+          "title": "The clock counter",
+          "alt": "The clock counter — oil interior study for The Red Dot",
+          "source": "stories/the-red-dot/art/interiors/02-the-clock-counter.png",
+          "sourceSha256": "913b1b2adb80ce20a9c196ebc8a6345665b80486644875439ebede378e7ec411",
+          "full": {
+            "path": "interiors/the-red-dot/02-the-clock-counter-913b1b2adb80ce20.webp",
+            "sha256": "52cd1ff57a7dea959098ca056a29bf4d29f8c4cf6f2c5d90c30cc07cb214837a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-red-dot/02-the-clock-counter-913b1b2adb80ce20-thumb.webp",
+            "sha256": "dedd33895e0428a09725df84f90b517c751a02193457eedb1c45da36b643274e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-packing-table",
+          "title": "The packing table",
+          "alt": "The packing table — oil interior study for The Red Dot",
+          "source": "stories/the-red-dot/art/interiors/03-the-packing-table.png",
+          "sourceSha256": "4ce7bfc8fd0aed72cba6c57785bdf8eac76c280c4e8a121c99aaafbe26a9f781",
+          "full": {
+            "path": "interiors/the-red-dot/03-the-packing-table-4ce7bfc8fd0aed72.webp",
+            "sha256": "5f9714ae322c516908580849651c0a0f81669ab2ae80e727293ed19884664f60",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-red-dot/03-the-packing-table-4ce7bfc8fd0aed72-thumb.webp",
+            "sha256": "9141c3c62a4be27c433ba8e7937c0d751b5c99164bbe360704ffa07ad72143f5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-ring-between-lives",
       "title": "The Ring Between Lives",
       "reader": "stories/the-ring-between-lives.html",
@@ -7227,6 +7291,70 @@
           "thumbnail": {
             "path": "interiors/the-ring-between-lives/03-the-east-gallery-at-dawn-7d53061f28acb4b0-thumb.webp",
             "sha256": "971bd687ef982a8fdf973e75a871d91d3fa09a3f168fc8b789b9bc90d2378b3c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-room-that-waited",
+      "title": "The Room That Waited",
+      "reader": "stories/the-room-that-waited.html",
+      "images": [
+        {
+          "id": "01-bunker-entrance-passage",
+          "title": "Bunker entrance passage",
+          "alt": "Bunker entrance passage — oil interior study for The Room That Waited",
+          "source": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+          "sourceSha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+          "full": {
+            "path": "interiors/the-room-that-waited/01-bunker-entrance-passage-8eb095787f00c3b8.webp",
+            "sha256": "2971e1940557f20f9b806f6ea87559b597c70b8811ce1b39702f752150bfa389",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-room-that-waited/01-bunker-entrance-passage-8eb095787f00c3b8-thumb.webp",
+            "sha256": "612b30172ea124e32fed48b12aac72e7f81b3dbddf2e052548c1bc7d4199ada4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-bunker-mess-room",
+          "title": "Bunker mess room",
+          "alt": "Bunker mess room — oil interior study for The Room That Waited",
+          "source": "stories/the-room-that-waited/art/interiors/02-bunker-mess-room.png",
+          "sourceSha256": "fda6592c3992839305781dc36359bfbecf35c3432b860400a0946b7dd3156575",
+          "full": {
+            "path": "interiors/the-room-that-waited/02-bunker-mess-room-fda6592c39928393.webp",
+            "sha256": "a366245c328288d95c3503ab6310ce22f02c43d167dfdc2b78587b36cf52d2b5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-room-that-waited/02-bunker-mess-room-fda6592c39928393-thumb.webp",
+            "sha256": "5b19d439b84ac046b5b3bc1ccdd8583e755eee0cd66c236c16344648e3729ba0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-paired-control-chamber",
+          "title": "Paired control chamber",
+          "alt": "Paired control chamber — oil interior study for The Room That Waited",
+          "source": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
+          "sourceSha256": "b92eca5324e052ce2ebd65e14f3ddd246885c4b31c7d9314e0727a04c6f70511",
+          "full": {
+            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b92eca5324e052ce.webp",
+            "sha256": "3cebb8034cd783c60758d69104c4fb79503766b69ba0c2c03dee3b3caa11c25e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b92eca5324e052ce-thumb.webp",
+            "sha256": "f2f3b69ade1e7dafb0ba7eaf15926a58f6f529abeaf12bacb45edca336dbb90c",
             "width": 480,
             "height": 320
           }
