@@ -4358,25 +4358,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-sunset-in-the-kingdom-of-later",
-          "title": "Sunset in the kingdom of later",
-          "alt": "Sunset in the kingdom of later — oil landscape for The Kingdom of Later",
-          "source": "stories/the-kingdom-of-later/art/landscapes/05-sunset-in-the-kingdom-of-later.png",
-          "sourceSha256": "80a2388413b7468fe1053164d2d297f734dddf7e718bd1e9b9446d8813b23222",
-          "full": {
-            "path": "landscapes/the-kingdom-of-later/05-sunset-in-the-kingdom-of-later.webp",
-            "sha256": "b260086bfcbda2e08e98b7f60cb5c54063c1d07ec8aa0219806e666236adeb59",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kingdom-of-later/05-sunset-in-the-kingdom-of-later-thumb.webp",
-            "sha256": "43a8f7d66ead5811d06c24b074b4409464fee6c4227f68dc3672a303dea6cabc",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15066,6 +15047,11 @@
       "source": "stories/the-kill-she-wouldnt-take/art/landscapes/05-cyan-and-red-evening.png",
       "sourceSha256": "507aea61af2c26d525b6a27d3aaad776c33d80788654b57595c516e57715e07d",
       "reason": "The entire story concerns an arena bout and its broadcast from inside the venue. These exterior approaches, city rooflines and changing skies invent settings and times of day from interior cyan lighting and red displays."
+    },
+    {
+      "source": "stories/the-kingdom-of-later/art/landscapes/05-sunset-in-the-kingdom-of-later.png",
+      "sourceSha256": "80a2388413b7468fe1053164d2d297f734dddf7e718bd1e9b9446d8813b23222",
+      "reason": "Repeats the market as a sunset landscape, although the ending remains inside the cobbler's shop with rain in the gutter; the sunset bell does not establish this exterior view."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
