@@ -7605,44 +7605,6 @@
       "reader": "stories/voice-of-silence.html",
       "images": [
         {
-          "id": "01-the-examination-tower",
-          "title": "The examination tower",
-          "alt": "The examination tower — oil landscape for The Voice of Silence",
-          "source": "stories/voice-of-silence/art/landscapes/01-the-examination-tower.png",
-          "sourceSha256": "8952361c2da03ed7320fce01eed4a1a0d128736e3b726f32d9e64a41c75412f0",
-          "full": {
-            "path": "landscapes/voice-of-silence/01-the-examination-tower.webp",
-            "sha256": "de1ceb619ecec3f74c50eb6f9870e32ca9bd1d670fa78cf40ecedf9215c6741a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/voice-of-silence/01-the-examination-tower-thumb.webp",
-            "sha256": "e2409cfa023bef606625aa90a3d024ba35e905be96185de0b64d83c903ef2620",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-wind-at-the-high-shutters",
-          "title": "Wind at the high shutters",
-          "alt": "Wind at the high shutters — oil landscape for The Voice of Silence",
-          "source": "stories/voice-of-silence/art/landscapes/02-wind-at-the-high-shutters.png",
-          "sourceSha256": "1e3fda2092637321aa20df8a4faef8c743bc313691c878d995e5f42824d681a6",
-          "full": {
-            "path": "landscapes/voice-of-silence/02-wind-at-the-high-shutters.webp",
-            "sha256": "1851474cbfa686d822a5d211cc60f88e881955b562815d56644b3c8fab7536df",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/voice-of-silence/02-wind-at-the-high-shutters-thumb.webp",
-            "sha256": "5a6a58537d040ddd949848b7dfe7e235eaffa94aa088d6f5ab950780c156ee48",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-open-practice-court",
           "title": "The open practice court",
           "alt": "The open practice court — oil landscape for The Voice of Silence",
@@ -7676,25 +7638,6 @@
           "thumbnail": {
             "path": "landscapes/voice-of-silence/04-ordered-wreckage-at-dusk-thumb.webp",
             "sha256": "ea84ca4d4b75ba8b9d04bea1a631e730c3886f338fdb47463c738074240fd64d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-morning-in-the-scarred-court",
-          "title": "Morning in the scarred court",
-          "alt": "Morning in the scarred court — oil landscape for The Voice of Silence",
-          "source": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
-          "sourceSha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
-          "full": {
-            "path": "landscapes/voice-of-silence/05-morning-in-the-scarred-court.webp",
-            "sha256": "ceaf53e116bfcca4373992089089cdff1080bd619a70555a1c8edb33b2af9e0f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/voice-of-silence/05-morning-in-the-scarred-court-thumb.webp",
-            "sha256": "f7016a6ec6115eacec41b1b69213ab47312a55b57a73036f59fd74166e4b50e8",
             "width": 480,
             "height": 320
           }
@@ -13027,6 +12970,21 @@
       "source": "stories/ultimate-evil-dog/art/landscapes/05-the-tower-next-morning.png",
       "sourceSha256": "9fad518d3d2131bf1d1a5f36bcd53a513c36ea6c1dfd208747876571e0fa8790",
       "reason": "The next-morning scene returns to breakfast inside Brightguard's home, not an exterior visit to Maledict's tower. This is another redundant city/tower panorama."
+    },
+    {
+      "source": "stories/voice-of-silence/art/landscapes/01-the-examination-tower.png",
+      "sourceSha256": "8952361c2da03ed7320fce01eed4a1a0d128736e3b726f32d9e64a41c75412f0",
+      "reason": "The examination begins inside the tower among three galleries. This remote exterior approach does not depict a visited outdoor scene."
+    },
+    {
+      "source": "stories/voice-of-silence/art/landscapes/02-wind-at-the-high-shutters.png",
+      "sourceSha256": "1e3fda2092637321aa20df8a4faef8c743bc313691c878d995e5f42824d681a6",
+      "reason": "The high shutters are part of the interior examination setting; this rooftop-and-landscape viewpoint is not a source scene and repeats the tower exterior."
+    },
+    {
+      "source": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
+      "sourceSha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
+      "reason": "A second view of the same scarred practice court after the disaster repeats the retained wreckage image without a new location or materially changed condition."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
