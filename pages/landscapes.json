@@ -3403,82 +3403,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-green-opposite-bank",
-          "title": "The green opposite bank",
-          "alt": "The green opposite bank — oil landscape for The Credit Book",
-          "source": "stories/the-credit-book/art/landscapes/02-the-green-opposite-bank.png",
-          "sourceSha256": "6ff21b21dad8867f3ab365069f5826783cd78a5ead682765a107f59e4ba8b201",
-          "full": {
-            "path": "landscapes/the-credit-book/02-the-green-opposite-bank.webp",
-            "sha256": "4a81919bb14338ac260b2e229a8b61c33ca93ee0072b84842de6b80ed33aac3a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-credit-book/02-the-green-opposite-bank-thumb.webp",
-            "sha256": "89cee0481e116bb2f3a8396e02a98c25df9bf96ada279e7e14902a850b4005a9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-river-far-below",
-          "title": "River far below",
-          "alt": "River far below — oil landscape for The Credit Book",
-          "source": "stories/the-credit-book/art/landscapes/03-river-far-below.png",
-          "sourceSha256": "6e3302235ce4a9516c89f5337bee94960344e7c713c8c938dc13920a343ab566",
-          "full": {
-            "path": "landscapes/the-credit-book/03-river-far-below.webp",
-            "sha256": "e6fbf53a5148e6cad679c7193a53cf3bb324aca68108531e797965c80bdf283c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-credit-book/03-river-far-below-thumb.webp",
-            "sha256": "9df20cbbf902d5f679f26cc89ded1c6e7cfdec97bda5b61ca81a87c1d75c0878",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-public-cart-road",
-          "title": "The public cart road",
-          "alt": "The public cart road — oil landscape for The Credit Book",
-          "source": "stories/the-credit-book/art/landscapes/04-the-public-cart-road.png",
-          "sourceSha256": "61d454849cd6af5eed6ee1b5494e9e5009453554f82618895eb8c3192f73d8f1",
-          "full": {
-            "path": "landscapes/the-credit-book/04-the-public-cart-road.webp",
-            "sha256": "4098e857bb74249234d859bce57b54b9bbaabeb181bb32a18aec9486f0f8199e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-credit-book/04-the-public-cart-road-thumb.webp",
-            "sha256": "469494ba197cb17b78de75f70ce87a7648fa36ce0aef0b4a581c9973a0ff2c68",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-sundown-beside-the-new-shop",
-          "title": "Sundown beside the new shop",
-          "alt": "Sundown beside the new shop — oil landscape for The Credit Book",
-          "source": "stories/the-credit-book/art/landscapes/05-sundown-beside-the-new-shop.png",
-          "sourceSha256": "24089b5443484b5797b7593e7c6c0045587be3a79f8e4c6d8d3f7fc4d176cf0e",
-          "full": {
-            "path": "landscapes/the-credit-book/05-sundown-beside-the-new-shop.webp",
-            "sha256": "40e5a673e27db674006fc8ea0edc45e3093f68c95e3b1885682c16d172eeec73",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-credit-book/05-sundown-beside-the-new-shop-thumb.webp",
-            "sha256": "a1eb8b9a8d17779052e1a4ca782235848f8e8a137a056bc9ba91ea0b48766166",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -16114,6 +16038,26 @@
       "source": "stories/the-courtesy-of-blades/art/landscapes/05-dawn-carries-east.png",
       "sourceSha256": "1f0b56bd780747983bbe0fa8111c36037a68069ef99e8a996d6f1d9200efdfa5",
       "reason": "The dawn journey is still in the future at the ending; this repeats the river with an invented later scene."
+    },
+    {
+      "source": "stories/the-credit-book/art/landscapes/02-the-green-opposite-bank.png",
+      "sourceSha256": "6ff21b21dad8867f3ab365069f5826783cd78a5ead682765a107f59e4ba8b201",
+      "reason": "Changes the established multi-arch crossing to a single arch and repeats the same river-bank setting."
+    },
+    {
+      "source": "stories/the-credit-book/art/landscapes/03-river-far-below.png",
+      "sourceSha256": "6e3302235ce4a9516c89f5337bee94960344e7c713c8c938dc13920a343ab566",
+      "reason": "Replaces the inhabited built crossing with an enormous natural rock arch without the streets and stacked houses that define Kelvra."
+    },
+    {
+      "source": "stories/the-credit-book/art/landscapes/04-the-public-cart-road.png",
+      "sourceSha256": "61d454849cd6af5eed6ee1b5494e9e5009453554f82618895eb8c3192f73d8f1",
+      "reason": "Shows a bare, thin viaduct instead of the great crossing carrying whole streets, breaking the retained city's structural continuity."
+    },
+    {
+      "source": "stories/the-credit-book/art/landscapes/05-sundown-beside-the-new-shop.png",
+      "sourceSha256": "24089b5443484b5797b7593e7c6c0045587be3a79f8e4c6d8d3f7fc4d176cf0e",
+      "reason": "Repeats the river sunset while again stripping the crossing of its streets and moving the buildings onto a separate hill."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
