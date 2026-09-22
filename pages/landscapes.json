@@ -4367,25 +4367,6 @@
       "reader": "stories/the-kingdom-was-the-easy-part.html",
       "images": [
         {
-          "id": "01-manydoor-hall-blue-night",
-          "title": "Manydoor hall blue night",
-          "alt": "Manydoor hall blue night — oil landscape for The Kingdom Was the Easy Part",
-          "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/01-manydoor-hall-blue-night.png",
-          "sourceSha256": "3508b1e09a7dd161c74ee47c500de33bc41dac527640b60e570c576896ef2ad1",
-          "full": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/01-manydoor-hall-blue-night.webp",
-            "sha256": "6dc186b62a3d04c19a1df24ee8cfe970e1717cd1326fcd6ebd812c521e045c9f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/01-manydoor-hall-blue-night-thumb.webp",
-            "sha256": "bfa5244539963f14cddcfa9b2d847ac40ee6f987ad46cb032d5873e8d22ffb22",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-empty-roof-court",
           "title": "The empty roof court",
           "alt": "The empty roof court — oil landscape for The Kingdom Was the Easy Part",
@@ -4400,63 +4381,6 @@
           "thumbnail": {
             "path": "landscapes/the-kingdom-was-the-easy-part/02-the-empty-roof-court-thumb.webp",
             "sha256": "2c5e645ef8c6068e0ae7400a72386a966bf00b3cf0af39c7c0eb1b09df35a98a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-whitening-sky-over-the-parapet",
-          "title": "Whitening sky over the parapet",
-          "alt": "Whitening sky over the parapet — oil landscape for The Kingdom Was the Easy Part",
-          "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/03-whitening-sky-over-the-parapet.png",
-          "sourceSha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
-          "full": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/03-whitening-sky-over-the-parapet.webp",
-            "sha256": "89f96ba0459c3be9671b1ba9a44303388817f619af59be62e89eb53657a15f64",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/03-whitening-sky-over-the-parapet-thumb.webp",
-            "sha256": "212a7d3fb9a2d1032ec9430c8e9f5d1c131ece73bf3f897619bde7e7e7bb4138",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-east-road-before-snow",
-          "title": "The east road before snow",
-          "alt": "The east road before snow — oil landscape for The Kingdom Was the Easy Part",
-          "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/04-the-east-road-before-snow.png",
-          "sourceSha256": "20c8a4f9cf8e9b5e81f034d01443b85b610cb6fe6ee23b4974a161e7d5157117",
-          "full": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/04-the-east-road-before-snow.webp",
-            "sha256": "6b06eeb6b4e24dbb330d9042eacc36d1e66a8e6428598bd3559ed8d1b0645533",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/04-the-east-road-before-snow-thumb.webp",
-            "sha256": "47c781bdd5d6e1b15430de7485dc9b224c992012b1db52133ec723500e6a93e3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-mountain-weather",
-          "title": "Mountain weather",
-          "alt": "Mountain weather — oil landscape for The Kingdom Was the Easy Part",
-          "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/05-mountain-weather.png",
-          "sourceSha256": "f1a4625dae19b493e4122cf352a37561af7196418e3d75c15c0c3eaa26ed6d03",
-          "full": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/05-mountain-weather.webp",
-            "sha256": "8e1e4369f17bfe85051fe6068661cdc584bb57c7e85d72103f0da8da815bf144",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-kingdom-was-the-easy-part/05-mountain-weather-thumb.webp",
-            "sha256": "5dfebd8a3e18c0f89a2ff51b81eb1e9113ef831d69bed2c09ccc9e804df034eb",
             "width": 480,
             "height": 320
           }
@@ -15052,6 +14976,26 @@
       "source": "stories/the-kingdom-of-later/art/landscapes/05-sunset-in-the-kingdom-of-later.png",
       "sourceSha256": "80a2388413b7468fe1053164d2d297f734dddf7e718bd1e9b9446d8813b23222",
       "reason": "Repeats the market as a sunset landscape, although the ending remains inside the cobbler's shop with rain in the gutter; the sunset bell does not establish this exterior view."
+    },
+    {
+      "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/01-manydoor-hall-blue-night.png",
+      "sourceSha256": "3508b1e09a7dd161c74ee47c500de33bc41dac527640b60e570c576896ef2ad1",
+      "reason": "Turns blue night visible in the library windows into an invented distant exterior view of the hall."
+    },
+    {
+      "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/03-whitening-sky-over-the-parapet.png",
+      "sourceSha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
+      "reason": "Repeats the same predawn parapet/roof-court farewell already represented by image 02."
+    },
+    {
+      "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/04-the-east-road-before-snow.png",
+      "sourceSha256": "20c8a4f9cf8e9b5e81f034d01443b85b610cb6fe6ee23b4974a161e7d5157117",
+      "reason": "The east road is Cavren's proposed future journey, not an enacted setting."
+    },
+    {
+      "source": "stories/the-kingdom-was-the-easy-part/art/landscapes/05-mountain-weather.png",
+      "sourceSha256": "f1a4625dae19b493e4122cf352a37561af7196418e3d75c15c0c3eaa26ed6d03",
+      "reason": "Expands the mountain-herb smell on Oruvane's return into an unseen mountain landscape."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
