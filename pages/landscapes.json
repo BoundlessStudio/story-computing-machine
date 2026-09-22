@@ -1847,16 +1847,16 @@
           "title": "Teethlike rocks at the mouth",
           "alt": "Teethlike rocks at the mouth — oil landscape for Coiled Together",
           "source": "pages/landscape-replacements/coiled-together/04-teethlike-rocks-at-the-mouth.png",
-          "sourceSha256": "e54de1fb456ac983026fee6898ae194426f4b5a6898e6cb7d128cbf004e2a833",
+          "sourceSha256": "43b7b738aa7ac4866537c65d776ff270ac08315a376922d773953f2eb731b004",
           "full": {
-            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth-e54de1fb456ac983.webp",
-            "sha256": "e1860913e0111d4a0093a747527b0e052211c92e604df0b3fa3962d5bab23df4",
+            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth-43b7b738aa7ac486.webp",
+            "sha256": "880516084bad8cebb02ac6128d5099b24e45b895561b1900a89e597e3be9ac0f",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth-e54de1fb456ac983-thumb.webp",
-            "sha256": "b5759af76d9428903650cb0e708544cb6fc1427b0a57bc6fc5035452c9879e17",
+            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth-43b7b738aa7ac486-thumb.webp",
+            "sha256": "27e5de2e69764981a36f59e7d21f8ab9b573f088a86692d56c083fab1828b20a",
             "width": 480,
             "height": 320
           },
@@ -1864,7 +1864,7 @@
             "originalSource": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
             "originalSha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
             "correction": "The path directly outside the upper mouth is a brown torrent too deep to cross. This clear dry threshold looking into a distant valley removes the immediate flood barrier that keeps everyone trapped.",
-            "prompt": "Correct this Coiled Together landscape while preserving the cave-mouth framing, teethlike rocks, rainy mountain environment and thick impasto oil style. At this source moment, the rescued group reaches an UPPER CAVE MOUTH, but the path directly outside has become a BROWN TORRENT TOO DEEP TO CROSS before morning. Show the view from safely inside the small dry mouth toward a deep, violently rushing, opaque muddy-brown flood that sweeps SIDEWAYS ACROSS THE ENTIRE EXIT just beyond the final dry rock lip. It submerges the outside path from wall to wall; no dry strip, stepping stones, ford or safe route remains. Close composition: jagged dark teethlike rocks frame gray rainlight and the churning brown current immediately outside. Water piles high against the outer rocks, with dirty white foam and floating twigs, a convincing dangerous lateral torrent. A narrow dry foreground inside the shelter stays visible; this is a blocked exit, not a flooded interior. Crop away most of the sprawling scenic valley panorama; distant rain-blurred rock slopes only through the upper gap. Continuous rain and slate-gray overcast light. No people, text, border, sunny clearing or orange sunset. Match the reference's traditional tactile oil brushwork.",
+            "prompt": "Repaint reference 2 as a Canadian Group of Seven inspired oil landscape, 1536x1024. Reference 1 is the original collection's STYLE anchor: big angular ochre and charcoal rock forms, broad blue-gray mountain planes, expressive directional brushwork and powerful simple silhouettes. Reference 2 supplies corrected CONTENT, but its highly detailed foaming water needs much stronger painterly simplification.\n\nView from inside an upper cave through a mouth edged with teethlike downward rock points. Immediately beyond the cave's small damp stone lip, deep violent BROWN FLOODWATER blocks the way. The torrent fills the entire foreground outside, bank to bank; no crossable shallow stream, dry path, road or inviting green valley directly outside. Beyond it distant steep mountain slopes disappear in rain. Keep the rough cave frame on both sides and overhead; no people or creature.\n\nPaint the flood as several strong rolling ochre, umber and dirty-cream curved brush masses. Foam is bold broken calligraphic strokes, never hundreds of tiny photographed splashes. Cave rocks are broad dark interlocking planes, mountains grouped slate shapes, rain and cloud carried by sparse rhythmic strokes. Strong flattened color design, restrained palette, economy of mark. The whole composition must be visibly constructed from brushmarks, not photographically modeled and then textured. No CGI, cinematic gloss, detailed spray, text, border or signature.",
             "generator": "image_gen"
           }
         }
