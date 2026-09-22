@@ -1090,6 +1090,70 @@
       ]
     },
     {
+      "slug": "captive-couples",
+      "title": "Held Together",
+      "reader": "stories/captive-couples.html",
+      "images": [
+        {
+          "id": "01-transfer-station-catwalk",
+          "title": "Transfer station catwalk",
+          "alt": "Transfer station catwalk — oil interior study for Held Together",
+          "source": "stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+          "sourceSha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+          "full": {
+            "path": "interiors/captive-couples/01-transfer-station-catwalk-6ca479087f247860.webp",
+            "sha256": "7d35e39bef0955c9e94211dfd2d9bc7d88946c4ac2452460041b9aa521f0f248",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/captive-couples/01-transfer-station-catwalk-6ca479087f247860-thumb.webp",
+            "sha256": "231ce713c8fd4d2fc38ab7e7b867f3b78df840d2e388d0fd7f887613b28aa8d7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-relay-bay",
+          "title": "Relay bay",
+          "alt": "Relay bay — oil interior study for Held Together",
+          "source": "stories/captive-couples/art/interiors/02-relay-bay.png",
+          "sourceSha256": "c17db628384daf822214b81c394e740df5c12cc2e144096e9b069f993f104f27",
+          "full": {
+            "path": "interiors/captive-couples/02-relay-bay-c17db628384daf82.webp",
+            "sha256": "e630ae4820ae745e8a8d0f79c844e147c0509652efae7cdfe4517337d97e0237",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/captive-couples/02-relay-bay-c17db628384daf82-thumb.webp",
+            "sha256": "7148b4152f3f584b5f6fcdbf2e6676317f6432f52ab6007405583ce50a76856a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-hospital-assessment-bay",
+          "title": "Hospital assessment bay",
+          "alt": "Hospital assessment bay — oil interior study for Held Together",
+          "source": "stories/captive-couples/art/interiors/03-hospital-assessment-bay.png",
+          "sourceSha256": "93f4a7b8d99bb2c49b2707cc9e10deb4b1472de5e9aa903912c8c5afe9153790",
+          "full": {
+            "path": "interiors/captive-couples/03-hospital-assessment-bay-93f4a7b8d99bb2c4.webp",
+            "sha256": "970198710995bdc261a39b5a4f5bc4cda4775023642ff00b329b30ed3974b8c4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/captive-couples/03-hospital-assessment-bay-93f4a7b8d99bb2c4-thumb.webp",
+            "sha256": "d6f93fcbee4455538c4e349056ba18da03a1951ccd6e06cab5b90df414d347bf",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "clerics-infernal-ex",
       "title": "Hello, Lover",
       "reader": "stories/clerics-infernal-ex.html",
