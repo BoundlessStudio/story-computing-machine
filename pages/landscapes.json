@@ -1464,108 +1464,6 @@
       ]
     },
     {
-      "slug": "i-really-need-a-sidekick",
-      "title": "I Really Need a Sidekick",
-      "reader": "stories/i-really-need-a-sidekick.html",
-      "images": [
-        {
-          "id": "01-the-painted-forest-made-real",
-          "title": "The painted forest made real",
-          "alt": "The painted forest made real — oil landscape for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/landscapes/01-the-painted-forest-made-real.png",
-          "sourceSha256": "7ac180a1b81c9e765e6f4cddd6de1387825d8860740cdd7d193c358354f50f3a",
-          "full": {
-            "path": "landscapes/i-really-need-a-sidekick/01-the-painted-forest-made-real.webp",
-            "sha256": "fc20d164834909ca645e5aba4fd901263a090cbe6e6376593a6fd6cf2b01a3c1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/i-really-need-a-sidekick/01-the-painted-forest-made-real-thumb.webp",
-            "sha256": "a7bd3a5a57d25467e1d3ee029b6d957ca1366aeb4af9a7fefdc19a871ba8dc54",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-beyond-the-palace-window",
-          "title": "Beyond the palace window",
-          "alt": "Beyond the palace window — oil landscape for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/landscapes/02-beyond-the-palace-window.png",
-          "sourceSha256": "4f00edbfb201843296cb475c2c14c8f1ff92441d232e5935baf6e7ef62152742",
-          "full": {
-            "path": "landscapes/i-really-need-a-sidekick/02-beyond-the-palace-window.webp",
-            "sha256": "c779d93ace5b97578f9d7bcb1b9867ec9e3ccd820fb88553d9ce352c3858e6c2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/i-really-need-a-sidekick/02-beyond-the-palace-window-thumb.webp",
-            "sha256": "985416fa4bbdced3913021e2acfa82b12d3d0198bdf38101b92d4c0a52349206",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-castles-distant-towers",
-          "title": "The castles distant towers",
-          "alt": "The castles distant towers — oil landscape for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/landscapes/03-the-castles-distant-towers.png",
-          "sourceSha256": "ea4f4df9ceb271912ca145f7e2d594b6f1e42a034b6010a039328730037869a4",
-          "full": {
-            "path": "landscapes/i-really-need-a-sidekick/03-the-castles-distant-towers.webp",
-            "sha256": "3125c0e58d0af21b2c08d39415f3eeed9c716e5e12cb432f5974c47346c6ce04",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/i-really-need-a-sidekick/03-the-castles-distant-towers-thumb.webp",
-            "sha256": "12f16c5e9cc4edc04dc927767f84a97086444dcdbb18feb01584165baa4c17e9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-moon-over-the-woodland",
-          "title": "Moon over the woodland",
-          "alt": "Moon over the woodland — oil landscape for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/landscapes/04-moon-over-the-woodland.png",
-          "sourceSha256": "9c894bd72927e1dfc622a6c644bd58930395266b47f24ad45ff9e55764aba045",
-          "full": {
-            "path": "landscapes/i-really-need-a-sidekick/04-moon-over-the-woodland.webp",
-            "sha256": "fb9d647eee8db01970f4fb4d525d07fc97a6d417e8a12c833baf5c2b631cda37",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/i-really-need-a-sidekick/04-moon-over-the-woodland-thumb.webp",
-            "sha256": "e1135d8348ffb867c0061fdf146e41ad010928428214c887283b42d4ca0ff8f6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-forest-returns",
-          "title": "The forest returns",
-          "alt": "The forest returns — oil landscape for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/landscapes/05-the-forest-returns.png",
-          "sourceSha256": "47ae3d1af91576d47da5140ed98890c46440f7747da288a4f65257c4f959d7e6",
-          "full": {
-            "path": "landscapes/i-really-need-a-sidekick/05-the-forest-returns.webp",
-            "sha256": "521d5a7c8e278b5517b38a631d0a392dc78460cc4a239a451bb0abd497305d82",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/i-really-need-a-sidekick/05-the-forest-returns-thumb.webp",
-            "sha256": "9624475bb307ea83cda4baab99eb9b9c01bbb8cdfe9e460edfaec9386ef20f73",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "late-for-dinner",
       "title": "Late for Dinner",
       "reader": "stories/late-for-dinner.html",
@@ -17764,6 +17662,31 @@
       "source": "stories/his-infernal-majesty-says-no/art/landscapes/05-night-staff-lights.png",
       "sourceSha256": "79d3fcf3480b08e3535e98d03ee226662bcc6bbe2fa60725c01e13f9f2004834",
       "reason": "Repeats the unvisited college grounds; night staffing is a residence provision, not a depicted night scene."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/landscapes/01-the-painted-forest-made-real.png",
+      "sourceSha256": "7ac180a1b81c9e765e6f4cddd6de1387825d8860740cdd7d193c358354f50f3a",
+      "reason": "Literalizes indoor theatre scenery as a real outdoor landscape. The forest, palace window, towers and plywood moon remain competition stage props; the story never transforms them into geographical settings."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/landscapes/02-beyond-the-palace-window.png",
+      "sourceSha256": "4f00edbfb201843296cb475c2c14c8f1ff92441d232e5935baf6e7ef62152742",
+      "reason": "Literalizes indoor theatre scenery as a real outdoor landscape. The forest, palace window, towers and plywood moon remain competition stage props; the story never transforms them into geographical settings."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/landscapes/03-the-castles-distant-towers.png",
+      "sourceSha256": "ea4f4df9ceb271912ca145f7e2d594b6f1e42a034b6010a039328730037869a4",
+      "reason": "Literalizes indoor theatre scenery as a real outdoor landscape. The forest, palace window, towers and plywood moon remain competition stage props; the story never transforms them into geographical settings."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/landscapes/04-moon-over-the-woodland.png",
+      "sourceSha256": "9c894bd72927e1dfc622a6c644bd58930395266b47f24ad45ff9e55764aba045",
+      "reason": "Literalizes indoor theatre scenery as a real outdoor landscape. The forest, palace window, towers and plywood moon remain competition stage props; the story never transforms them into geographical settings."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/landscapes/05-the-forest-returns.png",
+      "sourceSha256": "47ae3d1af91576d47da5140ed98890c46440f7747da288a4f65257c4f959d7e6",
+      "reason": "Literalizes indoor theatre scenery as a real outdoor landscape. The forest, palace window, towers and plywood moon remain competition stage props; the story never transforms them into geographical settings."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
