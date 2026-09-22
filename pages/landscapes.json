@@ -1320,6 +1320,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-aurora-over-the-mountain",
+          "title": "Aurora over the mountain",
+          "alt": "Aurora over the mountain — oil landscape for All Accounts Due",
+          "source": "pages/landscape-replacements/all-accounts-due/04-aurora-over-the-mountain.png",
+          "sourceSha256": "e6f0c65e770c50984a4244c165cd395dd521c92fe5b9f4d9e414162fb53361e5",
+          "full": {
+            "path": "landscapes/all-accounts-due/04-aurora-over-the-mountain-e6f0c65e770c5098.webp",
+            "sha256": "6b0201b741264654eb090721a40692ded2d0d90582b705adf8d55c397211722f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/all-accounts-due/04-aurora-over-the-mountain-e6f0c65e770c5098-thumb.webp",
+            "sha256": "787f270b020996d64c07bd4d97d7cb834636abc0463e8cf9af2b10606a63d81d",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
+            "originalSha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
+            "correction": "The source aurora holds a mountain aloft before its disastrous release. This conventional alpine mountain under northern lights loses the essential suspended/living geography.",
+            "prompt": "Correct this existing oil landscape for All Accounts Due, retaining the thick impasto palette-knife texture, cool alpine palette, warm rock accents and wide painterly composition. Story fact: an AURORA HOLDS A MOUNTAIN IN THE AIR. The reference currently looks like an ordinary grounded peak. Redesign the central snow-capped mountain as one massive, physically detached floating mountain with its jagged downward-pointing rocky root completely exposed and a large unmistakable clear AIR GAP between its lowest root and the distant valley floor. Frame the entire floating mass with open sky around it so there is no land bridge, no grounded peak, no cloud hiding the separation. Broad luminous green and violet auroral ribbons visibly curl beneath the exposed underside and around the flanks like weight-bearing bands, lifting and cradling it. Place a much smaller distant valley, river, foothills far below to establish extraordinary elevation. Keep the mountain a single geological mass with a snowcapped summit, not an island topped with a fantasy castle. No people, no added monumental buildings, no text, no borders. Beautiful atmospheric hand-painted impasto landscape, not smooth photographic rendering.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
