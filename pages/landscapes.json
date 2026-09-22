@@ -1464,108 +1464,6 @@
       ]
     },
     {
-      "slug": "captive-couples",
-      "title": "Held Together",
-      "reader": "stories/captive-couples.html",
-      "images": [
-        {
-          "id": "01-the-hottest-night",
-          "title": "The hottest night",
-          "alt": "The hottest night — oil landscape for Held Together",
-          "source": "stories/captive-couples/art/landscapes/01-the-hottest-night.png",
-          "sourceSha256": "b737843a8d9cbd101d2a361119fb4b4f2e29d6104d446a0dc531c183ce991c9d",
-          "full": {
-            "path": "landscapes/captive-couples/01-the-hottest-night.webp",
-            "sha256": "ad79c573f6330caaca33c13d7dcecc8156f8df01f88cb880eb3af6a025aada9f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/captive-couples/01-the-hottest-night-thumb.webp",
-            "sha256": "158dbe9a689595c79d64d4e7829fd197f6b948936738a8ffc73c685fc80c6852",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-transfer-station-at-night",
-          "title": "Transfer station at night",
-          "alt": "Transfer station at night — oil landscape for Held Together",
-          "source": "stories/captive-couples/art/landscapes/02-transfer-station-at-night.png",
-          "sourceSha256": "c6d1c327da1b6d5420de25ee0a82c4e662eb5650abbca6a27349187ab7008043",
-          "full": {
-            "path": "landscapes/captive-couples/02-transfer-station-at-night.webp",
-            "sha256": "b7741c8f722d2806853ec278ea3bf707555a947b2e799385e0898f803d938659",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/captive-couples/02-transfer-station-at-night-thumb.webp",
-            "sha256": "caabf86cbc975dc94413add5b8d2a33588304afc720acaf061c72990e70fd93a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-clinic-lights-in-the-heat",
-          "title": "Clinic lights in the heat",
-          "alt": "Clinic lights in the heat — oil landscape for Held Together",
-          "source": "stories/captive-couples/art/landscapes/03-clinic-lights-in-the-heat.png",
-          "sourceSha256": "df4d100f64e3b2ed39bc76ff4239061dff9c8e97b7bae5e5bdd3fce80deafd05",
-          "full": {
-            "path": "landscapes/captive-couples/03-clinic-lights-in-the-heat.webp",
-            "sha256": "79e471937b1d2394b88c925955156dcaef2b934ce50aa99e2971033dfb8423e2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/captive-couples/03-clinic-lights-in-the-heat-thumb.webp",
-            "sha256": "0d0dfd3b262a84ff8394c83ed67b575f1385677997e065994cdb3f96d1de3cd5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-silent-service-road",
-          "title": "Silent service road",
-          "alt": "Silent service road — oil landscape for Held Together",
-          "source": "stories/captive-couples/art/landscapes/04-silent-service-road.png",
-          "sourceSha256": "3214f532988f70e4793d587373b40c010512bcf9cf9276ec23357a9aaeb1f102",
-          "full": {
-            "path": "landscapes/captive-couples/04-silent-service-road.webp",
-            "sha256": "c860e0979531b93d74f7f7b33ce9b7c4e23088bd377a32262cca27e9cd436e4a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/captive-couples/04-silent-service-road-thumb.webp",
-            "sha256": "949423d09ed163ca9f6a5d3d18d7a8cf32b2145a25bac83c2a121285905e55a6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-heat-above-the-neighborhood",
-          "title": "Heat above the neighborhood",
-          "alt": "Heat above the neighborhood — oil landscape for Held Together",
-          "source": "stories/captive-couples/art/landscapes/05-heat-above-the-neighborhood.png",
-          "sourceSha256": "666b14e3e16fafbcd0cf68b37f3116c8120a7ab13088f84845ce5eb843d1a5ef",
-          "full": {
-            "path": "landscapes/captive-couples/05-heat-above-the-neighborhood.webp",
-            "sha256": "0b66ce51adb4aeee084da45ff1cdb4db0b9efcd8b6ff47c0656a60c77a6db4f7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/captive-couples/05-heat-above-the-neighborhood-thumb.webp",
-            "sha256": "95c0258a7ae65f8d8e256b5d3449e9fa3a1724df31c01f7c079db59789b282c0",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "clerics-infernal-ex",
       "title": "Hello, Lover",
       "reader": "stories/clerics-infernal-ex.html",
@@ -17930,6 +17828,31 @@
       "source": "stories/by-tooth-and-threshold/art/landscapes/02-creek-mud-and-willows.png",
       "sourceSha256": "2d81013b2be9301bfd5a0b419ee3a02c0ff86e12071e5b7375034fc05115fbf9",
       "reason": "The creek belongs to the trap rescue four nights earlier, recounted at the mudroom door. This extra creek landscape is not a scene in the present pursuit and lacks a separate use beside the actual lane, culvert, track and drainage cut."
+    },
+    {
+      "source": "stories/captive-couples/art/landscapes/01-the-hottest-night.png",
+      "sourceSha256": "b737843a8d9cbd101d2a361119fb4b4f2e29d6104d446a0dc531c183ce991c9d",
+      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
+    },
+    {
+      "source": "stories/captive-couples/art/landscapes/02-transfer-station-at-night.png",
+      "sourceSha256": "c6d1c327da1b6d5420de25ee0a82c4e662eb5650abbca6a27349187ab7008043",
+      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
+    },
+    {
+      "source": "stories/captive-couples/art/landscapes/03-clinic-lights-in-the-heat.png",
+      "sourceSha256": "df4d100f64e3b2ed39bc76ff4239061dff9c8e97b7bae5e5bdd3fce80deafd05",
+      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
+    },
+    {
+      "source": "stories/captive-couples/art/landscapes/04-silent-service-road.png",
+      "sourceSha256": "3214f532988f70e4793d587373b40c010512bcf9cf9276ec23357a9aaeb1f102",
+      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
+    },
+    {
+      "source": "stories/captive-couples/art/landscapes/05-heat-above-the-neighborhood.png",
+      "sourceSha256": "666b14e3e16fafbcd0cf68b37f3116c8120a7ab13088f84845ce5eb843d1a5ef",
+      "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
     },
     {
       "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
