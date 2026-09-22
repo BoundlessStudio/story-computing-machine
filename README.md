@@ -103,6 +103,7 @@ story and its illustrated edition.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/graphic-novels.json`, `pages/graphic-novels/`: comic PDF download snapshot.
 - `pages/landscapes.json`, `pages/landscapes/`: landscape gallery snapshot and web images.
+- `pages/interiors.json`, `pages/interiors/`: interior study snapshot and web images.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
 GitHub Pages publishes the Library and story pages; an approved illustrated
@@ -112,16 +113,26 @@ Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.
 
-The **Landscapes** navigation link opens `gallery.html`: oil-painted landscape
-studies grouped by story, with search, a story filter and an image viewer.
+The **Image Gallery** navigation link opens `gallery.html`: oil-painted landscape
+and interior studies grouped by story, with search, story and study filters, and an image viewer.
 Arrow keys move between paintings; Escape closes the viewer. Filter URLs can be
 shared. Without JavaScript, every painting remains available as a direct image
-link. Original PNGs live in each story's `art/landscapes/` directory. An explicit
-`python pages/build.py capture-landscapes` saves full-resolution WebP copies,
-small thumbnails and a separate gallery snapshot. It neither changes prose nor
-recaptures the story catalog. Ordinary Pages builds copy those stored web images
+link. Original PNGs live in each story's `art/landscapes/` and `art/interiors/`
+directories. `python pages/build.py capture-landscapes` and
+`python pages/build.py capture-interiors` independently save full-resolution WebP
+copies, small thumbnails and their collection's gallery snapshot. Neither changes
+prose nor recaptures the story catalog or the other art collection. Ordinary Pages builds copy those stored web images
 without reading source artwork or encoding new images. The existing GitHub
 Actions workflow deploys the gallery with the rest of the site after merge.
+
+The art study explores the spaces of each story through oil painting, inspired
+by the Group of Seven's bold colour shapes and expressive brushwork. Interior
+studies carry that treatment indoors with visible impasto, warm and cool light,
+and source-grounded architecture and furnishings. Choose about three compelling
+settings per story, or different views of the same room when there is only one.
+Stories set entirely outdoors receive no interior studies. These are independent
+environment paintings, without lettering, and establish no new canon facts.
+Open `gallery.html?type=interiors` to browse just the interior collection.
 
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
@@ -206,6 +217,7 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase 
 python pages/build.py capture <slug>
 python pages/build.py capture-graphic-novel <edition-slug>
 python pages/build.py capture-landscapes
+python pages/build.py capture-interiors
 python pages/build.py check
 ```
 

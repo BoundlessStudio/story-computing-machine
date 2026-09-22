@@ -92,7 +92,7 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertIn('&lt;script&gt;alert(&quot;x&quot;)&lt;/script&gt;', document)
         self.assertIn('The Valley &amp; &quot;Morning&quot;', document)
         self.assertIn(f'href="{image["full"]["path"]}"', document)
-        self.assertIn('href="gallery.html" aria-current="page">Landscapes', document)
+        self.assertIn('href="gallery.html" aria-current="page">Image Gallery', document)
         self.assertIn('id="gallery-viewer"', document)
         self.assertIn('loading="lazy"', document)
         self.assertIn('width="96" height="64"', document)
@@ -102,7 +102,7 @@ class LandscapeGalleryTests(unittest.TestCase):
         empty = gallery.load_snapshot(self.snapshot)
         self.assertEqual(empty["stories"], [])
         self.assertIn("coming soon", gallery.render_gallery(empty))
-        self.assertIn('href="../gallery.html">Landscapes', build.render_story(self.story))
+        self.assertIn('href="../gallery.html">Image Gallery', build.render_story(self.story))
 
     def test_duplicate_identity_and_path_traversal_are_rejected(self):
         original = self.capture()
@@ -139,6 +139,74 @@ class LandscapeGalleryTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "absent from the publication catalog"):
             self.capture()
         self.assertEqual(self.snapshot.read_bytes(), original)
+
+    def add_interior(self):
+        interior = self.art.with_name("interiors") / self.source.name
+        interior.parent.mkdir(parents=True)
+        Image.new("RGB", (96, 64), "sienna").save(interior)
+        return interior
+
+    def test_interior_capture_is_independent_of_landscapes_and_prose(self):
+        self.capture()
+        landscape_bytes = self.snapshot.read_bytes()
+        catalog_bytes = (self.pages / "catalog.json").read_bytes()
+        source = self.add_interior()
+        original = source.read_bytes()
+        data = gallery.capture_interiors(self.root)
+        image = data["stories"][0]["images"][0]
+        self.assertEqual(self.snapshot.read_bytes(), landscape_bytes)
+        self.assertEqual((self.pages / "catalog.json").read_bytes(), catalog_bytes)
+        self.assertEqual(source.read_bytes(), original)
+        self.assertIn("/art/interiors/", image["source"])
+        self.assertTrue(image["full"]["path"].startswith("interiors/"))
+        self.assertIn("oil interior study", image["alt"])
+        self.assertEqual(gallery.load_snapshot(self.pages / "interiors.json", "interiors"), data)
+        with patch.object(Image.Image, "save", side_effect=AssertionError("Re-encoded unchanged interior")):
+            self.assertEqual(gallery.capture_interiors(self.root), data)
+
+    def test_combined_build_keeps_one_story_and_distinct_image_identities(self):
+        landscapes = self.capture()
+        self.add_interior()
+        interiors = gallery.capture_interiors(self.root)
+        (self.root / "stories").rename(self.root / "offline-stories")
+        output = self.root / "site"
+        output.mkdir()
+        with patch.object(gallery, "_capture_collection", side_effect=AssertionError("Capture during build")):
+            self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 2)
+        document = (output / "gallery.html").read_text(encoding="utf-8")
+        self.assertEqual(document.count('class="gallery-story"'), 1)
+        self.assertEqual(document.count('data-gallery-image '), 2)
+        self.assertIn(f'data-image-id="{self.story.slug}/{self.source.stem}"', document)
+        self.assertIn(f'data-image-id="{self.story.slug}/interiors/{self.source.stem}"', document)
+        self.assertIn('id="gallery-type"', document)
+        self.assertIn('data-collection="interiors"', document)
+        self.assertIn("1 landscapes · 1 interiors · 1 stories", document)
+        self.assertNotIn("collection", landscapes["stories"][0]["images"][0])
+        for data in (landscapes, interiors):
+            for role in ("full", "thumbnail"):
+                asset = data["stories"][0]["images"][0][role]["path"]
+                self.assertEqual((output / asset).read_bytes(), (self.pages / asset).read_bytes())
+
+    def test_interior_snapshot_cannot_reference_other_collection_assets(self):
+        self.add_interior()
+        data = gallery.capture_interiors(self.root)
+        image = data["stories"][0]["images"][0]
+        image["full"]["path"] = image["full"]["path"].replace("interiors/", "landscapes/", 1)
+        snapshot = self.pages / "interiors.json"
+        snapshot.write_text(json.dumps(data), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "path"):
+            gallery.load_snapshot(snapshot, "interiors")
+
+    def test_interior_only_story_is_present_and_tampering_blocks_build(self):
+        self.add_interior()
+        data = gallery.capture_interiors(self.root)
+        output = self.root / "site"
+        output.mkdir()
+        self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 1)
+        image = data["stories"][0]["images"][0]
+        (self.pages / image["full"]["path"]).write_bytes(b"changed interior")
+        with self.assertRaisesRegex(ValueError, "Missing or changed"):
+            gallery.build_gallery(output, self.snapshot, self.catalog)
 
 
 if __name__ == "__main__":

@@ -5,6 +5,7 @@
   if (!form) return;
   const search = document.getElementById("gallery-search");
   const storySelect = document.getElementById("gallery-story");
+  const typeSelect = document.getElementById("gallery-type");
   const reset = document.getElementById("gallery-reset");
   const count = document.getElementById("gallery-count");
   const empty = document.getElementById("gallery-empty");
@@ -22,14 +23,18 @@
     search.value = parameters.get("q") || "";
     const story = parameters.get("story") || "";
     storySelect.value = Array.from(storySelect.options).some(option => option.value === story) ? story : "";
+    const type = parameters.get("type") || "";
+    typeSelect.value = Array.from(typeSelect.options).some(option => option.value === type) ? type : "";
   }
 
   function filter(writeUrl) {
     const words = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
     const story = storySelect.value;
+    const type = typeSelect.value;
     visibleLinks = [];
     cards.forEach(item => {
-      const matches = (!story || item.link.dataset.storySlug === story) && words.every(word => item.search.includes(word));
+      const matches = (!story || item.link.dataset.storySlug === story)
+        && (!type || item.link.dataset.collection === type) && words.every(word => item.search.includes(word));
       item.card.hidden = !matches;
       if (matches) visibleLinks.push(item.link);
     });
@@ -41,11 +46,12 @@
     count.textContent = visibleLinks.length.toLocaleString() + (visibleLinks.length === 1 ? " painting across " : " paintings across ")
       + storyCount.toLocaleString() + (storyCount === 1 ? " story" : " stories");
     empty.hidden = visibleLinks.length !== 0;
-    reset.disabled = !search.value && !story;
+    reset.disabled = !search.value && !story && !type;
     if (writeUrl) {
       const url = new URL(window.location.href);
       search.value.trim() ? url.searchParams.set("q", search.value.trim()) : url.searchParams.delete("q");
       story ? url.searchParams.set("story", story) : url.searchParams.delete("story");
+      type ? url.searchParams.set("type", type) : url.searchParams.delete("type");
       try { window.history.replaceState(null, "", url); } catch (_) { /* Filtering still works in a local file preview. */ }
     }
   }
@@ -53,9 +59,11 @@
   form.addEventListener("submit", event => { event.preventDefault(); filter(true); });
   search.addEventListener("input", () => filter(true));
   storySelect.addEventListener("change", () => filter(true));
+  typeSelect.addEventListener("change", () => filter(true));
   reset.addEventListener("click", () => {
     search.value = "";
     storySelect.value = "";
+    typeSelect.value = "";
     filter(true);
     search.focus();
   });
