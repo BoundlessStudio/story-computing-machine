@@ -7234,6 +7234,70 @@
       ]
     },
     {
+      "slug": "the-spiders-hunger",
+      "title": "The Spider's Hunger",
+      "reader": "stories/the-spiders-hunger.html",
+      "images": [
+        {
+          "id": "01-the-inn-kitchen",
+          "title": "The inn kitchen",
+          "alt": "The inn kitchen — oil interior study for The Spider's Hunger",
+          "source": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+          "sourceSha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c",
+          "full": {
+            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-3084c9660dbeccc7.webp",
+            "sha256": "4e56d49d579da05a84b0872f28bf5b3eb9eeb1d3dd4d90b04b5fd9e629cc41dc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-3084c9660dbeccc7-thumb.webp",
+            "sha256": "7de16a15fb03dc7b566739a60424c81c880724f269bf730a31d8e49de085612c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-pouchers-counter",
+          "title": "The pouchers counter",
+          "alt": "The pouchers counter — oil interior study for The Spider's Hunger",
+          "source": "stories/the-spiders-hunger/art/interiors/02-the-pouchers-counter.png",
+          "sourceSha256": "c24095b86ef8509b7c917c6b2b7cf3d6f4a25fe35689686215d83b0178acaa35",
+          "full": {
+            "path": "interiors/the-spiders-hunger/02-the-pouchers-counter-c24095b86ef8509b.webp",
+            "sha256": "7f1f28b28fa5cfc941dfe9d267d34a5a4db2939274139f72e50c64a58e4173b4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-spiders-hunger/02-the-pouchers-counter-c24095b86ef8509b-thumb.webp",
+            "sha256": "0c879a2387dd9c383a81db8e6606b7e50164d258d952ce380227c42c5ec677f7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-old-bedroom-latch",
+          "title": "The old bedroom latch",
+          "alt": "The old bedroom latch — oil interior study for The Spider's Hunger",
+          "source": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
+          "sourceSha256": "c6d7713218da586d1c9bbe3aee98ff37a4ff651ff2ea1cb56dfffffbb9e2bf02",
+          "full": {
+            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-c6d7713218da586d.webp",
+            "sha256": "05e05653eed0c8341ed4060b408ff35417523fa698169e2906d79eafd7db18b2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-c6d7713218da586d-thumb.webp",
+            "sha256": "18c111ff6d2141e4dcdc13663941d0861a29ee603a798a60fc1fcd506c1e188c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "strength-of-ten",
       "title": "The Strength of Ten",
       "reader": "stories/strength-of-ten.html",
@@ -7355,6 +7419,70 @@
           "thumbnail": {
             "path": "interiors/tenth-world-lesson/03-ryos-apartment-with-open-curtains-8c57b1717b7e229c-thumb.webp",
             "sha256": "60d860ab2621903eb65c016ee63634b1107e3a78c8b3a422ad16b64c3f788bfb",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-thirteenth-command",
+      "title": "The Thirteenth Command",
+      "reader": "stories/the-thirteenth-command.html",
+      "images": [
+        {
+          "id": "01-cistern-command-gallery",
+          "title": "Cistern command gallery",
+          "alt": "Cistern command gallery — oil interior study for The Thirteenth Command",
+          "source": "stories/the-thirteenth-command/art/interiors/01-cistern-command-gallery.png",
+          "sourceSha256": "af1fac64e6ab6f51c95011faa398c101b555abc30f7e5e876b4296ddbe6e1a4c",
+          "full": {
+            "path": "interiors/the-thirteenth-command/01-cistern-command-gallery-af1fac64e6ab6f51.webp",
+            "sha256": "1b76cabda55613340bb22027882914a1f92c742a7668d6ffa0c1f49642ce5cc7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thirteenth-command/01-cistern-command-gallery-af1fac64e6ab6f51-thumb.webp",
+            "sha256": "b38b0d6e1202a19f7028fa8054de2a362d5aafb565c902e13bec4886d2c153ca",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-south-pressure-chamber",
+          "title": "South pressure chamber",
+          "alt": "South pressure chamber — oil interior study for The Thirteenth Command",
+          "source": "stories/the-thirteenth-command/art/interiors/02-south-pressure-chamber.png",
+          "sourceSha256": "2b1aa4eb7782d66b487fbb28eb8d5245eb91846801b9f03a51301a8cd0c91664",
+          "full": {
+            "path": "interiors/the-thirteenth-command/02-south-pressure-chamber-2b1aa4eb7782d66b.webp",
+            "sha256": "d3f8ed0b64acc7408d200b6d9e6dae8f848f0b632cdcc1cda7b854f66e08db1f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thirteenth-command/02-south-pressure-chamber-2b1aa4eb7782d66b-thumb.webp",
+            "sha256": "cad8581ba8de39410daafe1309d71d41b83951a358118293a1043c9117c5c2d7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-east-stair-spillwheel",
+          "title": "The east stair spillwheel",
+          "alt": "The east stair spillwheel — oil interior study for The Thirteenth Command",
+          "source": "stories/the-thirteenth-command/art/interiors/03-the-east-stair-spillwheel.png",
+          "sourceSha256": "69db29b94a8a18f46dbdbb34fd9f193839399d7da3648963b2775c7426f1b928",
+          "full": {
+            "path": "interiors/the-thirteenth-command/03-the-east-stair-spillwheel-69db29b94a8a18f4.webp",
+            "sha256": "87eb3258ab01b651dac79ede697596c9d3238af9d36e77e44f830f96bc5b8f9f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thirteenth-command/03-the-east-stair-spillwheel-69db29b94a8a18f4-thumb.webp",
+            "sha256": "84e22435b00c8f92ab8ad432cbe347643a4673a6bd78ae8253e1e75938092045",
             "width": 480,
             "height": 320
           }
