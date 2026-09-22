@@ -2765,63 +2765,6 @@
       "reader": "stories/the-attendance-ledger.html",
       "images": [
         {
-          "id": "01-northbridge-before-school",
-          "title": "Northbridge before school",
-          "alt": "Northbridge before school — oil landscape for The Attendance Ledger",
-          "source": "stories/the-attendance-ledger/art/landscapes/01-northbridge-before-school.png",
-          "sourceSha256": "e9a24c1953b74b45c0bf17b74a67e53c55be0cd9acfd9bcf5c0d031ea9c1a18a",
-          "full": {
-            "path": "landscapes/the-attendance-ledger/01-northbridge-before-school.webp",
-            "sha256": "31b34f2a32030036e2ef1e66620aae27b5645fd6bf74b44a4d8f1d8f2ebdd9ed",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-attendance-ledger/01-northbridge-before-school-thumb.webp",
-            "sha256": "e2984062cd869c7d590fb5d2b6fb1ab49d1d0a36aa2a958e212e884d47f3e98e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-empty-neighborhood-street",
-          "title": "The empty neighborhood street",
-          "alt": "The empty neighborhood street — oil landscape for The Attendance Ledger",
-          "source": "stories/the-attendance-ledger/art/landscapes/02-the-empty-neighborhood-street.png",
-          "sourceSha256": "52f0f413e1a32e2507403890ac8847060d8412234a5fb612884083fd4716250f",
-          "full": {
-            "path": "landscapes/the-attendance-ledger/02-the-empty-neighborhood-street.webp",
-            "sha256": "b7ad456757d973a5c3fac9c50aa1b0bdaae4c961efec2a91efc7b1455a1d01c5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-attendance-ledger/02-the-empty-neighborhood-street-thumb.webp",
-            "sha256": "464d859ad313acb19c3c4be259916ae5e2274d3c61f5e3a1ff77a25b91f75620",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-clouds-over-the-auditorium-roof",
-          "title": "Clouds over the auditorium roof",
-          "alt": "Clouds over the auditorium roof — oil landscape for The Attendance Ledger",
-          "source": "stories/the-attendance-ledger/art/landscapes/03-clouds-over-the-auditorium-roof.png",
-          "sourceSha256": "054bf578e7edbb2a6ba9e61ef226d9e164048e491d65e8037513d28ab8d24337",
-          "full": {
-            "path": "landscapes/the-attendance-ledger/03-clouds-over-the-auditorium-roof.webp",
-            "sha256": "503648d8f6d756464ee2f317b4b407b59a4ab8076945ed78890bfcc346ced40e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-attendance-ledger/03-clouds-over-the-auditorium-roof-thumb.webp",
-            "sha256": "2e481c3ff9b1e12498fb561560f3c064537834f2f3c2ade6b0af4062947c489d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-after-the-showcase",
           "title": "After the showcase",
           "alt": "After the showcase — oil landscape for The Attendance Ledger",
@@ -2836,25 +2779,6 @@
           "thumbnail": {
             "path": "landscapes/the-attendance-ledger/04-after-the-showcase-thumb.webp",
             "sha256": "d3eef44f1f1aa1d638dc2966815a51c18ea1d199e7ad48cb154032f36b25f572",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-an-ordinary-morning-again",
-          "title": "An ordinary morning again",
-          "alt": "An ordinary morning again — oil landscape for The Attendance Ledger",
-          "source": "stories/the-attendance-ledger/art/landscapes/05-an-ordinary-morning-again.png",
-          "sourceSha256": "3c86071fdc7e35a561e1bcb2755c36da2bd290ab2da6bc2419043f48665aee13",
-          "full": {
-            "path": "landscapes/the-attendance-ledger/05-an-ordinary-morning-again.webp",
-            "sha256": "da915790a6b9041b5bb80667686e66a633623da15869f399c876f2ce1965d6ff",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-attendance-ledger/05-an-ordinary-morning-again-thumb.webp",
-            "sha256": "def229f466fcbfebbacb141122be396b2b55f598573aa6ab068d57a53197816b",
             "width": 480,
             "height": 320
           }
@@ -16542,6 +16466,26 @@
       "source": "stories/the-astral-valkyrie/art/landscapes/04-fragments-above-the-water.png",
       "sourceSha256": "6a2823fe6797eee12a8c3d1b0d4bc4d92f4b705652241910ebd4aee72fb07f73",
       "reason": "Repeats the same impact aftermath already shown by the concentric-ring image; another ocean/fire view adds little distinct setting information."
+    },
+    {
+      "source": "stories/the-attendance-ledger/art/landscapes/01-northbridge-before-school.png",
+      "sourceSha256": "e9a24c1953b74b45c0bf17b74a67e53c55be0cd9acfd9bcf5c0d031ea9c1a18a",
+      "reason": "Adds an opening school-field vista where the story starts inside attendance taking; the actual later yard already supplies an exterior."
+    },
+    {
+      "source": "stories/the-attendance-ledger/art/landscapes/02-the-empty-neighborhood-street.png",
+      "sourceSha256": "52f0f413e1a32e2507403890ac8847060d8412234a5fb612884083fd4716250f",
+      "reason": "Turns past street-camera evidence into an empty neighborhood landscape unrelated to the current indoor confrontation."
+    },
+    {
+      "source": "stories/the-attendance-ledger/art/landscapes/03-clouds-over-the-auditorium-roof.png",
+      "sourceSha256": "054bf578e7edbb2a6ba9e61ef226d9e164048e491d65e8037513d28ab8d24337",
+      "reason": "Moves the auditorium action outdoors to a redundant view across the school grounds."
+    },
+    {
+      "source": "stories/the-attendance-ledger/art/landscapes/05-an-ordinary-morning-again.png",
+      "sourceSha256": "3c86071fdc7e35a561e1bcb2755c36da2bd290ab2da6bc2419043f48665aee13",
+      "reason": "Invents a school garden and another exterior morning, repeating the school location without a matching scene."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
