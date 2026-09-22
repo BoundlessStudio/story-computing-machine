@@ -9924,6 +9924,25 @@
       "reader": "stories/transitions-in-common.html",
       "images": [
         {
+          "id": "01-friday-at-the-school",
+          "title": "Friday at the school",
+          "alt": "Friday at the school — oil landscape for Transitions in Common",
+          "source": "stories/transitions-in-common/art/landscapes/01-friday-at-the-school.png",
+          "sourceSha256": "bc65b413b91056acca67bd2f1d509fc7b337d4b26e5a1153f81fcf51e8f3bc21",
+          "full": {
+            "path": "landscapes/transitions-in-common/01-friday-at-the-school.webp",
+            "sha256": "de8f1600c86cb56065740d0a8d0086300bb92a7a34fe40acbd8ca5545e379a08",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/transitions-in-common/01-friday-at-the-school-thumb.webp",
+            "sha256": "9dc45abd22aae0f122e61bb5a9602b1d9b1d75b9765320e40dddc7393c69b9ba",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "02-the-secondhand-shop-on-saturday",
           "title": "The secondhand shop on saturday",
           "alt": "The secondhand shop on saturday — oil landscape for Transitions in Common",
@@ -13191,11 +13210,6 @@
       "source": "stories/thirteen-years-borrowed/art/landscapes/05-rain-against-the-front-windows.png",
       "sourceSha256": "d3e8b25954402f7a7e7d47c0a287f4929d9c1a7233814d7422819128794bb908",
       "reason": "The late-night rain is heard against the windows during the indoor body-transfer scene. This outside street view moves that moment outdoors and repeats Nivra's street."
-    },
-    {
-      "source": "stories/transitions-in-common/art/landscapes/01-friday-at-the-school.png",
-      "sourceSha256": "bc65b413b91056acca67bd2f1d509fc7b337d4b26e5a1153f81fcf51e8f3bc21",
-      "reason": "Friday's opening is inside the costume room. This school courtyard replaces the indoor setting with an exterior."
     },
     {
       "source": "stories/transitions-in-common/art/landscapes/03-sunday-before-the-arts-night.png",
