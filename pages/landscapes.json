@@ -4185,82 +4185,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-folded-market-awnings",
-          "title": "Folded market awnings",
-          "alt": "Folded market awnings — oil landscape for The Gutter School",
-          "source": "stories/the-gutter-school/art/landscapes/02-folded-market-awnings.png",
-          "sourceSha256": "d755a5c666f3b716515b1e7bab00e95442cdab2896d2c141f564b1e439b8a999",
-          "full": {
-            "path": "landscapes/the-gutter-school/02-folded-market-awnings.webp",
-            "sha256": "13c4683e0cdb060901bf880013d9be85ca797f7b62fd0daff468c06a3a7cc54d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-gutter-school/02-folded-market-awnings-thumb.webp",
-            "sha256": "61d501b10268ff4835b3f1fd09c789b48db011be5607d370688ee7d7ea17d1c2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-secondhand-booksellers-street",
-          "title": "Secondhand booksellers street",
-          "alt": "Secondhand booksellers street — oil landscape for The Gutter School",
-          "source": "stories/the-gutter-school/art/landscapes/03-secondhand-booksellers-street.png",
-          "sourceSha256": "4091433fb27501a4e6f0e6888738ca3960e678cd9fde639786f738df17702898",
-          "full": {
-            "path": "landscapes/the-gutter-school/03-secondhand-booksellers-street.webp",
-            "sha256": "972225aa6d8d2a1b88d099bf2ec59ae59469dcb42c2e900a850589c2b3ae6303",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-gutter-school/03-secondhand-booksellers-street-thumb.webp",
-            "sha256": "f662b3d77debdf07e8bbed1ce44831ccbd99a3baa07c95213f260506b7baf374",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-lodging-street-at-dusk",
-          "title": "Lodging street at dusk",
-          "alt": "Lodging street at dusk — oil landscape for The Gutter School",
-          "source": "stories/the-gutter-school/art/landscapes/04-lodging-street-at-dusk.png",
-          "sourceSha256": "7546e0b134dd00639b274ced85168a9320c2040d06c84a0605192fc88de97eb7",
-          "full": {
-            "path": "landscapes/the-gutter-school/04-lodging-street-at-dusk.webp",
-            "sha256": "cebcee2d5be29ccae23538fe28ccac6a526f4ad3f3e57426147c0af6ed1a206b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-gutter-school/04-lodging-street-at-dusk-thumb.webp",
-            "sha256": "9c6780554c0bc6a3cf105fcbb27b9c470b54d2a49906a6217fdc78dda83c11f3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dust-across-tournament-boards",
-          "title": "Dust across tournament boards",
-          "alt": "Dust across tournament boards — oil landscape for The Gutter School",
-          "source": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
-          "sourceSha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
-          "full": {
-            "path": "landscapes/the-gutter-school/05-dust-across-tournament-boards.webp",
-            "sha256": "d70309f850ff3fc492967700c08eb1ef797f6e806cce5e0ba10f0f4de0ab1ee7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-gutter-school/05-dust-across-tournament-boards-thumb.webp",
-            "sha256": "c1c37c52353a3f9578c147e4c7c5dc48d4288bb2e35dd3c36f02b1c65dae8348",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15350,6 +15274,26 @@
       "source": "stories/the-gentlest-terror/art/landscapes/02-empty-cliff-roosts.png",
       "sourceSha256": "d0a5c530877a61a3d9c6e776212b4c6c0fc795228f0679d76c4066227e7212fd",
       "reason": "The empty cliff roosts are introductory background about another dragon, not a separate enacted landscape; the actual Flint nesting cliffs are represented in image 04."
+    },
+    {
+      "source": "stories/the-gutter-school/art/landscapes/02-folded-market-awnings.png",
+      "sourceSha256": "d755a5c666f3b716515b1e7bab00e95442cdab2896d2c141f564b1e439b8a999",
+      "reason": "Adds a separate night market scene from one sentence about last night's shelter; the paintings also show open awnings rather than the folded one described."
+    },
+    {
+      "source": "stories/the-gutter-school/art/landscapes/03-secondhand-booksellers-street.png",
+      "sourceSha256": "4091433fb27501a4e6f0e6888738ca3960e678cd9fde639786f738df17702898",
+      "reason": "The bookseller appears only in an account of learning the dust lift; this shopping-street vista is not a story scene."
+    },
+    {
+      "source": "stories/the-gutter-school/art/landscapes/04-lodging-street-at-dusk.png",
+      "sourceSha256": "7546e0b134dd00639b274ced85168a9320c2040d06c84a0605192fc88de97eb7",
+      "reason": "The lodging house is something Fennit hopes to afford, not a street visited at dusk."
+    },
+    {
+      "source": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+      "sourceSha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+      "reason": "Repeats the tournament setting already represented in image 01 and adds enclosing rails to a platform with exposed edges and marshals catching falls."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
