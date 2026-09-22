@@ -123,6 +123,13 @@ recaptures the story catalog. Ordinary Pages builds copy those stored web images
 without reading source artwork or encoding new images. The existing GitHub
 Actions workflow deploys the gallery with the rest of the site after merge.
 
+Editorial removals are recorded in `pages/landscapes.json` as `excludedSources`,
+with the inspected source hash and a story-specific reason. Remove their selected
+entries and web copies together. Capture preserves these exclusions, including
+when an original remains in a canon-locked story package; changing its pixels
+does not silently restore it. Restoring a painting requires explicit editorial
+selection by removing its exclusion before capture.
+
 The stored chronology reconstructs one world's long history through Galactic
 Cycles, historical eras, and individual stories. An era groups stories by compatible
 institutions, technology, magical conditions, and inherited history. Different

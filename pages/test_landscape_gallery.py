@@ -73,6 +73,49 @@ class LandscapeGalleryTests(unittest.TestCase):
         with patch.object(Image.Image, "save", side_effect=AssertionError("Re-encoded unchanged image")):
             self.assertEqual(self.capture(), first)
 
+    def test_excluded_art_cannot_return_on_recapture_even_after_source_changes(self):
+        selected = self.capture()
+        original = self.source.read_bytes()
+        catalog = (self.pages / "catalog.json").read_bytes()
+        image = selected["stories"][0]["images"][0]
+        curated = {"schemaVersion": 1, "stories": [], "excludedSources": [{
+            "source": image["source"], "sourceSha256": image["sourceSha256"],
+            "reason": "The story takes place entirely indoors; this exterior is invented.",
+        }]}
+        self.snapshot.write_text(json.dumps(curated), encoding="utf-8")
+        with patch.object(Image.Image, "save", side_effect=AssertionError("Encoded excluded art")):
+            self.assertEqual(self.capture(), curated)
+        self.assertEqual(self.source.read_bytes(), original)
+        self.assertEqual((self.pages / "catalog.json").read_bytes(), catalog)
+        Image.new("RGB", (96, 64), "purple").save(self.source)
+        self.assertEqual(self.capture(), curated)
+        self.assertEqual(gallery.check_assets(curated, self.pages), 0)
+        output = self.root / "curated-site"
+        output.mkdir()
+        self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 0)
+        self.assertFalse(list(output.rglob("*.webp")))
+
+    def test_exclusions_reject_unsafe_duplicate_or_still_selected_sources(self):
+        original = self.capture()
+        image = original["stories"][0]["images"][0]
+        entry = {"source": image["source"], "sourceSha256": image["sourceSha256"],
+                 "reason": "Unsupported outdoor setting."}
+        for mutation in ("unsafe", "duplicate", "selected", "missing-reason"):
+            with self.subTest(mutation=mutation):
+                data = deepcopy(original)
+                data["excludedSources"] = [deepcopy(entry)]
+                if mutation != "selected":
+                    data["stories"] = []
+                if mutation == "unsafe":
+                    data["excludedSources"][0]["source"] = "stories/../../private.png"
+                elif mutation == "duplicate":
+                    data["excludedSources"].append(deepcopy(entry))
+                elif mutation == "missing-reason":
+                    data["excludedSources"][0]["reason"] = ""
+                self.snapshot.write_text(json.dumps(data), encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    gallery.load_snapshot(self.snapshot)
+
     def test_failed_recapture_leaves_selected_assets_and_snapshot_usable(self):
         selected = self.capture()
         snapshot_bytes = self.snapshot.read_bytes()
