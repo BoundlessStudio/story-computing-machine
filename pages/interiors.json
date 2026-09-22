@@ -8130,6 +8130,70 @@
       ]
     },
     {
+      "slug": "the-thread-that-held",
+      "title": "The Thread That Held",
+      "reader": "stories/the-thread-that-held.html",
+      "images": [
+        {
+          "id": "01-the-tapissiers-loom",
+          "title": "The tapissiers loom",
+          "alt": "The tapissiers loom — oil interior study for The Thread That Held",
+          "source": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+          "sourceSha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a",
+          "full": {
+            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-1c67ebb9f983bdaa.webp",
+            "sha256": "d667c145fb5dd380248cfdc5e29256c34aca470fc9fb2c7ead79e4867d79f060",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-1c67ebb9f983bdaa-thumb.webp",
+            "sha256": "9217489f65a29dada154d2a8159e44d93a0c18129f6a9078f520c0f715c97547",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-workshop-table",
+          "title": "The workshop table",
+          "alt": "The workshop table — oil interior study for The Thread That Held",
+          "source": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+          "sourceSha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e",
+          "full": {
+            "path": "interiors/the-thread-that-held/02-the-workshop-table-078dddb029f870c4.webp",
+            "sha256": "2b310dc133a843865a98d936ed09805faeea981dcf6c786c11cb85af828779af",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thread-that-held/02-the-workshop-table-078dddb029f870c4-thumb.webp",
+            "sha256": "f87a68aea4f0272fa076c8215736e3af2e44232723ba9763afec9e808a4b3253",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-banner-makers-shop",
+          "title": "The banner makers shop",
+          "alt": "The banner makers shop — oil interior study for The Thread That Held",
+          "source": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+          "sourceSha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567",
+          "full": {
+            "path": "interiors/the-thread-that-held/03-the-banner-makers-shop-bd4b34f89f4ef750.webp",
+            "sha256": "e4869caf8120706e99f631c96bb66657c4c66c95d7c0d9b93ed406f9e952f982",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-thread-that-held/03-the-banner-makers-shop-bd4b34f89f4ef750-thumb.webp",
+            "sha256": "01fafe823f8f09ee0775a03a91cd7d5bc8f0b48430c93ae31d00457f1ef10871",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-throne-neither-wanted",
       "title": "The Throne Neither of Us Wanted",
       "reader": "stories/a-throne-neither-wanted.html",
@@ -8187,6 +8251,70 @@
           "thumbnail": {
             "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554-thumb.webp",
             "sha256": "939ae30e649b56831d71e58b6ee6b4c1c7d3e2e39cc90c804bae62066d3dce2f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-unoffered-hand",
+      "title": "The Unoffered Hand",
+      "reader": "stories/the-unoffered-hand.html",
+      "images": [
+        {
+          "id": "01-the-first-private-room",
+          "title": "The first private room",
+          "alt": "The first private room — oil interior study for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/interiors/01-the-first-private-room.png",
+          "sourceSha256": "aab80ceab92c83a76cd9a10508e008c10ffcc92c15ba5af3d6e270b1593193d3",
+          "full": {
+            "path": "interiors/the-unoffered-hand/01-the-first-private-room-aab80ceab92c83a7.webp",
+            "sha256": "7e9473b60908a1362c5f81ada985151bce0f8d02ece535fdb9ef61cccaa29060",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unoffered-hand/01-the-first-private-room-aab80ceab92c83a7-thumb.webp",
+            "sha256": "4a5f74b6342c6d3235005b5a8cfad23909bdce49367c38349f8d69af9b98211c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-mews-chamber",
+          "title": "The mews chamber",
+          "alt": "The mews chamber — oil interior study for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/interiors/02-the-mews-chamber.png",
+          "sourceSha256": "baf1e4c1d9d288960321a27f1767077811c9b4a402400a8e21d833bbeff66cd5",
+          "full": {
+            "path": "interiors/the-unoffered-hand/02-the-mews-chamber-baf1e4c1d9d28896.webp",
+            "sha256": "01e50b7a2905b68e5d3f3c2eaf38668fe4e908146015d450ae91e850dccacc51",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unoffered-hand/02-the-mews-chamber-baf1e4c1d9d28896-thumb.webp",
+            "sha256": "d2b6124773bf71e527561ad3c66a9025ead8447b769f465d5c2fb2102ad17030",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-enclosed-exercise-hall",
+          "title": "The enclosed exercise hall",
+          "alt": "The enclosed exercise hall — oil interior study for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/interiors/03-the-enclosed-exercise-hall.png",
+          "sourceSha256": "a49eee1bcaeeaabb70f9b531a652e3d82f261b78750e7efcb353a3461913fc30",
+          "full": {
+            "path": "interiors/the-unoffered-hand/03-the-enclosed-exercise-hall-a49eee1bcaeeaabb.webp",
+            "sha256": "7f39e6751bee91676d3abc9639235849f3f5d55af8b37b38d5a122b78ec17142",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-unoffered-hand/03-the-enclosed-exercise-hall-a49eee1bcaeeaabb-thumb.webp",
+            "sha256": "2096662538949c3a1ad53a2eb938fe39b5c507b15a52cab333c9005e33d11774",
             "width": 480,
             "height": 320
           }
