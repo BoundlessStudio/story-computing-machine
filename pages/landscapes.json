@@ -396,25 +396,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-urumets-northern-ice-shelf",
-          "title": "Urumets northern ice shelf",
-          "alt": "Urumets northern ice shelf — oil landscape for A Little Winter for Sale",
-          "source": "stories/a-little-winter-for-sale/art/landscapes/05-urumets-northern-ice-shelf.png",
-          "sourceSha256": "cad9e1a17eda702e5ea457fbfd652e219a4017693ea6075a5b50a9be12a5f7e2",
-          "full": {
-            "path": "landscapes/a-little-winter-for-sale/05-urumets-northern-ice-shelf.webp",
-            "sha256": "4cb9c761a1d06ab90cf3409c59ee8e31132fbe82488c779e654c62e269f7c173",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-little-winter-for-sale/05-urumets-northern-ice-shelf-thumb.webp",
-            "sha256": "232eb8afb51930d5831e50804c9aaf14e66821f49793e741d08bbf0ccb3bb617",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -19026,6 +19007,11 @@
       "source": "stories/a-little-more-room/art/landscapes/05-night-over-the-neighborhood.png",
       "sourceSha256": "5075957fd757d5e8afdb6bef823763de377f3733f142e2144145ed5a52ec0a6d",
       "reason": "The story remains in an apartment hallway and sitting room. Rain belongs to a record's lyrics and extra room means indoor dancing space. These neighborhood, park, wet-street and rooftop landscapes invent exterior settings and repeat them."
+    },
+    {
+      "source": "stories/a-little-winter-for-sale/art/landscapes/05-urumets-northern-ice-shelf.png",
+      "sourceSha256": "cad9e1a17eda702e5ea457fbfd652e219a4017693ea6075a5b50a9be12a5f7e2",
+      "reason": "Urumet mentions an ice shelf far north of every mapped road as its former home. No scene visits or describes this coastline; the painting invents a fifth destination beyond the actual desert story."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
