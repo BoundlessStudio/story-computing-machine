@@ -2014,6 +2014,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-lamps-below-the-ridge",
+          "title": "Lamps below the ridge",
+          "alt": "Lamps below the ridge — oil landscape for Every Flower She Knew",
+          "source": "pages/landscape-replacements/every-flower-she-knew/05-lamps-below-the-ridge.png",
+          "sourceSha256": "72300683a5c76a32f2568aca64cf25df77ea5854ec9489b554c213ec1de349bf",
+          "full": {
+            "path": "landscapes/every-flower-she-knew/05-lamps-below-the-ridge-72300683a5c76a32.webp",
+            "sha256": "3b4bd47b2325cfaa133b5d031f2fcae7fa7b996725a8c5aa917427cd97d4a769",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/every-flower-she-knew/05-lamps-below-the-ridge-72300683a5c76a32-thumb.webp",
+            "sha256": "ccb1108bdb2c89b36b4a0ca758fc68a2f6732d7f7782d94d7987b4a8dc8bb15e",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/every-flower-she-knew/art/landscapes/05-lamps-below-the-ridge.png",
+            "originalSha256": "a9fe1ea1168e34bae6066fd5d2f85fc0be1f0a37843d2afefb50873afc87f3c4",
+            "correction": "The village lamps appear only after full dark, after daylight has left even the western wall. The painting shows a bright orange sunset still lighting the cliffs and sky.",
+            "prompt": "Edit this landscape from Every Flower She Knew to correct ONLY the time and associated lighting. Preserve the ridge path descending in turns, wet foreground rocks and ferns, spruce valley, distant cliff geography, rain-swollen river and the small village lamps below. Source fact: the village lamps appear AFTER FULL DARK; the western cliff has already lost its last sunset glow. Replace the bright orange horizon, sunlit cliff faces and daylight clouds with a fully nocturnal deep indigo and blue-gray overcast sky. All cliffs, trees and wet rocks have dim cool night values, just enough pale diffuse sky reflection to read the winding path and floodwater. The WARM VILLAGE LAMPS are the only small amber points in the view and its visual destination; the cliff must not glow orange. Distant rain haze remains subdued and dark. No setting sun, orange sky band, daylight, giant moon or added characters. Keep the reference's rich thick impasto oil texture, broad paint strokes and wide landscape composition.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
