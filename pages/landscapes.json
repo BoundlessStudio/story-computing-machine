@@ -2421,6 +2421,32 @@
           }
         },
         {
+          "id": "04-sunset-over-the-eastern-rim",
+          "title": "Last Light on the Eastern Bank",
+          "alt": "Last Light on the Eastern Bank — corrected oil landscape for Late for Dinner",
+          "source": "pages/landscape-replacements/late-for-dinner/04-sunset-over-the-eastern-rim.png",
+          "sourceSha256": "92b1b0c4133ad08ef898a02657d381116ce705a01de2db4ec37f5740b9d4a54f",
+          "full": {
+            "path": "landscapes/late-for-dinner/04-sunset-over-the-eastern-rim-92b1b0c4133ad08e.webp",
+            "sha256": "350a282561a7416640fa177bb4cebab306fb723a21c0a5d0ad293cfee35ba3bb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/late-for-dinner/04-sunset-over-the-eastern-rim-92b1b0c4133ad08e-thumb.webp",
+            "sha256": "819eb4cee1be5035b6102b94fe14a556233269e113ecd4895c64688c2a76cfb1",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+            "originalSha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+            "correction": "Turns a shallow, climbable chalk cutting into an enormous rocky canyon. The sunset crosses the cutting bank, not a distant canyon rim.",
+            "prompt": "Correct this Late for Dinner oil landscape: the source location Plover's Cut is a SHALLOW HUMAN-SCALE SUNKEN FARM TRACK cut into chalk, not a massive canyon. Keep thick impasto palette-knife paint, barley golds, violet shadows and late-evening atmosphere. Recompose at eye level FROM THE ROAD BOTTOM, looking northeast along a wagon-width dirt track between crumbly pale chalk banks only about TWO METRES HIGH, easy for a person to scramble up. Sparse thorn scrub and yellow grass crown the banks, and barley fields lie level immediately above. A small overturned wooden farm wagon and spilled produce baskets on the road provide unmistakable human scale, without dominating the environmental view. The eastern bank on the right catches the final warm low sunlight from the WEST, OFF FRAME BEHIND THE VIEWER; the road is already in cool shadow. Above the low rim, a few very small mounted silhouettes against the pale evening sky suggest the approaching troops. No huge ravine, towering cliff, gorge, river or sun setting in the east. Wide intimate rural environment, coherent low bank geometry, no text or border, same tactile oil style as the reference.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-night-around-juniper-house",
           "title": "Night around juniper house",
           "alt": "Night around juniper house — oil landscape for Late for Dinner",
