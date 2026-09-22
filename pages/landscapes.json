@@ -8553,25 +8553,6 @@
       "reader": "stories/what-she-remembered-of-peace.html",
       "images": [
         {
-          "id": "01-the-blue-balcony-rails",
-          "title": "The blue balcony rails",
-          "alt": "The blue balcony rails — oil landscape for What She Remembered of Peace",
-          "source": "stories/what-she-remembered-of-peace/art/landscapes/01-the-blue-balcony-rails.png",
-          "sourceSha256": "b246063a461ae97d2d99123251d17211f200af9d69e0d11bf28ad2c0d6657280",
-          "full": {
-            "path": "landscapes/what-she-remembered-of-peace/01-the-blue-balcony-rails.webp",
-            "sha256": "fafaba163bcfa6b11f509c58134a008a9c5e091cb0c046e94d60be874150864a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-she-remembered-of-peace/01-the-blue-balcony-rails-thumb.webp",
-            "sha256": "a1c5b7d492208e31ee3c19296adb6f9c9ac0ec926715adb3c608e1b22f6fa319",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-smoke-between-terraces",
           "title": "Smoke between terraces",
           "alt": "Smoke between terraces — oil landscape for What She Remembered of Peace",
@@ -12441,6 +12422,11 @@
       "source": "stories/what-i-hate-most/art/landscapes/05-cooling-glass-at-first-light.png",
       "sourceSha256": "2d780e6a9a1fff0f0e2ea96006a1232fc4987537376f699f85d479b00d276dae",
       "reason": "Cooling stormglass lies in the emptied dust/glass spillway. The painting introduces a flowing waterfall and a snow-covered rural channel, changing both its material condition and urban setting."
+    },
+    {
+      "source": "stories/what-she-remembered-of-peace/art/landscapes/01-the-blue-balcony-rails.png",
+      "sourceSha256": "b246063a461ae97d2d99123251d17211f200af9d69e0d11bf28ad2c0d6657280",
+      "reason": "The source begins indoors and the attack starts immediately. A peaceful blue-rail terrace panorama expands the brief memory of painting rails into an unshown scene and repeats the actual smoke-filled terrace setting."
     },
     {
       "source": "stories/what-the-gates-keep/art/landscapes/03-the-northern-tracks.png",
