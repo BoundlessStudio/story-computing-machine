@@ -3137,6 +3137,32 @@
       ]
     },
     {
+      "slug": "terms-at-four",
+      "title": "Terms at Four",
+      "reader": "stories/terms-at-four.html",
+      "images": [
+        {
+          "id": "03-the-cold-module",
+          "title": "The cold module",
+          "alt": "The cold module — oil landscape for Terms at Four",
+          "source": "stories/terms-at-four/art/landscapes/03-the-cold-module.png",
+          "sourceSha256": "de814c70b48ff0a11610879b2e8bd044d6893c572b0a81b2530bac436fc7accc",
+          "full": {
+            "path": "landscapes/terms-at-four/03-the-cold-module.webp",
+            "sha256": "1c6c0dc1fb8ef6f3916b1fcb243a64ed2343f2280958ff49d10787b1e9738400",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/terms-at-four/03-the-cold-module-thumb.webp",
+            "sha256": "d5cb989c5a085b3117f5b22cc2932e423139f0c98eaf23d9ce77239d0e503713",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "postcard-garden",
       "title": "The Address of Here",
       "reader": "stories/postcard-garden.html",
@@ -11280,11 +11306,6 @@
     {
       "source": "stories/terms-at-four/art/landscapes/02-a-lattice-far-above.png",
       "sourceSha256": "dec8d47c0c6c03b0247e1b4cf85ec0acf355b03a77a0404757f9931b971aa08d",
-      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
-    },
-    {
-      "source": "stories/terms-at-four/art/landscapes/03-the-cold-module.png",
-      "sourceSha256": "de814c70b48ff0a11610879b2e8bd044d6893c572b0a81b2530bac436fc7accc",
       "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
     },
     {
