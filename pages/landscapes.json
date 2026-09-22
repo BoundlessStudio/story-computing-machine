@@ -5410,25 +5410,6 @@
           }
         },
         {
-          "id": "03-east-drain-rooflines",
-          "title": "East drain rooflines",
-          "alt": "East drain rooflines — oil landscape for The Night Harvest",
-          "source": "stories/the-night-harvest/art/landscapes/03-east-drain-rooflines.png",
-          "sourceSha256": "e474c854d6f27bfb6e505eec734c8b2955210c9826fb14a5a95fd68caf1f2ae4",
-          "full": {
-            "path": "landscapes/the-night-harvest/03-east-drain-rooflines.webp",
-            "sha256": "224254740532df40a9b2c5995422a1701038c05d980d1497c47ce66fba161835",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-harvest/03-east-drain-rooflines-thumb.webp",
-            "sha256": "2d66f24c41feb83d842be44e9ffe981290d52b44fbca0e1a7eeac13ce0fcd0e5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-storm-over-the-salvage-yard",
           "title": "Storm over the salvage yard",
           "alt": "Storm over the salvage yard — oil landscape for The Night Harvest",
@@ -14513,6 +14494,11 @@
       "source": "stories/the-next-train/art/landscapes/05-temple-steps-in-evening.png",
       "sourceSha256": "e3ea477f7f7b8486ab5e831dde72893ae5462aa058c7df33859128718686c2c9",
       "reason": "The temple appears only in an explanation of the god's familiar poster image, not as a visited setting."
+    },
+    {
+      "source": "stories/the-night-harvest/art/landscapes/03-east-drain-rooflines.png",
+      "sourceSha256": "e474c854d6f27bfb6e505eec734c8b2955210c9826fb14a5a95fd68caf1f2ae4",
+      "reason": "The east-road houses are discussed while comparing dangerous transport routes; this separate drain-side panorama is not an enacted setting and adds another town view beside the actual yard and roads."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
