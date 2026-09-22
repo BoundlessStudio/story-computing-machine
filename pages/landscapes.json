@@ -7368,25 +7368,6 @@
           }
         },
         {
-          "id": "03-apple-bough-against-the-wall",
-          "title": "Apple bough against the wall",
-          "alt": "Apple bough against the wall — oil landscape for The Unoffered Hand",
-          "source": "stories/the-unoffered-hand/art/landscapes/03-apple-bough-against-the-wall.png",
-          "sourceSha256": "f78ca15ae8a5d204f3253a79b3b13fac76542dc5e79fc9bd5de5731f4f8fe560",
-          "full": {
-            "path": "landscapes/the-unoffered-hand/03-apple-bough-against-the-wall.webp",
-            "sha256": "56752f38bc90964d79f7d47a6ec2a873ebf1b7df05c465cf3d1788a9b710f250",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unoffered-hand/03-apple-bough-against-the-wall-thumb.webp",
-            "sha256": "0fb6bbc3e8142e8806a5f786784acc763fa4a56c3af16c6772dde5dd7ec65452",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-mews-roof-after-rain",
           "title": "Mews roof after rain",
           "alt": "Mews roof after rain — oil landscape for The Unoffered Hand",
@@ -13110,6 +13091,11 @@
       "source": "stories/the-unfixed-face/art/landscapes/05-after-the-studio-closes.png",
       "sourceSha256": "a457097cbe23fde81ebbf62d501a3f14bc283aa10f568c43b985d76be036fe71",
       "reason": "A third studio-neighborhood view from an invented elevated viewpoint adds no distinct story setting."
+    },
+    {
+      "source": "stories/the-unoffered-hand/art/landscapes/03-apple-bough-against-the-wall.png",
+      "sourceSha256": "f78ca15ae8a5d204f3253a79b3b13fac76542dc5e79fc9bd5de5731f4f8fe560",
+      "reason": "Repeats the south orchard already represented by its clear strip; the foreground bough is far from the distant wall instead of the obstructed uphill branch beside the wall central to Cresset's collision."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
