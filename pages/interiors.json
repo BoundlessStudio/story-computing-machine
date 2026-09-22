@@ -6274,6 +6274,134 @@
       ]
     },
     {
+      "slug": "the-ninety-year-barrier",
+      "title": "The Ninety-Year Barrier",
+      "reader": "stories/the-ninety-year-barrier.html",
+      "images": [
+        {
+          "id": "01-the-witchs-workroom",
+          "title": "The witchs workroom",
+          "alt": "The witchs workroom — oil interior study for The Ninety-Year Barrier",
+          "source": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+          "sourceSha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25",
+          "full": {
+            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-d656f61aaea14924.webp",
+            "sha256": "776142c526319b5429728aea905d6f1867f3a234e8374520a62766780589b184",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-d656f61aaea14924-thumb.webp",
+            "sha256": "364a87c6a116cc2cf9c807dbe707f9ca4d8dd7cd2370915cebac69bdafce2a0e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-cord-model",
+          "title": "The cord model",
+          "alt": "The cord model — oil interior study for The Ninety-Year Barrier",
+          "source": "stories/the-ninety-year-barrier/art/interiors/02-the-cord-model.png",
+          "sourceSha256": "0a128346660664079fc611ba35fe4683aaa5d9b2ddee22dd1ffead37f9c74c8c",
+          "full": {
+            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-0a12834666066407.webp",
+            "sha256": "deee13c2ec22a19a3bd8b884c4d7c77f4417500ce71bc69b313654fdb1c351a5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-0a12834666066407-thumb.webp",
+            "sha256": "63e788ae3ad0a348382e6c48fa730e6f49e0c022777060e5572135ee14833f1c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-western-wall",
+          "title": "The western wall",
+          "alt": "The western wall — oil interior study for The Ninety-Year Barrier",
+          "source": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
+          "sourceSha256": "37a0f47f43a3dc2111bec36f5f502ebbe724e4fb832c54b92f0a6cce02b46cd6",
+          "full": {
+            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-37a0f47f43a3dc21.webp",
+            "sha256": "2e6dc8900e5394666865b80b59fde0d2afdcdbd3c64e3099c38bce9a700275db",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-37a0f47f43a3dc21-thumb.webp",
+            "sha256": "6aeb3b3e54be1fd797e72f40e74494477a9e56da9c9eab8f5b6106369453ca7b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-old-percentage",
+      "title": "The Old Percentage",
+      "reader": "stories/the-old-percentage.html",
+      "images": [
+        {
+          "id": "01-the-former-counting-office",
+          "title": "The former counting office",
+          "alt": "The former counting office — oil interior study for The Old Percentage",
+          "source": "stories/the-old-percentage/art/interiors/01-the-former-counting-office.png",
+          "sourceSha256": "b210ac591e6a0506f13a3466d4f052da1cc53925cc9519317e7c10e7184d0087",
+          "full": {
+            "path": "interiors/the-old-percentage/01-the-former-counting-office-b210ac591e6a0506.webp",
+            "sha256": "34d5275c95cc63eab0b2d88bd01804f755fc4633d0819950b0459e65c6364d80",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-old-percentage/01-the-former-counting-office-b210ac591e6a0506-thumb.webp",
+            "sha256": "5e7f1261b65a3b8bbdd002bcc87c14c2c9b145cca0fa52aabe2501abb220502c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-dacres-private-club",
+          "title": "Dacres private club",
+          "alt": "Dacres private club — oil interior study for The Old Percentage",
+          "source": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+          "sourceSha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75",
+          "full": {
+            "path": "interiors/the-old-percentage/02-dacres-private-club-c4d952811a979e69.webp",
+            "sha256": "a88b2426f2bf3056001e736e7a0a7ee98c13f8068b908a37f788418b877e6298",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-old-percentage/02-dacres-private-club-c4d952811a979e69-thumb.webp",
+            "sha256": "1d094ccde50568aec5a899dbb2bf89185233c879b8ca5dcce2d4bb1adcc8c373",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-borrowed-room",
+          "title": "The borrowed room",
+          "alt": "The borrowed room — oil interior study for The Old Percentage",
+          "source": "stories/the-old-percentage/art/interiors/03-the-borrowed-room.png",
+          "sourceSha256": "fc4744e79f30a30093f5d4bb75f95aabcafd960a740dfb62f0fec0cbab177b10",
+          "full": {
+            "path": "interiors/the-old-percentage/03-the-borrowed-room-fc4744e79f30a300.webp",
+            "sha256": "8c6c206eb4148b4ba9b2e32ac9d2801f3c30fd5a20ac553130b78cce02b8ee27",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-old-percentage/03-the-borrowed-room-fc4744e79f30a300-thumb.webp",
+            "sha256": "c61d3dadc21ecf021cd954c064bc99d2a3b4fd298e295176e686550559b5f7ad",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-peace-they-could-sleep-through",
       "title": "The Peace They Could Sleep Through",
       "reader": "stories/the-peace-they-could-sleep-through.html",
