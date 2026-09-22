@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "slug": "a-crown-for-the-endless-fire",
+      "title": "A Crown for the Endless Fire",
+      "reader": "stories/a-crown-for-the-endless-fire.html",
+      "images": [
+        {
+          "id": "01-lower-mine-gallery",
+          "title": "Lower mine gallery",
+          "alt": "Lower mine gallery — oil interior study for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/interiors/01-lower-mine-gallery.png",
+          "sourceSha256": "024de7620d0af5bfc1b8f2073d583dab554212a3c990311c1acc81ddd03e3cd5",
+          "full": {
+            "path": "interiors/a-crown-for-the-endless-fire/01-lower-mine-gallery-024de7620d0af5bf.webp",
+            "sha256": "82227a399765d4a1b11e41afca7e5e5d431196b7eb5a6e828445323260599faf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-for-the-endless-fire/01-lower-mine-gallery-024de7620d0af5bf-thumb.webp",
+            "sha256": "c8f0f11b7d4a96d56f9e124abee0368aa90b443e31e7be0fff38193228b8d74b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-shutter-chamber",
+          "title": "Shutter chamber",
+          "alt": "Shutter chamber — oil interior study for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
+          "sourceSha256": "3311790135491e9608f65e387352f4d9a447c9556dbbfc06cfbd79d46cef49fc",
+          "full": {
+            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3311790135491e96.webp",
+            "sha256": "ca656a4e00a5f2dda27d009154be88dc14a179b25a25e65ce98f416fe05e72e4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3311790135491e96-thumb.webp",
+            "sha256": "c0e0122b3e42411a7b415d8f52c11e7f6fb0b4de3fb6fe1e62fceeddae2c3655",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-service-stair-junction",
+          "title": "Service stair junction",
+          "alt": "Service stair junction — oil interior study for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/interiors/03-service-stair-junction.png",
+          "sourceSha256": "f7e0c4268f0518d432b7eaa0d5661438082a915cc8d6e7175dfcdb12b02c2c07",
+          "full": {
+            "path": "interiors/a-crown-for-the-endless-fire/03-service-stair-junction-f7e0c4268f0518d4.webp",
+            "sha256": "a1c5389a72c6bb2204274dc840af8c4778684daae1d6baf0bab7170fe499bab8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-for-the-endless-fire/03-service-stair-junction-f7e0c4268f0518d4-thumb.webp",
+            "sha256": "76840b3ec03088dc848203e346c861b4d02fcbcc87d4a7b617eca918b5d7ea98",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-little-winter-for-sale",
+      "title": "A Little Winter for Sale",
+      "reader": "stories/a-little-winter-for-sale.html",
+      "images": [
+        {
+          "id": "01-coldmouth-exchanger",
+          "title": "Coldmouth exchanger",
+          "alt": "Coldmouth exchanger — oil interior study for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/interiors/01-coldmouth-exchanger.png",
+          "sourceSha256": "2b2532125bdd1aed42ed66cc270260fc0f7764553c66d72100da1b4efff615cd",
+          "full": {
+            "path": "interiors/a-little-winter-for-sale/01-coldmouth-exchanger-2b2532125bdd1aed.webp",
+            "sha256": "5ffdc923ddd751bf3959fd52eb7d47f2707b34385aa8a155f2cf071b50a32ab3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-winter-for-sale/01-coldmouth-exchanger-2b2532125bdd1aed-thumb.webp",
+            "sha256": "6fdf9cde48b5c3e2fc182d9e02af6c3cea54566367fdde033dbac3e098433818",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-coldmouth-workbench",
+          "title": "Coldmouth workbench",
+          "alt": "Coldmouth workbench — oil interior study for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
+          "sourceSha256": "8ffb4ee1e588a573d4bfeb83a7c4134d359644b12aca45a86a431e58df68e1f1",
+          "full": {
+            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-8ffb4ee1e588a573.webp",
+            "sha256": "c655d170f201bd9a61fa67578b6d52d8118b4d8cb366fae047f5f9df5de522c9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-8ffb4ee1e588a573-thumb.webp",
+            "sha256": "7fa25214a7583697e9e96dd93b692797df991a6a190b68c91609a89bde640296",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-coldmouth-inner-shelf",
+          "title": "Coldmouth inner shelf",
+          "alt": "Coldmouth inner shelf — oil interior study for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+          "sourceSha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2",
+          "full": {
+            "path": "interiors/a-little-winter-for-sale/03-coldmouth-inner-shelf-a8fcaaf9861afb1b.webp",
+            "sha256": "e82008b72fb0f778da5101135205061a4d9eaf94d13d5b8b74926acab925de12",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-winter-for-sale/03-coldmouth-inner-shelf-a8fcaaf9861afb1b-thumb.webp",
+            "sha256": "25c5dd7f82d4b37bc1cf653c07215f66b82c9624d1919ec1e42f1831aa48774e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    }
+  ]
+}
