@@ -280,6 +280,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "03-black-bridge-across-the-gulf",
+          "title": "Black bridge across the gulf",
+          "alt": "Black bridge across the gulf — oil landscape for A Crown for the Endless Fire",
+          "source": "pages/landscape-replacements/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf.png",
+          "sourceSha256": "928d62d4eeedd89a11d7c494730f370b9333c443bfbd21ef033d70ac58ec8846",
+          "full": {
+            "path": "landscapes/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf-928d62d4eeedd89a.webp",
+            "sha256": "e585f0f1939a2faba3e5eee8243c2a0ef5dc8c41413c9fe02ed3a06dec921822",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf-928d62d4eeedd89a-thumb.webp",
+            "sha256": "44a5d6218bdb2f9fcbacc7459591f3e60e6b08d00dd5f2a5ee2ee5d3dd387a36",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
+            "originalSha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9",
+            "correction": "The source bridge is about thirty paces, supported by six lengthwise ribs seated in opposite walls. The painting substitutes a monumental arched viaduct with tall piers descending into the fire.",
+            "prompt": "Use case: precise-object-edit. Create one corrected horizontal 1536x1024 oil landscape for 'A Crown for the Endless Fire'. Image 1 is the old image: retain its tactile impasto oil brushwork, black rock and orange-white furnace light, but REPLACE its incorrect monumental arched viaduct. The actual underground crossing is a short flat black stone footbridge, about thirty walking paces long and only two outstretched arms wide, entirely without rails. Exactly six parallel structural ribs run LENGTHWISE beneath the deck from sockets in the near rock wall to sockets in the opposite rock wall. All load is carried between those two walls. There are NO intermediate piers, NO downward pillars, NO arches and NO support reaching a floor. Compose an oblique near-abutment view showing the flat deck and the six rib ends under its near edge, with their parallel length extending to the opposite wall. The bridge reaches a small square opening in the far wall, with a closed iron shutter over a side shaft beside it. Beneath it is bottomless supernatural fire: moving folds of orange and white flame disappear into smoke and glare, with no visible fuel, lava surface, river, bottom or floor. Rock cavern enclosing everything; no outdoors, sky, sun or daylight. Make the thirty-pace span visually modest and believable, not a vast elevated road. Unpeopled setting study, no text, no labels, no watermark. Preserve the reference's strong painterly strokes and earthy volcanic palette.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
