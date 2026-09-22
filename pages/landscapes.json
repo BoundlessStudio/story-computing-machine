@@ -2573,25 +2573,6 @@
           }
         },
         {
-          "id": "02-storm-over-the-mountain",
-          "title": "Storm over the mountain",
-          "alt": "Storm over the mountain — oil landscape for The Anatomy of a God",
-          "source": "stories/anatomy-of-a-god/art/landscapes/02-storm-over-the-mountain.png",
-          "sourceSha256": "441e9db3918e59e3d2ed3efd684599f1ca2eef231b540069f4682911872b28bc",
-          "full": {
-            "path": "landscapes/anatomy-of-a-god/02-storm-over-the-mountain.webp",
-            "sha256": "35716f4cdc0a0d2294f679a8fbf0dd034a92c8af4e2537378dbad68e686a4851",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/anatomy-of-a-god/02-storm-over-the-mountain-thumb.webp",
-            "sha256": "1444af607d8566daf0dceba4b681dd2a0bf410e875cdebf9b49e0e7747d5e7fc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-flooded-ravine-road",
           "title": "The flooded ravine road",
           "alt": "The flooded ravine road — oil landscape for The Anatomy of a God",
@@ -16022,6 +16003,11 @@
       "source": "stories/an-ordinary-education/art/landscapes/05-night-on-the-way-home.png",
       "sourceSha256": "c111966dd27a6c49ff9103d5d12f2fd5fdba6ebbcb755884eafd317a61099115",
       "reason": "The story ends with the girls talking and skating inside the rink. This moonlit journey home never occurs."
+    },
+    {
+      "source": "stories/anatomy-of-a-god/art/landscapes/02-storm-over-the-mountain.png",
+      "sourceSha256": "441e9db3918e59e3d2ed3efd684599f1ca2eef231b540069f4682911872b28bc",
+      "reason": "Repeats the stormy mountain and sanctuary already established in the first view without adding a distinct location or event."
     },
     {
       "source": "stories/before-lunch/art/landscapes/02-the-empty-bus-stop-road.png",
