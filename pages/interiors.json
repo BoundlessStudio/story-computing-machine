@@ -578,6 +578,134 @@
       ]
     },
     {
+      "slug": "a-pet-human",
+      "title": "A Pet Human",
+      "reader": "stories/a-pet-human.html",
+      "images": [
+        {
+          "id": "01-temple-altar",
+          "title": "Temple altar",
+          "alt": "Temple altar — oil interior study for A Pet Human",
+          "source": "stories/a-pet-human/art/interiors/01-temple-altar.png",
+          "sourceSha256": "03ffdbb20597ce0fc4c4bc9486b789573e85959bb1347af001d94bc4997a2b14",
+          "full": {
+            "path": "interiors/a-pet-human/01-temple-altar-03ffdbb20597ce0f.webp",
+            "sha256": "ad250536f04299a05021bb7f9bfda9218f6c793a1aac23cb00c5948fca578ff6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-pet-human/01-temple-altar-03ffdbb20597ce0f-thumb.webp",
+            "sha256": "3e09855f5e986f21373fd7192251e543c2d260f60cfb335bf257529d4f0c89f2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-birthday-drawing-room",
+          "title": "Birthday drawing room",
+          "alt": "Birthday drawing room — oil interior study for A Pet Human",
+          "source": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+          "sourceSha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+          "full": {
+            "path": "interiors/a-pet-human/02-birthday-drawing-room-4013d9d38ffd5753.webp",
+            "sha256": "c93a3e9715222fce75486eb4d6bc86139b6f87951ebc07e8d721fc9e38c043cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-pet-human/02-birthday-drawing-room-4013d9d38ffd5753-thumb.webp",
+            "sha256": "554051e6bca2ffb03fa4beea2f9fad7df0d591987c7013b8c23006152653e4da",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-tall-window-and-feast-cupboard",
+          "title": "Tall window and feast cupboard",
+          "alt": "Tall window and feast cupboard — oil interior study for A Pet Human",
+          "source": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
+          "sourceSha256": "b09a9a7cb2f7bd2f6abab4051b0f0e7430fb3642b2b0d63684dd023dc86c6ca9",
+          "full": {
+            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f.webp",
+            "sha256": "e76aa6efdbd73d9fb6d95cac7d7ba4312acbc65cc73e9aeba24fba16b911a2fc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f-thumb.webp",
+            "sha256": "cee58c4c7ddcd27309b07da1bee69e92e95a4cb1e13f779877da6ed8dfcf9a7e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "between-the-colors",
+      "title": "Between the Colors",
+      "reader": "stories/between-the-colors.html",
+      "images": [
+        {
+          "id": "01-puppet-theatre-auditorium",
+          "title": "Puppet theatre auditorium",
+          "alt": "Puppet theatre auditorium — oil interior study for Between the Colors",
+          "source": "stories/between-the-colors/art/interiors/01-puppet-theatre-auditorium.png",
+          "sourceSha256": "3a9ea949de1037c67defcdc9405d326a03144c39be5122d136319f54c6d01dc9",
+          "full": {
+            "path": "interiors/between-the-colors/01-puppet-theatre-auditorium-3a9ea949de1037c6.webp",
+            "sha256": "eed69aa758d0056ec6366dbac92dc02b2861d826644a6ac9ee48157e5ca4e8b4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/between-the-colors/01-puppet-theatre-auditorium-3a9ea949de1037c6-thumb.webp",
+            "sha256": "dae3b7fea5210312cc5a8dc0000b138229d82b66fe1d3778dd61a9afa619cb9f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-backstage-staircase",
+          "title": "Backstage staircase",
+          "alt": "Backstage staircase — oil interior study for Between the Colors",
+          "source": "stories/between-the-colors/art/interiors/02-backstage-staircase.png",
+          "sourceSha256": "a9f7ae0d56e67406091f4f6f62f84df358c4c741a829cd6c8a6c04abe803f911",
+          "full": {
+            "path": "interiors/between-the-colors/02-backstage-staircase-a9f7ae0d56e67406.webp",
+            "sha256": "0e49d09ff9aa0615113ae41df35354f2146e0044f9bd53b3e9ffe4dcff99c9f6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/between-the-colors/02-backstage-staircase-a9f7ae0d56e67406-thumb.webp",
+            "sha256": "f92e5722c03407a0328ff2a5e5c7a7f40067fcbf5db3019a27c995c9d9e3a23b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-dressing-room-window",
+          "title": "Dressing room window",
+          "alt": "Dressing room window — oil interior study for Between the Colors",
+          "source": "stories/between-the-colors/art/interiors/03-dressing-room-window.png",
+          "sourceSha256": "108c849c2bca650a9b1f20233f4ac9760cfe89e80b4555d4de722d4e091939fa",
+          "full": {
+            "path": "interiors/between-the-colors/03-dressing-room-window-108c849c2bca650a.webp",
+            "sha256": "a1e9af6ddb2f1e139356a1abf7a666697eb941cbb218f3452a42cecace19283b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/between-the-colors/03-dressing-room-window-108c849c2bca650a-thumb.webp",
+            "sha256": "e1884d90c6d41201e6cfe47f4417a4dbafc39fbb095bf0d961e002294e3a0523",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-throne-neither-wanted",
       "title": "The Throne Neither of Us Wanted",
       "reader": "stories/a-throne-neither-wanted.html",
