@@ -3650,6 +3650,70 @@
       ]
     },
     {
+      "slug": "the-cat-who-kept-the-door",
+      "title": "The Cat Who Kept the Door",
+      "reader": "stories/the-cat-who-kept-the-door.html",
+      "images": [
+        {
+          "id": "01-the-throne-room",
+          "title": "The throne room",
+          "alt": "The throne room — oil interior study for The Cat Who Kept the Door",
+          "source": "stories/the-cat-who-kept-the-door/art/interiors/01-the-throne-room.png",
+          "sourceSha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+          "full": {
+            "path": "interiors/the-cat-who-kept-the-door/01-the-throne-room-5108bb02afb66acc.webp",
+            "sha256": "c80d0c47c5ba8485f6785b7b36859a9c332e7291adfb76aa178fb604fbfa8477",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-kept-the-door/01-the-throne-room-5108bb02afb66acc-thumb.webp",
+            "sha256": "efa13061726c7284566c5f8083a81e7d7954d7e5c9a9e22e398202bd25d4e8ee",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-new-burial-chamber",
+          "title": "The new burial chamber",
+          "alt": "The new burial chamber — oil interior study for The Cat Who Kept the Door",
+          "source": "stories/the-cat-who-kept-the-door/art/interiors/02-the-new-burial-chamber.png",
+          "sourceSha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+          "full": {
+            "path": "interiors/the-cat-who-kept-the-door/02-the-new-burial-chamber-662b12a421a4ac3a.webp",
+            "sha256": "fc01aa0ee033cf902707c68aa7923eec2325d7fc24aada64950b00b249a1fd17",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-kept-the-door/02-the-new-burial-chamber-662b12a421a4ac3a-thumb.webp",
+            "sha256": "1cb82aee324f620ca02533f391b464a359df74684a4a06a1751483745acb2744",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-machine-below-the-tombs",
+          "title": "The machine below the tombs",
+          "alt": "The machine below the tombs — oil interior study for The Cat Who Kept the Door",
+          "source": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
+          "sourceSha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+          "full": {
+            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-52f4e545bc49db7c.webp",
+            "sha256": "433f84b46f5d1c4146626ad9fa2b7621dcb868a611d0b0bcfbc8ffd01e537633",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-52f4e545bc49db7c-thumb.webp",
+            "sha256": "ea5d3ed6bd5d2465c9e89681e4875fd15f7bc199357695b572fe81068e45ce85",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-chair-at-the-back",
       "title": "The Chair at the Back",
       "reader": "stories/the-chair-at-the-back.html",
@@ -3771,6 +3835,70 @@
           "thumbnail": {
             "path": "interiors/the-city-of-eleven-foundations/03-copper-pump-house-96362185f5a8f399-thumb.webp",
             "sha256": "bed2fee6ecd62898ada8e0b68c762aa142286b102f5a7c5903eb48f0241f1ad5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-count-was-131072",
+      "title": "The Count Was 131,072",
+      "reader": "stories/the-count-was-131072.html",
+      "images": [
+        {
+          "id": "01-museum-tactical-gallery",
+          "title": "Museum tactical gallery",
+          "alt": "Museum tactical gallery — oil interior study for The Count Was 131,072",
+          "source": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
+          "sourceSha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16",
+          "full": {
+            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-d9f73ddbc01b9b9c.webp",
+            "sha256": "68a6c6deeb1b1bdfd16c18dbe422243bc35b6ae93ce5d099fdc31a5e8e585dde",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-d9f73ddbc01b9b9c-thumb.webp",
+            "sha256": "7a0467c505b62ccc2e72ef1e1705a40baa2fcaa9f834e21cff97c3c08bccc797",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-twelve-dark-circles",
+          "title": "Twelve dark circles",
+          "alt": "Twelve dark circles — oil interior study for The Count Was 131,072",
+          "source": "stories/the-count-was-131072/art/interiors/02-twelve-dark-circles.png",
+          "sourceSha256": "8c90f7358cc2381aa015f8b539b1a3139745916e2db23ff638b24a626c8732ad",
+          "full": {
+            "path": "interiors/the-count-was-131072/02-twelve-dark-circles-8c90f7358cc2381a.webp",
+            "sha256": "c8438c4c67d459a5a6833e8c8a85af0aa60da3db54980863d409194cf4eae44e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-count-was-131072/02-twelve-dark-circles-8c90f7358cc2381a-thumb.webp",
+            "sha256": "dce7ab4b423c9b0bf74e6eacbe64a2315bd6dcad63118e933e688d466fb3d9f9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-audio-guide-service-room",
+          "title": "Audio guide service room",
+          "alt": "Audio guide service room — oil interior study for The Count Was 131,072",
+          "source": "stories/the-count-was-131072/art/interiors/03-audio-guide-service-room.png",
+          "sourceSha256": "0dc753caf8742c5f3d7eecf567ae0731304832065077368f5b1ac011cbb3277f",
+          "full": {
+            "path": "interiors/the-count-was-131072/03-audio-guide-service-room-0dc753caf8742c5f.webp",
+            "sha256": "08b0510774958205b048f8b452d3ca5036e40a80292774c59fb727923c1cc5c9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-count-was-131072/03-audio-guide-service-room-0dc753caf8742c5f-thumb.webp",
+            "sha256": "ef248b102d7f51261c3d3e2597165d553034a7274b10d089e900a114cdec39bb",
             "width": 480,
             "height": 320
           }
