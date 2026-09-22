@@ -9618,6 +9618,32 @@
       ]
     },
     {
+      "slug": "the-wolf-in-the-mirror",
+      "title": "The Wolf in the Mirror",
+      "reader": "stories/the-wolf-in-the-mirror.html",
+      "images": [
+        {
+          "id": "02-moonlight-over-the-studio",
+          "title": "Moonlight over the studio",
+          "alt": "Moonlight over the studio — oil landscape for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/landscapes/02-moonlight-over-the-studio.png",
+          "sourceSha256": "6d02fa646dc556a0394f25222570c34849860df0d7cad6fc0e59fac7d38310fb",
+          "full": {
+            "path": "landscapes/the-wolf-in-the-mirror/02-moonlight-over-the-studio.webp",
+            "sha256": "fe8f4c5ea9fcd3e8626ebf04db211941b0abac8a4c558041a6ae79389051310e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-wolf-in-the-mirror/02-moonlight-over-the-studio-thumb.webp",
+            "sha256": "8460cb7d757b1c2acc65a11ff44138cf9f2611e945294ec21b39bca3ca83173b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "what-the-gates-keep",
       "title": "The Wrong Rescue",
       "reader": "stories/what-the-gates-keep.html",
@@ -13120,11 +13146,6 @@
       "source": "stories/the-wolf-in-the-mirror/art/landscapes/01-garden-before-moonrise.png",
       "sourceSha256": "adb82e7d0660887ebeefa3cae64eb8a431fa21497bca38c9d018bda2fd8051b4",
       "reason": "Preparation before moonrise is inside the reinforced studio, not in the garden."
-    },
-    {
-      "source": "stories/the-wolf-in-the-mirror/art/landscapes/02-moonlight-over-the-studio.png",
-      "sourceSha256": "6d02fa646dc556a0394f25222570c34849860df0d7cad6fc0e59fac7d38310fb",
-      "reason": "The transformation is watched inside a blacked-out room; this moonlit studio exterior and sea view are invented scenery."
     },
     {
       "source": "stories/the-wolf-in-the-mirror/art/landscapes/03-the-road-outside-at-midnight.png",
