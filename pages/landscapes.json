@@ -2447,108 +2447,6 @@
       ]
     },
     {
-      "slug": "terms-at-four",
-      "title": "Terms at Four",
-      "reader": "stories/terms-at-four.html",
-      "images": [
-        {
-          "id": "01-four-oclock-on-the-street",
-          "title": "Four oclock on the street",
-          "alt": "Four oclock on the street — oil landscape for Terms at Four",
-          "source": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
-          "sourceSha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
-          "full": {
-            "path": "landscapes/terms-at-four/01-four-oclock-on-the-street.webp",
-            "sha256": "75dd6f838d7e7f0a7c78d9f489e9504d0dd0931a8a3b7a26170566d6557ea6ed",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/terms-at-four/01-four-oclock-on-the-street-thumb.webp",
-            "sha256": "1b51edc089b59207467474bf5415c08fe72a29d4be4dd9f57c7bcf2f02128ed1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-a-lattice-far-above",
-          "title": "A lattice far above",
-          "alt": "A lattice far above — oil landscape for Terms at Four",
-          "source": "stories/terms-at-four/art/landscapes/02-a-lattice-far-above.png",
-          "sourceSha256": "dec8d47c0c6c03b0247e1b4cf85ec0acf355b03a77a0404757f9931b971aa08d",
-          "full": {
-            "path": "landscapes/terms-at-four/02-a-lattice-far-above.webp",
-            "sha256": "7038b877431d809dd2fb91cd94d9580f3c0ca8537ef5152d5423190382a081a1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/terms-at-four/02-a-lattice-far-above-thumb.webp",
-            "sha256": "0b83f907edf89e7d87cec8070222af7f7ba7f49759e7dadf4d8c41c1a52976cd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-cold-module",
-          "title": "The cold module",
-          "alt": "The cold module — oil landscape for Terms at Four",
-          "source": "stories/terms-at-four/art/landscapes/03-the-cold-module.png",
-          "sourceSha256": "de814c70b48ff0a11610879b2e8bd044d6893c572b0a81b2530bac436fc7accc",
-          "full": {
-            "path": "landscapes/terms-at-four/03-the-cold-module.webp",
-            "sha256": "1c6c0dc1fb8ef6f3916b1fcb243a64ed2343f2280958ff49d10787b1e9738400",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/terms-at-four/03-the-cold-module-thumb.webp",
-            "sha256": "d5cb989c5a085b3117f5b22cc2932e423139f0c98eaf23d9ce77239d0e503713",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-blue-white-light-below",
-          "title": "Blue white light below",
-          "alt": "Blue white light below — oil landscape for Terms at Four",
-          "source": "stories/terms-at-four/art/landscapes/04-blue-white-light-below.png",
-          "sourceSha256": "c6c50d125a032df95b71f699582ab4521be6ba40b7ea962b70fbf73348de0e99",
-          "full": {
-            "path": "landscapes/terms-at-four/04-blue-white-light-below.webp",
-            "sha256": "04e36b33b7c299f7e3b8a08dec36a0a9a3eee8942f2a8b21818a2fcbfb6e73cd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/terms-at-four/04-blue-white-light-below-thumb.webp",
-            "sha256": "28111c38209514a1e4d076ec3e1c25fefad206064cc1a570de8cf142c3c67bdb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-evening-over-quiet-roofs",
-          "title": "Evening over quiet roofs",
-          "alt": "Evening over quiet roofs — oil landscape for Terms at Four",
-          "source": "stories/terms-at-four/art/landscapes/05-evening-over-quiet-roofs.png",
-          "sourceSha256": "e4b98aa4300daf15b1970e55205d5549cb4841cf849c1e22491ab4e228a6a214",
-          "full": {
-            "path": "landscapes/terms-at-four/05-evening-over-quiet-roofs.webp",
-            "sha256": "375e15a32ba9e45d8830ca56a73dc9638bc7a9381036acb8aed3edbcb25138f3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/terms-at-four/05-evening-over-quiet-roofs-thumb.webp",
-            "sha256": "90a37b2b1cefcc768e39de7f022fd582bd6b4b41e43ebbd3d1bf4e0248b04fa8",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "postcard-garden",
       "title": "The Address of Here",
       "reader": "stories/postcard-garden.html",
@@ -16689,6 +16587,31 @@
       "source": "stories/tea-for-the-first-guest/art/landscapes/05-silver-rain-through-stone.png",
       "sourceSha256": "2aebe6ce91e2ea8520f8c6f86cd44a2ef21d5ad611dd91b40ca3d9e7db86f54e",
       "reason": "Fourth arch/road view adds no new setting and changes the bare broken stone shelter into an ivy-covered monument."
+    },
+    {
+      "source": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+      "sourceSha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
+    },
+    {
+      "source": "stories/terms-at-four/art/landscapes/02-a-lattice-far-above.png",
+      "sourceSha256": "dec8d47c0c6c03b0247e1b4cf85ec0acf355b03a77a0404757f9931b971aa08d",
+      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
+    },
+    {
+      "source": "stories/terms-at-four/art/landscapes/03-the-cold-module.png",
+      "sourceSha256": "de814c70b48ff0a11610879b2e8bd044d6893c572b0a81b2530bac436fc7accc",
+      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
+    },
+    {
+      "source": "stories/terms-at-four/art/landscapes/04-blue-white-light-below.png",
+      "sourceSha256": "c6c50d125a032df95b71f699582ab4521be6ba40b7ea962b70fbf73348de0e99",
+      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
+    },
+    {
+      "source": "stories/terms-at-four/art/landscapes/05-evening-over-quiet-roofs.png",
+      "sourceSha256": "e4b98aa4300daf15b1970e55205d5549cb4841cf849c1e22491ab4e228a6a214",
+      "reason": "Invents exterior neighborhood or orbital vistas for a kitchen-bound story. The satellite is monitored through telemetry, and police lights are observed on the ceiling; neither becomes an outdoor viewpoint."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
