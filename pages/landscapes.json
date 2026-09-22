@@ -5079,6 +5079,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "03-rain-over-the-wheat",
+          "title": "Rain over the wheat",
+          "alt": "Rain over the wheat — oil landscape for The Gods Are Afraid of Grandma",
+          "source": "stories/gods-afraid-of-grandma/art/landscapes/03-rain-over-the-wheat.png",
+          "sourceSha256": "ef6595d606902c33e664f88c0268b1c3dd679f21b59edf9a3e6d79ea6ecbd588",
+          "full": {
+            "path": "landscapes/gods-afraid-of-grandma/03-rain-over-the-wheat.webp",
+            "sha256": "461c310c013d0fae51c10656b9da9855677bf22ebb32fbff320f30ea102b4840",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/gods-afraid-of-grandma/03-rain-over-the-wheat-thumb.webp",
+            "sha256": "274011c1bb73cb4d7f4193b487bbc9ed58eaed289d650a0cfee71c8d485cf5d0",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -11021,11 +11040,6 @@
       "source": "stories/gods-afraid-of-grandma/art/landscapes/02-the-mended-lane.png",
       "sourceSha256": "0d43c6f5faaafb0f277b5566a37de4681f23250bbbce0d9466c74f21beaa6427",
       "reason": "The repaired pothole is discovered in the rain after midnight, but the painting presents the lane in broad daylight."
-    },
-    {
-      "source": "stories/gods-afraid-of-grandma/art/landscapes/03-rain-over-the-wheat.png",
-      "sourceSha256": "ef6595d606902c33e664f88c0268b1c3dd679f21b59edf9a3e6d79ea6ecbd588",
-      "reason": "Expands a brief account of Valka's girlhood into an outdoor wheat-field scene that is not enacted."
     },
     {
       "source": "stories/gods-afraid-of-grandma/art/landscapes/04-the-washed-out-culvert.png",
