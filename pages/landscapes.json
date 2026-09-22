@@ -1424,25 +1424,6 @@
           }
         },
         {
-          "id": "03-the-wall-goes-dark",
-          "title": "The wall goes dark",
-          "alt": "The wall goes dark — oil landscape for Friends of the Night",
-          "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
-          "sourceSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
-          "full": {
-            "path": "landscapes/friends-of-the-night/03-the-wall-goes-dark.webp",
-            "sha256": "7b41e20af8b0c00ee1bc9187e5dab712d9ab0e037fcc7b119b1b477f4b259d09",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/friends-of-the-night/03-the-wall-goes-dark-thumb.webp",
-            "sha256": "efdc453118bae488992a7d44d15c23a00c6b50a74571ab5f27d91bac1832e2fc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-road-west-at-dawn",
           "title": "Road west at dawn",
           "alt": "Road west at dawn — oil landscape for Friends of the Night",
@@ -18009,6 +17990,11 @@
       "source": "stories/four-million-falling/art/landscapes/03-spray-beneath-the-city.png",
       "sourceSha256": "1905569566d73ae4bdc2b8e184097ebd337b76a44c0a4d7647b73c6570e9a798",
       "reason": "The floating city loses its engineered concentric-ring form and becomes a mass of mountainous rock/castle silhouettes in cloud. This conflicts with the city identity in the source and retained airborne view."
+    },
+    {
+      "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+      "sourceSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+      "reason": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
