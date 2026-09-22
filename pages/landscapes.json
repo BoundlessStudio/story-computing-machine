@@ -761,6 +761,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-the-sea-left-behind",
+          "title": "The sea left behind",
+          "alt": "The sea left behind — oil landscape for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/landscapes/04-the-sea-left-behind.png",
+          "sourceSha256": "b1985a72d48fcf1dacae5a589bda3aa8e27b1ffef714e3cfdfd8ba416f0197e6",
+          "full": {
+            "path": "landscapes/a-place-for-sunday/04-the-sea-left-behind.webp",
+            "sha256": "4f3c9207d1f2663db7056a19abd324805771328573b98c7e0d5da8d186946d72",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-place-for-sunday/04-the-sea-left-behind-thumb.webp",
+            "sha256": "3ef1c4e526b392193d0095d5e496a6d16507ff0a6a076dbce19e1efe64d92c6d",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -9986,11 +10005,6 @@
       "source": "stories/a-pet-human/art/landscapes/04-empty-fairground-after-rain.png",
       "sourceSha256": "9ced7471ce8a93a63d2705c3538c81f23c083b04259bba0ac849d99a65e9ff3d",
       "reason": "The three wet fairs only explain how the narrator once earned his boots. An empty fairground is not a scene or described location in this story."
-    },
-    {
-      "source": "stories/a-place-for-sunday/art/landscapes/04-the-sea-left-behind.png",
-      "sourceSha256": "b1985a72d48fcf1dacae5a589bda3aa8e27b1ffef714e3cfdfd8ba416f0197e6",
-      "reason": "The sea is explicitly left behind when the village moves inland. No scene visits this coast; the standalone seascape reverses the story's key geographic separation."
     },
     {
       "source": "stories/a-place-for-sunday/art/landscapes/05-city-roofs-beyond-the-olive.png",
