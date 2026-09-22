@@ -2208,25 +2208,6 @@
       "reader": "stories/solstice-evening-bell.html",
       "images": [
         {
-          "id": "01-western-bay-before-dawn",
-          "title": "Western bay before dawn",
-          "alt": "Western bay before dawn — oil landscape for Solstice Evening Bell",
-          "source": "stories/solstice-evening-bell/art/landscapes/01-western-bay-before-dawn.png",
-          "sourceSha256": "3d18228247c44a77b543b2c3e4c90d655b90d221db28fe590b2d8e8b08cbfd97",
-          "full": {
-            "path": "landscapes/solstice-evening-bell/01-western-bay-before-dawn.webp",
-            "sha256": "943878b65d760326abd51c668b4b3e78f863bdf03cd367264ace237f91b414fd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/solstice-evening-bell/01-western-bay-before-dawn-thumb.webp",
-            "sha256": "7b76c5085d99a1b8a2fa9c6973e4cc724dafa2979bafea59b466dc022714336e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-rain-between-the-breakwaters",
           "title": "Rain between the breakwaters",
           "alt": "Rain between the breakwaters — oil landscape for Solstice Evening Bell",
@@ -2241,44 +2222,6 @@
           "thumbnail": {
             "path": "landscapes/solstice-evening-bell/02-rain-between-the-breakwaters-thumb.webp",
             "sha256": "bcf35bb6a03b05effefb0385f76578158598c3fa5517fae8dd3ca22dc0642466",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-shallow-sea-shelf",
-          "title": "The shallow sea shelf",
-          "alt": "The shallow sea shelf — oil landscape for Solstice Evening Bell",
-          "source": "stories/solstice-evening-bell/art/landscapes/03-the-shallow-sea-shelf.png",
-          "sourceSha256": "1357025a1a52eca9dc3015dcb3af151e25a99c2c6d1512e1fe8f36a3544a3023",
-          "full": {
-            "path": "landscapes/solstice-evening-bell/03-the-shallow-sea-shelf.webp",
-            "sha256": "e740d9d27ef9c40bf63ad18c0e8494fa78d949b0c6e8de279e7a632d9cebb4e9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/solstice-evening-bell/03-the-shallow-sea-shelf-thumb.webp",
-            "sha256": "de5195b6f77009ccb2963fe1da048d1f4fe3f69eea07f5d29f9898b614d0b822",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-a-burnt-silver-arc",
-          "title": "A burnt silver arc",
-          "alt": "A burnt silver arc — oil landscape for Solstice Evening Bell",
-          "source": "stories/solstice-evening-bell/art/landscapes/04-a-burnt-silver-arc.png",
-          "sourceSha256": "9066b3e0a27f50205191f534e1240ffdc9adabde2e9c7342c4982610cd174d96",
-          "full": {
-            "path": "landscapes/solstice-evening-bell/04-a-burnt-silver-arc.webp",
-            "sha256": "db34e7d0829647c3a1f07a329eedf6e31663aa93a4d64d66f5e036a4d94641fb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/solstice-evening-bell/04-a-burnt-silver-arc-thumb.webp",
-            "sha256": "2beb9f4823ac3692c118912408070c8441b6628e85a21307422e5ebf98725a9f",
             "width": 480,
             "height": 320
           }
@@ -16885,6 +16828,21 @@
       "source": "stories/she-literally-has-wings/art/landscapes/05-the-mist-lifts-from-the-block.png",
       "sourceSha256": "a956fb827ee5e28ae9360b18db95e73555567cd2924bcc3fdaf06fb53b7584fe",
       "reason": "Invents a bright clearing of the mist after the story has returned indoors; repeats the neighborhood unnecessarily."
+    },
+    {
+      "source": "stories/solstice-evening-bell/art/landscapes/01-western-bay-before-dawn.png",
+      "sourceSha256": "3d18228247c44a77b543b2c3e4c90d655b90d221db28fe590b2d8e8b08cbfd97",
+      "reason": "Repeats the stormy bay already shown more specifically between the breakwaters."
+    },
+    {
+      "source": "stories/solstice-evening-bell/art/landscapes/03-the-shallow-sea-shelf.png",
+      "sourceSha256": "1357025a1a52eca9dc3015dcb3af151e25a99c2c6d1512e1fe8f36a3544a3023",
+      "reason": "Adds another nearly identical shoreline-and-breakwater view without representing a distinct battle state."
+    },
+    {
+      "source": "stories/solstice-evening-bell/art/landscapes/04-a-burnt-silver-arc.png",
+      "sourceSha256": "9066b3e0a27f50205191f534e1240ffdc9adabde2e9c7342c4982610cd174d96",
+      "reason": "Replaces the twelve trails of burnt silver chime fragments with an ordinary sunlit shoreline arc; the defining physical aftermath is absent."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
