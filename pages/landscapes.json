@@ -1661,63 +1661,6 @@
           }
         },
         {
-          "id": "02-the-upper-switchback",
-          "title": "The upper switchback",
-          "alt": "The upper switchback — oil landscape for Mother of Monsters",
-          "source": "stories/mother-of-monsters/art/landscapes/02-the-upper-switchback.png",
-          "sourceSha256": "8cc62608e4931538836028794d1318289c4f9c9ed9483ef91845621b2c6331f6",
-          "full": {
-            "path": "landscapes/mother-of-monsters/02-the-upper-switchback.webp",
-            "sha256": "19c6c780bc2026917aca1e37bc75ddaadb8fb62c333b36c3e66a551f1f28bcbb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/mother-of-monsters/02-the-upper-switchback-thumb.webp",
-            "sha256": "bfafb830fa1123a5f6fc3c55f068bf51a76d7c8718e1fb0ca7e5efde19b44eec",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-watercourse-below-the-ruin",
-          "title": "Watercourse below the ruin",
-          "alt": "Watercourse below the ruin — oil landscape for Mother of Monsters",
-          "source": "stories/mother-of-monsters/art/landscapes/03-watercourse-below-the-ruin.png",
-          "sourceSha256": "f6fcf6fac8ffa945e75b4231d80a652e12bfd42e14eeb66b36f00b60d214dac8",
-          "full": {
-            "path": "landscapes/mother-of-monsters/03-watercourse-below-the-ruin.webp",
-            "sha256": "c09709a53a14eb97bb428c3ce247786ce9b16646c14c03bf274b3cb356c55e6c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/mother-of-monsters/03-watercourse-below-the-ruin-thumb.webp",
-            "sha256": "1910a3a417c1d64ab70bcde86d7a999c393d1c87808ebf8ce561bfeaf8047bad",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-road-ends-in-air",
-          "title": "The road ends in air",
-          "alt": "The road ends in air — oil landscape for Mother of Monsters",
-          "source": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
-          "sourceSha256": "625c5a6ffccae27d4b6d2488db2e7c846465d72d6ee6eb3521586ceb45511721",
-          "full": {
-            "path": "landscapes/mother-of-monsters/04-the-road-ends-in-air.webp",
-            "sha256": "cfcd33a420b6ae96d1a292165d17a80ed2c6b7e1304a52a0ee83a48e0580549b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/mother-of-monsters/04-the-road-ends-in-air-thumb.webp",
-            "sha256": "4cbc73cbbd8f71d81c2491a8b595c878d64c89ff37421a88aea5dc3963228127",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-separate-ways",
           "title": "The separate ways",
           "alt": "The separate ways — oil landscape for Mother of Monsters",
@@ -17537,6 +17480,21 @@
       "source": "stories/lightning-carries-one/art/landscapes/03-a-mountaintop-blue-with-cold.png",
       "sourceSha256": "4556f9a1f875da3cd0ef4fd017101a0bd852a6ada81a163dd8c115d369e84fcf",
       "reason": "The mountaintop belongs to the same offstage list of earlier teleports and supplies unrelated scenic filler."
+    },
+    {
+      "source": "stories/mother-of-monsters/art/landscapes/02-the-upper-switchback.png",
+      "sourceSha256": "8cc62608e4931538836028794d1318289c4f9c9ed9483ef91845621b2c6331f6",
+      "reason": "Repeats the same intact upper causeway already shown with the sanctuary, without a distinct state."
+    },
+    {
+      "source": "stories/mother-of-monsters/art/landscapes/03-watercourse-below-the-ruin.png",
+      "sourceSha256": "f6fcf6fac8ffa945e75b4231d80a652e12bfd42e14eeb66b36f00b60d214dac8",
+      "reason": "Repeats the ravine watercourse covered more usefully by the separate escape paths."
+    },
+    {
+      "source": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
+      "sourceSha256": "625c5a6ffccae27d4b6d2488db2e7c846465d72d6ee6eb3521586ceb45511721",
+      "reason": "Replaces the broken sanctuary of the opening image with a large intact multi-storey castle across a different valley; the collapse view breaks location continuity."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
