@@ -3592,25 +3592,6 @@
           }
         },
         {
-          "id": "02-white-chalk-east-road",
-          "title": "White chalk east road",
-          "alt": "White chalk east road — oil landscape for The First Call",
-          "source": "stories/never-a-mascot/art/landscapes/02-white-chalk-east-road.png",
-          "sourceSha256": "a70e227983344faeae88a5449ce13a9579c76efc1116e6e04b6e54f228b0f662",
-          "full": {
-            "path": "landscapes/never-a-mascot/02-white-chalk-east-road.webp",
-            "sha256": "9c45beef64fe79da83c0d6b9d17a11cac240a3917c705aa626f994cf607d6235",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/never-a-mascot/02-white-chalk-east-road-thumb.webp",
-            "sha256": "e9ac581c767f11a25300d34a78022ff55da56c04e9e81e675ae9d1f3255ef6a3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-marsh-before-sunrise",
           "title": "The marsh before sunrise",
           "alt": "The marsh before sunrise — oil landscape for The First Call",
@@ -15264,6 +15245,11 @@
       "source": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
       "sourceSha256": "625c5a6ffccae27d4b6d2488db2e7c846465d72d6ee6eb3521586ceb45511721",
       "reason": "Replaces the broken sanctuary of the opening image with a large intact multi-storey castle across a different valley; the collapse view breaks location continuity."
+    },
+    {
+      "source": "stories/never-a-mascot/art/landscapes/02-white-chalk-east-road.png",
+      "sourceSha256": "a70e227983344faeae88a5449ce13a9579c76efc1116e6e04b6e54f228b0f662",
+      "reason": "The white-chalk road is inferred from grit in the rooster's armor, not visited in the narrated campaign scenes; it supplies an extra generic road."
     },
     {
       "source": "stories/no-need-to-worry/art/landscapes/01-the-lodge-at-dusk.png",
