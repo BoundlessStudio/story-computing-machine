@@ -2818,6 +2818,70 @@
       ]
     },
     {
+      "slug": "still-taking-runaways",
+      "title": "Still Taking Runaways",
+      "reader": "stories/still-taking-runaways.html",
+      "images": [
+        {
+          "id": "01-the-kitchen-window",
+          "title": "The kitchen window",
+          "alt": "The kitchen window — oil interior study for Still Taking Runaways",
+          "source": "stories/still-taking-runaways/art/interiors/01-the-kitchen-window.png",
+          "sourceSha256": "dfeb0554ad40cf111d6994bccb336bbe5d9159f5fbb14662e4c9339636fd4cfc",
+          "full": {
+            "path": "interiors/still-taking-runaways/01-the-kitchen-window-dfeb0554ad40cf11.webp",
+            "sha256": "3692a61f0ae3442b8cb8200293b9e75122088482d65b990db07d73a13b74f6b7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/still-taking-runaways/01-the-kitchen-window-dfeb0554ad40cf11-thumb.webp",
+            "sha256": "61056ff1d0a5be01dc90a74a5ebf90ab0859413cfeb693b8386f31f56e801d6c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-flour-after-the-flight",
+          "title": "Flour after the flight",
+          "alt": "Flour after the flight — oil interior study for Still Taking Runaways",
+          "source": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+          "sourceSha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+          "full": {
+            "path": "interiors/still-taking-runaways/02-flour-after-the-flight-2640d101b4d28422.webp",
+            "sha256": "579d8e30eac80c95b9eb9d4415628238497a7a62153a7f75d6ebd0ce01ad63ad",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/still-taking-runaways/02-flour-after-the-flight-2640d101b4d28422-thumb.webp",
+            "sha256": "fa5e65e22a28f9249236e69aec56971716f2b3fff5a932195640d57705d3c325",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-inside-the-ticket-wagon",
+          "title": "Inside the ticket wagon",
+          "alt": "Inside the ticket wagon — oil interior study for Still Taking Runaways",
+          "source": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+          "sourceSha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+          "full": {
+            "path": "interiors/still-taking-runaways/03-inside-the-ticket-wagon-ae86406029fa88a3.webp",
+            "sha256": "36f714e5054fd53a69f95eb93074107ee735a8224f93f24c75417c8651fa6efb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/still-taking-runaways/03-inside-the-ticket-wagon-ae86406029fa88a3-thumb.webp",
+            "sha256": "a80d0cfe3818a258fcab751521f5bd43f34873a2b7e9630cd08c0d49984cc6ab",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "storm-warning",
       "title": "Storm Warning",
       "reader": "stories/storm-warning.html",
@@ -3067,6 +3131,70 @@
           "thumbnail": {
             "path": "interiors/apes-in-orbit/03-defence-control-rail-a06f129352b8fafc-thumb.webp",
             "sha256": "32c995d82a7ca4988d9535161008d9c90530e763de8a074183fb1e3c8f28d927",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-astral-valkyrie",
+      "title": "The Astral Valkyrie",
+      "reader": "stories/the-astral-valkyrie.html",
+      "images": [
+        {
+          "id": "01-the-feast-hall-before",
+          "title": "The feast hall before",
+          "alt": "The feast hall before — oil interior study for The Astral Valkyrie",
+          "source": "stories/the-astral-valkyrie/art/interiors/01-the-feast-hall-before.png",
+          "sourceSha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+          "full": {
+            "path": "interiors/the-astral-valkyrie/01-the-feast-hall-before-faa542449d92d3d5.webp",
+            "sha256": "e5977828476868264175ebbda754f6b6804b3470fb934dca9307677a9bd08026",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-astral-valkyrie/01-the-feast-hall-before-faa542449d92d3d5-thumb.webp",
+            "sha256": "1dd921a5efea2c233e6b412c5847326e41aeca2eea0d53ccdf97115a45755f33",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-failing-feast-hall",
+          "title": "The failing feast hall",
+          "alt": "The failing feast hall — oil interior study for The Astral Valkyrie",
+          "source": "stories/the-astral-valkyrie/art/interiors/02-the-failing-feast-hall.png",
+          "sourceSha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+          "full": {
+            "path": "interiors/the-astral-valkyrie/02-the-failing-feast-hall-b3951fc3d15d8c0d.webp",
+            "sha256": "afaf5eca2792efe7d47a60fef881ae2e457dea63d1d5f0d39935972cb35944a0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-astral-valkyrie/02-the-failing-feast-hall-b3951fc3d15d8c0d-thumb.webp",
+            "sha256": "88ed6cc350b2805eb2b0bde89755f84d7acd07050237e6a7905104d9d86950c1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-historians-library",
+          "title": "The historians library",
+          "alt": "The historians library — oil interior study for The Astral Valkyrie",
+          "source": "stories/the-astral-valkyrie/art/interiors/03-the-historians-library.png",
+          "sourceSha256": "df708946ecd12c611bcb180eb748087cfc88034658e6905962bffad81f0a1f09",
+          "full": {
+            "path": "interiors/the-astral-valkyrie/03-the-historians-library-df708946ecd12c61.webp",
+            "sha256": "4b558a98d0433e80182beddd78caa18198c109811368087e6a414ba6cf623644",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-astral-valkyrie/03-the-historians-library-df708946ecd12c61-thumb.webp",
+            "sha256": "40dc32e3062bd1636aa62a3a9a4cb36975bf68b8e7540464affc911fd5a27fe6",
             "width": 480,
             "height": 320
           }
