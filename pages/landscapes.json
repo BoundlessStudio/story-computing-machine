@@ -225,63 +225,6 @@
       "reader": "stories/a-crown-in-the-bargain.html",
       "images": [
         {
-          "id": "01-lumespire-in-rain",
-          "title": "Lumespire in rain",
-          "alt": "Lumespire in rain — oil landscape for A Crown in the Bargain",
-          "source": "stories/a-crown-in-the-bargain/art/landscapes/01-lumespire-in-rain.png",
-          "sourceSha256": "088f212ad8bc9d2b59450cfe3dd259a27c3349292c5aea29810c669051ed6937",
-          "full": {
-            "path": "landscapes/a-crown-in-the-bargain/01-lumespire-in-rain.webp",
-            "sha256": "cef9d883c6d4e03bfc2903478fda8f6c88b1e691025ec31140c176682f581ca1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-in-the-bargain/01-lumespire-in-rain-thumb.webp",
-            "sha256": "f4772a8a300ce5974c7d1162fde7f8f88a356a91d9b0a50e6cb6ad2f4cf65286",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-east-post-road",
-          "title": "East post road",
-          "alt": "East post road — oil landscape for A Crown in the Bargain",
-          "source": "stories/a-crown-in-the-bargain/art/landscapes/02-east-post-road.png",
-          "sourceSha256": "633af6b63bc7aeb95e9a6a24442a5ad855c68378d4506740583c5b9512c16b99",
-          "full": {
-            "path": "landscapes/a-crown-in-the-bargain/02-east-post-road.webp",
-            "sha256": "90afc6e32bb1c3f5b4f1cab743ecce1da48c96ab3d030e9d061ca0d87bd6338a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-in-the-bargain/02-east-post-road-thumb.webp",
-            "sha256": "ab7a064d0bbd5cfe47699a2cb065271511848cecaad5ffc41f907a25e4af1f76",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-northern-farm-after-the-storm",
-          "title": "Northern farm after the storm",
-          "alt": "Northern farm after the storm — oil landscape for A Crown in the Bargain",
-          "source": "stories/a-crown-in-the-bargain/art/landscapes/03-northern-farm-after-the-storm.png",
-          "sourceSha256": "243e9920c235ec186dea199704edc6689785b9e87f3096ce66b0557c6452b90e",
-          "full": {
-            "path": "landscapes/a-crown-in-the-bargain/03-northern-farm-after-the-storm.webp",
-            "sha256": "7fac0bae02cf7b3d288b101642626f5b2e155f545b4afe598b472c8cffcf6a60",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-in-the-bargain/03-northern-farm-after-the-storm-thumb.webp",
-            "sha256": "e1cc5cee0efe7ae764d4dab75e07bc4601cd89b41bc58db1cdd995623b9c180b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-lantern-bridge-above-the-courts",
           "title": "Lantern bridge above the courts",
           "alt": "Lantern bridge above the courts — oil landscape for A Crown in the Bargain",
@@ -296,25 +239,6 @@
           "thumbnail": {
             "path": "landscapes/a-crown-in-the-bargain/04-lantern-bridge-above-the-courts-thumb.webp",
             "sha256": "d030730ff1e74cb46e636c2d8153cdc80d201929fa791938a8a8c558d21dd4b9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-solvane-village-green",
-          "title": "Solvane village green",
-          "alt": "Solvane village green — oil landscape for A Crown in the Bargain",
-          "source": "stories/a-crown-in-the-bargain/art/landscapes/05-solvane-village-green.png",
-          "sourceSha256": "317189d9e3afa2a1704f2a39d05737cdfd14de79bc5bfb7d5220c495aaa687a6",
-          "full": {
-            "path": "landscapes/a-crown-in-the-bargain/05-solvane-village-green.webp",
-            "sha256": "11751e768e890755eaf734e2dda0aed4dc574c410e6a1bfea63be67018d11d61",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-crown-in-the-bargain/05-solvane-village-green-thumb.webp",
-            "sha256": "43f786e4f93d27b0cb1e525bff3a7536aeadf0312cdb0625fbec5592e4a0f5ed",
             "width": 480,
             "height": 320
           }
@@ -19324,6 +19248,26 @@
       "source": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
       "sourceSha256": "d71ef729e62a53c4a36a2820e7cbcb2cd346257bf232155a8cd5277ed2781851",
       "reason": "The source explicitly gives the fire no visible floor or fuel. This painting supplies a visible molten river/floor and repeats the already represented gulf."
+    },
+    {
+      "source": "stories/a-crown-in-the-bargain/art/landscapes/01-lumespire-in-rain.png",
+      "sourceSha256": "088f212ad8bc9d2b59450cfe3dd259a27c3349292c5aea29810c669051ed6937",
+      "reason": "Adds an extensive waterfront city panorama not established in the story. The actual outdoor movement is the storm-exposed bridge between palace apartments and the succession spire, retained separately."
+    },
+    {
+      "source": "stories/a-crown-in-the-bargain/art/landscapes/02-east-post-road.png",
+      "sourceSha256": "633af6b63bc7aeb95e9a6a24442a5ad855c68378d4506740583c5b9512c16b99",
+      "reason": "The east post road is only a line in a weather report and a later thought; the story never visits this daylight countryside. It adds an unrelated excursion to a night palace negotiation."
+    },
+    {
+      "source": "stories/a-crown-in-the-bargain/art/landscapes/03-northern-farm-after-the-storm.png",
+      "sourceSha256": "243e9920c235ec186dea199704edc6689785b9e87f3096ce66b0557c6452b90e",
+      "reason": "The northern culvert is reported damaged while the characters remain at the palace; this daylight farm vista invents a separate scene and specific geography from the report."
+    },
+    {
+      "source": "stories/a-crown-in-the-bargain/art/landscapes/05-solvane-village-green.png",
+      "sourceSha256": "317189d9e3afa2a1704f2a39d05737cdfd14de79bc5bfb7d5220c495aaa687a6",
+      "reason": "Village greens occur only as land excluded from military cart rights in a contract. The painting turns a negotiated restriction into an invented pastoral destination."
     },
     {
       "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
