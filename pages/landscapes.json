@@ -5036,44 +5036,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-upper-mouth-to-the-town",
-          "title": "Upper mouth to the town",
-          "alt": "Upper mouth to the town — oil landscape for The Lion's Last Constellation",
-          "source": "stories/the-lions-last-constellation/art/landscapes/04-upper-mouth-to-the-town.png",
-          "sourceSha256": "06b9f4a0144b05f89c445bbfe1df352e30ac99e4c5c5d579badf7818b0141729",
-          "full": {
-            "path": "landscapes/the-lions-last-constellation/04-upper-mouth-to-the-town.webp",
-            "sha256": "0fe3f7f17088761a5ec0c6263f1831d10e54920d7696556b25bbd69d64e18972",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-lions-last-constellation/04-upper-mouth-to-the-town-thumb.webp",
-            "sha256": "0dd12097c99f790e81cef437c2e1e1e7447d216844fdd624dd8ded74f53add1c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-last-water-at-daybreak",
-          "title": "Last water at daybreak",
-          "alt": "Last water at daybreak — oil landscape for The Lion's Last Constellation",
-          "source": "stories/the-lions-last-constellation/art/landscapes/05-last-water-at-daybreak.png",
-          "sourceSha256": "6ddc72f9b801dfe9aee02fcb6f5fc84bf1400fe18632d19ac13b91f13163e119",
-          "full": {
-            "path": "landscapes/the-lions-last-constellation/05-last-water-at-daybreak.webp",
-            "sha256": "66ae90c9850cdfca79ba806dcfc3459a279d2ffb631860fbd0dcd62c93fbdd49",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-lions-last-constellation/05-last-water-at-daybreak-thumb.webp",
-            "sha256": "5aaf7240e8320ac06c20b1e7bd635386accd99e1303030f4465fe2c60ed1a2f1",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14828,6 +14790,16 @@
       "source": "stories/the-last-monster/art/landscapes/05-sunlight-clearing-the-hill.png",
       "sourceSha256": "41ea1a82536d67f4a92190c48ad4efcd84029fd2099b384882fbe53a7271cbf5",
       "reason": "A fifth hillside/exit view adds no distinct location and changes the drain into a low unbuilt rock opening."
+    },
+    {
+      "source": "stories/the-lions-last-constellation/art/landscapes/04-upper-mouth-to-the-town.png",
+      "sourceSha256": "06b9f4a0144b05f89c445bbfe1df352e30ac99e4c5c5d579badf7818b0141729",
+      "reason": "Shows a broad branching river winding through Nemea's valley, contradicting the failed spring and last thread of water confined to a channel no wider than a funeral board."
+    },
+    {
+      "source": "stories/the-lions-last-constellation/art/landscapes/05-last-water-at-daybreak.png",
+      "sourceSha256": "6ddc72f9b801dfe9aee02fcb6f5fc84bf1400fe18632d19ac13b91f13163e119",
+      "reason": "Adds an unestablished daybreak scene and a substantial cascading canal after the story ends with the injured pair leaving the cave at night; it also repeats the orchard/town setting."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
