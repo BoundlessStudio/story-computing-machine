@@ -306,6 +306,32 @@
             "prompt": "Use case: precise-object-edit. Create one corrected horizontal 1536x1024 oil landscape for 'A Crown for the Endless Fire'. Image 1 is the old image: retain its tactile impasto oil brushwork, black rock and orange-white furnace light, but REPLACE its incorrect monumental arched viaduct. The actual underground crossing is a short flat black stone footbridge, about thirty walking paces long and only two outstretched arms wide, entirely without rails. Exactly six parallel structural ribs run LENGTHWISE beneath the deck from sockets in the near rock wall to sockets in the opposite rock wall. All load is carried between those two walls. There are NO intermediate piers, NO downward pillars, NO arches and NO support reaching a floor. Compose an oblique near-abutment view showing the flat deck and the six rib ends under its near edge, with their parallel length extending to the opposite wall. The bridge reaches a small square opening in the far wall, with a closed iron shutter over a side shaft beside it. Beneath it is bottomless supernatural fire: moving folds of orange and white flame disappear into smoke and glare, with no visible fuel, lava surface, river, bottom or floor. Rock cavern enclosing everything; no outdoors, sky, sun or daylight. Make the thirty-pace span visually modest and believable, not a vast elevated road. Unpeopled setting study, no text, no labels, no watermark. Preserve the reference's strong painterly strokes and earthy volcanic palette.",
             "generator": "image_gen"
           }
+        },
+        {
+          "id": "05-furnace-depths-and-dim-light",
+          "title": "Furnace depths and dim light",
+          "alt": "Furnace depths and dim light — oil landscape for A Crown for the Endless Fire",
+          "source": "pages/landscape-replacements/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light.png",
+          "sourceSha256": "b4df539b8f703c946c47b71c0b32898b2d3250a349711f83351141014ba8473b",
+          "full": {
+            "path": "landscapes/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light-b4df539b8f703c94.webp",
+            "sha256": "81b17165101050c1f3f27ab83458d80bd75cc41954ded8dcfbbd463b256adeca",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light-b4df539b8f703c94-thumb.webp",
+            "sha256": "b171faa028c4243ced9bbf1ba7677baff5ea50a768aacbfefefeef3ed77930ce",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
+            "originalSha256": "d71ef729e62a53c4a36a2820e7cbcb2cd346257bf232155a8cd5277ed2781851",
+            "correction": "The source explicitly gives the fire no visible floor or fuel. This painting supplies a visible molten river/floor and repeats the already represented gulf.",
+            "prompt": "Use case: precise-object-edit. One corrected horizontal 1536x1024 oil-painted environment study for 'A Crown for the Endless Fire'. Image 1 is the old image and the exact impasto brushwork/color reference. Its visible lava river and terraced floor are WRONG. Replace that topography with a bottomless underground gulf of fire. The story explicitly describes no visible floor, no coal, timber or other fuel, no bottom and no wall closing beneath the observer: orange and white folds of flame move both near and far until smoke and glare erase all distance. Compose a close downward-looking view from a very narrow dark rock lip in one corner into that immeasurable moving depth. Keep dark cavern wall fragments along the sides, dissolving vertically into smoke; the center and lower field are layered suspended tongues and folds of flame with depth, not a flat molten surface. No liquid lava, riverbanks, terraces, horizontal ground plane, walkable islands, horizon, daylight or exterior sky. This image studies the depth and changing furnace light, distinct from a panorama of the bridge. Keep the old image's broad angular brushstrokes, thick oil texture, charcoal rock and glowing amber-white palette. No people, architecture, text, borders or watermark.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
