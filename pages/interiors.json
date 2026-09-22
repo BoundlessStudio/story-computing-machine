@@ -130,6 +130,134 @@
       ]
     },
     {
+      "slug": "a-crown-in-the-bargain",
+      "title": "A Crown in the Bargain",
+      "reader": "stories/a-crown-in-the-bargain.html",
+      "images": [
+        {
+          "id": "01-marriage-chamber",
+          "title": "Marriage chamber",
+          "alt": "Marriage chamber — oil interior study for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "sourceSha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "full": {
+            "path": "interiors/a-crown-in-the-bargain/01-marriage-chamber-07ce082c3a3338ac.webp",
+            "sha256": "400f3da7c9c629b418e00a3832eb6dc32f8929ad7aff91fb4d74ee87e780d8f9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-in-the-bargain/01-marriage-chamber-07ce082c3a3338ac-thumb.webp",
+            "sha256": "a4d21d60ad3fc86ad61889d4f18d2b42248898ff7df67f2eea30cd49fbc6785a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-rooftop-succession-room",
+          "title": "Rooftop succession room",
+          "alt": "Rooftop succession room — oil interior study for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/interiors/02-rooftop-succession-room.png",
+          "sourceSha256": "974bbf00c06bdeb9a3a472cf8ef3bc4fec266b2a8ba2c21fdfc7b463d893baf9",
+          "full": {
+            "path": "interiors/a-crown-in-the-bargain/02-rooftop-succession-room-974bbf00c06bdeb9.webp",
+            "sha256": "f19bf6b927912c4e607a58b537d4e042e83cd2e8082c79b451c72481ba9931aa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-in-the-bargain/02-rooftop-succession-room-974bbf00c06bdeb9-thumb.webp",
+            "sha256": "4d10b14516f80412a6a1b7c0da1ed87b3d0f167d9d69e194e80a41c19634f680",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-chamber-hearth",
+          "title": "Chamber hearth",
+          "alt": "Chamber hearth — oil interior study for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/interiors/03-chamber-hearth.png",
+          "sourceSha256": "2e6d3f6dffd1c15047b76915bd981971895e46e2e2054f0d01dd04ce1e4f55fd",
+          "full": {
+            "path": "interiors/a-crown-in-the-bargain/03-chamber-hearth-2e6d3f6dffd1c150.webp",
+            "sha256": "b20beb2350e1dd9736b627eb14dd72ab769644b4e2592c4ab320099319ffedff",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-crown-in-the-bargain/03-chamber-hearth-2e6d3f6dffd1c150-thumb.webp",
+            "sha256": "347536c8bc7accd62c501e63ec1af2a59c3d0c132dd0e15e8046ec79b11fe9f0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-curse-before-breakfast",
+      "title": "A Curse Before Breakfast",
+      "reader": "stories/a-curse-before-breakfast.html",
+      "images": [
+        {
+          "id": "01-philips-bedroom",
+          "title": "Philips bedroom",
+          "alt": "Philips bedroom — oil interior study for A Curse Before Breakfast",
+          "source": "stories/a-curse-before-breakfast/art/interiors/01-philips-bedroom.png",
+          "sourceSha256": "5e5f14a3ca30de335954f6c445f581421f721dbe91246378e5d23b020adb120a",
+          "full": {
+            "path": "interiors/a-curse-before-breakfast/01-philips-bedroom-5e5f14a3ca30de33.webp",
+            "sha256": "80dbb3ec58dd61f30f18652027ab41cb2bbe37f157b0c45a6e2af1fbd28b8bc1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-curse-before-breakfast/01-philips-bedroom-5e5f14a3ca30de33-thumb.webp",
+            "sha256": "0f3265e08d80809ccbdb0201bcca652aad8f487b67c7077335f4e303bcfdcdd2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-quilt-on-the-sofa",
+          "title": "Quilt on the sofa",
+          "alt": "Quilt on the sofa — oil interior study for A Curse Before Breakfast",
+          "source": "stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+          "sourceSha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4",
+          "full": {
+            "path": "interiors/a-curse-before-breakfast/02-quilt-on-the-sofa-61e51c84d1e72a09.webp",
+            "sha256": "6846392e4f8b5552844f0f7638228073d3bcccdcae8535dbb8ba3fab2bbe992d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-curse-before-breakfast/02-quilt-on-the-sofa-61e51c84d1e72a09-thumb.webp",
+            "sha256": "a01f0db2d865a5f29be5b873b41019b0be030e26390e51cf3691fa6dae10332d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-breakfast-kitchen",
+          "title": "Breakfast kitchen",
+          "alt": "Breakfast kitchen — oil interior study for A Curse Before Breakfast",
+          "source": "stories/a-curse-before-breakfast/art/interiors/03-breakfast-kitchen.png",
+          "sourceSha256": "380719be102886082b3e4dd2247e2cc0a7af6d7b91d4819119e35d28d60f01f2",
+          "full": {
+            "path": "interiors/a-curse-before-breakfast/03-breakfast-kitchen-380719be10288608.webp",
+            "sha256": "11d6280b48fe9d852b60e31649361b60b6b687a805fe573eae7c19e2adf09675",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-curse-before-breakfast/03-breakfast-kitchen-380719be10288608-thumb.webp",
+            "sha256": "d56de1d85c3bd1ddb99f8a8c7d92dc56fe8e9d684d9ec083aace30f499aa0373",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-little-more-room",
       "title": "A Little More Room",
       "reader": "stories/a-little-more-room.html",
