@@ -7669,25 +7669,6 @@
           }
         },
         {
-          "id": "02-the-western-cypress",
-          "title": "The western cypress",
-          "alt": "The western cypress — oil landscape for The Walls Are Thick Enough",
-          "source": "stories/the-walls-are-thick-enough/art/landscapes/02-the-western-cypress.png",
-          "sourceSha256": "6b5534cb3c60e65436f843e819edfbac7b8d4a92fc2be16bb33d63e2302e1f8b",
-          "full": {
-            "path": "landscapes/the-walls-are-thick-enough/02-the-western-cypress.webp",
-            "sha256": "9ebd9a0780680736d466a85d4278057cc8af40b64de1a4fa5f60843f3cae1255",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-walls-are-thick-enough/02-the-western-cypress-thumb.webp",
-            "sha256": "b490aeddd7b3efccdb90211835783252ecff3a9b25b92257a51d536f56a941e9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-diplomatic-court-in-blue",
           "title": "The diplomatic court in blue",
           "alt": "The diplomatic court in blue — oil landscape for The Walls Are Thick Enough",
@@ -7702,44 +7683,6 @@
           "thumbnail": {
             "path": "landscapes/the-walls-are-thick-enough/03-the-diplomatic-court-in-blue-thumb.webp",
             "sha256": "5af71a6c7aa845ae1ecebe5ea66b5e6483ff80b133287602bc57bec5472b395d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-ford-road-after-midnight",
-          "title": "The ford road after midnight",
-          "alt": "The ford road after midnight — oil landscape for The Walls Are Thick Enough",
-          "source": "stories/the-walls-are-thick-enough/art/landscapes/04-the-ford-road-after-midnight.png",
-          "sourceSha256": "3936ca4f6d4eb0477733bfeaab738a78043a4268387837ff7acc4e3622eb6ac7",
-          "full": {
-            "path": "landscapes/the-walls-are-thick-enough/04-the-ford-road-after-midnight.webp",
-            "sha256": "9fbcb4a77c0efee1d371e784be2e08cf404a7193cc7d8cd8943e1309e6857e9c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-walls-are-thick-enough/04-the-ford-road-after-midnight-thumb.webp",
-            "sha256": "1bee1ed0c5d55eaed874246bcaea2c00246f60c9c864d21254e3b70d12df717c",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-at-the-north-wing",
-          "title": "Dawn at the north wing",
-          "alt": "Dawn at the north wing — oil landscape for The Walls Are Thick Enough",
-          "source": "stories/the-walls-are-thick-enough/art/landscapes/05-dawn-at-the-north-wing.png",
-          "sourceSha256": "c8b37822944128c7eb47aa42408b2d5c6457632f856f8fb18e7817ceb7ef35c0",
-          "full": {
-            "path": "landscapes/the-walls-are-thick-enough/05-dawn-at-the-north-wing.webp",
-            "sha256": "8b45e4b6720f3db40410732c229675b0fbdacdeadd59e2f80488851960b19b1b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-walls-are-thick-enough/05-dawn-at-the-north-wing-thumb.webp",
-            "sha256": "39728a0da69de22e0e31dafa11e98699b6f3c5ed2c6d3e5a8e7c0de1c3e129a5",
             "width": 480,
             "height": 320
           }
@@ -12955,6 +12898,21 @@
       "source": "stories/the-vacant-throne/art/landscapes/04-last-light-on-the-western-wall.png",
       "sourceSha256": "8b60f5d98c776a1a7112a733cf0e0cd494b71031189117342db32118ce117ff5",
       "reason": "Sunlight reaches the western wall during the indoor succession ritual. An outside fortress-wall panorama moves that interior light cue into an invented scene."
+    },
+    {
+      "source": "stories/the-walls-are-thick-enough/art/landscapes/02-the-western-cypress.png",
+      "sourceSha256": "6b5534cb3c60e65436f843e819edfbac7b8d4a92fc2be16bb33d63e2302e1f8b",
+      "reason": "Repeats the same sunset garden with a closer cypress composition; the retained garden already establishes its constrained paths, trained pears and screens."
+    },
+    {
+      "source": "stories/the-walls-are-thick-enough/art/landscapes/04-the-ford-road-after-midnight.png",
+      "sourceSha256": "3936ca4f6d4eb0477733bfeaab738a78043a4268387837ff7acc4e3622eb6ac7",
+      "reason": "The ford road is a warning to Jaseth about flooding after midnight. No scene follows him there."
+    },
+    {
+      "source": "stories/the-walls-are-thick-enough/art/landscapes/05-dawn-at-the-north-wing.png",
+      "sourceSha256": "c8b37822944128c7eb47aa42408b2d5c6457632f856f8fb18e7817ceb7ef35c0",
+      "reason": "The dawn confrontation occurs in the outer chamber. This exterior north-wing landscape changes the indoor setting into an outdoor one."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
