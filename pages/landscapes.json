@@ -5872,108 +5872,6 @@
       ]
     },
     {
-      "slug": "the-peace-they-could-sleep-through",
-      "title": "The Peace They Could Sleep Through",
-      "reader": "stories/the-peace-they-could-sleep-through.html",
-      "images": [
-        {
-          "id": "01-terrace-districts",
-          "title": "Terrace districts",
-          "alt": "Terrace districts — oil landscape for The Peace They Could Sleep Through",
-          "source": "stories/the-peace-they-could-sleep-through/art/landscapes/01-terrace-districts.png",
-          "sourceSha256": "a57299295a0d60de46b95f97353576b1b07f0c2b95543a93f870a92a7b302cb9",
-          "full": {
-            "path": "landscapes/the-peace-they-could-sleep-through/01-terrace-districts.webp",
-            "sha256": "f93bf402b66a8318a881efac92bbb49db661ed4640720e88f45d2416657e6870",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-peace-they-could-sleep-through/01-terrace-districts-thumb.webp",
-            "sha256": "38a0d9d8c05a846691e5a34c84a557840eb11a4a23644e9185ba6146f30ec229",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-road-to-the-storehouses",
-          "title": "Road to the storehouses",
-          "alt": "Road to the storehouses — oil landscape for The Peace They Could Sleep Through",
-          "source": "stories/the-peace-they-could-sleep-through/art/landscapes/02-road-to-the-storehouses.png",
-          "sourceSha256": "d7eb9096c8e981c853c1d3280816f7384cd253d199a9b509b19e218ebc8e3817",
-          "full": {
-            "path": "landscapes/the-peace-they-could-sleep-through/02-road-to-the-storehouses.webp",
-            "sha256": "71a4d10070cbb12bb212fb0ce47116d541f4d1160380d2c437422ae3be2337e7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-peace-they-could-sleep-through/02-road-to-the-storehouses-thumb.webp",
-            "sha256": "35df0ccd7fada58634feab30a4264ba454fc3f14b4104c6dd01815690491fdfa",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-open-city-depots",
-          "title": "The open city depots",
-          "alt": "The open city depots — oil landscape for The Peace They Could Sleep Through",
-          "source": "stories/the-peace-they-could-sleep-through/art/landscapes/03-the-open-city-depots.png",
-          "sourceSha256": "610d267a4d3862450b54b8415477010958666969cf85984d15925f8e4226ad7f",
-          "full": {
-            "path": "landscapes/the-peace-they-could-sleep-through/03-the-open-city-depots.webp",
-            "sha256": "7dae7652b85f665bd669f705097d32bc2b5372ebd7c26e518d24697f6416c287",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-peace-they-could-sleep-through/03-the-open-city-depots-thumb.webp",
-            "sha256": "f64a6ad60ba68903c1543e67b0422f0dde64e1475abd21eea4d7ea815123239a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-hall-of-petitions-exterior",
-          "title": "Hall of petitions exterior",
-          "alt": "Hall of petitions exterior — oil landscape for The Peace They Could Sleep Through",
-          "source": "stories/the-peace-they-could-sleep-through/art/landscapes/04-hall-of-petitions-exterior.png",
-          "sourceSha256": "d5f56bcb6d25d399fa372f891826f880d0e9485ed655792f595a76f5f454c1fd",
-          "full": {
-            "path": "landscapes/the-peace-they-could-sleep-through/04-hall-of-petitions-exterior.webp",
-            "sha256": "e69176726fc797068b8423cf4b9f64324fe8589b529e0fc0948f3407d30dcb55",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-peace-they-could-sleep-through/04-hall-of-petitions-exterior-thumb.webp",
-            "sha256": "2c687af6eb8688b72da7af253cc9170503f6971cfc524a31a1db16f18c4de09a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-beyond-the-inhabited-road",
-          "title": "Beyond the inhabited road",
-          "alt": "Beyond the inhabited road — oil landscape for The Peace They Could Sleep Through",
-          "source": "stories/the-peace-they-could-sleep-through/art/landscapes/05-beyond-the-inhabited-road.png",
-          "sourceSha256": "0d62526c40e2827d5bc8cb186eee0ca17bbe1ddee9c8b6c864d79ee07ce58c2e",
-          "full": {
-            "path": "landscapes/the-peace-they-could-sleep-through/05-beyond-the-inhabited-road.webp",
-            "sha256": "a1e8d618d7acdd31e9d5a79abe95c59840706d53326d5635d9755df8775b2bcc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-peace-they-could-sleep-through/05-beyond-the-inhabited-road-thumb.webp",
-            "sha256": "add9c425c01a31da9fb32474ff54cf7ae540550dd6529aa027e48623829c62a7",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-place-we-keep",
       "title": "The Place We Keep",
       "reader": "stories/the-place-we-keep.html",
@@ -14282,6 +14180,31 @@
       "source": "stories/the-other-twin/art/landscapes/05-february-road-to-school.png",
       "sourceSha256": "067d4a93c2dad52caf1edbf012176a9cead75ca55e7e83fd484a3b73572a4166",
       "reason": "The February ending occurs at the bathroom sink and ends as they leave; this snowy panoramic school route is not an enacted view and repeats the earlier walk."
+    },
+    {
+      "source": "stories/the-peace-they-could-sleep-through/art/landscapes/01-terrace-districts.png",
+      "sourceSha256": "a57299295a0d60de46b95f97353576b1b07f0c2b95543a93f870a92a7b302cb9",
+      "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
+    },
+    {
+      "source": "stories/the-peace-they-could-sleep-through/art/landscapes/02-road-to-the-storehouses.png",
+      "sourceSha256": "d7eb9096c8e981c853c1d3280816f7384cd253d199a9b509b19e218ebc8e3817",
+      "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
+    },
+    {
+      "source": "stories/the-peace-they-could-sleep-through/art/landscapes/03-the-open-city-depots.png",
+      "sourceSha256": "610d267a4d3862450b54b8415477010958666969cf85984d15925f8e4226ad7f",
+      "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
+    },
+    {
+      "source": "stories/the-peace-they-could-sleep-through/art/landscapes/04-hall-of-petitions-exterior.png",
+      "sourceSha256": "d5f56bcb6d25d399fa372f891826f880d0e9485ed655792f595a76f5f454c1fd",
+      "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
+    },
+    {
+      "source": "stories/the-peace-they-could-sleep-through/art/landscapes/05-beyond-the-inhabited-road.png",
+      "sourceSha256": "0d62526c40e2827d5bc8cb186eee0ca17bbe1ddee9c8b6c864d79ee07ce58c2e",
+      "reason": "The story's enacted settings are indoors. These terrace, storehouse, depot, hall-exterior and refuge-road views promote reported or background locations into outdoor scenes; the dragons' distant sleep is reported, not a journey followed in the prose."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
