@@ -1981,6 +1981,32 @@
       ]
     },
     {
+      "slug": "clerics-infernal-ex",
+      "title": "Hello, Lover",
+      "reader": "stories/clerics-infernal-ex.html",
+      "images": [
+        {
+          "id": "05-the-ford-after-rain",
+          "title": "The ford after rain",
+          "alt": "The ford after rain — oil landscape for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/landscapes/05-the-ford-after-rain.png",
+          "sourceSha256": "fba864a0587a750a37a60e9b07d77c9fa6d6bd854ca6f08551febb4ee2b5ddc7",
+          "full": {
+            "path": "landscapes/clerics-infernal-ex/05-the-ford-after-rain.webp",
+            "sha256": "ae4aeaec1f184f1d54ee2024a0c8a6aea402505c3f90f73c45fc0d12ddae4b50",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/clerics-infernal-ex/05-the-ford-after-rain-thumb.webp",
+            "sha256": "acde80db15b7126adae95778baa30ac0a876bb4ee467ee21719dff0af94ce82b",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "late-for-dinner",
       "title": "Late for Dinner",
       "reader": "stories/late-for-dinner.html",
@@ -10483,11 +10509,6 @@
       "source": "stories/clerics-infernal-ex/art/landscapes/04-cool-morning-at-the-shelter.png",
       "sourceSha256": "d88df0624602abd8d046137a7d4acccbe807a72d9b7c6cba05b1242ff59d4a74",
       "reason": "The ending admits cool air over the sanctuary sill; it does not relocate to a hillside overlooking a valley."
-    },
-    {
-      "source": "stories/clerics-infernal-ex/art/landscapes/05-the-ford-after-rain.png",
-      "sourceSha256": "fba864a0587a750a37a60e9b07d77c9fa6d6bd854ca6f08551febb4ee2b5ddc7",
-      "reason": "Repeats the offstage ford and invents a post-rain landscape scene."
     },
     {
       "source": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
