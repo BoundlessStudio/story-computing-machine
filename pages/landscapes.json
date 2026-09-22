@@ -3798,108 +3798,6 @@
       ]
     },
     {
-      "slug": "the-first-wound",
-      "title": "The First Wound",
-      "reader": "stories/the-first-wound.html",
-      "images": [
-        {
-          "id": "01-rain-over-the-river",
-          "title": "Rain over the river",
-          "alt": "Rain over the river — oil landscape for The First Wound",
-          "source": "stories/the-first-wound/art/landscapes/01-rain-over-the-river.png",
-          "sourceSha256": "1355ed2978210641de4a210de419659825df078c0c3c84dad651bcdedef22f74",
-          "full": {
-            "path": "landscapes/the-first-wound/01-rain-over-the-river.webp",
-            "sha256": "e92ed993fb2f4ccbc587d67f85438d873fd8d93063d2a931f6374545e58af53e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-wound/01-rain-over-the-river-thumb.webp",
-            "sha256": "f307da996a5bfe1b91ccd61a966889ebbca534aa8c75bffa2f52f36d78c83940",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-flooded-factory-margin",
-          "title": "The flooded factory margin",
-          "alt": "The flooded factory margin — oil landscape for The First Wound",
-          "source": "stories/the-first-wound/art/landscapes/02-the-flooded-factory-margin.png",
-          "sourceSha256": "fb2f6990843aa2d8a9378f9a1cd7e48badad2b1392a7f0cec0bc02556758242f",
-          "full": {
-            "path": "landscapes/the-first-wound/02-the-flooded-factory-margin.webp",
-            "sha256": "a19c9c676f93e8ffef5acd1f06769ba9014b2f5d835d039791d30bd062d4631c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-wound/02-the-flooded-factory-margin-thumb.webp",
-            "sha256": "6926f33c8cf7b7c7f15cf7d922eafcf92621ee934dc25c5c2058efdf7495cf90",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-smoke-around-the-stone-refuge",
-          "title": "Smoke around the stone refuge",
-          "alt": "Smoke around the stone refuge — oil landscape for The First Wound",
-          "source": "stories/the-first-wound/art/landscapes/03-smoke-around-the-stone-refuge.png",
-          "sourceSha256": "dbd100ed247362684d1c193f9275270dec8fbf7ff69cd17ac3dbe33434b2144a",
-          "full": {
-            "path": "landscapes/the-first-wound/03-smoke-around-the-stone-refuge.webp",
-            "sha256": "080d1d7d0f2b9e46840d15790df89bf8abab0f0204192303ad4d86381b374a15",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-wound/03-smoke-around-the-stone-refuge-thumb.webp",
-            "sha256": "f51934a6b98d5eb258da55310ebe47b88cb6fd9670a17efb3aebef4f1ebce866",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-winter-wind-at-the-old-gate",
-          "title": "Winter wind at the old gate",
-          "alt": "Winter wind at the old gate — oil landscape for The First Wound",
-          "source": "stories/the-first-wound/art/landscapes/04-winter-wind-at-the-old-gate.png",
-          "sourceSha256": "3ead5121f931e376ee00770692b1a14be6fe34ff4fc6deef5f0308e45e2bca52",
-          "full": {
-            "path": "landscapes/the-first-wound/04-winter-wind-at-the-old-gate.webp",
-            "sha256": "0669fd6c1c9c081f9053fe6380747d7430c9444cc658ec2834640c48dec1a9e6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-wound/04-winter-wind-at-the-old-gate-thumb.webp",
-            "sha256": "e08550c3c8f86e9c096a96f68e57cb31722a94d6a53687a36782a5e54f4d7b35",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dark-mountain-of-memory",
-          "title": "Dark mountain of memory",
-          "alt": "Dark mountain of memory — oil landscape for The First Wound",
-          "source": "stories/the-first-wound/art/landscapes/05-dark-mountain-of-memory.png",
-          "sourceSha256": "5e53d2030fe4aeea9bcb790dea0cdd1afdf159f348e42ac756f57337c2982358",
-          "full": {
-            "path": "landscapes/the-first-wound/05-dark-mountain-of-memory.webp",
-            "sha256": "c40147a04f9f85c57cadfc8bc545bb4ecdd97225023036d27371596cfb67200e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-wound/05-dark-mountain-of-memory-thumb.webp",
-            "sha256": "c9691b5fb374c1dd4b924d8755fafbc7eeb0a38be773503561effd2dd6d456bc",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-five-minute-warranty",
       "title": "The Five-Minute Warranty",
       "reader": "stories/the-five-minute-warranty.html",
@@ -15763,6 +15661,31 @@
       "source": "stories/the-first-winter/art/landscapes/02-broken-mountain-pass.png",
       "sourceSha256": "0affb0a958bc90cd24863fadb595e081388218347c5293139309a45644607b69",
       "reason": "Leaves ropes spanning between both cliffs after the footbridge was cut and swung against one cliff with both people on it; also adds an unvisited current view of a crossing described in backstory."
+    },
+    {
+      "source": "stories/the-first-wound/art/landscapes/01-rain-over-the-river.png",
+      "sourceSha256": "1355ed2978210641de4a210de419659825df078c0c3c84dad651bcdedef22f74",
+      "reason": "Moves the remembered tram from beneath the river to a riverbank panorama."
+    },
+    {
+      "source": "stories/the-first-wound/art/landscapes/02-the-flooded-factory-margin.png",
+      "sourceSha256": "fb2f6990843aa2d8a9378f9a1cd7e48badad2b1392a7f0cec0bc02556758242f",
+      "reason": "Moves a flooded factory corridor and gate-wheel rescue outside into a broad river landscape."
+    },
+    {
+      "source": "stories/the-first-wound/art/landscapes/03-smoke-around-the-stone-refuge.png",
+      "sourceSha256": "dbd100ed247362684d1c193f9275270dec8fbf7ff69cd17ac3dbe33434b2144a",
+      "reason": "Moves the refuge memory from beneath a low smoky ceiling to an invented mountaintop shelter."
+    },
+    {
+      "source": "stories/the-first-wound/art/landscapes/04-winter-wind-at-the-old-gate.png",
+      "sourceSha256": "3ead5121f931e376ee00770692b1a14be6fe34ff4fc6deef5f0308e45e2bca52",
+      "reason": "Expands a fleeting hand-on-gate memory into an unsupported snowy panorama."
+    },
+    {
+      "source": "stories/the-first-wound/art/landscapes/05-dark-mountain-of-memory.png",
+      "sourceSha256": "5e53d2030fe4aeea9bcb790dea0cdd1afdf159f348e42ac756f57337c2982358",
+      "reason": "Moves the decisive memory outside the mountain even though the prose expressly confines it to a corridor cut through dark rock."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
