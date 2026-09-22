@@ -5314,6 +5314,134 @@
       ]
     },
     {
+      "slug": "the-last-monster",
+      "title": "The Last Monster",
+      "reader": "stories/the-last-monster.html",
+      "images": [
+        {
+          "id": "01-the-cistern-chamber",
+          "title": "The cistern chamber",
+          "alt": "The cistern chamber — oil interior study for The Last Monster",
+          "source": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+          "sourceSha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987",
+          "full": {
+            "path": "interiors/the-last-monster/01-the-cistern-chamber-35b9a86f0724217b.webp",
+            "sha256": "77cb4d0d6844b1862be0ba0446e3151365c2c2448e6bd31f4bad55167cfc3c09",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-monster/01-the-cistern-chamber-35b9a86f0724217b-thumb.webp",
+            "sha256": "adfa71b4d464c972f753b71c5429b886a80d9742e6efaffc4d2443313ed962a8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-steep-spillway",
+          "title": "The steep spillway",
+          "alt": "The steep spillway — oil interior study for The Last Monster",
+          "source": "stories/the-last-monster/art/interiors/02-the-steep-spillway.png",
+          "sourceSha256": "ff9866cc64142935f58d227fbbc39f288afa739199749c70a8f8917cb9ca62dc",
+          "full": {
+            "path": "interiors/the-last-monster/02-the-steep-spillway-ff9866cc64142935.webp",
+            "sha256": "c8920bd5ca93c43797fb471018458a6c709d7768162a51c8819abc3299c6a91f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-monster/02-the-steep-spillway-ff9866cc64142935-thumb.webp",
+            "sha256": "82e4666054b3064c45790d6929fcd127b5a48da264cc9c5b022e30bf450f0ef9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-root-bound-shaft",
+          "title": "The root bound shaft",
+          "alt": "The root bound shaft — oil interior study for The Last Monster",
+          "source": "stories/the-last-monster/art/interiors/03-the-root-bound-shaft.png",
+          "sourceSha256": "34d420adf84424ed1db70c50361081d5fb0af792fa1fc71210484592efe7322e",
+          "full": {
+            "path": "interiors/the-last-monster/03-the-root-bound-shaft-34d420adf84424ed.webp",
+            "sha256": "ad394f0996ef83ebe315e3218054889be6a0499b5c2f921111f4f299be9ba5fe",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-monster/03-the-root-bound-shaft-34d420adf84424ed-thumb.webp",
+            "sha256": "3fa82afefd88a12d0654bc45622127abb2543497466efb7d93bfeee4d3ad896d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-last-thing-i-could-fix",
+      "title": "The Last Thing I Could Fix",
+      "reader": "stories/the-last-thing-i-could-fix.html",
+      "images": [
+        {
+          "id": "01-hadriks-forge-in-the-rain",
+          "title": "Hadriks forge in the rain",
+          "alt": "Hadriks forge in the rain — oil interior study for The Last Thing I Could Fix",
+          "source": "stories/the-last-thing-i-could-fix/art/interiors/01-hadriks-forge-in-the-rain.png",
+          "sourceSha256": "1a455f753e7704473a9d0e64970935813ff4f196f8940c651d97c39222ea6b8a",
+          "full": {
+            "path": "interiors/the-last-thing-i-could-fix/01-hadriks-forge-in-the-rain-1a455f753e770447.webp",
+            "sha256": "fc7165cd1ac0b79995943e7d8070b5ceb1142ebbef758646fe4d6a5237425886",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-thing-i-could-fix/01-hadriks-forge-in-the-rain-1a455f753e770447-thumb.webp",
+            "sha256": "09dc469321926d74d25bd9acbe3aa9835306cfe67b6b1b446101da4918d72596",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-padded-test-pendulum",
+          "title": "The padded test pendulum",
+          "alt": "The padded test pendulum — oil interior study for The Last Thing I Could Fix",
+          "source": "stories/the-last-thing-i-could-fix/art/interiors/02-the-padded-test-pendulum.png",
+          "sourceSha256": "9d40a3af97f3f5a182a9d04298491de4ab49cffd20b96ae6f77c127149e727d1",
+          "full": {
+            "path": "interiors/the-last-thing-i-could-fix/02-the-padded-test-pendulum-9d40a3af97f3f5a1.webp",
+            "sha256": "f7d7a18121221f0d8c0cdb38acd6a04cd827f77cce73676b4e088a5efd2601b1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-thing-i-could-fix/02-the-padded-test-pendulum-9d40a3af97f3f5a1-thumb.webp",
+            "sha256": "17f19c1659d49b751703a2d1946eda99b628f30670d41486c230eacc25aa3839",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-spent-harness-on-the-bench",
+          "title": "The spent harness on the bench",
+          "alt": "The spent harness on the bench — oil interior study for The Last Thing I Could Fix",
+          "source": "stories/the-last-thing-i-could-fix/art/interiors/03-the-spent-harness-on-the-bench.png",
+          "sourceSha256": "f99e1b8552767185f19a896e054aa247b5e6beb61d6980cf828cb37d21fab835",
+          "full": {
+            "path": "interiors/the-last-thing-i-could-fix/03-the-spent-harness-on-the-bench-f99e1b8552767185.webp",
+            "sha256": "d18341922685ba15e829623e66b81fc3c1a7f56f4a2b422e2380bb176f8d56bf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-thing-i-could-fix/03-the-spent-harness-on-the-bench-f99e1b8552767185-thumb.webp",
+            "sha256": "0ca69f0a6017ca20f4190b29a8922a77232adb573979e7c295eadb9c6b247283",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "last-watcher-of-jupiter",
       "title": "The Last Watcher of Jupiter",
       "reader": "stories/last-watcher-of-jupiter.html",
