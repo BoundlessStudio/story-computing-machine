@@ -7157,25 +7157,6 @@
           }
         },
         {
-          "id": "03-the-washed-south-pass",
-          "title": "The washed south pass",
-          "alt": "The washed south pass — oil landscape for The Unfinished Sunset",
-          "source": "stories/the-unfinished-sunset/art/landscapes/03-the-washed-south-pass.png",
-          "sourceSha256": "7f698aea0a33c68b12175829281fe6bfcb70cbea04bb9d812220ac25b38423f8",
-          "full": {
-            "path": "landscapes/the-unfinished-sunset/03-the-washed-south-pass.webp",
-            "sha256": "5a8250e6d6882b2a1aaef605da847ae589777da852b47b0ccc31bfc62854754d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unfinished-sunset/03-the-washed-south-pass-thumb.webp",
-            "sha256": "64a1aba2cb36c56de758f2d09453d83fc449cb584baed0656f77565bbf2f34a5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-light-from-the-opening-vanes",
           "title": "Light from the opening vanes",
           "alt": "Light from the opening vanes — oil landscape for The Unfinished Sunset",
@@ -7190,25 +7171,6 @@
           "thumbnail": {
             "path": "landscapes/the-unfinished-sunset/04-light-from-the-opening-vanes-thumb.webp",
             "sha256": "b25a779991f40b306138439f468c1787c8e237de8a850057b3653cb64814f575",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-night-beyond-the-ditch",
-          "title": "Night beyond the ditch",
-          "alt": "Night beyond the ditch — oil landscape for The Unfinished Sunset",
-          "source": "stories/the-unfinished-sunset/art/landscapes/05-night-beyond-the-ditch.png",
-          "sourceSha256": "1eb0406aa29e83f4e4e65eb6ce9a8474d84959bbc766791425e0e24a89c279b3",
-          "full": {
-            "path": "landscapes/the-unfinished-sunset/05-night-beyond-the-ditch.webp",
-            "sha256": "d0a161ba94a4bf5c3a74cc56b1cfbfeb17846693686c28333d1b0a2aeb6daecb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unfinished-sunset/05-night-beyond-the-ditch-thumb.webp",
-            "sha256": "3bc883c5889a4b4af63a9c77166aca97174c23c9b26424719c22be73602b0961",
             "width": 480,
             "height": 320
           }
@@ -13180,6 +13142,16 @@
       "source": "stories/the-trouble-with-tuesdays/art/landscapes/05-sunday-morning-before-the-call.png",
       "sourceSha256": "be7ea5457e06219782b60d2d7b1e1771ae6baa26ee40cc9dd37774f41af0f3f9",
       "reason": "The Sunday death happens while carrying groceries into the flat, and Rose awakens in Sunday light indoors. This empty outdoor street is not either scene."
+    },
+    {
+      "source": "stories/the-unfinished-sunset/art/landscapes/03-the-washed-south-pass.png",
+      "sourceSha256": "7f698aea0a33c68b12175829281fe6bfcb70cbea04bb9d812220ac25b38423f8",
+      "reason": "The washed-out south pass and missing east-field bridge are road facts Arveth reports, not a scene the narrative visits; the painting combines them into an invented separate landscape."
+    },
+    {
+      "source": "stories/the-unfinished-sunset/art/landscapes/05-night-beyond-the-ditch.png",
+      "sourceSha256": "1eb0406aa29e83f4e4e65eb6ce9a8474d84959bbc766791425e0e24a89c279b3",
+      "reason": "The boundary is a dry ditch that characters step across, with Neth walking six paces beyond it. The painting makes it a deep, steep-sided rock ravine that cannot serve that geography."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
