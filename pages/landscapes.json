@@ -6081,6 +6081,32 @@
       ]
     },
     {
+      "slug": "the-foundations-remember",
+      "title": "The Memory Under Line Zero",
+      "reader": "stories/the-foundations-remember.html",
+      "images": [
+        {
+          "id": "02-rain-above-line-zero",
+          "title": "Rain above line zero",
+          "alt": "Rain above line zero — oil landscape for The Memory Under Line Zero",
+          "source": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+          "sourceSha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+          "full": {
+            "path": "landscapes/the-foundations-remember/02-rain-above-line-zero.webp",
+            "sha256": "d88f70e8fd51726c4a7c332b3a09a5b5ace06e05eb4faa036afca61785ac6014",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-foundations-remember/02-rain-above-line-zero-thumb.webp",
+            "sha256": "588ba8e5ba55132372958939a5510064058227382fb1dd205c130d296ecbd2ab",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-mercy-circuit",
       "title": "The Mercy Circuit",
       "reader": "stories/the-mercy-circuit.html",
@@ -11916,11 +11942,6 @@
     {
       "source": "stories/the-foundations-remember/art/landscapes/01-sun-on-the-upper-tiers.png",
       "sourceSha256": "9f7d3d3cdb9b1753b8e856ae19a8f402b09f724594b2b87ab7ef86d5cb2285da",
-      "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
-    },
-    {
-      "source": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
-      "sourceSha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
       "reason": "Invents outdoor city and water landscapes for a story enacted in a memory booth and underground Line Zero. Sun and ferry sensations are listed assets, while the old masonry is beneath pylons in the dark, not an exposed coastal facade."
     },
     {
