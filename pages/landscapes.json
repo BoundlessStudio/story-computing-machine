@@ -5493,25 +5493,6 @@
           }
         },
         {
-          "id": "03-blackthorn-and-village-roofs",
-          "title": "Blackthorn and village roofs",
-          "alt": "Blackthorn and village roofs — oil landscape for The Ninety-Year Barrier",
-          "source": "stories/the-ninety-year-barrier/art/landscapes/03-blackthorn-and-village-roofs.png",
-          "sourceSha256": "b560fceeacee5a5c63fd4b9ebdb18e92e27349f5cbe5273848de69013ae30c30",
-          "full": {
-            "path": "landscapes/the-ninety-year-barrier/03-blackthorn-and-village-roofs.webp",
-            "sha256": "b6df31d2811af9aa1939cd7812b9efe113877f090067f14a28acf8fc54abdba2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ninety-year-barrier/03-blackthorn-and-village-roofs-thumb.webp",
-            "sha256": "4671854230c9dac73da0e5cc003c99d34f2e8774e46ca3d862f86a2700d9a26a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-willow-bank-in-rain",
           "title": "Willow bank in rain",
           "alt": "Willow bank in rain — oil landscape for The Ninety-Year Barrier",
@@ -5526,25 +5507,6 @@
           "thumbnail": {
             "path": "landscapes/the-ninety-year-barrier/04-willow-bank-in-rain-thumb.webp",
             "sha256": "531dc556771a6c974ba236ca482b731cbf9205751ceafe09a1776b7a12471ef4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-wet-roofs-toward-home",
-          "title": "Wet roofs toward home",
-          "alt": "Wet roofs toward home — oil landscape for The Ninety-Year Barrier",
-          "source": "stories/the-ninety-year-barrier/art/landscapes/05-wet-roofs-toward-home.png",
-          "sourceSha256": "9e10a7e6045c970a3394626f29dde4e10fdd2aedd564cb8ccbf659d1df296113",
-          "full": {
-            "path": "landscapes/the-ninety-year-barrier/05-wet-roofs-toward-home.webp",
-            "sha256": "2efd68a2351731f7ad8b2b78ee186a22b7923f44741fc5e0e4b310f1eea11acc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-ninety-year-barrier/05-wet-roofs-toward-home-thumb.webp",
-            "sha256": "e1ad32ca5d306fb346b5059f14a441e8961199cc09c46549406e6b5a4886a27f",
             "width": 480,
             "height": 320
           }
@@ -14422,6 +14384,16 @@
       "source": "stories/the-night-she-knew/art/landscapes/05-the-familiar-road-home.png",
       "sourceSha256": "1eb8107f39ae78d0720e6d27233912ba9b6da591895a763b65275c51d609592a",
       "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
+    },
+    {
+      "source": "stories/the-ninety-year-barrier/art/landscapes/03-blackthorn-and-village-roofs.png",
+      "sourceSha256": "b560fceeacee5a5c63fd4b9ebdb18e92e27349f5cbe5273848de69013ae30c30",
+      "reason": "Repeats the village boundary and distant roofs already visible from the willow-bank work site in image 04."
+    },
+    {
+      "source": "stories/the-ninety-year-barrier/art/landscapes/05-wet-roofs-toward-home.png",
+      "sourceSha256": "9e10a7e6045c970a3394626f29dde4e10fdd2aedd564cb8ccbf659d1df296113",
+      "reason": "Adds another view of the same village roofs and boundary, without a distinct scene beyond the return already established by image 04."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
