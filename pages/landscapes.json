@@ -3721,6 +3721,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-smoke-above-the-terrace",
+          "title": "Smoke above the terrace",
+          "alt": "Smoke above the terrace — oil landscape for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/landscapes/04-smoke-above-the-terrace.png",
+          "sourceSha256": "73f8d363ac6e7a1a532e95fc85fe9cf3c705f518751cb575845fbc1a1697d6b5",
+          "full": {
+            "path": "landscapes/blade-calls-your-name/04-smoke-above-the-terrace.webp",
+            "sha256": "9863a254914c8dd0a6f39e1eb7060996e375544381deb96f64c69fcf8abd7f22",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/blade-calls-your-name/04-smoke-above-the-terrace-thumb.webp",
+            "sha256": "6d73b0ea679639c21a4a52b951a49bcae68bd650256443832d49c23030096948",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -10669,11 +10688,6 @@
       "source": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
       "sourceSha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
       "reason": "Adds an invented wide lakeside city panorama after the fire. The ending remains beside the theatre on the street, not at this remote viewpoint."
-    },
-    {
-      "source": "stories/blade-calls-your-name/art/landscapes/04-smoke-above-the-terrace.png",
-      "sourceSha256": "73f8d363ac6e7a1a532e95fc85fe9cf3c705f518751cb575845fbc1a1697d6b5",
-      "reason": "Repeats the suspended terrace panorama while relocating most roofs beneath it; the source crowds the roofs on the suspended terrace itself."
     },
     {
       "source": "stories/blade-calls-your-name/art/landscapes/05-after-the-load-settles.png",
