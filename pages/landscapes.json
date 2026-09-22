@@ -5576,25 +5576,6 @@
           }
         },
         {
-          "id": "04-the-former-department-store",
-          "title": "The former department store",
-          "alt": "The former department store — oil landscape for The Old Percentage",
-          "source": "stories/the-old-percentage/art/landscapes/04-the-former-department-store.png",
-          "sourceSha256": "997b18df81b1635582eb02b208bae8dfffa233e36c915f70c0f6a75085df7d22",
-          "full": {
-            "path": "landscapes/the-old-percentage/04-the-former-department-store.webp",
-            "sha256": "90a890a780c59407b086d1cd47ae70beaa6202fa734b437333b52f9d08c1d3a2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-old-percentage/04-the-former-department-store-thumb.webp",
-            "sha256": "2df1038a02d6a8a6d9dabfe09637418b999037b038c51f44e269d020ac390789",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-two-streets-away",
           "title": "Two streets away",
           "alt": "Two streets away — oil landscape for The Old Percentage",
@@ -14394,6 +14375,11 @@
       "source": "stories/the-ninety-year-barrier/art/landscapes/05-wet-roofs-toward-home.png",
       "sourceSha256": "9e10a7e6045c970a3394626f29dde4e10fdd2aedd564cb8ccbf659d1df296113",
       "reason": "Adds another view of the same village roofs and boundary, without a distinct scene beyond the return already established by image 04."
+    },
+    {
+      "source": "stories/the-old-percentage/art/landscapes/04-the-former-department-store.png",
+      "sourceSha256": "997b18df81b1635582eb02b208bae8dfffa233e36c915f70c0f6a75085df7d22",
+      "reason": "Turns the top-floor club scene into a distant exterior seen from another roof; that rooftop viewpoint is not in the story."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
