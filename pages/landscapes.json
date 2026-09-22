@@ -4742,63 +4742,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-brush-beyond-the-shaft",
-          "title": "Brush beyond the shaft",
-          "alt": "Brush beyond the shaft — oil landscape for The Last Monster",
-          "source": "stories/the-last-monster/art/landscapes/03-brush-beyond-the-shaft.png",
-          "sourceSha256": "19a91719b2f44c729bda778d775bc395f750cf813af3ae21ffb48a00c6273458",
-          "full": {
-            "path": "landscapes/the-last-monster/03-brush-beyond-the-shaft.webp",
-            "sha256": "73d24674a66688dc138e948a9d74b86bd4e339928b9baaccc42d972d1120d1be",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-monster/03-brush-beyond-the-shaft-thumb.webp",
-            "sha256": "f685fb599968d65477baec3a64010073b2251ff3ef04b6c1f4d1ac18000e7bd5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-leaves-in-the-open-wind",
-          "title": "Leaves in the open wind",
-          "alt": "Leaves in the open wind — oil landscape for The Last Monster",
-          "source": "stories/the-last-monster/art/landscapes/04-leaves-in-the-open-wind.png",
-          "sourceSha256": "3f3ffbc65335997bda204706452611fe7b60baa596726e3c4fb5a817e7fb889f",
-          "full": {
-            "path": "landscapes/the-last-monster/04-leaves-in-the-open-wind.webp",
-            "sha256": "7933a6b9556641790707095e9108091319e3c31e76adab2a5d9ac6f47a69f2c3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-monster/04-leaves-in-the-open-wind-thumb.webp",
-            "sha256": "4235bcfeda3ebd04d9ab4ef7340150933eacf6a94a9c646debd60506c8d4086a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-sunlight-clearing-the-hill",
-          "title": "Sunlight clearing the hill",
-          "alt": "Sunlight clearing the hill — oil landscape for The Last Monster",
-          "source": "stories/the-last-monster/art/landscapes/05-sunlight-clearing-the-hill.png",
-          "sourceSha256": "41ea1a82536d67f4a92190c48ad4efcd84029fd2099b384882fbe53a7271cbf5",
-          "full": {
-            "path": "landscapes/the-last-monster/05-sunlight-clearing-the-hill.webp",
-            "sha256": "b4c82def89c4a87239c824e04cbecd425894f20785a67e2f276500b39a94ac70",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-last-monster/05-sunlight-clearing-the-hill-thumb.webp",
-            "sha256": "759f0c43ae602affac97adb571172faf7c04792d9f00248c51b6ff118ec92df2",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -14926,6 +14869,21 @@
       "source": "stories/the-last-flames/art/landscapes/02-northern-ice-route.png",
       "sourceSha256": "7f125c55b3d9a56673c7e0eba4c6f12e5fc2b0d23c7bb52287191e38081d47d5",
       "reason": "The northern route is conveyed through recollection and frost-map marks, with a future expedition proposed; this open ice-route panorama is never visited in the story."
+    },
+    {
+      "source": "stories/the-last-monster/art/landscapes/03-brush-beyond-the-shaft.png",
+      "sourceSha256": "19a91719b2f44c729bda778d775bc395f750cf813af3ae21ffb48a00c6273458",
+      "reason": "Repeats the drain exit and hillside already covered by images 01 and 02, with a different masonry opening."
+    },
+    {
+      "source": "stories/the-last-monster/art/landscapes/04-leaves-in-the-open-wind.png",
+      "sourceSha256": "3f3ffbc65335997bda204706452611fe7b60baa596726e3c4fb5a817e7fb889f",
+      "reason": "Another drain-mouth/hillside composition repeats the same final escape location."
+    },
+    {
+      "source": "stories/the-last-monster/art/landscapes/05-sunlight-clearing-the-hill.png",
+      "sourceSha256": "41ea1a82536d67f4a92190c48ad4efcd84029fd2099b384882fbe53a7271cbf5",
+      "reason": "A fifth hillside/exit view adds no distinct location and changes the drain into a low unbuilt rock opening."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
