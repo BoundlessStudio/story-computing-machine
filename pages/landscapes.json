@@ -4073,108 +4073,6 @@
       ]
     },
     {
-      "slug": "golden-lion",
-      "title": "The Gentleman with the Golden Lion",
-      "reader": "stories/golden-lion.html",
-      "images": [
-        {
-          "id": "01-gardens-beyond-the-hall",
-          "title": "Gardens beyond the hall",
-          "alt": "Gardens beyond the hall — oil landscape for The Gentleman with the Golden Lion",
-          "source": "stories/golden-lion/art/landscapes/01-gardens-beyond-the-hall.png",
-          "sourceSha256": "5f166c85db7403acb75e614b92416224ae3f306eeafe642fc6d9761bff7bd9e9",
-          "full": {
-            "path": "landscapes/golden-lion/01-gardens-beyond-the-hall.webp",
-            "sha256": "f25c164fa3433c8be7a011606694c0712fbfbec2106357aa307bdc5c1068cab8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/golden-lion/01-gardens-beyond-the-hall-thumb.webp",
-            "sha256": "e6ab599027cedb3a9d569172897ba0aafa90f894b17d28e105372de9fae873b5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-garden-end",
-          "title": "The garden end",
-          "alt": "The garden end — oil landscape for The Gentleman with the Golden Lion",
-          "source": "stories/golden-lion/art/landscapes/02-the-garden-end.png",
-          "sourceSha256": "262b26e786209cd2c86164add145796bab12855f31e422d6aca10bddd19bbcb5",
-          "full": {
-            "path": "landscapes/golden-lion/02-the-garden-end.webp",
-            "sha256": "cbe1c286ee5bb6cd3216ce9155c303b0d773c6bccd3a78885c6c0c9421ac9316",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/golden-lion/02-the-garden-end-thumb.webp",
-            "sha256": "860bc6eff7fe4802cf6d2de36901f05d22a0e5369825de584f8aac52f7f68f02",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-gaslight-through-the-trees",
-          "title": "Gaslight through the trees",
-          "alt": "Gaslight through the trees — oil landscape for The Gentleman with the Golden Lion",
-          "source": "stories/golden-lion/art/landscapes/03-gaslight-through-the-trees.png",
-          "sourceSha256": "65ec68b58a753abb88667fbd5f51931f00be7e0a43b20b20977c11937123a26c",
-          "full": {
-            "path": "landscapes/golden-lion/03-gaslight-through-the-trees.webp",
-            "sha256": "8903916e0802a514550cb6ec96e20b1d3769dd516e8236f708d6cc6452618df4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/golden-lion/03-gaslight-through-the-trees-thumb.webp",
-            "sha256": "6127ba2a59aa310b7dd71c15e3d40a54f6540633c36ba7058816b95c273c899f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-an-old-garden-path",
-          "title": "An old garden path",
-          "alt": "An old garden path — oil landscape for The Gentleman with the Golden Lion",
-          "source": "stories/golden-lion/art/landscapes/04-an-old-garden-path.png",
-          "sourceSha256": "35cabf72512ec5a4d35a971fa5e50b7e1481154b7776844ecc383ff3addfdd9e",
-          "full": {
-            "path": "landscapes/golden-lion/04-an-old-garden-path.webp",
-            "sha256": "0867221edd2af895a78ce95570e61f3d78e0907213568e0990c88cf16f41d105",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/golden-lion/04-an-old-garden-path-thumb.webp",
-            "sha256": "c1cbe47145b190d5c73579120f91e5c17f615dcb5efcfaadc658837afdaaea0a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-beyond-menagerie-hall",
-          "title": "Dawn beyond menagerie hall",
-          "alt": "Dawn beyond menagerie hall — oil landscape for The Gentleman with the Golden Lion",
-          "source": "stories/golden-lion/art/landscapes/05-dawn-beyond-menagerie-hall.png",
-          "sourceSha256": "42abc9416110766788071305ce50de6f7f58244ad77bbc001ff359c1c829e586",
-          "full": {
-            "path": "landscapes/golden-lion/05-dawn-beyond-menagerie-hall.webp",
-            "sha256": "86d4f182a79b8bc18171dd42917ba55461402aa5ecbfb84614bf95bc14b6261a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/golden-lion/05-dawn-beyond-menagerie-hall-thumb.webp",
-            "sha256": "8179edc6d8fa591b984675bd70289834789946771848a6ff3981ec6a066a8a76",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-gentlest-terror",
       "title": "The Gentlest Terror",
       "reader": "stories/the-gentlest-terror.html",
@@ -14736,6 +14634,31 @@
       "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
       "sourceSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
       "reason": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town."
+    },
+    {
+      "source": "stories/golden-lion/art/landscapes/01-gardens-beyond-the-hall.png",
+      "sourceSha256": "5f166c85db7403acb75e614b92416224ae3f306eeafe642fc6d9761bff7bd9e9",
+      "reason": "The story takes place inside Menagerie Hall and its side room. These garden exteriors invent outdoor scenes from the remembered dining table's garden end and indoor gaslight; neither the winter garden nor dawn grounds occurs."
+    },
+    {
+      "source": "stories/golden-lion/art/landscapes/02-the-garden-end.png",
+      "sourceSha256": "262b26e786209cd2c86164add145796bab12855f31e422d6aca10bddd19bbcb5",
+      "reason": "The story takes place inside Menagerie Hall and its side room. These garden exteriors invent outdoor scenes from the remembered dining table's garden end and indoor gaslight; neither the winter garden nor dawn grounds occurs."
+    },
+    {
+      "source": "stories/golden-lion/art/landscapes/03-gaslight-through-the-trees.png",
+      "sourceSha256": "65ec68b58a753abb88667fbd5f51931f00be7e0a43b20b20977c11937123a26c",
+      "reason": "The story takes place inside Menagerie Hall and its side room. These garden exteriors invent outdoor scenes from the remembered dining table's garden end and indoor gaslight; neither the winter garden nor dawn grounds occurs."
+    },
+    {
+      "source": "stories/golden-lion/art/landscapes/04-an-old-garden-path.png",
+      "sourceSha256": "35cabf72512ec5a4d35a971fa5e50b7e1481154b7776844ecc383ff3addfdd9e",
+      "reason": "The story takes place inside Menagerie Hall and its side room. These garden exteriors invent outdoor scenes from the remembered dining table's garden end and indoor gaslight; neither the winter garden nor dawn grounds occurs."
+    },
+    {
+      "source": "stories/golden-lion/art/landscapes/05-dawn-beyond-menagerie-hall.png",
+      "sourceSha256": "42abc9416110766788071305ce50de6f7f58244ad77bbc001ff359c1c829e586",
+      "reason": "The story takes place inside Menagerie Hall and its side room. These garden exteriors invent outdoor scenes from the remembered dining table's garden end and indoor gaslight; neither the winter garden nor dawn grounds occurs."
     },
     {
       "source": "stories/his-infernal-majesty-says-no/art/landscapes/01-beyond-the-palace-walls.png",
