@@ -4162,6 +4162,70 @@
       ]
     },
     {
+      "slug": "the-driver-the-city-could-not-see",
+      "title": "The Driver the City Could Not See",
+      "reader": "stories/the-driver-the-city-could-not-see.html",
+      "images": [
+        {
+          "id": "01-the-manual-cab-at-midnight",
+          "title": "The manual cab at midnight",
+          "alt": "The manual cab at midnight — oil interior study for The Driver the City Could Not See",
+          "source": "stories/the-driver-the-city-could-not-see/art/interiors/01-the-manual-cab-at-midnight.png",
+          "sourceSha256": "c9c2d6bdf5fe56ec70a42a6a1eb384ce817697b21ac1052d0d6671ab19b6bb32",
+          "full": {
+            "path": "interiors/the-driver-the-city-could-not-see/01-the-manual-cab-at-midnight-c9c2d6bdf5fe56ec.webp",
+            "sha256": "17a341478645731caa4d168e89d4bff8c3911faaf5212a208dab20adc02d9d71",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-driver-the-city-could-not-see/01-the-manual-cab-at-midnight-c9c2d6bdf5fe56ec-thumb.webp",
+            "sha256": "01f1d6d6f21e24c8c5d19b760dc29b7044b7f0945f5baf55f79ef5587c919d2e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-cab-in-the-glass-tunnel",
+          "title": "The cab in the glass tunnel",
+          "alt": "The cab in the glass tunnel — oil interior study for The Driver the City Could Not See",
+          "source": "stories/the-driver-the-city-could-not-see/art/interiors/02-the-cab-in-the-glass-tunnel.png",
+          "sourceSha256": "b55393b7545cb65a56fcc517ff6fbe60707c1b93265b7806ddc95349f41637eb",
+          "full": {
+            "path": "interiors/the-driver-the-city-could-not-see/02-the-cab-in-the-glass-tunnel-b55393b7545cb65a.webp",
+            "sha256": "852860a0ae5f5be650502987576fd90f6462d20434fea2ad87f852687e74fefa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-driver-the-city-could-not-see/02-the-cab-in-the-glass-tunnel-b55393b7545cb65a-thumb.webp",
+            "sha256": "315429e946b9ca4b3c544e578681320b52b3aa84194069f77b3f349fd9711514",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-ferry-dawn-through-the-cab-window",
+          "title": "Ferry dawn through the cab window",
+          "alt": "Ferry dawn through the cab window — oil interior study for The Driver the City Could Not See",
+          "source": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
+          "sourceSha256": "b6531c2f04b52d1ac8cdf897bf0c4268da613689e35e1e617549476683b4e113",
+          "full": {
+            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-b6531c2f04b52d1a.webp",
+            "sha256": "fa90dd30f17332d6a5758bc4685d4d2d890080e3ac6b4900f2bbe0b986c0dc52",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-b6531c2f04b52d1a-thumb.webp",
+            "sha256": "6f70a327243a4c08742849a63ca0ea70eafae4598cf01082cbfb02d4bd44b444",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-first-winter",
       "title": "The First Winter",
       "reader": "stories/the-first-winter.html",
@@ -4987,6 +5051,70 @@
           "thumbnail": {
             "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3-thumb.webp",
             "sha256": "df0323b71079e2dc61eea5c01fa4348db36fee15d06d154dac57514e8c52d6be",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-first-kingdom-was-late-on-taxes",
+      "title": "Where the Mountain Used to Be",
+      "reader": "stories/the-first-kingdom-was-late-on-taxes.html",
+      "images": [
+        {
+          "id": "01-the-brew-house",
+          "title": "The brew house",
+          "alt": "The brew house — oil interior study for Where the Mountain Used to Be",
+          "source": "stories/the-first-kingdom-was-late-on-taxes/art/interiors/01-the-brew-house.png",
+          "sourceSha256": "85371dfd5ebbf0f1257edb746253ba4d41e55a381d1637dc016ff06e0fbb82ee",
+          "full": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/01-the-brew-house-85371dfd5ebbf0f1.webp",
+            "sha256": "9d1c8fd4d773a6c9366bc0c6690697174c5d8304857e0baab99377384bbae0dd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/01-the-brew-house-85371dfd5ebbf0f1-thumb.webp",
+            "sha256": "abc3fccb75d97de68ab306ee5cabb6b35c0cbfaddff9b4e086d7fa7e75395685",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-cemetery-room",
+          "title": "The cemetery room",
+          "alt": "The cemetery room — oil interior study for Where the Mountain Used to Be",
+          "source": "stories/the-first-kingdom-was-late-on-taxes/art/interiors/02-the-cemetery-room.png",
+          "sourceSha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "full": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/02-the-cemetery-room-1d869b416188c1e7.webp",
+            "sha256": "63892cff92ac8f7af521e0767a8a888f56a361bca2ca5edb13c66c388207a1e6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/02-the-cemetery-room-1d869b416188c1e7-thumb.webp",
+            "sha256": "5120fe83e3c339b928bf38404e74bf69626102a74ffeccf256b898375541d957",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-freight-hall-nine",
+          "title": "Freight hall nine",
+          "alt": "Freight hall nine — oil interior study for Where the Mountain Used to Be",
+          "source": "stories/the-first-kingdom-was-late-on-taxes/art/interiors/03-freight-hall-nine.png",
+          "sourceSha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "full": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/03-freight-hall-nine-1f490bd43fc0f066.webp",
+            "sha256": "afa27251bee7dcf84e9e704992f0c725503f9032f7c0a1554bbf0b2c4c3e15ae",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-kingdom-was-late-on-taxes/03-freight-hall-nine-1f490bd43fc0f066-thumb.webp",
+            "sha256": "1b36f36c9d842e65a0f055de42475da1c44a00beca4a6ee27bddada860c14407",
             "width": 480,
             "height": 320
           }
