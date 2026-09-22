@@ -2754,6 +2754,70 @@
       ]
     },
     {
+      "slug": "sakura-hearted",
+      "title": "Sakura-Hearted",
+      "reader": "stories/sakura-hearted.html",
+      "images": [
+        {
+          "id": "01-anniversary-moon-ride",
+          "title": "Anniversary moon ride",
+          "alt": "Anniversary moon ride — oil interior study for Sakura-Hearted",
+          "source": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+          "sourceSha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+          "full": {
+            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-10b7e9ad6f092f65.webp",
+            "sha256": "5f793e7f0198e8012626ac006b6aedff1f996615a199bd56c021c5bc94e58aff",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-10b7e9ad6f092f65-thumb.webp",
+            "sha256": "ee9a938d9282c3b5b55b1ee08b97a4232fc371933f1d1d1d3123a8737946652e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-celestines-workbench",
+          "title": "Celestines workbench",
+          "alt": "Celestines workbench — oil interior study for Sakura-Hearted",
+          "source": "stories/sakura-hearted/art/interiors/02-celestines-workbench.png",
+          "sourceSha256": "becf69305cc5353ec0453fabdd49f7128e4b8f1917a689d166620566b2a22823",
+          "full": {
+            "path": "interiors/sakura-hearted/02-celestines-workbench-becf69305cc5353e.webp",
+            "sha256": "c7066fd749c4e17dc2cb1f334067f5fdd221c9ee2ef42b176ca72ae1532027ac",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/sakura-hearted/02-celestines-workbench-becf69305cc5353e-thumb.webp",
+            "sha256": "44996e6012e0358c0c6cd11a269cdff6a6f573b76d5c17b75340206add61a2dd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kitchen-with-a-ringed-planet",
+          "title": "Kitchen with a ringed planet",
+          "alt": "Kitchen with a ringed planet — oil interior study for Sakura-Hearted",
+          "source": "stories/sakura-hearted/art/interiors/03-kitchen-with-a-ringed-planet.png",
+          "sourceSha256": "ef0999c313c3f76fa00a438a3864de7419b396b016a9af42eb9431227e47daff",
+          "full": {
+            "path": "interiors/sakura-hearted/03-kitchen-with-a-ringed-planet-ef0999c313c3f76f.webp",
+            "sha256": "50a58654fb55335dab823b6673f14f948ecee98fc8c8162c7c4d20fe7c54938a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/sakura-hearted/03-kitchen-with-a-ringed-planet-ef0999c313c3f76f-thumb.webp",
+            "sha256": "a297899c006312c42d64e0d28f4148bd190a521eb32bfc786f1581bc68d3d38e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "self-reflection",
       "title": "Self-Reflection",
       "reader": "stories/self-reflection.html",
@@ -4027,6 +4091,70 @@
           "thumbnail": {
             "path": "interiors/the-credit-book/03-the-new-bakehouse-c36b18cb650b4654-thumb.webp",
             "sha256": "968518b17f24abc5178d0f6194ef0bb3faa39a170f466a5af3118147656a346e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "pool-sovereign",
+      "title": "The Deep End",
+      "reader": "stories/pool-sovereign.html",
+      "images": [
+        {
+          "id": "01-glass-roofed-deep-end",
+          "title": "Glass roofed deep end",
+          "alt": "Glass roofed deep end — oil interior study for The Deep End",
+          "source": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+          "sourceSha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+          "full": {
+            "path": "interiors/pool-sovereign/01-glass-roofed-deep-end-e04d9d00195c5243.webp",
+            "sha256": "89bffb210e2aed2a7ce62840e8b72de36af3cee5837698f8281f602e805b8b6d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/pool-sovereign/01-glass-roofed-deep-end-e04d9d00195c5243-thumb.webp",
+            "sha256": "a70d4bdc1f53dabcd41ea8796379dda509bb8d8ee08cb0d56e17c830366fe0d7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-spectators-gallery",
+          "title": "Spectators gallery",
+          "alt": "Spectators gallery — oil interior study for The Deep End",
+          "source": "stories/pool-sovereign/art/interiors/02-spectators-gallery.png",
+          "sourceSha256": "cb82571c7fb1ca059696c2f25bacb4cb7df1ad57f1e4137cd2a9a24497d1c944",
+          "full": {
+            "path": "interiors/pool-sovereign/02-spectators-gallery-cb82571c7fb1ca05.webp",
+            "sha256": "ebd516f732bdaa929bbe4e73362a0a279d7192a4ebd368d4674cbf1a9aa5b435",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/pool-sovereign/02-spectators-gallery-cb82571c7fb1ca05-thumb.webp",
+            "sha256": "5997eb0f1dedfd2e0b54ac2813ecda53c90baa39bced2ad0418022f5c6126941",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-hall-above-the-bed-shop",
+          "title": "Hall above the bed shop",
+          "alt": "Hall above the bed shop — oil interior study for The Deep End",
+          "source": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+          "sourceSha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+          "full": {
+            "path": "interiors/pool-sovereign/03-hall-above-the-bed-shop-cc5e9666cc1bba07.webp",
+            "sha256": "0d5400a467ed78c0dcb31d21b55fbc0b1f763f3d6f7e3540d5944f4513ee1c60",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/pool-sovereign/03-hall-above-the-bed-shop-cc5e9666cc1bba07-thumb.webp",
+            "sha256": "b87d7ca7343a27cf7870b4ffff14c9e54593011b8e1c953bb6502ccf8db9560c",
             "width": 480,
             "height": 320
           }
