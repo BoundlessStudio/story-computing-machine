@@ -4597,25 +4597,6 @@
           }
         },
         {
-          "id": "04-clefts-at-nightfall",
-          "title": "Clefts at nightfall",
-          "alt": "Clefts at nightfall — oil landscape for The Last Day of the Watch",
-          "source": "stories/the-house-beneath-the-horns/art/landscapes/04-clefts-at-nightfall.png",
-          "sourceSha256": "d5eb5b9b62380347c234ff4218b6e244d5348b4d45fe324e12bd4d793b996bd7",
-          "full": {
-            "path": "landscapes/the-house-beneath-the-horns/04-clefts-at-nightfall.webp",
-            "sha256": "40f3387972e6a956c0b1ec7235ed17c916659277c326e12f20366e2fc2cfddf2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-house-beneath-the-horns/04-clefts-at-nightfall-thumb.webp",
-            "sha256": "0a407bfe8395b6bd756b4a739d4e1515dcff3c7c8c7c77be416f5c2e4f141a91",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-open-gate-at-dawn",
           "title": "Open gate at dawn",
           "alt": "Open gate at dawn — oil landscape for The Last Day of the Watch",
@@ -14884,6 +14865,11 @@
       "source": "stories/the-hollow-cask/art/landscapes/05-harvest-evening-outside.png",
       "sourceSha256": "ed345d9e8e257ec4bb13966b21fb575caba8860e9151bf97198f81578d129763",
       "reason": "Shows a clear sunset and a timber-sided hall, conflicting with the rain at the harvest opening and the established stone building."
+    },
+    {
+      "source": "stories/the-house-beneath-the-horns/art/landscapes/04-clefts-at-nightfall.png",
+      "sourceSha256": "d5eb5b9b62380347c234ff4218b6e244d5348b4d45fe324e12bd4d793b996bd7",
+      "reason": "A third distant citadel/causeway view repeats the geography already established by image 01 and the more specific dawn escape aftermath in image 05."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
