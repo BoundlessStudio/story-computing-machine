@@ -169,7 +169,13 @@ Use case: text-localization. Edit the supplied social preview image with one pre
 ```
 
 ```text
-undefined
+Use case: text-localization. Make one precise correction to the supplied image. Keep the word "Story" exactly where it is. Move BOTH complete words "Computing" and "Machine" upward by the same small distance: 24 pixels in this supplied 1731×909 image (equivalent to about 17 pixels at 1200×630). Do not change their horizontal positions, serif typeface, font size, color, spelling, or word widths. This should give the three title lines evenly spaced baselines and restore a comfortable gap above the gold decorative rule. Keep the gold rule and star, "Shared-Universe Fiction" subtitle, paper background, book, mechanical details, city, mountains, sky, and every other part of the illustration as in the supplied image. Only the vertical position of the two specified title words changes. Preserve the landscape aspect ratio.
+```
+
+The large moon was removed, retaining the small moon on the curved line, with this built-in image edit:
+
+```text
+Use case: precise-object-edit. The user wants to KEEP the small moon because it belongs to the curved orbital line in the sky. Edit the supplied two-moon preview by removing ONLY the LARGE moon, the big round body toward the upper-left of the illustrated sky, above the mountains. Replace its disk with a natural continuation of the surrounding muted teal starry sky, preserving the bordering clouds. Keep the SMALL moon to its right exactly as it is, including its position on the curved line; preserve that whole curved line, the bright gold star, and all other stars. The finished sky has exactly one moon: the small moon on the line. Preserve the city, mountains, open book, brass details, paper texture, exact three-line "Story Computing Machine" typography with its existing wider vertical spacing, decorative rule, and "Shared-Universe Fiction" subtitle. Do not move, redesign, repaint, or restyle any other elements. Preserve the 1200×630 landscape composition.
 ```
 
 ## Local commands
