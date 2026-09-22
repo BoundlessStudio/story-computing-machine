@@ -3255,6 +3255,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-copper-in-the-distance",
+          "title": "Copper in the distance",
+          "alt": "Copper in the distance — oil landscape for Realms",
+          "source": "pages/landscape-replacements/realms/04-copper-in-the-distance.png",
+          "sourceSha256": "6ec995c61de90b7e5f5b063c358396a2d4f31691e03bc62b0dd567a4e2a34b80",
+          "full": {
+            "path": "landscapes/realms/04-copper-in-the-distance-6ec995c61de90b7e.webp",
+            "sha256": "a2b192ec747b60e15d78d9e06aa448357a16f91abe22c8ca71bdc36705b81879",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/realms/04-copper-in-the-distance-6ec995c61de90b7e-thumb.webp",
+            "sha256": "2c61e06e15f011ec4cfa1c76242f279516865f7b665d5803c6531f53c3f1e04d",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+            "originalSha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+            "correction": "Adds another red-plain vista while reducing the distinctive breathing, shell-borne city to ordinary towers on the distant ground.",
+            "prompt": "Correct this Realms landscape. Keep the red-grass plain, winding white road, blue sky with scattered floating rectangular doors, copper towers, crooked awnings and thick tactile impasto oil painting. Essential source fact: the entire city RIDES THE PLATED SHELL OF SOMETHING VAST AND SLEEPING, whose back rises and falls with its breathing. Move the viewpoint closer so the city's support is unmistakable: an enormous broad gently domed living shell with overlapping weathered plates occupies the middle distance, bearing ALL the copper towers and clustered crooked awnings on top. Show its curved shell rim clearly above the red grass, with a little visible soft dark organic flank tucked below and an enormous sleeping body settled low in the plain. Subtle expanded folds along the flank suggest slow breathing; no motion arrows or duplicate frames. The creature's head can remain mostly tucked away and indistinct; avoid inventing a dragon or tortoise face as a focal point. The towers must not emerge from ordinary ground or a rocky mountain. Let the white road approach the city gateway along the shell's low front edge. Preserve a spacious wide environment and beautiful red/copper/blue color relationship; the shell-city dominates enough to read at thumbnail size. No people, lettering or border, no photorealism.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
