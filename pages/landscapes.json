@@ -5301,63 +5301,6 @@
           }
         },
         {
-          "id": "02-the-winter-rosebush",
-          "title": "The winter rosebush",
-          "alt": "The winter rosebush — oil landscape for The Names on the Cups",
-          "source": "stories/the-names-on-the-cups/art/landscapes/02-the-winter-rosebush.png",
-          "sourceSha256": "673c4400b005db9a9e7d9506bf29cf4a15a7425d69412fe68f4ee18d4d5d4847",
-          "full": {
-            "path": "landscapes/the-names-on-the-cups/02-the-winter-rosebush.webp",
-            "sha256": "8789454aafc0482a16acaa9538b4e4c0bdc7a53adca63f92111ff320fcb92108",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-names-on-the-cups/02-the-winter-rosebush-thumb.webp",
-            "sha256": "6245bfb36c2d45b7dbe1f0064214b7a89fecc852e578a28352e2cfe19fcbdcfc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-soft-rain-in-march",
-          "title": "Soft rain in march",
-          "alt": "Soft rain in march — oil landscape for The Names on the Cups",
-          "source": "stories/the-names-on-the-cups/art/landscapes/03-soft-rain-in-march.png",
-          "sourceSha256": "c09ec3d60c9b41478634cc3da97f4adef85a92585f5c0ba2b91e57899e5318ac",
-          "full": {
-            "path": "landscapes/the-names-on-the-cups/03-soft-rain-in-march.webp",
-            "sha256": "b8761f6f8a9575f4872dba2d38eb4b8d45423eb2c68d7b505bb3f5bae612fc50",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-names-on-the-cups/03-soft-rain-in-march-thumb.webp",
-            "sha256": "88de98ff909655467bad01a19eeed93eb4b82444b92547f623f2aa01126db958",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-volunteer-park-in-may",
-          "title": "Volunteer park in may",
-          "alt": "Volunteer park in may — oil landscape for The Names on the Cups",
-          "source": "stories/the-names-on-the-cups/art/landscapes/04-volunteer-park-in-may.png",
-          "sourceSha256": "ac9536dcb1c36fe7ad1bbdde86eec5c56583095d6a269fb325e10f899a8b103e",
-          "full": {
-            "path": "landscapes/the-names-on-the-cups/04-volunteer-park-in-may.webp",
-            "sha256": "3df2a963c2e8a72fbaa99643bd3bab5c56ad3879015c7253d8339dda34d60cf6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-names-on-the-cups/04-volunteer-park-in-may-thumb.webp",
-            "sha256": "a4612b4472095e65e30595fc4f57044e5914d48f8a01c7a846072acaa35c9fa7",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-first-pink-roses-on-mercer",
           "title": "First pink roses on mercer",
           "alt": "First pink roses on mercer — oil landscape for The Names on the Cups",
@@ -14597,6 +14540,21 @@
       "source": "stories/the-name-the-water-took/art/landscapes/02-the-hidden-low-way.png",
       "sourceSha256": "15b973fadb2de5097706642bcd9e99eb2bdff737ecc625cbeaf578c8294691ea",
       "reason": "The hidden low way is depicted as an exposed hillside path overlooking an open valley. This conflicts with the choice to avoid the watched ridge and duplicates the better-grounded fig-root route in image 04."
+    },
+    {
+      "source": "stories/the-names-on-the-cups/art/landscapes/02-the-winter-rosebush.png",
+      "sourceSha256": "673c4400b005db9a9e7d9506bf29cf4a15a7425d69412fe68f4ee18d4d5d4847",
+      "reason": "Adds substantial snow cover to a winter described through rain, gray weather and bare rose hips, without a snowfall scene."
+    },
+    {
+      "source": "stories/the-names-on-the-cups/art/landscapes/03-soft-rain-in-march.png",
+      "sourceSha256": "c09ec3d60c9b41478634cc3da97f4adef85a92585f5c0ba2b91e57899e5318ac",
+      "reason": "Repeats the same wet cafe street already represented by image 01; the distinct spring rosebush state is covered by image 05."
+    },
+    {
+      "source": "stories/the-names-on-the-cups/art/landscapes/04-volunteer-park-in-may.png",
+      "sourceSha256": "ac9536dcb1c36fe7ad1bbdde86eec5c56583095d6a269fb325e10f899a8b103e",
+      "reason": "Volunteer Park is proposed for a future date, not visited before this cafe story ends."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
