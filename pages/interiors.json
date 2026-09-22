@@ -9090,6 +9090,134 @@
       ]
     },
     {
+      "slug": "the-way-around",
+      "title": "The Way Around",
+      "reader": "stories/the-way-around.html",
+      "images": [
+        {
+          "id": "01-the-buried-ring-hall",
+          "title": "The buried ring hall",
+          "alt": "The buried ring hall — oil interior study for The Way Around",
+          "source": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+          "sourceSha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452",
+          "full": {
+            "path": "interiors/the-way-around/01-the-buried-ring-hall-9d2d9f632f2ed167.webp",
+            "sha256": "91c4b658e6aeda7ff08d9e04ace4226c3925470be37c804c2ca2b62f2f9dbf52",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-way-around/01-the-buried-ring-hall-9d2d9f632f2ed167-thumb.webp",
+            "sha256": "0efbe64b868024ee76ea175b24fcc57d4ffffa8a46e88e1aa0bd6212a772e0b6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-sealed-sand-chamber",
+          "title": "The sealed sand chamber",
+          "alt": "The sealed sand chamber — oil interior study for The Way Around",
+          "source": "stories/the-way-around/art/interiors/02-the-sealed-sand-chamber.png",
+          "sourceSha256": "df0035442e119028022ef877b64bbda7c421cb1eb3b6d418eaebafabc5f8245d",
+          "full": {
+            "path": "interiors/the-way-around/02-the-sealed-sand-chamber-df0035442e119028.webp",
+            "sha256": "3146d756d2452e221c1cf05bfaf419cfada4a6eed40e2e2cc2933e2da41a014d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-way-around/02-the-sealed-sand-chamber-df0035442e119028-thumb.webp",
+            "sha256": "4d5dead7e28645582862bce032d722bca8b2fe86f1ceeab93ead2e29a0db9c2d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-central-hollow-bridge",
+          "title": "The central hollow bridge",
+          "alt": "The central hollow bridge — oil interior study for The Way Around",
+          "source": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
+          "sourceSha256": "f7bdceeaaa5ab0ad9338dee9aa2bd64e2ac71d2fbc43b61d6159a22397c37891",
+          "full": {
+            "path": "interiors/the-way-around/03-the-central-hollow-bridge-f7bdceeaaa5ab0ad.webp",
+            "sha256": "31dde13fa0aded52f548b85be7d4a61b965a8365b4ba1b963e36f71a4b36080e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-way-around/03-the-central-hollow-bridge-f7bdceeaaa5ab0ad-thumb.webp",
+            "sha256": "387126a5acc4a1b842992acd0b4593b28eadea282c4f6baf7698bc1f59be53d9",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-weight-they-never-counted",
+      "title": "The Weight They Never Counted",
+      "reader": "stories/the-weight-they-never-counted.html",
+      "images": [
+        {
+          "id": "01-the-sixth-wagon-load",
+          "title": "The sixth wagon load",
+          "alt": "The sixth wagon load — oil interior study for The Weight They Never Counted",
+          "source": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+          "sourceSha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc",
+          "full": {
+            "path": "interiors/the-weight-they-never-counted/01-the-sixth-wagon-load-d80ba4d219954072.webp",
+            "sha256": "74977041fea6e3ea5a2cbfbc0a27c9d75508f88e84a3acff305a7ff36d860b22",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-weight-they-never-counted/01-the-sixth-wagon-load-d80ba4d219954072-thumb.webp",
+            "sha256": "0453955cfef1384667b1ee1edd358300f4dcca59567e628ab81e0cd4846da573",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-fifth-wagon-manifest",
+          "title": "The fifth wagon manifest",
+          "alt": "The fifth wagon manifest — oil interior study for The Weight They Never Counted",
+          "source": "stories/the-weight-they-never-counted/art/interiors/02-the-fifth-wagon-manifest.png",
+          "sourceSha256": "5216d7b333a7b5ac27de14b91a9f29360eef68cf4e5b9f0caa1f13464cf78ac2",
+          "full": {
+            "path": "interiors/the-weight-they-never-counted/02-the-fifth-wagon-manifest-5216d7b333a7b5ac.webp",
+            "sha256": "1f609d42a253857646f387d4b46cc75cafd3ec85e9a71b85ac42cfcbb11e89c1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-weight-they-never-counted/02-the-fifth-wagon-manifest-5216d7b333a7b5ac-thumb.webp",
+            "sha256": "fa54db680257d55163ecd4d290c92000fee4a9dc3364d271da28a893c7b633c4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-two-cloth-bales",
+          "title": "Two cloth bales",
+          "alt": "Two cloth bales — oil interior study for The Weight They Never Counted",
+          "source": "stories/the-weight-they-never-counted/art/interiors/03-two-cloth-bales.png",
+          "sourceSha256": "f559beb6e124bf78c5a6e86f1ffb145683b06b5f4ce0e56931bed41ecc32a964",
+          "full": {
+            "path": "interiors/the-weight-they-never-counted/03-two-cloth-bales-f559beb6e124bf78.webp",
+            "sha256": "c03fa385b0df97cd6ea3a1ec34bf388f21a220a9a881735efd934c6d973d369d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-weight-they-never-counted/03-two-cloth-bales-f559beb6e124bf78-thumb.webp",
+            "sha256": "d6768b06a8cddf837e8042b4c7505b75c2f1deb09858051083a0187608d9cd32",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-healers-measure",
       "title": "The Witchknight’s Measure",
       "reader": "stories/the-healers-measure.html",
