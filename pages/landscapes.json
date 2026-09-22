@@ -6365,108 +6365,6 @@
       ]
     },
     {
-      "slug": "the-seventh-night",
-      "title": "The Seventh Night",
-      "reader": "stories/the-seventh-night.html",
-      "images": [
-        {
-          "id": "01-supper-lights-in-town",
-          "title": "Supper lights in town",
-          "alt": "Supper lights in town — oil landscape for The Seventh Night",
-          "source": "stories/the-seventh-night/art/landscapes/01-supper-lights-in-town.png",
-          "sourceSha256": "4c8501db7f270ccb7b1cadae913b6ea5a7f8a4b2d3ad5a9d7f2dc9d7a989c3bc",
-          "full": {
-            "path": "landscapes/the-seventh-night/01-supper-lights-in-town.webp",
-            "sha256": "0434f1c4f0b38989dce3d935058982c4f4a7ccce801e6d0cf06370842cb32452",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-seventh-night/01-supper-lights-in-town-thumb.webp",
-            "sha256": "d2a2bf25707084cff9fee801571fb455709d7f5d672270f2585bfc060035a0d1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-dawn-at-the-tomb-entrance",
-          "title": "Dawn at the tomb entrance",
-          "alt": "Dawn at the tomb entrance — oil landscape for The Seventh Night",
-          "source": "stories/the-seventh-night/art/landscapes/02-dawn-at-the-tomb-entrance.png",
-          "sourceSha256": "8b97d60a745baf9c8b63cd4d7bb2ca0d9f692819324aba095156488aa817198d",
-          "full": {
-            "path": "landscapes/the-seventh-night/02-dawn-at-the-tomb-entrance.webp",
-            "sha256": "e1f4826ab88bd22beb89de95da629870ebfddaa01f8a46fb92c2fc7492ec53f0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-seventh-night/02-dawn-at-the-tomb-entrance-thumb.webp",
-            "sha256": "2270dd5c9e7fdd32249c64bb6255f6c034558571cfe99279abb00eb5c9f1c2f7",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-three-mile-road",
-          "title": "The three mile road",
-          "alt": "The three mile road — oil landscape for The Seventh Night",
-          "source": "stories/the-seventh-night/art/landscapes/03-the-three-mile-road.png",
-          "sourceSha256": "988b3c43293f994699e7f7f2f933d0eefa029af040068127315a91860fb606c2",
-          "full": {
-            "path": "landscapes/the-seventh-night/03-the-three-mile-road.webp",
-            "sha256": "f30f0d1c2f1e1ea42f2d59af2149b768b3701477eb40a0f337fc906d3138116d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-seventh-night/03-the-three-mile-road-thumb.webp",
-            "sha256": "c14a6b26717f0865fca49b060ef1ee78190da6a734fc0e6ea42e1d0acbb5ae03",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-evening-above-the-inn",
-          "title": "Evening above the inn",
-          "alt": "Evening above the inn — oil landscape for The Seventh Night",
-          "source": "stories/the-seventh-night/art/landscapes/04-evening-above-the-inn.png",
-          "sourceSha256": "e802b5490dd546bcf33e4c9aa4525493f730f7a9f50795b268821f820a06b151",
-          "full": {
-            "path": "landscapes/the-seventh-night/04-evening-above-the-inn.webp",
-            "sha256": "b0a59ee0c533f4f6395e0ea512e0d1e98be75b105750002efb4a0df7a07b5f5d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-seventh-night/04-evening-above-the-inn-thumb.webp",
-            "sha256": "30912e5221c45f1d535d9576a9a442c2a2114fb568b66848fd6933bf20e73c60",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-road-before-the-expedition",
-          "title": "The road before the expedition",
-          "alt": "The road before the expedition — oil landscape for The Seventh Night",
-          "source": "stories/the-seventh-night/art/landscapes/05-the-road-before-the-expedition.png",
-          "sourceSha256": "e2afe9dd3454a47e9795d8a8b87d6003714ef0fae50602406bd6e050d88d5f8c",
-          "full": {
-            "path": "landscapes/the-seventh-night/05-the-road-before-the-expedition.webp",
-            "sha256": "09a2df0ead35c3ab93cf6538e5a15419ebeec4cee3e785a62a66da9628dde7de",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-seventh-night/05-the-road-before-the-expedition-thumb.webp",
-            "sha256": "740b047cf375eee8fbab6ac6658ff92dd68323736fffba8866cdaba52c8e0ffd",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-shadow-that-nested",
       "title": "The Shadow That Nested",
       "reader": "stories/the-shadow-that-nested.html",
@@ -13915,6 +13813,31 @@
       "source": "stories/the-second-wearing/art/landscapes/05-the-open-window-neighborhood.png",
       "sourceSha256": "efc85b472abf03269172e3122aa99ca2f68b983f76db63e9cd92d12976bd46fb",
       "reason": "The story remains inside, narrated by a pendant that cannot see. Fair, garden and recital details are recalled or discussed; these outdoor panoramas invent visual scenes and neighborhood viewpoints."
+    },
+    {
+      "source": "stories/the-seventh-night/art/landscapes/01-supper-lights-in-town.png",
+      "sourceSha256": "4c8501db7f270ccb7b1cadae913b6ea5a7f8a4b2d3ad5a9d7f2dc9d7a989c3bc",
+      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
+    },
+    {
+      "source": "stories/the-seventh-night/art/landscapes/02-dawn-at-the-tomb-entrance.png",
+      "sourceSha256": "8b97d60a745baf9c8b63cd4d7bb2ca0d9f692819324aba095156488aa817198d",
+      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
+    },
+    {
+      "source": "stories/the-seventh-night/art/landscapes/03-the-three-mile-road.png",
+      "sourceSha256": "988b3c43293f994699e7f7f2f933d0eefa029af040068127315a91860fb606c2",
+      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
+    },
+    {
+      "source": "stories/the-seventh-night/art/landscapes/04-evening-above-the-inn.png",
+      "sourceSha256": "e802b5490dd546bcf33e4c9aa4525493f730f7a9f50795b268821f820a06b151",
+      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
+    },
+    {
+      "source": "stories/the-seventh-night/art/landscapes/05-the-road-before-the-expedition.png",
+      "sourceSha256": "e2afe9dd3454a47e9795d8a8b87d6003714ef0fae50602406bd6e050d88d5f8c",
+      "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
