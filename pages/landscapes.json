@@ -805,108 +805,6 @@
       ]
     },
     {
-      "slug": "an-ordinary-education",
-      "title": "An Ordinary Education",
-      "reader": "stories/an-ordinary-education.html",
-      "images": [
-        {
-          "id": "01-ordinary-school-morning",
-          "title": "Ordinary school morning",
-          "alt": "Ordinary school morning — oil landscape for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/landscapes/01-ordinary-school-morning.png",
-          "sourceSha256": "2c09f8799d752025a69d26fc97ab312f4615400a083c612e68dfdd93586f637e",
-          "full": {
-            "path": "landscapes/an-ordinary-education/01-ordinary-school-morning.webp",
-            "sha256": "efca91db5df3fb39824ddc2452792713fc1930ad7d2e935ac1c5bdd8b52d84eb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/an-ordinary-education/01-ordinary-school-morning-thumb.webp",
-            "sha256": "586f0fde8b5cc4b72594ecbaa3a9fc751a6c748fadd486c9af0023448a91898a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-meeting-point",
-          "title": "The meeting point",
-          "alt": "The meeting point — oil landscape for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/landscapes/02-the-meeting-point.png",
-          "sourceSha256": "ed382ca26e4391df5e15db226b519a54503b26c7a14255a289a74d7e4cec61e7",
-          "full": {
-            "path": "landscapes/an-ordinary-education/02-the-meeting-point.webp",
-            "sha256": "33a521a417e498c5421b6e0a86b56ac9df636310e12528c9528839853dd986d0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/an-ordinary-education/02-the-meeting-point-thumb.webp",
-            "sha256": "79f7756bcf9f4ece5c5fa2a0851023957369b483ec73321a4b5a7cad301ab01b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-gardens-before-the-outing",
-          "title": "Gardens before the outing",
-          "alt": "Gardens before the outing — oil landscape for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/landscapes/03-gardens-before-the-outing.png",
-          "sourceSha256": "f8241ce0d9b424b68cc2eeff1330360f3223173e689e5031e7792235a6137088",
-          "full": {
-            "path": "landscapes/an-ordinary-education/03-gardens-before-the-outing.webp",
-            "sha256": "4ba49ac918e703b492a083d8ffecdec266ce0115371779b5a83b1773c209ee9b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/an-ordinary-education/03-gardens-before-the-outing-thumb.webp",
-            "sha256": "200250c3b78dfc34366118d18c51ef0cafb64d48cbbe2b8cc70adcb8be07fcae",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-violet-evening-at-the-rink",
-          "title": "Violet evening at the rink",
-          "alt": "Violet evening at the rink — oil landscape for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/landscapes/04-violet-evening-at-the-rink.png",
-          "sourceSha256": "4fc8aeafde511ade10393f64a4191ba252b4ffc4056d604c131af7b111cbcfc8",
-          "full": {
-            "path": "landscapes/an-ordinary-education/04-violet-evening-at-the-rink.webp",
-            "sha256": "d21329d0dba952a293c13d4dbe96b8b8cb06f4183c6cec3af2aad83c4fab5f29",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/an-ordinary-education/04-violet-evening-at-the-rink-thumb.webp",
-            "sha256": "2616f8cd05451d338e1da7f312fc0252738ae137e911dfa117347b5a81fe34ec",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-night-on-the-way-home",
-          "title": "Night on the way home",
-          "alt": "Night on the way home — oil landscape for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/landscapes/05-night-on-the-way-home.png",
-          "sourceSha256": "c111966dd27a6c49ff9103d5d12f2fd5fdba6ebbcb755884eafd317a61099115",
-          "full": {
-            "path": "landscapes/an-ordinary-education/05-night-on-the-way-home.webp",
-            "sha256": "610362bd9752169f0e48d54feeaf0163240b06530ab984af6dfde8e38e0af6e1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/an-ordinary-education/05-night-on-the-way-home-thumb.webp",
-            "sha256": "27e729cb18c340c687c13c2366b3f77e8d96a9cc1ed9392ccf0d21255a3a2769",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "before-lunch",
       "title": "Before Lunch",
       "reader": "stories/before-lunch.html",
@@ -18333,6 +18231,31 @@
       "source": "stories/all-accounts-due/art/landscapes/05-when-the-horizons-straighten.png",
       "sourceSha256": "304b694b66b583960c638c0c3cf33d5dc43155ecfffcec2a7909b2c67da1c159",
       "reason": "When horizons straighten, cities fall and break against mountains. This quiet, open valley with old ruins supplies an unsupported peaceful aftermath and repeats the already represented ruin landscape."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/landscapes/01-ordinary-school-morning.png",
+      "sourceSha256": "2c09f8799d752025a69d26fc97ab312f4615400a083c612e68dfdd93586f637e",
+      "reason": "The opening takes place in the language classroom and at lunch; no outdoor school grounds are described. This is an invented establishing landscape."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/landscapes/02-the-meeting-point.png",
+      "sourceSha256": "ed382ca26e4391df5e15db226b519a54503b26c7a14255a289a74d7e4cec61e7",
+      "reason": "The agreed meeting point is outside a supermarket. The painting shows an unrelated residential lane without the defining supermarket."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/landscapes/03-gardens-before-the-outing.png",
+      "sourceSha256": "f8241ce0d9b424b68cc2eeff1330360f3223173e689e5031e7792235a6137088",
+      "reason": "No garden outing occurs. Delsie practices on her bedroom carpet before going to the rink; this garden is invented."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/landscapes/04-violet-evening-at-the-rink.png",
+      "sourceSha256": "4fc8aeafde511ade10393f64a4191ba252b4ffc4056d604c131af7b111cbcfc8",
+      "reason": "The rink is indoors, with polished floor reflecting violet light and roller skaters. The painting turns that lighting into a winter twilight exterior with snow and ice."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/landscapes/05-night-on-the-way-home.png",
+      "sourceSha256": "c111966dd27a6c49ff9103d5d12f2fd5fdba6ebbcb755884eafd317a61099115",
+      "reason": "The story ends with the girls talking and skating inside the rink. This moonlit journey home never occurs."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
