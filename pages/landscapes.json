@@ -9182,6 +9182,25 @@
           }
         },
         {
+          "id": "03-the-south-practice-court",
+          "title": "The south practice court",
+          "alt": "The south practice court — oil landscape for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/landscapes/03-the-south-practice-court.png",
+          "sourceSha256": "fa7a8f9bef3de1451920cf1690a85cbe9d64d8fc6757f3b0c28af9bfc5d8bcdf",
+          "full": {
+            "path": "landscapes/the-warmest-person-in-the-room/03-the-south-practice-court.webp",
+            "sha256": "de864adc75b4598070e63fcd382b9b222ca1066b2dae59f94816f3f25bc4613d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-warmest-person-in-the-room/03-the-south-practice-court-thumb.webp",
+            "sha256": "32e928fc671ac687e38f5726c868aaaef14dac8240bba8ac5c427ecd3def2bb7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "04-the-scorched-bench-courtyard",
           "title": "The scorched bench courtyard",
           "alt": "The scorched bench courtyard — oil landscape for The Warmest Person in the Room",
@@ -13019,11 +13038,6 @@
       "source": "stories/the-warmest-person-in-the-room/art/landscapes/01-brightward-college-in-cloud.png",
       "sourceSha256": "574bbae35ef23e83df90b1a2d6acdd4621abbbd4913b541f391e5bdb68ca9516",
       "reason": "The opening is inside registration; this remote campus panorama is not an observed approach and repeats the city/campus setting already represented by the explicit stair-window view."
-    },
-    {
-      "source": "stories/the-warmest-person-in-the-room/art/landscapes/03-the-south-practice-court.png",
-      "sourceSha256": "fa7a8f9bef3de1451920cf1690a85cbe9d64d8fc6757f3b0c28af9bfc5d8bcdf",
-      "reason": "The frozen south court is a brief account of last winter's evacuation, not a scene visited during the present college tour."
     },
     {
       "source": "stories/the-way-around/art/landscapes/02-the-dark-capstone.png",
