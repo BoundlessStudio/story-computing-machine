@@ -2370,6 +2370,70 @@
       ]
     },
     {
+      "slug": "only-eighteen",
+      "title": "Only Eighteen",
+      "reader": "stories/only-eighteen.html",
+      "images": [
+        {
+          "id": "01-the-twins-nursery",
+          "title": "The twins nursery",
+          "alt": "The twins nursery — oil interior study for Only Eighteen",
+          "source": "stories/only-eighteen/art/interiors/01-the-twins-nursery.png",
+          "sourceSha256": "d3acbc0d4fbee25807553e741696c874eb78124fd7bec520eb27d06270f60834",
+          "full": {
+            "path": "interiors/only-eighteen/01-the-twins-nursery-d3acbc0d4fbee258.webp",
+            "sha256": "63068393a3031925b7f9f87fa13eb6b562fe6170a2ee08a379fdfedf3ec0432e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/only-eighteen/01-the-twins-nursery-d3acbc0d4fbee258-thumb.webp",
+            "sha256": "d0f12d3647479c5568cd3a840d225c1b3d98437702958577d9342b82c477e3fe",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-ceveths-story-chair",
+          "title": "Ceveths story chair",
+          "alt": "Ceveths story chair — oil interior study for Only Eighteen",
+          "source": "stories/only-eighteen/art/interiors/02-ceveths-story-chair.png",
+          "sourceSha256": "18b4a637edaaec594c19a5d79f883c85e7d6c382aca958beb66de089374b9da6",
+          "full": {
+            "path": "interiors/only-eighteen/02-ceveths-story-chair-18b4a637edaaec59.webp",
+            "sha256": "653eb086e63e849b5ae7eea5354ee2a250b1a8a2eaad2debd3c54b0e5fca7d26",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/only-eighteen/02-ceveths-story-chair-18b4a637edaaec59-thumb.webp",
+            "sha256": "8e1c81ee7d179cd4ccc95015ebadebda08cbbf48c06310b17c19ee7907c3506b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kitchen-before-the-noon-coach",
+          "title": "Kitchen before the noon coach",
+          "alt": "Kitchen before the noon coach — oil interior study for Only Eighteen",
+          "source": "stories/only-eighteen/art/interiors/03-kitchen-before-the-noon-coach.png",
+          "sourceSha256": "00ec7996ff404eef12dda5f5d44ee58f5cc0c97fa91022e589df24680c7f4aa1",
+          "full": {
+            "path": "interiors/only-eighteen/03-kitchen-before-the-noon-coach-00ec7996ff404eef.webp",
+            "sha256": "d1bf3918de2a260bf2f9c330e0af0c72d00dce3dbddd5ea310dc513e372ab06d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/only-eighteen/03-kitchen-before-the-noon-coach-00ec7996ff404eef-thumb.webp",
+            "sha256": "0cc7efedfc890fd7bcca8643f2df5546ec0da64be881dec5000cbcbfd4d805de",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "realms",
       "title": "Realms",
       "reader": "stories/realms.html",
@@ -2939,6 +3003,70 @@
           "thumbnail": {
             "path": "interiors/gods-afraid-of-grandma/03-bedroom-in-the-rain-8410216520fe9a05-thumb.webp",
             "sha256": "fed0c04ef13ae6dce170cc9e87fd05c8e836a41d264e5d7a51423e7cf81def59",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "rooms-before-sunrise",
+      "title": "The Rooms the City Forgot",
+      "reader": "stories/rooms-before-sunrise.html",
+      "images": [
+        {
+          "id": "01-hidden-sleeping-chamber",
+          "title": "Hidden sleeping chamber",
+          "alt": "Hidden sleeping chamber — oil interior study for The Rooms the City Forgot",
+          "source": "stories/rooms-before-sunrise/art/interiors/01-hidden-sleeping-chamber.png",
+          "sourceSha256": "dbcd3380ff6752d9134b36a8fd7d5db44ed041d4800c54cf391f18b7596e8630",
+          "full": {
+            "path": "interiors/rooms-before-sunrise/01-hidden-sleeping-chamber-dbcd3380ff6752d9.webp",
+            "sha256": "4ef322ab8d0f229e476105972e78781172ae0a24612aa5c3ef50913873bcd6bc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/rooms-before-sunrise/01-hidden-sleeping-chamber-dbcd3380ff6752d9-thumb.webp",
+            "sha256": "709b5daa06e384f2de7de3b161d5ea8ab12efbe8a2d49e0e8347a5e7d0836ef5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-heat-sac-alcove",
+          "title": "Heat sac alcove",
+          "alt": "Heat sac alcove — oil interior study for The Rooms the City Forgot",
+          "source": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
+          "sourceSha256": "17fde4a32f2b67c81ab27a867a5791e8a4ddc8882e0e2212586827c0847ead44",
+          "full": {
+            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-17fde4a32f2b67c8.webp",
+            "sha256": "96cad5bb0a0cf222032b3d4cee715135475caa6f3494fb1ae26b10487fc2f863",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-17fde4a32f2b67c8-thumb.webp",
+            "sha256": "3d09a17aa6f34df08b1b1d20587fce950e781a0fc0889dfeb78e02170579261a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-service-sinus",
+          "title": "Service sinus",
+          "alt": "Service sinus — oil interior study for The Rooms the City Forgot",
+          "source": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "sourceSha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "full": {
+            "path": "interiors/rooms-before-sunrise/03-service-sinus-2c5bf0df1a157090.webp",
+            "sha256": "6f65c23a5c6079c3b8ef58931206b82d938c2ce1af54febbcf772be0770b2275",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/rooms-before-sunrise/03-service-sinus-2c5bf0df1a157090-thumb.webp",
+            "sha256": "1db372ff8ddbfba5d261f629c6417d0544e8321d7b2af5d95160a22854225e0a",
             "width": 480,
             "height": 320
           }
