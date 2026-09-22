@@ -218,6 +218,25 @@
       "reader": "stories/a-crown-for-the-endless-fire.html",
       "images": [
         {
+          "id": "01-summer-mountain-vents",
+          "title": "Summer mountain vents",
+          "alt": "Summer mountain vents — oil landscape for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/landscapes/01-summer-mountain-vents.png",
+          "sourceSha256": "57d5335d20301c58645efda4045d081d8e8962505a6d5b9924742c690601918e",
+          "full": {
+            "path": "landscapes/a-crown-for-the-endless-fire/01-summer-mountain-vents.webp",
+            "sha256": "b0aa38bd5b00e3c0ba4e53512cf2b3aeedc8e2ccb4899395a94775ce0af45498",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-crown-for-the-endless-fire/01-summer-mountain-vents-thumb.webp",
+            "sha256": "470a470db486df5e964c3fa23b325db28f2164fddb64955c79b114226ea2dacb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "02-the-endless-fire-gulf",
           "title": "The endless fire gulf",
           "alt": "The endless fire gulf — oil landscape for A Crown for the Endless Fire",
@@ -9625,11 +9644,6 @@
       "source": "stories/a-beginner-of-considerable-age/art/landscapes/05-ridge-and-cave.png",
       "sourceSha256": "5f3bec4ed11058f07c2d78f39f0234f5f33687d0430e57897c75fedae4939ad6",
       "reason": "The cave is a possible retreat Orsugal considers and declines, not a visited landscape; this additional mountain vista expands a passing thought beyond the three settings used."
-    },
-    {
-      "source": "stories/a-crown-for-the-endless-fire/art/landscapes/01-summer-mountain-vents.png",
-      "sourceSha256": "57d5335d20301c58645efda4045d081d8e8962505a6d5b9924742c690601918e",
-      "reason": "The entire story stays within mine galleries, fire gulf and service stairs. The sunny mountain exterior turns summer ventilation described from underground into an invented outdoor scene."
     },
     {
       "source": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
