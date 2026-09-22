@@ -9051,44 +9051,6 @@
       "reader": "stories/when-the-needle-finds-you.html",
       "images": [
         {
-          "id": "01-the-garage-at-midnight",
-          "title": "The garage at midnight",
-          "alt": "The garage at midnight — oil landscape for When the Needle Finds You",
-          "source": "stories/when-the-needle-finds-you/art/landscapes/01-the-garage-at-midnight.png",
-          "sourceSha256": "f2ac9ec23d3b3202e89d75789778f376a55c813b4c79a91e550be38fe2681010",
-          "full": {
-            "path": "landscapes/when-the-needle-finds-you/01-the-garage-at-midnight.webp",
-            "sha256": "d90d3f036f738aa96f7aac2db36f31eac883903d7abfe54c067e12058db4ffb0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/when-the-needle-finds-you/01-the-garage-at-midnight-thumb.webp",
-            "sha256": "e2b8b4f0f084f2b33810b1a1ba644e9ad9e3777001c74e11bc5645b8d387a08d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-shuttered-tire-shop",
-          "title": "The shuttered tire shop",
-          "alt": "The shuttered tire shop — oil landscape for When the Needle Finds You",
-          "source": "stories/when-the-needle-finds-you/art/landscapes/02-the-shuttered-tire-shop.png",
-          "sourceSha256": "fca3b4f62f0d322eada474d2311de8f1bc1cfe48ef28fc9861a08f77c56e6e87",
-          "full": {
-            "path": "landscapes/when-the-needle-finds-you/02-the-shuttered-tire-shop.webp",
-            "sha256": "c986ef5251249200acd694c12318f1316f349fa9bc484de34db68b94ce13b918",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/when-the-needle-finds-you/02-the-shuttered-tire-shop-thumb.webp",
-            "sha256": "85adaa609ba95ee8cf4eb629ce4d8a0a2623a22d7085c883654fdf08e487fc9e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-freight-yard",
           "title": "The freight yard",
           "alt": "The freight yard — oil landscape for When the Needle Finds You",
@@ -9122,25 +9084,6 @@
           "thumbnail": {
             "path": "landscapes/when-the-needle-finds-you/04-the-burned-tenement-at-dusk-thumb.webp",
             "sha256": "971b828bea2eb1f6d0ab797b54360c6871316fbd3c9799e50d063b96a4d57115",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-masthead-baths-at-night",
-          "title": "Masthead baths at night",
-          "alt": "Masthead baths at night — oil landscape for When the Needle Finds You",
-          "source": "stories/when-the-needle-finds-you/art/landscapes/05-masthead-baths-at-night.png",
-          "sourceSha256": "cd2e1cf242ab32654d0a08eab3323523c2f9385abbe96ec046e9943ba3e48f32",
-          "full": {
-            "path": "landscapes/when-the-needle-finds-you/05-masthead-baths-at-night.webp",
-            "sha256": "a82c91e9d06a950147841967d5ae70c0c50f83c36a7089b3c490982b6941fdcb",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/when-the-needle-finds-you/05-masthead-baths-at-night-thumb.webp",
-            "sha256": "da3efb36a02fdcee6ce67033be893036625c1b96ec9042bbcfa547c9a4bd66fa",
             "width": 480,
             "height": 320
           }
@@ -12362,6 +12305,21 @@
       "source": "stories/what-turned-eighteen/art/landscapes/05-rain-on-the-screened-windows.png",
       "sourceSha256": "83e8918648c1e62ab1ea6b0e49b69c293e7dd3e5748e1a64274716c9896117da",
       "reason": "The final supper is indoors with rain on a screened window. This outside neighborhood panorama moves the ending outdoors and repeats the roofline setting."
+    },
+    {
+      "source": "stories/when-the-needle-finds-you/art/landscapes/01-the-garage-at-midnight.png",
+      "sourceSha256": "f2ac9ec23d3b3202e89d75789778f376a55c813b4c79a91e550be38fe2681010",
+      "reason": "The midnight broadcast and recovery work occur inside the loading bay. This closed-garage exterior is not the scene depicted in the prose."
+    },
+    {
+      "source": "stories/when-the-needle-finds-you/art/landscapes/02-the-shuttered-tire-shop.png",
+      "sourceSha256": "fca3b4f62f0d322eada474d2311de8f1bc1cfe48ef28fc9861a08f77c56e6e87",
+      "reason": "Olt is found upstairs and the confrontation continues downstairs beside the inspection pit. The painting substitutes an empty outdoor frontage for those interior scenes."
+    },
+    {
+      "source": "stories/when-the-needle-finds-you/art/landscapes/05-masthead-baths-at-night.png",
+      "sourceSha256": "cd2e1cf242ab32654d0a08eab3323523c2f9385abbe96ec046e9943ba3e48f32",
+      "reason": "They enter Masthead Baths through the tenement's service culvert and descend into the pump chamber. No exterior approach to the baths occurs."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
