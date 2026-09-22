@@ -3315,25 +3315,6 @@
           }
         },
         {
-          "id": "02-the-blue-water-tower",
-          "title": "The blue water tower",
-          "alt": "The blue water tower — oil landscape for The Counted Road",
-          "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
-          "sourceSha256": "9cfe8a080ac36321051c3774af8cc18517f34a38b51171385befdae6cd0db6ac",
-          "full": {
-            "path": "landscapes/the-inheritance-remembers/02-the-blue-water-tower.webp",
-            "sha256": "61885ce7e9eeaeeb606903ed1fdbe29cd2faecf88f41fd27c6cb66ef7303676c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-inheritance-remembers/02-the-blue-water-tower-thumb.webp",
-            "sha256": "36303e67a7cb01b4c8e36de35843df89b432900614f48f79a92e0dc370a63b92",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-service-lane-in-rain",
           "title": "Service lane in rain",
           "alt": "Service lane in rain — oil landscape for The Counted Road",
@@ -3367,25 +3348,6 @@
           "thumbnail": {
             "path": "landscapes/the-inheritance-remembers/04-larches-at-the-culvert-thumb.webp",
             "sha256": "ba16e6214fcc68f59b77ea5d1027ea224c51435ca3b223bace4d74e742fe1155",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-after-the-rain-closure",
-          "title": "After the rain closure",
-          "alt": "After the rain closure — oil landscape for The Counted Road",
-          "source": "stories/the-inheritance-remembers/art/landscapes/05-after-the-rain-closure.png",
-          "sourceSha256": "227c4d7a1c700f70d2c105377198eb551f8eaf98ef4dcf3d21a29d174baa0950",
-          "full": {
-            "path": "landscapes/the-inheritance-remembers/05-after-the-rain-closure.webp",
-            "sha256": "2c4844830dfad7e41700b021c4b401f1a8f89aa76ac415b61ca81e8cd4a25fba",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-inheritance-remembers/05-after-the-rain-closure-thumb.webp",
-            "sha256": "34013934d3d7520163876f997c0ee127b2c64492c9666678750ccd17ba225cd8",
             "width": 480,
             "height": 320
           }
@@ -16228,6 +16190,16 @@
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
       "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
       "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
+    },
+    {
+      "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
+      "sourceSha256": "9cfe8a080ac36321051c3774af8cc18517f34a38b51171385befdae6cd0db6ac",
+      "reason": "Adds a separate scenic river-road panorama for a water tower used as a spoken navigation reference; repeats the road without the actual work/rescue setting."
+    },
+    {
+      "source": "stories/the-inheritance-remembers/art/landscapes/05-after-the-rain-closure.png",
+      "sourceSha256": "227c4d7a1c700f70d2c105377198eb551f8eaf98ef4dcf3d21a29d174baa0950",
+      "reason": "Invents a clearing sunset after the wet-line closure and repeats the culvert, changing its concrete geometry into a different pipe outlet."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
