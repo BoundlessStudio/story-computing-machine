@@ -1464,108 +1464,6 @@
       ]
     },
     {
-      "slug": "his-infernal-majesty-says-no",
-      "title": "His Infernal Majesty Says No",
-      "reader": "stories/his-infernal-majesty-says-no.html",
-      "images": [
-        {
-          "id": "01-beyond-the-palace-walls",
-          "title": "Beyond the palace walls",
-          "alt": "Beyond the palace walls — oil landscape for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/landscapes/01-beyond-the-palace-walls.png",
-          "sourceSha256": "63fa9b9e2cfde1b8383fa4bb0dfe6cfc066c4921b2f29ca30566128f291e55f2",
-          "full": {
-            "path": "landscapes/his-infernal-majesty-says-no/01-beyond-the-palace-walls.webp",
-            "sha256": "a915f05fbc2a693f38f2e11bc13ce04429a465f0a30c8edfec45a147d1cc14c1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/his-infernal-majesty-says-no/01-beyond-the-palace-walls-thumb.webp",
-            "sha256": "073c1c9333e9d98e865b10c204a75ad053d9d5d34b59ed209ecac57af150b859",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-silent-ore-road",
-          "title": "The silent ore road",
-          "alt": "The silent ore road — oil landscape for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/landscapes/02-the-silent-ore-road.png",
-          "sourceSha256": "30d48b304ac62582233a7797e6b846b33e657ec5d365d0181da7b4b03d995a63",
-          "full": {
-            "path": "landscapes/his-infernal-majesty-says-no/02-the-silent-ore-road.webp",
-            "sha256": "75f9025983d4c98a68161cb6fb8caafea3b4a7656fddba1d3fcd68f02204f440",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/his-infernal-majesty-says-no/02-the-silent-ore-road-thumb.webp",
-            "sha256": "8f0a1924727f18f15905248da79680d056ab5b1d5fdc6b2cba3aec800cab3b31",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-human-gate-approach",
-          "title": "The human gate approach",
-          "alt": "The human gate approach — oil landscape for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/landscapes/03-the-human-gate-approach.png",
-          "sourceSha256": "fedf7b3363d047ae89e83db3d167f56085dd44a6dfc6777aa0672a48c498f920",
-          "full": {
-            "path": "landscapes/his-infernal-majesty-says-no/03-the-human-gate-approach.webp",
-            "sha256": "3455c82dc98792088c685e276e082d81c2d638f33597846d7f210b06a6f945f3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/his-infernal-majesty-says-no/03-the-human-gate-approach-thumb.webp",
-            "sha256": "90d7d10fabe38dd76910defd3b915b5dd3e3488d16d42d45fdf24d41a1977ebb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-one-ground-level-window",
-          "title": "One ground level window",
-          "alt": "One ground level window — oil landscape for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/landscapes/04-one-ground-level-window.png",
-          "sourceSha256": "7566c54e4117e3c485221468cbad8a5c95fecef04191d70d44d20ad630aff628",
-          "full": {
-            "path": "landscapes/his-infernal-majesty-says-no/04-one-ground-level-window.webp",
-            "sha256": "5c2f0561e3fb22a8a0cf9d0eccb7b5de0d75e85dfe17223ba7f2be5c8c9fe645",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/his-infernal-majesty-says-no/04-one-ground-level-window-thumb.webp",
-            "sha256": "c69eb68362e04702f1ed364670bfb10a4dcf7c9ee8514eb8262ac7da74007e22",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-night-staff-lights",
-          "title": "Night staff lights",
-          "alt": "Night staff lights — oil landscape for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/landscapes/05-night-staff-lights.png",
-          "sourceSha256": "79d3fcf3480b08e3535e98d03ee226662bcc6bbe2fa60725c01e13f9f2004834",
-          "full": {
-            "path": "landscapes/his-infernal-majesty-says-no/05-night-staff-lights.webp",
-            "sha256": "5df879fa2fc58881cb6eede64278f553ebd6abdc49ab35d01e02095bad02d45e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/his-infernal-majesty-says-no/05-night-staff-lights-thumb.webp",
-            "sha256": "05c42a20d1ae8420b32ec0f49ccd32fc645a111137d196f0188517598eb42c28",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "i-really-need-a-sidekick",
       "title": "I Really Need a Sidekick",
       "reader": "stories/i-really-need-a-sidekick.html",
@@ -17841,6 +17739,31 @@
       "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
       "sourceSha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
       "reason": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/landscapes/01-beyond-the-palace-walls.png",
+      "sourceSha256": "63fa9b9e2cfde1b8383fa4bb0dfe6cfc066c4921b2f29ca30566128f291e55f2",
+      "reason": "Invents a palace exterior and infernal wilderness for an audience-hall story."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/landscapes/02-the-silent-ore-road.png",
+      "sourceSha256": "30d48b304ac62582233a7797e6b846b33e657ec5d365d0181da7b4b03d995a63",
+      "reason": "Literalizes a report of stopped ore carts as a visited quarry road."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/landscapes/03-the-human-gate-approach.png",
+      "sourceSha256": "fedf7b3363d047ae89e83db3d167f56085dd44a6dfc6777aa0672a48c498f920",
+      "reason": "Moves the gate from the end of a bare basalt corridor into a conventional outdoor campus approach."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/landscapes/04-one-ground-level-window.png",
+      "sourceSha256": "7566c54e4117e3c485221468cbad8a5c95fecef04191d70d44d20ad630aff628",
+      "reason": "Turns residence specifications discussed in paperwork into an observed garden scene."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/landscapes/05-night-staff-lights.png",
+      "sourceSha256": "79d3fcf3480b08e3535e98d03ee226662bcc6bbe2fa60725c01e13f9f2004834",
+      "reason": "Repeats the unvisited college grounds; night staffing is a residence provision, not a depicted night scene."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
