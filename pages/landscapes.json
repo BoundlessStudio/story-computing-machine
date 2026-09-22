@@ -6278,63 +6278,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-coral-frills-at-waterline",
-          "title": "Coral frills at waterline",
-          "alt": "Coral frills at waterline — oil landscape for The Rooms the City Forgot",
-          "source": "stories/rooms-before-sunrise/art/landscapes/03-coral-frills-at-waterline.png",
-          "sourceSha256": "d49dbb870700cec55936c6e76e145334e2abfb1e85b088cf4a98da20a56ea23a",
-          "full": {
-            "path": "landscapes/rooms-before-sunrise/03-coral-frills-at-waterline.webp",
-            "sha256": "dea15e1f9e1c55a9f68959a4963916462e24cbcd4cd3fcc732e2d9bddaf84bde",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/rooms-before-sunrise/03-coral-frills-at-waterline-thumb.webp",
-            "sha256": "b63ff21833057e547363fada148ff2d53ad5ab6872d1f13a4201dd127d0f9c44",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-sunrise-intake",
-          "title": "The sunrise intake",
-          "alt": "The sunrise intake — oil landscape for The Rooms the City Forgot",
-          "source": "stories/rooms-before-sunrise/art/landscapes/04-the-sunrise-intake.png",
-          "sourceSha256": "0c531ace7c6921b58e9bc1e482aa5cf3841eb7420ec58e1bcbb6a363604d6903",
-          "full": {
-            "path": "landscapes/rooms-before-sunrise/04-the-sunrise-intake.webp",
-            "sha256": "cbbef58c5b50264b1638788ba307be1a376c4cdad4f625ac53a974c418bb1d97",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/rooms-before-sunrise/04-the-sunrise-intake-thumb.webp",
-            "sha256": "96efd2bffde15114b2fa59a4a51cdf229f1a109365593cabc69e4bae9fc02149",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-light-beyond-the-sea",
-          "title": "Light beyond the sea",
-          "alt": "Light beyond the sea — oil landscape for The Rooms the City Forgot",
-          "source": "stories/rooms-before-sunrise/art/landscapes/05-light-beyond-the-sea.png",
-          "sourceSha256": "e21daf92ae94b33051802d6dcc44dc3ad87c27285e9c53cee53fe35029ebe4d1",
-          "full": {
-            "path": "landscapes/rooms-before-sunrise/05-light-beyond-the-sea.webp",
-            "sha256": "e3b8e7db9b8a83d5d9eee64a45b0a1bf0b7572b44fdc1dbe0db409e67edf06fe",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/rooms-before-sunrise/05-light-beyond-the-sea-thumb.webp",
-            "sha256": "ce398de5a3ef1a7173533a61e32721abed84df6c4be2059276d90a11a0f60db4",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -13053,6 +12996,21 @@
       "source": "stories/realms/art/landscapes/05-rain-above-queen-street.png",
       "sourceSha256": "e6331969f83cfe1d938c89ed338ecb6493d3592aa5284b2f3248b34eb22592dc",
       "reason": "Moves the portal rain out of the underground Queen Street tunnel into an ordinary rainy street; the black rain crawls upward indoors."
+    },
+    {
+      "source": "stories/rooms-before-sunrise/art/landscapes/03-coral-frills-at-waterline.png",
+      "sourceSha256": "d49dbb870700cec55936c6e76e145334e2abfb1e85b088cf4a98da20a56ea23a",
+      "reason": "Moves fresh coral frills from the tower's tier-eighteen wall to ordinary rocks at the waterline, changing the setting of the discovery."
+    },
+    {
+      "source": "stories/rooms-before-sunrise/art/landscapes/04-the-sunrise-intake.png",
+      "sourceSha256": "0c531ace7c6921b58e9bc1e482aa5cf3841eb7420ec58e1bcbb6a363604d6903",
+      "reason": "The sunrise intake is a pressure/circulation event inside the living tower, not a separate natural rocky-coast setting; repeats the sea view."
+    },
+    {
+      "source": "stories/rooms-before-sunrise/art/landscapes/05-light-beyond-the-sea.png",
+      "sourceSha256": "e21daf92ae94b33051802d6dcc44dc3ad87c27285e9c53cee53fe35029ebe4d1",
+      "reason": "A third generic shoreline view repeats image 01 without depicting a distinct source place or the rescue's exterior cut."
     },
     {
       "source": "stories/sakura-hearted/art/landscapes/01-the-silver-green-lake.png",
