@@ -3122,6 +3122,32 @@
           }
         },
         {
+          "id": "04-three-pale-quarry-steps",
+          "title": "Three pale quarry steps",
+          "alt": "Three pale quarry steps — oil landscape for One Night's Mercy",
+          "source": "pages/landscape-replacements/save-that-dragon/04-three-pale-quarry-steps.png",
+          "sourceSha256": "4c08c5ace668c3ffc444f515abcfa485d9a7172674bad6e74c84f323ad81e258",
+          "full": {
+            "path": "landscapes/save-that-dragon/04-three-pale-quarry-steps-4c08c5ace668c3ff.webp",
+            "sha256": "15f072976d59aaf4a30bb66aafd81871a48210c77517e08bc66ce69b5e64c6a0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/save-that-dragon/04-three-pale-quarry-steps-4c08c5ace668c3ff-thumb.webp",
+            "sha256": "2a263c51fc68a8934dafac7bc4ae19febd89eb444b115937d1751fd2dc3a842e",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+            "originalSha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+            "correction": "Renders the quarry as a closed circular pit with a flooded bottom. The dragon on the lowest shelf needs an open descending road to a valley lip, not a climb out of a deep enclosed bowl.",
+            "prompt": "Correct the first oil landscape for One Night's Mercy (save-that-dragon). Keep the abandoned pale limestone quarry, THREE broad descending terraces, nighttime thunderstorm and thick impasto oil paint. Essential geometry correction: the quarry is cut into an OPEN HILLSIDE, not a closed circular pit. Recompose from above the upper terrace looking obliquely across three long horizontal pale cut faces receding along the LEFT hillside. Their lowest shelf is solid damp stone with a small abandoned winch shed and timber drum frames for scale, NOT a lake. The RIGHT side of the quarry is completely OPEN to the valley. A broad CLEAR QUARRY ROAD runs straight DOWNHILL from the lowest shelf toward a visible valley-facing lip, with nothing blocking that route; beyond the lip the land falls away into storm-dark valley air. No encircling rock wall closes the road, no flooded central bowl. The SECOND reference shows the local quarry-road/valley relationship and oil rendering; use it only for geography, NOT its morning light. This image is still night: lightning briefly illuminates the three pale steps and road, blue-black rainclouds and slanting rain elsewhere. No dragon or people needed in this establishing view. No letters, diagrams or border.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-the-open-quarry-road",
           "title": "The open quarry road",
           "alt": "The open quarry road — oil landscape for One Night's Mercy",
