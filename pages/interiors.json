@@ -3202,6 +3202,70 @@
       ]
     },
     {
+      "slug": "the-city-of-eleven-foundations",
+      "title": "The City of Eleven Foundations",
+      "reader": "stories/the-city-of-eleven-foundations.html",
+      "images": [
+        {
+          "id": "01-gothic-hall",
+          "title": "Gothic hall",
+          "alt": "Gothic hall — oil interior study for The City of Eleven Foundations",
+          "source": "stories/the-city-of-eleven-foundations/art/interiors/01-gothic-hall.png",
+          "sourceSha256": "5d4a7da7222af746f6ac6b8245ea99432c9b52276f94b6ef4d409353241ea75c",
+          "full": {
+            "path": "interiors/the-city-of-eleven-foundations/01-gothic-hall-5d4a7da7222af746.webp",
+            "sha256": "e7265c929e6c42865bcb3cb5a805e51503b5946f65d101cd5a7ff3d1b9c35cb4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-city-of-eleven-foundations/01-gothic-hall-5d4a7da7222af746-thumb.webp",
+            "sha256": "f2bb122a2831df3a2439ec56ed0d86d5a43f09410552e1d34d950550c620004e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-brutalist-undercroft",
+          "title": "Brutalist undercroft",
+          "alt": "Brutalist undercroft — oil interior study for The City of Eleven Foundations",
+          "source": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
+          "sourceSha256": "a0ae051aab4f6e8389c3c08d004972709321f9aa59ffa021fe53224fe5d480e5",
+          "full": {
+            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a0ae051aab4f6e83.webp",
+            "sha256": "66d1b229e94bdc08ee705363b5b82c16058b2d23e29c4fe685cc0c8e170b574a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a0ae051aab4f6e83-thumb.webp",
+            "sha256": "f40117056db4dda239f6e5c4ac9222fa44687a13b215771ef0b59b18dfe7483f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-copper-pump-house",
+          "title": "Copper pump house",
+          "alt": "Copper pump house — oil interior study for The City of Eleven Foundations",
+          "source": "stories/the-city-of-eleven-foundations/art/interiors/03-copper-pump-house.png",
+          "sourceSha256": "96362185f5a8f39964082b5dd3c0d6bd7a07c1dd3262df5fe339c7f4d0235961",
+          "full": {
+            "path": "interiors/the-city-of-eleven-foundations/03-copper-pump-house-96362185f5a8f399.webp",
+            "sha256": "1919980389052d8db546addd370667c5bbecdb03b4d0e08e7b36cb7a331fe8fb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-city-of-eleven-foundations/03-copper-pump-house-96362185f5a8f399-thumb.webp",
+            "sha256": "bed2fee6ecd62898ada8e0b68c762aa142286b102f5a7c5903eb48f0241f1ad5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "blood-types-of-immortality",
       "title": "The Fourth Blood",
       "reader": "stories/blood-types-of-immortality.html",
@@ -3579,6 +3643,70 @@
           "thumbnail": {
             "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-ec854d303dd368de-thumb.webp",
             "sha256": "1a1f3e2826cbe6ec20d5493cd51d3aade622653aa5b2c8bb5690b71e218c1f02",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tenth-world-lesson",
+      "title": "The Tenth World Needs No Hero",
+      "reader": "stories/tenth-world-lesson.html",
+      "images": [
+        {
+          "id": "01-the-threshold-room",
+          "title": "The threshold room",
+          "alt": "The threshold room — oil interior study for The Tenth World Needs No Hero",
+          "source": "stories/tenth-world-lesson/art/interiors/01-the-threshold-room.png",
+          "sourceSha256": "cc9a1236ce9708c312fa79e987ef6402789734680d8e4dc40f6c8728af456626",
+          "full": {
+            "path": "interiors/tenth-world-lesson/01-the-threshold-room-cc9a1236ce9708c3.webp",
+            "sha256": "0a0b13da753fb7d82a3a75f21f429c0f3c0671d1a85d858206dbdac99bf4e383",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tenth-world-lesson/01-the-threshold-room-cc9a1236ce9708c3-thumb.webp",
+            "sha256": "221c3bfb888dcc61273545315f0097d1395e4f1476edf58cba530267f1042bda",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-storm-engine-tower",
+          "title": "Storm engine tower",
+          "alt": "Storm engine tower — oil interior study for The Tenth World Needs No Hero",
+          "source": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
+          "sourceSha256": "dea76220ffa1cc939daec267b32b8fb6ff2d1dd0bdcf96cbbbd2712618d8810b",
+          "full": {
+            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-dea76220ffa1cc93.webp",
+            "sha256": "a32b00205d03b4c17ab1b41c4a638cc0c227761c5df4895da37e747571c4dc2f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-dea76220ffa1cc93-thumb.webp",
+            "sha256": "d43c2d8963af6650b4d8cc5a871dd24825def88a48797a56485b21df8933aa26",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-ryos-apartment-with-open-curtains",
+          "title": "Ryos apartment with open curtains",
+          "alt": "Ryos apartment with open curtains — oil interior study for The Tenth World Needs No Hero",
+          "source": "stories/tenth-world-lesson/art/interiors/03-ryos-apartment-with-open-curtains.png",
+          "sourceSha256": "8c57b1717b7e229cf5468153f79e4802f85e4a4096a3bb25c16c94234b82c55d",
+          "full": {
+            "path": "interiors/tenth-world-lesson/03-ryos-apartment-with-open-curtains-8c57b1717b7e229c.webp",
+            "sha256": "78ba94464760744247c8cc3810ba0150d3d09c13fa00a243fd564ca135dd17b0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tenth-world-lesson/03-ryos-apartment-with-open-curtains-8c57b1717b7e229c-thumb.webp",
+            "sha256": "60d860ab2621903eb65c016ee63634b1107e3a78c8b3a422ad16b64c3f788bfb",
             "width": 480,
             "height": 320
           }
