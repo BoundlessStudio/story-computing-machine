@@ -2842,16 +2842,16 @@
           "title": "The way home",
           "alt": "The way home — oil landscape for Nine Lives of Excuses",
           "source": "pages/landscape-replacements/the-cat-who-had-enough/05-the-way-home.png",
-          "sourceSha256": "9091f89829d623d510e036e8705c55adee9ade93ddf175b58fe8fd8fb9709162",
+          "sourceSha256": "7a5373fe04b2b6c727cbd8a5e117b8fa67aac8fabcead41bd939126c7edf5fa6",
           "full": {
-            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-9091f89829d623d5.webp",
-            "sha256": "ee5ede73d529e4101f0dcd75960c3be092609feb2976edef4ef99f00050b8d18",
+            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-7a5373fe04b2b6c7.webp",
+            "sha256": "2dd6933f0717f7b3a009dcf54d6d980c9eb5a6784ea945b61c8952c65b1c457a",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-9091f89829d623d5-thumb.webp",
-            "sha256": "76d1fba94e4e09d263489e8daaa240f5c7a96f2ad83d5a985835bbdae1ca9a48",
+            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-7a5373fe04b2b6c7-thumb.webp",
+            "sha256": "c74117599d5113cf3615f17f4b6c109f97f21ff00268715ed6e5719d17062bc1",
             "width": 480,
             "height": 320
           },
@@ -2859,7 +2859,7 @@
             "originalSource": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
             "originalSha256": "eaaae4bb828395a4c3550fdc2b867d30ed8fa028db52f5eedd8f8be33d1ae40c",
             "correction": "Replaces the urban route with a rural hillside footpath and unsupported landscape.",
-            "prompt": "Correct this image for Nine Lives of Excuses (the-cat-who-had-enough). The story's journey home is through an ordinary modern CITY neighborhood, with street crossings, commercial shopfronts and delivery trucks along curbs. The old image incorrectly invents a rural hillside footpath and scattered cottages. Use that reference for thick tactile impasto oil strokes, leafy accents and cool/warm light only. Recompose a street-level urban walk home: a paved sidewalk leads past modest brick shopfronts into attached residential buildings, a marked pedestrian crossing spans a narrow asphalt street, delivery trucks stand at the curb in the middle distance, upper-floor home windows and a few street trees give a lived-in neighborhood. Chilly bright Tuesday daylight with soft violet shadows, not a golden rural sunset. The viewpoint should follow the sidewalk toward the homeward street corner, no rugged terrain, unpaved trail, mountain vista, detached country cottages or large gardens. Focus on environment without identifiable characters. A coherent traditional oil streetscape, broad physical brushwork, wide image, no readable words or logos, no border.",
+            "prompt": "Repaint reference 2 as a Canadian Group of Seven inspired oil cityscape, 1536x1024. Reference 1 is the ORIGINAL STYLE anchor only: economical broad bristle strokes, strong dark tree silhouettes, chunky ochre/green masses, bold cream/cobalt sky. Reference 2 is corrected CONTENT: keep the actual modern urban neighborhood, never restore the rural path or country cottages.\n\nPreserve an empty pedestrian sidewalk leading home past ordinary ground-floor city shops, brick apartment buildings, street trees, curb, a marked crosswalk and a couple of plain parked delivery box trucks and everyday cars in the street. Warm afternoon light. Environment only; do not add a giant cat or people. Pavement and curb must remain unmistakable urban infrastructure.\n\nSimplify every object into expressive painted shape: trucks as a few off-white and violet blocks, car as a dark rounded stroke, buildings as grouped ochre/red planes with economical dark window marks, street-tree canopy as connected bold green and yellow-green patches. Sidewalk shadows form a strong rhythmic blue-violet pattern. Let the same large deliberate brush size describe trees, vehicles and buildings. Do not meticulously render mirrors, license plates, shop goods, individual bricks or every leaf. Avoid photographic realism, tiny illustrative detailing, smooth CGI modeling, lens effects or impasto texture pasted over a realistic scene. Confident direct oil painting, strong composition readable at thumbnail size. No readable signs, lettering, logos, signature or border.",
             "generator": "image_gen"
           }
         }
