@@ -7554,6 +7554,70 @@
       ]
     },
     {
+      "slug": "the-walls-are-thick-enough",
+      "title": "The Walls Are Thick Enough",
+      "reader": "stories/the-walls-are-thick-enough.html",
+      "images": [
+        {
+          "id": "01-the-warming-room",
+          "title": "The warming room",
+          "alt": "The warming room — oil interior study for The Walls Are Thick Enough",
+          "source": "stories/the-walls-are-thick-enough/art/interiors/01-the-warming-room.png",
+          "sourceSha256": "aeb03524d3d925227b825fedd134dcccd63797bd8574d6185097261280dad634",
+          "full": {
+            "path": "interiors/the-walls-are-thick-enough/01-the-warming-room-aeb03524d3d92522.webp",
+            "sha256": "d104685f46b8d7d8e060f37299d67b237e4379f01fce8ae43a65560b3d95e930",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-walls-are-thick-enough/01-the-warming-room-aeb03524d3d92522-thumb.webp",
+            "sha256": "26aa2b07ccd4bcfcdac536f5d6cb4df8d53e7f56c1396d1856d41d5b08a150f1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-writing-table",
+          "title": "The writing table",
+          "alt": "The writing table — oil interior study for The Walls Are Thick Enough",
+          "source": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
+          "sourceSha256": "4b6f95666ebb06e1e98ed56b289a5fa48e6365f92b9a6edd5f696801a3c20ae3",
+          "full": {
+            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-4b6f95666ebb06e1.webp",
+            "sha256": "8124c5947524673621c964e520c270236c289e4fb1d7c6530e6790b3b9ddaada",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-4b6f95666ebb06e1-thumb.webp",
+            "sha256": "2ad4021974a6ef4a903662f86525b13f4d444a42f0bcd02c89ed39473cb39114",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-bridal-outer-chamber",
+          "title": "The bridal outer chamber",
+          "alt": "The bridal outer chamber — oil interior study for The Walls Are Thick Enough",
+          "source": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+          "sourceSha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904",
+          "full": {
+            "path": "interiors/the-walls-are-thick-enough/03-the-bridal-outer-chamber-4b0916f9cee89b42.webp",
+            "sha256": "b8df8fbe7d2ea51b345aaae4acab5ea6f50e7e20bfeef5da99e04eaddfc3e79b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-walls-are-thick-enough/03-the-bridal-outer-chamber-4b0916f9cee89b42-thumb.webp",
+            "sha256": "cff299060e2f908af2a42e836448d072738ad65cd5bb4dc004708c216e687859",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "deja-vu-too-late",
       "title": "The Warning Comes Second",
       "reader": "stories/deja-vu-too-late.html",
