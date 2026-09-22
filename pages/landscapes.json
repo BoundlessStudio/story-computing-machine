@@ -263,6 +263,25 @@
       "reader": "stories/a-crown-in-the-bargain.html",
       "images": [
         {
+          "id": "01-lumespire-in-rain",
+          "title": "Lumespire in rain",
+          "alt": "Lumespire in rain — oil landscape for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/landscapes/01-lumespire-in-rain.png",
+          "sourceSha256": "088f212ad8bc9d2b59450cfe3dd259a27c3349292c5aea29810c669051ed6937",
+          "full": {
+            "path": "landscapes/a-crown-in-the-bargain/01-lumespire-in-rain.webp",
+            "sha256": "cef9d883c6d4e03bfc2903478fda8f6c88b1e691025ec31140c176682f581ca1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-crown-in-the-bargain/01-lumespire-in-rain-thumb.webp",
+            "sha256": "f4772a8a300ce5974c7d1162fde7f8f88a356a91d9b0a50e6cb6ad2f4cf65286",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "04-lantern-bridge-above-the-courts",
           "title": "Lantern bridge above the courts",
           "alt": "Lantern bridge above the courts — oil landscape for A Crown in the Bargain",
@@ -9659,11 +9678,6 @@
       "source": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
       "sourceSha256": "d71ef729e62a53c4a36a2820e7cbcb2cd346257bf232155a8cd5277ed2781851",
       "reason": "The source explicitly gives the fire no visible floor or fuel. This painting supplies a visible molten river/floor and repeats the already represented gulf."
-    },
-    {
-      "source": "stories/a-crown-in-the-bargain/art/landscapes/01-lumespire-in-rain.png",
-      "sourceSha256": "088f212ad8bc9d2b59450cfe3dd259a27c3349292c5aea29810c669051ed6937",
-      "reason": "Adds an extensive waterfront city panorama not established in the story. The actual outdoor movement is the storm-exposed bridge between palace apartments and the succession spire, retained separately."
     },
     {
       "source": "stories/a-crown-in-the-bargain/art/landscapes/02-east-post-road.png",
