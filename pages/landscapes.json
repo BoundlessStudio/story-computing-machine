@@ -24,6 +24,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "04-the-first-grey-of-morning",
+          "title": "The first grey of morning",
+          "alt": "The first grey of morning — oil landscape for A Bargain with Anubis",
+          "source": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+          "sourceSha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+          "full": {
+            "path": "landscapes/the-emerald-relic/04-the-first-grey-of-morning.webp",
+            "sha256": "ccf70b9f7ffd738f87e0da4bffaa8cf96917cafb6bc66936f4fb3b51369a2fe9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-emerald-relic/04-the-first-grey-of-morning-thumb.webp",
+            "sha256": "da7e29968273c37529a250737ccec5d155785d991960cf0dada0ec27730f7a7c",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -11021,11 +11040,6 @@
       "source": "stories/the-emerald-relic/art/landscapes/02-the-bedchamber-garden.png",
       "sourceSha256": "3d2775b1d3941a057c496ed7e76787e9332444825a6e604334099ceaf539d842",
       "reason": "Redundant daylight view of the same bedchamber garden already represented by the source-supported night doorway; the action uses it at night through first gray morning."
-    },
-    {
-      "source": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
-      "sourceSha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
-      "reason": "Adds a broad river-and-mountain panorama where the source only shows first gray light across the garden doorway, and repeats the already represented garden."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
