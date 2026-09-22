@@ -8674,25 +8674,6 @@
           }
         },
         {
-          "id": "03-the-fallen-tree-and-broken-span",
-          "title": "The fallen tree and broken span",
-          "alt": "The fallen tree and broken span — oil landscape for What the Town Owed Her",
-          "source": "stories/what-the-town-owed-her/art/landscapes/03-the-fallen-tree-and-broken-span.png",
-          "sourceSha256": "ab4c3b5ff6b1bf0bc4ebdcb41d44242cda4cb5596a1f088e061b0fe8b6cb96f1",
-          "full": {
-            "path": "landscapes/what-the-town-owed-her/03-the-fallen-tree-and-broken-span.webp",
-            "sha256": "19776c0819ce274cc34e9f45b25749af9fbc60dfa602526ab18a5eff4a992412",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-the-town-owed-her/03-the-fallen-tree-and-broken-span-thumb.webp",
-            "sha256": "4670f858745ad79199350a84aa13464f81c4d58471becaf320e796a6d8591a42",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-lower-houses-in-night-water",
           "title": "Lower houses in night water",
           "alt": "Lower houses in night water — oil landscape for What the Town Owed Her",
@@ -12432,6 +12413,11 @@
       "source": "stories/what-the-gates-keep/art/landscapes/03-the-northern-tracks.png",
       "sourceSha256": "e33ae16be3f705c57765f7f8a1985c2026faa20871c4c1fbff37da21bc4366ee",
       "reason": "The northern journey and advancing companies are summarized in dialogue and recollection; this generic rocky track is not a distinct depicted scene and adds another road view beyond the actual ending departure."
+    },
+    {
+      "source": "stories/what-the-town-owed-her/art/landscapes/03-the-fallen-tree-and-broken-span.png",
+      "sourceSha256": "ab4c3b5ff6b1bf0bc4ebdcb41d44242cda4cb5596a1f088e061b0fe8b6cb96f1",
+      "reason": "The tree strikes and bridge breaks during continuing heavy rain, with Leonie carrying a light. This blue-sky sunlit view contradicts the rescue's weather and lighting."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
