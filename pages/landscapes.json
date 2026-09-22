@@ -7,6 +7,32 @@
       "reader": "stories/the-emerald-relic.html",
       "images": [
         {
+          "id": "01-level-stone-outside-the-gates",
+          "title": "Level stone outside the gates",
+          "alt": "Level stone outside the gates — oil landscape for A Bargain with Anubis",
+          "source": "pages/landscape-replacements/the-emerald-relic/01-level-stone-outside-the-gates.png",
+          "sourceSha256": "0eb5c4d8300594419a5bb759b8c35f731bf0e449d79bc71917f187a2b246dfaa",
+          "full": {
+            "path": "landscapes/the-emerald-relic/01-level-stone-outside-the-gates-0eb5c4d830059441.webp",
+            "sha256": "81c3545c899872a8e515e40ed1760d29627a8cb48797053af2f349baa746d269",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-emerald-relic/01-level-stone-outside-the-gates-0eb5c4d830059441-thumb.webp",
+            "sha256": "d33164398590d17c4818e243bd368a40b2615e51714b1494656ae96974f051cd",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
+            "originalSha256": "4b5f3e4733824c5b0c69f045050004148c34c6f2ff6d42735b0aac6513888aab",
+            "correction": "The gate encounter occurs at night as Anubis passes through torchlight; this painting gives the encounter's location bright golden daylight.",
+            "prompt": "Use case: lighting-weather edit. Asset: one horizontal 1536x1024 oil-painted landscape for the story 'A Bargain with Anubis'. Image 1 is the edit target and the concrete style/composition reference. Change the daylight into full night: the gate encounter occurs after dark and Anubis approaches through torchlight. Preserve the existing level stone approach, open bronze palace doors, stone gate and walls, planting, proportions and brushwork. Remove every trace of golden daylight, blue daytime sky and sunset. Use a deep dark night sky and localized warm torchlight from a few modest wall-mounted torches around the approach; surrounding palms and hills recede into night. Keep the scene legible through reflected torchlight, with cool dark shadows. Preserve the tactile impasto, broad Group-of-Seven-inspired oil strokes, natural material texture and landscape framing of the reference. Depict the setting as an unpeopled landscape study; do not add characters, inscriptions, captions, borders or watermark. The source story controls time and lighting; this is the same place at the correct nighttime moment.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "03-a-door-left-open",
           "title": "A door left open",
           "alt": "A door left open — oil landscape for A Bargain with Anubis",
