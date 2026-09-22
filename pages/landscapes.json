@@ -919,25 +919,6 @@
           }
         },
         {
-          "id": "02-creek-mud-and-willows",
-          "title": "Creek mud and willows",
-          "alt": "Creek mud and willows — oil landscape for By Tooth and Threshold",
-          "source": "stories/by-tooth-and-threshold/art/landscapes/02-creek-mud-and-willows.png",
-          "sourceSha256": "2d81013b2be9301bfd5a0b419ee3a02c0ff86e12071e5b7375034fc05115fbf9",
-          "full": {
-            "path": "landscapes/by-tooth-and-threshold/02-creek-mud-and-willows.webp",
-            "sha256": "d1cce1fb419039074049c5482857e15712da94b0e80dd18a6c50a17d11c28c10",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/by-tooth-and-threshold/02-creek-mud-and-willows-thumb.webp",
-            "sha256": "a1fa38004e1005ba35212c47a3283545c0f4e876093f43a2267ccac771c292a6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-culvert-below-the-old-pen",
           "title": "Culvert below the old pen",
           "alt": "Culvert below the old pen — oil landscape for By Tooth and Threshold",
@@ -18172,6 +18153,11 @@
       "source": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
       "sourceSha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
       "reason": "Adds an invented wide lakeside city panorama after the fire. The ending remains beside the theatre on the street, not at this remote viewpoint."
+    },
+    {
+      "source": "stories/by-tooth-and-threshold/art/landscapes/02-creek-mud-and-willows.png",
+      "sourceSha256": "2d81013b2be9301bfd5a0b419ee3a02c0ff86e12071e5b7375034fc05115fbf9",
+      "reason": "The creek belongs to the trap rescue four nights earlier, recounted at the mudroom door. This extra creek landscape is not a scene in the present pursuit and lacks a separate use beside the actual lane, culvert, track and drainage cut."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
