@@ -784,63 +784,6 @@
       "reader": "stories/everyone-knows-her.html",
       "images": [
         {
-          "id": "01-west-gate-before-the-festival",
-          "title": "West gate before the festival",
-          "alt": "West gate before the festival — oil landscape for All the Ways They Knew Her",
-          "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
-          "sourceSha256": "089f55d32d90f376e3f5b61bc68e5d67aa531b29df2371e9f602a410488d69e8",
-          "full": {
-            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival.webp",
-            "sha256": "74a9f9f3cd063d90089d17cec33358ad604bfbad9b6c7867da3928697c138e6c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-thumb.webp",
-            "sha256": "06668d9f7d9819a98d93b590a9e60bc31e5e6ce569271e411394a7711e4399d0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-long-mild-slope",
-          "title": "The long mild slope",
-          "alt": "The long mild slope — oil landscape for All the Ways They Knew Her",
-          "source": "stories/everyone-knows-her/art/landscapes/02-the-long-mild-slope.png",
-          "sourceSha256": "49ec3982e9283417460b0df1f15a6cb7e0a2571793e1d5f0587ce77e36b6ea70",
-          "full": {
-            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope.webp",
-            "sha256": "f9261325092758973cf0342386abe0efa26952ef4c3825b6bf0d81dc572286b4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/everyone-knows-her/02-the-long-mild-slope-thumb.webp",
-            "sha256": "3fc29fb5194e7a7a2c6e4088b9b691b3dd5ab6362bdaaa6c24a84150e68a06c4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-halfway-crossing",
-          "title": "The halfway crossing",
-          "alt": "The halfway crossing — oil landscape for All the Ways They Knew Her",
-          "source": "stories/everyone-knows-her/art/landscapes/03-the-halfway-crossing.png",
-          "sourceSha256": "34506c40cc13b64f0cfb3908ecb1f27a0e5a5fa61c1aa36ed96558e7c8cfa2ed",
-          "full": {
-            "path": "landscapes/everyone-knows-her/03-the-halfway-crossing.webp",
-            "sha256": "e9075f94febefdad653b956db47f15217366c5fcb0e2424c1533bb6512830ee4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/everyone-knows-her/03-the-halfway-crossing-thumb.webp",
-            "sha256": "265b2ba75056786b8c9c88ddaa827decffe9e519bcfed5823346a05407dc09c7",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-service-verge",
           "title": "The service verge",
           "alt": "The service verge — oil landscape for All the Ways They Knew Her",
@@ -855,25 +798,6 @@
           "thumbnail": {
             "path": "landscapes/everyone-knows-her/04-the-service-verge-thumb.webp",
             "sha256": "0431dd9f2e9f82b0e78d8989c263541ac023b7d9ebfb7fd9ccd8afab32d99e5d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-east-end-in-summer-light",
-          "title": "East end in summer light",
-          "alt": "East end in summer light — oil landscape for All the Ways They Knew Her",
-          "source": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
-          "sourceSha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
-          "full": {
-            "path": "landscapes/everyone-knows-her/05-east-end-in-summer-light.webp",
-            "sha256": "fd86964903dcf8534da23cc9a3a55768005fdc5f145f02824343260072b7051f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/everyone-knows-her/05-east-end-in-summer-light-thumb.webp",
-            "sha256": "51273cd3d91b9f3a45aa8e84f7e8a0dbb601fb12ab234fa4e498307a7ae23542",
             "width": 480,
             "height": 320
           }
@@ -18409,6 +18333,26 @@
       "source": "stories/all-accounts-due/art/landscapes/05-when-the-horizons-straighten.png",
       "sourceSha256": "304b694b66b583960c638c0c3cf33d5dc43155ecfffcec2a7909b2c67da1c159",
       "reason": "When horizons straighten, cities fall and break against mountains. This quiet, open valley with old ruins supplies an unsupported peaceful aftermath and repeats the already represented ruin landscape."
+    },
+    {
+      "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
+      "sourceSha256": "089f55d32d90f376e3f5b61bc68e5d67aa531b29df2371e9f602a410488d69e8",
+      "reason": "The story begins during the crowded festival as the gate closes. The empty before-festival view invents a different state and omits the waist-high barrier controlling the route."
+    },
+    {
+      "source": "stories/everyone-knows-her/art/landscapes/02-the-long-mild-slope.png",
+      "sourceSha256": "49ec3982e9283417460b0df1f15a6cb7e0a2571793e1d5f0587ce77e36b6ea70",
+      "reason": "The long slope has tables pressing from both curbs and only a bicycle-width passage. This wide open road with no stalls gives materially wrong route geometry."
+    },
+    {
+      "source": "stories/everyone-knows-her/art/landscapes/03-the-halfway-crossing.png",
+      "sourceSha256": "34506c40cc13b64f0cfb3908ecb1f27a0e5a5fa61c1aa36ed96558e7c8cfa2ed",
+      "reason": "The halfway crossing is a flat, barrier-controlled performer junction. This open sloping woodland road lacks that crossing and repeats the same empty avenue."
+    },
+    {
+      "source": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+      "sourceSha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+      "reason": "A fourth broad empty road/plaza view adds no useful separate setting; the east end is the family stall and children's drum lineup. Retain the distinct behind-stall verge instead."
     },
     {
       "source": "stories/kite-letters-below/art/landscapes/04-weather-over-empty-works.png",
