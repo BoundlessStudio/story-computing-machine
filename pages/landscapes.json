@@ -3287,25 +3287,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-light-returns-to-the-basin",
-          "title": "Light returns to the basin",
-          "alt": "Light returns to the basin — oil landscape for The City of Eleven Foundations",
-          "source": "stories/the-city-of-eleven-foundations/art/landscapes/05-light-returns-to-the-basin.png",
-          "sourceSha256": "ada46e42600224adc9f603cfd0f8b64ef7c89824f3db5b36a9bb2c4449172ac5",
-          "full": {
-            "path": "landscapes/the-city-of-eleven-foundations/05-light-returns-to-the-basin.webp",
-            "sha256": "32f7b663f9c3341ec1c14392d677539400e2c1fbe2cdf216812f3fcef4f88413",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-city-of-eleven-foundations/05-light-returns-to-the-basin-thumb.webp",
-            "sha256": "8886afe88bbde458a6dc091d5f06e392a6cb911a8b1314e7a5e6ad04c840935f",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -16299,6 +16280,11 @@
       "source": "stories/the-chair-at-the-back/art/landscapes/05-dawn-on-the-untraveled-road.png",
       "sourceSha256": "00af8ad400be3eda1d303eae5e5007d9ab34293158ea7efde4fd8bf364fb724c",
       "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
+    },
+    {
+      "source": "stories/the-city-of-eleven-foundations/art/landscapes/05-light-returns-to-the-basin.png",
+      "sourceSha256": "ada46e42600224adc9f603cfd0f8b64ef7c89824f3db5b36a9bb2c4449172ac5",
+      "reason": "The final panorama turns the eleven sharply distinct architectural districts into a uniform old-fashioned lakeside town, losing the defining city geometry and material boundaries."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
