@@ -5128,25 +5128,6 @@
           }
         },
         {
-          "id": "04-water-in-the-central-crease",
-          "title": "Water in the central crease",
-          "alt": "Water in the central crease — oil landscape for The Morning Her Hand Moved",
-          "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
-          "sourceSha256": "f1f91b16f8eb485b05d8d187c921c3626fb5b0e4a2ba29df541c2b96a7aa71cb",
-          "full": {
-            "path": "landscapes/the-morning-her-hand-moved/04-water-in-the-central-crease.webp",
-            "sha256": "8592adf88b2ea1837af1bebab6def2b81d4755cf2dad4aa4227173743e20d406",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-morning-her-hand-moved/04-water-in-the-central-crease-thumb.webp",
-            "sha256": "78a1429f83d80db93d654742d07850fda32c8c70a87ead55264cfc5172810dba",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-gardens-above-the-crease",
           "title": "Gardens above the crease",
           "alt": "Gardens above the crease — oil landscape for The Morning Her Hand Moved",
@@ -14667,6 +14648,11 @@
       "source": "stories/the-mercy-circuit/art/landscapes/05-dawn-over-the-docks.png",
       "sourceSha256": "5d819cbfe34610fcefd131d81c33ae784fda44533306ed32976bef8a6b564933",
       "reason": "Depicts the future dawn dock job, which has not occurred when the story ends at the Exchange."
+    },
+    {
+      "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
+      "sourceSha256": "f1f91b16f8eb485b05d8d187c921c3626fb5b0e4a2ba29df541c2b96a7aa71cb",
+      "reason": "Depicts a small placid pool in low rounded rocks with intact houses above it. The central crease instead holds floodwater and broken roofs in a vast cupped palm under raised, curving fingers; this image loses both the disaster state and defining geography."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
