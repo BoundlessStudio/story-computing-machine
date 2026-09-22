@@ -6274,6 +6274,70 @@
       ]
     },
     {
+      "slug": "the-lights-beyond",
+      "title": "The Lights Beyond",
+      "reader": "stories/the-lights-beyond.html",
+      "images": [
+        {
+          "id": "01-pirveks-flying-boat-cabin",
+          "title": "Pirveks flying boat cabin",
+          "alt": "Pirveks flying boat cabin — oil interior study for The Lights Beyond",
+          "source": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+          "sourceSha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+          "full": {
+            "path": "interiors/the-lights-beyond/01-pirveks-flying-boat-cabin-25ded6478f77625f.webp",
+            "sha256": "4922bd6510c6b54f6d436c7e1386007cad93b10be54446c598c8387a210c11a2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lights-beyond/01-pirveks-flying-boat-cabin-25ded6478f77625f-thumb.webp",
+            "sha256": "fa61726372930f596df9f96182fad68b522d9a049c38e5e2787e9c95d429754d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-barracks-strongbox",
+          "title": "The barracks strongbox",
+          "alt": "The barracks strongbox — oil interior study for The Lights Beyond",
+          "source": "stories/the-lights-beyond/art/interiors/02-the-barracks-strongbox.png",
+          "sourceSha256": "5430b7dd35b9cc5a942d78d56874c9676d50c275cdcb74ef063981a6c21339de",
+          "full": {
+            "path": "interiors/the-lights-beyond/02-the-barracks-strongbox-5430b7dd35b9cc5a.webp",
+            "sha256": "f545d1135baee78f6d31640992e832d4ff2486892fe71c06b3e96ac9dbf4f2f4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lights-beyond/02-the-barracks-strongbox-5430b7dd35b9cc5a-thumb.webp",
+            "sha256": "7c194de1d5be88bca22bb8eaef55812580d4d19fcebbe4feefb75fd26dd0fe14",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-captains-map-room",
+          "title": "The captains map room",
+          "alt": "The captains map room — oil interior study for The Lights Beyond",
+          "source": "stories/the-lights-beyond/art/interiors/03-the-captains-map-room.png",
+          "sourceSha256": "ba66d3f1cb86dbbf817bc6d2e4064425fbbdd72a905631c8c42ef4c2e2bfaf51",
+          "full": {
+            "path": "interiors/the-lights-beyond/03-the-captains-map-room-ba66d3f1cb86dbbf.webp",
+            "sha256": "ef0f77d851f024a01914960532e3b76921eb10845d0743083a7a04e7c9ed1883",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-lights-beyond/03-the-captains-map-room-ba66d3f1cb86dbbf-thumb.webp",
+            "sha256": "71985394e1cafb77bda8fcf0a65881ba9ff571e34564109e31ab62a82da3a8d5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-lions-last-constellation",
       "title": "The Lion's Last Constellation",
       "reader": "stories/the-lions-last-constellation.html",
@@ -7291,6 +7355,70 @@
           "thumbnail": {
             "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8-thumb.webp",
             "sha256": "325909acf2d1ed1f37fac1f9ba702d48f0a804857fe39b207ce88ac163d9196e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-ten-thousand-year-queen",
+      "title": "The Queen After Ten Thousand Years",
+      "reader": "stories/the-ten-thousand-year-queen.html",
+      "images": [
+        {
+          "id": "01-giza-renewal-chamber",
+          "title": "Giza renewal chamber",
+          "alt": "Giza renewal chamber — oil interior study for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/interiors/01-giza-renewal-chamber.png",
+          "sourceSha256": "3452828979c40d9cadea997702697e4ded5fd8a3feb38643f2264b15283d7af1",
+          "full": {
+            "path": "interiors/the-ten-thousand-year-queen/01-giza-renewal-chamber-3452828979c40d9c.webp",
+            "sha256": "a9ec428fecdaa494f005644866da0bb3ccce192272a2871c4aaea0ca42d83bf9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ten-thousand-year-queen/01-giza-renewal-chamber-3452828979c40d9c-thumb.webp",
+            "sha256": "e938ef5a5efc2f927b4f62ab873cdd553759b135a5cd68bb8c17dfff6d7daa65",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-alexandria-audience-hall",
+          "title": "Alexandria audience hall",
+          "alt": "Alexandria audience hall — oil interior study for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/interiors/02-alexandria-audience-hall.png",
+          "sourceSha256": "b0c2d210150570c532e130d599943e07da9648a7ffe740d714e3e02885e19e76",
+          "full": {
+            "path": "interiors/the-ten-thousand-year-queen/02-alexandria-audience-hall-b0c2d210150570c5.webp",
+            "sha256": "72ad3dfbc8807b80c6e5a33dd6d673fcdd9e02b4358b693bdca625043a32d5e0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ten-thousand-year-queen/02-alexandria-audience-hall-b0c2d210150570c5-thumb.webp",
+            "sha256": "02847886e9dc1c8c2e848df4229396d2fb2fa5ed3e75eb7742430f972cf1a4bd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-vault-two-chairs",
+          "title": "Vault two chairs",
+          "alt": "Vault two chairs — oil interior study for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+          "sourceSha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+          "full": {
+            "path": "interiors/the-ten-thousand-year-queen/03-vault-two-chairs-b65ddc6e1d3715c5.webp",
+            "sha256": "f281b512891ecd700462bbbf1551af26fa54211519b25fe4d8c235873be6da3a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-ten-thousand-year-queen/03-vault-two-chairs-b65ddc6e1d3715c5-thumb.webp",
+            "sha256": "65a37ad3379f35cf46c0aa700a40de547f01c2bc85a55aff98ee8bb219e626ab",
             "width": 480,
             "height": 320
           }
