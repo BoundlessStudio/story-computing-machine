@@ -1450,6 +1450,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "02-the-meeting-point",
+          "title": "The meeting point",
+          "alt": "The meeting point — oil landscape for An Ordinary Education",
+          "source": "pages/landscape-replacements/an-ordinary-education/02-the-meeting-point.png",
+          "sourceSha256": "cfbbc0f8da54ad8d51b2948245b5f78ddd20e57f33b71953e40e4e725066e5f9",
+          "full": {
+            "path": "landscapes/an-ordinary-education/02-the-meeting-point-cfbbc0f8da54ad8d.webp",
+            "sha256": "3e08dbb0db61d0b80e5614a6d080a0a43e6970f80080c4e74092e655f069b28b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/an-ordinary-education/02-the-meeting-point-cfbbc0f8da54ad8d-thumb.webp",
+            "sha256": "2a38216a9bd4c24e38fc2474b9257245c682a5b91c1ccb272bd66d3ae819944c",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/an-ordinary-education/art/landscapes/02-the-meeting-point.png",
+            "originalSha256": "ed382ca26e4391df5e15db226b519a54503b26c7a14255a289a74d7e4cec61e7",
+            "correction": "The agreed meeting point is outside a supermarket. The painting shows an unrelated residential lane without the defining supermarket.",
+            "prompt": "Rework this existing thick impasto oil landscape to depict the proposed pickup meeting point in An Ordinary Education. Story context: after visiting the roller rink on Friday evening, Delsie arranges to meet her guardian OUTSIDE THE SUPERMARKET so friends do not see the lift home. The old reference is only a leafy residential lane and lacks the essential supermarket. Preserve its gentle suburban setting, mature street trees, painterly violet shadows and tactile Group-of-Seven-inspired oil strokes, but replace the houses and hedges in the right middle ground with a recognizably modest neighborhood SUPERMARKET: a broad low commercial facade, large lit glass entrance and shop windows with shelving shapes visible within, a shopping-cart corral holding nested metal carts, a paved forecourt and a curbside pickup space. Compose near the entrance and curb so these details read at gallery size, with the ordinary leafy street receding left. Early evening as daylight fades, shop lights warmly visible, no dramatic night fantasy. Environment study before pickup, no characters or required car. No brand names, no readable signage, no border. Traditional thick oil paint throughout.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
