@@ -6129,6 +6129,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-dawn-over-the-docks",
+          "title": "Dawn over the docks",
+          "alt": "Dawn over the docks — oil landscape for The Mercy Circuit",
+          "source": "stories/the-mercy-circuit/art/landscapes/05-dawn-over-the-docks.png",
+          "sourceSha256": "5d819cbfe34610fcefd131d81c33ae784fda44533306ed32976bef8a6b564933",
+          "full": {
+            "path": "landscapes/the-mercy-circuit/05-dawn-over-the-docks.webp",
+            "sha256": "6bb059edb278a9fad366661a6f014976d84987e49a2897adf6197eb899a8fe3f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-mercy-circuit/05-dawn-over-the-docks-thumb.webp",
+            "sha256": "8f0159b2303cd2f6df9ec82a863c8af94c20a0f3f93afa20571191f6d18a0621",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -12158,11 +12177,6 @@
       "source": "stories/the-mercy-circuit/art/landscapes/04-the-lowered-market-gate.png",
       "sourceSha256": "0b5ab439a7907f2331cf6d2e7235333eb712f4c3d48daa2154f58a5591751a36",
       "reason": "Adds another distant view of the same market closure; image 01 already establishes the gatefall setting."
-    },
-    {
-      "source": "stories/the-mercy-circuit/art/landscapes/05-dawn-over-the-docks.png",
-      "sourceSha256": "5d819cbfe34610fcefd131d81c33ae784fda44533306ed32976bef8a6b564933",
-      "reason": "Depicts the future dawn dock job, which has not occurred when the story ends at the Exchange."
     },
     {
       "source": "stories/the-morning-her-hand-moved/art/landscapes/04-water-in-the-central-crease.png",
