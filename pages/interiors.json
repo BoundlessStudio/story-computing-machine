@@ -2626,6 +2626,70 @@
       ]
     },
     {
+      "slug": "postcard-garden",
+      "title": "The Address of Here",
+      "reader": "stories/postcard-garden.html",
+      "images": [
+        {
+          "id": "01-the-farleaf-window",
+          "title": "The farleaf window",
+          "alt": "The farleaf window — oil interior study for The Address of Here",
+          "source": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
+          "sourceSha256": "ca4aaafd39b5af4d23a158e2478cd0973a7a6ff381e2f9eb363b253f0b34c892",
+          "full": {
+            "path": "interiors/postcard-garden/01-the-farleaf-window-ca4aaafd39b5af4d.webp",
+            "sha256": "ada6b279471215613aa0628d758b3c6100b2fbf4e28d9b1e56215a34753649f6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/postcard-garden/01-the-farleaf-window-ca4aaafd39b5af4d-thumb.webp",
+            "sha256": "d33dd1d2c48d875770784bd4abe5e37cb25dadcac02154c419e28e517ffeb1e9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-reading-alcove",
+          "title": "The reading alcove",
+          "alt": "The reading alcove — oil interior study for The Address of Here",
+          "source": "stories/postcard-garden/art/interiors/02-the-reading-alcove.png",
+          "sourceSha256": "59b1a7c58cbfa7f876bb13803c2be26c56a845b7bf93cb31f8a74003e9968880",
+          "full": {
+            "path": "interiors/postcard-garden/02-the-reading-alcove-59b1a7c58cbfa7f8.webp",
+            "sha256": "eb9a9e656034375e403bd921668a3d8f7661821258517312bd667bc9e70447eb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/postcard-garden/02-the-reading-alcove-59b1a7c58cbfa7f8-thumb.webp",
+            "sha256": "8a37fff29df3268e9b67e2f59d784a46578104a44bda8e697e188a1ea66fd014",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-farleafs-forward-garden",
+          "title": "Farleafs forward garden",
+          "alt": "Farleafs forward garden — oil interior study for The Address of Here",
+          "source": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+          "sourceSha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428",
+          "full": {
+            "path": "interiors/postcard-garden/03-farleafs-forward-garden-5a2668d11f691be4.webp",
+            "sha256": "cb320f35e9b1ce77c60f2470b727e3ec060f10b19e394577ec3daf664bc5fb47",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/postcard-garden/03-farleafs-forward-garden-5a2668d11f691be4-thumb.webp",
+            "sha256": "2f46bc1807bdf71f25ce80476b6931518755a61721947dc17a3b244e71b28acc",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "anatomy-of-a-god",
       "title": "The Anatomy of a God",
       "reader": "stories/anatomy-of-a-god.html",
@@ -2747,6 +2811,70 @@
           "thumbnail": {
             "path": "interiors/apes-in-orbit/03-defence-control-rail-a06f129352b8fafc-thumb.webp",
             "sha256": "32c995d82a7ca4988d9535161008d9c90530e763de8a074183fb1e3c8f28d927",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "saint-and-demon",
+      "title": "The Beloved World",
+      "reader": "stories/saint-and-demon.html",
+      "images": [
+        {
+          "id": "01-abandoned-tollhouse",
+          "title": "Abandoned tollhouse",
+          "alt": "Abandoned tollhouse — oil interior study for The Beloved World",
+          "source": "stories/saint-and-demon/art/interiors/01-abandoned-tollhouse.png",
+          "sourceSha256": "6b62e2166070ddc265995871c34978f970359175d24308fb210c3a0db2dc8ecb",
+          "full": {
+            "path": "interiors/saint-and-demon/01-abandoned-tollhouse-6b62e2166070ddc2.webp",
+            "sha256": "57f67f2ea8b343e894670f56980338cc8a167643341f48a00a0e5fd85ef6ff27",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/saint-and-demon/01-abandoned-tollhouse-6b62e2166070ddc2-thumb.webp",
+            "sha256": "6a9b771fea1bd712eeeac348967b756a234871a61e9b24c65b00ea7601d30c52",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-tollhouse-cellar",
+          "title": "Tollhouse cellar",
+          "alt": "Tollhouse cellar — oil interior study for The Beloved World",
+          "source": "stories/saint-and-demon/art/interiors/02-tollhouse-cellar.png",
+          "sourceSha256": "fd39e8546890e615af1b94d93b3c80299b2369df496c0aaf48cbd97888c84afc",
+          "full": {
+            "path": "interiors/saint-and-demon/02-tollhouse-cellar-fd39e8546890e615.webp",
+            "sha256": "1e16a6d9b7a59081197bebe7f3361c02aef47635f05fff5533da532c1510919f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/saint-and-demon/02-tollhouse-cellar-fd39e8546890e615-thumb.webp",
+            "sha256": "502379e465815c76a635d307a976d179a5c3f68a9baae829a0ca9523f0f01770",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kitchen-with-blue-shutters",
+          "title": "Kitchen with blue shutters",
+          "alt": "Kitchen with blue shutters — oil interior study for The Beloved World",
+          "source": "stories/saint-and-demon/art/interiors/03-kitchen-with-blue-shutters.png",
+          "sourceSha256": "4bdc0ae41d3df78deecabb08d499817c37877593aea3a6f128b6d1fcaf617cde",
+          "full": {
+            "path": "interiors/saint-and-demon/03-kitchen-with-blue-shutters-4bdc0ae41d3df78d.webp",
+            "sha256": "8a71d821cd99b56f761403b27a49ecca621bddc3fd5df2298982814392b2be26",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/saint-and-demon/03-kitchen-with-blue-shutters-4bdc0ae41d3df78d-thumb.webp",
+            "sha256": "d664f0b4a4cf360e4d7ec5f9f063bad16c7524f671dbb98a6ae19f90fcb9ea02",
             "width": 480,
             "height": 320
           }
