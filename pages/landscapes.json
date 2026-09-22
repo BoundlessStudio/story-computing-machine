@@ -9518,25 +9518,6 @@
       "reader": "stories/where-the-white-elk-went.html",
       "images": [
         {
-          "id": "01-elderwealds-western-stones",
-          "title": "Elderwealds western stones",
-          "alt": "Elderwealds western stones — oil landscape for Where the White Elk Went",
-          "source": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
-          "sourceSha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
-          "full": {
-            "path": "landscapes/where-the-white-elk-went/01-elderwealds-western-stones.webp",
-            "sha256": "d3c8634284d7513806ed4dc250e3e627bcdacfcefb0f3d1b8486b666af7dae95",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/where-the-white-elk-went/01-elderwealds-western-stones-thumb.webp",
-            "sha256": "62313013ec107f3592e5cfe46dd0c163f2cfc7cd12c8c128e70cc7b5e0b5a04e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-the-road-beneath-the-thicket",
           "title": "The road beneath the thicket",
           "alt": "The road beneath the thicket — oil landscape for Where the White Elk Went",
@@ -12175,6 +12156,11 @@
       "source": "stories/where-sleep-takes-you/art/landscapes/04-light-on-the-roof-puddle.png",
       "sourceSha256": "8a17621c8517793dab9a4055b0b8d7559e224c3569f88b875b11e4dc5c88c8b6",
       "reason": "Repeats the same tar service roof and puddle already represented by the retained roof painting, without a separate location or substantial scene change."
+    },
+    {
+      "source": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+      "sourceSha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+      "reason": "The source explicitly says there is no field beyond Elderweald: young birches crowd the slope, with hazel and thorn immediately catching the elk. The painting opens a broad grassy field between the boundary stones and distant birches, replacing that continuous thicket."
     },
     {
       "source": "stories/witch-cold/art/landscapes/01-the-apartment-approach.png",
