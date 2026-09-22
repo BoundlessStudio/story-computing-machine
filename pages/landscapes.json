@@ -8568,6 +8568,25 @@
           }
         },
         {
+          "id": "03-the-washed-south-pass",
+          "title": "The washed south pass",
+          "alt": "The washed south pass — oil landscape for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/landscapes/03-the-washed-south-pass.png",
+          "sourceSha256": "7f698aea0a33c68b12175829281fe6bfcb70cbea04bb9d812220ac25b38423f8",
+          "full": {
+            "path": "landscapes/the-unfinished-sunset/03-the-washed-south-pass.webp",
+            "sha256": "5a8250e6d6882b2a1aaef605da847ae589777da852b47b0ccc31bfc62854754d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-unfinished-sunset/03-the-washed-south-pass-thumb.webp",
+            "sha256": "64a1aba2cb36c56de758f2d09453d83fc449cb584baed0656f77565bbf2f34a5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "04-light-from-the-opening-vanes",
           "title": "Light from the opening vanes",
           "alt": "Light from the opening vanes — oil landscape for The Unfinished Sunset",
@@ -12897,11 +12916,6 @@
       "source": "stories/the-trouble-with-tuesdays/art/landscapes/05-sunday-morning-before-the-call.png",
       "sourceSha256": "be7ea5457e06219782b60d2d7b1e1771ae6baa26ee40cc9dd37774f41af0f3f9",
       "reason": "The Sunday death happens while carrying groceries into the flat, and Rose awakens in Sunday light indoors. This empty outdoor street is not either scene."
-    },
-    {
-      "source": "stories/the-unfinished-sunset/art/landscapes/03-the-washed-south-pass.png",
-      "sourceSha256": "7f698aea0a33c68b12175829281fe6bfcb70cbea04bb9d812220ac25b38423f8",
-      "reason": "The washed-out south pass and missing east-field bridge are road facts Arveth reports, not a scene the narrative visits; the painting combines them into an invented separate landscape."
     },
     {
       "source": "stories/the-unfinished-sunset/art/landscapes/05-night-beyond-the-ditch.png",
