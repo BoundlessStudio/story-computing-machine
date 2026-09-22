@@ -5450,108 +5450,6 @@
       ]
     },
     {
-      "slug": "the-night-she-knew",
-      "title": "The Night She Knew",
-      "reader": "stories/the-night-she-knew.html",
-      "images": [
-        {
-          "id": "01-the-house-after-eight",
-          "title": "The house after eight",
-          "alt": "The house after eight — oil landscape for The Night She Knew",
-          "source": "stories/the-night-she-knew/art/landscapes/01-the-house-after-eight.png",
-          "sourceSha256": "b47ab704bb1b6f6bf535a59f3c6bb68a6d9e11e1631f733765abced92ac744d0",
-          "full": {
-            "path": "landscapes/the-night-she-knew/01-the-house-after-eight.webp",
-            "sha256": "0ab59cab8e0def7638d55b8679d77b27a50fac83423bff8ebffaa2dc04ab44c6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-she-knew/01-the-house-after-eight-thumb.webp",
-            "sha256": "8247d000a5dc5d27740402a9b67df336eab0fdaf39be46bb77059429a33feec6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-neighborhood-under-a-storm",
-          "title": "Neighborhood under a storm",
-          "alt": "Neighborhood under a storm — oil landscape for The Night She Knew",
-          "source": "stories/the-night-she-knew/art/landscapes/02-neighborhood-under-a-storm.png",
-          "sourceSha256": "3b2c482e92c6bbf256b06851ad2978fa11fc37c7d76399d00052fc6d38bd8546",
-          "full": {
-            "path": "landscapes/the-night-she-knew/02-neighborhood-under-a-storm.webp",
-            "sha256": "3a9c3514725281bcd69d48447aff89e8dc7f5620d90294ae40d01f8d877286a5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-she-knew/02-neighborhood-under-a-storm-thumb.webp",
-            "sha256": "03075aaa08b2426696707157ccfa116ec0a4d5db7c8058d37fe0d0264a1ef7ae",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-old-pizza-street",
-          "title": "The old pizza street",
-          "alt": "The old pizza street — oil landscape for The Night She Knew",
-          "source": "stories/the-night-she-knew/art/landscapes/03-the-old-pizza-street.png",
-          "sourceSha256": "f36eaf0bd345d1e957e767fd9c68571506befb40bf7b23b54a9b4588206724b0",
-          "full": {
-            "path": "landscapes/the-night-she-knew/03-the-old-pizza-street.webp",
-            "sha256": "384bd092336b2242473941a0efb6729b7ddd436987833d50e369bff4377e59ab",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-she-knew/03-the-old-pizza-street-thumb.webp",
-            "sha256": "69e35a8964206ac25430840ea3065e89b93d5b00565db60ac59fbef70395ac36",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-school-portable-at-dusk",
-          "title": "School portable at dusk",
-          "alt": "School portable at dusk — oil landscape for The Night She Knew",
-          "source": "stories/the-night-she-knew/art/landscapes/04-school-portable-at-dusk.png",
-          "sourceSha256": "32b9609f53a4d43be0dbf2cd2f59427bb8b1ea396cef747b708f0cab9f04b7b1",
-          "full": {
-            "path": "landscapes/the-night-she-knew/04-school-portable-at-dusk.webp",
-            "sha256": "4339e47b2744927f55c81af9ce21981f72de04df702a4acd815229a06c707bb2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-she-knew/04-school-portable-at-dusk-thumb.webp",
-            "sha256": "c0378a94ffaea66cdfd8bcad8efbb6b478c4fe32996041a732a70cbcfdb78d32",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-familiar-road-home",
-          "title": "The familiar road home",
-          "alt": "The familiar road home — oil landscape for The Night She Knew",
-          "source": "stories/the-night-she-knew/art/landscapes/05-the-familiar-road-home.png",
-          "sourceSha256": "1eb8107f39ae78d0720e6d27233912ba9b6da591895a763b65275c51d609592a",
-          "full": {
-            "path": "landscapes/the-night-she-knew/05-the-familiar-road-home.webp",
-            "sha256": "9591a3ba15ae46ed8cf13cd324d4dcd914697a92385120924c925bfe2377ad60",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-night-she-knew/05-the-familiar-road-home-thumb.webp",
-            "sha256": "39007552afd6321f971239edf38fefdb36c7c0b1d817c02457b9dd83c6cba2e2",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-ninety-year-barrier",
       "title": "The Ninety-Year Barrier",
       "reader": "stories/the-ninety-year-barrier.html",
@@ -14499,6 +14397,31 @@
       "source": "stories/the-night-harvest/art/landscapes/03-east-drain-rooflines.png",
       "sourceSha256": "e474c854d6f27bfb6e505eec734c8b2955210c9826fb14a5a95fd68caf1f2ae4",
       "reason": "The east-road houses are discussed while comparing dangerous transport routes; this separate drain-side panorama is not an enacted setting and adds another town view beside the actual yard and roads."
+    },
+    {
+      "source": "stories/the-night-she-knew/art/landscapes/01-the-house-after-eight.png",
+      "sourceSha256": "b47ab704bb1b6f6bf535a59f3c6bb68a6d9e11e1631f733765abced92ac744d0",
+      "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
+    },
+    {
+      "source": "stories/the-night-she-knew/art/landscapes/02-neighborhood-under-a-storm.png",
+      "sourceSha256": "3b2c482e92c6bbf256b06851ad2978fa11fc37c7d76399d00052fc6d38bd8546",
+      "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
+    },
+    {
+      "source": "stories/the-night-she-knew/art/landscapes/03-the-old-pizza-street.png",
+      "sourceSha256": "f36eaf0bd345d1e957e767fd9c68571506befb40bf7b23b54a9b4588206724b0",
+      "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
+    },
+    {
+      "source": "stories/the-night-she-knew/art/landscapes/04-school-portable-at-dusk.png",
+      "sourceSha256": "32b9609f53a4d43be0dbf2cd2f59427bb8b1ea396cef747b708f0cab9f04b7b1",
+      "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
+    },
+    {
+      "source": "stories/the-night-she-knew/art/landscapes/05-the-familiar-road-home.png",
+      "sourceSha256": "1eb8107f39ae78d0720e6d27233912ba9b6da591895a763b65275c51d609592a",
+      "reason": "The entire present action stays inside the house. These neighborhood, pizza-street, school and road landscapes turn brief recollections into outdoor scenes and invent exterior views absent from the story."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
