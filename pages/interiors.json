@@ -5506,6 +5506,134 @@
       ]
     },
     {
+      "slug": "the-name-the-water-took",
+      "title": "The Name the Water Took",
+      "reader": "stories/the-name-the-water-took.html",
+      "images": [
+        {
+          "id": "01-dry-wall-beneath-the-slab",
+          "title": "Dry wall beneath the slab",
+          "alt": "Dry wall beneath the slab — oil interior study for The Name the Water Took",
+          "source": "stories/the-name-the-water-took/art/interiors/01-dry-wall-beneath-the-slab.png",
+          "sourceSha256": "d1709daabb205e8e6298cab670b67b0cc2befe8ba01b6debcf9ca6596a3c2d1a",
+          "full": {
+            "path": "interiors/the-name-the-water-took/01-dry-wall-beneath-the-slab-d1709daabb205e8e.webp",
+            "sha256": "a695fceb11718f23fa25af9fd9f81604171987e270964d0abfef9c72f45164a8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-the-water-took/01-dry-wall-beneath-the-slab-d1709daabb205e8e-thumb.webp",
+            "sha256": "9f9960d1ae69675d862c38e2ccadf3952a36fbc721fdc67c2f2146943dd6f61f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-hook-makers-shelf",
+          "title": "The hook makers shelf",
+          "alt": "The hook makers shelf — oil interior study for The Name the Water Took",
+          "source": "stories/the-name-the-water-took/art/interiors/02-the-hook-makers-shelf.png",
+          "sourceSha256": "dcfcf125f9d62e03dcc7805950d66b36547751fc62515c0c5168899af17c5c5b",
+          "full": {
+            "path": "interiors/the-name-the-water-took/02-the-hook-makers-shelf-dcfcf125f9d62e03.webp",
+            "sha256": "13807ca7b04e59bd63d3f680d424be9768ac944c79a31fa05711877cfba69dd8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-the-water-took/02-the-hook-makers-shelf-dcfcf125f9d62e03-thumb.webp",
+            "sha256": "f600dd99d0cbe932a7cb1c168ff1db5a732afe9a815d50ff706cd1666f371e75",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-fig-root-at-the-shelter-exit",
+          "title": "Fig root at the shelter exit",
+          "alt": "Fig root at the shelter exit — oil interior study for The Name the Water Took",
+          "source": "stories/the-name-the-water-took/art/interiors/03-fig-root-at-the-shelter-exit.png",
+          "sourceSha256": "45b1dc67471a02ffa489421dc1f1e13f704fbe4289308748f6397eeb3a3d11a6",
+          "full": {
+            "path": "interiors/the-name-the-water-took/03-fig-root-at-the-shelter-exit-45b1dc67471a02ff.webp",
+            "sha256": "c78dd5c793a637fed8f023a6d8026ac841d21677744762084804d3ef268e3096",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-name-the-water-took/03-fig-root-at-the-shelter-exit-45b1dc67471a02ff-thumb.webp",
+            "sha256": "2ebe7844095baf6189267c78ab890810abc651f0ef50534fd7744d92ddae4724",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-night-she-knew",
+      "title": "The Night She Knew",
+      "reader": "stories/the-night-she-knew.html",
+      "images": [
+        {
+          "id": "01-kitchen-hair-dye",
+          "title": "Kitchen hair dye",
+          "alt": "Kitchen hair dye — oil interior study for The Night She Knew",
+          "source": "stories/the-night-she-knew/art/interiors/01-kitchen-hair-dye.png",
+          "sourceSha256": "37b13856bb5d552253a054f0ae4c2f33b1a8f0e4e195111ceb744099f046ff22",
+          "full": {
+            "path": "interiors/the-night-she-knew/01-kitchen-hair-dye-37b13856bb5d5522.webp",
+            "sha256": "ef6e60217139401334220cc6fef7c064a31554afb81a8628d05da1141b1b701f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-she-knew/01-kitchen-hair-dye-37b13856bb5d5522-thumb.webp",
+            "sha256": "6b4e27dd9a9605fb847f291662acf17cede7f4bcc5ef50d438596bcebdd0791d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-unlit-hallway",
+          "title": "The unlit hallway",
+          "alt": "The unlit hallway — oil interior study for The Night She Knew",
+          "source": "stories/the-night-she-knew/art/interiors/02-the-unlit-hallway.png",
+          "sourceSha256": "110ea2e102a0bdc52b703c6506a4c8295874c295de371a5bba142361bf34622b",
+          "full": {
+            "path": "interiors/the-night-she-knew/02-the-unlit-hallway-110ea2e102a0bdc5.webp",
+            "sha256": "0e113b492a093ecbb0c6abd5444fe7b44e9496dec7cecaae9b34328b2ebc99cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-she-knew/02-the-unlit-hallway-110ea2e102a0bdc5-thumb.webp",
+            "sha256": "0c37e80be3538e4894fd86572b9ad8b5198db6031cce0a412794c52616ed152e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-small-bathroom",
+          "title": "The small bathroom",
+          "alt": "The small bathroom — oil interior study for The Night She Knew",
+          "source": "stories/the-night-she-knew/art/interiors/03-the-small-bathroom.png",
+          "sourceSha256": "9ff7f49883fc8b6f8a4a0dfffd7f07e79f633a53f9aaebc158286451480790ff",
+          "full": {
+            "path": "interiors/the-night-she-knew/03-the-small-bathroom-9ff7f49883fc8b6f.webp",
+            "sha256": "de153758a14066bf47f063026768972ce6ced70f327390e3170e91a66dd03544",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-she-knew/03-the-small-bathroom-9ff7f49883fc8b6f-thumb.webp",
+            "sha256": "29e495b5d55c6be96e5d2ba60677f30755bc6d2f2fa1b7c3de99665d63a51075",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "rooms-before-sunrise",
       "title": "The Rooms the City Forgot",
       "reader": "stories/rooms-before-sunrise.html",
