@@ -8940,25 +8940,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-water-still-contained",
-          "title": "Water still contained",
-          "alt": "Water still contained — oil landscape for When Death Knelt",
-          "source": "stories/deaths-patron/art/landscapes/05-water-still-contained.png",
-          "sourceSha256": "71dbce105641f70481e481d2c96664ce847d154eb60a8d9b0e67b06835c99b63",
-          "full": {
-            "path": "landscapes/deaths-patron/05-water-still-contained.webp",
-            "sha256": "6f6f1ecf1f900dbfe1d295301c168131443ceba33fc3cae3fcb79c9759419577",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/deaths-patron/05-water-still-contained-thumb.webp",
-            "sha256": "a86b77c669ee0c64a30d61db52817b5ee27ab5551a5ccb8301385abfa61de664",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -10381,6 +10362,11 @@
       "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
       "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
       "reason": "The second dawn travels in seven unequal lines; the Glass Sea is not changed into an ordinary liquid ocean. This conventional coastal sunset with natural waves and pine shore loses both defining facts."
+    },
+    {
+      "source": "stories/deaths-patron/art/landscapes/05-water-still-contained.png",
+      "sourceSha256": "71dbce105641f70481e481d2c96664ce847d154eb60a8d9b0e67b06835c99b63",
+      "reason": "Repeats the already represented reservoir/sluice complex; its straight beam bridge conflicts with the stone bridge shown in the retained image and the source's cracking stone crossing."
     },
     {
       "source": "stories/deja-vu-too-late/art/landscapes/02-the-empty-approach.png",
