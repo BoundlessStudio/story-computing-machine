@@ -10659,6 +10659,25 @@
       "reader": "stories/when-the-needle-finds-you.html",
       "images": [
         {
+          "id": "01-the-garage-at-midnight",
+          "title": "The garage at midnight",
+          "alt": "The garage at midnight — oil landscape for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/landscapes/01-the-garage-at-midnight.png",
+          "sourceSha256": "f2ac9ec23d3b3202e89d75789778f376a55c813b4c79a91e550be38fe2681010",
+          "full": {
+            "path": "landscapes/when-the-needle-finds-you/01-the-garage-at-midnight.webp",
+            "sha256": "d90d3f036f738aa96f7aac2db36f31eac883903d7abfe54c067e12058db4ffb0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/when-the-needle-finds-you/01-the-garage-at-midnight-thumb.webp",
+            "sha256": "e2b8b4f0f084f2b33810b1a1ba644e9ad9e3777001c74e11bc5645b8d387a08d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "03-the-freight-yard",
           "title": "The freight yard",
           "alt": "The freight yard — oil landscape for When the Needle Finds You",
@@ -13324,11 +13343,6 @@
       "source": "stories/what-turned-eighteen/art/landscapes/01-warm-tiles-before-the-rain.png",
       "sourceSha256": "b29d1d6e9f79fb3bf901ae4cef6d8d707ea9f063088fee75e377a5fc04141ce5",
       "reason": "Repeats the birthday roof without the sheet windbreaks that are installed before Arlon goes up; the actual prepared roof is better represented by the retained windbreak view."
-    },
-    {
-      "source": "stories/when-the-needle-finds-you/art/landscapes/01-the-garage-at-midnight.png",
-      "sourceSha256": "f2ac9ec23d3b3202e89d75789778f376a55c813b4c79a91e550be38fe2681010",
-      "reason": "The midnight broadcast and recovery work occur inside the loading bay. This closed-garage exterior is not the scene depicted in the prose."
     },
     {
       "source": "stories/when-the-needle-finds-you/art/landscapes/02-the-shuttered-tire-shop.png",
