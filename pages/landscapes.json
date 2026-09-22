@@ -9509,44 +9509,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-empty-excavation-terraces",
-          "title": "Empty excavation terraces",
-          "alt": "Empty excavation terraces — oil landscape for Where the Mountain Used to Be",
-          "source": "stories/the-first-kingdom-was-late-on-taxes/art/landscapes/04-empty-excavation-terraces.png",
-          "sourceSha256": "d643c00ecb7db288a912d27d82c7632f5a00acd47978daa4a3ed3f914255aed5",
-          "full": {
-            "path": "landscapes/the-first-kingdom-was-late-on-taxes/04-empty-excavation-terraces.webp",
-            "sha256": "3b7e7d8a591416b6e34eb6683f3784ce00dcf6d103327cc3750619f16eab9d20",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-kingdom-was-late-on-taxes/04-empty-excavation-terraces-thumb.webp",
-            "sha256": "b500686ea96f1735a3957d98c6a4e4d45bb84ee60f715dfda78039e8fd2e0a1d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-work-lamps-at-midnight",
-          "title": "Work lamps at midnight",
-          "alt": "Work lamps at midnight — oil landscape for Where the Mountain Used to Be",
-          "source": "stories/the-first-kingdom-was-late-on-taxes/art/landscapes/05-work-lamps-at-midnight.png",
-          "sourceSha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
-          "full": {
-            "path": "landscapes/the-first-kingdom-was-late-on-taxes/05-work-lamps-at-midnight.webp",
-            "sha256": "f4db1e5b0bf1b2474a4c3dc254b2cf4288407c2134bb83a781398c31e4c74685",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-first-kingdom-was-late-on-taxes/05-work-lamps-at-midnight-thumb.webp",
-            "sha256": "edd04c0cf3254d91d874c89a83d645a090477475b52fdb23cbffe200666a4a1e",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -11088,6 +11050,16 @@
       "source": "stories/the-emerald-relic/art/landscapes/05-morning-over-the-palace-garden.png",
       "sourceSha256": "5af288c826233ed3b5e43a414ad1be26b9d3f5ab9e05ae60de6bd75c591f6370",
       "reason": "A third redundant garden view, adding golden outdoor spectacle to an ending that remains inside Taremet's bedchamber."
+    },
+    {
+      "source": "stories/the-first-kingdom-was-late-on-taxes/art/landscapes/04-empty-excavation-terraces.png",
+      "sourceSha256": "d643c00ecb7db288a912d27d82c7632f5a00acd47978daa4a3ed3f914255aed5",
+      "reason": "Another broad view of the same stepped excavation and isolated village already represented by the retained hollow painting; the sunset treatment adds no distinct setting."
+    },
+    {
+      "source": "stories/the-first-kingdom-was-late-on-taxes/art/landscapes/05-work-lamps-at-midnight.png",
+      "sourceSha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+      "reason": "The surviving village is on a stone shelf at the bottom of the vast excavation, and the departing lift looks down on its roofs. This night composition instead places the houses on an upper terrace near the rim, changing their established position."
     },
     {
       "source": "stories/the-first-people/art/landscapes/01-rain-on-black-shingle.png",
