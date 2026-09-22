@@ -1092,25 +1092,6 @@
           }
         },
         {
-          "id": "02-windblown-translucent-salt",
-          "title": "Windblown translucent salt",
-          "alt": "Windblown translucent salt — oil landscape for Daughter of the Sun",
-          "source": "stories/daughter-of-the-sun/art/landscapes/02-windblown-translucent-salt.png",
-          "sourceSha256": "812e3adfb7549c12c3c8ee67c22825df58701c235e0ed8db587fea5375d544b3",
-          "full": {
-            "path": "landscapes/daughter-of-the-sun/02-windblown-translucent-salt.webp",
-            "sha256": "ca222493e3fe75ce050d8bbb452b410ca8c0b00e631f48ca9525cf1d57a408e8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/daughter-of-the-sun/02-windblown-translucent-salt-thumb.webp",
-            "sha256": "200e5ae9c442bde68cc51499ce2feb2c37fd66d208d53c5da0ec3bc70d6496a1",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-capital-beyond-glass",
           "title": "The capital beyond glass",
           "alt": "The capital beyond glass — oil landscape for Daughter of the Sun",
@@ -1144,25 +1125,6 @@
           "thumbnail": {
             "path": "landscapes/daughter-of-the-sun/04-black-pulse-beneath-glass-thumb.webp",
             "sha256": "1816df6189ec02e17169fe44867fd3e64c6f0841e360967913c8aa8a6ad72f7d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-second-dawn",
-          "title": "The second dawn",
-          "alt": "The second dawn — oil landscape for Daughter of the Sun",
-          "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
-          "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
-          "full": {
-            "path": "landscapes/daughter-of-the-sun/05-the-second-dawn.webp",
-            "sha256": "237669756a7567a746d969aec89f21cf219c123aa45cdf37b2ffeba143052fbc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/daughter-of-the-sun/05-the-second-dawn-thumb.webp",
-            "sha256": "3152d3ffbace4f9ec8876e569f5858e2b43a755d885cef9fe0c7f395ed293821",
             "width": 480,
             "height": 320
           }
@@ -18059,6 +18021,16 @@
       "source": "stories/coiled-together/art/landscapes/05-rain-weakening-over-the-ridge.png",
       "sourceSha256": "f297139c4d02cd2dbbb50c4623c46d25fa2b34e31350590812576849b31c9c92",
       "reason": "A second broad flooded-ridge view repeats the retained upper-path torrent without adding a separate location; the ending stays sheltered at the mouth."
+    },
+    {
+      "source": "stories/daughter-of-the-sun/art/landscapes/02-windblown-translucent-salt.png",
+      "sourceSha256": "812e3adfb7549c12c3c8ee67c22825df58701c235e0ed8db587fea5375d544b3",
+      "reason": "Repeats the same Glass Sea crossing but replaces its explicitly hard, colorless dawn with a saturated orange sunrise."
+    },
+    {
+      "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
+      "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
+      "reason": "The second dawn travels in seven unequal lines; the Glass Sea is not changed into an ordinary liquid ocean. This conventional coastal sunset with natural waves and pine shore loses both defining facts."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
