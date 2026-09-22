@@ -834,6 +834,70 @@
       ]
     },
     {
+      "slug": "a-place-for-the-living",
+      "title": "A Place for the Living",
+      "reader": "stories/a-place-for-the-living.html",
+      "images": [
+        {
+          "id": "01-the-kept-place",
+          "title": "The kept place",
+          "alt": "The kept place — oil interior study for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "sourceSha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5",
+          "full": {
+            "path": "interiors/a-place-for-the-living/01-the-kept-place-ef1a90688c85026c.webp",
+            "sha256": "afc03f8e2a722b19d11e6bb666fb6c3a757ec23a390259c694e357515c3fe117",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-the-living/01-the-kept-place-ef1a90688c85026c-thumb.webp",
+            "sha256": "3fc54364f3d679ee0d12aa0f89b5d3e84e72ea55d6db30e8cd36ac68d1c4d706",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-house-hall",
+          "title": "The house hall",
+          "alt": "The house hall — oil interior study for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/interiors/02-the-house-hall.png",
+          "sourceSha256": "a37bb31aaea15d46f66e4e1e6f5f4a7bccbd8ca36f6967073a2708f8b7036ba8",
+          "full": {
+            "path": "interiors/a-place-for-the-living/02-the-house-hall-a37bb31aaea15d46.webp",
+            "sha256": "c154ae98919ea1144498c0bfee66cf7a9b25bdc4fe8ef0d79f6c071f84b84f46",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-the-living/02-the-house-hall-a37bb31aaea15d46-thumb.webp",
+            "sha256": "8e40856dae1f0b7de12d683df9e74420b999009d6c83d5e45184bd066f1cb76e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-after-the-supper",
+          "title": "After the supper",
+          "alt": "After the supper — oil interior study for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/interiors/03-after-the-supper.png",
+          "sourceSha256": "39696aab66a77d3688b9dd53103d7c8e9f8f54fb07f43b617ecc97108ec4f59a",
+          "full": {
+            "path": "interiors/a-place-for-the-living/03-after-the-supper-39696aab66a77d36.webp",
+            "sha256": "a3b7049ce62f2c868d30c619ff69211441cbb5ba6ae277279f23f1c093bbafd7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-the-living/03-after-the-supper-39696aab66a77d36-thumb.webp",
+            "sha256": "42b8e421dbd839594f1f9fc53034a4e64bf31a036ae75f64465fb93ee7ddf33e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-reasonable-declaration",
       "title": "A Reasonable Declaration",
       "reader": "stories/a-reasonable-declaration.html",
@@ -1147,6 +1211,70 @@
           "thumbnail": {
             "path": "interiors/before-she-gets-tired/03-noodle-place-52a308666e6606a0-thumb.webp",
             "sha256": "a070f6d08cb9e0fe05a5e509b1ee32df514af3ffcf6137cf4585ed54c5491b5d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "anatomy-of-a-god",
+      "title": "The Anatomy of a God",
+      "reader": "stories/anatomy-of-a-god.html",
+      "images": [
+        {
+          "id": "01-the-leaking-sanctuary",
+          "title": "The leaking sanctuary",
+          "alt": "The leaking sanctuary — oil interior study for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/interiors/01-the-leaking-sanctuary.png",
+          "sourceSha256": "5b53981c3ce4c05c8ee50c99de36eecc20a0502801c2d6d371d654fafe9d93f6",
+          "full": {
+            "path": "interiors/anatomy-of-a-god/01-the-leaking-sanctuary-5b53981c3ce4c05c.webp",
+            "sha256": "0aa7ddc4d527a44a57085655fa774c075a4de92e0ab123d4cb93a9efc3f5a5b5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/anatomy-of-a-god/01-the-leaking-sanctuary-5b53981c3ce4c05c-thumb.webp",
+            "sha256": "110fc9d1c5e36cef8df4bf5ad4922131315eb629db1b6d3d362966c1d2939c7b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-brace-landing",
+          "title": "The brace landing",
+          "alt": "The brace landing — oil interior study for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/interiors/02-the-brace-landing.png",
+          "sourceSha256": "98d99dbc7669e816a7c28d728e98ad2e1b6528b8004f6e92dd5a8f39ed69a418",
+          "full": {
+            "path": "interiors/anatomy-of-a-god/02-the-brace-landing-98d99dbc7669e816.webp",
+            "sha256": "cc94c397d2987ad3f6bc6bbb2cc4a8025cbde90077884b10ecd7ec17dc19595a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/anatomy-of-a-god/02-the-brace-landing-98d99dbc7669e816-thumb.webp",
+            "sha256": "314ebf891e33c00ccef6578fbd99c584fefb6b45e57df1fa95eecb48d25ce871",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-mineral-basin",
+          "title": "The mineral basin",
+          "alt": "The mineral basin — oil interior study for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+          "sourceSha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4",
+          "full": {
+            "path": "interiors/anatomy-of-a-god/03-the-mineral-basin-476448d48d3fc389.webp",
+            "sha256": "6f42b330232e7759a60acdcc40881df3f27bc6e993d53de491d51d06354f0df6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/anatomy-of-a-god/03-the-mineral-basin-476448d48d3fc389-thumb.webp",
+            "sha256": "7084efd5116f6cfa594568e8dc2394d7e1cd7cf995d8eecfe778b5066f0a7b5a",
             "width": 480,
             "height": 320
           }
