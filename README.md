@@ -162,6 +162,16 @@ The artwork was generated with the built-in Codex image tool using this prompt:
 Use case: ads-marketing. Create a finished landscape social link preview for Story Computing Machine, a shared-universe fiction library. Canvas: exactly 1200 by 630 pixels. On warm ivory paper, set large, exceptionally readable dark espresso literary serif type on the left: "Story" / "Computing" / "Machine" on three lines, with the smaller subtitle "Shared-Universe Fiction". On the right, illustrate an open book whose curling pages become a luminous miniature landscape of a distant city, mountains, and stars, with subtle brass mechanical details near the binding. Use refined anime-inspired pen contours, delicate hatching, restrained watercolor washes, warm amber light and muted teal accents. Editorial book-jacket composition, generous breathing room, compelling at small mobile-card size. Keep all text and important artwork comfortably inside an 80-pixel safe margin. Only the exact title and subtitle are readable text. No people, logos, URLs, watermarks, mockup frame, or interface elements.
 ```
 
+The title line spacing was refined with two built-in image edits:
+
+```text
+Use case: text-localization. Edit the supplied social preview image with one precise typography adjustment: add a little more vertical space between the three title lines "Story", "Computing", and "Machine". Preserve the exact serif typeface, font sizes, word widths, dark espresso color, left alignment, and spelling. Increase the baseline spacing by about 20 pixels per gap on the 1200×630 canvas: move "Story" about 40 pixels upward and "Computing" about 20 pixels upward, keeping "Machine" in its current position. The descenders should have visible breathing room above the following line. Keep the decorative rule, star, subtitle "Shared-Universe Fiction", paper texture, and entire book/landscape illustration in exactly their existing positions and appearance. Do not redraw, restyle, add, or remove any other elements. Preserve the 1200×630 landscape composition.
+```
+
+```text
+undefined
+```
+
 ## Local commands
 
 Install the Python dependencies, Markdown and Pillow:
