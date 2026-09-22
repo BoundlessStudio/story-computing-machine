@@ -6588,63 +6588,6 @@
       "reader": "stories/the-spiders-hunger.html",
       "images": [
         {
-          "id": "01-the-inn-yard-in-cold-air",
-          "title": "The inn yard in cold air",
-          "alt": "The inn yard in cold air — oil landscape for The Spider's Hunger",
-          "source": "stories/the-spiders-hunger/art/landscapes/01-the-inn-yard-in-cold-air.png",
-          "sourceSha256": "4cfe613e685dbaa3498e4362a90c1b364ff78974e9ba87a31c4ec5056b2ae1fa",
-          "full": {
-            "path": "landscapes/the-spiders-hunger/01-the-inn-yard-in-cold-air.webp",
-            "sha256": "076283c65c0d121d14244a569d87769ce8f296afcdf24a5486cb87cd10fccaa9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-spiders-hunger/01-the-inn-yard-in-cold-air-thumb.webp",
-            "sha256": "ed7ebfd82dff6cfb1a7812110c1b0d6ec6a489410d30502adf9be19c84c99df0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-pouchers-street",
-          "title": "The pouchers street",
-          "alt": "The pouchers street — oil landscape for The Spider's Hunger",
-          "source": "stories/the-spiders-hunger/art/landscapes/02-the-pouchers-street.png",
-          "sourceSha256": "15ff35ede8596b75629d451139d955d4a66d5af2a1dc568fa5f3ee8d25a025eb",
-          "full": {
-            "path": "landscapes/the-spiders-hunger/02-the-pouchers-street.webp",
-            "sha256": "f3b45ad7bd1f1091a124ba455e9bdac17d094e56f311b219f761cf5fd2af09f5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-spiders-hunger/02-the-pouchers-street-thumb.webp",
-            "sha256": "80d4fde6e662a401f53a30a0f3d5962976343f86a6c4a8ec831945fd3dc881db",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-low-sun-on-the-back-roof",
-          "title": "Low sun on the back roof",
-          "alt": "Low sun on the back roof — oil landscape for The Spider's Hunger",
-          "source": "stories/the-spiders-hunger/art/landscapes/03-low-sun-on-the-back-roof.png",
-          "sourceSha256": "a9e55a30711836f30048e6b43be3555dca56c50a1628af514e84448a21a4b7eb",
-          "full": {
-            "path": "landscapes/the-spiders-hunger/03-low-sun-on-the-back-roof.webp",
-            "sha256": "26ae4facdb5bc228ca7f4ce62244379e586d3a18f8ca9aedb65adf43717f2dcf",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-spiders-hunger/03-low-sun-on-the-back-roof-thumb.webp",
-            "sha256": "fb7326e55709ae0adc289012986fefa693b4277d6439006f4645738c1425e744",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-first-light-through-the-yard-gate",
           "title": "First light through the yard gate",
           "alt": "First light through the yard gate — oil landscape for The Spider's Hunger",
@@ -13621,6 +13564,21 @@
       "source": "stories/the-small-moon-rose-first/art/landscapes/05-thirtieth-street-station.png",
       "sourceSha256": "ad13d860fe2590ea95bb3235802f47e1177edcec358960378f949a54b45cb999",
       "reason": "Moves the reunion from inside 30th Street Station to a distant landscape of its exterior and railway approaches."
+    },
+    {
+      "source": "stories/the-spiders-hunger/art/landscapes/01-the-inn-yard-in-cold-air.png",
+      "sourceSha256": "4cfe613e685dbaa3498e4362a90c1b364ff78974e9ba87a31c4ec5056b2ae1fa",
+      "reason": "Repeats the inn yard already represented at the consequential dawn departure, adding unsupported snow and icicles absent from the other same-story yard views."
+    },
+    {
+      "source": "stories/the-spiders-hunger/art/landscapes/02-the-pouchers-street.png",
+      "sourceSha256": "15ff35ede8596b75629d451139d955d4a66d5af2a1dc568fa5f3ee8d25a025eb",
+      "reason": "The poucher encounter is inside the shop. A sunny coastal street and harbor are invented exterior scenery, not a depicted story location."
+    },
+    {
+      "source": "stories/the-spiders-hunger/art/landscapes/03-low-sun-on-the-back-roof.png",
+      "sourceSha256": "a9e55a30711836f30048e6b43be3555dca56c50a1628af514e84448a21a4b7eb",
+      "reason": "The back roof is mentioned as a repair task, not visited as an outdoor scene; this adds another view of the inn instead of a distinct story setting."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
