@@ -1723,63 +1723,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "03-before-dawn-at-the-corner",
-          "title": "Before dawn at the corner",
-          "alt": "Before dawn at the corner — oil landscape for Nine Lives of Excuses",
-          "source": "stories/the-cat-who-had-enough/art/landscapes/03-before-dawn-at-the-corner.png",
-          "sourceSha256": "1f5a3dc2321a3069793e560a0a9b955297b8ea3a12dc6c7106ae05f4225732fb",
-          "full": {
-            "path": "landscapes/the-cat-who-had-enough/03-before-dawn-at-the-corner.webp",
-            "sha256": "87ab755173ff2e8c844e92b74451eed6f7d1ee2f331f20542fd2f0a6299fffed",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-cat-who-had-enough/03-before-dawn-at-the-corner-thumb.webp",
-            "sha256": "7d514c86bdefd2d294dc34f0714c1478405530e2ca91d9fd156c2b37f1395fde",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-back-unit-yard",
-          "title": "The back unit yard",
-          "alt": "The back unit yard — oil landscape for Nine Lives of Excuses",
-          "source": "stories/the-cat-who-had-enough/art/landscapes/04-the-back-unit-yard.png",
-          "sourceSha256": "b45afa2a5c8ef4bc37a9fb9489077ef9707849b3cef2d821125dce33c15e4034",
-          "full": {
-            "path": "landscapes/the-cat-who-had-enough/04-the-back-unit-yard.webp",
-            "sha256": "dac66d6dbbe5698e8d5fb13d6aa73c1a2b04593f882b6fa287929666c4d63cc3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-cat-who-had-enough/04-the-back-unit-yard-thumb.webp",
-            "sha256": "e1493fca692ac5b8716f1177cd0a95f3ac32913f049ca829f34cde8a6134b4bd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-way-home",
-          "title": "The way home",
-          "alt": "The way home — oil landscape for Nine Lives of Excuses",
-          "source": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
-          "sourceSha256": "eaaae4bb828395a4c3550fdc2b867d30ed8fa028db52f5eedd8f8be33d1ae40c",
-          "full": {
-            "path": "landscapes/the-cat-who-had-enough/05-the-way-home.webp",
-            "sha256": "e27ac8bc5c269315c3ffb5fbad6dcd7473af2fe22f8b56c6978b177591a8221a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-cat-who-had-enough/05-the-way-home-thumb.webp",
-            "sha256": "95dbf367c8b184905824c529f1459e1d9971e0b26e1e665bad0df152027e0fb8",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -17510,6 +17453,21 @@
       "source": "stories/the-bat-at-the-door/art/landscapes/05-clouds-beyond-the-garden.png",
       "sourceSha256": "ff4f1a9f2b5de7e05462b0c674eaef93be4ee4f036ecfea0282d6cb6cade1da5",
       "reason": "No garden excursion or panoramic garden view occurs. This adds a third redundant storm exterior to the same house setting."
+    },
+    {
+      "source": "stories/the-cat-who-had-enough/art/landscapes/03-before-dawn-at-the-corner.png",
+      "sourceSha256": "1f5a3dc2321a3069793e560a0a9b955297b8ea3a12dc6c7106ae05f4225732fb",
+      "reason": "The before-dawn shop arrival is an imagined future the narrator does not want, not an event."
+    },
+    {
+      "source": "stories/the-cat-who-had-enough/art/landscapes/04-the-back-unit-yard.png",
+      "sourceSha256": "b45afa2a5c8ef4bc37a9fb9489077ef9707849b3cef2d821125dce33c15e4034",
+      "reason": "The back unit is discussed as an alternative lease, never visited; its overgrown yard is invented."
+    },
+    {
+      "source": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
+      "sourceSha256": "eaaae4bb828395a4c3550fdc2b867d30ed8fa028db52f5eedd8f8be33d1ae40c",
+      "reason": "Replaces the urban route with a rural hillside footpath and unsupported landscape."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
