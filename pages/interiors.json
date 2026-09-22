@@ -3266,6 +3266,70 @@
       ]
     },
     {
+      "slug": "the-door-knows-home",
+      "title": "The Door Knows Home",
+      "reader": "stories/the-door-knows-home.html",
+      "images": [
+        {
+          "id": "01-locksmith-workshop",
+          "title": "Locksmith workshop",
+          "alt": "Locksmith workshop — oil interior study for The Door Knows Home",
+          "source": "stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+          "sourceSha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09",
+          "full": {
+            "path": "interiors/the-door-knows-home/01-locksmith-workshop-4ee30d06250e24ea.webp",
+            "sha256": "e8d4691fea02e5eb650b9c042ae8a7083054e0d514fe4a3dc1ba0dd6b5bd99bf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-knows-home/01-locksmith-workshop-4ee30d06250e24ea-thumb.webp",
+            "sha256": "3ca85d804b74654c51fbdb88695097e559c914072cdf77f2fe1cf399c325badd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-barge-cabin",
+          "title": "Barge cabin",
+          "alt": "Barge cabin — oil interior study for The Door Knows Home",
+          "source": "stories/the-door-knows-home/art/interiors/02-barge-cabin.png",
+          "sourceSha256": "727f47c758c038e8175105dba1652801448f83bacbc2072f867c995e8540f0a5",
+          "full": {
+            "path": "interiors/the-door-knows-home/02-barge-cabin-727f47c758c038e8.webp",
+            "sha256": "531cd2e6c33492c4b32a49818ec3b33a5b4ef2a9f6c462d4e677a39b6f8168bf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-knows-home/02-barge-cabin-727f47c758c038e8-thumb.webp",
+            "sha256": "53f47d3bbd484406da3f333634f47bb64be28a556bc41916e5fa90b7a25adb7e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-print-shop-loft",
+          "title": "Print shop loft",
+          "alt": "Print shop loft — oil interior study for The Door Knows Home",
+          "source": "stories/the-door-knows-home/art/interiors/03-print-shop-loft.png",
+          "sourceSha256": "e0e853384d793c9ee1c34f8516cf4ac87b871109c978ea69275f73bd83a403ec",
+          "full": {
+            "path": "interiors/the-door-knows-home/03-print-shop-loft-e0e853384d793c9e.webp",
+            "sha256": "0c73811fdfe7ce4f3303805efbeb29df96a974ff342e374450e8a33b09dd3bca",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-door-knows-home/03-print-shop-loft-e0e853384d793c9e-thumb.webp",
+            "sha256": "14e498510a43aa93e179a8c4cb684dc5ea42aac1d0f4e30c8861a145507a8666",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "blood-types-of-immortality",
       "title": "The Fourth Blood",
       "reader": "stories/blood-types-of-immortality.html",
