@@ -246,108 +246,6 @@
       ]
     },
     {
-      "slug": "a-curse-before-breakfast",
-      "title": "A Curse Before Breakfast",
-      "reader": "stories/a-curse-before-breakfast.html",
-      "images": [
-        {
-          "id": "01-neighborhood-before-dawn",
-          "title": "Neighborhood before dawn",
-          "alt": "Neighborhood before dawn — oil landscape for A Curse Before Breakfast",
-          "source": "stories/a-curse-before-breakfast/art/landscapes/01-neighborhood-before-dawn.png",
-          "sourceSha256": "da41ad462d2c6526c479ce2c5d194199d00e944e167c3daff08407f94def7ac0",
-          "full": {
-            "path": "landscapes/a-curse-before-breakfast/01-neighborhood-before-dawn.webp",
-            "sha256": "3b3a31525d00b80c937a35414e24fd638ecbda274d420f93edafebd5e7867355",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-curse-before-breakfast/01-neighborhood-before-dawn-thumb.webp",
-            "sha256": "9b5afd7990e769352aed13227a63b0e4751cb498b7f97e2e01293c8aa500d4b8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-summer-back-garden",
-          "title": "Summer back garden",
-          "alt": "Summer back garden — oil landscape for A Curse Before Breakfast",
-          "source": "stories/a-curse-before-breakfast/art/landscapes/02-summer-back-garden.png",
-          "sourceSha256": "df7f9649154aaeaf280355b572a17159d69a361e10800d8523967e1bfb8fc325",
-          "full": {
-            "path": "landscapes/a-curse-before-breakfast/02-summer-back-garden.webp",
-            "sha256": "37424171528937e8433c262bc0ecd82ad627eac524db2c491a4e8ec1c8dbe341",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-curse-before-breakfast/02-summer-back-garden-thumb.webp",
-            "sha256": "dfdc15ef44195bb54ef10cb517004f9baee5f6f2ced1494bbf279700897116a2",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-school-morning-road",
-          "title": "The school morning road",
-          "alt": "The school morning road — oil landscape for A Curse Before Breakfast",
-          "source": "stories/a-curse-before-breakfast/art/landscapes/03-the-school-morning-road.png",
-          "sourceSha256": "1daf2eda042331a149aa6611c4533f23d86c9cd51d8cb353c417c25f3cd09ff7",
-          "full": {
-            "path": "landscapes/a-curse-before-breakfast/03-the-school-morning-road.webp",
-            "sha256": "926866e02c7f6e12ab1e0aa51179c421ad2bb7ee8ef08a610666cd528f902d2a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-curse-before-breakfast/03-the-school-morning-road-thumb.webp",
-            "sha256": "17fa53d54d996e604b90b89fa146e4a64a66eb79e2156300b553a0cb3455347a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-waiting-for-sunset",
-          "title": "Waiting for sunset",
-          "alt": "Waiting for sunset — oil landscape for A Curse Before Breakfast",
-          "source": "stories/a-curse-before-breakfast/art/landscapes/04-waiting-for-sunset.png",
-          "sourceSha256": "96dd6004cdefc05d3917cac7f5da550c8f2ad3df6b93208ad8724609b8c9ada1",
-          "full": {
-            "path": "landscapes/a-curse-before-breakfast/04-waiting-for-sunset.webp",
-            "sha256": "602f0ba9c2c9232213d9663a521e1979a1666233a586d7907cd950ede567bee2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-curse-before-breakfast/04-waiting-for-sunset-thumb.webp",
-            "sha256": "b18a86346eba53808415312bab107ea58354147f0d1a370d9c72a0ee8ae24fdd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-house-under-night-sky",
-          "title": "The house under night sky",
-          "alt": "The house under night sky — oil landscape for A Curse Before Breakfast",
-          "source": "stories/a-curse-before-breakfast/art/landscapes/05-the-house-under-night-sky.png",
-          "sourceSha256": "7f4aaacf4e0263b9db119da99be22d4700b1691f22d7a5c31f80ab684b51786d",
-          "full": {
-            "path": "landscapes/a-curse-before-breakfast/05-the-house-under-night-sky.webp",
-            "sha256": "d728b1ebf6bb3c31d16b85a04219cf57df88f11ffeb44d11884ad94b80757082",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-curse-before-breakfast/05-the-house-under-night-sky-thumb.webp",
-            "sha256": "ac08b6e61db53941d663bcd0e99fbc570940d9e502249fc71291efd085454963",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "a-knock-in-someone-elses-sleep",
       "title": "A Knock in Someone Else's Sleep",
       "reader": "stories/a-knock-in-someone-elses-sleep.html",
@@ -19268,6 +19166,31 @@
       "source": "stories/a-crown-in-the-bargain/art/landscapes/05-solvane-village-green.png",
       "sourceSha256": "317189d9e3afa2a1704f2a39d05737cdfd14de79bc5bfb7d5220c495aaa687a6",
       "reason": "Village greens occur only as land excluded from military cart rights in a contract. The painting turns a negotiated restriction into an invented pastoral destination."
+    },
+    {
+      "source": "stories/a-curse-before-breakfast/art/landscapes/01-neighborhood-before-dawn.png",
+      "sourceSha256": "da41ad462d2c6526c479ce2c5d194199d00e944e167c3daff08407f94def7ac0",
+      "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
+    },
+    {
+      "source": "stories/a-curse-before-breakfast/art/landscapes/02-summer-back-garden.png",
+      "sourceSha256": "df7f9649154aaeaf280355b572a17159d69a361e10800d8523967e1bfb8fc325",
+      "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
+    },
+    {
+      "source": "stories/a-curse-before-breakfast/art/landscapes/03-the-school-morning-road.png",
+      "sourceSha256": "1daf2eda042331a149aa6611c4533f23d86c9cd51d8cb353c417c25f3cd09ff7",
+      "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
+    },
+    {
+      "source": "stories/a-curse-before-breakfast/art/landscapes/04-waiting-for-sunset.png",
+      "sourceSha256": "96dd6004cdefc05d3917cac7f5da550c8f2ad3df6b93208ad8724609b8c9ada1",
+      "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
+    },
+    {
+      "source": "stories/a-curse-before-breakfast/art/landscapes/05-the-house-under-night-sky.png",
+      "sourceSha256": "7f4aaacf4e0263b9db119da99be22d4700b1691f22d7a5c31f80ab684b51786d",
+      "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
     },
     {
       "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
