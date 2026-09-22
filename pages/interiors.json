@@ -1986,6 +1986,134 @@
       ]
     },
     {
+      "slug": "life-with-a-girlfriend-with-shrinking-powers",
+      "title": "Life with a Girlfriend with Shrinking Powers",
+      "reader": "stories/life-with-a-girlfriend-with-shrinking-powers.html",
+      "images": [
+        {
+          "id": "01-kitchen-work-zone",
+          "title": "Kitchen work zone",
+          "alt": "Kitchen work zone — oil interior study for Life with a Girlfriend with Shrinking Powers",
+          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/01-kitchen-work-zone.png",
+          "sourceSha256": "d95ddccfd53dd2bea85724144a086834be5918086879727dd6211a7708d3e31c",
+          "full": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/01-kitchen-work-zone-d95ddccfd53dd2be.webp",
+            "sha256": "fb9877cda879f064a1ca307becd249e9d4fbd3639d654ba256897cc56628495e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/01-kitchen-work-zone-d95ddccfd53dd2be-thumb.webp",
+            "sha256": "174bb944873d54886ee96854811c95718656706e65c5f712063461b7a3aa1b7c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-beneath-the-sink",
+          "title": "Beneath the sink",
+          "alt": "Beneath the sink — oil interior study for Life with a Girlfriend with Shrinking Powers",
+          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
+          "sourceSha256": "6ed7fe44301334bfb68c3b330cc0708b250ccea55871deb30991064efe2587fe",
+          "full": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-6ed7fe44301334bf.webp",
+            "sha256": "b9f32e4c02f142596590cc62ea61b8b638043b8291ed9fef676c980f727ba869",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-6ed7fe44301334bf-thumb.webp",
+            "sha256": "6875923afe5ce96170bb21e2cb4984841e14bb3979ea9e768daa421496c203a7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-after-the-water-stops",
+          "title": "After the water stops",
+          "alt": "After the water stops — oil interior study for Life with a Girlfriend with Shrinking Powers",
+          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/03-after-the-water-stops.png",
+          "sourceSha256": "50654d09e5456001de74299b2968b6e64ebeab66e5be75805241d113bc341afa",
+          "full": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/03-after-the-water-stops-50654d09e5456001.webp",
+            "sha256": "e43c00a5688425272566b47c1eea345a27aa6aa491fed7314a795503f3a068b6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/03-after-the-water-stops-50654d09e5456001-thumb.webp",
+            "sha256": "ee13cc3f476eabb6c5852c9206690f137123cb6cd1b18d7e56307d56f281c369",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lightning-carries-one",
+      "title": "Lightning Carries One",
+      "reader": "stories/lightning-carries-one.html",
+      "images": [
+        {
+          "id": "01-old-departures-hall",
+          "title": "Old departures hall",
+          "alt": "Old departures hall — oil interior study for Lightning Carries One",
+          "source": "stories/lightning-carries-one/art/interiors/01-old-departures-hall.png",
+          "sourceSha256": "681d8706aca67014ae32c2c2c9e1e2f58fe1947c8257d52d167b2c1c6787e332",
+          "full": {
+            "path": "interiors/lightning-carries-one/01-old-departures-hall-681d8706aca67014.webp",
+            "sha256": "12e7aa5e189a1208d5f26bc0881a86eb39d37adabeb9b917dad7daa046a17856",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/lightning-carries-one/01-old-departures-hall-681d8706aca67014-thumb.webp",
+            "sha256": "93793f76bf2a1e427f9e2e8e03d12b7a4e0cde86b4924b9adedeb5443d46ca4a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-bus-window-in-the-rain",
+          "title": "Bus window in the rain",
+          "alt": "Bus window in the rain — oil interior study for Lightning Carries One",
+          "source": "stories/lightning-carries-one/art/interiors/02-bus-window-in-the-rain.png",
+          "sourceSha256": "6be1dbab22e97e81a899f7c76b12809feac152270692108b2a73873f79cd122a",
+          "full": {
+            "path": "interiors/lightning-carries-one/02-bus-window-in-the-rain-6be1dbab22e97e81.webp",
+            "sha256": "677f834c06d3174345edc2d9af7dce64f6515eada622a8ae31633af943ccd0ec",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/lightning-carries-one/02-bus-window-in-the-rain-6be1dbab22e97e81-thumb.webp",
+            "sha256": "3df0ff9ab101b15063741c0f05806877a9ed486136ad496a85b890061177298a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-seats-beneath-the-dead-clock",
+          "title": "Seats beneath the dead clock",
+          "alt": "Seats beneath the dead clock — oil interior study for Lightning Carries One",
+          "source": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
+          "sourceSha256": "f2aa82db8225fb04f59b88250458aa7573fa22033cd698dc59b659c1e3ad13bd",
+          "full": {
+            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-f2aa82db8225fb04.webp",
+            "sha256": "24986957c5dd1d320a4354f28e15806c823347d9e326154e6aade86567ed6480",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-f2aa82db8225fb04-thumb.webp",
+            "sha256": "7eca6b6c324e30befa107f525975d4483d81ae6294fe46851cbced503d12df11",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "no-need-to-worry",
       "title": "No Need to Worry",
       "reader": "stories/no-need-to-worry.html",
