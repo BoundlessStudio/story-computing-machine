@@ -1822,63 +1822,6 @@
           }
         },
         {
-          "id": "02-clouds-over-the-vegetable-district",
-          "title": "Clouds over the vegetable district",
-          "alt": "Clouds over the vegetable district — oil landscape for Not About That",
-          "source": "stories/not-about-that/art/landscapes/02-clouds-over-the-vegetable-district.png",
-          "sourceSha256": "731ca8adb56b88f1e4389b0c810509f9afe9028ec1c63594005e5bbc5f40c2ec",
-          "full": {
-            "path": "landscapes/not-about-that/02-clouds-over-the-vegetable-district.webp",
-            "sha256": "9c5e39b74a2b150736864aa88cd914ec9616e6d3e5d5e70de543bba4fe26f3fa",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/not-about-that/02-clouds-over-the-vegetable-district-thumb.webp",
-            "sha256": "400d9839e9bf46a514c7cc4cd778d71d13a4ae132bdf606d9f38a6133469e824",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-basil-above-the-courtyard",
-          "title": "Basil above the courtyard",
-          "alt": "Basil above the courtyard — oil landscape for Not About That",
-          "source": "stories/not-about-that/art/landscapes/03-basil-above-the-courtyard.png",
-          "sourceSha256": "1e51981c58704aa7486281a854c994ec344916b422d1879516cc7cce92ed568b",
-          "full": {
-            "path": "landscapes/not-about-that/03-basil-above-the-courtyard.webp",
-            "sha256": "261f6394618f9e50cdb4565a8f8f3dbe9b1ea007e9c3e383e17e8eeb93a20559",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/not-about-that/03-basil-above-the-courtyard-thumb.webp",
-            "sha256": "883ffd995bc5c6fe51b0c48aa0f45428101de8d58aef02766f6a0586b58263d3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-amber-windows-violet-dusk",
-          "title": "Amber windows violet dusk",
-          "alt": "Amber windows violet dusk — oil landscape for Not About That",
-          "source": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
-          "sourceSha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
-          "full": {
-            "path": "landscapes/not-about-that/04-amber-windows-violet-dusk.webp",
-            "sha256": "5923d6d599557e12347a7e14150a355f6d2c8d31358022e57ec7fc5a081b08b3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/not-about-that/04-amber-windows-violet-dusk-thumb.webp",
-            "sha256": "7f6d681d2100093f58b9991596a0405f4b86c19947bb0bcc8e9d4ef848273f59",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "05-the-quiet-roof-afterward",
           "title": "The quiet roof afterward",
           "alt": "The quiet roof afterward — oil landscape for Not About That",
@@ -17263,6 +17206,21 @@
       "source": "stories/no-one-like-me/art/landscapes/05-the-light-left-on.png",
       "sourceSha256": "c1b4cb850fcf5437501cb2a03d2419729850674e33002558fccb2f507c3347ad",
       "reason": "Invents outdoor landscapes for an entirely indoor theatre story. Morning and midnight elsewhere refer to unseen broadcast audiences; the remaining scenes externalize stage colors or lyrics."
+    },
+    {
+      "source": "stories/not-about-that/art/landscapes/02-clouds-over-the-vegetable-district.png",
+      "sourceSha256": "731ca8adb56b88f1e4389b0c810509f9afe9028ec1c63594005e5bbc5f40c2ec",
+      "reason": "Moves to a vegetable-district rooftop never visited; clouds are merely seen being towed toward that district."
+    },
+    {
+      "source": "stories/not-about-that/art/landscapes/03-basil-above-the-courtyard.png",
+      "sourceSha256": "1e51981c58704aa7486281a854c994ec344916b422d1879516cc7cce92ed568b",
+      "reason": "Changes the basil planter from a narrow balcony above the laundry courtyard into a broad open rooftop terrace."
+    },
+    {
+      "source": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
+      "sourceSha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
+      "reason": "Introduces a lake, mountainous horizon and steep-roofed monumental city inconsistent with the surrounding flat-roofed urban block; the retained dusk roof supplies the supported change of light."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
