@@ -6594,6 +6594,70 @@
       ]
     },
     {
+      "slug": "what-she-remembered-of-peace",
+      "title": "What She Remembered of Peace",
+      "reader": "stories/what-she-remembered-of-peace.html",
+      "images": [
+        {
+          "id": "01-the-kitchen-latch",
+          "title": "The kitchen latch",
+          "alt": "The kitchen latch — oil interior study for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/interiors/01-the-kitchen-latch.png",
+          "sourceSha256": "b72e519db6086bf5ce822b63db0e78e68f513e487b29988b9c7ef88baf9d5c8c",
+          "full": {
+            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-b72e519db6086bf5.webp",
+            "sha256": "cf4228f2f5e6f96fd9429f0ee2fd1ddbda45e8f139e99c2b6356d338afa06e43",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-b72e519db6086bf5-thumb.webp",
+            "sha256": "8a15b21bccd95a6ad8c40fc4fb10dc0ded40c0a82e64a32fa95cfec9685dded8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-emergency-stair",
+          "title": "The emergency stair",
+          "alt": "The emergency stair — oil interior study for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/interiors/02-the-emergency-stair.png",
+          "sourceSha256": "6f94ed2f4bdb6f356ef2aa7a426154933ae07aa7ce93868a61c4f0e5d9dbe51a",
+          "full": {
+            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-6f94ed2f4bdb6f35.webp",
+            "sha256": "ebbc3395beb85377b4d30b078c56fcd1495b33788b5ab97964c9158541ba57cd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-6f94ed2f4bdb6f35-thumb.webp",
+            "sha256": "e68ca7e3fb6558f49c53329777a86b5f24a01eeecdf718517902634328bcd845",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-blankets-at-the-shelter",
+          "title": "Blankets at the shelter",
+          "alt": "Blankets at the shelter — oil interior study for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+          "sourceSha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+          "full": {
+            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd.webp",
+            "sha256": "1e3906aa8df1b18bb299f4136f0b1cd8f20d2ad17480296cc6080439bff8cc80",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd-thumb.webp",
+            "sha256": "4ef4bf7c26e83e4cb1e9255d1a99c8992fc0069cbe761d6b31a8c612249c7d15",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "deaths-patron",
       "title": "When Death Knelt",
       "reader": "stories/deaths-patron.html",
@@ -6651,6 +6715,70 @@
           "thumbnail": {
             "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3-thumb.webp",
             "sha256": "df0323b71079e2dc61eea5c01fa4348db36fee15d06d154dac57514e8c52d6be",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "when-the-needle-finds-you",
+      "title": "When the Needle Finds You",
+      "reader": "stories/when-the-needle-finds-you.html",
+      "images": [
+        {
+          "id": "01-the-shuttered-tire-shop",
+          "title": "The shuttered tire shop",
+          "alt": "The shuttered tire shop — oil interior study for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+          "sourceSha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+          "full": {
+            "path": "interiors/when-the-needle-finds-you/01-the-shuttered-tire-shop-f2f8c762f21b43c8.webp",
+            "sha256": "3ab24a5233257707a574d7ccd7f59765d8bd3a674189d59028510fbcc80fad6c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-needle-finds-you/01-the-shuttered-tire-shop-f2f8c762f21b43c8-thumb.webp",
+            "sha256": "22c8fee8c18e50ee8cdc0d4b869d2c405913a298843cdb01ce3bd94489356ddc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-drained-pool",
+          "title": "The drained pool",
+          "alt": "The drained pool — oil interior study for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/interiors/02-the-drained-pool.png",
+          "sourceSha256": "980acfa035fcfb72e8eba0d049844b311a418688aae1d4dc0d8a38f3c222b719",
+          "full": {
+            "path": "interiors/when-the-needle-finds-you/02-the-drained-pool-980acfa035fcfb72.webp",
+            "sha256": "949a2256914a19a0e690b08da41feb943f96c1bbbe95d7ed42cad0c6f7a1a640",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-needle-finds-you/02-the-drained-pool-980acfa035fcfb72-thumb.webp",
+            "sha256": "1124d48f18773fc9806dbd5e02e2001ab14bf3625bc6884985c834ce8c042e38",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-pump-chamber-studio",
+          "title": "The pump chamber studio",
+          "alt": "The pump chamber studio — oil interior study for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+          "sourceSha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+          "full": {
+            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-b13634be36cd2457.webp",
+            "sha256": "7b541f1b4204a384704e430bcc5a57c230139bfedeacf6c7fdabd9ecab641e30",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-b13634be36cd2457-thumb.webp",
+            "sha256": "529cbab22e14350eccda28bd50fac257544d900a708c342038a7f8a9c720c73f",
             "width": 480,
             "height": 320
           }
