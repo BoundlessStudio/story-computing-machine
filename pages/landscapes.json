@@ -8649,6 +8649,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-after-the-studio-closes",
+          "title": "After the studio closes",
+          "alt": "After the studio closes — oil landscape for The Unfixed Face",
+          "source": "stories/the-unfixed-face/art/landscapes/05-after-the-studio-closes.png",
+          "sourceSha256": "a457097cbe23fde81ebbf62d501a3f14bc283aa10f568c43b985d76be036fe71",
+          "full": {
+            "path": "landscapes/the-unfixed-face/05-after-the-studio-closes.webp",
+            "sha256": "96ccd57a1206f3e1399dd8012913bb2b5962792389de3c4f43c2d5f2df5aa7e6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-unfixed-face/05-after-the-studio-closes-thumb.webp",
+            "sha256": "c246a50ee18b5904d7df55ce87e6f231aa85e59c262dd18b57ace0f4f1156eeb",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -12931,11 +12950,6 @@
       "source": "stories/the-unfixed-face/art/landscapes/03-western-windows-at-sunset.png",
       "sourceSha256": "2ac55460565dd7ec75711f03251401d94f0c783315748a7571206739c7f2e7e1",
       "reason": "Repeats the same studio windows and evening street already represented by the retained exterior, without a new setting."
-    },
-    {
-      "source": "stories/the-unfixed-face/art/landscapes/05-after-the-studio-closes.png",
-      "sourceSha256": "a457097cbe23fde81ebbf62d501a3f14bc283aa10f568c43b985d76be036fe71",
-      "reason": "A third studio-neighborhood view from an invented elevated viewpoint adds no distinct story setting."
     },
     {
       "source": "stories/the-unoffered-hand/art/landscapes/03-apple-bough-against-the-wall.png",
