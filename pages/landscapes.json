@@ -1464,108 +1464,6 @@
       ]
     },
     {
-      "slug": "clerics-infernal-ex",
-      "title": "Hello, Lover",
-      "reader": "stories/clerics-infernal-ex.html",
-      "images": [
-        {
-          "id": "01-first-cold-autumn-rain",
-          "title": "First cold autumn rain",
-          "alt": "First cold autumn rain — oil landscape for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/landscapes/01-first-cold-autumn-rain.png",
-          "sourceSha256": "d941fbe9d7b3326c11adbec8c58a08c053c2a6912b8ef4a1f0f9bb5145fb402e",
-          "full": {
-            "path": "landscapes/clerics-infernal-ex/01-first-cold-autumn-rain.webp",
-            "sha256": "d8c7153852c7c76e74d93408b5e29aa95a7b41b20b6a44c5b9b2778a5401eb96",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/clerics-infernal-ex/01-first-cold-autumn-rain-thumb.webp",
-            "sha256": "22351d7e8902c5714989989a81998172b7accc206e9955242f7dda88c31d1284",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-rain-swollen-ford",
-          "title": "The rain swollen ford",
-          "alt": "The rain swollen ford — oil landscape for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/landscapes/02-the-rain-swollen-ford.png",
-          "sourceSha256": "ebe736fe5d1b0a864dddc653311345f294e463a3ea82a57b868ff7003bdaf634",
-          "full": {
-            "path": "landscapes/clerics-infernal-ex/02-the-rain-swollen-ford.webp",
-            "sha256": "49055cdfe2a9a7763b8146a0efdfbe9bab35ef57eff5a024e49499e317032131",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/clerics-infernal-ex/02-the-rain-swollen-ford-thumb.webp",
-            "sha256": "e5257b3b798f68c8a86bf4be9e075ec0a0e6380da618fcb7dba6022826b0da8f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-road-to-common-shelter",
-          "title": "Road to common shelter",
-          "alt": "Road to common shelter — oil landscape for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/landscapes/03-road-to-common-shelter.png",
-          "sourceSha256": "8f890ab5803d166bc29f87a6f94b5b7bc8e8cc766a757d307eb30a743d3c71d7",
-          "full": {
-            "path": "landscapes/clerics-infernal-ex/03-road-to-common-shelter.webp",
-            "sha256": "6174b6ebfbea441bf2e116932bcd95879a03d6636bbe7e4844ac890b1f3b5f5f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/clerics-infernal-ex/03-road-to-common-shelter-thumb.webp",
-            "sha256": "acc6c2816b69847b5a1965ca8cc90796db6548975e0e8d9881d248002acf1a00",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-cool-morning-at-the-shelter",
-          "title": "Cool morning at the shelter",
-          "alt": "Cool morning at the shelter — oil landscape for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/landscapes/04-cool-morning-at-the-shelter.png",
-          "sourceSha256": "d88df0624602abd8d046137a7d4acccbe807a72d9b7c6cba05b1242ff59d4a74",
-          "full": {
-            "path": "landscapes/clerics-infernal-ex/04-cool-morning-at-the-shelter.webp",
-            "sha256": "34bf68a90927187764a18fa35067509be949bf1a95754ca6c0c5ea68ec4a908c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/clerics-infernal-ex/04-cool-morning-at-the-shelter-thumb.webp",
-            "sha256": "a93d00b76297ae8b71855015ab3413b57ac7a5bceb89f5f4150a4847fef1115a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-ford-after-rain",
-          "title": "The ford after rain",
-          "alt": "The ford after rain — oil landscape for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/landscapes/05-the-ford-after-rain.png",
-          "sourceSha256": "fba864a0587a750a37a60e9b07d77c9fa6d6bd854ca6f08551febb4ee2b5ddc7",
-          "full": {
-            "path": "landscapes/clerics-infernal-ex/05-the-ford-after-rain.webp",
-            "sha256": "ae4aeaec1f184f1d54ee2024a0c8a6aea402505c3f90f73c45fc0d12ddae4b50",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/clerics-infernal-ex/05-the-ford-after-rain-thumb.webp",
-            "sha256": "acde80db15b7126adae95778baa30ac0a876bb4ee467ee21719dff0af94ce82b",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "his-infernal-majesty-says-no",
       "title": "His Infernal Majesty Says No",
       "reader": "stories/his-infernal-majesty-says-no.html",
@@ -17853,6 +17751,31 @@
       "source": "stories/captive-couples/art/landscapes/05-heat-above-the-neighborhood.png",
       "sourceSha256": "666b14e3e16fafbcd0cf68b37f3116c8120a7ab13088f84845ce5eb843d1a5ef",
       "reason": "The action stays inside the transfer station and then a hospital assessment room. These neighborhood, station, clinic and service-road exteriors invent outdoor scenes; the orange sun in the hottest-night image also contradicts the 2:13am opening."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/landscapes/01-first-cold-autumn-rain.png",
+      "sourceSha256": "d941fbe9d7b3326c11adbec8c58a08c053c2a6912b8ef4a1f0f9bb5145fb402e",
+      "reason": "Invents an exterior chapel panorama for a scene inside the crowded sanctuary; the rain is heard and admitted at its door."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/landscapes/02-the-rain-swollen-ford.png",
+      "sourceSha256": "ebe736fe5d1b0a864dddc653311345f294e463a3ea82a57b868ff7003bdaf634",
+      "reason": "The ford is mentioned only in a three-day-old account of a stolen hinge, not visited in this story."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/landscapes/03-road-to-common-shelter.png",
+      "sourceSha256": "8f890ab5803d166bc29f87a6f94b5b7bc8e8cc766a757d307eb30a743d3c71d7",
+      "reason": "Invents an outdoor approach to the shelter instead of the indoor sanctuary and room-to-room portal."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/landscapes/04-cool-morning-at-the-shelter.png",
+      "sourceSha256": "d88df0624602abd8d046137a7d4acccbe807a72d9b7c6cba05b1242ff59d4a74",
+      "reason": "The ending admits cool air over the sanctuary sill; it does not relocate to a hillside overlooking a valley."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/landscapes/05-the-ford-after-rain.png",
+      "sourceSha256": "fba864a0587a750a37a60e9b07d77c9fa6d6bd854ca6f08551febb4ee2b5ddc7",
+      "reason": "Repeats the offstage ford and invents a post-rain landscape scene."
     },
     {
       "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
