@@ -3858,44 +3858,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-upper-landing-above-the-smoke",
-          "title": "Upper landing above the smoke",
-          "alt": "Upper landing above the smoke — oil landscape for The Five-Minute Warranty",
-          "source": "stories/the-five-minute-warranty/art/landscapes/04-upper-landing-above-the-smoke.png",
-          "sourceSha256": "f13480adc970b22be35af28d1057850237a86d20ab9036ac7c35304284d4577f",
-          "full": {
-            "path": "landscapes/the-five-minute-warranty/04-upper-landing-above-the-smoke.webp",
-            "sha256": "1af66da1bbafbbc4a853e7de2b1263f5123b0e5857ec4ac80d8b1e155cc19522",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-five-minute-warranty/04-upper-landing-above-the-smoke-thumb.webp",
-            "sha256": "d8827576745634a32362a81f74e2dae5e87cd1e6493d12fb416fd91789be8d5f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-quarry-at-noon",
-          "title": "The quarry at noon",
-          "alt": "The quarry at noon — oil landscape for The Five-Minute Warranty",
-          "source": "stories/the-five-minute-warranty/art/landscapes/05-the-quarry-at-noon.png",
-          "sourceSha256": "53b89a86218484b2e09705cee4c086ec0523d728b0488d54db9041eef0abcd3e",
-          "full": {
-            "path": "landscapes/the-five-minute-warranty/05-the-quarry-at-noon.webp",
-            "sha256": "e179d077d52a8abbdda051efcc86d0897ea0147ca1a83d26b3e9069752e2fb91",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-five-minute-warranty/05-the-quarry-at-noon-thumb.webp",
-            "sha256": "94df64b24de5da071129736435e8e174dd5eed40dd14edc42c0db37c6fa84f4e",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15686,6 +15648,16 @@
       "source": "stories/the-first-wound/art/landscapes/05-dark-mountain-of-memory.png",
       "sourceSha256": "5e53d2030fe4aeea9bcb790dea0cdd1afdf159f348e42ac756f57337c2982358",
       "reason": "Moves the decisive memory outside the mountain even though the prose expressly confines it to a corridor cut through dark rock."
+    },
+    {
+      "source": "stories/the-five-minute-warranty/art/landscapes/04-upper-landing-above-the-smoke.png",
+      "sourceSha256": "f13480adc970b22be35af28d1057850237a86d20ab9036ac7c35304284d4577f",
+      "reason": "Repeats the quarry and smoke already represented by the overall lift and kiln-yard views."
+    },
+    {
+      "source": "stories/the-five-minute-warranty/art/landscapes/05-the-quarry-at-noon.png",
+      "sourceSha256": "53b89a86218484b2e09705cee4c086ec0523d728b0488d54db9041eef0abcd3e",
+      "reason": "Invents a quiet noon aftermath and adds another quarry panorama; the ending inventories the still-broken lift after the lower station collapses into fire."
     },
     {
       "source": "stories/the-inheritance-remembers/art/landscapes/02-the-blue-water-tower.png",
