@@ -3409,6 +3409,32 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "05-the-valley-remembered",
+          "title": "The Valley Remembered in Miniature",
+          "alt": "The Valley Remembered in Miniature — corrected oil landscape for Sakura-Hearted",
+          "source": "pages/landscape-replacements/sakura-hearted/05-the-valley-remembered.png",
+          "sourceSha256": "d2cbab8a5ac7164082db2ac6cd131729edd2659e27a7feb4237f0899317a5d92",
+          "full": {
+            "path": "landscapes/sakura-hearted/05-the-valley-remembered-d2cbab8a5ac71640.webp",
+            "sha256": "288a986253c87a59d92ca775b649051fd796ce2eeeecaba85c6368fdab45b40d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/sakura-hearted/05-the-valley-remembered-d2cbab8a5ac71640-thumb.webp",
+            "sha256": "2c4ea86792a64035f85e518a781cb7832bab6ff6d5523d40f5a5228a0015b303",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/sakura-hearted/art/landscapes/05-the-valley-remembered.png",
+            "originalSha256": "e0afe7529631a897d39fb509036af4b1b2a265eb69d7d3c627c95a41f80bfba6",
+            "correction": "Fourth repetitive view of a campsite valley remembered while riding an indoor amusement machine.",
+            "prompt": "Make a very small content correction inside this finished Canadian Group of Seven inspired oil painting. Preserve the entire composition, the broad simplified brushwork, warm ochre/blue-violet palette, floating miniature planet and its clear air gap, apartment, round city window, chair, bookcase and two-seat moon ride.\n\nOn the tiny campsite on the planet, LEFT OF THE GREEN TENT, the two brown objects on twigs currently resemble upright cups. Replace ONLY those two objects with TWO TINY UPSIDE-DOWN HIKING BOOTS drying on the twigs. Each boot's shaft opening points DOWN over the top of its twig, with the closed heel, sole and projecting rounded toe at the TOP. Clearly boot-shaped inverted silhouettes, not cups, flowerpots, wine glasses or upright boots. Keep them small and simply brushed, similar size and exact location to the current two objects. Move the tiny red pan slightly into the shelter UNDER the adjacent rock lip if necessary, with a short handle, not a large stockpot.\n\nDo not enlarge these details or add close-up insets. Keep the rest of the painting unchanged. No return to photographic miniature or polished 3D rendering; maintain economical directional oil-brush marks across every surface. 1536x1024, no words or border.",
+            "generator": "image_gen"
+          }
         }
       ]
     },
