@@ -1028,25 +1028,6 @@
       "reader": "stories/coiled-together.html",
       "images": [
         {
-          "id": "01-north-road-before-the-storm",
-          "title": "North road before the storm",
-          "alt": "North road before the storm — oil landscape for Coiled Together",
-          "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
-          "sourceSha256": "5290edda64954befbd32b51321dbb9dbcdbe1e1dc4734d5995daaea2dac34d7c",
-          "full": {
-            "path": "landscapes/coiled-together/01-north-road-before-the-storm.webp",
-            "sha256": "b051b658c53957cd7f9166ab3ebf2bae39b790fc74bcae1d3aaab064cf829801",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/coiled-together/01-north-road-before-the-storm-thumb.webp",
-            "sha256": "8aa4aeb1736c3f67687eee4f3ed1bac27accef69770d9965f6ca10a4d500a5c3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-black-water-under-stone",
           "title": "Black water under stone",
           "alt": "Black water under stone — oil landscape for Coiled Together",
@@ -1080,44 +1061,6 @@
           "thumbnail": {
             "path": "landscapes/coiled-together/03-the-upper-path-in-flood-thumb.webp",
             "sha256": "3fb1eedfb00d0bf2f9d684483e5eb255757070a1e9e55a740f8464cf50cb6dd9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-teethlike-rocks-at-the-mouth",
-          "title": "Teethlike rocks at the mouth",
-          "alt": "Teethlike rocks at the mouth — oil landscape for Coiled Together",
-          "source": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
-          "sourceSha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
-          "full": {
-            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth.webp",
-            "sha256": "102913085bc7c6180162244831992682ec4614c247a1af66f95017171eb7fb0a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/coiled-together/04-teethlike-rocks-at-the-mouth-thumb.webp",
-            "sha256": "ca429b67e094ed8a02a160ce07d5a939cd63cc190fe5a6661eb9da3de939ece0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-rain-weakening-over-the-ridge",
-          "title": "Rain weakening over the ridge",
-          "alt": "Rain weakening over the ridge — oil landscape for Coiled Together",
-          "source": "stories/coiled-together/art/landscapes/05-rain-weakening-over-the-ridge.png",
-          "sourceSha256": "f297139c4d02cd2dbbb50c4623c46d25fa2b34e31350590812576849b31c9c92",
-          "full": {
-            "path": "landscapes/coiled-together/05-rain-weakening-over-the-ridge.webp",
-            "sha256": "f6f7388a31d765517c51497df7a9abf5d0a45f4262d48d85ff659c947c1bd198",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/coiled-together/05-rain-weakening-over-the-ridge-thumb.webp",
-            "sha256": "43b84e822a9422fcc1aa910be0f245a581156e3ee0323b423c905930e1b25ce6",
             "width": 480,
             "height": 320
           }
@@ -18101,6 +18044,21 @@
       "source": "stories/by-tooth-and-threshold/art/landscapes/02-creek-mud-and-willows.png",
       "sourceSha256": "2d81013b2be9301bfd5a0b419ee3a02c0ff86e12071e5b7375034fc05115fbf9",
       "reason": "The creek belongs to the trap rescue four nights earlier, recounted at the mudroom door. This extra creek landscape is not a scene in the present pursuit and lacks a separate use beside the actual lane, culvert, track and drainage cut."
+    },
+    {
+      "source": "stories/coiled-together/art/landscapes/01-north-road-before-the-storm.png",
+      "sourceSha256": "5290edda64954befbd32b51321dbb9dbcdbe1e1dc4734d5995daaea2dac34d7c",
+      "reason": "The north-road approach is only a fragmentary memory after waking underground. This extra exterior establishes an excursion the narrated action does not show."
+    },
+    {
+      "source": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+      "sourceSha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+      "reason": "The path directly outside the upper mouth is a brown torrent too deep to cross. This clear dry threshold looking into a distant valley removes the immediate flood barrier that keeps everyone trapped."
+    },
+    {
+      "source": "stories/coiled-together/art/landscapes/05-rain-weakening-over-the-ridge.png",
+      "sourceSha256": "f297139c4d02cd2dbbb50c4623c46d25fa2b34e31350590812576849b31c9c92",
+      "reason": "A second broad flooded-ridge view repeats the retained upper-path torrent without adding a separate location; the ending stays sheltered at the mouth."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
