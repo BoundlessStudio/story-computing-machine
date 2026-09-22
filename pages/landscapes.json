@@ -6479,25 +6479,6 @@
       "reader": "stories/the-sky-remembers-us-return.html",
       "images": [
         {
-          "id": "01-the-dead-ithrom-plain",
-          "title": "The dead ithrom plain",
-          "alt": "The dead ithrom plain — oil landscape for The Sky Remembers Us",
-          "source": "stories/the-sky-remembers-us-return/art/landscapes/01-the-dead-ithrom-plain.png",
-          "sourceSha256": "81cec58ea75f91db350b02d327802ec9bea18b8ca9871fc8b1b0a2ef00b6117b",
-          "full": {
-            "path": "landscapes/the-sky-remembers-us-return/01-the-dead-ithrom-plain.webp",
-            "sha256": "03238ddac77af9d99a79c9e2de97a3fa9c528e700585588f48ff7222cdc32fc2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-sky-remembers-us-return/01-the-dead-ithrom-plain-thumb.webp",
-            "sha256": "5956d9afc8d706676a626cfc8d4fda2200e7bc5145e8466b7d9efb3aa7633d74",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-brightness-above-the-northern-chasm",
           "title": "Brightness above the northern chasm",
           "alt": "Brightness above the northern chasm — oil landscape for The Sky Remembers Us",
@@ -13691,6 +13672,11 @@
       "source": "stories/the-sister-behind-her-smile/art/landscapes/05-first-red-light-at-valsor.png",
       "sourceSha256": "bbb8df07d4870fc33a3b74d5c885b456a3a352a11888a67baecade7c73fe9e62",
       "reason": "All enacted scenes are inside Valsor Palace. Canal petitioners and the dismissed maid's departure are discussed, while red dawn touches an indoor window frame; none establishes these palace, canal or garden exteriors."
+    },
+    {
+      "source": "stories/the-sky-remembers-us-return/art/landscapes/01-the-dead-ithrom-plain.png",
+      "sourceSha256": "81cec58ea75f91db350b02d327802ec9bea18b8ca9871fc8b1b0a2ef00b6117b",
+      "reason": "A third view of Ithrom's same ruined plain repeats the more specific chasm/brightness and bronze-dawn states in images 02 and 05."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
