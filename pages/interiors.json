@@ -4930,6 +4930,134 @@
       ]
     },
     {
+      "slug": "the-hollow-cask",
+      "title": "The Hollow Cask",
+      "reader": "stories/the-hollow-cask.html",
+      "images": [
+        {
+          "id": "01-hall-under-repair",
+          "title": "Hall under repair",
+          "alt": "Hall under repair — oil interior study for The Hollow Cask",
+          "source": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+          "sourceSha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+          "full": {
+            "path": "interiors/the-hollow-cask/01-hall-under-repair-a5fd298f50b1af43.webp",
+            "sha256": "ba6551878a3b669b17c2f1ddecec917dafe24077f8b16752e169ce4c695dca95",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hollow-cask/01-hall-under-repair-a5fd298f50b1af43-thumb.webp",
+            "sha256": "7915550b9b9ac28f1f7ba468d61ae32c25974c6da933e1982b82fb055e91c2fa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-ancient-cask-cellar",
+          "title": "Ancient cask cellar",
+          "alt": "Ancient cask cellar — oil interior study for The Hollow Cask",
+          "source": "stories/the-hollow-cask/art/interiors/02-ancient-cask-cellar.png",
+          "sourceSha256": "6304fc082c53fa9de83d370f1ab5f8a3ad815c5e446ccaa45b63a7b99fe28f38",
+          "full": {
+            "path": "interiors/the-hollow-cask/02-ancient-cask-cellar-6304fc082c53fa9d.webp",
+            "sha256": "939f2ca1d1ab1ff59f7e8a38fee72efae7881180461f82ba52d6cd869bad4cff",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hollow-cask/02-ancient-cask-cellar-6304fc082c53fa9d-thumb.webp",
+            "sha256": "b391cbb7ee46ed8394b57ff8e440eee09b0cb8b1f67d88b20e32bccb8b3e5fc0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-harvest-hall-restored",
+          "title": "Harvest hall restored",
+          "alt": "Harvest hall restored — oil interior study for The Hollow Cask",
+          "source": "stories/the-hollow-cask/art/interiors/03-harvest-hall-restored.png",
+          "sourceSha256": "462bf1524e651480c729d7c79f2169bfe417d9ad39e8db6256fa0a46d5bf6078",
+          "full": {
+            "path": "interiors/the-hollow-cask/03-harvest-hall-restored-462bf1524e651480.webp",
+            "sha256": "93ea2077960b805c221b2891d6262a529d970e501725bb79493e59492bed774f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-hollow-cask/03-harvest-hall-restored-462bf1524e651480-thumb.webp",
+            "sha256": "903f0a70ea9ae88358fa3c3c774782758cc7cdf3ef0c153d5921c3f5d2662d57",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-house-beneath-the-horns",
+      "title": "The Last Day of the Watch",
+      "reader": "stories/the-house-beneath-the-horns.html",
+      "images": [
+        {
+          "id": "01-the-hidden-bean-room",
+          "title": "The hidden bean room",
+          "alt": "The hidden bean room — oil interior study for The Last Day of the Watch",
+          "source": "stories/the-house-beneath-the-horns/art/interiors/01-the-hidden-bean-room.png",
+          "sourceSha256": "87748d600304bc3e3c83d6e86e29b2432dca0941a9fe64c8e013e77a4490f43b",
+          "full": {
+            "path": "interiors/the-house-beneath-the-horns/01-the-hidden-bean-room-87748d600304bc3e.webp",
+            "sha256": "a56cb910e31a4076145a451fd876a0e67410841f0520632b662bf826d5fcdafd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-house-beneath-the-horns/01-the-hidden-bean-room-87748d600304bc3e-thumb.webp",
+            "sha256": "fc11df6dfa2296a95ba1895308f3932b3fe5d6b3f36aa48e79f8c6219d10c647",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-hidden-storeroom",
+          "title": "The hidden storeroom",
+          "alt": "The hidden storeroom — oil interior study for The Last Day of the Watch",
+          "source": "stories/the-house-beneath-the-horns/art/interiors/02-the-hidden-storeroom.png",
+          "sourceSha256": "2bc1fbe07876c2f761d858ad92a24f2983ec609b71042f29f0ff2858c367cb62",
+          "full": {
+            "path": "interiors/the-house-beneath-the-horns/02-the-hidden-storeroom-2bc1fbe07876c2f7.webp",
+            "sha256": "f7e182f3a389365e04c8a886cef1972fa3cdb9fce6f8155ff902258236536a08",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-house-beneath-the-horns/02-the-hidden-storeroom-2bc1fbe07876c2f7-thumb.webp",
+            "sha256": "a4fb67d2a0b7a43cef7590cb19f167d3ed4abc8c2a995cbd55557c80809cd20d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-gatehouse-guardroom",
+          "title": "The gatehouse guardroom",
+          "alt": "The gatehouse guardroom — oil interior study for The Last Day of the Watch",
+          "source": "stories/the-house-beneath-the-horns/art/interiors/03-the-gatehouse-guardroom.png",
+          "sourceSha256": "1158e7c65960307bfc6ef89105a4d195e0177607f90c5e9df4d1b416aa60a612",
+          "full": {
+            "path": "interiors/the-house-beneath-the-horns/03-the-gatehouse-guardroom-1158e7c65960307b.webp",
+            "sha256": "ed1dc024d0f9e67a3467b4cb8a53e09a6d95b47760ef8a2f5c9a1f11b6eda03b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-house-beneath-the-horns/03-the-gatehouse-guardroom-1158e7c65960307b-thumb.webp",
+            "sha256": "58b5fcdb0b5319f791d2e99a3192f01694ce0e9ef34afe051372e93b80964aea",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "last-watcher-of-jupiter",
       "title": "The Last Watcher of Jupiter",
       "reader": "stories/last-watcher-of-jupiter.html",
