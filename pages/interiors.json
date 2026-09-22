@@ -4994,6 +4994,70 @@
       ]
     },
     {
+      "slug": "the-kill-she-wouldnt-take",
+      "title": "The Kill She Wouldn't Take",
+      "reader": "stories/the-kill-she-wouldnt-take.html",
+      "images": [
+        {
+          "id": "01-grandfall-broadcast-booth",
+          "title": "Grandfall broadcast booth",
+          "alt": "Grandfall broadcast booth — oil interior study for The Kill She Wouldn't Take",
+          "source": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+          "sourceSha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4",
+          "full": {
+            "path": "interiors/the-kill-she-wouldnt-take/01-grandfall-broadcast-booth-b6bdbcf6d3ea62c7.webp",
+            "sha256": "c25a9ac17bc56c956637bd7434093771cf1fe62a859868f4c34366fca9f315cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kill-she-wouldnt-take/01-grandfall-broadcast-booth-b6bdbcf6d3ea62c7-thumb.webp",
+            "sha256": "b4c19f960532d25e7f563a2b7e2290f8ad47ff2e9f130a52a0974837e12160ef",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-integrity-key",
+          "title": "The integrity key",
+          "alt": "The integrity key — oil interior study for The Kill She Wouldn't Take",
+          "source": "stories/the-kill-she-wouldnt-take/art/interiors/02-the-integrity-key.png",
+          "sourceSha256": "7a393b7066a068e53d8d97586c185dc13567e973441d6e08010fe0c0ee30e5d0",
+          "full": {
+            "path": "interiors/the-kill-she-wouldnt-take/02-the-integrity-key-7a393b7066a068e5.webp",
+            "sha256": "46a97ffee4b20515e3ce2bd5ac4a700d86afeb196c5b59c363e5b11c1ad91655",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kill-she-wouldnt-take/02-the-integrity-key-7a393b7066a068e5-thumb.webp",
+            "sha256": "ecf3d38a823a8778125449e0b9dc5b943851f0f6961f6f8be9ccd5884d38f41b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-raw-review-console",
+          "title": "Raw review console",
+          "alt": "Raw review console — oil interior study for The Kill She Wouldn't Take",
+          "source": "stories/the-kill-she-wouldnt-take/art/interiors/03-raw-review-console.png",
+          "sourceSha256": "b48218af3a190fbdb9fe84ca6fe003771771399685b50939d974971f36c38c4d",
+          "full": {
+            "path": "interiors/the-kill-she-wouldnt-take/03-raw-review-console-b48218af3a190fbd.webp",
+            "sha256": "86720e6624194b4f3ce0e2617c149c5335d788049195ee5c25a8c56d90814527",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-kill-she-wouldnt-take/03-raw-review-console-b48218af3a190fbd-thumb.webp",
+            "sha256": "21b270269019e3516ffe1e883f961329be6e263f888b7d685432ffbab16de960",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-house-beneath-the-horns",
       "title": "The Last Day of the Watch",
       "reader": "stories/the-house-beneath-the-horns.html",
@@ -5051,6 +5115,70 @@
           "thumbnail": {
             "path": "interiors/the-house-beneath-the-horns/03-the-gatehouse-guardroom-1158e7c65960307b-thumb.webp",
             "sha256": "58b5fcdb0b5319f791d2e99a3192f01694ce0e9ef34afe051372e93b80964aea",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-last-flames",
+      "title": "The Last Flames",
+      "reader": "stories/the-last-flames.html",
+      "images": [
+        {
+          "id": "01-the-receiving-chamber",
+          "title": "The receiving chamber",
+          "alt": "The receiving chamber — oil interior study for The Last Flames",
+          "source": "stories/the-last-flames/art/interiors/01-the-receiving-chamber.png",
+          "sourceSha256": "ff7078b76893ce961908b2518d8aada8e78f7ce20151b74f07025420927127db",
+          "full": {
+            "path": "interiors/the-last-flames/01-the-receiving-chamber-ff7078b76893ce96.webp",
+            "sha256": "b66878484e1c1614bafd1c6a644d7ed084406a2d3588c6dd331d247d97cc5f5f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-flames/01-the-receiving-chamber-ff7078b76893ce96-thumb.webp",
+            "sha256": "33ed199fa0acbdb511ca6f058df9dc291494c19826f7a17cbadd7579783bb101",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-keeper-kitchen",
+          "title": "The keeper kitchen",
+          "alt": "The keeper kitchen — oil interior study for The Last Flames",
+          "source": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+          "sourceSha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175",
+          "full": {
+            "path": "interiors/the-last-flames/02-the-keeper-kitchen-e98f95c13a28ece3.webp",
+            "sha256": "7874d37d67390457b7326f79a03bbac8000dd36cf9dc120e1eb518a8a994de4c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-flames/02-the-keeper-kitchen-e98f95c13a28ece3-thumb.webp",
+            "sha256": "ff47dddaad2dfeb965876775b08e42641ca2562330b9a3ab999ad847d4901f66",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-eastern-work-chamber",
+          "title": "The eastern work chamber",
+          "alt": "The eastern work chamber — oil interior study for The Last Flames",
+          "source": "stories/the-last-flames/art/interiors/03-the-eastern-work-chamber.png",
+          "sourceSha256": "9deeefc5a9899ef9a021cd9585c410e8996e1c022731e3046cfdc58fe2a3b037",
+          "full": {
+            "path": "interiors/the-last-flames/03-the-eastern-work-chamber-9deeefc5a9899ef9.webp",
+            "sha256": "1d5e2b56a726426104d95a5d12ccc891106a852aff61dedf655244680cdd41c6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-last-flames/03-the-eastern-work-chamber-9deeefc5a9899ef9-thumb.webp",
+            "sha256": "0e002e5f6a90ef204f2020b211dfc9e4d8e690bb0ccd90061fae420b19c205f6",
             "width": 480,
             "height": 320
           }
