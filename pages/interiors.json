@@ -2,6 +2,70 @@
   "schemaVersion": 1,
   "stories": [
     {
+      "slug": "a-beginner-of-considerable-age",
+      "title": "A Beginner of Considerable Age",
+      "reader": "stories/a-beginner-of-considerable-age.html",
+      "images": [
+        {
+          "id": "01-lodge-long-hall",
+          "title": "Lodge long hall",
+          "alt": "Lodge long hall — oil interior study for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+          "sourceSha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+          "full": {
+            "path": "interiors/a-beginner-of-considerable-age/01-lodge-long-hall-6f9f239a7141905a.webp",
+            "sha256": "7c6d0f893039287b5bf31ef312f1451f2d91b1b5c5cfe616ce682aaf90b425cf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-beginner-of-considerable-age/01-lodge-long-hall-6f9f239a7141905a-thumb.webp",
+            "sha256": "1f811f93cc5ff20d8834226fd8c3112d39dab3a7d91d354cd50cf66c5acaba88",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-lodge-table-and-flagstones",
+          "title": "Lodge table and flagstones",
+          "alt": "Lodge table and flagstones — oil interior study for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
+          "sourceSha256": "372afd3b9213f3ec42b10b4d462406a987da59520678a8be43fbbcf5a23f5ee8",
+          "full": {
+            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-372afd3b9213f3ec.webp",
+            "sha256": "78cf8fbbe0d1740a565a6968e445b6b6b5111dbf74d39093883b1c1b3f0deecb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-372afd3b9213f3ec-thumb.webp",
+            "sha256": "69d88f0154bbd25ae15284d22e37739da3df8e39ab99a7f2e70c58ab8c004e0f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-lodge-gate-and-daylight",
+          "title": "Lodge gate and daylight",
+          "alt": "Lodge gate and daylight — oil interior study for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/interiors/03-lodge-gate-and-daylight.png",
+          "sourceSha256": "b9f2fc411a7fad78b9e02dadc8c84620758104e520e19ca308012df1d4bcbb7d",
+          "full": {
+            "path": "interiors/a-beginner-of-considerable-age/03-lodge-gate-and-daylight-b9f2fc411a7fad78.webp",
+            "sha256": "2942fdd00a5c249e8baa419ab2f62e65653583dc20f1814ac9ac35a740c575dd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-beginner-of-considerable-age/03-lodge-gate-and-daylight-b9f2fc411a7fad78-thumb.webp",
+            "sha256": "e4db8fff59e4b14d5803468a9990e12ee98f89f5e5961dcb4929beb214e0d049",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-busy-year-for-dying",
       "title": "A Busy Year for Dying",
       "reader": "stories/a-busy-year-for-dying.html",
@@ -251,6 +315,70 @@
           "thumbnail": {
             "path": "interiors/a-curse-before-breakfast/03-breakfast-kitchen-380719be10288608-thumb.webp",
             "sha256": "d56de1d85c3bd1ddb99f8a8c7d92dc56fe8e9d684d9ec083aace30f499aa0373",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-darkness-written-under-skin",
+      "title": "A Darkness Written Under Skin",
+      "reader": "stories/a-darkness-written-under-skin.html",
+      "images": [
+        {
+          "id": "01-dye-workroom-at-night",
+          "title": "Dye workroom at night",
+          "alt": "Dye workroom at night — oil interior study for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+          "sourceSha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+          "full": {
+            "path": "interiors/a-darkness-written-under-skin/01-dye-workroom-at-night-e739de2daf02259b.webp",
+            "sha256": "0a300f1c5cb8074cb50e5107ca22a1a46e8e6e217fde209eba05448951838b47",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-darkness-written-under-skin/01-dye-workroom-at-night-e739de2daf02259b-thumb.webp",
+            "sha256": "38bab1c576159493152453c0d066788044cd62b6ba95e99d21d1494bca48e293",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-draining-cloth-and-stone-trough",
+          "title": "Draining cloth and stone trough",
+          "alt": "Draining cloth and stone trough — oil interior study for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/interiors/02-draining-cloth-and-stone-trough.png",
+          "sourceSha256": "0b6ed08290437d5cabfef30da5e25ed0e59bcca01d4ce380e4cdd67008aa2e88",
+          "full": {
+            "path": "interiors/a-darkness-written-under-skin/02-draining-cloth-and-stone-trough-0b6ed08290437d5c.webp",
+            "sha256": "d8a06ebcb4b1d05ddbef71b9eae125a07ddfd666e1d4d782f548106f12c2e30a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-darkness-written-under-skin/02-draining-cloth-and-stone-trough-0b6ed08290437d5c-thumb.webp",
+            "sha256": "9ef2660d3434c8c3c33aed885a8fa634e648a06efe0358e51362b31ac7a07e9a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-workroom-at-gray-morning",
+          "title": "Workroom at gray morning",
+          "alt": "Workroom at gray morning — oil interior study for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/interiors/03-workroom-at-gray-morning.png",
+          "sourceSha256": "a158aadd9c9e5708c86659a9fd48d1c06c263b309932497974c5d8b72d9deb5b",
+          "full": {
+            "path": "interiors/a-darkness-written-under-skin/03-workroom-at-gray-morning-a158aadd9c9e5708.webp",
+            "sha256": "442340d0d770259ed8e4765a202ac71e8341042d2c45208a140432ab11a40425",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-darkness-written-under-skin/03-workroom-at-gray-morning-a158aadd9c9e5708-thumb.webp",
+            "sha256": "c39d0fcb39efa98c284119aaadd7cd941c54261f419842c763d731235bf862d5",
             "width": 480,
             "height": 320
           }
