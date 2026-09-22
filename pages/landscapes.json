@@ -829,25 +829,6 @@
           }
         },
         {
-          "id": "02-the-empty-bus-stop-road",
-          "title": "The empty bus stop road",
-          "alt": "The empty bus stop road — oil landscape for Before Lunch",
-          "source": "stories/before-lunch/art/landscapes/02-the-empty-bus-stop-road.png",
-          "sourceSha256": "46e99e78046e76f6ed1581bf53a074c5e8a077de696d479d1be342ca9b5e842c",
-          "full": {
-            "path": "landscapes/before-lunch/02-the-empty-bus-stop-road.webp",
-            "sha256": "38b303fc731c68b3e55f16961bb2a45962656cfd0724e44b93e8a2384639fdb9",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-lunch/02-the-empty-bus-stop-road-thumb.webp",
-            "sha256": "2616525b09b60bb04f83c084487be53675223287a4375a51f8fca75a0b98b07e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-around-the-corner",
           "title": "Around the corner",
           "alt": "Around the corner — oil landscape for Before Lunch",
@@ -862,44 +843,6 @@
           "thumbnail": {
             "path": "landscapes/before-lunch/03-around-the-corner-thumb.webp",
             "sha256": "b3c2af681e3038c93b46e7566f2a734adb24ae6dbd7e722020a1a4cf58345c5a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-noon-over-the-roofs",
-          "title": "Noon over the roofs",
-          "alt": "Noon over the roofs — oil landscape for Before Lunch",
-          "source": "stories/before-lunch/art/landscapes/04-noon-over-the-roofs.png",
-          "sourceSha256": "232ee7ceb072decd933670064ff48151e78baabf693d39476ad6f814cd83a922",
-          "full": {
-            "path": "landscapes/before-lunch/04-noon-over-the-roofs.webp",
-            "sha256": "2941a69058599fa06353d6237cf6a7bda0ab22ab161737f74365e4f00aef8c14",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-lunch/04-noon-over-the-roofs-thumb.webp",
-            "sha256": "951c3b84ce4e1f7970880c37dae2a82d2063eb55b3d498cb1e3c94f32665b640",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-shade-beyond-the-hotel",
-          "title": "Shade beyond the hotel",
-          "alt": "Shade beyond the hotel — oil landscape for Before Lunch",
-          "source": "stories/before-lunch/art/landscapes/05-shade-beyond-the-hotel.png",
-          "sourceSha256": "a01e65dd015d0d1a07ea27303d66b3586f0810f7d2b6187d7b9bba8e98fe5b73",
-          "full": {
-            "path": "landscapes/before-lunch/05-shade-beyond-the-hotel.webp",
-            "sha256": "068a6fb8e76db8878188f7304fa40d4a00030878dad858186f8b446736bb8404",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/before-lunch/05-shade-beyond-the-hotel-thumb.webp",
-            "sha256": "6335d999a31d0e26304e7636972ede50b0ed70b33e44a8c5d120d28a2a09f245",
             "width": 480,
             "height": 320
           }
@@ -18256,6 +18199,21 @@
       "source": "stories/an-ordinary-education/art/landscapes/05-night-on-the-way-home.png",
       "sourceSha256": "c111966dd27a6c49ff9103d5d12f2fd5fdba6ebbcb755884eafd317a61099115",
       "reason": "The story ends with the girls talking and skating inside the rink. This moonlit journey home never occurs."
+    },
+    {
+      "source": "stories/before-lunch/art/landscapes/02-the-empty-bus-stop-road.png",
+      "sourceSha256": "46e99e78046e76f6ed1581bf53a074c5e8a077de696d479d1be342ca9b5e842c",
+      "reason": "Another view of the same street episode centered on the bus escape the narrator considers but does not take; redundant after hotel exterior and actual corner departure."
+    },
+    {
+      "source": "stories/before-lunch/art/landscapes/04-noon-over-the-roofs.png",
+      "sourceSha256": "232ee7ceb072decd933670064ff48151e78baabf693d39476ad6f814cd83a922",
+      "reason": "No rooftop or elevated panorama scene occurs. Vhulcren flies over the opposite roofs while the narrator stays at street level; this adds another city vista without a distinct setting."
+    },
+    {
+      "source": "stories/before-lunch/art/landscapes/05-shade-beyond-the-hotel.png",
+      "sourceSha256": "a01e65dd015d0d1a07ea27303d66b3586f0810f7d2b6187d7b9bba8e98fe5b73",
+      "reason": "No park or garden excursion beyond the hotel occurs. The source walks round a street corner; this shaded park is invented."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
