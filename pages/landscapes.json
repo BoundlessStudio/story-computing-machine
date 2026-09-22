@@ -5602,44 +5602,6 @@
       "reader": "stories/the-one-who-gets-tired.html",
       "images": [
         {
-          "id": "01-cusco-in-morning-sun",
-          "title": "Cusco in morning sun",
-          "alt": "Cusco in morning sun — oil landscape for The One Who Gets Tired",
-          "source": "stories/the-one-who-gets-tired/art/landscapes/01-cusco-in-morning-sun.png",
-          "sourceSha256": "4eb4ad8cc6fbdea160dedb186e59b59123213685c31454af026562a6cc2f1cc8",
-          "full": {
-            "path": "landscapes/the-one-who-gets-tired/01-cusco-in-morning-sun.webp",
-            "sha256": "a832fc5e26dcfcf6893c5587d6bd652380a73357591a88c9b9c392ff387dfc3b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-one-who-gets-tired/01-cusco-in-morning-sun-thumb.webp",
-            "sha256": "bb6f17e833febdbb703785107ee6ee51097f746df8e969087d2cbd5d005933a0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-courtyard-at-home",
-          "title": "The courtyard at home",
-          "alt": "The courtyard at home — oil landscape for The One Who Gets Tired",
-          "source": "stories/the-one-who-gets-tired/art/landscapes/02-the-courtyard-at-home.png",
-          "sourceSha256": "e89bedee70358fa3bd47c31253b35ce3e0802612bc87ce718b0ddb1cb11c1a58",
-          "full": {
-            "path": "landscapes/the-one-who-gets-tired/02-the-courtyard-at-home.webp",
-            "sha256": "876f6f5af6e8449ee2cc3fbf25e2757a3353c713539ea173dddaa19b06315d26",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-one-who-gets-tired/02-the-courtyard-at-home-thumb.webp",
-            "sha256": "7d0dc0c5819e1d3c7abdc37b570a925b3da5efa1c4a520c701bee42c2f0fea39",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-steps-to-the-bus-stop",
           "title": "Steps to the bus stop",
           "alt": "Steps to the bus stop — oil landscape for The One Who Gets Tired",
@@ -5673,25 +5635,6 @@
           "thumbnail": {
             "path": "landscapes/the-one-who-gets-tired/04-cinema-street-in-afternoon-thumb.webp",
             "sha256": "0f8f6efc5516072372236ae0952d4f6e4ca5216a3ac620cc2062fd64e4ffed09",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-before-the-bakery-opens",
-          "title": "Before the bakery opens",
-          "alt": "Before the bakery opens — oil landscape for The One Who Gets Tired",
-          "source": "stories/the-one-who-gets-tired/art/landscapes/05-before-the-bakery-opens.png",
-          "sourceSha256": "91cbac5a7c9b47421ba20a50ff5f6894237f8d139609fe9ac978a064597e0abc",
-          "full": {
-            "path": "landscapes/the-one-who-gets-tired/05-before-the-bakery-opens.webp",
-            "sha256": "c4d334de474afbc56e263e6834d4aad5639c6ac7e437187494c600dd79644195",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-one-who-gets-tired/05-before-the-bakery-opens-thumb.webp",
-            "sha256": "946d171358dc15151ea28ce7e13dff2427f9ce3a6f9c1e0930d0d63647584b73",
             "width": 480,
             "height": 320
           }
@@ -14380,6 +14323,21 @@
       "source": "stories/the-old-percentage/art/landscapes/04-the-former-department-store.png",
       "sourceSha256": "997b18df81b1635582eb02b208bae8dfffa233e36c915f70c0f6a75085df7d22",
       "reason": "Turns the top-floor club scene into a distant exterior seen from another roof; that rooftop viewpoint is not in the story."
+    },
+    {
+      "source": "stories/the-one-who-gets-tired/art/landscapes/01-cusco-in-morning-sun.png",
+      "sourceSha256": "4eb4ad8cc6fbdea160dedb186e59b59123213685c31454af026562a6cc2f1cc8",
+      "reason": "Adds a broad city panorama repeating the Cusco view already present in the actual bus-stop steps of image 03."
+    },
+    {
+      "source": "stories/the-one-who-gets-tired/art/landscapes/02-the-courtyard-at-home.png",
+      "sourceSha256": "e89bedee70358fa3bd47c31253b35ce3e0802612bc87ce718b0ddb1cb11c1a58",
+      "reason": "The courtyard's divine brightness is background about the parents, not an enacted courtyard scene."
+    },
+    {
+      "source": "stories/the-one-who-gets-tired/art/landscapes/05-before-the-bakery-opens.png",
+      "sourceSha256": "91cbac5a7c9b47421ba20a50ff5f6894237f8d139609fe9ac978a064597e0abc",
+      "reason": "Invents a predawn bakery approach before the story opens with the narrator already home from work."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
