@@ -7831,6 +7831,63 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "02-the-eastern-salt-cuts",
+          "title": "The eastern salt cuts",
+          "alt": "The eastern salt cuts — oil landscape for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/landscapes/02-the-eastern-salt-cuts.png",
+          "sourceSha256": "02b7b31564605375b6480dd8cc7864e3eaa6a7c50e69acc140036d8a5cdd2271",
+          "full": {
+            "path": "landscapes/the-small-moon-rose-first/02-the-eastern-salt-cuts.webp",
+            "sha256": "6dd0a37ab830b15173fd46980b1979c7ab6b357cd7b7beb869703039bad38070",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-small-moon-rose-first/02-the-eastern-salt-cuts-thumb.webp",
+            "sha256": "d6e0274406f05e9649ccccafdade2b043e3b5b17e2f9e12d6c0171e0a2dbd350",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-broken-roofs-at-drosswall",
+          "title": "Broken roofs at drosswall",
+          "alt": "Broken roofs at drosswall — oil landscape for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "sourceSha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a",
+          "full": {
+            "path": "landscapes/the-small-moon-rose-first/03-broken-roofs-at-drosswall.webp",
+            "sha256": "a10aa29d194c9a8d8e01be8e13638150cebbc63a1fe1f140553b9bad125cd9f2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-small-moon-rose-first/03-broken-roofs-at-drosswall-thumb.webp",
+            "sha256": "2ee3fc064340d80772d645c36297e25f23eee20ec7838b868c3ae0611f99d688",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "04-frankford-blue-drainpipe",
+          "title": "Frankford blue drainpipe",
+          "alt": "Frankford blue drainpipe — oil landscape for The Small Moon Rose First",
+          "source": "stories/the-small-moon-rose-first/art/landscapes/04-frankford-blue-drainpipe.png",
+          "sourceSha256": "2173524789ff0a4e48c62b8ffce704b24684acfd95d5a3ee0202e7e220bb7334",
+          "full": {
+            "path": "landscapes/the-small-moon-rose-first/04-frankford-blue-drainpipe.webp",
+            "sha256": "9e0abc9f58075a3c19d3087de895cbbe472f0f5022381d0c6281f05053660bb9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-small-moon-rose-first/04-frankford-blue-drainpipe-thumb.webp",
+            "sha256": "d8728123afceac50964f59405aa99e35046a969d2b3a7854a6aa7404233fac24",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -12658,21 +12715,6 @@
       "source": "stories/the-sky-remembers-us-return/art/landscapes/01-the-dead-ithrom-plain.png",
       "sourceSha256": "81cec58ea75f91db350b02d327802ec9bea18b8ca9871fc8b1b0a2ef00b6117b",
       "reason": "A third view of Ithrom's same ruined plain repeats the more specific chasm/brightness and bronze-dawn states in images 02 and 05."
-    },
-    {
-      "source": "stories/the-small-moon-rose-first/art/landscapes/02-the-eastern-salt-cuts.png",
-      "sourceSha256": "02b7b31564605375b6480dd8cc7864e3eaa6a7c50e69acc140036d8a5cdd2271",
-      "reason": "The salt cuts are only a home-location detail in a recalled stolen identity, not a visited landscape."
-    },
-    {
-      "source": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
-      "sourceSha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a",
-      "reason": "Drosswall's broken roofs are listed among publicly disclosed memories, not dramatized as a scene here."
-    },
-    {
-      "source": "stories/the-small-moon-rose-first/art/landscapes/04-frankford-blue-drainpipe.png",
-      "sourceSha256": "2173524789ff0a4e48c62b8ffce704b24684acfd95d5a3ee0202e7e220bb7334",
-      "reason": "Nell names her rowhouse and drainpipe during the indoor station exchange; this exterior neighborhood scene is not enacted."
     },
     {
       "source": "stories/the-small-moon-rose-first/art/landscapes/05-thirtieth-street-station.png",
