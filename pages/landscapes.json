@@ -426,108 +426,6 @@
       ]
     },
     {
-      "slug": "a-note-of-spite",
-      "title": "A Note of Spite",
-      "reader": "stories/a-note-of-spite.html",
-      "images": [
-        {
-          "id": "01-neroli-grove",
-          "title": "Neroli grove",
-          "alt": "Neroli grove — oil landscape for A Note of Spite",
-          "source": "stories/a-note-of-spite/art/landscapes/01-neroli-grove.png",
-          "sourceSha256": "88f08776efce198491d027fbc38dc392c736dbbec54da09675a65f93744ba114",
-          "full": {
-            "path": "landscapes/a-note-of-spite/01-neroli-grove.webp",
-            "sha256": "5bd4df12ea29e100c16f683bfaabf7510f97211091ee74444170fc18d659c41d",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-note-of-spite/01-neroli-grove-thumb.webp",
-            "sha256": "295abed71683fe6f520b68ff62c4c24a0207dc0cc0237b6f89273a73ded18ebb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-pear-and-violet",
-          "title": "Pear and violet",
-          "alt": "Pear and violet — oil landscape for A Note of Spite",
-          "source": "stories/a-note-of-spite/art/landscapes/02-pear-and-violet.png",
-          "sourceSha256": "84e269d05c4358fa749de1e786f01926a4495205c584a7498db9d300a9953c79",
-          "full": {
-            "path": "landscapes/a-note-of-spite/02-pear-and-violet.webp",
-            "sha256": "880b512b5490b89808453e6ddf45ac6072bdb7bca9cb8e638795022dca71fc54",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-note-of-spite/02-pear-and-violet-thumb.webp",
-            "sha256": "0c1ad5cb22271642ecaac3c0bdf0d08e610e817a6fd948155632f4e945117ef8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-rain-and-moss",
-          "title": "Rain and moss",
-          "alt": "Rain and moss — oil landscape for A Note of Spite",
-          "source": "stories/a-note-of-spite/art/landscapes/03-rain-and-moss.png",
-          "sourceSha256": "36359fda157ddab2af5a6e8f38bb0d12d83d0df22182b295e65ca72b608e1e9e",
-          "full": {
-            "path": "landscapes/a-note-of-spite/03-rain-and-moss.webp",
-            "sha256": "86756094eabc4c2217ebcb3f5c2c065751fe8eacb1a92274f50f2f52a3251a35",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-note-of-spite/03-rain-and-moss-thumb.webp",
-            "sha256": "16797a5cb548c6696e9779eb8dc609aa99817f182bc39a428ca6c0de8378002d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-soldiers-mountain-road",
-          "title": "The soldiers mountain road",
-          "alt": "The soldiers mountain road — oil landscape for A Note of Spite",
-          "source": "stories/a-note-of-spite/art/landscapes/04-the-soldiers-mountain-road.png",
-          "sourceSha256": "992139097b929a066be994c8dc25493d2e4e23b9185fa7361cd74df513b501a2",
-          "full": {
-            "path": "landscapes/a-note-of-spite/04-the-soldiers-mountain-road.webp",
-            "sha256": "66c8960fc332d06bf1b9002b6406bef37dd9125d3c36e8e9580a56a6d5c5c62f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-note-of-spite/04-the-soldiers-mountain-road-thumb.webp",
-            "sha256": "303d0118ec9f5c52ec0dcc82fea4fa7064abf79310f9d5b610dabea85579105b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-evening-beyond-the-party",
-          "title": "Evening beyond the party",
-          "alt": "Evening beyond the party — oil landscape for A Note of Spite",
-          "source": "stories/a-note-of-spite/art/landscapes/05-evening-beyond-the-party.png",
-          "sourceSha256": "db731bc9b844833f9e0f92019c396e596aa92caaf2901455aa1ae7b26d64696d",
-          "full": {
-            "path": "landscapes/a-note-of-spite/05-evening-beyond-the-party.webp",
-            "sha256": "5446915ccddf001a6c92990ca0b0e44888ebf8b5d796789332929cd6c9bc7da1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/a-note-of-spite/05-evening-beyond-the-party-thumb.webp",
-            "sha256": "5406d84a223b775e1ff82e17f22b59c613f79e420d8dab347a35227fdea151cc",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "a-pet-human",
       "title": "A Pet Human",
       "reader": "stories/a-pet-human.html",
@@ -18956,6 +18854,31 @@
       "source": "stories/a-lock-on-the-inside/art/landscapes/05-a-quiet-night-outside.png",
       "sourceSha256": "4142d8281762655094070ef8c9c5933ea8aaaa3735e9fdefbcff0bafa011e7e2",
       "reason": "The ending is inside the bolted bedroom, listening to corridor footsteps. This exterior country campus at night is unsupported and redundant."
+    },
+    {
+      "source": "stories/a-note-of-spite/art/landscapes/01-neroli-grove.png",
+      "sourceSha256": "88f08776efce198491d027fbc38dc392c736dbbec54da09675a65f93744ba114",
+      "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
+    },
+    {
+      "source": "stories/a-note-of-spite/art/landscapes/02-pear-and-violet.png",
+      "sourceSha256": "84e269d05c4358fa749de1e786f01926a4495205c584a7498db9d300a9953c79",
+      "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
+    },
+    {
+      "source": "stories/a-note-of-spite/art/landscapes/03-rain-and-moss.png",
+      "sourceSha256": "36359fda157ddab2af5a6e8f38bb0d12d83d0df22182b295e65ca72b608e1e9e",
+      "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
+    },
+    {
+      "source": "stories/a-note-of-spite/art/landscapes/04-the-soldiers-mountain-road.png",
+      "sourceSha256": "992139097b929a066be994c8dc25493d2e4e23b9185fa7361cd74df513b501a2",
+      "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
+    },
+    {
+      "source": "stories/a-note-of-spite/art/landscapes/05-evening-beyond-the-party.png",
+      "sourceSha256": "db731bc9b844833f9e0f92019c396e596aa92caaf2901455aa1ae7b26d64696d",
+      "reason": "The party takes place indoors. Neroli, pear, violet and moss describe protective perfumes, not groves or woodland; the mountain road belongs to a comic song. All five images turn scents or lyrics into invented outdoor story locations."
     },
     {
       "source": "stories/laughing-clouds/art/landscapes/03-the-sudden-small-shower.png",
