@@ -4290,6 +4290,70 @@
       ]
     },
     {
+      "slug": "the-gentlest-terror",
+      "title": "The Gentlest Terror",
+      "reader": "stories/the-gentlest-terror.html",
+      "images": [
+        {
+          "id": "01-convocation-court",
+          "title": "Convocation court",
+          "alt": "Convocation court — oil interior study for The Gentlest Terror",
+          "source": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+          "sourceSha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39",
+          "full": {
+            "path": "interiors/the-gentlest-terror/01-convocation-court-792568b511f3c35d.webp",
+            "sha256": "fb37c2ba0d013f9fa065d04e3ceef3c19b12b0e98ba2b32b86e3b43c79f0a875",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-gentlest-terror/01-convocation-court-792568b511f3c35d-thumb.webp",
+            "sha256": "6c1bcf330e1de0beae8eb8b095c8812bc12dd8145a71ab38b50979e57a639d55",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-witness-stone",
+          "title": "The witness stone",
+          "alt": "The witness stone — oil interior study for The Gentlest Terror",
+          "source": "stories/the-gentlest-terror/art/interiors/02-the-witness-stone.png",
+          "sourceSha256": "a853f9fc9b2df7360da16c474051721cb6708ab8e484ec8d0faba2ef9d9abb5f",
+          "full": {
+            "path": "interiors/the-gentlest-terror/02-the-witness-stone-a853f9fc9b2df736.webp",
+            "sha256": "8d16d26ad06fa2d7466b2efa8ef97783648f439f30ee6f8b222b0cb0b18af3f5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-gentlest-terror/02-the-witness-stone-a853f9fc9b2df736-thumb.webp",
+            "sha256": "76c82a74654fbbc171ad148853bc89e0aa0f15d2b49aebbffae28e724103136b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-old-sluice-passage",
+          "title": "The old sluice passage",
+          "alt": "The old sluice passage — oil interior study for The Gentlest Terror",
+          "source": "stories/the-gentlest-terror/art/interiors/03-the-old-sluice-passage.png",
+          "sourceSha256": "0683bd808b0192b75ac2a335d77fe34562db70c845ef2b13f8bc89a3726461cd",
+          "full": {
+            "path": "interiors/the-gentlest-terror/03-the-old-sluice-passage-0683bd808b0192b7.webp",
+            "sha256": "4f1273e83b8b3192044a22cfb4882e88ac20b4313160a8d1a7566ae1cbb74f56",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-gentlest-terror/03-the-old-sluice-passage-0683bd808b0192b7-thumb.webp",
+            "sha256": "43d07de463ee05d737e3ff26585c6e67f75ab284a487c6352aedebdcf2face9d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "gods-afraid-of-grandma",
       "title": "The Gods Are Afraid of Grandma",
       "reader": "stories/gods-afraid-of-grandma.html",
