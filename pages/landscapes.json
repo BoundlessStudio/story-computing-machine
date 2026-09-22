@@ -3125,108 +3125,6 @@
       ]
     },
     {
-      "slug": "the-chair-at-the-back",
-      "title": "The Chair at the Back",
-      "reader": "stories/the-chair-at-the-back.html",
-      "images": [
-        {
-          "id": "01-the-tavern-road",
-          "title": "The tavern road",
-          "alt": "The tavern road — oil landscape for The Chair at the Back",
-          "source": "stories/the-chair-at-the-back/art/landscapes/01-the-tavern-road.png",
-          "sourceSha256": "9919b61c86c1f4f725178d826859a10c48ca87204d41be0c00c729e5696f575a",
-          "full": {
-            "path": "landscapes/the-chair-at-the-back/01-the-tavern-road.webp",
-            "sha256": "4009683e84263a692044928c707f9b3735ab0b241ea0a582fc20e05a7f599c9e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-chair-at-the-back/01-the-tavern-road-thumb.webp",
-            "sha256": "bb1b52bc24f9281e1b675465400a47cba3bea7a83f4ece4c298cccca0aa348f9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-northern-road",
-          "title": "The northern road",
-          "alt": "The northern road — oil landscape for The Chair at the Back",
-          "source": "stories/the-chair-at-the-back/art/landscapes/02-the-northern-road.png",
-          "sourceSha256": "a7f2fd207ba2c9ac1a9c0e0183aedb763b47d763d2a4da653d25ff996c541b33",
-          "full": {
-            "path": "landscapes/the-chair-at-the-back/02-the-northern-road.webp",
-            "sha256": "f4040d7caa14d3527e2f093c1be9c58bf4900ad2c06e2c9f86e56daee20d69f1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-chair-at-the-back/02-the-northern-road-thumb.webp",
-            "sha256": "2c8dc9c4058a6128f8e864e3c9920adec81124f567ac0047b12c2e7a1add9853",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-villages-in-the-distance",
-          "title": "Villages in the distance",
-          "alt": "Villages in the distance — oil landscape for The Chair at the Back",
-          "source": "stories/the-chair-at-the-back/art/landscapes/03-villages-in-the-distance.png",
-          "sourceSha256": "a1baad19cb9582392e33d1ed2d647435fa3ee979c13708269191c15110ec5eaf",
-          "full": {
-            "path": "landscapes/the-chair-at-the-back/03-villages-in-the-distance.webp",
-            "sha256": "eedf68bd11244b03bd5cfff7fbb43de3bbfa46ea09ac8bf0e70740e626f2035c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-chair-at-the-back/03-villages-in-the-distance-thumb.webp",
-            "sha256": "0f0bfbf9c9e598b0c22bc19531da9332e11db55104bad25e002a8b7805c93cc5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-night-outside-the-tavern",
-          "title": "Night outside the tavern",
-          "alt": "Night outside the tavern — oil landscape for The Chair at the Back",
-          "source": "stories/the-chair-at-the-back/art/landscapes/04-night-outside-the-tavern.png",
-          "sourceSha256": "507c505472b200b3cc50ec28d1c8545aa25e48676c3cc3dbb1465ec054e0a87f",
-          "full": {
-            "path": "landscapes/the-chair-at-the-back/04-night-outside-the-tavern.webp",
-            "sha256": "825799e77b6a24df44ef7c509bcf5525b428b618f826bdecafbabf1dc352f824",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-chair-at-the-back/04-night-outside-the-tavern-thumb.webp",
-            "sha256": "7a29e11a9d743256beb42b9b442c306ce54742eb36cbeaa14b68ac495a80fa8e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-dawn-on-the-untraveled-road",
-          "title": "Dawn on the untraveled road",
-          "alt": "Dawn on the untraveled road — oil landscape for The Chair at the Back",
-          "source": "stories/the-chair-at-the-back/art/landscapes/05-dawn-on-the-untraveled-road.png",
-          "sourceSha256": "00af8ad400be3eda1d303eae5e5007d9ab34293158ea7efde4fd8bf364fb724c",
-          "full": {
-            "path": "landscapes/the-chair-at-the-back/05-dawn-on-the-untraveled-road.webp",
-            "sha256": "7e9c8168ca912cefc0e1fd59404de205e5bae345e71592497f2edae3cdfeacf1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-chair-at-the-back/05-dawn-on-the-untraveled-road-thumb.webp",
-            "sha256": "3b7f1d9833b450a74c1987c912563a4155cdbf5825a844e5d1072f0f4576e2ba",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "drone-down",
       "title": "The City Keeps Score",
       "reader": "stories/drone-down.html",
@@ -16390,6 +16288,31 @@
       "source": "stories/the-cat-who-kept-the-door/art/landscapes/02-the-crooked-mountain.png",
       "sourceSha256": "89f6696675b2be97fe53a6d75466b253238b37c61f9c583433e02ac7b1584b0c",
       "reason": "Isolates the crooked mountain as an extra scenic view already covered through the projection's three changing city/forest states."
+    },
+    {
+      "source": "stories/the-chair-at-the-back/art/landscapes/01-the-tavern-road.png",
+      "sourceSha256": "9919b61c86c1f4f725178d826859a10c48ca87204d41be0c00c729e5696f575a",
+      "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
+    },
+    {
+      "source": "stories/the-chair-at-the-back/art/landscapes/02-the-northern-road.png",
+      "sourceSha256": "a7f2fd207ba2c9ac1a9c0e0183aedb763b47d763d2a4da653d25ff996c541b33",
+      "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
+    },
+    {
+      "source": "stories/the-chair-at-the-back/art/landscapes/03-villages-in-the-distance.png",
+      "sourceSha256": "a1baad19cb9582392e33d1ed2d647435fa3ee979c13708269191c15110ec5eaf",
+      "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
+    },
+    {
+      "source": "stories/the-chair-at-the-back/art/landscapes/04-night-outside-the-tavern.png",
+      "sourceSha256": "507c505472b200b3cc50ec28d1c8545aa25e48676c3cc3dbb1465ec054e0a87f",
+      "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
+    },
+    {
+      "source": "stories/the-chair-at-the-back/art/landscapes/05-dawn-on-the-untraveled-road.png",
+      "sourceSha256": "00af8ad400be3eda1d303eae5e5007d9ab34293158ea7efde4fd8bf364fb724c",
+      "reason": "Invents rural exterior scenes for an entirely indoor tavern story. The northern road and villages are discussed or feared future destinations; neither night outside nor a dawn departure occurs."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
