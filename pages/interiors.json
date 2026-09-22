@@ -8706,6 +8706,70 @@
       ]
     },
     {
+      "slug": "undisclosed",
+      "title": "Undisclosed",
+      "reader": "stories/undisclosed.html",
+      "images": [
+        {
+          "id": "01-the-accountants-office",
+          "title": "The accountants office",
+          "alt": "The accountants office — oil interior study for Undisclosed",
+          "source": "stories/undisclosed/art/interiors/01-the-accountants-office.png",
+          "sourceSha256": "a73678ac930d3067f91aa1e355e594101357a1e9abb206ccd52e4deaa56c2797",
+          "full": {
+            "path": "interiors/undisclosed/01-the-accountants-office-a73678ac930d3067.webp",
+            "sha256": "307b09171580fc2d4634782b13eb6e80a97ed640f2b44927aee28d7bd25a9001",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/undisclosed/01-the-accountants-office-a73678ac930d3067-thumb.webp",
+            "sha256": "4a722181bf42ee0929ff05b02df49f6e73752d425587f5cf8f35a7ecf307b157",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-office-after-closing",
+          "title": "The office after closing",
+          "alt": "The office after closing — oil interior study for Undisclosed",
+          "source": "stories/undisclosed/art/interiors/02-the-office-after-closing.png",
+          "sourceSha256": "e234db5043fa1f7bd3036c39f3c47f8ac9cffbbf60638d2d0ccc3fa62d783d7e",
+          "full": {
+            "path": "interiors/undisclosed/02-the-office-after-closing-e234db5043fa1f7b.webp",
+            "sha256": "485d841af96bd10cde36ef87c1f12fbae6ae5eebcb33992c5f870e9724b1704e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/undisclosed/02-the-office-after-closing-e234db5043fa1f7b-thumb.webp",
+            "sha256": "60b3135a128bfb0e343574a81df64f575582cba51215bdb979f1943560492087",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-passage-to-the-stairs",
+          "title": "The passage to the stairs",
+          "alt": "The passage to the stairs — oil interior study for Undisclosed",
+          "source": "stories/undisclosed/art/interiors/03-the-passage-to-the-stairs.png",
+          "sourceSha256": "7849e3962c610a2ee4d8a7446304f5fa1769b6c82971abb05bdd6d9fd0b142ce",
+          "full": {
+            "path": "interiors/undisclosed/03-the-passage-to-the-stairs-7849e3962c610a2e.webp",
+            "sha256": "08e8957f5b075422c9d2f07631304dc90debc9840cfa4f0df9cdd2072952886a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/undisclosed/03-the-passage-to-the-stairs-7849e3962c610a2e-thumb.webp",
+            "sha256": "58812bdf44c65d0cc80d5d07a5e74c23ef919ccae96a7f18f8ec8dbc58ad0cef",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "what-she-remembered-of-peace",
       "title": "What She Remembered of Peace",
       "reader": "stories/what-she-remembered-of-peace.html",
