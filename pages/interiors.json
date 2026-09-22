@@ -9346,6 +9346,70 @@
       ]
     },
     {
+      "slug": "what-the-gates-keep",
+      "title": "The Wrong Rescue",
+      "reader": "stories/what-the-gates-keep.html",
+      "images": [
+        {
+          "id": "01-the-hall-and-window-seat",
+          "title": "The hall and window seat",
+          "alt": "The hall and window seat — oil interior study for The Wrong Rescue",
+          "source": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+          "sourceSha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4",
+          "full": {
+            "path": "interiors/what-the-gates-keep/01-the-hall-and-window-seat-aff6d5dd68ec0a28.webp",
+            "sha256": "aa5ac9d52f75ffdba8bd6facb71e9012342dce5a334ec18b8fd139101a9367da",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-gates-keep/01-the-hall-and-window-seat-aff6d5dd68ec0a28-thumb.webp",
+            "sha256": "2c812c394dfb8fd9f85f7a437388a03d1c21357ff67842696d971c2c648b41f7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-borrowed-room",
+          "title": "The borrowed room",
+          "alt": "The borrowed room — oil interior study for The Wrong Rescue",
+          "source": "stories/what-the-gates-keep/art/interiors/02-the-borrowed-room.png",
+          "sourceSha256": "5e0cd00ab83519a6362113cfc79487f5070490db53a2b466bc36fd79c5ca604a",
+          "full": {
+            "path": "interiors/what-the-gates-keep/02-the-borrowed-room-5e0cd00ab83519a6.webp",
+            "sha256": "225958663ce034db07b3fb99283387f596064577989e1b14b33fec206b97f2dd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-gates-keep/02-the-borrowed-room-5e0cd00ab83519a6-thumb.webp",
+            "sha256": "f79b42f075e5388425b7ca3b2a541103bdb0df898b4e552544662b23c4a45dcf",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-little-dining-room",
+          "title": "The little dining room",
+          "alt": "The little dining room — oil interior study for The Wrong Rescue",
+          "source": "stories/what-the-gates-keep/art/interiors/03-the-little-dining-room.png",
+          "sourceSha256": "8a862350d0d6b16114af00ef883b2887728ac3d21911e492f48a371ba5a48fc5",
+          "full": {
+            "path": "interiors/what-the-gates-keep/03-the-little-dining-room-8a862350d0d6b161.webp",
+            "sha256": "cef780b436b1390834ed4259046d31703e90b82339bf9006719abe1c03b76901",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/what-the-gates-keep/03-the-little-dining-room-8a862350d0d6b161-thumb.webp",
+            "sha256": "6686920e95018caf97a046d85202d24f3126975d11e13287631e1b49fac909f1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-wrong-side-of-the-part",
       "title": "The Wrong Side of the Part",
       "reader": "stories/the-wrong-side-of-the-part.html",
@@ -9915,6 +9979,70 @@
           "thumbnail": {
             "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3-thumb.webp",
             "sha256": "df0323b71079e2dc61eea5c01fa4348db36fee15d06d154dac57514e8c52d6be",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "when-the-eagle-bowed",
+      "title": "When the Eagle Bowed",
+      "reader": "stories/when-the-eagle-bowed.html",
+      "images": [
+        {
+          "id": "01-inside-the-molting-cleft",
+          "title": "Inside the molting cleft",
+          "alt": "Inside the molting cleft — oil interior study for When the Eagle Bowed",
+          "source": "stories/when-the-eagle-bowed/art/interiors/01-inside-the-molting-cleft.png",
+          "sourceSha256": "07bc2cb1a360accd50c5d8d59b8f82009bdaacd3d88d5d37ef1815f04616223b",
+          "full": {
+            "path": "interiors/when-the-eagle-bowed/01-inside-the-molting-cleft-07bc2cb1a360accd.webp",
+            "sha256": "f916da979adee63722f69c83155bc34894d0841a537a37f483e74bc98177dd7b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-eagle-bowed/01-inside-the-molting-cleft-07bc2cb1a360accd-thumb.webp",
+            "sha256": "bdf210fa4e755b7b4d2bfa7bab5e6f40e0c936677f10680f83d81562e53f2fa9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-road-tent-in-moonlight",
+          "title": "The road tent in moonlight",
+          "alt": "The road tent in moonlight — oil interior study for When the Eagle Bowed",
+          "source": "stories/when-the-eagle-bowed/art/interiors/02-the-road-tent-in-moonlight.png",
+          "sourceSha256": "61d96e11ebd3d0c722c66226c2a5d5fa8bbb8b59ce04e195b89b588ba9f15044",
+          "full": {
+            "path": "interiors/when-the-eagle-bowed/02-the-road-tent-in-moonlight-61d96e11ebd3d0c7.webp",
+            "sha256": "cd26a8e81771d23f64feb4099c76a831e9743a4fa14d8a0eb3dbb9f1d2504079",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-eagle-bowed/02-the-road-tent-in-moonlight-61d96e11ebd3d0c7-thumb.webp",
+            "sha256": "cf0ac4238fd168774561130ffbbb4b869dbe417d74798be7e837e48fb890e9ed",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-ash-kings-chapel",
+          "title": "The ash kings chapel",
+          "alt": "The ash kings chapel — oil interior study for When the Eagle Bowed",
+          "source": "stories/when-the-eagle-bowed/art/interiors/03-the-ash-kings-chapel.png",
+          "sourceSha256": "906b1245ecd052275951f6c7508c15389e18499e585c4713f0603eb5cdbc33b2",
+          "full": {
+            "path": "interiors/when-the-eagle-bowed/03-the-ash-kings-chapel-906b1245ecd05227.webp",
+            "sha256": "38d2e629c4420804a1d0682d7f7056499ef146624e4cb2c4f71a4660b7579e07",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/when-the-eagle-bowed/03-the-ash-kings-chapel-906b1245ecd05227-thumb.webp",
+            "sha256": "980c26af26443af685e3fdf413e7b16e379cef6cf1eb85dcc9a8612413e9c571",
             "width": 480,
             "height": 320
           }
