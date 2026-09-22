@@ -170,6 +170,9 @@ def _capture_collection(repository_root: Path, collection: str, snapshot_path: P
     if requested and requested - found:
         raise ValueError(f"No {collection} source directory for: {', '.join(sorted(requested - found))}")
     selected = {story["slug"]: story for story in groups}
+    # Resolve and create shared folders before parallel encoders access them.
+    for slug in sorted(found):
+        _asset(snapshot_path.parent, f"{collection}/{slug}").mkdir(parents=True, exist_ok=True)
     # Only this explicit capture operation reads production art or encodes web copies.
     with ThreadPoolExecutor(max_workers=8) as executor:
         for job, image in zip(jobs, executor.map(_encode, jobs)):
