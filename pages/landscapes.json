@@ -1355,6 +1355,32 @@
       "reader": "stories/everyone-knows-her.html",
       "images": [
         {
+          "id": "01-west-gate-before-the-festival",
+          "title": "The West Gate Closing",
+          "alt": "The West Gate Closing — corrected oil landscape for All the Ways They Knew Her",
+          "source": "pages/landscape-replacements/everyone-knows-her/01-west-gate-before-the-festival.png",
+          "sourceSha256": "b330dd436260fc939174e853c2fd46817ed6683d38755fef63f3474ba50ae627",
+          "full": {
+            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-b330dd436260fc93.webp",
+            "sha256": "accefe00fe35184c40e98e7a2ef20ea4f96aea8ec685b2d9eaf91729ba60b070",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/everyone-knows-her/01-west-gate-before-the-festival-b330dd436260fc93-thumb.webp",
+            "sha256": "c4441255071c455890e216816d3184daeb7993d053f6be936451215d001ee8b3",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
+            "originalSha256": "089f55d32d90f376e3f5b61bc68e5d67aa531b29df2371e9f602a410488d69e8",
+            "correction": "The story begins during the crowded festival as the gate closes. The empty before-festival view invents a different state and omits the waist-high barrier controlling the route.",
+            "prompt": "Revise this oil-painted landscape to match the opening of All the Ways They Knew Her. Keep the existing west park gateway, mature trees, stone gateposts, summer daylight, thick impasto palette-knife brushwork and wide format. The story is DURING the bustling summer festival at NOON, not an empty setup before it. Compose from just outside the gate, close enough that the gateway and a waist-high temporary route barrier dominate the foreground. Two adult festival volunteers in simple bright safety vests are operating that waist-high barrier, which is swung diagonally most of the way across the entrance, leaving one narrow passage. Behind them, food and craft tables press inward from BOTH curbs and many small, impressionistically painted festival visitors crowd the road, under paper pennants with cooking smoke blurring the first block. The road has only a long gentle descent, not a steep hill. The visible channel through tables and people is bicycle-width, with crowd filling nearly all the rest. Keep tiny human silhouettes integrated as landscape scale markers, not detailed portraits. The image must visibly say festival in progress and gate closing. Do not add readable signage, text, border or cars. Retain tactile traditional oil style from the supplied reference.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "04-the-service-verge",
           "title": "The service verge",
           "alt": "The service verge — oil landscape for All the Ways They Knew Her",
