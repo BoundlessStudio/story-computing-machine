@@ -480,16 +480,16 @@
           "title": "The dream sea",
           "alt": "The dream sea — oil landscape for A Knock in Someone Else's Sleep",
           "source": "pages/landscape-replacements/a-knock-in-someone-elses-sleep/03-the-dream-sea.png",
-          "sourceSha256": "0b460f4f8763c192832b41618924e19a0a16bd420ec389d969e5cc0d36a7bc13",
+          "sourceSha256": "47e886a2118d1667bb7d0603caf554775d34addf0ea44fa78b0759b2a6d8a4f6",
           "full": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea-0b460f4f8763c192.webp",
-            "sha256": "cc535c1cd93ed5ea7f25261ee2e51163be7ba94055ccb893d40b72ad76be9f61",
+            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea-47e886a2118d1667.webp",
+            "sha256": "3a78b9c08e073c1d3efd646e282430e07318a26b823fb266ddc580ecf5f916d4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea-0b460f4f8763c192-thumb.webp",
-            "sha256": "70836a6387c55fdb2c1b5fc0efa11b4afeb9c14f2835991bdddafd1ce13b5814",
+            "path": "landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea-47e886a2118d1667-thumb.webp",
+            "sha256": "6b4a0c75b277e5a39ccf8a61c557d7186065b0263374eb2d1930f433af071309",
             "width": 480,
             "height": 320
           },
@@ -497,7 +497,7 @@
             "originalSource": "stories/a-knock-in-someone-elses-sleep/art/landscapes/03-the-dream-sea.png",
             "originalSha256": "5a115b4e2bf945c49dc7d70705dbbb127c5c0bb3a1df52c065cd363d108735f7",
             "correction": "The dream sea is made inside a cupboard and later inside the bus. This natural open coast strips away the interior dream container and relocates it outdoors.",
-            "prompt": "Use case: illustration-story, regenerate from a visual reference. One horizontal 1536x1024 oil painting for 'A Knock in Someone Else's Sleep'. Image 1 supplies the paint handling, foaming sea, blue-green water and warm highlights, but its open outdoor coast is incorrect. The story's sea exists INSIDE A CUPBOARD in a dream room. Show a wooden cupboard with its two doors open in the foreground of an interior with floorboards. The cupboard's clearly visible jambs, top and bottom frame an impossibly deep little sea, its waves and sea light receding within that bounded interior opening. A little tide has just washed over the cupboard's lower lip onto the surrounding floorboards, carrying one small strand of weed, then retreated. The room is visibly enclosed on both sides and above; this cannot read as a doorway onto an outdoor beach. No external coast, trees or outdoor cliff landscape surrounding the cupboard. The sea may have dreamlike depth inside the cabinet, but all outer margins show the room and cabinet structure. No people needed. Retain the reference's tactile impasto oil painting and lively thick brushstrokes throughout both wood and water. A coherent, gentle surreal interior landscape; no labels, writing, collage panels or watermark.",
+            "prompt": "Repaint the second image as a Canadian Group of Seven inspired oil painting, 1536x1024. Reference 1 supplies the ORIGINAL COLLECTION STYLE and the dream sea: boldly brushed cobalt and turquoise water, big creamy sky shapes, broad ochre strokes and purple shadows. Reference 2 supplies corrected CONTENT only; remove its almost photographic floor reflection and detailed cabinet rendering.\n\nThe sea must remain INSIDE the open cupboard of a small bedroom. View from inside the intact room towards a low wooden cupboard whose two open doors frame a luminous ocean and sky. Surf laps over the cupboard's threshold onto ordinary floorboards, with a few ribbons of seaweed on the wet boards. Keep a narrow surrounding margin of ordinary wall and a cropped bed edge so the viewer clearly understands this is an indoor dream opening, not a real outdoor beach and not an entire flooded room. Preserve that spatial contradiction clearly.\n\nUse large deliberate bristle-brush strokes and confident simplified planes throughout: cabinet and floor as broad warm ochre/slate shapes with expressive dark edges, ocean as rhythmic blue and cream bands, clouds as grouped sculptural brush masses. A handful of white strokes suggests moving foam; the wet floor has broad muted blue-gold shapes, not detailed mirror reflections. Brushstrokes must create the forms; avoid fine wood-grain illustration, every hinge and splashing droplet, smooth modeled rendering, photographic perspective effects or thick-paint filter. Quiet and forceful painterly composition with limited warm/cool colors. No people, text, signature or borders.",
             "generator": "image_gen"
           }
         },
