@@ -2372,44 +2372,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "04-over-the-garden-wall",
-          "title": "Over the garden wall",
-          "alt": "Over the garden wall — oil landscape for Still Taking Runaways",
-          "source": "stories/still-taking-runaways/art/landscapes/04-over-the-garden-wall.png",
-          "sourceSha256": "3ec5765755f0f71e7dc87907e90d7e694c4594fc3a91351f1af41efd2ea16ea5",
-          "full": {
-            "path": "landscapes/still-taking-runaways/04-over-the-garden-wall.webp",
-            "sha256": "c3a2056775b9decab4f74dd412df671d79efeb6e93abfd2bf59c6338611764b5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/still-taking-runaways/04-over-the-garden-wall-thumb.webp",
-            "sha256": "7a59e0649ba7508bfd477d67be9200eb59bc28e597bb55d2bf01e8cfd5ae9bd4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-road-back-to-the-tent",
-          "title": "The road back to the tent",
-          "alt": "The road back to the tent — oil landscape for Still Taking Runaways",
-          "source": "stories/still-taking-runaways/art/landscapes/05-the-road-back-to-the-tent.png",
-          "sourceSha256": "3c6fe6064dfd808d374abd580183e6f01ba3c2be8cd7f3255ab856390ec114a7",
-          "full": {
-            "path": "landscapes/still-taking-runaways/05-the-road-back-to-the-tent.webp",
-            "sha256": "9a92a336a4df39b46fbecbd9af4e9a4d1ebf74bf2f00ceae6f4ab1b0f3e9a467",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/still-taking-runaways/05-the-road-back-to-the-tent-thumb.webp",
-            "sha256": "1003aa686150a42c9348651946b6e2c52373e90daf501698a2f0b476bbf1f823",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -16815,6 +16777,16 @@
       "source": "stories/stay-out-of-my-city/art/landscapes/05-clear-water-below-the-ladder.png",
       "sourceSha256": "27b4f910df07c092f0db1a4fc1ad39c1f82b8078b491a8a8a0d2de260fd27f1c",
       "reason": "Repeats the clear-water swim view while changing the shore access from the established metal rails to a different wooden ladder, crowding the set with another harbor angle."
+    },
+    {
+      "source": "stories/still-taking-runaways/art/landscapes/04-over-the-garden-wall.png",
+      "sourceSha256": "3ec5765755f0f71e7dc87907e90d7e694c4594fc3a91351f1af41efd2ea16ea5",
+      "reason": "Adds another green-gated garden view while replacing the shortcut's cabbage patch and clothesline with a generic flower garden; duplicates the stronger pear-tree yard."
+    },
+    {
+      "source": "stories/still-taking-runaways/art/landscapes/05-the-road-back-to-the-tent.png",
+      "sourceSha256": "3c6fe6064dfd808d374abd580183e6f01ba3c2be8cd7f3255ab856390ec114a7",
+      "reason": "Invents a sunset return to the circus. The story ends in the family's kitchen, before such a return."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
