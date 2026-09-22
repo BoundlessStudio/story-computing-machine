@@ -7968,25 +7968,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-the-road-after-the-noon-well",
-          "title": "The road after the noon well",
-          "alt": "The road after the noon well — oil landscape for The Weight They Never Counted",
-          "source": "stories/the-weight-they-never-counted/art/landscapes/05-the-road-after-the-noon-well.png",
-          "sourceSha256": "8659ca00433369887b9f83b11dcc5c2367caea56dcb3472d204bd6323c058ebc",
-          "full": {
-            "path": "landscapes/the-weight-they-never-counted/05-the-road-after-the-noon-well.webp",
-            "sha256": "395f16b4c31cd4eb145f29c666a4e5515da1171d6f5c6703b5b64ea1db3ef874",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-weight-they-never-counted/05-the-road-after-the-noon-well-thumb.webp",
-            "sha256": "af197d651e5d50e9117b9f34d30fa9dd60ae46a20fb1f8d28cacd71d1cc85b85",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12759,6 +12740,11 @@
       "source": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/04-the-silver-bend-below.png",
       "sourceSha256": "82743b79b8e59fa884fc5784067bd73e0b3e969e8e9e43ca2b3d891a7dc4febc",
       "reason": "Repeats the city and silver river bend already established in the retained Nine Eaves panorama without a distinct course location."
+    },
+    {
+      "source": "stories/the-weight-they-never-counted/art/landscapes/05-the-road-after-the-noon-well.png",
+      "sourceSha256": "8659ca00433369887b9f83b11dcc5c2367caea56dcb3472d204bd6323c058ebc",
+      "reason": "The steep grade after the noon well is assigned on the manifest before departure. The story does not reach this well-and-hill scene; it adds another road landscape from a future instruction."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
