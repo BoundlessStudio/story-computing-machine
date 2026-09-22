@@ -4979,6 +4979,25 @@
       "reader": "stories/the-gentlest-terror.html",
       "images": [
         {
+          "id": "01-reed-estates-of-ersene",
+          "title": "Reed estates of ersene",
+          "alt": "Reed estates of ersene — oil landscape for The Gentlest Terror",
+          "source": "stories/the-gentlest-terror/art/landscapes/01-reed-estates-of-ersene.png",
+          "sourceSha256": "9726cefbb406743e8d02d2290b1c7b89bd7720c257ac6bed824aca7a74a301e0",
+          "full": {
+            "path": "landscapes/the-gentlest-terror/01-reed-estates-of-ersene.webp",
+            "sha256": "dab06b978a3def05c3d7af787f850503a0df95b180c120cb99a4fe0838ccd36c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-gentlest-terror/01-reed-estates-of-ersene-thumb.webp",
+            "sha256": "07211e646f3f4bf5886f70ac577c43e1ed43df1941b17ef7b28d14ffc5a133ba",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "03-cress-orchard-channels",
           "title": "Cress orchard channels",
           "alt": "Cress orchard channels — oil landscape for The Gentlest Terror",
@@ -11827,11 +11846,6 @@
       "source": "stories/the-friends-i-built/art/landscapes/05-morning-outside-the-house.png",
       "sourceSha256": "9fdcd46229f6cfce2b3b5caf88b00aaaf30a6738dcda805fcdb98d2fef87408e",
       "reason": "Turns the indoor home/conveyance ending into another panoramic road view, repeating the school approach without a distinct source scene."
-    },
-    {
-      "source": "stories/the-gentlest-terror/art/landscapes/01-reed-estates-of-ersene.png",
-      "sourceSha256": "9726cefbb406743e8d02d2290b1c7b89bd7720c257ac6bed824aca7a74a301e0",
-      "reason": "The reed estates are only an arriving dragon's place of origin, not a setting visited or observed in the story."
     },
     {
       "source": "stories/the-gentlest-terror/art/landscapes/02-empty-cliff-roosts.png",
