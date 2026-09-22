@@ -3204,25 +3204,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-after-six-blocks",
-          "title": "After six blocks",
-          "alt": "After six blocks — oil landscape for The City Keeps Score",
-          "source": "stories/drone-down/art/landscapes/05-after-six-blocks.png",
-          "sourceSha256": "8144a185b58624b75019918e67a1ebf98477e4a1d927b55d0356f073dd7485a5",
-          "full": {
-            "path": "landscapes/drone-down/05-after-six-blocks.webp",
-            "sha256": "3e4f6b19c5c5129e7e0d1bf897b98e3f0f1bb5b2dd9889e508d20f296a15001b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/drone-down/05-after-six-blocks-thumb.webp",
-            "sha256": "9403d633615eb4104e43f2ffcf2d881be635acfb5dbd8f7367386b4621ecf917",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -15728,6 +15709,11 @@
       "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
       "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
       "reason": "The second dawn travels in seven unequal lines; the Glass Sea is not changed into an ordinary liquid ocean. This conventional coastal sunset with natural waves and pine shore loses both defining facts."
+    },
+    {
+      "source": "stories/drone-down/art/landscapes/05-after-six-blocks.png",
+      "sourceSha256": "8144a185b58624b75019918e67a1ebf98477e4a1d927b55d0356f073dd7485a5",
+      "reason": "Repeats the same rainy shop-street panorama as the opening without a materially different location or state."
     },
     {
       "source": "stories/empire-within/art/landscapes/02-the-old-club-district.png",
