@@ -2156,25 +2156,6 @@
       "reader": "stories/self-reflection.html",
       "images": [
         {
-          "id": "01-first-dawn-over-the-neighborhood",
-          "title": "First dawn over the neighborhood",
-          "alt": "First dawn over the neighborhood — oil landscape for Self-Reflection",
-          "source": "stories/self-reflection/art/landscapes/01-first-dawn-over-the-neighborhood.png",
-          "sourceSha256": "e3a6e908f3e0a81c74458993e8c811d3194a90427918ac859002115617a1e0e6",
-          "full": {
-            "path": "landscapes/self-reflection/01-first-dawn-over-the-neighborhood.webp",
-            "sha256": "e2cac7f7cdddec5e43a51a15f8a0e8d2f65455783d779b5b6e18ea51a4c03bc4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/self-reflection/01-first-dawn-over-the-neighborhood-thumb.webp",
-            "sha256": "7e7c33bcf8a7ab8367a1503d98be08709eca47d8d6072abb2d06ea6819a55b6f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "02-wind-beyond-the-school",
           "title": "Wind beyond the school",
           "alt": "Wind beyond the school — oil landscape for Self-Reflection",
@@ -2189,63 +2170,6 @@
           "thumbnail": {
             "path": "landscapes/self-reflection/02-wind-beyond-the-school-thumb.webp",
             "sha256": "b8f5e2f63424d29104ce7d0029433dfc8452d82d2d2b2318ce5e6fcefb1b6134",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-evening-without-an-echo",
-          "title": "Evening without an echo",
-          "alt": "Evening without an echo — oil landscape for Self-Reflection",
-          "source": "stories/self-reflection/art/landscapes/03-evening-without-an-echo.png",
-          "sourceSha256": "7bdfe25951e29e558731408d666ee71b32409a6b0b7564df14c31210464816ff",
-          "full": {
-            "path": "landscapes/self-reflection/03-evening-without-an-echo.webp",
-            "sha256": "bf2674b3c7114afb8132d8a05bef83d1fb36bf028c6012791e93e1f71a2ded87",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/self-reflection/03-evening-without-an-echo-thumb.webp",
-            "sha256": "85f17ef23709dfb47c6860ef815b69574d784aecba54db8a2b01dce6becb2fec",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-fourth-dawn",
-          "title": "The fourth dawn",
-          "alt": "The fourth dawn — oil landscape for Self-Reflection",
-          "source": "stories/self-reflection/art/landscapes/04-the-fourth-dawn.png",
-          "sourceSha256": "b82ae0c118871766096f17f6633306341411d0b28377bc149acf34adffc8a977",
-          "full": {
-            "path": "landscapes/self-reflection/04-the-fourth-dawn.webp",
-            "sha256": "8e74b93f2b38dfd059d454e42eaab794fff53d00b6be09716ddb3f2490337232",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/self-reflection/04-the-fourth-dawn-thumb.webp",
-            "sha256": "dfecf8fd70aef506676f7d6ad7f19dd68ea22e495878cb9514782da9bb388a9e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-cold-air-after-sunrise",
-          "title": "Cold air after sunrise",
-          "alt": "Cold air after sunrise — oil landscape for Self-Reflection",
-          "source": "stories/self-reflection/art/landscapes/05-cold-air-after-sunrise.png",
-          "sourceSha256": "9a14861da9f242f260380933605710cd82886cafc009b7e1af056b199ecda725",
-          "full": {
-            "path": "landscapes/self-reflection/05-cold-air-after-sunrise.webp",
-            "sha256": "57d59b8c6889687d7d44f05acfc97f25a2f372631714950782b10e8f0bfe287e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/self-reflection/05-cold-air-after-sunrise-thumb.webp",
-            "sha256": "e2c39c292a10877a44a29dd2ca9085e4a50adbb39e21655688c0a83e2cb26909",
             "width": 480,
             "height": 320
           }
@@ -16997,6 +16921,26 @@
       "source": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
       "sourceSha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
       "reason": "Renders the quarry as a closed circular pit with a flooded bottom. The dragon on the lowest shelf needs an open descending road to a valley lip, not a climb out of a deep enclosed bowl."
+    },
+    {
+      "source": "stories/self-reflection/art/landscapes/01-first-dawn-over-the-neighborhood.png",
+      "sourceSha256": "e3a6e908f3e0a81c74458993e8c811d3194a90427918ac859002115617a1e0e6",
+      "reason": "Moves the first awakening from Nina's bed into an invented neighborhood meadow."
+    },
+    {
+      "source": "stories/self-reflection/art/landscapes/03-evening-without-an-echo.png",
+      "sourceSha256": "7bdfe25951e29e558731408d666ee71b32409a6b0b7564df14c31210464816ff",
+      "reason": "Invents an exterior evening vista without a corresponding scene; conversations and fading occur indoors."
+    },
+    {
+      "source": "stories/self-reflection/art/landscapes/04-the-fourth-dawn.png",
+      "sourceSha256": "b82ae0c118871766096f17f6633306341411d0b28377bc149acf34adffc8a977",
+      "reason": "Moves Anin's fourth-dawn desk scene outside into a garden."
+    },
+    {
+      "source": "stories/self-reflection/art/landscapes/05-cold-air-after-sunrise.png",
+      "sourceSha256": "9a14861da9f242f260380933605710cd82886cafc009b7e1af056b199ecda725",
+      "reason": "Turns cold air through the open bedroom window into an outdoor hill path not visited in the prose."
     },
     {
       "source": "stories/the-bat-at-the-door/art/landscapes/01-rain-above-the-lane.png",
