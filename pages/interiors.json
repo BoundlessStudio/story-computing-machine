@@ -2,6 +2,70 @@
   "schemaVersion": 1,
   "stories": [
     {
+      "slug": "a-busy-year-for-dying",
+      "title": "A Busy Year for Dying",
+      "reader": "stories/a-busy-year-for-dying.html",
+      "images": [
+        {
+          "id": "01-signal-hut-shelter",
+          "title": "Signal hut shelter",
+          "alt": "Signal hut shelter — oil interior study for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/interiors/01-signal-hut-shelter.png",
+          "sourceSha256": "715eca5f0ba2d04a8e022984f827d2bf23556f8a800251579b55d97515deb210",
+          "full": {
+            "path": "interiors/a-busy-year-for-dying/01-signal-hut-shelter-715eca5f0ba2d04a.webp",
+            "sha256": "dcd573a536bb4d5f11cbbf42c27406447214181a7ccfcf9213b0f216069bc886",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-busy-year-for-dying/01-signal-hut-shelter-715eca5f0ba2d04a-thumb.webp",
+            "sha256": "405739b263805597763f0a432faada56ff63f3c828ee2b9a904a29526f9ff52a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-lamp-and-borrowed-blanket",
+          "title": "Lamp and borrowed blanket",
+          "alt": "Lamp and borrowed blanket — oil interior study for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/interiors/02-lamp-and-borrowed-blanket.png",
+          "sourceSha256": "b9fc95578c61e5b095174f2058ed7d4b06c0c39ded16e5effbee03c965735c9d",
+          "full": {
+            "path": "interiors/a-busy-year-for-dying/02-lamp-and-borrowed-blanket-b9fc95578c61e5b0.webp",
+            "sha256": "ea67b4e383fef8c323184425ee776aeef5fafd8d835d88570e6809f1216acc3f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-busy-year-for-dying/02-lamp-and-borrowed-blanket-b9fc95578c61e5b0-thumb.webp",
+            "sha256": "edcc09f528418043a705953de59f170e9b16c68d12f3bddf71807d5728daef20",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-huts-rear-window",
+          "title": "The huts rear window",
+          "alt": "The huts rear window — oil interior study for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/interiors/03-the-huts-rear-window.png",
+          "sourceSha256": "067771f529f8381b74dd537c7c4836ab13587db9b8f524fd41f58d451ce0272a",
+          "full": {
+            "path": "interiors/a-busy-year-for-dying/03-the-huts-rear-window-067771f529f8381b.webp",
+            "sha256": "ad1d293564aceeadcd9566a90132c38423b5814e347ae950ae57f31533abaa2c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-busy-year-for-dying/03-the-huts-rear-window-067771f529f8381b-thumb.webp",
+            "sha256": "d18a5ce5d4456971668b871768eeb1f4985d7a00ccbe7c459148a7b200075103",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-crown-for-the-endless-fire",
       "title": "A Crown for the Endless Fire",
       "reader": "stories/a-crown-for-the-endless-fire.html",
@@ -59,6 +123,70 @@
           "thumbnail": {
             "path": "interiors/a-crown-for-the-endless-fire/03-service-stair-junction-f7e0c4268f0518d4-thumb.webp",
             "sha256": "76840b3ec03088dc848203e346c861b4d02fcbcc87d4a7b617eca918b5d7ea98",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-little-more-room",
+      "title": "A Little More Room",
+      "reader": "stories/a-little-more-room.html",
+      "images": [
+        {
+          "id": "01-suzettes-sitting-room",
+          "title": "Suzettes sitting room",
+          "alt": "Suzettes sitting room — oil interior study for A Little More Room",
+          "source": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+          "sourceSha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17",
+          "full": {
+            "path": "interiors/a-little-more-room/01-suzettes-sitting-room-c8b54fefaee67a64.webp",
+            "sha256": "f8b8c969b68c926fe9dc5729c9fb442257c62e5038c64118e6e9e1434c46e354",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-more-room/01-suzettes-sitting-room-c8b54fefaee67a64-thumb.webp",
+            "sha256": "d3f7cb20a3853b5e1e55f0ff488dccc83b7bb0e88f4e1caac3fb3cfa4b282a9b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-records-by-the-rug",
+          "title": "Records by the rug",
+          "alt": "Records by the rug — oil interior study for A Little More Room",
+          "source": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
+          "sourceSha256": "05ba5608e2114bfe43207a5638341b53ccfe921cad1d455ae28200d45ddd2e30",
+          "full": {
+            "path": "interiors/a-little-more-room/02-records-by-the-rug-05ba5608e2114bfe.webp",
+            "sha256": "c028d8527c0c70548a0a5325a57cb303dd58233d40d4cc46a4a3e3eea8170045",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-more-room/02-records-by-the-rug-05ba5608e2114bfe-thumb.webp",
+            "sha256": "e8ed9487e9a5594f3d8f9f7f553aef04eec86cee4563ac5667ef0af9cb7b7a7d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-adjoining-hallway",
+          "title": "The adjoining hallway",
+          "alt": "The adjoining hallway — oil interior study for A Little More Room",
+          "source": "stories/a-little-more-room/art/interiors/03-the-adjoining-hallway.png",
+          "sourceSha256": "2ca081a673891d819896a92c3bc351da96da0b642a14b5e4b9fdbe01f51d9eb5",
+          "full": {
+            "path": "interiors/a-little-more-room/03-the-adjoining-hallway-2ca081a673891d81.webp",
+            "sha256": "cd42840628196ac229ed4790e163f0644843b3cc8c5be8c4d8f2f4ab26cd6e40",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-little-more-room/03-the-adjoining-hallway-2ca081a673891d81-thumb.webp",
+            "sha256": "8811180484408ecc440dab82c4db20a18682d24e0409dc61a1a17bf08d976bb5",
             "width": 480,
             "height": 320
           }
