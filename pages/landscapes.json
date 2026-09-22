@@ -6730,108 +6730,6 @@
       ]
     },
     {
-      "slug": "the-station-between",
-      "title": "The Station Between",
-      "reader": "stories/the-station-between.html",
-      "images": [
-        {
-          "id": "01-rails-into-the-black",
-          "title": "Rails into the black",
-          "alt": "Rails into the black — oil landscape for The Station Between",
-          "source": "stories/the-station-between/art/landscapes/01-rails-into-the-black.png",
-          "sourceSha256": "deb7336a3dd5dffdab2dc3b84f0ca53bee6b4991672b72b14903d925fe01bdb9",
-          "full": {
-            "path": "landscapes/the-station-between/01-rails-into-the-black.webp",
-            "sha256": "e3479de2cc829189c8874bced7fce5e28be192f4d9bb98e211dd4fe10186a51c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-station-between/01-rails-into-the-black-thumb.webp",
-            "sha256": "981fe74b0efc906244a2a47951cd0ab6305127d0228f81055a0c89f4b10a8b2d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-hospital-at-midnight",
-          "title": "Hospital at midnight",
-          "alt": "Hospital at midnight — oil landscape for The Station Between",
-          "source": "stories/the-station-between/art/landscapes/02-hospital-at-midnight.png",
-          "sourceSha256": "7215e165200d100c5db4ba0a8f23cb45d20979d09a5b56598ae441de00f928ba",
-          "full": {
-            "path": "landscapes/the-station-between/02-hospital-at-midnight.webp",
-            "sha256": "96b3342a13350c39be6f1fc4452096d2d693c9a980895a83fadad83116766ddd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-station-between/02-hospital-at-midnight-thumb.webp",
-            "sha256": "c96e2e021dc1639c845188fa8601a8c75120321c87532eee872c7bef080ae3d9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-road-home-at-midnight",
-          "title": "The road home at midnight",
-          "alt": "The road home at midnight — oil landscape for The Station Between",
-          "source": "stories/the-station-between/art/landscapes/03-the-road-home-at-midnight.png",
-          "sourceSha256": "24b2606601ba8b755918b103b20c395ea161acfd7c8445537e26c553a32414cd",
-          "full": {
-            "path": "landscapes/the-station-between/03-the-road-home-at-midnight.webp",
-            "sha256": "2a8214c8b4fc04a4e89c9f50a7ec9706775ee3ea9b39b82c833ddd820904663f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-station-between/03-the-road-home-at-midnight-thumb.webp",
-            "sha256": "b6fdd1cedd021e714c9834bcb42c7907f6b67b28a083853899c40709379cc90f",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-last-red-light-on-the-rails",
-          "title": "Last red light on the rails",
-          "alt": "Last red light on the rails — oil landscape for The Station Between",
-          "source": "stories/the-station-between/art/landscapes/04-last-red-light-on-the-rails.png",
-          "sourceSha256": "b99b88e627b15e094ca9790ba5ce0f7106f37e0ad39595c940cc12d8e906e06b",
-          "full": {
-            "path": "landscapes/the-station-between/04-last-red-light-on-the-rails.webp",
-            "sha256": "777b8bd95dd9b8367de082fbef35ce38695572ae648ae65ebabcf8033a13e20b",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-station-between/04-last-red-light-on-the-rails-thumb.webp",
-            "sha256": "03c330db961b68cb91eecdff069c965908bea4e58212148c68469bc9baac3e1a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-cold-distance-beyond-the-station",
-          "title": "Cold distance beyond the station",
-          "alt": "Cold distance beyond the station — oil landscape for The Station Between",
-          "source": "stories/the-station-between/art/landscapes/05-cold-distance-beyond-the-station.png",
-          "sourceSha256": "051dbb48686133fcb198080768efbfc80b916b3e9c678cac15c993deb9b42b4c",
-          "full": {
-            "path": "landscapes/the-station-between/05-cold-distance-beyond-the-station.webp",
-            "sha256": "980acf90c59e87f96397bdd6b78f536385f058ad35a6d5905b99d804dabfbac5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-station-between/05-cold-distance-beyond-the-station-thumb.webp",
-            "sha256": "bcdd18a062ee931fdfadf41bd7b3d41dc0ef412d08fe583b2b493fa3ec36ce2a",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "strength-of-ten",
       "title": "The Strength of Ten",
       "reader": "stories/strength-of-ten.html",
@@ -13579,6 +13477,31 @@
       "source": "stories/the-spiders-hunger/art/landscapes/03-low-sun-on-the-back-roof.png",
       "sourceSha256": "a9e55a30711836f30048e6b43be3555dca56c50a1628af514e84448a21a4b7eb",
       "reason": "The back roof is mentioned as a repair task, not visited as an outdoor scene; this adds another view of the inn instead of a distinct story setting."
+    },
+    {
+      "source": "stories/the-station-between/art/landscapes/01-rails-into-the-black.png",
+      "sourceSha256": "deb7336a3dd5dffdab2dc3b84f0ca53bee6b4991672b72b14903d925fe01bdb9",
+      "reason": "The tracks belong to an enclosed, windowed afterlife station; snowy outdoor rails under clouds invent a natural exterior."
+    },
+    {
+      "source": "stories/the-station-between/art/landscapes/02-hospital-at-midnight.png",
+      "sourceSha256": "7215e165200d100c5db4ba0a8f23cb45d20979d09a5b56598ae441de00f928ba",
+      "reason": "The remembered hospital scenes are indoors. A snowy hospital exterior at midnight is not a source scene."
+    },
+    {
+      "source": "stories/the-station-between/art/landscapes/03-the-road-home-at-midnight.png",
+      "sourceSha256": "24b2606601ba8b755918b103b20c395ea161acfd7c8445537e26c553a32414cd",
+      "reason": "Going home to shower is recalled, but this moonlit wooded road is invented scenery rather than an observed setting."
+    },
+    {
+      "source": "stories/the-station-between/art/landscapes/04-last-red-light-on-the-rails.png",
+      "sourceSha256": "b99b88e627b15e094ca9790ba5ce0f7106f37e0ad39595c940cc12d8e906e06b",
+      "reason": "The last train's red lights disappear into the station's blackness, not through a sunlit open wilderness."
+    },
+    {
+      "source": "stories/the-station-between/art/landscapes/05-cold-distance-beyond-the-station.png",
+      "sourceSha256": "051dbb48686133fcb198080768efbfc80b916b3e9c678cac15c993deb9b42b4c",
+      "reason": "The station has black panes and no sunrise; open tracks across a snowy plain replace its enclosed supernatural setting."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
