@@ -1211,25 +1211,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "05-lamps-below-the-ridge",
-          "title": "Lamps below the ridge",
-          "alt": "Lamps below the ridge — oil landscape for Every Flower She Knew",
-          "source": "stories/every-flower-she-knew/art/landscapes/05-lamps-below-the-ridge.png",
-          "sourceSha256": "a9fe1ea1168e34bae6066fd5d2f85fc0be1f0a37843d2afefb50873afc87f3c4",
-          "full": {
-            "path": "landscapes/every-flower-she-knew/05-lamps-below-the-ridge.webp",
-            "sha256": "3cbe9d7d1a4fefec23c45f53d17948adb30860b10d0683491f7d19e7190a5f2f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/every-flower-she-knew/05-lamps-below-the-ridge-thumb.webp",
-            "sha256": "0f5080949d012f7b15bb917d2ed22001dd656414283f5d557c103e42b8cfbc92",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -18031,6 +18012,11 @@
       "source": "stories/daughter-of-the-sun/art/landscapes/05-the-second-dawn.png",
       "sourceSha256": "2161ec44417d6dabc0f9992b630bcfc8e205ab167b5ec8e65acc48eebe9434ec",
       "reason": "The second dawn travels in seven unequal lines; the Glass Sea is not changed into an ordinary liquid ocean. This conventional coastal sunset with natural waves and pine shore loses both defining facts."
+    },
+    {
+      "source": "stories/every-flower-she-knew/art/landscapes/05-lamps-below-the-ridge.png",
+      "sourceSha256": "a9fe1ea1168e34bae6066fd5d2f85fc0be1f0a37843d2afefb50873afc87f3c4",
+      "reason": "The village lamps appear only after full dark, after daylight has left even the western wall. The painting shows a bright orange sunset still lighting the cliffs and sky."
     },
     {
       "source": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
