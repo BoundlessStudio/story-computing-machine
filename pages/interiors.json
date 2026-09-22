@@ -4226,6 +4226,70 @@
       ]
     },
     {
+      "slug": "the-first-people",
+      "title": "The First People",
+      "reader": "stories/the-first-people.html",
+      "images": [
+        {
+          "id": "01-coastal-kitchen-in-rain",
+          "title": "Coastal kitchen in rain",
+          "alt": "Coastal kitchen in rain — oil interior study for The First People",
+          "source": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+          "sourceSha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+          "full": {
+            "path": "interiors/the-first-people/01-coastal-kitchen-in-rain-5f2702736d203e00.webp",
+            "sha256": "54bfe69a5ee198deb365217355d32f8bf6cbe2776d5beb1ed37699e17a994eb6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-people/01-coastal-kitchen-in-rain-5f2702736d203e00-thumb.webp",
+            "sha256": "b2c410af90dfd31f7569782d6c5d3e44e7ca1c92d3a70aa417a625ab45566259",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-kitchen-census-projection",
+          "title": "Kitchen census projection",
+          "alt": "Kitchen census projection — oil interior study for The First People",
+          "source": "stories/the-first-people/art/interiors/02-kitchen-census-projection.png",
+          "sourceSha256": "27eb185ec0047e714b62dafec86f3d36aeb526a20b34e1dc77efb2991b1b1ee2",
+          "full": {
+            "path": "interiors/the-first-people/02-kitchen-census-projection-27eb185ec0047e71.webp",
+            "sha256": "d4bce8a47ddb549b82e15a863640f6ac57e3d44491e8d8224e1f9fd0040cdfea",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-people/02-kitchen-census-projection-27eb185ec0047e71-thumb.webp",
+            "sha256": "7dfa32d5f9013dcd5b4bdba2f944d2d86bee3ac231588d53e65b137827912b74",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kitchen-listening-panel",
+          "title": "Kitchen listening panel",
+          "alt": "Kitchen listening panel — oil interior study for The First People",
+          "source": "stories/the-first-people/art/interiors/03-kitchen-listening-panel.png",
+          "sourceSha256": "c9d2b3f3fe0ffe77dd1db1752ea37f84a8a6a71e1caa273c9e59d37ac936bd47",
+          "full": {
+            "path": "interiors/the-first-people/03-kitchen-listening-panel-c9d2b3f3fe0ffe77.webp",
+            "sha256": "e126ddbc8c21843a2dc2817e8216a01e84be92b332b155a696dc415db4b7203d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-people/03-kitchen-listening-panel-c9d2b3f3fe0ffe77-thumb.webp",
+            "sha256": "5f1c6eab8f962771b557bf2d2ef4c38050d8753912e2041827c99c37ac05d7b2",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-first-winter",
       "title": "The First Winter",
       "reader": "stories/the-first-winter.html",
@@ -4283,6 +4347,70 @@
           "thumbnail": {
             "path": "interiors/the-first-winter/03-the-cottage-after-dawn-0d00cfd092780c3b-thumb.webp",
             "sha256": "d88802a679252f129461db67a235cafa34998322e8274ae27322c6944d636b24",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-first-wound",
+      "title": "The First Wound",
+      "reader": "stories/the-first-wound.html",
+      "images": [
+        {
+          "id": "01-the-session-room",
+          "title": "The session room",
+          "alt": "The session room — oil interior study for The First Wound",
+          "source": "stories/the-first-wound/art/interiors/01-the-session-room.png",
+          "sourceSha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+          "full": {
+            "path": "interiors/the-first-wound/01-the-session-room-5754710e5fad834f.webp",
+            "sha256": "d579211f93a096b702edccf99f1424f0d9507caac19236ff5982b0b936a22138",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-wound/01-the-session-room-5754710e5fad834f-thumb.webp",
+            "sha256": "d2c039940a5464ed582c12f03541fc5798892f3defb35eb22850bdf3d8ea53e7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-river-tram",
+          "title": "The river tram",
+          "alt": "The river tram — oil interior study for The First Wound",
+          "source": "stories/the-first-wound/art/interiors/02-the-river-tram.png",
+          "sourceSha256": "43eaa3fc45bef42f4c9afafdc4385c2eb653b6b25fd04bb869db6e2351386ad5",
+          "full": {
+            "path": "interiors/the-first-wound/02-the-river-tram-43eaa3fc45bef42f.webp",
+            "sha256": "2980f223ec01efbc80dca88fef390469656e32fcd6b26072682a0e9d5ea44c6a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-wound/02-the-river-tram-43eaa3fc45bef42f-thumb.webp",
+            "sha256": "f05bbdc092291773049c2c10a7f3eed09470bb453cd29c6dd40ebe6dd7f1f987",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-mountain-barrier",
+          "title": "The mountain barrier",
+          "alt": "The mountain barrier — oil interior study for The First Wound",
+          "source": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+          "sourceSha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "full": {
+            "path": "interiors/the-first-wound/03-the-mountain-barrier-2e16beea2267fd14.webp",
+            "sha256": "1ecb23eff968d91091c68473fbe5730d229d919f1bf11774c0e0eb8ecf74be25",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-first-wound/03-the-mountain-barrier-2e16beea2267fd14-thumb.webp",
+            "sha256": "6aa547ae710d175239d2e59395fab8d8156f8f9ba0df27c4ac37275cd97107c4",
             "width": 480,
             "height": 320
           }
