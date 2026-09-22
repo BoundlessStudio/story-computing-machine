@@ -1410,6 +1410,70 @@
       ]
     },
     {
+      "slug": "four-million-falling",
+      "title": "Four Million Falling",
+      "reader": "stories/four-million-falling.html",
+      "images": [
+        {
+          "id": "01-orison-control-room",
+          "title": "Orison control room",
+          "alt": "Orison control room — oil interior study for Four Million Falling",
+          "source": "stories/four-million-falling/art/interiors/01-orison-control-room.png",
+          "sourceSha256": "361b2dc563e11b7424882a220a11fc6e41eb7340749350d6d956a7f6f5bd279d",
+          "full": {
+            "path": "interiors/four-million-falling/01-orison-control-room-361b2dc563e11b74.webp",
+            "sha256": "d6914dca45351f9329dad71ae07e8a92f6094a8918952ce8bb9307e5963860c4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-million-falling/01-orison-control-room-361b2dc563e11b74-thumb.webp",
+            "sha256": "2d157ec34c61dc4af1889a410ce0d88fc26d37171d46c39bfe0cef3340981263",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-manual-sequencer",
+          "title": "Manual sequencer",
+          "alt": "Manual sequencer — oil interior study for Four Million Falling",
+          "source": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+          "sourceSha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+          "full": {
+            "path": "interiors/four-million-falling/02-manual-sequencer-ce6951674796fe6e.webp",
+            "sha256": "642ccb70cf62d7d9a8b24e56840d0b4b109216a6990afadd317895b53e99254f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-million-falling/02-manual-sequencer-ce6951674796fe6e-thumb.webp",
+            "sha256": "c26a2ccbf3470680bb7663cd2e4cbf2f6c4b375887ee8c28f390c817b5c047d3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-control-room-after-impact",
+          "title": "Control room after impact",
+          "alt": "Control room after impact — oil interior study for Four Million Falling",
+          "source": "stories/four-million-falling/art/interiors/03-control-room-after-impact.png",
+          "sourceSha256": "991eefbcde2631e7166ea0dcffdaab8a996007bd652b6d2a06fd9fa3cfbddaba",
+          "full": {
+            "path": "interiors/four-million-falling/03-control-room-after-impact-991eefbcde2631e7.webp",
+            "sha256": "9a16483dbe7cf98edf548087d123d03f3091850e753ed3fdded43297ecf7bf73",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/four-million-falling/03-control-room-after-impact-991eefbcde2631e7-thumb.webp",
+            "sha256": "d48afe957757086210ed0f3c05507e41e0dc2b495bf9e5b69fe57e2eed5c58a9",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "captive-couples",
       "title": "Held Together",
       "reader": "stories/captive-couples.html",
@@ -1915,6 +1979,70 @@
           "thumbnail": {
             "path": "interiors/blood-types-of-immortality/03-the-small-comparison-board-75eb24cdd6b8c16e-thumb.webp",
             "sha256": "d99b9a26960b61c23bb0014c2c0c2966abbf36a5b84cca1519689bb63845cd1e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "fourth-house",
+      "title": "The Fourth House",
+      "reader": "stories/fourth-house.html",
+      "images": [
+        {
+          "id": "01-source-room",
+          "title": "Source room",
+          "alt": "Source room — oil interior study for The Fourth House",
+          "source": "stories/fourth-house/art/interiors/01-source-room.png",
+          "sourceSha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+          "full": {
+            "path": "interiors/fourth-house/01-source-room-50d7da1b9d07ba7c.webp",
+            "sha256": "52be65f5d58e6e0fd27ff8a0376c1a13db6c91ee319b440a23779d63d178e076",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/fourth-house/01-source-room-50d7da1b9d07ba7c-thumb.webp",
+            "sha256": "988774f948b135dac4658268002a69ca54473f9795df84a97e516f5721466220",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-window-side-table",
+          "title": "Window side table",
+          "alt": "Window side table — oil interior study for The Fourth House",
+          "source": "stories/fourth-house/art/interiors/02-window-side-table.png",
+          "sourceSha256": "520e01f9ea9dba2fbc608573c6aaa5e8748e8b30e1e877fa80eee608d679be3d",
+          "full": {
+            "path": "interiors/fourth-house/02-window-side-table-520e01f9ea9dba2f.webp",
+            "sha256": "28456cbabc6bf84525a8e6a491e6dcc56fa44cf37652516af89fb0a951343f50",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/fourth-house/02-window-side-table-520e01f9ea9dba2f-thumb.webp",
+            "sha256": "515d2e3871fad900a7e34f88dae7d003a1c62053d3bcd9f5cb82f81eda563913",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-coupling-and-load-frame",
+          "title": "Coupling and load frame",
+          "alt": "Coupling and load frame — oil interior study for The Fourth House",
+          "source": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "sourceSha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+          "full": {
+            "path": "interiors/fourth-house/03-coupling-and-load-frame-bb3304fea0c7e144.webp",
+            "sha256": "8d0440b10254af363af1a5dd920c6eb1da3c20c0b15d84acbcffe5ca75c05918",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/fourth-house/03-coupling-and-load-frame-bb3304fea0c7e144-thumb.webp",
+            "sha256": "f9f5c7a8556f840506c5451667379bf9225ba6431ec6d9e1f3ea0cbda0218dd8",
             "width": 480,
             "height": 320
           }
