@@ -8544,82 +8544,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-march-road",
-          "title": "The march road",
-          "alt": "The march road — oil landscape for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/landscapes/02-the-march-road.png",
-          "sourceSha256": "69136a956c4716013dce68f97808c4c1fd969a1b9579444381006bc71d3817a3",
-          "full": {
-            "path": "landscapes/what-i-hate-most/02-the-march-road.webp",
-            "sha256": "e949230de9baf974e39379bb449775a8812976a13e59d60495925a4d742f1974",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-i-hate-most/02-the-march-road-thumb.webp",
-            "sha256": "cab7570a918b674abc9a90e4aa67a31f9fff87c83961973ac3209c3ba129e641",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-old-spillway",
-          "title": "The old spillway",
-          "alt": "The old spillway — oil landscape for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/landscapes/03-the-old-spillway.png",
-          "sourceSha256": "5da511ca7aa522c46a2ffe6af8e62e8e90e3e0f400decc737202904a7f70d603",
-          "full": {
-            "path": "landscapes/what-i-hate-most/03-the-old-spillway.webp",
-            "sha256": "ab47ea2660a5f61517d079440ba69a947fbab3b59ac006a5b52a2e775afd5aea",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-i-hate-most/03-the-old-spillway-thumb.webp",
-            "sha256": "f737e5ada510a6743247b1540b00377cd81a80873632f8348035c1c7944388d6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-market-still-standing",
-          "title": "The market still standing",
-          "alt": "The market still standing — oil landscape for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/landscapes/04-the-market-still-standing.png",
-          "sourceSha256": "8f5c6241ea52ed44f1c4c092ba20e2c6ff149758737bea06938110f15bbe02ca",
-          "full": {
-            "path": "landscapes/what-i-hate-most/04-the-market-still-standing.webp",
-            "sha256": "3a8535625bab128ecd2de875248723134da5b2cf396a7405ff816887db252175",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-i-hate-most/04-the-market-still-standing-thumb.webp",
-            "sha256": "e81d4355bcf54a1fe74fe96181a71b66386360a164b1100e2af28dcded24f0ff",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-cooling-glass-at-first-light",
-          "title": "Cooling glass at first light",
-          "alt": "Cooling glass at first light — oil landscape for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/landscapes/05-cooling-glass-at-first-light.png",
-          "sourceSha256": "2d780e6a9a1fff0f0e2ea96006a1232fc4987537376f699f85d479b00d276dae",
-          "full": {
-            "path": "landscapes/what-i-hate-most/05-cooling-glass-at-first-light.webp",
-            "sha256": "9141a00b3388a05d85546e0fdc46c1cb1abce58dd5768ef23c03c7a19312e23c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/what-i-hate-most/05-cooling-glass-at-first-light-thumb.webp",
-            "sha256": "87b7e4ec497e10da0bfb864df0adc2ad36a94ad015b3b1f1c69e43da3677a819",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12497,6 +12421,26 @@
       "source": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
       "sourceSha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
       "reason": "A second view of the same scarred practice court after the disaster repeats the retained wreckage image without a new location or materially changed condition."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/landscapes/02-the-march-road.png",
+      "sourceSha256": "69136a956c4716013dce68f97808c4c1fd969a1b9579444381006bc71d3817a3",
+      "reason": "The March-road evacuation takes place during the night under the approaching dark stormglass front. This bright daytime coastal-road view contradicts the scene's time and light."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/landscapes/03-the-old-spillway.png",
+      "sourceSha256": "5da511ca7aa522c46a2ffe6af8e62e8e90e3e0f400decc737202904a7f70d603",
+      "reason": "The old spillway is explicitly empty, then clogged with dust and black glass beads. The painting instead shows a substantial running waterfall and water-filled channel."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/landscapes/04-the-market-still-standing.png",
+      "sourceSha256": "8f5c6241ea52ed44f1c4c092ba20e2c6ff149758737bea06938110f15bbe02ca",
+      "reason": "The market survives before dawn while the characters remain on the bridge and then enter the ward room. This bright daytime city panorama is not the depicted aftermath."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/landscapes/05-cooling-glass-at-first-light.png",
+      "sourceSha256": "2d780e6a9a1fff0f0e2ea96006a1232fc4987537376f699f85d479b00d276dae",
+      "reason": "Cooling stormglass lies in the emptied dust/glass spillway. The painting introduces a flowing waterfall and a snow-covered rural channel, changing both its material condition and urban setting."
     },
     {
       "source": "stories/what-the-gates-keep/art/landscapes/03-the-northern-tracks.png",
