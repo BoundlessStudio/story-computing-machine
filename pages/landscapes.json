@@ -4392,6 +4392,32 @@
       "reader": "stories/the-bride-who-came-back.html",
       "images": [
         {
+          "id": "01-the-black-ice-causeway",
+          "title": "The black ice causeway",
+          "alt": "The black ice causeway — oil landscape for The Bride Who Came Back",
+          "source": "pages/landscape-replacements/the-bride-who-came-back/01-the-black-ice-causeway.png",
+          "sourceSha256": "b1cbbda5253586e7365ce25e0bd762dec022c1504008f57a844d3d64cce917c9",
+          "full": {
+            "path": "landscapes/the-bride-who-came-back/01-the-black-ice-causeway-b1cbbda5253586e7.webp",
+            "sha256": "65e14ba46fadede786404fb5013b0a311d91346f7ffa1da3736b4409627f2ea0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-bride-who-came-back/01-the-black-ice-causeway-b1cbbda5253586e7-thumb.webp",
+            "sha256": "281ab7f05e91a53aed3f75a5cb0f79c6626b6ce3f565a0c1f23463a4fd9c19a6",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-bride-who-came-back/art/landscapes/01-the-black-ice-causeway.png",
+            "originalSha256": "7ee3cd6057b86ce4ca608cc9ec1ca6e57e60de182186213d5d97af1ae118b1c0",
+            "correction": "Shows a clear blue sky over the southern approach, contradicting the opening wall of smoke that darkens the afternoon.",
+            "prompt": "Edit this black-ice causeway landscape from The Bride Who Came Back to match the opening's lighting and atmosphere. Preserve the winter road of polished BLACK ICE across the narrow frozen lake, snowbanks along its margins, snow-covered mountain pass, scale, perspective and heavy impasto oil paint. The scene is an AFTERNOON MADE DARK BY SMOKE from Cyrak burning beyond the southern mouth of the pass. Replace ALL clear blue sky and clean white fair-weather clouds with an immense thick charcoal-gray wall of city-fire smoke climbing above the far mountains and spreading overhead, blocking the sun. A few narrow RED-ORANGE SEAMS at the distant smoke's roots beyond the pass suggest the unseen burning city, not lava or a forest fire on the lake shore. Ice, snow and mountains take dim blue-black and muted gray ambient light, with very restrained distant fire reflection; no bright sunny snow. The causeway remains a flat ice road ON the frozen lake, not a raised stone bridge. No added figures or close flames, text or border. Same traditional thick textured oil composition, with cold oppressive smoke-dark daylight rather than clear alpine sunshine.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "02-cyrak-beyond-the-pass",
           "title": "Cyrak beyond the pass",
           "alt": "Cyrak beyond the pass — oil landscape for The Bride Who Came Back",
