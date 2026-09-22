@@ -2754,6 +2754,134 @@
       ]
     },
     {
+      "slug": "she-literally-has-wings",
+      "title": "She Literally Has Wings",
+      "reader": "stories/she-literally-has-wings.html",
+      "images": [
+        {
+          "id": "01-supper-hall",
+          "title": "Supper hall",
+          "alt": "Supper hall — oil interior study for She Literally Has Wings",
+          "source": "stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+          "sourceSha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+          "full": {
+            "path": "interiors/she-literally-has-wings/01-supper-hall-ca47e0cbec7e0bfd.webp",
+            "sha256": "d197e9f2ef90844bb796eba683e5619fb5e5741f512356782e348270e720dd5f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/she-literally-has-wings/01-supper-hall-ca47e0cbec7e0bfd-thumb.webp",
+            "sha256": "9465e7b7da869269ceccadee26a78fe3bca4321f32373761f1e06a8e7acce023",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-hall-kitchen",
+          "title": "Hall kitchen",
+          "alt": "Hall kitchen — oil interior study for She Literally Has Wings",
+          "source": "stories/she-literally-has-wings/art/interiors/02-hall-kitchen.png",
+          "sourceSha256": "a3b4ecd682e4c8973a86741439400576c919b0ae1bc894f285036b731c1cf0ed",
+          "full": {
+            "path": "interiors/she-literally-has-wings/02-hall-kitchen-a3b4ecd682e4c897.webp",
+            "sha256": "88b560991cfa72947cc6d72f2f5cf7e9d7673b0115773f8cc61d7cfb491c50f6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/she-literally-has-wings/02-hall-kitchen-a3b4ecd682e4c897-thumb.webp",
+            "sha256": "bca5667b9cd3c753bdc7a4b5201147f7eec5d65d59833189934fedf639011826",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-home-entryway",
+          "title": "Home entryway",
+          "alt": "Home entryway — oil interior study for She Literally Has Wings",
+          "source": "stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+          "sourceSha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+          "full": {
+            "path": "interiors/she-literally-has-wings/03-home-entryway-3a71808392018dfd.webp",
+            "sha256": "7c87c16677b6cd60f912ff45deff873dca11fc24839255d0920f47c30ec388e1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/she-literally-has-wings/03-home-entryway-3a71808392018dfd-thumb.webp",
+            "sha256": "566362e3239b18841e48a131119dfd9a7059e889857376bc9a3e8c27503361af",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "storm-warning",
+      "title": "Storm Warning",
+      "reader": "stories/storm-warning.html",
+      "images": [
+        {
+          "id": "01-office-in-the-rain",
+          "title": "Office in the rain",
+          "alt": "Office in the rain — oil interior study for Storm Warning",
+          "source": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "sourceSha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "full": {
+            "path": "interiors/storm-warning/01-office-in-the-rain-a71076f1655c70f4.webp",
+            "sha256": "97f62e3a6f57dbad8ffe73ff86ea2203bfdb098598d3e075e45e0973777ca2d4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/storm-warning/01-office-in-the-rain-a71076f1655c70f4-thumb.webp",
+            "sha256": "7f0738f4c7b588d8c3b347f476d56f345bf7f1c09691ea850d89b3d90377c899",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-upstairs-room",
+          "title": "Upstairs room",
+          "alt": "Upstairs room — oil interior study for Storm Warning",
+          "source": "stories/storm-warning/art/interiors/02-upstairs-room.png",
+          "sourceSha256": "f7ed4382e1331529889bb53a436f020fcae446f7a3bc1eba25291065e19e3894",
+          "full": {
+            "path": "interiors/storm-warning/02-upstairs-room-f7ed4382e1331529.webp",
+            "sha256": "b92b388e171a4f8107db353214016e360d37d15cce66d9641d733ebd74d0be6e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/storm-warning/02-upstairs-room-f7ed4382e1331529-thumb.webp",
+            "sha256": "eac3c394a201be71106eca5641762255e9672d28b1ebf8a59a193da10b58ca28",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-boardinghouse-parlour",
+          "title": "Boardinghouse parlour",
+          "alt": "Boardinghouse parlour — oil interior study for Storm Warning",
+          "source": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "sourceSha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "full": {
+            "path": "interiors/storm-warning/03-boardinghouse-parlour-a78dd1bb3e2b420e.webp",
+            "sha256": "31894b070767ac8e7f939dee0a925fe5d40c14ea5a1b6ff9f0df837516b5a5bb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/storm-warning/03-boardinghouse-parlour-a78dd1bb3e2b420e-thumb.webp",
+            "sha256": "28a1c6d9cfe1c70bc93f9080cf00c49980c47ae9eeae52b4845a38eccc93ea6f",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "postcard-garden",
       "title": "The Address of Here",
       "reader": "stories/postcard-garden.html",
