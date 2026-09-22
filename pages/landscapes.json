@@ -2130,63 +2130,6 @@
       "reader": "stories/sakura-hearted.html",
       "images": [
         {
-          "id": "01-the-silver-green-lake",
-          "title": "The silver green lake",
-          "alt": "The silver green lake — oil landscape for Sakura-Hearted",
-          "source": "stories/sakura-hearted/art/landscapes/01-the-silver-green-lake.png",
-          "sourceSha256": "4e2ee7086dccef2cfe231e06cd9416d37c8403eec7581b98d115e0e294c57733",
-          "full": {
-            "path": "landscapes/sakura-hearted/01-the-silver-green-lake.webp",
-            "sha256": "330a00af516376e539d41f94402be121e9d16c71dfb4a00d08e55364793773ab",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/sakura-hearted/01-the-silver-green-lake-thumb.webp",
-            "sha256": "475e60e880a2b977cd52d5c74597bbd82a48a634c8d15ea3be13fe09f0d552e8",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-windy-valley",
-          "title": "The windy valley",
-          "alt": "The windy valley — oil landscape for Sakura-Hearted",
-          "source": "stories/sakura-hearted/art/landscapes/02-the-windy-valley.png",
-          "sourceSha256": "23181ef97aa07a029bf9eb258bd6d0f7ad9bf916e8c70715fc08713a4125f62f",
-          "full": {
-            "path": "landscapes/sakura-hearted/02-the-windy-valley.webp",
-            "sha256": "f5012c7ab018ab74705c36373567645633647dc21ea22c3904dfdaec5cc9c6b0",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/sakura-hearted/02-the-windy-valley-thumb.webp",
-            "sha256": "64cce97f4932863f024d6d1575801629ca9cff14b351716313247183a438d18d",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-under-the-rock-ledge",
-          "title": "Under the rock ledge",
-          "alt": "Under the rock ledge — oil landscape for Sakura-Hearted",
-          "source": "stories/sakura-hearted/art/landscapes/03-under-the-rock-ledge.png",
-          "sourceSha256": "bdabf42d3eca8ada9312f9b085c64f8caaab9c93210cb1caf9000c826f4eaec9",
-          "full": {
-            "path": "landscapes/sakura-hearted/03-under-the-rock-ledge.webp",
-            "sha256": "18b981d0e28d39824beabf5ed9484a6210147e79f976ee6219bc27a5133d6ede",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/sakura-hearted/03-under-the-rock-ledge-thumb.webp",
-            "sha256": "699b0dd1f0efeaab4ce5625eb2065908e6c5ed3bc192097ddf520e2e78b8fa1b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-towers-in-evening-light",
           "title": "Towers in evening light",
           "alt": "Towers in evening light — oil landscape for Sakura-Hearted",
@@ -2201,25 +2144,6 @@
           "thumbnail": {
             "path": "landscapes/sakura-hearted/04-towers-in-evening-light-thumb.webp",
             "sha256": "b5a77678a0fd4b25a21d1c240543f48a5c8f77dd23762ebc5eb2fa2d3f6d01f9",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-valley-remembered",
-          "title": "The valley remembered",
-          "alt": "The valley remembered — oil landscape for Sakura-Hearted",
-          "source": "stories/sakura-hearted/art/landscapes/05-the-valley-remembered.png",
-          "sourceSha256": "e0afe7529631a897d39fb509036af4b1b2a265eb69d7d3c627c95a41f80bfba6",
-          "full": {
-            "path": "landscapes/sakura-hearted/05-the-valley-remembered.webp",
-            "sha256": "5dbc2d513566e143b8e5bcafcfdf19db650c0d6dc5febeb1674d11b8fb368fcd",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/sakura-hearted/05-the-valley-remembered-thumb.webp",
-            "sha256": "19ce0b92413e006e76aba6ec8ca7ac781911089983192eabda108def53b95d7d",
             "width": 480,
             "height": 320
           }
@@ -17043,6 +16967,26 @@
       "source": "stories/realms/art/landscapes/05-rain-above-queen-street.png",
       "sourceSha256": "e6331969f83cfe1d938c89ed338ecb6493d3592aa5284b2f3248b34eb22592dc",
       "reason": "Moves the portal rain out of the underground Queen Street tunnel into an ordinary rainy street; the black rain crawls upward indoors."
+    },
+    {
+      "source": "stories/sakura-hearted/art/landscapes/01-the-silver-green-lake.png",
+      "sourceSha256": "4e2ee7086dccef2cfe231e06cd9416d37c8403eec7581b98d115e0e294c57733",
+      "reason": "Presents the miniature silver-green lake as a present outdoor setting; the couple remain beside a model planet in their apartment."
+    },
+    {
+      "source": "stories/sakura-hearted/art/landscapes/02-the-windy-valley.png",
+      "sourceSha256": "23181ef97aa07a029bf9eb258bd6d0f7ad9bf916e8c70715fc08713a4125f62f",
+      "reason": "Externalizes the campsite miniature and anniversary memory, repeating the same unvisited valley."
+    },
+    {
+      "source": "stories/sakura-hearted/art/landscapes/03-under-the-rock-ledge.png",
+      "sourceSha256": "bdabf42d3eca8ada9312f9b085c64f8caaab9c93210cb1caf9000c826f4eaec9",
+      "reason": "Turns the painted rock overhang on the tiny model into a full outdoor scene."
+    },
+    {
+      "source": "stories/sakura-hearted/art/landscapes/05-the-valley-remembered.png",
+      "sourceSha256": "e0afe7529631a897d39fb509036af4b1b2a265eb69d7d3c627c95a41f80bfba6",
+      "reason": "Fourth repetitive view of a campsite valley remembered while riding an indoor amusement machine."
     },
     {
       "source": "stories/save-that-dragon/art/landscapes/01-storm-over-the-forge-valley.png",
