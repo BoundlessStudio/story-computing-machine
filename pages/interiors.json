@@ -386,6 +386,70 @@
       ]
     },
     {
+      "slug": "a-knock-in-someone-elses-sleep",
+      "title": "A Knock in Someone Else's Sleep",
+      "reader": "stories/a-knock-in-someone-elses-sleep.html",
+      "images": [
+        {
+          "id": "01-cupboard-with-a-sea",
+          "title": "Cupboard with a sea",
+          "alt": "Cupboard with a sea — oil interior study for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+          "sourceSha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1",
+          "full": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/01-cupboard-with-a-sea-9595b1fa48f1d768.webp",
+            "sha256": "e417cd71f33a1fae2971954f424555ce2643a6de8f9be895e79f56bf1d319777",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/01-cupboard-with-a-sea-9595b1fa48f1d768-thumb.webp",
+            "sha256": "0cde2cdea861390fe5dc827c4f33d068d8140ad76f35cb7333f3afbd369a0922",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-blue-tiled-unfinished-room",
+          "title": "Blue tiled unfinished room",
+          "alt": "Blue tiled unfinished room — oil interior study for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
+          "sourceSha256": "726c2b9352d482bef25c7dabf1d46d7ad4499a56ffb5f837aac1b9eb4022d7fd",
+          "full": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-726c2b9352d482be.webp",
+            "sha256": "037fe0d61787101041a0d1c973ebdaca44024ec6820d29be16b33db5d560b7fe",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-726c2b9352d482be-thumb.webp",
+            "sha256": "1ec380b5ea64356fed0d5639c2b1ddbf2a9ed81c2f7354c038c445b1412d2730",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-bus-inside-the-garage",
+          "title": "Bus inside the garage",
+          "alt": "Bus inside the garage — oil interior study for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/03-bus-inside-the-garage.png",
+          "sourceSha256": "78816a03a62048678628d5b7a68acfb351f9db70352deb7b808bea92dcecede4",
+          "full": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/03-bus-inside-the-garage-78816a03a6204867.webp",
+            "sha256": "019663a3d7d566ff0054c4badb562eedae7e5289149d0e5cdaf74212c856d6b1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-knock-in-someone-elses-sleep/03-bus-inside-the-garage-78816a03a6204867-thumb.webp",
+            "sha256": "beace06b6954f492f8fad9723f044ad71674fd3110003038b4801be9a72f5b19",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-little-more-room",
       "title": "A Little More Room",
       "reader": "stories/a-little-more-room.html",
@@ -699,6 +763,70 @@
           "thumbnail": {
             "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f-thumb.webp",
             "sha256": "cee58c4c7ddcd27309b07da1bee69e92e95a4cb1e13f779877da6ed8dfcf9a7e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-place-for-sunday",
+      "title": "A Place for Sunday",
+      "reader": "stories/a-place-for-sunday.html",
+      "images": [
+        {
+          "id": "01-cosimos-kitchen",
+          "title": "Cosimos kitchen",
+          "alt": "Cosimos kitchen — oil interior study for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+          "sourceSha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339",
+          "full": {
+            "path": "interiors/a-place-for-sunday/01-cosimos-kitchen-3d5afda733689543.webp",
+            "sha256": "d86fcaac91a8ffdabc001f6f631665dc87b1b5658da88f9694358ed93d5355e9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-sunday/01-cosimos-kitchen-3d5afda733689543-thumb.webp",
+            "sha256": "8a37f2221652cef699e3600953518db1e1a047e790bf24cb616e462267d86afc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-sunday-breakfast-table",
+          "title": "Sunday breakfast table",
+          "alt": "Sunday breakfast table — oil interior study for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
+          "sourceSha256": "a5e35e5b561f67b36015e922efc703bc9009753a5197016b43d1e5fb349e047e",
+          "full": {
+            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-a5e35e5b561f67b3.webp",
+            "sha256": "ba5ff2bcc9ef2e5e618b3cb2b8be8f4ce3bf7b2035f9151592091d2119681072",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-a5e35e5b561f67b3-thumb.webp",
+            "sha256": "6ba170ddc2f33d084200e8fb3f8ccce3319a06e3d2b362223af818f56306a518",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-ilarios-morning-kitchen",
+          "title": "Ilarios morning kitchen",
+          "alt": "Ilarios morning kitchen — oil interior study for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/interiors/03-ilarios-morning-kitchen.png",
+          "sourceSha256": "087ad9595bfbb94789e9bb9e43ab66a311a5da7ff64ae5d0c5aaa2d5cfedf296",
+          "full": {
+            "path": "interiors/a-place-for-sunday/03-ilarios-morning-kitchen-087ad9595bfbb947.webp",
+            "sha256": "437b21bf42c0b5b8bc59b2938b320c2de1169945424631e008141fc14f975946",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-place-for-sunday/03-ilarios-morning-kitchen-087ad9595bfbb947-thumb.webp",
+            "sha256": "d2751324aeb578f3e5121f8bad59a1ea23c9d3781c33c53a947f1086b0569370",
             "width": 480,
             "height": 320
           }
