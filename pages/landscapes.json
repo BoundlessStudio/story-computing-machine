@@ -7430,82 +7430,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "02-the-empty-carriage-approach",
-          "title": "The empty carriage approach",
-          "alt": "The empty carriage approach — oil landscape for The Unopened Ring",
-          "source": "stories/the-unopened-ring/art/landscapes/02-the-empty-carriage-approach.png",
-          "sourceSha256": "c43babc722a4ec91f6a7da6a5175eb7fa3fc14640c5b2db56a0a85938852cf7a",
-          "full": {
-            "path": "landscapes/the-unopened-ring/02-the-empty-carriage-approach.webp",
-            "sha256": "e7066c8802a1044f49f674afdd319b1a76f95cea7b5495dd945fae81a9bb7ed6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unopened-ring/02-the-empty-carriage-approach-thumb.webp",
-            "sha256": "d9431f80e57f57d7f228dc07225da2bb4c2edc52f9f9638f8405f532fb15d544",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-clouds-cover-the-moon",
-          "title": "Clouds cover the moon",
-          "alt": "Clouds cover the moon — oil landscape for The Unopened Ring",
-          "source": "stories/the-unopened-ring/art/landscapes/03-clouds-cover-the-moon.png",
-          "sourceSha256": "74dcffe5a7ca56015b6eb13ee45e09f3ab8cc1a68bbc32d71e80e4b170cae85b",
-          "full": {
-            "path": "landscapes/the-unopened-ring/03-clouds-cover-the-moon.webp",
-            "sha256": "b60ed2af094fc986f57bde0560151739ad1da83a668a2c0c53047ccd09ca0a7a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unopened-ring/03-clouds-cover-the-moon-thumb.webp",
-            "sha256": "8aece8906b0384ca8d6cb761bd85e38dbe22a5df58b71afc955a4b97878c2681",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-winter-light-at-the-palace",
-          "title": "Winter light at the palace",
-          "alt": "Winter light at the palace — oil landscape for The Unopened Ring",
-          "source": "stories/the-unopened-ring/art/landscapes/04-winter-light-at-the-palace.png",
-          "sourceSha256": "d56583e45928f1a5f7ca6a3951b3cf9922d98dbaaee6cf73491b564dbb988f09",
-          "full": {
-            "path": "landscapes/the-unopened-ring/04-winter-light-at-the-palace.webp",
-            "sha256": "2718c19831c3a452c04c0db625f9c6bb2c453c70c947b29740653eca5fb262e7",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unopened-ring/04-winter-light-at-the-palace-thumb.webp",
-            "sha256": "f50c5f1e34b716b97ff1ae66a47af7c961729f61329ebd228da1dcd4d83d5084",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-morning-side-of-the-palace",
-          "title": "Morning side of the palace",
-          "alt": "Morning side of the palace — oil landscape for The Unopened Ring",
-          "source": "stories/the-unopened-ring/art/landscapes/05-morning-side-of-the-palace.png",
-          "sourceSha256": "36e0723a231af681ac84d17b53f9b91c5642315dadbbb08f7ee532223f929b25",
-          "full": {
-            "path": "landscapes/the-unopened-ring/05-morning-side-of-the-palace.webp",
-            "sha256": "897c51b9310c180550b805b9c87eaeb213008d0716d4c0db1f71d52ee4d95b4a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-unopened-ring/05-morning-side-of-the-palace-thumb.webp",
-            "sha256": "f1a157523e168666807033489f5cc1e9fb299e6c79b1f68cc33cc66e572bc3dc",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -13096,6 +13020,26 @@
       "source": "stories/the-unoffered-hand/art/landscapes/03-apple-bough-against-the-wall.png",
       "sourceSha256": "f78ca15ae8a5d204f3253a79b3b13fac76542dc5e79fc9bd5de5731f4f8fe560",
       "reason": "Repeats the south orchard already represented by its clear strip; the foreground bough is far from the distant wall instead of the obstructed uphill branch beside the wall central to Cresset's collision."
+    },
+    {
+      "source": "stories/the-unopened-ring/art/landscapes/02-the-empty-carriage-approach.png",
+      "sourceSha256": "c43babc722a4ec91f6a7da6a5175eb7fa3fc14640c5b2db56a0a85938852cf7a",
+      "reason": "The carriage journey appears only as prior preparation; no exterior approach scene establishes this sunset road and gate."
+    },
+    {
+      "source": "stories/the-unopened-ring/art/landscapes/03-clouds-cover-the-moon.png",
+      "sourceSha256": "74dcffe5a7ca56015b6eb13ee45e09f3ab8cc1a68bbc32d71e80e4b170cae85b",
+      "reason": "Duplicates the distant city-and-moon view with a new outdoor vantage. Clouds covering the moon do not establish another story location."
+    },
+    {
+      "source": "stories/the-unopened-ring/art/landscapes/04-winter-light-at-the-palace.png",
+      "sourceSha256": "d56583e45928f1a5f7ca6a3951b3cf9922d98dbaaee6cf73491b564dbb988f09",
+      "reason": "Winter greenery is a remembered dining-room decoration. A snowy palace garden is not a scene in the story."
+    },
+    {
+      "source": "stories/the-unopened-ring/art/landscapes/05-morning-side-of-the-palace.png",
+      "sourceSha256": "36e0723a231af681ac84d17b53f9b91c5642315dadbbb08f7ee532223f929b25",
+      "reason": "The story ends during the evening dinner, not at a sunny morning palace exterior."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
