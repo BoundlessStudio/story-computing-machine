@@ -3010,6 +3010,70 @@
       ]
     },
     {
+      "slug": "tea-for-the-first-guest",
+      "title": "Tea for the First Guest",
+      "reader": "stories/tea-for-the-first-guest.html",
+      "images": [
+        {
+          "id": "01-round-tea-room",
+          "title": "Round tea room",
+          "alt": "Round tea room — oil interior study for Tea for the First Guest",
+          "source": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
+          "sourceSha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+          "full": {
+            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-71c1ef4a2e9a8a76.webp",
+            "sha256": "10ad268756c86f201ee0345d9bd5dc9d8aaadc21070872c60f4ec4957a5622ba",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-71c1ef4a2e9a8a76-thumb.webp",
+            "sha256": "01d5563acafe59f167b857d91344d7dadef6709b55e110db1e872a751d61ab56",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-mismatched-cups",
+          "title": "Mismatched cups",
+          "alt": "Mismatched cups — oil interior study for Tea for the First Guest",
+          "source": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+          "sourceSha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+          "full": {
+            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-cbd70fa0de65c9c9.webp",
+            "sha256": "d3b93a71f341bcfe06157a10a8462e16f80d198f2f149c2da65a343a75d48ada",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-cbd70fa0de65c9c9-thumb.webp",
+            "sha256": "57b7a4085c98ae339d20ea9cefb29f855f6a84a8d65e5891c008d40fea953a0b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-garden-under-glass",
+          "title": "Garden under glass",
+          "alt": "Garden under glass — oil interior study for Tea for the First Guest",
+          "source": "stories/tea-for-the-first-guest/art/interiors/03-garden-under-glass.png",
+          "sourceSha256": "e38214dd2215a9e7e87157c5cab8712bf45a0000a20f7aec9fdfb25329bf9254",
+          "full": {
+            "path": "interiors/tea-for-the-first-guest/03-garden-under-glass-e38214dd2215a9e7.webp",
+            "sha256": "a120962716e72aeb7567345f19a7409355b2667ea8d09e9d35b9df4bee2b3758",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/tea-for-the-first-guest/03-garden-under-glass-e38214dd2215a9e7-thumb.webp",
+            "sha256": "808919ffc58b471129f948671de324691b30c5e63388a4843b4e2204c053270e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "postcard-garden",
       "title": "The Address of Here",
       "reader": "stories/postcard-garden.html",
@@ -3451,6 +3515,70 @@
           "thumbnail": {
             "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add-thumb.webp",
             "sha256": "610673f138bef4ee159d1caf1f629e6ebce918a84716ed2e07472002a3a980c1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-body-called-one",
+      "title": "The Body Called One",
+      "reader": "stories/the-body-called-one.html",
+      "images": [
+        {
+          "id": "01-courier-cockpit",
+          "title": "Courier cockpit",
+          "alt": "Courier cockpit — oil interior study for The Body Called One",
+          "source": "stories/the-body-called-one/art/interiors/01-courier-cockpit.png",
+          "sourceSha256": "d41ef2fee52dbc74b0485f2073f8f2ce352f5c91354da63314172f616db4d5f2",
+          "full": {
+            "path": "interiors/the-body-called-one/01-courier-cockpit-d41ef2fee52dbc74.webp",
+            "sha256": "8b84539f01b0e7589253b5b9523c083b111976e53b3fa3dca6a450471c478d38",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-body-called-one/01-courier-cockpit-d41ef2fee52dbc74-thumb.webp",
+            "sha256": "6dffb123a5ac49e1ca18332190f2fbe63a6ed7cf9f4d6a5f22b56edf4887e0e1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-embodiment-service-room",
+          "title": "Embodiment service room",
+          "alt": "Embodiment service room — oil interior study for The Body Called One",
+          "source": "stories/the-body-called-one/art/interiors/02-embodiment-service-room.png",
+          "sourceSha256": "d02b323307323f67f781b12b3f7f9043b48dc7a4a826202f40b22b40912af040",
+          "full": {
+            "path": "interiors/the-body-called-one/02-embodiment-service-room-d02b323307323f67.webp",
+            "sha256": "2cd6658f3fe0a5c6962f959e844d7cdaabcddd1e468162d11fa3f9b508715b90",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-body-called-one/02-embodiment-service-room-d02b323307323f67-thumb.webp",
+            "sha256": "9a07f7b02ccae90804b894df2798ef8ca4748430ef0e56dc57757f7688e9045c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-preservation-vault",
+          "title": "Preservation vault",
+          "alt": "Preservation vault — oil interior study for The Body Called One",
+          "source": "stories/the-body-called-one/art/interiors/03-preservation-vault.png",
+          "sourceSha256": "dc111a49cde82e8a1eb32ea874abac42569fd005ef1364dce0c2bd63f023efc6",
+          "full": {
+            "path": "interiors/the-body-called-one/03-preservation-vault-dc111a49cde82e8a.webp",
+            "sha256": "4f33be57c99e58d9a242660e03e58594538048599eb9c33956007c0512ff3371",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-body-called-one/03-preservation-vault-dc111a49cde82e8a-thumb.webp",
+            "sha256": "c0a37e65e00d8af881535877acfbe84c00f658106cd89ee02ff372ddde19ad7b",
             "width": 480,
             "height": 320
           }
