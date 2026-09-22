@@ -9390,25 +9390,6 @@
           }
         },
         {
-          "id": "02-the-roofless-street-restored",
-          "title": "The roofless street restored",
-          "alt": "The roofless street restored — oil landscape for Where the Eagle Lands",
-          "source": "stories/yavrens-return/art/landscapes/02-the-roofless-street-restored.png",
-          "sourceSha256": "7a44f4245a36817b0cfd3afcbfda307b44a78db5ab4a82dc6503e24398a522f6",
-          "full": {
-            "path": "landscapes/yavrens-return/02-the-roofless-street-restored.webp",
-            "sha256": "19e41496239bc684a1fa9b9efc855aeccd7e5f74573f6059da41e416a39427c6",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/yavrens-return/02-the-roofless-street-restored-thumb.webp",
-            "sha256": "8b9484f511df778d38eba1984d054f15078a3e19c3dcaf46c9881faeb9a57889",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-tolraths-seven-terraces",
           "title": "Tolraths seven terraces",
           "alt": "Tolraths seven terraces — oil landscape for Where the Eagle Lands",
@@ -12247,6 +12228,11 @@
       "source": "stories/witch-cold/art/landscapes/05-the-still-building-outside.png",
       "sourceSha256": "59959793463219250f79ed3116c245d82474ef98ea993c386ae051c647032f76",
       "reason": "The ending stays between two washroom doors beside the sleeping Nuala. This exterior repeats the invented lakeside apartment landscape."
+    },
+    {
+      "source": "stories/yavrens-return/art/landscapes/02-the-roofless-street-restored.png",
+      "sourceSha256": "7a44f4245a36817b0cfd3afcbfda307b44a78db5ab4a82dc6503e24398a522f6",
+      "reason": "Yavren completes every arch and column capital before lowering the restored street onto its foundations. This painting leaves broken archways, truncated columns and scattered fallen masonry, contradicting the completed restoration and repeating the opening ruin."
     }
   ]
 }
