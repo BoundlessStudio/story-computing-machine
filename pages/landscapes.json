@@ -4986,16 +4986,16 @@
           "title": "The dry dock",
           "alt": "The dry dock — oil landscape for The Door Knows Home",
           "source": "pages/landscape-replacements/the-door-knows-home/02-the-dry-dock.png",
-          "sourceSha256": "58730e35c9c7880045c840843b594a5e94d74aa25fd6bfbba314e1b4a5f6116d",
+          "sourceSha256": "db95ecee8b8ebce84f48e19a24a87f79b35d41c4c0537371f9823f7ce4a7f947",
           "full": {
-            "path": "landscapes/the-door-knows-home/02-the-dry-dock-58730e35c9c78800.webp",
-            "sha256": "0c309cef1edd07d970c647f3e54e631f026c383602acb58f61db634fd18b21f7",
+            "path": "landscapes/the-door-knows-home/02-the-dry-dock-db95ecee8b8ebce8.webp",
+            "sha256": "b70bf6b3e245741a2034219c50ee5e5a7ca7389f2f047b80e6350cbaa47b17d9",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "landscapes/the-door-knows-home/02-the-dry-dock-58730e35c9c78800-thumb.webp",
-            "sha256": "e1701c36cb23eef3596d39a397e02840e2f44090b7834f41718158bffd3fdcf5",
+            "path": "landscapes/the-door-knows-home/02-the-dry-dock-db95ecee8b8ebce8-thumb.webp",
+            "sha256": "792a38854d3a67015b693ae37cef92db3ab350d4460206aa34b67cdb1f803721",
             "width": 480,
             "height": 320
           },
@@ -5003,7 +5003,7 @@
             "originalSource": "stories/the-door-knows-home/art/landscapes/02-the-dry-dock.png",
             "originalSha256": "63d7686d851782e4fa43f63f20f84636edf7226c1c2de24d897f875bf51fb8e9",
             "correction": "Shows an empty dock where the view explicitly contains steel props and the algae-streaked underside of a barge.",
-            "prompt": "Correct this dry-dock oil landscape for The Door Knows Home. The source glimpse includes STEEL PROPS AND THE ALGAE-STREAKED UNDERSIDE OF A CANAL BARGE RESTING IN DRY DOCK. Keep the reference's stone-lined drained dock, rough masonry, damp stone floor, cold daylight and thick impasto oil texture, but make the dock clearly OCCUPIED. Recompose lower within the dock, looking obliquely along a modest long flat-bottomed canal barge raised on keel blocks and sturdy adjustable STEEL SUPPORT PROPS bearing against its underside and bilges. The underside of the barge dominates the upper middle frame, dark worn hull with green algae streaks and a distinct old waterline. Several steel props visibly connect solidly from the dock floor to pads beneath the hull, mechanically plausible, no floating boat or supports leaning uselessly on dock walls. Show enough dry floor and stone dock wall on each side to establish the setting. A small sliver of gray daylight above the dock rim suffices; no broad idyllic river panorama. Environment view of the precise place seen through the cabin's round window, without needing to draw the window frame. No people, text, logos or border. Traditional thick physical oil brushwork, not photography.",
+            "prompt": "Repaint the second reference as a genuine Canadian Group of Seven inspired oil painting, 1536x1024. Image 1 is the ORIGINAL COLLECTION STYLE REFERENCE: use its bold simplification, strong dark silhouettes, broad broken brushstrokes and limited ochre / blue-gray / olive color relationships. Image 2 is CONTENT AND GEOMETRY ONLY and is too finely rendered; do not inherit its near-photographic hardware or surface detail.\n\nScene: the algae-streaked underside of a canal barge resting in a drained stone dry dock, seen low from the dock floor. Preserve the occupied dock, heavy dark curved hull, several steel support props visibly bearing beneath the bilges, solid keel blocks beneath its center, rough stone walls, steps at left and small sliver of daylight and trees above. This is an environment study, no people.\n\nBuild the WHOLE image in broad decisive oil-painted masses, as if painted directly with a substantial bristle brush. The hull is a few sweeping rhythmic charcoal and olive planes, algae indicated by several long green strokes; masonry consists of chunky grouped ochre and slate shapes. Steel props are clean bold diagonal strokes with merely suggested joints, mechanically intelligible without individually illustrated bolt heads, screw threads or sparkling highlights. Wet ground is broad interlocking blue-gray / ochre strokes rather than hundreds of tiny puddles. Simplify secondary details strongly. Confident flattened color planes, expressive contours, linked dark shapes, painterly economy; make the brushmarks form the objects themselves. Do not apply an impasto texture filter over a realistic render. Avoid photographic depth of field, miniature realism, polished 3D surfaces, cinematic gloss, finely drawn illustration and palette-knife icing everywhere. The oil painting should remain recognizable when reduced to a small gallery thumbnail. No typography, border or signature.",
             "generator": "image_gen"
           }
         }
