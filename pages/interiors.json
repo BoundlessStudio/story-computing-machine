@@ -7554,6 +7554,134 @@
       ]
     },
     {
+      "slug": "the-shadow-that-nested",
+      "title": "The Shadow That Nested",
+      "reader": "stories/the-shadow-that-nested.html",
+      "images": [
+        {
+          "id": "01-the-tug-cockpit",
+          "title": "The tug cockpit",
+          "alt": "The tug cockpit — oil interior study for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+          "sourceSha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+          "full": {
+            "path": "interiors/the-shadow-that-nested/01-the-tug-cockpit-32b83761f95fe9ea.webp",
+            "sha256": "557fca8d4f4b25259dd753743bf04fe43e56172cf89bc81c4d2d6bdbc45a2283",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shadow-that-nested/01-the-tug-cockpit-32b83761f95fe9ea-thumb.webp",
+            "sha256": "122fe3bd98bfd23bdfc095a2eb2f478de9ef39716c1d7ad7891741a59e8800b4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-raw-optical-feed",
+          "title": "The raw optical feed",
+          "alt": "The raw optical feed — oil interior study for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/interiors/02-the-raw-optical-feed.png",
+          "sourceSha256": "6b5a5f17700d3837f377bcbdff7d7c4927a1c74c678f0a5c35deb4793daeb999",
+          "full": {
+            "path": "interiors/the-shadow-that-nested/02-the-raw-optical-feed-6b5a5f17700d3837.webp",
+            "sha256": "f96b76dc83f9e1ea5b3c77688d47f2b85723698b4c5853b6a1a14ee44cf2aa2c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shadow-that-nested/02-the-raw-optical-feed-6b5a5f17700d3837-thumb.webp",
+            "sha256": "653acffe6189981d3e6507eb037ea7af9de5d44230151ac34be2dcab90e1593e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-before-the-airlock-cycle",
+          "title": "Before the airlock cycle",
+          "alt": "Before the airlock cycle — oil interior study for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/interiors/03-before-the-airlock-cycle.png",
+          "sourceSha256": "49126ea2cfa92431bf590eb344d4e09d42e41696c9f4d9b1b979ac88f1203a40",
+          "full": {
+            "path": "interiors/the-shadow-that-nested/03-before-the-airlock-cycle-49126ea2cfa92431.webp",
+            "sha256": "07fe9ff7f47b590326132433384e3eb14bfd9247c97a63da048f2a0b53db5835",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shadow-that-nested/03-before-the-airlock-cycle-49126ea2cfa92431-thumb.webp",
+            "sha256": "b7d73c4b6d4da196a7429e35fb38492629aa961c57ca7069b7d76b0dd52b257c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "title": "The Shape of Mercy",
+      "reader": "stories/the-shape-of-mercy.html",
+      "images": [
+        {
+          "id": "01-bellweather-hall",
+          "title": "Bellweather hall",
+          "alt": "Bellweather hall — oil interior study for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/interiors/01-bellweather-hall.png",
+          "sourceSha256": "c065e4f7ae017ec0ff82b4fc00b391fba123eac41384f12becfeedb73c2cfb03",
+          "full": {
+            "path": "interiors/the-shape-of-mercy/01-bellweather-hall-c065e4f7ae017ec0.webp",
+            "sha256": "2e9035f52ecec34dd14fede97af5e06697e494bd79aca2c05e7bbc94d5e3fc8a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shape-of-mercy/01-bellweather-hall-c065e4f7ae017ec0-thumb.webp",
+            "sha256": "96786c68e26a6befc9e97d8c26e3f312fd37c82ce374c1186f2e6ee7bdeb74a7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-hall-after-the-storm",
+          "title": "The hall after the storm",
+          "alt": "The hall after the storm — oil interior study for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
+          "sourceSha256": "da160b2643898297f0204778cbb78d7f984312fb3f1b873028a4936d9b768d1b",
+          "full": {
+            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-da160b2643898297.webp",
+            "sha256": "7fe2f8a2f890b97d2de9a9a5afef702e5da78712f63ddfc990c09ca4c760c54b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-da160b2643898297-thumb.webp",
+            "sha256": "d1cd1f3a48a05e1a4750015ab5ab300f8b63004f85ecf3a3831b4cb6a565be7b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-adrians-morning-room",
+          "title": "Adrians morning room",
+          "alt": "Adrians morning room — oil interior study for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/interiors/03-adrians-morning-room.png",
+          "sourceSha256": "ce266709c80f7b5913c4783772f61206abfa6e88664e64a05a88c34765c67cb2",
+          "full": {
+            "path": "interiors/the-shape-of-mercy/03-adrians-morning-room-ce266709c80f7b59.webp",
+            "sha256": "3c7b5d52309c5a8a880d300a3b7298cfb502b0bcf796f0712529cc2add2fcd3f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-shape-of-mercy/03-adrians-morning-room-ce266709c80f7b59-thumb.webp",
+            "sha256": "da996542db494e7a7a48514f8b623bc403f4e2b8174821de5eeebce4dc4c0eab",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-sky-remembers-us-return",
       "title": "The Sky Remembers Us",
       "reader": "stories/the-sky-remembers-us-return.html",
