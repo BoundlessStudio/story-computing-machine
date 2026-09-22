@@ -3926,108 +3926,6 @@
       ]
     },
     {
-      "slug": "fourth-house",
-      "title": "The Fourth House",
-      "reader": "stories/fourth-house.html",
-      "images": [
-        {
-          "id": "01-the-city-before-noon",
-          "title": "The city before noon",
-          "alt": "The city before noon — oil landscape for The Fourth House",
-          "source": "stories/fourth-house/art/landscapes/01-the-city-before-noon.png",
-          "sourceSha256": "3480b774ef7d881c0471ed512ef1c37cbf8303c728813e3d50c42875cd9916ff",
-          "full": {
-            "path": "landscapes/fourth-house/01-the-city-before-noon.webp",
-            "sha256": "8439268377b22f7e40238b4110815767d3d5c3af5fec6d926e39121f28a0b771",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fourth-house/01-the-city-before-noon-thumb.webp",
-            "sha256": "9684e96e04f7e82ad2787eef79bceac0a07460062afeeaac2b6f272d660da5fd",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-the-cistern-district",
-          "title": "The cistern district",
-          "alt": "The cistern district — oil landscape for The Fourth House",
-          "source": "stories/fourth-house/art/landscapes/02-the-cistern-district.png",
-          "sourceSha256": "c6c8870efe4575843ab8516ce6ba4d334ee9608efe61d09f3cc189e86f0b466a",
-          "full": {
-            "path": "landscapes/fourth-house/02-the-cistern-district.webp",
-            "sha256": "49e6418587f8bf0b1153d38318c4e3357237100dc3bcb525643ebcc02a070dbe",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fourth-house/02-the-cistern-district-thumb.webp",
-            "sha256": "0301a65cb63601eb340ec83014f709aaa7101e0e2bf8763c74d2450337ebb7c5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-south-passage-outside",
-          "title": "The south passage outside",
-          "alt": "The south passage outside — oil landscape for The Fourth House",
-          "source": "stories/fourth-house/art/landscapes/03-the-south-passage-outside.png",
-          "sourceSha256": "4045627f8f7c31c652d1ff716e6692a4332b45f133dba359e18d44d796b2141f",
-          "full": {
-            "path": "landscapes/fourth-house/03-the-south-passage-outside.webp",
-            "sha256": "f9ff1f46c60d25468c7ade86fc0d69694fe348ccf9c75cb55c05bd7083f481be",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fourth-house/03-the-south-passage-outside-thumb.webp",
-            "sha256": "c6fb7a9939e90045fa6acfaa723b189e706da7b466deb86e468f0e91b6fd124e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-roofs-after-rain",
-          "title": "Roofs after rain",
-          "alt": "Roofs after rain — oil landscape for The Fourth House",
-          "source": "stories/fourth-house/art/landscapes/04-roofs-after-rain.png",
-          "sourceSha256": "7bff1e6860239bdc2091da5862b33792ad3fb8a901ecb5b4df80a6faffbdfe1d",
-          "full": {
-            "path": "landscapes/fourth-house/04-roofs-after-rain.webp",
-            "sha256": "c588ffff244ed4ea2cdd075db52340318eab377cc88204e0cf166add72c5a11f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fourth-house/04-roofs-after-rain-thumb.webp",
-            "sha256": "cd37e89962a0c1504da3236990fb03d468d95c6124639cbae12e7a6354d74053",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-west-stack-at-midday",
-          "title": "The west stack at midday",
-          "alt": "The west stack at midday — oil landscape for The Fourth House",
-          "source": "stories/fourth-house/art/landscapes/05-the-west-stack-at-midday.png",
-          "sourceSha256": "7a4668d2df44ae8e1ba5c8e0ec3e6f9d21f973729f6c003d2f559fad966ef74a",
-          "full": {
-            "path": "landscapes/fourth-house/05-the-west-stack-at-midday.webp",
-            "sha256": "7128cdde6194b4b6e8af98dac6eb1b7984d6de38008e3d7654284d1b75c97cee",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/fourth-house/05-the-west-stack-at-midday-thumb.webp",
-            "sha256": "c07ffb7a52b7fe3b305292ac88bf48ef484b827edc1d4b72efa3b83bc9888e02",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "the-friends-i-built",
       "title": "The Friends I Built",
       "reader": "stories/the-friends-i-built.html",
@@ -14865,6 +14763,31 @@
       "source": "stories/four-million-falling/art/landscapes/03-spray-beneath-the-city.png",
       "sourceSha256": "1905569566d73ae4bdc2b8e184097ebd337b76a44c0a4d7647b73c6570e9a798",
       "reason": "The floating city loses its engineered concentric-ring form and becomes a mass of mountainous rock/castle silhouettes in cloud. This conflicts with the city identity in the source and retained airborne view."
+    },
+    {
+      "source": "stories/fourth-house/art/landscapes/01-the-city-before-noon.png",
+      "sourceSha256": "3480b774ef7d881c0471ed512ef1c37cbf8303c728813e3d50c42875cd9916ff",
+      "reason": "Invents outdoor city, cistern and garden settings for a story conducted in the source room. The final cistern job is still ahead; references to roof repair and rain are family-history examples, not landscape scenes."
+    },
+    {
+      "source": "stories/fourth-house/art/landscapes/02-the-cistern-district.png",
+      "sourceSha256": "c6c8870efe4575843ab8516ce6ba4d334ee9608efe61d09f3cc189e86f0b466a",
+      "reason": "Invents outdoor city, cistern and garden settings for a story conducted in the source room. The final cistern job is still ahead; references to roof repair and rain are family-history examples, not landscape scenes."
+    },
+    {
+      "source": "stories/fourth-house/art/landscapes/03-the-south-passage-outside.png",
+      "sourceSha256": "4045627f8f7c31c652d1ff716e6692a4332b45f133dba359e18d44d796b2141f",
+      "reason": "Invents outdoor city, cistern and garden settings for a story conducted in the source room. The final cistern job is still ahead; references to roof repair and rain are family-history examples, not landscape scenes."
+    },
+    {
+      "source": "stories/fourth-house/art/landscapes/04-roofs-after-rain.png",
+      "sourceSha256": "7bff1e6860239bdc2091da5862b33792ad3fb8a901ecb5b4df80a6faffbdfe1d",
+      "reason": "Invents outdoor city, cistern and garden settings for a story conducted in the source room. The final cistern job is still ahead; references to roof repair and rain are family-history examples, not landscape scenes."
+    },
+    {
+      "source": "stories/fourth-house/art/landscapes/05-the-west-stack-at-midday.png",
+      "sourceSha256": "7a4668d2df44ae8e1ba5c8e0ec3e6f9d21f973729f6c003d2f559fad966ef74a",
+      "reason": "Invents outdoor city, cistern and garden settings for a story conducted in the source room. The final cistern job is still ahead; references to roof repair and rain are family-history examples, not landscape scenes."
     },
     {
       "source": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
