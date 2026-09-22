@@ -8074,108 +8074,6 @@
       ]
     },
     {
-      "slug": "the-wolf-in-the-mirror",
-      "title": "The Wolf in the Mirror",
-      "reader": "stories/the-wolf-in-the-mirror.html",
-      "images": [
-        {
-          "id": "01-garden-before-moonrise",
-          "title": "Garden before moonrise",
-          "alt": "Garden before moonrise — oil landscape for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/landscapes/01-garden-before-moonrise.png",
-          "sourceSha256": "adb82e7d0660887ebeefa3cae64eb8a431fa21497bca38c9d018bda2fd8051b4",
-          "full": {
-            "path": "landscapes/the-wolf-in-the-mirror/01-garden-before-moonrise.webp",
-            "sha256": "9d9c834798ef8fc0e325cf48f45c43986857948aced0337f4636f533184ebf5f",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wolf-in-the-mirror/01-garden-before-moonrise-thumb.webp",
-            "sha256": "31b74f8da450b4d3dd3e316632a46185ab027a418491bbee1bf1d124144e2cd5",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-moonlight-over-the-studio",
-          "title": "Moonlight over the studio",
-          "alt": "Moonlight over the studio — oil landscape for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/landscapes/02-moonlight-over-the-studio.png",
-          "sourceSha256": "6d02fa646dc556a0394f25222570c34849860df0d7cad6fc0e59fac7d38310fb",
-          "full": {
-            "path": "landscapes/the-wolf-in-the-mirror/02-moonlight-over-the-studio.webp",
-            "sha256": "fe8f4c5ea9fcd3e8626ebf04db211941b0abac8a4c558041a6ae79389051310e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wolf-in-the-mirror/02-moonlight-over-the-studio-thumb.webp",
-            "sha256": "8460cb7d757b1c2acc65a11ff44138cf9f2611e945294ec21b39bca3ca83173b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "03-the-road-outside-at-midnight",
-          "title": "The road outside at midnight",
-          "alt": "The road outside at midnight — oil landscape for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/landscapes/03-the-road-outside-at-midnight.png",
-          "sourceSha256": "a7d417e19cab8256e0d60328c8d87f358c9c959dcc969e0183e68ae358d96dd5",
-          "full": {
-            "path": "landscapes/the-wolf-in-the-mirror/03-the-road-outside-at-midnight.webp",
-            "sha256": "bd05986e0f6f0fcc083828ac2c8371d2b1dccb36b899234f50082d3fb8417025",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wolf-in-the-mirror/03-the-road-outside-at-midnight-thumb.webp",
-            "sha256": "87911093c3c38c8ca40fc5726e8d02ee4a2fb292b1026c695622a43a546a7bde",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-three-thirty-in-the-garden",
-          "title": "Three thirty in the garden",
-          "alt": "Three thirty in the garden — oil landscape for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/landscapes/04-three-thirty-in-the-garden.png",
-          "sourceSha256": "9003b4bc158e19ca2432d2a68e87f8ae9747f74081482c0fd770019d24814fdb",
-          "full": {
-            "path": "landscapes/the-wolf-in-the-mirror/04-three-thirty-in-the-garden.webp",
-            "sha256": "7cc82f166325d5e5fd72b55ec8657efdae16a816a17d92b8d59e29557dcb392a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wolf-in-the-mirror/04-three-thirty-in-the-garden-thumb.webp",
-            "sha256": "34dc935ba9ed40a7712a96cd206557e155243dcc2c6af5e1ec77ecbff2280adc",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-gray-light-after-the-night",
-          "title": "Gray light after the night",
-          "alt": "Gray light after the night — oil landscape for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/landscapes/05-gray-light-after-the-night.png",
-          "sourceSha256": "5ba3192e2dce2d4d676baa7a9e05d3fcd01433087f7bdcc279711aa45e45a28b",
-          "full": {
-            "path": "landscapes/the-wolf-in-the-mirror/05-gray-light-after-the-night.webp",
-            "sha256": "2312d5e7ab3779940fe7d92a2f7f9fee15157e312a1724af750732e95c679dd2",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-wolf-in-the-mirror/05-gray-light-after-the-night-thumb.webp",
-            "sha256": "e41a27c2b387ee2909bc8534c23e2c8dabef4a0423759b914784ca0911b88e69",
-            "width": 480,
-            "height": 320
-          }
-        }
-      ]
-    },
-    {
       "slug": "what-the-gates-keep",
       "title": "The Wrong Rescue",
       "reader": "stories/what-the-gates-keep.html",
@@ -12745,6 +12643,31 @@
       "source": "stories/the-weight-they-never-counted/art/landscapes/05-the-road-after-the-noon-well.png",
       "sourceSha256": "8659ca00433369887b9f83b11dcc5c2367caea56dcb3472d204bd6323c058ebc",
       "reason": "The steep grade after the noon well is assigned on the manifest before departure. The story does not reach this well-and-hill scene; it adds another road landscape from a future instruction."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/landscapes/01-garden-before-moonrise.png",
+      "sourceSha256": "adb82e7d0660887ebeefa3cae64eb8a431fa21497bca38c9d018bda2fd8051b4",
+      "reason": "Preparation before moonrise is inside the reinforced studio, not in the garden."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/landscapes/02-moonlight-over-the-studio.png",
+      "sourceSha256": "6d02fa646dc556a0394f25222570c34849860df0d7cad6fc0e59fac7d38310fb",
+      "reason": "The transformation is watched inside a blacked-out room; this moonlit studio exterior and sea view are invented scenery."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/landscapes/03-the-road-outside-at-midnight.png",
+      "sourceSha256": "a7d417e19cab8256e0d60328c8d87f358c9c959dcc969e0183e68ae358d96dd5",
+      "reason": "A passing vehicle is heard from inside the containment room. It does not establish an outdoor midnight road scene."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/landscapes/04-three-thirty-in-the-garden.png",
+      "sourceSha256": "9003b4bc158e19ca2432d2a68e87f8ae9747f74081482c0fd770019d24814fdb",
+      "reason": "At three-thirty the wolf sleeps on the indoor floor, not in a garden; the painting repeats the unsupported studio exterior."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/landscapes/05-gray-light-after-the-night.png",
+      "sourceSha256": "5ba3192e2dce2d4d676baa7a9e05d3fcd01433087f7bdcc279711aa45e45a28b",
+      "reason": "Dawn light appears around blackout panels while both characters remain in the vestibule. The landscaped outdoor sunrise view moves the ending outside."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
