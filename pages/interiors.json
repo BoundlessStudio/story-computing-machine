@@ -514,6 +514,70 @@
       ]
     },
     {
+      "slug": "a-lock-on-the-inside",
+      "title": "A Lock on the Inside",
+      "reader": "stories/a-lock-on-the-inside.html",
+      "images": [
+        {
+          "id": "01-college-kitchen",
+          "title": "College kitchen",
+          "alt": "College kitchen — oil interior study for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/interiors/01-college-kitchen.png",
+          "sourceSha256": "c45086592159836a8132ec713da03db3bc21dbb047b97ef4efa9ba6796ef77fe",
+          "full": {
+            "path": "interiors/a-lock-on-the-inside/01-college-kitchen-c45086592159836a.webp",
+            "sha256": "52ffa76332379240a8ebc3316937deca1f855b0d6f0c4b8205674955242538b7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-lock-on-the-inside/01-college-kitchen-c45086592159836a-thumb.webp",
+            "sha256": "9896ce552d99d89203dabd4650c940ea00758323a791ba49395a84b51f0d26d8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-room-with-an-inner-bolt",
+          "title": "Room with an inner bolt",
+          "alt": "Room with an inner bolt — oil interior study for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/interiors/02-room-with-an-inner-bolt.png",
+          "sourceSha256": "3ecf81cfee06e0d31fe2bd9d58f336482b7ec4505eabf218464fc6a6ad62f4da",
+          "full": {
+            "path": "interiors/a-lock-on-the-inside/02-room-with-an-inner-bolt-3ecf81cfee06e0d3.webp",
+            "sha256": "fe1af3ec57f8e93c29108360793c2e9d220198cb88153265a7024b4d7fe28100",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-lock-on-the-inside/02-room-with-an-inner-bolt-3ecf81cfee06e0d3-thumb.webp",
+            "sha256": "b7f429dfb12bfeb76b11eb2706d0421f0b5fec53f65f9378e926df559df83fad",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-kethras-workroom",
+          "title": "Kethras workroom",
+          "alt": "Kethras workroom — oil interior study for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+          "sourceSha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93",
+          "full": {
+            "path": "interiors/a-lock-on-the-inside/03-kethras-workroom-0d6410605d39b5e4.webp",
+            "sha256": "470af18e24a052454db971262c61d1bf2ae799fe772504d54c4f7fac28c4c16a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/a-lock-on-the-inside/03-kethras-workroom-0d6410605d39b5e4-thumb.webp",
+            "sha256": "cfb5e5e7115bc96467f34ff50381b231f452773813c4efbdac3d5d01c7d69ca9",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-note-of-spite",
       "title": "A Note of Spite",
       "reader": "stories/a-note-of-spite.html",
@@ -635,6 +699,70 @@
           "thumbnail": {
             "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f-thumb.webp",
             "sha256": "cee58c4c7ddcd27309b07da1bee69e92e95a4cb1e13f779877da6ed8dfcf9a7e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "before-lunch",
+      "title": "Before Lunch",
+      "reader": "stories/before-lunch.html",
+      "images": [
+        {
+          "id": "01-dotts-office",
+          "title": "Dotts office",
+          "alt": "Dotts office — oil interior study for Before Lunch",
+          "source": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "sourceSha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "full": {
+            "path": "interiors/before-lunch/01-dotts-office-b0e405433df53faf.webp",
+            "sha256": "1a1ec32e687cbac6b60b22e932412a3ef0e2c22dc3378d8e5e74831d5c075506",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-lunch/01-dotts-office-b0e405433df53faf-thumb.webp",
+            "sha256": "91a9d3f6d7e19df51186c0f023beb6c440ebd1ca85097263283602e7ca760088",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-private-dining-room",
+          "title": "Private dining room",
+          "alt": "Private dining room — oil interior study for Before Lunch",
+          "source": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "sourceSha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "full": {
+            "path": "interiors/before-lunch/02-private-dining-room-b1c3c6b299b37f47.webp",
+            "sha256": "8db1e7d9113e1b692bfab60366862f041e57dc592c6823decda32b5caeb63692",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-lunch/02-private-dining-room-b1c3c6b299b37f47-thumb.webp",
+            "sha256": "997c51d56412137be526bd0027c1ab21b52aded9bd2c97f67df1c11199bad063",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-hotel-lounge",
+          "title": "Hotel lounge",
+          "alt": "Hotel lounge — oil interior study for Before Lunch",
+          "source": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "sourceSha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "full": {
+            "path": "interiors/before-lunch/03-hotel-lounge-156cba3f9567685b.webp",
+            "sha256": "52487c9ef26ef3bf556d0b1941f6ad4d5839ddafcdcdfebd83e31e1770c1d250",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/before-lunch/03-hotel-lounge-156cba3f9567685b-thumb.webp",
+            "sha256": "660152af16073e98c481207b1787e92aabf693f84cebf3bcb6146d144e776e10",
             "width": 480,
             "height": 320
           }
