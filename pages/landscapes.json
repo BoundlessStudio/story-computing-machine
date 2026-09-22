@@ -2121,6 +2121,44 @@
           }
         },
         {
+          "id": "03-the-shelf-road",
+          "title": "The shelf road",
+          "alt": "The shelf road — oil landscape for Leave the Names",
+          "source": "stories/leave-the-names/art/landscapes/03-the-shelf-road.png",
+          "sourceSha256": "affd53841d0277200dfd4a561b6c6eec3f27c173a18bf87b85e2b0ce5ce28d1c",
+          "full": {
+            "path": "landscapes/leave-the-names/03-the-shelf-road.webp",
+            "sha256": "d9da646b6948ccbced2dab3d30e38adfa5361d268e53854028391d1857c5f77a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/leave-the-names/03-the-shelf-road-thumb.webp",
+            "sha256": "e9411633be142f70c52246b69ef4c63fa1d075173a59cbcbd5a8b07ae131be42",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "04-dusk-over-the-north-court",
+          "title": "Dusk over the north court",
+          "alt": "Dusk over the north court — oil landscape for Leave the Names",
+          "source": "stories/leave-the-names/art/landscapes/04-dusk-over-the-north-court.png",
+          "sourceSha256": "c6e827b83b4c0d24a6ba1f0299c2bea313e9663d3f4cd39467bf1d6253280682",
+          "full": {
+            "path": "landscapes/leave-the-names/04-dusk-over-the-north-court.webp",
+            "sha256": "ef25f2807956bbb403788507a01c2bc3a3bce855b41e49623312646fc057f139",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/leave-the-names/04-dusk-over-the-north-court-thumb.webp",
+            "sha256": "7ede0cc6795a018a23da77bdb413fb32ec4867bfa8600df306ddfa4106b9e54d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "05-the-low-road-at-dawn",
           "title": "The low road at dawn",
           "alt": "The low road at dawn — oil landscape for Leave the Names",
@@ -10825,16 +10863,6 @@
       "source": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
       "sourceSha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
       "reason": "A redundant third canopy/fern garden view after the retained planter wall and shade bed. The ending returns to the same test field, not another garden location."
-    },
-    {
-      "source": "stories/leave-the-names/art/landscapes/03-the-shelf-road.png",
-      "sourceSha256": "affd53841d0277200dfd4a561b6c6eec3f27c173a18bf87b85e2b0ce5ce28d1c",
-      "reason": "Depicts the shelf road as a setting even though the caravan forfeits that route and takes the low road."
-    },
-    {
-      "source": "stories/leave-the-names/art/landscapes/04-dusk-over-the-north-court.png",
-      "sourceSha256": "c6e827b83b4c0d24a6ba1f0299c2bea313e9663d3f4cd39467bf1d6253280682",
-      "reason": "Repeats the roofless city and cistern panorama already covered by the two more specific retained views."
     },
     {
       "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/landscapes/01-saturday-above-the-roofs.png",
