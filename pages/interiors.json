@@ -9346,6 +9346,70 @@
       ]
     },
     {
+      "slug": "thirteen-years-borrowed",
+      "title": "Thirteen Years Borrowed",
+      "reader": "stories/thirteen-years-borrowed.html",
+      "images": [
+        {
+          "id": "01-bakery-before-the-next-tram",
+          "title": "Bakery before the next tram",
+          "alt": "Bakery before the next tram — oil interior study for Thirteen Years Borrowed",
+          "source": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
+          "sourceSha256": "c8df6c1d2a7713ebedc288718e073b91948ab5bd8abd19eb414e2b1e4ad1f363",
+          "full": {
+            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-c8df6c1d2a7713eb.webp",
+            "sha256": "5bb7d04c0272eb87250d4c11e17f6870baf28e70dc450d14b15555c67beaabd9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-c8df6c1d2a7713eb-thumb.webp",
+            "sha256": "a595196da1d050b381f96785cf23cab6618f8bf2dde01ac753528d57debfe9bd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-nivras-kitchen",
+          "title": "Nivras kitchen",
+          "alt": "Nivras kitchen — oil interior study for Thirteen Years Borrowed",
+          "source": "stories/thirteen-years-borrowed/art/interiors/02-nivras-kitchen.png",
+          "sourceSha256": "13e27d4ac323d55fc34b55168cfe66125aaa960bdf1c98a2db156c3112b20409",
+          "full": {
+            "path": "interiors/thirteen-years-borrowed/02-nivras-kitchen-13e27d4ac323d55f.webp",
+            "sha256": "98d1d3b5489608c750c4b71b762c90b74cca920abf838872296b43733cd3fa41",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/thirteen-years-borrowed/02-nivras-kitchen-13e27d4ac323d55f-thumb.webp",
+            "sha256": "98557c53900401defe85d137eba6cdd71ced4839e0ee2f191a6eb20e25df4cf9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-sitting-room-before-midnight",
+          "title": "The sitting room before midnight",
+          "alt": "The sitting room before midnight — oil interior study for Thirteen Years Borrowed",
+          "source": "stories/thirteen-years-borrowed/art/interiors/03-the-sitting-room-before-midnight.png",
+          "sourceSha256": "a8a91b1c06034c13f1a35dab36674427399dafb7d9c11b7e056e132a047159e4",
+          "full": {
+            "path": "interiors/thirteen-years-borrowed/03-the-sitting-room-before-midnight-a8a91b1c06034c13.webp",
+            "sha256": "b22582ff27ac4f76f48fcf42a760ca9649ddc6978ec70a43afdb2bbd6dc347be",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/thirteen-years-borrowed/03-the-sitting-room-before-midnight-a8a91b1c06034c13-thumb.webp",
+            "sha256": "27ef64ed8b6a35fc7b070002c52b59cae37bae15937044362d7e9985559a3db5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "transitions-in-common",
       "title": "Transitions in Common",
       "reader": "stories/transitions-in-common.html",
@@ -9403,6 +9467,70 @@
           "thumbnail": {
             "path": "interiors/transitions-in-common/03-the-portrait-corner-34d416b2937beda0-thumb.webp",
             "sha256": "3a051e3e0b3577400feef346e725b7c2de5d01f7ae9d24067f3bb9815d3e1f33",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "twelve-in-the-room",
+      "title": "Twelve in the Room",
+      "reader": "stories/twelve-in-the-room.html",
+      "images": [
+        {
+          "id": "01-the-abandoned-ballroom",
+          "title": "The abandoned ballroom",
+          "alt": "The abandoned ballroom — oil interior study for Twelve in the Room",
+          "source": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+          "sourceSha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723",
+          "full": {
+            "path": "interiors/twelve-in-the-room/01-the-abandoned-ballroom-3ed8b2eb9c519b3e.webp",
+            "sha256": "80a032cef552f510c34e061f070f790022cb91db2cf63e67a64a0a8fef15ca7b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/twelve-in-the-room/01-the-abandoned-ballroom-3ed8b2eb9c519b3e-thumb.webp",
+            "sha256": "42d403729771f1517863b168bb157760106f67d430c54242e5f4cb31480c120f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-brick-return",
+          "title": "The brick return",
+          "alt": "The brick return — oil interior study for Twelve in the Room",
+          "source": "stories/twelve-in-the-room/art/interiors/02-the-brick-return.png",
+          "sourceSha256": "1408a7ba98c78f60947c5b222b53acb10421b6da33338135417056d7976050b8",
+          "full": {
+            "path": "interiors/twelve-in-the-room/02-the-brick-return-1408a7ba98c78f60.webp",
+            "sha256": "b8e9407c73819ece44c1134f7029ab6596ebc133bbf0506c38294d0ff03c61b9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/twelve-in-the-room/02-the-brick-return-1408a7ba98c78f60-thumb.webp",
+            "sha256": "441c6013b4cee103803a545c1c32d25a459130915bad17c64746364e3bbb1b60",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-abandoned-kitchen",
+          "title": "The abandoned kitchen",
+          "alt": "The abandoned kitchen — oil interior study for Twelve in the Room",
+          "source": "stories/twelve-in-the-room/art/interiors/03-the-abandoned-kitchen.png",
+          "sourceSha256": "2900aa39a2178af48e73c7ad549bbfcbd763c39e61d2e471f99d78954e6196d5",
+          "full": {
+            "path": "interiors/twelve-in-the-room/03-the-abandoned-kitchen-2900aa39a2178af4.webp",
+            "sha256": "2e6e067202c5d838236b93cae3cf1b9026cf92a83c8e5403fafaa5bd68825a9b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/twelve-in-the-room/03-the-abandoned-kitchen-2900aa39a2178af4-thumb.webp",
+            "sha256": "fd6220b96bfef6b7cbd25371fe3784836959ea61834252ce8b51d35359ea5db6",
             "width": 480,
             "height": 320
           }
