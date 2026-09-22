@@ -6389,25 +6389,6 @@
           }
         },
         {
-          "id": "02-the-empty-charging-yards",
-          "title": "The empty charging yards",
-          "alt": "The empty charging yards — oil landscape for The Shadow That Nested",
-          "source": "stories/the-shadow-that-nested/art/landscapes/02-the-empty-charging-yards.png",
-          "sourceSha256": "4afb3f3862d7f51fbc53cd2e07c695bdc07c384d2820852848f74bb406a02893",
-          "full": {
-            "path": "landscapes/the-shadow-that-nested/02-the-empty-charging-yards.webp",
-            "sha256": "d1ceab2edb8551e9df5a7cf4a9f6460779285a8049fd626ba64da6f32b2be741",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-shadow-that-nested/02-the-empty-charging-yards-thumb.webp",
-            "sha256": "bd8c38a043bf45312a354c9100e1ffb6f9872573480f5f7393559c4ba141ab58",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-ancient-shade-at-the-moons-limb",
           "title": "Ancient shade at the moons limb",
           "alt": "Ancient shade at the moons limb — oil landscape for The Shadow That Nested",
@@ -6441,25 +6422,6 @@
           "thumbnail": {
             "path": "landscapes/the-shadow-that-nested/04-seams-of-sunlight-thumb.webp",
             "sha256": "fb992a38e6718b17062c0e6061c66918b8bf90a852f84382095ed1eb7f021937",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-light-returns-to-the-reservoirs",
-          "title": "Light returns to the reservoirs",
-          "alt": "Light returns to the reservoirs — oil landscape for The Shadow That Nested",
-          "source": "stories/the-shadow-that-nested/art/landscapes/05-light-returns-to-the-reservoirs.png",
-          "sourceSha256": "4bfb193c2874bca827e7463f83bcb40cac0f14623d030d179e98134d887d9888",
-          "full": {
-            "path": "landscapes/the-shadow-that-nested/05-light-returns-to-the-reservoirs.webp",
-            "sha256": "8052211053943bba3e087b0d7460c15e7bde86fe52098c8659cc2996affc2601",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-shadow-that-nested/05-light-returns-to-the-reservoirs-thumb.webp",
-            "sha256": "1dae55f4a741d9a68713355a5d01878787403a5d80e6124e9dc4b0716de0f075",
             "width": 480,
             "height": 320
           }
@@ -13838,6 +13800,16 @@
       "source": "stories/the-seventh-night/art/landscapes/05-the-road-before-the-expedition.png",
       "sourceSha256": "e2afe9dd3454a47e9795d8a8b87d6003714ef0fae50602406bd6e050d88d5f8c",
       "reason": "Present action is wholly in a private dining room, and the recalled adventure is inside a dungeon. These inn streets, roads and tomb exteriors expand passing departure/travel references into unsupported outdoor scenes."
+    },
+    {
+      "source": "stories/the-shadow-that-nested/art/landscapes/02-the-empty-charging-yards.png",
+      "sourceSha256": "4afb3f3862d7f51fbc53cd2e07c695bdc07c384d2820852848f74bb406a02893",
+      "reason": "The charging-yard closure is a ground report; this repeats the pump/reservoir landscape rather than depicting the orbital work."
+    },
+    {
+      "source": "stories/the-shadow-that-nested/art/landscapes/05-light-returns-to-the-reservoirs.png",
+      "sourceSha256": "4bfb193c2874bca827e7463f83bcb40cac0f14623d030d179e98134d887d9888",
+      "reason": "Repeats the ground reservoir panorama already established by image 01; the actual changed structure producing returning light is better shown in image 04."
     },
     {
       "source": "stories/ultimate-evil-dog/art/landscapes/01-tri-city-morning.png",
