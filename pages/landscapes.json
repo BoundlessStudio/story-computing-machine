@@ -6197,44 +6197,6 @@
       "reader": "stories/the-room-that-waited.html",
       "images": [
         {
-          "id": "01-baked-clay-wash",
-          "title": "Baked clay wash",
-          "alt": "Baked clay wash — oil landscape for The Room That Waited",
-          "source": "stories/the-room-that-waited/art/landscapes/01-baked-clay-wash.png",
-          "sourceSha256": "959e92a67f1ef6ffb8b319e4038ea35d5324f4e5bebbf787538b6e44fee86611",
-          "full": {
-            "path": "landscapes/the-room-that-waited/01-baked-clay-wash.webp",
-            "sha256": "374d9795acf8c03680778266c53180d5a197999d7e1db4b1c4c51166cf0d6d7e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-room-that-waited/01-baked-clay-wash-thumb.webp",
-            "sha256": "cca2f82bcc7cc3f576b8ed67a3045e96999c3985076888cc2aa51c72a466c08e",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "02-grass-above-the-buried-paving",
-          "title": "Grass above the buried paving",
-          "alt": "Grass above the buried paving — oil landscape for The Room That Waited",
-          "source": "stories/the-room-that-waited/art/landscapes/02-grass-above-the-buried-paving.png",
-          "sourceSha256": "4f0220d0a8c2f15d44435301fb8e3ab40ec71451106eb9de145f468df761a258",
-          "full": {
-            "path": "landscapes/the-room-that-waited/02-grass-above-the-buried-paving.webp",
-            "sha256": "fcbc632ea2d20739a64ec89c0e60e1714683ca815000a7d52bd2bedbabfb6308",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-room-that-waited/02-grass-above-the-buried-paving-thumb.webp",
-            "sha256": "e8c7ccd66d617a7de22041b50b152279278dd08bbbb55680589b898e0e7fc682",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-dark-hatch-in-the-gully",
           "title": "The dark hatch in the gully",
           "alt": "The dark hatch in the gully — oil landscape for The Room That Waited",
@@ -6268,25 +6230,6 @@
           "thumbnail": {
             "path": "landscapes/the-room-that-waited/04-sunset-across-the-far-bank-thumb.webp",
             "sha256": "b2f82d9b72ea91148f5502d1a758e9dbf4297edd50b9a2fa8959a71d82b632d3",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-the-way-up-from-the-wash",
-          "title": "The way up from the wash",
-          "alt": "The way up from the wash — oil landscape for The Room That Waited",
-          "source": "stories/the-room-that-waited/art/landscapes/05-the-way-up-from-the-wash.png",
-          "sourceSha256": "41faaf8dee1323956b5dcc97333e6cbc66eb99f7afaefc5dda83835690ca5a1c",
-          "full": {
-            "path": "landscapes/the-room-that-waited/05-the-way-up-from-the-wash.webp",
-            "sha256": "bbcbdc469945dcdafe8c3b7b4aa1e1bb96399a586e82978e7bfc9978fb6dd92c",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-room-that-waited/05-the-way-up-from-the-wash-thumb.webp",
-            "sha256": "2454fbb0f806411e32f75bb209ccdcffd1905dc6c77f01caa744afe791856006",
             "width": 480,
             "height": 320
           }
@@ -14065,6 +14008,21 @@
       "source": "stories/the-ring-between-lives/art/landscapes/05-dawn-at-the-east-gallery.png",
       "sourceSha256": "e798babcf312c6f9e761b34275615a1dbe5e2ebf28f136cc5c12a91fdc1f5fbf",
       "reason": "Moves the wedding from inside the east gallery to a garden exterior overlooking the castle."
+    },
+    {
+      "source": "stories/the-room-that-waited/art/landscapes/01-baked-clay-wash.png",
+      "sourceSha256": "959e92a67f1ef6ffb8b319e4038ea35d5324f4e5bebbf787538b6e44fee86611",
+      "reason": "Repeats the same dry wash already represented by the hatch landscape and sunset return in images 03 and 04."
+    },
+    {
+      "source": "stories/the-room-that-waited/art/landscapes/02-grass-above-the-buried-paving.png",
+      "sourceSha256": "4f0220d0a8c2f15d44435301fb8e3ab40ec71451106eb9de145f468df761a258",
+      "reason": "Another view of the same gully/grass/buried paving adds no distinct location."
+    },
+    {
+      "source": "stories/the-room-that-waited/art/landscapes/05-the-way-up-from-the-wash.png",
+      "sourceSha256": "41faaf8dee1323956b5dcc97333e6cbc66eb99f7afaefc5dda83835690ca5a1c",
+      "reason": "Repeats the wash departure already represented by image 04."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
