@@ -6082,6 +6082,134 @@
       ]
     },
     {
+      "slug": "the-next-train",
+      "title": "The Next Train",
+      "reader": "stories/the-next-train.html",
+      "images": [
+        {
+          "id": "01-the-last-carriage",
+          "title": "The last carriage",
+          "alt": "The last carriage — oil interior study for The Next Train",
+          "source": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sourceSha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "full": {
+            "path": "interiors/the-next-train/01-the-last-carriage-f75f03f545f8ab06.webp",
+            "sha256": "32beeb7d134352f28fc71aace42b7fedca625c3ca1993efe29ec0e3da381f887",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-next-train/01-the-last-carriage-f75f03f545f8ab06-thumb.webp",
+            "sha256": "0d824edb7d92ffc9060ec287ca17fd530ee8cd30994bfa5a380d98a49e49887a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-lilies-on-the-seat",
+          "title": "Lilies on the seat",
+          "alt": "Lilies on the seat — oil interior study for The Next Train",
+          "source": "stories/the-next-train/art/interiors/02-lilies-on-the-seat.png",
+          "sourceSha256": "bd4b293bc6f8cbc329a88af22a3b5cfd064fd003494d3dc18d6a1a9ff22fdc29",
+          "full": {
+            "path": "interiors/the-next-train/02-lilies-on-the-seat-bd4b293bc6f8cbc3.webp",
+            "sha256": "af35c88eb2110eddd700d319710f222be678949cea3ee5b132170b8669be5f0f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-next-train/02-lilies-on-the-seat-bd4b293bc6f8cbc3-thumb.webp",
+            "sha256": "649db9d7e61d99d03f1eacf227e7bbe69b377633afadfa6c4be3266c32342369",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-between-stops",
+          "title": "Between stops",
+          "alt": "Between stops — oil interior study for The Next Train",
+          "source": "stories/the-next-train/art/interiors/03-between-stops.png",
+          "sourceSha256": "7f1f7fb7c932cd2c8362cb3b9c5f868f3eacba31488f6cc3bc7ea510b9c3f440",
+          "full": {
+            "path": "interiors/the-next-train/03-between-stops-7f1f7fb7c932cd2c.webp",
+            "sha256": "b1b405246bd4fec44e8809c74dce157f2be2763ff1a009211477d64ae91d637e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-next-train/03-between-stops-7f1f7fb7c932cd2c-thumb.webp",
+            "sha256": "247a033e7ec15d53d2ca929f2ec74a94c0b00f644df136228f95c7fc34739e2e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-night-harvest",
+      "title": "The Night Harvest",
+      "reader": "stories/the-night-harvest.html",
+      "images": [
+        {
+          "id": "01-brine-shed-racks",
+          "title": "Brine shed racks",
+          "alt": "Brine shed racks — oil interior study for The Night Harvest",
+          "source": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+          "sourceSha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+          "full": {
+            "path": "interiors/the-night-harvest/01-brine-shed-racks-bfaa5c58bd74c1af.webp",
+            "sha256": "e54c503d0830afddac33613a1000e201ada6cf5d955b729ebdc3edc658d9c1cc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-harvest/01-brine-shed-racks-bfaa5c58bd74c1af-thumb.webp",
+            "sha256": "a97eee32df25ef5489d9d3ff4fac43391e65cd541592f5029baf5d7802a1ee23",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-hide-cutting-room",
+          "title": "Hide cutting room",
+          "alt": "Hide cutting room — oil interior study for The Night Harvest",
+          "source": "stories/the-night-harvest/art/interiors/02-hide-cutting-room.png",
+          "sourceSha256": "f9cd2ee5e25abaf5a98aff1514546806d2237cb49a8ed25bbc377c4790c624f5",
+          "full": {
+            "path": "interiors/the-night-harvest/02-hide-cutting-room-f9cd2ee5e25abaf5.webp",
+            "sha256": "59feb208616625c95a23864c80867cf7677b8827b9bbbffc6569bfdc31ba4b37",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-harvest/02-hide-cutting-room-f9cd2ee5e25abaf5-thumb.webp",
+            "sha256": "51755dd8162a825d80e7461917b8df84223d0f35316d5ee21d9c25956c6712f3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-cold-shed-at-dawn",
+          "title": "Cold shed at dawn",
+          "alt": "Cold shed at dawn — oil interior study for The Night Harvest",
+          "source": "stories/the-night-harvest/art/interiors/03-cold-shed-at-dawn.png",
+          "sourceSha256": "263a907b9e4d25c5e3ef950a42019b974bc95f159b183ead60f3ac40b719de23",
+          "full": {
+            "path": "interiors/the-night-harvest/03-cold-shed-at-dawn-263a907b9e4d25c5.webp",
+            "sha256": "4549187c529d97d02bd8e3993a480a642c435545a1379a12390c5a4e2158cab2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-night-harvest/03-cold-shed-at-dawn-263a907b9e4d25c5-thumb.webp",
+            "sha256": "973dfb70fda160511095b725fcf500030af10818c807d825e3f8df3264a58288",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-night-she-knew",
       "title": "The Night She Knew",
       "reader": "stories/the-night-she-knew.html",
