@@ -5218,25 +5218,6 @@
           }
         },
         {
-          "id": "02-the-hidden-low-way",
-          "title": "The hidden low way",
-          "alt": "The hidden low way — oil landscape for The Name the Water Took",
-          "source": "stories/the-name-the-water-took/art/landscapes/02-the-hidden-low-way.png",
-          "sourceSha256": "15b973fadb2de5097706642bcd9e99eb2bdff737ecc625cbeaf578c8294691ea",
-          "full": {
-            "path": "landscapes/the-name-the-water-took/02-the-hidden-low-way.webp",
-            "sha256": "6e219476a2c2416e64adc55875c81e036ad530225dd95eeb5964a4d7e465e24e",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-name-the-water-took/02-the-hidden-low-way-thumb.webp",
-            "sha256": "106620ab87d33117190c3da3024566f45a0a2dc59acb300cb542dff84b648dd4",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-rain-at-the-tilted-slab",
           "title": "Rain at the tilted slab",
           "alt": "Rain at the tilted slab — oil landscape for The Name the Water Took",
@@ -14611,6 +14592,11 @@
       "source": "stories/the-name-i-kept/art/landscapes/04-city-roofs-in-evening-blue.png",
       "sourceSha256": "aca97a13b28c5d7eb4aa16c9304872677d8ce6260a69b153e9e14db974d4645a",
       "reason": "Invents a rooftop city viewpoint during a story conducted in the laundromat and broadcast interview, and adds a third laundromat exterior."
+    },
+    {
+      "source": "stories/the-name-the-water-took/art/landscapes/02-the-hidden-low-way.png",
+      "sourceSha256": "15b973fadb2de5097706642bcd9e99eb2bdff737ecc625cbeaf578c8294691ea",
+      "reason": "The hidden low way is depicted as an exposed hillside path overlooking an open valley. This conflicts with the choice to avoid the watched ridge and duplicates the better-grounded fig-root route in image 04."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
