@@ -2350,6 +2350,32 @@
       "reader": "stories/his-infernal-majesty-says-no.html",
       "images": [
         {
+          "id": "03-the-human-gate-approach",
+          "title": "The Royal Gate Corridor",
+          "alt": "The Royal Gate Corridor — corrected oil landscape for His Infernal Majesty Says No",
+          "source": "pages/landscape-replacements/his-infernal-majesty-says-no/03-the-human-gate-approach.png",
+          "sourceSha256": "92c1b0dd5a68cf2ff00ed7e7ca0c175ac723d3c4f84fe8795a73e364601cf92f",
+          "full": {
+            "path": "landscapes/his-infernal-majesty-says-no/03-the-human-gate-approach-92c1b0dd5a68cf2f.webp",
+            "sha256": "d77b0c6f5cce0cb2498cefed14bd55e5a85bff4f193f8a05627e85ffd8204af6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/his-infernal-majesty-says-no/03-the-human-gate-approach-92c1b0dd5a68cf2f-thumb.webp",
+            "sha256": "2aa2fdbf70f4beca624e4a790dd458153f10d99f6dd78fd7a6c6b7d75a94ab8e",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/his-infernal-majesty-says-no/art/landscapes/03-the-human-gate-approach.png",
+            "originalSha256": "fedf7b3363d047ae89e83db3d167f56085dd44a6dfc6777aa0672a48c498f920",
+            "correction": "Moves the gate from the end of a bare basalt corridor into a conventional outdoor campus approach.",
+            "prompt": "Use the provided old landscape ONLY as a reference for its tactile thick impasto oil technique and wide format. Correct the setting entirely to match His Infernal Majesty Says No: the royal gate is at the END OF A BARE BASALT CORRIDOR INSIDE THE INFERNAL PALACE. View along a simple enclosed corridor of dark charcoal basalt: visible solid ceiling, plain stone side walls and floor, severe undecorated geometry. At the far end is one plain rectangular doorway FILLED WITH PALE MOVING AIR, softly luminous wisps in a door-shaped plane. A solid BLACK CIRCULAR DISC, the king's seal, floats at the exact middle of this pale doorway, clearly obstructing it. Pale gate light grazes the rough basalt facets, with restrained warm undertones in the stone. No view of a campus, garden or outside landscape through the gate; the moving air is the gate surface. No trees, grass, blue sky, windows, heraldry, statues, carved victories, ornament, text or people. Wide interior environment composition with strong depth and visible enclosing ceiling. Retain hand-painted heavy oil strokes, knife ridges and physical pigment texture rather than smooth 3D rendering.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "05-night-staff-lights",
           "title": "Night staff lights",
           "alt": "Night staff lights — oil landscape for His Infernal Majesty Says No",
