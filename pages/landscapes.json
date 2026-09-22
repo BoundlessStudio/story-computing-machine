@@ -4083,6 +4083,51 @@
       ]
     },
     {
+      "slug": "the-count-was-131072",
+      "title": "The Count Was 131,072",
+      "reader": "stories/the-count-was-131072.html",
+      "images": [
+        {
+          "id": "03-the-eastern-ridge",
+          "title": "The eastern ridge",
+          "alt": "The eastern ridge — oil landscape for The Count Was 131,072",
+          "source": "stories/the-count-was-131072/art/landscapes/03-the-eastern-ridge.png",
+          "sourceSha256": "6e182a08767c20d151169fce438d9105748712583ea47500222d102f32feae35",
+          "full": {
+            "path": "landscapes/the-count-was-131072/03-the-eastern-ridge.webp",
+            "sha256": "f2cf95db5bcbcea64b29266b6209be5508797640f9ef4e0fab10a43d52e0a51d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-count-was-131072/03-the-eastern-ridge-thumb.webp",
+            "sha256": "837b4844983c9e5d0fe6db440b357612874072daa8d03ddc6d9b17c87604f002",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "05-quiet-water-beyond-memory",
+          "title": "Quiet water beyond memory",
+          "alt": "Quiet water beyond memory — oil landscape for The Count Was 131,072",
+          "source": "stories/the-count-was-131072/art/landscapes/05-quiet-water-beyond-memory.png",
+          "sourceSha256": "82ef97b665de717716820d9d48fcf0d78d71a77495ced76b083d349428fb4106",
+          "full": {
+            "path": "landscapes/the-count-was-131072/05-quiet-water-beyond-memory.webp",
+            "sha256": "0de6908303dbc72b1afeb90edc6058f6a34d8b4f32cca6125f2306ca46d486ba",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-count-was-131072/05-quiet-water-beyond-memory-thumb.webp",
+            "sha256": "f05e9c42790effa8796c17be177c63ec64205e89177e21722d2d74f09ee284f3",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-inheritance-remembers",
       "title": "The Counted Road",
       "reader": "stories/the-inheritance-remembers.html",
@@ -11510,18 +11555,8 @@
       "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
     },
     {
-      "source": "stories/the-count-was-131072/art/landscapes/03-the-eastern-ridge.png",
-      "sourceSha256": "6e182a08767c20d151169fce438d9105748712583ea47500222d102f32feae35",
-      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
-    },
-    {
       "source": "stories/the-count-was-131072/art/landscapes/04-the-sky-after-the-rupture.png",
       "sourceSha256": "341c0eb474e430b618d5fa6254dbe8aafdf8c6670e39ad4fd6ca262f28d4fdbe",
-      "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
-    },
-    {
-      "source": "stories/the-count-was-131072/art/landscapes/05-quiet-water-beyond-memory.png",
-      "sourceSha256": "82ef97b665de717716820d9d48fcf0d78d71a77495ced76b083d349428fb4106",
       "reason": "Turns museum displays and a recounted historical battle into present outdoor seascapes. No visit to the bay occurs, and five near-identical coastal vistas obscure the actual museum setting."
     },
     {
