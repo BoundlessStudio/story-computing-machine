@@ -1858,6 +1858,70 @@
       ]
     },
     {
+      "slug": "late-for-dinner",
+      "title": "Late for Dinner",
+      "reader": "stories/late-for-dinner.html",
+      "images": [
+        {
+          "id": "01-the-waiting-dining-room",
+          "title": "The waiting dining room",
+          "alt": "The waiting dining room — oil interior study for Late for Dinner",
+          "source": "stories/late-for-dinner/art/interiors/01-the-waiting-dining-room.png",
+          "sourceSha256": "499919992867bc024badee5086353eeb9b8dca53307cb414b9ec1a636ddd823c",
+          "full": {
+            "path": "interiors/late-for-dinner/01-the-waiting-dining-room-499919992867bc02.webp",
+            "sha256": "7f4d04c48cab9fd0cd350dd707779c3755895e0df5a977254d575dafc0c1802b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/late-for-dinner/01-the-waiting-dining-room-499919992867bc02-thumb.webp",
+            "sha256": "4282432343ea62229bd5da0a73716b5122bf4a36576ded5f35e125100a891e64",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-kitchen-table",
+          "title": "The kitchen table",
+          "alt": "The kitchen table — oil interior study for Late for Dinner",
+          "source": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+          "sourceSha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+          "full": {
+            "path": "interiors/late-for-dinner/02-the-kitchen-table-a8c69e6e7b0a4ba5.webp",
+            "sha256": "c5e780f34788e17c73f7d9a6046da53e255bd43f5e2150dc970756056c2a1cf4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/late-for-dinner/02-the-kitchen-table-a8c69e6e7b0a4ba5-thumb.webp",
+            "sha256": "f56fd03bb39789d9ecd7b875bf0d9e09115e973cb646ea61443dfcf760824c55",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-sword-beneath-the-cloak",
+          "title": "The sword beneath the cloak",
+          "alt": "The sword beneath the cloak — oil interior study for Late for Dinner",
+          "source": "stories/late-for-dinner/art/interiors/03-the-sword-beneath-the-cloak.png",
+          "sourceSha256": "995b5713c4ffacda9b965774e5f0e4e0a8775b95f963d542af79879c755d4380",
+          "full": {
+            "path": "interiors/late-for-dinner/03-the-sword-beneath-the-cloak-995b5713c4ffacda.webp",
+            "sha256": "b917328bda407dc4c1898be77646796b0a86235da0de04e0fa950c29446727c2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/late-for-dinner/03-the-sword-beneath-the-cloak-995b5713c4ffacda-thumb.webp",
+            "sha256": "b7d154ec694e37d8156a987de153f3409487b03bcf8c524c187d15f86dd2d8cf",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "no-one-like-me",
       "title": "No One Like Me",
       "reader": "stories/no-one-like-me.html",
@@ -2427,6 +2491,70 @@
           "thumbnail": {
             "path": "interiors/fourth-house/03-coupling-and-load-frame-bb3304fea0c7e144-thumb.webp",
             "sha256": "f9f5c7a8556f840506c5451667379bf9225ba6431ec6d9e1f3ea0cbda0218dd8",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "golden-lion",
+      "title": "The Gentleman with the Golden Lion",
+      "reader": "stories/golden-lion.html",
+      "images": [
+        {
+          "id": "01-menagerie-hall",
+          "title": "Menagerie hall",
+          "alt": "Menagerie hall — oil interior study for The Gentleman with the Golden Lion",
+          "source": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+          "sourceSha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+          "full": {
+            "path": "interiors/golden-lion/01-menagerie-hall-9d068b25f0da5794.webp",
+            "sha256": "b8684c88fb2bec487647d5458f9a291046c25eed072648c19e6faadc58cc0212",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/golden-lion/01-menagerie-hall-9d068b25f0da5794-thumb.webp",
+            "sha256": "cb1e0c4426c89c52a6f7da26b6c3d9a34358b9979730706a60693800b6f68715",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-baize-door-room",
+          "title": "The baize door room",
+          "alt": "The baize door room — oil interior study for The Gentleman with the Golden Lion",
+          "source": "stories/golden-lion/art/interiors/02-the-baize-door-room.png",
+          "sourceSha256": "623e1c96968d27f6999d416c25eca4d2dcebcde1e4a241b8091e29b44b3313c0",
+          "full": {
+            "path": "interiors/golden-lion/02-the-baize-door-room-623e1c96968d27f6.webp",
+            "sha256": "fc9a448855b1bd1de86d70bfd3dc4ccde287962bc7fa79209545cc72d5c7d91e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/golden-lion/02-the-baize-door-room-623e1c96968d27f6-thumb.webp",
+            "sha256": "9e8789e4f4839c9ddd07871f601237347926718cf0f8f51a2424f059164035c5",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-garden-end-table",
+          "title": "The garden end table",
+          "alt": "The garden end table — oil interior study for The Gentleman with the Golden Lion",
+          "source": "stories/golden-lion/art/interiors/03-the-garden-end-table.png",
+          "sourceSha256": "ea20adefc68ae229b06aec8c3bac6f2f2d54ef4bad998fc572a4a58a8351f18a",
+          "full": {
+            "path": "interiors/golden-lion/03-the-garden-end-table-ea20adefc68ae229.webp",
+            "sha256": "6d187fec85be30a172a9b05db6f1fd38039905504cb42fd8dbae4eb8556583f3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/golden-lion/03-the-garden-end-table-ea20adefc68ae229-thumb.webp",
+            "sha256": "29940e81c7fc1313307dca215e5aa787c904719fe06b81cc4d7d3f1edf944fcd",
             "width": 480,
             "height": 320
           }
