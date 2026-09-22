@@ -1602,6 +1602,70 @@
       ]
     },
     {
+      "slug": "his-infernal-majesty-says-no",
+      "title": "His Infernal Majesty Says No",
+      "reader": "stories/his-infernal-majesty-says-no.html",
+      "images": [
+        {
+          "id": "01-birthday-audience-hall",
+          "title": "Birthday audience hall",
+          "alt": "Birthday audience hall — oil interior study for His Infernal Majesty Says No",
+          "source": "stories/his-infernal-majesty-says-no/art/interiors/01-birthday-audience-hall.png",
+          "sourceSha256": "9ab1c3b511ed0fd3e0ad0f3a88ea600854c7ae797a880e5557db33c0bbc31232",
+          "full": {
+            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-9ab1c3b511ed0fd3.webp",
+            "sha256": "e304f3263b6a1b7b3e8f0b9ad5be55daee20a36e2b2d14ecb8897fb5088383e5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-9ab1c3b511ed0fd3-thumb.webp",
+            "sha256": "af9ca96839dfe829ddc84a140b83cc7ac3daca5e7f6d190dbe7a86fca7a12724",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-nimelzas-sitting-room",
+          "title": "Nimelzas sitting room",
+          "alt": "Nimelzas sitting room — oil interior study for His Infernal Majesty Says No",
+          "source": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+          "sourceSha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2",
+          "full": {
+            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-620c6dbe5cdb091a.webp",
+            "sha256": "d1f4613f7954d88475670bd4e3aa041cf054e8f4a9713ec820fefce2eb19e054",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-620c6dbe5cdb091a-thumb.webp",
+            "sha256": "1e1ad2dda31c800dd37e91e475867052e2c2c199a26289447772cee98ee4c46b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-royal-gate-corridor",
+          "title": "Royal gate corridor",
+          "alt": "Royal gate corridor — oil interior study for His Infernal Majesty Says No",
+          "source": "stories/his-infernal-majesty-says-no/art/interiors/03-royal-gate-corridor.png",
+          "sourceSha256": "9452e6bf7685d3624047550c389d9f96296b3b20931052a579978db2e43f6468",
+          "full": {
+            "path": "interiors/his-infernal-majesty-says-no/03-royal-gate-corridor-9452e6bf7685d362.webp",
+            "sha256": "fb4e705d95d345820eb48cf58f8e0575bb92868d12483ec8f7197369bc9a0ad5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/his-infernal-majesty-says-no/03-royal-gate-corridor-9452e6bf7685d362-thumb.webp",
+            "sha256": "1fcb98d1ce7b591f8e3f9c6473166a92775c2eae9a38ebafd21383243ffa2dfa",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "empire-within",
       "title": "Nobody Spends Her Name",
       "reader": "stories/empire-within.html",
