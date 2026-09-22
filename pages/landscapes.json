@@ -6145,25 +6145,6 @@
           }
         },
         {
-          "id": "02-loading-yard-at-dusk",
-          "title": "Loading yard at dusk",
-          "alt": "Loading yard at dusk — oil landscape for The Red Dot",
-          "source": "stories/the-red-dot/art/landscapes/02-loading-yard-at-dusk.png",
-          "sourceSha256": "897592fb0ec06ac67678cee0773398efa98e3d648197bf39458b944050e3f87c",
-          "full": {
-            "path": "landscapes/the-red-dot/02-loading-yard-at-dusk.webp",
-            "sha256": "013468815968d19a0d621f4f346a27f0a4e97c6b95a10ad00c51786e56352fbc",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-red-dot/02-loading-yard-at-dusk-thumb.webp",
-            "sha256": "5eaaa813ddf17e40999e1c8f0e3ea3301bfa200c2fb48d52c34639a738aebb89",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-open-gate-and-service-road",
           "title": "Open gate and service road",
           "alt": "Open gate and service road — oil landscape for The Red Dot",
@@ -6178,44 +6159,6 @@
           "thumbnail": {
             "path": "landscapes/the-red-dot/03-open-gate-and-service-road-thumb.webp",
             "sha256": "c42487bc7ea3c5925b3110fd9a571d9ca0d6b4d5ce585b037f3eb108c86a7f25",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "04-the-warehouse-roofline",
-          "title": "The warehouse roofline",
-          "alt": "The warehouse roofline — oil landscape for The Red Dot",
-          "source": "stories/the-red-dot/art/landscapes/04-the-warehouse-roofline.png",
-          "sourceSha256": "c174ba1cfc5f806b16026a1a67da50829e9e5d36746f2ba2e2f5aedba164ef7b",
-          "full": {
-            "path": "landscapes/the-red-dot/04-the-warehouse-roofline.webp",
-            "sha256": "bb5a219c8f63040f5f0b2d887f46cd2d7ecd5949c1fc1541a6c69748c0529bff",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-red-dot/04-the-warehouse-roofline-thumb.webp",
-            "sha256": "a742998b5ada4449cd4499859595946ad2ffef5916914d8fa3970e0c44e6b9c6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-road-beyond-the-yard",
-          "title": "Road beyond the yard",
-          "alt": "Road beyond the yard — oil landscape for The Red Dot",
-          "source": "stories/the-red-dot/art/landscapes/05-road-beyond-the-yard.png",
-          "sourceSha256": "223cd867624c99a255db52c64d75742ffda691e52e8dd682116ec981eb234f07",
-          "full": {
-            "path": "landscapes/the-red-dot/05-road-beyond-the-yard.webp",
-            "sha256": "13be25114f232ba598f3e5858e9ec9c4135149e3fd617865c7ab1578c7543a1a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-red-dot/05-road-beyond-the-yard-thumb.webp",
-            "sha256": "63f8d911b3dcce50d959bdccf46fd88c42e8b8af231a875d8636d37044ebd15d",
             "width": 480,
             "height": 320
           }
@@ -14163,6 +14106,21 @@
       "source": "stories/the-players-above/art/landscapes/03-the-abandoned-kiln-footing.png",
       "sourceSha256": "83e71bccd9cc539e8f9e902ec419bf84020f7d9dd73785ec2d5074147c69b65b",
       "reason": "Repeats the kiln footing that is more specifically represented with its opened service loop and spillway in image 04."
+    },
+    {
+      "source": "stories/the-red-dot/art/landscapes/02-loading-yard-at-dusk.png",
+      "sourceSha256": "897592fb0ec06ac67678cee0773398efa98e3d648197bf39458b944050e3f87c",
+      "reason": "Shows a row of shut loading bays instead of the open eighteen-foot doors connecting the warehouse aisle to the escape yard."
+    },
+    {
+      "source": "stories/the-red-dot/art/landscapes/04-the-warehouse-roofline.png",
+      "sourceSha256": "c174ba1cfc5f806b16026a1a67da50829e9e5d36746f2ba2e2f5aedba164ef7b",
+      "reason": "Repeats the same warehouse-yard exterior without a distinct event or setting."
+    },
+    {
+      "source": "stories/the-red-dot/art/landscapes/05-road-beyond-the-yard.png",
+      "sourceSha256": "223cd867624c99a255db52c64d75742ffda691e52e8dd682116ec981eb234f07",
+      "reason": "Repeats the service-road escape already captured through the open gate in image 03."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
