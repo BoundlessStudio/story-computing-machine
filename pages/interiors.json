@@ -5634,6 +5634,70 @@
       ]
     },
     {
+      "slug": "the-peace-they-could-sleep-through",
+      "title": "The Peace They Could Sleep Through",
+      "reader": "stories/the-peace-they-could-sleep-through.html",
+      "images": [
+        {
+          "id": "01-the-hearing-room",
+          "title": "The hearing room",
+          "alt": "The hearing room — oil interior study for The Peace They Could Sleep Through",
+          "source": "stories/the-peace-they-could-sleep-through/art/interiors/01-the-hearing-room.png",
+          "sourceSha256": "154d038525eeb670766ec093402848c51ff25b527ce8b2f4a9204fe23e3ded94",
+          "full": {
+            "path": "interiors/the-peace-they-could-sleep-through/01-the-hearing-room-154d038525eeb670.webp",
+            "sha256": "accfe4b823c09a41cd5f4fca866f3bb094052c652775bfd98b9754027a9d8035",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-peace-they-could-sleep-through/01-the-hearing-room-154d038525eeb670-thumb.webp",
+            "sha256": "c77bc2d55bee9cb6c713647d87aa17d4cbd5aae282c77d6d0b67ac9893bc7329",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-private-consultation-room",
+          "title": "The private consultation room",
+          "alt": "The private consultation room — oil interior study for The Peace They Could Sleep Through",
+          "source": "stories/the-peace-they-could-sleep-through/art/interiors/02-the-private-consultation-room.png",
+          "sourceSha256": "0827e12e304b4902c63e39f86706a1bccad76d21d9ed03ba217a162b80d1d0bb",
+          "full": {
+            "path": "interiors/the-peace-they-could-sleep-through/02-the-private-consultation-room-0827e12e304b4902.webp",
+            "sha256": "82787db58ffca7c82954f03b35fbc14b67c3892f302d088ceb1c4575ef3e33c7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-peace-they-could-sleep-through/02-the-private-consultation-room-0827e12e304b4902-thumb.webp",
+            "sha256": "7ed3fa69565dd2b48324ce70e790b6025259f4915104805dc6e6b27f5b203f80",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-hall-of-petitions",
+          "title": "The hall of petitions",
+          "alt": "The hall of petitions — oil interior study for The Peace They Could Sleep Through",
+          "source": "stories/the-peace-they-could-sleep-through/art/interiors/03-the-hall-of-petitions.png",
+          "sourceSha256": "13c7d1cd3eb42f58608af35607be2225f175ae6f7a778b025ce9b9f90aaa26d6",
+          "full": {
+            "path": "interiors/the-peace-they-could-sleep-through/03-the-hall-of-petitions-13c7d1cd3eb42f58.webp",
+            "sha256": "ff15dabb8039a3a3e7bd8457faed12ca5925c391dedb3deff75f5836fa99c35b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-peace-they-could-sleep-through/03-the-hall-of-petitions-13c7d1cd3eb42f58-thumb.webp",
+            "sha256": "0cd97eebdc0378de09162f3879a262feaa126908f976d0c90e50c20d8ea0ea9e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "rooms-before-sunrise",
       "title": "The Rooms the City Forgot",
       "reader": "stories/rooms-before-sunrise.html",
