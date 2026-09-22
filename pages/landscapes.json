@@ -348,6 +348,32 @@
       ]
     },
     {
+      "slug": "a-darkness-written-under-skin",
+      "title": "A Darkness Written Under Skin",
+      "reader": "stories/a-darkness-written-under-skin.html",
+      "images": [
+        {
+          "id": "01-dye-house-at-gray-morning",
+          "title": "Dye house at gray morning",
+          "alt": "Dye house at gray morning — oil landscape for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
+          "sourceSha256": "2005c2c4e4dc65c2734b4eeddcf22f12d7714fd2be4306254b347fd2a018ad85",
+          "full": {
+            "path": "landscapes/a-darkness-written-under-skin/01-dye-house-at-gray-morning.webp",
+            "sha256": "5add785c1f134e403378ef70654212734d859bcce9bd6765c4571ebc5af139bd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/a-darkness-written-under-skin/01-dye-house-at-gray-morning-thumb.webp",
+            "sha256": "0abba52727598be6056f3fdd08ba7c3e08a266dd9ec6cc41dcd8b9685f42f276",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-knock-in-someone-elses-sleep",
       "title": "A Knock in Someone Else's Sleep",
       "reader": "stories/a-knock-in-someone-elses-sleep.html",
@@ -9753,11 +9779,6 @@
       "source": "stories/a-curse-before-breakfast/art/landscapes/05-the-house-under-night-sky.png",
       "sourceSha256": "7f4aaacf4e0263b9db119da99be22d4700b1691f22d7a5c31f80ab684b51786d",
       "reason": "The story takes place inside the siblings' home. The paintings invent exterior neighborhood, garden, school-route and skyline views; waiting for sunset occurs on the bedroom floor beside the window, and the next morning scene stays at the kitchen table."
-    },
-    {
-      "source": "stories/a-darkness-written-under-skin/art/landscapes/01-dye-house-at-gray-morning.png",
-      "sourceSha256": "2005c2c4e4dc65c2734b4eeddcf22f12d7714fd2be4306254b347fd2a018ad85",
-      "reason": "The story never leaves the locked dye workroom. This village exterior, lake and distant hills are invented rather than a depicted setting."
     },
     {
       "source": "stories/a-darkness-written-under-skin/art/landscapes/02-the-morning-coach-road.png",
