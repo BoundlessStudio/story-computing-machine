@@ -2,6 +2,70 @@
   "schemaVersion": 1,
   "stories": [
     {
+      "slug": "the-emerald-relic",
+      "title": "A Bargain with Anubis",
+      "reader": "stories/the-emerald-relic.html",
+      "images": [
+        {
+          "id": "01-taremets-bedchamber",
+          "title": "Taremets bedchamber",
+          "alt": "Taremets bedchamber — oil interior study for A Bargain with Anubis",
+          "source": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+          "sourceSha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+          "full": {
+            "path": "interiors/the-emerald-relic/01-taremets-bedchamber-6225d74c5c1f0ccf.webp",
+            "sha256": "2ecf47da843e36fa0bb1ad08d255e18c554e47879a4a4af10ba46ce8a216304b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-emerald-relic/01-taremets-bedchamber-6225d74c5c1f0ccf-thumb.webp",
+            "sha256": "2b1b7486acfdd93abfdcb26ef3d335b8d9769e8be0fdaefa20bd83395758b9f7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-relic-on-the-table",
+          "title": "The relic on the table",
+          "alt": "The relic on the table — oil interior study for A Bargain with Anubis",
+          "source": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
+          "sourceSha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
+          "full": {
+            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-ca7adc32f784ae6c.webp",
+            "sha256": "e06c0e8627f71d330136ec79736544e61755a1a04f6697574bb27dc9faabb306",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-ca7adc32f784ae6c-thumb.webp",
+            "sha256": "756ce994ad8ab20e8d6f2875af83773af070973206e421d96ea6f77bb43fee51",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-garden-door-and-screen",
+          "title": "The garden door and screen",
+          "alt": "The garden door and screen — oil interior study for A Bargain with Anubis",
+          "source": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
+          "sourceSha256": "9aa998108f17b00c2386b9f86b567230e6c3078eacd33ad24fe638bc0dfcba12",
+          "full": {
+            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-9aa998108f17b00c.webp",
+            "sha256": "a8e81c3821818b70a15c1945a92435055d294898e0ec0048333debaf9dee022c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-9aa998108f17b00c-thumb.webp",
+            "sha256": "4d16c35d2d6ee4afcbd6725d50f1b50959944b8388a9ce4b15a481073124d3ac",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-beginner-of-considerable-age",
       "title": "A Beginner of Considerable Age",
       "reader": "stories/a-beginner-of-considerable-age.html",
@@ -6139,6 +6203,70 @@
           "thumbnail": {
             "path": "interiors/the-lions-last-constellation/03-the-scored-pillar-ae3d6fc967eea735-thumb.webp",
             "sha256": "e2a2e375cb883b1741998dcc5af4976306c8d4268849125780a10d2f6711fa27",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-foundations-remember",
+      "title": "The Memory Under Line Zero",
+      "reader": "stories/the-foundations-remember.html",
+      "images": [
+        {
+          "id": "01-line-zero-booth-fourteen",
+          "title": "Line zero booth fourteen",
+          "alt": "Line zero booth fourteen — oil interior study for The Memory Under Line Zero",
+          "source": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+          "sourceSha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+          "full": {
+            "path": "interiors/the-foundations-remember/01-line-zero-booth-fourteen-b3fc2118905017f3.webp",
+            "sha256": "199cde425f7eeeb59e3c89d9079c65c944b521cfda28b95a8d5b0e9ac32f4ac0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-foundations-remember/01-line-zero-booth-fourteen-b3fc2118905017f3-thumb.webp",
+            "sha256": "8f5fed1b80cfa819287a1b8eed968caaa5f009e5623d94ff93be15e4398f1275",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-stair-beneath-the-pylons",
+          "title": "The stair beneath the pylons",
+          "alt": "The stair beneath the pylons — oil interior study for The Memory Under Line Zero",
+          "source": "stories/the-foundations-remember/art/interiors/02-the-stair-beneath-the-pylons.png",
+          "sourceSha256": "0571c89a9d59316c773a38eb837af3de6ce2d484068a1e6004be9df3f6a3d718",
+          "full": {
+            "path": "interiors/the-foundations-remember/02-the-stair-beneath-the-pylons-0571c89a9d59316c.webp",
+            "sha256": "20f057b7285b243f40cccba2e9603febbac937b42f8eab5c004e53d34d05a603",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-foundations-remember/02-the-stair-beneath-the-pylons-0571c89a9d59316c-thumb.webp",
+            "sha256": "85fed6774a20b9ecd22eac856eef3585707905f3b51ff73bf9c4e75bfab9b0ca",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-kitchen-morning",
+          "title": "The kitchen morning",
+          "alt": "The kitchen morning — oil interior study for The Memory Under Line Zero",
+          "source": "stories/the-foundations-remember/art/interiors/03-the-kitchen-morning.png",
+          "sourceSha256": "e409fc7cf0b97e351f40bb71482c1dfd437d0f8a15de95903e847d1b4500455f",
+          "full": {
+            "path": "interiors/the-foundations-remember/03-the-kitchen-morning-e409fc7cf0b97e35.webp",
+            "sha256": "df948084ecb7e142be53720da8b0de2756592ff5413f6a559f2529a0c25a4242",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-foundations-remember/03-the-kitchen-morning-e409fc7cf0b97e35-thumb.webp",
+            "sha256": "54a304d115350ecb4a4c96c3ac274b1b31ae5265f79b8cbb621bdaa64ccc8f80",
             "width": 480,
             "height": 320
           }
