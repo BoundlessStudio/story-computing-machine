@@ -3963,6 +3963,32 @@
           }
         },
         {
+          "id": "02-the-blue-basin",
+          "title": "The Occupied Basin",
+          "alt": "The Occupied Basin — corrected oil landscape for The Apes Above",
+          "source": "pages/landscape-replacements/apes-in-orbit/02-the-blue-basin.png",
+          "sourceSha256": "658eadb6615a3d5a044e8165d8e2b0a0320663f2a0faff2377e30e8f7e2b53ad",
+          "full": {
+            "path": "landscapes/apes-in-orbit/02-the-blue-basin-658eadb6615a3d5a.webp",
+            "sha256": "3f8a28f68ef4024d7cf148db3b26363ae4435be78161880e0df8a2bbb54ea13e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/apes-in-orbit/02-the-blue-basin-658eadb6615a3d5a-thumb.webp",
+            "sha256": "0920e892c948ce3ab8bb2456a05bce38671bc3b7ec40f36b92cbd74243c1efd3",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/apes-in-orbit/art/landscapes/02-the-blue-basin.png",
+            "originalSha256": "b3bb3055908f0c91e5287752fbfc202d01df4a11282ccb50d0a64d6af8f4bb7d",
+            "correction": "Mistakes the blue contour of an occupied basin on a council map for a blue lake; the basin contains nesting blocks, not open water.",
+            "prompt": "Correct the FIRST landscape for The Apes Above (apes-in-orbit). Its blue lake is wrong: 'blue basin' is an OLD BLUE CONTOUR ON A MAP, and the actual basin is DRY LAND OCCUPIED BY NESTING BLOCKS AND HATCHERIES. Keep the basin's broad surrounding pale rock ridges and impasto oil texture, but remove ALL lake water and fill the basin floor with many low sturdy stone nesting/hatchery blocks, connected broad ramps, work roads, warm-water pipes and service courtyards. Three terraced groups climb the north side. Use the SECOND reference's low stone-roof architecture and exposed warm-water system as the visual continuity anchor. A broad northward road ramp connects the inhabited basin to a notch in the ridge; the quarry is separate beyond the eastern ridge, not the settlement itself. Before dawn, cool blue predawn light with a faint paling horizon and a few tiny ordered orbital lights high overhead. Small warm door lights and steam from heating loops mark inhabited buildings, no crowd detail required. The built district must occupy and clearly replace the entire blue lake area, not just sit around a remaining lake. No giant pools, no rivers filling the bowl, no humans or visible dinosaur portraits, no labels or text. Wide panoramic traditional thick impasto oil painting.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "03-quarry-after-the-impact",
           "title": "Quarry after the impact",
           "alt": "Quarry after the impact — oil landscape for The Apes Above",
