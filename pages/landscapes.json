@@ -11128,6 +11128,32 @@
           }
         },
         {
+          "id": "03-the-fallen-tree-and-broken-span",
+          "title": "The fallen tree and broken span",
+          "alt": "The fallen tree and broken span — oil landscape for What the Town Owed Her",
+          "source": "pages/landscape-replacements/what-the-town-owed-her/03-the-fallen-tree-and-broken-span.png",
+          "sourceSha256": "87b13a791b743b166174cb6bc72fbbf830da3f3a9ce236ff2f250c3ad57db298",
+          "full": {
+            "path": "landscapes/what-the-town-owed-her/03-the-fallen-tree-and-broken-span-87b13a791b743b16.webp",
+            "sha256": "28ccbee364670ad2702b7ac38c30f6b7e545650f0d163e60c13e087dc91d0f34",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/what-the-town-owed-her/03-the-fallen-tree-and-broken-span-87b13a791b743b16-thumb.webp",
+            "sha256": "f1bd6bf59efd41f2967bf7334f1cf30921729e1eae52d2c099a1c9bfad85ecb8",
+            "width": 480,
+            "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-the-town-owed-her/art/landscapes/03-the-fallen-tree-and-broken-span.png",
+            "originalSha256": "ab4c3b5ff6b1bf0bc4ebdcb41d44242cda4cb5596a1f088e061b0fe8b6cb96f1",
+            "correction": "The tree strikes and bridge breaks during continuing heavy rain, with Leonie carrying a light. This blue-sky sunlit view contradicts the rescue's weather and lighting.",
+            "prompt": "Correct this landscape for What the Town Owed Her in the SAME Canadian Group of Seven inspired oil-painting style, 1536x1024. The old image has the wrong bright sunny weather, open country feeling and timber bridge debris.\n\nDepict the empty site immediately after the rescue, at NIGHT in heavy rain. A short, modest STONE FOOTBRIDGE across a flooded town drainage channel has collapsed: broken stone abutments remain at both banks, and masonry from its arch lies partly swallowed by churning brown water. A large uprooted tree from the far bank has struck the span broadside; its trunk and crown are caught across the collapsed stonework, its torn dark root plate by the far bank. NO wooden bridge beams: visible long wood belongs to the fallen TREE, with bark and irregular branches. Near bank has firm wet gravel and a rising yard beside a substantial multi-storey residential house above the channel; low town houses crowd the opposite bank farther down. This is a neighborhood drainage channel, not a broad rural canyon. No people on or under the broken span. A small storm lantern on near-bank gravel casts restrained warm light over the closest broken stone and brown foam. Night remains deep slate-blue and charcoal, with rain veiling distant dark roofs; no sunlit fields, blue daytime sky or sunset.\n\nKeep the original's forceful dark contours and broad angular stone forms. Paint large interlocking shapes and vigorous directional bristle-brush strokes, rhythmic brown/cream water masses and a few clear diagonal rain strokes. Simplify buildings, foliage and spray. Use restrained slate, ochre, umber, muted green and lantern amber. A genuine Canadian landscape oil study with painterly economy, not a photographic storm scene with a paint filter or tiny realistic droplets. No lettering, signature, border, montage or exaggerated fantasy glow.",
+            "generator": "image_gen"
+          }
+        },
+        {
           "id": "04-lower-houses-in-night-water",
           "title": "Lower houses in night water",
           "alt": "Lower houses in night water — oil landscape for What the Town Owed Her",
