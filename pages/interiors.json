@@ -10304,6 +10304,134 @@
           }
         }
       ]
+    },
+    {
+      "slug": "where-the-white-elk-went",
+      "title": "Where the White Elk Went",
+      "reader": "stories/where-the-white-elk-went.html",
+      "images": [
+        {
+          "id": "01-the-ruined-room-shelter",
+          "title": "The ruined room shelter",
+          "alt": "The ruined room shelter — oil interior study for Where the White Elk Went",
+          "source": "stories/where-the-white-elk-went/art/interiors/01-the-ruined-room-shelter.png",
+          "sourceSha256": "2f89541a5390e4dba41c1a473f803135d597c0e9de4ba43bdb99ee0965841d9b",
+          "full": {
+            "path": "interiors/where-the-white-elk-went/01-the-ruined-room-shelter-2f89541a5390e4db.webp",
+            "sha256": "fe21f41b3f76f90f678ed1ae625d8b6bf1b9eb3ce1212e7e406e2b697fad8623",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-the-white-elk-went/01-the-ruined-room-shelter-2f89541a5390e4db-thumb.webp",
+            "sha256": "6ca572f4e1771f5c5dada190dc94e07d240ac5f43041c68e03d23cba48600138",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-beneath-the-swallow-arch",
+          "title": "Beneath the swallow arch",
+          "alt": "Beneath the swallow arch — oil interior study for Where the White Elk Went",
+          "source": "stories/where-the-white-elk-went/art/interiors/02-beneath-the-swallow-arch.png",
+          "sourceSha256": "f3493757b9d767a19bfde8cbdfe4f179e8011a1bb719633afba3adde77ad6468",
+          "full": {
+            "path": "interiors/where-the-white-elk-went/02-beneath-the-swallow-arch-f3493757b9d767a1.webp",
+            "sha256": "f0e8cd6842a6f6340a4113cc037f4dc33ee22b4c012fb3c94ef763a01c796b8e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-the-white-elk-went/02-beneath-the-swallow-arch-f3493757b9d767a1-thumb.webp",
+            "sha256": "294af82bfe9ade0d5cfb39d11e70a78fe609145347733ab9d4825cb055aef825",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-across-the-sheltered-floor",
+          "title": "Across the sheltered floor",
+          "alt": "Across the sheltered floor — oil interior study for Where the White Elk Went",
+          "source": "stories/where-the-white-elk-went/art/interiors/03-across-the-sheltered-floor.png",
+          "sourceSha256": "1274d300482e6faf4367fdd63a7729050f987bdf6b0bc8d4201cb9678fa864b1",
+          "full": {
+            "path": "interiors/where-the-white-elk-went/03-across-the-sheltered-floor-1274d300482e6faf.webp",
+            "sha256": "201c3fe75a2add95ddb16ec2d918260694f284f3c8667760f18696c1a4878163",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/where-the-white-elk-went/03-across-the-sheltered-floor-1274d300482e6faf-thumb.webp",
+            "sha256": "6d937f8685559467f3f5a6f55c755cd3255932ca9cefbd33d797b39825b08853",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "witch-cold",
+      "title": "Witch Cold",
+      "reader": "stories/witch-cold.html",
+      "images": [
+        {
+          "id": "01-the-apartment-before-the-sneeze",
+          "title": "The apartment before the sneeze",
+          "alt": "The apartment before the sneeze — oil interior study for Witch Cold",
+          "source": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+          "sourceSha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d",
+          "full": {
+            "path": "interiors/witch-cold/01-the-apartment-before-the-sneeze-18c0a7dbfd98dba4.webp",
+            "sha256": "3f13ed54e6d758165db8ce20d29a840ba0c53a125bcf49bcc67a4a3ac4833ce9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/witch-cold/01-the-apartment-before-the-sneeze-18c0a7dbfd98dba4-thumb.webp",
+            "sha256": "1a21e79100dc70669baeaf0887f1f811fdb0f541a23d36a4a6d473269d7eda56",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "02-the-wet-stair-landing",
+          "title": "The wet stair landing",
+          "alt": "The wet stair landing — oil interior study for Witch Cold",
+          "source": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
+          "sourceSha256": "813bfa1002cdf4b1809f04b047d00b82b7358f3466b9271f4c75a27670b68d09",
+          "full": {
+            "path": "interiors/witch-cold/02-the-wet-stair-landing-813bfa1002cdf4b1.webp",
+            "sha256": "f0568adaf2775340a6071525f99cbe3eb6b9f4910d4a1fbc26a04cb9219cc011",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/witch-cold/02-the-wet-stair-landing-813bfa1002cdf4b1-thumb.webp",
+            "sha256": "c9b1a7c2fc0cd35e940710fd0acd6ab16a94bc1eb8a7ac5c530baf4d920ee961",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "03-the-washroom-with-two-clear-doors",
+          "title": "The washroom with two clear doors",
+          "alt": "The washroom with two clear doors — oil interior study for Witch Cold",
+          "source": "stories/witch-cold/art/interiors/03-the-washroom-with-two-clear-doors.png",
+          "sourceSha256": "5e90dd6246872dc5b8d69b4da6a7a0d4859d8945f08980dcba5fbfda31653c06",
+          "full": {
+            "path": "interiors/witch-cold/03-the-washroom-with-two-clear-doors-5e90dd6246872dc5.webp",
+            "sha256": "b1e812f3c6e11e4a85cc11da607c059a152a7fa049e6acf67f31fe1c14d1b6cc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/witch-cold/03-the-washroom-with-two-clear-doors-5e90dd6246872dc5-thumb.webp",
+            "sha256": "9ac24efa49e295e56b9155b350bc20ea49b4fe64eed477d8b3ce4b93d438f541",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
     }
   ]
 }
