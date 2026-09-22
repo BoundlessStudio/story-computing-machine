@@ -5979,25 +5979,6 @@
           }
         },
         {
-          "id": "03-the-abandoned-kiln-footing",
-          "title": "The abandoned kiln footing",
-          "alt": "The abandoned kiln footing — oil landscape for The Players Above",
-          "source": "stories/the-players-above/art/landscapes/03-the-abandoned-kiln-footing.png",
-          "sourceSha256": "83e71bccd9cc539e8f9e902ec419bf84020f7d9dd73785ec2d5074147c69b65b",
-          "full": {
-            "path": "landscapes/the-players-above/03-the-abandoned-kiln-footing.webp",
-            "sha256": "8ac98f6fa8738eba4aaadef34fdfe5b18e8762bcc0c3bdfa67b71eef8704d2f3",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-players-above/03-the-abandoned-kiln-footing-thumb.webp",
-            "sha256": "aa3852710123367d5044db71416bcb5aaffd3c49c764cbc24253cb6bf5fea36b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "04-the-open-service-spillway",
           "title": "The open service spillway",
           "alt": "The open service spillway — oil landscape for The Players Above",
@@ -14177,6 +14158,11 @@
       "source": "stories/the-place-we-keep/art/landscapes/05-field-behind-the-orchard.png",
       "sourceSha256": "9ca794a654db96015a5991047a0abb62d11bf3d37c5afa05c8470d6beff701e3",
       "reason": "The field dance is only a brief remembered sound heard through a window, not an orchard scene visited during the reunion."
+    },
+    {
+      "source": "stories/the-players-above/art/landscapes/03-the-abandoned-kiln-footing.png",
+      "sourceSha256": "83e71bccd9cc539e8f9e902ec419bf84020f7d9dd73785ec2d5074147c69b65b",
+      "reason": "Repeats the kiln footing that is more specifically represented with its opened service loop and spillway in image 04."
     },
     {
       "source": "stories/the-rule-between-courses/art/landscapes/01-rain-outside-the-restaurant.png",
