@@ -3528,25 +3528,6 @@
           }
         },
         {
-          "id": "02-rain-beyond-the-market-towers",
-          "title": "Rain beyond the market towers",
-          "alt": "Rain beyond the market towers — oil landscape for The Driver the City Could Not See",
-          "source": "stories/the-driver-the-city-could-not-see/art/landscapes/02-rain-beyond-the-market-towers.png",
-          "sourceSha256": "131a4febb48c9833ffa51f43afba355f58b32125ebb309a8a8b91f348da2e003",
-          "full": {
-            "path": "landscapes/the-driver-the-city-could-not-see/02-rain-beyond-the-market-towers.webp",
-            "sha256": "cbaf5fe558142ba8768b26b064f72408b4ed17b783718b04a6c3cf691d5ed113",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-driver-the-city-could-not-see/02-rain-beyond-the-market-towers-thumb.webp",
-            "sha256": "7706016891a1e337f99e7f74f405527cb9d3b8a452c4c3e4b03d646ebec639ed",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "03-the-floodwall-before-dawn",
           "title": "The floodwall before dawn",
           "alt": "The floodwall before dawn — oil landscape for The Driver the City Could Not See",
@@ -3580,25 +3561,6 @@
           "thumbnail": {
             "path": "landscapes/the-driver-the-city-could-not-see/04-the-river-without-the-choir-thumb.webp",
             "sha256": "d5022146b64120cc2965186b984528d63329cb43bc57f6e77b033d0d8834ee6a",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "05-four-roads-beyond-the-bank",
-          "title": "Four roads beyond the bank",
-          "alt": "Four roads beyond the bank — oil landscape for The Driver the City Could Not See",
-          "source": "stories/the-driver-the-city-could-not-see/art/landscapes/05-four-roads-beyond-the-bank.png",
-          "sourceSha256": "a28093c142b192f581bfa1edd655029e82a71255ed215ae6a94b401501937753",
-          "full": {
-            "path": "landscapes/the-driver-the-city-could-not-see/05-four-roads-beyond-the-bank.webp",
-            "sha256": "dfdb538a41113c44db30213575c2775a146abf0a1c41a3640a635fd9138a1695",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "landscapes/the-driver-the-city-could-not-see/05-four-roads-beyond-the-bank-thumb.webp",
-            "sha256": "e10a3c283aff7b003deff589653572a2432192baf7a32298527d9346e990fee8",
             "width": 480,
             "height": 320
           }
@@ -15827,6 +15789,16 @@
       "source": "stories/the-dress-they-brought-her/art/landscapes/05-grey-light-over-the-city.png",
       "sourceSha256": "3a5ef02e73a5db80e804e274440081f4fdb3149fc79f482934e27812376e9ed4",
       "reason": "Invents a grey-light city panorama after the character has returned to her cell; no exterior city view occurs."
+    },
+    {
+      "source": "stories/the-driver-the-city-could-not-see/art/landscapes/02-rain-beyond-the-market-towers.png",
+      "sourceSha256": "131a4febb48c9833ffa51f43afba355f58b32125ebb309a8a8b91f348da2e003",
+      "reason": "Replaces the autonomous multilane city of market towers and signal infrastructure with a traditional narrow lamplit village street; repeats the night-drive role inconsistently."
+    },
+    {
+      "source": "stories/the-driver-the-city-could-not-see/art/landscapes/05-four-roads-beyond-the-bank.png",
+      "sourceSha256": "a28093c142b192f581bfa1edd655029e82a71255ed215ae6a94b401501937753",
+      "reason": "Turns a projected route diagram into a literal daylight countryside scene before the cab has even left the ferry; the four onward roads remain choices."
     },
     {
       "source": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
