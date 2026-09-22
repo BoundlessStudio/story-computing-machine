@@ -2007,6 +2007,32 @@
       ]
     },
     {
+      "slug": "his-infernal-majesty-says-no",
+      "title": "His Infernal Majesty Says No",
+      "reader": "stories/his-infernal-majesty-says-no.html",
+      "images": [
+        {
+          "id": "05-night-staff-lights",
+          "title": "Night staff lights",
+          "alt": "Night staff lights — oil landscape for His Infernal Majesty Says No",
+          "source": "stories/his-infernal-majesty-says-no/art/landscapes/05-night-staff-lights.png",
+          "sourceSha256": "79d3fcf3480b08e3535e98d03ee226662bcc6bbe2fa60725c01e13f9f2004834",
+          "full": {
+            "path": "landscapes/his-infernal-majesty-says-no/05-night-staff-lights.webp",
+            "sha256": "5df879fa2fc58881cb6eede64278f553ebd6abdc49ab35d01e02095bad02d45e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/his-infernal-majesty-says-no/05-night-staff-lights-thumb.webp",
+            "sha256": "05c42a20d1ae8420b32ec0f49ccd32fc645a111137d196f0188517598eb42c28",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "late-for-dinner",
       "title": "Late for Dinner",
       "reader": "stories/late-for-dinner.html",
@@ -10714,11 +10740,6 @@
       "source": "stories/his-infernal-majesty-says-no/art/landscapes/04-one-ground-level-window.png",
       "sourceSha256": "7566c54e4117e3c485221468cbad8a5c95fecef04191d70d44d20ad630aff628",
       "reason": "Turns residence specifications discussed in paperwork into an observed garden scene."
-    },
-    {
-      "source": "stories/his-infernal-majesty-says-no/art/landscapes/05-night-staff-lights.png",
-      "sourceSha256": "79d3fcf3480b08e3535e98d03ee226662bcc6bbe2fa60725c01e13f9f2004834",
-      "reason": "Repeats the unvisited college grounds; night staffing is a residence provision, not a depicted night scene."
     },
     {
       "source": "stories/i-really-need-a-sidekick/art/landscapes/01-the-painted-forest-made-real.png",
