@@ -2771,19 +2771,26 @@
           "id": "02-the-black-stage",
           "title": "The black stage",
           "alt": "The black stage — oil interior study for No One Like Me",
-          "source": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
-          "sourceSha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07",
+          "source": "pages/interior-replacements/no-one-like-me/02-the-black-stage.png",
+          "sourceSha256": "24c1421e35193ced22d07656ac4d234577bd8649f8e47210057487713e4919d4",
           "full": {
-            "path": "interiors/no-one-like-me/02-the-black-stage-a47d681463a524aa.webp",
-            "sha256": "334bbfb90259a09049bed4342494e49b2cdd24cd10bfcafe83d6b632d28d807e",
+            "path": "interiors/no-one-like-me/02-the-black-stage-24c1421e35193ced.webp",
+            "sha256": "6be1c6e699ffdd117392eef450c1480b54ac8f2ab36fcadf926574dc89232afe",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/no-one-like-me/02-the-black-stage-a47d681463a524aa-thumb.webp",
-            "sha256": "40e98ed52e60adb2e501aa7a81fcf9e9161ec8e6b2aa772e4e633f13ec269652",
+            "path": "interiors/no-one-like-me/02-the-black-stage-24c1421e35193ced-thumb.webp",
+            "sha256": "b7c78bc2151f4fb615ffcd8a64833566a3713c77fb33223fc9d882928df09929",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
+            "originalSha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07",
+            "correction": "Extend the tiers far deeper and wider into large simplified seating masses, retaining three levels and the black stage.",
+            "prompt": "Use case: geometry-scale edit. Rework the supplied1536x1024 landscape oil painting so this is convincingly an ENORMOUS INDOOR BROADCAST ARENA seating40,000, seen from the empty black stage. Preserve the foreground's distinctive polished black reflective stage, tall gold spiral trophy at left, broadcast camera at left, two low wedge monitors and curtain edges. Preserve violet/gold lighting and expressive Group of Seven-inspired thick oil paint.\nThe required change is the entire audience volume: replace the small compact horseshoe theater with a huge wide and deep arena bowl, extending far back into violet atmospheric distance and far beyond both frame edges. Exactly THREE vast spectator levels, each bounded by its own continuous curved gold front rail; do not add more levels. Each of these three levels needs dozens and dozens of long steeply rising rows, split into many seating sectors by narrow radial aisles. Nearer seats remain individually suggested; thousands of distant seat marks merge into dense violet/ochre shaped paint masses. The far wall must feel hundreds of feet away, with extremely small far seats, so the stage equipment is clearly human-scale against a room for tens of thousands. Vast seating density and deep perspective are essential; no shallow balconies with just a handful of rows. The lower bowl stretches far behind the first rail, with deep middle and upper tiers rising behind it. The ceiling spans the immense volume, with broad suspended rings of small violet points, shrinking with distance. Preserve three rails/three levels clearly readable.\nAn empty venue study, with zero people. Keep strong large black/violet/gold color masses and confident visible impasto, avoiding photographic detail or3D rendering. No readable signs, text, logos, labels, signature or watermark. One coherent full-frame painting, no collage.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11970,6 +11977,11 @@
       "source": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
       "sourceSha256": "c60edb22accdcbb8c9fa6debaeefdf26949a77b277fef5e2d84a5e1dacbba6b2",
       "reason": "Keep the split sill and doorway composition; match the bin shape and low platform/stairs to the first two views."
+    },
+    {
+      "source": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
+      "sourceSha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07",
+      "reason": "Extend the tiers far deeper and wider into large simplified seating masses, retaining three levels and the black stage."
     }
   ]
 }
