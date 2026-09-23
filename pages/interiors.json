@@ -8718,19 +8718,26 @@
           "id": "02-under-the-kitchen-table",
           "title": "Under the kitchen table",
           "alt": "Under the kitchen table — oil interior study for The Small Moon Rose First",
-          "source": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
-          "sourceSha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+          "source": "pages/interior-replacements/the-small-moon-rose-first/02-under-the-kitchen-table.png",
+          "sourceSha256": "228f49d6715653c4f598d96e80c1e24636f0be6e1cd2515c3908b7d33a581507",
           "full": {
-            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-fdf0114d77319059.webp",
-            "sha256": "185f5cb6cfe0d0d26a660009235f441ceb1b814db069712c1c342867ab05b291",
+            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-228f49d6715653c4.webp",
+            "sha256": "d97c207bbe6945c48ff73874916883d223936536767571d1935a6501d4e5a38a",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-fdf0114d77319059-thumb.webp",
-            "sha256": "e7055827b366eb74925d60940552bd3d3fa3f83ba0f1ee5c6bb57b8db29272f2",
+            "path": "interiors/the-small-moon-rose-first/02-under-the-kitchen-table-228f49d6715653c4-thumb.webp",
+            "sha256": "7062b33a99c888c520a2e8902ab72f6ae11553509746d6317aff8188130bcb39",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+            "originalSha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+            "correction": "Replace only the intact coin with one rough broken copper crescent/half-token.",
+            "prompt": "Use case: tiny defining-prop state correction. Edit this attached empty kitchen painting with only one object change. Keep the exact 3:2 landscape composition, 1536x1024 preferred.\nOn the tabletop just to the right of the coiled leather belt, the small copper object is currently a complete circular coin. Replace that intact disk with ONE rough broken COPPER CRESCENT / HALF-TOKEN, in the same place and comparable scale. It is a substantial surviving chunk of a once-round gaming token: one worn curved outer rim, two uneven tips, and a clearly jagged concave fracture edge where the rest broke away. Its missing part shows the dark wooden tabletop through the open shape. Show a slightly irregular rough copper thickness and a few incomplete scratched marks on the surface. It must read as a broken half-token, not a whole coin, washer, ring, complete round disk, or decorative perfectly smooth moon pendant. No second half lies nearby.\nLeave everything else untouched: belt and buckle, closed laptop, white mug, lamp, heavy wooden table and chairs, pillow and folded blanket under the table, cabinets, sink/window, jars/bottle/utensils, rug and blue night. Retain the original warm amber and cool blue palette, thick expressive Group of Seven-inspired oil brushwork and visible texture. No people, added props, labels, new writing, text overlay, signature, watermark, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -12030,6 +12037,11 @@
       "source": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
       "sourceSha256": "ec854d303dd368de9e5a852788a65fd797a2ba935ea3dac365b4bf1e8cbe4f6b",
       "reason": "Keep the same table upright on its feet, broad horizontal top clear enough for documents, while placing its long side against the doors and retaining floor gouges."
+    },
+    {
+      "source": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+      "sourceSha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+      "reason": "Replace only the intact coin with one rough broken copper crescent/half-token."
     }
   ]
 }
