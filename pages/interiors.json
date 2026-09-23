@@ -9145,19 +9145,26 @@
           "id": "03-mirrorglass-private-archive",
           "title": "Mirrorglass private archive",
           "alt": "Mirrorglass private archive — oil interior study for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
-          "sourceSha256": "a06f14ca59e4c8a8ea8202a574c8bb09cf21ba7467de27685c82b6161ad793d8",
+          "source": "pages/interior-replacements/the-unfixed-face/03-mirrorglass-private-archive.png",
+          "sourceSha256": "ac037e315811da07f43aa7d1e333fcfb92d75e6cbcb423ff427d73200e868313",
           "full": {
-            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-a06f14ca59e4c8a8.webp",
-            "sha256": "9a670bf063bba3ea0f8e1c93573c99b493e22d5d7b2cde7e2f840e1a32d798bb",
+            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-ac037e315811da07.webp",
+            "sha256": "e772bc9e5feed3faf1729aa6f6cb0b67f74ccdb5b9d335582723d1486e1fb4fc",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-a06f14ca59e4c8a8-thumb.webp",
-            "sha256": "123c16b948f52c0ec53c5bcf9c9cb275c28a03ee95644e7e54dc215bedddb5fc",
+            "path": "interiors/the-unfixed-face/03-mirrorglass-private-archive-ac037e315811da07-thumb.webp",
+            "sha256": "ebb37190c21c2fd260b44d535c31fe09330ce0e1ac8afcd8c0e89f3b2ddba72f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
+            "originalSha256": "a06f14ca59e4c8a8ea8202a574c8bb09cf21ba7467de27685c82b6161ad793d8",
+            "correction": "Replace the lake and mountain view with reflective dusk glazing or an indistinct street view, preserving the archive composition.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 3:2 landscape oil painting.\nInput 1 is the Mirrorglass private-archive study to edit. Input 2 is the accepted corrected revision room, for consistent street-facing evening glazing.\nReplace only the lake, conifers and jagged mountains seen through input 1's left window with subdued reflective dusk glass and nearby ordinary street facades as in input 2. Use violet blocky building silhouettes, softly glowing orange window rectangles and a little dusk sky reflection. The clinic sits on a street, not a waterfront. No distant landscape, water, mountains, forest or new landmarks.\nPreserve the archive's full composition: glass-fronted teal cabinets and empty seedglass cells, private shelf/cells at right, large wooden table, shallow reader and round metal device, stool, folded towels/bench, washbasin, lamp and warm sunset lighting. Keep each existing interior object and location unchanged. Maintain bold visible Group of Seven-inspired oil strokes and orange/violet masses. Empty room; no text, readable signage, people, signatures or watermark.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11514,6 +11521,11 @@
       "source": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
       "sourceSha256": "3311790135491e9608f65e387352f4d9a447c9556dbbfc06cfbd79d46cef49fc",
       "reason": "Move the narrow uneven aperture beneath the raised shutter and show its chain holding that lifted position."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
+      "sourceSha256": "a06f14ca59e4c8a8ea8202a574c8bb09cf21ba7467de27685c82b6161ad793d8",
+      "reason": "Replace the lake and mountain view with reflective dusk glazing or an indistinct street view, preserving the archive composition."
     }
   ]
 }
