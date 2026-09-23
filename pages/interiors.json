@@ -6856,19 +6856,26 @@
           "id": "03-kiosk-shielded-test-lane",
           "title": "Kiosk shielded test lane",
           "alt": "Kiosk shielded test lane — oil interior study for The Mercy Circuit",
-          "source": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
-          "sourceSha256": "60f8c4d158bfa70e4533dba021a903894ed82cfd092cfa817b11062a723e9209",
+          "source": "pages/interior-replacements/the-mercy-circuit/03-kiosk-shielded-test-lane.png",
+          "sourceSha256": "f1dcffc900c8827e8177270112becbbd2d84eace53adf01a4ec796bb4b4ada11",
           "full": {
-            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-60f8c4d158bfa70e.webp",
-            "sha256": "b60f13ccff8d91c60864f0b7f36c85c34c9a3e929617c9e17a5dba6cb1e405e3",
+            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-f1dcffc900c8827e.webp",
+            "sha256": "a312e1c1ac09637a36bae75f0a3c04d933aeaa9037f12db12712cd179b1c1306",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-60f8c4d158bfa70e-thumb.webp",
-            "sha256": "3452e286ab6c77c4c35700c95cab6c142f377988dc2c3e7becd5666d145a9af6",
+            "path": "interiors/the-mercy-circuit/03-kiosk-shielded-test-lane-f1dcffc900c8827e-thumb.webp",
+            "sha256": "9e5463dd6c3bb2fd83f3489753c9318a5c63446bcc126dd4218e22ce44b50cdc",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
+            "originalSha256": "60f8c4d158bfa70e4533dba021a903894ed82cfd092cfa817b11062a723e9209",
+            "correction": "Show a white floor boundary joining the two folding beacons across the aisle while retaining the ceramic test lane.",
+            "prompt": "Use case: safety-boundary layout edit. Edit this empty kiosk test-lane painting. Preserve 3:2 landscape framing, preferably1536x1024, blue-green shield screens, copper-orange tiled floor and thick expressive Group of Seven-inspired oil brushwork.\nCorrect the two folding beacons and their boundary. Remove both existing pink/red lines that run lengthwise from the beacons to the rear side supports. Move the SAME TWO small amber folding-tripod beacons a little toward the viewer, one to the left foreground edge of the aisle and one to the right foreground edge, so both stand entirely IN FRONT OF the ceramic tray's nearest nose. Their positions straddle the full aisle across its width. Join the two beacons' feet with a clearly visible narrow WHITE luminous boundary stripe running directly ACROSS the tiled floor in the foreground, left beacon to right beacon. The white stripe is projected ON the floor surface, with white spill on the tile/track surfaces it crosses, not suspended at lamp height. It passes wholly in front of the ceramic tray, so its across-aisle connection remains visible and is not interrupted by the raised tray. These two beacons form one connected cross-aisle cordon, not separate lengthwise firing guides.\nKeep all other elements: long ceramic catch/cutting tray on its dark floor tracks, metal brace in cutting cradle, surrounding shield screens, closed heavy rear curtain and frame, left workshop alcove with bench/lamp/stools. Do not add extra beacons or a gun. Remain empty of people. Preserve the confident brush marks, rough oil texture, lighting and room proportions. No readable writing, labels, text overlay, watermark, signature, photography or 3D.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11562,6 +11569,11 @@
       "source": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
       "sourceSha256": "b6531c2f04b52d1ac8cdf897bf0c4268da613689e35e1e617549476683b4e113",
       "reason": "Use the established cabin's wheel and dashboard geometry in this ferry angle, preserving the loose fuse, route paper and dawn state."
+    },
+    {
+      "source": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
+      "sourceSha256": "60f8c4d158bfa70e4533dba021a903894ed82cfd092cfa817b11062a723e9209",
+      "reason": "Show a white floor boundary joining the two folding beacons across the aisle while retaining the ceramic test lane."
     }
   ]
 }
