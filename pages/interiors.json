@@ -9230,19 +9230,26 @@
           "id": "02-the-shoebox-in-the-bedroom",
           "title": "The shoebox in the bedroom",
           "alt": "The shoebox in the bedroom — oil interior study for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
-          "sourceSha256": "826fcb72b64f9bbccbb52420540ea77020a524000674375ffca6d60af3d6436a",
+          "source": "pages/interior-replacements/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom.png",
+          "sourceSha256": "8eb52ab5fb8fedfc8463514bba99fd3d62256cf317c4247a8a8c8c9f2dc48979",
           "full": {
-            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-826fcb72b64f9bbc.webp",
-            "sha256": "b8749594542ff2c6ec9b7e813c677add3c290296d8883711dead7af4d909cf4e",
+            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-8eb52ab5fb8fedfc.webp",
+            "sha256": "f2672727636585a0e0d75d72bcb9a2bbca185ccbdc1b1bf351a06842e53af5c0",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-826fcb72b64f9bbc-thumb.webp",
-            "sha256": "8f2ae759274dca7da4b6027160925d45592e57355c8c19385b550a24296ba843",
+            "path": "interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom-8eb52ab5fb8fedfc-thumb.webp",
+            "sha256": "0188818e6f5c52e8ed05f7f94c883fe507b70c2d29b25c76f03de984fbaf05ad",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
+            "originalSha256": "826fcb72b64f9bbccbb52420540ea77020a524000674375ffca6d60af3d6436a",
+            "correction": "Add one sixth key to the row; retain the rest of the bedroom and box arrangement.",
+            "prompt": "Use case: precise small prop-count edit. Keep the entire supplied expressive oil bedroom painting and its composition, but correct the open shoebox contents in the foreground.\nThere must be EXACTLY SIX OLD LOOSE KEYS TOTAL inside the shoebox. The original has five. Add one matching old brass/iron key and arrange all SIX in the existing key area to the LEFT of the deck of cards, a slight orderly fan or close row with SIX separate fully visible bow heads and SIX individual shafts/bit ends. They must remain clearly countable, without stacked or hidden keys, fused shafts, duplicates elsewhere or key rings. Preserve their believable old household-key proportions and oil-painted material.\nPreserve exactly TWO cuff links, the single old softened deck of cards, one scratched COPPER pocket watch with its large stem and no magical glow, and the small yellow pencil stub near the front. Make that pencil a worn short stub about one inch long, shorter than an individual key; keep it near its current place. Nothing else is added to the box.\nKeep the original open box and lid, worn bedside table, unmade bed, warm table lamp, closed curtains, open wardrobe, folded laundry on the chair, empty room, warm ochre/slate/lavender color masses and bold thick oil brushwork. No people, headings, writing overlays, labels, watermark, border, photorealism or 3D rendering. One 3:2 landscape, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11922,6 +11929,11 @@
       "source": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
       "sourceSha256": "b92eca5324e052ce2ebd65e14f3ddd246885c4b31c7d9314e0727a04c6f70511",
       "reason": "Replace the populated key racks with exactly two empty clips; retain the dormant consoles and separated stations."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
+      "sourceSha256": "826fcb72b64f9bbccbb52420540ea77020a524000674375ffca6d60af3d6436a",
+      "reason": "Add one sixth key to the row; retain the rest of the bedroom and box arrangement."
     }
   ]
 }
