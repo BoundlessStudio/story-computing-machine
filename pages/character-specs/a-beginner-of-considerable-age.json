@@ -345,7 +345,7 @@
       },
       "validation": {
         "status": "PASS",
-        "reviewedAt": "2026-09-23T20:01:36.632678+00:00",
+        "reviewedAt": "2026-09-23T16:01:36.632678-04:00",
         "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
         "outputSha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
         "references": [
@@ -490,7 +490,7 @@
           {
             "attempt": 1,
             "status": "PASS",
-            "startedAt": "2026-09-23T20:51:10.777936+00:00",
+            "startedAt": "2026-09-23T16:51:10.777936-04:00",
             "tool": "image_gen",
             "mode": "built-in-fresh-generation",
             "backendModel": null,
@@ -519,7 +519,7 @@
             "selected": true,
             "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-6d844a62-02a7-4c53-a716-54e0bc1bdf34.png",
             "outputSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
-            "finishedAt": "2026-09-23T20:58:11.235880+00:00",
+            "finishedAt": "2026-09-23T16:58:11.23588-04:00",
             "dimensions": "1536x1024",
             "generatorReview": [
               "Actual full image inspected: exact Melicent name and story title, same narrow adult face, dark low bun, skin and clothing identity as original named reference, coherent across three full views and two portraits.",
@@ -557,7 +557,7 @@
       },
       "validation": {
         "status": "PASS",
-        "reviewedAt": "2026-09-23T20:58:11.235880+00:00",
+        "reviewedAt": "2026-09-23T16:58:11.23588-04:00",
         "reviewedBy": "coordinator actual-pixel review",
         "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
         "outputSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
@@ -625,7 +625,7 @@
         "markings": "Striped fur; exact arrangement unspecified.",
         "materials": "Coarse fur, thick yellow tusks, dark nose and claws.",
         "clothing": "None.",
-        "equipment": "None; silver cup and torn picnic hamper may sit in vignette, not worn.",
+        "equipment": "None. No cup, hamper or other props on the character-only sheet.",
         "scale": "Larger than hound-sized dragon; tusks as thick as adult woman's thumbs.",
         "movement": "Charges quadrupedally, paws and scratches table, lowers head; sleeps under table.",
         "distinctiveFeatures": "Whiskers with crumbs; three whiskers singed during encounter; broad snarling jaws."
@@ -633,10 +633,6 @@
       "explicitCanon": [
         "Boar-sized tusked badger with striped fur, yellow thumb-thick tusks, whiskers and paws.",
         "Survives unharmed except three singed whiskers; released from kennel after escape."
-      ],
-      "visualInterpretation": [
-        "Use grey-black coarse body fur and familiar pale/dark facial striping as restrained badger interpretation; no invented armour, magical glow or human expression row.",
-        "Sheet: lateral low silhouette, frontal tusks and three-quarter defensive stance; muzzle/tusk and paw studies, sleeping picnic vignette."
       ],
       "states": [
         {
@@ -663,21 +659,142 @@
         }
       ],
       "output": "stories/a-beginner-of-considerable-age/art/characters/grindle.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Precise anatomical correction to the provided Grindle reference folio. The enlarged isolated Forepaw inset along the bottom ALREADY has exactly five claws: preserve it unchanged.\n\nCorrect the exposed paws of the THREE LARGE FULL-BODY VIEWS across the top and the small Defensive body view at lower right. The front-facing animal currently has six claw silhouettes on its image-left foot. Repaint that paw to EXACTLY FIVE distinct toes/claws. Likewise inspect and simplify every other clearly visible full-body paw so each paw has at most FIVE claws, or fewer where naturally occluded. The nearer lateral front foot must read five, not six. Paw digits form a single row with one slightly offset lateral digit and four other digits. Remove all extra pointed nail-like marks; surrounding fur strokes end bluntly. Preserve stout badger paws and matte charcoal claws with broad restrained painted planes. Do not add separated floating nails or extra feet.\n\nAll other content locked unchanged: enlarged Forepaw study, paired yellow rising tusks, boar-sized striped badger bodies, four legs, silhouettes, fur, eyes, resting study, defensive posture, exact name Grindle and story title A Beginner of Considerable Age, labels/layout/ivory background and oil treatment. NO new anatomy, props, text, scenery, floor patches or swatches. This is a paw-count correction only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:08:03.087018Z",
+            "status": "REVISE",
+            "prompt": "Create one isolated CHARACTER reference folio, 1536x1024 landscape, quiet warm ivory ground. Exact upper-left name “Grindle”; exact story subtitle “A Beginner of Considerable Age”.\n\nGrindle is the newly assigned art name for the story's enormous tusked BADGER: an animal antagonist, never human, never a boar hybrid. Mature low broad powerful badger body AS BIG AS A BOAR, four short sturdy legs, paws with burrowing claws, short rounded ears, broad elongated badger muzzle, small dark eyes, short badger tail. Coarse grey-black fur with pale/dark facial striping. Exactly TWO thick yellow tusks rise on either side of the muzzle, each as thick as a grown woman's thumb. Keep both tusks identical in size and placement across all views; no extra horns, tusks, teeth rows, wings or decorations. Whiskers may carry a few crumbs; three whiskers were singed during the story, show only a modest tiny singed-tip study, not a burn wound.\n\nUseful unclipped isolated views: large lateral/three-quarter full body low and alert; frontal full body showing paired tusks and broad paws; rear three-quarter with short tail. Smaller studies below: mouth/muzzle and paired yellow tusks, broad clawed forepaw, compact sleeping curled posture, low head defensive posture. Short labels only: “Boar-sized”, “Lateral”, “Front”, “Rear”, “Tusks”, “Forepaw”, “Resting”, “Defensive”. No decorative prose or human facial expression row. No clothes, armour, harness, weapon or equipment.\n\nInput1 Orsugal sheet and input2 Melicent sheet establish actual collection oil handling and ivory presentation ONLY; do NOT transfer reptile/human anatomy, clothing, colours or equipment. Input3 lodge painting guides CHARACTER LIGHT ONLY: warm afternoon light entering a shaded hall; subdued warm-grey light on fur ridges, connected deep charcoal/violet shadow beneath belly and far flank. Do not flatten every dark fur plane into uniform daylight or cinematic rim light. Do not depict that interior.\n\nCanadian Group of Seven-inspired substantial OIL: large connected rhythmic colour/value masses, bold loaded bristle strokes following fur growth, selective raised impasto, quieter connecting passages. Fur is coarse directional paint, not individual photo hairs; yellow tusks use dragged blunt strokes, nose and eyes opaque painted dark masses without glossy dots. Build expressive muzzle as painted masses, as strongly simplified as whole body. No smooth CGI, anime, glossy facial render, universal tiny bevel-lit chips, uniform texture overlay or ornamental gold light.\n\nAbsolutely NO location, scene, vignette, terrain/ground patch, grass, stone, trees, table, background shadow floor, props, other characters, paint swatches, colour chips or palette strip. All isolated studies float on quiet ivory with useful spacing and no cropped paws/tusks/tail.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Approved collection painted masses/isolated folio only; no dragon anatomy transferred",
+                "inspected": true,
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved collection substantial oil/bristle treatment and heading presentation only; no human/clothing transfer",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+                "role": "Story-specific warm afternoon side light and shaded charcoal/violet masses only; no location depiction",
+                "inspected": true,
+                "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-1a20f2c4-7ba6-4fb7-abf8-f73238350ecb.png",
+            "returnedSha256": "fc840c3e670761aa339a945cba1559f6892816aabcaf926090a7d71b76c30c27",
+            "completedAt": "2026-09-23T17:14:37.080155-04:00",
+            "review": [
+              "Actual saved pixels inspected at full size: named boar-sized badger, four low quadrupedal legs, broad paws, striped fur, small rounded ears, short tail and two yellow muzzle tusks; no humanoid or boar-hybrid anatomy.",
+              "Same head striping, tusk curves, fur tone and body proportions across lateral/front/rear and resting/defensive studies; five clawed digits visible in paw studies.",
+              "Substantial directional opaque oil fur and raised brushmarks describe form; warm lodge-side light with connected shaded underside, painted muzzle and tusks; no smooth CGI face.",
+              "Exact Grindle art name and A Beginner of Considerable Age title, readable concise labels, uncropped useful views. No environment, props, scenery or swatches. Name is user-authorized art metadata, source prose unchanged.",
+              "Root review: enlarged Forepaw dark pointed strokes can read as more than five claws. Clarify enlarged detail only before commit; overall body/tusks/layout pass."
+            ],
+            "previouslySelected": true
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:31:19.5246267Z",
+            "status": "REVISE",
+            "prompt": "Make ONE narrowly localized anatomical clarification to the supplied Grindle badger reference sheet: repaint ONLY the enlarged isolated “Forepaw” detail in the lower row, between the tusk portrait and resting badger.\n\nThat single paw MUST have exactly FIVE toes ending in exactly FIVE distinct claws. Arrange one slightly set-back lateral digit and four forward digits, all visibly connected to the same broad furry badger paw, with clear separation so the viewer can count 1–2–3–4–5. Remove any extra pointed dark paint shapes which could read as additional nails. Fur strokes around this detail must end bluntly and never look like extra claws. Keep claws matte, painted in broad charcoal and grey strokes with no glossy CGI stripes. Keep the same badger proportions, fur colouring and substantial directional oil impasto.\n\nDo not change anything else: keep ALL three full-body views, head/tusks, resting and defensive studies, exact name “Grindle”, exact title “A Beginner of Considerable Age”, every existing concise label, ivory ground and layout. Do not alter the full-body paws. No new art, text, environment, scenery, floor/terrain, palette or swatches. This is a five-claw clarification of the one enlarged Forepaw study only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-1a20f2c4-7ba6-4fb7-abf8-f73238350ecb.png",
+                "role": "Immutable complete sheet edit target: clarify enlarged Forepaw as exactly five toes/claws only",
+                "inspected": true,
+                "sha256": "fc840c3e670761aa339a945cba1559f6892816aabcaf926090a7d71b76c30c27"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-608d90b6-5aa7-4f5a-ad1b-4d287373dd2e.png",
+            "returnedSha256": "a278da81c615fa3800e074300e57c5d2fa7e4f7a6f0d8b6dbe7e592cbd55bcfa",
+            "completedAt": "2026-09-23T17:36:15.229757-04:00",
+            "review": [
+              "Inspected generated actual pixels at 1536x1024: enlarged Forepaw now shows exactly five separate claws, one lateral and four forward, with blunt furry edges.",
+              "Source tusked badger identity, boar-scale quadruped, striped fur and paired yellow rising tusks preserved across body views; exact name and title readable.",
+              "Character-only isolated views and details, no environment, ground patches or swatches. Directional substantial oil paint and coherent restrained lighting retained."
+            ],
+            "independentReview": "Root confirmed enlarged forepaw correct but main Front view image-left has six distinct claws. Correct exposed full-body paws.",
+            "previouslySelected": true
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:43:17.0542508Z",
+            "status": "PASS",
+            "prompt": "Precise anatomical correction to the provided Grindle reference folio. The enlarged isolated Forepaw inset along the bottom ALREADY has exactly five claws: preserve it unchanged.\n\nCorrect the exposed paws of the THREE LARGE FULL-BODY VIEWS across the top and the small Defensive body view at lower right. The front-facing animal currently has six claw silhouettes on its image-left foot. Repaint that paw to EXACTLY FIVE distinct toes/claws. Likewise inspect and simplify every other clearly visible full-body paw so each paw has at most FIVE claws, or fewer where naturally occluded. The nearer lateral front foot must read five, not six. Paw digits form a single row with one slightly offset lateral digit and four other digits. Remove all extra pointed nail-like marks; surrounding fur strokes end bluntly. Preserve stout badger paws and matte charcoal claws with broad restrained painted planes. Do not add separated floating nails or extra feet.\n\nAll other content locked unchanged: enlarged Forepaw study, paired yellow rising tusks, boar-sized striped badger bodies, four legs, silhouettes, fur, eyes, resting study, defensive posture, exact name Grindle and story title A Beginner of Considerable Age, labels/layout/ivory background and oil treatment. NO new anatomy, props, text, scenery, floor patches or swatches. This is a paw-count correction only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-608d90b6-5aa7-4f5a-ad1b-4d287373dd2e.png",
+                "role": "immutable edit target; main-view claw count only; enlarged forepaw stays",
+                "inspected": true,
+                "sha256": "a278da81c615fa3800e074300e57c5d2fa7e4f7a6f0d8b6dbe7e592cbd55bcfa"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-5200214f-7f57-450e-bf64-2d4241bf910f.png",
+            "returnedSha256": "cf89eaa9e2745b0dc10f5b021590603e0ca2c8d925d55f9792308663c6bcb234",
+            "completedAt": "2026-09-23T21:44:39.030390+00:00",
+            "review": [
+              "Inspected actual pixels after full-body correction: enlarged forepaw has five separate claw silhouettes; main Front paws simplified to four prominent nails plus recessed/occluded lateral digit, without extra nail tips.",
+              "Near Lateral forepaw has five exposed claws; far forepaw and hind feet fewer due view overlap. Rear view hides most claws. Defensive feet four clearly exposed tips, side digits obscured; no exposed paw exceeds five.",
+              "Paired tusks, striped boar-scale badger, four legs, body views, title/name, oil handling, no environment and no swatches preserved."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-608d90b6-5aa7-4f5a-ad1b-4d287373dd2e.png",
+            "role": "immutable edit target; main-view claw count only; enlarged forepaw stays",
+            "inspected": true,
+            "sha256": "a278da81c615fa3800e074300e57c5d2fa7e4f7a6f0d8b6dbe7e592cbd55bcfa"
+          }
+        ]
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:44:39.032323+00:00",
+        "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
+        "outputSha256": "cf89eaa9e2745b0dc10f5b021590603e0ca2c8d925d55f9792308663c6bcb234",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-608d90b6-5aa7-4f5a-ad1b-4d287373dd2e.png",
+            "role": "immutable edit target; main-view claw count only; enlarged forepaw stays",
+            "inspected": true,
+            "sha256": "a278da81c615fa3800e074300e57c5d2fa7e4f7a6f0d8b6dbe7e592cbd55bcfa"
+          }
+        ],
+        "evidence": [
+          "Inspected actual pixels after full-body correction: enlarged forepaw has five separate claw silhouettes; main Front paws simplified to four prominent nails plus recessed/occluded lateral digit, without extra nail tips.",
+          "Near Lateral forepaw has five exposed claws; far forepaw and hind feet fewer due view overlap. Rear view hides most claws. Defensive feet four clearly exposed tips, side digits obscured; no exposed paw exceeds five.",
+          "Paired tusks, striped boar-scale badger, four legs, body views, title/name, oil handling, no environment and no swatches preserved."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "33f9e3455d57e220b9f195fbfc32c7f9cf3b99c77bb7ff4e480098756c091f00"
       },
       "sourceIdentityId": "tusked-badger",
       "nameAssignment": {
         "name": "Grindle",
         "kind": "new-art-reference-name",
         "authorizedBy": "always give the characters names if there are missing them.",
-        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "recordedAt": "2026-09-23T16:51:09.742239-04:00",
         "sourceRole": "Tusked badger",
         "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
         "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
@@ -687,7 +804,25 @@
         "displayName": "Grindle",
         "sourceIdentity": "tusked-badger",
         "authorization": "Latest explicit user instruction to give missing-name characters names."
-      }
+      },
+      "visualInterpretation": [
+        "Grey-black coarse fur with pale/dark facial bands; short-legged broad badger shape, small rounded ears and short tail are restrained species-compatible interpretations.",
+        "Character-only lateral/front/rear and tusk/paw/resting/defensive studies; no location, props or swatches."
+      ],
+      "lighting": {
+        "moment": "Afternoon lodge encounter",
+        "supportedBy": "story.md lines149,171,217; inspected lodge painting",
+        "sources": "Sunlight entering the hall, shaded body away from openings",
+        "treatment": "Subdued warm-grey fur planes and connected charcoal/violet shadows; no universal flat daylight or rim spectacle"
+      },
+      "presentationPreferences": {
+        "userVerbatim": [
+          "characters references that don;t place locations. and just focus on character.",
+          "remove the pain swap they arent needed."
+        ],
+        "interpreted": "Character-only, no scenery, terrain or swatches."
+      },
+      "outputSha256": "cf89eaa9e2745b0dc10f5b021590603e0ca2c8d925d55f9792308663c6bcb234"
     }
   ]
 }
