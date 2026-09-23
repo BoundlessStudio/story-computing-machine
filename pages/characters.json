@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "slug": "a-beginner-of-considerable-age",
+      "title": "A Beginner of Considerable Age",
+      "reader": "stories/a-beginner-of-considerable-age.html",
+      "images": [
+        {
+          "id": "melicent",
+          "title": "Melicent",
+          "alt": "Sculpted Impasto character reference sheet of Melicent for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "sourceSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+          "full": {
+            "path": "characters/a-beginner-of-considerable-age/melicent-8d4c6d71b00d50f2.webp",
+            "sha256": "56083adc07cd4a67ea1e26fe35fca29c9e30ba259f94fb12539f2bc09633106d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-beginner-of-considerable-age/melicent-8d4c6d71b00d50f2-thumb.webp",
+            "sha256": "0511aff645ed12cddb22d6aa8e3ed504e18497a2c19d64f6d3394d31de22538e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "orsugal",
+          "title": "Orsugal",
+          "alt": "Sculpted Impasto character reference sheet of Orsugal for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "sourceSha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+          "full": {
+            "path": "characters/a-beginner-of-considerable-age/orsugal-9a9afe6a4816241d.webp",
+            "sha256": "f963e38550294927b4a52aafa0886c4b62fab048a2a7b978ed2318b2594d49c0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-beginner-of-considerable-age/orsugal-9a9afe6a4816241d-thumb.webp",
+            "sha256": "3dca35ec89f1ea59aec82115b89bd7cb6830b5c016dedbe7af71f957a80f26ee",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-busy-year-for-dying",
+      "title": "A Busy Year for Dying",
+      "reader": "stories/a-busy-year-for-dying.html",
+      "images": [
+        {
+          "id": "kelro",
+          "title": "Kelro",
+          "alt": "Sculpted Impasto character reference sheet of Kelro for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sourceSha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "full": {
+            "path": "characters/a-busy-year-for-dying/kelro-e69a240f90b20da5.webp",
+            "sha256": "9ed2c88acfbe45191d4b14ce58ed36931d04d7f2960a248463065370cd2f3eb0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-busy-year-for-dying/kelro-e69a240f90b20da5-thumb.webp",
+            "sha256": "7bac51517abf017d5c59a07937030e0d5095e6e6733b1efa61c6bf2a809ec480",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-curse-before-breakfast",
+      "title": "A Curse Before Breakfast",
+      "reader": "stories/a-curse-before-breakfast.html",
+      "images": [
+        {
+          "id": "coris",
+          "title": "Coris",
+          "alt": "Sculpted Impasto character reference sheet of Coris for A Curse Before Breakfast",
+          "source": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "sourceSha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "full": {
+            "path": "characters/a-curse-before-breakfast/coris-89e7037b30ea7388.webp",
+            "sha256": "4e74b20ffd2c9e3b5f1cec5142e44abcb92006fff668671ad7f1038621a68025",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-curse-before-breakfast/coris-89e7037b30ea7388-thumb.webp",
+            "sha256": "fda44aa3492e8ba347addb1e73ea92741bba68906080316f4f50e57203199677",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-darkness-written-under-skin",
+      "title": "A Darkness Written Under Skin",
+      "reader": "stories/a-darkness-written-under-skin.html",
+      "images": [
+        {
+          "id": "caldra",
+          "title": "Caldra",
+          "alt": "Sculpted Impasto character reference sheet of Caldra for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/characters/caldra.png",
+          "sourceSha256": "6c4e5970046963dce4dfe328532843c04d6e532b02e746c8ba0833f5a9099abb",
+          "full": {
+            "path": "characters/a-darkness-written-under-skin/caldra-6c4e5970046963dc.webp",
+            "sha256": "1fe1f18de3d9f7e7739f84af0c92f0fd7f8c12b1c2eb5d7d372aed14906daf63",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-darkness-written-under-skin/caldra-6c4e5970046963dc-thumb.webp",
+            "sha256": "8732639ed1aae895fe74abffc0394309a144eefea87b57b073698706cc27d30b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ilyse-sloane",
+          "title": "Ilyse Sloane",
+          "alt": "Sculpted Impasto character reference sheet of Ilyse Sloane for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/characters/ilyse-sloane.png",
+          "sourceSha256": "940407cc3c8de0c597220253ddd27ef5eb9bc0b8256f9a45210450611fe6bf76",
+          "full": {
+            "path": "characters/a-darkness-written-under-skin/ilyse-sloane-940407cc3c8de0c5.webp",
+            "sha256": "f506b0fbdbe3ee71acf71d8161520d7635639b6d69baed8fb6e89b4450b089cf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-darkness-written-under-skin/ilyse-sloane-940407cc3c8de0c5-thumb.webp",
+            "sha256": "4bfe5cff33d3f509aea8cdb66cbe41eed14689e064ab0bfdd0c42c1cac9fd02f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "leora-sloane",
+          "title": "Leora Sloane",
+          "alt": "Sculpted Impasto character reference sheet of Leora Sloane for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "sourceSha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+          "full": {
+            "path": "characters/a-darkness-written-under-skin/leora-sloane-f8cacf12cf62bbf3.webp",
+            "sha256": "bf74c46306b879d69d37fffc9edf885b545f036ba84a33e641eed3625b55de5f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-darkness-written-under-skin/leora-sloane-f8cacf12cf62bbf3-thumb.webp",
+            "sha256": "8d93bbf41e365a5481d2a10bfab27df59507ddfb50952ff85bb5242c29a16e55",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "friends-of-the-night",
+      "title": "Friends of the Night",
+      "reader": "stories/friends-of-the-night.html",
+      "images": [
+        {
+          "id": "crooktail",
+          "title": "Crooktail",
+          "alt": "Sculpted Impasto character reference sheet of Crooktail for Friends of the Night",
+          "source": "stories/friends-of-the-night/art/characters/crooktail.png",
+          "sourceSha256": "71c950facd5089440b3b55494c61af7989b587914fab140c67a051933ae67b3e",
+          "full": {
+            "path": "characters/friends-of-the-night/crooktail-71c950facd508944.webp",
+            "sha256": "7bcbcd28807aca18994294fc083e9c16ae25d5e5ff40460dae7b3b8dde930e17",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/friends-of-the-night/crooktail-71c950facd508944-thumb.webp",
+            "sha256": "a0f7bdbdbd2682a1f162ae22a1f9930d716766d5f01385b6ba32ce1b30480759",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "save-that-dragon",
+      "title": "One Night's Mercy",
+      "reader": "stories/save-that-dragon.html",
+      "images": [
+        {
+          "id": "daziel",
+          "title": "Princess Daziel",
+          "alt": "Sculpted Impasto character reference sheet of Princess Daziel for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/characters/daziel.png",
+          "sourceSha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05",
+          "full": {
+            "path": "characters/save-that-dragon/daziel-be84d86aa52181de.webp",
+            "sha256": "351fbd10ffdba9fd59c9740c2142f4dcdd85bc576e2fbeb481e30b8dc37d84f0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/save-that-dragon/daziel-be84d86aa52181de-thumb.webp",
+            "sha256": "097f001bfe941a8296b50bf06cadd592953afedf24611891bd6743bb548e0a15",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    }
+  ]
+}
