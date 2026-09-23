@@ -5093,19 +5093,26 @@
           "id": "03-ferry-dawn-through-the-cab-window",
           "title": "Ferry dawn through the cab window",
           "alt": "Ferry dawn through the cab window — oil interior study for The Driver the City Could Not See",
-          "source": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
-          "sourceSha256": "b6531c2f04b52d1ac8cdf897bf0c4268da613689e35e1e617549476683b4e113",
+          "source": "pages/interior-replacements/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window.png",
+          "sourceSha256": "4fdfa6d09feeb82004397371ff92f4292ec835ebde126246495ab3b877d399b0",
           "full": {
-            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-b6531c2f04b52d1a.webp",
-            "sha256": "fa90dd30f17332d6a5758bc4685d4d2d890080e3ac6b4900f2bbe0b986c0dc52",
+            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-4fdfa6d09feeb820.webp",
+            "sha256": "2a775dfe205d1d6e036b49e92f7da9908c781c960d2978429267ad0fdca66f2c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-b6531c2f04b52d1a-thumb.webp",
-            "sha256": "6f70a327243a4c08742849a63ca0ea70eafae4598cf01082cbfb02d4bd44b444",
+            "path": "interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window-4fdfa6d09feeb820-thumb.webp",
+            "sha256": "293b11fe4cfd2a993b9bc14d78e9d0ce31b1c55f7f0fa84f2780666d631a4603",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
+            "originalSha256": "b6531c2f04b52d1ac8cdf897bf0c4268da613689e35e1e617549476683b4e113",
+            "correction": "Use the established cabin's wheel and dashboard geometry in this ferry angle, preserving the loose fuse, route paper and dawn state.",
+            "prompt": "Use case: tiny localized finishing edit. Preserve this corrected ferry-dawn cab painting almost exactly. Change ONLY two small details:\n1. The manual gear lever currently has a tall elongated grip. Replace just its knob with a compact, nearly spherical worn black BALL KNOB, about the width of the current knob's round upper cap, sitting on a visibly slender dark lever shaft above the existing rubber bellows. This is a round old manual-car shift knob, not an elongated truck grip. Keep the lever position and bellows base exactly where they are.\n2. Remove the long pale blank piece of paper hanging in the dashboard clip immediately right of the black navigation screen. The small metal clip remains in place but is EMPTY, with the dark painted dashboard visible below it. Leave the separate white route paper and red grease pencil in the foreground tray unchanged.\nEverything else is fixed: three perforated steering-wheel spokes and round hub, analog gauges, black unlit screen, switch row, small coin tray and loose glass fuse, passenger seat, door/window/mirror, ferry bulwark, river, city skyline and copper dawn. Keep the 3:2 landscape framing, thick blue-gray/gold expressive oil paint and visible brushwork. No people, text overlay, labels, signature, watermark, photographic or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11550,6 +11557,11 @@
       "source": "stories/before-lunch/art/interiors/02-private-dining-room.png",
       "sourceSha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
       "reason": "Provide twelve complete settings/chairs, preserving the curtained room and doors."
+    },
+    {
+      "source": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
+      "sourceSha256": "b6531c2f04b52d1ac8cdf897bf0c4268da613689e35e1e617549476683b4e113",
+      "reason": "Use the established cabin's wheel and dashboard geometry in this ferry angle, preserving the loose fuse, route paper and dawn state."
     }
   ]
 }
