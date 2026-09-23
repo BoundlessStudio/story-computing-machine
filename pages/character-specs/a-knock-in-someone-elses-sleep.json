@@ -1,0 +1,539 @@
+{
+  "slug": "a-knock-in-someone-elses-sleep",
+  "title": "A Knock in Someone Else's Sleep",
+  "source": "stories/a-knock-in-someone-elses-sleep/story.md",
+  "canon": false,
+  "mainCastEvidence": "Finished prose read in full through line275. Entity is viewpoint protagonist, Cleo active mediator, Garnet the continuing friend whose new game resolves the emotional arc. The dream whale is created by Cleo rather than an independently characterized main person.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Cleo's mother",
+      "reason": "Mentioned travel companion only."
+    },
+    {
+      "name": "First child and boy with absent brother",
+      "reason": "Brief historical examples without substantial independent arcs."
+    },
+    {
+      "name": "Quarry workers and families",
+      "reason": "Collective background consequences of prior contact."
+    },
+    {
+      "name": "Dream whale",
+      "reason": "Cleo-created play object/creature without independent character agency or narrative viewpoint."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: Authority order",
+    "universe/premise.md: Knowledge and connection",
+    "universe/characters.md and rules.md searched for Cleo/Garnet/Entity; no relevant identity entry found",
+    "stories/a-knock-in-someone-elses-sleep/review.md: source identity inventory, not canon authority"
+  ],
+  "characters": [
+    {
+      "id": "cleo",
+      "name": "Cleo",
+      "role": "Nine-year-old mediator and active co-protagonist",
+      "selectionEvidence": [
+        {
+          "line": 23,
+          "quote": "She was nine",
+          "explanation": "Explicit life stage; her flexible dreams allow the meetings."
+        },
+        {
+          "line": 185,
+          "quote": "I don't want to keep going backward and forward.",
+          "explanation": "Her refusal forces Entity to make a smaller request."
+        },
+        {
+          "line": 225,
+          "quote": "Cleo returned carrying a toy bus she was still putting together.",
+          "explanation": "She mediates Garnet's final gift."
+        }
+      ],
+      "form": "Human girl",
+      "storyAppearance": {
+        "anatomy": "Ordinary human child; no supernatural bodily traits.",
+        "lifeStage": "Nine years old.",
+        "proportions": "Child proportions; small enough old door lock is beyond reach.",
+        "markings": "None specified.",
+        "materials": "Skin/hair/clothing unspecified; no body glow.",
+        "clothing": "Two shoes initially; later enormous bedroom slippers, then barefoot. Main clothes unspecified.",
+        "equipment": "Dream bedroom slippers; optional small toy bus handled briefly, not a body feature.",
+        "scale": "Ordinary nine-year-old child.",
+        "movement": "Climbs, crouches, explores, knocks, dangles bare feet; assertive ordinary child gestures.",
+        "distinctiveFeatures": "Investigative and impatient, not an angelic or mystical child."
+      },
+      "explicitCanon": [
+        "Story-local: age nine, dreams support changing imagery, temporarily wears enormous slippers and loses them.",
+        "No source hair, skin, face or wardrobe details beyond shoes/slippers."
+      ],
+      "visualInterpretation": [
+        "Fix a rounded child face, dark curly bob, medium warm-brown skin, loose muted-ochre sleep shirt and slate-blue pajama trousers; these are restrained art choices, not canon.",
+        "Main barefoot views plus separate oversized brown cloth slippers. No setting or toy-bus environment."
+      ],
+      "states": [
+        {
+          "label": "Dream exploration",
+          "description": "Barefoot after leaving shoes; main state."
+        },
+        {
+          "label": "Borrowed dream slippers",
+          "description": "Enormous cloth bedroom slippers, shown separately."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-knock-in-someone-elses-sleep:cleo",
+        "links": [],
+        "evidence": "Only same-story name matches; not Celia/Claire/Clover/Clorinda."
+      },
+      "references": [
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/title-image.jpg",
+          "role": "Inspected cover: no character appearance; no face/body identity supplied",
+          "sha256": "79b245d495d0826e792158bbb5d6208ad4de6a4b80dffb062a7f754988a3215e",
+          "inspected": true,
+          "notes": "Only green-tiled doorless wallpapered dream house against blue; supplies palette/context, no character anatomy."
+        },
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+          "role": "Dream-state warm/cool light and oil handling only; no scene depiction",
+          "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1",
+          "inspected": true,
+          "notes": "Warm interior reflected light against sea-blue shadow; no human character visible; oversized slipper is supported accessory."
+        }
+      ],
+      "output": "stories/a-knock-in-someone-elses-sleep/art/characters/cleo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one character reference folio, 1536×1024 landscape, quiet warm ivory ground. Exact heading upper left: “Cleo”; exact story title below: “A Knock in Someone Else's Sleep”. Only this one identity.\n\nCleo is an ordinary NINE-YEAR-OLD girl, curious, matter-of-fact, sometimes impatient. Rounded child face, medium warm-brown skin, dark curly bob; genuine child proportions, no makeup or adult glamour. Loose muted-ochre sleep shirt and slate-blue pajama trousers; main views barefoot. Show three comfortably spaced, fully unclipped views: inquisitive three-quarter front, side with a small knocking gesture, back. Add two small expressive head studies (listening and determined) and one separate pair of enormous worn brown cloth bedroom slippers. Useful concise labels only. Five fingers per human hand. No other props.\n\nImage1 Coris is ONLY the approved oil paint treatment/presentation anchor: do not copy her adult identity, hair pencils, clothing or proportions. Image2 gives worn cloth slipper material and warm reflected indoor dream light with blue-grey shadows ONLY; do not reproduce any room, sea, furniture, window or floor. Lighting is gentle warm interior reflection from one side with connected muted cool shadow, no glow or halo.\n\nBuild the whole child—including cheeks, eyes, hair and feet—from large connected painted colour/value masses with broad directional bristle strokes and selective substantial impasto, in the Canadian Group of Seven-inspired collection language. Simplify small features as decisively as cloth. Matte eyes, no CGI/plastic skin, no anime facial lines, no uniform tiny gold bevel chips. Quieter passages join stronger strokes. Slippers feel fibrous, hair blocky-soft, skin painterly.\n\nAbsolutely character-only isolation on ivory: NO scenic backdrop, vignette, furniture, terrain, ground patch, cast-shadow floor or decorative prose. NO paint swatches, colour chips, palette strip or bars. Leave negative space; exact title readable; only requested useful studies.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:37:27.3303013Z",
+            "status": "PASS",
+            "prompt": "Create one character reference folio, 1536×1024 landscape, quiet warm ivory ground. Exact heading upper left: “Cleo”; exact story title below: “A Knock in Someone Else's Sleep”. Only this one identity.\n\nCleo is an ordinary NINE-YEAR-OLD girl, curious, matter-of-fact, sometimes impatient. Rounded child face, medium warm-brown skin, dark curly bob; genuine child proportions, no makeup or adult glamour. Loose muted-ochre sleep shirt and slate-blue pajama trousers; main views barefoot. Show three comfortably spaced, fully unclipped views: inquisitive three-quarter front, side with a small knocking gesture, back. Add two small expressive head studies (listening and determined) and one separate pair of enormous worn brown cloth bedroom slippers. Useful concise labels only. Five fingers per human hand. No other props.\n\nImage1 Coris is ONLY the approved oil paint treatment/presentation anchor: do not copy her adult identity, hair pencils, clothing or proportions. Image2 gives worn cloth slipper material and warm reflected indoor dream light with blue-grey shadows ONLY; do not reproduce any room, sea, furniture, window or floor. Lighting is gentle warm interior reflection from one side with connected muted cool shadow, no glow or halo.\n\nBuild the whole child—including cheeks, eyes, hair and feet—from large connected painted colour/value masses with broad directional bristle strokes and selective substantial impasto, in the Canadian Group of Seven-inspired collection language. Simplify small features as decisively as cloth. Matte eyes, no CGI/plastic skin, no anime facial lines, no uniform tiny gold bevel chips. Quieter passages join stronger strokes. Slippers feel fibrous, hair blocky-soft, skin painterly.\n\nAbsolutely character-only isolation on ivory: NO scenic backdrop, vignette, furniture, terrain, ground patch, cast-shadow floor or decorative prose. NO paint swatches, colour chips, palette strip or bars. Leave negative space; exact title readable; only requested useful studies.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil treatment only; no adult identity transfer",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+                "role": "dream interior lighting and oversized slipper material only; exclude location",
+                "inspected": true,
+                "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-cf5d6483-bdf7-4ae0-8782-f33a15b3c193.png",
+            "returnedSha256": "a4deaa8e27b72dea7ce7d6d733208f452abd1ba3456fe46be98900df608a1d9b",
+            "completedAt": "2026-09-23T17:39:34.497195-04:00",
+            "review": [
+              "Actual generated pixels inspected: three unclipped views show one consistent nine-year-old identity, child proportions, curly bob, pajamas and bare feet.",
+              "Name/title correct and readable; source-supported enormous bedroom slippers isolated; no scene or swatches.",
+              "Raised directional brush/knife paint carried across face, hair, clothing, skin and slippers; coherent soft warm interior light and muted blue shadows."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil treatment only; no adult identity transfer",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+            "role": "dream interior lighting and oversized slipper material only; exclude location",
+            "inspected": true,
+            "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T17:39:34.499787-04:00",
+        "sourceSha256": "504e867a67647e24e704bd1b8645d600d1d1f6e51525242cbb18e963b1ab9030",
+        "outputSha256": "a4deaa8e27b72dea7ce7d6d733208f452abd1ba3456fe46be98900df608a1d9b",
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil treatment only; no adult identity transfer",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+            "role": "dream interior lighting and oversized slipper material only; exclude location",
+            "inspected": true,
+            "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected: three unclipped views show one consistent nine-year-old identity, child proportions, curly bob, pajamas and bare feet.",
+          "Name/title correct and readable; source-supported enormous bedroom slippers isolated; no scene or swatches.",
+          "Raised directional brush/knife paint carried across face, hair, clothing, skin and slippers; coherent soft warm interior light and muted blue shadows."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "e9cb55c7c2b0e72d639a35a922ba84d1e3624ce03e549683bbb97610e97d1401"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "a4deaa8e27b72dea7ce7d6d733208f452abd1ba3456fe46be98900df608a1d9b"
+    },
+    {
+      "id": "garnet",
+      "name": "Garnet",
+      "role": "Substantial supporting character; former childhood dream friend, now seventy-three",
+      "selectionEvidence": [
+        {
+          "line": 65,
+          "quote": "She was seven.",
+          "explanation": "First remembered meeting."
+        },
+        {
+          "line": 93,
+          "quote": "She's seventy-three.",
+          "explanation": "Present life stage."
+        },
+        {
+          "line": 113,
+          "quote": "A girl of thirteen, with a gap where a tooth had never come?",
+          "explanation": "Remembered age and visible identifying feature."
+        },
+        {
+          "line": 227,
+          "quote": "She made this. It's the one she used to drive",
+          "explanation": "Her recreated bus renews the relationship."
+        }
+      ],
+      "form": "Human woman shown in explicitly separate life stages",
+      "storyAppearance": {
+        "anatomy": "Ordinary human; gap where a tooth never came in remembered adolescent face.",
+        "lifeStage": "Present age73; remembered girl7–13.",
+        "proportions": "Unspecified ordinary human; child and older adult proportions must differ.",
+        "markings": "Tooth gap at thirteen; no scars specified.",
+        "materials": "Ordinary skin/hair/cloth.",
+        "clothing": "Not described; she appears in Cleo's reported dream, cleaning a bathroom.",
+        "equipment": "Napkins folded into spatial puzzles; not a magical tool. No bus-driver uniform specified.",
+        "scale": "Ordinary human.",
+        "movement": "Present gentle attentive gestures; remembered lively inventive play.",
+        "distinctiveFeatures": "Same identity across sixty-year separation; adult appearance must not be a thirteen-year-old."
+      },
+      "explicitCanon": [
+        "Story-local: age73, former bus driver; first met Entity at7 and contact became unsafe around13.",
+        "Adolescent missing tooth gap; exact facial shape, adult dental state, hair and complexion unspecified."
+      ],
+      "visualInterpretation": [
+        "Main older adult: short wavy silver hair, warm light-brown skin, broad thoughtful face, sturdy ordinary build, faded blue cardigan, cream shirt and dark grey trousers.",
+        "Separate remembered13 head study with similar brow/nose, dark hair and visible tooth gap; do not add dentures to present state or imply gap remains definitively."
+      ],
+      "states": [
+        {
+          "label": "Garnet — 73",
+          "description": "Present older adult, main front/side/rear."
+        },
+        {
+          "label": "Remembered at 13",
+          "description": "Separate youthful portrait with gap where a tooth never came."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-knock-in-someone-elses-sleep:garnet",
+        "links": [],
+        "evidence": "Matches same-story person only; gemstone references elsewhere are not identity matches."
+      },
+      "references": [
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/title-image.jpg",
+          "role": "Inspected cover: no character appearance; no face/body identity supplied",
+          "sha256": "79b245d495d0826e792158bbb5d6208ad4de6a4b80dffb062a7f754988a3215e",
+          "inspected": true,
+          "notes": "Only green-tiled doorless wallpapered dream house against blue; supplies palette/context, no character anatomy."
+        },
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+          "role": "Dream-state warm/cool light and oil handling only; no scene depiction",
+          "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1",
+          "inspected": true,
+          "notes": "Warm interior reflected light against sea-blue shadow; no human character visible; oversized slipper is supported accessory."
+        }
+      ],
+      "output": "stories/a-knock-in-someone-elses-sleep/art/characters/garnet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one 1536×1024 landscape character folio on quiet warm ivory. Heading upper left exactly “Garnet”; story title exactly “A Knock in Someone Else's Sleep”.\n\nMain character Garnet is SEVENTY-THREE, a former bus driver. One consistent older woman with short wavy silver hair, warm light-brown skin, broad thoughtful face, natural wrinkles, sturdy ordinary build. Faded muted-blue cardigan over cream shirt, dark grey trousers, practical soft brown shoes. Three unclipped full-body views: three-quarter front with gentle attentive hands, profile, back. Age must be evident in face, hands and posture without frailty caricature. Small expressive current-age head study: warm recognition. Separate small head study clearly labelled “Remembered at 13”: same identity, brow and nose, but youthful thirteen-year-old proportions and dark wavy hair; a small visible gap where a tooth never came. This is a remembered earlier state, not a second person. Keep the main woman clearly73. A small isolated ordinary folded napkin puzzle is source-supported; no other equipment.\n\nInput1 is Coris approved oil handling/presentation ONLY, never her young-adult face, hair pencil or body. Input2 is the story dream interior's broad warm-reflected light against cool blue-grey shadow ONLY; absolutely exclude its room, sea and geography.\n\nUse Canadian Group of Seven-inspired OIL construction: large connected colour/value masses, substantial selective impasto, broad directional bristle strokes, quieter passages. Make cheeks, silver hair, aged hands, cardigan and trousers equally decisively PAINTED. Wrinkles come from grouped plane changes, not a photo pasted into paint. Soft warm indoor light reveals some planes with connected muted cool shadow; no cinematic rims, glowing edges, glossy pupils or uniform gold flakes.\n\nBalanced negative space and concise labels only: “73”, “Side”, “Back”, “Recognition”, “Remembered at 13”, “Folded napkin”. No decorative prose. Character-only; no setting, vignette, floor/terrain patch or scenery. NO colour swatches/palette strip. Five fingers, sound human anatomy; do not copy Cleo's face.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:39:35.5518109Z",
+            "status": "PASS",
+            "prompt": "Create one 1536×1024 landscape character folio on quiet warm ivory. Heading upper left exactly “Garnet”; story title exactly “A Knock in Someone Else's Sleep”.\n\nMain character Garnet is SEVENTY-THREE, a former bus driver. One consistent older woman with short wavy silver hair, warm light-brown skin, broad thoughtful face, natural wrinkles, sturdy ordinary build. Faded muted-blue cardigan over cream shirt, dark grey trousers, practical soft brown shoes. Three unclipped full-body views: three-quarter front with gentle attentive hands, profile, back. Age must be evident in face, hands and posture without frailty caricature. Small expressive current-age head study: warm recognition. Separate small head study clearly labelled “Remembered at 13”: same identity, brow and nose, but youthful thirteen-year-old proportions and dark wavy hair; a small visible gap where a tooth never came. This is a remembered earlier state, not a second person. Keep the main woman clearly73. A small isolated ordinary folded napkin puzzle is source-supported; no other equipment.\n\nInput1 is Coris approved oil handling/presentation ONLY, never her young-adult face, hair pencil or body. Input2 is the story dream interior's broad warm-reflected light against cool blue-grey shadow ONLY; absolutely exclude its room, sea and geography.\n\nUse Canadian Group of Seven-inspired OIL construction: large connected colour/value masses, substantial selective impasto, broad directional bristle strokes, quieter passages. Make cheeks, silver hair, aged hands, cardigan and trousers equally decisively PAINTED. Wrinkles come from grouped plane changes, not a photo pasted into paint. Soft warm indoor light reveals some planes with connected muted cool shadow; no cinematic rims, glowing edges, glossy pupils or uniform gold flakes.\n\nBalanced negative space and concise labels only: “73”, “Side”, “Back”, “Recognition”, “Remembered at 13”, “Folded napkin”. No decorative prose. Character-only; no setting, vignette, floor/terrain patch or scenery. NO colour swatches/palette strip. Five fingers, sound human anatomy; do not copy Cleo's face.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil handling and presentation only, not face/age",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+                "role": "dream warm indoor lighting/cool shadows only, no geography",
+                "inspected": true,
+                "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-cc8b1561-2b91-4797-95ac-fa9db90367c4.png",
+            "returnedSha256": "7a791f82e55dea2d169750a9179c2e2aa1cb29388c5a1dcc9b5b804c8cab6a47",
+            "completedAt": "2026-09-23T17:43:15.133502-04:00",
+            "review": [
+              "Actual pixels inspected: present73-year-old woman unmistakably older across three consistent unclipped views, with separate clearly labelled remembered13 portrait and tooth gap.",
+              "Source-supported napkin detail and restrained interpreted wardrobe; no bus-driver costume or invented anatomy; no location/swatch.",
+              "Exact title/name readable; paint mass construction persists on skin/face/hair/cloth/shoes with gentle indoor light."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil handling and presentation only, not face/age",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+            "role": "dream warm indoor lighting/cool shadows only, no geography",
+            "inspected": true,
+            "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T17:43:15.136261-04:00",
+        "sourceSha256": "504e867a67647e24e704bd1b8645d600d1d1f6e51525242cbb18e963b1ab9030",
+        "outputSha256": "7a791f82e55dea2d169750a9179c2e2aa1cb29388c5a1dcc9b5b804c8cab6a47",
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil handling and presentation only, not face/age",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/01-cupboard-with-a-sea.png",
+            "role": "dream warm indoor lighting/cool shadows only, no geography",
+            "inspected": true,
+            "sha256": "9595b1fa48f1d768dfefb6ff2083d1ee2b7f28be668206e72102404b1529aac1"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: present73-year-old woman unmistakably older across three consistent unclipped views, with separate clearly labelled remembered13 portrait and tooth gap.",
+          "Source-supported napkin detail and restrained interpreted wardrobe; no bus-driver costume or invented anatomy; no location/swatch.",
+          "Exact title/name readable; paint mass construction persists on skin/face/hair/cloth/shoes with gentle indoor light."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "7a60ad30c8701161d0f91b8611b8e6212e22f00c282a89c6e294ca037f757ad4"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "7a791f82e55dea2d169750a9179c2e2aa1cb29388c5a1dcc9b5b804c8cab6a47"
+    },
+    {
+      "id": "averune",
+      "name": "Averune",
+      "role": "Viewpoint protagonist; living Entity confined beneath quarry",
+      "sourceIdentityId": "the-entity",
+      "nameAssignment": {
+        "name": "Averune",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "The Entity",
+        "scope": "Art and metadata only, no source-prose or universe change.",
+        "nameCheck": "Averune searched across universe, frozen NAMES, current/bundle story and review files; no matches. Cleo and Garnet source names retained."
+      },
+      "selectionEvidence": [
+        {
+          "line": 27,
+          "quote": "its own body lay pinched in a cavity no dream could enlarge",
+          "explanation": "Living nonhuman viewpoint body remains physically confined."
+        },
+        {
+          "line": 43,
+          "quote": "a seep of warm minerals along its underside, the slow contraction by which its body fed",
+          "explanation": "Only partial anatomy and feeding motion supplied."
+        },
+        {
+          "line": 241,
+          "quote": "It had no single shape to put there. It made a weight in the cushion",
+          "explanation": "Supported dream manifestation; no visible invented body permitted."
+        }
+      ],
+      "form": "Unspecified folded living body; shape-less dream presence indicated by weight in cushion",
+      "storyAppearance": {
+        "anatomy": "Living folds and underside exist; full body anatomy, limb/eye counts and silhouette unspecified.",
+        "lifeStage": "Long-lived; known friendship spans over60years; exact age unknown.",
+        "proportions": "Cannot establish whole-body proportions from source.",
+        "markings": "None specified.",
+        "materials": "Living body unspecified. Supported dream indication is deformation of a torn driver's seat cushion, not flesh or ghost.",
+        "clothing": "None supported.",
+        "equipment": "Driver's cushion as an interface/manifestation of attention; not the Entity's actual body.",
+        "scale": "Physical total size not specified. Dream manifests as a weight in a human-sized cushion.",
+        "movement": "Physical feeding contraction; dream attention shifts its weight on cushion.",
+        "distinctiveFeatures": "No single dream shape; must never invent human face, tentacles, wings or luminous ghost."
+      },
+      "explicitCanon": [
+        "Story-local: living folded body confined in cavity, feeds with slow contraction and mineral seep.",
+        "Dream manifestation has no single shape; makes weight in cushion, shifts side to side.",
+        "No supported complete visual body; dream objects are thought-work, not its physical anatomy."
+      ],
+      "visualInterpretation": [
+        "Depict only supported manifestation: isolated torn olive/tan driver's seat cushion with one soft depression, in two angled views and one weight-shift study.",
+        "Exact cushion cut/design follows inspected interior but remains interface evidence, not body anatomy. Label Dream presence / Weight in cushion. Omit physical body entirely because it is unspecified; no landscape/interior or whole bus."
+      ],
+      "states": [
+        {
+          "label": "Dream presence",
+          "description": "No visible figure; weight deforms isolated worn seat cushion."
+        },
+        {
+          "label": "Weight shifted",
+          "description": "Depression modestly offset in same cushion."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-knock-in-someone-elses-sleep:the-entity",
+        "links": [],
+        "evidence": "No recurrence; explicitly distinct from Deepmarket sleeper per same-story review; no universe identity connection."
+      },
+      "references": [
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/title-image.jpg",
+          "role": "Inspected cover: no character appearance; no face/body identity supplied",
+          "sha256": "79b245d495d0826e792158bbb5d6208ad4de6a4b80dffb062a7f754988a3215e",
+          "inspected": true,
+          "notes": "Only green-tiled doorless wallpapered dream house against blue; supplies palette/context, no character anatomy."
+        },
+        {
+          "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/03-bus-inside-the-garage.png",
+          "role": "Inspected manifestation evidence: torn driver's seat upholstery and enclosed dream light; no location illustration",
+          "sha256": "78816a03a62048678628d5b7a68acfb351f9db70352deb7b808bea92dcecede4",
+          "inspected": true,
+          "notes": "Worn dark olive/tan seat with torn upholstery, subdued ochre/blue-grey paint masses; whole bus must not be inherited as Entity's body."
+        }
+      ],
+      "visualLimitations": [
+        "Full physical body cannot be illustrated faithfully: whole anatomy, proportions and surface unknown. Sheet restricted to explicit visible dream manifestation; no invented canonical body."
+      ],
+      "output": "stories/a-knock-in-someone-elses-sleep/art/characters/averune.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one unusual abstract-character reference sheet, 1536×1024 landscape, on quiet warm ivory. Exact heading upper left “Averune”; below exact story title “A Knock in Someone Else's Sleep”. Small descriptive subtitle “Dream presence”.\n\nAverune is the story's Entity, whose physical body is undescribed and whose dream presence has NO SINGLE VISIBLE SHAPE. DO NOT invent a creature or body. The supported manifestation is simply its invisible weight making a depression in the worn driver's cushion. Represent attention using only the visibly pressed upholstery, with no human/bodily outline.\n\nComposition: two large unclipped isolated views of the same simple torn dark olive/tan bus driver's SEAT CUSHION ONLY, one three-quarter from front and one from opposite angle, gently depressed by invisible weight. Bottom right small third study “Weight shifted” showing that same cushion depressed slightly to one side. Add one close material detail “Torn upholstery”. Keep the cushion isolated, without backrest, chair frame, legs, steering wheel or bus. Three views of the manifestation, not a pillow creature. No eyes, mouth, face, limbs, tentacles, visible spirit, silhouette, mist or luminous aura. Do not make the depression a face or a perfect human buttock imprint: a soft generic indentation caused by modest weight is enough. Concise labels only “Weight in cushion”, “Opposite view”, “Weight shifted”, “Torn upholstery”. Lots of calm ivory negative space.\n\nInput1 Coris is approved OIL treatment and folio typography only: transfer NO human content. Input2 the bus interior supplies only its worn olive/tan upholstery and low warm ochre reflected light against blue-grey shadow. Exclude every piece of bus architecture, scene and scenery.\n\nCanadian Group of Seven-inspired heavy oil masses, broad directional bristle, selective substantial impasto and quieter connecting passages. Large connected colour/value planes describe cloth compression, with restrained scraped edges at tears. Low warm enclosed light reveals upper cushion planes; shadow remains a connected deep blue-grey/olive mass, no studio rim or glossy CG look. Neither a texture filter nor uniform little golden paint chips.\n\nAbsolutely NO location vignette, bus/interior, floor/ground patch, scenic backdrop, decorative prose, paint swatches, palette chips or colour bars. The only visible subject is source-supported upholstery deformation as evidence of an otherwise shapeless character.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:45:57.8436300Z",
+            "status": "PASS",
+            "prompt": "Create one unusual abstract-character reference sheet, 1536×1024 landscape, on quiet warm ivory. Exact heading upper left “Averune”; below exact story title “A Knock in Someone Else's Sleep”. Small descriptive subtitle “Dream presence”.\n\nAverune is the story's Entity, whose physical body is undescribed and whose dream presence has NO SINGLE VISIBLE SHAPE. DO NOT invent a creature or body. The supported manifestation is simply its invisible weight making a depression in the worn driver's cushion. Represent attention using only the visibly pressed upholstery, with no human/bodily outline.\n\nComposition: two large unclipped isolated views of the same simple torn dark olive/tan bus driver's SEAT CUSHION ONLY, one three-quarter from front and one from opposite angle, gently depressed by invisible weight. Bottom right small third study “Weight shifted” showing that same cushion depressed slightly to one side. Add one close material detail “Torn upholstery”. Keep the cushion isolated, without backrest, chair frame, legs, steering wheel or bus. Three views of the manifestation, not a pillow creature. No eyes, mouth, face, limbs, tentacles, visible spirit, silhouette, mist or luminous aura. Do not make the depression a face or a perfect human buttock imprint: a soft generic indentation caused by modest weight is enough. Concise labels only “Weight in cushion”, “Opposite view”, “Weight shifted”, “Torn upholstery”. Lots of calm ivory negative space.\n\nInput1 Coris is approved OIL treatment and folio typography only: transfer NO human content. Input2 the bus interior supplies only its worn olive/tan upholstery and low warm ochre reflected light against blue-grey shadow. Exclude every piece of bus architecture, scene and scenery.\n\nCanadian Group of Seven-inspired heavy oil masses, broad directional bristle, selective substantial impasto and quieter connecting passages. Large connected colour/value planes describe cloth compression, with restrained scraped edges at tears. Low warm enclosed light reveals upper cushion planes; shadow remains a connected deep blue-grey/olive mass, no studio rim or glossy CG look. Neither a texture filter nor uniform little golden paint chips.\n\nAbsolutely NO location vignette, bus/interior, floor/ground patch, scenic backdrop, decorative prose, paint swatches, palette chips or colour bars. The only visible subject is source-supported upholstery deformation as evidence of an otherwise shapeless character.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil and folio only, exclude human content",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/03-bus-inside-the-garage.png",
+                "role": "upholstery material and low warm light for supported dream-presence evidence only; no environment",
+                "inspected": true,
+                "sha256": "78816a03a62048678628d5b7a68acfb351f9db70352deb7b808bea92dcecede4"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-d8eec3f8-8999-4d5a-a780-8831713cff6d.png",
+            "returnedSha256": "80002c4f6e650e94426dfa2208c6358585872339c094cc16826e6ee7d1fc1069",
+            "completedAt": "2026-09-23T21:48:02.227038+00:00",
+            "review": [
+              "Actual pixels inspected: visible subject limited to three isolated views of depressed worn driver's cushion plus upholstery detail; no invented physical Entity body, face or ghost.",
+              "Dream presence subtitle and useful weight labels distinguish manifestation/interface from physical anatomy; name/title exact and legible.",
+              "Painted olive/ochre cloth planes and connected dark interior-light shadows; no environment, complete bus, floor patch or palette swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil and folio only, exclude human content",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/03-bus-inside-the-garage.png",
+            "role": "upholstery material and low warm light for supported dream-presence evidence only; no environment",
+            "inspected": true,
+            "sha256": "78816a03a62048678628d5b7a68acfb351f9db70352deb7b808bea92dcecede4"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:48:02.229669+00:00",
+        "sourceSha256": "504e867a67647e24e704bd1b8645d600d1d1f6e51525242cbb18e963b1ab9030",
+        "outputSha256": "80002c4f6e650e94426dfa2208c6358585872339c094cc16826e6ee7d1fc1069",
+        "references": [
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil and folio only, exclude human content",
+            "inspected": true,
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "stories/a-knock-in-someone-elses-sleep/art/interiors/03-bus-inside-the-garage.png",
+            "role": "upholstery material and low warm light for supported dream-presence evidence only; no environment",
+            "inspected": true,
+            "sha256": "78816a03a62048678628d5b7a68acfb351f9db70352deb7b808bea92dcecede4"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: visible subject limited to three isolated views of depressed worn driver's cushion plus upholstery detail; no invented physical Entity body, face or ghost.",
+          "Dream presence subtitle and useful weight labels distinguish manifestation/interface from physical anatomy; name/title exact and legible.",
+          "Painted olive/ochre cloth planes and connected dark interior-light shadows; no environment, complete bus, floor patch or palette swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "bc030ad59470c0977cd89d32bb9f0bda3af22729f349a198e11bea83c4cbf544"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "80002c4f6e650e94426dfa2208c6358585872339c094cc16826e6ee7d1fc1069"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "504e867a67647e24e704bd1b8645d600d1d1f6e51525242cbb18e963b1ab9030",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
