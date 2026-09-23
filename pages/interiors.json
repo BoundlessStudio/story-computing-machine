@@ -6497,19 +6497,26 @@
           "id": "01-the-cistern-chamber",
           "title": "The cistern chamber",
           "alt": "The cistern chamber — oil interior study for The Last Monster",
-          "source": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
-          "sourceSha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987",
+          "source": "pages/interior-replacements/the-last-monster/01-the-cistern-chamber.png",
+          "sourceSha256": "f239c006b5cd11752aa042dd8ce35addfe6e20bce196706eed660e0258638c0f",
           "full": {
-            "path": "interiors/the-last-monster/01-the-cistern-chamber-35b9a86f0724217b.webp",
-            "sha256": "77cb4d0d6844b1862be0ba0446e3151365c2c2448e6bd31f4bad55167cfc3c09",
+            "path": "interiors/the-last-monster/01-the-cistern-chamber-f239c006b5cd1175.webp",
+            "sha256": "8ce32d21119d3ff2abde91e219243dd998b00c779e7602a1a417bffd587dd638",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-last-monster/01-the-cistern-chamber-35b9a86f0724217b-thumb.webp",
-            "sha256": "adfa71b4d464c972f753b71c5429b886a80d9742e6efaffc4d2443313ed962a8",
+            "path": "interiors/the-last-monster/01-the-cistern-chamber-f239c006b5cd1175-thumb.webp",
+            "sha256": "32d648a4bca35fbdaa5a4b70e5862fce85e9b9454f09ffdcd30fced57857eb02",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+            "originalSha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987",
+            "correction": "Change only the cup to an irregular helmet-cheek-plate vessel with one clearly squared rim dent.",
+            "prompt": "Use case: precise object edit. In the supplied expressive oil painting, change ONLY the metal drinking cup in the lower-left foreground. Preserve every other room feature, position, view, light and brushstroke treatment.\nThe source cup is handmade from the cheek plate of a helmet. Replace the regular factory cylindrical mug and loop handle with a small irregular metal vessel visibly bent from one curved armor cheek plate: subtly asymmetric tapered/faceted sides, a worn rivet or overlap edge, a flattened stable base, an uneven oval mouth, and NO mug handle. It should read as a usable improvised drinking cup, not a whole helmet, bowl, goblet or manufactured tankard. Keep approximately the existing cup's size, ground position and dark iron/copper patina.\nIts rim must have exactly ONE recognizable SQUARE DENT. Place that single dent on the near rim where it is easy to see: a short squared section of metal pressed downward, with two angular corners and a flat lowered edge, catching the warm light. The remainder of the rim is continuous and gently uneven; no other notches, breaks or holes. The square dent is the narrative recognition detail.\nPreserve the empty vaulted cistern chamber, water basin and small flow, soot/fire pit, bedrolls, split painted shield, tied wooden splint, blackened wooden spoon, tally cuts, lantern, distant rising arch and all existing scale relationships. Maintain Group-of-Seven-inspired thick impasto oil, confident shaped warm ochre/orange and blue-black masses, no photo or 3D drift. No people, creatures, captions, headings, watermark or border. One 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11826,6 +11833,11 @@
       "source": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
       "sourceSha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
       "reason": "Retain the property counter but depict a doorway-sized blue scanning plane before the narrowly open exterior gate, with its threshold light on the floor."
+    },
+    {
+      "source": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+      "sourceSha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987",
+      "reason": "Change only the cup to an irregular helmet-cheek-plate vessel with one clearly squared rim dent."
     }
   ]
 }
