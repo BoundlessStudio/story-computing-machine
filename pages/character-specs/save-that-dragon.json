@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "slug": "save-that-dragon",
+  "title": "One Night's Mercy",
+  "source": "stories/save-that-dragon/story.md",
+  "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished story read. Imer drives the rescue; Daziel chooses mercy and dismantles her rig; Thelrax's resistance determines each risk; Hovan supplies cautious communication and hands-on rescue; Urrava's concealed writ motivates the moral conflict.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Two royal guards",
+      "reason": "Opening-scene attendants only."
+    },
+    {
+      "name": "Daziel's unnamed husband",
+      "reason": "Deceased backstory motive with no enacted appearance."
+    },
+    {
+      "name": "Quarry workers and bridge watchers",
+      "reason": "Offstage stakes, not developed characters."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md: Authority order",
+    "universe/premise.md: Knowledge and connection",
+    "universe/rules.md: System categories; Living agency and magic",
+    "universe/characters.md: no Thelrax, Imer, Daziel, Hovan or Urrava entry found; other dragons' traits are local, not species-wide"
+  ],
+  "referenceSearch": "Searched same-story illustrated and graphic-novel paths; no matching references unless listed.",
+  "characters": [
+    {
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      },
+      "id": "thelrax",
+      "name": "Thelrax",
+      "role": "central nonhuman character; captive dragon",
+      "selectionEvidence": [
+        {
+          "quote": "a dragon the length of a freight wagon, dark hide slick against the limestone",
+          "line": 129,
+          "explanation": "Central endangered individual and explicit scale and hide."
+        },
+        {
+          "quote": "Then he pushed with both hind legs",
+          "line": 257,
+          "explanation": "Active resistance changes rescue; hind-limb anatomy."
+        },
+        {
+          "quote": "On the fourth stride he opened his wings.",
+          "line": 389,
+          "explanation": "Escape climax; winged locomotion."
+        }
+      ],
+      "form": "Large quadrupedal winged dragon; never humanoid",
+      "storyAppearance": {
+        "anatomy": "Dragon: head with nostrils, jaws and teeth, loose skin below jaw, shoulders, chest, foreclaws, both hind legs and two wings. Tail/horns/precise digits not established.",
+        "lifeStage": "Mature-seeming large dragon; exact age not stated",
+        "proportions": "Length of a freight wagon; horizontal body, crouched stance",
+        "markings": "Dark hide; bolt wound under jaw, blood and smoke",
+        "materials": "Living dark hide, claws and teeth; wet in rain; exact scale texture unspecified",
+        "clothing": "None",
+        "equipment": "Captivity only: upper shoulder net, bolt beneath jaw and short cable; two stone-weighted sling nets over folded wings. These are restraints, never costume.",
+        "scale": "Freight-wagon length; use tiny quarry tools or a distant human scale cue",
+        "movement": "Crouches, pushes downhill with hind legs, runs and jumps, wings open and beat; injured uneven flight",
+        "distinctiveFeatures": "Injured throat restricts fire to a short flat orange burst; no speaking or human expressions"
+      },
+      "visualInterpretation": [
+        "Use deep charcoal hide with cool slate reflected rain, rough painted living skin rather than metallic armor.",
+        "Four walking limbs plus two wings supported by separate foreclaw and hind-leg descriptions with folded wing slings; no extra limbs.",
+        "If a balancing tail is needed, mark it as restrained anatomical interpretation, not a described fact; omit elaborate horns and decorative spines.",
+        "Sheet: lateral crouched view, three-quarter unrestrained running view, wing-open silhouette; jaw-wound and claw details, quarry vignette. No human turnaround."
+      ],
+      "states": [
+        {
+          "name": "captive",
+          "details": "Both wings folded under separate weighted sling nets; throat bolt and shoulder net."
+        },
+        {
+          "name": "released",
+          "details": "Nets slide free; injured throat remains; running and uneven flight. Do not blend attached and removed restraints."
+        }
+      ],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "save-that-dragon/thelrax",
+        "links": [],
+        "evidence": "No supported cross-story identity identified; matching names alone do not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet treatment only; subject, red cloak and equipment are not templates",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Heavy raised palette-knife slabs, broken colour, scraped edges, warm ivory ground, cool shadows; retain bold painted masses including faces."
+        },
+        {
+          "path": "stories/save-that-dragon/title-image.jpg",
+          "role": "existing cover; object design and atmosphere only",
+          "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a",
+          "inspected": true,
+          "notes": "No characters depicted; dark storm, wet iron trigger housing, key, rope and sealed writ."
+        },
+        {
+          "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+          "role": "story landscape palette and vignette geography",
+          "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+          "inspected": true,
+          "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
+        },
+        {
+          "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "role": "forge interior palette and paint handling",
+          "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "inspected": true,
+          "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        }
+      ],
+      "output": "stories/save-that-dragon/art/characters/thelrax.png"
+    },
+    {
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      },
+      "id": "imer-quast",
+      "name": "Imer Quast",
+      "role": "protagonist; dismissed quarry-rig builder and smith",
+      "selectionEvidence": [
+        {
+          "quote": "I’m going to stop the rig.",
+          "line": 85,
+          "explanation": "Chooses and leads rescue."
+        },
+        {
+          "quote": "Imer shoved his pry bar through the flywheel.",
+          "line": 321,
+          "explanation": "Risks his body in climactic rescue."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs",
+        "lifeStage": "Experienced adult, old enough to have taught Daziel as a child; age unstated",
+        "proportions": "Not specified",
+        "markings": "Not specified",
+        "materials": "Skin and hair; no supernatural surface specified",
+        "clothing": "Apron at forge; shirt, belt, boots and waxed coat outdoors",
+        "equipment": "Quarry bar/pry bar, maul, rope, square iron key, folded royal writ; tools used separately as relevant",
+        "scale": "Ordinary human scale",
+        "movement": "Practical firm gestures; crawls beneath drum; braces pry bar; bruised ribs afterward",
+        "distinctiveFeatures": "Soot and work-worn hands; injuries at ribs after rescue"
+      },
+      "visualInterpretation": [
+        "Mature weathered man with practical short graying hair, stocky working build; these are restrained interpretations, not source facts.",
+        "Dark brown waxed work coat, gray shirt and plain leather apron; no sword or armor."
+      ],
+      "explicitCanon": [],
+      "states": [],
+      "recurrence": {
+        "identityKey": "save-that-dragon/imer-quast",
+        "links": [],
+        "evidence": "No supported cross-story identity identified; matching names alone do not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet treatment only; subject, red cloak and equipment are not templates",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Heavy raised palette-knife slabs, broken colour, scraped edges, warm ivory ground, cool shadows; retain bold painted masses including faces."
+        },
+        {
+          "path": "stories/save-that-dragon/title-image.jpg",
+          "role": "existing cover; object design and atmosphere only",
+          "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a",
+          "inspected": true,
+          "notes": "No characters depicted; dark storm, wet iron trigger housing, key, rope and sealed writ."
+        },
+        {
+          "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+          "role": "story landscape palette and vignette geography",
+          "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+          "inspected": true,
+          "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
+        },
+        {
+          "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "role": "forge interior palette and paint handling",
+          "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "inspected": true,
+          "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        }
+      ],
+      "output": "stories/save-that-dragon/art/characters/imer-quast.png"
+    },
+    {
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this Princess Daziel reference sheet with ONE tiny localized removal.\n\nRemove the ONLY isolated cropped hand/forearm inset: the rope-wrapped fist located to the RIGHT of the separate stay-rope coil and ABOVE the hooded lantern, beneath the “After the choice” head study. Remove that inset's cropped sleeve, arm, hand, wrapping rope and its short dangling rope end. Fill precisely that vacated area with quiet plain warm ivory matching the adjacent sheet ground.\n\nKEEP the separate coiled rope labelled “Stay rope” completely intact, including its own trailing rope end. Keep the hooded lantern below/right completely intact. Do not move, resize, redraw or replace anything. Leave all three full-body views, both head studies, every other piece of equipment, exact title/name and ALL text untouched. Do not add any new detail to fill the empty space; empty ivory is intended.\n\nPreserve the existing character identity, matte directional oil paint, colours, lighting, anatomy and layout everywhere else. No restyling or global smoothing. No new props, scenery, locations, ground patches, paint swatches or palette strip. The correction is solely removal of the redundant isolated rope-wrapped fist.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-new-character-preview",
+            "requestedAt": "2026-09-23T19:56:24.0286936Z",
+            "status": "REVISE",
+            "prompt": "Create ONE character-only oil-painted reference folio, 1536 × 1024, landscape 3:2, on quiet warm ivory. Exact heading at UPPER LEFT: “PRINCESS DAZIEL”. Exact subtitle: “One Night's Mercy”.\n\nThe two supplied paintings establish PAINT HANDLING and restrained colour/value relationships ONLY. Do not depict their geography. Work in the Canadian Group of Seven / A. Y. Jackson observational oil tradition: large connected colour/value masses before texture, broad directional bristle strokes that describe form, selective substantial impasto, quieter connecting passages. The face must be as simply and materially painted as the coat. No smooth photorealistic face, glossy eyes, CGI modelling, uniform bevel-lit chips, golden flakes or cinematic rim lights.\n\nPrincess Daziel is an adult human woman, a grieving widow whose controlled fury turns into a difficult choice to save lives. She is physically capable, exhausted from six hours holding a lever in rain. Her explicit clothes are a quarry coat over hunting leathers and practical boots. She wears NO CROWN. For unspecified identity details, use a restrained consistent interpretation: early-thirties adult appearance, spare athletic build, warm light-medium olive skin, dark eyes and strong eyebrows, dark brown hair pulled into a practical short low braid, a firm unembellished face. No scars or magic marks invented. Heavy slate-grey thigh-length quarry coat with plain collar, muted brown hunting leathers beneath, dark work-worn boots, bare hands. Damp darkened cloth at shoulders/cuffs and a few loose wet hair strands convey story state without depicting rain or place. No royal jewellery, red cloak, sword, bow, quiver or plate armour.\n\nShow THREE useful unclipped isolated full-body views: front three-quarter with coat partly open enough to show hunting leathers; side view with the same coat and proportions; rear three-quarter showing the practical braid and coat cut. Natural firm stance, no fashion posing. Arrange two compact head studies showing “Resolve” and “After the choice”: same woman, first controlled anger, second weary and grave, without a smile. Include selected isolated personal-tool details below: a small coil of hemp stay rope, one hand/forearm with rope loosely wrapped as in the source, a plain blunt iron release maul with wooden handle, and a compact hooded metal lantern. A folded plain writ can be tucked partly inside her coat, not displayed with invented readable text. Equipment must remain modest relative to the body; no huge weapon-like hammer. No quarry machinery or dragon.\n\nUse soft cool-grey dawn daylight, broad muted light planes and connected charcoal/umber shadows. Light reveals wool, leather, skin, iron and rope without flooding or outlining every plane. Skin uses subdued earth/rose planes, coat blue-grey/charcoal, leather umber. No lantern glow or theatrical contrast.\n\nConcise labels only: “Front”, “Side”, “Rear”, “Resolve”, “After the choice”, “Stay rope”, “Release maul”, “Hooded lantern”. No decorative prose. Absolutely NO locations, vignettes, landscape, background scene, floor/terrain patches, rocks, grass, trees, cast-shadow ground, other people, dragons, PAINT SWATCHES, colour chips or palette strips. All studies are cleanly isolated on ivory.",
+            "references": [
+              {
+                "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+                "role": "Source-story slate/charcoal/limestone palette and directional oil brushwork ONLY, not geography or dramatic lightning; all scenery excluded",
+                "inspected": true,
+                "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "House-style broad connected paint masses, selective substantial bristle/impasto and diffuse natural light ONLY; all geography excluded",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "preflight": "Full source read. Cover contains no character identity. Current interpretation recorded. Both actual generation reference pixels inspected. No scenery/swatches. Eight previews only, no full rollout.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-0ee03bb1-78c8-458d-8417-9ad3421ebe60.png",
+            "returnedSha256": "9b42b02592be165bc3e6f96e020135a234bea4bd8b71b9c72b2d86972024f616",
+            "completedAt": "2026-09-23T16:03:17.682483-04:00",
+            "selected": false,
+            "review": [
+              "Producing agent read full finished source through line433 and inspected candidate actual saved pixels; three unclipped isolated views keep same adult face, low dark braid, build, coat/leathers and boots. No crown, unsupported weapons or magical features.",
+              "Source-supported quarry coat, hunting leathers, ordinary rope, blunt release maul, hooded lantern and partly tucked writ represented. Grey/brown choices and face/age/complexion remain labelled visual interpretation, not canon.",
+              "Large connected paint planes and visible directional bristle/impasto across face, hair, cloth and tools; quiet charcoal/umber shadows, no cinematic rim or CGI gloss.",
+              "Exact Princess Daziel name and One Night's Mercy title readable at upper left. Useful concise labels only; no location, terrain, scenery, other figures, paint swatches or palette strip.",
+              "Rope-hand detail is a general equipment study, not a reconstruction of the lever scene; source specifically wraps left forearm during that event.",
+              "Root and independent reviewer: isolated rope-wrapped hand appears right-handed while the specific source event wraps left forearm. Remove redundant inset to avoid misleading anatomy/scene implication; separate rope coil suffices."
+            ],
+            "previouslySelected": true
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-localized-removal",
+            "requestedAt": "2026-09-23T20:08:31.5477469Z",
+            "status": "PASS-for-user-preview",
+            "prompt": "Edit this Princess Daziel reference sheet with ONE tiny localized removal.\n\nRemove the ONLY isolated cropped hand/forearm inset: the rope-wrapped fist located to the RIGHT of the separate stay-rope coil and ABOVE the hooded lantern, beneath the “After the choice” head study. Remove that inset's cropped sleeve, arm, hand, wrapping rope and its short dangling rope end. Fill precisely that vacated area with quiet plain warm ivory matching the adjacent sheet ground.\n\nKEEP the separate coiled rope labelled “Stay rope” completely intact, including its own trailing rope end. Keep the hooded lantern below/right completely intact. Do not move, resize, redraw or replace anything. Leave all three full-body views, both head studies, every other piece of equipment, exact title/name and ALL text untouched. Do not add any new detail to fill the empty space; empty ivory is intended.\n\nPreserve the existing character identity, matte directional oil paint, colours, lighting, anatomy and layout everywhere else. No restyling or global smoothing. No new props, scenery, locations, ground patches, paint swatches or palette strip. The correction is solely removal of the redundant isolated rope-wrapped fist.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-0ee03bb1-78c8-458d-8417-9ad3421ebe60.png",
+                "role": "Immutable selected character-only sheet edit target; remove only rope-wrapped hand inset while preserving separate coil and every other pixel/design",
+                "inspected": true,
+                "sha256": "9b42b02592be165bc3e6f96e020135a234bea4bd8b71b9c72b2d86972024f616"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f13b95c2-bc8d-4b08-9daf-37db1ff575df.png",
+            "returnedSha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05",
+            "completedAt": "2026-09-23T20:11:39.638761+00:00",
+            "selected": true,
+            "review": [
+              "Actual saved candidate pixels inspected: isolated rope-wrapped hand, sleeve and its rope removed entirely and replaced with quiet ivory; separate stay-rope coil and own trailing end retained.",
+              "Three consistent unclipped full-body views, two head studies, exact Princess Daziel name and One Night's Mercy title, release maul and hooded lantern preserved. The middle Side caption dropped during the edit; the side view remains self-evident and root accepted it.",
+              "Source-compatible bareheaded adult, grey quarry coat, brown hunting leathers and boots; restrained facial/colour choices remain explicitly noncanonical interpretation. Matte broad oil paint and subdued natural light retained.",
+              "No location, background scenery, floor/terrain patches, other figures, palette strip or paint swatches. Root/reviewer hand-side finding is resolved by removal.",
+              "Root independent actual-pixel PASS: wrapped hand gone; remaining gear, three views and exact name/story title preserved; character-only, no swatches. No further generation needed."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-0ee03bb1-78c8-458d-8417-9ad3421ebe60.png",
+            "role": "Immutable selected character-only sheet edit target; remove only rope-wrapped hand inset while preserving separate coil and every other pixel/design",
+            "inspected": true,
+            "sha256": "9b42b02592be165bc3e6f96e020135a234bea4bd8b71b9c72b2d86972024f616"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:11:39.646569+00:00",
+        "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+        "outputSha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-0ee03bb1-78c8-458d-8417-9ad3421ebe60.png",
+            "role": "Immutable selected character-only sheet edit target; remove only rope-wrapped hand inset while preserving separate coil and every other pixel/design",
+            "inspected": true,
+            "sha256": "9b42b02592be165bc3e6f96e020135a234bea4bd8b71b9c72b2d86972024f616"
+          }
+        ],
+        "evidence": [
+          "Actual saved candidate pixels inspected: isolated rope-wrapped hand, sleeve and its rope removed entirely and replaced with quiet ivory; separate stay-rope coil and own trailing end retained.",
+          "Three consistent unclipped full-body views, two head studies, exact Princess Daziel name and One Night's Mercy title, release maul and hooded lantern preserved. The middle Side caption dropped during the edit; the side view remains self-evident and root accepted it.",
+          "Source-compatible bareheaded adult, grey quarry coat, brown hunting leathers and boots; restrained facial/colour choices remain explicitly noncanonical interpretation. Matte broad oil paint and subdued natural light retained.",
+          "No location, background scenery, floor/terrain patches, other figures, palette strip or paint swatches. Root/reviewer hand-side finding is resolved by removal.",
+          "Root independent actual-pixel PASS: wrapped hand gone; remaining gear, three views and exact name/story title preserved; character-only, no swatches. No further generation needed.",
+          "Independent reviewer passed character-only source appearance and gear, requesting removal of a misleading rope-wrapped-hand inset. Root inspected final correction2 and verified complete inset removal while the rope coil, maul, lantern, three unclipped views, head studies, name/title and painted treatment remain. No locations or swatches.",
+          "Independent reviewer cast_batch_2 inspected final correction2: PASS. Problematic hand inset removed; supported clothes and equipment, three complete views, painted faces and readable identification remain; no scenery or swatches."
+        ],
+        "reviewers": [
+          "producing-agent",
+          "root-independent"
+        ],
+        "scope": "Eight-preview example ready for user acceptance only; full collection remains unapproved; not publication.",
+        "specificationSha256": "6df723386e663780bfebb20009353914ae28883b57590f3b4edf2abe2b9a37e2",
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "cast_batch_2",
+          "evidence": "Independent reviewer cast_batch_2 inspected final correction2: PASS. Problematic hand inset removed; supported clothes and equipment, three complete views, painted faces and readable identification remain; no scenery or swatches."
+        },
+        "userApproval": "Pending actual user feedback on eight exact character-only, swatch-free previews."
+      },
+      "id": "daziel",
+      "name": "Princess Daziel",
+      "role": "central antagonist who chooses rescue",
+      "selectionEvidence": [
+        {
+          "quote": "Princess Daziel stood at the firing lever",
+          "line": 135,
+          "explanation": "Commands the lethal apparatus."
+        },
+        {
+          "quote": "Then Daziel let the stay rope run from her left hand and lunged for the dump pin.",
+          "line": 355,
+          "explanation": "Her choice turns execution into rescue."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Not specified",
+        "markings": "Not specified",
+        "materials": "Skin and hair; no supernatural surface specified",
+        "clothing": "No crown; quarry coat over hunting leathers, boots",
+        "equipment": "Hooded lantern, stay rope, release maul and royal writ; boar spear belongs in separate quarry rig only",
+        "scale": "Ordinary human scale",
+        "movement": "Holds lever for six wet hours; braces rope, lunges and strikes release pins",
+        "distinctiveFeatures": "Rain-soaked, exhausted; grief and controlled anger, not ornamental royalty"
+      },
+      "visualInterpretation": [
+        "Adult woman with practical tied-back dark hair and spare athletic build; source leaves face/age/complexion/build unspecified. This preview fixes an early-thirties appearance, light-medium olive skin, dark eyes/strong brows and short low dark-brown braid as noncanonical interpretation.",
+        "Heavy thigh-length slate-grey quarry coat over muted brown hunting leathers and dark practical boots; no crown, red cloak, jewellery or invented weapon.",
+        "Three isolated views and resolve/weary head studies; selected rope, modest release maul and hooded lantern details; no setting, rig, dragon or paint swatches."
+      ],
+      "explicitCanon": [
+        "Story-local facts, not shared-universe promotion: adult princess and widow; no crown; quarry coat over hunting leathers and boots (line135).",
+        "Left forearm wrapped with stay rope while right hand remains on lever (line299); she later uses release maul (lines367–371), keeps writ inside coat (line409), holds lamp (line429)."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "save-that-dragon/daziel",
+        "links": [],
+        "evidence": "No supported cross-story identity identified; matching names alone do not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Historical initial rendering sample, superseded by later Group of Seven direction; not attached",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Heavy raised palette-knife slabs, broken colour, scraped edges, warm ivory ground, cool shadows; retain bold painted masses including faces."
+        },
+        {
+          "path": "stories/save-that-dragon/title-image.jpg",
+          "role": "existing cover; object design and atmosphere only",
+          "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a",
+          "inspected": true,
+          "notes": "No characters depicted; dark storm, wet iron trigger housing, key, rope and sealed writ."
+        },
+        {
+          "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+          "role": "Inspected source-story palette and brushwork only; geography excluded from character sheet",
+          "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+          "inspected": true,
+          "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
+        },
+        {
+          "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "role": "Inspected source-story material/paint context; not attached, no forge setting or warm firelight transfer",
+          "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "inspected": true,
+          "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        }
+      ],
+      "output": "stories/save-that-dragon/art/characters/daziel.png",
+      "assessmentEvidence": "Producing agent independently read full finished story lines1–433, including ending, and inspected source cover, quarry landscape and forge interior. No relevant named universe identity entries found. Source hash unchanged.",
+      "presentationPreferences": {
+        "userVerbatim": [
+          "characters references that don;t place locations. and just focus on character.",
+          "remove the pain swap they arent needed."
+        ],
+        "interpreted": "Character-only isolated views; no locations/scenery/terrain; no paint swatches, colour chips or palette strips."
+      },
+      "outputSha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
+    },
+    {
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      },
+      "id": "hovan-setch",
+      "name": "Hovan Setch",
+      "role": "substantial supporting rescuer and dragon observer",
+      "selectionEvidence": [
+        {
+          "quote": "Hovan Setch stood with them, rain running off his cropped hair.",
+          "line": 13,
+          "explanation": "Named rescuer with explicit hair."
+        },
+        {
+          "quote": "I can show pain, space, danger, wait, and approach.",
+          "line": 163,
+          "explanation": "Limited communication mediates rescue."
+        },
+        {
+          "quote": "Hovan drove the upper pin out.",
+          "line": 381,
+          "explanation": "Completes release."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Not specified",
+        "markings": "Forearm burn blistered at sleeve end after fire",
+        "materials": "Skin and hair; no supernatural surface specified",
+        "clothing": "Practical wet traveling work clothes, boots and belt; one sleeve burned",
+        "equipment": "Belt-tied oil lamp, hemp rope, oil flask, later maul and forearm bandage",
+        "scale": "Ordinary human scale",
+        "movement": "Low careful hand signals; broad retreat motion; carts and tools moved by hand",
+        "distinctiveFeatures": "Cropped hair; burned forearm in final state"
+      },
+      "visualInterpretation": [
+        "Young-to-middle adult with cropped brown hair, lean build, olive-brown coat. Exact age, coloring and build unspecified."
+      ],
+      "states": [
+        {
+          "name": "before fire",
+          "details": "Intact sleeve and forearm."
+        },
+        {
+          "name": "after rescue",
+          "details": "Burned sleeve, blistered forearm then ordinary cloth bandage; no magical healing."
+        }
+      ],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "save-that-dragon/hovan-setch",
+        "links": [],
+        "evidence": "No supported cross-story identity identified; matching names alone do not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet treatment only; subject, red cloak and equipment are not templates",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Heavy raised palette-knife slabs, broken colour, scraped edges, warm ivory ground, cool shadows; retain bold painted masses including faces."
+        },
+        {
+          "path": "stories/save-that-dragon/title-image.jpg",
+          "role": "existing cover; object design and atmosphere only",
+          "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a",
+          "inspected": true,
+          "notes": "No characters depicted; dark storm, wet iron trigger housing, key, rope and sealed writ."
+        },
+        {
+          "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+          "role": "story landscape palette and vignette geography",
+          "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+          "inspected": true,
+          "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
+        },
+        {
+          "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "role": "forge interior palette and paint handling",
+          "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "inspected": true,
+          "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        }
+      ],
+      "output": "stories/save-that-dragon/art/characters/hovan-setch.png"
+    },
+    {
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      },
+      "id": "queen-urrava",
+      "name": "Queen Urrava",
+      "role": "substantial supporting instigator and political antagonist",
+      "selectionEvidence": [
+        {
+          "quote": "Queen Urrava was on both knees in the scale and soot",
+          "line": 13,
+          "explanation": "Her plea initiates the story."
+        },
+        {
+          "quote": "I kept the only proof that the command was mine.",
+          "line": 69,
+          "explanation": "Concealed authorization drives conflict."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs",
+        "lifeStage": "Adult mother of adult Princess Daziel",
+        "proportions": "Not specified",
+        "markings": "Not specified",
+        "materials": "Skin and hair; no supernatural surface specified",
+        "clothing": "Royal clothing unspecified; rings explicitly removed",
+        "equipment": "Royal writ conveyed by guard; no weapon established",
+        "scale": "Ordinary human scale",
+        "movement": "Kneels palm-down on forge floor then rises without assistance",
+        "distinctiveFeatures": "Bare hands without rings; controlled bearing broken by bargaining"
+      },
+      "visualInterpretation": [
+        "Mature woman with dignified features, dark hair touched with gray; heavy dark traveling gown and weather cloak. No crown is described, so omit one.",
+        "Avoid red-cloak template and excessive jewelry; bare fingers are important."
+      ],
+      "explicitCanon": [],
+      "states": [],
+      "recurrence": {
+        "identityKey": "save-that-dragon/queen-urrava",
+        "links": [],
+        "evidence": "No supported cross-story identity identified; matching names alone do not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet treatment only; subject, red cloak and equipment are not templates",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Heavy raised palette-knife slabs, broken colour, scraped edges, warm ivory ground, cool shadows; retain bold painted masses including faces."
+        },
+        {
+          "path": "stories/save-that-dragon/title-image.jpg",
+          "role": "existing cover; object design and atmosphere only",
+          "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a",
+          "inspected": true,
+          "notes": "No characters depicted; dark storm, wet iron trigger housing, key, rope and sealed writ."
+        },
+        {
+          "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+          "role": "story landscape palette and vignette geography",
+          "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
+          "inspected": true,
+          "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
+        },
+        {
+          "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+          "role": "forge interior palette and paint handling",
+          "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
+          "inspected": true,
+          "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        }
+      ],
+      "output": "stories/save-that-dragon/art/characters/queen-urrava.png"
+    }
+  ]
+}
