@@ -52,6 +52,44 @@
       "reader": "stories/a-busy-year-for-dying.html",
       "images": [
         {
+          "id": "glessa",
+          "title": "Glessa",
+          "alt": "Sculpted Impasto character reference sheet of Glessa for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/characters/glessa.png",
+          "sourceSha256": "cd18590bdd5effeee2c5c0956a8849601d54ed264abb6c9c281df3ed8730ac0b",
+          "full": {
+            "path": "characters/a-busy-year-for-dying/glessa-cd18590bdd5effee.webp",
+            "sha256": "b0db6003b3c915ba2bb923cf25cf48847c0846a60df4ba71a81e23e3ed999649",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-busy-year-for-dying/glessa-cd18590bdd5effee-thumb.webp",
+            "sha256": "db92a28ab706d73a1221b63eb7cb105cde973e0200f0fbc28f598d8128934b6f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "hasken",
+          "title": "Hasken",
+          "alt": "Sculpted Impasto character reference sheet of Hasken for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/characters/hasken.png",
+          "sourceSha256": "17dbdcd9bcb98f8c8f37855a7c936366e482e9a28f8d5a392815a1c5da480470",
+          "full": {
+            "path": "characters/a-busy-year-for-dying/hasken-17dbdcd9bcb98f8c.webp",
+            "sha256": "c5f8f8d4276b284138bfcfc5e349dec5ad9820a3cc9b04a54ee5269543140ae6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-busy-year-for-dying/hasken-17dbdcd9bcb98f8c-thumb.webp",
+            "sha256": "0e27c80ce5985bc4bd489511fd21d0b7cc2b19df3e5f2be834c640373ab182a6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "kelro",
           "title": "Kelro",
           "alt": "Sculpted Impasto character reference sheet of Kelro for A Busy Year for Dying",
@@ -66,6 +104,25 @@
           "thumbnail": {
             "path": "characters/a-busy-year-for-dying/kelro-e69a240f90b20da5-thumb.webp",
             "sha256": "7bac51517abf017d5c59a07937030e0d5095e6e6733b1efa61c6bf2a809ec480",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ruldo",
+          "title": "Ruldo",
+          "alt": "Sculpted Impasto character reference sheet of Ruldo for A Busy Year for Dying",
+          "source": "stories/a-busy-year-for-dying/art/characters/ruldo.png",
+          "sourceSha256": "a8950d2fc248a57f1da8887bc99d0afef69ff2731e97747786ce917049bcfcdb",
+          "full": {
+            "path": "characters/a-busy-year-for-dying/ruldo-a8950d2fc248a57f.webp",
+            "sha256": "3bbdf97bcff3facfa2aeaca270d297e3bc3af4f6f377b8c4a007da9e04003766",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-busy-year-for-dying/ruldo-a8950d2fc248a57f-thumb.webp",
+            "sha256": "5594eb867fdba8b34dc2b29762448d0ba9f630a6d14f525285a4bda0b6399540",
             "width": 480,
             "height": 320
           }
@@ -95,6 +152,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "philip",
+          "title": "Philip",
+          "alt": "Sculpted Impasto character reference sheet of Philip for A Curse Before Breakfast",
+          "source": "stories/a-curse-before-breakfast/art/characters/philip.png",
+          "sourceSha256": "b13313acefeb80719266ff56652b44668c05b4e882e2343bb08e29a508790125",
+          "full": {
+            "path": "characters/a-curse-before-breakfast/philip-b13313acefeb8071.webp",
+            "sha256": "52a9d5ada4abef131b8009cf668f431d46a8ae99b6019b55238812a7033fc331",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-curse-before-breakfast/philip-b13313acefeb8071-thumb.webp",
+            "sha256": "df38359cf81fa17eede4b83c6b1cbbe0c5634d5f21d32f84114a525f990fab9e",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -103,6 +179,25 @@
       "title": "A Darkness Written Under Skin",
       "reader": "stories/a-darkness-written-under-skin.html",
       "images": [
+        {
+          "id": "brennet-sloane",
+          "title": "Brennet Sloane",
+          "alt": "Sculpted Impasto character reference sheet of Brennet Sloane for A Darkness Written Under Skin",
+          "source": "stories/a-darkness-written-under-skin/art/characters/brennet-sloane.png",
+          "sourceSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513",
+          "full": {
+            "path": "characters/a-darkness-written-under-skin/brennet-sloane-0cb33a5f4626b133.webp",
+            "sha256": "185b50a26767039a962e5c201d14f2082c4d1be0a3e02db2b3ef7ac849388f6e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-darkness-written-under-skin/brennet-sloane-0cb33a5f4626b133-thumb.webp",
+            "sha256": "158fc0cfefd66833ca32519c974fd6a64003fee1253709b695ab761356c7d934",
+            "width": 480,
+            "height": 320
+          }
+        },
         {
           "id": "caldra",
           "title": "Caldra",
@@ -208,6 +303,89 @@
           "thumbnail": {
             "path": "characters/save-that-dragon/daziel-be84d86aa52181de-thumb.webp",
             "sha256": "097f001bfe941a8296b50bf06cadd592953afedf24611891bd6743bb548e0a15",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "drone-down",
+      "title": "The City Keeps Score",
+      "reader": "stories/drone-down.html",
+      "images": [
+        {
+          "id": "kero",
+          "title": "Kero",
+          "alt": "Sculpted Impasto character reference sheet of Kero for The City Keeps Score",
+          "source": "stories/drone-down/art/characters/kero.png",
+          "sourceSha256": "97027a55a756c775eadae6eb2664e535680c2c00d7e8d11c26765cbdd37466bb",
+          "full": {
+            "path": "characters/drone-down/kero-97027a55a756c775.webp",
+            "sha256": "adc67af789bd54f630f3d5b0d2badfcdcf18305f764129704c2a9bf6cda0d3d6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/drone-down/kero-97027a55a756c775-thumb.webp",
+            "sha256": "74f5297f0993eeeba90796bb779a8e89fcf52d486bf038d7c2d26e038761c16d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "morrowick",
+          "title": "Morrowick",
+          "alt": "Sculpted Impasto character reference sheet of Morrowick for The City Keeps Score",
+          "source": "stories/drone-down/art/characters/morrowick.png",
+          "sourceSha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
+          "full": {
+            "path": "characters/drone-down/morrowick-ae3f3cfc1e886574.webp",
+            "sha256": "82689013b3b33ca3194b8b9689a94d41aeaec9d8593bc138061fe280198f2525",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/drone-down/morrowick-ae3f3cfc1e886574-thumb.webp",
+            "sha256": "764347b898fee66e46c7f40def335229781b249148b1b5090249be1f9064ef73",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "raska",
+          "title": "Raska",
+          "alt": "Sculpted Impasto character reference sheet of Raska for The City Keeps Score",
+          "source": "stories/drone-down/art/characters/raska.png",
+          "sourceSha256": "7e93829ada768eded68e917d14588ed5ee272ba6a99c0a1fc3a255dd8bc3adf1",
+          "full": {
+            "path": "characters/drone-down/raska-7e93829ada768ede.webp",
+            "sha256": "09a0e28d493522267f73f6cbbd4b83cbf89bd23d28983e12795c1889c9e3e258",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/drone-down/raska-7e93829ada768ede-thumb.webp",
+            "sha256": "6ac24173e0e8f7be62418525e16e9480f46192aced033fd74773758a312e349d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sevi",
+          "title": "Sevi",
+          "alt": "Sculpted Impasto character reference sheet of Sevi for The City Keeps Score",
+          "source": "stories/drone-down/art/characters/sevi.png",
+          "sourceSha256": "efe8b5b7f30da58e8b72acb799590aa01d12b25d413cd90a53190b15b8ebbd2e",
+          "full": {
+            "path": "characters/drone-down/sevi-efe8b5b7f30da58e.webp",
+            "sha256": "5381385798dda9783b2440b18f6c6f8af2d51b569b718b8f36a5389a156a9446",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/drone-down/sevi-efe8b5b7f30da58e-thumb.webp",
+            "sha256": "13652145a52d3a7b28fb313f25d2053fb65533becb96f1ddcd66c982eed33a8a",
             "width": 480,
             "height": 320
           }
