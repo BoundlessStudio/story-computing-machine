@@ -100,19 +100,26 @@
           "id": "02-lodge-table-and-flagstones",
           "title": "Lodge table and flagstones",
           "alt": "Lodge table and flagstones — oil interior study for A Beginner of Considerable Age",
-          "source": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
-          "sourceSha256": "372afd3b9213f3ec42b10b4d462406a987da59520678a8be43fbbcf5a23f5ee8",
+          "source": "pages/interior-replacements/a-beginner-of-considerable-age/02-lodge-table-and-flagstones.png",
+          "sourceSha256": "3b64a905c26a5f16e83e09d2950360e7c240a21865e7be756b7fa191461331eb",
           "full": {
-            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-372afd3b9213f3ec.webp",
-            "sha256": "78cf8fbbe0d1740a565a6968e445b6b6b5111dbf74d39093883b1c1b3f0deecb",
+            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-3b64a905c26a5f16.webp",
+            "sha256": "5f72e25bf6b010076c9075ea7037d443855a77c82f778f8da8ac4fc37dc03c8c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-372afd3b9213f3ec-thumb.webp",
-            "sha256": "69d88f0154bbd25ae15284d22e37739da3df8e39ab99a7f2e70c58ab8c004e0f",
+            "path": "interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones-3b64a905c26a5f16-thumb.webp",
+            "sha256": "8592deeb47f717ada802000e82ccf1fe3a0ff31e1a1eec9671e0308ad00dfefd",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
+            "originalSha256": "372afd3b9213f3ec42b10b4d462406a987da59520678a8be43fbbcf5a23f5ee8",
+            "correction": "Use the same single rectangular gate as the other views, with one open knee-high square feeding hatch in the run wall. Restore the cup beside the table leg with its handle uppermost.",
+            "prompt": "Use case: precise-object-edit. Produce one edited 1536x1024 landscape oil painting (3:2).\nInput 1 is the edit target, the low table-and-flagstones study. Input 2 is supporting same-room architecture reference, showing the lodge hall and rectangular rear gateway. Input 3 is a supporting close reference for the same SINGLE iron gate with lifting latch, seen from the reverse direction.\nPreserve input 1's low floor-level framing, large rough trestle table and its two benches, torn wicker picnic hamper, heavily painted uneven flagstones, rough stone walls and timber roof, slanted golden sunlight and ochre-violet color masses. Retain the expressive Group of Seven-inspired oil treatment, broad visible confident brushwork and natural painting rhythm. No people or animals.\nMake only these source-required corrections:\n1. At the back of the hall replace the double arched iron gateway with ONE tall rectangular stone/timber opening under a straight horizontal lintel. It has exactly ONE rectangular iron gate leaf, hinged at the right jamb and swung inward into the hall close to the right side wall, with a narrow person-sized gap behind the bars. No left gate leaf and no arch. The single leaf is full-width, capable of closing the whole opening; include the simple lifting latch on its hall-facing free edge. Keep the run visible through the clear opening.\n2. Beyond that gateway, the outside kennel run is enclosed by high stone walls. Replace the two barred arched holes in its outer wall with exactly ONE small square feeding hatch set low, roughly knee-high to an adult. Its aperture is clear, open and bright with daylight, with no bars or door blocking it; small enough that a hound-sized creature could squeeze through but an adult could not. The rest of that run wall is continuous stone. The visual route from under the table across clear floor, through the gate, across the run, to the one low square hatch must read clearly. Retain only modest woodland glimpses above the high wall.\n3. Place the small silver festival cup on its side directly against the far table leg/trestle foot beside the torn hamper. Rotate the cup so its curved loop handle is unmistakably UPPERMOST, arching above the cup body, not resting on the flagstones. Preserve the cup's simple polished period metal, no lettering.\nKeep the empty room, table/bench/hamper proportions and surface brushwork. Do not invent kennel stalls, extra openings, extra gates, figures, modern objects, text, heading, signature, watermark, collage or photorealism.",
+            "generator": "image_gen"
           }
         },
         {
@@ -10830,6 +10837,11 @@
       "source": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
       "sourceSha256": "9aa998108f17b00c2386b9f86b567230e6c3078eacd33ad24fe638bc0dfcba12",
       "reason": "Use the accepted room arrangement: place the screen between garden doorway and bed, with its near edge just beyond a true bedside table reachable from the pillows."
+    },
+    {
+      "source": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
+      "sourceSha256": "372afd3b9213f3ec42b10b4d462406a987da59520678a8be43fbbcf5a23f5ee8",
+      "reason": "Use the same single rectangular gate as the other views, with one open knee-high square feeding hatch in the run wall. Restore the cup beside the table leg with its handle uppermost."
     }
   ]
 }
