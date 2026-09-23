@@ -2527,38 +2527,52 @@
           "id": "01-lodge-firing-booth",
           "title": "Lodge firing booth",
           "alt": "Lodge firing booth — oil interior study for No Need to Worry",
-          "source": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
-          "sourceSha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+          "source": "pages/interior-replacements/no-need-to-worry/01-lodge-firing-booth.png",
+          "sourceSha256": "9072aa596b0649e4bce5820518381444b4816d707cd6bf315403e64b189fa673",
           "full": {
-            "path": "interiors/no-need-to-worry/01-lodge-firing-booth-4eb6a00140792315.webp",
-            "sha256": "10dcca2f09b69d9bec8a4938b00c883ee610a8a09bfc2ed526fb1b88438686a5",
+            "path": "interiors/no-need-to-worry/01-lodge-firing-booth-9072aa596b0649e4.webp",
+            "sha256": "6af1b8f18475ff40f26316d8d12a22845419e0abf19b3caad5b01705ad2d22e3",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/no-need-to-worry/01-lodge-firing-booth-4eb6a00140792315-thumb.webp",
-            "sha256": "ef54c329b15c80d2b57973620af4de0d4a09a22935787af15dc5a478196baa63",
+            "path": "interiors/no-need-to-worry/01-lodge-firing-booth-9072aa596b0649e4-thumb.webp",
+            "sha256": "4b8a51d52f32a17259adf8db400a6db29662e6179dec107a34a484991092c63b",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+            "originalSha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+            "correction": "Coplanar gun and observation openings into one concrete outer yard; multiple barrels; continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post.",
+            "prompt": "Use case: precise-object-edit.\nEdit image 1, the existing empty lodge firing-booth oil painting. Deliver one landscape painting, 3:2, 1536x1024. Retain its expressive Group of Seven-inspired oil technique: broad angular shaped color masses, visible confident impasto brushwork, warm ochre timber, smoky indigo shadows, amber light, heavy brick lower wall, dark olive metal gun, worn operator chair and scuffed floor. Keep the room empty, with no people or violence.\nCorrect the room's action geography. Recompose the front wall as ONE STRAIGHT COPLANAR WALL across the scene. In that SAME wall put the broad unglazed gun opening on the LEFT and the glazed rectangular observation window immediately to its RIGHT, divided by one substantial timber upright. Their top and bottom edges follow the SAME perspective vanishing line; no room corner between these two openings. Show the gun extending through the LEFT opening toward the same yard visible through the right window. Preserve a right-side timber door and solid brick protection beneath the observation window.\nCorrect the cannon to a clearly MULTIPLE-BARREL assembly: several separate parallel dark metal tubes bound into one compact barrel cluster, recognizable as multiple tubes along their length, not a single long field-cannon tube. Preserve the heavy swiveling base, gun controls, operator chair, console and half-peeled orange near the controls. Place an intercom button box and a pair of red/black ear defenders on the upright immediately to the RIGHT of the observation window, beside the door.\nReplace every lake, distant mountain, forest vista and scattered road barrier outside with a coherent enclosed concrete OUTER YARD at dusk under floodlights. Both left gun opening and right observation glass look into this SAME concrete yard. Across its back stands one continuous substantial dividing masonry wall, tall enough to hide the adjacent pen, with one open gateway visible to the left side of the window view. No people or contents of the pen are visible. In the yard in front of that wall stands a squat heavy rectangular stone trophy plinth with a FLAT EMPTY TOP, large enough for a crouching person to shelter behind. Put a slim intercom speaker post immediately BEHIND that plinth relative to the booth: the plinth blocks the direct gun line to the post's base; the upper speaker and small red call lamp project above the plinth. Show these fixed landmarks through the observation window. Floodlight posts cast angular pools of light across the concrete. An ordinary dark dusk sky may be a narrow strip above the wall; no lake, water, mountains or scenic wooded backdrop.\nKeep the original's useful deep interior perspective and painterly texture, but the two openings MUST share one front-wall plane. No labels, text, heading, signature, watermark, collage, technical diagram, photographs or 3D rendering. Image 1 is the edit target and primary style/material reference; its unsupported exterior and perpendicular-window architecture must be replaced as specified.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-booth-observation-window",
           "title": "Booth observation window",
           "alt": "Booth observation window — oil interior study for No Need to Worry",
-          "source": "stories/no-need-to-worry/art/interiors/02-booth-observation-window.png",
-          "sourceSha256": "e2332ed17ce7eda94cf1206ceb88576ae6babd37c24b51bbbf2c4c2348ece9ca",
+          "source": "pages/interior-replacements/no-need-to-worry/02-booth-observation-window.png",
+          "sourceSha256": "cc8cf2c2d489fa6504bfc13abb19cb362d51b5fa59411020f71740b5905722d7",
           "full": {
-            "path": "interiors/no-need-to-worry/02-booth-observation-window-e2332ed17ce7eda9.webp",
-            "sha256": "eeebcedcae273f7280e941bd53b4c592910fcb30926b39ceb01772d8e9404f5f",
+            "path": "interiors/no-need-to-worry/02-booth-observation-window-cc8cf2c2d489fa65.webp",
+            "sha256": "01e68c95f51a2f949616b9285df5eba645c42a646e988d369e3ace70c5ecec62",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/no-need-to-worry/02-booth-observation-window-e2332ed17ce7eda9-thumb.webp",
-            "sha256": "af8d2cc5c9a54332fc2fbf5267fee3cc5476e95df5954e9d494032b2ec9bd399",
+            "path": "interiors/no-need-to-worry/02-booth-observation-window-cc8cf2c2d489fa65-thumb.webp",
+            "sha256": "7f7060f4c9ad899170b32636bc23e8b4c40b8e43ac58d9a6ac0c1c6abe038891",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/no-need-to-worry/art/interiors/02-booth-observation-window.png",
+            "originalSha256": "e2332ed17ce7eda94cf1206ceb88576ae6babd37c24b51bbbf2c4c2348ece9ca",
+            "correction": "Observation window overlooking the same concrete yard, continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post as corrected first view.",
+            "prompt": "Use case: precise-object-edit.\nCreate the corrected paired close view of the EMPTY lodge firing booth. Landscape 3:2, 1536x1024. Image 1 is the original observation-window painting: retain its close interior composition, large observation glass, orange and controls at lower left, cropped operator chair, right-side wooden door, warm ochre brick and timber and expressive broad oil brushwork. Image 2 is the ACCEPTED corrected wide view of this SAME room: use it as the authoritative architecture, props, barrel-cluster and exterior-yard continuity reference. The lake and mountains in image 1 are errors and must disappear.\nShow this same front wall with the same two-pane observation window, using a slightly closer oblique angle which lets the wall's left-side gateway be seen at the left end of the exterior view while the stone plinth and speaker remain to its right. The gun opening is immediately LEFT of the observation window in the SAME FLAT FRONT WALL, never around a corner; it may be partially cropped at the far left. If the cannon is visible, its barrel cluster has several separate parallel tubes, aimed outward into the common yard exactly as image 2; do not introduce a single long cannon barrel. Keep the image 2 front-wall alignment and substantial brick wall below the glass.\nThrough the observation window, show the same enclosed concrete outer yard, the same substantial continuous dividing masonry wall tall enough to hide the pen, its single open gateway toward the LEFT, the same floodlight posts, and the same squat rectangular stone trophy plinth toward the RIGHT. The plinth has a flat empty top. The speaker post stands immediately BEHIND the plinth relative to the booth, its base sheltered by the stone block and its upper speaker and small red call lamp visible above it. Keep their relative positions and scale consistent with image 2; this is a new angle on the same yard, not a new arrangement. No people or visible contents of the pen. A narrow dusk sky above the wall is enough; no water, lake, mountains, conifers or scenic panorama.\nPreserve the half-peeled orange on the controls, black/red ear defenders and intercom box on the upright at the RIGHT of the observation window beside the wooden door, as established by image 2. The doorway remains closed. Preserve rich amber light, smoky slate blue shadows, rough confident shaped impasto marks, worn furnishings and painterly floor; do not smooth into photorealism or 3D. Empty interior, no figures, text, labels, heading, watermark or collage.",
+            "generator": "image_gen"
           }
         },
         {
@@ -10866,6 +10880,16 @@
       "source": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
       "sourceSha256": "4fd126978367a34edbf32bd1b05f6b24f25f79b4944e1df7e5d8458eb2bd1d89",
       "reason": "Depict the exact small separated harvest: one petal exposed and one sealed reserve, one filament packet, three stamens (or four halves and one reserve), and six individual duskbell petals before dosing."
+    },
+    {
+      "source": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+      "sourceSha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+      "reason": "Coplanar gun and observation openings into one concrete outer yard; multiple barrels; continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post."
+    },
+    {
+      "source": "stories/no-need-to-worry/art/interiors/02-booth-observation-window.png",
+      "sourceSha256": "e2332ed17ce7eda94cf1206ceb88576ae6babd37c24b51bbbf2c4c2348ece9ca",
+      "reason": "Observation window overlooking the same concrete yard, continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post as corrected first view."
     }
   ]
 }
