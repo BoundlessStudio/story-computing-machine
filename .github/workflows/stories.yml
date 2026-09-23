@@ -20,6 +20,13 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v7
+        with:
+          # Build from publication snapshots without downloading production artwork.
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /pages/
+            !/pages/interior-replacements/
+            !/pages/landscape-replacements/
 
       - uses: actions/setup-python@v6
         with:
