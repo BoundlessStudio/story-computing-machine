@@ -8256,19 +8256,26 @@
           "id": "03-the-quince-tart-and-shortened-candles",
           "title": "The quince tart and shortened candles",
           "alt": "The quince tart and shortened candles — oil interior study for The Seventh Night",
-          "source": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
-          "sourceSha256": "f23bfd44370d22a34826e9a2b83a15942653d979d0a8b5a686ee208f40683d2d",
+          "source": "pages/interior-replacements/the-seventh-night/03-the-quince-tart-and-shortened-candles.png",
+          "sourceSha256": "32e7c121519858c66a13f8a56ca416b6e44a5f4a343db1d4317eb17a09d7ddcc",
           "full": {
-            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-f23bfd44370d22a3.webp",
-            "sha256": "49bd4eec9a5adf71f6c3484bf25694e919aceec2644cb17a42f6283cf846269d",
+            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-32e7c121519858c6.webp",
+            "sha256": "555c3526ca985cef0d121e2fefe68b9369d1e1b251b46b8f03707c4b14e9f740",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-f23bfd44370d22a3-thumb.webp",
-            "sha256": "3bc6588ec378f0d8defa728e165cf869d209dda06e0760ecb8624d2b24203eed",
+            "path": "interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles-32e7c121519858c6-thumb.webp",
+            "sha256": "4d490fd8a74e04ef4889652bfe6677a4508ffaeace16a7232f6656a58e6efbef",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
+            "originalSha256": "f23bfd44370d22a34826e9a2b83a15942653d979d0a8b5a686ee208f40683d2d",
+            "correction": "Reuse the narrow leather gauntlet design and gold leaf cuff from image 02, in the existing foreground position.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the empty private dining room at the quince-tart course. Image 2 is a close visual reference ONLY for the exact same returned leather gauntlet earlier during supper.\nReplace the rigid segmented armor gauntlet at the front-right corner of image 1's table with the SAME soft leather gauntlet from image 2. It is dark green-black supple leather, with stitched fingers, flexible wrinkles, a narrow wrist and a flared leather cuff decorated with one small gold LEAF motif. It has no metal finger plates, riveted armor bands, hard knuckle caps or rigid forearm shell. Match image 2's leather construction and leaf, while keeping image 1's scale and placement: a single empty glove lying naturally on the tabletop with fingers pointing inward toward the left and the cuff near the front-right edge. The leather cuff may softly rest at the edge but must not look like a hollow steel vambrace.\nPreserve every other element of image 1: partially cut quince tart and two dessert portions, the two wine cups, shortened candles, empty silver cover with the folded broadside tucked beneath, green cloak on chair, fireplace, dark timber, purple night through the leaded window and warm expressive Group of Seven-inspired oil brushwork. Do not move or cover the broadside and do not import bread, roast course, taller candles, extra papers or the viewpoint from image 2.\nNo people, added text, labels, captions, signature, watermark, border, collage, photorealistic or 3D rendering. One 3:2 landscape image, 1536x1024 preferred. Only correct the gauntlet's material and design.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11610,6 +11617,11 @@
       "source": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
       "sourceSha256": "a73d98c68b43bf45176c67ba659eafa37674052c924e03476c99ab4d3e8d8aca",
       "reason": "Move the covered trough to the opposite wall, preserving the crack and bricked spill. Treat omission of the living slime actors as permissible in these empty studies."
+    },
+    {
+      "source": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
+      "sourceSha256": "f23bfd44370d22a34826e9a2b83a15942653d979d0a8b5a686ee208f40683d2d",
+      "reason": "Reuse the narrow leather gauntlet design and gold leaf cuff from image 02, in the existing foreground position."
     }
   ]
 }
