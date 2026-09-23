@@ -2492,19 +2492,26 @@
           "id": "03-seats-beneath-the-dead-clock",
           "title": "Seats beneath the dead clock",
           "alt": "Seats beneath the dead clock — oil interior study for Lightning Carries One",
-          "source": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
-          "sourceSha256": "f2aa82db8225fb04f59b88250458aa7573fa22033cd698dc59b659c1e3ad13bd",
+          "source": "pages/interior-replacements/lightning-carries-one/03-seats-beneath-the-dead-clock.png",
+          "sourceSha256": "b332d846e283a5fecb75e19ff4823ddf4994399732ac41e7f8cba85e0de0ce11",
           "full": {
-            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-f2aa82db8225fb04.webp",
-            "sha256": "24986957c5dd1d320a4354f28e15806c823347d9e326154e6aade86567ed6480",
+            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-b332d846e283a5fe.webp",
+            "sha256": "a6f6547e7bc20872089bb7547ac677fe1ccfc1601d55e379744c8ae3820d6363",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-f2aa82db8225fb04-thumb.webp",
-            "sha256": "7eca6b6c324e30befa107f525975d4483d81ae6294fe46851cbced503d12df11",
+            "path": "interiors/lightning-carries-one/03-seats-beneath-the-dead-clock-b332d846e283a5fe-thumb.webp",
+            "sha256": "ae4bb97b72ea0049d801529cf53bb99568cb9bbac5d59b40a5305728cbc4a43b",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
+            "originalSha256": "f2aa82db8225fb04f59b88250458aa7573fa22033cd698dc59b659c1e3ad13bd",
+            "correction": "Match the clock hands to one chosen fixed time in both views; no prose-prescribed exact time is required.",
+            "prompt": "Use case: precise-object-edit. Correct only the positions of the stopped clock hands in image 1. Preserve 3:2 landscape, preferably 1536x1024.\nImage 1 is the exact edit target: the closer low view of empty orange, gray and ochre molded plastic seats beneath a large wall clock. Keep this composition, viewpoint, clock size and location, weathered pale dial and black rim, all seats, walls, beams, broken skylights, windows, unlit hanging lamps, distant loading doors, river view, weeds and yellow floor line unchanged.\nImage 2 is a continuity reference ONLY for the frozen hand positions on this same dead clock. Use its dial-relative arrangement: the long minute hand points straight toward the twelve o'clock tick, and the shorter hour hand points diagonally upward-left toward the eleven o'clock tick. Match that pair of positions on image 1's foreshortened clock face. Remove image 1's current hand that points horizontally right and the hand that points downward-left, and replace them with the two upper-pointing hands. Make the two hands visibly distinct, meeting at the same center pin. Keep the dial's oblique perspective and weathered paint. No downward-pointing or right-pointing residual hand, extra hands, movement blur or illuminated clock. It is an inoperative clock fixed at the same time in both paintings.\nChange nothing outside the clock face. Preserve the existing expressive Group of Seven-inspired thick oil brushwork, violet-gray and amber masses, chipped texture and quiet empty terminal mood. Do not change the painting toward photo or 3D. No people, newly legible text, captions, signatures, watermark or collage.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11790,6 +11797,11 @@
       "source": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
       "sourceSha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
       "reason": "Darken the distant cave and remove the large apparent daylight opening; retain lamp illumination, crown ledge and black basin."
+    },
+    {
+      "source": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
+      "sourceSha256": "f2aa82db8225fb04f59b88250458aa7573fa22033cd698dc59b659c1e3ad13bd",
+      "reason": "Match the clock hands to one chosen fixed time in both views; no prose-prescribed exact time is required."
     }
   ]
 }
