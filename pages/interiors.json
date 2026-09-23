@@ -1637,19 +1637,26 @@
           "id": "01-the-flight-room",
           "title": "The flight room",
           "alt": "The flight room — oil interior study for By Wing and Welcome",
-          "source": "stories/the-bat-at-the-door/art/interiors/01-the-flight-room.png",
-          "sourceSha256": "d13435ef9aa1354da36501a695aba0efa81dd8483d3c739196efa00572289c28",
+          "source": "pages/interior-replacements/the-bat-at-the-door/01-the-flight-room.png",
+          "sourceSha256": "9aa71b5067ca5584dff5dda31098103a20a22837bd837a802b749ae9f1f72c07",
           "full": {
-            "path": "interiors/the-bat-at-the-door/01-the-flight-room-d13435ef9aa1354d.webp",
-            "sha256": "610a621752bb5905f02ec135a1e3c80e3d35da071f7e777ea5d9c76e33074b1e",
+            "path": "interiors/the-bat-at-the-door/01-the-flight-room-9aa71b5067ca5584.webp",
+            "sha256": "4e0055d67f62ff1b89967cdee8c6a9d0848569c1f1aba0fafb0451b0042e17b9",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-bat-at-the-door/01-the-flight-room-d13435ef9aa1354d-thumb.webp",
-            "sha256": "aa36821c6192781bb93b13bd349122f3e9284a2c9c138e111be870a7617f32dd",
+            "path": "interiors/the-bat-at-the-door/01-the-flight-room-9aa71b5067ca5584-thumb.webp",
+            "sha256": "84aa27e5021cdff8f504df6fbdb853c826effe40620c14051cc6cba8a9a72f39",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-bat-at-the-door/art/interiors/01-the-flight-room.png",
+            "originalSha256": "d13435ef9aa1354da36501a695aba0efa81dd8483d3c739196efa00572289c28",
+            "correction": "Indicate six choice cells, including the green YES cell, and a distinct alphabet-strip band. Keep any painted writing abstract at the existing scale; readable labels and individual alphabet letters are not required.",
+            "prompt": "Use case: precise-object-edit. Change only the markings inside the SIX colored choice cells on the small tilted communication board at center-right. Keep the six-cell TWO-ROWS-OF-THREE layout, green upper-left cell, separate alphabet strip, board/cart size, angle and location exactly unchanged.\nRemove all large pictograms from the six cells: no eye, house, hand, person or water-drop icons. In their place use SMALL dark block-letter word marks for these choices, left to right: upper row YES, NO, STOP; lower row WATER, PAIN, ALONE. At this distant oil-painted scale the words may be loose abstract short strokes rather than perfectly readable typography. What matters is six separate choice cells with understated lettering, and the clearly separate long alphabet strip beneath. No extra choices.\nPreserve every other pixel-level feature and the expressive thick oil style: empty mesh flight room, perches, daylit high window and blind, yellow tape, recovery box and warming equipment, table and bins. No people, animals, new props, headings, captions, watermark or border. One 3:2 landscape, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11802,6 +11809,11 @@
       "source": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
       "sourceSha256": "f2aa82db8225fb04f59b88250458aa7573fa22033cd698dc59b659c1e3ad13bd",
       "reason": "Match the clock hands to one chosen fixed time in both views; no prose-prescribed exact time is required."
+    },
+    {
+      "source": "stories/the-bat-at-the-door/art/interiors/01-the-flight-room.png",
+      "sourceSha256": "d13435ef9aa1354da36501a695aba0efa81dd8483d3c739196efa00572289c28",
+      "reason": "Indicate six choice cells, including the green YES cell, and a distinct alphabet-strip band. Keep any painted writing abstract at the existing scale; readable labels and individual alphabet letters are not required."
     }
   ]
 }
