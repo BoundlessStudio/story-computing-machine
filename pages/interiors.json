@@ -7583,19 +7583,26 @@
           "id": "02-the-service-gallery",
           "title": "The service gallery",
           "alt": "The service gallery — oil interior study for The Ordinary Slime",
-          "source": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
-          "sourceSha256": "a73d98c68b43bf45176c67ba659eafa37674052c924e03476c99ab4d3e8d8aca",
+          "source": "pages/interior-replacements/the-ordinary-slime/02-the-service-gallery.png",
+          "sourceSha256": "9f28afb34145898b6a6830a13df8315f747d1178e849facb08e458eb664ca5cb",
           "full": {
-            "path": "interiors/the-ordinary-slime/02-the-service-gallery-a73d98c68b43bf45.webp",
-            "sha256": "3acd8eb0a0fff9191d468eff444934d177cc6ab51be97b81e4dda761c6463205",
+            "path": "interiors/the-ordinary-slime/02-the-service-gallery-9f28afb34145898b.webp",
+            "sha256": "e7e4d02616dae1f1c1fb7e04902b14a2cdd4ef13902f873005babf2531945da7",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-ordinary-slime/02-the-service-gallery-a73d98c68b43bf45-thumb.webp",
-            "sha256": "7574e5b5d3af63b1a9448914ecdc8bbed4d5d8736a5c17b4e020335f950dec5a",
+            "path": "interiors/the-ordinary-slime/02-the-service-gallery-9f28afb34145898b-thumb.webp",
+            "sha256": "d51a8677f74dac0a3daf0316ef64b2aad04a30162ea26ec8d5da54960edb6f4a",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
+            "originalSha256": "a73d98c68b43bf45176c67ba659eafa37674052c924e03476c99ab4d3e8d8aca",
+            "correction": "Move the covered trough to the opposite wall, preserving the crack and bricked spill. Treat omission of the living slime actors as permissible in these empty studies.",
+            "prompt": "Use case: precise-object-edit with room continuity. Image 1 is the edit target, the empty service gallery during the storm. Image 2 is the same gallery later, supplied ONLY as a reference for the covered ash-salt trough's location on the opposite wall and its heavy construction. Do not import the later repair state.\nIn image 1, remove the long covered trough from directly beneath the large crack on the LEFT reservoir wall. Leave that cracked wall exposed down to the wet stone floor, with its low drain/run unobstructed. Preserve the forked crack and the entirely BRICKED-SHUT old spill beside it. Do not brace the crack or open the spill.\nPlace the covered ash-salt trough along the OPPOSITE RIGHT-HAND wall, across the clear walking space from the reservoir crack, as established in image 2. It should run along the right edge of image 1's room in the foreground, with its near end allowed to continue out of frame. Use the thick masonry body and heavy dark hinged covers with iron straps of image 2. Keep the trough CLOSED. A slight wider framing to show this right wall is allowed, but preserve the original viewpoint and recognizable architecture. Leave the rainy staircase at back right accessible behind the trough; do not put it across the stairs or central walkway.\nRetain image 1's gate wheel and chain, central stone support, yellow lamp, rain on stair treads, wet flagstones, original bright storm light and broad expressive Group of Seven-inspired oil brushwork. No people or living slime figures. No trestle table, record book, bowl, wooden brace, running open spill, or other late-scene props from image 2. No text, labels, watermark, border, collage, photographic or 3D surfaces. One 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11598,6 +11605,11 @@
       "source": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
       "sourceSha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
       "reason": "Retain the corridor, wheel and palette, but depict seven distinct thick ribs across the barrier."
+    },
+    {
+      "source": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
+      "sourceSha256": "a73d98c68b43bf45176c67ba659eafa37674052c924e03476c99ab4d3e8d8aca",
+      "reason": "Move the covered trough to the opposite wall, preserving the crack and bricked spill. Treat omission of the living slime actors as permissible in these empty studies."
     }
   ]
 }
