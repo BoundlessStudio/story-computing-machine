@@ -10652,19 +10652,26 @@
           "id": "03-the-sluice-gallery",
           "title": "The sluice gallery",
           "alt": "The sluice gallery — oil interior study for When Death Knelt",
-          "source": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
-          "sourceSha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20",
+          "source": "pages/interior-replacements/deaths-patron/03-the-sluice-gallery.png",
+          "sourceSha256": "9aa57ca491460f22e8008c49776830d26ba6a4b7baa1c837619e2f2b6ef0abd5",
           "full": {
-            "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3.webp",
-            "sha256": "2073c2000e7097057ed92f0f9e0ce1fe4a968e4eb739e63886f9255c69f42c52",
+            "path": "interiors/deaths-patron/03-the-sluice-gallery-9aa57ca491460f22.webp",
+            "sha256": "775e02e0c7fb5dc5da603fd16c48bbe5d36e902bbb12a6deecf416ee73b54d17",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/deaths-patron/03-the-sluice-gallery-4f024433c63474f3-thumb.webp",
-            "sha256": "df0323b71079e2dc61eea5c01fa4348db36fee15d06d154dac57514e8c52d6be",
+            "path": "interiors/deaths-patron/03-the-sluice-gallery-9aa57ca491460f22-thumb.webp",
+            "sha256": "50b749c9194c9b495e99ae9b65d861eeaf8cae9ae20daab85c50185a1a60a584",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+            "originalSha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20",
+            "correction": "Leave the relevant service arch clear, or visibly show a removable/open gate large enough for the counterweight.",
+            "prompt": "Use case: localized architectural correction. Edit this empty stone sluice-gallery oil painting. Preserve its 3:2 landscape composition, blue-gray stone, amber lamps, broad confident Group of Seven-inspired brushwork and thick paint texture. 1536x1024 preferred.\nThe arched SERVICE OPENINGS along the RIGHT wall must allow the suspended heavy iron counterweight to swing outward through an arch. Remove the short black guardrail assemblies that currently obstruct these right-wall arch apertures: every horizontal rail and its supporting post inside each right-side arched opening is absent. The broad foreground right arch and the following arches beside the hanging counterweight become clear, open apertures from stone sill to arch crown, wide enough for that iron weight. Keep the stone arch piers and sills intact. This is an open service gallery, with empty clearance through its service arches.\nKeep the far END wall arch's distant railing and all EXTERIOR bridge railings; those are outside the required swing path. Preserve all enormous gate wheels and threaded stems on the left, the suspended cylindrical counterweight and its shaft, ceiling block and rope, small wheel mounted on the right masonry pier, lamps, stone vault, wet floor, drains, tailrace water and bridge beyond. Do not add machinery, barriers, people, creatures, labels, text overlay, watermark or signature. No photographic or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11442,6 +11449,11 @@
       "source": "stories/an-ordinary-education/art/interiors/03-language-classroom.png",
       "sourceSha256": "71c2a08c60b54bcab5632e32450e33525b938ea81a2b135a3593e66858ce5549",
       "reason": "Keep classroom/headphones but replace the window panorama with non-specific light or a restrained ordinary school-neighborhood view."
+    },
+    {
+      "source": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+      "sourceSha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20",
+      "reason": "Leave the relevant service arch clear, or visibly show a removable/open gate large enough for the counterweight."
     }
   ]
 }
