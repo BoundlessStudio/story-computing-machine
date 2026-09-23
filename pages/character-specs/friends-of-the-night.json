@@ -420,8 +420,9 @@
         "Age and gender unresolved in LOCKED entry."
       ],
       "visualInterpretation": [
-        "Androgynous adult appearance without declaring gender; practical brown-grey coat and cap, weathered hands; no elaborate armour.",
-        "Views emphasize keeper tools and wary crouch; compact feeding-stone vignette."
+        "Androgynous adult, short dark-brown hair and weathered angular face, plain brown-gray hip-length coat, charcoal trousers, cloth cap and worn boots are restrained non-canon casting choices.",
+        "Character-only standing and cautious crouched studies, face and personal keeper tools; no environmental vignette or scale person.",
+        "Opening sunset motivates subdued ochre reflected warmth and connected green-violet shadow; no generic daylight or cinematic rim."
       ],
       "states": [],
       "recurrence": {
@@ -453,15 +454,104 @@
         }
       ],
       "output": "stories/friends-of-the-night/art/characters/tavik.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory paper ground, no ruled border. Large exact name and smaller exact story title at upper left. Two useful complete unclipped body studies, one larger face study and a few separated source-supported equipment/feature details, concise labels and generous calm space. No environment, scene, vignette, ground, floor, terrain patch, vegetation, landscape, buildings, paint swatches, palette strip, decorative prose, second identity or signature.\nPaint treatment: Canadian Group of Seven oil painting influence, broad connected matte colour/value masses sculpting form, broad directional bristle strokes, selective thick impasto and scraped edges beside QUIET linking passages. Equally bold painted faces and hands; facial planes made of deliberate paint rather than photoreal eyes beneath texture. Materials differentiated through stroke handling. NO uniform bevelled chips, CGI, glossy eyes, cinematic rim, polished digital portrait, anime, microdetail or texture overlay.\nImage1 is Leora's reviewed sheet: concrete oil paint and ivory folio STYLE ONLY, do NOT copy her female identity, face, hairstyle, dress, markings or labels. Image2 is this story's painting: use PAINT/PALETTE/LIGHT only; exclude ALL scenery from the sheet.\nExact heading \"Tavik\"; exact story title \"Friends of the Night\". One consistent ordinary human adult, dusk-keeper of six years, gender not established: restrained androgynous casting, short dark-brown hair, angular weathered face, unadorned practical brown-gray hip-length coat, muted gray shirt, charcoal trousers and worn boots, simple cloth cap. These unspecified details are modest art interpretation. No beard emphasis, armour, magic markings, jewellery or elaborate hero costume.\nSource moment is opening sunset feeding round; soft fading ochre reflected warmth against broad deep muted green-violet shadows, keep shadows connected, no spotlight/rim. Maintain this dim sunset study lighting throughout. Full front three-quarter standing pose holds a thin hazel switch, knife sheathed at belt; side three-quarter cautious crouch wearing same clothes and cap, empty hands, complete boots and limbs visible. No animals, tiny people, food tableau, stone or actual plants; the single hand-held switch is keeper equipment. Larger bust without cap shows listening face; small cap and sheathed plain knife study. Concise labels \"Keeper\", \"Cautious\", \"Listening\", \"Cap and knife\". One adult identity only; keep exactly two hands per full figure.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:50:20.649550+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory paper ground, no ruled border. Large exact name and smaller exact story title at upper left. Two useful complete unclipped body studies, one larger face study and a few separated source-supported equipment/feature details, concise labels and generous calm space. No environment, scene, vignette, ground, floor, terrain patch, vegetation, landscape, buildings, paint swatches, palette strip, decorative prose, second identity or signature.\nPaint treatment: Canadian Group of Seven oil painting influence, broad connected matte colour/value masses sculpting form, broad directional bristle strokes, selective thick impasto and scraped edges beside QUIET linking passages. Equally bold painted faces and hands; facial planes made of deliberate paint rather than photoreal eyes beneath texture. Materials differentiated through stroke handling. NO uniform bevelled chips, CGI, glossy eyes, cinematic rim, polished digital portrait, anime, microdetail or texture overlay.\nImage1 is Leora's reviewed sheet: concrete oil paint and ivory folio STYLE ONLY, do NOT copy her female identity, face, hairstyle, dress, markings or labels. Image2 is this story's painting: use PAINT/PALETTE/LIGHT only; exclude ALL scenery from the sheet.\nExact heading \"Tavik\"; exact story title \"Friends of the Night\". One consistent ordinary human adult, dusk-keeper of six years, gender not established: restrained androgynous casting, short dark-brown hair, angular weathered face, unadorned practical brown-gray hip-length coat, muted gray shirt, charcoal trousers and worn boots, simple cloth cap. These unspecified details are modest art interpretation. No beard emphasis, armour, magic markings, jewellery or elaborate hero costume.\nSource moment is opening sunset feeding round; soft fading ochre reflected warmth against broad deep muted green-violet shadows, keep shadows connected, no spotlight/rim. Maintain this dim sunset study lighting throughout. Full front three-quarter standing pose holds a thin hazel switch, knife sheathed at belt; side three-quarter cautious crouch wearing same clothes and cap, empty hands, complete boots and limbs visible. No animals, tiny people, food tableau, stone or actual plants; the single hand-held switch is keeper equipment. Larger bust without cap shows listening face; small cap and sheathed plain knife study. Concise labels \"Keeper\", \"Cautious\", \"Listening\", \"Cap and knife\". One adult identity only; keep exactly two hands per full figure.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted matte oil character-sheet paint and ivory spacing only; no identity, costume or markings",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+                "role": "motivated opening sunset colour, broad paint masses and shadow values only; no landscape",
+                "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source read; gender unresolved and source-supported coat/cap/knife/hazel switch retained without invented markings.",
+              "Actual Leora sheet and sunset painting inspected; style/light-only roles preclude transferring identity or scenery.",
+              "Two complete poses fit landscape ivory; no vignettes or swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-0ede9c41-ba31-49ce-8f0a-ff31906e1cbd.png",
+            "outputSha256": "b19e0b8deecb3054f915bc8937f30fc912392449df61e8ba332f26424011c3be",
+            "finishedAt": "2026-09-23T21:52:54.533574+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected native full-resolution output: readable Tavik/Friends of the Night, two unclipped adult poses, listening portrait, cap and sheathed knife; same androgynous identity and practical clothing throughout.",
+              "Two hands/two legs in each complete view; source-supported keeper switch, coat, cap and knife; no invented power, armour, second person, animals, environment or swatches.",
+              "Subdued sunset ochre and connected charcoal-violet masses remain matte; broad raised strokes across face, hands, cloth and tools; quiet ivory spacing."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted matte oil character-sheet paint and ivory spacing only; no identity, costume or markings",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+            "role": "motivated opening sunset colour, broad paint masses and shadow values only; no landscape",
+            "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-0ede9c41-ba31-49ce-8f0a-ff31906e1cbd.png"
       },
       "validation": {
-        "status": "pending"
-      }
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+        "outputSha256": "b19e0b8deecb3054f915bc8937f30fc912392449df61e8ba332f26424011c3be",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted matte oil character-sheet paint and ivory spacing only; no identity, costume or markings",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+            "role": "motivated opening sunset colour, broad paint masses and shadow values only; no landscape",
+            "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected native full-resolution output: readable Tavik/Friends of the Night, two unclipped adult poses, listening portrait, cap and sheathed knife; same androgynous identity and practical clothing throughout.",
+          "Two hands/two legs in each complete view; source-supported keeper switch, coat, cap and knife; no invented power, armour, second person, animals, environment or swatches.",
+          "Subdued sunset ochre and connected charcoal-violet masses remain matte; broad raised strokes across face, hands, cloth and tools; quiet ivory spacing."
+        ],
+        "specificationSha256": "62a44c8f1bcbd24b7c416b61b1c21c4a3e0afdfafe387f9c79843cd8fd8ec010"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "b19e0b8deecb3054f915bc8937f30fc912392449df61e8ba332f26424011c3be"
     },
     {
       "id": "denek",
@@ -497,8 +587,9 @@
         "Knows drive paths; cuts Crooktail free; helps reopen den."
       ],
       "visualInterpretation": [
-        "Older weathered face, greying hair and plain earth-toned work layers; these are restrained casting choices, not fixed canon.",
-        "Knife, spear and shovel studies kept distinct; no invented insignia."
+        "Lean older man with cropped gray hair, restrained stubble and weathered brow; plain olive-brown tunic and sleeveless dark waistcoat are non-canon art choices.",
+        "Character-only aftermath full and rear studies with shovel, face and isolated spear/belt-knife details; temporary thumb nick separate.",
+        "Aftermath cool pale morning sky motivates soft gray-blue shadows and muted earth cloth; no bright rims or scenery."
       ],
       "states": [],
       "recurrence": {
@@ -530,15 +621,104 @@
         }
       ],
       "output": "stories/friends-of-the-night/art/characters/denek.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory paper ground, no ruled border. Large exact name and smaller exact story title at upper left. Two useful complete unclipped body studies, one larger face study and a few separated source-supported equipment/feature details, concise labels and generous calm space. No environment, scene, vignette, ground, floor, terrain patch, vegetation, landscape, buildings, paint swatches, palette strip, decorative prose, second identity or signature.\nPaint treatment: Canadian Group of Seven oil painting influence, broad connected matte colour/value masses sculpting form, broad directional bristle strokes, selective thick impasto and scraped edges beside QUIET linking passages. Equally bold painted faces and hands; facial planes made of deliberate paint rather than photoreal eyes beneath texture. Materials differentiated through stroke handling. NO uniform bevelled chips, CGI, glossy eyes, cinematic rim, polished digital portrait, anime, microdetail or texture overlay.\nImage1 is Leora's reviewed sheet: concrete oil paint and ivory folio STYLE ONLY, do NOT copy her female identity, face, hairstyle, dress, markings or labels. Image2 is this story's painting: use PAINT/PALETTE/LIGHT only; exclude ALL scenery from the sheet.\nExact heading \"Denek\"; exact story title \"Friends of the Night\". One consistent old human man, former keeper. Restrained casting: lean wiry body, balding cropped gray hair, modest gray stubble, weathered face with heavy brow. Plain worn olive-brown work tunic, darker sleeveless waistcoat, coarse muted brown trousers, dark boots, simple belt and sheathed belt knife; unspecified costume/face are art interpretation. No armour, insignia, cloak or ornate tools.\nUse source AFTERMATH morning: cool soft pale sky light, low-contrast muted gray-blue shadows and earthy umber/olive cloth with sparse quiet warm reflected planes, no bright rim. Full front three-quarter holding a plain wooden-handled iron shovel, body/sleeves relaxed; full rear three-quarter with same clothing and shovel resting upright in hand, all tool tips inside frame. Both clear isolated figures on blank ivory WITHOUT any soil, floor or ground shadow. Large old face portrait labelled \"Former keeper\". Small separated equipment study: plain wooden-shaft spear with iron head and simple sheathed knife, labelled \"Spear and belt knife\"; concise large figure label \"Aftermath\". Small hand close-up labelled \"Rope-cutting nick\" showing a tiny healed red nick across thumb, non-graphic; no hand injury elsewhere. Exactly same adult identity and aging in all views. Material-specific broad matte strokes for cloth, wood, iron and skin.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:50:21.657723+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory paper ground, no ruled border. Large exact name and smaller exact story title at upper left. Two useful complete unclipped body studies, one larger face study and a few separated source-supported equipment/feature details, concise labels and generous calm space. No environment, scene, vignette, ground, floor, terrain patch, vegetation, landscape, buildings, paint swatches, palette strip, decorative prose, second identity or signature.\nPaint treatment: Canadian Group of Seven oil painting influence, broad connected matte colour/value masses sculpting form, broad directional bristle strokes, selective thick impasto and scraped edges beside QUIET linking passages. Equally bold painted faces and hands; facial planes made of deliberate paint rather than photoreal eyes beneath texture. Materials differentiated through stroke handling. NO uniform bevelled chips, CGI, glossy eyes, cinematic rim, polished digital portrait, anime, microdetail or texture overlay.\nImage1 is Leora's reviewed sheet: concrete oil paint and ivory folio STYLE ONLY, do NOT copy her female identity, face, hairstyle, dress, markings or labels. Image2 is this story's painting: use PAINT/PALETTE/LIGHT only; exclude ALL scenery from the sheet.\nExact heading \"Denek\"; exact story title \"Friends of the Night\". One consistent old human man, former keeper. Restrained casting: lean wiry body, balding cropped gray hair, modest gray stubble, weathered face with heavy brow. Plain worn olive-brown work tunic, darker sleeveless waistcoat, coarse muted brown trousers, dark boots, simple belt and sheathed belt knife; unspecified costume/face are art interpretation. No armour, insignia, cloak or ornate tools.\nUse source AFTERMATH morning: cool soft pale sky light, low-contrast muted gray-blue shadows and earthy umber/olive cloth with sparse quiet warm reflected planes, no bright rim. Full front three-quarter holding a plain wooden-handled iron shovel, body/sleeves relaxed; full rear three-quarter with same clothing and shovel resting upright in hand, all tool tips inside frame. Both clear isolated figures on blank ivory WITHOUT any soil, floor or ground shadow. Large old face portrait labelled \"Former keeper\". Small separated equipment study: plain wooden-shaft spear with iron head and simple sheathed knife, labelled \"Spear and belt knife\"; concise large figure label \"Aftermath\". Small hand close-up labelled \"Rope-cutting nick\" showing a tiny healed red nick across thumb, non-graphic; no hand injury elsewhere. Exactly same adult identity and aging in all views. Material-specific broad matte strokes for cloth, wood, iron and skin.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted matte oil paint and character-only ivory sheet spacing; no identity or clothes",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "aftermath pale daylight gray-blue and muted earth palette/paint only; no scenery",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full story read: old man, belt knife, spear, shovel and temporary nicked thumb are supported; no rank insignia.",
+              "Actual Leora sheet and aftermath landscape inspected; use paint and light only.",
+              "Complete shovel/spear tips fit sheet; no vegetation, ground, second character or swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4c9cff21-ed2c-4808-be8d-b9cb0de85de1.png",
+            "outputSha256": "4bfe71fddd31a046dca8adf7ff482257a03a440a2ca9be8cf137ccbb6635ec53",
+            "finishedAt": "2026-09-23T21:52:55.664376+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected native complete output: Denek/Friends of the Night and all concise labels readable; full front and rear body/shovel views fit, distinct older man consistent with portrait.",
+              "Ordinary two-arm/two-leg human anatomy; plain cloth, belt knife, spear and aftermath shovel; isolated minor thumb nick is non-graphic and source-supported.",
+              "Matte muted earth cloth and broad connected dark values, painted facial planes and substantial selected impasto; quiet ivory with no scenery, terrain, plants, second character or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted matte oil paint and character-only ivory sheet spacing; no identity or clothes",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "aftermath pale daylight gray-blue and muted earth palette/paint only; no scenery",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4c9cff21-ed2c-4808-be8d-b9cb0de85de1.png"
       },
       "validation": {
-        "status": "pending"
-      }
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+        "outputSha256": "4bfe71fddd31a046dca8adf7ff482257a03a440a2ca9be8cf137ccbb6635ec53",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted matte oil paint and character-only ivory sheet spacing; no identity or clothes",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "aftermath pale daylight gray-blue and muted earth palette/paint only; no scenery",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected native complete output: Denek/Friends of the Night and all concise labels readable; full front and rear body/shovel views fit, distinct older man consistent with portrait.",
+          "Ordinary two-arm/two-leg human anatomy; plain cloth, belt knife, spear and aftermath shovel; isolated minor thumb nick is non-graphic and source-supported.",
+          "Matte muted earth cloth and broad connected dark values, painted facial planes and substantial selected impasto; quiet ivory with no scenery, terrain, plants, second character or swatches."
+        ],
+        "specificationSha256": "d04c19b03abaa4b5b53f91098708eac1bf1211b03ed84d83d109614dbb3fa3cb"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "4bfe71fddd31a046dca8adf7ff482257a03a440a2ca9be8cf137ccbb6635ec53"
     },
     {
       "id": "torma",
@@ -574,8 +754,9 @@
         "Protects diminished captives and orders archers to hold."
       ],
       "visualInterpretation": [
-        "Practical dark leather coat, bound dark hair and adult face are restrained choices.",
-        "Fort-wicket vignette, directing and listening expressions."
+        "Adult woman with bound dark hair and square weathered attentive face; restrained non-canon casting. Source boiled-leather coat rendered dark umber, practical wool trousers/boots chosen, no invented weapon or badge.",
+        "Character-only directing and rear/listening full views, face and boiled-leather detail; white negotiation signal shield isolated, no wicket vignette.",
+        "Source night negotiation under shielded lamp motivates subdued local warm face/leather planes within connected dark umber/indigo values."
       ],
       "states": [],
       "recurrence": {
@@ -607,15 +788,104 @@
         }
       ],
       "output": "stories/friends-of-the-night/art/characters/torma.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Use case: stylized-concept. ONE character-only reference sheet, exactly1536x1024 landscape3:2, quiet warm ivory support and generous clean margins. Exact character name then exact story title upperleft; concise legible labels. Same individual only, two useful full-body views and face/equipment studies, unclipped all silhouettes. No location, vignette, scenery, ground/floor/terrain patch, vegetation, backdrop, buildings, paint swatches/palette strip or decorative text.\nCanadian Group of Seven-influenced oil: broad CONNECTED matte value/colour masses, broad directional bristle passages, substantial SELECTIVE impasto, scraped broken edges and quiet linking passages. Faces equally painted, do not render photoreal eyes under texture. No uniform bevelled chip texture, 3D, gloss, anime, photorealism, cinematic rim or orange-blue default. Keep dark passages linked rather than bright outlines around every part.\nImage1 is reviewed Leora sheet: PAINT and IVORY FORMAT ONLY, not its identity, sex, clothing, markings or poses. Image2 is same-story night painting: borrow deep indigo/charcoal muted masses/paint ONLY; never any environment.\nExact heading \"Torma\", title \"Friends of the Night\". Adult human woman, Shalegate commander. Source explicit BOILED-LEATHER COAT: thick stiff dark umber leather protective coat with simple overlap fastenings and no badge, muted charcoal wool trousers and plain boots as understated interpretation. Practical bound dark hair, squared weathered adult face, attentive steady gaze; no jewellery, crown, cloak, fantasy armour or invented weapon. One full front three-quarter figure in a restrained open-handed directing gesture; one full rear three-quarter turned to listen, identical coat, hair tied close. Large bust labelled \"Listening\". Close material study of thick coat overlap labelled \"Boiled leather\". Optional small plain white-painted wooden shield labelled \"White signal shield\"; no emblem or landscape.\nLIGHTING is the source night negotiation under a SHIELDED lamp: restrained very local subdued warm light catches a few face and leather planes, most coat remains connected charcoal/umber shadow with quiet cool reflected blue. No visible lamp, no flame, no big castshadow and no bright rim. Dark matte subjects readable against warm ivory; do not make daylight figures. Labels \"Directing\" and \"Rear\". All limbs and boots visible, exactly two arms/hands per figure.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:54:14.623245+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference sheet, exactly1536x1024 landscape3:2, quiet warm ivory support and generous clean margins. Exact character name then exact story title upperleft; concise legible labels. Same individual only, two useful full-body views and face/equipment studies, unclipped all silhouettes. No location, vignette, scenery, ground/floor/terrain patch, vegetation, backdrop, buildings, paint swatches/palette strip or decorative text.\nCanadian Group of Seven-influenced oil: broad CONNECTED matte value/colour masses, broad directional bristle passages, substantial SELECTIVE impasto, scraped broken edges and quiet linking passages. Faces equally painted, do not render photoreal eyes under texture. No uniform bevelled chip texture, 3D, gloss, anime, photorealism, cinematic rim or orange-blue default. Keep dark passages linked rather than bright outlines around every part.\nImage1 is reviewed Leora sheet: PAINT and IVORY FORMAT ONLY, not its identity, sex, clothing, markings or poses. Image2 is same-story night painting: borrow deep indigo/charcoal muted masses/paint ONLY; never any environment.\nExact heading \"Torma\", title \"Friends of the Night\". Adult human woman, Shalegate commander. Source explicit BOILED-LEATHER COAT: thick stiff dark umber leather protective coat with simple overlap fastenings and no badge, muted charcoal wool trousers and plain boots as understated interpretation. Practical bound dark hair, squared weathered adult face, attentive steady gaze; no jewellery, crown, cloak, fantasy armour or invented weapon. One full front three-quarter figure in a restrained open-handed directing gesture; one full rear three-quarter turned to listen, identical coat, hair tied close. Large bust labelled \"Listening\". Close material study of thick coat overlap labelled \"Boiled leather\". Optional small plain white-painted wooden shield labelled \"White signal shield\"; no emblem or landscape.\nLIGHTING is the source night negotiation under a SHIELDED lamp: restrained very local subdued warm light catches a few face and leather planes, most coat remains connected charcoal/umber shadow with quiet cool reflected blue. No visible lamp, no flame, no big castshadow and no bright rim. Dark matte subjects readable against warm ivory; do not make daylight figures. Labels \"Directing\" and \"Rear\". All limbs and boots visible, exactly two arms/hands per figure.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+                "role": "story night low-value palette and broad connected oil masses only; no landscape",
+                "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full story and LOCKED entries read; woman commander, boiled-leather coat and white signal shield are supported, personal weapon absent.",
+              "Actual Leora and nightlandscape viewed; paint/light roles only.",
+              "Two uncropped views and a face/material study; no scene, swatches or extra identity."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-1992b359-5d11-4f8d-9091-8a1b705175cb.png",
+            "outputSha256": "f958b804cc2bd790e14bce6dda753db982fb0ec2dccd70c96fd64d04eec25291",
+            "finishedAt": "2026-09-23T21:56:54.834253+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual generated sheet inspected: exact name/title and labels readable; two complete unclipped views of the same adult woman, bound dark hair and source boiled-leather coat.",
+              "Human anatomy consistent; open directing hand and listening rear posture, plain white signal shield and coat detail only, no invented personal weapon, badge or magical feature.",
+              "Connected dark coat masses and restrained local warm facial planes, matte raised strokes across face/clothing; ivory character-only field, no scene, floor patch or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+            "role": "story night low-value palette and broad connected oil masses only; no landscape",
+            "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-1992b359-5d11-4f8d-9091-8a1b705175cb.png"
       },
       "validation": {
-        "status": "pending"
-      }
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+        "outputSha256": "f958b804cc2bd790e14bce6dda753db982fb0ec2dccd70c96fd64d04eec25291",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+            "role": "story night low-value palette and broad connected oil masses only; no landscape",
+            "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual generated sheet inspected: exact name/title and labels readable; two complete unclipped views of the same adult woman, bound dark hair and source boiled-leather coat.",
+          "Human anatomy consistent; open directing hand and listening rear posture, plain white signal shield and coat detail only, no invented personal weapon, badge or magical feature.",
+          "Connected dark coat masses and restrained local warm facial planes, matte raised strokes across face/clothing; ivory character-only field, no scene, floor patch or swatches."
+        ],
+        "specificationSha256": "261a79830ff61405c3876fb3eb2c1d6ab065c801799787c0993b220fedb7f567"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f958b804cc2bd790e14bce6dda753db982fb0ec2dccd70c96fd64d04eec25291"
     },
     {
       "id": "marshal-drost",
@@ -651,8 +921,9 @@
         "Diminished then restored on crossing western boundary."
       ],
       "visualInterpretation": [
-        "Mature adult with practical short hair and restrained face; no invented crown or faction badge.",
-        "Two proportionally identical full and diminished studies with Tavik silhouette or cairn scale cue, clearly labelled."
+        "Middle-aged broad-faced clean-shaven man with short iron-gray hair is restrained non-canon art casting; explicit bronze scale armour over blue wool and boots preserved.",
+        "Character-only schematic full and proportionally diminished adult views at shared invisible baseline, exact source relation labelled To Tavik's shoulder; no other person, cairn, numerical scale or environment.",
+        "Subdued dusk/night comparison lighting, grouped matte bronze and deep blue wool; no inference that daylight reverses diminution."
       ],
       "states": [
         {
@@ -693,15 +964,104 @@
         }
       ],
       "output": "stories/friends-of-the-night/art/characters/marshal-drost.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Use case: stylized-concept. ONE character-only reference sheet, exactly1536x1024 landscape3:2, quiet warm ivory support and generous clean margins. Exact character name then exact story title upperleft; concise legible labels. Same individual only, two useful full-body views and face/equipment studies, unclipped all silhouettes. No location, vignette, scenery, ground/floor/terrain patch, vegetation, backdrop, buildings, paint swatches/palette strip or decorative text.\nCanadian Group of Seven-influenced oil: broad CONNECTED matte value/colour masses, broad directional bristle passages, substantial SELECTIVE impasto, scraped broken edges and quiet linking passages. Faces equally painted, do not render photoreal eyes under texture. No uniform bevelled chip texture, 3D, gloss, anime, photorealism, cinematic rim or orange-blue default. Keep dark passages linked rather than bright outlines around every part.\nImage1 is reviewed Leora sheet: PAINT and IVORY FORMAT ONLY, not its identity, sex, clothing, markings or poses. Image2 is same-story night painting: borrow deep indigo/charcoal muted masses/paint ONLY; never any environment.\nExact heading \"Marshal Drost\"; story title \"Friends of the Night\". Adult human man, invading marshal. Distinct restrained casting: middle-aged strong broad face, short iron-gray hair, clean-shaven, firm/tired eyes. SOURCE costume bronze SCALE armour worn over BLUE WOOL, practical brown boots, short bronze knife sheathed at belt. Bronze scales built with grouped painted planes, not chainmail or steel plate. No crown, heraldry, cape, sword or invented rank badge.\nLayout with TWO FULL figures aligned at the same invisible baseline on EMPTY ivory: left, ordinary full adult stature frontal-three-quarter, label \"Full stature\"; beside it, reduced adult same proportions/costume in side-three-quarter, about80percent displayed height, label \"Diminished\". It is a proportionally SHRUNK ADULT, never a child/dwarf; head/body/clothes/boots/bronze knife ALL scale together. Both figures are the SAME identity, no Tavik silhouette or other person. Beside small figure a simple unobtrusive annotation only \"To Tavik's shoulder\" explains source relation WITHOUT asserting numerical scale. Do not draw rulers, dimensions, floorline or landscape. The two views compare states schematically; these are not a narrative simultaneous scene.\nUse subdued source dusk/night values for both comparison figures: bronze dark dull umber with sparse muted warm planes, blue wool deep dusty indigo, restrained low ambient light; no sunshine or molten glowing metal. Large portrait of same mature face labelled \"After rescue\"; isolated scale-over-blue cloth detail and sheathed short bronze knife labelled \"Bronze over blue wool\" and \"Bronze knife\". Maintain source: shadow bite diminishes and boundary crossing restores, daylight does NOT restore; do not show magical aura or solar transformation.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:54:15.610533+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference sheet, exactly1536x1024 landscape3:2, quiet warm ivory support and generous clean margins. Exact character name then exact story title upperleft; concise legible labels. Same individual only, two useful full-body views and face/equipment studies, unclipped all silhouettes. No location, vignette, scenery, ground/floor/terrain patch, vegetation, backdrop, buildings, paint swatches/palette strip or decorative text.\nCanadian Group of Seven-influenced oil: broad CONNECTED matte value/colour masses, broad directional bristle passages, substantial SELECTIVE impasto, scraped broken edges and quiet linking passages. Faces equally painted, do not render photoreal eyes under texture. No uniform bevelled chip texture, 3D, gloss, anime, photorealism, cinematic rim or orange-blue default. Keep dark passages linked rather than bright outlines around every part.\nImage1 is reviewed Leora sheet: PAINT and IVORY FORMAT ONLY, not its identity, sex, clothing, markings or poses. Image2 is same-story night painting: borrow deep indigo/charcoal muted masses/paint ONLY; never any environment.\nExact heading \"Marshal Drost\"; story title \"Friends of the Night\". Adult human man, invading marshal. Distinct restrained casting: middle-aged strong broad face, short iron-gray hair, clean-shaven, firm/tired eyes. SOURCE costume bronze SCALE armour worn over BLUE WOOL, practical brown boots, short bronze knife sheathed at belt. Bronze scales built with grouped painted planes, not chainmail or steel plate. No crown, heraldry, cape, sword or invented rank badge.\nLayout with TWO FULL figures aligned at the same invisible baseline on EMPTY ivory: left, ordinary full adult stature frontal-three-quarter, label \"Full stature\"; beside it, reduced adult same proportions/costume in side-three-quarter, about80percent displayed height, label \"Diminished\". It is a proportionally SHRUNK ADULT, never a child/dwarf; head/body/clothes/boots/bronze knife ALL scale together. Both figures are the SAME identity, no Tavik silhouette or other person. Beside small figure a simple unobtrusive annotation only \"To Tavik's shoulder\" explains source relation WITHOUT asserting numerical scale. Do not draw rulers, dimensions, floorline or landscape. The two views compare states schematically; these are not a narrative simultaneous scene.\nUse subdued source dusk/night values for both comparison figures: bronze dark dull umber with sparse muted warm planes, blue wool deep dusty indigo, restrained low ambient light; no sunshine or molten glowing metal. Large portrait of same mature face labelled \"After rescue\"; isolated scale-over-blue cloth detail and sheathed short bronze knife labelled \"Bronze over blue wool\" and \"Bronze knife\". Maintain source: shadow bite diminishes and boundary crossing restores, daylight does NOT restore; do not show magical aura or solar transformation.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+                "role": "story night low-value palette and broad connected oil masses only; no landscape",
+                "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full story and LOCKED diminution rule read: proportional worn gear/body, temporary reduced adult to Tavik shoulder, boundary-only restoration.",
+              "Actual style/night references inspected and role restricted; no character identity in source cover.",
+              "Comparative body views fit ivory with concise relative-height label, no extra character, ground, swatches or invented anatomy."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-2ab9e5a9-c861-44c8-96ae-6dfa13498695.png",
+            "outputSha256": "a9bc3a784a9df15444ea2cf83710cbca0d6d6b8e8e2a6f87cf5e883df0061d94",
+            "finishedAt": "2026-09-23T21:56:55.948644+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual generated sheet inspected: exact Marshal Drost/Friends of the Night and concise labels; complete two adult views, reduced version retains same proportions, age, costume and scaled equipment.",
+              "Bronze scales over blue wool, ordinary boots and sheathed short bronze knife preserved; relative height labelled To Tavik's shoulder without extra figure or numerical claim; no daylight-restoration implication.",
+              "Dark grouped matte bronze and blue cloth, equally painted mature face and hands, no glowing metal/rim or new faction insignia; no scenery, terrain, second identity or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+            "role": "story night low-value palette and broad connected oil masses only; no landscape",
+            "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-2ab9e5a9-c861-44c8-96ae-6dfa13498695.png"
       },
       "validation": {
-        "status": "pending"
-      }
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+        "outputSha256": "a9bc3a784a9df15444ea2cf83710cbca0d6d6b8e8e2a6f87cf5e883df0061d94",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "accepted oil paint and ivory character-only presentation; no identity or costume",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+            "role": "story night low-value palette and broad connected oil masses only; no landscape",
+            "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual generated sheet inspected: exact Marshal Drost/Friends of the Night and concise labels; complete two adult views, reduced version retains same proportions, age, costume and scaled equipment.",
+          "Bronze scales over blue wool, ordinary boots and sheathed short bronze knife preserved; relative height labelled To Tavik's shoulder without extra figure or numerical claim; no daylight-restoration implication.",
+          "Dark grouped matte bronze and blue cloth, equally painted mature face and hands, no glowing metal/rim or new faction insignia; no scenery, terrain, second identity or swatches."
+        ],
+        "specificationSha256": "9e08425e68063b35b816fc89129919bb77d1ef5941b1535303ce9e7b04dcecce"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "a9bc3a784a9df15444ea2cf83710cbca0d6d6b8e8e2a6f87cf5e883df0061d94"
     }
   ]
 }
