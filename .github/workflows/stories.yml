@@ -3,9 +3,19 @@ name: Pages
 on:
   push:
     branches: ["main"]
+  pull_request:
+    paths:
+      - "pages/**"
+      - ".github/workflows/stories.yml"
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Deploy Pages after uploading and verifying R2 assets (main only)"
+        type: boolean
+        default: false
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: false
 
 permissions:
@@ -14,13 +24,16 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions:
       contents: read
-      pages: write
-      id-token: write
+      pages: read
+    env:
+      ASSET_BASE_URL: ${{ vars.ASSET_BASE_URL }}
     steps:
       - uses: actions/checkout@v7
         with:
+          persist-credentials: false
           # Build from publication snapshots without downloading production artwork.
           sparse-checkout-cone-mode: false
           sparse-checkout: |
@@ -32,15 +45,34 @@ jobs:
         with:
           python-version: "3.13"
           cache: pip
-          cache-dependency-path: pages/requirements.txt
+          cache-dependency-path: |
+            pages/requirements.txt
+            pages/requirements-publish.txt
 
-      - name: Install reader dependency
-        run: python -m pip install --requirement pages/requirements.txt
+      - name: Install publishing dependencies
+        run: python -m pip install --requirement pages/requirements-publish.txt
+
+      - name: Test publication builders and R2 upload checks
+        run: python -m unittest discover -s pages -p 'test_*.py'
 
       - name: Build Pages from stored catalog
-        run: python pages/build.py build --output _site
+        run: >-
+          python pages/build.py build --output _site
+          --asset-base-url "$ASSET_BASE_URL" --asset-output _assets
+
+      - name: Upload and verify R2 media
+        # PRs build and test without access to R2 credentials. A manual branch
+        # run can verify the real CDN without replacing the live Pages site.
+        if: github.event_name != 'pull_request'
+        env:
+          R2_ENDPOINT: ${{ vars.R2_ENDPOINT }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: python pages/publish_assets.py --manifest _assets/manifest.json
 
       - name: Configure Pages
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || inputs.deploy)
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
@@ -50,6 +82,7 @@ jobs:
 
   deploy:
     needs: build
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || inputs.deploy)
     runs-on: ubuntu-latest
     permissions:
       pages: write
