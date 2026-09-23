@@ -426,8 +426,8 @@
         "No exact age, face or hair colour given."
       ],
       "visualInterpretation": [
-        "Late-adolescent appearance, dark short untidy hair and warm brown skin related to focal adult; plain undyed shirt and charcoal trousers.",
-        "Keep warmth subtle; avoid fire, glow from marks or electrical effects."
+        "Late-adolescent male younger brother with short untidy dark hair and medium warm tan skin compatible with the inspected current Leora Sloane sheet; plain undyed shirt, charcoal trousers and worn work shoes. Exact face and present age are visual interpretations.",
+        "Amber-resin loop from palm to forearm is source fact; resting amber and active dark amber states. Heat remains invisible, with no emitted light or flame."
       ],
       "states": [
         {
@@ -454,14 +454,97 @@
         "evidence": "No supported recurrence; matching names alone do not establish identity."
       },
       "output": "stories/a-darkness-written-under-skin/art/characters/brennet-sloane.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Use case: illustration-story. Create ONE finished character reference folio, 1536x1024 landscape 3:2. Exact large heading at upper left \"Brennet Sloane\"; smaller story title immediately below \"A Darkness Written Under Skin\".\n\nImage 1 is the accepted Leora Sloane sheet: match its tangible matte oil paint, joined walnut/slate colour masses, broad directional bristle marks, selectively thick paint, restrained ordinary yellow lamplight, quiet ivory folio and readable understated serif lettering. Brennet is her younger brother, a DIFFERENT male character. Do not copy Leora's hairstyle, clothing or dark branching channels.\nImage 2 supplies the story's quiet yellow work-lamplight and walnut, ochre, blue-grey and muted plum shadow relationships only. NO room, furniture, floor, lamp apparatus or scenery.\n\nBrennet is a late-adolescent young man with ordinary lean youthful proportions, short untidy dark hair and medium warm tan skin, a worried but lively face. Plain undyed linen work shirt with collar, long sleeves and a few white lint flecks; one cuff has a small singed edge. Charcoal trousers and plain worn dark work shoes. Distinctively his own face, compatible with family resemblance. No weapons, uniform, jewelry or invented scars.\nHis birth mark is AMBER RESIN in rounded looping channels running from the centre of his palm across wrist onto inner forearm. It is visible amber under ordinary lamplight and darkens to deeper brown-amber when actively warming by touch. These are looping lines, NOT Leora's branching black-violet channels. They do not glow or emit flames, rays, sparks, halos or light. His faculty warms by intentional touch and can warm an ordinary tin cup. No injured hand or bandage.\n\nOn uninterrupted warm ivory, arrange two complete unclipped isolated figure views at left: front three-quarter with one sleeve loosely rolled to expose wrist, and back three-quarter with same clothes and a clearly complete pair of shoes. A worried attentive face study occupies upper right, equally boldly oil painted; no glossy portrait insert. At lower right show two matched palm-and-forearm detail studies, labelled \"At rest\" and \"Warming\", with respectively amber loops and darker amber loops. No other person's hand; show the warming hand resting loosely around a simple small tin cup if useful, without steam or glow. Add one small close study of the same singed shirt cuff labelled \"Singed cuff\". Use only these short labels and identifying title. No explanatory paragraph.\nRender all skin, eyes, hands, clothes and metal as decisive broad matte opaque brush shapes, as strongly simplified as a Canadian Group of Seven painting. Large connected value masses first, varied directional bristle marks and substantial selective impasto, quieter linking passages. Faces must be as painted as clothes. No uniform bevel-lit chips, mechanical texture grid, photorealistic eyes, airbrush, CGI, anime, shiny skin, tiny gold edge glints or cinematic rim lighting. Subdued yellow lamplight on warm planes falls into connected walnut/plum shadows, not automatic outdoor daylight.\n\nSTRICT: character and personal clothing/gear only. No location vignette, scenic inset, ground/floor/terrain patches, cast ground shadows, table, plants, building, horizon, decorative prose, paint swatches or palette strip. No extra identity. Keep head/hands/feet comfortably inside canvas. Return the complete readable folio.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:12:43.005399+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. Create ONE finished character reference folio, 1536x1024 landscape 3:2. Exact large heading at upper left \"Brennet Sloane\"; smaller story title immediately below \"A Darkness Written Under Skin\".\n\nImage 1 is the accepted Leora Sloane sheet: match its tangible matte oil paint, joined walnut/slate colour masses, broad directional bristle marks, selectively thick paint, restrained ordinary yellow lamplight, quiet ivory folio and readable understated serif lettering. Brennet is her younger brother, a DIFFERENT male character. Do not copy Leora's hairstyle, clothing or dark branching channels.\nImage 2 supplies the story's quiet yellow work-lamplight and walnut, ochre, blue-grey and muted plum shadow relationships only. NO room, furniture, floor, lamp apparatus or scenery.\n\nBrennet is a late-adolescent young man with ordinary lean youthful proportions, short untidy dark hair and medium warm tan skin, a worried but lively face. Plain undyed linen work shirt with collar, long sleeves and a few white lint flecks; one cuff has a small singed edge. Charcoal trousers and plain worn dark work shoes. Distinctively his own face, compatible with family resemblance. No weapons, uniform, jewelry or invented scars.\nHis birth mark is AMBER RESIN in rounded looping channels running from the centre of his palm across wrist onto inner forearm. It is visible amber under ordinary lamplight and darkens to deeper brown-amber when actively warming by touch. These are looping lines, NOT Leora's branching black-violet channels. They do not glow or emit flames, rays, sparks, halos or light. His faculty warms by intentional touch and can warm an ordinary tin cup. No injured hand or bandage.\n\nOn uninterrupted warm ivory, arrange two complete unclipped isolated figure views at left: front three-quarter with one sleeve loosely rolled to expose wrist, and back three-quarter with same clothes and a clearly complete pair of shoes. A worried attentive face study occupies upper right, equally boldly oil painted; no glossy portrait insert. At lower right show two matched palm-and-forearm detail studies, labelled \"At rest\" and \"Warming\", with respectively amber loops and darker amber loops. No other person's hand; show the warming hand resting loosely around a simple small tin cup if useful, without steam or glow. Add one small close study of the same singed shirt cuff labelled \"Singed cuff\". Use only these short labels and identifying title. No explanatory paragraph.\nRender all skin, eyes, hands, clothes and metal as decisive broad matte opaque brush shapes, as strongly simplified as a Canadian Group of Seven painting. Large connected value masses first, varied directional bristle marks and substantial selective impasto, quieter linking passages. Faces must be as painted as clothes. No uniform bevel-lit chips, mechanical texture grid, photorealistic eyes, airbrush, CGI, anime, shiny skin, tiny gold edge glints or cinematic rim lighting. Subdued yellow lamplight on warm planes falls into connected walnut/plum shadows, not automatic outdoor daylight.\n\nSTRICT: character and personal clothing/gear only. No location vignette, scenic inset, ground/floor/terrain patches, cast ground shadows, table, plants, building, horizon, decorative prose, paint swatches or palette strip. No extra identity. Keep head/hands/feet comfortably inside canvas. Return the complete readable folio.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished prose previously read in this task; source hash confirmed unchanged. Younger brother's amber palm-to-forearm loops darken with intentional warming and disappear under UV. No flame or projection.",
+              "Inspected current Leora sheet and original workroom painting. Leora supplies paint/style and limited family resemblance, not identity or tattoo.",
+              "Two complete male figure views, face, palm state pair and cuff close detail fit unclipped ivory 3:2. No location or swatches; exact assigned name checked in existing nameAssignment."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-a3ccd36d-10e6-4872-aaf6-8156a60f8e52.png",
+            "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513",
+            "finishedAt": "2026-09-23T21:14:53.502792+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Complete native generated pixels inspected at full 1536x1024: exact Brennet Sloane and story title; one consistent late-adolescent male with short untidy dark hair, linen shirt, charcoal trousers and complete shoes in two views plus face.",
+              "Source-supported amber looping birthmark runs palm to forearm, distinct from Leora's branching black-violet channels. At-rest amber loops darken during tin-cup warming; no glow, flame, projection, bandages or injured hand.",
+              "Small singed cuff study matches source. Figure, face, hands and tin cup have coherent matte opaque oil shapes with warm subdued lamplight and dark walnut shadows, matching accepted family style.",
+              "Character-only quiet ivory composition has no scenic vignette, ground patch, swatches or palette. All figure extremities remain within canvas. Source/reference/output/specification hashes checked during selection."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+            "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+            "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-a3ccd36d-10e6-4872-aaf6-8156a60f8e52.png"
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+        "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+            "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+            "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Complete native generated pixels inspected at full 1536x1024: exact Brennet Sloane and story title; one consistent late-adolescent male with short untidy dark hair, linen shirt, charcoal trousers and complete shoes in two views plus face.",
+          "Source-supported amber looping birthmark runs palm to forearm, distinct from Leora's branching black-violet channels. At-rest amber loops darken during tin-cup warming; no glow, flame, projection, bandages or injured hand.",
+          "Small singed cuff study matches source. Figure, face, hands and tin cup have coherent matte opaque oil shapes with warm subdued lamplight and dark walnut shadows, matching accepted family style.",
+          "Character-only quiet ivory composition has no scenic vignette, ground patch, swatches or palette. All figure extremities remain within canvas. Source/reference/output/specification hashes checked during selection."
+        ],
+        "specificationSha256": "a576a3e86d701953f7720c53a450e492fad3d3b4f207ce6d227a6d332a00fdf6"
       },
       "sourceIdentityId": "younger-brother",
       "nameAssignment": {
@@ -478,7 +561,8 @@
         "displayName": "Brennet Sloane",
         "sourceIdentity": "younger-brother",
         "authorization": "Latest explicit user instruction to give missing-name characters names."
-      }
+      },
+      "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513"
     },
     {
       "id": "ilyse-sloane",
