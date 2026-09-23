@@ -7885,19 +7885,26 @@
           "id": "03-the-split-delivery-sill",
           "title": "The split delivery sill",
           "alt": "The split delivery sill — oil interior study for The Players Above",
-          "source": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
-          "sourceSha256": "c60edb22accdcbb8c9fa6debaeefdf26949a77b277fef5e2d84a5e1dacbba6b2",
+          "source": "pages/interior-replacements/the-players-above/03-the-split-delivery-sill.png",
+          "sourceSha256": "a13f05323cc23376339f920c1f478504bbb9144d295c7bfb271d07cba8e50fa5",
           "full": {
-            "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8.webp",
-            "sha256": "c44507f387591f9348aa041724018ed9e815633cb8a822a2a0568b7a9e38a593",
+            "path": "interiors/the-players-above/03-the-split-delivery-sill-a13f05323cc23376.webp",
+            "sha256": "17f0b7a18cdfbd009461dfec17601db05c45929cef560c6ecae5c291f2a8235c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-players-above/03-the-split-delivery-sill-c60edb22accdcbb8-thumb.webp",
-            "sha256": "325909acf2d1ed1f37fac1f9ba702d48f0a804857fe39b207ce88ac163d9196e",
+            "path": "interiors/the-players-above/03-the-split-delivery-sill-a13f05323cc23376-thumb.webp",
+            "sha256": "05336ae80c52bfe30b73e36ce745b8e0ba8d013f209acbb6d1d18cfb26682378",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
+            "originalSha256": "c60edb22accdcbb8c9fa6debaeefdf26949a77b277fef5e2d84a5e1dacbba6b2",
+            "correction": "Keep the split sill and doorway composition; match the bin shape and low platform/stairs to the first two views.",
+            "prompt": "Use case: fixed mill-apparatus continuity edit. Image 1 is the split-delivery-sill view to correct. Images 2 and 3 show the same mill and are geometry references for its TWO SQUARE WOODEN HOPPERS on a LOW PLATFORM reached by THREE SHORT STEPS. Keep Image 1's camera and foreground doorway/sill composition. One 3:2 landscape painting, 1536x1024 preferred.\nCorrect only the right-background bin installation in Image 1. Replace the two round barrel-shaped grain bins with two matching box-shaped wooden hoppers like Images 2 and 3: broad rectangular plank upper bins, squared corners, tapered inverted-pyramid wooden bottoms ending in small outlets, supported by straight wooden uprights. Do not make their upper bins cylindrical or round.\nLower their supporting platform from its current head-height/mezzanine position to the established LOW wooden dais, roughly knee high above the main mill floor, with its front apron faced in rough vertical boards. The hopper bodies and support posts rise above this low platform. Replace the long steep ladder with a short wide wooden stair of exactly THREE shallow treads leading onto the platform from the right. Flour sacks stand beside this low platform or on it; there is no tall under-platform storage bay. Match the apparatus' proportions and construction to the two supplied references, naturally seen from Image 1's doorway angle. Keep the installation on the right side of this view.\nPreserve the metallic root passing THROUGH the broken foreground stone sill, chipped stones, open delivery door and moonlit lane, mill floor and cracks, game table/chairs and pieces, hanging brass lamp, left-side wheel/gearing and beams. Do not move or hide the split-sill detail. Retain warm amber versus moon-blue expressive Group of Seven-inspired thick oil paint, broad shaped color masses and visible confident brushwork. Empty room. No people, labels, text overlay, signature, watermark, photo or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11958,6 +11965,11 @@
       "source": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
       "sourceSha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175",
       "reason": "Remove one cup, keeping exactly seven in a crooked line; retain the existing kitchen composition."
+    },
+    {
+      "source": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
+      "sourceSha256": "c60edb22accdcbb8c9fa6debaeefdf26949a77b277fef5e2d84a5e1dacbba6b2",
+      "reason": "Keep the split sill and doorway composition; match the bin shape and low platform/stairs to the first two views."
     }
   ]
 }
