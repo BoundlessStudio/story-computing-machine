@@ -8518,19 +8518,26 @@
           "id": "01-the-inn-kitchen",
           "title": "The inn kitchen",
           "alt": "The inn kitchen — oil interior study for The Spider's Hunger",
-          "source": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
-          "sourceSha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c",
+          "source": "pages/interior-replacements/the-spiders-hunger/01-the-inn-kitchen.png",
+          "sourceSha256": "37badad054fbe44204f85ba58833f19705203f399fb1c431f1b7d9c8a6d71be9",
           "full": {
-            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-3084c9660dbeccc7.webp",
-            "sha256": "4e56d49d579da05a84b0872f28bf5b3eb9eeb1d3dd4d90b04b5fd9e629cc41dc",
+            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-37badad054fbe442.webp",
+            "sha256": "6c96a303735d622c5efc49e9e9cfa29a49dc674c6ad1cbce4df7eb2ff9b07b6b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-3084c9660dbeccc7-thumb.webp",
-            "sha256": "7de16a15fb03dc7b566739a60424c81c880724f269bf730a31d8e49de085612c",
+            "path": "interiors/the-spiders-hunger/01-the-inn-kitchen-37badad054fbe442-thumb.webp",
+            "sha256": "34a65abaf1b7ca8985ddac5df5d2f467664af0dbb0a4f17201cd398c9ca58bc9",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+            "originalSha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c",
+            "correction": "Retain the supported kitchen objects and remove exterior snow, using the wet yard and subdued roofs.",
+            "prompt": "Use case: precise-object-edit. Correct only the outdoor ground, roofs and distant glimpse visible through the open loading door and small kitchen window in Image 1. One 3:2 1536x1024 landscape painting.\nThe inn's yard is cold and wet, not snow-covered. Remove every patch or cap of exterior snow and all snowfall. Show damp dark uneven yard paving, a low wet stone wall, and the same nearby modest building with a plain weather-darkened roof. In the small window keep the view short and subordinate: nearby wet yard/building surfaces, no far mountain or scenic horizon. Cool overcast outdoor light can contrast with the warm stove. Do not add people, animals or a cart.\nPreserve the entire kitchen and exact composition: lit black stove, slippers on hearth bricks, hanging pans, sink and dish rack, loading-door trunk with its newer strap, table, bread, covered dish, chipped rose plate and towel. Retain the original expressive Group of Seven-inspired oil texture, thick confident brushwork, angular gold/blue-violet color masses and empty room. No text overlay, labels, watermark, signature, photographic or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -8556,19 +8563,26 @@
           "id": "03-the-old-bedroom-latch",
           "title": "The old bedroom latch",
           "alt": "The old bedroom latch — oil interior study for The Spider's Hunger",
-          "source": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
-          "sourceSha256": "c6d7713218da586d1c9bbe3aee98ff37a4ff651ff2ea1cb56dfffffbb9e2bf02",
+          "source": "pages/interior-replacements/the-spiders-hunger/03-the-old-bedroom-latch.png",
+          "sourceSha256": "5440c41f7130f91dcea82d3bbc6b155acebbf37d391851c4c7559271d93f41d7",
           "full": {
-            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-c6d7713218da586d.webp",
-            "sha256": "05e05653eed0c8341ed4060b408ff35417523fa698169e2906d79eafd7db18b2",
+            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-5440c41f7130f91d.webp",
+            "sha256": "7d5e9fef299cd372a65d5e26cbb80cb42f02d337f6138ebbd98b17811b9d4dee",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-c6d7713218da586d-thumb.webp",
-            "sha256": "18c111ff6d2141e4dcdc13663941d0861a29ee603a798a60fc1fcd506c1e188c",
+            "path": "interiors/the-spiders-hunger/03-the-old-bedroom-latch-5440c41f7130f91d-thumb.webp",
+            "sha256": "bee1b9b07fe63b014285b55ac444015549a232e69d491351d9125533b878cc6b",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
+            "originalSha256": "c6d7713218da586d1c9bbe3aee98ff37a4ff651ff2ea1cb56dfffffbb9e2bf02",
+            "correction": "Keep the latch/bed/sewing composition, replace the panorama with the established inn yard, and remove snow.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the bedroom edit target. Image 2 is the corrected downstairs inn kitchen, supplied only as reference for the same wet yard's stone wall, nearby roof and cold-weather condition. One 3:2 landscape oil painting, preferably 1536x1024.\nReplace ONLY the actual view through Image 1's large left window. Remove the snow-covered town panorama, church-spire skyline, broad lake and mountain horizon. From this upper bedroom, show a short DOWNWARD sightline into the inn's damp working yard: wet uneven paving, the nearby low stone wall, and part of the same modest slate-roofed yard building seen from Image 2. Keep sky a minor area; the yard is close, not a distant landscape. No snow, water body or mountains. No people, animals or additional props.\nPreserve the bed beside the door, blue purse by pillow, chair beneath the latch with finished curtain draped over it, tied sewing basket, thread spools, tea on the sill, open shutters, rugs and exact room composition. Do not alter the two decorative wall pictures. Retain warm late light, cool shadows and original expressive Group of Seven-inspired oils with confident thick brushstrokes. No text overlay, labels, watermark, signature, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11394,6 +11408,16 @@
       "source": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
       "sourceSha256": "37a0f47f43a3dc2111bec36f5f502ebbe724e4fb832c54b92f0a6cce02b46cd6",
       "reason": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
+    },
+    {
+      "source": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+      "sourceSha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c",
+      "reason": "Retain the supported kitchen objects and remove exterior snow, using the wet yard and subdued roofs."
+    },
+    {
+      "source": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
+      "sourceSha256": "c6d7713218da586d1c9bbe3aee98ff37a4ff651ff2ea1cb56dfffffbb9e2bf02",
+      "reason": "Keep the latch/bed/sewing composition, replace the panorama with the established inn yard, and remove snow."
     }
   ]
 }
