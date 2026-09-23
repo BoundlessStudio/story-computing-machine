@@ -8932,19 +8932,26 @@
           "id": "02-storm-engine-tower",
           "title": "Storm engine tower",
           "alt": "Storm engine tower — oil interior study for The Tenth World Needs No Hero",
-          "source": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
-          "sourceSha256": "dea76220ffa1cc939daec267b32b8fb6ff2d1dd0bdcf96cbbbd2712618d8810b",
+          "source": "pages/interior-replacements/tenth-world-lesson/02-storm-engine-tower.png",
+          "sourceSha256": "b55170639d184470e1636b42d698d2bc10754811bfb355f0ee2fe674e622f50d",
           "full": {
-            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-dea76220ffa1cc93.webp",
-            "sha256": "a32b00205d03b4c17ab1b41c4a638cc0c227761c5df4895da37e747571c4dc2f",
+            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-b55170639d184470.webp",
+            "sha256": "bf76b6a4abebcfb3a8f929410357388a77b0f84376701ab686b972f47dfa4263",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-dea76220ffa1cc93-thumb.webp",
-            "sha256": "d43c2d8963af6650b4d8cc5a871dd24825def88a48797a56485b21df8933aa26",
+            "path": "interiors/tenth-world-lesson/02-storm-engine-tower-b55170639d184470-thumb.webp",
+            "sha256": "46cc970cb19df79794fbb59ea46c9d051efbfc4b1827364c5b8a250e61119985",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
+            "originalSha256": "dea76220ffa1cc939daec267b32b8fb6ff2d1dd0bdcf96cbbbd2712618d8810b",
+            "correction": "Shrink the white circle to the central rail/operator zone at the engine base, with all nine crew stations outside.",
+            "prompt": "Use case: precise-mechanism-edit. Correct only the geography of the white floor control circle in this existing storm-engine tower painting. Preserve 3:2 landscape, preferably 1536x1024.\nThe reference is the exact edit target. Keep the black upright column with copper ribs and central control rails, radial curved copper conductors, the NINE squat manually operated crew stations with their levers/wheels, stone tower arches, wooden overhead beams, wall gauge panel, view and expressive oil treatment in exactly the same positions. Do not add, remove, replace or rearrange machinery.\nERASE the existing huge white ellipse around the OUTSIDE of the entire station arrangement. Restore normal uninterrupted ochre-gray flagstones there, matching surrounding paint strokes. Replace it with ONE much SMALLER white control circle tightly around the central operator/rail area at the foot of the tall black column. In perspective, this is a small low horizontal floor ellipse at the column base, well BEHIND the three nearest freestanding station bases. Its front arc runs immediately in front of the engine's own central foot/platform; the left and right arcs hug the central engine base. The column and passing copper conductors naturally occlude parts of the ring.\nCritical geometry: the white boundary surrounds only the central engine base and the single-operator rail zone. ALL nine independent manual crew stations stand OUTSIDE the white circle. No station's base or work lever should be enclosed by or straddling the circle. A worker at any of the nine stations would stand on ordinary flagstone outside the boundary and reach toward the confined central operator. Preserve adequate separation and make the much smaller circle clearly readable. Do not leave any remnant of the former huge outer white ring. Do not draw a second circle, outline each station, introduce a raised wall, or make a giant glowing dome.\nThis is a restrained targeted correction to a Group of Seven-inspired expressive oil painting: retain broad angular masses, visible thick impasto strokes, warm copper and ochre, slate stone and purple sky. No figures, text, labels, captions, signatures, watermark, collage, photorealism or 3D.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11886,6 +11893,11 @@
       "source": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
       "sourceSha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e",
       "reason": "Use the same memorial flower as the corrected image 01, on a low brass crosspiece; preserve the supported worktable objects and bench."
+    },
+    {
+      "source": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
+      "sourceSha256": "dea76220ffa1cc939daec267b32b8fb6ff2d1dd0bdcf96cbbbd2712618d8810b",
+      "reason": "Shrink the white circle to the central rail/operator zone at the engine base, with all nine crew stations outside."
     }
   ]
 }
