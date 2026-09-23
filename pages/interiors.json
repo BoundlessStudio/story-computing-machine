@@ -9664,57 +9664,78 @@
           "id": "01-prepared-studio",
           "title": "Prepared studio",
           "alt": "Prepared studio — oil interior study for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
-          "sourceSha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+          "source": "pages/interior-replacements/the-wolf-in-the-mirror/01-prepared-studio.png",
+          "sourceSha256": "abe7485312895f6efee226a7b659b3415fb92d42f36a82ea56ac520b503c1e5c",
           "full": {
-            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-04b3a1ad986fc0ae.webp",
-            "sha256": "cac7730911f6cefce5e662e654a8ad8cc2fb2f5c6c3013d353c2f08d4f3fa0de",
+            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-abe7485312895f6e.webp",
+            "sha256": "9e3338c0d82bd6bb85c25c6daac6b8a96e8717e389dc5e596d652c8d7ddc3552",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-04b3a1ad986fc0ae-thumb.webp",
-            "sha256": "f221af765ff71cb3830ea73da54504569dc37bfcd41501f8e9e0fef38ba4b05d",
+            "path": "interiors/the-wolf-in-the-mirror/01-prepared-studio-abe7485312895f6e-thumb.webp",
+            "sha256": "295f1f2a8472d1c92e4180643b5b9e6437384eb645efeafcc9a552c173df4f42",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+            "originalSha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+            "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views.",
+            "prompt": "Use case: precise-object-edit. Edit this supplied empty prepared-studio oil painting; it is the exact room, composition, lighting and brushwork reference. One 3:2 landscape image, 1536x1024 preferred.\nChange ONLY the water vessel at the back-left, and its reflection in the right-hand mirror. Replace the heavy fixed masonry cylinder and metal faucet with a LOW PORTABLE water basin: a broad shallow round dark blue enamel metal bowl with a thin rolled rim, about 60 cm across and 15 cm high, sitting directly on the floor. It contains water and can plausibly be nudged six inches with a bare foot. No pedestal, plumbing, faucet, pipes or masonry base. Keep it in the same chosen location beneath the back-left window beside the blue pool of light. The matching mirror reflection must also show that same shallow portable bowl, not the old plumbed basin.\nRetain the fixed floor-height impact-framed mirror along the right wall, its rolled ceiling-track cover, the chest-style wooden recovery bench centered against the rear wall, the left vestibule gate, the blue rest-area lighting and warm lamps, wall panels and clear open floor. Keep the room empty, with no people or wolf. Preserve the expressive Group of Seven-inspired oil treatment, broad confident strokes, ochre highlights and slate-indigo shadows. No other rearrangement, no text overlay, watermark, borders, collage, photorealism or 3D rendering.\n",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-observation-vestibule",
           "title": "Observation vestibule",
           "alt": "Observation vestibule — oil interior study for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/interiors/02-observation-vestibule.png",
-          "sourceSha256": "61985ba602e539e167d3bfba269dad457300964081c0d7873acdbd45d7205351",
+          "source": "pages/interior-replacements/the-wolf-in-the-mirror/02-observation-vestibule.png",
+          "sourceSha256": "93c4dc75b051513737126cbbe4d7d88f191b399df07ac9fb280df2d5c70c3927",
           "full": {
-            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-61985ba602e539e1.webp",
-            "sha256": "bcff74efbe1e63c10d6e83516a380ba6a24bf045843c8e355fa7ad6356cba795",
+            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-93c4dc75b0515137.webp",
+            "sha256": "2dd992023ecdc9695f3e4adc94ecdb01b12d48a803b71b03037b432b5e4ceb65",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-61985ba602e539e1-thumb.webp",
-            "sha256": "0f02d29c53da81a21ef8cdc1f6d02f886b09cc4121be7d4dccf2be1d91b92442",
+            "path": "interiors/the-wolf-in-the-mirror/02-observation-vestibule-93c4dc75b0515137-thumb.webp",
+            "sha256": "3ab01c6c770e774216c30deb794b4709f3257a256e45cdf80f2e26df646570dc",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-wolf-in-the-mirror/art/interiors/02-observation-vestibule.png",
+            "originalSha256": "61985ba602e539e167d3bfba269dad457300964081c0d7873acdbd45d7205351",
+            "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views. Match the established floor-height framed mirror and back-wall storage recovery bench from 01/03; compose the vestibule angle around that fixed layout.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the observation-vestibule view through reinforced gates. Image 2 is the corrected SAME studio seen from inside and is the binding spatial/prop continuity reference. Preserve image 1's close vestibule framing, both reinforced clear-panel gates, foreground brass tone/control box and lever, camera, clipboard, slate/ochre palette and thick expressive oil brushwork. 3:2 landscape, 1536x1024 preferred.\nCorrect only the studio seen THROUGH the inner gate so it agrees with image 2. Its large impact-framed mirror occupies the right wall and extends down to floor level with only its dark protective frame at the bottom. Remove the raised masonry plinth under it and remove the open-legged bench standing directly in front of the mirror. The floor strip beside the mirror stays fully clear. Keep the mirror's cover track above.\nThe recovery bench is the closed-base wooden STORAGE CHEST seen in image 2, placed against the far/back wall of the studio, not below the right-wall mirror. Show the chest's same proportions and dark wood, with the folded robe at its lid, as perspective permits.\nReplace the large fixed masonry water trough and plumbing at the back-left with the same low portable dark blue enamel metal bowl in image 2, about 60 cm across and 15 cm high, filled with water and sitting directly on the floor beside the blue rest-light pool. No faucet, pedestal or pipes. Any reflection in the mirror must correctly show the shallow bowl and back-wall chest, not an extra trough or bench.\nThis is an alternate angle of ONE room, not a new room. Use the exact fixed relationships in image 2: basin back-left, chest centered on rear wall, mirror along right wall down to floor. Preserve the image 1 vestibule foreground and adjust the sightline only enough to make that layout coherent. Empty room, no people or wolf. No text overlay, added props, watermark, border, collage, photography or 3D rendering.\n",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-covered-studio-at-dawn",
           "title": "Covered studio at dawn",
           "alt": "Covered studio at dawn — oil interior study for The Wolf in the Mirror",
-          "source": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
-          "sourceSha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+          "source": "pages/interior-replacements/the-wolf-in-the-mirror/03-covered-studio-at-dawn.png",
+          "sourceSha256": "e31235ef9ec001957d2f590c158a1d148d9c1ad43144d04306fe137cabb1ccfa",
           "full": {
-            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-72c2d26a162613c2.webp",
-            "sha256": "422e46c2069624944d2e6d5eefb78832702690420459bc1c53c12c9997a1546c",
+            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-e31235ef9ec00195.webp",
+            "sha256": "f3b1ccb9a38974126b61c9c3da4993f1fa9caeaea7a5c32d915d10bf713f3166",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-72c2d26a162613c2-thumb.webp",
-            "sha256": "fa21b42caaa8a74fc23844f731aa3cc6b5cd924c3f4494acbe34e159de1f9105",
+            "path": "interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn-e31235ef9ec00195-thumb.webp",
+            "sha256": "ff3bc71785fca938d35fcb832c81fef0ebe2805c591b6ba70b1946eadbc05015",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+            "originalSha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+            "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the empty covered studio at dawn. Image 2 is the accepted corrected SAME studio before moonrise and supplies the exact portable basin design and chosen location.\nMake only the basin correction in image 1. Replace the heavy masonry water cylinder and fixed faucet at the back-left with the same broad shallow dark blue enamel metal bowl in image 2: low portable basin about 60 cm across and 15 cm high, sitting directly on the floor, filled with water, no pedestal, plumbing or tap. Keep it directly below the left blackout-covered window beside the existing rest-area floor patch; do not move it elsewhere.\nRetain image 1's gray dawn light around blackout panels, fully lowered dark mirror cover along the right wall, closed chest-style recovery bench at the rear with robe, gate at left, existing damp floor marks and entire fixed layout. Do not uncover the mirror or windows or copy image 2's earlier evening state. Empty room, no wolf or people. Preserve expressive Group of Seven-inspired oil brushwork, broad shaped color masses, slate/ochre muted palette and 3:2 composition, 1536x1024 preferred.\nNo other edits, extra objects, text, watermark, border, collage, photography or 3D rendering.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11142,6 +11163,21 @@
       "source": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
       "sourceSha256": "1fef77aafe6c5189759682761885f162a0fcf7702cba18c9548b15d029ebe667",
       "reason": "Keep the narrow street, police lights and ceiling reflections, and simplify the unsupported distant panorama."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+      "sourceSha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+      "reason": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/interiors/02-observation-vestibule.png",
+      "sourceSha256": "61985ba602e539e167d3bfba269dad457300964081c0d7873acdbd45d7205351",
+      "reason": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views. Match the established floor-height framed mirror and back-wall storage recovery bench from 01/03; compose the vestibule angle around that fixed layout."
+    },
+    {
+      "source": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+      "sourceSha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+      "reason": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views."
     }
   ]
 }
