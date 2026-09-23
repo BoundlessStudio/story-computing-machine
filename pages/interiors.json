@@ -10014,19 +10014,26 @@
           "id": "01-the-ward-room-before-dawn",
           "title": "The ward room before dawn",
           "alt": "The ward room before dawn — oil interior study for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
-          "sourceSha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235",
+          "source": "pages/interior-replacements/what-i-hate-most/01-the-ward-room-before-dawn.png",
+          "sourceSha256": "73a93de6808b0957ec4a18a62c7168a150536d69359658b9fbe74a727a4cb3a4",
           "full": {
-            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-0f40363e83b8cf31.webp",
-            "sha256": "d8396ddf03df171139416f0056d4214b11f54f1aca41248c029a6854c34d2f81",
+            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-73a93de6808b0957.webp",
+            "sha256": "71ace33a20f907021e8544f3a4c2f7bf9f12986c7db4d19f47f064fb5994a64c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-0f40363e83b8cf31-thumb.webp",
-            "sha256": "e82b78cf77b1c7e6e5c83215b3b97987fd9cc810b6ed3d4e4f248475844c5b81",
+            "path": "interiors/what-i-hate-most/01-the-ward-room-before-dawn-73a93de6808b0957-thumb.webp",
+            "sha256": "a33bcdc949d6f134561450e2cb4b10d781260a66c1049eedff2104aa0088a8d3",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
+            "originalSha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235",
+            "correction": "Replace the snowy rural waterfall through the open door with nearby urban defense channels containing cooling black glass beads and mineral dust; replace the paper pressure map with rigid chalk-marked slate and modest brass contacts.",
+            "prompt": "Use case: precise-object-edit.\nMake two tightly scoped corrections to the supplied ward-room painting from What I Hate Most. One final landscape image, 3:2, preferably 1536x1024.\nInput 1 is the EDIT TARGET and the authority for this exact room, camera angle, furniture, object arrangement, palette and brushwork. Preserve the empty small rough-stone ward room, left wooden bench with a shared dark cloak draped over it, low foreground wooden table, steaming handled cup, clean linen bandage roll, open wooden door at right, heavy stone floor and intimate warm/cool lighting. Do not move or enlarge those objects.\nCorrection 1 — slate pressure map: replace ONLY the flexible pale paper map on the table with a rigid dark charcoal SLATE BOARD at the same position and perspective. It has a straight, thick, visibly layered stone edge, modestly chipped corners and a flat heavy surface that does not curl or ripple. Draw its modest working map in thin pale CHALK lines, a network of ward routes and a few small chalk ticks at the margin, without readable letters or words. Retain the small brass contact studs as working equipment: EXACTLY FIVE modest domed brass contacts on the slate surface, clearly separate and not jewels or miniature towers. The board itself must look like stone, not paper with a black border.\nCorrection 2 — doorway aftermath: replace the entire snowy rural waterfall scene visible outside. Through this unchanged open door show a close, restrained urban defense channel built of worn gray city masonry. Its shallow bed contains many small round cooling BLACK STORMGLASS BEADS mixed with gray mineral dust, with tiny dull highlights identifying the dark glass. It is a dry channel of cooled material, NOT a flowing watercourse. Beyond it are only nearby city defense masonry and a few subdued roof/wall shapes under low gray predawn light. Keep the scene quiet and local. Remove all waterfalls, running water, snowy banks, snow-covered trees, forests, lakes, distant mountains and broad rural vista. Glass beads are black and cooling, without fire, active magic, molten lava or bright red glow. No people or silhouettes outside.\nPreserve actual reference style: expressive Group of Seven-inspired oil painting, bold confident thick brush strokes, shaped ochre timber and blue-gray stone color masses, subtle warm room light and cool doorway light. Paint the slate, brass, beads and channel with the same visible brushwork, no photographic or 3D insert. Keep the original room composition and aspect ratio.\nEmpty interior and exterior. No new furniture, props, people, hands, decorative signs, lettering, captions, headings, signature, watermark, collage or contact sheet.",
+            "generator": "image_gen"
           }
         },
         {
@@ -10962,6 +10969,11 @@
       "source": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
       "sourceSha256": "a9e56b7fca6bc05379fb7d3f682e30a084fa934761cddd483be090c278b54060",
       "reason": "Give each narrow hoop exactly one tiny hand, and show their uneven edges fitted as one wider band with a single clasp formed by the two hands. Preserve the linen and dinner setting."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
+      "sourceSha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235",
+      "reason": "Replace the snowy rural waterfall through the open door with nearby urban defense channels containing cooling black glass beads and mineral dust; replace the paper pressure map with rigid chalk-marked slate and modest brass contacts."
     }
   ]
 }
