@@ -9101,19 +9101,26 @@
           "id": "03-empty-throne-chamber",
           "title": "Empty throne chamber",
           "alt": "Empty throne chamber — oil interior study for The Throne Neither of Us Wanted",
-          "source": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
-          "sourceSha256": "dbec06a9a1891554bd13489ffb86f93e1b1058aae6c79333f89debab9850cec6",
+          "source": "pages/interior-replacements/a-throne-neither-wanted/03-empty-throne-chamber.png",
+          "sourceSha256": "aaba3cd63da084cacecd6a2cde32448031ec19cdea030a11cd4f7e495216f563",
           "full": {
-            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554.webp",
-            "sha256": "d380b820d8888f16b541c43c015ce75a146e37850887a5121f3985d4f413db10",
+            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-aaba3cd63da084ca.webp",
+            "sha256": "bf44e2f12a80682691cc4b17c056d2132c68138ea2b8f5fa5fcd11f90c2dccf8",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-dbec06a9a1891554-thumb.webp",
-            "sha256": "939ae30e649b56831d71e58b6ee6b4c1c7d3e2e39cc90c804bae62066d3dce2f",
+            "path": "interiors/a-throne-neither-wanted/03-empty-throne-chamber-aaba3cd63da084ca-thumb.webp",
+            "sha256": "e6cd579269108dc9bb557cac8a751ed5c2ba4a6c014154d913d8dc3ef7129db8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
+            "originalSha256": "dbec06a9a1891554bd13489ffb86f93e1b1058aae6c79333f89debab9850cec6",
+            "correction": "Add a simple canopy above the existing throne, keeping the low platform, bare gallery and restrained oil treatment.",
+            "prompt": "Use case: precise-object-edit. Add the missing simple throne canopy to this empty chamber painting; change nothing else. Preserve 3:2 landscape, preferably 1536x1024.\nThe supplied image is the exact edit target. Keep the worked black stone throne with broad arms and pale worn front edge on its low platform, small stool to its left, empty flagstone floor, side door, bare upper gallery, candle stands pushed to the walls, tall windows, warm window light and all existing stone architecture.\nAdd ONE restrained throne canopy directly ABOVE the black chair, visibly projecting outward over its seat. It is a shallow plain dark canopy supported by discreet wall brackets, with a short simple muted fabric valance. Make its horizontal overhead shelter and underside clearly readable, scaled to this one chair. It should fit into the blank wall space already above the chair without covering the window, stool, candle stands or door. This is a permanent modest canopy, not a crown, new arch, tent, curtained enclosure or grand four-poster structure. No decorative heraldry, hanging banners, royal insignia or long draperies; the cleared room and gallery remain bare.\nMatch the original expressive Group of Seven-inspired oil painting: broad slate-gray and ochre color masses, visible thick confident strokes and quiet restrained light. The canopy must be painted as part of the same image, not a photographic object. No people, text, captions, signatures, watermark, collage or new furnishings.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11766,6 +11773,11 @@
       "source": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
       "sourceSha256": "8ffb4ee1e588a573d4bfeb83a7c4134d359644b12aca45a86a431e58df68e1f1",
       "reason": "Retain the bench composition but show the same shallow ribbed basin, with its horn directed deeper into the cave, away from the entrance."
+    },
+    {
+      "source": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
+      "sourceSha256": "dbec06a9a1891554bd13489ffb86f93e1b1058aae6c79333f89debab9850cec6",
+      "reason": "Add a simple canopy above the existing throne, keeping the low platform, bare gallery and restrained oil treatment."
     }
   ]
 }
