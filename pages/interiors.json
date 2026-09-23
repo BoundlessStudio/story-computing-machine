@@ -1301,19 +1301,26 @@
           "id": "02-the-table-near-the-guitar",
           "title": "The table near the guitar",
           "alt": "The table near the guitar — oil interior study for All the Good Things",
-          "source": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
-          "sourceSha256": "ab4bd133a2d5b7fb3890061d95831392f4561917adf97d76c3b7840a69a3562b",
+          "source": "pages/interior-replacements/the-rule-between-courses/02-the-table-near-the-guitar.png",
+          "sourceSha256": "9fe0b8992671297fcc9a71202c435ddaad0aa6eedd3a9b3c2c097c6c6298fd17",
           "full": {
-            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-ab4bd133a2d5b7fb.webp",
-            "sha256": "d89d4f64a87c138b99278858367ae4717fd9dada99e979d858b8aeb3706e5e53",
+            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-9fe0b8992671297f.webp",
+            "sha256": "1580a9015b0dd8583d204c0315229a89db59e9463c759e87328e3bff93403fd8",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-ab4bd133a2d5b7fb-thumb.webp",
-            "sha256": "0240f15a8d32fa75cb88d7795b6d1daa0ae79ce2ad374cccafcb7c4bb48f005e",
+            "path": "interiors/the-rule-between-courses/02-the-table-near-the-guitar-9fe0b8992671297f-thumb.webp",
+            "sha256": "3f33fa041d189c4e3c7437c341bc00ef15b9c618701b89f1a01908cf684c019f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
+            "originalSha256": "ab4bd133a2d5b7fb3890061d95831392f4561917adf97d76c3b7840a69a3562b",
+            "correction": "Close the central doorway with continuous plaster wall, keeping the guitar, stool, hatch and foreground table as one small room.",
+            "prompt": "Use case: one-opening architectural correction. Image 1 is the close supper-table painting to edit. Image 2 shows the same restaurant's warm continuous plaster wall treatment; use it only as a wall/material continuity reference, without changing Image 1's camera or furniture. One 3:2 landscape image, 1536x1024 preferred.\nThe restaurant has ONE small dining room. In Image 1, completely close the tall CENTRAL doorway between the guitar/vase corner and the kitchen serving hatch. Remove that doorway's dark wooden frame and arched upper border, and remove every glimpse of the extra room, its rear window, table and chairs. Replace the whole aperture and frame with a single uninterrupted warm amber/lavender textured PLASTER WALL, flush with the adjacent wall surfaces, from ceiling down to the floor behind the foreground chair. It must look like there was never a doorway here: no outline, inset, alcove, panel, arch or opening. Continue the simple existing base trim where visible. Do not add decoration to this new wall.\nKeep the actual wide horizontal KITCHEN HATCH at upper right open, with its copper pans, plates, herbs and lemons. Keep the guitar, low stool, tall leafy vase, other existing left wall fixtures, three-setting round foreground table, fish and fennel platter, glasses, bread, candle and chairs exactly as in Image 1. Preserve the thick confident expressive Group of Seven-inspired oil paint, warm amber light and blue-violet shadows. Empty room, no people or animals. No text overlay, labels, signature, watermark, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11718,6 +11725,11 @@
       "source": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
       "sourceSha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef",
       "reason": "Keep the pendant and open case but soften or block the window's specific distant geography."
+    },
+    {
+      "source": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
+      "sourceSha256": "ab4bd133a2d5b7fb3890061d95831392f4561917adf97d76c3b7840a69a3562b",
+      "reason": "Close the central doorway with continuous plaster wall, keeping the guitar, stool, hatch and foreground table as one small room."
     }
   ]
 }
