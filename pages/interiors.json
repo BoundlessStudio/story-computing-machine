@@ -2128,38 +2128,52 @@
           "id": "01-birthday-audience-hall",
           "title": "Birthday audience hall",
           "alt": "Birthday audience hall — oil interior study for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/interiors/01-birthday-audience-hall.png",
-          "sourceSha256": "9ab1c3b511ed0fd3e0ad0f3a88ea600854c7ae797a880e5557db33c0bbc31232",
+          "source": "pages/interior-replacements/his-infernal-majesty-says-no/01-birthday-audience-hall.png",
+          "sourceSha256": "8ca2e7bd1897d36b5b8111923bd11824eb2bd13b3dfb40b5104064037ff48f74",
           "full": {
-            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-9ab1c3b511ed0fd3.webp",
-            "sha256": "e304f3263b6a1b7b3e8f0b9ad5be55daee20a36e2b2d14ecb8897fb5088383e5",
+            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-8ca2e7bd1897d36b.webp",
+            "sha256": "e1e6e3831e2f882f0d88fd6142e27180d8a872c743d055bcf4c864db9d08738d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-9ab1c3b511ed0fd3-thumb.webp",
-            "sha256": "af9ca96839dfe829ddc84a140b83cc7ac3daca5e7f6d190dbe7a86fca7a12724",
+            "path": "interiors/his-infernal-majesty-says-no/01-birthday-audience-hall-8ca2e7bd1897d36b-thumb.webp",
+            "sha256": "f127706cbfe49455b5a9b04ddbe993c62414aa9111337a09dc445109545bab7e",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/his-infernal-majesty-says-no/art/interiors/01-birthday-audience-hall.png",
+            "originalSha256": "9ab1c3b511ed0fd3e0ad0f3a88ea600854c7ae797a880e5557db33c0bbc31232",
+            "correction": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape.",
+            "prompt": "Use case: precise-object-edit. Remove only the unsupported exterior panorama from this empty infernal palace audience hall painting. Preserve the original 3:2 composition, preferably 1536x1024.\nThe supplied image is the edit target and exact style/architecture reference. Lock the dark angular throne and dais at right, adjacent little chair, pear breakfast service with steaming cup and silver cover, foreground petition rail with papers, rose ribbons above the arches, tall pillars, red carpet, braziers and broad expressive oil strokes.\nIn BOTH large left-side arched openings, completely remove every distant crag, mountain, valley, volcanic plain and horizon. Retain the existing arch shapes and low balustrade. Behind them show only softly mottled diffuse warm amber-gray light through plain smoky translucent glazing, with no discernible view beyond: no terrain, skyline, clouds with horizon, buildings or creatures. This should be quiet indirect window light that supports the braziers' warm room illumination; it must not resemble a magical portal, blaze, sunset landscape or new focal spectacle. Keep the room interior dominant.\nPreserve the actual input's broad confident Group of Seven-inspired oil treatment, impasto marks, warm ember/ochre accents, dark violet stone, composition and every supported furnishing. No people, hands, lettering, symbols, caption, signature, watermark, collage, photorealism or 3D rendering. Change no other feature.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-nimelzas-sitting-room",
           "title": "Nimelzas sitting room",
           "alt": "Nimelzas sitting room — oil interior study for His Infernal Majesty Says No",
-          "source": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
-          "sourceSha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2",
+          "source": "pages/interior-replacements/his-infernal-majesty-says-no/02-nimelzas-sitting-room.png",
+          "sourceSha256": "c87b47ae2eaecf649ab3163acea87350eebdefa70c6cdab23bca9e0d4753380c",
           "full": {
-            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-620c6dbe5cdb091a.webp",
-            "sha256": "d1f4613f7954d88475670bd4e3aa041cf054e8f4a9713ec820fefce2eb19e054",
+            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-c87b47ae2eaecf64.webp",
+            "sha256": "6f9913d958efdb34205871088cf37eee7404f62b4346d4f3c51d264f6de4c93b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-620c6dbe5cdb091a-thumb.webp",
-            "sha256": "1e1ad2dda31c800dd37e91e475867052e2c2c199a26289447772cee98ee4c46b",
+            "path": "interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room-c87b47ae2eaecf64-thumb.webp",
+            "sha256": "dfff1b08eb1411801b83a4ee3130ab3b87aa09f891fded23c65a0375aa3027fb",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+            "originalSha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2",
+            "correction": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape.",
+            "prompt": "Use case: precise-object-edit. Remove only the unsupported exterior panorama from Input 1, Nimelza's sitting-room painting. Keep its original 3:2 composition, preferably 1536x1024.\nInput 1 is the EDIT TARGET. Lock the writing desk and opened false-bottom compartment with human papers, blank glass screen balanced on two books, shaded lamp, knitted cap, bent silver clasp, small case, armchair, bookcase, fireplace and dark stone room. Preserve exact object placement and expressive oil brushwork.\nInput 2 is a corrected SAME-PALACE REFERENCE only for the quiet diffuse amber-gray glazing treatment. Do not import its hall architecture, throne or furnishings.\nIn BOTH narrow window panes at the upper left of Input 1, remove all orange crags, plains, mountains, waterlike bands, skyline and sunset horizon. Replace the view with plain smoky translucent glazing carrying softly mottled warm amber-gray diffuse light, as in Input 2, with no identifiable landscape beyond it. Preserve the existing dark mullion, arches, sill and curtain. The window remains subordinate to the intimate desk scene; do not create a portal or a bright new spectacle.\nRetain the original Group of Seven-inspired confident broad oil strokes, impasto, dark violet stone, ochre lamplight and muted rose textiles. No new objects, people, hands, lettering, symbols, captions, signature, watermark, collage, photorealism or 3D rendering. All changes are confined to the window view.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11478,6 +11492,16 @@
       "source": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
       "sourceSha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
       "reason": "Remove railings from the final length of the service bridge while preserving the gallery rails and machinery."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/interiors/01-birthday-audience-hall.png",
+      "sourceSha256": "9ab1c3b511ed0fd3e0ad0f3a88ea600854c7ae797a880e5557db33c0bbc31232",
+      "reason": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape."
+    },
+    {
+      "source": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+      "sourceSha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2",
+      "reason": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape."
     }
   ]
 }
