@@ -1,0 +1,630 @@
+{
+  "slug": "before-she-gets-tired",
+  "title": "Not Friday",
+  "source": "stories/before-she-gets-tired/story.md",
+  "canon": false,
+  "mainCastEvidence": "The story's three sustained actors are Wesley, his friend Jamar Ellis, and Beatriz Soto; their work and conversation carry the romantic decision and its practical follow-through.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Four recalled romantic prospects",
+      "reason": "Brief remembered examples, no active substantial role."
+    },
+    {
+      "name": "Volunteers, technician, student quintet, guests and server",
+      "reason": "Event or restaurant functionaries without independent character arcs."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md (no matching named entries)"
+  ],
+  "characters": [
+    {
+      "id": "wesley",
+      "name": "Wesley",
+      "role": "Protagonist; arts-center volunteer who learns to act without treating friendliness as a promise.",
+      "selectionEvidence": [
+        {
+          "quote": "Wesley had carried eight folding chairs at once exactly one time.",
+          "line": 11,
+          "explanation": "Opening viewpoint; sustained volunteer work and romantic decision carry the story."
+        },
+        {
+          "quote": "Good. Tuesday, seven.",
+          "line": 271,
+          "explanation": "Date arrangement and follow-through remain the concluding arc."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Adult human; ordinary two arms and two legs.",
+        "lifeStage": "Adult, exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "Scars on two knuckles.",
+        "materials": "Human skin and hair; practical contemporary cloth.",
+        "clothing": "Contemporary arts-center work clothes, exact cut and colors interpreted.",
+        "equipment": "Pocket tape measure; guest list and retrieved XLR cables as work props.",
+        "scale": "Ordinary human.",
+        "movement": "Carries and sets down work materials; reserved but increasingly decisive.",
+        "distinctiveFeatures": "Two scarred knuckles; quiet practical presence."
+      },
+      "explicitCanon": [
+        "Adult male arts-center volunteer.",
+        "Scars on two knuckles.",
+        "Uses tape measure and retrieves two XLR cables.",
+        "Respects Beatriz's schedule and maintains Tuesday date."
+      ],
+      "visualInterpretation": [
+        "Approximately early thirties, fair freckled skin, short tousled auburn hair, long face and gray-green eyes; source does not specify these.",
+        "Lean sturdy build, worn muted navy overshirt, soft gray T-shirt, charcoal trousers and simple work shoes.",
+        "Warm afternoon light for work views; subdued yellow evening light for date face detail."
+      ],
+      "states": [
+        {
+          "name": "Wednesday work",
+          "description": "Practical clothes, tape measure, work-ready posture."
+        },
+        {
+          "name": "Tuesday evening",
+          "description": "Same identity in tidied overshirt, relaxed tired face in yellow restaurant light."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "before-she-gets-tired:wesley",
+        "links": [],
+        "evidence": "No shared-universe entry or cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/before-she-gets-tired/title-image.jpg",
+          "role": "cover composition/color only; no people depicted",
+          "inspected": true,
+          "notes": "Paper calendar and blue tape, no character identity.",
+          "sha256": "194a0ffcbb12a882d36b139656ec1822fa660d32b668b1bed7f39f054a4e389f"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+          "role": "work-hour warm afternoon light and oil paint rhythm only",
+          "inspected": true,
+          "notes": "Amber sun and muted violet hall, broad impasto. No setting transferred.",
+          "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+          "role": "evening warm electric illumination and cool shadow only",
+          "inspected": true,
+          "notes": "Yellow pendants with blue evening window, no environment transferred.",
+          "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio rendering only; no identity borrowing",
+          "inspected": true,
+          "notes": "Broad matte oil and clean character-only ivory layout, no swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/before-she-gets-tired/art/characters/wesley.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "EDIT first input only: preserve exact Wesley face, auburn hair, clothing, anatomy, two complete figures, props, labels, header and entirely bare ivory folio. Keep 1536x1024. Paint must be Canadian Group of Seven-inspired oil, broad connected masses. Merge about 70 percent of the tiny similarly sized chips into quiet substantial shadow and midtone shapes, especially face, hands and shirt. Keep selective heavy impasto accents and broad bristle strokes; no smooth photoreal rendering. MOST IMPORTANT: the upper-right 'Tuesday evening' head must read dim electric evening light, two stops darker overall, one small muted yellow cheek/forehead light plane, majority dark connected blue-brown shadows; no bright face or hair rim. Main work figures retain warm afternoon light. Do not import restaurant, table, windows or scenery from second input; it controls light alone. No paint swatches, ground patches, vignettes or new text. Exact same person in every view.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T22:22:23.529316+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. Create ONE identity sheet titled exactly 'Wesley' with subtitle 'Not Friday'. Adult man early thirties, fair freckled skin, short tousled auburn hair, long narrow face, gray-green eyes, lean sturdy build. These are restrained art choices; keep consistent between all studies. Worn muted navy overshirt over gray T-shirt, charcoal trousers and plain work shoes. Source-distinctive detail: two scarred knuckles, discreet healed marks, no fresh injury. Two large isolated complete-body views: calm three-quarter front volunteer pose holding a pocket tape measure; side/back view holding a small coil of two ordinary XLR audio cables. One relaxed evening head study, warm yellow electric light and deep blue-brown shadows, same face, no restaurant furniture or room. Small hand detail identifies 'Two scarred knuckles'. Concise labels 'Volunteer work', 'Cable run', 'Tuesday evening'. Main work views lit by low warm afternoon light, subdued cool violet shadows, NOT bright flat studio lighting. Arms/hands/anatomy natural. No chairs or other people. Coris is style only; rehearsal image light and paint only, no environment. Isolated figures on bare ivory, no cast-shadow ground patches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved folio rendering only; no identity borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+                "role": "work-hour warm afternoon light and oil paint rhythm only",
+                "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-b0cd-7f80-9898-4eb66d6a746d\\exec-51d1404e-4b48-4086-9a35-61b06d4b99bf.png",
+            "outputSha256": "a1ace55661b7f4f5808d7d3c2ec0d2e15dfeccacdf30187983ee1b56b5993315",
+            "reviewFinding": "Even bright portrait lighting did not establish Tuesday evening; tiny uniform chips weakened connected oil masses. Consolidate paint and make evening head visibly darker."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:23:39.030503+00:00",
+            "prompt": "EDIT first input only: preserve exact Wesley face, auburn hair, clothing, anatomy, two complete figures, props, labels, header and entirely bare ivory folio. Keep 1536x1024. Paint must be Canadian Group of Seven-inspired oil, broad connected masses. Merge about 70 percent of the tiny similarly sized chips into quiet substantial shadow and midtone shapes, especially face, hands and shirt. Keep selective heavy impasto accents and broad bristle strokes; no smooth photoreal rendering. MOST IMPORTANT: the upper-right 'Tuesday evening' head must read dim electric evening light, two stops darker overall, one small muted yellow cheek/forehead light plane, majority dark connected blue-brown shadows; no bright face or hair rim. Main work figures retain warm afternoon light. Do not import restaurant, table, windows or scenery from second input; it controls light alone. No paint swatches, ground patches, vignettes or new text. Exact same person in every view.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-51d1404e-4b48-4086-9a35-61b06d4b99bf.png",
+                "role": "same identity and layout, targeted paint and evening-light correction",
+                "sha256": "a1ace55661b7f4f5808d7d3c2ec0d2e15dfeccacdf30187983ee1b56b5993315",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+                "role": "warm dim electric evening illumination only; no scenery",
+                "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-128d415f-5dee-4aae-99db-c59ff66494a8.png",
+            "outputSha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:25:58.985854+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-51d1404e-4b48-4086-9a35-61b06d4b99bf.png",
+            "role": "same identity and layout, targeted paint and evening-light correction",
+            "sha256": "a1ace55661b7f4f5808d7d3c2ec0d2e15dfeccacdf30187983ee1b56b5993315",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+            "role": "warm dim electric evening illumination only; no scenery",
+            "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:25:58.985875+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+        "sourceSha256": "3958185354bf27de4e52e222e1e4307a1f6ded48cfc2e093ee3ec017897066f2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-51d1404e-4b48-4086-9a35-61b06d4b99bf.png",
+            "role": "same identity and layout, targeted paint and evening-light correction",
+            "sha256": "a1ace55661b7f4f5808d7d3c2ec0d2e15dfeccacdf30187983ee1b56b5993315",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+            "role": "warm dim electric evening illumination only; no scenery",
+            "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: two complete consistent adult human views, natural anatomy, same auburn hair and navy work clothes.",
+          "Readable exact Wesley / Not Friday headings; supported tape measure, audio cable and two healed scarred knuckles.",
+          "Broad matte oil and connected shadows; evening portrait meaningfully dimmer than work views. Quiet ivory, no scenery or swatches."
+        ],
+        "specificationSha256": "0f36dbb5aa32dc8fb505d219321e59880eed4f43e82e091dc4f17611bd7e8a53"
+      },
+      "lighting": "Work views: amber afternoon light with subdued violet cool shadows; evening detail small yellow electric pools and dark blue-brown shadow.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Wesley"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80"
+    },
+    {
+      "id": "jamar-ellis",
+      "name": "Jamar Ellis",
+      "role": "Substantial supporting friend who challenges Wesley and then helps during the showcase.",
+      "selectionEvidence": [
+        {
+          "quote": "Jamar Ellis two free hands for opinions.",
+          "line": 11,
+          "explanation": "Named sustained conversational partner from the opening."
+        },
+        {
+          "quote": "Jamar rolled tape into a gray, useless ball.",
+          "line": 263,
+          "explanation": "Continues helping through event cleanup."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Adult human; ordinary two arms and two legs.",
+        "lifeStage": "Adult, exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specified markings.",
+        "materials": "Human skin and hair; practical contemporary cloth.",
+        "clothing": "Contemporary arts-center work clothes, exact cut and colors interpreted.",
+        "equipment": "Printed programs; gray stage-tape ball during cleanup.",
+        "scale": "Ordinary human.",
+        "movement": "Expressive eyebrows and broad conversational gestures; active event volunteer.",
+        "distinctiveFeatures": "Animated expressive face."
+      },
+      "explicitCanon": [
+        "Adult male friend of Wesley.",
+        "Helps with chairs, programs, aisle clearance and cleanup.",
+        "Expressive conversational teasing is central to his role."
+      ],
+      "visualInterpretation": [
+        "Approximately early thirties, deep brown skin, broad round face, close-cropped textured black hair, broad shoulders.",
+        "Muted ocher cotton work shirt with rolled sleeves, dark olive trousers and plain sneakers.",
+        "Warm low afternoon work illumination with violet-brown shadows, no performance spotlight."
+      ],
+      "states": [
+        {
+          "name": "Setting up",
+          "description": "Expressive work stance with programs."
+        },
+        {
+          "name": "After the show",
+          "description": "Tired relaxed posture with tape ball."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "before-she-gets-tired:jamar-ellis",
+        "links": [],
+        "evidence": "No matching universe identity established."
+      },
+      "references": [
+        {
+          "path": "stories/before-she-gets-tired/title-image.jpg",
+          "role": "cover composition/color only; no people depicted",
+          "inspected": true,
+          "notes": "Paper calendar and blue tape, no character identity.",
+          "sha256": "194a0ffcbb12a882d36b139656ec1822fa660d32b668b1bed7f39f054a4e389f"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+          "role": "work-hour warm afternoon light and oil paint rhythm only",
+          "inspected": true,
+          "notes": "Amber sun and muted violet hall, broad impasto. No setting transferred.",
+          "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+          "role": "evening warm electric illumination and cool shadow only",
+          "inspected": true,
+          "notes": "Yellow pendants with blue evening window, no environment transferred.",
+          "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio rendering only; no identity borrowing",
+          "inspected": true,
+          "notes": "Broad matte oil and clean character-only ivory layout, no swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/before-she-gets-tired/art/characters/jamar-ellis.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE adult man identity sheet, exact upper-left header 'Jamar Ellis' / 'Not Friday'. Adult early thirties, deep brown skin, broad round face, expressive dark eyes and eyebrows, close cropped textured black hair, broad shoulders and sturdy build. Consistent face and body in every study. Contemporary muted ocher cotton work shirt rolled sleeves, dark olive trousers, plain worn sneakers. Two large complete isolated full-body views: three-quarter front mid-friendly conversation with one broad natural hand gesture and folded printed programs in other hand; back-three-quarter tired cleanup stance holding small gray ball of used stage tape. Two smaller distinct head studies for 'Teasing' and 'After the show', same mature adult. Small tape ball detail if space. Source personality confident teasing friend who also does practical event work; no swagger costume. Large connected broad oil masses, especially skin dark planes and shirt shadows; matte bristle faces, quiet passages and only selective raised impasto. Warm LOW afternoon light across work studies with cool violet-brown shadows; no bright portrait glow. No stage or chairs, no furniture/scenery/ground plane/swatches. Coris ref style only, rehearsal ref light and paint only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:25:59.974069+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE adult man identity sheet, exact upper-left header 'Jamar Ellis' / 'Not Friday'. Adult early thirties, deep brown skin, broad round face, expressive dark eyes and eyebrows, close cropped textured black hair, broad shoulders and sturdy build. Consistent face and body in every study. Contemporary muted ocher cotton work shirt rolled sleeves, dark olive trousers, plain worn sneakers. Two large complete isolated full-body views: three-quarter front mid-friendly conversation with one broad natural hand gesture and folded printed programs in other hand; back-three-quarter tired cleanup stance holding small gray ball of used stage tape. Two smaller distinct head studies for 'Teasing' and 'After the show', same mature adult. Small tape ball detail if space. Source personality confident teasing friend who also does practical event work; no swagger costume. Large connected broad oil masses, especially skin dark planes and shirt shadows; matte bristle faces, quiet passages and only selective raised impasto. Warm LOW afternoon light across work studies with cool violet-brown shadows; no bright portrait glow. No stage or chairs, no furniture/scenery/ground plane/swatches. Coris ref style only, rehearsal ref light and paint only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved folio rendering only; no identity borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+                "role": "work-hour warm afternoon light and oil paint rhythm only",
+                "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-c551e8ed-aeeb-4a98-bec4-67cb1e6bdac1.png",
+            "outputSha256": "d4f00e2750e270b9ceeb364d9ac3811a3ba7990c94e953893c5cd80890fd13da",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:27:35.385875+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio rendering only; no identity borrowing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+            "role": "work-hour warm afternoon light and oil paint rhythm only",
+            "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:27:35.385893+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "d4f00e2750e270b9ceeb364d9ac3811a3ba7990c94e953893c5cd80890fd13da",
+        "sourceSha256": "3958185354bf27de4e52e222e1e4307a1f6ded48cfc2e093ee3ec017897066f2",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio rendering only; no identity borrowing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+            "role": "work-hour warm afternoon light and oil paint rhythm only",
+            "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: two complete unclipped same-identity adult views, consistent face/body/clothes, natural anatomy and expressive eyebrows.",
+          "Programs and used stage-tape detail support the source work; readable exact Jamar Ellis and Not Friday headings.",
+          "Broad matte skin planes, directional heavy oil cloth, subdued warm work light and cool dark shadows. No scenery, ground plane or swatches."
+        ],
+        "specificationSha256": "2ff7e24afeed8395f229f8303223df61c44297201c36ee5e453527b40137be37"
+      },
+      "lighting": "Warm low afternoon rehearsal work light, muted violet-brown shadows.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Jamar Ellis"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "d4f00e2750e270b9ceeb364d9ac3811a3ba7990c94e953893c5cd80890fd13da"
+    },
+    {
+      "id": "beatriz-soto",
+      "name": "Beatriz Soto",
+      "role": "Romantic co-lead and competent event coordinator beginning paid stage work.",
+      "selectionEvidence": [
+        {
+          "quote": "Her dark hair was pinned up with a pencil.",
+          "line": 91,
+          "explanation": "Source-supported distinguishing appearance at arrival."
+        },
+        {
+          "quote": "A strip of black stage tape clung to the cuff of her jacket, and there were shadows under her eyes that the restaurant's yellow lights did nothing to hide.",
+          "line": 285,
+          "explanation": "Specific appearance at date and continuing work identity."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult human; ordinary two arms and two legs.",
+        "lifeStage": "Adult, exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specified markings.",
+        "materials": "Human skin and hair; practical contemporary cloth.",
+        "clothing": "Practical jacket with black stage tape on cuff at date.",
+        "equipment": "Pencil in pinned-up dark hair at work, absent at date; one-ear headset or headset around neck; blue cable, revised run sheets and file box.",
+        "scale": "Ordinary human.",
+        "movement": "Direct purposeful worker, relaxed but tired at date.",
+        "distinctiveFeatures": "Dark hair, pencil-held working hairstyle; tired shadows under eyes."
+      },
+      "explicitCanon": [
+        "Adult woman with dark hair pinned by a pencil during work.",
+        "Pencil is gone from hair at Tuesday date.",
+        "Wears headset over one ear, later around neck.",
+        "Carries blue cable and run sheets; black stage tape on jacket cuff and shadows under eyes at date."
+      ],
+      "visualInterpretation": [
+        "Approximately thirty, medium olive-brown skin, oval angular face, dark straight shoulder-length hair, dark eyes; ethnicity and exact age not inferred from name.",
+        "Muted charcoal work jacket over dusty blue shirt, practical black trousers and work boots.",
+        "Work views in amber afternoon light; evening detail with yellow electric light, deeper blue-brown shadow."
+      ],
+      "states": [
+        {
+          "name": "Show coordinator",
+          "description": "Pencil-up hair and one-ear headset; blue cable or run sheets."
+        },
+        {
+          "name": "Tuesday at seven",
+          "description": "Hair loose without pencil, headset removed, black tape on jacket cuff, visibly tired but amused."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "before-she-gets-tired:beatriz-soto",
+        "links": [],
+        "evidence": "No shared-universe entry or cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/before-she-gets-tired/title-image.jpg",
+          "role": "cover composition/color only; no people depicted",
+          "inspected": true,
+          "notes": "Paper calendar and blue tape, no character identity.",
+          "sha256": "194a0ffcbb12a882d36b139656ec1822fa660d32b668b1bed7f39f054a4e389f"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+          "role": "work-hour warm afternoon light and oil paint rhythm only",
+          "inspected": true,
+          "notes": "Amber sun and muted violet hall, broad impasto. No setting transferred.",
+          "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d"
+        },
+        {
+          "path": "stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+          "role": "evening warm electric illumination and cool shadow only",
+          "inspected": true,
+          "notes": "Yellow pendants with blue evening window, no environment transferred.",
+          "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio rendering only; no identity borrowing",
+          "inspected": true,
+          "notes": "Broad matte oil and clean character-only ivory layout, no swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/before-she-gets-tired/art/characters/beatriz-soto.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "NARROW EDIT of first input Beatriz sheet. Keep exact Beatriz identity, two complete figures, clothes, labels, header, props, hair states, cuff study, bare ivory and dimensions1536x1024. Change ONLY center Tuesday fullfigure and upper-right headstudy light/paint. They must be two stops darker than currently: dim indoor nighttime yellow electric bulb, like DARK UPPER-RIGHT portrait in second Wesley sheet. Very small muted gold plane on forehead and cheek; 70% of face/body midtones and shadows merge into broad connected dark umber, blue-brown and muted violet. Eyes remain dark, NO rimlight, no face glow. Connect oil masses rather than mosaic flecks, quiet broad passages with selective thick impasto. Preserve visible tired under-eyes and subtle amused expression. LEFT WORK FIGURE MUST REMAIN AS IS. Source restaurant has yellow lights and tired shadows; this is evening, not daylight. No scenery or environment at all, no swatches, floor or ground patches. Second input lighting only, do not import man or text.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T22:27:36.380293+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity sheet, exact heading 'Beatriz Soto' subtitle 'Not Friday'. Contemporary adult woman around thirty, medium olive-brown skin, angular oval face, dark eyes, straight dark shoulder-length hair. Average practical strong body, not fashion posing. Same identity in both complete full-body figures. LEFT: 'Show coordinator', dark hair pinned up with a visible pencil, black lightweight headset over ONE ear, muted charcoal work jacket over dusty blue shirt, black trousers and flat work boots; holds revised run sheets and modest coil of blue audio cable. Low amber afternoon light with muted violet shadows. CENTER: 'Tuesday at seven', same woman and jacket/body; hair let down WITHOUT pencil, NO headset, strip of black stage tape on one jacket cuff; tired shadows under eyes with gentle amused expression. This date figure must be distinctly dimmer, subdued yellow electric light from upper side and large dark blue-brown shadows; not outdoor daylight or glamour portrait. RIGHT: broad matte painted head study in date lighting plus small cuff detail showing black tape. Clear concise functional labels. No duplicated equipment in date state. Faces/hair built from LARGE connected brush-painted shapes, quiet broad dark passages and selective impasto; no tiny even mosaic texture or glossy eyes. ONLY woman, work props and detail on bare ivory; NO furniture, room, scenery, floor, plants, ground patches or swatches. Coris identity not copied; other images supply light/paint only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved folio rendering only; no identity borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/01-rehearsal-hall.png",
+                "role": "work-hour warm afternoon light and oil paint rhythm only",
+                "sha256": "8d3d7f5d01b511b0e943f74e554b665c046a0a5a89db93f20c7b608c98bfa93d",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/interiors/03-noodle-place.png",
+                "role": "evening warm electric illumination and cool shadow only",
+                "sha256": "52a308666e6606a0c12dab4384f6a2b8a9ee1c10ebe70b451820eeb8614e06ea",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-b0cd-7f80-9898-4eb66d6a746d\\exec-00b77935-68a3-42f9-94ee-02a8b101d307.png",
+            "outputSha256": "4c19fc8691e9e08210f6d919a621d030f67496c03e26bf31327ed17565189907",
+            "reviewFinding": "Tuesday face and figure retain too much bright daytime exposure; targeted dim electric-light correction required."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:30:30.337042+00:00",
+            "prompt": "NARROW EDIT of first input Beatriz sheet. Keep exact Beatriz identity, two complete figures, clothes, labels, header, props, hair states, cuff study, bare ivory and dimensions1536x1024. Change ONLY center Tuesday fullfigure and upper-right headstudy light/paint. They must be two stops darker than currently: dim indoor nighttime yellow electric bulb, like DARK UPPER-RIGHT portrait in second Wesley sheet. Very small muted gold plane on forehead and cheek; 70% of face/body midtones and shadows merge into broad connected dark umber, blue-brown and muted violet. Eyes remain dark, NO rimlight, no face glow. Connect oil masses rather than mosaic flecks, quiet broad passages with selective thick impasto. Preserve visible tired under-eyes and subtle amused expression. LEFT WORK FIGURE MUST REMAIN AS IS. Source restaurant has yellow lights and tired shadows; this is evening, not daylight. No scenery or environment at all, no swatches, floor or ground patches. Second input lighting only, do not import man or text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-00b77935-68a3-42f9-94ee-02a8b101d307.png",
+                "role": "same Beatriz identity, exact presentation and anatomy to preserve",
+                "sha256": "4c19fc8691e9e08210f6d919a621d030f67496c03e26bf31327ed17565189907",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/characters/wesley.png",
+                "role": "Tuesday evening portrait light and oil treatment only; never male identity",
+                "sha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-ebdaa650-ac86-4e04-b01a-f754bcea0988.png",
+            "outputSha256": "1739f0f0cb9cea16c83cd666476a430eefbcd956cd61cdcc238c918b68e40dfc",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:32:05.249606+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-00b77935-68a3-42f9-94ee-02a8b101d307.png",
+            "role": "same Beatriz identity, exact presentation and anatomy to preserve",
+            "sha256": "4c19fc8691e9e08210f6d919a621d030f67496c03e26bf31327ed17565189907",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/characters/wesley.png",
+            "role": "Tuesday evening portrait light and oil treatment only; never male identity",
+            "sha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:32:05.249638+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "1739f0f0cb9cea16c83cd666476a430eefbcd956cd61cdcc238c918b68e40dfc",
+        "sourceSha256": "3958185354bf27de4e52e222e1e4307a1f6ded48cfc2e093ee3ec017897066f2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-00b77935-68a3-42f9-94ee-02a8b101d307.png",
+            "role": "same Beatriz identity, exact presentation and anatomy to preserve",
+            "sha256": "4c19fc8691e9e08210f6d919a621d030f67496c03e26bf31327ed17565189907",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-she-gets-tired/art/characters/wesley.png",
+            "role": "Tuesday evening portrait light and oil treatment only; never male identity",
+            "sha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: two complete consistent Beatriz forms; ordinary adult anatomy, working pencil-up hair and one-ear headset, Tuesday loose hair without headset or pencil.",
+          "Readable exact name and story title, run sheets/blue cable and black cuff tape support source; visibly tired evening head and matching darker date body.",
+          "Matte oil face/body with connected dark passages and selective thick stroke edges; distinct afternoon/evening light, warm ivory only, no location or swatches."
+        ],
+        "specificationSha256": "7676775996b215886701591a654b128ee9efe4383d6c3550487cef491730256b"
+      },
+      "lighting": "Amber rehearsal afternoon light for work form; distinct dim yellow electric light and deep blue-brown shadow for Tuesday date form.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Beatriz Soto"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "1739f0f0cb9cea16c83cd666476a430eefbcd956cd61cdcc238c918b68e40dfc"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "3958185354bf27de4e52e222e1e4307a1f6ded48cfc2e093ee3ec017897066f2",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
