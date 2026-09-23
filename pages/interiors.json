@@ -3645,19 +3645,26 @@
           "id": "03-farleafs-forward-garden",
           "title": "Farleafs forward garden",
           "alt": "Farleafs forward garden — oil interior study for The Address of Here",
-          "source": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
-          "sourceSha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428",
+          "source": "pages/interior-replacements/postcard-garden/03-farleafs-forward-garden.png",
+          "sourceSha256": "436578ee40510193e81c04cfbd8f1b80194ef9b60af5cb420bfd1f6a9dbefc9e",
           "full": {
-            "path": "interiors/postcard-garden/03-farleafs-forward-garden-5a2668d11f691be4.webp",
-            "sha256": "cb320f35e9b1ce77c60f2470b727e3ec060f10b19e394577ec3daf664bc5fb47",
+            "path": "interiors/postcard-garden/03-farleafs-forward-garden-436578ee40510193.webp",
+            "sha256": "fb575d57758ff36a438fccd70c97fe8c1c735157081e278a5352f60a30ae05d8",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/postcard-garden/03-farleafs-forward-garden-5a2668d11f691be4-thumb.webp",
-            "sha256": "2f46bc1807bdf71f25ce80476b6931518755a61721947dc17a3b244e71b28acc",
+            "path": "interiors/postcard-garden/03-farleafs-forward-garden-436578ee40510193-thumb.webp",
+            "sha256": "5af3bb8fb23be8e27e7cb6b9d6d5ec7757340316639578b64ba1739e8f846093",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+            "originalSha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428",
+            "correction": "Make the distinctive three unequal ribs architecturally massive and preserve their off-center junction, reframing closer if needed.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target: Farleaf's forward garden before departure. Image 2 is the already accepted construction-spare reference for the SAME window's three-rib architecture and massive structural thickness, not a room or mood to copy.\nRetain image 1's white-flowering tree at left, broad garden path between low planted beds, row of overhead lamps, pale curved ship interior, clear blank blue sky beyond the glass, and no people. Keep its expressive Group of Seven-inspired oil painting with shaped cream, gold, green and blue masses and confident visible brushwork. One 3:2 landscape image, preferably 1536x1024.\nCorrect the garden window's architecture to match its construction spare in image 2. Replace the thin metal strips and multiple small joints with exactly THREE enormous unequal ribs radiating from ONE clearly off-center joint, a single asymmetric three-armed Y within the curved perimeter. These are hollow spacecraft structural members thick enough to contain a person walking along an interior passageway: massive in width AND depth, not slender greenhouse mullions. The three ribs have clearly different lengths and make three large irregular fields of bowed glass. The perimeter frame is separate from the three internal arms. No fourth arm, repeated joint, secondary grid or crossbars.\nIntegrate that substantial curved window into the garden's hull in the same background location. Preserve the recognizable garden and wide walk; minor perspective reframing is allowed to make the three-rib joint readable beside the tree. It must look like the installed original of image 2's spare. Do not bring the museum cradle, hall floor, roses, fern-sale tables or indoor reflections from image 2 into this garden. Keep blue sky beyond the glass.\nNo text, captions, signatures, watermark, border, collage, added people, scenic lake or mountains, photorealism or 3D rendering.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11058,6 +11065,11 @@
       "source": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
       "sourceSha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d",
       "reason": "Empty both baskets, retaining their waxed dividers and blank tags."
+    },
+    {
+      "source": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+      "sourceSha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428",
+      "reason": "Make the distinctive three unequal ribs architecturally massive and preserve their off-center junction, reframing closer if needed."
     }
   ]
 }
