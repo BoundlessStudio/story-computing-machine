@@ -3536,57 +3536,78 @@
           "id": "01-tea-and-telemetry",
           "title": "Tea and telemetry",
           "alt": "Tea and telemetry — oil interior study for Terms at Four",
-          "source": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
-          "sourceSha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+          "source": "pages/interior-replacements/terms-at-four/01-tea-and-telemetry.png",
+          "sourceSha256": "e8d08ccb8b3a069b1c8ac8517a84ed8057947e0068923a212fb977de5c87c841",
           "full": {
-            "path": "interiors/terms-at-four/01-tea-and-telemetry-9364542795c06472.webp",
-            "sha256": "5667e4a18bbf76ad48f993873ded40afb8bd416d8d8f2989db8038d63ca3c206",
+            "path": "interiors/terms-at-four/01-tea-and-telemetry-e8d08ccb8b3a069b.webp",
+            "sha256": "a7223d3ab06ac2cb850c2f3e8acfa445e2ab1bd742c44eebfcf79bf012183245",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/terms-at-four/01-tea-and-telemetry-9364542795c06472-thumb.webp",
-            "sha256": "ed55c49d4257f7f912dc8e5417ba77af9da9c9471702d497da1bb54063c316c8",
+            "path": "interiors/terms-at-four/01-tea-and-telemetry-e8d08ccb8b3a069b-thumb.webp",
+            "sha256": "e2fda18332f6386ad9705fc8ace5b9b35d92bf4814417601407ec984d19c42da",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+            "originalSha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+            "correction": "Retain a restrained narrow street/building view and replace the lake and mountains with diffuse distant light or unobtrusive buildings.",
+            "prompt": "Use case: precise-object-edit. Edit only the view through the large right-hand window in Image 1. Keep this finished painting's 3:2 landscape proportions, preferably 1536x1024, and expressive Group of Seven-inspired oil brushwork.\nThe room overlooks a narrow ordinary residential street. Retain the near houses, the narrow descending street, restrained trees and warm sky. Remove the distant lake, mountain ridges and expansive scenic panorama. Continue the nearby modest buildings along the narrow street into a shallow, softly lit urban distance; the far end can disappear behind unobtrusive building fronts and diffuse pale light. Do not add a landmark or a defining geographic feature.\nPreserve every interior element and its position: strawberry-embroidered cloth, tea pots, pink three-layer cake, two cookie plates, covered pie, telemetry pane, electronics rack, flowers, furniture, wall picture and warm light. Do not change the contents of the small decorative wall picture. Match the original thick visible brushstrokes and ochre/blue-violet shaped color masses. The room remains empty. No people, animals, text overlay, labels, watermark or photographic/3D drift.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-the-operations-training-suite",
           "title": "The operations training suite",
           "alt": "The operations training suite — oil interior study for Terms at Four",
-          "source": "stories/terms-at-four/art/interiors/02-the-operations-training-suite.png",
-          "sourceSha256": "ea26e88d5ffdbd354f5bac119e924508cec0313bdb842ec08c791227bede4ff9",
+          "source": "pages/interior-replacements/terms-at-four/02-the-operations-training-suite.png",
+          "sourceSha256": "21db7ab6f9a1554a98dd3ba20107ca47314c8138ffdc1cc43e9bd6ed4cbb7624",
           "full": {
-            "path": "interiors/terms-at-four/02-the-operations-training-suite-ea26e88d5ffdbd35.webp",
-            "sha256": "d170123bebb9ff79797a2b05e89a1fec4896c7ed4ec78f3d4651299524757118",
+            "path": "interiors/terms-at-four/02-the-operations-training-suite-21db7ab6f9a1554a.webp",
+            "sha256": "b2aff8a225b45b541c962a321117f0cbc7cda00363ec0ceae04025f42be820ad",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/terms-at-four/02-the-operations-training-suite-ea26e88d5ffdbd35-thumb.webp",
-            "sha256": "f83389b85d3740eb4cd67c192e76b5b808c2b8a820ba7742f13e9daddd49e952",
+            "path": "interiors/terms-at-four/02-the-operations-training-suite-21db7ab6f9a1554a-thumb.webp",
+            "sha256": "353851ba88adea7569833a34ae1ccd0c3f3f6219267f62c4d5936871dc0afbc0",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/terms-at-four/art/interiors/02-the-operations-training-suite.png",
+            "originalSha256": "ea26e88d5ffdbd354f5bac119e924508cec0313bdb842ec08c791227bede4ff9",
+            "correction": "Replace with a sliding leaf recessed alongside the opening. Use a restrained translucent window or wall; retain the supported internal observation window and transfer hatch.",
+            "prompt": "Use case: precise-object-edit. Correct two local details of Image 1, retaining this same empty operations training suite, 3:2 aspect and expressive thick oil painting.\nFirst replace the central open hinged swing door with an OPEN SLIDING SECURITY DOOR. Its solid gray leaf has slid sideways into a recess alongside the opening, flat and parallel to the wall; a simple top track and the recessed edge make the sliding action clear. No projecting swing leaf, hinges or lever handle. Keep the clear rectangular passage to the inner corridor. Any depiction of this same doorway in the observation pane must agree.\nSecond, turn the large left scenic window into translucent pale glazing with diffuse light. Remove the lake, conifers, mountain ridges and all readable outdoor scenery. Keep the opening size and mullions; use quiet milky glass and the original cool gray/warm cream reflected light.\nPreserve the flat ceiling lights, white floor boundary lines, gray two-tone walls, supported INTERNAL observation window on the right, low transfer drawer, service cart and jacket. Keep room geometry, camera and floor composition. Strong Group of Seven-inspired shaped oil color masses and visible brushwork, with no photographic or 3D drift. No people, additional objects, text overlays, labels, signatures or watermarks.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-the-table-at-five-twelve",
           "title": "The table at five twelve",
           "alt": "The table at five twelve — oil interior study for Terms at Four",
-          "source": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
-          "sourceSha256": "1fef77aafe6c5189759682761885f162a0fcf7702cba18c9548b15d029ebe667",
+          "source": "pages/interior-replacements/terms-at-four/03-the-table-at-five-twelve.png",
+          "sourceSha256": "aea5cc3569e3f020e9f675b90b9dfaa474c37f21aa11a4d0b72b5e498c586b15",
           "full": {
-            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-1fef77aafe6c5189.webp",
-            "sha256": "13b4bbfe6658141129cdfde1c6d6190c642fd0d82aad03b4dbb4887919fd99fe",
+            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-aea5cc3569e3f020.webp",
+            "sha256": "0e31f6f58e49130ca43967afa5f4f4f272026f1f8dca4fedae2b5aeda9c708e3",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-1fef77aafe6c5189-thumb.webp",
-            "sha256": "5e88c62eea03bf5242ca009dceb8a6e2bb81ea7fa26eb097b61a442976975d4d",
+            "path": "interiors/terms-at-four/03-the-table-at-five-twelve-aea5cc3569e3f020-thumb.webp",
+            "sha256": "6aa6e68e1fec08f8215128e469d69b8f267c309d5019a36c6d4218244e0210c9",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
+            "originalSha256": "1fef77aafe6c5189759682761885f162a0fcf7702cba18c9548b15d029ebe667",
+            "correction": "Keep the narrow street, police lights and ceiling reflections, and simplify the unsupported distant panorama.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target: the later tea table at five twelve. Image 2 is the corrected earlier view of this same kitchen and narrow street, supplied only as exterior continuity reference. Produce one 3:2 oil painting, 1536x1024 preferred.\nChange only the distant view through Image 1's window. Replace the broad lake and mountain silhouettes with the same restrained ordinary street/building setting as Image 2: nearby modest houses framing a narrow descending street, more unobtrusive roofs and fronts in soft distant light, no water, mountain ranges or scenic panorama. Keep Image 1's approaching police vehicle and its bright blue-white lights in the narrow street. Preserve their blue reflections across the ceiling and window.\nPreserve every interior object, position, later state and framing in Image 1: cozy over the tea, bird cup/plate, partly eaten pie, fork, four small dark screens, cloth, shelves, lamp, chair and wooden table. Keep its warmer later lighting, dark blue shadows and expressive Group of Seven-inspired thick visible oil brushwork. Do not alter the decorative wall picture. No people, new objects, text overlays, labels, watermarks, photographic or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11106,6 +11127,21 @@
       "source": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
       "sourceSha256": "c80e74ae1a8afd8d17ed2a17446da6261e6b4961435f315382069cc606daebc3",
       "reason": "Keep the hollow and tipped basin; send bright drops sideways along the living wall rather than straight down to a floor puddle."
+    },
+    {
+      "source": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+      "sourceSha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+      "reason": "Retain a restrained narrow street/building view and replace the lake and mountains with diffuse distant light or unobtrusive buildings."
+    },
+    {
+      "source": "stories/terms-at-four/art/interiors/02-the-operations-training-suite.png",
+      "sourceSha256": "ea26e88d5ffdbd354f5bac119e924508cec0313bdb842ec08c791227bede4ff9",
+      "reason": "Replace with a sliding leaf recessed alongside the opening. Use a restrained translucent window or wall; retain the supported internal observation window and transfer hatch."
+    },
+    {
+      "source": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
+      "sourceSha256": "1fef77aafe6c5189759682761885f162a0fcf7702cba18c9548b15d029ebe667",
+      "reason": "Keep the narrow street, police lights and ceiling reflections, and simplify the unsupported distant panorama."
     }
   ]
 }
