@@ -1019,6 +1019,51 @@
       ]
     },
     {
+      "slug": "an-ordinary-education",
+      "title": "An Ordinary Education",
+      "reader": "stories/an-ordinary-education.html",
+      "images": [
+        {
+          "id": "bettina",
+          "title": "Bettina",
+          "alt": "Sculpted Impasto character reference sheet of Bettina for An Ordinary Education",
+          "source": "stories/an-ordinary-education/art/characters/bettina.png",
+          "sourceSha256": "87cf8d2ddcc1c06f466f43d2b73db7a13ff4b1a7fb30abd1b0512601f76f6b4f",
+          "full": {
+            "path": "characters/an-ordinary-education/bettina-87cf8d2ddcc1c06f.webp",
+            "sha256": "2d6e884b59c7ea6a0487f9b7475eb1de059a92c48601f37be40f686d7f8a7ba0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/an-ordinary-education/bettina-87cf8d2ddcc1c06f-thumb.webp",
+            "sha256": "e804a2f25b70d532d4d251005a0fccfc3e41357ad0bba2c52502d107bcfdb408",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "delsie",
+          "title": "Delsie",
+          "alt": "Sculpted Impasto character reference sheet of Delsie for An Ordinary Education",
+          "source": "stories/an-ordinary-education/art/characters/delsie.png",
+          "sourceSha256": "14da238101118d1c0961d6b38799631a4326ed26b407423a8d081b8388663cf0",
+          "full": {
+            "path": "characters/an-ordinary-education/delsie-14da238101118d1c.webp",
+            "sha256": "6b72cc463f25dbe3ae05af089407ac6f1d8c04d45ea55d03a7c38a9e6d357e3a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/an-ordinary-education/delsie-14da238101118d1c-thumb.webp",
+            "sha256": "a8f0545e2be1d456bdbdf62c746e599a2eee1a8da0566e542c7dc2a4bdb40757",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "coiled-together",
       "title": "Coiled Together",
       "reader": "stories/coiled-together.html",
@@ -1223,6 +1268,70 @@
       ]
     },
     {
+      "slug": "before-she-gets-tired",
+      "title": "Not Friday",
+      "reader": "stories/before-she-gets-tired.html",
+      "images": [
+        {
+          "id": "beatriz-soto",
+          "title": "Beatriz Soto",
+          "alt": "Sculpted Impasto character reference sheet of Beatriz Soto for Not Friday",
+          "source": "stories/before-she-gets-tired/art/characters/beatriz-soto.png",
+          "sourceSha256": "1739f0f0cb9cea16c83cd666476a430eefbcd956cd61cdcc238c918b68e40dfc",
+          "full": {
+            "path": "characters/before-she-gets-tired/beatriz-soto-1739f0f0cb9cea16.webp",
+            "sha256": "160269c69326ea503018d93fc605bdf0445e108618c4c2df62d5279e4b171d48",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-she-gets-tired/beatriz-soto-1739f0f0cb9cea16-thumb.webp",
+            "sha256": "b24f1af7822f17d620b3bd1ac349e7f2b9e9f2b14374b7c996083a97433ae326",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "jamar-ellis",
+          "title": "Jamar Ellis",
+          "alt": "Sculpted Impasto character reference sheet of Jamar Ellis for Not Friday",
+          "source": "stories/before-she-gets-tired/art/characters/jamar-ellis.png",
+          "sourceSha256": "d4f00e2750e270b9ceeb364d9ac3811a3ba7990c94e953893c5cd80890fd13da",
+          "full": {
+            "path": "characters/before-she-gets-tired/jamar-ellis-d4f00e2750e270b9.webp",
+            "sha256": "c6241cd030e11fdb637b1122a39e6c7136416930b7b559575ddfb84fe962ec70",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-she-gets-tired/jamar-ellis-d4f00e2750e270b9-thumb.webp",
+            "sha256": "ac171798451eb251125d3971e7686b8b0f64508c5973b02a3a92f7e42cb6fa31",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "wesley",
+          "title": "Wesley",
+          "alt": "Sculpted Impasto character reference sheet of Wesley for Not Friday",
+          "source": "stories/before-she-gets-tired/art/characters/wesley.png",
+          "sourceSha256": "9ff26322d69718b61d92688fdb105d8bfd01f1b08e7df6c4c079c501df010e80",
+          "full": {
+            "path": "characters/before-she-gets-tired/wesley-9ff26322d69718b6.webp",
+            "sha256": "ff9613ad7560c73f8070be3e5891d0e0693d9b247757880b6843254756e079a8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-she-gets-tired/wesley-9ff26322d69718b6-thumb.webp",
+            "sha256": "7a09cb27f630fcebaaee3f79eef5908e49581f60cfcffea920616142be3b8dc0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "save-that-dragon",
       "title": "One Night's Mercy",
       "reader": "stories/save-that-dragon.html",
@@ -1325,6 +1434,70 @@
       ]
     },
     {
+      "slug": "anatomy-of-a-god",
+      "title": "The Anatomy of a God",
+      "reader": "stories/anatomy-of-a-god.html",
+      "images": [
+        {
+          "id": "auldris",
+          "title": "Auldris",
+          "alt": "Sculpted Impasto character reference sheet of Auldris for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/characters/auldris.png",
+          "sourceSha256": "3494c7d8a417c723fd0147a3b09c58d72fb8dcc21fc9922a927e931eb5701761",
+          "full": {
+            "path": "characters/anatomy-of-a-god/auldris-3494c7d8a417c723.webp",
+            "sha256": "5714a69ef71e4121c6f771a91c761d2a11bf855663b16a54477de4b56831fcd9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/anatomy-of-a-god/auldris-3494c7d8a417c723-thumb.webp",
+            "sha256": "c91025f237b693e1348360d2edb19437e310678ebfc500e8772d791788401679",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "mireya",
+          "title": "Mireya",
+          "alt": "Sculpted Impasto character reference sheet of Mireya for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/characters/mireya.png",
+          "sourceSha256": "39f2a3f52d0368a42cb74b4e1632b84686623de676be5c83b39e2d90aa3ad329",
+          "full": {
+            "path": "characters/anatomy-of-a-god/mireya-39f2a3f52d0368a4.webp",
+            "sha256": "fd100d427b3b2e246e6052e26a1f5268cbe14c247f185959e82254662417acd3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/anatomy-of-a-god/mireya-39f2a3f52d0368a4-thumb.webp",
+            "sha256": "356540a952e0fbac54d266490bfd65bbe16edadfd68b4fe9a37712b78c562fe7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vesrin",
+          "title": "Vesrin",
+          "alt": "Sculpted Impasto character reference sheet of Vesrin for The Anatomy of a God",
+          "source": "stories/anatomy-of-a-god/art/characters/vesrin.png",
+          "sourceSha256": "a0bdb59b31495e05221303e9ed175a8f25f28e8f6e885053728bdf2f8d4d7a06",
+          "full": {
+            "path": "characters/anatomy-of-a-god/vesrin-a0bdb59b31495e05.webp",
+            "sha256": "85f7c028cda3ba64d1845546350524f245aa68b4ae5a04a744211afa734b25a2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/anatomy-of-a-god/vesrin-a0bdb59b31495e05-thumb.webp",
+            "sha256": "37707bb68bfa1e6aaeeb213c0674f4058768fcb77010ac1811b4ca7e8a6bb544",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "drone-down",
       "title": "The City Keeps Score",
       "reader": "stories/drone-down.html",
@@ -1401,6 +1574,70 @@
           "thumbnail": {
             "path": "characters/drone-down/sevi-efe8b5b7f30da58e-thumb.webp",
             "sha256": "13652145a52d3a7b28fb313f25d2053fb65533becb96f1ddcd66c982eed33a8a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "blood-types-of-immortality",
+      "title": "The Fourth Blood",
+      "reader": "stories/blood-types-of-immortality.html",
+      "images": [
+        {
+          "id": "fenessa",
+          "title": "Fenessa",
+          "alt": "Sculpted Impasto character reference sheet of Fenessa for The Fourth Blood",
+          "source": "stories/blood-types-of-immortality/art/characters/fenessa.png",
+          "sourceSha256": "077999d2f7c204c60f5e0de2546a0a7f860a96f881d67a197240f444e2168f63",
+          "full": {
+            "path": "characters/blood-types-of-immortality/fenessa-077999d2f7c204c6.webp",
+            "sha256": "d79e8b038ef452c4b97abed7120edae26f1541f50b4b39f1b9ec0519776d576e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blood-types-of-immortality/fenessa-077999d2f7c204c6-thumb.webp",
+            "sha256": "2e6f3b4e5bb4f756f715bd45d5bd6c3e32c29481328f117d1df8da36254c24c2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ovelric",
+          "title": "Ovelric",
+          "alt": "Sculpted Impasto character reference sheet of Ovelric for The Fourth Blood",
+          "source": "stories/blood-types-of-immortality/art/characters/ovelric.png",
+          "sourceSha256": "774c871a8e31037c1cc1eddc24853deb4badc3abdb7b67c2515e42bf3d54b94f",
+          "full": {
+            "path": "characters/blood-types-of-immortality/ovelric-774c871a8e31037c.webp",
+            "sha256": "8d4067f345020a1127a11caba4b8ed0da9e79176213af2fd4bdced71e1491bb0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blood-types-of-immortality/ovelric-774c871a8e31037c-thumb.webp",
+            "sha256": "813043b0986f839106fec13d48405586d3fb23895f41a09b9f7d8561252524cd",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "rovel",
+          "title": "Rovel",
+          "alt": "Sculpted Impasto character reference sheet of Rovel for The Fourth Blood",
+          "source": "stories/blood-types-of-immortality/art/characters/rovel.png",
+          "sourceSha256": "6cffe319a921d5c409d11bcad41507e04315837dae98bc4c5b94f250931434c3",
+          "full": {
+            "path": "characters/blood-types-of-immortality/rovel-6cffe319a921d5c4.webp",
+            "sha256": "4a6b2f5f679beeaedc2d6f6a9e6ac58a933ef52ffbf20780c947e678465cf783",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blood-types-of-immortality/rovel-6cffe319a921d5c4-thumb.webp",
+            "sha256": "b80f1e02721c1fbba3209c3db258d371b2c372b0c98c26d20451039df1c0fa0c",
             "width": 480,
             "height": 320
           }
