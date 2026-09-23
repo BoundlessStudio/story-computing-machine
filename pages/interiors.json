@@ -8526,19 +8526,26 @@
           "id": "02-the-hall-after-the-storm",
           "title": "The hall after the storm",
           "alt": "The hall after the storm — oil interior study for The Shape of Mercy",
-          "source": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
-          "sourceSha256": "da160b2643898297f0204778cbb78d7f984312fb3f1b873028a4936d9b768d1b",
+          "source": "pages/interior-replacements/the-shape-of-mercy/02-the-hall-after-the-storm.png",
+          "sourceSha256": "89a83706a9fb8d9f9d0d1a9e623550e532c4d54856c542f9007f207df02b5c8c",
           "full": {
-            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-da160b2643898297.webp",
-            "sha256": "7fe2f8a2f890b97d2de9a9a5afef702e5da78712f63ddfc990c09ca4c760c54b",
+            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-89a83706a9fb8d9f.webp",
+            "sha256": "63a99cdeec2ef1a092e66b743f70485af32822ae7e413ef9e697ea268a654016",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-da160b2643898297-thumb.webp",
-            "sha256": "d1cd1f3a48a05e1a4750015ab5ab300f8b63004f85ecf3a3831b4cb6a565be7b",
+            "path": "interiors/the-shape-of-mercy/02-the-hall-after-the-storm-89a83706a9fb8d9f-thumb.webp",
+            "sha256": "c7129ad43ae8657a13770740bd025920eb546acc977638f13954926f9f33f33f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
+            "originalSha256": "da160b2643898297f0204778cbb78d7f984312fb3f1b873028a4936d9b768d1b",
+            "correction": "Retain the aftermath, ledger, slush and wreckage, but match the established window shapes, bay spacing and square columns from 01.",
+            "prompt": "Use case: architectural continuity edit for a prose illustration. Reference 1 is the AFTERMATH image to correct: retain its empty storm-damaged hall, overturned head table, household ledger on the wet floor, displaced chairs, fallen table linen, scattered dishes and silver, shattered glass, puddles/slush and melting ice at the broken orchard doors. Reference 2 is the SAME HALL before the attack and is authoritative for all fixed architecture and its expressive oil style.\nMake reference 1 unmistakably the same physical hall as reference 2, seen from a slightly lower position facing along the orchard side toward the end doors. Replace its redesigned wall/window system with reference 2's very TALL NARROW straight-sided dark-mullioned window bays, repeated at the same close cadence, and MASSIVE SQUARE STONE PIERS with projecting square bases and simple squared capitals rising to the timber roof. The nearer windows are nearly rectangular and vertically proportioned, with their tops high in or beyond the frame; no broad Gothic pointed-arch side windows. Preserve the deep thickness, strong projection and spacing of the square piers, including the paired substantial piers near the far end. Match reference 2's warm stone, dark timber rafters, warm wood roof and restrained wall sconces. Remove reference 1's large decorative banners, broad flat wall panels and central hanging chandelier. Match the narrower two-leaf orchard doorway beneath the simple end arch from reference 2, now broken inward rather than enlarged into a different gateway.\nDamage changes glazing and furniture, not the load-bearing shell. Leave broken glass shards in the established narrow black window frames and on the floor. Keep the overturned table, damp-edged brown leather ledger and small black inkpot readable in the foreground. Keep thawing ice and wet reflective stone, with a broken/slumping ice barrier beyond the shattered end doors; do not seal the whole doorway solid. Outside the nearby windows, show storm-tossed orchard branches: some charred nearest limbs and still-living green trees beyond, subdued by smoke and cool night light. No expansive landscape or mountains.\nMaintain reference 2's bold Group-of-Seven-inspired oil brushwork, broad shaped color masses, warm ochre candlelight against slate/teal-blue wet shadows. Painterly, not photographic or 3D. No people, bodies, magical beast, text overlays, headings, watermark or border. One coherent 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -12066,6 +12073,11 @@
       "source": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
       "sourceSha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
       "reason": "Change only the red top to a square neckline with visible sleeves; keep the chair, cardigan and bedroom composition."
+    },
+    {
+      "source": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
+      "sourceSha256": "da160b2643898297f0204778cbb78d7f984312fb3f1b873028a4936d9b768d1b",
+      "reason": "Retain the aftermath, ledger, slush and wreckage, but match the established window shapes, bay spacing and square columns from 01."
     }
   ]
 }
