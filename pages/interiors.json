@@ -889,19 +889,26 @@
           "id": "02-sunday-breakfast-table",
           "title": "Sunday breakfast table",
           "alt": "Sunday breakfast table — oil interior study for A Place for Sunday",
-          "source": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
-          "sourceSha256": "a5e35e5b561f67b36015e922efc703bc9009753a5197016b43d1e5fb349e047e",
+          "source": "pages/interior-replacements/a-place-for-sunday/02-sunday-breakfast-table.png",
+          "sourceSha256": "166925c7638e5c22f2acae8f6ace69c4f7e5c65dde45f7398fb0d23b3fe4d413",
           "full": {
-            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-a5e35e5b561f67b3.webp",
-            "sha256": "ba5ff2bcc9ef2e5e618b3cb2b8be8f4ce3bf7b2035f9151592091d2119681072",
+            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-166925c7638e5c22.webp",
+            "sha256": "57eae55bb835fe260adfca3e06a4f93ecff1a4f46ef4d08b7c9f45a68284521d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-a5e35e5b561f67b3-thumb.webp",
-            "sha256": "6ba170ddc2f33d084200e8fb3f8ccce3319a06e3d2b362223af818f56306a518",
+            "path": "interiors/a-place-for-sunday/02-sunday-breakfast-table-166925c7638e5c22-thumb.webp",
+            "sha256": "c3e89a5310030d700b5cef695790e4e6c9ee11cd335faa2a39c0e1f6517646ed",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
+            "originalSha256": "a5e35e5b561f67b36015e922efc703bc9009753a5197016b43d1e5fb349e047e",
+            "correction": "Restore city roofs beyond the garden in the kitchen window, retaining the olive-shaded doorstep.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the target, Cosimo's Sunday breakfast table. Image 2 is supporting reference for the SAME relocated kitchen's city-roof view, garden and oil style.\nKeep image 1's entire foreground breakfast still life, fig fritters, cheese, sliced tomatoes, egg, bread, ceramic cups, metal coffee pot, wooden chairs, striped cloth, black stove, pale plaster, green door/window trim and olive-shaded garden doorstep. Preserve the same confident thick expressive oil brushwork and warm morning palette. One 3:2 landscape image, 1536x1024 preferred.\nOnly change the exterior views in the left kitchen window and beyond the open doorway. Replace the remote blue hills and broad rural fields with the same nearby city-edge vista of clustered warm stone buildings, red roofs, a modest dome and towers seen in image 2. The story's village and garden have moved beside Ilario's city; the city roofs must be unmistakably visible beyond the garden. Use the same recognizable skyline in both openings, adjusted for their angles. Retain the olive tree, lavender, green garden gate, immediate plants and sunlit doorstep. Do not replace the whole garden with buildings.\nNo sea, lake, mountain panorama or distant countryside horizon. No other interior changes, people, text overlay, watermark, border, collage, photography or 3D rendering.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11262,6 +11269,11 @@
       "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
       "sourceSha256": "726c2b9352d482bef25c7dabf1d46d7ad4499a56ffb5f837aac1b9eb4022d7fd",
       "reason": "Keep the blue-tile study, but replace the invented panorama with the enclosing dream/whale context or a window treatment that establishes no contradictory geography."
+    },
+    {
+      "source": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
+      "sourceSha256": "a5e35e5b561f67b36015e922efc703bc9009753a5197016b43d1e5fb349e047e",
+      "reason": "Restore city roofs beyond the garden in the kitchen window, retaining the olive-shaded doorstep."
     }
   ]
 }
