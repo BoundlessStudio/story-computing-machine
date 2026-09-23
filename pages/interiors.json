@@ -2290,19 +2290,26 @@
           "id": "01-ottilies-workshop",
           "title": "Ottilies workshop",
           "alt": "Ottilies workshop — oil interior study for I Really Need a Sidekick",
-          "source": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
-          "sourceSha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72",
+          "source": "pages/interior-replacements/i-really-need-a-sidekick/01-ottilies-workshop.png",
+          "sourceSha256": "e98d94b2d82c291ff28e21eaa6bcc74764f2546f6b4a732e7d725dd6b0a33040",
           "full": {
-            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-9d74a922916dad48.webp",
-            "sha256": "02c6ab16f80ff9b4451af6b9f8167dac8bce3e9e76ae3ba5e3e0db92555ab0b7",
+            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-e98d94b2d82c291f.webp",
+            "sha256": "b6d319118bc314e894ee4badef9ec64806a1f4b26152f51ad499baf6c94206e0",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-9d74a922916dad48-thumb.webp",
-            "sha256": "a9ee7b9bb0191ebfc27311e55bf7020d6978a2dd153cda56f8680ae26d128da3",
+            "path": "interiors/i-really-need-a-sidekick/01-ottilies-workshop-e98d94b2d82c291f-thumb.webp",
+            "sha256": "014fc53cfea1658adf39e2471a57e6b43d1d574e90514ad5349944755357daf1",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+            "originalSha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72",
+            "correction": "Preserve the workshop; replace direct and reflected mountain/lake views with non-specific light or obscured glazing.",
+            "prompt": "Make a very localized correction to the supplied 1536 x 1024 landscape OIL PAINTING of Ottilie's workshop. Preserve the exact room composition, timber window frame at left, sunlit workbench, mirror and its gold frame, tool racks, parts drawers, espresso machine, bench vise, open clock-parts case, drawing, loose tools, stool, boxes and draped cloth. Preserve the bold Group of Seven-inspired impasto: thick angular brushwork, broad warm ochre light and cool slate shadow, rough lively paint edges. This remains a painting, not a photograph.\n\nChange ONLY what is visible within the actual left window's glass panes and within the corresponding window panes reflected in the wall mirror. The story establishes this workshop and mirror but gives no alpine, lake or forest location. Remove all mountain silhouettes, all conifer trees, all lake water and any recognizable distant geography from BOTH the direct window and its mirror reflection. Replace their view with softly clouded, dusty translucent glazing carrying non-specific warm cream daylight and quiet pale blue-grey areas, with no discernible outdoor scene. Keep the original timber mullions and window geometry. The small reflected window in the mirror must match this same obscured glazing; retain the rest of the reflected interior rafters, dark blue walls, shelves and pots exactly. Preserve the warm daylight and its established cast shadows on the workbench and wall. Do not add curtains or other new furniture. No people, no robot, no text, no labels, no new objects. All details outside these small glazing areas should remain as close as possible to the original.",
+            "generator": "image_gen"
           }
         },
         {
@@ -12006,6 +12013,11 @@
       "source": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
       "sourceSha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
       "reason": "Depict the narrow yellow-bronze split-tailed leaf with painted brush edges. Keep it on the portal jamb rather than suggesting the ordinary kiln-court arch is the cross-world opening."
+    },
+    {
+      "source": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+      "sourceSha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72",
+      "reason": "Preserve the workshop; replace direct and reflected mountain/lake views with non-specific light or obscured glazing."
     }
   ]
 }
