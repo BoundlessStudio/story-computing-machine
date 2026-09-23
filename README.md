@@ -130,8 +130,9 @@ by the Group of Seven's bold colour shapes and expressive brushwork. Interior
 studies carry that treatment indoors with visible impasto, warm and cool light,
 and source-grounded architecture and furnishings. Choose about three compelling
 settings per story, or different views of the same room when there is only one.
-Stories set entirely outdoors receive no interior studies. These are independent
-environment paintings, without lettering, and establish no new canon facts.
+Stories set entirely outdoors receive no interior studies. These independent
+environment paintings establish no new canon facts. They carry no added titles or
+captions; signs and labels may appear when they belong to the story setting.
 Open `gallery.html?type=interiors` to browse just the interior collection.
 For a small batch, `python pages/build.py capture-interiors <slug> [<slug> ...]`
 updates only those stories and retains the other stored interior studies.
