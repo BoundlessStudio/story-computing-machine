@@ -3572,19 +3572,26 @@
           "id": "01-the-farleaf-window",
           "title": "The farleaf window",
           "alt": "The farleaf window — oil interior study for The Address of Here",
-          "source": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
-          "sourceSha256": "ca4aaafd39b5af4d23a158e2478cd0973a7a6ff381e2f9eb363b253f0b34c892",
+          "source": "pages/interior-replacements/postcard-garden/01-the-farleaf-window.png",
+          "sourceSha256": "9f3efe51f5fc511b1db745e189f37724f1aaf9284a51eedc9e4b74c92d3359c5",
           "full": {
-            "path": "interiors/postcard-garden/01-the-farleaf-window-ca4aaafd39b5af4d.webp",
-            "sha256": "ada6b279471215613aa0628d758b3c6100b2fbf4e28d9b1e56215a34753649f6",
+            "path": "interiors/postcard-garden/01-the-farleaf-window-9f3efe51f5fc511b.webp",
+            "sha256": "2f345cea1a251d670d2f6ac62d30dc16a7604ff6df71bb130045231c1b3ff188",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/postcard-garden/01-the-farleaf-window-ca4aaafd39b5af4d-thumb.webp",
-            "sha256": "d33dd1d2c48d875770784bd4abe5e37cb25dadcac02154c419e28e517ffeb1e9",
+            "path": "interiors/postcard-garden/01-the-farleaf-window-9f3efe51f5fc511b-thumb.webp",
+            "sha256": "77d45e4a559e0c4a7eaef8a7ae58957fd92625070721d71afa312201629e1d7e",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
+            "originalSha256": "ca4aaafd39b5af4d23a158e2478cd0973a7a6ff381e2f9eb363b253f0b34c892",
+            "correction": "Depict a freestanding/displayed curved construction spare with exactly three unequal substantial ribs meeting off-center; retain roses and fern-sale hall.",
+            "prompt": "Use case: precise-object-edit. Edit this supplied image only. Preserve its composition, expressive thick oil paint, golden/blue palette, empty rose-covered hall, fern-sale tables, floor, and the corrected freestanding curved construction-spare window on its display cradle. Keep exactly the existing three massive unequal ribs meeting at one off-center Y joint, the three irregular glazing fields, curved perimeter and huge scale. Do not change any architecture or add any mullion.\nMake one small cleanup inside the spare's GLASS: remove all dark upright blue-gray clusters in the bottom glazed field that resemble tiny people, and any humanlike silhouettes in any other pane. Replace those ambiguous clusters with broad simple horizontal pale cream and soft blue-gray reflections of the EMPTY tiled floor and blank hall wall. The glass should read as clear curved glazing with painterly light reflections, not a scene of people or plants. No figures, heads, bodies, silhouettes, crowds or reflected visitors anywhere. Keep the existing structural reflections soft and sparse, ensuring they cannot be mistaken for additional ribs.\nOnly this glass cleanup. No text, captions, watermark, extra objects, people, collage, photorealism or 3D rendering. One 3:2 landscape oil painting, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -10926,6 +10933,11 @@
       "source": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
       "sourceSha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
       "reason": "Remove suspension cords and upper attachment plates; show small receiver discs beneath free-floating models. Also retain the source's blue side-comet instead of the image's cream comet if correcting the ride."
+    },
+    {
+      "source": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
+      "sourceSha256": "ca4aaafd39b5af4d23a158e2478cd0973a7a6ff381e2f9eb363b253f0b34c892",
+      "reason": "Depict a freestanding/displayed curved construction spare with exactly three unequal substantial ribs meeting off-center; retain roses and fern-sale hall."
     }
   ]
 }
