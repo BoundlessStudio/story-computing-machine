@@ -597,6 +597,70 @@
       ]
     },
     {
+      "slug": "a-lock-on-the-inside",
+      "title": "A Lock on the Inside",
+      "reader": "stories/a-lock-on-the-inside.html",
+      "images": [
+        {
+          "id": "avreth",
+          "title": "Avreth",
+          "alt": "Sculpted Impasto character reference sheet of Avreth for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/characters/avreth.png",
+          "sourceSha256": "2404355e6a2c11ced1d6d2453098eb9aaea94dfb9256a4e82d5b46e9715a56c0",
+          "full": {
+            "path": "characters/a-lock-on-the-inside/avreth-2404355e6a2c11ce.webp",
+            "sha256": "be7a9ae71b4557966c3b1384f482df09219dc73b4050229200752f6fd7f0a8f4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-lock-on-the-inside/avreth-2404355e6a2c11ce-thumb.webp",
+            "sha256": "6e321ad7eea35cb4572bcbdb1503bfc49b24d073f475d90ae697258d7c88f7e2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "kethra",
+          "title": "Kethra",
+          "alt": "Sculpted Impasto character reference sheet of Kethra for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+          "sourceSha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+          "full": {
+            "path": "characters/a-lock-on-the-inside/kethra-d0509c1ca7d88436.webp",
+            "sha256": "d255eba7fda08b7c388c928c59178605d7d1f0d55b2695c03f4dfd876afc6958",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-lock-on-the-inside/kethra-d0509c1ca7d88436-thumb.webp",
+            "sha256": "6560a15420490a46e33bb7b8db6d989e3807bb2a6d8438ebb111df8a94722463",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tovren",
+          "title": "Tovren",
+          "alt": "Sculpted Impasto character reference sheet of Tovren for A Lock on the Inside",
+          "source": "stories/a-lock-on-the-inside/art/characters/tovren.png",
+          "sourceSha256": "d74b2f7d1052904f91e6ffb2a317abfb1975ca2185fbe8132eef37148e89e756",
+          "full": {
+            "path": "characters/a-lock-on-the-inside/tovren-d74b2f7d1052904f.webp",
+            "sha256": "bf49218fca405d523be5eb4b559c54577cb94cd699a9bc0c9361c73f0598665a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-lock-on-the-inside/tovren-d74b2f7d1052904f-thumb.webp",
+            "sha256": "b28dc08451ff8d91d301fcb851a1a6a0096b22ec5c9a4ec43b66babf8a0267bc",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-note-of-spite",
       "title": "A Note of Spite",
       "reader": "stories/a-note-of-spite.html",
@@ -654,6 +718,89 @@
           "thumbnail": {
             "path": "characters/a-note-of-spite/orris-fenner-8cecebd7e92b5550-thumb.webp",
             "sha256": "7d60b73d9ee7a26e11bacd2e2b1095024f60e3e5077bcad2e29f58d900b70370",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-pet-human",
+      "title": "A Pet Human",
+      "reader": "stories/a-pet-human.html",
+      "images": [
+        {
+          "id": "caff",
+          "title": "Caff",
+          "alt": "Sculpted Impasto character reference sheet of Caff for A Pet Human",
+          "source": "stories/a-pet-human/art/characters/caff.png",
+          "sourceSha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+          "full": {
+            "path": "characters/a-pet-human/caff-2aa05d9c177e9f10.webp",
+            "sha256": "fb859e81fde89fd52b0e19959c4df536c320c82cd7bbfc134293a86639987254",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-pet-human/caff-2aa05d9c177e9f10-thumb.webp",
+            "sha256": "00b2ea0da88996c0cc6ae809a8e5fd422535f938db420251acdb104321a11c9b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "mavrix",
+          "title": "Mavrix",
+          "alt": "Sculpted Impasto character reference sheet of Mavrix for A Pet Human",
+          "source": "stories/a-pet-human/art/characters/mavrix.png",
+          "sourceSha256": "44266256ae00e0fce799b27043f593e0160194d51f318ae44abd4de7548f45ea",
+          "full": {
+            "path": "characters/a-pet-human/mavrix-44266256ae00e0fc.webp",
+            "sha256": "cb56bf750b2f40f7ef281c8849bee2005b95d36259ad27f41ed74b883b1ac26c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-pet-human/mavrix-44266256ae00e0fc-thumb.webp",
+            "sha256": "db4a21a16baaf3517197673b746cb9aa1ffbc138414bc75d597e18b899e6af89",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nimmet",
+          "title": "Nimmet",
+          "alt": "Sculpted Impasto character reference sheet of Nimmet for A Pet Human",
+          "source": "stories/a-pet-human/art/characters/nimmet.png",
+          "sourceSha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+          "full": {
+            "path": "characters/a-pet-human/nimmet-d79d421fc8e3697d.webp",
+            "sha256": "a9a58e60ecbb1a257a363478f98559fe8365df270ed884512d256cc5cc164c18",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-pet-human/nimmet-d79d421fc8e3697d-thumb.webp",
+            "sha256": "e27d887ede5a02f8db7da2368cc4fbced673305b8539d7640dd61b8a71c99223",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ostren",
+          "title": "Ostren",
+          "alt": "Sculpted Impasto character reference sheet of Ostren for A Pet Human",
+          "source": "stories/a-pet-human/art/characters/ostren.png",
+          "sourceSha256": "b5881e161a64ff90f8615b846ceb11342dcac31a9683a0d25010a779caaf97a2",
+          "full": {
+            "path": "characters/a-pet-human/ostren-b5881e161a64ff90.webp",
+            "sha256": "612e0bc26198ee72ca7d1f87ccd563fcdea5c1f8caaf34f08d2caad040fb630c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-pet-human/ostren-b5881e161a64ff90-thumb.webp",
+            "sha256": "adc7687bfc81bca0c8f95b794e0fadf513516933c907b2f8967641bd47d27359",
             "width": 480,
             "height": 320
           }
@@ -820,6 +967,51 @@
           "thumbnail": {
             "path": "characters/a-place-for-the-living/imani-crowe-9a4bbb1da72abdaf-thumb.webp",
             "sha256": "1e1f082359739b0834e1318e81d728545634f93002bee74518166e39f85e6418",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-reasonable-declaration",
+      "title": "A Reasonable Declaration",
+      "reader": "stories/a-reasonable-declaration.html",
+      "images": [
+        {
+          "id": "barnaby-greave",
+          "title": "Barnaby Greave",
+          "alt": "Sculpted Impasto character reference sheet of Barnaby Greave for A Reasonable Declaration",
+          "source": "stories/a-reasonable-declaration/art/characters/barnaby-greave.png",
+          "sourceSha256": "23c95116731065362173e31bd91b648db909efee6934a70311da6dabc99ccc7a",
+          "full": {
+            "path": "characters/a-reasonable-declaration/barnaby-greave-23c9511673106536.webp",
+            "sha256": "888c3f2d819b9b02e8b67b458c5510da4a6fbb4f468297ba2e51d8e19db41633",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-reasonable-declaration/barnaby-greave-23c9511673106536-thumb.webp",
+            "sha256": "3c15e09cd30d28f9bee40bc44282f0f50fd84c4d54e06a1ba639add491bbc282",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "fulvia",
+          "title": "Fulvia",
+          "alt": "Sculpted Impasto character reference sheet of Fulvia for A Reasonable Declaration",
+          "source": "stories/a-reasonable-declaration/art/characters/fulvia.png",
+          "sourceSha256": "7bee7bc41ba0d4ac17f25dc714ffc3b086cc8cf3c5303583fddf5a4f64a8cbea",
+          "full": {
+            "path": "characters/a-reasonable-declaration/fulvia-7bee7bc41ba0d4ac.webp",
+            "sha256": "ab6a6240fc0080ee2fe21f7c756e00a480eb8a864e3d3c5ca8cf2733c2a105dd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-reasonable-declaration/fulvia-7bee7bc41ba0d4ac-thumb.webp",
+            "sha256": "eefb0262a0be1f00238b09ff8edfc872b8967251eb439dfaf537d3b29d1f6012",
             "width": 480,
             "height": 320
           }
