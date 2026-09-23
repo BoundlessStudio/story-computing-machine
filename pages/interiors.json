@@ -3989,38 +3989,52 @@
           "id": "02-west-nine-anchor-chamber",
           "title": "West nine anchor chamber",
           "alt": "West nine anchor chamber — oil interior study for The Blade Calls Your Name",
-          "source": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
-          "sourceSha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "source": "pages/interior-replacements/blade-calls-your-name/02-west-nine-anchor-chamber.png",
+          "sourceSha256": "13461742760b5d5a67a306c2ea8a5eb792ae2a4dedb9ccabaf27be8200eca36c",
           "full": {
-            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-9e9b324dd74c6efc.webp",
-            "sha256": "1c66aac790f66c6cdf146ce5c9123e562fe701cfb2d861fee975bf13268bf69b",
+            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-13461742760b5d5a.webp",
+            "sha256": "0f215bf3a70ea02c0aadfd8772c4ff456c7a2de778be3dea57929d5cafc7ea42",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-9e9b324dd74c6efc-thumb.webp",
-            "sha256": "71a9bd72a30e0baec3f8117bc85bcfda105ce13c01e5fd8a172aa7568b2748ac",
+            "path": "interiors/blade-calls-your-name/02-west-nine-anchor-chamber-13461742760b5d5a-thumb.webp",
+            "sha256": "19681dabc650ed9162a18be043f20e1e25fba15a81d5462c4ed815048cae49d8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "originalSha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "correction": "Keep the chamber composition but place the flexible wrap on the ninth individual hanger behind the comb; leave the common floor-entering chain unbanded.",
+            "prompt": "Use case: precise-object-edit.\nEdit Image 1, the west-nine anchor-chamber oil painting. It is the edit target and exact reference for room, palette, camera, oil brushwork and lighting. Produce one 3:2 landscape painting, preferably 1536 by 1024.\nCorrect the chain mechanism while retaining its useful chamber composition. One enormous unbanded chain of ordinary open iron links enters through the floor opening in the foreground and divides into twelve distinct narrower hanger chains. They fan to one continuous horizontal iron comb embedded in the cliff wall. The comb has exactly twelve equally spaced blunt rectangular teeth, with one hanger line held by each tooth. Make the twelve lines and teeth distinctly readable. Each hanger continues upward behind the comb. Keep the common floor-entering chain large and continuous with no spring wrapping, collar or banded splice anywhere on that common trunk or junction.\nRelocate the old flexible repair to just ONE individual hanger behind the comb: the ninth hanger counted from the left, which is the fourth from the right. On the rear upward run immediately above the comb's backbone, show several short staggered dull iron spring bands wrapped around that hanger's old chain eye. This compact flexible banded repair belongs only to that slender individual hanger, is visible behind/above the comb, and does not touch any adjacent line. The immediately adjacent tenth tooth may lean very slightly toward nine, with a small bright rubbed metal crescent, while remaining part of the same comb.\nKeep the empty narrow cliff chamber, floor anchor opening, left opening and safety rail, warm lantern and speaking tube on the right wall, service tools, and squared saw-backed service blade on the two trestles at right. Preserve expressive Group of Seven-inspired oil paint: broad angular color masses, visible confident heavy brushwork, golden light and blue-violet shadows. Do not add people, creatures, new landscape elements, labels, numbers, text, signatures or watermarks. No photorealism, 3D rendering, montage or instructional diagram.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-comb-and-service-trestles",
           "title": "Comb and service trestles",
           "alt": "Comb and service trestles — oil interior study for The Blade Calls Your Name",
-          "source": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
-          "sourceSha256": "7ce1fac9270c6addfd82e51627b83f1953ce08e1fef68c8e97bc38302703428c",
+          "source": "pages/interior-replacements/blade-calls-your-name/03-comb-and-service-trestles.png",
+          "sourceSha256": "a356a46f4dbd5dca1737eae16f5cc1fea2bec3becd0d0f7625cd18e000496e22",
           "full": {
-            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add.webp",
-            "sha256": "698bc4d5321703df38e7dc01d077a8feeca581df0112aa6f630d76f50ab274d2",
+            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-a356a46f4dbd5dca.webp",
+            "sha256": "321464e0369bc79630d703bfa45d7556fe5e4b4381a52208ada67c8889ad4a8b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-7ce1fac9270c6add-thumb.webp",
-            "sha256": "610673f138bef4ee159d1caf1f629e6ebce918a84716ed2e07472002a3a980c1",
+            "path": "interiors/blade-calls-your-name/03-comb-and-service-trestles-a356a46f4dbd5dca-thumb.webp",
+            "sha256": "496b79814c55f7e5f69125a958f785ed879477a32b0ab09cdf35687c3ca5723e",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
+            "originalSha256": "7ce1fac9270c6addfd82e51627b83f1953ce08e1fef68c8e97bc38302703428c",
+            "correction": "Replace the independent wall sockets with a close side view of the same continuous twelve-tooth comb, showing ninth/tenth adjacency and the service blade.",
+            "prompt": "Use case: precise-object-edit.\nCorrect and recompose Image 1, the close anchor-room/trestles painting. Image 1 supplies the expressive oil surface, close empty-room study and foreground service trestles. Image 2 is the authoritative corrected view of THIS SAME ROOM and supplies the exact chain mechanism, common comb, splice location, materials, lantern/speaking tube and service-blade identity. Produce one 3:2 landscape painting, preferably 1536 by 1024.\n\nReplace Image 1's two separate square wall-anchor boxes and oversized independent chains with a close oblique view of the right-hand section of the SINGLE continuous iron comb shown in Image 2. Frame the last SIX teeth of that same twelve-tooth comb: positions seven through twelve, with the other six extending outside the left edge of the close view. The long solid iron backbone continues out of frame at left and has its actual right end in view; it is not six separate plates. Exactly six matching slender hanger-chain paths are visible in this crop, each passing its own square slot/teeth and continuing upward behind the bar. Their lower portions fan down-left toward the same large common floor-entering chain, mostly outside the close frame. No individual chain terminates in an isolated masonry anchor.\n\nThe flexible spring-band sleeve is on the THIRD visible hanger from the left, equivalent to the NINTH of all twelve and fourth from the bar's right end. Keep it behind and just above the comb, wrapped around one old eye of only that hanger; the adjacent tenth tooth is immediately to its right. The other five visible individual hangers and any visible portion of the common chain have bare ordinary open iron links. Show a subtle small bright rubbed crescent at the contact of teeth nine and ten. These two share the continuous iron backbone so the sideways fault is physically understandable.\n\nKeep the squared-tip service blade on its two low wooden trestles below and to the right of the comb, matching the toothed-back tool in Image 2; replace Image 1's white block-like object with that same flat heavy blade, pale old alloy within dark spring steel and subdued red mica forge seams. Keep useful hammer and tools, warm wall lantern, speaking tube and rough cliff-chamber stone. A trace of warm light from the opening can remain at far left but do not expand the exterior scenery. This is a close alternate view of the same room, not a redesign. Strong expressive Group of Seven-inspired oil handling with broad gold and violet-blue color masses and confident visible impasto. No people, creatures, captions, labels, numbers, signatures, watermarks, photorealism, 3D rendering or collage.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -10974,6 +10988,16 @@
       "source": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
       "sourceSha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235",
       "reason": "Replace the snowy rural waterfall through the open door with nearby urban defense channels containing cooling black glass beads and mineral dust; replace the paper pressure map with rigid chalk-marked slate and modest brass contacts."
+    },
+    {
+      "source": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+      "sourceSha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+      "reason": "Keep the chamber composition but place the flexible wrap on the ninth individual hanger behind the comb; leave the common floor-entering chain unbanded."
+    },
+    {
+      "source": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
+      "sourceSha256": "7ce1fac9270c6addfd82e51627b83f1953ce08e1fef68c8e97bc38302703428c",
+      "reason": "Replace the independent wall sockets with a close side view of the same continuous twelve-tooth comb, showing ninth/tenth adjacency and the service blade."
     }
   ]
 }
