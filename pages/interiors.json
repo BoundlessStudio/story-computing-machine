@@ -11018,19 +11018,26 @@
           "id": "03-the-pump-chamber-studio",
           "title": "The pump chamber studio",
           "alt": "The pump chamber studio — oil interior study for When the Needle Finds You",
-          "source": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
-          "sourceSha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+          "source": "pages/interior-replacements/when-the-needle-finds-you/03-the-pump-chamber-studio.png",
+          "sourceSha256": "4890193977b8506bfc3893fbd61378af44872ad541bcb56e86eaf885d4c34109",
           "full": {
-            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-b13634be36cd2457.webp",
-            "sha256": "7b541f1b4204a384704e430bcc5a57c230139bfedeacf6c7fdabd9ecab641e30",
+            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-4890193977b8506b.webp",
+            "sha256": "8b01baa3b45bd5b11346d9ea456b494957a148bfb33cc6e5df3d1faba634a116",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-b13634be36cd2457-thumb.webp",
-            "sha256": "529cbab22e14350eccda28bd50fac257544d900a708c342038a7f8a9c720c73f",
+            "path": "interiors/when-the-needle-finds-you/03-the-pump-chamber-studio-4890193977b8506b-thumb.webp",
+            "sha256": "61878c480680e496e8fdda27f9d6fac5a418218855017e043cca0275d085f9e4",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+            "originalSha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+            "correction": "Retain the room and arm but replace its broad terminal foot with a clearly projecting, hand-length sharp stylus, with enough clearance to read its shape.",
+            "prompt": "Use case: localized machine-tool correction. Edit this empty pump-chamber studio painting, retaining its 3:2 landscape frame, preferably1536x1024, and expressive Group of Seven-inspired thick navy/ochre oil brushwork.\nChange ONLY the terminal tool at the end of the large suspended jointed arm above the circular iron platform. It must be a clearly visible SHARP STYLUS approximately the length of an adult hand. Remove the broad flat circular foot currently touching the platform. In its place, a small compact metal chuck holds one slender, straight, tapered steel needle pointing DOWN toward the platform. The needle projects well beyond the chuck, roughly 18 centimeters in the depicted scale, and tapers to a distinct sharp tip. Lift the terminal arm/head just enough, by slightly changing the last joint angle, for the entire long needle and its point to be silhouetted clearly against the darker room and platform, with a visible air gap below the tip. It is a cutting/engraving needle, not a drill, disc, suction cup, large flat pad or circular foot. Keep its scale consistent with the platform wider than a dining table. Paint a restrained warm reflection along one edge of the steel stylus so the narrow shape reads at gallery size.\nPreserve the arm's support column and main joints, grooved iron platform, belt drive and old motor on the right, felt-covered walls, records and shelves, broadcast desk, microphone, small separate playback turntable, dials, chair, lamps, pipes, drains and all other room details. Empty room. No people, new equipment, text overlay, headings, labels, watermark or signature. Keep confident shaped color masses, visible paint texture and original lighting; no photography or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11862,6 +11869,11 @@
       "source": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
       "sourceSha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
       "reason": "Remove the ceiling suspension lines so the key is visibly unsupported above the glass circle."
+    },
+    {
+      "source": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+      "sourceSha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+      "reason": "Retain the room and arm but replace its broad terminal foot with a clearly projecting, hand-length sharp stylus, with enough clearance to read its shape."
     }
   ]
 }
