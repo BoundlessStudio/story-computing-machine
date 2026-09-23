@@ -5313,19 +5313,26 @@
           "id": "03-the-mountain-barrier",
           "title": "The mountain barrier",
           "alt": "The mountain barrier — oil interior study for The First Wound",
-          "source": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
-          "sourceSha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "source": "pages/interior-replacements/the-first-wound/03-the-mountain-barrier.png",
+          "sourceSha256": "9d25a6775217f6fb707d31ccbf7b1e23be4debcbf7d5637a0370b5b5cb3c3c0a",
           "full": {
-            "path": "interiors/the-first-wound/03-the-mountain-barrier-2e16beea2267fd14.webp",
-            "sha256": "1ecb23eff968d91091c68473fbe5730d229d919f1bf11774c0e0eb8ecf74be25",
+            "path": "interiors/the-first-wound/03-the-mountain-barrier-9d25a6775217f6fb.webp",
+            "sha256": "7ecb1b0b0f129b687ba2bee6c4abdc3483beb3f6e171d9f1a9566e907100e5de",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-first-wound/03-the-mountain-barrier-2e16beea2267fd14-thumb.webp",
-            "sha256": "6aa547ae710d175239d2e59395fab8d8156f8f9ba0df27c4ac37275cd97107c4",
+            "path": "interiors/the-first-wound/03-the-mountain-barrier-9d25a6775217f6fb-thumb.webp",
+            "sha256": "47713ccc4cfc80bc27ea4bd16e5ccc5169279df1885baea33a6b4d11e6230b8a",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+            "originalSha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+            "correction": "Retain the corridor, wheel and palette, but depict seven distinct thick ribs across the barrier.",
+            "prompt": "Use case: precise-object-edit. This painting currently shows SIX broad hanging barrier ribs. Correct it to SEVEN by adding ONE extra complete thick rectangular rib. Keep all SIX existing ribs present; do not replace one with the new one.\nInsert the extra seventh rib BETWEEN the current leftmost and second-leftmost ribs, slightly re-spacing those two and adjacent ribs to make room. The new rib must have the same broad dark front face, heavy squared underside and ochre-lit side as the others. Do not hide it behind another rib. Across the opening there must now be seven separate squared lower ends and six clear gaps. Make the seven-rib count unmistakable. Keep them thick structural blocks, raised over an open passage.\nPreserve the black hide-wrapped wheel at right, dark blue fractured rock walls, empty corridor, floor rubble, light through the bend, original perspective, framing and thick angular expressive oil painting style. Do not add people, labels, numbers, text, extra mechanisms, glow, border or collage. Keep every other part unchanged. 3:2 landscape, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11586,6 +11593,11 @@
       "source": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
       "sourceSha256": "a0ae051aab4f6e8389c3c08d004972709321f9aa59ffa021fe53224fe5d480e5",
       "reason": "Place red below yellow consistently on all visible concrete supports; preserve the flood tide mark and other supported details."
+    },
+    {
+      "source": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+      "sourceSha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+      "reason": "Retain the corridor, wheel and palette, but depict seven distinct thick ribs across the barrier."
     }
   ]
 }
