@@ -498,19 +498,26 @@
           "id": "02-blue-tiled-unfinished-room",
           "title": "Blue tiled unfinished room",
           "alt": "Blue tiled unfinished room — oil interior study for A Knock in Someone Else's Sleep",
-          "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
-          "sourceSha256": "726c2b9352d482bef25c7dabf1d46d7ad4499a56ffb5f837aac1b9eb4022d7fd",
+          "source": "pages/interior-replacements/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room.png",
+          "sourceSha256": "442f7cbb21d4718a50df1bb5983fba604c56fee3135a9455f8aa38d42c459c22",
           "full": {
-            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-726c2b9352d482be.webp",
-            "sha256": "037fe0d61787101041a0d1c973ebdaca44024ec6820d29be16b33db5d560b7fe",
+            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-442f7cbb21d4718a.webp",
+            "sha256": "5c6694fb6845e010ce60b1cfff4c69424c51244b81da604e898de7c0972029b9",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-726c2b9352d482be-thumb.webp",
-            "sha256": "1ec380b5ea64356fed0d5639c2b1ddbf2a9ed81c2f7354c038c445b1412d2730",
+            "path": "interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room-442f7cbb21d4718a-thumb.webp",
+            "sha256": "cc7289f2b237fa5e605958e4686dc3aa203f599bdb2eb24fb955eb9c32aadff7",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
+            "originalSha256": "726c2b9352d482bef25c7dabf1d46d7ad4499a56ffb5f837aac1b9eb4022d7fd",
+            "correction": "Keep the blue-tile study, but replace the invented panorama with the enclosing dream/whale context or a window treatment that establishes no contradictory geography.",
+            "prompt": "Use case: precise-object-edit. Edit this supplied empty blue-tiled dream-room painting. Preserve the exact room, wave-like unfinished blue tile floor, plaster walls, wooden window frame, diagonal golden light, broad confident expressive oil brushwork and 3:2 composition, 1536x1024 preferred.\nMake one localized correction INSIDE the four window panes. Remove the specific lake, mountain ridges, trees and outdoor landscape. This preserved dream house is inside a dreaming whale; no lakeside geography is established. Replace only the view with softly obscured opalescent glazing filled with diffuse pale gold, pearl and muted blue light, with no recognizable landscape, horizon, sky scene, plants, mountains, lake, buildings or new subject. The window lets the same warm light into the room but reveals no geographic setting. Keep the four-pane frame and light/shadow pattern exactly as they are.\nDo not alter the blue tiles and their partial watery relief, the bare room or paint texture. No figures, animals, extra furniture, text, watermark, border, collage, photorealism or 3D rendering.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11250,6 +11257,11 @@
       "source": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
       "sourceSha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
       "reason": "Replace the bead-like row with irregular emerald tooth points while preserving the black jaw, gold repairs, cloth, cup and broad paint."
+    },
+    {
+      "source": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
+      "sourceSha256": "726c2b9352d482bef25c7dabf1d46d7ad4499a56ffb5f837aac1b9eb4022d7fd",
+      "reason": "Keep the blue-tile study, but replace the invented panorama with the enclosing dream/whale context or a window treatment that establishes no contradictory geography."
     }
   ]
 }
