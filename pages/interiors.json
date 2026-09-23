@@ -9067,19 +9067,26 @@
           "id": "02-the-workshop-table",
           "title": "The workshop table",
           "alt": "The workshop table — oil interior study for The Thread That Held",
-          "source": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
-          "sourceSha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e",
+          "source": "pages/interior-replacements/the-thread-that-held/02-the-workshop-table.png",
+          "sourceSha256": "88e14d534d93ae969c3cceb04a67619d8efa230ad1b9f76212c1de6d955cdafa",
           "full": {
-            "path": "interiors/the-thread-that-held/02-the-workshop-table-078dddb029f870c4.webp",
-            "sha256": "2b310dc133a843865a98d936ed09805faeea981dcf6c786c11cb85af828779af",
+            "path": "interiors/the-thread-that-held/02-the-workshop-table-88e14d534d93ae96.webp",
+            "sha256": "ea1bedb2110994b85a39cdca4dda56030c39c6d4353b457578e3398ce84d5b1a",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-thread-that-held/02-the-workshop-table-078dddb029f870c4-thumb.webp",
-            "sha256": "f87a68aea4f0272fa076c8215736e3af2e44232723ba9763afec9e808a4b3253",
+            "path": "interiors/the-thread-that-held/02-the-workshop-table-88e14d534d93ae96-thumb.webp",
+            "sha256": "56b2c7eb8ba63d1ac887f40a7be8ea47bbc4b8971f853b43c1d220d2e4e4a994",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "originalSha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e",
+            "correction": "Use the same memorial flower as the corrected image 01, on a low brass crosspiece; preserve the supported worktable objects and bench.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original workshop-table oil painting and the edit target. Image 2 is the accepted corrected view of the SAME Tapissier's loom and defines the memorial flower's identity and low placement.\nRemove the WHITE DAISY and all its green stem/leaves from the HIGH VERTICAL brass upright at the left of Image 1. Leave that structural brass upright plain, preserving bolts and machinery.\nInstead show the SAME single small child-painted red/orange flower with ochre center, short green stem and two leaves from Image 2, directly painted onto a LOW HORIZONTAL BRASS CROSSPIECE on the loom's RIGHT SIDE, near the seated weaving position and the tall empty chair. This is the side of the loom next to the door/empty chair, NOT the left high upright. Fit its brass face to the existing low side rail beside the knee level of a seated weaver, just visible above the back edge of the foreground worktable near the loom's right edge. Keep the flower small and painted, and its supporting rail visibly horizontal and low. Use the actual same red flower design and same side of the loom as Image 2, viewed from this alternate angle. There is only ONE flower; no white daisy or high flower remains.\nPreserve all other supported foreground details and composition from Image 1: linen-wrapped paper petitions, broad patched worn shoe, little barley cup and spilled grains, cloth-covered worktable, back bench with city cushion, chair, door with star-light at edge, loom and city/orchard cloth, window and shelves. Do not cover or move the shoe/papers/cup, do not put flower on the worktable, stool or chair. Preserve thick expressive Group of Seven-inspired oil impasto, warm ochre/brass and lilac shadows, 3:2 landscape 1536x1024. Empty interior, no figures, added text, labels, watermark, collage, photography or 3D.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11874,6 +11881,11 @@
       "source": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
       "sourceSha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
       "reason": "Retain the room and arm but replace its broad terminal foot with a clearly projecting, hand-length sharp stylus, with enough clearance to read its shape."
+    },
+    {
+      "source": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+      "sourceSha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e",
+      "reason": "Use the same memorial flower as the corrected image 01, on a low brass crosspiece; preserve the supported worktable objects and bench."
     }
   ]
 }
