@@ -23,6 +23,11 @@ from markdown.extensions import Extension
 from markdown.treeprocessors import Treeprocessor
 from PIL import Image
 
+if __package__:
+    from .media_assets import asset_url, copy_asset
+else:
+    from media_assets import asset_url, copy_asset
+
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / 'pages/illustrated.json'
 MODES = {'classic', 'deluxe', 'cinematic'}
@@ -54,10 +59,11 @@ def prose_body(body: str, title: str) -> str:
 
 
 class _Illustrations(Treeprocessor):
-    def __init__(self, md, entries, asset_prefix):
+    def __init__(self, md, entries, asset_prefix, media=None):
         super().__init__(md)
         self.entries = entries
         self.asset_prefix = asset_prefix
+        self.media = media
         self.anchors = []
 
     def run(self, root):
@@ -80,7 +86,7 @@ class _Illustrations(Treeprocessor):
             for entry in by_anchor.pop(anchor, []):
                 figure = ET.Element('figure', {'class': 'edition-art ' + entry.get('layout', 'inline'), 'data-art-id': entry['id']})
                 ET.SubElement(figure, 'img', {
-                    'src': self.asset_prefix + entry['path'], 'alt': entry['alt'],
+                    'src': asset_url(entry['path'], self.asset_prefix, self.media), 'alt': entry['alt'],
                     'loading': 'lazy', 'decoding': 'async',
                 })
                 if entry.get('caption'):
@@ -93,18 +99,19 @@ class _Illustrations(Treeprocessor):
 
 
 class _EditionExtension(Extension):
-    def __init__(self, entries, prefix):
+    def __init__(self, entries, prefix, media=None):
         super().__init__()
         self.entries, self.prefix = entries, prefix
+        self.media = media
         self.processor = None
 
     def extendMarkdown(self, md):
-        self.processor = _Illustrations(md, self.entries, self.prefix)
+        self.processor = _Illustrations(md, self.entries, self.prefix, self.media)
         md.treeprocessors.register(self.processor, 'edition-illustrations', -10)
 
 
-def _markdown(body, title, entries, prefix):
-    extension = _EditionExtension(entries, prefix)
+def _markdown(body, title, entries, prefix, media=None):
+    extension = _EditionExtension(entries, prefix, media)
     result = markdown.markdown(prose_body(body, title), extensions=['extra', extension], output_format='html')
     return result, extension.processor.anchors
 
@@ -113,24 +120,24 @@ def block_anchors(body: str, title: str) -> list[dict]:
     return _markdown(body, title, [], '')[1]
 
 
-def render_prose(body: str, title: str, illustrations: list[dict], asset_prefix: str = '') -> str:
-    return _markdown(body, title, illustrations, asset_prefix)[0]
+def render_prose(body: str, title: str, illustrations: list[dict], asset_prefix: str = '', media=None) -> str:
+    return _markdown(body, title, illustrations, asset_prefix, media)[0]
 
 
-def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='', comic=None) -> str:
+def render_document(record: dict, *, stylesheet='../illustrated.css', asset_prefix='../', navigation=True, writing_prompt='', comic=None, media=None) -> str:
     from pages.graphic_novels import download_link
     title = html.escape(record['title'])
     pdf_link = (
-        f'<p class="edition-download"><a href="{html.escape(asset_prefix + record["pdf"]["path"], quote=True)}" download>Download PDF</a></p>'
+        f'<p class="edition-download"><a href="{html.escape(asset_url(record["pdf"]["path"], asset_prefix, media), quote=True)}" download>Download PDF</a></p>'
         if navigation and record.get('pdf') else ''
     )
-    comic_link = download_link(comic, asset_prefix) if navigation else ''
+    comic_link = download_link(comic, asset_prefix, media) if navigation else ''
     author = f'<p class="edition-author">{html.escape(record["author"])}</p>' if record.get('author') else ''
     prompt = ('<section class="edition-prompt" aria-labelledby="writing-prompt-title">'
               '<h2 id="writing-prompt-title">Writing Prompt</h2>'
               f'<blockquote>{html.escape(writing_prompt)}</blockquote></section>') if writing_prompt else ''
-    cover = html.escape(asset_prefix + record['cover']['path'], quote=True)
-    prose = render_prose(record['body'], record['title'], record['illustrations'], asset_prefix)
+    cover = html.escape(asset_url(record['cover']['path'], asset_prefix, media), quote=True)
+    prose = render_prose(record['body'], record['title'], record['illustrations'], asset_prefix, media)
     mode = record['mode']
     if mode not in MODES:
         raise ValueError('Invalid presentation mode')
@@ -146,7 +153,7 @@ def render_document(record: dict, *, stylesheet='../illustrated.css', asset_pref
             asset_prefix + 'index.html', asset_prefix + 'styles.css', asset_prefix + 'theme.js',
             extra_stylesheet_hrefs=(stylesheet,), body_class='edition-page', main_class=f'edition mode-{mode}',
             page_path=f'stories/{record["source"]["slug"]}.html',
-            description=writing_prompt, page_type='article',
+            description=writing_prompt, page_type='article', media=media,
         )
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -445,18 +452,15 @@ def check_snapshot(root: Path, snapshot: Path | None = None) -> list[str]:
     return notes
 
 
-def build_editions(output: Path, snapshot: Path) -> list[dict]:
+def build_editions(output: Path, snapshot: Path, media=None) -> list[dict]:
     records = load_snapshot(snapshot)
     if not records:
         return records
-    (output / 'illustrated').mkdir(exist_ok=True)
     shutil.copyfile(ROOT / 'pages/illustrated.css', output / 'illustrated.css')
     shutil.copytree(ROOT / 'pages/fonts', output / 'fonts')
     for record in records:
         for asset in published_assets(record):
-            target = safe_path(output, asset['path'])
-            target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copyfile(safe_path(snapshot.parent, asset['path']), target)
+            copy_asset(safe_path(snapshot.parent, asset['path']), output, asset['path'], media)
     return records
 
 

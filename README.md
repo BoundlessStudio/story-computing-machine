@@ -272,3 +272,59 @@ sources or run production review.
 comic PDF for an already cataloged story. It leaves prose, reader presentation
 and catalog metadata intact. Later builds copy that frozen PDF; updating the
 production edition requires a deliberate named recapture to change the download.
+
+## Published media on R2
+
+The Pages workflow builds the frozen `pages/` snapshots, uploads their images and
+PDFs to Cloudflare R2, and verifies every public asset URL before deploying the
+site. Library covers, gallery thumbnails and full images, illustrated readers,
+PDF downloads, and the social preview use `https://art.rgbknights.com`. HTML,
+styles, scripts, and fonts remain in the Pages artifact.
+
+In GitHub repository **Settings → Secrets and variables → Actions**, publishing
+uses these variables and secrets:
+
+| Type | Name | Value |
+| --- | --- | --- |
+| Variable | `ASSET_BASE_URL` | `https://art.rgbknights.com` |
+| Variable | `R2_BUCKET` | `story-computing-machine` |
+| Variable | `R2_ENDPOINT` | The account's `https://<account-id>.r2.cloudflarestorage.com` S3 endpoint |
+| Secret | `R2_ACCESS_KEY_ID` | Bucket-scoped R2 access key ID |
+| Secret | `R2_SECRET_ACCESS_KEY` | Matching R2 secret access key |
+
+The R2 credential needs **Object Read & Write** access to this bucket, and the
+bucket's custom domain must be active. Account administrator access is not
+needed. `R2_ACCOUNT_ID` may also be stored for reference; the workflow uses the
+complete endpoint above. Do not put credentials in this repository.
+
+Asset URLs contain a SHA-256 hash of the published bytes. Unchanged assets are
+reused; updated art receives a new URL and can be cached for one year without
+serving a stale image. Uploads never delete earlier objects, preserving existing
+pages and rollbacks. PDFs include a download disposition for cross-origin links.
+An upload or public URL check failure prevents Pages deployment.
+
+For a local build that matches the deployed CDN links:
+
+```powershell
+python pages/build.py build --output _site --asset-base-url https://art.rgbknights.com --asset-output _assets
+```
+
+`_site/` contains the website; `_assets/` contains the staged binaries and upload
+manifest. Both are disposable, ignored build outputs. The ordinary local preview
+command above still copies assets into `_site/` and needs no R2 access. To run
+the upload tests or publish a staged build locally, install
+`pages/requirements-publish.txt`; the upload command is
+`python pages/publish_assets.py --manifest _assets/manifest.json` and reads the
+four `R2_*` connection/credential values listed above from the environment.
+
+Pull requests test and build without using R2 credentials. **Actions → Pages →
+Run workflow** uploads and verifies assets without deploying by default, including
+when run on a branch. Selecting **deploy** publishes only when the selected ref is
+`main`. A merge into `main` uploads the assets and deploys Pages automatically.
+
+Continue generating and approving assets locally, then use the existing named
+capture commands and commit the selected publication snapshots. GitHub runners
+can only upload committed snapshots; they cannot see uncommitted local artwork.
+This moves media out of the Pages artifact, while snapshots still reside in Git.
+The sparse checkout excludes production artwork; moving snapshot bytes out of
+Git would be a separate migration to reduce checkout size further.

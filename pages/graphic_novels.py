@@ -15,6 +15,11 @@ import subprocess
 import tempfile
 from pathlib import Path, PurePosixPath
 
+if __package__:
+    from .media_assets import asset_url, copy_asset
+else:
+    from media_assets import asset_url, copy_asset
+
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / 'pages/graphic-novels.json'
@@ -69,10 +74,10 @@ def by_source(records) -> dict:
     return selected
 
 
-def download_link(record: dict | None, asset_prefix='../') -> str:
+def download_link(record: dict | None, asset_prefix='../', media=None) -> str:
     if record is None:
         return ''
-    href = html.escape(asset_prefix + record['pdf']['path'], quote=True)
+    href = html.escape(asset_url(record['pdf']['path'], asset_prefix, media), quote=True)
     return f'<p class="comic-download"><a href="{href}" download>Download comic PDF</a></p>'
 
 
@@ -312,12 +317,11 @@ def capture_edition(root: Path, slug: str, snapshot: Path | None = None) -> dict
     return record
 
 
-def build_editions(output: Path, snapshot: Path, records=None) -> list[dict]:
+def build_editions(output: Path, snapshot: Path, records=None, media=None) -> list[dict]:
     records = load_snapshot(snapshot) if records is None else records
     for record in records:
         pdf = record['pdf']
-        target = safe_path(output, pdf['path'])
-        target.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(safe_path(snapshot.parent, pdf['path']), target)
-        _pdf(target, pdf['sha256'])
+        source = safe_path(snapshot.parent, pdf['path'])
+        _pdf(source, pdf['sha256'])
+        copy_asset(source, output, pdf['path'], media)
     return records

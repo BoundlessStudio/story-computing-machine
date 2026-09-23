@@ -1,4 +1,5 @@
 /_site/
+/_assets/
 **/__pycache__/
 
 /illustrated/node_modules/

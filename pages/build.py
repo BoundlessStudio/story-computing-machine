@@ -18,10 +18,12 @@ from typing import Any, Iterable
 import markdown
 
 if __package__:
+    from .media_assets import MediaAssets, asset_url, copy_asset, validate_base_url
     from .image_validation import (
         TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT, validate_title_image as _validate_title_image,
     )
 else:
+    from media_assets import MediaAssets, asset_url, copy_asset, validate_base_url
     from image_validation import (
         TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT, validate_title_image as _validate_title_image,
     )
@@ -1055,10 +1057,10 @@ MOON_ICON = '''<svg class="theme-icon theme-icon-dark" viewBox="0 0 24 24" aria-
 THEME_BOOTSTRAP = '''<script>(function(){var key="story-computing-machine-theme",theme=null;try{theme=localStorage.getItem(key)}catch(error){}if(theme!=="light"&&theme!=="dark"){try{theme=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}catch(error){theme="light"}}document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme}());</script>'''
 
 
-def _social_metadata(title: str, description: str, page_path: str, page_type: str) -> str:
+def _social_metadata(title: str, description: str, page_path: str, page_type: str, media=None) -> str:
     description = textwrap.shorten(description or SITE_DESCRIPTION, width=200, placeholder="…")
     url = SITE_URL + page_path.lstrip("/")
-    image_url = SITE_URL + SOCIAL_IMAGE_PATH.name
+    image_url = asset_url(SOCIAL_IMAGE_PATH.name, SITE_URL, media)
     open_graph = {
         "og:site_name": SITE_NAME,
         "og:type": page_type,
@@ -1104,6 +1106,7 @@ def _page(
     page_path: str | None = None,
     description: str = SITE_DESCRIPTION,
     page_type: str = "website",
+    media: MediaAssets | None = None,
 ) -> str:
     gallery_href = f'{library_href.rsplit("/", 1)[0]}/gallery.html' if "/" in library_href else "gallery.html"
     library_href = html.escape(library_href, quote=True)
@@ -1141,7 +1144,7 @@ def _page(
         for href in extra_stylesheet_hrefs
     )
     social_metadata = (
-        _social_metadata(title, description, page_path, page_type)
+        _social_metadata(title, description, page_path, page_type, media)
         if page_path is not None else ""
     )
     return (
@@ -1189,7 +1192,7 @@ def _editions_by_source(editions, story_slugs: Iterable[str] | None = None) -> d
     return selected
 
 
-def render_index(catalog: Catalog, editions=()) -> str:
+def render_index(catalog: Catalog, editions=(), media=None) -> str:
     selected = _editions_by_source(editions, (story.slug for story in catalog.stories))
     items = []
     for index, story in enumerate(catalog.stories):
@@ -1198,7 +1201,8 @@ def render_index(catalog: Catalog, editions=()) -> str:
         slug = html.escape(story.slug, quote=True)
         title = html.escape(story.title)
         edition = selected.get(story.slug)
-        cover = html.escape(edition["cover"]["path"] if edition else story.cover, quote=True)
+        cover_path = edition["cover"]["path"] if edition else story.cover
+        cover = html.escape(asset_url(cover_path, media=media), quote=True)
         story_label = html.escape(_story_label(story))
         status_class = re.sub(r"[^a-z0-9]+", "-", _story_label(story).casefold()).strip("-")
         rating = html.escape(story.rating)
@@ -1237,22 +1241,23 @@ def render_index(catalog: Catalog, editions=()) -> str:
         "theme.js",
         current="library",
         page_path="",
+        media=media,
     )
 
 
-def render_story(story: Story, editions=(), comics=()) -> str:
+def render_story(story: Story, editions=(), comics=(), media=None) -> str:
     comic = _graphic_novel_module().by_source(comics).get(story.slug)
     edition = _editions_by_source(editions).get(story.slug)
     if edition is not None:
-        return _illustrated_module().render_document(edition, writing_prompt=story.prompt, comic=comic)
+        return _illustrated_module().render_document(edition, writing_prompt=story.prompt, comic=comic, media=media)
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
     title = html.escape(story.title)
-    cover = html.escape(f"../{story.cover}", quote=True)
+    cover = html.escape(asset_url(story.cover, '../', media), quote=True)
     body = (
         f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
         f'<h1>{title}</h1>'
         f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
-        f'{_graphic_novel_module().download_link(comic)}'
+        f'{_graphic_novel_module().download_link(comic, media=media)}'
         f'{_prompt(story.prompt)}'
         f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
         f'width="864" height="1536" decoding="async"></figure>'
@@ -1267,6 +1272,7 @@ def render_story(story: Story, editions=(), comics=()) -> str:
         page_path=f"stories/{story.slug}.html",
         description=story.prompt,
         page_type="article",
+        media=media,
     )
 
 
@@ -1302,30 +1308,41 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
     return resolved
 
 
-def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
+def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH, *,
+          asset_base_url: str | None = None, asset_output: Path | None = None) -> Catalog:
+    if (asset_base_url is None) != (asset_output is None):
+        raise ValueError('CDN builds require both --asset-base-url and --asset-output')
+    if asset_output is not None:
+        validate_base_url(asset_base_url)
+        site, assets = output.resolve(), asset_output.resolve()
+        if site == assets or site in assets.parents or assets in site.parents:
+            raise ValueError('Pages output and asset output must not overlap')
     catalog = load_catalog(snapshot_path)
     comic_snapshot = snapshot_path.with_name("graphic-novels.json")
     comics = _graphic_novel_module().load_snapshot(comic_snapshot, catalog)
     destination = prepare_output(output)
+    media = MediaAssets(prepare_output(asset_output), asset_base_url) if asset_output is not None else None
     (destination / "stories").mkdir()
-    (destination / "covers").mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
-    shutil.copy2(SOCIAL_IMAGE_PATH, destination / SOCIAL_IMAGE_PATH.name)
+    copy_asset(SOCIAL_IMAGE_PATH, destination, SOCIAL_IMAGE_PATH.name, media)
     edition_snapshot = snapshot_path.with_name("illustrated.json")
     editions = []
     if edition_snapshot.exists():
-        editions = _illustrated_module().build_editions(destination, edition_snapshot)
-    _graphic_novel_module().build_editions(destination, comic_snapshot, comics)
-    (destination / "index.html").write_text(render_index(catalog, editions), encoding="utf-8")
+        editions = _illustrated_module().build_editions(destination, edition_snapshot, media=media)
+    _graphic_novel_module().build_editions(destination, comic_snapshot, comics, media=media)
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover
-        shutil.copy2(source_cover, destination / story.cover)
+        copy_asset(source_cover, destination, story.cover, media)
+    (destination / "index.html").write_text(render_index(catalog, editions, media), encoding="utf-8")
+    for story in catalog.stories:
         (destination / "stories" / f"{story.slug}.html").write_text(
-            render_story(story, editions, comics),
+            render_story(story, editions, comics, media),
             encoding="utf-8",
         )
-    _landscape_module().build_gallery(destination, snapshot_path.with_name("landscapes.json"), catalog)
+    _landscape_module().build_gallery(destination, snapshot_path.with_name("landscapes.json"), catalog, media=media)
+    if media is not None:
+        media.write_manifest()
     return catalog
 
 
@@ -1354,6 +1371,8 @@ def main() -> None:
 
     build_parser = commands.add_parser("build", help="Build Pages from the stored snapshot.")
     build_parser.add_argument("--output", type=Path, default=REPOSITORY_ROOT / "_site")
+    build_parser.add_argument("--asset-base-url", help="HTTPS CDN URL for immutable images and PDFs.")
+    build_parser.add_argument("--asset-output", type=Path, help="Separate staging directory for R2 uploads.")
 
     capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
     capture_parser.add_argument("slug")
@@ -1370,7 +1389,7 @@ def main() -> None:
 
     args = parser.parse_args()
     if args.command == "build":
-        catalog = build(args.output)
+        catalog = build(args.output, asset_base_url=args.asset_base_url, asset_output=args.asset_output)
         print(f"Built {len(catalog.stories)} stored stories in {args.output}")
     elif args.command == "capture-illustrated":
         _illustrated_module().capture_edition(REPOSITORY_ROOT, args.slug)

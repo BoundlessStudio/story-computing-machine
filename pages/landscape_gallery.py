@@ -13,6 +13,11 @@ import shutil
 
 from PIL import Image, ImageOps
 
+if __package__:
+    from .media_assets import asset_url, copy_asset
+else:
+    from media_assets import asset_url, copy_asset
+
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 DIGEST = re.compile(r"[a-f0-9]{64}\Z")
 ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
@@ -284,7 +289,7 @@ def _combine_collections(landscapes: dict, interiors: dict | None = None) -> dic
     return {"stories": sorted(stories.values(), key=lambda story: (story["title"].casefold(), story["slug"]))}
 
 
-def render_gallery(landscapes: dict, interiors: dict | None = None) -> str:
+def render_gallery(landscapes: dict, interiors: dict | None = None, media=None) -> str:
     from pages import build
 
     data = _combine_collections(landscapes, interiors)
@@ -299,7 +304,8 @@ def render_gallery(landscapes: dict, interiors: dict | None = None) -> str:
         options.append(f'<option value="{slug}">{title}</option>')
         cards = []
         for index, image in enumerate(story["images"], 1):
-            caption, alt, full = escape(image["title"]), escape(image["alt"]), escape(image["full"]["path"])
+            caption, alt = escape(image["title"]), escape(image["alt"])
+            full = escape(asset_url(image["full"]["path"], media=media))
             collection = image["collection"]
             label = COLLECTIONS[collection]
             image_id = f'{slug}/{escape(image["id"])}' if collection == "landscapes" else f'{slug}/interiors/{escape(image["id"])}'
@@ -309,7 +315,7 @@ def render_gallery(landscapes: dict, interiors: dict | None = None) -> str:
                 f'<a class="landscape-link" data-gallery-image data-full="{full}" data-title="{caption}" '
                 f'data-story-title="{title}" data-story-slug="{slug}" data-image-id="{image_id}" data-collection="{collection}" '
                 f'data-reader="{reader}" href="{full}"><figure>'
-                f'<img src="{escape(thumb["path"])}" alt="{alt}" width="{thumb["width"]}" height="{thumb["height"]}" loading="lazy" decoding="async">'
+                f'<img src="{escape(asset_url(thumb["path"], media=media))}" alt="{alt}" width="{thumb["width"]}" height="{thumb["height"]}" loading="lazy" decoding="async">'
                 f'<figcaption><span class="landscape-number">{index:02}</span><span>{caption}'
                 f'<span class="painting-kind">{label}</span></span></figcaption></figure></a></li>'
             )
@@ -357,10 +363,11 @@ def render_gallery(landscapes: dict, interiors: dict | None = None) -> str:
         script_href="landscape-gallery.js", extra_stylesheet_hrefs=("landscape-gallery.css",),
         main_class="landscape-gallery", page_path="gallery.html",
         description=f"Explore {count:,} oil-painted landscapes and interiors from {len(groups):,} stories, inspired by the Group of Seven.",
+        media=media,
     )
 
 
-def build_gallery(destination: Path, snapshot_path: Path, catalog) -> int:
+def build_gallery(destination: Path, snapshot_path: Path, catalog, media=None) -> int:
     landscapes = load_snapshot(snapshot_path)
     interiors = load_snapshot(snapshot_path.with_name("interiors.json"), "interiors")
     data = _combine_collections(landscapes, interiors)
@@ -372,10 +379,8 @@ def build_gallery(destination: Path, snapshot_path: Path, catalog) -> int:
         for image in story["images"]:
             for role in ("full", "thumbnail"):
                 relative = image[role]["path"]
-                target = _asset(destination, relative)
-                target.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copyfile(_asset(snapshot_path.parent, relative), target)
+                copy_asset(_asset(snapshot_path.parent, relative), destination, relative, media)
     for filename in ASSET_NAMES:
         shutil.copyfile(Path(__file__).with_name(filename), destination / filename)
-    (destination / "gallery.html").write_text(render_gallery(landscapes, interiors), encoding="utf-8")
+    (destination / "gallery.html").write_text(render_gallery(landscapes, interiors, media), encoding="utf-8")
     return count
