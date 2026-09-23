@@ -5104,38 +5104,52 @@
           "id": "02-the-hearth-and-table",
           "title": "The hearth and table",
           "alt": "The hearth and table — oil interior study for The First Winter",
-          "source": "stories/the-first-winter/art/interiors/02-the-hearth-and-table.png",
-          "sourceSha256": "63e97a8cf9ea18598c4605fc43a85833ce537e37dd6dbfa9605b89ff7680734c",
+          "source": "pages/interior-replacements/the-first-winter/02-the-hearth-and-table.png",
+          "sourceSha256": "8ae7afe8bf3c10157a1402fd58738ef006845cf56419625e0bcc389fd8cb0f28",
           "full": {
-            "path": "interiors/the-first-winter/02-the-hearth-and-table-63e97a8cf9ea1859.webp",
-            "sha256": "d6e0cc4743c5e6de043ba3fb050ce7d6902e1ea54e87bc58a88846168dfeae74",
+            "path": "interiors/the-first-winter/02-the-hearth-and-table-8ae7afe8bf3c1015.webp",
+            "sha256": "b8d3c0e68e847a557666699c8d0938a035df1ff90184dc8195dbf28871b79598",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-first-winter/02-the-hearth-and-table-63e97a8cf9ea1859-thumb.webp",
-            "sha256": "4efc9cf7a235e0e35a6eef531192c1e81702d735e3e35ecb10604bb0ebb3c141",
+            "path": "interiors/the-first-winter/02-the-hearth-and-table-8ae7afe8bf3c1015-thumb.webp",
+            "sha256": "1eb65c101d82b8ff952d3c1d484d8a2b9a65cb2398cf98c5637508fb036f050d",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-first-winter/art/interiors/02-the-hearth-and-table.png",
+            "originalSha256": "63e97a8cf9ea18598c4605fc43a85833ce537e37dd6dbfa9605b89ff7680734c",
+            "correction": "Use 01's door/window/hearth layout for the closer table view; preserve the supported blanket and washing props.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the edit target, a closer view of the cottage hearth and table. Image 2 establishes the SAME cottage's fixed floor plan and opening locations. Produce one 3:2 landscape expressive oil painting, 1536x1024 preferred.\nPreserve image 1's intimate foreground washing table with pitcher, basin, mug and cloth, the chair with cream/red striped blanket, split stool, fire, frying pan, heavy beams, rough plaster, stone hearth, warm amber and violet oil palette and broad confident brushwork.\nCorrect the fixed room geometry to image 2. Facing the hearth wall, the window is immediately LEFT of the stone hearth, while the single outside plank door is immediately to the RIGHT of the hearth, with stacked firewood and the travel pack in that short right-hand interval. The bed is on the far-left side beyond the window. There is NO door between the window and hearth. Remove the incorrect central door in image 1 and restore continuous rough plaster there. Show the real outside door to the right of the hearth; widen/recenter the close composition slightly if necessary to let its edge and iron hinges be clear. Do not add a second door.\nUse image 2's matching mantel, kettle and fixed proportions. Preserve the supported washing and blanket props in image 1. Put exactly three apples on the window sill as in image 2; the foreground wooden bowl may be empty. Autumn birches and mountain valley through the window remain appropriate. This is the same cottage after washing their cuts, not a remodeled interior.\nKeep the room empty. No figures, extra architecture, text overlay, watermark, border, collage, photographic or 3D treatment.\n",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-the-cottage-after-dawn",
           "title": "The cottage after dawn",
           "alt": "The cottage after dawn — oil interior study for The First Winter",
-          "source": "stories/the-first-winter/art/interiors/03-the-cottage-after-dawn.png",
-          "sourceSha256": "0d00cfd092780c3b9f85aace42ff0fcb210beb5d4961a6683fd120a5d84f9ec7",
+          "source": "pages/interior-replacements/the-first-winter/03-the-cottage-after-dawn.png",
+          "sourceSha256": "dad01b84a261448b446433c15cccd1ac6ddc34253eba99b5ff8b49eea46903b1",
           "full": {
-            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-0d00cfd092780c3b.webp",
-            "sha256": "f91ef4b6c519b0e597f8f3607f5bace0423259be875c16d602ff4ae5bbe58a27",
+            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-dad01b84a261448b.webp",
+            "sha256": "ea0a14bce62526d43918cbccf834a226e640e2916a9ae861b6eb6f235a386458",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-0d00cfd092780c3b-thumb.webp",
-            "sha256": "d88802a679252f129461db67a235cafa34998322e8274ae27322c6944d636b24",
+            "path": "interiors/the-first-winter/03-the-cottage-after-dawn-dad01b84a261448b-thumb.webp",
+            "sha256": "54584ea23743e95e2bab3c285ed54354172dd6ba57e2c246add3ca51d6ccb9e6",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-first-winter/art/interiors/03-the-cottage-after-dawn.png",
+            "originalSha256": "0d00cfd092780c3b9f85aace42ff0fcb210beb5d4961a6683fd120a5d84f9ec7",
+            "correction": "Preserve 01's fixed room plan while retaining rain, consumed apples/wood and the torn shirt.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the target, the cottage after the first unrenewed dawn. Image 2 is the established original cottage floor plan; image 3 is the corrected close table view confirming that SAME layout and paint treatment. Produce one 3:2 landscape expressive oil painting, 1536x1024 preferred.\nCorrect image 1's incompatible room plan while preserving its later-day story state. Reframe to see the same arrangement as image 2: short wooden bed at far LEFT; window on the wall immediately LEFT of the stone hearth; hearth in the center-right; single exterior plank door immediately to the RIGHT of the hearth, with a small wood space and travel pack in that short interval. The table and split stool stand in the foreground. Never put a bed or broad extra wall between hearth and entrance, never put the window to the right of the entrance. Copy the recognizable hearth proportions, rough plaster, heavy beams and door from images 2/3. A modest angle change is fine but fixed openings must agree.\nKeep the changed dawn state of image 1: gray rainy daylight through the window, wet glass, quiet warm hearth, fewer remaining logs than the replenished pile in image 2, and an EMPTY apple sill because the eaten apples have not returned. On the far-left bed, retain the spare pale shirt bunched at the pillow with clearly torn missing strips along one side. The bed is too short and has its same rust/red/blue striped covering. Keep the travel pack beside the door and the worn rugs. Do not copy image 2's sunny autumn light, full pile of fuel or three restored apples. No apples or full fruit bowl on the table.\nPreserve image 1's atmosphere, material palette, broad shaped oil color masses and visible confident brushwork, without photographic or 3D drift. Empty room, no people. No extra doors, text overlay, signature, watermark, border or collage.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11214,6 +11228,16 @@
       "source": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
       "sourceSha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
       "reason": "Replace the distant coast with close receiving-terrace/building geometry, or frame inward to keep the shelter supplies as the subject."
+    },
+    {
+      "source": "stories/the-first-winter/art/interiors/02-the-hearth-and-table.png",
+      "sourceSha256": "63e97a8cf9ea18598c4605fc43a85833ce537e37dd6dbfa9605b89ff7680734c",
+      "reason": "Use 01's door/window/hearth layout for the closer table view; preserve the supported blanket and washing props."
+    },
+    {
+      "source": "stories/the-first-winter/art/interiors/03-the-cottage-after-dawn.png",
+      "sourceSha256": "0d00cfd092780c3b9f85aace42ff0fcb210beb5d4961a6683fd120a5d84f9ec7",
+      "reason": "Preserve 01's fixed room plan while retaining rain, consumed apples/wood and the torn shirt."
     }
   ]
 }
