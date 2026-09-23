@@ -17,7 +17,10 @@ SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 DIGEST = re.compile(r"[a-f0-9]{64}\Z")
 ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
 COLLECTIONS = {"landscapes": "Landscape", "interiors": "Interior"}
-REPLACEMENT_ROOT = "pages/landscape-replacements"
+REPLACEMENT_ROOTS = {
+    "landscapes": "pages/landscape-replacements",
+    "interiors": "pages/interior-replacements",
+}
 
 
 def _sha256(path: Path) -> str:
@@ -87,8 +90,8 @@ def load_snapshot(path: Path, collection: str = "landscapes") -> dict:
                 raise ValueError(f"Invalid landscape source hash: {slug}/{image_id}")
             source = image.get("source", "")
             original_sources = {f"stories/{slug}/art/{collection}/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}
-            replacement_source = f"{REPLACEMENT_ROOT}/{slug}/{image_id}.png"
-            allowed_sources = original_sources | ({replacement_source} if collection == "landscapes" else set())
+            replacement_source = f"{REPLACEMENT_ROOTS[collection]}/{slug}/{image_id}.png"
+            allowed_sources = original_sources | {replacement_source}
             if not isinstance(source, str) or source not in allowed_sources:
                 raise ValueError(f"Invalid landscape source path: {source}")
             revision = image.get("revision")
@@ -201,6 +204,7 @@ def _capture_collection(repository_root: Path, collection: str, snapshot_path: P
             raise ValueError(f"No landscape images in {directory}")
         if len({p.stem for p in sources}) != len(sources):
             raise ValueError(f"Repeated landscape filename stem in {directory}")
+        found.add(slug)
         # Curatorial removals remain excluded even when source artwork is kept
         # inside a locked story package or later receives different bytes.
         sources = [source for source in sources
@@ -208,7 +212,6 @@ def _capture_collection(repository_root: Path, collection: str, snapshot_path: P
         if not sources:
             continue
         story = published[slug]
-        found.add(slug)
         groups.append({"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []})
         jobs.extend((source, repository_root, snapshot_path.parent, slug, story.title,
                      previous.get((slug, source.stem)), collection) for source in sources)

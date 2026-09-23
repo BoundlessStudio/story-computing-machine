@@ -141,18 +141,19 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertIn('width="96" height="64"', document)
         self.assertNotIn('src="/', document)
 
-    def replacement_fixture(self):
-        data = self.capture()
+    def replacement_fixture(self, collection="landscapes"):
+        data = self.capture() if collection == "landscapes" else gallery.capture_interiors(self.root)
         original = data["stories"][0]["images"][0]
-        replacement = self.pages / "landscape-replacements" / self.story.slug / self.source.name
+        replacement = self.pages / f"{collection[:-1]}-replacements" / self.story.slug / self.source.name
         replacement.parent.mkdir(parents=True)
         Image.new("RGB", (96, 64), "midnightblue").save(replacement)
-        selected = gallery._encode((replacement, self.root, self.pages, self.story.slug, self.story.title, None, "landscapes"))
-        selected["title"] = "The valley at the correct hour"
+        selected = gallery._encode((replacement, self.root, self.pages, self.story.slug, self.story.title, None, collection))
+        setting = "valley" if collection == "landscapes" else "room"
+        selected["title"] = f"The {setting} at the correct hour"
         selected["revision"] = {
             "originalSource": original["source"], "originalSha256": original["sourceSha256"],
             "correction": "The source scene occurs after dark.",
-            "prompt": "Preserve the valley; replace sunlight with night.",
+            "prompt": f"Preserve the {setting}; replace sunlight with night.",
             "generator": "image_gen",
         }
         data["stories"][0]["images"] = [selected]
@@ -160,7 +161,7 @@ class LandscapeGalleryTests(unittest.TestCase):
             "source": original["source"], "sourceSha256": original["sourceSha256"],
             "reason": selected["revision"]["correction"],
         }]
-        self.snapshot.write_text(json.dumps(data), encoding="utf-8")
+        (self.pages / f"{collection}.json").write_text(json.dumps(data), encoding="utf-8")
         return replacement, data
 
     def test_replacement_recapture_preserves_original_and_selected_provenance(self):
@@ -191,24 +192,30 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertFalse(list(output.rglob("*.png")))
 
     def test_replacement_requires_safe_source_and_matching_excluded_reference(self):
-        _, original = self.replacement_fixture()
-        for mutation in ("unsafe", "wrong-story", "missing-exclusion", "wrong-hash", "missing-prompt"):
-            with self.subTest(mutation=mutation):
-                data = deepcopy(original)
-                image = data["stories"][0]["images"][0]
-                if mutation == "unsafe":
-                    image["source"] = "pages/landscape-replacements/../../private.png"
-                elif mutation == "wrong-story":
-                    image["revision"]["originalSource"] = "stories/another/art/landscapes/01-the-bright-valley.png"
-                elif mutation == "missing-exclusion":
-                    data["excludedSources"] = []
-                elif mutation == "wrong-hash":
-                    image["revision"]["originalSha256"] = "0" * 64
-                else:
-                    image["revision"]["prompt"] = ""
-                self.snapshot.write_text(json.dumps(data), encoding="utf-8")
-                with self.assertRaises(ValueError):
-                    gallery.load_snapshot(self.snapshot)
+        self.add_interior()
+        for collection in ("landscapes", "interiors"):
+            _, original = self.replacement_fixture(collection)
+            snapshot = self.pages / f"{collection}.json"
+            for mutation in ("unsafe", "wrong-collection", "wrong-story", "missing-exclusion", "wrong-hash", "missing-prompt"):
+                with self.subTest(collection=collection, mutation=mutation):
+                    data = deepcopy(original)
+                    image = data["stories"][0]["images"][0]
+                    if mutation == "unsafe":
+                        image["source"] = f"pages/{collection[:-1]}-replacements/../../private.png"
+                    elif mutation == "wrong-collection":
+                        other = "interior" if collection == "landscapes" else "landscape"
+                        image["source"] = f"pages/{other}-replacements/{self.story.slug}/{self.source.name}"
+                    elif mutation == "wrong-story":
+                        image["revision"]["originalSource"] = f"stories/another/art/{collection}/{self.source.name}"
+                    elif mutation == "missing-exclusion":
+                        data["excludedSources"] = []
+                    elif mutation == "wrong-hash":
+                        image["revision"]["originalSha256"] = "0" * 64
+                    else:
+                        image["revision"]["prompt"] = ""
+                    snapshot.write_text(json.dumps(data), encoding="utf-8")
+                    with self.assertRaises(ValueError):
+                        gallery.load_snapshot(snapshot, collection)
 
     def test_missing_snapshot_has_a_valid_empty_gallery_and_reader_navigation(self):
         empty = gallery.load_snapshot(self.snapshot)
@@ -277,6 +284,64 @@ class LandscapeGalleryTests(unittest.TestCase):
             self.assertEqual(gallery.capture_interiors(self.root), data)
             self.assertEqual(self.capture(), landscapes)
         self.assertEqual(gallery.load_snapshot(self.pages / "interiors.json", "interiors"), data)
+
+    def test_interior_replacement_recapture_preserves_original_catalog_and_landscapes(self):
+        landscape_replacement, landscapes = self.replacement_fixture()
+        source = self.add_interior()
+        replacement, data = self.replacement_fixture("interiors")
+        protected = [self.source, source, landscape_replacement, replacement,
+                     self.snapshot, self.pages / "catalog.json"]
+        protected.extend(self.pages / image[role]["path"]
+                         for story in landscapes["stories"] for image in story["images"]
+                         for role in ("full", "thumbnail"))
+        original_bytes = {path: path.read_bytes() for path in protected}
+        with patch.object(Image.Image, "save", side_effect=AssertionError("Re-encoded reviewed interior")):
+            self.assertEqual(gallery.capture_interiors(self.root), data)
+            self.assertEqual(gallery.capture_interiors(self.root, slugs=[self.story.slug]), data)
+        selected = data["stories"][0]["images"][0]
+        self.assertEqual(selected["source"], f"pages/interior-replacements/{self.story.slug}/{source.name}")
+        self.assertEqual(selected["revision"]["originalSource"], source.relative_to(self.root).as_posix())
+        (self.pages / selected["thumbnail"]["path"]).unlink()
+        self.assertEqual(gallery.capture_interiors(self.root, slugs=[self.story.slug]), data)
+        self.assertEqual({path: path.read_bytes() for path in protected}, original_bytes)
+
+    def test_changed_interior_replacement_blocks_recapture_but_not_frozen_build(self):
+        self.add_interior()
+        replacement, data = self.replacement_fixture("interiors")
+        snapshot = self.pages / "interiors.json"
+        before = snapshot.read_bytes()
+        Image.new("RGB", (96, 64), "pink").save(replacement)
+        with self.assertRaisesRegex(ValueError, "changed since review"):
+            gallery.capture_interiors(self.root, slugs=[self.story.slug])
+        self.assertEqual(snapshot.read_bytes(), before)
+        (self.root / "stories").rename(self.root / "offline-stories")
+        replacement.unlink()
+        output = self.root / "frozen-site"
+        output.mkdir()
+        with patch.object(gallery, "_capture_collection", side_effect=AssertionError("Capture during build")):
+            self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 1)
+        for role in ("full", "thumbnail"):
+            asset = data["stories"][0]["images"][0][role]["path"]
+            self.assertEqual((output / asset).read_bytes(), (self.pages / asset).read_bytes())
+        self.assertFalse(list(output.rglob("*.png")))
+
+    def test_named_interior_capture_accepts_all_excluded_originals_but_requires_source_directory(self):
+        source = self.add_interior()
+        data = gallery.capture_interiors(self.root)
+        image = data["stories"][0]["images"][0]
+        curated = {"schemaVersion": 1, "stories": [], "excludedSources": [{
+            "source": image["source"], "sourceSha256": image["sourceSha256"],
+            "reason": "The room contains unsupported furnishings.",
+        }]}
+        snapshot = self.pages / "interiors.json"
+        snapshot.write_text(json.dumps(curated), encoding="utf-8")
+        with patch.object(Image.Image, "save", side_effect=AssertionError("Encoded excluded interior")):
+            self.assertEqual(gallery.capture_interiors(self.root, slugs=[self.story.slug]), curated)
+        saved = snapshot.read_bytes()
+        source.parent.rename(source.parent.with_name("offline-interiors"))
+        with self.assertRaisesRegex(ValueError, "No interiors source directory"):
+            gallery.capture_interiors(self.root, slugs=[self.story.slug])
+        self.assertEqual(snapshot.read_bytes(), saved)
 
     def test_combined_build_keeps_one_story_and_distinct_image_identities(self):
         replacement, landscapes = self.replacement_fixture()
