@@ -661,6 +661,70 @@
       ]
     },
     {
+      "slug": "a-place-for-sunday",
+      "title": "A Place for Sunday",
+      "reader": "stories/a-place-for-sunday.html",
+      "images": [
+        {
+          "id": "cosimo",
+          "title": "Cosimo",
+          "alt": "Sculpted Impasto character reference sheet of Cosimo for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/characters/cosimo.png",
+          "sourceSha256": "e0c415a4e57360d8583ae513f684f947dc2aeb358adfaff26fc2ccc3d66540bf",
+          "full": {
+            "path": "characters/a-place-for-sunday/cosimo-e0c415a4e57360d8.webp",
+            "sha256": "c3bff1ce99958b352c4210c329cb307037d60e7cb123a75e5122bbcc3feb720e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-sunday/cosimo-e0c415a4e57360d8-thumb.webp",
+            "sha256": "85b994038532dfcaba19da37961734f3d513305a2fb1758d49d5e487dca6b851",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ilario",
+          "title": "Ilario",
+          "alt": "Sculpted Impasto character reference sheet of Ilario for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/characters/ilario.png",
+          "sourceSha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10",
+          "full": {
+            "path": "characters/a-place-for-sunday/ilario-559b43101aaaefe9.webp",
+            "sha256": "6fc52b5507d6e143cb294e0696744c81defcde798a2eb75d7f3f7f82a439089b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-sunday/ilario-559b43101aaaefe9-thumb.webp",
+            "sha256": "9a23253c2fde55c9673432235b642195086c4d05491dd40cd71f38853a516104",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nerina",
+          "title": "Nerina",
+          "alt": "Sculpted Impasto character reference sheet of Nerina for A Place for Sunday",
+          "source": "stories/a-place-for-sunday/art/characters/nerina.png",
+          "sourceSha256": "dd2567001c46c7cdba008c11985a9244413933c98c1bc3dbbeb4fc47406d0b90",
+          "full": {
+            "path": "characters/a-place-for-sunday/nerina-dd2567001c46c7cd.webp",
+            "sha256": "056564fbeee7c4d042a707b39a642ba0389e267b1b0a8029d8b8d2a9e471dde6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-sunday/nerina-dd2567001c46c7cd-thumb.webp",
+            "sha256": "5feb973f13e1992cc38772083b091ff1c319f958b3956585c856a1b2b49f7da7",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "coiled-together",
       "title": "Coiled Together",
       "reader": "stories/coiled-together.html",
@@ -782,6 +846,82 @@
           "thumbnail": {
             "path": "characters/friends-of-the-night/crooktail-71c950facd508944-thumb.webp",
             "sha256": "a0f7bdbdbd2682a1f162ae22a1f9930d716766d5f01385b6ba32ce1b30480759",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "denek",
+          "title": "Denek",
+          "alt": "Sculpted Impasto character reference sheet of Denek for Friends of the Night",
+          "source": "stories/friends-of-the-night/art/characters/denek.png",
+          "sourceSha256": "4bfe71fddd31a046dca8adf7ff482257a03a440a2ca9be8cf137ccbb6635ec53",
+          "full": {
+            "path": "characters/friends-of-the-night/denek-4bfe71fddd31a046.webp",
+            "sha256": "c07bda27f4c8e9f4583b9eafcae214239a7c390230cdd9576b6b7f399c41b917",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/friends-of-the-night/denek-4bfe71fddd31a046-thumb.webp",
+            "sha256": "805993c2f94b5c0e5d7f9487b825385992341e2ecd6c86d693d6b5b215b80ce2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "marshal-drost",
+          "title": "Marshal Drost",
+          "alt": "Sculpted Impasto character reference sheet of Marshal Drost for Friends of the Night",
+          "source": "stories/friends-of-the-night/art/characters/marshal-drost.png",
+          "sourceSha256": "a9bc3a784a9df15444ea2cf83710cbca0d6d6b8e8e2a6f87cf5e883df0061d94",
+          "full": {
+            "path": "characters/friends-of-the-night/marshal-drost-a9bc3a784a9df154.webp",
+            "sha256": "b87d23257b2d1ce28236ed69bc87f8e1700e183a3ccb653bb17b6b02c9cd96ed",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/friends-of-the-night/marshal-drost-a9bc3a784a9df154-thumb.webp",
+            "sha256": "533981f430d4121c401afc3433697a93b41dd081f3ffe86545529d1c5b757c41",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tavik",
+          "title": "Tavik",
+          "alt": "Sculpted Impasto character reference sheet of Tavik for Friends of the Night",
+          "source": "stories/friends-of-the-night/art/characters/tavik.png",
+          "sourceSha256": "b19e0b8deecb3054f915bc8937f30fc912392449df61e8ba332f26424011c3be",
+          "full": {
+            "path": "characters/friends-of-the-night/tavik-b19e0b8deecb3054.webp",
+            "sha256": "67254548a11c2a5a32918a12bfde1c49cfd4b4d8e4f1ce7bd509498d672f8650",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/friends-of-the-night/tavik-b19e0b8deecb3054-thumb.webp",
+            "sha256": "cd88f429e2209ed0b4cf76fc23c8cefa7758a1dbdf8c1170b74765327db7b173",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "torma",
+          "title": "Torma",
+          "alt": "Sculpted Impasto character reference sheet of Torma for Friends of the Night",
+          "source": "stories/friends-of-the-night/art/characters/torma.png",
+          "sourceSha256": "f958b804cc2bd790e14bce6dda753db982fb0ec2dccd70c96fd64d04eec25291",
+          "full": {
+            "path": "characters/friends-of-the-night/torma-f958b804cc2bd790.webp",
+            "sha256": "bde0bd2ccfb9fc900ced68047b06b855eea5a36f7c69c6699aef5225e4f0baa0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/friends-of-the-night/torma-f958b804cc2bd790-thumb.webp",
+            "sha256": "e9b41e9db66b3079089b633579ced33588bd963df41bd1a2b3702d72a61de73c",
             "width": 480,
             "height": 320
           }
