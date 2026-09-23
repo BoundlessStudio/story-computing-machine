@@ -9561,19 +9561,26 @@
           "id": "01-the-registration-hall",
           "title": "The registration hall",
           "alt": "The registration hall — oil interior study for The Warmest Person in the Room",
-          "source": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
-          "sourceSha256": "ba1ad4c3c4c8a02ecb3f96e048238981c859c15ee20b7fcf9a8ce10f962ba1a6",
+          "source": "pages/interior-replacements/the-warmest-person-in-the-room/01-the-registration-hall.png",
+          "sourceSha256": "c1ead4b4c411da252749400f1d5b6b94cb28447104985f33bbc8eb4651619c77",
           "full": {
-            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-ba1ad4c3c4c8a02e.webp",
-            "sha256": "dcd73272e33f41d5ec0d23b1a8223a14dd4d0928c501398bfbd0b41bc582bc07",
+            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-c1ead4b4c411da25.webp",
+            "sha256": "545f12ce38af592885386f7449a5ab817c7088dd125146fa7384e16d8f69d085",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-ba1ad4c3c4c8a02e-thumb.webp",
-            "sha256": "505d4b8a77dd400b9a230484be19b28b114b9a007af265b476212eed24755864",
+            "path": "interiors/the-warmest-person-in-the-room/01-the-registration-hall-c1ead4b4c411da25-thumb.webp",
+            "sha256": "79bd0c9e4a639d1e0454ec3792af9791a79283f191fcd02f7a3e7b155fa5bc5e",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
+            "originalSha256": "ba1ad4c3c4c8a02ecb3f96e048238981c859c15ee20b7fcf9a8ce10f962ba1a6",
+            "correction": "Replace the door-side banner with a blue ribbon of light, point the painted arrow another way, and make the pale paper sign visibly amended; exact tiny wording need not be legible.",
+            "prompt": "Use case: precise-object-edit. Correct only the confusing registration signs in this empty round college hall. Preserve the original bright cream/ochre/blue architecture, upper gallery, brass double doors at right, registration desk, luggage, plants, polished floor and thick expressive Group of Seven-inspired oil brushwork.\nThree distinct sign systems must disagree:\n1. Replace the blue CLOTH barrier/banner directly before the brass double doors at right with a BLUE RIBBON OF LIGHT. Remove the sagging cloth, gold painted arrow and its two freestanding support posts. In the same general place show a thin free-floating translucent luminous blue ribbon sweeping toward the brass double doors, ending in a clear light-arrow pointing into those doors. It emits a restrained blue glow onto the floor. This is magical wayfinding made of light, with no fabric folds, hem, tassels or physical suspension.\n2. Retain the high vertical blue banner near the left staircase, but reverse its painted GOLD arrow so it points LEFT, away from the brass doors and back toward the entrance route. It remains ordinary opaque paint on material, clearly distinct from the luminous blue guide.\n3. Make the pale PAPER notice clearly amended by hand. Move this paper notice from its low blank stand to a visible high central wall position above the directional guides, near the upper edge of the central arch. It is a small practical sheet with ink writing, not an ornamental banner. Its message is \"REGISTRATION RELOCATED TO THE EAST GALLERY\", with EAST crossed out and NORTH handwritten immediately below. Small wording can be painterly, but the strike-through and correction must be visually clear. Remove the now-unused blank sign stand from the desk.\nIntegrate all marks as physical signage or light within the oil painting. Keep the room empty, no floating people, ghosts or reflections of people. No captions, editorial text overlay, watermark, border, collage, photography or 3D render. One 3:2 landscape image, 1536x1024 preferred. Preserve the rest of the original composition.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11622,6 +11629,11 @@
       "source": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
       "sourceSha256": "f23bfd44370d22a34826e9a2b83a15942653d979d0a8b5a686ee208f40683d2d",
       "reason": "Reuse the narrow leather gauntlet design and gold leaf cuff from image 02, in the existing foreground position."
+    },
+    {
+      "source": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
+      "sourceSha256": "ba1ad4c3c4c8a02ecb3f96e048238981c859c15ee20b7fcf9a8ce10f962ba1a6",
+      "reason": "Replace the door-side banner with a blue ribbon of light, point the painted arrow another way, and make the pale paper sign visibly amended; exact tiny wording need not be legible."
     }
   ]
 }
