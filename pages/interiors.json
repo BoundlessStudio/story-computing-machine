@@ -10241,19 +10241,26 @@
           "id": "01-bakery-before-the-next-tram",
           "title": "Bakery before the next tram",
           "alt": "Bakery before the next tram — oil interior study for Thirteen Years Borrowed",
-          "source": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
-          "sourceSha256": "c8df6c1d2a7713ebedc288718e073b91948ab5bd8abd19eb414e2b1e4ad1f363",
+          "source": "pages/interior-replacements/thirteen-years-borrowed/01-bakery-before-the-next-tram.png",
+          "sourceSha256": "ecf232e1c9b789dec1cb9f6709cc9ade7b104b16171ec4db679d3daf8674d4cd",
           "full": {
-            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-c8df6c1d2a7713eb.webp",
-            "sha256": "5bb7d04c0272eb87250d4c11e17f6870baf28e70dc450d14b15555c67beaabd9",
+            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-ecf232e1c9b789de.webp",
+            "sha256": "5a8fac3579b5fc33790a52712a7282411223988a0cf572f35132cf5a0fec57bc",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-c8df6c1d2a7713eb-thumb.webp",
-            "sha256": "a595196da1d050b381f96785cf23cab6618f8bf2dde01ac753528d57debfe9bd",
+            "path": "interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram-ecf232e1c9b789de-thumb.webp",
+            "sha256": "8ed65fce7c6f3f9b6e0979fa367e1ee389be187ef5a758813cb287b16d215760",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
+            "originalSha256": "c8df6c1d2a7713ebedc288718e073b91948ab5bd8abd19eb414e2b1e4ad1f363",
+            "correction": "Retain bakery, breakfast and nearby tram rails; replace the distant inlet, islands and mountain panorama with a restrained local street view.",
+            "prompt": "Use case: localized background/environment edit. In the supplied empty bakery oil painting, change ONLY the exterior view visible through the open front door and window panes. The dramatic steep downhill vista of a vast inlet, islands and mountain ranges is unsupported by the story and must be removed.\nReplace that whole exterior panorama with an ordinary modest neighborhood tram street at early morning: a mostly level cobbled roadway receding gently between nearby practical narrow buildings, simple shopfronts and houses, low pavement edges, existing-style street lamps, and tram rails continuing along the street around a shallow bend. Nearby buildings and rooflines close the view at the end of this short visible block. Show only a modest patch of warm pale morning sky above those roofs. NO water, harbor, ocean, lake, islands, cliffs, distant mountains, forest, steep hill or broad scenic horizon anywhere through any pane. No people or animals. Keep the exterior restrained, local and subordinate to the bakery interior; maintain warm morning light entering the door.\nPreserve the entire bakery interior and composition: teal wood counter and open door, bread shelves, brick oven, baskets, pendant lamps, wall clock, empty chair, foreground table with EXACTLY TWO egg-filled bread rolls on ONE plate and ONE cup of black hot coffee, and existing ordinary plants. Do not move or add interior props. Keep the recognizable room geometry and original scale. Maintain the same expressive Group-of-Seven-inspired thick impasto oil paint, broad shaped color masses, golden ochre/teal/slate palette, and confident brushwork. No photographic/3D drift, text overlays, captions, headings, watermark or border. One 3:2 landscape, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11934,6 +11941,11 @@
       "source": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
       "sourceSha256": "826fcb72b64f9bbccbb52420540ea77020a524000674375ffca6d60af3d6436a",
       "reason": "Add one sixth key to the row; retain the rest of the bedroom and box arrangement."
+    },
+    {
+      "source": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
+      "sourceSha256": "c8df6c1d2a7713ebedc288718e073b91948ab5bd8abd19eb414e2b1e4ad1f363",
+      "reason": "Retain bakery, breakfast and nearby tram rails; replace the distant inlet, islands and mountain panorama with a restrained local street view."
     }
   ]
 }
