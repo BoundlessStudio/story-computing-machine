@@ -232,6 +232,7 @@ class UploadTests(unittest.TestCase):
             publish_assets.verify_public(BASE, self.entry)
             self.assertEqual(request.call_count, 2)
             self.assertEqual(request.call_args.args[0].method, 'HEAD')
+            self.assertEqual(request.call_args.args[0].get_header('User-agent'), 'StoryComputingMachine-Publisher/1.0')
             sleep.assert_called_once_with(1)
         for header, wrong in [('Content-Type', 'text/html'), ('Content-Length', '1'),
                                ('Cache-Control', 'no-store'), ('Content-Disposition', 'inline')]:

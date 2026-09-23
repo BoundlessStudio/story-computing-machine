@@ -102,7 +102,11 @@ def upload_object(client, bucket: str, root: Path, entry: dict) -> bool:
 
 def verify_public(base_url: str, entry: dict, attempts: int = 5) -> None:
     url = base_url + '/' + quote(entry['key'], safe='/')
-    request = Request(url, method='HEAD', headers={'Accept-Encoding': 'identity'})
+    # Identify the publisher: Cloudflare Browser Integrity Check rejects the
+    # generic Python-urllib user agent, even for public R2 objects.
+    request = Request(url, method='HEAD', headers={
+        'Accept-Encoding': 'identity', 'User-Agent': 'StoryComputingMachine-Publisher/1.0',
+    })
     for attempt in range(attempts):
         try:
             with urlopen(request, timeout=20) as response:
