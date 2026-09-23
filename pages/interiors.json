@@ -8985,19 +8985,26 @@
           "id": "01-the-tapissiers-loom",
           "title": "The tapissiers loom",
           "alt": "The tapissiers loom — oil interior study for The Thread That Held",
-          "source": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
-          "sourceSha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a",
+          "source": "pages/interior-replacements/the-thread-that-held/01-the-tapissiers-loom.png",
+          "sourceSha256": "cf4276917e962223565f569c562ccef36264872f319b31c4bb60f9108ca08e87",
           "full": {
-            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-1c67ebb9f983bdaa.webp",
-            "sha256": "d667c145fb5dd380248cfdc5e29256c34aca470fc9fb2c7ead79e4867d79f060",
+            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-cf4276917e962223.webp",
+            "sha256": "d587afb62ee80f958f454ad166edfa2f3dc670ea7c16157eafbe29e33170ef97",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-1c67ebb9f983bdaa-thumb.webp",
-            "sha256": "9217489f65a29dada154d2a8159e44d93a0c18129f6a9078f520c0f715c97547",
+            "path": "interiors/the-thread-that-held/01-the-tapissiers-loom-cf4276917e962223-thumb.webp",
+            "sha256": "c8288710ced5a997081d7db2af30da8171d3955520e043f254ae0420d2e09b0c",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+            "originalSha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a",
+            "correction": "Move the same child-painted flower to a low brass crosspiece reachable beside a seated weaver's knee and retain that location/design in both views.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty Tapissier's loom oil painting and the edit target. Correct ONLY the placement of its small child-painted flower. The prose says it is painted on a BRASS CROSSPIECE BESIDE THE SEATED WEAVER'S KNEE.\nRemove the red flower motif completely from the HIGH horizontal brass beam above the warp threads. Keep that upper beam structurally in place and make its brass face plain; do not lower the upper beam or disturb the warp.\nPut that SAME little child-painted flower on a LOW HORIZONTAL BRASS CROSSPIECE at the loom's RIGHT SIDE beside the foreground weaver's stool. Show a short exposed horizontal brass-faced side rail immediately beside the stool, around the height of the stool seat or slightly above it, where a seated person's knee would naturally meet the loom. It belongs to the loom frame, not to the stool. It must be visibly horizontal, low and easily within a seated weaver's hand reach. Keep it clear of the woven cloth and do not cover the city/orchard tapestry with a new bar.\nPaint the same modest naive red/orange-petaled flower with ochre center, short green stem and two green leaves directly onto the visible brass face of this low rail. ONE small flower in the entire room, never a high flower, white daisy, physical bloom, sticker or ornamental carving.\nPreserve all other details exactly: huge timber-and-brass loom, threaded gold warp, richly woven cloth showing city and orchards, lower rolled cloth, foreground stool and golden shuttle, tall chair by star-edged wooden door, spools and yarn, shelves and other furniture. Broad expressive Group of Seven-inspired oil impasto with warm gold/ochre, lilac shadows and confident shaped brush marks, 3:2 landscape 1536x1024. Empty interior, no figures, added text, labels, watermark, collage, photography or 3D.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11742,6 +11749,11 @@
       "source": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
       "sourceSha256": "4b6f95666ebb06e1e98ed56b289a5fa48e6365f92b9a6edd5f696801a3c20ae3",
       "reason": "Keep image 01's door layout: depict the visible right-hand doorway as the appropriate inner corridor/court, or reframe the close table angle so the established garden door stays on its original side."
+    },
+    {
+      "source": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+      "sourceSha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a",
+      "reason": "Move the same child-painted flower to a low brass crosspiece reachable beside a seated weaver's knee and retain that location/design in both views."
     }
   ]
 }
