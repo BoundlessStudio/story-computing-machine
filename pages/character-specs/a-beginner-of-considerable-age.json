@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-beginner-of-considerable-age",
+  "title": "A Beginner of Considerable Age",
+  "source": "stories/a-beginner-of-considerable-age/story.md",
+  "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read the full finished prose, lines 1–355. Orsugal is the viewpoint protagonist; Melicent is his co-adventurer and equal partner in the escape; the tusked badger is the sustained physical antagonist of the central expedition.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Six-handed god",
+      "reason": "Initiates and administers the adventure at the framing temple scenes; no substantial part in the central expedition."
+    },
+    {
+      "name": "Antlered god",
+      "reason": "Brief initiator and award-giver in framing scenes."
+    },
+    {
+      "name": "Three adventurers",
+      "reason": "Anonymous framing listeners, not participants in the expedition."
+    },
+    {
+      "name": "Owner of the cup",
+      "reason": "Brief task-giver and recipient of recovered treasure."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md: Authority order",
+    "universe/premise.md: The deep-time shared world",
+    "universe/characters.md: searched for Orsugal and Melicent; no identity entry"
+  ],
+  "characters": [
+    {
+      "id": "orsugal",
+      "name": "Orsugal",
+      "role": "Protagonist; ancient dragon beginning again as an adventurer",
+      "selectionEvidence": [
+        {
+          "line": 15,
+          "quote": "He lay across the opposite hillside, his chin between two apple orchards",
+          "explanation": "The ancient dragon is initially vast."
+        },
+        {
+          "line": 33,
+          "quote": "He was the size of a lean hound.",
+          "explanation": "His reduced form drives the whole adventure."
+        },
+        {
+          "line": 51,
+          "quote": "I am over two thousand years old.",
+          "explanation": "He remains ancient in the small body."
+        },
+        {
+          "line": 279,
+          "quote": "He slapped the silver cup with his forefoot.",
+          "explanation": "His deliberate distraction saves Melicent and resolves the central danger."
+        }
+      ],
+      "form": "Nonhumanoid quadrupedal dragon, four legs plus separate pair of wings and long tail; never humanoid",
+      "storyAppearance": {
+        "anatomy": "Scales, horns, teeth, claws, wings, tail, forelegs and hind feet; four legs plus two wings consistent with prose and cover.",
+        "lifeStage": "Over two thousand years old; mature dragon despite small size.",
+        "proportions": "Main story: lean-hound size; original form spans hillside and can shade temple with wings.",
+        "markings": "Pale belly scratch between scales; lifted flank scale after collision; small bitten tail tip late in story.",
+        "materials": "Reptilian scales, horn and claw, wing membranes.",
+        "clothing": "None.",
+        "equipment": "Silver festival cup carried by handle in teeth during escape; no worn gear.",
+        "scale": "Use acorn and human boot for reduced form; orchard/temple silhouette for separate original-size study.",
+        "movement": "Quadrupedal scurrying and leaping; reduced wings cannot lift him. Injured left wing kept guarded late.",
+        "distinctiveFeatures": "Tiny blue-tipped flame, horned expressive head, dignity strained by small size."
+      },
+      "explicitCanon": [
+        "Story-local facts, not universe promotion: winged horned scaled dragon over two thousand years old.",
+        "Level-one compact reduces him to lean-hound size and candle-lighting blue-tipped flame.",
+        "Second level leaves him hound-sized and does not heal his injured left wing."
+      ],
+      "visualInterpretation": [
+        "Preserve cover's bronze-brown scales, pale segmented throat/belly, amber eyes, backward-curving paired horns, angular cheek frill, dorsal spines and brown membranous wings; colour and detailed topology are visual identity choices rather than prose facts.",
+        "Use proud crouch, failed takeoff and cup-carrying posture instead of human expressions or clothing.",
+        "Separate full-size prior state from reduced adventurer studies; never combine their scale."
+      ],
+      "states": [
+        {
+          "label": "Before enrolment",
+          "description": "Same mature dragon identity at hillside-spanning scale, wings shading temple."
+        },
+        {
+          "label": "Level-one adventurer",
+          "description": "Lean-hound size, tiny blue-tipped flame, unable to fly."
+        },
+        {
+          "label": "After the lodge / second level",
+          "description": "Still hound-sized; slightly lengthened claws, injured left wing and nicked tail tip."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-beginner-of-considerable-age:orsugal",
+        "links": [],
+        "evidence": "No shared-universe identity match found; do not merge with other dragons."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/title-image.jpg",
+          "role": "Identity and anatomy; replace anime/etched rendering with Sculpted Impasto",
+          "sha256": "ca901d2487c67dfab2288b52bcdc5e56e945a29b5c4fd1582a67045f6935d229",
+          "inspected": true,
+          "notes": "Bronze-brown adult-looking quadrupedal dragon, separate folded membrane wings, two backward horns, pale throat, long tail; acorn gives reduced scale."
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+          "role": "Vignette environment, palette and paint handling",
+          "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+          "inspected": true,
+          "notes": "Weathered long hall, trestle table, flagstones and iron gate; cream sun shafts with blue-violet shadow and ochre wood in thick strokes."
+        }
+      ],
+      "output": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Repaint image 1, the character-only ORSUGAL folio, preserving its ENTIRE layout, isolated poses, counts, anatomy, text, bronze/cream identity, cup, tiny flame and qualitative size comparison. Use images 2 and 3 ONLY as examples of actual Canadian Group of Seven oil paint construction: broad coalesced colour/value planes, directional bristle marks, quieter connected shadow and selective substantial impasto. Their geography must never appear.\n\nTHIS IS A PAINTED-FORM CORRECTION. Image 1 currently looks too smooth and digitally modelled, with many little bevelled scale chips and CGI eye/claw specular highlights. Rebuild the dragon's visual forms themselves as a hand-painted oil study. Do not simply add grain, canvas or impasto filter on top. Coalesce the small pieces into much larger connected body and head masses. A flank or shoulder should be a few broad bronze/earth light planes turning into one quieter umber/slate shadow, broken by selected substantial loaded-bristle strokes. Use varied stroke sizes. Scales are suggested intermittently, not each traced, highlighted or bevelled. Keep clear underlying anatomy, not a texture-covered blob.\n\nEvery face must be as broadly painted as the body: simplify eye socket, muzzle, cheek and horns into decisive light/dark paint shapes. The amber eyes are small opaque amber paint dabs nestled in dark brow masses, NO glossy glass eyeball and NO bright white pinpoint highlight. Claws are matte dark-charcoal painted shapes, NO silver-white reflective strips. Horns are dragged pale-ochre bristle planes, not glossy chips. Wing membranes are broad brown painted sweeps with quieter shadow passages, not polished 3D leather. Paint material is tangible but selective, not uniform chiselled flakes, woodchips or golden rim facets.\n\nSoft ordinary diffuse light and connected modest coloured shadows reveal mass. No cinematic contour/rim, no studio spotlights, no metallic bronze body, no specular bevel shine, no airbrushing. Match the reference paintings' coherent colour/value rhythm, restraint and painterly edges.\n\nLOCK EVERYTHING ELSE: three unclipped isolated full-body views, exactly four animal legs plus two separate wings in each, same mature dragon identity, paired backward horns, long neck/tail, pale throat, bronze-brown body; current hound-sized labels; separate giant/reduced silhouettes; head with tiny blue-tipped flame; foreclaw; head carrying plain silver cup by its single side loop. Preserve exact character name and story title upper left and all useful concise labels. No new text.\n\nQuiet warm ivory ground, 1536 × 1024 landscape. Absolutely NO locations, scenery, vignettes, trees, grass, rocks, floor or terrain patches, cast-shadow ground, buildings, decorative prose, paint swatches, colour chips or palette strip. The character is the only subject.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-01a67f68-5107-46a7-895b-22fe8e234109.png",
+            "role": "Edit target preserving character-only layout/identity/anatomy/text; replace smooth digital and glossy small-chip rendering",
+            "inspected": true,
+            "sha256": "16fb29ddece2df302a63b50c77396c59803f7791d09c72262014ccf6d14e458c"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actual broad connected oil paint masses, selective bristle/impasto and restrained matte lighting ONLY; all geography prohibited",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Story-compatible bronze-earth/cream light and muted shadows, large rhythmic paint construction ONLY; all geography prohibited",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T16:27:55.4884795Z",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. Create ONE finished character reference sheet, a landscape 3:2 image on warm ivory painted ground.\n\nEXACT LARGE HEADING: \"ORSUGAL\"\nEXACT SUBTITLE: \"A Beginner of Considerable Age\"\n\nREFERENCE ROLES (all supplied actual images): Image 1 is the user-approved \"02 — Sculpted Impasto\" sheet. Use ONLY its heavy oil-paint rendering, landscape reference-sheet clarity, warm ivory ground and typography approach. Its woman, human anatomy, armour and red cloak are NOT templates. Image 2 is Orsugal's source cover: preserve this dragon's compatible visual identity and anatomy, but completely replace its fine illustrated rendering with the heavy Sculpted Impasto treatment. Image 3 is the story's lodge interior painting: use its ochre timber, cream sun shafts, blue-violet shadows and bristled palette-knife marks for the small setting vignette.\n\nSUBJECT: Orsugal is an intelligent ancient male dragon, OVER TWO THOUSAND YEARS OLD, currently reduced by an adventuring compact to the size of a lean hound. He remains visibly a mature dragon, not a baby or cute hatchling. Preserve the source cover's bronze-brown scaled body, pale segmented throat and belly, amber eye, paired backward-curving horns, angular cheek frill and small dorsal spines, long tapering tail, brown membrane wings. Exactly FOUR weight-bearing legs with animal clawed feet and a separate pair of TWO independently attached membrane wings: six total appendages, not a two-legged wyvern and never a humanoid. Wings attach high at shoulders/back, separate from forelegs. No clothing, jewellery, harness, sword or human hands. Main subject is narrow-bodied and lean; proud long-necked posture and expressive mature angular snout. Reduced wings cannot lift him. His flame is a short blue-tipped candle-lighting puff.\n\nCOMPOSITION: generous clear spacing, all silhouettes fully uncropped. Two large useful full-body views of the SAME hound-sized form: a dominant side/three-quarter standing study showing all anatomical attachment logic, and a rear three-quarter study with the two wings partially spread to show both wing roots separately from four legs. Add a smaller front three-quarter head-and-chest study and two compact distinguishing-detail studies (horned mature head breathing the tiny blue-tipped flame; clawed forefoot beside an acorn). Keep left and right anatomy, scale, horn shape, colour and markings consistent. The head study must be textured painted masses as bold as the body, not a smooth digital face.\n\nCANONICAL SIZE STATES MUST BE SEPARATE: the primary full-body views are labelled exactly \"ADVENTURER — HOUND-SIZED\". Include one separate, smaller lower-left pictorial study labelled exactly \"BEFORE ENROLMENT — GIANT\". It depicts the SAME dragon lying across a hillside with his chin between two apple orchards and tiny trees/temple for scale, NOT a giant next to a small dragon and not an invented hybrid size. This is a prior chronological state, clearly divided from the primary studies. Include a compact lower-right lodge vignette labelled \"THE LODGE\": current small Orsugal carries a silver festival cup by its handle in his teeth, on flagstones beside a human-sized trestle table and iron kennel gate. No other characters needed. Cup must be ordinary cup-sized relative to the hound-sized dragon, not miniaturized with him. The main reference views show pre-injury level-one state; do not invent dramatic wounds. A modest five-colour impasto palette strip may sit beside the detail studies if space allows.\n\nHOUSE STYLE: heavy sculptural OIL IMPASTO, visible raised peaks and broad interlocking palette-knife slabs, decisive loaded-bristle strokes, broken colour, scraped edges, selective exposed dark underpainting. Build every surface out of painted masses with warm light and rich cool shadows, retaining bronze/pale cream/amber dragon identity. Scales should be grouped in broad overlapping planes rather than individually etched microscopic scales. Horns use dragged cream/ochre ridges, membrane wings use broad ochre-brown strokes, claws use dark decisive tapered paint, stone and timber remain tactile and distinct. Expressive readable dragon face retains substantial impasto across eye surrounds, snout and cheek planes. All visible marks must describe form, not uniform texture overlay. Composition refined and readable at screen size. No anime outlines, photorealistic face, glossy digital finish, plastic 3D surface, polished airbrush, fine crosshatched cover imitation, human facial-expression row, or autumn colour wash imposed on everything. Identity stays the dragon in image 2; rendering stays image 1.\n\nText only the exact headings and brief labels specified above; readable dark serif lettering, ample contrast and breathing room. Do not include \"02\", \"Melicent\", \"Style study\", production instructions or author credit.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Primary approved Sculpted Impasto rendering and sheet presentation; no subject/anatomy transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/title-image.jpg",
+                "role": "Dragon identity/anatomy only; supersede fine anime-like rendering with heavy impasto",
+                "inspected": true,
+                "sha256": "ca901d2487c67dfab2288b52bcdc5e56e945a29b5c4fd1582a67045f6935d229"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+                "role": "Lodge vignette environment, story palette, tactile paint handling",
+                "inspected": true,
+                "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-5347b8ff-a50c-453c-a523-3e226411d15f.png",
+            "returnedSha256": "b1409dc7b963ea184f1e9c3f7f1f654e480a0efbebe1b1a92c5315813916b615",
+            "completedAt": "2026-09-23T16:30:03.9869985Z",
+            "review": [
+              "Complete generated candidate pixels inspected via generatedImage. Source-compatible bronze quadruped with four legs plus two separate wings; no humanoid anatomy.",
+              "Exact name and source title readable; chronological giant state distinctly separated from hound-sized main views; lodge scale and cup supported.",
+              "Potential style issue: head and scales finer and smoother than primary approved impasto sheet; request independent review before output selection.",
+              "Independent root review agrees fine scale outlines and smooth dragon surfaces miss approved interlocking paint masses."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-edit",
+            "requestedAt": "2026-09-23T16:32:47.0602356Z",
+            "status": "PASS",
+            "prompt": "Edit image 1, the ORSUGAL character sheet. Image 2 is the primary user-approved Sculpted Impasto rendering reference. Produce one corrected sheet preserving image 1's exact 3:2 landscape layout, every panel's position, all dragon poses, anatomy, physical identity, bronze/cream/amber colours, leg and wing attachments, separate chronological sizes, environmental vignettes, ivory ground and all readable lettering. The only substantial change is HOW ALL DRAGONS ARE PAINTED.\n\nCRITICAL CORRECTION: Image 1 still renders the dragon like a finely drawn, individually scaled, nearly smooth illustration over an impasto background. Repaint ALL dragon bodies, faces, horns, wings, claws and tails in every study and both vignettes as TRUE broad sculpted OIL IMPASTO matching the material force and scale of brush/knife marks across the woman's face, armour and cloak in image 2. Do not preserve image 1's delicate scale outlines or tiny etched facial detail. Rebuild those surfaces from angular interlocking raised knife slabs, broken coloured planes, decisive loaded-bristle strokes, scraped edges, visible dark underpainting gaps and tactile paint ridges. At reading size the body itself must unmistakably be made of thick paint, not just surrounded by it.\n\nReplace rows of tiny outlined scales with much broader irregular masses of bronze, ochre, umber, cream and slate-violet shadow. Suggest a few grouped scales through the shape of paint strokes; do NOT trace every scale with black or glossy highlights. Simplify cheek plates and facial details into bold large painted facets while preserving a readable amber eye, mature long snout, paired backward horns and proud expression. Horns are rough chunky cream/ochre ridges built with a knife, not smooth polished segmented objects. Wings are broad dragged brown/ochre masses with bristled edges and scraped shadow planes, not translucent digital membranes. Claws are a few bold tapered dark strokes, not shiny jewels. Individual material distinctions come from direction, thickness and broken colour of the paint. No uniform grain/filter layer, no thin outline network, no plastic gloss, no smooth face, no photorealism, no fine ink or anime drawing. The approved reference's HUMAN subject, armour and cloak must NOT transfer.\n\nPRESERVE WITHOUT REDESIGN: the same ancient adult male dragon in image 1; exactly FOUR animal legs plus a separate pair of TWO wings; no humanoid arms, hands, posture, clothes or equipment. Bronze body, pale cream throat/belly, brown membrane wings, long tail, backward paired horns, amber eye. Two main full-body hound-sized views, head studies, foreclaw/acorn study, palette strip. Prior enormous state remains separate in bottom-left orchard/hillside vignette; current hound-sized dragon carries silver festival cup in teeth in bottom-right lodge vignette. No extra characters or extra appendages. Keep all silhouettes uncropped and every view consistent.\n\nPreserve text exactly and legibly:\n\"ORSUGAL\"\n\"A Beginner of Considerable Age\"\n\"ADVENTURER — HOUND-SIZED\"\n\"BEFORE ENROLMENT — GIANT\"\n\"THE LODGE\"\nKeep text crisp dark paint lettering. Do not add new text.\nThe corrected result should look as physically sculpted and boldly massed on the DRAGON as on the approved style sheet's face and clothing. Change painting treatment, not the successful composition or identity.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-5347b8ff-a50c-453c-a523-3e226411d15f.png",
+                "role": "Edit target: preserve successful identity/anatomy/layout/text/size-state composition; change fine rendering",
+                "inspected": true,
+                "sha256": "b1409dc7b963ea184f1e9c3f7f1f654e480a0efbebe1b1a92c5315813916b615"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Primary approved heavy Sculpted Impasto rendering; adapt its large angular paint masses to dragon surfaces, no human subject transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-171dfb94-0416-4682-bb63-f75e4c02b5ff.png",
+            "returnedSha256": "239edde45c64d4cd4aac8b62604543d3a5f43bb8a41e9c3b6dc7f62f7a55d97f",
+            "completedAt": "2026-09-23T16:35:27.7377314Z",
+            "review": [
+              "Root independently read full finished story and inspected saved corrected pixels plus source cover. Bronze/pale mature identity retained; four legs plus two wings; small fire; uncropped full-body views and readable exact name/title.",
+              "Hound-sized main state and hillside-spanning prior state remain explicitly separate; acorn/orchard/lodge cues communicate scale. Silver cup carried by handle in teeth in lodge vignette.",
+              "Correction replaces fine outlined scales and smooth face with broad raised interlocking paint slabs across head, horns, wings and body. Warm ivory presentation and source scene palette pass."
+            ],
+            "sha256": "239edde45c64d4cd4aac8b62604543d3a5f43bb8a41e9c3b6dc7f62f7a55d97f",
+            "selected": false,
+            "userReview": "REVISE: generic AI drift, not cohesive Canadian Group of Seven treatment; lighting also needs correction.",
+            "previouslySelected": true
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-fresh-render",
+            "requestedAt": "2026-09-23T18:49:38.7816425Z",
+            "status": "REVISE",
+            "prompt": "Create a fresh 3:2 landscape character field-study folio headed exactly “ORSUGAL”, subtitle “A Beginner of Considerable Age”. Quiet matte warm-ivory ground, generous spacing, understated dark lettering.\n\nUse the two supplied paintings as the actual visual language: A. Y. Jackson / Canadian Group of Seven observational oil painting. Build the image from large rhythmic colour-and-value masses FIRST. Sweep directional brushstrokes around the subject’s weight and movement; vary their size, let some planes remain quiet, and use raised impasto selectively. Use the orchard’s warm earth and broad natural light, the stream painting’s restrained rock/shadow planes and open-air atmosphere. Transfer painting language, not burned forest scenery. Avoid uniform small chiselled flakes, lacquered woodchips, outlined scale mosaics and texture filters.\n\nLighting is fundamental: every study and vignette shares gentle diffuse daylight from an open pale sky. Broad light planes turn into connected muted coloured shadows. Matte surfaces, no glowing silhouette, studio spot, specular bevel lighting or cinematic orange-blue contrast. Simplify the face, mouth, eyes and horns as decisively as the body.\n\nOrsugal is an intelligent dragon over two thousand years old, reduced to a lean hound’s size. Mature, long-necked, dignified and slightly disgruntled; never a hatchling. Bronze-brown scaled body, pale cream throat/belly, amber eye, paired backward-sweeping pale horns, angular cheek frill, restrained dorsal spines, long tapering tail, brown membrane wings. Exactly four animal legs with clawed feet PLUS two separate wings attached high behind shoulders. Express scales as occasional broad directional groupings within painted body masses; horns and membrane as distinct matte brushwork, without glossy outline detail. No human hands, clothing or equipment worn.\n\nAcross the upper two-thirds: two uncropped full-body studies, one lateral three-quarter with folded wings, one rear three-quarter with both wings partly opened and four legs clearly separate. Label “ADVENTURER — HOUND-SIZED”. Add a compact mature-head study exhaling only a tiny blue-tipped candle flame, and foreclaw beside an acorn.\n\nBelow, separate a small “BEFORE ENROLMENT — GIANT” study: same dragon lying across a hillside, chin between two apple orchards, trees giving enormous scale. Beside it, “THE LODGE”: hound-sized dragon carrying an ordinary silver cup by its handle in his teeth near a human-sized trestle table and kennel gate, soft sky light entering the open lodge. Keep chronological forms clearly distinct. Small restrained palette swatches optional.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary current user-directed Canadian Group of Seven paint language, broad natural daylight, orchard environment and palette; no character identity supplied",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Companion house-style anchor: broad matte light/value planes, connected coloured shadows, varied directional brushwork and selective impasto; do not transfer burned forest setting",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "preflight": "Source hash verified unchanged. Both selected landscape pixels inspected; current Crooktail ambient/value treatment inspected as cross-sheet consistency check but not attached. Fresh render does not attach cover, prior candidate or initial Sculpted Impasto human study. Prior history and user rejection retained.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-59ae33a2-d306-4644-9a5e-f4d0462f6fd2.png",
+            "returnedSha256": "843e37dd0985d8afb116c53f330acc123a507f35ac7354b0081bc5ff9f66582c",
+            "completedAt": "2026-09-23T18:51:31.8388863Z",
+            "review": [
+              "Producer inspected actual saved pixels: matte directional brushwork, connected earth/violet shadow masses and gentler ambient daylight align more closely with supplied landscapes than rejected glossy flake treatment.",
+              "Mature bronze-brown and pale-throat identity retained; four-legged body with separate wings, long tail, horns, distinct enormous prior state and hound-sized main state remain. Exact name and story title readable.",
+              "Model added unrequested field-study mottos and captions; root should decide removal. Tiny flame reads golden with blue edging rather than strongly blue-tipped. Lodge silver vessel has a bail-like handle and resembles a small tankard; assess cup fidelity.",
+              "No final selection made and existing output PNG not overwritten.",
+              "Root independent review: style and lighting substantially closer; preserve entirely. Remove decorative unrequested prose and fix cup to one side loop and flame to yellow base/clearly blue tip."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-localized-edit",
+            "requestedAt": "2026-09-23T18:57:15.8286733Z",
+            "status": "PASS-for-user-retry",
+            "prompt": "Make a strictly LOCALIZED content-and-lettering edit to this Orsugal character folio. Preserve its successful Canadian Group of Seven observational oil treatment, matte painted surfaces, broad connected colour/value masses, gentle diffuse daylight, exact overall layout, every dragon's identity, anatomy, scale, pose and colours. Do not restyle, redraw or polish unaffected areas.\n\n1. Remove ONLY these decorative prose/motto text blocks, wherever they appear, and paint the vacated areas quiet matte ivory matching their immediate surroundings:\n“OBSERVE / SIMPLIFY / GROUP / PAINT” at upper left;\n“Ancient mind. / Modest size. / Same sky.” at upper right;\n“Lean. Ancient. / Observant. / Slightly disgruntled. / Always himself.” below the main state label;\n“Once among / the big hills.” at lower left;\n“Same spirit. / Smaller tasks.” below the lodge;\n“PLACES ENDURE. / SO DO WE.” at lower right.\nRemove the little decorative dash below each removed text block as well. Keep the identifying heading “ORSUGAL”, exact subtitle “A Beginner of Considerable Age”, “ADVENTURER — HOUND-SIZED”, useful lateral/rear view captions, head study caption, foreclaw/acorn caption, “BEFORE ENROLMENT — GIANT” and “THE LODGE” intact, readable and unchanged. Add no text.\n\n2. In the lower-right lodge vignette ONLY, replace the silver bucket-like vessel hanging from the dragon's mouth with a plain silver festival drinking cup: open cup rim, modest foot, and exactly ONE ordinary side loop handle. The dragon grips that SIDE LOOP in his teeth. NO top carry bail, arch over the rim, bucket or lidded tankard. Keep the cup ordinary human-cup size, the dragon's head/pose unchanged, and the matte broad-brush daylight painting consistent with the rest of the vignette.\n\n3. In the upper-right head study ONLY, keep the tiny candle-sized flame, with a small warm yellow base and an unmistakably BLUE tip. No glow on the dragon or background, no spotlight and no enlarged flame.\n\nEverything else remains unchanged, especially the four legs plus two separate wings, pale throat, bronze-brown body, mature facial identity, horns, quiet ivory ground, two distinct chronological size states, orchard and lodge scenery. This is a small corrective edit, not a new composition.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-59ae33a2-d306-4644-9a5e-f4d0462f6fd2.png",
+                "role": "Immutable edit target: preserve successful matte Group of Seven paint language/light/anatomy/layout; localized decorative-text removal and cup/flame corrections only",
+                "inspected": true,
+                "sha256": "843e37dd0985d8afb116c53f330acc123a507f35ac7354b0081bc5ff9f66582c"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-45962802-9d9b-42b8-b3f0-bb48b4b377e2.png",
+            "returnedSha256": "e0fa2823d6ea2d47663fcacd017e2e7528532c0889ad82789e490e05dd435978",
+            "completedAt": "2026-09-23T18:59:24.5016019Z",
+            "review": [
+              "Root inspected final saved candidate against source story, earlier cover identity and actual landscape anchors: broad matte bronze/cream form, open-sky light shared with setting, connected coloured shadow rather than gilded per-stroke highlights; no rejected render reference used in fresh generation.",
+              "Four legs plus two wings, mature identity, lean-hound-sized main state and separately labelled enormous prior form; tiny blue-tipped flame and silver cup held by one side handle. Decorative mottos removed; name/title and useful studies remain readable."
+            ],
+            "selected": false,
+            "sha256": "e0fa2823d6ea2d47663fcacd017e2e7528532c0889ad82789e490e05dd435978",
+            "previouslySelected": true
+          },
+          {
+            "attempt": 5,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-character-only-edit",
+            "requestedAt": "2026-09-23T19:40:17.2777917Z",
+            "status": "REVISE",
+            "prompt": "Edit the supplied Orsugal sheet into a CHARACTER-ONLY reference folio. Output 1536 × 1024, landscape 3:2. Preserve this mature dragon's identity and the matte Canadian Group of Seven-inspired oil handling, while removing every location and environmental element.\n\nABSOLUTELY NO scenery, vignettes, landscape, orchard, lodge, buildings, gates, furniture, rocks, grass, leaves, trees, sky, ground or floor patches, scenic framing, decorative prose, or background cast shadows. Every study is completely isolated on one quiet warm-ivory ground. Remove the acorn and all location labels. Do not leave terrain beneath feet. Quiet space between figures is important.\n\nMove exact identifying text to UPPER LEFT:\n“ORSUGAL”\n“A Beginner of Considerable Age”\n\nArrange 2–3 useful unclipped isolated full-body views across the folio: dominant lateral three-quarter, rear three-quarter with both wings partly spread to clarify their separate attachments, and a smaller frontal three-quarter view. All these main figures are the CURRENT HOUND-SIZED form. Preserve mature proportions, bronze-brown body, pale cream throat/belly, long neck, amber eyes, paired swept-back pale horns, angular cheek frill, restrained dorsal spines, long tapering tail. Exactly FOUR animal legs with clawed feet PLUS TWO separately attached membrane wings. No human hands, clothing or harness.\n\nUse the freed lower space for selected CHARACTER details only: horned mature head with a tiny warm-yellow-base/clearly-blue-tip flame; foreclaw; and a small isolated head study holding a plain silver festival cup by its ONE SIDE LOOP handle, with open rim and modest foot. No top carry bail. The cup is ordinary personal quest equipment, not a setting.\n\nPreserve the original giant chronological state in a SEPARATE plain silhouette study labelled “ORIGINAL FORM — GIANT”. Beside this large same-dragon silhouette include a very small same-dragon outline labelled “REDUCED — HOUND-SIZED”; this is a qualitative scale comparison, not a measured engineering diagram. No landscape or invented body transformation. The silhouette retains identical four-leg/two-wing dragon anatomy. The main full-body figures remain labelled “HOUND-SIZED ADVENTURER”. Other short labels may be “Lateral”, “Rear”, “Front”, “Tiny flame”, “Foreclaw”, “Silver cup”. No prose or mottos.\n\nPAINT AND LIGHT: Large connected colour/value masses, broad directional BRISTLE strokes, selective substantial impasto and quieter connecting planes. Mature face and eyes as simply painted as body. Warm natural diffuse light reveals material differences with connected muted coloured shadow. Matte, restrained, no uniform bevel-lit paint chips, golden flakes, CGI modelling, glossy eyes, luminous contour, cinematic rim, or spotlight. Keep the dragon visually consistent across all views. Fine physical paint texture must remain present; do not smooth into airbrushed digital illustration. The sheet is wholly about the CHARACTER, with no place illustrated anywhere.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-45962802-9d9b-42b8-b3f0-bb48b4b377e2.png",
+                "role": "Immutable byte-identical source of latest selected preview: preserve dragon identity and painted colour/light while removing all geography and rebuilding isolated character-only folio",
+                "inspected": true,
+                "sha256": "e0fa2823d6ea2d47663fcacd017e2e7528532c0889ad82789e490e05dd435978"
+              }
+            ],
+            "userDirection": "Character references only, no places; eight previews only, full collection not approved.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-01a67f68-5107-46a7-895b-22fe8e234109.png",
+            "returnedSha256": "16fb29ddece2df302a63b50c77396c59803f7791d09c72262014ccf6d14e458c",
+            "completedAt": "2026-09-23T19:42:27.9638289Z",
+            "review": [
+              "All environment removed. Three unclipped isolated full-body views, four legs plus two wings, head/flame, foreclaw, silver cup and qualitative original/reduced scale silhouettes are present. Exact title/name upper left.",
+              "Potential quality concern: repeated edits have softened bristle texture and isolated eye/claw surfaces look glossier than desired Group of Seven handling; root independent review requested before selection.",
+              "No canonical output overwrite yet.",
+              "Root independent review: noticeably smoother than other previews; CGI eye/claw specular and bevelled scale chips need actual painted-form correction before selection."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 6,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in-painted-form-correction",
+            "requestedAt": "2026-09-23T19:49:39.0028028Z",
+            "status": "PASS-for-user-preview",
+            "prompt": "Repaint image 1, the character-only ORSUGAL folio, preserving its ENTIRE layout, isolated poses, counts, anatomy, text, bronze/cream identity, cup, tiny flame and qualitative size comparison. Use images 2 and 3 ONLY as examples of actual Canadian Group of Seven oil paint construction: broad coalesced colour/value planes, directional bristle marks, quieter connected shadow and selective substantial impasto. Their geography must never appear.\n\nTHIS IS A PAINTED-FORM CORRECTION. Image 1 currently looks too smooth and digitally modelled, with many little bevelled scale chips and CGI eye/claw specular highlights. Rebuild the dragon's visual forms themselves as a hand-painted oil study. Do not simply add grain, canvas or impasto filter on top. Coalesce the small pieces into much larger connected body and head masses. A flank or shoulder should be a few broad bronze/earth light planes turning into one quieter umber/slate shadow, broken by selected substantial loaded-bristle strokes. Use varied stroke sizes. Scales are suggested intermittently, not each traced, highlighted or bevelled. Keep clear underlying anatomy, not a texture-covered blob.\n\nEvery face must be as broadly painted as the body: simplify eye socket, muzzle, cheek and horns into decisive light/dark paint shapes. The amber eyes are small opaque amber paint dabs nestled in dark brow masses, NO glossy glass eyeball and NO bright white pinpoint highlight. Claws are matte dark-charcoal painted shapes, NO silver-white reflective strips. Horns are dragged pale-ochre bristle planes, not glossy chips. Wing membranes are broad brown painted sweeps with quieter shadow passages, not polished 3D leather. Paint material is tangible but selective, not uniform chiselled flakes, woodchips or golden rim facets.\n\nSoft ordinary diffuse light and connected modest coloured shadows reveal mass. No cinematic contour/rim, no studio spotlights, no metallic bronze body, no specular bevel shine, no airbrushing. Match the reference paintings' coherent colour/value rhythm, restraint and painterly edges.\n\nLOCK EVERYTHING ELSE: three unclipped isolated full-body views, exactly four animal legs plus two separate wings in each, same mature dragon identity, paired backward horns, long neck/tail, pale throat, bronze-brown body; current hound-sized labels; separate giant/reduced silhouettes; head with tiny blue-tipped flame; foreclaw; head carrying plain silver cup by its single side loop. Preserve exact character name and story title upper left and all useful concise labels. No new text.\n\nQuiet warm ivory ground, 1536 × 1024 landscape. Absolutely NO locations, scenery, vignettes, trees, grass, rocks, floor or terrain patches, cast-shadow ground, buildings, decorative prose, paint swatches, colour chips or palette strip. The character is the only subject.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-01a67f68-5107-46a7-895b-22fe8e234109.png",
+                "role": "Edit target preserving character-only layout/identity/anatomy/text; replace smooth digital and glossy small-chip rendering",
+                "inspected": true,
+                "sha256": "16fb29ddece2df302a63b50c77396c59803f7791d09c72262014ccf6d14e458c"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Actual broad connected oil paint masses, selective bristle/impasto and restrained matte lighting ONLY; all geography prohibited",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Story-compatible bronze-earth/cream light and muted shadows, large rhythmic paint construction ONLY; all geography prohibited",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-c872da99-2db7-455f-bcda-15151157c559.png",
+            "returnedSha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+            "completedAt": "2026-09-23T19:52:57.0788869Z",
+            "review": [
+              "Actual saved pixels inspected: glints reduced and visible bristle/paint surface restored across faces, horns, wings and body; colour masses more matte and connected.",
+              "Layout, four legs plus two wings, all identifying labels, cup/flame/qualitative scale comparison preserved. No environment or paint swatches.",
+              "Root independent style review requested before selecting this revised example.",
+              "Root independent PASS: matte eye/claw and substantial directional paint restored, source features retained, no scenes or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "selectedAttempt": 4
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:01:36.632678+00:00",
+        "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
+        "outputSha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-01a67f68-5107-46a7-895b-22fe8e234109.png",
+            "role": "Edit target preserving character-only layout/identity/anatomy/text; replace smooth digital and glossy small-chip rendering",
+            "inspected": true,
+            "sha256": "16fb29ddece2df302a63b50c77396c59803f7791d09c72262014ccf6d14e458c"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actual broad connected oil paint masses, selective bristle/impasto and restrained matte lighting ONLY; all geography prohibited",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Story-compatible bronze-earth/cream light and muted shadows, large rhythmic paint construction ONLY; all geography prohibited",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: glints reduced and visible bristle/paint surface restored across faces, horns, wings and body; colour masses more matte and connected.",
+          "Layout, four legs plus two wings, all identifying labels, cup/flame/qualitative scale comparison preserved. No environment or paint swatches.",
+          "Root independent style review requested before selecting this revised example.",
+          "Root independent PASS: matte eye/claw and substantial directional paint restored, source features retained, no scenes or swatches.",
+          "Independent reviewer inspected correction6: broader connected painted planes, matte eyes and claw, four legs plus two wings, preserved head/cup/flame and separate labelled size states; no environments or swatches. Ready for user review, not style approval."
+        ],
+        "reviewers": [
+          "producing-agent",
+          "root-independent"
+        ],
+        "scope": "Character-only example ready for user; not collection approval or publication.",
+        "specificationSha256": "a034528b3d63c480f9a15498c1bbac1abb42ec6d3756fbdbeafa5bf9cb12bea2",
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "cast_batch_2",
+          "evidence": "Independent reviewer inspected correction6: broader connected painted planes, matte eyes and claw, four legs plus two wings, preserved head/cup/flame and separate labelled size states; no environments or swatches. Ready for user review, not style approval."
+        },
+        "userApproval": "Pending actual user response to eight character-only, swatch-free previews."
+      },
+      "outputSha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+      "userFeedback": [
+        {
+          "recordedAt": "2026-09-23T14:38:45.228462-04:00",
+          "verbatim": "ok these surfer from your generic AI drift; they don't fell like the are part of the same collection; the art style should feel like the Canadian group of seven painters. even though they are done in the oil style; try again, before i approve the full run.",
+          "lightingClarification": "its your use of lighting too is important as the other points.",
+          "priorOutputSha256": "239edde45c64d4cd4aac8b62604543d3a5f43bb8a41e9c3b6dc7f62f7a55d97f",
+          "result": "REVISE: collection style and lighting rejected by user; earlier assistant PASS superseded."
+        }
+      ],
+      "presentationPreferences": {
+        "userVerbatim": [
+          "characters references that don;t place locations. and just focus on character.",
+          "remove the pain swap they arent needed."
+        ],
+        "interpreted": "Character-only isolated views; no locations/scenery/terrain; no paint swatches, colour chips or palette strips."
+      }
+    },
+    {
+      "id": "melicent",
+      "name": "Melicent",
+      "role": "Co-protagonist; adult novice adventurer and Orsugal's partner",
+      "selectionEvidence": [
+        {
+          "line": 43,
+          "quote": "She was a grown woman with a narrow face, a bright red cloak, and armour apparently bought for a much broader person.",
+          "explanation": "Explicit visual description."
+        },
+        {
+          "line": 189,
+          "quote": "She caught him under the forelegs with her other arm and heaved him onto the table.",
+          "explanation": "She saves Orsugal and shares the central action."
+        },
+        {
+          "line": 251,
+          "quote": "I'll tie this to the latch. We can let it out when we're away.",
+          "explanation": "Her improvisation makes the humane escape possible."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman, narrow face.",
+        "lifeStage": "Grown adult; bought cloak nine years before leaving her shop.",
+        "proportions": "Armour built for a substantially broader person, loose gauntlet cuff.",
+        "markings": "Late scene dust-and-sweat pale stripe across nose; no permanent facial markings specified.",
+        "materials": "Metal armour and helmet, red fabric cloak, leather boots, rope.",
+        "clothing": "Bright red long-owned cloak; broad ill-fitting armour with breastplate, gauntlets and helmet; boots.",
+        "equipment": "Sword, borrowed coil of rope; helmet lost beneath lodge table and abandoned.",
+        "scale": "Ordinary adult human; hound-sized Orsugal can lie across her knees.",
+        "movement": "Earnest novice sword flourishes, scrambling, bracing gate; tired seated relaxation.",
+        "distinctiveFeatures": "Red cloak caught by sword then torn; new breastplate dent after expedition."
+      },
+      "explicitCanon": [
+        "Adult woman with narrow face and bright red cloak; oversized armour.",
+        "Former shopkeeper and first-level adventurer; reaches second level.",
+        "Loses helmet in lodge; keeps sword; cloak torn and breastplate newly dented."
+      ],
+      "visualInterpretation": [
+        "Approved style sheet specifically depicts Melicent: preserve its dark brown hair in loose low bun, warm light-to-medium skin, blue-grey armour and brown leather underlayers as restrained compatible visual identity.",
+        "Ensure armour visibly too broad and gauntlet loose; do not make it tailored heroic armour.",
+        "Show before-expedition helmet as a separate equipment study; helmetless main late state."
+      ],
+      "states": [
+        {
+          "label": "Setting out",
+          "description": "Helmet, sword, red cloak, oversized armour and borrowed rope."
+        },
+        {
+          "label": "After the lodge",
+          "description": "Helmet absent; torn cloak, dented breastplate, dusty nose and tired relieved expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-beginner-of-considerable-age:melicent",
+        "links": [],
+        "evidence": "No universe entry; approved external style example names Melicent and is compatible, but is not a species or wardrobe template for other characters."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto rendering and compatible Melicent visual study",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Landscape ivory-ground sheet with thick slabs of cream, red, ochre and blue paint; same texture in face and equipment; dark low bun and narrow adult face."
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+          "role": "Daytime oil handling and palette only; no scenery",
+          "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+          "inspected": true,
+          "notes": "Ochre timber, pale stone, blue-violet shadow, rectangular sun patches and gate."
+        }
+      ],
+      "output": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE final character-only reference sheet, 1536x1024 landscape, in this collection's Canadian Group of Seven-inspired bold oil painting. Heading EXACTLY \"Melicent\"; subtitle EXACTLY \"A Beginner of Considerable Age\". No style-study number or slogan. The FIRST supplied style reference actually depicts Melicent; preserve her individual narrow adult woman's face, dark brown loose low bun, warm light-to-medium skin, long bright red cloak, blue-grey metal armour, brown leather underlayers, gauntlets and practical brown boots. She is a grown former shopkeeper, a novice adventurer who bought her red cloak nine years before leaving, not a young princess. Very important source fit: the armour was bought for a substantially BROADER person. Make breastplate and shoulders visibly too wide over her narrower frame, gauntlet cuffs loose enough to slip; functional ordinary armour without breast cups or fitted heroic tailoring. No changes of face or build between views.\nUse the original sheet's person as identity only; redesign into generous ivory-space character-only composition like the second supplied current folio. At left 3 complete standing figures front, side and back at identical scale in AFTER-LODGE state: helmet absent, red cloak ragged/torn at lower edge, visible new dent on broad breastplate, pale dust-and-sweat stripe across nose. In right column, two distinct expressions of same face: earnest concentration and exhausted amused relief. Lower right isolated equipment studies of BEFORE-LODGE helmet (label \"Earlier helmet\"), borrowed plain rope coil, and the normal sword retained after the adventure. Sword on belt in body views remains correctly in scabbard; no duplicate weapon in hands. Keep relevant labels short and legible. Character not posing with a dragon. Do not copy any scene panorama, environment, floor/ground patch, paint swatches or palette strip from first image; ivory remains clear between studies. All head/boots/blade/rope edges inside safe margins.\nBuild faces, hands, cloth, steel and leather from broad connected oil masses and varied strong bristle strokes with selective raised impasto, as directly and economically painted as the same-story dragon/room references. Broad natural daylight appropriate to this daytime expedition, connected muted blue-violet shadow masses and restrained warm lights; no shiny CGI armour, glossy eyes, rim lighting, photoreal/anime face or impasto texture pasted over smooth rendering. Give the red cloth broad decisive red planes, matte layered blue-grey steel shapes and quiet cream support. No equal-size bevelled mosaic chips. Identity, oversized armour and source damage take priority over decorative detail.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T20:51:10.777936+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "backendModel": null,
+            "prompt": "Create ONE final character-only reference sheet, 1536x1024 landscape, in this collection's Canadian Group of Seven-inspired bold oil painting. Heading EXACTLY \"Melicent\"; subtitle EXACTLY \"A Beginner of Considerable Age\". No style-study number or slogan. The FIRST supplied style reference actually depicts Melicent; preserve her individual narrow adult woman's face, dark brown loose low bun, warm light-to-medium skin, long bright red cloak, blue-grey metal armour, brown leather underlayers, gauntlets and practical brown boots. She is a grown former shopkeeper, a novice adventurer who bought her red cloak nine years before leaving, not a young princess. Very important source fit: the armour was bought for a substantially BROADER person. Make breastplate and shoulders visibly too wide over her narrower frame, gauntlet cuffs loose enough to slip; functional ordinary armour without breast cups or fitted heroic tailoring. No changes of face or build between views.\nUse the original sheet's person as identity only; redesign into generous ivory-space character-only composition like the second supplied current folio. At left 3 complete standing figures front, side and back at identical scale in AFTER-LODGE state: helmet absent, red cloak ragged/torn at lower edge, visible new dent on broad breastplate, pale dust-and-sweat stripe across nose. In right column, two distinct expressions of same face: earnest concentration and exhausted amused relief. Lower right isolated equipment studies of BEFORE-LODGE helmet (label \"Earlier helmet\"), borrowed plain rope coil, and the normal sword retained after the adventure. Sword on belt in body views remains correctly in scabbard; no duplicate weapon in hands. Keep relevant labels short and legible. Character not posing with a dragon. Do not copy any scene panorama, environment, floor/ground patch, paint swatches or palette strip from first image; ivory remains clear between studies. All head/boots/blade/rope edges inside safe margins.\nBuild faces, hands, cloth, steel and leather from broad connected oil masses and varied strong bristle strokes with selective raised impasto, as directly and economically painted as the same-story dragon/room references. Broad natural daylight appropriate to this daytime expedition, connected muted blue-violet shadow masses and restrained warm lights; no shiny CGI armour, glossy eyes, rim lighting, photoreal/anime face or impasto texture pasted over smooth rendering. Give the red cloth broad decisive red planes, matte layered blue-grey steel shapes and quiet cream support. No equal-size bevelled mosaic chips. Identity, oversized armour and source damage take priority over decorative detail.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Actual Melicent identity and compatible outfit reference: narrow adult face, dark loose bun, red cloak and blue-grey armour. Scenery, palette strip, floor patches and style-study heading must be removed.",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Current same-story character-only collection sheet for oil shape language, ivory spacing, text and matte treatment only; do not include dragon.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+                "role": "Same-story daylight and quiet oil/shadow relationships only; no environment.",
+                "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full current source read; actual attached reference pixels inspected. Exact supported or explicitly assigned name resolved before call. Distinct one-character identity, source states, feasible framing, motivated lighting and character-only swatch-free oil treatment checked.",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-6d844a62-02a7-4c53-a716-54e0bc1bdf34.png",
+            "outputSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "finishedAt": "2026-09-23T20:58:11.235880+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual full image inspected: exact Melicent name and story title, same narrow adult face, dark low bun, skin and clothing identity as original named reference, coherent across three full views and two portraits.",
+              "Blue-grey armour broad over her frame with loose large gauntlet cuffs, red cloak torn at hem and dust stripe across nose. Main views helmetless after lodge; Earlier helmet and retained sword/rope clearly separate.",
+              "All silhouettes and equipment unclipped; oil masses cover face, metal, leather and red cloth. Broad daytime modelling fits expedition, no anime finish, scenery, ground patches or palette swatches."
+            ]
+          }
+        ],
+        "tool": "image_gen",
+        "backendModel": null,
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Actual Melicent identity and compatible outfit reference: narrow adult face, dark loose bun, red cloak and blue-grey armour. Scenery, palette strip, floor patches and style-study heading must be removed.",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+            "role": "Current same-story character-only collection sheet for oil shape language, ivory spacing, text and matte treatment only; do not include dragon.",
+            "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+            "role": "Same-story daylight and quiet oil/shadow relationships only; no environment.",
+            "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+            "inspected": true
+          }
+        ],
+        "format": "1536x1024",
+        "selectedAttempt": 1,
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-6d844a62-02a7-4c53-a716-54e0bc1bdf34.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:58:11.235880+00:00",
+        "reviewedBy": "coordinator actual-pixel review",
+        "sourceSha256": "3ac6c603907503ee3c85a3780b0f3ac5fc5d792f8ae13a0b86d877e182b37c46",
+        "outputSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Actual Melicent identity and compatible outfit reference: narrow adult face, dark loose bun, red cloak and blue-grey armour. Scenery, palette strip, floor patches and style-study heading must be removed.",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+            "role": "Current same-story character-only collection sheet for oil shape language, ivory spacing, text and matte treatment only; do not include dragon.",
+            "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+            "role": "Same-story daylight and quiet oil/shadow relationships only; no environment.",
+            "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual full image inspected: exact Melicent name and story title, same narrow adult face, dark low bun, skin and clothing identity as original named reference, coherent across three full views and two portraits.",
+          "Blue-grey armour broad over her frame with loose large gauntlet cuffs, red cloak torn at hem and dust stripe across nose. Main views helmetless after lodge; Earlier helmet and retained sword/rope clearly separate.",
+          "All silhouettes and equipment unclipped; oil masses cover face, metal, leather and red cloth. Broad daytime modelling fits expedition, no anime finish, scenery, ground patches or palette swatches."
+        ],
+        "userApproval": "Full run and naming authorized; final collection review pending.",
+        "specificationSha256": "a56349001267bb18b58118958af913b03fb67cba0161c1dd281eb5e2383474b5"
+      },
+      "identityResolution": {
+        "status": "resolved-source-name",
+        "displayName": "Melicent",
+        "evidence": "Current finished story explicitly introduces her as Melicent; attached original named Melicent style study supplies compatible narrow face and dark low bun. Source controls broad ill-fitting armour and after-lodge condition."
+      },
+      "outputSha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+    },
+    {
+      "id": "grindle",
+      "name": "Grindle",
+      "role": "Central nonhuman antagonist of the lodge expedition",
+      "selectionEvidence": [
+        {
+          "line": 69,
+          "quote": "a tusked badger that had carried both into an abandoned hunting lodge",
+          "explanation": "Its theft creates the quest."
+        },
+        {
+          "line": 129,
+          "quote": "As big as a boar",
+          "explanation": "Explicit scale, substantially larger than ordinary badger."
+        },
+        {
+          "line": 139,
+          "quote": "Its tusks rose beside its muzzle, yellow and thick as Melicent's thumbs.",
+          "explanation": "Defining anatomy."
+        }
+      ],
+      "form": "Large quadrupedal badger with tusks; an animal, not humanoid",
+      "storyAppearance": {
+        "anatomy": "Badger body, four legs, forepaws, fur, whiskers, snout, teeth and paired tusks rising beside muzzle.",
+        "lifeStage": "Unspecified; robust mature animal interpretation.",
+        "proportions": "Boar-sized, low and powerful; can thrust snout over table edge.",
+        "markings": "Striped fur; exact arrangement unspecified.",
+        "materials": "Coarse fur, thick yellow tusks, dark nose and claws.",
+        "clothing": "None.",
+        "equipment": "None; silver cup and torn picnic hamper may sit in vignette, not worn.",
+        "scale": "Larger than hound-sized dragon; tusks as thick as adult woman's thumbs.",
+        "movement": "Charges quadrupedally, paws and scratches table, lowers head; sleeps under table.",
+        "distinctiveFeatures": "Whiskers with crumbs; three whiskers singed during encounter; broad snarling jaws."
+      },
+      "explicitCanon": [
+        "Boar-sized tusked badger with striped fur, yellow thumb-thick tusks, whiskers and paws.",
+        "Survives unharmed except three singed whiskers; released from kennel after escape."
+      ],
+      "visualInterpretation": [
+        "Use grey-black coarse body fur and familiar pale/dark facial striping as restrained badger interpretation; no invented armour, magical glow or human expression row.",
+        "Sheet: lateral low silhouette, frontal tusks and three-quarter defensive stance; muzzle/tusk and paw studies, sleeping picnic vignette."
+      ],
+      "states": [
+        {
+          "label": "At the picnic hamper",
+          "description": "Sleeping with crumbs on whiskers."
+        },
+        {
+          "label": "Defensive pursuit",
+          "description": "Head lowered, tusks forward, powerful quadrupedal charge."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-beginner-of-considerable-age:tusked-badger",
+        "links": [],
+        "evidence": "Unnamed local animal; no recurrence evidence."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/interiors/01-lodge-long-hall.png",
+          "role": "Setting, scale cues and paint handling",
+          "sha256": "6f9f239a7141905add9d543a5eb442e1843541608d0d58ad8d81bb20aab3ede6",
+          "inspected": true,
+          "notes": "Table, hamper and iron gate establish central setting. No badger visible, so it supplies no animal identity."
+        }
+      ],
+      "output": "stories/a-beginner-of-considerable-age/art/characters/grindle.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      },
+      "sourceIdentityId": "tusked-badger",
+      "nameAssignment": {
+        "name": "Grindle",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "Tusked badger",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Grindle",
+        "sourceIdentity": "tusked-badger",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      }
+    }
+  ]
+}
