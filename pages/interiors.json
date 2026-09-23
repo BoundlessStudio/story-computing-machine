@@ -1771,19 +1771,26 @@
           "id": "02-herb-table-after-the-harvest",
           "title": "Herb table after the harvest",
           "alt": "Herb table after the harvest — oil interior study for Every Flower She Knew",
-          "source": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
-          "sourceSha256": "4fd126978367a34edbf32bd1b05f6b24f25f79b4944e1df7e5d8458eb2bd1d89",
+          "source": "pages/interior-replacements/every-flower-she-knew/02-herb-table-after-the-harvest.png",
+          "sourceSha256": "8efdc27933cc8d4d2528df9015b6e02cca9645c7cf57de0a17f2edd5b3837131",
           "full": {
-            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-4fd126978367a34e.webp",
-            "sha256": "875be8e71f4193de3f1d9307e9f5268b882b3051a363eb008914a203a7a356c1",
+            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-8efdc27933cc8d4d.webp",
+            "sha256": "ecd8612bb141a57c62d6e5ba8a880b2a2dcd709710ff425ff42bfc2929ca76ec",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-4fd126978367a34e-thumb.webp",
-            "sha256": "6794b73bbb07da4277b0562b100913ec83e098e1666f7896737adc22cab5684e",
+            "path": "interiors/every-flower-she-knew/02-herb-table-after-the-harvest-8efdc27933cc8d4d-thumb.webp",
+            "sha256": "307e71f44de4de099be6e43dcae1371e867dcd4d31ce3c19c8592f0ba11550e5",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
+            "originalSha256": "4fd126978367a34edbf32bd1b05f6b24f25f79b4944e1df7e5d8458eb2bd1d89",
+            "correction": "Depict the exact small separated harvest: one petal exposed and one sealed reserve, one filament packet, three stamens (or four halves and one reserve), and six individual duskbell petals before dosing.",
+            "prompt": "Use case: precise-object-edit.\nEdit the supplied image, which is the sole edit target and the exact composition, room, palette and oil-paint style anchor. Produce one 3:2 landscape illustration, 1536x1024 preferred.\nRetain this empty rustic herb room after dark: the heavy wooden worktable, rain-blue window, bed and basin at back right, chair, candle at left, baskets, tweezers and small sandglass. Preserve its expressive Group of Seven-inspired oil paint, broad shaped color masses, confident visible brushwork, amber candlelight and slate-indigo shadows. Background dried herb stock in the vase may remain.\nCorrect only the harvested medicinal material and its containment. This is the sparse, carefully separated harvest just returned home, at the instant the healer has taken one ambercup petal out but before any dose is used. The two wicker carrying baskets are now empty apart from their visible waxed compartment dividers and blank tags; remove every heap of amber or blue flowers from them. No whole harvested blooms anywhere on the table.\nOn the white saucer place exactly ONE single flat golden-orange ambercup PETAL, not a blossom and not a fan of petals. Beside it place one small sealed cream-paper reserve packet, containing the second petal unseen. At the front, replace the open black paper full of herbs with ONE neat closed flat black-paper packet, which holds the single clearblue filament unseen; the packet is empty-looking outside, with a blank tag.\nReplace the red heap on the fired-clay strip with exactly THREE separate slender crimson stamens, straight threadlike botanical filaments with tiny anthers, widely spaced so all three can be counted. Place this warm redspur strip toward the front-left table edge, separated from the drying frame by ample bare tabletop and the baskets.\nThe horsehair drying frame at the right must carry exactly SIX individual single duskbell petals, laid in two loosely spaced rows of three, none touching or overlapping. These are simple separate pale smoky-gray curved teardrop petals with slight blue-violet shadows, no flower centers, stems, clusters, or complete flowers. Keep the frame and fine horsehair weave visible through the six petals.\nEverything else stays recognizably the supplied painting. Natural still-life staging, empty room, clear countable modest portions rather than lavish abundance. No people, no text overlay, labels or legible writing, no watermark, no border, no collage, no photographic or 3D treatment.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -10854,6 +10861,11 @@
       "source": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
       "sourceSha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60",
       "reason": "Show tiled walking floor with a projected blue contour and nesting-block marks beneath the fragment; remove liquid and island relief."
+    },
+    {
+      "source": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
+      "sourceSha256": "4fd126978367a34edbf32bd1b05f6b24f25f79b4944e1df7e5d8458eb2bd1d89",
+      "reason": "Depict the exact small separated harvest: one petal exposed and one sealed reserve, one filament packet, three stamens (or four halves and one reserve), and six individual duskbell petals before dosing."
     }
   ]
 }
