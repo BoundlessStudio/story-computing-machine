@@ -8161,19 +8161,26 @@
           "id": "01-the-empty-apartment-room",
           "title": "The empty apartment room",
           "alt": "The empty apartment room — oil interior study for The Second Wearing",
-          "source": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
-          "sourceSha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b",
+          "source": "pages/interior-replacements/the-second-wearing/01-the-empty-apartment-room.png",
+          "sourceSha256": "9947c6134f6405eae60f6be7152f8ffe8950fa1cab0f2bbb6e43432c70518ea3",
           "full": {
-            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-be4e4ac75fce168a.webp",
-            "sha256": "647e063566054890d3b30df2654e21a8a6f3e9bb8c47bdc295e45ea9dfe9129c",
+            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-9947c6134f6405ea.webp",
+            "sha256": "4c853830532a282bdbd89124fc9f8e0f34236ca052cb89db174c26c155f8db7d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-be4e4ac75fce168a-thumb.webp",
-            "sha256": "df613df59e531d560879c871c31dd65b1f2be15ea430878b211ae77ab02b58e3",
+            "path": "interiors/the-second-wearing/01-the-empty-apartment-room-9947c6134f6405ea-thumb.webp",
+            "sha256": "aa57b87b4d83e6eef0b5d14ddc924d6f5958696182e74e19975846bba1ba7091",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+            "originalSha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b",
+            "correction": "Retain the window and light but obscure the view with glare, plain curtains or a close non-defining neighboring wall.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 3:2 landscape oil painting. Input 1 is the empty apartment room to edit.\nChange only the view through the single window. Remove the broad waterfront city, water, opposite shore and distant skyline. Obscure all exterior geography with bright diffuse pale-gold/blue glare and subtle muted reflections in the glass, so no recognizable place, horizon, buildings or scenic landscape can be identified. Keep the actual window frame, sash, sill and the same warm light entering the room. The glass can be hazy, but do not add new curtains or objects.\nRetain the sparse apartment exactly: open door at left, moving boxes, wooden table and chair, chest of drawers at right, open dark velvet pendant case, silver-edged blue enamel pendant and chain outside the case. Preserve their exact shapes and positions. Keep the large shaped cream/ochre/blue-violet paint masses, visible bold Group of Seven-inspired oil brushwork and quiet empty atmosphere. No people, text, signature, watermark or photographic rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -8199,19 +8206,26 @@
           "id": "03-the-open-box",
           "title": "The open box",
           "alt": "The open box — oil interior study for The Second Wearing",
-          "source": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
-          "sourceSha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef",
+          "source": "pages/interior-replacements/the-second-wearing/03-the-open-box.png",
+          "sourceSha256": "76da1dcb3bb57716af200075c70a27dfa37b316a7fd3c219cf379932f1a784ec",
           "full": {
-            "path": "interiors/the-second-wearing/03-the-open-box-49542c4c8cce1da9.webp",
-            "sha256": "ab29fe80f0c6e81aa5ac72c882e2f211ed2a96e0919af58e06f283f4ba2e604f",
+            "path": "interiors/the-second-wearing/03-the-open-box-76da1dcb3bb57716.webp",
+            "sha256": "bd6cf5258b09d0687db3d0b03c6ed98428ab3646a72113867d28ca38522d1fb0",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-second-wearing/03-the-open-box-49542c4c8cce1da9-thumb.webp",
-            "sha256": "c16c9c9f22a2fab32b8750f05154caaa4ed5d70e6f971a9c298ae02959d9b616",
+            "path": "interiors/the-second-wearing/03-the-open-box-76da1dcb3bb57716-thumb.webp",
+            "sha256": "453e8a0394b18683d69197c8bc23d92a49b75c5e31421c04d31c6793670df9ad",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+            "originalSha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef",
+            "correction": "Keep the pendant and open case but soften or block the window's specific distant geography.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 3:2 landscape oil painting. Input 1 is the close tabletop image to edit; Input 2 is the already corrected same apartment and supplies ONLY the window glazing treatment. Preserve Input 1 composition, perspective and all furnishings.\nChange only the view through the window in Input 1. Replace every recognizable piece of waterfront, skyline, shore, city and tree scenery with diffuse pale-gold and pale-blue glare and gentle glass reflections like Input 2. There must be no readable distant geography, horizon, water or buildings. Preserve the sash/frame/sill and warm light from that window.\nKeep the prominent open dark velvet case and the silver-edged blue enamel pendant outside it on its silver chain completely intact and in place; retain wood table, chair, dresser, moving boxes, sparse empty room, thick expressive Group of Seven-inspired oil brushwork and large cream/ochre/blue-violet masses. No people, added objects, lettering, signature, watermark, photographic or 3D treatment.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11694,6 +11708,16 @@
       "source": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
       "sourceSha256": "05ba5608e2114bfe43207a5638341b53ccfe921cad1d455ae28200d45ddd2e30",
       "reason": "Retain the close composition and cleared rug, but match the cabinet/window relationship established in the wide room study."
+    },
+    {
+      "source": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+      "sourceSha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b",
+      "reason": "Retain the window and light but obscure the view with glare, plain curtains or a close non-defining neighboring wall."
+    },
+    {
+      "source": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+      "sourceSha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef",
+      "reason": "Keep the pendant and open case but soften or block the window's specific distant geography."
     }
   ]
 }
