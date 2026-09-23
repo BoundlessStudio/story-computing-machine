@@ -149,6 +149,51 @@
       ]
     },
     {
+      "slug": "a-crown-for-the-endless-fire",
+      "title": "A Crown for the Endless Fire",
+      "reader": "stories/a-crown-for-the-endless-fire.html",
+      "images": [
+        {
+          "id": "lemra",
+          "title": "Lemra",
+          "alt": "Sculpted Impasto character reference sheet of Lemra for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+          "sourceSha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537",
+          "full": {
+            "path": "characters/a-crown-for-the-endless-fire/lemra-0ee32fcebb3f9213.webp",
+            "sha256": "89b2dae125ec322364192696c0273df8decb89c18a7eafd117cd6fabf2fcdfb5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-for-the-endless-fire/lemra-0ee32fcebb3f9213-thumb.webp",
+            "sha256": "08fe6bdf6e7544ad5399c9328be3e969d9135871dfa4377f7e84041362fb9feb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "uldek",
+          "title": "Uldek",
+          "alt": "Sculpted Impasto character reference sheet of Uldek for A Crown for the Endless Fire",
+          "source": "stories/a-crown-for-the-endless-fire/art/characters/uldek.png",
+          "sourceSha256": "92366bd089570ebb8573a7ae0aaeda03a795b3b984071f2714aa419084e626e7",
+          "full": {
+            "path": "characters/a-crown-for-the-endless-fire/uldek-92366bd089570ebb.webp",
+            "sha256": "7142f3982f04eb1315839207387f6c27f314d3f2c85c5484d4572be7b325bbfb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-for-the-endless-fire/uldek-92366bd089570ebb-thumb.webp",
+            "sha256": "ebac193b2824cc14bcc2fcd57570ca4e8cdfb1787cffd5ff6cb0c4754bb69b7d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-curse-before-breakfast",
       "title": "A Curse Before Breakfast",
       "reader": "stories/a-curse-before-breakfast.html",
@@ -270,6 +315,70 @@
           "thumbnail": {
             "path": "characters/a-darkness-written-under-skin/leora-sloane-f8cacf12cf62bbf3-thumb.webp",
             "sha256": "8d93bbf41e365a5481d2a10bfab27df59507ddfb50952ff85bb5242c29a16e55",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-knock-in-someone-elses-sleep",
+      "title": "A Knock in Someone Else's Sleep",
+      "reader": "stories/a-knock-in-someone-elses-sleep.html",
+      "images": [
+        {
+          "id": "averune",
+          "title": "Averune",
+          "alt": "Sculpted Impasto character reference sheet of Averune for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/characters/averune.png",
+          "sourceSha256": "80002c4f6e650e94426dfa2208c6358585872339c094cc16826e6ee7d1fc1069",
+          "full": {
+            "path": "characters/a-knock-in-someone-elses-sleep/averune-80002c4f6e650e94.webp",
+            "sha256": "67d622b2d16077325c37827936c97f5aa225086a51108299412e14bebcf7e636",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-knock-in-someone-elses-sleep/averune-80002c4f6e650e94-thumb.webp",
+            "sha256": "06f35b9ab6a29d1d7d3d6d8115afdc346eb178b8180751d3e556e5c6a3619494",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "cleo",
+          "title": "Cleo",
+          "alt": "Sculpted Impasto character reference sheet of Cleo for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/characters/cleo.png",
+          "sourceSha256": "a4deaa8e27b72dea7ce7d6d733208f452abd1ba3456fe46be98900df608a1d9b",
+          "full": {
+            "path": "characters/a-knock-in-someone-elses-sleep/cleo-a4deaa8e27b72dea.webp",
+            "sha256": "92b63a02fda1465b511454601b1199fd7e6b0fecff3d3dcd6cfc8c6eda666137",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-knock-in-someone-elses-sleep/cleo-a4deaa8e27b72dea-thumb.webp",
+            "sha256": "8a0ff455c41e7697115c05eb3d7736d15d84b2a5ac0181030663550cb752d44f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "garnet",
+          "title": "Garnet",
+          "alt": "Sculpted Impasto character reference sheet of Garnet for A Knock in Someone Else's Sleep",
+          "source": "stories/a-knock-in-someone-elses-sleep/art/characters/garnet.png",
+          "sourceSha256": "7a791f82e55dea2d169750a9179c2e2aa1cb29388c5a1dcc9b5b804c8cab6a47",
+          "full": {
+            "path": "characters/a-knock-in-someone-elses-sleep/garnet-7a791f82e55dea2d.webp",
+            "sha256": "2ae1620ebd04832bcf175b440ffa02bb8f58c97ee7eca88f31208a7a58c6b9aa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-knock-in-someone-elses-sleep/garnet-7a791f82e55dea2d-thumb.webp",
+            "sha256": "3b697fd1c0f24cf660f06b1261155ae4b8d511d225716c67c9f8a5c4edbe4981",
             "width": 480,
             "height": 320
           }
@@ -488,6 +597,82 @@
           "thumbnail": {
             "path": "characters/save-that-dragon/daziel-be84d86aa52181de-thumb.webp",
             "sha256": "097f001bfe941a8296b50bf06cadd592953afedf24611891bd6743bb548e0a15",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "hovan-setch",
+          "title": "Hovan Setch",
+          "alt": "Sculpted Impasto character reference sheet of Hovan Setch for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/characters/hovan-setch.png",
+          "sourceSha256": "7db0d59a10fd2334a6d4f02498635ecbde79e0a77df7b8b21ef4c40beca0979b",
+          "full": {
+            "path": "characters/save-that-dragon/hovan-setch-7db0d59a10fd2334.webp",
+            "sha256": "5b1a1cb430f8ad3385ae7513f5c4c236b98a2dac2a62899af366829954fa8d76",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/save-that-dragon/hovan-setch-7db0d59a10fd2334-thumb.webp",
+            "sha256": "bde2c6cf36745074a7d06de01fac13b31b4f3a98ddbed373149bea2eeaabfe98",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "imer-quast",
+          "title": "Imer Quast",
+          "alt": "Sculpted Impasto character reference sheet of Imer Quast for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/characters/imer-quast.png",
+          "sourceSha256": "84c79f1a230bf592964eb4f999fad374d96fa95218de7c3a013c6bbb1f4e7a1e",
+          "full": {
+            "path": "characters/save-that-dragon/imer-quast-84c79f1a230bf592.webp",
+            "sha256": "553774dcb8c2659759522205409d7e0fdc15dd814a232e06e5050685b8afcae5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/save-that-dragon/imer-quast-84c79f1a230bf592-thumb.webp",
+            "sha256": "5ed5b7c2cd1d2ed2819d30a5913600f94ce7e3a05e382f2a96c8332528955a6f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "queen-urrava",
+          "title": "Queen Urrava",
+          "alt": "Sculpted Impasto character reference sheet of Queen Urrava for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/characters/queen-urrava.png",
+          "sourceSha256": "8665c9f4715c1e4f98751fbfe53c04a721c69695e86badc1073bb821b731f57f",
+          "full": {
+            "path": "characters/save-that-dragon/queen-urrava-8665c9f4715c1e4f.webp",
+            "sha256": "1a21ace8b018102d2bec0a172ee5e38b6fbe9cdbbf73c7b180a1f52594d040f4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/save-that-dragon/queen-urrava-8665c9f4715c1e4f-thumb.webp",
+            "sha256": "51153f45c61901cf80c5aef90b5d34aa1560f0f4cb57e2d716f4374930440e98",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "thelrax",
+          "title": "Thelrax",
+          "alt": "Sculpted Impasto character reference sheet of Thelrax for One Night's Mercy",
+          "source": "stories/save-that-dragon/art/characters/thelrax.png",
+          "sourceSha256": "0469cff251da9601c43c41253237e3bb29e192149609c86452a6ee6135bc69bd",
+          "full": {
+            "path": "characters/save-that-dragon/thelrax-0469cff251da9601.webp",
+            "sha256": "7db8ba90135b61528d0c5bae7ef55923f004affd0f840617e6df32897e6bacae",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/save-that-dragon/thelrax-0469cff251da9601-thumb.webp",
+            "sha256": "fd0ab6241d8969f83e7b366076440d44f5e20139976270375c85f87f1efa6747",
             "width": 480,
             "height": 320
           }
