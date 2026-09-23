@@ -5176,19 +5176,26 @@
           "id": "02-the-emergency-roller-train",
           "title": "The emergency roller train",
           "alt": "The emergency roller train — oil interior study for The Five-Minute Warranty",
-          "source": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
-          "sourceSha256": "d915ee0c955be29d9fd83fcae7c21800336c4809828ce04a46ed7b1feba7da40",
+          "source": "pages/interior-replacements/the-five-minute-warranty/02-the-emergency-roller-train.png",
+          "sourceSha256": "e5851a7eca3746c695051ae54bd57eb18dcd755c0121e54bba8e35828a6b5d71",
           "full": {
-            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-d915ee0c955be29d.webp",
-            "sha256": "5830f7ddeef2c1319ca0e9347ba9a6ded90f7185644b86390477afc375ac35af",
+            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-e5851a7eca3746c6.webp",
+            "sha256": "fdaf5fa6482a09dda23b3d65ed14583a7652d96bfb0bb6b2ff46a67e1dc89a17",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-d915ee0c955be29d-thumb.webp",
-            "sha256": "60900e5a6ee5f7bf0eeeed255035a6c0bded20874dd7bf4c956d2be423cb3528",
+            "path": "interiors/the-five-minute-warranty/02-the-emergency-roller-train-e5851a7eca3746c6-thumb.webp",
+            "sha256": "1c292194023c7d9ca85960e172ce0cbdf31d92fe0c4a872757ae946dacb79ab4",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
+            "originalSha256": "d915ee0c955be29d9fd83fcae7c21800336c4809828ce04a46ed7b1feba7da40",
+            "correction": "Wrap all five nested color layers tightly around the main contact roller and show the spring-loaded roller train contacting the two offset rims.",
+            "prompt": "Use case: precise-object-edit.\nCorrect Image 1, the emergency roller-train painting. It is the edit target and exact expressive oil/style, palette, shed, light and machinery-context reference. One 3:2 landscape painting, preferably 1536 by 1024.\n\nRemove all five loose colored strips hanging from the foreground rail. Those colors belong to FIVE TIGHTLY NESTED CONCENTRIC CLOTH LEAVES wrapped around the MAIN CONTACT ROLLER, not decorations. Depict the mechanism at initial engagement with the white outer leaf intact. The main roller's curved working surface is white resin-bound oakcloth; its near end reveals five thin concentric material edges in exact outside-to-inside order WHITE, BLUE, YELLOW, ORANGE, RED around an iron core. These are nested radial sleeve layers, never five side-by-side bands or separate dangling cloths. Show fabric weave, bound resin, a short chalk wear mark and small riveted copper wear tabs near the edges; no loose ribbons.\n\nCorrect the central mechanical geometry so the force path is clearly visible: the smooth iron collar on the engine-side shaft is on the left, the clean outer iron rim of the separate cable drum is offset to the right and behind it. These are separate offset shafts with NO rigid direct shaft coupling between them. Between the two facing rims, raise and engage a TWO-ROLLER TRAIN in a cart-spring flexure cradle braced by a straight ore rail. The main white-sleeved contact roller is pinched between and visibly TOUCHES both rims at its opposite sides. A second smaller dark contact roller is beneath it to share side thrust; the spring-mounted train physically bridges the two offset rims. Make the tangent contacts, roller axles and loaded springs readable in the three-quarter view. No floating disconnected wheels and no impossible pass-through intersections. Allow a modest central machinery rearrangement to reveal these contacts while retaining the same shed composition.\n\nKeep the heavy engine-side salvaged flywheel behind the collar, the two brass ball-governor weights and steam linkage, the cable-wound drum, the hanging copper clapper, the notched bronze release link and dented upright boiler-plate safety shield at the right. Preserve the rough timber shed, stone footing, warm-lit quarry opening, steam haze and empty interior. Keep the reference's Group of Seven-inspired expressive oil painting: broad shaped color masses, confident visible thick impasto, ochre/gold metal and blue-violet stone shadows. No people, new scenery, labels, explanatory arrows, text, numbers, signatures, watermarks, photorealism, 3D render, diagram or collage.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11010,6 +11017,11 @@
       "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
       "sourceSha256": "6ed7fe44301334bfb68c3b330cc0708b250ccea55871deb30991064efe2587fe",
       "reason": "Move the corroded bend and handle into the dark narrow void behind the fixed toe-kick; use a flashlight glimpse and preserve an opening that admits tiny Luz but blocks an adult arm."
+    },
+    {
+      "source": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
+      "sourceSha256": "d915ee0c955be29d9fd83fcae7c21800336c4809828ce04a46ed7b1feba7da40",
+      "reason": "Wrap all five nested color layers tightly around the main contact roller and show the spring-loaded roller train contacting the two offset rims."
     }
   ]
 }
