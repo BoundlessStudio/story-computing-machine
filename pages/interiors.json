@@ -2290,19 +2290,26 @@
           "id": "02-beneath-the-sink",
           "title": "Beneath the sink",
           "alt": "Beneath the sink — oil interior study for Life with a Girlfriend with Shrinking Powers",
-          "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
-          "sourceSha256": "6ed7fe44301334bfb68c3b330cc0708b250ccea55871deb30991064efe2587fe",
+          "source": "pages/interior-replacements/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink.png",
+          "sourceSha256": "58cd2c57ee2c3f79bcdbd9862168f8288a9bd74b85c2333adc8b2dc7241a0bfa",
           "full": {
-            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-6ed7fe44301334bf.webp",
-            "sha256": "b9f32e4c02f142596590cc62ea61b8b638043b8291ed9fef676c980f727ba869",
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-58cd2c57ee2c3f79.webp",
+            "sha256": "d8812d52439937d15575bb939d528ff98bd9a1bd025d155bd2f78dc0f39acb23",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-6ed7fe44301334bf-thumb.webp",
-            "sha256": "6875923afe5ce96170bb21e2cb4984841e14bb3979ea9e768daa421496c203a7",
+            "path": "interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink-58cd2c57ee2c3f79-thumb.webp",
+            "sha256": "1d1f94dc46a98786e7bcb5075234751691b489a7261340235b6c8aae6b4991d1",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
+            "originalSha256": "6ed7fe44301334bfb68c3b330cc0708b250ccea55871deb30991064efe2587fe",
+            "correction": "Move the corroded bend and handle into the dark narrow void behind the fixed toe-kick; use a flashlight glimpse and preserve an opening that admits tiny Luz but blocks an adult arm.",
+            "prompt": "Precise local image edit. Produce one 1536x1024 landscape image. Keep every part of this expressive oil painting unchanged except the LARGE OPEN RECTANGLE at the lower right, under the sink cupboard.\nThat opening is incorrect. EXTEND THE SOLID CREAM-PAINTED WOODEN TOE-KICK BOARD from its current right edge all the way across this entire open rectangle to the cabinet's right side. It must be one firmly attached, opaque, continuous board matching the impasto cream paint and perspective of the board on the left. The result should look like a complete closed toe-kick, never a removed access panel.\nLeave only a VERY THIN DARK SLIT between the bottom edge of this new board and the wood floor at the extreme right. The slit should be just about 2 centimetres high, like the thickness of two fingers, and roughly 8 centimetres wide. Relative to the flashlight at left, the slit must be much shorter than the flashlight lens diameter. It is an awkward narrow joint gap, not a framed doorway. This gap could admit a tiny twelve-centimetre person crawling, but an adult hand or forearm cannot fit.\nThe new opaque board must cover and hide ALL of the visible corroded U-shaped pipe, braces and large dark cavity in the old opening. Do not preserve that pipe as a visible object. Deep darkness behind the tiny slit is sufficient; only a minuscule muted green-white fleck may be glimpsed far behind it. Never show a complete valve or handle.\nPreserve the low oblique camera, open cabinet above, bucket and ordinary black drain, foreground yellow mat, striped towel, flashlight beam, tray and orange cord, wood floor, warm ochre and violet color masses and broad confident oil paint. No new objects, no people, no text or watermark.",
+            "generator": "image_gen"
           }
         },
         {
@@ -10998,6 +11005,11 @@
       "source": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
       "sourceSha256": "7ce1fac9270c6addfd82e51627b83f1953ce08e1fef68c8e97bc38302703428c",
       "reason": "Replace the independent wall sockets with a close side view of the same continuous twelve-tooth comb, showing ninth/tenth adjacency and the service blade."
+    },
+    {
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
+      "sourceSha256": "6ed7fe44301334bfb68c3b330cc0708b250ccea55871deb30991064efe2587fe",
+      "reason": "Move the corroded bend and handle into the dark narrow void behind the fixed toe-kick; use a flashlight glimpse and preserve an opening that admits tiny Luz but blocks an adult arm."
     }
   ]
 }
