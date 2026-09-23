@@ -7792,19 +7792,26 @@
           "id": "03-bedroom-concert-evening",
           "title": "Bedroom concert evening",
           "alt": "Bedroom concert evening — oil interior study for The Other Twin",
-          "source": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
-          "sourceSha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "source": "pages/interior-replacements/the-other-twin/03-bedroom-concert-evening.png",
+          "sourceSha256": "923fdc1ae25273d215940933ae2f710f0f338b83e2f6f0a67fbdbcaec0585c93",
           "full": {
-            "path": "interiors/the-other-twin/03-bedroom-concert-evening-c5c47ef8d28f1e9c.webp",
-            "sha256": "20bb97ef94084b5857435f5fa5195845305ca2ea62b8eff2880c88adb14f842a",
+            "path": "interiors/the-other-twin/03-bedroom-concert-evening-923fdc1ae25273d2.webp",
+            "sha256": "b502e23af03d5f31ac075499cca6b5767e07dfe31da601814422a075b03d19ae",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-other-twin/03-bedroom-concert-evening-c5c47ef8d28f1e9c-thumb.webp",
-            "sha256": "ce20a1ec5520c3159640ef0a37b975008f5f6def0c9b464a7c566426019dc297",
+            "path": "interiors/the-other-twin/03-bedroom-concert-evening-923fdc1ae25273d2-thumb.webp",
+            "sha256": "b6abb66bbefa4125824a11f3c1692d325f2070bc03f9b1fd275ca4d53a744f8a",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+            "originalSha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+            "correction": "Change only the red top to a square neckline with visible sleeves; keep the chair, cardigan and bedroom composition.",
+            "prompt": "Use case: precise-object-edit. Make one narrowly targeted correction to this1536x1024 landscape oil painting of an empty bedroom. Change ONLY the red top laid on the wooden chair at center-right. It must have a SQUARE NECKLINE and visible fitted SLEEVES, as described in the story. Replace the plunging V/sleeveless camisole shape with a proper structured red blouse/top: a clear straight horizontal neckline bottom, short vertical sides and right-angle corners; broad fabric shoulders; two distinct red fitted sleeves attached at the shoulder seams, extending at least to elbow length. Arrange the sleeves naturally draped outward over the chair so both red sleeves are clearly visible, one to each side of the torso. The fitted sleeves and high armholes should suggest limited room for raising the arms. Keep the red top's torso about the same size and position; no body or wearer.\nRetain the existing charcoal shirt to its left and the soft black cardigan between the charcoal and red garments, the wooden chair, bed, dresser/mirror/hairbrushes, doorway ajar, clinic packet and phone on desk, dark winter window, single pasta plate with exactly two forks, lamp, and every other furnishing in place. Preserve broad expressive Group of Seven-inspired oil brushwork, shaped blue/lilac and ochre/amber masses, warm quiet lamplight. No people, added objects, text, signature, watermark, photorealistic or3D treatment. Only the red garment changes.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -12054,6 +12061,11 @@
       "source": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
       "sourceSha256": "40b685fb1eebebef7049fe6884f779bf401a3012740346b01ea9abf47b7ba96d",
       "reason": "Keep the successful dry-bench scene but replace the lake panorama with rain-softened, non-locating light or a restrained view of the established lane/chimneys."
+    },
+    {
+      "source": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+      "sourceSha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+      "reason": "Change only the red top to a square neckline with visible sleeves; keep the chair, cardigan and bedroom composition."
     }
   ]
 }
