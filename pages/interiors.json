@@ -6264,19 +6264,26 @@
           "id": "03-the-dry-bench-at-dusk",
           "title": "The dry bench at dusk",
           "alt": "The dry bench at dusk — oil interior study for The Kingdom of Later",
-          "source": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
-          "sourceSha256": "40b685fb1eebebef7049fe6884f779bf401a3012740346b01ea9abf47b7ba96d",
+          "source": "pages/interior-replacements/the-kingdom-of-later/03-the-dry-bench-at-dusk.png",
+          "sourceSha256": "57fc1f504e4462250fdbb52c4bd2aa0aa8fa1ce75492a9e3218ee57daf61f68d",
           "full": {
-            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-40b685fb1eebebef.webp",
-            "sha256": "475cce949eba2e3325b04eb832523f286c188f431b1053ec49ee6e6356dba710",
+            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-57fc1f504e446225.webp",
+            "sha256": "615e3df5fb61d35e78a2ebfe0e281389cfdc11f62bf598e9dc3914bde0bde8b4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-40b685fb1eebebef-thumb.webp",
-            "sha256": "cbd3f3ef6d71829cd3d7b1e3e66caaf59177b44081d11022a5c0c800ad76032f",
+            "path": "interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk-57fc1f504e446225-thumb.webp",
+            "sha256": "3552cd269d3a465f7fa2da7c476c3021cc331ed649782141467d622e397d29c5",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
+            "originalSha256": "40b685fb1eebebef7049fe6884f779bf401a3012740346b01ea9abf47b7ba96d",
+            "correction": "Keep the successful dry-bench scene but replace the lake panorama with rain-softened, non-locating light or a restrained view of the established lane/chimneys.",
+            "prompt": "Use case: precise-object-edit. Edit Input1, the1536x1024 oil painting of the dry cobbler's workbench at dusk. Input2 is the same shop earlier in rain, provided ONLY for the modest nearby roof/chimney context and oil-painting continuity; do not change Input1's angle or late-day state.\nChange ONLY the scene seen through Input1's large central four-pane window. Remove the lake, shorelines, wooded islands, distant hills, water horizon and sunset reflected on open water. Replace that panoramic exterior with rain-softened non-locating dusk light in muted blue-gray and pale warm gold: only indistinct close neighboring roof/chimney shapes may remain low in the window, consistent with Input2's modest lane setting. Beyond those nearby shapes the rainy glass should blur everything into plain light and color, with no readable landscape or distant geography. Preserve the window frame/mullions, diagonal rain marks and warm dusk light falling into the shop.\nKeep every interior object and its position: dry cutting bench, paired burnished brown boots, payment coins on cloth, thread spool and awl, tools, finished shoes on shelves, protected rolls of leather beneath the bench, stool, attic ladder, dull inactive token and residual drip falling only into the basin at right. Keep expressive Group of Seven-inspired impasto oil paint, bold shaped ochre and slate-blue masses, rough wood texture, and the empty-room composition. No people, fairy, glowing magic, extra props, lettering, signature, watermark, photograph or3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -12042,6 +12049,11 @@
       "source": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
       "sourceSha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
       "reason": "Replace only the intact coin with one rough broken copper crescent/half-token."
+    },
+    {
+      "source": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
+      "sourceSha256": "40b685fb1eebebef7049fe6884f779bf401a3012740346b01ea9abf47b7ba96d",
+      "reason": "Keep the successful dry-bench scene but replace the lake panorama with rain-softened, non-locating light or a restrained view of the established lane/chimneys."
     }
   ]
 }
