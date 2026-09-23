@@ -844,19 +844,26 @@
           "id": "03-tall-window-and-feast-cupboard",
           "title": "Tall window and feast cupboard",
           "alt": "Tall window and feast cupboard — oil interior study for A Pet Human",
-          "source": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
-          "sourceSha256": "b09a9a7cb2f7bd2f6abab4051b0f0e7430fb3642b2b0d63684dd023dc86c6ca9",
+          "source": "pages/interior-replacements/a-pet-human/03-tall-window-and-feast-cupboard.png",
+          "sourceSha256": "f9fd9682bb3b02d0f19a050da56150caae699b61404cd302ccdc5eede8319498",
           "full": {
-            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f.webp",
-            "sha256": "e76aa6efdbd73d9fb6d95cac7d7ba4312acbc65cc73e9aeba24fba16b911a2fc",
+            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-f9fd9682bb3b02d0.webp",
+            "sha256": "e0c7182425c1ff3398e64d1091e9a50c8a8557a40c5ea9f1e87e96a1f1ead833",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-b09a9a7cb2f7bd2f-thumb.webp",
-            "sha256": "cee58c4c7ddcd27309b07da1bee69e92e95a4cb1e13f779877da6ed8dfcf9a7e",
+            "path": "interiors/a-pet-human/03-tall-window-and-feast-cupboard-f9fd9682bb3b02d0-thumb.webp",
+            "sha256": "d366de7cfc160f7e01036fb0a6937c65069fadfe3685074dec914007a9f84239",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
+            "originalSha256": "b09a9a7cb2f7bd2f6abab4051b0f0e7430fb3642b2b0d63684dd023dc86c6ca9",
+            "correction": "Keep the composition and replace only the pictured background chandelier's candles with the same smouldering cones established in original 02.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the tall-window/feast-cupboard painting to edit. Image 2 shows the same drawing room's established SMOULDERING CONE chandelier; use it only for the cone material and appearance. One 3:2 landscape painting, 1536x1024 preferred.\nChange ONLY the candles on the hanging ring chandelier in the upper-right background of Image 1, over the hearth area. Replace those slender ordinary wax candles with broad, stout, pointed charcoal-like cones smouldering orange-red within blackened textured surfaces, matching the cones in Image 2. Their light comes from ember fissures and smouldering tips, with a little fine ash falling below, not from separate wax-candle flames. Keep the chandelier's existing position and scale so it remains part of the background.\nPreserve all other candles and fixtures elsewhere in the room, the red-lit tall window, giant red chair, cherries, cupboard, cold bird, glazed buns, white cheeses, straw-wrapped bottles, curled silver-toed boots, fireplace and room composition. Keep the same rich red/gold/violet expressive Group of Seven-inspired oil surface and thick confident brushwork. Room remains empty. No people, creatures, text overlay, labels, watermark, signature, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11418,6 +11425,11 @@
       "source": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
       "sourceSha256": "c6d7713218da586d1c9bbe3aee98ff37a4ff651ff2ea1cb56dfffffbb9e2bf02",
       "reason": "Keep the latch/bed/sewing composition, replace the panorama with the established inn yard, and remove snow."
+    },
+    {
+      "source": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
+      "sourceSha256": "b09a9a7cb2f7bd2f6abab4051b0f0e7430fb3642b2b0d63684dd023dc86c6ca9",
+      "reason": "Keep the composition and replace only the pictured background chandelier's candles with the same smouldering cones established in original 02."
     }
   ]
 }
