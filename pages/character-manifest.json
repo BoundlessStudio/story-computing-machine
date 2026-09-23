@@ -51,7 +51,7 @@
     "sourceAssets": "stories/<slug>/art/characters/<character-id>.png",
     "specifications": "pages/character-specs/<slug>.json",
     "publishedSnapshot": "pages/characters.json",
-    "pilotStatus": "Full run in progress; corrected named pilot characters reviewed; two older role-only headings still queued for naming edits.",
+    "pilotStatus": "Full run in progress; all eight named pilot sheets reviewed and included in gallery. Full user review remains at end.",
     "pilotCharacters": [
       "a-beginner-of-considerable-age/orsugal",
       "friends-of-the-night/crooktail",
@@ -93,9 +93,9 @@
         "character": "morrowick",
         "characterName": "Morrowick",
         "path": "stories/drone-down/art/characters/morrowick.png",
-        "sha256": "f3cd7a5b482a8e16b15fa6c56ad3388e6aeb3fa94191abf8b78bbee29c375c64",
+        "sha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
         "specification": "pages/character-specs/drone-down.json",
-        "status": "heading-revision-required"
+        "status": "completed"
       },
       {
         "story": "a-busy-year-for-dying",
@@ -134,9 +134,9 @@
         "character": "veyratha",
         "characterName": "Veyratha",
         "path": "stories/coiled-together/art/characters/veyratha.png",
-        "sha256": "0dadf824cf583dcb6562c17ab6f6e7bb97ffaafee56000e54596e2a5f221ff1c",
+        "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
         "specification": "pages/character-specs/coiled-together.json",
-        "status": "heading-revision-required"
+        "status": "completed"
       },
       {
         "story": "save-that-dragon",
@@ -178,6 +178,16 @@
       "recordedAt": "2026-09-23T20:59:42.323371+00:00",
       "assignment": "Six workers each own all story specifications and characters artwork with inventoryBatch equal to their assigned 0-5 value. Root owns gallery code, central manifest, capture, validation and all Git commits. No source prose/covers/universe edits.",
       "commitPolicy": "Small reviewable commits: gallery support separately; then one story or a few finished sheets per commit. Workers notify root after each completed story and keep completed assets stable for staging."
+    },
+    "galleryVerification": {
+      "status": "PASS",
+      "reviewedAt": "2026-09-23T21:49:11.873388+00:00",
+      "evidence": [
+        "All 62 Pages unit tests passed after character gallery implementation.",
+        "Local build succeeded for 193 stored stories.",
+        "Browser check verified Character sheets filter, story attribution, thumbnails, and full-size Leora Sloane viewer with readable unclipped artwork.",
+        "Named character capture verifies current source, specification, selected references, selected output and review pins before storing full-size and thumbnail renditions."
+      ]
     }
   },
   "stories": [
@@ -1341,38 +1351,20 @@
     }
   ],
   "checkpoint": {
-    "recordedAt": "2026-09-23T20:58:11.235880+00:00",
+    "recordedAt": "2026-09-23T21:49:11.873388+00:00",
     "storiesInventoried": 193,
-    "storiesAssessed": 8,
-    "mainCharactersIdentified": 31,
-    "sheetsCompleted": 9,
+    "storiesAssessed": 15,
+    "mainCharactersIdentified": 55,
+    "sheetsCompleted": 41,
     "reusedAssets": 0,
-    "documentedUnresolvedItems": [
-      {
-        "story": "coiled-together",
-        "character": "neris",
-        "blockers": [
-          {
-            "type": "anatomy-under-specified",
-            "description": "Finished story calls attendant serpentfolk but explicitly gives feet, knees and heel without establishing complete body form; existing cover does not depict them. Do not generate a whole-body canonical silhouette by borrowing queen's legless form. Resolve whether restrained bipedal serpentfolk interpretation is acceptable or use explicitly limited studies."
-          }
-        ]
-      }
-    ],
+    "documentedUnresolvedItems": [],
     "remainingStoryAssessments": [
-      "a-crown-for-the-endless-fire",
-      "a-crown-in-the-bargain",
-      "a-knock-in-someone-elses-sleep",
-      "a-little-more-room",
-      "a-little-winter-for-sale",
       "a-lock-on-the-inside",
-      "a-note-of-spite",
       "a-pet-human",
       "a-place-for-sunday",
       "a-place-for-the-living",
       "a-reasonable-declaration",
       "a-seat-for-the-sun",
-      "a-throne-neither-wanted",
       "all-accounts-due",
       "an-ordinary-education",
       "anatomy-of-a-god",
@@ -1547,30 +1539,23 @@
       "yavrens-return"
     ],
     "remainingCharacterSheets": [
-      "a-beginner-of-considerable-age/grindle",
-      "a-busy-year-for-dying/ruldo",
-      "a-busy-year-for-dying/glessa",
-      "a-curse-before-breakfast/philip",
-      "a-darkness-written-under-skin/brennet-sloane",
-      "coiled-together/fendrel-vos",
-      "coiled-together/veyratha",
-      "coiled-together/neris",
-      "coiled-together/jorren-vos",
-      "coiled-together/mavrik",
-      "drone-down/raska",
-      "drone-down/kero",
-      "drone-down/sevi",
-      "drone-down/morrowick",
+      "a-little-more-room/suzette",
+      "a-little-more-room/robin",
+      "a-little-winter-for-sale/tair-ked",
+      "a-little-winter-for-sale/yara-mesk",
+      "a-little-winter-for-sale/urumet",
+      "a-throne-neither-wanted/vesran",
+      "a-throne-neither-wanted/edelis",
+      "a-throne-neither-wanted/othven",
+      "a-throne-neither-wanted/sorevia",
+      "a-throne-neither-wanted/marnelle",
       "friends-of-the-night/tavik",
       "friends-of-the-night/denek",
       "friends-of-the-night/torma",
-      "friends-of-the-night/marshal-drost",
-      "save-that-dragon/thelrax",
-      "save-that-dragon/imer-quast",
-      "save-that-dragon/hovan-setch",
-      "save-that-dragon/queen-urrava"
+      "friends-of-the-night/marshal-drost"
     ],
     "resumeRule": "Continue full authorized run from exact remaining queue, verifying source/spec/reference/output hashes. No preview-approval wait remains. Preserve all generation attempts; user review at end.",
-    "exampleSheetsReady": 7
+    "exampleSheetsReady": 8,
+    "gallerySheetsStored": 27
   }
 }
