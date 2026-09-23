@@ -576,19 +576,26 @@
           "id": "02-records-by-the-rug",
           "title": "Records by the rug",
           "alt": "Records by the rug — oil interior study for A Little More Room",
-          "source": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
-          "sourceSha256": "05ba5608e2114bfe43207a5638341b53ccfe921cad1d455ae28200d45ddd2e30",
+          "source": "pages/interior-replacements/a-little-more-room/02-records-by-the-rug.png",
+          "sourceSha256": "6498bc36fdb2f3b909aa85e4620c40c7f6bbc3fb26be7089a18b49748bea2c35",
           "full": {
-            "path": "interiors/a-little-more-room/02-records-by-the-rug-05ba5608e2114bfe.webp",
-            "sha256": "c028d8527c0c70548a0a5325a57cb303dd58233d40d4cc46a4a3e3eea8170045",
+            "path": "interiors/a-little-more-room/02-records-by-the-rug-6498bc36fdb2f3b9.webp",
+            "sha256": "c2b75897537ee922b8e854f1423e76a05ec013c22e92d38e05078f8c35628b41",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-little-more-room/02-records-by-the-rug-05ba5608e2114bfe-thumb.webp",
-            "sha256": "e8ed9487e9a5594f3d8f9f7f553aef04eec86cee4563ac5667ef0af9cb7b7a7d",
+            "path": "interiors/a-little-more-room/02-records-by-the-rug-6498bc36fdb2f3b9-thumb.webp",
+            "sha256": "dd2e00af2f76514095a5644337a89f209864a734dce351debf00b9f787a97193",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
+            "originalSha256": "05ba5608e2114bfe43207a5638341b53ccfe921cad1d455ae28200d45ddd2e30",
+            "correction": "Retain the close composition and cleared rug, but match the cabinet/window relationship established in the wide room study.",
+            "prompt": "Use case: precise-object-edit. Correct the fixed cabinet/window relationship in Input 1 while keeping this lower, closer view of the room. Landscape 3:2, preferably 1536x1024.\nInput 1 is the EDIT TARGET: preserve the long wooden stereo cabinet, turntable and its raised clear lid, two speakers, record sleeves, milk crate at right, blue oval rug kept entirely clear for dancing, partial blue settee at left, small three-legged lacquered table moved against the wall, warm lamp and expressive oil brushwork.\nInput 2 is the SAME-ROOM GEOMETRY REFERENCE. It establishes ONE wide rectangular main window DIRECTLY ABOVE AND BEHIND the stereo cabinet on the same far wall. The cabinet does not move to another wall. The settee is along the adjacent solid left wall.\nReplace the uninterrupted plaster directly above the cabinet in Input 1 with that same wide dark-framed rectangular window from Input 2, its sill just above the cabinet top and its broad width aligned to the cabinet. The speakers, record player and sleeves overlap the lower window area naturally in perspective. From the lower close viewpoint, the window's upper edge may run beyond the top crop; retain its broad shape and modest vertical mullion. Show only the same nearby ordinary apartment rooftops in blue evening light. Remove the misplaced tall window on the far LEFT of Input 1 and replace it with the continuous warm plaster of the settee's wall. No second exterior window remains at left.\nKeep the low intimate composition rather than copying the wide-room reference camera. The tiny table stays out of the rug and against the wall near the settee. Do not put any table or cups on the cleared rug, add furniture, move the stereo to the side wall, or widen the apartment.\nMatch the original thick confident Group of Seven-inspired oil strokes, blue rug/settee, warm ochre room light and blue-gray city dusk. No people, hands, readable record titles, lettering, captions, signature, watermark, collage, photo or 3D treatment.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11682,6 +11689,11 @@
       "source": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
       "sourceSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
       "reason": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location. Make nine clearly separated small portions on the baking sheet, retaining the existing domestic composition."
+    },
+    {
+      "source": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
+      "sourceSha256": "05ba5608e2114bfe43207a5638341b53ccfe921cad1d455ae28200d45ddd2e30",
+      "reason": "Retain the close composition and cleared rug, but match the cabinet/window relationship established in the wide room study."
     }
   ]
 }
