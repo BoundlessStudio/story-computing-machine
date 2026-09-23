@@ -4467,19 +4467,26 @@
           "id": "01-the-paint-rig-cab",
           "title": "The paint rig cab",
           "alt": "The paint rig cab — oil interior study for The Counted Road",
-          "source": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
-          "sourceSha256": "f5c50822290e73ccc335ab856c2d0ea82842ff5307b5f21da60b37ca202ea533",
+          "source": "pages/interior-replacements/the-inheritance-remembers/01-the-paint-rig-cab.png",
+          "sourceSha256": "098bf2106c9a4c4ef099964b626822bc0d2df8a5b2518a72b6fe6944c4d8bcd6",
           "full": {
-            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-f5c50822290e73cc.webp",
-            "sha256": "e28556e294b2cebd10116855a9f0e25972066f9e63c3bfb063a4c393a359e44f",
+            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-098bf2106c9a4c4e.webp",
+            "sha256": "92275ab53b2a327e6836b7a53fda2c981001738c8267f8106c408157c63c6095",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-f5c50822290e73cc-thumb.webp",
-            "sha256": "f87e38908c32f98441bfb2b5973de24c0dcf89d553d7783817cbc932ee2f8134",
+            "path": "interiors/the-inheritance-remembers/01-the-paint-rig-cab-098bf2106c9a4c4e-thumb.webp",
+            "sha256": "b5ec332a03ddc024815cafe8b5786d54e455726590e2d7cc68d021363e22ee75",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
+            "originalSha256": "f5c50822290e73ccc335ab856c2d0ea82842ff5307b5f21da60b37ca202ea533",
+            "correction": "Retain the cab and rain, replacing the lake panorama with the work street/cones or the narrow larch-lined road appropriate to a chosen scene.",
+            "prompt": "Use case: precise-object-edit. Edit only the exterior view of Input 1, the paint-rig cab painting, preserving its 3:2 landscape composition, preferably 1536x1024.\nInput 1 is the edit target: lock the empty cab, orange reflective coat on the left seat, steering wheel, gray worn upholstery, analog pressure gauge, amber blank display, row of paint-control levers, radio, window frames, raindrops and the actual expressive oil brushwork.\nInput 2 is a corrected same-story ROAD-SETTING reference only. Use its tight rain-dark larch-lined road, cones and temporary divider as the supported environment. Do not copy its parcel-van cabin, spike, cardigan, flashlight or light crescents.\nReplace the broad lake and distant scenic horizon visible across both windshield and side window in Input 1 with a narrow wet working road between a shallow ditch and close dark larches. Ahead, orange cones and a temporary concrete traffic divider separate the work lane from traffic. A few fresh short white road-paint dashes mark the safe lane. The side window shows the near road edge and trees, not water. Keep all views and the mirror spatially consistent with this modest roadside scene. No lake, river panorama, mountains, fuel-station canopy or bright distant landscape.\nChoose the late route-building stage before the culvert test: only ordinary road and work lights, with no magical light crescents and no spike in this cab.\nMatch the input's Group of Seven-inspired expressive oils: broad slate-gray masses, ochre accents, visible thick confident brush strokes and rainy light. Make the new exterior a subordinate near view so the recognizable paint-rig controls remain the subject. No people, hands, new cabin objects, lettering, caption, signature, watermark, collage or contact sheet.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11082,6 +11089,11 @@
       "source": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
       "sourceSha256": "17fde4a32f2b67c81ab27a867a5791e8a4ddc8882e0e2212586827c0847ead44",
       "reason": "Enclose the broad sea-facing side with living lining. Keep intact sacs/rack for the pre-cut study and make illumination internal or filtered; retain the high-tower setting without a ground-level panorama."
+    },
+    {
+      "source": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
+      "sourceSha256": "f5c50822290e73ccc335ab856c2d0ea82842ff5307b5f21da60b37ca202ea533",
+      "reason": "Retain the cab and rain, replacing the lake panorama with the work street/cones or the narrow larch-lined road appropriate to a chosen scene."
     }
   ]
 }
