@@ -8134,19 +8134,26 @@
           "id": "03-paired-control-chamber",
           "title": "Paired control chamber",
           "alt": "Paired control chamber — oil interior study for The Room That Waited",
-          "source": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
-          "sourceSha256": "b92eca5324e052ce2ebd65e14f3ddd246885c4b31c7d9314e0727a04c6f70511",
+          "source": "pages/interior-replacements/the-room-that-waited/03-paired-control-chamber.png",
+          "sourceSha256": "b7c666339358fd7378c27eed381c43e57bc16e4086867d358c62a2fdbac809c3",
           "full": {
-            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b92eca5324e052ce.webp",
-            "sha256": "3cebb8034cd783c60758d69104c4fb79503766b69ba0c2c03dee3b3caa11c25e",
+            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b7c666339358fd73.webp",
+            "sha256": "4e1f3e638d8b162c7921bb742758f35a1347ddda63bb099e3f2679646df20066",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b92eca5324e052ce-thumb.webp",
-            "sha256": "f2f3b69ade1e7dafb0ba7eaf15926a58f6f529abeaf12bacb45edca336dbb90c",
+            "path": "interiors/the-room-that-waited/03-paired-control-chamber-b7c666339358fd73-thumb.webp",
+            "sha256": "ea2cc616e73dd1b50b8f3e5ec721c3fb4e6fe280513acafaebc2efc3b1e87ec8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
+            "originalSha256": "b92eca5324e052ce2ebd65e14f3ddd246885c4b31c7d9314e0727a04c6f70511",
+            "correction": "Replace the populated key racks with exactly two empty clips; retain the dormant consoles and separated stations.",
+            "prompt": "Use case: very small precise correction. Change ONLY the two little gold loop-and-stem shapes on the small plates under the two clocks. They still look like keys; erase both shapes completely. Keep the two little square mounting plates.\nOn each plate paint ONE EMPTY SPRING CLIP made from a BROAD SHORT FLAT RECTANGULAR metal tongue bent outward: a wide horizontal folded steel lip, with a narrow DARK HORIZONTAL GAP behind the raised lip. Think a small wall-mounted empty clipboard jaw. The clip is broader than it is tall, made of flat plate metal with squared corners, painted in cool steel and warm lamp reflections. No circular head, no ring, no wire loop, no long vertical stem, no hanging object, no key teeth. Exactly two such empty clips total, one under each clock. The empty space in each jaw must be visible.\nLeave the rest of the supplied painting unchanged, including the room perspective, stopped clocks, wall map, two empty chairs, dormant black screens, red covered controls and warm central lamp. Preserve the same expressive thick impasto oil brushwork. No people, writing overlays, watermark or border. One 3:2 landscape, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11910,6 +11917,11 @@
       "source": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
       "sourceSha256": "314a620102fc0c1405bfee310761ebb02ac84043a3eba0c8189cac59f6e94d05",
       "reason": "Keep one established passage plan across all views; revise 03's far end to match 01, preferably using a closer tap/pail framing to add a more distinct study."
+    },
+    {
+      "source": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
+      "sourceSha256": "b92eca5324e052ce2ebd65e14f3ddd246885c4b31c7d9314e0727a04c6f70511",
+      "reason": "Replace the populated key racks with exactly two empty clips; retain the dormant consoles and separated stations."
     }
   ]
 }
