@@ -1701,19 +1701,26 @@
           "id": "01-lamplit-crown-ledge",
           "title": "Lamplit crown ledge",
           "alt": "Lamplit crown ledge — oil interior study for Coiled Together",
-          "source": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
-          "sourceSha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+          "source": "pages/interior-replacements/coiled-together/01-lamplit-crown-ledge.png",
+          "sourceSha256": "9ebac71e6f792e08b0267bbc7891a4e71aaea4c413ec8048f47a9fbd88b09314",
           "full": {
-            "path": "interiors/coiled-together/01-lamplit-crown-ledge-008061fac9aefa7f.webp",
-            "sha256": "d1f2f252ecbd6989c9132f783c1b9f9031e6ecd6cd36532b91580bf8594af915",
+            "path": "interiors/coiled-together/01-lamplit-crown-ledge-9ebac71e6f792e08.webp",
+            "sha256": "20094d64ec66d968977994753ca6d69bfeb5ace6d4df572bdc55d650da071ff3",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/coiled-together/01-lamplit-crown-ledge-008061fac9aefa7f-thumb.webp",
-            "sha256": "1a49c0d21aea97f2b106a09befa4cdcf00bfba2d07cc7690d0f5963ea947cb91",
+            "path": "interiors/coiled-together/01-lamplit-crown-ledge-9ebac71e6f792e08-thumb.webp",
+            "sha256": "eb18e309a277932405ba9ef9a71aeb8073a68985e3be6a10cad8a55230c2ff08",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+            "originalSha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+            "correction": "Darken the distant cave and remove the large apparent daylight opening; retain lamp illumination, crown ledge and black basin.",
+            "prompt": "Use case: precise-lighting-edit. Correct only the source of illumination in this underground crown-ledge oil painting. Preserve 3:2 landscape, preferably 1536x1024.\nThe supplied image is the exact edit target. This source moment explicitly says the cave is dark except for one clay lamp on a shelf. Retain that one small warm burning clay lamp at left, its nearby amber light, the crown-shaped dry rock ledge, deep black churning basin, wet pack and knife, folded hide and blankets, open medicine case, jars, and the exact viewpoint and cavern geometry.\nREMOVE the large bright blue daylight-like opening at the far upper right. Repaint that entire distant bright patch and its bright blue surrounding tunnel as a deep shadowed underground continuation with dim irregular charcoal and muted slate rock. There must be no visible sky, daylight portal, sunlit exterior, glowing opening, or second light source. Let distant rock forms fade into very dark mass. Reduce the cool illumination across the remote ledges and water so the ONLY apparent illumination is the small left lamp, falling away strongly with distance. The near objects and jagged near rim remain readable in warm lamp reflection, while the basin remains mostly black with sparse subdued glints of churning water. Do not flatten the whole image to solid black; preserve the expressive low-light rock and water shapes.\nMatch the original Group of Seven-inspired expressive oil painting, with broad angular dark rock masses, thick visible confident brush strokes and restricted amber, charcoal and muted slate palette. Keep all objects, the unoccupied space, composition and physical rock forms. No people, serpents, text, labels, captions, signatures, watermark, collage, photorealism, or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11778,6 +11785,11 @@
       "source": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
       "sourceSha256": "dbec06a9a1891554bd13489ffb86f93e1b1058aae6c79333f89debab9850cec6",
       "reason": "Add a simple canopy above the existing throne, keeping the low platform, bare gallery and restrained oil treatment."
+    },
+    {
+      "source": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+      "sourceSha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+      "reason": "Darken the distant cave and remove the large apparent daylight opening; retain lamp illumination, crown ledge and black basin."
     }
   ]
 }
