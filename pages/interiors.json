@@ -9021,19 +9021,26 @@
           "id": "03-the-rings-at-the-late-table",
           "title": "The rings at the late table",
           "alt": "The rings at the late table — oil interior study for The Unopened Ring",
-          "source": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
-          "sourceSha256": "a9e56b7fca6bc05379fb7d3f682e30a084fa934761cddd483be090c278b54060",
+          "source": "pages/interior-replacements/the-unopened-ring/03-the-rings-at-the-late-table.png",
+          "sourceSha256": "25026644101df7f072ac79dff030443bdfcf041e6bc3a5b65afcf964c71877d7",
           "full": {
-            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-a9e56b7fca6bc053.webp",
-            "sha256": "55e7c86d8f34090298a899589775ccd38274cdc0aebed7e3c17b6ebb5f1f6d82",
+            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-25026644101df7f0.webp",
+            "sha256": "bfb89bac873e452a7032f21297fbfef6a28ed29127608417df4679d9243c4e57",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-a9e56b7fca6bc053-thumb.webp",
-            "sha256": "a91384ae0428260797a3e613c89fe68add7e4635e56518451d3491e457bcab3f",
+            "path": "interiors/the-unopened-ring/03-the-rings-at-the-late-table-25026644101df7f0-thumb.webp",
+            "sha256": "be26b68468803ab378ef553cefe4212784a38a0fb30166aea4dc3981c7aa6e76",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
+            "originalSha256": "a9e56b7fca6bc05379fb7d3f682e30a084fa934761cddd483be090c278b54060",
+            "correction": "Give each narrow hoop exactly one tiny hand, and show their uneven edges fitted as one wider band with a single clasp formed by the two hands. Preserve the linen and dinner setting.",
+            "prompt": "Use case: precise-object-edit.\nEdit this supplied painting, the sole edit target and exact room/composition, palette and expressive oil-paint reference. Produce one 3:2 landscape illustration, 1536x1024 preferred. Change only the gold jewelry on the folded white linen in the foreground.\nPreserve the candlelit empty late-dinner room, black columns, violet night windows, red velvet chairs, white linen, wine glasses, cherries, flowers, gold tableware and every other arrangement. Preserve the original thick confident oil brushwork, broad shaped color masses, warm amber highlights and deep wine/violet shadows.\nThe story's reveal is that two complementary narrow gold hoops physically fit together as ONE WIDE JOINED FINGER RING. Replace the two separate side-by-side complete rings with ONE single broad gold band resting at a gentle angle on the same folded linen, its one oval opening clearly visible. It is made of two narrow parallel hoops joined edge-to-edge along the finger's axis: their uneven edges fit neatly into each other, with a fine irregular seam around the middle of the broad band. The result has only ONE bore for a finger, not two touching circles, not linked chain rings, and not separate rings on the cloth.\nOn the front of that single broad band, show exactly ONE small clasp motif formed by exactly TWO tiny sculpted gold hands total: one hand belongs to each narrow half, and their fingers clasp together across the seam. One complementary left hand and one complementary right hand meet once. Never duplicate the clasp; do not give each half its own pair of hands. The left hand has a tiny closed hinge at its wrist, subtly worn with age. The lid is shut and there is no visible inscription. Keep the joined band at plausible finger-ring scale while making its single opening, fitted halves and single two-hand clasp readable in the foreground still life.\nDo not change the room or other tabletop objects. No people, no disembodied human hands, no extra jewelry, no text overlay, no headings, no watermark, no collage, no photorealistic or 3D treatment.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -10950,6 +10957,11 @@
       "source": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
       "sourceSha256": "533a57753cc207d62ba262fc88c1d6bb39a4eeffb0b66b7dc2dea6ff786742a3",
       "reason": "Replace the floor-level walk-through exterior with continuous living wall and place Ithrom's sunrise only in a high remote overhead boundary image without a passable arch or continuous terrain."
+    },
+    {
+      "source": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
+      "sourceSha256": "a9e56b7fca6bc05379fb7d3f682e30a084fa934761cddd483be090c278b54060",
+      "reason": "Give each narrow hoop exactly one tiny hand, and show their uneven edges fitted as one wider band with a single clasp formed by the two hands. Preserve the linen and dinner setting."
     }
   ]
 }
