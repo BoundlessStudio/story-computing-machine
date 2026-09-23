@@ -1,0 +1,953 @@
+{
+  "slug": "a-seat-for-the-sun",
+  "title": "A Seat for the Sun",
+  "source": "stories/a-seat-for-the-sun/story.md",
+  "canon": false,
+  "mainCastEvidence": "All 339 source lines read in full. Goddess and birthday child are coprotagonists; mother manages/mediates every game, cousin supplies recurring contest/payoff, smallest girl directly teaches seating rule and recurring restrained-magic exchanges.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Boy with red bootlaces",
+      "reason": "Uncharacterized game finalist, no substantial separate arc; minor competition function."
+    },
+    {
+      "name": "Other party children",
+      "reason": "Brief crowd reactions, incidental play."
+    },
+    {
+      "name": "Barking dog",
+      "reason": "Opening background incidental animal, no developed agency."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/rules.md — System categories, Living agency, Divinity; no Nika/Tebbit universe entry"
+  ],
+  "characters": [
+    {
+      "id": "nika",
+      "name": "Nika",
+      "role": "Protagonist goddess accepts birthday invitation, learns mortal game rules and companionship.",
+      "selectionEvidence": [
+        {
+          "quote": "She put on her gold sandals, shook the damp from her white hair, and went down with the rocket.",
+          "line": 31,
+          "explanation": "Protagonist goddess accepts birthday invitation, learns mortal game rules and companionship."
+        }
+      ],
+      "form": "Humanoid goddess",
+      "storyAppearance": {
+        "anatomy": "Female humanoid goddess; no wings or extra limbs.",
+        "lifeStage": "Adult-presenting; true age unspecified.",
+        "proportions": "Human woman scale, graceful average-tall silhouette.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Lilac ruffled dress, gold sandals, bracelets, round sunglasses; compatible cover dress button-front/floral lilac accents.",
+        "equipment": [
+          "Round sunglasses",
+          "Gold bracelets",
+          "Gold sandals"
+        ],
+        "scale": "Human",
+        "movement": "Lounges and levitates, walks/plays, sings, manipulates small rings of sunlight.",
+        "distinctiveFeatures": [
+          "White hair",
+          "Sunlight can gather around shoulders but is deliberately drawn in",
+          "Sunglasses reflect green/violet/blue"
+        ]
+      },
+      "explicitCanon": [
+        "Female deity Nika, white hair, sunglasses, lilac dress ruffles, gold sandals/bracelets.",
+        "Diminishes radiance to ordinary afternoon light and creates a pale wrist light-ring.",
+        "Humanoid body, not an embodiment with unprovided extra anatomy."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible adult tan skin, long white waves, round tinted gold-frame glasses, lilac ruffled daydress.",
+        "House oil rendering replaces glossy cover style; gold described as broad ochre paint, not specular dots."
+      ],
+      "states": [],
+      "output": "stories/a-seat-for-the-sun/art/characters/nika.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 Nika cover identity only, image4 afternoon light only. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Humanoid female goddess in her ordinary restrained afternoon state, no halo or wings. Match compatible cover identity only: adult tan-skinned woman, long white wavy hair, round gold-frame sunglasses with softly painted muted green/violet/blue lenses, lilac ruffled button-front dress with modest floral accents, gold sandals and bracelets. Full length dress to calf/ankle with ample airy lilac folds, complete feet. Two standing whole views front-three-quarter and rear-side, small portrait with glasses pushed into hair and amused competitive expression; isolated glasses/bracelet detail. No rocket or cloud or chair. Her radiance is drawn in: simple warm afternoon illumination with coherent cool violet shadows, matte broad pale dress shapes, ochre-gold jewelry not shiny dots. Title \"Nika\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 Nika cover identity only, image4 afternoon light only. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Humanoid female goddess in her ordinary restrained afternoon state, no halo or wings. Match compatible cover identity only: adult tan-skinned woman, long white wavy hair, round gold-frame sunglasses with softly painted muted green/violet/blue lenses, lilac ruffled button-front dress with modest floral accents, gold sandals and bracelets. Full length dress to calf/ankle with ample airy lilac folds, complete feet. Two standing whole views front-three-quarter and rear-side, small portrait with glasses pushed into hair and amused competitive expression; isolated glasses/bracelet detail. No rocket or cloud or chair. Her radiance is drawn in: simple warm afternoon illumination with coherent cool violet shadows, matte broad pale dress shapes, ochre-gold jewelry not shiny dots. Title \"Nika\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/title-image.jpg",
+                "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+                "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+                "inspected": true,
+                "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+                "role": "Afternoon illumination and palette only; never scenery.",
+                "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+                "inspected": true,
+                "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+              }
+            ],
+            "reason": "Initial source-grounded character-only sheet; story cast manually assessed after full read.",
+            "startedAt": "2026-09-23T22:20:04.047383+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-1b00017a-30f5-4f38-85ba-fd2406a84ebe.png",
+            "outputSha256": "35a25293226edbffcd395df6fe7cbe0a84343132805308b9864479d2151fd6d5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:27:00.048960+00:00",
+            "generatorReview": "Actual pixels inspected: Two full unclipped consistent goddess views, white hair/lilac ruffles/round glasses/gold sandals and bracelets, compatible cover identity in matte broad oil. All accurate text; ordinary afternoon light, no halo, clouds, scenery or swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/title-image.jpg",
+            "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+            "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+            "inspected": true,
+            "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:27:00.056448+00:00",
+        "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+        "outputSha256": "35a25293226edbffcd395df6fe7cbe0a84343132805308b9864479d2151fd6d5",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/title-image.jpg",
+            "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+            "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+            "inspected": true,
+            "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Two full unclipped consistent goddess views, white hair/lilac ruffles/round glasses/gold sandals and bracelets, compatible cover identity in matte broad oil. All accurate text; ordinary afternoon light, no halo, clouds, scenery or swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "f80dbd16895a9e3019b81d2e329d9cde96c13c66fa2c0406d6aa595cb5df03f9"
+      },
+      "recurrence": {
+        "identityKey": "a-seat-for-the-sun:nika",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/title-image.jpg",
+          "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+          "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+          "inspected": true,
+          "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+          "role": "Afternoon illumination and palette only; never scenery.",
+          "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+          "inspected": true,
+          "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Nika",
+        "sourceRole": "Protagonist goddess accepts birthday invitation, learns mortal game rules and companionship.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "35a25293226edbffcd395df6fe7cbe0a84343132805308b9864479d2151fd6d5"
+    },
+    {
+      "id": "tebbit",
+      "name": "Tebbit",
+      "role": "Eight-year-old birthday coprotagonist invites goddess, loses game and shares return to fair play.",
+      "selectionEvidence": [
+        {
+          "quote": "Tebbit. I am eight today.",
+          "line": 23,
+          "explanation": "Eight-year-old birthday coprotagonist invites goddess, loses game and shares return to fair play."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Exactly eight-year-old boy.",
+        "proportions": "Small child proportions, larger head relative to torso; shorter than tall cousin.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Yellow paper crown; shirt cuffs get icing; other clothing interpreted cream shirt/blue short trousers/simple shoes.",
+        "equipment": [
+          "Homemade cardboard invitation rocket with red pasted paper nose and biscuit-box fins",
+          "Yellow paper crown"
+        ],
+        "scale": "Human",
+        "movement": "Excitedly raises rocket, determined games, disappointed then exuberant.",
+        "distinctiveFeatures": [
+          "Yellow crown slips over eyebrow",
+          "Rocket one bent fin"
+        ]
+      },
+      "explicitCanon": [
+        "Eight today, male child, yellow paper crown, icing on cuffs.",
+        "Cardboard tube rocket with red paper nose and biscuit-box fins, bent fin, string-tied handwritten invitation with yellow sun."
+      ],
+      "visualInterpretation": [
+        "Freckled warm skin and tousled auburn hair chosen as non-canon restrained child identity.",
+        "Cream shirt, slate blue knee trousers, brown shoes; no adult body."
+      ],
+      "states": [],
+      "output": "stories/a-seat-for-the-sun/art/characters/tebbit.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Exactly eight-year-old boy, visibly childlike head/body and small stature. Non-canon identity: warm freckled skin, tousled auburn hair, round lively face. Yellow paper crown, cream long sleeve shirt with small icing smudges on both cuffs, slate-blue knee trousers and plain brown shoes. Three isolated complete child views: eager front holding his homemade rocket, rear-side, triumphant arms raised. Small disappointed face and rocket detail. Rocket is a hand-sized cardboard tube with a pasted red paper nose and biscuit-box fins (one bent); string-tied folded invitation paper, no flame, explosion or futuristic weapon. Yellow crown has folded paper construction not gold metal. Title \"Tebbit\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Exactly eight-year-old boy, visibly childlike head/body and small stature. Non-canon identity: warm freckled skin, tousled auburn hair, round lively face. Yellow paper crown, cream long sleeve shirt with small icing smudges on both cuffs, slate-blue knee trousers and plain brown shoes. Three isolated complete child views: eager front holding his homemade rocket, rear-side, triumphant arms raised. Small disappointed face and rocket detail. Rocket is a hand-sized cardboard tube with a pasted red paper nose and biscuit-box fins (one bent); string-tied folded invitation paper, no flame, explosion or futuristic weapon. Yellow crown has folded paper construction not gold metal. Title \"Tebbit\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+                "role": "Afternoon illumination and palette only; never scenery.",
+                "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+                "inspected": true,
+                "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+              }
+            ],
+            "reason": "Initial source-grounded character-only sheet; story cast manually assessed after full read.",
+            "startedAt": "2026-09-23T22:20:05.006760+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-bde0283d-8ccb-401f-8b72-e01faf23c415.png",
+            "outputSha256": "a8ca5247e8c504cf33d092cce002c7a8aff31f06a12c587510b861bdd25b5967",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:27:01.299391+00:00",
+            "generatorReview": "Actual pixels inspected: Three complete age-eight child views, paper crown and cardboard red-nose rocket retained with bent fin and invitation, no combustion/weapon. Distinct exuberance/disappointment, child proportions, broad matte paint/ivory and readable text, no scenery/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:27:01.304836+00:00",
+        "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+        "outputSha256": "a8ca5247e8c504cf33d092cce002c7a8aff31f06a12c587510b861bdd25b5967",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Three complete age-eight child views, paper crown and cardboard red-nose rocket retained with bent fin and invitation, no combustion/weapon. Distinct exuberance/disappointment, child proportions, broad matte paint/ivory and readable text, no scenery/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "2ee7b9998991813e84bcdea023ea062d0d3f3208dbe961a91b78c59d6a2b0f70"
+      },
+      "recurrence": {
+        "identityKey": "a-seat-for-the-sun:tebbit",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/title-image.jpg",
+          "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+          "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+          "inspected": true,
+          "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+          "role": "Afternoon illumination and palette only; never scenery.",
+          "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+          "inspected": true,
+          "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Tebbit",
+        "sourceRole": "Eight-year-old birthday coprotagonist invites goddess, loses game and shares return to fair play.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "a8ca5247e8c504cf33d092cce002c7a8aff31f06a12c587510b861bdd25b5967"
+    },
+    {
+      "id": "dovessa",
+      "name": "Dovessa",
+      "role": "Substantial hostess and mother sets fair rules for goddess and children and manages music/food.",
+      "selectionEvidence": [
+        {
+          "quote": "His mother wiped her wet hand on her apron.",
+          "line": 61,
+          "explanation": "Substantial hostess and mother sets fair rules for goddess and children and manages music/food."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult mother.",
+        "proportions": "Average height, comfortably solid build interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Apron explicit; muted blue dress and cream apron interpreted.",
+        "equipment": [
+          "Concertina"
+        ],
+        "scale": "Human",
+        "movement": "Warm practical host, firm fair rule enforcement, plays concertina.",
+        "distinctiveFeatures": [
+          "Juice-wet hands early; practical apron"
+        ]
+      },
+      "explicitCanon": [
+        "Tebbit's mother unnamed; wears apron, plays concertina, presents prize and food.",
+        "No physical age/face/hair specified."
+      ],
+      "visualInterpretation": [
+        "Art name Dovessa; about late thirties, warm freckled skin, auburn hair braided and pinned, blue dress/cream apron."
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Dovessa",
+        "sourceRole": "Substantial hostess and mother sets fair rules for goddess and children and manages music/food.",
+        "authority": "User explicitly authorizes distinct art names for unnamed main characters in full collection run.",
+        "scope": "Character-art metadata only; no source prose/canon rename."
+      },
+      "output": "stories/a-seat-for-the-sun/art/characters/dovessa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Adult mother, interpreted late thirties with warm freckled skin, auburn hair braided/pinned, comfortably solid average build. Muted blue practical daydress and cream apron, plain brown shoes. Two isolated unclipped whole views including front-three-quarter holding/playing a small concertina and rear-side. One portrait of warm practical attention with firm raised eyebrow and small concertina detail. Standard coherent bellows instrument held between normal hands; no jug, plate, cake, furniture or kitchen. Title \"Dovessa\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Adult mother, interpreted late thirties with warm freckled skin, auburn hair braided/pinned, comfortably solid average build. Muted blue practical daydress and cream apron, plain brown shoes. Two isolated unclipped whole views including front-three-quarter holding/playing a small concertina and rear-side. One portrait of warm practical attention with firm raised eyebrow and small concertina detail. Standard coherent bellows instrument held between normal hands; no jug, plate, cake, furniture or kitchen. Title \"Dovessa\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+                "role": "Afternoon illumination and palette only; never scenery.",
+                "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+                "inspected": true,
+                "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+              }
+            ],
+            "reason": "Initial source-grounded character-only sheet; story cast manually assessed after full read.",
+            "startedAt": "2026-09-23T22:20:05.972808+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b6812f42-39ba-47e9-96ac-7aa5fbbdbc93.png",
+            "outputSha256": "28e81e60d3f9506fab0271fcce374e7b5d6ec5ec1622de3cefafd165f223c0bf",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:27:02.407838+00:00",
+            "generatorReview": "Actual pixels inspected: Two coherent adult hostess views and face/concertina detail; apron, consistent simple bellows instrument and natural hands; maternal family resemblance without copying Nika. Broad connected oil planes across face/clothes, accurate text, no scene or swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:27:02.412755+00:00",
+        "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+        "outputSha256": "28e81e60d3f9506fab0271fcce374e7b5d6ec5ec1622de3cefafd165f223c0bf",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+            "role": "Afternoon illumination and palette only; never scenery.",
+            "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+            "inspected": true,
+            "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Two coherent adult hostess views and face/concertina detail; apron, consistent simple bellows instrument and natural hands; maternal family resemblance without copying Nika. Broad connected oil planes across face/clothes, accurate text, no scene or swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1eef1c790d01a330adb0376e76fdef4b74790e1c77d663e937b457953b701d22"
+      },
+      "recurrence": {
+        "identityKey": "a-seat-for-the-sun:dovessa",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/title-image.jpg",
+          "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+          "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+          "inspected": true,
+          "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+          "role": "Afternoon illumination and palette only; never scenery.",
+          "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+          "inspected": true,
+          "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+        }
+      ],
+      "outputSha256": "28e81e60d3f9506fab0271fcce374e7b5d6ec5ec1622de3cefafd165f223c0bf"
+    },
+    {
+      "id": "soreli",
+      "name": "Soreli",
+      "role": "Competitive cousin, central game rival and eventual loser; repeated interactions and final story payoff.",
+      "selectionEvidence": [
+        {
+          "quote": "The tallest girl reached easily over him and prodded the damaged fin.",
+          "line": 55,
+          "explanation": "Competitive cousin, central game rival and eventual loser; repeated interactions and final story payoff."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Child girl, age unspecified; interpreted around ten.",
+        "proportions": "Tallest child, visibly taller than Tebbit; still child proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Soft slippers explicit; moss-green simple dress and pale stockings interpretation.",
+        "equipment": [
+          "Won gold-foil smiling chocolate sun"
+        ],
+        "scale": "Human",
+        "movement": "Quick precise feet, competitive assured grin, surprised when finally out.",
+        "distinctiveFeatures": [
+          "Tallest child",
+          "Quiet soft slippers"
+        ]
+      },
+      "explicitCanon": [
+        "Tebbit's tall female cousin wins first musical-chair game and loses second; wears soft slippers.",
+        "Chocolate sun is her won prize, gold foil with smiling face and pointed rays; partially eaten later."
+      ],
+      "visualInterpretation": [
+        "Art name Soreli; tawny skin, long copper-brown single braid, simple green party dress, no adult glamour."
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Soreli",
+        "sourceRole": "Competitive cousin, central game rival and eventual loser; repeated interactions and final story payoff.",
+        "authority": "User explicitly authorizes distinct art names for unnamed main characters in full collection run.",
+        "scope": "Character-art metadata only; no source prose/canon rename."
+      },
+      "output": "stories/a-seat-for-the-sun/art/characters/soreli.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make one exact footwear correction on this sheet only: in all three full-body views, replace Soreli's strapped shoes and raised heels with SOFT FLAT SLIPPERS, simple unadorned olive cloth slip-on shoes with very thin flexible soles, no heels, no buckles, no crossing straps. Preserve her feet/poses/proportions, stockings, child face and braid, green dress, prize, all text and ivory layout, painterly broad matte oil and afternoon light. Nothing else changes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Child girl around ten, tallest of the children but unmistakable young child proportions; no adult glamour. Tawny skin, copper-brown hair in one long braid, lively self-assured face. Simple moss-green knee-length party dress, pale stockings and soft flat slippers. Three complete isolated views: alert front, rear-side showing braid, small quick stepping pose, all feet clear. Portraits \"Confident\" and \"Surprised\". Optional her palm-sized gold-foil chocolate sun prize, smiling face and pointed rays with one bite removed, rendered ochre paint rather than gleam. Title \"Soreli\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+                "role": "Afternoon illumination and palette only; never scenery.",
+                "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+                "inspected": true,
+                "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+              }
+            ],
+            "reason": "Initial source-grounded character-only sheet; story cast manually assessed after full read.",
+            "startedAt": "2026-09-23T22:20:06.932052+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-1e658dca-cd29-4706-aba4-dfad9a86a437.png",
+            "outputSha256": "ed304da925854b64d45d041dbf40601c744b5e463a6358647ce8f6c93f4f38b1",
+            "generatorReview": "Source specifically soft slippers; first candidate shoes have straps and raised heels."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Make one exact footwear correction on this sheet only: in all three full-body views, replace Soreli's strapped shoes and raised heels with SOFT FLAT SLIPPERS, simple unadorned olive cloth slip-on shoes with very thin flexible soles, no heels, no buckles, no crossing straps. Preserve her feet/poses/proportions, stockings, child face and braid, green dress, prize, all text and ivory layout, painterly broad matte oil and afternoon light. Nothing else changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-1e658dca-cd29-4706-aba4-dfad9a86a437.png",
+                "role": "Actual initial candidate; narrow source/presentation correction only.",
+                "inspected": true,
+                "sha256": "ed304da925854b64d45d041dbf40601c744b5e463a6358647ce8f6c93f4f38b1"
+              }
+            ],
+            "reason": "Source specifically soft slippers; first candidate shoes have straps and raised heels.",
+            "startedAt": "2026-09-23T22:27:06.351783+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-35d2bf1b-885b-4b72-89cf-be9fd37900dd.png",
+            "outputSha256": "b2486b77a97aa53b3d82497344b33a4af2fb0a150ffc7fe6d94753d67dc37c99",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:31:03.888499+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Soft flexible flat slip-on slippers now match prose; three complete tall-child views and distinct confident/surprised expressions, chocolate sun with bite, child proportions retained. Exact text, broad oil faces/body, ivory without scenes/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-1e658dca-cd29-4706-aba4-dfad9a86a437.png",
+            "role": "Actual initial candidate; narrow source/presentation correction only.",
+            "inspected": true,
+            "sha256": "ed304da925854b64d45d041dbf40601c744b5e463a6358647ce8f6c93f4f38b1"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:31:03.893654+00:00",
+        "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+        "outputSha256": "b2486b77a97aa53b3d82497344b33a4af2fb0a150ffc7fe6d94753d67dc37c99",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-1e658dca-cd29-4706-aba4-dfad9a86a437.png",
+            "role": "Actual initial candidate; narrow source/presentation correction only.",
+            "inspected": true,
+            "sha256": "ed304da925854b64d45d041dbf40601c744b5e463a6358647ce8f6c93f4f38b1"
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: Soft flexible flat slip-on slippers now match prose; three complete tall-child views and distinct confident/surprised expressions, chocolate sun with bite, child proportions retained. Exact text, broad oil faces/body, ivory without scenes/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1ca8b71a99943bc266ca9b033e29948e7054b11be4397ba0445c443685c6c142"
+      },
+      "recurrence": {
+        "identityKey": "a-seat-for-the-sun:soreli",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/title-image.jpg",
+          "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+          "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+          "inspected": true,
+          "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+          "role": "Afternoon illumination and palette only; never scenery.",
+          "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+          "inspected": true,
+          "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+        }
+      ],
+      "outputSha256": "b2486b77a97aa53b3d82497344b33a4af2fb0a150ffc7fe6d94753d67dc37c99"
+    },
+    {
+      "id": "lillune",
+      "name": "Lillune",
+      "role": "Smallest girl's seizure of Nika's hovering seat teaches the rule; repeated requested light rings keep goddess magic restrained.",
+      "selectionEvidence": [
+        {
+          "quote": "The smallest girl looked up at her from under a fringe full of grass seeds.",
+          "line": 139,
+          "explanation": "Smallest girl's seizure of Nika's hovering seat teaches the rule; repeated requested light rings keep goddess magic restrained."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Young child girl; youngest/smallest of seven, interpreted five.",
+        "proportions": "Short small child build, rounded age-appropriate head/body.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Buckled shoes explicit; muted peach pinafore and cream blouse interpretation.",
+        "equipment": [],
+        "scale": "Human",
+        "movement": "Hurried short steps, curious open hands and admiring wrist light-ring.",
+        "distinctiveFeatures": [
+          "Fringe with a few grass seeds",
+          "Buckled shoes",
+          "Brief pale light ring around wrist only, created by Nika"
+        ]
+      },
+      "explicitCanon": [
+        "Smallest girl takes seat under hovering goddess and speaks simple rule; repeatedly asks for rings.",
+        "Fringe full of grass seeds, buckled shoes, transient pale wrist light-ring provided by Nika."
+      ],
+      "visualInterpretation": [
+        "Art name Lillune; warm medium-brown skin, short dark bob/fringe, peach pinafore; interpretation not canon.",
+        "No magic-user claim; any shown ring is received transient light, not permanent jewellery/power."
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Lillune",
+        "sourceRole": "Smallest girl's seizure of Nika's hovering seat teaches the rule; repeated requested light rings keep goddess magic restrained.",
+        "authority": "User explicitly authorizes distinct art names for unnamed main characters in full collection run.",
+        "scope": "Character-art metadata only; no source prose/canon rename."
+      },
+      "output": "stories/a-seat-for-the-sun/art/characters/lillune.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this exact single character sheet: replace the ENTIRE dark brown/black gradient background and ALL smoky haloes with uniform quiet warm ivory painted paper like the collection. The whole 1536x1024 sheet must be equally light ivory at every edge/corner. Make the existing heading 'Lillune' and story subtitle 'A Seat for the Sun' fully readable dark ink in that clear ivory. Preserve all character views, identity, child proportions, dress, buckled shoes, grass seeds, pose and layout. Remove neon bloom from wrist ring: keep only one faint pale-yellow thin painted circle around wrist, no radiating light, sparkles or bright specular bead dots. Keep character forms with broad opaque oil planes and matte simplified faces, restrained warm afternoon light and connected cool shadows; no glow around silhouettes or smooth photographic gradients. No other figures, scenes, swatches or objects.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact story subtitle \"A Seat for the Sun\". Images1/2 style only, image3 afternoon landscape LIGHT only, no scenery. Warm pleasant afternoon illumination belongs to this story, in broad connected masses with subtle cool violet shadow; no glossy edges or dramatic rimlight. Small girl about five, shortest child, round young head and very short age-appropriate body/limbs. Warm medium-brown skin, dark bobbed hair with fringe and a few tiny grass seeds caught in it. Muted peach pinafore over cream blouse, pale stockings and simple buckled shoes. Two isolated whole views, three-quarter curious front with one wrist lifted and rear/side; one delighted face study; small wrist close study receiving a very faint pale-yellow ring of light, matte light-colour paint only no neon bloom, no tattoo, no claim she casts magic. The ring is temporary Nika-created light. No ground, other characters or objects. Title \"Lillune\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+                "role": "Afternoon illumination and palette only; never scenery.",
+                "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+                "inspected": true,
+                "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+              }
+            ],
+            "reason": "Initial source-grounded character-only sheet; story cast manually assessed after full read.",
+            "startedAt": "2026-09-23T22:20:07.889889+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-ad4c50bd-37e4-4b1e-ae30-5c75a2f10599.png",
+            "outputSha256": "2690628e28b44c878b5027069a80eef6a1b17176341833d0720714022e9d4265",
+            "generatorReview": "Dark vignette background hides heading and breaks ivory folio; ring is neon-style glow."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit this exact single character sheet: replace the ENTIRE dark brown/black gradient background and ALL smoky haloes with uniform quiet warm ivory painted paper like the collection. The whole 1536x1024 sheet must be equally light ivory at every edge/corner. Make the existing heading 'Lillune' and story subtitle 'A Seat for the Sun' fully readable dark ink in that clear ivory. Preserve all character views, identity, child proportions, dress, buckled shoes, grass seeds, pose and layout. Remove neon bloom from wrist ring: keep only one faint pale-yellow thin painted circle around wrist, no radiating light, sparkles or bright specular bead dots. Keep character forms with broad opaque oil planes and matte simplified faces, restrained warm afternoon light and connected cool shadows; no glow around silhouettes or smooth photographic gradients. No other figures, scenes, swatches or objects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad4c50bd-37e4-4b1e-ae30-5c75a2f10599.png",
+                "role": "Actual initial candidate; narrow source/presentation correction only.",
+                "inspected": true,
+                "sha256": "2690628e28b44c878b5027069a80eef6a1b17176341833d0720714022e9d4265"
+              }
+            ],
+            "reason": "Dark vignette background hides heading and breaks ivory folio; ring is neon-style glow.",
+            "startedAt": "2026-09-23T22:27:04.422828+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-0b90eeaf-f8f5-4b4d-af46-6d4261228acf.png",
+            "outputSha256": "9355931ff891453446b584438fef99e8348050a7e93170e430c86e95d0f99a3e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:31:05.003776+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Warm ivory now throughout and heading fully readable; child identity/age/buckled shoes/fringe seeds stable. Received light-ring is a restrained thin yellow line with no neon bloom, two complete views and delight portrait/detail. No setting or swatches, connected painted colour masses."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad4c50bd-37e4-4b1e-ae30-5c75a2f10599.png",
+            "role": "Actual initial candidate; narrow source/presentation correction only.",
+            "inspected": true,
+            "sha256": "2690628e28b44c878b5027069a80eef6a1b17176341833d0720714022e9d4265"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:31:05.023173+00:00",
+        "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+        "outputSha256": "9355931ff891453446b584438fef99e8348050a7e93170e430c86e95d0f99a3e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad4c50bd-37e4-4b1e-ae30-5c75a2f10599.png",
+            "role": "Actual initial candidate; narrow source/presentation correction only.",
+            "inspected": true,
+            "sha256": "2690628e28b44c878b5027069a80eef6a1b17176341833d0720714022e9d4265"
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: Warm ivory now throughout and heading fully readable; child identity/age/buckled shoes/fringe seeds stable. Received light-ring is a restrained thin yellow line with no neon bloom, two complete views and delight portrait/detail. No setting or swatches, connected painted colour masses.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e5e7f64a890f440e1f6c105f2155ab654a9a2768929b9dd2b2b3e0db27894ef7"
+      },
+      "recurrence": {
+        "identityKey": "a-seat-for-the-sun:lillune",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/title-image.jpg",
+          "role": "Nika compatible identity and costume only; not shiny/anime rendering.",
+          "sha256": "f35efe05a5cd406f204adada5f5d53e4fb9755ef068b84a35f105202030efb44",
+          "inspected": true,
+          "notes": "White waves, tan adult face, round coloured gold-rim glasses and lilac ruffles; no other cast identity."
+        },
+        {
+          "path": "stories/a-seat-for-the-sun/art/landscapes/02-the-birthday-tree.png",
+          "role": "Afternoon illumination and palette only; never scenery.",
+          "sha256": "3e1c48cd7e60e421f6c193844a150c08d3219ef2d80494e358c7c516cecfd545",
+          "inspected": true,
+          "notes": "Warm clear afternoon masses and cool violet-green shadows; directional oil painting, no forest on folio."
+        }
+      ],
+      "outputSha256": "9355931ff891453446b584438fef99e8348050a7e93170e430c86e95d0f99a3e"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "991e226f639025d82f9d18e09e8c467d4241d11346b896592bdea91bbf1b4770",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "Five qualifying characters complete; names assigned to substantial unnamed roles, with source/spec/reference/output pins verified."
+}
