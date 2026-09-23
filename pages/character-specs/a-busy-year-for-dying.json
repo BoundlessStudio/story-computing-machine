@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-busy-year-for-dying",
+  "title": "A Busy Year for Dying",
+  "source": "stories/a-busy-year-for-dying/story.md",
+  "sourceSha256": "607826d3c99e9d5ea9d17c3f554d59aab38c43e138d6ec27ab37d67828a75f07",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read all 383 lines of the finished story. Kelro carries the viewpoint and change; Ruldo provides sustained care and accountability; Glessa enables exposure and the new performing livelihood.",
+  "excludedMinorCharacters": [
+    {
+      "name": "man in the yellow scarf",
+      "reason": "Recurring recognition witness who contributes to exposure, but no substantial independent role beyond that function; no given name."
+    },
+    {
+      "name": "juggler",
+      "reason": "Supplies stage help and collects contributions, limited incidental supporting presence."
+    },
+    {
+      "name": "Ruldo's sister",
+      "reason": "Offstage motivation, no direct scene or supported appearance."
+    },
+    {
+      "name": "pipe-lighting woman, scavengers, spectators, earlier spouses and captors",
+      "reason": "Background examples and incidental crowd figures without substantial individual arcs."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Costs, desire, and local mechanisms",
+    "universe/rules.md#Memory, transformation, copies, and branches"
+  ],
+  "characters": [
+    {
+      "id": "kelro",
+      "name": "Kelro",
+      "role": "protagonist; also travels as Jalmot and Orvett",
+      "selectionEvidence": [
+        {
+          "quote": "His body repaired itself. His possessions required looking after.",
+          "lines": "19",
+          "explanation": "Immortal self-repair and material attachment drive his repeated disappearing acts."
+        },
+        {
+          "quote": "My name is Kelro",
+          "lines": "299",
+          "explanation": "Publicly admits primary identity after deception unravels."
+        },
+        {
+          "quote": "He went behind the canvas, lay down in the warm coat, and began to snore.",
+          "lines": "383",
+          "explanation": "Final action completes shift into a public performing role."
+        }
+      ],
+      "form": "ordinary-appearing human man with self-repair; aliases are the same body",
+      "storyAppearance": {
+        "anatomy": "Human man; wounds repair themselves. Ear nick repeatedly heals away; no permanent scar should be invented.",
+        "lifeStage": "Has memories at least two hundred years old; unaged-looking face causes recognition over decades. Cover shows young-to-middle adult appearance, not old-age disguise.",
+        "proportions": "Cover establishes lean ordinary human build; exact height unspecified.",
+        "markings": "No persistent wound; brow and wrist injuries heal. Temporary red lip-salve false wound is a performance state.",
+        "materials": "Skin; excellent red wool coat with quilted lining, pocket lining scorch mark, repaired hem patch.",
+        "clothing": "Red coat roomy enough for two shirts; shirts and trousers; mismatched boots including one too large; battered performance hat. Old horn buttons were replaced, current button material unspecified.",
+        "equipment": "Bent spoon with cloth-wrapped handle associated with his hut; canvas screen, empty packing tins and clothed straw sack are stage props.",
+        "scale": "Ordinary adult human.",
+        "movement": "Crawls free of quarry, walks in cold, bows theatrically, crouches behind screen, performs solemn gait and sleeps as stage business.",
+        "distinctiveFeatures": "Persistent same face beneath aliases; clean-shaven as Orvett. No magical glow or visibly supernatural body."
+      },
+      "explicitCanon": [
+        "This non-canon story establishes local depiction facts only: Kelro/Jalmot/Orvett are one person.",
+        "Self-repair is involuntary; cannot choose what to heal, and it does not establish healing other people.",
+        "Red coat belongs to remembered marriage eighty years ago and is reacquired through performance work."
+      ],
+      "visualInterpretation": [
+        "Retain cover lean adult silhouette, short tousled dark hair, angular face and muted grey practical workwear; early-middle-adult outward age, hair/eye/skin details remain artistic interpretation.",
+        "Character-only landscape ivory sheet: front and rear coat views plus coatless side; wry and guarded heads, lining, hem and battered hat costume details. No locations, scenery, floor patches or narrative vignette.",
+        "Mid-thigh red winter coat and oversized left boot are consistent restrained choices where source does not specify coat length or boot side.",
+        "All aliases share one body; clean-shaven presentation across this sheet. The temporary lip-salve stage wound is not depicted.",
+        "Broad connected Group of Seven-inspired oil masses with selective substantial impasto and quiet passages; no uniform bevel-lit chips.",
+        "User revision: no paint swatches, colour palette strip or texture samples; lower-right ground stays empty ivory."
+      ],
+      "states": [
+        {
+          "name": "Kelro / Jalmot",
+          "description": "Same ordinary human identity; red coat owned then abandoned, shirts beneath."
+        },
+        {
+          "name": "Orvett",
+          "description": "Clean-shaven disguise, same face and anatomy."
+        },
+        {
+          "name": "stage wound",
+          "description": "Removable lip salve across brow; clearly labelled theatrical makeup, not a lasting scar."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-busy-year-for-dying:kelro",
+        "links": [],
+        "evidence": "No matching named character entry found in universe/characters.md or rules.md. Kelro aliases established within story only; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/title-image.jpg",
+          "role": "existing identity and costume reference; translate rendering to Sculpted Impasto",
+          "inspected": true,
+          "notes": "Young-to-middle adult-looking slim dark-haired man leaving quarry in grey shirt and trousers; red textured wool coat under stone. Preserve ordinary human silhouette and worn workwear. No permanent facial wound.",
+          "sha256": "b1a8b4e7904a03b8366bc0f521d7011788d8fed5a76edfe9d0338a9ac8f4ca5a"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/interiors/02-lamp-and-borrowed-blanket.png",
+          "role": "story interior palette, lighting and material paint handling",
+          "inspected": true,
+          "notes": "Signal hut with oil-lamp amber light, slate-blue shadows, rough plank walls and red-grey-green woven blanket. Raised broken paint describes wood and cloth.",
+          "sha256": "b9fc95578c61e5b095174f2058ed7d4b06c0c39ded16e5effbee03c965735c9d"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Landscape ivory sheet; interlocking heavy paint masses and bristle/knife texture across faces and bodies. Human subject, armour and cloak are not character templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/landscapes/01-quarry-at-dusk.png",
+          "role": "brush handling and restrained palette only; no geography or dusk lighting copied",
+          "inspected": true,
+          "notes": "Large cool slate-violet painted rock masses and connected planes, directional bristles with selective raised ridges, quiet distant blue forest and warm ochre accents; no scenery belongs in sheet.",
+          "sha256": "76c2d4fcd87b574f9603b0909ade34d8af85b2f5b4ea8c5a1cbc59f11e5f13e4"
+        }
+      ],
+      "output": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this existing Kelro character sheet with ONE narrow change: remove the five isolated paint swatches in the bottom-right strip (red, slate blue-grey, ochre, charcoal, ivory). Restore that entire small swatch area to the same quiet, plain warm ivory background already surrounding it. Leave it empty: no replacement marks, labels, palette, colour strip, ornament or texture samples. Preserve absolutely everything else exactly: full 1536x1024 landscape 3:2 canvas; Kelro's three full-body views, hair, faces, expressions, hands, boots, red coat, grey clothes and all paint texture; the two large head studies; the quilted lining, mended hem and battered hat details; every character's scale and position; every existing word including Kelro, A Busy Year for Dying, Front, Coatless, Back, Wry, Guarded, Quilted lining, Mended hem, Battered hat; the ivory ground and margins. Do not rearrange, recrop, repaint, improve, add or remove anything else. No scenic background or location. This is precise object removal, not a new illustration.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "selected",
+            "prompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, 1536x1024 landscape 3:2, for the human protagonist KELRO from A Busy Year for Dying. The entire ground is quiet warm ivory. This is a painted reference sheet, no narrative scene.\n\nREFERENCE ROLES: Reference 1 is the original story cover: preserve the man's lean ordinary adult silhouette, short tousled dark hair, angular face and muted grey practical work clothes, plus the excellent red wool coat and quilted lining. The cover supplies no precise close-up face, so keep a restrained early-middle-adult interpretation. Ignore all its scenery and typography. Reference 2 is the story's quarry landscape: use ONLY its Canadian Group of Seven-inspired connected colour/value masses, directional brushwork and cool slate-violet versus warm ochre relationships. Do not depict any quarry, rock or landscape. Reference 3 is the approved Sculpted Impasto folio: use its confident oil-paint materiality and clarity, adjusted to broad connected masses with quieter connecting passages. Do not copy its woman, armour, cape, medieval equipment, little landscape scenes or all-over chips.\n\nKELRO'S IDENTITY: One lean human man, outwardly about 30-40 despite centuries of life, dark short untidy hair and same face/body in every study. Clean-shaven face, slim nose, ordinary subtly wary eyes expressed with opaque brush marks, no shiny eyes. Two arms, two legs, normal hands. His aliases Jalmot and Orvett are the SAME man, not separate identities. No permanent scars, no ear notch, no visible healing effect. No wound, blood, injury, corpse or death depiction.\n\nCLOTHING AND MATERIALS: A roomy, practical, faded deep-red wool winter COAT with ordinary sleeves and front buttons, mid-thigh length as a restrained interpretation, visibly quilted lining. This is a working man's coat, not a cloak, cape, tunic, uniform or armour. A carefully repaired patch low on the hem. Muted slate-grey shirt layers beneath, charcoal brown trousers, worn mismatched leather boots; choose LEFT boot slightly too large and keep that side consistent in every view. The coat is cared for despite long use. Materials should be differentiated by paint direction and value masses: dense red wool, simple cloth, dull worn leather, matte skin. No ornate straps, weapons or invented jewelry.\n\nCOMPOSITION: Readable identifying text at upper left, exact spelling:\n\"Kelro\"\n\"A Busy Year for Dying\"\nBelow, three large useful full-body views across the left two-thirds: relaxed front wearing coat with hands naturally visible; coatless side view in grey shirts and trousers; rear three-quarter wearing the same coat. Entire hair, hands and boots uncropped with generous ivory margins, no overlap. Concise labels: \"Front\", \"Coatless\", \"Back\".\nOn the right, two expressive head studies of exactly this man labelled \"Wry\" and \"Guarded\"; broad confidently painted facial planes, never a polished digital face. Below them, only three isolated personal costume studies labelled \"Quilted lining\", \"Mended hem\", \"Battered hat\". The open coat-lining study may show the small dark scorch mark beside its inner breast pocket. The battered hat is an ordinary muted brown cloth hat for his performance, not a wizard hat. A small five-stroke palette of red wool, slate, warm ochre, charcoal and ivory may sit at lower right without extra text.\n\nPAINTING: Hand-painted Canadian Group of Seven-inspired oil. Large interlocking connected masses, decisive broad directional bristle strokes, selected substantial ridges of impasto on red wool, hair and major lit planes; allow calm matte connecting passages. Slight scraped edges and underpainting. Build the FACE with the same bold brush treatment as the body, readable through shape and value, without smoothing. Neutral warm light and rich cool shadows reveal materials; no sunset lighting or theatrical rimlight. Texture follows anatomy and cloth folds, never uniform surface flakes. No bevel-lit chips, mosaic facets, CGI modelling, glossy plastic, photographic face, anime, airbrush or hyperdetail.\n\nSTRICT CHARACTER-ONLY: Absolutely no location vignette, scenery, landscape, rooms, windows, floor or terrain patches under boots, rocks, plants, horizon, scenic backdrop, decorative prose, crowd, second person, stage screen or stage setting. Every study floats cleanly on uninterrupted warm ivory; no painted ground shadow or pedestal. No borders or panel boxes. Only the exact title/name and concise labels listed. Show the same coherent character from every view.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/title-image.jpg",
+                "role": "existing identity and costume reference; translate rendering to Sculpted Impasto",
+                "inspected": true,
+                "notes": "Young-to-middle adult-looking slim dark-haired man leaving quarry in grey shirt and trousers; red textured wool coat under stone. Preserve ordinary human silhouette and worn workwear. No permanent facial wound.",
+                "sha256": "b1a8b4e7904a03b8366bc0f521d7011788d8fed5a76edfe9d0338a9ac8f4ca5a"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/landscapes/01-quarry-at-dusk.png",
+                "role": "brush handling and restrained palette only; no geography or dusk lighting copied",
+                "inspected": true,
+                "notes": "Large cool slate-violet painted rock masses and connected planes, directional bristles with selective raised ridges, quiet distant blue forest and warm ochre accents; no scenery belongs in sheet.",
+                "sha256": "76c2d4fcd87b574f9603b0909ade34d8af85b2f5b4ea8c5a1cbc59f11e5f13e4"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "approved Sculpted Impasto paint and folio reference adjusted to broad connected masses and quiet passages; no scenery, armour or cape borrowed",
+                "inspected": true,
+                "notes": "Landscape ivory sheet; interlocking heavy paint masses and bristle/knife texture across faces and bodies. Human subject, armour and cloak are not character templates.",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              }
+            ],
+            "startedAt": "2026-09-23T19:40:17.980539+00:00",
+            "tool": "image_gen.imagegen",
+            "backendModel": "not reported",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-a489545a-a4c6-4249-8148-5bc866b1f81b.png",
+            "outputPath": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "outputSha256": "8bc1f7387d15b90089bdc736362813c1cbf9328de99fc332e2e6b0b9256e4bf3",
+            "finishedAt": "2026-09-23T19:42:11.101840+00:00",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "visualReview": "PASS: all silhouettes complete; clear correct labels; one consistent human face and body across aliases; source-supported coat/workwear; no environment; visibly painted skin, wool and hair. Independent coordinator review pending."
+          },
+          {
+            "attempt": 2,
+            "status": "selected",
+            "purpose": "User-requested removal of paint swatches only",
+            "prompt": "Edit this existing Kelro character sheet with ONE narrow change: remove the five isolated paint swatches in the bottom-right strip (red, slate blue-grey, ochre, charcoal, ivory). Restore that entire small swatch area to the same quiet, plain warm ivory background already surrounding it. Leave it empty: no replacement marks, labels, palette, colour strip, ornament or texture samples. Preserve absolutely everything else exactly: full 1536x1024 landscape 3:2 canvas; Kelro's three full-body views, hair, faces, expressions, hands, boots, red coat, grey clothes and all paint texture; the two large head studies; the quilted lining, mended hem and battered hat details; every character's scale and position; every existing word including Kelro, A Busy Year for Dying, Front, Coatless, Back, Wry, Guarded, Quilted lining, Mended hem, Battered hat; the ivory ground and margins. Do not rearrange, recrop, repaint, improve, add or remove anything else. No scenic background or location. This is precise object removal, not a new illustration.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-c939-7811-9ea4-c3c059cf9553/exec-a489545a-a4c6-4249-8148-5bc866b1f81b.png",
+                "role": "sole edit target; preserve all character art, text, proportions and paint exactly, remove only lower-right paint swatches",
+                "inspected": true,
+                "sha256": "8bc1f7387d15b90089bdc736362813c1cbf9328de99fc332e2e6b0b9256e4bf3",
+                "notes": "Previous selected Kelro sheet inspected at full view; five paint swatches present at lower right. Immutable source retained outside package."
+              }
+            ],
+            "startedAt": "2026-09-23T19:45:27.571576+00:00",
+            "tool": "image_gen.imagegen",
+            "backendModel": "not reported",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-e89daa2c-e586-416b-9d73-fd4bf5387f9e.png",
+            "outputPath": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "outputSha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "finishedAt": "2026-09-23T19:46:48.512291+00:00",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "visualReview": "PASS: palette swatches gone; empty ivory restored; all character views and labels preserved visually, with slight repainting of existing strokes intrinsic to tool edit, no identity/composition drift."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-c939-7811-9ea4-c3c059cf9553/exec-a489545a-a4c6-4249-8148-5bc866b1f81b.png",
+            "role": "sole edit target; preserve all character art, text, proportions and paint exactly, remove only lower-right paint swatches",
+            "inspected": true,
+            "sha256": "8bc1f7387d15b90089bdc736362813c1cbf9328de99fc332e2e6b0b9256e4bf3",
+            "notes": "Previous selected Kelro sheet inspected at full view; five paint swatches present at lower right. Immutable source retained outside package."
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "backendModel": "not reported",
+        "creationPrompt": "Use case: stylized-concept. Create ONE finished character-only reference folio, 1536x1024 landscape 3:2, for the human protagonist KELRO from A Busy Year for Dying. The entire ground is quiet warm ivory. This is a painted reference sheet, no narrative scene.\n\nREFERENCE ROLES: Reference 1 is the original story cover: preserve the man's lean ordinary adult silhouette, short tousled dark hair, angular face and muted grey practical work clothes, plus the excellent red wool coat and quilted lining. The cover supplies no precise close-up face, so keep a restrained early-middle-adult interpretation. Ignore all its scenery and typography. Reference 2 is the story's quarry landscape: use ONLY its Canadian Group of Seven-inspired connected colour/value masses, directional brushwork and cool slate-violet versus warm ochre relationships. Do not depict any quarry, rock or landscape. Reference 3 is the approved Sculpted Impasto folio: use its confident oil-paint materiality and clarity, adjusted to broad connected masses with quieter connecting passages. Do not copy its woman, armour, cape, medieval equipment, little landscape scenes or all-over chips.\n\nKELRO'S IDENTITY: One lean human man, outwardly about 30-40 despite centuries of life, dark short untidy hair and same face/body in every study. Clean-shaven face, slim nose, ordinary subtly wary eyes expressed with opaque brush marks, no shiny eyes. Two arms, two legs, normal hands. His aliases Jalmot and Orvett are the SAME man, not separate identities. No permanent scars, no ear notch, no visible healing effect. No wound, blood, injury, corpse or death depiction.\n\nCLOTHING AND MATERIALS: A roomy, practical, faded deep-red wool winter COAT with ordinary sleeves and front buttons, mid-thigh length as a restrained interpretation, visibly quilted lining. This is a working man's coat, not a cloak, cape, tunic, uniform or armour. A carefully repaired patch low on the hem. Muted slate-grey shirt layers beneath, charcoal brown trousers, worn mismatched leather boots; choose LEFT boot slightly too large and keep that side consistent in every view. The coat is cared for despite long use. Materials should be differentiated by paint direction and value masses: dense red wool, simple cloth, dull worn leather, matte skin. No ornate straps, weapons or invented jewelry.\n\nCOMPOSITION: Readable identifying text at upper left, exact spelling:\n\"Kelro\"\n\"A Busy Year for Dying\"\nBelow, three large useful full-body views across the left two-thirds: relaxed front wearing coat with hands naturally visible; coatless side view in grey shirts and trousers; rear three-quarter wearing the same coat. Entire hair, hands and boots uncropped with generous ivory margins, no overlap. Concise labels: \"Front\", \"Coatless\", \"Back\".\nOn the right, two expressive head studies of exactly this man labelled \"Wry\" and \"Guarded\"; broad confidently painted facial planes, never a polished digital face. Below them, only three isolated personal costume studies labelled \"Quilted lining\", \"Mended hem\", \"Battered hat\". The open coat-lining study may show the small dark scorch mark beside its inner breast pocket. The battered hat is an ordinary muted brown cloth hat for his performance, not a wizard hat. A small five-stroke palette of red wool, slate, warm ochre, charcoal and ivory may sit at lower right without extra text.\n\nPAINTING: Hand-painted Canadian Group of Seven-inspired oil. Large interlocking connected masses, decisive broad directional bristle strokes, selected substantial ridges of impasto on red wool, hair and major lit planes; allow calm matte connecting passages. Slight scraped edges and underpainting. Build the FACE with the same bold brush treatment as the body, readable through shape and value, without smoothing. Neutral warm light and rich cool shadows reveal materials; no sunset lighting or theatrical rimlight. Texture follows anatomy and cloth folds, never uniform surface flakes. No bevel-lit chips, mosaic facets, CGI modelling, glossy plastic, photographic face, anime, airbrush or hyperdetail.\n\nSTRICT CHARACTER-ONLY: Absolutely no location vignette, scenery, landscape, rooms, windows, floor or terrain patches under boots, rocks, plants, horizon, scenic backdrop, decorative prose, crowd, second person, stage screen or stage setting. Every study floats cleanly on uninterrupted warm ivory; no painted ground shadow or pedestal. No borders or panel boxes. Only the exact title/name and concise labels listed. Show the same coherent character from every view."
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_1 visual inspection of swatch-removal candidate and saved pixels",
+        "sourceSha256": "607826d3c99e9d5ea9d17c3f554d59aab38c43e138d6ec27ab37d67828a75f07",
+        "outputSha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-c939-7811-9ea4-c3c059cf9553/exec-a489545a-a4c6-4249-8148-5bc866b1f81b.png",
+            "role": "sole edit target; preserve all character art, text, proportions and paint exactly, remove only lower-right paint swatches",
+            "inspected": true,
+            "sha256": "8bc1f7387d15b90089bdc736362813c1cbf9328de99fc332e2e6b0b9256e4bf3",
+            "notes": "Previous selected Kelro sheet inspected at full view; five paint swatches present at lower right. Immutable source retained outside package."
+          }
+        ],
+        "evidence": [
+          "User-requested five paint swatches removed; lower-right strip now uninterrupted quiet ivory. No palette, samples or replacement marks.",
+          "1536x1024 RGB 3:2 canvas retained; exact Kelro and A Busy Year for Dying titles and all eight detail/view labels remain readable.",
+          "Three full uncropped human views, two same-person heads and three costume studies retain arrangement, coherent identity, anatomy and supported workwear.",
+          "No location, terrain patch, scene, backdrop, wound or invented gear.",
+          "Broad red wool planes, directional shirt strokes and decisively painted facial planes remain. Narrow edit slightly repainted existing strokes but introduced no visual identity or layout change.",
+          "Saved canonical PNG is byte-identical to inspected generated candidate. Immutable previous candidate retained as edit reference.",
+          "Independent reviewer confirmed coherent identity, quilted red coat and repairs, source-supported clothing and states, painted facial planes, no scenes or swatches."
+        ],
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "cast_batch_2",
+          "evidence": "Independent reviewer confirmed coherent identity, quilted red coat and repairs, source-supported clothing and states, painted facial planes, no scenes or swatches."
+        },
+        "userApproval": "Pending actual user feedback on these exact character-only, swatch-free preview bytes. Full collection run is not approved.",
+        "specificationSha256": "8d3e69ca10fd75d4b9c86f87a69bbdf9f6564517c9a8c81075b8fb09822c32a1",
+        "reviewedAt": "2026-09-23T20:04:11.580382+00:00"
+      },
+      "outputSha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+    },
+    {
+      "id": "ruldo",
+      "name": "Ruldo",
+      "role": "substantial supporting wagon owner and moral counterweight",
+      "selectionEvidence": [
+        {
+          "quote": "Ruldo found him an empty signal hut on a strip of cinders beyond the tents and lent him a blanket.",
+          "lines": "43",
+          "explanation": "Offers shelter and practical care that Kelro later betrays."
+        },
+        {
+          "quote": "I sat out there all night. Thought you might call from underneath.",
+          "lines": "177",
+          "explanation": "His vigil makes the cost of Kelro's deception central."
+        },
+        {
+          "quote": "Tell them who you are. What you did.",
+          "lines": "295",
+          "explanation": "Insists on public accountability before the performance."
+        }
+      ],
+      "form": "human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human man; no unusual anatomy described.",
+        "lifeStage": "Adult implied by wagon trade and responsibility; precise age unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "None specified.",
+        "materials": "Practical travel cloth; ordinary skin.",
+        "clothing": "Clothes have a pocket large enough for a spoon; exact garments and colours unspecified.",
+        "equipment": "Trading wagon with lamp oil and salt, sack over shoulder, bent spoon with cloth-wrapped handle, borrowed blanket.",
+        "scale": "Ordinary adult human.",
+        "movement": "Carries loads, touches sleeve to confirm Kelro is alive, holds spoon, waits firmly beside canvas.",
+        "distinctiveFeatures": "No established hair/eye/skin colour or facial hair."
+      },
+      "explicitCanon": [
+        "Ruldo is the wagon owner who lends Kelro a blanket and shelter.",
+        "Has a sister with a leg sore, but no confirmed cure occurs.",
+        "Recognizes the same man beneath false identities."
+      ],
+      "visualInterpretation": [
+        "Middle-aged-looking broad practical build, short brown hair and weathered neutral face; explicitly casting choices.",
+        "Worn brown/blue work jacket and trousers, sack and spoon studies; no invented armor, insignia or magical traits.",
+        "Expressions show concern and contained anger, not caricatured hostility."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "a-busy-year-for-dying:ruldo",
+        "links": [],
+        "evidence": "No matching named character entry found in universe/characters.md or rules.md. Kelro aliases established within story only; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/title-image.jpg",
+          "role": "existing identity and costume reference; translate rendering to Sculpted Impasto",
+          "inspected": true,
+          "notes": "Young-to-middle adult-looking slim dark-haired man leaving quarry in grey shirt and trousers; red textured wool coat under stone. Preserve ordinary human silhouette and worn workwear. No permanent facial wound.",
+          "sha256": "b1a8b4e7904a03b8366bc0f521d7011788d8fed5a76edfe9d0338a9ac8f4ca5a"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/interiors/02-lamp-and-borrowed-blanket.png",
+          "role": "story interior palette, lighting and material paint handling",
+          "inspected": true,
+          "notes": "Signal hut with oil-lamp amber light, slate-blue shadows, rough plank walls and red-grey-green woven blanket. Raised broken paint describes wood and cloth.",
+          "sha256": "b9fc95578c61e5b095174f2058ed7d4b06c0c39ded16e5effbee03c965735c9d"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Landscape ivory sheet; interlocking heavy paint masses and bristle/knife texture across faces and bodies. Human subject, armour and cloak are not character templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/a-busy-year-for-dying/art/characters/ruldo.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "glessa",
+      "name": "Glessa",
+      "role": "substantial supporting clothes trader and eventual performance partner",
+      "selectionEvidence": [
+        {
+          "quote": "She had a long pin between her lips and several shorter ones stuck in the cuff of her own coat.",
+          "lines": "51",
+          "explanation": "Specific working gesture and costume detail identify the trader."
+        },
+        {
+          "quote": "Food, a place on the cart, and you keep the coat",
+          "lines": "355",
+          "explanation": "Her offered arrangement determines the protagonist's new life."
+        }
+      ],
+      "form": "human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human woman; no unusual anatomy described.",
+        "lifeStage": "Adult implied; exact age unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "None specified.",
+        "materials": "Her coat and cloth stock; sewing pins; cracked tin of red lip salve.",
+        "clothing": "Own coat with several short pins in cuff. Other colours and cut unspecified.",
+        "equipment": "Clothes cart and hanging rail, long sewing pin, mended red coat as trade stock, lip-salve tin, orange fringed shawl as stage flame.",
+        "scale": "Ordinary adult human.",
+        "movement": "Mends, rearranges garments, folds coat over arm, counts takings and manages audience.",
+        "distinctiveFeatures": "Practical pin storage at cuff; alert evaluative posture."
+      },
+      "explicitCanon": [
+        "Clothes trader who mends the red coat twice.",
+        "Demands Kelro demonstrate his claimed performances and offers cart work until thaw."
+      ],
+      "visualInterpretation": [
+        "Mature adult appearance, hair tied clear of work; earthy olive-grey coat distinct from Kelro's red wool.",
+        "Tools and textiles convey trade; do not dress her as a medieval adventurer.",
+        "Pin-held-at-lips study optional; larger overall views keep expression and hands legible in broad impasto."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "a-busy-year-for-dying:glessa",
+        "links": [],
+        "evidence": "No matching named character entry found in universe/characters.md or rules.md. Kelro aliases established within story only; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/title-image.jpg",
+          "role": "existing identity and costume reference; translate rendering to Sculpted Impasto",
+          "inspected": true,
+          "notes": "Young-to-middle adult-looking slim dark-haired man leaving quarry in grey shirt and trousers; red textured wool coat under stone. Preserve ordinary human silhouette and worn workwear. No permanent facial wound.",
+          "sha256": "b1a8b4e7904a03b8366bc0f521d7011788d8fed5a76edfe9d0338a9ac8f4ca5a"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/interiors/02-lamp-and-borrowed-blanket.png",
+          "role": "story interior palette, lighting and material paint handling",
+          "inspected": true,
+          "notes": "Signal hut with oil-lamp amber light, slate-blue shadows, rough plank walls and red-grey-green woven blanket. Raised broken paint describes wood and cloth.",
+          "sha256": "b9fc95578c61e5b095174f2058ed7d4b06c0c39ded16e5effbee03c965735c9d"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Landscape ivory sheet; interlocking heavy paint masses and bristle/knife texture across faces and bodies. Human subject, armour and cloak are not character templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/a-busy-year-for-dying/art/characters/glessa.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    }
+  ]
+}
