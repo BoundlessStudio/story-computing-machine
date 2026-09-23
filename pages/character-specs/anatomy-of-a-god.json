@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "slug": "anatomy-of-a-god",
+  "title": "The Anatomy of a God",
+  "source": "stories/anatomy-of-a-god/story.md",
+  "sourceSha256": "5210b264a446ea4739989a6f5bf7c6d8c7543e14a21f1136d934681d9162fdde",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full289-line finished prose read. Narrator and regenerating man are principal conflict; stepsister's3sustained active memories supply recognition, contrasted repair anatomy and release ethics, warranting substantial supporting inclusion.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Former patients and sanctuary helpers",
+      "reason": "Collective background references without sustained individual agency."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "System categories LOCKED",
+        "Living agency and magic LOCKED",
+        "Divinity CANON",
+        "Costs, desire, and local mechanisms CANON"
+      ],
+      "lines": "1-72"
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No matching unnamed local identities; no shared name inferred"
+      ]
+    },
+    {
+      "path": "stories/anatomy-of-a-god/prompt.md",
+      "entries": [
+        "Verbatim prompt and active profile context"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "vesrin",
+      "name": "Vesrin",
+      "role": "Unnamed first-person caregiver and escaping protagonist",
+      "selectionEvidence": [
+        {
+          "lines": "13",
+          "quote": "I had spent twelve years with my hands on people at their worst",
+          "explanation": "Experience supports practical escape."
+        },
+        {
+          "lines": "197",
+          "quote": "Held the repairs apart.",
+          "explanation": "Uses observed anatomy to counterattack."
+        },
+        {
+          "lines": "289",
+          "quote": "I shortened the satchel strap.",
+          "explanation": "Ends by escaping up ridge."
+        }
+      ],
+      "form": "Adult human, gender unstated",
+      "storyAppearance": {
+        "anatomy": "No specific anatomy beyond hands/hair/ordinary human body.",
+        "lifeStage": "Adult with12years care experience.",
+        "proportions": "Unspecified; interpret sturdy average adult.",
+        "markings": "No stable marking specified.",
+        "materials": "Human skin, coat/boots, medical canvas/leather.",
+        "clothing": "Coat later left in attacker's hand; boots; underclothes unspecified.",
+        "equipment": "Satchel, bandage rolls,3stoppered vials, shears, recovery web coil with wooden tension bar broken; broken ceremonial knife left behind at end.",
+        "scale": "Human adult",
+        "movement": "Practical bracing/dodging, weight against straps, climbs with satchel.",
+        "distinctiveFeatures": "Care-based recovery knowledge; humane accessible release buckle."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Narrator has12years of emergency/recovery care experience.",
+        "Local non-canon story fact: Coat and boots, satchel with bandages,3vials, shears, recovery web.",
+        "Local non-canon story fact: Regenerating stepsister provides care experience; no narrator regeneration established."
+      ],
+      "visualInterpretation": [
+        "Art name Vesrin user-authorized; gender unstated, choose androgynous40-year-old.",
+        "Tawny olive skin, cropped straight black hair, square jaw; slate travelcoat, grey linen shirt, ochre trousers and brown boots.",
+        "No lasting scars or combat armor invented."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Coat and satchel."
+        },
+        {
+          "name": "Escape",
+          "description": "Coat lost, medical satchel recovered; no knife."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed first-person caregiver and escaping protagonist",
+        "displayName": "Vesrin",
+        "provenance": "New personal art-only name under explicit user authorization; no collisions in universe, NAMES or current/bundle prose; source/canon unchanged."
+      },
+      "recurrence": {
+        "identityKey": "anatomy-of-a-god:vesrin",
+        "links": [],
+        "evidence": "Unnamed local figure; no relation to other regenerators inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Style only; exclude reference identity and heading",
+          "inspected": true,
+          "notes": "Broad oil masses and selective impasto on ivory.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+          "role": "Same-story warm mineral reflected light and paint only; no setting",
+          "inspected": true,
+          "notes": "Warm ochre supports against cool water, no figures.",
+          "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+          "role": "Storm light/palette and brushwork only",
+          "inspected": true,
+          "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+          "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/title-image.jpg",
+          "role": "Inspected symbolic cover, NOT character identity or literal anatomy",
+          "inspected": true,
+          "notes": "Headless stone torso with luminous cracks and slings is symbolic; prose explicitly non-glowing flesh. Not sent to generation.",
+          "sha256": "10e553b7c610fc8c52e87c9530feae27ff4336968a8d2e6879a3c480f7f27e5e"
+        }
+      ],
+      "output": "stories/anatomy-of-a-god/art/characters/vesrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one1536x1024 landscape ivory character-only folio. Print ONLY the requested character name as heading, NEVER Kelro or any reference name; exact title The Anatomy of a God beneath. 2-3 complete unclipped form views, a few expression/gear details with concise labels. NO scenery, floor patches, ground, setting, vignettes, swatches or decorative prose. Canadian Group of Seven inspired OIL: large CONNECTED light/dark and colour masses, broad bristle strokes, selective substantial impasto with quieter joining passages; faces/hair as painted as cloth. No uniform bevel-lit chips, CGI, glossy eyes, anime or polished digital skin. Kelro sheet reference rendering STYLE ONLY, don't copy its face/name/clothes. Same-story storm landscape/interior supplies cool wet greys and restrained reflected warm ochre, not scenery. Source cover symbol must not create stone skin or glowing cracks. Heading EXACT Vesrin. One androgynous adult40, tawny olive skin, cropped straight black hair, square jaw, sturdy average build. NOT Kelro. Slate practical travelcoat, grey linen shirt, ochre trousers and brown worn boots; canvas/leather medical satchel. Three coherent full forms Arrival front coat on, Rear coat on, Escape coat OFF exposing same grey shirt with satchel but no knife. Heads Observing and Exhausted. Gear: open satchel with rolled bandages, THREE stoppered vials, shears and coiled recovery web with release buckle and a wooden tensionbar (intact reference to usual gear); label Medical kit. One clasp/release handdetail. No magic/anatomy overlays, no weapons raised, no gore or drawn surroundings.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Style only; exclude reference identity and heading",
+            "inspected": true,
+            "notes": "Broad oil masses and selective impasto on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+            "role": "Same-story warm mineral reflected light and paint only; no setting",
+            "inspected": true,
+            "notes": "Warm ochre supports against cool water, no figures.",
+            "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+            "role": "Storm light/palette and brushwork only",
+            "inspected": true,
+            "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+            "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create one1536x1024 landscape ivory character-only folio. Print ONLY the requested character name as heading, NEVER Kelro or any reference name; exact title The Anatomy of a God beneath. 2-3 complete unclipped form views, a few expression/gear details with concise labels. NO scenery, floor patches, ground, setting, vignettes, swatches or decorative prose. Canadian Group of Seven inspired OIL: large CONNECTED light/dark and colour masses, broad bristle strokes, selective substantial impasto with quieter joining passages; faces/hair as painted as cloth. No uniform bevel-lit chips, CGI, glossy eyes, anime or polished digital skin. Kelro sheet reference rendering STYLE ONLY, don't copy its face/name/clothes. Same-story storm landscape/interior supplies cool wet greys and restrained reflected warm ochre, not scenery. Source cover symbol must not create stone skin or glowing cracks. Heading EXACT Vesrin. One androgynous adult40, tawny olive skin, cropped straight black hair, square jaw, sturdy average build. NOT Kelro. Slate practical travelcoat, grey linen shirt, ochre trousers and brown worn boots; canvas/leather medical satchel. Three coherent full forms Arrival front coat on, Rear coat on, Escape coat OFF exposing same grey shirt with satchel but no knife. Heads Observing and Exhausted. Gear: open satchel with rolled bandages, THREE stoppered vials, shears and coiled recovery web with release buckle and a wooden tensionbar (intact reference to usual gear); label Medical kit. One clasp/release handdetail. No magic/anatomy overlays, no weapons raised, no gore or drawn surroundings.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Style only; exclude reference identity and heading",
+                "inspected": true,
+                "notes": "Broad oil masses and selective impasto on ivory.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+                "role": "Same-story warm mineral reflected light and paint only; no setting",
+                "inspected": true,
+                "notes": "Warm ochre supports against cool water, no figures.",
+                "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+              },
+              {
+                "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+                "role": "Storm light/palette and brushwork only",
+                "inspected": true,
+                "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+                "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+              }
+            ],
+            "startedAt": "2026-09-23T22:11:48.194448+00:00",
+            "preflight": "Full prose and authority read; all selected refs inspected. Symbolic cover excluded from literal identity; no graphic injuries, source states and personal art naming resolved.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-614ac647-a7c7-4d9c-9632-9c3feb23f8c7.png",
+            "candidateSha256": "a0bdb59b31495e05221303e9ed175a8f25f28e8f6e885053728bdf2f8d4d7a06",
+            "completedAt": "2026-09-23T22:22:48.777114+00:00",
+            "visualInspection": [
+              "Exact art name and source title; same adult human identity across coat-on/rear/coat-off views, satchel same hip.",
+              "Medical kit has3stoppered vials, shears, rolls and web/buckle; no weapon retained in escape form.",
+              "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "5210b264a446ea4739989a6f5bf7c6d8c7543e14a21f1136d934681d9162fdde",
+        "outputSha256": "a0bdb59b31495e05221303e9ed175a8f25f28e8f6e885053728bdf2f8d4d7a06",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Style only; exclude reference identity and heading",
+            "inspected": true,
+            "notes": "Broad oil masses and selective impasto on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+            "role": "Same-story warm mineral reflected light and paint only; no setting",
+            "inspected": true,
+            "notes": "Warm ochre supports against cool water, no figures.",
+            "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+            "role": "Storm light/palette and brushwork only",
+            "inspected": true,
+            "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+            "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+          }
+        ],
+        "evidence": [
+          "Exact art name and source title; same adult human identity across coat-on/rear/coat-off views, satchel same hip.",
+          "Medical kit has3stoppered vials, shears, rolls and web/buckle; no weapon retained in escape form.",
+          "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "9292044f130eb204071eea3acd5ee04fdb4f65cda0227d53183305dd7f936765"
+      },
+      "outputSha256": "a0bdb59b31495e05221303e9ed175a8f25f28e8f6e885053728bdf2f8d4d7a06"
+    },
+    {
+      "id": "auldris",
+      "name": "Auldris",
+      "role": "Unnamed regenerating sanctuary owner and central antagonist who claims godhood",
+      "selectionEvidence": [
+        {
+          "lines": "21",
+          "quote": "His face had returned to its grave, handsome arrangement",
+          "explanation": "Explicit presentation and temporarily unsynchronized eyes."
+        },
+        {
+          "lines": "59",
+          "quote": "His renewed skin shone with sweat.",
+          "explanation": "Regeneration costs visible heat/water."
+        },
+        {
+          "lines": "135",
+          "quote": "one pupil wider than the other and salt dried white below his ear",
+          "explanation": "Specific aftereffect details."
+        },
+        {
+          "lines": "277",
+          "quote": "There are many of me?",
+          "explanation": "His challenged status closes encounter."
+        }
+      ],
+      "form": "Human-shaped living regenerator; claimed godhood unsettled",
+      "storyAppearance": {
+        "anatomy": "Handsome human man, strong; temporary mismatched pupils/eye tracking and locked right knee; offset overlapping repair load paths not visible glowing lines.",
+        "lifeStage": "Adult; age unspecified.",
+        "proportions": "Unspecified, interpret tall strong adult.",
+        "markings": "Sweat and salt dried white below ear; no permanent visible scar established.",
+        "materials": "Living flesh and wet cloth, not stone, metallic or luminous.",
+        "clothing": "Torn coat, bare feet; trousers underneath interpreted.",
+        "equipment": "No personal weapon stated; temporarily restrained at shoulder/hip by recovery slings.",
+        "scale": "Human adult",
+        "movement": "Fast deliberate movement becomes stumble/locked right knee/tremor, then stillness.",
+        "distinctiveFeatures": "Grave handsome face, asymmetrical postrepair coordination, forceful bearing reduced to uncertainty."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Human-appearing man claiming godhood, not conclusively confirmed.",
+        "Local non-canon story fact: Regeneration does not glow; releases heat, consumes water, leaves salt/sweat and temporarily uneven tracking/coordination.",
+        "Local non-canon story fact: Torn coat, barefoot; facial beauty restored; no statue anatomy."
+      ],
+      "visualInterpretation": [
+        "Art name Auldris user-authorized; visual adult40s, bronze skin, long black hair tied low, tall strong. Broader jaw/neck, long slightly hooked nose, hooded dark eyes and short graying dark beard distinguish from narrator; all unspecified appearance interpretation.",
+        "Worn navy ceremonial longcoat with dull bronze edging, cream trousers; no crown or halo.",
+        "Select non-graphic closed-skin postrepair state and fatigued detail; no visible repair-path diagram invented."
+      ],
+      "states": [
+        {
+          "name": "Regenerated",
+          "description": "Whole living flesh, damp torn coat, sweat, barefoot."
+        },
+        {
+          "name": "Fatigued",
+          "description": "Unequal pupil sizes, salt below ear and trembling hand, no glow."
+        },
+        {
+          "name": "Stillness",
+          "description": "Face stops grand performance, shoulders settle."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed regenerating sanctuary owner and central antagonist who claims godhood",
+        "displayName": "Auldris",
+        "provenance": "New personal art-only name under explicit user authorization; no collisions in universe, NAMES or current/bundle prose; source/canon unchanged."
+      },
+      "recurrence": {
+        "identityKey": "anatomy-of-a-god:auldris",
+        "links": [],
+        "evidence": "Unnamed local figure; no relation to other regenerators inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Style only; exclude reference identity and heading",
+          "inspected": true,
+          "notes": "Broad oil masses and selective impasto on ivory.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+          "role": "Same-story warm mineral reflected light and paint only; no setting",
+          "inspected": true,
+          "notes": "Warm ochre supports against cool water, no figures.",
+          "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+          "role": "Storm light/palette and brushwork only",
+          "inspected": true,
+          "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+          "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/title-image.jpg",
+          "role": "Inspected symbolic cover, NOT character identity or literal anatomy",
+          "inspected": true,
+          "notes": "Headless stone torso with luminous cracks and slings is symbolic; prose explicitly non-glowing flesh. Not sent to generation.",
+          "sha256": "10e553b7c610fc8c52e87c9530feae27ff4336968a8d2e6879a3c480f7f27e5e"
+        }
+      ],
+      "output": "stories/anatomy-of-a-god/art/characters/auldris.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Targeted revision of this1536x1024 Auldris sheet; keep exact Auldris heading and The Anatomy of a God title, layout, ivory, clothes colours, barefeet, tied long black hair, gear-free format and broad sculpted oil technique. Make Auldris a DISTINCT mature40s man in EVERY face view: broader/heavier jaw and neck, long slightly hooked strong nose, deeper-set hooded dark eyes, short close-cropped dark BEARD and moustache with a few grey hairs. Retain handsome grave expression; visibly mature, not young model. Same updated likeness in fullfront and three head studies, plus compatible beard visible from rear. He must not resemble a clean-shaven young caregiver. No racial stereotype, no exaggerated caricature. Correct the chest garment detail: REMOVE sewn patch and stitching from fullfront and close torso study, replace with a simple small ragged TEAR in navy coat revealing ordinary cream shirt under it, no skin wound or blood. Change Repaired area caption to Torn coat. Regeneration repairs flesh only; coat stays torn. Preserve all other text, five-finger Tremor hand, salt beneath ear in Fatigued head, no glow, no stone skin, no scenery or swatches.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-26716672-1b13-4e84-8235-96e72e58e7ba.png",
+            "role": "reviewed candidate edit target; distinguish face and correct torn cloth",
+            "sha256": "e35a2675ecb1db61a4f9ed8a0e1e54aa4dc74fd01e1f49c19c685c5403ec4914",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create one1536x1024 landscape ivory character-only folio. Print ONLY the requested character name as heading, NEVER Kelro or any reference name; exact title The Anatomy of a God beneath. 2-3 complete unclipped form views, a few expression/gear details with concise labels. NO scenery, floor patches, ground, setting, vignettes, swatches or decorative prose. Canadian Group of Seven inspired OIL: large CONNECTED light/dark and colour masses, broad bristle strokes, selective substantial impasto with quieter joining passages; faces/hair as painted as cloth. No uniform bevel-lit chips, CGI, glossy eyes, anime or polished digital skin. Kelro sheet reference rendering STYLE ONLY, don't copy its face/name/clothes. Same-story storm landscape/interior supplies cool wet greys and restrained reflected warm ochre, not scenery. Source cover symbol must not create stone skin or glowing cracks. Heading EXACT Auldris. One handsome grave adult MAN40s, bronze human skin, tall strong body, long BLACK hair tied low, clean-shaven strong angular face. Living flesh, NO stone texture, fissures, glowing repair lines, halo or crown. Worn NAVY ceremonial longcoat dull bronze piping, a small repaired/torn cloth area at upper chest but CLOSED uninjured skin and no blood; cream trousers and BARE FEET. Two complete front and rear forms same size and clothing, front grave commanding posture but slight uneven balance after repair. Face studies Commanding and Questioning retain likeness; a small Fatigued head showing subtle unequal pupils (right slightly wider) and fine white salt below one ear, sweat suggested by sparse paint NOT gloss. Hand study Tremor open fivefinger hand. No regeneration glow or fresh wounds. Support knowledge through visible aftereffects, don't invent glowing anatomy or depict torture restraint apparatus. Cool storm fill, mild heat flush only.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Style only; exclude reference identity and heading",
+                "inspected": true,
+                "notes": "Broad oil masses and selective impasto on ivory.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+                "role": "Same-story warm mineral reflected light and paint only; no setting",
+                "inspected": true,
+                "notes": "Warm ochre supports against cool water, no figures.",
+                "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+              },
+              {
+                "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+                "role": "Storm light/palette and brushwork only",
+                "inspected": true,
+                "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+                "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+              }
+            ],
+            "startedAt": "2026-09-23T22:11:48.211146+00:00",
+            "preflight": "Full prose and authority read; all selected refs inspected. Symbolic cover excluded from literal identity; no graphic injuries, source states and personal art naming resolved.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-26716672-1b13-4e84-8235-96e72e58e7ba.png",
+            "candidateSha256": "e35a2675ecb1db61a4f9ed8a0e1e54aa4dc74fd01e1f49c19c685c5403ec4914",
+            "visualInspection": [
+              "Name/form/feet/hair and no-glow source handling passed, but face too similar to caregiver; stronger mature interpreted identity selected.",
+              "Sewn coat patch/Repaired area label could falsely imply garment repair; change to source torn coat."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Targeted revision of this1536x1024 Auldris sheet; keep exact Auldris heading and The Anatomy of a God title, layout, ivory, clothes colours, barefeet, tied long black hair, gear-free format and broad sculpted oil technique. Make Auldris a DISTINCT mature40s man in EVERY face view: broader/heavier jaw and neck, long slightly hooked strong nose, deeper-set hooded dark eyes, short close-cropped dark BEARD and moustache with a few grey hairs. Retain handsome grave expression; visibly mature, not young model. Same updated likeness in fullfront and three head studies, plus compatible beard visible from rear. He must not resemble a clean-shaven young caregiver. No racial stereotype, no exaggerated caricature. Correct the chest garment detail: REMOVE sewn patch and stitching from fullfront and close torso study, replace with a simple small ragged TEAR in navy coat revealing ordinary cream shirt under it, no skin wound or blood. Change Repaired area caption to Torn coat. Regeneration repairs flesh only; coat stays torn. Preserve all other text, five-finger Tremor hand, salt beneath ear in Fatigued head, no glow, no stone skin, no scenery or swatches.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-26716672-1b13-4e84-8235-96e72e58e7ba.png",
+                "role": "reviewed candidate edit target; distinguish face and correct torn cloth",
+                "sha256": "e35a2675ecb1db61a4f9ed8a0e1e54aa4dc74fd01e1f49c19c685c5403ec4914",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T22:18:40.951952+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-996eb81f-8bde-4fb9-93a8-f32d16a3fdbd.png",
+            "candidateSha256": "3494c7d8a417c723fd0147a3b09c58d72fb8dcc21fc9922a927e931eb5701761",
+            "completedAt": "2026-09-23T22:22:48.782261+00:00",
+            "visualInspection": [
+              "Distinct mature bearded male identity across full form and heads, no caregiver face confusion.",
+              "Bare feet, tied dark hair, torn coat with ordinary cloth showing; previous sewn repair removed.",
+              "Subtle salt/sweat, fatigued expression and tremor hand; living flesh without glowing lines, stone skin, crown or conclusively divine iconography.",
+              "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "5210b264a446ea4739989a6f5bf7c6d8c7543e14a21f1136d934681d9162fdde",
+        "outputSha256": "3494c7d8a417c723fd0147a3b09c58d72fb8dcc21fc9922a927e931eb5701761",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-26716672-1b13-4e84-8235-96e72e58e7ba.png",
+            "role": "reviewed candidate edit target; distinguish face and correct torn cloth",
+            "sha256": "e35a2675ecb1db61a4f9ed8a0e1e54aa4dc74fd01e1f49c19c685c5403ec4914",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Distinct mature bearded male identity across full form and heads, no caregiver face confusion.",
+          "Bare feet, tied dark hair, torn coat with ordinary cloth showing; previous sewn repair removed.",
+          "Subtle salt/sweat, fatigued expression and tremor hand; living flesh without glowing lines, stone skin, crown or conclusively divine iconography.",
+          "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "d761df09167fe2a4ee70ad3fcc7765b1c02b839b504679eb20bf15b3a13873e5"
+      },
+      "outputSha256": "3494c7d8a417c723fd0147a3b09c58d72fb8dcc21fc9922a927e931eb5701761"
+    },
+    {
+      "id": "mireya",
+      "name": "Mireya",
+      "role": "Narrator's unnamed regenerating stepsister; substantial remembered caregiver/patient whose consent and recovery lessons drive the solution",
+      "selectionEvidence": [
+        {
+          "lines": "31",
+          "quote": "She had come home from a roof collapse",
+          "explanation": "First recovery memory gives narrator recognition."
+        },
+        {
+          "lines": "87",
+          "quote": "Her body mended along two broad chains that crossed through her trunk.",
+          "explanation": "Specific recovery pattern explains attempted method."
+        },
+        {
+          "lines": "157",
+          "quote": "she made me practice the release buckle on the recovery web",
+          "explanation": "Her insistence on safe release determines ethical escape design."
+        }
+      ],
+      "form": "Adult human woman with regeneration",
+      "storyAppearance": {
+        "anatomy": "Human woman, all bones apparently mended after roof collapse; repairs can disrupt balance/strength.",
+        "lifeStage": "Adult sister; age unspecified.",
+        "proportions": "Unspecified, choose medium stout adult.",
+        "markings": "Flour briefly on face after fall is incident, no permanent repair scar established.",
+        "materials": "Ordinary living skin and cloth; no glow or exposed mechanism.",
+        "clothing": "Home clothes unspecified.",
+        "equipment": "Tin cup, spoon, recovery web with accessible release buckle; tray in memory.",
+        "scale": "Human adult",
+        "movement": "Initially unbalanced after repair; shaking hands when depleted; later demonstrates buckle firmly.",
+        "distinctiveFeatures": "Experienced regenerator who insists caregiver must release web in fear/half-sleep."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Stepsister, living regenerator with two broad crossing repair chains, different from sanctuary man's overlapping offset mechanism.",
+        "Local non-canon story fact: Temporary imbalance and shakes after repair; salt and broth/water aid depletion in local account.",
+        "Local non-canon story fact: Teaches quick-release buckle practice and refuses unsafe use."
+      ],
+      "visualInterpretation": [
+        "Art name Mireya user-authorized; visual adultlate30s, warm brown skin, close braided dark hair gathered low, round freckled face, sturdy medium build.",
+        "Soft faded rust cardigan, pale green blouse, charcoal trousers and slippers; unspecified domestic wardrobe.",
+        "Ordinary healed appearance, no glow, visible repair-chain map or permanent injury invented."
+      ],
+      "states": [
+        {
+          "name": "Recovered",
+          "description": "Steady, teaches release buckle."
+        },
+        {
+          "name": "After repair",
+          "description": "Hands weak around a tin cup; tired attentive face."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Narrator's unnamed regenerating stepsister; substantial remembered caregiver/patient whose consent and recovery lessons drive the solution",
+        "displayName": "Mireya",
+        "provenance": "New personal art-only name under explicit user authorization; no collisions in universe, NAMES or current/bundle prose; source/canon unchanged."
+      },
+      "recurrence": {
+        "identityKey": "anatomy-of-a-god:mireya",
+        "links": [],
+        "evidence": "Unnamed local figure; no relation to other regenerators inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Style only; exclude reference identity and heading",
+          "inspected": true,
+          "notes": "Broad oil masses and selective impasto on ivory.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/interiors/03-the-mineral-basin.png",
+          "role": "Same-story warm mineral reflected light and paint only; no setting",
+          "inspected": true,
+          "notes": "Warm ochre supports against cool water, no figures.",
+          "sha256": "476448d48d3fc3899e66a7534e24268b8c90aaabe37eb8609e88f09ce12ed7d4"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+          "role": "Storm light/palette and brushwork only",
+          "inspected": true,
+          "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+          "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+        },
+        {
+          "path": "stories/anatomy-of-a-god/title-image.jpg",
+          "role": "Inspected symbolic cover, NOT character identity or literal anatomy",
+          "inspected": true,
+          "notes": "Headless stone torso with luminous cracks and slings is symbolic; prose explicitly non-glowing flesh. Not sent to generation.",
+          "sha256": "10e553b7c610fc8c52e87c9530feae27ff4336968a8d2e6879a3c480f7f27e5e"
+        }
+      ],
+      "output": "stories/anatomy-of-a-god/art/characters/mireya.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one1536x1024 landscape ivory character-only folio. Print ONLY the requested character name as heading, NEVER Kelro or any reference name; exact title The Anatomy of a God beneath. 2-3 complete unclipped form views, a few expression/gear details with concise labels. NO scenery, floor patches, ground, setting, vignettes, swatches or decorative prose. Canadian Group of Seven inspired OIL: large CONNECTED light/dark and colour masses, broad bristle strokes, selective substantial impasto with quieter joining passages; faces/hair as painted as cloth. No uniform bevel-lit chips, CGI, glossy eyes, anime or polished digital skin. Kelro sheet reference rendering STYLE ONLY, don't copy its face/name/clothes. Same-story storm landscape/interior supplies cool wet greys and restrained reflected warm ochre, not scenery. Source cover symbol must not create stone skin or glowing cracks. Heading EXACT Mireya. One adult woman late30s, warm brown skin, round lightly freckled face, closely braided DARK hair gathered low, sturdy medium build, ordinary human body. Soft faded RUST cardigan over pale green blouse, charcoal trousers, simple slippers. Two full upright front and rear forms recovered and steady, same likeness/wardrobe. Third halfbody After repair weak careful hands around light tin cup, visibly tired but alert, no wounds or active death. Head Firm (teaching safety) and Wry smile. Gear/detail recovery-web release buckle demonstrated open by her fingers, tin spoon and cup. No glowing crossed repair lines, scars, muscles cutaway, broken bones or fall scene; regeneration is not exposed anatomy. Quieter warm home-recollection light, same collection brushwork; references only style/palette, NO mineral basin objects or sanctuary costume.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Style only; exclude reference identity and heading",
+            "inspected": true,
+            "notes": "Broad oil masses and selective impasto on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+            "role": "Storm light/palette and brushwork only",
+            "inspected": true,
+            "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+            "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create one1536x1024 landscape ivory character-only folio. Print ONLY the requested character name as heading, NEVER Kelro or any reference name; exact title The Anatomy of a God beneath. 2-3 complete unclipped form views, a few expression/gear details with concise labels. NO scenery, floor patches, ground, setting, vignettes, swatches or decorative prose. Canadian Group of Seven inspired OIL: large CONNECTED light/dark and colour masses, broad bristle strokes, selective substantial impasto with quieter joining passages; faces/hair as painted as cloth. No uniform bevel-lit chips, CGI, glossy eyes, anime or polished digital skin. Kelro sheet reference rendering STYLE ONLY, don't copy its face/name/clothes. Same-story storm landscape/interior supplies cool wet greys and restrained reflected warm ochre, not scenery. Source cover symbol must not create stone skin or glowing cracks. Heading EXACT Mireya. One adult woman late30s, warm brown skin, round lightly freckled face, closely braided DARK hair gathered low, sturdy medium build, ordinary human body. Soft faded RUST cardigan over pale green blouse, charcoal trousers, simple slippers. Two full upright front and rear forms recovered and steady, same likeness/wardrobe. Third halfbody After repair weak careful hands around light tin cup, visibly tired but alert, no wounds or active death. Head Firm (teaching safety) and Wry smile. Gear/detail recovery-web release buckle demonstrated open by her fingers, tin spoon and cup. No glowing crossed repair lines, scars, muscles cutaway, broken bones or fall scene; regeneration is not exposed anatomy. Quieter warm home-recollection light, same collection brushwork; references only style/palette, NO mineral basin objects or sanctuary costume.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Style only; exclude reference identity and heading",
+                "inspected": true,
+                "notes": "Broad oil masses and selective impasto on ivory.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+                "role": "Storm light/palette and brushwork only",
+                "inspected": true,
+                "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+                "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+              }
+            ],
+            "startedAt": "2026-09-23T22:11:48.224569+00:00",
+            "preflight": "Full prose and authority read; all selected refs inspected. Symbolic cover excluded from literal identity; no graphic injuries, source states and personal art naming resolved.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-a327f848-7742-475f-87ed-9980d72a61b7.png",
+            "candidateSha256": "39f2a3f52d0368a42cb74b4e1632b84686623de676be5c83b39e2d90aa3ad329",
+            "completedAt": "2026-09-23T22:22:48.786419+00:00",
+            "visualInspection": [
+              "Consistent adult woman with braided low hair, source-supported cup/spoon and safe quick-release buckle demonstration.",
+              "Recovery fatigue shown without injury, glowing anatomy or invented transformation; same ordinary body across states.",
+              "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "5210b264a446ea4739989a6f5bf7c6d8c7543e14a21f1136d934681d9162fdde",
+        "outputSha256": "39f2a3f52d0368a42cb74b4e1632b84686623de676be5c83b39e2d90aa3ad329",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Style only; exclude reference identity and heading",
+            "inspected": true,
+            "notes": "Broad oil masses and selective impasto on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/anatomy-of-a-god/art/landscapes/04-the-lower-slope.png",
+            "role": "Storm light/palette and brushwork only",
+            "inspected": true,
+            "notes": "Wet slate/cool grey slopes and ochre rain highlights; no people.",
+            "sha256": "62a18bdf27bb7e41ba1f2fbd9b46a298fe9455533392a6f46e3b772f18af90e8"
+          }
+        ],
+        "evidence": [
+          "Consistent adult woman with braided low hair, source-supported cup/spoon and safe quick-release buckle demonstration.",
+          "Recovery fatigue shown without injury, glowing anatomy or invented transformation; same ordinary body across states.",
+          "Unclipped whole figures, readable labels, quiet ivory; no location, floor patches or swatches. Broad painted masses throughout face/hair/clothes with selective impasto."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "412d5e582b423a1010537647b70b4588539c2bf91cd9a9bd48a6d0f2f07e6a3d"
+      },
+      "outputSha256": "39f2a3f52d0368a42cb74b4e1632b84686623de676be5c83b39e2d90aa3ad329"
+    }
+  ]
+}
