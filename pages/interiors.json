@@ -969,19 +969,26 @@
           "id": "01-the-kept-place",
           "title": "The kept place",
           "alt": "The kept place — oil interior study for A Place for the Living",
-          "source": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
-          "sourceSha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5",
+          "source": "pages/interior-replacements/a-place-for-the-living/01-the-kept-place.png",
+          "sourceSha256": "2543a5942e1a7cb04b440018246cae007db64ccca8c4d0f8d26b27c0f5721d71",
           "full": {
-            "path": "interiors/a-place-for-the-living/01-the-kept-place-ef1a90688c85026c.webp",
-            "sha256": "afc03f8e2a722b19d11e6bb666fb6c3a757ec23a390259c694e357515c3fe117",
+            "path": "interiors/a-place-for-the-living/01-the-kept-place-2543a5942e1a7cb0.webp",
+            "sha256": "83b30d50f81d7395ef7b3069c45d43d952ae967dbb8b0d92a49604ae4bc69c89",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-place-for-the-living/01-the-kept-place-ef1a90688c85026c-thumb.webp",
-            "sha256": "3fc54364f3d679ee0d12aa0f89b5d3e84e72ea55d6db30e8cd36ac68d1c4d706",
+            "path": "interiors/a-place-for-the-living/01-the-kept-place-2543a5942e1a7cb0-thumb.webp",
+            "sha256": "a6cae5e1ef83791a8bb7b130bb033fd2573512156a9970cca3b8c05e03051549",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+            "originalSha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5",
+            "correction": "Add a fifth complete setting and chair while retaining the singled-out black-linen kept place.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty candlelit Morrow dining room, the edit target. Correct ONLY the table's meaningful place count. It must have EXACTLY FIVE COMPLETE PLACE SETTINGS and FIVE CHAIRS: four for living diners and one kept place.\nKeep the four existing settings and their four chairs in recognizable positions. ADD ONE additional complete porcelain plate/cutlery/napkin setting on the presently empty NEAR edge of the table toward the center-left foreground, with a matching wooden dining chair at that setting. Slightly widen the framing or make a little room between chairs only if necessary so all FIVE place positions and all FIVE distinct chair backs can be read without overlap or ambiguity. No sixth plate or chair. Each setting has one plate and its own cutlery, spaced naturally around the table.\nThe existing near-right special setting remains the kept place: the distinctive thin white plate with green moth border, black linen beside/around it, black-handled butter knife and face-down blank ivory place card. Its chair stands slightly farther from the table than the other four. Preserve that focus and keep it empty; do not paint a ghost or person.\nPreserve the polished dark wood table, candle arrangement, plant/vase centerpiece, teal/gold patterned wallpaper, rain-dark multi-pane window, sideboard and its objects, door and rug. Keep original expressive Group of Seven-inspired broad oil impasto, warm candle gold against cool teal shadows, 3:2 landscape 1536x1024. No new scenic exterior, people, text overlays, legible writing, headings, signature, watermark, collage, photography or 3D. Count FIVE settings and FIVE chairs before completing the image.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11982,6 +11989,11 @@
       "source": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
       "sourceSha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07",
       "reason": "Extend the tiers far deeper and wider into large simplified seating masses, retaining three levels and the black stage."
+    },
+    {
+      "source": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+      "sourceSha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5",
+      "reason": "Add a fifth complete setting and chair while retaining the singled-out black-linen kept place."
     }
   ]
 }
