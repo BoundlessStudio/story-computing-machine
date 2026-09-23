@@ -10215,38 +10215,52 @@
           "id": "02-the-pressure-map-and-private-hours",
           "title": "The pressure map and private hours",
           "alt": "The pressure map and private hours — oil interior study for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/interiors/02-the-pressure-map-and-private-hours.png",
-          "sourceSha256": "2edd777cedac27711b88a5b50c2d711d0f010e5fcd4d086a8ad4669e883c748b",
+          "source": "pages/interior-replacements/what-i-hate-most/02-the-pressure-map-and-private-hours.png",
+          "sourceSha256": "011d2cf7b825be3b55c36ddb0e110f684a2e8928405cd844a7015388037c6b08",
           "full": {
-            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-2edd777cedac2771.webp",
-            "sha256": "0b315bab6bff653edd6d9cd6a937cac7176688de7e53d4f976c1597ae8a6c2ea",
+            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-011d2cf7b825be3b.webp",
+            "sha256": "78477cc2cb9456275b885940203409b5defb318f553d5ebe34b737f00d35566d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-2edd777cedac2771-thumb.webp",
-            "sha256": "e504eb605b0da83c8b7ff2f051846bbc1bfa1e7deb54797f99b24a3d42dde209",
+            "path": "interiors/what-i-hate-most/02-the-pressure-map-and-private-hours-011d2cf7b825be3b-thumb.webp",
+            "sha256": "f8d017b6166238201734bca848c499e1faff3ad00aad7d30764ba7adf7c6eb31",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-i-hate-most/art/interiors/02-the-pressure-map-and-private-hours.png",
+            "originalSha256": "2edd777cedac27711b88a5b50c2d711d0f010e5fcd4d086a8ad4669e883c748b",
+            "correction": "Replace the large paper map with a rigid slate map and chalk marks. Preserve the separate two-block duty slate, cup and linen; carry through image 01's corrected glass-channel view in the narrow doorway slice.",
+            "prompt": "Use case: precise-object-edit. Correct only the pressure-map material and narrow doorway view in Input 1. Keep 3:2 landscape, preferably 1536x1024.\nInput 1 is the close table EDIT TARGET: preserve its original camera angle and composition, steaming ochre cup, clean linen bandage roll, worn wooden table, dark cloak on the bench, stone wall, and the SEPARATE smaller dark duty slate at lower left with EXACTLY TWO empty outlined chalk blocks.\nInput 2 is the corrected same-room REFERENCE for the pressure map and exterior. Match that same rigid charcoal slate map board, visible thick layered stone edge, modest chipped corners, unlettered fine chalk route network, and EXACTLY FIVE small brass domed contact studs. Replace the large pale paper map in Input 1 with this stone slate board, at the original large map's position and perspective. No curling paper, pale sheet, fabric or light paper rim remains. Keep five brass contacts separate and modest. Do not merge the pressure map with the separate two-block duty slate.\nIn the very narrow doorway slice at upper right, replace snow and water with the same nearby urban gray-masonry defense channel as Input 2, containing cooling round BLACK glass beads and gray mineral dust. Show only the small amount that fits the existing narrow slice. No waterfall, flowing water, snow, trees, rural landscape or molten glow.\nRetain the actual input's expressive Group of Seven-inspired oil painting, broad ochre/blue-gray masses and confident visible impasto. Keep the setting and other objects unchanged. Empty room, no people, hands, readable writing, captions, decorative symbols, signature, watermark, collage, photorealism or 3D insert.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-first-light-through-the-ward-door",
           "title": "First light through the ward door",
           "alt": "First light through the ward door — oil interior study for What I Hate Most",
-          "source": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
-          "sourceSha256": "4aa91ad20e03208be8d6143e91f4e441196ac031136f24471f03759cb451d955",
+          "source": "pages/interior-replacements/what-i-hate-most/03-first-light-through-the-ward-door.png",
+          "sourceSha256": "70a49a314cf3c5a02eb4903b93040803258e7be1d36f054e8065af0e735a1fb6",
           "full": {
-            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-4aa91ad20e03208b.webp",
-            "sha256": "dc4dcad9d863044b612735fc0e3cbd60f49f6f7af8212f3e01633191e356cc72",
+            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-70a49a314cf3c5a0.webp",
+            "sha256": "d2784da6b12321c40db4c104ec9fa64c50ec6d4650947bf430ff9daa828b8462",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-4aa91ad20e03208b-thumb.webp",
-            "sha256": "832dcbfd340d29d9e26c5e6661a697fe32dfb1e14d5cfa1ae6a09e1676d3881b",
+            "path": "interiors/what-i-hate-most/03-first-light-through-the-ward-door-70a49a314cf3c5a0-thumb.webp",
+            "sha256": "9508d0bdcaf6ce2bbb024c1c469d069f3cdd1b7568a2611fafbd65786d14f77e",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
+            "originalSha256": "4aa91ad20e03208be8d6143e91f4e441196ac031136f24471f03759cb451d955",
+            "correction": "Render the pressure map as the same rigid chalk-marked slate board used in corrected images 01 and 02. Retain the interior composition and first-light treatment.",
+            "prompt": "Use case: precise-object-edit. Correct only the large pressure map in Input 1. Preserve its exact reverse doorway view into the ward room, 3:2 landscape, preferably 1536x1024.\nInput 1 is the EDIT TARGET: lock the open blue-gray door at left, rough masonry, floor light, wooden table and right-side bench, shared dark cloak, steaming cup and clean linen roll.\nInput 2 is the corrected close-view REFERENCE for the pressure map. Replace the thin pale flexible paper sheet in Input 1 with the SAME rigid charcoal slate board seen in Input 2: visible thick layered stone edge, modest chipped corners, flat heavy surface, unlettered fine pale chalk route network and EXACTLY FIVE small brass domed contacts. Use the target's table position, scale and perspective. Keep all five contacts separate and countable; no extra studs. No paper edge, curling corner or light sheet remains.\nDo not import the separate duty slate or change the furniture arrangement; this reverse angle only needs the pressure map corrected. Preserve the existing intimate light, broad ochre and blue-gray shaped color masses, confident impasto oil brushwork and all room relationships. No people, hands, text, captions, symbols, signature, watermark, collage, photorealism or 3D insert.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11310,6 +11324,16 @@
       "source": "stories/storm-warning/art/interiors/02-upstairs-room.png",
       "sourceSha256": "f7ed4382e1331529889bb53a436f020fcae446f7a3bc1eba25291065e19e3894",
       "reason": "Remove the red dress from the cupboard while retaining the ending's wired-glass red light."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/interiors/02-the-pressure-map-and-private-hours.png",
+      "sourceSha256": "2edd777cedac27711b88a5b50c2d711d0f010e5fcd4d086a8ad4669e883c748b",
+      "reason": "Replace the large paper map with a rigid slate map and chalk marks. Preserve the separate two-block duty slate, cup and linen; carry through image 01's corrected glass-channel view in the narrow doorway slice."
+    },
+    {
+      "source": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
+      "sourceSha256": "4aa91ad20e03208be8d6143e91f4e441196ac031136f24471f03759cb451d955",
+      "reason": "Render the pressure map as the same rigid chalk-marked slate board used in corrected images 01 and 02. Retain the interior composition and first-light treatment."
     }
   ]
 }
