@@ -5357,19 +5357,26 @@
           "id": "03-the-small-comparison-board",
           "title": "The small comparison board",
           "alt": "The small comparison board — oil interior study for The Fourth Blood",
-          "source": "stories/blood-types-of-immortality/art/interiors/03-the-small-comparison-board.png",
-          "sourceSha256": "75eb24cdd6b8c16eac69c045f414bc039fa9def85e2333144f02c08f0e449ed9",
+          "source": "pages/interior-replacements/blood-types-of-immortality/03-the-small-comparison-board.png",
+          "sourceSha256": "47f4bea76d9466822d7f413ec2effb56cbc19fec807ee1ad78e5466e7f4b5e7b",
           "full": {
-            "path": "interiors/blood-types-of-immortality/03-the-small-comparison-board-75eb24cdd6b8c16e.webp",
-            "sha256": "05f6619a6b45455587062ce941c7b97440f6b1a499084a369acbcd24c57e7e04",
+            "path": "interiors/blood-types-of-immortality/03-the-small-comparison-board-47f4bea76d946682.webp",
+            "sha256": "95c414e4d966b8a15a2d0549eedcd98b33193602a2d5321cbb6018a7191fef2b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/blood-types-of-immortality/03-the-small-comparison-board-75eb24cdd6b8c16e-thumb.webp",
-            "sha256": "d99b9a26960b61c23bb0014c2c0c2966abbf36a5b84cca1519689bb63845cd1e",
+            "path": "interiors/blood-types-of-immortality/03-the-small-comparison-board-47f4bea76d946682-thumb.webp",
+            "sha256": "84b812d99aff6f642fe77191ca5ca9d9287ed4350d5aae2c6a117fe38bbca4a0",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/blood-types-of-immortality/art/interiors/03-the-small-comparison-board.png",
+            "originalSha256": "75eb24cdd6b8c16eac69c045f414bc039fa9def85e2333144f02c08f0e449ed9",
+            "correction": "Replace only the background apparatus with the same large empty stone basin and horizontal silver rings shown in image 01, or frame it out.",
+            "prompt": "Use case: precise-object-edit. Make ONE tiny mechanical correction to this oil painting. All foreground still life, lighting, composition, room, large stone basin and brushwork must remain unchanged.\nThe silver frame around the stone basin in the far upper-right currently has THREE horizontal hoops. It must have exactly FOUR horizontal hoops. Keep the existing top, middle and bottom hoops. Add ONE more silver-wire circular hoop halfway between the existing middle and bottom hoops, fastened to the same upright posts. All four rings are level horizontal circles seen as ellipses, parallel to the basin rim. Each has a clear near/front arc and a faint far/back arc. Keep the four near arcs separated so the four levels are unambiguously countable. No vertical rings, extra apparatus, bottle, glow or text.\nPreserve the empty masonry basin, inert frame, foreground two sealed blood vessels on the small wooden board, silver leads and pulse plate, closed case, lamp, ledger, and thick expressive oil-painted style exactly. No people or other changes. One 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11274,6 +11281,11 @@
       "source": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
       "sourceSha256": "a5e35e5b561f67b36015e922efc703bc9009753a5197016b43d1e5fb349e047e",
       "reason": "Restore city roofs beyond the garden in the kitchen window, retaining the olive-shaded doorstep."
+    },
+    {
+      "source": "stories/blood-types-of-immortality/art/interiors/03-the-small-comparison-board.png",
+      "sourceSha256": "75eb24cdd6b8c16eac69c045f414bc039fa9def85e2333144f02c08f0e449ed9",
+      "reason": "Replace only the background apparatus with the same large empty stone basin and horizontal silver rings shown in image 01, or frame it out."
     }
   ]
 }
