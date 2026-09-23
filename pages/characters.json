@@ -194,6 +194,108 @@
       ]
     },
     {
+      "slug": "a-crown-in-the-bargain",
+      "title": "A Crown in the Bargain",
+      "reader": "stories/a-crown-in-the-bargain.html",
+      "images": [
+        {
+          "id": "cernan-valeck",
+          "title": "Cernan Valeck",
+          "alt": "Sculpted Impasto character reference sheet of Cernan Valeck for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/characters/cernan-valeck.png",
+          "sourceSha256": "3c17671d62391f78e371434d58d3d25926fced3a8e2d1a3d42deb18153e67bef",
+          "full": {
+            "path": "characters/a-crown-in-the-bargain/cernan-valeck-3c17671d62391f78.webp",
+            "sha256": "d057e006206b471dd91d3b853ffd27cbfa9243fc072d365a8f4242029c24df61",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-in-the-bargain/cernan-valeck-3c17671d62391f78-thumb.webp",
+            "sha256": "b0e53091176eda944bead12ff85bc9252eb1b37ae41aa3206a54fe2e1db879a6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "maura-velset",
+          "title": "Maura Velset",
+          "alt": "Sculpted Impasto character reference sheet of Maura Velset for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/characters/maura-velset.png",
+          "sourceSha256": "38966efc5ebdfc2edf215bad6ce5c37178f246d1bdf3cfd25d9c64fec92bc2a8",
+          "full": {
+            "path": "characters/a-crown-in-the-bargain/maura-velset-38966efc5ebdfc2e.webp",
+            "sha256": "378bc2d7c6928f78ae18214a0f5e904d3c759d352d2b3c938e3ffaee106fcf92",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-in-the-bargain/maura-velset-38966efc5ebdfc2e-thumb.webp",
+            "sha256": "105bf9ae2ab0ded8f6024ccfb7bb5db583afa4caf853c10ff14ffcdf53c2c28a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "osvan-rhel",
+          "title": "Osvan Rhel",
+          "alt": "Sculpted Impasto character reference sheet of Osvan Rhel for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/characters/osvan-rhel.png",
+          "sourceSha256": "cd88540c3330ab4cada50d5daf6e89582c454815816579a5aa5484ec8a777933",
+          "full": {
+            "path": "characters/a-crown-in-the-bargain/osvan-rhel-cd88540c3330ab4c.webp",
+            "sha256": "9f95931c5ecc247024d5abee912dfd73ac1d3906fb7f4e45eea494c679085b6f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-in-the-bargain/osvan-rhel-cd88540c3330ab4c-thumb.webp",
+            "sha256": "8edb67a1e734b43db9456b4206a65ff0309a5906b9c9bf2f85f194f7a2b3cd18",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pevri",
+          "title": "Pevri",
+          "alt": "Sculpted Impasto character reference sheet of Pevri for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/characters/pevri.png",
+          "sourceSha256": "6b005951cbd9e7d4815314381f6ff58da0e97418175575c71d2d0ba0b0c6934b",
+          "full": {
+            "path": "characters/a-crown-in-the-bargain/pevri-6b005951cbd9e7d4.webp",
+            "sha256": "74576dd9152fa8a7d6587bd5a96ce932506eec673349843a011f49cb5ffc8bbb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-in-the-bargain/pevri-6b005951cbd9e7d4-thumb.webp",
+            "sha256": "c25a2f7c6ba1a7f113cf73eb501884194c8affcdc21972d22fb4a6974766eba9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tareya-solvane",
+          "title": "Tareya Solvane",
+          "alt": "Sculpted Impasto character reference sheet of Tareya Solvane for A Crown in the Bargain",
+          "source": "stories/a-crown-in-the-bargain/art/characters/tareya-solvane.png",
+          "sourceSha256": "d1672606bb02158b6d2710dc9de4dda0040b3437839d647fd726296796733089",
+          "full": {
+            "path": "characters/a-crown-in-the-bargain/tareya-solvane-d1672606bb02158b.webp",
+            "sha256": "57c1614a7e0fdcd260e6b56ab8cafd9f7ce18530f2bac8127c40ce1a004c3088",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-crown-in-the-bargain/tareya-solvane-d1672606bb02158b-thumb.webp",
+            "sha256": "9cbdaad75008961a6980bbdfe5598e7e28d3eae5137b26318480a0b639349d8c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-curse-before-breakfast",
       "title": "A Curse Before Breakfast",
       "reader": "stories/a-curse-before-breakfast.html",
@@ -379,6 +481,115 @@
           "thumbnail": {
             "path": "characters/a-knock-in-someone-elses-sleep/garnet-7a791f82e55dea2d-thumb.webp",
             "sha256": "3b697fd1c0f24cf660f06b1261155ae4b8d511d225716c67c9f8a5c4edbe4981",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-little-more-room",
+      "title": "A Little More Room",
+      "reader": "stories/a-little-more-room.html",
+      "images": [
+        {
+          "id": "robin",
+          "title": "Robin",
+          "alt": "Sculpted Impasto character reference sheet of Robin for A Little More Room",
+          "source": "stories/a-little-more-room/art/characters/robin.png",
+          "sourceSha256": "797119b9a17a267c1bfbd4e807d397e0a598c8f9916ad99c02e5e6ba04cda75b",
+          "full": {
+            "path": "characters/a-little-more-room/robin-797119b9a17a267c.webp",
+            "sha256": "93e103a1b08945e879f659b53c6d0b40cf6b199ea6ca1fcd1e69d0d6ed9432ca",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-little-more-room/robin-797119b9a17a267c-thumb.webp",
+            "sha256": "c6f4564b45a302d6b5efd38313ba38b544cc77e600e6e9ceaade9d0ec0ae3c83",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "suzette",
+          "title": "Suzette",
+          "alt": "Sculpted Impasto character reference sheet of Suzette for A Little More Room",
+          "source": "stories/a-little-more-room/art/characters/suzette.png",
+          "sourceSha256": "187b58b576eb9864999d5dadb30870d70e0ac04c796535c1ee3ec14742dd7db4",
+          "full": {
+            "path": "characters/a-little-more-room/suzette-187b58b576eb9864.webp",
+            "sha256": "12e4ba91d174938f89ecf7dac1257ecf202bb240016190e553bd8f98356c56ae",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-little-more-room/suzette-187b58b576eb9864-thumb.webp",
+            "sha256": "e956c6646879294e264873d6a2cb57632d84ce5c3d9e41c75b08d75e6facd6e0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-little-winter-for-sale",
+      "title": "A Little Winter for Sale",
+      "reader": "stories/a-little-winter-for-sale.html",
+      "images": [
+        {
+          "id": "tair-ked",
+          "title": "Tair Ked",
+          "alt": "Sculpted Impasto character reference sheet of Tair Ked for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/characters/tair-ked.png",
+          "sourceSha256": "f063bc9f696ce13bdd818c5cbd550950383a4f4684c92c43ae291403f800d351",
+          "full": {
+            "path": "characters/a-little-winter-for-sale/tair-ked-f063bc9f696ce13b.webp",
+            "sha256": "101794b87caf23a1106e8d8e6d7272cd6933c0c54b694474d3e705a7dad1e753",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-little-winter-for-sale/tair-ked-f063bc9f696ce13b-thumb.webp",
+            "sha256": "9e044ca47f868c97932ad8c5a238d3f07c8792c7c51f235d599900f427f76143",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "urumet",
+          "title": "Urumet",
+          "alt": "Sculpted Impasto character reference sheet of Urumet for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/characters/urumet.png",
+          "sourceSha256": "06a88656ab0de08ea91eb2defcd71f0cf8b79e46d502579f7654f8bd374dad28",
+          "full": {
+            "path": "characters/a-little-winter-for-sale/urumet-06a88656ab0de08e.webp",
+            "sha256": "ff602289d2a997e04467839457f6b45054b80cb2527b5e12033787876006226d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-little-winter-for-sale/urumet-06a88656ab0de08e-thumb.webp",
+            "sha256": "1d04ec5cc65b19b27066e40593227b211cf45aaef9581617de98407ff72bfc1f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "yara-mesk",
+          "title": "Yara Mesk",
+          "alt": "Sculpted Impasto character reference sheet of Yara Mesk for A Little Winter for Sale",
+          "source": "stories/a-little-winter-for-sale/art/characters/yara-mesk.png",
+          "sourceSha256": "60fb4c5dd612976f597276f10045cec85c01544bdd2fdd4a1fa8c86cc5a88302",
+          "full": {
+            "path": "characters/a-little-winter-for-sale/yara-mesk-60fb4c5dd612976f.webp",
+            "sha256": "2b37e002c9ec8c0e362ae3370ef1f7cadc36e830bba92f14fb1bbb9beab97834",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-little-winter-for-sale/yara-mesk-60fb4c5dd612976f-thumb.webp",
+            "sha256": "5312cebe4bf260be8ef1da75b42d103286740741623af7a7fecf36e872b40550",
             "width": 480,
             "height": 320
           }
