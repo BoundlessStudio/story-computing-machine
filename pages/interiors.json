@@ -10655,57 +10655,78 @@
           "id": "01-before-the-birth-minute",
           "title": "Before the birth minute",
           "alt": "Before the birth minute — oil interior study for What Turned Eighteen",
-          "source": "stories/what-turned-eighteen/art/interiors/01-before-the-birth-minute.png",
-          "sourceSha256": "965ace632bf7acd9dd84d0e93ce852cb9d92f849b9760e9f4c9ecdfbae240fed",
+          "source": "pages/interior-replacements/what-turned-eighteen/01-before-the-birth-minute.png",
+          "sourceSha256": "01a281d0d00c418bfe93a2981ffe9f3e6502bf3f1394120554d7b33749c76dfe",
           "full": {
-            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-965ace632bf7acd9.webp",
-            "sha256": "77e0be8c9a782de4b2ed6f46365e5e8b55ca4b0b82d7abceeca8110596dd3c2f",
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-01a281d0d00c418b.webp",
+            "sha256": "f94c63f122cd19f7074364e0c3a817262c1b70c2b25d3063c90ce793e82f8e5d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-965ace632bf7acd9-thumb.webp",
-            "sha256": "a1465cc1dae68b50de7833a94b42bc6330f4d0badc6b114c4f958f844feb4d04",
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-01a281d0d00c418b-thumb.webp",
+            "sha256": "cf9740dc3aa47ae8c5fd965afa03112d61470d185defdef4bbbc3badfe55cf70",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-turned-eighteen/art/interiors/01-before-the-birth-minute.png",
+            "originalSha256": "965ace632bf7acd9dd84d0e93ce852cb9d92f849b9760e9f4c9ecdfbae240fed",
+            "correction": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty bedroom painting before the birth minute. Correct ONLY the exterior scenery visible through the large rear window and the open balcony doorway at right. The prose places this apartment in a CITY BLOCK among neighboring buildings, laundry lines, silver rooftop water tanks and windows turning amber.\nReplace every visible lake, conifer forest and mountain ridge OUTSIDE the room with a restrained nearby urban block: a neighboring flat-roofed brick-and-plaster apartment building across a narrow gap, simple rows of windows, a silver cylindrical rooftop water tank and a few ordinary laundry items on a clothesline. Use a modest cluster of close roofs and chimneys, softened by the threatening afternoon weather. Keep the exterior subordinate to the bedroom. No skyline spectacle, water, mountain or forest backdrop. Through the right doorway, PRESERVE the existing balcony landing, rail and stairs to the shared roof; replace only the scenery beyond those railings with a coherent adjacent part of the same neighboring buildings and roof tanks. Both openings must agree spatially.\nKeep all interior pixels and furnishings as faithfully as possible: bed and blankets, three small landscape pictures hanging on the left wall (these are decorative pictures, leave them), bedside lamp, desk, closed cake box, blue curtains, open wardrobe and adjustable tied trousers, vent covered by taped mixing bowl, rug, floor fan, houseplants and room architecture. Preserve the original rich ochre-and-slate palette, confident broad shaped impasto oil strokes and empty-room mood. Group of Seven-inspired oil painting, landscape 3:2 1536x1024. No people, animals, figures, text overlays, labels, logos, watermark, collage, photorealistic or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-the-water-tray-and-lamps",
           "title": "The water tray and lamps",
           "alt": "The water tray and lamps — oil interior study for What Turned Eighteen",
-          "source": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
-          "sourceSha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+          "source": "pages/interior-replacements/what-turned-eighteen/02-the-water-tray-and-lamps.png",
+          "sourceSha256": "a52504da3d8af709292abb51b08ffa338bc2b777b16419740de011962ed97c79",
           "full": {
-            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-435d552b373e35b3.webp",
-            "sha256": "01613d7e4532a4162fdd71a0e1591302e798bc70f274f11c8156fa12505ae2c4",
+            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-a52504da3d8af709.webp",
+            "sha256": "59d260b95b488b0e278097df41a0724af8101ad55ab91c3fbb946846b46aca14",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-435d552b373e35b3-thumb.webp",
-            "sha256": "29ef7a2542bb1ef1a9a09ccdaa7f067a2a9ca9ea511ca2bdc9a8fe38dbfff521",
+            "path": "interiors/what-turned-eighteen/02-the-water-tray-and-lamps-a52504da3d8af709-thumb.webp",
+            "sha256": "bd387a96b5a24e4d9204d3056160dc489877dc5e5dd3f5d42b7d5843049d2d49",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+            "originalSha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+            "correction": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty bedroom with water tray and three desk lamps, the edit target. Image 2 is the accepted corrected earlier view of the SAME room and controls the exterior architecture. Replace ONLY the landscape visible through Image 1's rear window with the SAME nearby urban apartment block shown in Image 2: brick/plaster neighboring facade, flat rooftops, silver cylindrical roof tank, amber windows and modest hanging laundry, beneath the same cloudy blue-grey sky. Keep the viewpoint appropriate to this slightly shifted interior angle. NO lake, water horizon, conifers or distant mountains outside.\nKeep all interior content and current scene state of Image 1 unchanged: THREE desk lamps around the shallow WATER tray on the floor, towels, closed right balcony door, bowl now set on dresser, uncovered vent, unplugged fan, bed/blankets, desk and closed cake box, wardrobe with tied adjustable trousers, blue curtains, wall art, plants, rug and floor. Do not add the lamps/tray to reference image 2 or copy its open doorway; edit Image 1 only. Retain original thick expressive Group of Seven-inspired angular impasto, amber/slate palette, room lighting and 3:2 landscape 1536x1024. Empty room, no people or luminous bodies, no text overlay, labels, watermark, collage, photorealism or 3D.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-rain-at-the-bedroom-window",
           "title": "Rain at the bedroom window",
           "alt": "Rain at the bedroom window — oil interior study for What Turned Eighteen",
-          "source": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
-          "sourceSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
+          "source": "pages/interior-replacements/what-turned-eighteen/03-rain-at-the-bedroom-window.png",
+          "sourceSha256": "b42814dd04800ed12094dade6bc05c9d904b2491735ec0bf2c2a054b712fa17f",
           "full": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-24b980aede13e2ca.webp",
-            "sha256": "437a10a22a479b61e1b00253fdc4eaa4b2b5556388a0452cdfe78916b1330ff0",
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b42814dd04800ed1.webp",
+            "sha256": "6b6b0557593a146054ad9b60fe02c032d83a88c3e07cfeff88527186b96762f4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-24b980aede13e2ca-thumb.webp",
-            "sha256": "cc02caa44f3049ee00eab56cc6fed56beb0ecd7ea82b60ec96955c56a922750c",
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b42814dd04800ed1-thumb.webp",
+            "sha256": "37db11064e360b0d59a31468ff17ff62ee2e5991b2050a20e37cedb268ed2c96",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
+            "originalSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
+            "correction": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location. Make nine clearly separated small portions on the baking sheet, retaining the existing domestic composition.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty bedroom after the rooftop rain, the edit target. Image 2 is the accepted corrected same-room view and supplies the neighboring urban exterior. Make only two corrections to image 1.\nFirst, replace its rear-window lake, conifers and mountain ridge with the SAME close urban block as image 2: nearby brick/plaster apartment facades, flat roofs, silver cylindrical roof tank, amber windows and modest laundry. Keep those fixed positions, seen at this angle, but under heavier RAIN and dimmer cloudy evening light. Rain on the screened window softens the neighboring buildings. Keep the window screened and open only a finger's width as existing view permits. No lake, forest or mountain vista.\nSecond, the foreground baking sheet on the RIGHT-HAND low table must hold EXACTLY NINE separate small drops/portions of mashed lentil filling. Replace its present six with NINE small golden-brown mounds in a clear THREE-BY-THREE arrangement, three rows of three, with bare tray surface visibly separating every mound. All nine fully within the tray and individually countable; no crumbs that look like a tenth, no overlap, no omitted portion. These nine portions matter to the story.\nPreserve everything else from image 1: two active low desk lamps at opposite ends, bedside lamp off, unplugged floor fan, closed balcony door with towel gap, uncovered vent, towels on rug, shallow water tray on floor, adjustable-trouser sling stretched between two chairs, wardrobe, bed, desk with opened cake box, blue curtains, wall pictures and all furniture placement. Keep it an empty environment with no people or luminous creatures. Retain original broad angular thick oil impasto, ochre/blue-grey palette and 3:2 landscape 1536x1024. No labels, text overlays, watermark, collage, photography or 3D.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11646,6 +11667,21 @@
       "source": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
       "sourceSha256": "813bfa1002cdf4b1809f04b047d00b82b7358f3466b9271f4c75a27670b68d09",
       "reason": "Keep the wet stair study but remove the distinctive repaired wooden strip and its support from this lower door. If that repair is depicted elsewhere, put it on the fixed apartment-door jamb at the upper end of the route."
+    },
+    {
+      "source": "stories/what-turned-eighteen/art/interiors/01-before-the-birth-minute.png",
+      "sourceSha256": "965ace632bf7acd9dd84d0e93ce852cb9d92f849b9760e9f4c9ecdfbae240fed",
+      "reason": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location."
+    },
+    {
+      "source": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+      "sourceSha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+      "reason": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location."
+    },
+    {
+      "source": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
+      "sourceSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
+      "reason": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location. Make nine clearly separated small portions on the baking sheet, retaining the existing domestic composition."
     }
   ]
 }
