@@ -1,0 +1,1060 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-place-for-the-living",
+  "title": "A Place for the Living",
+  "source": "stories/a-place-for-the-living/05-story.md",
+  "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read full435-line final bundle story plus authoritative story.json. Four central characters Imani, Greer, Davina, Zephra carry moral conflict; father included as sustained host/caregiver and explicit contrast in conflict response. No other on-page main cast.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Imani's late mother",
+      "reason": "Recipe memory only; no active manifestation or substantial scenes."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Imani Crowe",
+        "Greer Morrow",
+        "Davina Morrow",
+        "Aunt Zephra Morrow"
+      ],
+      "lines": "362-418"
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Morrow kept-place supper mechanism"
+      ],
+      "lines": "492-540"
+    },
+    {
+      "path": "universe/factions.md",
+      "entries": [
+        "Morrow kept-place tradition"
+      ],
+      "lines": "71-91"
+    },
+    {
+      "path": "universe/locations.md",
+      "entries": [
+        "Unnamed Morrow family house"
+      ],
+      "lines": "165-176"
+    },
+    {
+      "path": "universe/timeline.md",
+      "entries": [
+        "Undated Morrow kept-place dinner"
+      ],
+      "lines": "218-240"
+    },
+    {
+      "path": "stories/a-place-for-the-living/00-prompt.md",
+      "entries": [
+        "Verbatim prompt and controls"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "imani-crowe",
+      "name": "Imani Crowe",
+      "role": "Focal partner who challenges the concealed interview, confirms Zephra's wish, and ends the coerced visit.",
+      "selectionEvidence": [
+        {
+          "lines": "29",
+          "quote": "Imani Crowe",
+          "explanation": "Host addresses the protagonist by full name."
+        },
+        {
+          "lines": "313",
+          "quote": "Do you want to go?",
+          "explanation": "Confirms deceased visitor's own request."
+        },
+        {
+          "lines": "325",
+          "quote": "She turned the plate face-down.",
+          "explanation": "Performs the decisive nonmagical interruption."
+        }
+      ],
+      "form": "Adult living human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman; appearance unspecified.",
+        "lifeStage": "Adult in an18-month relationship; exact age unstated.",
+        "proportions": "No exact measurements stated; recorded visual interpretation governs consistent sheet.",
+        "markings": "None specified.",
+        "materials": "Living human skin and domestic cloth.",
+        "clothing": "Coat unbuttoned after dinner; clean shoes. Other clothing unspecified.",
+        "equipment": "Cake tin containing her late mother's ginger-and-pear recipe; no professional equipment in dinner.",
+        "scale": "Adult human",
+        "movement": "Restrained composure yields to deliberate plate-turning; refuses offered hand, then sets breakfast terms.",
+        "distinctiveFeatures": "Living assessor of old houses; grounded physical action, no spellcasting."
+      },
+      "explicitCanon": [
+        "Imani Crowe, Greer's girlfriend and old-house assessor.",
+        "Late mother's ginger-pear recipe, brought cake tin and clean shoes.",
+        "Ends Zephra's visit by physically turning the plate, not magic."
+      ],
+      "visualInterpretation": [
+        "Adult30s, deep brown skin, broad cheekbones, dark natural hair in low puff, sturdy medium build.",
+        "Rust blouse, dark trousers, charcoal raincoat and clean oxblood low shoes are restrained modern-like interpretation."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Coat and cake tin, clean shoes."
+        },
+        {
+          "name": "Decision",
+          "description": "Coat off, deliberate hands."
+        },
+        {
+          "name": "After supper",
+          "description": "Coat unbuttoned, tin returned."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "imani-crowe",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "entry": "Imani Crowe"
+          }
+        ],
+        "evidence": "Exact CANON character entry explicitly first established by this story."
+      },
+      "naming": {
+        "sourceName": "Imani Crowe",
+        "provenance": "Exact source and CANON entry name."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved oil style only, no identity",
+          "inspected": true,
+          "notes": "Warm ivory folio and broad connected paint masses.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "role": "Same-story candle warmth/cool rain and oil handling only",
+          "inspected": true,
+          "notes": "Empty warm/cool dining room; no depicted cast.",
+          "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/landscapes/01-rain-around-the-old-house.png",
+          "role": "Same-story muted cool shadows and brushwork only",
+          "inspected": true,
+          "notes": "Rain slate and olive with warm window; no character or geometry transferred.",
+          "sha256": "ea5ab0b0c7dd491b4b252221e4901229f92cacfda76dbf68240692379b7535fe"
+        },
+        {
+          "path": "stories/a-place-for-the-living/title-image.jpg",
+          "role": "Objects only, no character identity",
+          "inspected": true,
+          "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+          "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+        }
+      ],
+      "output": "stories/a-place-for-the-living/art/characters/imani-crowe.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow lettering correction only. In this1536x1024 character sheet replace the incorrect large top-left heading Kelro with the exact name Imani Crowe. Use a legible large serif fitting that top-left space without covering artwork; two words on one line or two clean lines are fine. Preserve the subtitle A Place for the Living and ALL painted figures, expressions, objects, colors, layout, ivory and other labels exactly. No repainting of identity; no extra text, scenes or swatches.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-892118e9-8d30-42b4-9ba0-e1c4ab1a8f5f.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "6ccb5e8a7365fceb0c3d2aa65bd82e8299e44e6dc8eb6ae3c748af491ff1c6b8",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Imani Crowe: adult woman in30s, deep brown skin, broad expressive cheekbones, dark natural tightly curled hair in LOW PUFF, sturdy medium build. Interpretive clothes modern-like rust blouse, dark straight trousers, charcoal raincoat, clean oxblood low shoes. Three same-scale complete forms Arrival with coat and round cake tin, Dinner coat off front, Rear with coat. Two head studies Polite and Resolute; small hands holding returned cake tin. Plain everyday person, no magical aura or tools, no armor. Name/title exact. Cake tin is small plain round metal with lid; no whole cake display needed. Same face/body/hair throughout.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved oil style only, no identity",
+                "inspected": true,
+                "notes": "Warm ivory folio and broad connected paint masses.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+                "role": "Same-story candle warmth/cool rain and oil handling only",
+                "inspected": true,
+                "notes": "Empty warm/cool dining room; no depicted cast.",
+                "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+              }
+            ],
+            "startedAt": "2026-09-23T21:56:34.513978+00:00",
+            "preflight": "Full final prose, CANON entries and actual references checked; one identity, names resolved, source states, living versus deceased and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-892118e9-8d30-42b4-9ba0-e1c4ab1a8f5f.png",
+            "candidateSha256": "6ccb5e8a7365fceb0c3d2aa65bd82e8299e44e6dc8eb6ae3c748af491ff1c6b8",
+            "visualInspection": "Actual pixel review found wrong inherited Kelro heading; requested narrow correction. Davina also rear sleeve flour side; Zephra redundant decorative prose."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow lettering correction only. In this1536x1024 character sheet replace the incorrect large top-left heading Kelro with the exact name Imani Crowe. Use a legible large serif fitting that top-left space without covering artwork; two words on one line or two clean lines are fine. Preserve the subtitle A Place for the Living and ALL painted figures, expressions, objects, colors, layout, ivory and other labels exactly. No repainting of identity; no extra text, scenes or swatches.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-892118e9-8d30-42b4-9ba0-e1c4ab1a8f5f.png",
+                "role": "narrow correction edit target; preserve reviewed identity/art",
+                "sha256": "6ccb5e8a7365fceb0c3d2aa65bd82e8299e44e6dc8eb6ae3c748af491ff1c6b8",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T22:02:03.427299+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b0df8ec4-58d9-4dd7-8538-2e87ddba4cf9.png",
+            "candidateSha256": "9a4bbb1da72abdaf0fbcc2587017e11ce5e165abcc6249d6348ed31e7a01326d",
+            "completedAt": "2026-09-23T22:05:56.567536+00:00",
+            "visualInspection": [
+              "Corrected exact Imani Crowe heading; consistent adult woman with low curly puff, broad features and warm brown skin.",
+              "Arrival/dinner/rear clothes remain consistent; tin and ordinary hands carry source-supported role, no magical power.",
+              "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+        "outputSha256": "9a4bbb1da72abdaf0fbcc2587017e11ce5e165abcc6249d6348ed31e7a01326d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-892118e9-8d30-42b4-9ba0-e1c4ab1a8f5f.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "6ccb5e8a7365fceb0c3d2aa65bd82e8299e44e6dc8eb6ae3c748af491ff1c6b8",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected exact Imani Crowe heading; consistent adult woman with low curly puff, broad features and warm brown skin.",
+          "Arrival/dinner/rear clothes remain consistent; tin and ordinary hands carry source-supported role, no magical power.",
+          "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "a58850ffcc6c955dbd7c0b1812d6adb7ccdc722427b600346850d41c7b0744d2"
+      },
+      "outputSha256": "9a4bbb1da72abdaf0fbcc2587017e11ce5e165abcc6249d6348ed31e7a01326d"
+    },
+    {
+      "id": "greer-morrow",
+      "name": "Greer Morrow",
+      "role": "Conflict-avoidant partner and expected custodian who rejects coercive succession and relinquishes the key.",
+      "selectionEvidence": [
+        {
+          "lines": "9",
+          "quote": "The key at Greer Morrow",
+          "explanation": "Names her and anchors defining object."
+        },
+        {
+          "lines": "363",
+          "quote": "Greer pulled the chain over her head.",
+          "explanation": "Decisive refusal of succession through surrendering key."
+        },
+        {
+          "lines": "363",
+          "quote": "Greer pulled the chain over her head.",
+          "explanation": "Surrenders inherited authority."
+        }
+      ],
+      "form": "Adult living human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman; no specific skin/hair/body stated.",
+        "lifeStage": "Adult daughter of Davina; exact age unspecified.",
+        "proportions": "No exact measurements stated; recorded visual interpretation governs consistent sheet.",
+        "markings": "No present marking stated; missing eyebrow at12 only a historical photo, not current trait.",
+        "materials": "Living human skin and domestic cloth.",
+        "clothing": "Coat with button, brass key on chain at throat; other clothing unspecified.",
+        "equipment": "Old brass key with rounded worn teeth on chain, surrendered late.",
+        "scale": "Adult human",
+        "movement": "Thumb taps key, conflict-avoidant half-rise, then stands fully and removes chain.",
+        "distinctiveFeatures": "Key and then keyless state."
+      },
+      "explicitCanon": [
+        "Davina's daughter, Imani's girlfriend, expected table custodian.",
+        "Brass key on chain at throat, worn teeth; sets it beside butter knife and leaves keyless.",
+        "Historical eyebrow bleach mishap at12 does not mark current adult."
+      ],
+      "visualInterpretation": [
+        "Adult early30s, fair freckled skin, auburn short wavy bob, average slightly soft frame.",
+        "Olive coat and muted blue sweater, black trousers, sensible ankle boots; both present eyebrows."
+      ],
+      "states": [
+        {
+          "name": "With key",
+          "description": "Chain at throat, thumb touches brass key."
+        },
+        {
+          "name": "Keyless",
+          "description": "Neck bare after deliberate surrender."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "greer-morrow",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "entry": "Greer Morrow"
+          }
+        ],
+        "evidence": "Exact CANON character entry explicitly first established by this story."
+      },
+      "naming": {
+        "sourceName": "Greer Morrow",
+        "provenance": "Exact source and CANON entry name."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved oil style only, no identity",
+          "inspected": true,
+          "notes": "Warm ivory folio and broad connected paint masses.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "role": "Same-story candle warmth/cool rain and oil handling only",
+          "inspected": true,
+          "notes": "Empty warm/cool dining room; no depicted cast.",
+          "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/landscapes/01-rain-around-the-old-house.png",
+          "role": "Same-story muted cool shadows and brushwork only",
+          "inspected": true,
+          "notes": "Rain slate and olive with warm window; no character or geometry transferred.",
+          "sha256": "ea5ab0b0c7dd491b4b252221e4901229f92cacfda76dbf68240692379b7535fe"
+        },
+        {
+          "path": "stories/a-place-for-the-living/title-image.jpg",
+          "role": "Objects only, no character identity",
+          "inspected": true,
+          "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+          "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+        }
+      ],
+      "output": "stories/a-place-for-the-living/art/characters/greer-morrow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Greer Morrow: adult woman early30s, fair FRECKLED skin, auburn short WAVY BOB, average slightly soft build, both normal eyebrows present. Olive wool coat, muted blue sweater, black trousers and sensible brown ankle boots. Three complete consistent forms With key front, Rear same coat, Keyless three-quarter with coat open and NO necklace. Initial form fingers nervously touch antique brass key on chain at throat, soft worn teeth. Keyless form steadier shoulders. Two painted heads Uneasy and Resolved. One object study Brass key using supplied cover's antique brass form, attached thin chain; include hand lifting chain over head as small torso gesture if space. No haunted eyes, no ghostly skin, no magic effects. Same likeness all views.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved oil style only, no identity",
+            "inspected": true,
+            "notes": "Warm ivory folio and broad connected paint masses.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+            "role": "Same-story candle warmth/cool rain and oil handling only",
+            "inspected": true,
+            "notes": "Empty warm/cool dining room; no depicted cast.",
+            "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+          },
+          {
+            "path": "stories/a-place-for-the-living/title-image.jpg",
+            "role": "Objects only, no character identity",
+            "inspected": true,
+            "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+            "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Greer Morrow: adult woman early30s, fair FRECKLED skin, auburn short WAVY BOB, average slightly soft build, both normal eyebrows present. Olive wool coat, muted blue sweater, black trousers and sensible brown ankle boots. Three complete consistent forms With key front, Rear same coat, Keyless three-quarter with coat open and NO necklace. Initial form fingers nervously touch antique brass key on chain at throat, soft worn teeth. Keyless form steadier shoulders. Two painted heads Uneasy and Resolved. One object study Brass key using supplied cover's antique brass form, attached thin chain; include hand lifting chain over head as small torso gesture if space. No haunted eyes, no ghostly skin, no magic effects. Same likeness all views.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved oil style only, no identity",
+                "inspected": true,
+                "notes": "Warm ivory folio and broad connected paint masses.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+                "role": "Same-story candle warmth/cool rain and oil handling only",
+                "inspected": true,
+                "notes": "Empty warm/cool dining room; no depicted cast.",
+                "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+              },
+              {
+                "path": "stories/a-place-for-the-living/title-image.jpg",
+                "role": "Objects only, no character identity",
+                "inspected": true,
+                "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+                "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+              }
+            ],
+            "startedAt": "2026-09-23T21:56:34.527074+00:00",
+            "preflight": "Full final prose, CANON entries and actual references checked; one identity, names resolved, source states, living versus deceased and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-3650f4ea-5a46-4472-aa51-e8d6049d2762.png",
+            "candidateSha256": "c22ac9df8a38ca047409e7177369483e469db2eb01fe735e4b087d7ac1a23393",
+            "completedAt": "2026-09-23T22:05:56.572148+00:00",
+            "visualInspection": [
+              "Exact full name/title, consistent auburn freckled adult woman with both present eyebrows.",
+              "Key-bearing and keyless states explicitly separate, chain-removal gesture legible; no inherited magical effect.",
+              "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+        "outputSha256": "c22ac9df8a38ca047409e7177369483e469db2eb01fe735e4b087d7ac1a23393",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved oil style only, no identity",
+            "inspected": true,
+            "notes": "Warm ivory folio and broad connected paint masses.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+            "role": "Same-story candle warmth/cool rain and oil handling only",
+            "inspected": true,
+            "notes": "Empty warm/cool dining room; no depicted cast.",
+            "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+          },
+          {
+            "path": "stories/a-place-for-the-living/title-image.jpg",
+            "role": "Objects only, no character identity",
+            "inspected": true,
+            "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+            "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+          }
+        ],
+        "evidence": [
+          "Exact full name/title, consistent auburn freckled adult woman with both present eyebrows.",
+          "Key-bearing and keyless states explicitly separate, chain-removal gesture legible; no inherited magical effect.",
+          "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "6f33d525c1ef9752c6f7db709f79c067cc392ab9a5df898aca2e38991e6b32b3"
+      },
+      "outputSha256": "c22ac9df8a38ca047409e7177369483e469db2eb01fe735e4b087d7ac1a23393"
+    },
+    {
+      "id": "davina-morrow",
+      "name": "Davina Morrow",
+      "role": "Host and sole living anchor who turns hospitality into partner vetting and refuses the visitor release.",
+      "selectionEvidence": [
+        {
+          "lines": "27",
+          "quote": "soft brown sweater, flour on one sleeve",
+          "explanation": "Specific clothing at her first hosting appearance."
+        },
+        {
+          "lines": "91",
+          "quote": "Aunt Zephra Morrow, you are remembered here.",
+          "explanation": "Initiates the visit."
+        },
+        {
+          "lines": "265",
+          "quote": "skin had gone gray around her mouth",
+          "explanation": "Cost of sustaining the visit."
+        },
+        {
+          "lines": "415",
+          "quote": "no extra place will be set",
+          "explanation": "Offers the limited final boundary concession."
+        }
+      ],
+      "form": "Older adult living human woman; never a ghost",
+      "storyAppearance": {
+        "anatomy": "Smaller stature than visitor expected; skin pales at mouth, hands tremble under sustained anchoring.",
+        "lifeStage": "Parent of adult Greer; exact age unstated.",
+        "proportions": "No exact measurements stated; recorded visual interpretation governs consistent sheet.",
+        "markings": "Temporary gray pallor around mouth, whitening breath from heat depletion.",
+        "materials": "Living human skin and domestic cloth.",
+        "clothing": "Soft brown sweater with flour on one sleeve; lower garments unspecified.",
+        "equipment": "Returned cake tin; palms anchor working but no magical artifact worn specified.",
+        "scale": "Adult human",
+        "movement": "Firm warm greeting, rigid flat hands, later trembling and swaying; color returns after release.",
+        "distinctiveFeatures": "Living body's heat/stamina cost, not undead transformation."
+      },
+      "explicitCanon": [
+        "Greer's living mother and sole anchor of Zephra's visit.",
+        "Soft brown sweater with flour on one sleeve; small stature.",
+        "Overextended anchoring causes pallor, white breath, trembling and exhaustion; recovers warmth when visit ends."
+      ],
+      "visualInterpretation": [
+        "Short older woman early60s, fair warm skin, short graying auburn waves related to Greer without claiming exact biology canon.",
+        "Charcoal skirt, practical dark low shoes; flour on left sleeve chosen since source unspecified side."
+      ],
+      "states": [
+        {
+          "name": "Host",
+          "description": "Warm complexion and welcoming hands."
+        },
+        {
+          "name": "Overextended anchor",
+          "description": "Pale mouth and tired face, fine white exhalation, trembling hands."
+        },
+        {
+          "name": "After release",
+          "description": "Color returning, exhausted expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "davina-morrow",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "entry": "Davina Morrow"
+          }
+        ],
+        "evidence": "Exact CANON character entry explicitly first established by this story."
+      },
+      "naming": {
+        "sourceName": "Davina Morrow",
+        "provenance": "Exact source and CANON entry name."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved oil style only, no identity",
+          "inspected": true,
+          "notes": "Warm ivory folio and broad connected paint masses.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "role": "Same-story candle warmth/cool rain and oil handling only",
+          "inspected": true,
+          "notes": "Empty warm/cool dining room; no depicted cast.",
+          "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/landscapes/01-rain-around-the-old-house.png",
+          "role": "Same-story muted cool shadows and brushwork only",
+          "inspected": true,
+          "notes": "Rain slate and olive with warm window; no character or geometry transferred.",
+          "sha256": "ea5ab0b0c7dd491b4b252221e4901229f92cacfda76dbf68240692379b7535fe"
+        },
+        {
+          "path": "stories/a-place-for-the-living/title-image.jpg",
+          "role": "Objects only, no character identity",
+          "inspected": true,
+          "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+          "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+        }
+      ],
+      "output": "stories/a-place-for-the-living/art/characters/davina-morrow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Two narrow corrections to this1536x1024 sheet. Replace incorrect large top-left heading Kelro with exact name Davina Morrow in legible fitting serif, subtitle A Place for the Living unchanged. Correct flour continuity only in the full REAR figure (second from left): flour currently on viewerRIGHT sleeve, which is her right arm. Remove it there and put same small flour patch on viewerLEFT sleeve, her anatomical LEFT arm in rear view, matching front figure and Flour detail caption. Preserve every other artwork detail, age/likeness, skin, garment, all other words, composition, oil paint style and ivory. Do not alter front figure flour or hand detail. No scenes/swatches.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ce16c1f6-a290-48c3-93e1-7632095f1aac.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "7face060c13b81e5fedce22e19d13ca703a81183b27fd7707f6a2ac9e33c9f21",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Davina Morrow: short older adult LIVING woman early60s, fair warm skin, round square-jawed face, short grey-auburn wavy hair. Brown SOFT KNIT SWEATER, small flour dust patch LEFT sleeve, charcoal midi skirt, practical dark low shoes. Two whole forms Host front and Rear showing same body/clothes, normal warm complexion. Third half-body study Overextended anchor: palms flat pressing downward in empty ivory, exhausted gray pallor LOCAL to mouth, subtly whitened cold breath and fingers trembling; NO table, no icicles, no undead blue skin or skeletal effect. Other head After release with returning colour and grief. Small flour-covered sleeve/hand study. She remains alive and recognizable. No robe, wand or invented jewellery. No surrounding smoke or location.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved oil style only, no identity",
+                "inspected": true,
+                "notes": "Warm ivory folio and broad connected paint masses.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+                "role": "Same-story candle warmth/cool rain and oil handling only",
+                "inspected": true,
+                "notes": "Empty warm/cool dining room; no depicted cast.",
+                "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+              }
+            ],
+            "startedAt": "2026-09-23T21:56:34.539905+00:00",
+            "preflight": "Full final prose, CANON entries and actual references checked; one identity, names resolved, source states, living versus deceased and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ce16c1f6-a290-48c3-93e1-7632095f1aac.png",
+            "candidateSha256": "7face060c13b81e5fedce22e19d13ca703a81183b27fd7707f6a2ac9e33c9f21",
+            "visualInspection": "Actual pixel review found wrong inherited Kelro heading; requested narrow correction. Davina also rear sleeve flour side; Zephra redundant decorative prose."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Two narrow corrections to this1536x1024 sheet. Replace incorrect large top-left heading Kelro with exact name Davina Morrow in legible fitting serif, subtitle A Place for the Living unchanged. Correct flour continuity only in the full REAR figure (second from left): flour currently on viewerRIGHT sleeve, which is her right arm. Remove it there and put same small flour patch on viewerLEFT sleeve, her anatomical LEFT arm in rear view, matching front figure and Flour detail caption. Preserve every other artwork detail, age/likeness, skin, garment, all other words, composition, oil paint style and ivory. Do not alter front figure flour or hand detail. No scenes/swatches.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ce16c1f6-a290-48c3-93e1-7632095f1aac.png",
+                "role": "narrow correction edit target; preserve reviewed identity/art",
+                "sha256": "7face060c13b81e5fedce22e19d13ca703a81183b27fd7707f6a2ac9e33c9f21",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T22:02:03.429474+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-73ed33e6-408a-4a00-84d3-8f003ae2076c.png",
+            "candidateSha256": "91a36b93f5bbe986f0aa4de013b1289995b7aa03ce60da6b82b6b4947aa3753c",
+            "completedAt": "2026-09-23T22:05:56.576556+00:00",
+            "visualInspection": [
+              "Corrected exact full name and rear flour patch now anatomical left in front/rear.",
+              "Older living woman remains same identity in normal, overextended and recovering views; localized gray mouth and fine cold breath depict heat cost without turning her into a ghost.",
+              "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+        "outputSha256": "91a36b93f5bbe986f0aa4de013b1289995b7aa03ce60da6b82b6b4947aa3753c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ce16c1f6-a290-48c3-93e1-7632095f1aac.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "7face060c13b81e5fedce22e19d13ca703a81183b27fd7707f6a2ac9e33c9f21",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected exact full name and rear flour patch now anatomical left in front/rear.",
+          "Older living woman remains same identity in normal, overextended and recovering views; localized gray mouth and fine cold breath depict heat cost without turning her into a ghost.",
+          "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "1f045e6ac9385994005c4faa8588b77cee8cd9784756731ddbb9e27908584b66"
+      },
+      "outputSha256": "91a36b93f5bbe986f0aa4de013b1289995b7aa03ce60da6b82b6b4947aa3753c"
+    },
+    {
+      "id": "aunt-zephra-morrow",
+      "name": "Aunt Zephra Morrow",
+      "role": "Invited deceased relative whose active refusal of judgment and request to leave expose the moral conflict.",
+      "selectionEvidence": [
+        {
+          "lines": "97",
+          "quote": "Long brown hands. Silver hair rolled at the nape of her neck.",
+          "explanation": "Explicit manifestation anatomy/hair."
+        },
+        {
+          "lines": "113",
+          "quote": "dead for seventy-three years",
+          "explanation": "State and elapsed time, not age at death."
+        },
+        {
+          "lines": "123",
+          "quote": "I am myself there",
+          "explanation": "Continuing personal identity, not reconstruction."
+        },
+        {
+          "lines": "287",
+          "quote": "I asked to leave.",
+          "explanation": "Her refused request drives decisive conflict."
+        }
+      ],
+      "form": "Bounded human-shaped manifestation of deceased adult woman",
+      "storyAppearance": {
+        "anatomy": "Long brown hands, silver hair rolled at nape, dark collar/severe dress; partially translucent at margins, independent expressive face.",
+        "lifeStage": "Older adult visual reading of silver hair; dead73years does not specify age at death.",
+        "proportions": "No exact measurements stated; recorded visual interpretation governs consistent sheet.",
+        "markings": "Sleeve edge frays into mist when reaching beyond setting; face clear longer during dissolution.",
+        "materials": "Living-supplied visible manifestation with brown skin/severe cloth and partially translucent margins.",
+        "clothing": "Severe dark dress with dark collar.",
+        "equipment": "Personal black-handled butter knife worn silver at tip; white porcelain plate green moth border she painted; these are nonliving foci, not magic users.",
+        "scale": "Adult human",
+        "movement": "Sits very straight; gestures, touches offered fingertips, handles fork in anchored range; cannot roam/levitate/fly.",
+        "distinctiveFeatures": "Same continuing woman during visit and afterlife, not body resurrection or copy."
+      },
+      "explicitCanon": [
+        "Great-great-aunt, married into family; dead73years.",
+        "Silver hair rolled at nape, long brown hands, severe dark dress/collar.",
+        "Manifestation bound within reach of prepared place; translucent margins, frayed sleeve when overreaching, thins into bright condensation.",
+        "Cannot cast/sustain/dismiss working; Davina supplies manifestation."
+      ],
+      "visualInterpretation": [
+        "Older70s-looking slender brown-skinned woman with pronounced cheekbones, fine lines, low silver roll; exact age/body unprovided.",
+        "Dark plum-black ankle-length high-collar dress; muted pearl-violet edge passages depict transparency without glowing skeleton.",
+        "Seated form diagrams omit furniture for character-only format; not proof she can roam."
+      ],
+      "states": [
+        {
+          "name": "Anchored visit",
+          "description": "Upright seated posture, clearly readable face and hands; slight transparency at margins."
+        },
+        {
+          "name": "At boundary",
+          "description": "Hand reach near body, sleeve edge lightly fraying."
+        },
+        {
+          "name": "Visit ending",
+          "description": "Isolated face/sleeve study thins into condensation; no violent death."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "aunt-zephra-morrow",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "entry": "Aunt Zephra Morrow"
+          }
+        ],
+        "evidence": "Exact CANON character entry explicitly first established by this story."
+      },
+      "naming": {
+        "sourceName": "Aunt Zephra Morrow",
+        "provenance": "Exact source and CANON entry name."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved oil style only, no identity",
+          "inspected": true,
+          "notes": "Warm ivory folio and broad connected paint masses.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "role": "Same-story candle warmth/cool rain and oil handling only",
+          "inspected": true,
+          "notes": "Empty warm/cool dining room; no depicted cast.",
+          "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/landscapes/01-rain-around-the-old-house.png",
+          "role": "Same-story muted cool shadows and brushwork only",
+          "inspected": true,
+          "notes": "Rain slate and olive with warm window; no character or geometry transferred.",
+          "sha256": "ea5ab0b0c7dd491b4b252221e4901229f92cacfda76dbf68240692379b7535fe"
+        },
+        {
+          "path": "stories/a-place-for-the-living/title-image.jpg",
+          "role": "Objects only, no character identity",
+          "inspected": true,
+          "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+          "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+        }
+      ],
+      "output": "stories/a-place-for-the-living/art/characters/aunt-zephra-morrow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow text edit to this1536x1024 sheet. Replace incorrect large top-left heading Kelro with exact heading Aunt Zephra Morrow in large readable serif fitting that space (two lines fine). Keep subtitle A Place for the Living readable beneath it. REMOVE the redundant small left column Aunt Zephra Morrow and decorative prose Practical. Amused. Unyielding. Still here, for a while. and divider line. Restore quiet plain ivory in that vacated narrow left column. Preserve ALL painted forms, expressions, silver nape roll, gown, hands, transparency states, plate and knife, every other label and oil style exactly. Do not add scenery, swatches or decorative prose.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-17f021e3-de77-48ff-bf68-1126da5ab782.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "7d7a4ff04b1b3063b4a40666dc35bef78a781175ff8b6df204e978a020ac556e",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Aunt Zephra Morrow, one brown-skinned older woman manifestation. Long brown elegant hands, silver hair ROLLED AT NAPE, pronounced cheekbones and amused intelligent features. Severe dark plum-black ANKLE-LENGTH dress with dark high collar. She is a continuing deceased person appearing only in a BOUNDED SEATED visit, NOT roaming ghost, flying spirit, skeleton, witch or spellcaster. Compose TWO large complete SEATED-POSTURE form diagrams front and three-quarter, knees bent and feet under dress, sitting very straight; OMIT CHAIR as an isolated anatomical sheet, don't place in scene. Wholebody and dress hem within frame. Strong face/hand paint and quiet partly transparent sleeve/hem margins (ivory faintly visible), no neon glow. A few concise studies: Amused clear head; Refusal tired firm head; At boundary one long brown hand and sleeve with only EDGE fraying into pale condensation; Visit ending same face remains clear while outer hair/collar subtly thin. No new standing form. Small isolated Black-handled butter knife (worn tip) and Moth plate (white porcelain green moth border) from source, no table or settings. No magic beams, no fresh death, no gore, no entire body made of smoke. Translucency defined through oil masses and selective dry edges.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved oil style only, no identity",
+                "inspected": true,
+                "notes": "Warm ivory folio and broad connected paint masses.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+                "role": "Same-story candle warmth/cool rain and oil handling only",
+                "inspected": true,
+                "notes": "Empty warm/cool dining room; no depicted cast.",
+                "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+              },
+              {
+                "path": "stories/a-place-for-the-living/title-image.jpg",
+                "role": "Objects only, no character identity",
+                "inspected": true,
+                "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+                "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+              }
+            ],
+            "startedAt": "2026-09-23T21:56:34.552876+00:00",
+            "preflight": "Full final prose, CANON entries and actual references checked; one identity, names resolved, source states, living versus deceased and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-17f021e3-de77-48ff-bf68-1126da5ab782.png",
+            "candidateSha256": "7d7a4ff04b1b3063b4a40666dc35bef78a781175ff8b6df204e978a020ac556e",
+            "visualInspection": "Actual pixel review found wrong inherited Kelro heading; requested narrow correction. Davina also rear sleeve flour side; Zephra redundant decorative prose."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow text edit to this1536x1024 sheet. Replace incorrect large top-left heading Kelro with exact heading Aunt Zephra Morrow in large readable serif fitting that space (two lines fine). Keep subtitle A Place for the Living readable beneath it. REMOVE the redundant small left column Aunt Zephra Morrow and decorative prose Practical. Amused. Unyielding. Still here, for a while. and divider line. Restore quiet plain ivory in that vacated narrow left column. Preserve ALL painted forms, expressions, silver nape roll, gown, hands, transparency states, plate and knife, every other label and oil style exactly. Do not add scenery, swatches or decorative prose.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-17f021e3-de77-48ff-bf68-1126da5ab782.png",
+                "role": "narrow correction edit target; preserve reviewed identity/art",
+                "sha256": "7d7a4ff04b1b3063b4a40666dc35bef78a781175ff8b6df204e978a020ac556e",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T22:02:03.431829+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-c25f8c2d-ad46-4efe-8f14-b9b16e0a168a.png",
+            "candidateSha256": "a3c478df5d4d87b311894eaab9917ddac54006dff2298b94a02f641fa36a045d",
+            "completedAt": "2026-09-23T22:05:56.581186+00:00",
+            "visualInspection": [
+              "Corrected exact full name/title and removed decorative text.",
+              "Two coherent seated full-form studies, silver nape roll, long brown hands and severe dark dress; no roaming standing form.",
+              "Fading sleeve and ending state remain same expressive woman; plate/knife are small isolated supported objects with no scenery.",
+              "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+        "outputSha256": "a3c478df5d4d87b311894eaab9917ddac54006dff2298b94a02f641fa36a045d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-17f021e3-de77-48ff-bf68-1126da5ab782.png",
+            "role": "narrow correction edit target; preserve reviewed identity/art",
+            "sha256": "7d7a4ff04b1b3063b4a40666dc35bef78a781175ff8b6df204e978a020ac556e",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected exact full name/title and removed decorative text.",
+          "Two coherent seated full-form studies, silver nape roll, long brown hands and severe dark dress; no roaming standing form.",
+          "Fading sleeve and ending state remain same expressive woman; plate/knife are small isolated supported objects with no scenery.",
+          "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "c5363b7c1fc344b966d9281b7f31bb20cf0323423205ac5c5dcbc40557fd6043"
+      },
+      "outputSha256": "a3c478df5d4d87b311894eaab9917ddac54006dff2298b94a02f641fa36a045d"
+    },
+    {
+      "id": "halvern",
+      "name": "Halvern",
+      "role": "Greer's father, recurring dinner host and physical caregiver whose warm domestic actions and passivity frame the conflict.",
+      "selectionEvidence": [
+        {
+          "lines": "41",
+          "quote": "took the cake tin",
+          "explanation": "Father accepts cake with ceremonious hospitality."
+        },
+        {
+          "lines": "51",
+          "quote": "mushroom pie",
+          "explanation": "Makes meal and participates in sustained family introduction."
+        },
+        {
+          "lines": "239",
+          "quote": "His earlier warmth had not vanished.",
+          "explanation": "His inability to intervene is thematically explicit."
+        },
+        {
+          "lines": "317",
+          "quote": "caught her elbow",
+          "explanation": "Physically supports Davina as the visit breaks."
+        },
+        {
+          "lines": "411",
+          "quote": "He hid two pieces",
+          "explanation": "His cake-taking hospitality carries through final exchange."
+        }
+      ],
+      "form": "Adult living human man",
+      "storyAppearance": {
+        "anatomy": "Human father; jokes about knees, no actual disability established.",
+        "lifeStage": "Parent of adult Greer; exact age unstated.",
+        "proportions": "No exact measurements stated; recorded visual interpretation governs consistent sheet.",
+        "markings": "None specified.",
+        "materials": "Living human skin and domestic cloth.",
+        "clothing": "Unspecified contemporary domestic clothes.",
+        "equipment": "Cake tin, serving plate/utensils as host; no magic equipment.",
+        "scale": "Adult human",
+        "movement": "Careful hosting hands; folds hands instead of confronting; catches Davina's elbow.",
+        "distinctiveFeatures": "Warm host whose conflict avoidance contrasts with Imani's action."
+      },
+      "explicitCanon": [
+        "Greer's unnamed father; cooks mushroom pie, brings cake, catches Davina, preserves cake portions.",
+        "Not magical anchor; no source magical action."
+      ],
+      "visualInterpretation": [
+        "Art-only personal name Halvern newly assigned under user direction; no canonical prose/name edits.",
+        "Older60s, tall broad pale-olive man, receding salt-and-pepper hair, moustache, soft grey-green shirt and dark trousers; all appearance choices unspecified."
+      ],
+      "states": [
+        {
+          "name": "Host",
+          "description": "Gentle presentation of cake tin."
+        },
+        {
+          "name": "Conflict",
+          "description": "Folded tense hands and troubled expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-place-for-the-living:greers-father",
+        "links": [],
+        "evidence": "No personal name in source; art-only label; no other shared identity inferred."
+      },
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Greer's father",
+        "displayName": "Halvern",
+        "provenance": "New art-only name under user's explicit direction to personally name unnamed main characters. Collision search universe/NAMES/current and bundle prose returned no Halvern; canon/source unchanged."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved oil style only, no identity",
+          "inspected": true,
+          "notes": "Warm ivory folio and broad connected paint masses.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+          "role": "Same-story candle warmth/cool rain and oil handling only",
+          "inspected": true,
+          "notes": "Empty warm/cool dining room; no depicted cast.",
+          "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+        },
+        {
+          "path": "stories/a-place-for-the-living/art/landscapes/01-rain-around-the-old-house.png",
+          "role": "Same-story muted cool shadows and brushwork only",
+          "inspected": true,
+          "notes": "Rain slate and olive with warm window; no character or geometry transferred.",
+          "sha256": "ea5ab0b0c7dd491b4b252221e4901229f92cacfda76dbf68240692379b7535fe"
+        },
+        {
+          "path": "stories/a-place-for-the-living/title-image.jpg",
+          "role": "Objects only, no character identity",
+          "inspected": true,
+          "notes": "Antique brass key, black-handled knife, overturned white plate and cake tin; no people.",
+          "sha256": "c8b63709970325aa3dc604dd76f4924da4465917b67304a10ce6801bd15da188"
+        }
+      ],
+      "output": "stories/a-place-for-the-living/art/characters/halvern.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Halvern, art-only name for Greer's father. One ordinary living older man60s, tall broad slightly stooped, pale-olive skin, receding salt-and-pepper hair and neat moustache, broad kind face. Everyday soft GREY-GREEN button shirt, dark brown trousers, low black shoes. Three full forms Host front carrying closed round cake tin, Rear same proportions, Concerned three-quarter with folded hands. Two painted heads Welcoming and Troubled. One detail of careful hands around cake tin. No magical effects or custodian key, no cookware scene, no apron required. Maintain same mature likeness across views. Exact heading Halvern; source title. This personal name is for art; don't print process explanation on sheet.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved oil style only, no identity",
+            "inspected": true,
+            "notes": "Warm ivory folio and broad connected paint masses.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+            "role": "Same-story candle warmth/cool rain and oil handling only",
+            "inspected": true,
+            "notes": "Empty warm/cool dining room; no depicted cast.",
+            "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One1536x1024 landscape ivory character reference folio. EXACT NAME upperleft and title A Place for the Living beneath. Character only, NO scenery/location/table/chair/floor patches/vignettes/swatches. Two or three unclipped complete useful form views plus selected faces/hand/gear details, concise readable labels. Canadian Group of Seven inspired oil painting: LARGE CONNECTED colour/value masses, broad directional bristle strokes, selective substantial impasto, quiet connecting passages; same decisive painted planes on face/hair as clothing. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime, smooth photographic face. Warm candle-derived reflected colour against cool rain-night shadows but no flames, lamps, actual scene or dramatic rimlight. Kelro reference is rendering STYLE ONLY; landscape/interior only brush/palette/light, never subject or geography. Source cover has NO human identity, only personal object shapes. Halvern, art-only name for Greer's father. One ordinary living older man60s, tall broad slightly stooped, pale-olive skin, receding salt-and-pepper hair and neat moustache, broad kind face. Everyday soft GREY-GREEN button shirt, dark brown trousers, low black shoes. Three full forms Host front carrying closed round cake tin, Rear same proportions, Concerned three-quarter with folded hands. Two painted heads Welcoming and Troubled. One detail of careful hands around cake tin. No magical effects or custodian key, no cookware scene, no apron required. Maintain same mature likeness across views. Exact heading Halvern; source title. This personal name is for art; don't print process explanation on sheet.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved oil style only, no identity",
+                "inspected": true,
+                "notes": "Warm ivory folio and broad connected paint masses.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+                "role": "Same-story candle warmth/cool rain and oil handling only",
+                "inspected": true,
+                "notes": "Empty warm/cool dining room; no depicted cast.",
+                "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+              }
+            ],
+            "startedAt": "2026-09-23T21:56:34.565805+00:00",
+            "preflight": "Full final prose, CANON entries and actual references checked; one identity, names resolved, source states, living versus deceased and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-44583fb2-4daa-401f-97ed-9ceacdc514cd.png",
+            "candidateSha256": "8ea546b7070d9903e9f2c7a56aa2af953d183460683e02c63f507f819cfbc917",
+            "completedAt": "2026-09-23T22:05:56.585710+00:00",
+            "visualInspection": [
+              "Consistent older male host with gentle and concerned expressions; source role naming provenance recorded separately.",
+              "Cake tin and folded hands convey repeated household role; no invented supernatural power.",
+              "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5",
+        "outputSha256": "8ea546b7070d9903e9f2c7a56aa2af953d183460683e02c63f507f819cfbc917",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved oil style only, no identity",
+            "inspected": true,
+            "notes": "Warm ivory folio and broad connected paint masses.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
+            "role": "Same-story candle warmth/cool rain and oil handling only",
+            "inspected": true,
+            "notes": "Empty warm/cool dining room; no depicted cast.",
+            "sha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5"
+          }
+        ],
+        "evidence": [
+          "Consistent older male host with gentle and concerned expressions; source role naming provenance recorded separately.",
+          "Cake tin and folded hands convey repeated household role; no invented supernatural power.",
+          "Complete unclipped forms and readable useful labels; ivory only, no location/floor/swatches. Broad painted face/hair/clothing masses and selective thick strokes match collection."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "abd0befd8a91d1386a497703bee3013f86fabcdc175381e04da8297ca417c79b"
+      },
+      "outputSha256": "8ea546b7070d9903e9f2c7a56aa2af953d183460683e02c63f507f819cfbc917"
+    }
+  ]
+}
