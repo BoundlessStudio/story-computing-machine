@@ -4423,38 +4423,52 @@
           "id": "02-the-parcel-van-cab",
           "title": "The parcel van cab",
           "alt": "The parcel van cab — oil interior study for The Counted Road",
-          "source": "stories/the-inheritance-remembers/art/interiors/02-the-parcel-van-cab.png",
-          "sourceSha256": "cc4fde6fc7a75780adfcb8110a68f0a7a33e3f0f83f4c067b7682e3eaa79db49",
+          "source": "pages/interior-replacements/the-inheritance-remembers/02-the-parcel-van-cab.png",
+          "sourceSha256": "f583bdb07336d06c062d644a2c6a924b85233699ba8556dd47790f28d5aae50c",
           "full": {
-            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-cc4fde6fc7a75780.webp",
-            "sha256": "b8b31305dd4840d37775dad20e69709f97bf4c93ee625f5eb633f7d2581b2072",
+            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-f583bdb07336d06c.webp",
+            "sha256": "2da16103ccf0902a66fbfd1a0a53b17706eebceca04430933b7998dabb8a6f16",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-cc4fde6fc7a75780-thumb.webp",
-            "sha256": "c9b43aef1a714ad45c738182a6f58f0ccf4fe6be7ec9069c0115e6c2ba8b98c9",
+            "path": "interiors/the-inheritance-remembers/02-the-parcel-van-cab-f583bdb07336d06c-thumb.webp",
+            "sha256": "b4393439e0f5c93ce9ddbc17acd4274b994832b66715bd7f4bbb17cd5bfbb7a5",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-inheritance-remembers/art/interiors/02-the-parcel-van-cab.png",
+            "originalSha256": "cc4fde6fc7a75780adfcb8110a68f0a7a33e3f0f83f4c067b7682e3eaa79db49",
+            "correction": "Flatten the spike's square head and carve exactly four hooked winding mortar-filled grooves down its forearm-length iron shaft; preserve earlier fuel-station scene without crescents.",
+            "prompt": "Use case: precise-object-edit.\nEdit the supplied painting as a faithful targeted correction of the iron spike resting on the parcel van's passenger seat. One final landscape image, 3:2, 1536x1024.\nInput 1 is the edit target and the authority for this exact cab, angle, interior objects, fuel-station exterior, palette, and expressive oil brushwork.\nPreserve the steering wheel at left, central blank map screen and upright scanner, rain-streaked windshield, empty gray seats, olive knitted cardigan, lit black flashlight lying beside the spike, and the wet fuel station and blank green sign seen outside. Keep their placements and the useful wide cabin composition.\nCorrect only the spike: it is a heavy antique IRON SPIKE as long as a forearm, with a slender thick tapering shaft and bluntly pointed tip, not a knife blade. Its square head is hammered almost flat: one simple thin, irregular square flange at the upper-right end near the seat back, with no tiers, fins, teeth, slots, or blocks. Across the whole shaft from beneath the head toward the lower-left tip are EXACTLY FOUR distinct hooked grooves winding partway around the iron. Space these four deep carved hook-shaped recesses so all four can be counted. Each groove is partly packed with pale chalky mortar, making four modest off-white curling hooks clearly visible against rust-black iron. These are recessed cuts in the shaft; not stripes painted on its surface and not notches in the head. Keep the spike about its existing forearm length; do not make it sword sized.\nThis is the earlier fuel-station scene: flashlight remains beside the spike, with ordinary warm reflected illumination and NO projected magical crescents.\nStyle/medium: preserve the actual input's Group of Seven-inspired expressive oil painting, broad shaped dark-gray and ochre color masses, visible confident impasto strokes, warm amber rain reflections and cool slate blue surroundings. Render the revised artifact in the same brushwork, not a photorealistic insert.\nEmpty cab. No people, hands, lettering, text overlays, headings, signature, watermark, extra objects, collage, or contact sheet.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-crescents-in-the-cab",
           "title": "Crescents in the cab",
           "alt": "Crescents in the cab — oil interior study for The Counted Road",
-          "source": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
-          "sourceSha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "source": "pages/interior-replacements/the-inheritance-remembers/03-crescents-in-the-cab.png",
+          "sourceSha256": "84995b72766cb6db80f97761b19232f710031ec8650546e10f8a4cdb7899181d",
           "full": {
-            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-3560bcc10dc296cd.webp",
-            "sha256": "92868f85d401a21fec1bb7538df57c796a79626c0de599813ea5fee9e1199310",
+            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-84995b72766cb6db.webp",
+            "sha256": "891c9d7722abf9a37d2e32eb4390e933497a3db72c9db1ed4cddf68280d4a65b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-3560bcc10dc296cd-thumb.webp",
-            "sha256": "f7730cdeca35fcfe3a4e9baeabaccc8b84b10c68c653e5346614f2bfbdc8a336",
+            "path": "interiors/the-inheritance-remembers/03-crescents-in-the-cab-84995b72766cb6db-thumb.webp",
+            "sha256": "b7bc49c07f29b78c3ef1ced4dbb994f71027ee814d5c15f1105d1b2bb25c45b0",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+            "originalSha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+            "correction": "Carry the corrected four-groove spike into the closer van image; place the flashlight lens against its head, with three crescents directed to traffic and one to the culvert ditch, and replace the fuel station with the late larch-road setting.",
+            "prompt": "Use case: precise-object-edit.\nTargeted correction of the supplied close passenger-seat painting from The Counted Road. One landscape 3:2 image, preferably 1536x1024.\nInput 1 is the EDIT TARGET: preserve its close view across the left steering-wheel edge, blank map screen, upright parcel scanner, gray passenger seat, right door, olive knitted cardigan and the original confident expressive oil painting.\nInput 2 is the ACCEPTED PROP REFERENCE: use its exact corrected forearm-length rust-black iron spike, its simple nearly flattened square head, solid tapering shaft and EXACTLY FOUR pale mortar-filled hooked recesses winding down the shaft. Repeat this same object at the closer angle; never restore the blade shape, slotted head or thick tiers.\nChosen source moment is the late culvert optical test in the van, not the earlier fuel-station loop. Keep the cab empty, with the objects supported by folds of the cardigan on the seat. Reposition the black flashlight so its luminous front lens is physically pressed FLUSH AGAINST the BACK FACE of the spike's thin square head, aligned with the shaft, no air gap; the flashlight body extends behind the head toward the upper-right seat back while the pointed shaft extends toward the lower-left seat front. The lamp and head visibly touch. Show the four pale carved hooks clearly along the shaft, not on the head.\nThe grooves throw EXACTLY FOUR thin, restrained golden crescent-shaped reflections across the cab, visibly distinct from the ordinary lamp glow: THREE slender crescent slivers lie on the left dashboard and windshield base, oriented toward the traffic lane visible ahead; ONE separate slender crescent lies across the right door/window edge and visually follows the ditch to the culvert's concrete lip just outside. Keep these as thin light cast on surfaces, not floating rings, broad beams, multiple dotted symbols or crescent moons in the sky.\nReplace the incompatible fuel-station exterior throughout windshield, side window and mirror. Through the windshield is rain-black asphalt, orange cones and a temporary traffic divider; through the right passenger window is the nearby narrow roadside ditch, dark larch trunks, and a low rough concrete culvert lip where the shoulder ends. Concrete lip must be clearly visible and align with the single ditch-directed light. Confine the view to this tight rainy road edge, with no gas station, canopy, pumps, lake, open scenic panorama or large mountains.\nPreserve the input's broad confident impasto brushwork, shaped slate-blue and charcoal masses, ochre/gold accents and rainy dusk mood. Corrected metal and light must be painted with that same expressive Group of Seven-inspired oil treatment, no photorealistic insert. Keep the blank devices, seat/cardigan, van architecture and intimate composition recognizable. No people, hands, text overlays, lettering, captions, signatures, watermark, collage or contact sheet.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -10890,6 +10904,16 @@
       "source": "stories/no-need-to-worry/art/interiors/02-booth-observation-window.png",
       "sourceSha256": "e2332ed17ce7eda94cf1206ceb88576ae6babd37c24b51bbbf2c4c2348ece9ca",
       "reason": "Observation window overlooking the same concrete yard, continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post as corrected first view."
+    },
+    {
+      "source": "stories/the-inheritance-remembers/art/interiors/02-the-parcel-van-cab.png",
+      "sourceSha256": "cc4fde6fc7a75780adfcb8110a68f0a7a33e3f0f83f4c067b7682e3eaa79db49",
+      "reason": "Flatten the spike's square head and carve exactly four hooked winding mortar-filled grooves down its forearm-length iron shaft; preserve earlier fuel-station scene without crescents."
+    },
+    {
+      "source": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+      "sourceSha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+      "reason": "Carry the corrected four-groove spike into the closer van image; place the flashlight lens against its head, with three crescents directed to traffic and one to the culvert ditch, and replace the fuel station with the late larch-road setting."
     }
   ]
 }
