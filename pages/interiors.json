@@ -10306,19 +10306,26 @@
           "id": "03-the-wigmakers-workbench",
           "title": "The wigmakers workbench",
           "alt": "The wigmakers workbench — oil interior study for The Wrong Side of the Part",
-          "source": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
-          "sourceSha256": "a2583a75c70acb805dadfd5726369207afe58a8ebeae943b9c4613fa8c670285",
+          "source": "pages/interior-replacements/the-wrong-side-of-the-part/03-the-wigmakers-workbench.png",
+          "sourceSha256": "75596904dbf3bf7f6b6d4712d90c3fef63631411975385b8384f01f6569f5c14",
           "full": {
-            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-a2583a75c70acb80.webp",
-            "sha256": "a1639137e71b4ec6c0417e59ae2b32e2aef85c0aac3835a9235efe2bc302ab1d",
+            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-75596904dbf3bf7f.webp",
+            "sha256": "b2f6d3688fb87687f18e23d9d1d1aea76ef14105090c192902698f0a775c8fa8",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-a2583a75c70acb80-thumb.webp",
-            "sha256": "4c473c6f9f75cbc8f5924f26eeb5aab6bcd42eb5efecef837c70d94e92c9909e",
+            "path": "interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench-75596904dbf3bf7f-thumb.webp",
+            "sha256": "00cd9c067b1a069555eaa1bfd78d6a78272945a99f192db9d0ccb3752b520693",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
+            "originalSha256": "a2583a75c70acb805dadfd5726369207afe58a8ebeae943b9c4613fa8c670285",
+            "correction": "Use jaw-length ash-brown hair falling from the loosened foundation and rotate the chair away from the mirror; preserve the bench tools and loose strands.",
+            "prompt": "Use case: scene-state correction in an existing empty wigmaker workshop oil painting. Keep the original 3:2 landscape camera, preferably1536x1024, and all room/bench objects except the two stated corrections.\n1. The wig on the foreground canvas block has already reverted to its ordinary SHORT ASH-BROWN BOB before dismantling. Replace its current long wavy brown lengths with muted ash-brown, mostly straight, symmetrical jaw-length bob hair, blunt-ended, with a simple center part where the remaining crown permits it. Preserve the visibly OPENED and partly unpicked lace foundation across the crown. Short locks loosen and fall from that foundation, but attached hair ends at the block's jaw level; no attached tresses trail onto the bench or hang over its edge. Remove the long coils/draping extensions. Keep a few loose short straight ash-brown locks on the bench and in the lower open hair box, each consistent with a jaw-length bob, not long transformed curls. The canvas block remains an inanimate tan textile wig block with stitched seams, not a face or living head.\n2. The black hydraulic styling chair in the left background has been SWIVELED AWAY FROM THE MIRROR. Keep its pedestal fixed where it stands, but turn the seat/back/arms/footrest so the chair's FRONT opens diagonally toward the viewer and left foreground, into the room. We see the inner upholstered back cushion and seat; its rear backrest faces the wall mirror behind it. The footrest projects toward the left foreground, away from the mirror. This is the same vintage chair, simply rotated on its swivel base.\nPreserve the blunt needle and tweezers on the workbench, open old case with tissue and pins, shelves and tins, window, mirror and counter, scuffed wood floor and late warm light. Keep the expressive Group of Seven-inspired thick oil brushwork, confident shaped color masses, golden light and blue-gray walls. No people, new hairpiece, readable labels, text overlay, signature, watermark, photographic or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -12102,6 +12109,11 @@
       "source": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
       "sourceSha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16",
       "reason": "Add the unlit glass circle and its THE QUEEN STOOD HERE label at the central visitor position. Preserve the empty room and idle seascape; no figures or active descending streams are required."
+    },
+    {
+      "source": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
+      "sourceSha256": "a2583a75c70acb805dadfd5726369207afe58a8ebeae943b9c4613fa8c670285",
+      "reason": "Use jaw-length ash-brown hair falling from the loosened foundation and rotate the chair away from the mirror; preserve the bench tools and loose strands."
     }
   ]
 }
