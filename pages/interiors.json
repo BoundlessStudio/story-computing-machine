@@ -3672,19 +3672,26 @@
           "id": "01-council-map-well",
           "title": "Council map well",
           "alt": "Council map well — oil interior study for The Apes Above",
-          "source": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
-          "sourceSha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60",
+          "source": "pages/interior-replacements/apes-in-orbit/01-council-map-well.png",
+          "sourceSha256": "e13ca0d46fcca373f86362c9e11b7d9055a8c404c514face20f0dcd16a5ef75d",
           "full": {
-            "path": "interiors/apes-in-orbit/01-council-map-well-4c8cb67f5e6937fb.webp",
-            "sha256": "483d4557ab26d66c5af27e3b2ab4deb1e90c2eda4e0e3bec28b7d367c2c8b23a",
+            "path": "interiors/apes-in-orbit/01-council-map-well-e13ca0d46fcca373.webp",
+            "sha256": "f0d32fb3368ac4ac177d8fd9959b8518aeb9b4b3d0698434360eda076fdb4219",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/apes-in-orbit/01-council-map-well-4c8cb67f5e6937fb-thumb.webp",
-            "sha256": "0174bed174fcb6ec132a4c1e841e87361a44e64fa64e47ba87d3d458e7db5304",
+            "path": "interiors/apes-in-orbit/01-council-map-well-e13ca0d46fcca373-thumb.webp",
+            "sha256": "07f0ddb76452f59679ea4e3529c0a30b98d3d82cbc522296a83ed7d601433d35",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+            "originalSha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60",
+            "correction": "Show tiled walking floor with a projected blue contour and nesting-block marks beneath the fragment; remove liquid and island relief.",
+            "prompt": "Use case: precise-object-edit.\nEdit the attached council map-well oil painting as one finished 3:2 landscape image, preferably 1536 by 1024 pixels. Image 1 is the edit target and the exact style, room, palette, lighting and composition reference.\nChange the mistaken water-and-island model inside the circular well into a dry, flat, walkable tiled map floor. Remove every liquid surface, ripple, pool and raised island. The broad center should consist of contiguous dull stone map tiles at one level, with their joints plainly visible. Project a thin luminous blue contour of an irregular basin across the dry tiles, plus fine luminous rectangular nesting-block map marks. These are flat lines of light laid on stone, not water or relief terrain. The lines continue behind and beneath the blackened curved fragment, which rests with its weight on the map tiles and obscures part of the plan; a few depressed joints directly under it convey its weight. Keep the blackened curved metal fragment at the right of the well, with the white packing fibers on its scorched edge. The map is a diagram of an occupied district, not a miniature physical landscape.\nPreserve the stone chamber, circular low rim, surrounding low stools, windows, banners, strong warm gold light, blue-violet shadows, view angle and useful empty-room composition. Preserve the original Group of Seven-inspired expressive oil handling: broad shaped color masses, confident visible impasto brushwork and rugged surfaces. No people, creatures, new scenery, realistic rendering, text overlays, labels, signatures or watermarks. This is one coherent painting, not a diagram sheet.",
+            "generator": "image_gen"
           }
         },
         {
@@ -10842,6 +10849,11 @@
       "source": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
       "sourceSha256": "372afd3b9213f3ec42b10b4d462406a987da59520678a8be43fbbcf5a23f5ee8",
       "reason": "Use the same single rectangular gate as the other views, with one open knee-high square feeding hatch in the run wall. Restore the cup beside the table leg with its handle uppermost."
+    },
+    {
+      "source": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+      "sourceSha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60",
+      "reason": "Show tiled walking floor with a projected blue contour and nesting-block marks beneath the fragment; remove liquid and island relief."
     }
   ]
 }
