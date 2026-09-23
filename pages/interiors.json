@@ -9009,38 +9009,52 @@
           "id": "01-mirrorglass-vestibule",
           "title": "Mirrorglass vestibule",
           "alt": "Mirrorglass vestibule — oil interior study for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/interiors/01-mirrorglass-vestibule.png",
-          "sourceSha256": "5b26ec244ff5444bb683dc5c313c0606cf65df4bbaff10e2934c2da21b508be7",
+          "source": "pages/interior-replacements/the-unfixed-face/01-mirrorglass-vestibule.png",
+          "sourceSha256": "212db593ac81acbcec626df5a40577cc0ed696a915d09aa8427ba00f0ccd385f",
           "full": {
-            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-5b26ec244ff5444b.webp",
-            "sha256": "a1b945ccabe4f58f5fb2c496fe5e178dc2e87eefcffec0907eaff0c55a16bc12",
+            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-212db593ac81acbc.webp",
+            "sha256": "789f70b1a22babdec7054bc86872ef85707c593f468d09854cb61178595c8e27",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-5b26ec244ff5444b-thumb.webp",
-            "sha256": "29575c28bb40543166589fdd0931efe265f3adb7dce5565647c37cfdf1088192",
+            "path": "interiors/the-unfixed-face/01-mirrorglass-vestibule-212db593ac81acbc-thumb.webp",
+            "sha256": "223e09670effddb6ddd2994eec944349a3e0181803e719052cd42a5d619305da",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-unfixed-face/art/interiors/01-mirrorglass-vestibule.png",
+            "originalSha256": "5b26ec244ff5444bb683dc5c313c0606cf65df4bbaff10e2934c2da21b508be7",
+            "correction": "Retain the vestibule and sunset palette; simplify the glass to reflective evening street windows without the lake and mountain panorama.",
+            "prompt": "Use case: precise-object-edit. Edit input 1, the Mirrorglass House vestibule painting, into one 1536x1024 3:2 landscape image. Change only the exterior scenery seen through glass, including the small distant window in the room beyond the bead curtain.\nReplace all lake water, mountains, islands and conifers with subdued indistinct STREET-FACING EVENING GLAZING. The panes should show warm orange/red dusk reflections, cool violet reflections of the clinic, and soft abstract rectangles of nearby street buildings/windows across the road. No sharply defined landmarks, landscape horizon, waterfront or scenic panorama. The entrance remains at pavement level on an ordinary street. Keep the original orange sunset illumination and patches of light inside the room.\nEvery interior element is invariant: dark teal door and frames, brass handle, coat pegs, adult coat and child-sized mustard oilskin, little bench, umbrella stand/boots, bead curtain, wood floor, food carrier, exactly three tins, blue and clear bottles and the same adjoining workroom. Preserve the expressive Group of Seven-inspired oil technique with bold shaped color masses and visible thick brushwork. Empty interior, no added people, text, signage lettering, objects, signatures, borders or watermark.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-mirrorglass-revision-room",
           "title": "Mirrorglass revision room",
           "alt": "Mirrorglass revision room — oil interior study for The Unfixed Face",
-          "source": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
-          "sourceSha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+          "source": "pages/interior-replacements/the-unfixed-face/02-mirrorglass-revision-room.png",
+          "sourceSha256": "06002f8c0d6891e4a8283e2094b5a0455ab1aed2979a1a94975591edab8bfee1",
           "full": {
-            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-c02596e9443f7f0c.webp",
-            "sha256": "91a46476952c6ba68d294ec74679c5dafc876c7fa2f9a5eb3b809fcbff665234",
+            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-06002f8c0d6891e4.webp",
+            "sha256": "922169d4414d6bea09da2653b75626d7d729118ac696d92071752992fcfd9ed8",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-c02596e9443f7f0c-thumb.webp",
-            "sha256": "252f5d76b3c21c12e05cc644a0a7f2a5ba11b178bd62d2375cdcfbc561c7beb0",
+            "path": "interiors/the-unfixed-face/02-mirrorglass-revision-room-06002f8c0d6891e4-thumb.webp",
+            "sha256": "fd508e5e35384a18c60944a7a529985acd07513ad289675cd19f6256bc73db32",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+            "originalSha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+            "correction": "Keep the sunset illumination while replacing the panorama with subdued, nonspecific street-facing glazing.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 3:2 oil painting.\nInput 1 is the edit target: Mirrorglass revision room. Input 2 is the corrected vestibule's accepted street-facing dusk glazing, for consistent exterior setting and color.\nReplace ONLY the mountain lake and conifers visible through input 1's entire left window wall. Use the same subdued nearby street facades and reflective dusk glass as input 2: soft blocky violet building shapes and orange evening window reflections at ordinary street level. Preserve the original reddening sunset illumination inside; no waterfront, forest, islands, mountains, scenic horizon or new landmarks.\nKeep the long room, padded bench, washbasin, central reader table/tools/stool, ranks of illuminated seedglass cooling cabinets, their counts and positions, pendant lamp, bead curtain, dark teal woodwork and original camera/composition unchanged. Maintain thick expressive Group of Seven-inspired oil brushwork, orange/ochre light and violet shadows. No people, additional props, readable text, signatures or watermark.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11334,6 +11348,16 @@
       "source": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
       "sourceSha256": "4aa91ad20e03208be8d6143e91f4e441196ac031136f24471f03759cb451d955",
       "reason": "Render the pressure map as the same rigid chalk-marked slate board used in corrected images 01 and 02. Retain the interior composition and first-light treatment."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/interiors/01-mirrorglass-vestibule.png",
+      "sourceSha256": "5b26ec244ff5444bb683dc5c313c0606cf65df4bbaff10e2934c2da21b508be7",
+      "reason": "Retain the vestibule and sunset palette; simplify the glass to reflective evening street windows without the lake and mountain panorama."
+    },
+    {
+      "source": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+      "sourceSha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+      "reason": "Keep the sunset illumination while replacing the panorama with subdued, nonspecific street-facing glazing."
     }
   ]
 }
