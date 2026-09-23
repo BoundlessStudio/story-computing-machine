@@ -30,24 +30,24 @@
           "title": "The relic on the table",
           "alt": "The relic on the table — oil interior study for A Bargain with Anubis",
           "source": "pages/interior-replacements/the-emerald-relic/02-the-relic-on-the-table.png",
-          "sourceSha256": "af0c781bb0ec2c740eeb98a612648d70e99f4dc015ea4922ebbdde2930933da2",
+          "sourceSha256": "0297047ed0b804d92a1a1867d6b0aec2e2e543a8cd983d03648a9ded6946a84a",
           "full": {
-            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-af0c781bb0ec2c74.webp",
-            "sha256": "bfa045c18087de51e5ff55d963232aee452bde1d9b45eadeb96b0f14fc8d7950",
+            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-0297047ed0b804d9.webp",
+            "sha256": "b2276d2119c8b35433b62005751d0e5797efc7a9d68bc8e3f0c8f4d0dae5cb2d",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-af0c781bb0ec2c74-thumb.webp",
-            "sha256": "de299cd85f90f5fb0ad03dabe53d92373531e02cc129b254ab76b097d38c2eb3",
+            "path": "interiors/the-emerald-relic/02-the-relic-on-the-table-0297047ed0b804d9-thumb.webp",
+            "sha256": "affa1679294557bb8eac84a04ae35cc47a5868e4365b454b47ee3f6bdd45b233",
             "width": 480,
             "height": 320
           },
           "revision": {
             "originalSource": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
             "originalSha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
-            "correction": "Replace the bead-like row with irregular emerald tooth points while preserving the black jaw, gold repairs, cloth, cup and broad paint.",
-            "prompt": "Use case: precise-object-edit. One 1536x1024 (3:2) oil painting.\nInput 1 is the edit target, the close bedside-table relic study. Input 2 is the accepted corrected garden-screen arrangement of this same bedchamber, used only for screen/table/pillow continuity.\nChange the relic's emerald teeth in input 1: replace the regular smooth bead-like oval row with real tooth-like pointed emerald forms of UNEVEN heights and irregular pointed silhouettes. They are emerald teeth growing from a small black stone lower jaw, not a jeweled necklace or identical polished cabochons. Some tips are taller, some shorter and asymmetrical, with faceted green faces and a restrained green glow.\nPreserve the black stone jaw's curved anatomy and gold-filled old fractures, black linen beneath it, brass cup, low oil lamp, close cream pillow/bed beside the true bedside table, original composition, warm golden light and blue-violet shadows. The reed screen remains immediately beyond the table's outer edge, separating the bed from the garden doorway as in input 2; this close interior-side angle can show only a narrow garden glimpse beyond the edge. Retain broad confident Group of Seven-inspired shaped oil strokes throughout, especially the emerald teeth, so they are painted rather than a glossy 3D insert. No people, extra artifacts, new architecture, text, signature or watermark.",
+            "correction": "Match the cover's elongated black reptilian skull with both jaws open, dark pointed emerald-lit teeth, gold-filled fractures, ankh and winged ornament. Preserve the room composition and broad oil-painted style.",
+            "prompt": "Use case: precise-object-edit.\nCreate one edited 1536x1024 landscape PNG.\nImage 1 is the full-resolution edit target: the oil-painted Egyptian bedchamber and bedside table. Image 2 is the cover, supplied ONLY as the exact design reference for the black-and-gold relic held in Anubis's hands.\nReplace only the small rounded lower-jaw object on the black linen in image 1 with a tabletop-sized version of the unmistakable elongated reptilian skull relic from image 2: BOTH upper and lower jaws held open, long tapered crocodilian snout, faceted black obsidian stone, sharp dark pointed teeth lit emerald green from within, fine gold-filled fracture seams, gold Egyptian ornament bands including an ankh and a winged emblem. Match the cover relic's silhouette, proportions, recognizable ornaments and open-jaw construction closely. It must read as that same artifact, not a human mandible, bowl, crown, or necklace. Keep the relic portable, small enough to lift in two hands, resting solidly on the same cloth between the lamp and brass cup. Turn it in a clear three-quarter side view with the snout pointing right, showing the open jaws and gold ornament. The relic may occupy a slightly wider footprint on the cloth to make its elongated shape readable; preserve room for the cup. Emerald light and a few delicate green wisps should illuminate the object and immediately adjacent cloth, at the intimate scale of this room.\nPreserve the existing room composition, framing, camera, bed and pillows at left, oil lamp and flame, brass cup at right, black linen folds, wooden bedside table, reed screen behind it, narrow garden opening, architectural detail, all furniture positions, warm ochre light and violet shadows. Do not add Anubis, hands, people, pyramids, sky, title lettering, captions, a signature or a watermark.\nRender the replacement relic in the SAME broad, confident, shaped oil brushstrokes and simplified Group-of-Seven-inspired paint language as image 1. The cover supplies object design only, not its glossy rendering style. Keep the entire scene recognizably the original painting; change only the relic and its immediate green light.",
             "generator": "image_gen"
           }
         },
