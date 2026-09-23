@@ -1,0 +1,707 @@
+{
+  "schemaVersion": 1,
+  "slug": "friends-of-the-night",
+  "title": "Friends of the Night",
+  "source": "stories/friends-of-the-night/story.md",
+  "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete 335-line finished story read. Tavik narrates; Crooktail anchors rescue; Denek, Torma and Drost make sustained consequential decisions.",
+  "excludedMinorCharacters": [
+    {
+      "name": "east-wall sentry",
+      "reason": "Important test case but unnamed brief supporting presence without sustained independent arc."
+    },
+    {
+      "name": "guards, clerk, soldiers, shepherd boy",
+      "reason": "Incidental function or recalled example; no substantial individuated cast role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Tavik",
+    "universe/characters.md#Denek",
+    "universe/characters.md#Torma",
+    "universe/characters.md#Marshal Drost",
+    "universe/characters.md#Crooktail",
+    "universe/rules.md#Shalegate shadow-beast feeding and diminution"
+  ],
+  "characters": [
+    {
+      "id": "crooktail",
+      "name": "Crooktail",
+      "role": "central nonhuman protagonist and subject of rescue",
+      "selectionEvidence": [
+        {
+          "quote": "Crooktail even sneezed when the hazels flowered.",
+          "lines": "13",
+          "explanation": "Individuated physical beast, not a generic shadow effect."
+        },
+        {
+          "quote": "Because I know this one",
+          "lines": "235",
+          "explanation": "Rescuing this individual motivates the decisive intervention."
+        }
+      ],
+      "form": "nonverbal physical furred quadrupedal shadow beast",
+      "storyAppearance": {
+        "anatomy": "Physical ribs, ears, muzzle with whiskers, ordinary teeth, forepaws with broad toes, hindquarters, tail. Quadrupedal interpretation consistent with paw/forepaw body language; no wings, horns, hands, extra limbs or luminous eyes.",
+        "lifeStage": "Not specified; seen over at least six years.",
+        "proportions": "Unspecified; substantial body able to knock Tavik over, low-bodied predator chosen as visual interpretation.",
+        "markings": "Right angle in tail; pale seam along one forepaw, side unspecified; light-absorbing dark coat.",
+        "materials": "Real fur with burrs, mud between toes, ash in whiskers.",
+        "clothing": "None.",
+        "equipment": "None.",
+        "scale": "Exact dimensions unspecified; use a human and flat eel-stone only as approximate environmental cues.",
+        "movement": "Wary ground movement; lowers head, withdraws through brush, twists and rolls in a net, rushes free.",
+        "distinctiveFeatures": "Bent tail and pale paw seam must remain consistent in every view."
+      },
+      "explicitCanon": [
+        "Physical animal, not made of darkness.",
+        "Nonverbal; no command bond, allegiance, moral detection or humanoid expression.",
+        "A bite on a fire-stretched shadow diminishes its owner.",
+        "Rubbed-raw fur around hindquarters after net rescue."
+      ],
+      "visualInterpretation": [
+        "Restrained muscular low quadruped with physical charcoal fur; near-black connected planes absorb light and suppress internal detail. No all-over silver/gold highlights or glowing eyes.",
+        "Character-only lateral, rear and front-three-quarter views plus wary head, left forepaw seam, distal tail kink and isolated after-rescue abrasion. Plain ivory support, no environment, terrain or paint swatches.",
+        "Chosen consistent LEFT forepaw seam; broad muzzle, small rounded ears and a substantial low body with four legs. Tail retains a natural base curve with a distinct right-angle distal bend. Unspecified exact anatomy remains non-canon art interpretation."
+      ],
+      "states": [
+        {
+          "name": "before siege",
+          "description": "Dark fur intact; permanent bent tail and pale paw seam."
+        },
+        {
+          "name": "after rescue",
+          "description": "Same animal with a band of fur rubbed raw around hindquarters and ash in whiskers; separate labelled study."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Crooktail",
+        "links": [],
+        "evidence": "Named LOCKED character entry rooted in this story; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/friends-of-the-night/title-image.jpg",
+          "role": "source cover; composition and setting only, no visible character identity",
+          "inspected": true,
+          "notes": "Blue night riverbank, flat eel stone, large paw print; no full beast anatomy established.",
+          "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+          "role": "environment palette and paint handling",
+          "inspected": true,
+          "notes": "Raised broken ochres on hazels and stream stones, warm sunset with deep green and violet shadows; adapt dusk palette without forcing autumn.",
+          "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Broad sculptural paint slabs, textured faces, ivory ground; human anatomy and red cloak are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/friends-of-the-night/art/characters/crooktail.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit.\nEdit Image 1, the complete character-only Crooktail reference sheet. Make exactly these three corrections while preserving everything else.\n\n1. REMOVE the entire row of paint swatches at bottom right. Restore that area to the same empty quiet warm ivory support. No palette, colour chips, painted swatches or new marks/text in the cleared area.\n\n2. Correct the pale forepaw seam in the BOTTOM-LEFT body study labelled \"Front three-quarter\". Crooktail's LEFT forepaw is on the VIEWER'S RIGHT in this toward-viewer pose. Remove the pale seam from the viewer-left foreleg/paw and restore ordinary nearly black fur there. Put the single narrow pale physical seam on the viewer-right foreleg/paw instead (the front paw below and to the right of its muzzle, near the centre-bottom of this study). ONE marked forepaw only. Match the seam in the existing enlarged detail. The upper lateral view and separate paw detail must remain unchanged. Do not add another leg or move any paw.\n\n3. Make Crooktail's signature tail kink unambiguously RIGHT-ANGLED, not a smooth C-shaped hook. In each of the three full-body views and the isolated \"Tail bend\" study, retain the tail's existing length, thickness and gentle natural curve through its base, but give its distal section ONE distinct approximately 90-degree elbow followed by a short straighter terminal segment. This is an old anatomical bend under real fur; angular bone structure with fur around it, not metal or an articulated joint. Keep the same bend anatomy consistently across views. The isolated detail especially must stop reading as an uninterrupted crescent or C. Do not add a second corner, curl, spiral, tip tuft, limb or ornament.\n\nINVARIANTS: preserve near-black physical fur, broad connected low-value paint masses, subdued small highlights, matte ordinary eyes, broad muzzle, four legs, small ears, same dimensions and body proportions, all poses, abrasion band in separate after-rescue detail, all character-only layout/spacing. Keep exact headings \"CROOKTAIL\" and \"Friends of the Night\" and all existing concise labels. No location, scene, ground patch, plants, terrain or additional props. Preserve directional substantial oil treatment, no CGI shine or brightening. Return complete 1536x1024 landscape sheet.",
+        "attempts": [
+          {
+            "number": 1,
+            "status": "REVISE",
+            "generator": "image_gen",
+            "prompt": "Use case: stylized-concept.\nCreate one finished character reference sheet, landscape 1536 x 1024, warm ivory oil-painted ground with clean breathing room.\nImage 1 is the approved SCULPTED IMPASTO style/presentation reference ONLY. Do not copy its human, armour, red cloak or equipment.\nImage 2 is a same-story landscape: use its hazel clearing, flat rock, stream, broken painted masses and warm/cool light for the vignette, adapted to dusk. It does not supply character anatomy.\nImage 3 is the source cover: use its blue dusk atmosphere, broad paw-print suggestion and flat stone with two eels ONLY; no full creature anatomy is depicted there. Do not copy its smooth rendering or typography.\n\nSubject: CROOKTAIL, the nonverbal physical shadow beast from FRIENDS OF THE NIGHT. One consistent identity throughout the sheet. It is an actual fleshy furred quadruped, NEVER made of smoke, shadow vapour or a black void. Exactly four weight-bearing legs, one long tail with a distinctive right-angle bend toward its own left near the distal third. One pale narrow seam runs along the LEFT forepaw. Repeat these two identifying marks consistently wherever visible.\nRestrained visual interpretation: a substantial low-bodied, lean-muscular predator with a broad muzzle, small rounded alert ears, dark ordinary eyes, real whiskers, broad rounded toes and a heavy ribcage. Natural animal postures, no human emotions or gestures. Charcoal-black fur catches blue-violet broken strokes and sparse warm umber light. Ordinary ivory teeth only in the small muzzle study. No luminous eyes, horns, wings, collar, clothes or equipment.\n\nLayout: name at upper left in large readable dark literary serif capitals \"CROOKTAIL\", title below it \"Friends of the Night\". Main top/middle area has TWO large uncropped full-body views, lateral standing and front three-quarter crouch, plus one smaller rear three-quarter study with the entire kinked tail visible. Maintain the same body shape and marking locations across views. Leave generous clear ivory space between silhouettes. Small close studies show the broad left forepaw and its pale seam, and the alert whiskered head. Show two distinct postures, wary and listening, rather than a row of human facial expressions.\nA separate small close study labelled \"After rescue\" shows the same hindquarters with a narrow band of rubbed, thinned fur from the net; non-graphic, no open wound. Other main views show the intact pre-siege coat; do not smear this injury across all views.\nBottom strip: compact painterly vignette of the same Crooktail approaching a flat stone with TWO eels under hazels beside a stream at dusk. Stone and eels provide environmental scale, without precise invented measurements. Keep the full animal silhouette visible. A small row of thick charcoal, indigo, moss-green, ochre and ivory paint swatches may sit beside this vignette.\nExact optional labels only: \"Lateral\", \"Wary\", \"Rear\", \"Pale forepaw seam\", \"After rescue\". No dense annotation, invented biological labels or pseudo-writing.\n\nRendering: heavy sculptural oil impasto as strongly raised and shape-building as image 1, broad palette-knife slabs, decisive bristle strokes, scraped edges, selective exposed ochre underpainting. Interlocking angular masses construct head, muzzle, ears, paws and body, not fine realistic fur beneath a texture filter. Fur texture must follow the form through broken bristle marks and knife ridges. Whiskers are just a few decisive strokes. Warm light and rich cool shadows; preserve black/indigo identity rather than imposing autumn colouring on fur. Ivory ground also has broad restrained impasto but remains visually quiet. Materially distinct stone, water, fur and hazel foliage. No smooth digital shading, photographic face, anime, plastic shine, glossy 3D, excessive microdetail, signature, logo or watermark.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "role": "approved Sculpted Impasto rendering/presentation",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+                "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25",
+                "role": "hazel stream environment and paint treatment",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/title-image.jpg",
+                "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7",
+                "role": "cover dusk atmosphere, stone/eels and paw impression",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T16:28:11.863671+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf0e-1c15-77d0-900e-9ae50c560da4\\exec-eba52404-843c-455e-8ac6-f8b12344e09d.png",
+            "sha256": "40546e01398de9c425021513c759df27e95873ed9d9f4af9b8ece5579b70536c",
+            "review": "All required views/text/physical beast present; tail is rounded hook instead of right angle; left forepaw seam omitted in profile/vignette; face has overly smooth microdetail.",
+            "independentReview": "REVISE: root findings confirmed, plus after-rescue abrasion must be a band around hindquarters, not oval haunch patch (cast_batch_2)."
+          },
+          {
+            "number": 2,
+            "status": "PASS",
+            "generator": "image_gen",
+            "prompt": "Use case: precise-object-edit.\nImage 1 is the Crooktail sheet to correct. Image 2 is the approved Sculpted Impasto rendering reference only.\nKeep the same landscape 1536x1024 sheet, composition, exact names/title/labels, four-legged real animal identity, dark coat, body proportions, ivory ground, environmental vignette, eels, palette and separate post-rescue study.\nMake these three precise corrections consistently:\n1. Crooktail's distinguishing tail must have a true RIGHT-ANGLE KINK, not the curled hook/C-shape currently shown. Replace every visible tail (all full-body views, rear view, hindquarter detail and vignette) with a long proximal section and a shorter straight distal section meeting at ONE unmistakable approximately 90-degree corner. The distal segment turns upward. Keep the organic fur surface, but two fairly straight segments must clearly meet at a sharp elbow-like bend. NO curling, spiral, question-mark curve, rounded hook or loop. This is the same permanent tail shape viewed from each angle; change no other anatomy.\n2. Preserve the pale seam on the animal's LEFT forepaw in the frontal view and detail, and add the SAME narrow pale seam along its left forepaw in the lateral full-body view and vignette wherever that paw is visible. In the left-facing lateral view the nearer front paw is the left forepaw. It is a thin irregular pale fur line, not a large sock or wound. Do not put it on the right forepaw or any hindpaw.\n3. Bring the muzzle and close head studies fully into the thick, angular painted style of image 2: expressive readable animal features made from broad interlocking knife-painted colour planes, scraped edges and visible raised strokes over muzzle/nose/eyes, reducing tiny follicles and glossy photorealistic detail. Keep recognizable natural animal features, a few decisive whiskers and ordinary non-luminous eyes. The charcoal-blue fur already has useful broad bristle/knife structure; retain it. Do not turn the head into a smooth digital painting with texture added on top.\nDo not change the spelling of \"CROOKTAIL\" or \"Friends of the Night\". No new text or subjects.\n4. In the separate 'After rescue' hindquarter study only, change the small oval bare patch into a narrow band of rubbed/thinned fur wrapping across both haunches around the hindquarters, as if abraded by a net. Keep it non-graphic, dull pink-brown skin just peeking through thinned fur, no blood or open injury. Do not add this temporary abrasion to the intact main views.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-eba52404-843c-455e-8ac6-f8b12344e09d.png",
+                "sha256": "40546e01398de9c425021513c759df27e95873ed9d9f4af9b8ece5579b70536c",
+                "role": "edit target; first Crooktail candidate",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "role": "approved Sculpted Impasto rendering/presentation",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T16:33:33.116479+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-23c4271b-a238-44c0-833d-db81e0d39059.png",
+            "sha256": "aae67e1071a0c1f9a1726611a1a879e23abfc61c9c191b8addd18b18052537e9",
+            "selected": false,
+            "review": [
+              "Root inspected full saved pixels and source story: four-legged physical animal, true angled tail, pale left-forepaw seam, coherent full-body views and separate non-graphic wrapping abrasion state.",
+              "Character and story labels readable; unclipped silhouettes; expressive bristle/knife masses in charcoal/indigo fur and face; dusk stone/hazel/stream vignette harmonizes with source painting.",
+              "Independent reviewer cast_batch_2 rechecked corrected pixels: PASS; all four prior findings resolved, vignette paw detail sufficient at reading scale."
+            ],
+            "userReview": "REVISE: generic AI drift, not cohesive Canadian Group of Seven treatment; lighting also needs correction."
+          },
+          {
+            "number": 3,
+            "status": "REVISE",
+            "generator": "image_gen",
+            "model": "tool-selected; not reported",
+            "prompt": "Use case: stylized-concept.\nCreate a fresh Crooktail character study sheet as a Canadian Group of Seven oil study folio. The result must look painted by the SAME hand as the FIRST TWO landscape references, with their organization of colour, light and brushwork.\n\nREFERENCE HIERARCHY\nImage 1, the apple-orchard hillside: PRIMARY reference for flowing brush rhythm, simplified connected colour masses, matte oil colour, sky-filled light and selective edges.\nImage 2, the stream-after-ash landscape: PRIMARY reference for grey/green/blue-violet harmonies, connected shadow masses and broad rock/tree form.\n\nPAINTING AND LIGHT\nCanadian Group of Seven, with the rhythmic form and expressive colour relationships of A. Y. Jackson. Build the animal as large, flowing, interlocking shapes, like the rocks and hills in the reference paintings. The overall light/shadow pattern must read before any texture.\nBroad, assured opaque oil brushstrokes curve around the haunches, sweep along back and tail, and gather into larger muzzle and paw planes. Thick paint belongs to deliberate strokes and selective accents. Retain quiet passages and varied stroke widths. Show a few scumbled or scraped joins, never a uniform armour of thousands of lifted flakes.\nUse soft northern sky light: broad slate-blue illumination over the upper back, a connected deep indigo/umber shadow below, subdued moss reflections on the underside. In every study, this is the SAME diffuse natural light, not a separately spotlit specimen. The face is part of that light mass. Eyes and nose are simple dark painted notes. No glowing eyes, pinpoint glassy catchlights, gold rim light, cinematic orange/teal grading, studio key light, metallic edge glitter, bloom or 3D bevel shading on each brushstroke.\nKeep the animal dark-furred and substantial, with charcoal, muted indigo, brown-black and restrained grey-violet light. Colour is expressive but never metallic. Both body AND head should be as simplified and painterly as the landscape's trees/rocks; don't leave a realistic face inside a coarse body.\nThe ground is quiet warm ivory with lightly brushed opaque oil, NOT thick frosting. No sharp shiny plaster relief across the blank page.\n\nIDENTITY\nOne physical furred, nonverbal four-legged beast. Broad muzzle, small rounded ears, ordinary dark eyes, a long tail with a single true right-angle bend UP near its end, and a thin pale seam on the LEFT forepaw. All views must agree. Fur is real, not smoke. No added wings/horns/human traits. The separate 'After rescue' study shows a narrow wrapping band of rubbed fur around the hindquarters; keep intact fur in other studies.\n\nSHEET\nLandscape 1536x1024, generous ivory spacing. Readable dark serif heading \"CROOKTAIL\" and title \"Friends of the Night\", restrained in scale, with generous spacing. Two or three uncropped useful body views, one simplified head study, a paw study and separate after-rescue hindquarter study. Useful exact labels: \"Lateral\", \"Wary\", \"Rear\", \"Pale forepaw seam\", \"After rescue\". No extra prose.\nBottom: a compact vignette approaching a flat eel-stone under hazels beside a stream, with TWO eels. Use gentle fading daylight under a pale blue-grey sky, without an orange sunset spotlight. The animal must belong to the same light and brushwork as its setting. Finish with a small palette strip.\nThis is an expressive oil painter's field-study page, not fantasy game concept art, a glossy render with impasto pasted on it, mosaic, carved wood, encrusted chips, photorealism or digital illustration.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "PRIMARY collection brushwork, colour masses and natural lighting",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "PRIMARY collection subdued palette and connected light/shadow shapes",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T18:40:05.257292+00:00",
+            "intent": "Full style and lighting repaint after user rejection",
+            "briefReview": "Independent style diagnosis selected same two landscape anchors. Rejected figures and original dense impasto reference omitted to prevent lighting/surface contamination. New frame retains same textual identity and actual story anatomy.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-eca2adba-5f73-4fce-af34-7f86e697dff1.png",
+            "sha256": "6f0d67fe9ac75b35306b7de6aae3d585e9b1071ce6a1698792c1849153f690fd",
+            "independentReview": "Substantial Group of Seven style/lighting improvement: connected masses, diffuse daylight, matte face, quiet ivory. Correct eels swimming to resting on stone; show abrasion as band of hair loss, not coloured fur."
+          },
+          {
+            "number": 4,
+            "status": "PASS-for-user-retry",
+            "generator": "image_gen",
+            "prompt": "Use case: precise-object-edit. Make two small story-fidelity corrections to this newly painted Crooktail reference folio. Preserve its complete composition, exact headings and labels, creature anatomy, shapes, Canadian Group of Seven oil treatment, broad brush rhythm, matte quiet ivory ground, subdued colours and natural diffuse sky lighting. Do not sharpen, gloss, bevel, relight or add texture.\n\n1. Bottom environment vignette: remove the TWO eels swimming in the stream and place those TWO eels resting together on the broad FLAT FEEDING STONE at the near stream edge, in front of the approaching Crooktail. Use the existing large low slab in the foreground, or make its flat upper face readable by a small local change. Both eels are clearly lying on dry stone, fully out of water, within reach of the same beast. No fish or eels remain swimming. Paint them in the same broad muted strokes and ambient light as the stone and animal; avoid glossy detail. Preserve the rest of the landscape and the animal's posture.\n2. The separate small hindquarter study labelled \"After rescue\": show a narrow band of fur rubbed away by a net, wrapping across the hindquarters. It needs a visible continuous ribbon of dull muted rose-grey SKIN, with broken furry margins, so it reads as hair loss rather than another colour of hair. Non-graphic: no blood, wound, exposed flesh or inflammation. Main body views and landscape animal keep intact fur. Do not move or relabel the study.\nChange no other subject or text. Keep 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-eca2adba-5f73-4fce-af34-7f86e697dff1.png",
+                "sha256": "6f0d67fe9ac75b35306b7de6aae3d585e9b1071ce6a1698792c1849153f690fd",
+                "role": "new Group of Seven style/lighting candidate; localized content edit target",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T18:49:59.935929+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-bb5fc3d8-f1c0-4f7e-adcd-8859004fe06b.png",
+            "sha256": "fb26c6ee5411a393d28fa5bedb11e2749ce81892f85d91854be9956f807ac603",
+            "review": [
+              "Root and independent reviewer cast_batch_2 inspected corrected pixels against same two collection landscapes: substantially improved connected masses, diffuse natural daylight, matte face, varied directional oil strokes, quieter ivory; no lacquered per-stroke bevel highlights.",
+              "Four-legged physical beast; terminal right-angle tail, left-forepaw seam and separate non-graphic hair-loss band remain readable; both eels rest on feeding stone. Name/title and studies readable and uncropped."
+            ],
+            "selected": false,
+            "userReview": "REVISE: user rejected bright daylight; source permits midday but sheet neglects light-absorbing fur and night character."
+          },
+          {
+            "attempt": 5,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: lighting-weather with a source-correct scene replacement.\nAsset: one revised landscape 3:2 oil-painted character reference sheet, intended 1536x1024.\n\nImage 1 is the EDIT TARGET for character identity and sheet organization only. Its daylight, uniformly highlighted fur and sunny feeding vignette are rejected. Image 2 is the PRIMARY LIGHTING AND PAINT reference: the story's existing nocturnal oil landscape. Follow its low values, connected dark masses, muted blue-black/umber/violet colour relationships, sparse light and directional substantial oil strokes. Its narrow warm horizon is NOT a sun or moon to insert.\n\nPRIMARY CORRECTION: Crooktail is a physical furred animal whose coat holds so little light that its observer repeatedly loses its edges. Show that property. Paint real nocturnal studies, not a daylit animal against a dark backdrop and not a blue filter on the old bright fur. Let broad near-black fur masses join the dark ground; only a few subdued cool planes describe ribs, shoulder and muzzle. Remove the pervasive silver, tan and gilded fur chips. Suppress detail inside the shadow family. Lose substantial portions of the legs, belly, jaw and far side into neighbouring dark paint while retaining enough intermittent silhouette to infer anatomy. No glossy eyes, glittering nose, outline lighting, moonbeam, spotlight, artificial fill, or uniformly bright fur texture. Keep physical weight, brushwork, fur, mud and ordinary dark eyes; it is not smoke, a void, a glowing being or a translucent ghost.\n\nLAYOUT: retain quiet warm ivory page margins, identifying headings and generous gutters, but put the main animal views and head study within softly irregular DARK PAINTED ENVIRONMENT FIELDS. Ivory is the sheet support, NOT a light source. Thus dark edges may disappear into a local dark ground. Keep same approximate arrangement: large upper-left lateral body, upper-middle wary head, upper-right rear view, middle paw-seam detail and separate after-rescue abrasion study, large bottom story vignette. Labels stay on ivory. Exact existing headings \"CROOKTAIL\" and \"Friends of the Night\"; concise labels \"Lateral\", \"Wary\", \"Rear\", \"Pale forepaw seam\", \"After rescue\". Keep the palette small and subdued. No explanatory prose or new decorative text.\n\nIDENTITY INVARIANTS: same substantial low quadruped, broad muzzle, small ears, four legs with broad toes, ordinary eyes, real charcoal fur, distinctive right-angle bend near the end of its long tail, pale seam on the LEFT forepaw. No horns, wings, human anatomy or new equipment. Whole-body silhouettes fit inside the page. Injury is a modest non-graphic rubbed-fur band around hindquarters, isolated in \"After rescue\" detail, not a new fur-colour stripe. Preserve exact name and story title. The paw seam is pale but does not emit light. Let it be more legible in the enlarged detail than in the main view.\n\nREPLACE THE BOTTOM VIGNETTE with this precise second-night source moment: after its net anchors are cut, Crooktail rushes across the last firelit patch toward open ground newly darkened by hooded fort beacons. Show it moving AWAY from a small distant source of bonfire light behind it, into deep unlit valley ground. Distant fire may touch only a FEW rear-facing planes with muted ochre; no full warm rim or bright hero glow. Its leading head and forequarters increasingly merge into cool-black open ground. Broad dark grass/earth and sparse thorn shapes are sufficient. Night sky. No sunrise/sunset disc, moon, bright clouds, lit fort beacons or sparkling stream. This is not the feeding scene: REMOVE eels and feeding stone entirely. No net remains attached after release. Do not add people, extra beasts or new narrative action.\n\nPAINT LANGUAGE: coherent Canadian Group of Seven-inspired collection painting: form through rhythmic large colour and value shapes, directional bristle strokes and selective thick impasto, simplified massing, quiet connecting passages. Preserve oil's physical substance without lighting every stroke like a bevel. Dark paint must remain richly painted, not a flat digital silhouette. Differentiate fur/earth/thorns by stroke direction rather than sharp detail. Resist automatic orange-blue spectacle and photographic CGI modelling. Return the entire revised reference sheet, not a crop.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-bb5fc3d8-f1c0-4f7e-adcd-8859004fe06b.png",
+                "role": "Edit target for established identity and sheet arrangement only; prior daylight is rejected.",
+                "inspected": true,
+                "sha256": "fb26c6ee5411a393d28fa5bedb11e2749ce81892f85d91854be9956f807ac603"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
+                "role": "Primary nocturnal value structure, lost-edge treatment, palette and directional oil handling; not a literal scene layout.",
+                "inspected": true,
+                "sha256": "caa98233a1641b03987d9fa1173e3a7378f3b2506908e269f15a88ccc7a4e0be"
+              }
+            ],
+            "startedAt": "2026-09-23T19:32:55.973929+00:00",
+            "preflight": "Root inspected both inputs and full source. Independent reviewer approved second-night post-release scene, low-light coat and ivory gutters with dark study fields; daylight feeding scene removed, not recoloured into an incorrect night event.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-0598bea3-a163-4f48-9989-456166ee1ed5.png",
+            "outputSha256": "2cbb63b46da74c2bd4a990f2ee7e09b0bcaf3887ef485a6ff39746947f7d0d8c",
+            "finishedAt": "2026-09-23T19:34:45.613166+00:00",
+            "dimensions": "1536x1024",
+            "coordinatorReview": "Low-value coat, lost edges, dark study grounds and night scene substantially corrected. Pending independent inspection; far-left fire structure may read as a fortress rather than camp and requires review."
+          },
+          {
+            "attempt": 6,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "cancelled-before-generation",
+            "prompt": "Use case: precise-object-edit.\nImage 1 is the sole edit target. Make ONE local correction in the far-left BACKGROUND of the bottom night vignette, directly above and behind Crooktail's tail. The current silhouettes around the small distant orange fire resemble a burning fortress with battlements, towers and tall poles. REMOVE those architectural silhouettes and tall poles. Replace only that small patch with ONE modest camp bonfire burning on OPEN GROUND, low dark earth around it and a little rough stacked firewood. No wall, castle, burning building, tent, people or new objects. Keep the distant fire's small size, existing subdued warm colour and approximately the same light footprint; do not brighten or enlarge it.\n\nThis is the invader camp fire that Crooktail is leaving behind on the story's second night. The fort beacons have been hooded and must not appear lit. The fire is background context, not the subject.\n\nKeep ALL Crooktail studies and the bottom vignette's animal completely unchanged: physical identity, anatomy, pose, lost edges, deep cool-black coat, sparse existing warm planes, surrounding dark ground and sky. Preserve every heading, label, palette, page margin, composition, night value structure and substantial directional oil paint. Do not globally repaint, relight, smooth, brighten, add a rim halo or restore daylight. Do not add any text. Return the complete 1536x1024 landscape sheet with only this small background architectural correction.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-0598bea3-a163-4f48-9989-456166ee1ed5.png",
+                "sha256": "2cbb63b46da74c2bd4a990f2ee7e09b0bcaf3887ef485a6ff39746947f7d0d8c",
+                "inspected": true,
+                "role": "Sole edit target; preserve corrected nocturnal sheet and replace small distant burning-fortress silhouette with source-supported open-ground camp bonfire."
+              }
+            ],
+            "startedAt": "2026-09-23T19:35:53.388525+00:00",
+            "preflight": "Root inspected actual night candidate. Source explicitly distinguishes invader fires from hooded fort beacons. Small camp-fire correction preserves successful low-light treatment and identity.",
+            "reason": "User removed all locations from preview scope before the camp-fire patch was generated. No image tool call occurred for this prepared attempt."
+          },
+          {
+            "attempt": 7,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: precise-object-edit and character reference layout.\nImage 1 is the edit target. Redesign the COMPLETE sheet as a CHARACTER-ONLY reference folio. The user explicitly wants no locations or scene vignettes.\n\nREMOVE every landscape, vignette, sky, horizon, fire, building, rock, grass, plant, earth/ground patch and scenic painted background from the ENTIRE sheet. Remove even the small ground patches under isolated paws. Use a quiet plain warm ivory painted-paper support throughout with generous empty spacing. No frames depicting environments. No scenery anywhere, including tiny decorations. Preserve substantial directional oil brushwork in the character itself.\n\nPRESERVE CROOKTAIL'S DARK RENDERING: its physical furred body absorbs most light. Keep deep connected near-black, charcoal, umber and muted blue-violet masses. Internal anatomical planes should partly disappear into one another. Only sparse, subdued strokes distinguish shoulder, flank and muzzle; do not brighten every tuft or add tan/silver flecks, rimlight, glossy eyes or a studio sheen. The ivory page is NOT warm illumination on the creature. Readability comes from the page spacing, silhouette and a few selected landmarks, while the body remains very dark. No smoke, transparency, magic glow or flat vector silhouette. Broad purposeful bristle strokes and selective thick oil paint, Canadian Group of Seven-inspired colour-mass construction, with quieter connecting passages. No uniformly embossed paint-chip texture or CGI anatomy.\n\nIDENTITY: preserve exactly this same substantial low-bodied quadruped, broad muzzle, small ears, four legs with broad toes, ordinary dark eyes, long tail with a single unmistakable right-angle bend near its end, pale seam along LEFT forepaw. No new limbs, horns, wings, clothing or equipment. No change in apparent identity between views. The pale paw seam is a physical mark and does not glow. The separate after-rescue hindquarter study retains a modest non-graphic band of rubbed-away fur, not a coloured fur stripe. Main views show intact pre-rescue fur.\n\nCOMPOSITION: same 1536x1024 landscape 3:2 folio. Keep exact headings \"CROOKTAIL\" and \"Friends of the Night\" at upper left. Keep the large upper-left isolated lateral view, the upper-middle wary head study, the upper-right isolated rear view, the pale forepaw detail and after-rescue detail. Use the space formerly occupied by the bottom landscape for ONE useful complete isolated front-three-quarter crouching view of Crooktail plus a smaller isolated detail of the distinctive tail bend. These are studies of the same creature, not a setting or narrative event. Three complete body views total: lateral, rear and front three-quarter. They must be uncropped, unmerged, consistently proportioned and clearly separated.\n\nLabels only: \"Lateral\", \"Wary\", \"Rear\", \"Pale forepaw seam\", \"After rescue\", \"Front three-quarter\", \"Tail bend\". Keep exact name/storytitle and concise legible labels on ivory. A small restrained paint palette strip is acceptable. No other prose or invented lore. No eels, feeding stone, personal props or scale landscape. Subject-only focus across the full sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-0598bea3-a163-4f48-9989-456166ee1ed5.png",
+                "sha256": "2cbb63b46da74c2bd4a990f2ee7e09b0bcaf3887ef485a6ff39746947f7d0d8c",
+                "inspected": true,
+                "role": "Edit target: retain low-light physical character and identity; remove every environment and replace scene with isolated character studies."
+              }
+            ],
+            "startedAt": "2026-09-23T19:40:57.829781+00:00",
+            "preflight": "User explicitly requests character-only references with no locations. Existing nocturnal coat remains the rendering anchor; source-backed anatomy/markings retained, no scene or geographic details carried forward.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-86b9cbf4-6e6f-4765-9e7a-4627924f8274.png",
+            "outputSha256": "cc06d3e1bc898c8d52e3c4aa67c0b1af40e712b7c1176da9af4b8f9dd97ac0e2",
+            "finishedAt": "2026-09-23T19:47:19.067089+00:00",
+            "dimensions": "1536x1024",
+            "coordinatorReview": "Character-only layout and deep fur retained. Latest user requires swatches removed; checking pale-forepaw laterality in new front view."
+          },
+          {
+            "attempt": 8,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "PASS-for-user-preview",
+            "prompt": "Use case: precise-object-edit.\nEdit Image 1, the complete character-only Crooktail reference sheet. Make exactly these three corrections while preserving everything else.\n\n1. REMOVE the entire row of paint swatches at bottom right. Restore that area to the same empty quiet warm ivory support. No palette, colour chips, painted swatches or new marks/text in the cleared area.\n\n2. Correct the pale forepaw seam in the BOTTOM-LEFT body study labelled \"Front three-quarter\". Crooktail's LEFT forepaw is on the VIEWER'S RIGHT in this toward-viewer pose. Remove the pale seam from the viewer-left foreleg/paw and restore ordinary nearly black fur there. Put the single narrow pale physical seam on the viewer-right foreleg/paw instead (the front paw below and to the right of its muzzle, near the centre-bottom of this study). ONE marked forepaw only. Match the seam in the existing enlarged detail. The upper lateral view and separate paw detail must remain unchanged. Do not add another leg or move any paw.\n\n3. Make Crooktail's signature tail kink unambiguously RIGHT-ANGLED, not a smooth C-shaped hook. In each of the three full-body views and the isolated \"Tail bend\" study, retain the tail's existing length, thickness and gentle natural curve through its base, but give its distal section ONE distinct approximately 90-degree elbow followed by a short straighter terminal segment. This is an old anatomical bend under real fur; angular bone structure with fur around it, not metal or an articulated joint. Keep the same bend anatomy consistently across views. The isolated detail especially must stop reading as an uninterrupted crescent or C. Do not add a second corner, curl, spiral, tip tuft, limb or ornament.\n\nINVARIANTS: preserve near-black physical fur, broad connected low-value paint masses, subdued small highlights, matte ordinary eyes, broad muzzle, four legs, small ears, same dimensions and body proportions, all poses, abrasion band in separate after-rescue detail, all character-only layout/spacing. Keep exact headings \"CROOKTAIL\" and \"Friends of the Night\" and all existing concise labels. No location, scene, ground patch, plants, terrain or additional props. Preserve directional substantial oil treatment, no CGI shine or brightening. Return complete 1536x1024 landscape sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-86b9cbf4-6e6f-4765-9e7a-4627924f8274.png",
+                "sha256": "cc06d3e1bc898c8d52e3c4aa67c0b1af40e712b7c1176da9af4b8f9dd97ac0e2",
+                "inspected": true,
+                "role": "Character-only edit target: preserve composition and dark paint; remove palette, correct forepaw laterality and clarify source-specific right-angle tail."
+              }
+            ],
+            "startedAt": "2026-09-23T19:51:11.869900+00:00",
+            "preflight": "Independent reviewer and root confirmed new front-view seam is on wrong forepaw; distal kink too smoothly curved. User explicitly removed paint swatches. Targeted corrections preserve rest.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-ea725079-51ef-4e11-81f9-82aa1e10688e.png",
+            "outputSha256": "71c950facd5089440b3b55494c61af7989b587914fab140c67a051933ae67b3e",
+            "finishedAt": "2026-09-23T19:57:23.621261+00:00",
+            "dimensions": "1536x1024",
+            "selected": true,
+            "coordinatorReview": "Actual pixels inspected: no scenery or swatches, nearly black physical coat, front seam correctly on anatomical LEFT, clear distal right-angle tail in all views and isolated detail, exact readable headings/labels, no new anatomy."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-86b9cbf4-6e6f-4765-9e7a-4627924f8274.png",
+            "sha256": "cc06d3e1bc898c8d52e3c4aa67c0b1af40e712b7c1176da9af4b8f9dd97ac0e2",
+            "inspected": true,
+            "role": "Character-only edit target: preserve composition and dark paint; remove palette, correct forepaw laterality and clarify source-specific right-angle tail."
+          }
+        ],
+        "generator": "image_gen",
+        "backend": "built-in Codex image generation",
+        "model": "tool-selected; not reported",
+        "selectedAttempt": 8
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:04:11.580382+00:00",
+        "sourceSha256": "43a19be8a91977757685f4d2107c15e2aed1dfa85cabdd1e8266b664c45d8911",
+        "outputSha256": "71c950facd5089440b3b55494c61af7989b587914fab140c67a051933ae67b3e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-86b9cbf4-6e6f-4765-9e7a-4627924f8274.png",
+            "sha256": "cc06d3e1bc898c8d52e3c4aa67c0b1af40e712b7c1176da9af4b8f9dd97ac0e2",
+            "inspected": true,
+            "role": "Character-only edit target: preserve composition and dark paint; remove palette, correct forepaw laterality and clarify source-specific right-angle tail."
+          }
+        ],
+        "evidence": [
+          "Root inspected full saved image: all location/ground imagery removed; three isolated complete form views and selected details use quiet ivory spacing; no palette strip remains.",
+          "Character remains physical and nearly black, with ordinary matte eyes and restrained painted planes. Four legs, one consistent pale LEFT forepaw seam and clearly angular distal tail bend. Separate rubbed-fur band remains non-graphic and source-supported.",
+          "Independent reviewer identified forepaw laterality and over-curved tail in prior character-only candidate; root verified both corrections in final saved pixels.",
+          "Independent reviewer confirmed final front seam is anatomical LEFT, tail has clear angular distal bend, nearly black physical coat retained, no scenery or swatches."
+        ],
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "cast_batch_2",
+          "evidence": "Independent reviewer confirmed final front seam is anatomical LEFT, tail has clear angular distal bend, nearly black physical coat retained, no scenery or swatches."
+        },
+        "userApproval": "Pending actual user feedback on these exact character-only, swatch-free preview bytes. Full collection run is not approved.",
+        "specificationSha256": "7eea75cb863189868a8dc370e0eeceb1262cf5f06891e87d60d333022c6e3599"
+      },
+      "outputSha256": "71c950facd5089440b3b55494c61af7989b587914fab140c67a051933ae67b3e",
+      "userFeedback": [
+        {
+          "recordedAt": "2026-09-23T18:38:45.228462+00:00",
+          "verbatim": "ok these surfer from your generic AI drift; they don't fell like the are part of the same collection; the art style should feel like the Canadian group of seven painters. even though they are done in the oil style; try again, before i approve the full run.",
+          "lightingClarification": "its your use of lighting too is important as the other points.",
+          "priorOutputSha256": "aae67e1071a0c1f9a1726611a1a879e23abfc61c9c191b8addd18b18052537e9",
+          "result": "REVISE: collection style and lighting rejected by user; earlier assistant PASS superseded."
+        },
+        {
+          "recordedAt": "2026-09-23T19:31:42.084254+00:00",
+          "verbatim": "when say things light is import and then you place the crooktail in daylight what are you thinking?",
+          "priorOutputSha256": "fb26c6ee5411a393d28fa5bedb11e2749ce81892f85d91854be9956f807ac603",
+          "result": "REVISE: bright daylight and uniformly legible highlighted fur fail Crooktail's defining light-absorbing coat and the intended night presentation. Midday appearance is source-supported, but the selected light was not representative of the requested character treatment."
+        }
+      ],
+      "userPresentationDirection": {
+        "characterOnly": true,
+        "paintSwatches": false,
+        "verbatim": [
+          "ok lets try characters references that don;t place locations. and just focus on character.",
+          "do the same with the other previews; also include 5 more stories for reference.",
+          "remove the pain swap they arent needed."
+        ]
+      }
+    },
+    {
+      "id": "tavik",
+      "name": "Tavik",
+      "role": "first-person protagonist, dusk-keeper",
+      "selectionEvidence": [
+        {
+          "quote": "I keep people from crossing the runs. I don't keep the beasts.",
+          "lines": "107",
+          "explanation": "Narrator defines keeper role; exact source uses a straight apostrophe in don't."
+        },
+        {
+          "quote": "I set down the eels. Crooktail did not retreat, so neither did I.",
+          "lines": "335",
+          "explanation": "Narrator anchors opening and ending relationship."
+        }
+      ],
+      "form": "human; gender not established",
+      "storyAppearance": {
+        "anatomy": "Human body; no specified identifying facial anatomy.",
+        "lifeStage": "Adult interpretation based on six years in office; exact age unresolved.",
+        "proportions": "Unspecified.",
+        "markings": "Unspecified.",
+        "materials": "Ordinary skin and practical cloth.",
+        "clothing": "Coat and cap are explicit; colours and cut unspecified.",
+        "equipment": "Knife; hazel switch; food eels; cap carries diminished sentry.",
+        "scale": "Ordinary human size, explicitly larger than diminished Drost.",
+        "movement": "Crouches, walks keeper routes, cuts net, digs, tends stone.",
+        "distinctiveFeatures": "No source-established hair/eye/skin colours."
+      },
+      "explicitCanon": [
+        "Dusk-keeper who succeeded Denek six years earlier.",
+        "Age and gender unresolved in LOCKED entry."
+      ],
+      "visualInterpretation": [
+        "Androgynous adult appearance without declaring gender; practical brown-grey coat and cap, weathered hands; no elaborate armour.",
+        "Views emphasize keeper tools and wary crouch; compact feeding-stone vignette."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Tavik",
+        "links": [],
+        "evidence": "Named LOCKED character entry rooted in this story; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/friends-of-the-night/title-image.jpg",
+          "role": "source cover; composition and setting only, no visible character identity",
+          "inspected": true,
+          "notes": "Blue night riverbank, flat eel stone, large paw print; no full beast anatomy established.",
+          "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+          "role": "environment palette and paint handling",
+          "inspected": true,
+          "notes": "Raised broken ochres on hazels and stream stones, warm sunset with deep green and violet shadows; adapt dusk palette without forcing autumn.",
+          "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Broad sculptural paint slabs, textured faces, ivory ground; human anatomy and red cloak are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/friends-of-the-night/art/characters/tavik.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "denek",
+      "name": "Denek",
+      "role": "substantial supporting former keeper and rescue partner",
+      "selectionEvidence": [
+        {
+          "quote": "Denek came with me, a spear in one hand and the tiny sentry's bundle in the other.",
+          "lines": "85",
+          "explanation": "Joins the experiment and later dangerous rescue; source apostrophe is straight."
+        },
+        {
+          "quote": "Denek returned to the collapsed den with a shovel.",
+          "lines": "323",
+          "explanation": "His changed actions complete the secondary arc."
+        }
+      ],
+      "form": "human man",
+      "storyAppearance": {
+        "anatomy": "Human; no unusual anatomy.",
+        "lifeStage": "Called the old keeper; exact age unresolved.",
+        "proportions": "Unspecified.",
+        "markings": "Thumb nick during rope cutting is temporary.",
+        "materials": "Skin, practical worn cloth and wooden spear shaft.",
+        "clothing": "Belt explicit; practical keeper clothes otherwise unspecified.",
+        "equipment": "Spear, belt knife, later shovel.",
+        "scale": "Ordinary human.",
+        "movement": "Experienced careful route finding, crouching and crawling, digging by hand.",
+        "distinctiveFeatures": "No specified hair, eyes or skin colour."
+      },
+      "explicitCanon": [
+        "Former dusk-keeper and beast hunter.",
+        "Knows drive paths; cuts Crooktail free; helps reopen den."
+      ],
+      "visualInterpretation": [
+        "Older weathered face, greying hair and plain earth-toned work layers; these are restrained casting choices, not fixed canon.",
+        "Knife, spear and shovel studies kept distinct; no invented insignia."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Denek",
+        "links": [],
+        "evidence": "Named LOCKED character entry rooted in this story; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/friends-of-the-night/title-image.jpg",
+          "role": "source cover; composition and setting only, no visible character identity",
+          "inspected": true,
+          "notes": "Blue night riverbank, flat eel stone, large paw print; no full beast anatomy established.",
+          "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+          "role": "environment palette and paint handling",
+          "inspected": true,
+          "notes": "Raised broken ochres on hazels and stream stones, warm sunset with deep green and violet shadows; adapt dusk palette without forcing autumn.",
+          "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Broad sculptural paint slabs, textured faces, ivory ground; human anatomy and red cloak are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/friends-of-the-night/art/characters/denek.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "torma",
+      "name": "Torma",
+      "role": "substantial supporting defense captain and negotiator",
+      "selectionEvidence": [
+        {
+          "quote": "Torma stood above the arch in a boiled-leather coat, counting standards.",
+          "lines": "25",
+          "explanation": "Commands defense throughout."
+        },
+        {
+          "quote": "Because I said hold",
+          "lines": "279",
+          "explanation": "Her repeated order enables safe withdrawal."
+        }
+      ],
+      "form": "human woman",
+      "storyAppearance": {
+        "anatomy": "Human; unspecified facial features.",
+        "lifeStage": "Adult interpretation; exact age unresolved.",
+        "proportions": "Unspecified.",
+        "markings": "None established.",
+        "materials": "Boiled leather coat.",
+        "clothing": "Boiled-leather coat; other garments unspecified.",
+        "equipment": "White shield used as negotiation signal; no personal weapon specified.",
+        "scale": "Ordinary human.",
+        "movement": "Leans over parapet, directs crews, speaks through wicket.",
+        "distinctiveFeatures": "Commanding attentive posture, without invented rank decoration."
+      },
+      "explicitCanon": [
+        "Shalegate defense captain.",
+        "Protects diminished captives and orders archers to hold."
+      ],
+      "visualInterpretation": [
+        "Practical dark leather coat, bound dark hair and adult face are restrained choices.",
+        "Fort-wicket vignette, directing and listening expressions."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Torma",
+        "links": [],
+        "evidence": "Named LOCKED character entry rooted in this story; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/friends-of-the-night/title-image.jpg",
+          "role": "source cover; composition and setting only, no visible character identity",
+          "inspected": true,
+          "notes": "Blue night riverbank, flat eel stone, large paw print; no full beast anatomy established.",
+          "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+          "role": "environment palette and paint handling",
+          "inspected": true,
+          "notes": "Raised broken ochres on hazels and stream stones, warm sunset with deep green and violet shadows; adapt dusk palette without forcing autumn.",
+          "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Broad sculptural paint slabs, textured faces, ivory ground; human anatomy and red cloak are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/friends-of-the-night/art/characters/torma.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "marshal-drost",
+      "name": "Marshal Drost",
+      "role": "central antagonist who negotiates withdrawal",
+      "selectionEvidence": [
+        {
+          "quote": "He wore bronze scales over blue wool.",
+          "lines": "99",
+          "explanation": "Distinctive explicit costume on antagonist arrival."
+        },
+        {
+          "quote": "At the boundary he grew from my shoulder height to his full stature in three unsteady steps.",
+          "lines": "309",
+          "explanation": "Has a materially important diminished state and restoration."
+        }
+      ],
+      "form": "human man; proportional temporary diminution",
+      "storyAppearance": {
+        "anatomy": "Human; intact proportional anatomy in both states.",
+        "lifeStage": "Adult interpretation; exact age unresolved.",
+        "proportions": "Normal human proportions preserved while diminished.",
+        "markings": "None established.",
+        "materials": "Bronze scale armour over blue wool.",
+        "clothing": "Bronze scales over blue wool; boots.",
+        "equipment": "Short bronze knife, sidearms kept sheathed on retreat.",
+        "scale": "Initially full-sized; later reaches Tavik’s shoulder, returns to full stature at boundary.",
+        "movement": "Authoritative posture becomes tired and unsteady at restoration.",
+        "distinctiveFeatures": "Bronze scales must shrink proportionally with body and clothes."
+      },
+      "explicitCanon": [
+        "Invading marshal.",
+        "Diminished then restored on crossing western boundary."
+      ],
+      "visualInterpretation": [
+        "Mature adult with practical short hair and restrained face; no invented crown or faction badge.",
+        "Two proportionally identical full and diminished studies with Tavik silhouette or cairn scale cue, clearly labelled."
+      ],
+      "states": [
+        {
+          "name": "full stature",
+          "description": "Full human scale with bronze-over-blue equipment."
+        },
+        {
+          "name": "diminished",
+          "description": "Same proportions and equipment, height to Tavik’s shoulder."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Marshal Drost",
+        "links": [],
+        "evidence": "Named LOCKED character entry rooted in this story; no cross-story identity assumed."
+      },
+      "references": [
+        {
+          "path": "stories/friends-of-the-night/title-image.jpg",
+          "role": "source cover; composition and setting only, no visible character identity",
+          "inspected": true,
+          "notes": "Blue night riverbank, flat eel stone, large paw print; no full beast anatomy established.",
+          "sha256": "e22997611a2c2136618191034de0e11f9312ba084aa71cde382d1af3ec9959b7"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/01-sunset-under-the-hazels.png",
+          "role": "environment palette and paint handling",
+          "inspected": true,
+          "notes": "Raised broken ochres on hazels and stream stones, warm sunset with deep green and violet shadows; adapt dusk palette without forcing autumn.",
+          "sha256": "444b87912186004b7acef07800627334f2e98764c518f2acce028e183b599c25"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved Sculpted Impasto rendering and sheet presentation only",
+          "inspected": true,
+          "notes": "Broad sculptural paint slabs, textured faces, ivory ground; human anatomy and red cloak are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        }
+      ],
+      "output": "stories/friends-of-the-night/art/characters/marshal-drost.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    }
+  ]
+}
