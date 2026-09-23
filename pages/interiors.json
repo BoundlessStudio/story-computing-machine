@@ -8943,19 +8943,26 @@
           "id": "03-the-blocked-hall-doors",
           "title": "The blocked hall doors",
           "alt": "The blocked hall doors — oil interior study for The Strength of Ten",
-          "source": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
-          "sourceSha256": "ec854d303dd368de9e5a852788a65fd797a2ba935ea3dac365b4bf1e8cbe4f6b",
+          "source": "pages/interior-replacements/strength-of-ten/03-the-blocked-hall-doors.png",
+          "sourceSha256": "c8a0cbbc2ea40419bb6369774308df736f45825f87790b707535d4f86848edaa",
           "full": {
-            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-ec854d303dd368de.webp",
-            "sha256": "228d153917e10a74fc2891674a357912c765f79be47cc971c86eee25a90db0b0",
+            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-c8a0cbbc2ea40419.webp",
+            "sha256": "a23ef60fbb0b4bbce7ecff12eeff9ed757c3bbbcabb48eee6253c0f048c758e4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-ec854d303dd368de-thumb.webp",
-            "sha256": "1a1f3e2826cbe6ec20d5493cd51d3aade622653aa5b2c8bb5690b71e218c1f02",
+            "path": "interiors/strength-of-ten/03-the-blocked-hall-doors-c8a0cbbc2ea40419-thumb.webp",
+            "sha256": "a793e7d3967402605a6b5435102a3a47075568226ee7fff810a3f3530fcf3618",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
+            "originalSha256": "ec854d303dd368de9e5a852788a65fd797a2ba935ea3dac365b4bf1e8cbe4f6b",
+            "correction": "Keep the same table upright on its feet, broad horizontal top clear enough for documents, while placing its long side against the doors and retaining floor gouges.",
+            "prompt": "Correct the FIRST supplied finished interior painting, 1536 x 1024, 3:2 landscape. The SECOND supplied painting is a continuity reference for the SAME massive iron-banded oak table before it was moved. Keep the first painting's focus on the blocked double hall doors, heavily gouged wooden floorboards, stone jambs and tall narrow snowy window, fur-covered chair at left, lantern light and cold blue/ochre winter palette. Preserve its expressive Group of Seven-inspired OIL painting, broad angular impasto marks, visibly painted edges and substantial rough materials.\n\nONE essential change: the table blocking the doors must be standing UPRIGHT on its normal feet, with its broad tabletop HORIZONTAL and fully usable. In the story Gorm DRAGS the table sideways across the main doors; he does not overturn it. Sigrun then places a route ledger on its top, and later documents are signed there. Replace the current near-vertical plank-slab barricade with the same huge oak table seen in the second reference, translated sideways so its LONG BACK EDGE is jammed against the double doors. The room-facing long edge runs across the picture. Show the thick horizontal plank top with recognizable riveted black iron bands around its edges, substantial separate legs/trestle supports underneath and visible open dark SPACE between those legs. There must be no solid vertical wall of broad tabletop planks down to the floor. Use a slightly higher viewing angle only as needed to clearly see a broad horizontal surface, while retaining ample scarred-floor foreground.\n\nOn the broad top retain the book/route ledger, two metal cups and drinking horn from the first image, sitting naturally on the horizontal surface. The square-link gold chain may lie across the ledger and tabletop with only a short end over the near edge. Give the ledger and chain comfortable space so this is plainly a working table, not a narrow shelf. Match the second reference's table timber thickness and ironwork without importing its different camera angle, map layout or fireplace. Preserve the floor gouges leading to the table's feet, the closed doors, existing chair and fur. Empty hall, no people, no text or captions, no added ornaments. Correct only the table's orientation/construction and necessary prop placement.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -12018,6 +12025,11 @@
       "source": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
       "sourceSha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72",
       "reason": "Preserve the workshop; replace direct and reflected mountain/lake views with non-specific light or obscured glazing."
+    },
+    {
+      "source": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
+      "sourceSha256": "ec854d303dd368de9e5a852788a65fd797a2ba935ea3dac365b4bf1e8cbe4f6b",
+      "reason": "Keep the same table upright on its feet, broad horizontal top clear enough for documents, while placing its long side against the doors and retaining floor gouges."
     }
   ]
 }
