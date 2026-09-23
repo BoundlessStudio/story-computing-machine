@@ -4964,19 +4964,26 @@
           "id": "03-passage-tap-and-pail",
           "title": "Passage tap and pail",
           "alt": "Passage tap and pail — oil interior study for The Door in the Ivy",
-          "source": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
-          "sourceSha256": "314a620102fc0c1405bfee310761ebb02ac84043a3eba0c8189cac59f6e94d05",
+          "source": "pages/interior-replacements/the-door-in-the-ivy/03-passage-tap-and-pail.png",
+          "sourceSha256": "de1ff0ae05d5575a78213db250436a09a5e8ca57bca5b3fffe9ffdaf30dbecbb",
           "full": {
-            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-314a620102fc0c14.webp",
-            "sha256": "dba8a6b887474223e97ef257b8f12cceefa06d9849c13d43bc0199ff185290db",
+            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-de1ff0ae05d5575a.webp",
+            "sha256": "86756bdce374785be2ee26e3094c6682354f0a2e24e95c431056aec01d6c67ca",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-314a620102fc0c14-thumb.webp",
-            "sha256": "5e8feb5437bebb9fb8ec40ce510ef1f142f17760e96470705b69a3010b772c90",
+            "path": "interiors/the-door-in-the-ivy/03-passage-tap-and-pail-de1ff0ae05d5575a-thumb.webp",
+            "sha256": "b407aa12f83d8d1646b2e7ca89bca6f0719fb41e305f3c195b70c9cec1e5a11d",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
+            "originalSha256": "314a620102fc0c1405bfee310761ebb02ac84043a3eba0c8189cac59f6e94d05",
+            "correction": "Keep one established passage plan across all views; revise 03's far end to match 01, preferably using a closer tap/pail framing to add a more distinct study.",
+            "prompt": "Use case: reference-based continuity correction. Revise image 1 into a closer tap-and-pail oil study within the SAME service passage established by image 2. Keep 3:2 landscape, preferably 1536x1024.\nImage 1 is the painting being corrected. Image 2 is the authoritative passage geometry and hardware reference. Both depict the same entry-to-interior direction: whitewashed walls, dark low wooden ceiling beams, worn level flagstones, wall tap and metal pail on the RIGHT, warm afternoon light falling in from the green exterior entrance behind/left of the viewer.\nCreate a closer, more intimate framing just inside that entrance, aimed slightly toward the right wall. The old brass/iron wall tap and dented galvanized pail directly beneath it dominate the right foreground, large enough to read their simple working shapes and chipped reflected light. Match the tap in image 2: projecting directly from the whitewashed wall with a small crossbar handle and curved downward spout; no floor-length external pipe. Match its gray metal pail, wire handle and damp green staining below the tap. Preserve broad textured light and shadow on whitewash and stone.\nThe narrow corridor recedes on the LEFT behind this foreground pair. Crucial fixed geography: its far end is a plain shadowed WHITEWASHED WALL, with a narrow dark opening at the far LEFT side, exactly as image 2. The floor remains level all the way back. Remove image 1's invented centered terminal green door, stone arch and steps completely. Do not add a doorway or window centered on the end wall. Preserve the modest side recesses and low beams as far as they remain in this closer view. There is only one established passage.\nCrop the near exterior green entry door and its hardware completely OUT of this new close framing, so there is no ring latch or incompatible door hardware. Warm reflected entrance light and a few ivy-shaped shadows can still cross the lower wall/floor at left. Do not show new garden rooms, furnishings, distant rooms or an outdoor panorama. No new broom or basket; the quiet pair of working objects is the focus.\nPreserve the same expressive Group of Seven-inspired oil handling as both supplied paintings: broad impasto blocks, confident thick strokes, warm ochre, lavender/slate shadows, chalky whitewash and muted green. This must be an empty interior study painted in the same hand, not a photograph, 3D rendering, diagram or collage. No people, text, captions, lettering, signatures or watermark.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11898,6 +11905,11 @@
       "source": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
       "sourceSha256": "dea76220ffa1cc939daec267b32b8fb6ff2d1dd0bdcf96cbbbd2712618d8810b",
       "reason": "Shrink the white circle to the central rail/operator zone at the engine base, with all nine crew stations outside."
+    },
+    {
+      "source": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
+      "sourceSha256": "314a620102fc0c1405bfee310761ebb02ac84043a3eba0c8189cac59f6e94d05",
+      "reason": "Keep one established passage plan across all views; revise 03's far end to match 01, preferably using a closer tap/pail framing to add a more distinct study."
     }
   ]
 }
