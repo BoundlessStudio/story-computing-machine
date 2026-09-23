@@ -4326,19 +4326,26 @@
           "id": "03-the-machine-below-the-tombs",
           "title": "The machine below the tombs",
           "alt": "The machine below the tombs — oil interior study for The Cat Who Kept the Door",
-          "source": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
-          "sourceSha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+          "source": "pages/interior-replacements/the-cat-who-kept-the-door/03-the-machine-below-the-tombs.png",
+          "sourceSha256": "fad68ce6f248e1cc1b795d2dfd7d09aa013fdafea89f097713474013c69c2db7",
           "full": {
-            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-52f4e545bc49db7c.webp",
-            "sha256": "433f84b46f5d1c4146626ad9fa2b7621dcb868a611d0b0bcfbc8ffd01e537633",
+            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-fad68ce6f248e1cc.webp",
+            "sha256": "1c10e1c833c1b56f50dab264edd04b3ead5048b0a3dc48e096f0ee1bb63d2b67",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-52f4e545bc49db7c-thumb.webp",
-            "sha256": "ea5d3ed6bd5d2465c9e89681e4875fd15f7bc199357695b572fe81068e45ce85",
+            "path": "interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs-fad68ce6f248e1cc-thumb.webp",
+            "sha256": "2d8ec6a896e9aaab7b87c8124a24dbc0016bda6ba060aa6cd44278ca6beb9dde",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
+            "originalSha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+            "correction": "Remove railings from the final length of the service bridge while preserving the gallery rails and machinery.",
+            "prompt": "Use case: precise architectural edit. Edit this empty ancient-machine chamber painting with exactly one change: the FINAL LENGTH of the elevated narrow service bridge, nearest the opened egg machine, has NO RAILINGS. Keep the original 3:2 frame, 1536x1024 preferred.\nThe service bridge enters from the right edge and reaches the bright machine opening near the center. Remove every above-deck horizontal rail and railing post from BOTH edges of its leftmost final third, from the machine threshold outward toward the right for about six paces. The two long rails of the remaining right-hand approach must visibly end at a matched pair of terminal posts about two-thirds of the way from the image's right edge toward the machine. Beyond those terminal posts, the narrow deck runs wholly unguarded to the open shell: bare deck edges with clear open air on either side. Keep all deck grating, underside beams and support trusses intact. Ensure no floating rail segment remains near the bright threshold.\nPreserve the foreground stone gallery's posts/rails and every distant wall gallery railing. Preserve the opened egg shell, large raised upper shell leaf on chains/counterweights, white branching column and glass plates, copper machinery, rising mast, wall arms, chamber architecture, abyss, lighting and composition. Retain expressive Group of Seven-inspired thick oil paint, blue-gray shadows and amber/white light, broad confident strokes. No people, cat, labels, new machinery, text overlay, watermark, signature, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11466,6 +11473,11 @@
       "source": "stories/roads-under-impossible-stars/art/interiors/03-foil-blanket-refuge.png",
       "sourceSha256": "d42514f9566e5db9b405bb9deb1eeecc10d7eeeb3513152d8e1324e15b9e9db6",
       "reason": "Restore the analog instrument cluster consistent with image 01 and the source temperature needle, and show one clear green 1 on a distinct dashboard clock. Keep the useful foil-seat composition."
+    },
+    {
+      "source": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
+      "sourceSha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+      "reason": "Remove railings from the final length of the service bridge while preserving the gallery rails and machinery."
     }
   ]
 }
