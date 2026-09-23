@@ -9951,19 +9951,26 @@
           "id": "03-the-central-hollow-bridge",
           "title": "The central hollow bridge",
           "alt": "The central hollow bridge — oil interior study for The Way Around",
-          "source": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
-          "sourceSha256": "f7bdceeaaa5ab0ad9338dee9aa2bd64e2ac71d2fbc43b61d6159a22397c37891",
+          "source": "pages/interior-replacements/the-way-around/03-the-central-hollow-bridge.png",
+          "sourceSha256": "35dd6052eca2170444c9a5eff28b604f46432873bcfe14b8974c49d6e09c90ff",
           "full": {
-            "path": "interiors/the-way-around/03-the-central-hollow-bridge-f7bdceeaaa5ab0ad.webp",
-            "sha256": "31dde13fa0aded52f548b85be7d4a61b965a8365b4ba1b963e36f71a4b36080e",
+            "path": "interiors/the-way-around/03-the-central-hollow-bridge-35dd6052eca21704.webp",
+            "sha256": "ac54034a0bd88cad024ac04ab1cb3cfe4143c6b81d278a444574448810f66bef",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-way-around/03-the-central-hollow-bridge-f7bdceeaaa5ab0ad-thumb.webp",
-            "sha256": "387126a5acc4a1b842992acd0b4593b28eadea282c4f6baf7698bc1f59be53d9",
+            "path": "interiors/the-way-around/03-the-central-hollow-bridge-35dd6052eca21704-thumb.webp",
+            "sha256": "1e7b4e40ebb724418100de2215c375cd659cbfb03e5f4e6c3fa012bf7683a2c8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
+            "originalSha256": "f7bdceeaaa5ab0ad9338dee9aa2bd64e2ac71d2fbc43b61d6159a22397c37891",
+            "correction": "Replace only the bowl lamp with the enclosed oil-window lantern design from 01, preserving the bridge composition.",
+            "prompt": "Use case: precise single-prop continuity edit. Reference 1 is the central hollow bridge painting to edit. Preserve its entire bridge, floorless deep hollow, crossing fitted sandstone rings, large square supports, foreground central stone plinth and nested circular grooves, lighting, framing and thick expressive oil brushwork. Reference 2 supplies ONLY the already-established carried lantern construction, visible at the left: a compact dark-metal enclosed oil lantern with a clear glass chamber, protective metal frame, small metal cap, curved top carry handle and a squat fuel reservoir.\nChange ONLY the open bowl lamp at the right rear edge of the foreground plinth in reference 1. Remove that bowl and exposed wick, replacing it at the SAME position with ONE compact enclosed oil lantern matching reference 2. It must stand upright securely on the plinth, well clear of the nested-ring grooves. Keep it a small portable lantern, not a large fixture: roughly the bowl's footprint, with a modest upright glass body and metal handle. The little flame must be clearly inside its glass chamber, with warm reflections on the dark metal frame. Add a small oil-level sight window low in the fuel reservoir; show only a thin remaining pool of oil at its bottom, because these carried lamps are almost empty. No open fuel dish, exposed wick bowl, extra lantern or second light source.\nMaintain the source artwork's Group-of-Seven-inspired bold oil strokes and warm orange sandstone against deep slate/blue darkness. Do not change the relief grooves, bridge curvature or stone geometry. No people, equipment, outdoor scenery, windows to sky, symbols added beyond the existing carving, writing, captions, headings, watermark or border. One 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         }
       ]
@@ -12078,6 +12085,11 @@
       "source": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
       "sourceSha256": "da160b2643898297f0204778cbb78d7f984312fb3f1b873028a4936d9b768d1b",
       "reason": "Retain the aftermath, ledger, slush and wreckage, but match the established window shapes, bay spacing and square columns from 01."
+    },
+    {
+      "source": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
+      "sourceSha256": "f7bdceeaaa5ab0ad9338dee9aa2bd64e2ac71d2fbc43b61d6159a22397c37891",
+      "reason": "Replace only the bowl lamp with the enclosed oil-window lantern design from 01, preserving the bridge composition."
     }
   ]
 }
