@@ -4613,19 +4613,26 @@
           "id": "01-museum-tactical-gallery",
           "title": "Museum tactical gallery",
           "alt": "Museum tactical gallery — oil interior study for The Count Was 131,072",
-          "source": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
-          "sourceSha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16",
+          "source": "pages/interior-replacements/the-count-was-131072/01-museum-tactical-gallery.png",
+          "sourceSha256": "661f95a1955c0e7334a930a9c53b05f3054145ae90f8fc91a7c37c90ce0ffe47",
           "full": {
-            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-d9f73ddbc01b9b9c.webp",
-            "sha256": "68a6c6deeb1b1bdfd16c18dbe422243bc35b6ae93ce5d099fdc31a5e8e585dde",
+            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-661f95a1955c0e73.webp",
+            "sha256": "8e7dc405fa553e14824400e6f3a37808a1c93a8df1a878b0ff66b6674731c8d5",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-d9f73ddbc01b9b9c-thumb.webp",
-            "sha256": "7a0467c505b62ccc2e72ef1e1705a40baa2fcaa9f834e21cff97c3c08bccc797",
+            "path": "interiors/the-count-was-131072/01-museum-tactical-gallery-661f95a1955c0e73-thumb.webp",
+            "sha256": "f7f65491e73dfdad39ce1883657456d45d0deaf7e5a24d0b768200f5ed7d1a3b",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
+            "originalSha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16",
+            "correction": "Add the unlit glass circle and its THE QUEEN STOOD HERE label at the central visitor position. Preserve the empty room and idle seascape; no figures or active descending streams are required.",
+            "prompt": "Edit the supplied finished museum interior OIL PAINTING with one narrowly defined source correction. Retain 1536 x 1024 landscape, the exact room viewpoint, square pale stone piers, grey polished floor, ceiling spotlights, silver boundary rails, glass tactical floor with its idle bay seascape and two breakwaters, and the long sword case under its fitted grey cloth at the back. Preserve the existing expressive Group of Seven-inspired oil treatment: broad irregular slab-like brushstrokes, visible impasto, cool grey/blue and warm ochre reflections. Keep the gallery empty.\n\nAdd the missing permanent visitor marker at the CENTER of the glass tactical floor, over the central dark-blue bay area. The source specifies a CIRCLE OF UNLIT GLASS bearing exactly the words:\nTHE QUEEN STOOD HERE\n\nMake it a person-sized circular insert FLUSH with the surrounding glass floor, seen as a horizontal perspective ellipse, approximately 240 pixels wide and 95-110 pixels deep at this framing. Place its center around the center of the floor exhibit, not in the foreground stone walkway. Its glass is dark charcoal-blue and unlit, with a thin quiet silver/grey boundary and ordinary subdued reflections. The words are etched or physically printed pale lettering on that glass, in two short legible lines: \"THE QUEEN\" above \"STOOD HERE\". Lettering follows the perspective of the horizontal surface and has subtle painted edges; it is part of the real museum exhibit, not a floating caption or screen overlay. Spell all four words exactly. Keep the insert visually readable without making it glow.\n\nPreserve the idle bay image around the circle, including both breakwaters and shoreline. Do not add a queen silhouette, human figure, sword, crown, active descending battle streams, pedestal or new rail. The sword case remains covered. No extra text, no title, no watermark. All other room details remain as close as possible to the supplied painting.",
+            "generator": "image_gen"
           }
         },
         {
@@ -12090,6 +12097,11 @@
       "source": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
       "sourceSha256": "f7bdceeaaa5ab0ad9338dee9aa2bd64e2ac71d2fbc43b61d6159a22397c37891",
       "reason": "Replace only the bowl lamp with the enclosed oil-window lantern design from 01, preserving the bridge composition."
+    },
+    {
+      "source": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
+      "sourceSha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16",
+      "reason": "Add the unlit glass circle and its THE QUEEN STOOD HERE label at the central visitor position. Preserve the empty room and idle seascape; no figures or active descending streams are required."
     }
   ]
 }
