@@ -725,6 +725,108 @@
       ]
     },
     {
+      "slug": "a-place-for-the-living",
+      "title": "A Place for the Living",
+      "reader": "stories/a-place-for-the-living.html",
+      "images": [
+        {
+          "id": "aunt-zephra-morrow",
+          "title": "Aunt Zephra Morrow",
+          "alt": "Sculpted Impasto character reference sheet of Aunt Zephra Morrow for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/characters/aunt-zephra-morrow.png",
+          "sourceSha256": "a3c478df5d4d87b311894eaab9917ddac54006dff2298b94a02f641fa36a045d",
+          "full": {
+            "path": "characters/a-place-for-the-living/aunt-zephra-morrow-a3c478df5d4d87b3.webp",
+            "sha256": "c47a9e738dac6a32923255abb998c3ec79c94062685c1764eeb55029a8bbf549",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-the-living/aunt-zephra-morrow-a3c478df5d4d87b3-thumb.webp",
+            "sha256": "68c5e97c7b636bf4c35d4c8218c860799008f0c71d749e30b15f962437a93205",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "davina-morrow",
+          "title": "Davina Morrow",
+          "alt": "Sculpted Impasto character reference sheet of Davina Morrow for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/characters/davina-morrow.png",
+          "sourceSha256": "91a36b93f5bbe986f0aa4de013b1289995b7aa03ce60da6b82b6b4947aa3753c",
+          "full": {
+            "path": "characters/a-place-for-the-living/davina-morrow-91a36b93f5bbe986.webp",
+            "sha256": "d8377144d609072e4e47371bee2ba96b7019c514d7a08350044a872caf32fe75",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-the-living/davina-morrow-91a36b93f5bbe986-thumb.webp",
+            "sha256": "3b5e4225012cc8c6debb5735897c9015df8fc1511c7050a57ecfc4fbdd9ab7d3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "greer-morrow",
+          "title": "Greer Morrow",
+          "alt": "Sculpted Impasto character reference sheet of Greer Morrow for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/characters/greer-morrow.png",
+          "sourceSha256": "c22ac9df8a38ca047409e7177369483e469db2eb01fe735e4b087d7ac1a23393",
+          "full": {
+            "path": "characters/a-place-for-the-living/greer-morrow-c22ac9df8a38ca04.webp",
+            "sha256": "ef4b1bc61969f30eb862faca9ada3cca18030a7842f5b7b50d7c1076f6b36891",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-the-living/greer-morrow-c22ac9df8a38ca04-thumb.webp",
+            "sha256": "c90a95eec4159a853195beded318de2c0504c4b9bde22fe7fbda7c5c6d22cb65",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "halvern",
+          "title": "Halvern",
+          "alt": "Sculpted Impasto character reference sheet of Halvern for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/characters/halvern.png",
+          "sourceSha256": "8ea546b7070d9903e9f2c7a56aa2af953d183460683e02c63f507f819cfbc917",
+          "full": {
+            "path": "characters/a-place-for-the-living/halvern-8ea546b7070d9903.webp",
+            "sha256": "806240ab0cb560af47d4ca1ba37341e16bac337150da39f2a50a9414865b127a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-the-living/halvern-8ea546b7070d9903-thumb.webp",
+            "sha256": "be4423360e54994dcd325499e8cf2bb145cde30e8cd6ca74eac400a15530f39b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "imani-crowe",
+          "title": "Imani Crowe",
+          "alt": "Sculpted Impasto character reference sheet of Imani Crowe for A Place for the Living",
+          "source": "stories/a-place-for-the-living/art/characters/imani-crowe.png",
+          "sourceSha256": "9a4bbb1da72abdaf0fbcc2587017e11ce5e165abcc6249d6348ed31e7a01326d",
+          "full": {
+            "path": "characters/a-place-for-the-living/imani-crowe-9a4bbb1da72abdaf.webp",
+            "sha256": "7197ad0498a4e428e0b105aa98d2dea15923f94096147dcea5e5d34692f3f415",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-place-for-the-living/imani-crowe-9a4bbb1da72abdaf-thumb.webp",
+            "sha256": "1e1f082359739b0834e1318e81d728545634f93002bee74518166e39f85e6418",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "coiled-together",
       "title": "Coiled Together",
       "reader": "stories/coiled-together.html",
@@ -1107,6 +1209,108 @@
           "thumbnail": {
             "path": "characters/drone-down/sevi-efe8b5b7f30da58e-thumb.webp",
             "sha256": "13652145a52d3a7b28fb313f25d2053fb65533becb96f1ddcd66c982eed33a8a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-throne-neither-wanted",
+      "title": "The Throne Neither of Us Wanted",
+      "reader": "stories/a-throne-neither-wanted.html",
+      "images": [
+        {
+          "id": "edelis",
+          "title": "Edelis",
+          "alt": "Sculpted Impasto character reference sheet of Edelis for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/characters/edelis.png",
+          "sourceSha256": "27d81e7f37a44e66393600d90f256dd50870d6a92768cfaf8b4f7c8243d233a1",
+          "full": {
+            "path": "characters/a-throne-neither-wanted/edelis-27d81e7f37a44e66.webp",
+            "sha256": "b3f219d8dcda48a9dc128c382acdf45883716153d675503182c35fd77a1dfcc9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-throne-neither-wanted/edelis-27d81e7f37a44e66-thumb.webp",
+            "sha256": "64d268defc90977d375159f99631ac09b7c33e1c00d6eaf667ff2b5380347dfa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "marnelle",
+          "title": "Marnelle",
+          "alt": "Sculpted Impasto character reference sheet of Marnelle for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/characters/marnelle.png",
+          "sourceSha256": "ab6abe9755c23ccfd49a7d8bba8366860dd70dab49d8bc3633b98a47098bdcec",
+          "full": {
+            "path": "characters/a-throne-neither-wanted/marnelle-ab6abe9755c23ccf.webp",
+            "sha256": "d48218cf6833896fd7c9286fb91f0bdba8ba8b4b4a2b7478c1c4b6219fba8d2a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-throne-neither-wanted/marnelle-ab6abe9755c23ccf-thumb.webp",
+            "sha256": "5c470daa3a6d7023d62e22e4650e3902d8276dd558903d0667826762188b4781",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "othven",
+          "title": "Othven",
+          "alt": "Sculpted Impasto character reference sheet of Othven for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/characters/othven.png",
+          "sourceSha256": "38224251678c25b88aafc9c4ae951981056cc70458caf92e1c01d5105a0a363c",
+          "full": {
+            "path": "characters/a-throne-neither-wanted/othven-38224251678c25b8.webp",
+            "sha256": "acbce8455e27817dd9d946817cd8a104cbb2dae489ad61c5b950ed308167130f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-throne-neither-wanted/othven-38224251678c25b8-thumb.webp",
+            "sha256": "f691b4ac1c37a09076c15633875cb46ca7470dac372ec173a791a5de059ef4cc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sorevia",
+          "title": "Sorevia",
+          "alt": "Sculpted Impasto character reference sheet of Sorevia for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/characters/sorevia.png",
+          "sourceSha256": "4ef63f9c4aa984da43002c98afc7b2c17ceb1656af2fa2c29d83bda1baeb80e6",
+          "full": {
+            "path": "characters/a-throne-neither-wanted/sorevia-4ef63f9c4aa984da.webp",
+            "sha256": "595fb3e0086669efa1f3bc6b943adcc97b9b23f1e6b706899faf18697e4dec25",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-throne-neither-wanted/sorevia-4ef63f9c4aa984da-thumb.webp",
+            "sha256": "778d1f72b2a87325550c8db56fea5e8fd8c8108109e552d64fccd8e434cda1e0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vesran",
+          "title": "Vesran",
+          "alt": "Sculpted Impasto character reference sheet of Vesran for The Throne Neither of Us Wanted",
+          "source": "stories/a-throne-neither-wanted/art/characters/vesran.png",
+          "sourceSha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+          "full": {
+            "path": "characters/a-throne-neither-wanted/vesran-1180e35160d91c2c.webp",
+            "sha256": "0aef8c8847285abb0aacb9919af3527f770334e4c838632b3d757984cca2ddb2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-throne-neither-wanted/vesran-1180e35160d91c2c-thumb.webp",
+            "sha256": "a30f862a9343955e3045c540ff1a6a22b354c635607763b26c6991f84e6937b0",
             "width": 480,
             "height": 320
           }
