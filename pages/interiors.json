@@ -3441,19 +3441,26 @@
           "id": "02-upstairs-room",
           "title": "Upstairs room",
           "alt": "Upstairs room — oil interior study for Storm Warning",
-          "source": "stories/storm-warning/art/interiors/02-upstairs-room.png",
-          "sourceSha256": "f7ed4382e1331529889bb53a436f020fcae446f7a3bc1eba25291065e19e3894",
+          "source": "pages/interior-replacements/storm-warning/02-upstairs-room.png",
+          "sourceSha256": "75d5139f97cfee77ffbc5e2a2a432fd122e4f8d9abb968c18bdf50e899f93f52",
           "full": {
-            "path": "interiors/storm-warning/02-upstairs-room-f7ed4382e1331529.webp",
-            "sha256": "b92b388e171a4f8107db353214016e360d37d15cce66d9641d733ebd74d0be6e",
+            "path": "interiors/storm-warning/02-upstairs-room-75d5139f97cfee77.webp",
+            "sha256": "a7713722d1d39147c451c3a9fb2c6f3dfa36d8db9c3f8ccf4f013c01d627f7f5",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/storm-warning/02-upstairs-room-f7ed4382e1331529-thumb.webp",
-            "sha256": "eac3c394a201be71106eca5641762255e9672d28b1ebf8a59a193da10b58ca28",
+            "path": "interiors/storm-warning/02-upstairs-room-75d5139f97cfee77-thumb.webp",
+            "sha256": "a2cde17360516ad1defd722800560ecb0266a26ce063377bd918b9d883fc160b",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/storm-warning/art/interiors/02-upstairs-room.png",
+            "originalSha256": "f7ed4382e1331529889bb53a436f020fcae446f7a3bc1eba25291065e19e3894",
+            "correction": "Remove the red dress from the cupboard while retaining the ending's wired-glass red light.",
+            "prompt": "Use case: precise-object-edit. Make one small continuity correction to this existing oil painting of an empty upstairs confinement room.\nRemove the red dress from the open wooden cupboard at center-right. Remove both the folded red cloth on the middle shelf and its draping red hem below. That shelf and hanging compartment should now be bare, dark, worn wood. Retain the small case and bottom drawer, cupboard doors and all joinery. Do not replace the dress with any other clothing or object.\nPreserve everything else exactly: narrow iron bed with grey bedding, short-cord radio on the bedside table, rain-streaked wired window, red warning-sign light outside and its red reflections across the room, bare bulb, scuffed floorboards, mat, and inward-opening door with meal hatch. The warning light is still red and on. The red dress is absent because its owner has already put it on and left the room. Do not add a person or show the dress anywhere else.\nKeep the original confident thick expressive Group of Seven-inspired oil brushwork, dark indigo and warm red/ochre palette, empty-room atmosphere, 3:2 landscape framing, preferably 1536x1024. No text overlay, captions, signatures, watermark, collage, border, photography or 3D rendering. Only remove the cupboard garment.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11298,6 +11305,11 @@
       "source": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
       "sourceSha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
       "reason": "Add a sixth coherent control station to the curved bank, with adequate framing so all six are legible."
+    },
+    {
+      "source": "stories/storm-warning/art/interiors/02-upstairs-room.png",
+      "sourceSha256": "f7ed4382e1331529889bb53a436f020fcae446f7a3bc1eba25291065e19e3894",
+      "reason": "Remove the red dress from the cupboard while retaining the ending's wired-glass red light."
     }
   ]
 }
