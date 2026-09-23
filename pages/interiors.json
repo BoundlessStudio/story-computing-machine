@@ -4477,19 +4477,26 @@
           "id": "02-brutalist-undercroft",
           "title": "Brutalist undercroft",
           "alt": "Brutalist undercroft — oil interior study for The City of Eleven Foundations",
-          "source": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
-          "sourceSha256": "a0ae051aab4f6e8389c3c08d004972709321f9aa59ffa021fe53224fe5d480e5",
+          "source": "pages/interior-replacements/the-city-of-eleven-foundations/02-brutalist-undercroft.png",
+          "sourceSha256": "a5c611b9889d38af5eae6c26706009c64b739d8ba9278a214d18b9d3898230b6",
           "full": {
-            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a0ae051aab4f6e83.webp",
-            "sha256": "66d1b229e94bdc08ee705363b5b82c16058b2d23e29c4fe685cc0c8e170b574a",
+            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a5c611b9889d38af.webp",
+            "sha256": "189644305644d3c1b4a4bbc2cfc03408ea1664baaf90ec7a75d8ef5cbef2304a",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a0ae051aab4f6e83-thumb.webp",
-            "sha256": "f40117056db4dda239f6e5c4ac9222fa44687a13b215771ef0b59b18dfe7483f",
+            "path": "interiors/the-city-of-eleven-foundations/02-brutalist-undercroft-a5c611b9889d38af-thumb.webp",
+            "sha256": "b4a1279ee69ba568fb78c93063ca6780e21de12f375c9322c0ccff568b4ea752",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
+            "originalSha256": "a0ae051aab4f6e8389c3c08d004972709321f9aa59ffa021fe53224fe5d480e5",
+            "correction": "Place red below yellow consistently on all visible concrete supports; preserve the flood tide mark and other supported details.",
+            "prompt": "Use case: precise-color-edit. In this oil painting, RECOLOR the two existing horizontal painted stripes on every concrete support. Do not add stripes or move them.\nThere are two separated stripe levels on the main central column: a thin RED stripe high on the column, and a thick YELLOW stripe lower down just above the brown mud. Change the existing HIGH red stripe to YELLOW. Change the existing LOW yellow stripe to RED. Preserve the unpainted grey concrete gap between them. Every colored pixel belonging to the low yellow stripe should become weathered red paint, including its sunlit face. Leave no yellow stripe beneath the red one.\nApply that identical color swap to all repeating supports, including the far-left cropped column, small background columns, pier between the two open doors and far-right cropped pier. At every support there must be exactly TWO bands, one yellow HIGH, one red LOW, separated by unpainted concrete. No third stripe and no adjacent newly added stripe. Preserve the original stripe widths, levels, perspective and weathering.\nKeep all architecture, composition, flood level, muddy tide traces, open flood doors, ramp, tilted cabinet and loose locking pins unchanged. Match reflections to the corrected colors. Retain the original expressive thick oil brushwork and grey/cream/ochre palette. No people, labels, text, new objects, watermark, border or collage. One 3:2 landscape image, 1536x1024 preferred.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11574,6 +11581,11 @@
       "source": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
       "sourceSha256": "60f8c4d158bfa70e4533dba021a903894ed82cfd092cfa817b11062a723e9209",
       "reason": "Show a white floor boundary joining the two folding beacons across the aisle while retaining the ceramic test lane."
+    },
+    {
+      "source": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
+      "sourceSha256": "a0ae051aab4f6e8389c3c08d004972709321f9aa59ffa021fe53224fe5d480e5",
+      "reason": "Place red below yellow consistently on all visible concrete supports; preserve the flood tide mark and other supported details."
     }
   ]
 }
