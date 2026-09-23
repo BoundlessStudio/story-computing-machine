@@ -3451,38 +3451,52 @@
           "id": "01-round-tea-room",
           "title": "Round tea room",
           "alt": "Round tea room — oil interior study for Tea for the First Guest",
-          "source": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
-          "sourceSha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+          "source": "pages/interior-replacements/tea-for-the-first-guest/01-round-tea-room.png",
+          "sourceSha256": "660abfdd6c9c96502c980885f5566888d737527b1f3fece72330ed1dc219f365",
           "full": {
-            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-71c1ef4a2e9a8a76.webp",
-            "sha256": "10ad268756c86f201ee0345d9bd5dc9d8aaadc21070872c60f4ec4957a5622ba",
+            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-660abfdd6c9c9650.webp",
+            "sha256": "105fb6dd94248320715744f2274ecaaec44e4531775581e2893f652c9f5170a1",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-71c1ef4a2e9a8a76-thumb.webp",
-            "sha256": "01d5563acafe59f167b857d91344d7dadef6709b55e110db1e872a751d61ab56",
+            "path": "interiors/tea-for-the-first-guest/01-round-tea-room-660abfdd6c9c9650-thumb.webp",
+            "sha256": "62c11469d283d39c830cc5d24ed07be6781b330aa0d42b23f4039a8581e47af6",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
+            "originalSha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+            "correction": "Remove hinged panel; source roadside through empty magical threshold; preserve round room and pairs of cups/stairs; correspondingly dim lower lamps and cloud small sky window for opened-threshold state.",
+            "prompt": "Use case: precise-object-edit.\nImage 1 is the existing wide round-tea-room oil painting, the edit target and primary style, composition and room-identity reference. Correct the magical doorway and what is seen through it while preserving this recognizable empty room. Deliver one landscape image, 3:2, 1536x1024.\nKEEP the round stone tower room, two curving stairways flanking the central hearth, narrow upper galleries, blue tiled floor, low wooden tea table and rug, two empty mismatched wooden chairs, central stone fireplace and iron fire screen, copper kettle over the fire, brown clay teapot, drying cloths and rail, mantel objects. Keep the dense expressive Group of Seven-inspired oil-paint treatment: broad angular impasto marks, shaped grey-blue/slate stone masses, ochre/amber firelight, visible confident brushwork. No photographic or 3D drift.\nCorrect the LEFT threshold. The magical handleless wood panel has thinned and vanished completely. DELETE the entire hinged-open wooden door leaf and all its hinges, handle, latch and hanging panels. Leave the existing STONE threshold opening entirely EMPTY and unobstructed, with no wooden door leaf folded against either jamb and no glowing portal effect. It opens directly onto the near roadside in rain.\nREPLACE the distant mountain/conifer vista through that opening with a CLOSE ordinary muddy road under grey evening rain. The road passes ACROSS the opening just beyond its wet stone threshold; a dense thorny HAWTHORN HEDGE occupies the far side of the road at close range, filling the background. At the right side of the visible exterior, a short rough grey MILESTONE leans toward a shallow ditch, its TOP CLEARLY BROKEN OFF at a jagged angle. Show wet mud, a water-filled boot print and rain striking the hedge. Keep the near hedge and broken leaning marker readable within the doorway. No mountains, distant forest, long scenic route, lake, lettering on the marker or figures.\nMatch the interior light to this opened threshold: the fire remains warmly alight, but the visible lower wall and gallery lamps have dimmed to small dull ember-red glows, not bright yellow lantern flames. The little high square window above the kettle now shows clouded blue-grey sky rather than brilliant noon blue. Let the existing fire remain the warm light source, preserving the original rich amber/slate palette and legible painted room.\nThe table has EXACTLY TWO drinking cups: one delicate thin WHITE PORCELAIN cup with the existing simple blue motif and exactly ONE ordinary small handle, and one thick BROWN CLAY cup with one handle and a visibly missing crescent chip from its rim. Preserve the clay teapot. No extra handles, duplicated cups or new props.\nEverything remains empty: no people, animals, story characters, text overlays, headings, signature, watermark, collage or contact sheet. Change only the threshold, roadside view, directly linked lighting state and cup-handle/chip clarity; retain all other supported room relationships.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-mismatched-cups",
           "title": "Mismatched cups",
           "alt": "Mismatched cups — oil interior study for Tea for the First Guest",
-          "source": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
-          "sourceSha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+          "source": "pages/interior-replacements/tea-for-the-first-guest/02-mismatched-cups.png",
+          "sourceSha256": "c18728ec3534662a17645f133189ddd735a2558d01f408d93d16250f13818ff3",
           "full": {
-            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-cbd70fa0de65c9c9.webp",
-            "sha256": "d3b93a71f341bcfe06157a10a8462e16f80d198f2f149c2da65a343a75d48ada",
+            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-c18728ec3534662a.webp",
+            "sha256": "9096501ab304fa86b9457ceeb8199d2bbafb6d00a5d510d4580e2bc62b4d3f9e",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-cbd70fa0de65c9c9-thumb.webp",
-            "sha256": "57b7a4085c98ae339d20ea9cefb29f855f6a84a8d65e5891c008d40fea953a0b",
+            "path": "interiors/tea-for-the-first-guest/02-mismatched-cups-c18728ec3534662a-thumb.webp",
+            "sha256": "9bc58334329a8ff8d61a9a1c5630c58dfc6900dad10e56153eae0e2b137977f5",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+            "originalSha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+            "correction": "Empty threshold and source roadside, cup clarity with one fine white porcelain cup and one thick brown chipped cup, consistent with corrected first view.",
+            "prompt": "Use case: precise-object-edit.\nEdit Image 1, the original close tea-table oil painting. Image 2 is the selected corrected wide view of the SAME round room, and controls threshold, roadside, lamp/window state and cup continuity. Retain Image 1's closer composition with the low table prominent, two empty wooden chairs cropped near us, hearth and copper kettle behind, doorway at left, two curving stairs/galleries as visible, blue tiles, drying rail, mantel objects and lush confident oil brushwork. Deliver one 3:2 landscape 1536x1024.\nMatch the following corrected details from Image 2 precisely:\n1. The LEFT STONE THRESHOLD is fully open and EMPTY because its magical wood panel has vanished. REMOVE every part of the solid hinged-open wood door leaf from Image 1, including planks, handle, hinge and latch. No hinged panel lies against the left jamb or right jamb. Keep the existing stone opening and a normal wet stone threshold, without glow or magical graphics.\n2. The view immediately outside is the SAME CLOSE rainy muddy roadside from Image 2. The road crosses the opening near the threshold, with ruts and a water-filled boot print. A dense thorny HAWTHORN HEDGE fills the far side at close range. A short grey milestone at the RIGHT of that view leans toward the ditch and has an uneven JAGGED BROKEN TOP with a missing corner. No writing. Preserve the positions of road, hedge and marker relative to Image 2; this closer camera angle may crop them naturally. Remove Image 1's distant mountain and conifer vista entirely. No lake, deep landscape or scenic long route.\n3. The lower wall/gallery lamps are dim dull EMBER-RED, while the fire remains alive and provides warm amber light. The small square sky window above the kettle is clouded blue-grey as in Image 2, not clear bright noon blue. Preserve deep slate, ochre and amber palette and room readability.\n4. EXACTLY TWO drinking cups sit on the foreground table with the existing brown clay teapot between them. REPLACE Image 1's erroneous two-handled white cup with the accepted Image 2 cup: a delicate thin WHITE PORCELAIN teacup with blue flower motif and exactly ONE small handle ON ITS RIGHT toward the teapot; its LEFT contour is completely smooth, NO left loop or handle. The cup on the right is thick BROWN CLAY with exactly ONE right-side handle and a clearly visible missing crescent CHIP cut into its FRONT-LEFT RIM with rough pale clay edge. Both cups have the same forms and scale relationship as Image 2, only enlarged by the closer framing.\nKeep all other relationships unchanged and preserve the original thick angular Group of Seven-inspired oil-paint strokes and shaped color masses. Empty room, no people/animals, no extra cups or handles, text, headings, signature, watermark, collage, photography or 3D.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11022,6 +11036,16 @@
       "source": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
       "sourceSha256": "d915ee0c955be29d9fd83fcae7c21800336c4809828ce04a46ed7b1feba7da40",
       "reason": "Wrap all five nested color layers tightly around the main contact roller and show the spring-loaded roller train contacting the two offset rims."
+    },
+    {
+      "source": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
+      "sourceSha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+      "reason": "Remove hinged panel; source roadside through empty magical threshold; preserve round room and pairs of cups/stairs; correspondingly dim lower lamps and cloud small sky window for opened-threshold state."
+    },
+    {
+      "source": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+      "sourceSha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+      "reason": "Empty threshold and source roadside, cup clarity with one fine white porcelain cup and one thick brown chipped cup, consistent with corrected first view."
     }
   ]
 }
