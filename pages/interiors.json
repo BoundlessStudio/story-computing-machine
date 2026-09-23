@@ -9544,19 +9544,26 @@
           "id": "02-the-writing-table",
           "title": "The writing table",
           "alt": "The writing table — oil interior study for The Walls Are Thick Enough",
-          "source": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
-          "sourceSha256": "4b6f95666ebb06e1e98ed56b289a5fa48e6365f92b9a6edd5f696801a3c20ae3",
+          "source": "pages/interior-replacements/the-walls-are-thick-enough/02-the-writing-table.png",
+          "sourceSha256": "d943f1c7f499b5712338cb0fe18b226bfe7497cd0313e7398ec4cd6652d5cfda",
           "full": {
-            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-4b6f95666ebb06e1.webp",
-            "sha256": "8124c5947524673621c964e520c270236c289e4fb1d7c6530e6790b3b9ddaada",
+            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-d943f1c7f499b571.webp",
+            "sha256": "b27f6ecda83c484308ee67032836a22361464925c6c6fcbd30c215f2f020b013",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-4b6f95666ebb06e1-thumb.webp",
-            "sha256": "2ad4021974a6ef4a903662f86525b13f4d444a42f0bcd02c89ed39473cb39114",
+            "path": "interiors/the-walls-are-thick-enough/02-the-writing-table-d943f1c7f499b571-thumb.webp",
+            "sha256": "a56c43869532bd8076ca689d460dfd561c58964cf28fc97fe7bafa05e2e05e53",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
+            "originalSha256": "4b6f95666ebb06e1e98ed56b289a5fa48e6365f92b9a6edd5f696801a3c20ae3",
+            "correction": "Keep image 01's door layout: depict the visible right-hand doorway as the appropriate inner corridor/court, or reframe the close table angle so the established garden door stays on its original side.",
+            "prompt": "Use case: localized doorway geography correction. Image 1 is the close writing-table scene to edit. Image 2 establishes this room's actual layout: the garden door is to the LEFT of the couch; the narrow servants' corridor doorway is immediately to the RIGHT of the tiled stove. Image 2 supplies only the corridor's appearance and door function. Keep Image 1's camera, table and composition, 3:2 landscape, 1536x1024 preferred.\nCorrect the existing visible RIGHT-HAND doorway in Image 1, beside the stove. It opens into the enclosed SERVANTS' CORRIDOR, NOT a garden. Replace every glimpse of cypresses, flowering bushes, outdoor paving, mountains and sunset sky within this doorway with a modest shaded interior passage like the small middle doorway in Image 2: cool blue-gray flagstone floor, nearby plain stone walls, low stone ceiling/arch, and a simple dark wooden storage shelf with an ordinary jug deeper inside. The view must terminate in quiet interior masonry, with no greenery, landscape or outdoor sky. Keep the doorway in exactly the same wall position. No extra doorway is added.\nThis servants' door operates only from the corridor side. Remove the existing room-side lifting bolt and lever handle from the visible open wooden door leaf; retain its plain heavy planks and hinge straps, but its room-facing surface has no operable latch or bolt. Leave the door open as now, showing the corridor.\nPreserve the green-wax-sealed petition, tied leather witness register, table lamp, writing table/chair, short linen couch to the stove's left, patterned tiled stove, shelf lamp/plate, pots, wood basket and rug. Preserve warm amber light on the room and the thick confident expressive Group of Seven-inspired oil rendering, brick texture and painterly color masses. Room remains empty of people. No text overlay, labels, watermark, signature, photographic or 3D style.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11730,6 +11737,11 @@
       "source": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
       "sourceSha256": "ab4bd133a2d5b7fb3890061d95831392f4561917adf97d76c3b7840a69a3562b",
       "reason": "Close the central doorway with continuous plaster wall, keeping the guitar, stool, hatch and foreground table as one small room."
+    },
+    {
+      "source": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
+      "sourceSha256": "4b6f95666ebb06e1e98ed56b289a5fa48e6365f92b9a6edd5f696801a3c20ae3",
+      "reason": "Keep image 01's door layout: depict the visible right-hand doorway as the appropriate inner corridor/court, or reframe the close table angle so the established garden door stays on its original side."
     }
   ]
 }
