@@ -647,19 +647,26 @@
           "id": "02-coldmouth-workbench",
           "title": "Coldmouth workbench",
           "alt": "Coldmouth workbench — oil interior study for A Little Winter for Sale",
-          "source": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
-          "sourceSha256": "8ffb4ee1e588a573d4bfeb83a7c4134d359644b12aca45a86a431e58df68e1f1",
+          "source": "pages/interior-replacements/a-little-winter-for-sale/02-coldmouth-workbench.png",
+          "sourceSha256": "a83f016a3bd6bd0efa39be7e1f0e6f1de10ecb6ca66ae19e069c6c5175112094",
           "full": {
-            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-8ffb4ee1e588a573.webp",
-            "sha256": "c655d170f201bd9a61fa67578b6d52d8118b4d8cb366fae047f5f9df5de522c9",
+            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-a83f016a3bd6bd0e.webp",
+            "sha256": "36cb86015e86dbd7a799f77cba9efac8c2e585b1f284d775877f6ca435bdb220",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-8ffb4ee1e588a573-thumb.webp",
-            "sha256": "7fa25214a7583697e9e96dd93b692797df991a6a190b68c91609a89bde640296",
+            "path": "interiors/a-little-winter-for-sale/02-coldmouth-workbench-a83f016a3bd6bd0e-thumb.webp",
+            "sha256": "8278c5152e3112c1965c64830d7377df928c56c0706bdc0018a223372b26ca99",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
+            "originalSha256": "8ffb4ee1e588a573d4bfeb83a7c4134d359644b12aca45a86a431e58df68e1f1",
+            "correction": "Retain the bench composition but show the same shallow ribbed basin, with its horn directed deeper into the cave, away from the entrance.",
+            "prompt": "Use case: precise-object-edit with reference continuity. Create one 1536x1024 landscape oil painting. Input 1 is the workbench composition to edit. Input 2 is the correct exchanger design: shallow broad circular copper basin, widely spaced hammered copper ribs curving upward to a tall central duct, with one horizontal flared horn. Reproduce that SAME MACHINE design in Input 1's background, adapted to Input 1's viewpoint; do not copy Input 2's composition.\nKeep Input 1's foreground workbench and tools exactly: open ledger, small saw, long file, dismantled brass regulator casing, empty brass sunwheel rim, lamp and rough wood. Keep its cave-mouth opening at upper RIGHT and its floor channels. REPLACE the background's tall closely barred rectangular radiator with the broad low circular ribbed basin and tall central duct from Input 2. The basin's upper elliptical rim should be visibly broad across the background, with generous spaces between curved structural ribs and pale brine inside, rather than a vertical grille. The apparatus overall is tall, but its BASIN is shallow.\nCrucially the single flared copper horn must project from the duct toward the LEFT into the dark inner cave, AWAY from the bright opening at right. Show its widening body and left-facing open bell in deep slate-blue cave shadow. Do not put any bell or opening facing the bright cave mouth. Keep the incoming/outgoing channels separated and the machine behind the foreground bench. Preserve expressive Group of Seven-inspired oil painting, bold ochre copper and slate/violet masses, thick confident brushwork and lamplight. Empty cave workshop, no people or dragon, no text, signature, watermark or photographic finish.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11754,6 +11761,11 @@
       "source": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
       "sourceSha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a",
       "reason": "Move the same child-painted flower to a low brass crosspiece reachable beside a seated weaver's knee and retain that location/design in both views."
+    },
+    {
+      "source": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
+      "sourceSha256": "8ffb4ee1e588a573d4bfeb83a7c4134d359644b12aca45a86a431e58df68e1f1",
+      "reason": "Retain the bench composition but show the same shallow ribbed basin, with its horn directed deeper into the cave, away from the entrance."
     }
   ]
 }
