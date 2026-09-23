@@ -6473,19 +6473,26 @@
           "id": "02-the-keeper-kitchen",
           "title": "The keeper kitchen",
           "alt": "The keeper kitchen — oil interior study for The Last Flames",
-          "source": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
-          "sourceSha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175",
+          "source": "pages/interior-replacements/the-last-flames/02-the-keeper-kitchen.png",
+          "sourceSha256": "382594fba48a72bbc97d082d99398e42b9014cf00d9209b367023c66aad409a6",
           "full": {
-            "path": "interiors/the-last-flames/02-the-keeper-kitchen-e98f95c13a28ece3.webp",
-            "sha256": "7874d37d67390457b7326f79a03bbac8000dd36cf9dc120e1eb518a8a994de4c",
+            "path": "interiors/the-last-flames/02-the-keeper-kitchen-382594fba48a72bb.webp",
+            "sha256": "7fa4b18e3802772ad7245310f418b831a7a611f2e192709174ee2cae541dcf8c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-last-flames/02-the-keeper-kitchen-e98f95c13a28ece3-thumb.webp",
-            "sha256": "ff47dddaad2dfeb965876775b08e42641ca2562330b9a3ab999ad847d4901f66",
+            "path": "interiors/the-last-flames/02-the-keeper-kitchen-382594fba48a72bb-thumb.webp",
+            "sha256": "4501ab8934bc8a880df2d17e042a89d9b9d83b8283835c2b0018b5b2d3b62e82",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+            "originalSha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175",
+            "correction": "Remove one cup, keeping exactly seven in a crooked line; retain the existing kitchen composition.",
+            "prompt": "Use case: exact-count single-object removal. Edit this attached icy keeper-kitchen painting as locally as possible. The crooked foreground arrangement currently contains eight cups; the story requires EXACTLY SEVEN.\nRemove ONLY the rightmost end cup: the small cup nearest the right-hand stone ledge, at approximately 87% of image width and 74% of image height. This is the cup just to the right and slightly behind the nearer right-side cup. Replace the removed cup and its small reflection with matching icy floor. Leave each of the other SEVEN cups exactly in its existing position, size and crooked-line arrangement; do not add, merge, move, hide or duplicate any cup. The seven separate remaining rims and bodies must be countable.\nPreserve everything else: immense black hanging cooking pot and fire at left, fuel basket and ash rake, ice/stone shelves and jars/bags, counters, cold passage and stairs, wet blue floor, golden fire reflections and no occupants. Keep the 3:2 landscape format, preferably1536x1024, and original expressive Group of Seven-inspired oil paint with blue/white/gold shaped color masses and thick confident brushwork. No people, dragons, labels, numbers, text overlay, signature, watermark, photography or 3D.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11946,6 +11953,11 @@
       "source": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
       "sourceSha256": "c8df6c1d2a7713ebedc288718e073b91948ab5bd8abd19eb414e2b1e4ad1f363",
       "reason": "Retain bakery, breakfast and nearby tram rails; replace the distant inlet, islands and mountain panorama with a restrained local street view."
+    },
+    {
+      "source": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+      "sourceSha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175",
+      "reason": "Remove one cup, keeping exactly seven in a crooked line; retain the existing kitchen composition."
     }
   ]
 }
