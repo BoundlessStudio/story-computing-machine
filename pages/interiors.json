@@ -10204,57 +10204,78 @@
           "id": "01-the-kitchen-latch",
           "title": "The kitchen latch",
           "alt": "The kitchen latch — oil interior study for What She Remembered of Peace",
-          "source": "stories/what-she-remembered-of-peace/art/interiors/01-the-kitchen-latch.png",
-          "sourceSha256": "b72e519db6086bf5ce822b63db0e78e68f513e487b29988b9c7ef88baf9d5c8c",
+          "source": "pages/interior-replacements/what-she-remembered-of-peace/01-the-kitchen-latch.png",
+          "sourceSha256": "ee0db347f8d28e3b2e6d9f19398de637fae89be5d78f50377e5d165362dd7de3",
           "full": {
-            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-b72e519db6086bf5.webp",
-            "sha256": "cf4228f2f5e6f96fd9429f0ee2fd1ddbda45e8f139e99c2b6356d338afa06e43",
+            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-ee0db347f8d28e3b.webp",
+            "sha256": "9544e99630435b82bf33ba419e14ad8e90096e544af17e482aff3087928d388b",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-b72e519db6086bf5-thumb.webp",
-            "sha256": "8a15b21bccd95a6ad8c40fc4fb10dc0ded40c0a82e64a32fa95cfec9685dded8",
+            "path": "interiors/what-she-remembered-of-peace/01-the-kitchen-latch-ee0db347f8d28e3b-thumb.webp",
+            "sha256": "1597ea9067f7af4a83ca7c613c9493d5689363ce68ea6e4fa91ac2fc8037f44f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-she-remembered-of-peace/art/interiors/01-the-kitchen-latch.png",
+            "originalSha256": "b72e519db6086bf5ce822b63db0e78e68f513e487b29988b9c7ef88baf9d5c8c",
+            "correction": "Preserve the rail but replace the sea/headlands with close terraces or a non-defining light-filled view.",
+            "prompt": "Use case: precise-object-edit. Change only the exterior glimpse through the left kitchen window in Image 1. Preserve this same empty kitchen and 3:2 landscape oil painting, preferably 1536x1024.\nKeep the blue-painted balcony rail and the small potted flowers immediately outside. Remove all open sea, coastline and mountain headlands. Beyond the rail show only close, unobtrusive neighboring building walls and stepped receiving terraces in soft light, a compact inhabited block at ordinary short sightline distance. No scenic horizon or wide view. Keep the exterior subordinate to the domestic repair.\nPreserve the latch parts and stripped screw on the towel, screwdriver, open spoon drawer, sink, keys, jars, wood cupboards, blue kettle, plants and exact camera/composition. Retain warm gold light, cool blue shadows and thick confident Group of Seven-inspired expressive oil brushwork. No people, new props, new landmarks, text overlay, labels, signatures, watermarks, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-the-emergency-stair",
           "title": "The emergency stair",
           "alt": "The emergency stair — oil interior study for What She Remembered of Peace",
-          "source": "stories/what-she-remembered-of-peace/art/interiors/02-the-emergency-stair.png",
-          "sourceSha256": "6f94ed2f4bdb6f356ef2aa7a426154933ae07aa7ce93868a61c4f0e5d9dbe51a",
+          "source": "pages/interior-replacements/what-she-remembered-of-peace/02-the-emergency-stair.png",
+          "sourceSha256": "07492a0d3563120c91e6420f2294b1e2c88088f986bb08a7ad232128eefa976e",
           "full": {
-            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-6f94ed2f4bdb6f35.webp",
-            "sha256": "ebbc3395beb85377b4d30b078c56fcd1495b33788b5ab97964c9158541ba57cd",
+            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-07492a0d3563120c.webp",
+            "sha256": "75196118d0c74801b4a412759ec34017dc69ac2e584942bb198dc633e76ddd88",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-6f94ed2f4bdb6f35-thumb.webp",
-            "sha256": "e68ca7e3fb6558f49c53329777a86b5f24a01eeecdf718517902634328bcd845",
+            "path": "interiors/what-she-remembered-of-peace/02-the-emergency-stair-07492a0d3563120c-thumb.webp",
+            "sha256": "3c687bbd53b4d774d2a100fb809702937a20c225ce8a597e76f2f607e93f9a6a",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-she-remembered-of-peace/art/interiors/02-the-emergency-stair.png",
+            "originalSha256": "6f94ed2f4bdb6f356ef2aa7a426154933ae07aa7ce93868a61c4f0e5d9dbe51a",
+            "correction": "Extinguish the sconce and light the dust and fracture sparingly from available doorway/window light. Keep the small window diffuse or show non-defining nearby terrace structure.",
+            "prompt": "Use case: precise-object-edit. Correct the blackout state and unsupported exterior in Image 1, the broken emergency stair. Keep the 3:2 painting, 1536x1024 preferred, its open fire door, fractured half-landing, stair rails, dust, rubble and camera geometry.\nThe networks and ordinary electric lights are dead. Switch OFF the caged wall sconce at upper left: dark bulb and dark glass, no glow or light halo. Remove its warm light pool from the nearby wall. Make the stair beyond the door appreciably shadowed, with sparse natural light from the doorway and small high window just catching concrete dust and fractured stair edges; keep the broken landing readable. This should feel like concrete dust sifting through darkness after a blackout, not a brightly electrically lit stairwell.\nReplace the small high window's sea and mountain headlands with quiet diffuse pale light and at most an indistinct nearby building wall. No coastline, water, mountains or scenic view.\nPreserve the original blue-gray/gold palette through subdued natural reflected light and the expressive Group of Seven-inspired thick brushwork. No people, extra objects, illuminated emergency strips, text, signage, signatures, watermark or photorealistic/3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-blankets-at-the-shelter",
           "title": "Blankets at the shelter",
           "alt": "Blankets at the shelter — oil interior study for What She Remembered of Peace",
-          "source": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
-          "sourceSha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+          "source": "pages/interior-replacements/what-she-remembered-of-peace/03-blankets-at-the-shelter.png",
+          "sourceSha256": "de71d5ace72f5636a6402c8adb075be71fc6fe5c579f615684831afd6ead316e",
           "full": {
-            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd.webp",
-            "sha256": "1e3906aa8df1b18bb299f4136f0b1cd8f20d2ad17480296cc6080439bff8cc80",
+            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-de71d5ace72f5636.webp",
+            "sha256": "e18b1c0768689df72e1a447360fe85590664eef8e8b129ce88913bae11d40c73",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-2c6de26f08dd23cd-thumb.webp",
-            "sha256": "4ef4bf7c26e83e4cb1e9255d1a99c8992fc0069cbe761d6b31a8c612249c7d15",
+            "path": "interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter-de71d5ace72f5636-thumb.webp",
+            "sha256": "4358a1eb1db80e98de031b74dd6c6828ad09c0c93e427cd1aff5928a8b1a7e5d",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+            "originalSha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+            "correction": "Replace the distant coast with close receiving-terrace/building geometry, or frame inward to keep the shelter supplies as the subject.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the shelter edit target. Image 2 is the corrected kitchen's nearby terrace/building view, used only to keep the same compact inhabited block consistent. One 3:2 landscape oil painting, 1536x1024 preferred.\nChange only the view beyond the shelter's open right-hand door and any readable distant glimpse in its narrow window. Remove the open sea, coast, blue mountain range and far horizon. Retain the threshold, immediate steps, pale receiving-terrace walls and blue-painted rail, but beyond them show nearby stepped building walls and short terrace passages, consistent with Image 2. This shelter is two terraces below the apartment, embedded among buildings rather than above a coast. Keep the doorway sightline short and subordinate to the supplies. No expanded panorama.\nPreserve all shelter objects and framing: empty benches, folded and draped blankets, oxygen cylinder and mask, medical cart and cooler, scissors, lamps, wall surfaces, door and mat. Preserve the rich gold/blue-violet palette, confident thick expressive Group of Seven-inspired oil brushwork and lighting. Do not add people, new equipment, readable labels, text overlays, watermarks, signatures, photography or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11178,6 +11199,21 @@
       "source": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
       "sourceSha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
       "reason": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views."
+    },
+    {
+      "source": "stories/what-she-remembered-of-peace/art/interiors/01-the-kitchen-latch.png",
+      "sourceSha256": "b72e519db6086bf5ce822b63db0e78e68f513e487b29988b9c7ef88baf9d5c8c",
+      "reason": "Preserve the rail but replace the sea/headlands with close terraces or a non-defining light-filled view."
+    },
+    {
+      "source": "stories/what-she-remembered-of-peace/art/interiors/02-the-emergency-stair.png",
+      "sourceSha256": "6f94ed2f4bdb6f356ef2aa7a426154933ae07aa7ce93868a61c4f0e5d9dbe51a",
+      "reason": "Extinguish the sconce and light the dust and fracture sparingly from available doorway/window light. Keep the small window diffuse or show non-defining nearby terrace structure."
+    },
+    {
+      "source": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+      "sourceSha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+      "reason": "Replace the distant coast with close receiving-terrace/building geometry, or frame inward to keep the shelter supplies as the subject."
     }
   ]
 }
