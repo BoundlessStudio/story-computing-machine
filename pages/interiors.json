@@ -1752,19 +1752,26 @@
           "id": "01-herb-room-before-dawn",
           "title": "Herb room before dawn",
           "alt": "Herb room before dawn — oil interior study for Every Flower She Knew",
-          "source": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
-          "sourceSha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d",
+          "source": "pages/interior-replacements/every-flower-she-knew/01-herb-room-before-dawn.png",
+          "sourceSha256": "97e37954e26e62ea436a7c4aa1e28ac6137e1a6f5e12c35052d83d9882e4057e",
           "full": {
-            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-2489b91bc9fc0bb3.webp",
-            "sha256": "4aff2e093a081c77d2db1519115f228a25e3da81d2ae6ed85ca8b6b0cd96fcb0",
+            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-97e37954e26e62ea.webp",
+            "sha256": "77805c73c30002def2510a59dfb575c45976fc81065a88570236c734ba7dc2e4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-2489b91bc9fc0bb3-thumb.webp",
-            "sha256": "7f5cae6195828cf31a0dfe55149a86ad6bb80e4f85c78cc4c38aba44cb3fbcc5",
+            "path": "interiors/every-flower-she-knew/01-herb-room-before-dawn-97e37954e26e62ea-thumb.webp",
+            "sha256": "0d1fc2c7b570e734c6043f1773bc301c5b6f0ee24907cfc9d1e5321221cf9e8f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+            "originalSha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d",
+            "correction": "Empty both baskets, retaining their waxed dividers and blank tags.",
+            "prompt": "Use case: precise-object-edit. Edit image 1, the herb room before dawn. Image 1 supplies the room, composition, state, palette and expressive oil painting style. Image 2 is supporting reference ONLY for the empty divided basket interiors already corrected in this same room; do not copy its harvested medicines or nighttime window.\nKeep image 1's empty dim wooden herb room, closed blue shutters, bed and basin, cabinet, candle, shelves, general hanging herb stock, worktable, notebook and scissors. Preserve its broad confident Group of Seven-inspired oil brushwork, amber highlights, indigo shadows and 3:2 landscape framing, 1536x1024 preferred.\nThe sole correction: empty BOTH wicker carrying baskets completely. Remove all flowers, leaves, petals, stems and loose plant matter from every compartment. Retain the same basket shapes, shoulder straps, open lids and waxed internal dividers. Show the bare empty compartment bottoms and simple blank tags. These baskets are being prepared before Safra departs; nothing has been harvested yet. Match the practical waxed divider material in image 2 while retaining image 1's baskets and angle.\nDo not change the general room's existing stored herbs, vase or unrelated small sprig on the table. No people, no new objects, no harvested packets or doses, no text overlay, no captions, watermark, border, collage, photography or 3D rendering. Keep every other element of image 1 unchanged.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11046,6 +11053,11 @@
       "source": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
       "sourceSha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
       "reason": "Empty threshold and source roadside, cup clarity with one fine white porcelain cup and one thick brown chipped cup, consistent with corrected first view."
+    },
+    {
+      "source": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+      "sourceSha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d",
+      "reason": "Empty both baskets, retaining their waxed dividers and blank tags."
     }
   ]
 }
