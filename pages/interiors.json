@@ -7196,57 +7196,78 @@
           "id": "01-the-witchs-workroom",
           "title": "The witchs workroom",
           "alt": "The witchs workroom — oil interior study for The Ninety-Year Barrier",
-          "source": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
-          "sourceSha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25",
+          "source": "pages/interior-replacements/the-ninety-year-barrier/01-the-witchs-workroom.png",
+          "sourceSha256": "e6965607073cebcb8c75dc9fd73252c973f15abbd10210f73fc22ea9b0af4c3a",
           "full": {
-            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-d656f61aaea14924.webp",
-            "sha256": "776142c526319b5429728aea905d6f1867f3a234e8374520a62766780589b184",
+            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-e6965607073cebcb.webp",
+            "sha256": "0920040df7423d16182cfc21d3734d8e7d32062136ea521658467a2be6e56660",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-d656f61aaea14924-thumb.webp",
-            "sha256": "364a87c6a116cc2cf9c807dbe707f9ca4d8dd7cd2370915cebac69bdafce2a0e",
+            "path": "interiors/the-ninety-year-barrier/01-the-witchs-workroom-e6965607073cebcb-thumb.webp",
+            "sha256": "e39f6193c62539330ff1f71fdecb230296f44d6d3698269ff4c5252367919ff8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+            "originalSha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25",
+            "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original empty Witch's workroom oil painting and the edit target. Change ONLY the small cord-and-basket-rim demonstration model on the workbench. The story specifies SIX pegs hammered into the workbench. Replace its current eight upright pegs with EXACTLY SIX separate upright wooden pegs, all six clearly visible and readily countable, arranged as a simple hexagon surrounding the same low split woven basket rim: one left, two along the far/back arc, one right, two along the near/front arc. Keep generous gaps between pegs. Thread the same fine pale cord web among these six pegs, looping back through itself over the rim. No seventh/eighth peg, no extra upright stump on or near this model, no hidden duplicate. The supply chest elsewhere may retain stored spare tools; these are not part of the six-peg model.\nPreserve everything else: workbench location, crooked green door, stove, gathering basket, stool, blackthorn stake bundles, hanging cord skeins, dried mushrooms/onions/nettles, chest, wrapped reed hook, forest rain glimpsed through window, and all room architecture. Preserve broad expressive Group of Seven-inspired oil brushwork, angular thick impasto, ochre firelight, slate and moss-green palette, 3:2 landscape 1536x1024. Empty room; no people, invented magical effects, text, labels, watermark, collage, photograph or 3D. The final model must have six, and only six, upright pegs.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-the-cord-model",
           "title": "The cord model",
           "alt": "The cord model — oil interior study for The Ninety-Year Barrier",
-          "source": "stories/the-ninety-year-barrier/art/interiors/02-the-cord-model.png",
-          "sourceSha256": "0a128346660664079fc611ba35fe4683aaa5d9b2ddee22dd1ffead37f9c74c8c",
+          "source": "pages/interior-replacements/the-ninety-year-barrier/02-the-cord-model.png",
+          "sourceSha256": "73b9ee885ccb272d9a3511f310b314b0b93cf26b52f762c46babd38d83b9bd97",
           "full": {
-            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-0a12834666066407.webp",
-            "sha256": "deee13c2ec22a19a3bd8b884c4d7c77f4417500ce71bc69b313654fdb1c351a5",
+            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-73b9ee885ccb272d.webp",
+            "sha256": "0ebc6699010ec8469c2af9e3961e3023d4eb81ead1d22a66c690e6d4c36b7364",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-0a12834666066407-thumb.webp",
-            "sha256": "63e788ae3ad0a348382e6c48fa730e6f49e0c022777060e5572135ee14833f1c",
+            "path": "interiors/the-ninety-year-barrier/02-the-cord-model-73b9ee885ccb272d-thumb.webp",
+            "sha256": "2f82c2892e0c70165534da4d992bb67166b24547e74d5725dda1cb7621b14c5c",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-ninety-year-barrier/art/interiors/02-the-cord-model.png",
+            "originalSha256": "0a128346660664079fc611ba35fe4683aaa5d9b2ddee22dd1ffead37f9c74c8c",
+            "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original close workbench painting and edit target. Image 2 is the accepted corrected wide view of this SAME room; use its six-peg cord model as the continuity reference. Change ONLY the model on the tabletop in image 1 to exactly the same arrangement seen in image 2, at this closer camera scale.\nReplace the current eight upright model pegs with EXACTLY SIX clearly separate wooden pegs surrounding the low split woven basket rim in one hexagon: one far left, two spaced across the back arc, one far right, two spaced across the front arc. All six must be visible and countable, with no seventh/eighth upright, hidden duplicate or spare stump beside the model. Keep the pale cords threaded and crossed between these six pegs, turning back through themselves above the same split rim. Match their relative positions to corrected image 2; this is a closer view of one unchanged model, not a new arrangement.\nKeep every other object and room relationship from image 1: wrapped reed hook on the front-right bench, cord coils, bowl, stool, stove and kettle, basket, rainy forest window, hanging mushrooms/onions/herbs, bundles of blackthorn, chest and plaster walls. Keep empty room, 3:2 landscape 1536x1024, broad expressive Group of Seven-inspired angular oil impasto, ochre firelight and moss/slate palette. No people, labels, text, watermark, magical effects, photorealism, 3D or extra model pegs.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "03-the-western-wall",
           "title": "The western wall",
           "alt": "The western wall — oil interior study for The Ninety-Year Barrier",
-          "source": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
-          "sourceSha256": "37a0f47f43a3dc2111bec36f5f502ebbe724e4fb832c54b92f0a6cce02b46cd6",
+          "source": "pages/interior-replacements/the-ninety-year-barrier/03-the-western-wall.png",
+          "sourceSha256": "611dcf4ad1654955581bc7e57195c91fb9edb82900fd59d9fbe32c4aed52d91d",
           "full": {
-            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-37a0f47f43a3dc21.webp",
-            "sha256": "2e6dc8900e5394666865b80b59fde0d2afdcdbd3c64e3099c38bce9a700275db",
+            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-611dcf4ad1654955.webp",
+            "sha256": "8b24b7cd1d4e26958eea40969b5a44bea8eff46010325a248d16a4c199084a67",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-37a0f47f43a3dc21-thumb.webp",
-            "sha256": "6aeb3b3e54be1fd797e72f40e74494477a9e56da9c9eab8f5b6106369453ca7b",
+            "path": "interiors/the-ninety-year-barrier/03-the-western-wall-611dcf4ad1654955-thumb.webp",
+            "sha256": "be2081a511fbc357e8733922906cded36dff73a6b00faf93d5e636d6181e9ce6",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
+            "originalSha256": "37a0f47f43a3dc2111bec36f5f502ebbe724e4fb832c54b92f0a6cce02b46cd6",
+            "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views.",
+            "prompt": "Use case: precise-object-edit. Image 1 is the original western-wall view of the Witch's empty workroom and is the edit target. Image 2 is the accepted corrected close view of the cord model in the SAME room; use its actual six-peg geometry as reference.\nChange ONLY the tabletop demonstration model in image 1. Replace its excess upright pegs with EXACTLY SIX separate wooden pegs in the SAME hexagon around the same split woven basket rim as image 2, seen from this alternate angle. All six must remain individually visible and countable: one left, two spaced along the back arc, one right, two spaced along the front arc. No seventh/eighth peg, extra upright stump or hidden duplicate on the model. Match the relative peg layout and pale cord crossings to image 2, preserving the little web turning back through itself over the split rim. Make a small local adjustment to the model's angle only if needed for six-peg readability; do not move the workbench.\nKeep the rest of image 1 unchanged: large bare plaster western wall with hanging cord skeins, blackthorn bundles, open supply chest and its unused spare tools, green door, stove, basket, shelves, rainy forest window, two visible stools, bench hook and coils. No active magical wall projections are needed in an empty room. Preserve the 3:2 1536x1024 composition, thick angular expressive Group of Seven-inspired oil impasto, ochre firelight, smoky slate shadows and moss-green timber. No people, labels, text, watermark, collage, photorealism or 3D. Exactly SIX upright pegs in the tabletop model.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11358,6 +11379,21 @@
       "source": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
       "sourceSha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
       "reason": "Keep the sunset illumination while replacing the panorama with subdued, nonspecific street-facing glazing."
+    },
+    {
+      "source": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+      "sourceSha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25",
+      "reason": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
+    },
+    {
+      "source": "stories/the-ninety-year-barrier/art/interiors/02-the-cord-model.png",
+      "sourceSha256": "0a128346660664079fc611ba35fe4683aaa5d9b2ddee22dd1ffead37f9c74c8c",
+      "reason": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
+    },
+    {
+      "source": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
+      "sourceSha256": "37a0f47f43a3dc2111bec36f5f502ebbe724e4fb832c54b92f0a6cce02b46cd6",
+      "reason": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
     }
   ]
 }
