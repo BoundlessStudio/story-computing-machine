@@ -7,6 +7,25 @@
       "reader": "stories/a-beginner-of-considerable-age.html",
       "images": [
         {
+          "id": "grindle",
+          "title": "Grindle",
+          "alt": "Sculpted Impasto character reference sheet of Grindle for A Beginner of Considerable Age",
+          "source": "stories/a-beginner-of-considerable-age/art/characters/grindle.png",
+          "sourceSha256": "cf89eaa9e2745b0dc10f5b021590603e0ca2c8d925d55f9792308663c6bcb234",
+          "full": {
+            "path": "characters/a-beginner-of-considerable-age/grindle-cf89eaa9e2745b0d.webp",
+            "sha256": "c86d5c493d757603cc0b78db6c12851a56c630800686352c8e050c642c249e33",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-beginner-of-considerable-age/grindle-cf89eaa9e2745b0d-thumb.webp",
+            "sha256": "64c2d1872a2e8a1647ff45e16c290a92ed1b513f6cee8e268380f4e5ddc8e692",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "melicent",
           "title": "Melicent",
           "alt": "Sculpted Impasto character reference sheet of Melicent for A Beginner of Considerable Age",
@@ -251,6 +270,172 @@
           "thumbnail": {
             "path": "characters/a-darkness-written-under-skin/leora-sloane-f8cacf12cf62bbf3-thumb.webp",
             "sha256": "8d93bbf41e365a5481d2a10bfab27df59507ddfb50952ff85bb5242c29a16e55",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "a-note-of-spite",
+      "title": "A Note of Spite",
+      "reader": "stories/a-note-of-spite.html",
+      "images": [
+        {
+          "id": "clorinda",
+          "title": "Clorinda",
+          "alt": "Sculpted Impasto character reference sheet of Clorinda for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/characters/clorinda.png",
+          "sourceSha256": "2d4de600a9a3b92c8fc41e02797e0b846dc3c9dc508fb880b306ebdfba1b4f4a",
+          "full": {
+            "path": "characters/a-note-of-spite/clorinda-2d4de600a9a3b92c.webp",
+            "sha256": "eb6c62346ed115546592abb9f7ff0cc26d0e24a15f59bb3cf8a1568098ed0e61",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-note-of-spite/clorinda-2d4de600a9a3b92c-thumb.webp",
+            "sha256": "a83ce32d6c3ef6f7857669ed04a4109d4b5b8cd21491fb2e489612f52507ae09",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lavinia",
+          "title": "Lavinia",
+          "alt": "Sculpted Impasto character reference sheet of Lavinia for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/characters/lavinia.png",
+          "sourceSha256": "b1e70c6f2cf3b015188a8c9bd6ecd043682ea561671522e1c5334c6bbe6579b2",
+          "full": {
+            "path": "characters/a-note-of-spite/lavinia-b1e70c6f2cf3b015.webp",
+            "sha256": "2391828c7dda3d8e827b590e4cc739751f9d5d72752f30f9f96925cd2d0bb75a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-note-of-spite/lavinia-b1e70c6f2cf3b015-thumb.webp",
+            "sha256": "816fbefb2b95df9da980347921a65f6ddc96fc4b9c31ed5a9ddd3611acba6fb1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "orris-fenner",
+          "title": "Orris Fenner",
+          "alt": "Sculpted Impasto character reference sheet of Orris Fenner for A Note of Spite",
+          "source": "stories/a-note-of-spite/art/characters/orris-fenner.png",
+          "sourceSha256": "8cecebd7e92b5550b8ef616c2082648109eb9c20be8e7b3058e89e8bcbbfa40c",
+          "full": {
+            "path": "characters/a-note-of-spite/orris-fenner-8cecebd7e92b5550.webp",
+            "sha256": "42d8471a80f5f1a4048b63e3d69271df30c558841302852fda55deb341475689",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-note-of-spite/orris-fenner-8cecebd7e92b5550-thumb.webp",
+            "sha256": "7d60b73d9ee7a26e11bacd2e2b1095024f60e3e5077bcad2e29f58d900b70370",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "coiled-together",
+      "title": "Coiled Together",
+      "reader": "stories/coiled-together.html",
+      "images": [
+        {
+          "id": "fendrel-vos",
+          "title": "Fendrel Vos",
+          "alt": "Sculpted Impasto character reference sheet of Fendrel Vos for Coiled Together",
+          "source": "stories/coiled-together/art/characters/fendrel-vos.png",
+          "sourceSha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+          "full": {
+            "path": "characters/coiled-together/fendrel-vos-71cd4a9d3b4f34c1.webp",
+            "sha256": "93b715f11c0938c5ccac3d7d7e7413fea4a62a361c80ae9ddd8abaaa9b2357ee",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/coiled-together/fendrel-vos-71cd4a9d3b4f34c1-thumb.webp",
+            "sha256": "5020c42bed3382758c319074490ff7d0d6020119eff2c552d722d9596d286e08",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "jorren-vos",
+          "title": "Jorren Vos",
+          "alt": "Sculpted Impasto character reference sheet of Jorren Vos for Coiled Together",
+          "source": "stories/coiled-together/art/characters/jorren-vos.png",
+          "sourceSha256": "30913cb8e5a21b163b602cbecbbcc576afca1d6d0cd103cc59f96e38fcf9bfcb",
+          "full": {
+            "path": "characters/coiled-together/jorren-vos-30913cb8e5a21b16.webp",
+            "sha256": "a87b438b32f807e2e519caed7504299ca0aba8e1ba39e2000c0de22315674346",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/coiled-together/jorren-vos-30913cb8e5a21b16-thumb.webp",
+            "sha256": "76d5928b9572064212c0b22c733ce08072d8b41efef03e4b1d2a6f48abd0caaa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "mavrik",
+          "title": "Mavrik",
+          "alt": "Sculpted Impasto character reference sheet of Mavrik for Coiled Together",
+          "source": "stories/coiled-together/art/characters/mavrik.png",
+          "sourceSha256": "28b1cc9b30d284f29bfa498f90367d5f34ec26498bf71673fc062c2243071a4a",
+          "full": {
+            "path": "characters/coiled-together/mavrik-28b1cc9b30d284f2.webp",
+            "sha256": "74a5ac501ddd602096b66a4e092c9945826884af1fc59fba5db01b046bcea590",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/coiled-together/mavrik-28b1cc9b30d284f2-thumb.webp",
+            "sha256": "6e1f81e9b15347193aa9cf9d5b6138cc57f6bc909e2e01360fccf83e43c54b0e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "neris",
+          "title": "Neris",
+          "alt": "Sculpted Impasto character reference sheet of Neris for Coiled Together",
+          "source": "stories/coiled-together/art/characters/neris.png",
+          "sourceSha256": "93253f8ea1e27a450b9f711ebe761e296b213e14c88f2e74c053668de1ce63ef",
+          "full": {
+            "path": "characters/coiled-together/neris-93253f8ea1e27a45.webp",
+            "sha256": "dadf201249f9a5e771b36dd54105390b0a8bc7ca80debc1b8768d53116cc5e73",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/coiled-together/neris-93253f8ea1e27a45-thumb.webp",
+            "sha256": "bad89257c59823b87718ff1659dac930f208739db0746b7a9f323da0c7149b7f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "veyratha",
+          "title": "Veyratha",
+          "alt": "Sculpted Impasto character reference sheet of Veyratha for Coiled Together",
+          "source": "stories/coiled-together/art/characters/veyratha.png",
+          "sourceSha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+          "full": {
+            "path": "characters/coiled-together/veyratha-2e39e1d46fe5ee4c.webp",
+            "sha256": "62e02ed83d5fb815e25ce4aff8c0f054bcf0ba00350aca0c19b6209859fb23b1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/coiled-together/veyratha-2e39e1d46fe5ee4c-thumb.webp",
+            "sha256": "b2c3c6e1e34f7634f2d8e551e746113c42e3acc1abff00a74ecaccb96beb03e9",
             "width": 480,
             "height": 320
           }
