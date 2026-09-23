@@ -8297,19 +8297,26 @@
           "id": "02-the-restored-doorway",
           "title": "The restored doorway",
           "alt": "The restored doorway — oil interior study for The Sky Remembers Us",
-          "source": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
-          "sourceSha256": "c80e74ae1a8afd8d17ed2a17446da6261e6b4961435f315382069cc606daebc3",
+          "source": "pages/interior-replacements/the-sky-remembers-us-return/02-the-restored-doorway.png",
+          "sourceSha256": "c4f64e06557c2c8fef2ecc368465ebc0c34ad946262de8743d6971c7b7be1f29",
           "full": {
-            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c80e74ae1a8afd8d.webp",
-            "sha256": "271eeb30e1119d3663e569d37b36c869cf21819120df84c1430081c8c2825c84",
+            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c4f64e06557c2c8f.webp",
+            "sha256": "8eb074d3eddf222bcdf015901699ec89027c62f663b95d36c7e3e6b010bdfb6e",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c80e74ae1a8afd8d-thumb.webp",
-            "sha256": "6d73ad8b62da24c54ee2a75679a39c4bade90c296ca4f6a16f0fcd1c200f2525",
+            "path": "interiors/the-sky-remembers-us-return/02-the-restored-doorway-c4f64e06557c2c8f-thumb.webp",
+            "sha256": "3b59ee4376259c9929414f1bc4afeab18f8265d446e88f7b4f8843658eae9d03",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
+            "originalSha256": "c80e74ae1a8afd8d17ed2a17446da6261e6b4961435f315382069cc606daebc3",
+            "correction": "Keep the hollow and tipped basin; send bright drops sideways along the living wall rather than straight down to a floor puddle.",
+            "prompt": "Use case: precise-object-edit. Correct the water movement in Input 1, the empty restored-doorway interior painting. Preserve its exact 3:2 composition, preferably 1536x1024.\nInput 1 is the edit target: retain the broad pale living arch into the adjoining sleeping hollow, hanging cream and blue sleep-cloths on the left, low blue-gray bed beyond the arch, continuous curved room surfaces, tipped dark basin near the left wall, and expressive blue-gray/cream/gold oil brushwork.\nInput 2 is the accepted same-story room reference for living wall material and closed room boundaries only. Do not add its sunrise or overhead vision; this is the earlier basin-tipping moment.\nChange the basin's liquid behavior only: remove the ordinary downward trickle, splash below it, and floor puddle. Bright water drops should leave the tipped basin's wall-side lip and SKITTER SIDEWAYS ALONG THE VERTICAL LIVING WALL at the lip's height. Show a short clear horizontal trail of separate small bright droplets and tiny wet streaks hugging the wall, moving laterally away from the bowl, not arcing down toward the floor. A few stretched droplets and a horizontal wet track make the sideways motion legible. The bowl stays tipped and supported against the wall on the floor; the floor beneath remains dry. This is a local impossible shift of distance, not a fountain, exploding bowl or spray across the whole room.\nKeep the far small wall recess as diffuse native living-wall light, without terrain or an exterior view. No new doorways, skies or portal.\nPreserve all existing supported room relationships and painterly shaped color masses, thick confident impasto strokes and restrained quiet light. No people, hands, lettering, captions, symbols, signature, watermark, collage, photorealism or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11094,6 +11101,11 @@
       "source": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
       "sourceSha256": "f5c50822290e73ccc335ab856c2d0ea82842ff5307b5f21da60b37ca202ea533",
       "reason": "Retain the cab and rain, replacing the lake panorama with the work street/cones or the narrow larch-lined road appropriate to a chosen scene."
+    },
+    {
+      "source": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
+      "sourceSha256": "c80e74ae1a8afd8d17ed2a17446da6261e6b4961435f315382069cc606daebc3",
+      "reason": "Keep the hollow and tipped basin; send bright drops sideways along the living wall rather than straight down to a floor puddle."
     }
   ]
 }
