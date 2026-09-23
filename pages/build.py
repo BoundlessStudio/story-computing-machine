@@ -1121,7 +1121,7 @@ def _page(
         f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
         f'<nav class="site-nav" aria-label="Primary">'
         f'<a href="{library_href}"{library_current}>Library</a>'
-        f'<a href="{html.escape(gallery_href, quote=True)}"{gallery_current}>Landscapes</a></nav>'
+        f'<a href="{html.escape(gallery_href, quote=True)}"{gallery_current}>Image Gallery</a></nav>'
         f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
     )
     theme_script = (
@@ -1364,6 +1364,8 @@ def main() -> None:
     comic_parser.add_argument("slug")
     commands.add_parser("capture-all", help="Refresh every published story from its source package.")
     commands.add_parser("capture-landscapes", help="Store landscape gallery web copies without recapturing prose.")
+    interior_parser = commands.add_parser("capture-interiors", help="Store interior study web copies without recapturing prose or landscapes.")
+    interior_parser.add_argument("slugs", nargs="*", help="Optional story slugs to capture only completed sets.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
     args = parser.parse_args()
@@ -1386,6 +1388,10 @@ def main() -> None:
         gallery = _landscape_module().capture_landscapes(REPOSITORY_ROOT)
         count = sum(len(story["images"]) for story in gallery["stories"])
         print(f"Stored {count} landscapes across {len(gallery['stories'])} stories")
+    elif args.command == "capture-interiors":
+        gallery = _landscape_module().capture_interiors(REPOSITORY_ROOT, slugs=args.slugs)
+        count = sum(len(story["images"]) for story in gallery["stories"])
+        print(f"Stored {count} interiors across {len(gallery['stories'])} stories")
     else:
         catalog = load_catalog()
         source_count, published_count, canon_count = validate_repository_inventory(
@@ -1397,11 +1403,14 @@ def main() -> None:
         comics = _graphic_novel_module().load_snapshot(SNAPSHOT_PATH.with_name("graphic-novels.json"), catalog)
         if comics:
             print(f"PASS: {len(comics)} stored comic PDFs")
-        landscape_path = SNAPSHOT_PATH.with_name("landscapes.json")
-        landscapes = _landscape_module().load_snapshot(landscape_path)
-        if landscapes["stories"]:
-            count = _landscape_module().check_assets(landscapes, landscape_path.parent)
-            print(f"PASS: {count} stored landscape paintings")
+        for collection in ("landscapes", "interiors"):
+            art_path = SNAPSHOT_PATH.with_name(f"{collection}.json")
+            art = _landscape_module().load_snapshot(art_path, collection)
+            if art["stories"]:
+                if any(story["slug"] not in {item.slug for item in catalog.stories} for story in art["stories"]):
+                    raise ValueError(f"An {collection} reader is absent from the publication catalog")
+                count = _landscape_module().check_assets(art, art_path.parent)
+                print(f"PASS: {count} stored {collection} paintings")
         print(
             f"PASS: {published_count} published stories and covers; "
             f"{source_count} source packages ({canon_count} canon, "

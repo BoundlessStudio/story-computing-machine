@@ -21,8 +21,9 @@
 }
 .gallery-intro h1 { font-size: clamp(2.3rem, 5vw, 4.3rem); line-height: 1.08; letter-spacing: -.045em; margin: 0 0 1rem; font-weight: 500; }
 .gallery-lede { color: var(--muted); max-width: 34rem; font-size: 1.08rem; line-height: 1.6; margin: 0 0 1.1rem; }
+.gallery-study { color: var(--muted); max-width: 42rem; font-size: .9rem; line-height: 1.65; margin: 0 0 1.4rem; }
 .gallery-summary { display: inline-block; border-top: 1px solid var(--line); padding-top: .8rem; margin: 0; color: var(--muted); font-size: .76rem; letter-spacing: .025em; }
-.gallery-controls { display: grid; grid-template-columns: minmax(12rem, 1.2fr) minmax(12rem, 1fr) auto; gap: 1rem; align-items: end; padding: 1.1rem; background: var(--paper-raised); border: 1px solid var(--line); border-radius: .4rem; }
+.gallery-controls { display: grid; grid-template-columns: minmax(12rem, 1.2fr) minmax(12rem, 1fr) minmax(8rem, .65fr) auto; gap: 1rem; align-items: end; padding: 1.1rem; background: var(--paper-raised); border: 1px solid var(--line); border-radius: .4rem; }
 .gallery-field { display: grid; gap: .35rem; min-width: 0; }
 .gallery-controls label { color: var(--muted); font-size: .7rem; font-weight: 600; }
 .gallery-controls input, .gallery-controls select, .gallery-controls button {
@@ -42,6 +43,7 @@
 .gallery-story-heading > a:hover { text-decoration: underline; }
 .landscape-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.4rem 1.1rem; list-style: none; margin: 0; padding: 0; }
 .landscape-card { min-width: 0; }
+.painting-kind { display: block; margin-top: .3rem; color: var(--muted); font: .62rem ui-sans-serif, system-ui, sans-serif; letter-spacing: .06em; text-transform: uppercase; }
 .landscape-link { display: block; color: var(--ink); text-decoration: none; background: var(--paper-raised); padding: .35rem; border: 1px solid var(--line); border-radius: .2rem; transition: box-shadow .15s, transform .15s; }
 .landscape-link:hover { color: var(--ink); transform: translateY(-2px); box-shadow: 0 .4rem 1.4rem var(--card-shadow-hover); }
 .landscape-link:focus-visible { outline: 3px solid var(--focus); outline-offset: 4px; }

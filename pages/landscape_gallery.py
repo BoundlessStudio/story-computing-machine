@@ -1,4 +1,4 @@
-"""Capture landscape web copies, then publish only the frozen gallery snapshot."""
+"""Capture landscape and interior studies; build from their frozen snapshots."""
 
 from __future__ import annotations
 
@@ -16,7 +16,11 @@ from PIL import Image, ImageOps
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 DIGEST = re.compile(r"[a-f0-9]{64}\Z")
 ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
-REPLACEMENT_ROOT = "pages/landscape-replacements"
+COLLECTIONS = {"landscapes": "Landscape", "interiors": "Interior"}
+REPLACEMENT_ROOTS = {
+    "landscapes": "pages/landscape-replacements",
+    "interiors": "pages/interior-replacements",
+}
 
 
 def _sha256(path: Path) -> str:
@@ -30,7 +34,9 @@ def _asset(root: Path, path: str) -> Path:
     return resolved
 
 
-def load_snapshot(path: Path) -> dict:
+def load_snapshot(path: Path, collection: str = "landscapes") -> dict:
+    if collection not in COLLECTIONS:
+        raise ValueError(f"Unknown art collection: {collection}")
     if not path.exists():
         return {"schemaVersion": 1, "stories": []}
     try:
@@ -47,7 +53,7 @@ def load_snapshot(path: Path) -> dict:
         source = exclusion.get("source", "") if isinstance(exclusion, dict) else ""
         parts = source.split("/") if isinstance(source, str) else []
         if (len(parts) != 5 or parts[0] != "stories" or not SLUG.fullmatch(parts[1])
-                or parts[2:4] != ["art", "landscapes"]
+                or parts[2:4] != ["art", collection]
                 or Path(parts[4]).suffix not in {".png", ".jpg", ".jpeg", ".webp"}
                 or not SLUG.fullmatch(Path(parts[4]).stem) or source in excluded):
             raise ValueError(f"Invalid or duplicate excluded landscape source: {source}")
@@ -83,9 +89,10 @@ def load_snapshot(path: Path) -> dict:
             if not isinstance(image.get("sourceSha256"), str) or not DIGEST.fullmatch(image["sourceSha256"]):
                 raise ValueError(f"Invalid landscape source hash: {slug}/{image_id}")
             source = image.get("source", "")
-            original_sources = {f"stories/{slug}/art/landscapes/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}
-            replacement_source = f"{REPLACEMENT_ROOT}/{slug}/{image_id}.png"
-            if not isinstance(source, str) or source not in original_sources | {replacement_source}:
+            original_sources = {f"stories/{slug}/art/{collection}/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}
+            replacement_source = f"{REPLACEMENT_ROOTS[collection]}/{slug}/{image_id}.png"
+            allowed_sources = original_sources | {replacement_source}
+            if not isinstance(source, str) or source not in allowed_sources:
                 raise ValueError(f"Invalid landscape source path: {source}")
             revision = image.get("revision")
             if source == replacement_source:
@@ -105,8 +112,8 @@ def load_snapshot(path: Path) -> dict:
                 raise ValueError(f"Excluded landscape is still selected: {source}")
             for role, suffix in (("full", ""), ("thumbnail", "-thumb")):
                 asset = image.get(role)
-                expected = f"landscapes/{slug}/{image_id}{suffix}.webp"
-                versioned = f"landscapes/{slug}/{image_id}-{image['sourceSha256'][:16]}{suffix}.webp"
+                expected = f"{collection}/{slug}/{image_id}{suffix}.webp"
+                versioned = f"{collection}/{slug}/{image_id}-{image['sourceSha256'][:16]}{suffix}.webp"
                 if not isinstance(asset, dict) or asset.get("path") not in (expected, versioned):
                     raise ValueError(f"Invalid landscape {role} path: {slug}/{image_id}")
                 if not isinstance(asset.get("sha256"), str) or not DIGEST.fullmatch(asset["sha256"]):
@@ -119,8 +126,8 @@ def load_snapshot(path: Path) -> dict:
     return data
 
 
-def _encode(job: tuple[Path, Path, Path, str, str, dict | None]) -> dict:
-    source, repository_root, pages_root, slug, story_title, previous = job
+def _encode(job: tuple[Path, Path, Path, str, str, dict | None, str]) -> dict:
+    source, repository_root, pages_root, slug, story_title, previous, collection = job
     image_id = source.stem
     if not SLUG.fullmatch(image_id):
         raise ValueError(f"Landscape filename must use lowercase words and hyphens: {source.name}")
@@ -129,7 +136,7 @@ def _encode(job: tuple[Path, Path, Path, str, str, dict | None]) -> dict:
     caption = re.sub(r"^\d+-", "", image_id).replace("-", " ").capitalize()
     result = {
         "id": image_id, "title": caption,
-        "alt": f"{caption} — oil landscape for {story_title}",
+        "alt": f"{caption} — oil {COLLECTIONS[collection].lower()} study for {story_title}",
         "source": relative_source, "sourceSha256": hashlib.sha256(source_bytes).hexdigest(),
     }
     if previous and previous["sourceSha256"] == result["sourceSha256"]:
@@ -151,7 +158,7 @@ def _encode(job: tuple[Path, Path, Path, str, str, dict | None]) -> dict:
             rendition.thumbnail((480, 320), Image.Resampling.LANCZOS)
         # New source bytes receive new paths, keeping the selected snapshot usable
         # even if a later image in this capture fails validation or encoding.
-        relative = f"landscapes/{slug}/{image_id}-{result['sourceSha256'][:16]}{suffix}.webp"
+        relative = f"{collection}/{slug}/{image_id}-{result['sourceSha256'][:16]}{suffix}.webp"
         destination = _asset(pages_root, relative)
         destination.parent.mkdir(parents=True, exist_ok=True)
         rendition.save(destination, format="WEBP", quality=quality, method=5)
@@ -161,21 +168,34 @@ def _encode(job: tuple[Path, Path, Path, str, str, dict | None]) -> dict:
 
 
 def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None) -> dict:
+    return _capture_collection(repository_root, "landscapes", snapshot_path)
+
+
+def capture_interiors(repository_root: Path, snapshot_path: Path | None = None, slugs: list[str] | None = None) -> dict:
+    return _capture_collection(repository_root, "interiors", snapshot_path, slugs)
+
+
+def _capture_collection(repository_root: Path, collection: str, snapshot_path: Path | None,
+                        slugs: list[str] | None = None) -> dict:
     from pages import build
 
     repository_root = repository_root.resolve()
-    snapshot_path = snapshot_path or repository_root / "pages" / "landscapes.json"
+    snapshot_path = snapshot_path or repository_root / "pages" / f"{collection}.json"
     catalog = build.load_catalog(snapshot_path.with_name("catalog.json"))
     published = {story.slug: story for story in catalog.stories}
-    snapshot = load_snapshot(snapshot_path)
+    requested = set(slugs) if slugs else None
+    if requested and any(slug not in published for slug in requested):
+        raise ValueError("An art study story is absent from the publication catalog")
+    prior = load_snapshot(snapshot_path, collection)
     previous = {(story["slug"], image["id"]): image
-                for story in snapshot["stories"] for image in story["images"]}
-    excluded = {entry["source"] for entry in snapshot.get("excludedSources", [])}
-    groups = []
+                for story in prior["stories"] for image in story["images"]}
+    excluded = {entry["source"] for entry in prior.get("excludedSources", [])}
+    groups = [story for story in prior["stories"] if requested and story["slug"] not in requested]
     jobs = []
-    for directory in sorted((repository_root / "stories").glob("*/art/landscapes")):
+    found = set()
+    for directory in sorted((repository_root / "stories").glob(f"*/art/{collection}")):
         slug = directory.parents[1].name
-        if slug == "_template":
+        if slug == "_template" or (requested and slug not in requested):
             continue
         if slug not in published:
             raise ValueError(f"Landscape story is absent from the publication catalog: {slug}")
@@ -184,6 +204,7 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
             raise ValueError(f"No landscape images in {directory}")
         if len({p.stem for p in sources}) != len(sources):
             raise ValueError(f"Repeated landscape filename stem in {directory}")
+        found.add(slug)
         # Curatorial removals remain excluded even when source artwork is kept
         # inside a locked story package or later receives different bytes.
         sources = [source for source in sources
@@ -193,12 +214,14 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
         story = published[slug]
         groups.append({"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []})
         jobs.extend((source, repository_root, snapshot_path.parent, slug, story.title,
-                     previous.get((slug, source.stem))) for source in sources)
+                     previous.get((slug, source.stem)), collection) for source in sources)
+    if requested and requested - found:
+        raise ValueError(f"No {collection} source directory for: {', '.join(sorted(requested - found))}")
     selected = {story["slug"]: story for story in groups}
     # Replacement originals live outside locked story packages. Only explicitly
     # selected replacements are captured; directory scans never select candidates.
     for (slug, _), image in previous.items():
-        if "revision" not in image:
+        if "revision" not in image or (requested and slug not in requested):
             continue
         if slug not in published:
             raise ValueError(f"Landscape story is absent from the publication catalog: {slug}")
@@ -210,7 +233,10 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
             selected[slug] = {"slug": slug, "title": story.title, "reader": f"stories/{slug}.html", "images": []}
             groups.append(selected[slug])
         jobs.append((source, repository_root, snapshot_path.parent, slug,
-                     published[slug].title, image))
+                     published[slug].title, image, collection))
+    # Resolve and create shared folders before parallel encoders access them.
+    for slug in sorted({job[3] for job in jobs}):
+        _asset(snapshot_path.parent, f"{collection}/{slug}").mkdir(parents=True, exist_ok=True)
     # Only this explicit capture operation reads production art or encodes web copies.
     with ThreadPoolExecutor(max_workers=8) as executor:
         for job, image in zip(jobs, executor.map(_encode, jobs)):
@@ -221,12 +247,12 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
         group["images"].sort(key=lambda image: image["id"])
     groups.sort(key=lambda story: (story["title"].casefold(), story["slug"]))
     data = {"schemaVersion": 1, "stories": groups}
-    if snapshot.get("excludedSources"):
-        data["excludedSources"] = snapshot["excludedSources"]
+    if prior.get("excludedSources"):
+        data["excludedSources"] = prior["excludedSources"]
     snapshot_path.parent.mkdir(parents=True, exist_ok=True)
     pending = snapshot_path.with_suffix(".json.tmp")
     pending.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    load_snapshot(pending)
+    load_snapshot(pending, collection)
     check_assets(data, snapshot_path.parent)
     pending.replace(snapshot_path)
     old_assets = {image[role]["path"] for image in previous.values() for role in ("full", "thumbnail")}
@@ -249,11 +275,23 @@ def check_assets(data: dict, pages_root: Path) -> int:
     return count
 
 
-def render_gallery(data: dict) -> str:
+def _combine_collections(landscapes: dict, interiors: dict | None = None) -> dict:
+    stories = {}
+    for collection, data in (("landscapes", landscapes), ("interiors", interiors or {"stories": []})):
+        for story in data["stories"]:
+            group = stories.setdefault(story["slug"], {**story, "images": []})
+            group["images"].extend({**image, "collection": collection} for image in story["images"])
+    return {"stories": sorted(stories.values(), key=lambda story: (story["title"].casefold(), story["slug"]))}
+
+
+def render_gallery(landscapes: dict, interiors: dict | None = None) -> str:
     from pages import build
 
+    data = _combine_collections(landscapes, interiors)
     escape = lambda value: html.escape(str(value), quote=True)
     count = sum(len(story["images"]) for story in data["stories"])
+    landscape_count = sum(len(story["images"]) for story in landscapes["stories"])
+    interior_count = count - landscape_count
     options = []
     groups = []
     for story in data["stories"]:
@@ -262,14 +300,18 @@ def render_gallery(data: dict) -> str:
         cards = []
         for index, image in enumerate(story["images"], 1):
             caption, alt, full = escape(image["title"]), escape(image["alt"]), escape(image["full"]["path"])
+            collection = image["collection"]
+            label = COLLECTIONS[collection]
+            image_id = f'{slug}/{escape(image["id"])}' if collection == "landscapes" else f'{slug}/interiors/{escape(image["id"])}'
             thumb = image["thumbnail"]
             cards.append(
-                f'<li class="landscape-card" data-search="{title} {caption}">'
+                f'<li class="landscape-card" data-search="{title} {caption} {label}">'
                 f'<a class="landscape-link" data-gallery-image data-full="{full}" data-title="{caption}" '
-                f'data-story-title="{title}" data-story-slug="{slug}" data-image-id="{slug}/{escape(image["id"])}" '
+                f'data-story-title="{title}" data-story-slug="{slug}" data-image-id="{image_id}" data-collection="{collection}" '
                 f'data-reader="{reader}" href="{full}"><figure>'
                 f'<img src="{escape(thumb["path"])}" alt="{alt}" width="{thumb["width"]}" height="{thumb["height"]}" loading="lazy" decoding="async">'
-                f'<figcaption><span class="landscape-number">{index:02}</span><span>{caption}</span></figcaption></figure></a></li>'
+                f'<figcaption><span class="landscape-number">{index:02}</span><span>{caption}'
+                f'<span class="painting-kind">{label}</span></span></figcaption></figure></a></li>'
             )
         groups.append(
             f'<section class="gallery-story" id="story-{slug}" data-story="{slug}" data-title="{title}">'
@@ -277,9 +319,12 @@ def render_gallery(data: dict) -> str:
             f'<ul class="landscape-grid">{"".join(cards)}</ul></section>'
         )
     introduction = (
-        '<section class="gallery-intro"><p class="gallery-eyebrow">The landscape collection</p>'
-        '<h1>Landscape gallery</h1><p class="gallery-lede">Oil-painted landscapes inspired by the Group of Seven, drawn from our stories.</p>'
-        f'<p class="gallery-summary">{count:,} paintings · {len(groups):,} stories</p></section>'
+        '<section class="gallery-intro"><p class="gallery-eyebrow">Studies of the story world</p>'
+        '<h1>Image Gallery</h1><p class="gallery-lede">Landscapes and interiors from our stories, painted in oils with the bold colour and expressive brushwork of the Group of Seven as inspiration.</p>'
+        '<p class="gallery-study">The landscape studies look outward; the interiors step into the rooms where the stories unfold. '
+        'We choose their most evocative settings, exploring another angle when a story lives in a single room. '
+        'Stories set entirely outdoors remain in the landscape collection.</p>'
+        f'<p class="gallery-summary">{landscape_count:,} landscapes · {interior_count:,} interiors · {len(groups):,} stories</p></section>'
     )
     controls = (
         '<form id="gallery-filters" class="gallery-controls" role="search" hidden>'
@@ -287,11 +332,15 @@ def render_gallery(data: dict) -> str:
         '<input id="gallery-search" type="search" name="q" placeholder="A place, a mood, a story…"></div>'
         '<div class="gallery-field"><label for="gallery-story">Story</label>'
         '<select id="gallery-story" name="story"><option value="">All stories</option>'
-        f'{"".join(options)}</select></div><button id="gallery-reset" type="button">Clear filters</button></form>'
+        f'{"".join(options)}</select></div>'
+        '<div class="gallery-field"><label for="gallery-type">Study</label>'
+        '<select id="gallery-type" name="type"><option value="">All paintings</option>'
+        '<option value="landscapes">Landscapes</option><option value="interiors">Interiors</option></select></div>'
+        '<button id="gallery-reset" type="button">Clear filters</button></form>'
         f'<p id="gallery-count" class="gallery-count" role="status" aria-live="polite">{count:,} paintings across {len(groups):,} stories</p>'
-        '<p id="gallery-empty" class="gallery-empty" hidden>No landscapes found. Try another search or clear your filters.</p>'
+        '<p id="gallery-empty" class="gallery-empty" hidden>No paintings found. Try another search or clear your filters.</p>'
     )
-    empty = '<p class="gallery-empty">The landscape collection is coming soon.</p>' if not groups else ""
+    empty = '<p class="gallery-empty">The art collection is coming soon.</p>' if not groups else ""
     viewer = (
         '<dialog id="gallery-viewer" class="gallery-viewer" aria-labelledby="viewer-title">'
         '<div class="viewer-toolbar"><p id="viewer-story"></p><button id="viewer-close" type="button" aria-label="Close image viewer">Close ×</button></div>'
@@ -302,20 +351,22 @@ def render_gallery(data: dict) -> str:
         '<p id="viewer-error" role="status" hidden>This image could not load. Try opening it directly.</p></div></dialog>'
     )
     return build._page(
-        "Landscape gallery — Story Computing Machine", introduction + controls + empty
+        "Image Gallery — Story Computing Machine", introduction + controls + empty
         + f'<div class="gallery-collection">{"".join(groups)}</div>' + viewer,
         "index.html", "styles.css", "theme.js", current="landscapes",
         script_href="landscape-gallery.js", extra_stylesheet_hrefs=("landscape-gallery.css",),
         main_class="landscape-gallery", page_path="gallery.html",
-        description=f"Explore {count:,} oil-painted landscapes from {len(groups):,} stories, inspired by the Group of Seven.",
+        description=f"Explore {count:,} oil-painted landscapes and interiors from {len(groups):,} stories, inspired by the Group of Seven.",
     )
 
 
 def build_gallery(destination: Path, snapshot_path: Path, catalog) -> int:
-    data = load_snapshot(snapshot_path)
+    landscapes = load_snapshot(snapshot_path)
+    interiors = load_snapshot(snapshot_path.with_name("interiors.json"), "interiors")
+    data = _combine_collections(landscapes, interiors)
     published = {story.slug for story in catalog.stories}
     if any(story["slug"] not in published for story in data["stories"]):
-        raise ValueError("A landscape reader is absent from the publication catalog")
+        raise ValueError("An art study reader is absent from the publication catalog")
     count = check_assets(data, snapshot_path.parent)
     for story in data["stories"]:
         for image in story["images"]:
@@ -326,5 +377,5 @@ def build_gallery(destination: Path, snapshot_path: Path, catalog) -> int:
                 shutil.copyfile(_asset(snapshot_path.parent, relative), target)
     for filename in ASSET_NAMES:
         shutil.copyfile(Path(__file__).with_name(filename), destination / filename)
-    (destination / "gallery.html").write_text(render_gallery(data), encoding="utf-8")
+    (destination / "gallery.html").write_text(render_gallery(landscapes, interiors), encoding="utf-8")
     return count

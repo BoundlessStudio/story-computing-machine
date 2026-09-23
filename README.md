@@ -103,6 +103,7 @@ story and its illustrated edition.
 - `pages/illustrated.json`, `pages/illustrated/`: illustrated-edition snapshot.
 - `pages/graphic-novels.json`, `pages/graphic-novels/`: comic PDF download snapshot.
 - `pages/landscapes.json`, `pages/landscapes/`: landscape gallery snapshot and web images.
+- `pages/interiors.json`, `pages/interiors/`: interior study snapshot and web images.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
 GitHub Pages publishes the Library and story pages; an approved illustrated
@@ -112,30 +113,48 @@ Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.
 
-The **Landscapes** navigation link opens `gallery.html`: oil-painted landscape
-studies grouped by story, with search, a story filter and an image viewer.
+The **Image Gallery** navigation link opens `gallery.html`: oil-painted landscape
+and interior studies grouped by story, with search, story and study filters, and an image viewer.
 Arrow keys move between paintings; Escape closes the viewer. Filter URLs can be
 shared. Without JavaScript, every painting remains available as a direct image
-link. Original PNGs live in each story's `art/landscapes/` directory. An explicit
-`python pages/build.py capture-landscapes` saves full-resolution WebP copies,
-small thumbnails and a separate gallery snapshot. It neither changes prose nor
-recaptures the story catalog. Ordinary Pages builds copy those stored web images
+link. Original PNGs live in each story's `art/landscapes/` and `art/interiors/`
+directories. `python pages/build.py capture-landscapes` and
+`python pages/build.py capture-interiors` independently save full-resolution WebP
+copies, small thumbnails and their collection's gallery snapshot. Neither changes
+prose nor recaptures the story catalog or the other art collection. Ordinary Pages builds copy those stored web images
 without reading source artwork or encoding new images. The existing GitHub
 Actions workflow deploys the gallery with the rest of the site after merge.
 
-Editorial removals are recorded in `pages/landscapes.json` as `excludedSources`,
-with the inspected source hash and a story-specific reason. Remove their selected
-entries and web copies together. Capture preserves these exclusions, including
-when an original remains in a canon-locked story package; changing its pixels
-does not silently restore it. Restoring a painting requires explicit editorial
-selection by removing its exclusion before capture.
+The art study explores the spaces of each story through oil painting, inspired
+by the Group of Seven's bold colour shapes and expressive brushwork. Interior
+studies carry that treatment indoors with visible impasto, warm and cool light,
+and source-grounded architecture and furnishings. Choose about three compelling
+settings per story, or different views of the same room when there is only one.
+Stories set entirely outdoors receive no interior studies. These independent
+environment paintings establish no new canon facts. They carry no added titles or
+captions; signs and labels may appear when they belong to the story setting.
+Open `gallery.html?type=interiors` to browse just the interior collection.
+For a small batch, `python pages/build.py capture-interiors <slug> [<slug> ...]`
+updates only those stories and retains the other stored interior studies.
 
-Reviewed replacement PNGs live in pages/landscape-replacements, grouped by story
-and image ID, outside the original story package. A selected replacement records
-its original reference and hash, correction context, generation prompt and tool in
-the gallery snapshot. Its rejected original remains excluded. Capture preserves
-that selection and refuses changed replacement bytes until the selection is
-reviewed and updated. Pages builds use only the stored WebP copies.
+Editorial removals are recorded in the collection's `pages/landscapes.json` or
+`pages/interiors.json` as `excludedSources`, with the inspected source hash and a
+story-specific reason. Remove their selected entries and web copies together.
+Capture preserves these exclusions, including when an original remains in a
+canon-locked story package; changing its pixels does not silently restore it.
+Restoring a painting requires explicit editorial selection by removing its
+exclusion before capture.
+
+Reviewed replacement PNGs live in `pages/landscape-replacements/<slug>/<image-id>.png`
+or `pages/interior-replacements/<slug>/<image-id>.png`, outside the original story
+package. The matching collection snapshot selects that path in `source` and pins
+its bytes with `sourceSha256`. Its `revision` records `originalSource`,
+`originalSha256`, `correction`, `prompt`, and `generator`; the original source and
+hash must match an `excludedSources` entry in the same collection. Capture
+preserves that selection and refuses changed replacement bytes until the
+selection is reviewed and updated. Named interior capture also supports stories
+whose originals are all excluded, including those with only selected replacements.
+Pages builds use only the stored WebP copies.
 
 Replacement artwork keeps the collection's Canadian Group of Seven inspired
 oil-painting direction. Inspect the original image as the style reference and
@@ -228,6 +247,7 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase 
 python pages/build.py capture <slug>
 python pages/build.py capture-graphic-novel <edition-slug>
 python pages/build.py capture-landscapes
+python pages/build.py capture-interiors
 python pages/build.py check
 ```
 
