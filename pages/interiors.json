@@ -7899,19 +7899,26 @@
           "id": "02-heat-sac-alcove",
           "title": "Heat sac alcove",
           "alt": "Heat sac alcove — oil interior study for The Rooms the City Forgot",
-          "source": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
-          "sourceSha256": "17fde4a32f2b67c81ab27a867a5791e8a4ddc8882e0e2212586827c0847ead44",
+          "source": "pages/interior-replacements/rooms-before-sunrise/02-heat-sac-alcove.png",
+          "sourceSha256": "9c86bec7f36e7e24a0938dd6f9ff67df56aa10fc84b251c5488ebd90e9b46879",
           "full": {
-            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-17fde4a32f2b67c8.webp",
-            "sha256": "96cad5bb0a0cf222032b3d4cee715135475caa6f3494fb1ae26b10487fc2f863",
+            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-9c86bec7f36e7e24.webp",
+            "sha256": "b142211316e6288f71d1fe0102fd857f67902527e4dc22b686462fc15c611d05",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-17fde4a32f2b67c8-thumb.webp",
-            "sha256": "3d09a17aa6f34df08b1b1d20587fce950e781a0fc0889dfeb78e02170579261a",
+            "path": "interiors/rooms-before-sunrise/02-heat-sac-alcove-9c86bec7f36e7e24-thumb.webp",
+            "sha256": "5d8d9dad0ec957ce09aa129492e348a735af5e7d962920d6346f20afe8abf17f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
+            "originalSha256": "17fde4a32f2b67c81ab27a867a5791e8a4ddc8882e0e2212586827c0847ead44",
+            "correction": "Enclose the broad sea-facing side with living lining. Keep intact sacs/rack for the pre-cut study and make illumination internal or filtered; retain the high-tower setting without a ground-level panorama.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 landscape oil painting (3:2).\nInput 1 is the edit target, the heat-sac alcove inside a living tower. Preserve its confident broad oil brushwork, shaped peach/ochre light and blue-violet shadows, curved fleshy load ribs, intact warm heat sacs beneath the wooden drying rack of shirts, exactly three jars and bundled stores below, reed divider at right, and narrow mineral-crusted floor channel. This remains an empty expressive Group of Seven-inspired oil interior study.\nCorrect the enclosure: this is a HIDDEN ROOM in tier eighteen of a tall living tower, behind an apparently solid outer wall. It is the intact PRE-CUT alcove, before the wall/sacs are divided and the alcove collapses. Replace the ENTIRE open sea-facing left area, all visible ocean/sky/nearby rocks and its open lattice gaps, with continuous opaque curved living wall lining. The existing curved load ribs may remain embedded within that wall, but there must be no see-through holes between them. Use the same pale warm peach living membrane texture as the back of the alcove, with cooler violet shadow toward the left edge and a few organic folds. Fully enclose the side of this room; no balcony, windows, seashore panorama or exterior breach.\nKeep illumination gentle and internal: warm reflected glow from the heat-sac area, diffused ambient light over the lining, cool interior shadows. Do not light the room through an open seaside wall. Retain the existing rightward interior passage and reed divider, three jars and domestic stores, dry intact rack/shirts and uncut sacs. No new structural elements, people, text, labels, signatures, watermark, collage, photorealistic or 3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11070,6 +11077,11 @@
       "source": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
       "sourceSha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428",
       "reason": "Make the distinctive three unequal ribs architecturally massive and preserve their off-center junction, reframing closer if needed."
+    },
+    {
+      "source": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
+      "sourceSha256": "17fde4a32f2b67c81ab27a867a5791e8a4ddc8882e0e2212586827c0847ead44",
+      "reason": "Enclose the broad sea-facing side with living lining. Keep intact sacs/rack for the pre-cut study and make illumination internal or filtered; retain the high-tower setting without a ground-level panorama."
     }
   ]
 }
