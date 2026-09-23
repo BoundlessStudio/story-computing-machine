@@ -48,19 +48,26 @@
           "id": "03-the-garden-door-and-screen",
           "title": "The garden door and screen",
           "alt": "The garden door and screen — oil interior study for A Bargain with Anubis",
-          "source": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
-          "sourceSha256": "9aa998108f17b00c2386b9f86b567230e6c3078eacd33ad24fe638bc0dfcba12",
+          "source": "pages/interior-replacements/the-emerald-relic/03-the-garden-door-and-screen.png",
+          "sourceSha256": "240618595c1b174137129d08b81f2c227a387420b52f71fdfd1bf5bab7629489",
           "full": {
-            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-9aa998108f17b00c.webp",
-            "sha256": "a8e81c3821818b70a15c1945a92435055d294898e0ec0048333debaf9dee022c",
+            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-240618595c1b1741.webp",
+            "sha256": "3fc9aca481c5475ac01350861083cc3b0cd2f2980a027081574d06750b277cfd",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-9aa998108f17b00c-thumb.webp",
-            "sha256": "4d16c35d2d6ee4afcbd6725d50f1b50959944b8388a9ce4b15a481073124d3ac",
+            "path": "interiors/the-emerald-relic/03-the-garden-door-and-screen-240618595c1b1741-thumb.webp",
+            "sha256": "83f241645b7dcb0e897e5b51170c30bcb5cea46a5af93a0e7e621538316d3a9f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
+            "originalSha256": "9aa998108f17b00c2386b9f86b567230e6c3078eacd33ad24fe638bc0dfcba12",
+            "correction": "Use the accepted room arrangement: place the screen between garden doorway and bed, with its near edge just beyond a true bedside table reachable from the pillows.",
+            "prompt": "Use case: precise-object-edit. Create one corrected landscape interior painting, 1536x1024 (3:2).\nInput 1 is the edit target: the original garden-door-and-screen interior. Input 2 is a supporting reference for the same bedchamber, its material palette, lamp light, bed, chair, and reed-screen/table relationship.\nCorrect the room geography in input 1 while retaining its recognizable ancient Egyptian limestone bedchamber, garden threshold framing, broad confident shaped oil brushwork, warm ochre lamp light, cool violet stone shadows, cream linen, sparse green garden glimpses, and no people. Keep this an expressive Group of Seven-inspired oil painting, not a photograph or render.\nThe prose requires the tall reed screen INSIDE the garden door to shield the bed from the doorway. Move the screen out of the far-right wall position and make its broad opaque reed face stand across the direct line of sight from the garden threshold to the bed. It is a free-standing screen, not a wall or extra door. Let it dominate the middle foreground, hiding most of the mattress and pillows from the straight entry sightline. Paint a few subtle worn bird motifs on its reeds.\nCompose the view slightly obliquely at the threshold so a narrow view around the screen's near edge shows the essential handoff arrangement: a small wooden bedside table immediately beside the pillow/head end of the bed, within a reclining person's forearm reach. The screen's near vertical edge ends just beyond the OUTER rim of that table, allowing a concealed person on the garden-door side of the screen to reach around to the tabletop. Show the spatial adjacency clearly; no intervening aisle. A brass cup, low oil lamp and small wrapped black-linen bundle rest on the true bedside table. No uncovered emerald jaw is needed in this study. The narrow revealed strip of cream pillows must meet the bedside table; do not leave a table down by the foot of the bed.\nThe father’s woven chair and low knucklebone stool remain on the opposite side of the bed, visible only where the adjusted occlusion allows. Retain the substantial open garden-door leaf and its ring handle, stone floor, period details, painterly lighting, and useful original composition to the extent compatible with the corrected protective screen. Avoid a full unobstructed bed view, multiple screens, new furniture, modern objects, scenic landscape, people, text, headings, borders, signatures, or watermark.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -10816,6 +10823,13 @@
           }
         }
       ]
+    }
+  ],
+  "excludedSources": [
+    {
+      "source": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
+      "sourceSha256": "9aa998108f17b00c2386b9f86b567230e6c3078eacd33ad24fe638bc0dfcba12",
+      "reason": "Use the accepted room arrangement: place the screen between garden doorway and bed, with its near edge just beyond a true bedside table reachable from the pillows."
     }
   ]
 }
