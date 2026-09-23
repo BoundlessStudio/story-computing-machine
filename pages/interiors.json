@@ -3053,19 +3053,26 @@
           "id": "01-anniversary-moon-ride",
           "title": "Anniversary moon ride",
           "alt": "Anniversary moon ride — oil interior study for Sakura-Hearted",
-          "source": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
-          "sourceSha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+          "source": "pages/interior-replacements/sakura-hearted/01-anniversary-moon-ride.png",
+          "sourceSha256": "684e3bc981f876befa82babb155ac922202fef393b19e0fda16ce85988439920",
           "full": {
-            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-10b7e9ad6f092f65.webp",
-            "sha256": "5f793e7f0198e8012626ac006b6aedff1f996615a199bd56c021c5bc94e58aff",
+            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-684e3bc981f876be.webp",
+            "sha256": "97dbf8911ed8aefc6b05e3ba38d115a36b660ef50d96783ec3aaa71537282e66",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-10b7e9ad6f092f65-thumb.webp",
-            "sha256": "ee9a938d9282c3b5b55b1ee08b97a4232fc371933f1d1d1d3123a8737946652e",
+            "path": "interiors/sakura-hearted/01-anniversary-moon-ride-684e3bc981f876be-thumb.webp",
+            "sha256": "1c9af4672b13318fd21b0a5c567e8de3702dd819b2e49c10f692f62990bdfb33",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+            "originalSha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+            "correction": "Remove suspension cords and upper attachment plates; show small receiver discs beneath free-floating models. Also retain the source's blue side-comet instead of the image's cream comet if correcting the ride.",
+            "prompt": "Use case: precise-object-edit. Make a tiny targeted correction to this supplied oil painting, the sole edit target. Keep all composition, style, furniture, colors, skyline, floating models and their underside receiver discs exactly as shown; preserve the expressive thick oil strokes. 3:2 landscape, 1536x1024 preferred.\nOn the side of the blue moon ride, recolor the whole comet emblem, including its five-point head and sweeping tail, a clearly saturated light cobalt BLUE that contrasts with the dark navy body. It must unmistakably read as a BLUE comet. Allow only one small silvery rubbed patch in the tail directly beneath the boarding step; most of the emblem remains blue. Its present almost entirely silver color is the one main defect to fix.\nAlso completely erase any remaining fine vertical suspension lines above any model, especially the small gray globe near the upper center. These cardboard models hover independently with receiver discs underneath, with clear empty painted background above them, no wires or upper attachments. Keep the real pendant lamp and its cable at the far right unchanged.\nNo other changes. No people, no added props, no lettering, no watermark, no border, no photorealism or 3D treatment.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -10914,6 +10921,11 @@
       "source": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
       "sourceSha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
       "reason": "Carry the corrected four-groove spike into the closer van image; place the flashlight lens against its head, with three crescents directed to traffic and one to the culvert ditch, and replace the fuel station with the late larch-road setting."
+    },
+    {
+      "source": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+      "sourceSha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+      "reason": "Remove suspension cords and upper attachment plates; show small receiver discs beneath free-floating models. Also retain the source's blue side-comet instead of the image's cream comet if correcting the ride."
     }
   ]
 }
