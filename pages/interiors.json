@@ -1370,19 +1370,26 @@
           "id": "03-language-classroom",
           "title": "Language classroom",
           "alt": "Language classroom — oil interior study for An Ordinary Education",
-          "source": "stories/an-ordinary-education/art/interiors/03-language-classroom.png",
-          "sourceSha256": "71c2a08c60b54bcab5632e32450e33525b938ea81a2b135a3593e66858ce5549",
+          "source": "pages/interior-replacements/an-ordinary-education/03-language-classroom.png",
+          "sourceSha256": "67b9979503e626eee5259b2a51a8c79148957ff1e55529936340464e804a10bd",
           "full": {
-            "path": "interiors/an-ordinary-education/03-language-classroom-71c2a08c60b54bca.webp",
-            "sha256": "797b0d04c1847bff0c7f65c7e8240cf89773b0a51b2a3dc26bd5c56b69804586",
+            "path": "interiors/an-ordinary-education/03-language-classroom-67b9979503e626ee.webp",
+            "sha256": "c30b7e506a744494814d76a44267a5b3537935e7a5ef8a088a2756c0119232d6",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/an-ordinary-education/03-language-classroom-71c2a08c60b54bca-thumb.webp",
-            "sha256": "debab603d5ef4fdf9e4c51e263d8db1454ce2cc7e579c80e2330eee7704aaa0e",
+            "path": "interiors/an-ordinary-education/03-language-classroom-67b9979503e626ee-thumb.webp",
+            "sha256": "578c66bf63e241f8439150725c5aa2cc1b73e61cbb8de7d07914157525a5c41f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/an-ordinary-education/art/interiors/03-language-classroom.png",
+            "originalSha256": "71c2a08c60b54bcab5632e32450e33525b938ea81a2b135a3593e66858ce5549",
+            "correction": "Keep classroom/headphones but replace the window panorama with non-specific light or a restrained ordinary school-neighborhood view.",
+            "prompt": "Use case: localized environmental edit. Edit the attached classroom painting, preserving the entire room and its warm violet/gold expressive Group of Seven-inspired oil treatment. One 3:2 landscape image, 1536x1024 preferred.\nChange ONLY the view within the large left window panes. Replace every snowy conifer, snow-covered ground and mountain shape with quiet diffuse warm daylight on softly translucent glass. Through the lower portions of the panes allow only an indistinct, very close ordinary pale brick school-building wall and a few simple rectangular windows, cropped by the classroom window frames. The exterior stays subdued and close; no landscape panorama, snow, mountains, forest or lake. Preserve the present golden illumination coming into the classroom.\nKeep the original window frames, rows of desks and chairs, black headphones and audio boxes, connecting leads, notebooks, bookcase and plant, empty green chalkboard, teacher's desk and books, globe, floor shadows, camera angle, room proportions and all other objects unchanged. The room remains completely empty. Retain thick confident shaped brushstrokes and rough paint texture. No people, signs, new readable writing, overlay, watermark, signature, photographic polish or 3D rendering.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -11430,6 +11437,11 @@
       "source": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
       "sourceSha256": "b09a9a7cb2f7bd2f6abab4051b0f0e7430fb3642b2b0d63684dd023dc86c6ca9",
       "reason": "Keep the composition and replace only the pictured background chandelier's candles with the same smouldering cones established in original 02."
+    },
+    {
+      "source": "stories/an-ordinary-education/art/interiors/03-language-classroom.png",
+      "sourceSha256": "71c2a08c60b54bcab5632e32450e33525b938ea81a2b135a3593e66858ce5549",
+      "reason": "Keep classroom/headphones but replace the window panorama with non-specific light or a restrained ordinary school-neighborhood view."
     }
   ]
 }
