@@ -2160,19 +2160,26 @@
           "id": "02-lacrixas-old-room",
           "title": "Lacrixas old room",
           "alt": "Lacrixas old room — oil interior study for Hello, Lover",
-          "source": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
-          "sourceSha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
+          "source": "pages/interior-replacements/clerics-infernal-ex/02-lacrixas-old-room.png",
+          "sourceSha256": "6aabf8942ab5d3ae3302c1f267782b449ad17502e89cbb17b5aed86f44ed505c",
           "full": {
-            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-b2b9e5c1d66603e8.webp",
-            "sha256": "702ba935c968307a71e611480403646c7011297c36d80f35c3b44318c98c9a88",
+            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-6aabf8942ab5d3ae.webp",
+            "sha256": "2848eb5b9bd41d9103953dcfb384cfbec0aea611b57f14e719b0c3f03c698e33",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-b2b9e5c1d66603e8-thumb.webp",
-            "sha256": "68369aee04a3587f8e1a8a57f2d95749d0e6cec3ba69bad85b03084c94c927e1",
+            "path": "interiors/clerics-infernal-ex/02-lacrixas-old-room-6aabf8942ab5d3ae-thumb.webp",
+            "sha256": "fc67b0eacc899b23d4778272eaba64f95903caa9ef130de927fbcc80b0dfc637",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+            "originalSha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
+            "correction": "Depict the narrow yellow-bronze split-tailed leaf with painted brush edges. Keep it on the portal jamb rather than suggesting the ordinary kiln-court arch is the cross-world opening.",
+            "prompt": "Edit the supplied finished interior painting as a localized story-fidelity correction. Keep the original 1536 x 1024, 3:2 landscape framing, recognizable warm pottery storeroom, shelves and glazed green/cream bowls, tiled walls, big jars, small bench with clay pieces, timber rafters, sunlit floor, and ordinary open arch on the RIGHT leading to the brick kiln court. Retain the expressive Group of Seven-inspired OIL painting: broad thick directional brush marks, irregular painted edges, visible impasto and ochre/slate/green color masses throughout.\n\nCorrect only the bronze courtesy-hinge detail and which opening carries it. The story describes a hand-long NARROW strip of yellow bronze, with a forked split-tail at one end and simple little fastening marks. It is a slim keyed leaf, not a wide decorative butterfly door hinge. Its location is the tiled jamb of the separate magical portal between rooms; the ordinary kiln-court arch is NOT that portal.\n\nRemove the existing large ornate, realistic butterfly hinge from the RIGHT court arch, restoring plain painted cream/green tile there. Show just a narrow cropped near-camera tiled PORTAL JAMB along the extreme LEFT edge of the picture, about 7 percent of image width; the rest of that opening is outside the image to the left. The observer looks past this jamb into the same unchanged pottery room and onward to the ordinary arch on the right. On the visible inward face of the left jamb, at readable upper-middle height above a short green-and-cream tile border, mount ONE narrow vertical hand-long yellow-bronze leaf, roughly four to five times longer than wide, with a small shallow notch and clearly bifurcated split tail. Render it in a few confident ochre, yellow and dark bronze brush strokes, with two small painted fastening dots; no mechanical hinge barrel or ornate wings, no photographic screw heads. Keep the physical scale modest. The foreground jamb may occlude a thin strip of the leftmost shelf only; do not reorganize the room. This is an empty, still location study: no characters, no active portal glow, no text, no captions, no labels. Everything outside this small correction remains as close as possible to the original.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11994,6 +12001,11 @@
       "source": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
       "sourceSha256": "ef1a90688c85026c6310aadbdf0943aab0b99d1abfbcfcd09d233baf2c7cc8d5",
       "reason": "Add a fifth complete setting and chair while retaining the singled-out black-linen kept place."
+    },
+    {
+      "source": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+      "sourceSha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
+      "reason": "Depict the narrow yellow-bronze split-tailed leaf with painted brush edges. Keep it on the portal jamb rather than suggesting the ordinary kiln-court arch is the cross-world opening."
     }
   ]
 }
