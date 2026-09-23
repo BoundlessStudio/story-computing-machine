@@ -1,8 +1,9 @@
-"""Capture landscape and interior studies; build from their frozen snapshots."""
+"""Capture story art collections; build from their frozen snapshots."""
 
 from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor
+from copy import deepcopy
 import hashlib
 import html
 from io import BytesIO
@@ -21,7 +22,7 @@ else:
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 DIGEST = re.compile(r"[a-f0-9]{64}\Z")
 ASSET_NAMES = ("landscape-gallery.css", "landscape-gallery.js")
-COLLECTIONS = {"landscapes": "Landscape", "interiors": "Interior"}
+COLLECTIONS = {"landscapes": "Landscape", "interiors": "Interior", "characters": "Character"}
 REPLACEMENT_ROOTS = {
     "landscapes": "pages/landscape-replacements",
     "interiors": "pages/interior-replacements",
@@ -95,8 +96,9 @@ def load_snapshot(path: Path, collection: str = "landscapes") -> dict:
                 raise ValueError(f"Invalid landscape source hash: {slug}/{image_id}")
             source = image.get("source", "")
             original_sources = {f"stories/{slug}/art/{collection}/{image_id}{ext}" for ext in (".png", ".jpg", ".jpeg", ".webp")}
-            replacement_source = f"{REPLACEMENT_ROOTS[collection]}/{slug}/{image_id}.png"
-            allowed_sources = original_sources | {replacement_source}
+            replacement_root = REPLACEMENT_ROOTS.get(collection)
+            replacement_source = f"{replacement_root}/{slug}/{image_id}.png" if replacement_root else None
+            allowed_sources = original_sources | ({replacement_source} if replacement_source else set())
             if not isinstance(source, str) or source not in allowed_sources:
                 raise ValueError(f"Invalid landscape source path: {source}")
             revision = image.get("revision")
@@ -127,6 +129,8 @@ def load_snapshot(path: Path, collection: str = "landscapes") -> dict:
                     raise ValueError(f"Invalid landscape dimensions: {expected}")
                 if asset["width"] <= asset["height"]:
                     raise ValueError(f"Expected horizontal landscape: {expected}")
+                if collection == "characters" and asset["width"] * 2 != asset["height"] * 3:
+                    raise ValueError(f"Expected a 3:2 character sheet: {expected}")
                 _asset(path.parent, asset["path"])
     return data
 
@@ -156,6 +160,8 @@ def _encode(job: tuple[Path, Path, Path, str, str, dict | None, str]) -> dict:
         image = ImageOps.exif_transpose(opened).convert("RGB")
     if image.width <= image.height:
         raise ValueError(f"Expected a horizontal landscape: {source}")
+    if collection == "characters" and image.width * 2 != image.height * 3:
+        raise ValueError(f"Expected a 3:2 character sheet: {source}")
     for role, suffix, quality in (("full", "", 80), ("thumbnail", "-thumb", 70)):
         rendition = image
         if role == "thumbnail":
@@ -178,6 +184,144 @@ def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None)
 
 def capture_interiors(repository_root: Path, snapshot_path: Path | None = None, slugs: list[str] | None = None) -> dict:
     return _capture_collection(repository_root, "interiors", snapshot_path, slugs)
+
+
+def character_specification_sha256(specification: dict, character: dict) -> str:
+    """Pin source and creative inputs without mutable production/review state."""
+    inputs = deepcopy(character)
+    for key in ("status", "output", "outputSha256", "validation"):
+        inputs.pop(key, None)
+    if isinstance(inputs.get("generation"), dict):
+        inputs["generation"].pop("attempts", None)
+    value = {"source": specification.get("source"),
+             "sourceSha256": specification.get("sourceSha256"), "character": inputs}
+    encoded = json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+    return hashlib.sha256(encoded).hexdigest()
+
+
+def _reviewed_character_source(repository_root: Path, specification: dict, character: dict) -> Path:
+    slug, image_id = specification["slug"], character.get("id", "")
+    if not isinstance(image_id, str) or not SLUG.fullmatch(image_id):
+        raise ValueError(f"Invalid character identity: {slug}/{image_id}")
+    name = character.get("name")
+    if not isinstance(name, str) or not name.strip():
+        raise ValueError(f"Missing character name: {slug}/{image_id}")
+    source = specification.get("source")
+    if source not in {f"stories/{slug}/story.md", f"stories/{slug}/05-story.md"}:
+        raise ValueError(f"Invalid character story source: {slug}")
+    source_path = _asset(repository_root, source)
+    source_hash = specification.get("sourceSha256")
+    if not source_path.is_file() or _sha256(source_path) != source_hash:
+        raise ValueError(f"Character story source changed since review: {slug}")
+    validation = character.get("validation", {})
+    if not isinstance(validation, dict) or validation.get("status") != "PASS":
+        raise ValueError(f"Character requires a passing visual review: {slug}/{image_id}")
+    evidence = validation.get("evidence")
+    if not ((isinstance(evidence, str) and evidence.strip()) or
+            (isinstance(evidence, list) and evidence and
+             all(isinstance(item, str) and item.strip() for item in evidence))):
+        raise ValueError(f"Missing character visual review evidence: {slug}/{image_id}")
+    if validation.get("sourceSha256") != source_hash:
+        raise ValueError(f"Stale character source pin: {slug}/{image_id}")
+    if validation.get("specificationSha256") != character_specification_sha256(specification, character):
+        raise ValueError(f"Character specification changed since review: {slug}/{image_id}")
+    generation = character.get("generation", {})
+    if not isinstance(generation, dict) or not isinstance(generation.get("prompt"), str) or not generation["prompt"].strip():
+        raise ValueError(f"Missing character generation prompt: {slug}/{image_id}")
+    references = generation.get("references")
+    if not isinstance(references, list) or not 1 <= len(references) <= 5 or validation.get("references") != references:
+        raise ValueError(f"Missing or stale character reference pins: {slug}/{image_id}")
+    seen = set()
+    for reference in references:
+        if (not isinstance(reference, dict) or not isinstance(reference.get("path"), str)
+                or not reference["path"].strip() or reference.get("inspected") is not True
+                or not isinstance(reference.get("role"), str) or not reference["role"].strip()
+                or not isinstance(reference.get("sha256"), str) or not DIGEST.fullmatch(reference["sha256"])):
+            raise ValueError(f"Invalid or uninspected character reference: {slug}/{image_id}")
+        path = Path(reference["path"])
+        path = (path if path.is_absolute() else repository_root / path).resolve()
+        if path in seen or not path.is_file() or _sha256(path) != reference["sha256"]:
+            raise ValueError(f"Character reference changed since review: {slug}/{image_id}")
+        seen.add(path)
+    output = character.get("output")
+    if output != f"stories/{slug}/art/characters/{image_id}.png":
+        raise ValueError(f"Invalid character output path: {slug}/{image_id}")
+    output_path = _asset(repository_root, output)
+    output_hash = character.get("outputSha256")
+    if (not isinstance(output_hash, str) or not DIGEST.fullmatch(output_hash)
+            or validation.get("outputSha256") != output_hash or not output_path.is_file()
+            or _sha256(output_path) != output_hash):
+        raise ValueError(f"Character output changed since review: {slug}/{image_id}")
+    return output_path
+
+
+def capture_characters(repository_root: Path, snapshot_path: Path | None = None,
+                       slugs: list[str] | None = None) -> dict:
+    """Select only reviewed character sheets; never scan pending source artwork."""
+    from pages import build
+
+    repository_root = repository_root.resolve()
+    snapshot_path = snapshot_path or repository_root / "pages" / "characters.json"
+    published = {story.slug: story for story in build.load_catalog(snapshot_path.with_name("catalog.json")).stories}
+    requested = set(slugs) if slugs else None
+    if requested and any(slug not in published for slug in requested):
+        raise ValueError("A character story is absent from the publication catalog")
+    prior = load_snapshot(snapshot_path, "characters")
+    previous = {(story["slug"], image["id"]): image for story in prior["stories"] for image in story["images"]}
+    groups = [story for story in prior["stories"] if requested and story["slug"] not in requested]
+    specifications_root = repository_root / "pages" / "character-specs"
+    paths = ([specifications_root / f"{slug}.json" for slug in sorted(requested)] if requested
+             else sorted(specifications_root.glob("*.json")))
+    jobs = []
+    # Validate all selected input pins before encoding or changing the snapshot.
+    for path in paths:
+        try:
+            specification = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            raise ValueError(f"Cannot read character specification: {path}") from exc
+        slug = path.stem
+        if (not isinstance(specification, dict) or specification.get("slug") != slug
+                or not SLUG.fullmatch(slug) or slug not in published
+                or not isinstance(specification.get("characters"), list)):
+            raise ValueError(f"Invalid character specification: {path}")
+        completed = [character for character in specification["characters"]
+                     if isinstance(character, dict) and character.get("status") in {"completed", "reused"}]
+        if not completed:
+            continue
+        if specification.get("readComplete") is not True or specification.get("assessment") != "complete":
+            raise ValueError(f"Character story reading is incomplete: {slug}")
+        group = {"slug": slug, "title": published[slug].title, "reader": f"stories/{slug}.html", "images": []}
+        groups.append(group)
+        seen = set()
+        for character in completed:
+            source = _reviewed_character_source(repository_root, specification, character)
+            if character["id"] in seen:
+                raise ValueError(f"Duplicate character identity: {slug}/{character['id']}")
+            seen.add(character["id"])
+            jobs.append((source, slug, character, group))
+    for source, slug, character, group in jobs:
+        image = _encode((source, repository_root, snapshot_path.parent, slug, group["title"],
+                         previous.get((slug, character["id"])), "characters"))
+        if image["sourceSha256"] != character["outputSha256"]:
+            raise ValueError(f"Character output changed during capture: {slug}/{character['id']}")
+        image["title"] = character["name"]
+        image["alt"] = f"Sculpted Impasto character reference sheet of {character['name']} for {group['title']}"
+        group["images"].append(image)
+    for group in groups:
+        group["images"].sort(key=lambda image: image["id"])
+    groups.sort(key=lambda story: (story["title"].casefold(), story["slug"]))
+    data = {"schemaVersion": 1, "stories": groups}
+    snapshot_path.parent.mkdir(parents=True, exist_ok=True)
+    pending = snapshot_path.with_suffix(".json.tmp")
+    pending.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    load_snapshot(pending, "characters")
+    check_assets(data, snapshot_path.parent)
+    pending.replace(snapshot_path)
+    old_assets = {image[role]["path"] for image in previous.values() for role in ("full", "thumbnail")}
+    selected_assets = {image[role]["path"] for story in groups for image in story["images"] for role in ("full", "thumbnail")}
+    for obsolete in old_assets - selected_assets:
+        _asset(snapshot_path.parent, obsolete).unlink(missing_ok=True)
+    return data
 
 
 def _capture_collection(repository_root: Path, collection: str, snapshot_path: Path | None,
@@ -280,23 +424,27 @@ def check_assets(data: dict, pages_root: Path) -> int:
     return count
 
 
-def _combine_collections(landscapes: dict, interiors: dict | None = None) -> dict:
+def _combine_collections(landscapes: dict, interiors: dict | None = None,
+                         characters: dict | None = None) -> dict:
     stories = {}
-    for collection, data in (("landscapes", landscapes), ("interiors", interiors or {"stories": []})):
+    for collection, data in (("landscapes", landscapes), ("interiors", interiors or {"stories": []}),
+                             ("characters", characters or {"stories": []})):
         for story in data["stories"]:
             group = stories.setdefault(story["slug"], {**story, "images": []})
             group["images"].extend({**image, "collection": collection} for image in story["images"])
     return {"stories": sorted(stories.values(), key=lambda story: (story["title"].casefold(), story["slug"]))}
 
 
-def render_gallery(landscapes: dict, interiors: dict | None = None, media=None) -> str:
+def render_gallery(landscapes: dict, interiors: dict | None = None, media=None,
+                   characters: dict | None = None) -> str:
     from pages import build
 
-    data = _combine_collections(landscapes, interiors)
+    data = _combine_collections(landscapes, interiors, characters)
     escape = lambda value: html.escape(str(value), quote=True)
     count = sum(len(story["images"]) for story in data["stories"])
     landscape_count = sum(len(story["images"]) for story in landscapes["stories"])
-    interior_count = count - landscape_count
+    interior_count = sum(len(story["images"]) for story in (interiors or {"stories": []})["stories"])
+    character_count = count - landscape_count - interior_count
     options = []
     groups = []
     for story in data["stories"]:
@@ -308,7 +456,7 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None) 
             full = escape(asset_url(image["full"]["path"], media=media))
             collection = image["collection"]
             label = COLLECTIONS[collection]
-            image_id = f'{slug}/{escape(image["id"])}' if collection == "landscapes" else f'{slug}/interiors/{escape(image["id"])}'
+            image_id = f'{slug}/{escape(image["id"])}' if collection == "landscapes" else f'{slug}/{collection}/{escape(image["id"])}'
             thumb = image["thumbnail"]
             cards.append(
                 f'<li class="landscape-card" data-search="{title} {caption} {label}">'
@@ -329,18 +477,21 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None) 
         '<h1>Image Gallery</h1><p class="gallery-lede">Art from across our stories, gathered in one gallery.</p>'
         '<p class="gallery-study">Explore the collection and discover another side of the story world. '
         'Follow any piece back to its story to read more.</p>'
-        f'<p class="gallery-summary">{landscape_count:,} landscapes · {interior_count:,} interiors · {len(groups):,} stories</p></section>'
+        f'<p class="gallery-summary">{landscape_count:,} landscapes · {interior_count:,} interiors'
+        + (f' · {character_count:,} character sheets' if character_count else '')
+        + f' · {len(groups):,} stories</p></section>'
     )
     controls = (
         '<form id="gallery-filters" class="gallery-controls" role="search" hidden>'
         '<div class="gallery-field"><label for="gallery-search">Search paintings</label>'
-        '<input id="gallery-search" type="search" name="q" placeholder="A place, a mood, a story…"></div>'
+        '<input id="gallery-search" type="search" name="q" placeholder="A character, a place, a story…"></div>'
         '<div class="gallery-field"><label for="gallery-story">Story</label>'
         '<select id="gallery-story" name="story"><option value="">All stories</option>'
         f'{"".join(options)}</select></div>'
         '<div class="gallery-field"><label for="gallery-type">Study</label>'
         '<select id="gallery-type" name="type"><option value="">All paintings</option>'
-        '<option value="landscapes">Landscapes</option><option value="interiors">Interiors</option></select></div>'
+        '<option value="landscapes">Landscapes</option><option value="interiors">Interiors</option>'
+        '<option value="characters">Character sheets</option></select></div>'
         '<button id="gallery-reset" type="button">Clear filters</button></form>'
         f'<p id="gallery-count" class="gallery-count" role="status" aria-live="polite">{count:,} paintings across {len(groups):,} stories</p>'
         '<p id="gallery-empty" class="gallery-empty" hidden>No paintings found. Try another search or clear your filters.</p>'
@@ -369,7 +520,8 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None) 
 def build_gallery(destination: Path, snapshot_path: Path, catalog, media=None) -> int:
     landscapes = load_snapshot(snapshot_path)
     interiors = load_snapshot(snapshot_path.with_name("interiors.json"), "interiors")
-    data = _combine_collections(landscapes, interiors)
+    characters = load_snapshot(snapshot_path.with_name("characters.json"), "characters")
+    data = _combine_collections(landscapes, interiors, characters)
     published = {story.slug for story in catalog.stories}
     if any(story["slug"] not in published for story in data["stories"]):
         raise ValueError("An art study reader is absent from the publication catalog")
@@ -381,5 +533,5 @@ def build_gallery(destination: Path, snapshot_path: Path, catalog, media=None) -
                 copy_asset(_asset(snapshot_path.parent, relative), destination, relative, media)
     for filename in ASSET_NAMES:
         shutil.copyfile(Path(__file__).with_name(filename), destination / filename)
-    (destination / "gallery.html").write_text(render_gallery(landscapes, interiors, media), encoding="utf-8")
+    (destination / "gallery.html").write_text(render_gallery(landscapes, interiors, media, characters), encoding="utf-8")
     return count

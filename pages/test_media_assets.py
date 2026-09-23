@@ -33,7 +33,8 @@ def gallery_fixture(pages, story, collection):
     image = {'id': '01-room', 'title': 'A room', 'alt': 'A quiet room.',
              'source': f'stories/{story.slug}/art/{collection}/01-room.png',
              'sourceSha256': 'a' * 64}
-    for role, suffix, size in [('full', '', (128, 64)), ('thumbnail', '-thumb', (64, 32))]:
+    sizes = ((96, 64), (48, 32)) if collection == 'characters' else ((128, 64), (64, 32))
+    for role, suffix, size in [('full', '', sizes[0]), ('thumbnail', '-thumb', sizes[1])]:
         relative = f'{collection}/{story.slug}/01-room{suffix}.webp'
         target = pages / relative
         target.parent.mkdir(parents=True, exist_ok=True)
@@ -68,6 +69,7 @@ class CdnBuildTests(unittest.TestCase):
             put_json(pages / 'illustrated.json', {'schemaVersion': 1, 'editions': [edition]})
             landscapes = gallery_fixture(pages, story, 'landscapes')
             interiors = gallery_fixture(pages, story, 'interiors')
+            characters = gallery_fixture(pages, story, 'characters')
             before = {p: p.read_bytes() for p in pages.rglob('*') if p.is_file()}
             local, cdn, staged = root / 'local', root / 'cdn', root / 'assets'
             with patch.object(build, 'load_story_source', side_effect=AssertionError('Production read')):
@@ -77,7 +79,7 @@ class CdnBuildTests(unittest.TestCase):
             self.assertFalse(any(p.suffix in media_assets.CONTENT_TYPES for p in cdn.rglob('*')))
             manifest = json.loads((staged / 'manifest.json').read_text())
             entries = {entry['path']: entry for entry in manifest['assets']}
-            self.assertEqual(len(entries), 11)
+            self.assertEqual(len(entries), 13)
             urls = {BASE + '/' + entry['key'] for entry in entries.values()}
             for relative, entry in entries.items():
                 self.assertEqual((staged / relative).read_bytes(), (local / relative).read_bytes())
@@ -106,7 +108,7 @@ class CdnBuildTests(unittest.TestCase):
             plain_reader = (cdn / 'stories/plain-story.html').read_text(encoding='utf-8')
             self.assertIn(BASE + '/' + entries[plain.cover]['key'], plain_reader)
             gallery = (cdn / 'gallery.html').read_text(encoding='utf-8')
-            for image in (landscapes, interiors):
+            for image in (landscapes, interiors, characters):
                 self.assertIn(f'data-full="{BASE}/{entries[image["full"]["path"]]["key"]}"', gallery)
             self.assertIn(f'data-reader="stories/{story.slug}.html"', gallery)
             self.assertIn('href="stories/plain-story.html"', (cdn / 'index.html').read_text(encoding='utf-8'))
