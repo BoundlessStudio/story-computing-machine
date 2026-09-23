@@ -1225,19 +1225,26 @@
           "id": "01-mavorn-palace-cell",
           "title": "Mavorn palace cell",
           "alt": "Mavorn palace cell — oil interior study for All Accounts Due",
-          "source": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
-          "sourceSha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+          "source": "pages/interior-replacements/all-accounts-due/01-mavorn-palace-cell.png",
+          "sourceSha256": "d8f0c0af58d275ade7e261d179f2bd29df6a294bf49fb216ab27095282e6bff8",
           "full": {
-            "path": "interiors/all-accounts-due/01-mavorn-palace-cell-53a4a218b2222f97.webp",
-            "sha256": "fc70f3df975532ecf64722c88ca656cf420b00d2c6358dbe717b35d92ae2b494",
+            "path": "interiors/all-accounts-due/01-mavorn-palace-cell-d8f0c0af58d275ad.webp",
+            "sha256": "fdef5f776f15d0bdb908a6a6658c4224541662f729112a22ab5f66d9db032e34",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/all-accounts-due/01-mavorn-palace-cell-53a4a218b2222f97-thumb.webp",
-            "sha256": "3aab35211fa703a5e60b5f16ee40507565fecaf0589b3ca84b4b47d9827ac4d2",
+            "path": "interiors/all-accounts-due/01-mavorn-palace-cell-d8f0c0af58d275ad-thumb.webp",
+            "sha256": "340b6bf49d2f958e57ef58e0de59640c2f9d1589d4757f5ff625fda5abc3df6c",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+            "originalSha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+            "correction": "Move a thumb-sized simple bronze chamber into a small opened recess at the floor/base stone; retain the rest of the supported cell.",
+            "prompt": "Edit this oil painting. The one bronze object inside the little open hole AT FLOOR LEVEL, near image center (about x728,y680), is still too large. Remove that little house-shaped object completely. Replace it with a SINGLE MINUTE BRONZE FLECK, only about12pixels wide by10pixels high in this1536x1024 image, resting at the bottom of the same dark hole. Think the scale of one bronze pea or small bead seen across the room. Just two or three tiny squared bronze brushstrokes; at this distance we CANNOT see a doorway or architectural detail. It represents a thumb-sized model of one room, but visible shape detail is subordinate to its minute size. Do not draw a little house, box, palace or dollhouse-sized object. Make the recess almost entirely dark and empty except for that minute warm glint at its bottom. Everything else remains the same: original oil brushstrokes, light, scratched stone prison, low hiding recess, shifted base stone, wet sheets, candle, barred gate and floor. This is a local scale correction; no camera change, labels, people or added props.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11838,6 +11845,11 @@
       "source": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
       "sourceSha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987",
       "reason": "Change only the cup to an irregular helmet-cheek-plate vessel with one clearly squared rim dent."
+    },
+    {
+      "source": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+      "sourceSha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+      "reason": "Move a thumb-sized simple bronze chamber into a small opened recess at the floor/base stone; retain the rest of the supported cell."
     }
   ]
 }
