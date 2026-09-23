@@ -1805,19 +1805,26 @@
           "id": "02-crown-of-noon-chamber",
           "title": "Crown of noon chamber",
           "alt": "Crown of noon chamber — oil interior study for Daughter of the Sun",
-          "source": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
-          "sourceSha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "source": "pages/interior-replacements/daughter-of-the-sun/02-crown-of-noon-chamber.png",
+          "sourceSha256": "c4ae1cfafa2bbf8631d1361377d84314db1316d7068c64887096acdfb01dd4c8",
           "full": {
-            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-0431bf4512a62b92.webp",
-            "sha256": "c23ac695ce9c8e3a5cbefa6d900c5fab05141316573a1a25ae4b5dcf2b0fc9c5",
+            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-c4ae1cfafa2bbf86.webp",
+            "sha256": "ed8f145daf6b613cb6e1fae05c50782edffd597c792373dae76a4ddb577faa27",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-0431bf4512a62b92-thumb.webp",
-            "sha256": "b664e17212bb44f1f0b697aabf301f47324ae364d25a71cdef0cd85fb8b32282",
+            "path": "interiors/daughter-of-the-sun/02-crown-of-noon-chamber-c4ae1cfafa2bbf86-thumb.webp",
+            "sha256": "729f75862597cc7d7d5e2a513d44d94d48009b09da95f0c2dd9daf9078524fd8",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "originalSha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+            "correction": "Remove the ceiling suspension lines so the key is visibly unsupported above the glass circle.",
+            "prompt": "Use case: precise-object-edit. One1536x1024 landscape oil painting. Make a very small correction to the supplied painting: the black-sun key at center must FLOAT freely over the dark glass floor circle. Remove BOTH thin straight ceiling suspension lines running vertically down from the top of the image to the upper portion of the key (the two threads roughly at x675 and x722). Paint continuous faceted stone ceiling and wall behind them. Leave open air all around the key so it has no wire, rope, chain, rod, hanging bracket or support.\nPreserve the actual key exactly: round black center, gold spiky sun rim and its own angular black projections above and below. The thick pointed black spike ending well below the ceiling is part of the key, not a support; retain it. Preserve the key's position/scale and the visible air gap above the dead glass circle. Everything else stays unchanged: all seven doorways with six sealed gold doors and one open water-filled conduit at right, stone geometry, radial floor channels, cool slate blue and pale gold palette, faceted expressive Group of Seven-inspired oil brushwork. No people, text, signature, watermark, photographic or3D rendering.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11850,6 +11857,11 @@
       "source": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
       "sourceSha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
       "reason": "Move a thumb-sized simple bronze chamber into a small opened recess at the floor/base stone; retain the rest of the supported cell."
+    },
+    {
+      "source": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+      "sourceSha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+      "reason": "Remove the ceiling suspension lines so the key is visibly unsupported above the glass circle."
     }
   ]
 }
