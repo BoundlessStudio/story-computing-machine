@@ -32,14 +32,115 @@
   "referenceSearch": "Searched same-story illustrated and graphic-novel paths; no matching references unless listed.",
   "characters": [
     {
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Correct ONE misplaced detail in the bottom-centre dragon labelled Wings open. Its throat bolt/cable has been incorrectly placed under its CHEST between the front legs (around image x820,y840). REMOVE that chest bolt and cable and restore normal dark hide there. Instead place a small dark iron bolt in the loose skin IMMEDIATELY BENEATH THE JAW of this same small dragon, high on the neck close to its head (around x925,y710), with a SHORT cable loop hanging directly below the chin. Match the jaw attachment point clearly shown in the large Throat bolt head study at lower left and the Released dragon at upper right. It must attach near the chin, NOT breast/chest, not legs, not wing. No blood. Preserve every other detail: name/title and Freight-wagon length caption; all figures, wings, four walking legs, claw counts, painted hide, nets, tails, layout and ivory margins. No swatches or scenery. Same1536x1024 sheet. Do not redraw or restyle the sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Thelrax\". A large physical dragon the length of a freight wagon. He NEVER has a human shape or expression. Orsugal reference is paint style ONLY: do NOT borrow its orange/cream scales, horns, ornament, small size or humanlike pose. Thelrax has charcoal-black living hide with restrained cool slate variations, rough leathery plate-like texture interpreted in broad paint masses. Ordinary dark eyes. Four walking limbs (two forelegs, two hindlegs), two distinct batlike membrane wings, a low horizontal heavy chest, powerful hindquarters, broad long reptilian snout with nostrils and teeth, loose skin below jaw. Modest tapering balancing tail as recorded interpretation. NO horns, frills, crown, antlers, elaborate spikes, armour or clothing. Four clawed toes per foot chosen consistently; two wings remain separate from forelegs. Scale matters: use caption \"Freight-wagon length\", no invented numeric metres or external person/landscape.\nForm-adapted layout: upper left/centre large complete lateral crouched view labelled \"Captive\": both wings folded against body with separate stone-weighted sling nets over each; shoulder net across shoulders; small iron bolt beneath jaw with a short cable. Show restraint as practical rope and stones held IN slings, not ground scenery. No graphic wound or blood; bolt small with dull dark mark, not jewelry. Upper right complete three-quarter running view labelled \"Released\": four legs still evident, same anatomy/hide/head, two wings part-open; ALL nets/stones gone, throat bolt and short cable remain because never removed in story. Bottom centre one smaller complete wings-open configuration labelled \"Wings open\"; same four-legged dragon, no hybrid. Bottom left head/jaw detail labelled \"Throat bolt\"; bottom right forefoot labelled \"Foreclaw\". Keep each tail and wing tip inside the page, clear negative space; no cut-off limbs. Dark hide readable with soft storm-night slate highlights and warmer sparse reflected lantern planes, no bright eye/glow, no sunny orange palette. Do not show fire, humans, quarry or scenery. Preserve material vulnerability and animal wariness, not tame mascot.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Approved painted sheet style only; no subject/identity transfer",
+                "inspected": true,
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              },
+              {
+                "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+                "role": "Same-story palette, light and paint handling only; no scenery",
+                "inspected": true,
+                "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542"
+              },
+              {
+                "path": "stories/save-that-dragon/title-image.jpg",
+                "role": "Source cover objects only; no depicted character identity",
+                "inspected": true,
+                "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+              }
+            ],
+            "startedAt": "2026-09-23T21:26:19.747093+00:00",
+            "preflight": "Entire 433-line prose read. No matching shared character entry; local source facts govern. Selected actual refs inspected with role separation. Character-only 3:2, no swatches, source-specific night/forge light and readable complete forms.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-240a0079-ce85-40fd-b3ba-d5c4cc189423.png",
+            "outputSha256": "a22be670ffa2b5948fcfd8cf966b8886d138bf6b6bf19c6cadd357777fd4d63b",
+            "visualReview": "Narrow correction: add missing bolt/cable to wing-open state and missing scale caption."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Make TWO narrow consistency corrections to this existing Thelrax dragon sheet, preserving all anatomy, images, lettering and painted style otherwise. FIRST, the bottom-centre smaller full dragon labelled Wings open must retain the same small throat bolt and short dark hanging cable beneath the jaw that are visible in the Captive, Released and Throat bolt studies. Add that small non-graphic dark metal/cable detail beneath its jaw. The source never removes the bolt. No blood or injury closeup. SECOND, add the exact small readable caption \"Freight-wagon length\" beneath the existing story title, in the spare ivory above the left captive dragon. This is a source-supported scale cue; no numeric measurement or extra silhouette. Keep four walking legs plus two wings and consistent claw counts, complete tails and wings, same dark hide, no horns, no clothing. Do not redraw or rearrange anything else. Keep same1536x1024 landscape quiet ivory, no scenes, ground patches, swatches or ornaments.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-240a0079-ce85-40fd-b3ba-d5c4cc189423.png",
+                "role": "inspected selected candidate edit target for narrow consistency correction only",
+                "inspected": true,
+                "sha256": "a22be670ffa2b5948fcfd8cf966b8886d138bf6b6bf19c6cadd357777fd4d63b"
+              }
+            ],
+            "startedAt": "2026-09-23T21:32:46.249689+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b0485ee1-e394-478c-b3b8-98ee1371ca51.png",
+            "outputSha256": "80a74f2cf805935721dc7c1afa51dd44069c798778d6308dd9ba8943f18df170",
+            "visualReview": "Scale caption fixed, but added bolt/cable wrongly at chest of wing-open dragon instead of immediately below jaw. Narrow relocation required."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Correct ONE misplaced detail in the bottom-centre dragon labelled Wings open. Its throat bolt/cable has been incorrectly placed under its CHEST between the front legs (around image x820,y840). REMOVE that chest bolt and cable and restore normal dark hide there. Instead place a small dark iron bolt in the loose skin IMMEDIATELY BENEATH THE JAW of this same small dragon, high on the neck close to its head (around x925,y710), with a SHORT cable loop hanging directly below the chin. Match the jaw attachment point clearly shown in the large Throat bolt head study at lower left and the Released dragon at upper right. It must attach near the chin, NOT breast/chest, not legs, not wing. No blood. Preserve every other detail: name/title and Freight-wagon length caption; all figures, wings, four walking legs, claw counts, painted hide, nets, tails, layout and ivory margins. No swatches or scenery. Same1536x1024 sheet. Do not redraw or restyle the sheet.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b0485ee1-e394-478c-b3b8-98ee1371ca51.png",
+                "role": "edit target; relocate only wing-open figure cable from chest to underside of jaw",
+                "inspected": true,
+                "sha256": "80a74f2cf805935721dc7c1afa51dd44069c798778d6308dd9ba8943f18df170"
+              }
+            ],
+            "startedAt": "2026-09-23T21:40:18.184961+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b497a9d4-47e8-465d-a904-b6af60a3fc2d.png",
+            "candidateSha256": "0469cff251da9601c43c41253237e3bb29e192149609c86452a6ee6135bc69bd",
+            "completedAt": "2026-09-23T21:46:06.521542+00:00",
+            "visualInspection": [
+              "Full three states retain one dark dragon identity, four walking limbs and two separate wings, unclipped tail/wings and consistent claw study.",
+              "All full forms retain the small jaw-attached bolt and short cable; wing-open chest restored. Captive net and weighted slings are restraint equipment; released state removes them.",
+              "Freight-wagon length cue, exact name and title, and readable state labels; no invented human features, scene or swatches.",
+              "Broad dark oil masses and selective raised paint define hide, wing membranes and iron; ivory separation supports the large nonhuman silhouette."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b0485ee1-e394-478c-b3b8-98ee1371ca51.png",
+            "role": "edit target; relocate only wing-open figure cable from chest to underside of jaw",
+            "inspected": true,
+            "sha256": "80a74f2cf805935721dc7c1afa51dd44069c798778d6308dd9ba8943f18df170"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "backendModel": "not reported",
+        "creationPrompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Thelrax\". A large physical dragon the length of a freight wagon. He NEVER has a human shape or expression. Orsugal reference is paint style ONLY: do NOT borrow its orange/cream scales, horns, ornament, small size or humanlike pose. Thelrax has charcoal-black living hide with restrained cool slate variations, rough leathery plate-like texture interpreted in broad paint masses. Ordinary dark eyes. Four walking limbs (two forelegs, two hindlegs), two distinct batlike membrane wings, a low horizontal heavy chest, powerful hindquarters, broad long reptilian snout with nostrils and teeth, loose skin below jaw. Modest tapering balancing tail as recorded interpretation. NO horns, frills, crown, antlers, elaborate spikes, armour or clothing. Four clawed toes per foot chosen consistently; two wings remain separate from forelegs. Scale matters: use caption \"Freight-wagon length\", no invented numeric metres or external person/landscape.\nForm-adapted layout: upper left/centre large complete lateral crouched view labelled \"Captive\": both wings folded against body with separate stone-weighted sling nets over each; shoulder net across shoulders; small iron bolt beneath jaw with a short cable. Show restraint as practical rope and stones held IN slings, not ground scenery. No graphic wound or blood; bolt small with dull dark mark, not jewelry. Upper right complete three-quarter running view labelled \"Released\": four legs still evident, same anatomy/hide/head, two wings part-open; ALL nets/stones gone, throat bolt and short cable remain because never removed in story. Bottom centre one smaller complete wings-open configuration labelled \"Wings open\"; same four-legged dragon, no hybrid. Bottom left head/jaw detail labelled \"Throat bolt\"; bottom right forefoot labelled \"Foreclaw\". Keep each tail and wing tip inside the page, clear negative space; no cut-off limbs. Dark hide readable with soft storm-night slate highlights and warmer sparse reflected lantern planes, no bright eye/glow, no sunny orange palette. Do not show fire, humans, quarry or scenery. Preserve material vulnerability and animal wariness, not tame mascot."
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+        "outputSha256": "0469cff251da9601c43c41253237e3bb29e192149609c86452a6ee6135bc69bd",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b0485ee1-e394-478c-b3b8-98ee1371ca51.png",
+            "role": "edit target; relocate only wing-open figure cable from chest to underside of jaw",
+            "inspected": true,
+            "sha256": "80a74f2cf805935721dc7c1afa51dd44069c798778d6308dd9ba8943f18df170"
+          }
+        ],
+        "evidence": [
+          "Full three states retain one dark dragon identity, four walking limbs and two separate wings, unclipped tail/wings and consistent claw study.",
+          "All full forms retain the small jaw-attached bolt and short cable; wing-open chest restored. Captive net and weighted slings are restraint equipment; released state removes them.",
+          "Freight-wagon length cue, exact name and title, and readable state labels; no invented human features, scene or swatches.",
+          "Broad dark oil masses and selective raised paint define hide, wing membranes and iron; ivory separation supports the large nonhuman silhouette."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "1b3c0123f0e4a8ba094797a32d777efa6e9efbc877e75717336150f2dd4dab3b"
       },
       "id": "thelrax",
       "name": "Thelrax",
@@ -75,10 +176,10 @@
         "distinctiveFeatures": "Injured throat restricts fire to a short flat orange burst; no speaking or human expressions"
       },
       "visualInterpretation": [
-        "Use deep charcoal hide with cool slate reflected rain, rough painted living skin rather than metallic armor.",
-        "Four walking limbs plus two wings supported by separate foreclaw and hind-leg descriptions with folded wing slings; no extra limbs.",
-        "If a balancing tail is needed, mark it as restrained anatomical interpretation, not a described fact; omit elaborate horns and decorative spines.",
-        "Sheet: lateral crouched view, three-quarter unrestrained running view, wing-open silhouette; jaw-wound and claw details, quarry vignette. No human turnaround."
+        "Dark charcoal/slate hornless dragon; broad reptilian head, modest tapering tail and four clawed toes per foot are restrained anatomy choices not source-fixed facts.",
+        "Four walking limbs plus two wings; complete nonhumanoid animal silhouettes across captive/released/wing-open states.",
+        "Small throat bolt and short cable retained in released state because source never removes them; no graphic injury or bleeding.",
+        "Character-only form-adapted sheet, textual freight-wagon-length cue, restraint stones only inside slings; no quarry vignette/swatches."
       ],
       "states": [
         {
@@ -113,7 +214,7 @@
         },
         {
           "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-          "role": "story landscape palette and vignette geography",
+          "role": "Story palette and brush handling only; no scenery, geography or vignette in character sheet",
           "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
           "inspected": true,
           "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
@@ -124,19 +225,120 @@
           "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
           "inspected": true,
           "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Approved painted sheet style only; no subject/identity transfer",
+          "inspected": true,
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
         }
       ],
-      "output": "stories/save-that-dragon/art/characters/thelrax.png"
+      "output": "stories/save-that-dragon/art/characters/thelrax.png",
+      "naming": {
+        "sourceName": "Thelrax",
+        "displayName": "Thelrax",
+        "provenance": "Exact source personal name/title, read in full finished prose."
+      },
+      "outputSha256": "0469cff251da9601c43c41253237e3bb29e192149609c86452a6ee6135bc69bd"
     },
     {
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Imer Quast\". Human man, veteran forge and quarry worker, former teacher of the princess. Restrained appearance choice: stocky strong older man about60, broad rectangular lined face, close grey hair, clean-shaven, deep brown skin, large capable soot-darkened hands. Entirely distinct from Kelro. Primary front in plain leather work apron over grey shirt, belt, brown trousers and boots; side and rear show the same man in his dark brown waxed outdoor coat over same clothes, label them \"Waxed coat\" and \"Rear\". Front label \"Forge apron\". Equal overall height/head proportions across all three. Right: heads \"Assessing\" and \"Strain\", painted not cinematic; isolated plain iron pry bar labelled \"Pry bar\"; square iron key with short square-toothed bit and square bow as seen on cover labelled \"Inspection key\"; compact hand study of testing thin hemp rope labelled \"Testing hemp\". No injury display, weapons, armour or unsupported jewelry. No background. Restrained warm forge-light planes over cool storm-blue shadows, enough to show dark skin and waxed cloth without halos.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "selected",
+            "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Imer Quast\". Human man, veteran forge and quarry worker, former teacher of the princess. Restrained appearance choice: stocky strong older man about60, broad rectangular lined face, close grey hair, clean-shaven, deep brown skin, large capable soot-darkened hands. Entirely distinct from Kelro. Primary front in plain leather work apron over grey shirt, belt, brown trousers and boots; side and rear show the same man in his dark brown waxed outdoor coat over same clothes, label them \"Waxed coat\" and \"Rear\". Front label \"Forge apron\". Equal overall height/head proportions across all three. Right: heads \"Assessing\" and \"Strain\", painted not cinematic; isolated plain iron pry bar labelled \"Pry bar\"; square iron key with short square-toothed bit and square bow as seen on cover labelled \"Inspection key\"; compact hand study of testing thin hemp rope labelled \"Testing hemp\". No injury display, weapons, armour or unsupported jewelry. No background. Restrained warm forge-light planes over cool storm-blue shadows, enough to show dark skin and waxed cloth without halos.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved painted sheet style only; no subject/identity transfer",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+                "role": "Same-story palette, light and paint handling only; no scenery",
+                "inspected": true,
+                "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+              },
+              {
+                "path": "stories/save-that-dragon/title-image.jpg",
+                "role": "Source cover objects only; no depicted character identity",
+                "inspected": true,
+                "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+              }
+            ],
+            "startedAt": "2026-09-23T21:26:19.727241+00:00",
+            "preflight": "Entire 433-line prose read. No matching shared character entry; local source facts govern. Selected actual refs inspected with role separation. Character-only 3:2, no swatches, source-specific night/forge light and readable complete forms.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-c15e27a8-5cf0-42db-bbff-37f1fc021066.png",
+            "outputSha256": "84c79f1a230bf592964eb4f999fad374d96fa95218de7c3a013c6bbb1f4e7a1e",
+            "finishedAt": "2026-09-23T21:32:46.218360+00:00",
+            "visualReview": [
+              "Consistent older sturdy man in labelled apron and waxed-coat states, same head/body proportions, distinct from other cast.",
+              "Inspection key matches square iron design; pry bar and testing hemp are story-supported; no unsupported weapons."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved painted sheet style only; no subject/identity transfer",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+            "role": "Same-story palette, light and paint handling only; no scenery",
+            "inspected": true,
+            "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+          },
+          {
+            "path": "stories/save-that-dragon/title-image.jpg",
+            "role": "Source cover objects only; no depicted character identity",
+            "inspected": true,
+            "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "backendModel": "not reported"
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+        "outputSha256": "84c79f1a230bf592964eb4f999fad374d96fa95218de7c3a013c6bbb1f4e7a1e",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved painted sheet style only; no subject/identity transfer",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+            "role": "Same-story palette, light and paint handling only; no scenery",
+            "inspected": true,
+            "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+          },
+          {
+            "path": "stories/save-that-dragon/title-image.jpg",
+            "role": "Source cover objects only; no depicted character identity",
+            "inspected": true,
+            "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+          }
+        ],
+        "evidence": [
+          "Consistent older sturdy man in labelled apron and waxed-coat states, same head/body proportions, distinct from other cast.",
+          "Inspection key matches square iron design; pry bar and testing hemp are story-supported; no unsupported weapons.",
+          "Name/title and labels correct and legible; complete unclipped body views with plausible anatomy.",
+          "Bold painted face/hair/materials, connected masses and selective ridges; no polished digital face.",
+          "Quiet ivory, no scenery/ground/swatches; source and creative interpretation distinctions retained."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "702ea393b7cf6c33dc15c628dcf8e00519ab2e60bb304615b9a984208e8e345e"
       },
       "id": "imer-quast",
       "name": "Imer Quast",
@@ -167,8 +369,9 @@
         "distinctiveFeatures": "Soot and work-worn hands; injuries at ribs after rescue"
       },
       "visualInterpretation": [
-        "Mature weathered man with practical short graying hair, stocky working build; these are restrained interpretations, not source facts.",
-        "Dark brown waxed work coat, gray shirt and plain leather apron; no sword or armor."
+        "Stocky older brown-skinned man with broad rectangular lined face, close grey hair and clean-shaven jaw; appearance choices not specified by source.",
+        "Forge-apron front and waxed-coat side/rear are labelled clothing states on same body; source supports both.",
+        "Character-only sheet includes pry bar, inspection key and rope-hand study; no scenery/swatches."
       ],
       "explicitCanon": [],
       "states": [],
@@ -194,7 +397,7 @@
         },
         {
           "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-          "role": "story landscape palette and vignette geography",
+          "role": "Story palette and brush handling only; no scenery, geography or vignette in character sheet",
           "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
           "inspected": true,
           "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
@@ -205,9 +408,21 @@
           "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
           "inspected": true,
           "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved painted sheet style only; no subject/identity transfer",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
         }
       ],
-      "output": "stories/save-that-dragon/art/characters/imer-quast.png"
+      "output": "stories/save-that-dragon/art/characters/imer-quast.png",
+      "naming": {
+        "sourceName": "Imer Quast",
+        "displayName": "Imer Quast",
+        "provenance": "Exact source personal name/title, read in full finished prose."
+      },
+      "outputSha256": "84c79f1a230bf592964eb4f999fad374d96fa95218de7c3a013c6bbb1f4e7a1e"
     },
     {
       "status": "completed",
@@ -408,14 +623,93 @@
       "outputSha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
     },
     {
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Narrow continuity edit to existing Hovan Setch sheet: the belt-tied oil lamp belongs at his LEFT hip. In the third full figure labelled Rear, move that lamp from viewer-right hip to viewer-LEFT hip, with its hemp tie attached to the belt, so it matches his front and left-side views. Restore the vacated right-hip area to matching plain olive-brown coat. Keep EXACTLY ONE lamp on this rear figure. Preserve all other figures, faces, hands, text, style, clothing, bandage study, oil flask, layout and quiet ivory ground. Same 1536x1024 canvas. No added objects, swatches, scenery or ground.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Hovan Setch\". Human male cautious dragon communicator and practical rescue partner. Cropped hair explicitly in story. Casting choice: lean young-to-middle adult about30, light brown skin, close-cropped straight chestnut hair, long narrow face, clean-shaven jaw, low straight eyebrows and alert eyes rendered in brush marks. Not Daziel and not Imer. Plain olive-brown traveling work coat, grey collarless shirt, dark trousers, belt and sturdy boots. Oil lamp tied to belt with hemp, not magic. Three full views: \"Front\", \"Side\", \"Rear\" all before fire with intact sleeves. Right two torso/hand studies of cautious motion labelled \"Wait\" (both hands low) and \"Space\" (broad retreating palms), fingers anatomically correct; no claim exact universal sign language. Below, forearm study labelled \"After rescue\" showing one scorched cuff and a plain cloth bandage around left forearm, no exposed burn/blood; left side is an artistic consistency choice since prose doesn't specify. Isolated small ordinary oil flask labelled \"Lamp oil\". Lamp can be unlit in equipment view; main muted storm-night light, cool slate with a few warm reflected lamp strokes, no daylight beach lighting, no rimlight. No dragon or other person in this sheet.",
+            "references": [
+              {
+                "path": "stories/save-that-dragon/art/characters/daziel.png",
+                "role": "Approved painted sheet style only; no subject/identity transfer",
+                "inspected": true,
+                "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
+              },
+              {
+                "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
+                "role": "Same-story palette, light and paint handling only; no scenery",
+                "inspected": true,
+                "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542"
+              },
+              {
+                "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+                "role": "Same-story palette, light and paint handling only; no scenery",
+                "inspected": true,
+                "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+              }
+            ],
+            "startedAt": "2026-09-23T21:26:19.735342+00:00",
+            "preflight": "Entire 433-line prose read. No matching shared character entry; local source facts govern. Selected actual refs inspected with role separation. Character-only 3:2, no swatches, source-specific night/forge light and readable complete forms.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b40bc33f-a9d1-4ccb-86a5-bd14f9270586.png",
+            "outputSha256": "2831482a448f3177884c623cbab0732111eb6df89acc6de12b9e9e669425fac4",
+            "visualReview": "Narrow consistency correction required: rear lamp side."
+          },
+          {
+            "attempt": 2,
+            "status": "selected",
+            "prompt": "Narrow continuity edit to existing Hovan Setch sheet: the belt-tied oil lamp belongs at his LEFT hip. In the third full figure labelled Rear, move that lamp from viewer-right hip to viewer-LEFT hip, with its hemp tie attached to the belt, so it matches his front and left-side views. Restore the vacated right-hip area to matching plain olive-brown coat. Keep EXACTLY ONE lamp on this rear figure. Preserve all other figures, faces, hands, text, style, clothing, bandage study, oil flask, layout and quiet ivory ground. Same 1536x1024 canvas. No added objects, swatches, scenery or ground.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b40bc33f-a9d1-4ccb-86a5-bd14f9270586.png",
+                "role": "inspected selected candidate edit target for narrow consistency correction only",
+                "inspected": true,
+                "sha256": "2831482a448f3177884c623cbab0732111eb6df89acc6de12b9e9e669425fac4"
+              }
+            ],
+            "startedAt": "2026-09-23T21:32:46.246866+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-1a2f57bf-0a1a-4346-957a-02aa421415ca.png",
+            "outputSha256": "7db0d59a10fd2334a6d4f02498635ecbde79e0a77df7b8b21ef4c40beca0979b",
+            "finishedAt": "2026-09-23T21:40:18.175858+00:00",
+            "visualReview": "PASS: rear lamp corrected to left hip; same identity, low Wait and broad Space motions, separate clothed bandage state, all labels retained."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b40bc33f-a9d1-4ccb-86a5-bd14f9270586.png",
+            "role": "inspected selected candidate edit target for narrow consistency correction only",
+            "inspected": true,
+            "sha256": "2831482a448f3177884c623cbab0732111eb6df89acc6de12b9e9e669425fac4"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "backendModel": "not reported",
+        "creationPrompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Hovan Setch\". Human male cautious dragon communicator and practical rescue partner. Cropped hair explicitly in story. Casting choice: lean young-to-middle adult about30, light brown skin, close-cropped straight chestnut hair, long narrow face, clean-shaven jaw, low straight eyebrows and alert eyes rendered in brush marks. Not Daziel and not Imer. Plain olive-brown traveling work coat, grey collarless shirt, dark trousers, belt and sturdy boots. Oil lamp tied to belt with hemp, not magic. Three full views: \"Front\", \"Side\", \"Rear\" all before fire with intact sleeves. Right two torso/hand studies of cautious motion labelled \"Wait\" (both hands low) and \"Space\" (broad retreating palms), fingers anatomically correct; no claim exact universal sign language. Below, forearm study labelled \"After rescue\" showing one scorched cuff and a plain cloth bandage around left forearm, no exposed burn/blood; left side is an artistic consistency choice since prose doesn't specify. Isolated small ordinary oil flask labelled \"Lamp oil\". Lamp can be unlit in equipment view; main muted storm-night light, cool slate with a few warm reflected lamp strokes, no daylight beach lighting, no rimlight. No dragon or other person in this sheet."
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated pixels",
+        "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+        "outputSha256": "7db0d59a10fd2334a6d4f02498635ecbde79e0a77df7b8b21ef4c40beca0979b",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b40bc33f-a9d1-4ccb-86a5-bd14f9270586.png",
+            "role": "inspected selected candidate edit target for narrow consistency correction only",
+            "inspected": true,
+            "sha256": "2831482a448f3177884c623cbab0732111eb6df89acc6de12b9e9e669425fac4"
+          }
+        ],
+        "evidence": [
+          "Same cropped-hair lean male identity across complete views; source-supported practical clothes, belt lamp and flask.",
+          "Lamp now consistently on left hip in all full views; left side is artistic convention, not source assertion.",
+          "Low Wait and broad Space hand motions, separate after-rescue bandaged left forearm without exposed wound.",
+          "Exact name/title and labels; character-only ivory, no swatches/location. Matte painted skin, hair and clothes stay within broad connected oil style."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "ec16be0218dc8c7d1e96a3044c7bf9af10fe7936cb160d6ff38e6ff7b52e6322"
       },
       "id": "hovan-setch",
       "name": "Hovan Setch",
@@ -451,7 +745,9 @@
         "distinctiveFeatures": "Cropped hair; burned forearm in final state"
       },
       "visualInterpretation": [
-        "Young-to-middle adult with cropped brown hair, lean build, olive-brown coat. Exact age, coloring and build unspecified."
+        "Lean male adult with cropped chestnut hair, light brown skin, narrow face and straight brows; exact features are restrained choices.",
+        "Intact sleeve main views; separate after-rescue left forearm bandage study, side chosen for consistency without declaring source fact.",
+        "Character-only sheet with careful low hand motions, belt lamp, oil flask and bandage; no environment/swatches."
       ],
       "states": [
         {
@@ -486,7 +782,7 @@
         },
         {
           "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-          "role": "story landscape palette and vignette geography",
+          "role": "Story palette and brush handling only; no scenery, geography or vignette in character sheet",
           "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
           "inspected": true,
           "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
@@ -497,19 +793,120 @@
           "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
           "inspected": true,
           "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        },
+        {
+          "path": "stories/save-that-dragon/art/characters/daziel.png",
+          "role": "Approved painted sheet style only; no subject/identity transfer",
+          "inspected": true,
+          "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
         }
       ],
-      "output": "stories/save-that-dragon/art/characters/hovan-setch.png"
+      "output": "stories/save-that-dragon/art/characters/hovan-setch.png",
+      "naming": {
+        "sourceName": "Hovan Setch",
+        "displayName": "Hovan Setch",
+        "provenance": "Exact source personal name/title, read in full finished prose."
+      },
+      "outputSha256": "7db0d59a10fd2334a6d4f02498635ecbde79e0a77df7b8b21ef4c40beca0979b"
     },
     {
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Queen Urrava\". Human woman, mother of the adult Princess Daziel. Daziel reference supports restrained FAMILY RESEMBLANCE and house paint style only: Urrava is clearly older and individually distinct, about55-65, similarly warm olive complexion, strong broad brows, prominent cheekbones, dark eyes, more lined cheeks and controlled mouth; dark hair visibly grey at temples arranged in a compact practical low knot. No youthful Daziel clone. Plain well-made heavy deep aubergine-blue traveling gown and dark charcoal weather cloak, practical dark shoes visible. Clothing colour/cut are restrained interpretation; no invented heraldry, crown, throne, weapons or jewelry. Most important: ALL FINGERS BARE, rings explicitly removed. Three studies at left: full \"Front\", full \"Rear\", and compact full-body \"Appeal\" kneeling with palms down as in opening, isolated on ivory WITHOUT floor patch. Front/rear head scale identical; kneeling naturally smaller total height. Right two faces \"Controlled\" and \"Bargaining\"; a large natural open-hand detail labelled \"Rings removed\", ring-free without rings shown as objects. Material light follows forge opening: muted warm amber planes and deep cool blue-purple shadows on cloth/skin, matte broad paint not a studio portrait. Only these labels; no royal writ held by her because guard carries it in scene.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "selected",
+            "prompt": "Make ONE 1536x1024 landscape 3:2 oil-painted character reference folio on quiet warm ivory. CHARACTER ONLY, never a scene: no location, floor/ground patch or shadow under feet, landscape, furniture, vignette, rocks/plants, decorative prose, palette or paint swatches. Upper-left clear dark serif exact name and \"One Night's Mercy\". Generous unclipped margins, useful well-separated studies, concise readable labels. One identity, same proportions and face between views. Canadian Group of Seven painting language: large connected colour/value masses, directional broad bristle strokes, selected substantial impasto and quiet joining passages. Skin, face, hair, cloth, hide all formed from matte opaque paint; no glossy digital eyes/face, anime, CGI, clay, uniform bevel-lit chips, photographic inset or filter texture. Interpret materials through paint direction, not tiny detail. REFERENCES: character sheets supply paint handling/folio presentation ONLY unless family resemblance explicitly requested; never clone another named character or borrow their equipment. Landscapes/interiors supply light and palette ONLY, absolutely no scenery. Cover contains objects only, NOT any character design.\nNAME \"Queen Urrava\". Human woman, mother of the adult Princess Daziel. Daziel reference supports restrained FAMILY RESEMBLANCE and house paint style only: Urrava is clearly older and individually distinct, about55-65, similarly warm olive complexion, strong broad brows, prominent cheekbones, dark eyes, more lined cheeks and controlled mouth; dark hair visibly grey at temples arranged in a compact practical low knot. No youthful Daziel clone. Plain well-made heavy deep aubergine-blue traveling gown and dark charcoal weather cloak, practical dark shoes visible. Clothing colour/cut are restrained interpretation; no invented heraldry, crown, throne, weapons or jewelry. Most important: ALL FINGERS BARE, rings explicitly removed. Three studies at left: full \"Front\", full \"Rear\", and compact full-body \"Appeal\" kneeling with palms down as in opening, isolated on ivory WITHOUT floor patch. Front/rear head scale identical; kneeling naturally smaller total height. Right two faces \"Controlled\" and \"Bargaining\"; a large natural open-hand detail labelled \"Rings removed\", ring-free without rings shown as objects. Material light follows forge opening: muted warm amber planes and deep cool blue-purple shadows on cloth/skin, matte broad paint not a studio portrait. Only these labels; no royal writ held by her because guard carries it in scene.",
+            "references": [
+              {
+                "path": "stories/save-that-dragon/art/characters/daziel.png",
+                "role": "Approved Daziel sheet for restrained mother-daughter family resemblance and paint style; preserve older distinct Urrava identity",
+                "inspected": true,
+                "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
+              },
+              {
+                "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+                "role": "Same-story palette, light and paint handling only; no scenery",
+                "inspected": true,
+                "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+              },
+              {
+                "path": "stories/save-that-dragon/title-image.jpg",
+                "role": "Source cover objects only; no depicted character identity",
+                "inspected": true,
+                "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+              }
+            ],
+            "startedAt": "2026-09-23T21:26:19.741036+00:00",
+            "preflight": "Entire 433-line prose read. No matching shared character entry; local source facts govern. Selected actual refs inspected with role separation. Character-only 3:2, no swatches, source-specific night/forge light and readable complete forms.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-f61f151c-56e0-43d7-b90a-ae7ac7bf6366.png",
+            "outputSha256": "8665c9f4715c1e4f98751fbfe53c04a721c69695e86badc1073bb821b731f57f",
+            "finishedAt": "2026-09-23T21:32:46.233728+00:00",
+            "visualReview": [
+              "Older distinct mother-daughter family resemblance without cloning Daziel; dark grey-templed knot, plain gown/cloak.",
+              "Fingers consistently ring-free; kneeling palm-down appeal supported by opening; no crown or invented insignia."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/save-that-dragon/art/characters/daziel.png",
+            "role": "Approved Daziel sheet for restrained mother-daughter family resemblance and paint style; preserve older distinct Urrava identity",
+            "inspected": true,
+            "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
+          },
+          {
+            "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+            "role": "Same-story palette, light and paint handling only; no scenery",
+            "inspected": true,
+            "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+          },
+          {
+            "path": "stories/save-that-dragon/title-image.jpg",
+            "role": "Source cover objects only; no depicted character identity",
+            "inspected": true,
+            "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "backendModel": "not reported"
       },
       "validation": {
-        "status": "pending"
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "026287c84daf8963632ac27ffbdf8e37a16808d09878da863e3a467a1b81b644",
+        "outputSha256": "8665c9f4715c1e4f98751fbfe53c04a721c69695e86badc1073bb821b731f57f",
+        "references": [
+          {
+            "path": "stories/save-that-dragon/art/characters/daziel.png",
+            "role": "Approved Daziel sheet for restrained mother-daughter family resemblance and paint style; preserve older distinct Urrava identity",
+            "inspected": true,
+            "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
+          },
+          {
+            "path": "stories/save-that-dragon/art/interiors/01-imers-forge.png",
+            "role": "Same-story palette, light and paint handling only; no scenery",
+            "inspected": true,
+            "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538"
+          },
+          {
+            "path": "stories/save-that-dragon/title-image.jpg",
+            "role": "Source cover objects only; no depicted character identity",
+            "inspected": true,
+            "sha256": "0d57d71905ee8141634dbf5c7eb41326322eeefb8dc5572080715681bc4ac11a"
+          }
+        ],
+        "evidence": [
+          "Older distinct mother-daughter family resemblance without cloning Daziel; dark grey-templed knot, plain gown/cloak.",
+          "Fingers consistently ring-free; kneeling palm-down appeal supported by opening; no crown or invented insignia.",
+          "Name/title and labels correct and legible; complete unclipped body views with plausible anatomy.",
+          "Bold painted face/hair/materials, connected masses and selective ridges; no polished digital face.",
+          "Quiet ivory, no scenery/ground/swatches; source and creative interpretation distinctions retained."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "7641212c57a03f920b9bba1fd42bdc87e3fc051c8f679388baec7e18ed2af436"
       },
       "id": "queen-urrava",
       "name": "Queen Urrava",
@@ -540,8 +937,9 @@
         "distinctiveFeatures": "Bare hands without rings; controlled bearing broken by bargaining"
       },
       "visualInterpretation": [
-        "Mature woman with dignified features, dark hair touched with gray; heavy dark traveling gown and weather cloak. No crown is described, so omit one.",
-        "Avoid red-cloak template and excessive jewelry; bare fingers are important."
+        "Older woman roughly55-65, warm olive skin and strong brows/cheekbones related visually to Daziel, grey-templed dark hair in low knot; distinct restrained family casting.",
+        "Deep aubergine-blue travel gown and dark weather cloak as restrained unspecified royal clothing; no crown or invented heraldry.",
+        "Bare ring-free fingers are explicit. Standing front/rear and isolated kneeling appeal, no floor; no scenery/swatches."
       ],
       "explicitCanon": [],
       "states": [],
@@ -567,7 +965,7 @@
         },
         {
           "path": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-          "role": "story landscape palette and vignette geography",
+          "role": "Story palette and brush handling only; no scenery, geography or vignette in character sheet",
           "sha256": "2dd5b237401246577759ab085a8a7a111ddb22bca822f1dfcbe8e45b519d7542",
           "inspected": true,
           "notes": "Pale limestone quarry terraces, dark blue storm and evergreens; sharp knife-like stone paint masses."
@@ -578,9 +976,21 @@
           "sha256": "fc196869c3c5a577b165cb1a0b379d6bb5aebae9a9665ab1f97b589044225538",
           "inspected": true,
           "notes": "Warm orange forge against blue-gray wet stone; rough tools, coat and hemp, strong broken impasto."
+        },
+        {
+          "path": "stories/save-that-dragon/art/characters/daziel.png",
+          "role": "Approved Daziel sheet for restrained mother-daughter family resemblance and paint style; preserve older distinct Urrava identity",
+          "inspected": true,
+          "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05"
         }
       ],
-      "output": "stories/save-that-dragon/art/characters/queen-urrava.png"
+      "output": "stories/save-that-dragon/art/characters/queen-urrava.png",
+      "naming": {
+        "sourceName": "Queen Urrava",
+        "displayName": "Queen Urrava",
+        "provenance": "Exact source personal name/title, read in full finished prose."
+      },
+      "outputSha256": "8665c9f4715c1e4f98751fbfe53c04a721c69695e86badc1073bb821b731f57f"
     }
   ]
 }
