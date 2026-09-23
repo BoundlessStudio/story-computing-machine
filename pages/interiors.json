@@ -8246,19 +8246,26 @@
           "id": "03-the-inward-room-after-sunrise",
           "title": "The inward room after sunrise",
           "alt": "The inward room after sunrise — oil interior study for The Sky Remembers Us",
-          "source": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
-          "sourceSha256": "533a57753cc207d62ba262fc88c1d6bb39a4eeffb0b66b7dc2dea6ff786742a3",
+          "source": "pages/interior-replacements/the-sky-remembers-us-return/03-the-inward-room-after-sunrise.png",
+          "sourceSha256": "8eecb482eac02bffb510760bd814a2be5ec7dd7014f6d91c7cd71dda04f9265a",
           "full": {
-            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-533a57753cc207d6.webp",
-            "sha256": "5721dd8dbd4b18984606d6ba42d2ab9b432343b1fada58891f8964221ba60cb5",
+            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-8eecb482eac02bff.webp",
+            "sha256": "a206c755f96d13cb80cc3015c580c88c8d3f694d91a7355707845fdd812edf2e",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-533a57753cc207d6-thumb.webp",
-            "sha256": "e0a732b365311b59fa8523578fc4d73d9984726017f8d1d8c59ee1b3d276a85e",
+            "path": "interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise-8eecb482eac02bff-thumb.webp",
+            "sha256": "8427949109c51ea1cbec94d5f24578e2a14a501bd7b84e871e48738e375d1068",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
+            "originalSha256": "533a57753cc207d62ba262fc88c1d6bb39a4eeffb0b66b7dc2dea6ff786742a3",
+            "correction": "Replace the floor-level walk-through exterior with continuous living wall and place Ithrom's sunrise only in a high remote overhead boundary image without a passable arch or continuous terrain.",
+            "prompt": "Use case: precise-object-edit.\nCorrect the cross-realm geography in the first supplied interior painting. Create one landscape 3:2 image, preferably 1536x1024.\nInput 1 is the EDIT TARGET. Preserve its empty pale sleeping room, low bed and loose bedding at lower left, hanging sleep-cloths, dark basins on shallow ledges, curving central passage to neighboring sleeping hollows, the blue-gray/cream/ochre palette, and confident broad oil impasto. Retain its useful wide room composition.\nInput 2 is a SAME-ROOM REFERENCE for the supple continuous inward-curving living surfaces and the neighboring hollow; it is not a second scene to combine.\nRequired targeted correction: completely remove the right-hand floor-level exterior doorway. Fill that former walk-through arch with one continuous unbroken softly curved living wall connected to the floor, with the same pale wall texture. There is NO opening, gap, steps, trail or continuous walking surface to the outside. The central passage can still lead to another interior sleeping hollow, but no interior doorway reveals an exterior landscape.\nShow the distant sunrise of Ithrom only in the JOINED OVERHEAD BOUNDARY: high across the upper-right curve, entirely above head height and above the normal doorway arches, a broad softly luminous curved image carries a remote black high plain turning bronze under a tiny rising sun, with real stars receding into blue distance above it. It is an image seen across an uncrossable relation, not a hole, portal, window, skylight or accessible opening. The unbroken living wall remains clearly visible all the way below the image. Give the vision no stone arch surround, sill, frame or hard rectangular screen. Use a faint double translucent edge and pale surface texture crossing the view so it reads unmistakably as a remote mutual view held in the overhead boundary, without physical passage. The distant plain is separated from the room by clear pale wall and impossible distance; its terrain never continues onto the room floor. No invented desert mesas or grand canyon vista.\nSource moment: after dawn, the link has narrowed and the mutual view remains dimmer but present. Preserve a modest warm sunrise glow across living walls and cooler blue-gray folds. The native room has its own soft wall-light. Keep the room predominant; the distant vision occupies the upper area, not the floor or full right wall.\nStyle/medium: match the actual input paintings' expressive Group of Seven-inspired oil treatment, thick shaped color masses and visible confident brush strokes. No photorealism, smooth digital fantasy, architectural masonry blocks or hard manufactured equipment. Keep all supported objects and room identity. Empty scene with no people, hands or falling figures. No captions, titles, lettering, symbols, signature, watermark, collage or contact sheet.",
+            "generator": "image_gen"
           }
         }
       ]
@@ -10938,6 +10945,11 @@
       "source": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
       "sourceSha256": "ca4aaafd39b5af4d23a158e2478cd0973a7a6ff381e2f9eb363b253f0b34c892",
       "reason": "Depict a freestanding/displayed curved construction spare with exactly three unequal substantial ribs meeting off-center; retain roses and fern-sale hall."
+    },
+    {
+      "source": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
+      "sourceSha256": "533a57753cc207d62ba262fc88c1d6bb39a4eeffb0b66b7dc2dea6ff786742a3",
+      "reason": "Replace the floor-level walk-through exterior with continuous living wall and place Ithrom's sunrise only in a high remote overhead boundary image without a passable arch or continuous terrain."
     }
   ]
 }
