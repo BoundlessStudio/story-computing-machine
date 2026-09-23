@@ -11257,19 +11257,26 @@
           "id": "02-the-wet-stair-landing",
           "title": "The wet stair landing",
           "alt": "The wet stair landing — oil interior study for Witch Cold",
-          "source": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
-          "sourceSha256": "813bfa1002cdf4b1809f04b047d00b82b7358f3466b9271f4c75a27670b68d09",
+          "source": "pages/interior-replacements/witch-cold/02-the-wet-stair-landing.png",
+          "sourceSha256": "55ce1cbc88d5d9b4b1f7b72fd10181f0bb2a028f206df3ceb45191ee0374bb51",
           "full": {
-            "path": "interiors/witch-cold/02-the-wet-stair-landing-813bfa1002cdf4b1.webp",
-            "sha256": "f0568adaf2775340a6071525f99cbe3eb6b9f4910d4a1fbc26a04cb9219cc011",
+            "path": "interiors/witch-cold/02-the-wet-stair-landing-55ce1cbc88d5d9b4.webp",
+            "sha256": "e387aedd0d13fea036c14c651649b84df4551329fe197e4ac0a9c7182792bf74",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/witch-cold/02-the-wet-stair-landing-813bfa1002cdf4b1-thumb.webp",
-            "sha256": "c9b1a7c2fc0cd35e940710fd0acd6ab16a94bc1eb8a7ac5c530baf4d920ee961",
+            "path": "interiors/witch-cold/02-the-wet-stair-landing-55ce1cbc88d5d9b4-thumb.webp",
+            "sha256": "a2f9f9a8b77674ac722ea0863fd208312262bba437f3b8bbeec4bcc80d441a91",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
+            "originalSha256": "813bfa1002cdf4b1809f04b047d00b82b7358f3466b9271f4c75a27670b68d09",
+            "correction": "Keep the wet stair study but remove the distinctive repaired wooden strip and its support from this lower door. If that repair is depicted elsewhere, put it on the fixed apartment-door jamb at the upper end of the route.",
+            "prompt": "Use case: precise-object-edit. Make one local continuity correction to this oil painting of an empty wet tiled stair landing.\nAt the far right, remove the conspicuous pale RAW-WOOD screwed-on repair strip/block attached to the lower free edge of the open door. Also remove the metal triangular stop propping up that block on the floor. Continue the door's ordinary worn green-grey painted surface and straight intact edge down to its bottom, with normal modest scuffing only. Restore the wet tiles where the metal support stood. There must be no pale wooden repair patch or supporting wedge on this lower door, its frame, or elsewhere in this image.\nKeep the door open at exactly its present angle, preserving its handle, hinges, frame and view into the service passage. Preserve the wet stairs, black rails, puddled tiled landing, small upper window, dark blue wheeled care case, bucket, cream/green walls, warm/cool light and composition. This is the later rainy lower landing; the softened apartment-door jamb repair belongs elsewhere and should not be depicted here.\nMaintain the original thick confident expressive Group of Seven-inspired oil brushwork, color and 3:2 landscape framing, 1536x1024 preferred. No people, new props, text, caption, watermark, border, collage, photography or 3D rendering. Only remove the misplaced repair and its support.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11634,6 +11641,11 @@
       "source": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
       "sourceSha256": "ba1ad4c3c4c8a02ecb3f96e048238981c859c15ee20b7fcf9a8ce10f962ba1a6",
       "reason": "Replace the door-side banner with a blue ribbon of light, point the painted arrow another way, and make the pale paper sign visibly amended; exact tiny wording need not be legible."
+    },
+    {
+      "source": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
+      "sourceSha256": "813bfa1002cdf4b1809f04b047d00b82b7358f3466b9271f4c75a27670b68d09",
+      "reason": "Keep the wet stair study but remove the distinctive repaired wooden strip and its support from this lower door. If that repair is depicted elsewhere, put it on the fixed apartment-door jamb at the upper end of the route."
     }
   ]
 }
