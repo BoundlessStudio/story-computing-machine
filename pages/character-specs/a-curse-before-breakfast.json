@@ -96,15 +96,119 @@
         }
       ],
       "output": "stories/a-curse-before-breakfast/art/characters/philip.png",
-      "status": "specification-ready",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "prompt": null,
-        "attempts": []
+        "prompt": "Make a finished reference sheet titled exactly \"Philip\" and \"A Curse Before Breakfast\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nPhilip is a FIFTEEN-year-old human boy, adolescent proportions and slim ordinary build, tousled short dark brown hair, warm fair complexion and gray-brown eyes, recognizable as the boy in the cover. Do not copy Coris's adult face. Two main whole-body views, front three-quarter and rear three-quarter, same ordinary contemporary school clothes: modest navy cardigan over cream shirt, charcoal trousers, practical dark shoes, plain schoolbag over one shoulder. These clothes are restrained interpretation of source's school clothes and schoolbag, no crest or invented emblem. Relaxed natural two hands/two legs.\nRight column same teenage face in \"Well\" and \"Day ague\" studies; well clear skin and slightly wry alert expression; day ague sick flushed nose, sneezing tired expression and distinct small round pea-green spots on bridge of nose and cheek, with muted teal quilt round shoulders. Spots are temporary illness, not tattoos. Small isolated detail of open geometry workbook with simple triangle and two sharpened pencils, label \"Schoolwork\"; no printed equations or decorative paragraph. Small schoolbag study allowed. No sister or other figure. Morning diffuse ordinary household light, neutral-warm face and cool muted blue shadows; sick head softer dimmer light under quilt. Stable face/head proportions across every view; body is not an adult man. Entire figures visible, no ground shadow patch. Retain broad matte oil paint across face, hair, clothing and workbook; do not reproduce cover's anime contours. No palette strip.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:12:19.514320+00:00",
+            "prompt": "Make a finished reference sheet titled exactly \"Philip\" and \"A Curse Before Breakfast\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nPhilip is a FIFTEEN-year-old human boy, adolescent proportions and slim ordinary build, tousled short dark brown hair, warm fair complexion and gray-brown eyes, recognizable as the boy in the cover. Do not copy Coris's adult face. Two main whole-body views, front three-quarter and rear three-quarter, same ordinary contemporary school clothes: modest navy cardigan over cream shirt, charcoal trousers, practical dark shoes, plain schoolbag over one shoulder. These clothes are restrained interpretation of source's school clothes and schoolbag, no crest or invented emblem. Relaxed natural two hands/two legs.\nRight column same teenage face in \"Well\" and \"Day ague\" studies; well clear skin and slightly wry alert expression; day ague sick flushed nose, sneezing tired expression and distinct small round pea-green spots on bridge of nose and cheek, with muted teal quilt round shoulders. Spots are temporary illness, not tattoos. Small isolated detail of open geometry workbook with simple triangle and two sharpened pencils, label \"Schoolwork\"; no printed equations or decorative paragraph. Small schoolbag study allowed. No sister or other figure. Morning diffuse ordinary household light, neutral-warm face and cool muted blue shadows; sick head softer dimmer light under quilt. Stable face/head proportions across every view; body is not an adult man. Entire figures visible, no ground shadow patch. Retain broad matte oil paint across face, hair, clothing and workbook; do not reproduce cover's anime contours. No palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Completed collection style only; no female identity transfer.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/title-image.jpg",
+                "role": "Philip identity: tousled dark hair, adolescent face, temporary round green spots and teal quilt; not anime rendering.",
+                "sha256": "4d9a1ea5ac21a94750ccb2f3747e09dd75cad353fa1a47a1a10c0ef0888d7d72",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+                "role": "Muted teal/slate/cream paint handling only; no depicted room.",
+                "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-cec57bd5-626c-4e23-86aa-625d9c0bb54c.png",
+            "outputSha256": "b13313acefeb80719266ff56652b44668c05b4e882e2343bb08e29a508790125",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:14:41.201861+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Completed collection style only; no female identity transfer.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/title-image.jpg",
+            "role": "Philip identity: tousled dark hair, adolescent face, temporary round green spots and teal quilt; not anime rendering.",
+            "sha256": "4d9a1ea5ac21a94750ccb2f3747e09dd75cad353fa1a47a1a10c0ef0888d7d72",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+            "role": "Muted teal/slate/cream paint handling only; no depicted room.",
+            "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
       },
       "validation": {
-        "status": "pending"
-      }
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:14:41.201881+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "b13313acefeb80719266ff56652b44668c05b4e882e2343bb08e29a508790125",
+        "sourceSha256": "a58adea556318e343711299312acb59c6ded4fc93d34ba641d03364113fff676",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Completed collection style only; no female identity transfer.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/title-image.jpg",
+            "role": "Philip identity: tousled dark hair, adolescent face, temporary round green spots and teal quilt; not anime rendering.",
+            "sha256": "4d9a1ea5ac21a94750ccb2f3747e09dd75cad353fa1a47a1a10c0ef0888d7d72",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+            "role": "Muted teal/slate/cream paint handling only; no depicted room.",
+            "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual 1536x1024 pixels inspected: Philip remains a slim fifteen-year-old with consistent dark tousled hair, adolescent jaw/eyes across front, rear and two head states.",
+          "Two complete schoolwear views are unclipped with ordinary human anatomy. Real temporary green spots occur only in labelled day-ague study; source-compatible schoolbag, two pencils and geometry book shown.",
+          "Readable exact name/title and concise labels; no scenery, ground patch or palette strip. Matte connected oil on face, hair, fabric, leather and book harmonizes with completed Coris sheet.",
+          "Quiet household morning light with cool muted clothing shadows and softer sick study; no magic glow or portrait gloss."
+        ],
+        "specificationSha256": "3217bbf7465afcbd89c3d1e4e32f720bc0ceb7c6292fced62fc14a16aeb4f644"
+      },
+      "lighting": "Ordinary household morning diffuse light: quiet warm-neutral face and cream shirt, cool blue-gray clothing shadows. Sick study is softly dimmer under quilt, not a glowing magic effect.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Philip"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b13313acefeb80719266ff56652b44668c05b4e882e2343bb08e29a508790125"
     },
     {
       "id": "coris",
