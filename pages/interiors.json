@@ -1934,19 +1934,26 @@
           "id": "02-manual-sequencer",
           "title": "Manual sequencer",
           "alt": "Manual sequencer — oil interior study for Four Million Falling",
-          "source": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
-          "sourceSha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+          "source": "pages/interior-replacements/four-million-falling/02-manual-sequencer.png",
+          "sourceSha256": "92c5d66648675c84f6d34c188a0fa1c5d5d7e2eb0b06c4f5d50d8da2e44abf17",
           "full": {
-            "path": "interiors/four-million-falling/02-manual-sequencer-ce6951674796fe6e.webp",
-            "sha256": "642ccb70cf62d7d9a8b24e56840d0b4b109216a6990afadd317895b53e99254f",
+            "path": "interiors/four-million-falling/02-manual-sequencer-92c5d66648675c84.webp",
+            "sha256": "ab9be384458b1af87ac00a959871ad37dcbc18a5f2c2de2ded52cddfa7be9c3c",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/four-million-falling/02-manual-sequencer-ce6951674796fe6e-thumb.webp",
-            "sha256": "c26a2ccbf3470680bb7663cd2e4cbf2f6c4b375887ee8c28f390c817b5c047d3",
+            "path": "interiors/four-million-falling/02-manual-sequencer-92c5d66648675c84-thumb.webp",
+            "sha256": "7b82433703cb7e26b2a3ddf90805e494e45f7019a1bd370a79d3f97c23d2cb3f",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "originalSha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "correction": "Add a sixth coherent control station to the curved bank, with adequate framing so all six are legible.",
+            "prompt": "Use case: precise-object-edit. Correct the count of manual control stations in this existing oil painting, preserving its low industrial room, huge sea-facing windows, curved control bank, handrail, loose drawer at left, blue-grey metal, cream-gold clouds and lively thick impasto brushwork.\nThe complete curved console bank must contain exactly SIX independent, coherent wheel/control stations. It currently has five. Re-space the bank slightly and ADD ONE matching sixth complete station, so the bank reads as six separate console pedestals, each with one large brass-rimmed wheel, its own gauges, switches and manual levers. The six large wheels must all be entirely visible, distinct, non-overlapping, and countable from left to right. Retain the natural curved perspective: larger near the left and smaller toward the right, all connected along the same bank around the window. Slightly widen the room or reduce station width where needed, keeping the same viewpoint and proportions. Do not hide a station behind the jamb, handrail, another wheel or the crop.\nKeep the near-level blue Inner Sea visible outside, the low ceiling and worn metal floor. Preserve the original clear expressive Group of Seven-inspired oil style and existing light, not smooth photorealistic surfaces. No people, added labels, captions, watermark, border, collage or 3D rendering. One 3:2 landscape image, 1536x1024 preferred. Everything unrelated to adding the sixth control remains unchanged.\n",
+            "generator": "image_gen"
           }
         },
         {
@@ -11286,6 +11293,11 @@
       "source": "stories/blood-types-of-immortality/art/interiors/03-the-small-comparison-board.png",
       "sourceSha256": "75eb24cdd6b8c16eac69c045f414bc039fa9def85e2333144f02c08f0e449ed9",
       "reason": "Replace only the background apparatus with the same large empty stone basin and horizontal silver rings shown in image 01, or frame it out."
+    },
+    {
+      "source": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+      "sourceSha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+      "reason": "Add a sixth coherent control station to the curved bank, with adequate framing so all six are legible."
     }
   ]
 }
