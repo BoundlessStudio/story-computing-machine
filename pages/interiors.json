@@ -1410,38 +1410,52 @@
           "id": "01-dotts-office",
           "title": "Dotts office",
           "alt": "Dotts office — oil interior study for Before Lunch",
-          "source": "stories/before-lunch/art/interiors/01-dotts-office.png",
-          "sourceSha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "source": "pages/interior-replacements/before-lunch/01-dotts-office.png",
+          "sourceSha256": "70f85e315ebcf219941386360ffe006e4b95dc6645f075df75327b21e8d7cfe3",
           "full": {
-            "path": "interiors/before-lunch/01-dotts-office-b0e405433df53faf.webp",
-            "sha256": "1a1ec32e687cbac6b60b22e932412a3ef0e2c22dc3378d8e5e74831d5c075506",
+            "path": "interiors/before-lunch/01-dotts-office-70f85e315ebcf219.webp",
+            "sha256": "afbae6d4aae846b937d14cedceb9c8c312b75f7e335ae212a09b5e5dc90a5c7e",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/before-lunch/01-dotts-office-b0e405433df53faf-thumb.webp",
-            "sha256": "91a9d3f6d7e19df51186c0f023beb6c440ebd1ca85097263283602e7ca760088",
+            "path": "interiors/before-lunch/01-dotts-office-70f85e315ebcf219-thumb.webp",
+            "sha256": "42df982816b5d0192083c01c9d4993263969b60f8774175517083af6febf68cf",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/before-lunch/art/interiors/01-dotts-office.png",
+            "originalSha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+            "correction": "Reduce the desk to a small table and make the framed images rough, unlettered group portraits rather than cityscapes.",
+            "prompt": "Use case: precise-object-edit. One 1536x1024 3:2 landscape oil painting. Input 1 is the target empty hotel manager's office.\nCorrect two defining details while retaining the large sunlit office, tall windows, curtains, shelving, sideboard, lamps, plants, upholstered chairs, envelope and rich cream/ochre/violet oil brushwork.\nReplace the oversized heavy executive desk in the center with a LITTLE simple wooden table on four slender legs, roughly half the old desk width and much less bulky, with visible open floor around and underneath. Keep the envelope on it. The host's chair and two upholstered visitor chairs should remain naturally arranged around this little table; do not scale the room down. The visual contrast is a modest small table in an unusually large office.\nInside the existing wall picture frames behind the host chair, replace all city/river landscapes with painted representations of unlettered group photographs. Each frame shows the same middle-aged male manager posing with a few different adult companions, simplified small faces and dark/cream clothing; rough readable group-portrait silhouettes at this painting scale, not detailed photorealistic faces. These are photographs hanging on the wall, not people standing in the room. Keep the frames and their positions.\nPreserve the original broad confident Group of Seven-inspired oil strokes, warm daylight, cream upholstery, deep wood tones, empty-room composition and perspective. No people physically present, readable writing, labels, new décor, watermark or signature.",
+            "generator": "image_gen"
           }
         },
         {
           "id": "02-private-dining-room",
           "title": "Private dining room",
           "alt": "Private dining room — oil interior study for Before Lunch",
-          "source": "stories/before-lunch/art/interiors/02-private-dining-room.png",
-          "sourceSha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "source": "pages/interior-replacements/before-lunch/02-private-dining-room.png",
+          "sourceSha256": "c7a7a98b90eac173e0ec1a1087a9d23694018989911225857faba892afc79aa6",
           "full": {
-            "path": "interiors/before-lunch/02-private-dining-room-b1c3c6b299b37f47.webp",
-            "sha256": "8db1e7d9113e1b692bfab60366862f041e57dc592c6823decda32b5caeb63692",
+            "path": "interiors/before-lunch/02-private-dining-room-c7a7a98b90eac173.webp",
+            "sha256": "1cdab8d8e6b5101f9d0bd0d0882ca5098308d742f1f64ebab918132d803a6a34",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/before-lunch/02-private-dining-room-b1c3c6b299b37f47-thumb.webp",
-            "sha256": "997c51d56412137be526bd0027c1ab21b52aded9bd2c97f67df1c11199bad063",
+            "path": "interiors/before-lunch/02-private-dining-room-c7a7a98b90eac173-thumb.webp",
+            "sha256": "9fe97fbf592407d0cec61a5feaeede5a09fac2090f877ad766beebad3385573c",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+            "originalSha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+            "correction": "Provide twelve complete settings/chairs, preserving the curtained room and doors.",
+            "prompt": "Precise local edit of input 1. One 1536x1024 landscape oil painting.\nThis image currently has TEN dining places: FIVE chairs with plate settings on the left long side and FIVE on the right. Keep ALL those ten side places unchanged. Add exactly TWO more places to make TWELVE:\n- ONE upholstered chair centered at the NEAR short end, its back facing the camera, with one complete plate/cutlery/glass setting at that near end on the tabletop.\n- ONE upholstered chair centered at the FAR short end, its front facing the camera, with one complete plate/cutlery/glass setting at that far end of the tabletop.\nTotal layout is five left + five right + one near head + one far head = twelve chairs and twelve complete settings. The new end chairs should match the existing chairs. Place the new head settings on the centerline at each short end, visibly distinct from the adjacent side settings. Slightly extend the table at the ends or raise the view only as needed for realistic spacing/count visibility. Keep the small center bouquets clear of the end settings.\nEverything else is invariant: curtained private room, two doors, basin, pendant, small far lamp, empty dessert dish with spoon, tablecloth, warm/cool golden-violet palette and broad thick expressive oil brushwork. No people, numbers, labels, text, new decorations, watermark or signature.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11526,6 +11540,16 @@
       "source": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
       "sourceSha256": "a06f14ca59e4c8a8ea8202a574c8bb09cf21ba7467de27685c82b6161ad793d8",
       "reason": "Replace the lake and mountain view with reflective dusk glazing or an indistinct street view, preserving the archive composition."
+    },
+    {
+      "source": "stories/before-lunch/art/interiors/01-dotts-office.png",
+      "sourceSha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+      "reason": "Reduce the desk to a small table and make the framed images rough, unlettered group portraits rather than cityscapes."
+    },
+    {
+      "source": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+      "sourceSha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+      "reason": "Provide twelve complete settings/chairs, preserving the curtained room and doors."
     }
   ]
 }
