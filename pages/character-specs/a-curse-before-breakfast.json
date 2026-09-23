@@ -1,0 +1,316 @@
+{
+  "slug": "a-curse-before-breakfast",
+  "title": "A Curse Before Breakfast",
+  "source": "stories/a-curse-before-breakfast/story.md",
+  "canon": false,
+  "mainCastEvidence": "Two-person sibling bargain drives the entire story: Philip requests an illness, Coris casts and then receives it, and they trade caregiving.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Mum",
+      "reason": "Offstage notes and telephone only; no independent substantial arc."
+    },
+    {
+      "name": "Teacher and beheaded duke",
+      "reason": "Teacher is reported; duke appears only as show advertising."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/characters.md (no Coris/Philip entries)",
+    "universe/rules.md (no day-ague entry)"
+  ],
+  "characters": [
+    {
+      "id": "philip",
+      "name": "Philip",
+      "role": "Protagonist and first-person narrator",
+      "selectionEvidence": [
+        {
+          "quote": "I was fifteen",
+          "line": 79,
+          "explanation": "Narrator seeking the curse."
+        },
+        {
+          "quote": "We swap. You take the ague",
+          "line": 243,
+          "explanation": "Makes the pivotal transfer bargain."
+        }
+      ],
+      "form": "human adolescent boy",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "proportions": "Age-appropriate natural human proportions",
+        "materials": "Skin, hair, cotton clothing",
+        "scale": "Human scale",
+        "movement": "Ordinary human movement",
+        "lifeStage": "15 years old",
+        "markings": "Temporary round green day-ague spots on nose and cheek, vanish on transfer",
+        "clothing": "Sleeved sleepwear and quilt while ill; school clothes and schoolbag next morning",
+        "equipment": "Algebra/geometry books, pencil, pirate novel, tickets, tissues",
+        "distinctiveFeatures": "Green spots, sneezing, flushed fever and huddled cold posture"
+      },
+      "explicitCanon": [
+        "Story-supported: age 15; younger brother of 21-year-old witch Coris; day-ague produces fever, sneezing and green spots until transfer."
+      ],
+      "visualInterpretation": [
+        "Preserve cover's tousled dark hair, warm fair skin, gray-brown eyes and teal quilt; colors are visual continuity, not universe canon.",
+        "Simple blue-gray pajamas and plain schoolwear; no wizard costume."
+      ],
+      "states": [
+        {
+          "name": "well",
+          "description": "Normal skin and alert studying posture."
+        },
+        {
+          "name": "day ague",
+          "description": "Round pea-like green spots, flushed cheeks, tissues and quilt; no permanent mutation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-curse-before-breakfast:philip",
+        "links": [],
+        "evidence": "No demonstrated cross-story identity; name alone insufficient."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Sculptural oil masses, warm ivory sheet, cool shadow facets; human anatomy, cloak and weapons do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/title-image.jpg",
+          "role": "Philip identity",
+          "inspected": true,
+          "notes": "Tousled dark hair, adolescent proportions, green spots, teal quilt. Retain identity but replace anime line work with impasto.",
+          "sha256": "4d9a1ea5ac21a94750ccb2f3747e09dd75cad353fa1a47a1a10c0ef0888d7d72"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+          "role": "environment and paint handling",
+          "inspected": true,
+          "notes": "Slate-blue quilt and couch, amber sunlight, cool blue-gray shadow slabs; ordinary domestic room.",
+          "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4"
+        }
+      ],
+      "output": "stories/a-curse-before-breakfast/art/characters/philip.png",
+      "status": "specification-ready",
+      "blockers": [],
+      "generation": {
+        "prompt": null,
+        "attempts": []
+      },
+      "validation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coris",
+      "name": "Coris",
+      "role": "Co-lead, witch sister and caregiver",
+      "selectionEvidence": [
+        {
+          "quote": "She was twenty-one and a witch",
+          "line": 41,
+          "explanation": "Defines sister who supplies magic."
+        },
+        {
+          "quote": "I'm drawing back what's left",
+          "line": 277,
+          "explanation": "Accepts the illness and reverses caregiving."
+        }
+      ],
+      "form": "human adult woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "proportions": "Age-appropriate natural human proportions",
+        "materials": "Skin, hair, cotton clothing",
+        "scale": "Human scale",
+        "movement": "Ordinary human movement",
+        "lifeStage": "21 years old",
+        "markings": "Temporary green round spots on back of hand, nose, cheek and wrist; later deliberately imperfect green-pencil spots",
+        "clothing": "Blanket at bedroom door; loose striped trousers; dressing gown at breakfast",
+        "equipment": "Hair pencil, headphones, ghost-show ticket, quilt, green eye pencil",
+        "distinctiveFeatures": "Long hair, later twisted around a pencil; tired eyes and warm palms"
+      },
+      "explicitCanon": [
+        "Story-supported: 21-year-old witch, Philip's older sister; long hair twisted up around pencil; loose striped trousers; receives day ague until sunset."
+      ],
+      "visualInterpretation": [
+        "Restrained family resemblance to Philip: dark brown long hair and warm fair skin, not canon.",
+        "Muted cream top with loose blue-gray striped trousers; no pointed hat or ceremonial magic accessories."
+      ],
+      "states": [
+        {
+          "name": "well witch",
+          "description": "Long hair loose or pencil-twisted; ordinary household clothing."
+        },
+        {
+          "name": "transferred day ague",
+          "description": "Green spots, flushed fever, sneezing, curled beneath quilt."
+        },
+        {
+          "name": "pretend relapse",
+          "description": "Dressing gown, oval/scratch-tailed pencil spots with eye pencil separately shown; distinguish from genuine round spots."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-curse-before-breakfast:coris",
+        "links": [],
+        "evidence": "No demonstrated cross-story identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Sculptural oil masses, warm ivory sheet, cool shadow facets; human anatomy, cloak and weapons do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+          "role": "environment and paint handling",
+          "inspected": true,
+          "notes": "Slate-blue quilt and couch, amber sunlight, cool blue-gray shadow slabs; ordinary domestic room.",
+          "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4"
+        }
+      ],
+      "output": "stories/a-curse-before-breakfast/art/characters/coris.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this existing 1536x1024 character reference sheet with one narrowly targeted change: REMOVE the row of five color swatches at the bottom center-right, between the Eye pencil and the Pencilled spots shoulder study. Fill their former area with the same quiet warm ivory folio background, preserving subtle paper/paint ground. No palette strip, paint swatches, paint chips or color bars anywhere. Preserve every other pixel's intended content and layout: Coris and A Curse Before Breakfast heading, all three full-body figures, the three face/state details, hair-pencil close study, the physical green Eye pencil and ALL existing labels. The physical green eye pencil is equipment and MUST REMAIN, unlike the abstract color swatches to remove. Do not add anything, do not move or crop anything, do not redraw features, change clothing, smooth paint or add scenery. Same wide 1536x1024 canvas.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "superseded-user-preference-no-swatches",
+            "requestedAt": "2026-09-23T19:40:28.571409+00:00",
+            "prompt": "Create one finished character reference sheet, 1536x1024 pixels, landscape 3:2, a quiet warm ivory artist's folio. CHARACTER ONLY. Absolutely no locations, scenic vignette, furniture, floor plane, terrain, rocks, plants, window, decorative scenery, or prose paragraph. Plenty of clean ivory between isolated studies. Upper left readable elegant dark serif text exactly: \"Coris\" and below it \"A Curse Before Breakfast\". Brief functional labels only.\nSUBJECT: one consistent adult human woman, exactly age twenty-one, ordinary anatomy, two arms two legs; dark brown long hair twisted up around one ordinary pencil, warm fair skin, brown eyes, expressive tired face with understated dry humor. She is an everyday contemporary-like witch and an older sister, not a fantasy-costume witch. No pointed hat, magical staff, amulet, armor, cloak, wand, spell glow or supernatural eyes. Default clothing: simple loose cream long-sleeve top, blue-gray loose vertically striped trousers, plain thick socks. Exact hair color, top and sock colors are restrained design choices; trousers and hair pencil are story facts.\nLAYOUT: left two-thirds, three uncropped full-figure isolated views of SAME well woman in exactly same clothing and proportions: relaxed front three-quarter, clean side, rear three-quarter; all hair-to-sock silhouettes visible. Neutral natural relaxed hands. Keep pencil/bun placement and trouser stripe rhythm consistent. Right column: three compact expressive head/shoulder studies of SAME face, labels \"Well\", \"Day ague\", \"Pencilled spots\". Well: hair in pencil twist, faint wry expression. Day ague: flushed, tired watery eyes, several distinct round pea-green spots on bridge of nose and cheeks; wrapped at shoulders in muted teal quilt, no furniture. Pencilled spots: same adult wearing a plain dressing gown, clearly imperfect green oval and scratch-tailed cosmetic-pencil marks, mild mischievous look, not the neat round real spots. Bottom middle: small close study of long hair secured around the ordinary pencil, labelled \"Hair pencil\"; a single simple green cosmetic pencil labelled \"Eye pencil\"; unobtrusive five-stroke palette strip. No extra person, extra hand, story quotation or narrative scene.\nPAINT: Canadian Group of Seven-inspired character painting in real heavy oil on ivory, broad connected color/value masses with directional bristle strokes and occasional substantial raised palette-knife impasto. Quiet connecting passages let silhouettes breathe. The same broad visibly painted treatment constructs cheeks, eyes, nose, hair and fingers as constructs fabricâ€”NO airbrushed or photoreal face inset. Paint follows actual form: long sweeping hair strokes, folds with a few decisive slabs, soft matte skin built from connected planes. Subdued neutral-warm illumination and rich cool slate-blue shadows, no theatrical rim light or high gloss. Warm cream, muted blue-gray, dark umber, teal, selective olive green. Enough impasto to feel physical, never a uniform layer of tiny beveled chips or all-over noisy mosaic. Natural readable features, not anime eyes.\nINPUTS: image 1 is the approved Sculpted Impasto medium and folio approach only; borrow neither its character, red cloak, medieval equipment NOR its scenery. Image 2 is the story's oil-painted interior solely for slate/teal/cream palette and fabric paint rhythm; copy NONE of its objects, room, furniture, window, landscape or lighting composition. Strictly isolated character studies on untouched ivory, with no floor or setting.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+                "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-57a685f0-27c1-4dc9-957b-651d734506fe.png",
+            "savedPath": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "outputSha256": "aeca157b9aa7450d12d0bddbb7f3702b0bdad429d5f3a95e8b8331dd995d4ae6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T19:42:06.538221+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected-for-example",
+            "requestedAt": "2026-09-23T19:45:12.176961+00:00",
+            "prompt": "Edit this existing 1536x1024 character reference sheet with one narrowly targeted change: REMOVE the row of five color swatches at the bottom center-right, between the Eye pencil and the Pencilled spots shoulder study. Fill their former area with the same quiet warm ivory folio background, preserving subtle paper/paint ground. No palette strip, paint swatches, paint chips or color bars anywhere. Preserve every other pixel's intended content and layout: Coris and A Curse Before Breakfast heading, all three full-body figures, the three face/state details, hair-pencil close study, the physical green Eye pencil and ALL existing labels. The physical green eye pencil is equipment and MUST REMAIN, unlike the abstract color swatches to remove. Do not add anything, do not move or crop anything, do not redraw features, change clothing, smooth paint or add scenery. Same wide 1536x1024 canvas.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "sha256": "aeca157b9aa7450d12d0bddbb7f3702b0bdad429d5f3a95e8b8331dd995d4ae6",
+                "retainedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-57a685f0-27c1-4dc9-957b-651d734506fe.png"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-565e96ab-89e7-4b78-8005-2df183cd3f7a.png",
+            "savedPath": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "outputSha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T19:46:59.661539+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2,
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-57a685f0-27c1-4dc9-957b-651d734506fe.png",
+            "sha256": "aeca157b9aa7450d12d0bddbb7f3702b0bdad429d5f3a95e8b8331dd995d4ae6",
+            "inspected": true,
+            "role": "Immutable inspected edit target before palette removal; preserve character-only identity, layout and painted form."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:05:17.144772+00:00",
+        "outputSha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+        "sourceSha256": "a58adea556318e343711299312acb59c6ded4fc93d34ba641d03364113fff676",
+        "referencePins": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/interiors/02-quilt-on-the-sofa.png",
+            "sha256": "61e51c84d1e72a091f7d038f9eaef5f1219743e4d083099b276289101f6885b4"
+          }
+        ],
+        "editInputPin": {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-57a685f0-27c1-4dc9-957b-651d734506fe.png",
+          "sha256": "aeca157b9aa7450d12d0bddbb7f3702b0bdad429d5f3a95e8b8331dd995d4ae6"
+        },
+        "checks": [
+          "Edited PNG visually inspected: all abstract paint swatches removed, physical green cosmetic eye pencil retained.",
+          "Three unclipped full-body views, hair pencil detail and clearly labelled well/day-ague/pencilled state studies remain consistent.",
+          "Correct readable name and story title; character-only ivory, no floor, scenery or location.",
+          "Broad oil surface remains on faces and bodies with muted cream, slate and teal; no new anatomy or equipment.",
+          "Independent review and user approval pending; preview only."
+        ],
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "cast_batch_2",
+          "evidence": "Independent reviewer confirmed hair pencil, striped trousers, separate genuine round ague and pencilled false spots, readable text and painted face/body planes; no scenery or swatches."
+        },
+        "userApproval": "Pending actual user feedback on these exact character-only, swatch-free preview bytes. Full collection run is not approved.",
+        "specificationSha256": "579ebbf61804196171502d4c0097b7b0cea1a2c9cd62cc4ef8958786bb82474e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-57a685f0-27c1-4dc9-957b-651d734506fe.png",
+            "sha256": "aeca157b9aa7450d12d0bddbb7f3702b0bdad429d5f3a95e8b8331dd995d4ae6",
+            "inspected": true,
+            "role": "Immutable inspected edit target before palette removal; preserve character-only identity, layout and painted form."
+          }
+        ],
+        "evidence": [
+          "Edited PNG visually inspected: all abstract paint swatches removed, physical green cosmetic eye pencil retained.",
+          "Three unclipped full-body views, hair pencil detail and clearly labelled well/day-ague/pencilled state studies remain consistent.",
+          "Correct readable name and story title; character-only ivory, no floor, scenery or location.",
+          "Broad oil surface remains on faces and bodies with muted cream, slate and teal; no new anatomy or equipment.",
+          "Independent reviewer confirmed hair pencil, striped trousers, separate genuine round ague and pencilled false spots, readable text and painted face/body planes; no scenery or swatches."
+        ]
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "userApproval": "pending",
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "latestUserPreference": "Remove paint swatches; no palette strips or color bars."
+      },
+      "outputSha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "a58adea556318e343711299312acb59c6ded4fc93d34ba641d03364113fff676",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
