@@ -242,19 +242,26 @@
           "id": "02-shutter-chamber",
           "title": "Shutter chamber",
           "alt": "Shutter chamber — oil interior study for A Crown for the Endless Fire",
-          "source": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
-          "sourceSha256": "3311790135491e9608f65e387352f4d9a447c9556dbbfc06cfbd79d46cef49fc",
+          "source": "pages/interior-replacements/a-crown-for-the-endless-fire/02-shutter-chamber.png",
+          "sourceSha256": "3894c2dd4d911ffe95b114e73d0df397462827863286d1c3c2f48d1f0f9f0a52",
           "full": {
-            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3311790135491e96.webp",
-            "sha256": "ca656a4e00a5f2dda27d009154be88dc14a179b25a25e65ce98f416fe05e72e4",
+            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3894c2dd4d911ffe.webp",
+            "sha256": "a929b04a5729fa09103db34958d6ff69432c3ef528e93c68cdeaecf376978c68",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3311790135491e96-thumb.webp",
-            "sha256": "c0e0122b3e42411a7b415d8f52c11e7f6fb0b4de3fb6fe1e62fceeddae2c3655",
+            "path": "interiors/a-crown-for-the-endless-fire/02-shutter-chamber-3894c2dd4d911ffe-thumb.webp",
+            "sha256": "ed95c0d7bc63912cf38cfdbb024d6b2b43e82ba4477fd00dcbb80fc92f86ac17",
             "width": 480,
             "height": 320
+          },
+          "revision": {
+            "originalSource": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
+            "originalSha256": "3311790135491e9608f65e387352f4d9a447c9556dbbfc06cfbd79d46cef49fc",
+            "correction": "Move the narrow uneven aperture beneath the raised shutter and show its chain holding that lifted position.",
+            "prompt": "Use case: precise-object-edit. Correct only the iron shutter's mechanical state in this mine landing oil painting. Preserve the 3:2 landscape composition, preferably 1536x1024.\nThe supplied image is the exact edit target. Preserve the rail-less black bridge and stone landing above the fire gulf, adjacent square passage at left, rough dark rock, large riveted iron sliding shutter at right, side guides, lifting linkage and heavy chain secured around the right stone cleat. Keep the fiery underground light, broad expressive impasto strokes, slate-violet rock and warm orange reflections.\nThe shutter is a VERTICALLY LIFTING panel, not a top-opening damper. Remove and completely close the bright aperture ABOVE the panel: the shutter's upper edge should overlap behind the upper lintel/guide, with solid iron covering that upper space and no glowing slot or smoke plume there.\nRaise the WHOLE iron leaf just a little within its vertical side guides. Show its bottom metal edge clearly separated from the sill by ONE NARROW UNEVEN GAP BELOW it. That bottom gap is only three fingers high at the near/right jamb and four fingers high at the far/left jamb, roughly a few centimetres, a narrow orange-lit slit rather than a crawlable opening. Its slightly crooked bottom edge makes the unequal height visible. The side chain and lifting linkage are taut and visibly hold this partly raised leaf; retain the chain locked around the stone cleat. A restrained thin smoke thread can draw toward and under the bottom slit, never billow out of the shutter's top.\nKeep the large shutter's scale and position, stone landing, bridge, side passage and all other composition unchanged. No people, hands, new furniture, gauges, diagrams, text, numbers, symbols, captions, signature, watermark, collage, photographic or 3D treatment.",
+            "generator": "image_gen"
           }
         },
         {
@@ -11502,6 +11509,11 @@
       "source": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
       "sourceSha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2",
       "reason": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape."
+    },
+    {
+      "source": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
+      "sourceSha256": "3311790135491e9608f65e387352f4d9a447c9556dbbfc06cfbd79d46cef49fc",
+      "reason": "Move the narrow uneven aperture beneath the raised shutter and show its chain holding that lifted position."
     }
   ]
 }
