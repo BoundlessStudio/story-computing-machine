@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-astral-valkyrie",
+  "title": "The Astral Valkyrie",
+  "source": "stories/the-astral-valkyrie/story.md",
+  "sourceSha256": "60ee082a4e4047e0bc76567128b889bca23882ef77c2eaae42b610380f260aab",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished story, recorded prompt and final review read. Nacorra/Valkyrie/Vasketh sustain contested witness selection; remembered unnamed lover drives three major disclosures with independent response and source age/hair states, therefore also main cast.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Roof victims, wounded singer, queen, captains, farmer/child/language witness, rescuer reader and crowd",
+      "reason": "Brief supporting or recalled functional appearances, no sustained independent central arc comparable to four selected identities."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency and magic; no universal divine office or toy/celestial capability extrapolation"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No shared named entry found; source review says Vasketh distinct from Varkesh"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+      "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+      "inspected": true,
+      "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded",
+      "displayName": "codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+      "status": "resolved",
+      "recoveryProvenance": "Coordinator recovered exact PNG bytes from archived_sessions/rollout-2026-09-13T20-12-22-01a09d41-fb62-73f2-9236-69e84750386f.jsonl zero-based line8 user input_image",
+      "inspection": "Actually inspected: adult feminine violet/indigo/gold, crystal ring and ornamental gold wings; prose controls barefoot weight, dark bodice and violet sclera, original glossy anime excluded."
+    }
+  ],
+  "characters": [
+    {
+      "id": "astral-valkyrie",
+      "name": "Astral Valkyrie",
+      "role": "Living celestial selector carrying one witness and body across six centuries",
+      "selectionEvidence": [
+        {
+          "quote": "Gold wings folded behind her, each feather veined with a light that moved as blood moves beneath thin skin.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "A broken circle of violet crystal turned above her head.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "Her hair was indigo, immensely long",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "they were violet even where ours are white.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "She bent her knees to take her weight. She breathed.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        }
+      ],
+      "form": "Embodied adult feminine celestial person",
+      "storyAppearance": {
+        "anatomy": "Adult feminine living body with breath, pulse, damp skin, bare feet and real weight. Gold feather wings have living-light veins; broken violet crystal ring above head; immensely long indigo hair stays lifted. Eyes entirely violet including sclera.",
+        "clothing": "Dark bodice and collar. Original golden ornament subordinate; no source armor/weapon.",
+        "states": "Gold wings folded or shading with gold dimmed; hot copper catastrophe light, cool arrival state. Memory only consensually shared through contact; no extra body/soul depiction."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Gold wings folded behind her, each feather veined with a light that moved as blood moves beneath thin skin.",
+        "Non-canon source fact: A broken circle of violet crystal turned above her head.",
+        "Non-canon source fact: Her hair was indigo, immensely long",
+        "Non-canon source fact: they were violet even where ours are white.",
+        "Non-canon source fact: She bent her knees to take her weight. She breathed."
+      ],
+      "visualInterpretation": [
+        "Original-guided fair lavender skin, adult face/indigo fringe, restrained gold/violet collar ornaments; practical dark floor-length dress extending source bodice rather than copying original cutouts.",
+        "Apparent adult30, no exact celestial age claim, bare natural feet and hands."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Gold wings folded or shading with gold dimmed; hot copper catastrophe light, cool arrival state. Memory only consensually shared through contact; no extra body/soul depiction."
+        }
+      ],
+      "naming": {
+        "sourceName": "Astral Valkyrie",
+        "provenance": "Exact source name/title, no art-only replacement."
+      },
+      "recurrence": {
+        "identityKey": "the-astral-valkyrie:astral-valkyrie",
+        "links": [],
+        "evidence": "No matching shared authority entry; Vasketh explicitly distinct from Varkesh in source review."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+          "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+          "inspected": true,
+          "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\title-image.jpg",
+          "sha256": "7596519e57ae0f331a506132a2bf6e379e9944480d673d567e6d0ded039f5543",
+          "inspected": true,
+          "role": "Inspected source cover corroborates Valkyrie gold feather wings, long indigo hair and violet broken ring; no use as rendering authority"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+          "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+          "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+          "inspected": true,
+          "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\landscapes\\05-the-beach-six-centuries-later.png",
+          "sha256": "7c03308eba24f91a4114e25113e52f48877ca1fd0fc903f921ec9759bd370085",
+          "inspected": true,
+          "role": "Actual cold diffuse grey shore light and broad matte oils for arrival/later witness; no scenery"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-astral-valkyrie/art/characters/astral-valkyrie.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:14:14.252792+00:00",
+        "sourceSha256": "60ee082a4e4047e0bc76567128b889bca23882ef77c2eaae42b610380f260aab",
+        "outputSha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4d490158-65e5-45f1-ba5d-8aa3e593d922.png",
+            "sha256": "92c204ed80fb9ae18744c061fb3d303c876ad13ac208ad4067353f3a6227dca1",
+            "inspected": true,
+            "role": "Actual selected Valkyrie source identity/geometry/layout; facial repaint only"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9e4ef9ae-b6d1-43ae-b82a-19032da228c6.png",
+            "sha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62",
+            "inspected": true,
+            "role": "Coordinator-passed Nacorra opaque broad oil flesh handling ONLY, no identity/colour/age transfer"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: facial flesh is repainted in opaque contiguous pale mauve, ochre and cool violet oil planes with decisive bristle edges instead of smooth anime shading. Source adult facial proportions and all-violet eyes including sclera remain; no black pupils or white sclera introduced. Long indigo hair, broken violet crystal ring, living gold veined feather wings, dark collar/bodice/skirt, two arms and hands, bare feet, headings and warm ivory layout preserved. No scenery or filter overlay. Coordinator requested face-only revision addressed.",
+        "specificationSha256": "b0a06caf9bc681152b9bc762626db5c79f6c77e29fe554630ac4dc71dfd4d221"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Repaint ONLY the FACIAL FLESH and EYES in image1 Astral Valkyrie sheet. All her faces currently retain smooth anime rendering, which must be replaced with actual painted face treatment. Image2 Nacorra is paint-handling reference ONLY: imitate its connected OPAQUE OIL planes and decisive visible bristle/knife strokes across forehead, cheekbones, nose, jaw, lips and eye sockets. Do NOT transfer Nacorra face, skin colour, nose geometry, hair, clothing, age or expression. Valkyrie retains original image1 adult face proportions, fair PALE LAVENDER complexion, fine nose, same jaw/mouth/eye shapes and head angles. Crucially eyes remain VIOLET INCLUDING SCLERA; no white sclera. Form eyes with firm opaque painted shapes, no glossy anime gradients, eyeliner/cel-line contours or photographic skin. Break long smooth facial gradients into a few substantial connected value planes with quiet edges and selected thick brush ridges; this is a real repaint, not added texture filter. Preserve every pose, gold living feather wings, broken violet crystal ring, immensely long indigo hair, dark bodice/collar/dress, barefeet, five-digit palm study, labels/title and entire light IVORY layout. Do not alter non-face artwork or generate a new composition.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4d490158-65e5-45f1-ba5d-8aa3e593d922.png",
+            "sha256": "92c204ed80fb9ae18744c061fb3d303c876ad13ac208ad4067353f3a6227dca1",
+            "inspected": true,
+            "role": "Actual selected Valkyrie source identity/geometry/layout; facial repaint only"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9e4ef9ae-b6d1-43ae-b82a-19032da228c6.png",
+            "sha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62",
+            "inspected": true,
+            "role": "Coordinator-passed Nacorra opaque broad oil flesh handling ONLY, no identity/colour/age transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET for ONE IDENTITY ONLY. Large readable dark serif NAME, smaller exact story title The Astral Valkyrie. Full background and all negative space LIGHT WARM IVORY, no gradient, no scenery/floor/ground shadows, no swatches, no frame decorations or other people. Short functional labels only. Canadian Group of Seven HEAVY OILS: actual same-story painting controls BROAD CONNECTED opaque colour/value masses, directional bristle and dragged palette knife, quiet joins and selective impasto. Face, hands and hair are painted in the SAME broad matte handling, not photographic/CGI, shiny faceted chips, anime, cel lines or mosaic tiles. Distinct story lighting on FIGURES does not darken ivory page. Feasible unclipped whole bodies, accurate five-digit hands, coherent one identity across states. Heading Astral Valkyrie. Depict the ONE living celestial ADULT woman inspired by original image2: immensely long flowing INDIGO hair/fringe, adult fair-lavender face, violet eyes INCLUDING ALL SCLERA (NO WHITE eye areas), gold FEATHER wings with fine living-light veins, BROKEN violet crystal ring floating above crown. Transfer identity but completely replace glossy anime rendering with first reference's matte broad oil masses. She has physical weight: bare feet planted, slightly bent knees, breathing shoulders; hands have ordinary five digits and no gloves. Dark charcoal-purple bodice with HIGH dark collar and restrained gold-violet ornament, flowing opaque black-purple full skirt, modest closed midriff; bare feet visible. Layout TWO complete full bodies front wings folded tightly and REAR wings HALF-open entirely inside canvas, not immense outstretched wings crowding labels. Hair parts over back enough to see two organic wing roots. Front light is one COPPER side light on one cheek/wing edge with broad deep violet shadow, not studio illumination. Rear/shading state gold feathers DIMMED to muted ochre. Two heads Listening and Remembered taste, all-violet eyes; one open-palm study and one gold-feather detail with subtle living vein. No lightning, stars, space background, sword, armor, copied woman from style ref, another person carried or extra disembodied soul. Crystal ring remains broken, not closed metal crown.",
+            "references": [
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+                "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+                "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+                "inspected": true,
+                "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:09:17.802336+00:00",
+            "preflight": "Full source and prompt/review read; original/cover/same-story paintings actually inspected. Source all-violet sclera, barefoot body, two age/time states, left haircut, five-digit hands, one identity per sheet, no scenery, broad matte masses and light ivory checked. Art names and faces distinguished; source wins advisory art conflicts.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4d490158-65e5-45f1-ba5d-8aa3e593d922.png",
+            "candidateSha256": "92c204ed80fb9ae18744c061fb3d303c876ad13ac208ad4067353f3a6227dca1",
+            "completedAt": "2026-09-24T06:17:44.509199+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: recovered original identity translated to matte oil, violet eyes including sclera, indigo hair, broken violet crystal ring, living-light-veined gold feather wings, no armor/weapon/other identity.",
+              "Bare weighted feet, dark closed bodice/collar and dress, ordinary five-digit palm; front/back/expressions and wing detail unclipped, source name/title readable on clean ivory."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "reviewedBy": "root actual pixels",
+              "finding": "Identity/body/wings/halo/layout pass but facial flesh remains smooth anime; targeted broad opaque oil repaint needed."
+            }
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Repaint ONLY the FACIAL FLESH and EYES in image1 Astral Valkyrie sheet. All her faces currently retain smooth anime rendering, which must be replaced with actual painted face treatment. Image2 Nacorra is paint-handling reference ONLY: imitate its connected OPAQUE OIL planes and decisive visible bristle/knife strokes across forehead, cheekbones, nose, jaw, lips and eye sockets. Do NOT transfer Nacorra face, skin colour, nose geometry, hair, clothing, age or expression. Valkyrie retains original image1 adult face proportions, fair PALE LAVENDER complexion, fine nose, same jaw/mouth/eye shapes and head angles. Crucially eyes remain VIOLET INCLUDING SCLERA; no white sclera. Form eyes with firm opaque painted shapes, no glossy anime gradients, eyeliner/cel-line contours or photographic skin. Break long smooth facial gradients into a few substantial connected value planes with quiet edges and selected thick brush ridges; this is a real repaint, not added texture filter. Preserve every pose, gold living feather wings, broken violet crystal ring, immensely long indigo hair, dark bodice/collar/dress, barefeet, five-digit palm study, labels/title and entire light IVORY layout. Do not alter non-face artwork or generate a new composition.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4d490158-65e5-45f1-ba5d-8aa3e593d922.png",
+                "sha256": "92c204ed80fb9ae18744c061fb3d303c876ad13ac208ad4067353f3a6227dca1",
+                "inspected": true,
+                "role": "Actual selected Valkyrie source identity/geometry/layout; facial repaint only"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9e4ef9ae-b6d1-43ae-b82a-19032da228c6.png",
+                "sha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62",
+                "inspected": true,
+                "role": "Coordinator-passed Nacorra opaque broad oil flesh handling ONLY, no identity/colour/age transfer"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:44:50.671289+00:00",
+            "preflight": "Parent actual review confirms non-face identity/anatomy pass. Actual selected Valkyrie and approved Nacorra PNG visually inspected; reference role only paint, preserve lavender identity/all-violet sclera. No layout changes.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e126b7b9-bb42-40f0-8db8-e93fde7e7ef8.png",
+            "candidateSha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709",
+            "completedAt": "2026-09-24T08:14:14.252792+00:00",
+            "visualInspection": "Actual saved-pixel review: facial flesh is repainted in opaque contiguous pale mauve, ochre and cool violet oil planes with decisive bristle edges instead of smooth anime shading. Source adult facial proportions and all-violet eyes including sclera remain; no black pupils or white sclera introduced. Long indigo hair, broken violet crystal ring, living gold veined feather wings, dark collar/bodice/skirt, two arms and hands, bare feet, headings and warm ivory layout preserved. No scenery or filter overlay. Coordinator requested face-only revision addressed."
+          }
+        ]
+      },
+      "outputSha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709"
+    },
+    {
+      "id": "nacorra",
+      "name": "Nacorra",
+      "role": "Former court singer, compromised survivor and narrator",
+      "selectionEvidence": [
+        {
+          "quote": "Now I had a split lip, a stolen court cloak",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "I was twenty-nine",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "a thousand thin disks of silver onto my dress.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "a split lip that had not healed.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "It took nine winters before I could write this",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        }
+      ],
+      "form": "Human woman across source time states",
+      "storyAppearance": {
+        "anatomy": "Adult woman former court singer. Twenty-nine in feast memory; present age inferred mid/late30s from lover31 then38 summer before disaster, not exact canonical number. Six centuries transit does not age/heal split lip. Nine winters later older than lover38.",
+        "clothing": "Stolen court cloak present, dress with very many thin silver disks in feast, later received cloak/plain dress interpreted.",
+        "states": "Feast29 NIGHT lamplight; catastrophe split lip copper glare; cold beach arrival same body/split lip; later witness after9winters visibly matured/lip healed."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Now I had a split lip, a stolen court cloak",
+        "Non-canon source fact: I was twenty-nine",
+        "Non-canon source fact: a thousand thin disks of silver onto my dress.",
+        "Non-canon source fact: a split lip that had not healed.",
+        "Non-canon source fact: It took nine winters before I could write this"
+      ],
+      "visualInterpretation": [
+        "Dark-brown skin, short tightly coiled black hair, high cheekbones and broad nose, gold-brown eyes; all unspecified characteristics art-only.",
+        "Present plum court cloak with worn silver edge over wine gown; later plain blue-grey wool wrap and greying temples. No current royal bracelet: queen gift belongs culpable feast memory."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Feast29 NIGHT lamplight; catastrophe split lip copper glare; cold beach arrival same body/split lip; later witness after9winters visibly matured/lip healed."
+        }
+      ],
+      "naming": {
+        "sourceName": "Nacorra",
+        "provenance": "Exact source name/title, no art-only replacement."
+      },
+      "recurrence": {
+        "identityKey": "the-astral-valkyrie:nacorra",
+        "links": [],
+        "evidence": "No matching shared authority entry; Vasketh explicitly distinct from Varkesh in source review."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+          "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+          "inspected": true,
+          "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\title-image.jpg",
+          "sha256": "7596519e57ae0f331a506132a2bf6e379e9944480d673d567e6d0ded039f5543",
+          "inspected": true,
+          "role": "Inspected source cover corroborates Valkyrie gold feather wings, long indigo hair and violet broken ring; no use as rendering authority"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+          "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+          "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+          "inspected": true,
+          "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\landscapes\\05-the-beach-six-centuries-later.png",
+          "sha256": "7c03308eba24f91a4114e25113e52f48877ca1fd0fc903f921ec9759bd370085",
+          "inspected": true,
+          "role": "Actual cold diffuse grey shore light and broad matte oils for arrival/later witness; no scenery"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-astral-valkyrie/art/characters/nacorra.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:28:53.763443+00:00",
+        "sourceSha256": "60ee082a4e4047e0bc76567128b889bca23882ef77c2eaae42b610380f260aab",
+        "outputSha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0f19bc2-35b3-4938-8a11-c6d8bf38f949.png",
+            "sha256": "4e8289f96284ada95e3dd888365281e3578caf5eda4fe150e88940d5d756d6b9",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          },
+          {
+            "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+            "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+            "inspected": true,
+            "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: Arrival black curls and same split lip/age restored, cool-grey shore exposure, later nine-winters full figure retains older grey temples.",
+          "Feast age29 now limited amber NIGHT light against deep indigo shadows, distinct from copper catastrophe and diffuse later witness. Source state clothes/silver disks and dark-brown coiled-hair identity consistent.",
+          "One identity only, ordinary hands/anatomy, exact readable title/name, ivory without ground, thick matte oil forms."
+        ],
+        "specificationSha256": "acc9d84af9c460c132395f7b0220633101f8eabdb5f3008eeb1a403282a8ce74"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Narrow correction to Nacorra sheet image1. Preserve dark-brown face identity, names, all clothes, silver disks, ordinary anatomy, oil paint and ivory page. CRUCIAL upper-right ARRIVAL portrait is SAME AGE as adjacent PRESENT portrait because six centuries passed in physical stasis. REMOVE EVERY GREY HAIR from Arrival portrait, restore uniformly black tight curls matching Present, and retain the same small split lower lip. Do not change older Nine winters later body: its grey temples are correct. Give Arrival head distinctly COLD soft grey diffuse beach light, not warm orange. Middle FEAST age29 full figure is at NIGHT under limited warm lamps: darken connected cool indigo shadow across half face, neck, arms and dress; keep only selective amber-lit planes and silver disk glints. Image2 is actual feast NIGHT illumination to transfer ONLY to this feast figure, never background. Page remains light warm IVORY, no lamps or rooms. All other states remain as painted.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0f19bc2-35b3-4938-8a11-c6d8bf38f949.png",
+            "sha256": "4e8289f96284ada95e3dd888365281e3578caf5eda4fe150e88940d5d756d6b9",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          },
+          {
+            "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+            "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+            "inspected": true,
+            "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET for ONE IDENTITY ONLY. Large readable dark serif NAME, smaller exact story title The Astral Valkyrie. Full background and all negative space LIGHT WARM IVORY, no gradient, no scenery/floor/ground shadows, no swatches, no frame decorations or other people. Short functional labels only. Canadian Group of Seven HEAVY OILS: actual same-story painting controls BROAD CONNECTED opaque colour/value masses, directional bristle and dragged palette knife, quiet joins and selective impasto. Face, hands and hair are painted in the SAME broad matte handling, not photographic/CGI, shiny faceted chips, anime, cel lines or mosaic tiles. Distinct story lighting on FIGURES does not darken ivory page. Feasible unclipped whole bodies, accurate five-digit hands, coherent one identity across states. Heading Nacorra. ONE mature HUMAN WOMAN with dark brown skin, short tightly coiled BLACK hair, high cheekbones, broad nose and gold-brown eyes. SAME face across time, distinct from pale Valkyrie. Three full-body states, not three people: Present catastrophe (mid/late30s, stolen PLUM court cloak with worn silver edge over plain wine gown, dusty shoes, small split lower lip; stark COPPER side light and deep broad violet shadows from image1); Feast age29 (younger same woman, long dress covered with many THIN SILVER DISKS catching LIMITED amber NIGHT LAMPLIGHT and deep indigo shadows as image2; no daytime glamour lighting); Nine winters later (mid40s visibly matured, small grey at temples, plain blue-grey wool wrap/charcoal robe, cold soft grey daylight as image3, healed lip, holding handwritten memoir). Two close heads Present with split lip and Arrival: same age and SAME split lip six centuries later, cold shore light. One isolated silver-disk cloth detail. Current source does not specify skin/hair; this interpretation stays consistent. Exactly ordinary two arms/legs, five fingers; no wings, halo, celestial eyes, sword, palace scenery or other identity. Keep ivory surrounding all dark-cloaked bodies bright.",
+            "references": [
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+                "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+              },
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+                "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+                "inspected": true,
+                "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+              },
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\landscapes\\05-the-beach-six-centuries-later.png",
+                "sha256": "7c03308eba24f91a4114e25113e52f48877ca1fd0fc903f921ec9759bd370085",
+                "inspected": true,
+                "role": "Actual cold diffuse grey shore light and broad matte oils for arrival/later witness; no scenery"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:09:17.802336+00:00",
+            "preflight": "Full source and prompt/review read; original/cover/same-story paintings actually inspected. Source all-violet sclera, barefoot body, two age/time states, left haircut, five-digit hands, one identity per sheet, no scenery, broad matte masses and light ivory checked. Art names and faces distinguished; source wins advisory art conflicts.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0f19bc2-35b3-4938-8a11-c6d8bf38f949.png",
+            "candidateSha256": "4e8289f96284ada95e3dd888365281e3578caf5eda4fe150e88940d5d756d6b9",
+            "completedAt": "2026-09-24T06:17:44.509199+00:00",
+            "visualInspection": [
+              "Three source states and dark-brown coiled-hair identity correct, but Arrival portrait grey temples contradicts stasis and Feast reads too broadly illuminated for night."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow correction to Nacorra sheet image1. Preserve dark-brown face identity, names, all clothes, silver disks, ordinary anatomy, oil paint and ivory page. CRUCIAL upper-right ARRIVAL portrait is SAME AGE as adjacent PRESENT portrait because six centuries passed in physical stasis. REMOVE EVERY GREY HAIR from Arrival portrait, restore uniformly black tight curls matching Present, and retain the same small split lower lip. Do not change older Nine winters later body: its grey temples are correct. Give Arrival head distinctly COLD soft grey diffuse beach light, not warm orange. Middle FEAST age29 full figure is at NIGHT under limited warm lamps: darken connected cool indigo shadow across half face, neck, arms and dress; keep only selective amber-lit planes and silver disk glints. Image2 is actual feast NIGHT illumination to transfer ONLY to this feast figure, never background. Page remains light warm IVORY, no lamps or rooms. All other states remain as painted.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0f19bc2-35b3-4938-8a11-c6d8bf38f949.png",
+                "sha256": "4e8289f96284ada95e3dd888365281e3578caf5eda4fe150e88940d5d756d6b9",
+                "inspected": true,
+                "role": "Actual candidate identity and source states; narrow correction only"
+              },
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+                "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+                "inspected": true,
+                "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:17:44.509199+00:00",
+            "preflight": "Actual saved pixels inspected. Stasis preserves present hair/lip at Arrival; nine-winter ageing separate. Night source light stays on figures not page; exact left haircut retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9e4ef9ae-b6d1-43ae-b82a-19032da228c6.png",
+            "candidateSha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62",
+            "completedAt": "2026-09-24T06:28:53.763443+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: Arrival black curls and same split lip/age restored, cool-grey shore exposure, later nine-winters full figure retains older grey temples.",
+              "Feast age29 now limited amber NIGHT light against deep indigo shadows, distinct from copper catastrophe and diffuse later witness. Source state clothes/silver disks and dark-brown coiled-hair identity consistent.",
+              "One identity only, ordinary hands/anatomy, exact readable title/name, ivory without ground, thick matte oil forms."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "ebb243481a20d5d380dc36e217acb70c09437403be62bd2bd03b7c75954a5d62"
+    },
+    {
+      "id": "vasketh",
+      "name": "Vasketh",
+      "role": "Elderly historian and rival witness candidate",
+      "selectionEvidence": [
+        {
+          "quote": "Vasketh, who had been head historian before the library fell",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "his enormous, hairy knuckles",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "His breath smelled of mint leaves chewed long past sweetness.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "I have the testimony of the occupied islands.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        }
+      ],
+      "form": "Elderly human man",
+      "storyAppearance": {
+        "anatomy": "Elderly man, enormous hairy-knuckled hands, ordinary shoes/body; no supernatural powers.",
+        "clothing": "Sleeves and shoes explicit, scholarly clothing otherwise unspecified.",
+        "states": "Offering memories through open hand, insisting on history, frightened/flinching then helping trapped woman. Catastrophe copper light with cool wing shade."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Vasketh, who had been head historian before the library fell",
+        "Non-canon source fact: his enormous, hairy knuckles",
+        "Non-canon source fact: His breath smelled of mint leaves chewed long past sweetness.",
+        "Non-canon source fact: I have the testimony of the occupied islands."
+      ],
+      "visualInterpretation": [
+        "Tall stooped elder75, pale olive skin, very long narrow nose/face, white brows, thinning white crown hair, short pointed white beard. Enormous hands with visible grey hairs.",
+        "Worn ink-blue scholar coat, grey tunic, brown trousers and old soft shoes. No invented official emblem, cane or magical book."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Offering memories through open hand, insisting on history, frightened/flinching then helping trapped woman. Catastrophe copper light with cool wing shade."
+        }
+      ],
+      "naming": {
+        "sourceName": "Vasketh",
+        "provenance": "Exact source name/title, no art-only replacement."
+      },
+      "recurrence": {
+        "identityKey": "the-astral-valkyrie:vasketh",
+        "links": [],
+        "evidence": "No matching shared authority entry; Vasketh explicitly distinct from Varkesh in source review."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+          "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+          "inspected": true,
+          "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\title-image.jpg",
+          "sha256": "7596519e57ae0f331a506132a2bf6e379e9944480d673d567e6d0ded039f5543",
+          "inspected": true,
+          "role": "Inspected source cover corroborates Valkyrie gold feather wings, long indigo hair and violet broken ring; no use as rendering authority"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+          "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+          "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+          "inspected": true,
+          "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\landscapes\\05-the-beach-six-centuries-later.png",
+          "sha256": "7c03308eba24f91a4114e25113e52f48877ca1fd0fc903f921ec9759bd370085",
+          "inspected": true,
+          "role": "Actual cold diffuse grey shore light and broad matte oils for arrival/later witness; no scenery"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-astral-valkyrie/art/characters/vasketh.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:28:53.763443+00:00",
+        "sourceSha256": "60ee082a4e4047e0bc76567128b889bca23882ef77c2eaae42b610380f260aab",
+        "outputSha256": "798d52b8da6e64eea9b92ce9d56c61bf1f7abd47bb5fa202f6a203760f16670d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ebf9be87-5a16-49ee-863d-9cfdf2e3bdeb.png",
+            "sha256": "d6fe552298aaa3824cb47587cafafa02e2e08e0e9cc0841c1164e08242f32e91",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: huge hairy-knuckled five-digit hands, narrow long-nosed elder and ink-blue scholarly attire consistent across views/expressions.",
+          "Shade portrait distinctly cool/dim, present warm edge-light and broad matte shadows; labels are functional and process word removed. Exact name/title, clean ivory, no scenery or other identity."
+        ],
+        "specificationSha256": "cc4e5650c43ae263e922e00cafa58b9c1cf67d3a60bf02f68b08ec720eba8e61"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Only clean up labels on this finished Vasketh sheet. Change RE CALLED/RECALLED MANUSCRIPT (OPTIONAL) label to simply Recalled manuscript, removing word OPTIONAL and its parentheses entirely. Change HEAD (OFFERING) to Offering, HEAD (INSISTING) to Insisting, SEATED HALF-BODY (SHADE) to Shade. Preserve ALL pixels of characters, huge hairy-knuckled hands/five digits, long narrow elder identity, slate-blue coat, shaded seated figure, present copper light, source title/name, thick matte oils, ivory background. Do not recompose.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ebf9be87-5a16-49ee-863d-9cfdf2e3bdeb.png",
+            "sha256": "d6fe552298aaa3824cb47587cafafa02e2e08e0e9cc0841c1164e08242f32e91",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET for ONE IDENTITY ONLY. Large readable dark serif NAME, smaller exact story title The Astral Valkyrie. Full background and all negative space LIGHT WARM IVORY, no gradient, no scenery/floor/ground shadows, no swatches, no frame decorations or other people. Short functional labels only. Canadian Group of Seven HEAVY OILS: actual same-story painting controls BROAD CONNECTED opaque colour/value masses, directional bristle and dragged palette knife, quiet joins and selective impasto. Face, hands and hair are painted in the SAME broad matte handling, not photographic/CGI, shiny faceted chips, anime, cel lines or mosaic tiles. Distinct story lighting on FIGURES does not darken ivory page. Feasible unclipped whole bodies, accurate five-digit hands, coherent one identity across states. Heading Vasketh. ONE elderly HUMAN historian about75, tall but stooped, pale olive weathered skin, VERY LONG narrow nose and lean long face, thinning white crown hair, large white eyebrows, short pointed white beard. Distinct elder identity, no young woman's face from style. Worn INK-BLUE scholar coat with ordinary sleeves, grey tunic, brown trousers, old soft brown shoes. ENORMOUS broad hands with HAIRY KNUCKLES, normal five digits, a defining trait. Two full figures front offering one open palm and rear three-quarter with shoulders bent; third seated halfbody Cooling shade, no chair/environment shown. Heads Offering and Insisting carry intellectual urgency, not caricature senility. Two hand studies open palm/knuckles. A small recalled manuscript page with narrow unreadable script is optional equipment study, no invented legible proclamation or carried magical book. Present body has intense COPPER light on a narrow side, broad cool violet shadow; shaded portrait darker/cooler with no sunny studio light. No wing, halo, crown, sword, cane or uniform. Light ivory backdrop remains bright, no hall.",
+            "references": [
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+                "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:09:17.802336+00:00",
+            "preflight": "Full source and prompt/review read; original/cover/same-story paintings actually inspected. Source all-violet sclera, barefoot body, two age/time states, left haircut, five-digit hands, one identity per sheet, no scenery, broad matte masses and light ivory checked. Art names and faces distinguished; source wins advisory art conflicts.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ebf9be87-5a16-49ee-863d-9cfdf2e3bdeb.png",
+            "candidateSha256": "d6fe552298aaa3824cb47587cafafa02e2e08e0e9cc0841c1164e08242f32e91",
+            "completedAt": "2026-09-24T06:17:44.509199+00:00",
+            "visualInspection": [
+              "Face/clothing, stoop, huge hairy-knuckled hands, ordinary five digits and shaded state pass; remove process word OPTIONAL from manuscript label."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Only clean up labels on this finished Vasketh sheet. Change RE CALLED/RECALLED MANUSCRIPT (OPTIONAL) label to simply Recalled manuscript, removing word OPTIONAL and its parentheses entirely. Change HEAD (OFFERING) to Offering, HEAD (INSISTING) to Insisting, SEATED HALF-BODY (SHADE) to Shade. Preserve ALL pixels of characters, huge hairy-knuckled hands/five digits, long narrow elder identity, slate-blue coat, shaded seated figure, present copper light, source title/name, thick matte oils, ivory background. Do not recompose.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ebf9be87-5a16-49ee-863d-9cfdf2e3bdeb.png",
+                "sha256": "d6fe552298aaa3824cb47587cafafa02e2e08e0e9cc0841c1164e08242f32e91",
+                "inspected": true,
+                "role": "Actual candidate identity and source states; narrow correction only"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:17:44.509199+00:00",
+            "preflight": "Actual saved pixels inspected. Stasis preserves present hair/lip at Arrival; nine-winter ageing separate. Night source light stays on figures not page; exact left haircut retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0dff661d-77af-483e-92a3-0961fa9eba8d.png",
+            "candidateSha256": "798d52b8da6e64eea9b92ce9d56c61bf1f7abd47bb5fa202f6a203760f16670d",
+            "completedAt": "2026-09-24T06:28:53.763443+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: huge hairy-knuckled five-digit hands, narrow long-nosed elder and ink-blue scholarly attire consistent across views/expressions.",
+              "Shade portrait distinctly cool/dim, present warm edge-light and broad matte shadows; labels are functional and process word removed. Exact name/title, clean ivory, no scenery or other identity."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "798d52b8da6e64eea9b92ce9d56c61bf1f7abd47bb5fa202f6a203760f16670d"
+    },
+    {
+      "id": "evrissa-dant",
+      "name": "Evrissa Dant",
+      "role": "Art-only name for Nacorra's unnamed printer lover, central to repeated memories and moral disclosure",
+      "selectionEvidence": [
+        {
+          "quote": "My lover stood on the platform in the brown tunic they had given her.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "The left side was shorter",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "She was thirty-eight.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "My lover, then a printer's apprentice of thirty-one",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        },
+        {
+          "quote": "leaving a black trace of printer's ink.",
+          "explanation": "Direct finished-source identity, physical feature, time state or sustained main action."
+        }
+      ],
+      "form": "Human woman at31 and38",
+      "storyAppearance": {
+        "anatomy": "Woman31 in feast then38 before execution; badly cut hair with anatomical LEFT shorter at38; ink on hands as printer.",
+        "clothing": "Brown tunic38, rope-bound wrists before hood; feast clothing unspecified.",
+        "states": "Laughing over stolen yellow fruit then stricken at prisoners humiliation, later defiant smile at38 before hood; no graphic death depiction."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: My lover stood on the platform in the brown tunic they had given her.",
+        "Non-canon source fact: The left side was shorter",
+        "Non-canon source fact: She was thirty-eight.",
+        "Non-canon source fact: My lover, then a printer's apprentice of thirty-one",
+        "Non-canon source fact: leaving a black trace of printer's ink."
+      ],
+      "visualInterpretation": [
+        "Art-only name Evrissa Dant, not inserted into source/canon. Golden-olive skin, rounded square jaw, broad nose, brown straight shoulder hair and stout practical build distinguish lover from Nacorra.",
+        "Printer state cream linen blouse, rust-brown skirt/apron; later plain brown tunic. Age31 and38 exact source."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Laughing over stolen yellow fruit then stricken at prisoners humiliation, later defiant smile at38 before hood; no graphic death depiction."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "provenance": "User-authorized art-only name for unnamed main figure; exact/first/surname collision search in universe, frozen name memory, current passing inventories/prose and character specs returned no matches; source unchanged."
+      },
+      "recurrence": {
+        "identityKey": "the-astral-valkyrie:evrissa-dant",
+        "links": [],
+        "evidence": "No matching shared authority entry; Vasketh explicitly distinct from Varkesh in source review."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-96078682-a659-442a-8034-749862398f5c.png",
+          "sha256": "469f33b92c6905f6c56efe2c62105b1c629d54a6aecc4aebbe3d0687357af62a",
+          "inspected": true,
+          "role": "Recovered exact original: Valkyrie violet/indigo/gold identity and broken crystal ring, subordinate to final prose; glossy anime treatment excluded"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\title-image.jpg",
+          "sha256": "7596519e57ae0f331a506132a2bf6e379e9944480d673d567e6d0ded039f5543",
+          "inspected": true,
+          "role": "Inspected source cover corroborates Valkyrie gold feather wings, long indigo hair and violet broken ring; no use as rendering authority"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\02-the-failing-feast-hall.png",
+          "sha256": "b3951fc3d15d8c0d41ddf939545e66d18356c30f3c9422046cc46a7775b58cb9",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oil treatment and catastrophic copper side-light/deep violet shadow on present characters; no hall"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+          "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+          "inspected": true,
+          "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+        },
+        {
+          "path": "stories\\the-astral-valkyrie\\art\\landscapes\\05-the-beach-six-centuries-later.png",
+          "sha256": "7c03308eba24f91a4114e25113e52f48877ca1fd0fc903f921ec9759bd370085",
+          "inspected": true,
+          "role": "Actual cold diffuse grey shore light and broad matte oils for arrival/later witness; no scenery"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-astral-valkyrie/art/characters/evrissa-dant.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:28:53.763443+00:00",
+        "sourceSha256": "60ee082a4e4047e0bc76567128b889bca23882ef77c2eaae42b610380f260aab",
+        "outputSha256": "f2a7961203862e265a811879355bfc3aaf353edafecae2cad26c99a0de8d3224",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-903e37c1-a3a2-4809-ba24-4ca7f0338433.png",
+            "sha256": "4b1b8e1670ee006abecd4fb1b70b3d34a13a759d24dc2c5eb32aa63df7c2ce94",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          },
+          {
+            "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+            "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+            "inspected": true,
+            "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: Apprentice31/Laughter31/Disbelief31 now visibly NIGHT lamplit with connected deep cool shadows, small amber planes.",
+          "At38/Defiance38 preserve shorter anatomical LEFT/viewerRIGHT haircut, brown tunic, bound wrists, upright faint smile and bare feet; inked hand studies normal five digits.",
+          "Adult ages consistent across states, no other cast/gore/scene, exact name/title and source-state labels, heavy matte oil on ivory. Art-only name provenance kept separate."
+        ],
+        "specificationSha256": "d72de75ba452bf85cf86ebb5c8d5514c2e06eafc7834bbc9eb5e84c3810974b6"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Make a narrow LIGHTING correction to image1 Evrissa Dant sheet. ONLY the Apprentice31 full-body and two 31-year heads Laughter31 and Disbelief31 are in a NIGHT feast hall. Use image2 actual night palette: LIMITED warm amber practical lamplight hitting small planes, with broad CONNECTED deep cool indigo-brown shadows on unlit face, neck, blouse, apron and skirt. Lower the overall exposure of these THREE depictions so they clearly read lamplit night, not evenly daylit studio subjects. Still readable adult identity and emotions, oil paint masses stay broad/matte. Keep At38 full body and Defiance38 head exactly unchanged with correct anatomical LEFT short haircut/viewerRIGHT and brown tunic/bound wrists. Preserve inked hands, fruit dish, all labels, source title and name. Background stays uniformly LIGHT WARM IVORY with no night-gradient or scenery, no lamps drawn. No figure anatomy/age/clothes change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-903e37c1-a3a2-4809-ba24-4ca7f0338433.png",
+            "sha256": "4b1b8e1670ee006abecd4fb1b70b3d34a13a759d24dc2c5eb32aa63df7c2ce94",
+            "inspected": true,
+            "role": "Actual candidate identity and source states; narrow correction only"
+          },
+          {
+            "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+            "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+            "inspected": true,
+            "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET for ONE IDENTITY ONLY. Large readable dark serif NAME, smaller exact story title The Astral Valkyrie. Full background and all negative space LIGHT WARM IVORY, no gradient, no scenery/floor/ground shadows, no swatches, no frame decorations or other people. Short functional labels only. Canadian Group of Seven HEAVY OILS: actual same-story painting controls BROAD CONNECTED opaque colour/value masses, directional bristle and dragged palette knife, quiet joins and selective impasto. Face, hands and hair are painted in the SAME broad matte handling, not photographic/CGI, shiny faceted chips, anime, cel lines or mosaic tiles. Distinct story lighting on FIGURES does not darken ivory page. Feasible unclipped whole bodies, accurate five-digit hands, coherent one identity across states. Large heading Evrissa Dant; smaller exact story title The Astral Valkyrie; discreet short role Printer and lover. ONE HUMAN WOMAN represented in TWO ages,31 and38, not different identities. Golden-olive skin, rounded square jaw, broad nose, warm hazel eyes, stout practical build, straight medium-BROWN hair. Full-body Apprentice31 with shoulder-length hair partly tied back, cream linen blouse/rust-brown skirt/plain apron, printer's ink on fingers, holding SMALL dish of yellow fruit. Feasting under warm LIMITED practical amber NIGHT lamplight with broad indigo shadow, not daylight. Full-body At38 BEFORE hood: SAME woman seven years older, plain BROWN TUNIC, ordinary bare feet, wrists gently visible bound by one rope, strong upright bearing and faint defiant smile; hair badly cut with ANATOMICAL LEFT side shorter (viewerRIGHT side in front above ear), anatomical right longer to jaw. No hood over face, no execution scene/gore. Two head studies Laughter31 and Disbelief31, one Defiance38 accurately asymmetric hair. Useful ink-stained hand study with five digits. No lover/other people shown, no literal printed names, protest banners or setting. Dark muted dawn light on38 contrasts with warm feast31 while all surrounding page stays light warm ivory. Art-only name does not establish shared canon.",
+            "references": [
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+                "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+                "inspected": true,
+                "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto heavy handmade oils only; no donated identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:09:17.802336+00:00",
+            "preflight": "Full source and prompt/review read; original/cover/same-story paintings actually inspected. Source all-violet sclera, barefoot body, two age/time states, left haircut, five-digit hands, one identity per sheet, no scenery, broad matte masses and light ivory checked. Art names and faces distinguished; source wins advisory art conflicts.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-903e37c1-a3a2-4809-ba24-4ca7f0338433.png",
+            "candidateSha256": "4b1b8e1670ee006abecd4fb1b70b3d34a13a759d24dc2c5eb32aa63df7c2ce94",
+            "completedAt": "2026-09-24T06:17:44.509199+00:00",
+            "visualInspection": [
+              "Source ages31/38, left-short38 haircut, brown tunic/bound wrists and inked hands pass. Feast31 depictions need darker connected night shadows to match source lamps."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Make a narrow LIGHTING correction to image1 Evrissa Dant sheet. ONLY the Apprentice31 full-body and two 31-year heads Laughter31 and Disbelief31 are in a NIGHT feast hall. Use image2 actual night palette: LIMITED warm amber practical lamplight hitting small planes, with broad CONNECTED deep cool indigo-brown shadows on unlit face, neck, blouse, apron and skirt. Lower the overall exposure of these THREE depictions so they clearly read lamplit night, not evenly daylit studio subjects. Still readable adult identity and emotions, oil paint masses stay broad/matte. Keep At38 full body and Defiance38 head exactly unchanged with correct anatomical LEFT short haircut/viewerRIGHT and brown tunic/bound wrists. Preserve inked hands, fruit dish, all labels, source title and name. Background stays uniformly LIGHT WARM IVORY with no night-gradient or scenery, no lamps drawn. No figure anatomy/age/clothes change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-903e37c1-a3a2-4809-ba24-4ca7f0338433.png",
+                "sha256": "4b1b8e1670ee006abecd4fb1b70b3d34a13a759d24dc2c5eb32aa63df7c2ce94",
+                "inspected": true,
+                "role": "Actual candidate identity and source states; narrow correction only"
+              },
+              {
+                "path": "stories\\the-astral-valkyrie\\art\\interiors\\01-the-feast-hall-before.png",
+                "sha256": "faa542449d92d3d53a4d89e607c159b3eaecccec494c85f2773f0b8708fbc511",
+                "inspected": true,
+                "role": "Actual warm practical NIGHT lamplight/deep indigo shadows and matte oil masses for remembered feast; no room"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:17:44.509199+00:00",
+            "preflight": "Actual saved pixels inspected. Stasis preserves present hair/lip at Arrival; nine-winter ageing separate. Night source light stays on figures not page; exact left haircut retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1e14dee2-1723-47c7-a2fc-ec32eb68b036.png",
+            "candidateSha256": "f2a7961203862e265a811879355bfc3aaf353edafecae2cad26c99a0de8d3224",
+            "completedAt": "2026-09-24T06:28:53.763443+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: Apprentice31/Laughter31/Disbelief31 now visibly NIGHT lamplit with connected deep cool shadows, small amber planes.",
+              "At38/Defiance38 preserve shorter anatomical LEFT/viewerRIGHT haircut, brown tunic, bound wrists, upright faint smile and bare feet; inked hand studies normal five digits.",
+              "Adult ages consistent across states, no other cast/gore/scene, exact name/title and source-state labels, heavy matte oil on ivory. Art-only name provenance kept separate."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "f2a7961203862e265a811879355bfc3aaf353edafecae2cad26c99a0de8d3224"
+    }
+  ]
+}
