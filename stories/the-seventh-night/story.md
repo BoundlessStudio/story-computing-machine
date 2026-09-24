@@ -16,7 +16,7 @@ Across the table, Galten tapped the broadside with one blunt fingernail.
 
 "You said there were three lies."
 
-"Three material lies." Thalenna cut another slice. "Demonic blood. Seductive magic. The phrase *helpless thralls*. The rest is merely vulgar arrangement."
+"Three material lies." Thalenna cut another slice. "Demonic blood. Helpless thralls. Stolen youth. The rest is merely vulgar arrangement."
 
 "It says the orgy began at midnight."
 
@@ -25,8 +25,6 @@ Across the table, Galten tapped the broadside with one blunt fingernail.
 "It began before midnight."
 
 "That is not the useful correction."
-
-"It was useful to me. I was trying to remember whether supper counted."
 
 She set down her knife. On the broadside, an inked elf with horns, breasts of ambitious geometry, and six yards of hair beckoned three kneeling swordsmen toward a dungeon bed large enough for a duke. The title promised the true account of the *Demon-Blooded Delver of the Seventh Night*. Below it, smaller type suggested she had drained the youth from her victims and applied it to her own face.
 
@@ -50,13 +48,7 @@ Thalenna folded the broadside so the horned caricature vanished. "We returned fr
 
 "Four adults whose involvement is no one's business."
 
-"You can't deny the spectacle and preserve the spectators."
-
-"There were no spectators."
-
-"That isn't what I meant."
-
-She knew. His jokes had been coming half a heartbeat too quickly since he sat down. Galten joked when a wound was small enough to expose and large enough to resent. Thalenna had learned this over two years, several contracts, and a love life whose map required colored pins.
+His jokes had been coming half a heartbeat too quickly since he sat down. Galten joked when a wound was small enough to expose and large enough to resent. Thalenna had learned this over two years, several contracts, and a love life whose map required colored pins.
 
 She reached for her wine. "The broadside is wrong where it matters."
 
@@ -84,7 +76,7 @@ Her pointed ears heated. She hated that he could still see it. "I had hoped to d
 
 "You couldn't straighten your fingers by supper."
 
-"Hence the tight gauntlet."
+"I couldn't get the damned gauntlet off."
 
 Galten leaned down, brought up a gauntlet, and placed it beside the folded broadside.
 
@@ -108,11 +100,11 @@ Galten tore bread instead of eating it. "Tell it properly."
 
 Properly was not a condition Thalenna associated with that night. Still, he had brought back her gauntlet. He had also brought the broadside instead of showing it to anyone whose laughter would travel.
 
-"The curse usually gives me six uncomplicated days," she said. "If I go longer without sex, it begins taking what it considers excess youth. On the seventh day it works quickly. Skin, hair, strength, balance. By the seventh night, I can lose decades in hours."
+"Six days is usually safe," she said. "After that, if I haven't had sex, I start to age. You saw how quickly."
 
-"And sex resets it."
+"Would it have kept going?"
 
-"To my own adult baseline. It doesn't make me younger than I am. It doesn't heal a cut, mend a bruise, cure exhaustion, or improve my disposition."
+"Decades in hours. Until I had sex. Then I'm my own age again, with every cut and bruise I had before. Just as tired. No improvement in my disposition."
 
 "Nothing improves your disposition."
 
@@ -120,23 +112,21 @@ Properly was not a condition Thalenna associated with that night. Still, he had 
 
 His bread suffered a second, more thoughtful tearing. "No other way?"
 
-He knew the answer. He had watched her test enough answers to hate them with her: fasting, feasting, potions, prayer, counterspells, solo efforts, and two expensive healers who had disagreed on everything except their fee.
+She had spent years testing answers: fasting, feasting, potions, prayer, counterspells, solo efforts, and two expensive healers who had disagreed on everything except their fee. Galten had known about the curse for two nights. He still asked as though she might have overlooked something.
 
 For years she had hidden the result behind short contracts, invented family obligations, and a romantic calendar complicated enough to require colored ink. Ordinary travel could be managed. An extended crawl swallowed dates, privacy, and the comforting fiction that heroes controlled their own schedules. Stone did not care who was expecting her home on the sixth night.
 
-"No cure," she said. "No substitute. No postponement. No clever interpretation. And before you ask again, no demon. There is no demonic blood in me, no irresistible aura, no power that produces desire. The curse cannot make anyone want me, agree with me, touch me, or remain in a room. It doesn't make me want anyone, either. It doesn't care whether anyone else is willing. It only punishes me for going too long without sex."
+"No cure," she said. "No substitute. And no demon, whatever that thing says." She nodded at the broadside. "I can't make anyone want me. I still have to ask."
 
 Galten's gaze lifted from the bread. His expression had lost its joke.
 
-"There," she said. "That is the relevant truth."
+She gave the onions a look usually reserved for mutinous scouts. "So I called the three of you together."
 
-"Most of it."
-
-She gave the onions a look usually reserved for mutinous scouts. "On the seventh night I told three other adults. You, the archer, and the ward-scribe. The archer is an adult veteran with grown children. The ward-scribe is a widower old enough to have gone grey honestly."
+The archer had grown children. The ward-scribe was a widower old enough to have gone grey honestly. Thalenna had still rehearsed the announcement as though she expected them to faint.
 
 "You told us while wearing one stocking on your arm."
 
-"My joints were stiff."
+"I couldn't bend far enough to get it on my foot. My hand was cold."
 
 "You called us to a tactical conference."
 
@@ -148,15 +138,11 @@ She gave the onions a look usually reserved for mutinous scouts. "On the seventh
 
 "The bedroll fell down halfway through *carnal*."
 
-"The rope slipped."
-
-"You were wearing the stocking."
-
 "Galten."
 
 "Properly," he reminded her.
 
-She carved a root vegetable into four increasingly small pieces. "I explained badly. You laughed. I considered killing you. Then I asked. Plainly enough, eventually. None of you owed me an answer. All three of you chose yes."
+She carved a root vegetable into four increasingly small pieces. "I explained badly. You laughed. I considered killing you. Then I asked if you wanted to. You all said yes."
 
 "Because we already wanted to."
 
@@ -166,7 +152,7 @@ She carved a root vegetable into four increasingly small pieces. "I explained ba
 
 The knife stopped. Galten met her eyes, then looked down first and put bread into his mouth as if he could chew the admission back into harmlessness.
 
-Thalenna resumed cutting. "The door was barred. The terms were clear. Four adults made a private choice. What followed is not part of tonight's account."
+Thalenna resumed cutting. "We barred the door. What happened next is staying off the record."
 
 "At last," he said around the bread, "an accurate sentence."
 
@@ -186,11 +172,7 @@ There lay the treacherous heart of the story. The middle, which the broadside ha
 
 "A cloak is reversible."
 
-"Not when the clasp is between your shoulder blades."
-
-"It remained attached to my body. That is the principal work of a cloak."
-
-"You told the archer it was a court fashion."
+"Not when the clasp is between your shoulder blades. You told the archer it was a court fashion."
 
 "She had been staring."
 
@@ -200,19 +182,11 @@ There lay the treacherous heart of the story. The middle, which the broadside ha
 
 Galten laughed into his cup. This time the sound came late enough to be real.
 
-Thalenna speared an onion. "My usual appearance returned very suddenly. I had fastened the mail while my body was diminished. When my hair came back in full, half of it threaded itself through three links at the collar."
-
-"Five."
-
-"Three links caused difficulty. The other two were decorative."
+Thalenna speared an onion. "It all came back so quickly. I'd fastened the mail while I was still shrivelled. Then my hair grew back and caught in the links at the collar."
 
 "We had to oil you."
 
 "You oiled the mail."
-
-"It was attached to you."
-
-"That distinction is the foundation of civilization."
 
 They had possessed one cup of clean water, two cloths of uncertain history, and a thumb-sized cake of soap for four recently unclothed adults in a crypt. Galten remembered the arithmetic with vindictive clarity. Thalenna maintained that her hair required half the water because it represented half the cleaning surface. He maintained that dungeon dust could not possibly have reached the back of her knee in the quantity alleged.
 
@@ -230,9 +204,9 @@ They had possessed one cup of clean water, two cloths of uncertain history, and 
 
 "You put saddle dressing on it."
 
-"You put massage oil on your scabbard."
+"You used the massage oil on your sword."
 
-"It slid beautifully afterward."
+"The sword slid out beautifully."
 
 Galten choked on wine. Thalenna ate her onion with serene attention until he recovered.
 
@@ -240,11 +214,9 @@ Galten choked on wine. Thalenna ate her onion with serene attention until he rec
 
 "I don't know what you mean."
 
-"Of course not."
-
 She did. Victory restored her appetite.
 
-"The inventory took nearly an hour," Thalenna said, returning the conversation to defensible ground. "Four belts became five because someone counted the baldric. We found three left boots before locating a right. Your shirt had acquired a tear shaped like a small country. The adult ward-scribe found my brow jewel pressed into a folded map, and the adult archer recovered a stocking from the ration bag. None of which explains why a spoon was buckled into your sword harness."
+"The inventory took nearly an hour," Thalenna said, returning the conversation to defensible ground. "Four belts became five because someone counted the baldric. We found three left boots before locating a right. Your shirt had a tear shaped like a small country. The ward-scribe found my brow jewel in a folded map, and the archer found a stocking in the ration bag. But why was there a spoon buckled into your sword harness?"
 
 "You blamed structural collapse for the spoon," Galten said.
 
@@ -266,17 +238,9 @@ Then they needed the rope to cross the broken stair.
 
 "You said, 'Cut the damned thing before I age another year.'"
 
-"An idiom. I had reset."
-
-"And remained charming."
-
 "The shortened rope wouldn't span the gap," she continued, "so we tied belts to it. Two belonged to the wrong people. One held. One surrendered. The third had never been a belt at all, but the ward-scribe's instrument strap."
 
-"His measuring frame rang all the way down the steps," Galten said.
-
-"For a very long time."
-
-"You tried to count the bounces."
+"His measuring frame rang all the way down the steps," Galten said. "You tried to count the bounces."
 
 "I was estimating the depth."
 
@@ -296,7 +260,7 @@ She glanced beneath the table, where both her present boots sat properly paired.
 
 "You walked three miles before admitting the heel was loose."
 
-"The reset does not heal blisters. I have explained this."
+"I know. The reset doesn't heal blisters."
 
 "It also doesn't heal bites."
 
@@ -326,7 +290,7 @@ Galten wiped his eyes. "You forgot the watch."
 
 "The ward-scribe, then."
 
-"He was looking for his frame."
+"He was looking for his belt."
 
 "You."
 
@@ -336,15 +300,11 @@ Galten wiped his eyes. "You forgot the watch."
 
 Their laughter thinned as they reconstructed the missing watch over cooling plates. There had been no watch for forty minutes. Nothing had attacked them. Something had eaten the honey from the ration bag with delicate, scraping bites, leaving the spoon and taking the last clean cloth. Four celebrated delvers had then accused one another of licking the jar.
 
-"I still think it was you," Thalenna said.
+"It could have been the archer," Thalenna said.
 
-"I don't like honey."
+"She said it wasn't."
 
-"You like the archer."
-
-"What has that got to do with honey?"
-
-"You were very quick to accept her denial."
+"So did I. You believed her."
 
 There it was: her own jealousy, springing a trap intended for his. Galten's eyebrows rose.
 
@@ -354,17 +314,13 @@ Thalenna took refuge in the roast. "The point is that by dawn, no one had slept,
 
 "You keep saying that."
 
-He unfolded the broadside. The horned elf returned, smiling with supernatural confidence. "This says you compelled us. Your version says three companions assisted you with a medical emergency."
+He unfolded the broadside. The horned elf returned, smiling with supernatural confidence. "I know this is rubbish. I know we all wanted to be there."
 
-"A magical emergency."
+"Then what are we arguing about?"
 
-"That's not better. In both versions, we don't get to want anything."
+"Would you have asked me without the curse?"
 
-"You want credit for the orgy?"
-
-"No."
-
-The answer arrived stripped of humor. Galten put both hands flat on the table, then seemed to dislike the display and picked up his knife. He sawed at meat already cut small enough.
+Thalenna had an answer about shortened expeditions ready. She looked at him and let it go. Galten put both hands flat on the table, then seemed to dislike the display and picked up his knife. He sawed at meat already cut small enough.
 
 "I don't want to be another bit of equipment," he said.
 
@@ -376,7 +332,7 @@ Thalenna looked at the gauntlet between them. Her gauntlet, carried in his pack.
 
 "I am editing everyone out."
 
-"That's very fair of you."
+"Even here?"
 
 "My reputation is not an ornament. It gets us contracts. It gets doors opened before things behind them finish eating people. The songs call me the Golden Thorn, not the Elf Who Requires Scheduled Company."
 
@@ -390,7 +346,11 @@ Galten stopped cutting. That, at last, had reached him. Not perfectly; he still 
 
 "You also brought a prosecution."
 
-"Dinner came with gravy. I misread the invitation."
+He laid the sheet aside and looked down at the scraps of meat on his plate. "I did. I'm sorry."
+
+Thalenna loosened her grip on her knife. "I don't mind wanting someone. Having to ask before my hands stop working is rather different."
+
+"And I've made you explain it all again." He put his knife down. "I'll stop."
 
 She could have ended there. He had agreed on the important thing: no public correction, no public testimony, no feeding the rumor a second course. The curse would remain private. The broadside would have only mismatched gear and tired witnesses to chew on until a fresher scandal arrived.
 
@@ -404,7 +364,7 @@ Galten looked at the tart, then at her. "Bribery?"
 
 "Same thing in better pastry."
 
-She cut the tart. The crust resisted, cracked, and sent a fan of crumbs over the folded broadside. One landed precisely on the caricature's cleavage. Galten brushed it away before Thalenna could decide whether this was jealous.
+She cut the tart. The crust resisted, cracked, and sent a fan of crumbs over the open broadside. Galten brushed them away.
 
 "You have asked why there were four of us," she said.
 
@@ -416,13 +376,13 @@ His face did something small and ugly before he could stop it. "The ward-scribe,
 
 "He spent a quarter hour trying to unlace a boot that belonged to the archer. Efficiency was not our governing principle."
 
-"The archer—"
+"I thought you might have asked her anyway."
 
-"Has grown children, sound judgment, and no obligation to soothe you by being undesirable. Leave her out of this."
+"I might have."
 
-Galten shut his mouth. He looked properly ashamed, which improved him.
+Galten shut his mouth. Thalenna waited until he looked at her instead of his plate.
 
-Thalenna gave him the larger slice. "I asked all three because I wanted all three. The curse made honesty urgent. It did not invent the answer."
+Thalenna gave him the larger slice. "I asked all three because I wanted all three. I'd have preferred to say so with my boots on and a little less urgency."
 
 "And me?"
 
@@ -430,19 +390,15 @@ Thalenna gave him the larger slice. "I asked all three because I wanted all thre
 
 "A stirring distinction."
 
-She ate a spiteful forkful of quince and regretted it at once. The fruit was perfumed wool. Across from her, Galten waited badly, his shoulders held too square, his fork untouched. He had stopped joking. She had stopped having sequence.
+She ate a spiteful forkful of quince and regretted it at once. The fruit was perfumed wool. Across from her, Galten waited badly, his shoulders held too square, his fork untouched. She could remember asking him. Explaining why was proving worse.
 
 "I asked you first," she said.
-
-"Because I was nearest."
-
-"You were across the chamber."
 
 "Because you knew I'd say yes."
 
 "No." Her fork clicked against the plate. "Because you were the one I was afraid would say no."
 
-Galten's attention dropped to the table between them, to her bare hand beside the gauntlet. He set down his knife.
+Galten's attention dropped to the table between them, to her bare hand beside the gauntlet. He drew a breath, but said nothing.
 
 Thalenna could feel the ceremony trying to rebuild itself around her. She did not let it.
 
@@ -450,23 +406,7 @@ Thalenna could feel the ceremony trying to rebuild itself around her. She did no
 
 He looked up.
 
-"Tonight is not necessary. Dinner was not necessary. You are here because I wanted you across the table. You, not a useful pair of hands and not the nearest available body."
-
-"That was nearly a speech."
-
-"Do not improve it."
-
-"I wouldn't dare."
-
-"You brought the gauntlet as evidence against me."
-
-"I brought it for dramatic effect."
-
-"It lacked drama."
-
-"You called it a traitor."
-
-"I was being kind."
+"I didn't need to invite you tonight. I wanted dinner with you."
 
 He smiled, but did not rescue himself with a joke. Instead he reached across the table and turned her hand palm-up. His fingers rested in hers, warm and ordinary, carrying no magic at all.
 
