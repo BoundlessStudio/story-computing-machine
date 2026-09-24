@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-vacant-throne",
+  "title": "The Vacant Throne",
+  "source": "stories/the-vacant-throne/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished prose and recorded prompt read. Three sustained active identities carry the succession and consent arc: Seatkeeper, mixed-heritage child, First Captain. All lack personal names in this deliberately dialogue-free source; authorized art names assigned without altering prose or canon.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Deceased human king and demon queen",
+      "reason": "Recalled through memory, emblems and depictions; queen's continued life is explicitly uncertain. Neither acts in present narrative."
+    },
+    {
+      "name": "Keeper of seals, three judges, courtiers and guards",
+      "reason": "Supporting ritual witnesses without sustained individual characterization."
+    }
+  ],
+  "characters": [
+    {
+      "id": "irdessa",
+      "name": "Irdessa",
+      "role": "The Seatkeeper, prospective regent and late king's sister",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She had spent half her life preventing that second impression from looking like hunger.",
+          "explanation": "Fifteen years as caretaker; central viewpoint and choice."
+        },
+        {
+          "quote": "Black cords bound the court's sleeves",
+          "explanation": "Anniversary mourning costume."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult woman, younger sister of king dead fifteen years; no exact face/hair described.",
+        "clothing": "Court robe, black mourning sleeve cords; carries seal in cedar box.",
+        "equipment": "Bronze seal with key across empty chair, small cedar box; no crown worn."
+      },
+      "visualInterpretation": [
+        "Art-only name Irdessa. Approximately thirty-five, light olive skin, long narrow oval face, high forehead, long slightly hooked nose, deep-set narrow dark eyes, thin mouth, slim angular jaw, sleek chestnut hair pulled tightly into small low knot.",
+        "Deep slate-blue robe with modest ochre edging, black sleeve cords, plain dark shoes. Closed cedar box only; unseen seal retains source key/chair design."
+      ],
+      "states": [
+        {
+          "name": "Court daylight",
+          "description": "Calm three-quarter and rear full body; searching and relieved facial states."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The Seatkeeper",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Current finished prose/prompt supply role only. Distinct proposed name checked against current character specifications and frozen name memory; no match."
+      },
+      "generation": {
+        "prompt": "Edit this one character sheet while preserving exact readable \"Irdessa\" and \"The Vacant Throne\", warm opaque ivory canvas, dark slate robe with black mourning cords, closed box held, all layout, broad matte oil paint and calm daylight. Two corrections. FIRST distinguish her facial identity in all three visible faces: markedly LONG NARROW oval face, high forehead, a distinct long slightly hooked nose, deep-set narrow dark eyes, thin mouth, slim angular jaw, sleek dark chestnut hair pulled tightly away from face into small low knot with no flowing fringe; around thirty-five. Match this same identity consistently across full view and both busts. SECOND remove the open box and exposed round seals in lower right completely and restore empty warm ivory there; retain the CLOSED cedar box study only. No tree emblem or any new prop. No isolated hands, swatches or extra imagery. Keep two full-body views unclipped. Opaque RGB warm ivory, NOT transparent.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-811bb0c9-b2aa-4ec1-864e-bbd73cb56152.png",
+            "role": "Immutable inspected generated candidate; edit target preserving layout/costume/medium, correcting face borrowing and unsupported seal emblem.",
+            "sha256": "aefddf702b9b73b0746e64349c766b5dc433a37b5c54a5ebf62c77ec1fed50c3",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Irdessa\"; subtitle \"The Vacant Throne\". One human woman around thirty-five, light olive skin, slender medium build, long oval face, dark eyes, straight chestnut hair pinned in a simple low knot. Plain court robe in deep slate-blue wool with modest muted ochre edging, black mourning cords tied round sleeves, dark shoes. Two full views front-three-quarter and rear, one searching face bust and one quiet relieved face bust. Small cedar seal box held in one view; a small separate bronze seal and cedar box equipment study is allowed. No crown, magic or weapons. Diffuse late-morning natural court light, neutral warm lit planes and connected muted gray-violet shadow; not theatrical golden rimlight. Primary references 1 and 2 provide actual paint/light; reference 3 layout/medium only, never borrow Melicent identity, red cloak or armour.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+                "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+                "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T14:53:42.925234+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-811bb0c9-b2aa-4ec1-864e-bbd73cb56152.png",
+            "outputSha256": "aefddf702b9b73b0746e64349c766b5dc433a37b5c54a5ebf62c77ec1fed50c3",
+            "returnedAt": "2026-09-24T14:56:25.519046+00:00",
+            "generatorReview": "Candidate borrows style-sheet face too closely; invented tree emblem on seal violates recorded key/chair source design. Remove exposed seal details and distinguish facial structure."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit this one character sheet while preserving exact readable \"Irdessa\" and \"The Vacant Throne\", warm opaque ivory canvas, dark slate robe with black mourning cords, closed box held, all layout, broad matte oil paint and calm daylight. Two corrections. FIRST distinguish her facial identity in all three visible faces: markedly LONG NARROW oval face, high forehead, a distinct long slightly hooked nose, deep-set narrow dark eyes, thin mouth, slim angular jaw, sleek dark chestnut hair pulled tightly away from face into small low knot with no flowing fringe; around thirty-five. Match this same identity consistently across full view and both busts. SECOND remove the open box and exposed round seals in lower right completely and restore empty warm ivory there; retain the CLOSED cedar box study only. No tree emblem or any new prop. No isolated hands, swatches or extra imagery. Keep two full-body views unclipped. Opaque RGB warm ivory, NOT transparent.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-811bb0c9-b2aa-4ec1-864e-bbd73cb56152.png",
+                "role": "Immutable inspected generated candidate; edit target preserving layout/costume/medium, correcting face borrowing and unsupported seal emblem.",
+                "sha256": "aefddf702b9b73b0746e64349c766b5dc433a37b5c54a5ebf62c77ec1fed50c3",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T14:56:26.897936+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-932d2875-5807-4964-9c17-78bd5d5fe121.png",
+            "outputSha256": "9307d8be42c87b3dc3335df548b977765ed84fc62a3b7803f8fd7706125d5c96",
+            "returnedAt": "2026-09-24T14:57:46.673737+00:00",
+            "generatorReview": [
+              "Inspected returned opaque 1536x1024 RGB pixels: readable exact Irdessa / The Vacant Throne; two unclipped full views and consistent elongated face across three visible portraits.",
+              "Source mourning sleeve cords, modest robe and held closed cedar seal box preserved. Unsupported exposed tree seals removed; no crown, setting, swatches or hand studies.",
+              "Broad directional matte oil matches collection and supported neutral court daylight; no glossy rendering. Distinct high-forehead hooked-nose identity no longer reproduces Melicent. Source and reference hashes checked."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-vacant-throne/art/characters/irdessa.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "9307d8be42c87b3dc3335df548b977765ed84fc62a3b7803f8fd7706125d5c96",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T14:57:46.864233+00:00",
+        "evidence": [
+          "Inspected returned opaque 1536x1024 RGB pixels: readable exact Irdessa / The Vacant Throne; two unclipped full views and consistent elongated face across three visible portraits.",
+          "Source mourning sleeve cords, modest robe and held closed cedar seal box preserved. Unsupported exposed tree seals removed; no crown, setting, swatches or hand studies.",
+          "Broad directional matte oil matches collection and supported neutral court daylight; no glossy rendering. Distinct high-forehead hooked-nose identity no longer reproduces Melicent. Source and reference hashes checked."
+        ],
+        "sourceSha256": "a706c3adc1f2227911aa7e96d55c34ea629a741fe3f30a719c96fb0feadc3442",
+        "outputSha256": "9307d8be42c87b3dc3335df548b977765ed84fc62a3b7803f8fd7706125d5c96",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-811bb0c9-b2aa-4ec1-864e-bbd73cb56152.png",
+            "role": "Immutable inspected generated candidate; edit target preserving layout/costume/medium, correcting face borrowing and unsupported seal emblem.",
+            "sha256": "aefddf702b9b73b0746e64349c766b5dc433a37b5c54a5ebf62c77ec1fed50c3",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "a086cb4d6c309517957cc69ab878ad9e4ee3366bc790a724842bd3ce01c17443"
+      }
+    },
+    {
+      "id": "avenor",
+      "name": "Avenor",
+      "role": "The half-demon child who arrives with the royal sword and accepts bounded regency",
+      "form": "Young human-demon mixed-heritage person, gender unstated",
+      "selectionEvidence": [
+        {
+          "quote": "They were perhaps fourteen, perhaps younger beneath the dirt.",
+          "explanation": "Child, never adult hero proportions."
+        },
+        {
+          "quote": "Their eyes were dark red around human-gray irises.",
+          "explanation": "Not flame or glowing eyes."
+        },
+        {
+          "quote": "Their horn tips curved back close to the skull, one ridged, one chipped.",
+          "explanation": "Small asymmetric horns, final hood-off view."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Perhaps fourteen, short stature, travel dirt and sweat, two blunt horn tips; dark red around human-gray irises; horn tips curve back close to skull, one ridged one chipped.",
+        "clothing": "Torn hood, coat with overlapping red leather scales on one shoulder and square human-made patches on other, trousers and boots.",
+        "equipment": "Too-long royal sword in scabbard; blue enamel pommel burned brown one side, partly melted guard, black-cord repair and copper knot in grip. Battered iron disk signet, diagonal groove dividing polished/stippled halves."
+      },
+      "visualInterpretation": [
+        "Art-only name Avenor, gender left unspecified. Retain cover's shaggy black hair, pale olive complexion, slight young build, weathered charcoal layers and small back-curving horns.",
+        "Two views use pre-surrender sword-belt state. Hood off in bust only, no crown or throne. Sword remains ordinary non-glowing metal."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Full body with hood and sword at hip."
+        },
+        {
+          "name": "Hood lowered",
+          "description": "Same young face/horns, no new costume."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The child",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source deliberately provides no personal name. Avenor assigned for artwork only, checked against current specs/frozen memory with no match."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Avenor\"; subtitle \"The Vacant Throne\". Use fourth reference cover as precise young character identity: perhaps FOURTEEN, small slight undernourished child proportions, shaggy black hair, pale olive travel-dirty skin, narrow young face, gray irises surrounded by dark red WITHOUT glow. Two small blunt horns curve backward close to skull, one ridged one chipped. Gender unspecified. Torn charcoal hood with horn holes; worn coat with reddish overlapping leather scales on ONE shoulder, square cloth patching on the other; dull brown trousers and boots. Same shoulder arrangement across views. Two full-body views: alert front-three-quarter and rear-three-quarter arrival carrying a too-long belted royal sword in scabbard. Sword pommel blue enamel burned brown on one side, partly melted guard, black cord grip repair; show a small separate hilt detail with crossed copper wire if room. Battered iron disk signet against chest: deep diagonal groove, half smooth half stippled, no glowing rune. One large hood-off face bust showing identical horns and exhausted cautious expression. No crown, throne, extra people, scenery or full demon form. Story rain-court daylight, softened neutral warm top-light and subdued gray-violet shadows. References 1-2 paint/light; 3 ivory sheet only; 4 identity, not cover rendering.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+            "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+            "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/title-image.jpg",
+            "role": "Young child's actual hair, face, small horns and worn coat identity; source corrects symbolic sword/signets, painting style from primary oils.",
+            "sha256": "e255d80b9ad52c507d6b291ad4d74be7c299297cc662e8202ffc82d3e4a17d5f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Avenor\"; subtitle \"The Vacant Throne\". Use fourth reference cover as precise young character identity: perhaps FOURTEEN, small slight undernourished child proportions, shaggy black hair, pale olive travel-dirty skin, narrow young face, gray irises surrounded by dark red WITHOUT glow. Two small blunt horns curve backward close to skull, one ridged one chipped. Gender unspecified. Torn charcoal hood with horn holes; worn coat with reddish overlapping leather scales on ONE shoulder, square cloth patching on the other; dull brown trousers and boots. Same shoulder arrangement across views. Two full-body views: alert front-three-quarter and rear-three-quarter arrival carrying a too-long belted royal sword in scabbard. Sword pommel blue enamel burned brown on one side, partly melted guard, black cord grip repair; show a small separate hilt detail with crossed copper wire if room. Battered iron disk signet against chest: deep diagonal groove, half smooth half stippled, no glowing rune. One large hood-off face bust showing identical horns and exhausted cautious expression. No crown, throne, extra people, scenery or full demon form. Story rain-court daylight, softened neutral warm top-light and subdued gray-violet shadows. References 1-2 paint/light; 3 ivory sheet only; 4 identity, not cover rendering.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+                "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+                "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-vacant-throne/title-image.jpg",
+                "role": "Young child's actual hair, face, small horns and worn coat identity; source corrects symbolic sword/signets, painting style from primary oils.",
+                "sha256": "e255d80b9ad52c507d6b291ad4d74be7c299297cc662e8202ffc82d3e4a17d5f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T14:57:47.951375+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-ca16919b-633c-4a74-8f6e-6d472b184557.png",
+            "outputSha256": "a40fcd5b4ae51044ea0c23a3811527d064d84fd4672846aa4fc247b36e778200",
+            "returnedAt": "2026-09-24T14:59:52.211604+00:00",
+            "generatorReview": [
+              "Actual opaque RGB 1536x1024 pixels inspected: exact Avenor / The Vacant Throne labels; child identity consistent across front, rear and bust, small asymmetrical horns and shaggy black hair match cover.",
+              "Mixed square-patched/red-scale coat, non-glowing gray/red eyes, battered half-smooth/half-stippled diagonal iron signet and burned blue sword pommel present. Character remains young and un-crowned.",
+              "Warm ivory, character-only oil masses and natural court light; no scene, swatches or detached hands. Restrained contact shadows do not form floor/terrain vignette."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-vacant-throne/art/characters/avenor.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "a40fcd5b4ae51044ea0c23a3811527d064d84fd4672846aa4fc247b36e778200",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T14:59:52.422487+00:00",
+        "evidence": [
+          "Actual opaque RGB 1536x1024 pixels inspected: exact Avenor / The Vacant Throne labels; child identity consistent across front, rear and bust, small asymmetrical horns and shaggy black hair match cover.",
+          "Mixed square-patched/red-scale coat, non-glowing gray/red eyes, battered half-smooth/half-stippled diagonal iron signet and burned blue sword pommel present. Character remains young and un-crowned.",
+          "Warm ivory, character-only oil masses and natural court light; no scene, swatches or detached hands. Restrained contact shadows do not form floor/terrain vignette."
+        ],
+        "sourceSha256": "a706c3adc1f2227911aa7e96d55c34ea629a741fe3f30a719c96fb0feadc3442",
+        "outputSha256": "a40fcd5b4ae51044ea0c23a3811527d064d84fd4672846aa4fc247b36e778200",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+            "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+            "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/title-image.jpg",
+            "role": "Young child's actual hair, face, small horns and worn coat identity; source corrects symbolic sword/signets, painting style from primary oils.",
+            "sha256": "e255d80b9ad52c507d6b291ad4d74be7c299297cc662e8202ffc82d3e4a17d5f",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "98ce44eb6b205365acf76b4ebe659a1b7bada9e759556c386fdb11bdbe7d58c5"
+      }
+    },
+    {
+      "id": "nolm",
+      "name": "Nolm",
+      "role": "The First Captain who relinquishes emergency authority",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "The Captain's jaw worked beneath the scar that divided it.",
+          "explanation": "Distinctive jaw scar."
+        },
+        {
+          "quote": "He wore no mourning cord.",
+          "explanation": "Must not borrow other court costumes."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Male adult with scar dividing jaw; commanding, wary, fifteen-year service.",
+        "clothing": "Soldier's attire, sword belted, no mourning cord.",
+        "equipment": "Command staff with iron cap worn bright by palm; belted sword."
+      },
+      "visualInterpretation": [
+        "Nolm art-only name. About fifty, broad sturdy frame, square jaw with old non-graphic diagonal chin/jaw scar, medium brown weathered skin, close-cropped iron-gray hair.",
+        "Dark brown officer's wool coat over dull steel breastplate, simple leather belt and boots; unadorned dark wood command staff iron-capped. No heraldry invented."
+      ],
+      "states": [
+        {
+          "name": "Command",
+          "description": "Staff held across body without another figure."
+        },
+        {
+          "name": "After yielding",
+          "description": "Same uniform and face, shoulders relaxed, staff upright."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "First Captain",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name supplied in current source. Nolm checked against character specs/frozen memory without match."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Nolm\"; subtitle \"The Vacant Throne\". One adult human male palace captain, around fifty, sturdy broad frame, medium-brown weathered skin, square jaw visibly divided by one healed diagonal scar, close-cropped iron-gray hair. Same identity in every view. Restrained dark brown wool officer coat over dull steel breastplate, leather belt, boots, belted sheathed sword. No crown, ornate insignia or mourning sleeve cord. Long plain dark wood command staff with iron cap worn by his hand. Two full-body views: guarded front-three-quarter holding staff diagonally low and relaxed rear-three-quarter with staff upright. Two face busts: tense reserve, grudging softened respect. Full unclipped staff and boots, no detached hands. Natural late-morning court light from reference 2, softly warm lit planes with broad subdued gray-violet shadow. Paint references 1-2 primary; character reference 3 folio/paint only, no face or costume borrowing.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+            "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+            "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Nolm\"; subtitle \"The Vacant Throne\". One adult human male palace captain, around fifty, sturdy broad frame, medium-brown weathered skin, square jaw visibly divided by one healed diagonal scar, close-cropped iron-gray hair. Same identity in every view. Restrained dark brown wool officer coat over dull steel breastplate, leather belt, boots, belted sheathed sword. No crown, ornate insignia or mourning sleeve cord. Long plain dark wood command staff with iron cap worn by his hand. Two full-body views: guarded front-three-quarter holding staff diagonally low and relaxed rear-three-quarter with staff upright. Two face busts: tense reserve, grudging softened respect. Full unclipped staff and boots, no detached hands. Natural late-morning court light from reference 2, softly warm lit planes with broad subdued gray-violet shadow. Paint references 1-2 primary; character reference 3 folio/paint only, no face or costume borrowing.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+                "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+                "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T14:59:53.898383+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-9d39f6b2-edef-4792-8324-25a6586a614b.png",
+            "outputSha256": "4ca1f230dd44550244a44ace2827c9bc1791fcc32113ced739f67b32a45050da",
+            "returnedAt": "2026-09-24T15:01:36.420253+00:00",
+            "generatorReview": [
+              "Inspected exact opaque RGB 1536x1024 output: correct Nolm / The Vacant Throne typography, two complete full views, two consistent square-jawed gray-haired scarred portraits.",
+              "Iron-capped command staff, belted sheathed sword and no mourning cord preserve source distinction. Restrained art-only officer clothing remains non-canon.",
+              "Thick directional matte oil with connected brown/slate shadow and same-story natural court light; ivory isolation, no terrain, swatches or isolated hand studies. All source/reference/output/specification pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-vacant-throne/art/characters/nolm.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "4ca1f230dd44550244a44ace2827c9bc1791fcc32113ced739f67b32a45050da",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:01:36.655019+00:00",
+        "evidence": [
+          "Inspected exact opaque RGB 1536x1024 output: correct Nolm / The Vacant Throne typography, two complete full views, two consistent square-jawed gray-haired scarred portraits.",
+          "Iron-capped command staff, belted sheathed sword and no mourning cord preserve source distinction. Restrained art-only officer clothing remains non-canon.",
+          "Thick directional matte oil with connected brown/slate shadow and same-story natural court light; ivory isolation, no terrain, swatches or isolated hand studies. All source/reference/output/specification pins verified."
+        ],
+        "sourceSha256": "a706c3adc1f2227911aa7e96d55c34ea629a741fe3f30a719c96fb0feadc3442",
+        "outputSha256": "4ca1f230dd44550244a44ace2827c9bc1791fcc32113ced739f67b32a45050da",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary collection oil paint rhythm, broad colour masses and matte handling only; no orchard.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-vacant-throne/art/landscapes/03-rain-court-in-sunlight.png",
+            "role": "Primary same-story painted natural court daylight and subdued stone-bounce palette; no architecture.",
+            "sha256": "22097cfbfe77b6a7abd3244a9b8edf927de55f820705e02f59ffc02a45867896",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Ivory character-folio layout and painted anatomy only; no identity or red cloak borrowing.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "339b29540d4a712116495b2a959276afb89702d071bc82c2d77c08780904bc5f"
+      }
+    }
+  ],
+  "sourceSha256": "a706c3adc1f2227911aa7e96d55c34ea629a741fe3f30a719c96fb0feadc3442"
+}
