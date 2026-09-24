@@ -1,0 +1,1885 @@
+{
+  "schemaVersion": 1,
+  "slug": "apes-in-orbit",
+  "title": "The Apes Above",
+  "source": "stories/apes-in-orbit/story.md",
+  "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Qemri, Sulekk, Brinnt and Oxaul make the central defense/signal decisions. Water steward and road councillor sustain opposed logistics and policy positions; the injured messenger returns throughout and closes the narrative through his reassigned recovery role.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Granary member",
+      "reason": "Peripheral resource objections and errands; little individual characterization relative to sustained road/water roles."
+    },
+    {
+      "name": "Map keeper, porters, runners, relay operators, roof crews and carriers",
+      "reason": "Functional incidental support without sustained individual role."
+    },
+    {
+      "name": "Orbital human operators",
+      "reason": "Offstage humans known only through transmissions and course changes; no individual identity/appearance or unified collective intent established. Do not invent an astronaut body or present stations/ballast as living characters."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/premise.md#Knowledge and connection",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md and stories/NAMES.md searched for all four source names and three art names; no matches"
+  ],
+  "characters": [
+    {
+      "id": "qemri",
+      "name": "Qemri",
+      "role": "Impact warden protagonist holding firing authority and directing hatchery rescue",
+      "naming": {
+        "sourceName": "Qemri",
+        "sourceRole": "Impact warden protagonist holding firing authority and directing hatchery rescue",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Qemri planted both forefeet on the well rim.",
+          "line": 69,
+          "explanation": "Leads council response."
+        },
+        {
+          "quote": "Qemri pulled her hand from the guard.",
+          "line": 427,
+          "explanation": "Makes climactic choice not to fire."
+        }
+      ],
+      "form": "Robust quadrupedal dinosaur, four limbs with manipulatory forefeet, broad snout, thick tail; hide folds and claws, no wings",
+      "storyAppearance": {
+        "anatomy": "Robust quadrupedal dinosaur, four limbs with manipulatory forefeet, broad snout, thick tail; hide folds and claws, no wings",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Older heavy-bodied olive-gray dinosaur with broad low iguanodont-like muzzle, dark umber dorsal stripe and ochre throat; squat powerful rear legs, four blunt clawed digits chosen consistently per foot. Left shoulder old pale scar chosen consistently as art interpretation, source side unspecified. Dust in hide folds. No horns, feathers, armor or human clothing.",
+        "markings": "Female dinosaur with hide folds, forefeet/palms/claws, teeth and painful old shoulder scar from quarry slide. Dust/grit in folds after hatchery strike; practical evacuation and firing authority. No exact species, scale count, coloration or clothing specified.",
+        "materials": "Dinosaur hide/scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Small crew board and simple field handset; no whole firing console, weapon or scenario.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Weight carried on four limbs; forefeet can lift to manipulate controls, crouched bracing not human upright stance.",
+        "distinctiveFeatures": "Older heavy-bodied olive-gray dinosaur with broad low iguanodont-like muzzle, dark umber dorsal stripe and ochre throat; squat powerful rear legs, four blunt clawed digits chosen consistently per foot. Left shoulder old pale scar chosen consistently as art interpretation, source side unspecified. Dust in hide folds. No horns, feathers, armor or human clothing."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Female dinosaur with hide folds, forefeet/palms/claws, teeth and painful old shoulder scar from quarry slide.",
+        "Local non-canon story fact: Dust/grit in folds after hatchery strike; practical evacuation and firing authority.",
+        "Local non-canon story fact: No exact species, scale count, coloration or clothing specified."
+      ],
+      "visualInterpretation": [
+        "Older heavy-bodied olive-gray dinosaur with broad low iguanodont-like muzzle, dark umber dorsal stripe and ochre throat; squat powerful rear legs, four blunt clawed digits chosen consistently per foot. Left shoulder old pale scar chosen consistently as art interpretation, source side unspecified. Dust in hide folds. No horns, feathers, armor or human clothing.",
+        "Small crew board and simple field handset; no whole firing console, weapon or scenario.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Older heavy-bodied olive-gray dinosaur with broad low iguanodont-like muzzle, dark umber dorsal stripe and ochre throat; squat powerful rear legs, four blunt clawed digits chosen consistently per foot. Left shoulder old pale scar chosen consistently as art interpretation, source side unspecified. Dust in hide folds. No horns, feathers, armor or human clothing."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:qemri",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/qemri.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit ONLY the small lower-right study labeled 'Hind Foot Detail'. Redraw that isolated dinosaur HIND FOOT as a near-front view with EXACTLY FOUR separate broad toes, each ending in ONE short blunt dark claw, all FOUR claw tips fully visible in a simple side-by-side row. Four toes total: no hidden fifth, no rear/dewclaw, no overlapping or concealed fourth. Same olive-gray broad painted hide, stout limb and subdued slate dawn lighting. Preserve ALL OTHER pixels/design/content as closely as possible: Qemri title, Left Side full body facing LEFT and its correct left shoulder scar, rear body with scar hidden, front-three-quarter body with scar on viewer RIGHT, forefoot detail, head, scar detail, personal gear, broad opaque oils, layout and light ivory. Do not alter any labels or other anatomy. One precise foot-count correction only.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6bbe657-5da3-402a-9355-15b092ec3104.png",
+            "sha256": "9873c539ec91df0772c6a8f404263a10a3f39d1a7a1d88e8da970541eb3d8bbb",
+            "inspected": true,
+            "role": "Actual inspected revised Qemri sheet; only isolated hindfoot toe count remains incorrect"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6203803Z",
+            "prompt": "Create ONE 1536x1024 LANDSCAPE character reference folio on uniform LIGHT WARM IVORY, clearly readable dark serif name and smaller exact title 'The Apes Above'. ONE nonhuman dinosaur identity only. Two large useful complete body views and one smaller complementary view; head/material/hand-or-foot details appropriate to its real anatomy, isolated personal gear. NO environment, location, vignette, furniture, floor, terrain patch, ground shadow, skyline, palette strip or swatches. Do not turn dinosaur into human in a reptile suit: no human torso, breasts, clothing, human hands, or upright human stance. No dragon wings or fire. First reference cover supplies compatible dinosaur shape cues only (it has several DIFFERENT individuals, never combine them); second supplies palette and broad paint, NO setting; third supplies matte heavy oil construction and folio only, never its dragon anatomy, gold head, wings or horns. Canadian Group of Seven-inspired oil: large connected opaque masses, broad purposeful bristle strokes and selective raised knife slabs, quieter passages; fully painted eyes/muzzle/scales as well as body, not glossy CGI, photoreal creature, anime, or uniform beveled chips. Subdued COOL PREDAWN ambient planes with modest muted warm bounce, no high-key studio daylight, theatrical rim or glowing eyes. Strong silhouette and enough ivory gaps, all tails, claws, crest and horns fully uncropped. Every view same body configuration, colors, markings and appendage count. Labels concise, no prose.\nHeading 'Qemri'. Impact warden protagonist holding firing authority and directing hatchery rescue. Robust quadrupedal dinosaur, four limbs with manipulatory forefeet, broad snout, thick tail; hide folds and claws, no wings. SOURCE/IDENTITY: Older heavy-bodied olive-gray dinosaur with broad low iguanodont-like muzzle, dark umber dorsal stripe and ochre throat; squat powerful rear legs, four blunt clawed digits chosen consistently per foot. Left shoulder old pale scar chosen consistently as art interpretation, source side unspecified. Dust in hide folds. No horns, feathers, armor or human clothing. PERSONAL GEAR: Small crew board and simple field handset; no whole firing console, weapon or scenario. POSTURE: Weight carried on four limbs; forefeet can lift to manipulate controls, crouched bracing not human upright stance. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. Qemri is not the cover's armored Brinnt or horned chair. Use distinct low broad snout and folded olive-gray hide; prominent old LEFT shoulder scar, no horns or armored spikes.",
+            "references": [
+              {
+                "path": "stories/apes-in-orbit/title-image.jpg",
+                "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+                "inspected": true,
+                "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+                "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-170188f9-3037-4f51-96fe-09da92c51442.png",
+            "outputSha256": "96d86158d3a4142e73739762739d99e6ca501d3fe2c43a8a6ebfc8476c2320fa"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:40:22.8433611Z",
+            "prompt": "Repaint the FIRST image into the strong actual oil medium of SECOND image, while preserving FIRST character's exact dinosaur identity, anatomy, markings, colors, clothing/gear restrictions, full silhouettes and folio arrangement. First candidate is too finely pebbled and realistic from cover contamination. Replace micro-scale outlines, shiny specular eyes and uniformly outlined scales with LARGE CONNECTED OPAQUE PAINT MASSES, broad sweeping bristle planes and selective thick palette-knife impasto. Material remains hide or feathers, but paint describes whole neck, flank and head planes, not each microscopic scale. Painted visible eyes must remain matte small colored strokes, no glass beads or white dots on every surface. Match second reference's physical substantial paint and ivory, NEVER its dragon anatomy, horns, wings, gold palette or identity. No new body parts. Keep source-specific subdued cool predawn gray/blue shadow with restrained warm bounce, no studio spotlight. Light uniform warm ivory ground, readable exact name and 'The Apes Above'. No environmental elements, contact/ground shadows, terrain, palette chips or swatches. Preserve all views as one individual. Remove any digit-count parentheticals and unnecessary role prose; use only short functional labels. Preserve visible old LEFT shoulder scar and four walking limbs, crew board and field handset; no other gear.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-170188f9-3037-4f51-96fe-09da92c51442.png",
+                "sha256": "96d86158d3a4142e73739762739d99e6ca501d3fe2c43a8a6ebfc8476c2320fa",
+                "inspected": true,
+                "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-b43f12b5-b866-41df-8f6c-9d4960091c03.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/qemri.png",
+            "outputSha256": "24b906fbe89125340b832b930e11bb85ba7b5c08e371db90933c1c1fba23d990",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.632052+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.632052+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "24b906fbe89125340b832b930e11bb85ba7b5c08e371db90933c1c1fba23d990",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-170188f9-3037-4f51-96fe-09da92c51442.png",
+                  "sha256": "96d86158d3a4142e73739762739d99e6ca501d3fe2c43a8a6ebfc8476c2320fa",
+                  "inspected": true,
+                  "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+                },
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: broad low folded-hide quadruped, old shoulder scar, three whole views, crew board and handset. Repaint resolved fine realistic cover surface into broad connected olive/umber oil.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "1c288f31886daaa08a997de573fd2cf2bd4e2d0041795d6c25c1fab2a171c337"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light. Hindfoot close-up has five toes instead of four; lateral view swaps chosen left-shoulder scar to anatomical right."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:40:17.089123+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change. Qemri needs TWO exact anatomy corrections as well. She has exactly FOUR broad toes/claws on EACH forefoot and EACH hindfoot, including both enlarged foot studies; remove the fifth outer toe in Hind Foot Detail and any fifth toe in body views. Keep same heavy quadruped body and broad head. Her old pale shoulder scar exists ONLY on her anatomical LEFT shoulder. Replace upper-left Lateral View with a TRUE LEFT SIDE VIEW: Qemri faces canvas LEFT, tail extends toward RIGHT, her LEFT flank and LEFT shoulder face the viewer, scar visible there. Label 'Left Side'. Rear three-quarter should show her RIGHT shoulder (scar hidden), so remove the wrongly visible shoulder scar from that rear view. Front three-quarter: left shoulder scar remains correctly at viewer RIGHT. Shoulder detail label 'Left Shoulder Scar'. No second scar and no change to scar design. Exact heading 'Qemri' and title 'The Apes Above'.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-b43f12b5-b866-41df-8f6c-9d4960091c03.png",
+                "sha256": "24b906fbe89125340b832b930e11bb85ba7b5c08e371db90933c1c1fba23d990",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6bbe657-5da3-402a-9355-15b092ec3104.png",
+            "outputSha256": "9873c539ec91df0772c6a8f404263a10a3f39d1a7a1d88e8da970541eb3d8bbb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.613548+00:00",
+            "review": "Predawn light and left-shoulder orientation pass. Hind Foot Detail now shows only three clearly readable toe/claw tips; requires four clearly distinct toes in one readable view."
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:49:03.613568+00:00",
+            "prompt": "Edit ONLY the small lower-right study labeled 'Hind Foot Detail'. Redraw that isolated dinosaur HIND FOOT as a near-front view with EXACTLY FOUR separate broad toes, each ending in ONE short blunt dark claw, all FOUR claw tips fully visible in a simple side-by-side row. Four toes total: no hidden fifth, no rear/dewclaw, no overlapping or concealed fourth. Same olive-gray broad painted hide, stout limb and subdued slate dawn lighting. Preserve ALL OTHER pixels/design/content as closely as possible: Qemri title, Left Side full body facing LEFT and its correct left shoulder scar, rear body with scar hidden, front-three-quarter body with scar on viewer RIGHT, forefoot detail, head, scar detail, personal gear, broad opaque oils, layout and light ivory. Do not alter any labels or other anatomy. One precise foot-count correction only.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6bbe657-5da3-402a-9355-15b092ec3104.png",
+                "sha256": "9873c539ec91df0772c6a8f404263a10a3f39d1a7a1d88e8da970541eb3d8bbb",
+                "inspected": true,
+                "role": "Actual inspected revised Qemri sheet; only isolated hindfoot toe count remains incorrect"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-de4840fb-0ba8-41e0-aa67-f7663d85e6e2.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/qemri.png",
+            "outputSha256": "89eaf7dcba76da4648ccaf8a0e0b68784939045b32ca178d265ed0ccc6941f96",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:51:39.876263+00:00"
+          }
+        ],
+        "selectedAttempt": 4
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:51:39.876279+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "89eaf7dcba76da4648ccaf8a0e0b68784939045b32ca178d265ed0ccc6941f96",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6bbe657-5da3-402a-9355-15b092ec3104.png",
+            "sha256": "9873c539ec91df0772c6a8f404263a10a3f39d1a7a1d88e8da970541eb3d8bbb",
+            "inspected": true,
+            "role": "Actual inspected revised Qemri sheet; only isolated hindfoot toe count remains incorrect"
+          }
+        ],
+        "evidence": [
+          "Actual fourth-candidate pixels inspected: isolated hindfoot now displays four clearly separate toe/claw tips in one row; forefoot detail also four, and visible full-body feet have no extra fifth toe.",
+          "True LEFT side view faces canvas left with left shoulder scar visible; rear opposite-side shoulder hides scar; front-three-quarter retains scar at viewer right. One scar identity retained.",
+          "Cool subdued dawn ambient replaces broad yellow cast, connected slate shadows and muted olive/ochre local colors preserved in broad opaque paint.",
+          "Exact Qemri and The Apes Above text, complete silhouettes, crew board/handset and ivory remain; no scenery, swatches or extra anatomy."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "577ef2e1073013ef545f34d35914affedc703991d4026bc1d0f00c22fce1020e"
+      },
+      "outputSha256": "89eaf7dcba76da4648ccaf8a0e0b68784939045b32ca178d265ed0ccc6941f96",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "sulekk",
+      "name": "Sulekk",
+      "role": "Council chair who sets bounded trial and delegates authority",
+      "naming": {
+        "sourceName": "Sulekk",
+        "sourceRole": "Council chair who sets bounded trial and delegates authority",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The chair’s crest was scarred at the tip",
+          "line": 45,
+          "explanation": "Distinctive chair anatomy."
+        },
+        {
+          "quote": "Three passes.",
+          "line": 465,
+          "explanation": "Sets final limited policy."
+        }
+      ],
+      "form": "Large quadrupedal horned/frilled dinosaur, four sturdy limbs and tail, broad beaked head; bony crest/frill and horns",
+      "storyAppearance": {
+        "anatomy": "Large quadrupedal horned/frilled dinosaur, four sturdy limbs and tail, broad beaked head; bony crest/frill and horns",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Compatible cover right-side ceratopsian: ochre-gray pebbled hide, russet broad frill with blunt edge knobs, two long forward brow horns and smaller nose horn as restrained cover-based interpretation. Distinct old notch/scar at upper-left frill tip (art-chosen side). Broad body, no human torso, no extra horns or wings.",
+        "markings": "Large female dinosaur; scarred crest tip, horns, neck, tail, palm, larger than smaller ancestors’ doorways. Does not wear a royal crown; council chair is office role. Dust stripes crest after impact.",
+        "materials": "Dinosaur hide/scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Plain narrow leather shoulder utility strap compatible with cover, no royal regalia or ceremonial staff.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Heavy four-foot stance, head lowered to fit frames; one forefoot can touch authorization plate.",
+        "distinctiveFeatures": "Compatible cover right-side ceratopsian: ochre-gray pebbled hide, russet broad frill with blunt edge knobs, two long forward brow horns and smaller nose horn as restrained cover-based interpretation. Distinct old notch/scar at upper-left frill tip (art-chosen side). Broad body, no human torso, no extra horns or wings."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Large female dinosaur; scarred crest tip, horns, neck, tail, palm, larger than smaller ancestors’ doorways.",
+        "Local non-canon story fact: Does not wear a royal crown; council chair is office role.",
+        "Local non-canon story fact: Dust stripes crest after impact."
+      ],
+      "visualInterpretation": [
+        "Compatible cover right-side ceratopsian: ochre-gray pebbled hide, russet broad frill with blunt edge knobs, two long forward brow horns and smaller nose horn as restrained cover-based interpretation. Distinct old notch/scar at upper-left frill tip (art-chosen side). Broad body, no human torso, no extra horns or wings.",
+        "Plain narrow leather shoulder utility strap compatible with cover, no royal regalia or ceremonial staff.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Compatible cover right-side ceratopsian: ochre-gray pebbled hide, russet broad frill with blunt edge knobs, two long forward brow horns and smaller nose horn as restrained cover-based interpretation. Distinct old notch/scar at upper-left frill tip (art-chosen side). Broad body, no human torso, no extra horns or wings."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:sulekk",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/sulekk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-8e5985fa-28c2-4b08-83a7-a01bc52c94dc.png",
+            "sha256": "e333bc05243b10183d8de265dc45863d6219d9b6e9e3946157c800265896c921",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.625768Z",
+            "prompt": "Create ONE 1536x1024 LANDSCAPE character reference folio on uniform LIGHT WARM IVORY, clearly readable dark serif name and smaller exact title 'The Apes Above'. ONE nonhuman dinosaur identity only. Two large useful complete body views and one smaller complementary view; head/material/hand-or-foot details appropriate to its real anatomy, isolated personal gear. NO environment, location, vignette, furniture, floor, terrain patch, ground shadow, skyline, palette strip or swatches. Do not turn dinosaur into human in a reptile suit: no human torso, breasts, clothing, human hands, or upright human stance. No dragon wings or fire. First reference cover supplies compatible dinosaur shape cues only (it has several DIFFERENT individuals, never combine them); second supplies palette and broad paint, NO setting; third supplies matte heavy oil construction and folio only, never its dragon anatomy, gold head, wings or horns. Canadian Group of Seven-inspired oil: large connected opaque masses, broad purposeful bristle strokes and selective raised knife slabs, quieter passages; fully painted eyes/muzzle/scales as well as body, not glossy CGI, photoreal creature, anime, or uniform beveled chips. Subdued COOL PREDAWN ambient planes with modest muted warm bounce, no high-key studio daylight, theatrical rim or glowing eyes. Strong silhouette and enough ivory gaps, all tails, claws, crest and horns fully uncropped. Every view same body configuration, colors, markings and appendage count. Labels concise, no prose.\nHeading 'Sulekk'. Council chair who sets bounded trial and delegates authority. Large quadrupedal horned/frilled dinosaur, four sturdy limbs and tail, broad beaked head; bony crest/frill and horns. SOURCE/IDENTITY: Compatible cover right-side ceratopsian: ochre-gray pebbled hide, russet broad frill with blunt edge knobs, two long forward brow horns and smaller nose horn as restrained cover-based interpretation. Distinct old notch/scar at upper-left frill tip (art-chosen side). Broad body, no human torso, no extra horns or wings. PERSONAL GEAR: Plain narrow leather shoulder utility strap compatible with cover, no royal regalia or ceremonial staff. POSTURE: Heavy four-foot stance, head lowered to fit frames; one forefoot can touch authorization plate. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. Make scar at upper-left crest clearly visible in front study; leave room around ALL horns. No royal ornaments.",
+            "references": [
+              {
+                "path": "stories/apes-in-orbit/title-image.jpg",
+                "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+                "inspected": true,
+                "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+                "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-eacc0540-af2b-42a4-a1c2-b7c3b8e9aad6.png",
+            "outputSha256": "cbdb8d79b110e83e694c8727495024284d855b37c5fb75f3db1c2f857671defc"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:40:22.8557658Z",
+            "prompt": "Repaint the FIRST image into the strong actual oil medium of SECOND image, while preserving FIRST character's exact dinosaur identity, anatomy, markings, colors, clothing/gear restrictions, full silhouettes and folio arrangement. First candidate is too finely pebbled and realistic from cover contamination. Replace micro-scale outlines, shiny specular eyes and uniformly outlined scales with LARGE CONNECTED OPAQUE PAINT MASSES, broad sweeping bristle planes and selective thick palette-knife impasto. Material remains hide or feathers, but paint describes whole neck, flank and head planes, not each microscopic scale. Painted visible eyes must remain matte small colored strokes, no glass beads or white dots on every surface. Match second reference's physical substantial paint and ivory, NEVER its dragon anatomy, horns, wings, gold palette or identity. No new body parts. Keep source-specific subdued cool predawn gray/blue shadow with restrained warm bounce, no studio spotlight. Light uniform warm ivory ground, readable exact name and 'The Apes Above'. No environmental elements, contact/ground shadows, terrain, palette chips or swatches. Preserve all views as one individual. Remove any digit-count parentheticals and unnecessary role prose; use only short functional labels. Preserve two long brow horns plus short nose horn, old crest-tip notch and simple strap. Make horn surfaces broad matte strokes, not shiny lacquer; no changing count.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-eacc0540-af2b-42a4-a1c2-b7c3b8e9aad6.png",
+                "sha256": "cbdb8d79b110e83e694c8727495024284d855b37c5fb75f3db1c2f857671defc",
+                "inspected": true,
+                "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-8e5985fa-28c2-4b08-83a7-a01bc52c94dc.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/sulekk.png",
+            "outputSha256": "e333bc05243b10183d8de265dc45863d6219d9b6e9e3946157c800265896c921",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.654253+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.654253+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "e333bc05243b10183d8de265dc45863d6219d9b6e9e3946157c800265896c921",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-eacc0540-af2b-42a4-a1c2-b7c3b8e9aad6.png",
+                  "sha256": "cbdb8d79b110e83e694c8727495024284d855b37c5fb75f3db1c2f857671defc",
+                  "inspected": true,
+                  "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+                },
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: large four-legged horned/frilled dinosaur, three horns and upper frill notch, utility strap, complete tails and feet. Broad matte painted masses; no regalia or environment.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "5db1f89c5a05ea4a84a916552970a7c7dd8e65a624c16d016a2b7b164d7435f0"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.099750+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-8e5985fa-28c2-4b08-83a7-a01bc52c94dc.png",
+                "sha256": "e333bc05243b10183d8de265dc45863d6219d9b6e9e3946157c800265896c921",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-50abc531-e6b3-4dc4-a7f5-8092443b372c.png",
+            "outputSha256": "e77f8ebf776d24140a7d2adcb7eb2a2ac222c08030e587731d73f28fe0bdbf34",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.616249+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/sulekk.png"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.619097+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "e77f8ebf776d24140a7d2adcb7eb2a2ac222c08030e587731d73f28fe0bdbf34",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-8e5985fa-28c2-4b08-83a7-a01bc52c94dc.png",
+            "sha256": "e333bc05243b10183d8de265dc45863d6219d9b6e9e3946157c800265896c921",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Two forward brow horns and shorter nose horn, old frill notch and simple strap remain consistent."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "8484b2aa9b2fe8dc0f4f3f42ade2d2005ace82d02d7b0f0d239970488da11c04"
+      },
+      "outputSha256": "e77f8ebf776d24140a7d2adcb7eb2a2ac222c08030e587731d73f28fe0bdbf34",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "brinnt",
+      "name": "Brinnt",
+      "role": "Defense engineer who models fragmentation and maintains the coil and contacts",
+      "naming": {
+        "sourceName": "Brinnt",
+        "sourceRole": "Defense engineer who models fragmentation and maintains the coil and contacts",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The defense engineer had already unrolled a copper mesh",
+          "line": 49,
+          "explanation": "Models available options."
+        },
+        {
+          "quote": "Brinnt pulled the contact free, scraped carbon from it",
+          "line": 343,
+          "explanation": "Makes signal possible."
+        }
+      ],
+      "form": "Low heavy armored quadrupedal dinosaur, four short thick limbs, manipulatory clawed forefeet, broad blunt head and sturdy tail; no wings",
+      "storyAppearance": {
+        "anatomy": "Low heavy armored quadrupedal dinosaur, four short thick limbs, manipulatory clawed forefeet, broad blunt head and sturdy tail; no wings",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Cover-compatible central armored dinosaur: brown-ochre hide, gray-umber back plates, low rows of blunt triangular osteoderms, broad square snout, dark amber eyes. Body armor is living hide and plates, not worn costume. Tail thick tapering without invented weapon club. Four clawed digits chosen for consistency.",
+        "markings": "Defense engineer with plated feet, forefeet, shoulder and tail; source later uses they/their. Inspects cables before stepping, manipulates tools and catches fallen instrument lens. No humanoid armor suit; plates are compatible biological interpretation.",
+        "materials": "Dinosaur hide/scales, claws, biological armor plates",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Portable closed tool case, probe and small contact-scraping hand tool; isolated roll of copper mesh, no control room or machine internals.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Low braced gait and careful forefoot tool grip, never human standing body.",
+        "distinctiveFeatures": "Cover-compatible central armored dinosaur: brown-ochre hide, gray-umber back plates, low rows of blunt triangular osteoderms, broad square snout, dark amber eyes. Body armor is living hide and plates, not worn costume. Tail thick tapering without invented weapon club. Four clawed digits chosen for consistency."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Defense engineer with plated feet, forefeet, shoulder and tail; source later uses they/their.",
+        "Local non-canon story fact: Inspects cables before stepping, manipulates tools and catches fallen instrument lens.",
+        "Local non-canon story fact: No humanoid armor suit; plates are compatible biological interpretation."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible central armored dinosaur: brown-ochre hide, gray-umber back plates, low rows of blunt triangular osteoderms, broad square snout, dark amber eyes. Body armor is living hide and plates, not worn costume. Tail thick tapering without invented weapon club. Four clawed digits chosen for consistency.",
+        "Portable closed tool case, probe and small contact-scraping hand tool; isolated roll of copper mesh, no control room or machine internals.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views.",
+        "Simple leather utility shoulder straps are compatible inspected-cover interpretation, not human clothing or worn body armor."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Cover-compatible central armored dinosaur: brown-ochre hide, gray-umber back plates, low rows of blunt triangular osteoderms, broad square snout, dark amber eyes. Body armor is living hide and plates, not worn costume. Tail thick tapering without invented weapon club. Four clawed digits chosen for consistency."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:brinnt",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/brinnt.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-9ad98585-0766-4c18-a679-04d6d273fb5e.png",
+            "sha256": "62a5320cb27132b3e80abf239c585a958502c2f9d6255d514fcfc6613839fc41",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6260646Z",
+            "prompt": "Create ONE 1536x1024 LANDSCAPE character reference folio on uniform LIGHT WARM IVORY, clearly readable dark serif name and smaller exact title 'The Apes Above'. ONE nonhuman dinosaur identity only. Two large useful complete body views and one smaller complementary view; head/material/hand-or-foot details appropriate to its real anatomy, isolated personal gear. NO environment, location, vignette, furniture, floor, terrain patch, ground shadow, skyline, palette strip or swatches. Do not turn dinosaur into human in a reptile suit: no human torso, breasts, clothing, human hands, or upright human stance. No dragon wings or fire. First reference cover supplies compatible dinosaur shape cues only (it has several DIFFERENT individuals, never combine them); second supplies palette and broad paint, NO setting; third supplies matte heavy oil construction and folio only, never its dragon anatomy, gold head, wings or horns. Canadian Group of Seven-inspired oil: large connected opaque masses, broad purposeful bristle strokes and selective raised knife slabs, quieter passages; fully painted eyes/muzzle/scales as well as body, not glossy CGI, photoreal creature, anime, or uniform beveled chips. Subdued COOL PREDAWN ambient planes with modest muted warm bounce, no high-key studio daylight, theatrical rim or glowing eyes. Strong silhouette and enough ivory gaps, all tails, claws, crest and horns fully uncropped. Every view same body configuration, colors, markings and appendage count. Labels concise, no prose.\nHeading 'Brinnt'. Defense engineer who models fragmentation and maintains the coil and contacts. Low heavy armored quadrupedal dinosaur, four short thick limbs, manipulatory clawed forefeet, broad blunt head and sturdy tail; no wings. SOURCE/IDENTITY: Cover-compatible central armored dinosaur: brown-ochre hide, gray-umber back plates, low rows of blunt triangular osteoderms, broad square snout, dark amber eyes. Body armor is living hide and plates, not worn costume. Tail thick tapering without invented weapon club. Four clawed digits chosen for consistency. PERSONAL GEAR: Portable closed tool case, probe and small contact-scraping hand tool; isolated roll of copper mesh, no control room or machine internals. POSTURE: Low braced gait and careful forefoot tool grip, never human standing body. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. Low ankylosaur-like plated form from cover center, not horned triceratops on right. Four normal legs, no extra tool arms.",
+            "references": [
+              {
+                "path": "stories/apes-in-orbit/title-image.jpg",
+                "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+                "inspected": true,
+                "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+                "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-91e37356-b67e-4623-947c-518947244216.png",
+            "outputSha256": "6d3c16f3bd933947e6ce23868376a7738cd58a039c033154fd4b40822f5af9fa"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:40:22.8641768Z",
+            "prompt": "Repaint the FIRST image into the strong actual oil medium of SECOND image, while preserving FIRST character's exact dinosaur identity, anatomy, markings, colors, clothing/gear restrictions, full silhouettes and folio arrangement. First candidate is too finely pebbled and realistic from cover contamination. Replace micro-scale outlines, shiny specular eyes and uniformly outlined scales with LARGE CONNECTED OPAQUE PAINT MASSES, broad sweeping bristle planes and selective thick palette-knife impasto. Material remains hide or feathers, but paint describes whole neck, flank and head planes, not each microscopic scale. Painted visible eyes must remain matte small colored strokes, no glass beads or white dots on every surface. Match second reference's physical substantial paint and ivory, NEVER its dragon anatomy, horns, wings, gold palette or identity. No new body parts. Keep source-specific subdued cool predawn gray/blue shadow with restrained warm bounce, no studio spotlight. Light uniform warm ivory ground, readable exact name and 'The Apes Above'. No environmental elements, contact/ground shadows, terrain, palette chips or swatches. Preserve all views as one individual. Remove any digit-count parentheticals and unnecessary role prose; use only short functional labels. Preserve four short thick limbs and biological armored back. Correct isolated Probe to a SIMPLE SLENDER METAL PROBE WITH SMALL PLAIN TIP, not a mace or spiked ball. Correct Contact Scraper to a SMALL FLAT-ENDED SCRAPING HAND TOOL, not an axe. Keep closed tool case and copper mesh.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-91e37356-b67e-4623-947c-518947244216.png",
+                "sha256": "6d3c16f3bd933947e6ce23868376a7738cd58a039c033154fd4b40822f5af9fa",
+                "inspected": true,
+                "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-9ad98585-0766-4c18-a679-04d6d273fb5e.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/brinnt.png",
+            "outputSha256": "62a5320cb27132b3e80abf239c585a958502c2f9d6255d514fcfc6613839fc41",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.688454+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.688454+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "62a5320cb27132b3e80abf239c585a958502c2f9d6255d514fcfc6613839fc41",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-91e37356-b67e-4623-947c-518947244216.png",
+                  "sha256": "6d3c16f3bd933947e6ce23868376a7738cd58a039c033154fd4b40822f5af9fa",
+                  "inspected": true,
+                  "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+                },
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: low four-legged armored body, thick tapering non-club tail, consistent utility straps; closed tool case, plain probe, scraper and copper mesh. Repaint resolved fine scales and weapon-like tool silhouettes.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "ac68d4997d21af6d05bf2bdacf579499944aa28267e11f054dd2c4e60e8f4fb8"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.111665+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-9ad98585-0766-4c18-a679-04d6d273fb5e.png",
+                "sha256": "62a5320cb27132b3e80abf239c585a958502c2f9d6255d514fcfc6613839fc41",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-b994f961-6717-4d8e-8dac-f0ba451b0eaf.png",
+            "outputSha256": "52cec44205c001e51e042eb5aedd3fd6047c879b2af7d21b78be86050d1106a3",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.632673+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/brinnt.png"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.646109+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "52cec44205c001e51e042eb5aedd3fd6047c879b2af7d21b78be86050d1106a3",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-9ad98585-0766-4c18-a679-04d6d273fb5e.png",
+            "sha256": "62a5320cb27132b3e80abf239c585a958502c2f9d6255d514fcfc6613839fc41",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Biological dorsal plates, four short walking limbs, thick tail, closed case, slim probe, flat scraper and copper mesh retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "9672e86fefde0e986fc03d6e05872b486ab9fd10a8baeadb4ad62e3d1563fe1d"
+      },
+      "outputSha256": "52cec44205c001e51e042eb5aedd3fd6047c879b2af7d21b78be86050d1106a3",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "oxaul",
+      "name": "Oxaul",
+      "role": "Orbital observer who designs beacon return and protects limits of inference",
+      "naming": {
+        "sourceName": "Oxaul",
+        "sourceRole": "Orbital observer who designs beacon return and protects limits of inference",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Oxaul’s throat feathers flattened.",
+          "line": 111,
+          "explanation": "Distinctive feathered observer."
+        },
+        {
+          "quote": "Three portable beacons can echo this pattern",
+          "line": 189,
+          "explanation": "Originates alternative to fragmentation."
+        }
+      ],
+      "form": "Slender feathered bipedal dinosaur with two digitigrade hind legs, two short dexterous forelimbs, long flexible counterbalance tail, narrow long head; no wings",
+      "storyAppearance": {
+        "anatomy": "Slender feathered bipedal dinosaur with two digitigrade hind legs, two short dexterous forelimbs, long flexible counterbalance tail, narrow long head; no wings",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Compatible cover feathered left figure: deep teal/blue-green feathers over neck and back, cream throat feathers, olive scaled narrow muzzle, small warm amber ordinary eyes. Long low body angle, not upright human torso; tail curves for awkward coiled resting posture. Three prominent grasping foredigits with a smaller opposable claw, and three forward hind digits with a small rear dewclaw, are art interpretations; no human hands.",
+        "markings": "Male dinosaur with narrow head, throat feathers, hands/fingers, wrist, chest, chin and flexible coiling posture. Uses both hands and chin to align transparent trace sheets. No wings, flight or clothing specified.",
+        "materials": "Feathers and scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Three transparent trace sheets and simple dark handheld data slab, no invented inner engineering.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Climbs, crouches and curls awkwardly, foreclaws delicate on trace sheets; head craned forward.",
+        "distinctiveFeatures": "Compatible cover feathered left figure: deep teal/blue-green feathers over neck and back, cream throat feathers, olive scaled narrow muzzle, small warm amber ordinary eyes. Long low body angle, not upright human torso; tail curves for awkward coiled resting posture. Three prominent grasping foredigits with a smaller opposable claw, and three forward hind digits with a small rear dewclaw, are art interpretations; no human hands."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male dinosaur with narrow head, throat feathers, hands/fingers, wrist, chest, chin and flexible coiling posture.",
+        "Local non-canon story fact: Uses both hands and chin to align transparent trace sheets.",
+        "Local non-canon story fact: No wings, flight or clothing specified."
+      ],
+      "visualInterpretation": [
+        "Compatible cover feathered left figure: deep teal/blue-green feathers over neck and back, cream throat feathers, olive scaled narrow muzzle, small warm amber ordinary eyes. Long low body angle, not upright human torso; tail curves for awkward coiled resting posture. Three prominent grasping foredigits with a smaller opposable claw, and three forward hind digits with a small rear dewclaw, are art interpretations; no human hands.",
+        "Three transparent trace sheets and simple dark handheld data slab, no invented inner engineering.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views.",
+        "Actual selected art uses three long foredigits plus a smaller opposable claw; hindfeet have three forward digits plus a small rear dewclaw. Exact digit counts are art interpretation, not source fact."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Compatible cover feathered left figure: deep teal/blue-green feathers over neck and back, cream throat feathers, olive scaled narrow muzzle, small warm amber ordinary eyes. Long low body angle, not upright human torso; tail curves for awkward coiled resting posture. Three prominent grasping foredigits with a smaller opposable claw, and three forward hind digits with a small rear dewclaw, are art interpretations; no human hands."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:oxaul",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/oxaul.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-66687180-f023-4dac-b27e-c400b95088ef.png",
+            "sha256": "ce83812eaacda664b43b52aef7bc2f0dcab6fe8c9f582947a1202e003c2db975",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6263425Z",
+            "prompt": "Create ONE 1536x1024 LANDSCAPE character reference folio on uniform LIGHT WARM IVORY, clearly readable dark serif name and smaller exact title 'The Apes Above'. ONE nonhuman dinosaur identity only. Two large useful complete body views and one smaller complementary view; head/material/hand-or-foot details appropriate to its real anatomy, isolated personal gear. NO environment, location, vignette, furniture, floor, terrain patch, ground shadow, skyline, palette strip or swatches. Do not turn dinosaur into human in a reptile suit: no human torso, breasts, clothing, human hands, or upright human stance. No dragon wings or fire. First reference cover supplies compatible dinosaur shape cues only (it has several DIFFERENT individuals, never combine them); second supplies palette and broad paint, NO setting; third supplies matte heavy oil construction and folio only, never its dragon anatomy, gold head, wings or horns. Canadian Group of Seven-inspired oil: large connected opaque masses, broad purposeful bristle strokes and selective raised knife slabs, quieter passages; fully painted eyes/muzzle/scales as well as body, not glossy CGI, photoreal creature, anime, or uniform beveled chips. Subdued COOL PREDAWN ambient planes with modest muted warm bounce, no high-key studio daylight, theatrical rim or glowing eyes. Strong silhouette and enough ivory gaps, all tails, claws, crest and horns fully uncropped. Every view same body configuration, colors, markings and appendage count. Labels concise, no prose.\nHeading 'Oxaul'. Orbital observer who designs beacon return and protects limits of inference. Slender feathered bipedal dinosaur with two digitigrade hind legs, two short dexterous forelimbs, long flexible counterbalance tail, narrow long head; no wings. SOURCE/IDENTITY: Compatible cover feathered left figure: deep teal/blue-green feathers over neck and back, cream throat feathers, olive scaled narrow muzzle, small warm amber ordinary eyes. Long low body angle, not upright human torso; tail curves for awkward coiled resting posture. Three slender clawed foredigits and three forward hind digits chosen consistently, no human hands. PERSONAL GEAR: Three transparent trace sheets and simple dark handheld data slab, no invented inner engineering. POSTURE: Climbs, crouches and curls awkwardly, foreclaws delicate on trace sheets; head craned forward. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. Use feathered narrow-headed cover LEFT figure, but complete long counterbalance tail and digitigrade hind legs. Forelimbs are clawed feathered arms, NOT flight wings. Three thin trace sheets can be one isolated overlapping gear detail.",
+            "references": [
+              {
+                "path": "stories/apes-in-orbit/title-image.jpg",
+                "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+                "inspected": true,
+                "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+                "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-e9a82e07-a09f-4d20-8f7b-d5ebd1d5b8d9.png",
+            "outputSha256": "b343edf71b6a68acba564b9f648e0bb75b9ecc44b8485b8e9b918c1ce3b649be"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:40:22.8715486Z",
+            "prompt": "Repaint the FIRST image into the strong actual oil medium of SECOND image, while preserving FIRST character's exact dinosaur identity, anatomy, markings, colors, clothing/gear restrictions, full silhouettes and folio arrangement. First candidate is too finely pebbled and realistic from cover contamination. Replace micro-scale outlines, shiny specular eyes and uniformly outlined scales with LARGE CONNECTED OPAQUE PAINT MASSES, broad sweeping bristle planes and selective thick palette-knife impasto. Material remains hide or feathers, but paint describes whole neck, flank and head planes, not each microscopic scale. Painted visible eyes must remain matte small colored strokes, no glass beads or white dots on every surface. Match second reference's physical substantial paint and ivory, NEVER its dragon anatomy, horns, wings, gold palette or identity. No new body parts. Keep source-specific subdued cool predawn gray/blue shadow with restrained warm bounce, no studio spotlight. Light uniform warm ivory ground, readable exact name and 'The Apes Above'. No environmental elements, contact/ground shadows, terrain, palette chips or swatches. Preserve all views as one individual. Remove any digit-count parentheticals and unnecessary role prose; use only short functional labels. Preserve teal feathers and narrow head. Three LONG grasping foredigits plus a SMALLER OPPOSABLE CLAW are a coherent four-digit hand; use that consistently in close hand detail and full views, not human hand. Hindfoot has three forward digits plus small rear dewclaw. Remove misleading '(3 digits)' labels, use 'Foreclaw' and 'Hind foot'. Remove the sentence under story title, keep just name/title. Eye study must be a painted MATTE amber eye, not glossy glass. Keep trace sheets as faint simple lines, no stars, planets or rockets drawn on them.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-e9a82e07-a09f-4d20-8f7b-d5ebd1d5b8d9.png",
+                "sha256": "b343edf71b6a68acba564b9f648e0bb75b9ecc44b8485b8e9b918c1ce3b649be",
+                "inspected": true,
+                "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-66687180-f023-4dac-b27e-c400b95088ef.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/oxaul.png",
+            "outputSha256": "ce83812eaacda664b43b52aef7bc2f0dcab6fe8c9f582947a1202e003c2db975",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.709536+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.709536+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "ce83812eaacda664b43b52aef7bc2f0dcab6fe8c9f582947a1202e003c2db975",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-e9a82e07-a09f-4d20-8f7b-d5ebd1d5b8d9.png",
+                  "sha256": "b343edf71b6a68acba564b9f648e0bb75b9ecc44b8485b8e9b918c1ce3b649be",
+                  "inspected": true,
+                  "role": "Actual inspected identity target; repaint overly fine cover-driven surface in broad oil"
+                },
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: one narrow-headed teal feathered biped with two forelimbs, two hindlegs and full counterbalance tail; no flight wings or human body. Three transparent trace sheets and dark slab, broad painted feathers, no cosmic illustration.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "f2a801e072a31ee252b8aa2e778f1ed5074fe263c1f174b47aeb8a9cff78eb14"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.122119+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-66687180-f023-4dac-b27e-c400b95088ef.png",
+                "sha256": "ce83812eaacda664b43b52aef7bc2f0dcab6fe8c9f582947a1202e003c2db975",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a2b773b0-0190-4c39-a74e-ac32b2dc0458.png",
+            "outputSha256": "0d9c8552b4f3f8fb4fd54358a83857cf1b17bcb5da901d0b934597d509235eb1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.659537+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/oxaul.png"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.667250+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "0d9c8552b4f3f8fb4fd54358a83857cf1b17bcb5da901d0b934597d509235eb1",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-66687180-f023-4dac-b27e-c400b95088ef.png",
+            "sha256": "ce83812eaacda664b43b52aef7bc2f0dcab6fe8c9f582947a1202e003c2db975",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Same feathered narrow-head identity, teal/rust local colors, nonhuman grasping foredigits and trace sheets retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1adb4c622f2da04d52a8e3a37bbe7058e0ac2a8080999c2d61bc2c8e13263a2b"
+      },
+      "outputSha256": "0d9c8552b4f3f8fb4fd54358a83857cf1b17bcb5da901d0b934597d509235eb1",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "daskra",
+      "name": "Daskra",
+      "role": "Water steward coordinating emergency carts and opposing unsafe supply disruption",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "The water steward",
+        "provenance": "Art-only personal name assigned under explicit user instruction; searched NAMES.md, universe characters and all current/bundle finished prose/reviews without collision. Does not rename prose or establish canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The steward slapped the call plate with her palm.",
+          "line": 39,
+          "explanation": "Moves reserves during crisis."
+        },
+        {
+          "quote": "A cart axle. There’s a broken one at the west loop.",
+          "line": 299,
+          "explanation": "Supplies practical beacon fix."
+        },
+        {
+          "quote": "I object",
+          "line": 487,
+          "explanation": "Maintains independent dissent."
+        }
+      ],
+      "form": "Medium quadrupedal beaked dinosaur with four limbs, manipulatory forefeet, long sturdy tail, small low crest; no human body",
+      "storyAppearance": {
+        "anatomy": "Medium quadrupedal beaked dinosaur with four limbs, manipulatory forefeet, long sturdy tail, small low crest; no human body",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Restrained new design: compact duck-billed head with low backward slate crest, deep green-gray hide, pale blue-gray throat and small copper-brown eye. Smooth folded skin rather than Brinnt’s armor. No horns, hair, wings or human dress.",
+        "markings": "Female dinosaur with palm, ankle, tail and dust-covered body. Coordinates water carts and identifies replacement axle; no personal name or detailed species in prose.",
+        "materials": "Dinosaur hide/scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Small water-cart tally slate and simple call handset as role-compatible visual interpretation; avoid inventing machinery.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Firm four-foot stance, one forefoot lifted for a deliberate pointing/counting gesture.",
+        "distinctiveFeatures": "Restrained new design: compact duck-billed head with low backward slate crest, deep green-gray hide, pale blue-gray throat and small copper-brown eye. Smooth folded skin rather than Brinnt’s armor. No horns, hair, wings or human dress."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Female dinosaur with palm, ankle, tail and dust-covered body.",
+        "Local non-canon story fact: Coordinates water carts and identifies replacement axle; no personal name or detailed species in prose."
+      ],
+      "visualInterpretation": [
+        "Restrained new design: compact duck-billed head with low backward slate crest, deep green-gray hide, pale blue-gray throat and small copper-brown eye. Smooth folded skin rather than Brinnt’s armor. No horns, hair, wings or human dress.",
+        "Small water-cart tally slate and simple call handset as role-compatible visual interpretation; avoid inventing machinery.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Restrained new design: compact duck-billed head with low backward slate crest, deep green-gray hide, pale blue-gray throat and small copper-brown eye. Smooth folded skin rather than Brinnt’s armor. No horns, hair, wings or human dress."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:daskra",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/daskra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-d3d1824b-19ef-421c-8563-b78988a45809.png",
+            "sha256": "51b77543f49d2284be0196a8893fe9db13d5ba71d39b61354eff4e68a55175d1",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6266149Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only folio on uniform LIGHT WARM IVORY with generous blank separation and exact readable black personal name and smaller story title 'The Apes Above'. ONE dinosaur identity, anatomically NONHUMAN. Two large useful complete body views (lateral and rear three-quarter) plus smaller front view, head and distinctive feature studies, limited personal gear. All full tails and crests unclipped. NO locations, floor, terrain patches, contact shadows, scenes, palette strips or swatches. FIRST reference is actual matte thick oil construction and ivory format only: transfer NO dragon wings, horns, anatomy, gold colors or identity. SECOND is same-story predawn cool natural ambient palette and broad mass structure only: no landscape transfer. Paint directly in broad interlocking opaque slabs and long directional bristle strokes from the start. Heavy visible paint across EVERY surface including muzzle and eyes, not a realistic dinosaur with texture applied. No fine reptile micro-scales, no glossy eye highlights, no CGI or plastic, no uniform bevel chips. Use broad connected values, selective substantial impasto and quiet join passages. Subdued cool slate shadows with limited muted warm bounce; no bright studio light or theatrical orange rim. Body remains true dinosaur shape, never human torso, breasts, human hands or human clothing. Short functional labels only, no narrative paragraph.\nHeading 'Daskra'. Water steward coordinating emergency carts and opposing unsafe supply disruption. Medium quadrupedal beaked dinosaur with four limbs, manipulatory forefeet, long sturdy tail, small low crest; no human body. SOURCE/IDENTITY: Restrained new design: compact duck-billed head with low backward slate crest, deep green-gray hide, pale blue-gray throat and small copper-brown eye. Smooth folded skin rather than Brinnt’s armor. No horns, hair, wings or human dress. PERSONAL GEAR: Small water-cart tally slate and simple call handset as role-compatible visual interpretation; avoid inventing machinery. POSTURE: Firm four-foot stance, one forefoot lifted for a deliberate pointing/counting gesture. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. No exaggerated gender markers. No human costume. ",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-d3d1824b-19ef-421c-8563-b78988a45809.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/daskra.png",
+            "outputSha256": "51b77543f49d2284be0196a8893fe9db13d5ba71d39b61354eff4e68a55175d1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.729174+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.729174+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "51b77543f49d2284be0196a8893fe9db13d5ba71d39b61354eff4e68a55175d1",
+              "references": [
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                },
+                {
+                  "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                  "role": "Same-story dawn light and collection paint only",
+                  "inspected": true,
+                  "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                  "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: one olive/slate crested beaked quadruped with distinct pale throat; three views and manipulative forefoot study. Tally slate and simple call implement isolated. Four-limb anatomy and restrained paint preserved.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "31c31241b35de3bb9be4ae769e0585410bfc9b2df0038850d44f18f7683249f4"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.131914+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-d3d1824b-19ef-421c-8563-b78988a45809.png",
+                "sha256": "51b77543f49d2284be0196a8893fe9db13d5ba71d39b61354eff4e68a55175d1",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-62e77341-8f44-4922-83c8-118f21c0dfd5.png",
+            "outputSha256": "f969626a8a8e5ac0250e17c5506951484c4eeb0a030511af60c84c3815041e68",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.680977+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/daskra.png"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.688974+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "f969626a8a8e5ac0250e17c5506951484c4eeb0a030511af60c84c3815041e68",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-d3d1824b-19ef-421c-8563-b78988a45809.png",
+            "sha256": "51b77543f49d2284be0196a8893fe9db13d5ba71d39b61354eff4e68a55175d1",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Same low crest/beaked identity, green-gray hide, pale throat, four walking limbs, tally slate and call handset retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "77a00645f0725869304d51bae6bce727569c374a6805e3794b861fbae6f12e3d"
+      },
+      "outputSha256": "f969626a8a8e5ac0250e17c5506951484c4eeb0a030511af60c84c3815041e68",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "rulven",
+      "name": "Rulven",
+      "role": "Road councillor challenging trial and managing evacuation access",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "The road councillor",
+        "provenance": "Art-only personal name assigned under explicit user instruction; searched NAMES.md, universe characters and all current/bundle finished prose/reviews without collision. Does not rename prose or establish canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "His tail displaced a stool",
+          "line": 23,
+          "explanation": "Introduced as independent dissenting voice."
+        },
+        {
+          "quote": "keep one ramp open until the last possible minute",
+          "line": 325,
+          "explanation": "Specific evacuation responsibility."
+        },
+        {
+          "quote": "wanted full discharge on the next descent",
+          "line": 461,
+          "explanation": "Sustained policy opposition."
+        }
+      ],
+      "form": "Long-necked heavy quadrupedal dinosaur, small blunt head, four pillar legs, long tapering tail; no wings",
+      "storyAppearance": {
+        "anatomy": "Long-necked heavy quadrupedal dinosaur, small blunt head, four pillar legs, long tapering tail; no wings",
+        "lifeStage": "Mature adult, exact age unspecified",
+        "proportions": "Compatible background cover long-necked council forms used as restrained role design: warm gray-brown hide, cream lower neck, darker umber short dorsal ridge. Tall arched neck, blunt muzzle, ordinary amber eyes. No antlers, feathers, human arms or upright human body.",
+        "markings": "Male dinosaur with tail, leaning posture; gray with quarry dust after impact. Road access and draft/egg-sledge conflict sustain his opposition; no personal name/species detail given.",
+        "materials": "Dinosaur hide/scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "Small folded route strip clipped in simple chest utility strap; no stool, road, cart or scene.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Broad planted gait and expressive leaning long neck; tail curves behind without cropping.",
+        "distinctiveFeatures": "Compatible background cover long-necked council forms used as restrained role design: warm gray-brown hide, cream lower neck, darker umber short dorsal ridge. Tall arched neck, blunt muzzle, ordinary amber eyes. No antlers, feathers, human arms or upright human body."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male dinosaur with tail, leaning posture; gray with quarry dust after impact.",
+        "Local non-canon story fact: Road access and draft/egg-sledge conflict sustain his opposition; no personal name/species detail given."
+      ],
+      "visualInterpretation": [
+        "Compatible background cover long-necked council forms used as restrained role design: warm gray-brown hide, cream lower neck, darker umber short dorsal ridge. Tall arched neck, blunt muzzle, ordinary amber eyes. No antlers, feathers, human arms or upright human body.",
+        "Small folded route strip clipped in simple chest utility strap; no stool, road, cart or scene.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Compatible background cover long-necked council forms used as restrained role design: warm gray-brown hide, cream lower neck, darker umber short dorsal ridge. Tall arched neck, blunt muzzle, ordinary amber eyes. No antlers, feathers, human arms or upright human body."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        },
+        {
+          "name": "Optional route carrier",
+          "description": "The front study alone wears the removable chest route-strip carrier; lateral and rear studies show unencumbered anatomy. No source claim of continuous wear."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:rulven",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/rulven.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-271440b7-dc59-4dff-8c5d-2776c20df772.png",
+            "sha256": "b8ea98ff94f72647e22dc790a76a64765e18c621296b1521d90deee30fbde68e",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6268908Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only folio on uniform LIGHT WARM IVORY with generous blank separation and exact readable black personal name and smaller story title 'The Apes Above'. ONE dinosaur identity, anatomically NONHUMAN. Two large useful complete body views (lateral and rear three-quarter) plus smaller front view, head and distinctive feature studies, limited personal gear. All full tails and crests unclipped. NO locations, floor, terrain patches, contact shadows, scenes, palette strips or swatches. FIRST reference is actual matte thick oil construction and ivory format only: transfer NO dragon wings, horns, anatomy, gold colors or identity. SECOND is same-story predawn cool natural ambient palette and broad mass structure only: no landscape transfer. Paint directly in broad interlocking opaque slabs and long directional bristle strokes from the start. Heavy visible paint across EVERY surface including muzzle and eyes, not a realistic dinosaur with texture applied. No fine reptile micro-scales, no glossy eye highlights, no CGI or plastic, no uniform bevel chips. Use broad connected values, selective substantial impasto and quiet join passages. Subdued cool slate shadows with limited muted warm bounce; no bright studio light or theatrical orange rim. Body remains true dinosaur shape, never human torso, breasts, human hands or human clothing. Short functional labels only, no narrative paragraph.\nHeading 'Rulven'. Road councillor challenging trial and managing evacuation access. Long-necked heavy quadrupedal dinosaur, small blunt head, four pillar legs, long tapering tail; no wings. SOURCE/IDENTITY: Compatible background cover long-necked council forms used as restrained role design: warm gray-brown hide, cream lower neck, darker umber short dorsal ridge. Tall arched neck, blunt muzzle, ordinary amber eyes. No antlers, feathers, human arms or upright human body. PERSONAL GEAR: Small folded route strip clipped in simple chest utility strap; no stool, road, cart or scene. POSTURE: Broad planted gait and expressive leaning long neck; tail curves behind without cropping. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. No exaggerated gender markers. No human costume. ",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-271440b7-dc59-4dff-8c5d-2776c20df772.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/rulven.png",
+            "outputSha256": "b8ea98ff94f72647e22dc790a76a64765e18c621296b1521d90deee30fbde68e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.744101+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.744101+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "b8ea98ff94f72647e22dc790a76a64765e18c621296b1521d90deee30fbde68e",
+              "references": [
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                },
+                {
+                  "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                  "role": "Same-story dawn light and collection paint only",
+                  "inspected": true,
+                  "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                  "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: one long-necked gray-brown quadruped with four pillar legs and full tapering tail. Lateral/rear unencumbered form studies; front study shows optional route-strip carrier. Broad hide paint and plain ivory.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "bb8debd4c4bba0ad7ad89ab897bbeef026e0d0d4f2cbe6d54aca039cd6bab902"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.144523+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-271440b7-dc59-4dff-8c5d-2776c20df772.png",
+                "sha256": "b8ea98ff94f72647e22dc790a76a64765e18c621296b1521d90deee30fbde68e",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-0ddc0c23-57ce-4fe1-835b-fa30a1bdde37.png",
+            "outputSha256": "10e158f5999da22423ea677da75e0879fa082f99a2ef5005ce27a278df486a0f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.701406+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/rulven.png"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.703054+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "10e158f5999da22423ea677da75e0879fa082f99a2ef5005ce27a278df486a0f",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-271440b7-dc59-4dff-8c5d-2776c20df772.png",
+            "sha256": "b8ea98ff94f72647e22dc790a76a64765e18c621296b1521d90deee30fbde68e",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Same long-necked quadruped proportions, long complete tail, pale lower neck and folded route-strip strap retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "67d5a5627defbda1d2c632e376a0eb98e575b118197cafc92b927cc116b951d4"
+      },
+      "outputSha256": "10e158f5999da22423ea677da75e0879fa082f99a2ef5005ce27a278df486a0f",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    },
+    {
+      "id": "vekrit",
+      "name": "Vekrit",
+      "role": "Injured hatchery messenger linking council choices to people and final recovery work",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "The hatchery messenger",
+        "provenance": "Art-only personal name assigned under explicit user instruction; searched NAMES.md, universe characters and all current/bundle finished prose/reviews without collision. Does not rename prose or establish canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "one forelimb strapped to his chest",
+          "line": 29,
+          "explanation": "Recurrent injured messenger’s defining state."
+        },
+        {
+          "quote": "You can count",
+          "line": 509,
+          "explanation": "Final beat redirects injured worker to essential recovery role."
+        }
+      ],
+      "form": "Lean bipedal small dinosaur, two digitigrade hind legs, two clawed forelimbs, long balancing tail, short narrow snout; no wings",
+      "storyAppearance": {
+        "anatomy": "Lean bipedal small dinosaur, two digitigrade hind legs, two clawed forelimbs, long balancing tail, short narrow snout; no wings",
+        "lifeStage": "Young working adult interpretation",
+        "proportions": "Young adult rust-brown slender dinosaur with charcoal dorsal stripe and cream chin; matte small scales, no feathers. Plaster-white dust on snout. LEFT forelimb fixed in plain broad sling across chest, right foreclaw free, chosen art side consistent. No human chest/shoulders or clothing.",
+        "markings": "Male dinosaur with snout whitened by plaster; one forelimb strapped to chest throughout narrative. Squeezes through doors sideways, reports injured and damage, later given crew board. Injury side, species, age and colors unspecified.",
+        "materials": "Dinosaur hide/scales, claws",
+        "clothing": "No source-supported human clothing",
+        "equipment": "One plain cloth forelimb sling and small crew board held by free right claw; no roof beam or scenario.",
+        "scale": "Relative scale only; no exact source measurements. Council adults of diverse sizes, Sulekk especially large.",
+        "movement": "Alert forward-leaning two-legged stance, protected injured arm, full long tail visible.",
+        "distinctiveFeatures": "Young adult rust-brown slender dinosaur with charcoal dorsal stripe and cream chin; matte small scales, no feathers. Plaster-white dust on snout. LEFT forelimb fixed in plain broad sling across chest, right foreclaw free, chosen art side consistent. No human chest/shoulders or clothing."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male dinosaur with snout whitened by plaster; one forelimb strapped to chest throughout narrative.",
+        "Local non-canon story fact: Squeezes through doors sideways, reports injured and damage, later given crew board.",
+        "Local non-canon story fact: Injury side, species, age and colors unspecified."
+      ],
+      "visualInterpretation": [
+        "Young adult rust-brown slender dinosaur with charcoal dorsal stripe and cream chin; matte small scales, no feathers. Plaster-white dust on snout. LEFT forelimb fixed in plain broad sling across chest, right foreclaw free, chosen art side consistent. No human chest/shoulders or clothing.",
+        "One plain cloth forelimb sling and small crew board held by free right claw; no roof beam or scenario.",
+        "Colors, exact dinosaur species-like forms, digit counts and art-only unnamed-character names are interpretations, not shared canon. No borrowed human proportions.",
+        "Subdued cool predawn light with limited warm reflected planes; same anatomy and palette throughout isolated views."
+      ],
+      "states": [
+        {
+          "name": "Council crisis",
+          "description": "Young adult rust-brown slender dinosaur with charcoal dorsal stripe and cream chin; matte small scales, no feathers. Plaster-white dust on snout. LEFT forelimb fixed in plain broad sling across chest, right foreclaw free, chosen art side consistent. No human chest/shoulders or clothing."
+        },
+        {
+          "name": "After impact",
+          "description": "Same individual with light gray quarry dust; no new mutation or outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "apes-in-orbit:vekrit",
+        "links": [],
+        "evidence": "No matching universe entry; source-specific identity, no cross-story recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/apes-in-orbit/title-image.jpg",
+          "role": "Compatible dinosaur anatomy and broad identity cues, no cover rendering",
+          "inspected": true,
+          "notes": "Inspected diverse nonhuman council: feathered narrow-headed dinosaur at left, heavy armored dinosaur foreground, horned/frilled dinosaur at right, long-necked forms behind. No exact name labels; assignments explicitly interpretive.",
+          "sha256": "af27ac72af866c47af80e1dcdeeaa504c36ab7b23d60832aab3015878433d4bc"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
+          "role": "Same-story muted gold/slate masses and paint rhythm only",
+          "inspected": true,
+          "notes": "Inspected amber light and cool slate oil planes; architecture/map/scenery excluded.",
+          "sha256": "4c8cb67f5e6937fb1809ead4c7cb3a86fe43dc2ce7d08e4eec58874be9c2ce60"
+        },
+        {
+          "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+          "role": "Same-story dawn light and collection paint only",
+          "inspected": true,
+          "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+          "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+          "inspected": true,
+          "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        }
+      ],
+      "output": "stories/apes-in-orbit/art/characters/vekrit.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-7c8d6ba2-b43b-4836-9e6c-4fcf42b58c8a.png",
+            "sha256": "af94482a38a750bdf5ff8851e4563323d195ccf0637bf0486c51d2087a3242a0",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:31:11.6271828Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only folio on uniform LIGHT WARM IVORY with generous blank separation and exact readable black personal name and smaller story title 'The Apes Above'. ONE dinosaur identity, anatomically NONHUMAN. Two large useful complete body views (lateral and rear three-quarter) plus smaller front view, head and distinctive feature studies, limited personal gear. All full tails and crests unclipped. NO locations, floor, terrain patches, contact shadows, scenes, palette strips or swatches. FIRST reference is actual matte thick oil construction and ivory format only: transfer NO dragon wings, horns, anatomy, gold colors or identity. SECOND is same-story predawn cool natural ambient palette and broad mass structure only: no landscape transfer. Paint directly in broad interlocking opaque slabs and long directional bristle strokes from the start. Heavy visible paint across EVERY surface including muzzle and eyes, not a realistic dinosaur with texture applied. No fine reptile micro-scales, no glossy eye highlights, no CGI or plastic, no uniform bevel chips. Use broad connected values, selective substantial impasto and quiet join passages. Subdued cool slate shadows with limited muted warm bounce; no bright studio light or theatrical orange rim. Body remains true dinosaur shape, never human torso, breasts, human hands or human clothing. Short functional labels only, no narrative paragraph.\nHeading 'Vekrit'. Injured hatchery messenger linking council choices to people and final recovery work. Lean bipedal small dinosaur, two digitigrade hind legs, two clawed forelimbs, long balancing tail, short narrow snout; no wings. SOURCE/IDENTITY: Young adult rust-brown slender dinosaur with charcoal dorsal stripe and cream chin; matte small scales, no feathers. Plaster-white dust on snout. LEFT forelimb fixed in plain broad sling across chest, right foreclaw free, chosen art side consistent. No human chest/shoulders or clothing. PERSONAL GEAR: One plain cloth forelimb sling and small crew board held by free right claw; no roof beam or scenario. POSTURE: Alert forward-leaning two-legged stance, protected injured arm, full long tail visible. Two main views are full lateral and rear three-quarter; smaller front three-quarter clarifies head/chest and appendages. Lower details show same head expression and distinctive physical feature in source, never a second individual. LEFT injured forelimb stays fixed against chest in ALL three views. In front, sling covers character left (viewer RIGHT); never switch sides. Plaster-white snout dust; same face under dust.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                "inspected": true,
+                "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "role": "Same-story dawn light and collection paint only",
+                "inspected": true,
+                "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7c8d6ba2-b43b-4836-9e6c-4fcf42b58c8a.png",
+            "savedPath": "stories/apes-in-orbit/art/characters/vekrit.png",
+            "outputSha256": "af94482a38a750bdf5ff8851e4563323d195ccf0637bf0486c51d2087a3242a0",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:08:59.758613+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_batch_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-23T23:08:59.758613+00:00",
+              "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+              "outputSha256": "af94482a38a750bdf5ff8851e4563323d195ccf0637bf0486c51d2087a3242a0",
+              "references": [
+                {
+                  "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                  "role": "Nonhuman matte oil/ivory folio treatment only, never dragon anatomy",
+                  "inspected": true,
+                  "notes": "Inspected connected scale/wing paint and broad silhouette. Dinosaur subjects have no dragon wings, flame or borrowed gold dragon head.",
+                  "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+                },
+                {
+                  "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                  "role": "Same-story dawn light and collection paint only",
+                  "inspected": true,
+                  "notes": "Inspected cool pale dawn with low warm reflected planes; no skyline, orbital stations or vegetation in folios.",
+                  "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e"
+                }
+              ],
+              "evidence": [
+                "Actual pixels: one lean rust-brown biped with plaster-white snout; left forelimb protected in chest sling, free right foreclaw holds crew board, two walking hindlimbs and full tail. Labeled injury detail agrees; no scenery.",
+                "Exact personal name and The Apes Above title readable. Character-only warm ivory folio; no location vignette, terrain patch or paint swatches. Source-unspecified species/color/gear and new names explicitly remain interpretations."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "af2a1598dcc7e26cd8cb1bd56162fdcc2e176831664251eea849052d6878ed58"
+            },
+            "review": "Root/current pixel review: broad even warm illumination drifts from chosen subdued cool dawn light."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:40:17.155775+00:00",
+            "prompt": "Precise lighting revision of FIRST image, this exact one-character oil folio. Preserve exact name/title, every pose, body/head proportions, species anatomy, distinctive marks, gear, layout, full silhouette and existing broad physical oil paint. SECOND image is the actual story's low DAWN ambient source only, no landscape transfer. Change subject lighting from evenly warm studio/daylight to subdued COOL predawn-to-first-dawn ambient: broad SLATE BLUE-GRAY shadows and connected low-value olive/umber masses cover the shadow half and undersides of each body/head. Exposed upward planes get soft pale blue-gray sky illumination. Preserve original biological LOCAL COLORS within those values, but reduce broad yellow/orange cast. Limit warm light to very small muted ochre reflected patches. NO theatrical rim, glowing outline, black silhouette, harsh orange-blue edge lighting, glossy eye or photo finish. It should remain readable, substantially painted and convincingly dim ambient. Ivory support remains LIGHT WARM IVORY and text remains dark/readable. No scenery, ground patch, floor/contact shadow, swatch strip or new props. No other identity or costume change.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-7c8d6ba2-b43b-4836-9e6c-4fcf42b58c8a.png",
+                "sha256": "af94482a38a750bdf5ff8851e4563323d195ccf0637bf0486c51d2087a3242a0",
+                "inspected": true,
+                "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+              },
+              {
+                "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+                "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+                "inspected": true,
+                "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-307ea25b-4a94-49b3-ac82-05fbcf7bb12c.png",
+            "outputSha256": "fef58fbcb55e0dd9e35fe4fc68bae8855cf00bee396d2bbd1ad3d1b2a5ab5426",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:49:03.715659+00:00",
+            "savedPath": "stories/apes-in-orbit/art/characters/vekrit.png"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel correction review after root findings",
+        "reviewedAt": "2026-09-24T02:49:03.723135+00:00",
+        "sourceSha256": "6ab64087293c3dd6240da96ef29c1bee860db08d196db7b40129cf3dcaa84f1b",
+        "outputSha256": "fef58fbcb55e0dd9e35fe4fc68bae8855cf00bee396d2bbd1ad3d1b2a5ab5426",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-153e-7153-b72e-7144828d6925\\exec-7c8d6ba2-b43b-4836-9e6c-4fcf42b58c8a.png",
+            "sha256": "af94482a38a750bdf5ff8851e4563323d195ccf0637bf0486c51d2087a3242a0",
+            "inspected": true,
+            "role": "Exact inspected selected sheet edit target; preserve identity, anatomical form, existing broad oil marks, layout and words"
+          },
+          {
+            "path": "stories/apes-in-orbit/art/landscapes/01-dawn-beneath-orbital-lights.png",
+            "sha256": "26bc899665158e6d48145c90d701bb905eb96614501c98dcd836be9f5b78488e",
+            "inspected": true,
+            "role": "Actually inspected same-story early-dawn ambient values; cool connected foreground shadows and limited low warm reflected planes only, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: local colors preserved under cool slate early-dawn ambient and connected darker undersides, removing broad yellow studio cast. No artificial rim or loss of readable anatomy.",
+          "Exact name/title, all complete bodies and key details retained on warm ivory; no scene or paint swatches; broad matte oils preserved.",
+          "Injured LEFT forelimb remains strapped in all views, free RIGHT claw and crew board; plaster-white snout and complete long tail retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "eb88e6d8295a01430e387e3baaca5f209c89f8ae85c19cc83ebb294ac27601cc"
+      },
+      "outputSha256": "fef58fbcb55e0dd9e35fe4fc68bae8855cf00bee396d2bbd1ad3d1b2a5ab5426",
+      "lighting": {
+        "moment": "Predawn council emergency through first dawn",
+        "motivation": "Cool diffuse early-sky ambient with broad dark connected shadows, small muted ochre reflected planes; source dawn painting is a value guide, no scenery."
+      }
+    }
+  ]
+}
