@@ -1,0 +1,661 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-kill-she-wouldnt-take",
+  "title": "The Kill She Wouldn't Take",
+  "source": "stories/the-kill-she-wouldnt-take/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final source and prompt read; broadcasters Caro and Dax sustain entire viewpoint, Zindra/Nash central fighters, unnamed producer sustained speaking antagonist. Binding original recovered from exact original user input image, inspected with source cover and oil references.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Floor marshals, medics and crowd",
+      "reason": "Functional supporting groups; no sustained separate main identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "caro-blythe",
+      "name": "Caro Blythe",
+      "role": "play-by-play broadcaster and integrity challenge caller",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Caro Blythe is already shouting",
+          "explanation": "Primary broadcast viewpoint."
+        },
+        {
+          "quote": "points at the replay pane with the pencil",
+          "explanation": "Source ordinary pencil and broadcast tools."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Headset, pencil, broadcast console; physical appearance and clothing unspecified.",
+        "state": "Live finals broadcast; after challenge anxiety kept restrained."
+      },
+      "visualInterpretation": [
+        "Art-only medium-brown-skinned adult woman, angular long face, dark shoulder-length swept hair, fitted plum blazer/black trousers and practical shoes."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-kill-she-wouldnt-take:caro-blythe",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-kill-she-wouldnt-take/art/characters/caro-blythe.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Caro Blythe\"; title \"The Kill She Wouldn’t Take\"; role \"Play-by-play\". ONE adult HUMAN woman, medium brown skin, angular LONG face, straight dark shoulder-length hair swept behind rounded ears, dark matte eyes, late-thirties visual casting. Concentrated open-mouth mid-commentary expression, not shouting caricature. Professional deep PLUM blazer over plain light gray blouse, tailored black trousers, ordinary black flat SHOES, black over-ear HEADSET with boom mic. Two complete front/rear views; front holds plain PENCIL and slim broadcast NOTES without readable numbers. Large matching face with headset, label \"Live call\". Isolated pencil and notes card small, label \"Call the evidence\"; only blank lines, no invented quotes. No armor/gun, no Zindra face design.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:49:46.644594+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Caro Blythe\"; title \"The Kill She Wouldn’t Take\"; role \"Play-by-play\". ONE adult HUMAN woman, medium brown skin, angular LONG face, straight dark shoulder-length hair swept behind rounded ears, dark matte eyes, late-thirties visual casting. Concentrated open-mouth mid-commentary expression, not shouting caricature. Professional deep PLUM blazer over plain light gray blouse, tailored black trousers, ordinary black flat SHOES, black over-ear HEADSET with boom mic. Two complete front/rear views; front holds plain PENCIL and slim broadcast NOTES without readable numbers. Large matching face with headset, label \"Live call\". Isolated pencil and notes card small, label \"Call the evidence\"; only blank lines, no invented quotes. No armor/gun, no Zindra face design.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+            "references": [
+              {
+                "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+                "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+                "inspected": true,
+                "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+              }
+            ],
+            "preflight": [
+              "Full final source and prompt read; original, cover, source oil all inspected. Source canon/name search no exact identity match.",
+              "Fighter entry states explicit, avoid mixing later injuries/telemetry; Zindra original design attached with matte oil primary and no invented unmasked eyes.",
+              "One identity, complete front/rear, large face and one personal detail feasible; producer art-only name checked and recorded, dark cyan/red light and no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3f16668b-4354-439e-87f5-e866b1ead129.png",
+            "outputSha256": "90080366abf42c301677cd758e639466bc369cd94969995b627143ff70301c75",
+            "finishedAt": "2026-09-24T05:59:36.816223+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+              "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+              "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3f16668b-4354-439e-87f5-e866b1ead129.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a",
+        "outputSha256": "90080366abf42c301677cd758e639466bc369cd94969995b627143ff70301c75",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+          "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+          "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+        ],
+        "specificationSha256": "454318464d2343bd11062242f2da8f8b90c12eb712c580a68b8fef26c3917a7e"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "90080366abf42c301677cd758e639466bc369cd94969995b627143ff70301c75"
+    },
+    {
+      "id": "dax-ulm",
+      "name": "Dax Ulm",
+      "role": "color commentator who recognizes red return link",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "pulls his headset away from one crushed ear",
+          "explanation": "Only explicit physical feature; one-sided old ear injury."
+        },
+        {
+          "quote": "pushes the telestrator pad toward Dax",
+          "explanation": "Source handheld telestrator."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "One crushed ear (side unspecified).",
+        "equipment": "Headset, jacket, telestrator pad.",
+        "state": "Live finals."
+      },
+      "visualInterpretation": [
+        "Art-only older-middle-aged broad stocky man, warm light skin, short dark-gray hair, squarish jaw/stubble. Choose anatomical left old compressed outer ear.",
+        "Charcoal jacket, muted ochre shirt; ordinary clothes and injured ear kept mature/non-graphic."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-kill-she-wouldnt-take:dax-ulm",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-kill-she-wouldnt-take/art/characters/dax-ulm.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dax Ulm\"; title \"The Kill She Wouldn’t Take\"; role \"Color commentary\". ONE adult HUMAN man, stocky late-forties visual casting, warm light skin, broad square face, short DARK-GRAY hair, dark stubble, dark matte eyes, sardonic alert expression. His ANATOMICAL LEFT outer ear is OLD CRUSHED cauliflower-like compressed pinna, no fresh blood; right ear ordinary. CHARCOAL jacket over muted OCHRE collar shirt, black trousers, brown ordinary SHOES. Black broadcast headset lifted slightly away from the injured left ear. Two complete front/rear views, front holds thin TELES TRATOR tablet low and a stylus. Large matching face, label \"Color commentary\". Isolated flat telestrator pad with one hand-drawn red CIRCLE on otherwise blank gray screen, label \"Raw replay\". No armor/guns, no invented telemetry numbers.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:49:46.648086+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dax Ulm\"; title \"The Kill She Wouldn’t Take\"; role \"Color commentary\". ONE adult HUMAN man, stocky late-forties visual casting, warm light skin, broad square face, short DARK-GRAY hair, dark stubble, dark matte eyes, sardonic alert expression. His ANATOMICAL LEFT outer ear is OLD CRUSHED cauliflower-like compressed pinna, no fresh blood; right ear ordinary. CHARCOAL jacket over muted OCHRE collar shirt, black trousers, brown ordinary SHOES. Black broadcast headset lifted slightly away from the injured left ear. Two complete front/rear views, front holds thin TELES TRATOR tablet low and a stylus. Large matching face, label \"Color commentary\". Isolated flat telestrator pad with one hand-drawn red CIRCLE on otherwise blank gray screen, label \"Raw replay\". No armor/guns, no invented telemetry numbers.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+            "references": [
+              {
+                "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+                "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+                "inspected": true,
+                "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+              }
+            ],
+            "preflight": [
+              "Full final source and prompt read; original, cover, source oil all inspected. Source canon/name search no exact identity match.",
+              "Fighter entry states explicit, avoid mixing later injuries/telemetry; Zindra original design attached with matte oil primary and no invented unmasked eyes.",
+              "One identity, complete front/rear, large face and one personal detail feasible; producer art-only name checked and recorded, dark cyan/red light and no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-edd4903d-fd92-4019-819f-f57302aec753.png",
+            "outputSha256": "e2426ff043650f201f5602409dd5efff967177e9aa5efe7ff967497c02bd253a",
+            "finishedAt": "2026-09-24T05:59:36.849057+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+              "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+              "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-edd4903d-fd92-4019-819f-f57302aec753.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a",
+        "outputSha256": "e2426ff043650f201f5602409dd5efff967177e9aa5efe7ff967497c02bd253a",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+          "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+          "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+        ],
+        "specificationSha256": "a5f4a940fd78ca60873ca65ccafa0ea8650671484e5121511f9e03c506fa916d"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e2426ff043650f201f5602409dd5efff967177e9aa5efe7ff967497c02bd253a"
+    },
+    {
+      "id": "veslan",
+      "name": "Veslan",
+      "sourceRole": "the producer",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the producer",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Veslan has no matches in universe, frozen NAMES, current review inventories or character specs; source names only the producer."
+      },
+      "role": "sustained broadcast producer antagonist",
+      "form": "adult human, source gender unspecified",
+      "selectionEvidence": [
+        {
+          "quote": "The voice in their headsets is cool and close",
+          "explanation": "Sustained pressure from opening walk-on through closing rematch; recurring main speaking antagonist."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "No physical appearance or gender stated; audible production voice.",
+        "equipment": "Broadcast communication headset inferred from control role, no new source device powers."
+      },
+      "visualInterpretation": [
+        "Art-only name Veslan and androgynous mature adult appearance, deep brown skin, tall narrow head, shaved scalp, round silver spectacles and muted slate suit.",
+        "Appearance entirely interpretive because source is headset voice only; no new gender/canon assertion."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-kill-she-wouldnt-take:veslan",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-kill-she-wouldnt-take/art/characters/veslan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Veslan\"; title \"The Kill She Wouldn’t Take\"; role \"Producer — art-only name\". ONE androgynous mature adult HUMAN, deep brown skin, tall narrow face, SHAVED scalp, round thin SILVER SPECTACLES over matte dark eyes, medium slim build, calm controlled expression. Source supplies voice only; restrained visual casting age around fifty, no gendered embellishment. Muted SLATE tailored suit, high-neck charcoal shirt, flat black SHOES, single black broadcast HEADSET with boom mic. Complete front/rear bodies, both empty hands relaxed, no weapons/armor. Large matching face labelled \"Production voice\". Small isolated same headset detail, label \"Talkback\"; no console/room, no new monitor or labels.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:49:46.651933+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Veslan\"; title \"The Kill She Wouldn’t Take\"; role \"Producer — art-only name\". ONE androgynous mature adult HUMAN, deep brown skin, tall narrow face, SHAVED scalp, round thin SILVER SPECTACLES over matte dark eyes, medium slim build, calm controlled expression. Source supplies voice only; restrained visual casting age around fifty, no gendered embellishment. Muted SLATE tailored suit, high-neck charcoal shirt, flat black SHOES, single black broadcast HEADSET with boom mic. Complete front/rear bodies, both empty hands relaxed, no weapons/armor. Large matching face labelled \"Production voice\". Small isolated same headset detail, label \"Talkback\"; no console/room, no new monitor or labels.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+            "references": [
+              {
+                "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+                "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+                "inspected": true,
+                "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+              }
+            ],
+            "preflight": [
+              "Full final source and prompt read; original, cover, source oil all inspected. Source canon/name search no exact identity match.",
+              "Fighter entry states explicit, avoid mixing later injuries/telemetry; Zindra original design attached with matte oil primary and no invented unmasked eyes.",
+              "One identity, complete front/rear, large face and one personal detail feasible; producer art-only name checked and recorded, dark cyan/red light and no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-26f96f5a-4fa1-4653-ad5a-0f4c5e97fbc6.png",
+            "outputSha256": "e743d2d5037c3f27d8f059be9bf6d91c593f9b9a69a08b5f987c41f88847b000",
+            "finishedAt": "2026-09-24T05:59:36.861253+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+              "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+              "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-26f96f5a-4fa1-4653-ad5a-0f4c5e97fbc6.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a",
+        "outputSha256": "e743d2d5037c3f27d8f059be9bf6d91c593f9b9a69a08b5f987c41f88847b000",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+          "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+          "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+        ],
+        "specificationSha256": "e55eae100972aae5552af896705e7be22568b7b37640731a889e581dc4805c91"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e743d2d5037c3f27d8f059be9bf6d91c593f9b9a69a08b5f987c41f88847b000"
+    },
+    {
+      "id": "nash-harl",
+      "name": "Nash Harl",
+      "role": "arena finalist with unverified return link",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "modular white plate over black flex",
+          "explanation": "Explicit armor construction."
+        },
+        {
+          "quote": "Cyan seams wake along his shoulders",
+          "explanation": "Cyan shoulder tracer distinct from collar."
+        }
+      ],
+      "storyAppearance": {
+        "armor": "Modular white armor over black flex, cyan shoulder seams and outward-facing green collar ring at entry.",
+        "equipment": "Compact pulse carbine and hip backup.",
+        "state": "Labelled entry state before mobility hit, both boots intact and collar green."
+      },
+      "visualInterpretation": [
+        "Art-only young adult man, medium tan skin, lean athletic build, close dark brown hair, long narrow nose, clean-shaven jaw.",
+        "Choose before opening shot so no mixed injury/time state; green collar is explicitly entry state only."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-kill-she-wouldnt-take:nash-harl",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-kill-she-wouldnt-take/art/characters/nash-harl.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nash Harl\"; title \"The Kill She Wouldn’t Take\"; role \"Finalist — entry state\". ONE adult HUMAN man, medium tan skin, lean athletic build, short dark brown hair, long narrow nose, clean-shaven jaw, matte brown eyes, confident eager expression, around thirties visual casting. Source MODULAR WHITE armor plates over BLACK flexible undersuit, CYAN glowing seams only at shoulders; outward-facing narrow GREEN return-link ring at throat. Both boots intact. Select ENTRY BEFORE FIRST SHOT, label exactly \"Entry state — link green\". Two complete front/rear bodies in light mobile armor, no helmet or horns; front ordinary FIVE-finger hands hold COMPACT futuristic pulse CARBINE low angled down, small backup holstered at hip. Large matching face with green collar; small isolated green collar ring detail, label \"Return link\". No blood, no return guarantee text, no Zindra giant cannon/mask or red optic. Dim electric light on armor not white daylight.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:49:46.655068+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nash Harl\"; title \"The Kill She Wouldn’t Take\"; role \"Finalist — entry state\". ONE adult HUMAN man, medium tan skin, lean athletic build, short dark brown hair, long narrow nose, clean-shaven jaw, matte brown eyes, confident eager expression, around thirties visual casting. Source MODULAR WHITE armor plates over BLACK flexible undersuit, CYAN glowing seams only at shoulders; outward-facing narrow GREEN return-link ring at throat. Both boots intact. Select ENTRY BEFORE FIRST SHOT, label exactly \"Entry state — link green\". Two complete front/rear bodies in light mobile armor, no helmet or horns; front ordinary FIVE-finger hands hold COMPACT futuristic pulse CARBINE low angled down, small backup holstered at hip. Large matching face with green collar; small isolated green collar ring detail, label \"Return link\". No blood, no return guarantee text, no Zindra giant cannon/mask or red optic. Dim electric light on armor not white daylight.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+            "references": [
+              {
+                "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+                "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+                "inspected": true,
+                "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+              }
+            ],
+            "preflight": [
+              "Full final source and prompt read; original, cover, source oil all inspected. Source canon/name search no exact identity match.",
+              "Fighter entry states explicit, avoid mixing later injuries/telemetry; Zindra original design attached with matte oil primary and no invented unmasked eyes.",
+              "One identity, complete front/rear, large face and one personal detail feasible; producer art-only name checked and recorded, dark cyan/red light and no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8be8b9f5-6cf7-411e-b5cb-431deb585849.png",
+            "outputSha256": "4cc416a3d72d873e422a54b944bc19e4b57e383c5a5336fbd7d4aef302bfb307",
+            "finishedAt": "2026-09-24T05:59:36.873617+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+              "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+              "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8be8b9f5-6cf7-411e-b5cb-431deb585849.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a",
+        "outputSha256": "4cc416a3d72d873e422a54b944bc19e4b57e383c5a5336fbd7d4aef302bfb307",
+        "references": [
+          {
+            "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+            "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+            "inspected": true,
+            "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one consistent named identity, complete front/rear bodies and face, source-specific role tools/state correct; no invented source wording.",
+          "Nash entry-state intact white/black armor, cyan shoulder tracer/green neck link distinct; Dax old one-ear injury; producer source-unknown appearance identified art-only where relevant.",
+          "Matte directional paint including face, muted electric cyan/red accents and deep clothing shadow, clear ivory without location/floor/swatches."
+        ],
+        "specificationSha256": "76185aac5fa7bc7cd5a169c3a6b2cc1c0f302da470e2e0eb5f2ce0e9d7af82e0"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "4cc416a3d72d873e422a54b944bc19e4b57e383c5a5336fbd7d4aef302bfb307"
+    },
+    {
+      "id": "zindra-quell",
+      "name": "Zindra Quell",
+      "role": "arena superstar who refuses lethal finish",
+      "form": "adult woman with cybernetic mask/armor; underlying species not asserted",
+      "selectionEvidence": [
+        {
+          "quote": "red fiber-optic mohawk",
+          "explanation": "Binding original matches explicit crest."
+        },
+        {
+          "quote": "white horned cybernetic mask",
+          "explanation": "Recognizable head design."
+        }
+      ],
+      "storyAppearance": {
+        "appearance": "Horned white cybernetic mask, red fiber-optic mohawk, segmented white shoulder/arm armor scored at joints; oversized firearm with red rails.",
+        "state": "Walk-on before mask injury: two intact white horns, both optics red; no broken horn or white right optic yet."
+      },
+      "visualInterpretation": [
+        "Binding original guides design: exposed lower face and lips/nose, tan skin, swept red fiber crest, circular mechanical cheek parts, white overlapping shells/black joints.",
+        "Lower-body completion art-only black flex and white modular shin/thigh plates with ordinary armored boots. No unmasked eyes/face invented."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-kill-she-wouldnt-take:zindra-quell",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-kill-she-wouldnt-take/art/characters/zindra-quell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only. Preserve ALL identity/design/composition/lettering exactly, two intact horns, red fiber-optic crest, red optics, white mechanical mask/cheek circles, exposed lower-face identity, white segmented armor/black flex, complete front/rear bodies, giant gun and isolated gun. FIRST remove ALL blue-gray ground/shadow/pedestal paint beneath both pairs of boots and replace with same uninterrupted warm ivory paper. Boots stay complete, no floor contact patch. SECOND re-light FIGURES and gun only as DIM Grandfall artificial arena light: most armor/face in connected dark INDIGO/CHARCOAL/VIOLET shadow, limited muted CYAN facing planes and small dark RED accents, no bright cream-white studio fill. White armor remains white material seen in dark blue shadow. Reduce glossy light/lip highlight; paint exposed face/lips/ear/skin, mask and plates with broad MATTE OPAQUE directional bristle masses, some thick oil impasto and quiet shadows, no photographic smooth skin/CGI. Crest and optics retain tiny red device lights. Bright warm ivory paper and headings stay unchanged, no scene or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-29ea1cb7-adc7-4622-87e5-5e78104de9ca.png",
+            "role": "inspected immutable Zindra candidate, preserve binding design and walk-on state, correct floor/light/render only",
+            "sha256": "2b93dcc8d5391b2460b6d8c093a4965b95c43b30e272c5710b4bb45aca797524",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T05:49:46.660348+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Zindra Quell\"; title \"The Kill She Wouldn’t Take\"; role \"Arena superstar — walk-on\". ONE mature adult woman exactly recognizable from IMAGE2 ORIGINAL DESIGN: tan visible lower face with same nose/lips/jaw, WHITE sculpted CYBERNETIC MASK over eyes/upper face, TWO intact tall pale white HORNS, mechanical circular cheek plates, RED dark optical lenses, vivid sweeping spiked RED FIBER-OPTIC MOHAWK from crown. Same white segmented overlapping shoulder and forearm shell armor over black flex joints, old scoring at joints, reference mechanical neck. Do not show an invented unmasked human eye/face. Complete lower outfit with black flex leggings and white modular thigh/shin plates and practical armored boots. Neutral competent standing pose, two complete front/rear bodies. Front holds OVERSIZED white sci-fi FIREARM LOW downward, red CHARGE RAILS, straight index finger outside trigger, no firing. One large matching MASKED head. Small isolated firearm side study, label \"Charge rails\". Label \"Walk-on — intact mask\". This is BEFORE Nash hits her: both horns intact, BOTH optics red, not later white right optic. Do not inherit photographic plastic/cosplay rendering; broad matte oil on exposed skin/mask/fiber crest/metal and same person allviews. Image2 is design only; image1 painting/light. No giant location, no other fighter, no scenery.\nImage1 supplies broad matte oil and DIM artificial arena/broadcast light: deep connected blue-violet charcoal SHADOW covers majority of figures and faces, only small CYAN monitor-facing planes and muted red opposite accents. No daylight/cream facial flood or orange sun. Preserve bright quiet ivory paper. Paint skin as opaque large connected directional bristle strokes, not a smooth realistic face or shiny CGI. No booth or arena pictured.",
+            "references": [
+              {
+                "path": "stories/the-kill-she-wouldnt-take/art/interiors/01-grandfall-broadcast-booth.png",
+                "role": "primary broad matte Group of Seven oil paint and dark cyan/red motivated light only, no room/arena",
+                "inspected": true,
+                "sha256": "b6bdbcf6d3ea62c7c70b1f3891698f8bed691f19447a04240cd3e42c9b0377f4"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-06ecc8fd-58e2-4c7f-9a18-f9be6c177355.png",
+                "role": "binding recognizable Zindra character design from actual recovered original; NOT photographic rendering or setting",
+                "inspected": true,
+                "sha256": "bf88099c36c973a221bed88dee234b3c9e46a887f0eabc5aaae25417582cef38"
+              }
+            ],
+            "preflight": [
+              "Full final source and prompt read; original, cover, source oil all inspected. Source canon/name search no exact identity match.",
+              "Fighter entry states explicit, avoid mixing later injuries/telemetry; Zindra original design attached with matte oil primary and no invented unmasked eyes.",
+              "One identity, complete front/rear, large face and one personal detail feasible; producer art-only name checked and recorded, dark cyan/red light and no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-29ea1cb7-adc7-4622-87e5-5e78104de9ca.png",
+            "outputSha256": "2b93dcc8d5391b2460b6d8c093a4965b95c43b30e272c5710b4bb45aca797524",
+            "finishedAt": "2026-09-24T05:59:36.886157+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels: binding horned mask, red crest/optics, segmented armor and oversized red-rail firearm recognizable; walk-on state consistent.",
+              "Needs correction: floor shadow patches under boots, bright studio lighting and smooth lower-face/optic render; remove patches and strengthen dim electric-light matte oil."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:59:37.976696+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lighting-paint-edit",
+            "prompt": "Edit image1 only. Preserve ALL identity/design/composition/lettering exactly, two intact horns, red fiber-optic crest, red optics, white mechanical mask/cheek circles, exposed lower-face identity, white segmented armor/black flex, complete front/rear bodies, giant gun and isolated gun. FIRST remove ALL blue-gray ground/shadow/pedestal paint beneath both pairs of boots and replace with same uninterrupted warm ivory paper. Boots stay complete, no floor contact patch. SECOND re-light FIGURES and gun only as DIM Grandfall artificial arena light: most armor/face in connected dark INDIGO/CHARCOAL/VIOLET shadow, limited muted CYAN facing planes and small dark RED accents, no bright cream-white studio fill. White armor remains white material seen in dark blue shadow. Reduce glossy light/lip highlight; paint exposed face/lips/ear/skin, mask and plates with broad MATTE OPAQUE directional bristle masses, some thick oil impasto and quiet shadows, no photographic smooth skin/CGI. Crest and optics retain tiny red device lights. Bright warm ivory paper and headings stay unchanged, no scene or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-29ea1cb7-adc7-4622-87e5-5e78104de9ca.png",
+                "role": "inspected immutable Zindra candidate, preserve binding design and walk-on state, correct floor/light/render only",
+                "sha256": "2b93dcc8d5391b2460b6d8c093a4965b95c43b30e272c5710b4bb45aca797524",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual candidate inspected, correction targets visible floor patches and studio/photo drift; all identity/state facts correct.",
+              "One immutable target, preservation prompt leaves source design and lettering intact."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cfbebffe-5df5-401f-85bc-9854516bc078.png",
+            "outputSha256": "367acc53d5ac1109ae1ace9212ac10fdf22df0ade4109edab79948da626f19b3",
+            "finishedAt": "2026-09-24T06:12:30.023800+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: floor patches removed; dark cyan/indigo light connects shadow over armor and lower face, matte bristle marks preserved.",
+              "Binding original horned white mask, red crest, two red optics in intact walk-on state, white segmented armor and oversized lowered red-rail gun coherent across full views and portrait.",
+              "No invented unmasked eyes, no scenery/swatches; exact name/title, all boots complete."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cfbebffe-5df5-401f-85bc-9854516bc078.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a",
+        "outputSha256": "367acc53d5ac1109ae1ace9212ac10fdf22df0ade4109edab79948da626f19b3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-29ea1cb7-adc7-4622-87e5-5e78104de9ca.png",
+            "role": "inspected immutable Zindra candidate, preserve binding design and walk-on state, correct floor/light/render only",
+            "sha256": "2b93dcc8d5391b2460b6d8c093a4965b95c43b30e272c5710b4bb45aca797524",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: floor patches removed; dark cyan/indigo light connects shadow over armor and lower face, matte bristle marks preserved.",
+          "Binding original horned white mask, red crest, two red optics in intact walk-on state, white segmented armor and oversized lowered red-rail gun coherent across full views and portrait.",
+          "No invented unmasked eyes, no scenery/swatches; exact name/title, all boots complete."
+        ],
+        "specificationSha256": "6339a94ee25c51b9aed91bd04cc27418f25d4660aaf7ea97bba648e6bb1e1460"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "367acc53d5ac1109ae1ace9212ac10fdf22df0ade4109edab79948da626f19b3"
+    }
+  ],
+  "externalReferences": [
+    {
+      "displayName": "codex-clipboard-06ecc8fd-58e2-4c7f-9a18-f9be6c177355.png / Image #1",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-06ecc8fd-58e2-4c7f-9a18-f9be6c177355.png",
+      "sha256": "bf88099c36c973a221bed88dee234b3c9e46a887f0eabc5aaae25417582cef38",
+      "inspected": true,
+      "recoveryEvidence": "Exact bytes from original user message at zero-based line8 of archived rollout-2026-08-23T17-11-53-01a03077-3444-7a43-9fcc-aff5e93a896b.jsonl; sole input_image paired with exact filename and WP. Retained external, no source edit."
+    }
+  ],
+  "sourceSha256": "0b59043044186329a841b85fff00913e152b28ef370381b748b5883519a87b2a"
+}
