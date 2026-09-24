@@ -1,0 +1,845 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-sister-behind-her-smile",
+  "title": "The Sister Behind Her Smile",
+  "source": "stories/the-sister-behind-her-smile/story.md",
+  "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Odrienne, Camet and Felisane sustain the central moral/action arc. Three individually speaking performers have substantial independent roles in devising and executing the cadence that enables the climactic self-revocation.",
+  "excludedMinorCharacters": [
+    "Aunt, mother, dismissed chambermaid, stable boy, cousins, pastry cook, footmen and other remembered or incidental household figures do not sustain present action.",
+    "Other ensemble musicians and singers are unindividualized; three active speaking rescuers selected.",
+    "Gracework, living-anchor stitch and mirrors are mechanisms and objects, not separate living characters."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md",
+    "Finished story read in full; no matching shared-universe identity found for named cast. Source controls gracework states."
+  ],
+  "characters": [
+    {
+      "id": "lady-odrienne-auvray",
+      "name": "Lady Odrienne Auvray",
+      "role": "Central noblewoman who revokes her own constraining gracework",
+      "naming": {
+        "sourceName": "Lady Odrienne Auvray",
+        "sourceRole": "Central noblewoman who revokes her own constraining gracework",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Odrienne hooked the knife beneath the anchor and pulled.",
+          "explanation": "Central change and revocation decision organize the entire story, followed by imperfect restitution."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult noblewoman; white morning dress with silver vines on cuffs and loop above heart during binding, torn shoulder seam. Anchor is one silver stitch through ribbon against inner wrist, not piercing skin. The actual cloth stays white/silver; colors change in mirror only. Final breakfast damaged sleeve has a plain cuff with one loose RED stitch, no silver or force.",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Adult about34, tall slim but ordinary proportions, warm olive complexion, long angular oval face, strong aquiline nose, narrow expressive mouth, small hazel eyes. Deep auburn hair coiled into neat high bun with a few escaped wisps. White long-sleeved high-neck floor-length morning dress and discreet flat shoes; no crown, jewels or corset display.",
+        "equipment": "Two full views of BOUND state, front and three-quarter back, with silver cuff vines and fine silver chest crossing. Third full front-three-quarter view labeled FREE AT BREAKFAST: same identity and white dress, slightly damaged sleeve but ALL silver removed, plain cuff with one small loose red stitch. Two facial portraits labeled Constrained smile and Angry and free. Do not put a red stitch on the bound state. No mirrored duplicates, magical aura, skin tattoo or isolated wrist/hands.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Adult noblewoman; white morning dress with silver vines on cuffs and loop above heart during binding, torn shoulder seam. Anchor is one silver stitch through ribbon against inner wrist, not piercing skin. The actual cloth stays white/silver; colors change in mirror only. Final breakfast damaged sleeve has a plain cuff with one loose RED stitch, no silver or force."
+      ],
+      "visualInterpretation": [
+        "Adult about34, tall slim but ordinary proportions, warm olive complexion, long angular oval face, strong aquiline nose, narrow expressive mouth, small hazel eyes. Deep auburn hair coiled into neat high bun with a few escaped wisps. White long-sleeved high-neck floor-length morning dress and discreet flat shoes; no crown, jewels or corset display."
+      ],
+      "states": [
+        {
+          "name": "Clearly separated bound and free states",
+          "description": "Two full views of BOUND state, front and three-quarter back, with silver cuff vines and fine silver chest crossing. Third full front-three-quarter view labeled FREE AT BREAKFAST: same identity and white dress, slightly damaged sleeve but ALL silver removed, plain cuff with one small loose red stitch. Two facial portraits labeled Constrained smile and Angry and free. Do not put a red stitch on the bound state. No mirrored duplicates, magical aura, skin tattoo or isolated wrist/hands."
+        }
+      ],
+      "lighting": {
+        "moment": "Clearly separated bound and free states",
+        "motivation": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:lady-odrienne-auvray",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+          "role": "Inspected story night lamp palette and sculpted impasto",
+          "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+          "inspected": true,
+          "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/lady-odrienne-auvray.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Lady Odrienne Auvray', subtitle 'The Sister Behind Her Smile'.\nSource facts: Adult noblewoman; white morning dress with silver vines on cuffs and loop above heart during binding, torn shoulder seam. Anchor is one silver stitch through ribbon against inner wrist, not piercing skin. The actual cloth stays white/silver; colors change in mirror only. Final breakfast damaged sleeve has a plain cuff with one loose RED stitch, no silver or force.\nRestrained art interpretation: Adult about34, tall slim but ordinary proportions, warm olive complexion, long angular oval face, strong aquiline nose, narrow expressive mouth, small hazel eyes. Deep auburn hair coiled into neat high bun with a few escaped wisps. White long-sleeved high-neck floor-length morning dress and discreet flat shoes; no crown, jewels or corset display.\nComposition: Two full views of BOUND state, front and three-quarter back, with silver cuff vines and fine silver chest crossing. Third full front-three-quarter view labeled FREE AT BREAKFAST: same identity and white dress, slightly damaged sleeve but ALL silver removed, plain cuff with one small loose red stitch. Two facial portraits labeled Constrained smile and Angry and free. Do not put a red stitch on the bound state. No mirrored duplicates, magical aura, skin tattoo or isolated wrist/hands.",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+            "role": "Inspected story night lamp palette and sculpted impasto",
+            "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+            "inspected": true,
+            "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:32:33.535585+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Lady Odrienne Auvray', subtitle 'The Sister Behind Her Smile'.\nSource facts: Adult noblewoman; white morning dress with silver vines on cuffs and loop above heart during binding, torn shoulder seam. Anchor is one silver stitch through ribbon against inner wrist, not piercing skin. The actual cloth stays white/silver; colors change in mirror only. Final breakfast damaged sleeve has a plain cuff with one loose RED stitch, no silver or force.\nRestrained art interpretation: Adult about34, tall slim but ordinary proportions, warm olive complexion, long angular oval face, strong aquiline nose, narrow expressive mouth, small hazel eyes. Deep auburn hair coiled into neat high bun with a few escaped wisps. White long-sleeved high-neck floor-length morning dress and discreet flat shoes; no crown, jewels or corset display.\nComposition: Two full views of BOUND state, front and three-quarter back, with silver cuff vines and fine silver chest crossing. Third full front-three-quarter view labeled FREE AT BREAKFAST: same identity and white dress, slightly damaged sleeve but ALL silver removed, plain cuff with one small loose red stitch. Two facial portraits labeled Constrained smile and Angry and free. Do not put a red stitch on the bound state. No mirrored duplicates, magical aura, skin tattoo or isolated wrist/hands.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+                "role": "Inspected story night lamp palette and sculpted impasto",
+                "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+                "inspected": true,
+                "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-b69fb163-3a68-4f7a-8c86-e25362b706d2.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/lady-odrienne-auvray.png",
+            "outputSha256": "22ed3f0c58ec6fd3ac49f191ce85939b7272fa13cc28f8ecb10e1ce37a7258c9",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:36:01.201642+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:36:01.201642+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "22ed3f0c58ec6fd3ac49f191ce85939b7272fa13cc28f8ecb10e1ce37a7258c9",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+            "role": "Inspected story night lamp palette and sculpted impasto",
+            "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+            "inspected": true,
+            "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+          }
+        ],
+        "evidence": [
+          "Three full states/views maintain one adult identity; clearly labeled bound silver-vine dress and free plain red-stitch cuff are separated. Faces constructed with opaque oil masses; exact heading/title.",
+          "Actual silver stays silver, final silver removed, torn shoulder retained. Clean ivory character-only layout, no hands alone or scenery."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "9d2935c55851ea6a66606b9b44fe59c5f1ccdb33af7ff8d24ac76441a6b22f83"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "22ed3f0c58ec6fd3ac49f191ce85939b7272fa13cc28f8ecb10e1ce37a7258c9"
+    },
+    {
+      "id": "camet",
+      "name": "Camet",
+      "role": "Brother and first-person narrator",
+      "naming": {
+        "sourceName": "Camet",
+        "sourceRole": "Brother and first-person narrator",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"Camet, our aunt admired Mother's lap harp last winter, didn't she?\"",
+          "explanation": "Recognizes his sister's constrained agency, follows her signals, and learns to assist without commanding."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Odrienne's brother and narrator, adult court participant. Carries and lowers a lamp in mirror chamber. No source hair, eye, skin, exact age or attire fixed.",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Art-only man about28, ordinary lean medium height, light olive skin, long auburn curls swept behind ears, short tidy auburn beard. Longer rectangular face, blunt broad nose and thoughtful small brown eyes; family coloring with Odrienne but distinct facial structure. Muted deep navy tailored court coat, high ivory shirt and dull copper waistcoat, charcoal trousers, soft dark shoes, no crown or weapons.",
+        "equipment": "Three full front/side/back views, two painted expression portraits labeled Uneasy hope and Listening. One modest brass hand-lamp shown as personal equipment only, no table or room. Natural quiet postures, no separate hand studies.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Odrienne's brother and narrator, adult court participant. Carries and lowers a lamp in mirror chamber. No source hair, eye, skin, exact age or attire fixed."
+      ],
+      "visualInterpretation": [
+        "Art-only man about28, ordinary lean medium height, light olive skin, long auburn curls swept behind ears, short tidy auburn beard. Longer rectangular face, blunt broad nose and thoughtful small brown eyes; family coloring with Odrienne but distinct facial structure. Muted deep navy tailored court coat, high ivory shirt and dull copper waistcoat, charcoal trousers, soft dark shoes, no crown or weapons."
+      ],
+      "states": [
+        {
+          "name": "Night rescue",
+          "description": "Three full front/side/back views, two painted expression portraits labeled Uneasy hope and Listening. One modest brass hand-lamp shown as personal equipment only, no table or room. Natural quiet postures, no separate hand studies."
+        }
+      ],
+      "lighting": {
+        "moment": "Night rescue",
+        "motivation": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:camet",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+          "role": "Inspected story night lamp palette and sculpted impasto",
+          "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+          "inspected": true,
+          "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/camet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Camet', subtitle 'The Sister Behind Her Smile'.\nSource facts: Odrienne's brother and narrator, adult court participant. Carries and lowers a lamp in mirror chamber. No source hair, eye, skin, exact age or attire fixed.\nRestrained art interpretation: Art-only man about28, ordinary lean medium height, light olive skin, long auburn curls swept behind ears, short tidy auburn beard. Longer rectangular face, blunt broad nose and thoughtful small brown eyes; family coloring with Odrienne but distinct facial structure. Muted deep navy tailored court coat, high ivory shirt and dull copper waistcoat, charcoal trousers, soft dark shoes, no crown or weapons.\nComposition: Three full front/side/back views, two painted expression portraits labeled Uneasy hope and Listening. One modest brass hand-lamp shown as personal equipment only, no table or room. Natural quiet postures, no separate hand studies.",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+            "role": "Inspected story night lamp palette and sculpted impasto",
+            "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+            "inspected": true,
+            "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:32:33.535607+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Camet', subtitle 'The Sister Behind Her Smile'.\nSource facts: Odrienne's brother and narrator, adult court participant. Carries and lowers a lamp in mirror chamber. No source hair, eye, skin, exact age or attire fixed.\nRestrained art interpretation: Art-only man about28, ordinary lean medium height, light olive skin, long auburn curls swept behind ears, short tidy auburn beard. Longer rectangular face, blunt broad nose and thoughtful small brown eyes; family coloring with Odrienne but distinct facial structure. Muted deep navy tailored court coat, high ivory shirt and dull copper waistcoat, charcoal trousers, soft dark shoes, no crown or weapons.\nComposition: Three full front/side/back views, two painted expression portraits labeled Uneasy hope and Listening. One modest brass hand-lamp shown as personal equipment only, no table or room. Natural quiet postures, no separate hand studies.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+                "role": "Inspected story night lamp palette and sculpted impasto",
+                "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+                "inspected": true,
+                "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-a0bd1160-fc9d-4af3-abbe-d74103fcbba4.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/camet.png",
+            "outputSha256": "692228b859944cd5af1ac5b7a0f4b7ef92fcea24ddaa0009f6ab2a1c6d6b203e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:36:01.201642+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:36:01.201642+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "692228b859944cd5af1ac5b7a0f4b7ef92fcea24ddaa0009f6ab2a1c6d6b203e",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+            "role": "Inspected story night lamp palette and sculpted impasto",
+            "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+            "inspected": true,
+            "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+          }
+        ],
+        "evidence": [
+          "Three consistent complete views and two facial expressions preserve distinct auburn male identity with family coloring; source lamp carried and isolated as equipment.",
+          "Deep navy/copper clothes and broad opaque face masses carry warm lamp/cool blue illumination; exact name/title and clean ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "d435a80578a3f3c9f82d737f0121f72a3b29ca52394815078345def42a3e1a29"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "692228b859944cd5af1ac5b7a0f4b7ef92fcea24ddaa0009f6ab2a1c6d6b203e"
+    },
+    {
+      "id": "felisane",
+      "name": "Felisane",
+      "role": "Maid and essential independent ally",
+      "naming": {
+        "sourceName": "Felisane",
+        "sourceRole": "Maid and essential independent ally",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"Fewer people are frightened,\" she said when the door had shut. \"That matters. It doesn't make this right.\"",
+          "explanation": "Identifies coerced compliance, protects Odrienne's refusal, locates anchor and supports the self-directed revocation."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult working maid, exhausted after work since before sunrise; skin beneath left eye jumps. Carries sauceboat/napkins and sewing supplies; repairs plain cuff. Refuses sapphire clasp, never wears it.",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Art-only woman about45, short sturdy build, deep brown skin, broad square-round face, broad low nose, close-set dark eyes, fine tired creases. Dark coily hair flecked silver in compact low bun. Plain gray-green long-sleeved work dress with modest collar, worn ivory apron, simple brown leather shoes. No precious clasp/jewelry.",
+        "equipment": "Three full front/side/back views, facial portraits labeled Tired patience and Firm refusal; folded service napkins and plain sewing spool/needle case as small object studies. No isolated hands, facial twitch need not be diagrammed.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Adult working maid, exhausted after work since before sunrise; skin beneath left eye jumps. Carries sauceboat/napkins and sewing supplies; repairs plain cuff. Refuses sapphire clasp, never wears it."
+      ],
+      "visualInterpretation": [
+        "Art-only woman about45, short sturdy build, deep brown skin, broad square-round face, broad low nose, close-set dark eyes, fine tired creases. Dark coily hair flecked silver in compact low bun. Plain gray-green long-sleeved work dress with modest collar, worn ivory apron, simple brown leather shoes. No precious clasp/jewelry."
+      ],
+      "states": [
+        {
+          "name": "Night work and rescue",
+          "description": "Three full front/side/back views, facial portraits labeled Tired patience and Firm refusal; folded service napkins and plain sewing spool/needle case as small object studies. No isolated hands, facial twitch need not be diagrammed."
+        }
+      ],
+      "lighting": {
+        "moment": "Night work and rescue",
+        "motivation": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:felisane",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+          "role": "Inspected story night lamp palette and sculpted impasto",
+          "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+          "inspected": true,
+          "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/felisane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the supplied Felisane character sheet. Preserve all actual character pixels and strong sculpted oil painting, three body views, two faces, sewing objects, exact name and story title. ONLY remove the bottom-right prose paragraph beginning 'Adult working maid' through 'No jewelry', replacing that paragraph with the same flat ivory background. Also remove ALL little gray/brown contact shadow or ground paint marks underneath shoes so every shoe ends crisply against flat ivory. Retain the short labels and entire uncropped characters, clothing, expressions and warm/cool lighting. Do not add content, scenery or hands. No other change.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-a5cbf952-0450-4660-9512-1b80db7de6da.png",
+            "role": "Inspected immutable A1 edit target",
+            "sha256": "f557d8a2ab43e9e1ac94521513bbafab79a633036b07e64e09dcfa8631672c61",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T12:32:33.535611+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Felisane', subtitle 'The Sister Behind Her Smile'.\nSource facts: Adult working maid, exhausted after work since before sunrise; skin beneath left eye jumps. Carries sauceboat/napkins and sewing supplies; repairs plain cuff. Refuses sapphire clasp, never wears it.\nRestrained art interpretation: Art-only woman about45, short sturdy build, deep brown skin, broad square-round face, broad low nose, close-set dark eyes, fine tired creases. Dark coily hair flecked silver in compact low bun. Plain gray-green long-sleeved work dress with modest collar, worn ivory apron, simple brown leather shoes. No precious clasp/jewelry.\nComposition: Three full front/side/back views, facial portraits labeled Tired patience and Firm refusal; folded service napkins and plain sewing spool/needle case as small object studies. No isolated hands, facial twitch need not be diagrammed.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/02-valsor-dressing-room.png",
+                "role": "Inspected story night lamp palette and sculpted impasto",
+                "sha256": "76b424f71e66eb14e20c2dd95fda55bc7b01c8a839470132a37f88693b54e49a",
+                "inspected": true,
+                "notes": "Localized warm lamp planes against substantial moon-blue and violet-gray shadow; no setting copied."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-a5cbf952-0450-4660-9512-1b80db7de6da.png",
+            "review": "Identity, source details and paint accepted; remove added prose footer and small floor/contact-shadow patches for clean folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:36:01.201642+00:00",
+            "prompt": "Edit the supplied Felisane character sheet. Preserve all actual character pixels and strong sculpted oil painting, three body views, two faces, sewing objects, exact name and story title. ONLY remove the bottom-right prose paragraph beginning 'Adult working maid' through 'No jewelry', replacing that paragraph with the same flat ivory background. Also remove ALL little gray/brown contact shadow or ground paint marks underneath shoes so every shoe ends crisply against flat ivory. Retain the short labels and entire uncropped characters, clothing, expressions and warm/cool lighting. Do not add content, scenery or hands. No other change.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-a5cbf952-0450-4660-9512-1b80db7de6da.png",
+                "role": "Inspected immutable A1 edit target",
+                "sha256": "f557d8a2ab43e9e1ac94521513bbafab79a633036b07e64e09dcfa8631672c61",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-9ba0111b-f1df-4701-b87a-8a2c074aceea.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/felisane.png",
+            "outputSha256": "d226ca88f786900108451d232d4d5c34b210fedc09b2f1c193efbf7760865e13",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:40:20.199954+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:40:20.199954+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "d226ca88f786900108451d232d4d5c34b210fedc09b2f1c193efbf7760865e13",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-a5cbf952-0450-4660-9512-1b80db7de6da.png",
+            "role": "Inspected immutable A1 edit target",
+            "sha256": "f557d8a2ab43e9e1ac94521513bbafab79a633036b07e64e09dcfa8631672c61",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "A2 clean ivory removes footer and ground marks while preserving practical maid identity, sewing tools and napkins, tired/firm expressions; no sapphire clasp.",
+          "Broad opaque face masses and distinct gray-green fabric, consistent anatomy/identity across views; exact heading/title."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "e479ac093bb0ebcdbe794896d3b744360fa5e834b9da1c774af599709c9b6e60"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "d226ca88f786900108451d232d4d5c34b210fedc09b2f1c193efbf7760865e13"
+    },
+    {
+      "id": "vespara",
+      "name": "Vespara",
+      "role": "First violin and musical leader",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "First violin and musical leader",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no existing identity. Source identity remains the described role; no prose/canon edit."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The first violin called, \"No, from three. If we lose all the bars, it becomes noise.\"",
+          "explanation": "Distinct speaking supporting character leads controlled broken cadence that allows revocation, retaining professional judgment."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Woman first violin, chalk tucked behind one ear, violin and bow. Directs broken cadence, preserves count. No exact age/body/clothes given.",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Art-only woman about55, tall straight posture, light russet-tan skin, broad high-cheeked face, sharp gray eyes, straight long nose, silver-blond hair in smooth braided crown. Deep burgundy long high-neck concert coat over charcoal dress and black ankle shoes. Small white chalk behind ear, ordinary warm brown wooden violin and bow.",
+        "equipment": "Three useful whole-body views, including one violin-playing pose with instrument supported under chin. Two portraits labeled Exacting and Keeping count. Violin/bow personal instrument detail. No isolated hands, sheet music stands, stage or room.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Woman first violin, chalk tucked behind one ear, violin and bow. Directs broken cadence, preserves count. No exact age/body/clothes given."
+      ],
+      "visualInterpretation": [
+        "Art-only woman about55, tall straight posture, light russet-tan skin, broad high-cheeked face, sharp gray eyes, straight long nose, silver-blond hair in smooth braided crown. Deep burgundy long high-neck concert coat over charcoal dress and black ankle shoes. Small white chalk behind ear, ordinary warm brown wooden violin and bow."
+      ],
+      "states": [
+        {
+          "name": "Broken dawn cadence",
+          "description": "Three useful whole-body views, including one violin-playing pose with instrument supported under chin. Two portraits labeled Exacting and Keeping count. Violin/bow personal instrument detail. No isolated hands, sheet music stands, stage or room."
+        }
+      ],
+      "lighting": {
+        "moment": "Broken dawn cadence",
+        "motivation": "Paint and warm/cool character-light relationships only, no room or stage."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:vespara",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+          "role": "Inspected palace amber and violet oil-paint treatment",
+          "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+          "inspected": true,
+          "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/vespara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Vespara', subtitle 'The Sister Behind Her Smile'.\nSource facts: Woman first violin, chalk tucked behind one ear, violin and bow. Directs broken cadence, preserves count. No exact age/body/clothes given.\nRestrained art interpretation: Art-only woman about55, tall straight posture, light russet-tan skin, broad high-cheeked face, sharp gray eyes, straight long nose, silver-blond hair in smooth braided crown. Deep burgundy long high-neck concert coat over charcoal dress and black ankle shoes. Small white chalk behind ear, ordinary warm brown wooden violin and bow.\nComposition: Three useful whole-body views, including one violin-playing pose with instrument supported under chin. Two portraits labeled Exacting and Keeping count. Violin/bow personal instrument detail. No isolated hands, sheet music stands, stage or room. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:36:01.201642+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Vespara', subtitle 'The Sister Behind Her Smile'.\nSource facts: Woman first violin, chalk tucked behind one ear, violin and bow. Directs broken cadence, preserves count. No exact age/body/clothes given.\nRestrained art interpretation: Art-only woman about55, tall straight posture, light russet-tan skin, broad high-cheeked face, sharp gray eyes, straight long nose, silver-blond hair in smooth braided crown. Deep burgundy long high-neck concert coat over charcoal dress and black ankle shoes. Small white chalk behind ear, ordinary warm brown wooden violin and bow.\nComposition: Three useful whole-body views, including one violin-playing pose with instrument supported under chin. Two portraits labeled Exacting and Keeping count. Violin/bow personal instrument detail. No isolated hands, sheet music stands, stage or room. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+                "role": "Inspected palace amber and violet oil-paint treatment",
+                "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+                "inspected": true,
+                "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-c730d61c-880a-4872-9767-dea827608fd5.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/vespara.png",
+            "outputSha256": "a939719237ce7db94730e48a86bcc047ce9417c4fa7f0c44e26047eb0af70fb8",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:40:20.199954+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:40:20.199954+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "a939719237ce7db94730e48a86bcc047ce9417c4fa7f0c44e26047eb0af70fb8",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "evidence": [
+          "First violin woman with chalk behind ear, consistent silver-blond braided identity and burgundy coat; whole body rest/playing/rear views and expression portraits.",
+          "Violin/bow remain personal equipment, thick opaque painted face and clothing, amber/cool violet light, no scenery/floor/hand inserts."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "90e08abfff770ced9acd7cf0cc7a13c3d2edc7a9cccdd5fb4ac8c3e45ed9458a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "a939719237ce7db94730e48a86bcc047ce9417c4fa7f0c44e26047eb0af70fb8"
+    },
+    {
+      "id": "tordik",
+      "name": "Tordik",
+      "role": "Reed player who disrupts the cadence",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Reed player who disrupts the cadence",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no existing identity. Source identity remains the described role; no prose/canon edit."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"I can split the reed note,\" the player said.",
+          "explanation": "Speaks independently and splits pitch at crucial breaks; part of central rescue ensemble rather than background orchestra."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Man reed player, frayed binding tightened with teeth; offers and performs split reed note. Specific instrument type not named, no precise mechanism supported.",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Art-only man about40, stocky with round shoulders, medium copper-brown skin, round cheeks, heavy brows, bent narrow nose, black moustache and cropped wavy black hair. Dull teal loose court-musician jacket, ochre collarless shirt, dark brown trousers and simple black shoes. Plain tapered darkwood reedpipe with frayed cord binding, no complex invented keywork.",
+        "equipment": "Three full views, one playing instrument and two neutral; portraits labeled Skeptical and Deliberately off pitch. Small external reedpipe detail showing frayed binding; no internal cutaway or isolated hands.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Man reed player, frayed binding tightened with teeth; offers and performs split reed note. Specific instrument type not named, no precise mechanism supported."
+      ],
+      "visualInterpretation": [
+        "Art-only man about40, stocky with round shoulders, medium copper-brown skin, round cheeks, heavy brows, bent narrow nose, black moustache and cropped wavy black hair. Dull teal loose court-musician jacket, ochre collarless shirt, dark brown trousers and simple black shoes. Plain tapered darkwood reedpipe with frayed cord binding, no complex invented keywork."
+      ],
+      "states": [
+        {
+          "name": "Broken dawn cadence",
+          "description": "Three full views, one playing instrument and two neutral; portraits labeled Skeptical and Deliberately off pitch. Small external reedpipe detail showing frayed binding; no internal cutaway or isolated hands."
+        }
+      ],
+      "lighting": {
+        "moment": "Broken dawn cadence",
+        "motivation": "Paint and warm/cool character-light relationships only, no room or stage."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:tordik",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+          "role": "Inspected palace amber and violet oil-paint treatment",
+          "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+          "inspected": true,
+          "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/tordik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Tordik', subtitle 'The Sister Behind Her Smile'.\nSource facts: Man reed player, frayed binding tightened with teeth; offers and performs split reed note. Specific instrument type not named, no precise mechanism supported.\nRestrained art interpretation: Art-only man about40, stocky with round shoulders, medium copper-brown skin, round cheeks, heavy brows, bent narrow nose, black moustache and cropped wavy black hair. Dull teal loose court-musician jacket, ochre collarless shirt, dark brown trousers and simple black shoes. Plain tapered darkwood reedpipe with frayed cord binding, no complex invented keywork.\nComposition: Three full views, one playing instrument and two neutral; portraits labeled Skeptical and Deliberately off pitch. Small external reedpipe detail showing frayed binding; no internal cutaway or isolated hands. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:36:01.201642+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Tordik', subtitle 'The Sister Behind Her Smile'.\nSource facts: Man reed player, frayed binding tightened with teeth; offers and performs split reed note. Specific instrument type not named, no precise mechanism supported.\nRestrained art interpretation: Art-only man about40, stocky with round shoulders, medium copper-brown skin, round cheeks, heavy brows, bent narrow nose, black moustache and cropped wavy black hair. Dull teal loose court-musician jacket, ochre collarless shirt, dark brown trousers and simple black shoes. Plain tapered darkwood reedpipe with frayed cord binding, no complex invented keywork.\nComposition: Three full views, one playing instrument and two neutral; portraits labeled Skeptical and Deliberately off pitch. Small external reedpipe detail showing frayed binding; no internal cutaway or isolated hands. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+                "role": "Inspected palace amber and violet oil-paint treatment",
+                "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+                "inspected": true,
+                "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-a1e057b2-05fc-4d2e-add2-a603e1047782.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/tordik.png",
+            "outputSha256": "6b15cdb61f141cfa9ce8f80996119669674418355fe049ff1e97537c5b30bc3b",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:40:20.199954+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:40:20.199954+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "6b15cdb61f141cfa9ce8f80996119669674418355fe049ff1e97537c5b30bc3b",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "evidence": [
+          "Stocky moustached reed player differs from other cast, readable whole-body posture and split-note effort; simple reedpipe and frayed binding no invented mechanism.",
+          "Strong sculpted face/material paint with deep blue shadows and amber edges, clean ivory and exact named heading/story title."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "87fe10ab58a43a87dac15c2ebec9c3d2c79db0b74d68f2db327dc5ac41f6a13c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "6b15cdb61f141cfa9ce8f80996119669674418355fe049ff1e97537c5b30bc3b"
+    },
+    {
+      "id": "elyssan",
+      "name": "Elyssan",
+      "role": "Young singer who breaks the fourth entry",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Young singer who breaks the fourth entry",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no existing identity. Source identity remains the described role; no prose/canon edit."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"I can enter late,\" said the young singer.",
+          "explanation": "Individual speaking singer deliberately mistimes and then withholds a beat in decisive revocation cadence."
+        }
+      ],
+      "form": "Human young adult singer; source gender unspecified",
+      "storyAppearance": {
+        "anatomy": "Youngest singer among three singers; marked score, proposes deliberate late entry, eventually goes silent on fourth beat. Gender and exact age not specified.",
+        "lifeStage": "Young; depicted as a young adult interpretation, exact age unspecified",
+        "proportions": "Art-only youthful adult about20, slight build, pale brown skin, short springy chestnut curls, heart-shaped face, broad cheekbones, small dark eyes and broad flat nose. Gender presentation restrained/androgynous. Muted plum high-collar tunic with full sleeves, charcoal trousers and flat dark shoes. No adultized costume, jewelry or armor.",
+        "equipment": "Three whole-body singing/listening/profile views, two expression portraits labeled Late entry and Held silence; a small folded marked music score as personal object, no music stand, stage or isolated hands.",
+        "scale": "Ordinary human scale; no scene scale cue needed.",
+        "movement": "Natural source-appropriate poses and expressions"
+      },
+      "explicitCanon": [
+        "Youngest singer among three singers; marked score, proposes deliberate late entry, eventually goes silent on fourth beat. Gender and exact age not specified."
+      ],
+      "visualInterpretation": [
+        "Art-only youthful adult about20, slight build, pale brown skin, short springy chestnut curls, heart-shaped face, broad cheekbones, small dark eyes and broad flat nose. Gender presentation restrained/androgynous. Muted plum high-collar tunic with full sleeves, charcoal trousers and flat dark shoes. No adultized costume, jewelry or armor."
+      ],
+      "states": [
+        {
+          "name": "Broken dawn cadence",
+          "description": "Three whole-body singing/listening/profile views, two expression portraits labeled Late entry and Held silence; a small folded marked music score as personal object, no music stand, stage or isolated hands."
+        }
+      ],
+      "lighting": {
+        "moment": "Broken dawn cadence",
+        "motivation": "Paint and warm/cool character-light relationships only, no room or stage."
+      },
+      "recurrence": {
+        "identityKey": "the-sister-behind-her-smile:elyssan",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+          "role": "Inspected palace amber and violet oil-paint treatment",
+          "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+          "inspected": true,
+          "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+        },
+        {
+          "path": "stories/the-sister-behind-her-smile/title-image.jpg",
+          "role": "Inspected existing cover",
+          "sha256": "aaded18cbc1444179748cdc1a2f66e86c99a004fda93e524311ea886d90fb0ab",
+          "inspected": true,
+          "notes": "Symbolic cuff, mirror and red stitch; no full character likeness. Final plain cuff is not merged with active gracework. Purple belongs only to reflections, never real cloth."
+        }
+      ],
+      "output": "stories/the-sister-behind-her-smile/art/characters/elyssan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Elyssan', subtitle 'The Sister Behind Her Smile'.\nSource facts: Youngest singer among three singers; marked score, proposes deliberate late entry, eventually goes silent on fourth beat. Gender and exact age not specified.\nRestrained art interpretation: Art-only youthful adult about20, slight build, pale brown skin, short springy chestnut curls, heart-shaped face, broad cheekbones, small dark eyes and broad flat nose. Gender presentation restrained/androgynous. Muted plum high-collar tunic with full sleeves, charcoal trousers and flat dark shoes. No adultized costume, jewelry or armor.\nComposition: Three whole-body singing/listening/profile views, two expression portraits labeled Late entry and Held silence; a small folded marked music score as personal object, no music stand, stage or isolated hands. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:36:01.201642+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio, uniform light warm IVORY ground. Exact large readable dark serif character heading and story subtitle. Heavy SCULPTED IMPASTO oils in the Canadian Group of Seven tradition: broad interlocking opaque palette-knife slabs and decisive bristle masses actually CONSTRUCT the face, hair, skin and clothing. Matte simplified eyes and broad cheek/nose planes; no anime, beauty gloss or photographic face. Reference is actual story painting for paint handling and warm amber edge/plane light against RICH COOL violet-blue SHADOWS. Keep night values visibly dark on character, while blank ground stays light. Do NOT transfer scenery from reference. Completely clean ground, NO floor patch, contact shadow puddles, location vignette, furniture, swatches or palette. No isolated hands or anatomical side labels. Useful natural poses with complete uncropped bodies and comfortable spacing. \nExact heading 'Elyssan', subtitle 'The Sister Behind Her Smile'.\nSource facts: Youngest singer among three singers; marked score, proposes deliberate late entry, eventually goes silent on fourth beat. Gender and exact age not specified.\nRestrained art interpretation: Art-only youthful adult about20, slight build, pale brown skin, short springy chestnut curls, heart-shaped face, broad cheekbones, small dark eyes and broad flat nose. Gender presentation restrained/androgynous. Muted plum high-collar tunic with full sleeves, charcoal trousers and flat dark shoes. No adultized costume, jewelry or armor.\nComposition: Three whole-body singing/listening/profile views, two expression portraits labeled Late entry and Held silence; a small folded marked music score as personal object, no music stand, stage or isolated hands. Typography is ONLY the requested name, story subtitle and brief useful labels; do not print source notes or explanatory prose. Boots/shoes end directly against flat ivory; absolutely no brushmarks beneath them.",
+            "references": [
+              {
+                "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+                "role": "Inspected palace amber and violet oil-paint treatment",
+                "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+                "inspected": true,
+                "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-39d11aa4-5d41-411d-b679-ec50fe3bdb16.png",
+            "savedPath": "stories/the-sister-behind-her-smile/art/characters/elyssan.png",
+            "outputSha256": "158871ea5d81c2fd067a916c4da91c4588ed75782ee1cb814e96bc1cfaaf3db5",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:40:20.199954+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:40:20.199954+00:00",
+        "sourceSha256": "3473a3d20a0821a4741f5ccb4960580f580d2e9cd50453a251ac82e0b7f9477e",
+        "outputSha256": "158871ea5d81c2fd067a916c4da91c4588ed75782ee1cb814e96bc1cfaaf3db5",
+        "references": [
+          {
+            "path": "stories/the-sister-behind-her-smile/art/interiors/01-valsor-supper-room.png",
+            "role": "Inspected palace amber and violet oil-paint treatment",
+            "sha256": "1aeb69473050245dcba803194a74282cc5ce85129359d2f50f8d5a70b2ac9d24",
+            "inspected": true,
+            "notes": "Paint and warm/cool character-light relationships only, no room or stage."
+          }
+        ],
+        "evidence": [
+          "Young singer has consistent slight adult identity, modest plum tunic, singing/listening/rear views and late-entry/held-silence expressions.",
+          "Marked score/source role retained; opaque painted facial planes match garments, source-inspired warm/cool contrast, clean ivory and no isolated hands."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "d2b0fee2e90efa62c6d2291441d2a38f6c901b520d808eb0370699b7d04a64d3"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source read fully, canon marker checked; actual cover and source interior paintings inspected. Source facts separated from art choices, final and active gracework states separated; selected performers have individual decisive action. Character-only no-hand-study layout."
+      },
+      "outputSha256": "158871ea5d81c2fd067a916c4da91c4588ed75782ee1cb814e96bc1cfaaf3db5"
+    }
+  ]
+}
