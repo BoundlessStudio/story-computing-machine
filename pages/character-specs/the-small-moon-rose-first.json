@@ -1,0 +1,1227 @@
+{
+  "slug": "the-small-moon-rose-first",
+  "title": "The Small Moon Rose First",
+  "source": "stories/the-small-moon-rose-first/05-story.md",
+  "canon": true,
+  "mainCastEvidence": "Nell and Bash carry the search/reunion and ethical conflict; Celia anchors sustained protective support; Trenn's repeated mentor rule and token shape every choice; Saint's remembered scarf theft authenticates Bash; Hollow Regent supplies the opening central threat and ongoing fear. Minor cameo figures excluded.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Tavra",
+      "reason": "One opening farewell/animal handoff and later mention; no substantial individual arc."
+    },
+    {
+      "name": "Willa Corst; Indexer Prax",
+      "reason": "Single illustrative remembered incident/bargain each; system context but no sustained individual role."
+    },
+    {
+      "name": "Unnamed resistance fighters, claimant, Regent officer, customs priest, Bash's adults and hospital staff",
+      "reason": "Collective background or isolated supporting interactions."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Regent three-line identity infrastructure",
+    "universe/rules.md#Witnessed Glass Gate operation"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover token embossed ornament is subordinate to source scratched badly proportioned sun; retain copper/broken irregular halves only.",
+    "Cover has no character faces; all face/body/costume details not in prose are art-only, no ancestry inferred from surname.",
+    "Regent physical body unsupported: sheet limited to visible black identity-thread with crawling word fragments, not invented humanoid villain."
+  ],
+  "characters": [
+    {
+      "id": "nell-mercado",
+      "name": "Nell Mercado",
+      "role": "Protagonist returned traveler",
+      "selectionEvidence": [
+        {
+          "quote": "Her body was thirteen again.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Her tally belt hung twice around her waist.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "the pale ash-hound tracks around her calf and the shiny ridge across her palm",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Nell Mercado",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human girl, restored thirteen-year-old body",
+        "lifeStage": "13 on February return; reunion months later",
+        "proportions": "Narrow shoulders, too-short jeans; body half-starved at return",
+        "markings": "Pale ash-hound calf scars and palm hook/ridge; no side specified",
+        "clothing": "Red hoodie/sleeves, short jeans, sneakers; tally belt doubled around waist",
+        "equipment": "One broken copper crescent half-token; 617 belt cuts",
+        "movement": "Watchful counted exits, guarded shoulders then slight relief"
+      },
+      "explicitCanon": [
+        "Restored child body not adult adolescent body.",
+        "No knife on modern return belt; scars persist; copperhalf not whole coin."
+      ],
+      "visualInterpretation": [
+        "Art-only medium warm-brown skin, darkbrown eyes, broad short nose, dark thick hair tied low braid; slim underfed but not skeletal.",
+        "Art-choice leftcalf scar visible between denim hem and socks; no isolated palm/scar study.",
+        "Two modern-return full views, front/back; two portraits wary and cautious relief. No older Ravel state to confuse age."
+      ],
+      "states": [
+        {
+          "name": "Modern return/reunion",
+          "description": "Redhoodie, too-short bluejeans, sneakers, doubled tally belt, one copperhalf."
+        }
+      ],
+      "lighting": "Soft cool station/freezer diffuse light with restrained warmer reflected planes.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Nell Mercado",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/nell-mercado.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:nell-mercado",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:42:39.755509+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Nell Mercado\"; smaller \"The Small Moon Rose First\". Human GIRL restored to age THIRTEEN, unequivocally young child proportions/narrow shoulders, slim from deprivation but not skeletal. Art identity: warm MEDIUM BROWN skin, darkbrown eyes, broad short nose, thick darkbrown hair tied as LOW BRAID, slightly squared young face. Same13yearold face and body in all views, no adultmodel or tall olderteen. Quiet watchful intelligence with wary shoulders, no glamorous pose.\nModern return/reunion clothing: faded RED HOODIE, TOO-SHORT BLUE JEANS ending above ankles, ordinary gray socks and complete scuffed sneakers. Long worn BROWN LEATHER TALLY BELT visibly loops TWICE around her narrow waist OVER hoodie; dense small tally cuts representing617days, do not print/fake an exact count. NO knife/knife sheath, no sword, no armor, no backpack. Source calf pale ash-hound tracks may appear unobtrusively above one sock where trouserhem permits; do not expose her body for scars. No independent hand/scar detail.\nTwo complete head-to-toe frontthreequarter and backthreequarter views, unclipped braid/feet. In front one natural hand at hip holds a SMALL SINGLE COPPER HALF-TOKEN; no open-palm inspectionpose. At right two boldpainted medium portraits wary exit-counting and very slight relieved smile. Bottomright small isolated half-token EQUIPMENT STUDY: roughly semicircular broken copper coin with irregular broken edge, part of a badly proportioned SCRATCHED SUN. Cover image4 indicates copper/broken edges only; do not copy ornate embossedrays or gemstones or cord. Do not make wholecoin. One copperhalf owned by this character only.\nLighting source daytime station: soft broad DIFFUSE COOL WINDOW light and restrained cream reflections from image1 stationpainting, deepmuted umber/slate shadows; no spotlight/goldhalo. PRIMARY rendering is image1 painted station's broad connected color/value masses and bristle rhythms translated to humanplanes, matte skin equallybold. Originalsheet image2 is secondary paint/presentation only; do not borrow its medievalwoman. Clear quiet warmivory surrounding bodies/portraits, no stationfurniture, ground, swatches, moonpicture or scenery.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+                "role": "Primary Group of Seven oil handling and daytime station diffuse light",
+                "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary presentation/paint only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-small-moon-rose-first/art/interiors/01-the-freezer-aisle.png",
+                "role": "Soft cool modern indoor palette only",
+                "sha256": "af2b1ce43c23fec01ede1545825ece57966455ae1c4b27235c5915a45de8bcbe",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-small-moon-rose-first/title-image.jpg",
+                "role": "Broken copper identity only; replace relief sun with scratched imperfectsun",
+                "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+            "outputSha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:44:13.528917+00:00",
+            "reviewFindings": [
+              "Actual saved pixels: one youthful narrow-shouldered Nell in complete front/back body and consistent wary/relieved portraits; art-only brown face and dark braid stable.",
+              "Source red hoodie, short jeans, sneakers and visibly doubled tally-cut belt preserved. No modern knife, no isolated hand study, body scars not sensationalized.",
+              "Copper fractured half-token and sun motif are shown as ordinary equipment, no magic; bold paint ridges are rendering rather than new artifact mechanism.",
+              "Faces/hair/fabric share opaque broken oil planes, complete shoes, readable name/title, clean ivory and restrained modern indoor diffuse light."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+            "role": "Primary Group of Seven oil handling and daytime station diffuse light",
+            "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary presentation/paint only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/01-the-freezer-aisle.png",
+            "role": "Soft cool modern indoor palette only",
+            "sha256": "af2b1ce43c23fec01ede1545825ece57966455ae1c4b27235c5915a45de8bcbe",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-small-moon-rose-first/title-image.jpg",
+            "role": "Broken copper identity only; replace relief sun with scratched imperfectsun",
+            "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Nell Mercado\"; smaller \"The Small Moon Rose First\". Human GIRL restored to age THIRTEEN, unequivocally young child proportions/narrow shoulders, slim from deprivation but not skeletal. Art identity: warm MEDIUM BROWN skin, darkbrown eyes, broad short nose, thick darkbrown hair tied as LOW BRAID, slightly squared young face. Same13yearold face and body in all views, no adultmodel or tall olderteen. Quiet watchful intelligence with wary shoulders, no glamorous pose.\nModern return/reunion clothing: faded RED HOODIE, TOO-SHORT BLUE JEANS ending above ankles, ordinary gray socks and complete scuffed sneakers. Long worn BROWN LEATHER TALLY BELT visibly loops TWICE around her narrow waist OVER hoodie; dense small tally cuts representing617days, do not print/fake an exact count. NO knife/knife sheath, no sword, no armor, no backpack. Source calf pale ash-hound tracks may appear unobtrusively above one sock where trouserhem permits; do not expose her body for scars. No independent hand/scar detail.\nTwo complete head-to-toe frontthreequarter and backthreequarter views, unclipped braid/feet. In front one natural hand at hip holds a SMALL SINGLE COPPER HALF-TOKEN; no open-palm inspectionpose. At right two boldpainted medium portraits wary exit-counting and very slight relieved smile. Bottomright small isolated half-token EQUIPMENT STUDY: roughly semicircular broken copper coin with irregular broken edge, part of a badly proportioned SCRATCHED SUN. Cover image4 indicates copper/broken edges only; do not copy ornate embossedrays or gemstones or cord. Do not make wholecoin. One copperhalf owned by this character only.\nLighting source daytime station: soft broad DIFFUSE COOL WINDOW light and restrained cream reflections from image1 stationpainting, deepmuted umber/slate shadows; no spotlight/goldhalo. PRIMARY rendering is image1 painted station's broad connected color/value masses and bristle rhythms translated to humanplanes, matte skin equallybold. Originalsheet image2 is secondary paint/presentation only; do not borrow its medievalwoman. Clear quiet warmivory surrounding bodies/portraits, no stationfurniture, ground, swatches, moonpicture or scenery.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:44:13.528917+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+            "role": "Primary Group of Seven oil handling and daytime station diffuse light",
+            "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary presentation/paint only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/01-the-freezer-aisle.png",
+            "role": "Soft cool modern indoor palette only",
+            "sha256": "af2b1ce43c23fec01ede1545825ece57966455ae1c4b27235c5915a45de8bcbe",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-small-moon-rose-first/title-image.jpg",
+            "role": "Broken copper identity only; replace relief sun with scratched imperfectsun",
+            "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels: one youthful narrow-shouldered Nell in complete front/back body and consistent wary/relieved portraits; art-only brown face and dark braid stable.",
+          "Source red hoodie, short jeans, sneakers and visibly doubled tally-cut belt preserved. No modern knife, no isolated hand study, body scars not sensationalized.",
+          "Copper fractured half-token and sun motif are shown as ordinary equipment, no magic; bold paint ridges are rendering rather than new artifact mechanism.",
+          "Faces/hair/fabric share opaque broken oil planes, complete shoes, readable name/title, clean ivory and restrained modern indoor diffuse light."
+        ],
+        "specificationSha256": "223b718a548c56adabfa9b9ce744d9f85a393aaeddab4485ff709bfd537bcbf9"
+      }
+    },
+    {
+      "id": "sebastian-bash-wren",
+      "name": "Sebastian “Bash” Wren",
+      "role": "Sibling-like friend and returned traveler",
+      "selectionEvidence": [
+        {
+          "quote": "He looked twelve.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "The Gate had restored his departure body and his whole red scarf.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "The little finger leaned toward the next one.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Sebastian Wren",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human boy",
+        "lifeStage": "12 restored body",
+        "proportions": "Small narrow shoulders, younger than Nell, dark hair",
+        "markings": "Left little finger bent toward ring finger; pale line crosses leftwrist; leftshoulder guarded",
+        "clothing": "Whole restored red tasseled scarf",
+        "equipment": "One copper crescent half-token",
+        "movement": "Counts exits, guarded leftshoulder, drywit"
+      },
+      "explicitCanon": [
+        "12 not older Ravel adolescent.",
+        "Redscarf complete restored tassels, not chewed in modernstate.",
+        "Leftlittlefinger healedcrooked, not missing; natural integrated hands only."
+      ],
+      "visualInterpretation": [
+        "Art-only fairskin, darkbrown tousledshort hair, graybrown eyes, longstraightnose, thin youthfulface; distinct Nell.",
+        "Art-choice muted charcoal pullover navytrousers browntrainers; modest ordinary modern clothing."
+      ],
+      "states": [
+        {
+          "name": "June return/reunion",
+          "description": "Young body and whole redscarf, persistent scars and half-token."
+        }
+      ],
+      "lighting": "Soft station diffuse daylight, mutedgray/coolshadow.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Sebastian “Bash” Wren",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/sebastian-bash-wren.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:sebastian-bash-wren",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:44:14.554628+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Sebastian “Bash” Wren\"; subtitle \"The Small Moon Rose First\". One HUMAN BOY in restored TWELVE-YEAR-OLD departure body. Short slim narrowshoulders unmistakably12, not adult or olderteen. DARK BROWN tousled short hair as source, art-choice FAIR SKIN, graybrown eyes, longstraight youthfulnose, longnarrowface with small chin, distinct from Nell in attachedsheet. Same age/face/hair in all views. Wary scanning expression, small dry wrysmile otherportrait. Guarded leftshoulder posture slight only.\nWhole intact RED SCARF with pristine complete TASSELED ENDS, no chewingdamage: his clothing restored through Gate. Art-only ordinary CHARCOAL knitpullover, NAVY trousers, worn BROWN trainers, no cape orarmor. Pale old scar crosses leftwrist and leftlittlefinger healed bent slightly toward neighboringfinger where natural fullbody hands happenvisible; NO isolated hand study, closeup, anatomylabel or palm display. Do not focus scars.\nLEFT full frontthreequarter, CENTER full backthreequarter, allshoes/scarfends insideframe. RIGHT two young painted faceportraits with scarf, one suspicious counting-exits, one small drysmile. A small COPPER HALF-TOKEN held naturally low by body, plain worn irregularly broken halfcoin with faint rough scratchedsun, no glitter or glow. No enlargedhand or token enlargement. No cello depicted; lessons are history, not instrumentcarried in scene.\nPrimary paintingimage1 guides matte broad connected paint and DIFFUSE COOL DAYTIME STATION illumination, subdued warm creamreflections and slate/umber shadedplanes. Attached Nell image3 is stylecohesion only; boy must not take her brownskin, face, braid orhoodie. Faces are bold interlocking oily planes like clothing, never smooth. Ivoryground, no floorshadow/scenery, no otherperson.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+                "role": "Primary oil handling and station diffuse light",
+                "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary impasto presentation only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+                "role": "Same-story rendering coherence only, not Nell identity",
+                "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-ba157c73-90e4-43cb-8182-cde11d69d88a.png",
+            "outputSha256": "9c5db58f5527fafb40bf5b4577613edf54267445d362f7a8560f7bb3c5dbcc25",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:45:56.314999+00:00",
+            "reviewFindings": [
+              "Actual saved sheet preserves youthful narrow-shouldered boy with dark short hair and consistent face across complete front/back and wary/wry portraits.",
+              "Whole restored red tasseled scarf, ordinary charcoal/navy clothes and small copper half-token; no older Ravel body or chewed modern scarf. Natural hands only, no isolated studies.",
+              "Source wrist/finger details remain part of character specification; this layout does not expose the tucked left hand for a detail study.",
+              "Opaque bold oil across faces and clothes, exact readable name/storytitle, clear ivory, full shoes and no location/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+            "role": "Primary oil handling and station diffuse light",
+            "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+            "role": "Same-story rendering coherence only, not Nell identity",
+            "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Sebastian “Bash” Wren\"; subtitle \"The Small Moon Rose First\". One HUMAN BOY in restored TWELVE-YEAR-OLD departure body. Short slim narrowshoulders unmistakably12, not adult or olderteen. DARK BROWN tousled short hair as source, art-choice FAIR SKIN, graybrown eyes, longstraight youthfulnose, longnarrowface with small chin, distinct from Nell in attachedsheet. Same age/face/hair in all views. Wary scanning expression, small dry wrysmile otherportrait. Guarded leftshoulder posture slight only.\nWhole intact RED SCARF with pristine complete TASSELED ENDS, no chewingdamage: his clothing restored through Gate. Art-only ordinary CHARCOAL knitpullover, NAVY trousers, worn BROWN trainers, no cape orarmor. Pale old scar crosses leftwrist and leftlittlefinger healed bent slightly toward neighboringfinger where natural fullbody hands happenvisible; NO isolated hand study, closeup, anatomylabel or palm display. Do not focus scars.\nLEFT full frontthreequarter, CENTER full backthreequarter, allshoes/scarfends insideframe. RIGHT two young painted faceportraits with scarf, one suspicious counting-exits, one small drysmile. A small COPPER HALF-TOKEN held naturally low by body, plain worn irregularly broken halfcoin with faint rough scratchedsun, no glitter or glow. No enlargedhand or token enlargement. No cello depicted; lessons are history, not instrumentcarried in scene.\nPrimary paintingimage1 guides matte broad connected paint and DIFFUSE COOL DAYTIME STATION illumination, subdued warm creamreflections and slate/umber shadedplanes. Attached Nell image3 is stylecohesion only; boy must not take her brownskin, face, braid orhoodie. Faces are bold interlocking oily planes like clothing, never smooth. Ivoryground, no floorshadow/scenery, no otherperson.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "9c5db58f5527fafb40bf5b4577613edf54267445d362f7a8560f7bb3c5dbcc25",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:45:56.314999+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "9c5db58f5527fafb40bf5b4577613edf54267445d362f7a8560f7bb3c5dbcc25",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+            "role": "Primary oil handling and station diffuse light",
+            "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+            "role": "Same-story rendering coherence only, not Nell identity",
+            "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved sheet preserves youthful narrow-shouldered boy with dark short hair and consistent face across complete front/back and wary/wry portraits.",
+          "Whole restored red tasseled scarf, ordinary charcoal/navy clothes and small copper half-token; no older Ravel body or chewed modern scarf. Natural hands only, no isolated studies.",
+          "Source wrist/finger details remain part of character specification; this layout does not expose the tucked left hand for a detail study.",
+          "Opaque bold oil across faces and clothes, exact readable name/storytitle, clear ivory, full shoes and no location/floor/swatches."
+        ],
+        "specificationSha256": "30d9e82f4f3ec0c25985dbfacaec02d40ce65dc6e9fa48b95bb9e387617011cf"
+      }
+    },
+    {
+      "id": "celia",
+      "name": "Celia",
+      "role": "Nell's mother and sustained support",
+      "selectionEvidence": [
+        {
+          "quote": "Celia phoned missing-child lines while Nell searched recital programs",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Celia found her at two in the morning sorting facts into columns.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Now her mother trusted her enough not to rescue her",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman",
+        "lifeStage": "Adult mother of13yearold; ageunspecified",
+        "proportions": "Unspecified",
+        "markings": "None stated",
+        "clothing": "Ordinary modern clothing unspecified",
+        "equipment": "Mug/laptop source activities, no magical gear",
+        "movement": "Protective attentive worry, gives space"
+      },
+      "explicitCanon": [
+        "Source first name Celia only; do not append family surname.",
+        "Ordinary mother, no trauma scars borrowed from child."
+      ],
+      "visualInterpretation": [
+        "Art-only early40s medium warmbrown skin, broadshortnose family resemblance, darkbrown hair practical lowknot, darkeyes, fuller adult frame.",
+        "Forestgreen pullover, charcoaltrousers, brownflatshoes, muted creamcardigan; optional ordinary mug."
+      ],
+      "states": [
+        {
+          "name": "Late-night support",
+          "description": "Ordinary fullyclothed mother in lamplit tired concentration."
+        }
+      ],
+      "lighting": "Night kitchen warm practical lamp on limited planes, deepumber/slate shaded side; no universally bright daylight.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Celia",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/celia.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:celia",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:45:57.359185+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Celia\"; subtitle \"The Small Moon Rose First\". One human adult MOTHER, art-choice early40s, mature medium BROWN skin, fullsoft face, broad shortnose and darkbrown eyes, expressive tired eyelids, thicker waist and shoulders than ateen. Darkbrown hair with a few graystrands in a practical LOW KNOT. Thirdimage Nell provides familyresemblance only; this is a clearly mature adult with fuller cheeks, eye/mouth lines and calmprotective gravity, not a teen face. No youthfulbraid orhoodie/scars.\nModern ordinary night-home clothing: FORESTGREEN looseknit pullover, unbuttoned muted CREAM CARDIGAN, plain CHARCOAL longtrousers and BROWN soft flatshoes. No jewelry required, no medieval outfit or magicalequipment. One complete frontthreequarterbody holding ordinary ceramic MUG close to torso in both attached hands, other complete backthreequarterbody arms rested naturally. Allfeetvisible. RIGHT two medium faceportraits: concerned listening, weary reassuring halfsmile. NO handcloseups, laptop/room/scenicvignette, child, halo orghost.\nNIGHT interior lighting from first kitchenpainting: small practical AMBER lamp catches one cheek/hair edge and cardigan folds, larger connected DEEP UMBER/SLATE shadow masses on far side and trousers. Keep nightshade dark within figure though surrounding sheet stays flat bright quietIVORY. No universal daylight, no theater spotlight or orange-blue rim spectacle. Broad connected MATTE opaque oilplanes build mature face equalto cardigan, selective thickknife edges, quiet connectingbrushpasses. Not a smooth face under crackletexture.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+                "role": "Primary oil handling and specific night kitchen lamplight/shadows",
+                "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary impasto presentation only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+                "role": "Nell family resemblance, not same age, hairstyle, body, clothes or scars",
+                "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c4cb0e2e-c5cf-4d3b-a470-8a58d99a9d33.png",
+            "outputSha256": "04ec8dcaf8f24efe8980ce77d39ba49105af18bc6e18aacaa7f254ef453b9d4e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:47:35.165965+00:00",
+            "reviewFindings": [
+              "Actual pixels: mature mother with fuller adult proportions, low hair knot and worried/reassuring faces, consistent across front/back/portraits; distinct clothing and life stage from Nell.",
+              "Ordinary cardigan/pullover/trousers/flats and ceramic mug, no invented powers or child scars. Exact source name Celia preserved without inferred surname.",
+              "Warm night practical-light planes and dark connected trouser/skin shadows, opaque painted faces/fabric; complete silhouettes, clean ivory, no hand studies/scenery/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+            "role": "Primary oil handling and specific night kitchen lamplight/shadows",
+            "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+            "role": "Nell family resemblance, not same age, hairstyle, body, clothes or scars",
+            "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Celia\"; subtitle \"The Small Moon Rose First\". One human adult MOTHER, art-choice early40s, mature medium BROWN skin, fullsoft face, broad shortnose and darkbrown eyes, expressive tired eyelids, thicker waist and shoulders than ateen. Darkbrown hair with a few graystrands in a practical LOW KNOT. Thirdimage Nell provides familyresemblance only; this is a clearly mature adult with fuller cheeks, eye/mouth lines and calmprotective gravity, not a teen face. No youthfulbraid orhoodie/scars.\nModern ordinary night-home clothing: FORESTGREEN looseknit pullover, unbuttoned muted CREAM CARDIGAN, plain CHARCOAL longtrousers and BROWN soft flatshoes. No jewelry required, no medieval outfit or magicalequipment. One complete frontthreequarterbody holding ordinary ceramic MUG close to torso in both attached hands, other complete backthreequarterbody arms rested naturally. Allfeetvisible. RIGHT two medium faceportraits: concerned listening, weary reassuring halfsmile. NO handcloseups, laptop/room/scenicvignette, child, halo orghost.\nNIGHT interior lighting from first kitchenpainting: small practical AMBER lamp catches one cheek/hair edge and cardigan folds, larger connected DEEP UMBER/SLATE shadow masses on far side and trousers. Keep nightshade dark within figure though surrounding sheet stays flat bright quietIVORY. No universal daylight, no theater spotlight or orange-blue rim spectacle. Broad connected MATTE opaque oilplanes build mature face equalto cardigan, selective thickknife edges, quiet connectingbrushpasses. Not a smooth face under crackletexture.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "04ec8dcaf8f24efe8980ce77d39ba49105af18bc6e18aacaa7f254ef453b9d4e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:47:35.165965+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "04ec8dcaf8f24efe8980ce77d39ba49105af18bc6e18aacaa7f254ef453b9d4e",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+            "role": "Primary oil handling and specific night kitchen lamplight/shadows",
+            "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-04597945-6e2e-4d48-a575-b5e7d82b6a0c.png",
+            "role": "Nell family resemblance, not same age, hairstyle, body, clothes or scars",
+            "sha256": "6a8f1fe7e8a4bb060a318e97c3c816ca7902a863c8dd2af7ceaa6652a5544d26",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: mature mother with fuller adult proportions, low hair knot and worried/reassuring faces, consistent across front/back/portraits; distinct clothing and life stage from Nell.",
+          "Ordinary cardigan/pullover/trousers/flats and ceramic mug, no invented powers or child scars. Exact source name Celia preserved without inferred surname.",
+          "Warm night practical-light planes and dark connected trouser/skin shadows, opaque painted faces/fabric; complete silhouettes, clean ivory, no hand studies/scenery/swatches."
+        ],
+        "specificationSha256": "d3b09bf63f94fa6920780c1241105b9c17c97ef0816c23bd88f80d66a071bd37"
+      }
+    },
+    {
+      "id": "trenn",
+      "name": "Trenn",
+      "role": "Deceased road guide and remembered mentor",
+      "selectionEvidence": [
+        {
+          "quote": "One word, then stop, the road guide had taught them.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "the copper gaming token he had left them was split into two rough crescents",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "the silver button sewn inside Trenn's collar",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man",
+        "lifeStage": "Adult deceased before crossing, shown only alive in memory",
+        "proportions": "Unspecified",
+        "markings": "Unspecified",
+        "clothing": "Collared garment with silverbutton hiddeninside",
+        "equipment": "Coppergamingtoken with scratched poorlyproportioned sun; originallywhole",
+        "movement": "Steady economical instruction, thumbtap oncup"
+      },
+      "explicitCanon": [
+        "Not a ghost/resurrected presentperson.",
+        "Silverbutton sewn INSIDE collar, not elaborate exposed uniformrank.",
+        "Token ordinary copper, not magical selfactive."
+      ],
+      "visualInterpretation": [
+        "Art-only mature50s weathered umbertanskin, deep eyes, shortiron-graycurling hair, shortgrizzledbeard, broadsturdy roadwornbody.",
+        "Mossgray roughwoolcollaredcoat, fadedtaupe shirt, browntrousers mudbrownboots, plainbelt and smallsoftpouch.",
+        "Alive remembered front/back body, stern/kindportraits, close foldedcollar smallsilverbutton; ordinary whole gamingtoken prop."
+      ],
+      "states": [
+        {
+          "name": "Remembered road guide",
+          "description": "Alive beforedeath; ordinary travelwear and intacttoken."
+        }
+      ],
+      "lighting": "Subdued Ravel daylight, mutedstonegray/umber/olive connected shadows.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Trenn",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/trenn.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:trenn",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:47:36.141641+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Trenn\"; subtitle \"The Small Moon Rose First\", small state line \"Remembered road guide\". One ordinary human MAN alive in a remembered period, no ghost, corpse, translucentbody, immortality or resurrection. Artchoices: mature mid50s, sturdy broadshoulders, weathered UMBER-TAN skin, deep-set DARK EYES, heavy STRAIGHT NOSE, wide blunt chin, short IRON-GRAY CURLING HAIR and short GRIZZLED BEARD. A face shaped by outdoor travel, creasedeyelids and steady composed gaze, not handsomefashionmodel. Sameolderface body andwear in everyview.\nMossgray roughwool knee-length COLLARED ROAD COAT, faded TAUPE collarlessshirt under it, plain worn brownleather belt and smallsoftpouch, BROWN trousers and mudbrown completeclosedBOOTS. A verysmall SILVER BUTTON is secretly sewn INSIDE his outercoat's collar; not militarybuttons/rank. No armor, swords or ornate fantasticgear unsupportedby source.\nLEFT complete FRONTTHREEQUARTER body, CENTER complete BACKTHREEQUARTER body. Natural relaxed hands bybody/oneheld near ordinary cup, no handstudies. RIGHT two bold mediumfaces: spare stern instruction, quiet rueful near-smile. Bottomright smallgarmentdetail of COLLAR FOLDED OPEN to show ONE tiny ordinary SILVER BUTTON attached on inside cloth, no attachedhand. Beside it one small ordinary intact COPPER GAMING TOKEN equipmentcircle: very rough shallow hand-SCRATCHED BADLYPROPORTIONED SUN, low detail, plain coppercoin no rimjewelry/medal/coinsystem/glow. This is before tokenbroke; do not show two halves.\nFIRST landscape primary for subdued Ravel OVERCAST DAYLIGHT and broadconnected slate/earth/olive paint, no location. Keep weathered face constructed in decisive matte brushplanes as boldly as coat. Quiet warmivory, no floorpatch, no scenery, no diagrams and no palette strips.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+                "role": "Primary broad oil handling and subdued Ravel daylight palette",
+                "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary paint/presentation only, no medieval armor identity",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c7a52625-a317-4918-af54-9d8493b526ee.png",
+            "outputSha256": "16c9ebb3d661e2434389d82ba2df4518cbb2be9ffdc5bc72606e15cb3d83b241",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:49:18.381203+00:00",
+            "reviewFindings": [
+              "Actual saved full front/back and two portraits consistently depict living remembered mature guide; title explicitly marks remembered state, no ghost/death invention.",
+              "Ordinary roadwear, cup, hidden inside-collar silver button and whole pre-break copper gaming token shown. Token sun is a rough scratched motif, no autonomous magic.",
+              "Bold matte oil forms cover creased face, gray curls/beard and rough wool/leather; subdued Ravel daylight, ivory ground, complete boots, no isolated hand studies/location/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+            "role": "Primary broad oil handling and subdued Ravel daylight palette",
+            "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary paint/presentation only, no medieval armor identity",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Trenn\"; subtitle \"The Small Moon Rose First\", small state line \"Remembered road guide\". One ordinary human MAN alive in a remembered period, no ghost, corpse, translucentbody, immortality or resurrection. Artchoices: mature mid50s, sturdy broadshoulders, weathered UMBER-TAN skin, deep-set DARK EYES, heavy STRAIGHT NOSE, wide blunt chin, short IRON-GRAY CURLING HAIR and short GRIZZLED BEARD. A face shaped by outdoor travel, creasedeyelids and steady composed gaze, not handsomefashionmodel. Sameolderface body andwear in everyview.\nMossgray roughwool knee-length COLLARED ROAD COAT, faded TAUPE collarlessshirt under it, plain worn brownleather belt and smallsoftpouch, BROWN trousers and mudbrown completeclosedBOOTS. A verysmall SILVER BUTTON is secretly sewn INSIDE his outercoat's collar; not militarybuttons/rank. No armor, swords or ornate fantasticgear unsupportedby source.\nLEFT complete FRONTTHREEQUARTER body, CENTER complete BACKTHREEQUARTER body. Natural relaxed hands bybody/oneheld near ordinary cup, no handstudies. RIGHT two bold mediumfaces: spare stern instruction, quiet rueful near-smile. Bottomright smallgarmentdetail of COLLAR FOLDED OPEN to show ONE tiny ordinary SILVER BUTTON attached on inside cloth, no attachedhand. Beside it one small ordinary intact COPPER GAMING TOKEN equipmentcircle: very rough shallow hand-SCRATCHED BADLYPROPORTIONED SUN, low detail, plain coppercoin no rimjewelry/medal/coinsystem/glow. This is before tokenbroke; do not show two halves.\nFIRST landscape primary for subdued Ravel OVERCAST DAYLIGHT and broadconnected slate/earth/olive paint, no location. Keep weathered face constructed in decisive matte brushplanes as boldly as coat. Quiet warmivory, no floorpatch, no scenery, no diagrams and no palette strips.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "16c9ebb3d661e2434389d82ba2df4518cbb2be9ffdc5bc72606e15cb3d83b241",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:49:18.381203+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "16c9ebb3d661e2434389d82ba2df4518cbb2be9ffdc5bc72606e15cb3d83b241",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+            "role": "Primary broad oil handling and subdued Ravel daylight palette",
+            "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary paint/presentation only, no medieval armor identity",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved full front/back and two portraits consistently depict living remembered mature guide; title explicitly marks remembered state, no ghost/death invention.",
+          "Ordinary roadwear, cup, hidden inside-collar silver button and whole pre-break copper gaming token shown. Token sun is a rough scratched motif, no autonomous magic.",
+          "Bold matte oil forms cover creased face, gray curls/beard and rough wool/leather; subdued Ravel daylight, ivory ground, complete boots, no isolated hand studies/location/swatches."
+        ],
+        "specificationSha256": "45240ddea7f648104e444f43a8330bc6df1b054edba9f05273d4b1b9cc131de1"
+      }
+    },
+    {
+      "id": "saint",
+      "name": "Saint",
+      "role": "Gray mule and private shared-memory witness",
+      "selectionEvidence": [
+        {
+          "quote": "Saint screamed and tried to bite the blue sparks off his own bridle.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Tavra dragged the gray mule toward the trees.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Saint bit the customs priest because Nell fed the mule the tasseled end of Bash's red scarf",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Mule quadruped",
+      "storyAppearance": {
+        "anatomy": "Real quadruped mule, long ears, four legs four single hooves, mane/tail",
+        "lifeStage": "Adult male",
+        "proportions": "Mule not donkey-miniature orhorse",
+        "markings": "Gray coat",
+        "clothing": "Plain bridle",
+        "equipment": "Redscarf tasseledend only in rememberedbiting head posture",
+        "movement": "Stubborn/pinnedears, bites, pulledreluctantly"
+      },
+      "explicitCanon": [
+        "Graymule, nohumanoidbody/hands.",
+        "No rider/Tavra/extraidentity or invented saddle load needed.",
+        "Blue sparks external Gate event, not mule magic; omit sparks."
+      ],
+      "visualInterpretation": [
+        "Art-only graybrownmule palegraymuzzle, darkshortmane and darktailtassel, long upright ears, sturdy legs darkhooves.",
+        "Two complete lateral/frontthreequarter standing views and two heads: attentive and annoyed with modest chewedredtassels."
+      ],
+      "states": [
+        {
+          "name": "Ravel companion",
+          "description": "Graymule wearing plain leatherbridle."
+        }
+      ],
+      "lighting": "Cool Ravel moonrise, connectedbluegray/umber shadows, smallcold reflectedplanes.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Saint",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/saint.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:saint",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:49:24.440569+00:00",
+            "prompt": "Create one 1536x1024 landscape3:2 CHARACTER REFERENCE SHEET on uninterrupted QUIET WARM IVORY. Exact large readable heading \"Saint\", smaller \"The Small Moon Rose First\". Single identity, an ordinary adult MALE GRAY MULE. NOT a humanoid, donkey miniature, horse with tiny ears, pony, magicalcreature or mythicalsteed. One coherent natural mule anatomy: fourlegs/foursinglehooves, longmuzzle, two LONG UPRIGHT MULE EARS, darkshortmane, intactdarktail with smalltassel. Medium sturdy workmuleproportions, GRAY coarsehair shadedgraybrown, palegray muzzle, darkhooves, dark eyes. Same distinctive muzzle/ears/mane/colorinallviews. No source-unspecified patterns/tackornament.\nComposition adapts to QUADRUPED: left two separated completebody views vertically arranged (upper LEFTLATERAL standing and lower FRONTTHREEQUARTER standing) with wholeears/tail/allhooves insideframe and spacing. Right upper readableheading and two medium headportraits: attentive earsforward, annoyed earspinned back. In annoyed head only, a modest little chewed RED SCARF TASSELED END gripped between teeth references source memory; it is cloth, not blood/tongue/magicalfire. Do not include humanowner/Tavra, a rider or otheranimal.\nPLAIN BROWN LEATHER BRIDLE fitted naturally in allviews, no inventedsaddleload/crown/wings/hands/humanclothes. No spark effects or selfluminousmule. Hooves part of completebody only, no isolatedanatomystudies.\nPRIMARY STYLE from first painting: GroupofSeven broad CONNECTED OPAQUE oilcolor/value masses, directionalbristle rhythm, selective thick impasto describing coarsehair and bony muzzle. NOT fine photorealhorse over texture. NIGHT MOONRISE of story: mostly deep connected muted BLUEGRAY/UMBER shadow withinmulebody, a few coolblue moon-reflected planes, not golden sunlight or theater rimlight. Ivoryground remains lightflat even though muleform lowkey. Second suppliedwomanstyle ONLY secondary paintpresentation, no woman/humanequipment. No location, floorpatch, scenery, sky/moonvignette, groundshadow, paintswatches or palettestrip.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+                "role": "Primary Group of Seven oil brushwork, cold opening moonrise palette only",
+                "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary paint/presentation only, no human form/equipment",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-3d5777a6-f07f-4b7d-ad24-b5336f9897eb.png",
+            "outputSha256": "70a67ea151763491a8896bd79a5aa98ec20c083f784d05e389fb9b3e94834dd2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:50:45.008060+00:00",
+            "reviewFindings": [
+              "Actual saved sheet shows one gray mule with consistent long ears, gray muzzle, short dark mane, intact tail and four hoofed legs per complete body view. No human anatomy or invented rider.",
+              "Plain bridle and annoyed head holding chewed red scarf tassels preserve the authentication memory; no mule-generated sparks or magical gear.",
+              "Cool muted gray/slate/umber painted coat and broad muzzle forms, readable source name/title, complete silhouettes with clean ivory and no ground/scenery/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+            "role": "Primary Group of Seven oil brushwork, cold opening moonrise palette only",
+            "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary paint/presentation only, no human form/equipment",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create one 1536x1024 landscape3:2 CHARACTER REFERENCE SHEET on uninterrupted QUIET WARM IVORY. Exact large readable heading \"Saint\", smaller \"The Small Moon Rose First\". Single identity, an ordinary adult MALE GRAY MULE. NOT a humanoid, donkey miniature, horse with tiny ears, pony, magicalcreature or mythicalsteed. One coherent natural mule anatomy: fourlegs/foursinglehooves, longmuzzle, two LONG UPRIGHT MULE EARS, darkshortmane, intactdarktail with smalltassel. Medium sturdy workmuleproportions, GRAY coarsehair shadedgraybrown, palegray muzzle, darkhooves, dark eyes. Same distinctive muzzle/ears/mane/colorinallviews. No source-unspecified patterns/tackornament.\nComposition adapts to QUADRUPED: left two separated completebody views vertically arranged (upper LEFTLATERAL standing and lower FRONTTHREEQUARTER standing) with wholeears/tail/allhooves insideframe and spacing. Right upper readableheading and two medium headportraits: attentive earsforward, annoyed earspinned back. In annoyed head only, a modest little chewed RED SCARF TASSELED END gripped between teeth references source memory; it is cloth, not blood/tongue/magicalfire. Do not include humanowner/Tavra, a rider or otheranimal.\nPLAIN BROWN LEATHER BRIDLE fitted naturally in allviews, no inventedsaddleload/crown/wings/hands/humanclothes. No spark effects or selfluminousmule. Hooves part of completebody only, no isolatedanatomystudies.\nPRIMARY STYLE from first painting: GroupofSeven broad CONNECTED OPAQUE oilcolor/value masses, directionalbristle rhythm, selective thick impasto describing coarsehair and bony muzzle. NOT fine photorealhorse over texture. NIGHT MOONRISE of story: mostly deep connected muted BLUEGRAY/UMBER shadow withinmulebody, a few coolblue moon-reflected planes, not golden sunlight or theater rimlight. Ivoryground remains lightflat even though muleform lowkey. Second suppliedwomanstyle ONLY secondary paintpresentation, no woman/humanequipment. No location, floorpatch, scenery, sky/moonvignette, groundshadow, paintswatches or palettestrip.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "70a67ea151763491a8896bd79a5aa98ec20c083f784d05e389fb9b3e94834dd2",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:50:45.008060+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "70a67ea151763491a8896bd79a5aa98ec20c083f784d05e389fb9b3e94834dd2",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+            "role": "Primary Group of Seven oil brushwork, cold opening moonrise palette only",
+            "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary paint/presentation only, no human form/equipment",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved sheet shows one gray mule with consistent long ears, gray muzzle, short dark mane, intact tail and four hoofed legs per complete body view. No human anatomy or invented rider.",
+          "Plain bridle and annoyed head holding chewed red scarf tassels preserve the authentication memory; no mule-generated sparks or magical gear.",
+          "Cool muted gray/slate/umber painted coat and broad muzzle forms, readable source name/title, complete silhouettes with clean ivory and no ground/scenery/swatches."
+        ],
+        "specificationSha256": "b64e93a0c5addd542678213e473205cd134ae9a727fa82be9fae97dd350fe1e4"
+      }
+    },
+    {
+      "id": "hollow-regent",
+      "name": "Hollow Regent",
+      "role": "Living central antagonist shown through identity-thread",
+      "selectionEvidence": [
+        {
+          "quote": "A black thread ran from the shattered ledger room, through the arch, and around Bash's left shoulder.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "Words crawled inside it: fragments of given names, family names, homes spoken by frightened mouths.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        },
+        {
+          "quote": "the Hollow Regent was still alive and pulling.",
+          "explanation": "Finished-source evidence supporting central narrative role/form"
+        }
+      ],
+      "form": "Source-supported projected thread; bodily appearance unknown",
+      "storyAppearance": {
+        "anatomy": "Body not directly described or visible; only projected blackthread manifestation",
+        "lifeStage": "Living antagonist",
+        "proportions": "Fine tensile ribbon/thread; curls around shoulder in scene, no isolated scale fixed",
+        "markings": "Crawling broken word fragments inside",
+        "materials": "Black magicalthread from livingcaster; not solidmetalrope",
+        "clothing": "No body/clothingsupported",
+        "equipment": "No independent animate ledger/house",
+        "movement": "Taut pull, curling extension toward neck"
+      },
+      "explicitCanon": [
+        "Only source-supported visibleeffect; no invented humanoidface, crown, horns,armor or internalbody.",
+        "Not abstractwordcloud portrait; blackthread with partialwords.",
+        "No othercharacter body or shoulder in folio."
+      ],
+      "visualInterpretation": [
+        "Single identity represented with three clearly labeled isolated morphology studies: taut thread, loopingthread, magnifiedwordfragment withinthread.",
+        "Charcoalblack/slatedark thinopaque oil ribbon, small palegray partialletter strokes, no new legible names/addresses."
+      ],
+      "states": [
+        {
+          "name": "Opening manifested thread",
+          "description": "Three morphology details of same living caster's visiblethread, not completebody."
+        }
+      ],
+      "lighting": "Night Gate context, black/lostedge with minimal mutedcoldblue reflectiveplanes.",
+      "references": [
+        {
+          "path": "stories/the-small-moon-rose-first/title-image.jpg",
+          "role": "Copper crescent identity only; source scratched sun overrides ornate cover relief",
+          "inspected": true,
+          "sha256": "3022bc2ee96913f7a768a721d74ec82d704b5961ad408f86fe84748c8dae4332"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/03-the-station-concourse.png",
+          "role": "Daytime diffused station light and broad oil planes; no environment",
+          "inspected": true,
+          "sha256": "7497dc9b57ea78650e637c59ac85876f142008cbf21111c9db536c33986d133a"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
+          "role": "Quiet night kitchen lamp, connected dark oil masses for Celia",
+          "inspected": true,
+          "sha256": "fdf0114d77319059b075f89f41ffb0c5793fc50c8a1fd39d44e7e05dfb64d7ca"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+          "role": "Opening cold moonrise and blue/violet shadow handling",
+          "inspected": true,
+          "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682"
+        },
+        {
+          "path": "stories/the-small-moon-rose-first/art/landscapes/03-broken-roofs-at-drosswall.png",
+          "role": "Ravel daylight slate/earth paint handling",
+          "inspected": true,
+          "sha256": "70cee948c5cbb7a04d17ee1d15b68111b35a521ea4e188eb727b46c38b3e2e0a"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Hollow Regent",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-small-moon-rose-first/art/characters/hollow-regent.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-small-moon-rose-first:hollow-regent",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:50:46.135932+00:00",
+            "prompt": "Create a1536x1024landscape3:2 oil CHARACTER MANIFESTATION folio on flat uninterrupted quiet WARM IVORY. Exact readable large heading \"Hollow Regent\"; smaller \"The Small Moon Rose First\"; state subtitle \"Manifested thread\". SINGLE LIVING ANTAGONIST is represented ONLY by the visible effect actually described: a thin BLACK THREAD containing crawling broken fragments of words, under pulling tension. The antagonist's BODY IS NOT DESCRIBED. DO NOT invent or show humanoidbody, silhouette, face, eyes, hands, crown, armor, horns, cloakedfigure, monster, mouth, heart or internal anatomy. Not a wordcloud portrait. No person, victim, shoulder or other identity. Thread is a projection of living caster, NOT a separate sentientcreature or magicbook.\nDesign THREE separated carefully labeled studies on ivory with generousnegative space: upperleft \"Taut thread\" shows a slender charcoal-black shallowcurving single strand, both tapered ends withinframe; lowerleft \"Looping thread\" shows the same slender strand looselycurled into ONE open loop and trailingends, nothing inside theloop; right \"Word fragments\" is explicitly an ENLARGED close view of one short curving section, dark ribbonlike minute surface with broken palegray letter-strokes crawling within it. No complete readable newname/address/incantation, just scattered incomplete glyphpieces. Black core stays coherent, no huge smoky cloud, no tentacles or extra branching limbs. No fixed canonicalthickness implied by enlargement.\nUse firstpainting as PRIMARY oil handling and cooldark openingmoonrise palette. Broad CONNECTED matte opaque CHARCOAL BLACK masses with selective lowrelief impasto/draggedbristle to make restrained slate/umber surface. A few small MUTED BLUEGRAY planes from cold night light, not selfluminous cyanfire or glitzy rimlight. Thickpaint describes the tensioncurve, not generic shiny3Drope, not calligraphicflatvector or photo. Second image only secondary impasto presentation, no woman'sform or gear. Clear ivory support around everythread, allendsunclipped. No location, Gate, ledger, swatches, floor, horizon, scaffolddiagram, scalehuman or scenepatch.",
+            "references": [
+              {
+                "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+                "role": "Primary oil handling and source cold opening moonrise palette",
+                "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary impasto presentation only, no human body",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-846b8b74-1592-4aaf-bb14-0fe769889e01.png",
+            "outputSha256": "d01062d6a3f89e192c53829a26281edd334b3c1962cf8418da7f71fb084519c9",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:55:41.499909+00:00",
+            "reviewFindings": [
+              "Actual saved sheet confines the living antagonist's visual identity to the source black projected thread. Taut and looping studies plus explicitly enlarged word-fragment section; no unsupported body, face, crown or victim.",
+              "Disconnected partial letter forms suggest crawling name/home fragments without establishing any new name, address, spell or magical mechanism.",
+              "Dark matte connected charcoal/slate oil thread against ivory, exact source title/name and state labels legible. No scenery, floor, swatches or hand studies. Body remains explicitly unknown in specification."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+            "role": "Primary oil handling and source cold opening moonrise palette",
+            "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only, no human body",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a1536x1024landscape3:2 oil CHARACTER MANIFESTATION folio on flat uninterrupted quiet WARM IVORY. Exact readable large heading \"Hollow Regent\"; smaller \"The Small Moon Rose First\"; state subtitle \"Manifested thread\". SINGLE LIVING ANTAGONIST is represented ONLY by the visible effect actually described: a thin BLACK THREAD containing crawling broken fragments of words, under pulling tension. The antagonist's BODY IS NOT DESCRIBED. DO NOT invent or show humanoidbody, silhouette, face, eyes, hands, crown, armor, horns, cloakedfigure, monster, mouth, heart or internal anatomy. Not a wordcloud portrait. No person, victim, shoulder or other identity. Thread is a projection of living caster, NOT a separate sentientcreature or magicbook.\nDesign THREE separated carefully labeled studies on ivory with generousnegative space: upperleft \"Taut thread\" shows a slender charcoal-black shallowcurving single strand, both tapered ends withinframe; lowerleft \"Looping thread\" shows the same slender strand looselycurled into ONE open loop and trailingends, nothing inside theloop; right \"Word fragments\" is explicitly an ENLARGED close view of one short curving section, dark ribbonlike minute surface with broken palegray letter-strokes crawling within it. No complete readable newname/address/incantation, just scattered incomplete glyphpieces. Black core stays coherent, no huge smoky cloud, no tentacles or extra branching limbs. No fixed canonicalthickness implied by enlargement.\nUse firstpainting as PRIMARY oil handling and cooldark openingmoonrise palette. Broad CONNECTED matte opaque CHARCOAL BLACK masses with selective lowrelief impasto/draggedbristle to make restrained slate/umber surface. A few small MUTED BLUEGRAY planes from cold night light, not selfluminous cyanfire or glitzy rimlight. Thickpaint describes the tensioncurve, not generic shiny3Drope, not calligraphicflatvector or photo. Second image only secondary impasto presentation, no woman'sform or gear. Clear ivory support around everythread, allendsunclipped. No location, Gate, ledger, swatches, floor, horizon, scaffolddiagram, scalehuman or scenepatch.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "d01062d6a3f89e192c53829a26281edd334b3c1962cf8418da7f71fb084519c9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:55:41.499909+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "d01062d6a3f89e192c53829a26281edd334b3c1962cf8418da7f71fb084519c9",
+        "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557",
+        "references": [
+          {
+            "path": "stories/the-small-moon-rose-first/art/landscapes/01-blue-moon-over-ravel.png",
+            "role": "Primary oil handling and source cold opening moonrise palette",
+            "sha256": "1188fc4ce6b7184129d1847036e77449f65e74257d417f7aca97350bfc49e682",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary impasto presentation only, no human body",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved sheet confines the living antagonist's visual identity to the source black projected thread. Taut and looping studies plus explicitly enlarged word-fragment section; no unsupported body, face, crown or victim.",
+          "Disconnected partial letter forms suggest crawling name/home fragments without establishing any new name, address, spell or magical mechanism.",
+          "Dark matte connected charcoal/slate oil thread against ivory, exact source title/name and state labels legible. No scenery, floor, swatches or hand studies. Body remains explicitly unknown in specification."
+        ],
+        "specificationSha256": "6505066f84f563cf7acc26ab5323d88ba2af17c7531bac847d8559ffb09cedce"
+      }
+    }
+  ],
+  "schemaVersion": 1,
+  "readComplete": true,
+  "assessment": "complete",
+  "sourceSha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557"
+}
