@@ -307,7 +307,7 @@ production edition requires a deliberate named recapture to change the download.
 ## Published media on R2
 
 The Pages workflow builds the frozen `pages/` snapshots, uploads their images and
-PDFs to Cloudflare R2, and verifies every public asset URL before deploying the
+PDFs to Cloudflare R2, and verifies new or expired media before deploying the
 site. Library covers, gallery thumbnails and full images, illustrated readers,
 PDF downloads, and the social preview use `https://art.rgbknights.com`. HTML,
 styles, scripts, and fonts remain in the Pages artifact.
@@ -334,6 +334,17 @@ serving a stale image. Uploads never delete earlier objects, preserving existing
 pages and rollbacks. PDFs include a download disposition for cross-origin links.
 An upload or public URL check failure prevents Pages deployment.
 
+Successful R2 and public URL checks are cached as small verification records in
+GitHub Actions, separate from the media. For seven days, an unchanged object skips
+both per-object network checks; each build still probes one cached public URL to
+detect CDN outages. New/changed assets and expired records receive full checks.
+Local manifest hashes are always validated. Records are tied to the R2 endpoint,
+bucket, CDN base URL, content hash, size, and serving headers; publisher code
+changes invalidate the Actions cache. A missing or invalid cache falls back to
+full verification. Records are saved only after every required check succeeds.
+Out-of-band deletion or damage of an individual cached object may remain undetected
+until its record expires or a full audit runs.
+
 For a local build that matches the deployed CDN links:
 
 ```powershell
@@ -347,11 +358,17 @@ the upload tests or publish a staged build locally, install
 `pages/requirements-publish.txt`; the upload command is
 `python pages/publish_assets.py --manifest _assets/manifest.json` and reads the
 four `R2_*` connection/credential values listed above from the environment.
+The local command checks every asset by default. Add
+`--verification-cache .cache/r2-verification.json` for incremental checks, or
+`--verify-all` to ignore existing records and refresh them after a successful audit.
 
 Pull requests test and build without using R2 credentials. **Actions → Pages →
 Run workflow** uploads and verifies assets without deploying by default, including
 when run on a branch. Selecting **deploy** publishes only when the selected ref is
 `main`. A merge into `main` uploads the assets and deploys Pages automatically.
+Select **verify_all_media** for a full R2/CDN audit, including after manual bucket
+or domain changes. The first run after cache eviction or publisher changes also
+checks the full library; subsequent runs reuse valid records.
 
 Continue generating and approving assets locally, then use the existing named
 capture commands and commit the selected publication snapshots. GitHub runners

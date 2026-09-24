@@ -1,4 +1,4 @@
-"""Upload a built media manifest to R2 and verify every public CDN URL.
+"""Upload a built media manifest to R2 and verify new or expired public CDN URLs.
 
 Only staged, hashed publication assets are uploaded. Existing objects are never
 deleted, so a failed deployment or rollback cannot break earlier site versions.
@@ -126,29 +126,82 @@ def verify_public(base_url: str, entry: dict, attempts: int = 5) -> None:
             time.sleep(2 ** attempt)
 
 
-def publish(manifest: Path, client, bucket: str, workers: int = 8) -> dict:
+VERIFICATION_MAX_AGE = 7 * 24 * 60 * 60
+
+
+def load_verification_cache(path: Path, scope: dict) -> dict:
+    """A disposable cache miss (including malformed or differently scoped data) is safe."""
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+    except (OSError, ValueError):
+        return {}
+    if (not isinstance(data, dict) or data.get('schemaVersion') != 1
+            or data.get('scope') != scope or not isinstance(data.get('objects'), dict)):
+        return {}
+    return data['objects']
+
+
+def verification_record(entry: dict) -> dict:
+    return {'size': entry['size'], 'headers': object_headers(entry)}
+
+
+def publish(manifest: Path, client, bucket: str, workers: int = 8, *,
+            verification_cache: Path | None = None, verify_all: bool = False) -> dict:
     base_url, entries = load_manifest(manifest)
     if not 1 <= workers <= 32:
         raise ValueError('Upload workers must be between 1 and 32')
 
+    now = time.time()
+    scope = {'endpoint': client.meta.endpoint_url, 'bucket': bucket, 'baseUrl': base_url} if verification_cache else {}
+    previous = load_verification_cache(verification_cache, scope) if verification_cache and not verify_all else {}
+    records, pending, cached = {}, [], []
+    for entry in entries:
+        record = previous.get(entry['key'])
+        if (isinstance(record, dict)
+                and type(record.get('verifiedAt')) in (int, float)
+                and 0 <= now - record['verifiedAt'] < VERIFICATION_MAX_AGE
+                and record == verification_record(entry) | {'verifiedAt': record['verifiedAt']}):
+            records[entry['key']] = record
+            cached.append(entry)
+        else:
+            pending.append(entry)
+
+    # One live request still catches CDN/domain failures on an otherwise cached run.
+    # Rotate the probe; it does not extend the full R2/CDN verification lifetime.
+    if cached:
+        verify_public(base_url, cached[int(now) % len(cached)])
+    print(f'R2/CDN: {len(cached)} cached, {len(pending)} require full verification', flush=True)
+
     def upload_and_check(entry):
         uploaded = upload_object(client, bucket, manifest.parent, entry)
         verify_public(base_url, entry)
-        return uploaded
+        return entry, uploaded
 
     uploaded = 0
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = [pool.submit(upload_and_check, entry) for entry in entries]
+        futures = [pool.submit(upload_and_check, entry) for entry in pending]
         try:
             for count, future in enumerate(as_completed(futures), 1):
-                uploaded += future.result()
-                if count % 100 == 0 or count == len(entries):
-                    print(f'R2/CDN verified {count}/{len(entries)} assets ({uploaded} uploaded)', flush=True)
+                entry, was_uploaded = future.result()
+                uploaded += was_uploaded
+                records[entry['key']] = verification_record(entry) | {'verifiedAt': now}
+                if count % 100 == 0 or count == len(pending):
+                    print(f'R2/CDN verified {count}/{len(pending)} assets ({uploaded} uploaded)', flush=True)
         except Exception:
             for future in futures:
                 future.cancel()
             raise
-    return {'uploaded': uploaded, 'unchanged': len(entries) - uploaded, 'verified': len(entries)}
+    # Commit only a completely successful run, atomically. Failed probes/uploads
+    # cannot certify an object for a subsequent build. Do not cache credentials.
+    if verification_cache:
+        verification_cache.parent.mkdir(parents=True, exist_ok=True)
+        temporary = verification_cache.with_suffix('.tmp')
+        temporary.write_text(json.dumps({
+            'schemaVersion': 1, 'scope': scope, 'objects': records,
+        }, sort_keys=True) + '\n', encoding='utf-8')
+        temporary.replace(verification_cache)
+    return {'uploaded': uploaded, 'unchanged': len(entries) - uploaded,
+            'verified': len(pending) + bool(cached), 'cached': len(cached)}
 
 
 def r2_client():
@@ -179,11 +232,17 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--manifest', type=Path, default=Path('_assets/manifest.json'))
     parser.add_argument('--workers', type=int, default=8)
+    parser.add_argument('--verification-cache', type=Path,
+                        help='Reuse successful immutable-object checks for up to seven days')
+    parser.add_argument('--verify-all', action='store_true',
+                        help='Ignore cached checks and audit every R2 object and public URL')
     args = parser.parse_args()
     client, bucket = r2_client()
-    result = publish(args.manifest, client, bucket, args.workers)
+    result = publish(args.manifest, client, bucket, args.workers,
+                     verification_cache=args.verification_cache, verify_all=args.verify_all)
     print(f'R2 publication complete: {result["uploaded"]} uploaded, '
-          f'{result["unchanged"]} reused, {result["verified"]} public URLs verified.')
+          f'{result["unchanged"]} reused, {result["cached"]} cached checks, '
+          f'{result["verified"]} public URLs verified.')
 
 
 if __name__ == '__main__':

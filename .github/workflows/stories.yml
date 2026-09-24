@@ -13,6 +13,10 @@ on:
         description: "Deploy Pages after uploading and verifying R2 assets (main only)"
         type: boolean
         default: false
+      verify_all_media:
+        description: "Ignore cached checks and verify every R2 object and public media URL"
+        type: boolean
+        default: false
 
 concurrency:
   group: pages-${{ github.ref }}
@@ -60,7 +64,19 @@ jobs:
           python pages/build.py build --output _site
           --asset-base-url "$ASSET_BASE_URL" --asset-output _assets
 
-      - name: Upload and verify R2 media
+      - name: Restore successful R2 verification records
+        if: github.event_name != 'pull_request'
+        id: r2-cache
+        uses: actions/cache/restore@v5
+        with:
+          path: .cache/r2-verification.json
+          # Restore the latest successful run, including when the manifest changes.
+          # Records validate the destination and each asset independently.
+          key: r2-verification-v1-${{ hashFiles('pages/publish_assets.py', 'pages/media_assets.py') }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            r2-verification-v1-${{ hashFiles('pages/publish_assets.py', 'pages/media_assets.py') }}-
+
+      - name: Upload new media and verify uncached R2 assets
         # PRs build and test without access to R2 credentials. A manual branch
         # run can verify the real CDN without replacing the live Pages site.
         if: github.event_name != 'pull_request'
@@ -69,7 +85,20 @@ jobs:
           R2_BUCKET: ${{ vars.R2_BUCKET }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-        run: python pages/publish_assets.py --manifest _assets/manifest.json
+          VERIFY_ALL_MEDIA: ${{ inputs.verify_all_media || false }}
+        run: |
+          args=(--manifest _assets/manifest.json --verification-cache .cache/r2-verification.json)
+          if [[ "$VERIFY_ALL_MEDIA" == "true" ]]; then
+            args+=(--verify-all)
+          fi
+          python pages/publish_assets.py "${args[@]}"
+
+      - name: Save successful R2 verification records
+        if: github.event_name != 'pull_request'
+        uses: actions/cache/save@v5
+        with:
+          path: .cache/r2-verification.json
+          key: ${{ steps.r2-cache.outputs.cache-primary-key }}
 
       - name: Configure Pages
         if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || inputs.deploy)
