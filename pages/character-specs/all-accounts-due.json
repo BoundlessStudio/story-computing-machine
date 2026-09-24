@@ -1,0 +1,1294 @@
+{
+  "slug": "all-accounts-due",
+  "title": "All Accounts Due",
+  "source": "stories/all-accounts-due/05-story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished bundle prose read from Arrayopening through Seyathi's unansweredgesture; all sixflashbacks and presentrenewals covered. Eight sustained mainagents selected; nonlivingrelics are tools notcharacters.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Faris",
+    "universe/characters.md#Seyathi",
+    "universe/rules.md#No More Magic terminal extinction boundary"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "prisoner,pilgrims,youngdemons,poachers,guards,assassin,patrons,sanctuaryresidents,soldiers",
+      "reason": "Supportreciprocalepisodes but no sustained independentmainarc or stableindividualidentity acrossframe."
+    },
+    {
+      "name": "Missing Tessera,Sole Chamber,Nearmost Vertebra,Cold Maw,Unhatched Form,Unflown Arc,Parity Astrolabe,Mortal Latch",
+      "reason": "Explicitboundednonlivingmechanisms, notpeople."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "faris",
+      "name": "Faris",
+      "role": "lifelong nonmagical protagonist",
+      "form": "ordinary human man",
+      "storyAppearance": {
+        "lifeStage": "Young at adventure31years earlier, mature at Array; exact age unspecified.",
+        "anatomy": "Entirely ordinary human, no magical immunity; one bruised hand, prior palms torn, physically injured/tired at climax.",
+        "clothing": "Coat, belt, boots; laundry-porter disguise and sandals in past episodes. No source armour or magic markings.",
+        "equipment": "Ordinary prybar, buckle tongue, rope, cotter; mechanically handles nonliving Latch. Relics are custody not bodyparts.",
+        "scale": "Ordinary human.",
+        "movement": "Crawls, braces, levers, climbs; remains vulnerable."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The Ithrom Array hung where six world-curves crossed, and every kind of magic in the material world had come to kill Faris.",
+          "explanation": "Central actor framing and every flashback."
+        },
+        {
+          "quote": "It found no address in lifelong nonmagical Faris.",
+          "explanation": "No magical personhood/power."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Restrained mature man aroundfifty, short graying dark hair, weathered face and sturdy ordinary build; unornamented dark ochre-gray travel coat, work clothes and boots, non-canon choices.",
+        "Present standing/crouch, worn hands/cotter/prybar details; no superhero pose, aura, glowingmarks or newengineering."
+      ],
+      "states": [
+        {
+          "name": "Array",
+          "description": "Mature and physically tired, bruised hand, ordinary tools."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Faris",
+        "links": [
+          "stories/the-sky-remembers-us-return/story.md"
+        ],
+        "evidence": "LOCKED entry identifies sameperson; ancient image of laterfall/death in linkedstory, no resurrection. Relatedcover inspected, only silhouettedhands, no facialidentity."
+      },
+      "output": "stories/all-accounts-due/art/characters/faris.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Faris\"; title \"All Accounts Due\". One ordinary human man in mature present after 31 years of adventures, interpreted age about52: sturdy ordinary build, medium brown weathered skin, broad slightly crooked nose, SHORT salt-and-pepper hair, modest short gray beard/stubble, NOT the big dark moustache of Image1. Plain practical OCHRE-GRAY knee-length travel coat over gray wool shirt, dark work trousers, ordinary brown boots, simple belt. Clothing/face are restrained unspecified interpretation. No armour, hero decoration, magic markings, glowing objects or power aura.\nTwo complete body views: standing three-quarter with simple iron PRY BAR held loosely by side and cord tied to wrist; cautious low CROUCH bracing one ordinary hand on his own knee, other hand holding a small ordinary metal COTTER PIN. No ground support, no mechanism, no magic. Mature same face/body and outfit in both. Right hand has a small non-graphic bruise as consistent chosen side; old subtle healed palm marks. Larger face \"Faris at the Array\" shows weariness and resolve without idealized heroism. Separated hand/cotter detail labelled \"Ordinary cotter\"; short iron pry bar detail \"Leverage\". Full figures labels \"Standing\" and \"Bracing\".\nLighting: diffuse high open-sky light before extinction as suggested by six-world painting, soft cool gray-violet shadows and spare muted warm reflected ochre, no sunbeam or orange edge. No clouds/landscape/Array architecture. Faris has NO magical faculty or immunity, never imply that declaration produces magic.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:36:25.346745+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Faris\"; title \"All Accounts Due\". One ordinary human man in mature present after 31 years of adventures, interpreted age about52: sturdy ordinary build, medium brown weathered skin, broad slightly crooked nose, SHORT salt-and-pepper hair, modest short gray beard/stubble, NOT the big dark moustache of Image1. Plain practical OCHRE-GRAY knee-length travel coat over gray wool shirt, dark work trousers, ordinary brown boots, simple belt. Clothing/face are restrained unspecified interpretation. No armour, hero decoration, magic markings, glowing objects or power aura.\nTwo complete body views: standing three-quarter with simple iron PRY BAR held loosely by side and cord tied to wrist; cautious low CROUCH bracing one ordinary hand on his own knee, other hand holding a small ordinary metal COTTER PIN. No ground support, no mechanism, no magic. Mature same face/body and outfit in both. Right hand has a small non-graphic bruise as consistent chosen side; old subtle healed palm marks. Larger face \"Faris at the Array\" shows weariness and resolve without idealized heroism. Separated hand/cotter detail labelled \"Ordinary cotter\"; short iron pry bar detail \"Leverage\". Full figures labels \"Standing\" and \"Bracing\".\nLighting: diffuse high open-sky light before extinction as suggested by six-world painting, soft cool gray-violet shadows and spare muted warm reflected ochre, no sunbeam or orange edge. No clouds/landscape/Array architecture. Faris has NO magical faculty or immunity, never imply that declaration produces magic.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+                "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+                "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full 8k-word finished bundle source and LOCKED Faris/extinction entries read; mature ordinary man, coat/belt/boots and practical tools supported.",
+              "Source cover only machinery; related recurrent story cover only hands, no prior facial identity. Restrained distinct cast defined before generation.",
+              "Actual corrected Caff and six-world oil painting inspected; roles exclude transferred identity/scenery and supernatural Faris traits."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-ea9035e9-1827-4b83-8a72-c0b0ee289984.png",
+            "outputSha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8",
+            "finishedAt": "2026-09-23T22:48:24.508246+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: Faris/All Accounts Due and labels legible; two complete ordinary mature male poses with matching face, graying short hair, short beard, ochre-gray travel coat and boots.",
+              "Source ordinary pry bar/cord and cotter, selected right-hand bruise and old worn hands; no magic, armour, exceptional body or engineering claim. Portrait and all skin strongly painted.",
+              "Broad connected matte cloth/skin masses and selective heavy directional impasto; clear ivory character-only space, no location, floor patch or palette."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-ea9035e9-1827-4b83-8a72-c0b0ee289984.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: Faris/All Accounts Due and labels legible; two complete ordinary mature male poses with matching face, graying short hair, short beard, ochre-gray travel coat and boots.",
+          "Source ordinary pry bar/cord and cotter, selected right-hand bruise and old worn hands; no magic, armour, exceptional body or engineering claim. Portrait and all skin strongly painted.",
+          "Broad connected matte cloth/skin masses and selective heavy directional impasto; clear ivory character-only space, no location, floor patch or palette."
+        ],
+        "specificationSha256": "348b6910a30e988184f0e4f276d7579655297999916b54ee7dae9482cd19964e"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8"
+    },
+    {
+      "id": "seyathi",
+      "name": "Seyathi",
+      "role": "goddess ally betrayed by incomplete scope",
+      "form": "adult-appearing woman, radiance extinguished without erasing identity",
+      "storyAppearance": {
+        "lifeStage": "Missing Tessera made for her233years earlier; apparentage unspecified.",
+        "anatomy": "Woman with skinradiance before extinction, same material body after, heels/fingers/thumb explicit.",
+        "clothing": "Not described.",
+        "equipment": "Missing Tessera matte mineral square2fingerswide before consumed.",
+        "movement": "Precise two-finger gestures, spatialdisorientation under strain, wrathful powerless lastgesture.",
+        "states": "Before luminous goddess; after living mortal sameidentity with no skinlight or effects."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Then Seyathi stepped through a tessellated wall and reached for the Missing Tessera.",
+          "explanation": "One of six sustained flashbackandpresent allies."
+        },
+        {
+          "quote": "Her own skin held no light now. She was alive. She was herself.",
+          "explanation": "Critical final state."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Restrained adult woman with warm brown skin, dark hair partly braided back and simple muted mineral-gray/ochre draped robe, non-canon casting; avoid costume masquerading as fixed lore.",
+        "Before/after samebody clothing; subtle painted radiance only before, no halo or residualmagic after; large angryface and exact two-fingergesture."
+      ],
+      "states": [
+        {
+          "name": "Before extinction",
+          "description": "Skinradiance, controlled Grace gesture and matte mineral Tessera."
+        },
+        {
+          "name": "After extinction",
+          "description": "No radiance/effects; living betrayed woman, same material identity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe/characters.md#Seyathi",
+        "links": [
+          "stories/the-sky-remembers-us-return/story.md"
+        ],
+        "evidence": "LOCKED entry identifies samewoman; afterextinction remainsmortal; linkedstory image doesnotrestorepower. Relatedcoveronlyhands inspected."
+      },
+      "output": "stories/all-accounts-due/art/characters/seyathi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Seyathi\"; title \"All Accounts Due\". ONE consistent adult-appearing woman, ancient goddess then mortal. Restrained casting: warm deep brown skin, strong mature angular face, long black hair partly braided back, dark ordinary eyes, modest simple mineral-GRAY draped robe with muted OCHRE folds and plain sandals. No horn, wings, crown, tattoo, ornate jewellery or invented ceremonial rank. SAME bodily identity and clothing in all views.\nTwo complete figures with generous ivory gap: left before extinction, standing in poised precise gesture with TWO fingers raised, other hand holding a MATTE mineral square only two fingers wide, label \"Before extinction\". Very restrained soft painted radiance lies WITHIN her skin planes and subtle mineral-colour strokes close to the fingers, no background glyph/circle/environment or neon effect. Right after extinction, full three-quarter figure heels planted and same two-finger gesture extended with anger, label \"After extinction\". Her skin is now entirely ordinary matte brown, NO light, radiance, glyphs, aura or effects; robe/material body unchanged, not aged/dead/dissolving.\nLarge face study \"Betrayed\" expresses lucid grief and anger, NOT forgiveness or peaceful serene expression. Small hand study \"Unanswered gesture\" two fingers extended with completely ordinary skin/no magic; tiny matte square detail \"Missing Tessera\" shown as an earlier-state object, no floating robot/artifact person. Diffuse high-sky light, restrained cool mineral shadows and muted ochre skin planes; before/after distinction must read without daylight causing change. NO other character or scenery.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:36:26.326407+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Seyathi\"; title \"All Accounts Due\". ONE consistent adult-appearing woman, ancient goddess then mortal. Restrained casting: warm deep brown skin, strong mature angular face, long black hair partly braided back, dark ordinary eyes, modest simple mineral-GRAY draped robe with muted OCHRE folds and plain sandals. No horn, wings, crown, tattoo, ornate jewellery or invented ceremonial rank. SAME bodily identity and clothing in all views.\nTwo complete figures with generous ivory gap: left before extinction, standing in poised precise gesture with TWO fingers raised, other hand holding a MATTE mineral square only two fingers wide, label \"Before extinction\". Very restrained soft painted radiance lies WITHIN her skin planes and subtle mineral-colour strokes close to the fingers, no background glyph/circle/environment or neon effect. Right after extinction, full three-quarter figure heels planted and same two-finger gesture extended with anger, label \"After extinction\". Her skin is now entirely ordinary matte brown, NO light, radiance, glyphs, aura or effects; robe/material body unchanged, not aged/dead/dissolving.\nLarge face study \"Betrayed\" expresses lucid grief and anger, NOT forgiveness or peaceful serene expression. Small hand study \"Unanswered gesture\" two fingers extended with completely ordinary skin/no magic; tiny matte square detail \"Missing Tessera\" shown as an earlier-state object, no floating robot/artifact person. Diffuse high-sky light, restrained cool mineral shadows and muted ochre skin planes; before/after distinction must read without daylight causing change. NO other character or scenery.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+                "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+                "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source and LOCKED Seyathi read: radiance ends, identity/personhood/anger remain; no residual magic after gesture.",
+              "Recurrent identity linked to The Sky Remembers Us; no compatible established full-body reference found in covers.",
+              "Two clearly labelled states preserve same adult woman and clothes, mature face, exact two-finger gesture; no invented insignia, scenery or cosmetic glowing tattoos."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-92211fa6-6201-41f3-b884-ffac7cbcd90c.png",
+            "outputSha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a",
+            "finishedAt": "2026-09-23T22:48:25.704850+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: exact Seyathi/title/state labels; same woman and gray-ochre robe in both complete views, precise two-finger gesture and two-finger-wide matte Tessera in before view.",
+              "Before figure uses brighter warm skin planes, after figure and separate unanswered hand are ordinary matte brown with no glow/effects; angry betrayed face and continuous personhood maintained, no forgiveness or dead-body depiction.",
+              "Consistent dark partly braided hair and mature brown-skinned identity, painted eyes/face/hands and cloth; no invented tattoos, wings, halo, scenery, terrain or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-92211fa6-6201-41f3-b884-ffac7cbcd90c.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "Array high-sky diffuse cool/ochre palette and broad connected oil paint only; no scene",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: exact Seyathi/title/state labels; same woman and gray-ochre robe in both complete views, precise two-finger gesture and two-finger-wide matte Tessera in before view.",
+          "Before figure uses brighter warm skin planes, after figure and separate unanswered hand are ordinary matte brown with no glow/effects; angry betrayed face and continuous personhood maintained, no forgiveness or dead-body depiction.",
+          "Consistent dark partly braided hair and mature brown-skinned identity, painted eyes/face/hands and cloth; no invented tattoos, wings, halo, scenery, terrain or swatches."
+        ],
+        "specificationSha256": "73cea77e7adf28d76c965bfb0e62664f89f2b3790ab61ff4861e545ee09e58e9"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a"
+    },
+    {
+      "id": "king-malrec",
+      "name": "King Malrec",
+      "role": "royal ally who pays years and relinquishes claims",
+      "form": "human adult king ages through Manyroom costs",
+      "storyAppearance": {
+        "lifeStage": "Adult king24years earlier, older at Array; hair grays and body bends during final effort.",
+        "anatomy": "Ordinary one body, aging physicalcost, no copies.",
+        "clothing": "Crown occupies5possible shapes before; one heavy object after. Other royal clothes unspecified.",
+        "equipment": "Thumb-sized bronze Sole Chambermodel; no specifiedweapon.",
+        "movement": "Negotiates, strikes Chamber, bends with age."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The king pardoned him, retained a witnessed claim, and granted one decision over the Chamber",
+          "explanation": "Earned relational obligation central flashback."
+        },
+        {
+          "quote": "his heartbeat paid in years, and his hair grayed",
+          "explanation": "Distinct state change."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Distinct long narrow clean-shaven human face, high receding hairline, hollow cheeks, long thin slightly aquiline nose and narrow jaw. Sparse short dark-gray side hair becomes predominantly silver-gray as body bends; burgundy robe and modest bronze crown. No invented heraldry. Restrained art-only casting replaces too-similar broad bearded initial design.",
+        "Present before/after age studies, one physicalbody perview; sourcefive crownshapes shown small separated labelled alternatives, not5heads orpersons."
+      ],
+      "states": [
+        {
+          "name": "Before payment",
+          "description": "Upright mature king, variable crown."
+        },
+        {
+          "name": "Paid years",
+          "description": "Hairgrayer bodybent, same clothing/person; single heavy crown afterextinction."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:king-malrec",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/king-malrec.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Relight ONLY the isolated character and personal objects in Image1. Preserve EVERYTHING else including the successfully corrected long narrow CLEAN-SHAVEN King Malrec face, high receding forehead, matching face in both age states, sparse dark-gray then grayer hair, crown positions/shapes, hands, exact labels, full bodies, robes, FIVE crown alternatives, small bronze model and exact ivory folio layout. Do not recast him.\nThe actual CHARACTER ILLUMINATION must read as a dark candle room from Image2, not a daylit portrait with dark clothes. Make a decisive exposure change on all three heads and hands: around TWO THIRDS of every face becomes ONE CONNECTED DEEP cool violet-brown shadow mass, including broad far cheek, brow, side of forehead, eye socket, neck and far jaw. The small candle is low and off-frame viewer-left. Warm ochre illuminates ONLY a NARROW near-cheek plane, lower-facing nose edge, a small chin fragment and near fingers. Most of the skin should be as subdued and dark as the stone shadow in Image2. Do not keep the present large tan forehead and cheek broadly lit. White-gray hair also stays mostly in dark gray-violet with tiny near light, not glowing silver. Eyes are mostly dark matte simple marks.\nBurgundy and charcoal cloth should remain large joined dark masses, no continuous gold outline on both shoulders or bright rim. Dull bronze crowns/model carry only small restrained candle accents. Preserve sufficient form through broad cool-dark value variation, not extra fill light. The dark shadows belong to the CHARACTERS/OBJECTS ONLY: leave the WARM IVORY BACKGROUND and legible black title/text exactly as is. NO full-page nighttime scene, architecture, visible candle, vignette, floor, extra object or swatch. Preserve bold matte directional oils, large connected shadow shapes, selective texture, no shiny bevelled paint chips.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T22:36:27.313399+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"King Malrec\"; title \"All Accounts Due\". ONE human male royal, mature with broad long face, short swept-back dark-gray hair and modest close gray beard. Plain formal muted BURGUNDY robe over charcoal clothing, good dark shoes; no faction badge, jewellery, weapon, fur cloak or armygear. Royal outfit beyond crown is restrained art interpretation.\nTwo complete unclipped body views: upright mature king labelled \"Before payment\"; same king noticeably more gray-haired, face more lined and back slightly stooped labelled \"Paid years\", same robe and body identity aged, not a different person. At end crown is ONE heavy ordinary crown. Use a simple heavy bronze-gold broad band with five low flat triangular rises in both main views, no light effect.\nAt upper right large tired face labelled \"Years spent\". Below, separate modest studies labelled \"Five possible crown shapes\": show exactly FIVE SMALL alternative outline/form versions of the SAME geometric bronze crown (flatband, lowpoints, tallpoints, roundedarches, steppedpeaks), neatly on ivory, clearly schematic possible states, NO extra heads or bodies. Before Manyroom it occupies five possible shapes, after extinction just one physical heavy crown; this must not be shown as five kings. One small plain thumb-sized bronze ROOM MODEL on his open hand, label \"Sole Chamber\"; simple hollow cubic bronze model, no intricate invented mechanism. Room model is personal relic, NO actual architecture or location.\nSource Mavorn remembered interior motivates low soft candlewarmth on muted burgundy/gold and dark violet shadows. No sunny rim or glowing crown; all face/cloth/metal broad matte oil masses.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+                "role": "Mavorn subdued candle warmth/charcoal-violet masses and oil handling only; no environment",
+                "sha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source: king pays years, hair grays/body bends, crown shifts five possible shapes then single object; cloth/face restrained invented choices.",
+              "Actual Mavorn painting inspected for light/paint only. Crown alternatives presented as objects of sameidentity not extra characters.",
+              "Two same-person age states, no weapons/insignia, tiny model supported as relic rather than environment."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-404afd6f-8115-4cda-aeb8-73958b176f31.png",
+            "outputSha256": "f3e19186d5ac2dbb1f487dc56fa29c7032d535da0ba05e3076b1453428e6127d",
+            "finishedAt": "2026-09-23T22:48:26.906650+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: exact king/name/title and clear before-payment/paid-years labels; same mature man becomes visibly gray and stooped in second complete view without duplicated simultaneous body claim.",
+              "Exactly five separate possible crown object shapes, one worn crown per body, thumb-sized bronze model on hand; no new weapon, heraldry or mechanical interior.",
+              "Burgundy/charcoal robes, subdued bronze and matte aged facial planes use connected broad oil strokes; no palace scenery, ground patch or swatches."
+            ],
+            "selected": false,
+            "coordinatorReview": {
+              "status": "REVISE",
+              "findings": [
+                "Same broad face, brow, short gray-dark hair and gray beard read too similar to Faris.",
+                "Recorded candle motivation reads broad daylight; restrict warm planes and connect dark violet shadow."
+              ]
+            }
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": null,
+            "recordedAt": "2026-09-24T02:42:06.588812+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-identity-and-lighting-correction",
+            "prompt": "Use case: identity-preserve correction plus lighting-weather. Edit Image1, the complete King Malrec folio. Make two targeted corrections. Everything else remains exactly as in Image1: readable King Malrec / All Accounts Due and every label, same complete two full-body views and their before-payment/paid-years relationship, burgundy robes/charcoal clothing/shoes, one physical worn crown per view, exactly five separate alternative crown objects, isolated hand and thumb-sized bronze Sole Chamber model, quiet ivory support, 1536x1024.\nCORRECTION 1: Malrec must be a DISTINCT individual, not the generic broad bearded man currently shown. Replace his head anatomy and hair in ALL THREE depictions consistently: LONG NARROW face, long high forehead and visibly RECEDING HIGH HAIRLINE, narrow jaw tapering to a small pointed chin, hollow cheeks, long thin slightly aquiline nose, thin straight brows, close-set ordinary matte brown eyes, thin lips. COMPLETELY CLEAN-SHAVEN cheeks, jaw, chin and upper lip in every view: no moustache, beard or stubble. His expression is tired responsibility, not a sneer or villain caricature. Before payment he has sparse short dark-gray hair brushed straight back at the sides, high forehead exposed below the crown. Paid-years body and Years spent portrait keep EXACT same skull/nose/ears/mouth/clean-shaven identity, but their sparse side hair is predominantly silver-gray, face more lined and body more bent. Do not make him Faris or Caff. Preserve crown geometry on each newly shaped head. Keep age change coherent; no second unrelated king.\nCORRECTION 2: Replace broad sunny/studio illumination with the restrained CANDLE light of Image2. Image2 is PRIMARY lighting and oil value grouping only, no environment. Most of the faces and burgundy/charcoal clothing must join in deep muted violet-brown and near-black shadow; narrow warm ochre touches only lamp-facing cheek/hand/cloth planes from a small low off-frame candle to viewer-left. No universal sunlight, bright upper hair, golden rim or even face fill. Preserve darkness/lost edges. Bronze objects catch modest dull accents, no glow. Keep warm IVORY BACKGROUND light and all lettering readable; do not put them into a room or darken the whole page.\nUse bold Canadian Group of Seven matte oil masses with broad directional brushwork through faces too, selective substantial impasto and quieter connected shadow passages. No smooth photographic face, glossy eyes, uniform beveled chips, extra scene, floor patches, swatches or new props.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-404afd6f-8115-4cda-aeb8-73958b176f31.png",
+                "role": "immutable King Malrec edit target; preserve layout/clothes/crowns/props and age states while differentiating head identity and correcting candle light",
+                "sha256": "f3e19186d5ac2dbb1f487dc56fa29c7032d535da0ba05e3076b1453428e6127d",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+                "role": "Mavorn subdued candle warmth/charcoal-violet masses and oil handling only; no environment",
+                "sha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full bundle prose read and valid false canon marker inspected; changing source-unspecified appearance only within authorized art correction, no source/universe changes.",
+              "Compared actual Malrec and Faris sheets: identical broad bearded casting undermines distinct identity; adopt narrow high-foreheaded clean-shaven morphology consistently across age states.",
+              "Actual source Mavorn painting inspected; deep candle value grouping instead of wide even warm fill. Crown count, one-body rule and model remain invariant."
+            ],
+            "recordRecovery": "Initial prepare write failed because of default cp1252 decoding; image call had already proceeded. This record persisted using explicit UTF-8 during that same in-progress call, without retrying generation. Precise start timestamp unavailable.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0e7763ff-616d-433d-9ccc-9cb57ebf92df.png",
+            "finishedAt": "2026-09-24T02:43:11.120071+00:00",
+            "outputSha256": "5caad8a348ae61058350fb2d1e3136381739d661b02386c6b778203b5af47bcc",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": [
+              "New narrow long clean-shaven face/high forehead coherently distinct from Faris across age states; crowns, model, all text and body views preserved.",
+              "Lighting only partly corrected: robes form deeper masses but broad large portrait skin still evenly warm/exposed. Second correction isolates lighting as sole change, preserving successful identity."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:43:11.120186+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lighting-correction",
+            "prompt": "Use case: lighting-weather. Relight ONLY the isolated character and personal objects in Image1. Preserve EVERYTHING else including the successfully corrected long narrow CLEAN-SHAVEN King Malrec face, high receding forehead, matching face in both age states, sparse dark-gray then grayer hair, crown positions/shapes, hands, exact labels, full bodies, robes, FIVE crown alternatives, small bronze model and exact ivory folio layout. Do not recast him.\nThe actual CHARACTER ILLUMINATION must read as a dark candle room from Image2, not a daylit portrait with dark clothes. Make a decisive exposure change on all three heads and hands: around TWO THIRDS of every face becomes ONE CONNECTED DEEP cool violet-brown shadow mass, including broad far cheek, brow, side of forehead, eye socket, neck and far jaw. The small candle is low and off-frame viewer-left. Warm ochre illuminates ONLY a NARROW near-cheek plane, lower-facing nose edge, a small chin fragment and near fingers. Most of the skin should be as subdued and dark as the stone shadow in Image2. Do not keep the present large tan forehead and cheek broadly lit. White-gray hair also stays mostly in dark gray-violet with tiny near light, not glowing silver. Eyes are mostly dark matte simple marks.\nBurgundy and charcoal cloth should remain large joined dark masses, no continuous gold outline on both shoulders or bright rim. Dull bronze crowns/model carry only small restrained candle accents. Preserve sufficient form through broad cool-dark value variation, not extra fill light. The dark shadows belong to the CHARACTERS/OBJECTS ONLY: leave the WARM IVORY BACKGROUND and legible black title/text exactly as is. NO full-page nighttime scene, architecture, visible candle, vignette, floor, extra object or swatch. Preserve bold matte directional oils, large connected shadow shapes, selective texture, no shiny bevelled paint chips.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0e7763ff-616d-433d-9ccc-9cb57ebf92df.png",
+                "role": "immutable successfully recast Malrec edit target; preserve all identity/state/content, relight only",
+                "sha256": "5caad8a348ae61058350fb2d1e3136381739d661b02386c6b778203b5af47bcc",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+                "role": "Mavorn subdued candle warmth/charcoal-violet masses and oil handling only; no environment",
+                "sha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual corrected face is now distinct; hold it invariant while correcting remaining broad skin exposure.",
+              "Narrow lamp planes with two-thirds face in connected deep cool shadow is feasible on warm ivory with unchanged readable labels.",
+              "Changed strategy from combined identity/light correction to lighting-only using accepted identity candidate and dark source room; no unrelated character anchor."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-64786412-cec5-450e-9b80-22ef4287cb20.png",
+            "finishedAt": "2026-09-24T02:45:04.919087+00:00",
+            "outputSha256": "daddff4ed2bfcab26e006f2db258005d762a702efed1b042f24e3070482154cf",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual final candidate compared to Faris and prior Malrec: King now consistently long narrow clean-shaven face, high receding forehead and narrow jaw in both body states and close portrait, distinct from Faris broad bearded face. Paid-years view remains same person with grayer sparse hair, deeper lines and stoop.",
+              "Lighting-only third attempt holds connected deep cool violet-brown shadow over most skin/robe planes with limited candle-facing warm accents, removing the broad daylight read. Ordinary matte eyes and subdued bronze; ivory heading and all labels remain clear.",
+              "Complete before-payment and paid-years bodies, burgundy/charcoal clothes, one crown per person, exactly five possible crown object studies and thumb-sized bronze model on hand preserved. No scene, floor patch, new weapon, extra person or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0e7763ff-616d-433d-9ccc-9cb57ebf92df.png",
+            "role": "immutable successfully recast Malrec edit target; preserve all identity/state/content, relight only",
+            "sha256": "5caad8a348ae61058350fb2d1e3136381739d661b02386c6b778203b5af47bcc",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+            "role": "Mavorn subdued candle warmth/charcoal-violet masses and oil handling only; no environment",
+            "sha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-64786412-cec5-450e-9b80-22ef4287cb20.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel correction review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "daddff4ed2bfcab26e006f2db258005d762a702efed1b042f24e3070482154cf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0e7763ff-616d-433d-9ccc-9cb57ebf92df.png",
+            "role": "immutable successfully recast Malrec edit target; preserve all identity/state/content, relight only",
+            "sha256": "5caad8a348ae61058350fb2d1e3136381739d661b02386c6b778203b5af47bcc",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
+            "role": "Mavorn subdued candle warmth/charcoal-violet masses and oil handling only; no environment",
+            "sha256": "53a4a218b2222f9765f020985e612bdfb5c3a633606c4734260667b6f6bae010",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual final candidate compared to Faris and prior Malrec: King now consistently long narrow clean-shaven face, high receding forehead and narrow jaw in both body states and close portrait, distinct from Faris broad bearded face. Paid-years view remains same person with grayer sparse hair, deeper lines and stoop.",
+          "Lighting-only third attempt holds connected deep cool violet-brown shadow over most skin/robe planes with limited candle-facing warm accents, removing the broad daylight read. Ordinary matte eyes and subdued bronze; ivory heading and all labels remain clear.",
+          "Complete before-payment and paid-years bodies, burgundy/charcoal clothes, one crown per person, exactly five possible crown object studies and thumb-sized bronze model on hand preserved. No scene, floor patch, new weapon, extra person or swatches."
+        ],
+        "specificationSha256": "1250c6cced1fb98c60eb46394b5c3457047b7605e9c4c7fa5cdd0861bf6ce0ff"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "daddff4ed2bfcab26e006f2db258005d762a702efed1b042f24e3070482154cf"
+    },
+    {
+      "id": "qeluun",
+      "name": "Qeluun",
+      "role": "vast living ally controlling weight",
+      "form": "immense nonhuman living body, complete silhouette not described",
+      "storyAppearance": {
+        "anatomy": "Seen as dark curved living surface ribbed with pale sensorytissue, warm flesh, contractions; wholebody too large to see; no sourcehead/face/eyes/limbs/tail established.",
+        "scale": "Larger than Faris can see as body, surface stretches beyondhorizon.",
+        "materials": "Darklivingflesh, pale sensitiveribs, porous shed bone.",
+        "equipment": "Nearmost Vertebra is shed porouslength not a weapon.",
+        "movement": "Contracts, applies pressure/knocks through bone; powerless but conscious falling after extinction."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Qeluun was too large for Faris to see as a body.",
+          "explanation": "Wholebody limit is explicit."
+        },
+        {
+          "quote": "He saw a dark plain curving through the upper air, ribbed with pale sensory tissue.",
+          "explanation": "Only supported visible surface."
+        },
+        {
+          "quote": "leaving them conscious, falling, and vulnerable to every moving mass",
+          "explanation": "Personhood persists beyondpower."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Use LIMITED CHARACTER ANATOMY studies: isolated convex section of dark fleshlike livingbody and pale sensoryribs in two contractionstates, close livingtexture and porous shedbone; no invented creature outline, eyes, legs, head or humanoidposture.",
+        "Sectionstudy edges end softly in ivory with explicitly labelled partial anatomy; never depict Qeluun as rockyterrain, mountain, location or inhabitedsurface.",
+        "Source offers no numericalscale; use concise Too vast for one view annotation without secondidentity."
+      ],
+      "states": [
+        {
+          "name": "At rest",
+          "description": "Partial convex livingcurve, pale sensoryribs."
+        },
+        {
+          "name": "Contraction",
+          "description": "Same tissue section slightlycompressed, pressuremovement without inventedorgans."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:qeluun",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/qeluun.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Qeluun\"; exact story title \"All Accounts Due\". Qeluun is an immense PHYSICAL LIVING NONHUMAN person; source says too large for a human to see as a whole body. The ONLY established visible anatomy is a dark living surface curving through upper air, ribbed with PALE SENSORY TISSUE, warm tissue able to contract, and a porous length of shed bone. Do not invent complete shape, head, face, eyes, mouth, legs, hands, tail, fins or humanoid body. It is NEVER a mountain, rocky island or landscape.\nUse a limited ANATOMICAL STUDY plate, not a standard turnaround. Left upper/middle one large isolated partial gently CONVEX body-surface study: broad charcoal-black flexible flesh with soft continuous folds and irregular pale ivory-gray sensory RIDGES embedded across it. Surface looks WARM LIVING TISSUE, not rock, bark, metal or armour. Its outer boundaries are quiet painterly study-edge fade into empty ivory, no amputated cross-section and no claim of the wholebody outline. Label \"Visible body curve â€” partial\".\nBeside/below a second isolated study of the SAME patch under contraction, sensory ridges slightly crowded and dark flesh bunched, label \"Contraction\". Small upper-right enlarged softly rounded pale tissue ridge with nearby dark flesh, label \"Sensory tissue\". A separate porous longish irregular pale bone fragment, label \"Shed vertebra\", no exact vertebrate engineering, no intactspine or skull. Concise line \"Too vast for one view\". No creatureface, humanoid expressions, sourcehuman scale figure or drill machinery. Do not turn these into scenic terrain patches.\nMotivated upper-air restrained green/violet reflected ambient light, very dark broad livingcharcoal mass, dull pale sensitive ridges. Use sculptural matte bristles following curved flesh; selective raised paint ridges differentiate tender tissue from rough porousbone. No aurora, stars, horizon, clouds or magicbeam. The subject is the body itself, not a setting.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:55:45.084395+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Qeluun\"; exact story title \"All Accounts Due\". Qeluun is an immense PHYSICAL LIVING NONHUMAN person; source says too large for a human to see as a whole body. The ONLY established visible anatomy is a dark living surface curving through upper air, ribbed with PALE SENSORY TISSUE, warm tissue able to contract, and a porous length of shed bone. Do not invent complete shape, head, face, eyes, mouth, legs, hands, tail, fins or humanoid body. It is NEVER a mountain, rocky island or landscape.\nUse a limited ANATOMICAL STUDY plate, not a standard turnaround. Left upper/middle one large isolated partial gently CONVEX body-surface study: broad charcoal-black flexible flesh with soft continuous folds and irregular pale ivory-gray sensory RIDGES embedded across it. Surface looks WARM LIVING TISSUE, not rock, bark, metal or armour. Its outer boundaries are quiet painterly study-edge fade into empty ivory, no amputated cross-section and no claim of the wholebody outline. Label \"Visible body curve â€” partial\".\nBeside/below a second isolated study of the SAME patch under contraction, sensory ridges slightly crowded and dark flesh bunched, label \"Contraction\". Small upper-right enlarged softly rounded pale tissue ridge with nearby dark flesh, label \"Sensory tissue\". A separate porous longish irregular pale bone fragment, label \"Shed vertebra\", no exact vertebrate engineering, no intactspine or skull. Concise line \"Too vast for one view\". No creatureface, humanoid expressions, sourcehuman scale figure or drill machinery. Do not turn these into scenic terrain patches.\nMotivated upper-air restrained green/violet reflected ambient light, very dark broad livingcharcoal mass, dull pale sensitive ridges. Use sculptural matte bristles following curved flesh; selective raised paint ridges differentiate tender tissue from rough porousbone. No aurora, stars, horizon, clouds or magicbeam. The subject is the body itself, not a setting.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
+                "role": "subdued green/violet reflected upper-air light and broad dark painted masses only; no mountain, sky or terrain",
+                "sha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source read: Qeluun explicitly too vast for wholebody, dark living curve/pale sensory tissue and contractions/shedbone only; not terrain.",
+              "Actual aurora painting inspected as restricted light/paint reference, no geography; corrected style sheet paint only.",
+              "Two labelled partial body states plus tissue/bone details satisfy character anatomy without invented head, limbs or complete species silhouette."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-94e506da-68c3-44d8-9e4c-d3fc499a8167.png",
+            "outputSha256": "87a464c0b2706e14b09b41db582f358fed2205fa12b26f4c213676be1edd4663",
+            "finishedAt": "2026-09-23T23:04:11.991248+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: Qeluun/All Accounts Due and explicit partial/too-vast labels readable; two isolated convex livingbody surface studies with pale sensory ribs, contraction changes and porous shedbone.",
+              "No complete invented body, head, face, eyes, appendages or exactscale. Close pale ribbed tissue sits on dark flexible curved flesh; no terrain/buildings/clouds/sky turn the person into a setting.",
+              "Broad directional dark charcoal/green-violet matter, pale ridges and porousbone are all matte sculptural oil with quiet ivory gaps; no scenery, ground patch or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
+            "role": "subdued green/violet reflected upper-air light and broad dark painted masses only; no mountain, sky or terrain",
+            "sha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-94e506da-68c3-44d8-9e4c-d3fc499a8167.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "87a464c0b2706e14b09b41db582f358fed2205fa12b26f4c213676be1edd4663",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
+            "role": "subdued green/violet reflected upper-air light and broad dark painted masses only; no mountain, sky or terrain",
+            "sha256": "0556e2451a456cb17de6bf63d026cdbdad917606b35a8b75975aceef74615cce",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: Qeluun/All Accounts Due and explicit partial/too-vast labels readable; two isolated convex livingbody surface studies with pale sensory ribs, contraction changes and porous shedbone.",
+          "No complete invented body, head, face, eyes, appendages or exactscale. Close pale ribbed tissue sits on dark flexible curved flesh; no terrain/buildings/clouds/sky turn the person into a setting.",
+          "Broad directional dark charcoal/green-violet matter, pale ridges and porousbone are all matte sculptural oil with quiet ivory gaps; no scenery, ground patch or swatches."
+        ],
+        "specificationSha256": "9bb86134cd4017e88783af22b7f7567281e5ac3b571ddc934b49feeb2ad2d4ee"
+      },
+      "references": [],
+      "anatomyResolution": {
+        "status": "resolved-by-limited-studies",
+        "reason": "Finished prose explicitly withholds whole-body view; render only visible living curve/sensory tissue and shed bone, no invented global anatomy."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "87a464c0b2706e14b09b41db582f358fed2205fa12b26f4c213676be1edd4663"
+    },
+    {
+      "id": "hurzai",
+      "name": "Hurzai",
+      "role": "demon lord ally with explicit flesh cost",
+      "form": "adult humanoid demon, detailed species anatomy unspecified",
+      "storyAppearance": {
+        "lifeStage": "Demon lord31years earlier, older body atArray.",
+        "anatomy": "Hands/arms/side/chest/face/feet explicit, bodymass consumed by Inward Fire. Woundlessolderbody beforeArray battle; later losesmass.",
+        "clothing": "Not specified.",
+        "materials": "Livingflesh and containedblackfire, brightedges/lightlesscenter in earlier armwound.",
+        "equipment": "Cold Maw paired heatlessjaws relic, not actualmouth.",
+        "movement": "Crushes predator, kicks knot, liftsFaris, burns passage, seizespairedjaws."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Hurzai's woundless older body gleamed with contained fire",
+          "explanation": "Presentstartingstate."
+        },
+        {
+          "quote": "Hurzai was half his mass",
+          "explanation": "Explicitcost, not mereglowingpower."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Imposing broad mature demon with gray-umber skin and plainly nonhuman ruggedfacialplanes; no sourcehorns/tail/wings so omit them. Simple charcoalworkwrap and trousers chosenmodestly.",
+        "Two intactolderbody views plus bounded separated forearmstate detail blackfire consumedflesh represented non-graphically; do notrender gore or invent permanent fieryveins.",
+        "Keep exact2arms/2legs ordinaryhumanlike appendages source-supported by actions; notgenericredhorneddevil."
+      ],
+      "states": [
+        {
+          "name": "Older body",
+          "description": "Woundless form before finalbattle."
+        },
+        {
+          "name": "Inward Fire cost",
+          "description": "Separated restrained historicalarm detail with darknegative missingmass, no gore."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:hurzai",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/hurzai.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Hurzai\"; title \"All Accounts Due\". ONE older demon lord with source arms/hands/feet/chest/face and physical living flesh. Restrained interpretation: large solid humanoid adult male body, gray-umber skin, heavy rugged brow and broad blunt nose, short coarse charcoal-gray hair, ordinary dark MATTE eyes, thick forearms. Source does not establish horns, wings or tail: OMIT them, do not make standard reddevil. Simple charcoal work trousers, plain dark footwraps/shoes and modest unadorned dark wrap across torso/waist are restrained casting; no armour, crown or gear beyond specified relic.\nTwo complete unclipped body views of his WOUNDLESS OLDER form before final battle: three-quarter standing, side/back with same bodymass and face, labels \"Older body\" and \"Rear\". Show contained inward heat through restrained small dull warm planes WITHIN dark flesh, not glowinglava veins or firehair. Large stern face \"The cost named\", clearly mature nonhuman rugged planes, no generic humanhero elegance.\nSeparate bounded historical LEFT FOREARM detail labelled \"Inward Fire cost\": a shallow area of bodymass visibly absent/consumed, filled by nearly LIGHTLESS BLACK flame, tiny warm edges only. This is NON-GRAPHIC: dark painted void/no exposed bone, muscle, blood or gore. Keep both main fullbodies intact and woundless. Source paid flesh as fuel, not invulnerable firegod. Tiny paired HEATLESS metal jaw relic on ivory labelled \"Cold Maw\", simple paired inward/outward jaw forms not skull/head or speakingcreature.\nMotivated dim underforge reflected warm light, joined charcoal/umber shadows; very selective broad warmplanes, no outlined orange rim or background flame. All skin/face/clothes are bold matte impasto paint.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:55:46.105820+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Hurzai\"; title \"All Accounts Due\". ONE older demon lord with source arms/hands/feet/chest/face and physical living flesh. Restrained interpretation: large solid humanoid adult male body, gray-umber skin, heavy rugged brow and broad blunt nose, short coarse charcoal-gray hair, ordinary dark MATTE eyes, thick forearms. Source does not establish horns, wings or tail: OMIT them, do not make standard reddevil. Simple charcoal work trousers, plain dark footwraps/shoes and modest unadorned dark wrap across torso/waist are restrained casting; no armour, crown or gear beyond specified relic.\nTwo complete unclipped body views of his WOUNDLESS OLDER form before final battle: three-quarter standing, side/back with same bodymass and face, labels \"Older body\" and \"Rear\". Show contained inward heat through restrained small dull warm planes WITHIN dark flesh, not glowinglava veins or firehair. Large stern face \"The cost named\", clearly mature nonhuman rugged planes, no generic humanhero elegance.\nSeparate bounded historical LEFT FOREARM detail labelled \"Inward Fire cost\": a shallow area of bodymass visibly absent/consumed, filled by nearly LIGHTLESS BLACK flame, tiny warm edges only. This is NON-GRAPHIC: dark painted void/no exposed bone, muscle, blood or gore. Keep both main fullbodies intact and woundless. Source paid flesh as fuel, not invulnerable firegod. Tiny paired HEATLESS metal jaw relic on ivory labelled \"Cold Maw\", simple paired inward/outward jaw forms not skull/head or speakingcreature.\nMotivated dim underforge reflected warm light, joined charcoal/umber shadows; very selective broad warmplanes, no outlined orange rim or background flame. All skin/face/clothes are bold matte impasto paint.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/interiors/02-ghorvane-underforge.png",
+                "role": "source underforge low orange/charcoal reflected firelight and directional oil masses; no forge machinery",
+                "sha256": "df3cdb5f6843116c585ba0721dae388b0cdfcd055a2bdd9d1686cf739dc711b4",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source: older woundless demon body contrasted with historical left-side chosen costdetail; no source horns/wings/tail, excluded.",
+              "Inspected actual underforge painting; use restricted reflected light and charcoalwarm palette, no forge or scene.",
+              "Separate non-graphic consumed mass detail, not flesh gore; intact views fit fully, relic not sentient body."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-7bc100a9-ab71-430a-bc67-8bc18f22fcd5.png",
+            "outputSha256": "f6dd35b276d8cb0241681269fd17a766218560f03b12bf88c58c4780a015a6e8",
+            "finishedAt": "2026-09-23T23:04:13.153632+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: exact name/title, two complete same mature gray-umber humanoid demon body views, exactly two arms/two legs, no unsupported horn/wings/tail or armour.",
+              "Main olderbody views remain woundless; source-cost arm detail has non-graphic lightless-black absence with small warm edges and no blood/exposed tissue; Cold Maw shown as paired heatless jaw relic studies, not living entity.",
+              "Rugged mature face and large body/cloth shapes use connected matte charcoal/umber paint and selective subdued forge reflections; no forge scenery, floor patch, magic veins or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/02-ghorvane-underforge.png",
+            "role": "source underforge low orange/charcoal reflected firelight and directional oil masses; no forge machinery",
+            "sha256": "df3cdb5f6843116c585ba0721dae388b0cdfcd055a2bdd9d1686cf739dc711b4",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-7bc100a9-ab71-430a-bc67-8bc18f22fcd5.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "f6dd35b276d8cb0241681269fd17a766218560f03b12bf88c58c4780a015a6e8",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/02-ghorvane-underforge.png",
+            "role": "source underforge low orange/charcoal reflected firelight and directional oil masses; no forge machinery",
+            "sha256": "df3cdb5f6843116c585ba0721dae388b0cdfcd055a2bdd9d1686cf739dc711b4",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: exact name/title, two complete same mature gray-umber humanoid demon body views, exactly two arms/two legs, no unsupported horn/wings/tail or armour.",
+          "Main olderbody views remain woundless; source-cost arm detail has non-graphic lightless-black absence with small warm edges and no blood/exposed tissue; Cold Maw shown as paired heatless jaw relic studies, not living entity.",
+          "Rugged mature face and large body/cloth shapes use connected matte charcoal/umber paint and selective subdued forge reflections; no forge scenery, floor patch, magic veins or swatches."
+        ],
+        "specificationSha256": "206a01e5ebf9533f05cb77dab8756e0f455714f1cb8e66280812efc5072e5edd"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f6dd35b276d8cb0241681269fd17a766218560f03b12bf88c58c4780a015a6e8"
+    },
+    {
+      "id": "jelveth-sorn",
+      "name": "Jelveth Sorn",
+      "role": "graftkeeper ally and protector of chosen bodies",
+      "form": "adult woman, no particular borrowed external organ specified",
+      "storyAppearance": {
+        "lifeStage": "Adult keeper4years earlier and atArray, exactageunspecified.",
+        "anatomy": "Fingers/hands/lungs; borrowed sight and temporarydrowningreflex, no fixedspecies or visiblegraftdescribed.",
+        "clothing": "Not specified.",
+        "equipment": "Unhatched Form nonlivingorganoid held bothhands; no self-awarecreature. Knife not explicit; preciseincision ofborrowedsight.",
+        "movement": "Precise controlled gestures, braces livingwall, reroutes sensation; shakesatclimax."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Jelveth tracked Faris using their offered senses, never taking more than each had consented to lend.",
+          "explanation": "Substantial sourceethic."
+        },
+        {
+          "quote": "She closed the Unhatched Form in both hands",
+          "explanation": "Keyfinalact."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Restrained middle-aged woman with dark closebraidedhair, mediumbrownskin, plain muted terracotta/gray workrobe; no invented gills/wings/tentacles or symbolicmedicaluniform.",
+        "Two fullviews and focusedface, carefulhands holding neutralnonlivingorganoid; no claim that unspecified bodydifferences are counterfeit."
+      ],
+      "states": [
+        {
+          "name": "Keeper",
+          "description": "Careful composed adult body, no invented external graft."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:jelveth-sorn",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/jelveth-sorn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Jelveth Sorn\"; title \"All Accounts Due\". ONE adult woman keeper of Kindred Graft, source has hands/lungs/borrowed sight but NO particular visible graft or creature species. Restrained interpretation: middle-aged medium-brown-skinned woman with rounded strong face, dark hair tightly braided and coiled low, practical unadorned muted terracotta long work tunic/robe over charcoal trousers and plain shoes. No pointed ears, gills, wings, tentacles, extra limbs, glowing eyes, surgicalmask, invented badge or modernmedical costume.\nTwo full-body views: frontal three-quarter composed and careful, both hands cupped around the small UNHATCHED FORM, a nonliving organoid of muted soft gray-pink folded organic substance, NOT baby/animal/face/heart with consciousness. Rear three-quarter identical woman/outfit, hands held attentively in front. Labels \"Keeper\" and \"Rear\". Large face \"Concentrating\" is firm and exact, not mystical trance. Separate hands holding organoid labelled \"Unhatched Form\"; small two-finger precise hand posture labelled \"Careful control\", no glowing blade or invented tool. Humanlike anatomy, five fingers per hand, no automatically added external graft.\nUse story sanctuary's dim warm diffuse flesh-terra-cotta reflected light with broad charcoal-gray linking shadows, no bright rim, no actual architecture/bodywall/bench. Great restraint in surface details: body difference remains unspecified rather than invented monstrous anatomy. All skin and hands strongly painted in broad matte oil planes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:36:28.876787+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only warm ivory oil reference sheet, EXACT 1536x1024 landscape 3:2. Exact name + story title upper left, readable concise labels. Two complete unclipped body views, expressive face study and useful source details, ample clear space. No location, vignette, scene, environment, ground/floor/terrain patch, plants, buildings, decorative prose, swatches or palette strip.\nStyle from Image1: corrected bold Canadian Group of Seven oil character folio ONLY; never copy its moustache, face, green coat, clothing, props or identity. Broad connected MATTE paint masses, selective substantial impasto and directional bristle strokes, quiet connecting passages and scraped edges. Faces/hands/eyes equally painted as body, NO photoreal face, glossy eyes, uniform bevelled chips, CGI, anime, cinematic rim or texture filter. Image2 supplies SAME STORY paint, palette and motivated light ONLY, no scene contents.\nHeading \"Jelveth Sorn\"; title \"All Accounts Due\". ONE adult woman keeper of Kindred Graft, source has hands/lungs/borrowed sight but NO particular visible graft or creature species. Restrained interpretation: middle-aged medium-brown-skinned woman with rounded strong face, dark hair tightly braided and coiled low, practical unadorned muted terracotta long work tunic/robe over charcoal trousers and plain shoes. No pointed ears, gills, wings, tentacles, extra limbs, glowing eyes, surgicalmask, invented badge or modernmedical costume.\nTwo full-body views: frontal three-quarter composed and careful, both hands cupped around the small UNHATCHED FORM, a nonliving organoid of muted soft gray-pink folded organic substance, NOT baby/animal/face/heart with consciousness. Rear three-quarter identical woman/outfit, hands held attentively in front. Labels \"Keeper\" and \"Rear\". Large face \"Concentrating\" is firm and exact, not mystical trance. Separate hands holding organoid labelled \"Unhatched Form\"; small two-finger precise hand posture labelled \"Careful control\", no glowing blade or invented tool. Humanlike anatomy, five fingers per hand, no automatically added external graft.\nUse story sanctuary's dim warm diffuse flesh-terra-cotta reflected light with broad charcoal-gray linking shadows, no bright rim, no actual architecture/bodywall/bench. Great restraint in surface details: body difference remains unspecified rather than invented monstrous anatomy. All skin and hands strongly painted in broad matte oil planes.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/interiors/03-keruvan-sanctuary-gallery.png",
+                "role": "warm muted tissue-terra-cotta/gray palette and diffused reflected light/paint only; no sanctuary",
+                "sha256": "076be3f37349781edae703f7b95fe3a989cb1d35bc97a1de6798df9b593eca64",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source read: woman keeper, exact consent-limited acts; no personal gills/wings or fixed external graft asserted.",
+              "Inspected actual sanctuary painting and corrected Caff paint-only sheet; exclude other identities/environment.",
+              "Nonliving organoid has no eyes/face/personhood, no unsupported knife/tool; full modest body and useful hands fit isolated folio."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-8f98fa35-3e6f-4716-9f70-b21128d33033.png",
+            "outputSha256": "ace184314ff1a75d8c10526e6d490001ad972ca11d189811ac0cbf104a1cf19a",
+            "finishedAt": "2026-09-23T22:48:28.101656+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: exact Jelveth Sorn/All Accounts Due and labels legible; consistent adult woman with low coiled braid, two full front/rear poses, focused face and careful hand studies.",
+              "Unhatched Form shown as small nonliving folded gray-pink organoid, no face/eyes/person; no invented external graft, surgical technology, weapons or anatomy.",
+              "Matte broad terracotta cloth, connected charcoal shadows and sculpted painted hands/face match same-story warm sanctuary palette; no body-wall, location, scene, terrain or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/03-keruvan-sanctuary-gallery.png",
+            "role": "warm muted tissue-terra-cotta/gray palette and diffused reflected light/paint only; no sanctuary",
+            "sha256": "076be3f37349781edae703f7b95fe3a989cb1d35bc97a1de6798df9b593eca64",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-8f98fa35-3e6f-4716-9f70-b21128d33033.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "ace184314ff1a75d8c10526e6d490001ad972ca11d189811ac0cbf104a1cf19a",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected bold matte oil and quiet ivory layout only; no face, moustache, outfit or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/interiors/03-keruvan-sanctuary-gallery.png",
+            "role": "warm muted tissue-terra-cotta/gray palette and diffused reflected light/paint only; no sanctuary",
+            "sha256": "076be3f37349781edae703f7b95fe3a989cb1d35bc97a1de6798df9b593eca64",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: exact Jelveth Sorn/All Accounts Due and labels legible; consistent adult woman with low coiled braid, two full front/rear poses, focused face and careful hand studies.",
+          "Unhatched Form shown as small nonliving folded gray-pink organoid, no face/eyes/person; no invented external graft, surgical technology, weapons or anatomy.",
+          "Matte broad terracotta cloth, connected charcoal shadows and sculpted painted hands/face match same-story warm sanctuary palette; no body-wall, location, scene, terrain or swatches."
+        ],
+        "specificationSha256": "62b446ee057e6be196b0ad6530ef29e94a55aa656be1839fe7eb2b6dcb9d6645"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "ace184314ff1a75d8c10526e6d490001ad972ca11d189811ac0cbf104a1cf19a"
+    },
+    {
+      "id": "ekkorath",
+      "name": "Ekkorath",
+      "role": "dragon ally and reciprocal rescuer",
+      "form": "speaking winged dragon with woundedwings and damaged flight horn",
+      "storyAppearance": {
+        "lifeStage": "Mature dragon, exactageunspecified; present and18years earlier.",
+        "anatomy": "Scaledbody, longneck, pluralwings, flight horn whosepiece sheds; wingcartilage damaged, injuredwings atclimax.",
+        "scale": "Large enough tocatch/carryFarishuman, exactdimensionsunspecified.",
+        "materials": "Scales, wingcartilage/membrane, ordinaryhorn afterextinction.",
+        "movement": "Flies foldedroutes, catcheshuman againstscales, spreads woundedwings, stillordinarywings after magicends."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Ekkorath rescued Faris before Faris rescued Ekkorath.",
+          "explanation": "Reciprocal rescue flashback."
+        },
+        {
+          "quote": "The Unflown Arc came loose from Ekkorath's damaged flight horn",
+          "explanation": "Distinctivefeature."
+        },
+        {
+          "quote": "Ekkorath spread their wounded wings.",
+          "explanation": "Presentanatomy/state."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Restrained traditional nonhumanoid dragon with fourlegs/twowings/longneck/tail chosenas artanatomy, muted slategray scales and dustyblueviolet wingmembranes, one central damagedflight horn; these unspecified values are noncanoninterpretation.",
+        "Lateral resting and full spreadwing schematic views fitunclipped; same wing healedtear/seamchosenleft, same hornnotch; no human hands/clothes/face, riders or magicrouteenvironment.",
+        "Non-graphic old damage; don't depict a permanent wingamputation or inability ordinaryflight."
+      ],
+      "states": [
+        {
+          "name": "Resting",
+          "description": "Wingsfolded, consistentdamaged flight horn."
+        },
+        {
+          "name": "Last flight",
+          "description": "Wingsspread, consistent damagedleftwing detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:ekkorath",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/ekkorath.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit the supplied complete Ekkorath character sheet. EXACTLY ONE CORRECTION: in the LOWER LARGE VIEW labelled \"Wings spread\", this dragon is seen from ABOVE/BEHIND with head pointing toward the TOP. Therefore its anatomical LEFT wing is on the VIEWER'S LEFT. Currently the pale healed scar/seam is incorrectly drawn across the VIEWER-RIGHT wing. REMOVE that scar from the lower view's viewer-right wing, restoring ordinary unmarked dusty blue-violet membrane with its existing wing bones and oil texture. Put the SAME modest pale old healed scar/seam on the LOWER VIEW'S VIEWER-LEFT wing in the corresponding mirrored membrane position. Exactly ONE scarred wing: anatomical LEFT. Preserve every wing bone, wingtip, membrane edge, limb and pose. Do not add/remove legs or change horn or scales.\nEVERYTHING ELSE MUST STAY UNCHANGED: entire upper resting view and its visible near/left wing scar, separate old-wing-injury detail and label, horn portrait and shard, all name/title/text, four-legged/two-winged nonhumanoid anatomy, colours, matte broad oil handling, empty ivory layout and 1536x1024 landscape dimensions. No scenery, ground, swatches, new object or new label. This is solely a laterality correction of one scar in one view.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T22:55:47.152716+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Ekkorath\"; exact title \"All Accounts Due\". ONE speaking NONHUMANOID DRAGON, never humanized. Long scaled neck, long body and tail, four reptilian legs plus EXACTLY TWO membranous wings; understated slate-gray scales with dusty blue-violet membranes. This restrained classic dragon build/colour is art interpretation where source is unspecified. Large enough to carry a human, no numericaldimensions or rider. Animal/reptilian head, ordinary dark matte eyes, no human face/hands/clothes. ONE prominent central FLIGHT HORN above brow, horn chipped with old fracture missing a curved piece; no antlers/crown/extra horns.\nArrange large upper-left LATERAL RESTING fullbody wingsfolded, long neck/tail entirelyinframe; below or at right one full DORSAL/THREE-QUARTER SPREAD-WING view showing body, all four legs/tail, TWO wings fullyextended within broad clear margins. Make wing count and limbcount unmistakable. Consistent anatomy across views. A non-graphic healed notch/seam in LEFT wing membrane near cartilage, same side in both; wholewing remains present and able to beat ordinarily. Labels \"Resting\" and \"Wings spread\". Small animal head/horn closeup \"Damaged flight horn\"; isolated shed curved ordinary horn shard \"Unflown Arc\"; small leftwing healedseam detail \"Old wing injury\". No gore/blood, no false magical wing anatomy or windows/cities inside wings.\nMotivated diffuse high-sky light from Skairrift painting, soft coolgray and muted paleochre planes over slate scales, dusty violet membrane. Group scales into broad painted masses, not each shiny scale. No glowingedges, flight trail, portal, cloud, scenicground or shadowpatch. EVERY bodypart/wingtip/tailtip fully visible against ivory.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/landscapes/03-the-repeating-horizon.png",
+                "role": "Skairrift soft high-sky gray/violet/ochre palette and broad paint only; no ruins or horizon",
+                "sha256": "7900787c879a665c8d7cb17008a9d92cef70929156d0ca2dea00f00c9772b39a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source: scaled dragon with pluralwings, longneck, flight horn damage and wing injury; fourlegs/twowings/onecentralhorn and slatepalette declared interpretation, no existing anatomyreference.",
+              "Inspected repeating-horizon painting for diffuse Skairrift light/paint only; no ruins or spatialportals.",
+              "Two widely spaced wholebody poses fit landscape; consistent chosen leftwing olddamage and hornnotch; no humanoid features or ridingfigure."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b8222e5b-09c5-48e3-a49e-4039c7492a46.png",
+            "outputSha256": "efe9740091d313c42717ceb5fab19cee75fb9e6533928f3da60e6e3dbfc9b910",
+            "generatorReview": [
+              "Dragon shape/layout/style and damaged flight horn pass; bottom dorsal spreadwing view puts chosen LEFT-wing old scar on viewer-right/anatomical-right. Move scar to viewer-left/anatomical-left; preserve all anatomy and other views."
+            ],
+            "finishedAt": "2026-09-23T23:04:15.317456+00:00",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T23:04:16.314893+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-precise-edit",
+            "prompt": "Use case: precise-object-edit. Edit the supplied complete Ekkorath character sheet. EXACTLY ONE CORRECTION: in the LOWER LARGE VIEW labelled \"Wings spread\", this dragon is seen from ABOVE/BEHIND with head pointing toward the TOP. Therefore its anatomical LEFT wing is on the VIEWER'S LEFT. Currently the pale healed scar/seam is incorrectly drawn across the VIEWER-RIGHT wing. REMOVE that scar from the lower view's viewer-right wing, restoring ordinary unmarked dusty blue-violet membrane with its existing wing bones and oil texture. Put the SAME modest pale old healed scar/seam on the LOWER VIEW'S VIEWER-LEFT wing in the corresponding mirrored membrane position. Exactly ONE scarred wing: anatomical LEFT. Preserve every wing bone, wingtip, membrane edge, limb and pose. Do not add/remove legs or change horn or scales.\nEVERYTHING ELSE MUST STAY UNCHANGED: entire upper resting view and its visible near/left wing scar, separate old-wing-injury detail and label, horn portrait and shard, all name/title/text, four-legged/two-winged nonhumanoid anatomy, colours, matte broad oil handling, empty ivory layout and 1536x1024 landscape dimensions. No scenery, ground, swatches, new object or new label. This is solely a laterality correction of one scar in one view.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b8222e5b-09c5-48e3-a49e-4039c7492a46.png",
+                "role": "immutable edit target; correct scar laterality in dorsal spread-wing view only",
+                "sha256": "efe9740091d313c42717ceb5fab19cee75fb9e6533928f3da60e6e3dbfc9b910",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual first output reviewed; dorsal head-up orientation establishes viewer-left is anatomical-left, wrong side corrected.",
+              "Immutable candidate is only input; no new interpretation or format change.",
+              "All other views and explicit source damaged flight horn/wing retained."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-bad4219a-7940-4c86-8fbb-10ac06f5527e.png",
+            "outputSha256": "8808f27d75e8c5a250cad056320b694e84c39947d36a1d7e64cc184601688870",
+            "finishedAt": "2026-09-23T23:10:13.910510+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected corrected complete pixels: exact Ekkorath/title and labels, full resting and spread-wing dragon with tails/wings/horn wholly in frame, consistent slate scales/violet membranes and nonhuman face.",
+              "Left-wing injury now correctly viewer-left in dorsal head-up spread view; resting near-left wing and isolated detail retained. Old flight horn damage and detached Unflown Arc match; no wing amputation or magic portal anatomy.",
+              "Two wings, four-leg dragon construction with natural limb occlusion, one tail/long neck; no human clothes/hands/rider. Broad grouped matte painted scales, soft source-sky palette, quiet ivory with no scenery/floorpatch/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b8222e5b-09c5-48e3-a49e-4039c7492a46.png",
+            "role": "immutable edit target; correct scar laterality in dorsal spread-wing view only",
+            "sha256": "efe9740091d313c42717ceb5fab19cee75fb9e6533928f3da60e6e3dbfc9b910",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-bad4219a-7940-4c86-8fbb-10ac06f5527e.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "8808f27d75e8c5a250cad056320b694e84c39947d36a1d7e64cc184601688870",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b8222e5b-09c5-48e3-a49e-4039c7492a46.png",
+            "role": "immutable edit target; correct scar laterality in dorsal spread-wing view only",
+            "sha256": "efe9740091d313c42717ceb5fab19cee75fb9e6533928f3da60e6e3dbfc9b910",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected corrected complete pixels: exact Ekkorath/title and labels, full resting and spread-wing dragon with tails/wings/horn wholly in frame, consistent slate scales/violet membranes and nonhuman face.",
+          "Left-wing injury now correctly viewer-left in dorsal head-up spread view; resting near-left wing and isolated detail retained. Old flight horn damage and detached Unflown Arc match; no wing amputation or magic portal anatomy.",
+          "Two wings, four-leg dragon construction with natural limb occlusion, one tail/long neck; no human clothes/hands/rider. Broad grouped matte painted scales, soft source-sky palette, quiet ivory with no scenery/floorpatch/swatches."
+        ],
+        "specificationSha256": "767483e06a8e6072a75cb6d5798daf3ca7f7c845873ad0890f89a6f98c5634d4"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "8808f27d75e8c5a250cad056320b694e84c39947d36a1d7e64cc184601688870"
+    },
+    {
+      "id": "bound-ascendancy",
+      "name": "Bound Ascendancy",
+      "role": "central collective antagonist embodied by six-system hybrid",
+      "form": "hybrid manifestation with plural faces/mouths and hands; exact body topology unspecified",
+      "storyAppearance": {
+        "anatomy": "Hybridbody steps through foldedhorizon, handsreach, pluralmouths speak; loss offacesanddispersal afterYokepowerends. No fixedface/armcount, species, skin or costume supplied.",
+        "materials": "Hybrid uses sixknownroots, no seventhforce.",
+        "movement": "Reaches forLatch and commands through conscriptedmouths.",
+        "scale": "Notnumericallyspecified."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The Bound Ascendancy wore all six at their meeting.",
+          "explanation": "Collective embodiedantagonist."
+        },
+        {
+          "quote": "The hybrid body stepped from a folded horizon into three rooms.",
+          "explanation": "Actual bodymanifestation."
+        },
+        {
+          "quote": "The powerless Yoke lost its faces and dispersed above them.",
+          "explanation": "Terminalstate."
+        }
+      ],
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Limited manifested upperbody/hand/mouth studies rather than fabricatedcomplete stableanatomy; overlapping but connected painted humanlike facialplanes establish pluralmouths without fixed sixheads claim.",
+        "Sixroot effects may appear ONLY as small intrabody materialfacets: mineralcolour, darkheatlessfire, compressedfold, weightedheavyplane, exchangedlivingtissue; no extraenvironment or branchdiagram.",
+        "Explicitly annotate Partial manifestation; same collectiveidentity, never sixindependent namedcharacters or seventhmagic."
+      ],
+      "states": [
+        {
+          "name": "Manifested",
+          "description": "Hybrid embodied command; partialsource-supportedstudies."
+        },
+        {
+          "name": "After release",
+          "description": "Faces dispersed; no remaining magicalbody, so do notinvent anafterform."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "all-accounts-due:bound-ascendancy",
+        "links": [],
+        "evidence": "Named source identity; no separate cross-story match assumed."
+      },
+      "output": "stories/all-accounts-due/art/characters/bound-ascendancy.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Bound Ascendancy\"; exact title \"All Accounts Due\". ONE COLLECTIVE HYBRID MANIFESTATION from story, composed by six magical practices, not six unrelated named people. Source establishes a hybrid body, reaching hands, plural commanding mouths/faces and unstable overlap; exact full anatomy, species and fixed face/limbcount are UNSPECIFIED. Do not fabricate an anatomically complete stable monster with sixheads or a generic armored villain.\nCreate carefully LIMITED CHARACTER STUDIES: TWO separated upper-body manifestation studies, front oblique and side oblique, with lower ends dissolving as unfinished paintstudy into ivory; explicitly label \"Partial manifestation\" and \"Overlap\". A single connected heavy torso/shoulder mass suggested by broad matte mineral-gray and umber living planes, two source-supported reaching forearms/hands visible in frontalstudy. Several humanlike facial planes/MOUTHS appear as ambiguous shifting overlapping planes within the upperbody, not neatly ranked heads, masks, helmets or independentpersons; do not specify exactlysix mouths, no inventedhorns, wings, extraheads or animalfeatures. Each study is same unstable collective identity.\nSmall isolated study \"Commanding mouths\" shows two overlapping mouth/cheek planes with ordinary painted lips speaking, no gore, no toothmonster. Small \"Reaching hand\" shows one five-fingered ordinarymaterial hand with muted connected colour shifts. Intrabody marks may suggest only the named sources: muted mineralcolour geometry, small matte lightless-black fire patch, slight contourfolds and subtlyvaried livingtissue; avoid symbols, runes, glowing mechanicalcircuits, unrelatedseventhsystem. Do not include portals, rooms, cities, other characters or a magicalstaff. No after-extinction body: it loses faces/disperses, does NOT survive as a new power.\nLight is restrained diffuse six-world coolgray/ochre reflection, heavy low-value material masses with selective thickpaint. Non-graphic unsettling authority, no violent action. Identity/form LIMITS are respected by intentionally labelled partial studies, not a invented fullturnaround.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:55:48.174038+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished CHARACTER-ONLY reference folio, exactly 1536x1024 landscape 3:2, quiet warm ivory ground. Exact name and story title upper left; concise readable labels and generous quiet space. Complete relevant isolated forms/details, no clipped silhouette, except explicitly labelled partial anatomy where the source supplies no full form. No environment, location, scene, vignette, ground/floor/terrain patches, sky, stars, plants, buildings, paint swatches or palette strip.\nRENDERING: bold Canadian Group of Seven-influenced oils; broad CONNECTED matte paint masses, long directional bristle strokes and quieter linking passages, substantial selective impasto and scraped edges. Form comes from grouped values, not uniformly bevelled tiny chips. Skin, scales, organic tissue, face and eyes all equally painted. No CGI gloss, anime, photorealistic face, texturefilter or generic cinematic rim.\nImage1 is corrected Caff sheet: PAINT/HANDLING/ivory spacing only. Do not copy any human anatomy, face, outfit or props unless this subject's brief separately specifies them. Image2 is same-story painting, LIGHT/PALETTE/PAINT only; no environment or geography copied.\nHeading \"Bound Ascendancy\"; exact title \"All Accounts Due\". ONE COLLECTIVE HYBRID MANIFESTATION from story, composed by six magical practices, not six unrelated named people. Source establishes a hybrid body, reaching hands, plural commanding mouths/faces and unstable overlap; exact full anatomy, species and fixed face/limbcount are UNSPECIFIED. Do not fabricate an anatomically complete stable monster with sixheads or a generic armored villain.\nCreate carefully LIMITED CHARACTER STUDIES: TWO separated upper-body manifestation studies, front oblique and side oblique, with lower ends dissolving as unfinished paintstudy into ivory; explicitly label \"Partial manifestation\" and \"Overlap\". A single connected heavy torso/shoulder mass suggested by broad matte mineral-gray and umber living planes, two source-supported reaching forearms/hands visible in frontalstudy. Several humanlike facial planes/MOUTHS appear as ambiguous shifting overlapping planes within the upperbody, not neatly ranked heads, masks, helmets or independentpersons; do not specify exactlysix mouths, no inventedhorns, wings, extraheads or animalfeatures. Each study is same unstable collective identity.\nSmall isolated study \"Commanding mouths\" shows two overlapping mouth/cheek planes with ordinary painted lips speaking, no gore, no toothmonster. Small \"Reaching hand\" shows one five-fingered ordinarymaterial hand with muted connected colour shifts. Intrabody marks may suggest only the named sources: muted mineralcolour geometry, small matte lightless-black fire patch, slight contourfolds and subtlyvaried livingtissue; avoid symbols, runes, glowing mechanicalcircuits, unrelatedseventhsystem. Do not include portals, rooms, cities, other characters or a magicalstaff. No after-extinction body: it loses faces/disperses, does NOT survive as a new power.\nLight is restrained diffuse six-world coolgray/ochre reflection, heavy low-value material masses with selective thickpaint. Non-graphic unsettling authority, no violent action. Identity/form LIMITS are respected by intentionally labelled partial studies, not a invented fullturnaround.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+                "role": "six-world scene diffuse cool/ochre palette and connected oil handling only; no actual world-curves",
+                "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source and six-root LOCKED boundary read; collective antagonist/hybridbody/mouths/hands explicit, full topology unspecified.",
+              "Actual six-world painting inspected; only paint/light borrowed. No full stable invented anatomy, sixheads or newmagic.",
+              "Two partial manifestation studies plus mouth/hand details remain one sourcecollective identity; no afterform, scenery, rooms, weapons or swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-cb7722d4-5caf-488b-9ab4-39c0b7ce21d6.png",
+            "outputSha256": "198612217eed69d3a216b4df1e14536454249963eabd8c17d30f844f2bd50578",
+            "finishedAt": "2026-09-23T23:04:14.308298+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected complete output: exact name/title and partial/overlap/mouth/hand labels; two incomplete upperbody manifestations of same collective with overlapping facial planes and reaching hands.",
+              "No complete stable species anatomy or numeric six-head claim, no after-extinction survival form or invented seventh power. Plural mouths/faces and hybrid body stay source-grounded, hands consistent and material.",
+              "Broad connected mineral-gray/charcoal/umber matte impasto across faces, body planes and hands; no actual rooms/portals/scenery/terrain/swatches or extra named character."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "six-world scene diffuse cool/ochre palette and connected oil handling only; no actual world-curves",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-cb7722d4-5caf-488b-9ab4-39c0b7ce21d6.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3",
+        "outputSha256": "198612217eed69d3a216b4df1e14536454249963eabd8c17d30f844f2bd50578",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected broad matte oil paint and quiet ivory sheet layout ONLY; not human anatomy, identity, clothes or objects",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/all-accounts-due/art/landscapes/01-six-world-curves.png",
+            "role": "six-world scene diffuse cool/ochre palette and connected oil handling only; no actual world-curves",
+            "sha256": "56e769e8acbe312e007e8057b0a078f1af8dbee84aef6cf08a9a814e11120732",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected complete output: exact name/title and partial/overlap/mouth/hand labels; two incomplete upperbody manifestations of same collective with overlapping facial planes and reaching hands.",
+          "No complete stable species anatomy or numeric six-head claim, no after-extinction survival form or invented seventh power. Plural mouths/faces and hybrid body stay source-grounded, hands consistent and material.",
+          "Broad connected mineral-gray/charcoal/umber matte impasto across faces, body planes and hands; no actual rooms/portals/scenery/terrain/swatches or extra named character."
+        ],
+        "specificationSha256": "aabaf3a6027af49e38774968aea226426d4e54067918d49ce37f4d72f626c50d"
+      },
+      "references": [],
+      "anatomyResolution": {
+        "status": "resolved-by-limited-manifestation-studies",
+        "reason": "Hybrid body, plural mouths/faces and hands established; fixed complete topology is not. Use labelled partial manifestations with no stable six-head or seventh-system claim."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "198612217eed69d3a216b4df1e14536454249963eabd8c17d30f844f2bd50578"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "f165bf032d5f46786a0d298da73846523b8e323b29b887654f2add954c85acd3"
+}
