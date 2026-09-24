@@ -1,0 +1,403 @@
+{
+  "slug": "an-ordinary-education",
+  "title": "An Ordinary Education",
+  "source": "stories/an-ordinary-education/story.md",
+  "canon": false,
+  "mainCastEvidence": "Read complete finished prose lines1–409. Delsie viewpoint and Bettina co-lead carry friendship/conflict/resolution. Guardian and rink participants have incidental roles only.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Delsie's guardian",
+      "reason": "Brief support and imagined pickup; no substantial independent role."
+    },
+    {
+      "name": "Lab scientists",
+      "reason": "Backstory perpetrators briefly recalled."
+    },
+    {
+      "name": "Rink attendants, other students and skaters",
+      "reason": "Brief context, no sustained individual arc."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: authority",
+    "universe/rules.md: System categories, Living agency and magic; no generic obligation for every living person to use magic",
+    "universe/premise.md: recurring modernities",
+    "Exact Delsie/Bettina checks in universe,NAMES,finished prose/reviews found only this story"
+  ],
+  "characters": [
+    {
+      "id": "delsie",
+      "name": "Delsie",
+      "role": "Laboratory-created nonmagical rabbit-eared teenage viewpoint protagonist",
+      "selectionEvidence": [
+        {
+          "line": 11,
+          "quote": "Her rabbit ears had heard him perfectly well.",
+          "explanation": "Rabbit ears and ordinary headphone accommodation."
+        },
+        {
+          "line": 41,
+          "quote": "I haven't got any magic.",
+          "explanation": "No magical visual effects."
+        },
+        {
+          "line": 45,
+          "quote": "one gray ear",
+          "explanation": "Ear colour."
+        },
+        {
+          "line": 45,
+          "quote": "There was a pale scar inside the other, mostly hidden by fur.",
+          "explanation": "Single ear scar."
+        },
+        {
+          "line": 99,
+          "quote": "wore the green T-shirt she had bought herself",
+          "explanation": "Outing wardrobe."
+        },
+        {
+          "line": 111,
+          "quote": "gave her brown skates, and took her trainers",
+          "explanation": "Rental skate state."
+        }
+      ],
+      "form": "Human-proportioned teenager with two grey rabbit ears; not full rabbit body",
+      "storyAppearance": {
+        "anatomy": "Human face/arms/hands/legs consistent with cover, two long grey rabbit ears. No tail/paws/muzzle specified; do not add.",
+        "lifeStage": "Teen schoolgirl; classmate Bettina16, Delsie exact age unspecified.",
+        "proportions": "Ordinary teenage human proportions with tall rabbit ears, no infantilization.",
+        "markings": "Pale scar inside one ear, mostly hidden by fur.",
+        "materials": "Grey fur on ears, skin ordinary elsewhere; cover freckles/short brown hair.",
+        "clothing": "Green T-shirt Friday, thick socks, trainers initially; brown rental quad skates.",
+        "equipment": "Black headphones worn below chin with cups behind jaw; bag/school notebook optional not needed.",
+        "scale": "Teen human.",
+        "movement": "Awkward bent-knee beginner skating, protective/defiant then laughing. Not athletic expert stance.",
+        "distinctiveFeatures": "Nonmagical, two grey rabbit ears and subtle inner-ear scar."
+      },
+      "explicitCanon": [
+        "Story-local rabbit ears grey, pale inner-ear scar, no magic, green T-shirt/thick socks/brown rental skates.",
+        "Headphones under chin with cups behind jaw; no other rabbit anatomy established."
+      ],
+      "visualInterpretation": [
+        "Preserve cover short chestnut bob, light warm freckled complexion, brown eyes; assign anatomical right ear scar matching cover.",
+        "Dark charcoal straight jeans as restrained unspecified choice. Main roller-skate views with ordinary two arms/legs; separate headphones head detail under chin. Muted violet/amber enclosed rink light, ivory ground unaffected."
+      ],
+      "states": [
+        {
+          "label": "Friday",
+          "description": "Green shirt, brown rental skates, thick socks."
+        },
+        {
+          "label": "Language lesson",
+          "description": "Close head only with headphones under chin; no classroom."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/an-ordinary-education/title-image.jpg",
+          "role": "Delsie's compatible cover identity; no Bettina depicted",
+          "sha256": "054c7478a9ebbf2e92c01f41619993e1add0e3daef2027ff7850788805c2fee8",
+          "inspected": true,
+          "notes": "Teen girl human face, short chestnut bob, light warm skin/freckles, two long grey rabbit ears; pale scar in anatomical right ear/image-left; green shirt and black headphones under chin."
+        },
+        {
+          "path": "stories/an-ordinary-education/art/interiors/01-violet-roller-rink.png",
+          "role": "Evening rink warm overhead/violet ambient light and oil handling only, exclude environment",
+          "sha256": "b2e65accca2809d0e1b5964e4accc5c8b41fad292a30064e4658c54c13d69c94",
+          "inspected": true,
+          "notes": "Broad muted violet ceiling/reflections with low amber pools; no people or anatomy references."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "an-ordinary-education:delsie",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/an-ordinary-education/art/characters/delsie.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One tiny cleanup of this Delsie sheet: erase ALL horizontal lavender/beige paint smears and cast-shadow patches underneath/between the skates of the three full-body views, restore uninterrupted quiet warm ivory identical to the surrounding ground. There must be no implied floor, platform, contact shadow or terrain patch. Do not touch the skates or wheels themselves or any character pixels.\n\nKeep absolutely every other detail unchanged: layout, poses, two rabbit ears, pale inner ear scar, green shirt, charcoal jeans, brown quad skates, thick socks, head studies, headphones-under-chin, raised oil paint, lighting, name Delsie, title An Ordinary Education and all text. No new content, swatches or backdrop. Local ground-mark removal only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:09:39.7839999Z",
+            "status": "REVISE",
+            "prompt": "Create ONE 1536×1024 landscape character folio on quiet warm IVORY, exact heading “Delsie”, subtitle “An Ordinary Education” upper left. One identity only.\n\nDelsie is an ordinary-looking teenage schoolgirl except for exactly TWO long grey rabbit ears, one with a small pale scar mostly concealed by fur (anatomical RIGHT ear, viewer-left in front view). Laboratory-created and NONMAGICAL. Preserve compatible cover identity from input3: short chestnut bob, light warm freckled skin, brown eyes, expressive reserved human face. Two human arms/hands, two human legs, ordinary feet inside skates. No rabbit muzzle, paws, tail, fangs, wings or extra human ears visible. No magic glow. Never add animal anatomy beyond the ears.\n\nGreen T-shirt she chose, dark charcoal straight jeans, thick cream socks, brown rental QUAD roller skates (four wheels per skate, two axles; correctly occluded wheels). Three unclipped useful full-body views: front slight beginner bent knees, profile, rear. Long ears fully inside canvas with generous margin. Right side small guarded/laughing head studies plus one “Language lesson” head detail with black ordinary headphones UNDER CHIN, curved band below jaw and cups behind jaw, not over rabbit ears. Subtle “Ear scar” detail if space; scar pale healed, not red wound.\n\nInput1 Coris supplies PRIMARY approved heavy OIL painting and ivory folio presentation, never identity/hair pencils/clothes. Input2 rink provides only muted evening violet ambient and restrained warm overhead pools, no architecture, scene or floor. Input3 Delsie cover identity only; replace its smooth illustrative face with strong painted form.\n\nCoalesced large colour/value planes across face, ears, hair, arms and cloth; broad directional bristle with selective substantial impasto, quieter connected shadows. Skin as decisively painted as clothes, matte pupils, no anime, smooth CGI, glossy eye/nose highlights or uniform bevelled gold chips. Story-specific soft violet shadow with modest warm upper planes, never a daylight flood or rimlight. Ground remains solid warm ivory.\n\nConcise labels only; exact name/title readable. No scenery, room, rail, terrain, floor patches, location vignette, secondary people, decorative prose, swatches or palette bars.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil treatment/presentation only",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/an-ordinary-education/art/interiors/01-violet-roller-rink.png",
+                "role": "enclosed dusk violet/amber subject light only, exclude setting",
+                "inspected": true,
+                "sha256": "b2e65accca2809d0e1b5964e4accc5c8b41fad292a30064e4658c54c13d69c94"
+              },
+              {
+                "path": "stories/an-ordinary-education/title-image.jpg",
+                "role": "Delsie compatible identity/ear scar/headphone geometry only",
+                "inspected": true,
+                "sha256": "054c7478a9ebbf2e92c01f41619993e1add0e3daef2027ff7850788805c2fee8"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-d665a92a-5c3c-44e9-a2d9-3d9bf9d36596.png",
+            "returnedSha256": "1929d5fad8e8d18d8bb511084342f97f7fb710ea65546e8ccfb5b99b3b9263cb",
+            "review": "Body/identity/style PASS but violet ground/shadow paint patches beneath skates violate character-only preference; remove those.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:12:15.9064117Z",
+            "status": "PASS",
+            "prompt": "One tiny cleanup of this Delsie sheet: erase ALL horizontal lavender/beige paint smears and cast-shadow patches underneath/between the skates of the three full-body views, restore uninterrupted quiet warm ivory identical to the surrounding ground. There must be no implied floor, platform, contact shadow or terrain patch. Do not touch the skates or wheels themselves or any character pixels.\n\nKeep absolutely every other detail unchanged: layout, poses, two rabbit ears, pale inner ear scar, green shirt, charcoal jeans, brown quad skates, thick socks, head studies, headphones-under-chin, raised oil paint, lighting, name Delsie, title An Ordinary Education and all text. No new content, swatches or backdrop. Local ground-mark removal only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-d665a92a-5c3c-44e9-a2d9-3d9bf9d36596.png",
+                "role": "immutable edit target; remove ground marks only",
+                "inspected": true,
+                "sha256": "1929d5fad8e8d18d8bb511084342f97f7fb710ea65546e8ccfb5b99b3b9263cb"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-6f8d3b8c-73fe-45a9-9357-8458367ce999.png",
+            "returnedSha256": "14da238101118d1c0961d6b38799631a4326ed26b407423a8d081b8388663cf0",
+            "completedAt": "2026-09-23T18:15:38.134124-04:00",
+            "review": [
+              "Actual saved pixels inspected: Delsie has two grey rabbit ears, source-compatible human body/face, subtle pale scar, no tail/paws/magic.",
+              "Green shirt, thick socks and brown quad skates; headphone detail correctly below chin; three unclipped views and readable name/title.",
+              "Ground marks removed in correction, no environment/swatch. Broad painted face/body planes retain cover identity and coherent subdued enclosed light."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-d665a92a-5c3c-44e9-a2d9-3d9bf9d36596.png",
+            "role": "immutable edit target; remove ground marks only",
+            "inspected": true,
+            "sha256": "1929d5fad8e8d18d8bb511084342f97f7fb710ea65546e8ccfb5b99b3b9263cb"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T18:15:38.136318-04:00",
+        "sourceSha256": "4c5c833d233810c817902de163921442584f0617f44e4f4dbe263aa09968937a",
+        "outputSha256": "14da238101118d1c0961d6b38799631a4326ed26b407423a8d081b8388663cf0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-d665a92a-5c3c-44e9-a2d9-3d9bf9d36596.png",
+            "role": "immutable edit target; remove ground marks only",
+            "inspected": true,
+            "sha256": "1929d5fad8e8d18d8bb511084342f97f7fb710ea65546e8ccfb5b99b3b9263cb"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: Delsie has two grey rabbit ears, source-compatible human body/face, subtle pale scar, no tail/paws/magic.",
+          "Green shirt, thick socks and brown quad skates; headphone detail correctly below chin; three unclipped views and readable name/title.",
+          "Ground marks removed in correction, no environment/swatch. Broad painted face/body planes retain cover identity and coherent subdued enclosed light."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "9549a84248a8f587162e0c88d12d71735adddd7300cd7f81db2fa3429c9eaf6b"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "14da238101118d1c0961d6b38799631a4326ed26b407423a8d081b8388663cf0"
+    },
+    {
+      "id": "bettina",
+      "name": "Bettina",
+      "role": "Sixteen-year-old friend, co-lead and skating companion",
+      "selectionEvidence": [
+        {
+          "line": 61,
+          "quote": "Come on Friday, then. Roller rink. Six o'clock.",
+          "explanation": "Initiates active friendship plot."
+        },
+        {
+          "line": 71,
+          "quote": "The case had a raised pink strawberry on it",
+          "explanation": "Personal phone case."
+        },
+        {
+          "line": 103,
+          "quote": "Her own skates were white, with red wheels and one black lace.",
+          "explanation": "Distinctive skates."
+        },
+        {
+          "line": 227,
+          "quote": "Bettina was waiting beside her in a stretched yellow sleeve. She was sixteen.",
+          "explanation": "Age and wardrobe."
+        },
+        {
+          "line": 341,
+          "quote": "Bettina's hair had come partly out of its clip",
+          "explanation": "Hair accessory."
+        }
+      ],
+      "form": "Human teenage girl",
+      "storyAppearance": {
+        "anatomy": "Ordinary human; no rabbit ears, horns or magic assigned.",
+        "lifeStage": "Sixteen.",
+        "proportions": "Ordinary teenage build.",
+        "markings": "None specified.",
+        "materials": "Human skin/hair, cloth, leather/plastic skate materials.",
+        "clothing": "Yellow sleeved top, sleeve stretched by Delsie. Rest unspecified.",
+        "equipment": "White quad skates/red wheels/one black lace; phone raised pink seedless strawberry case; silver ring she repeatedly loses; hair clip.",
+        "scale": "Human teen.",
+        "movement": "Competent skating but imperfect at new step; laughs openly, offers arm/hand.",
+        "distinctiveFeatures": "Yellow sleeve, white skates with red wheels and one black lace."
+      },
+      "explicitCanon": [
+        "Story-local16, yellow sleeve, hair clip, white skates/red wheels/one black lace, silver ring, pink raised strawberry phone case with painted seeds worn off.",
+        "Face/skin/hair colour unspecified; no existing cover identity."
+      ],
+      "visualInterpretation": [
+        "Warm dark-brown complexion, straight black shoulder-length hair partly held by dark teal clip, short irregular fringe, broad expressive face; these art choices distinguish from Delsie.",
+        "Mustard-yellow long-sleeve top and indigo straight jeans; one skate black lace, other white. Main views same dusk rink amber/violet light; equipment details phone/ring/skates."
+      ],
+      "states": [
+        {
+          "label": "Friday",
+          "description": "Ordinary clothed skater, three views."
+        },
+        {
+          "label": "Laughing",
+          "description": "Head expression, hair slipping from clip."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/an-ordinary-education/title-image.jpg",
+          "role": "Delsie's compatible cover identity; no Bettina depicted",
+          "sha256": "054c7478a9ebbf2e92c01f41619993e1add0e3daef2027ff7850788805c2fee8",
+          "inspected": true,
+          "notes": "Teen girl human face, short chestnut bob, light warm skin/freckles, two long grey rabbit ears; pale scar in anatomical right ear/image-left; green shirt and black headphones under chin."
+        },
+        {
+          "path": "stories/an-ordinary-education/art/interiors/01-violet-roller-rink.png",
+          "role": "Evening rink warm overhead/violet ambient light and oil handling only, exclude environment",
+          "sha256": "b2e65accca2809d0e1b5964e4accc5c8b41fad292a30064e4658c54c13d69c94",
+          "inspected": true,
+          "notes": "Broad muted violet ceiling/reflections with low amber pools; no people or anatomy references."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "an-ordinary-education:bettina",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/an-ordinary-education/art/characters/bettina.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make ONE tiny source-fidelity correction only. On Bettina's isolated phone-case detail at lower right, erase EVERY little pale/yellow/white seed mark on the raised pink strawberry. The source explicitly says the raised pink strawberry has lost every painted seed. Keep strawberry raised, PINK, with green leaf crown and worn solid pink seedless surface, rendered with broad oil paint. Do not remove the strawberry itself. No seed dots or grooves.\n\nPreserve absolutely everything else exactly: all three teenage human body views, black hair/teal clip, yellow top, jeans, white quad skates/red wheels/one black lace and one white lace, faces/skin/lighting, ring, phone body/cameras, text/name/title, ivory ground and layout. No new text, features, swatches, floor shadows, scenery or background. A localized removal of strawberry seed paint only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:15:39.0920106Z",
+            "status": "REVISE",
+            "prompt": "Create ONE character-only folio, 1536×1024 landscape, quiet uninterrupted warm IVORY background. Exact name “Bettina”; exact story title “An Ordinary Education” upper left.\n\nBettina is an ordinary HUMAN girl age SIXTEEN, no animal features or magic. Warm dark-brown complexion, broad expressive face, straight black shoulder-length hair with short irregular fringe, partly caught in a dark teal clip. A few loose strands stick to forehead from skating. She is distinct from Delsie, neither rabbit-eared nor a visual clone. Mustard YELLOW long-sleeve top, one sleeve slightly stretched, indigo straight jeans, white thick socks. Own WHITE QUAD roller skates with RED wheels, four wheels/two axles per skate, ONE BLACK LACE on left skate and WHITE LACE on right. Keep mismatched laces consistent in all views and equipment detail.\n\nThree unclipped full-body views: front with lightly bent knees, profile, back with relaxed clasped hands. Competent casual skater, not superhero athlete. Two small face studies: laughing mouth open naturally, concentrated. Selected personal gear details: paired skates clearly exposing one black/one white lace; phone case with raised PINK STRAWBERRY whose painted seeds are worn away (no readable screen UI); tiny ordinary silver ring. No extra props.\n\nInput1 Coris is PRIMARY collection OIL construction and folio layout only; do not copy light complexion, hair pencils, white blouse or adult identity. Input2 rink provides only subdued VIOLET ambient shadows and modest WARM overhead illumination. No room, rail, floor, architecture, location or scene may transfer. Keep the ivory ground plain and fully unshaded—no marks underneath wheels.\n\nCanadian Group of Seven-inspired heavy oil: large connected painted colour/value planes across dark skin, black hair, eyes, hands, cloth and skates. Broad varied bristle strokes, selective substantial impasto, quiet shadow passages. Facial features built from paint as boldly as body; matte eyes, no smooth CGI/glossy nose, no fine anime outlines, no uniform bevel-lit chips. Lighting respects dark skin, not bleaching it: low warm planes and rich connected violet-brown shadow, no rim glow.\n\nFive-finger hands; exact title readable; concise labels only. NO ground patches/cast-shadow floor, scene vignette, background gradient, decorative prose, paint swatches or palette bars.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil and folio only; no identity transfer",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/an-ordinary-education/art/interiors/01-violet-roller-rink.png",
+                "role": "evening violet/warm overhead subject light only, no scene",
+                "inspected": true,
+                "sha256": "b2e65accca2809d0e1b5964e4accc5c8b41fad292a30064e4658c54c13d69c94"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-9391df7e-5d31-43c1-b699-393fc9b5393a.png",
+            "returnedSha256": "d02e4c946d84076aab9c90966ae1923f50df8049008000551a5f3dd225999b95",
+            "review": "Human identity/style/skates PASS. Strawberry phone-case detail shows painted seeds but source says every painted seed worn away; erase seeds only.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:19:50.9476883Z",
+            "status": "PASS",
+            "prompt": "Make ONE tiny source-fidelity correction only. On Bettina's isolated phone-case detail at lower right, erase EVERY little pale/yellow/white seed mark on the raised pink strawberry. The source explicitly says the raised pink strawberry has lost every painted seed. Keep strawberry raised, PINK, with green leaf crown and worn solid pink seedless surface, rendered with broad oil paint. Do not remove the strawberry itself. No seed dots or grooves.\n\nPreserve absolutely everything else exactly: all three teenage human body views, black hair/teal clip, yellow top, jeans, white quad skates/red wheels/one black lace and one white lace, faces/skin/lighting, ring, phone body/cameras, text/name/title, ivory ground and layout. No new text, features, swatches, floor shadows, scenery or background. A localized removal of strawberry seed paint only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-9391df7e-5d31-43c1-b699-393fc9b5393a.png",
+                "role": "immutable edit target; strawberry seed removal only",
+                "inspected": true,
+                "sha256": "d02e4c946d84076aab9c90966ae1923f50df8049008000551a5f3dd225999b95"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-a94ae9d7-cb7d-41b5-8454-d312f0c73324.png",
+            "returnedSha256": "87cf8d2ddcc1c06f466f43d2b73db7a13ff4b1a7fb30abd1b0512601f76f6b4f",
+            "completedAt": "2026-09-23T22:22:36.207071+00:00",
+            "review": [
+              "Actual pixels inspected after phone correction: raised strawberry has worn pink surface without the contrasting painted seed pattern; ring/case remain isolated.",
+              "Sixteen-year-old human identity consistent across three full views and two faces; no rabbit features. White quad skates, red wheels, one black lace and one white consistent.",
+              "Name/title legible, yellow sleeves/hair clip source supported; painted dark skin and material planes preserved, no location, ground marks or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-9391df7e-5d31-43c1-b699-393fc9b5393a.png",
+            "role": "immutable edit target; strawberry seed removal only",
+            "inspected": true,
+            "sha256": "d02e4c946d84076aab9c90966ae1923f50df8049008000551a5f3dd225999b95"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:22:36.209100+00:00",
+        "sourceSha256": "4c5c833d233810c817902de163921442584f0617f44e4f4dbe263aa09968937a",
+        "outputSha256": "87cf8d2ddcc1c06f466f43d2b73db7a13ff4b1a7fb30abd1b0512601f76f6b4f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-9391df7e-5d31-43c1-b699-393fc9b5393a.png",
+            "role": "immutable edit target; strawberry seed removal only",
+            "inspected": true,
+            "sha256": "d02e4c946d84076aab9c90966ae1923f50df8049008000551a5f3dd225999b95"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected after phone correction: raised strawberry has worn pink surface without the contrasting painted seed pattern; ring/case remain isolated.",
+          "Sixteen-year-old human identity consistent across three full views and two faces; no rabbit features. White quad skates, red wheels, one black lace and one white consistent.",
+          "Name/title legible, yellow sleeves/hair clip source supported; painted dark skin and material planes preserved, no location, ground marks or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "b8951c36300abd25c44f8f91015d88ad0e71cf6a18b1e2123cd6d7d3f4e3e3c9"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "87cf8d2ddcc1c06f466f43d2b73db7a13ff4b1a7fb30abd1b0512601f76f6b4f"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "4c5c833d233810c817902de163921442584f0617f44e4f4dbe263aa09968937a",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
