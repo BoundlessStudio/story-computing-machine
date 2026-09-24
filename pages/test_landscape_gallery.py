@@ -4,6 +4,8 @@ from copy import deepcopy
 import hashlib
 import json
 from pathlib import Path
+import subprocess
+import sys
 from tempfile import TemporaryDirectory
 import unittest
 from unittest.mock import patch
@@ -419,6 +421,58 @@ class LandscapeGalleryTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "No interiors source directory"):
             gallery.capture_interiors(self.root, slugs=[self.story.slug])
         self.assertEqual((self.pages / "interiors.json").read_bytes(), saved)
+
+    def test_named_landscape_capture_preserves_unrelated_art_and_rejects_missing_sources(self):
+        first = self.capture()
+        retained_assets = {
+            image[role]["path"]: (self.pages / image[role]["path"]).read_bytes()
+            for image in first["stories"][0]["images"] for role in ("full", "thumbnail")
+        }
+        other = story_fixture(slug="another-story", title="Another Story")
+        build.save_catalog([self.story, other], self.pages / "catalog.json")
+        Image.new("RGB", (864, 1536), "navy").save(self.pages / other.cover)
+        other_art = self.root / "stories" / other.slug / "art" / "landscapes"
+        other_art.mkdir(parents=True)
+        Image.new("RGB", (96, 64), "gold").save(other_art / "01-outside-the-gate.png")
+        # An unrelated original may be offline, and unpublished drafts must be ignored.
+        self.art.rename(self.art.with_name("offline-landscapes"))
+        unpublished = self.root / "stories" / "draft" / "art" / "landscapes"
+        unpublished.mkdir(parents=True)
+        Image.new("RGB", (96, 64), "red").save(unpublished / "01-draft.png")
+        protected = {self.pages / "catalog.json": (self.pages / "catalog.json").read_bytes()}
+        for collection in ("characters", "interiors"):
+            snapshot = self.pages / f"{collection}.json"
+            snapshot.write_text('{"schemaVersion":1,"stories":[]}', encoding="utf-8")
+            protected[snapshot] = snapshot.read_bytes()
+        second = gallery.capture_landscapes(self.root, slugs=[other.slug])
+        self.assertEqual({story["slug"] for story in second["stories"]}, {self.story.slug, other.slug})
+        retained = next(story for story in second["stories"] if story["slug"] == self.story.slug)
+        self.assertEqual(retained, first["stories"][0])
+        self.assertEqual(gallery.check_assets(second, self.pages), 2)
+        self.assertEqual({path: (self.pages / path).read_bytes() for path in retained_assets}, retained_assets)
+        self.assertEqual({path: path.read_bytes() for path in protected}, protected)
+        saved = self.snapshot.read_bytes()
+        for slug, error in ((self.story.slug, "No landscapes source directory"),
+                            ("draft", "absent from the publication catalog")):
+            with self.subTest(slug=slug), self.assertRaisesRegex(ValueError, error):
+                gallery.capture_landscapes(self.root, slugs=[slug])
+            self.assertEqual(self.snapshot.read_bytes(), saved)
+
+    def test_landscape_cli_forwards_named_slugs(self):
+        # Run the real parser/dispatch with capture mocked; never touch repository snapshots.
+        script = """
+import runpy
+import sys
+from unittest.mock import patch
+sys.argv = ['pages/build.py', 'capture-landscapes', 'first-story', 'second-story']
+with patch('pages.landscape_gallery.capture_landscapes', return_value={'stories': []}) as capture:
+    runpy.run_module('pages.build', run_name='__main__')
+    assert capture.call_count == 1
+    assert capture.call_args.kwargs == {'slugs': ['first-story', 'second-story']}
+"""
+        result = subprocess.run([sys.executable, "-c", script],
+                                cwd=Path(__file__).resolve().parents[1], capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
 
 
 if __name__ == "__main__":

@@ -1,14 +1,27 @@
 # Story Computing Machine
 
 A shared-universe fiction workspace. A writing prompt becomes a complete story
-through specialist outline, prose, independent review, and cover assignments:
+through specialist outline, prose, independent review, reference-art and cover assignments:
 
 ```text
-prompt.md → outline.md → story.md → review.md → title-image.jpg
+prompt.md → outline.md → story.md → review.md (PASS)
+  → character sheets → exterior/interior references → title-image.jpg
+  → story and Image Gallery publication
 ```
 
 Stories, universe notes, and illustrated editions are the product. Story
-production stays in these five artifacts, with Git preserving history and Pages publishing a stored snapshot.
+production keeps four authored Markdown files and a cover at the package root,
+with accepted reference PNGs in `art/characters/`, `art/landscapes/` and
+`art/interiors/`. Git preserves history and Pages publishes stored snapshots.
+
+New stories and replacements now create and visually review their main character
+sheets and major locations, including separate outside and inside views where the
+prose supports them, before generating the cover. References and cover use the
+gallery's established Canadian Group of Seven inspired oil style unless the prompt
+specifies another style. The cover uses the accepted reference images, and all
+accepted references join the existing Image Gallery with the story's publication.
+Completed stories are not retroactively regenerated. See
+[Art references](.agents/skills/story-room/SKILL.md#art-references).
 
 ## Start a story
 
@@ -90,7 +103,7 @@ story and its illustrated edition.
 - [universe/](universe/README.md): shared facts;
   [style guide](universe/style-guide.md): narrative policy and craft profiles.
 - [story-create](.agents/skills/story-create/SKILL.md): coordination and completion.
-- [story-room](.agents/skills/story-room/SKILL.md): outline, review, cover contracts,
+- [story-room](.agents/skills/story-room/SKILL.md): outline, review, reference-art and cover contracts,
   scaffold, and validation scripts.
 - [short-story-writing](.agents/skills/short-story-writing/SKILL.md): prose adapter;
   other craft skills are pinned references tracked by `skills-lock.json`.
@@ -119,8 +132,8 @@ interior and character studies grouped by story, with search, story and study fi
 Arrow keys move between paintings; Escape closes the viewer. Filter URLs can be
 shared. Without JavaScript, every painting remains available as a direct image
 link. Original PNGs live in each story's `art/landscapes/` and `art/interiors/`
-directories. `python pages/build.py capture-landscapes` and
-`python pages/build.py capture-interiors` independently save full-resolution WebP
+directories. `python pages/build.py capture-landscapes <slug>` and
+`python pages/build.py capture-interiors <slug>` independently save full-resolution WebP
 copies, small thumbnails and their collection's gallery snapshot. Neither changes
 prose nor recaptures the story catalog or the other art collection. Ordinary Pages builds copy those stored web images
 without reading source artwork or encoding new images. The existing GitHub
@@ -129,18 +142,24 @@ Actions workflow deploys the gallery with the rest of the site after merge.
 The art study explores the spaces of each story through oil painting, inspired
 by the Group of Seven's bold colour shapes and expressive brushwork. Interior
 studies carry that treatment indoors with visible impasto, warm and cool light,
-and source-grounded architecture and furnishings. Choose about three compelling
-settings per story, or different views of the same room when there is only one.
+and source-grounded architecture and furnishings. Choose source-supported major
+settings for new-story references; a separate gallery-study assignment may select
+about three compelling settings, or different views of the same room.
 Stories set entirely outdoors receive no interior studies. These independent
 environment paintings establish no new canon facts. They carry no added titles or
 captions; signs and labels may appear when they belong to the story setting.
 Open `gallery.html?type=interiors` to browse just the interior collection.
-For a small batch, `python pages/build.py capture-interiors <slug> [<slug> ...]`
-updates only those stories and retains the other stored interior studies.
+For a small batch, both `capture-landscapes <slug> [<slug> ...]` and
+`capture-interiors <slug> [<slug> ...]` update only those stories and retain the
+other stored studies. Omitting slugs retains the full-collection capture behavior;
+new-story publication always uses the named form.
 
-Character reference sheets use **Sculpted Impasto**: expressive forms built from
-thick oil paint, with each character's name and story title on a landscape 3:2
-sheet. Originals live in `stories/<slug>/art/characters/<character-id>.png`.
+Character reference sheets retain the **Sculpted Impasto** collection label, with
+the later Canadian Group of Seven direction in `pages/character-manifest.json`
+governing their rendering: broad oil-painted forms, varied directional strokes,
+selective impasto and restrained, story-specific light. Each character's name and
+story title appear on a landscape 3:2 sheet. Originals live in
+`stories/<slug>/art/characters/<character-id>.png`.
 The collection inventory is `pages/character-manifest.json`; each story's
 `pages/character-specs/<slug>.json` records its source reading, character design,
 selected references, generation and inspected-image review. These visual
@@ -276,8 +295,8 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Story 
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 python pages/build.py capture <slug>
 python pages/build.py capture-graphic-novel <edition-slug>
-python pages/build.py capture-landscapes
-python pages/build.py capture-interiors
+python pages/build.py capture-landscapes <slug>
+python pages/build.py capture-interiors <slug>
 python pages/build.py capture-characters <slug>
 python pages/build.py check
 ```

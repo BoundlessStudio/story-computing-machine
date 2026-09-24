@@ -29,7 +29,7 @@ facts. `stories/NAMES.md` is frozen production memory, not canon; passing curren
 ## Two story layouts
 
 A current story contains exactly four authored Markdown files and, after a
-passing review, one generated image:
+passing review, generated reference art followed by its cover:
 
 - `prompt.md`: verbatim user request, explicit constraints, reference-image
   display names, and the applicable craft profile.
@@ -41,9 +41,19 @@ passing review, one generated image:
 - `title-image.jpg`: the final-story 864×1536 (9:16) portrait cover; never canon
   authority. Its exact title and visual requirements belong to
   [Title image](.agents/skills/story-room/SKILL.md#title-image).
+- `art/characters/<character-id>.png`: reviewed single-character reference sheets.
+- `art/landscapes/<image-id>.png`: reviewed exterior location references.
+- `art/interiors/<image-id>.png`: reviewed interior location references.
 
-The scaffold contains only the four Markdown files until review passes. No
-other files belong in a current story directory. Do not create draft copies,
+The scaffold contains only the four Markdown files until review passes. New
+stories and replacements complete [Art references](.agents/skills/story-room/SKILL.md#art-references)
+before generating the cover, using the gallery's established oil-painting style.
+Only accepted reference PNGs belong in these art directories; candidates and
+temporary previews stay outside the package. The existing
+`pages/character-specs/<slug>.json` and `pages/character-manifest.json` hold
+character provenance and inventory; gallery snapshots hold published selections.
+These are the permitted gallery records, not additional story Markdown files.
+No other files belong in a current story directory. Do not create draft copies,
 canon briefs or deltas, authority snapshots, handoff guards, release or promotion
 records, ledgers, receipts, story READMEs, index rows, or duplicate lifecycle
 artifacts. Git preserves history. Supporting judgments belong in the existing
@@ -57,7 +67,7 @@ validation does not certify bundle prose. Pages capture supports both layouts.
 An authorized title-image assignment may add or replace `title-image.jpg`
 beside a non-canon bundle without reopening its prose.
 
-Reference images remain external inputs. Record their display names in
+User-supplied reference images remain external inputs. Record their display names in
 `prompt.md`; never copy them into the story package or treat them as canon.
 Resolve and visually inspect every original and provide them to both outliner
 and illustrator. A display name is not a path. If an original cannot be
@@ -65,6 +75,10 @@ accessed, restore access or ask for reattachment; never silently omit it. Writte
 prompt and universe authority control outlining conflicts; final prose controls
 depicted story facts unless the prompt explicitly makes an image detail binding.
 The stage contracts specify inspection and image-generation requirements.
+Generated references are story art, not user attachments or canon authority.
+This prospective creation requirement does not reopen completed stories or
+authorize adding art to locked packages; localized and cover-only assignments
+retain their explicitly authorized scope.
 
 ## Branches
 
@@ -167,7 +181,8 @@ specified in [Replacement](.agents/skills/story-create/SKILL.md#replacement).
 
 Use [story-room](.agents/skills/story-room/SKILL.md) for the shared
 [Outline](.agents/skills/story-room/SKILL.md#outline),
-[Review](.agents/skills/story-room/SKILL.md#review), and
+[Review](.agents/skills/story-room/SKILL.md#review),
+[Art references](.agents/skills/story-room/SKILL.md#art-references), and
 [Title image](.agents/skills/story-room/SKILL.md#title-image) stages, or one
 explicitly requested stage. Use
 [short-story-writing](.agents/skills/short-story-writing/SKILL.md#inputs) for
@@ -348,6 +363,14 @@ art/PDFs. Published comic downloads stay frozen until an explicit named recaptur
 Merge any later edition branch through a pull request, never automatically.
 
 ## Pages
+
+New-story publication includes the accepted character, exterior, and interior
+references in the existing Image Gallery. After story capture, use named
+`capture-characters <slug>`, `capture-landscapes <slug>`, and
+`capture-interiors <slug>` for the applicable collections. Skip a collection
+only when the source has no qualifying subject, as established during art review.
+These commands update gallery snapshots and web copies; ordinary builds remain
+snapshot-only. See [Publication](.agents/skills/story-create/SKILL.md#publication).
 
 `pages/catalog.json` and `pages/covers/` are the stored story publication snapshot;
 `pages/graphic-novels.json` and `pages/graphic-novels/` store approved comic PDFs

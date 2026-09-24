@@ -1,8 +1,12 @@
 # Stories
 
 Each current package in `stories/<slug>/` contains `prompt.md`, `outline.md`,
-`story.md`, and `review.md`. After review passes, `title-image.jpg` completes the
-package. Only `story.md` is reader-facing prose.
+`story.md`, and `review.md`. After prose review passes, new stories and replacements
+create reviewed character sheets and separate exterior/interior references in
+`art/characters/`, `art/landscapes/` and `art/interiors/`, then use the accepted
+references to generate `title-image.jpg`. References follow the gallery's oil style
+and are captured into the Image Gallery with the story. Only `story.md` is
+reader-facing prose; no extra Markdown production records belong in the package.
 
 Packages containing `05-story.md` retain the supported bundle layout. Their
 `story.json` canon marker controls editability; current packages use `story.md`
