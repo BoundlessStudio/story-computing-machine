@@ -51,7 +51,7 @@
     "sourceAssets": "stories/<slug>/art/characters/<character-id>.png",
     "specifications": "pages/character-specs/<slug>.json",
     "publishedSnapshot": "pages/characters.json",
-    "pilotStatus": "All eight pilots and existing completed production sheets are integrated. User review can proceed in the gallery and PR; remaining production is deferred.",
+    "pilotStatus": "All pilots and source-supported production sheets are integrated into the gallery.",
     "pilotCharacters": [
       "a-beginner-of-considerable-age/orsugal",
       "friends-of-the-night/crooktail",
@@ -65,7 +65,7 @@
     "approval": "User explicitly authorized full run and review at end: go ahead with the full run and we will do a review at the end.",
     "reuse": "Only reuse when source, specification and selected reference hashes remain current; preserve attempts.",
     "statusAuthority": "Each per-story specification records reading status and each character status. Central story list is the inventory index.",
-    "rolloutStatus": "existing-sheets-delivered-production-stopped",
+    "rolloutStatus": "Complete with one documented source-form limitation: Farwake. All 193 stories assessed; 758 reviewed sheets captured across 192 stories.",
     "userReviewCandidates": [
       {
         "story": "a-beginner-of-considerable-age",
@@ -157,9 +157,19 @@
         "go ahead with the full run and we will do a review at the end.",
         "always give the characters names if there are missing them.",
         "why are still doing hand study i think we where past this...",
-        "ok this is seems to be stalling out wrap up now and get the character studies into the gallery and open a PR."
+        "ok this is seems to be stalling out wrap up now and get the character studies into the gallery and open a PR.",
+        "when your done get this new images and edits in the gallary and lets create new PR."
       ],
-      "interpretation": "User stopped further production and requested delivery now. No new image generation or correction loops. Publish currently finished and visually reviewed sheets, retain all unfinished and deferred work in the checkpoint, verify the gallery, and open a pull request. Character-only, no swatches, named identities, source-specific lighting and Canadian Group of Seven impasto directions remain binding."
+      "interpretation": "User explicitly resumed missing sheets and corrections, then requested gallery integration and a new PR. All source-supported sheets are now completed and captured. Character-only, no swatches, named identities and Canadian Group of Seven oil directions remain binding.",
+      "resume": {
+        "recordedAt": "2026-09-24T14:48:27.962108+00:00",
+        "verbatim": "continue creating the missing character sheets; there should only be a few stories missing; make sure to move the locally edited file on the git worktree.",
+        "scope": "Resume remaining assessments and unfinished sheets using preserved candidates and corrected style. Local config moved to the existing production worktree."
+      },
+      "ordinarySlime": {
+        "verbatim": "you need to change the ordinary slime to look more like slim from amines and games... this looks like somethign that came out of my nose...",
+        "resolution": "Merevetch redesigned with clean rounded jade/celadon/blue game-slime silhouettes. Selected fourth attempt; source prose unchanged."
+      }
     },
     "fullRunAuthorization": {
       "recordedAt": "2026-09-23T20:41:18.121725+00:00",
@@ -201,32 +211,34 @@
           "where-no-unicorn-stands"
         ],
         "reason": "Original batches 3 and 5 fully completed; preserve six parallel workers. Original owners notified before transfer."
-      }
+      },
+      "completionResume": "Two remaining-cast workers and root completed the remaining stories in parallel; root reviewed final saved pixels, made small per-story commits and captured approved assets."
     },
     "galleryVerification": {
       "status": "PASS",
-      "reviewedAt": "2026-09-24T13:39:52.916107+00:00",
+      "reviewedAt": "2026-09-24T17:25:18.345213+00:00",
       "evidence": [
-        "62 Pages unit tests passed.",
-        "Pages check passed: 193 source/published stories, 561 landscapes, 507 interiors, 649 character sheets.",
-        "Built 193 stored story readers. All 1298 character full-size/thumbnail WebP files decode and match snapshot hashes; names, alt text and reader destinations verified.",
-        "Browser checked Character sheets filter: 649 paintings across 169 stories; Leonie name search, readable full-size viewer, Open image and correct Read story link."
+        "32 character/landscape gallery unit tests passed.",
+        "Pages check passed for 193 source/published stories and 758 character sheets.",
+        "All 758 completed character source, specification, selected-reference and output pins verified; all saved PNGs opaque 1536x1024.",
+        "All 1516 character full-size/thumbnail WebPs decode and match snapshot hashes; selected source hashes match completed sheets.",
+        "Built 193 stored story readers. Browser verified character filter, Merevetch search, full-size viewer and correct story link."
       ],
       "latestExpandedCheck": {
         "status": "PASS",
-        "builtSheets": 649,
-        "builtStoriesWithCharacters": 169,
+        "builtSheets": 758,
+        "builtStoriesWithCharacters": 192,
         "totalReaders": 193
       }
     },
     "resumeContract": {
       "worktree": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art",
-      "scope": "Worker N owns only pages/character-specs/<slug>.json and stories/<slug>/art/characters/* for manifest stories with inventoryBatch N. Do not change source prose/covers/universe, gallery code/snapshot or central manifest. Root owns all Git, validation/capture and integration. You are not alone; preserve others edits.",
+      "scope": "Cast workers owned only their assigned specifications and character PNGs. Root owned Git, manifest, capture and gallery integration. Source prose, covers and universe remain unchanged.",
       "generation": "Use imagegen skill and built-in image_gen only, one asset per call, max five actual inspected reference images. Read finished story fully and inspect authority/source marker before assessment; covers and relevant artwork actual pixels. New sheets named exact source name or distinctive authorized art name with recorded provenance. User full run/final review approval persists.",
       "style": "Canadian Group of Seven oil collection: broad connected masses, directional opaque paint and selective impasto across faces too; story-motivated lighting preserves darkness. Character only on warm ivory, no locations, scene/floor patches, paint swatches or palette strips. Exact readable name and story title. Preserve anatomy and distinct identity; style anchor must not donate faces. No new isolated hand studies or speculative hand-side corrections; retain acceptable completed art.",
       "provenance": "Follow existing spec schema and UTF-8. Preserve all attempts, exact prompt, actual returned candidate path, inspected selected reference hashes, source/output/specification hashes and PASS findings. Use pages.landscape_gallery._reviewed_character_source(Path.cwd(),spec,char) to verify final pins; character_specification_sha256 excludes status/output/outputSha256/validation and generation.attempts. Avoid self-referential mutable output paths in generation refs; use immutable original returned candidate for edits.",
-      "coordination": "Production stopped at explicit user wrap-up request. Do not start or resume image generation automatically. Finish gallery integration and PR now; a later explicit resume may continue the recorded remaining queue. Root owns Git and gallery.",
-      "resume": "Resume only on an explicit new user request. Use the sourceArchive local production branch/worktree, checkpoint remaining queue, and preserved attempts. Inspect saved candidates before any new call; never assume an interrupted attempt returned no file."
+      "coordination": "Authorized resumed production is complete. Root owns final gallery integration and the new draft PR. Preserve attempts and source pins for any later explicitly requested revisions.",
+      "resume": "No actionable unfinished generation remains. Farwake requires an explicit visual interpretation ruling before a standalone sheet could be created."
     },
     "recurringIdentityCoordination": [
       {
@@ -311,9 +323,9 @@
     "sourceArchive": {
       "branch": "codex/character-reference-sheets",
       "worktree": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art",
-      "commit": "69efae200b21324c161c8222fe57114cf461e691",
+      "commit": "52f228f7614ac15978acb464ada2e5dca43b7c86",
       "preservation": "Original PNGs and small production commits remain in this local branch. The publication PR contains frozen full-size WebP images, thumbnails and metadata; it does not upload the full PNG archive.",
-      "publicationBranch": "codex/character-gallery"
+      "publicationBranch": "codex/character-gallery-completion"
     },
     "retainedUnreviewedCandidates": {
       "directory": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166",
@@ -323,7 +335,13 @@
         "exec-f309f62a-cc26-41df-a8ca-8aa03dafdd47.png",
         "exec-e6e29dc6-0c87-4243-a6c2-0f08f23fd917.png"
       ],
-      "status": "Returned before wrap-up but unreviewed and unpinned; identify from saved prompts and visible headings on a later resume. Never include automatically."
+      "status": "All four interrupted candidates identified, inspected and resolved during resume; selected corrections and rejected attempts preserved in the corresponding specifications."
+    },
+    "completionDelivery": {
+      "recordedAt": "2026-09-24T17:25:18.345213+00:00",
+      "newSheets": 109,
+      "localConfig": "User local .codex/config.toml edit moved byte-for-byte to production worktree and left uncommitted.",
+      "publication": "New draft PR from codex/character-gallery-completion, containing selected WebPs and metadata; original PNGs remain on the local production branch."
     }
   },
   "stories": [
@@ -1487,11 +1505,11 @@
     }
   ],
   "checkpoint": {
-    "recordedAt": "2026-09-24T13:39:52.916107+00:00",
+    "recordedAt": "2026-09-24T17:25:18.345213+00:00",
     "storiesInventoried": 193,
-    "storiesAssessed": 172,
-    "mainCharactersIdentified": 669,
-    "sheetsCompleted": 649,
+    "storiesAssessed": 193,
+    "mainCharactersIdentified": 759,
+    "sheetsCompleted": 758,
     "reusedAssets": 0,
     "documentedUnresolvedItems": [
       {
@@ -1499,271 +1517,33 @@
         "character": "farwake",
         "status": "blocked",
         "reasons": [
-          "No source-supported standalone character form. Current is seen through boat movement/dark tidal bands, not distinct stable morphology. Root direction forbids inventing body/water-ribbon anatomy or portraying audible command as visible text. Needs explicit art-design direction for a speculative avatar, or final-review acceptance of no sheet."
-        ]
-      },
-      {
-        "story": "the-next-train",
-        "character": "clotho",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-next-train",
-        "character": "lachesis",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-next-train",
-        "character": "atropos",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-ordinary-slime",
-        "character": "merevetch",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "the-place-we-keep",
-        "character": "selvi",
-        "status": "deferred",
-        "reasons": [
-          "Portrait-only candidate retained; full liquid-form character reference incomplete."
-        ]
-      },
-      {
-        "story": "the-place-we-keep",
-        "character": "ibby",
-        "status": "deferred",
-        "reasons": [
-          "Prepared prompt retained; image generation was not invoked."
-        ]
-      },
-      {
-        "story": "the-unopened-ring",
-        "character": "queen-vessarine",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-upward-rain",
-        "character": "anouk-verren",
-        "status": "deferred",
-        "reasons": [
-          "Third attempt was prepared but never invoked; recorded cancelled-before-call. Prior candidates require correction."
-        ]
-      },
-      {
-        "story": "the-weight-of-falling-up-rune-shoes",
-        "character": "juni-wex",
-        "status": "deferred",
-        "reasons": [
-          "Third attempt was prepared but never invoked; recorded cancelled-before-call. Prior candidates require correction."
-        ]
-      },
-      {
-        "story": "transitions-in-common",
-        "character": "cody",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "transitions-in-common",
-        "character": "hugo",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "what-she-remembered-of-peace",
-        "character": "olyne-orret",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "what-she-remembered-of-peace",
-        "character": "anvek",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "what-she-remembered-of-peace",
-        "character": "gess-miro",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "what-she-remembered-of-peace",
-        "character": "naro-tule",
-        "status": "deferred",
-        "reasons": [
-          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "elvask",
-        "status": "queued",
-        "reasons": [
-          "Returned candidate failed ivory-background/readable-heading checks; not selected."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "stavreth",
-        "status": "queued",
-        "reasons": [
-          "Returned candidate failed ivory-background/readable-heading checks; not selected."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "yelsa",
-        "status": "queued",
-        "reasons": [
-          "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "evloria",
-        "status": "queued",
-        "reasons": [
-          "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
+          "No source-supported standalone character form: the god is heard through a channel and observed through currents moving a boat. A humanoid/avatar, stable water-ribbon body or visible command text would be invented. No character-only sheet selected; source remains unchanged."
         ]
       }
     ],
-    "remainingStoryAssessments": [
-      "the-names-on-the-cups",
-      "the-one-who-gets-tired",
-      "the-red-dot",
-      "the-ring-between-lives",
-      "the-shadow-that-nested",
-      "the-shape-of-mercy",
-      "the-station-between",
-      "the-ten-thousand-year-queen",
-      "the-unfinished-sunset",
-      "the-unoffered-hand",
-      "the-vacant-throne",
-      "the-villages-only-mage",
-      "the-warmest-person-in-the-room",
-      "the-wolf-in-the-mirror",
-      "there-goes-your-name",
-      "ultimate-evil-dog",
-      "voice-of-silence",
-      "what-turned-eighteen",
-      "when-the-needle-finds-you",
-      "where-the-white-elk-went",
-      "yavrens-return"
-    ],
+    "remainingStoryAssessments": [],
     "remainingCharacterSheets": [
-      "head-priests-in-love/farwake",
-      "the-next-train/clotho",
-      "the-next-train/lachesis",
-      "the-next-train/atropos",
-      "the-ordinary-slime/merevetch",
-      "the-place-we-keep/selvi",
-      "the-place-we-keep/ibby",
-      "the-unopened-ring/queen-vessarine",
-      "the-upward-rain/anouk-verren",
-      "the-weight-of-falling-up-rune-shoes/juni-wex",
-      "transitions-in-common/cody",
-      "transitions-in-common/hugo",
-      "what-she-remembered-of-peace/olyne-orret",
-      "what-she-remembered-of-peace/anvek",
-      "what-she-remembered-of-peace/gess-miro",
-      "what-she-remembered-of-peace/naro-tule",
-      "where-no-unicorn-stands/elvask",
-      "where-no-unicorn-stands/stavreth",
-      "where-no-unicorn-stands/yelsa",
-      "where-no-unicorn-stands/evloria"
+      "head-priests-in-love/farwake"
     ],
-    "resumeRule": "Generation stopped at user request. Remaining collection work is deferred; resume only after a new explicit user request. Reuse valid saved outputs and preserve attempt history.",
+    "resumeRule": "All source-supported sheets completed and captured. Only Farwake lacks a source-supported visible form; retained as an explicit blocker. Later art revisions require an explicit request.",
     "exampleSheetsReady": 8,
-    "gallerySheetsStored": 649,
-    "status": "existing-sheets-delivered-production-stopped",
+    "gallerySheetsStored": 758,
+    "status": "complete-with-source-limitation",
     "pauseRequested": false,
-    "resumeAuthorization": null,
-    "knownCorrections": [
-      {
-        "story": "the-next-train",
-        "character": "clotho",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-next-train",
-        "character": "lachesis",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-next-train",
-        "character": "atropos",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "the-unopened-ring",
-        "character": "queen-vessarine",
-        "status": "deferred",
-        "reasons": [
-          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "elvask",
-        "status": "queued",
-        "reasons": [
-          "Returned candidate failed ivory-background/readable-heading checks; not selected."
-        ]
-      },
-      {
-        "story": "where-no-unicorn-stands",
-        "character": "stavreth",
-        "status": "queued",
-        "reasons": [
-          "Returned candidate failed ivory-background/readable-heading checks; not selected."
-        ]
-      }
-    ],
-    "galleryStoriesStored": 169,
+    "resumeAuthorization": {
+      "recordedAt": "2026-09-24T14:48:27.962108+00:00",
+      "verbatim": "continue creating the missing character sheets; there should only be a few stories missing; make sure to move the locally edited file on the git worktree.",
+      "scope": "Resume remaining assessments and unfinished sheets using preserved candidates and corrected style. Local config moved to the existing production worktree."
+    },
+    "knownCorrections": [],
+    "galleryStoriesStored": 192,
     "reviewedAwaitingCapture": [],
     "storiesWithNoQualifyingCharacters": [
       "the-city-of-eleven-foundations"
     ],
     "awaitingRootReviewOrCapture": [],
-    "countingNote": "Characters are per-story main-cast appearances. Every selected sheet has a saved-pixel review and current source/specification/reference/output pins. Root and parallel reviewers additionally cross-reviewed the final batches. Remaining production is deferred by user request.",
-    "collectionComplete": false,
+    "countingNote": "Counts are per-story main-cast appearances. Completed status requires a saved-pixel review and current source/specification/reference/output pins. Snapshot counts include only captured selected sheets.",
+    "collectionComplete": true,
     "generationStopped": true
   }
 }

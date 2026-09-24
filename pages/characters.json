@@ -1370,6 +1370,89 @@
       ]
     },
     {
+      "slug": "ultimate-evil-dog",
+      "title": "A Very Good Dog",
+      "reader": "stories/ultimate-evil-dog.html",
+      "images": [
+        {
+          "id": "brightguard",
+          "title": "Brightguard",
+          "alt": "Sculpted Impasto character reference sheet of Brightguard for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/characters/brightguard.png",
+          "sourceSha256": "39073ba484d9f05aec266bd2ce723afc3ac4ae9c2c38d3a5ac6fdacbfe8aadc5",
+          "full": {
+            "path": "characters/ultimate-evil-dog/brightguard-39073ba484d9f05a.webp",
+            "sha256": "0293b519372082a803476057dabe520840a17f9d73a14fe40780b105177bf1f8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/ultimate-evil-dog/brightguard-39073ba484d9f05a-thumb.webp",
+            "sha256": "3c5331d15754b345ecae13eca49476f9f43c558443fa56542b8c962d0ebe3a58",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "maledict",
+          "title": "Maledict",
+          "alt": "Sculpted Impasto character reference sheet of Maledict for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/characters/maledict.png",
+          "sourceSha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+          "full": {
+            "path": "characters/ultimate-evil-dog/maledict-ad6bed0f326b6bda.webp",
+            "sha256": "4aa0c0f74a8495e721fe36997534ce60e3af1257837a895fb955b20224025f7f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/ultimate-evil-dog/maledict-ad6bed0f326b6bda-thumb.webp",
+            "sha256": "d53e5d9f81c584349a44ec8a5132adcb66d57d0302289f7915c5dded58823c5b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pickle",
+          "title": "Pickle",
+          "alt": "Sculpted Impasto character reference sheet of Pickle for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/characters/pickle.png",
+          "sourceSha256": "beaaa1547ef3b2fc8751cd3efec50c37e2a6f53c7fc09509efad36bd8925f4a3",
+          "full": {
+            "path": "characters/ultimate-evil-dog/pickle-beaaa1547ef3b2fc.webp",
+            "sha256": "66312d38df6184d29b2ce324df535f40e077420ec69cd18e84c5d9fcaa99347f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/ultimate-evil-dog/pickle-beaaa1547ef3b2fc-thumb.webp",
+            "sha256": "41178cb1607392f8140bb225fcfc659ecd1f2e1aa47c08e28fcf1df6567108a3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "venscot",
+          "title": "Venscot",
+          "alt": "Sculpted Impasto character reference sheet of Venscot for A Very Good Dog",
+          "source": "stories/ultimate-evil-dog/art/characters/venscot.png",
+          "sourceSha256": "765d83a8ddfc71bba95c35120ec6cb3badf14bb80a54c9b4aaee77df737d3334",
+          "full": {
+            "path": "characters/ultimate-evil-dog/venscot-765d83a8ddfc71bb.webp",
+            "sha256": "bc1d6a83cccf3358e2b0d28e03a012d96b1fefb978a839ff76694c1f32af8c57",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/ultimate-evil-dog/venscot-765d83a8ddfc71bb-thumb.webp",
+            "sha256": "3068fa86728ccaad0b9c0ea5863b7279538ac455dc984d7d61e939abee12f67a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "all-accounts-due",
       "title": "All Accounts Due",
       "reader": "stories/all-accounts-due.html",
@@ -9243,10 +9326,150 @@
       ]
     },
     {
+      "slug": "the-names-on-the-cups",
+      "title": "The Names on the Cups",
+      "reader": "stories/the-names-on-the-cups.html",
+      "images": [
+        {
+          "id": "claire",
+          "title": "Claire",
+          "alt": "Sculpted Impasto character reference sheet of Claire for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/characters/claire.png",
+          "sourceSha256": "5f583d7a0001c7ec91c608ad9a5d5971e3854a90ba60ec432fbb89ed54622985",
+          "full": {
+            "path": "characters/the-names-on-the-cups/claire-5f583d7a0001c7ec.webp",
+            "sha256": "cd657441e179d62c85d160f2d5b15b492f079bfce44f66513736fb5c6d446d57",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-names-on-the-cups/claire-5f583d7a0001c7ec-thumb.webp",
+            "sha256": "229b20afbfb712fb6a343a294c0044bcdea1f0a81748769cd84f3134908a26da",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lark-arden",
+          "title": "Lark Arden",
+          "alt": "Sculpted Impasto character reference sheet of Lark Arden for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/characters/lark-arden.png",
+          "sourceSha256": "a92ab317b0385099d6a342360eade7efd755b7fae06177aa93426aa640a7b9e9",
+          "full": {
+            "path": "characters/the-names-on-the-cups/lark-arden-a92ab317b0385099.webp",
+            "sha256": "6786211cd1c16135d8dacecf4345a510e6d1c2dc1e1f2d7f1e7c2ba08a177978",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-names-on-the-cups/lark-arden-a92ab317b0385099-thumb.webp",
+            "sha256": "364ae0cc7352433eee1b9d21a59f1daa7de22c9dfe30378cf13c5028e3b8eefc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nora",
+          "title": "Nora",
+          "alt": "Sculpted Impasto character reference sheet of Nora for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "sourceSha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "full": {
+            "path": "characters/the-names-on-the-cups/nora-cd3f158f84122b9b.webp",
+            "sha256": "80c830da4ecee53cf1d5816fa372b6cf303f3295d5004fc1256989aaca4b5d9f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-names-on-the-cups/nora-cd3f158f84122b9b-thumb.webp",
+            "sha256": "75eb9edd6c81af1af4f66d177c733ce46139d1a43032f4e2facb2b56dd6b64a2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "rae",
+          "title": "Rae",
+          "alt": "Sculpted Impasto character reference sheet of Rae for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/characters/rae.png",
+          "sourceSha256": "9e3a4d3a06afc6b9ef51fa26f9c15aa4ea4f4329fe173f2bf26c16fc6c4528c5",
+          "full": {
+            "path": "characters/the-names-on-the-cups/rae-9e3a4d3a06afc6b9.webp",
+            "sha256": "daf87f8ed65e6a785df29bb9f83acd272d6659ee1a3f13f31513b189cdf535f8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-names-on-the-cups/rae-9e3a4d3a06afc6b9-thumb.webp",
+            "sha256": "2052e82f3de1899bef071465e35dd53209923eb1bb9797605c4fd2779ce57dd2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tess",
+          "title": "Tess",
+          "alt": "Sculpted Impasto character reference sheet of Tess for The Names on the Cups",
+          "source": "stories/the-names-on-the-cups/art/characters/tess.png",
+          "sourceSha256": "127941946c3bb221ba931d785a45c52ff710262453b91bfb4ef99327031361f0",
+          "full": {
+            "path": "characters/the-names-on-the-cups/tess-127941946c3bb221.webp",
+            "sha256": "aa1782573a3f66088718d48fbae16e30c8cb4c4040d2f5a2d8c5bc5fdd19b3f7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-names-on-the-cups/tess-127941946c3bb221-thumb.webp",
+            "sha256": "350ae3baeb31c907419cf243e84caefb7f90764a1dac3a788f90bdca1d1b21b5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-next-train",
       "title": "The Next Train",
       "reader": "stories/the-next-train.html",
       "images": [
+        {
+          "id": "atropos",
+          "title": "Atropos",
+          "alt": "Sculpted Impasto character reference sheet of Atropos for The Next Train",
+          "source": "stories/the-next-train/art/characters/atropos.png",
+          "sourceSha256": "a9aa80b757c28bbdb3fb52a843544012b636d3d549c1d311b69c5e02d0b1a381",
+          "full": {
+            "path": "characters/the-next-train/atropos-a9aa80b757c28bbd.webp",
+            "sha256": "2144ee781208766121741d2c030993687058c55002032771e472405b320c1081",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-next-train/atropos-a9aa80b757c28bbd-thumb.webp",
+            "sha256": "5db026be09d782053be7165378ef3a5fe04e23f2eba08a2577bca4f44b315ad6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "clotho",
+          "title": "Clotho",
+          "alt": "Sculpted Impasto character reference sheet of Clotho for The Next Train",
+          "source": "stories/the-next-train/art/characters/clotho.png",
+          "sourceSha256": "7ddaa6d4d7a0ec908fba78b0a64dd4f6839625c2bd572655381a9ea9339b00ea",
+          "full": {
+            "path": "characters/the-next-train/clotho-7ddaa6d4d7a0ec90.webp",
+            "sha256": "1fef28904220d8d35a161dc7c65341476b6d1db34ae87eea5822829310a636be",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-next-train/clotho-7ddaa6d4d7a0ec90-thumb.webp",
+            "sha256": "fa8370c24ab3f467ce05c3097bc9c02eca1dae184b98f3625e74da24bb8974e9",
+            "width": 480,
+            "height": 320
+          }
+        },
         {
           "id": "ivarnel-esset",
           "title": "Ivarnel Esset",
@@ -9262,6 +9485,25 @@
           "thumbnail": {
             "path": "characters/the-next-train/ivarnel-esset-8294546d0c839284-thumb.webp",
             "sha256": "79c5b1caa09f9439823751f8d172217719e5a2131e473567292b18bc7b70b65d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lachesis",
+          "title": "Lachesis",
+          "alt": "Sculpted Impasto character reference sheet of Lachesis for The Next Train",
+          "source": "stories/the-next-train/art/characters/lachesis.png",
+          "sourceSha256": "f53f5e101d43c5071a7e6c1e2f3da93dde783986666513b7f80149d6ca670374",
+          "full": {
+            "path": "characters/the-next-train/lachesis-f53f5e101d43c507.webp",
+            "sha256": "cf2a5519dce65d785a5ad5b8881ea8bb78b312124d6b72a56df803c431d28a82",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-next-train/lachesis-f53f5e101d43c507-thumb.webp",
+            "sha256": "c09a32ae708c69ae66cd885dd41378473477d4905be2265d86c8ef998050fd2e",
             "width": 480,
             "height": 320
           }
@@ -9601,6 +9843,248 @@
       ]
     },
     {
+      "slug": "the-one-who-gets-tired",
+      "title": "The One Who Gets Tired",
+      "reader": "stories/the-one-who-gets-tired.html",
+      "images": [
+        {
+          "id": "braulio",
+          "title": "Braulio",
+          "alt": "Sculpted Impasto character reference sheet of Braulio for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/braulio.png",
+          "sourceSha256": "92d8ca8b557e2e7d1cae4db2375f2109d7df895bbcedb633a3381d3f8153517c",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/braulio-92d8ca8b557e2e7d.webp",
+            "sha256": "4bf09a8ca3526b1221616cbf50f9b07cd6ccfb5258bf7e3688c0918bb0803929",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/braulio-92d8ca8b557e2e7d-thumb.webp",
+            "sha256": "795a63e434a629a33dea39e905782382f321112c5e83b6eead7f7f273f882cc2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "celso",
+          "title": "Celso",
+          "alt": "Sculpted Impasto character reference sheet of Celso for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/celso.png",
+          "sourceSha256": "40d9d88b452b5f57325d2e5a1678441680c535a48ff3b5fd2ea86016fb613000",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/celso-40d9d88b452b5f57.webp",
+            "sha256": "477fc5024450f23e4347b7def1987eddfb9dae98baaa04a5352ceddded39b95d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/celso-40d9d88b452b5f57-thumb.webp",
+            "sha256": "f04fbd3e61ce8a258b5e391eb9c7d63afef292879093cad689550290e9526ad2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "eusebio",
+          "title": "Eusebio",
+          "alt": "Sculpted Impasto character reference sheet of Eusebio for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/eusebio.png",
+          "sourceSha256": "cf415ea51b870e80912f65e21cf8f261b15858bf24b9e0278739c309136ba230",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/eusebio-cf415ea51b870e80.webp",
+            "sha256": "a390ca14d25210372213117a8aa6e38e79bc8859f0a4b7ddee468a9faaa42985",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/eusebio-cf415ea51b870e80-thumb.webp",
+            "sha256": "a812067a8712c92b9e6fdf64159335accdbff7f437121ac2605496698ae9141b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "leonor",
+          "title": "Leonor",
+          "alt": "Sculpted Impasto character reference sheet of Leonor for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/leonor.png",
+          "sourceSha256": "d667186e396da5c4623afef65b9a4d19b1f7014b08bc18146307ab8306ae4f9d",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/leonor-d667186e396da5c4.webp",
+            "sha256": "ce78e0dacb83ed25688014f6705ceb2b16678cf79724cddc88a188d268e92e27",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/leonor-d667186e396da5c4-thumb.webp",
+            "sha256": "58609b3c7cc33e20157a39d0965ccf29ffa5e55b313f3f4f5b94d0c638fda716",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nelida",
+          "title": "Nélida",
+          "alt": "Sculpted Impasto character reference sheet of Nélida for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/nelida.png",
+          "sourceSha256": "39583475018b8a6caaca18e0bb049e0d94e85a80c4b98c10fe92869e37b01531",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/nelida-39583475018b8a6c.webp",
+            "sha256": "7151bee9de3642831afb1f1068b2a1b2f20f0c1cbbaca86c47af75921eec72eb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/nelida-39583475018b8a6c-thumb.webp",
+            "sha256": "51804747d7e7c34c67d6fb170678e2a7742afef6447c1b7ebe4a1d179c34dcd3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "zulema",
+          "title": "Zulema",
+          "alt": "Sculpted Impasto character reference sheet of Zulema for The One Who Gets Tired",
+          "source": "stories/the-one-who-gets-tired/art/characters/zulema.png",
+          "sourceSha256": "617fccc7742df236724d870dae6c6e2c7bab8c5a7b88dda6ae6335b5b04e9029",
+          "full": {
+            "path": "characters/the-one-who-gets-tired/zulema-617fccc7742df236.webp",
+            "sha256": "53d1e325bea2ba68659ab077b76fb259de99ff1ef301a84d7b69b060230c5bab",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-one-who-gets-tired/zulema-617fccc7742df236-thumb.webp",
+            "sha256": "e154fc7bcf88bda5b911361ced9c777c4a7a72721e64829df99733a641e0cb1c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-villages-only-mage",
+      "title": "The One Who Helped Everyone",
+      "reader": "stories/the-villages-only-mage.html",
+      "images": [
+        {
+          "id": "aumiri",
+          "title": "Aumiri",
+          "alt": "Sculpted Impasto character reference sheet of Aumiri for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/aumiri.png",
+          "sourceSha256": "d918ce2c2acd82b14b7c2ed73f79019a0e52bd21d67e9fe6f2e786870154b3fa",
+          "full": {
+            "path": "characters/the-villages-only-mage/aumiri-d918ce2c2acd82b1.webp",
+            "sha256": "6e100a9db17850e206a7072fdc4c4448cb9a7879ee026f8256edd7b94422f163",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/aumiri-d918ce2c2acd82b1-thumb.webp",
+            "sha256": "c29be91d3dcdd766095504d983cf9502dff150d1beb6a7ced037a99b689ff819",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "beskaret",
+          "title": "Beskaret",
+          "alt": "Sculpted Impasto character reference sheet of Beskaret for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/beskaret.png",
+          "sourceSha256": "8f5e54377e5f4dd2562ccb5dff5e546679cc884f0b55aacf77be78ce31c297b2",
+          "full": {
+            "path": "characters/the-villages-only-mage/beskaret-8f5e54377e5f4dd2.webp",
+            "sha256": "818eaf041e4f97a1a9a4d4f13e3a6ee9fa3398de258a7dfafeaa2e7dc7a93213",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/beskaret-8f5e54377e5f4dd2-thumb.webp",
+            "sha256": "59f7c46da5306ea17b3557aee2cde29df68a12933909a8e4e42a63fa8665cb16",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "celdris",
+          "title": "Celdris",
+          "alt": "Sculpted Impasto character reference sheet of Celdris for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/celdris.png",
+          "sourceSha256": "5eed0cc74dad2305bd407bb11a87ed45aa6941aad4f9cd6dbf6c463d7fb0a4cd",
+          "full": {
+            "path": "characters/the-villages-only-mage/celdris-5eed0cc74dad2305.webp",
+            "sha256": "f35c6a42f1e71150c4bfb0939b932eddabe7b4632edde4e96f0c5556f7b6dc13",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/celdris-5eed0cc74dad2305-thumb.webp",
+            "sha256": "78db04141709ae42b3d1dce27dd95a33402d83349d304d2961faca891310045c",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nimoret",
+          "title": "Nimoret",
+          "alt": "Sculpted Impasto character reference sheet of Nimoret for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/nimoret.png",
+          "sourceSha256": "bb03ab26803aa646a57a22d33c207974a1a8f01be0fa4a7d5e513794e152ca73",
+          "full": {
+            "path": "characters/the-villages-only-mage/nimoret-bb03ab26803aa646.webp",
+            "sha256": "a59f43f010f90281a114e52a5cc2394d4bb9db1e1eee5218f9b02c85af676a1e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/nimoret-bb03ab26803aa646-thumb.webp",
+            "sha256": "b57552d1a1b4957be39b628a77f9540114ecdbb74704bbb0c45ffb08cc525498",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "torrigan",
+          "title": "Torrigan",
+          "alt": "Sculpted Impasto character reference sheet of Torrigan for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/torrigan.png",
+          "sourceSha256": "e2f7fb04581cf84f30c36a82d47ae2f41a44d67a3bc1d480aa629f5b417d18cf",
+          "full": {
+            "path": "characters/the-villages-only-mage/torrigan-e2f7fb04581cf84f.webp",
+            "sha256": "9a410ce47642436b99448e1ccdbd9fc9b42c3b01c95bc077a9cf0131ffade692",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/torrigan-e2f7fb04581cf84f-thumb.webp",
+            "sha256": "53b961627dfe08d2c6ad9830750c5854621488a34a5eab047bb2e98e6daee901",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "velshia",
+          "title": "Velshia",
+          "alt": "Sculpted Impasto character reference sheet of Velshia for The One Who Helped Everyone",
+          "source": "stories/the-villages-only-mage/art/characters/velshia.png",
+          "sourceSha256": "505180df2a631401fe55c06e79bd00904844a7d1d9fc62fd4dcef1c5219bf45a",
+          "full": {
+            "path": "characters/the-villages-only-mage/velshia-505180df2a631401.webp",
+            "sha256": "a8213727b611b259fb13e151962909c00b071c635874c469213becdd3ed4249e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-villages-only-mage/velshia-505180df2a631401-thumb.webp",
+            "sha256": "42ce2b006c4364f555883e84cd4570d4b2b73f6154fd08faef4bc566c0841666",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-ordinary-slime",
       "title": "The Ordinary Slime",
       "reader": "stories/the-ordinary-slime.html",
@@ -9639,6 +10123,25 @@
           "thumbnail": {
             "path": "characters/the-ordinary-slime/havrissa-calve-1cd4a8ba6e97afda-thumb.webp",
             "sha256": "d5d00e565071b6f2264772d63cd9ca4ae8fd2de5d7a0e0461db0825b5a088929",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "merevetch",
+          "title": "Merevetch",
+          "alt": "Sculpted Impasto character reference sheet of Merevetch for The Ordinary Slime",
+          "source": "stories/the-ordinary-slime/art/characters/merevetch.png",
+          "sourceSha256": "5514e21473ec276de1377d30bb22c2d38228e7d2621b41b9b7290c37071fec03",
+          "full": {
+            "path": "characters/the-ordinary-slime/merevetch-5514e21473ec276d.webp",
+            "sha256": "21a1f902c9379adf2cd25e823cb9bcdad41a707599320ea687bfc4483d473d28",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ordinary-slime/merevetch-5514e21473ec276d-thumb.webp",
+            "sha256": "7f6f5775733ef278dd57df83bfe3d31b7ea973471058eebe601b21ef6e8dafe7",
             "width": 480,
             "height": 320
           }
@@ -9874,6 +10377,25 @@
           }
         },
         {
+          "id": "ibby",
+          "title": "Ibby",
+          "alt": "Sculpted Impasto character reference sheet of Ibby for The Place We Keep",
+          "source": "stories/the-place-we-keep/art/characters/ibby.png",
+          "sourceSha256": "1c6e537896aa4c5ac7a98847b69faab5e48b821b5b0d16f4a991aaa341556dda",
+          "full": {
+            "path": "characters/the-place-we-keep/ibby-1c6e537896aa4c5a.webp",
+            "sha256": "efa5823f73086c03183d4209b0c71da0959194adfb9058ce6062bc6527356c3f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-place-we-keep/ibby-1c6e537896aa4c5a-thumb.webp",
+            "sha256": "4cd4a3195b6bf66324ac85a9d8bf7c99b481bfa522a90152c7d60ccd98dbe6a8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "ismelle",
           "title": "Ismelle",
           "alt": "Sculpted Impasto character reference sheet of Ismelle for The Place We Keep",
@@ -9907,6 +10429,25 @@
           "thumbnail": {
             "path": "characters/the-place-we-keep/rovella-46fb9966c324530b-thumb.webp",
             "sha256": "92d241a19a13b99df5654f385e6d97f4bca5ce786f26e51b51e49456d0133935",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "selvi",
+          "title": "Selvi",
+          "alt": "Sculpted Impasto character reference sheet of Selvi for The Place We Keep",
+          "source": "stories/the-place-we-keep/art/characters/selvi.png",
+          "sourceSha256": "3809fb1ad962a9694020ea2ca34c24e5995d6c05533dd194cddca3ab5a587d2a",
+          "full": {
+            "path": "characters/the-place-we-keep/selvi-3809fb1ad962a969.webp",
+            "sha256": "d56e811df941eb021a881e888ed785e85077af17f5eb218746113c325ee659e7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-place-we-keep/selvi-3809fb1ad962a969-thumb.webp",
+            "sha256": "0f3369e9c0a6c8c8a2bc25ab74ff42fd6e70f7f3ba61cd6074ad8c7e9f6c96ed",
             "width": 480,
             "height": 320
           }
@@ -9971,6 +10512,198 @@
           "thumbnail": {
             "path": "characters/the-players-above/veysa-808c67af2f571f0f-thumb.webp",
             "sha256": "eca20c9b8e425e45ed28a1a8cdbd39117f733bde5add7f39de57e74bc12caa27",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-ten-thousand-year-queen",
+      "title": "The Queen After Ten Thousand Years",
+      "reader": "stories/the-ten-thousand-year-queen.html",
+      "images": [
+        {
+          "id": "hatshepsut",
+          "title": "Hatshepsut",
+          "alt": "Sculpted Impasto character reference sheet of Hatshepsut for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/characters/hatshepsut.png",
+          "sourceSha256": "9fbd5490d4c72fa526acfed93087d89499717e64ad7d91c2d74f374b2eb6bef3",
+          "full": {
+            "path": "characters/the-ten-thousand-year-queen/hatshepsut-9fbd5490d4c72fa5.webp",
+            "sha256": "a822b35fa76ed2aefbeacabcb226351022abc39d942fc99c6cdcb087ac1bda89",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ten-thousand-year-queen/hatshepsut-9fbd5490d4c72fa5-thumb.webp",
+            "sha256": "4255791c89b54e3a921c93d5697432ea2d2bf11080c825f04900144ecb64b18a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "merneith",
+          "title": "Merneith",
+          "alt": "Sculpted Impasto character reference sheet of Merneith for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/characters/merneith.png",
+          "sourceSha256": "60ef3368bf076ad002739e28ba1900dd4c477b23c7addb569c0af100e6bd1406",
+          "full": {
+            "path": "characters/the-ten-thousand-year-queen/merneith-60ef3368bf076ad0.webp",
+            "sha256": "2158c7515e8d462f3767eb9e9a376cac4af33c73983ae7b1c50c4351c8b2e358",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ten-thousand-year-queen/merneith-60ef3368bf076ad0-thumb.webp",
+            "sha256": "f7879cb6de8edb15aed80d7a581e3a19662ef60a0d269dd9f96cb61040386be0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ramesses",
+          "title": "Ramesses",
+          "alt": "Sculpted Impasto character reference sheet of Ramesses for The Queen After Ten Thousand Years",
+          "source": "stories/the-ten-thousand-year-queen/art/characters/ramesses.png",
+          "sourceSha256": "ce31c457bcc696a71882b25c5b1f9b81ae5ef9bd8935cb99af3108217ed2281c",
+          "full": {
+            "path": "characters/the-ten-thousand-year-queen/ramesses-ce31c457bcc696a7.webp",
+            "sha256": "9d76c1a57c05ac501131397140779941c4b6a4731e4b5a372229ab558f418ea9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ten-thousand-year-queen/ramesses-ce31c457bcc696a7-thumb.webp",
+            "sha256": "ae61887e126344a5423449728f4e72bfc29149bab00e20f42c0f5eee25275b83",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-red-dot",
+      "title": "The Red Dot",
+      "reader": "stories/the-red-dot.html",
+      "images": [
+        {
+          "id": "delma-rook",
+          "title": "Delma Rook",
+          "alt": "Sculpted Impasto character reference sheet of Delma Rook for The Red Dot",
+          "source": "stories/the-red-dot/art/characters/delma-rook.png",
+          "sourceSha256": "4d2ab529a9c1ea6f3dd88b105dd0eabc010405dafa9cfc73e886212fbad25a82",
+          "full": {
+            "path": "characters/the-red-dot/delma-rook-4d2ab529a9c1ea6f.webp",
+            "sha256": "761ed06ad9f261e85e54e4cc1678b7c52f32bafda2bf1bc6fde8fc602e369faf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-red-dot/delma-rook-4d2ab529a9c1ea6f-thumb.webp",
+            "sha256": "f42083eccce950fcf0517f61ad417bcf607e4594b15641499a8d47ea6a71e691",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "harcott",
+          "title": "Harcott",
+          "alt": "Sculpted Impasto character reference sheet of Harcott for The Red Dot",
+          "source": "stories/the-red-dot/art/characters/harcott.png",
+          "sourceSha256": "1763dde12c1db32cdf665c7fed5c336ce42579b1cc0e6cc84d55a845195d9da1",
+          "full": {
+            "path": "characters/the-red-dot/harcott-1763dde12c1db32c.webp",
+            "sha256": "928870574d878c55ae3308f8af3b6165096e8b4bbc0c0a080061763e1612e69f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-red-dot/harcott-1763dde12c1db32c-thumb.webp",
+            "sha256": "ae144e574fa4458bed82a8055e42694f7ffc8bd6e1a1227dcc3089342c98d2b2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "jovie",
+          "title": "Jovie",
+          "alt": "Sculpted Impasto character reference sheet of Jovie for The Red Dot",
+          "source": "stories/the-red-dot/art/characters/jovie.png",
+          "sourceSha256": "36c083cf237be8fffebccfd0b715595ee6f9b8f3cf552d6dc5caf20913c6b7fb",
+          "full": {
+            "path": "characters/the-red-dot/jovie-36c083cf237be8ff.webp",
+            "sha256": "33a0d9e215f150d16f99a61cc99b0fb67c68ed0b257178e075077e546039f1e8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-red-dot/jovie-36c083cf237be8ff-thumb.webp",
+            "sha256": "6d8f2a4f401adfac6e9dcf9d8a5025c3667a3cdf80893e7c7524ec5a4f6580ae",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vesperoot",
+          "title": "Vesperoot",
+          "alt": "Sculpted Impasto character reference sheet of Vesperoot for The Red Dot",
+          "source": "stories/the-red-dot/art/characters/vesperoot.png",
+          "sourceSha256": "4dd470fd6e112e0467ad0ab3414aaca60480057f92e5e8dc13a446acd90443c6",
+          "full": {
+            "path": "characters/the-red-dot/vesperoot-4dd470fd6e112e04.webp",
+            "sha256": "87a8b673d8429cf065254cefa3f3ea07cab6741715efdac210f7fcb8993d1e3e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-red-dot/vesperoot-4dd470fd6e112e04-thumb.webp",
+            "sha256": "3753dedcb06f148f192e40369dfd5f43f4950c4c9db02f3579f4f7b8ad5a2142",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-ring-between-lives",
+      "title": "The Ring Between Lives",
+      "reader": "stories/the-ring-between-lives.html",
+      "images": [
+        {
+          "id": "rhazelle",
+          "title": "Rhazelle",
+          "alt": "Sculpted Impasto character reference sheet of Rhazelle for The Ring Between Lives",
+          "source": "stories/the-ring-between-lives/art/characters/rhazelle.png",
+          "sourceSha256": "d07b3a5eaa41ceeb355d679982dde1f0e3580585ba66288e6c65ce87e95f03d5",
+          "full": {
+            "path": "characters/the-ring-between-lives/rhazelle-d07b3a5eaa41ceeb.webp",
+            "sha256": "9b5f6f4d19fb623321cd904fd25cb2a3b27951c7646634793b306e4f22b2cb26",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ring-between-lives/rhazelle-d07b3a5eaa41ceeb-thumb.webp",
+            "sha256": "a9654ca27b96c3b4e49e46a8cd3f3d54e25763f1d7b7af43b8c0ad573832636f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sidonie",
+          "title": "Sidonie",
+          "alt": "Sculpted Impasto character reference sheet of Sidonie for The Ring Between Lives",
+          "source": "stories/the-ring-between-lives/art/characters/sidonie.png",
+          "sourceSha256": "faa1bca39693f7f3d5a95fa5f9f05c2977cbc95a73b9491ab4fa5b01cbf756fd",
+          "full": {
+            "path": "characters/the-ring-between-lives/sidonie-faa1bca39693f7f3.webp",
+            "sha256": "c1e7c06fff1c914e59358e0cdea55b5fc31509e56e899f04413fe34099eb5aa6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-ring-between-lives/sidonie-faa1bca39693f7f3-thumb.webp",
+            "sha256": "ed84b88ef690bfe233c3aaaf943bae24b823d6dbfcf2358574c3d0924c8ad85f",
             "width": 480,
             "height": 320
           }
@@ -10310,6 +11043,229 @@
           "thumbnail": {
             "path": "characters/the-seventh-night/thalenna-d999b538e799915d-thumb.webp",
             "sha256": "2a073f4923978df3667f7e64c4c2565d19a339e82169632ab590e708d390b49c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-shadow-that-nested",
+      "title": "The Shadow That Nested",
+      "reader": "stories/the-shadow-that-nested.html",
+      "images": [
+        {
+          "id": "adal",
+          "title": "Adal",
+          "alt": "Sculpted Impasto character reference sheet of Adal for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/characters/adal.png",
+          "sourceSha256": "14e6a9758d6123592335f294f9d00dbab15c75d7daca2eba4e39a7c3d05efe2a",
+          "full": {
+            "path": "characters/the-shadow-that-nested/adal-14e6a9758d612359.webp",
+            "sha256": "e1e4dbee207fb6693af8a8d684dbaba9aa51ff56d50556ec5af2cbdac05ce3df",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shadow-that-nested/adal-14e6a9758d612359-thumb.webp",
+            "sha256": "0f0ede7568bb87ec76ab03b18b94f1472785181084fdf6aa459fcce631cb4921",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "bero",
+          "title": "Bero",
+          "alt": "Sculpted Impasto character reference sheet of Bero for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/characters/bero.png",
+          "sourceSha256": "a7b699c3a8c0d066fd9b54718f53b97eb86744c4f674936543409e8ad6f2705e",
+          "full": {
+            "path": "characters/the-shadow-that-nested/bero-a7b699c3a8c0d066.webp",
+            "sha256": "38bc9acdedea55d30d626819ee64880c76a0fb88421e0b2b3aea6c788196c3fd",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shadow-that-nested/bero-a7b699c3a8c0d066-thumb.webp",
+            "sha256": "d26c468c446b317203464160b3da63a3c7c58fdc1d3345e2bf8f7370a4028eeb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "enver",
+          "title": "Enver",
+          "alt": "Sculpted Impasto character reference sheet of Enver for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/characters/enver.png",
+          "sourceSha256": "4b337910a291ce0cf16090ae727d38a3ec1c897d994a297b4f9396cd957c7725",
+          "full": {
+            "path": "characters/the-shadow-that-nested/enver-4b337910a291ce0c.webp",
+            "sha256": "f0ba1066dd3ab40dcbfba15001cf18f3f60d1896830aecf4e34a52318ead6c5e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shadow-that-nested/enver-4b337910a291ce0c-thumb.webp",
+            "sha256": "5ce4fa8b04395f02f77a0e0c8b43153b242e1bc6e4bf73522879c113d8658312",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pado",
+          "title": "Pado",
+          "alt": "Sculpted Impasto character reference sheet of Pado for The Shadow That Nested",
+          "source": "stories/the-shadow-that-nested/art/characters/pado.png",
+          "sourceSha256": "a63e2382f00926ce25ea4bbb5fe0b4f169dfaa49f6eeed4d98c63c08c74fb68a",
+          "full": {
+            "path": "characters/the-shadow-that-nested/pado-a63e2382f00926ce.webp",
+            "sha256": "0909edbb184f21aa6bc5716ccf8b50392df91fee66c04fd1b08cd3af09ed36ff",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shadow-that-nested/pado-a63e2382f00926ce-thumb.webp",
+            "sha256": "666c3bac9a089f906e5b3360c30ff6716a23889061a51c0fb98dac4b5564f8cf",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "title": "The Shape of Mercy",
+      "reader": "stories/the-shape-of-mercy.html",
+      "images": [
+        {
+          "id": "adrian-bellweather",
+          "title": "Adrian Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Adrian Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/adrian-bellweather.png",
+          "sourceSha256": "446cec3238b1f214a7df9d59d70ac2ff8b22f656f0c6009c5a2a44f316862a38",
+          "full": {
+            "path": "characters/the-shape-of-mercy/adrian-bellweather-446cec3238b1f214.webp",
+            "sha256": "306232c71f129a1988a59163ca530e96f1fc2220cbf2bfda5969b6bca6709538",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/adrian-bellweather-446cec3238b1f214-thumb.webp",
+            "sha256": "d5b29b2eca7ead0cbb20d3bc86ec4ab2800d1aaa51082d332793ae3f9c3eb4e7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "evelyn-bellweather",
+          "title": "Evelyn Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Evelyn Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/evelyn-bellweather.png",
+          "sourceSha256": "be3ca5a9a19e7c99cfd618ef8045b3a39f27bb64d274839dc74e443c084c58eb",
+          "full": {
+            "path": "characters/the-shape-of-mercy/evelyn-bellweather-be3ca5a9a19e7c99.webp",
+            "sha256": "a670f9df5428efb4a63047c6a9949e1ca8fd932bf2ed384474ba45e65dce203c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/evelyn-bellweather-be3ca5a9a19e7c99-thumb.webp",
+            "sha256": "fce31339dff2db0ddd6515c889302c215832d7021c35c49176b249e99c3809bf",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "garran-bellweather",
+          "title": "Garran Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Garran Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/garran-bellweather.png",
+          "sourceSha256": "803faa34a39694605870919ec1cc6b5b76f3c2c24559b12dc95522af12d386ff",
+          "full": {
+            "path": "characters/the-shape-of-mercy/garran-bellweather-803faa34a3969460.webp",
+            "sha256": "336fd89e087cf5fac64d9f32b8ec8ea72e4939e71c7a73187866230238ad605c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/garran-bellweather-803faa34a3969460-thumb.webp",
+            "sha256": "4f6360530c1b98d5bd0879bb6c1e552994235badaed71ed6b393753342dde633",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lady-rowena-bellweather",
+          "title": "Lady Rowena Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Lady Rowena Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/lady-rowena-bellweather.png",
+          "sourceSha256": "3d5e7249169d61cec63d343fb759ccec7e7d68d4318ad19f438344610031ce5c",
+          "full": {
+            "path": "characters/the-shape-of-mercy/lady-rowena-bellweather-3d5e7249169d61ce.webp",
+            "sha256": "1333c393e1c5f83ec1a18d18652ea51bfb05ba3fd1538af6cba5572d48ca2376",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/lady-rowena-bellweather-3d5e7249169d61ce-thumb.webp",
+            "sha256": "ff764f87bca640476ca407f56d79b6d11ad26529236fa3adea2c09daa778ce5e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "marcus-bellweather",
+          "title": "Marcus Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Marcus Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/marcus-bellweather.png",
+          "sourceSha256": "5023d2a2d1def1e52462cc0d0f9a6a0f2b7c402dffb7f994a7912e9520be95d3",
+          "full": {
+            "path": "characters/the-shape-of-mercy/marcus-bellweather-5023d2a2d1def1e5.webp",
+            "sha256": "bdef7fec0d6061a7985c23eb66be3973552bc858ebedd3a79f03b5d47e58c773",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/marcus-bellweather-5023d2a2d1def1e5-thumb.webp",
+            "sha256": "c2d9bc7f9b02dc73bfd55abdaad5ac82c6de6d9ab00dd8b5614d5499129546ee",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "phoebe-bellweather",
+          "title": "Phoebe Bellweather",
+          "alt": "Sculpted Impasto character reference sheet of Phoebe Bellweather for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/phoebe-bellweather.png",
+          "sourceSha256": "98d9d87c93893606af5602a77b83fdd8a2d66c5385dea5ae3dc8d91a24eaf7f9",
+          "full": {
+            "path": "characters/the-shape-of-mercy/phoebe-bellweather-98d9d87c93893606.webp",
+            "sha256": "c49e159ea268010c9d5f9b9a37731fe5f7660b3a4190d992b4eadbd93070170e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/phoebe-bellweather-98d9d87c93893606-thumb.webp",
+            "sha256": "2aceb95e9dfc6959fa66f00d28c7c279cea6b2f6971fcd9ee8e4f8976cd8f0ed",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "rillthorn",
+          "title": "Rillthorn",
+          "alt": "Sculpted Impasto character reference sheet of Rillthorn for The Shape of Mercy",
+          "source": "stories/the-shape-of-mercy/art/characters/rillthorn.png",
+          "sourceSha256": "1554b5bb9215d6e7df44fc3ee90e05447448753a78ed3eaaff560622121e8c63",
+          "full": {
+            "path": "characters/the-shape-of-mercy/rillthorn-1554b5bb9215d6e7.webp",
+            "sha256": "cd9987ffa8ec8a998028dcbc53b525b87ba8277b541f47eebbfd489713eac6f9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-shape-of-mercy/rillthorn-1554b5bb9215d6e7-thumb.webp",
+            "sha256": "8c4d6718e9546847a7ea8d13d22c8ed37f3bbc68cc35d8a4d4b22e0b844aa7d5",
             "width": 480,
             "height": 320
           }
@@ -10858,6 +11814,108 @@
           "thumbnail": {
             "path": "characters/the-star-that-followed-the-bells/theskel-flock-11217e884c7fbcb8-thumb.webp",
             "sha256": "fed52180a0980110d60b061cdcb195e18e151c6778b0175beb1b9a53bb32a713",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-station-between",
+      "title": "The Station Between",
+      "reader": "stories/the-station-between.html",
+      "images": [
+        {
+          "id": "asha",
+          "title": "Asha",
+          "alt": "Sculpted Impasto character reference sheet of Asha for The Station Between",
+          "source": "stories/the-station-between/art/characters/asha.png",
+          "sourceSha256": "7a852ea5e823e4a021ef62d36abc475b019f6eedea9d7481302d7200fe22a5b2",
+          "full": {
+            "path": "characters/the-station-between/asha-7a852ea5e823e4a0.webp",
+            "sha256": "0d604dadec293f3a7630d17b6ff16fc8b0b8f8f871441df31eacfeddc95e5a9e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-station-between/asha-7a852ea5e823e4a0-thumb.webp",
+            "sha256": "d9e91ea6b8474e4a8533a6a8956492b49024acd157628d4a2f0b7aaedb7452ec",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "aveline-moss",
+          "title": "Aveline Moss",
+          "alt": "Sculpted Impasto character reference sheet of Aveline Moss for The Station Between",
+          "source": "stories/the-station-between/art/characters/aveline-moss.png",
+          "sourceSha256": "bfea0db58cdce2e91a451ea6d40b6006f9141aa2b3c06eb39f880f4494286916",
+          "full": {
+            "path": "characters/the-station-between/aveline-moss-bfea0db58cdce2e9.webp",
+            "sha256": "68e16e775072e0371c5b5753038d7190153afb3839f08a185613a66a45e496c4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-station-between/aveline-moss-bfea0db58cdce2e9-thumb.webp",
+            "sha256": "695727bbfcad0f1ba2075307b260f7e58199006564ea47a2be46a5e5f03fd541",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "hester-pike",
+          "title": "Hester Pike",
+          "alt": "Sculpted Impasto character reference sheet of Hester Pike for The Station Between",
+          "source": "stories/the-station-between/art/characters/hester-pike.png",
+          "sourceSha256": "d0280f628e14b21678349204f4a3e4f056bfa10f01000177fa01d0e89483928b",
+          "full": {
+            "path": "characters/the-station-between/hester-pike-d0280f628e14b216.webp",
+            "sha256": "add233d3aabdc9fbee45b5703125e28c175d2694a679a7e919a0497ebbb95755",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-station-between/hester-pike-d0280f628e14b216-thumb.webp",
+            "sha256": "78819cf5664881eea8bf60a5f87359a34c09d0ef63909560d61b9da261ef8553",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ruth",
+          "title": "Ruth",
+          "alt": "Sculpted Impasto character reference sheet of Ruth for The Station Between",
+          "source": "stories/the-station-between/art/characters/ruth.png",
+          "sourceSha256": "b7c6fbf2d99700f1de0eaea7cc02c35a594c6d0832cb4690e3b2459dfe6a1dbc",
+          "full": {
+            "path": "characters/the-station-between/ruth-b7c6fbf2d99700f1.webp",
+            "sha256": "d05d1fa7d13a0e69515a7e7b94185e92d4aaaa52c0e15ec34abf16a2b57f17e0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-station-between/ruth-b7c6fbf2d99700f1-thumb.webp",
+            "sha256": "2cf207e59169c76914b2dca88cadcc0f34ff8423f41a29c133f858642036f449",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sabine-kroll",
+          "title": "Sabine Kroll",
+          "alt": "Sculpted Impasto character reference sheet of Sabine Kroll for The Station Between",
+          "source": "stories/the-station-between/art/characters/sabine-kroll.png",
+          "sourceSha256": "6280078f1f8f598e40a82ae0b3bdb1dd4aa3106b3d069474d28e0cdbbaf605b7",
+          "full": {
+            "path": "characters/the-station-between/sabine-kroll-6280078f1f8f598e.webp",
+            "sha256": "297354a6365301332ca2b1b0bf7cee2b482ef523095cb196bd3ca3d65d520f78",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-station-between/sabine-kroll-6280078f1f8f598e-thumb.webp",
+            "sha256": "f118ab27cfee043721db3832296f21429d04ea646226c4975afaebabe6dad73f",
             "width": 480,
             "height": 320
           }
@@ -11529,6 +12587,127 @@
       ]
     },
     {
+      "slug": "the-unfinished-sunset",
+      "title": "The Unfinished Sunset",
+      "reader": "stories/the-unfinished-sunset.html",
+      "images": [
+        {
+          "id": "arveth",
+          "title": "Arveth",
+          "alt": "Sculpted Impasto character reference sheet of Arveth for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/arveth.png",
+          "sourceSha256": "0e0446cf1a80406e3dda75b8d50736e41bbf6a1af405673eef1e766e3806dbf0",
+          "full": {
+            "path": "characters/the-unfinished-sunset/arveth-0e0446cf1a80406e.webp",
+            "sha256": "d969bbf94b82a530b201c8903ac2661e2d6f0bc38657f562506789938d43e9a8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/arveth-0e0446cf1a80406e-thumb.webp",
+            "sha256": "a5e433c3fdeee9b71a3baae4762f897e040507af059213cf0b7a7973d047e6b4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "halen",
+          "title": "Halen",
+          "alt": "Sculpted Impasto character reference sheet of Halen for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/halen.png",
+          "sourceSha256": "d8b7524a2c67c11992da647aa5a3376afa524b1d11470e693126c876b34fab0d",
+          "full": {
+            "path": "characters/the-unfinished-sunset/halen-d8b7524a2c67c119.webp",
+            "sha256": "c2fbefd64ae4485eb3371f22b7e6b70c51fe4dae08fe8b662986a36ae2a09a8c",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/halen-d8b7524a2c67c119-thumb.webp",
+            "sha256": "31f8fec2cd812e5673ad3b9ad1ed725dd10d2f9a080da12ad67f0fbc1240d779",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ilessa",
+          "title": "Ilessa",
+          "alt": "Sculpted Impasto character reference sheet of Ilessa for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/ilessa.png",
+          "sourceSha256": "23b987d44dee9fa19b2d1c99e21459df837a0dcf46155ee87875842a82f023ff",
+          "full": {
+            "path": "characters/the-unfinished-sunset/ilessa-23b987d44dee9fa1.webp",
+            "sha256": "0bedbde26648b5b8e8a1d665bd5982324881e0527b671ba242c291d87045d1cb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/ilessa-23b987d44dee9fa1-thumb.webp",
+            "sha256": "0706eabe5dfbdd57869b0f2a5e12f27c11fb28a80fac70f8eb12ac47265a8b28",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "maret-fen",
+          "title": "Maret Fen",
+          "alt": "Sculpted Impasto character reference sheet of Maret Fen for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/maret-fen.png",
+          "sourceSha256": "a08c8f58a3877f8f5943e50ab1d9fe0534bea372d825aea5b4e5a73b3eca8e97",
+          "full": {
+            "path": "characters/the-unfinished-sunset/maret-fen-a08c8f58a3877f8f.webp",
+            "sha256": "b711b4329d9dfb3db7c3db97bcca72bff3dc94a8b46cd70891c071534b3fa686",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/maret-fen-a08c8f58a3877f8f-thumb.webp",
+            "sha256": "44a786eac07b557761871d4ccdb63dbf3fb301512a954e1357cc8272449c0732",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "neth",
+          "title": "Neth",
+          "alt": "Sculpted Impasto character reference sheet of Neth for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/neth.png",
+          "sourceSha256": "914e5f1dda729791c1ddba9ffa94801d40ba4ddb5eb0c0d204116e88011fef4b",
+          "full": {
+            "path": "characters/the-unfinished-sunset/neth-914e5f1dda729791.webp",
+            "sha256": "376c8dc4229bc0c74f96bf76959e600cc302f11b8b34521d1145951b5a302a7f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/neth-914e5f1dda729791-thumb.webp",
+            "sha256": "2792425f72794b4d24de8cf98e41dd21b071c999e94016137473b1dff871ac10",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sable-trenn",
+          "title": "Sable Trenn",
+          "alt": "Sculpted Impasto character reference sheet of Sable Trenn for The Unfinished Sunset",
+          "source": "stories/the-unfinished-sunset/art/characters/sable-trenn.png",
+          "sourceSha256": "d4fcddc20a201c4d8674f72560a0605abbbba1b2ce4045c5b821c9513b870275",
+          "full": {
+            "path": "characters/the-unfinished-sunset/sable-trenn-d4fcddc20a201c4d.webp",
+            "sha256": "f03a305fdd80e11ff7e5ca687c1a36969dead11668802dd6dd8d1f83777a632b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unfinished-sunset/sable-trenn-d4fcddc20a201c4d-thumb.webp",
+            "sha256": "ccb85d38fa63cb4feb43c66c85fb77a98a9c3505732d95efba9dbd2b656fbfe9",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-unfixed-face",
       "title": "The Unfixed Face",
       "reader": "stories/the-unfixed-face.html",
@@ -11695,6 +12874,89 @@
       ]
     },
     {
+      "slug": "the-unoffered-hand",
+      "title": "The Unoffered Hand",
+      "reader": "stories/the-unoffered-hand.html",
+      "images": [
+        {
+          "id": "cresset",
+          "title": "Cresset",
+          "alt": "Sculpted Impasto character reference sheet of Cresset for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/characters/cresset.png",
+          "sourceSha256": "636a6e2b8ec886da39ea3946264c0dd3ae6c77a837838ab039656bcfe39d2466",
+          "full": {
+            "path": "characters/the-unoffered-hand/cresset-636a6e2b8ec886da.webp",
+            "sha256": "789961377eceff6c3d51b29b8946b0b7884aec38cd1cedbdd00434ed316795c7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unoffered-hand/cresset-636a6e2b8ec886da-thumb.webp",
+            "sha256": "885426114dd54e42e7739d2fc15a5d7f4121ff24b70629b90b0f75c324d4c35f",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "master-tirren",
+          "title": "Master Tirren",
+          "alt": "Sculpted Impasto character reference sheet of Master Tirren for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/characters/master-tirren.png",
+          "sourceSha256": "f0413c6f54dacc1f575b243bbbf31f843b8fd9ba8f9deb86a1e1f9d0d4dc7395",
+          "full": {
+            "path": "characters/the-unoffered-hand/master-tirren-f0413c6f54dacc1f.webp",
+            "sha256": "0f8ad0ffe79bff8c54f1e781cb3ad2ba76074052aebf6ab5a06a87bfde3f6a15",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unoffered-hand/master-tirren-f0413c6f54dacc1f-thumb.webp",
+            "sha256": "a11755fb8ab0947974f89b8f2b4e07a7d49beb97410ff2553ba068076622fbfb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "princess-calisette",
+          "title": "Princess Calisette",
+          "alt": "Sculpted Impasto character reference sheet of Princess Calisette for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/characters/princess-calisette.png",
+          "sourceSha256": "9de2039e9f9144315e6a580becfc17fdc7748d17fb02647a3e06148e4f3561cc",
+          "full": {
+            "path": "characters/the-unoffered-hand/princess-calisette-9de2039e9f914431.webp",
+            "sha256": "0ba4a0db4a80cb4701383a5b0e08b231b7e52961a5de8465f3dbdecb8e3ed865",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unoffered-hand/princess-calisette-9de2039e9f914431-thumb.webp",
+            "sha256": "08f1e043973ec6713a0aee826d23fa269da5e9dc0e8102e50c61b4ed4c955724",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sovelda",
+          "title": "Sovelda",
+          "alt": "Sculpted Impasto character reference sheet of Sovelda for The Unoffered Hand",
+          "source": "stories/the-unoffered-hand/art/characters/sovelda.png",
+          "sourceSha256": "f8570dcff2f09dbb93a523036e258c8adb5eaa5edfa8361256396671ee8a6229",
+          "full": {
+            "path": "characters/the-unoffered-hand/sovelda-f8570dcff2f09dbb.webp",
+            "sha256": "1267b22cdeeb590cca6d4fe802be7b648ce8916aed85364ea5747ec58d1dac2d",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unoffered-hand/sovelda-f8570dcff2f09dbb-thumb.webp",
+            "sha256": "30ccadd5ad7f472264a6ccf28dbb6538e043835d96508fe2be3c3b11f4789692",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-unopened-ring",
       "title": "The Unopened Ring",
       "reader": "stories/the-unopened-ring.html",
@@ -11774,6 +13036,25 @@
             "width": 480,
             "height": 320
           }
+        },
+        {
+          "id": "queen-vessarine",
+          "title": "Queen Vessarine",
+          "alt": "Sculpted Impasto character reference sheet of Queen Vessarine for The Unopened Ring",
+          "source": "stories/the-unopened-ring/art/characters/queen-vessarine.png",
+          "sourceSha256": "defbf78e08c4b7ac7c4d21b7fd2ebb881f2feeec8e9cf4f2985d9ff58174d105",
+          "full": {
+            "path": "characters/the-unopened-ring/queen-vessarine-defbf78e08c4b7ac.webp",
+            "sha256": "5a7d77f7b42361504a19f42e5808d4a616638efd42e8f7afcfa7c1ecaf483e2f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-unopened-ring/queen-vessarine-defbf78e08c4b7ac-thumb.webp",
+            "sha256": "18d89d9f7589bf2cfccfe37979e7a120a8b1d6b7d526962b254725b11d609a26",
+            "width": 480,
+            "height": 320
+          }
         }
       ]
     },
@@ -11782,6 +13063,25 @@
       "title": "The Upward Rain",
       "reader": "stories/the-upward-rain.html",
       "images": [
+        {
+          "id": "anouk-verren",
+          "title": "Anouk Verren",
+          "alt": "Sculpted Impasto character reference sheet of Anouk Verren for The Upward Rain",
+          "source": "stories/the-upward-rain/art/characters/anouk-verren.png",
+          "sourceSha256": "27f182952fe360a3fc60d5f088c3da3ecd3a665ce4f986c6070ad91e9d741340",
+          "full": {
+            "path": "characters/the-upward-rain/anouk-verren-27f182952fe360a3.webp",
+            "sha256": "c1db31b734085a19d37e02a5c29d596fb6b5ba8406c887e70e4465f8ac00180e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-upward-rain/anouk-verren-27f182952fe360a3-thumb.webp",
+            "sha256": "fdc63116d99a9b03727bf0e2f1f1feeaf6225ca80bc7dd87a4a34fd4cd36d756",
+            "width": 480,
+            "height": 320
+          }
+        },
         {
           "id": "jessa-marn",
           "title": "Jessa Marn",
@@ -11816,6 +13116,172 @@
           "thumbnail": {
             "path": "characters/the-upward-rain/kasim-orrel-c25d3dd85324f290-thumb.webp",
             "sha256": "ca82915ce74801868c13377779f43d9ae80f0b9215ebe5ff16730e40fe96719a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-vacant-throne",
+      "title": "The Vacant Throne",
+      "reader": "stories/the-vacant-throne.html",
+      "images": [
+        {
+          "id": "avenor",
+          "title": "Avenor",
+          "alt": "Sculpted Impasto character reference sheet of Avenor for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/characters/avenor.png",
+          "sourceSha256": "a40fcd5b4ae51044ea0c23a3811527d064d84fd4672846aa4fc247b36e778200",
+          "full": {
+            "path": "characters/the-vacant-throne/avenor-a40fcd5b4ae51044.webp",
+            "sha256": "502ec2e9504c6c925db295b3cfcada97d9808948f3bafa133f4357cf2f87528f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-vacant-throne/avenor-a40fcd5b4ae51044-thumb.webp",
+            "sha256": "b1efdce528c8b1b2efa2c7867223b874fb3d00eeeb7ebd4234c506a199d839f8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "irdessa",
+          "title": "Irdessa",
+          "alt": "Sculpted Impasto character reference sheet of Irdessa for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/characters/irdessa.png",
+          "sourceSha256": "9307d8be42c87b3dc3335df548b977765ed84fc62a3b7803f8fd7706125d5c96",
+          "full": {
+            "path": "characters/the-vacant-throne/irdessa-9307d8be42c87b3d.webp",
+            "sha256": "10888955b366a07834b4a82c747fc7059ad64a740601a4909e12bf90a6be95d2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-vacant-throne/irdessa-9307d8be42c87b3d-thumb.webp",
+            "sha256": "2c1a2116f70acb2d67f029f3924a15791f05ed73409afd0c23be2e8c8649b0c2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nolm",
+          "title": "Nolm",
+          "alt": "Sculpted Impasto character reference sheet of Nolm for The Vacant Throne",
+          "source": "stories/the-vacant-throne/art/characters/nolm.png",
+          "sourceSha256": "4ca1f230dd44550244a44ace2827c9bc1791fcc32113ced739f67b32a45050da",
+          "full": {
+            "path": "characters/the-vacant-throne/nolm-4ca1f230dd445502.webp",
+            "sha256": "1e6a5fcb22fa4c86ed77d34d62645ab7bcf66fbe2a63afe00aede04cdcd5a4c5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-vacant-throne/nolm-4ca1f230dd445502-thumb.webp",
+            "sha256": "e7f41eb060c19f958e4fd28f2fcb163ebd3669b6982b357406705aa3bc184791",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "voice-of-silence",
+      "title": "The Voice of Silence",
+      "reader": "stories/voice-of-silence.html",
+      "images": [
+        {
+          "id": "beridel",
+          "title": "Beridel",
+          "alt": "Sculpted Impasto character reference sheet of Beridel for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/characters/beridel.png",
+          "sourceSha256": "eb84e4fb5a5ad489c2aac31c502d3a2fd72ff7e97a79f42053f89d9b63c91ccb",
+          "full": {
+            "path": "characters/voice-of-silence/beridel-eb84e4fb5a5ad489.webp",
+            "sha256": "2ff12c1001f387f5a270fdc1c4436d8f9839038eda1c9624b16c413e19bd1ad4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/voice-of-silence/beridel-eb84e4fb5a5ad489-thumb.webp",
+            "sha256": "d8925626b45cfe26994c21ad185e3e715e31d7ad20e704934d6554853cadfa86",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "dorram",
+          "title": "Dorram",
+          "alt": "Sculpted Impasto character reference sheet of Dorram for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/characters/dorram.png",
+          "sourceSha256": "72f448e05bf5aac9810723bf0f92254cd612e8e64eab995a01858b9bd176c1c8",
+          "full": {
+            "path": "characters/voice-of-silence/dorram-72f448e05bf5aac9.webp",
+            "sha256": "e50fc5ce1d2fc0cfc110034b6579f2fbc4e4a6034225f8b3118b6229a7476ec8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/voice-of-silence/dorram-72f448e05bf5aac9-thumb.webp",
+            "sha256": "1dcd1c0e452ddef3046609f36721c6d3e21e5c2740d6c5a58af98d4514b609bc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "kethra",
+          "title": "Kethra",
+          "alt": "Sculpted Impasto character reference sheet of Kethra for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/characters/kethra.png",
+          "sourceSha256": "3c345b2f9d91e7b6874841f0dab2e24384637674d6336eb440835f8716b9a8cf",
+          "full": {
+            "path": "characters/voice-of-silence/kethra-3c345b2f9d91e7b6.webp",
+            "sha256": "fa78efcb13e8372d6c5ea614ff88907bb3206f6c114e573ff334e720b2546eb3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/voice-of-silence/kethra-3c345b2f9d91e7b6-thumb.webp",
+            "sha256": "0e698ff3e8527feeeaca89c419807f3f73a795d825d7f182f2696620d8dfabc2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ulan",
+          "title": "Ulan",
+          "alt": "Sculpted Impasto character reference sheet of Ulan for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/characters/ulan.png",
+          "sourceSha256": "6f28cc9f9222f8a31d3009198ddfc81f0132dcc2e735e7299b384a8d7f8c4c62",
+          "full": {
+            "path": "characters/voice-of-silence/ulan-6f28cc9f9222f8a3.webp",
+            "sha256": "a883809cc171f21732257336928012f5b010ee4fa50750da1003ac61137f7a35",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/voice-of-silence/ulan-6f28cc9f9222f8a3-thumb.webp",
+            "sha256": "98ce39bf978c5c4620bf262898a9c5567fdd1effbfa5ab8556ac29c86c9ba78b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "zelneth",
+          "title": "Zelneth",
+          "alt": "Sculpted Impasto character reference sheet of Zelneth for The Voice of Silence",
+          "source": "stories/voice-of-silence/art/characters/zelneth.png",
+          "sourceSha256": "3a6b51077b4ba5545b002a34d1c660d92f22e3027d3a4606cd4a0ff210398430",
+          "full": {
+            "path": "characters/voice-of-silence/zelneth-3a6b51077b4ba554.webp",
+            "sha256": "5f1f0f4e09741b0d05fa0b27c0b15b6ddb79c3ece8fcffc82e12f14cc9b856fa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/voice-of-silence/zelneth-3a6b51077b4ba554-thumb.webp",
+            "sha256": "45289cde3d206a752b62ab8290bd19db480886a874b36b36fb2c188f46455a51",
             "width": 480,
             "height": 320
           }
@@ -11899,6 +13365,70 @@
           "thumbnail": {
             "path": "characters/the-walls-are-thick-enough/tazri-solun-42676e85b2fc2c4f-thumb.webp",
             "sha256": "32365f62ca0d7a712c7c315ff269f698ad14c5690c2ffdb3d8008f8cdd3757ff",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-warmest-person-in-the-room",
+      "title": "The Warmest Person in the Room",
+      "reader": "stories/the-warmest-person-in-the-room.html",
+      "images": [
+        {
+          "id": "caleb",
+          "title": "Caleb",
+          "alt": "Sculpted Impasto character reference sheet of Caleb for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/characters/caleb.png",
+          "sourceSha256": "4952463cca9066d313ad1348a5df59a749e14b96ef85c74dc3d003e1fa3dea18",
+          "full": {
+            "path": "characters/the-warmest-person-in-the-room/caleb-4952463cca9066d3.webp",
+            "sha256": "f31cf3b8e303b4989b56b3de23b31fefbd1687d0c7f6a21558efdcbf59f244ab",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-warmest-person-in-the-room/caleb-4952463cca9066d3-thumb.webp",
+            "sha256": "5fe28ce6210425e821400f5d674fa6ea6b1eee9837d00cab1713c08e4439baff",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "mirelle",
+          "title": "Mirelle",
+          "alt": "Sculpted Impasto character reference sheet of Mirelle for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/characters/mirelle.png",
+          "sourceSha256": "bb2239e697420b79d7d601b9b3dc86216ba3cf1e3a4eb11c8407c1c558ffb7ce",
+          "full": {
+            "path": "characters/the-warmest-person-in-the-room/mirelle-bb2239e697420b79.webp",
+            "sha256": "0f7913e6969fb645afa66bb3fb23846d7f2ec9df36e0e75e488c31c03fea4c35",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-warmest-person-in-the-room/mirelle-bb2239e697420b79-thumb.webp",
+            "sha256": "710864c5260b6087d0a48ac857f8bac03a5b768546587cf0b7e6a368b24e897d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "rivolt",
+          "title": "Rivolt",
+          "alt": "Sculpted Impasto character reference sheet of Rivolt for The Warmest Person in the Room",
+          "source": "stories/the-warmest-person-in-the-room/art/characters/rivolt.png",
+          "sourceSha256": "3259362fe0a4df00550c3f8cb94573261b595570d1da7c66f9eebb13c79d1750",
+          "full": {
+            "path": "characters/the-warmest-person-in-the-room/rivolt-3259362fe0a4df00.webp",
+            "sha256": "b8e370f85e0734c5bec33e1ca778283f0df9c71115c9fa82605be6b23a863ca4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-warmest-person-in-the-room/rivolt-3259362fe0a4df00-thumb.webp",
+            "sha256": "84287b5e46827cc9ddce8b26b81bae18dd63c891f71d9c94147f0567511b3260",
             "width": 480,
             "height": 320
           }
@@ -12072,6 +13602,25 @@
           "thumbnail": {
             "path": "characters/the-weight-of-falling-up-rune-shoes/examiner-dovek-4b0a6d9b90bc945e-thumb.webp",
             "sha256": "0c5be01836425a8c4bb5871031a26cee28a220f270e693e95ad30400df4d67fc",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "juni-wex",
+          "title": "Juni Wex",
+          "alt": "Sculpted Impasto character reference sheet of Juni Wex for The Weight of Falling Up",
+          "source": "stories/the-weight-of-falling-up-rune-shoes/art/characters/juni-wex.png",
+          "sourceSha256": "23d3a56e6a56ada4bd4ccb3d25b90242a9541120c4ad4df6c3320117d406367c",
+          "full": {
+            "path": "characters/the-weight-of-falling-up-rune-shoes/juni-wex-23d3a56e6a56ada4.webp",
+            "sha256": "badb854fe953f7f2876995f59b92aca0ccb2622fc1d2d299cb37b4249f25a14e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-weight-of-falling-up-rune-shoes/juni-wex-23d3a56e6a56ada4-thumb.webp",
+            "sha256": "14715d98466aafd6d9423b57ef878d86f57bd1a5e0aea048d5db2b9e20825d6a",
             "width": 480,
             "height": 320
           }
@@ -12302,6 +13851,51 @@
       ]
     },
     {
+      "slug": "the-wolf-in-the-mirror",
+      "title": "The Wolf in the Mirror",
+      "reader": "stories/the-wolf-in-the-mirror.html",
+      "images": [
+        {
+          "id": "esmaret",
+          "title": "Esmaret",
+          "alt": "Sculpted Impasto character reference sheet of Esmaret for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/characters/esmaret.png",
+          "sourceSha256": "c93e177cc101c45692c2c2667e60b471a5cfce18e33caabaf5b3b2ee0b160b05",
+          "full": {
+            "path": "characters/the-wolf-in-the-mirror/esmaret-c93e177cc101c456.webp",
+            "sha256": "cc8249a2abf594533b1bcea35104fe7a2e3d9df1cb0ae1841200845b99b60773",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-wolf-in-the-mirror/esmaret-c93e177cc101c456-thumb.webp",
+            "sha256": "e163c4d9057039f808322aedf61bd32af71d36acc01ca903139634698ad639fa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "talbrin",
+          "title": "Talbrin",
+          "alt": "Sculpted Impasto character reference sheet of Talbrin for The Wolf in the Mirror",
+          "source": "stories/the-wolf-in-the-mirror/art/characters/talbrin.png",
+          "sourceSha256": "69f39c9ea687fc7ab22966a802f18540e14d18122deddf209c563a60e0cdcb92",
+          "full": {
+            "path": "characters/the-wolf-in-the-mirror/talbrin-69f39c9ea687fc7a.webp",
+            "sha256": "f454bac635abf323db738b148ae4db5391f248b9b59adcfb1b65535e91c2f5c1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-wolf-in-the-mirror/talbrin-69f39c9ea687fc7a-thumb.webp",
+            "sha256": "1e983d10612d6e81094aa81bf23ca660ced3115f72dd016b7d871840128af682",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "what-the-gates-keep",
       "title": "The Wrong Rescue",
       "reader": "stories/what-the-gates-keep.html",
@@ -12468,6 +14062,89 @@
       ]
     },
     {
+      "slug": "there-goes-your-name",
+      "title": "There Goes Your Name",
+      "reader": "stories/there-goes-your-name.html",
+      "images": [
+        {
+          "id": "coppet",
+          "title": "Coppet",
+          "alt": "Sculpted Impasto character reference sheet of Coppet for There Goes Your Name",
+          "source": "stories/there-goes-your-name/art/characters/coppet.png",
+          "sourceSha256": "f800bea68686ae3ce9d0b154ccd9d9c4b8d09cf107b10096757725d050133491",
+          "full": {
+            "path": "characters/there-goes-your-name/coppet-f800bea68686ae3c.webp",
+            "sha256": "e626b2576f1db33c93b322346a1c15a8db541daafc4044d479e53f76e81cad70",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/there-goes-your-name/coppet-f800bea68686ae3c-thumb.webp",
+            "sha256": "e8bf4c6bcb09d96b79add0850351eb24d0a664e0088237d92c392615cec1b470",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "elnith",
+          "title": "Elnith",
+          "alt": "Sculpted Impasto character reference sheet of Elnith for There Goes Your Name",
+          "source": "stories/there-goes-your-name/art/characters/elnith.png",
+          "sourceSha256": "96e58edd549f3a231d2d424c2bd17ecf160148bb704e4a5b31442fb027b7381f",
+          "full": {
+            "path": "characters/there-goes-your-name/elnith-96e58edd549f3a23.webp",
+            "sha256": "6ac9a2ce52bbfe4731c51d110178f0b39de28ed4d76c0db9e5595b88c17c69f3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/there-goes-your-name/elnith-96e58edd549f3a23-thumb.webp",
+            "sha256": "d8d0f953226b151297fd460bfbdf1a655c118decc73a9edbb36a5deb70310d54",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sedge",
+          "title": "Sedge",
+          "alt": "Sculpted Impasto character reference sheet of Sedge for There Goes Your Name",
+          "source": "stories/there-goes-your-name/art/characters/sedge.png",
+          "sourceSha256": "2400e7f76a42f2d5e2747e2b33b9d9c9c5e51a096beec9896d0492c01c0d94bd",
+          "full": {
+            "path": "characters/there-goes-your-name/sedge-2400e7f76a42f2d5.webp",
+            "sha256": "689fd3d15d611660c528f859bbb59a94942051916c3cf9306240f81099564b10",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/there-goes-your-name/sedge-2400e7f76a42f2d5-thumb.webp",
+            "sha256": "b11a5c3ab5f613632a2cd7735e4712e1ec3ae358b1e38aee01803b09e4c03278",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "thessik",
+          "title": "Thessik",
+          "alt": "Sculpted Impasto character reference sheet of Thessik for There Goes Your Name",
+          "source": "stories/there-goes-your-name/art/characters/thessik.png",
+          "sourceSha256": "e6800984e83a148a58e6ecb6454605ca7a953a214910e3ea90ffaa9335ba18b7",
+          "full": {
+            "path": "characters/there-goes-your-name/thessik-e6800984e83a148a.webp",
+            "sha256": "7ccb2e49ba70b9160fb479560b66ceedf391221b881afb9ce9aa9a1e77f2ca4e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/there-goes-your-name/thessik-e6800984e83a148a-thumb.webp",
+            "sha256": "2e37ec04f5d89a956698f49bbe32620d4a30ba9c66d3eff7c1e37e9b93a941df",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "thirteen-years-borrowed",
       "title": "Thirteen Years Borrowed",
       "reader": "stories/thirteen-years-borrowed.html",
@@ -12544,6 +14221,51 @@
           "thumbnail": {
             "path": "characters/thirteen-years-borrowed/tamaris-145191df4f96db1b-thumb.webp",
             "sha256": "de160c509ae5bfb40f7171c6dcd550f3d3baa469ec2d4da5017c8c5c8d2bc74d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "transitions-in-common",
+      "title": "Transitions in Common",
+      "reader": "stories/transitions-in-common.html",
+      "images": [
+        {
+          "id": "cody",
+          "title": "Cody",
+          "alt": "Sculpted Impasto character reference sheet of Cody for Transitions in Common",
+          "source": "stories/transitions-in-common/art/characters/cody.png",
+          "sourceSha256": "adc38893e121685cc3485fef7998db19228e528332be2691f35e25e35234fd0c",
+          "full": {
+            "path": "characters/transitions-in-common/cody-adc38893e121685c.webp",
+            "sha256": "3ac2366754db12430544081e7ae92f0b0fad83e02bfc53e5d39b8375c9f6c829",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/transitions-in-common/cody-adc38893e121685c-thumb.webp",
+            "sha256": "c95cbce47166e1dede96c89ddd69478a27c79ce404d1e10e168a189665e9b2c9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "hugo",
+          "title": "Hugo",
+          "alt": "Sculpted Impasto character reference sheet of Hugo for Transitions in Common",
+          "source": "stories/transitions-in-common/art/characters/hugo.png",
+          "sourceSha256": "0414a6afffc3e2d04292ba24b56f8421d5a4b6bef6fa92c27f98f02e6ffc5e02",
+          "full": {
+            "path": "characters/transitions-in-common/hugo-0414a6afffc3e2d0.webp",
+            "sha256": "9ec8143d4a8b1e7958de93ab637d6e1ab6299929cc2fb44c91d8c266ef4e2579",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/transitions-in-common/hugo-0414a6afffc3e2d0-thumb.webp",
+            "sha256": "8a6f3f7cd55ab6c1d5f3c039463be558844cf24f67cd33e62661bfee78ee19ed",
             "width": 480,
             "height": 320
           }
@@ -12762,6 +14484,89 @@
       ]
     },
     {
+      "slug": "what-she-remembered-of-peace",
+      "title": "What She Remembered of Peace",
+      "reader": "stories/what-she-remembered-of-peace.html",
+      "images": [
+        {
+          "id": "anvek",
+          "title": "Anvek",
+          "alt": "Sculpted Impasto character reference sheet of Anvek for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/characters/anvek.png",
+          "sourceSha256": "49c5254b040516e51e9306a45c53743afd5c2a023148c9d40a5236beef6be6b4",
+          "full": {
+            "path": "characters/what-she-remembered-of-peace/anvek-49c5254b040516e5.webp",
+            "sha256": "ec7a7690528e1d676ad51ce90998335c77a692e8ddd95713dcb3cd885b0c56dc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-she-remembered-of-peace/anvek-49c5254b040516e5-thumb.webp",
+            "sha256": "470a98d022ad3808c1d18191a121e2e8926ce02df49ca7832b99148c1a761eb1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "gess-miro",
+          "title": "Gess Miro",
+          "alt": "Sculpted Impasto character reference sheet of Gess Miro for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/characters/gess-miro.png",
+          "sourceSha256": "046f4f4c394f26d34e0c883273c60e66e4247e5f42ef87ad4c300218dfcbb07c",
+          "full": {
+            "path": "characters/what-she-remembered-of-peace/gess-miro-046f4f4c394f26d3.webp",
+            "sha256": "d3c39917b49a5e560a7c04152b0a1c4994aae9ce1cd1d7d83901642e91144533",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-she-remembered-of-peace/gess-miro-046f4f4c394f26d3-thumb.webp",
+            "sha256": "0f4c79c108cb0b25819d073a47678affaad3aa827a01cfd83f10870a57a47765",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "naro-tule",
+          "title": "Naro Tule",
+          "alt": "Sculpted Impasto character reference sheet of Naro Tule for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/characters/naro-tule.png",
+          "sourceSha256": "479708df541502e41870e6c4e276dccebab68771b4a3a05240ec8e36ab20cd75",
+          "full": {
+            "path": "characters/what-she-remembered-of-peace/naro-tule-479708df541502e4.webp",
+            "sha256": "9a40ceaa705c118e78839ff2c9615b521814785482cdce7bc1b4666db823eb45",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-she-remembered-of-peace/naro-tule-479708df541502e4-thumb.webp",
+            "sha256": "d6f30b804830f29c9520990c366cc6a960b58601852d25c8ea6231eb384f1ac9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "olyne-orret",
+          "title": "Olyne Orret",
+          "alt": "Sculpted Impasto character reference sheet of Olyne Orret for What She Remembered of Peace",
+          "source": "stories/what-she-remembered-of-peace/art/characters/olyne-orret.png",
+          "sourceSha256": "1a291fcfd199318d8a284ea26adaac31c1707a6b35ea1a10c2444dd3f489aa17",
+          "full": {
+            "path": "characters/what-she-remembered-of-peace/olyne-orret-1a291fcfd199318d.webp",
+            "sha256": "05634c7b30f6935430168114076eb22a89cfc9e807d0e11118722723b3639cdf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-she-remembered-of-peace/olyne-orret-1a291fcfd199318d-thumb.webp",
+            "sha256": "9f42298e88f9eff1c8078ee47e3fad3587bcbf8c4a24f811dd646bca1ac1400d",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "what-the-town-owed-her",
       "title": "What the Town Owed Her",
       "reader": "stories/what-the-town-owed-her.html",
@@ -12921,6 +14726,89 @@
           "thumbnail": {
             "path": "characters/what-the-wind-wanted/zerune-d4253471e566dc78-thumb.webp",
             "sha256": "0a2595ade2fb68b417f2c492017364decce960340a522f7cd519e681ca92067a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "what-turned-eighteen",
+      "title": "What Turned Eighteen",
+      "reader": "stories/what-turned-eighteen.html",
+      "images": [
+        {
+          "id": "aluna",
+          "title": "Aluna",
+          "alt": "Sculpted Impasto character reference sheet of Aluna for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/characters/aluna.png",
+          "sourceSha256": "90792e880a8d62e024d63cd5f3dbde9333ca12b064e2f63a8f224ee2d071473d",
+          "full": {
+            "path": "characters/what-turned-eighteen/aluna-90792e880a8d62e0.webp",
+            "sha256": "638996bbcf7827692274a5b6e9eceb352fbd966afb03e7d18ce0616cd0d3297e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-turned-eighteen/aluna-90792e880a8d62e0-thumb.webp",
+            "sha256": "7ffb2748f2592cada8f70af76796de52684f7e6bf00dbbe5364914e804a4ce65",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "arlon",
+          "title": "Arlon",
+          "alt": "Sculpted Impasto character reference sheet of Arlon for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/characters/arlon.png",
+          "sourceSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+          "full": {
+            "path": "characters/what-turned-eighteen/arlon-6313718fa1b7e3c1.webp",
+            "sha256": "07967ca8d156d6220ffcfeaaa53da42b52e3c3d762139f0c4d40300ed551fdb2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-turned-eighteen/arlon-6313718fa1b7e3c1-thumb.webp",
+            "sha256": "dc5b97735c1d2899093c08fb79d645d47dc3a48b67f87ea57a568aebc8de1f4a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "jaro",
+          "title": "Jaro",
+          "alt": "Sculpted Impasto character reference sheet of Jaro for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/characters/jaro.png",
+          "sourceSha256": "aebc9fe3aebc638a72c97e612dc2c9038b7cbe2d0b56ed11073efd95b37c0d5a",
+          "full": {
+            "path": "characters/what-turned-eighteen/jaro-aebc9fe3aebc638a.webp",
+            "sha256": "48fd2707a1fddbb86c1a21ca718c017a6a5e029e3442c17745dbd6dfd3c3da53",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-turned-eighteen/jaro-aebc9fe3aebc638a-thumb.webp",
+            "sha256": "4d56a6a100a2e9ed5e338d9d9bb84e936a60c797fb1f002a2bad1cea3000e515",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "maela",
+          "title": "Maela",
+          "alt": "Sculpted Impasto character reference sheet of Maela for What Turned Eighteen",
+          "source": "stories/what-turned-eighteen/art/characters/maela.png",
+          "sourceSha256": "88d2fb5fbb3d90b48aaec83ccce353d8faca4c20c377ddd7780c0708f379350e",
+          "full": {
+            "path": "characters/what-turned-eighteen/maela-88d2fb5fbb3d90b4.webp",
+            "sha256": "9280ef2152a5f37bf0cd3b61056d5d5e9b08fa44943547cf5379ca370b47d711",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/what-turned-eighteen/maela-88d2fb5fbb3d90b4-thumb.webp",
+            "sha256": "483f1a9ff62807b5a69fc5817ef332328b7a1f71e5d3838fa7189b0fd7d49085",
             "width": 480,
             "height": 320
           }
@@ -13113,6 +15001,89 @@
       ]
     },
     {
+      "slug": "when-the-needle-finds-you",
+      "title": "When the Needle Finds You",
+      "reader": "stories/when-the-needle-finds-you.html",
+      "images": [
+        {
+          "id": "olt-ossik",
+          "title": "Olt Ossik",
+          "alt": "Sculpted Impasto character reference sheet of Olt Ossik for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/characters/olt-ossik.png",
+          "sourceSha256": "ee7dcca2ded2c65005ef58471b211886d07d9a43c4198ae23aec44c1d53cccf7",
+          "full": {
+            "path": "characters/when-the-needle-finds-you/olt-ossik-ee7dcca2ded2c650.webp",
+            "sha256": "747c675e354afbf6f02787ef387c6ea5407b71e4e4bd734199132b73fe7bab78",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/when-the-needle-finds-you/olt-ossik-ee7dcca2ded2c650-thumb.webp",
+            "sha256": "203cd588bfb218fc1c5a1d04c7b53745acccec4efeba4a4333a8bf078bead358",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sivra-ossik",
+          "title": "Sivra Ossik",
+          "alt": "Sculpted Impasto character reference sheet of Sivra Ossik for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/characters/sivra-ossik.png",
+          "sourceSha256": "7e846eab5c95893eaef6a033db79a72236f471a86394e36cc8108b99fa80cffc",
+          "full": {
+            "path": "characters/when-the-needle-finds-you/sivra-ossik-7e846eab5c95893e.webp",
+            "sha256": "2ce8b358e4cdd766b7dcf140474b617bda9267f098374a9464bc99df75a25347",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/when-the-needle-finds-you/sivra-ossik-7e846eab5c95893e-thumb.webp",
+            "sha256": "64f5f34830045bc7b941ca525eede202d8f58c8a1cbfc4e5173add9abae3bc99",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "the-crimson-jester",
+          "title": "The Crimson Jester",
+          "alt": "Sculpted Impasto character reference sheet of The Crimson Jester for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/characters/the-crimson-jester.png",
+          "sourceSha256": "dfd8f83e83954ace7144afa9a5f608ea6607d84cc679d355ceb0140339548100",
+          "full": {
+            "path": "characters/when-the-needle-finds-you/the-crimson-jester-dfd8f83e83954ace.webp",
+            "sha256": "79dc6d980657b26ad8e6e9251f1cb76b401d4a3eefe4c0e17beeb1315401f6b0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/when-the-needle-finds-you/the-crimson-jester-dfd8f83e83954ace-thumb.webp",
+            "sha256": "a5e427aa1276387b37e8e918636f6be4421801501606fadeed7250eeef8a4ca3",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tredwen",
+          "title": "Tredwen",
+          "alt": "Sculpted Impasto character reference sheet of Tredwen for When the Needle Finds You",
+          "source": "stories/when-the-needle-finds-you/art/characters/tredwen.png",
+          "sourceSha256": "4d87a8ac3daab7d2aa01deef79766c6b35898e510f4bb70d5216fd536464ac7b",
+          "full": {
+            "path": "characters/when-the-needle-finds-you/tredwen-4d87a8ac3daab7d2.webp",
+            "sha256": "260a5e41436b47db522257cb217bd67cf432651add4428ba6e0b00832e6afd97",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/when-the-needle-finds-you/tredwen-4d87a8ac3daab7d2-thumb.webp",
+            "sha256": "a4b9cd5ed626f9493854d7bdb73c8966a0a5740fb46348f7ea4d57439c6201f3",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "where-it-hurts",
       "title": "Where It Hurts",
       "reader": "stories/where-it-hurts.html",
@@ -13182,6 +15153,44 @@
       "reader": "stories/where-no-unicorn-stands.html",
       "images": [
         {
+          "id": "elvask",
+          "title": "Elvask",
+          "alt": "Sculpted Impasto character reference sheet of Elvask for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/characters/elvask.png",
+          "sourceSha256": "1b42ba12568eb66c86bd99e4f99903925564b151c5a3cc2e7eef3ef28619a4ce",
+          "full": {
+            "path": "characters/where-no-unicorn-stands/elvask-1b42ba12568eb66c.webp",
+            "sha256": "778d8d9ad0168d2d4868167b11297db5cb00a860316002ad06da1c0855aa0ff3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-no-unicorn-stands/elvask-1b42ba12568eb66c-thumb.webp",
+            "sha256": "91bfa4c8d07e431e8b663ed3a0d38685cc6a1b2b7b719eaf617570aa0e66d0f7",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "evloria",
+          "title": "Evloria",
+          "alt": "Sculpted Impasto character reference sheet of Evloria for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/characters/evloria.png",
+          "sourceSha256": "4d595479d446257b3d9ce439bc469343a4430d5d30cc8c04385813b8fbb7a535",
+          "full": {
+            "path": "characters/where-no-unicorn-stands/evloria-4d595479d446257b.webp",
+            "sha256": "d84877bd828d85972a3eb586d5528eb312a6150af295cdb8e234bda23c2edf3e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-no-unicorn-stands/evloria-4d595479d446257b-thumb.webp",
+            "sha256": "f39a7fc74e722a34b152b0fbcc77f798f4e06e2cb23ef8900acdc97d0adfdc8d",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
           "id": "rhuden",
           "title": "Rhuden",
           "alt": "Sculpted Impasto character reference sheet of Rhuden for Where No Unicorn Stands",
@@ -13196,6 +15205,44 @@
           "thumbnail": {
             "path": "characters/where-no-unicorn-stands/rhuden-4a7317e866346029-thumb.webp",
             "sha256": "d320391aff9b341e6e068d1e5384499b3ced55ccf1590a83bc34d8c08aef3a60",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "stavreth",
+          "title": "Stavreth",
+          "alt": "Sculpted Impasto character reference sheet of Stavreth for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/characters/stavreth.png",
+          "sourceSha256": "9a5edf7b8a6ab56a6027913c06e790e88c83690f09ad418c526e8db8babb1cea",
+          "full": {
+            "path": "characters/where-no-unicorn-stands/stavreth-9a5edf7b8a6ab56a.webp",
+            "sha256": "25691d0555eb08cfd6fd9d93436a59ba794bf1d28ae941b63799ed84e3b1b2f0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-no-unicorn-stands/stavreth-9a5edf7b8a6ab56a-thumb.webp",
+            "sha256": "dd0af0bc6894625df5cbd55b632df776b989c7e24d10f18b36b1384859bc7d72",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "yelsa",
+          "title": "Yelsa",
+          "alt": "Sculpted Impasto character reference sheet of Yelsa for Where No Unicorn Stands",
+          "source": "stories/where-no-unicorn-stands/art/characters/yelsa.png",
+          "sourceSha256": "8ace0514cc59121ab8a2bb53fb9dfc342a69b17e8e527e4c09be32564a15b896",
+          "full": {
+            "path": "characters/where-no-unicorn-stands/yelsa-8ace0514cc59121a.webp",
+            "sha256": "c15c92e4559a0eff428c988a510cf4ee6e7ee8dd67b35c4e6198fee65652f2e1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-no-unicorn-stands/yelsa-8ace0514cc59121a-thumb.webp",
+            "sha256": "c1d2fda44b781d5ac4cd0542bb0d39619688de10a2b54678cdb9c2242566ebb5",
             "width": 480,
             "height": 320
           }
@@ -13324,6 +15371,146 @@
           "thumbnail": {
             "path": "characters/where-sleep-takes-you/ullven-e7403d7f3f8a3b3f-thumb.webp",
             "sha256": "6ce83248a0d943690aba32ae67124f1aaec57372098866988d15c91b09e05e33",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "yavrens-return",
+      "title": "Where the Eagle Lands",
+      "reader": "stories/yavrens-return.html",
+      "images": [
+        {
+          "id": "ardovan",
+          "title": "Ardovan",
+          "alt": "Sculpted Impasto character reference sheet of Ardovan for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/ardovan.png",
+          "sourceSha256": "d08c0719860bc86524a98208e0e0b1cc02713374183a3cc4e14e730809c8fb13",
+          "full": {
+            "path": "characters/yavrens-return/ardovan-d08c0719860bc865.webp",
+            "sha256": "9285674457baffc059048ceec865c9ed43d6fa472c91cf11497801791dc7cf10",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/ardovan-d08c0719860bc865-thumb.webp",
+            "sha256": "6d4e3fe73862042cbe8d4a649b7befe3178022ea8cae8b626bc1e7a8bd535ccb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "irdas",
+          "title": "Irdas",
+          "alt": "Sculpted Impasto character reference sheet of Irdas for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/irdas.png",
+          "sourceSha256": "66d1914398cfaaf4834bc07a575d1e68d5eed21ed36e3da96e6af1c94dea0f81",
+          "full": {
+            "path": "characters/yavrens-return/irdas-66d1914398cfaaf4.webp",
+            "sha256": "4fcc040c30f4cc985c7b337cd14e2b022b7339d491a97cba2f1dbb21a18109bf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/irdas-66d1914398cfaaf4-thumb.webp",
+            "sha256": "32227e752e15e1e9e4ce10d2b8d454cfe813a68cf3659a6d8bfdb5281b0e6f0b",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "orswick",
+          "title": "Orswick",
+          "alt": "Sculpted Impasto character reference sheet of Orswick for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/orswick.png",
+          "sourceSha256": "8f213448012369363d5a2add93d13c71e2329f91cbc28e6f8fc36ac31b252a64",
+          "full": {
+            "path": "characters/yavrens-return/orswick-8f21344801236936.webp",
+            "sha256": "efc7150e538aa20af168eac609cae343923a444146725c4ffc9ad044272044cc",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/orswick-8f21344801236936-thumb.webp",
+            "sha256": "8e433399a8a41ac74fa9fe8b4fe56531709d55b845971c786ae8fa2e62d1cfd4",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pelka",
+          "title": "Pelka",
+          "alt": "Sculpted Impasto character reference sheet of Pelka for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/pelka.png",
+          "sourceSha256": "481d5009cb468f23c1590faa6e4b0d4883190a10d8cfcb6898660646b40241f5",
+          "full": {
+            "path": "characters/yavrens-return/pelka-481d5009cb468f23.webp",
+            "sha256": "eb513b671098893d540163b001531ada1b1c1cbfda82d92b154d46021f7be4c4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/pelka-481d5009cb468f23-thumb.webp",
+            "sha256": "50200514eda8f440a7e83007e464270760f43fd976dac32a5483cfcd45bd0cb9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "perenz",
+          "title": "Perenz",
+          "alt": "Sculpted Impasto character reference sheet of Perenz for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/perenz.png",
+          "sourceSha256": "94c22cebda968c03fac2ba5f13886116809fac3e7801d41e3a63384e409a1450",
+          "full": {
+            "path": "characters/yavrens-return/perenz-94c22cebda968c03.webp",
+            "sha256": "542005d7447d840bd8d1f6fa7cd6e5bfab611a46e46ffe747cdb6eee4cf2a688",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/perenz-94c22cebda968c03-thumb.webp",
+            "sha256": "9020d242b3b0d7d458e7dbfbd82a72806de25ff5961ec3fd3e09ede3172453b6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vethelis",
+          "title": "Vethelis",
+          "alt": "Sculpted Impasto character reference sheet of Vethelis for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/vethelis.png",
+          "sourceSha256": "7dc4fd86bd4c7fbd8a0c0342ddeb8184be053b26492ee19e37c72eb5145d4ed5",
+          "full": {
+            "path": "characters/yavrens-return/vethelis-7dc4fd86bd4c7fbd.webp",
+            "sha256": "89fc4eeb8c46c8c150d0f90c56c5eed2e7b537223b5fe43d5c219f0b346a05ed",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/vethelis-7dc4fd86bd4c7fbd-thumb.webp",
+            "sha256": "a0d206628408e738dd661b81cb5a769a229828467498731155d58642eb5d0100",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "yavren",
+          "title": "Yavren",
+          "alt": "Sculpted Impasto character reference sheet of Yavren for Where the Eagle Lands",
+          "source": "stories/yavrens-return/art/characters/yavren.png",
+          "sourceSha256": "560311e998704c5923b18c25c20041c51e364cdf1fca307ceaafe74715093b49",
+          "full": {
+            "path": "characters/yavrens-return/yavren-560311e998704c59.webp",
+            "sha256": "e9a14aff0c01c9619654b6b12612150be4593e9f4139b6c7bc59c10400266619",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/yavrens-return/yavren-560311e998704c59-thumb.webp",
+            "sha256": "58285abab763fcfc8795aed89faefef4970091c58e591f5d6a23bbfc27c6a6a0",
             "width": 480,
             "height": 320
           }
@@ -13464,6 +15651,51 @@
           "thumbnail": {
             "path": "characters/the-first-kingdom-was-late-on-taxes/tervan-gell-ed39700433ae1494-thumb.webp",
             "sha256": "507738440af9ec47273c3c0a45780ae25e59e634ef368e82cdeb20897f0cde3e",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "where-the-white-elk-went",
+      "title": "Where the White Elk Went",
+      "reader": "stories/where-the-white-elk-went.html",
+      "images": [
+        {
+          "id": "avarra",
+          "title": "Avarra",
+          "alt": "Sculpted Impasto character reference sheet of Avarra for Where the White Elk Went",
+          "source": "stories/where-the-white-elk-went/art/characters/avarra.png",
+          "sourceSha256": "f8a3c6add92f37ada009cfc6cdf3a2d8a2a2578142c6a6ebe4dfe4126a96e72e",
+          "full": {
+            "path": "characters/where-the-white-elk-went/avarra-f8a3c6add92f37ad.webp",
+            "sha256": "37de6947e762888231cef50f4fddac32e393e75b94b1e9a76910f16117f6738e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-the-white-elk-went/avarra-f8a3c6add92f37ad-thumb.webp",
+            "sha256": "aedc98e25691bf38897eb08627ad47b58aa0b5d95949df8f771e73a5b5c049a0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "winterbough",
+          "title": "Winterbough",
+          "alt": "Sculpted Impasto character reference sheet of Winterbough for Where the White Elk Went",
+          "source": "stories/where-the-white-elk-went/art/characters/winterbough.png",
+          "sourceSha256": "09e94c73dbe99a587d08c5b1bdb46acacb16b1760f7c4e166f105ad499b75569",
+          "full": {
+            "path": "characters/where-the-white-elk-went/winterbough-09e94c73dbe99a58.webp",
+            "sha256": "0cd30a3f55da85803d8b0d7396c897a64cb30bd7a6c2ccd62ffb7b1315659a4b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/where-the-white-elk-went/winterbough-09e94c73dbe99a58-thumb.webp",
+            "sha256": "113bdc01c904b215dd47f76bdd044e8fa62351760b65c2213161ad6b31f0850a",
             "width": 480,
             "height": 320
           }
