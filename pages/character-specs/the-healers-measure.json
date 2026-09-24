@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-healers-measure",
+  "title": "The Witchknight’s Measure",
+  "source": "stories/the-healers-measure/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full story/prompt read. Three sustained main identities: Rhoswen, Demech, Instructor Fremda. All chosen before autumn capstone bank-collapse injury. Source's switching rule forbids simultaneous healing and guard.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Other trainees, orchard worker, carter, clinic patients",
+      "reason": "Minor individual examples/background; no sustained principal role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "rhoswen",
+      "name": "Rhoswen",
+      "role": "trainee healer and witchknight protagonist",
+      "form": "adult human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "a plain forearm-length bar wrapped in cord",
+          "explanation": "Specific prepared iron, not a sword."
+        },
+        {
+          "quote": "her healer's bag beside him",
+          "explanation": "Her personal medical equipment."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Breastplate, loaded pack, boots, capstone helmet, prepared iron and healer bag.",
+        "state": "Autumn capstone preparation, before bank collapse; magic inactive."
+      },
+      "visualInterpretation": [
+        "Unspecified appearance art-only: medium-brown skin, slim strong adult woman, long oval face and short coily black hair.",
+        "Ochre quilted shirt, plain worn gray breastplate, slate trousers, practical brown boots; no unique insignia or divine mark."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Uninjured adult before autumn capstone, front/rear armor/pack, bareheaded portrait and helmet hanging from pack."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-healers-measure:rhoswen",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-healers-measure/art/characters/rhoswen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Rhoswen\"; title \"The Witchknight’s Measure\"; role \"Healer / trainee\". ONE adult HUMAN woman, medium-brown skin, long oval face, short tightly coiled BLACK hair, ordinary matte dark eyes, rounded human ears; fit strong late-twenties visual casting, practical attentive expression. Worn plain gray BREASTPLATE over ochre quilted shirt, slate trousers, rounded brown mud-marked boots; heavy canvas PACK with repaired strap and plain iron open-face helmet tied securely to pack. Complete front/rear views of same attire; front holds small cord-wrapped blunt rectangular iron BAR low, FIVE ordinary fingers visible. Large matching bareheaded face labelled \"Autumn capstone\". One isolated small worn leather HEALER BAG, closed with simple buckle; no tools emerging magically. Uninjured pre-collapse state. No sword, royal trim, pointed ears, witch hat, invented scar or glow.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:36:00.678122+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Rhoswen\"; title \"The Witchknight’s Measure\"; role \"Healer / trainee\". ONE adult HUMAN woman, medium-brown skin, long oval face, short tightly coiled BLACK hair, ordinary matte dark eyes, rounded human ears; fit strong late-twenties visual casting, practical attentive expression. Worn plain gray BREASTPLATE over ochre quilted shirt, slate trousers, rounded brown mud-marked boots; heavy canvas PACK with repaired strap and plain iron open-face helmet tied securely to pack. Complete front/rear views of same attire; front holds small cord-wrapped blunt rectangular iron BAR low, FIVE ordinary fingers visible. Large matching bareheaded face labelled \"Autumn capstone\". One isolated small worn leather HEALER BAG, closed with simple buckle; no tools emerging magically. Uninjured pre-collapse state. No sword, royal trim, pointed ears, witch hat, invented scar or glow.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+            "references": [
+              {
+                "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+                "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+                "inspected": true,
+                "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover and selected autumn oil inspected. Exact iron bar and pre-collapse state explicit.",
+              "Unspecified faces/costume choices labelled art-only; three distinct identities with practical healer gear, no simultaneous magic.",
+              "Two full-body views, face and one personal detail fit 3:2; bold matte oil includes faces, no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0563e82c-68ec-44cb-bbb8-23725ed0a355.png",
+            "outputSha256": "443cecd156d5295d2e3b7464b536ca094c3be5c4801055f6f1c91bfa39c7fe20",
+            "finishedAt": "2026-09-24T05:47:39.067944+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+              "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+              "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0563e82c-68ec-44cb-bbb8-23725ed0a355.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eeae5fdd62e05a69cc4a52e9eedfb826b85d166afb7dbd67a26e53f12dde80b7",
+        "outputSha256": "443cecd156d5295d2e3b7464b536ca094c3be5c4801055f6f1c91bfa39c7fe20",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "evidence": [
+          "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+          "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+          "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+        ],
+        "specificationSha256": "d53485b718b402d25145dc374d9f50da8279c00fca52b9101225ac2f0369cf93"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "443cecd156d5295d2e3b7464b536ca094c3be5c4801055f6f1c91bfa39c7fe20"
+    },
+    {
+      "id": "demech",
+      "name": "Demech",
+      "role": "field healer and training partner",
+      "form": "adult human-presenting man",
+      "selectionEvidence": [
+        {
+          "quote": "spent six years carrying survey chains",
+          "explanation": "Load-bearing practical build/gear is appropriate."
+        },
+        {
+          "quote": "He could settle a load on his hips",
+          "explanation": "Pack fits competently and practical posture."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Breastplate, boots, load pack, prepared iron and carry straps.",
+        "state": "Before bank collapse; no left-foot fracture/splint yet."
+      },
+      "visualInterpretation": [
+        "Unspecified face/body art-only: sturdy fit adult man, light ruddy freckled skin, short auburn hair and stubble, broad square jaw.",
+        "Dull rust-brown quilted shirt, worn iron breastplate and slate trousers, load straps."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Uninjured pre-capstone training state, magic inactive."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-healers-measure:demech",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-healers-measure/art/characters/demech.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Demech\"; title \"The Witchknight’s Measure\"; role \"Field healer / trainee\". ONE adult HUMAN man, sturdy fit broad shoulders, light ruddy skin, FRECKLES across cheeks, broad square jaw, short AUBURN hair and modest auburn stubble, matte brown eyes, ordinary round human ears, wry alert expression, visual age thirties. Plain worn gray BREASTPLATE, dull rust-brown quilted shirt, slate trousers, practical thick brown BOOTS, loaded weathered canvas PACK fitted low onto hips with shoulder and waist straps. Front and rear full bodies; front holds small blunt cord-wrapped rectangular IRON BAR low. Large matching portrait labelled \"Load and footing\". One isolated coiled leather CARRY STRAP with plain fastening ring, label \"Carry strap\". Choose uninjured pre-capstone state: BOTH feet in ordinary boots, no blood or splint, no futureinjury mixed in. No sword, ornate rank or magical glow.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:36:00.682002+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Demech\"; title \"The Witchknight’s Measure\"; role \"Field healer / trainee\". ONE adult HUMAN man, sturdy fit broad shoulders, light ruddy skin, FRECKLES across cheeks, broad square jaw, short AUBURN hair and modest auburn stubble, matte brown eyes, ordinary round human ears, wry alert expression, visual age thirties. Plain worn gray BREASTPLATE, dull rust-brown quilted shirt, slate trousers, practical thick brown BOOTS, loaded weathered canvas PACK fitted low onto hips with shoulder and waist straps. Front and rear full bodies; front holds small blunt cord-wrapped rectangular IRON BAR low. Large matching portrait labelled \"Load and footing\". One isolated coiled leather CARRY STRAP with plain fastening ring, label \"Carry strap\". Choose uninjured pre-capstone state: BOTH feet in ordinary boots, no blood or splint, no futureinjury mixed in. No sword, ornate rank or magical glow.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+            "references": [
+              {
+                "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+                "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+                "inspected": true,
+                "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover and selected autumn oil inspected. Exact iron bar and pre-collapse state explicit.",
+              "Unspecified faces/costume choices labelled art-only; three distinct identities with practical healer gear, no simultaneous magic.",
+              "Two full-body views, face and one personal detail fit 3:2; bold matte oil includes faces, no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-fe362406-35bc-483f-a4f4-77bab2351731.png",
+            "outputSha256": "3132d5edf84bd6f677d6d157e43b90f40dff2528c80e883e81b7a47387d4eeb7",
+            "finishedAt": "2026-09-24T05:47:39.083218+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+              "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+              "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-fe362406-35bc-483f-a4f4-77bab2351731.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eeae5fdd62e05a69cc4a52e9eedfb826b85d166afb7dbd67a26e53f12dde80b7",
+        "outputSha256": "3132d5edf84bd6f677d6d157e43b90f40dff2528c80e883e81b7a47387d4eeb7",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "evidence": [
+          "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+          "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+          "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+        ],
+        "specificationSha256": "037ddeda76713c61fa920a2883f2b17ff9eeaff01a0a97df927496240e5f6a75"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "3132d5edf84bd6f677d6d157e43b90f40dff2528c80e883e81b7a47387d4eeb7"
+    },
+    {
+      "id": "fremda",
+      "name": "Fremda",
+      "role": "witchknight instructor and capstone outer guard",
+      "form": "mature human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "put a chalk stroke in the failure column",
+          "explanation": "Instructor uses practical assessment chalk/slate."
+        },
+        {
+          "quote": "both hands locked around her own iron",
+          "explanation": "Prepared iron guard, no invented special powers."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Prepared iron, practical wet field clothing/armor, chalk and assessment slate.",
+        "state": "Autumn capstone preparation before holding outer guard."
+      },
+      "visualInterpretation": [
+        "Unspecified appearance art-only: mature dark-brown-skinned woman, close gray curls, broad steady face with square jaw.",
+        "Practical gray breastplate over muted plum quilted clothing, heavy boots and belt pouch; no elite rank badge."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Calm pre-capstone instructor, magic inactive."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-healers-measure:fremda",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-healers-measure/art/characters/fremda.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Fremda\"; title \"The Witchknight’s Measure\"; role \"Instructor\". ONE mature adult HUMAN woman, dark brown skin, close-cropped dense GRAY curls, broad steady face and square jaw, ordinary matte dark eyes, round human ears, lined mature fifties visual casting. Stern fair attention, no caricature scowl. Plain worn GRAY BREASTPLATE over muted PLUM quilted tunic, charcoal trousers, sturdy brown field BOOTS, belt leather pouch. Front and rear full bodies same dress; front holds small blunt cord-wrapped rectangular IRON BAR low in one hand, other hand relaxed. Large matching face labelled \"Instructor\". One isolated plain dark SLATE and single short CHALK, tiny ruled columns without invented score or writing, label \"Assessment\". No sword, captain badge, magical aura, breastplate ornament or witch hat.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:36:00.685935+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Fremda\"; title \"The Witchknight’s Measure\"; role \"Instructor\". ONE mature adult HUMAN woman, dark brown skin, close-cropped dense GRAY curls, broad steady face and square jaw, ordinary matte dark eyes, round human ears, lined mature fifties visual casting. Stern fair attention, no caricature scowl. Plain worn GRAY BREASTPLATE over muted PLUM quilted tunic, charcoal trousers, sturdy brown field BOOTS, belt leather pouch. Front and rear full bodies same dress; front holds small blunt cord-wrapped rectangular IRON BAR low in one hand, other hand relaxed. Large matching face labelled \"Instructor\". One isolated plain dark SLATE and single short CHALK, tiny ruled columns without invented score or writing, label \"Assessment\". No sword, captain badge, magical aura, breastplate ornament or witch hat.\nImage1 supplies GROUP OF SEVEN matte oil handling and muted autumn daylight: warm cream/ochre limited planes, substantial cool lavender-gray connected shadows; faces as broadly brushed and opaque as cloth. No celestial light/magic spark/force bubble. Bare ivory, no place, ground or swatches. The iron is a PLAIN blunt forearm-length rectangular IRON BAR with cord around its middle, never a sword, crossguard or blade. Show rest state with all magic inactive.",
+            "references": [
+              {
+                "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+                "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+                "inspected": true,
+                "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover and selected autumn oil inspected. Exact iron bar and pre-collapse state explicit.",
+              "Unspecified faces/costume choices labelled art-only; three distinct identities with practical healer gear, no simultaneous magic.",
+              "Two full-body views, face and one personal detail fit 3:2; bold matte oil includes faces, no places/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6b1edeb1-4bee-46e0-af48-ba8d673bb4b2.png",
+            "outputSha256": "501303991cd3a75cd2ab38c7d02bfff702e00582bfa400a25aa8983e93693cf6",
+            "finishedAt": "2026-09-24T05:47:39.098030+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+              "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+              "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6b1edeb1-4bee-46e0-af48-ba8d673bb4b2.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eeae5fdd62e05a69cc4a52e9eedfb826b85d166afb7dbd67a26e53f12dde80b7",
+        "outputSha256": "501303991cd3a75cd2ab38c7d02bfff702e00582bfa400a25aa8983e93693cf6",
+        "references": [
+          {
+            "path": "stories/the-healers-measure/art/landscapes/05-abandoned-stone-channel.png",
+            "role": "inspected source autumn damp daylight and broad matte oil only; no landscape copied",
+            "inspected": true,
+            "sha256": "9f28ea9c160dfe71d01656a782b92bd21f008a0e40f5ca446670f28bd3ef5a47"
+          }
+        ],
+        "evidence": [
+          "Actual output pixels inspected. Distinct single identity consistent across complete front/rear views and large matching portrait, exact name/title readable.",
+          "Prepared iron is short plain blunt cord-wrapped bar, inactive; uninjured pre-capstone state, practical breastplate/boots and individual source equipment coherent.",
+          "Matte broad brushwork including faces, muted autumn daylight/cool shadow, ivory and no scenic/floor/swatches."
+        ],
+        "specificationSha256": "b4a98698582cd683ce55edad36fe4317c0901bd48b31a63ba7f82f0b17e0e465"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "501303991cd3a75cd2ab38c7d02bfff702e00582bfa400a25aa8983e93693cf6"
+    }
+  ],
+  "sourceSha256": "eeae5fdd62e05a69cc4a52e9eedfb826b85d166afb7dbd67a26e53f12dde80b7"
+}
