@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "slug": "pool-sovereign",
+  "title": "The Deep End",
+  "source": "stories/pool-sovereign/story.md",
+  "sourceSha256": "eb4981238498b0a9b258612b8a54f11fa08b58a6ea721d670893b5f95bd57bd2",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read through the last sung verse. Madelon and Hewlin carry the central encounter/choice/reconnection. The recurring memorial organizer welcomes, reads, coordinates speakers and music, and enables the final gathering; selected supporting main role. Three cast sheets.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Yellow-cap swimmer, individual memorial speakers/singers/tissue giver, mattress carrier and infant",
+      "reason": "Brief/background functional figures; no sustained individual action beyond the selected organizer."
+    },
+    {
+      "name": "Madelon's late husband, cousin, advisers, teacher, seamstress, Hewlin's aunt/father/former partner",
+      "reason": "Remembered/referenced offstage figures; no sustained present action. Organizer is not conflated with Hewlin's aunt."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; no Madelon/Hewlin universe entries found.",
+    "universe rules on bounded mechanisms: Madelon becomes only her own small quantity of water, does not control pool or swimmers, needs no food/breath while water. Human state remains embodied.",
+    "Original user water-swimmer image recovered/inspected; story-local modern living transformation establishes no shared mechanisms or dates.",
+    "Rosmelle searched across universe, NAMES and all story Markdown: no match; authorized art-only name."
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+      "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+      "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+      "inspected": true,
+      "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+      "recovery": {
+        "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+        "zeroBasedUserMessageLine": 8,
+        "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+      }
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "madelon",
+      "name": "Queen Madelon",
+      "sourceIdentityId": "madelon",
+      "role": "Former queen and living water-transformer narrator",
+      "selectionEvidence": [
+        {
+          "quote": "I was only my own small quantity of water.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 15
+        },
+        {
+          "quote": "My black bathing costume returned with my skin.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 87
+        },
+        {
+          "quote": "On Sunday he brought a loose dress and a cardigan",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 195
+        },
+        {
+          "quote": "By the end of the verse I was crying.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 253
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman able to become her own limited volume of water, retain/restore human form; water transparent.",
+        "lifeStage": "Mature adult, older than coronation portrait; exact age unspecified.",
+        "proportions": "Ordinary human woman; art interpretation keeps actual cheeks fuller than embellished coronation image.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Human flesh and ordinary transparent liquid water states; not blue skin/glass/ice.",
+        "clothing": "Black bathing costume restored with flesh; Sunday borrowed loose dress/cardigan and adjustable-strap sandals.",
+        "equipment": "Folded memorial program, optional tissue during final song.",
+        "scale": "Adult human.",
+        "movement": "Floats/dissolves/forms hands/head; human walking initially feels unfamiliar, later sings/cries.",
+        "distinctiveFeatures": "Cannot control other water/swimmers. Water needs no food/breath. No omniscient pool, crown or royal regalia in current states."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparentlate50s/early60s, light olive complexion, mature slightly full cheeks/long nose/soft chin inspired by cover face, ash-brown greying swept-back hair in loose low knot, average ordinary body.",
+        "Black modest one-piece bathing suit for pool identity views. Sunday loose muted blue-grey dress, cream cardigan, simple brown adjustable sandals; no jewels/crown. Water detail same mature face/hands formed from transparent water, ivory visible through it, no solid blue humanoid.",
+        "Distinct labelled states planned: flesh/bathing, Sunday, transparent water and tearful singing, all one identity."
+      ],
+      "states": [
+        {
+          "label": "At the pool",
+          "description": "Ordinary mature human in black bathing costume."
+        },
+        {
+          "label": "Sunday",
+          "description": "Borrowed loose dress/cardigan/adjustable sandals, ordinary attendee."
+        },
+        {
+          "label": "Water",
+          "description": "Same face/hands transparent and dissolvable; limited own volume."
+        },
+        {
+          "label": "More verses",
+          "description": "Human grief and singing, no magical transformation of tears."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "pool-sovereign:madelon",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/pool-sovereign/title-image.jpg",
+          "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+          "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+          "inspected": true,
+          "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+          "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+          "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+          "inspected": true,
+          "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+          "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+          "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+          "inspected": true,
+          "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+          "inspected": true,
+          "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+            "zeroBasedUserMessageLine": 8,
+            "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+          }
+        }
+      ],
+      "output": "stories/pool-sovereign/art/characters/madelon.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:35:03.743445+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL reference folio on plain warm IVORY. Exact heading \"Queen Madelon\", smaller exact title \"The Deep End\". ONE mature woman across labelled flesh/clothing/water states, not several people. No setting.\n\nIdentity: apparent late50s/early60s, light OLIVE human skin, mature gently FULL CHEEKS, long softly aquiline nose, soft small chin, expressive dark eyes, fine age creases rendered boldly; ASH-BROWN hair greying at temples, swept back in a loose LOW KNOT. Ordinary average mature body, not fashion model or athlete. Input3 cover is the facial-proportion guide (mature nose/cheeks/eyes); translate into human flesh without making her young. Same likeness and body proportions in every state. No current crown, pearls, regalia or jewellery.\n\nLayout with FOUR clearly labelled states:\nLEFT: TWO full unclipped human identity views, FRONT and BACK, wearing a plain BLACK modest one-piece BATHING COSTUME, bare feet, neutral relaxed standing poses, same low knot. Collective label \"At the pool\". No pinup posing.\nCENTRE: same woman full standing THREE-QUARTER view in Sunday clothes, labelled \"Sunday\": LOOSE muted blue-grey calf-length DRESS, soft CREAM CARDIGAN, simple brown SANDALS with adjustable straps. She holds one folded ordinary paper program at waist; faint lines only, no extra legible royal portrait. Same mature face/hair/body.\nUPPER RIGHT: same face, shoulders and TWO hands as a TRANSPARENT WATER-form portrait, labelled \"Water\". Clear ordinary LIQUID water holds her mature face/hand shape, thin restrained blue-grey boundaries and broad broken pearly reflections; the IVORY background is VISIBLE THROUGH her face/palms. Not solid blue skin, ice/crystal/glass statue, glowing spirit or opaque robot. No sexual body detail. Natural five-digit water hands, softly fluid edges within the body silhouette, not a pool puddle. This is ONLY her own small volume; no surrounding water-control effects.\nLOWER RIGHT: same HUMAN face in cream cardigan, eyes wet and an open-mouthed broken little smile while singing, a tissue in one natural hand, label \"More verses\". Intimate ordinary grief, not theatrical screaming.\n\nLIGHT: physical pool states use soft morning glass-roof daylight with a few pale warm near planes and CONNECTED cool blue-grey shadows; Sunday/crying use softer warm hall window light and quiet grey-violet shade. Preserve shadow on far face/folds, no flat studio fill or glossy rim. Water reflects rather than emits light. Ivory sheet stays plain warm light.\n\nInputs1/2 PRIMARY for Canadian Group of Seven oil massing, varied directional opaque bristle/knife strokes, selective impasto and natural window-light value relationships ONLY. No pool/hall/furniture. Input3 mature face + limited transparent form; exclude cover's smooth digital rendering. Input4 exact original translucent water anatomy ONLY, no blue tiles, underwater scene or photoreal glossy liquid. Paint skin/hair/clothes as broad decisive connected shapes, not realistic texture under tiny shiny paint chips. Water is also expressed with broad painted strokes and intentional blank ivory, not a detailed caustic-net effect. Accurate anatomy, unclipped figures, exact readable name/title/state labels. No location, floor/contact shadows/ground patches, swatches or palette bars.",
+            "references": [
+              {
+                "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+                "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+                "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+                "inspected": true,
+                "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+              },
+              {
+                "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+                "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+                "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+                "inspected": true,
+                "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+              },
+              {
+                "path": "stories/pool-sovereign/title-image.jpg",
+                "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+                "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+                "inspected": true,
+                "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+                "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+                "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+                "inspected": true,
+                "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+                "recovery": {
+                  "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+                  "zeroBasedUserMessageLine": 8,
+                  "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+                }
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ecd77059-5b48-48aa-a32f-0b0a78fb055a.png",
+            "returnedSha256": "33c0e5463edb79f0ed350b69eeb5bc98e71b77e8e8a035bef9372fce89ed78c6",
+            "completedAt": "2026-09-24T06:41:48.108579+00:00",
+            "review": [
+              "Actual pixels reviewed: mature olive-skinned full-cheeked face/long nose/greying low knot consistently repeat in front/back bathing form, Sunday dress form, human singing portrait and water portrait.",
+              "Plain black bathing costume, borrowed loose blue-grey dress/cream cardigan/adjustable sandals and program/tissue states clearly labelled; no current regalia or young coronation likeness substituted.",
+              "Transparent water face/hands use ivory gaps and fluid broken blue-grey reflections rather than opaque blue body, no external pool control or supernatural glow; original water inspiration retained in oil.",
+              "Broad opaque directional paint constructs mature body/cloth/face, supported soft pool/hall day light and quiet cool shadow; exact text, natural anatomy, no scenery/floor/contact shadow/swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL reference folio on plain warm IVORY. Exact heading \"Queen Madelon\", smaller exact title \"The Deep End\". ONE mature woman across labelled flesh/clothing/water states, not several people. No setting.\n\nIdentity: apparent late50s/early60s, light OLIVE human skin, mature gently FULL CHEEKS, long softly aquiline nose, soft small chin, expressive dark eyes, fine age creases rendered boldly; ASH-BROWN hair greying at temples, swept back in a loose LOW KNOT. Ordinary average mature body, not fashion model or athlete. Input3 cover is the facial-proportion guide (mature nose/cheeks/eyes); translate into human flesh without making her young. Same likeness and body proportions in every state. No current crown, pearls, regalia or jewellery.\n\nLayout with FOUR clearly labelled states:\nLEFT: TWO full unclipped human identity views, FRONT and BACK, wearing a plain BLACK modest one-piece BATHING COSTUME, bare feet, neutral relaxed standing poses, same low knot. Collective label \"At the pool\". No pinup posing.\nCENTRE: same woman full standing THREE-QUARTER view in Sunday clothes, labelled \"Sunday\": LOOSE muted blue-grey calf-length DRESS, soft CREAM CARDIGAN, simple brown SANDALS with adjustable straps. She holds one folded ordinary paper program at waist; faint lines only, no extra legible royal portrait. Same mature face/hair/body.\nUPPER RIGHT: same face, shoulders and TWO hands as a TRANSPARENT WATER-form portrait, labelled \"Water\". Clear ordinary LIQUID water holds her mature face/hand shape, thin restrained blue-grey boundaries and broad broken pearly reflections; the IVORY background is VISIBLE THROUGH her face/palms. Not solid blue skin, ice/crystal/glass statue, glowing spirit or opaque robot. No sexual body detail. Natural five-digit water hands, softly fluid edges within the body silhouette, not a pool puddle. This is ONLY her own small volume; no surrounding water-control effects.\nLOWER RIGHT: same HUMAN face in cream cardigan, eyes wet and an open-mouthed broken little smile while singing, a tissue in one natural hand, label \"More verses\". Intimate ordinary grief, not theatrical screaming.\n\nLIGHT: physical pool states use soft morning glass-roof daylight with a few pale warm near planes and CONNECTED cool blue-grey shadows; Sunday/crying use softer warm hall window light and quiet grey-violet shade. Preserve shadow on far face/folds, no flat studio fill or glossy rim. Water reflects rather than emits light. Ivory sheet stays plain warm light.\n\nInputs1/2 PRIMARY for Canadian Group of Seven oil massing, varied directional opaque bristle/knife strokes, selective impasto and natural window-light value relationships ONLY. No pool/hall/furniture. Input3 mature face + limited transparent form; exclude cover's smooth digital rendering. Input4 exact original translucent water anatomy ONLY, no blue tiles, underwater scene or photoreal glossy liquid. Paint skin/hair/clothes as broad decisive connected shapes, not realistic texture under tiny shiny paint chips. Water is also expressed with broad painted strokes and intentional blank ivory, not a detailed caustic-net effect. Accurate anatomy, unclipped figures, exact readable name/title/state labels. No location, floor/contact shadows/ground patches, swatches or palette bars.",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          },
+          {
+            "path": "stories/pool-sovereign/title-image.jpg",
+            "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+            "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+            "inspected": true,
+            "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+            "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+            "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+            "inspected": true,
+            "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+            "recovery": {
+              "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+              "zeroBasedUserMessageLine": 8,
+              "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+            }
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:41:48.108579+00:00",
+        "sourceSha256": "eb4981238498b0a9b258612b8a54f11fa08b58a6ea721d670893b5f95bd57bd2",
+        "outputSha256": "33c0e5463edb79f0ed350b69eeb5bc98e71b77e8e8a035bef9372fce89ed78c6",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          },
+          {
+            "path": "stories/pool-sovereign/title-image.jpg",
+            "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+            "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+            "inspected": true,
+            "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+            "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+            "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+            "inspected": true,
+            "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+            "recovery": {
+              "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+              "zeroBasedUserMessageLine": 8,
+              "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+            }
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: mature olive-skinned full-cheeked face/long nose/greying low knot consistently repeat in front/back bathing form, Sunday dress form, human singing portrait and water portrait.",
+          "Plain black bathing costume, borrowed loose blue-grey dress/cream cardigan/adjustable sandals and program/tissue states clearly labelled; no current regalia or young coronation likeness substituted.",
+          "Transparent water face/hands use ivory gaps and fluid broken blue-grey reflections rather than opaque blue body, no external pool control or supernatural glow; original water inspiration retained in oil.",
+          "Broad opaque directional paint constructs mature body/cloth/face, supported soft pool/hall day light and quiet cool shadow; exact text, natural anatomy, no scenery/floor/contact shadow/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "c1c52c6cc2132f9d9a230537f72262a772943c81798b1aeac8189f1f98d09ef3"
+      },
+      "outputSha256": "33c0e5463edb79f0ed350b69eeb5bc98e71b77e8e8a035bef9372fce89ed78c6"
+    },
+    {
+      "id": "hewlin",
+      "name": "Hewlin",
+      "sourceIdentityId": "hewlin",
+      "role": "Adult lifeguard and former palace music-page",
+      "selectionEvidence": [
+        {
+          "quote": "“Hewlin. I carried the music for your lessons.”",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 41
+        },
+        {
+          "quote": "He glanced down at his red shirt.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 49
+        },
+        {
+          "quote": "He had a cheap watch with a handsome face, and a pale mark where a ring had been.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 139
+        },
+        {
+          "quote": "He bent the program out of our way and began",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 259
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man; formerly17, now older after years. Wet hair dries in ridge.",
+        "lifeStage": "Young adult; former17-year-old remembered, exact present age not asserted.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "Pale mark where a ring had been, no ring currently.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Red lifeguard shirt, ordinary socks/shoes; Sunday clothes not specified.",
+        "equipment": "Cheap watch with handsome face; pale former ring mark; program and pastry bag.",
+        "scale": "Adult human.",
+        "movement": "Kneels/recoils in surprise, gives space, walks at Madelon's pace and sings beside her.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparentmid20s, warm brown skin, narrow chin/broad brow and gentle dark eyes, dark brown short wavy hair with dried ridge on one side, lean ordinary athletic build.",
+        "Red unbranded lifeguard polo/T-shirt, navy knee-length shorts, pale socks and ordinary dark trainers. Cheap watch on left wrist, pale ring mark on left ring finger as optional side interpretation. A separate Sunday soft pale-blue shirt/dark trousers state, not a second person."
+      ],
+      "states": [
+        {
+          "label": "First day",
+          "description": "Red lifeguard shirt, ordinary pool work clothing."
+        },
+        {
+          "label": "Sunday",
+          "description": "Plain borrowed/unmarked formal-casual clothing interpretation; source walk/song role."
+        },
+        {
+          "label": "No ring",
+          "description": "Close hand showing pale ring mark, not jewellery."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "pool-sovereign:hewlin",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/pool-sovereign/title-image.jpg",
+          "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+          "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+          "inspected": true,
+          "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+          "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+          "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+          "inspected": true,
+          "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+          "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+          "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+          "inspected": true,
+          "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+          "inspected": true,
+          "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+            "zeroBasedUserMessageLine": 8,
+            "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+          }
+        }
+      ],
+      "output": "stories/pool-sovereign/art/characters/hewlin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:41:49.285948+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL folio on clean plain light warm IVORY. Exact heading \"Hewlin\", smaller exact title \"The Deep End\". One young adult HUMAN MAN, same identity across all labelled states. No water transformation, no other person.\n\nAppearance chosen for this source role: apparent mid20s, warm BROWN skin, broad forehead tapering to a narrow chin, long slightly crooked narrow nose, gentle dark eyes, slim ordinary athletic build, SHORT WAVY dark BROWN hair that has dried in a raised RIDGE on anatomical RIGHT side. Clean-shaven, mature adultâ€”not17-year-old boy, not supermodel. Quiet reserve, awkward surprise and affectionate singing all belong to same recognizable face.\n\nMain lifeguard clothes: plain RED short-sleeved T-SHIRT/polo with no logo/text, NAVY knee-length shorts, pale grey socks and ordinary dark trainers. Cheap simple WATCH on anatomical LEFT wrist: handsome clean dark round face, plain steel case and black rubber strap, no luxury brand. No ring worn. Source pale mark where a ring had been appears on LEFT ring finger as chosen art side. No royal uniform, crown, medals, magic, weapon or overbuilt superhero muscles.\n\nLayout:\nLEFT two whole unclipped main front/back standing views in red shirt/navy shorts, labelled \"First day\". Same hair ridge, watch-left, body and clothing; hands relaxed.\nCENTRE whole three-quarter same man in plain pale BLUE button-up shirt with sleeves rolled just below elbow, dark trousers and same simple trainers, labelled \"Sunday\". He holds folded ordinary program in one hand. This is clearly a clothing-state change, not a second man.\nUPPER RIGHT same face \"Your Majesty\" with quiet startled recognition, lips parted slightly, NOT kneeling or scenery.\nLOWER RIGHT enlarged BACK of natural LEFT hand, five fingers gently apart, pale untanned band on ring finger but NO metal ring, cheap watch at wrist; label \"No ring\". Thumb should be on viewer's LEFT in a dorsal view. Keep hand anatomically natural and same brown skin. Include no severed/gory detail, simply art study with soft painted crop.\nSmall optional same head beside hand \"Next verse\" with warm hesitant singing smile if composition permits, without overcrowding text.\n\nLIGHT: soft pool MORNING daylight and Sunday hall window light, pale warm near planes with CONNECTED cool blue-grey/earth shadows on far face, undersleeves and folds. Natural gentle exposureâ€”not midnight, not flat studio fill. Watch reflections restrained. Ivory ground stays unshaded/plain.\n\nUse inputs1/2 as PRIMARY Group of Seven oil paint references ONLY: strong broad interconnected shapes, varied large directional opaque bristle/knife strokes, selective impasto, quiet connecting shadows. Face, fingers, hair and cloth should read constructed from bold paint, not smooth photo/CGI skin under texture, anime, uniform shiny bevelled chips or fine detailed illustration. Do not import pool/hall/furniture/windows/scenery. Exact readable heading/title/labels, consistent face/hair and body proportions, no floor/contact shadow/ground patch, swatches or palette strips.",
+            "references": [
+              {
+                "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+                "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+                "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+                "inspected": true,
+                "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+              },
+              {
+                "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+                "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+                "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+                "inspected": true,
+                "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ab0e2244-d52e-4e5b-b532-b85ae454957a.png",
+            "returnedSha256": "3cb4845172d82a3ba0a9aa082ef56d17f46be6bab6f22f6ec613bd8e39b09aa3",
+            "completedAt": "2026-09-24T06:47:01.976675+00:00",
+            "review": [
+              "Actual pixels reviewed: same young adult brown-skinned man with broad brow/narrow chin and short wavy ridged hair across work, Sunday and both portraits; no teenage or royal-page costume.",
+              "Red lifeguard shirt/navy shorts/socks/trainers and labelled Sunday blue shirt/dark trousers are distinct coherent states; watch consistently anatomical left.",
+              "Enlarged left dorsal hand has five natural digits, pale ring-finger band and no physical ring, with modest ordinary dark-faced watch; source details retained.",
+              "Soft pool/hall day-light oil massing, broad painted skin/cloth, exact readable heading/title/labels, no scenery/floor shadows/ground patches/swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL folio on clean plain light warm IVORY. Exact heading \"Hewlin\", smaller exact title \"The Deep End\". One young adult HUMAN MAN, same identity across all labelled states. No water transformation, no other person.\n\nAppearance chosen for this source role: apparent mid20s, warm BROWN skin, broad forehead tapering to a narrow chin, long slightly crooked narrow nose, gentle dark eyes, slim ordinary athletic build, SHORT WAVY dark BROWN hair that has dried in a raised RIDGE on anatomical RIGHT side. Clean-shaven, mature adultâ€”not17-year-old boy, not supermodel. Quiet reserve, awkward surprise and affectionate singing all belong to same recognizable face.\n\nMain lifeguard clothes: plain RED short-sleeved T-SHIRT/polo with no logo/text, NAVY knee-length shorts, pale grey socks and ordinary dark trainers. Cheap simple WATCH on anatomical LEFT wrist: handsome clean dark round face, plain steel case and black rubber strap, no luxury brand. No ring worn. Source pale mark where a ring had been appears on LEFT ring finger as chosen art side. No royal uniform, crown, medals, magic, weapon or overbuilt superhero muscles.\n\nLayout:\nLEFT two whole unclipped main front/back standing views in red shirt/navy shorts, labelled \"First day\". Same hair ridge, watch-left, body and clothing; hands relaxed.\nCENTRE whole three-quarter same man in plain pale BLUE button-up shirt with sleeves rolled just below elbow, dark trousers and same simple trainers, labelled \"Sunday\". He holds folded ordinary program in one hand. This is clearly a clothing-state change, not a second man.\nUPPER RIGHT same face \"Your Majesty\" with quiet startled recognition, lips parted slightly, NOT kneeling or scenery.\nLOWER RIGHT enlarged BACK of natural LEFT hand, five fingers gently apart, pale untanned band on ring finger but NO metal ring, cheap watch at wrist; label \"No ring\". Thumb should be on viewer's LEFT in a dorsal view. Keep hand anatomically natural and same brown skin. Include no severed/gory detail, simply art study with soft painted crop.\nSmall optional same head beside hand \"Next verse\" with warm hesitant singing smile if composition permits, without overcrowding text.\n\nLIGHT: soft pool MORNING daylight and Sunday hall window light, pale warm near planes with CONNECTED cool blue-grey/earth shadows on far face, undersleeves and folds. Natural gentle exposureâ€”not midnight, not flat studio fill. Watch reflections restrained. Ivory ground stays unshaded/plain.\n\nUse inputs1/2 as PRIMARY Group of Seven oil paint references ONLY: strong broad interconnected shapes, varied large directional opaque bristle/knife strokes, selective impasto, quiet connecting shadows. Face, fingers, hair and cloth should read constructed from bold paint, not smooth photo/CGI skin under texture, anime, uniform shiny bevelled chips or fine detailed illustration. Do not import pool/hall/furniture/windows/scenery. Exact readable heading/title/labels, consistent face/hair and body proportions, no floor/contact shadow/ground patch, swatches or palette strips.",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:47:01.976675+00:00",
+        "sourceSha256": "eb4981238498b0a9b258612b8a54f11fa08b58a6ea721d670893b5f95bd57bd2",
+        "outputSha256": "3cb4845172d82a3ba0a9aa082ef56d17f46be6bab6f22f6ec613bd8e39b09aa3",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: same young adult brown-skinned man with broad brow/narrow chin and short wavy ridged hair across work, Sunday and both portraits; no teenage or royal-page costume.",
+          "Red lifeguard shirt/navy shorts/socks/trainers and labelled Sunday blue shirt/dark trousers are distinct coherent states; watch consistently anatomical left.",
+          "Enlarged left dorsal hand has five natural digits, pale ring-finger band and no physical ring, with modest ordinary dark-faced watch; source details retained.",
+          "Soft pool/hall day-light oil massing, broad painted skin/cloth, exact readable heading/title/labels, no scenery/floor shadows/ground patches/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "2cf2dd06de839dec399e88a387f89aef30a8d261473bc127e426efcd3d7bd846"
+      },
+      "outputSha256": "3cb4845172d82a3ba0a9aa082ef56d17f46be6bab6f22f6ec613bd8e39b09aa3"
+    },
+    {
+      "id": "rosmelle",
+      "name": "Rosmelle",
+      "sourceIdentityId": "rosmelle",
+      "role": "Unnamed expatriate memorial organizer, known to Hewlin's aunt",
+      "selectionEvidence": [
+        {
+          "quote": "The organizer welcomed Hewlin and gave me a program.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 203
+        },
+        {
+          "quote": "Her cardigan was held closed with a brooch shaped like a pair of cherries.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 209
+        },
+        {
+          "quote": "The organizer asked whether anyone else would like to say something.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 237
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Cardigan held closed by brooch shaped as a pair of cherries.",
+        "equipment": "Program/official account for reading and coordination.",
+        "scale": "Adult human.",
+        "movement": "Welcomes, reads, gently invites speakers, moves to music.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparentlate50s, warm medium-brown complexion, round face, soft broad nose, short softly curled grey hair, fuller ordinary body, friendly practical expression.",
+        "Deep muted green cardigan fastened by small red CHERRY-PAIR brooch, cream blouse, plum calf-length skirt and simple low brown shoes; printed program held normally. No crown or royal uniform; no borrowed Madelon face."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "pool-sovereign:rosmelle",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/pool-sovereign/title-image.jpg",
+          "sha256": "15c4273738644786cb4c3260a415f0421a4eab8969d876011a64c858c690df1f",
+          "role": "Madelon's mature facial proportions and transparent water form only; no pool/background or cover rendering",
+          "inspected": true,
+          "notes": "Water-shaped mature woman with swept-back hair-like flow, long nose, gently full cheeks; transparent human anatomy, no opaque blue skin."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+          "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+          "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+          "inspected": true,
+          "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+        },
+        {
+          "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+          "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+          "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+          "inspected": true,
+          "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "displayName": "codex-clipboard-ea25bfc7-7eb2-4fa9-9f1c-c79938a5e707.png",
+          "sha256": "f1f66ff53d1e378214b4eff2cd6a075fd48688bf374b2b4c0e5e6355563e5726",
+          "inspected": true,
+          "role": "Original transparent humanoid water anatomy/concealment, no opaque blue body or control over pool; exclude photoreal rendering/background",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T19-31-37-01a08da9-9895-7b61-b102-4e6193725579.jsonl",
+            "zeroBasedUserMessageLine": 8,
+            "method": "Coordinator decoded exact original user input_image bytes, not regenerated."
+          }
+        }
+      ],
+      "output": "stories/pool-sovereign/art/characters/rosmelle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:47:03.130595+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL folio on plain light warm IVORY. Exact large heading \"Rosmelle\", smaller exact story title \"The Deep End\", compact role \"Memorial organizer\". This is an authorized art-only name for the unnamed organizer known to Hewlin's aunt; NOT his aunt, NOT Queen Madelon, no crown or magic.\n\nOne ordinary human woman, apparent late50s, warm medium-BROWN skin, ROUND broad-cheeked face, soft broad nose, gently arched brows, dark friendly attentive eyes, short softly CURLED GREY hair above ears, FULLER comfortable adult body. Practical warmth and concentration, not condescending grandmother stereotype. Same round face/hair/body in all studies. Do not borrow any earlier named person's face.\n\nClothes: deep muted GREEN knit CARDIGAN held CLOSED at upper chest by ONE BROOCH shaped as EXACTLY TWO RED CHERRIES joined by two short green stems and a small leaf. Source brooch is the key appearance fact: recognizable pair of cherries, NOT rose, heart, strawberries, necklace, medal or row of buttons. Cream plain blouse beneath, muted PLUM calf-length skirt, simple low BROWN shoes. No luxurious regalia, apron, hat or weapon. Ordinary printed paper program, no extra readable invented text.\n\nThree whole unclipped FRONT/PROFILE/BACK standing views left/centre, matching cardigan/skirt/short curls and natural body/foot proportions. Front holds folded program casually in one hand; other hand open at waist, welcoming. Profile arms relaxed, back keeps same cardigan hem/skirt. Right upper same head \"Welcome\" (small welcoming smile), right mid same head \"The reading\" (thoughtfully concentrated). Lower right enlarged CHEST CLOTHING/BROOCH detail: same green knit edge held together by exact two-cherry red/green brooch, a small cream blouse triangle, label \"Two cherries\". Detail is clothing only, not a second torso/head; leave ivory around it.\n\nLighting: Sunday memorial in modest hall, soft DAY WINDOW LIGHT, pale warm near cheek/knit planes with connected cool grey-violet/earth shadow on far face, folds and back. Natural quiet exposure, no royal spotlight, glossy rim or uniform flat white studio fill. Ivory stays light/plain.\n\nInputs1/2 PRIMARY oil technique/window-light references ONLY; no swimming pool/hall geometry/furniture. Use Canadian Group of Seven broad interlocking opaque paint masses, large varied directional bristle/knife strokes, selective substantial impasto and quieter connecting shadow shapes. Face/grey curls/hands/knit are painted decisively rather than fine photoreal skin or realistic knit with a texture overlay; no CGI/anime, tiny glossy bevelled chip mosaic or detailed pore networks. Exact name/title/labels readable. No scenery, floor/contact shadows/ground patch, other cast, swatches or palette strips.",
+            "references": [
+              {
+                "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+                "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+                "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+                "inspected": true,
+                "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+              },
+              {
+                "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+                "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+                "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+                "inspected": true,
+                "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-0e5aecc9-76cd-4ce6-9ef2-709f4bd8e269.png",
+            "returnedSha256": "2d5da794a5da365f232cb21be54c22441fe707da65e1a1de5ac2772fe16ad38c",
+            "completedAt": "2026-09-24T06:58:05.721020+00:00",
+            "review": [
+              "Actual pixels reviewed: same round-faced fuller mature woman, warm brown skin and short grey curls repeat across three whole views and two expressions, distinct from Madelon.",
+              "Source cardigan and cherry-pair brooch retained: enlarged clothing detail shows exactly two red cherries with stems/leaf at closure. Optional green cardigan/plum skirt/cream blouse consistent.",
+              "Ordinary program and warm welcome/focused reading states fit recurring organizer role; art name stays metadata-only and does not equate her with Hewlin's aunt.",
+              "Broad opaque directional oil across face/knit/skirt, supported quiet day window light, readable exact text, natural hands, no scenery/floor shadows/swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL folio on plain light warm IVORY. Exact large heading \"Rosmelle\", smaller exact story title \"The Deep End\", compact role \"Memorial organizer\". This is an authorized art-only name for the unnamed organizer known to Hewlin's aunt; NOT his aunt, NOT Queen Madelon, no crown or magic.\n\nOne ordinary human woman, apparent late50s, warm medium-BROWN skin, ROUND broad-cheeked face, soft broad nose, gently arched brows, dark friendly attentive eyes, short softly CURLED GREY hair above ears, FULLER comfortable adult body. Practical warmth and concentration, not condescending grandmother stereotype. Same round face/hair/body in all studies. Do not borrow any earlier named person's face.\n\nClothes: deep muted GREEN knit CARDIGAN held CLOSED at upper chest by ONE BROOCH shaped as EXACTLY TWO RED CHERRIES joined by two short green stems and a small leaf. Source brooch is the key appearance fact: recognizable pair of cherries, NOT rose, heart, strawberries, necklace, medal or row of buttons. Cream plain blouse beneath, muted PLUM calf-length skirt, simple low BROWN shoes. No luxurious regalia, apron, hat or weapon. Ordinary printed paper program, no extra readable invented text.\n\nThree whole unclipped FRONT/PROFILE/BACK standing views left/centre, matching cardigan/skirt/short curls and natural body/foot proportions. Front holds folded program casually in one hand; other hand open at waist, welcoming. Profile arms relaxed, back keeps same cardigan hem/skirt. Right upper same head \"Welcome\" (small welcoming smile), right mid same head \"The reading\" (thoughtfully concentrated). Lower right enlarged CHEST CLOTHING/BROOCH detail: same green knit edge held together by exact two-cherry red/green brooch, a small cream blouse triangle, label \"Two cherries\". Detail is clothing only, not a second torso/head; leave ivory around it.\n\nLighting: Sunday memorial in modest hall, soft DAY WINDOW LIGHT, pale warm near cheek/knit planes with connected cool grey-violet/earth shadow on far face, folds and back. Natural quiet exposure, no royal spotlight, glossy rim or uniform flat white studio fill. Ivory stays light/plain.\n\nInputs1/2 PRIMARY oil technique/window-light references ONLY; no swimming pool/hall geometry/furniture. Use Canadian Group of Seven broad interlocking opaque paint masses, large varied directional bristle/knife strokes, selective substantial impasto and quieter connecting shadow shapes. Face/grey curls/hands/knit are painted decisively rather than fine photoreal skin or realistic knit with a texture overlay; no CGI/anime, tiny glossy bevelled chip mosaic or detailed pore networks. Exact name/title/labels readable. No scenery, floor/contact shadows/ground patch, other cast, swatches or palette strips.",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:58:05.721020+00:00",
+        "sourceSha256": "eb4981238498b0a9b258612b8a54f11fa08b58a6ea721d670893b5f95bd57bd2",
+        "outputSha256": "2d5da794a5da365f232cb21be54c22441fe707da65e1a1de5ac2772fe16ad38c",
+        "references": [
+          {
+            "path": "stories/pool-sovereign/art/interiors/01-glass-roofed-deep-end.png",
+            "sha256": "e04d9d00195c52438465611f1182f978b279509b67c86bef30bd1662359c787d",
+            "role": "Primary opaque Group of Seven paint/soft pool morning sky and warm window-light planes only; no scene",
+            "inspected": true,
+            "notes": "Actual oil painting is bright glazed pool with connected cool blue-grey shadows and pale warm window light; no underwater location in folio."
+          },
+          {
+            "path": "stories/pool-sovereign/art/interiors/03-hall-above-the-bed-shop.png",
+            "sha256": "cc5e9666cc1bba0753219c1fa298e3d80a43f538d8e2bf0d22029d55559fcb5c",
+            "role": "Memorial hall soft day window-light/shade and broad oil only; no furniture/room",
+            "inspected": true,
+            "notes": "Muted cream, grey-blue and wood-ochre light; ordinary intimate meeting, not royal ceremony."
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: same round-faced fuller mature woman, warm brown skin and short grey curls repeat across three whole views and two expressions, distinct from Madelon.",
+          "Source cardigan and cherry-pair brooch retained: enlarged clothing detail shows exactly two red cherries with stems/leaf at closure. Optional green cardigan/plum skirt/cream blouse consistent.",
+          "Ordinary program and warm welcome/focused reading states fit recurring organizer role; art name stays metadata-only and does not equate her with Hewlin's aunt.",
+          "Broad opaque directional oil across face/knit/skirt, supported quiet day window light, readable exact text, natural hands, no scenery/floor shadows/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "a4caef2c196ad4df877bfcebace55a28d5b7f5508b0e7abcd9b1347f0a84cd92"
+      },
+      "nameAssignment": {
+        "name": "Rosmelle",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed expatriate memorial organizer, known to Hewlin's aunt",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Rosmelle searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "2d5da794a5da365f232cb21be54c22441fe707da65e1a1de5ac2772fe16ad38c"
+    }
+  ]
+}
