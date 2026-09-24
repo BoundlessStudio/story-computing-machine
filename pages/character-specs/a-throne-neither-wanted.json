@@ -1,0 +1,1064 @@
+{
+  "slug": "a-throne-neither-wanted",
+  "title": "The Throne Neither of Us Wanted",
+  "source": "stories/a-throne-neither-wanted/story.md",
+  "canon": true,
+  "mainCastEvidence": "Younger heir narrates and accepts the office; elder sister and dying king sustain family conflict; rite keeper supplies and interprets forecast in two scenes; physician reveals the injury/support mechanism and manages the final death. These five carry consequential actions and dialogue.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Royal attendant",
+      "reason": "Repeated practical bedside care but no independent substantial narrative arc or decisive choice."
+    },
+    {
+      "name": "Courtiers, guards, musicians and surgeon remembered from childhood",
+      "reason": "Offstage/background or recalled incidentals."
+    },
+    {
+      "name": "Throne",
+      "reason": "LOCKED authority explicitly denies established mind, desire or independent agency; object is not a character."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Unnamed royal forecasting rite and coronation working (LOCKED)",
+    "universe/timeline.md#Undated forecasted royal succession and king's death (LOCKED)",
+    "universe/characters.md (no separate named identity for this cast)"
+  ],
+  "characters": [
+    {
+      "id": "vesran",
+      "name": "Vesran",
+      "role": "Younger heir and first-person protagonist",
+      "selectionEvidence": [
+        {
+          "quote": "I accept the office.",
+          "line": 462,
+          "explanation": "Freely chooses decisive transfer."
+        },
+        {
+          "quote": "the physicians’ college",
+          "line": 373,
+          "explanation": "Desires medical training, personal stakes of succession."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "lifeStage": "Younger adult sibling; exact age and gender not specified",
+        "proportions": "Natural adult human proportions; details below",
+        "markings": "No permanent markings described",
+        "materials": "Skin/hair; cloth/leather in restrained designs",
+        "clothing": "Sleeved clothes; detailed garments unspecified",
+        "equipment": "Blue medicine cup and gray blanket used while caring for father",
+        "scale": "Human scale",
+        "movement": "Supports father, holds cup and hand, kneels; hands shake after death",
+        "distinctiveFeatures": "No complete facial description supplied"
+      },
+      "explicitCanon": [
+        "Younger blood heir freely accepts office; studies/wants physicians' college; same human body after transfer; no crown descends or supernatural judgment.",
+        "Younger heir's gender is not established by source or authority."
+      ],
+      "visualInterpretation": [
+        "Art name Vesran, not canon.",
+        "Androgynous adult about25 with warm medium skin, short straight dark hair, long narrow face, dark eyes, slim build; plain slate-blue knee-length coat over cream shirt, dark trousers/boots.",
+        "No crown, scepter, glow, sword or medical insignia."
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Vesran",
+        "sourceName": null,
+        "sourceRole": "Younger heir and first-person protagonist",
+        "scope": "Art identity only; unnamed canonical story and universe unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen name memory or existing character specs."
+      },
+      "states": [
+        {
+          "name": "before succession",
+          "description": "Anxious attentive posture; same ordinary outfit."
+        },
+        {
+          "name": "after succession",
+          "description": "Grieving and tired, trembling hand; no physical transformation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-throne-neither-wanted:vesran",
+        "links": [],
+        "evidence": "Same-story unnamed role; no evidence connecting to other monarchies or similarly named people."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and folio style only",
+          "inspected": true,
+          "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/title-image.jpg",
+          "role": "inspected source cover; object palette only",
+          "inspected": true,
+          "notes": "No characters depicted; black throne, blue cup, gray blanket in cold winter light; no personal face identity available.",
+          "sha256": "524b481f785321af3f18585f834c3208b72f8588d3999cafeedcd66dfd93aa51"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "role": "nighttime sickroom lamp light and gray/blue material palette only",
+          "inspected": true,
+          "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+          "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "role": "winter day record-room lighting and paint handling only",
+          "inspected": true,
+          "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+          "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+        }
+      ],
+      "output": "stories/a-throne-neither-wanted/art/characters/vesran.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow lighting correction ONLY to existing Vesran folio. Keep all exact text, views, adult androgynous face, dark short hair, coat, anatomy, cup, blanket and ivory layout unchanged. Render the character studies convincingly in LOW LAMPLIGHT AT NIGHT, not diffuse day. Reduce figure exposure by roughly TWO STOPS: majority of slate coat becomes a connected dark blue-violet mass with bristle strokes within it; shadow side of EACH face visibly deep umber-violet from brow through cheek/jaw; only nearer cheek/nose/cream collar catch a LIMITED MUTED warm lamp light. Far sleeves, trouser legs and far jaw have lost edges and dark simplified planes. Same light direction across the views. The bright ivory paper REMAINS bright, typography readable; it is a folio containing nighttime figure studies, not a dark backdrop. Keep blanket gray, cup blue; dim their shadows consistently. Oil has broad matte connected masses and selective impasto, not individual glittering chips. Reference2 shows how dark shadows are beside one lamp at night, use that character value range but COPY NO room/bed/window/candle/furniture. No scenery, no floor patches, no swatches. Do not brighten the entire figure for reference-sheet legibility. 1536x1024 preserved.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T21:41:24.468819+00:00",
+            "prompt": "Create a character reference folio with exact name \"Vesran\" and story title \"The Throne Neither of Us Wanted\" clearly readable upper left. Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nVesran is the art name for the source's gender-unspecified YOUNGER ADULT royal heir, aspiring medical student. Design a distinct ANDROGYNOUS adult about25, warm medium skin, short straight dark brown hair tucked behind ears, long narrow face, dark eyes, slim natural build. No exaggerated masculine jaw or feminine curves; ordinary human two arms/two legs. Plain slate-blue knee-length wool coat over cream high-collared shirt, charcoal trousers and plain dark leather boots; no crown, jewelry, emblems, weapons or medical insignia. A new ruler remains the SAME person in SAME clothes with no visible supernatural change.\nTwo complete isolated views front three-quarter and rear three-quarter, fingers gently interlaced in front view, face/head/build consistent. Right two same-face heads labelled \"Before\" (anxious attentive) and \"After\" (tired grieving, still human, NO glowing eyes). Bottom small hands cradling blue ceramic medicine cup, label \"Medicine cup\", plus soft folded gray blanket as isolated personal caregiving item label \"Grey blanket\". No father/other figure, throne, stool, medical room or furniture. No invented healing power, crown, spirit or magic glyph.\nTime is late-night family succession: lighting motivated by low ordinary warm lamps/candles, cream and flesh planes muted and less bright than ivory support, large quiet cool-violet/slate shadows and partial lost edges. Do not light as daylight or dramatic rim-lit king. Image2 night sickroom ONLY guides light and blue/gray palette, copy NO setting. Face/hair as broad matte oil as clothing; warm human sorrow, not anime glamour.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and folio style only",
+                "inspected": true,
+                "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+                "role": "nighttime sickroom lamp light and gray/blue material palette only",
+                "inspected": true,
+                "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+                "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-745441e0-645a-4c3f-b143-58720601839b.png",
+            "outputSha256": "4fe63e1a50558c36dc0b888ddf1cda7f08f124683e60e48b7fcdad7c4d9b44a3",
+            "reviewFinding": "Character identity/layout sound; illumination still too evenly bright for low-lamp succession night."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:46:30.623384+00:00",
+            "prompt": "Narrow lighting correction ONLY to existing Vesran folio. Keep all exact text, views, adult androgynous face, dark short hair, coat, anatomy, cup, blanket and ivory layout unchanged. Render the character studies convincingly in LOW LAMPLIGHT AT NIGHT, not diffuse day. Reduce figure exposure by roughly TWO STOPS: majority of slate coat becomes a connected dark blue-violet mass with bristle strokes within it; shadow side of EACH face visibly deep umber-violet from brow through cheek/jaw; only nearer cheek/nose/cream collar catch a LIMITED MUTED warm lamp light. Far sleeves, trouser legs and far jaw have lost edges and dark simplified planes. Same light direction across the views. The bright ivory paper REMAINS bright, typography readable; it is a folio containing nighttime figure studies, not a dark backdrop. Keep blanket gray, cup blue; dim their shadows consistently. Oil has broad matte connected masses and selective impasto, not individual glittering chips. Reference2 shows how dark shadows are beside one lamp at night, use that character value range but COPY NO room/bed/window/candle/furniture. No scenery, no floor patches, no swatches. Do not brighten the entire figure for reference-sheet legibility. 1536x1024 preserved.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-745441e0-645a-4c3f-b143-58720601839b.png",
+                "role": "Inspected candidate identity/layout target; darken character lighting only.",
+                "sha256": "4fe63e1a50558c36dc0b888ddf1cda7f08f124683e60e48b7fcdad7c4d9b44a3",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+                "role": "Required dim nighttime lamp value distribution, not scenery.",
+                "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-a91d0ccc-7bdb-4919-a48d-c8888e4e4f99.png",
+            "outputSha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:50:09.440078+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-745441e0-645a-4c3f-b143-58720601839b.png",
+            "role": "Inspected candidate identity/layout target; darken character lighting only.",
+            "sha256": "4fe63e1a50558c36dc0b888ddf1cda7f08f124683e60e48b7fcdad7c4d9b44a3",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "Required dim nighttime lamp value distribution, not scenery.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:50:09.440099+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+        "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-745441e0-645a-4c3f-b143-58720601839b.png",
+            "role": "Inspected candidate identity/layout target; darken character lighting only.",
+            "sha256": "4fe63e1a50558c36dc0b888ddf1cda7f08f124683e60e48b7fcdad7c4d9b44a3",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "Required dim nighttime lamp value distribution, not scenery.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels inspected: low nighttime lamp illumination now groups slate coat/trousers into deep muted masses and puts coherent dark shade on far side of face, rather than daylight exposure.",
+          "Vesran's gender-unspecified adult interpretation remains same in all four face views: short dark hair, narrow face, slim proportions, same clothes before/after; no invented crown or bodily magic transformation.",
+          "Two whole-body views unclipped; ordinary limbs/hands; blue cup and soft gray blanket are source-supported, no throne or scenery.",
+          "Exact title/art name readable; no palette strip, ground scene or extra cast. Source locked agency limits respected."
+        ],
+        "specificationSha256": "e23b42f482a56b025cd33dfaffede16fe114edd70f625c4dd56dfc167988340d"
+      },
+      "lighting": "Succession night: low warm lamps/candles create restrained cream and flesh planes with deep muted blue-violet shadows; no magical visual transformation or daylight.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a"
+    },
+    {
+      "id": "edelis",
+      "name": "Edelis",
+      "role": "Older sister; heir and prospective western surveyor",
+      "selectionEvidence": [
+        {
+          "quote": "I am the elder.",
+          "line": 265,
+          "explanation": "Carries inherited responsibility."
+        },
+        {
+          "quote": "From being first.",
+          "line": 340,
+          "explanation": "Reveals cost of role."
+        },
+        {
+          "quote": "Then she let go and stepped aside.",
+          "line": 438,
+          "explanation": "Permits sibling's choice."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "lifeStage": "Adult older sister; exact age unspecified",
+        "proportions": "Natural adult human proportions; details below",
+        "markings": "No permanent markings described",
+        "materials": "Skin/hair; cloth/leather in restrained designs",
+        "clothing": "Skirt with hem, sleeves; travelling/survey coat left behind before transfer",
+        "equipment": "Rolled survey map tied with cord, papers of emergency instruments",
+        "scale": "Human scale",
+        "movement": "Strong enough to take most of father's weight; purposeful hands, then knotted anxious fingers",
+        "distinctiveFeatures": "No complete facial description supplied"
+      },
+      "explicitCanon": [
+        "Older sister is female; keeps survey map and prepared succession documents; wears skirt and owns travel coat; supports father physically."
+      ],
+      "visualInterpretation": [
+        "Art name Edelis, not canon.",
+        "About29, same family warm medium skin/dark eyes but broader brow and chin than Vesran, sturdy medium-tall build, dark hair in one low practical braid.",
+        "Muted plum-brown long skirt and plain fitted slate-gray bodice; practical charcoal travel coat shown separately and labelled."
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Edelis",
+        "sourceName": null,
+        "sourceRole": "Older sister; heir and prospective western surveyor",
+        "scope": "Art identity only; unnamed canonical story and universe unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen name memory or existing character specs."
+      },
+      "states": [
+        {
+          "name": "survey plans",
+          "description": "With coat and map."
+        },
+        {
+          "name": "succession night",
+          "description": "Same base skirt/bodice without travelling coat; grief and restraint."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-throne-neither-wanted:edelis",
+        "links": [],
+        "evidence": "Same-story unnamed role; no evidence connecting to other monarchies or similarly named people."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and folio style only",
+          "inspected": true,
+          "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/title-image.jpg",
+          "role": "inspected source cover; object palette only",
+          "inspected": true,
+          "notes": "No characters depicted; black throne, blue cup, gray blanket in cold winter light; no personal face identity available.",
+          "sha256": "524b481f785321af3f18585f834c3208b72f8588d3999cafeedcd66dfd93aa51"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "role": "nighttime sickroom lamp light and gray/blue material palette only",
+          "inspected": true,
+          "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+          "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "role": "winter day record-room lighting and paint handling only",
+          "inspected": true,
+          "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+          "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+        }
+      ],
+      "output": "stories/a-throne-neither-wanted/art/characters/edelis.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create exact-name reference folio \"Edelis\" and \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nEdelis is art name for older royal sister and would-be surveyor. Distinct adult woman about29, warm medium skin/dark eyes and straight long nose suggesting family of Vesran (reference3) but BROADER brow and chin, sturdier medium-tall build, long dark hair in ONE thick practical LOW BRAID (not bun or short hair). She can take much of father's weight. Plain fitted slate-gray long-sleeve bodice and muted plum-brown full-length skirt, practical dark shoes. No crown, armor, sword, jewels, emblems or invented royal insignia.\nTwo unclipped whole-body views in SAME base skirt/bodice without coat: purposeful front three-quarter and rear three-quarter showing low braid. Right same-face head studies \"Planning\" (concentrated) and \"Grief\" (softening exhausted composure), same woman. Below: an isolated plain CHARCOAL travelling coat labelled \"Survey coat\" and a tied rolled survey map with simple coastline showing three alternate lines around a reef, label \"Survey map\"; no map place-names required. The coat was left behind for transfer, so keep it as separate garment study. Hands strong and capable, normal five-finger human anatomy. No another person, throne, room, actual landscape or furniture.\nREQUIRED DARK VALUE RANGE: succession happens at night. Match the completed Vesran nighttime sheet's darkness exactly, NOT Coris's daytime lighting. Low warm lamp touches near cheek, forehead, fingers and a few fabric folds; MOST bodice/skirt remain connected deep plum/charcoal shadows, far side of every face clearly darker with lost edges. Ivory support stays bright. No blanket bright exposure for reference visibility. Specific sister face/long braid proportions consistent across all views; matte broad paint throughout. Reference1 style only; reference2 nighttime room light only; reference3 family and night value anchor, NEVER copy Vesran's face, short hair, coat, cup or blanket. No palette.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:50:10.472519+00:00",
+            "prompt": "Create exact-name reference folio \"Edelis\" and \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nEdelis is art name for older royal sister and would-be surveyor. Distinct adult woman about29, warm medium skin/dark eyes and straight long nose suggesting family of Vesran (reference3) but BROADER brow and chin, sturdier medium-tall build, long dark hair in ONE thick practical LOW BRAID (not bun or short hair). She can take much of father's weight. Plain fitted slate-gray long-sleeve bodice and muted plum-brown full-length skirt, practical dark shoes. No crown, armor, sword, jewels, emblems or invented royal insignia.\nTwo unclipped whole-body views in SAME base skirt/bodice without coat: purposeful front three-quarter and rear three-quarter showing low braid. Right same-face head studies \"Planning\" (concentrated) and \"Grief\" (softening exhausted composure), same woman. Below: an isolated plain CHARCOAL travelling coat labelled \"Survey coat\" and a tied rolled survey map with simple coastline showing three alternate lines around a reef, label \"Survey map\"; no map place-names required. The coat was left behind for transfer, so keep it as separate garment study. Hands strong and capable, normal five-finger human anatomy. No another person, throne, room, actual landscape or furniture.\nREQUIRED DARK VALUE RANGE: succession happens at night. Match the completed Vesran nighttime sheet's darkness exactly, NOT Coris's daytime lighting. Low warm lamp touches near cheek, forehead, fingers and a few fabric folds; MOST bodice/skirt remain connected deep plum/charcoal shadows, far side of every face clearly darker with lost edges. Ivory support stays bright. No blanket bright exposure for reference visibility. Specific sister face/long braid proportions consistent across all views; matte broad paint throughout. Reference1 style only; reference2 nighttime room light only; reference3 family and night value anchor, NEVER copy Vesran's face, short hair, coat, cup or blanket. No palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and folio style only",
+                "inspected": true,
+                "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+                "role": "nighttime sickroom lamp light and gray/blue material palette only",
+                "inspected": true,
+                "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+                "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+                "role": "Same-family restrained features and exact dim nighttime light levels; elder sister remains a distinct adult woman.",
+                "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-b2cc3d17-1bf1-4b21-9226-e4c6e78cbc11.png",
+            "outputSha256": "27d81e7f37a44e66393600d90f256dd50870d6a92768cfaf8b4f7c8243d233a1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:54:16.542640+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Same-family restrained features and exact dim nighttime light levels; elder sister remains a distinct adult woman.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:54:16.542660+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "27d81e7f37a44e66393600d90f256dd50870d6a92768cfaf8b4f7c8243d233a1",
+        "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Same-family restrained features and exact dim nighttime light levels; elder sister remains a distinct adult woman.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual image inspected: Edelis has coherent long low braid, broad mature brow/chin and sturdy adult figure across front/rear/planning/grief views; family resemblance to Vesran without copying short hair or clothing.",
+          "Base slate bodice and long plum skirt consistent; source travel coat correctly isolated rather than worn in succession state; tied survey map shown as equipment only.",
+          "Matched low succession-night lamp values keep most cloth/face shadow planes deep plum/charcoal. Broad matte paint across face, hair and folded cloth.",
+          "Exact art name and source title readable, silhouettes unclipped, no crown/scepter, setting, swatches or added cast."
+        ],
+        "specificationSha256": "8c744400850054cfcc1cb2a31aef3e9974cc03c7867df0835ae4829eb08e3cb7"
+      },
+      "lighting": "Succession night low lamp/candle illumination, like selected Vesran: limited warm near planes, dark muted plum/slate shadows and lost edges; no bright daytime reveal.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "27d81e7f37a44e66393600d90f256dd50870d6a92768cfaf8b4f7c8243d233a1"
+    },
+    {
+      "id": "othven",
+      "name": "Othven",
+      "role": "King and father; injured ruler seeking end of support",
+      "selectionEvidence": [
+        {
+          "quote": "The injury was fatal.",
+          "line": 191,
+          "explanation": "Fatal chest injury has been suspended."
+        },
+        {
+          "quote": "I am tired, and I want this interval to end tonight.",
+          "line": 259,
+          "explanation": "His request creates central choice."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "lifeStage": "Father of two adults; exact age unspecified",
+        "proportions": "Natural adult human proportions; details below",
+        "markings": "Crushed-chest injury is internal; source gives no visible wound",
+        "materials": "Skin/hair; cloth/leather in restrained designs",
+        "clothing": "Collar loose, undershirt darkened by sweat during episode; clean replacement shirt and gray blanket",
+        "equipment": "Blue medicine cup, gray soft blanket",
+        "scale": "Human scale",
+        "movement": "Trembling hand, guarded incomplete breaths, folded shoulders and weakness; needs support",
+        "distinctiveFeatures": "Beard explicitly present"
+      },
+      "explicitCanon": [
+        "King father has beard and fatal crushed-chest injury suspended but not healed by coronation working; pain and weakness worsen; hand/cup tremble; he dies when support ends.",
+        "Gray blanket preferred over scratchy blue; blue medicine cup; collar/undershirt and clean replacement shirt."
+      ],
+      "visualInterpretation": [
+        "Art name Othven, not canon.",
+        "About60, gaunt medium skin, gray beard and thinning dark-gray hair, family long nose/dark eyes; ordinary charcoal robe/coat over loose cream shirt and dark trousers, no crown.",
+        "Render illness through posture and sallow planes; no invented scar or open chest injury; no dead-body study needed."
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Othven",
+        "sourceName": null,
+        "sourceRole": "King and father; injured ruler seeking end of support",
+        "scope": "Art identity only; unnamed canonical story and universe unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen name memory or existing character specs."
+      },
+      "states": [
+        {
+          "name": "composed",
+          "description": "Tries to stand composed, slightly guarded chest."
+        },
+        {
+          "name": "ill",
+          "description": "Head/shoulders with loose collar and gray blanket, tired eyes and shallow breath."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-throne-neither-wanted:othven",
+        "links": [],
+        "evidence": "Same-story unnamed role; no evidence connecting to other monarchies or similarly named people."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and folio style only",
+          "inspected": true,
+          "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/title-image.jpg",
+          "role": "inspected source cover; object palette only",
+          "inspected": true,
+          "notes": "No characters depicted; black throne, blue cup, gray blanket in cold winter light; no personal face identity available.",
+          "sha256": "524b481f785321af3f18585f834c3208b72f8588d3999cafeedcd66dfd93aa51"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "role": "nighttime sickroom lamp light and gray/blue material palette only",
+          "inspected": true,
+          "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+          "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "role": "winter day record-room lighting and paint handling only",
+          "inspected": true,
+          "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+          "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+        }
+      ],
+      "output": "stories/a-throne-neither-wanted/art/characters/othven.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Reference folio name exactly \"Othven\", story exactly \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nOthven is art name for the dying human king, father of two adult heirs. Male about sixty, gaunt slightly stooped build, warm medium skin now sallow with illness, long family nose, dark eyes, thinning dark-gray hair, short full GRAY BEARD. Two arms/two legs, internal chest injury only: NO open wound, visible scar, mechanical chest, magical glow, armor or crown.\nSame simple domestic CHARCOAL long coat/robe over a loose cream buttoned shirt and dark trousers, soft plain shoes; no fur or heraldry. Two useful complete unclipped views: front three-quarter with one hand gently guarding ribs and other relaxed trembling fingers; rear three-quarter with same gray beard/profile, coat and stooped posture. NO chair, bed, furniture or supporting person. Right head studies of same man \"Composed\" and \"Ill\": latter loosened collar, visibly tired but dignified, soft gray blanket round shoulders. Avoid cadaver or death portrait. Bottom isolated small blue ceramic medicine cup and gray blanket-fold detail, label \"Cup and blanket\". They are his personal care items, no tabletop or environment.\nREQUIRED very LOW LAMP illumination at NIGHT, similar darkness to Vesran in image3. Most charcoal coat and far facial side form coherent dark gray-violet masses; only near cheek, beard edge, hand and collar catch limited warm lamplight. Ivory folio remains bright, no overall dark background. No daylight-like front lighting or bright gold rim. Beard uses broad gray bristle masses, face broad matte strokes and quiet painted planes. Different old father face from youthful Vesran. No palette strip or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:54:17.569602+00:00",
+            "prompt": "Reference folio name exactly \"Othven\", story exactly \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nOthven is art name for the dying human king, father of two adult heirs. Male about sixty, gaunt slightly stooped build, warm medium skin now sallow with illness, long family nose, dark eyes, thinning dark-gray hair, short full GRAY BEARD. Two arms/two legs, internal chest injury only: NO open wound, visible scar, mechanical chest, magical glow, armor or crown.\nSame simple domestic CHARCOAL long coat/robe over a loose cream buttoned shirt and dark trousers, soft plain shoes; no fur or heraldry. Two useful complete unclipped views: front three-quarter with one hand gently guarding ribs and other relaxed trembling fingers; rear three-quarter with same gray beard/profile, coat and stooped posture. NO chair, bed, furniture or supporting person. Right head studies of same man \"Composed\" and \"Ill\": latter loosened collar, visibly tired but dignified, soft gray blanket round shoulders. Avoid cadaver or death portrait. Bottom isolated small blue ceramic medicine cup and gray blanket-fold detail, label \"Cup and blanket\". They are his personal care items, no tabletop or environment.\nREQUIRED very LOW LAMP illumination at NIGHT, similar darkness to Vesran in image3. Most charcoal coat and far facial side form coherent dark gray-violet masses; only near cheek, beard edge, hand and collar catch limited warm lamplight. Ivory folio remains bright, no overall dark background. No daylight-like front lighting or bright gold rim. Beard uses broad gray bristle masses, face broad matte strokes and quiet painted planes. Different old father face from youthful Vesran. No palette strip or swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and folio style only",
+                "inspected": true,
+                "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+                "role": "nighttime sickroom lamp light and gray/blue material palette only",
+                "inspected": true,
+                "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+                "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+                "role": "Family long nose/dark eyes and selected low-lamp shadow levels; not youthful identity or clothes.",
+                "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-f480f09b-68f7-4909-81f2-4d4637d1c784.png",
+            "outputSha256": "38224251678c25b88aafc9c4ae951981056cc70458caf92e1c01d5105a0a363c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:00:04.795913+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Family long nose/dark eyes and selected low-lamp shadow levels; not youthful identity or clothes.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:00:04.795937+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "38224251678c25b88aafc9c4ae951981056cc70458caf92e1c01d5105a0a363c",
+        "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Family long nose/dark eyes and selected low-lamp shadow levels; not youthful identity or clothes.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: older bearded father with consistently lined/gaunt face and guarded chest posture; ordinary two-arm/two-leg anatomy; no invented visible chest wound or machine.",
+          "Nighttime lamp values match the selected family sheet: broad dark charcoal-blue coat and far-face shade with limited warmer planes, not daylight.",
+          "Consistent full-view outfit, gray blanket and blue cup; composed/ill heads same man and beard, all full silhouettes intact.",
+          "Exact art name/title, no crown, throne, scene, extra person or swatches; broad matte bristle/knife handling on beard, skin and fabric."
+        ],
+        "specificationSha256": "b1b1cb8538e07f9c0a7a959be0a92ca0628f909bda2097c0442411fb93c77c74"
+      },
+      "lighting": "Late-night sickroom lamp: restrained warm narrow face/hand light against large cool gray-violet shadows, frailty visible without display lighting.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "38224251678c25b88aafc9c4ae951981056cc70458caf92e1c01d5105a0a363c"
+    },
+    {
+      "id": "sorevia",
+      "name": "Sorevia",
+      "role": "Rite keeper; forecaster and interpreter",
+      "selectionEvidence": [
+        {
+          "quote": "warmed the shallow forecasting dish between her palms",
+          "line": 13,
+          "explanation": "Performs the initiating forecast."
+        },
+        {
+          "quote": "It reports an act. It does not make an heir perform one.",
+          "line": 102,
+          "explanation": "Sets agency boundary."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "lifeStage": "Adult woman, exact age unspecified",
+        "proportions": "Natural adult human proportions; details below",
+        "markings": "No permanent markings described",
+        "materials": "Skin/hair; cloth/leather in restrained designs",
+        "clothing": "Unspecified",
+        "equipment": "Shallow silver dish containing winter water and black grains; old forecast copies",
+        "scale": "Human scale",
+        "movement": "Holds dish between both warm palms; sorts records; tired purposeful expression",
+        "distinctiveFeatures": "No complete facial description supplied"
+      },
+      "explicitCanon": [
+        "Rite keeper is a living woman who supplies her own heat to forecast; silver dish/water/grains are nonliving, inert after her heat leaves.",
+        "Forecast reports future act without compelling action; no universal fate mechanism established."
+      ],
+      "visualInterpretation": [
+        "Art name Sorevia, not canon.",
+        "About55, brown skin, broad face, tightly coiled salt-and-pepper hair in low bun; plain desaturated blue-gray long wool robe with linen collar; no priestly emblem invented.",
+        "Grains may form dark pattern in dish but no floating glowing runes or sentient dish."
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Sorevia",
+        "sourceName": null,
+        "sourceRole": "Rite keeper; forecaster and interpreter",
+        "scope": "Art identity only; unnamed canonical story and universe unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen name memory or existing character specs."
+      },
+      "states": [
+        {
+          "name": "working forecast",
+          "description": "Dish held in both palms, minute steam only."
+        },
+        {
+          "name": "records",
+          "description": "Tired, measured expression, paper folio; dish inert."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-throne-neither-wanted:sorevia",
+        "links": [],
+        "evidence": "Same-story unnamed role; no evidence connecting to other monarchies or similarly named people."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and folio style only",
+          "inspected": true,
+          "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/title-image.jpg",
+          "role": "inspected source cover; object palette only",
+          "inspected": true,
+          "notes": "No characters depicted; black throne, blue cup, gray blanket in cold winter light; no personal face identity available.",
+          "sha256": "524b481f785321af3f18585f834c3208b72f8588d3999cafeedcd66dfd93aa51"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "role": "nighttime sickroom lamp light and gray/blue material palette only",
+          "inspected": true,
+          "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+          "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "role": "winter day record-room lighting and paint handling only",
+          "inspected": true,
+          "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+          "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+        }
+      ],
+      "output": "stories/a-throne-neither-wanted/art/characters/sorevia.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Reference folio exact title \"Sorevia\" and \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nSorevia is the art name for source's female rite keeper, the living adult woman who warms a silver forecasting dish and interprets the record. About55 as restrained visual interpretation, warm brown skin, broad oval face, dark calm eyes, tightly coiled SALT-AND-PEPPER hair secured in a low compact bun, solid average build. Distinct from young pale Coris reference face. Plain desaturated BLUE-GRAY long wool scholar's robe with practical sleeves, simple cream linen collar and dark flat shoes; no crown, cross, invented runic insignia, pointed hat or jewelry.\nTwo complete isolated full-body views: front three-quarter holding a SHALLOW SILVER DISH between BOTH palms; back three-quarter with identical robe/bun/body proportions and dish edge held forward. Right head studies \"Concentrating\" and \"Weary\"; same mature broad face, measured fatigue not sinister sorceress. Bottom enlarged isolated shallow dish with water and a sparse BLACK GRAIN pattern lying against silver base, tiny wisps of steam permissible, label \"Forecasting dish\"; closed worn paper-record folio labelled \"Records\".\nCANON: only the living woman's heat powers forecast; dish, water and grains have NO agency, eyes or consciousness. Do not show levitating dish, floating glowing runes, power beams or self-lit eyes. She has ordinary hands with five fingers each.\nWinter MORNING at records room, not candlelit night: cool soft blue-gray narrow-window light on near cheek and sleeves, subdued slightly warmer reflected brown on shadows; lower contrast than night family sheets, no golden hour or rim glow. Second reference contributes cold winter palette and broad wood/cloth paint handling only. NO window, room, floor, furniture, landscape or table. Matte mature face in broad painted planes, coarse wool connected masses, selective silver edge paint rather than chrome gloss. No palette swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:00:05.830177+00:00",
+            "prompt": "Reference folio exact title \"Sorevia\" and \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nSorevia is the art name for source's female rite keeper, the living adult woman who warms a silver forecasting dish and interprets the record. About55 as restrained visual interpretation, warm brown skin, broad oval face, dark calm eyes, tightly coiled SALT-AND-PEPPER hair secured in a low compact bun, solid average build. Distinct from young pale Coris reference face. Plain desaturated BLUE-GRAY long wool scholar's robe with practical sleeves, simple cream linen collar and dark flat shoes; no crown, cross, invented runic insignia, pointed hat or jewelry.\nTwo complete isolated full-body views: front three-quarter holding a SHALLOW SILVER DISH between BOTH palms; back three-quarter with identical robe/bun/body proportions and dish edge held forward. Right head studies \"Concentrating\" and \"Weary\"; same mature broad face, measured fatigue not sinister sorceress. Bottom enlarged isolated shallow dish with water and a sparse BLACK GRAIN pattern lying against silver base, tiny wisps of steam permissible, label \"Forecasting dish\"; closed worn paper-record folio labelled \"Records\".\nCANON: only the living woman's heat powers forecast; dish, water and grains have NO agency, eyes or consciousness. Do not show levitating dish, floating glowing runes, power beams or self-lit eyes. She has ordinary hands with five fingers each.\nWinter MORNING at records room, not candlelit night: cool soft blue-gray narrow-window light on near cheek and sleeves, subdued slightly warmer reflected brown on shadows; lower contrast than night family sheets, no golden hour or rim glow. Second reference contributes cold winter palette and broad wood/cloth paint handling only. NO window, room, floor, furniture, landscape or table. Matte mature face in broad painted planes, coarse wool connected masses, selective silver edge paint rather than chrome gloss. No palette swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and folio style only",
+                "inspected": true,
+                "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+                "role": "winter day record-room lighting and paint handling only",
+                "inspected": true,
+                "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+                "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-130b137a-f1ca-40ba-bcc7-6c2301f26132.png",
+            "outputSha256": "4ef63f9c4aa984da43002c98afc7b2c17ceb1656af2fa2c29d83bda1baeb80e6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:03:51.670643+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+            "role": "winter day record-room lighting and paint handling only",
+            "inspected": true,
+            "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+            "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:03:51.670668+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "4ef63f9c4aa984da43002c98afc7b2c17ceb1656af2fa2c29d83bda1baeb80e6",
+        "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+            "role": "winter day record-room lighting and paint handling only",
+            "inspected": true,
+            "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+            "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: mature brown-skinned woman with consistent salt-and-pepper coiled low bun, broad face and blue-gray robe across all views.",
+          "Shallow silver dish held by both palms; isolated dish shows black grains in base and faint residual steam without sentience/glowing effects, compatible with living-agency rule.",
+          "Cold winter-day blue-gray material/light treatment distinct from succession-night sheets; restrained warm skin with matte broad paint and cloth masses.",
+          "All complete forms unclipped, exact name/title and labels readable, no scenery/furniture/palette, records folio is portable source equipment."
+        ],
+        "specificationSha256": "f13b7428025749c8c69419ab14dd6a392e9a861413df8f791e67b011c64c7f39"
+      },
+      "lighting": "Winter morning records-room cold narrow-window daylight, diffused cool blue-gray light with quiet warm reflected wood tones; not succession-night lamp treatment.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "4ef63f9c4aa984da43002c98afc7b2c17ceb1656af2fa2c29d83bda1baeb80e6"
+    },
+    {
+      "id": "marnelle",
+      "name": "Marnelle",
+      "role": "Royal physician; medical truth-teller and end-of-life caregiver",
+      "selectionEvidence": [
+        {
+          "quote": "The coronation working suspended the consequence of the injury",
+          "line": 205,
+          "explanation": "Reveals mechanism."
+        },
+        {
+          "quote": "the physician came through the side door, listened, checked",
+          "line": 470,
+          "explanation": "Confirms the death."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "lifeStage": "Adult woman; exact age unspecified",
+        "proportions": "Natural adult human proportions; details below",
+        "markings": "No permanent markings described",
+        "materials": "Skin/hair; cloth/leather in restrained designs",
+        "clothing": "Unspecified practical medical clothing",
+        "equipment": "Open medical case, bottles, blue cup; checks pulse with fingers",
+        "scale": "Human scale",
+        "movement": "Kneels by case, counts drops, steady deliberate hands and measured gaze",
+        "distinctiveFeatures": "No complete facial description supplied"
+      },
+      "explicitCanon": [
+        "Physician is female; lays out bottles in case, measures drops into blue cup and checks pulse; understands support limits, confirms king's death."
+      ],
+      "visualInterpretation": [
+        "Art name Marnelle, not canon.",
+        "About45, deep brown skin, short close-cropped dark hair, broad straight nose, square face, average sturdy build; plain olive-brown coat over dark practical dress and linen cuffs.",
+        "No modern stethoscope, syringe, magical healing beam, white doctor costume or invented apparatus."
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Marnelle",
+        "sourceName": null,
+        "sourceRole": "Royal physician; medical truth-teller and end-of-life caregiver",
+        "scope": "Art identity only; unnamed canonical story and universe unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen name memory or existing character specs."
+      },
+      "states": [
+        {
+          "name": "attending",
+          "description": "Bottle and small case, focused hands."
+        },
+        {
+          "name": "after confirmation",
+          "description": "Still, grave expression; unchanged anatomy/outfit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-throne-neither-wanted:marnelle",
+        "links": [],
+        "evidence": "Same-story unnamed role; no evidence connecting to other monarchies or similarly named people."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and folio style only",
+          "inspected": true,
+          "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/title-image.jpg",
+          "role": "inspected source cover; object palette only",
+          "inspected": true,
+          "notes": "No characters depicted; black throne, blue cup, gray blanket in cold winter light; no personal face identity available.",
+          "sha256": "524b481f785321af3f18585f834c3208b72f8588d3999cafeedcd66dfd93aa51"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+          "role": "nighttime sickroom lamp light and gray/blue material palette only",
+          "inspected": true,
+          "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+          "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+        },
+        {
+          "path": "stories/a-throne-neither-wanted/art/interiors/01-palace-records-room.png",
+          "role": "winter day record-room lighting and paint handling only",
+          "inspected": true,
+          "notes": "Cold narrow-window daylight with low warm wooden midtones; broad directional masses, no room transfer.",
+          "sha256": "2ed6c59352cdde0b32f700aeefa4f5a693a0cd1477fee9385a9d9553983b2434"
+        }
+      ],
+      "output": "stories/a-throne-neither-wanted/art/characters/marnelle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Finished character-only folio exact name \"Marnelle\", exact story \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. Reserve a clear top-left header rectangle; long story title may wrap over two lines but must never touch any hair/figure.\nMarnelle is art name for female royal physician, an adult woman about45 with DEEP BROWN skin, short CLOSE-CROPPED tightly curled black hair, broad straight nose, square practical face, dark eyes and average sturdy build. Her identity is DISTINCT from the fair young woman in style reference and from the royal family. Plain practical OLIVE-BROWN long coat over a dark simple ankle-length dress with linen cuffs and flat dark shoes. No white modern doctor's coat, stethoscope, syringe, badge, jewelry, medical insignia, magic healing beam or invented technology.\nTwo unclipped complete body views front three-quarter and rear three-quarter; one hand carries small closed brown medical case, other relaxed; same short hair and clothing. Right: same-face head studies labelled \"Attending\" and \"After\", latter quietly grave; age and facial proportions stable. Bottom: open medical case containing ONLY several simple medicine bottles and linen, label \"Medicine case\"; isolated bottle with small drops about to fall into a BLUE ceramic cup, label \"Measured drops\", no hand anatomy duplication. These are the ordinary source's caregiving equipment; NOT poison villain props. No furniture or room.\nTime is bedside late NIGHT. Strictly match dark VALUE RANGE of completed Vesran reference3: deep brown skin maintains rich deep shadow planes, limited muted warm lamp light on nearer cheek, nose and working hands; most olive-brown coat remains dark connected mass, far eyes not highlighted, no smooth glossy skin. Bright ivory folio stays bright, skin not lightened for visibility. Source room reference2 guides lamp direction and subdued blue/gray shadow only. Broad matte bristle oil on face, cropped hair, linen and case, selective thick paint not uniform flecks. No ground patches or paint swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:03:52.795145+00:00",
+            "prompt": "Finished character-only folio exact name \"Marnelle\", exact story \"The Throne Neither of Us Wanted\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. Reserve a clear top-left header rectangle; long story title may wrap over two lines but must never touch any hair/figure.\nMarnelle is art name for female royal physician, an adult woman about45 with DEEP BROWN skin, short CLOSE-CROPPED tightly curled black hair, broad straight nose, square practical face, dark eyes and average sturdy build. Her identity is DISTINCT from the fair young woman in style reference and from the royal family. Plain practical OLIVE-BROWN long coat over a dark simple ankle-length dress with linen cuffs and flat dark shoes. No white modern doctor's coat, stethoscope, syringe, badge, jewelry, medical insignia, magic healing beam or invented technology.\nTwo unclipped complete body views front three-quarter and rear three-quarter; one hand carries small closed brown medical case, other relaxed; same short hair and clothing. Right: same-face head studies labelled \"Attending\" and \"After\", latter quietly grave; age and facial proportions stable. Bottom: open medical case containing ONLY several simple medicine bottles and linen, label \"Medicine case\"; isolated bottle with small drops about to fall into a BLUE ceramic cup, label \"Measured drops\", no hand anatomy duplication. These are the ordinary source's caregiving equipment; NOT poison villain props. No furniture or room.\nTime is bedside late NIGHT. Strictly match dark VALUE RANGE of completed Vesran reference3: deep brown skin maintains rich deep shadow planes, limited muted warm lamp light on nearer cheek, nose and working hands; most olive-brown coat remains dark connected mass, far eyes not highlighted, no smooth glossy skin. Bright ivory folio stays bright, skin not lightened for visibility. Source room reference2 guides lamp direction and subdued blue/gray shadow only. Broad matte bristle oil on face, cropped hair, linen and case, selective thick paint not uniform flecks. No ground patches or paint swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and folio style only",
+                "inspected": true,
+                "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+                "role": "nighttime sickroom lamp light and gray/blue material palette only",
+                "inspected": true,
+                "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+                "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+                "role": "Strict low-lamp night value and oil consistency reference only; no identity or outfit transfer.",
+                "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-6022414e-c5e6-4d3c-a776-b62c165ec956.png",
+            "outputSha256": "ab6abe9755c23ccfd49a7d8bba8366860dd70dab49d8bc3633b98a47098bdcec",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:12:06.107734+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Strict low-lamp night value and oil consistency reference only; no identity or outfit transfer.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:12:06.107773+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "ab6abe9755c23ccfd49a7d8bba8366860dd70dab49d8bc3633b98a47098bdcec",
+        "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and folio style only",
+            "inspected": true,
+            "notes": "Broad matte painted face/hair/materials, quiet ivory, isolated character views; not identity.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/interiors/02-the-kings-room.png",
+            "role": "nighttime sickroom lamp light and gray/blue material palette only",
+            "inspected": true,
+            "notes": "Amber lamp against deep cool violet-gray cloth and nighttime blue; no furniture/background transfer.",
+            "sha256": "c24f158da624ce4e9c3edbd37e2847663ce494374368024812a61033366934c5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "Strict low-lamp night value and oil consistency reference only; no identity or outfit transfer.",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct deep-brown-skinned adult physician with consistent short tightly curled hair, square face, same olive coat/dark dress across full views and heads.",
+          "Whole bodies unclipped and anatomically ordinary; medical case has simple bottles/linen, blue cup and measured drops source-supported; no modern apparatus or magical healing.",
+          "Low lamp values keep dark skin and olive clothing shadows intact; face/hair retain broad matte paint, not brightened glossy portrait.",
+          "Name/title and labels clear, no other character or location, no ground scene/palette strip. Source role/art-name provenance preserved."
+        ],
+        "specificationSha256": "f6c71e538835118c99a3ab371ec0b106b7a23fb88836394ae4cd3393750ef40c"
+      },
+      "lighting": "Night bedside lamp: restricted muted warm near cheek and working fingers, large olive-brown and cool umber-violet shadow groups, no bright doctor studio.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "ab6abe9755c23ccfd49a7d8bba8366860dd70dab49d8bc3633b98a47098bdcec"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "badffbb6e3db201618c7e28e804fd72b697ad0653b6e9b5d6cb28e3888c6f1f0",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
