@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-last-monster",
+  "title": "The Last Monster",
+  "source": "stories/the-last-monster/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Salken drives every scene. The small guardian and dependent are sustained central presences across the choice, ascent, grate escape and non-pursuit resolution.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Lantern-bearer, two spillway figures, varied evacuating inhabitants and surface searchers",
+      "reason": "Brief non-individualized encounters or terminal collective scene; guardian/dependent represent the sustained central relationship, without merging other inhabitants into their identities."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Salken",
+    "universe/factions.md#Unnamed inhabitants of Salken's dungeon",
+    "universe/factions.md#Unnamed searchers in Salken's incident"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Salken canon does not establish gender or age; adult androgynous rendering follows cover without assigning gender or canonical age.",
+    "Guardian species, anatomy details, kinship and ages remain unresolved; cautious visual choices and authorized art-only names do not modify LOCKED unnamed source facts.",
+    "Cover background humans do not establish guardian/dependent identities; source narrow back, long joints, small body and perceived claws/teeth guide restrained art interpretation."
+  ],
+  "characters": [
+    {
+      "id": "salken",
+      "name": "Salken",
+      "role": "Deprived dungeon survivor choosing restraint",
+      "selectionEvidence": [
+        {
+          "quote": "Your gear keeps the count that your mind cannot.",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "Cord holds both soles to your boots.",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "A white seam crosses your forearm beneath three newer cuts.",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "You open your hands and kneel.",
+          "explanation": "Final finished story evidence"
+        }
+      ],
+      "form": "Human-presenting ungendered survivor",
+      "storyAppearance": {
+        "anatomy": "Human-presenting ungendered survivor",
+        "lifeStage": "Unspecified, adult art interpretation",
+        "proportions": "Deprived/worn; cover slender",
+        "markings": "Old pale forearm seam under three newer non-graphic cuts; grime",
+        "materials": "Rusted metal, worn leather, tied boot soles, tattered dark cloth",
+        "clothing": "Boots, belt tightened two extra holes, sleeve with loose thread; cover dark layers and partial armor",
+        "equipment": "Rusty sword, lantern at shoulder initially; stamped curling-line buckle; final wrists bound, no sword",
+        "scale": "Adult human art choice",
+        "movement": "Crouch, crawl, waiting with palms visible, final kneeling",
+        "distinctiveFeatures": "Uncertain perception does not imply magic, evil anatomy, diagnosis or cure"
+      },
+      "explicitCanon": [
+        "Only named source person; gender/age unknown.",
+        "Belt holes, cord sole repairs, old seam/three newer cuts are prose facts; side unspecified.",
+        "Sword/lantern belong to earlier state; final sword left behind, hands bound and open."
+      ],
+      "visualInterpretation": [
+        "Androgynous adult, pale olive skin, gaunt angular face, messy black chin/nape length hair and dark gray eyes based on cover; no sex label.",
+        "Dark charcoal tattered scarf/cape, dull brown repaired leather and small corroded left shoulder plate as subordinate cover choices; right forearm torn sleeve exposes non-graphic old seam and three fine newer marks.",
+        "Two body states: underground front and rear with sword/shoulder lantern; small final kneeling body with bound open wrists, no sword or lantern."
+      ],
+      "states": [
+        {
+          "name": "Below",
+          "description": "Complete underground front and back, sword and shoulder lantern."
+        },
+        {
+          "name": "After escape",
+          "description": "Unarmed kneeling, wrists bound in front, stamped buckle and torn strap remain."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-last-monster:salken",
+        "links": [],
+        "evidence": "No cross-story identity inferred; local source and LOCKED Salken/factions facts respected."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-monster/title-image.jpg",
+          "role": "Salken cover identity and worn gear; dark hair/angular face/charcoal layers, subordinate nonbinding anatomy for background figures",
+          "notes": "Cover shoulder lantern placement and background apparently-human people do not override source ambiguous guardian; adapt all rendering to oil.",
+          "inspected": true,
+          "sha256": "41fc981f6da06f08afb1cc24107344d706ef5b42522fd99fd91fe020cc5f0b50"
+        },
+        {
+          "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+          "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+          "notes": "No chamber or floor copied.",
+          "inspected": true,
+          "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+        },
+        {
+          "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+          "role": "Pale gray dawn and olive/umber collection palette",
+          "notes": "Use only late-state light, no hillside copied.",
+          "inspected": true,
+          "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Salken"
+      },
+      "output": "stories/the-last-monster/art/characters/salken.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "interrupted-no-candidate",
+            "requestedAt": "2026-09-24T10:55:00.541Z",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Salken\" and subtitle \"The Last Monster\". The cover in image 2 controls this ONE identity: adult ANDROGYNOUS human survivor, gaunt angular pale-olive face, hollow dark-gray eyes, messy black hair ending at chin/nape, slender deprived build. No gender label, heroic glow or demonic features. Preserve dark charcoal torn scarf/cape, faded brown repaired leather torso layers, small dull corroded LEFT shoulder plate, trousers and battered boots tied with cord around BOTH soles. Belt visibly tightened at extra crudely punched holes. A torn RIGHT forearm sleeve reveals a pale old scar line and three finer newer reddish marks, non-graphic. Rust coats LOWER HALF of ordinary straight sword. Small metal buckle stamped simple curling line at shoulder; early lantern hangs there by leather strap. No pristine armor or red cloak.\nLayout: left full front threequarter standing BELOW, right hand holds sword pointed down, shoulder lantern faintly lit. Center full BACK standing in same early gear, consistent plate and lantern side. Upper-right face study with same black hair/angular exhausted face and bold dark oil planes. Lower-right smaller complete KNEELING body labeled \"After escape\": sword and lantern ABSENT, torn lantern strap and stamped buckle remain; wrists loosely bound TOGETHER IN FRONT, hands OPEN palms slightly upward, human five-digit hands. No blade, ghost blade, shadow scenery or other people in late state. Optional small cord-bound boot detail only if space clear.\nBefore-state light DARK UNDERGROUND: 75 percent connected cool slate/umber shadow; only sparse muted amber reflection from hanging lantern, not glowing whole clothing or face. Late kneeling view pale COOL GRAY DAWN light as landscape reference, face still shadowed and distressed. Ivory ground remains quiet/light throughout, no foot or knee shadows. The interior and landscape are paint/light references only, never reproduced as backdrop. Heavy form-building broad matte paint especially face, forehead, cheeks, hands; sharp readable features through few confident strokes. No cartoon contours. All full silhouettes entire and unclipped.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto rendering, not identity, costume, floor or swatch content",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-last-monster/title-image.jpg",
+                "role": "Salken cover identity and worn gear; dark hair/angular face/charcoal layers, subordinate nonbinding anatomy for background figures",
+                "notes": "Cover shoulder lantern placement and background apparently-human people do not override source ambiguous guardian; adapt all rendering to oil.",
+                "inspected": true,
+                "sha256": "41fc981f6da06f08afb1cc24107344d706ef5b42522fd99fd91fe020cc5f0b50"
+              },
+              {
+                "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+                "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+                "notes": "No chamber or floor copied.",
+                "inspected": true,
+                "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+              },
+              {
+                "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+                "role": "Pale gray dawn and olive/umber collection palette",
+                "notes": "Use only late-state light, no hillside copied.",
+                "inspected": true,
+                "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+              }
+            ],
+            "interruption": "Built-in call aborted by user after 39.9 seconds; no result returned. Resumed call checked default generated_images timestamps and latest candidate around request time; it belongs to another worker Taremet, no Salken output or resumable handle found."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:06:00.202165+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Salken\" and subtitle \"The Last Monster\". The cover in image 2 controls this ONE identity: adult ANDROGYNOUS human survivor, gaunt angular pale-olive face, hollow dark-gray eyes, messy black hair ending at chin/nape, slender deprived build. No gender label, heroic glow or demonic features. Preserve dark charcoal torn scarf/cape, faded brown repaired leather torso layers, small dull corroded LEFT shoulder plate, trousers and battered boots tied with cord around BOTH soles. Belt visibly tightened at extra crudely punched holes. A torn RIGHT forearm sleeve reveals a pale old scar line and three finer newer reddish marks, non-graphic. Rust coats LOWER HALF of ordinary straight sword. Small metal buckle stamped simple curling line at shoulder; early lantern hangs there by leather strap. No pristine armor or red cloak.\nLayout: left full front threequarter standing BELOW, right hand holds sword pointed down, shoulder lantern faintly lit. Center full BACK standing in same early gear, consistent plate and lantern side. Upper-right face study with same black hair/angular exhausted face and bold dark oil planes. Lower-right smaller complete KNEELING body labeled \"After escape\": sword and lantern ABSENT, torn lantern strap and stamped buckle remain; wrists loosely bound TOGETHER IN FRONT, hands OPEN palms slightly upward, human five-digit hands. No blade, ghost blade, shadow scenery or other people in late state. Optional small cord-bound boot detail only if space clear.\nBefore-state light DARK UNDERGROUND: 75 percent connected cool slate/umber shadow; only sparse muted amber reflection from hanging lantern, not glowing whole clothing or face. Late kneeling view pale COOL GRAY DAWN light as landscape reference, face still shadowed and distressed. Ivory ground remains quiet/light throughout, no foot or knee shadows. The interior and landscape are paint/light references only, never reproduced as backdrop. Heavy form-building broad matte paint especially face, forehead, cheeks, hands; sharp readable features through few confident strokes. No cartoon contours. All full silhouettes entire and unclipped.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto rendering, not identity, costume, floor or swatch content",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-last-monster/title-image.jpg",
+                "role": "Salken cover identity and worn gear; dark hair/angular face/charcoal layers, subordinate nonbinding anatomy for background figures",
+                "notes": "Cover shoulder lantern placement and background apparently-human people do not override source ambiguous guardian; adapt all rendering to oil.",
+                "inspected": true,
+                "sha256": "41fc981f6da06f08afb1cc24107344d706ef5b42522fd99fd91fe020cc5f0b50"
+              },
+              {
+                "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+                "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+                "notes": "No chamber or floor copied.",
+                "inspected": true,
+                "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+              },
+              {
+                "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+                "role": "Pale gray dawn and olive/umber collection palette",
+                "notes": "Use only late-state light, no hillside copied.",
+                "inspected": true,
+                "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-012e6014-9b1a-475a-985f-5cfadc68b39f.png",
+            "outputSha256": "aa4194b4056ffe65bdbed65be8f24d202d62c5c5b4136fb51770edee572d951f",
+            "completedAt": "2026-09-24T11:07:40.294543+00:00",
+            "reviewFindings": [
+              "Correct named identity, early/final equipment separation, ivory and unclipped forms. Facial rendering still has fine anime-like contours/smooth detailed planes unlike broad house paint; boots show shin lacing but need separate sole-retaining loops."
+            ]
+          },
+          {
+            "prompt": "Edit image 1 Salken sheet. Preserve exact Salken identity, dark hair, facial geometry, body proportions, every pose, positions, unclipped silhouettes, ivory ground, title lettering, shoulder-gear side, sword/lantern early versus absent in kneeling late state, and non-graphic forearm scar history. Make TWO targeted corrections:\n1 Render ALL face and hand studies with the same BROAD CONNECTED OPAQUE MATTE OIL masses as the approved style image 2. Repaint forehead, nose, cheeks, jaw, eyes and hair as bold sculpted bristle/knife planes. Eliminate anime ink line contours, fine realistic eyelids and smooth skin. Preserve angular exhausted androgynous adult appearance, never copy image 2 woman's face or outfit. Keep face deep cool slate/umber shade with only small dull lantern/dawn planes, no glamor or new bright light. Cloth can simplify into connected paint masses too.\n2 BOTH boot soles are failing and physically held onto uppers by rough CORD LOOPS running ACROSS FOOT and UNDER THE SOLE, distinct from the existing shin lacing. Paint two clearly readable wraparound cord loops over each forefoot/instep in the main front and rear views, retaining all boot geometry. No foot-floor shadow. All other content unchanged. Hands human five digits, exactly two arms and legs; late figure both wrists bound together and open hands, no added weapon. No new scenery, floor, ground patches or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-012e6014-9b1a-475a-985f-5cfadc68b39f.png",
+                "role": "Edit target preserves Salken identity, states, layout and gear",
+                "inspected": true,
+                "sha256": "aa4194b4056ffe65bdbed65be8f24d202d62c5c5b4136fb51770edee572d951f"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved broad connected impasto on face/hands only; no woman's identity/redcloak/equipment/background transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              }
+            ],
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:08:01.530195+00:00",
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-853266a3-b733-43fe-a359-209eea9538e9.png",
+            "outputSha256": "5be3332d672274ff0ecb99e0f643414605dfb29ef164ff2a4c155f1e4e922545",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:09:19.506143+00:00",
+            "reviewFindings": [
+              "Inspected saved candidate: same angular exhausted androgynous cover face, messy black hair, charcoal/leather worn gear across all views. Heavier opaque oil planes now build skin and hands, no smooth anime face.",
+              "Rust on lower sword, shoulder lantern and stamped buckle early; final kneeling body has bound open wrists with no sword/lantern. Right forearm old pale seam and three newer marks, cord loops now clearly bind both soles, not only shin laces.",
+              "Unclipped forms and readable exact name/title; warm ivory uninterrupted with no floor/scenery/swatches. Dark slate/umber underground values and limited dawn planes retained. Human anatomy and left-shoulder gear consistent front/back."
+            ]
+          }
+        ],
+        "preflight": "Finished prose read in full; authoritative bundle canon:true and LOCKED universe entries inspected. Additive art authorized; no source edits. Actual cover, interior, landscape and style pixels inspected. Unresolved anatomy and identity choices remain explicitly art-only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-012e6014-9b1a-475a-985f-5cfadc68b39f.png",
+            "role": "Edit target preserves Salken identity, states, layout and gear",
+            "inspected": true,
+            "sha256": "aa4194b4056ffe65bdbed65be8f24d202d62c5c5b4136fb51770edee572d951f"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad connected impasto on face/hands only; no woman's identity/redcloak/equipment/background transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          }
+        ],
+        "prompt": "Edit image 1 Salken sheet. Preserve exact Salken identity, dark hair, facial geometry, body proportions, every pose, positions, unclipped silhouettes, ivory ground, title lettering, shoulder-gear side, sword/lantern early versus absent in kneeling late state, and non-graphic forearm scar history. Make TWO targeted corrections:\n1 Render ALL face and hand studies with the same BROAD CONNECTED OPAQUE MATTE OIL masses as the approved style image 2. Repaint forehead, nose, cheeks, jaw, eyes and hair as bold sculpted bristle/knife planes. Eliminate anime ink line contours, fine realistic eyelids and smooth skin. Preserve angular exhausted androgynous adult appearance, never copy image 2 woman's face or outfit. Keep face deep cool slate/umber shade with only small dull lantern/dawn planes, no glamor or new bright light. Cloth can simplify into connected paint masses too.\n2 BOTH boot soles are failing and physically held onto uppers by rough CORD LOOPS running ACROSS FOOT and UNDER THE SOLE, distinct from the existing shin lacing. Paint two clearly readable wraparound cord loops over each forefoot/instep in the main front and rear views, retaining all boot geometry. No foot-floor shadow. All other content unchanged. Hands human five digits, exactly two arms and legs; late figure both wrists bound together and open hands, no added weapon. No new scenery, floor, ground patches or swatches.",
+        "selectedAttempt": 3
+      },
+      "lighting": "Deep slate/umber underground shade with sparse lantern amber; pale cool dawn only in labeled late state.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "5be3332d672274ff0ecb99e0f643414605dfb29ef164ff2a4c155f1e4e922545",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:09:19.506143+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "5be3332d672274ff0ecb99e0f643414605dfb29ef164ff2a4c155f1e4e922545",
+        "sourceSha256": "6afdd28e7723f7964c5c1ed05b7e32fdf70ee13118abfbcecb127fde0f07a1bf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-012e6014-9b1a-475a-985f-5cfadc68b39f.png",
+            "role": "Edit target preserves Salken identity, states, layout and gear",
+            "inspected": true,
+            "sha256": "aa4194b4056ffe65bdbed65be8f24d202d62c5c5b4136fb51770edee572d951f"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad connected impasto on face/hands only; no woman's identity/redcloak/equipment/background transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          }
+        ],
+        "evidence": [
+          "Inspected saved candidate: same angular exhausted androgynous cover face, messy black hair, charcoal/leather worn gear across all views. Heavier opaque oil planes now build skin and hands, no smooth anime face.",
+          "Rust on lower sword, shoulder lantern and stamped buckle early; final kneeling body has bound open wrists with no sword/lantern. Right forearm old pale seam and three newer marks, cord loops now clearly bind both soles, not only shin laces.",
+          "Unclipped forms and readable exact name/title; warm ivory uninterrupted with no floor/scenery/swatches. Dark slate/umber underground values and limited dawn planes retained. Human anatomy and left-shoulder gear consistent front/back."
+        ],
+        "specificationSha256": "13781e3954978fee6e8ac8b0b47932af71e4fb7a4e78f0a6cbc41e182e3ced5e"
+      }
+    },
+    {
+      "id": "zhelik",
+      "name": "Zhelik",
+      "role": "Small guardian who protects a dependent and leaves route open",
+      "selectionEvidence": [
+        {
+          "quote": "a small figure stands at a crack in the rising floor",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "The guardian folding its own body over the smaller one",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "You see only a narrow back, long joints, the glint of its metal scrap.",
+          "explanation": "Final finished story evidence"
+        }
+      ],
+      "form": "Small narrow-backed long-jointed being, species unresolved",
+      "storyAppearance": {
+        "anatomy": "Small narrow-backed long-jointed being, species unresolved",
+        "lifeStage": "Unknown, caregiver role not biological age proof",
+        "proportions": "Small relative to Salken; long joints",
+        "markings": "None established",
+        "materials": "Visible claws/teeth perceived; material unspecified",
+        "clothing": "Unspecified; woven fiber is dependent's bedding",
+        "equipment": "Sharp metal strip used defensively and as tool",
+        "scale": "Smaller than adult Salken; no exact height",
+        "movement": "Folds over dependent, shaking, tapping chest, climbing, carrying",
+        "distinctiveFeatures": "Teeth bared, averted face, sharp scrap lowered until frightened; no objective monster taxonomy"
+      },
+      "explicitCanon": [
+        "Nonhuman appearance uncertain in Salken's unreliable perception; no named species.",
+        "No horns/wings/tail or extra arms established for THIS guardian; earlier longlimbed four-arm impression is separate unidentified inhabitant.",
+        "Metal scrap and three chest taps are ordinary actions, not magical powers."
+      ],
+      "visualInterpretation": [
+        "Authorized art name Zhelik newly assigned only in art metadata/heading, source remains unnamed.",
+        "Small around 105cm as visual scale, ash-olive skin, narrow elongated face, large dark eyes, sparse soot hair, very long flexed limbs; two arms/two legs only. Bending posture does not canonically settle joint taxonomy.",
+        "Plain worn gray-brown fiber hip/shoulder wrap is modest art interpretation; no armor or weapon beyond metal scrap. Five slender claw-tipped digits per hand; no creature species label."
+      ],
+      "states": [
+        {
+          "name": "Guarding",
+          "description": "Deep crouch, narrow back protectively hunched, scrap point down."
+        },
+        {
+          "name": "Ascending",
+          "description": "Complete backthreequarter folded climbing posture, no dependent/body duplicate."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-last-monster:zhelik",
+        "links": [],
+        "evidence": "No cross-story identity inferred; local source and LOCKED Salken/factions facts respected."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-monster/title-image.jpg",
+          "role": "Salken cover identity and worn gear; dark hair/angular face/charcoal layers, subordinate nonbinding anatomy for background figures",
+          "notes": "Cover shoulder lantern placement and background apparently-human people do not override source ambiguous guardian; adapt all rendering to oil.",
+          "inspected": true,
+          "sha256": "41fc981f6da06f08afb1cc24107344d706ef5b42522fd99fd91fe020cc5f0b50"
+        },
+        {
+          "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+          "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+          "notes": "No chamber or floor copied.",
+          "inspected": true,
+          "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+        },
+        {
+          "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+          "role": "Pale gray dawn and olive/umber collection palette",
+          "notes": "Use only late-state light, no hillside copied.",
+          "inspected": true,
+          "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Zhelik",
+        "sourceRole": "unnamed small guardian",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "No recoverable historical name found; distinct new art-only name, not a shared canon rename."
+      },
+      "output": "stories/the-last-monster/art/characters/zhelik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:09:47.280523+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Zhelik\", subtitle \"The Last Monster\". This is a restrained ART INTERPRETATION of the small unnamed GUARDIAN, not a known species. One identity only; no child/second creature on this plate. Roughly one meter tall relative to an adult human, narrow-backed, slight chest, long flexed limbs, deep wary crouch. TWO long arms and TWO long legs; five slender claw-tipped digits on each hand, long narrow feet. No extra arms, horns, wings, tail or magical anatomy. Knees deeply folded in natural ambiguous side views; do not exaggerate into insect legs. Small elongated ash-olive face, low narrow nose, large dark wary eyes, sparse short soot-gray hair, short rounded ears, small uneven exposed teeth. Creature unfamiliar but physically vulnerable, not snarling villain. Mature guardian role with no asserted species/age/kinship. Keep face ART PAINTED in broad visible connected oil planes, no realistic human beauty face or chibi cartoon.\nModest plain worn gray-brown FIBER WRAP covers pelvis and one shoulder, simple hanging fold, no armor/boots/jewelry or elaborate invented culture. A SINGLE plain sharp bent METAL STRIP is held point DOWN in guarding view, ordinary salvage tool not sword/dagger with hilt.\nLayout: full crouching frontthreequarter left, shoulders hunched protectively over EMPTY negative space, free hand close against own chest, metal scrap down. Full rear threequarter folded ascent posture center, entire narrow back/long limbs/head/feet visible, NO architecture and no dependent. Upper-right face study averted wary gaze/teeth barely showing. Lower-right single ordinary bent strip detail and small FIVE-digit clawed hand closeup with full visible wrist, caption \"Guarding\"; no claw fantasy count. All studies consistent ash-olive skin, small black hair, fiber wrap. No scene, environment, floor marks, shadows below feet, scales drawn as diagrams, labels about monsters/species or other identity.\nStory light DARK nearly extinguished lantern and distant cool dawn: broad connected charcoal-blue/umber shadow over most skin and wraps, modest cool-gray rim and tiny warm edge only. Not cheerful sunlit olivegreen goblin. Paint weight, connected low-key masses and directional strokes should harmonize with image 2 dark interior; no interior copied. Warm ivory ground clean.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto rendering, not identity, costume, floor or swatch content",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+                "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+                "notes": "No chamber or floor copied.",
+                "inspected": true,
+                "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+              },
+              {
+                "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+                "role": "Pale gray dawn and olive/umber collection palette",
+                "notes": "Use only late-state light, no hillside copied.",
+                "inspected": true,
+                "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-0aa28de6-427c-41be-bf3c-e3511514a308.png",
+            "outputSha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:11:33.190281+00:00",
+            "reviewFindings": [
+              "Actual pixels show narrow back and long flexed two-arm/two-leg body, wary averted face and lowered plain metal scrap. No extra limbs/horns/tail, no second identity. Five-digit clawed hand detail consistent with restrained art interpretation.",
+              "Broad opaque ash-olive/slate/umber skin masses and rough fiber wrap, directional impasto through face; dim cool shade with small warm edges harmonizes with source interior.",
+              "Exact art-only heading Zhelik and source title, full unclipped crouched/front and back forms; clean ivory no scenery/floor/swatches. No species label or canon name/kinship assertion."
+            ]
+          }
+        ],
+        "preflight": "Finished prose read in full; authoritative bundle canon:true and LOCKED universe entries inspected. Additive art authorized; no source edits. Actual cover, interior, landscape and style pixels inspected. Unresolved anatomy and identity choices remain explicitly art-only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto rendering, not identity, costume, floor or swatch content",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+            "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+            "notes": "No chamber or floor copied.",
+            "inspected": true,
+            "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+          },
+          {
+            "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+            "role": "Pale gray dawn and olive/umber collection palette",
+            "notes": "Use only late-state light, no hillside copied.",
+            "inspected": true,
+            "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Zhelik\", subtitle \"The Last Monster\". This is a restrained ART INTERPRETATION of the small unnamed GUARDIAN, not a known species. One identity only; no child/second creature on this plate. Roughly one meter tall relative to an adult human, narrow-backed, slight chest, long flexed limbs, deep wary crouch. TWO long arms and TWO long legs; five slender claw-tipped digits on each hand, long narrow feet. No extra arms, horns, wings, tail or magical anatomy. Knees deeply folded in natural ambiguous side views; do not exaggerate into insect legs. Small elongated ash-olive face, low narrow nose, large dark wary eyes, sparse short soot-gray hair, short rounded ears, small uneven exposed teeth. Creature unfamiliar but physically vulnerable, not snarling villain. Mature guardian role with no asserted species/age/kinship. Keep face ART PAINTED in broad visible connected oil planes, no realistic human beauty face or chibi cartoon.\nModest plain worn gray-brown FIBER WRAP covers pelvis and one shoulder, simple hanging fold, no armor/boots/jewelry or elaborate invented culture. A SINGLE plain sharp bent METAL STRIP is held point DOWN in guarding view, ordinary salvage tool not sword/dagger with hilt.\nLayout: full crouching frontthreequarter left, shoulders hunched protectively over EMPTY negative space, free hand close against own chest, metal scrap down. Full rear threequarter folded ascent posture center, entire narrow back/long limbs/head/feet visible, NO architecture and no dependent. Upper-right face study averted wary gaze/teeth barely showing. Lower-right single ordinary bent strip detail and small FIVE-digit clawed hand closeup with full visible wrist, caption \"Guarding\"; no claw fantasy count. All studies consistent ash-olive skin, small black hair, fiber wrap. No scene, environment, floor marks, shadows below feet, scales drawn as diagrams, labels about monsters/species or other identity.\nStory light DARK nearly extinguished lantern and distant cool dawn: broad connected charcoal-blue/umber shadow over most skin and wraps, modest cool-gray rim and tiny warm edge only. Not cheerful sunlit olivegreen goblin. Paint weight, connected low-key masses and directional strokes should harmonize with image 2 dark interior; no interior copied. Warm ivory ground clean.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Deep slate/umber underground shade with sparse lantern amber; pale cool dawn only in labeled late state.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:11:33.190281+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0",
+        "sourceSha256": "6afdd28e7723f7964c5c1ed05b7e32fdf70ee13118abfbcecb127fde0f07a1bf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto rendering, not identity, costume, floor or swatch content",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+            "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+            "notes": "No chamber or floor copied.",
+            "inspected": true,
+            "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+          },
+          {
+            "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+            "role": "Pale gray dawn and olive/umber collection palette",
+            "notes": "Use only late-state light, no hillside copied.",
+            "inspected": true,
+            "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show narrow back and long flexed two-arm/two-leg body, wary averted face and lowered plain metal scrap. No extra limbs/horns/tail, no second identity. Five-digit clawed hand detail consistent with restrained art interpretation.",
+          "Broad opaque ash-olive/slate/umber skin masses and rough fiber wrap, directional impasto through face; dim cool shade with small warm edges harmonizes with source interior.",
+          "Exact art-only heading Zhelik and source title, full unclipped crouched/front and back forms; clean ivory no scenery/floor/swatches. No species label or canon name/kinship assertion."
+        ],
+        "specificationSha256": "3c4c606339874f44021c3c377c99248a56d3b86653fe85eefaff08bbea4a40cb"
+      }
+    },
+    {
+      "id": "nishet",
+      "name": "Nishet",
+      "role": "Smaller dependent protected during the escape",
+      "selectionEvidence": [
+        {
+          "quote": "a smaller body curls beneath a bundle of woven fiber",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "the smaller one clinging to its back",
+          "explanation": "Final finished story evidence"
+        },
+        {
+          "quote": "The smaller body whimpers.",
+          "explanation": "Final finished story evidence"
+        }
+      ],
+      "form": "Small dependent body; species/anatomy unspecified",
+      "storyAppearance": {
+        "anatomy": "Small dependent body; species/anatomy unspecified",
+        "lifeStage": "Unknown dependent, childlike art scale only",
+        "proportions": "Smaller than guardian",
+        "markings": "Unspecified",
+        "materials": "Woven fiber bedding",
+        "clothing": "Wrapped in woven fiber",
+        "equipment": "None",
+        "scale": "Smaller than Zhelik visual interpretation",
+        "movement": "Curls under bedding, clings, climbs through escape gap",
+        "distinctiveFeatures": "Vulnerable dependency, no invented powers or family link"
+      },
+      "explicitCanon": [
+        "Dependent is smaller, carried and protected; source does not establish kinship, species or age.",
+        "No independent equipment or magic."
+      ],
+      "visualInterpretation": [
+        "Art-only name Nishet under user instruction, source remains unnamed.",
+        "Restrained small ash-olive figure around 50cm, soft short charcoal hair, narrow face and large wary brown eyes; matching broad bodily family as visual choice not shared species/kinship claim.",
+        "Two arms/two legs, five small digits; wrapped in coarse gray-brown fiber, no exposed sexual features, tail, horns or wings. Compact curled and clinging poses without a second identity on sheet."
+      ],
+      "states": [
+        {
+          "name": "Curled",
+          "description": "Complete wrapped seated curl, feet visible."
+        },
+        {
+          "name": "Clinging",
+          "description": "Back threequarter with arms flexed against own wrap, no guardian included."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-last-monster:nishet",
+        "links": [],
+        "evidence": "No cross-story identity inferred; local source and LOCKED Salken/factions facts respected."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-monster/title-image.jpg",
+          "role": "Salken cover identity and worn gear; dark hair/angular face/charcoal layers, subordinate nonbinding anatomy for background figures",
+          "notes": "Cover shoulder lantern placement and background apparently-human people do not override source ambiguous guardian; adapt all rendering to oil.",
+          "inspected": true,
+          "sha256": "41fc981f6da06f08afb1cc24107344d706ef5b42522fd99fd91fe020cc5f0b50"
+        },
+        {
+          "path": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
+          "role": "Dark connected umber/slate painted mass and limited warm lantern light",
+          "notes": "No chamber or floor copied.",
+          "inspected": true,
+          "sha256": "35b9a86f0724217bba21adec827f2757d2c685c9cfdcdc38a65cf111f2f3d987"
+        },
+        {
+          "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+          "role": "Pale gray dawn and olive/umber collection palette",
+          "notes": "Use only late-state light, no hillside copied.",
+          "inspected": true,
+          "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Nishet",
+        "sourceRole": "unnamed smaller dependent",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "Distinct art-only name, no canon identity or kinship established."
+      },
+      "output": "stories/the-last-monster/art/characters/nishet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:11:34.203847+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Nishet\", subtitle \"The Last Monster\". ONE small dependent body from the source, not the guardian and not any known species; restrained art interpretation with no biological age or kinship claim. The SECOND reference Zhelik gives body-material and paint-family context only: make Nishet a DISTINCT much SMALLER individual, soft narrow oval face and shorter nose, large wary darkbrown eyes, close soft charcoal hair and small rounded ears. Muted ash-olive skin, two short arms and two compact folded legs, humanlike joint topology, five small digits each hand/foot, no wings, horns, tail or extra limbs. Childlike small proportions are an art choice for dependency; no specified age. Not a snarling goblin or cheerful chibi.\nNishet stays modestly covered by coarse GRAY-BROWN woven-fiber bedding wrapped around torso and pelvis. No invented armor, metal tools, jewelry, shoes or magic; no second person. Left complete seated CURLED posture with wrap around shoulders, knees drawn up, one bare foot and both small hands emerging naturally; center complete rearthreequarter CLINGING posture with arms folded against its own wrap and knees flexed, showing arrangement without any guardian body or prop. Upperright small face study nervous whimper/open mouth, no spectacular fangs. Lower-right close study of BOTH small hands grasping an edge of their own fiber wrap, ordinary five digits not long threatening claws. Keep body forms unclipped and widely spaced.\nSource light late tunnel COOL GRAY DAWN edge with dominant dark slate/umber shadows across body/face/fiber. No warm studio flood or cartoon pastel palette. BROAD connected oil paint planes directly sculpt all skin, cloth and hair, visible matte directional bristle and knife ridges; matching family with actual Zhelik sheet, not copying its face or adult limbs. Ivory remains clean, no ground shadows or scenery. Third landscape only guides cool dawn, never a scene or vignette.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved broad impasto only, no identity or composition transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-0aa28de6-427c-41be-bf3c-e3511514a308.png",
+                "role": "Same-story matte oil skin/fiber family and cool shadow; distinct smaller identity, no taxonomic/kinship claim",
+                "inspected": true,
+                "sha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0"
+              },
+              {
+                "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+                "role": "Pale cool dawn light only",
+                "inspected": true,
+                "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-df9440cc-38ef-49bc-9738-7f8912b79664.png",
+            "outputSha256": "35344ae87b706c206f5863cc88ae3ad127f7ec1ebeab9dc50aa41bb594414ddc",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:12:55.711867+00:00",
+            "reviewFindings": [
+              "Actual pixels: distinct smaller dependent with softer face and shorter limbs than Zhelik, curled/wrapped and clinging postures; two arms/two legs with coherent hands/feet, no adult guardian or extra identity on sheet.",
+              "Broad matte oil ash-olive skin and gray-brown fiber, continuous impasto over faces/hands, subdued cool dawn planes and dark fabric shade. Modest wrapped figure, no unsupported equipment or powers.",
+              "Exact assigned art-only name and source title readable; full silhouettes unclipped, clean ivory without ground patches, scenery or swatches. Source unspecified age/species/kinship remains metadata uncertainty, not new canon."
+            ]
+          }
+        ],
+        "preflight": "Finished prose read in full; authoritative bundle canon:true and LOCKED universe entries inspected. Additive art authorized; no source edits. Actual cover, interior, landscape and style pixels inspected. Unresolved anatomy and identity choices remain explicitly art-only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad impasto only, no identity or composition transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-0aa28de6-427c-41be-bf3c-e3511514a308.png",
+            "role": "Same-story matte oil skin/fiber family and cool shadow; distinct smaller identity, no taxonomic/kinship claim",
+            "inspected": true,
+            "sha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0"
+          },
+          {
+            "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+            "role": "Pale cool dawn light only",
+            "inspected": true,
+            "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Nishet\", subtitle \"The Last Monster\". ONE small dependent body from the source, not the guardian and not any known species; restrained art interpretation with no biological age or kinship claim. The SECOND reference Zhelik gives body-material and paint-family context only: make Nishet a DISTINCT much SMALLER individual, soft narrow oval face and shorter nose, large wary darkbrown eyes, close soft charcoal hair and small rounded ears. Muted ash-olive skin, two short arms and two compact folded legs, humanlike joint topology, five small digits each hand/foot, no wings, horns, tail or extra limbs. Childlike small proportions are an art choice for dependency; no specified age. Not a snarling goblin or cheerful chibi.\nNishet stays modestly covered by coarse GRAY-BROWN woven-fiber bedding wrapped around torso and pelvis. No invented armor, metal tools, jewelry, shoes or magic; no second person. Left complete seated CURLED posture with wrap around shoulders, knees drawn up, one bare foot and both small hands emerging naturally; center complete rearthreequarter CLINGING posture with arms folded against its own wrap and knees flexed, showing arrangement without any guardian body or prop. Upperright small face study nervous whimper/open mouth, no spectacular fangs. Lower-right close study of BOTH small hands grasping an edge of their own fiber wrap, ordinary five digits not long threatening claws. Keep body forms unclipped and widely spaced.\nSource light late tunnel COOL GRAY DAWN edge with dominant dark slate/umber shadows across body/face/fiber. No warm studio flood or cartoon pastel palette. BROAD connected oil paint planes directly sculpt all skin, cloth and hair, visible matte directional bristle and knife ridges; matching family with actual Zhelik sheet, not copying its face or adult limbs. Ivory remains clean, no ground shadows or scenery. Third landscape only guides cool dawn, never a scene or vignette.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Deep slate/umber underground shade with sparse lantern amber; pale cool dawn only in labeled late state.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "35344ae87b706c206f5863cc88ae3ad127f7ec1ebeab9dc50aa41bb594414ddc",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:12:55.711867+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "35344ae87b706c206f5863cc88ae3ad127f7ec1ebeab9dc50aa41bb594414ddc",
+        "sourceSha256": "6afdd28e7723f7964c5c1ed05b7e32fdf70ee13118abfbcecb127fde0f07a1bf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad impasto only, no identity or composition transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-0aa28de6-427c-41be-bf3c-e3511514a308.png",
+            "role": "Same-story matte oil skin/fiber family and cool shadow; distinct smaller identity, no taxonomic/kinship claim",
+            "inspected": true,
+            "sha256": "314ff6b23d258b3b259f9f0200652f46bbe1b00224ce7bd066dfb6ddc135c2d0"
+          },
+          {
+            "path": "stories/the-last-monster/art/landscapes/01-the-dawn-hillside.png",
+            "role": "Pale cool dawn light only",
+            "inspected": true,
+            "sha256": "7135d4c7d80bc969cbf6b51a3a5b9bf954a629009c50aae188ef3f02e5b10306"
+          }
+        ],
+        "evidence": [
+          "Actual pixels: distinct smaller dependent with softer face and shorter limbs than Zhelik, curled/wrapped and clinging postures; two arms/two legs with coherent hands/feet, no adult guardian or extra identity on sheet.",
+          "Broad matte oil ash-olive skin and gray-brown fiber, continuous impasto over faces/hands, subdued cool dawn planes and dark fabric shade. Modest wrapped figure, no unsupported equipment or powers.",
+          "Exact assigned art-only name and source title readable; full silhouettes unclipped, clean ivory without ground patches, scenery or swatches. Source unspecified age/species/kinship remains metadata uncertainty, not new canon."
+        ],
+        "specificationSha256": "f12b9d0f4852fe12a41ced37a2768dfc619964c60d3f59a1ffd180c59ef875e8"
+      }
+    }
+  ],
+  "sourceSha256": "6afdd28e7723f7964c5c1ed05b7e32fdf70ee13118abfbcecb127fde0f07a1bf"
+}
