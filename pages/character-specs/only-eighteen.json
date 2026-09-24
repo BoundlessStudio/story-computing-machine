@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "slug": "only-eighteen",
+  "title": "Only Eighteen",
+  "source": "stories/only-eighteen/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source read from six-week twins' arrival to Ceveth's final sob after coach departure. Three sustained main identities Ceveth, Romy, Denzil; selected all in departure-day states, no multi-age montage needed.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "arrival woman, cook, other caretaker, younger children, driver, passenger and baker",
+      "reason": "Supporting functions, recalled help or future employer, no sustained main character arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ceveth",
+      "name": "Ceveth",
+      "role": "protagonist elf caretaker facing her human twins' departure",
+      "form": "adult female elf",
+      "selectionEvidence": [
+        {
+          "quote": "Her own face had hardly changed while his had acquired, in quick succession, freckles, spots, whiskers.",
+          "explanation": "Central life-scale difference and stable adult appearance."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult elf with almost two centuries of household experience; face hardly changes across twins' eighteen years.",
+        "anatomy": "Pointed ears from compatible cover, ears can angle back; no additional fantasy anatomy.",
+        "hair": "Cover dark hair in soft practical bun.",
+        "clothing": "Skirt, collar, sleeves and long-owned indoor shoes; compatible cover plain blue-gray long-sleeve dress.",
+        "equipment": "Mending/care items implied; she has owned indoor shoes for forty-three years.",
+        "movement": "Skilled caregiver, ordinary expression and hands; no visualized spell required for closed-mouth bell mimicry."
+      },
+      "visualInterpretation": [
+        "Preserve cover adult olive-brown face, curved narrow nose, dark eyes and dark soft bun; adult rather than child/old crone. Plain blue-gray ankle dress and worn low leather shoes.",
+        "Two departure-day full-body views; large held-smile face and isolated worn indoor-shoe detail; no babies or twins included."
+      ],
+      "states": [
+        {
+          "name": "Departure day",
+          "description": "Same adult elf face/clothes, holding parting smile."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "only-eighteen:ceveth",
+        "links": [],
+        "evidence": "Source-local identity, no exact universe/name memory match found."
+      },
+      "output": "stories/only-eighteen/art/characters/ceveth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Ceveth\"; exact title \"Only Eighteen\". One ADULT ELF WOMAN with a visibly mature adult face, compatible Image2 cover identity: warm olive-brown skin, long slightly curved narrow nose, slim oval face, dark eyes, dark brown hair swept into a soft practical BUN with loose strands. Graceful pointed ears plainly visible, ordinary human-like body apart from elf ears, no wings/horns/tail/glow. She has worked for almost two centuries but face remains much the same through eighteen years; do not turn her into a wrinkled old crone or a child. Modest ordinary caregiver stance.\nCover-compatible plain BLUE-GRAY full-sleeve button-front dress to ankles, simple fitted waist and modest collar, no apron/brooch/ornate fantasy embroidery; worn plain low brown leather shoes. Two complete same-costume full-body views labelled \"Departure day\" and \"Rear\", gentle upright front three-quarter and rear profile with same bun/pointed ear. Empty relaxed ordinary hands. Large matching face labelled \"Holding the smile\", a tender restrained smile at parting, moisture may sit below eyes but no theatrical tears. One isolated heavily worn simple soft leather INDOOR SHOE labelled \"Indoor shoe\", smooth from forty-three years of ownership; no shelf, rug or room. No babies, young people, coach, bells or woodland props.\nImage1 PRIMARY oil paint and supported bright summer near-noon light: broad warm pale daylight planes balanced by cool soft blue-lilac shade, no flashy rim or sparkly eyes. Image2 supplies Ceveth face/ears/hair/blue dress ONLY; replace its smoother rendering with bold Group of Seven bristle planes, matte painted skin. Do not copy the other person, green coat or setting. Preserve one adult identity in all views.",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source bright summer near-noon oil light and connected colour masses only; no road/landscape",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          },
+          {
+            "path": "stories/only-eighteen/title-image.jpg",
+            "role": "Ceveth compatible adult elf facial identity, pointed ears, dark bun and blue-gray plain dress only; no second identity or smoother rendering",
+            "inspected": true,
+            "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:24:16.488489+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Ceveth\"; exact title \"Only Eighteen\". One ADULT ELF WOMAN with a visibly mature adult face, compatible Image2 cover identity: warm olive-brown skin, long slightly curved narrow nose, slim oval face, dark eyes, dark brown hair swept into a soft practical BUN with loose strands. Graceful pointed ears plainly visible, ordinary human-like body apart from elf ears, no wings/horns/tail/glow. She has worked for almost two centuries but face remains much the same through eighteen years; do not turn her into a wrinkled old crone or a child. Modest ordinary caregiver stance.\nCover-compatible plain BLUE-GRAY full-sleeve button-front dress to ankles, simple fitted waist and modest collar, no apron/brooch/ornate fantasy embroidery; worn plain low brown leather shoes. Two complete same-costume full-body views labelled \"Departure day\" and \"Rear\", gentle upright front three-quarter and rear profile with same bun/pointed ear. Empty relaxed ordinary hands. Large matching face labelled \"Holding the smile\", a tender restrained smile at parting, moisture may sit below eyes but no theatrical tears. One isolated heavily worn simple soft leather INDOOR SHOE labelled \"Indoor shoe\", smooth from forty-three years of ownership; no shelf, rug or room. No babies, young people, coach, bells or woodland props.\nImage1 PRIMARY oil paint and supported bright summer near-noon light: broad warm pale daylight planes balanced by cool soft blue-lilac shade, no flashy rim or sparkly eyes. Image2 supplies Ceveth face/ears/hair/blue dress ONLY; replace its smoother rendering with bold Group of Seven bristle planes, matte painted skin. Do not copy the other person, green coat or setting. Preserve one adult identity in all views.",
+            "references": [
+              {
+                "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+                "role": "primary source bright summer near-noon oil light and connected colour masses only; no road/landscape",
+                "inspected": true,
+                "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+              },
+              {
+                "path": "stories/only-eighteen/title-image.jpg",
+                "role": "Ceveth compatible adult elf facial identity, pointed ears, dark bun and blue-gray plain dress only; no second identity or smoother rendering",
+                "inspected": true,
+                "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+              }
+            ],
+            "preflight": [
+              "Entire source, valid false marker and exact cover pixels inspected; one adult female elf, near-unchanging face, pointed ears, practical dark bun/blue dress supported.",
+              "Source summer-road painting inspected for white near-noon light; cover identity only, no Romy or smooth rendering.",
+              "One departure-day state avoids multi-age/person mixing; shoe detail supported by forty-three-year ownership, no magical bell or extra body."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e5976a02-867f-4734-ab9b-fee6abd14ef2.png",
+            "outputSha256": "9ea6d37f964e4b4bc1596a6b6da553dd525e135ce30840e47f442bc54f2499e8",
+            "finishedAt": "2026-09-24T03:34:02.502606+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels compared directly to source cover: consistent adult olive-brown elf face, curved narrow nose, pointed ears and dark soft bun, mature without old-crone or child drift; same face/profile in complete front/rear views.",
+              "Plain blue-gray long-sleeve dress and worn low footwear, isolated indoor shoe support known care history, exact title/name/labels; no extra identity or unrequested magical anatomy/effect.",
+              "Source-supported white summer day rendered in broad matte warm skin/blue cloth and cool shade, character-only ivory without setting, floor scene or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e5976a02-867f-4734-ab9b-fee6abd14ef2.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "06538a7251a67184d8f95b502697a3d2e68cb1817d18428a30d896ecc13b93c8",
+        "outputSha256": "9ea6d37f964e4b4bc1596a6b6da553dd525e135ce30840e47f442bc54f2499e8",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source bright summer near-noon oil light and connected colour masses only; no road/landscape",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          },
+          {
+            "path": "stories/only-eighteen/title-image.jpg",
+            "role": "Ceveth compatible adult elf facial identity, pointed ears, dark bun and blue-gray plain dress only; no second identity or smoother rendering",
+            "inspected": true,
+            "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+          }
+        ],
+        "evidence": [
+          "Actual pixels compared directly to source cover: consistent adult olive-brown elf face, curved narrow nose, pointed ears and dark soft bun, mature without old-crone or child drift; same face/profile in complete front/rear views.",
+          "Plain blue-gray long-sleeve dress and worn low footwear, isolated indoor shoe support known care history, exact title/name/labels; no extra identity or unrequested magical anatomy/effect.",
+          "Source-supported white summer day rendered in broad matte warm skin/blue cloth and cool shade, character-only ivory without setting, floor scene or swatches."
+        ],
+        "specificationSha256": "0f27bf15d43b09af885c479155afe0d3b2d6a19971a4da92127aaa519d2948be"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "9ea6d37f964e4b4bc1596a6b6da553dd525e135ce30840e47f442bc54f2499e8"
+    },
+    {
+      "id": "romy",
+      "name": "Romy",
+      "role": "human twin leaving to join a theatre troupe",
+      "form": "ordinary eighteen-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "We're eighteen. You were there.",
+          "explanation": "Insists her real growth and choice be recognized."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Exactly eighteen at departure; six weeks/five/nine/fourteen appear in recalled earlier scenes.",
+        "anatomy": "Human, brown face explicit; no pointed elf ears.",
+        "hair": "Pinned-up hair with shorter self-cut strands, slips; Ceveth fixes it loosely.",
+        "clothing": "New green coat with yellow-blue striped lining and turned-back cuffs; boots.",
+        "equipment": "Travel bag, coach tickets and personal brush with red thread.",
+        "movement": "Displays coat/lining, anticipatory energy, later tears at goodbye; one adult departure state."
+      },
+      "visualInterpretation": [
+        "Compatible cover brown complexion/dark loose bun and green coat, youthful rounded face with broad nose and full lips chosen where cover hides face.",
+        "Simple tan blouse and brown travelling trousers beneath green coat; no actor costume yet. Two coat-state views including open lining, bag, close face and pins detail."
+      ],
+      "states": [
+        {
+          "name": "New coat",
+          "description": "Eighteen-year-old human on departure morning, green coat opened to show lining."
+        },
+        {
+          "name": "Rear",
+          "description": "Same clothing and loosely pinned hair after Ceveth's help."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "only-eighteen:romy",
+        "links": [],
+        "evidence": "Source-local identity, no exact universe/name memory match found."
+      },
+      "output": "stories/only-eighteen/art/characters/romy.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Romy\"; exact title \"Only Eighteen\". One HUMAN young WOMAN exactly18, rich brown complexion explicitly supported, youthful ROUND face with broad nose, full lips and dark brown matte eyes. Dark thick brown-black hair pinned up in a slightly loose BUN, short uneven self-cut strands escaping; keep human ROUND ears, NOT pointed elf ears. Image2 right-hand figure supplies brown skin/dark bun and green coat ONLY; do not copy Ceveth's elf face or ears.\nNEW deep GREEN long travelling coat with fitted sleeves and turned-back cuffs, lining visibly striped YELLOW and BLUE. Plain tan high-neck blouse and brown practical trousers beneath, plain dark leather boots. Two complete same-identity body views: front three-quarter gently holding coat OPEN to display the striped lining, label \"New coat\"; rear three-quarter shows green back and bun, label \"Rear\". All clothing modest, adult normal proportions, not pinup. A simple cloth travelling BAG with straps hangs from shoulder in rear view, no luggage rack or scenery. Large matching face labelled \"Ready to go\", excitement under brave parting composure. Small separate green CUFF detail exposing exact yellow/blue stripes, label \"Striped lining\". No silver leaves on this new coat, no apron, stage makeup, crown, weapon or other character.\nImage1 PRIMARY source near-noon summer daylight and matte oil masses: warm natural brown skin, strong green coat, cool lilac-blue fold shadows and restrained pale sun on up-facing planes, no golden rim. Image2 identity/costume cues only; NO smooth illustration. Bold connected matte brushwork in face, hair, cloth and stripes, no ornate brocade or glowing eyes.",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source white summer daylight and broad oil colour masses only; no landscape",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          },
+          {
+            "path": "stories/only-eighteen/title-image.jpg",
+            "role": "Romy brown complexion/dark loose bun/green coat with yellow-blue striped cuffs only; do not borrow Ceveth elf face/ears or rendering",
+            "inspected": true,
+            "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:24:16.491866+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Romy\"; exact title \"Only Eighteen\". One HUMAN young WOMAN exactly18, rich brown complexion explicitly supported, youthful ROUND face with broad nose, full lips and dark brown matte eyes. Dark thick brown-black hair pinned up in a slightly loose BUN, short uneven self-cut strands escaping; keep human ROUND ears, NOT pointed elf ears. Image2 right-hand figure supplies brown skin/dark bun and green coat ONLY; do not copy Ceveth's elf face or ears.\nNEW deep GREEN long travelling coat with fitted sleeves and turned-back cuffs, lining visibly striped YELLOW and BLUE. Plain tan high-neck blouse and brown practical trousers beneath, plain dark leather boots. Two complete same-identity body views: front three-quarter gently holding coat OPEN to display the striped lining, label \"New coat\"; rear three-quarter shows green back and bun, label \"Rear\". All clothing modest, adult normal proportions, not pinup. A simple cloth travelling BAG with straps hangs from shoulder in rear view, no luggage rack or scenery. Large matching face labelled \"Ready to go\", excitement under brave parting composure. Small separate green CUFF detail exposing exact yellow/blue stripes, label \"Striped lining\". No silver leaves on this new coat, no apron, stage makeup, crown, weapon or other character.\nImage1 PRIMARY source near-noon summer daylight and matte oil masses: warm natural brown skin, strong green coat, cool lilac-blue fold shadows and restrained pale sun on up-facing planes, no golden rim. Image2 identity/costume cues only; NO smooth illustration. Bold connected matte brushwork in face, hair, cloth and stripes, no ornate brocade or glowing eyes.",
+            "references": [
+              {
+                "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+                "role": "primary source white summer daylight and broad oil colour masses only; no landscape",
+                "inspected": true,
+                "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+              },
+              {
+                "path": "stories/only-eighteen/title-image.jpg",
+                "role": "Romy brown complexion/dark loose bun/green coat with yellow-blue striped cuffs only; do not borrow Ceveth elf face/ears or rendering",
+                "inspected": true,
+                "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+              }
+            ],
+            "preflight": [
+              "Entire source supports exactly eighteen human woman, brown face, green coat, yellow-blue lining, pinned hair and bag.",
+              "Actual cover right figure provides limited compatible back identity/costume; explicitly keep round human ears and reject borrowing Ceveth elf face.",
+              "Front open-coat view modestly clothed with striped lining, same rear bun and cuff detail, daylight from inspected source painting."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9aab5f13-64a8-46c3-ad54-d79646aa7a7f.png",
+            "outputSha256": "ed7beec4cb1d8f396c173882f49a348d2c1aa52eb447f13665a3c2c5c804a4d9",
+            "finishedAt": "2026-09-24T03:34:02.624301+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: eighteen-year-old human woman brown face/dark loose bun, rounded human ears distinct from Ceveth, coherent face in front/rear/large portrait and exact title/name/labels.",
+              "New green coat opens to correct yellow-blue stripes, matching turned-back cuff detail and shoulder travel bag; modest blouse/trousers/boots, no silver festival leaves or stage uniform prematurely.",
+              "Complete unclipped body studies with natural hands; strong green and warm brown matte oil, daylight cool fold shadows, quiet ivory without location, scenic vignette or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9aab5f13-64a8-46c3-ad54-d79646aa7a7f.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "06538a7251a67184d8f95b502697a3d2e68cb1817d18428a30d896ecc13b93c8",
+        "outputSha256": "ed7beec4cb1d8f396c173882f49a348d2c1aa52eb447f13665a3c2c5c804a4d9",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source white summer daylight and broad oil colour masses only; no landscape",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          },
+          {
+            "path": "stories/only-eighteen/title-image.jpg",
+            "role": "Romy brown complexion/dark loose bun/green coat with yellow-blue striped cuffs only; do not borrow Ceveth elf face/ears or rendering",
+            "inspected": true,
+            "sha256": "17565344fed3cb727bb2c508a0bfc0ad4a22a5e38deb763448a0c10ce07933a3"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: eighteen-year-old human woman brown face/dark loose bun, rounded human ears distinct from Ceveth, coherent face in front/rear/large portrait and exact title/name/labels.",
+          "New green coat opens to correct yellow-blue stripes, matching turned-back cuff detail and shoulder travel bag; modest blouse/trousers/boots, no silver festival leaves or stage uniform prematurely.",
+          "Complete unclipped body studies with natural hands; strong green and warm brown matte oil, daylight cool fold shadows, quiet ivory without location, scenic vignette or swatches."
+        ],
+        "specificationSha256": "c27275170ab44b4095fb50b29aeb6e766795f0dd451d379ee76b490c09269a04"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "ed7beec4cb1d8f396c173882f49a348d2c1aa52eb447f13665a3c2c5c804a4d9"
+    },
+    {
+      "id": "denzil",
+      "name": "Denzil",
+      "role": "human twin leaving for bakery apprenticeship",
+      "form": "ordinary eighteen-year-old human man",
+      "selectionEvidence": [
+        {
+          "quote": "No. I'll be worse on Thursday.",
+          "explanation": "Chooses departure despite anxiety, requests possible return on own terms."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Exactly eighteen, taller than Ceveth since fourteen, young emerging whiskers/freckles/spots.",
+        "anatomy": "Ordinary human; small shaving nick under chin that he wipes, no persistent old burn specified.",
+        "clothing": "Shirt, trousers cuffs a little short, broad new boots.",
+        "equipment": "Half-shut travel bag, cloth-wrapped food, brush marked with red thread.",
+        "movement": "Leans against caretaker then lifts her in goodbye; no special strength or adult job uniform."
+      },
+      "visualInterpretation": [
+        "Tall slim brown-skinned young man with freckles and short dark wavy hair, family resemblance to Romy's broad nose/full mouth but longer jaw; human ears.",
+        "Plain cream shirt and muted brown waistcoat, slate trousers visibly slightly short above new broad boots, no baker apron or flour yet. One current departure state."
+      ],
+      "states": [
+        {
+          "name": "Leaving for apprenticeship",
+          "description": "Present eighteen-year-old with new boots, travel bag and food parcel."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "only-eighteen:denzil",
+        "links": [],
+        "evidence": "Source-local identity, no exact universe/name memory match found."
+      },
+      "output": "stories/only-eighteen/art/characters/denzil.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Denzil\"; exact title \"Only Eighteen\". One ordinary HUMAN young MAN exactly18, TALL and SLIM, brown complexion chosen compatible with his human twin Romy, youthful face with a longer jaw but broad family nose and full mouth, scattered FRECKLES and a couple small normal adolescent spots, short dark wavy hair, dark ordinary matte eyes. Clean-shaven apart from faint emerging whisker shadow, tiny already-wiped nick UNDER chin optional and non-graphic. Human rounded ears, no elf points. Clearly young adult, not child, burly mature man or bearded old man.\nPlain CREAM long-sleeve shirt and muted brown simple waistcoat, slate trousers with cuffs A LITTLE TOO SHORT at the ankles, broad NEW brown leather boots. No professional baker apron, toque, flour stains, medals, gloves, weapon or fantasy gear: he has not begun apprenticeship yet. Two complete same-state front/rear full-body views labelled \"Leaving for apprenticeship\" and \"Rear\". Front holds a cloth-wrapped bread FOOD PARCEL and plain cloth travel BAG, natural five-finger hands, rear bag carried same ordinary way. Large sameface labelled \"Excited and uneasy\", a held uncertain small smile, no crying caricature. Small isolated ordinary wooden hair BRUSH with RED THREAD tied around handle, label \"Marked brush\".\nImage1 PRIMARY source bright near-noon summer daylight, warm cream/skin paint planes and cool lilac-blue connected shadows, ordinary no dramatic rims. Broad Group of Seven matte bristle shapes in young face and hair, painted simple eyes, not anime. No mother/caretaker figure or sibling, no kitchen/coach/background, no old age or childhood montage.",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source summer daytime light and broad matte oil masses only; no landscape or identity",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:24:16.494603+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Denzil\"; exact title \"Only Eighteen\". One ordinary HUMAN young MAN exactly18, TALL and SLIM, brown complexion chosen compatible with his human twin Romy, youthful face with a longer jaw but broad family nose and full mouth, scattered FRECKLES and a couple small normal adolescent spots, short dark wavy hair, dark ordinary matte eyes. Clean-shaven apart from faint emerging whisker shadow, tiny already-wiped nick UNDER chin optional and non-graphic. Human rounded ears, no elf points. Clearly young adult, not child, burly mature man or bearded old man.\nPlain CREAM long-sleeve shirt and muted brown simple waistcoat, slate trousers with cuffs A LITTLE TOO SHORT at the ankles, broad NEW brown leather boots. No professional baker apron, toque, flour stains, medals, gloves, weapon or fantasy gear: he has not begun apprenticeship yet. Two complete same-state front/rear full-body views labelled \"Leaving for apprenticeship\" and \"Rear\". Front holds a cloth-wrapped bread FOOD PARCEL and plain cloth travel BAG, natural five-finger hands, rear bag carried same ordinary way. Large sameface labelled \"Excited and uneasy\", a held uncertain small smile, no crying caricature. Small isolated ordinary wooden hair BRUSH with RED THREAD tied around handle, label \"Marked brush\".\nImage1 PRIMARY source bright near-noon summer daylight, warm cream/skin paint planes and cool lilac-blue connected shadows, ordinary no dramatic rims. Broad Group of Seven matte bristle shapes in young face and hair, painted simple eyes, not anime. No mother/caretaker figure or sibling, no kitchen/coach/background, no old age or childhood montage.",
+            "references": [
+              {
+                "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+                "role": "primary source summer daytime light and broad matte oil masses only; no landscape or identity",
+                "inspected": true,
+                "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+              }
+            ],
+            "preflight": [
+              "Entire source supports exactly eighteen human male, tall since fourteen, freckles/whiskers, broad new boots and short trouser cuffs, bag/food/brush.",
+              "No established Denzil face in cover; restrained brown-skinned young family casting recorded and distinct from mature men/elf caretaker.",
+              "No invented baker uniform before apprenticeship, permanent old burn or childhood body. Daylight source painting actually inspected, complete individual views fit."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8aa1838-e79e-42e6-81a2-65ab09c6fcf8.png",
+            "outputSha256": "e48b757f5b86864883cfc79bf063975da132e42220ff3fdecaeca37d891af472",
+            "finishedAt": "2026-09-24T03:34:02.641248+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: coherent youthful tall human male, freckles/early whisker shadow, brown skin/dark waves and normal rounded ears, same front/rear/portrait identity; exact name/title/labels.",
+              "Complete body, broad new boots and short trouser cuffs, ordinary shirt/waistcoat, held travel bag and cloth food parcel, marked red-thread brush; no baker uniform, elf anatomy, permanent old burn or extra person.",
+              "White summer daylight and broad matte directional paint over face/clothes/wood preserve collection, clear warm ivory and no landscape or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8aa1838-e79e-42e6-81a2-65ab09c6fcf8.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "06538a7251a67184d8f95b502697a3d2e68cb1817d18428a30d896ecc13b93c8",
+        "outputSha256": "e48b757f5b86864883cfc79bf063975da132e42220ff3fdecaeca37d891af472",
+        "references": [
+          {
+            "path": "stories/only-eighteen/art/landscapes/02-white-sunlight-on-the-road.png",
+            "role": "primary source summer daytime light and broad matte oil masses only; no landscape or identity",
+            "inspected": true,
+            "sha256": "b916c07196d5e5c7e16b2a461a73e8dd7eabe071427f6727eee0a4e9784f1abb"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: coherent youthful tall human male, freckles/early whisker shadow, brown skin/dark waves and normal rounded ears, same front/rear/portrait identity; exact name/title/labels.",
+          "Complete body, broad new boots and short trouser cuffs, ordinary shirt/waistcoat, held travel bag and cloth food parcel, marked red-thread brush; no baker uniform, elf anatomy, permanent old burn or extra person.",
+          "White summer daylight and broad matte directional paint over face/clothes/wood preserve collection, clear warm ivory and no landscape or swatches."
+        ],
+        "specificationSha256": "e0eac924c299c7934b5c38883dd3e162c0f8c3fc8055d089ac2e50e28d2ed337"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e48b757f5b86864883cfc79bf063975da132e42220ff3fdecaeca37d891af472"
+    }
+  ],
+  "sourceSha256": "06538a7251a67184d8f95b502697a3d2e68cb1817d18428a30d896ecc13b93c8"
+}
