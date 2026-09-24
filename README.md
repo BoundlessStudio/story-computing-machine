@@ -104,6 +104,7 @@ story and its illustrated edition.
 - `pages/graphic-novels.json`, `pages/graphic-novels/`: comic PDF download snapshot.
 - `pages/landscapes.json`, `pages/landscapes/`: landscape gallery snapshot and web images.
 - `pages/interiors.json`, `pages/interiors/`: interior study snapshot and web images.
+- `pages/characters.json`, `pages/characters/`: reviewed character sheet snapshot and web images.
 - `pages/timeline.json`: retained chronology model; `universe/` remains authoritative.
 
 GitHub Pages publishes the Library and story pages; an approved illustrated
@@ -113,8 +114,8 @@ Chronology/Timeline page and its assets are no longer published, and the site
 build and `python pages/build.py check` do not load chronology data. The model
 and renderer remain in the repository for local reference.
 
-The **Image Gallery** navigation link opens `gallery.html`: oil-painted landscape
-and interior studies grouped by story, with search, story and study filters, and an image viewer.
+The **Image Gallery** navigation link opens `gallery.html`: oil-painted landscape,
+interior and character studies grouped by story, with search, story and study filters, and an image viewer.
 Arrow keys move between paintings; Escape closes the viewer. Filter URLs can be
 shared. Without JavaScript, every painting remains available as a direct image
 link. Original PNGs live in each story's `art/landscapes/` and `art/interiors/`
@@ -136,6 +137,35 @@ captions; signs and labels may appear when they belong to the story setting.
 Open `gallery.html?type=interiors` to browse just the interior collection.
 For a small batch, `python pages/build.py capture-interiors <slug> [<slug> ...]`
 updates only those stories and retains the other stored interior studies.
+
+Character reference sheets use **Sculpted Impasto**: expressive forms built from
+thick oil paint, with each character's name and story title on a landscape 3:2
+sheet. Originals live in `stories/<slug>/art/characters/<character-id>.png`.
+The collection inventory is `pages/character-manifest.json`; each story's
+`pages/character-specs/<slug>.json` records its source reading, character design,
+selected references, generation and inspected-image review. These visual
+interpretations establish no shared canon facts.
+
+`python pages/build.py capture-characters <slug> [<slug> ...]` captures only
+`completed` or `reused` characters with a passing visual review and current
+source, specification, selected-reference and output hashes. Omit slugs to
+capture all eligible specifications. Pending sheets are never selected from an
+art-directory scan. Named capture preserves other stored stories, and neither
+form changes the story catalog, prose, landscapes or interiors. View the
+selected sheets at `gallery.html?type=characters`. Builds use the frozen
+`pages/characters.json` and WebP copies without opening specifications, story
+sources, original references or generation tools.
+
+For each selected character, `output` is its repository-relative PNG path and
+`outputSha256` pins the inspected bytes. `generation.prompt` records the actual
+prompt; `generation.references` lists one to five selected inputs with `path`,
+`sha256`, `role` and `inspected: true`. `validation` records `status: "PASS"`,
+nonempty `evidence`, `sourceSha256`, `specificationSha256`, `outputSha256`, and an
+identical `references` list. The source path/hash are the specification's flat
+`source`/`sourceSha256` fields. Compute the specification pin with
+`pages.landscape_gallery.character_specification_sha256(specification, character)`
+after saving creative inputs and provenance. It excludes mutable status, output,
+review and attempt history, while retaining the actual prompt and selected inputs.
 
 Editorial removals are recorded in the collection's `pages/landscapes.json` or
 `pages/interiors.json` as `excludedSources`, with the inspected source hash and a
@@ -248,6 +278,7 @@ python pages/build.py capture <slug>
 python pages/build.py capture-graphic-novel <edition-slug>
 python pages/build.py capture-landscapes
 python pages/build.py capture-interiors
+python pages/build.py capture-characters <slug>
 python pages/build.py check
 ```
 
