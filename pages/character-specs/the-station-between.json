@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-station-between",
+  "title": "The Station Between",
+  "source": "stories/the-station-between/05-story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished bundle story and prompt read; canon entries for Ruth/Asha/Sabine/Hester read. Ruth, Hester and Sabine sustain station conflict; Asha is the recurring remembered sister central to Ruth's motive, and final arrival sustains decisive closing exchange. Cover and actual station, information-window and hospital paintings inspected.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Ruth",
+    "universe/characters.md#Asha",
+    "universe/characters.md#Sabine Kroll",
+    "universe/characters.md#Hester Pike"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Reflected train passengers and prior transfers",
+      "reason": "Unindividuated background or report; no distinct cast identity."
+    },
+    {
+      "name": "Resuscitation voices",
+      "reason": "Brief non-individuated remembered voices."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "role": "Dead protagonist who remains at the station",
+      "form": "adult human-appearing woman",
+      "selectionEvidence": [
+        {
+          "quote": "The floor beneath my bare feet was white tile veined with old gray mop water.",
+          "explanation": "Source appearance or sustained emotionally central role."
+        }
+      ],
+      "storyAppearance": "Bare feet, clothed sleeves and pockets, cream ticket ultimately blank; no radiance or supernatural anatomy.",
+      "visualInterpretation": [
+        "Woman appearing about fifty, medium brown skin, broad oval face, deep brown eyes, short dark tight curls with scattered gray. Practical faded burgundy cardigan over muted beige cotton tee, loose dark charcoal trousers with pockets, BARE FEET in both complete standing views. Hold one small BLANK cream paper rectangle at hip; final staying state, no ticket destination revealed. Tired guarded face, ordinary unglamorous posture."
+      ],
+      "states": [
+        {
+          "name": "After both services expire",
+          "description": "Single consistent isolated character state; no surroundings or metaphysical inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-station-between:ruth",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing specifications search; established names resolve to this source, no other art identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+            "role": "Cool sickly gray-green institutional overhead light and connected shadows only; no station surroundings",
+            "sha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ruth', subtitle 'The Station Between'. Woman appearing about fifty, medium brown skin, broad oval face, deep brown eyes, short dark tight curls with scattered gray. Practical faded burgundy cardigan over muted beige cotton tee, loose dark charcoal trousers with pockets, BARE FEET in both complete standing views. Hold one small BLANK cream paper rectangle at hip; final staying state, no ticket destination revealed. Tired guarded face, ordinary unglamorous posture. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:38:19.330965+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ruth', subtitle 'The Station Between'. Woman appearing about fifty, medium brown skin, broad oval face, deep brown eyes, short dark tight curls with scattered gray. Practical faded burgundy cardigan over muted beige cotton tee, loose dark charcoal trousers with pockets, BARE FEET in both complete standing views. Hold one small BLANK cream paper rectangle at hip; final staying state, no ticket destination revealed. Tired guarded face, ordinary unglamorous posture. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+                "role": "Cool sickly gray-green institutional overhead light and connected shadows only; no station surroundings",
+                "sha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-73afd959-14dd-4e7b-af1f-a77ed40f3793.png",
+            "outputSha256": "b7c6fbf2d99700f1de0eaea7cc02c35a594c6d0832cb4690e3b2459dfe6a1dbc",
+            "finishedAt": "2026-09-24T15:40:51.238187+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show bare feet, ordinary burgundy cardigan/trousers and fully blank cream ticket in final staying state; no revealed destination or supernatural office.",
+              "Two complete bodies and matching mature portrait, correct name/title, opaque ivory and broad matte paint; no ground patches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-73afd959-14dd-4e7b-af1f-a77ed40f3793.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-station-between/art/characters/ruth.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "b7c6fbf2d99700f1de0eaea7cc02c35a594c6d0832cb4690e3b2459dfe6a1dbc",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:40:51.238217+00:00",
+        "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f",
+        "outputSha256": "b7c6fbf2d99700f1de0eaea7cc02c35a594c6d0832cb4690e3b2459dfe6a1dbc",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+            "role": "Cool sickly gray-green institutional overhead light and connected shadows only; no station surroundings",
+            "sha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show bare feet, ordinary burgundy cardigan/trousers and fully blank cream ticket in final staying state; no revealed destination or supernatural office.",
+          "Two complete bodies and matching mature portrait, correct name/title, opaque ivory and broad matte paint; no ground patches."
+        ],
+        "specificationSha256": "a0951d7629aa9ef8e98538b97b043bf975c99ddd881b62d2a28cf6d8af9e5dce"
+      }
+    },
+    {
+      "id": "hester-pike",
+      "name": "Hester Pike",
+      "role": "Local attendant and constrained witness",
+      "form": "mature woman of unresolved nature",
+      "selectionEvidence": [
+        {
+          "quote": "She wore a gray cardigan and a brass badge stamped HESTER PIKE.",
+          "explanation": "Source appearance or sustained emotionally central role."
+        }
+      ],
+      "storyAppearance": "Gray cardigan, brass badge exact HESTER PIKE, pencil through loose hair knot; no established angelic/demonic nature.",
+      "visualInterpretation": [
+        "Woman appearing about sixty, light freckled skin, narrow long face and gray eyes. Straight gray-brown hair in loose knot held by one ordinary yellow pencil. Plain GRAY wool cardigan over off-white buttoned blouse, calf-length charcoal skirt, black sensible low shoes. Small brass rectangular chest badge clearly reads HESTER PIKE. Hold a closed dark ledger under arm. Measured weary expression, no wings, halo, horns, magical authority symbols or train-conductor uniform."
+      ],
+      "states": [
+        {
+          "name": "Station service",
+          "description": "Single consistent isolated character state; no surroundings or metaphysical inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-station-between:hester-pike",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing specifications search; established names resolve to this source, no other art identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/interiors/02-the-information-window.png",
+            "role": "Gray cardigan material, restrained institutional light and color only; no counter or setting",
+            "sha256": "a9cecce85fc7b2e3acd8148247c6b49db50c962e66d31b20d77466cbf50969c5",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Hester Pike', subtitle 'The Station Between'. Woman appearing about sixty, light freckled skin, narrow long face and gray eyes. Straight gray-brown hair in loose knot held by one ordinary yellow pencil. Plain GRAY wool cardigan over off-white buttoned blouse, calf-length charcoal skirt, black sensible low shoes. Small brass rectangular chest badge clearly reads HESTER PIKE. Hold a closed dark ledger under arm. Measured weary expression, no wings, halo, horns, magical authority symbols or train-conductor uniform. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:38:20.422037+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Hester Pike', subtitle 'The Station Between'. Woman appearing about sixty, light freckled skin, narrow long face and gray eyes. Straight gray-brown hair in loose knot held by one ordinary yellow pencil. Plain GRAY wool cardigan over off-white buttoned blouse, calf-length charcoal skirt, black sensible low shoes. Small brass rectangular chest badge clearly reads HESTER PIKE. Hold a closed dark ledger under arm. Measured weary expression, no wings, halo, horns, magical authority symbols or train-conductor uniform. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-station-between/art/interiors/02-the-information-window.png",
+                "role": "Gray cardigan material, restrained institutional light and color only; no counter or setting",
+                "sha256": "a9cecce85fc7b2e3acd8148247c6b49db50c962e66d31b20d77466cbf50969c5",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-03601959-938f-47b1-aa45-27d4705dabd2.png",
+            "outputSha256": "d0280f628e14b21678349204f4a3e4f056bfa10f01000177fa01d0e89483928b",
+            "finishedAt": "2026-09-24T15:40:52.385224+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain gray cardigan, exact readable brass HESTER PIKE badge, pencil-held loose knot and closed ledger; no inferred supernatural nature.",
+              "Complete front/rear silhouettes and matching mature portrait under subdued institutional light, broad directional paint on opaque ivory."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-03601959-938f-47b1-aa45-27d4705dabd2.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-station-between/art/characters/hester-pike.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "d0280f628e14b21678349204f4a3e4f056bfa10f01000177fa01d0e89483928b",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:40:52.385252+00:00",
+        "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f",
+        "outputSha256": "d0280f628e14b21678349204f4a3e4f056bfa10f01000177fa01d0e89483928b",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/interiors/02-the-information-window.png",
+            "role": "Gray cardigan material, restrained institutional light and color only; no counter or setting",
+            "sha256": "a9cecce85fc7b2e3acd8148247c6b49db50c962e66d31b20d77466cbf50969c5",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain gray cardigan, exact readable brass HESTER PIKE badge, pencil-held loose knot and closed ledger; no inferred supernatural nature.",
+          "Complete front/rear silhouettes and matching mature portrait under subdued institutional light, broad directional paint on opaque ivory."
+        ],
+        "specificationSha256": "56bb231838b61222053f6fda0c247166d63c4852b762290728c523fdee69f50f"
+      }
+    },
+    {
+      "id": "sabine-kroll",
+      "name": "Sabine Kroll",
+      "role": "Passenger who challenges her assignment and is transferred",
+      "form": "adult dead human-appearing woman",
+      "selectionEvidence": [
+        {
+          "quote": "Sabine pressed her palm to the glass, the blue elastic bright on her wrist.",
+          "explanation": "Source appearance or sustained emotionally central role."
+        }
+      ],
+      "storyAppearance": "Loose dark hair, pale wrist, blue elastic around right wrist, shoes, cream ticket labeled HELL; remains same recognizable person.",
+      "visualInterpretation": [
+        "Woman about forty-seven, PALE skin, angular expressive face, gray-brown eyes, shoulder-length dark straight loose hair. A thin bright BLUE hair elastic circles her RIGHT wrist, clearly visible, unchanged between views. Ordinary muted teal buttoned blouse, dark navy trousers, scuffed dark flats. Hold cream paper ticket low in LEFT hand with visible word HELL; pre-boarding state, no ashgray field yet. Wry worried defiance, no shadow restraints or injuries.",
+        "Final composition deliberately uses one complete front body and two head views after mirrored duplicate full-body accessory corrections conflicted."
+      ],
+      "states": [
+        {
+          "name": "Before boarding",
+          "description": "Single consistent isolated character state; no surroundings or metaphysical inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-station-between:sabine-kroll",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing specifications search; established names resolve to this source, no other art identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5d1c2001-fe84-44c4-bc93-8b1de107daa8.png",
+            "role": "Inspected candidate: preserve correct front-body right elastic, replace rear body with profile portrait",
+            "sha256": "af87943f52200b3a12474dee6f4c76bc8cd37014a37c5e5bb63365979c6a40a5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: character folio composition correction. FIRST image is Sabine Kroll. Keep the LEFT full-body front study exactly as it is, complete from head to shoes, including the BLUE ELASTIC around her RIGHT wrist on picture-left, and HELL ticket in other hand. REMOVE THE CENTER REAR FULL-BODY VIEW ENTIRELY. In that freed space paint a smaller PROFILE HEAD AND SHOULDERS study of this SAME woman (no hands or wrists in this new profile). Preserve the large right three-quarter head portrait and readable exact Sabine Kroll / The Station Between heading. New layout is ONE complete front body + TWO complementary head portraits, the same identity in all three; no rear body, no spare hand study. Exactly one blue wrist elastic appears on page, in full front body. Preserve loose dark hair, pale skin, age, teal blouse/navy trousers/flats, tired defiant expression and matte broad connected oil paint; image2 primary Group of Seven handling. Fully opaque warm ivory canvas, 1536x1024, no floor or scenery.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:38:21.513864+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Sabine Kroll', subtitle 'The Station Between'. Woman about forty-seven, PALE skin, angular expressive face, gray-brown eyes, shoulder-length dark straight loose hair. A thin bright BLUE hair elastic circles her RIGHT wrist, clearly visible, unchanged between views. Ordinary muted teal buttoned blouse, dark navy trousers, scuffed dark flats. Hold cream paper ticket low in LEFT hand with visible word HELL; pre-boarding state, no ashgray field yet. Wry worried defiance, no shadow restraints or injuries. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+                "role": "Cool sickly gray-green institutional overhead light and connected shadows only; no station surroundings",
+                "sha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-772057bb-ac57-4d42-b864-60995d20a6eb.png",
+            "outputSha256": "51a63900db290cafc7a11b40054abe9830aedc90165fac509ee580a066e92dbf",
+            "finishedAt": "2026-09-24T15:40:53.498625+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Front view hides key blue right wrist elastic inside pocket; expose wrist for reference usefulness."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:41:09.306863+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: targeted character reference edit. FIRST image is Sabine Kroll's folio. Preserve everything except the front full-body RIGHT arm (viewer LEFT): take that hand OUT of the trouser pocket and let it hang naturally beside hip with wrist exposed. Paint the same thin bright BLUE HAIR ELASTIC around her RIGHT wrist visible in the rear view. Both views must show that blue elastic on her right wrist, same color, no extra bracelets. Keep left hand with HELL ticket, same loose dark hair, pale skin, face, teal blouse/navy trousers/flats, exact Sabine Kroll and The Station Between text, two complete bodies and portrait. Fully OPAQUE warm ivory, 1536x1024. Second image primary oil style; preserve bold connected matte Group of Seven paint and subdued institutional gray-green light, no ground patches or setting.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-772057bb-ac57-4d42-b864-60995d20a6eb.png",
+                "role": "Inspected initial sheet identity and layout; expose right wrist elastic",
+                "sha256": "51a63900db290cafc7a11b40054abe9830aedc90165fac509ee580a066e92dbf",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f5f47d3b-d054-422b-b89a-6e405f4621f5.png",
+            "outputSha256": "e010578317b625c88fa14ee4dfaac2d6067b86163858f38b7fa8c4b03160cc06",
+            "finishedAt": "2026-09-24T15:44:40.574670+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Correction exposed front elastic but duplicated the blue elastic on rear LEFT wrist."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:45:00.101944+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: highly targeted character-reference correction. Edit FIRST image. Make ONE tiny localized correction in the CENTER REAR figure only: the wrist on the LEFT SIDE OF THAT REAR FIGURE, holding the cream ticket, must be BARE SKIN. Remove the blue stripe from that paper-holding wrist and restore skin there. The rear figure's RIGHT SIDE wrist already has the correct blue elastic and MUST keep it. Front figure's leftmost wrist has the correct blue elastic and MUST keep it. Exactly TWO blue elastics on page total: one in front view, one rear view, both anatomical RIGHT. Do not move arms or ticket. Preserve face, full bodies, clothing, exact lettering, ticket text, broad connected oil paint and fully OPAQUE warm ivory. 1536x1024, no transparency. Second image oil style only. No new objects, duplicate bracelets, surroundings or floor patches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f5f47d3b-d054-422b-b89a-6e405f4621f5.png",
+                "role": "Inspected candidate: targeted wrist continuity correction",
+                "sha256": "e010578317b625c88fa14ee4dfaac2d6067b86163858f38b7fa8c4b03160cc06",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5d1c2001-fe84-44c4-bc93-8b1de107daa8.png",
+            "outputSha256": "af87943f52200b3a12474dee6f4c76bc8cd37014a37c5e5bb63365979c6a40a5",
+            "finishedAt": "2026-09-24T15:55:05.960750+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Second correction removed both rear wrist elastics. Diagnose mirrored duplicate full-body accessory confusion; replace rear body with complementary profile portrait rather than further repeated wrist edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:57:51.558480+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: character folio composition correction. FIRST image is Sabine Kroll. Keep the LEFT full-body front study exactly as it is, complete from head to shoes, including the BLUE ELASTIC around her RIGHT wrist on picture-left, and HELL ticket in other hand. REMOVE THE CENTER REAR FULL-BODY VIEW ENTIRELY. In that freed space paint a smaller PROFILE HEAD AND SHOULDERS study of this SAME woman (no hands or wrists in this new profile). Preserve the large right three-quarter head portrait and readable exact Sabine Kroll / The Station Between heading. New layout is ONE complete front body + TWO complementary head portraits, the same identity in all three; no rear body, no spare hand study. Exactly one blue wrist elastic appears on page, in full front body. Preserve loose dark hair, pale skin, age, teal blouse/navy trousers/flats, tired defiant expression and matte broad connected oil paint; image2 primary Group of Seven handling. Fully opaque warm ivory canvas, 1536x1024, no floor or scenery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5d1c2001-fe84-44c4-bc93-8b1de107daa8.png",
+                "role": "Inspected candidate: preserve correct front-body right elastic, replace rear body with profile portrait",
+                "sha256": "af87943f52200b3a12474dee6f4c76bc8cd37014a37c5e5bb63365979c6a40a5",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-8a70b038-469b-4b4a-ad37-0abde5389c54.png",
+            "outputSha256": "6280078f1f8f598e40a82ae0b3bdb1dd4aa3106b3d069474d28e0cdbbaf605b7",
+            "finishedAt": "2026-09-24T16:04:16.388147+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Recomposed saved pixels use one complete front body and two consistent head views, avoiding mirrored accessory ambiguity; sole blue elastic on anatomical right wrist and HELL ticket in left hand.",
+              "Same recognizable pale dark-haired woman, subdued institutional illumination, correct heading/title; opaque ivory, broad matte oil, no environment or hand study."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-8a70b038-469b-4b4a-ad37-0abde5389c54.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-station-between/art/characters/sabine-kroll.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "6280078f1f8f598e40a82ae0b3bdb1dd4aa3106b3d069474d28e0cdbbaf605b7",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:04:16.388172+00:00",
+        "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f",
+        "outputSha256": "6280078f1f8f598e40a82ae0b3bdb1dd4aa3106b3d069474d28e0cdbbaf605b7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5d1c2001-fe84-44c4-bc93-8b1de107daa8.png",
+            "role": "Inspected candidate: preserve correct front-body right elastic, replace rear body with profile portrait",
+            "sha256": "af87943f52200b3a12474dee6f4c76bc8cd37014a37c5e5bb63365979c6a40a5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Recomposed saved pixels use one complete front body and two consistent head views, avoiding mirrored accessory ambiguity; sole blue elastic on anatomical right wrist and HELL ticket in left hand.",
+          "Same recognizable pale dark-haired woman, subdued institutional illumination, correct heading/title; opaque ivory, broad matte oil, no environment or hand study."
+        ],
+        "specificationSha256": "65dfa40d1908f6a695107e9ef4c040cdcd7b9e794ed4dd2cbfa07c6501e6ca9c"
+      }
+    },
+    {
+      "id": "asha",
+      "name": "Asha",
+      "role": "Ruth's remembered younger sister",
+      "form": "adult human woman in recalled hospital evening",
+      "selectionEvidence": [
+        {
+          "quote": "Asha had kept a tube of lemon lotion on the hospital table because the air cracked her hands.",
+          "explanation": "Source appearance or sustained emotionally central role."
+        }
+      ],
+      "storyAppearance": "Only remembered alive at hospital, tired and afraid, dry knuckles, no established afterlife presence.",
+      "visualInterpretation": [
+        "Woman about forty-three in remembered living hospital evening, medium brown skin, broad oval face resembling Ruth but younger, dark brown eyes, close dark tight curls. Tired drawn cheeks. Modest pale blue loose hospital pajama set and simple soft gray slippers. Holds a small closed plain cream lotion tube in one hand; slightly dry knuckles, no isolated hand study. Quiet candid worried expression. Do not depict ghost, wings, halo, train ticket, hospital wristband if not required, tubing or new medical condition. No hospital furniture."
+      ],
+      "states": [
+        {
+          "name": "Remembered living hospital evening",
+          "description": "Single consistent isolated character state; no surroundings or metaphysical inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-station-between:asha",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing specifications search; established names resolve to this source, no other art identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/landscapes/02-hospital-at-midnight.png",
+            "role": "Small subdued yellow hospital illumination against cool blue shadows; palette only, no exterior scenery",
+            "sha256": "7215e165200d100c5db4ba0a8f23cb45d20979d09a5b56598ae441de00f928ba",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Asha', subtitle 'The Station Between'. Woman about forty-three in remembered living hospital evening, medium brown skin, broad oval face resembling Ruth but younger, dark brown eyes, close dark tight curls. Tired drawn cheeks. Modest pale blue loose hospital pajama set and simple soft gray slippers. Holds a small closed plain cream lotion tube in one hand; slightly dry knuckles, no isolated hand study. Quiet candid worried expression. Do not depict ghost, wings, halo, train ticket, hospital wristband if not required, tubing or new medical condition. No hospital furniture. Subdued local yellow hospital lamp light with cool connected blue shadows, quiet evening exposure. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:41:07.192633+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Asha', subtitle 'The Station Between'. Woman about forty-three in remembered living hospital evening, medium brown skin, broad oval face resembling Ruth but younger, dark brown eyes, close dark tight curls. Tired drawn cheeks. Modest pale blue loose hospital pajama set and simple soft gray slippers. Holds a small closed plain cream lotion tube in one hand; slightly dry knuckles, no isolated hand study. Quiet candid worried expression. Do not depict ghost, wings, halo, train ticket, hospital wristband if not required, tubing or new medical condition. No hospital furniture. Subdued local yellow hospital lamp light with cool connected blue shadows, quiet evening exposure. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-station-between/art/landscapes/02-hospital-at-midnight.png",
+                "role": "Small subdued yellow hospital illumination against cool blue shadows; palette only, no exterior scenery",
+                "sha256": "7215e165200d100c5db4ba0a8f23cb45d20979d09a5b56598ae441de00f928ba",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c987b4ef-a6e3-4926-9e7d-d09fe72fc983.png",
+            "outputSha256": "7a852ea5e823e4a021ef62d36abc475b019f6eedea9d7481302d7200fe22a5b2",
+            "finishedAt": "2026-09-24T15:44:39.467968+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show remembered living younger sister with tired worried face, ordinary hospital pajamas/slippers and small closed lotion tube; no station presence or supernatural implications.",
+              "Consistent front/rear and face views, exact text, broad connected matte paint and opaque ivory without setting."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c987b4ef-a6e3-4926-9e7d-d09fe72fc983.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-station-between/art/characters/asha.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "7a852ea5e823e4a021ef62d36abc475b019f6eedea9d7481302d7200fe22a5b2",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:44:39.468004+00:00",
+        "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f",
+        "outputSha256": "7a852ea5e823e4a021ef62d36abc475b019f6eedea9d7481302d7200fe22a5b2",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-station-between/art/landscapes/02-hospital-at-midnight.png",
+            "role": "Small subdued yellow hospital illumination against cool blue shadows; palette only, no exterior scenery",
+            "sha256": "7215e165200d100c5db4ba0a8f23cb45d20979d09a5b56598ae441de00f928ba",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show remembered living younger sister with tired worried face, ordinary hospital pajamas/slippers and small closed lotion tube; no station presence or supernatural implications.",
+          "Consistent front/rear and face views, exact text, broad connected matte paint and opaque ivory without setting."
+        ],
+        "specificationSha256": "13ef4147159e2ffee236bf0f0304b503cf8d805001f5328b77600f4c04f63f03"
+      }
+    },
+    {
+      "id": "aveline-moss",
+      "name": "Aveline Moss",
+      "role": "Frightened final arrival whom Ruth accompanies",
+      "form": "adult dead human-appearing woman",
+      "selectionEvidence": [
+        {
+          "quote": "She wore wet slippers and a hospital wristband.",
+          "explanation": "Source appearance or sustained emotionally central role."
+        }
+      ],
+      "storyAppearance": "Wet slippers, hospital wristband, holds gown closed; eventually reveals HEAVEN ticket.",
+      "visualInterpretation": [
+        "Woman about sixty-eight, deep brown skin, round soft face, short silver close-cropped curls, brown eyes. Plain pale mint hospital gown secured modestly closed at front and back, one hand clutching the fabric near collar, NO exposed torso. Ordinary white hospital wristband on LEFT wrist, wet charcoal slippers darkened only on fabric; NO wet ground patches. Other hand holds small cream paper ticket with visible HEAVEN. Afraid, hopeful, no radiance or supernatural anatomy."
+      ],
+      "states": [
+        {
+          "name": "Station service",
+          "description": "Single consistent isolated character state; no surroundings or metaphysical inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-station-between:aveline-moss",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing specifications search; established names resolve to this source, no other art identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-49d3e20b-2c3a-4526-b770-bfc28b70f7e3.png",
+            "role": "Inspected candidate: targeted wrist continuity correction",
+            "sha256": "84eae8d14917a1ec52b365a55565f7624c1a5137d76d21ba45ca64a7e25e0b71",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: highly targeted character-reference correction. Edit FIRST image. Make ONE localized correction in the LEFT FRONT full-body figure only: remove the white hospital wristband from her downward paper-holding wrist on the LEFT SIDE OF THE PICTURE; paint bare skin there. Place that same white hospital wristband on her raised gown-clutching wrist near her chest (anatomical LEFT). Leave the center rear view's existing LEFT wrist white band intact. There must be one white band on anatomical LEFT in each full-body view. Do not alter ticket, hands, gown or portrait. Preserve face, full bodies, clothing, exact lettering, ticket text, broad connected oil paint and fully OPAQUE warm ivory. 1536x1024, no transparency. Second image oil style only. No new objects, duplicate bracelets, surroundings or floor patches.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:41:08.237241+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Aveline Moss', subtitle 'The Station Between'. Woman about sixty-eight, deep brown skin, round soft face, short silver close-cropped curls, brown eyes. Plain pale mint hospital gown secured modestly closed at front and back, one hand clutching the fabric near collar, NO exposed torso. Ordinary white hospital wristband on LEFT wrist, wet charcoal slippers darkened only on fabric; NO wet ground patches. Other hand holds small cream paper ticket with visible HEAVEN. Afraid, hopeful, no radiance or supernatural anatomy. Flat COOL gray-green overhead institutional light creates subdued natural facial planes and darker under-brow/chin shadows, NO golden daylight or glamor rim light. Bare opaque ivory around feet: no cast shadows on support, floor patches or grounding marks. All two complete bodies spaced within margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-station-between/art/interiors/01-the-station-bench.png",
+                "role": "Cool sickly gray-green institutional overhead light and connected shadows only; no station surroundings",
+                "sha256": "5d215333253ba11f62110d01ffc326518820c3b7f660099c5c152d842d236527",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-49d3e20b-2c3a-4526-b770-bfc28b70f7e3.png",
+            "outputSha256": "84eae8d14917a1ec52b365a55565f7624c1a5137d76d21ba45ca64a7e25e0b71",
+            "finishedAt": "2026-09-24T15:44:41.601973+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Hospital wristband switches wrists between front and rear view."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:45:01.245727+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: highly targeted character-reference correction. Edit FIRST image. Make ONE localized correction in the LEFT FRONT full-body figure only: remove the white hospital wristband from her downward paper-holding wrist on the LEFT SIDE OF THE PICTURE; paint bare skin there. Place that same white hospital wristband on her raised gown-clutching wrist near her chest (anatomical LEFT). Leave the center rear view's existing LEFT wrist white band intact. There must be one white band on anatomical LEFT in each full-body view. Do not alter ticket, hands, gown or portrait. Preserve face, full bodies, clothing, exact lettering, ticket text, broad connected oil paint and fully OPAQUE warm ivory. 1536x1024, no transparency. Second image oil style only. No new objects, duplicate bracelets, surroundings or floor patches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-49d3e20b-2c3a-4526-b770-bfc28b70f7e3.png",
+                "role": "Inspected candidate: targeted wrist continuity correction",
+                "sha256": "84eae8d14917a1ec52b365a55565f7624c1a5137d76d21ba45ca64a7e25e0b71",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2daa92aa-5332-404c-a6d5-c6eb442874d1.png",
+            "outputSha256": "bfea0db58cdce2e91a451ea6d40b6006f9141aa2b3c06eb39f880f4494286916",
+            "finishedAt": "2026-09-24T15:55:04.842854+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected pixels consistently place white hospital band on left wrist, with modest closed gown, wet dark slippers, frightened expression and visible HEAVEN ticket.",
+              "Named art-only identity matches between full front/rear and large oil portrait; exact text, no environment or floor patches, opaque ivory."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2daa92aa-5332-404c-a6d5-c6eb442874d1.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed final hospital-gowned passenger",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label; no source or canon naming claim.",
+        "collisionCheck": "Aveline Moss absent in universe, name memory and existing specifications."
+      },
+      "output": "stories/the-station-between/art/characters/aveline-moss.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "bfea0db58cdce2e91a451ea6d40b6006f9141aa2b3c06eb39f880f4494286916",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:55:04.842874+00:00",
+        "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f",
+        "outputSha256": "bfea0db58cdce2e91a451ea6d40b6006f9141aa2b3c06eb39f880f4494286916",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-49d3e20b-2c3a-4526-b770-bfc28b70f7e3.png",
+            "role": "Inspected candidate: targeted wrist continuity correction",
+            "sha256": "84eae8d14917a1ec52b365a55565f7624c1a5137d76d21ba45ca64a7e25e0b71",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil handling only; do not import daylight or scenery",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels consistently place white hospital band on left wrist, with modest closed gown, wet dark slippers, frightened expression and visible HEAVEN ticket.",
+          "Named art-only identity matches between full front/rear and large oil portrait; exact text, no environment or floor patches, opaque ivory."
+        ],
+        "specificationSha256": "8110c06e7284183bf6d335b56602f43e2057fc656f39145990760664f6c75763"
+      }
+    }
+  ],
+  "sourceSha256": "74a9921644ba7e45be57317b9fea7df7db04271e6b5c32d1e4b52613d5bc0c1f"
+}

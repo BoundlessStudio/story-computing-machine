@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "slug": "there-goes-your-name",
+  "title": "There Goes Your Name",
+  "source": "stories/there-goes-your-name/story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose and prompt read after true source marker. CANON Sedge and local name-call mechanism inspected. Four active sustained identities: Sedge, sister, fae, trained dog. Stolen name remains undisclosed; new art names apply only to other unnamed figures.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#sedge",
+    "universe/rules.md#sedges-local-name-call-binding",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Father",
+      "reason": "Deceased remembered relative; no present action or physical description."
+    },
+    {
+      "name": "Lame ewe, lamb and remaining flock",
+      "reason": "Rescue/task subjects without independent developed character identity; trained dog is included because it repeatedly initiates and carries rescue actions."
+    }
+  ],
+  "characters": [
+    {
+      "id": "sedge",
+      "name": "Sedge",
+      "role": "Shepherd and narrator who chooses a new working call-name",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "I'll use Sedge.",
+          "explanation": "Source-specific appearance and central action."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Human narrator, age/gender unspecified. Hooded coat, pack, crook, father's horn whistle on thong with undisclosed two-syllable old name carved. Skilled sheep worker; old memory remains intact."
+      },
+      "visualInterpretation": [
+        "Art-only appearance: androgynous adult about twenty-four, fair freckled skin, broad weathered face, sturdy average-height build, dark brown wavy hair cut to ears, hazel eyes. Dull olive hooded wool coat, brown trousers and muddy boots."
+      ],
+      "explicitCanon": [
+        "CANON shepherd's gender/age unresolved; old name undisclosed, memory and kinship intact, new call-name Sedge."
+      ],
+      "states": [
+        {
+          "name": "Rainy afternoon",
+          "description": "After fog thickens; source clothing/equipment retained, no invented ending."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Chosen source name and CANON universe entry, not prior undisclosed name."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Sedge\"; subtitle \"There Goes Your Name\". Human narrator, age/gender unspecified. Hooded coat, pack, crook, father's horn whistle on thong with undisclosed two-syllable old name carved. Skilled sheep worker; old memory remains intact. Art-only appearance: androgynous adult about twenty-four, fair freckled skin, broad weathered face, sturdy average-height build, dark brown wavy hair cut to ears, hazel eyes. Dull olive hooded wool coat, brown trousers and muddy boots. Two complete full-body views and one determined head-and-shoulders portrait. Crook held naturally, small pack worn, small horn whistle on chest thong; carve only indistinct shallow scratches, NO readable old name. Wet cloth surfaces muted, ordinary bodily integrity, no missing face or magical blankness. Do not depict floating letters, ghost soul, sister or animals. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Sedge\"; subtitle \"There Goes Your Name\". Human narrator, age/gender unspecified. Hooded coat, pack, crook, father's horn whistle on thong with undisclosed two-syllable old name carved. Skilled sheep worker; old memory remains intact. Art-only appearance: androgynous adult about twenty-four, fair freckled skin, broad weathered face, sturdy average-height build, dark brown wavy hair cut to ears, hazel eyes. Dull olive hooded wool coat, brown trousers and muddy boots. Two complete full-body views and one determined head-and-shoulders portrait. Crook held naturally, small pack worn, small horn whistle on chest thong; carve only indistinct shallow scratches, NO readable old name. Wet cloth surfaces muted, ordinary bodily integrity, no missing face or magical blankness. Do not depict floating letters, ghost soul, sister or animals. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+            "references": [
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+                "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+                "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+                "inspected": true
+              },
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+                "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+                "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:45:55.975747+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-6e32ea15-4e17-4421-b19d-782c352f43d2.png",
+            "outputSha256": "2400e7f76a42f2d5e2747e2b33b9d9c9c5e51a096beec9896d0492c01c0d94bd",
+            "returnedAt": "2026-09-24T15:48:21.422244+00:00",
+            "generatorReview": [
+              "Opaque RGB saved candidate inspected: exact Sedge/title, same freckled young-adult face/body across full front/rear and portrait; no implied canonical gender.",
+              "Crook, hooded coat, pack and horn whistle correct; whistle marks are illegible scratches, preserving undisclosed old name. No identity erasure or magic personification.",
+              "Fog-softened gray natural light and connected matte oil masses with wet subdued surfaces; ivory isolated character, no landscape/swatches/hand study. All source/reference/output/spec pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/there-goes-your-name/art/characters/sedge.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "2400e7f76a42f2d5e2747e2b33b9d9c9c5e51a096beec9896d0492c01c0d94bd",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:48:21.613149+00:00",
+        "evidence": [
+          "Opaque RGB saved candidate inspected: exact Sedge/title, same freckled young-adult face/body across full front/rear and portrait; no implied canonical gender.",
+          "Crook, hooded coat, pack and horn whistle correct; whistle marks are illegible scratches, preserving undisclosed old name. No identity erasure or magic personification.",
+          "Fog-softened gray natural light and connected matte oil masses with wet subdued surfaces; ivory isolated character, no landscape/swatches/hand study. All source/reference/output/spec pins verified."
+        ],
+        "sourceSha256": "01242a73d89e24db77298a1d6831ee95fffb92d0c94b64361c5b35415a4d30c7",
+        "outputSha256": "2400e7f76a42f2d5e2747e2b33b9d9c9c5e51a096beec9896d0492c01c0d94bd",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "b5da1f7207ea14b3cd9043f164bbb8866ebc795fe64320855702c59dc8af29f8"
+      }
+    },
+    {
+      "id": "elnith",
+      "name": "Elnith",
+      "role": "Sedge's fourteen-year-old sister and fellow shepherd",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "She was fourteen and had recently discovered that accuracy could be sharpened into a household weapon.",
+          "explanation": "Source-specific appearance and central action."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Fourteen-year-old girl, boots and buttoned coat, mud up to one eyebrow after rescue, mended reed whistle with thread/wax; same mind and identity before/after old-name theft."
+      },
+      "visualInterpretation": [
+        "Art-only name Elnith, youthful fair freckled face and hazel eyes, dark brown hair in a messy single braid, short small adolescent build. Muted slate-blue buttoned hooded work coat, ochre knit scarf, brown trousers, stout muddy boots."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Rainy afternoon",
+          "description": "After fog thickens; source clothing/equipment retained, no invented ending."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Sedge's fourteen-year-old sister and fellow shepherd",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in current prose; searched proposed name across universe/frozen memory/current specs, no match. Art name only."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Elnith\"; subtitle \"There Goes Your Name\". Fourteen-year-old girl, boots and buttoned coat, mud up to one eyebrow after rescue, mended reed whistle with thread/wax; same mind and identity before/after old-name theft. Art-only name Elnith, youthful fair freckled face and hazel eyes, dark brown hair in a messy single braid, short small adolescent build. Muted slate-blue buttoned hooded work coat, ochre knit scarf, brown trousers, stout muddy boots. Two complete fully clothed full-body views and one youthful stubborn worried portrait. Mud at ONE eyebrow and trouser knee, no wounds. Reed whistle on simple cord visibly repaired with thread, no separate hand detail. No lamb inside coat (select after lamb handed back), no adult proportions or sexualized styling. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Elnith\"; subtitle \"There Goes Your Name\". Fourteen-year-old girl, boots and buttoned coat, mud up to one eyebrow after rescue, mended reed whistle with thread/wax; same mind and identity before/after old-name theft. Art-only name Elnith, youthful fair freckled face and hazel eyes, dark brown hair in a messy single braid, short small adolescent build. Muted slate-blue buttoned hooded work coat, ochre knit scarf, brown trousers, stout muddy boots. Two complete fully clothed full-body views and one youthful stubborn worried portrait. Mud at ONE eyebrow and trouser knee, no wounds. Reed whistle on simple cord visibly repaired with thread, no separate hand detail. No lamb inside coat (select after lamb handed back), no adult proportions or sexualized styling. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+            "references": [
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+                "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+                "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+                "inspected": true
+              },
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+                "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+                "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:48:22.730634+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-e2163f59-daf6-4f20-9052-1349e3e4b50f.png",
+            "outputSha256": "96e58edd549f3a231d2d424c2bd17ecf160148bb704e4a5b31442fb027b7381f",
+            "returnedAt": "2026-09-24T15:52:15.692369+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels inspected: exact Elnith/title, unmistakably adolescent fully clothed sister; same youthful freckled face and braid front/rear/portrait.",
+              "One muddy brow/cheek, wet patched-looking work coat, mud knees and thread-repaired reed whistle follow source; no lamb after selected hand-off moment and no injury enlargement.",
+              "Diffuse rainy gray light and matte oil strokes, complete unclipped figures and ivory isolation; no scene, swatches or hand study. Art-only name/source/ref/output/spec pins recorded."
+            ]
+          }
+        ]
+      },
+      "output": "stories/there-goes-your-name/art/characters/elnith.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "96e58edd549f3a231d2d424c2bd17ecf160148bb704e4a5b31442fb027b7381f",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:52:15.897503+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels inspected: exact Elnith/title, unmistakably adolescent fully clothed sister; same youthful freckled face and braid front/rear/portrait.",
+          "One muddy brow/cheek, wet patched-looking work coat, mud knees and thread-repaired reed whistle follow source; no lamb after selected hand-off moment and no injury enlargement.",
+          "Diffuse rainy gray light and matte oil strokes, complete unclipped figures and ivory isolation; no scene, swatches or hand study. Art-only name/source/ref/output/spec pins recorded."
+        ],
+        "sourceSha256": "01242a73d89e24db77298a1d6831ee95fffb92d0c94b64361c5b35415a4d30c7",
+        "outputSha256": "96e58edd549f3a231d2d424c2bd17ecf160148bb704e4a5b31442fb027b7381f",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "3e0f57295f00233b36e0d8d47e3409c556ca10260f01d8f3b80abd298e1ff29e"
+      }
+    },
+    {
+      "id": "thessik",
+      "name": "Thessik",
+      "role": "The fae that steals and misdirects Sedge's old name-call",
+      "form": "Living fae",
+      "selectionEvidence": [
+        {
+          "quote": "a spray of rowan berries was braided into hair the brown-green of water seen through peat.",
+          "explanation": "Source-specific appearance and central action."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Small living fae about forearm-height (around half metre), disproportionately long legs, barefoot with pondweed between toes, brown-green hair braided with rowan berries, pale round whey-like eyes. Cupped/closed hand carries visually near-invisible stolen binding; no written word or glowing mark."
+      },
+      "visualInterpretation": [
+        "Art-only name Thessik. Ageless thin moss-olive humanoid with long mature angular face, pinched nose, long delicate pointed ears as restrained interpretation, small linen peat-brown tunic and shorts; no wings/horns/crown. Round pale gray-white eyes matte, no pupil glow."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Rainy afternoon",
+          "description": "After fog thickens; source clothing/equipment retained, no invented ending."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The fae that steals and misdirects Sedge's old name-call",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in current prose; searched proposed name across universe/frozen memory/current specs, no match. Art name only."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Thessik\"; subtitle \"There Goes Your Name\". Small living fae about forearm-height (around half metre), disproportionately long legs, barefoot with pondweed between toes, brown-green hair braided with rowan berries, pale round whey-like eyes. Cupped/closed hand carries visually near-invisible stolen binding; no written word or glowing mark. Art-only name Thessik. Ageless thin moss-olive humanoid with long mature angular face, pinched nose, long delicate pointed ears as restrained interpretation, small linen peat-brown tunic and shorts; no wings/horns/crown. Round pale gray-white eyes matte, no pupil glow. Two full-body views front and rear, disproportionately long legs, bent elbows and one closed fist tucked near chin in front, one sly head portrait. Bare feet, tiny strands of pondweed touching toes only; red rowan berries clearly braided into brown-green hair. No leaf umbrella, tree, pack seat, water, written rune, light trails, swatches or isolated hands. No infant/child look; tiny adultlike otherworldly proportions. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Thessik\"; subtitle \"There Goes Your Name\". Small living fae about forearm-height (around half metre), disproportionately long legs, barefoot with pondweed between toes, brown-green hair braided with rowan berries, pale round whey-like eyes. Cupped/closed hand carries visually near-invisible stolen binding; no written word or glowing mark. Art-only name Thessik. Ageless thin moss-olive humanoid with long mature angular face, pinched nose, long delicate pointed ears as restrained interpretation, small linen peat-brown tunic and shorts; no wings/horns/crown. Round pale gray-white eyes matte, no pupil glow. Two full-body views front and rear, disproportionately long legs, bent elbows and one closed fist tucked near chin in front, one sly head portrait. Bare feet, tiny strands of pondweed touching toes only; red rowan berries clearly braided into brown-green hair. No leaf umbrella, tree, pack seat, water, written rune, light trails, swatches or isolated hands. No infant/child look; tiny adultlike otherworldly proportions. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+            "references": [
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+                "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+                "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+                "inspected": true
+              },
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+                "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+                "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:52:16.976953+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-78618ecc-bae4-4c69-8792-73f98d94b9b3.png",
+            "outputSha256": "e6800984e83a148a58e6ecb6454605ca7a953a214910e3ea90ffaa9335ba18b7",
+            "returnedAt": "2026-09-24T15:56:19.347597+00:00",
+            "generatorReview": [
+              "Actual opaque RGB image inspected: exact Thessik/title, consistent ageless thin fae with markedly long legs, brown-green braided hair and rowan berries.",
+              "Pale whey-like non-glowing eyes, barefoot pondweed and closed hand near chin preserve source, with no written stolen name, autonomous name-creature or glowing rune. Art-only name/ear/clothing choices disclosed.",
+              "Matte directional oil across all anatomy, cool fog-softened natural light, whole front/rear bodies and expressive busts on ivory. No scenery/swatches/isolated hands. Pins current."
+            ]
+          }
+        ]
+      },
+      "output": "stories/there-goes-your-name/art/characters/thessik.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "e6800984e83a148a58e6ecb6454605ca7a953a214910e3ea90ffaa9335ba18b7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:56:19.524896+00:00",
+        "evidence": [
+          "Actual opaque RGB image inspected: exact Thessik/title, consistent ageless thin fae with markedly long legs, brown-green braided hair and rowan berries.",
+          "Pale whey-like non-glowing eyes, barefoot pondweed and closed hand near chin preserve source, with no written stolen name, autonomous name-creature or glowing rune. Art-only name/ear/clothing choices disclosed.",
+          "Matte directional oil across all anatomy, cool fog-softened natural light, whole front/rear bodies and expressive busts on ivory. No scenery/swatches/isolated hands. Pins current."
+        ],
+        "sourceSha256": "01242a73d89e24db77298a1d6831ee95fffb92d0c94b64361c5b35415a4d30c7",
+        "outputSha256": "e6800984e83a148a58e6ecb6454605ca7a953a214910e3ea90ffaa9335ba18b7",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "eea02222874f07eaa23f9c0abd7732e2a0a30dbedc478210fc3ede1ad2a3653c"
+      }
+    },
+    {
+      "id": "coppet",
+      "name": "Coppet",
+      "role": "The trained sheepdog that finds the sister and retrieves the rescue rope",
+      "form": "Ordinary canine",
+      "selectionEvidence": [
+        {
+          "quote": "The dog returned dragging the lambing rope by one loop.",
+          "explanation": "Source-specific appearance and central action."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Ordinary trained sheepdog; pricked ears, wet coat turns black in rain; fetches rope and manages ewe. No source breed/sex specified."
+      },
+      "visualInterpretation": [
+        "Art-only name Coppet. Lean medium adult working sheepdog, charcoal-brown rough coat with muted warm brown legs/muzzle, upright triangular ears, amber-brown eyes, long natural tail. Wet fur darker at back/sides; no collar or markings invented as canon."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Rainy afternoon",
+          "description": "After fog thickens; source clothing/equipment retained, no invented ending."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The trained sheepdog that finds the sister and retrieves the rescue rope",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in current prose; searched proposed name across universe/frozen memory/current specs, no match. Art name only."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Coppet\"; subtitle \"There Goes Your Name\". Ordinary trained sheepdog; pricked ears, wet coat turns black in rain; fetches rope and manages ewe. No source breed/sex specified. Art-only name Coppet. Lean medium adult working sheepdog, charcoal-brown rough coat with muted warm brown legs/muzzle, upright triangular ears, amber-brown eyes, long natural tail. Wet fur darker at back/sides; no collar or markings invented as canon. Use animal sheet layout: two complete QUADRUPED views side-three-quarter and rear-three-quarter, one attentive head portrait. In side view mouth gently holds a loose short loop of ordinary hemp rope; the rest is a neat small coil beside its paws on blank ivory with NO floor shadow patch. Four correct legs, normal mouth, one tail, no human body, no sheep/scenery/bowl/collar/magic. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Coppet\"; subtitle \"There Goes Your Name\". Ordinary trained sheepdog; pricked ears, wet coat turns black in rain; fetches rope and manages ewe. No source breed/sex specified. Art-only name Coppet. Lean medium adult working sheepdog, charcoal-brown rough coat with muted warm brown legs/muzzle, upright triangular ears, amber-brown eyes, long natural tail. Wet fur darker at back/sides; no collar or markings invented as canon. Use animal sheet layout: two complete QUADRUPED views side-three-quarter and rear-three-quarter, one attentive head portrait. In side view mouth gently holds a loose short loop of ordinary hemp rope; the rest is a neat small coil beside its paws on blank ivory with NO floor shadow patch. Four correct legs, normal mouth, one tail, no human body, no sheep/scenery/bowl/collar/magic. Source rainy/foggy afternoon light: diffuse cool gray sky, subdued warm ochre reflection, connected dark wet-cloth/fur shadows, NO sunbeam, rimlight or dramatic orange-blue. Actual attached same-story paintings primary for oil and weather-light only; empty opaque warm ivory background.",
+            "references": [
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+                "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+                "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+                "inspected": true
+              },
+              {
+                "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+                "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+                "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:56:20.573125+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-4065fc50-3bc9-423e-97c4-bf92f9fb3b3a.png",
+            "outputSha256": "f800bea68686ae3ce9d0b154ccd9d9c4b8d09cf107b10096757725d050133491",
+            "returnedAt": "2026-09-24T15:58:55.512004+00:00",
+            "generatorReview": [
+              "Inspected opaque RGB actual pixels: exact Coppet/title, coherent four-leg/one-tail canine anatomy in side/rear views and matching alert head; pricked ears and dark wet coat supported.",
+              "Ordinary sheepdog gently carries source lambing-rope loop; no collar, magic, shepherd or flock added. Newly assigned name is art-only and source unnamed status preserved in provenance.",
+              "Directional thick oil fur in connected dark masses with restrained rainy gray light; ivory isolation without floor patch, scenery, swatches or isolated paws. Source/reference/output/specification pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/there-goes-your-name/art/characters/coppet.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "f800bea68686ae3ce9d0b154ccd9d9c4b8d09cf107b10096757725d050133491",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:58:55.694577+00:00",
+        "evidence": [
+          "Inspected opaque RGB actual pixels: exact Coppet/title, coherent four-leg/one-tail canine anatomy in side/rear views and matching alert head; pricked ears and dark wet coat supported.",
+          "Ordinary sheepdog gently carries source lambing-rope loop; no collar, magic, shepherd or flock added. Newly assigned name is art-only and source unnamed status preserved in provenance.",
+          "Directional thick oil fur in connected dark masses with restrained rainy gray light; ivory isolation without floor patch, scenery, swatches or isolated paws. Source/reference/output/specification pins verified."
+        ],
+        "sourceSha256": "01242a73d89e24db77298a1d6831ee95fffb92d0c94b64361c5b35415a4d30c7",
+        "outputSha256": "f800bea68686ae3ce9d0b154ccd9d9c4b8d09cf107b10096757725d050133491",
+        "references": [
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/01-fog-at-the-spring.png",
+            "role": "Primary same-story Group of Seven oil forms and fog-softened cool daylight; no scenery.",
+            "sha256": "567eae23e46bcf7674d3e444d29e1c6af5d00c156d253bb6d9c629cc4a1df53d",
+            "inspected": true
+          },
+          {
+            "path": "stories/there-goes-your-name/art/landscapes/05-sedge-in-the-rain.png",
+            "role": "Source rainy afternoon subdued grays/olive/ochre paint and restrained shadow; no rain vignette or landscape.",
+            "sha256": "464f980d7a4960c87e07e3bd387d6520760c3bd3b5f72e25cb2d22f7e932be72",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "7f24c236a98412a97f8eef3441127ff5550534c62f0e2b18735c6a4cb5329756"
+      }
+    }
+  ],
+  "sourceSha256": "01242a73d89e24db77298a1d6831ee95fffb92d0c94b64361c5b35415a4d30c7"
+}

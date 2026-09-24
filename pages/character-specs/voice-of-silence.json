@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "slug": "voice-of-silence",
+  "title": "The Voice of Silence",
+  "source": "stories/voice-of-silence/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read authoritative story.json canon marker before complete 05-story.md and recorded 00-prompt.md. Main rescue identities are Kethra, Ulan, Dorram, the adult volunteer and the apprentice whose withdrawal is honored. LOCKED caller consent, voice limits, hearing and interdependence preserved; art establishes no canon.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#kethra",
+    "universe/characters.md#ulan",
+    "universe/characters.md#dorram",
+    "universe/rules.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Second apprentice, panel, healers and gallery audience",
+      "reason": "Brief collective/minor functions; no distinct sustained arc beyond selected withdrawn apprentice and volunteer."
+    }
+  ],
+  "characters": [
+    {
+      "id": "kethra",
+      "name": "Kethra",
+      "role": "Mute callwright shaper and new archmage; recurring identity",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Kethra laughed without a voice",
+          "explanation": "Mute callwright shaper and new archmage; recurring identity"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "She hears and communicates through fluent sign/slate/chalk; intact ordinary mouth, no cause of muteness specified. Slate, chalk and practical clothes. Source next-morning first safety briefing."
+      },
+      "visualInterpretation": [
+        "Same accepted physical identity as actual inspected A Lock on the Inside sheet: sturdy adult woman, warm olive-brown skin, broad face, short wavy black hair with gray at temples, strong dark brows.",
+        "Preserve olive rolled-sleeve tunic, cream undershirt, belt, charcoal trousers and brown boots as accepted noncanon visual continuity."
+      ],
+      "states": [
+        {
+          "name": "Selected reference state",
+          "description": " Heading \"Kethra\"; subtitle \"The Voice of Silence\". RECURRING IDENTITY: reference 1 is the accepted SAME woman; preserve her exact broad face, strong dark eyebrows, short wavy black hair with gray temple accents, warm olive-brown skin, sturdy average-height build, normal mouth, and olive rolled-sleeve belted tunic over cream undershirt, charcoal trousers and brown practical boots. New sheet for the next morning safety briefing: one full figure calmly writing on handheld slate with chalk, one complete full figure giving simple two-finger ready sign beside torso. One large thoughtful gently smiling bust, mouth natural and intact. Slate writing should be simple illegible chalk strokes; no false spell names or legible formulas. Her HEARING IS INTACT; no ear device, prosthetic voice, mouth injury, magical glow, magical writing, crown or seal badge. She remains mute, fully capable; no open speaking mouth. Source morning soft directional daylight. Exactly this one person across views. No separate slate/hand study, other people or location."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in source and LOCKED universe/characters.md."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Kethra\"; subtitle \"The Voice of Silence\". RECURRING IDENTITY: reference 1 is the accepted SAME woman; preserve her exact broad face, strong dark eyebrows, short wavy black hair with gray temple accents, warm olive-brown skin, sturdy average-height build, normal mouth, and olive rolled-sleeve belted tunic over cream undershirt, charcoal trousers and brown practical boots. New sheet for the next morning safety briefing: one full figure calmly writing on handheld slate with chalk, one complete full figure giving simple two-finger ready sign beside torso. One large thoughtful gently smiling bust, mouth natural and intact. Slate writing should be simple illegible chalk strokes; no false spell names or legible formulas. Her HEARING IS INTACT; no ear device, prosthetic voice, mouth injury, magical glow, magical writing, crown or seal badge. She remains mute, fully capable; no open speaking mouth. Source morning soft directional daylight. Exactly this one person across views. No separate slate/hand study, other people or location.",
+        "references": [
+          {
+            "path": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+            "role": "Primary exact recurring Kethra identity/clothing anchor, inspected actual accepted pixels; preserve face/hair/build and normal mouth.",
+            "sha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
+            "role": "Inspected source next-morning natural light and broad oil treatment only; omit court.",
+            "sha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Kethra\"; subtitle \"The Voice of Silence\". RECURRING IDENTITY: reference 1 is the accepted SAME woman; preserve her exact broad face, strong dark eyebrows, short wavy black hair with gray temple accents, warm olive-brown skin, sturdy average-height build, normal mouth, and olive rolled-sleeve belted tunic over cream undershirt, charcoal trousers and brown practical boots. New sheet for the next morning safety briefing: one full figure calmly writing on handheld slate with chalk, one complete full figure giving simple two-finger ready sign beside torso. One large thoughtful gently smiling bust, mouth natural and intact. Slate writing should be simple illegible chalk strokes; no false spell names or legible formulas. Her HEARING IS INTACT; no ear device, prosthetic voice, mouth injury, magical glow, magical writing, crown or seal badge. She remains mute, fully capable; no open speaking mouth. Source morning soft directional daylight. Exactly this one person across views. No separate slate/hand study, other people or location.",
+            "references": [
+              {
+                "path": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+                "role": "Primary exact recurring Kethra identity/clothing anchor, inspected actual accepted pixels; preserve face/hair/build and normal mouth.",
+                "sha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+                "inspected": true
+              },
+              {
+                "path": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
+                "role": "Inspected source next-morning natural light and broad oil treatment only; omit court.",
+                "sha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:26:34.824380+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-117e34c2-2830-45e4-82a0-24e810367669.png",
+            "outputSha256": "3c345b2f9d91e7b6874841f0dab2e24384637674d6336eb440835f8716b9a8cf",
+            "returnedAt": "2026-09-24T16:27:48.921630+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels inspected: exact Kethra/The Voice of Silence, recurring accepted broad face, short black/gray wavy hair, sturdy build and olive tunic/slate match.",
+              "Two complete figures write with chalk and offer two-finger ready sign; natural intact closed mouth, hearing unaltered, no speech machine/injury or magical writing. Bust thoughtful rather than speaking.",
+              "Morning natural light, consistent oil treatment, warm ivory isolation; no environment, hand-only study or swatches. Source/reference/output/specification pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/voice-of-silence/art/characters/kethra.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "3c345b2f9d91e7b6874841f0dab2e24384637674d6336eb440835f8716b9a8cf",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:27:49.094042+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels inspected: exact Kethra/The Voice of Silence, recurring accepted broad face, short black/gray wavy hair, sturdy build and olive tunic/slate match.",
+          "Two complete figures write with chalk and offer two-finger ready sign; natural intact closed mouth, hearing unaltered, no speech machine/injury or magical writing. Bust thoughtful rather than speaking.",
+          "Morning natural light, consistent oil treatment, warm ivory isolation; no environment, hand-only study or swatches. Source/reference/output/specification pins verified."
+        ],
+        "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a",
+        "outputSha256": "3c345b2f9d91e7b6874841f0dab2e24384637674d6336eb440835f8716b9a8cf",
+        "references": [
+          {
+            "path": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+            "role": "Primary exact recurring Kethra identity/clothing anchor, inspected actual accepted pixels; preserve face/hair/build and normal mouth.",
+            "sha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/landscapes/05-morning-in-the-scarred-court.png",
+            "role": "Inspected source next-morning natural light and broad oil treatment only; omit court.",
+            "sha256": "e7d1e03a6c814ac41bd3be7d59c99bb2b3be96e14181328d9c7314180823505e",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "4da7ce59cdf12b1bdc06e1519a424772c6ba8b27eb11d2b90836d848af514f89"
+      }
+    },
+    {
+      "id": "ulan",
+      "name": "Ulan",
+      "role": "Living caller and signing collaborator whose throat limits remain respected",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Two safe calls left",
+          "explanation": "Living caller and signing collaborator whose throat limits remain respected"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Male pronouns; source voice roughens, uses wet cloth, rests and communicates in sign. No mandated age or face."
+      },
+      "visualInterpretation": [
+        "Art-only appearance: lean adult man about thirty, dark brown skin, long oval face, short tight black curls, dark eyes, narrow moustache; blue-gray practical tunic with muted burgundy neck opening, brown trousers/boots.",
+        "Source dusk rest state uses held damp linen cloth and a calm closed mouth, not permanent neck injury."
+      ],
+      "states": [
+        {
+          "name": "Selected reference state",
+          "description": " Heading \"Ulan\"; subtitle \"The Voice of Silence\". ONE lean adult man around thirty, dark brown skin, long oval face with prominent gently hooked nose, short tight black curls, narrow moustache, dark matte eyes. Practical blue-gray knee-length tunic with muted burgundy collar opening, brown trousers and worn brown boots, no armor or wizard hat. Two full-body views: one holding a plain damp ivory linen cloth lowered beside his thigh, the other calmly using a small deliberate sign at chest height; hands remain attached to complete arms. One large closed-mouth portrait with tired attentive eyes and slight smile. Source post-rescue dusk resting his voice; subtle dust on clothing only, warm low light with connected muted blue/umber shadows. He can hear and speak but chooses voice rest; no wound, gag, voice-machine or glowing glyph. No separate hands, no scenery."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in source and LOCKED universe/characters.md."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Ulan\"; subtitle \"The Voice of Silence\". ONE lean adult man around thirty, dark brown skin, long oval face with prominent gently hooked nose, short tight black curls, narrow moustache, dark matte eyes. Practical blue-gray knee-length tunic with muted burgundy collar opening, brown trousers and worn brown boots, no armor or wizard hat. Two full-body views: one holding a plain damp ivory linen cloth lowered beside his thigh, the other calmly using a small deliberate sign at chest height; hands remain attached to complete arms. One large closed-mouth portrait with tired attentive eyes and slight smile. Source post-rescue dusk resting his voice; subtle dust on clothing only, warm low light with connected muted blue/umber shadows. He can hear and speak but chooses voice rest; no wound, gag, voice-machine or glowing glyph. No separate hands, no scenery.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Ulan\"; subtitle \"The Voice of Silence\". ONE lean adult man around thirty, dark brown skin, long oval face with prominent gently hooked nose, short tight black curls, narrow moustache, dark matte eyes. Practical blue-gray knee-length tunic with muted burgundy collar opening, brown trousers and worn brown boots, no armor or wizard hat. Two full-body views: one holding a plain damp ivory linen cloth lowered beside his thigh, the other calmly using a small deliberate sign at chest height; hands remain attached to complete arms. One large closed-mouth portrait with tired attentive eyes and slight smile. Source post-rescue dusk resting his voice; subtle dust on clothing only, warm low light with connected muted blue/umber shadows. He can hear and speak but chooses voice rest; no wound, gag, voice-machine or glowing glyph. No separate hands, no scenery.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+                "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+                "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:27:50.082472+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-baf2f2fc-f298-4e7e-93d8-7ee335236ef1.png",
+            "outputSha256": "6f28cc9f9222f8a31d3009198ddfc81f0132dcc2e735e7299b384a8d7f8c4c62",
+            "returnedAt": "2026-09-24T16:28:54.811799+00:00",
+            "generatorReview": [
+              "Opaque RGB pixels inspected, exact Ulan/title; consistent adult man across full views and portrait with natural closed mouth and uninjured neck.",
+              "Held linen and deliberate attached-hand sign express voluntary voice rest; hearing intact, no imposed muteness or magical device.",
+              "Complete limbs, broad oil treatment with connected subdued evening shadows, warm ivory isolation. No room, isolated hand or swatches; all pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/voice-of-silence/art/characters/ulan.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "6f28cc9f9222f8a31d3009198ddfc81f0132dcc2e735e7299b384a8d7f8c4c62",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:28:54.983470+00:00",
+        "evidence": [
+          "Opaque RGB pixels inspected, exact Ulan/title; consistent adult man across full views and portrait with natural closed mouth and uninjured neck.",
+          "Held linen and deliberate attached-hand sign express voluntary voice rest; hearing intact, no imposed muteness or magical device.",
+          "Complete limbs, broad oil treatment with connected subdued evening shadows, warm ivory isolation. No room, isolated hand or swatches; all pins verify."
+        ],
+        "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a",
+        "outputSha256": "6f28cc9f9222f8a31d3009198ddfc81f0132dcc2e735e7299b384a8d7f8c4c62",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "e1e28fa9159f10377a9d2c7f5fb255da8ce5158566983fa066aeab26b01b8408"
+      }
+    },
+    {
+      "id": "dorram",
+      "name": "Dorram",
+      "role": "Chief examiner who learns from the failed Roofstay and cedes command",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Dorram, the chief examiner",
+          "explanation": "Chief examiner who learns from the failed Roofstay and cedes command"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Examiner with slate, stylus and geometry staff; later warm cloth around throat. Appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only adult man about sixty, broad tan face, silver swept-back hair and short square gray beard, dignified heavy build; long dark teal examiner coat and muted ochre neckcloth.",
+        "Select morning examination state before roof failure, staff geometric measuring aid without stored magic. No villain coding."
+      ],
+      "states": [
+        {
+          "name": "Selected reference state",
+          "description": " Heading \"Dorram\"; subtitle \"The Voice of Silence\". ONE dignified heavy-built adult man about sixty with broad tan face, swept-back silver hair, short square gray beard, heavy brows and calm assessing dark eyes. Long dark teal practical examiner coat over ochre waistcoat, dark trousers, black-brown boots. Two complete full-body views: three-quarter upright holding plain wood measuring staff and a slate; a second side view consulting slate with stylus, staff resting in same whole-body hand if feasible or omit staff there. One larger portrait of attentive thoughtful authority, not sneering villain. Source morning examination window daylight. Staff entirely ordinary geometric aid, unlit wood/brass, no crystal, flame, magical aura or crown. No bench, floor, examination room, separate equipment or hand studies. All anatomy unclipped."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in source and LOCKED universe/characters.md."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Dorram\"; subtitle \"The Voice of Silence\". ONE dignified heavy-built adult man about sixty with broad tan face, swept-back silver hair, short square gray beard, heavy brows and calm assessing dark eyes. Long dark teal practical examiner coat over ochre waistcoat, dark trousers, black-brown boots. Two complete full-body views: three-quarter upright holding plain wood measuring staff and a slate; a second side view consulting slate with stylus, staff resting in same whole-body hand if feasible or omit staff there. One larger portrait of attentive thoughtful authority, not sneering villain. Source morning examination window daylight. Staff entirely ordinary geometric aid, unlit wood/brass, no crystal, flame, magical aura or crown. No bench, floor, examination room, separate equipment or hand studies. All anatomy unclipped.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Dorram\"; subtitle \"The Voice of Silence\". ONE dignified heavy-built adult man about sixty with broad tan face, swept-back silver hair, short square gray beard, heavy brows and calm assessing dark eyes. Long dark teal practical examiner coat over ochre waistcoat, dark trousers, black-brown boots. Two complete full-body views: three-quarter upright holding plain wood measuring staff and a slate; a second side view consulting slate with stylus, staff resting in same whole-body hand if feasible or omit staff there. One larger portrait of attentive thoughtful authority, not sneering villain. Source morning examination window daylight. Staff entirely ordinary geometric aid, unlit wood/brass, no crystal, flame, magical aura or crown. No bench, floor, examination room, separate equipment or hand studies. All anatomy unclipped.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+                "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+                "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:28:56.004301+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-43bfda36-13fd-481f-8496-492b6f11c126.png",
+            "outputSha256": "72f448e05bf5aac9810723bf0f92254cd612e8e64eab995a01858b9bd176c1c8",
+            "returnedAt": "2026-09-24T16:30:07.784510+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels: exact Dorram/title, consistent older dignified examiner face and teal/ochre clothes across front/side/portrait.",
+              "Slate/stylus and ordinary wood/brass measuring staff clear; no staff power, villain sneer, magical jewelry or glow; source initial examination state.",
+              "Complete anatomy, natural daylight broad connected oil masses, ivory isolation with no room, scene, swatches or hand-only studies; all pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/voice-of-silence/art/characters/dorram.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "72f448e05bf5aac9810723bf0f92254cd612e8e64eab995a01858b9bd176c1c8",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:30:07.953941+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels: exact Dorram/title, consistent older dignified examiner face and teal/ochre clothes across front/side/portrait.",
+          "Slate/stylus and ordinary wood/brass measuring staff clear; no staff power, villain sneer, magical jewelry or glow; source initial examination state.",
+          "Complete anatomy, natural daylight broad connected oil masses, ivory isolation with no room, scene, swatches or hand-only studies; all pins verify."
+        ],
+        "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a",
+        "outputSha256": "72f448e05bf5aac9810723bf0f92254cd612e8e64eab995a01858b9bd176c1c8",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "5d3354941fe03098281910a3a6209b9ed57bd5534fe44e7249d7e217f6c98b00"
+      }
+    },
+    {
+      "id": "zelneth",
+      "name": "Zelneth",
+      "role": "Adult volunteer who chooses Weightward during rescue",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "An adult volunteer from the lower gallery",
+          "explanation": "Adult volunteer who chooses Weightward during rescue"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "An adult volunteer from lower gallery; knows Weightward, studies the danger then freshly assents; given water and thanks."
+      },
+      "visualInterpretation": [
+        "Assigned art-only name; human woman about forty-five, dark umber skin, wide-set dark eyes, short coiled hair under rust kerchief, broad strong build; unadorned worker clothing.",
+        "Art interpretation avoids inventing a guild, military or magic office."
+      ],
+      "states": [
+        {
+          "name": "Selected reference state",
+          "description": " Heading \"Zelneth\"; subtitle \"The Voice of Silence\". ONE strong broad-built adult woman about forty-five, dark umber skin, wide-set dark eyes, broad rounded nose, short coiled black hair tucked under a plain RUST head kerchief. Ordinary undyed linen shirt with rolled sleeves, burnt-umber sleeveless work vest, simple dark slate ankle-length skirt and brown practical boots. Two complete standing views front-three-quarter and side, one hand gently raised offering help, other view hands relaxed. One large focused portrait closed mouth with restrained determined kindness. She is the adult volunteer caller, not uniformed mage. Source daylight through dust during rescue gives muted cream planes and cool gray connected shadows; clothes lightly dusted, no injuries/effects. No floor, tower, chalkmap, magic node, other people or isolated hands."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "evidence": "Source leaves this important figure unnamed. User explicitly authorized distinct names for artwork; checked universe and existing specs for collision. Does not rename source or establish canon."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Zelneth\"; subtitle \"The Voice of Silence\". ONE strong broad-built adult woman about forty-five, dark umber skin, wide-set dark eyes, broad rounded nose, short coiled black hair tucked under a plain RUST head kerchief. Ordinary undyed linen shirt with rolled sleeves, burnt-umber sleeveless work vest, simple dark slate ankle-length skirt and brown practical boots. Two complete standing views front-three-quarter and side, one hand gently raised offering help, other view hands relaxed. One large focused portrait closed mouth with restrained determined kindness. She is the adult volunteer caller, not uniformed mage. Source daylight through dust during rescue gives muted cream planes and cool gray connected shadows; clothes lightly dusted, no injuries/effects. No floor, tower, chalkmap, magic node, other people or isolated hands.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Zelneth\"; subtitle \"The Voice of Silence\". ONE strong broad-built adult woman about forty-five, dark umber skin, wide-set dark eyes, broad rounded nose, short coiled black hair tucked under a plain RUST head kerchief. Ordinary undyed linen shirt with rolled sleeves, burnt-umber sleeveless work vest, simple dark slate ankle-length skirt and brown practical boots. Two complete standing views front-three-quarter and side, one hand gently raised offering help, other view hands relaxed. One large focused portrait closed mouth with restrained determined kindness. She is the adult volunteer caller, not uniformed mage. Source daylight through dust during rescue gives muted cream planes and cool gray connected shadows; clothes lightly dusted, no injuries/effects. No floor, tower, chalkmap, magic node, other people or isolated hands.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+                "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+                "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:30:08.968592+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-b0c07f92-6b12-4ce9-b388-757e26cce82f.png",
+            "outputSha256": "3a6b51077b4ba5545b002a34d1c660d92f22e3027d3a4606cd4a0ff210398430",
+            "returnedAt": "2026-09-24T16:31:26.088125+00:00",
+            "generatorReview": [
+              "Opaque RGB pixels inspected: exact authorized art-only Zelneth/title, coherent adult volunteer identity and ordinary workclothes across complete front/side and portrait.",
+              "Helpful open attached hand, restrained determined expression, no invented guild insignia, wizard effects or injury; caller role leaves living assent intact.",
+              "Directional daylight and connected oil masses, warm ivory isolated body views without floor/location/swatches/isolated hand. All metadata pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/voice-of-silence/art/characters/zelneth.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "3a6b51077b4ba5545b002a34d1c660d92f22e3027d3a4606cd4a0ff210398430",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:31:26.262333+00:00",
+        "evidence": [
+          "Opaque RGB pixels inspected: exact authorized art-only Zelneth/title, coherent adult volunteer identity and ordinary workclothes across complete front/side and portrait.",
+          "Helpful open attached hand, restrained determined expression, no invented guild insignia, wizard effects or injury; caller role leaves living assent intact.",
+          "Directional daylight and connected oil masses, warm ivory isolated body views without floor/location/swatches/isolated hand. All metadata pins verify."
+        ],
+        "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a",
+        "outputSha256": "3a6b51077b4ba5545b002a34d1c660d92f22e3027d3a4606cd4a0ff210398430",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "eee7f5a29ad5a0d98a946aedd40ff09fcc063347caa94d759912e327de3a7d25"
+      }
+    },
+    {
+      "id": "beridel",
+      "name": "Beridel",
+      "role": "Apprentice who signs stop and safely withdraws",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "one apprentice found Kethraâ€™s eyes and crossed both hands: **stop**",
+          "explanation": "Apprentice who signs stop and safely withdraws"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Apprentice crosses both hands to cancel consent, later holds a cup in both hands; no blame."
+      },
+      "visualInterpretation": [
+        "Assigned art-only name; young adult age eighteen to twenty, androgynous slim build, fair warm skin, short dusty-blond crop, round face; plain pale-ochre tunic with muted celadon sash.",
+        "Two complete standing references inventory source stop sign and later holding a cup; not a literal illustrated scene."
+      ],
+      "states": [
+        {
+          "name": "Selected reference state",
+          "description": " Heading \"Beridel\"; subtitle \"The Voice of Silence\". ONE androgynous young ADULT apprentice aged eighteen to twenty, slim short build, fair warm skin, round face, short dusty-blond cropped hair, quiet gray-green eyes. Plain pale-ochre thigh-length tunic, muted celadon cloth sash, charcoal trousers, brown ankle boots. Two COMPLETE standing full-body views: one crossing both open hands in a clear STOP sign in front of chest with all arms anatomically connected; other holding a plain earthenware cup gently in both hands at waist. One expressive bust with a relieved tired closed-mouth expression. This is a caller safely withdrawing, not cowardice or punishment. Source evening after rescue, dusty clothes only with warm low light and connected muted shadows. No wounds, magic, shame posture, room, chair, floor or isolated hand study."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "evidence": "Source leaves this important figure unnamed. User explicitly authorized distinct names for artwork; checked universe and existing specs for collision. Does not rename source or establish canon."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Beridel\"; subtitle \"The Voice of Silence\". ONE androgynous young ADULT apprentice aged eighteen to twenty, slim short build, fair warm skin, round face, short dusty-blond cropped hair, quiet gray-green eyes. Plain pale-ochre thigh-length tunic, muted celadon cloth sash, charcoal trousers, brown ankle boots. Two COMPLETE standing full-body views: one crossing both open hands in a clear STOP sign in front of chest with all arms anatomically connected; other holding a plain earthenware cup gently in both hands at waist. One expressive bust with a relieved tired closed-mouth expression. This is a caller safely withdrawing, not cowardice or punishment. Source evening after rescue, dusty clothes only with warm low light and connected muted shadows. No wounds, magic, shame posture, room, chair, floor or isolated hand study.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Beridel\"; subtitle \"The Voice of Silence\". ONE androgynous young ADULT apprentice aged eighteen to twenty, slim short build, fair warm skin, round face, short dusty-blond cropped hair, quiet gray-green eyes. Plain pale-ochre thigh-length tunic, muted celadon cloth sash, charcoal trousers, brown ankle boots. Two COMPLETE standing full-body views: one crossing both open hands in a clear STOP sign in front of chest with all arms anatomically connected; other holding a plain earthenware cup gently in both hands at waist. One expressive bust with a relieved tired closed-mouth expression. This is a caller safely withdrawing, not cowardice or punishment. Source evening after rescue, dusty clothes only with warm low light and connected muted shadows. No wounds, magic, shame posture, room, chair, floor or isolated hand study.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+                "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+                "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:31:27.284769+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-238ffef8-06e7-4af2-bde1-74e430048a84.png",
+            "outputSha256": "eb84e4fb5a5ad489c2aac31c502d3a2fd72ff7e97a79f42053f89d9b63c91ccb",
+            "returnedAt": "2026-09-24T16:32:32.310178+00:00",
+            "generatorReview": [
+              "Opaque RGB inspected: exact Beridel/title; coherent young adult apprentice across views, source crossed-hands stop clearly readable with ordinary anatomy.",
+              "Later cup held in both hands and relieved expression preserve honored voluntary withdrawal; no punishment, gag, wound or magic.",
+              "Two complete bodies and bust, evening oil light, warm ivory isolation, no environment/swatches/isolated hands. All source/reference/output/specification pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/voice-of-silence/art/characters/beridel.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "eb84e4fb5a5ad489c2aac31c502d3a2fd72ff7e97a79f42053f89d9b63c91ccb",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:32:32.479063+00:00",
+        "evidence": [
+          "Opaque RGB inspected: exact Beridel/title; coherent young adult apprentice across views, source crossed-hands stop clearly readable with ordinary anatomy.",
+          "Later cup held in both hands and relieved expression preserve honored voluntary withdrawal; no punishment, gag, wound or magic.",
+          "Two complete bodies and bust, evening oil light, warm ivory isolation, no environment/swatches/isolated hands. All source/reference/output/specification pins verified."
+        ],
+        "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a",
+        "outputSha256": "eb84e4fb5a5ad489c2aac31c502d3a2fd72ff7e97a79f42053f89d9b63c91ccb",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected shared oil collection: connected masses, directional paint and selective impasto, no environmental content.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/voice-of-silence/art/interiors/01-the-examination-chamber.png",
+            "role": "Inspected source examination-day cool windowlight and warm brass/stone palette only; no location on sheet.",
+            "sha256": "6a3529ef6baa3b67e2fc33197037968ade33f4b117745306477aeb2107bd047f",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "42a3ee7d3ea984436e027adb2d857cf3fbc2769076700f139643b00355691fe3"
+      }
+    }
+  ],
+  "sourceSha256": "f033724a794a8fc9ae812d163e318ff4b9897a10bb48aa7362ce23e3ef263f5a"
+}

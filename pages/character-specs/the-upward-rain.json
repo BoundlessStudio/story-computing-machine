@@ -53,7 +53,7 @@
         "type": "source",
         "sourceName": "Anouk Verren"
       },
-      "status": "deferred",
+      "status": "completed",
       "output": "stories/the-upward-rain/art/characters/anouk-verren.png",
       "generation": {
         "prompt": "TEXT-ONLY EDIT of this exact character sheet. Change ONLY the subtitle beneath Anouk Verren to EXACTLY \"The Upward Rain\". Spelling: T h e, U p w a r d, R a i n. It currently says Run; it must say Rain. Preserve ALL pixels of character identity, faces, hair, clothing, equipment, paint, layout, ivory background and the correct heading \"Anouk Verren\". No other edit.",
@@ -145,16 +145,59 @@
             "preflight": "After actual pixel/source comparison: exact text-only correction for Anouk; Juni diagnosis requires changed composition to remove conflicting cover cues. No hand anatomy correction/studies. All actual useful inputs inspected.",
             "startedAt": "2026-09-24T13:00:08.327596+00:00",
             "toolInvoked": false
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:09:31.579436+00:00",
+            "prompt": "TEXT-ONLY EDIT of this exact character sheet. Change ONLY the subtitle beneath Anouk Verren to EXACTLY \"The Upward Rain\". Spelling: T h e, U p w a r d, R a i n. It currently says Run; it must say Rain. Preserve ALL pixels of character identity, faces, hair, clothing, equipment, paint, layout, ivory background and the correct heading \"Anouk Verren\". No other edit.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-79c85e8d-d731-4649-a179-26cb4f3d9465.png",
+                "sha256": "fb0e275f151edc90eb4bf7f862eba677c86e637a24c6a5d812bcf4f2cc41ddbb",
+                "inspected": true,
+                "role": "Immutable inspected candidate for named correction/identity only."
+              }
+            ],
+            "preflight": "Root read finished source fully, inspected saved candidate and selected oil references. Anouk requires exact subtitle only; Juni failed due to anime/incorrect flight sigils, so new non-flying composition and no defective target as rendering input. Stable source costume/ordinary shoes/cuff stylus and source heel-curl/right-crown mechanics retained. No isolated hand studies.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-68dcef41-1ecb-4f87-a31e-fa3481a01988.png",
+            "candidateSha256": "27f182952fe360a3fc60d5f088c3da3ecd3a665ce4f986c6070ad91e9d741340",
+            "reviewedAt": "2026-09-24T15:19:35.237599+00:00",
+            "findings": [
+              "Root inspected actual pixels: subtitle now exactly The Upward Rain; Anouk Verren name correct. Source intact survey state, empty foam case, harness/radio/pack/probe preserved; consistent natural adult face and opaque ivory landscape sheet."
+            ]
           }
-        ]
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "selectedAttempt": 4
       },
       "preflight": {
         "status": "PASS",
         "evidence": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs."
       },
       "validation": {
-        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
-      }
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:19:35.243408+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual pixels: subtitle now exactly The Upward Rain; Anouk Verren name correct. Source intact survey state, empty foam case, harness/radio/pack/probe preserved; consistent natural adult face and opaque ivory landscape sheet."
+        ],
+        "sourceSha256": "d4e0f0816ef93807ba8b97ecd9553a9a218089eb3ee54327a5c9b0115d4a6091",
+        "outputSha256": "27f182952fe360a3fc60d5f088c3da3ecd3a665ce4f986c6070ad91e9d741340",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-79c85e8d-d731-4649-a179-26cb4f3d9465.png",
+            "sha256": "fb0e275f151edc90eb4bf7f862eba677c86e637a24c6a5d812bcf4f2cc41ddbb",
+            "inspected": true,
+            "role": "Immutable inspected candidate for named correction/identity only."
+          }
+        ],
+        "specificationSha256": "52c098f929b9ebd6011939f8c66c96b3093a95c1aaaa340fcaceb725f98667a0"
+      },
+      "outputSha256": "27f182952fe360a3fc60d5f088c3da3ecd3a665ce4f986c6070ad91e9d741340",
+      "blockers": []
     },
     {
       "id": "kasim-orrel",

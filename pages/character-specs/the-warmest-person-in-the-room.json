@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-warmest-person-in-the-room",
+  "title": "The Warmest Person in the Room",
+  "source": "stories/the-warmest-person-in-the-room/story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire current finished prose and complete prompt read after true marker inspected. LOCKED Caleb/Mirelle and cold rules read. Three identities carry relationship and institutional pressure: two protagonists and principal requesting student. Cover symbolic frost is not active prose tour state.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#caleb",
+    "universe/characters.md#mirelle",
+    "universe/rules.md#mirelles-cursed-cold",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Gold-sashed guides, tank students, first-years, petition student, valve student, crowd",
+      "reason": "Brief single-function witnesses or exchanges; no sustained individual cast role."
+    }
+  ],
+  "characters": [
+    {
+      "id": "mirelle",
+      "name": "Mirelle",
+      "role": "Adult cursed-cold prodigy, Caleb's established girlfriend",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "the black braid over one shoulder, and the tiny silver snowflake pinned crookedly to her collar",
+          "explanation": "Source appearance and central narrative role."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult woman; dark blue coat, severe mouth, black braid over shoulder, tiny crooked silver snowflake pin, gloves, stack of books. Later pale numb fingers wrapped in Caleb's red wool scarf. Pale scar beside thumb; not a whole-hand injury."
+      },
+      "visualInterpretation": [
+        "Keep inspected cover's long oval pale olive face, dark eyes, heavy black braid and navy wool coat. Adult around twenty-four as art-only age; average height/slim build. Dark trousers and plain black boots; no queen costume."
+      ],
+      "explicitCanon": [
+        "LOCKED adult student, blunt and exact with others, affectionate established relationship.",
+        "LOCKED cursed cold is startle-triggered three-metre pulse, redirects at cost; familiar visible approach does not trigger it. No cure, no permanent snow aura."
+      ],
+      "states": [
+        {
+          "name": "Gloved and warming",
+          "description": "Character studies isolate source-supported appearance; no invented magical event."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact canonical name in source and universe."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Mirelle\"; subtitle \"The Warmest Person in the Room\". Adult woman; dark blue coat, severe mouth, black braid over shoulder, tiny crooked silver snowflake pin, gloves, stack of books. Later pale numb fingers wrapped in Caleb's red wool scarf. Pale scar beside thumb; not a whole-hand injury. Keep inspected cover's long oval pale olive face, dark eyes, heavy black braid and navy wool coat. Adult around twenty-four as art-only age; average height/slim build. Dark trousers and plain black boots; no queen costume. Two full-body states: front-three-quarter early \"Gloved\" carrying a stack of books with dark gloves; three-quarter rear later \"Warming\" with both bare hands wrapped together in a red WOOL scarf near her chest, gloves tucked in pocket. One large HEAD-AND-SHOULDERS portrait with dry tiny private smile. Keep same braid and face. Tiny crooked silver snowflake pin only. Absolutely no frost aura, ice circle or ice beam: no cold pulse occurs in depicted tour. Red scarf warms hands and is NOT a magical restraint. Do not create any hand/torso closeup. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/title-image.jpg",
+            "role": "Mirelle face/hair, navy coat, snowflake and scarf identity only; omit symbolic frost circle and glossy rendering because prose controls.",
+            "sha256": "85d4e3f9eb1820620463fa51eaa7eb08136bde90c54a94840f4acf7f62bdef63",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Mirelle\"; subtitle \"The Warmest Person in the Room\". Adult woman; dark blue coat, severe mouth, black braid over shoulder, tiny crooked silver snowflake pin, gloves, stack of books. Later pale numb fingers wrapped in Caleb's red wool scarf. Pale scar beside thumb; not a whole-hand injury. Keep inspected cover's long oval pale olive face, dark eyes, heavy black braid and navy wool coat. Adult around twenty-four as art-only age; average height/slim build. Dark trousers and plain black boots; no queen costume. Two full-body states: front-three-quarter early \"Gloved\" carrying a stack of books with dark gloves; three-quarter rear later \"Warming\" with both bare hands wrapped together in a red WOOL scarf near her chest, gloves tucked in pocket. One large HEAD-AND-SHOULDERS portrait with dry tiny private smile. Keep same braid and face. Tiny crooked silver snowflake pin only. Absolutely no frost aura, ice circle or ice beam: no cold pulse occurs in depicted tour. Red scarf warms hands and is NOT a magical restraint. Do not create any hand/torso closeup. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+                "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+                "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-warmest-person-in-the-room/title-image.jpg",
+                "role": "Mirelle face/hair, navy coat, snowflake and scarf identity only; omit symbolic frost circle and glossy rendering because prose controls.",
+                "sha256": "85d4e3f9eb1820620463fa51eaa7eb08136bde90c54a94840f4acf7f62bdef63",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:23:04.081206+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-b8f3b341-abf0-498f-826a-aea8c116df19.png",
+            "outputSha256": "bb2239e697420b79d7d601b9b3dc86216ba3cf1e3a4eb11c8407c1c558ffb7ce",
+            "returnedAt": "2026-09-24T15:26:13.906784+00:00",
+            "generatorReview": [
+              "Actual opaque RGB 1536x1024 pixels inspected: exact Mirelle/full title, cover-derived young-adult face and black braid repeat consistently across two whole-body views and portrait.",
+              "Dark blue coat, silver snowflake, gloved book-carrying state and later bare hand/red wool scarf state are readable. No active frost pulse, magic restraint, cure or invented costume; LOCKED physiology/agency preserved.",
+              "Cloud-diffused cool light, navy connected shadows and oil-built skin/clothes; ivory character-only presentation without scene, hand study or swatches. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-warmest-person-in-the-room/art/characters/mirelle.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "bb2239e697420b79d7d601b9b3dc86216ba3cf1e3a4eb11c8407c1c558ffb7ce",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:26:14.111744+00:00",
+        "evidence": [
+          "Actual opaque RGB 1536x1024 pixels inspected: exact Mirelle/full title, cover-derived young-adult face and black braid repeat consistently across two whole-body views and portrait.",
+          "Dark blue coat, silver snowflake, gloved book-carrying state and later bare hand/red wool scarf state are readable. No active frost pulse, magic restraint, cure or invented costume; LOCKED physiology/agency preserved.",
+          "Cloud-diffused cool light, navy connected shadows and oil-built skin/clothes; ivory character-only presentation without scene, hand study or swatches. Pins verified."
+        ],
+        "sourceSha256": "4c8fc01b732caf85f6f39f1757f96298c2a2f8e36c7b015cf6af9fa227e5b21e",
+        "outputSha256": "bb2239e697420b79d7d601b9b3dc86216ba3cf1e3a4eb11c8407c1c558ffb7ce",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/title-image.jpg",
+            "role": "Mirelle face/hair, navy coat, snowflake and scarf identity only; omit symbolic frost circle and glossy rendering because prose controls.",
+            "sha256": "85d4e3f9eb1820620463fa51eaa7eb08136bde90c54a94840f4acf7f62bdef63",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "eed3f1bd11f64e91338db48b9b93470f10cf8dbc2706531c0e5407fab7eff10b"
+      }
+    },
+    {
+      "id": "caleb",
+      "name": "Caleb",
+      "role": "Incoming adult Brightward student, narrator and Mirelle's boyfriend",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "I unwound the red scarf from my neck and held it out.",
+          "explanation": "Source appearance and central narrative role."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult man, ordinary incoming student; two bags/satchel and red wool scarf before he lends it. Powers or lack of powers unspecified."
+      },
+      "visualInterpretation": [
+        "Art interpretation: around twenty-five, medium-tall slim man, warm beige skin, long open face, broad smiling mouth, slightly uneven nose, wavy tawny-brown hair, brown eyes. Charcoal wool sweater, warm umber casual jacket, dark trousers, practical lace-up boots."
+      ],
+      "explicitCanon": [
+        "LOCKED adult incoming student, established boyfriend; already understands Mirelle's condition.",
+        "Surname, exact age and powers unresolved."
+      ],
+      "states": [
+        {
+          "name": "Opening orientation state",
+          "description": "Character studies isolate source-supported appearance; no invented magical event."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact canonical name in source and universe."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Caleb\"; subtitle \"The Warmest Person in the Room\". Adult man, ordinary incoming student; two bags/satchel and red wool scarf before he lends it. Powers or lack of powers unspecified. Art interpretation: around twenty-five, medium-tall slim man, warm beige skin, long open face, broad smiling mouth, slightly uneven nose, wavy tawny-brown hair, brown eyes. Charcoal wool sweater, warm umber casual jacket, dark trousers, practical lace-up boots. Two complete full-body views front-three-quarter and rear of SAME opening state: red wool scarf worn at neck, brown satchel strap diagonally across body, second small soft travel bag held by handle. One head-and-shoulders portrait of self-mocking sheepish humor. No superhero logo, magic effects or invented powers. Do not show Mirelle; no hug with invisible partner. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Caleb\"; subtitle \"The Warmest Person in the Room\". Adult man, ordinary incoming student; two bags/satchel and red wool scarf before he lends it. Powers or lack of powers unspecified. Art interpretation: around twenty-five, medium-tall slim man, warm beige skin, long open face, broad smiling mouth, slightly uneven nose, wavy tawny-brown hair, brown eyes. Charcoal wool sweater, warm umber casual jacket, dark trousers, practical lace-up boots. Two complete full-body views front-three-quarter and rear of SAME opening state: red wool scarf worn at neck, brown satchel strap diagonally across body, second small soft travel bag held by handle. One head-and-shoulders portrait of self-mocking sheepish humor. No superhero logo, magic effects or invented powers. Do not show Mirelle; no hug with invisible partner. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+                "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+                "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:26:15.231678+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-135a2ef6-527d-4c2d-87e0-b84841a6e2ed.png",
+            "outputSha256": "4952463cca9066d313ad1348a5df59a749e14b96ef85c74dc3d003e1fa3dea18",
+            "returnedAt": "2026-09-24T15:28:40.880769+00:00",
+            "generatorReview": [
+              "Opaque RGB sheet inspected: exact Caleb and full title; same adult lanky curly-haired identity across full front/rear and sheepish smiling bust.",
+              "Source red scarf at neck and incoming-student bags supported; no invented powers, surname, heroic costume or implied treatment of Mirelle.",
+              "Soft cloudy light and matte directional oil on face and garments, connected dark clothing; two complete figures on ivory, no scenery/swatches/hand study. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-warmest-person-in-the-room/art/characters/caleb.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "4952463cca9066d313ad1348a5df59a749e14b96ef85c74dc3d003e1fa3dea18",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:28:41.078172+00:00",
+        "evidence": [
+          "Opaque RGB sheet inspected: exact Caleb and full title; same adult lanky curly-haired identity across full front/rear and sheepish smiling bust.",
+          "Source red scarf at neck and incoming-student bags supported; no invented powers, surname, heroic costume or implied treatment of Mirelle.",
+          "Soft cloudy light and matte directional oil on face and garments, connected dark clothing; two complete figures on ivory, no scenery/swatches/hand study. Pins verified."
+        ],
+        "sourceSha256": "4c8fc01b732caf85f6f39f1757f96298c2a2f8e36c7b015cf6af9fa227e5b21e",
+        "outputSha256": "4952463cca9066d313ad1348a5df59a749e14b96ef85c74dc3d003e1fa3dea18",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "94e881642240718deaf50af0cfb0085c449740dd07fcae1b91944f2caa9a4a96"
+      }
+    },
+    {
+      "id": "rivolt",
+      "name": "Rivolt",
+      "role": "The resistance-practical student who tries to use Mirelle as a cold source",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "A student in a silver-piped practice vest stepped out of an alcove.",
+          "explanation": "Source appearance and central narrative role."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult male college student; silver-piped practice vest and slate held against chest; fearful yet persistent; flushed when exposed."
+      },
+      "visualInterpretation": [
+        "Art-only name and design: late twenties, shorter stocky build, pale tan skin, square cheeks, narrow eyes, short straight ash-brown hair with high hairline, clean shaven. Slate-gray practice vest edged in silver over dark undershirt, training trousers and ankle boots."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Opening orientation state",
+          "description": "Character studies isolate source-supported appearance; no invented magical event."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Silver-piped resistance-practical student",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in finished source; distinct art identity, no source/canon change."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Rivolt\"; subtitle \"The Warmest Person in the Room\". Adult male college student; silver-piped practice vest and slate held against chest; fearful yet persistent; flushed when exposed. Art-only name and design: late twenties, shorter stocky build, pale tan skin, square cheeks, narrow eyes, short straight ash-brown hair with high hairline, clean shaven. Slate-gray practice vest edged in silver over dark undershirt, training trousers and ankle boots. Two complete full-body views and one defensive uneasy head-and-shoulders portrait. Silver-piped practice vest, flat non-glowing slate held firmly against chest in front view, rear view shows vest piping. Slate screen turned inward so no text diagram needs depiction. No restraint frame, frost, scene or other people. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Rivolt\"; subtitle \"The Warmest Person in the Room\". Adult male college student; silver-piped practice vest and slate held against chest; fearful yet persistent; flushed when exposed. Art-only name and design: late twenties, shorter stocky build, pale tan skin, square cheeks, narrow eyes, short straight ash-brown hair with high hairline, clean shaven. Slate-gray practice vest edged in silver over dark undershirt, training trousers and ankle boots. Two complete full-body views and one defensive uneasy head-and-shoulders portrait. Silver-piped practice vest, flat non-glowing slate held firmly against chest in front view, rear view shows vest piping. Slate screen turned inward so no text diagram needs depiction. No restraint frame, frost, scene or other people. Lighting: story's late-morning CLOUDY daylight through college windows, cool soft diffused light and connected gray-violet/umber shadows, no sunlight shaft, orange-blue glamour or rim glow. Primary painting inputs give actual oil technique; cover if attached supplies identity only.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+                "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+                "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:28:42.169509+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f963fa68-2617-4fdf-a66c-1542f062e5d8.png",
+            "outputSha256": "3259362fe0a4df00550c3f8cb94573261b595570d1da7c66f9eebb13c79d1750",
+            "returnedAt": "2026-09-24T15:31:24.664505+00:00",
+            "generatorReview": [
+              "Opaque RGB exact output inspected: correct Rivolt/full title; short stocky adult man and anxious flushed square face consistent in front/rear/portrait.",
+              "Source silver-piped practice vest and chest-held slate are clear; screen inward avoids inaccurate form contents. Art-only name and appearance provenance recorded.",
+              "Cloudy soft light and matte oil masses; complete figures on ivory, no scene, swatches, detached hands or invented power. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-warmest-person-in-the-room/art/characters/rivolt.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "3259362fe0a4df00550c3f8cb94573261b595570d1da7c66f9eebb13c79d1750",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:31:24.849559+00:00",
+        "evidence": [
+          "Opaque RGB exact output inspected: correct Rivolt/full title; short stocky adult man and anxious flushed square face consistent in front/rear/portrait.",
+          "Source silver-piped practice vest and chest-held slate are clear; screen inward avoids inaccurate form contents. Art-only name and appearance provenance recorded.",
+          "Cloudy soft light and matte oil masses; complete figures on ivory, no scene, swatches, detached hands or invented power. Pins verified."
+        ],
+        "sourceSha256": "4c8fc01b732caf85f6f39f1757f96298c2a2f8e36c7b015cf6af9fa227e5b21e",
+        "outputSha256": "3259362fe0a4df00550c3f8cb94573261b595570d1da7c66f9eebb13c79d1750",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary connected Group of Seven oil planes, varied strokes and restrained shadow colours; no terrain.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-warmest-person-in-the-room/art/interiors/03-the-service-stair.png",
+            "role": "Same-story painted palette and surfaces, adapted to prose late-morning cloud-diffused light; do not borrow sun patches or room.",
+            "sha256": "d57b8712b63e792bb11a5f5db90957aaf40f1a7d6d7bdf4c3974b100d5088637",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "be0fbedc511ada4d776c9bbc610d69c87aafe21f2fa4e1afb98649a7e57b4cdf"
+      }
+    }
+  ],
+  "sourceSha256": "4c8fc01b732caf85f6f39f1757f96298c2a2f8e36c7b015cf6af9fa227e5b21e"
+}

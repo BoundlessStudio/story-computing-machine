@@ -108,30 +108,30 @@
         }
       ],
       "output": "stories/the-next-train/art/characters/clotho.png",
-      "status": "deferred",
+      "status": "completed",
       "blockers": [],
       "generation": {
         "tool": "image_gen__imagegen",
         "backendModel": "Not reported by built-in tool",
-        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve black shaggy hair and VR headset completely covering both eyes in EVERY view, black coat and peach. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "prompt": "Use case: style-transfer. Repaint the character reference sheet in image 3 as a traditional Canadian Group of Seven oil study. Image 1 is the PRIMARY guide to broad connected opaque oil masses, directional bristle/knife work and restrained overhead-warm/cool-shadow lighting. Image 2 is a guide to painted human faces and warm ivory folio presentation ONLY: never copy her identity, armor or cloak. Image 3 is the identity, costume, equipment, poses and exact lettering to preserve; its anime drawing is the defect to replace.\nCreate one landscape 1536x1024 sheet on an OPAQUE light warm IVORY painted ground. Keep clear black readable character name and The Next Train title, full unclipped front/back forms and useful upper-body expressions. Preserve the subject's own adult likeness and proportions across views, but replace ink outlines, cel shapes, spiky linework and anime facial shorthand with natural adult planes sculpted in opaque oil. Hair should be a few chunky bristled masses; faces/eyes/noses/lips/ears should have the same substantial painted construction as the garments, not thin smooth illustration beneath a paint texture filter. Small natural eyes, varied connected shadow and broad cheeks. Selective raised paint, quieter joining passages, matte dark clothing; no glossy CG and no ornamental rim light.\nNo extra characters, no isolated hands, no scenic vignette, floor/shadow patch, swatches or palette strip. The entire background must be visible opaque warm ivory, including between figures, with readable dark text. One adult woman: shaggy short BLACK hair, broad dark VR visor fully covering both eyes in EVERY view, gray frame/black strap, worn oversized black punk coat, hoodie, baggy charcoal trousers and black canvas high-top boots. Preserve her angular lower face and slim androgynous build. Front/back plus Wry, Pleased and Trading a peach upper-body states. One bruised peach; no fate-thread or myth equipment. Name exactly Clotho.",
         "references": [
           {
-            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-68b22073-b22c-4a85-825a-b7c91062e5c7.png",
-            "sha256": "545efe9ee20e6c77f63f526393bf8c59cd5b022254fe1ad05d708e295030cbf0",
-            "inspected": true,
-            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
-          },
-          {
             "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
             "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
-            "inspected": true,
-            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+            "inspected": true
           },
           {
-            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
-            "inspected": true,
-            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9a77d7d1-b40b-4df2-b15a-7631ef82fcc6.png",
+            "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+            "sha256": "aa1f12e7a3a6af2057a0b5956ef340c8b2ebb892916a9ad859bb891781d2d301",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -199,10 +199,80 @@
             "findings": [
               "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
             ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T14:54:09.831686+00:00",
+            "prompt": "Use case: style-transfer. Repaint the character reference sheet in image 3 as a traditional Canadian Group of Seven oil study. Image 1 is the PRIMARY guide to broad connected opaque oil masses, directional bristle/knife work and restrained overhead-warm/cool-shadow lighting. Image 2 is a guide to painted human faces and warm ivory folio presentation ONLY: never copy her identity, armor or cloak. Image 3 is the identity, costume, equipment, poses and exact lettering to preserve; its anime drawing is the defect to replace.\nCreate one landscape 1536x1024 sheet on an OPAQUE light warm IVORY painted ground. Keep clear black readable character name and The Next Train title, full unclipped front/back forms and useful upper-body expressions. Preserve the subject's own adult likeness and proportions across views, but replace ink outlines, cel shapes, spiky linework and anime facial shorthand with natural adult planes sculpted in opaque oil. Hair should be a few chunky bristled masses; faces/eyes/noses/lips/ears should have the same substantial painted construction as the garments, not thin smooth illustration beneath a paint texture filter. Small natural eyes, varied connected shadow and broad cheeks. Selective raised paint, quieter joining passages, matte dark clothing; no glossy CG and no ornamental rim light.\nNo extra characters, no isolated hands, no scenic vignette, floor/shadow patch, swatches or palette strip. The entire background must be visible opaque warm ivory, including between figures, with readable dark text. One adult woman: shaggy short BLACK hair, broad dark VR visor fully covering both eyes in EVERY view, gray frame/black strap, worn oversized black punk coat, hoodie, baggy charcoal trousers and black canvas high-top boots. Preserve her angular lower face and slim androgynous build. Front/back plus Wry, Pleased and Trading a peach upper-body states. One bruised peach; no fate-thread or myth equipment. Name exactly Clotho.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9a77d7d1-b40b-4df2-b15a-7631ef82fcc6.png",
+                "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+                "sha256": "aa1f12e7a3a6af2057a0b5956ef340c8b2ebb892916a9ad859bb891781d2d301",
+                "inspected": true
+              }
+            ],
+            "preflight": "Read finished The Next Train fully; compared source/original/cover, same-story painting, accepted face treatment and latest candidates. Correct only observed anime drift; preserve named punk adult anatomy and essential covered eyes/ears/mouth designs. Ivory opaque composition feasible at 1536x1024.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-8d9a8661-5fc7-4854-8830-3cb2a4e330a7.png",
+            "candidateSha256": "7ddaa6d4d7a0ec908fba78b0a64dd4f6839625c2bd572655381a9ea9339b00ea",
+            "reviewedAt": "2026-09-24T15:04:46.296735+00:00",
+            "findings": [
+              "Saved pixels inspected: adult black-haired Clotho retains matching front/rear and expressive upper forms, full dark visor consistently covering both eyes, patched coat/loose trousers/canvas boots and source peach.",
+              "Cheek/jaw/neck and hair now substantial opaque painted planes, with dark connected clothing masses and selective tactile impasto; no smooth anime eyes or cel facial outline survives beneath visor.",
+              "Exact name/story title and labels readable; full silhouettes clear on opaque ivory, no scenery, palette strip or isolated hand diagram. Source and immutable reference hashes verified."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 3
       },
-      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+      "outputSha256": "7ddaa6d4d7a0ec908fba78b0a64dd4f6839625c2bd572655381a9ea9339b00ea",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:04:46.304627+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Saved pixels inspected: adult black-haired Clotho retains matching front/rear and expressive upper forms, full dark visor consistently covering both eyes, patched coat/loose trousers/canvas boots and source peach.",
+          "Cheek/jaw/neck and hair now substantial opaque painted planes, with dark connected clothing masses and selective tactile impasto; no smooth anime eyes or cel facial outline survives beneath visor.",
+          "Exact name/story title and labels readable; full silhouettes clear on opaque ivory, no scenery, palette strip or isolated hand diagram. Source and immutable reference hashes verified."
+        ],
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "7ddaa6d4d7a0ec908fba78b0a64dd4f6839625c2bd572655381a9ea9339b00ea",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9a77d7d1-b40b-4df2-b15a-7631ef82fcc6.png",
+            "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+            "sha256": "aa1f12e7a3a6af2057a0b5956ef340c8b2ebb892916a9ad859bb891781d2d301",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "c23c0e9e5df752d4a57f4c38687b0de500a5611dcd028876da99b768f00b5185"
+      }
     },
     {
       "id": "lachesis",
@@ -273,30 +343,30 @@
         }
       ],
       "output": "stories/the-next-train/art/characters/lachesis.png",
-      "status": "deferred",
+      "status": "completed",
       "blockers": [],
       "generation": {
         "tool": "image_gen__imagegen",
         "backendModel": "Not reported by built-in tool",
-        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve PINK hair and huge skull headphones covering both ears in EVERY view, red-black jacket and phone. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "prompt": "Use case: style-transfer. Repaint the character reference sheet in image 3 as a traditional Canadian Group of Seven oil study. Image 1 is the PRIMARY guide to broad connected opaque oil masses, directional bristle/knife work and restrained overhead-warm/cool-shadow lighting. Image 2 is a guide to painted human faces and warm ivory folio presentation ONLY: never copy her identity, armor or cloak. Image 3 is the identity, costume, equipment, poses and exact lettering to preserve; its anime drawing is the defect to replace.\nCreate one landscape 1536x1024 sheet on an OPAQUE light warm IVORY painted ground. Keep clear black readable character name and The Next Train title, full unclipped front/back forms and useful upper-body expressions. Preserve the subject's own adult likeness and proportions across views, but replace ink outlines, cel shapes, spiky linework and anime facial shorthand with natural adult planes sculpted in opaque oil. Hair should be a few chunky bristled masses; faces/eyes/noses/lips/ears should have the same substantial painted construction as the garments, not thin smooth illustration beneath a paint texture filter. Small natural eyes, varied connected shadow and broad cheeks. Selective raised paint, quieter joining passages, matte dark clothing; no glossy CG and no ornamental rim light.\nNo extra characters, no isolated hands, no scenic vignette, floor/shadow patch, swatches or palette strip. The entire background must be visible opaque warm ivory, including between figures, with readable dark text. One adult woman: choppy bright PINK hair, big black/red skull headphones over both ears in EVERY view, black/red punk jacket over gray shirt, ripped-knee black trousers and heavy black buckle boots. Preserve long narrow face and character individuality, with realistically proportioned adult eyes and lips painted as thick small strokes. Front/back plus Listening, Hurt, Sharing music upper-body states; phone held naturally by attached hands. Name exactly Lachesis.",
         "references": [
           {
-            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-67ac3b28-2dbf-47b7-8786-0c8b869bb167.png",
-            "sha256": "12f9d0a7b6ec068e72fed7e5747084c5fe7fd5c0443e24dc84bad96fb7c98d79",
-            "inspected": true,
-            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
-          },
-          {
             "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
             "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
-            "inspected": true,
-            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+            "inspected": true
           },
           {
-            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
-            "inspected": true,
-            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-e7238cb3-32b8-46f1-99d3-6bd1c8ce678f.png",
+            "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+            "sha256": "ba3d7a2ba5540a40dc032aa97096c96a7588cd8996285d48bf09e00c094a48e8",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -364,10 +434,80 @@
             "findings": [
               "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
             ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T14:54:09.842304+00:00",
+            "prompt": "Use case: style-transfer. Repaint the character reference sheet in image 3 as a traditional Canadian Group of Seven oil study. Image 1 is the PRIMARY guide to broad connected opaque oil masses, directional bristle/knife work and restrained overhead-warm/cool-shadow lighting. Image 2 is a guide to painted human faces and warm ivory folio presentation ONLY: never copy her identity, armor or cloak. Image 3 is the identity, costume, equipment, poses and exact lettering to preserve; its anime drawing is the defect to replace.\nCreate one landscape 1536x1024 sheet on an OPAQUE light warm IVORY painted ground. Keep clear black readable character name and The Next Train title, full unclipped front/back forms and useful upper-body expressions. Preserve the subject's own adult likeness and proportions across views, but replace ink outlines, cel shapes, spiky linework and anime facial shorthand with natural adult planes sculpted in opaque oil. Hair should be a few chunky bristled masses; faces/eyes/noses/lips/ears should have the same substantial painted construction as the garments, not thin smooth illustration beneath a paint texture filter. Small natural eyes, varied connected shadow and broad cheeks. Selective raised paint, quieter joining passages, matte dark clothing; no glossy CG and no ornamental rim light.\nNo extra characters, no isolated hands, no scenic vignette, floor/shadow patch, swatches or palette strip. The entire background must be visible opaque warm ivory, including between figures, with readable dark text. One adult woman: choppy bright PINK hair, big black/red skull headphones over both ears in EVERY view, black/red punk jacket over gray shirt, ripped-knee black trousers and heavy black buckle boots. Preserve long narrow face and character individuality, with realistically proportioned adult eyes and lips painted as thick small strokes. Front/back plus Listening, Hurt, Sharing music upper-body states; phone held naturally by attached hands. Name exactly Lachesis.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-e7238cb3-32b8-46f1-99d3-6bd1c8ce678f.png",
+                "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+                "sha256": "ba3d7a2ba5540a40dc032aa97096c96a7588cd8996285d48bf09e00c094a48e8",
+                "inspected": true
+              }
+            ],
+            "preflight": "Read finished The Next Train fully; compared source/original/cover, same-story painting, accepted face treatment and latest candidates. Correct only observed anime drift; preserve named punk adult anatomy and essential covered eyes/ears/mouth designs. Ivory opaque composition feasible at 1536x1024.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-2764d270-df4c-4875-8e9b-7e2ce5aa9ee9.png",
+            "candidateSha256": "f53f5e101d43c5071a7e6c1e2f3da93dde783986666513b7f80149d6ca670374",
+            "reviewedAt": "2026-09-24T15:04:46.326404+00:00",
+            "findings": [
+              "Saved pixels inspected: one adult pink-haired Lachesis across front/rear and three states, skull headphones covering ears, red-black punk jacket, knee-torn trousers, buckle boots and phone retained.",
+              "New adult face has natural eye proportions and joined broad cheek/nose/lip oil planes; hair, skin and garments share directional opaque brush/knife handling with subdued practical warm planes/cool shadows.",
+              "Exact name/title readable, unclipped full silhouettes and useful listening/hurt/music states on opaque ivory; no location or isolated anatomy diagram. Source and references current."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 3
       },
-      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+      "outputSha256": "f53f5e101d43c5071a7e6c1e2f3da93dde783986666513b7f80149d6ca670374",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:04:46.333211+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Saved pixels inspected: one adult pink-haired Lachesis across front/rear and three states, skull headphones covering ears, red-black punk jacket, knee-torn trousers, buckle boots and phone retained.",
+          "New adult face has natural eye proportions and joined broad cheek/nose/lip oil planes; hair, skin and garments share directional opaque brush/knife handling with subdued practical warm planes/cool shadows.",
+          "Exact name/title readable, unclipped full silhouettes and useful listening/hurt/music states on opaque ivory; no location or isolated anatomy diagram. Source and references current."
+        ],
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "f53f5e101d43c5071a7e6c1e2f3da93dde783986666513b7f80149d6ca670374",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-e7238cb3-32b8-46f1-99d3-6bd1c8ce678f.png",
+            "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+            "sha256": "ba3d7a2ba5540a40dc032aa97096c96a7588cd8996285d48bf09e00c094a48e8",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "aaf5eacbabf159b28c41311b3b549133220a0d185d5d56868e91edf64083b388"
+      }
     },
     {
       "id": "atropos",
@@ -438,30 +578,24 @@
         }
       ],
       "output": "stories/the-next-train/art/characters/atropos.png",
-      "status": "deferred",
+      "status": "completed",
       "blockers": [],
       "generation": {
         "tool": "image_gen__imagegen",
         "backendModel": "Not reported by built-in tool",
-        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve BLUE hair, black beanie, white mask with black X completely covering nose/mouth in EVERY view, olive jacket, backpack and flask. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "prompt": "Create a new 1536x1024 landscape traditional oil CHARACTER STUDY on completely opaque warm ivory canvas, with exact heading \"Atropos\" and smaller \"The Next Train\".\nImage 1 supplies same-story carriage evening lighting and Group of Seven brush construction only. Image 2 supplies natural adult face anatomy and opaque oil rendering ONLY; DO NOT copy her skin tone, haircut, coat or likeness. Paint a distinct pale, slim adult woman in her late twenties with a slightly long oval face, low straight brows, NORMAL SMALL HUMAN EYES and real sculptural eyelids, never huge manga eyes or black drawn outlines. Short choppy muted BLUE hair, a black ribbed KNIT BEANIE with small simple patch. A WHITE cloth MASK marked with a single BLACK X covers both NOSE AND MOUTH IN EVERY VIEW. Her own recognizable punk design: loose olive-gray bomber over black hoodie, black backpack with both straps, loose charcoal trousers rolled at ankles and black canvas high-top sneakers with white soles.\nA freshly composed spare folio: full standing front three-quarter at left, full back view in middle, and ONE LARGE realistic oil head/shoulder portrait at right, looking to the side with quiet dry amusement; both ears human-sized. No other people. Small steel tea flask and plain black backpack equipment studies below the portrait. Keep all figures fully inside generous margins. Readable dark serif text, small labels \"Front\", \"Back\", \"Dry amusement\", \"Tea flask\". No anatomy diagrams, no fingers detached, no floor, setting, swatches or floating scene.\nPaint EVERYTHING with broad joined opaque masses like the supplied oils: face and skin in solid natural planes, soft restrained brown-gray eye shape with tiny iris fleck, bristled blue-gray hair clumps, thick uneven impasto concentrated on edges. Quiet connected dark shadows, limited warm overhead light from a station/carriage at six in the evening. No glossy rendering, ink contours, cel shading, anime stylization, cosmetic eyelashes or photo face beneath paint. Warm ivory background fully opaque including every gap.",
         "references": [
           {
-            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a0e0a46-ee53-40df-9f77-cdcc267ad57a.png",
-            "sha256": "4f35e6ad2ab0ebe7877cacb17d9f4848e6d4a98c7124485cc6062314a61e4859",
-            "inspected": true,
-            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
-          },
-          {
             "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Inspected primary story lighting and connected oil handling only; no scenery.",
             "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
-            "inspected": true,
-            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+            "inspected": true
           },
           {
-            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
-            "inspected": true,
-            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+            "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+            "role": "Inspected natural adult eye/facial planes and opaque oil folio style; no identity, costume or skin-tone transfer.",
+            "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -529,10 +663,102 @@
             "findings": [
               "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
             ]
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T14:54:09.852632+00:00",
+            "prompt": "Use case: style-transfer. Repaint the character reference sheet in image 3 as a traditional Canadian Group of Seven oil study. Image 1 is the PRIMARY guide to broad connected opaque oil masses, directional bristle/knife work and restrained overhead-warm/cool-shadow lighting. Image 2 is a guide to painted human faces and warm ivory folio presentation ONLY: never copy her identity, armor or cloak. Image 3 is the identity, costume, equipment, poses and exact lettering to preserve; its anime drawing is the defect to replace.\nCreate one landscape 1536x1024 sheet on an OPAQUE light warm IVORY painted ground. Keep clear black readable character name and The Next Train title, full unclipped front/back forms and useful upper-body expressions. Preserve the subject's own adult likeness and proportions across views, but replace ink outlines, cel shapes, spiky linework and anime facial shorthand with natural adult planes sculpted in opaque oil. Hair should be a few chunky bristled masses; faces/eyes/noses/lips/ears should have the same substantial painted construction as the garments, not thin smooth illustration beneath a paint texture filter. Small natural eyes, varied connected shadow and broad cheeks. Selective raised paint, quieter joining passages, matte dark clothing; no glossy CG and no ornamental rim light.\nNo extra characters, no isolated hands, no scenic vignette, floor/shadow patch, swatches or palette strip. The entire background must be visible opaque warm ivory, including between figures, with readable dark text. One adult woman: muted BLUE short hair under black knitted beanie, pale face, white mask with black X covering nose/mouth in EVERY view, olive-gray bomber over black hoodie, baggy cuffed black trousers and canvas high-tops; source black backpack and steel tea flask. Small natural adult eyes in painterly sockets, no manga eyelids or sharp ink strands. Front/back plus Attentive and Dry amusement upper-body states, latter with tea. Do not add skateboard or magic. Name exactly Atropos.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "role": "Primary inspected same-story connected oil form and practical carriage-light palette; no scenery copied.",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Inspected accepted painterly face/ivory presentation style only; no identity or clothing transfer.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a61b41f-fdc8-4305-8a0c-eca1437abcdf.png",
+                "role": "Inspected immutable rejected candidate: preserve subject identity, equipment, poses and wording; replace anime rendering.",
+                "sha256": "50225b093936fc180dcd9077aae1e72e41127de4b7dcf2d89abba36baa4917e0",
+                "inspected": true
+              }
+            ],
+            "preflight": "Read finished The Next Train fully; compared source/original/cover, same-story painting, accepted face treatment and latest candidates. Correct only observed anime drift; preserve named punk adult anatomy and essential covered eyes/ears/mouth designs. Ivory opaque composition feasible at 1536x1024.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-7cdf3963-6af7-4aec-9ddc-af3b30b88456.png",
+            "candidateSha256": "d84e5f26719ad15f7b89ff64f0294732e75a9d5061eb06723b621c8b764d1dc1",
+            "reviewedAt": "2026-09-24T15:04:46.357036+00:00",
+            "findings": [
+              "Returned sheet preserves source identity, mask, beanie/backpack/flask and readable ivory presentation, but persistent flat manga eyelids/eye contours remain. Repeated edit inherits defective face structure; change composition and remove rejected anime sheet from rendering inputs."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:04:47.773089+00:00",
+            "prompt": "Create a new 1536x1024 landscape traditional oil CHARACTER STUDY on completely opaque warm ivory canvas, with exact heading \"Atropos\" and smaller \"The Next Train\".\nImage 1 supplies same-story carriage evening lighting and Group of Seven brush construction only. Image 2 supplies natural adult face anatomy and opaque oil rendering ONLY; DO NOT copy her skin tone, haircut, coat or likeness. Paint a distinct pale, slim adult woman in her late twenties with a slightly long oval face, low straight brows, NORMAL SMALL HUMAN EYES and real sculptural eyelids, never huge manga eyes or black drawn outlines. Short choppy muted BLUE hair, a black ribbed KNIT BEANIE with small simple patch. A WHITE cloth MASK marked with a single BLACK X covers both NOSE AND MOUTH IN EVERY VIEW. Her own recognizable punk design: loose olive-gray bomber over black hoodie, black backpack with both straps, loose charcoal trousers rolled at ankles and black canvas high-top sneakers with white soles.\nA freshly composed spare folio: full standing front three-quarter at left, full back view in middle, and ONE LARGE realistic oil head/shoulder portrait at right, looking to the side with quiet dry amusement; both ears human-sized. No other people. Small steel tea flask and plain black backpack equipment studies below the portrait. Keep all figures fully inside generous margins. Readable dark serif text, small labels \"Front\", \"Back\", \"Dry amusement\", \"Tea flask\". No anatomy diagrams, no fingers detached, no floor, setting, swatches or floating scene.\nPaint EVERYTHING with broad joined opaque masses like the supplied oils: face and skin in solid natural planes, soft restrained brown-gray eye shape with tiny iris fleck, bristled blue-gray hair clumps, thick uneven impasto concentrated on edges. Quiet connected dark shadows, limited warm overhead light from a station/carriage at six in the evening. No glossy rendering, ink contours, cel shading, anime stylization, cosmetic eyelashes or photo face beneath paint. Warm ivory background fully opaque including every gap.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "role": "Inspected primary story lighting and connected oil handling only; no scenery.",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult eye/facial planes and opaque oil folio style; no identity, costume or skin-tone transfer.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Finished source/original/cover and failed attempts inspected. Three edit passes preserved anime eyes; diagnose input inheritance and change to a fresh simpler composition with only natural oil examples. Preserve written original/source identity design and fixed mask/blue hair/beanie, black backpack and tea flask; no invented magic.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-5dce1957-47fe-4532-b843-7d6ecc072863.png",
+            "candidateSha256": "a9aa80b757c28bbdb3fb52a843544012b636d3d549c1d311b69c5e02d0b1a381",
+            "reviewedAt": "2026-09-24T15:15:43.720542+00:00",
+            "findings": [
+              "Fresh saved folio inspected: natural adult eye sockets and restrained small irises replace inherited manga structure; face/neck/hair share the substantial directional oil treatment of clothes.",
+              "Muted blue hair, knit beanie, white black-X mask fully covering nose/mouth, olive bomber/black hoodie, cuffed trousers/canvas high-tops, backpack and tea flask retained with one consistent identity.",
+              "Full front/rear, readable dry-amusement portrait and source equipment on opaque ivory; exact name/title, no scenery/palette/anatomy detour. Changed composition resolves prior style failure."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 4
       },
-      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+      "outputSha256": "a9aa80b757c28bbdb3fb52a843544012b636d3d549c1d311b69c5e02d0b1a381",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:15:43.726942+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Fresh saved folio inspected: natural adult eye sockets and restrained small irises replace inherited manga structure; face/neck/hair share the substantial directional oil treatment of clothes.",
+          "Muted blue hair, knit beanie, white black-X mask fully covering nose/mouth, olive bomber/black hoodie, cuffed trousers/canvas high-tops, backpack and tea flask retained with one consistent identity.",
+          "Full front/rear, readable dry-amusement portrait and source equipment on opaque ivory; exact name/title, no scenery/palette/anatomy detour. Changed composition resolves prior style failure."
+        ],
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "a9aa80b757c28bbdb3fb52a843544012b636d3d549c1d311b69c5e02d0b1a381",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "role": "Inspected primary story lighting and connected oil handling only; no scenery.",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+            "role": "Inspected natural adult eye/facial planes and opaque oil folio style; no identity, costume or skin-tone transfer.",
+            "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "4550decad8449dffb6e8e71475a13ce3c7342f96e9ec859aedb88f5e72091ef0"
+      }
     },
     {
       "id": "ivarnel-esset",

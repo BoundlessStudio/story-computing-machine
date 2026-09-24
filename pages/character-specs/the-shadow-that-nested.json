@@ -1,0 +1,599 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-shadow-that-nested",
+  "title": "The Shadow That Nested",
+  "source": "stories/the-shadow-that-nested/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story/prompt read. Four named repair/flight/control team members each sustain decisions throughout. Cover, tug oil and sunshade oil inspected; no supplied originals.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Migrating adults and brood",
+      "reason": "Non-individuated population of many organisms; no single character identity represents whole migration."
+    },
+    {
+      "name": "Additional control-room voices",
+      "reason": "Incidental unidentified background updates."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "adal",
+      "name": "Adal",
+      "role": "Orbital repair lead choosing small safe maintenance pulses",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Adal shut his helmet and checked Pado's seal.",
+          "explanation": "Finished source equipment, role or appearance boundary."
+        }
+      ],
+      "storyAppearance": "Helmet/visor map, old suit status panel, drive pack, tether and portable jack case. Experienced repairer.",
+      "visualInterpretation": [
+        "Art-only lateforties, olive skin, short dark hair greying at sides, square face and stubble; patched off-white and slate suit, muted ochre arm identification bands."
+      ],
+      "states": [
+        {
+          "name": "EVA body and cabin portrait",
+          "description": "One identity; equipment/light states explicitly separated where needed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shadow-that-nested:adal",
+        "links": [],
+        "evidence": "Targeted universe/existing specifications search found no recurring names."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Adal\"; subtitle \"The Shadow That Nested\". ONE adult man lateforties, olive skin, short dark hair greying at sides, square face, slight stubble, matte dark eyes. Full front/rear in same old patched OFF-WHITE bulky EVA PRESSURE SUIT with slate articulated panels, muted ochre arm bands, sealed clear helmet, thick gloves/boots, compact grey drive backpack, tidy tether attachment and small old amber chest status panel. Front has portable rectangular JACK CASE clipped at hip, not a weapon. Face visible dimly through helmet. Matching unhelmeted headportrait labelled \"Cabin\" shows same head in dark suit underlayer. Full suited forms use direct sun, deep grey-violet unlit sides; portrait warm low cabin instrument light. No planets, machinery or floating debris.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:18:19.470013+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Adal\"; subtitle \"The Shadow That Nested\". ONE adult man lateforties, olive skin, short dark hair greying at sides, square face, slight stubble, matte dark eyes. Full front/rear in same old patched OFF-WHITE bulky EVA PRESSURE SUIT with slate articulated panels, muted ochre arm bands, sealed clear helmet, thick gloves/boots, compact grey drive backpack, tidy tether attachment and small old amber chest status panel. Front has portable rectangular JACK CASE clipped at hip, not a weapon. Face visible dimly through helmet. Matching unhelmeted headportrait labelled \"Cabin\" shows same head in dark suit underlayer. Full suited forms use direct sun, deep grey-violet unlit sides; portrait warm low cabin instrument light. No planets, machinery or floating debris.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+                "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+                "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+                "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+                "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-978a9f15-f318-48e1-9a0a-b3a8c9ef264f.png",
+            "outputSha256": "14e6a9758d6123592335f294f9d00dbab15c75d7daca2eba4e39a7c3d05efe2a",
+            "finishedAt": "2026-09-24T15:23:20.453043+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent experienced human face, sealed old EVA suit, amber panel, drive pack and jack case; labelled cabin portrait distinguishes unhelmeted state.",
+              "Complete front/rear and portrait, exact name/title, broad opaque oil; direct-sun suit shadows and lower cabin portrait light, opaque ivory without setting/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-978a9f15-f318-48e1-9a0a-b3a8c9ef264f.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shadow-that-nested/art/characters/adal.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "14e6a9758d6123592335f294f9d00dbab15c75d7daca2eba4e39a7c3d05efe2a",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:23:20.453071+00:00",
+        "sourceSha256": "e36a6193677c302149af30ea8ae2681c0d47179aff4353b2ae1679fbca59d0ad",
+        "outputSha256": "14e6a9758d6123592335f294f9d00dbab15c75d7daca2eba4e39a7c3d05efe2a",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent experienced human face, sealed old EVA suit, amber panel, drive pack and jack case; labelled cabin portrait distinguishes unhelmeted state.",
+          "Complete front/rear and portrait, exact name/title, broad opaque oil; direct-sun suit shadows and lower cabin portrait light, opaque ivory without setting/swatches."
+        ],
+        "specificationSha256": "ff6568a11001a756e406aa8f4ab96c5deba5ca3ae55d23f35f523c0f22bff1f1"
+      }
+    },
+    {
+      "id": "pado",
+      "name": "Pado",
+      "role": "Crew observer who protects nests and calibrates uncertain evidence",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Pado anchored a sensor puck to bare truss.",
+          "explanation": "Finished source equipment, role or appearance boundary."
+        }
+      ],
+      "storyAppearance": "Sealed pressure suit, drivepack, tether, sensor puck and careful gloved handling.",
+      "visualInterpretation": [
+        "Art-only thirties, deep brown skin, oval face, dark hair tightly braided under cap; off-white/slate EVA suit with muted rust arm bands."
+      ],
+      "states": [
+        {
+          "name": "EVA body and cabin portrait",
+          "description": "One identity; equipment/light states explicitly separated where needed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shadow-that-nested:pado",
+        "links": [],
+        "evidence": "Targeted universe/existing specifications search found no recurring names."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Pado\"; subtitle \"The Shadow That Nested\". ONE adult woman in thirties, deep brown skin, oval face, dark hair in tight low braid tucked under helmet cap, matte dark eyes. Full front/rear in old OFF-WHITE bulky EVA PRESSURE SUIT with slate articulated panels, muted RUST arm identification bands, sealed clear helmet, thick gloves/boots, compact grey drive backpack and tidy tether attachment. One small sensor puck secured to chest equipment strap. Face dimly visible through helmet. Matching unhelmeted headportrait labelled \"Cabin\" shows same face/hair in dark suit underlayer. Full suited forms direct sun and deep grey-violet shadows, portrait low warm cabin instrument light. No animals, nests, machinery or scene.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:18:20.661472+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Pado\"; subtitle \"The Shadow That Nested\". ONE adult woman in thirties, deep brown skin, oval face, dark hair in tight low braid tucked under helmet cap, matte dark eyes. Full front/rear in old OFF-WHITE bulky EVA PRESSURE SUIT with slate articulated panels, muted RUST arm identification bands, sealed clear helmet, thick gloves/boots, compact grey drive backpack and tidy tether attachment. One small sensor puck secured to chest equipment strap. Face dimly visible through helmet. Matching unhelmeted headportrait labelled \"Cabin\" shows same face/hair in dark suit underlayer. Full suited forms direct sun and deep grey-violet shadows, portrait low warm cabin instrument light. No animals, nests, machinery or scene.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+                "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+                "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+                "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+                "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a3d4648e-d6f6-4852-bf41-d2eab9e7eefd.png",
+            "outputSha256": "a63e2382f00926ce25ea4bbb5fe0b4f169dfaa49f6eeed4d98c63c08c74fb68a",
+            "finishedAt": "2026-09-24T15:23:21.664113+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent face/braid, sealed EVA suit, sensor puck and drive pack; cabin portrait repeats identity while changing helmet state explicitly.",
+              "Complete suited bodies, exact name/title/Cabin label, broad matte oil with distinct EVA/cabin light on opaque ivory, no nest/scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a3d4648e-d6f6-4852-bf41-d2eab9e7eefd.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shadow-that-nested/art/characters/pado.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "a63e2382f00926ce25ea4bbb5fe0b4f169dfaa49f6eeed4d98c63c08c74fb68a",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:23:21.664133+00:00",
+        "sourceSha256": "e36a6193677c302149af30ea8ae2681c0d47179aff4353b2ae1679fbca59d0ad",
+        "outputSha256": "a63e2382f00926ce25ea4bbb5fe0b4f169dfaa49f6eeed4d98c63c08c74fb68a",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent face/braid, sealed EVA suit, sensor puck and drive pack; cabin portrait repeats identity while changing helmet state explicitly.",
+          "Complete suited bodies, exact name/title/Cabin label, broad matte oil with distinct EVA/cabin light on opaque ivory, no nest/scene/swatches."
+        ],
+        "specificationSha256": "5dde0c9eef7ec958fb0eb5f3dee09ab4649f02a7ea8f7ab2668574bb964f86cd"
+      }
+    },
+    {
+      "id": "bero",
+      "name": "Bero",
+      "role": "Tug pilot managing torque and return reserves",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Bero killed the cabin display's enhancement.",
+          "explanation": "Finished source equipment, role or appearance boundary."
+        }
+      ],
+      "storyAppearance": "Pilot in tug cockpit using navigation/attitude displays; no external EVA described.",
+      "visualInterpretation": [
+        "Art-only forties, light brown skin, shaved head, broad stocky build and dark full eyebrows; slate work coveralls with muted teal shoulder inserts and dark shoes, small headset."
+      ],
+      "states": [
+        {
+          "name": "Working state",
+          "description": "One identity; equipment/light states explicitly separated where needed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shadow-that-nested:bero",
+        "links": [],
+        "evidence": "Targeted universe/existing specifications search found no recurring names."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Bero\"; subtitle \"The Shadow That Nested\". ONE adult male pilot in forties, light brown skin, shaved head, thick dark eyebrows, broad stocky build, steady matte brown eyes. Practical slate-grey flight COVERALLS with muted teal shoulder inserts, simple waist belt, dark work shoes and unobtrusive communications headset. Full front/rear unhelmeted standing forms and matching portrait. Same identity, no EVA suit/backpack; hands relaxed. Light from warm small cabin instruments and limited cool window fill, connected dark shadow masses. No chair, cockpit or displays.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:18:21.835787+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Bero\"; subtitle \"The Shadow That Nested\". ONE adult male pilot in forties, light brown skin, shaved head, thick dark eyebrows, broad stocky build, steady matte brown eyes. Practical slate-grey flight COVERALLS with muted teal shoulder inserts, simple waist belt, dark work shoes and unobtrusive communications headset. Full front/rear unhelmeted standing forms and matching portrait. Same identity, no EVA suit/backpack; hands relaxed. Light from warm small cabin instruments and limited cool window fill, connected dark shadow masses. No chair, cockpit or displays.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+                "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+                "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+                "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+                "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-9b84cd4b-ab0f-4599-ac4b-ff46bbf5c2c4.png",
+            "outputSha256": "a7b699c3a8c0d066fd9b54718f53b97eb86744c4f674936543409e8ad6f2705e",
+            "finishedAt": "2026-09-24T15:23:22.816211+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels preserve one stocky bald pilot, same flight coveralls and headset in complete front/rear/portrait; no invented external EVA.",
+              "Exact name/title, broad matte paint and restrained artificial cabin light, opaque ivory with no cockpit/scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-9b84cd4b-ab0f-4599-ac4b-ff46bbf5c2c4.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shadow-that-nested/art/characters/bero.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "a7b699c3a8c0d066fd9b54718f53b97eb86744c4f674936543409e8ad6f2705e",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:23:22.816254+00:00",
+        "sourceSha256": "e36a6193677c302149af30ea8ae2681c0d47179aff4353b2ae1679fbca59d0ad",
+        "outputSha256": "a7b699c3a8c0d066fd9b54718f53b97eb86744c4f674936543409e8ad6f2705e",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels preserve one stocky bald pilot, same flight coveralls and headset in complete front/rear/portrait; no invented external EVA.",
+          "Exact name/title, broad matte paint and restrained artificial cabin light, opaque ivory with no cockpit/scene/swatches."
+        ],
+        "specificationSha256": "675bf971667582f03c79329004939f3a23ef82589996aba091dc8644c7257a8b"
+      }
+    },
+    {
+      "id": "enver",
+      "name": "Enver",
+      "role": "Ground controller relaying eclipse and thermal limits",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "His voice arrived thin and late, with control-room speech behind it",
+          "explanation": "Finished source equipment, role or appearance boundary."
+        }
+      ],
+      "storyAppearance": "Ground control voice; no physical appearance or outfit described.",
+      "visualInterpretation": [
+        "Art-only fifties, dark brown skin, closely clipped grey hair and beard, long narrow face, grey collared shirt and dark slacks; modest communication headset. Does not imply unseen uniform or rank."
+      ],
+      "states": [
+        {
+          "name": "Working state",
+          "description": "One identity; equipment/light states explicitly separated where needed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shadow-that-nested:enver",
+        "links": [],
+        "evidence": "Targeted universe/existing specifications search found no recurring names."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Enver\"; subtitle \"The Shadow That Nested\". ONE adult ground controller in fifties, dark brown skin, closely clipped grey hair and neat grey beard, long narrow face, ordinary matte dark eyes, lean build. Plain grey rolled-sleeve collared shirt, dark navy trousers, black practical shoes, small over-ear communications headset with boom microphone. Full front/rear and matching large portrait, alert calm concentration. Artificial control-room task light and muted screen fill as modest art interpretation, connected grey shadow masses. No military badge/rank, EVA equipment, console, papercharts or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:18:23.133432+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Enver\"; subtitle \"The Shadow That Nested\". ONE adult ground controller in fifties, dark brown skin, closely clipped grey hair and neat grey beard, long narrow face, ordinary matte dark eyes, lean build. Plain grey rolled-sleeve collared shirt, dark navy trousers, black practical shoes, small over-ear communications headset with boom microphone. Full front/rear and matching large portrait, alert calm concentration. Artificial control-room task light and muted screen fill as modest art interpretation, connected grey shadow masses. No military badge/rank, EVA equipment, console, papercharts or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+                "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+                "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+                "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+                "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2efaa552-1c2c-4804-8eb0-fc4bf4a0e9fe.png",
+            "outputSha256": "4b337910a291ce0cf16090ae727d38a3ec1c897d994a297b4f9396cd957c7725",
+            "finishedAt": "2026-09-24T15:23:23.974736+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent older ground-controller casting with grey beard, simple shirt/slacks and headset; art-only appearance remains marked as such.",
+              "Full front/rear and portrait, exact name/title, broad connected oil and task-light shadows on opaque ivory, no console/scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2efaa552-1c2c-4804-8eb0-fc4bf4a0e9fe.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shadow-that-nested/art/characters/enver.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "4b337910a291ce0cf16090ae727d38a3ec1c897d994a297b4f9396cd957c7725",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:23:23.974756+00:00",
+        "sourceSha256": "e36a6193677c302149af30ea8ae2681c0d47179aff4353b2ae1679fbca59d0ad",
+        "outputSha256": "4b337910a291ce0cf16090ae727d38a3ec1c897d994a297b4f9396cd957c7725",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad matte connected oil masses and directional brush rhythm only",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/interiors/01-the-tug-cockpit.png",
+            "role": "Tug practical warm instrument light and deep steel-grey shadows; no cockpit scenery",
+            "sha256": "32b83761f95fe9eafe47d17a3395f7992c623c7ee396eb50d18b94b9381df92e",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shadow-that-nested/art/landscapes/03-ancient-shade-at-the-moons-limb.png",
+            "role": "Outer space hard direct sun and dark shadow value structure; no moon/sunshade background",
+            "sha256": "fef4b2bf7f05a45ac22ae6f161959bf534dc1db75e7a3b157a7870b605138bfb",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent older ground-controller casting with grey beard, simple shirt/slacks and headset; art-only appearance remains marked as such.",
+          "Full front/rear and portrait, exact name/title, broad connected oil and task-light shadows on opaque ivory, no console/scenery/swatches."
+        ],
+        "specificationSha256": "1c50095cf8fa46589d03046247880471d135193192e78958808b42c4a8bcfc50"
+      }
+    }
+  ],
+  "sourceSha256": "e36a6193677c302149af30ea8ae2681c0d47179aff4353b2ae1679fbca59d0ad"
+}

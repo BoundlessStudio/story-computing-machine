@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-ten-thousand-year-queen",
+  "title": "The Queen After Ten Thousand Years",
+  "source": "stories/the-ten-thousand-year-queen/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story and prompt read. Merneith, Hatshepsut and Ramesses are the three sustained central identities. Original user reference recovered and visually inspected, alongside cover and revised audience-hall/vault paintings. Canon/spec name search found no shared identity entries. Source clones explicitly lack ancestral memories; state and aging control over image archetypes.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Coastal petitioner",
+      "reason": "Single political negotiation, supporting illustration of empire's consent conflict; not a sustained central identity."
+    },
+    {
+      "name": "Custodians, director, other awakened sovereigns and residents",
+      "reason": "Brief role figures or collective historical montage without sustained individual characterization."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "merneith",
+      "name": "Merneith",
+      "role": "Clone queen and protagonist",
+      "form": "Human woman across sixty years of adulthood",
+      "selectionEvidence": [
+        {
+          "quote": "Merneith's hair remained black long after the first silver appeared",
+          "explanation": "Source central role and binding age/state."
+        }
+      ],
+      "storyAppearance": "Adult cloned body without ancestral memories, near-waist black hair; fine growth-monitor scars, chosen ceremonial collar; later old hands, widened imperial rings, gold mantle and thin soles.",
+      "visualInterpretation": [
+        "ONE identity at two time states. Young adult Merneith 'Early rule': warm deep tan skin, long oval face, strong straight nose, dark brown matte eyes, waist-length straight black hair; late-twenties adult physical appearance as art interpretation, not recovered ancient portrait. Second complete full-body 'Sixty years later': unmistakably ELDERLY SAME WOMAN, deeply lined face, stooped slightly, veined aged attached hands bearing a few widened imperial rings, hair still dyed BLACK to waist, no youthful skin. Both wear floor-length black fabric royal gown with broad gold/turquoise collar and geometric gold trim, gold mantle draped from shoulders, simple thin-soled gold sandals. Keep hems, hair and sandals complete and inside generous margins, no enormous trailing train. Third study is a matching ELDERLY head portrait. One sheet ONE person, not two queens. Name Merneith exact; small age-state labels. No crown required, no wings, throne, ankh prop, magic eyes or glow skin. Finely understated old monitor scars on forearms only if visible; no wounds. Aging is binding, original youthful reference supplies costume accents only."
+      ],
+      "states": [
+        {
+          "name": "Early rule",
+          "description": "Adult cloned person; no ancestral memory."
+        },
+        {
+          "name": "Sixty years later",
+          "description": "Visibly aged same individual, no eternal-youth inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ten-thousand-year-queen:merneith",
+        "links": [],
+        "evidence": "No universe or existing-spec identity found; fictional clones, not asserted resurrected historical people."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-2dd6d67e-615f-4e7d-b04e-80c358727b54.png",
+            "role": "Original user reference: long black hair and black/gold/turquoise royal costume motifs only. Source aging and physical facts control; no photoreal rendering, throne, wings, glow eyes, plunging bodice or eternal youth.",
+            "sha256": "18dc1916d0ba3797bc382190cec46a7e3699f4408da29ed22e04f96b011c9334",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Merneith', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. ONE identity at two time states. Young adult Merneith 'Early rule': warm deep tan skin, long oval face, strong straight nose, dark brown matte eyes, waist-length straight black hair; late-twenties adult physical appearance as art interpretation, not recovered ancient portrait. Second complete full-body 'Sixty years later': unmistakably ELDERLY SAME WOMAN, deeply lined face, stooped slightly, veined aged attached hands bearing a few widened imperial rings, hair still dyed BLACK to waist, no youthful skin. Both wear floor-length black fabric royal gown with broad gold/turquoise collar and geometric gold trim, gold mantle draped from shoulders, simple thin-soled gold sandals. Keep hems, hair and sandals complete and inside generous margins, no enormous trailing train. Third study is a matching ELDERLY head portrait. One sheet ONE person, not two queens. Name Merneith exact; small age-state labels. No crown required, no wings, throne, ankh prop, magic eyes or glow skin. Finely understated old monitor scars on forearms only if visible; no wounds. Aging is binding, original youthful reference supplies costume accents only. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:57:52.579365+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Merneith', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. ONE identity at two time states. Young adult Merneith 'Early rule': warm deep tan skin, long oval face, strong straight nose, dark brown matte eyes, waist-length straight black hair; late-twenties adult physical appearance as art interpretation, not recovered ancient portrait. Second complete full-body 'Sixty years later': unmistakably ELDERLY SAME WOMAN, deeply lined face, stooped slightly, veined aged attached hands bearing a few widened imperial rings, hair still dyed BLACK to waist, no youthful skin. Both wear floor-length black fabric royal gown with broad gold/turquoise collar and geometric gold trim, gold mantle draped from shoulders, simple thin-soled gold sandals. Keep hems, hair and sandals complete and inside generous margins, no enormous trailing train. Third study is a matching ELDERLY head portrait. One sheet ONE person, not two queens. Name Merneith exact; small age-state labels. No crown required, no wings, throne, ankh prop, magic eyes or glow skin. Finely understated old monitor scars on forearms only if visible; no wounds. Aging is binding, original youthful reference supplies costume accents only. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+                "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+                "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-2dd6d67e-615f-4e7d-b04e-80c358727b54.png",
+                "role": "Original user reference: long black hair and black/gold/turquoise royal costume motifs only. Source aging and physical facts control; no photoreal rendering, throne, wings, glow eyes, plunging bodice or eternal youth.",
+                "sha256": "18dc1916d0ba3797bc382190cec46a7e3699f4408da29ed22e04f96b011c9334",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-08bb8d2f-0234-42be-9251-d7f657775fc3.png",
+            "outputSha256": "60ef3368bf076ad002739e28ba1900dd4c477b23c7addb569c0af100e6bd1406",
+            "finishedAt": "2026-09-24T16:04:17.552331+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels depict same long-black-haired sovereign in labeled early and sixty-years-later states, visibly aged face and attached hands with widened rings, black/gold/turquoise costume.",
+              "Both complete gown silhouettes and elderly portrait, readable exact title/name and labels; broad matte connected paint, no throne/wings or youthful final-state erasure."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-08bb8d2f-0234-42be-9251-d7f657775fc3.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-ten-thousand-year-queen/art/characters/merneith.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "60ef3368bf076ad002739e28ba1900dd4c477b23c7addb569c0af100e6bd1406",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:04:17.552358+00:00",
+        "sourceSha256": "f7cf852ceb99781caac3609534ac05c8ecf150812c6ba95b734064379797eb56",
+        "outputSha256": "60ef3368bf076ad002739e28ba1900dd4c477b23c7addb569c0af100e6bd1406",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-2dd6d67e-615f-4e7d-b04e-80c358727b54.png",
+            "role": "Original user reference: long black hair and black/gold/turquoise royal costume motifs only. Source aging and physical facts control; no photoreal rendering, throne, wings, glow eyes, plunging bodice or eternal youth.",
+            "sha256": "18dc1916d0ba3797bc382190cec46a7e3699f4408da29ed22e04f96b011c9334",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels depict same long-black-haired sovereign in labeled early and sixty-years-later states, visibly aged face and attached hands with widened rings, black/gold/turquoise costume.",
+          "Both complete gown silhouettes and elderly portrait, readable exact title/name and labels; broad matte connected paint, no throne/wings or youthful final-state erasure."
+        ],
+        "specificationSha256": "46481cf441807c4c3209164f37d14fa5763b59f8f473e01673fd2597dc3cd06c"
+      }
+    },
+    {
+      "id": "hatshepsut",
+      "name": "Hatshepsut",
+      "role": "Builder, companion and sovereign who resigns",
+      "form": "Human woman across sixty years",
+      "selectionEvidence": [
+        {
+          "quote": "She wore gray work cloth like the day of Merneith's waking. Her hair was cropped close again.",
+          "explanation": "Source central role and binding age/state."
+        }
+      ],
+      "storyAppearance": "Long severe facial planes, shaved head at first waking; later gray work cloth/work coat and very short cropped hair, chosen name no imposed title.",
+      "visualInterpretation": [
+        "ONE same human woman at two time states: first complete body 'First morning' is mature adult about thirty-five physical appearance, medium brown skin, LONG narrow severe face, high cheekbones, straight strong nose, matte dark eyes and freshly SHAVED head. Plain gray laboratory-cloth tunic over matching work trousers and practical charcoal boots, no royal regalia. Second complete body 'Sixty years later' is unmistakably ELDERLY same long-faced woman, deep lines, lean wiry slightly stooped build, very short cropped SILVER hair, plain gray work coat with pockets over gray tunic/trousers and scuffed sturdy boots; small flat brass nameplate peeking from a coat pocket, not detached prop. Third matching elderly head portrait. Wry independent expression, ordinary person, no crown, collar, jewelry, wings or eternal youth. First view and old view must share facial structure; exact heading Hatshepsut and title. No workshop or throne."
+      ],
+      "states": [
+        {
+          "name": "First morning",
+          "description": "Adult cloned person; no ancestral memory."
+        },
+        {
+          "name": "Sixty years later",
+          "description": "Visibly aged same individual, no eternal-youth inference."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ten-thousand-year-queen:hatshepsut",
+        "links": [],
+        "evidence": "No universe or existing-spec identity found; fictional clones, not asserted resurrected historical people."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Hatshepsut', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. ONE same human woman at two time states: first complete body 'First morning' is mature adult about thirty-five physical appearance, medium brown skin, LONG narrow severe face, high cheekbones, straight strong nose, matte dark eyes and freshly SHAVED head. Plain gray laboratory-cloth tunic over matching work trousers and practical charcoal boots, no royal regalia. Second complete body 'Sixty years later' is unmistakably ELDERLY same long-faced woman, deep lines, lean wiry slightly stooped build, very short cropped SILVER hair, plain gray work coat with pockets over gray tunic/trousers and scuffed sturdy boots; small flat brass nameplate peeking from a coat pocket, not detached prop. Third matching elderly head portrait. Wry independent expression, ordinary person, no crown, collar, jewelry, wings or eternal youth. First view and old view must share facial structure; exact heading Hatshepsut and title. No workshop or throne. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:57:53.600077+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Hatshepsut', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. ONE same human woman at two time states: first complete body 'First morning' is mature adult about thirty-five physical appearance, medium brown skin, LONG narrow severe face, high cheekbones, straight strong nose, matte dark eyes and freshly SHAVED head. Plain gray laboratory-cloth tunic over matching work trousers and practical charcoal boots, no royal regalia. Second complete body 'Sixty years later' is unmistakably ELDERLY same long-faced woman, deep lines, lean wiry slightly stooped build, very short cropped SILVER hair, plain gray work coat with pockets over gray tunic/trousers and scuffed sturdy boots; small flat brass nameplate peeking from a coat pocket, not detached prop. Third matching elderly head portrait. Wry independent expression, ordinary person, no crown, collar, jewelry, wings or eternal youth. First view and old view must share facial structure; exact heading Hatshepsut and title. No workshop or throne. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+                "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+                "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-321378ff-ea19-4699-849f-e17b4c25088c.png",
+            "outputSha256": "9fbd5490d4c72fa526acfed93087d89499717e64ad7d91c2d74f374b2eb6bef3",
+            "finishedAt": "2026-09-24T16:04:18.703126+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain severe long-faced identity through shaved adult and cropped-gray elderly states, gray work clothing, practical boots and coat-pocket nameplate.",
+              "Two complete labeled states and matching elder portrait, exact text, broad decisive oil and opaque ivory with no royal scenery or props."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-321378ff-ea19-4699-849f-e17b4c25088c.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-ten-thousand-year-queen/art/characters/hatshepsut.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "9fbd5490d4c72fa526acfed93087d89499717e64ad7d91c2d74f374b2eb6bef3",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:04:18.703145+00:00",
+        "sourceSha256": "f7cf852ceb99781caac3609534ac05c8ecf150812c6ba95b734064379797eb56",
+        "outputSha256": "9fbd5490d4c72fa526acfed93087d89499717e64ad7d91c2d74f374b2eb6bef3",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain severe long-faced identity through shaved adult and cropped-gray elderly states, gray work clothing, practical boots and coat-pocket nameplate.",
+          "Two complete labeled states and matching elder portrait, exact text, broad decisive oil and opaque ivory with no royal scenery or props."
+        ],
+        "specificationSha256": "75d9172e79cc6ddf474b34813132ead17a3cc78f6c936f92d56f029068da5d37"
+      }
+    },
+    {
+      "id": "ramesses",
+      "name": "Ramesses",
+      "role": "Alliance king and shield commander",
+      "form": "Elderly human man",
+      "selectionEvidence": [
+        {
+          "quote": "Age had thickened him and softened none of his sensitivities.",
+          "explanation": "Source central role and binding age/state."
+        }
+      ],
+      "storyAppearance": "Broad face reconstructed from mummy, confident bearing, thickened by age; final private audience explicitly without crown.",
+      "visualInterpretation": [
+        "Final private-audience state about forty-eight years after his awakening: one robust thickset ELDERLY man, medium deep brown skin, BROAD square face, strong broad straight nose, heavy brows, dark brown matte eyes, short silver-gray hair with receding hairline, clean-shaven face, substantial wrinkles and age lines, proud posture softening to awkward concern. Two complete front/rear standing views plus matching large head portrait. Plain dignified cream long tunic with restrained geometric gold edging, dark navy mantle, broad simple gold belt, thin-soled dark sandals. HEAD BARE: no crown or headdress in this final state. No weapons, beard false-pharaoh appendage, wings, magical skin or throne. Both views same final age and clothing. Exact heading Ramesses. No external historical accuracy claim; this is a fictional clone."
+      ],
+      "states": [
+        {
+          "name": "Final private audience",
+          "description": "Elderly, head bare."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ten-thousand-year-queen:ramesses",
+        "links": [],
+        "evidence": "No universe or existing-spec identity found; fictional clones, not asserted resurrected historical people."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ramesses', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. Final private-audience state about forty-eight years after his awakening: one robust thickset ELDERLY man, medium deep brown skin, BROAD square face, strong broad straight nose, heavy brows, dark brown matte eyes, short silver-gray hair with receding hairline, clean-shaven face, substantial wrinkles and age lines, proud posture softening to awkward concern. Two complete front/rear standing views plus matching large head portrait. Plain dignified cream long tunic with restrained geometric gold edging, dark navy mantle, broad simple gold belt, thin-soled dark sandals. HEAD BARE: no crown or headdress in this final state. No weapons, beard false-pharaoh appendage, wings, magical skin or throne. Both views same final age and clothing. Exact heading Ramesses. No external historical accuracy claim; this is a fictional clone. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:57:54.643795+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, chosen states below, plus a matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ramesses', subtitle 'The Queen After Ten Thousand Years', wrap long subtitle on two lines if needed. Final private-audience state about forty-eight years after his awakening: one robust thickset ELDERLY man, medium deep brown skin, BROAD square face, strong broad straight nose, heavy brows, dark brown matte eyes, short silver-gray hair with receding hairline, clean-shaven face, substantial wrinkles and age lines, proud posture softening to awkward concern. Two complete front/rear standing views plus matching large head portrait. Plain dignified cream long tunic with restrained geometric gold edging, dark navy mantle, broad simple gold belt, thin-soled dark sandals. HEAD BARE: no crown or headdress in this final state. No weapons, beard false-pharaoh appendage, wings, magical skin or throne. Both views same final age and clothing. Exact heading Ramesses. No external historical accuracy claim; this is a fictional clone. Source-motivated dim Vault illumination: small warm amber electric-light planes, extensive connected deep blue-black shadows, subordinate turquoise reflected accents; keep darks dark and matte, no uniform daylight or glossy CGI. Opaque warm ivory around figures with no cast ground shadows, floor patches or scene.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+                "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+                "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-44ad9134-7502-45a2-af08-270438b19df6.png",
+            "outputSha256": "ce31c457bcc696a71882b25c5b1f9b81ae5ef9bd8935cb99af3108217ed2281c",
+            "finishedAt": "2026-09-24T16:04:19.844172+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show one aged thickset broad-faced man, head bare for final private audience, cream tunic/navy mantle/sandals; no crown or supernatural inference.",
+              "Complete front/rear and consistent elder portrait, correct name/full title, broad connected oil on opaque ivory without surroundings."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-44ad9134-7502-45a2-af08-270438b19df6.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-ten-thousand-year-queen/art/characters/ramesses.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "ce31c457bcc696a71882b25c5b1f9b81ae5ef9bd8935cb99af3108217ed2281c",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:04:19.844192+00:00",
+        "sourceSha256": "f7cf852ceb99781caac3609534ac05c8ecf150812c6ba95b734064379797eb56",
+        "outputSha256": "ce31c457bcc696a71882b25c5b1f9b81ae5ef9bd8935cb99af3108217ed2281c",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Canadian oil brushwork only; no landscape",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ten-thousand-year-queen/art/interiors/03-vault-two-chairs.png",
+            "role": "Revised painted black/gold/turquoise palette and dim local artificial warm lighting; no room, thrones or falcon scenery",
+            "sha256": "b65ddc6e1d3715c56d773c78a35e11178f00c17ea897644f8d66ca3e6c7c8ecd",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show one aged thickset broad-faced man, head bare for final private audience, cream tunic/navy mantle/sandals; no crown or supernatural inference.",
+          "Complete front/rear and consistent elder portrait, correct name/full title, broad connected oil on opaque ivory without surroundings."
+        ],
+        "specificationSha256": "17cead4d9ed31c0babdbda7234addaae34d17853ac62ffc3671ea67101797e0c"
+      }
+    }
+  ],
+  "sourceSha256": "f7cf852ceb99781caac3609534ac05c8ecf150812c6ba95b734064379797eb56"
+}

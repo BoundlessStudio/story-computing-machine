@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-turned-eighteen",
+  "title": "What Turned Eighteen",
+  "source": "stories/what-turned-eighteen/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished source and prompt read, including exact-nine revision and user cover direction for more humanlike Arlon rather than fish. Four central identities, Arlon has one I without a center. Actual cover and source oil paintings inspected.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Cousin, neighbors and bakery",
+      "reason": "Recalled, collective or offstage minor functions."
+    }
+  ],
+  "characters": [
+    {
+      "id": "arlon",
+      "name": "Arlon",
+      "role": "Birthday narrator whose nine bodies remain one person",
+      "form": "One eighteen-year-old person across exactly nine hand-length humanlike bodies",
+      "selectionEvidence": [
+        {
+          "quote": "Nine flat, luminous bodies, each no longer than Maela's hand",
+          "explanation": "Birthday narrator whose nine bodies remain one person"
+        },
+        {
+          "quote": "There was still an I. It had no center.",
+          "explanation": "Birthday narrator whose nine bodies remain one person"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Exactly nine flat luminous hand-length bodies with translucent fins, mouths/tiny teeth and shared awareness; written cover direction prefers humanlike rather than fish."
+      },
+      "visualInterpretation": [
+        "Retain accepted cover adult eighteen-year-old humanlike face, tousled dark hair, gray clothing and translucent fins; no fish.",
+        "Exactly nine equal-scale full forms, no added portrait or prechange body. One shared identity."
+      ],
+      "states": [
+        {
+          "name": "Birthday",
+          "description": " Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Depict EXACTLY NINE complete bodies in a three-by-three array, well separated, no grid lines. NO extra body, bust, portrait, reflection, silhouette, head study or other person. All nine are SAME eighteen-year-old person: match cover reference 3 dark tousled short hair, youthful pale olive HUMAN face, gray short-sleeved top and loose gray trousers, bare feet. Each is a MINIATURE HUMANOID no longer than a human hand; subtly flattened/lightweight torso with translucent pale mint membranous fins beside arms/back as in cover, NOT fish, mermaid, child, butterfly or naked body. Each complete head, two arms, two legs, feet, fins. Same size across nine, gently varied hovering front/three-quarter/side poses. Restrained soft GREEN light along fin edges, matte natural eyes. All same attentive expression, one person without central body. Early-evening warm/cool oil light on opaque ivory, no location, scale hand, trail, ring, prop or ground."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact source name; Arlo is Arlon's nickname, not separate identity."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity across EXACTLY NINE complete bodies, one view each, NO additional portraits. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Depict EXACTLY NINE complete bodies in a three-by-three array, well separated, no grid lines. NO extra body, bust, portrait, reflection, silhouette, head study or other person. All nine are SAME eighteen-year-old person: match cover reference 3 dark tousled short hair, youthful pale olive HUMAN face, gray short-sleeved top and loose gray trousers, bare feet. Each is a MINIATURE HUMANOID no longer than a human hand; subtly flattened/lightweight torso with translucent pale mint membranous fins beside arms/back as in cover, NOT fish, mermaid, child, butterfly or naked body. Each complete head, two arms, two legs, feet, fins. Same size across nine, gently varied hovering front/three-quarter/side poses. Restrained soft GREEN light along fin edges, matte natural eyes. All same attentive expression, one person without central body. Early-evening warm/cool oil light on opaque ivory, no location, scale hand, trail, ring, prop or ground.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/title-image.jpg",
+            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity across EXACTLY NINE complete bodies, one view each, NO additional portraits. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Depict EXACTLY NINE complete bodies in a three-by-three array, well separated, no grid lines. NO extra body, bust, portrait, reflection, silhouette, head study or other person. All nine are SAME eighteen-year-old person: match cover reference 3 dark tousled short hair, youthful pale olive HUMAN face, gray short-sleeved top and loose gray trousers, bare feet. Each is a MINIATURE HUMANOID no longer than a human hand; subtly flattened/lightweight torso with translucent pale mint membranous fins beside arms/back as in cover, NOT fish, mermaid, child, butterfly or naked body. Each complete head, two arms, two legs, feet, fins. Same size across nine, gently varied hovering front/three-quarter/side poses. Restrained soft GREEN light along fin edges, matte natural eyes. All same attentive expression, one person without central body. Early-evening warm/cool oil light on opaque ivory, no location, scale hand, trail, ring, prop or ground.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+                "role": "Inspected birthday roof early evening light only, no setting.",
+                "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/title-image.jpg",
+                "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+                "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:35:03.433590+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-e347bfb6-182e-42e3-8045-346fdd74d4cc.png",
+            "outputSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+            "returnedAt": "2026-09-24T16:36:31.491223+00:00",
+            "generatorReview": [
+              "Actual opaque RGB pixels inspected and manually counted: EXACTLY NINE complete bodies in three rows of three, no extra head/body/reflection; heading and One person - nine bodies label readable.",
+              "Same dark-haired eighteen-year-old humanlike clothed identity/finned anatomy across all nine matches explicit recorded cover direction and actual accepted cover; no separate personality or fish reading.",
+              "Complete limbs and fins within canvas, pale green restrained luminosity, broad oil forms on empty warm ivory. Source/output/reference/specification pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/what-turned-eighteen/art/characters/arlon.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:36:31.685829+00:00",
+        "evidence": [
+          "Actual opaque RGB pixels inspected and manually counted: EXACTLY NINE complete bodies in three rows of three, no extra head/body/reflection; heading and One person - nine bodies label readable.",
+          "Same dark-haired eighteen-year-old humanlike clothed identity/finned anatomy across all nine matches explicit recorded cover direction and actual accepted cover; no separate personality or fish reading.",
+          "Complete limbs and fins within canvas, pale green restrained luminosity, broad oil forms on empty warm ivory. Source/output/reference/specification pins verify."
+        ],
+        "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b",
+        "outputSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/title-image.jpg",
+            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "d6afaa975d6ade36958574f1b61154445c32736e334c7da883216eb93bcb74fc"
+      }
+    },
+    {
+      "id": "maela",
+      "name": "Maela",
+      "role": "Mother who helps recover and support all nine bodies",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "My mother pressed the tape down with both thumbs",
+          "explanation": "Mother who helps recover and support all nine bodies"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Mother with flour-dry palms; actual cover mature curly-haired brick-bloused appearance."
+      },
+      "visualInterpretation": [
+        "Preserve cover warm olive mature face, expressive brown eyes, medium curly dark-brown hair silver temples, tiny plain earrings and brick-red blouse.",
+        "Art-only completion: charcoal trousers, soft brown house shoes; no invented trueform power."
+      ],
+      "states": [
+        {
+          "name": "Birthday",
+          "description": " Heading \"Maela\"; subtitle \"What Turned Eighteen\". ONE mother about fifty matching cover reference 3: warm olive skin, smile lines, expressive brown eyes, medium-length curly/wavy dark brown hair with silver temples, tiny plain earrings. Brick-red gathered-sleeve blouse, charcoal modern trousers, brown soft house shoes. Two COMPLETE standing views: one offers an open palm at waist, other holds folded plain towel at hip. One large worried-but-warm portrait same face. Source warm bedroom lamplight plus cool rainy-window shade. No fantasy costume, magic, other people, tiny Arlon, bowl, room, floor or isolated hand studies."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact source name; Arlo is Arlon's nickname, not separate identity."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Maela\"; subtitle \"What Turned Eighteen\". ONE mother about fifty matching cover reference 3: warm olive skin, smile lines, expressive brown eyes, medium-length curly/wavy dark brown hair with silver temples, tiny plain earrings. Brick-red gathered-sleeve blouse, charcoal modern trousers, brown soft house shoes. Two COMPLETE standing views: one offers an open palm at waist, other holds folded plain towel at hip. One large worried-but-warm portrait same face. Source warm bedroom lamplight plus cool rainy-window shade. No fantasy costume, magic, other people, tiny Arlon, bowl, room, floor or isolated hand studies.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+            "role": "Inspected source lamp/cool-window lighting only, no interior.",
+            "sha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/title-image.jpg",
+            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "interrupted-no-output",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Maela\"; subtitle \"What Turned Eighteen\". ONE mother about fifty matching cover reference 3: warm olive skin, smile lines, expressive brown eyes, medium-length curly/wavy dark brown hair with silver temples, tiny plain earrings. Brick-red gathered-sleeve blouse, charcoal modern trousers, brown soft house shoes. Two COMPLETE standing views: one offers an open palm at waist, other holds folded plain towel at hip. One large worried-but-warm portrait same face. Source warm bedroom lamplight plus cool rainy-window shade. No fantasy costume, magic, other people, tiny Arlon, bowl, room, floor or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+                "role": "Inspected source lamp/cool-window lighting only, no interior.",
+                "sha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/title-image.jpg",
+                "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+                "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:36:32.799120+00:00",
+            "interruptionEvidence": "Built-in image call interrupted by user; inspected generation output directory and newer candidates across directories, no returned or saved Maela asset.",
+            "endedAt": "2026-09-24T16:42:39.317992+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Maela\"; subtitle \"What Turned Eighteen\". ONE mother about fifty matching cover reference 3: warm olive skin, smile lines, expressive brown eyes, medium-length curly/wavy dark brown hair with silver temples, tiny plain earrings. Brick-red gathered-sleeve blouse, charcoal modern trousers, brown soft house shoes. Two COMPLETE standing views: one offers an open palm at waist, other holds folded plain towel at hip. One large worried-but-warm portrait same face. Source warm bedroom lamplight plus cool rainy-window shade. No fantasy costume, magic, other people, tiny Arlon, bowl, room, floor or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+                "role": "Inspected source lamp/cool-window lighting only, no interior.",
+                "sha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/title-image.jpg",
+                "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+                "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:42:39.479873+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-342adb24-2659-42f8-bfb7-c3d093cb9bdc.png",
+            "outputSha256": "88d2fb5fbb3d90b48aaec83ccce353d8faca4c20c377ddd7780c0708f379350e",
+            "returnedAt": "2026-09-24T16:45:41.221641+00:00",
+            "generatorReview": [
+              "Opaque RGB saved pixels inspected: exact Maela/title, preserves accepted cover mature olive face, curly dark/silver hair and brick blouse; complete same-identity figures and portrait.",
+              "Open offering palm and held towel reflect practical maternal assistance, no tiny secondary person or invented transformation.",
+              "Warm lamp/cool window oil light, connected painted forms and ivory isolation; no scene, isolated hands or swatches. Interrupted first attempt retained; source/ref/output/specification pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/what-turned-eighteen/art/characters/maela.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "88d2fb5fbb3d90b48aaec83ccce353d8faca4c20c377ddd7780c0708f379350e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:45:41.425925+00:00",
+        "evidence": [
+          "Opaque RGB saved pixels inspected: exact Maela/title, preserves accepted cover mature olive face, curly dark/silver hair and brick blouse; complete same-identity figures and portrait.",
+          "Open offering palm and held towel reflect practical maternal assistance, no tiny secondary person or invented transformation.",
+          "Warm lamp/cool window oil light, connected painted forms and ivory isolation; no scene, isolated hands or swatches. Interrupted first attempt retained; source/ref/output/specification pins verify."
+        ],
+        "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b",
+        "outputSha256": "88d2fb5fbb3d90b48aaec83ccce353d8faca4c20c377ddd7780c0708f379350e",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/interiors/02-the-water-tray-and-lamps.png",
+            "role": "Inspected source lamp/cool-window lighting only, no interior.",
+            "sha256": "435d552b373e35b372418df91949e26cb4239e559feb4f582e26ed23f1cc93e5",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/title-image.jpg",
+            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "d07ce1b6329cdc2c726897c17c8f73e2215ab36f1a287ae2816422f72897e5ad"
+      }
+    },
+    {
+      "id": "jaro",
+      "name": "Jaro",
+      "role": "Friend who learns to ask and provides vibration signals",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Jaro had woken on his birthday with a different sex",
+          "explanation": "Friend who learns to ask and provides vibration signals"
+        },
+        {
+          "quote": "struck it with his ring",
+          "explanation": "Friend who learns to ask and provides vibration signals"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "His birthday changed his sex; now male pronouns, ring and jacket, cake box, respectful vibration signals."
+      },
+      "visualInterpretation": [
+        "Art-only current adult man about twenty, stocky medium tan freckled skin, short black wavy undercut, broad nose.",
+        "Mustard tee/navy hoodie/dark jeans/sneakers, plain finger ring; no before-transition invented anatomy or symbolism."
+      ],
+      "states": [
+        {
+          "name": "Birthday",
+          "description": " Heading \"Jaro\"; subtitle \"What Turned Eighteen\". ONE adult young man about twenty, stocky, medium tan freckles, short wavy black undercut, broad nose, relaxed brown eyes. Modern mustard T-shirt, navy zip hooded jacket, dark blue jeans, gray sneakers, one plain silver finger ring. Two complete standing views: one holding closed plain white cake box with both hands at waist, one side-three-quarter arms relaxed. Larger friendly portrait, slightly sheepish smile. Only his current masculine adult appearance, no before/after body or gender symbolism. Late-afternoon birthday warm light, cool raincloud shadow. No writing on box, no scene, railing, tiny people or isolated hands."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact source name; Arlo is Arlon's nickname, not separate identity."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Jaro\"; subtitle \"What Turned Eighteen\". ONE adult young man about twenty, stocky, medium tan freckles, short wavy black undercut, broad nose, relaxed brown eyes. Modern mustard T-shirt, navy zip hooded jacket, dark blue jeans, gray sneakers, one plain silver finger ring. Two complete standing views: one holding closed plain white cake box with both hands at waist, one side-three-quarter arms relaxed. Larger friendly portrait, slightly sheepish smile. Only his current masculine adult appearance, no before/after body or gender symbolism. Late-afternoon birthday warm light, cool raincloud shadow. No writing on box, no scene, railing, tiny people or isolated hands.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Jaro\"; subtitle \"What Turned Eighteen\". ONE adult young man about twenty, stocky, medium tan freckles, short wavy black undercut, broad nose, relaxed brown eyes. Modern mustard T-shirt, navy zip hooded jacket, dark blue jeans, gray sneakers, one plain silver finger ring. Two complete standing views: one holding closed plain white cake box with both hands at waist, one side-three-quarter arms relaxed. Larger friendly portrait, slightly sheepish smile. Only his current masculine adult appearance, no before/after body or gender symbolism. Late-afternoon birthday warm light, cool raincloud shadow. No writing on box, no scene, railing, tiny people or isolated hands.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+                "role": "Inspected birthday roof early evening light only, no setting.",
+                "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:45:42.596420+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-cf620447-2aa9-4cde-88bb-5fca264cf8de.png",
+            "outputSha256": "aebc9fe3aebc638a72c97e612dc2c9038b7cbe2d0b56ed11073efd95b37c0d5a",
+            "returnedAt": "2026-09-24T16:47:29.852238+00:00",
+            "generatorReview": [
+              "Opaque RGB inspected: exact Jaro/title; consistent freckled young adult current identity, modern navy hoodie/mustard shirt and ring visible.",
+              "Plain closed cake box held naturally, complete unclipped full figures; no invented earlier body or gender transformation symbolism.",
+              "Broad directional painted faces/clothing and warm ivory isolation; source birthday light, no scene/swatches/hand-only study. Pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/what-turned-eighteen/art/characters/jaro.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "aebc9fe3aebc638a72c97e612dc2c9038b7cbe2d0b56ed11073efd95b37c0d5a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:47:30.494581+00:00",
+        "evidence": [
+          "Opaque RGB inspected: exact Jaro/title; consistent freckled young adult current identity, modern navy hoodie/mustard shirt and ring visible.",
+          "Plain closed cake box held naturally, complete unclipped full figures; no invented earlier body or gender transformation symbolism.",
+          "Broad directional painted faces/clothing and warm ivory isolation; source birthday light, no scene/swatches/hand-only study. Pins verify."
+        ],
+        "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b",
+        "outputSha256": "aebc9fe3aebc638a72c97e612dc2c9038b7cbe2d0b56ed11073efd95b37c0d5a",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "a69b7c5fb9e6ccad50511dbc100aaf132af8538298f73868565f3a38d853daf0"
+      }
+    },
+    {
+      "id": "aluna",
+      "name": "Aluna",
+      "role": "Friend who establishes consent signals and safe adaptations",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Aluna kept her palm open",
+          "explanation": "Friend who establishes consent signals and safe adaptations"
+        },
+        {
+          "quote": "Rain pasted her hair to her jaw",
+          "explanation": "Friend who establishes consent signals and safe adaptations"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Hair reaches jaw; phone, adjustable trousers gift, deliberate open palm and waiting."
+      },
+      "visualInterpretation": [
+        "Art-only adult woman about twenty, tall slim deep brown skin, straight black jaw-length bob, oval face/dark eyes.",
+        "Sage buttonshirt over dark tee, black straight trousers, white trainers, folded trousers gift with ties."
+      ],
+      "states": [
+        {
+          "name": "Birthday",
+          "description": " Heading \"Aluna\"; subtitle \"What Turned Eighteen\". ONE adult young woman about twenty, tall slim build, deep brown skin, oval face, dark attentive eyes, straight BLACK jaw-length bob. Modern sage-green open cotton button shirt over charcoal tee, black straight trousers, worn ivory trainers. Two COMPLETE full views: one calmly offering open palm at waist while waiting, other holding folded slate-gray adjustable trousers with few visible fabric ties over forearm. One larger thoughtful closed-mouth portrait. Early-evening warm daylight/cool raincloud shade, no magic, scene, floor, tiny people, phone text or isolated hand studies."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact source name; Arlo is Arlon's nickname, not separate identity."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Aluna\"; subtitle \"What Turned Eighteen\". ONE adult young woman about twenty, tall slim build, deep brown skin, oval face, dark attentive eyes, straight BLACK jaw-length bob. Modern sage-green open cotton button shirt over charcoal tee, black straight trousers, worn ivory trainers. Two COMPLETE full views: one calmly offering open palm at waist while waiting, other holding folded slate-gray adjustable trousers with few visible fabric ties over forearm. One larger thoughtful closed-mouth portrait. Early-evening warm daylight/cool raincloud shade, no magic, scene, floor, tiny people, phone text or isolated hand studies.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Aluna\"; subtitle \"What Turned Eighteen\". ONE adult young woman about twenty, tall slim build, deep brown skin, oval face, dark attentive eyes, straight BLACK jaw-length bob. Modern sage-green open cotton button shirt over charcoal tee, black straight trousers, worn ivory trainers. Two COMPLETE full views: one calmly offering open palm at waist while waiting, other holding folded slate-gray adjustable trousers with few visible fabric ties over forearm. One larger thoughtful closed-mouth portrait. Early-evening warm daylight/cool raincloud shade, no magic, scene, floor, tiny people, phone text or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+                "role": "Inspected birthday roof early evening light only, no setting.",
+                "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:47:31.760243+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-ddf872a1-716b-4277-8ca4-ebcbe87712b8.png",
+            "outputSha256": "90792e880a8d62e024d63cd5f3dbde9333ca12b064e2f63a8f224ee2d071473d",
+            "returnedAt": "2026-09-24T16:49:11.575914+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels: exact Aluna/title, same adult deep brown face, jaw-length black bob and sage modern shirt across full figures and portrait.",
+              "Open palm waiting and folded adjustable trousers/ties convey source consent and preparation roles without other identity.",
+              "Complete anatomy, varied directional oil treatment and early-evening natural light, opaque ivory with no scene/swatches/hand-only study. All four final source/ref/output/spec pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/what-turned-eighteen/art/characters/aluna.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "90792e880a8d62e024d63cd5f3dbde9333ca12b064e2f63a8f224ee2d071473d",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:49:11.758129+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels: exact Aluna/title, same adult deep brown face, jaw-length black bob and sage modern shirt across full figures and portrait.",
+          "Open palm waiting and folded adjustable trousers/ties convey source consent and preparation roles without other identity.",
+          "Complete anatomy, varied directional oil treatment and early-evening natural light, opaque ivory with no scene/swatches/hand-only study. All four final source/ref/output/spec pins verify."
+        ],
+        "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b",
+        "outputSha256": "90792e880a8d62e024d63cd5f3dbde9333ca12b064e2f63a8f224ee2d071473d",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
+            "role": "Inspected birthday roof early evening light only, no setting.",
+            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "609a41b54481ead18d38f8778142d4c2cf2d4f62e7f2c50f8fe355b0ab6bbf15"
+      }
+    }
+  ],
+  "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b"
+}

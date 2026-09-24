@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-names-on-the-cups",
+  "title": "The Names on the Cups",
+  "source": "stories/the-names-on-the-cups/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished 05-story.md and 00-prompt.md read; cover, cafe oil and shared oil anchor inspected. Nora/Claire central relationship, Rae causal refusal, Tess and owner sustained narrator/counter arc. No original reference images specified.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#unnamed-hinge-owner",
+    "universe/characters.md#nora",
+    "universe/characters.md#claire",
+    "universe/characters.md#rae",
+    "universe/characters.md#highway"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Highway",
+      "reason": "Canon explicitly identifies friendly background; limited appearances support Rae independent life, no sustained main arc."
+    },
+    {
+      "name": "Frank and Captain",
+      "reason": "Recurring cafe background regular and dog without central causal arc."
+    },
+    {
+      "name": "Jonathan, Paul and other customers",
+      "reason": "Brief service anecdotes and background."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+  "characters": [
+    {
+      "id": "nora",
+      "name": "Nora",
+      "role": "Museum-label designer and central romantic protagonist",
+      "form": "thirty-one-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "I am thirty-one",
+          "explanation": "Finished source appearance or sustained role evidence."
+        },
+        {
+          "quote": "She paused just inside the Broadway door in a green coat",
+          "explanation": "Finished source appearance or sustained role evidence."
+        }
+      ],
+      "storyAppearance": "31; green coat, later blue sweater; carries quiet novel and cardamom latte.",
+      "visualInterpretation": [
+        "Art-only medium brown skin, shoulder-length straight dark brown bob, long oval face, dark eyes, average height and build; dark slacks and brown ankle shoes."
+      ],
+      "states": [
+        {
+          "name": "Sunday cafe visit",
+          "description": "Source-supported ordinary dressed state; no scene backdrop."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [
+        "universe/characters.md"
+      ],
+      "recurrence": {
+        "identityKey": "the-names-on-the-cups:nora",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search; Hinge cast treated as same source identities, no prior character art found."
+      },
+      "output": "stories/the-names-on-the-cups/art/characters/nora.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and final review authorized; current explicit resume."
+      },
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Nora\"; subtitle \"The Names on the Cups\". ONE 31-year-old woman, medium brown skin, shoulder-length straight dark brown bob, long oval face, thoughtful matte dark eyes. Ordinary average build, green raincoat over thin blue sweater, dark charcoal slacks and brown ankle shoes. Both complete bodies have same coat/outfit. Front holds a closed plain novel low against body; portrait shows quiet tentative smile. No coffee cup detail needed; no scene or fantasy imagery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:50:41.912652+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Nora\"; subtitle \"The Names on the Cups\". ONE 31-year-old woman, medium brown skin, shoulder-length straight dark brown bob, long oval face, thoughtful matte dark eyes. Ordinary average build, green raincoat over thin blue sweater, dark charcoal slacks and brown ankle shoes. Both complete bodies have same coat/outfit. Front holds a closed plain novel low against body; portrait shows quiet tentative smile. No coffee cup detail needed; no scene or fantasy imagery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+                "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+                "inspected": true,
+                "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+              }
+            ],
+            "preflight": [
+              "Finished source and relevant canon read; appearances and source-local casting reconciled.",
+              "Actual cover and selected paintings inspected. One identity, opaque ivory, full forms and matching portrait feasible.",
+              "Source Sunday cafe light, no scenery, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3569d3e3-5c5e-428e-bc78-f49c320f837a.png",
+            "outputSha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+            "finishedAt": "2026-09-24T14:52:14.869593+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual generated pixels show two complete bodies and matching face; green raincoat and blue sweater agree with source; book and ordinary contemporary clothes consistent.",
+              "Exact Nora/title, connected subdued grey/warm indoor light, broad matte oil across face and clothes, clean opaque ivory with no scene or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3569d3e3-5c5e-428e-bc78-f49c320f837a.png",
+        "actualSize": "1536x1024"
+      },
+      "outputSha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T14:52:14.869615+00:00",
+        "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+        "outputSha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels show two complete bodies and matching face; green raincoat and blue sweater agree with source; book and ordinary contemporary clothes consistent.",
+          "Exact Nora/title, connected subdued grey/warm indoor light, broad matte oil across face and clothes, clean opaque ivory with no scene or swatches."
+        ],
+        "specificationSha256": "d4dd7849556e673c2cdea19eb2360af1a2f4e3676d105e72d8f50da61290b79f"
+      }
+    },
+    {
+      "id": "claire",
+      "name": "Claire",
+      "role": "Field-guide illustrator and central romantic protagonist",
+      "form": "twenty-nine-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "honey-blond hair cut at her jaw",
+          "explanation": "Finished source appearance or sustained role evidence."
+        },
+        {
+          "quote": "a black turtleneck",
+          "explanation": "Finished source appearance or sustained role evidence."
+        }
+      ],
+      "storyAppearance": "29; jaw-length honey-blond hair, black turtleneck, worn leather boots, sketchbook and graphite pencil.",
+      "visualInterpretation": [
+        "Art-only fair warm skin, squarish face, grey eyes; dark umber trousers."
+      ],
+      "states": [
+        {
+          "name": "Sunday cafe visit",
+          "description": "Source-supported ordinary dressed state; no scene backdrop."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [
+        "universe/characters.md"
+      ],
+      "recurrence": {
+        "identityKey": "the-names-on-the-cups:claire",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search; Hinge cast treated as same source identities, no prior character art found."
+      },
+      "output": "stories/the-names-on-the-cups/art/characters/claire.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and final review authorized; current explicit resume."
+      },
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Claire\"; subtitle \"The Names on the Cups\". ONE 29-year-old woman with honey-blond jaw-length bob, fair warm skin, broad squarish face and ordinary matte grey eyes. Black turtleneck sweater, dark umber trousers, worn brown leather boots. Front body carries a CLOSED plain sketchbook and short graphite pencil; rear same exact clothes. Large matching portrait with attentive expression. No drawings of other people; no open book imagery, loose sheets or flowers.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:52:45.894790+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Claire\"; subtitle \"The Names on the Cups\". ONE 29-year-old woman with honey-blond jaw-length bob, fair warm skin, broad squarish face and ordinary matte grey eyes. Black turtleneck sweater, dark umber trousers, worn brown leather boots. Front body carries a CLOSED plain sketchbook and short graphite pencil; rear same exact clothes. Large matching portrait with attentive expression. No drawings of other people; no open book imagery, loose sheets or flowers.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+                "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+                "inspected": true,
+                "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-fea10075-3774-41ab-8ff7-160d2b4a3c2d.png",
+            "outputSha256": "5f583d7a0001c7ec91c608ad9a5d5971e3854a90ba60ec432fbb89ed54622985",
+            "finishedAt": "2026-09-24T14:54:01.757882+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent honey-blond jaw-length bob, black turtleneck, worn boots and closed sketchbook across two complete bodies and matching portrait.",
+              "Exact Claire/title; understated soft cafe light and broad matte oil on face/clothes, opaque ivory without scene, swatches or hand study."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-fea10075-3774-41ab-8ff7-160d2b4a3c2d.png",
+        "actualSize": "1536x1024"
+      },
+      "outputSha256": "5f583d7a0001c7ec91c608ad9a5d5971e3854a90ba60ec432fbb89ed54622985",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T14:54:01.757916+00:00",
+        "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+        "outputSha256": "5f583d7a0001c7ec91c608ad9a5d5971e3854a90ba60ec432fbb89ed54622985",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent honey-blond jaw-length bob, black turtleneck, worn boots and closed sketchbook across two complete bodies and matching portrait.",
+          "Exact Claire/title; understated soft cafe light and broad matte oil on face/clothes, opaque ivory without scene, swatches or hand study."
+        ],
+        "specificationSha256": "51c79722d7e7c6c8c12f27ace2a41c59ab20a7fcfb08f8cb1c4d101a1825d8f5"
+      }
+    },
+    {
+      "id": "rae",
+      "name": "Rae",
+      "role": "Independent crossword-loving regular whose clear refusal changes the story",
+      "form": "human woman in her thirties",
+      "selectionEvidence": [
+        {
+          "quote": "a red scarf, a shaved undercut, a gold ring in one nostril",
+          "explanation": "Finished source appearance or sustained role evidence."
+        },
+        {
+          "quote": "She completed it in pen",
+          "explanation": "Finished source appearance or sustained role evidence."
+        }
+      ],
+      "storyAppearance": "Thirties; shaved undercut, red scarf, single gold nostril ring, boots, crossword and pen.",
+      "visualInterpretation": [
+        "Art-only warm tan skin, long angular face, black hair on top swept back, dark navy coat and slate jeans."
+      ],
+      "states": [
+        {
+          "name": "Sunday cafe visit",
+          "description": "Source-supported ordinary dressed state; no scene backdrop."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [
+        "universe/characters.md"
+      ],
+      "recurrence": {
+        "identityKey": "the-names-on-the-cups:rae",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search; Hinge cast treated as same source identities, no prior character art found."
+      },
+      "output": "stories/the-names-on-the-cups/art/characters/rae.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and final review authorized; current explicit resume."
+      },
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Rae\"; subtitle \"The Names on the Cups\". ONE human woman in her thirties with warm tan skin, long angular face, short black top hair swept back above clearly SHAVED UNDERCUT at sides and nape, single small GOLD NOSTRIL RING. Red wool scarf, dark navy modern coat, slate jeans, black leather boots. Same clothes in full front/rear studies. Front holds folded crossword paper low, a plain pen attached to its fold; large same-face portrait has relaxed intelligent half-smile. No other people, no romance symbols.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:54:18.673187+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Rae\"; subtitle \"The Names on the Cups\". ONE human woman in her thirties with warm tan skin, long angular face, short black top hair swept back above clearly SHAVED UNDERCUT at sides and nape, single small GOLD NOSTRIL RING. Red wool scarf, dark navy modern coat, slate jeans, black leather boots. Same clothes in full front/rear studies. Front holds folded crossword paper low, a plain pen attached to its fold; large same-face portrait has relaxed intelligent half-smile. No other people, no romance symbols.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+                "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+                "inspected": true,
+                "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-22481abc-958a-4680-8840-a24748e523e4.png",
+            "outputSha256": "9e3a4d3a06afc6b9ef51fa26f9c15aa4ea4f4329fe173f2bf26c16fc6c4528c5",
+            "finishedAt": "2026-09-24T14:56:58.541593+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain source red scarf, shaved undercut, one gold nostril ring and crossword/pen; full front/rear and portrait are recognizably the same mature woman.",
+              "Exact name/title; broad connected matte oil, soft story-specific cafe light, opaque ivory and no scene, swatches or hand studies."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-22481abc-958a-4680-8840-a24748e523e4.png",
+        "actualSize": "1536x1024"
+      },
+      "outputSha256": "9e3a4d3a06afc6b9ef51fa26f9c15aa4ea4f4329fe173f2bf26c16fc6c4528c5",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T14:56:58.541612+00:00",
+        "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+        "outputSha256": "9e3a4d3a06afc6b9ef51fa26f9c15aa4ea4f4329fe173f2bf26c16fc6c4528c5",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain source red scarf, shaved undercut, one gold nostril ring and crossword/pen; full front/rear and portrait are recognizably the same mature woman.",
+          "Exact name/title; broad connected matte oil, soft story-specific cafe light, opaque ivory and no scene, swatches or hand studies."
+        ],
+        "specificationSha256": "cccbafcc8146d7cbe9bad500370b59fba17b816eb6c92ddf301209f7401a5c3e"
+      }
+    },
+    {
+      "id": "tess",
+      "name": "Tess",
+      "role": "Observant counter worker who repairs intrusive matchmaking",
+      "form": "twenty-three-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She was twenty-three, terrifyingly observant",
+          "explanation": "Finished source appearance or sustained role evidence."
+        },
+        {
+          "quote": "She wrote NORA and CLAIRE in her clean block letters",
+          "explanation": "Finished source appearance or sustained role evidence."
+        }
+      ],
+      "storyAppearance": "23; works cafe counter and writes requested names with marker.",
+      "visualInterpretation": [
+        "Art-only fair freckled skin, cropped copper hair, round lively face, muted olive shirt, charcoal apron, dark jeans, practical sneakers."
+      ],
+      "states": [
+        {
+          "name": "Sunday cafe visit",
+          "description": "Source-supported ordinary dressed state; no scene backdrop."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [
+        "Source-local Tess; no separate canonical profile"
+      ],
+      "recurrence": {
+        "identityKey": "the-names-on-the-cups:tess",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search; Hinge cast treated as same source identities, no prior character art found."
+      },
+      "output": "stories/the-names-on-the-cups/art/characters/tess.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and final review authorized; current explicit resume."
+      },
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Tess\"; subtitle \"The Names on the Cups\". ONE 23-year-old woman, fair freckled skin, short cropped copper hair, round expressive face, ordinary matte hazel eyes. Muted olive short-sleeve cotton shirt, long charcoal cafe apron tied around waist and neck, dark jeans, practical black sneakers. Full front and rear with matching outfit and proportions; front holds black marker naturally beside her hip. Large same-face portrait with contained amused expression. No charts, cups with customer names, heart symbols or background.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:54:19.824736+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Tess\"; subtitle \"The Names on the Cups\". ONE 23-year-old woman, fair freckled skin, short cropped copper hair, round expressive face, ordinary matte hazel eyes. Muted olive short-sleeve cotton shirt, long charcoal cafe apron tied around waist and neck, dark jeans, practical black sneakers. Full front and rear with matching outfit and proportions; front holds black marker naturally beside her hip. Large same-face portrait with contained amused expression. No charts, cups with customer names, heart symbols or background.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+                "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+                "inspected": true,
+                "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33168db1-e26f-4a8a-be91-de667118451c.png",
+            "outputSha256": "127941946c3bb221ba931d785a45c52ff710262453b91bfb4ef99327031361f0",
+            "finishedAt": "2026-09-24T14:56:59.773893+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show one 23-year-old counter worker, consistent cropped copper hair/freckles and modern apron outfit in two complete forms and same-face portrait; marker supports source role.",
+              "Exact name/title; painterly face and cloth with subdued soft cafe light, opaque ivory with no scenery, charts, swatches or hand studies."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33168db1-e26f-4a8a-be91-de667118451c.png",
+        "actualSize": "1536x1024"
+      },
+      "outputSha256": "127941946c3bb221ba931d785a45c52ff710262453b91bfb4ef99327031361f0",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T14:56:59.773915+00:00",
+        "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+        "outputSha256": "127941946c3bb221ba931d785a45c52ff710262453b91bfb4ef99327031361f0",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show one 23-year-old counter worker, consistent cropped copper hair/freckles and modern apron outfit in two complete forms and same-face portrait; marker supports source role.",
+          "Exact name/title; painterly face and cloth with subdued soft cafe light, opaque ivory with no scenery, charts, swatches or hand studies."
+        ],
+        "specificationSha256": "3e825cbae766adf878f574bffc27cf7c04522b39e3c9e498c49cb5390c36983e"
+      }
+    },
+    {
+      "id": "lark-arden",
+      "name": "Lark Arden",
+      "role": "Hinge cafe owner and first-person narrator",
+      "form": "adult human; gender unspecified in canon",
+      "selectionEvidence": [
+        {
+          "quote": "My cafe sat on Capitol Hill",
+          "explanation": "Finished source appearance or sustained role evidence."
+        },
+        {
+          "quote": "Tess worked the counter with me",
+          "explanation": "Finished source appearance or sustained role evidence."
+        }
+      ],
+      "storyAppearance": "Adult cafe owner; personal name and gender unstated in source and canon.",
+      "visualInterpretation": [
+        "New name assigned solely for authorized art; androgynous middle-aged visual casting with olive skin, short salt-and-pepper curls, broad face; soft brown shirt, dark blue work apron, black trousers and shoes."
+      ],
+      "states": [
+        {
+          "name": "Sunday cafe visit",
+          "description": "Source-supported ordinary dressed state; no scene backdrop."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [
+        "universe/characters.md"
+      ],
+      "recurrence": {
+        "identityKey": "the-names-on-the-cups:lark-arden",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search; Hinge cast treated as same source identities, no prior character art found."
+      },
+      "output": "stories/the-names-on-the-cups/art/characters/lark-arden.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and final review authorized; current explicit resume."
+      },
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Lark Arden\"; subtitle \"The Names on the Cups\"; small role \"Hinge owner\". ONE androgynous middle-aged human with olive skin, short salt-and-pepper curls, broad face, ordinary matte brown eyes, sturdy average build. Soft brown rolled-sleeve shirt, dark blue cafe apron tied at neck and waist, black trousers and comfortable black shoes. Same identity and outfit in full front/rear studies and large portrait. Front holds a folded clean dishcloth, calm observant expression. No gendered styling, no cup charts or customer data.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:54:20.936456+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 3:2, 1536x1024. Completely OPAQUE warm ivory canvas, no transparency. Two complete unclipped full-body views, front and rear, and one large matching head portrait, all ONE identity. Name and story title clearly readable upper left. Character only, no environment, floor patches, scenery, furniture, paint swatches, palette strips, or isolated hand studies. Image 1 supplies Canadian Group of Seven oil technique: broad connected colour/value masses, varied directional opaque strokes, quieter connected shadows and selective raised impasto. Paint faces as boldly as clothing, matte ordinary eyes, no smooth photographic face, glossy CGI, uniform bevelled chips, or theatrical rim light. Image 2 informs restrained warm cafe lamplight and grey wet Sunday window daylight; keep broad soft light and lost shadow edges without copying cafe scenery.\nHeading \"Lark Arden\"; subtitle \"The Names on the Cups\"; small role \"Hinge owner\". ONE androgynous middle-aged human with olive skin, short salt-and-pepper curls, broad face, ordinary matte brown eyes, sturdy average build. Soft brown rolled-sleeve shirt, dark blue cafe apron tied at neck and waist, black trousers and comfortable black shoes. Same identity and outfit in full front/rear studies and large portrait. Front holds a folded clean dishcloth, calm observant expression. No gendered styling, no cup charts or customer data.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+                "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+                "inspected": true,
+                "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3669e538-5d85-44e0-b030-e73aba5ad0e4.png",
+            "outputSha256": "a92ab317b0385099d6a342360eade7efd755b7fae06177aa93426aa640a7b9e9",
+            "finishedAt": "2026-09-24T14:57:00.947937+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent androgynous mature narrator casting, salt-and-pepper curls, work apron and dishcloth; art-only assigned name does not alter unresolved canon name/gender.",
+              "Exact Lark Arden/title/role, broad connected matte oil and restrained cafe lighting on clean opaque ivory; two full forms and same portrait, no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3669e538-5d85-44e0-b030-e73aba5ad0e4.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed Hinge owner",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only name and visual interpretation; canon name/gender remain unresolved.",
+        "collisionCheck": "No exact Lark Arden match in universe, frozen name memory or existing specs."
+      },
+      "outputSha256": "a92ab317b0385099d6a342360eade7efd755b7fae06177aa93426aa640a7b9e9",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T14:57:00.947979+00:00",
+        "sourceSha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17",
+        "outputSha256": "a92ab317b0385099d6a342360eade7efd755b7fae06177aa93426aa640a7b9e9",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil masses and varied directional paint only; not orchard subject or daylight",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/interiors/01-the-counter-on-sunday.png",
+            "role": "Story-specific restrained cafe lamplight mixed with grey wet Sunday window daylight; no setting in the sheet",
+            "inspected": true,
+            "sha256": "594dd5e07adc806074361a3bcca7e9d430e264c0a5dc306f52011776ce78a79b"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent androgynous mature narrator casting, salt-and-pepper curls, work apron and dishcloth; art-only assigned name does not alter unresolved canon name/gender.",
+          "Exact Lark Arden/title/role, broad connected matte oil and restrained cafe lighting on clean opaque ivory; two full forms and same portrait, no scene/swatches."
+        ],
+        "specificationSha256": "9798a877eddd4ceda60a9c2ec7925f8d1d338ec149e5ff3901e28debe2e2a896"
+      }
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-red-dot",
+  "title": "The Red Dot",
+  "source": "stories/the-red-dot/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source and prompt read. Jovie, Harcott and shadow cat central; packing woman sustained speaking catalyst and refusal. Cover, dusk yard and warehouse paintings inspected; no original references supplied.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Green-apron assistant",
+      "reason": "Brief intimidating background with no sustained dialogue or central decision; exits early."
+    },
+    {
+      "name": "Ordinary lane cat",
+      "reason": "Brief prelude catalyst, immediately flees."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "jovie",
+      "name": "Jovie",
+      "role": "Motorcycle owner and protagonist",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "It's my motorcycle.",
+          "explanation": "Finished source explicit object or sustained action."
+        }
+      ],
+      "storyAppearance": "Boots, motorcycle helmet, jacket, laser pointer; no supernatural command bond.",
+      "visualInterpretation": [
+        "Art-only midtwenties, fair skin, short auburn tied-back hair, compact sturdy build; brown replacement jacket, charcoal shirt, black jeans and scuffed black boots."
+      ],
+      "states": [
+        {
+          "name": "Warehouse confrontation",
+          "description": "Dressed state before claw injury; isolated character."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-red-dot:jovie",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing-spec search found no recurring identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Jovie\"; title \"The Red Dot\". ONE adult woman in midtwenties, fair skin, short auburn hair gathered back with loose strands, compact sturdy build, angular determined face, dark matte eyes. Brown leather riding jacket over charcoal T-shirt, black jeans, scuffed black motorcycle boots. Front holds small laser pointer down in one hand and black motorcycle helmet against other hip. Pointer OFF, no projected beam/dot or environment. Large matching portrait skeptical with hint of humor. Same clothes/proportions in front/rear.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:05:27.857006+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Jovie\"; title \"The Red Dot\". ONE adult woman in midtwenties, fair skin, short auburn hair gathered back with loose strands, compact sturdy build, angular determined face, dark matte eyes. Brown leather riding jacket over charcoal T-shirt, black jeans, scuffed black motorcycle boots. Front holds small laser pointer down in one hand and black motorcycle helmet against other hip. Pointer OFF, no projected beam/dot or environment. Large matching portrait skeptical with hint of humor. Same clothes/proportions in front/rear.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+                "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+                "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-87ed2cfb-6c24-461b-aad8-62ef3446a46a.png",
+            "outputSha256": "36c083cf237be8fffebccfd0b715595ee6f9b8f3cf552d6dc5caf20913c6b7fb",
+            "finishedAt": "2026-09-24T15:09:03.445149+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain motorcycle boots, helmet and small pointer with no projected scene dot; front/rear and portrait preserve one adult face/build and riding clothes.",
+              "Exact name/title, broad matte oil and modest warm/cool warehouse light; opaque ivory, no scene, swatches or hand studies."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-87ed2cfb-6c24-461b-aad8-62ef3446a46a.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-red-dot/art/characters/jovie.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "36c083cf237be8fffebccfd0b715595ee6f9b8f3cf552d6dc5caf20913c6b7fb",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:09:03.445172+00:00",
+        "sourceSha256": "a4c874e83600607e52f2f8be2f87fa96b801974166d2c949c1e59ea56a050257",
+        "outputSha256": "36c083cf237be8fffebccfd0b715595ee6f9b8f3cf552d6dc5caf20913c6b7fb",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain motorcycle boots, helmet and small pointer with no projected scene dot; front/rear and portrait preserve one adult face/build and riding clothes.",
+          "Exact name/title, broad matte oil and modest warm/cool warehouse light; opaque ivory, no scene, swatches or hand studies."
+        ],
+        "specificationSha256": "55f42986cd6d1e85697c42d053e27f19c01edad9c5f545d8835026d636a861f8"
+      }
+    },
+    {
+      "id": "harcott",
+      "name": "Harcott",
+      "role": "Antiques dealer exploiting stolen motorcycle and cat",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "put it in his waistcoat pocket",
+          "explanation": "Finished source explicit object or sustained action."
+        }
+      ],
+      "storyAppearance": "Waistcoat, collar, trouser leg and sleeves; key with rubber skull in waistcoat; no ability to control creature.",
+      "visualInterpretation": [
+        "Art-only latefifties, pale ruddy skin, receding sandy grey hair, thin moustache, broad heavy build; brown waistcoat, cream shirt, dark trousers and polished worn shoes."
+      ],
+      "states": [
+        {
+          "name": "Warehouse confrontation",
+          "description": "Dressed state before claw injury; isolated character."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-red-dot:harcott",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing-spec search found no recurring identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Harcott\"; title \"The Red Dot\". ONE man latefifties, pale ruddy skin, receding sandy-grey hair, short thin moustache, broad heavy build and fleshy practical face. Brown waistcoat over collared cream long-sleeve shirt, dark trousers and worn polished brown shoes. Before claw incident: sleeves INTACT, hands relaxed low. Front holds one small motorcycle key with tiny BLACK RUBBER SKULL keyring near waist. Matching portrait calculating expression. No pointer or supernatural marks.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:05:28.903651+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Harcott\"; title \"The Red Dot\". ONE man latefifties, pale ruddy skin, receding sandy-grey hair, short thin moustache, broad heavy build and fleshy practical face. Brown waistcoat over collared cream long-sleeve shirt, dark trousers and worn polished brown shoes. Before claw incident: sleeves INTACT, hands relaxed low. Front holds one small motorcycle key with tiny BLACK RUBBER SKULL keyring near waist. Matching portrait calculating expression. No pointer or supernatural marks.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+                "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+                "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c4f80d4e-f21e-451f-8fbe-eab7eeaac630.png",
+            "outputSha256": "1763dde12c1db32cdf665c7fed5c336ce42579b1cc0e6cc84d55a845195d9da1",
+            "finishedAt": "2026-09-24T15:09:04.676188+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels preserve waistcoat/collar/pockets and motorcycle key with skull; full front/rear match mature portrait and before-claw intact sleeve state.",
+              "Exact name/title; broad connected oil, subdued indoor shadows and opaque ivory without setting/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c4f80d4e-f21e-451f-8fbe-eab7eeaac630.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-red-dot/art/characters/harcott.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "1763dde12c1db32cdf665c7fed5c336ce42579b1cc0e6cc84d55a845195d9da1",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:09:04.676210+00:00",
+        "sourceSha256": "a4c874e83600607e52f2f8be2f87fa96b801974166d2c949c1e59ea56a050257",
+        "outputSha256": "1763dde12c1db32cdf665c7fed5c336ce42579b1cc0e6cc84d55a845195d9da1",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels preserve waistcoat/collar/pockets and motorcycle key with skull; full front/rear match mature portrait and before-claw intact sleeve state.",
+          "Exact name/title; broad connected oil, subdued indoor shadows and opaque ivory without setting/swatches."
+        ],
+        "specificationSha256": "856c8fcb4efd9c59615a99b98fc925c031d9091626cc89ee3f58cfa27cbb41e9"
+      }
+    },
+    {
+      "id": "delma-rook",
+      "name": "Delma Rook",
+      "role": "Warehouse packer whose swan packing diverts the cat",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "The woman carried a roll of packing tape",
+          "explanation": "Finished source explicit object or sustained action."
+        }
+      ],
+      "storyAppearance": "Woman packing porcelain swans; folds tape end ready, refuses to stay when threatened.",
+      "visualInterpretation": [
+        "Art-only forties, deep brown skin, black close-cropped curls, broad cheekbones; faded grey rolled-sleeve workshirt, brown trousers, flat black work shoes."
+      ],
+      "states": [
+        {
+          "name": "Warehouse confrontation",
+          "description": "Dressed state before claw injury; isolated character."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-red-dot:delma-rook",
+        "links": [],
+        "evidence": "Targeted universe/name-memory/existing-spec search found no recurring identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Delma Rook\"; title \"The Red Dot\". ONE adult woman in forties, deep brown skin, black close-cropped curls, broad cheekbones and steady dark eyes, strong practical build. Faded grey rolled-sleeve workshirt, brown work trousers, flat black work shoes. Front naturally holds a roll of tan packing tape with end folded out. Same full rear and matching wary face. No swan sculptures or furniture, no apron copied from male assistant.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:05:29.978896+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies WAREHOUSE at DUSK light, modest warm overhead planes with connected cool deep shadows and lost edges; avoid bright outdoor studio exposure. Exact heading \"Delma Rook\"; title \"The Red Dot\". ONE adult woman in forties, deep brown skin, black close-cropped curls, broad cheekbones and steady dark eyes, strong practical build. Faded grey rolled-sleeve workshirt, brown work trousers, flat black work shoes. Front naturally holds a roll of tan packing tape with end folded out. Same full rear and matching wary face. No swan sculptures or furniture, no apron copied from male assistant.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+                "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+                "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f9d28f7a-3b7e-4594-927d-cb0bba10f1e2.png",
+            "outputSha256": "4d2ab529a9c1ea6f3dd88b105dd0eabc010405dafa9cfc73e886212fbad25a82",
+            "finishedAt": "2026-09-24T15:09:05.862850+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent adult warehouse packer, tape held naturally with folded/loose end, same clothes and face across full forms/portrait; art-only name recorded.",
+              "Exact name/title; broad matte oil, source warehouse light, clean opaque ivory without furniture/swatches/hand study."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f9d28f7a-3b7e-4594-927d-cb0bba10f1e2.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Warehouse packing woman",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label, no prose/canon edit.",
+        "collisionCheck": "No exact name found in universe, name memory or existing specifications."
+      },
+      "output": "stories/the-red-dot/art/characters/delma-rook.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "4d2ab529a9c1ea6f3dd88b105dd0eabc010405dafa9cfc73e886212fbad25a82",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:09:05.862877+00:00",
+        "sourceSha256": "a4c874e83600607e52f2f8be2f87fa96b801974166d2c949c1e59ea56a050257",
+        "outputSha256": "4d2ab529a9c1ea6f3dd88b105dd0eabc010405dafa9cfc73e886212fbad25a82",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent adult warehouse packer, tape held naturally with folded/loose end, same clothes and face across full forms/portrait; art-only name recorded.",
+          "Exact name/title; broad matte oil, source warehouse light, clean opaque ivory without furniture/swatches/hand study."
+        ],
+        "specificationSha256": "daf3aa4d9dca3fe00e2f461353f10792b30cc1a54896f3310bba6f73ef6b5b58"
+      }
+    },
+    {
+      "id": "vesperoot",
+      "name": "Vesperoot",
+      "role": "Enormous autonomous shadow cat",
+      "form": "feline shadow creature, fifteen feet tall on four paws",
+      "selectionEvidence": [
+        {
+          "quote": "without acquiring a single highlight on its body",
+          "explanation": "No illuminated fur modelling."
+        },
+        {
+          "quote": "Its eyes were yellow",
+          "explanation": "Distinctive visible features."
+        },
+        {
+          "quote": "five curved obsidian claws",
+          "explanation": "Source claws; reflective edges only."
+        }
+      ],
+      "storyAppearance": "Highlight-free solid black feline form, steep-roof ears, yellow eyes, black whiskers and curved obsidian claws with reflective edges; fifteen feet tall on all four paws, autonomous cat behavior.",
+      "visualInterpretation": [
+        "Vesperoot is newly assigned art-only name. Body follows compatible cover silhouette; no invented fur markings, transformation, human face, speech or known shadow-beast biology."
+      ],
+      "states": [
+        {
+          "name": "Standing and seated",
+          "description": "Two physical body states on plain ivory, no surrounding shadow patch."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-red-dot:vesperoot",
+        "links": [],
+        "evidence": "Source-local shadow cat, no unsupported identity/species link to Crooktail or other beasts."
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed giant shadow cat",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label, no prose/canon edit.",
+        "collisionCheck": "No exact name in universe/name memory/existing specs."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/title-image.jpg",
+            "role": "Compatible cat silhouette and yellow eyes/obsidian claws only; not flat graphic rendering, motorcycle or scene",
+            "sha256": "e47c3f046806b7a31b0f22d0f8ec1372d097e2776779581b38e8e333a0351f1f",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped animal studies, one SIDE VIEW standing on FOUR paws and one seated FRONT view, plus a matching large cat head; ONE creature only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Vesperoot\"; subtitle \"The Red Dot\"; small factual label \"Fifteen feet tall on four paws\". ONE gigantic black CAT, four feline legs, very long flexible tail entirely within page, steep triangular roof-like ears, yellow eyes with dark pupils, long fine BLACK whiskers. CRITICAL: body is made of SHADOW, ABSOLUTELY NO highlights, no blue/grey rim, no illuminated fur. Use a continuous deep BLACK painted silhouette with only extremely low-value internal dark marks. Yellow eyes and obsidian CLAW EDGES alone catch tiny restrained light. Attach curved black obsidian claws correctly to toes; seated front view raises ONE forepaw naturally to display exactly FIVE curved claws, no detached paw study. Large cat head uses black masses and yellow eyes only. Image3 supplies compatible source cover morphology; Image1 oil brush rhythms belong mainly to silhouette edges/black paint, never lighten fur. No wings, collar, bow, buildings, motorcycle, red spot, floor patch or magical haze.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:05:31.058200+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped animal studies, one SIDE VIEW standing on FOUR paws and one seated FRONT view, plus a matching large cat head; ONE creature only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading \"Vesperoot\"; subtitle \"The Red Dot\"; small factual label \"Fifteen feet tall on four paws\". ONE gigantic black CAT, four feline legs, very long flexible tail entirely within page, steep triangular roof-like ears, yellow eyes with dark pupils, long fine BLACK whiskers. CRITICAL: body is made of SHADOW, ABSOLUTELY NO highlights, no blue/grey rim, no illuminated fur. Use a continuous deep BLACK painted silhouette with only extremely low-value internal dark marks. Yellow eyes and obsidian CLAW EDGES alone catch tiny restrained light. Attach curved black obsidian claws correctly to toes; seated front view raises ONE forepaw naturally to display exactly FIVE curved claws, no detached paw study. Large cat head uses black masses and yellow eyes only. Image3 supplies compatible source cover morphology; Image1 oil brush rhythms belong mainly to silhouette edges/black paint, never lighten fur. No wings, collar, bow, buildings, motorcycle, red spot, floor patch or magical haze.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+                "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+                "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-red-dot/title-image.jpg",
+                "role": "Compatible cat silhouette and yellow eyes/obsidian claws only; not flat graphic rendering, motorcycle or scene",
+                "sha256": "e47c3f046806b7a31b0f22d0f8ec1372d097e2776779581b38e8e333a0351f1f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e29bc284-5776-49d8-b071-c1998ef5644c.png",
+            "outputSha256": "4dd470fd6e112e0467ad0ab3414aaca60480057f92e5e8dc13a446acd90443c6",
+            "finishedAt": "2026-09-24T15:09:07.082261+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels maintain uninterrupted very dark shadow-cat silhouette, yellow eyes, roof-like ears, black whiskers and reflected claw edges; no fur highlight/rim-light modelling.",
+              "Standing four-legged view, seated view with one raised attached five-claw paw, full tails and matching head; exact name/title/scale text; opaque ivory without surroundings/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e29bc284-5776-49d8-b071-c1998ef5644c.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-red-dot/art/characters/vesperoot.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "4dd470fd6e112e0467ad0ab3414aaca60480057f92e5e8dc13a446acd90443c6",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:09:07.082288+00:00",
+        "sourceSha256": "a4c874e83600607e52f2f8be2f87fa96b801974166d2c949c1e59ea56a050257",
+        "outputSha256": "4dd470fd6e112e0467ad0ab3414aaca60480057f92e5e8dc13a446acd90443c6",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/art/interiors/01-the-warehouse-aisle.png",
+            "role": "Dim warehouse at dusk: small warm electric light planes, connected cool subdued shadows; no warehouse scenery",
+            "sha256": "f9ace91b7a2e36cb5232fc57938664abb0f6bef1acc4b639c1fb5348f254429f",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-red-dot/title-image.jpg",
+            "role": "Compatible cat silhouette and yellow eyes/obsidian claws only; not flat graphic rendering, motorcycle or scene",
+            "sha256": "e47c3f046806b7a31b0f22d0f8ec1372d097e2776779581b38e8e333a0351f1f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels maintain uninterrupted very dark shadow-cat silhouette, yellow eyes, roof-like ears, black whiskers and reflected claw edges; no fur highlight/rim-light modelling.",
+          "Standing four-legged view, seated view with one raised attached five-claw paw, full tails and matching head; exact name/title/scale text; opaque ivory without surroundings/swatches."
+        ],
+        "specificationSha256": "f3bef98fd681173dab2659215bd94e5357b11434a232ffba80f09ea32966bc8f"
+      }
+    }
+  ],
+  "sourceSha256": "a4c874e83600607e52f2f8be2f87fa96b801974166d2c949c1e59ea56a050257"
+}

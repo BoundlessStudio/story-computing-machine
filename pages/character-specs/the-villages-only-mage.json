@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-villages-only-mage",
+  "title": "The One Who Helped Everyone",
+  "source": "stories/the-villages-only-mage/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose and prompt read; six sustained central identities selected: Aumiri, Beskaret, Torrigan, Velshia, Nimoret and cistern cooper. Cover/landscape/interior actual pixels inspected; cover has no human appearance reference. Live magic boundaries retained.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/rules.md â€” living agency",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Child's aunt, sick child, baker, roofer, carpenter and other villagers",
+      "reason": "Functional supporting keepers/bookend participants without sustained individual arc comparable to six main problem-solvers."
+    },
+    {
+      "name": "Brindled doe and other goats",
+      "reason": "Task subjects, no independent developed main-cast role."
+    }
+  ],
+  "characters": [
+    {
+      "id": "aumiri",
+      "name": "Aumiri",
+      "role": "Village mage and second-person protagonist",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Aumiri? Weâ€™re done with the warm.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Human adult; source gender and exact appearance unspecified. Modest sustaining magic, fatigued by amplified return, never giant reservoir of power."
+      },
+      "visualInterpretation": [
+        "Androgynous adult around thirty, slim small build, medium-brown skin, round face with wide cheekbones, short dense black curls, dark eyes; plain muted moss work shirt, charcoal trousers, brown boots. No mage robe, staff or glow.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Standing alert before surge and standing tired after closures; optional little iron goat bell held as practical equipment."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished prose."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:aumiri",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Aumiri\"; subtitle \"The One Who Helped Everyone\". Human adult; source gender and exact appearance unspecified. Modest sustaining magic, fatigued by amplified return, never giant reservoir of power. ART IDENTITY: Androgynous adult around thirty, slim small build, medium-brown skin, round face with wide cheekbones, short dense black curls, dark eyes; plain muted moss work shirt, charcoal trousers, brown boots. No mage robe, staff or glow. Two full body views front-three-quarter and rear; one tired face portrait. Small iron goat bell held in one hand only, no floating magical threads, no aura, no new markings. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Aumiri\"; subtitle \"The One Who Helped Everyone\". Human adult; source gender and exact appearance unspecified. Modest sustaining magic, fatigued by amplified return, never giant reservoir of power. ART IDENTITY: Androgynous adult around thirty, slim small build, medium-brown skin, round face with wide cheekbones, short dense black curls, dark eyes; plain muted moss work shirt, charcoal trousers, brown boots. No mage robe, staff or glow. Two full body views front-three-quarter and rear; one tired face portrait. Small iron goat bell held in one hand only, no floating magical threads, no aura, no new markings. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:03:25.336816+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-2e46bf7e-1df8-4d4f-9a1c-4ebb93a85c0a.png",
+            "outputSha256": "d918ce2c2acd82b14b7c2ed73f79019a0e52bd21d67e9fe6f2e786870154b3fa",
+            "returnedAt": "2026-09-24T15:04:47.401828+00:00",
+            "generatorReview": [
+              "Opaque RGB 1536x1024 actual image inspected: exact Aumiri and full title, two complete front/rear views and consistent tired expressive portrait.",
+              "Source unspecified-gender protagonist interpreted without imposed gender label, ordinary practical clothes and iron goat bell, no giant-power spectacle or invented permanent markings.",
+              "Broad matte oil shapes, subdued late-day natural light, ivory isolation with no scenery, swatches or detached hand studies. Source/output/reference/spec pins current."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/aumiri.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "d918ce2c2acd82b14b7c2ed73f79019a0e52bd21d67e9fe6f2e786870154b3fa",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:04:47.621949+00:00",
+        "evidence": [
+          "Opaque RGB 1536x1024 actual image inspected: exact Aumiri and full title, two complete front/rear views and consistent tired expressive portrait.",
+          "Source unspecified-gender protagonist interpreted without imposed gender label, ordinary practical clothes and iron goat bell, no giant-power spectacle or invented permanent markings.",
+          "Broad matte oil shapes, subdued late-day natural light, ivory isolation with no scenery, swatches or detached hand studies. Source/output/reference/spec pins current."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "d918ce2c2acd82b14b7c2ed73f79019a0e52bd21d67e9fe6f2e786870154b3fa",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "b004e14a212d44ca959178b5ffb9af033ce4223fac1cc3cc8527fbe6a1d24901"
+      }
+    },
+    {
+      "id": "beskaret",
+      "name": "Beskaret",
+      "role": "Miller and Aumiri's practical anchor through crisis",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Flour dust had pasted itself to the sweat on Beskaretâ€™s forearms.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult male miller, floury sweating forearms; knows the village and directs manual fallback sequence."
+      },
+      "visualInterpretation": [
+        "Stocky broad adult around fifty, fair ruddy skin, balding sandy hair, broad nose, short tawny moustache; rolled cream workshirt sleeves, ochre vest, dark brown work trousers and boots, flour-dusted apron.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Active working miller at late-day intervention; no injury or magic."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished prose."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:beskaret",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Edit only this one character sheet: remove the ENTIRE lower-right headless torso/hands/red-clips study and restore plain opaque warm ivory in that region. Leave exactly the two complete full-body views and ONE complete head-and-shoulders portrait. Keep exact \"Beskaret\" and \"The One Who Helped Everyone\", existing oil paint, warm daylight, floury forearms, face identity and clothes unchanged. No replacement details, no equipment study, no new hands. Opaque ivory canvas.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-5ad3121a-482d-43bb-9546-92315e6c63d3.png",
+            "role": "Immutable returned candidate, inspected edit target; remove hand-focused lower detail only.",
+            "sha256": "fff0c88791e83b0d6714afeb4097eca3a4a85cff48a992758a8f6f405f8002d0",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Beskaret\"; subtitle \"The One Who Helped Everyone\". Adult male miller, floury sweating forearms; knows the village and directs manual fallback sequence. ART IDENTITY: Stocky broad adult around fifty, fair ruddy skin, balding sandy hair, broad nose, short tawny moustache; rolled cream workshirt sleeves, ochre vest, dark brown work trousers and boots, flour-dusted apron. Two full body views and one steady concerned portrait. Rolled sleeves show flour dust on forearms. Small pair of red metal focus clips held by their ends in ONE equipment study, no glow or magical autonomy. Hands attached to bodies only. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:04:48.810804+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-5ad3121a-482d-43bb-9546-92315e6c63d3.png",
+            "outputSha256": "fff0c88791e83b0d6714afeb4097eca3a4a85cff48a992758a8f6f405f8002d0",
+            "returnedAt": "2026-09-24T15:07:18.417423+00:00",
+            "generatorReview": "The lower headless torso focuses on hands holding clips and conflicts with user's no hand-study direction. Clips also belong to later morning; remove study, preserve otherwise passing sheet."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit only this one character sheet: remove the ENTIRE lower-right headless torso/hands/red-clips study and restore plain opaque warm ivory in that region. Leave exactly the two complete full-body views and ONE complete head-and-shoulders portrait. Keep exact \"Beskaret\" and \"The One Who Helped Everyone\", existing oil paint, warm daylight, floury forearms, face identity and clothes unchanged. No replacement details, no equipment study, no new hands. Opaque ivory canvas.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-5ad3121a-482d-43bb-9546-92315e6c63d3.png",
+                "role": "Immutable returned candidate, inspected edit target; remove hand-focused lower detail only.",
+                "sha256": "fff0c88791e83b0d6714afeb4097eca3a4a85cff48a992758a8f6f405f8002d0",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:07:19.637762+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-01fa7cbc-3732-42dc-b159-2bc943e455da.png",
+            "outputSha256": "8f5e54377e5f4dd2562ccb5dff5e546679cc884f0b55aacf77be78ce31c297b2",
+            "returnedAt": "2026-09-24T15:08:57.662537+00:00",
+            "generatorReview": [
+              "Actual RGB opaque pixels reviewed: accurate Beskaret / The One Who Helped Everyone, same balding mustached stocky man in full front/rear and head portrait.",
+              "Floury forearms, practical apron and quiet natural warm light supported; non-canon face/clothing disclosed. Hand-focused lower detail removed entirely; no clips in late-day state.",
+              "Complete figures, ordinary anatomy, restrained directional oil and ivory background. No location, hand study, swatches or magic. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/beskaret.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "8f5e54377e5f4dd2562ccb5dff5e546679cc884f0b55aacf77be78ce31c297b2",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:08:57.867784+00:00",
+        "evidence": [
+          "Actual RGB opaque pixels reviewed: accurate Beskaret / The One Who Helped Everyone, same balding mustached stocky man in full front/rear and head portrait.",
+          "Floury forearms, practical apron and quiet natural warm light supported; non-canon face/clothing disclosed. Hand-focused lower detail removed entirely; no clips in late-day state.",
+          "Complete figures, ordinary anatomy, restrained directional oil and ivory background. No location, hand study, swatches or magic. Pins verified."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "8f5e54377e5f4dd2562ccb5dff5e546679cc884f0b55aacf77be78ce31c297b2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-5ad3121a-482d-43bb-9546-92315e6c63d3.png",
+            "role": "Immutable returned candidate, inspected edit target; remove hand-focused lower detail only.",
+            "sha256": "fff0c88791e83b0d6714afeb4097eca3a4a85cff48a992758a8f6f405f8002d0",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "c35ae8f690eb2576ad6138cb0057436c4cb00ccd24859b176b600dfd5cd3a4e3"
+      }
+    },
+    {
+      "id": "torrigan",
+      "name": "Torrigan",
+      "role": "Comparative load surveyor whose pulse starts crisis and who repairs his model",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Torrigan. Comparative load surveyor.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Broadest visiting mage, adult man, dust pale to knees, hard instrument case strapped to back; three silver needles over nested circles."
+      },
+      "visualInterpretation": [
+        "Heavy broad-shouldered man around forty-five, deep brown skin, closely shaved head, short neat black beard, rounded broad nose; dusty gray-green travelling coat, dark trousers and boots.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Late-day reverse-query work; concentrated rather than triumphant."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished prose."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:torrigan",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Precise deletion edit of this character sheet: remove the complete OPEN instrument case in the lower-right corner and replace only its region with plain opaque warm ivory. Leave the two COMPLETE full-body figures with CLOSED cases and the large head-and-shoulders portrait, exact \"Torrigan\" / \"The One Who Helped Everyone\" text, face identity, body proportions, oil handling, lighting, costume, all other elements unchanged. No replacement details or new objects. No hands-only crop. Opaque warm ivory background.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-a5cc2d32-4c7f-4167-8283-49cf1d886b27.png",
+            "role": "Immutable inspected candidate as deletion edit target; preserve character views and remove inaccurate assembled-device close-up.",
+            "sha256": "f8ec92f49d329506d0649133f43f1b2d5d8359caa16540ae449d779dea184447",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Torrigan\"; subtitle \"The One Who Helped Everyone\". Broadest visiting mage, adult man, dust pale to knees, hard instrument case strapped to back; three silver needles over nested circles. ART IDENTITY: Heavy broad-shouldered man around forty-five, deep brown skin, closely shaved head, short neat black beard, rounded broad nose; dusty gray-green travelling coat, dark trousers and boots. Two full body views and one intent portrait. Carry hard brass-edged survey case strapped to back in rear view, CLOSED case in hand front view; one separate OPEN case equipment study contains exactly three slim silver needles above nested circular dials and a leather palm pad. Compact copper vanes on case, no floating holograms, no autonomous power. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:08:58.956504+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-a5cc2d32-4c7f-4167-8283-49cf1d886b27.png",
+            "outputSha256": "f8ec92f49d329506d0649133f43f1b2d5d8359caa16540ae449d779dea184447",
+            "returnedAt": "2026-09-24T15:11:38.241034+00:00",
+            "generatorReview": "Open instrument study turns source three needles into detached large points beside dial; remove unsupported visible internal assembly while retaining closed source-supported cases."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Precise deletion edit of this character sheet: remove the complete OPEN instrument case in the lower-right corner and replace only its region with plain opaque warm ivory. Leave the two COMPLETE full-body figures with CLOSED cases and the large head-and-shoulders portrait, exact \"Torrigan\" / \"The One Who Helped Everyone\" text, face identity, body proportions, oil handling, lighting, costume, all other elements unchanged. No replacement details or new objects. No hands-only crop. Opaque warm ivory background.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-a5cc2d32-4c7f-4167-8283-49cf1d886b27.png",
+                "role": "Immutable inspected candidate as deletion edit target; preserve character views and remove inaccurate assembled-device close-up.",
+                "sha256": "f8ec92f49d329506d0649133f43f1b2d5d8359caa16540ae449d779dea184447",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:11:39.583657+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f7f425ae-1980-4d72-a8d8-0d87a6ca2409.png",
+            "outputSha256": "e2f7fb04581cf84f30c36a82d47ae2f41a44d67a3bc1d480aa629f5b417d18cf",
+            "returnedAt": "2026-09-24T15:14:05.571902+00:00",
+            "generatorReview": [
+              "Opaque RGB image inspected at full size: correct Torrigan/title, consistent broad bald bearded identity, two unclipped full figures and one portrait.",
+              "Source dusty travel clothing and closed hard survey case preserved. Inaccurate open-device assembly removed completely; no autonomous magic indicated.",
+              "Connected matte paint and late-day ochre/subdued violet shadows match paintings. No location, paint swatches or hand studies; all validation pins current."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/torrigan.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "e2f7fb04581cf84f30c36a82d47ae2f41a44d67a3bc1d480aa629f5b417d18cf",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:14:05.763551+00:00",
+        "evidence": [
+          "Opaque RGB image inspected at full size: correct Torrigan/title, consistent broad bald bearded identity, two unclipped full figures and one portrait.",
+          "Source dusty travel clothing and closed hard survey case preserved. Inaccurate open-device assembly removed completely; no autonomous magic indicated.",
+          "Connected matte paint and late-day ochre/subdued violet shadows match paintings. No location, paint swatches or hand studies; all validation pins current."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "e2f7fb04581cf84f30c36a82d47ae2f41a44d67a3bc1d480aa629f5b417d18cf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-a5cc2d32-4c7f-4167-8283-49cf1d886b27.png",
+            "role": "Immutable inspected candidate as deletion edit target; preserve character views and remove inaccurate assembled-device close-up.",
+            "sha256": "f8ec92f49d329506d0649133f43f1b2d5d8359caa16540ae449d779dea184447",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "2994c7c62b9efabffd366e10b19f4517330fb5d5aa912f938a35c5a4e6350274"
+      }
+    },
+    {
+      "id": "velshia",
+      "name": "Velshia",
+      "role": "Containment mage who respects grounded limits",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Velshia. Containment. Donâ€™t touch anything in either case.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Tall adult woman carries narrow red hard case; living touch supplies cooling containment; weary deliberate precision."
+      },
+      "visualInterpretation": [
+        "Very tall lean woman around forty, tawny skin, long sharp nose, narrow face, black hair cut at chin with blunt fringe, dark eyes; restrained charcoal travel coat, rust-brown trousers, black boots. No armor.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Late-day field containment before departure, hands steady, no frost ornament."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished prose."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:velshia",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Velshia\"; subtitle \"The One Who Helped Everyone\". Tall adult woman carries narrow red hard case; living touch supplies cooling containment; weary deliberate precision. ART IDENTITY: Very tall lean woman around forty, tawny skin, long sharp nose, narrow face, black hair cut at chin with blunt fringe, dark eyes; restrained charcoal travel coat, rust-brown trousers, black boots. No armor. Two full body views and one watchful portrait. Narrow RED hard case slung across back, hands empty in front; no ice costume, snow, staff, magic aura or location. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Velshia\"; subtitle \"The One Who Helped Everyone\". Tall adult woman carries narrow red hard case; living touch supplies cooling containment; weary deliberate precision. ART IDENTITY: Very tall lean woman around forty, tawny skin, long sharp nose, narrow face, black hair cut at chin with blunt fringe, dark eyes; restrained charcoal travel coat, rust-brown trousers, black boots. No armor. Two full body views and one watchful portrait. Narrow RED hard case slung across back, hands empty in front; no ice costume, snow, staff, magic aura or location. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:14:06.878584+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-8c5f4bc5-6958-409c-82ee-aa0e775bdded.png",
+            "outputSha256": "505180df2a631401fe55c06e79bd00904844a7d1d9fc62fd4dcef1c5219bf45a",
+            "returnedAt": "2026-09-24T15:15:55.127105+00:00",
+            "generatorReview": [
+              "Inspected opaque RGB pixels: exact Velshia/full title, tall lean body and same blunt dark bob/narrow facial structure in two full views and bust.",
+              "Source narrow red case visible, field clothing restrained, hands empty and no ice/glow suggesting stored or automatic magical power.",
+              "Connected dark oil masses, varied strokes and late-day warm planes with subdued shadows; unclipped figure, no location/swatches/hand detail. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/velshia.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "505180df2a631401fe55c06e79bd00904844a7d1d9fc62fd4dcef1c5219bf45a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:15:55.326183+00:00",
+        "evidence": [
+          "Inspected opaque RGB pixels: exact Velshia/full title, tall lean body and same blunt dark bob/narrow facial structure in two full views and bust.",
+          "Source narrow red case visible, field clothing restrained, hands empty and no ice/glow suggesting stored or automatic magical power.",
+          "Connected dark oil masses, varied strokes and late-day warm planes with subdued shadows; unclipped figure, no location/swatches/hand detail. Pins verified."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "505180df2a631401fe55c06e79bd00904844a7d1d9fc62fd4dcef1c5219bf45a",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "89f7197db7d695558635d50b1e679c2095371c84eb6146579cd31a718309cb86"
+      }
+    },
+    {
+      "id": "nimoret",
+      "name": "Nimoret",
+      "role": "Fieldwright who maps return cords and listens to local knowledge",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Their sleeves were patched at both elbows, and their case was soft-sided and crowded with spools.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult human, they/them; patched elbow sleeves, soft-sided case of spools, fine cords and clay tags."
+      },
+      "visualInterpretation": [
+        "Androgynous slight adult around twenty-eight, warm light-brown skin, small triangular face, large straight nose, short auburn curls, hazel eyes; faded muted rust shirt with moss elbow patches, gray trousers and sturdy boots.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Late-day mapping after tags replaced with familiar cloth markers."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished prose."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:nimoret",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Nimoret\"; subtitle \"The One Who Helped Everyone\". Adult human, they/them; patched elbow sleeves, soft-sided case of spools, fine cords and clay tags. ART IDENTITY: Androgynous slight adult around twenty-eight, warm light-brown skin, small triangular face, large straight nose, short auburn curls, hazel eyes; faded muted rust shirt with moss elbow patches, gray trousers and sturdy boots. Two full-body views and one thoughtful face. Soft open satchel holding compact spools, one thin cord wound between attached hands; cloth markers blue yarn/flour sacking/goat hair neatly tucked in bag, no floating threads or circuitry. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Nimoret\"; subtitle \"The One Who Helped Everyone\". Adult human, they/them; patched elbow sleeves, soft-sided case of spools, fine cords and clay tags. ART IDENTITY: Androgynous slight adult around twenty-eight, warm light-brown skin, small triangular face, large straight nose, short auburn curls, hazel eyes; faded muted rust shirt with moss elbow patches, gray trousers and sturdy boots. Two full-body views and one thoughtful face. Soft open satchel holding compact spools, one thin cord wound between attached hands; cloth markers blue yarn/flour sacking/goat hair neatly tucked in bag, no floating threads or circuitry. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:15:56.448078+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-ff599ee6-1827-4388-b978-bb5d0d3b984e.png",
+            "outputSha256": "bb03ab26803aa646a57a22d33c207974a1a8f01be0fa4a7d5e513794e152ca73",
+            "returnedAt": "2026-09-24T15:18:31.474123+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels inspected: exact Nimoret/full title, repeated same auburn-curled triangular face and slight body; two unclipped full views and one portrait.",
+              "Patched elbows, fine cords and soft bag crowded with spools/clay tags and local blue yarn/sacking supported. Sheet inventories their field equipment; visible tags are not an assertion that later cloth-marker choice was reversed.",
+              "Face and garments built with broad directional matte oil; source late-day palette retained without glow. No location, hand study, swatches or autonomous magic; hashes and pins checked."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/nimoret.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "bb03ab26803aa646a57a22d33c207974a1a8f01be0fa4a7d5e513794e152ca73",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:18:31.673919+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels inspected: exact Nimoret/full title, repeated same auburn-curled triangular face and slight body; two unclipped full views and one portrait.",
+          "Patched elbows, fine cords and soft bag crowded with spools/clay tags and local blue yarn/sacking supported. Sheet inventories their field equipment; visible tags are not an assertion that later cloth-marker choice was reversed.",
+          "Face and garments built with broad directional matte oil; source late-day palette retained without glow. No location, hand study, swatches or autonomous magic; hashes and pins checked."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "bb03ab26803aa646a57a22d33c207974a1a8f01be0fa4a7d5e513794e152ca73",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "7399815e39ad550e91f0e4004f07ec30b778cbad4ac0493b5b25168dd012a499"
+      }
+    },
+    {
+      "id": "celdris",
+      "name": "Celdris",
+      "role": "The cistern cooper whose practical knowledge guides safe closure",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Cistern first, the cooper said.",
+          "explanation": "Sustained source role and source-specific appearance/equipment."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult woman cooper wears apron, drenched waist-down at overflow; mallet, wedges and hose repair; repeated expert throughout cistern and bridge closures."
+      },
+      "visualInterpretation": [
+        "Stocky older woman around fifty-five, copper-brown skin, round face, straight substantial nose, silver-streaked dark hair in one thick braid; slate wool shirt, damp pale canvas apron over brown trousers, stout boots.",
+        "Exact ages, facial features and unreported clothing are restrained art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Late-day village intervention",
+          "description": "Late-day cistern work, wet apron hem, holds mallet without pose of violence."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The cistern cooper",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Current source/prompt provide no personal name; distinctive name checked in universe/frozen memory/current specs, no match. No prose or canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-villages-only-mage:celdris",
+        "links": [],
+        "evidence": "No established recurring universe identity matches."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Celdris\"; subtitle \"The One Who Helped Everyone\". Adult woman cooper wears apron, drenched waist-down at overflow; mallet, wedges and hose repair; repeated expert throughout cistern and bridge closures. ART IDENTITY: Stocky older woman around fifty-five, copper-brown skin, round face, straight substantial nose, silver-streaked dark hair in one thick braid; slate wool shirt, damp pale canvas apron over brown trousers, stout boots. Two full body views and one matter-of-fact portrait. Small wooden cooper mallet held downward and two plain wedges tucked at belt, no magical costume or glow. Damp apron darkens lower fabric, no water/terrain beneath figure. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Celdris\"; subtitle \"The One Who Helped Everyone\". Adult woman cooper wears apron, drenched waist-down at overflow; mallet, wedges and hose repair; repeated expert throughout cistern and bridge closures. ART IDENTITY: Stocky older woman around fifty-five, copper-brown skin, round face, straight substantial nose, silver-streaked dark hair in one thick braid; slate wool shirt, damp pale canvas apron over brown trousers, stout boots. Two full body views and one matter-of-fact portrait. Small wooden cooper mallet held downward and two plain wedges tucked at belt, no magical costume or glow. Damp apron darkens lower fabric, no water/terrain beneath figure. Keep one stable face/body across views. Light is the source's late-day intervention: soft low natural light on planes facing the sky, subdued connected umber and grayed violet shadow, no luminous outlines. The attached two paintings are primary medium/light references only. They donate no scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+                "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+                "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:18:32.833429+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-a9d4be5d-4334-4cd7-ae8d-2babef13fd59.png",
+            "outputSha256": "5eed0cc74dad2305bd407bb11a87ed45aa6941aad4f9cd6dbf6c463d7fb0a4cd",
+            "returnedAt": "2026-09-24T15:21:11.628789+00:00",
+            "generatorReview": [
+              "Opaque RGB 1536x1024 sheet inspected: exact Celdris/title, same broad older silver-braided woman in front, rear and portrait; new name clearly documented as art-only.",
+              "Source cooper's wet apron hem, work mallet and wedges visualized naturally, no magic costume or unsupported injury. Character anatomy and equipment fit complete unclipped views.",
+              "Connected matte oil planes, restrained late-day light and ivory isolation match collection; no setting, swatches or hand-study. All hashes/validation pins current."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-villages-only-mage/art/characters/celdris.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "5eed0cc74dad2305bd407bb11a87ed45aa6941aad4f9cd6dbf6c463d7fb0a4cd",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:21:11.838997+00:00",
+        "evidence": [
+          "Opaque RGB 1536x1024 sheet inspected: exact Celdris/title, same broad older silver-braided woman in front, rear and portrait; new name clearly documented as art-only.",
+          "Source cooper's wet apron hem, work mallet and wedges visualized naturally, no magic costume or unsupported injury. Character anatomy and equipment fit complete unclipped views.",
+          "Connected matte oil planes, restrained late-day light and ivory isolation match collection; no setting, swatches or hand-study. All hashes/validation pins current."
+        ],
+        "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2",
+        "outputSha256": "5eed0cc74dad2305bd407bb11a87ed45aa6941aad4f9cd6dbf6c463d7fb0a4cd",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared collection Group of Seven oil mass/stroke treatment; no landscape in sheet.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-villages-only-mage/art/landscapes/03-cistern-and-millrace.png",
+            "role": "Same-story late-day natural light and ochre/umber/grayed-violet painted palette; preserve quieter shadow, omit all scenery.",
+            "sha256": "511a273574f30777dabfd1021fc7a6ebd5378f8e8454561f9000443528b474cc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "bd6448c381cd035262ede945d33e813ef679d6a956a1d70ee044d10dba9e9fe4"
+      }
+    }
+  ],
+  "sourceSha256": "9f65d714943c67f40ff51db8e173cd7816598384c0da2c6a4965f69d37b29ed2"
+}

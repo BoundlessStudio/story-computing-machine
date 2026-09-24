@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 1,
+  "slug": "when-the-needle-finds-you",
+  "title": "When the Needle Finds You",
+  "source": "stories/when-the-needle-finds-you/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read canon:false marker then complete finished source and full prompt including replacement constraints; new Sivra/Olt/survivor cast, no removed Salma or prior throughline retained. Four sustained main identities. Actual cover, original attached reference (recovered externally), workshop and studio oils inspected. Selected reference states omit graphic deaths; prose untouched.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "inspectedOriginals": [
+    {
+      "displayName": "codex-clipboard-adb97217-f1ce-4bc3-9fd3-6904e4cc0b3f.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-adb97217-f1ce-4bc3-9fd3-6904e4cc0b3f.png",
+      "role": "Jester visual identity only; source normal brown right eye and black membrane left eye govern over original red glow."
+    }
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Loading-bay victim, eleven tenement victims, neighbors and searched contacts",
+      "reason": "Offstage/recalled or brief collective roles; not individualized active main cast."
+    }
+  ],
+  "characters": [
+    {
+      "id": "sivra-ossik",
+      "name": "Sivra Ossik",
+      "role": "Body-recovery worker, Olt's older sister and survivor who broadcasts her culpability",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Sivra wrapped her arm in a mechanic's shirt",
+          "explanation": "Body-recovery worker, Olt's older sister and survivor who broadcasts her culpability"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Older than thirty-seven-year-old Olt, practical worker, keys/pistol/radio, forearm injury wrapped mechanic shirt and cargo strap; left hearing harmed only at end."
+      },
+      "visualInterpretation": [
+        "Art-only early-forties lean muscular woman, warm olive skin, broad angular face, blunt nose, dark brown shoulder-length hair tied low with gray forelock, oil-marked navy coveralls and steel-toe boots.",
+        "Two source inventory states before attack and after wrapping; choose LEFT wrapped arm as art continuity only since injury side unspecified, intact covered hand; no open wound. Radio clipped belt."
+      ],
+      "states": [
+        {
+          "name": "Selected intact or wrapped source state",
+          "description": " Heading \"Sivra Ossik\"; subtitle \"When the Needle Finds You\". ONE lean strong woman about forty-two, warm olive skin, broad angular practical face, blunt nose, brown eyes, shoulder-length dark brown hair tied in a low untidy knot with gray forelock. OIL-MARKED navy mechanic coveralls over gray crewneck shirt, heavy brown steel-toe boots, work belt/keyring and small ordinary clipped portable radio. Two complete full-body views: initial front-three-quarter both arms intact, label \"Before the attack\"; second three-quarter arm held close, LEFT forearm fully wrapped in gray mechanic shirt fabric with ordinary dark cargo strap just above elbow, no wound visible, label \"After bandaging\". Same clothes/person. One large tired determined closed-mouth portrait. Source midnight workshop low practical-lamp light: limited warm cheek/knuckle planes and broad connected navy/umber shadows, no decorative glow. No blood, corpses, exposed injury, scene, weapon action, floor or isolated hand studies."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in current finished prose."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Sivra Ossik\"; subtitle \"When the Needle Finds You\". ONE lean strong woman about forty-two, warm olive skin, broad angular practical face, blunt nose, brown eyes, shoulder-length dark brown hair tied in a low untidy knot with gray forelock. OIL-MARKED navy mechanic coveralls over gray crewneck shirt, heavy brown steel-toe boots, work belt/keyring and small ordinary clipped portable radio. Two complete full-body views: initial front-three-quarter both arms intact, label \"Before the attack\"; second three-quarter arm held close, LEFT forearm fully wrapped in gray mechanic shirt fabric with ordinary dark cargo strap just above elbow, no wound visible, label \"After bandaging\". Same clothes/person. One large tired determined closed-mouth portrait. Source midnight workshop low practical-lamp light: limited warm cheek/knuckle planes and broad connected navy/umber shadows, no decorative glow. No blood, corpses, exposed injury, scene, weapon action, floor or isolated hand studies.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+            "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+            "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Sivra Ossik\"; subtitle \"When the Needle Finds You\". ONE lean strong woman about forty-two, warm olive skin, broad angular practical face, blunt nose, brown eyes, shoulder-length dark brown hair tied in a low untidy knot with gray forelock. OIL-MARKED navy mechanic coveralls over gray crewneck shirt, heavy brown steel-toe boots, work belt/keyring and small ordinary clipped portable radio. Two complete full-body views: initial front-three-quarter both arms intact, label \"Before the attack\"; second three-quarter arm held close, LEFT forearm fully wrapped in gray mechanic shirt fabric with ordinary dark cargo strap just above elbow, no wound visible, label \"After bandaging\". Same clothes/person. One large tired determined closed-mouth portrait. Source midnight workshop low practical-lamp light: limited warm cheek/knuckle planes and broad connected navy/umber shadows, no decorative glow. No blood, corpses, exposed injury, scene, weapon action, floor or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+                "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+                "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:51:50.653111+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f07a629e-e383-494a-bd7c-a7352ac638b9.png",
+            "outputSha256": "7e846eab5c95893eaef6a033db79a72236f471a86394e36cc8108b99fa80cffc",
+            "returnedAt": "2026-09-24T16:53:33.033206+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels: exact Sivra Ossik/title and distinct Before the attack/After bandaging labels. Consistent mature strong olive-faced mechanic in navy coveralls.",
+              "Complete arms/legs, radio/keys, source mechanic-cloth wrap and cargo strap above elbow; selected left arm is explicit art-only choice, no exposed wound or gore.",
+              "Warm practical-light planes against connected dark navy shadows, broadly painted face/hair, warm ivory isolation without floor/scene/swatches or detached hand. Pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/when-the-needle-finds-you/art/characters/sivra-ossik.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "7e846eab5c95893eaef6a033db79a72236f471a86394e36cc8108b99fa80cffc",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:53:33.217610+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels: exact Sivra Ossik/title and distinct Before the attack/After bandaging labels. Consistent mature strong olive-faced mechanic in navy coveralls.",
+          "Complete arms/legs, radio/keys, source mechanic-cloth wrap and cargo strap above elbow; selected left arm is explicit art-only choice, no exposed wound or gore.",
+          "Warm practical-light planes against connected dark navy shadows, broadly painted face/hair, warm ivory isolation without floor/scene/swatches or detached hand. Pins verify."
+        ],
+        "sourceSha256": "f38ad6548ced1e338f9a40a22aa752c5ec0ef6723b399a1879b837208e0dfac7",
+        "outputSha256": "7e846eab5c95893eaef6a033db79a72236f471a86394e36cc8108b99fa80cffc",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+            "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+            "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "00cf88f0335e7d7afde882687a4768475854fc91a7f5a1eba51ef634a48581ea"
+      }
+    },
+    {
+      "id": "olt-ossik",
+      "name": "Olt Ossik",
+      "role": "Thirty-seven-year-old younger brother whose predation and arson are exposed",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Olt had always gone high when pain surprised him, even at thirty-seven",
+          "explanation": "Thirty-seven-year-old younger brother whose predation and arson are exposed"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Exactly thirty-seven; left palm freshly bandaged before tire-shop violence; boots, coat and later mutilation not shown in selected earlier state."
+      },
+      "visualInterpretation": [
+        "Art-only lean restless man sharing Sivra's olive family complexion, long angular face and blunt nose; mussed brown wavy hair, stubble, tired gray-brown eyes, tobacco coat/plum shirt.",
+        "Select pre-attack state with all fingers intact and simple left palm bandage. No corpse, death or later hand injury depiction."
+      ],
+      "states": [
+        {
+          "name": "Selected intact or wrapped source state",
+          "description": " Heading \"Olt Ossik\"; subtitle \"When the Needle Finds You\". ONE man aged exactly thirty-seven, lean wiry body, olive skin, long angular face with blunt family nose, short mussed brown wavy hair, patchy stubble, gray-brown eyes with tired shadows. Worn tobacco-brown leather coat over dark PLUM open-collar shirt, charcoal trousers and worn black workboots. LEFT PALM has a small ordinary cloth bandage under thumb, all five fingers INTACT in this earlier state. Two complete standing views front-three-quarter and side, one uneasy half-smile and hands loosely lowered, one restless slouch. One larger portrait showing forced charming smile not a monster. Small label \"Before the tire-shop attack\". Late-afternoon dim garage practical light with low warm planes/connected blue-umber shadows. No blood, missing fingers, weapon, scene, isolated hands or swatches."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in current finished prose."
+      },
+      "generation": {
+        "prompt": "Edit ONLY the EXTERIOR BACKGROUND of this existing Olt Ossik character sheet. Retain 1536x1024 landscape size and fully OPAQUE RGB warm ivory canvas. Remove all broad beige/gray painted FLOOR PATCHES and cast shadows beneath BOTH complete standing figures, including between and behind their boots. Remove the stray gray/beige background brushstrokes behind and around the LARGE right-hand portrait, especially along its upper-left and outer right contours. Replace every such exterior mark with PLAIN warm IVORY matching the existing clean background. There must be no ground, floor patch, shadow, vignette or gray streak outside the character silhouettes. Preserve the character pixels, all oil-painted facial/hair/clothing detail, colors, anatomy, bandaged LEFT hand, poses, exact full-body silhouettes and existing composition. Preserve exact typography and all words: \"Olt Ossik\", \"When the Needle Finds You\", \"Before the tire-shop attack\". Do not redraw or redesign the person, change the costume, face, expression, age, equipment, text, positions or proportions. Clean background only; everything belonging to character or lettering remains unchanged. Do not add swatches, symbols, borders, decoration or transparent pixels.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f5b9e6e5-8c12-49a0-93ca-d1c9675fa2d7.png",
+            "role": "Actual visually inspected immutable selected Olt sheet: preserve character pixels, labels, layout and source state; edit exterior floor/background marks only.",
+            "sha256": "408d2b587dd2c6565d4a1fd97b800224f34603e96bb9b5b896fa2637546553dc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Olt Ossik\"; subtitle \"When the Needle Finds You\". ONE man aged exactly thirty-seven, lean wiry body, olive skin, long angular face with blunt family nose, short mussed brown wavy hair, patchy stubble, gray-brown eyes with tired shadows. Worn tobacco-brown leather coat over dark PLUM open-collar shirt, charcoal trousers and worn black workboots. LEFT PALM has a small ordinary cloth bandage under thumb, all five fingers INTACT in this earlier state. Two complete standing views front-three-quarter and side, one uneasy half-smile and hands loosely lowered, one restless slouch. One larger portrait showing forced charming smile not a monster. Small label \"Before the tire-shop attack\". Late-afternoon dim garage practical light with low warm planes/connected blue-umber shadows. No blood, missing fingers, weapon, scene, isolated hands or swatches.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+                "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+                "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:53:34.294567+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f5b9e6e5-8c12-49a0-93ca-d1c9675fa2d7.png",
+            "outputSha256": "408d2b587dd2c6565d4a1fd97b800224f34603e96bb9b5b896fa2637546553dc",
+            "returnedAt": "2026-09-24T16:55:57.378199+00:00",
+            "generatorReview": [
+              "Original generator review passed source identity, pre-attack state, exact labels and anatomy.",
+              "Root independent saved-pixel review passes source identities/states, labels, anatomy and Jester eye distinction; requests narrow Olt-only cleanup: remove broad beige/gray floor patches under both figures and gray exterior strokes behind large portrait, preserve all character pixels and labels. Prior candidate retained."
+            ],
+            "originalGeneratorVerdict": "PASS",
+            "originalGeneratorReview": [
+              "Opaque RGB actual pixels: exact Olt Ossik/title plus Before the tire-shop attack label; adult late-thirties face, stubble, uneasy charm and consistent brown/plum outfit.",
+              "Bandage on anatomical LEFT hand, all fingers intact in explicit pre-attack state; no later injury confused with early appearance.",
+              "Complete figures, broadly painted skin/cloth, subdued warm practical-light planes, ivory isolated background with small contact shadows only. No gore/scene/swatches/hand studies; pins verify."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit ONLY the EXTERIOR BACKGROUND of this existing Olt Ossik character sheet. Retain 1536x1024 landscape size and fully OPAQUE RGB warm ivory canvas. Remove all broad beige/gray painted FLOOR PATCHES and cast shadows beneath BOTH complete standing figures, including between and behind their boots. Remove the stray gray/beige background brushstrokes behind and around the LARGE right-hand portrait, especially along its upper-left and outer right contours. Replace every such exterior mark with PLAIN warm IVORY matching the existing clean background. There must be no ground, floor patch, shadow, vignette or gray streak outside the character silhouettes. Preserve the character pixels, all oil-painted facial/hair/clothing detail, colors, anatomy, bandaged LEFT hand, poses, exact full-body silhouettes and existing composition. Preserve exact typography and all words: \"Olt Ossik\", \"When the Needle Finds You\", \"Before the tire-shop attack\". Do not redraw or redesign the person, change the costume, face, expression, age, equipment, text, positions or proportions. Clean background only; everything belonging to character or lettering remains unchanged. Do not add swatches, symbols, borders, decoration or transparent pixels.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f5b9e6e5-8c12-49a0-93ca-d1c9675fa2d7.png",
+                "role": "Actual visually inspected immutable selected Olt sheet: preserve character pixels, labels, layout and source state; edit exterior floor/background marks only.",
+                "sha256": "408d2b587dd2c6565d4a1fd97b800224f34603e96bb9b5b896fa2637546553dc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T17:11:25.512791+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-1d0f3e3d-9449-44ba-b32a-87fc391c48c1.png",
+            "outputSha256": "ee7dcca2ded2c65005ef58471b211886d07d9a43c4198ae23aec44c1d53cccf7",
+            "returnedAt": "2026-09-24T17:13:09.675322+00:00",
+            "generatorReview": [
+              "Opaque RGB actual corrected pixels inspected: broad beige/gray floor patches beneath BOTH full figures and gray exterior strokes behind portrait are removed; empty background is clean opaque warm ivory.",
+              "Olt's same thirty-seven-year-old face, hair, expression, tobacco coat/plum shirt, bandaged LEFT hand, full-body anatomy/poses and portrait composition remain visually consistent with original selected candidate.",
+              "Exact Olt Ossik/title/Before the tire-shop attack labels preserved. No scene, ground, palette or hand study. Immutable original edit reference pinned, both attempts retained; source/reference/output/specification verification PASS."
+            ]
+          }
+        ]
+      },
+      "output": "stories/when-the-needle-finds-you/art/characters/olt-ossik.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "ee7dcca2ded2c65005ef58471b211886d07d9a43c4198ae23aec44c1d53cccf7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T17:13:09.875081+00:00",
+        "evidence": [
+          "Opaque RGB actual corrected pixels inspected: broad beige/gray floor patches beneath BOTH full figures and gray exterior strokes behind portrait are removed; empty background is clean opaque warm ivory.",
+          "Olt's same thirty-seven-year-old face, hair, expression, tobacco coat/plum shirt, bandaged LEFT hand, full-body anatomy/poses and portrait composition remain visually consistent with original selected candidate.",
+          "Exact Olt Ossik/title/Before the tire-shop attack labels preserved. No scene, ground, palette or hand study. Immutable original edit reference pinned, both attempts retained; source/reference/output/specification verification PASS."
+        ],
+        "sourceSha256": "f38ad6548ced1e338f9a40a22aa752c5ec0ef6723b399a1879b837208e0dfac7",
+        "outputSha256": "ee7dcca2ded2c65005ef58471b211886d07d9a43c4198ae23aec44c1d53cccf7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-f5b9e6e5-8c12-49a0-93ca-d1c9675fa2d7.png",
+            "role": "Actual visually inspected immutable selected Olt sheet: preserve character pixels, labels, layout and source state; edit exterior floor/background marks only.",
+            "sha256": "408d2b587dd2c6565d4a1fd97b800224f34603e96bb9b5b896fa2637546553dc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "09b23adcdde9ddca1998d6fa45d9d70c198d43c0d5d4db8ca78e09ba45e09412"
+      }
+    },
+    {
+      "id": "tredwen",
+      "name": "Tredwen",
+      "role": "Survivor from room six who exposes Olt and insists on broadcast truth",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "Old fire had drawn the left side of her face tight and glossy",
+          "explanation": "Survivor from room six who exposes Olt and insists on broadcast truth"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Woman near Sivra's age; old fire contracted LEFT side of face, lifting left mouth corner; short chopping blade; later arm wound omitted by earlier state."
+      },
+      "visualInterpretation": [
+        "Art-only early-forties woman, light brown skin, strong tall build, chin-length graying black blunt bob, gray eyes; faded mustard workcoat/charcoal clothing and boots.",
+        "Healed left facial scar remains non-graphic physical trait, not monstrous moral coding. Select before fresh arm injury."
+      ],
+      "states": [
+        {
+          "name": "Selected intact or wrapped source state",
+          "description": " Heading \"Tredwen\"; subtitle \"When the Needle Finds You\". ONE strong tall woman early forties, light brown skin, straight chin-length black bob threaded gray, gray eyes, broad cheekbones. Old HEALED fire scar has contracted anatomical LEFT side of face, pulling LEFT mouth corner upward; in frontal view scar is VIEWER RIGHT. Skin closed, smooth old scar, no burn gore or fresh injury. Expression guarded intent, never monstrous. Faded mustard workcoat over charcoal crewneck shirt, dark practical trousers and heavy boots. Two COMPLETE full-body views front-three-quarter/side, one holds ordinary SHORT chopping knife low beside leg, blade pointed down, other hands relaxed, before new arm wound. One large face portrait clearly preserving old LEFT scar. Label \"Before the confrontation\". Dim afternoon garage lamp planes with subdued connected shadows. No blood, assault, flame, bodies, scene, floor or isolated hand studies."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "evidence": "Source uses woman from room six. User explicitly requires distinct art names for important unnamed figures; Tredwen checked against universe, frozen names and existing specs. Does not rename prose or establish canon."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Tredwen\"; subtitle \"When the Needle Finds You\". ONE strong tall woman early forties, light brown skin, straight chin-length black bob threaded gray, gray eyes, broad cheekbones. Old HEALED fire scar has contracted anatomical LEFT side of face, pulling LEFT mouth corner upward; in frontal view scar is VIEWER RIGHT. Skin closed, smooth old scar, no burn gore or fresh injury. Expression guarded intent, never monstrous. Faded mustard workcoat over charcoal crewneck shirt, dark practical trousers and heavy boots. Two COMPLETE full-body views front-three-quarter/side, one holds ordinary SHORT chopping knife low beside leg, blade pointed down, other hands relaxed, before new arm wound. One large face portrait clearly preserving old LEFT scar. Label \"Before the confrontation\". Dim afternoon garage lamp planes with subdued connected shadows. No blood, assault, flame, bodies, scene, floor or isolated hand studies.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+            "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+            "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Tredwen\"; subtitle \"When the Needle Finds You\". ONE strong tall woman early forties, light brown skin, straight chin-length black bob threaded gray, gray eyes, broad cheekbones. Old HEALED fire scar has contracted anatomical LEFT side of face, pulling LEFT mouth corner upward; in frontal view scar is VIEWER RIGHT. Skin closed, smooth old scar, no burn gore or fresh injury. Expression guarded intent, never monstrous. Faded mustard workcoat over charcoal crewneck shirt, dark practical trousers and heavy boots. Two COMPLETE full-body views front-three-quarter/side, one holds ordinary SHORT chopping knife low beside leg, blade pointed down, other hands relaxed, before new arm wound. One large face portrait clearly preserving old LEFT scar. Label \"Before the confrontation\". Dim afternoon garage lamp planes with subdued connected shadows. No blood, assault, flame, bodies, scene, floor or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+                "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+                "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:55:58.656143+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-05cea6e7-4d67-4d0b-a947-2178674ae1f0.png",
+            "outputSha256": "4d87a8ac3daab7d2aa01deef79766c6b35898e510f4bb70d5216fd536464ac7b",
+            "returnedAt": "2026-09-24T16:57:55.239368+00:00",
+            "generatorReview": [
+              "Opaque RGB pixels: exact authorized Tredwen/title and pre-confrontation label; coherent mature survivor, charcoal/mustard outfit, closed old facial scar on anatomical LEFT/viewer-right in front portrait.",
+              "Scar visibly contracts cheek toward mouth, no fresh burn wound or monstrous features; ordinary short chopping knife lowered beside complete body. Selected state precedes shot arm.",
+              "Broad painted face and cloth, controlled lamp-light planes, ivory character-only layout, no gore/scene/swatches or hand study. Pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/when-the-needle-finds-you/art/characters/tredwen.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "4d87a8ac3daab7d2aa01deef79766c6b35898e510f4bb70d5216fd536464ac7b",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:57:55.434829+00:00",
+        "evidence": [
+          "Opaque RGB pixels: exact authorized Tredwen/title and pre-confrontation label; coherent mature survivor, charcoal/mustard outfit, closed old facial scar on anatomical LEFT/viewer-right in front portrait.",
+          "Scar visibly contracts cheek toward mouth, no fresh burn wound or monstrous features; ordinary short chopping knife lowered beside complete body. Selected state precedes shot arm.",
+          "Broad painted face and cloth, controlled lamp-light planes, ivory character-only layout, no gore/scene/swatches or hand study. Pins verify."
+        ],
+        "sourceSha256": "f38ad6548ced1e338f9a40a22aa752c5ec0ef6723b399a1879b837208e0dfac7",
+        "outputSha256": "4d87a8ac3daab7d2aa01deef79766c6b35898e510f4bb70d5216fd536464ac7b",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/01-the-shuttered-tire-shop.png",
+            "role": "Inspected source enclosed workshop dim practical-lamp warm planes and connected dark blue shadow; no location.",
+            "sha256": "f2f8c762f21b43c85c7495eab0301c05a47b022e86e1ae319e80e2965996f8fc",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "1fb597ed5e2e103476a2891c743f4fe9143220c8ca0c769cb296095bb4840318"
+      }
+    },
+    {
+      "id": "the-crimson-jester",
+      "name": "The Crimson Jester",
+      "role": "Pirate-radio host manipulating predicted deaths through blood and concealed truths",
+      "form": "Human adult",
+      "selectionEvidence": [
+        {
+          "quote": "His right eye was ordinary and brown",
+          "explanation": "Pirate-radio host manipulating predicted deaths through blood and concealed truths"
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Lacquer-red black-lapel coat, round smoked glasses, broad unhurried grin, pale elbow-length gloves. Right eye ordinary brown; intact left eye covered glossy black film/branching red vessels."
+      },
+      "visualInterpretation": [
+        "Preserve inspected original and cover long narrow pale face, shoulder-length black hair, broad human grin, red wide-brim hat and red/black tailoring; no original red right-eye glow.",
+        "Select intact host before violence, glasses partly lowered for one portrait. Small-film detail belongs to intact eye; no peeling/removed tissue/attack."
+      ],
+      "states": [
+        {
+          "name": "Selected intact or wrapped source state",
+          "description": " Heading \"The Crimson Jester\"; subtitle \"When the Needle Finds You\". ONE tall lanky adult male pirate-radio host about forty. Match cover and original references: narrow sharp pale face, long loose BLACK hair, wide controlled toothy HUMAN grin, RED broad-brim hat, lacquer-red long tailored coat with BLACK lapels, ivory shirt, red necktie, black trousers and black shoes. PALE ivory gloves extend almost to elbows; round SMOKED glasses. Two complete standing full-body views front and side-three-quarter, a polite sinister host stance, one holds a plain vintage handheld microphone. One large face portrait with glasses lowered enough to show both eyes: anatomical RIGHT eye is ordinary BROWN, anatomical LEFT eye covered by smooth intact BLACK membrane with a few fine red vessel lines at rim; no red eye glow, no missing eye or open wound. This is pre-violence intact state. No peeled tissue, blood, record held near face, exaggerated fangs, joker clown makeup or second identity. Source dim night studio tasklamp, small warm/red planes against connected deep umber/navy shadows. Oil paint has selective material sheen on coat but matte face; no scenery, machinery, floor or isolated hand studies."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact name in current finished prose."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"The Crimson Jester\"; subtitle \"When the Needle Finds You\". ONE tall lanky adult male pirate-radio host about forty. Match cover and original references: narrow sharp pale face, long loose BLACK hair, wide controlled toothy HUMAN grin, RED broad-brim hat, lacquer-red long tailored coat with BLACK lapels, ivory shirt, red necktie, black trousers and black shoes. PALE ivory gloves extend almost to elbows; round SMOKED glasses. Two complete standing full-body views front and side-three-quarter, a polite sinister host stance, one holds a plain vintage handheld microphone. One large face portrait with glasses lowered enough to show both eyes: anatomical RIGHT eye is ordinary BROWN, anatomical LEFT eye covered by smooth intact BLACK membrane with a few fine red vessel lines at rim; no red eye glow, no missing eye or open wound. This is pre-violence intact state. No peeled tissue, blood, record held near face, exaggerated fangs, joker clown makeup or second identity. Source dim night studio tasklamp, small warm/red planes against connected deep umber/navy shadows. Oil paint has selective material sheen on coat but matte face; no scenery, machinery, floor or isolated hand studies.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+            "role": "Inspected source dim night studio tasklamp lighting and muted red/umber accents only, omit machinery/room.",
+            "sha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/title-image.jpg",
+            "role": "Inspected current cover exact Jester dark-haired sharp-face/grin/red-hat/white-glove visual identity, source eye details prevail.",
+            "sha256": "3b52eebb13675bb878b99813f2c5d610c3ca6f6c1bbfeaf76e44de0508b04948",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-adb97217-f1ce-4bc3-9fd3-6904e4cc0b3f.png",
+            "role": "Inspected original external user visual input: Jester silhouette/costume/long hair and grin only; ignore anime linework/red eye glow, follow finished prose.",
+            "sha256": "7a853c5897f76a1c15c00d7f4738c7595d6b095dd09e98e69e9f3c058b510a34",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"The Crimson Jester\"; subtitle \"When the Needle Finds You\". ONE tall lanky adult male pirate-radio host about forty. Match cover and original references: narrow sharp pale face, long loose BLACK hair, wide controlled toothy HUMAN grin, RED broad-brim hat, lacquer-red long tailored coat with BLACK lapels, ivory shirt, red necktie, black trousers and black shoes. PALE ivory gloves extend almost to elbows; round SMOKED glasses. Two complete standing full-body views front and side-three-quarter, a polite sinister host stance, one holds a plain vintage handheld microphone. One large face portrait with glasses lowered enough to show both eyes: anatomical RIGHT eye is ordinary BROWN, anatomical LEFT eye covered by smooth intact BLACK membrane with a few fine red vessel lines at rim; no red eye glow, no missing eye or open wound. This is pre-violence intact state. No peeled tissue, blood, record held near face, exaggerated fangs, joker clown makeup or second identity. Source dim night studio tasklamp, small warm/red planes against connected deep umber/navy shadows. Oil paint has selective material sheen on coat but matte face; no scenery, machinery, floor or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+                "role": "Inspected source dim night studio tasklamp lighting and muted red/umber accents only, omit machinery/room.",
+                "sha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+                "inspected": true
+              },
+              {
+                "path": "stories/when-the-needle-finds-you/title-image.jpg",
+                "role": "Inspected current cover exact Jester dark-haired sharp-face/grin/red-hat/white-glove visual identity, source eye details prevail.",
+                "sha256": "3b52eebb13675bb878b99813f2c5d610c3ca6f6c1bbfeaf76e44de0508b04948",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-adb97217-f1ce-4bc3-9fd3-6904e4cc0b3f.png",
+                "role": "Inspected original external user visual input: Jester silhouette/costume/long hair and grin only; ignore anime linework/red eye glow, follow finished prose.",
+                "sha256": "7a853c5897f76a1c15c00d7f4738c7595d6b095dd09e98e69e9f3c058b510a34",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:57:56.551128+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-14033031-5ac5-419a-955f-a75927de0685.png",
+            "outputSha256": "dfd8f83e83954ace7144afa9a5f608ea6607d84cc679d355ceb0140339548100",
+            "returnedAt": "2026-09-24T17:00:54.838110+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels: exact The Crimson Jester/title, preserved inspected cover/original long black hair, narrow face, red hat/black-lapel coat, ivory gloves, round smoked glasses and host microphone.",
+              "Large portrait correctly shows ordinary BROWN anatomical RIGHT eye at viewer-left and intact BLACK film anatomical LEFT eye at viewer-right; no red-glowing eye, peeled tissue, injury or monstrous extra teeth.",
+              "Complete full-body views, one consistent host, oil-rendered connected red/black masses on ivory. No studio machinery, scene, isolated hand study or swatches. Four actual inspected references and source/output/specification pins verify."
+            ]
+          }
+        ]
+      },
+      "output": "stories/when-the-needle-finds-you/art/characters/the-crimson-jester.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "dfd8f83e83954ace7144afa9a5f608ea6607d84cc679d355ceb0140339548100",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T17:00:55.024235+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels: exact The Crimson Jester/title, preserved inspected cover/original long black hair, narrow face, red hat/black-lapel coat, ivory gloves, round smoked glasses and host microphone.",
+          "Large portrait correctly shows ordinary BROWN anatomical RIGHT eye at viewer-left and intact BLACK film anatomical LEFT eye at viewer-right; no red-glowing eye, peeled tissue, injury or monstrous extra teeth.",
+          "Complete full-body views, one consistent host, oil-rendered connected red/black masses on ivory. No studio machinery, scene, isolated hand study or swatches. Four actual inspected references and source/output/specification pins verify."
+        ],
+        "sourceSha256": "f38ad6548ced1e338f9a40a22aa752c5ec0ef6723b399a1879b837208e0dfac7",
+        "outputSha256": "dfd8f83e83954ace7144afa9a5f608ea6607d84cc679d355ceb0140339548100",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected oil collection: connected broad masses, directional strokes and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
+            "role": "Inspected source dim night studio tasklamp lighting and muted red/umber accents only, omit machinery/room.",
+            "sha256": "b13634be36cd2457b557b232d605ea3715d8f03c774866213cfd4c79cbfe9af2",
+            "inspected": true
+          },
+          {
+            "path": "stories/when-the-needle-finds-you/title-image.jpg",
+            "role": "Inspected current cover exact Jester dark-haired sharp-face/grin/red-hat/white-glove visual identity, source eye details prevail.",
+            "sha256": "3b52eebb13675bb878b99813f2c5d610c3ca6f6c1bbfeaf76e44de0508b04948",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-adb97217-f1ce-4bc3-9fd3-6904e4cc0b3f.png",
+            "role": "Inspected original external user visual input: Jester silhouette/costume/long hair and grin only; ignore anime linework/red eye glow, follow finished prose.",
+            "sha256": "7a853c5897f76a1c15c00d7f4738c7595d6b095dd09e98e69e9f3c058b510a34",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "2bf836ef8c875ff4188252e77b19a9cb86227683c0e7bbfa58b9ab8cf2540b10"
+      }
+    }
+  ],
+  "sourceSha256": "f38ad6548ced1e338f9a40a22aa752c5ec0ef6723b399a1879b837208e0dfac7"
+}

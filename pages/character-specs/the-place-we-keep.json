@@ -719,15 +719,10 @@
         "name": "Selvi"
       },
       "output": "stories/the-place-we-keep/art/characters/selvi.png",
-      "status": "deferred",
-      "blockers": [
-        {
-          "type": "incomplete-form-coverage",
-          "detail": "Final portrait candidate saved and pinned but full raised liquid form remains uncovered after tool rejection. User stopped all new generation; queued for any future authorization, not completed collection sheet."
-        }
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen.imagegen",
+        "tool": "image_gen__imagegen",
         "attempts": [
           {
             "attempt": 1,
@@ -873,27 +868,69 @@
               "Portrait-only coverage limitation explicitly recorded after original raised-torso tool rejection; full source form remains in spec. All no-candidate/rejected/corrected attempts preserved.",
               "Broad matte oil construction of face/neck/waterhair with selective impasto, no location/floor/swatches."
             ]
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:46:34.611072+00:00",
+            "prompt": "Create one 1536x1024 landscape reference folio, fully OPAQUE warm ivory background. Exact heading \"Selvi\" and subtitle \"The Place We Keep\". One identity: a mature adult river-water elemental woman, made entirely of CLEAR LIQUID, with the existing reference's narrow chin, adult face and flowing water-hair gathered into a loose bun. No opaque human skin or stone. Not a human body with a glass coating.\nUse a substantially abstract, NON-ANATOMICAL fluid-figure treatment for the two larger views. One front-three-quarter and one rear-three-quarter show head, shoulders, clear arms and a SMOOTH SEAMLESS unsegmented water trunk tapering down into a few broad vertical liquid ribbons. No legs or feet: she cannot leave the river. The torso is a simple neutral flowing volume, without breasts, nipples, genitalia, pelvis or internal organs. Do not add clothing or a human lower-body anatomy. This is a fluid silhouette study of an elemental, not an anatomical nude. Show coherent clear-water material with open pale ivory areas visible through her, quiet slate-blue/olive edge reflections and broad broken oil strokes. Her arms gesture gently, hands simplified as liquid ends, no detached hand studies. One smaller head-and-neck portrait preserves attentive adult expression and narrow chin. No baby or other person, no breastfeeding, no scene, floor, riverbank, pool, swatches, light-emission, glitter or photorealistic glass.\nMatch the Group of Seven broad connected oil handling and river-day palette of the second image, with selectively bristled and knife-painted edges. Use first selected portrait for same identity/bun only; use final original for clear liquid concept only, excluding its location and posture. Complete isolated liquid silhouette studies with generous ivory margins. Keep the entire file opaque despite depicting a translucent character.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
+                "role": "Inspected same-character adult face/bun identity only; broaden view without copying opaque porcelain-like filling.",
+                "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
+                "role": "Inspected clear riverday palette and broad oil paint handling only, no scene.",
+                "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
+                "role": "Required inspected original: clear-liquid nature/waterhair only, not scenery or anatomical pose.",
+                "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source read, original/cover/portrait/riverpainting inspected. Prior torso attempt rejected; this is substantially safer non-anatomical fluid silhouette with smooth unsegmented trunk, no sexual anatomy or infant interaction. Retain adult identity, liquid nature, arms and riverbound no-leg limitation without invented clothing. If unavailable, retain the existing portrait and accurately report full-form limitation.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-6e4c9357-13fc-4e52-9b3b-8bca89c2184c.png",
+            "candidateSha256": "3809fb1ad962a9694020ea2ca34c24e5995d6c05533dd194cddca3ab5a587d2a",
+            "reviewedAt": "2026-09-24T16:15:25.648320+00:00",
+            "findings": [
+              "Root inspected actual final pixels: mature narrow-chinned adult water identity and water-hair bun consistent across two overall forms and portrait; no legs or independent walking body invented.",
+              "Raised source-supported upper form and attached arms dissolve into fluid ribbons. Ivory intervals and blue-gray/olive strokes convey clear river material without invented organs or clothing.",
+              "Exact readable name/title, opaque ivory, character-only spacing and bold painted face/water. The earlier portrait-only limitation is resolved by two useful overall fluid-form views."
+            ]
           }
         ],
-        "plannedComposition": "Three liquid head/neck/shoulder views only (frontthreequarter/profile/back of head); torso excluded. Source riverbound form is described in specification; image generation limitation makes full raised body unavailable in this asset.",
+        "plannedComposition": "Two overall raised liquid-form views and one mature portrait; fluid ribbons instead of unsupported legs.",
         "preflight": "Full finished source/prompt/outline and actual cover/paintings read/inspected. Exact original recovered and inspected, source conflicts resolved. One named identity, no isolated hand studies; forms adapted without invented body mechanics.",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-688d5aa2-11c1-4409-a5a5-0c491d4cf04c.png",
-            "role": "Inspected water portrait pixels; correct transparent filecanvas to opaque ivory only",
-            "sha256": "671caffdbedcf60e82b186e2ffb1cf02ac1ef026d1e7cb196b68fbfe3de7f130",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
+            "role": "Inspected same-character adult face/bun identity only; broaden view without copying opaque porcelain-like filling.",
+            "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
             "inspected": true
           },
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-978ef6c5-8fbb-4b0f-a4d4-e1bf57f5c56e.png",
-            "role": "Original ivory canvas and readableheading layout only, not rejectedflesh material",
-            "sha256": "59f464ad7bd4d9b0a223ed2f8bb7c078b07a8b0b07d04a17bc42461cf41daae1",
+            "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
+            "role": "Inspected clear riverday palette and broad oil paint handling only, no scene.",
+            "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
+            "role": "Required inspected original: clear-liquid nature/waterhair only, not scenery or anatomical pose.",
+            "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
             "inspected": true
           }
         ],
-        "prompt": "Make ONE TECHNICAL PRESENTATION EDIT to first image Selvi three-head portrait folio. Current image wrongly has transparent PNG canvas. COMPOSITE/PRESERVE all three existing watery BLUEGRAY/OLIVE/IVORY painted adult head/neck portraits onto a fully OPAQUE, FLAT, SOLID warm IVORY BACKGROUND covering every pixel of the1536x1024 sheet. Use second image ONLY as reference for original ivorybackground/letteringlayout, NOT its peachskin. Retain first image's bluegraywater heads without peach/fleshcolor. Depicted water appearance is an ARTISTIC SUBJECT, NOT file/canvas transparency. Output entirely OPAQUE with no alpha, blackvignette, graygradient or halo. The ivoryground must be uniform like secondimage.\nRestore clearly readable DARK CHARCOAL exactheading \"Selvi\" and smaller \"The Place We Keep\", role \"River-dwelling sister\", same topcenter typography. No textblending into background. Preserve the firstimage's three adulthead/neck views, facialidentity, waterhairbun and boldoil brushplanes; keep PORTRAITS ONLY ending at tops ofshoulders, nothing below collarbone, no body/hands or newcontent. No relighting ofheads, no newscenery/floor/swatches. Allportraitedges remain intact.",
-        "selectedAttempt": 4,
-        "wrapUpDisposition": "Freeze final portrait candidate and all rejected/no-output attempts; no more generation."
+        "prompt": "Create one 1536x1024 landscape reference folio, fully OPAQUE warm ivory background. Exact heading \"Selvi\" and subtitle \"The Place We Keep\". One identity: a mature adult river-water elemental woman, made entirely of CLEAR LIQUID, with the existing reference's narrow chin, adult face and flowing water-hair gathered into a loose bun. No opaque human skin or stone. Not a human body with a glass coating.\nUse a substantially abstract, NON-ANATOMICAL fluid-figure treatment for the two larger views. One front-three-quarter and one rear-three-quarter show head, shoulders, clear arms and a SMOOTH SEAMLESS unsegmented water trunk tapering down into a few broad vertical liquid ribbons. No legs or feet: she cannot leave the river. The torso is a simple neutral flowing volume, without breasts, nipples, genitalia, pelvis or internal organs. Do not add clothing or a human lower-body anatomy. This is a fluid silhouette study of an elemental, not an anatomical nude. Show coherent clear-water material with open pale ivory areas visible through her, quiet slate-blue/olive edge reflections and broad broken oil strokes. Her arms gesture gently, hands simplified as liquid ends, no detached hand studies. One smaller head-and-neck portrait preserves attentive adult expression and narrow chin. No baby or other person, no breastfeeding, no scene, floor, riverbank, pool, swatches, light-emission, glitter or photorealistic glass.\nMatch the Group of Seven broad connected oil handling and river-day palette of the second image, with selectively bristled and knife-painted edges. Use first selected portrait for same identity/bun only; use final original for clear liquid concept only, excluding its location and posture. Complete isolated liquid silhouette studies with generous ivory margins. Keep the entire file opaque despite depicting a translucent character.",
+        "selectedAttempt": 5,
+        "backendModel": "Not reported by built-in tool"
       },
       "presentation": {
         "format": "1536x1024 landscape 3:2",
@@ -905,37 +942,41 @@
         "isolatedHandStudies": false
       },
       "lighting": "Pre-totality riversun: mutedolive/blue reflections with paleplanes, transparency and softdarkedges, no lightemission.",
-      "coverageLimitation": "Portrait-only sheet. Full raised body is not covered after image output moderation rejected the source-adapted composition. No invented anatomy or garment supplied.",
-      "outputSha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
+      "outputSha256": "3809fb1ad962a9694020ea2ca34c24e5995d6c05533dd194cddca3ab5a587d2a",
       "validation": {
-        "status": "DEFERRED",
-        "reviewedAt": "2026-09-24T13:02:21.398623+00:00",
-        "reviewer": "cast_continue_4",
-        "outputSha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:15:25.653580+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual final pixels: mature narrow-chinned adult water identity and water-hair bun consistent across two overall forms and portrait; no legs or independent walking body invented.",
+          "Raised source-supported upper form and attached arms dissolve into fluid ribbons. Ivory intervals and blue-gray/olive strokes convey clear river material without invented organs or clothing.",
+          "Exact readable name/title, opaque ivory, character-only spacing and bold painted face/water. The earlier portrait-only limitation is resolved by two useful overall fluid-form views."
+        ],
         "sourceSha256": "e6eeb0b46bb145e22dcb9ace6558813fe3005d988cfb8b5e58bdea7ad8d4df54",
+        "outputSha256": "3809fb1ad962a9694020ea2ca34c24e5995d6c05533dd194cddca3ab5a587d2a",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-688d5aa2-11c1-4409-a5a5-0c491d4cf04c.png",
-            "role": "Inspected water portrait pixels; correct transparent filecanvas to opaque ivory only",
-            "sha256": "671caffdbedcf60e82b186e2ffb1cf02ac1ef026d1e7cb196b68fbfe3de7f130",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
+            "role": "Inspected same-character adult face/bun identity only; broaden view without copying opaque porcelain-like filling.",
+            "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
             "inspected": true
           },
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-978ef6c5-8fbb-4b0f-a4d4-e1bf57f5c56e.png",
-            "role": "Original ivory canvas and readableheading layout only, not rejectedflesh material",
-            "sha256": "59f464ad7bd4d9b0a223ed2f8bb7c078b07a8b0b07d04a17bc42461cf41daae1",
+            "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
+            "role": "Inspected clear riverday palette and broad oil paint handling only, no scene.",
+            "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
+            "role": "Required inspected original: clear-liquid nature/waterhair only, not scenery or anatomical pose.",
+            "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
             "inspected": true
           }
         ],
-        "evidence": [
-          "Actual saved final portraits retain adult narrowchin and waterhair-bun identity in frontthreequarter/profile/rear, modeled entirely through bluegray/olive/ivory water-like reflected paint rather than human flesh.",
-          "Presentation correction produces solid ivory with readable dark exact name/title/source role. Three conservative head/neck views only; no torso/hands/legs, invented garment or new bodily mechanisms.",
-          "Portrait-only coverage limitation explicitly recorded after original raised-torso tool rejection; full source form remains in spec. All no-candidate/rejected/corrected attempts preserved.",
-          "Broad matte oil construction of face/neck/waterhair with selective impasto, no location/floor/swatches.",
-          "Wrap-up: portrait-only asset not counted as completed full character sheet; generation stopped on user instruction."
-        ],
-        "specificationSha256": "5242d003b66d7482da71627eee80cadc9b67fe96071c3840ac5b1bb86a65b572"
-      }
+        "specificationSha256": "28033d9fd2a5527ad2530217eba55232727e8d58d48dc769c0b50deea87286af"
+      },
+      "coverageLimitation": "Source-supported raised river-bound form only; no hidden legs or anatomy below the water is asserted."
     },
     {
       "id": "ibby",
@@ -1002,15 +1043,10 @@
         "name": "Ibby"
       },
       "output": "stories/the-place-we-keep/art/characters/ibby.png",
-      "status": "deferred",
-      "blockers": [
-        {
-          "type": "user-wrap-up",
-          "detail": "Prepared portrait prompt only; no imagegen call made and no image candidate exists. User stopped generation."
-        }
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen.imagegen",
+        "tool": "image_gen__imagegen",
         "attempts": [
           {
             "attempt": 1,
@@ -1041,31 +1077,69 @@
               }
             ],
             "notes": "User wrap-up arrived before any imagegen invocation. No candidate produced."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:46:34.620771+00:00",
+            "prompt": "Create one 1536x1024 landscape fantasy character reference folio on fully OPAQUE warm ivory paper. Exact heading \"Ibby\" and subtitle \"The Place We Keep\". ONE innocent infant river-water elemental, four months old, entirely clear living water. The picture is a wholesome non-anatomical fantasy design, focusing on her small round head, narrow family chin, plump infant cheeks, short neck and small clear arms. No human skin or organs. Nothing sexualized, no adult figure or interaction.\nLayout: two upper-form studies, frontal and profile, plus one larger head portrait. Each upper-form study shows face and soft short arms, then fades out as clean brushwork just below the shoulders/arm roots; do NOT invent a full baby body or lower limbs that the source never defines. The two small attached hands have soft yielding liquid tips; no isolated hand study. All face proportions clearly four-month infant (large cranium, small face, round cheeks), no adult woman's hairbun or older child's long hair. Fine tiny liquid wisps only. Front expression absorbed curious attention, profile a mild puzzled infant frown, portrait a quiet almost-smile. Transparent clear-water material with warm ivory visible through quieter central masses, slate-blue/olive reflected edges in broad connected matte oil strokes. No flesh color, cloth, swaddle, diaper, invented skeleton/heart, genitals, breast, source breastfeeding scene, glitter/glow, photoreal glass or CGI.\nUse first adult portrait only for narrow family chin, clearwater palette and oil approach; do not copy adult head or bun. Second reference supplies Group of Seven river-day colors/paint. Third original supplies clear-liquid concept only, none of its adult anatomy, night scene or architecture. Entire background warm ivory and fully opaque, no scenery, props, swatches, palette strips or shadows suggesting a room. Clearly a source-limited UPPER-FORM reference folio, all edges within margins.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
+                "role": "Inspected family narrow chin/clearwater rendering palette only; never adult proportions or bun.",
+                "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
+                "role": "Inspected riverday Group of Seven oil paint/color only.",
+                "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
+                "role": "Inspected original clearwater material concept only; no adult form or landscape.",
+                "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source read. Four-month liquid child, narrow chin, short arms/yielding fingers supported; lower structure unspecified. Conservative head-and-upperform treatment avoids inventing anatomy/clothing and is nonsexual. Prior Ibby prompt was queued only, no call; this produces useful source-supported views while reporting unillustrated whole-body limitation honestly.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-0a7d9fbb-da42-49a5-82cf-3a24f1257a31.png",
+            "candidateSha256": "1c6e537896aa4c5ac7a98847b69faab5e48b821b5b0d16f4a991aaa341556dda",
+            "reviewedAt": "2026-09-24T16:15:25.671205+00:00",
+            "findings": [
+              "Root inspected actual final pixels: one clearly infant river-water identity, rounded cranium, small chin, liquid wisps, front/profile upper forms and larger portrait; independently alive, no parent merged with child.",
+              "Small attached arms and yielding finger ends depict supported source features. Lower-body structure is not established in the source and is deliberately left unpictured; completion covers the source-supported upper form, not a claimed full-body turnaround.",
+              "Exact name/title, clean opaque ivory and consistent broad oil water palette without flesh, clothing, organs, scenery, palette strips or isolated hand studies."
+            ]
           }
         ],
-        "plannedComposition": "Three conservative four-month liquid infant head/neck/shoulder portraits; independent identity, source narrowchin, no limbs/anatomy detail studies.",
+        "plannedComposition": "Front/profile source-supported infant head-and-upper-form views with attached yielding arms, plus larger portrait.",
         "preflight": "Full finished source/prompt/outline and actual cover/paintings read/inspected. Exact original recovered and inspected, source conflicts resolved. One named identity, no isolated hand studies; forms adapted without invented body mechanics.",
         "references": [
           {
             "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
-            "role": "Accepted same-family water rendering/color only; not adult anatomy or waterbun",
+            "role": "Inspected family narrow chin/clearwater rendering palette only; never adult proportions or bun.",
             "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
             "inspected": true
           },
           {
             "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
-            "role": "Primary Group of Seven riverday oil palette/brushwork",
+            "role": "Inspected riverday Group of Seven oil paint/color only.",
             "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
             "inspected": true
           },
           {
             "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
-            "role": "Required original watermaterial only, no adult form/scene",
+            "role": "Inspected original clearwater material concept only; no adult form or landscape.",
             "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
             "inspected": true
           }
         ],
-        "prompt": "Create a 1536x1024 landscape conservative CHARACTER PORTRAIT FOLIO on completely OPAQUE SOLID warmIVORY canvas, no alpha/no transparentfile. Large exactname \"Ibby\", smaller \"The Place We Keep\", small sourceage \"Four months\". THREE distinct useful HEAD/NECK/SHOULDER-TOP portraits of ONE FOUR-MONTH-OLD BABY, a clear living RIVER-WATER infant, independentlyalive sincebirth. Each portrait ends at collarbone/verytopofshoulders; NO torso, no arms/hands, no lowerbody, no garments or swaddleinvented, no parent/otherperson. This is gentle familyfantasy, ordinary infancy.\nHumanlike infantface proportions: LARGE ROUND infanthead, roundedcheeks, very smallnose, familyNARROW CHIN, tinyears, shortneck, ordinarygray wateryeyes. NO adultface, adultwoman hairstyle, formedhairbun, jewelry, scars or makeup. Topofhead a smooth smallfluidcurve, no elaboratehair. THREE samebabyviews with consistentheadshape: left frontthreequarter CURIOUS absorbedsuspicion, center sideprofile restingquietly, right mostlyfront CALLING expression mouthslightlyopen/browfrown. No teeth (fourmonths), no exposedinteriororgans/heart/machine diagram, no \"ghost child\".\nMaterial: Selvi firstref supplies ONLY WATER color/paint, not adultheadshape/bun. Infant cheeks/lips/ears/neck allCLEAR RIVER WATER suggested with broad paleIVORY transmittingareas and muted BLUEGRAY/OLIVE reflectedoilplanes; ABSOLUTELY NO peach/pink/tan humanflesh, no lipstick and no whitegray humanhair. This is PAINTED waterappearance, not requirement for transparentPNG. Keep sheet itself fullyopaqueivory. Do not create glassfacets/ice/chrome/CGI, electricglow or sparkles. Low broad waterreflections communicate material, not thinbusytechnicalmesh.\nSecondpainting is PRIMARY GroupofSeven broadconnected matteoilform and riverday color: bold varieddirectional brushmasses with selective raisedpaint, quieterconnectingpassages; paintbabyfaces as strongly aswaterhair/headshape, no smooth photographbeneathtexture. Pre-totality riverdaylight, subduedgrayoliveblue reflectedshadow and paleplanes, no goldenhalo. No sourcebackground river/scenery, floorpatch, swatches or palettes. Originalthirdref watermaterial only; exclude adultfigure and landscape."
+        "prompt": "Create one 1536x1024 landscape fantasy character reference folio on fully OPAQUE warm ivory paper. Exact heading \"Ibby\" and subtitle \"The Place We Keep\". ONE innocent infant river-water elemental, four months old, entirely clear living water. The picture is a wholesome non-anatomical fantasy design, focusing on her small round head, narrow family chin, plump infant cheeks, short neck and small clear arms. No human skin or organs. Nothing sexualized, no adult figure or interaction.\nLayout: two upper-form studies, frontal and profile, plus one larger head portrait. Each upper-form study shows face and soft short arms, then fades out as clean brushwork just below the shoulders/arm roots; do NOT invent a full baby body or lower limbs that the source never defines. The two small attached hands have soft yielding liquid tips; no isolated hand study. All face proportions clearly four-month infant (large cranium, small face, round cheeks), no adult woman's hairbun or older child's long hair. Fine tiny liquid wisps only. Front expression absorbed curious attention, profile a mild puzzled infant frown, portrait a quiet almost-smile. Transparent clear-water material with warm ivory visible through quieter central masses, slate-blue/olive reflected edges in broad connected matte oil strokes. No flesh color, cloth, swaddle, diaper, invented skeleton/heart, genitals, breast, source breastfeeding scene, glitter/glow, photoreal glass or CGI.\nUse first adult portrait only for narrow family chin, clearwater palette and oil approach; do not copy adult head or bun. Second reference supplies Group of Seven river-day colors/paint. Third original supplies clear-liquid concept only, none of its adult anatomy, night scene or architecture. Entire background warm ivory and fully opaque, no scenery, props, swatches, palette strips or shadows suggesting a room. Clearly a source-limited UPPER-FORM reference folio, all edges within margins.",
+        "backendModel": "Not reported by built-in tool",
+        "selectedAttempt": 2
       },
       "presentation": {
         "format": "1536x1024 landscape 3:2",
@@ -1077,7 +1151,41 @@
         "isolatedHandStudies": false
       },
       "lighting": "Pre-totality shallowriver sun and subduedgrayoliveblue reflections, no glitter/self-glow.",
-      "coverageLimitation": "Portrait-only interpretation chosen to preserve source clear infant identity and avoid inventing unsupported lower-body mechanics. Whole yielding liquid body remains specified in prose evidence."
+      "outputSha256": "1c6e537896aa4c5ac7a98847b69faab5e48b821b5b0d16f4a991aaa341556dda",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:15:25.676019+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual final pixels: one clearly infant river-water identity, rounded cranium, small chin, liquid wisps, front/profile upper forms and larger portrait; independently alive, no parent merged with child.",
+          "Small attached arms and yielding finger ends depict supported source features. Lower-body structure is not established in the source and is deliberately left unpictured; completion covers the source-supported upper form, not a claimed full-body turnaround.",
+          "Exact name/title, clean opaque ivory and consistent broad oil water palette without flesh, clothing, organs, scenery, palette strips or isolated hand studies."
+        ],
+        "sourceSha256": "e6eeb0b46bb145e22dcb9ace6558813fe3005d988cfb8b5e58bdea7ad8d4df54",
+        "outputSha256": "1c6e537896aa4c5ac7a98847b69faab5e48b821b5b0d16f4a991aaa341556dda",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c3775066-2d7f-4e7c-b466-de2ef90467a9.png",
+            "role": "Inspected family narrow chin/clearwater rendering palette only; never adult proportions or bun.",
+            "sha256": "9eed44b613a042b02e6c503ae5d8106c6ff2e4cbcc7b0a3bcc0515884803b082",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-place-we-keep/art/landscapes/02-shallows-below-the-bank.png",
+            "role": "Inspected riverday Group of Seven oil paint/color only.",
+            "sha256": "42c34d634736317d749f87ad3e92039cef36fc51190514827276dc846a681ae9",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-77ce86f3-b0a0-4b9e-80d3-73fee779cc4f.png",
+            "role": "Inspected original clearwater material concept only; no adult form or landscape.",
+            "sha256": "9c2335cc9dbefec96f1f650a8112ba43827e5b227d0d556b60f6efc791bd88df",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "f41a091ccb0e2416474065486bf33e83cb54019a3d6ea29ac5b0c22834c47425"
+      },
+      "coverageLimitation": "Source-limited upper-form sheet: lower-body anatomy is unspecified and deliberately unpictured. This is not a full-body turnaround."
     }
   ],
   "sourceSha256": "e6eeb0b46bb145e22dcb9ace6558813fe3005d988cfb8b5e58bdea7ad8d4df54"

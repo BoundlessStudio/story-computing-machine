@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-wolf-in-the-mirror",
+  "title": "The Wolf in the Mirror",
+  "source": "stories/the-wolf-in-the-mirror/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source/prompt read. Only two sustained characters: unnamed narrator and their unnamed cursed partner. Wolf is same person, not another being; mirror reflection is not separate cast. Art-only names checked against current specs/universe/frozen memory.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Specialist, narrator's sister and passing driver",
+      "reason": "Offstage mention only; no sustained present identity."
+    }
+  ],
+  "characters": [
+    {
+      "id": "esmaret",
+      "name": "Esmaret",
+      "role": "Narrator's cursed partner, the same person in human and wolf form",
+      "form": "Adult human and large quadrupedal wolf",
+      "selectionEvidence": [
+        {
+          "quote": "Because I am myself the whole time.",
+          "explanation": "One continuous identity."
+        },
+        {
+          "quote": "their winter-dark coat rose high over the shoulders",
+          "explanation": "Large four-footed wolf shape."
+        },
+        {
+          "quote": "They wore the robe",
+          "explanation": "Post-change dawn coverage."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Human adult partner, they/them; human appearance unspecified. Wolf: four legs, winter-dark coat, raised shoulders, one pale eye mentioned, long tail; enormous compared with ordinary domestic dog. No humanoid wolf stance.",
+        "clothing": "Human dawn recovery robe, fully closed; bare feet. Wolf wears no clothes or collar.",
+        "equipment": "None on body."
+      },
+      "visualInterpretation": [
+        "Esmaret assigned art-only name to same partner in both forms; no inferred gender.",
+        "Human: androgynous adult around thirty-five, light olive skin, long rectangular face, wide nose, dark amber eyes, straight shoulder-length black hair pulled back loosely, average sturdy build; charcoal robe tied shut.",
+        "Wolf: charcoal-black thick coat with muted gray muzzle/chest and pale amber eyes from inspected cover, long powerful natural canine anatomy. Not injured, chained or collared."
+      ],
+      "states": [
+        {
+          "name": "Human / dawn",
+          "description": "Fully robed after safe return; gray morning light."
+        },
+        {
+          "name": "Wolf / night",
+          "description": "Night before dawn, large dark quadruped under controlled artificial light; no transformation depicted."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Unnamed cursed partner",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No source personal name. Esmaret searched against specs/universe/frozen name memory without match."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Esmaret\"; subtitle \"The Wolf in the Mirror\". Exactly ONE identity in TWO clearly labeled forms. LEFT a complete unclipped adult HUMAN standing barefoot in a fully closed charcoal bathrobe tied at waist, neutral adult body, androgynous thirty-five-year-old light olive skin, long rectangular face, wide nose, dark amber eyes, shoulder-length black hair loosely pulled back. No nudity. Label \"Human / dawn\". Large RIGHT full side-three-quarter QUADRUPEDAL WOLF with four proper legs and one long tail all visible; thick winter-dark charcoal-black coat, raised strong shoulders, gray touches muzzle/chest, pale amber NON-GLOWING eyes. A large natural wolf, not bipedal monster, not husky, no collar. Label \"Wolf / night\". One smaller wolf HEAD portrait and one smaller robed human HEAD portrait demonstrate identity/states. Wolf rendering may follow cover fur palette but not its mirror/floor/scene. Human gray dawn lighting; wolf subdued studio artificial light with soft warm overhead and a restrained cool blue side accent, keep dark fur shadows dark. Shared broad matte opaque Group of Seven oil across fur and flesh. No actual mirror, no basin, no bench, no moon/night scene, no isolated hands or paws. Absolute opaque ivory empty support behind every isolated form.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary broad oil collection rendering only; not time or scenery.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+            "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+            "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+            "role": "Human state's gray dawn lighting only; no interior.",
+            "sha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/title-image.jpg",
+            "role": "Wolf dark fur and pale warm eye interpretation; exclude reflection, scene and cover rendering.",
+            "sha256": "29f88d77fd251b1c242146db4c2242d17e784275c14fe851d6503e7d7533b7c5",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Esmaret\"; subtitle \"The Wolf in the Mirror\". Exactly ONE identity in TWO clearly labeled forms. LEFT a complete unclipped adult HUMAN standing barefoot in a fully closed charcoal bathrobe tied at waist, neutral adult body, androgynous thirty-five-year-old light olive skin, long rectangular face, wide nose, dark amber eyes, shoulder-length black hair loosely pulled back. No nudity. Label \"Human / dawn\". Large RIGHT full side-three-quarter QUADRUPEDAL WOLF with four proper legs and one long tail all visible; thick winter-dark charcoal-black coat, raised strong shoulders, gray touches muzzle/chest, pale amber NON-GLOWING eyes. A large natural wolf, not bipedal monster, not husky, no collar. Label \"Wolf / night\". One smaller wolf HEAD portrait and one smaller robed human HEAD portrait demonstrate identity/states. Wolf rendering may follow cover fur palette but not its mirror/floor/scene. Human gray dawn lighting; wolf subdued studio artificial light with soft warm overhead and a restrained cool blue side accent, keep dark fur shadows dark. Shared broad matte opaque Group of Seven oil across fur and flesh. No actual mirror, no basin, no bench, no moon/night scene, no isolated hands or paws. Absolute opaque ivory empty support behind every isolated form.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary broad oil collection rendering only; not time or scenery.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+                "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+                "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+                "role": "Human state's gray dawn lighting only; no interior.",
+                "sha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-wolf-in-the-mirror/title-image.jpg",
+                "role": "Wolf dark fur and pale warm eye interpretation; exclude reflection, scene and cover rendering.",
+                "sha256": "29f88d77fd251b1c242146db4c2242d17e784275c14fe851d6503e7d7533b7c5",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:35:42.034585+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-77ff8383-ad5b-4ad4-b67c-87050958454a.png",
+            "outputSha256": "c93e177cc101c45692c2c2667e60b471a5cfce18e33caabaf5b3b2ee0b160b05",
+            "returnedAt": "2026-09-24T15:38:30.487072+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels inspected: exact Esmaret/title and Human / dawn, Wolf / night labels establish one identity in source forms, no separate mirror-wolf being.",
+              "Human fully robed, four-legged long-tailed dark wolf with pale non-glowing eyes, consistent human face/wolf head across portraits; complete bodies unclipped.",
+              "Broad directional opaque oil, dark connected fur shadow and restrained lamp/dawn modelling; ivory support, no room, reflection, collar, swatch, isolated hand/paw or graphic transformation. Pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-wolf-in-the-mirror/art/characters/esmaret.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "c93e177cc101c45692c2c2667e60b471a5cfce18e33caabaf5b3b2ee0b160b05",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:38:30.666816+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels inspected: exact Esmaret/title and Human / dawn, Wolf / night labels establish one identity in source forms, no separate mirror-wolf being.",
+          "Human fully robed, four-legged long-tailed dark wolf with pale non-glowing eyes, consistent human face/wolf head across portraits; complete bodies unclipped.",
+          "Broad directional opaque oil, dark connected fur shadow and restrained lamp/dawn modelling; ivory support, no room, reflection, collar, swatch, isolated hand/paw or graphic transformation. Pins verified."
+        ],
+        "sourceSha256": "21e4e4cbaf26a73447806df64df680af447a15cd2a6c5a5479910ccc09435b59",
+        "outputSha256": "c93e177cc101c45692c2c2667e60b471a5cfce18e33caabaf5b3b2ee0b160b05",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary broad oil collection rendering only; not time or scenery.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+            "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+            "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
+            "role": "Human state's gray dawn lighting only; no interior.",
+            "sha256": "72c2d26a162613c259a4912d59d3c6076817e3fc5879ab68c160fe213afa9c9a",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/title-image.jpg",
+            "role": "Wolf dark fur and pale warm eye interpretation; exclude reflection, scene and cover rendering.",
+            "sha256": "29f88d77fd251b1c242146db4c2242d17e784275c14fe851d6503e7d7533b7c5",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "b1b737e1eff84464017d2c86613df421d9fc5941b0895f8de8ba9de762af082b"
+      }
+    },
+    {
+      "id": "talbrin",
+      "name": "Talbrin",
+      "role": "Human narrator and watchful partner responsible for agreed response procedure",
+      "form": "Adult human, gender unstated",
+      "selectionEvidence": [
+        {
+          "quote": "I erased the basin from the floor plan on my clipboard",
+          "explanation": "Clipboard/procedural watch role."
+        },
+        {
+          "quote": "I remained in the vestibule.",
+          "explanation": "Stayed present without breaching agreed distance."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult narrator, human, gender and features unspecified; exhausted but attentive overnight.",
+        "clothing": "Ordinary indoor clothing; source shoes.",
+        "equipment": "Clipboard, pencil, water bottle; signal gestures are attached-body actions."
+      },
+      "visualInterpretation": [
+        "Talbrin art-only name. Androgynous adult around thirty-five, medium-brown skin, round broad face, thick brows, dark eyes behind thin plain rectangular glasses, short dark wavy top/close sides, compact sturdy build.",
+        "Muted burgundy cardigan over beige shirt, charcoal trousers, plain indoor shoes. No medical uniform, magic or heroic costume."
+      ],
+      "states": [
+        {
+          "name": "Night watch",
+          "description": "Standing with clipboard and attentive raised open-palm space sign as part of full figure; tired portrait."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Unnamed narrator",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in source/prompt. Talbrin searched against specs/universe/frozen memory without match."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Talbrin\"; subtitle \"The Wolf in the Mirror\". Human partner/narrator only. Androgynous adult around thirty-five, medium-brown skin, round broad face, thick brows, dark eyes behind thin simple rectangular eyeglasses, short dark wavy top and close-cropped sides, compact sturdy body. Muted burgundy cardigan over beige shirt, charcoal trousers and plain indoor shoes. Two full-body views: front-three-quarter holding clipboard at waist with ONE hand while other palm raised at shoulder height, and rear-three-quarter with clipboard lowered. One tired attentive head-and-shoulders portrait. Hand signal remains within whole-body study, no isolated hand or torso crop. Night watch lighting motivated by studio warm practical lamps with subdued blue cue spill; muted lit planes, genuinely dark umber/violet shadows, no daylight or rimlight. Do not draw wolf, scene, gate, control panel, floor, charts, swatches or magic. Preserve complete anatomy and one identity; actual paints primary.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary broad oil collection rendering only; not time or scenery.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+            "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+            "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Talbrin\"; subtitle \"The Wolf in the Mirror\". Human partner/narrator only. Androgynous adult around thirty-five, medium-brown skin, round broad face, thick brows, dark eyes behind thin simple rectangular eyeglasses, short dark wavy top and close-cropped sides, compact sturdy body. Muted burgundy cardigan over beige shirt, charcoal trousers and plain indoor shoes. Two full-body views: front-three-quarter holding clipboard at waist with ONE hand while other palm raised at shoulder height, and rear-three-quarter with clipboard lowered. One tired attentive head-and-shoulders portrait. Hand signal remains within whole-body study, no isolated hand or torso crop. Night watch lighting motivated by studio warm practical lamps with subdued blue cue spill; muted lit planes, genuinely dark umber/violet shadows, no daylight or rimlight. Do not draw wolf, scene, gate, control panel, floor, charts, swatches or magic. Preserve complete anatomy and one identity; actual paints primary.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary broad oil collection rendering only; not time or scenery.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+                "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+                "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T15:38:31.750619+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-ebe8ac52-86b3-4b19-ad7a-9a35b455298e.png",
+            "outputSha256": "69f39c9ea687fc7ab22966a802f18540e14d18122deddf209c563a60e0cdcb92",
+            "returnedAt": "2026-09-24T15:41:21.388627+00:00",
+            "generatorReview": [
+              "Actual opaque RGB output inspected: exact Talbrin/title; adult face, glasses, compact build and hairstyle consistent across front/rear and two expressive portraits.",
+              "Clipboard and attached-body shoulder-height open-palm space sign express narrator's source role; no invented uniform/powers or extra partner.",
+              "Warm practical light with connected deep charcoal/umber shadow and subdued cool edge influence, opaque oil handling on face/clothes, ivory isolation. No setting/hand-study/swatches; pins checked."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-wolf-in-the-mirror/art/characters/talbrin.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "69f39c9ea687fc7ab22966a802f18540e14d18122deddf209c563a60e0cdcb92",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:41:21.562142+00:00",
+        "evidence": [
+          "Actual opaque RGB output inspected: exact Talbrin/title; adult face, glasses, compact build and hairstyle consistent across front/rear and two expressive portraits.",
+          "Clipboard and attached-body shoulder-height open-palm space sign express narrator's source role; no invented uniform/powers or extra partner.",
+          "Warm practical light with connected deep charcoal/umber shadow and subdued cool edge influence, opaque oil handling on face/clothes, ivory isolation. No setting/hand-study/swatches; pins checked."
+        ],
+        "sourceSha256": "21e4e4cbaf26a73447806df64df680af447a15cd2a6c5a5479910ccc09435b59",
+        "outputSha256": "69f39c9ea687fc7ab22966a802f18540e14d18122deddf209c563a60e0cdcb92",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary broad oil collection rendering only; not time or scenery.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
+            "role": "Source studio's controlled night lamp lighting and connected deep shadow; omit environment.",
+            "sha256": "04b3a1ad986fc0ae3efd04c7863540fffbecee27b7cbda2e3d8a64adba3b6971",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "50b75946faefcf3399c6aae4a92fa90fa47bdae4fc645accc1958feb2d5aa52e"
+      }
+    }
+  ],
+  "sourceSha256": "21e4e4cbaf26a73447806df64df680af447a15cd2a6c5a5479910ccc09435b59"
+}

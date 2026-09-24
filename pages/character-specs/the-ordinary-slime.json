@@ -708,7 +708,8 @@
       ],
       "visualInterpretation": [
         "Art-only colony label Merevetch covers the depicted wall-group and sample constituent, rather than inventing separate named organisms.",
-        "Matte low amorphous lobes with small simple feeding pore at one end, no eyes/faces/limbs; cold-blue surface coloration does not emit light. Thin wet mica film may be attached beneath group as required biological medium, not a location/floor scene."
+        "Matte low amorphous lobes with small simple feeding pore at one end, no eyes/faces/limbs; cold-blue surface coloration does not emit light. Thin wet mica film may be attached beneath group as required biological medium, not a location/floor scene.",
+        "User-directed 2026-09-24 redesign: clean rounded anime/game slime silhouettes, fresh jade/teal art palette, sparse unobtrusive grit; art-only simplification, source unchanged."
       ],
       "states": [
         {
@@ -742,24 +743,18 @@
         }
       ],
       "output": "stories/the-ordinary-slime/art/characters/merevetch.png",
-      "status": "deferred",
+      "status": "completed",
       "blockers": [],
       "generation": {
         "tool": "image_gen__imagegen",
         "backendModel": "Not reported by built-in tool",
-        "prompt": "Create ONE landscape1536x1024 biological CHARACTER REFERENCE SHEET. Exact heading Merevetch, smaller role Drain-slime colony, exact title The Ordinary Slime. This name is catalogue identification, NEVER a sentient personality. Warm LIGHT IVORY throughout, no scenes/floors/walls/hands/people/palette swatches. Heavy MATTE Group of Seven SCULPTED OILS from ref1: broad connected opaque brush/knife masses, selectively raised material paint, no glossy CGI jelly. Ref2 source-cover only green-brown blob geometry; PROSE OVERRIDES its shine/electric blue. Main large overhead view: several dozen separate low palm-size amorphous slimes TOUCH edge to edge as irregular branching biological group, green-brown dull bodies with grit; some OPAQUE/cloudy, some CLEAR with suspended grit, thin COLD-BLUE surface-color boundary through a subset, NEVER blue light/lightning. Under their touching edges only a very thin pale mica WET FILM binding the group, no tray/table/stone/floor. Label Connected wet film. Separate useful smaller three-quarter and profile views of ONE sampled constituent, olive-green-brown low rounded spreading body, ONE tiny simple feeding mouth at one end, no eyes/faces/teeth/limbs/second internal sac. Labels Isolated and Feeding; tiny pale oat-paste smear at feeding mouth only. Anatomy closeup Grit in slow currents is texture/material study of same blob, not new organ. Short label Palm-spreading constituent for source scale, no human comparison figure. NO emotions, zodiac/glyph, glow, speech, crown, magic, fixed twelve-count rule or directional arrow. Distinguish matte biological transparency by layered quiet grey-brown paint, not sparkly shiny glass. Dim cool storm light with restricted amber shaded-lamp planes; no bright candy jelly.",
+        "prompt": "Create a beautiful 1536x1024 landscape character design folio with a fully OPAQUE warm ivory background. Heading exact \"Merevetch\" and subtitle exact \"The Ordinary Slime\". The creature design must immediately read as the classic appealing SLIME MONSTER from fantasy ANIME and VIDEO GAMES: simple smooth plump jellybean/hemisphere body, raised soft round dome with one very gentle teardrop crest, clean flowing silhouette, small scalloped lower edge. A delightful round little gel creature that looks soft and cohesive. Fresh jade green and cool teal-green gel color, soft luminous-looking internal color depth but NO emitted light. Broad diffuse lighter planes instead of wet gleaming highlights. No face/personhood: no eyes, nose, ears, eyebrows, limbs or humanoid organs. If mouth visible, one tiny understated curved slit at base; NOT a tube or sucking proboscis.\nLayout: one large three-quarter creature at left as hero view; a smaller true side view below the heading; a small well-spaced cluster of SIX rounded touching gel bodies at right, representative of a larger colony. Some are cloudy jade, some softly translucent pale celadon, one or two shift to muted cool blue. Each retains the same clean rounded game-slime silhouette. Only a few microscopic suspended dots, barely visible. No feeding closeup, tissue cross-section, internal stones, prominent grit or drool. No flattened mucus/snot shapes, mud, dirt, brown sludge, stringy strands or sickly yellow. No floor patch, scene, swatches, palette strip, arrows or biology diagram. Airy usable character folio.\nRENDERING: Preserve this gallery's Canadian Group of Seven-inspired broad connected oil masses and intentional painterly edges, taking brush handling only from attached painting. Simplified appealing game creature silhouette is the key user direction; the painting is not a subject reference. Restrained impasto and soft clean curves on the slime; warm ivory paper behind all views. Do not draw an orchard or any scenery. Clear pleasant design, no gross-out effects.",
         "references": [
           {
-            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
-            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
-            "inspected": true,
-            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
-          },
-          {
-            "path": "stories/the-ordinary-slime/title-image.jpg",
-            "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
-            "inspected": true,
-            "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Inspected oil paint handling only; user requests clean anime/game slime silhouette and jade/teal art interpretation, no landscape.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -788,10 +783,112 @@
             "findings": [
               "User stopped generation for gallery/PR wrap-up. Submitted image call was interrupted with no returned output or resumable handle; retain exact attempt/prompt/references. No retry."
             ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T14:59:51.267459+00:00",
+            "prompt": "Create ONE landscape1536x1024 biological CHARACTER REFERENCE SHEET. Exact heading Merevetch, smaller role Drain-slime colony, exact title The Ordinary Slime. This name is catalogue identification, NEVER a sentient personality. Warm LIGHT IVORY throughout, no scenes/floors/walls/hands/people/palette swatches. Heavy MATTE Group of Seven SCULPTED OILS from ref1: broad connected opaque brush/knife masses, selectively raised material paint, no glossy CGI jelly. Ref2 source-cover only green-brown blob geometry; PROSE OVERRIDES its shine/electric blue. Main large overhead view: several dozen separate low palm-size amorphous slimes TOUCH edge to edge as irregular branching biological group, green-brown dull bodies with grit; some OPAQUE/cloudy, some CLEAR with suspended grit, thin COLD-BLUE surface-color boundary through a subset, NEVER blue light/lightning. Under their touching edges only a very thin pale mica WET FILM binding the group, no tray/table/stone/floor. Label Connected wet film. Separate useful smaller three-quarter and profile views of ONE sampled constituent, olive-green-brown low rounded spreading body, ONE tiny simple feeding mouth at one end, no eyes/faces/teeth/limbs/second internal sac. Labels Isolated and Feeding; tiny pale oat-paste smear at feeding mouth only. Anatomy closeup Grit in slow currents is texture/material study of same blob, not new organ. Short label Palm-spreading constituent for source scale, no human comparison figure. NO emotions, zodiac/glyph, glow, speech, crown, magic, fixed twelve-count rule or directional arrow. Distinguish matte biological transparency by layered quiet grey-brown paint, not sparkly shiny glass. Dim cool storm light with restricted amber shaded-lamp planes; no bright candy jelly. OPAQUE solid warm ivory canvas, no alpha channel.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-ordinary-slime/title-image.jpg",
+                "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+                "inspected": true,
+                "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+              }
+            ],
+            "preflight": "Root re-read entire finished source and inspected actual same-story oil painting and cover. Prose overrides cover shine and supernatural blue glow. Verified no untracked returned candidate exists in prior generator directory. Nonhuman colony has no invented humanoid anatomy or sentience; connected mica film solely its required biological support.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-33fc117e-8fe6-445e-977c-e07a75023981.png",
+            "candidateSha256": "aaa576061df4dbd39e7bceb56f843ce4cf23356db9715d28561228d05563b094",
+            "reviewedAt": "2026-09-24T15:15:43.772795+00:00",
+            "findings": [
+              "Accurate faceless nonhumanoid group and ordinary pore/grit, clear exact labels and opaque ivory, but repeated white edge highlights imply shiny gelatin against explicit matte skin; blue is primarily connecting film rather than a subset of body surface states. Correct only material and color response."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T15:15:44.938126+00:00",
+            "prompt": "Edit the attached Merevetch / The Ordinary Slime biological reference folio. Preserve all exact text, the colony arrangement and ordinary faceless low amorphous bodies, single feeding pores, suspended grit, isolated/profile views and opaque warm ivory background.\nCorrect ONLY the material and color-state rendering. The finished story explicitly says \"Its skin takes the light without shine\". Remove the white wet specular edge streaks, sparkly bright flecks and glossy gelatin highlights from ALL slime bodies. Use broad dull diffuse olive/green-brown skin masses, soft charcoal-olive shadows, quiet muted gray-green transmitted patches suggesting transparency, and matte bristled impasto as in the second same-story oil painting. The grit is small dark suspended specks, never bright polished pebbles or hard internal organs.\nIn the upper connected group show three source states: most olive-green-brown cloudy opaque, several paler matte clear bodies with suspended grit, and a modest branching subset of body edges colored muted COLD SLATE BLUE. This is surface discoloration on several bodies, NOT emitted light, no glow or electric power. The thin connecting wet mica film underneath their touching edges is almost colorless gray, not a conspicuous bright-blue glue network. No arrows, fixed count threshold, emotions, eyes, limbs, teeth, scenery, walls or added props. Keep the warm ivory background fully OPAQUE, 1536x1024 and the same useful layout.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-33fc117e-8fe6-445e-977c-e07a75023981.png",
+                "role": "Inspected immutable biological folio; preserve arrangement/text/anatomy and correct only observed gloss and misplaced blue state.",
+                "sha256": "aaa576061df4dbd39e7bceb56f843ce4cf23356db9715d28561228d05563b094",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "role": "Inspected same-story matte bristle oil handling and storm/canopied assay-lamp palette; no furniture.",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true
+              }
+            ],
+            "preflight": "Source read fully and actual returned pixels inspected. Critical facts: matte skins, no second sac/hard inclusion, response belongs to touching bodies on wet mica; blue is color not light. Correction preserves successful faceless collective form, source scale text and presentation.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-f6f9f965-9ebd-40cf-a14d-d7e86c2487b8.png",
+            "candidateSha256": "476239ef6604434b884eb678ab4e51ddb0d6cc9df0b419489155a92f73ec96da",
+            "reviewedAt": "2026-09-24T15:22:56.758361+00:00",
+            "findings": [
+              "User rejected mucus-like slime design and requested recognizable anime/game slime. Third attempt corrected gloss but retains muddy flattened lumps and tube mouth. New composition required with clean rounded jelly silhouettes; do not carry rejected pixels as reference."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:22:58.011392+00:00",
+            "prompt": "Create a beautiful 1536x1024 landscape character design folio with a fully OPAQUE warm ivory background. Heading exact \"Merevetch\" and subtitle exact \"The Ordinary Slime\". The creature design must immediately read as the classic appealing SLIME MONSTER from fantasy ANIME and VIDEO GAMES: simple smooth plump jellybean/hemisphere body, raised soft round dome with one very gentle teardrop crest, clean flowing silhouette, small scalloped lower edge. A delightful round little gel creature that looks soft and cohesive. Fresh jade green and cool teal-green gel color, soft luminous-looking internal color depth but NO emitted light. Broad diffuse lighter planes instead of wet gleaming highlights. No face/personhood: no eyes, nose, ears, eyebrows, limbs or humanoid organs. If mouth visible, one tiny understated curved slit at base; NOT a tube or sucking proboscis.\nLayout: one large three-quarter creature at left as hero view; a smaller true side view below the heading; a small well-spaced cluster of SIX rounded touching gel bodies at right, representative of a larger colony. Some are cloudy jade, some softly translucent pale celadon, one or two shift to muted cool blue. Each retains the same clean rounded game-slime silhouette. Only a few microscopic suspended dots, barely visible. No feeding closeup, tissue cross-section, internal stones, prominent grit or drool. No flattened mucus/snot shapes, mud, dirt, brown sludge, stringy strands or sickly yellow. No floor patch, scene, swatches, palette strip, arrows or biology diagram. Airy usable character folio.\nRENDERING: Preserve this gallery's Canadian Group of Seven-inspired broad connected oil masses and intentional painterly edges, taking brush handling only from attached painting. Simplified appealing game creature silhouette is the key user direction; the painting is not a subject reference. Restrained impasto and soft clean curves on the slime; warm ivory paper behind all views. Do not draw an orchard or any scenery. Clear pleasant design, no gross-out effects.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Inspected oil paint handling only; user requests clean anime/game slime silhouette and jade/teal art interpretation, no landscape.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": "User explicitly rejected mucus design and requested anime/game-like slime. Fresh composition removes flattening, gritty lump texture and tube mouth. Retain nonhuman faceless collective form, distinct cloudy/clear/blue states without eyes or conscious powers. Palette/simplification recorded as user-directed art interpretation, no prose/canon change.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-f27e751e-4dd0-4327-bf87-d5b8362e6697.png",
+            "candidateSha256": "5514e21473ec276de1377d30bb22c2d38228e7d2621b41b9b7290c37071fec03",
+            "reviewedAt": "2026-09-24T15:34:35.250287+00:00",
+            "findings": [
+              "Root actual-pixel review against latest user direction: clean rounded jelly dome/teardrop silhouette, fresh jade/celadon/blue, broad cohesive painterly masses, no mucus/tubes/dirty lumps; familiar fantasy game slime form achieved. Source nonhuman faceless collective and cloudy/clear/blue variants retained through art interpretation. Exact Merevetch/The Ordinary Slime typography, two overall views and representative colony on opaque ivory, no scenery/palette."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 4
       },
-      "deferredReason": "User stopped generation for gallery/PR wrap-up. Submitted image call was interrupted with no returned output or resumable handle; retain exact attempt/prompt/references. No retry."
+      "userDirection": {
+        "request": "you need to change the ordinary slime to look more like slim from amines and games... this looks like somethign that came out of my nose...",
+        "scope": "Merevetch character sheet design correction; preserve source story."
+      },
+      "outputSha256": "5514e21473ec276de1377d30bb22c2d38228e7d2621b41b9b7290c37071fec03",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:34:35.254323+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root actual-pixel review against latest user direction: clean rounded jelly dome/teardrop silhouette, fresh jade/celadon/blue, broad cohesive painterly masses, no mucus/tubes/dirty lumps; familiar fantasy game slime form achieved. Source nonhuman faceless collective and cloudy/clear/blue variants retained through art interpretation. Exact Merevetch/The Ordinary Slime typography, two overall views and representative colony on opaque ivory, no scenery/palette."
+        ],
+        "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+        "outputSha256": "5514e21473ec276de1377d30bb22c2d38228e7d2621b41b9b7290c37071fec03",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Inspected oil paint handling only; user requests clean anime/game slime silhouette and jade/teal art interpretation, no landscape.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "bd8f2ebca1510ceb839b745f06f8ae08e7896c83bf48deeb395462d22baad76f"
+      }
     }
   ]
 }
