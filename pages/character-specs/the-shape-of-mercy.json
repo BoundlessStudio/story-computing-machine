@@ -1,0 +1,1022 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-shape-of-mercy",
+  "title": "The Shape of Mercy",
+  "source": "stories/the-shape-of-mercy/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished bundle source, original prompt, canon character/rule/glossary entries, cover and two same-story oil paintings inspected. Six named Bellweathers and one individuated stormhart sustain the central conflict; derivative casting does not alter locked source or establish new canon.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Adrian Bellweather",
+    "universe/characters.md#Evelyn Bellweather",
+    "universe/characters.md#Marcus Bellweather",
+    "universe/characters.md#Phoebe Bellweather",
+    "universe/characters.md#Lady Rowena Bellweather",
+    "universe/characters.md#Garran Bellweather",
+    "universe/rules.md#Garran's command-bonds and witnessed stormhart",
+    "universe/glossary.md#Stormhart"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Relations, household officers, tenants and clerks",
+      "reason": "Unindividuated background assembly."
+    },
+    {
+      "name": "Childhood fox and hounds",
+      "reason": "Brief remembered evidence, no continuing individuated role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "adrian-bellweather",
+      "name": "Adrian Bellweather",
+      "role": "Third sibling and viewpoint protagonist",
+      "form": "human man, nineteen",
+      "selectionEvidence": [
+        {
+          "quote": "I, Adrian Bellweather, being informed that severance will remove my memory of performing it, choose to cut the command forcing this stormhart to kill.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Nineteen per canon, nonvisible severance perception, ordinary cheap ink and ledger. No specified facial features.",
+      "visualInterpretation": [
+        "Nineteen, slim, narrow oval face, wavy chestnut hair to ears, clean shaven; restrained forest-green formal jacket, ivory shirt, dark trousers and brown low boots. Hold a CLOSED small brown leather ledger at one hip; no weapon, glow, visible threads or symbols. Thoughtful skeptical expression, unheroic human proportions."
+      ],
+      "states": [
+        {
+          "name": "Succession dinner",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:adrian-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Adrian Bellweather', subtitle 'The Shape of Mercy'. Nineteen, slim, narrow oval face, wavy chestnut hair to ears, clean shaven; restrained forest-green formal jacket, ivory shirt, dark trousers and brown low boots. Hold a CLOSED small brown leather ledger at one hip; no weapon, glow, visible threads or symbols. Thoughtful skeptical expression, unheroic human proportions.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:26:45.313656+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Adrian Bellweather', subtitle 'The Shape of Mercy'. Nineteen, slim, narrow oval face, wavy chestnut hair to ears, clean shaven; restrained forest-green formal jacket, ivory shirt, dark trousers and brown low boots. Hold a CLOSED small brown leather ledger at one hip; no weapon, glow, visible threads or symbols. Thoughtful skeptical expression, unheroic human proportions.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a95cabc4-2df2-4d07-88dd-7bf662cd4448.png",
+            "outputSha256": "446cec3238b1f214a7df9d59d70ac2ff8b22f656f0c6009c5a2a44f316862a38",
+            "finishedAt": "2026-09-24T15:29:55.477746+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels show coherent nineteen-year-old identity, green formal clothing, ordinary ledger and no literal magic threads.",
+              "Two complete bodies and matching painted portrait, exact heading/title, opaque ivory with broad flesh and cloth strokes and no scenic additions."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a95cabc4-2df2-4d07-88dd-7bf662cd4448.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/adrian-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "446cec3238b1f214a7df9d59d70ac2ff8b22f656f0c6009c5a2a44f316862a38",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:29:55.477788+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "446cec3238b1f214a7df9d59d70ac2ff8b22f656f0c6009c5a2a44f316862a38",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels show coherent nineteen-year-old identity, green formal clothing, ordinary ledger and no literal magic threads.",
+          "Two complete bodies and matching painted portrait, exact heading/title, opaque ivory with broad flesh and cloth strokes and no scenic additions."
+        ],
+        "specificationSha256": "8cfd0bf95791ed6df49ad2b71a8865530709e4d33a5acc8099ce52a86dbc78e4"
+      }
+    },
+    {
+      "id": "evelyn-bellweather",
+      "name": "Evelyn Bellweather",
+      "role": "Eldest sibling, ashfire wielder and witness",
+      "form": "human woman, twenty-six",
+      "selectionEvidence": [
+        {
+          "quote": "The songs omitted the black hills, the displaced villages, and the scars beneath her left glove.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Twenty-six per canon, scars beneath left glove; dinner state precedes burned glove and final bandage.",
+      "visualInterpretation": [
+        "Twenty-six, tall straight posture, square cheekbones, chestnut hair braided into low crown, slightly strong jaw. Deep russet formal long dress, plain fitted bodice and broad skirt, both hands gloved in dark brown; LEFT glove absolutely intact hiding scars. No cleavage emphasis, fire, injury, scar exposed or bandage in this opening dinner state. Controlled thoughtful gaze."
+      ],
+      "states": [
+        {
+          "name": "Succession dinner",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:evelyn-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Evelyn Bellweather', subtitle 'The Shape of Mercy'. Twenty-six, tall straight posture, square cheekbones, chestnut hair braided into low crown, slightly strong jaw. Deep russet formal long dress, plain fitted bodice and broad skirt, both hands gloved in dark brown; LEFT glove absolutely intact hiding scars. No cleavage emphasis, fire, injury, scar exposed or bandage in this opening dinner state. Controlled thoughtful gaze.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:26:46.439356+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Evelyn Bellweather', subtitle 'The Shape of Mercy'. Twenty-six, tall straight posture, square cheekbones, chestnut hair braided into low crown, slightly strong jaw. Deep russet formal long dress, plain fitted bodice and broad skirt, both hands gloved in dark brown; LEFT glove absolutely intact hiding scars. No cleavage emphasis, fire, injury, scar exposed or bandage in this opening dinner state. Controlled thoughtful gaze.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3985e35d-4d31-4e4c-8b6e-d2e68a23f869.png",
+            "outputSha256": "be3ca5a9a19e7c99cfd618ef8045b3a39f27bb64d274839dc74e443c084c58eb",
+            "finishedAt": "2026-09-24T15:29:56.622006+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show mature twenty-six-year-old sibling, consistent braided hair/russet dress and both intact gloves concealing the left scars.",
+              "Complete silhouettes, readable exact heading/title and matching broadly painted portrait; opaque ivory without environment or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-3985e35d-4d31-4e4c-8b6e-d2e68a23f869.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/evelyn-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "be3ca5a9a19e7c99cfd618ef8045b3a39f27bb64d274839dc74e443c084c58eb",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:29:56.622046+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "be3ca5a9a19e7c99cfd618ef8045b3a39f27bb64d274839dc74e443c084c58eb",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show mature twenty-six-year-old sibling, consistent braided hair/russet dress and both intact gloves concealing the left scars.",
+          "Complete silhouettes, readable exact heading/title and matching broadly painted portrait; opaque ivory without environment or swatches."
+        ],
+        "specificationSha256": "e5d843c8cebd9d47d8115639754bf2af23466a44352083e9973dcfc35e99cbf2"
+      }
+    },
+    {
+      "id": "marcus-bellweather",
+      "name": "Marcus Bellweather",
+      "role": "Older brother, cold wielder and witness",
+      "form": "human man, twenty-three",
+      "selectionEvidence": [
+        {
+          "quote": "Marcus Bellweather, my older brother, had frozen an ocean reach hard enough to march an army across it, although he maintained that the fish had been deeply impressed.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Twenty-three per canon, warded cup at dinner, no physical description; pre-injury dinner state.",
+      "visualInterpretation": [
+        "Twenty-three, tall broad shoulders, longer rectangular face, short neatly swept chestnut hair, clean shaven. Slate blue formal coat, charcoal waistcoat, ivory shirt, dark trousers and black boots. One plain small pewter cup held low. Dry crooked smile. No frozen sleeve, floor frost, ice, weapon or magic aura in this opening dinner state."
+      ],
+      "states": [
+        {
+          "name": "Succession dinner",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:marcus-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Marcus Bellweather', subtitle 'The Shape of Mercy'. Twenty-three, tall broad shoulders, longer rectangular face, short neatly swept chestnut hair, clean shaven. Slate blue formal coat, charcoal waistcoat, ivory shirt, dark trousers and black boots. One plain small pewter cup held low. Dry crooked smile. No frozen sleeve, floor frost, ice, weapon or magic aura in this opening dinner state.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:26:47.557804+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Marcus Bellweather', subtitle 'The Shape of Mercy'. Twenty-three, tall broad shoulders, longer rectangular face, short neatly swept chestnut hair, clean shaven. Slate blue formal coat, charcoal waistcoat, ivory shirt, dark trousers and black boots. One plain small pewter cup held low. Dry crooked smile. No frozen sleeve, floor frost, ice, weapon or magic aura in this opening dinner state.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-87f99a11-026b-415e-9635-15e6c0563d39.png",
+            "outputSha256": "5023d2a2d1def1e52462cc0d0f9a6a0f2b7c402dffb7f994a7912e9520be95d3",
+            "finishedAt": "2026-09-24T15:29:57.783763+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show consistent adult older brother, slate formal clothing, small plain cup and no pre-emptive injury or visible magic.",
+              "Full front/rear bodies, matching portrait, exact text and substantial connected oil strokes over opaque ivory."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-87f99a11-026b-415e-9635-15e6c0563d39.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/marcus-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "5023d2a2d1def1e52462cc0d0f9a6a0f2b7c402dffb7f994a7912e9520be95d3",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:29:57.783785+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "5023d2a2d1def1e52462cc0d0f9a6a0f2b7c402dffb7f994a7912e9520be95d3",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent adult older brother, slate formal clothing, small plain cup and no pre-emptive injury or visible magic.",
+          "Full front/rear bodies, matching portrait, exact text and substantial connected oil strokes over opaque ivory."
+        ],
+        "specificationSha256": "21817d14c02d329bb7f1ba716ea10ece0c3d053c2b16e365ed64791248fc9322"
+      }
+    },
+    {
+      "id": "phoebe-bellweather",
+      "name": "Phoebe Bellweather",
+      "role": "Youngest sibling and empathic rescuer",
+      "form": "human girl, sixteen",
+      "selectionEvidence": [
+        {
+          "quote": "The storm is its own. The fear is its own.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Sixteen per canon, empathetic gift is non-dominating; hair later blown loose, no lasting physical injury.",
+      "visualInterpretation": [
+        "Sixteen-year-old adolescent, slender and shorter than adults with age-appropriate natural proportions, youthful rounded face, chestnut hair in one loose practical braid. Muted ochre long-sleeved dress, forest-green sleeveless overdress, flat brown shoes. Both hands empty, open attentive posture, no staff, reins, collar, animal companion or magical commanding gesture. Calm opening dinner state, no blood."
+      ],
+      "states": [
+        {
+          "name": "Succession dinner",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:phoebe-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Phoebe Bellweather', subtitle 'The Shape of Mercy'. Sixteen-year-old adolescent, slender and shorter than adults with age-appropriate natural proportions, youthful rounded face, chestnut hair in one loose practical braid. Muted ochre long-sleeved dress, forest-green sleeveless overdress, flat brown shoes. Both hands empty, open attentive posture, no staff, reins, collar, animal companion or magical commanding gesture. Calm opening dinner state, no blood.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:30:11.423960+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Phoebe Bellweather', subtitle 'The Shape of Mercy'. Sixteen-year-old adolescent, slender and shorter than adults with age-appropriate natural proportions, youthful rounded face, chestnut hair in one loose practical braid. Muted ochre long-sleeved dress, forest-green sleeveless overdress, flat brown shoes. Both hands empty, open attentive posture, no staff, reins, collar, animal companion or magical commanding gesture. Calm opening dinner state, no blood.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-05d34a33-86ea-4cc1-a50f-77ef278fc167.png",
+            "outputSha256": "98d9d87c93893606af5602a77b83fdd8a2d66c5385dea5ae3dc8d91a24eaf7f9",
+            "finishedAt": "2026-09-24T15:33:56.632993+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain sixteen-year-old Phoebe's adolescent proportions, single braid, green/ochre formal clothing and empty hands; no domination equipment or bodily harm.",
+              "Two complete coherent views and matching oil portrait, exact name/title, opaque ivory character-only canvas."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-05d34a33-86ea-4cc1-a50f-77ef278fc167.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/phoebe-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "98d9d87c93893606af5602a77b83fdd8a2d66c5385dea5ae3dc8d91a24eaf7f9",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:33:56.633016+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "98d9d87c93893606af5602a77b83fdd8a2d66c5385dea5ae3dc8d91a24eaf7f9",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+            "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+            "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain sixteen-year-old Phoebe's adolescent proportions, single braid, green/ochre formal clothing and empty hands; no domination equipment or bodily harm.",
+          "Two complete coherent views and matching oil portrait, exact name/title, opaque ivory character-only canvas."
+        ],
+        "specificationSha256": "2df4711e39bae4b1b5a1f044da16493d793454172aab388f24839b28992677c8"
+      }
+    },
+    {
+      "id": "lady-rowena-bellweather",
+      "name": "Lady Rowena Bellweather",
+      "role": "Mother, house head and ward maker",
+      "form": "mature human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Candlelight caught the silver stitched through her dark sleeves: little channels for the living wards she supplied with every breath.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Mother of four, silver channels stitched through dark sleeves supply living wards; no specified physical features.",
+      "visualInterpretation": [
+        "Woman about fifty-five, upright mature bearing, long face with visible age lines, chestnut hair extensively streaked silver in a high pinned coil. Full-length deep charcoal-blue formal gown, high collar, both long dark sleeves with restrained SILVER stitched channels that follow forearms, no electric circuitry. Hands relaxed. No floating ward panes, crown or ornate jewelry; ward conduits visibly sewn silver only. Stern weary thoughtful expression."
+      ],
+      "states": [
+        {
+          "name": "Succession dinner",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:lady-rowena-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2b3295e2-fb18-4b4c-93b9-4056c57f73a6.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "c01e56b9703bb0db8ae611e8bf03cf8b0e409923befb1810a755efc038af1673",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Shrink both complete standing figures slightly and move the left figure right so every part of BOTH gown hems and trains sits wholly inside the page with at least 55px ivory margin. Keep exact name/title, face, age, silver-streaked coil, dark gown and silver sewn sleeve conduits. Do not add floor shadows or ground. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:30:12.498280+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Lady Rowena Bellweather', subtitle 'The Shape of Mercy'. Woman about fifty-five, upright mature bearing, long face with visible age lines, chestnut hair extensively streaked silver in a high pinned coil. Full-length deep charcoal-blue formal gown, high collar, both long dark sleeves with restrained SILVER stitched channels that follow forearms, no electric circuitry. Hands relaxed. No floating ward panes, crown or ornate jewelry; ward conduits visibly sewn silver only. Stern weary thoughtful expression.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2b3295e2-fb18-4b4c-93b9-4056c57f73a6.png",
+            "outputSha256": "c01e56b9703bb0db8ae611e8bf03cf8b0e409923befb1810a755efc038af1673",
+            "finishedAt": "2026-09-24T15:33:57.754102+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Left full-body dress train crosses the left page edge."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:34:11.846599+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Shrink both complete standing figures slightly and move the left figure right so every part of BOTH gown hems and trains sits wholly inside the page with at least 55px ivory margin. Keep exact name/title, face, age, silver-streaked coil, dark gown and silver sewn sleeve conduits. Do not add floor shadows or ground. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2b3295e2-fb18-4b4c-93b9-4056c57f73a6.png",
+                "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+                "sha256": "c01e56b9703bb0db8ae611e8bf03cf8b0e409923befb1810a755efc038af1673",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-43699652-ceae-4f0c-ad10-8165115981e1.png",
+            "outputSha256": "3d5e7249169d61cec63d343fb759ccec7e7d68d4318ad19f438344610031ce5c",
+            "finishedAt": "2026-09-24T15:37:03.482773+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected actual pixels place both complete gown trains within ivory border; consistent mature mother, silver-streaked coil and sewn silver sleeve channels.",
+              "Exact full heading/title, matching broad directional oil portrait and fully opaque character-only presentation."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-43699652-ceae-4f0c-ad10-8165115981e1.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/lady-rowena-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "3d5e7249169d61cec63d343fb759ccec7e7d68d4318ad19f438344610031ce5c",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:37:03.482801+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "3d5e7249169d61cec63d343fb759ccec7e7d68d4318ad19f438344610031ce5c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2b3295e2-fb18-4b4c-93b9-4056c57f73a6.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "c01e56b9703bb0db8ae611e8bf03cf8b0e409923befb1810a755efc038af1673",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels place both complete gown trains within ivory border; consistent mature mother, silver-streaked coil and sewn silver sleeve channels.",
+          "Exact full heading/title, matching broad directional oil portrait and fully opaque character-only presentation."
+        ],
+        "specificationSha256": "87e873e4ab7598cb0df4a282c46c4508176fd33418fa5655de64be226756e579"
+      }
+    },
+    {
+      "id": "garran-bellweather",
+      "name": "Garran Bellweather",
+      "role": "Estranged father and antagonist",
+      "form": "mature human man",
+      "selectionEvidence": [
+        {
+          "quote": "His formal coat shone with rain, and a dull metal bracelet circled one wrist.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Leaner after ten years, rain-wet formal coat, dull metal focus bracelet; no living command faculty.",
+      "visualInterpretation": [
+        "Man about fifty-six, lean angular body, hollow cheeks, slightly heavy straight brow, receding short chestnut hair streaked gray, neat short gray-chestnut beard. Rain-dark charcoal formal long coat with restrained wet highlights, taupe waistcoat, ivory shirt, dark trousers and black shoes. LEFT wrist visible with one DULL plain metal bracelet, low hand position; it is merely a focus, no light or electricity. Grief and hard restraint, no cartoon villain grin. Same candlelight grazing rain-wet coat."
+      ],
+      "states": [
+        {
+          "name": "Return to the Hall",
+          "description": "Single consistent clothed state; powers not literalized beyond source-visible appearance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:garran-bellweather",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2fcc5c5f-36ef-4025-8dba-575c0b9cc641.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "527e81c5f6d408722e446efe853847743d555e25ee579fd70a7502b41ab172a8",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Remove every tan/brown patch and contact shadow from below and around both pairs of boots; replace these marks with the same unbroken opaque warm ivory canvas. Preserve boots themselves, exact name/title, facial identity, age, rain-dark formal coat and visible DULL left wrist bracelet. Keep body silhouettes complete. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:30:13.581411+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Family resemblance is art casting only: warm olive skin, strong gently curved dark brows, straight nose, dark brown eyes and chestnut hair; distinguish age, face shape and hair carefully. Formal candlelit succession dinner state: small warm amber planes from candles at one side, large connected deep blue-brown shadows, no uniform daylight. Exact heading and story title; no wardrobe captions needed. Exact heading 'Garran Bellweather', subtitle 'The Shape of Mercy'. Man about fifty-six, lean angular body, hollow cheeks, slightly heavy straight brow, receding short chestnut hair streaked gray, neat short gray-chestnut beard. Rain-dark charcoal formal long coat with restrained wet highlights, taupe waistcoat, ivory shirt, dark trousers and black shoes. LEFT wrist visible with one DULL plain metal bracelet, low hand position; it is merely a focus, no light or electricity. Grief and hard restraint, no cartoon villain grin. Same candlelight grazing rain-wet coat.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2fcc5c5f-36ef-4025-8dba-575c0b9cc641.png",
+            "outputSha256": "527e81c5f6d408722e446efe853847743d555e25ee579fd70a7502b41ab172a8",
+            "finishedAt": "2026-09-24T15:33:58.842923+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Small tan ground/contact patches underneath shoes violate the character-only support."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:34:12.912056+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Remove every tan/brown patch and contact shadow from below and around both pairs of boots; replace these marks with the same unbroken opaque warm ivory canvas. Preserve boots themselves, exact name/title, facial identity, age, rain-dark formal coat and visible DULL left wrist bracelet. Keep body silhouettes complete. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2fcc5c5f-36ef-4025-8dba-575c0b9cc641.png",
+                "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+                "sha256": "527e81c5f6d408722e446efe853847743d555e25ee579fd70a7502b41ab172a8",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-045704aa-8316-4f8c-b805-d9647c02fbfb.png",
+            "outputSha256": "803faa34a39694605870919ec1cc6b5b76f3c2c24559b12dc95522af12d386ff",
+            "finishedAt": "2026-09-24T15:37:04.637914+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected pixels remove tan boot contact patches; complete front/rear bodies and aged lean face remain coherent.",
+              "Rain-dark coat, dull visible wrist bracelet, non-glowing body and exact name/title preserved; substantial connected oil on opaque ivory."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-045704aa-8316-4f8c-b805-d9647c02fbfb.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/garran-bellweather.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "803faa34a39694605870919ec1cc6b5b76f3c2c24559b12dc95522af12d386ff",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:37:04.637952+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "803faa34a39694605870919ec1cc6b5b76f3c2c24559b12dc95522af12d386ff",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2fcc5c5f-36ef-4025-8dba-575c0b9cc641.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "527e81c5f6d408722e446efe853847743d555e25ee579fd70a7502b41ab172a8",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels remove tan boot contact patches; complete front/rear bodies and aged lean face remain coherent.",
+          "Rain-dark coat, dull visible wrist bracelet, non-glowing body and exact name/title preserved; substantial connected oil on opaque ivory."
+        ],
+        "specificationSha256": "6ecea8b0b1188e054a68d310f8db23bc0ca1e03474e38086f93394f7f767aaba"
+      }
+    },
+    {
+      "id": "rillthorn",
+      "name": "Rillthorn",
+      "role": "Individuated stormhart whose coercive bond is cut",
+      "form": "living antlered magical beast",
+      "selectionEvidence": [
+        {
+          "quote": "It stood taller than a carriage horse, though no horse had antlers branching like a winter tree or stormlight moving under translucent skin.",
+          "explanation": "Finished source central participant or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Enormous taller-than-carriage-horse antlered quadruped, translucent skin with stormlight and lightning among antler tines; throat scar remains after freedom.",
+      "visualInterpretation": [
+        "This character is the story's ONE witnessed stormhart, art-only name Rillthorn. Two complete unclipped views, front-three-quarter and full side, plus a matching head study. Stag-like lean powerful quadruped, FOUR anatomically coherent long legs and cloven hooves, short tail, huge winter-tree branching antlers. Taller than a carriage horse, label 'Stormhart — towering scale'. Translucent smoky silver-gray living hide with branching stormlight UNDER skin, selective bright small white-blue lightning between antler tines, not opaque furry deer, skeleton or icy sculpture. Dark old circumferential scar around throat remains, non-graphic no exposed tissue. FREED aftermath state: own storm intact, head lifted, agency calm alertness; no collar, chain, bracelet, harness or foreign command. Cool stormlight shapes some hide planes against dark connected shadows; a little story candlewarm colour subordinate. Head/antlers/hooves wholly inside page; leave generous margins."
+      ],
+      "states": [
+        {
+          "name": "Freed stormhart",
+          "description": "Scar and own storm retained; coercive command absent."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-shape-of-mercy:rillthorn",
+        "links": [],
+        "evidence": "Targeted existing specifications and universe search identifies only this story's canonical individual; Garran Vey is a different identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ca1d194f-78fe-4574-82a2-54eb3687049f.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "c61787155a89f87254704b5b6b9b3617ad9e18cd78f31654b83a4aebed688500",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Shrink and move down the entire right head-and-antlers portrait until ALL branch tips lie at least 45px inside the top/right edges. Preserve exact name/title, two complete four-legged stag-like body views, cloven hooves, internal silver stormlight and remaining old throat scar, and the lightning between tines. Preserve opaque warm ivory and broad matte oil. The old dark throat scar is living skin, never a collar or separate band. Do not add any environment or ground. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:30:14.665185+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Rillthorn', subtitle 'The Shape of Mercy'. This character is the story's ONE witnessed stormhart, art-only name Rillthorn. Two complete unclipped views, front-three-quarter and full side, plus a matching head study. Stag-like lean powerful quadruped, FOUR anatomically coherent long legs and cloven hooves, short tail, huge winter-tree branching antlers. Taller than a carriage horse, label 'Stormhart — towering scale'. Translucent smoky silver-gray living hide with branching stormlight UNDER skin, selective bright small white-blue lightning between antler tines, not opaque furry deer, skeleton or icy sculpture. Dark old circumferential scar around throat remains, non-graphic no exposed tissue. FREED aftermath state: own storm intact, head lifted, agency calm alertness; no collar, chain, bracelet, harness or foreign command. Cool stormlight shapes some hide planes against dark connected shadows; a little story candlewarm colour subordinate. Head/antlers/hooves wholly inside page; leave generous margins.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-shape-of-mercy/art/landscapes/01-the-everflowering-orchard.png",
+                "role": "Same-story painted palette and warm hall-window candlelight only; no orchard or sunset scene",
+                "sha256": "17bf9de70bc87c3dc2f4135f0580269e65a602fef52a0231292b4938e39f3fee",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ca1d194f-78fe-4574-82a2-54eb3687049f.png",
+            "outputSha256": "c61787155a89f87254704b5b6b9b3617ad9e18cd78f31654b83a4aebed688500",
+            "finishedAt": "2026-09-24T15:33:59.933291+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Large head-study antler tips crop against the top border."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:34:13.972356+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "Use case: targeted image edit. Edit the FIRST attached character folio. Shrink and move down the entire right head-and-antlers portrait until ALL branch tips lie at least 45px inside the top/right edges. Preserve exact name/title, two complete four-legged stag-like body views, cloven hooves, internal silver stormlight and remaining old throat scar, and the lightning between tines. Preserve opaque warm ivory and broad matte oil. The old dark throat scar is living skin, never a collar or separate band. Do not add any environment or ground. Image 2 is the primary Group of Seven oil handling anchor only. Preserve all correct identity, readable lettering and composition details not named in this correction. 1536x1024 landscape, fully opaque ivory, no transparency. Broad connected directional opaque oil paint across faces and clothing; no glossy CGI or photograph.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ca1d194f-78fe-4574-82a2-54eb3687049f.png",
+                "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+                "sha256": "c61787155a89f87254704b5b6b9b3617ad9e18cd78f31654b83a4aebed688500",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2adb670c-53c7-4109-8715-5aa7277f2aaf.png",
+            "outputSha256": "1554b5bb9215d6e7df44fc3ee90e05447448753a78ed3eaaff560622121e8c63",
+            "finishedAt": "2026-09-24T15:37:05.774921+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected pixels keep every head-study antler tip within page; both complete four-legged cloven-hoofed body studies and own antler lightning/internal storm remain.",
+              "Old throat scar persists without coercive apparatus; exact art name/story title, opaque character-only support and broad directional oil; distinct new-art naming provenance preserved."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2adb670c-53c7-4109-8715-5aa7277f2aaf.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed witnessed stormhart",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label. Canon explicitly records unnamed individual; no source/canon edit or in-world naming claim.",
+        "collisionCheck": "Rillthorn absent in targeted universe/name-memory/existing specification search."
+      },
+      "output": "stories/the-shape-of-mercy/art/characters/rillthorn.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "1554b5bb9215d6e7df44fc3ee90e05447448753a78ed3eaaff560622121e8c63",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:37:05.774943+00:00",
+        "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a",
+        "outputSha256": "1554b5bb9215d6e7df44fc3ee90e05447448753a78ed3eaaff560622121e8c63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ca1d194f-78fe-4574-82a2-54eb3687049f.png",
+            "role": "Inspected initial candidate; preserve identity and correct specified composition only",
+            "sha256": "c61787155a89f87254704b5b6b9b3617ad9e18cd78f31654b83a4aebed688500",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected Group of Seven oil brush handling; no landscape/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels keep every head-study antler tip within page; both complete four-legged cloven-hoofed body studies and own antler lightning/internal storm remain.",
+          "Old throat scar persists without coercive apparatus; exact art name/story title, opaque character-only support and broad directional oil; distinct new-art naming provenance preserved."
+        ],
+        "specificationSha256": "7fa9c9ec8b89fada1fbc69435780b8cd0cb8455d43bf74fbd2125491be392370"
+      }
+    }
+  ],
+  "sourceSha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a"
+}
