@@ -1,0 +1,618 @@
+{
+  "slug": "a-note-of-spite",
+  "title": "A Note of Spite",
+  "source": "stories/a-note-of-spite/story.md",
+  "canon": false,
+  "mainCastEvidence": "Lavinia and Clorinda carry the friendship conflict and resolution. The unnamed pianist is included as sustained rehearsal/performance partner whose changed arrangement supports Clorinda's independent song and whose musical responses enact its comic climax.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Woman in blue and whiskered husband",
+      "reason": "Guests supply reactions and conversation but no substantial independent role."
+    },
+    {
+      "name": "Elderly guest, maid, footman, teacher and party guests",
+      "reason": "Brief incidental service/party or recalled roles."
+    },
+    {
+      "name": "Soldier, sweetheart and little dog",
+      "reason": "Characters within the performed song only, not active embodied cast."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md (Lavinia/Clorinda not established recurring entries)"
+  ],
+  "characters": [
+    {
+      "id": "lavinia",
+      "name": "Lavinia",
+      "role": "Focal protagonist; longtime friend learning restraint",
+      "selectionEvidence": [
+        {
+          "quote": "who was fifty-two",
+          "line": 43,
+          "explanation": "Focal friend is 52."
+        },
+        {
+          "quote": "Lavinia pinched a fold of air",
+          "line": 51,
+          "explanation": "Her attempted prank creates conflict."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "proportions": "Natural adult proportions",
+        "markings": "No permanent marks specified",
+        "materials": "Skin, hair, cloth",
+        "scale": "Human scale",
+        "movement": "Natural standing and gesturing",
+        "distinctiveFeatures": "Expressive, practiced wit; no hair/eye/body description supplied",
+        "lifeStage": "52 years old",
+        "clothing": "Cream gown with lace sleeve; carries a bag",
+        "equipment": "Perfumed protection on skin; wine glass and small bag"
+      },
+      "explicitCanon": [
+        "Finished story facts (non-canon source): 52 years old; Cream gown with lace sleeve; carries a bag; Perfumed protection on skin; wine glass and small bag; Expressive, practiced wit; no hair/eye/body description supplied"
+      ],
+      "visualInterpretation": [
+        "Restrained interpretation: narrow mature face with long straight nose and fine mouth, pronounced mature eye/cheek folds, prominent silver-gray swept hair streaks over dark ash-brown in a tidy low bun, gray-brown eyes, warm light skin and slim erect build. Distinct from young Coris style-only reference.",
+        "Cream late-carriage-era evening gown with modest lace sleeves; no glowing scent or material perfume cloud."
+      ],
+      "states": [
+        {
+          "name": "watchful",
+          "description": "Raised eyebrow, measured stance."
+        },
+        {
+          "name": "unguarded laugh",
+          "description": "Laughing with hand near mouth; same identity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-note-of-spite:lavinia",
+        "links": [],
+        "evidence": "No matching authoritative recurring identity found; no name-only identity merge."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and ivory presentation style only",
+          "inspected": true,
+          "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-note-of-spite/title-image.jpg",
+          "role": "Clorinda identity only",
+          "inspected": true,
+          "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+          "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+        },
+        {
+          "path": "stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+          "role": "candlelight and oil-paint palette only",
+          "inspected": true,
+          "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+          "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+        }
+      ],
+      "blockers": [],
+      "output": "stories/a-note-of-spite/art/characters/lavinia.png",
+      "status": "completed",
+      "generation": {
+        "prompt": "Revise supplied Lavinia character folio at SAME 1536x1024, preserving exact title, labels, cream lace gown, bag, hand detail, layout, ivory, no scenery/no swatches. Two precise corrections ACROSS ALL full figures and heads: (1) Lavinia must unmistakably be a distinct FIFTY-TWO-year-old woman, NOT a youthful twenty-year-old. Keep slim erect build but give a longer narrower mature face, longer straight nose, fine thinner mouth, age-defined folds beside eyes and mouth, slightly hooded mature eyes. Hair predominantly SILVER GRAY swept smoothly into a neat LOW bun with dark ash-brown underneath, no youthful tumbling brunette tendrils. Consistent face, age and gray hair in every view. This is dignified middle age, not frail elderly. (2) Real EVENING CANDLELIGHT illumination on the FIGURES only: lower exposure and muted amber planes on the light-facing side, broad connected deep plum-brown shadows on opposite cheek, neck, inner arms and gown folds. No daylight-like even front lighting. Cream fabric remains recognizably cream but ivory-paper white should be brighter than most of garment. Reference2 provides candle-lit values and violet/brown shadow families ONLY; don't copy any room/candles/piano/floor. The ivory sheet stays quiet and bright. Broad matte opaque bristle/knife oil strokes describe faces too, not glossy photo faces, no uniform microchips. Retain every separate unclipped view and prop; no other characters. Exact heading remains \"Lavinia\" / \"A Note of Spite\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T21:20:34.266384+00:00",
+            "prompt": "Finished character folio with exact upper-left text \"Lavinia\" and \"A Note of Spite\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nA distinct FIFTY-TWO-year-old human woman, NOT the young Coris in style reference. Slim erect build, narrow mature face, long straight nose, fine mouth, dark ash-brown hair with silver streaks pinned in a tidy low bun, gray-brown eyes and warm light skin, visible middle-age brow and smile lines. She wears a cream full-length evening gown with lace sleeves and modest neckline, simple refined carriage-era formal tailoring and dark closed shoes; small cream drawstring evening bag. No crown, jewels, magical staff, protective armor or invented badge.\nTwo unclipped complete-body views front three-quarter and rear three-quarter, same gown, lace cuffs, face and hair arrangement; hands calm, subtle practiced wit. Right: two same-face oil-painted head studies labelled \"Watchful\" and \"Laughter\" (latter genuine laugh with natural creases); bottom: isolated fingers pinching an empty fold of air labelled \"Voice trick\" (no glowing effect or floating symbols), small lace-cuff/bag material detail labelled \"Lace and silk\". Ordinary hands, five fingers, no duplicated digits. No other characters. Clothing is cream and must stay cream under evening candlelight.\nLight this as a candlelit evening party: small soft warm illumination on near-side cheek, gown and fingertips, deep quiet plum-brown shadow families, muted highlights; no daylight, no universal orange-blue rim spectacle. Readable shapes rely on broad light/dark oil masses. Input2 room painting guides this candlelit palette only; do NOT reproduce furniture, piano, room, candles or floor. Exact age and cream/lace gown come from source; hair/color tailoring are restrained visual choices. No palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and ivory presentation style only",
+                "inspected": true,
+                "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+                "role": "candlelight and oil-paint palette only",
+                "inspected": true,
+                "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+                "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-24dfdca5-445c-40d5-87d1-b6c306c5e807.png",
+            "reviewFinding": "Identity too close to young style reference and lighting too evenly bright; strengthen mature facial structure and candlelit shadow grouping.",
+            "outputSha256": "09e319048ea2ef3b9bd25d322b432e82f52a02e8691809c5af660ff79b61d994"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:24:33.535618+00:00",
+            "prompt": "Revise supplied Lavinia character folio at SAME 1536x1024, preserving exact title, labels, cream lace gown, bag, hand detail, layout, ivory, no scenery/no swatches. Two precise corrections ACROSS ALL full figures and heads: (1) Lavinia must unmistakably be a distinct FIFTY-TWO-year-old woman, NOT a youthful twenty-year-old. Keep slim erect build but give a longer narrower mature face, longer straight nose, fine thinner mouth, age-defined folds beside eyes and mouth, slightly hooded mature eyes. Hair predominantly SILVER GRAY swept smoothly into a neat LOW bun with dark ash-brown underneath, no youthful tumbling brunette tendrils. Consistent face, age and gray hair in every view. This is dignified middle age, not frail elderly. (2) Real EVENING CANDLELIGHT illumination on the FIGURES only: lower exposure and muted amber planes on the light-facing side, broad connected deep plum-brown shadows on opposite cheek, neck, inner arms and gown folds. No daylight-like even front lighting. Cream fabric remains recognizably cream but ivory-paper white should be brighter than most of garment. Reference2 provides candle-lit values and violet/brown shadow families ONLY; don't copy any room/candles/piano/floor. The ivory sheet stays quiet and bright. Broad matte opaque bristle/knife oil strokes describe faces too, not glossy photo faces, no uniform microchips. Retain every separate unclipped view and prop; no other characters. Exact heading remains \"Lavinia\" / \"A Note of Spite\".",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-24dfdca5-445c-40d5-87d1-b6c306c5e807.png",
+                "role": "Inspected first candidate; keep layout/dress, correct mature identity and light.",
+                "sha256": "09e319048ea2ef3b9bd25d322b432e82f52a02e8691809c5af660ff79b61d994",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+                "role": "Candlelit shadow/value reference only; no objects or environment.",
+                "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-9a140d79-ae9e-46a1-905e-37279fe742fd.png",
+            "outputSha256": "b1e70c6f2cf3b015188a8c9bd6ecd043682ea561671522e1c5334c6bbe6579b2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:28:24.018547+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-24dfdca5-445c-40d5-87d1-b6c306c5e807.png",
+            "role": "Inspected first candidate; keep layout/dress, correct mature identity and light.",
+            "sha256": "09e319048ea2ef3b9bd25d322b432e82f52a02e8691809c5af660ff79b61d994",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "Candlelit shadow/value reference only; no objects or environment.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:28:24.018570+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "b1e70c6f2cf3b015188a8c9bd6ecd043682ea561671522e1c5334c6bbe6579b2",
+        "sourceSha256": "ae94736b548830315f65adaf1708054587ab9b9b00d0232e764ce51849fc15e8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-24dfdca5-445c-40d5-87d1-b6c306c5e807.png",
+            "role": "Inspected first candidate; keep layout/dress, correct mature identity and light.",
+            "sha256": "09e319048ea2ef3b9bd25d322b432e82f52a02e8691809c5af660ff79b61d994",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "Candlelit shadow/value reference only; no objects or environment.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected image visually inspected: mature fifty-two-year-old face, long fine nose, silver-streaked low bun and visible cheek/eye folds consistent across all views, distinct from young style reference.",
+          "Same cream lace gown, bag and shoes in complete front/rear views; unclipped and ordinary two-armed/two-legged anatomy; natural pinching-hand study.",
+          "Lighting correction produces subdued amber candle planes and deeper plum-brown fold/face shadows, with bright ivory paper exceeding figure highlights.",
+          "Exact title/name and useful labels, no location, floor, palette swatches or magical glow. Lace/skin/hair share broad matte oil treatment."
+        ],
+        "specificationSha256": "07d5d597835e4f203f4dc28c19f5401d37e587fb1f097011a70272e1a823309c"
+      },
+      "lighting": "Evening party illuminated by several low household candles. Muted warm cream/skin midtones with deep subdued plum-brown shadows; restrained small highlights, no daylight or gold rim lighting.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Lavinia"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b1e70c6f2cf3b015188a8c9bd6ecd043682ea561671522e1c5334c6bbe6579b2"
+    },
+    {
+      "id": "clorinda",
+      "name": "Clorinda",
+      "role": "Co-lead; birthday host and singer",
+      "selectionEvidence": [
+        {
+          "quote": "Fifty suited Clorinda.",
+          "line": 43,
+          "explanation": "Birthday and personal performance drive story."
+        },
+        {
+          "quote": "I wanted to do this.",
+          "line": 221,
+          "explanation": "Asserts independent wish."
+        },
+        {
+          "quote": "I practised.",
+          "line": 313,
+          "explanation": "Completes the emotional resolution."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "proportions": "Round-cheeked adult woman; fuller substantial build from cover",
+        "markings": "No permanent marks specified",
+        "materials": "Skin, hair, cloth",
+        "scale": "Human scale",
+        "movement": "Welcomes guests, sings with uncertain lifted palm, performs pompous soldier posture and restrained whistle",
+        "distinctiveFeatures": "Round cheeks, warm strong lower voice; cover dark gray-streaked pinned hair",
+        "lifeStage": "50 years old",
+        "clothing": "Green dress with little seed pearls at bosom, elbow-length sleeves, front skirt clears shoes, green silk stockings, small covered buttons down back",
+        "equipment": "Narrow perfume bottle with violet glass foot and stopper; small bag"
+      },
+      "explicitCanon": [
+        "Finished story facts (non-canon source): 50 years old; Round-cheeked adult woman; fuller substantial build from cover; Green dress with little seed pearls at bosom, elbow-length sleeves, front skirt clears shoes, green silk stockings, small covered buttons down back; Narrow perfume bottle with violet glass foot and stopper; small bag; Welcomes guests, sings with uncertain lifted palm, performs pompous soldier posture and restrained whistle; Round cheeks, warm strong lower voice; cover dark gray-streaked pinned hair"
+      ],
+      "visualInterpretation": [
+        "Preserve cover face structure and gray-streaked pinned brown hair, warm skin/brown eyes; replace glossy rendering with matte oil.",
+        "No green glow, fragrance smoke, armor, saucepan helmet or actual soldier body; those ideas are not her dress."
+      ],
+      "states": [
+        {
+          "name": "host",
+          "description": "Warm poised face; perfume application shown only as small bottle/hand detail."
+        },
+        {
+          "name": "performing",
+          "description": "Puffed chest and small pursed-lip whistle; same green gown."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-note-of-spite:clorinda",
+        "links": [],
+        "evidence": "No matching authoritative recurring identity found; no name-only identity merge."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and ivory presentation style only",
+          "inspected": true,
+          "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-note-of-spite/title-image.jpg",
+          "role": "Clorinda identity only",
+          "inspected": true,
+          "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+          "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+        },
+        {
+          "path": "stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+          "role": "candlelight and oil-paint palette only",
+          "inspected": true,
+          "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+          "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+        }
+      ],
+      "blockers": [],
+      "output": "stories/a-note-of-spite/art/characters/clorinda.png",
+      "status": "completed",
+      "generation": {
+        "prompt": "Character reference folio, exact heading \"Clorinda\" with \"A Note of Spite\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nPreserve Clorinda's recognizable FIFTY-YEAR-OLD round-cheeked face from cover Image2, full warm cheeks, softly full/chubby middle-aged build, short neck, brown eyes, dark brown hair noticeably streaked silver and pinned up. She must look different from the young slim Coris style reference. Real warm mature smile lines. Same age/build/face in all views.\nStory-correct outfit: a GREEN silk birthday gown, modest neckline with small seed pearls across bosom, sleeves ending at elbows, skirt cut a little clear of her shoes in FRONT to show green silk stockings, back hangs long, ROW OF SMALL COVERED BUTTONS down back. Practical modest dark shoes. No tiara, gold jewelry, armor or sorceress costume. Two complete isolated full-body views, front three-quarter and back three-quarter to show stockings and back buttons; all silhouettes unclipped. Right-column heads of same round face labelled \"Host\" and \"Small whistle\": second has slightly puffed chest/pursed lips attempting a tiny whistle, charmingly deliberate performance, not magic. Bottom: isolated narrow glass scent bottle with a VIOLET GLASS FOOT and small stopper, label \"Scent\"; pearl/green silk fold detail label \"Pearls and silk\". No flowers, perfume plume, visible green magic, song characters, piano, furniture or scenery.\nCandlelit evening performance: low soft amber illumination on the near-side cheek and upper green sleeve, substantial dark green and plum-brown connected shadows. Ivory paper brighter than most of figure. Maintain subdued candle values from Image3 without drawing candles/room. Actual cover is identity ONLY: replace its photoreal gloss and false green throat glow with broad matte oil facial planes. Paint on silk follows long folds; seed pearls sparse not glittery dots. Distinguish cheek masses from Lavinia's narrow face. No paint swatches or palette strips.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:28:25.026593+00:00",
+            "prompt": "Character reference folio, exact heading \"Clorinda\" with \"A Note of Spite\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nPreserve Clorinda's recognizable FIFTY-YEAR-OLD round-cheeked face from cover Image2, full warm cheeks, softly full/chubby middle-aged build, short neck, brown eyes, dark brown hair noticeably streaked silver and pinned up. She must look different from the young slim Coris style reference. Real warm mature smile lines. Same age/build/face in all views.\nStory-correct outfit: a GREEN silk birthday gown, modest neckline with small seed pearls across bosom, sleeves ending at elbows, skirt cut a little clear of her shoes in FRONT to show green silk stockings, back hangs long, ROW OF SMALL COVERED BUTTONS down back. Practical modest dark shoes. No tiara, gold jewelry, armor or sorceress costume. Two complete isolated full-body views, front three-quarter and back three-quarter to show stockings and back buttons; all silhouettes unclipped. Right-column heads of same round face labelled \"Host\" and \"Small whistle\": second has slightly puffed chest/pursed lips attempting a tiny whistle, charmingly deliberate performance, not magic. Bottom: isolated narrow glass scent bottle with a VIOLET GLASS FOOT and small stopper, label \"Scent\"; pearl/green silk fold detail label \"Pearls and silk\". No flowers, perfume plume, visible green magic, song characters, piano, furniture or scenery.\nCandlelit evening performance: low soft amber illumination on the near-side cheek and upper green sleeve, substantial dark green and plum-brown connected shadows. Ivory paper brighter than most of figure. Maintain subdued candle values from Image3 without drawing candles/room. Actual cover is identity ONLY: replace its photoreal gloss and false green throat glow with broad matte oil facial planes. Paint on silk follows long folds; seed pearls sparse not glittery dots. Distinguish cheek masses from Lavinia's narrow face. No paint swatches or palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and ivory presentation style only",
+                "inspected": true,
+                "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/title-image.jpg",
+                "role": "Clorinda identity only",
+                "inspected": true,
+                "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+                "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+                "role": "candlelight and oil-paint palette only",
+                "inspected": true,
+                "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+                "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-e487c1aa-6b7c-43f4-b21c-bdda5de83262.png",
+            "outputSha256": "2d4de600a9a3b92c8fc41e02797e0b846dc3c9dc508fb880b306ebdfba1b4f4a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:31:42.264637+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and ivory presentation style only",
+            "inspected": true,
+            "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/title-image.jpg",
+            "role": "Clorinda identity only",
+            "inspected": true,
+            "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+            "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "candlelight and oil-paint palette only",
+            "inspected": true,
+            "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:31:42.264667+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "2d4de600a9a3b92c8fc41e02797e0b846dc3c9dc508fb880b306ebdfba1b4f4a",
+        "sourceSha256": "ae94736b548830315f65adaf1708054587ab9b9b00d0232e764ce51849fc15e8",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and ivory presentation style only",
+            "inspected": true,
+            "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/title-image.jpg",
+            "role": "Clorinda identity only",
+            "inspected": true,
+            "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+            "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "candlelight and oil-paint palette only",
+            "inspected": true,
+            "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+          }
+        ],
+        "evidence": [
+          "Actual image inspected: consistent round-cheeked fifty-year-old Clorinda, gray-streaked pinned hair and warm mature facial identity preserved from cover, distinct from narrow-faced Lavinia.",
+          "Two unclipped human views preserve green elbow-sleeved gown, stockings, small back covered buttons and seed pearls; same body proportions and face in host/whistle details.",
+          "Narrow violet-foot perfume bottle and silk/pearl study are source-supported. No fragrance glow, soldier costume, song creature, setting or swatches.",
+          "Deep green dress carries broad connected dark masses and subdued amber highlights; mature face retains painted planes and matte texture. Exact name/title and labels readable."
+        ],
+        "specificationSha256": "11fa9c5c05aea3ac32a5b640904a0fed68e2ac70f5aa91b64d04a454b5809be4"
+      },
+      "lighting": "Evening candlelit birthday performance, muted warm amber skin/silk planes and deep subdued green/plum-brown shadows, no throat glow.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Clorinda"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "2d4de600a9a3b92c8fc41e02797e0b846dc3c9dc508fb880b306ebdfba1b4f4a"
+    },
+    {
+      "id": "orris-fenner",
+      "name": "Orris Fenner",
+      "role": "Art-named pianist; Clorinda's musical partner",
+      "selectionEvidence": [
+        {
+          "quote": "He was an old man in a brown coat",
+          "line": 253,
+          "explanation": "Sustained accompanist and rehearsal partner."
+        },
+        {
+          "quote": "letting the piano carry the high notes over her",
+          "line": 271,
+          "explanation": "Their prepared arrangement changes climax."
+        }
+      ],
+      "form": "human",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs",
+        "proportions": "Natural adult proportions",
+        "markings": "No permanent marks specified",
+        "materials": "Skin, hair, cloth",
+        "scale": "Human scale",
+        "movement": "Precise pianist's hand gestures; attentive nods and final laugh",
+        "distinctiveFeatures": "Only one functioning eye; black patch over other",
+        "lifeStage": "Old man; exact age unspecified",
+        "clothing": "Brown coat",
+        "equipment": "Black eye patch over one eye; printed music pages"
+      },
+      "explicitCanon": [
+        "Finished story facts (non-canon source): Old man; exact age unspecified; Brown coat; Black eye patch over one eye; printed music pages; Precise pianist's hand gestures; attentive nods and final laugh; Only one functioning eye; black patch over other"
+      ],
+      "visualInterpretation": [
+        "User-authorized art name Orris Fenner for source-unnamed pianist; not a canon rename.",
+        "Interpret patched left eye, gray thinning hair, lined warm face, cream shirt and dark waistcoat/trousers under brown coat. Fixed laterality across views.",
+        "Isolated musical hands and folio allowed; no full piano or furniture because character-only format."
+      ],
+      "states": [
+        {
+          "name": "attentive",
+          "description": "Listens and nods."
+        },
+        {
+          "name": "amused",
+          "description": "Brief warm laugh after performance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-note-of-spite:orris-fenner",
+        "links": [],
+        "evidence": "No matching authoritative recurring identity found; no name-only identity merge."
+      },
+      "references": [
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil and ivory presentation style only",
+          "inspected": true,
+          "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-note-of-spite/title-image.jpg",
+          "role": "Clorinda identity only",
+          "inspected": true,
+          "notes": "Middle-aged rounded face, dark pinned hair streaked gray, green pearl dress, violet-foot scent bottle. Photoreal rendering and green glow are not carried forward.",
+          "sha256": "f572c360b5fe3386defe11860fe6e4658fb9d6c4f3fa567c953bf313cac42334"
+        },
+        {
+          "path": "stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+          "role": "candlelight and oil-paint palette only",
+          "inspected": true,
+          "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+          "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+        }
+      ],
+      "blockers": [],
+      "output": "stories/a-note-of-spite/art/characters/orris-fenner.png",
+      "status": "completed",
+      "generation": {
+        "prompt": "Character folio heading exactly \"Orris Fenner\" and \"A Note of Spite\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nOrris Fenner is the art name assigned to source's unnamed old pianist. A distinct OLD MAN around seventy-five (exact age interpretation), modest slightly stooped spare build, balding top with short soft gray hair around sides, long lined face, thin gray mustache, only his RIGHT brown eye visible. Plain black eye patch covers his anatomical LEFT eye, narrow strap consistently round head. No scar, disfigurement or magical feature. Brown wool coat, worn charcoal waistcoat and trousers, warm cream shirt, unshowy dark cravat and dark shoes: coat and patch source facts; restrained other clothing fits candlelit carriage-era party. No uniform or medals.\nTwo isolated complete unclipped body views front three-quarter and back three-quarter, identical clothes/patch laterality/hair/build. Holds a thin closed sheet-music folio, relaxed useful hands. Right-column same aged head \"Listening\" and \"Amused\", genuine quiet smile. Bottom one pair of naturally curved pianist's hands labelled \"Hands\" and isolated black eye patch/strap labelled \"Eye patch\". NO piano, keys, stool or furniture, no scenery. The musical hands are an anatomical study; exactly five fingers per hand, no extra limb. No sheet music notes need readable text.\nEvening candlelit values from second reference: subdued warm light on one side of mature face and fingers, deep connected plum-brown coat shadows and some lost edges. Brown coat and skin look matte, never orange rim glow or daylight. Facial age-lines expressed with BROAD connected painted planes, no crisp photoreal old-man face; simplify hair and wool as decisive bristle strokes. Preserve same man between all views. No palette strip.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:31:43.316075+00:00",
+            "prompt": "Character folio heading exactly \"Orris Fenner\" and \"A Note of Spite\". Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose.\nOrris Fenner is the art name assigned to source's unnamed old pianist. A distinct OLD MAN around seventy-five (exact age interpretation), modest slightly stooped spare build, balding top with short soft gray hair around sides, long lined face, thin gray mustache, only his RIGHT brown eye visible. Plain black eye patch covers his anatomical LEFT eye, narrow strap consistently round head. No scar, disfigurement or magical feature. Brown wool coat, worn charcoal waistcoat and trousers, warm cream shirt, unshowy dark cravat and dark shoes: coat and patch source facts; restrained other clothing fits candlelit carriage-era party. No uniform or medals.\nTwo isolated complete unclipped body views front three-quarter and back three-quarter, identical clothes/patch laterality/hair/build. Holds a thin closed sheet-music folio, relaxed useful hands. Right-column same aged head \"Listening\" and \"Amused\", genuine quiet smile. Bottom one pair of naturally curved pianist's hands labelled \"Hands\" and isolated black eye patch/strap labelled \"Eye patch\". NO piano, keys, stool or furniture, no scenery. The musical hands are an anatomical study; exactly five fingers per hand, no extra limb. No sheet music notes need readable text.\nEvening candlelit values from second reference: subdued warm light on one side of mature face and fingers, deep connected plum-brown coat shadows and some lost edges. Brown coat and skin look matte, never orange rim glow or daylight. Facial age-lines expressed with BROAD connected painted planes, no crisp photoreal old-man face; simplify hair and wool as decisive bristle strokes. Preserve same man between all views. No palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil and ivory presentation style only",
+                "inspected": true,
+                "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+                "role": "candlelight and oil-paint palette only",
+                "inspected": true,
+                "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+                "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-4eee6987-35c5-4483-b879-191b0af800ae.png",
+            "outputSha256": "8cecebd7e92b5550b8ef616c2082648109eb9c20be8e7b3058e89e8bcbbfa40c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:34:48.093258+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and ivory presentation style only",
+            "inspected": true,
+            "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "candlelight and oil-paint palette only",
+            "inspected": true,
+            "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:34:48.093280+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "8cecebd7e92b5550b8ef616c2082648109eb9c20be8e7b3058e89e8bcbbfa40c",
+        "sourceSha256": "ae94736b548830315f65adaf1708054587ab9b9b00d0232e764ce51849fc15e8",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil and ivory presentation style only",
+            "inspected": true,
+            "notes": "Broad painted face and fabric, isolated views, no scenery or swatches.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-note-of-spite/art/interiors/02-drawing-room-piano.png",
+            "role": "candlelight and oil-paint palette only",
+            "inspected": true,
+            "notes": "Low amber candles with subdued violet/plum shadow masses; no room or piano scenery in character sheets.",
+            "sha256": "293299aadc07e327be8b0a72aaedf8dc82f1b88a9c87dde7e76295d6e342e934"
+          }
+        ],
+        "evidence": [
+          "Actual image inspected: old male pianist retains consistent balding gray hair, lined face, gray mustache, spare build and black patch over anatomical left eye across all views.",
+          "Two complete human views, intact shoes/hair, natural hands, brown coat and sheet-music folio; useful isolated hands and patch without piano/furniture.",
+          "Readable art name Orris Fenner and exact story title; name provenance explicitly separate from source's unnamed role. No swatches or scenic backdrop.",
+          "Subdued warm near-side planes and deep brown/charcoal coat masses, broad matte oil on mature face and hands as on cloth; patch opaque black, no glowing eye."
+        ],
+        "specificationSha256": "ca95b361895574b6096a9a7c7794c316f53e7e3a653fbafd1ec1b95ec4034dec"
+      },
+      "lighting": "Evening candlelit party: limited warm face/hand planes, quiet brown-violet shadows, dark coat edges partly lost; no daylight or eye glint.",
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "name": "Orris Fenner",
+        "sourceName": null,
+        "sourceRole": "unnamed old pianist",
+        "scope": "Visual-art identity only; source prose and canon unchanged.",
+        "collisionCheck": "Exact name absent from repository text search before generation."
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "8cecebd7e92b5550b8ef616c2082648109eb9c20be8e7b3058e89e8bcbbfa40c"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "ae94736b548830315f65adaf1708054587ab9b9b00d0232e764ce51849fc15e8",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
