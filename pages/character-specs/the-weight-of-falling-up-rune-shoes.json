@@ -55,28 +55,16 @@
         "type": "source",
         "sourceName": "Juni Wex"
       },
-      "status": "deferred",
+      "status": "completed",
       "output": "stories/the-weight-of-falling-up-rune-shoes/art/characters/juni-wex.png",
       "generation": {
-        "prompt": "Create a FRESH NEW COMPOSITION for this Juni Wex identity. FIRST TWO oil paintings control all paint structure; LAST reference supplies only dark wavy hair, light olive skin, blue-gold coat and cream clothes, NEVER anime rendering, pose or erroneous circular sole symbols. Landscape1536x1024 LIGHT IVORY folio. Exact heading \"Juni Wex\"; exact subtitle \"The Weight of Falling Up\". Two COMPLETE STANDING full-body views left and centre, FRONT and BACK, feet/hair fully inside clear margins. One modest SMALL head study upper right with natural teenage facial proportions, small eyes painted as quiet dark socket/lid marks; broad connected opaque brow/cheek/nose planes, no thin black eyelash contours, anime eye shapes or smooth porcelain face. Keep youthful androgynous apprentice apparent17, black wavy collar-length hair, blue coat with modest gold edge, cream shirt, pale grey trousers, dark stockings, ordinary scuffed brown LACE-UP SHOES. One slender ordinary black INK STYLUS with small BLUNT NIB in standing hand, not a dagger/blade, no duplicate pen. Lower right: clear SAME PAIR OF SHOES in heel/sole-up equipment view. Each shoe's black wind mark is a SIMPLE THREE-STROKE CURL wrapping from heel around the UNDERSIDE toward the arch, no circle or seal; the RIGHT shoe additionally bears a shallow SMALL THREE-POINT CROWN drawn DIRECTLY ABOVE its heel curl, part of ink drawing. Exactly three points. Do not show flight pose, jets, flying crown or circular sigils. These are ordinary shoes on which the student drew ink. Labels only \"Wind curl\" and \"Three-breath crown\". Broad calm matte bristle masses throughout, varied sparse impasto; no repeated shiny chips. Every outside pixel/light ground IVORY, no contact shadows, floor, location, swatches or other people.",
+        "prompt": "Edit ONLY the two small shoe-sole diagrams at lower right in the attached Juni Wex reference folio. Keep Juni's full views, face, ink stylus, clothes, exact readable name and story title, oil rendering, ivory opaque background and all other layout unchanged.\nThe sole diagrams currently put black marks near the TOES. Erase those forefoot marks. The story instead has a BLACK THREE-STROKE WIND CURL beginning on the underside of each HEEL and curving forward toward the ARCH. Put a small 3-stroke curl centered across the lower heel-to-arch area of each diagram. Put a separate shallow THREE-POINT CROWN just above the HEEL on the RIGHT-shoe diagram only. Move the two labels/arrows to point unambiguously to these lower heel/arch marks. The toe/ball portions at the top of each sole must now be blank scuffed leather. Thin ordinary hand-drawn black ink strokes, not carved/emissive symbols. Keep shoes ordinary scuffed brown leather, no automatic magic, no flight effects. Fully opaque ivory 1536x1024 canvas.",
         "references": [
           {
-            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
-            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
-            "inspected": true,
-            "role": "Inspected broad connected oil style only, no landscape."
-          },
-          {
-            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
-            "sha256": "2ba83a44c521c7bcec01e08cfb442d5a76ce45777dd13b0e36de7395f7864913",
-            "inspected": true,
-            "role": "Inspected broad connected oil style only, no landscape."
-          },
-          {
-            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-78dddcff-22f9-4c19-8d33-e5d6572d3691.png",
-            "sha256": "ac6c4372327b00b95f60e3bf570984e902cb3e70d03f37cda818d82dbcdca80d",
-            "inspected": true,
-            "role": "Immutable inspected candidate for named correction/identity only."
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-e9c2889f-2088-4856-88a9-a2e9b31e58e6.png",
+            "role": "Actual reviewed folio: preserve successful character and rendering, correct only observed sole symbol placement.",
+            "sha256": "60a50aef7f54061d9362b3ec780bedb5574dd20b845f27948c478e737a92ecc8",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -183,16 +171,93 @@
             "preflight": "After actual pixel/source comparison: exact text-only correction for Anouk; Juni diagnosis requires changed composition to remove conflicting cover cues. No hand anatomy correction/studies. All actual useful inputs inspected.",
             "startedAt": "2026-09-24T13:00:08.327596+00:00",
             "toolInvoked": false
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T15:09:31.589629+00:00",
+            "prompt": "Create a FRESH NEW COMPOSITION for this Juni Wex identity. FIRST TWO oil paintings control all paint structure; THIRD image is only natural painted face/eye construction and ivory presentation, never its identity, hairstyle, skin tone or clothing. Subject identity is specified below. Landscape1536x1024 LIGHT IVORY folio. Exact heading \"Juni Wex\"; exact subtitle \"The Weight of Falling Up\". Two COMPLETE STANDING full-body views left and centre, FRONT and BACK, feet/hair fully inside clear margins. One modest SMALL head study upper right with natural teenage facial proportions, small eyes painted as quiet dark socket/lid marks; broad connected opaque brow/cheek/nose planes, no thin black eyelash contours, anime eye shapes or smooth porcelain face. Keep youthful androgynous apprentice apparent17, black wavy collar-length hair, blue coat with modest gold edge, cream shirt, pale grey trousers, dark stockings, ordinary scuffed brown LACE-UP SHOES. One slender ordinary black INK STYLUS with small BLUNT NIB in standing hand, not a dagger/blade, no duplicate pen. Lower right: clear SAME PAIR OF SHOES in heel/sole-up equipment view. Each shoe's black wind mark is a SIMPLE THREE-STROKE CURL wrapping from heel around the UNDERSIDE toward the arch, no circle or seal; the RIGHT shoe additionally bears a shallow SMALL THREE-POINT CROWN drawn DIRECTLY ABOVE its heel curl, part of ink drawing. Exactly three points. Do not show flight pose, jets, flying crown or circular sigils. These are ordinary shoes on which the student drew ink. Labels only \"Wind curl\" and \"Three-breath crown\". Broad calm matte bristle masses throughout, varied sparse impasto; no repeated shiny chips. OPAQUE solid warm light IVORY ground across entire canvas, including all gaps, no contact shadows, floor, location, swatches or other people.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "Inspected broad connected oil style only, no landscape."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
+                "sha256": "2ba83a44c521c7bcec01e08cfb442d5a76ce45777dd13b0e36de7395f7864913",
+                "inspected": true,
+                "role": "Inspected broad connected oil style only, no landscape."
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural human face/eye planes in oil, ivory presentation only; do not transfer identity, age or clothes.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read finished source fully, inspected saved candidate and selected oil references. Anouk requires exact subtitle only; Juni failed due to anime/incorrect flight sigils, so new non-flying composition and no defective target as rendering input. Stable source costume/ordinary shoes/cuff stylus and source heel-curl/right-crown mechanics retained. No isolated hand studies.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-e9c2889f-2088-4856-88a9-a2e9b31e58e6.png",
+            "candidateSha256": "60a50aef7f54061d9362b3ec780bedb5574dd20b845f27948c478e737a92ecc8",
+            "reviewedAt": "2026-09-24T15:19:35.253889+00:00",
+            "findings": [
+              "Natural teen face, source costume, ink stylus and ordinary shoes now correct. Root observed sole detail positions both curl and crown in forefoot, while prose locates curl around heel toward arch and crown just above right heel. Correct small shoe diagram only."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:19:36.392631+00:00",
+            "prompt": "Edit ONLY the two small shoe-sole diagrams at lower right in the attached Juni Wex reference folio. Keep Juni's full views, face, ink stylus, clothes, exact readable name and story title, oil rendering, ivory opaque background and all other layout unchanged.\nThe sole diagrams currently put black marks near the TOES. Erase those forefoot marks. The story instead has a BLACK THREE-STROKE WIND CURL beginning on the underside of each HEEL and curving forward toward the ARCH. Put a small 3-stroke curl centered across the lower heel-to-arch area of each diagram. Put a separate shallow THREE-POINT CROWN just above the HEEL on the RIGHT-shoe diagram only. Move the two labels/arrows to point unambiguously to these lower heel/arch marks. The toe/ball portions at the top of each sole must now be blank scuffed leather. Thin ordinary hand-drawn black ink strokes, not carved/emissive symbols. Keep shoes ordinary scuffed brown leather, no automatic magic, no flight effects. Fully opaque ivory 1536x1024 canvas.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-e9c2889f-2088-4856-88a9-a2e9b31e58e6.png",
+                "role": "Actual reviewed folio: preserve successful character and rendering, correct only observed sole symbol placement.",
+                "sha256": "60a50aef7f54061d9362b3ec780bedb5574dd20b845f27948c478e737a92ecc8",
+                "inspected": true
+              }
+            ],
+            "preflight": "Finished source read fully; returned diagram explicitly showed symbols on forefeet contrary to heel/arch source. Narrow equipment correction, no anatomy/hand studies or reinterpretation.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-2fd38a9f-e546-4433-addb-5e4d9942f669.png",
+            "candidateSha256": "23d3a56e6a56ada4bd4ccb3d25b90242a9541120c4ad4df6c3320117d406367c",
+            "reviewedAt": "2026-09-24T15:27:43.492929+00:00",
+            "findings": [
+              "Root inspected actual saved image: source three-stroke curl now starts at heels toward arches, optional three-point crown at right heel, blank forefoot. Natural youthful face and ordinary clothing/stylus/shoes preserved; exact name/title, opaque ivory, full unclipped forms, matte oil."
+            ]
           }
-        ]
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "selectedAttempt": 5
       },
       "preflight": {
         "status": "PASS",
         "evidence": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs."
       },
       "validation": {
-        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
-      }
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:27:43.498090+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual saved image: source three-stroke curl now starts at heels toward arches, optional three-point crown at right heel, blank forefoot. Natural youthful face and ordinary clothing/stylus/shoes preserved; exact name/title, opaque ivory, full unclipped forms, matte oil."
+        ],
+        "sourceSha256": "56aa71cf465347cafd8b4feb5fbeb88cfdde37de4de7613cb43e1d4f8e812e67",
+        "outputSha256": "23d3a56e6a56ada4bd4ccb3d25b90242a9541120c4ad4df6c3320117d406367c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-e9c2889f-2088-4856-88a9-a2e9b31e58e6.png",
+            "role": "Actual reviewed folio: preserve successful character and rendering, correct only observed sole symbol placement.",
+            "sha256": "60a50aef7f54061d9362b3ec780bedb5574dd20b845f27948c478e737a92ecc8",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "de2f5d6a88dc94f97aaed8fed9485b3172dc23993de945967a66cd3d8d003a45"
+      },
+      "outputSha256": "23d3a56e6a56ada4bd4ccb3d25b90242a9541120c4ad4df6c3320117d406367c",
+      "blockers": []
     },
     {
       "id": "examiner-dovek",
