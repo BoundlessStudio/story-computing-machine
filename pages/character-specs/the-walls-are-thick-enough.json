@@ -1,0 +1,591 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-walls-are-thick-enough",
+  "title": "The Walls Are Thick Enough",
+  "source": "stories/the-walls-are-thick-enough/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final prose/prompt read. Four named main adults with source-exact ages34/39/51/58. Original restored and inspected. Neutral fully clothed final public states chosen, no intimate scene/adaptation; all art-only details distinguish gaps from source.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Guards, officials, escort, tribunal",
+      "reason": "Brief supporting people and groups."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+      "sha256": "e1188388d8df90feeb2312e71b0d32b8c86fd1939d9edfbe8c191bec6592f9ba",
+      "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+      "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+      "line": 623,
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+      "inspected": true,
+      "method": "Original exact PNG bytes restored from archived user image; actual pixels inspected."
+    }
+  ],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tazri-solun",
+      "name": "Tazri Solun",
+      "role": "Thirty-four-year-old duchess/bride who files petition and chooses confinement.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Tazri was thirty-four, Jaseth thirty-nine.",
+          "explanation": "Thirty-four-year-old duchess/bride who files petition and chooses confinement."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Exactly34, pearl slippers, hairpins, finaldawn refuses replacementveil, petitionduplicate; jeweled clasp lies beside paper rather than worn."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Original profile anchors warm olive skin/dark hair/narrow straight nose; art fullface consistent brown eyes, dark partly pinned waves. Selected final dawn fully opaque tied ivory under-robe with full sleeves, no veil and no wearing clasp."
+      ],
+      "states": [
+        {
+          "name": "At dawn",
+          "description": "Exactly34, pearl slippers, hairpins, finaldawn refuses replacementveil, petitionduplicate; jeweled clasp lies beside paper rather than worn."
+        }
+      ],
+      "lighting": "Dawn outside the guarded north-wing meeting, ordinary low warm window light and cool shadow, ivory support.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Tazri Solun"
+      },
+      "status": "completed",
+      "output": "stories/the-walls-are-thick-enough/art/characters/tazri-solun.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Tazri Solun; exact subtitle The Walls Are Thick Enough. ONE adult WOMAN exactly34. Preserve original woman's warm OLIVE skin, dark BLACK pinned hair, narrow straight nose and strong elegant profile; brown eyes and grown adult proportions, no glamour face. Main state is FINAL DAWN when she has REFUSED replacement veil: wear a FULLY OPAQUE, closed/tied IVORY long-sleeved full-length under-robe and pearl slippers. NO transparent veil, no visible chest/legs, no sheer fabric; whole body comfortably clothed. Hair partly pinned but orderly, determined tired expression. Hold duplicate petition with GREEN WAX SEAL; jeweled hip clasp appears ONLY as isolated small object next to seal detail, never attached to body at dawn. No crown needed. Two complete front/rear full-body clothed views, one expressive head and useful hand/prop detail. Exact state label At dawn. Low warm DAWN window light and cool connected shadows. Uniform LIGHT IVORY to every edge. No bedroom/garden/furniture, other body, nudity or intimate pose; a neutral character design folio.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+            "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+            "inspected": true,
+            "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "displayName": "codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+            "sha256": "e1188388d8df90feeb2312e71b0d32b8c86fd1939d9edfbe8c191bec6592f9ba",
+            "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+            "line": 623,
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+            "inspected": true,
+            "method": "Original exact PNG bytes restored from archived user image; actual pixels inspected.",
+            "role": "Original Tazri profile/skin/dark hair identity ONLY. Selected final dawn overrides transparent veil/costume/pose; no original scenery or photoreal style."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Tazri Solun; exact subtitle The Walls Are Thick Enough. ONE adult WOMAN exactly34. Preserve original woman's warm OLIVE skin, dark BLACK pinned hair, narrow straight nose and strong elegant profile; brown eyes and grown adult proportions, no glamour face. Main state is FINAL DAWN when she has REFUSED replacement veil: wear a FULLY OPAQUE, closed/tied IVORY long-sleeved full-length under-robe and pearl slippers. NO transparent veil, no visible chest/legs, no sheer fabric; whole body comfortably clothed. Hair partly pinned but orderly, determined tired expression. Hold duplicate petition with GREEN WAX SEAL; jeweled hip clasp appears ONLY as isolated small object next to seal detail, never attached to body at dawn. No crown needed. Two complete front/rear full-body clothed views, one expressive head and useful hand/prop detail. Exact state label At dawn. Low warm DAWN window light and cool connected shadows. Uniform LIGHT IVORY to every edge. No bedroom/garden/furniture, other body, nudity or intimate pose; a neutral character design folio.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+                "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+                "inspected": true,
+                "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "displayName": "codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+                "sha256": "e1188388d8df90feeb2312e71b0d32b8c86fd1939d9edfbe8c191bec6592f9ba",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+                "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+                "line": 623,
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+                "inspected": true,
+                "method": "Original exact PNG bytes restored from archived user image; actual pixels inspected.",
+                "role": "Original Tazri profile/skin/dark hair identity ONLY. Selected final dawn overrides transparent veil/costume/pose; no original scenery or photoreal style."
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.071562+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-36b78bb1-2d84-49dc-8b9d-ec41c98a4c41.png",
+            "outputSha256": "42676e85b2fc2c4f07f14a1289a75630769a41a83aa8ca354af10427e4180f42",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:23:24.280312+00:00",
+            "generatorReview": "Actual pixels inspected against recoveredoriginal/profile and finaldawn prose: adult34 warmolive woman darkhair, noheadveil; closed opaque ivory longrobe/slippers, greenwax petition, jeweled clasp separate notworn. Fullyclothed neutralpublic state, no sheer/nightstateconfusion. Anatomy/hands/face consistent across views, gowns/foot margins intact, dawn matteoils/ivory headings."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "42676e85b2fc2c4f07f14a1289a75630769a41a83aa8ca354af10427e4180f42",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:23:24.280312+00:00",
+        "sourceSha256": "73bd3283e16e650819d6f48dbd7c71f4908d145e94df7e277662bac79beafb6f",
+        "outputSha256": "42676e85b2fc2c4f07f14a1289a75630769a41a83aa8ca354af10427e4180f42",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+            "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+            "inspected": true,
+            "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "displayName": "codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+            "sha256": "e1188388d8df90feeb2312e71b0d32b8c86fd1939d9edfbe8c191bec6592f9ba",
+            "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+            "line": 623,
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-cd5b8065-7f0f-4bb7-b980-dae990f37f0f.png",
+            "inspected": true,
+            "method": "Original exact PNG bytes restored from archived user image; actual pixels inspected.",
+            "role": "Original Tazri profile/skin/dark hair identity ONLY. Selected final dawn overrides transparent veil/costume/pose; no original scenery or photoreal style."
+          }
+        ],
+        "evidence": "Actual pixels inspected against recoveredoriginal/profile and finaldawn prose: adult34 warmolive woman darkhair, noheadveil; closed opaque ivory longrobe/slippers, greenwax petition, jeweled clasp separate notworn. Fullyclothed neutralpublic state, no sheer/nightstateconfusion. Anatomy/hands/face consistent across views, gowns/foot margins intact, dawn matteoils/ivory headings.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "aaa9b8bf74fdacd9fd469d78af0f093c74578ee89b5ecbb2c4c2240399944a98"
+      }
+    },
+    {
+      "id": "jaseth-varo",
+      "name": "Jaseth Varo",
+      "role": "Thirty-nine-year-old treaty notary who carries petition/register and chooses his own departure.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Tazri was thirty-four, Jaseth thirty-nine.",
+          "explanation": "Thirty-nine-year-old treaty notary who carries petition/register and chooses his own departure."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Exactly39, dark coat, shirt/horn buttons, trousers, oilskin documentwallet UNDERcoat, diplomatic key; selectedafterdressing eveningdeparture."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only warm tan skin, long angular face, short dark side-parted hair and stubble, brown eyes, lean ordinary frame; dark brown formalcoat greyshirt/slatetrousers blackboots."
+      ],
+      "states": [
+        {
+          "name": "Departure",
+          "description": "Exactly39, dark coat, shirt/horn buttons, trousers, oilskin documentwallet UNDERcoat, diplomatic key; selectedafterdressing eveningdeparture."
+        }
+      ],
+      "lighting": "Blue evening court and restrained warm practical doorlight, face partly shadowed, no dawn because departing before moonset.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Jaseth Varo"
+      },
+      "status": "completed",
+      "output": "stories/the-walls-are-thick-enough/art/characters/jaseth-varo.png",
+      "generation": {
+        "prompt": "Relight ONLY Jaseth Varo character/hand pixels in this sheet to his BLUE EVENING departure. Keep ivorybackground, text, exactage39face/nose/hair/stubble, darkcoat closedgrayshirt/slatetrousers/boots, separate wallet/key and allposes exactly. Night faces cannot stay fully exposed: paint large connected DEEP BLUE-VIOLET/UMBER SHADOW mass over far cheek, eye socket, neck and most forehead in front and portrait. Just a narrow quiet warm doorwaylamp patch on nearestcheek/noseridge; hands similarly dark except limited litplanes. Most coat almost darkwith few mutedbluefolds. Do not add glowyellowhairrims or scattergoldflecks, no sunlight. Paintededges staymatte and connected. Background remains clean LIGHT IVORY. No newprops or scenery.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8d5a14ea-7a41-4214-8645-f30d1e7d7c6d.png",
+            "sha256": "e52d05a809361cc60e817c7bea4d36812681ee26562997036ea411dc39e7c1b9",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Jaseth Varo; exact subtitle The Walls Are Thick Enough. ONE adult MAN exactly39, warm TAN skin, LONG ANGULAR face, short DARK side-parted hair, faint stubble, brown eyes, lean ordinary frame. Properly DRESSED dark BROWN formal coat, closed grey shirt with plain horn buttons, slate trousers and black boots. Oilskin DOCUMENT WALLET stays UNDER the coat; no large exposed external messenger bag. Show only separate hand/object detail of the flat wallet containing papers and ordinary DIPLOMATIC KEY. No weapon/armour or scene. Quiet tense resolved expression. Two complete front/rear body views and one head. Exact state label Departure. BLUE EVENING ambient with limited warm doorway lamp-facing planes, deep connected dark shadows on opposite face/body. Uniform LIGHT IVORY; no door, court, other person, sensual pose or unclothed body.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-walls-are-thick-enough/art/interiors/01-the-warming-room.png",
+                "role": "Actual inspected warming-room practical paint accents only; selected departure is later blue evening, not broad sunset exposure.",
+                "inspected": true,
+                "sha256": "aeb03524d3d925227b825fedd134dcccd63797bd8574d6185097261280dad634"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.072679+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8d5a14ea-7a41-4214-8645-f30d1e7d7c6d.png",
+            "outputSha256": "e52d05a809361cc60e817c7bea4d36812681ee26562997036ea411dc39e7c1b9",
+            "generatorReview": "Identity/outfit/hidden wallet/props pass. Source departure is blue evening with limited doorway practical; current face/front body is overexposed. Relight limited face planes only, preserve ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:18:29.642226+00:00",
+            "prompt": "Relight ONLY Jaseth Varo character/hand pixels in this sheet to his BLUE EVENING departure. Keep ivorybackground, text, exactage39face/nose/hair/stubble, darkcoat closedgrayshirt/slatetrousers/boots, separate wallet/key and allposes exactly. Night faces cannot stay fully exposed: paint large connected DEEP BLUE-VIOLET/UMBER SHADOW mass over far cheek, eye socket, neck and most forehead in front and portrait. Just a narrow quiet warm doorwaylamp patch on nearestcheek/noseridge; hands similarly dark except limited litplanes. Most coat almost darkwith few mutedbluefolds. Do not add glowyellowhairrims or scattergoldflecks, no sunlight. Paintededges staymatte and connected. Background remains clean LIGHT IVORY. No newprops or scenery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8d5a14ea-7a41-4214-8645-f30d1e7d7c6d.png",
+                "sha256": "e52d05a809361cc60e817c7bea4d36812681ee26562997036ea411dc39e7c1b9",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/outfit/hidden wallet/props pass. Source departure is blue evening with limited doorway practical; current face/front body is overexposed. Relight limited face planes only, preserve ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-0cb31fbf-c311-4e80-8d51-06120ea2d205.png",
+            "outputSha256": "b0e3a51ca41d90c716c0b552c20929c23d9940320c18e9043c8551567d10eba5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:31.130774+00:00",
+            "generatorReview": "Actual pixels inspected: source adult Jaseth identity/long dark coat and mundane diplomat equipment consistent across front/rear/head. Departure evening now has deep connected cool shadow planes with small warm lamp-facing light, with ivory support preserved. Hidden carried wallet represented separately as detail with papers; no new powers, full anatomy/framing/text/oil rendering pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "b0e3a51ca41d90c716c0b552c20929c23d9940320c18e9043c8551567d10eba5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:31.130774+00:00",
+        "sourceSha256": "73bd3283e16e650819d6f48dbd7c71f4908d145e94df7e277662bac79beafb6f",
+        "outputSha256": "b0e3a51ca41d90c716c0b552c20929c23d9940320c18e9043c8551567d10eba5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8d5a14ea-7a41-4214-8645-f30d1e7d7c6d.png",
+            "sha256": "e52d05a809361cc60e817c7bea4d36812681ee26562997036ea411dc39e7c1b9",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: source adult Jaseth identity/long dark coat and mundane diplomat equipment consistent across front/rear/head. Departure evening now has deep connected cool shadow planes with small warm lamp-facing light, with ivory support preserved. Hidden carried wallet represented separately as detail with papers; no new powers, full anatomy/framing/text/oil rendering pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "d516ab0dce09ef44caa5fe8a25fef8b0858c3729410a53e71c245b6a7e828660"
+      }
+    },
+    {
+      "id": "mireth",
+      "name": "Mireth",
+      "role": "Fifty-one-year-old chief attendant, witness and practical ally who is dismissed at dawn.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "At fifty-one, her chief attendant had perfected a cough",
+          "explanation": "Fifty-one-year-old chief attendant, witness and practical ally who is dismissed at dawn."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Exactly51, attendant practical cough/linen/pens, sealcase, finaltakescedarcase/dismissed. Appearance/clothing unspecified."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only medium-deep brown skin, square face, dark-and-grey braid pinned bun, dark eyes, solid build; muted burgundy modest highneck dress and grey utility apron with plain shoes."
+      ],
+      "states": [
+        {
+          "name": "At dawn",
+          "description": "Exactly51, attendant practical cough/linen/pens, sealcase, finaltakescedarcase/dismissed. Appearance/clothing unspecified."
+        }
+      ],
+      "lighting": "Dawn outside the guarded north-wing meeting, ordinary low warm window light and cool shadow, ivory support.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Mireth"
+      },
+      "status": "completed",
+      "output": "stories/the-walls-are-thick-enough/art/characters/mireth.png",
+      "generation": {
+        "prompt": "Change ONLY the entire blurred brownbackground and littlegroundshadows of this Mireth folio to UNIFORM LIGHT WARM IVORY all edges and gaps, exact heading Mireth subtitle The Walls Are Thick Enough readable in darkbrown. Keep figure/portrait/hand/prop pixels and dawnlight unchanged:51yearold facegraybraidbun burgundylongdress grayapron shoes pen and closedcedarsealcase, same brushpaint. No floorpatches/vignette/gradient/scenery/halo. No otherchange.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-23a7a6a6-6599-4208-a060-6ef7878cefa8.png",
+            "sha256": "414b54143563c49c539c550ad0fde1f7c4320931188da0741ecbde60cf41db80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Mireth; exact subtitle The Walls Are Thick Enough. ONE adult WOMAN exactly51, medium-deep BROWN skin, SQUARE lined face, dark-and-GREY hair tightly braided into bun, dark eyes, sturdy build. Modest high-neck BURGUNDY long-sleeved dress, grey practical apron and plain dark shoes. No servant caricature; dry composed perceptive expression. Holds narrow CEDAR SEAL CASE, handdetail with practical writing pen and closed case; no sexual props. Same consistent hair/age/body allviews. Two complete front/rear full-body clothed views, one expressive head and useful hand/prop detail. Exact state label At dawn. Low warm DAWN window light and cool connected shadows. Uniform LIGHT IVORY to every edge. No bedroom/garden/furniture, other body, nudity or intimate pose; a neutral character design folio.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+                "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+                "inspected": true,
+                "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.073678+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-23a7a6a6-6599-4208-a060-6ef7878cefa8.png",
+            "outputSha256": "414b54143563c49c539c550ad0fde1f7c4320931188da0741ecbde60cf41db80",
+            "generatorReview": "Source age51, face/bun/mature anatomy/modest dress/pen/cedar case and dawn pass; dark vignette and floor patches violate ivory and obscure name."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:18:29.646159+00:00",
+            "prompt": "Change ONLY the entire blurred brownbackground and littlegroundshadows of this Mireth folio to UNIFORM LIGHT WARM IVORY all edges and gaps, exact heading Mireth subtitle The Walls Are Thick Enough readable in darkbrown. Keep figure/portrait/hand/prop pixels and dawnlight unchanged:51yearold facegraybraidbun burgundylongdress grayapron shoes pen and closedcedarsealcase, same brushpaint. No floorpatches/vignette/gradient/scenery/halo. No otherchange.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-23a7a6a6-6599-4208-a060-6ef7878cefa8.png",
+                "sha256": "414b54143563c49c539c550ad0fde1f7c4320931188da0741ecbde60cf41db80",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Source age51, face/bun/mature anatomy/modest dress/pen/cedar case and dawn pass; dark vignette and floor patches violate ivory and obscure name.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-4ba368d3-416a-4e8b-893b-2e83d057b50e.png",
+            "outputSha256": "f5bbf02111409d966fecc3193e086fc783726080c73c54b9781f31b7fabbc916",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:31.156210+00:00",
+            "generatorReview": "Actual pixels inspected: consistent older woman with grey-streaked bun, burgundy dress and pale apron in front/rear/head, ordinary five-digit writing/cedar-case hands. Dawn lighting/source role preserved, uniform ivory restored with fully readable heading and complete silhouette. Matte broad opaque paint, exact name/title, no background pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "f5bbf02111409d966fecc3193e086fc783726080c73c54b9781f31b7fabbc916",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:31.156210+00:00",
+        "sourceSha256": "73bd3283e16e650819d6f48dbd7c71f4908d145e94df7e277662bac79beafb6f",
+        "outputSha256": "f5bbf02111409d966fecc3193e086fc783726080c73c54b9781f31b7fabbc916",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-23a7a6a6-6599-4208-a060-6ef7878cefa8.png",
+            "sha256": "414b54143563c49c539c550ad0fde1f7c4320931188da0741ecbde60cf41db80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent older woman with grey-streaked bun, burgundy dress and pale apron in front/rear/head, ordinary five-digit writing/cedar-case hands. Dawn lighting/source role preserved, uniform ivory restored with fully readable heading and complete silhouette. Matte broad opaque paint, exact name/title, no background pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c914b49e06a2ba0c56bdb7e5742f6005161a4e506f44fe87c60bfa9ca921bec4"
+      }
+    },
+    {
+      "id": "emperor-belisar",
+      "name": "Emperor Belisar",
+      "role": "Fifty-eight-year-old emperor/husband who orders household confinement and attendant dismissal.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "He was broad-bodied, silver at the temples, and perfectly rested.",
+          "explanation": "Fifty-eight-year-old emperor/husband who orders household confinement and attendant dismissal."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Exactly58, broad-bodied, silver temples, perfectlyrested emperor; no specified crown/costume."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only light warm skin, broad oval face/heavy jaw, sleek black hair silvertemples, clean-shaven, dark eyes; dark plum formalrobe with muted oldgold border, low unobtrusive goldcircletasartinterpretation."
+      ],
+      "states": [
+        {
+          "name": "At dawn",
+          "description": "Exactly58, broad-bodied, silver temples, perfectlyrested emperor; no specified crown/costume."
+        }
+      ],
+      "lighting": "Dawn outside the guarded north-wing meeting, ordinary low warm window light and cool shadow, ivory support.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Emperor Belisar"
+      },
+      "status": "completed",
+      "output": "stories/the-walls-are-thick-enough/art/characters/emperor-belisar.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Emperor Belisar; exact subtitle The Walls Are Thick Enough. ONE adult MAN exactly58, BROAD-BODIED, light warm skin, broad OVAL face with heavy jaw, neatly combed BLACK hair SILVER at temples, clean-shaven, dark eyes. Perfectly rested cool controlled expression. Formal dark PLUM full-length robe with restrained oldgold border, ordinary shoes, simple low gold circlet. One small hand held in precise administrative ordering gesture, no weapons or magic sceptre. No younger muscular heroic build, beast horns or overblown evil caricature. Two complete front/rear full-body clothed views, one expressive head and useful hand/prop detail. Exact state label At dawn. Low warm DAWN window light and cool connected shadows. Uniform LIGHT IVORY to every edge. No bedroom/garden/furniture, other body, nudity or intimate pose; a neutral character design folio.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+            "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+            "inspected": true,
+            "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Emperor Belisar; exact subtitle The Walls Are Thick Enough. ONE adult MAN exactly58, BROAD-BODIED, light warm skin, broad OVAL face with heavy jaw, neatly combed BLACK hair SILVER at temples, clean-shaven, dark eyes. Perfectly rested cool controlled expression. Formal dark PLUM full-length robe with restrained oldgold border, ordinary shoes, simple low gold circlet. One small hand held in precise administrative ordering gesture, no weapons or magic sceptre. No younger muscular heroic build, beast horns or overblown evil caricature. Two complete front/rear full-body clothed views, one expressive head and useful hand/prop detail. Exact state label At dawn. Low warm DAWN window light and cool connected shadows. Uniform LIGHT IVORY to every edge. No bedroom/garden/furniture, other body, nudity or intimate pose; a neutral character design folio.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+                "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+                "inspected": true,
+                "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.074697+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-06a50fc6-a504-4cb1-b757-5ff94522908d.png",
+            "outputSha256": "f3c2307ba005f1bef65821f427eb0ac84f09bdd03e998287b6819831382e8bcf",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:23:24.316165+00:00",
+            "generatorReview": "Actual pixels inspected: broad-bodied adult58 emperor with silvertemples, rested expression, plumformalrobe oldgoldedge lowcirclet and ordinary shoes. Front/rear/portrait consistent age and shape, natural hand/scroll study, dawnpublicstate with no intimate scene. Exactname/title readable, ivory/noenvironment, completefoot/body margins."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "f3c2307ba005f1bef65821f427eb0ac84f09bdd03e998287b6819831382e8bcf",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:23:24.316165+00:00",
+        "sourceSha256": "73bd3283e16e650819d6f48dbd7c71f4908d145e94df7e277662bac79beafb6f",
+        "outputSha256": "f3c2307ba005f1bef65821f427eb0ac84f09bdd03e998287b6819831382e8bcf",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-walls-are-thick-enough/art/interiors/03-the-bridal-outer-chamber.png",
+            "role": "Actual inspected final dawn interior light and opaque paint only; no furniture/room.",
+            "inspected": true,
+            "sha256": "4b0916f9cee89b42b660efd7a898608413df73b51d5ecea60470a31db16d3904"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: broad-bodied adult58 emperor with silvertemples, rested expression, plumformalrobe oldgoldedge lowcirclet and ordinary shoes. Front/rear/portrait consistent age and shape, natural hand/scroll study, dawnpublicstate with no intimate scene. Exactname/title readable, ivory/noenvironment, completefoot/body margins.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "0874197e54a177c3cd47b5aa9093523b6bcb198c83335ae07de19a58d9ecf3ce"
+      }
+    }
+  ],
+  "sourceSha256": "73bd3283e16e650819d6f48dbd7c71f4908d145e94df7e277662bac79beafb6f"
+}
