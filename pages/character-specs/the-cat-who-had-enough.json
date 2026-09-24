@@ -1,0 +1,592 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-cat-who-had-enough",
+  "title": "Nine Lives of Excuses",
+  "source": "stories/the-cat-who-had-enough/story.md",
+  "sourceSha256": "682b61d05bec27bfd6aa32d846702822197cfe58943abd60d548280d61817bde",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read full finished prose from8:13 guarantee through2:17 work resumed. Exactly three sustained agents: named Mizzle, unnamed narrator and unnamed sister.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Downstairs woman, clients, landlord, adviser, contractor, rental-office staff, previous tenant, unknown former owner",
+      "reason": "Mentioned/offstage service or history roles, no sustained present individual role. No original prior-narrative identity imported after explicit replacement prompt."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; no Mizzle universe entry. Current story is source only, no historical discarded identities used.",
+    "Mizzle is a small round-ribbed gray female cat, green eyes, one white paw, dark nose stripe; ordinary feline body, talks only for sincere directly addressed complaints. No omniscience/glowing magical form.",
+    "Nivren/Delma exact searched across universe, frozen NAMES and all story Markdown, no matches. Source narrator gender unstated and sister female; names/physical additions art-only."
+  ],
+  "referenceInputs": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "mizzle",
+      "name": "Mizzle",
+      "sourceIdentityId": "mizzle",
+      "role": "Inherited advice-speaking cat",
+      "selectionEvidence": [
+        {
+          "quote": "She opened one green eye.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 19
+        },
+        {
+          "quote": "She was a small gray cat, round through the ribs, with one white paw and a dark stripe down her nose",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 39
+        },
+        {
+          "quote": "Her tail expanded to twice its ordinary width.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 39
+        }
+      ],
+      "form": "Cat",
+      "storyAppearance": {
+        "anatomy": "Small normal four-legged female cat, green eyes, round ribs, one white paw, dark nose stripe.",
+        "lifeStage": "Adult cat, exact age unspecified; inherited ten months ago.",
+        "proportions": "Small round-ribbed feline, four paws, tail, two triangular ears; no humanoid traits.",
+        "markings": "Grey fur, exactly one white paw, dark stripe down nose; green eyes.",
+        "materials": "Fur and natural feline skin/claws.",
+        "clothing": "None.",
+        "equipment": "No wearable personal objects.",
+        "scale": "Ordinary small housecat.",
+        "movement": "Sits/lies on papers, washes white paw, puffs tail in frustration, jumps and rests on narrator's forearm.",
+        "distinctiveFeatures": "One reply after sincere directly addressed complaint, no answers to questions/orders/fake grievances; knows only observations/what told, dependent on human care."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Choose anatomical LEFT FRONT paw white (unfixed source side); other three paws grey, no other white body patches. Short dense slate-grey coat, charcoal vertical nose stripe, warm green eyes, soft round domestic-cat muzzle. Side choice art-only; must remain consistent.",
+        "Natural animal expressions/gaze/ears, no human lips, collar, hat, speech bubbles, glow or spell. Simplified selected composition: primary front sitting, smaller curled rear with white paw hidden, two head studies frustrated vs silent and isolated left-front white paw detail. Grooming omitted to avoid crossed-paw ambiguity."
+      ],
+      "states": [
+        {
+          "label": "Enough",
+          "description": "Forward whiskers, puffed tail, alert green eyes."
+        },
+        {
+          "label": "Silence",
+          "description": "Calm half-closed eyes/ordinary grooming."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-cat-who-had-enough:mizzle",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/the-cat-who-had-enough/title-image.jpg",
+          "sha256": "f7a75196c31f7647e818fd0df68e02de5e1064b3f90325f37cef5e9b1d0c5c5d",
+          "role": "Grey cat paw/fur compatible only, source cover has no human faces or cat full identity",
+          "inspected": true,
+          "notes": "Inspected grey paw on document, keys and bowl; no details imported beyond gray fur."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+          "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+          "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+          "inspected": true,
+          "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+          "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+          "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+          "inspected": true,
+          "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+        }
+      ],
+      "output": "stories/the-cat-who-had-enough/art/characters/mizzle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:15:07.702650+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER ONLY reference folio on light WARM IVORY paper. Legible exact character name and story title \"Nine Lives of Excuses\" reserved upper-left. Uncluttered full-form views and expression/details of ONE identity only. No scene/location/furniture, ground/contact shadow, floor patches, swatches or decorative backdrops.\n\nCanadian Group of Seven HEAVY OPAQUE OIL painting, broad connected masses first, long varied directional bristle strokes and selective palette-knife impasto. Faces/fur/skin should be painted as decisively as landscape masses in attached oil references. Quiet connected shadow passages, no tiny uniform bevel-lit chips, photographic pores or strand-by-strand fur; no glossy CGI/anime. References are only paint/light, never scenery.\nChilly bright TUESDAY MORNING light through ordinary windows, pale modest warm highlights and connected cool gray/blue shade, no neon/aura or orange rim. Same identity/marking geometry across poses.\n\nExact name \"Mizzle\". A SMALL ADULT FEMALE domestic houseCAT, round through the ribs, short dense SLATE-GREY fur, CHARCOAL DARK VERTICAL STRIPE running down nose bridge, GREEN eyes. Ordinary feline anatomy, round muzzle (not flat Persian face), triangular ears, four legs, tail, cat paws. ONLY ONE WHITE PAW: her ANATOMICAL LEFT FRONT paw is WHITE; every other paw and all chest/belly/tail remain GREY. No other white spots. No tabby stripes on body. No clothes/collar/hat/fantasy accessory. This is an intelligent speaking cat but entirely normal feline appearance, no human mouth/lips/eyebrows/hands.\n\nPrimary large FRONT sitting view, rounded ribcage, two front paws both seen: VIEWER-RIGHT front paw WHITE, viewer-left GREY. Rear paws grey. Tail curves along side without ground patch. Second smaller FRONT THREE-QUARTER grooming view raises that SAME LEFT-FRONT white paw (viewer-right), licking naturally, other paws grey. Third small CURLED REAR resting view, white front paw tucked hidden; smooth continuous spine/tail, still one cat.\nTwo head studies: \"Enough\" with natural forward whiskers/alert green eyes, puffed tail can be shown only in primary; and \"Silence\" with calm half-closed eyes. Same dark nose stripe/green eyes in every face, no angry human grimace. No speech bubbles. No extra paws or tails.\nPaint large opaque gray fur masses with directional broad bristle marks, not thousands of fine hairs; green eyes restrained natural small highlights, not jewels. No documents, desk, bowl, keys, mouse, humans, floors or scenery. Space around every isolated form light ivory.",
+            "references": [
+              {
+                "path": "stories/the-cat-who-had-enough/title-image.jpg",
+                "sha256": "f7a75196c31f7647e818fd0df68e02de5e1064b3f90325f37cef5e9b1d0c5c5d",
+                "role": "Grey cat paw/fur compatible only, source cover has no human faces or cat full identity",
+                "inspected": true,
+                "notes": "Inspected grey paw on document, keys and bowl; no details imported beyond gray fur."
+              },
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+                "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+                "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+                "inspected": true,
+                "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-26dccec4-97a6-4e21-a646-cdec5da399d0.png",
+            "returnedSha256": "227171967eec77b7eba884d213f09329597c486876e0e571b5ef485676821107",
+            "completedAt": "2026-09-24T09:20:21.569669+00:00",
+            "review": "REJECT: dark blurred background and near-invisible headings violate ivory sheet; photo-like individual fur and glossy eyes dominate. Grooming view has two white paws and wrong crossed-arm assignment. Diagnose source cover paw/photo rendering overriding oil. Regenerate from actual story oil references only; simplify composition to sitting-front, curled-rear, two heads and single marked-paw detail (no grooming-cross ambiguity)."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:20:23.473105+00:00",
+            "status": "PASS",
+            "prompt": "Paint ONE landscape1536x1024 reference folio, CLEAN LIGHT WARM IVORY background. Exact large DARK readable serif headings \"Mizzle\" and \"Nine Lives of Excuses\". Background is plain ivory paper/canvas, no blurred colour, photograph, vignette, ground or shadow. Attached two images are PAINT HANDLING references only, no room or scenery.\n\nSubject is ONE small rounded adult GREY female housecat. Four normal paws, one tail, green natural eyes, ordinary triangular ears and round feline muzzle. SLATE-GREY short fur as broad opaque paint masses; CHARCOAL VERTICAL STRIPE from forehead DOWN THE NOSE. EXACTLY ONE WHITE PAW on the ANATOMICAL LEFT FRONT. Other three paws GREY; no white chest/belly/tail or other white markings. No collar/clothes/props. Mouth natural cat, no human smile/eyebrows.\nLayout: Large FRONT sitting cat left-center, full tail/feet in frame. TWO FRONT PAWS: viewer-right WHITE (left-front), viewer-left GREY (right-front). Two rear grey feet slightly to sides. Calm but impatient attentive cat.\nSmaller CURLED REAR resting body near upper right: head partly tucked, all forepaws hidden, no white visible; natural single tail curling around body.\nTwo expressive head-only studies below/right, exact labels \"Enough\" (forward whiskers and alert gaze) and \"Silence\" (half-closed eyes); same gray face/black nose stripe/green eyes.\nOne SMALL isolated WHITE LEFT FRONT PAW detail with grey foreleg, natural feline toes/no human hand. No grooming pose or fourth full cat.\n\nSTYLE ESSENTIAL: Canadian Group of Seven HEAVY OPAQUE OIL, physical large long bristle/knife strokes, broad sculpted GREY connected masses. Fur painted as chunky joined directional planes with only sparse bristle tips, NEVER individual fine hairs. Face/nose/ears equally broad painterly, eyes flat restrained olive-green, normal pupils with very small subdued highlight only, no glass marbles. Morning indoor pale soft light and cool shadow, not bright orange outlines. Light IVORY stays untouched outside cat silhouettes.\nNo scene, documents, table, floor, bowls, keys, swatches, colored background or photographic realism.",
+            "references": [
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+                "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+                "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+                "inspected": true,
+                "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+              },
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+                "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+                "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+                "inspected": true,
+                "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-1229031f-07c8-449b-9ceb-6102242f628a.png",
+            "returnedSha256": "8fa36c28ea47a0df4be5b7012195d89dbc8b31e10c01b9094d3ad0f0b2363a5a",
+            "completedAt": "2026-09-24T09:24:56.012453+00:00",
+            "review": [
+              "Actual landscape pixels inspected: normal small round-ribbed gray cat, two triangular ears/four legs/one tail, same charcoal stripe down nose and natural green eyes in front/rest/two head studies.",
+              "Exactly one white LEFT FRONT paw, viewer-right in primary frontal body; remaining three paws gray. Curled body front paws hidden and no extra white patches; enlarged marked paw gray foreleg/white paw natural feline toes.",
+              "Regeneration from actual oil references replaced photographic hair with broad layered opaque bristle/knife gray masses. Normal cat expressions, no human mouth/clothes/magic glow. Dark nose stripe doesn't become crown or symbol.",
+              "Warm ivory uniform clean background, legible exact Mizzle/Nine Lives of Excuses/Enough/Silence, no floor/contact/scene/swatches. Chilly morning daylight in gray mass shadow, no dark blurred cover backdrop. Rejected cover-drift candidate preserved."
+            ]
+          }
+        ],
+        "prompt": "Paint ONE landscape1536x1024 reference folio, CLEAN LIGHT WARM IVORY background. Exact large DARK readable serif headings \"Mizzle\" and \"Nine Lives of Excuses\". Background is plain ivory paper/canvas, no blurred colour, photograph, vignette, ground or shadow. Attached two images are PAINT HANDLING references only, no room or scenery.\n\nSubject is ONE small rounded adult GREY female housecat. Four normal paws, one tail, green natural eyes, ordinary triangular ears and round feline muzzle. SLATE-GREY short fur as broad opaque paint masses; CHARCOAL VERTICAL STRIPE from forehead DOWN THE NOSE. EXACTLY ONE WHITE PAW on the ANATOMICAL LEFT FRONT. Other three paws GREY; no white chest/belly/tail or other white markings. No collar/clothes/props. Mouth natural cat, no human smile/eyebrows.\nLayout: Large FRONT sitting cat left-center, full tail/feet in frame. TWO FRONT PAWS: viewer-right WHITE (left-front), viewer-left GREY (right-front). Two rear grey feet slightly to sides. Calm but impatient attentive cat.\nSmaller CURLED REAR resting body near upper right: head partly tucked, all forepaws hidden, no white visible; natural single tail curling around body.\nTwo expressive head-only studies below/right, exact labels \"Enough\" (forward whiskers and alert gaze) and \"Silence\" (half-closed eyes); same gray face/black nose stripe/green eyes.\nOne SMALL isolated WHITE LEFT FRONT PAW detail with grey foreleg, natural feline toes/no human hand. No grooming pose or fourth full cat.\n\nSTYLE ESSENTIAL: Canadian Group of Seven HEAVY OPAQUE OIL, physical large long bristle/knife strokes, broad sculpted GREY connected masses. Fur painted as chunky joined directional planes with only sparse bristle tips, NEVER individual fine hairs. Face/nose/ears equally broad painterly, eyes flat restrained olive-green, normal pupils with very small subdued highlight only, no glass marbles. Morning indoor pale soft light and cool shadow, not bright orange outlines. Light IVORY stays untouched outside cat silhouettes.\nNo scene, documents, table, floor, bowls, keys, swatches, colored background or photographic realism.",
+        "references": [
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+            "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+            "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+            "inspected": true,
+            "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+          },
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+            "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+            "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+            "inspected": true,
+            "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:24:56.012453+00:00",
+        "sourceSha256": "682b61d05bec27bfd6aa32d846702822197cfe58943abd60d548280d61817bde",
+        "outputSha256": "8fa36c28ea47a0df4be5b7012195d89dbc8b31e10c01b9094d3ad0f0b2363a5a",
+        "references": [
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+            "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+            "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+            "inspected": true,
+            "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+          },
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+            "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+            "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+            "inspected": true,
+            "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+          }
+        ],
+        "evidence": [
+          "Actual landscape pixels inspected: normal small round-ribbed gray cat, two triangular ears/four legs/one tail, same charcoal stripe down nose and natural green eyes in front/rest/two head studies.",
+          "Exactly one white LEFT FRONT paw, viewer-right in primary frontal body; remaining three paws gray. Curled body front paws hidden and no extra white patches; enlarged marked paw gray foreleg/white paw natural feline toes.",
+          "Regeneration from actual oil references replaced photographic hair with broad layered opaque bristle/knife gray masses. Normal cat expressions, no human mouth/clothes/magic glow. Dark nose stripe doesn't become crown or symbol.",
+          "Warm ivory uniform clean background, legible exact Mizzle/Nine Lives of Excuses/Enough/Silence, no floor/contact/scene/swatches. Chilly morning daylight in gray mass shadow, no dark blurred cover backdrop. Rejected cover-drift candidate preserved."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "393710d506f1035c77db7d0f0b99afaffccb91703b6518ab82d31da8095d50a9"
+      },
+      "outputSha256": "8fa36c28ea47a0df4be5b7012195d89dbc8b31e10c01b9094d3ad0f0b2363a5a"
+    },
+    {
+      "id": "nivren",
+      "name": "Nivren",
+      "sourceIdentityId": "nivren",
+      "role": "Unnamed narrator and cat guardian, freelance designer",
+      "selectionEvidence": [
+        {
+          "quote": "I realized I was gripping the handle of my mug hard enough to ache.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 65
+        },
+        {
+          "quote": "I put the guarantee, the two shop keys, and the contractor's revised plan into my canvas bag.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 125
+        },
+        {
+          "quote": "I moved the mouse with my left hand and kept working.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 237
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult narrator, gender unspecified.",
+        "lifeStage": "Adult working designer, age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Coat implied in chilly morning; exact clothes not described.",
+        "equipment": "Coffee mug, canvas bag, two shop keys on brass ring, phone, papers/pen and laptop.",
+        "scale": "Adult human.",
+        "movement": "Defensive then embarrassed honest, ordinary walking and patient work.",
+        "distinctiveFeatures": "No supernatural power, not cat's magical counterpart."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Nivren, androgynous early30s adult, light warm tan skin, untidy short dark chestnut hair, brown eyes, long narrow face, average slight build.",
+        "Desaturated blue pullover over offwhite T-shirt, charcoal jeans and worn dark sneakers. Plain khaki canvas shoulder bag for walk, single strap; enlarged hand holds brass ring with exactly two ordinary keys. No cat/room/table in sheet."
+      ],
+      "states": [
+        {
+          "label": "No",
+          "description": "Difficult admission, no excuse."
+        },
+        {
+          "label": "Kept working",
+          "description": "Modest focused expression after payment and care."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-cat-who-had-enough:nivren",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/the-cat-who-had-enough/title-image.jpg",
+          "sha256": "f7a75196c31f7647e818fd0df68e02de5e1064b3f90325f37cef5e9b1d0c5c5d",
+          "role": "Grey cat paw/fur compatible only, source cover has no human faces or cat full identity",
+          "inspected": true,
+          "notes": "Inspected grey paw on document, keys and bowl; no details imported beyond gray fur."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+          "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+          "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+          "inspected": true,
+          "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+          "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+          "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+          "inspected": true,
+          "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+        }
+      ],
+      "output": "stories/the-cat-who-had-enough/art/characters/nivren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:24:56.972562+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER ONLY reference folio on light WARM IVORY paper. Legible exact character name and story title \"Nine Lives of Excuses\" reserved upper-left. Uncluttered full-form views and expression/details of ONE identity only. No scene/location/furniture, ground/contact shadow, floor patches, swatches or decorative backdrops.\n\nCanadian Group of Seven HEAVY OPAQUE OIL painting, broad connected masses first, long varied directional bristle strokes and selective palette-knife impasto. Faces/fur/skin should be painted as decisively as landscape masses in attached oil references. Quiet connected shadow passages, no tiny uniform bevel-lit chips, photographic pores or strand-by-strand fur; no glossy CGI/anime. References are only paint/light, never scenery.\nChilly bright TUESDAY MORNING light through ordinary windows, pale modest warm highlights and connected cool gray/blue shade, no neon/aura or orange rim. Same identity/marking geometry across poses.\n\nEXACT NAME \"Nivren\". An androgynous HUMAN adult early30s, source gender unspecified. Light warm TAN complexion, untidy short DARK CHESTNUT hair with one unruly fringe, BROWN eyes, long narrow face and long straight nose, clean-shaven, average slight body. Ordinary designer who is evasive then honestly embarrassed, no glamorous hero.\nFront full body in desaturated BLUE pullover over OFFWHITE T-shirt neck, CHARCOAL jeans and worn dark SNEAKERS. Plain KHAKI CANVAS shoulder bag hangs at right hip from a single strap crossing from left shoulder. One hand loosely holds bag strap; other relaxed. Rear three-quarter same clothing, bag at same anatomical RIGHT hip, single diagonal strap. Natural proportions.\nTwo expressive head studies: \"No\" (difficult honest admission, eyes direct, mouth sober); \"Kept working\" (quiet focused acceptance, not triumphant grin). Same face/head/hair. One enlarged five-digit hand holding a brass ring with exactly TWO ordinary brass SHOP KEYS, no third key/extra charm, clear two distinct key bodies. No signature paper or text on keys.\nBroad joined opaque oil planes physically shape cheek/nose/forehead/hands, matte natural eyes and quiet connected shadows; no photographic pore, no anime or fine texture overlay. Morning windowlight modest pale warm planes/cool shade. No cat, sister, desk, keyboard, kitchen, sidewalk, ground or cast-shadow patches, scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+                "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+                "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+                "inspected": true,
+                "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+              },
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+                "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+                "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+                "inspected": true,
+                "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f14afeea-e162-497a-b6d9-580cd8cb58d1.png",
+            "returnedSha256": "41f0230096b98cc7fa227689aaa6d6a71e248c23ef5eb4b0097ccb531995fa03",
+            "completedAt": "2026-09-24T09:29:43.594004+00:00",
+            "review": [
+              "Full landscape inspected: same adult long-nosed narrow-faced short-chestnut-haired identity in front/rear and two heads, androgynous presentation without source gender claim; No difficult honesty/Kept working focus coherent.",
+              "Blue pullover/offwhite neck/charcoal jeans/worn sneakers and single-strap khaki canvas bag match across angles. Bag anatomical right hip in front and rear; strap from left shoulder coherent.",
+              "Enlarged hand naturally holds brass ring with two shop keys, no charms/additional equipment; relaxed main hand plausible. Repeated human head/body proportions consistent.",
+              "Opaque directional physical oil across face/hand/cloth, natural chilly morning light and subdued shadows, readable exact name/title/labels, clean ivory no scene/ground patches/swatches. Art name provenance retained."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER ONLY reference folio on light WARM IVORY paper. Legible exact character name and story title \"Nine Lives of Excuses\" reserved upper-left. Uncluttered full-form views and expression/details of ONE identity only. No scene/location/furniture, ground/contact shadow, floor patches, swatches or decorative backdrops.\n\nCanadian Group of Seven HEAVY OPAQUE OIL painting, broad connected masses first, long varied directional bristle strokes and selective palette-knife impasto. Faces/fur/skin should be painted as decisively as landscape masses in attached oil references. Quiet connected shadow passages, no tiny uniform bevel-lit chips, photographic pores or strand-by-strand fur; no glossy CGI/anime. References are only paint/light, never scenery.\nChilly bright TUESDAY MORNING light through ordinary windows, pale modest warm highlights and connected cool gray/blue shade, no neon/aura or orange rim. Same identity/marking geometry across poses.\n\nEXACT NAME \"Nivren\". An androgynous HUMAN adult early30s, source gender unspecified. Light warm TAN complexion, untidy short DARK CHESTNUT hair with one unruly fringe, BROWN eyes, long narrow face and long straight nose, clean-shaven, average slight body. Ordinary designer who is evasive then honestly embarrassed, no glamorous hero.\nFront full body in desaturated BLUE pullover over OFFWHITE T-shirt neck, CHARCOAL jeans and worn dark SNEAKERS. Plain KHAKI CANVAS shoulder bag hangs at right hip from a single strap crossing from left shoulder. One hand loosely holds bag strap; other relaxed. Rear three-quarter same clothing, bag at same anatomical RIGHT hip, single diagonal strap. Natural proportions.\nTwo expressive head studies: \"No\" (difficult honest admission, eyes direct, mouth sober); \"Kept working\" (quiet focused acceptance, not triumphant grin). Same face/head/hair. One enlarged five-digit hand holding a brass ring with exactly TWO ordinary brass SHOP KEYS, no third key/extra charm, clear two distinct key bodies. No signature paper or text on keys.\nBroad joined opaque oil planes physically shape cheek/nose/forehead/hands, matte natural eyes and quiet connected shadows; no photographic pore, no anime or fine texture overlay. Morning windowlight modest pale warm planes/cool shade. No cat, sister, desk, keyboard, kitchen, sidewalk, ground or cast-shadow patches, scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+            "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+            "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+            "inspected": true,
+            "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+          },
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+            "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+            "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+            "inspected": true,
+            "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:29:43.594004+00:00",
+        "sourceSha256": "682b61d05bec27bfd6aa32d846702822197cfe58943abd60d548280d61817bde",
+        "outputSha256": "41f0230096b98cc7fa227689aaa6d6a71e248c23ef5eb4b0097ccb531995fa03",
+        "references": [
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+            "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+            "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+            "inspected": true,
+            "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+          },
+          {
+            "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+            "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+            "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+            "inspected": true,
+            "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+          }
+        ],
+        "evidence": [
+          "Full landscape inspected: same adult long-nosed narrow-faced short-chestnut-haired identity in front/rear and two heads, androgynous presentation without source gender claim; No difficult honesty/Kept working focus coherent.",
+          "Blue pullover/offwhite neck/charcoal jeans/worn sneakers and single-strap khaki canvas bag match across angles. Bag anatomical right hip in front and rear; strap from left shoulder coherent.",
+          "Enlarged hand naturally holds brass ring with two shop keys, no charms/additional equipment; relaxed main hand plausible. Repeated human head/body proportions consistent.",
+          "Opaque directional physical oil across face/hand/cloth, natural chilly morning light and subdued shadows, readable exact name/title/labels, clean ivory no scene/ground patches/swatches. Art name provenance retained."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "624b6823f23fb67a53871daa8ca045da4976bd2c6f3612e736631bc739c96a25"
+      },
+      "nameAssignment": {
+        "name": "Nivren",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed narrator and cat guardian, freelance designer",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Nivren and Delma searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "41f0230096b98cc7fa227689aaa6d6a71e248c23ef5eb4b0097ccb531995fa03"
+    },
+    {
+      "id": "delma",
+      "name": "Delma",
+      "sourceIdentityId": "delma",
+      "role": "Unnamed sister and prospective bakery owner",
+      "selectionEvidence": [
+        {
+          "quote": "My sister was kneeling inside the front window when I arrived. She had a tape measure",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 135
+        },
+        {
+          "quote": "She picked them up immediately and put them in her coat pocket.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 177
+        },
+        {
+          "quote": "Check it. Send me a schedule you can keep.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 197
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, narrator's sister.",
+        "lifeStage": "Adult, exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Coat with pocket; practical measuring/build planning scene, not working bakery uniform.",
+        "equipment": "Retractable tape measure, phone, contractor plan and shop keys in pocket.",
+        "scale": "Adult human.",
+        "movement": "Kneels to measure, stands, firms boundaries, negotiates practical transfer.",
+        "distinctiveFeatures": "No power; competence/fatigue not exaggerated anger."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Delma, warm tan skin familial compatible, adultmid30s, brown eyes, same long nose family but broader cheeks/jaw, dark chestnut hair in low simple ponytail, sturdy average build.",
+        "Plain muted rust mid-thigh work coat with usable pockets over oatmeal shirt, dark olive trousers and brown ankle boots. Small retractable metal tape measure held close; folded plan and phone separate detail. No apron/chefhat/oven or fictional shop logo."
+      ],
+      "states": [
+        {
+          "label": "Yes or no?",
+          "description": "Direct firm question."
+        },
+        {
+          "label": "A schedule you can keep",
+          "description": "Tired practical resolve."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-cat-who-had-enough:delma",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/the-cat-who-had-enough/title-image.jpg",
+          "sha256": "f7a75196c31f7647e818fd0df68e02de5e1064b3f90325f37cef5e9b1d0c5c5d",
+          "role": "Grey cat paw/fur compatible only, source cover has no human faces or cat full identity",
+          "inspected": true,
+          "notes": "Inspected grey paw on document, keys and bowl; no details imported beyond gray fur."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+          "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+          "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+          "inspected": true,
+          "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+        },
+        {
+          "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+          "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+          "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+          "inspected": true,
+          "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+        }
+      ],
+      "output": "stories/the-cat-who-had-enough/art/characters/delma.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:29:44.552427+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER ONLY reference folio on light WARM IVORY paper. Legible exact character name and story title \"Nine Lives of Excuses\" reserved upper-left. Uncluttered full-form views and expression/details of ONE identity only. No scene/location/furniture, ground/contact shadow, floor patches, swatches or decorative backdrops.\n\nCanadian Group of Seven HEAVY OPAQUE OIL painting, broad connected masses first, long varied directional bristle strokes and selective palette-knife impasto. Faces/fur/skin should be painted as decisively as landscape masses in attached oil references. Quiet connected shadow passages, no tiny uniform bevel-lit chips, photographic pores or strand-by-strand fur; no glossy CGI/anime. References are only paint/light, never scenery.\nChilly bright TUESDAY MORNING light through ordinary windows, pale modest warm highlights and connected cool gray/blue shade, no neon/aura or orange rim. Same identity/marking geometry across poses.\n\nEXACT NAME \"Delma\". One adult human WOMAN mid30s, warm TAN skin, BROWN eyes, long straight family nose but broad cheek/jaw structure, DARK CHESTNUT hair in a simple LOW PONYTAIL, sturdy average body, ordinary practical adult. Firm, tired and self-possessed prospective bakery owner. No resemblance to host/glasses/bob, no fantasy form.\nFront full body left: muted RUST mid-thigh work COAT with usable pockets over OATMEAL shirt, DARK OLIVE practical trousers, BROWN ankle boots. Standing naturally with small closed black/yellow retractable tape-measure case in one hand, other hand relaxed near coat pocket. Rear three-quarter same coat/clothes/boots, same simple low ponytail with no high bun or braid.\nTwo head studies: \"Yes or no?\" (direct question, level steady gaze) and \"A schedule you can keep\" (weary practical resolve, no smile/grimace). Same recognizable grown face, normal natural eyes. \nOne enlarged hand pair with SAME black/yellow tape-measure case: one natural five-digit hand holds case while other pinches SHORT extended plain metal tape, about15cm. Keep it an ordinary measuring tool, no floating ribbon/laser, no floor/surface. Optional small folded plan tucked visible in coat pocket, not separate scenery. No phone need.\nBuild cheeks/nose/forehead and hands out of BROAD CONNECTED opaque oil planes, quiet connecting shadow shapes; long bristle/knife marks, no tiny photoreal wrinkles/skin pores, no cartoon. Late MORNING clear windowlight, restrained warm highlights/cool shade. No apron/chef hat/logo, no shop/oven/counter/bakery, no sibling/cat, no floor/contact shadow/swatches.",
+            "references": [
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/01-the-kitchen-guarantee.png",
+                "sha256": "3a3d3c9250d1813fead419fc6862a9de48e8aa01a1e70e6633e22ff9c9a16ad9",
+                "role": "Primary opaque oil and chilly-bright morning windowlight for cat/narrator, no scene",
+                "inspected": true,
+                "notes": "Connected warm and cool painted masses, no table/window/floor fragments transferred."
+              },
+              {
+                "path": "stories/the-cat-who-had-enough/art/interiors/02-the-empty-bakery-unit.png",
+                "sha256": "bff08dde98fc264be9e92893019231e161d90b03476e717ddc6b06265f95840c",
+                "role": "Sister late-morning shoplight and Group of Seven paint planes only",
+                "inspected": true,
+                "notes": "Inspected broad soft morning shadows on plain walls; no measuring-floor/scenery."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-fdd5154f-440b-4fbc-8480-8d515737508d.png",
+            "returnedSha256": "226133925e4c62151ebd80d97957641e68f677f2ee756cba266339671aab9b54",
+            "completedAt": "2026-09-24T09:37:27.377405+00:00",
+            "review": "Identity/outfit/low ponytail, morning oil, anatomy and blank ivory pass. Enlarged tape scale has repeated/skipped numerals (5 duplicated,4/6 omitted); remove tiny numeral text and retain ordinary consistent fine tick marks, preserving tape/hand geometry."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:37:28.319621+00:00",
+            "status": "PASS",
+            "prompt": "One tiny prop-detail edit only to this exact Delma character reference. Preserve EVERYTHING: face identity/expressions, body/clothes/hair/poses, hand anatomy, tape case and extended tape geometry, paint, light, ivory and all headings/labels.\n\nIn the enlarged retractable measuring tape at bottom right, REMOVE ALL NUMBER CHARACTERS from the metal tape strip. Keep plain grey-silver metal and fine evenly spaced short ruler ticks (no letters or digits). Existing numerals skip and repeat; they must disappear completely. No replacement text. Leave the little hooked metal end and rivet exactly as they are. Natural five-digit gripping hands unchanged. No other edits, no scenes or floor patches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-fdd5154f-440b-4fbc-8480-8d515737508d.png",
+                "sha256": "226133925e4c62151ebd80d97957641e68f677f2ee756cba266339671aab9b54",
+                "inspected": true,
+                "role": "Exact Delma target; remove erroneous tiny tape-measure numerals only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c557eaeb-b8fe-462b-9225-6408adabeeea.png",
+            "returnedSha256": "309087169574b572c815919b1400e0d409b3ac2cebef3d629479ebcab563b58f",
+            "completedAt": "2026-09-24T09:47:08.358475+00:00",
+            "review": [
+              "Actual corrected pixels inspected: same adult sister with broad-cheeked tan face/brown eyes and chestnut low ponytail across front/rear/two heads. Firm questioning and tired practical resolve distinct but same identity.",
+              "Rust pocketed coat/oatmeal shirt/olive trousers/brown boots and folded plan consistent. No chef costume or bakery scene; ordinary hands show physical measuring posture.",
+              "Corrected tape now clean plain metal with consistent tick marks and no erroneous tiny numerals; same black/yellow case and natural two-hand grip/fingers, hooked end/rivet unchanged.",
+              "Opaque connected oil planes in faces/hands and long coat folds, true morning windowlight; exact name/story title and labels readable, clean ivory no ground/contact patch/swatches. Source unnamed sister and art-only Delma provenance retained."
+            ]
+          }
+        ],
+        "prompt": "One tiny prop-detail edit only to this exact Delma character reference. Preserve EVERYTHING: face identity/expressions, body/clothes/hair/poses, hand anatomy, tape case and extended tape geometry, paint, light, ivory and all headings/labels.\n\nIn the enlarged retractable measuring tape at bottom right, REMOVE ALL NUMBER CHARACTERS from the metal tape strip. Keep plain grey-silver metal and fine evenly spaced short ruler ticks (no letters or digits). Existing numerals skip and repeat; they must disappear completely. No replacement text. Leave the little hooked metal end and rivet exactly as they are. Natural five-digit gripping hands unchanged. No other edits, no scenes or floor patches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-fdd5154f-440b-4fbc-8480-8d515737508d.png",
+            "sha256": "226133925e4c62151ebd80d97957641e68f677f2ee756cba266339671aab9b54",
+            "inspected": true,
+            "role": "Exact Delma target; remove erroneous tiny tape-measure numerals only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:47:08.358475+00:00",
+        "sourceSha256": "682b61d05bec27bfd6aa32d846702822197cfe58943abd60d548280d61817bde",
+        "outputSha256": "309087169574b572c815919b1400e0d409b3ac2cebef3d629479ebcab563b58f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-fdd5154f-440b-4fbc-8480-8d515737508d.png",
+            "sha256": "226133925e4c62151ebd80d97957641e68f677f2ee756cba266339671aab9b54",
+            "inspected": true,
+            "role": "Exact Delma target; remove erroneous tiny tape-measure numerals only"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: same adult sister with broad-cheeked tan face/brown eyes and chestnut low ponytail across front/rear/two heads. Firm questioning and tired practical resolve distinct but same identity.",
+          "Rust pocketed coat/oatmeal shirt/olive trousers/brown boots and folded plan consistent. No chef costume or bakery scene; ordinary hands show physical measuring posture.",
+          "Corrected tape now clean plain metal with consistent tick marks and no erroneous tiny numerals; same black/yellow case and natural two-hand grip/fingers, hooked end/rivet unchanged.",
+          "Opaque connected oil planes in faces/hands and long coat folds, true morning windowlight; exact name/story title and labels readable, clean ivory no ground/contact patch/swatches. Source unnamed sister and art-only Delma provenance retained."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "22220e67f104052c414293c7423a8903bb8f07ed61f2bb65e768f71a9f36f8d0"
+      },
+      "nameAssignment": {
+        "name": "Delma",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed sister and prospective bakery owner",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Nivren and Delma searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "309087169574b572c815919b1400e0d409b3ac2cebef3d629479ebcab563b58f"
+    }
+  ]
+}
