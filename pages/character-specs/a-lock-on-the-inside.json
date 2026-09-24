@@ -1,0 +1,652 @@
+{
+  "slug": "a-lock-on-the-inside",
+  "title": "A Lock on the Inside",
+  "source": "stories/a-lock-on-the-inside/story.md",
+  "canon": false,
+  "mainCastEvidence": "Finished prose read in full (307 lines). Kethra and first-person recovering caller carry every scene; recalled former master's coercion is central antagonist force, included without invented actions.",
+  "excludedMinorCharacters": [
+    {
+      "name": "College kitchen staff and passing footsteps",
+      "reason": "Incidental implied people, no developed character role."
+    },
+    {
+      "name": "Ulan",
+      "reason": "Not present in this story; shared Kethra does not establish the unnamed narrator as Ulan."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md — Kethra LOCKED; Ulan distinction",
+    "universe/rules.md — Callwright living shaper-caller activation LOCKED; voiced lattice"
+  ],
+  "characters": [
+    {
+      "id": "kethra",
+      "name": "Kethra",
+      "role": "Coprotagonist; mute hearing archmage and teacher who protects caller consent.",
+      "selectionEvidence": [
+        {
+          "quote": "Kethra put the key in my palm before she asked me to prove anything.",
+          "line": 11,
+          "explanation": "Her intervention frames the whole recovery narrative."
+        },
+        {
+          "quote": "She was mute, not deaf",
+          "line": 29,
+          "explanation": "Established communication condition."
+        },
+        {
+          "quote": "No more magic today",
+          "line": 281,
+          "explanation": "She enforces safe refusal and shelter independent of performance."
+        }
+      ],
+      "form": "Human woman; living callwright shaper.",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs, ordinary uninjured visible anatomy.",
+        "lifeStage": "Adult archmage; visual age around forty is interpretation, not canon.",
+        "proportions": "Medium height, sturdy practical build (interpretation).",
+        "markings": "No permanent marking specified.",
+        "materials": "Cloth, leather, skin and hair.",
+        "clothing": "Plain muted olive working tunic with cuffed sleeves, charcoal skirt/trousers and boots (interpretation).",
+        "equipment": [
+          "Belt-hung slate",
+          "Paper-wrapped chalk",
+          "New archmage seal carried in pocket"
+        ],
+        "scale": "Human adult",
+        "movement": "Quick precise signing; chest-height crossed-hands stop; crouches at safe distance; brief fatigue tremor after failed cell.",
+        "distinctiveFeatures": [
+          "Expressive eyebrows and hands; hearing intact",
+          "Pale transient magical lines at fingers during shaping only",
+          "Muted speech, never a prosthetic voice device"
+        ]
+      },
+      "explicitCanon": [
+        "LOCKED universe: mute callwright shaper, hears and communicates by college sign/slate; age and appearance unspecified.",
+        "Source: belt slate, chalk, new pocket archmage seal, brief magical pale hand lines then fatigue.",
+        "Cannot activate full callwright spell by signing alone."
+      ],
+      "visualInterpretation": [
+        "Square broad face, warm medium-brown skin, dark eyes, short black hair with slight gray at temples, sturdy medium build; restrained non-canon identity.",
+        "Practical olive tunic, charcoal lower garments, plain brown belt/boots; no ceremonial crown or staff.",
+        "Soft workroom daylight; same face/body treatment across views."
+      ],
+      "states": [
+        {
+          "name": "Teaching",
+          "description": "Calm alert eyes, slate and chalk; signs plainly."
+        },
+        {
+          "name": "Stop",
+          "description": "Crossed hands at chest height; no flame or spell."
+        },
+        {
+          "name": "After failed cell",
+          "description": "Pale tired expression, hands no longer glowing."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:kethra",
+        "links": [
+          "stories/voice-of-silence/story.md",
+          "universe/characters.md#kethra"
+        ],
+        "evidence": "Explicit LOCKED Kethra entry and same named callwright archmage. Narrator is not Ulan."
+      },
+      "output": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Precise object removal, ONLY ONE CHANGE. In the LEFTMOST full-body woman, erase the dark rectangular slate that dangles at her hip just below her right elbow (viewer left side of her body). Reconstruct the olive tunic folds behind that hip rectangle. She must keep the slate already held between her hands at chest height. There should be no rectangular object remaining below the belt on that leftmost figure. DO NOT alter either of the other two full figures: their belt slates are correct and must stay. Preserve the separate lower-right slate/chalk study, all text, face/hair/anatomy, light, broad matte oil impasto, and ivory. No other edits.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact heading \"Kethra\"; subtitle \"A Lock on the Inside\". Image1 Melicent and image2 Leora are rendering/presentation only. Image3 bright workroom is LIGHT ONLY, never depict the room or its objects. Use gentle diffuse pale window light and cool gray-violet shadow, consistent on all studies. Subject is a mute but hearing adult woman, new archmage and practical callwright shaper. Non-canon restrained identity: around forty, medium height sturdy build, broad square face, medium warm-brown skin, dark eyes, short black hair with gray at temples. Plain muted olive practical tunic with cuffed sleeves, charcoal trousers, brown belt/boots. Small slate hangs securely from belt; chalk in hand, small archmage seal carried pocket. Three views: full relaxed front-three-quarter with slate, full side/rear, full chest-height crossed-hands STOP posture. One thoughtful/tired face study and simple slate/chalk detail. Hands five fingers coherent; normal mouth, no gag, mouth scar, voice device or hearing aid. No staff, crown, armor, magic glow or permanent hand markings. Kethra communicates with expressive eyebrows, fluent sign and written slate. Small optional labels only \"Teaching\", \"Stop\", \"Slate and chalk\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+                "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+                "inspected": true,
+                "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+                "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+              }
+            ],
+            "reason": "Initial source-grounded character-only folio; user-authorized full collection.",
+            "startedAt": "2026-09-23T22:03:32.100670+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-66c32412-1b4c-45e2-9ecd-71ade6284d56.png",
+            "outputSha256": "3418b98718c44492b9b08ef860db7994bafd14890093b7ca8ba1b833b1025f63",
+            "generatorReview": "Duplicate slate and unsupported decorative seal badge; visual identity needs specified short hair."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Precise correction of this single character sheet. Keep all layout, correct text Kethra / A Lock on the Inside, three full views, stop signing gesture, matte broad oil paint, warm ivory and soft diffuse light. In the left teaching view, remove the EXTRA slate hanging at the belt while preserving the slate she holds; give held slate a simple short belt tether so this is the one belt slate. Other full views keep exactly one belt slate each. Remove round letter-A gold emblems and decorated small pouches from belt and lower-right detail; replace their small blank space with ivory. Keep the main slate-and-chalk detail. Her archmage seal stays unseen in a pocket, no displayed insignia. In every view and portrait, shorten hair to a practical dark crop ending just below ears, visibly gray at the temples, no bun or long rear hair; preserve her own square face, medium-brown skin, thoughtful adult features and natural anatomy. No other redesign, no copied reference identity, no new objects, no scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-66c32412-1b4c-45e2-9ecd-71ade6284d56.png",
+                "role": "Actual first candidate; precise corrective edit target only.",
+                "inspected": true,
+                "sha256": "3418b98718c44492b9b08ef860db7994bafd14890093b7ca8ba1b833b1025f63"
+              }
+            ],
+            "reason": "Duplicate slate and unsupported decorative seal badge; visual identity needs specified short hair.",
+            "startedAt": "2026-09-23T22:08:26.757811+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-447fdfb9-8ba5-4796-954e-669010684b18.png",
+            "outputSha256": "35407a0c51132c251b840ad6dd258ec29e337a4e40045c4ae726c4e85c3a8cfc",
+            "generatorReview": "Hair and emblem correction passed; leftmost teaching view still has duplicate slate at hip. Remaining targeted correction only."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Precise object removal, ONLY ONE CHANGE. In the LEFTMOST full-body woman, erase the dark rectangular slate that dangles at her hip just below her right elbow (viewer left side of her body). Reconstruct the olive tunic folds behind that hip rectangle. She must keep the slate already held between her hands at chest height. There should be no rectangular object remaining below the belt on that leftmost figure. DO NOT alter either of the other two full figures: their belt slates are correct and must stay. Preserve the separate lower-right slate/chalk study, all text, face/hair/anatomy, light, broad matte oil impasto, and ivory. No other edits.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-447fdfb9-8ba5-4796-954e-669010684b18.png",
+                "role": "Second candidate; remove only duplicate hip slate in leftmost study.",
+                "inspected": true,
+                "sha256": "35407a0c51132c251b840ad6dd258ec29e337a4e40045c4ae726c4e85c3a8cfc"
+              }
+            ],
+            "reason": "Residual duplicated personal object correction; all other inspection passed.",
+            "startedAt": "2026-09-23T22:12:44.368904+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-3cbd358d-8a13-4609-b369-861aab3d0f93.png",
+            "outputSha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:14:47.844181+00:00",
+            "generatorReview": "Actual final pixels inspected: exactly one slate per whole figure, no invented displayed seal emblem, correct chest-height crossed-hands stop, hearing/mute character represented without mouth injury or apparatus. Consistent short dark gray-templed hair and broad square mature face; practical olive tunic/charcoal trousers, three complete isolated views, matte oil facial planes and connected shadows, no scenery or swatches. Identity is explicitly non-canon visual interpretation; shared Kethra anchor."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-447fdfb9-8ba5-4796-954e-669010684b18.png",
+            "role": "Second candidate; remove only duplicate hip slate in leftmost study.",
+            "inspected": true,
+            "sha256": "35407a0c51132c251b840ad6dd258ec29e337a4e40045c4ae726c4e85c3a8cfc"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:14:47.848634+00:00",
+        "sourceSha256": "62fac783ed244a391897184638b4d3de3906b809d0c713181ac9cf7e1fed6506",
+        "outputSha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-447fdfb9-8ba5-4796-954e-669010684b18.png",
+            "role": "Second candidate; remove only duplicate hip slate in leftmost study.",
+            "inspected": true,
+            "sha256": "35407a0c51132c251b840ad6dd258ec29e337a4e40045c4ae726c4e85c3a8cfc"
+          }
+        ],
+        "evidence": "Actual final pixels inspected: exactly one slate per whole figure, no invented displayed seal emblem, correct chest-height crossed-hands stop, hearing/mute character represented without mouth injury or apparatus. Consistent short dark gray-templed hair and broad square mature face; practical olive tunic/charcoal trousers, three complete isolated views, matte oil facial planes and connected shadows, no scenery or swatches. Identity is explicitly non-canon visual interpretation; shared Kethra anchor.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "04a193e436f9475500cfd26ae0f62aae62b52bb2aabfd0e28a336503dfc7f26d"
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/title-image.jpg",
+          "role": "Avreth compatible identity only; subordinate to prose and house rendering.",
+          "inspected": true,
+          "notes": "Slim young adult, loosely tied dark hair, worn charcoal belted coat; photoreal light not copied.",
+          "sha256": "dc701150380cbab461555bfcad1c1c4ca792222b14070cd7e398b32f3dd736fa"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+          "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+          "inspected": true,
+          "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+          "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+        },
+        {
+          "path": "stories/voice-of-silence/title-image.jpg",
+          "role": "Checked for existing Kethra identity; abstract node and hand cover has no identifiable face.",
+          "sha256": "a1f05de02aeb1149697da9efa6a2f02405bb1206f79c552875192fe7a7987caf",
+          "inspected": true,
+          "notes": "Actual original pixels inspected; no face identity or costume to inherit."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Kethra",
+        "sourceRole": "Coprotagonist; mute hearing archmage and teacher who protects caller consent.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd"
+    },
+    {
+      "id": "avreth",
+      "name": "Avreth",
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Avreth",
+        "sourceRole": "Unnamed first-person apprentice/caller",
+        "authority": "User full collection direction explicitly permits distinct names for unnamed main characters.",
+        "scope": "Reference art identification only; does not rename source prose or establish shared canon."
+      },
+      "role": "Protagonist; recovering caller learns that room, meals and consent are not purchased by overwork.",
+      "selectionEvidence": [
+        {
+          "quote": "I can repay lodging through service until my voice is fully restored.",
+          "line": 27,
+          "explanation": "First-person journey and damaged voice."
+        },
+        {
+          "quote": "I wanted to stay",
+          "line": 273,
+          "explanation": "Central desire exposed by lesson failure."
+        },
+        {
+          "quote": "My hand is sound now.",
+          "line": 235,
+          "explanation": "Previous bound fingers are healed; do not invent lasting bandages."
+        }
+      ],
+      "form": "Human, gender unspecified in prose.",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs, ordinary uninjured visible anatomy.",
+        "lifeStage": "Young adult visual interpretation from compatible cover; source age unspecified.",
+        "proportions": "Slim slight build from cover interpretation.",
+        "markings": "No permanent marking specified.",
+        "materials": "Cloth, leather, skin and hair.",
+        "clothing": "Worn charcoal belted coat with inner pocket and frayed cuffs, plain dark trousers and boots; compatible cover.",
+        "equipment": [
+          "Small iron key with square bow",
+          "Folded petition tied with cord",
+          "Blanket bundle with spare shirt and washing cloth"
+        ],
+        "scale": "Human adult",
+        "movement": "Initially tense/deferential, learns chest-height stop; tentative relief later.",
+        "distinctiveFeatures": [
+          "Rough recovering voice, no visible throat injury specified",
+          "Long dark wavy hair loosely tied low; pale warm skin from cover",
+          "Hands currently sound, no permanent binding or scars asserted"
+        ]
+      },
+      "explicitCanon": [
+        "First-person narrator unnamed and gender/age unspecified.",
+        "Coat inner pocket carries square-bow iron key; spare shirt/bundle/petition.",
+        "Voice failed repeatedly; former master withheld meals and locked practice room; old finger injury healed."
+      ],
+      "visualInterpretation": [
+        "Art name Avreth by explicit user direction; no source/canon rewrite.",
+        "Cover-compatible androgynous young adult, slim, dark loosely tied hair and pale warm skin; no imposed gender.",
+        "Soft diffuse light reflecting bright workroom; whole views calm/recovering without environment."
+      ],
+      "output": "stories/a-lock-on-the-inside/art/characters/avreth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One tiny factual correction on this exact sheet: the iron room key has a SQUARE BOW, meaning its handle is a visibly four-sided square loop, not a round loop. Correct the key handle in both whole figure views where held and in the enlarged hand/key detail to a simple small square iron loop with central square opening. Preserve the shaft and teeth, hand anatomy, all other pixels/layout, accurate Avreth / A Lock on the Inside text, hair/face, coat, bundle, petition, broad matte oil rendering and diffuse light. Do not introduce any other object, text, scenery, palette or stylistic change.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact heading \"Avreth\"; subtitle \"A Lock on the Inside\". Images1/2 collection sheets only rendering. Image3 original story cover supplies compatible character identity/clothes only, no door or light effects; image4 workroom supplies diffuse pale daytime light only. Subject first-person recovering apprentice/caller, gender unspecified, depicted androgynous young adult matching cover: slim, pale warm skin, long dark wavy hair loosely tied low with stray strands, worn charcoal belted coat, scarf-like collar, frayed cuffs, dark trousers and worn boots. Same identity across three-quarter full-front and full rear/side, then small tense/quietly relieved head studies. Rough voice is invisible: no neck wound. Hands are sound; no bandages, scars or magical markings. Show small iron square-bow key in one relaxed hand, plus isolated key and folded cord-tied petition as modest personal details. Optional soft tied blanket bundle with no extra gear. Strong broad painted planes throughout face and clothes. Source mood: wary recovering student beginning to feel safe, not theatrical fear or battle. No weapons, magic, armor or environment. Labels only \"Arrival\", \"At rest\", \"Room key\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/title-image.jpg",
+                "role": "Avreth compatible identity only; subordinate to prose and house rendering.",
+                "inspected": true,
+                "notes": "Slim young adult, loosely tied dark hair, worn charcoal belted coat; photoreal light not copied.",
+                "sha256": "dc701150380cbab461555bfcad1c1c4ca792222b14070cd7e398b32f3dd736fa"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+                "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+                "inspected": true,
+                "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+                "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+              }
+            ],
+            "reason": "Initial source-grounded character-only folio; user-authorized full collection.",
+            "startedAt": "2026-09-23T22:03:33.416283+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-b5c88f6b-dd63-4f48-a8a5-23887bebafee.png",
+            "outputSha256": "5426c0729d7ba94f839c507a8163e69f67050834fd1e897b1be6ec193443e6dd",
+            "generatorReview": "Key bow appears round; source specifically square."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "One tiny factual correction on this exact sheet: the iron room key has a SQUARE BOW, meaning its handle is a visibly four-sided square loop, not a round loop. Correct the key handle in both whole figure views where held and in the enlarged hand/key detail to a simple small square iron loop with central square opening. Preserve the shaft and teeth, hand anatomy, all other pixels/layout, accurate Avreth / A Lock on the Inside text, hair/face, coat, bundle, petition, broad matte oil rendering and diffuse light. Do not introduce any other object, text, scenery, palette or stylistic change.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b5c88f6b-dd63-4f48-a8a5-23887bebafee.png",
+                "role": "Actual first candidate; precise corrective edit target only.",
+                "inspected": true,
+                "sha256": "5426c0729d7ba94f839c507a8163e69f67050834fd1e897b1be6ec193443e6dd"
+              }
+            ],
+            "reason": "Key bow appears round; source specifically square.",
+            "startedAt": "2026-09-23T22:08:28.784023+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-8f961b0a-fbec-4391-94a5-4364e8b004bf.png",
+            "outputSha256": "2404355e6a2c11ced1d6d2453098eb9aaea94dfb9256a4e82d5b46e9715a56c0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:12:42.411678+00:00",
+            "generatorReview": "Actual final pixels inspected: iron key square bow corrected in full views/detail, sound hands, consistent source-cover-compatible slim dark-haired identity, three unclipped views and face/bundle/petition studies. Accurate headings, broad matte impasto including faces, no scenery, swatches, weapons or invented wounds."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b5c88f6b-dd63-4f48-a8a5-23887bebafee.png",
+            "role": "Actual first candidate; precise corrective edit target only.",
+            "inspected": true,
+            "sha256": "5426c0729d7ba94f839c507a8163e69f67050834fd1e897b1be6ec193443e6dd"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:12:42.416652+00:00",
+        "sourceSha256": "62fac783ed244a391897184638b4d3de3906b809d0c713181ac9cf7e1fed6506",
+        "outputSha256": "2404355e6a2c11ced1d6d2453098eb9aaea94dfb9256a4e82d5b46e9715a56c0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b5c88f6b-dd63-4f48-a8a5-23887bebafee.png",
+            "role": "Actual first candidate; precise corrective edit target only.",
+            "inspected": true,
+            "sha256": "5426c0729d7ba94f839c507a8163e69f67050834fd1e897b1be6ec193443e6dd"
+          }
+        ],
+        "evidence": "Actual final pixels inspected: iron key square bow corrected in full views/detail, sound hands, consistent source-cover-compatible slim dark-haired identity, three unclipped views and face/bundle/petition studies. Accurate headings, broad matte impasto including faces, no scenery, swatches, weapons or invented wounds.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "354f58b6177d5ee4a3808ffbc98ce8ec73ea5ccb612ad0baafbe59237c4ccedb"
+      },
+      "recurrence": {
+        "identityKey": "a-lock-on-the-inside:avreth",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/title-image.jpg",
+          "role": "Avreth compatible identity only; subordinate to prose and house rendering.",
+          "inspected": true,
+          "notes": "Slim young adult, loosely tied dark hair, worn charcoal belted coat; photoreal light not copied.",
+          "sha256": "dc701150380cbab461555bfcad1c1c4ca792222b14070cd7e398b32f3dd736fa"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+          "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+          "inspected": true,
+          "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+          "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+        }
+      ],
+      "states": [],
+      "outputSha256": "2404355e6a2c11ced1d6d2453098eb9aaea94dfb9256a4e82d5b46e9715a56c0"
+    },
+    {
+      "id": "tovren",
+      "name": "Tovren",
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Tovren",
+        "sourceRole": "Unnamed former master",
+        "authority": "User full collection direction explicitly permits distinct names for unnamed main characters.",
+        "scope": "Reference art identification only; does not rename source prose or establish shared canon."
+      },
+      "role": "Central offstage antagonist whose coercive training drives the protagonist's crisis and fear.",
+      "selectionEvidence": [
+        {
+          "quote": "My former master said I was quick once I understood the cost of mistakes.",
+          "line": 27,
+          "explanation": "Repeated coercive authority drives learned compliance."
+        },
+        {
+          "quote": "He threw me out when my voice made the exercises unprofitable.",
+          "line": 243,
+          "explanation": "Expulsion and instrumental abuse cause entire present conflict."
+        }
+      ],
+      "form": "Human adult man; physical appearance unspecified.",
+      "storyAppearance": {
+        "anatomy": "Human, two arms/two legs, ordinary uninjured visible anatomy.",
+        "lifeStage": "Adult established master; middle-aged depiction is interpretation.",
+        "proportions": "Average stature and lean build, chosen interpretation.",
+        "markings": "No permanent marking specified.",
+        "materials": "Cloth, leather, skin and hair.",
+        "clothing": "Plain dark brown academic working coat, gray linen collar, dark trousers/boots; wholly interpretive.",
+        "equipment": [],
+        "scale": "Human adult",
+        "movement": "Controlled upright posture; cool evaluative expression, no enacted abuse.",
+        "distinctiveFeatures": [
+          "Male pronouns explicit; no other anatomy/face/clothing source facts"
+        ]
+      },
+      "explicitCanon": [
+        "Male former master; coercive practice, withholding meals and unsafe vocal demands, expelled caller; appears only in recalled account.",
+        "No face, costume, magical manifestation or personal tool is described."
+      ],
+      "visualInterpretation": [
+        "Art name Tovren, age about fifty, olive skin, receding dark hair with gray sides, narrow plain face; all non-canon interpretive choices.",
+        "Neutral restrained clothing without weapons, insignia, visible magical system or torture apparatus.",
+        "Isolated conceptual appearance; no invented witnessed scene or depicted abuse."
+      ],
+      "states": [
+        {
+          "name": "Recalled master",
+          "description": "Neutral full exterior and a measured evaluative portrait; explicitly interpretive identity."
+        }
+      ],
+      "output": "stories/a-lock-on-the-inside/art/characters/tovren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact heading \"Tovren\"; subtitle \"A Lock on the Inside\". Images1/2 collection sheets are rendering only; image3 workroom LIGHT only. This is an art interpretation of the unnamed offstage former master, an adult male coercive teacher; no specific visual appearance exists in prose. Restrained invented appearance: about fifty, average stature, lean build, olive skin, receding dark hair gray at sides, plain narrow face with lined brow and small dark eyes. Modest brown academic working coat to knees, gray linen collar, dark trousers and plain worn boots. No insignia, magical device, staff, weapon, jewelry or torture equipment. Two isolated full views front-three-quarter and side/rear; one neutral measured evaluative head study. Normal human anatomy and restrained controlled posture, no sneer caricature or enacted abuse. Soft diffuse pale workroom-inspired light with connected muted cool shadows. Optional sole short label \"Recalled master\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact heading \"Tovren\"; subtitle \"A Lock on the Inside\". Images1/2 collection sheets are rendering only; image3 workroom LIGHT only. This is an art interpretation of the unnamed offstage former master, an adult male coercive teacher; no specific visual appearance exists in prose. Restrained invented appearance: about fifty, average stature, lean build, olive skin, receding dark hair gray at sides, plain narrow face with lined brow and small dark eyes. Modest brown academic working coat to knees, gray linen collar, dark trousers and plain worn boots. No insignia, magical device, staff, weapon, jewelry or torture equipment. Two isolated full views front-three-quarter and side/rear; one neutral measured evaluative head study. Normal human anatomy and restrained controlled posture, no sneer caricature or enacted abuse. Soft diffuse pale workroom-inspired light with connected muted cool shadows. Optional sole short label \"Recalled master\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+                "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+                "inspected": true,
+                "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+                "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+              }
+            ],
+            "reason": "Initial source-grounded character-only folio; user-authorized full collection.",
+            "startedAt": "2026-09-23T22:03:34.547836+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-30da766b-920f-4c97-93fd-8570d03f05b2.png",
+            "outputSha256": "d74b2f7d1052904f91e6ffb2a317abfb1975ca2185fbe8132eef37148e89e756",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:08:24.819560+00:00",
+            "generatorReview": "Actual pixels inspected: two complete consistent adult male views and reserved face study, accurate identifying text, plain restrained interpretive clothing, no invented tools/abuse/insignia, connected broad oil planes including face, quiet ivory no scenery or swatches. Physical identity explicitly non-canon interpretation."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+            "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+            "inspected": true,
+            "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+            "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:08:24.824793+00:00",
+        "sourceSha256": "62fac783ed244a391897184638b4d3de3906b809d0c713181ac9cf7e1fed6506",
+        "outputSha256": "d74b2f7d1052904f91e6ffb2a317abfb1975ca2185fbe8132eef37148e89e756",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+            "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+            "inspected": true,
+            "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+            "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+          }
+        ],
+        "evidence": "Actual pixels inspected: two complete consistent adult male views and reserved face study, accurate identifying text, plain restrained interpretive clothing, no invented tools/abuse/insignia, connected broad oil planes including face, quiet ivory no scenery or swatches. Physical identity explicitly non-canon interpretation.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c206c5f62f27ab4b223cc09189df4b32811696837205a8156aadab4e16e1fc86"
+      },
+      "recurrence": {
+        "identityKey": "a-lock-on-the-inside:tovren",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/title-image.jpg",
+          "role": "Avreth compatible identity only; subordinate to prose and house rendering.",
+          "inspected": true,
+          "notes": "Slim young adult, loosely tied dark hair, worn charcoal belted coat; photoreal light not copied.",
+          "sha256": "dc701150380cbab461555bfcad1c1c4ca792222b14070cd7e398b32f3dd736fa"
+        },
+        {
+          "path": "stories/a-lock-on-the-inside/art/interiors/03-kethras-workroom.png",
+          "role": "Diffuse bright workroom light/palette only; no room or props rendered.",
+          "inspected": true,
+          "notes": "Soft pale daylight and connected cool shadow masses; ivory ochre grayviolet.",
+          "sha256": "0d6410605d39b5e45cb4294166dbf8e299f2a5033e201436d79b7c7274fcea93"
+        }
+      ],
+      "outputSha256": "d74b2f7d1052904f91e6ffb2a317abfb1975ca2185fbe8132eef37148e89e756"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "62fac783ed244a391897184638b4d3de3906b809d0c713181ac9cf7e1fed6506",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "Three qualifying characters complete, including shared LOCKED Kethra identity with restrained non-canon visual interpretation; all source/spec/reference/output pins validated."
+}
