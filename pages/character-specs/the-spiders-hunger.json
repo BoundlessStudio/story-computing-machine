@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-spiders-hunger",
+  "title": "The Spider's Hunger",
+  "source": "stories/the-spiders-hunger/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished story/prompt read. Ivrine/Pelset/poucher sustain choices; individually distinct eight-year companion spider and loan spider are central agents of protection/failure/recovery. Source cover and two same-story oil interiors inspected. No source external reference.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Carter, boy/father, inn guests, mother",
+      "reason": "Brief final helper/background customers or remembered mother; no sustained main individual role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ivrine",
+      "name": "Ivrine",
+      "role": "sewing worker escaping coercion",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She carried the basket in her left hand.",
+          "explanation": "Departure state with oldpouch inbasket and loanhidden."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adultwoman, hair tied over hiddenloancord; ordinary ability, no visiblemagic.",
+        "clothing": "Dress, coat, shoes; blueinheritancepurse incoat, sewingbasket anatomleft.",
+        "state": "Predawn departure before Pelsettears sleeve; no visibleanimal or pouch."
+      },
+      "visualInterpretation": [
+        "Art-only mature thirties, warmoliveface longnose darkbrownbraid; tealcoat overplumdress and brownboots; intactpreconfrontation sleeve."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Before kitchen confrontation predawn: both spiders outofsight, intactcoat, leftbasket, purse incoat."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-spiders-hunger:ivrine",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-spiders-hunger/art/characters/ivrine.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving 1536x1024 warmivory characterfolio exact Ivrine identity, hairstyles, tealcoat/plumdress/brownboots intact, personal bluepurse, lettering and frontbody. FIX REAR hand assignment: move rearview basket into her ANATOMICAL LEFT HAND at VIEWERLEFT of rearbody. Rear LEFT arm now extendsdown to gripbasket; rear RIGHT hand at VIEWERRIGHT goes into coatpocket. Frontview already correct, basket atVIEWERRIGHT in herLEFT, leave intact. Keep normaltwoarms/fivefingers and samebasket. Correct lighting across BOTH bodies andportrait to subdued PREDAWN: majorityface/clothing cool bluegray/lavendershadow, modest stoveochreonly smallnearcheek/noseedge, no broadwarmsunshine. Preserve broad matteoil facial/clothespaint; clean brightivory noenvironment/floormarks. No visiblepouch/animal or newprop/person.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee4b6c20-faa8-4ae8-9469-801b2aa4abb3.png",
+            "role": "inspectedcandidate correct rearLEFTbasket/lightonly",
+            "inspected": true,
+            "sha256": "74608fcb4e5bd699252a791cc433b2093f217243e4494a1841a52da28c9b7e16"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:36:47.722057+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ivrine\"; title \"The Spider's Hunger\"; role \"Sewing worker\". ONE adult HUMAN woman thirties, warm OLIVE skin, LONG straight nose, ovalface, ordinary dark matteeyes, DARK BROWN hair tied low over backofneck to hide neckcord, anxious selfcontrolled gaze. Practical muted TEAL wool COAT over dark PLUM plain anklelengthdress, sturdy BROWN lowboots. Choose PREDAWN DEPARTURE BEFORE confrontation: sleeve intact, small closed sewing BASKET carried in ANATOMICAL LEFT hand (VIEWERRIGHT front, VIEWERLEFT rear); RIGHT hand at coatpocket containing bluepurse. No visiblepouch, spider, necklace or animal anywhere on human body. Full front/rear complete, large sameface, isolated small BLUE cloth drawstring PURSE label \"Her inheritance\". Exact normal hands and realproportions. Light: subtle cold grayBLUE dawn fill and small stoveAMBER planes from image1, majority connected muted coolshadow, not warm full day. Strong matte brush face andhands, cleanivory nofloor.",
+            "references": [
+              {
+                "path": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+                "role": "inspected broad oil, cold windowlight/limited warmstove only; no kitchen",
+                "inspected": true,
+                "sha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read, exact distinct roles/form/state checked against cover/roompaint. Predawn Ivrine before tear, LEFTbasket and no visibleanimals; humanrefs onlypersonalprops. Spiders individuallysourcecentral, no invented species/sex and oneidentity, eightlegs constrained with clear dorsalorientation.",
+              "Five separate oneassetcalls, each <=2 inspectedhashpinnedrefs. Animal composition adaptation supportscounting; allwholebody field ivory, readable names art-onlyprovenance recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee4b6c20-faa8-4ae8-9469-801b2aa4abb3.png",
+            "outputSha256": "74608fcb4e5bd699252a791cc433b2093f217243e4494a1841a52da28c9b7e16",
+            "finishedAt": "2026-09-24T07:44:10.616850+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels: front anatomicalLEFT basket correct, rear incorrectlyright; front/rearhair/coat/dress coherent but very brightface needs mutedpredawnlight.",
+              "Move rearbasket to VIEWERLEFT / anatomicalLEFT and rearrangeright hand into pocket; preserve frontidentity/basket and clothing."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:44:12.496442+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving 1536x1024 warmivory characterfolio exact Ivrine identity, hairstyles, tealcoat/plumdress/brownboots intact, personal bluepurse, lettering and frontbody. FIX REAR hand assignment: move rearview basket into her ANATOMICAL LEFT HAND at VIEWERLEFT of rearbody. Rear LEFT arm now extendsdown to gripbasket; rear RIGHT hand at VIEWERRIGHT goes into coatpocket. Frontview already correct, basket atVIEWERRIGHT in herLEFT, leave intact. Keep normaltwoarms/fivefingers and samebasket. Correct lighting across BOTH bodies andportrait to subdued PREDAWN: majorityface/clothing cool bluegray/lavendershadow, modest stoveochreonly smallnearcheek/noseedge, no broadwarmsunshine. Preserve broad matteoil facial/clothespaint; clean brightivory noenvironment/floormarks. No visiblepouch/animal or newprop/person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee4b6c20-faa8-4ae8-9469-801b2aa4abb3.png",
+                "role": "inspectedcandidate correct rearLEFTbasket/lightonly",
+                "inspected": true,
+                "sha256": "74608fcb4e5bd699252a791cc433b2093f217243e4494a1841a52da28c9b7e16"
+              }
+            ],
+            "preflight": [
+              "Inspectedactualcandidate targeted defects isolated in completeprompt; preserve body/identity/props; no newscene. Eightspiderlegs countchecked, art-onlyonecrook side explicit.",
+              "One inspected immutablecandidate editinput, source unchanged, noimageprocessing beyond built-in."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9ef74544-6608-42ab-8ab7-589b362f2454.png",
+            "outputSha256": "c551b3746761d32f9c5b9693d3e2b40cd2ec88b7b3f72a8900a49e9cbd198f1e",
+            "finishedAt": "2026-09-24T07:52:18.736188+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected actualpixels inspected: basket now anatomicalLEFT in both views (frontviewerRIGHT/rearviewerLEFT), RIGHT hand at pocket; samebluepurse, hairconcealment, no visiblepouch/animal.",
+              "Cool subdued predawn complexion/light, broad matteoil face/clothes, coherent wholebody/boots intactpreconfrontation sleeves, ivory nofloor."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9ef74544-6608-42ab-8ab7-589b362f2454.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd",
+        "outputSha256": "c551b3746761d32f9c5b9693d3e2b40cd2ec88b7b3f72a8900a49e9cbd198f1e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee4b6c20-faa8-4ae8-9469-801b2aa4abb3.png",
+            "role": "inspectedcandidate correct rearLEFTbasket/lightonly",
+            "inspected": true,
+            "sha256": "74608fcb4e5bd699252a791cc433b2093f217243e4494a1841a52da28c9b7e16"
+          }
+        ],
+        "evidence": [
+          "Corrected actualpixels inspected: basket now anatomicalLEFT in both views (frontviewerRIGHT/rearviewerLEFT), RIGHT hand at pocket; samebluepurse, hairconcealment, no visiblepouch/animal.",
+          "Cool subdued predawn complexion/light, broad matteoil face/clothes, coherent wholebody/boots intactpreconfrontation sleeves, ivory nofloor."
+        ],
+        "specificationSha256": "fd6d19d87a4b7f570d25e118ff76c35654d5faed2692b7dbc890d81487422417"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "c551b3746761d32f9c5b9693d3e2b40cd2ec88b7b3f72a8900a49e9cbd198f1e"
+    },
+    {
+      "id": "pelset",
+      "name": "Pelset",
+      "role": "innkeeper and coercive brother",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "the side of his nose had begun to peel",
+          "explanation": "Repeated rubbing and tiredcaregiving."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adultbrother, tired, peeling skin sideofnose; ordinaryhuman notmonster.",
+        "clothing": "Practical innworking clothes; platebillscloth.",
+        "state": "Morning kitchen; breath power has no required visibleaura."
+      },
+      "visualInterpretation": [
+        "Art-only olderforties warmoliveface broadjaw darkhairreceding darkstubble; ochreshirt brownvest/charcoaltrousers apron."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-spiders-hunger:pelset",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-spiders-hunger/art/characters/pelset.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Pelset\"; title \"The Spider's Hunger\"; role \"Innkeeper / brother\". ONE adult HUMAN man forties, warm OLIVE skin and dark BROWN short receding hair, broad square jaw, tired deep eyes, short ordinary dark stubble, small visibly PEELING dry skin patch beside NOSE from rubbing. Plain faded OCHRE shirt sleevesturnedup, worn BROWN vest, long CHARCOAL trousers, utilitarian dark shoes, graylinen waist apron. Complete front/rear, hands empty ordinary fivefingers, tense hospitable expression; large matching face. One small bundle of mundane BILLS tiedwithstring, nolegiblewords, label \"The roof\". No monstrouscasting, magicalaura, glowingbreath/eyes, weapon or spider. Cool earlymorningwindowlight plus limited stoveochreplanes, broad connected grayvioletshadow; bold matteoil face/hands equally withclothes, ivory nofloor.",
+        "references": [
+          {
+            "path": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+            "role": "inspected broad oil, cold windowlight/limited warmstove only; no kitchen",
+            "inspected": true,
+            "sha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:36:47.725135+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Pelset\"; title \"The Spider's Hunger\"; role \"Innkeeper / brother\". ONE adult HUMAN man forties, warm OLIVE skin and dark BROWN short receding hair, broad square jaw, tired deep eyes, short ordinary dark stubble, small visibly PEELING dry skin patch beside NOSE from rubbing. Plain faded OCHRE shirt sleevesturnedup, worn BROWN vest, long CHARCOAL trousers, utilitarian dark shoes, graylinen waist apron. Complete front/rear, hands empty ordinary fivefingers, tense hospitable expression; large matching face. One small bundle of mundane BILLS tiedwithstring, nolegiblewords, label \"The roof\". No monstrouscasting, magicalaura, glowingbreath/eyes, weapon or spider. Cool earlymorningwindowlight plus limited stoveochreplanes, broad connected grayvioletshadow; bold matteoil face/hands equally withclothes, ivory nofloor.",
+            "references": [
+              {
+                "path": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+                "role": "inspected broad oil, cold windowlight/limited warmstove only; no kitchen",
+                "inspected": true,
+                "sha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read, exact distinct roles/form/state checked against cover/roompaint. Predawn Ivrine before tear, LEFTbasket and no visibleanimals; humanrefs onlypersonalprops. Spiders individuallysourcecentral, no invented species/sex and oneidentity, eightlegs constrained with clear dorsalorientation.",
+              "Five separate oneassetcalls, each <=2 inspectedhashpinnedrefs. Animal composition adaptation supportscounting; allwholebody field ivory, readable names art-onlyprovenance recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f0193772-f04f-4bd5-ac58-76ac9ef1a007.png",
+            "outputSha256": "20eb5c9589bee0e8cd48f0235848099b97a0e477c4dd0f2c3b6d08f29e78aa20",
+            "finishedAt": "2026-09-24T07:44:10.595560+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: coherent tired adultbrother front/rear/face, recedinghair/stubble and drynoseregion, apron/workingclothes/bills matchsource and ordinarybody.",
+              "Complete shoes/hands, broad matte face oil and morningkitchenwarm/coollight, cleanivory no setting/glow/swatch."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f0193772-f04f-4bd5-ac58-76ac9ef1a007.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd",
+        "outputSha256": "20eb5c9589bee0e8cd48f0235848099b97a0e477c4dd0f2c3b6d08f29e78aa20",
+        "references": [
+          {
+            "path": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
+            "role": "inspected broad oil, cold windowlight/limited warmstove only; no kitchen",
+            "inspected": true,
+            "sha256": "3084c9660dbeccc72b5fc90040a06db2b02753264b036ca6943bf702bc235d9c"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: coherent tired adultbrother front/rear/face, recedinghair/stubble and drynoseregion, apron/workingclothes/bills matchsource and ordinarybody.",
+          "Complete shoes/hands, broad matte face oil and morningkitchenwarm/coollight, cleanivory no setting/glow/swatch."
+        ],
+        "specificationSha256": "93316584f86e321e543d08de284b3dc41ca6fa0f027df476443ff460ff7e75b3"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "20eb5c9589bee0e8cd48f0235848099b97a0e477c4dd0f2c3b6d08f29e78aa20"
+    },
+    {
+      "id": "oshrel",
+      "name": "Oshrel",
+      "role": "poucher who diagnoses saturation and loans protector",
+      "form": "adult human woman",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the poucher",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Oshrel no matches in universe, NAMES, current reviews or character specs; art-only no source/canon change."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The poucher touched a fine brush to the animal's rear foot.",
+          "explanation": "Direct diagnosticcare main support."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adultwoman, mintchewing, capablebreathwarmtest.",
+        "equipment": "Finebrush, leather/gauzepouches, waxedcord; no visiblemagicrequired."
+      },
+      "visualInterpretation": [
+        "Art-only olderfifties round warmbrownface coilygrayhairtiedback, narroweyes; rustblouse slateworkdress brownleatherapron."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-spiders-hunger:oshrel",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-spiders-hunger/art/characters/oshrel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, 1536x1024. Preserve exact Oshrel adultidentity, broadmatteoilface/clothespaint, front/rear anatomy, brush, emptypouches, headingandlabels. Remove ONLY the gray/brown FLOOR SHADOW MARKS immediately behind/between rearboots and underneath/right of isolated loanpouch, replacing with clean warmIVORY matchingpage. All boots/cord/pouch edges remain whole. This character-only folio has no castgroundshadow, baseplane/scenery orswatches. Keepface/light/costumefixed.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-40eb0f32-ff20-4b6d-98b0-62d9ab0116e0.png",
+            "role": "inspectedcandidate preserve allcharacter paint, removegroundmarks only",
+            "inspected": true,
+            "sha256": "7e2503d856dfd174201403bc797cfe5551054a2c6d7a1bb76ad039169af774df"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:36:47.728226+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Oshrel\"; title \"The Spider's Hunger\"; role \"Poucher\". ONE mature HUMAN woman fifties, medium warm BROWN skin, roundface with widecheekbones, narrow dark matteeyes, gray tightlycoiledhair in compactlowbun, patient alert expression. Muted RUST blouse, slate full anklelengthworkdress, plain BROWN leatherworkapron, brownlowshoes. Complete front/rear; normalfivefinger hands holding one FINE SOFT paintBRUSH for spidercare, no actualspider/othercreature depicted. Large sameface. Isolated EMPTY little BROWN LEATHER POUCH with gauze front, waxedneckcord and small BONE feedinghole PEG, label \"Loan pouch\". No glow/spellgesture/wizardhat. Use image1 cool natural morningwindow light with warm reflectedumber, broad connectedshadow, mattepaint face andhands; no scene/floor.",
+            "references": [
+              {
+                "path": "stories/the-spiders-hunger/art/interiors/02-the-pouchers-counter.png",
+                "role": "inspected broad matte Group of Seven oil and cool morningwindow/warm reflectedwoodlight; no shop",
+                "inspected": true,
+                "sha256": "c24095b86ef8509b7c917c6b2b7cf3d6f4a25fe35689686215d83b0178acaa35"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read, exact distinct roles/form/state checked against cover/roompaint. Predawn Ivrine before tear, LEFTbasket and no visibleanimals; humanrefs onlypersonalprops. Spiders individuallysourcecentral, no invented species/sex and oneidentity, eightlegs constrained with clear dorsalorientation.",
+              "Five separate oneassetcalls, each <=2 inspectedhashpinnedrefs. Animal composition adaptation supportscounting; allwholebody field ivory, readable names art-onlyprovenance recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-40eb0f32-ff20-4b6d-98b0-62d9ab0116e0.png",
+            "outputSha256": "7e2503d856dfd174201403bc797cfe5551054a2c6d7a1bb76ad039169af774df",
+            "finishedAt": "2026-09-24T07:44:10.619517+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actualpixels identity/paint/sourcebrush andpouch pass, but tiny graygroundmarks behindrearfeet and underpouch need plainivory removal."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:44:12.499220+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, 1536x1024. Preserve exact Oshrel adultidentity, broadmatteoilface/clothespaint, front/rear anatomy, brush, emptypouches, headingandlabels. Remove ONLY the gray/brown FLOOR SHADOW MARKS immediately behind/between rearboots and underneath/right of isolated loanpouch, replacing with clean warmIVORY matchingpage. All boots/cord/pouch edges remain whole. This character-only folio has no castgroundshadow, baseplane/scenery orswatches. Keepface/light/costumefixed.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-40eb0f32-ff20-4b6d-98b0-62d9ab0116e0.png",
+                "role": "inspectedcandidate preserve allcharacter paint, removegroundmarks only",
+                "inspected": true,
+                "sha256": "7e2503d856dfd174201403bc797cfe5551054a2c6d7a1bb76ad039169af774df"
+              }
+            ],
+            "preflight": [
+              "Inspectedactualcandidate targeted defects isolated in completeprompt; preserve body/identity/props; no newscene. Eightspiderlegs countchecked, art-onlyonecrook side explicit.",
+              "One inspected immutablecandidate editinput, source unchanged, noimageprocessing beyond built-in."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-145a9419-ecaf-484f-8af2-cbd5062194f3.png",
+            "outputSha256": "c4ad8f3bf0c3ec57185bdac2676b45b0625eae152b4c4c179af6312fcb1b8364",
+            "finishedAt": "2026-09-24T07:52:18.784540+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected actualpixels inspected: smallgroundmarks removed cleanivory; coherent original adultpoucher, finebrush, emptyleathergauzebonepegpouch, graycoiledbun/fullclothing/wholeboots.",
+              "Broad mattehumanface andclothing oil, source morningwarm/coollight; sourceitem textreadable no inventedmagic."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-145a9419-ecaf-484f-8af2-cbd5062194f3.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd",
+        "outputSha256": "c4ad8f3bf0c3ec57185bdac2676b45b0625eae152b4c4c179af6312fcb1b8364",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-40eb0f32-ff20-4b6d-98b0-62d9ab0116e0.png",
+            "role": "inspectedcandidate preserve allcharacter paint, removegroundmarks only",
+            "inspected": true,
+            "sha256": "7e2503d856dfd174201403bc797cfe5551054a2c6d7a1bb76ad039169af774df"
+          }
+        ],
+        "evidence": [
+          "Corrected actualpixels inspected: smallgroundmarks removed cleanivory; coherent original adultpoucher, finebrush, emptyleathergauzebonepegpouch, graycoiledbun/fullclothing/wholeboots.",
+          "Broad mattehumanface andclothing oil, source morningwarm/coollight; sourceitem textreadable no inventedmagic."
+        ],
+        "specificationSha256": "4484da3647a0ae5fe789ac828fca6a099e847f81d89b62cb526945cca6e161c3"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "c4ad8f3bf0c3ec57185bdac2676b45b0625eae152b4c4c179af6312fcb1b8364"
+    },
+    {
+      "id": "sivvet",
+      "name": "Sivvet",
+      "role": "Ivrine's eight-year companion spider",
+      "form": "small protective spider; sex/species unspecified",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "Ivrine's own spider",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Sivvet no matches in universe, NAMES, current reviews or character specs; art-only no source/canon change."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "its pale stripes had spread apart",
+          "explanation": "Swollenfullopeningabdomen."
+        },
+        {
+          "quote": "It had traveled eight years with her",
+          "explanation": "Individually recurring central animal."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Eight-legged oldcompanion, creamyabdomenmarks/palestripes, swollenlethargicopening; recoverylater.",
+        "equipment": "Leathergauze neckpouch bonepeg."
+      },
+      "visualInterpretation": [
+        "Warmbrown body and cream transversebands compatiblecover; no invented species/sex; labels explain enlarged scale."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Opening full/overfed condition, lethargic swollenabdomen; source notdead/injured."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-spiders-hunger:sivvet",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-spiders-hunger/art/characters/sivvet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve 1536x1024 landscape Sivvet folio, SAME swollenbrowncreamstriped spider, EIGHT walkinglegs plus smallpedipalps bothviews, alllegsilhouettes, abdomen detail, EMPTY sourcepouch and readable name/title. Remove ALL grayblue castgroundshadow strokes UNDER and AROUND both spiders and pouch. Replace with clean bright warmIVORY exactly matchingbackground, no floorplane. Remove the entire invented prose paragraph at lower middle beginning 'A small, steady presence' and ending 'Always hungry.' Replace with untouched blankivory. KEEP concise headings, 'Full', enlargedview labels, anatomy notes and pouchlabels. Retain broad matte oil, creamtransversebands/spreadapart swollenabdomen, noanatomy redesign ornewcreature.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-077c88fc-c37d-4318-a773-a4d8ac0d58dd.png",
+            "role": "inspectedcandidate removegroundshadow and inventedprose only",
+            "inspected": true,
+            "sha256": "f7362d5a718ed687ff6949259fba9ae27a34de7033f3e92acc04734ba3809eb1"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:36:47.731742+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE NONHUMAN CHARACTER reference sheet, 1536x1024 landscape 3:2 on clean warm ivory. Canadian Group of Seven matte opaque OIL PAINT, broad connected bristle strokes and selective impasto even on animal body; no photoreal macro/CGI/cute cartoon. TWO clear complete enlarged views of SAME SINGLE SPIDER, dorsal and side three-quarter, unclipped everyleg, with small abdomen detail and its empty leather/gauze pouch as personalhousing. Exact readable name/storytitle, concise labels including 'Enlarged views'. Scientifically legible SPIDER anatomy: TWO main body segments, EIGHT walkinglegs total FOUR attached to cephalothorax on EACH SIDE, small pedipalps close mouth not extra legs, no antennae. Source small real spider thatfits neckpouch, not giantmonster, no human/hands/anotheranimal or fly. No scene/web/environment/floorpatch/swatches.\nHeading \"Sivvet\"; title \"The Spider's Hunger\"; role \"Eight-year companion\". ONE small old companion SPIDER in swollen FULL condition: warm BROWN cephalothorax and legs, large swollen ovalabdomen with distinct CREAM transverse stripes SPREAD APART across brown. Sourceimage2 oldspiderdesignonly. EIGHT normal jointed walkinglegs countablefour per side, relaxed crouched slow posture, everylegintact; tiny ordinary dark eyes notglowing or human. Dorsal and threequarter views SAME identity with same pale markings; label \"Full\". Small abdomenstripe detail, EMPTY flattenedbrown LEATHER pouch whitegauzefront smallBONE feedingpeg waxedneckcord label \"Rest off the skin\". No other spider/fly, human, monsterfangs, webs or magicrays. IMAGE1 broad MATTE oil and coolmorningwindow illumination with subduedwarmreflection, connectedshadow; cover is design only no photoreal macro.",
+            "references": [
+              {
+                "path": "stories/the-spiders-hunger/art/interiors/02-the-pouchers-counter.png",
+                "role": "inspected broad matte Group of Seven oil and cool morningwindow/warm reflectedwoodlight; no shop",
+                "inspected": true,
+                "sha256": "c24095b86ef8509b7c917c6b2b7cf3d6f4a25fe35689686215d83b0178acaa35"
+              },
+              {
+                "path": "stories/the-spiders-hunger/title-image.jpg",
+                "role": "inspected subordinate oldspider brownbody creamstripes and brownleather gauzebonepeg pouch; not photographic render",
+                "inspected": true,
+                "sha256": "58e6027ee45ba86bb82277b3b436759f3e75f2ac93c335d186a00e89f091653f"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read, exact distinct roles/form/state checked against cover/roompaint. Predawn Ivrine before tear, LEFTbasket and no visibleanimals; humanrefs onlypersonalprops. Spiders individuallysourcecentral, no invented species/sex and oneidentity, eightlegs constrained with clear dorsalorientation.",
+              "Five separate oneassetcalls, each <=2 inspectedhashpinnedrefs. Animal composition adaptation supportscounting; allwholebody field ivory, readable names art-onlyprovenance recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-077c88fc-c37d-4318-a773-a4d8ac0d58dd.png",
+            "outputSha256": "f7362d5a718ed687ff6949259fba9ae27a34de7033f3e92acc04734ba3809eb1",
+            "finishedAt": "2026-09-24T07:44:10.622531+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actualpixels: eightwalkinglegs dorsal countfourperside plus smallpedipalps, samecreamstripedswollenbody, sourceemptypouch, broadpaint pass.",
+              "Bluegroundshadows underanimals/pouch and invented prose caption including contradictory Always hungry require removal. Keep sourceFull and conciseanatomylabelsonly."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:44:12.502197+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve 1536x1024 landscape Sivvet folio, SAME swollenbrowncreamstriped spider, EIGHT walkinglegs plus smallpedipalps bothviews, alllegsilhouettes, abdomen detail, EMPTY sourcepouch and readable name/title. Remove ALL grayblue castgroundshadow strokes UNDER and AROUND both spiders and pouch. Replace with clean bright warmIVORY exactly matchingbackground, no floorplane. Remove the entire invented prose paragraph at lower middle beginning 'A small, steady presence' and ending 'Always hungry.' Replace with untouched blankivory. KEEP concise headings, 'Full', enlargedview labels, anatomy notes and pouchlabels. Retain broad matte oil, creamtransversebands/spreadapart swollenabdomen, noanatomy redesign ornewcreature.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-077c88fc-c37d-4318-a773-a4d8ac0d58dd.png",
+                "role": "inspectedcandidate removegroundshadow and inventedprose only",
+                "inspected": true,
+                "sha256": "f7362d5a718ed687ff6949259fba9ae27a34de7033f3e92acc04734ba3809eb1"
+              }
+            ],
+            "preflight": [
+              "Inspectedactualcandidate targeted defects isolated in completeprompt; preserve body/identity/props; no newscene. Eightspiderlegs countchecked, art-onlyonecrook side explicit.",
+              "One inspected immutablecandidate editinput, source unchanged, noimageprocessing beyond built-in."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-369f1e52-cae6-4db9-a8cb-eaaa955f278b.png",
+            "outputSha256": "d4cbbae86e926fc1940585e652bc414a5a39398e89b2bcb831144bf77838fb9c",
+            "finishedAt": "2026-09-24T07:52:18.801129+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected actualpixels inspected: bluefloorstrokes and inventedAlwayshungry paragraph removed. Entire swollencreamstriped brownspider remains consistent in both enlargedviews; dorsal eightlegs fourperside plus smallpedipalps.",
+              "DistinctopeningFullstate, nosecondidentity, source emptypouch, broad mattepaint/cleanivory, textlegible."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-369f1e52-cae6-4db9-a8cb-eaaa955f278b.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd",
+        "outputSha256": "d4cbbae86e926fc1940585e652bc414a5a39398e89b2bcb831144bf77838fb9c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-077c88fc-c37d-4318-a773-a4d8ac0d58dd.png",
+            "role": "inspectedcandidate removegroundshadow and inventedprose only",
+            "inspected": true,
+            "sha256": "f7362d5a718ed687ff6949259fba9ae27a34de7033f3e92acc04734ba3809eb1"
+          }
+        ],
+        "evidence": [
+          "Corrected actualpixels inspected: bluefloorstrokes and inventedAlwayshungry paragraph removed. Entire swollencreamstriped brownspider remains consistent in both enlargedviews; dorsal eightlegs fourperside plus smallpedipalps.",
+          "DistinctopeningFullstate, nosecondidentity, source emptypouch, broad mattepaint/cleanivory, textlegible."
+        ],
+        "specificationSha256": "8a3343a1b66fc26cee37ffba7b7ad3d6dbd89b8a1ef86dd730f878af56e935d6"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d4cbbae86e926fc1940585e652bc414a5a39398e89b2bcb831144bf77838fb9c"
+    },
+    {
+      "id": "kezz",
+      "name": "Kezz",
+      "role": "loan spider that protects Ivrine",
+      "form": "small protective spider; sex/species unspecified",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the loan spider",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Kezz no matches in universe, NAMES, current reviews or character specs; art-only no source/canon change."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "one foreleg was crooked",
+          "explanation": "Individual distinguishing feature."
+        },
+        {
+          "quote": "its abdomen had none of the creamy marks",
+          "explanation": "Explicit unmarked contrast."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Thinactive; narrowunmarkedabdomen; onecrookedforeleg, eightlegs allpresent.",
+        "equipment": "Loanleathergauze pouch hiddenunderskinneckline."
+      },
+      "visualInterpretation": [
+        "Art-only darkumberbody, crookedforeleg chosen anatomicalLEFT foreleg for consistent sheet; source gives no side."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Loan at poucher active/thin; anatomicalLEFT foreleg crooked but intact."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-spiders-hunger:kezz",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-spiders-hunger/art/characters/kezz.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, ONE 1536x1024 Kezz spider reference. The LARGE DORSAL SPIDER AT LEFT is correct and must remain PIXEL-COMPOSITION intact: eightwalkinglegs fourperside, ONLY its viewerLEFT/anatomicalLEFT forelegcrooked, unmarkednarrowbody, pairedpedipalps. Targeted COMPOSITION repair: REMOVE the entire SMALL WHOLE SPIDER at TOPRIGHT and its 'Side three-quarter view' label; replace that removedbody region with one clearly isolated ENLARGED DETAIL of the SAME crooked LEFT FORELEG copied in design from the large dorsalbody's top-left crookedleg. It is a single LEG STUDY ONLY with natural bent joints, no head/abdomen/eyes/newanimal. Exact shortlabel 'Left foreleg — detail'. This sheet now contains ONE COMPLETE SPIDER DORSAL VIEW, one cropped enlarged legdetail, existing abdomen detail, existingempty leathergauzepouch. Keepallremainingtext/name/title/layout and allotherart unchanged. Background brightwarmIVORY perfectlyclean nofloor/castgroundshadows/swatches. Broadmatteoil samepaint, no newbody orotheridentity.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5d5686f7-7f31-40f2-b7a0-2ca859425d74.png",
+            "role": "inspectedcandidate dorsal complete eightleggedbody authoritative; simplify incorrect sideview into exactleftlegdetail",
+            "inspected": true,
+            "sha256": "83f46e766d9c8ae480578efaf281a5df62fb509f8bfb8f251f2ed1f55d1f3972"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:36:47.734483+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE NONHUMAN CHARACTER reference sheet, 1536x1024 landscape 3:2 on clean warm ivory. Canadian Group of Seven matte opaque OIL PAINT, broad connected bristle strokes and selective impasto even on animal body; no photoreal macro/CGI/cute cartoon. TWO clear complete enlarged views of SAME SINGLE SPIDER, dorsal and side three-quarter, unclipped everyleg, with small abdomen detail and its empty leather/gauze pouch as personalhousing. Exact readable name/storytitle, concise labels including 'Enlarged views'. Scientifically legible SPIDER anatomy: TWO main body segments, EIGHT walkinglegs total FOUR attached to cephalothorax on EACH SIDE, small pedipalps close mouth not extra legs, no antennae. Source small real spider thatfits neckpouch, not giantmonster, no human/hands/anotheranimal or fly. No scene/web/environment/floorpatch/swatches.\nHeading \"Kezz\"; title \"The Spider's Hunger\"; role \"Loan spider\". ONE small THIN ACTIVE spider with narrow dark UMBER UNMARKED abdomen, no creamstripe/dots or otherpattern anywhereonabdomen. Brownblackcephalothorax and EIGHT slender jointed walkinglegs; EXACTLY ONE CROOKED intact FIRST/FRONT LEFT leg, visibly bent with an odd sideways angle but NO AMPUTATION and not extraappendage. In DORSAL VIEW head facesTOP, anatomical LEFT is VIEWERLEFT. Four walkinglegs eachside connectedtocephalothorax. Threequarter view same crookedleftforeleg, alert raisedfrontposture; all legsunclipped. Small crookedlegdetail label \"Crooked foreleg\". EMPTY smallleathergauze loanpouch with waxedneckcord and bonefeedingpeg, label \"Hidden protection\". No speciesclaim, human, secondanimal, webs, magicrays or monsterfangs. IMAGE1 primary broadMATTEoil and coolmorningwindow light/small warmreflection, connectedumberblue shadows, no macrophoto/CGI.",
+            "references": [
+              {
+                "path": "stories/the-spiders-hunger/art/interiors/02-the-pouchers-counter.png",
+                "role": "inspected broad matte Group of Seven oil and cool morningwindow/warm reflectedwoodlight; no shop",
+                "inspected": true,
+                "sha256": "c24095b86ef8509b7c917c6b2b7cf3d6f4a25fe35689686215d83b0178acaa35"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read, exact distinct roles/form/state checked against cover/roompaint. Predawn Ivrine before tear, LEFTbasket and no visibleanimals; humanrefs onlypersonalprops. Spiders individuallysourcecentral, no invented species/sex and oneidentity, eightlegs constrained with clear dorsalorientation.",
+              "Five separate oneassetcalls, each <=2 inspectedhashpinnedrefs. Animal composition adaptation supportscounting; allwholebody field ivory, readable names art-onlyprovenance recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-66d85e0d-159e-4f2a-8a04-46a5ab3a9ecf.png",
+            "outputSha256": "e2421b4fe974d11f19aa82e2355b0d2253fecc92b461efec64dd26d3227c12f2",
+            "finishedAt": "2026-09-24T07:44:10.625172+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actualpixels: unmarkedthinbody, eightwalkinglegs dorsal fourperside, anatomicalleftcrook clear; broadpaint and pouch pass.",
+              "Bluegrayfloorpatches and inventedcentralprose needremoval; sideviewcrook should be unambiguoussameleftfirstleg on nearestlowerforeground side, not oppositefarforeleg."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:44:12.505083+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only as 1536x1024 Kezz single-spider characterfolio. Preserve dorsal spider EXACTLY: eightlegs fourperside, headtop, ONLY anatomicalLEFT firstforeleg crooked atVIEWERLEFT; unmarkeddark narrowabdomen and allotherlegsanatomy unchanged. In smaller three-quarter spider at TOPRIGHT, show SAME LEFT FIRST FORELEG with crookedsidewaysbend on NEAREST/LOWER-LEFT foreground side, attachedby head; oppositefarfirstleg normal. Exactlyeightlegs, no extras/amputation. Remove ALL grayblue groundshadow strokes beneath/around both animals and emptypouch; plain bright warmIVORY up to completeleg/pouch/cordedges. Remove the invented middle prose paragraph beginning 'Kezz lives' through 'what it is given.' Leave blankivory there. Retain name/title/role and shortsource/anatomy labels, mattebroad oil and narrowUNMARKEDabdomen, no othercreatures/scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-66d85e0d-159e-4f2a-8a04-46a5ab3a9ecf.png",
+                "role": "inspectedcandidate preserve dorsalidentity/anatomy; ground/prose and sideviewleftcrookfix",
+                "inspected": true,
+                "sha256": "e2421b4fe974d11f19aa82e2355b0d2253fecc92b461efec64dd26d3227c12f2"
+              }
+            ],
+            "preflight": [
+              "Inspectedactualcandidate targeted defects isolated in completeprompt; preserve body/identity/props; no newscene. Eightspiderlegs countchecked, art-onlyonecrook side explicit.",
+              "One inspected immutablecandidate editinput, source unchanged, noimageprocessing beyond built-in."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5d5686f7-7f31-40f2-b7a0-2ca859425d74.png",
+            "outputSha256": "83f46e766d9c8ae480578efaf281a5df62fb509f8bfb8f251f2ed1f55d1f3972",
+            "finishedAt": "2026-09-24T07:52:18.817258+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Groundshadows and inventedcaption corrected; dorsalspider has exacteightwalkinglegs/leftcrook/unmarkedabdomen, but sideviewstill showscrook on oppositeforeleg.",
+              "Diagnosis: mirroredorientation amongdenselegs makes secondview unreliable. Simplify composition by replacing secondwholebody with closeupof SAME leftforeleg from authoritative dorsalview, keeponecompletecountablebody andabdomendetail."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:52:20.856606+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, ONE 1536x1024 Kezz spider reference. The LARGE DORSAL SPIDER AT LEFT is correct and must remain PIXEL-COMPOSITION intact: eightwalkinglegs fourperside, ONLY its viewerLEFT/anatomicalLEFT forelegcrooked, unmarkednarrowbody, pairedpedipalps. Targeted COMPOSITION repair: REMOVE the entire SMALL WHOLE SPIDER at TOPRIGHT and its 'Side three-quarter view' label; replace that removedbody region with one clearly isolated ENLARGED DETAIL of the SAME crooked LEFT FORELEG copied in design from the large dorsalbody's top-left crookedleg. It is a single LEG STUDY ONLY with natural bent joints, no head/abdomen/eyes/newanimal. Exact shortlabel 'Left foreleg — detail'. This sheet now contains ONE COMPLETE SPIDER DORSAL VIEW, one cropped enlarged legdetail, existing abdomen detail, existingempty leathergauzepouch. Keepallremainingtext/name/title/layout and allotherart unchanged. Background brightwarmIVORY perfectlyclean nofloor/castgroundshadows/swatches. Broadmatteoil samepaint, no newbody orotheridentity.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5d5686f7-7f31-40f2-b7a0-2ca859425d74.png",
+                "role": "inspectedcandidate dorsal complete eightleggedbody authoritative; simplify incorrect sideview into exactleftlegdetail",
+                "inspected": true,
+                "sha256": "83f46e766d9c8ae480578efaf281a5df62fb509f8bfb8f251f2ed1f55d1f3972"
+              }
+            ],
+            "preflight": [
+              "Diagnosis recorded: two bodyorientations created mirroredcrook. Simplified toonecomplete dorsalbody and itslegdetail; requiredoneidentity preserved, no minimumtwofullviews usercondition.",
+              "Inspectedcandidatebody eightlegs correct; exacttargetregion and label removal specified, no sourcechange."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-584993bd-f35a-4e37-94a6-57973bcf9a02.png",
+            "outputSha256": "7225bfeb5f8411205e50c93549ef21fae171d5b5e3dba92e55d2a422ec9e600a",
+            "finishedAt": "2026-09-24T07:57:13.900881+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual thirdcandidate inspected: simplified composition has ONE complete dorsalspider with exacteightwalkinglegs (four eachside) and smallpairedpedipalps, anatomicalLEFT firstforeleg crooked and intact.",
+              "Isolated enlargedleftlegdetail preserves itsbend, removing earlier mirroredsecondbody. Thinunmarkedabdomen, emptyloanpouch, art-onlyname labels, broadmatteoil/cleanivory nofloor or inventedprose."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-584993bd-f35a-4e37-94a6-57973bcf9a02.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd",
+        "outputSha256": "7225bfeb5f8411205e50c93549ef21fae171d5b5e3dba92e55d2a422ec9e600a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5d5686f7-7f31-40f2-b7a0-2ca859425d74.png",
+            "role": "inspectedcandidate dorsal complete eightleggedbody authoritative; simplify incorrect sideview into exactleftlegdetail",
+            "inspected": true,
+            "sha256": "83f46e766d9c8ae480578efaf281a5df62fb509f8bfb8f251f2ed1f55d1f3972"
+          }
+        ],
+        "evidence": [
+          "Actual thirdcandidate inspected: simplified composition has ONE complete dorsalspider with exacteightwalkinglegs (four eachside) and smallpairedpedipalps, anatomicalLEFT firstforeleg crooked and intact.",
+          "Isolated enlargedleftlegdetail preserves itsbend, removing earlier mirroredsecondbody. Thinunmarkedabdomen, emptyloanpouch, art-onlyname labels, broadmatteoil/cleanivory nofloor or inventedprose."
+        ],
+        "specificationSha256": "9826cb72bf3f34229c50bdaca0fc45035763fea06f129e8721441b57638710db"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "7225bfeb5f8411205e50c93549ef21fae171d5b5e3dba92e55d2a422ec9e600a"
+    }
+  ],
+  "sourceSha256": "3fee2f3e06dd77fee903a5288510ea74e75c09aea9dd22dca9ae0b757f3b2acd"
+}
