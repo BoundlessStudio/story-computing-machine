@@ -135,7 +135,7 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertIn('&lt;script&gt;alert(&quot;x&quot;)&lt;/script&gt;', document)
         self.assertIn('The Valley &amp; &quot;Morning&quot;', document)
         self.assertIn(f'href="{image["full"]["path"]}"', document)
-        self.assertIn('href="gallery.html" aria-current="page">Image Gallery', document)
+        self.assertIn('href="gallery.html" aria-current="page">Gallery', document)
         self.assertIn('id="gallery-viewer"', document)
         self.assertIn('loading="lazy"', document)
         self.assertIn('width="96" height="64"', document)
@@ -221,7 +221,7 @@ class LandscapeGalleryTests(unittest.TestCase):
         empty = gallery.load_snapshot(self.snapshot)
         self.assertEqual(empty["stories"], [])
         self.assertIn("coming soon", gallery.render_gallery(empty))
-        self.assertIn('href="../gallery.html">Image Gallery', build.render_story(self.story))
+        self.assertIn('href="../gallery.html">Gallery', build.render_story(self.story))
 
     def test_duplicate_identity_and_path_traversal_are_rejected(self):
         original = self.capture()

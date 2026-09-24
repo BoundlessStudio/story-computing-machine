@@ -474,7 +474,7 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None,
         )
     introduction = (
         '<section class="gallery-intro"><p class="gallery-eyebrow">Studies of the story world</p>'
-        '<h1>Image Gallery</h1><p class="gallery-lede">Art from across our stories, gathered in one gallery.</p>'
+        '<h1>Gallery</h1><p class="gallery-lede">Art from across our stories, gathered in one gallery.</p>'
         '<p class="gallery-study">Explore the collection and discover another side of the story world. '
         'Follow any piece back to its story to read more.</p>'
         f'<p class="gallery-summary">{landscape_count:,} landscapes · {interior_count:,} interiors'
@@ -507,7 +507,7 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None,
         '<p id="viewer-error" role="status" hidden>This image could not load. Try opening it directly.</p></div></dialog>'
     )
     return build._page(
-        "Image Gallery — Story Computing Machine", introduction + controls + empty
+        "Gallery — Story Computing Machine", introduction + controls + empty
         + f'<div class="gallery-collection">{"".join(groups)}</div>' + viewer,
         "index.html", "styles.css", "theme.js", current="landscapes",
         script_href="landscape-gallery.js", extra_stylesheet_hrefs=("landscape-gallery.css",),

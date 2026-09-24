@@ -1124,7 +1124,7 @@ def _page(
         f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
         f'<nav class="site-nav" aria-label="Primary">'
         f'<a href="{library_href}"{library_current}>Library</a>'
-        f'<a href="{html.escape(gallery_href, quote=True)}"{gallery_current}>Image Gallery</a></nav>'
+        f'<a href="{html.escape(gallery_href, quote=True)}"{gallery_current}>Gallery</a></nav>'
         f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
     )
     theme_script = (
