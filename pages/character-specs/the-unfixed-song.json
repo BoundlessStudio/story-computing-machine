@@ -1,0 +1,743 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-unfixed-song",
+  "title": "The Unfixed Song",
+  "source": "stories/the-unfixed-song/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final prose and full prompt read. Five named sustained human principals; source feet/instruments/slates kept, cover not treated as authority. No supplied originals or recurring universe identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Mazhira's mother, Zulmec's teacher, young deckworker, boat crews",
+      "reason": "Backstory or brief epilogue/supporting people."
+    },
+    {
+      "name": "Climate archive",
+      "reason": "Nonliving fixed-field technological forecasting service, no personhood."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "mazhira",
+      "name": "Mazhira",
+      "role": "Young lead-watch navigator who authorizes the binding route variant and teaches its cost.",
+      "form": "Young adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Through her bare feet came the shiver of hinged bridges",
+          "explanation": "Young lead-watch navigator who authorizes the binding route variant and teaches its cost."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Young female navigator, source bare feet; thumb pressed into watch-duty authentication seal at cabinet during decision. Next morning holds route drum and teaching stick; no wristwatch is stated or depicted."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Cover compatible young dark long-haired/tan-faced woman/blue garments; prose overrides boots to barefoot, no unrequired metal neckcollar. Art apparent23 dark eyes, slate-blue loose coat/grey tunic rolled brown trousers.",
+        "Source correction after full reread: watch seal describes lead-watch duty authentication, not an analogue wristwatch. No personal wristwatch or portable seal invented; next-morning sheet shows bare wrists and teaching stick."
+      ],
+      "states": [
+        {
+          "name": "Next morning",
+          "description": "Young female navigator, source bare feet; watch seal thumb, call horn, route drum/teaching stick final."
+        }
+      ],
+      "lighting": "Natural morning maritime sun, no ocean shown.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Mazhira"
+      },
+      "status": "completed",
+      "output": "stories/the-unfixed-song/art/characters/mazhira.png",
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit this exact Mazhira character sheet. Remove the small round wristwatch and its strap from EVERY depiction: the front figure's wrist and the lower-right hand study, and any other visible copy. Restore the same natural tan bare wrist in broad opaque oil paint. Change the exact small caption under the hand study from Teaching stick and watch to Teaching stick. Do not add another object, seal, medallion, clock, writing or bracelet. The story's watch seal means lead-watch duty authentication at a cabinet, not a wristwatch, and does not belong on this next-morning body. Preserve the existing teaching stick, route drum, correct diagonal strap from anatomical RIGHT shoulder to anatomical LEFT hip in both body views, bare feet, blue coat, grey tunic, brown trousers, face identity, black hair, lighting, all other text, ivory support and entire layout. Make no other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5211e728-3b0f-47a4-bab1-f64c44948057.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "ed4e904c2585f6a7249d66e3e228621461e622a983539cf1778433024302d7e1"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Mazhira; exact subtitle The Unfixed Song. ONE young adult WOMAN about23, warm TAN skin, long windblown BLACK hair, dark eyes, lean ordinary body. Loose SLATE BLUE coat over grey tunic, rolled brown trousers, source BARE FEET in every view (ignore cover boots). No metal neck collar. Tired thoughtful expression. Holds ordinary small route DRUM on simple strap and one teaching stick; thumb beside simple nonmagical watchseal in detail. No siren powers, magical notes or instrument aura. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+                "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+                "inspected": true,
+                "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "stories/the-unfixed-song/title-image.jpg",
+                "role": "Compatible young dark hair/blue clothing identity cues only; override boots to source barefeet and omit ungrounded neckring/anime style.",
+                "inspected": true,
+                "sha256": "7f407e2145ea228b7e1c03c9e79132520c42cf28f1c8d0a062364256ef44d075"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.066089+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c269e698-dfe3-4ab2-991a-e9148e04d9e4.png",
+            "outputSha256": "5259ba72701063481a5f09ba5c753f7eafd78321e21e19e66ff834c21d5fcb84",
+            "generatorReview": "Source age/face/bluecoat/barefeet and instruments pass. Blurred vignette obscures headings; worn drum switches anatomical side front/rear. Fix background plus front drum placement and strap only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:18:29.634294+00:00",
+            "prompt": "Mazhira exact sheet correction. Replace every dark blurred background/support with UNIFORM LIGHT WARM IVORY, including all edges/gaps, make exact heading Mazhira and subtitle The Unfixed Song clearly darkbrown. Preserve all face/hair/bluecoat/barefeet/morning paint. Fix ONLY FRONT body's drum/strap side: rear drum is on her ANATOMICAL LEFT hip (viewer LEFT in rear) and is correct. Move FRONT drum to her ANATOMICAL LEFT hip (viewer RIGHT in front), with front strap descending from her RIGHT shoulder (viewerLEFT) diagonally to LEFT hip(viewerRIGHT). Remove old front drum/strap on opposite side; restore bluecoat naturally there. This one LEFT-hip drum hangs consistently in front/rear. Keep teachingstick in right hand; keep watch, rear body, face, portrait and detached object/studies. No change to anatomy, no extra instruments, no floor/scene/halo.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c269e698-dfe3-4ab2-991a-e9148e04d9e4.png",
+                "sha256": "5259ba72701063481a5f09ba5c753f7eafd78321e21e19e66ff834c21d5fcb84",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Source age/face/bluecoat/barefeet and instruments pass. Blurred vignette obscures headings; worn drum switches anatomical side front/rear. Fix background plus front drum placement and strap only.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fd64547-93e2-439e-b6d9-5977711c5544.png",
+            "outputSha256": "35a4d9dccee3b9c2000483fedda8b89aae9f36a62df059e4076215cfef314848",
+            "generatorReview": "Drum is now fixed LEFT hip in both bodies, but rear strap attaches anatomical LEFT shoulder, unlike front anatomical RIGHT shoulder. Correct only rear strap route."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:31:23.052476+00:00",
+            "prompt": "Edit only the REAR full-body view's brown drum shoulder strap in this exact Mazhira sheet. The worn drum stays at her anatomical LEFT hip (rear image-left). Its strap must come from her anatomical RIGHT shoulder (rear image-right), running diagonally across her back under the hair to the drum at image-left hip. Remove the incorrect short vertical strap from rear image-left shoulder. This must match the existing FRONT view's strap from front image-left RIGHT shoulder to front image-right LEFT hip. Preserve all other pixels/composition/identity, all body/hand/foot anatomy, rear and front drum position, left-wrist watch, held teaching stick, every study and exact text. Ivory support and broad matte opaque oil paint remain unchanged. One very local strap continuity repair.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fd64547-93e2-439e-b6d9-5977711c5544.png",
+                "sha256": "35a4d9dccee3b9c2000483fedda8b89aae9f36a62df059e4076215cfef314848",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Drum is now fixed LEFT hip in both bodies, but rear strap attaches anatomical LEFT shoulder, unlike front anatomical RIGHT shoulder. Correct only rear strap route.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5211e728-3b0f-47a4-bab1-f64c44948057.png",
+            "outputSha256": "ed4e904c2585f6a7249d66e3e228621461e622a983539cf1778433024302d7e1",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:33:07.517444-04:00",
+            "generatorReview": "Recovered actual saved result. Rear strap now runs anatomical RIGHT shoulder to LEFT hip, matching front. Source/reference reinspection before final pin.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T07:08:59.401033-04:00",
+                "reason": "Source reread corrected watch-duty authentication mistranslation; remove invented analogue wristwatch from final next-morning state. Rear strap now passes and must be preserved."
+              }
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:08:59.405730-04:00",
+            "prompt": "Use case: precise-object-edit. Edit this exact Mazhira character sheet. Remove the small round wristwatch and its strap from EVERY depiction: the front figure's wrist and the lower-right hand study, and any other visible copy. Restore the same natural tan bare wrist in broad opaque oil paint. Change the exact small caption under the hand study from Teaching stick and watch to Teaching stick. Do not add another object, seal, medallion, clock, writing or bracelet. The story's watch seal means lead-watch duty authentication at a cabinet, not a wristwatch, and does not belong on this next-morning body. Preserve the existing teaching stick, route drum, correct diagonal strap from anatomical RIGHT shoulder to anatomical LEFT hip in both body views, bare feet, blue coat, grey tunic, brown trousers, face identity, black hair, lighting, all other text, ivory support and entire layout. Make no other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5211e728-3b0f-47a4-bab1-f64c44948057.png",
+                "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+                "inspected": true,
+                "sha256": "ed4e904c2585f6a7249d66e3e228621461e622a983539cf1778433024302d7e1"
+              }
+            ],
+            "reason": "Source reread corrected watch-duty authentication mistranslation; remove invented analogue wristwatch from final next-morning state. Rear strap now passes and must be preserved.",
+            "preflight": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d309-1ec2-7493-8aae-09c8c133e166/exec-132ef6bd-554c-403d-a379-6337c1ca5910.png",
+            "outputSha256": "c7935fa09a0808f89ff7ebcfa3a8a97223de43aed80b6f11a84597b13377741c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:23:18.128837-04:00",
+            "generatorReview": "Saved actual pixels inspected against full finished source, cover, morning painting and immutable prior candidate. No wristwatch remains in either body or hand detail; teaching-stick caption is exact. Watch-duty seal is not misrepresented as personal gear. Drum strap consistently runs anatomical RIGHT shoulder to LEFT hip in front/rear, source bare feet retained, same young adult face/hair/blue coat. Matte sculpted oil treatment, complete silhouettes, ivory ground and exact name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned."
+      },
+      "outputSha256": "c7935fa09a0808f89ff7ebcfa3a8a97223de43aed80b6f11a84597b13377741c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:23:18.128837-04:00",
+        "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa",
+        "outputSha256": "c7935fa09a0808f89ff7ebcfa3a8a97223de43aed80b6f11a84597b13377741c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5211e728-3b0f-47a4-bab1-f64c44948057.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "ed4e904c2585f6a7249d66e3e228621461e622a983539cf1778433024302d7e1"
+          }
+        ],
+        "evidence": "Saved actual pixels inspected against full finished source, cover, morning painting and immutable prior candidate. No wristwatch remains in either body or hand detail; teaching-stick caption is exact. Watch-duty seal is not misrepresented as personal gear. Drum strap consistently runs anatomical RIGHT shoulder to LEFT hip in front/rear, source bare feet retained, same young adult face/hair/blue coat. Matte sculpted oil treatment, complete silhouettes, ivory ground and exact name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "3103825da6899982eacb1b57a93a2b381305eb7e1943268146a919ed0ae16971"
+      }
+    },
+    {
+      "id": "heket",
+      "name": "Heket",
+      "role": "Senior navigator who preserves upper-route testimony, warns of real rear slack and refuses new record.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Heket stood at the sounding rail.",
+          "explanation": "Senior navigator who preserves upper-route testimony, warns of real rear slack and refuses new record."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Elder woman, wetsleeves/legs after skiff then slate/chalk final, spare unornamented singing; no physical specifics."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only apparent70, light sun-weathered skin, narrow face/deep lines, silver hair tight braid, grey eyes; navy highcollar tunic, muted cream trousers and worn shoes."
+      ],
+      "states": [
+        {
+          "name": "Next morning",
+          "description": "Elder woman, wetsleeves/legs after skiff then slate/chalk final, spare unornamented singing; no physical specifics."
+        }
+      ],
+      "lighting": "Natural morning maritime sun.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Heket"
+      },
+      "status": "completed",
+      "output": "stories/the-unfixed-song/art/characters/heket.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Heket; exact subtitle The Unfixed Song. ONE ELDERLY WOMAN about70, light sun-weathered skin, narrow lined face, SILVER hair in a tight long braid, grey eyes, lean build. Plain NAVY high-collar tunic, muted CREAM loose trousers, worn soft shoes. Straight skeptical mouth, observant expression. Hand holds a plain sounding SLATE and chalk; small white depth marks without invented text. No drum in her hands; she refuses to teach the authorized record. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Heket; exact subtitle The Unfixed Song. ONE ELDERLY WOMAN about70, light sun-weathered skin, narrow lined face, SILVER hair in a tight long braid, grey eyes, lean build. Plain NAVY high-collar tunic, muted CREAM loose trousers, worn soft shoes. Straight skeptical mouth, observant expression. Hand holds a plain sounding SLATE and chalk; small white depth marks without invented text. No drum in her hands; she refuses to teach the authorized record. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+                "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+                "inspected": true,
+                "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.067084+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-90e0be34-062d-441e-acde-10977620de4c.png",
+            "outputSha256": "6fe23d3c25f002572c8230c65c0bcb95c48dd6323332f2853ddca287143dda45",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:23:23.096188+00:00",
+            "generatorReview": "Actual pixels inspected: elderly female long graybraid, deeplymature face consistent front/rearportrait, indigo tunic creamtrousers flatshoes; normal slate/chalk hands and natural standingpose. Final morning, no drum or archivepersonification. Allbody/head margins, exacttitle/name, ivory and broad matteoil masses pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "6fe23d3c25f002572c8230c65c0bcb95c48dd6323332f2853ddca287143dda45",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:23:23.096188+00:00",
+        "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa",
+        "outputSha256": "6fe23d3c25f002572c8230c65c0bcb95c48dd6323332f2853ddca287143dda45",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: elderly female long graybraid, deeplymature face consistent front/rearportrait, indigo tunic creamtrousers flatshoes; normal slate/chalk hands and natural standingpose. Final morning, no drum or archivepersonification. Allbody/head margins, exacttitle/name, ivory and broad matteoil masses pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "851523b6d71b26a1c4f6d4760f056c437533c8e2b4043b82c9904e6075e1603c"
+      }
+    },
+    {
+      "id": "zulmec",
+      "name": "Zulmec",
+      "role": "Elder singer whose lower-route variant is authorized, retaining disputed accusation.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Zulmec rested his palm on the drumhead.",
+          "explanation": "Elder singer whose lower-route variant is authorized, retaining disputed accusation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Elder male navigator, old drum and stick/rim beats; wet cuff on return, final asks Mazhira to keep beat."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only apparent74, medium-brown long face, bald crown/white sides and short white beard, heavy hands; muted umber sleeved shirt/rust vest/dark cropped trousers and soft shoes."
+      ],
+      "states": [
+        {
+          "name": "Next morning",
+          "description": "Elder male navigator, old drum and stick/rim beats; wet cuff on return, final asks Mazhira to keep beat."
+        }
+      ],
+      "lighting": "Natural morning maritime sun.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Zulmec"
+      },
+      "status": "completed",
+      "output": "stories/the-unfixed-song/art/characters/zulmec.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Zulmec; exact subtitle The Unfixed Song. ONE ELDERLY MAN about74, medium-BROWN skin, LONG face, bald crown with WHITE side hair and short WHITE beard, sturdy broad hands. Muted UMBER sleeved shirt, RUST vest, dark cropped trousers and soft flat shoes. A battered ordinary hand DRUM with worn hide and plain wooden rim at side in one pose, detailed hand resting on drumhead; no mystical instrument or notes. Quiet stubborn reflective expression, not celebratory victor. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Zulmec; exact subtitle The Unfixed Song. ONE ELDERLY MAN about74, medium-BROWN skin, LONG face, bald crown with WHITE side hair and short WHITE beard, sturdy broad hands. Muted UMBER sleeved shirt, RUST vest, dark cropped trousers and soft flat shoes. A battered ordinary hand DRUM with worn hide and plain wooden rim at side in one pose, detailed hand resting on drumhead; no mystical instrument or notes. Quiet stubborn reflective expression, not celebratory victor. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+                "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+                "inspected": true,
+                "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.068234+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-29bd44dc-d02c-4279-91bd-75be5a2c617e.png",
+            "outputSha256": "25d1b2bfea246d564c2e774565015d526593e37a6467a376008a063b14c80b7a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:23:23.201838+00:00",
+            "generatorReview": "Actual pixels inspected: oldbalding man whitebeard with medbrown skin, rustvest umber shirt darktrousers softshoes, hand resting on old drum. Same face/wardrobe front/rear, handheld drum may change hand without fixedside. Naturaloldhands, morninglight and ivory. No machinerybody/magic."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "25d1b2bfea246d564c2e774565015d526593e37a6467a376008a063b14c80b7a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:23:23.201838+00:00",
+        "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa",
+        "outputSha256": "25d1b2bfea246d564c2e774565015d526593e37a6467a376008a063b14c80b7a",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: oldbalding man whitebeard with medbrown skin, rustvest umber shirt darktrousers softshoes, hand resting on old drum. Same face/wardrobe front/rear, handheld drum may change hand without fixedside. Naturaloldhands, morninglight and ivory. No machinerybody/magic.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "17ada2260c8d5d83a4f0306361eb32e61eef866d5bbdd980eb81c2c5d99aa7e5"
+      }
+    },
+    {
+      "id": "brannic",
+      "name": "Brannic",
+      "role": "Tether-crew chief who translates navigation into labor and protects linked hulls.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Brannic came up the deck, coiling slack over one forearm.",
+          "explanation": "Tether-crew chief who translates navigation into labor and protects linked hulls."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult male crew chief, rope coil, bucket/labor; practical loud calls and mastclimbing, no fixed bodily description."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only apparent45, deep brown skin, square face, short dark curls, clean-shaven, muscular stocky worker; mustard rolledsleeve shirt, charcoal trousers and boots."
+      ],
+      "states": [
+        {
+          "name": "Next morning",
+          "description": "Adult male crew chief, rope coil, bucket/labor; practical loud calls and mastclimbing, no fixed bodily description."
+        }
+      ],
+      "lighting": "Natural morning maritime sun.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Brannic"
+      },
+      "status": "completed",
+      "output": "stories/the-unfixed-song/art/characters/brannic.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Brannic; exact subtitle The Unfixed Song. ONE adult MAN about45, DEEP BROWN skin, SQUARE face, short dark CURLS, clean shaven, strong STOCKY working body. MUSTARD shirt with rolled sleeves, charcoal trousers and practical dark boots. Holds a plain ROPE COIL over one forearm with plausible five-finger hand; other fullview shows same outfit and coiled rope. Competent tired impatient expression. No sword/crown/armour or heroic costume. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Brannic; exact subtitle The Unfixed Song. ONE adult MAN about45, DEEP BROWN skin, SQUARE face, short dark CURLS, clean shaven, strong STOCKY working body. MUSTARD shirt with rolled sleeves, charcoal trousers and practical dark boots. Holds a plain ROPE COIL over one forearm with plausible five-finger hand; other fullview shows same outfit and coiled rope. Competent tired impatient expression. No sword/crown/armour or heroic costume. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+                "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+                "inspected": true,
+                "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.069470+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-30dd661d-fa99-4c5f-b402-10877afec57e.png",
+            "outputSha256": "7d477c18e7eddb976fc7232558f5d44541769b4f06bd2f7a8110bbddee7167ac",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:23:23.225207+00:00",
+            "generatorReview": "Actual pixels inspected: stocky deepbrown adult man blackcurls mustardshirt charcoalworkpants/boots, leftforearm rope consistently frontviewerRIGHT/rearviewerLEFT. Face/maturity ordinary ratherthanheroic, natural hands, morning and oilplanes, ivory exactname/title, full margins."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "7d477c18e7eddb976fc7232558f5d44541769b4f06bd2f7a8110bbddee7167ac",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:23:23.225207+00:00",
+        "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa",
+        "outputSha256": "7d477c18e7eddb976fc7232558f5d44541769b4f06bd2f7a8110bbddee7167ac",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+            "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+            "inspected": true,
+            "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: stocky deepbrown adult man blackcurls mustardshirt charcoalworkpants/boots, leftforearm rope consistently frontviewerRIGHT/rearviewerLEFT. Face/maturity ordinary ratherthanheroic, natural hands, morning and oilplanes, ivory exactname/title, full margins.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "940127a1ab706c26670f55436c4dd76909b607a64442c936c7f2ab02005f991d"
+      }
+    },
+    {
+      "id": "kuvesh",
+      "name": "Kuvesh",
+      "role": "Human archive technician who states the service limits and checks the physical machinery.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Kuvesh checked the archive's wire tension.",
+          "explanation": "Human archive technician who states the service limits and checks the physical machinery."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Human male technician, ordinary black instrument case and waxed song strips, keys/needle/visual shutters operated; machine notalive."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only apparent31, light warm brown skin, oval face, straight dark cropped hair, dark eyes, slender frame; moss green shirt/russet vest/slate trousers and shoes."
+      ],
+      "states": [
+        {
+          "name": "Next morning",
+          "description": "Human male technician, ordinary black instrument case and waxed song strips, keys/needle/visual shutters operated; machine notalive."
+        }
+      ],
+      "lighting": "Natural morning maritime sun.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Kuvesh"
+      },
+      "status": "completed",
+      "output": "stories/the-unfixed-song/art/characters/kuvesh.png",
+      "generation": {
+        "prompt": "Edit ONLY lower-right standalone object labelled Instrument case on Kuvesh folio. Replace the guitar-shaped/fiddle-shaped blackcase with a SMALL BLACK RECTANGULAR HARD TECHNICAL INSTRUMENT CASE matching the case he carries in both full-body views: box shape, rounded corners, top carry handle, brassclasps and cornerreinforcement. No guitar curves or long narrowneck. Keep exact label. Preserve all other sheet features: characterfaces/bodyviews/green shirt/russetvest/slatepants, two waxedsongstrips with normal hands, paint, morninglight, ivory, headingtitle. Only the inconsistent object detail changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ca7d6396-03af-47a3-a552-d1e195c477af.png",
+            "sha256": "58fe4bcf1b55c81a740b998236992bdebbe29829a9427edc078c51fd5204e679",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Kuvesh; exact subtitle The Unfixed Song. ONE adult HUMAN MAN about31, light warm BROWN skin, OVAL face, straight dark cropped hair, dark eyes, slender frame. MOSS GREEN rolled-sleeve shirt, RUSSET vest, slate trousers and plain shoes. Small BLACK instrument case held in one pose, hand detail with TWO WAXED SONG STRIPS bearing tiny non-legible line marks. Attentive exact expression; no giant cabinet, sentient machine face, screens attached to body or magical markings. Two complete front/rear views, expressive head and one useful hand/prop study. Main state Next morning. Natural MORNING sunlight with warm facing planes/cool connected shadows, matte bold oil paint. Entire support UNIFORM LIGHT IVORY, no floor patches, deck/boat/sea/rail, archive cabinet, extra person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-unfixed-song/art/landscapes/05-morning-in-the-warm-current.png",
+                "role": "Actual inspected source final morning sun/cool maritime oil paint only; no sea/boats/location.",
+                "inspected": true,
+                "sha256": "9b3f5a40033c24db5843d08f2ca0863c81089ea18a900e43ca65b11fc88e4983"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.070558+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ca7d6396-03af-47a3-a552-d1e195c477af.png",
+            "outputSha256": "58fe4bcf1b55c81a740b998236992bdebbe29829a9427edc078c51fd5204e679",
+            "generatorReview": "Figures carry rectangular black technical-instrument case but isolated right detail is an inconsistent guitar-shaped case. Replace only detail with same rectangular item."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:18:29.638071+00:00",
+            "prompt": "Edit ONLY lower-right standalone object labelled Instrument case on Kuvesh folio. Replace the guitar-shaped/fiddle-shaped blackcase with a SMALL BLACK RECTANGULAR HARD TECHNICAL INSTRUMENT CASE matching the case he carries in both full-body views: box shape, rounded corners, top carry handle, brassclasps and cornerreinforcement. No guitar curves or long narrowneck. Keep exact label. Preserve all other sheet features: characterfaces/bodyviews/green shirt/russetvest/slatepants, two waxedsongstrips with normal hands, paint, morninglight, ivory, headingtitle. Only the inconsistent object detail changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ca7d6396-03af-47a3-a552-d1e195c477af.png",
+                "sha256": "58fe4bcf1b55c81a740b998236992bdebbe29829a9427edc078c51fd5204e679",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Figures carry rectangular black technical-instrument case but isolated right detail is an inconsistent guitar-shaped case. Replace only detail with same rectangular item.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-af56cb8c-241e-45ab-9e42-5a31dd3faf73.png",
+            "outputSha256": "3bd697cf93092376048644c6ccbb5ae6aaf65f8c51861278df19c195119b5342",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:29.897676+00:00",
+            "generatorReview": "Actual pixels inspected: consistent young adult short dark-haired male in rust vest/olive shirt/grey trousers, source song strips and SAME black rectangular handled/clasped instrument case in bodies and corrected detail. Next-morning light, broad opaque oils, ordinary anatomy, ivory framing and exact name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "3bd697cf93092376048644c6ccbb5ae6aaf65f8c51861278df19c195119b5342",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:29.897676+00:00",
+        "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa",
+        "outputSha256": "3bd697cf93092376048644c6ccbb5ae6aaf65f8c51861278df19c195119b5342",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ca7d6396-03af-47a3-a552-d1e195c477af.png",
+            "sha256": "58fe4bcf1b55c81a740b998236992bdebbe29829a9427edc078c51fd5204e679",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent young adult short dark-haired male in rust vest/olive shirt/grey trousers, source song strips and SAME black rectangular handled/clasped instrument case in bodies and corrected detail. Next-morning light, broad opaque oils, ordinary anatomy, ivory framing and exact name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "0c7a80b95c47906196a9f5d49e2b0cf35a2f256d72d281c9ea5a258855a0f456"
+      }
+    }
+  ],
+  "sourceSha256": "be90484dfd2a804264901bf4ece99e001f6d9ddea9a916488178242edc24ccfa"
+}
