@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-wrong-side-of-the-part",
+  "title": "The Wrong Side of the Part",
+  "source": "stories/the-wrong-side-of-the-part/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Two named sisters carry the full conflict; Tilda remains one identity across inversion. The wig is explicitly nonliving, supplied by Tilda's living heat/pulse/self-conception.",
+  "excludedMinorCharacters": "Deceased mother is backstory; buyer is a brief remote counterpart; customers and crowd are unnamed episodic witnesses; wig is inert focus.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tilda-bristow",
+      "name": "Tilda Bristow",
+      "role": "First-person protagonist and wearer who dismantles the focus",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The woman in the glass stared back with my face and none of my apologies.",
+          "explanation": "First-person protagonist and wearer who dismantles the focus"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman, Petra's older sister by three years. Own hair pinned up; gray cardigan removed during inversion. Wig begins ash-brown blunt jaw bob, transforms to copper-black huge coils halfway down back with bone-white hard-left part, remains same face/body/memory. No second person."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only44, warm olive long oval face, brown eyes, dark brown natural hair pinned at nape, narrow jaw/arched nose, cream blouse navy trousers black loafers. Exact ages only paired relative to Petra."
+      ],
+      "states": [
+        {
+          "name": "Inversion before release; ordinary head study",
+          "description": "Two full-body front/rear views in transformed wig; one natural hair portrait after wig removed; one inert initial bob object. Gray cardigan removed, not worn in transformed full bodies."
+        }
+      ],
+      "lighting": "Late-afternoon shop light: gentle warm side light and cool connected interior shadows, no aura.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Tilda Bristow"
+      },
+      "status": "completed",
+      "output": "stories/the-wrong-side-of-the-part/art/characters/tilda-bristow.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Tilda Bristow, exact subtitle The Wrong Side of the Part clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. In the upper-right HEAD STUDY labeled Wig removed, remove the white/bone-colored stripe completely and restore her own plain DARK BROWN natural hair pinned at nape, no bleachedstripe/whitepart/graylock. Keep that portraitface exactly. MAIN fullbody front/rear intentionally wear magical copper-black huge coils and bone-white LEFT part; DO NOT remove their white line or coils. Detached initial bob remains ashbrown centerpart, unlit/inert. Preserve normal singleidentity anatomy, creamblouse/navypants/blackloafers, bare lateafternoonshadows. Nootherchanges.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6a61d124-29a7-4b38-88e1-3200a3756f69.png",
+            "sha256": "0cecae7a8e69d845b2afed73888a42539790c2c81320a3fa4668d33dca9867a6",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Tilda Bristow; exact subtitle The Wrong Side of the Part. Tilda age44 as art design, warm olive long oval mature face, brown eyes, narrow jaw and arched nose, same exact face in all studies. Main front and rear same mid-afternoon INVERTED state: enormous copper-black coils down halfway back, bone-white part on her ANATOMICAL LEFT (front viewer RIGHT, rear viewer LEFT); cream modest long-sleeve blouse, navy trousers, black loafers, NO gray cardigan on these bodies. Coils have broad dark oily painted masses, copper only where light strikes, never literal flames. One head study labelled Wig removed with own plain dark-brown hair pinned at nape; one small object study ash-brown CENTER-part blunt jaw-length bob labelled Before wearing. NO mannequin head with face, no additional identities. Quiet amused direct face, no villain caricature. Gray cardigan removed can be omitted. Late afternoon shop daylight limited to lit planes, connected cool shadows, no yellow glitter.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-wrong-side-of-the-part/art/landscapes/03-late-light-on-the-shop-roofs.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "b0e0a96c50afe01c64eb7dfeae5ab9ac1de66412aa7c0e3305d62818203dc31d"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.817712+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6a61d124-29a7-4b38-88e1-3200a3756f69.png",
+            "outputSha256": "0cecae7a8e69d845b2afed73888a42539790c2c81320a3fa4668d33dca9867a6",
+            "generatorReview": "Identity/body and inverted wig views pass; dark background obscures name, and portrait labeled Wig removed retains wig's bone-white part. Correct background and ordinary portrait hair only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.382799+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Tilda Bristow, exact subtitle The Wrong Side of the Part clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. In the upper-right HEAD STUDY labeled Wig removed, remove the white/bone-colored stripe completely and restore her own plain DARK BROWN natural hair pinned at nape, no bleachedstripe/whitepart/graylock. Keep that portraitface exactly. MAIN fullbody front/rear intentionally wear magical copper-black huge coils and bone-white LEFT part; DO NOT remove their white line or coils. Detached initial bob remains ashbrown centerpart, unlit/inert. Preserve normal singleidentity anatomy, creamblouse/navypants/blackloafers, bare lateafternoonshadows. Nootherchanges.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6a61d124-29a7-4b38-88e1-3200a3756f69.png",
+                "sha256": "0cecae7a8e69d845b2afed73888a42539790c2c81320a3fa4668d33dca9867a6",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/body and inverted wig views pass; dark background obscures name, and portrait labeled Wig removed retains wig's bone-white part. Correct background and ordinary portrait hair only.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-ef281252-4ce2-4b5c-b0c9-767bad104136.png",
+            "outputSha256": "a9b8961c7c54129db2c81c5bb8b2de48a6726790c70d568edec03bda2fb544b3",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:32.251706+00:00",
+            "generatorReview": "Actual pixels inspected: one same adult identity in worn transformed wig and natural-hair portrait. Full-body copper/black curled long wig retains left part; removed-wig portrait correctly loses that artificial white part and shows ordinary pinned brown hair; earlier ash bob object separate before-wearing state. Cream blouse/navy trousers/shoes, afternoon light, matte oils, ivory complete framing and exact name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "a9b8961c7c54129db2c81c5bb8b2de48a6726790c70d568edec03bda2fb544b3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:32.251706+00:00",
+        "sourceSha256": "bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66",
+        "outputSha256": "a9b8961c7c54129db2c81c5bb8b2de48a6726790c70d568edec03bda2fb544b3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6a61d124-29a7-4b38-88e1-3200a3756f69.png",
+            "sha256": "0cecae7a8e69d845b2afed73888a42539790c2c81320a3fa4668d33dca9867a6",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: one same adult identity in worn transformed wig and natural-hair portrait. Full-body copper/black curled long wig retains left part; removed-wig portrait correctly loses that artificial white part and shows ordinary pinned brown hair; earlier ash bob object separate before-wearing state. Cream blouse/navy trousers/shoes, afternoon light, matte oils, ivory complete framing and exact name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "4cf2e82273b4708c59e69eac7dd7ffb6bfe54df1957aaebb9c23ce9541b66eec"
+      }
+    },
+    {
+      "id": "petra-bristow",
+      "name": "Petra Bristow",
+      "role": "Younger sister and co-owner whose private disclosure is violated; autonomous final negotiator",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "She was three years younger than I was",
+          "explanation": "Younger sister and co-owner whose private disclosure is violated; autonomous final negotiator"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman three years younger than Tilda, good coat, document folder held against ribs; later coat still buttoned at5:20 return."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only41 to Tilda44; shared warm olive family palette and arched nose, broader jaw, neatly tied chestnut low bun, brown eyes, dark green good wool coat charcoal trousers flat black shoes, tan folder."
+      ],
+      "states": [
+        {
+          "name": "Return at five twenty",
+          "description": "Adult woman three years younger than Tilda, good coat, document folder held against ribs; later coat still buttoned at5:20 return."
+        }
+      ],
+      "lighting": "Late-afternoon shop side light, subdued warm face planes/cool interior shadows.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Petra Bristow"
+      },
+      "status": "completed",
+      "output": "stories/the-wrong-side-of-the-part/art/characters/petra-bristow.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Petra Bristow, exact subtitle The Wrong Side of the Part clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Keep matureface/chestnutbun, buttonedgoodgreencoat charcoaltrousers blackshoes, documentfolder and allstudies unchanged. Lateafternoonlightingunchanged. Nootheredits.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-17ceaba3-7ee7-4d2b-8986-41b15eb94dff.png",
+            "sha256": "7277c2b7ba52a85a161ebd91eac776fe1ad182def65de94c19d7c290c254f7cd",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Petra Bristow; exact subtitle The Wrong Side of the Part. Petra41 art-only age, clearly mature adult woman, warm olive medium skin, broad oval face and arched nose, chestnut neat low bun brown eyes, restrained hurt but practical expression. Buttoned good dark green wool coat, charcoal trousers, flat black shoes; tan document folder under arm; same outfit front/rear. Distinct from older sister Tilda without hair magic. Two full bodies, head and hand/folder study. Return5:20 lit by late afternoon shop side light, no aura or glamour light. Broad opaque matte skin and cloth planes.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-wrong-side-of-the-part/art/landscapes/03-late-light-on-the-shop-roofs.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "b0e0a96c50afe01c64eb7dfeae5ab9ac1de66412aa7c0e3305d62818203dc31d"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.818459+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-17ceaba3-7ee7-4d2b-8986-41b15eb94dff.png",
+            "outputSha256": "7277c2b7ba52a85a161ebd91eac776fe1ad182def65de94c19d7c290c254f7cd",
+            "generatorReview": "Identity/state/clothing/hands/props pass, but vignette obscures exactname and violates ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.386209+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Petra Bristow, exact subtitle The Wrong Side of the Part clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Keep matureface/chestnutbun, buttonedgoodgreencoat charcoaltrousers blackshoes, documentfolder and allstudies unchanged. Lateafternoonlightingunchanged. Nootheredits.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-17ceaba3-7ee7-4d2b-8986-41b15eb94dff.png",
+                "sha256": "7277c2b7ba52a85a161ebd91eac776fe1ad182def65de94c19d7c290c254f7cd",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/state/clothing/hands/props pass, but vignette obscures exactname and violates ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-4dde20de-6c8f-4775-ad93-1a87ed928c07.png",
+            "outputSha256": "82714002505dc3be30dcd97174fb7606e1322d02116b0111ce3bb81ad36f88f5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:32.276819+00:00",
+            "generatorReview": "Actual pixels inspected: same younger adult sister identity, chestnut low bun, buttoned green coat/charcoal trousers/black shoes, held tan folder consistent. Broad opaque afternoon oils, ordinary body/hand anatomy, ivory support/margins and exact heading/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "82714002505dc3be30dcd97174fb7606e1322d02116b0111ce3bb81ad36f88f5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:32.276819+00:00",
+        "sourceSha256": "bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66",
+        "outputSha256": "82714002505dc3be30dcd97174fb7606e1322d02116b0111ce3bb81ad36f88f5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-17ceaba3-7ee7-4d2b-8986-41b15eb94dff.png",
+            "sha256": "7277c2b7ba52a85a161ebd91eac776fe1ad182def65de94c19d7c290c254f7cd",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same younger adult sister identity, chestnut low bun, buttoned green coat/charcoal trousers/black shoes, held tan folder consistent. Broad opaque afternoon oils, ordinary body/hand anatomy, ivory support/margins and exact heading/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "a46d78997d8e50d626a1c4beb39b341f9bec209acb23cce55b9db7d3badafb76"
+      }
+    }
+  ],
+  "sourceSha256": "bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66"
+}
