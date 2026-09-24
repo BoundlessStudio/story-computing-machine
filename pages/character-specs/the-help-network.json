@@ -1,0 +1,897 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-help-network",
+  "title": "The Help Network",
+  "source": "stories/the-help-network/story.md",
+  "sourceSha256": "fff12f8066c9c9b71b312b09fbb5dd7df9787ccc3e022eeed97078a27693aa04",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source read through Cassia setting phone down while others answer. Central Cassia, Drita and Bryn intentionally continue Attendance Ledger identities; distant text-only requester drives longest decisive exchange and is included without invented body.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Cassia's mother and assorted regional/individual helpers",
+      "reason": "Brief or collective relays/background contacts without sufficient individualized sustained role."
+    },
+    {
+      "name": "Coercive contact",
+      "reason": "Reported but not directly characterized; source does not establish identity or body; no Rollcaller equivalence inferred."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md; CANON characters.md Cassia Dominguez15/Mothlight, Drita Ademi15/Kiteglass, Bryn Ahn16/Pulsewire and rules.md Northbridge trio transformation and support practice read.",
+    "Exact continued local identities after Attendance Ledger, no Solstice relation. Living users supply magic; phones/cards/ordinary network have no supernatural agency. No active transformed state occurs here.",
+    "Requester explicitly withholds name/place/body/system/proof. User authorizes art-only name assignment, not invention of unsupported physical form. A text-message-interface-only identity representation preserves that source limit."
+  ],
+  "referenceInputs": [
+    {
+      "path": "stories/the-help-network/title-image.jpg",
+      "role": "Inspected symbolic cover only: card, one hand and network metaphor; no literal network stars or identity claim",
+      "notes": "Actual pixels inspected, no magic network imposed.",
+      "sha256": "dbb0e3821013df383e2fee0d5c20f08065edd7bf9cfa5f4c15ffc0171dc6eb83",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+      "role": "Primary broad oil and afternoon grey-violet shade with narrow warm school-window light; ordinary phone/card/foam plugs",
+      "notes": "Actual pixels inspected; no room/floor transfer.",
+      "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+      "role": "Primary low-key midnight lamp/cool phone-light oil palette for midnight state only",
+      "notes": "Actual pixels inspected; no bedroom setting transferred.",
+      "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+      "role": "Same named character approved identity/rendering anchor; only civilian state in this source",
+      "notes": "Actual pixels inspected, round youthful face/honey-brown jaw curls compact teen.",
+      "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+      "role": "Same named character approved civilian identity; LEFT wrist injury continues with tape",
+      "notes": "Actual pixels inspected, long narrow face/chestnut single braid/small wiry teen.",
+      "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+      "role": "Same named character approved civilian identity, sound sensitivity now foam plugs",
+      "notes": "Actual pixels inspected, tall lean teen/square face/black sidepart bob.",
+      "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+      "inspected": true
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "cassia-dominguez",
+      "name": "Cassia Dominguez",
+      "sourceIdentityId": "universe:cassia-dominguez",
+      "role": "Mothlight; teenage relay founder learning to share responsibility",
+      "selectionEvidence": [
+        {
+          "quote": "Cassia balanced an index card on her knee",
+          "line": 11,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Cassia put down Mothlight, listening and relay",
+          "line": 41,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "I have company I chose. Stop the outer thread.",
+          "line": 277,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Cassia put the phone beside her",
+          "line": 311,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "CANON15-year-old ordinary human girl, same Cassia as Attendance Ledger.",
+        "lifeStage": "15 at opening; spans months, no specific birthday stated.",
+        "proportions": "Ordinary compact teen; no transformation body change depicted.",
+        "markings": "Warm phone briefly reddens palm at night; optional not permanent.",
+        "materials": "Skin/hair, ordinary school uniform, phone/card.",
+        "clothing": "School uniform stated later as heap; established art navy jumper, white collar, grey trousers retained.",
+        "equipment": "Ordinary smartphone and index contact card, juice and biscuit incidental.",
+        "scale": "Teen human.",
+        "movement": "Eager typing, deliberate pauses, sitting/cross-legged posture.",
+        "distinctiveFeatures": "Mothlight powers recalled only; show civilian without luminous clone/refraction."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Cassia Dominguez",
+          "status": "CANON",
+          "summary": "Fifteen-year-old Northbridge student Mothlight; luminous silhouettes and displaced voice echoes with glucose/concentration cost."
+        }
+      ],
+      "visualInterpretation": [
+        "Reuse exact approved Attendance Ledger15-year-old identity: compact, light warm skin, round cheeks, small rounded nose, brown eyes, short honey-brown jaw-length curls; navy uniform jumper/white collar/grey trousers/black lace shoes.",
+        "Daylight civilian full front/rear plus night seated-phone state in modest grey long sleeve sleep shirt and dark loose pajama trousers; small worried/relieved faces. No magical costume or invented transformation."
+      ],
+      "states": [
+        {
+          "label": "Evenings, if awake",
+          "description": "Day civilian near end reflecting changed contact limit."
+        },
+        {
+          "label": "Here",
+          "description": "Midnight phone listening state, restrained concern."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:cassia-dominguez",
+        "links": [
+          "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+          "universe/characters.md#Cassia Dominguez"
+        ],
+        "evidence": "Explicit user-requested sequel/source aliases, exact same canon15-year-old; retain approved face and hair."
+      },
+      "references": [
+        {
+          "path": "stories/the-help-network/title-image.jpg",
+          "role": "Inspected symbolic cover only: card, one hand and network metaphor; no literal network stars or identity claim",
+          "notes": "Actual pixels inspected, no magic network imposed.",
+          "sha256": "dbb0e3821013df383e2fee0d5c20f08065edd7bf9cfa5f4c15ffc0171dc6eb83",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+          "role": "Primary broad oil and afternoon grey-violet shade with narrow warm school-window light; ordinary phone/card/foam plugs",
+          "notes": "Actual pixels inspected; no room/floor transfer.",
+          "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+          "role": "Primary low-key midnight lamp/cool phone-light oil palette for midnight state only",
+          "notes": "Actual pixels inspected; no bedroom setting transferred.",
+          "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+          "role": "Same named character approved identity/rendering anchor; only civilian state in this source",
+          "notes": "Actual pixels inspected, round youthful face/honey-brown jaw curls compact teen.",
+          "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+          "role": "Same named character approved civilian identity; LEFT wrist injury continues with tape",
+          "notes": "Actual pixels inspected, long narrow face/chestnut single braid/small wiry teen.",
+          "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+          "role": "Same named character approved civilian identity, sound sensitivity now foam plugs",
+          "notes": "Actual pixels inspected, tall lean teen/square face/black sidepart bob.",
+          "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-help-network/art/characters/cassia-dominguez.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:44:07.445785+00:00",
+            "status": "PASS",
+            "prompt": "Create one1536x1024 landscape character-only folio on LIGHT WARM IVORY. Exact heading \"Cassia Dominguez\" and subtitle \"The Help Network\". One identity. Match SAME CIVILIAN15-year-old girl in first approved reference: compact ordinary teen, light warm skin, round cheeks, small rounded nose, brown eyes, short loose honey-brown CURLS to jaw. Retain exact recognizable face/proportions in new source states; never age her up or change to another girl.\nThis source is civilian after the earlier incident. NO magical costume, refraction, clone, focus disk, superhero effects or other people. NO isolated hand studies.\nLayout LEFT full-body front-threequarter and smaller rear view in ordinary navy school sweater over white collared shirt, grey straight trousers and sensible black lace shoes. Main holds a simple index card and ordinary phone; no legible personal details on card/screen. Upper RIGHT one clear face/shoulders expression study caption \"Evenings, if awake\", wry self-aware smile. Lower RIGHT smaller COMPLETE CROSS-LEGGED SEATED night study caption \"Here\": same girl in modest grey long-sleeve sleep shirt and loose dark pajama trousers, bare feet tucked naturally, holding phone and looking concerned/listening. No rug/chair/bed/background/floor paint or contact shadow. Keep body separate from labels and generous ivory gutters.\nSTYLE first approved sheet identity/physical oil anchor. Second/third actual story oils direct paint and story lighting ONLY. Broad CONNECTED opaque painted masses, strong long directional bristle strokes, selective sculpted impasto. All faces/skin as physically painted as clothes, joined shadow shapes, no polished face islands, anime, photographic skin or uniform tiny mosaic dabs.\nLIGHT daytime school bodies/portrait: grey-violet indoor stairwell shade, a few muted warm window planes, not sunny studio. NIGHT seated state: distinctly LOW KEY navy/umber shadow over most figure, dim cool PHONE LIGHT only on lower cheek/knuckles with weak small warm lamp planes. No bright night face/grey shirt. Keep page light ivory. Identity consistent between day/night, no glow outside body. Exact name/title and two captions only. No swatches or scenery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-ddd57b6e-9485-4acd-9f30-438f1d214fd4.png",
+                "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+                "inspected": true,
+                "role": "Inspected same selected Cassia CIVILIAN identity and oil; no transformed state in new story"
+              },
+              {
+                "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+                "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+                "inspected": true,
+                "role": "Inspected Group of Seven oil and muted afternoon window/slate shade for day figures only"
+              },
+              {
+                "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+                "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+                "inspected": true,
+                "role": "Inspected dark midnight lamplight/phone-light palette for night seated state; no room transfer"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-cb65db1d-4137-4cc6-8edc-6e6a73c253e5.png",
+            "returnedSha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9",
+            "completedAt": "2026-09-24T11:50:00.590239+00:00",
+            "review": [
+              "Actual pixels inspected: exact recurring compact15-year-old Cassia likeness/honey-brown curls/round face retained from approved sheet in all views, no transformed costume or age change.",
+              "Whole school-uniform front/rear, source ordinary card/phone and separate modest cross-legged nighttime state; no environmental support or ground paint.",
+              "Broad matte opaque oil shapes across face/body/cloth; day warm muted school light and darker night cool phone planes clearly separated while page remains light ivory.",
+              "Exact name/title/captions readable, no other identity, scenery/swatches or isolated hand study; restrained expressions fit source."
+            ]
+          }
+        ],
+        "prompt": "Create one1536x1024 landscape character-only folio on LIGHT WARM IVORY. Exact heading \"Cassia Dominguez\" and subtitle \"The Help Network\". One identity. Match SAME CIVILIAN15-year-old girl in first approved reference: compact ordinary teen, light warm skin, round cheeks, small rounded nose, brown eyes, short loose honey-brown CURLS to jaw. Retain exact recognizable face/proportions in new source states; never age her up or change to another girl.\nThis source is civilian after the earlier incident. NO magical costume, refraction, clone, focus disk, superhero effects or other people. NO isolated hand studies.\nLayout LEFT full-body front-threequarter and smaller rear view in ordinary navy school sweater over white collared shirt, grey straight trousers and sensible black lace shoes. Main holds a simple index card and ordinary phone; no legible personal details on card/screen. Upper RIGHT one clear face/shoulders expression study caption \"Evenings, if awake\", wry self-aware smile. Lower RIGHT smaller COMPLETE CROSS-LEGGED SEATED night study caption \"Here\": same girl in modest grey long-sleeve sleep shirt and loose dark pajama trousers, bare feet tucked naturally, holding phone and looking concerned/listening. No rug/chair/bed/background/floor paint or contact shadow. Keep body separate from labels and generous ivory gutters.\nSTYLE first approved sheet identity/physical oil anchor. Second/third actual story oils direct paint and story lighting ONLY. Broad CONNECTED opaque painted masses, strong long directional bristle strokes, selective sculpted impasto. All faces/skin as physically painted as clothes, joined shadow shapes, no polished face islands, anime, photographic skin or uniform tiny mosaic dabs.\nLIGHT daytime school bodies/portrait: grey-violet indoor stairwell shade, a few muted warm window planes, not sunny studio. NIGHT seated state: distinctly LOW KEY navy/umber shadow over most figure, dim cool PHONE LIGHT only on lower cheek/knuckles with weak small warm lamp planes. No bright night face/grey shirt. Keep page light ivory. Identity consistent between day/night, no glow outside body. Exact name/title and two captions only. No swatches or scenery.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-ddd57b6e-9485-4acd-9f30-438f1d214fd4.png",
+            "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+            "inspected": true,
+            "role": "Inspected same selected Cassia CIVILIAN identity and oil; no transformed state in new story"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil and muted afternoon window/slate shade for day figures only"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected dark midnight lamplight/phone-light palette for night seated state; no room transfer"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:50:00.590239+00:00",
+        "sourceSha256": "fff12f8066c9c9b71b312b09fbb5dd7df9787ccc3e022eeed97078a27693aa04",
+        "outputSha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-ddd57b6e-9485-4acd-9f30-438f1d214fd4.png",
+            "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+            "inspected": true,
+            "role": "Inspected same selected Cassia CIVILIAN identity and oil; no transformed state in new story"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil and muted afternoon window/slate shade for day figures only"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected dark midnight lamplight/phone-light palette for night seated state; no room transfer"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: exact recurring compact15-year-old Cassia likeness/honey-brown curls/round face retained from approved sheet in all views, no transformed costume or age change.",
+          "Whole school-uniform front/rear, source ordinary card/phone and separate modest cross-legged nighttime state; no environmental support or ground paint.",
+          "Broad matte opaque oil shapes across face/body/cloth; day warm muted school light and darker night cool phone planes clearly separated while page remains light ivory.",
+          "Exact name/title/captions readable, no other identity, scenery/swatches or isolated hand study; restrained expressions fit source."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "caa5221aeed2b8ff82e645f6bff4ba93c066983fcffec3013a98592dbc769a94"
+      },
+      "outputSha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9"
+    },
+    {
+      "id": "drita-ademi",
+      "name": "Drita Ademi",
+      "sourceIdentityId": "universe:drita-ademi",
+      "role": "Kiteglass; blunt privacy-conscious friend and cofounder",
+      "selectionEvidence": [
+        {
+          "quote": "Drita took the card from her and crossed out the heading.",
+          "line": 19,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Her wrist was still taped beneath her sweater cuff.",
+          "line": 19,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Drita called her privately.",
+          "line": 257,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "CANON15-year-old human girl; recovering LEFT wrist injury from previous story.",
+        "lifeStage": "15 at opening.",
+        "proportions": "Ordinary small wiry teenager.",
+        "markings": "Taped left wrist under sweater cuff.",
+        "materials": "Skin/hair/cotton knit/wrist tape.",
+        "clothing": "Sweater cuff; approved navy uniform jumper, white collar, grey trousers.",
+        "equipment": "Phone, ordinary index card/pencil; no magical shield in this story.",
+        "scale": "Teen human.",
+        "movement": "Crosses out categories, firm boundaries, tired but kind.",
+        "distinctiveFeatures": "No transformation; source limits and tape visual continuity."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Drita Ademi",
+          "status": "CANON",
+          "summary": "Fifteen-year-old Northbridge student Kiteglass; barrier use drains heat and aggravates bruised wrist."
+        }
+      ],
+      "visualInterpretation": [
+        "Reuse approved light olive skin, long narrow face, brown almond eyes, dark chestnut hair single low loose braid centerpart, small wiry15-year-old.",
+        "Full civilian front/back navy jumper/white collar/gray trousers/black lace shoes. Modest white medical tape wraps anatomical LEFT wrist partly hidden under cuff, front viewerRIGHT/back viewerLEFT. Phone in right hand, left relaxed. Portrait dry humor and tired call; no barrier/token needed."
+      ],
+      "states": [
+        {
+          "label": "Ask before forwarding",
+          "description": "Firm thoughtful glance."
+        },
+        {
+          "label": "One interval",
+          "description": "Sleepy care during private call."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:drita-ademi",
+        "links": [
+          "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+          "universe/characters.md#Drita Ademi"
+        ],
+        "evidence": "Explicit sequel/exact canon alias; left wrist continuity."
+      },
+      "references": [
+        {
+          "path": "stories/the-help-network/title-image.jpg",
+          "role": "Inspected symbolic cover only: card, one hand and network metaphor; no literal network stars or identity claim",
+          "notes": "Actual pixels inspected, no magic network imposed.",
+          "sha256": "dbb0e3821013df383e2fee0d5c20f08065edd7bf9cfa5f4c15ffc0171dc6eb83",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+          "role": "Primary broad oil and afternoon grey-violet shade with narrow warm school-window light; ordinary phone/card/foam plugs",
+          "notes": "Actual pixels inspected; no room/floor transfer.",
+          "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+          "role": "Primary low-key midnight lamp/cool phone-light oil palette for midnight state only",
+          "notes": "Actual pixels inspected; no bedroom setting transferred.",
+          "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+          "role": "Same named character approved identity/rendering anchor; only civilian state in this source",
+          "notes": "Actual pixels inspected, round youthful face/honey-brown jaw curls compact teen.",
+          "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+          "role": "Same named character approved civilian identity; LEFT wrist injury continues with tape",
+          "notes": "Actual pixels inspected, long narrow face/chestnut single braid/small wiry teen.",
+          "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+          "role": "Same named character approved civilian identity, sound sensitivity now foam plugs",
+          "notes": "Actual pixels inspected, tall lean teen/square face/black sidepart bob.",
+          "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-help-network/art/characters/drita-ademi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:50:01.744131+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL folio on LIGHT WARM IVORY. Exact heading \"Drita Ademi\"; subtitle \"The Help Network\". Match EXACT SAME15-year-old CIVILIAN Drita in first selected sheet: small wiry ordinary teen build, fair olive skin, long narrow face, brown almond eyes, dark chestnut hair in single low loose braid with center part. Same age/identity, no glamour or adult curves. No other people.\nSource post-incident civilian state ONLY. Navy school sweater/jumper over white collared shirt, gray straight trousers, black sensible lace shoes. Her bruised LEFT wrist is NOW TAPED under sweater cuff, narrow plain white medical tape partly visible, source continuity, no hard brace. Hair braid identical front/back. Hold ordinary phone loosely, no visible private content. NO barrier magic, refraction veil, transformed costume, focus disk, no detached hand/wrist/anatomy studies.\nLayout LEFT large complete front-threequarter, CENTER smaller complete rear view, all silhouettes/feet whole with clear ivory gutters. RIGHT two separated chest-up portraits: \"Ask before forwarding\" thoughtful firm boundary; \"One interval\" same girl during sleepy late-night private phone call, modest dark sweater, gently tired care with phone near ear. No background and no glowing call interfaces.\nSTYLE first reference establishes exact identity and broad oil, second/third story oils establish lighting. Broad CONNECTED opaque oil planes on FACE and hands as much as clothes, long confident directional brush masses, selective sculptural impasto and quiet shadows. No polished skin, photographic eyes, tiny uniform chips, digital 3D/anime.\nLIGHT main day bodies and upper portrait in stairwell indoor grey-violet shadow with a few warm window planes; nothing high-key or glamorous. LOWER night portrait distinctly dark cool navy/umber with small muted warm practical-light cheek plane. No bright studio fill. Page stays light ivory. No room/scenery/floor/contact paint, swatches or extra props. Readable exact text/captions.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-8d12a03c-ddbd-4911-ba2f-ff0e14b8b6d3.png",
+                "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+                "inspected": true,
+                "role": "Inspected selected Drita civilian likeness/age/braid; no old isolated hand studies or transformed state transferred"
+              },
+              {
+                "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+                "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+                "inspected": true,
+                "role": "Inspected school afternoon oil/window shade for main views"
+              },
+              {
+                "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+                "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+                "inspected": true,
+                "role": "Inspected quiet midnight oil values for phone-call portrait, no location transfer"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-5d4c747e-dbef-48e4-9064-ac2ba48e4585.png",
+            "returnedSha256": "cdfbac3d5a9abbcf85642b34818527cf081d58a8d9b0c1f4adf008679e92e0c5",
+            "completedAt": "2026-09-24T11:54:28.547385+00:00",
+            "review": [
+              "Actual pixels inspected: recurring Drita's narrow youthful olive face/chestnut single braid and ordinary teen silhouette match accepted identity, no transformation/age drift.",
+              "Source civilian uniform/phone and left wrist tape visible under cuff (rear left side); thoughtful boundary and sleepy private-call expressions retain source character.",
+              "Broad opaque face/hair/clothing paint coherent with collection, cool navy uniform and warmer school planes with more subdued lower-call portrait.",
+              "Unclipped body views and clear ivory spaces, exact readable name/title/captions; no scene/floor/swatches or isolated hand studies."
+            ]
+          }
+        ],
+        "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL folio on LIGHT WARM IVORY. Exact heading \"Drita Ademi\"; subtitle \"The Help Network\". Match EXACT SAME15-year-old CIVILIAN Drita in first selected sheet: small wiry ordinary teen build, fair olive skin, long narrow face, brown almond eyes, dark chestnut hair in single low loose braid with center part. Same age/identity, no glamour or adult curves. No other people.\nSource post-incident civilian state ONLY. Navy school sweater/jumper over white collared shirt, gray straight trousers, black sensible lace shoes. Her bruised LEFT wrist is NOW TAPED under sweater cuff, narrow plain white medical tape partly visible, source continuity, no hard brace. Hair braid identical front/back. Hold ordinary phone loosely, no visible private content. NO barrier magic, refraction veil, transformed costume, focus disk, no detached hand/wrist/anatomy studies.\nLayout LEFT large complete front-threequarter, CENTER smaller complete rear view, all silhouettes/feet whole with clear ivory gutters. RIGHT two separated chest-up portraits: \"Ask before forwarding\" thoughtful firm boundary; \"One interval\" same girl during sleepy late-night private phone call, modest dark sweater, gently tired care with phone near ear. No background and no glowing call interfaces.\nSTYLE first reference establishes exact identity and broad oil, second/third story oils establish lighting. Broad CONNECTED opaque oil planes on FACE and hands as much as clothes, long confident directional brush masses, selective sculptural impasto and quiet shadows. No polished skin, photographic eyes, tiny uniform chips, digital 3D/anime.\nLIGHT main day bodies and upper portrait in stairwell indoor grey-violet shadow with a few warm window planes; nothing high-key or glamorous. LOWER night portrait distinctly dark cool navy/umber with small muted warm practical-light cheek plane. No bright studio fill. Page stays light ivory. No room/scenery/floor/contact paint, swatches or extra props. Readable exact text/captions.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-8d12a03c-ddbd-4911-ba2f-ff0e14b8b6d3.png",
+            "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+            "inspected": true,
+            "role": "Inspected selected Drita civilian likeness/age/braid; no old isolated hand studies or transformed state transferred"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected school afternoon oil/window shade for main views"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected quiet midnight oil values for phone-call portrait, no location transfer"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:54:28.547385+00:00",
+        "sourceSha256": "fff12f8066c9c9b71b312b09fbb5dd7df9787ccc3e022eeed97078a27693aa04",
+        "outputSha256": "cdfbac3d5a9abbcf85642b34818527cf081d58a8d9b0c1f4adf008679e92e0c5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-8d12a03c-ddbd-4911-ba2f-ff0e14b8b6d3.png",
+            "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+            "inspected": true,
+            "role": "Inspected selected Drita civilian likeness/age/braid; no old isolated hand studies or transformed state transferred"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected school afternoon oil/window shade for main views"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected quiet midnight oil values for phone-call portrait, no location transfer"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: recurring Drita's narrow youthful olive face/chestnut single braid and ordinary teen silhouette match accepted identity, no transformation/age drift.",
+          "Source civilian uniform/phone and left wrist tape visible under cuff (rear left side); thoughtful boundary and sleepy private-call expressions retain source character.",
+          "Broad opaque face/hair/clothing paint coherent with collection, cool navy uniform and warmer school planes with more subdued lower-call portrait.",
+          "Unclipped body views and clear ivory spaces, exact readable name/title/captions; no scene/floor/swatches or isolated hand studies."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "e563b418b7c41423d2442d457816e2c36af5f32c694aedd26e1b908ad6399314"
+      },
+      "outputSha256": "cdfbac3d5a9abbcf85642b34818527cf081d58a8d9b0c1f4adf008679e92e0c5"
+    },
+    {
+      "id": "bryn-ahn",
+      "name": "Bryn Ahn",
+      "sourceIdentityId": "universe:bryn-ahn",
+      "role": "Pulsewire; systems-minded planner learning local variation",
+      "selectionEvidence": [
+        {
+          "quote": "Bryn sat one step above them with foam plugs in her ears",
+          "line": 25,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "They are forking the document",
+          "line": 125,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Bryn reacted to that message instead of replying.",
+          "line": 223,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "CANON16-year-old human girl with temporary sound sensitivity.",
+        "lifeStage": "16 at opening.",
+        "proportions": "Ordinary tall lean teenager.",
+        "markings": "No permanent marks stated.",
+        "materials": "Skin/hair/clothing, soft foam earplugs.",
+        "clothing": "Approved navy school sweater/white shirt/grey trousers.",
+        "equipment": "Foam plugs in both ears, smartphone and notes.",
+        "scale": "Teen human.",
+        "movement": "Attentive systems planning, restrained reaction, later abandons central document.",
+        "distinctiveFeatures": "Source sound protection; no headphones needed; no transformed pulsewire magic depicted."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Bryn Ahn",
+          "status": "CANON",
+          "summary": "Sixteen-year-old Northbridge student Pulsewire; severance can cause temporary sound sensitivity."
+        }
+      ],
+      "visualInterpretation": [
+        "Reuse approved16-year-old tall lean figure, warm medium-beige skin, square face/broad cheekbones, dark eyes, black jaw-length bob deep sidepart.",
+        "Civilian full front/side-back uniform views, small orange foam plug at each ear. Two portraits analytical/reluctant amused smile; smartphone and ordinary pencil, no matrix/voice holograms/active magic."
+      ],
+      "states": [
+        {
+          "label": "Reading",
+          "description": "Attentive quiet focus."
+        },
+        {
+          "label": "Too many local differences",
+          "description": "Frustrated but conceding grin."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:bryn-ahn",
+        "links": [
+          "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+          "universe/characters.md#Bryn Ahn"
+        ],
+        "evidence": "Explicit sequel/exact canon alias; sound sensitivity continuity."
+      },
+      "references": [
+        {
+          "path": "stories/the-help-network/title-image.jpg",
+          "role": "Inspected symbolic cover only: card, one hand and network metaphor; no literal network stars or identity claim",
+          "notes": "Actual pixels inspected, no magic network imposed.",
+          "sha256": "dbb0e3821013df383e2fee0d5c20f08065edd7bf9cfa5f4c15ffc0171dc6eb83",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+          "role": "Primary broad oil and afternoon grey-violet shade with narrow warm school-window light; ordinary phone/card/foam plugs",
+          "notes": "Actual pixels inspected; no room/floor transfer.",
+          "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+          "role": "Primary low-key midnight lamp/cool phone-light oil palette for midnight state only",
+          "notes": "Actual pixels inspected; no bedroom setting transferred.",
+          "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+          "role": "Same named character approved identity/rendering anchor; only civilian state in this source",
+          "notes": "Actual pixels inspected, round youthful face/honey-brown jaw curls compact teen.",
+          "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+          "role": "Same named character approved civilian identity; LEFT wrist injury continues with tape",
+          "notes": "Actual pixels inspected, long narrow face/chestnut single braid/small wiry teen.",
+          "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+          "role": "Same named character approved civilian identity, sound sensitivity now foam plugs",
+          "notes": "Actual pixels inspected, tall lean teen/square face/black sidepart bob.",
+          "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-help-network/art/characters/bryn-ahn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:54:29.536834+00:00",
+            "status": "PASS",
+            "prompt": "One1536x1024 landscape CHARACTER-ONLY oil folio, light warm IVORY. Exact heading \"Bryn Ahn\", subtitle \"The Help Network\". Preserve EXACT SAME16-year-old civilian Bryn in first selected reference: ordinary tall lean teenager, medium warm-beige skin, square face/broad cheekbones, dark eyes, straight black jaw-length BOB with deep SIDE PART, no braid. Identical recognizable face/age/proportions, no glamour or adult reinterpretation.\nCurrent story all CIVILIAN: navy school sweater over white collared shirt, gray straight trousers, sensible black lace shoes. Small plain ORANGE FOAM EARPLUGS in both ears for temporary sound sensitivity, one may be naturally hidden by bob in a view. Ordinary black phone in one hand, small pencil behind other ear not needed. No transformed suit, magic, veil, focus disk, weapons, detached hand/anatomical studies.\nLEFT full front-threequarter, CENTER smaller full REAR/SIDE view revealing near ear/plug naturally. RIGHT two spacious head-and-shoulder expressions: \"Reading\" focused careful attention and \"Too many local differences\" frustrated but admitting a reluctant smile. All studies clear ivory gutters, all hair/feet inside canvas, ordinary complete anatomy. No posed medical examination.\nCanadian Group of Seven broad CONNECTED OPAQUE OIL across faces/hair/clothing: long directional bristle masses, sculptural knife highlights, quiet joined deep shadow planes. No finely polished faces or photographic pores, no tiny equal mosaic, anime/CGI. First image face/rendering only, do not copy its transformed/hand studies. Second image existing school stairwell PRIMARY mood and color: indoor afternoon cool SLATE-VIOLET shade, a few muted warm window planes. White collar subdued offwhite, most jumper dark navy. Not bright white studio fill, no halos. Page stays light warm ivory.\nExact name/story title and two captions only; no actual phone data. No room, floor/contact shadow patches, props spread, palette strips, swatches or other people.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-68a8eaec-d5e3-45a4-9c21-5c934fe448b8.png",
+                "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+                "inspected": true,
+                "role": "Inspected selected recurring Bryn civilian identity/oil only; no transformed or isolated hand studies"
+              },
+              {
+                "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+                "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+                "inspected": true,
+                "role": "Inspected actual foam plugs/color and afternoon school oil/shade, no room copied"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-72eac733-41a0-486e-a700-3a744769b57e.png",
+            "returnedSha256": "0f88fc6aa1de281974489dd942873628aa9d260e69742bc0f7a6f70d6d136517",
+            "completedAt": "2026-09-24T11:59:12.312014+00:00",
+            "review": [
+              "Actual pixels inspected: recurring16-year-old Bryn's square youthful face/side-part black bob/tall lean teen proportions match selected identity.",
+              "Civilian uniform and ordinary phone, visible small orange foam earplugs appropriate to source sound sensitivity; no transformed powers or magical electronics.",
+              "Consistent physical opaque oil across face/body/hair, dark navy/slate cloth and restrained warm indoor planes; exact title/name and two expression captions readable.",
+              "Complete body views and spacious isolated portraits on light ivory, no locations/floor/swatches or isolated hand studies."
+            ]
+          }
+        ],
+        "prompt": "One1536x1024 landscape CHARACTER-ONLY oil folio, light warm IVORY. Exact heading \"Bryn Ahn\", subtitle \"The Help Network\". Preserve EXACT SAME16-year-old civilian Bryn in first selected reference: ordinary tall lean teenager, medium warm-beige skin, square face/broad cheekbones, dark eyes, straight black jaw-length BOB with deep SIDE PART, no braid. Identical recognizable face/age/proportions, no glamour or adult reinterpretation.\nCurrent story all CIVILIAN: navy school sweater over white collared shirt, gray straight trousers, sensible black lace shoes. Small plain ORANGE FOAM EARPLUGS in both ears for temporary sound sensitivity, one may be naturally hidden by bob in a view. Ordinary black phone in one hand, small pencil behind other ear not needed. No transformed suit, magic, veil, focus disk, weapons, detached hand/anatomical studies.\nLEFT full front-threequarter, CENTER smaller full REAR/SIDE view revealing near ear/plug naturally. RIGHT two spacious head-and-shoulder expressions: \"Reading\" focused careful attention and \"Too many local differences\" frustrated but admitting a reluctant smile. All studies clear ivory gutters, all hair/feet inside canvas, ordinary complete anatomy. No posed medical examination.\nCanadian Group of Seven broad CONNECTED OPAQUE OIL across faces/hair/clothing: long directional bristle masses, sculptural knife highlights, quiet joined deep shadow planes. No finely polished faces or photographic pores, no tiny equal mosaic, anime/CGI. First image face/rendering only, do not copy its transformed/hand studies. Second image existing school stairwell PRIMARY mood and color: indoor afternoon cool SLATE-VIOLET shade, a few muted warm window planes. White collar subdued offwhite, most jumper dark navy. Not bright white studio fill, no halos. Page stays light warm ivory.\nExact name/story title and two captions only; no actual phone data. No room, floor/contact shadow patches, props spread, palette strips, swatches or other people.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-68a8eaec-d5e3-45a4-9c21-5c934fe448b8.png",
+            "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+            "inspected": true,
+            "role": "Inspected selected recurring Bryn civilian identity/oil only; no transformed or isolated hand studies"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected actual foam plugs/color and afternoon school oil/shade, no room copied"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:59:12.312014+00:00",
+        "sourceSha256": "fff12f8066c9c9b71b312b09fbb5dd7df9787ccc3e022eeed97078a27693aa04",
+        "outputSha256": "0f88fc6aa1de281974489dd942873628aa9d260e69742bc0f7a6f70d6d136517",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-68a8eaec-d5e3-45a4-9c21-5c934fe448b8.png",
+            "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+            "inspected": true,
+            "role": "Inspected selected recurring Bryn civilian identity/oil only; no transformed or isolated hand studies"
+          },
+          {
+            "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+            "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+            "inspected": true,
+            "role": "Inspected actual foam plugs/color and afternoon school oil/shade, no room copied"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: recurring16-year-old Bryn's square youthful face/side-part black bob/tall lean teen proportions match selected identity.",
+          "Civilian uniform and ordinary phone, visible small orange foam earplugs appropriate to source sound sensitivity; no transformed powers or magical electronics.",
+          "Consistent physical opaque oil across face/body/hair, dark navy/slate cloth and restrained warm indoor planes; exact title/name and two expression captions readable.",
+          "Complete body views and spacious isolated portraits on light ivory, no locations/floor/swatches or isolated hand studies."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "afb405319a051fbc18fb576348380ffb5ab49e425425b1c534414e6d24ce606b"
+      },
+      "outputSha256": "0f88fc6aa1de281974489dd942873628aa9d260e69742bc0f7a6f70d6d136517"
+    },
+    {
+      "id": "sivelle",
+      "name": "Sivelle",
+      "sourceIdentityId": "distant-requester",
+      "role": "Distant magical-girl requester who chooses limits and local company",
+      "selectionEvidence": [
+        {
+          "quote": "No name. No place. No system. No proof.",
+          "line": 149,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "No body. No call. Do not ask sky.",
+          "line": 167,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "I choose, she wrote. You carry request only. Do not carry reason.",
+          "line": 235,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "I have company I chose. Stop the outer thread.",
+          "line": 277,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Text-only human presence; no bodily appearance supplied",
+      "storyAppearance": {
+        "anatomy": "No body or face shown; source deliberately declines visual proof.",
+        "lifeStage": "Called magical girl; exact age not given, no unsupported body depicted.",
+        "proportions": "Not disclosed.",
+        "markings": "Not disclosed.",
+        "materials": "Ordinary text messages on receiving phone only.",
+        "clothing": "Not disclosed.",
+        "equipment": "Receiver interface/blank icon, no claim to sender's device.",
+        "scale": "No bodily scale provided.",
+        "movement": "Text requests/decisions, five-minute presence dots, chosen private handoff.",
+        "distinctiveFeatures": "No portrait, transformed form, token, location or personified phone allowed."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only distinct assigned name Sivelle under explicit user naming authorization; source role remains distant requester, name never claimed as shared canon or story disclosure.",
+        "Use receiving message-screen states as supported visible evidence of one identity, not invented body/device agency; exact source short messages, blank icon, no invented photo/location/age. Phone's generic casing is art-only."
+      ],
+      "states": [
+        {
+          "label": "Remain",
+          "description": "Requests quiet company."
+        },
+        {
+          "label": "Chosen company",
+          "description": "Stops outer thread by her choice."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-help-network:sivelle",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-help-network/title-image.jpg",
+          "role": "Inspected symbolic cover only: card, one hand and network metaphor; no literal network stars or identity claim",
+          "notes": "Actual pixels inspected, no magic network imposed.",
+          "sha256": "dbb0e3821013df383e2fee0d5c20f08065edd7bf9cfa5f4c15ffc0171dc6eb83",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/01-the-back-stairwell.png",
+          "role": "Primary broad oil and afternoon grey-violet shade with narrow warm school-window light; ordinary phone/card/foam plugs",
+          "notes": "Actual pixels inspected; no room/floor transfer.",
+          "sha256": "62231910985b17b0702525088f28a9bbc50a03bdb3359601823bb36cba49b670",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+          "role": "Primary low-key midnight lamp/cool phone-light oil palette for midnight state only",
+          "notes": "Actual pixels inspected; no bedroom setting transferred.",
+          "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+          "role": "Same named character approved identity/rendering anchor; only civilian state in this source",
+          "notes": "Actual pixels inspected, round youthful face/honey-brown jaw curls compact teen.",
+          "sha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+          "role": "Same named character approved civilian identity; LEFT wrist injury continues with tape",
+          "notes": "Actual pixels inspected, long narrow face/chestnut single braid/small wiry teen.",
+          "sha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+          "role": "Same named character approved civilian identity, sound sensitivity now foam plugs",
+          "notes": "Actual pixels inspected, tall lean teen/square face/black sidepart bob.",
+          "sha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-help-network/art/characters/sivelle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:59:13.297215+00:00",
+            "status": "PASS",
+            "prompt": "Create one1536x1024 landscape OIL CHARACTER-PRESENCE FOLIO on light WARM IVORY. Exact heading \"Sivelle\", subtitle \"The Help Network\", small clear line \"Text-only requester\". Sivelle is an ART-ONLY assigned name for the distant human magical-girl requester who appears ONLY through text and deliberately withholds her body/face/location/magical form. No invented person/body/portrait/hands/silhouette/avatar, no costume/token, no location, age or technology of her own inferred. Ordinary receiving phones carry her words; they are not her body and not sentient.\nTWO LARGE SPACED COMPLETE FRONT VIEWS of the SAME ordinary charcoal/black receiving smartphone, isolated on ivory, very slightly differing threequarter angles for dimension; no holder/hand. Left phone shows ONE simple offwhite message panel with dark readable exact text:\n\"Remain means do not disappear.\nNot make plan.\"\nCaption below left: \"Remain\".\nRight phone shows ONE offwhite message panel, dark readable exact text:\n\"I have company I chose.\nStop the outer thread.\"\nCaption below right: \"Chosen company\".\nTiny plain blank circular sender indicator above each message, NOT a head/face/photo. No sender name on interface, because source withholds it; sheet header uses assigned art name. No apps/brands/private data/clock/location map or extra message strings. Same physical handset in both views is the RECEIVER, not a claim about sender equipment. Text large and legible at reading size. Leave generous ivory gutters.\nPrimary references are existing Group of Seven OILS: first Cassia room palette and generic ordinary phone, second Cassia selected civilian sheet ordinary black phone/paint/ivory. NO character body or room copied. Repaint phones as broad CONNECTED opaque charcoal/slate paint planes, decisive bristle strokes and selective palette-knife ridges, NOT photoreal glossy product render/CGI. Text remains clean. Screens softly lit muted cream, casing mostly dark cool slate/blue with tiny restrained warm lamplight edge. No luminous aura/glow outside phone, no cast shadow, floor/contact patch, room/scene, decorative network, wires connecting devices, stars, swatches or icons suggesting shared magical system. Preserve honest remote presence rather than inventing physical form.",
+            "references": [
+              {
+                "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+                "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+                "inspected": true,
+                "role": "Inspected actual source ordinary receiving phone and night oil palette only, not sender's device/location"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-cb65db1d-4137-4cc6-8edc-6e6a73c253e5.png",
+                "sha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9",
+                "inspected": true,
+                "role": "Inspected selected Cassia ordinary black receiving phone and oil format; no figure/person copied"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-59a824fa-236b-41f4-9e66-43b83bc5602e.png",
+            "returnedSha256": "4176e34ced701bcbc3d508fb24f8f560df2e203a2a0e02280b1031b37bb63394",
+            "completedAt": "2026-09-24T12:04:01.903036+00:00",
+            "review": [
+              "Actual pixels inspected: art-only name Sivelle clearly paired with Text-only requester; no invented body, portrait, costume, location or transformation.",
+              "Two ordinary receiving-message interfaces show source-supported Remain/Chosen company states with blank icons and exact readable message text; no private identifiers or assertion these devices are sender's body.",
+              "Broad physical sculpted opaque oil on charcoal casing, muted cool/warm planes and cream screen, no glossy product rendering or magic network.",
+              "Clear unclipped shapes on ivory with exact title/name and labels, no environment, floor patches, swatches or hand studies."
+            ]
+          }
+        ],
+        "prompt": "Create one1536x1024 landscape OIL CHARACTER-PRESENCE FOLIO on light WARM IVORY. Exact heading \"Sivelle\", subtitle \"The Help Network\", small clear line \"Text-only requester\". Sivelle is an ART-ONLY assigned name for the distant human magical-girl requester who appears ONLY through text and deliberately withholds her body/face/location/magical form. No invented person/body/portrait/hands/silhouette/avatar, no costume/token, no location, age or technology of her own inferred. Ordinary receiving phones carry her words; they are not her body and not sentient.\nTWO LARGE SPACED COMPLETE FRONT VIEWS of the SAME ordinary charcoal/black receiving smartphone, isolated on ivory, very slightly differing threequarter angles for dimension; no holder/hand. Left phone shows ONE simple offwhite message panel with dark readable exact text:\n\"Remain means do not disappear.\nNot make plan.\"\nCaption below left: \"Remain\".\nRight phone shows ONE offwhite message panel, dark readable exact text:\n\"I have company I chose.\nStop the outer thread.\"\nCaption below right: \"Chosen company\".\nTiny plain blank circular sender indicator above each message, NOT a head/face/photo. No sender name on interface, because source withholds it; sheet header uses assigned art name. No apps/brands/private data/clock/location map or extra message strings. Same physical handset in both views is the RECEIVER, not a claim about sender equipment. Text large and legible at reading size. Leave generous ivory gutters.\nPrimary references are existing Group of Seven OILS: first Cassia room palette and generic ordinary phone, second Cassia selected civilian sheet ordinary black phone/paint/ivory. NO character body or room copied. Repaint phones as broad CONNECTED opaque charcoal/slate paint planes, decisive bristle strokes and selective palette-knife ridges, NOT photoreal glossy product render/CGI. Text remains clean. Screens softly lit muted cream, casing mostly dark cool slate/blue with tiny restrained warm lamplight edge. No luminous aura/glow outside phone, no cast shadow, floor/contact patch, room/scene, decorative network, wires connecting devices, stars, swatches or icons suggesting shared magical system. Preserve honest remote presence rather than inventing physical form.",
+        "references": [
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected actual source ordinary receiving phone and night oil palette only, not sender's device/location"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-cb65db1d-4137-4cc6-8edc-6e6a73c253e5.png",
+            "sha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9",
+            "inspected": true,
+            "role": "Inspected selected Cassia ordinary black receiving phone and oil format; no figure/person copied"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:04:01.903036+00:00",
+        "sourceSha256": "fff12f8066c9c9b71b312b09fbb5dd7df9787ccc3e022eeed97078a27693aa04",
+        "outputSha256": "4176e34ced701bcbc3d508fb24f8f560df2e203a2a0e02280b1031b37bb63394",
+        "references": [
+          {
+            "path": "stories/the-help-network/art/interiors/02-cassias-room-after-midnight.png",
+            "sha256": "cbd02fa8f97c91cd337a4b79b9232796da8789072387f47e564801ea95c20770",
+            "inspected": true,
+            "role": "Inspected actual source ordinary receiving phone and night oil palette only, not sender's device/location"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-cb65db1d-4137-4cc6-8edc-6e6a73c253e5.png",
+            "sha256": "c22beaf0b7535ef2a6ab57a77ef93deaf3a5bb45f7932a2047ea889d0a1cacf9",
+            "inspected": true,
+            "role": "Inspected selected Cassia ordinary black receiving phone and oil format; no figure/person copied"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: art-only name Sivelle clearly paired with Text-only requester; no invented body, portrait, costume, location or transformation.",
+          "Two ordinary receiving-message interfaces show source-supported Remain/Chosen company states with blank icons and exact readable message text; no private identifiers or assertion these devices are sender's body.",
+          "Broad physical sculpted opaque oil on charcoal casing, muted cool/warm planes and cream screen, no glossy product rendering or magic network.",
+          "Clear unclipped shapes on ivory with exact title/name and labels, no environment, floor patches, swatches or hand studies."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "b1a6b9dd8a9fea11df41759cd0b50e1090a6aa0b5b195f6cb4cf3809ce9c36b0"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Distant requester who withholds identity",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused Sivelle assigned only for collection-art label; no source/canon edit or in-world disclosure."
+      },
+      "outputSha256": "4176e34ced701bcbc3d508fb24f8f560df2e203a2a0e02280b1031b37bb63394"
+    }
+  ]
+}
