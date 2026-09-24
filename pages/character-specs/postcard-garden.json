@@ -1,0 +1,639 @@
+{
+  "schemaVersion": 1,
+  "slug": "postcard-garden",
+  "title": "The Address of Here",
+  "source": "stories/postcard-garden/story.md",
+  "sourceSha256": "98e9e1145147e6fd28e8efcfe2a7662e85b115e1820868b46f59be59b386e90d",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose, prompt and final review read. Zinnet, Ovolo and Agata carry discovery, reciprocal friendship/correction and historical destination respectively.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Terrace gardener, fern seller, travelers, festival gardeners and recorded children",
+      "reason": "Short supporting route/help or background roles; no sustained independent central identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/style-guide.md",
+      "entries": [
+        "Constructed personhood protection LOCKED"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No matching Zinnet/Ovolo/Agata/Farleaf entry found"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "displayName": "codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+      "status": "resolved",
+      "inspected": true,
+      "searched": [
+        "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+        "C:/Users/jamie/.codex/attachments (targeted hidden filename search)",
+        "D:/Development/BoundlessAi/story-computing-machine/.codex-remote-attachments (targeted hidden filename search)"
+      ],
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+      "sha256": "a028cc88c8a55d5276856ac691159a40a26e5fa14bf430bbf7125f020c990e90",
+      "inspection": "Original1 inspected: adult-presenting feminine ivory/gold constructed android, amber eyes, dark gathered flowered hair, gold joints and large shoulder solar panels. Use Zinnet geometry only; replace smooth/photoreal rendering with matte oils.",
+      "resolvedAt": "2026-09-24T03:44:02.277793+00:00",
+      "recoveryProvenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+    },
+    {
+      "displayName": "codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+      "status": "resolved",
+      "inspected": true,
+      "searched": [
+        "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+        "C:/Users/jamie/.codex/attachments (targeted hidden filename search)",
+        "D:/Development/BoundlessAi/story-computing-machine/.codex-remote-attachments (targeted hidden filename search)"
+      ],
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+      "sha256": "ce888bb0f8c7dad94193aee9308ceec940991361c95eb8e07a3bf0d4c39da577",
+      "inspection": "Original2 inspected: same-world ivory/gold android materials, green plant accents and sunflower solar motif; contextual solar construction language only. Do not turn Zinnet bald, add giant sunflower staff or treat pictured female as Ovolo.",
+      "resolvedAt": "2026-09-24T03:44:02.277793+00:00",
+      "recoveryProvenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+    }
+  ],
+  "characters": [
+    {
+      "id": "zinnet",
+      "name": "Zinnet",
+      "role": "Nine-year-old gardening android and traveler",
+      "selectionEvidence": [
+        {
+          "quote": "ivory cheeks, amber eyes, gold fingers",
+          "explanation": "Explicit anatomy."
+        },
+        {
+          "quote": "flowers in her gathered dark hair",
+          "explanation": "Hair detail."
+        },
+        {
+          "quote": "dust in her gold ankle joints",
+          "explanation": "Construction."
+        },
+        {
+          "quote": "Eleven years. She would be twenty.",
+          "explanation": "Chronological age9, no human-child age assumption."
+        }
+      ],
+      "form": "Android",
+      "storyAppearance": {
+        "anatomy": "Gardening android, ivory and gold mechanical construction, amber eyes, dark gathered hair with small flowers, gold fingers and ankle joints, solar shoulder panels. Young by android chronology, nine years old, appearance not equated to human child.",
+        "clothing": "Broad hat can shade shoulder panels; travel bag and solar blanket.",
+        "equipment": "Tin with postcard, hand lens, seed envelopes and pear cutting. No magical nature or human history substituted."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: ivory cheeks, amber eyes, gold fingers",
+        "Non-canon source fact: flowers in her gathered dark hair",
+        "Non-canon source fact: dust in her gold ankle joints",
+        "Non-canon source fact: Eleven years. She would be twenty."
+      ],
+      "visualInterpretation": [
+        "Recovered original1 establishes adult-presenting feminine ivory and gold android construction, amber eyes, gathered curly dark hair with small white flowers/green sprigs; do not depict a human child based on chronological age9.",
+        "Full body interpreted with articulated ivory torso/limb shells, gold joints/fingers/ankles and sensible articulated feet. Paired dark-blue rectangular solar panels mounted behind shoulders; arms free to garden, modest ivory construction no human nudity.",
+        "Broad soft tan travel hat removable to keep panels unshaded; russet canvas travel satchel and rolled solar blanket. Original2 supports plant/solar material motif, not bald face or sunflower staff."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Present story identity"
+        }
+      ],
+      "naming": {
+        "sourceName": "Zinnet",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "postcard-garden:zinnet",
+        "links": [],
+        "evidence": "No shared identity entry found."
+      },
+      "references": [
+        {
+          "path": "stories/postcard-garden/title-image.jpg",
+          "role": "Inspected Zinnet identity subordinate to recovered inspected original: ivory/gold mechanical face and joints, amber eyes, dark gathered flowered hair and shoulder panels. Cover anime/smooth style excluded.",
+          "inspected": true,
+          "sha256": "5d8c3127dc9b240dbe10d6004df8071b8ee678a6d1c0e405ab450a7e5dd5365f"
+        },
+        {
+          "path": "stories/postcard-garden/art/landscapes/01-rooftop-beans-and-apricots.png",
+          "role": "Inspected current-city daylight and broad oil treatment only; no location.",
+          "inspected": true,
+          "sha256": "fd6a16960118f56abc09db17c5d11d8bed38fc6ae17d92a49f5f5e1756e0df99"
+        },
+        {
+          "path": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+          "role": "Inspected historical ship-garden practical grow lighting and matte oil handling only; no room.",
+          "inspected": true,
+          "sha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+          "sha256": "a028cc88c8a55d5276856ac691159a40a26e5fa14bf430bbf7125f020c990e90",
+          "inspected": true,
+          "role": "Original1 inspected: adult-presenting feminine ivory/gold constructed android, amber eyes, dark gathered flowered hair, gold joints and large shoulder solar panels. Use Zinnet geometry only; replace smooth/photoreal rendering with matte oils.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+          "sha256": "ce888bb0f8c7dad94193aee9308ceec940991361c95eb8e07a3bf0d4c39da577",
+          "inspected": true,
+          "role": "Original2 inspected: same-world ivory/gold android materials, green plant accents and sunflower solar motif; contextual solar construction language only. Do not turn Zinnet bald, add giant sunflower staff or treat pictured female as Ovolo.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        }
+      ],
+      "output": "stories/postcard-garden/art/characters/zinnet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "RECREATE image2 as a substantially hand-painted oil folio using the ACTUAL BROAD OPAQUE BRUSH/KNIFE PAINT of image1. Image1 is STYLE ONLY: ignore its face, body, outfit, lighting, scene strips, swatches and labels. Image2 is Zinnet identity/construction/layout ONLY; replace smooth CGI face, detailed shiny curls and tiny mechanical highlights with broad connected matte oil shapes, thick dragged paint and a few selective knife ridges. Her ivory cheeks must be broad visible painted planes and her curls grouped substantial bristle masses, not airbrushed plastic or photographic hair. Keep her adult-presenting friendly ivory/gold android, AMBER eyes, flowered dark bun, paired solar shoulder panels, five-digit hands, same proportions, clothingless protective body shells and bright garden-daylight direction with cool shadow side. Background uniform LIGHT WARM IVORY, REMOVE all floor marks beneath feet. Exact heading Zinnet WITHOUT period and subtitle The Address of Here. REMOVE ALL extra decorative sentences under labels. ONLY these short labels may remain: Front, Back, Travel, Curious, Listening, Postcard in tin, Hand lens, Seed envelopes, Solar blanket. Correct rear bag side: in BACK figure bag must be on VIEWER RIGHT hip, strap from VIEWER LEFT shoulder to viewerRIGHT hip. Front bag already viewerLEFT correct. Both match anatomicalRIGHT hip. Replace LARGE RIPE PEAR hanging on bag with a SMALL UNFRUITED PEAR CUTTING: narrow woody twig and a few green leaves secured across top, NO fruit. In hand-held open tin replace scenic postcard face with the BACK of an old card, only handwritten words Wish you were here, no city scene; do not invent sender. Keep golden fingers visible holding it, three envelopes, lens and solar blanket. No new figure or scenery.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6318383b-bafc-42aa-9297-b2e55a16c604.png",
+            "sha256": "d561bd24a9d091115cbc810c72e528022c5ddc87c057469c6368af38ece42892",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET. One identity only, with its consistent multiple views/states. Exact requested NAME large readable dark serif and exact story subtitle The Address of Here beneath it. Light warm IVORY empty background, NO scenery, environment vignette, ground/floor/shadow patches, palette swatches or extra people. Two or three complete unclipped whole-body views, two head studies and selected hand/equipment details with brief readable labels. Heavily painted Canadian Group of Seven OILS: LARGE CONNECTED colour/value masses, broad visible directional bristle strokes, selective thick scraped paint, quieter matte joins. Faces, hair, metal and cloth all hand-painted with the same broad stroke scale. Same-story oil reference is PRIMARY PAINT handling. Original android image supplies subject geometry/material guidance only, never smooth photographic rendering. No anime, glossy CGI, polygon mosaic or uniformly beveled chips. A defined upper light direction and cooler broad shadows give volume, no evenly studio-lit face. The page remains light ivory. Heading Zinnet. This is the GARDENING ANDROID from original image1: a young ADULT-PRESENTING feminine human-scale android, NOT a human child. Ivory mechanical face/cheeks, warm AMBER eyes, gold articulated fingers/neck/ankle joints, dark curly hair gathered up with small WHITE flowers and green sprigs. Preserve friendly attentive face, exposed elegant mechanical neck and ivory shell construction. Full-body lower form extrapolated modest practical ivory hip/leg shells with GOLD knees/ankle joints and sensible articulated feet; five digits per hand, no human flesh torso or nudity. Paired dark-blue rectangular SOLAR PANELS mount behind shoulders and remain clearly visible in rear view; free arms. Two full views Front and Back in bright GARDEN CITY DAYLIGHT, warm sun with cool blue-violet shaded side, no studio rim. Satchel is russet canvas on anatomical RIGHT hip: front viewerLEFT, rear viewerRIGHT, strap from LEFT shoulder. Pear cutting tied along bag top, rolled dark-blue solar blanket strapped below it. Small halfbody Travel with broad soft TAN hat held in a hand rather than worn (hat would shade panels); same face. Heads Curious and Listening, same adult-presenting ivory/gold face, amber eyes, flowered hair. Detail: gold fingers holding small old TIN with postcard, hand lens, three seed envelopes and folded solar blanket. Do not show complete city or giant solar-flower staff. Chronological android age9 does not mean childlike body. No label suggesting postcard author known.",
+            "references": [
+              {
+                "path": "stories/postcard-garden/art/landscapes/01-rooftop-beans-and-apricots.png",
+                "role": "PRIMARY broad matte oil painting and sunny garden-city light, no geography",
+                "inspected": true,
+                "sha256": "fd6a16960118f56abc09db17c5d11d8bed38fc6ae17d92a49f5f5e1756e0df99"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+                "role": "Actual recovered original1 Zinnet geometry, hair, ivory/gold construction and shoulder solar panels; rendering must become matte oils",
+                "inspected": true,
+                "sha256": "a028cc88c8a55d5276856ac691159a40a26e5fa14bf430bbf7125f020c990e90"
+              }
+            ],
+            "startedAt": "2026-09-24T04:16:25.465893+00:00",
+            "preflight": "Full finished story reread, both recovered source originals and same-story art inspected; original1 geometry vs original2 motif roles separated. Zinnet android9 adult-presenting, Ovolo distinct interpreted design, Agata48-year aging and no current survival claim. Same-identity framing, gear/ear side and character-only ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6318383b-bafc-42aa-9297-b2e55a16c604.png",
+            "candidateSha256": "d561bd24a9d091115cbc810c72e528022c5ddc87c057469c6368af38ece42892",
+            "completedAt": "2026-09-24T04:37:51.917973+00:00",
+            "visualInspection": [
+              "Candidate too smooth/CGI especially face and curls; narrative captions unwanted. Rear bag wrong side, fruit instead of cutting and wrong postcard image; remove ground patches."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "RECREATE image2 as a substantially hand-painted oil folio using the ACTUAL BROAD OPAQUE BRUSH/KNIFE PAINT of image1. Image1 is STYLE ONLY: ignore its face, body, outfit, lighting, scene strips, swatches and labels. Image2 is Zinnet identity/construction/layout ONLY; replace smooth CGI face, detailed shiny curls and tiny mechanical highlights with broad connected matte oil shapes, thick dragged paint and a few selective knife ridges. Her ivory cheeks must be broad visible painted planes and her curls grouped substantial bristle masses, not airbrushed plastic or photographic hair. Keep her adult-presenting friendly ivory/gold android, AMBER eyes, flowered dark bun, paired solar shoulder panels, five-digit hands, same proportions, clothingless protective body shells and bright garden-daylight direction with cool shadow side. Background uniform LIGHT WARM IVORY, REMOVE all floor marks beneath feet. Exact heading Zinnet WITHOUT period and subtitle The Address of Here. REMOVE ALL extra decorative sentences under labels. ONLY these short labels may remain: Front, Back, Travel, Curious, Listening, Postcard in tin, Hand lens, Seed envelopes, Solar blanket. Correct rear bag side: in BACK figure bag must be on VIEWER RIGHT hip, strap from VIEWER LEFT shoulder to viewerRIGHT hip. Front bag already viewerLEFT correct. Both match anatomicalRIGHT hip. Replace LARGE RIPE PEAR hanging on bag with a SMALL UNFRUITED PEAR CUTTING: narrow woody twig and a few green leaves secured across top, NO fruit. In hand-held open tin replace scenic postcard face with the BACK of an old card, only handwritten words Wish you were here, no city scene; do not invent sender. Keep golden fingers visible holding it, three envelopes, lens and solar blanket. No new figure or scenery.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6318383b-bafc-42aa-9297-b2e55a16c604.png",
+                "sha256": "d561bd24a9d091115cbc810c72e528022c5ddc87c057469c6368af38ece42892",
+                "inspected": true,
+                "role": "Actual candidate: identity/content target for stated corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T04:37:51.917973+00:00",
+            "preflight": "Actual all three candidate pixels reviewed. Original CGI appearance overpowered painting; changed android inputs to approved heavy-oil style as primary plus candidate geometry. Rear bag, unfruited cutting, anonymous postcard back, light ivory and Agata left-ear continuity explicitly checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4e7ccd4e-68bd-4aa1-a078-aab29c79bb74.png",
+            "candidateSha256": "66853539f75396a68ec9ed54abbfb51eeda15e172d770fa0dee444fd5f29a042",
+            "completedAt": "2026-09-24T05:26:21.472726+00:00",
+            "visualInspection": [
+              "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+              "Visible broad oil paint now covers face, grouped curls, ivory shells and cloth; original adult-presenting amber-eyed ivory/gold constructed identity, flowered gathered hair and paired shoulder panels retained.",
+              "Bag/strap now anatomical right side, unfruited pear twig replaces ripe fruit. Tin shows anonymous postcard back with Wish you were here, no false city-photo substitution; three envelopes, lens/hat/blanket and ordinary five-digit mechanical hands pass. Decorative prose removed."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T05:26:21.472726+00:00",
+        "sourceSha256": "98e9e1145147e6fd28e8efcfe2a7662e85b115e1820868b46f59be59b386e90d",
+        "outputSha256": "66853539f75396a68ec9ed54abbfb51eeda15e172d770fa0dee444fd5f29a042",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6318383b-bafc-42aa-9297-b2e55a16c604.png",
+            "sha256": "d561bd24a9d091115cbc810c72e528022c5ddc87c057469c6368af38ece42892",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+          "Visible broad oil paint now covers face, grouped curls, ivory shells and cloth; original adult-presenting amber-eyed ivory/gold constructed identity, flowered gathered hair and paired shoulder panels retained.",
+          "Bag/strap now anatomical right side, unfruited pear twig replaces ripe fruit. Tin shows anonymous postcard back with Wish you were here, no false city-photo substitution; three envelopes, lens/hat/blanket and ordinary five-digit mechanical hands pass. Decorative prose removed."
+        ],
+        "specificationSha256": "9b00cf647d9b4a9063abd76b968142f68cd7c78ed3061f3a167005866a2feb0f"
+      },
+      "outputSha256": "66853539f75396a68ec9ed54abbfb51eeda15e172d770fa0dee444fd5f29a042"
+    },
+    {
+      "id": "ovolo",
+      "name": "Ovolo",
+      "role": "Android neighbor and postcard photographer who corrects his mistaken advice",
+      "selectionEvidence": [
+        {
+          "quote": "He made postcards for the neighborhood festival.",
+          "explanation": "Role."
+        },
+        {
+          "quote": "I checked properly this time.",
+          "explanation": "Independent correction."
+        },
+        {
+          "quote": "Keep them",
+          "explanation": "His edited/unretouched views become relationship choice."
+        }
+      ],
+      "form": "Android",
+      "storyAppearance": {
+        "anatomy": "Adult-presenting android, male pronouns, face/materials unspecified.",
+        "equipment": "Camera, postcard making/scanning and picture communication.",
+        "clothing": "No fixed source costume."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: He made postcards for the neighborhood festival.",
+        "Non-canon source fact: I checked properly this time.",
+        "Non-canon source fact: Keep them"
+      ],
+      "visualInterpretation": [
+        "Distinct adult-presenting masculine android: broad rounded porcelain-grey face, teal eyes, bare smooth head with copper seams, short broad build. Brushed copper joints and slate-blue shoulder shell accents; construction shares articulated source language but face is not Zinnet clone.",
+        "Practical muted olive photographer vest over protective mechanical chest shell; camera shoulder strap, ordinary articulated hands. No giant solar sunflower staff or floral hair."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Present story identity"
+        }
+      ],
+      "naming": {
+        "sourceName": "Ovolo",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "postcard-garden:ovolo",
+        "links": [],
+        "evidence": "No shared identity entry found."
+      },
+      "references": [
+        {
+          "path": "stories/postcard-garden/title-image.jpg",
+          "role": "Inspected Zinnet identity subordinate to recovered inspected original: ivory/gold mechanical face and joints, amber eyes, dark gathered flowered hair and shoulder panels. Cover anime/smooth style excluded.",
+          "inspected": true,
+          "sha256": "5d8c3127dc9b240dbe10d6004df8071b8ee678a6d1c0e405ab450a7e5dd5365f"
+        },
+        {
+          "path": "stories/postcard-garden/art/landscapes/01-rooftop-beans-and-apricots.png",
+          "role": "Inspected current-city daylight and broad oil treatment only; no location.",
+          "inspected": true,
+          "sha256": "fd6a16960118f56abc09db17c5d11d8bed38fc6ae17d92a49f5f5e1756e0df99"
+        },
+        {
+          "path": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+          "role": "Inspected historical ship-garden practical grow lighting and matte oil handling only; no room.",
+          "inspected": true,
+          "sha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+          "sha256": "a028cc88c8a55d5276856ac691159a40a26e5fa14bf430bbf7125f020c990e90",
+          "inspected": true,
+          "role": "Original1 inspected: adult-presenting feminine ivory/gold constructed android, amber eyes, dark gathered flowered hair, gold joints and large shoulder solar panels. Use Zinnet geometry only; replace smooth/photoreal rendering with matte oils.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+          "sha256": "ce888bb0f8c7dad94193aee9308ceec940991361c95eb8e07a3bf0d4c39da577",
+          "inspected": true,
+          "role": "Original2 inspected: same-world ivory/gold android materials, green plant accents and sunflower solar motif; contextual solar construction language only. Do not turn Zinnet bald, add giant sunflower staff or treat pictured female as Ovolo.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        }
+      ],
+      "output": "stories/postcard-garden/art/characters/ovolo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Repaint image2 in the ACTUAL MATTE OPAQUE OIL technique of image1: image1 STYLE ONLY, exclude its face, clothes, lighting, names, scene strips and swatches. Preserve image2 Ovolo one-identity design: masculine bare-headed porcelain-grey android, teal eyes, copper seams/joints, broad build, olive photographer vest, slateblue shoulder shells, ordinary camera on neck strap and five articulated digits per hand. Simplify smooth cartoon-like faces into broad visible brush/knife colour masses with quieter matte joints; no airbrush, shiny CGI eyebrows/eyes or photoreal polish. Preserve expression differences without exaggerated animation. Most critical: REPLACE ALL DARK smoky background and blurred gradients with UNIFORM LIGHT WARM IVORY so title/labels are plainly readable, no ground patches. Exact large BLACK serif heading Ovolo, subtitle The Address of Here. Bright city DAYLIGHT on figure with substantial cool grey-green shadow side, no studio spotlight. Keep existing full front/back, camera/hand/shoulder details and functional short labels. No scene, palette, poetic slogans, extra props or female character from reference.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-172cb7f5-7a1d-4ef5-b6f0-fc0fd4fd4f58.png",
+            "sha256": "4435dea07a71a051d39780a335675f4366949dceb4434055f2f6c8f392df1ace",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET. One identity only, with its consistent multiple views/states. Exact requested NAME large readable dark serif and exact story subtitle The Address of Here beneath it. Light warm IVORY empty background, NO scenery, environment vignette, ground/floor/shadow patches, palette swatches or extra people. Two or three complete unclipped whole-body views, two head studies and selected hand/equipment details with brief readable labels. Heavily painted Canadian Group of Seven OILS: LARGE CONNECTED colour/value masses, broad visible directional bristle strokes, selective thick scraped paint, quieter matte joins. Faces, hair, metal and cloth all hand-painted with the same broad stroke scale. Same-story oil reference is PRIMARY PAINT handling. Original android image supplies subject geometry/material guidance only, never smooth photographic rendering. No anime, glossy CGI, polygon mosaic or uniformly beveled chips. A defined upper light direction and cooler broad shadows give volume, no evenly studio-lit face. The page remains light ivory. Heading Ovolo. A DISTINCT masculine adult-presenting ANDROID PHOTOGRAPHER, not the pictured feminine android. Art-only design: short broad body, rounded warm PORCELAIN-GREY mechanical face with broad nose and expressive TEAL eyes; smooth bare head, copper seam lines, no human hair. BRUSHED COPPER joints/hands with five articulated digits, slate-blue shoulder shells and modest protective chest plates. Muted OLIVE photographer vest over mechanical torso, canvas utility trousers cut to mechanical ankles, ordinary flat articulated feet. Original2 supplies botanical metalwork rhythm and solar-powered material context only: small understated leaf-line etching on his shoulder plates is enough; no giant sunflower staff/halo or face-copy. Full Front and Back, same figure. A simple CAMERA on neck strap centered chest, camera isolated below; two hands holding camera in small action study. Heads Concentrating and Sheepish, same round face and teal eyes. Bright garden CITY DAYLIGHT, warm upper sun and connected cooler blue-green shadow side, painterly matte brushed materials. No shiny reflective chrome, humanoid skin, other people, backdrop, postcard text or source-relative age label.",
+            "references": [
+              {
+                "path": "stories/postcard-garden/art/landscapes/01-rooftop-beans-and-apricots.png",
+                "role": "PRIMARY broad matte oil painting and sunny garden-city light, no geography",
+                "inspected": true,
+                "sha256": "fd6a16960118f56abc09db17c5d11d8bed38fc6ae17d92a49f5f5e1756e0df99"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+                "role": "Actual recovered original2 botanical metalwork/solar material motif only; new masculine face and copper/grey interpretation, no sunflower staff/city",
+                "inspected": true,
+                "sha256": "ce888bb0f8c7dad94193aee9308ceec940991361c95eb8e07a3bf0d4c39da577"
+              }
+            ],
+            "startedAt": "2026-09-24T04:16:25.465893+00:00",
+            "preflight": "Full finished story reread, both recovered source originals and same-story art inspected; original1 geometry vs original2 motif roles separated. Zinnet android9 adult-presenting, Ovolo distinct interpreted design, Agata48-year aging and no current survival claim. Same-identity framing, gear/ear side and character-only ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-172cb7f5-7a1d-4ef5-b6f0-fc0fd4fd4f58.png",
+            "candidateSha256": "4435dea07a71a051d39780a335675f4366949dceb4434055f2f6c8f392df1ace",
+            "completedAt": "2026-09-24T04:37:51.917973+00:00",
+            "visualInspection": [
+              "Dark smoky ground hides heading/title, must be ivory. Face has smooth cartoon/CGI modelling; needs same broad oil language as body."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Repaint image2 in the ACTUAL MATTE OPAQUE OIL technique of image1: image1 STYLE ONLY, exclude its face, clothes, lighting, names, scene strips and swatches. Preserve image2 Ovolo one-identity design: masculine bare-headed porcelain-grey android, teal eyes, copper seams/joints, broad build, olive photographer vest, slateblue shoulder shells, ordinary camera on neck strap and five articulated digits per hand. Simplify smooth cartoon-like faces into broad visible brush/knife colour masses with quieter matte joints; no airbrush, shiny CGI eyebrows/eyes or photoreal polish. Preserve expression differences without exaggerated animation. Most critical: REPLACE ALL DARK smoky background and blurred gradients with UNIFORM LIGHT WARM IVORY so title/labels are plainly readable, no ground patches. Exact large BLACK serif heading Ovolo, subtitle The Address of Here. Bright city DAYLIGHT on figure with substantial cool grey-green shadow side, no studio spotlight. Keep existing full front/back, camera/hand/shoulder details and functional short labels. No scene, palette, poetic slogans, extra props or female character from reference.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-172cb7f5-7a1d-4ef5-b6f0-fc0fd4fd4f58.png",
+                "sha256": "4435dea07a71a051d39780a335675f4366949dceb4434055f2f6c8f392df1ace",
+                "inspected": true,
+                "role": "Actual candidate: identity/content target for stated corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T04:37:51.917973+00:00",
+            "preflight": "Actual all three candidate pixels reviewed. Original CGI appearance overpowered painting; changed android inputs to approved heavy-oil style as primary plus candidate geometry. Rear bag, unfruited cutting, anonymous postcard back, light ivory and Agata left-ear continuity explicitly checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-916a5c7a-fae1-400d-aab3-e79b490ba0f3.png",
+            "candidateSha256": "7255576b6715f1ae8f3290e18cdd016f46c13e8b2e3651ffc22758d429b071ad",
+            "completedAt": "2026-09-24T05:26:21.472726+00:00",
+            "visualInspection": [
+              "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+              "Dark smoky ground replaced by readable ivory; matte brush-painted grey/copper bare-headed android remains distinct from Zinnet, teal eyes and olive photographer vest consistent.",
+              "Camera/strap, leaf shoulder etching and articulated hands coherent, open palm exactly five digits; original2 botanical metalwork translated without female face or giant collector staff."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T05:26:21.472726+00:00",
+        "sourceSha256": "98e9e1145147e6fd28e8efcfe2a7662e85b115e1820868b46f59be59b386e90d",
+        "outputSha256": "7255576b6715f1ae8f3290e18cdd016f46c13e8b2e3651ffc22758d429b071ad",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "PRIMARY original Sculpted Impasto heavy oil technique only; no identity/clothes/lighting/swatches/scenes"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-172cb7f5-7a1d-4ef5-b6f0-fc0fd4fd4f58.png",
+            "sha256": "4435dea07a71a051d39780a335675f4366949dceb4434055f2f6c8f392df1ace",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+          "Dark smoky ground replaced by readable ivory; matte brush-painted grey/copper bare-headed android remains distinct from Zinnet, teal eyes and olive photographer vest consistent.",
+          "Camera/strap, leaf shoulder etching and articulated hands coherent, open palm exactly five digits; original2 botanical metalwork translated without female face or giant collector staff."
+        ],
+        "specificationSha256": "69c044debee7de450cfc830c1952e4aac28cd1e6fd360be7ddcff4a512b2bcce"
+      },
+      "outputSha256": "7255576b6715f1ae8f3290e18cdd016f46c13e8b2e3651ffc22758d429b071ad"
+    },
+    {
+      "id": "agata",
+      "name": "Agata",
+      "role": "Historical human photographer and Farleaf passenger whose older arrival recording gives the departure an embodied destination",
+      "selectionEvidence": [
+        {
+          "quote": "a dark fringe that divided above one eyebrow, a broad nose, a small metal hoop through her left ear",
+          "explanation": "Young human identity."
+        },
+        {
+          "quote": "She had tied her green overshirt around her waist.",
+          "explanation": "Departure outfit."
+        },
+        {
+          "quote": "Grey hair, a lined face, a green shirt faded almost yellow",
+          "explanation": "Older arrival state."
+        },
+        {
+          "quote": "Forty-eight years between departure and landfall.",
+          "explanation": "Same identity aged48 years; not current living state proof."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman, young with dark uneven fringe, broad nose and left-ear small hoop; same face48 years later with grey hair and creases, grin narrowing eyes.",
+        "clothing": "Green overshirt tied at waist in departure photo; faded almost-yellow green shirt at arrival.",
+        "equipment": "Camera and shallow tomato seedling tray; not proven writer of anonymous postcard.",
+        "states": "Before departure and recorded landfall48 years later; no present-day survivor assumption."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: a dark fringe that divided above one eyebrow, a broad nose, a small metal hoop through her left ear",
+        "Non-canon source fact: She had tied her green overshirt around her waist.",
+        "Non-canon source fact: Grey hair, a lined face, a green shirt faded almost yellow",
+        "Non-canon source fact: Forty-eight years between departure and landfall."
+      ],
+      "visualInterpretation": [
+        "Art-only concrete ages24 at departure and72 at recorded landfall, exactly48 years apart. Medium warm brown skin, broad nose, dark fringe parted above anatomical right brow, short dark hair then grey; small plain hoop in LEFT ear only.",
+        "Departure green overshirt tied at waist above tan work trousers, plain cream undershirt and practical shoes; arrival faded yellow-green shirt worn normally. One identity, same grin narrows eyes; no current surviving-person assumption."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Before departure and recorded landfall48 years later; no present-day survivor assumption."
+        }
+      ],
+      "naming": {
+        "sourceName": "Agata",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "postcard-garden:agata",
+        "links": [],
+        "evidence": "No shared identity entry found."
+      },
+      "references": [
+        {
+          "path": "stories/postcard-garden/title-image.jpg",
+          "role": "Inspected Zinnet identity subordinate to recovered inspected original: ivory/gold mechanical face and joints, amber eyes, dark gathered flowered hair and shoulder panels. Cover anime/smooth style excluded.",
+          "inspected": true,
+          "sha256": "5d8c3127dc9b240dbe10d6004df8071b8ee678a6d1c0e405ab450a7e5dd5365f"
+        },
+        {
+          "path": "stories/postcard-garden/art/landscapes/01-rooftop-beans-and-apricots.png",
+          "role": "Inspected current-city daylight and broad oil treatment only; no location.",
+          "inspected": true,
+          "sha256": "fd6a16960118f56abc09db17c5d11d8bed38fc6ae17d92a49f5f5e1756e0df99"
+        },
+        {
+          "path": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+          "role": "Inspected historical ship-garden practical grow lighting and matte oil handling only; no room.",
+          "inspected": true,
+          "sha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-a85a662a-c03d-4449-8f35-d7ee570fbf3c.png",
+          "sha256": "a028cc88c8a55d5276856ac691159a40a26e5fa14bf430bbf7125f020c990e90",
+          "inspected": true,
+          "role": "Original1 inspected: adult-presenting feminine ivory/gold constructed android, amber eyes, dark gathered flowered hair, gold joints and large shoulder solar panels. Use Zinnet geometry only; replace smooth/photoreal rendering with matte oils.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8efb09f8-d656-427b-bdb5-c4653ffd19c3.png",
+          "sha256": "ce888bb0f8c7dad94193aee9308ceec940991361c95eb8e07a3bf0d4c39da577",
+          "inspected": true,
+          "role": "Original2 inspected: same-world ivory/gold android materials, green plant accents and sunflower solar motif; contextual solar construction language only. Do not turn Zinnet bald, add giant sunflower staff or treat pictured female as Ovolo.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-09-14T14-11-47-01a0a11e-36d2-7450-8569-45fb51682e0b.jsonl"
+        }
+      ],
+      "output": "stories/postcard-garden/art/characters/agata.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make minimal corrections to this Agata character sheet, preserving exact title, both same-identity age24/72 states, broad painterly oils, source-specific grow-light/copper-daylight on figures and current poses/clothes/camera/seedling tray. Remove ALL ground patches beneath both full figures: clean light warm ivory only. EARRING continuity: Agata has ONE small hoop in her anatomical LEFT EAR only. Her full young figure shows a hoop on the viewerLEFT side (her RIGHT ear): remove that visible right-ear hoop; left ear is mostly hidden by hair and need not be exposed. In both large head portraits visible LEFT ear on viewerRIGHT already has correct hoop: preserve that one. Any right-ear hoop on old full figure must also be removed. Do not add additional earrings. Remove the camera brand glyphs and the decorative sentence Simple and dependable. Keep only concise functional labels, no new prose. Preserve uneven fringe, broad nose, youthful/aged grin, older grey hair, green shirt tied at waist when young, faded almost-yellow shirt older and exactly48year difference. No other changes.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c912d55e-0ecb-4c5c-8e55-2b3ab8cec333.png",
+            "sha256": "f72478d8db061a5cb20d43b569334e8c4bfa7b84b6362617a30ec807959e9450",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET. One identity only, with its consistent multiple views/states. Exact requested NAME large readable dark serif and exact story subtitle The Address of Here beneath it. Light warm IVORY empty background, NO scenery, environment vignette, ground/floor/shadow patches, palette swatches or extra people. Two or three complete unclipped whole-body views, two head studies and selected hand/equipment details with brief readable labels. Heavily painted Canadian Group of Seven OILS: LARGE CONNECTED colour/value masses, broad visible directional bristle strokes, selective thick scraped paint, quieter matte joins. Faces, hair, metal and cloth all hand-painted with the same broad stroke scale. Same-story oil reference is PRIMARY PAINT handling. Original android image supplies subject geometry/material guidance only, never smooth photographic rendering. No anime, glossy CGI, polygon mosaic or uniformly beveled chips. A defined upper light direction and cooler broad shadows give volume, no evenly studio-lit face. The page remains light ivory. Heading Agata. One HUMAN WOMAN in TWO clearly labelled periods exactly48 years apart, NOT an android. Medium warm-brown skin, BROAD NOSE, dark uneven fringe parted just above anatomical RIGHT eyebrow, small PLAIN METAL HOOP in anatomical LEFT ear only. Broad smile narrows eyes. Full view1 Before departure (art interpretation age24): short dark hair with that uneven fringe, plain cream undershirt, GREEN OVERSHIRT TIED AROUND WAIST, tan practical trousers and brown shoes, hand holding simple camera. Full view2 Landfall, 48 years later (same woman now72): same broad nose, visibly lined and creased face, GREY short hair with same uneven part, small left-ear hoop, green shirt worn normally and FADED ALMOST YELLOW, tan work trousers/brown shoes. Carries a shallow tray with small TOMATO SEEDLINGS and one stretched seedling; ordinary five-digit hands. Full rear view of older outfit optional only if space. Two large matching head portraits Young and 48 years later, identity/aging clear. Departure light is diffuse white garden-ship grow lamps with mild warm fill; Landfall light is soft COPPER-SKY daylight on face with cooler grey shadows, not night. These lighting differences stay on person only. Small camera and seedling-hand details. Do not depict current-day Agata, write postcard attribution, show ship/planet scenery, or copy android materials.",
+            "references": [
+              {
+                "path": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
+                "role": "PRIMARY broad matte oil handling and historical ship garden diffuse lamp exposure, no environment",
+                "inspected": true,
+                "sha256": "5a2668d11f691be40347d109c7526197bab0a77cdb04f2d42c47aaacc087e428"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Subordinate original oil medium/one-identity study layout only; no face, armor, sunlight, floor or swatches",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              }
+            ],
+            "startedAt": "2026-09-24T04:16:25.465893+00:00",
+            "preflight": "Full finished story reread, both recovered source originals and same-story art inspected; original1 geometry vs original2 motif roles separated. Zinnet android9 adult-presenting, Ovolo distinct interpreted design, Agata48-year aging and no current survival claim. Same-identity framing, gear/ear side and character-only ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c912d55e-0ecb-4c5c-8e55-2b3ab8cec333.png",
+            "candidateSha256": "f72478d8db061a5cb20d43b569334e8c4bfa7b84b6362617a30ec807959e9450",
+            "completedAt": "2026-09-24T04:37:51.917973+00:00",
+            "visualInspection": [
+              "Age-state/body/face/seedlings pass; ground patches and a right-ear hoop in young full figure need correction, camera decorative text irrelevant."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Make minimal corrections to this Agata character sheet, preserving exact title, both same-identity age24/72 states, broad painterly oils, source-specific grow-light/copper-daylight on figures and current poses/clothes/camera/seedling tray. Remove ALL ground patches beneath both full figures: clean light warm ivory only. EARRING continuity: Agata has ONE small hoop in her anatomical LEFT EAR only. Her full young figure shows a hoop on the viewerLEFT side (her RIGHT ear): remove that visible right-ear hoop; left ear is mostly hidden by hair and need not be exposed. In both large head portraits visible LEFT ear on viewerRIGHT already has correct hoop: preserve that one. Any right-ear hoop on old full figure must also be removed. Do not add additional earrings. Remove the camera brand glyphs and the decorative sentence Simple and dependable. Keep only concise functional labels, no new prose. Preserve uneven fringe, broad nose, youthful/aged grin, older grey hair, green shirt tied at waist when young, faded almost-yellow shirt older and exactly48year difference. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c912d55e-0ecb-4c5c-8e55-2b3ab8cec333.png",
+                "sha256": "f72478d8db061a5cb20d43b569334e8c4bfa7b84b6362617a30ec807959e9450",
+                "inspected": true,
+                "role": "Actual candidate: identity/content target for stated corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T04:37:51.917973+00:00",
+            "preflight": "Actual all three candidate pixels reviewed. Original CGI appearance overpowered painting; changed android inputs to approved heavy-oil style as primary plus candidate geometry. Rear bag, unfruited cutting, anonymous postcard back, light ivory and Agata left-ear continuity explicitly checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b5d91db9-7e14-4ad4-9db8-7c7bb525676a.png",
+            "candidateSha256": "75d49577849754c36cb13f0a6e501c30181e0bf685cdf84fa8e53383e02367f4",
+            "completedAt": "2026-09-24T05:26:21.472726+00:00",
+            "visualInspection": [
+              "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+              "Same broad-nosed grinning human aged48 years: young dark uneven fringe, older grey hair/creases, green tied overshirt then faded worn shirt. Concrete24/72 are recorded art interpretations, not source ages.",
+              "Left-ear hoop remains in correct visible portrait ear; erroneous right-ear hoop removed from full figures. Camera, ordinary hands and tomato tray with stretched seedling pass; no android anatomy/current survival claim."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T05:26:21.472726+00:00",
+        "sourceSha256": "98e9e1145147e6fd28e8efcfe2a7662e85b115e1820868b46f59be59b386e90d",
+        "outputSha256": "75d49577849754c36cb13f0a6e501c30181e0bf685cdf84fa8e53383e02367f4",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c912d55e-0ecb-4c5c-8e55-2b3ab8cec333.png",
+            "sha256": "f72478d8db061a5cb20d43b569334e8c4bfa7b84b6362617a30ec807959e9450",
+            "inspected": true,
+            "role": "Actual candidate: identity/content target for stated corrections"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG reviewed full-size: one identity, exact readable name/title, complete useful views, light ivory without floor/scenery/swatches. Source-original roles and all current pins verified.",
+          "Same broad-nosed grinning human aged48 years: young dark uneven fringe, older grey hair/creases, green tied overshirt then faded worn shirt. Concrete24/72 are recorded art interpretations, not source ages.",
+          "Left-ear hoop remains in correct visible portrait ear; erroneous right-ear hoop removed from full figures. Camera, ordinary hands and tomato tray with stretched seedling pass; no android anatomy/current survival claim."
+        ],
+        "specificationSha256": "de441bb0a9e1eb801d9a0f0e6ab2c0d8e796f8aa277f155a191489643d40be5c"
+      },
+      "outputSha256": "75d49577849754c36cb13f0a6e501c30181e0bf685cdf84fa8e53383e02367f4"
+    }
+  ]
+}
