@@ -2072,6 +2072,146 @@
       ]
     },
     {
+      "slug": "apes-in-orbit",
+      "title": "The Apes Above",
+      "reader": "stories/apes-in-orbit.html",
+      "images": [
+        {
+          "id": "brinnt",
+          "title": "Brinnt",
+          "alt": "Sculpted Impasto character reference sheet of Brinnt for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/brinnt.png",
+          "sourceSha256": "52cec44205c001e51e042eb5aedd3fd6047c879b2af7d21b78be86050d1106a3",
+          "full": {
+            "path": "characters/apes-in-orbit/brinnt-52cec44205c001e5.webp",
+            "sha256": "d2046a24b8faabd1ab9a81cdba4c86f039f9d0c320db9473c04d026c9741372b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/brinnt-52cec44205c001e5-thumb.webp",
+            "sha256": "81b698401a214250b0975f866ac7ab8ca65d6f83c8b85681624dc3aab8aed892",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "daskra",
+          "title": "Daskra",
+          "alt": "Sculpted Impasto character reference sheet of Daskra for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/daskra.png",
+          "sourceSha256": "f969626a8a8e5ac0250e17c5506951484c4eeb0a030511af60c84c3815041e68",
+          "full": {
+            "path": "characters/apes-in-orbit/daskra-f969626a8a8e5ac0.webp",
+            "sha256": "eda358c6d8bfae6bb9ad66bb17c76aff7d4303498e47ad0d09dce6ea11df6ac6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/daskra-f969626a8a8e5ac0-thumb.webp",
+            "sha256": "6561f3a86e1d5df2f63d752c7948f1815a745ceb1e17c8215611cf51ad0a5fc1",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "oxaul",
+          "title": "Oxaul",
+          "alt": "Sculpted Impasto character reference sheet of Oxaul for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/oxaul.png",
+          "sourceSha256": "0d9c8552b4f3f8fb4fd54358a83857cf1b17bcb5da901d0b934597d509235eb1",
+          "full": {
+            "path": "characters/apes-in-orbit/oxaul-0d9c8552b4f3f8fb.webp",
+            "sha256": "0f9ba691384f443ee1f9e871051c729d2a8f9dcb301b6261c5aba8e9f6c60b42",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/oxaul-0d9c8552b4f3f8fb-thumb.webp",
+            "sha256": "5d4db30595d4559c1c98b46fd9e5932a8a9ea7c4e176c8a086e2b059fa64a518",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "qemri",
+          "title": "Qemri",
+          "alt": "Sculpted Impasto character reference sheet of Qemri for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/qemri.png",
+          "sourceSha256": "89eaf7dcba76da4648ccaf8a0e0b68784939045b32ca178d265ed0ccc6941f96",
+          "full": {
+            "path": "characters/apes-in-orbit/qemri-89eaf7dcba76da46.webp",
+            "sha256": "91bc618d85be89b5c36993eec0bc53aa8aeaf7396f1b7c6e110f418ef2b65580",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/qemri-89eaf7dcba76da46-thumb.webp",
+            "sha256": "beef164195a3f0af5b48e5002914f111fab6c845f05a7db9d7df13eb10bc2f17",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "rulven",
+          "title": "Rulven",
+          "alt": "Sculpted Impasto character reference sheet of Rulven for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/rulven.png",
+          "sourceSha256": "10e158f5999da22423ea677da75e0879fa082f99a2ef5005ce27a278df486a0f",
+          "full": {
+            "path": "characters/apes-in-orbit/rulven-10e158f5999da224.webp",
+            "sha256": "7129e61aed0e018c647edcce67c507b8bcbba4e9794d50c6211d05154bb10f77",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/rulven-10e158f5999da224-thumb.webp",
+            "sha256": "00dd681f7b7d8023f2ff18efd62f9ee5d30db3ef09f246426cfb9907012aebdb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sulekk",
+          "title": "Sulekk",
+          "alt": "Sculpted Impasto character reference sheet of Sulekk for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/sulekk.png",
+          "sourceSha256": "e77f8ebf776d24140a7d2adcb7eb2a2ac222c08030e587731d73f28fe0bdbf34",
+          "full": {
+            "path": "characters/apes-in-orbit/sulekk-e77f8ebf776d2414.webp",
+            "sha256": "24c4100d7295d3c7ba046092d319d52dd1694506bfb2f3e069125f34cb29ce01",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/sulekk-e77f8ebf776d2414-thumb.webp",
+            "sha256": "8371aeadfeca83ba5fe5a19792ac88aae792c502be46f973340c9180913cad87",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vekrit",
+          "title": "Vekrit",
+          "alt": "Sculpted Impasto character reference sheet of Vekrit for The Apes Above",
+          "source": "stories/apes-in-orbit/art/characters/vekrit.png",
+          "sourceSha256": "fef58fbcb55e0dd9e35fe4fc68bae8855cf00bee396d2bbd1ad3d1b2a5ab5426",
+          "full": {
+            "path": "characters/apes-in-orbit/vekrit-fef58fbcb55e0dd9.webp",
+            "sha256": "86c4a383901ccbea1dff96cfad4b9b4b271d085894ce09f18efd81de051a58f9",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/apes-in-orbit/vekrit-fef58fbcb55e0dd9-thumb.webp",
+            "sha256": "b5cc7f406aeb71502d5327db8982ae8f3b964124a9878012aad51d927e2371f5",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "blade-calls-your-name",
       "title": "The Blade Calls Your Name",
       "reader": "stories/blade-calls-your-name.html",
