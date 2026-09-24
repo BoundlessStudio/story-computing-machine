@@ -1,0 +1,1769 @@
+{
+  "schemaVersion": 1,
+  "collection": "Sculpted Impasto character reference sheets",
+  "authority": "universe LOCKED > CANON > finished story; non-canon visual interpretations establish no shared facts",
+  "sourceCommit": "15e1ba93",
+  "style": {
+    "name": "Canadian Group of Seven oil studies — revised examples",
+    "reference": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+    "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+    "approvedBy": "User goal objective, 2026-09-23",
+    "scope": "Rendering and presentation only; subject, red cloak and medieval equipment are not templates.",
+    "treatment": "Large rhythmic colour/value masses first; varied directional opaque oil strokes, quieter connecting passages, selective substantial impasto. Figures/heads/machines simplified as decisively as reference landscape forms; quiet ivory ground. Story-specific motivated light; connected subdued coloured shadow families; no individually bevel-lit strokes, theatrical rim light, glossy eyes/lenses or automatic orange-blue contrast. Palette/light adapted to story environment within same painterly approach.",
+    "format": "Landscape 3:2, warm ivory support, exact character name and story title, isolated full-form views and distinguishing details/states/equipment. No location/scenic vignette, terrain/ground patch, buildings or environmental backdrop. Character material and restrained lighting remain story-specific. No paint swatches or palette strips.",
+    "userRevision": {
+      "recordedAt": "2026-09-23T18:38:45.228462+00:00",
+      "verbatim": "ok these surfer from your generic AI drift; they don't fell like the are part of the same collection; the art style should feel like the Canadian group of seven painters. even though they are done in the oil style; try again, before i approve the full run.",
+      "lightingClarification": "its your use of lighting too is important as the other points.",
+      "direction": "Canadian Group of Seven collection cohesion in large painted colour/value shapes, directional brush rhythm and natural light. Thick oil describes form; avoid uniform bevelled paint chips, glossy dark render underneath, rim-light spectacle and generic orange-blue modelling. Simplify subjects as strongly as landscape masses. Use actual repository paintings as primary references. Original supplied sheet is historical presentation guidance; user correction governs current rendering.",
+      "sharedStyleAnchors": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+          "role": "Shared primary Group of Seven collection painting and lighting reference",
+          "inspected": true
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+          "role": "Shared primary Group of Seven collection painting and lighting reference",
+          "inspected": true
+        }
+      ],
+      "lighting": "Use supported time and light sources for each character; maintain connected restrained shadow masses, including darkness and lost edges. No universal daylight or rim-light spectacle.",
+      "paint": "Large rhythmic colour/value masses first; varied directional opaque oil strokes, quieter connecting passages, selective substantial impasto. Figures/heads/machines simplified as decisively as reference landscape forms; quiet ivory ground."
+    },
+    "originalApprovedReference": {
+      "name": "Sculpted Impasto",
+      "reference": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+      "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+      "approvedBy": "User goal objective, 2026-09-23",
+      "scope": "Rendering and presentation only; subject, red cloak and medieval equipment are not templates.",
+      "treatment": "Raised heavy oil, broad palette-knife slabs and bristle strokes, broken colour, scraped edges, exposed underpainting, interlocking masses, warm light and rich cool shadows; paint describes material and form including faces. Story-specific palette. No anime, glossy digital rendering, plastic surfaces or photorealistic faces."
+    },
+    "referenceRole": "Original supplied sheet retained as historical presentation guidance. Current primary painting/lighting references are userRevision.sharedStyleAnchors; latest user correction governs.",
+    "approvalStatus": "Full collection production authorized by user; final user review at end.",
+    "lightingAcceptance": "Determine lighting from each character's supported material behaviour, selected story moment and relevant story painting. Shared oil technique does not authorize identical daylight across stories. Record actual time and motivated light sources before generation; preserve necessary darkness and lost edges rather than exposing all surfaces for reference-sheet readability.",
+    "identityReview": "Compare each repeated face and full-body view directly to one visual anchor. Keep body/head proportions and facial structure consistent; label clothing/state changes where they could suggest another person. Do not use absence of borrowed cast markings as proof of visual identity consistency."
+  },
+  "workflow": {
+    "generator": "image_gen (built-in Codex tool); one asset per call; backend variant not reported",
+    "sourceAssets": "stories/<slug>/art/characters/<character-id>.png",
+    "specifications": "pages/character-specs/<slug>.json",
+    "publishedSnapshot": "pages/characters.json",
+    "pilotStatus": "All eight pilots and existing completed production sheets are integrated. User review can proceed in the gallery and PR; remaining production is deferred.",
+    "pilotCharacters": [
+      "a-beginner-of-considerable-age/orsugal",
+      "friends-of-the-night/crooktail",
+      "drone-down/morrowick",
+      "a-busy-year-for-dying/kelro",
+      "a-curse-before-breakfast/coris",
+      "a-darkness-written-under-skin/leora-sloane",
+      "coiled-together/veyratha",
+      "save-that-dragon/daziel"
+    ],
+    "approval": "User explicitly authorized full run and review at end: go ahead with the full run and we will do a review at the end.",
+    "reuse": "Only reuse when source, specification and selected reference hashes remain current; preserve attempts.",
+    "statusAuthority": "Each per-story specification records reading status and each character status. Central story list is the inventory index.",
+    "rolloutStatus": "existing-sheets-delivered-production-stopped",
+    "userReviewCandidates": [
+      {
+        "story": "a-beginner-of-considerable-age",
+        "storyTitle": "A Beginner of Considerable Age",
+        "character": "orsugal",
+        "characterName": "Orsugal",
+        "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+        "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b",
+        "specification": "pages/character-specs/a-beginner-of-considerable-age.json",
+        "status": "completed"
+      },
+      {
+        "story": "friends-of-the-night",
+        "storyTitle": "Friends of the Night",
+        "character": "crooktail",
+        "characterName": "Crooktail",
+        "path": "stories/friends-of-the-night/art/characters/crooktail.png",
+        "sha256": "71c950facd5089440b3b55494c61af7989b587914fab140c67a051933ae67b3e",
+        "specification": "pages/character-specs/friends-of-the-night.json",
+        "status": "completed"
+      },
+      {
+        "story": "drone-down",
+        "storyTitle": "The City Keeps Score",
+        "character": "morrowick",
+        "characterName": "Morrowick",
+        "path": "stories/drone-down/art/characters/morrowick.png",
+        "sha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
+        "specification": "pages/character-specs/drone-down.json",
+        "status": "completed"
+      },
+      {
+        "story": "a-busy-year-for-dying",
+        "storyTitle": "A Busy Year for Dying",
+        "character": "kelro",
+        "characterName": "Kelro",
+        "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+        "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+        "specification": "pages/character-specs/a-busy-year-for-dying.json",
+        "status": "completed"
+      },
+      {
+        "story": "a-curse-before-breakfast",
+        "storyTitle": "A Curse Before Breakfast",
+        "character": "coris",
+        "characterName": "Coris",
+        "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+        "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+        "specification": "pages/character-specs/a-curse-before-breakfast.json",
+        "status": "completed"
+      },
+      {
+        "story": "a-darkness-written-under-skin",
+        "storyTitle": "A Darkness Written Under Skin",
+        "character": "leora-sloane",
+        "characterName": "Leora Sloane",
+        "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+        "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+        "specification": "pages/character-specs/a-darkness-written-under-skin.json",
+        "status": "completed",
+        "revision": "Rear-view facial likeness and head/body proportions corrected after user feedback; distinct coat-state labels added."
+      },
+      {
+        "story": "coiled-together",
+        "storyTitle": "Coiled Together",
+        "character": "veyratha",
+        "characterName": "Veyratha",
+        "path": "stories/coiled-together/art/characters/veyratha.png",
+        "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+        "specification": "pages/character-specs/coiled-together.json",
+        "status": "completed"
+      },
+      {
+        "story": "save-that-dragon",
+        "storyTitle": "One Night's Mercy",
+        "character": "daziel",
+        "characterName": "Princess Daziel",
+        "path": "stories/save-that-dragon/art/characters/daziel.png",
+        "sha256": "be84d86aa52181de9ee566b047b54f3dc3376460c2891e01453fa1f1af398d05",
+        "specification": "pages/character-specs/save-that-dragon.json",
+        "status": "completed"
+      }
+    ],
+    "latestUserDirection": {
+      "verbatim": [
+        "ok lets try characters references that don;t place locations. and just focus on character.",
+        "do the same with the other previews; also include 5 more stories for reference.",
+        "remove the pain swap they arent needed.",
+        "go ahead with the full run and we will do a review at the end.",
+        "always give the characters names if there are missing them.",
+        "why are still doing hand study i think we where past this...",
+        "ok this is seems to be stalling out wrap up now and get the character studies into the gallery and open a PR."
+      ],
+      "interpretation": "User stopped further production and requested delivery now. No new image generation or correction loops. Publish currently finished and visually reviewed sheets, retain all unfinished and deferred work in the checkpoint, verify the gallery, and open a pull request. Character-only, no swatches, named identities, source-specific lighting and Canadian Group of Seven impasto directions remain binding."
+    },
+    "fullRunAuthorization": {
+      "recordedAt": "2026-09-23T20:41:18.121725+00:00",
+      "verbatim": "go ahead with the full run and we will do a review at the end.",
+      "scope": "All inventoried finished stories and qualifying main cast; character-only, swatch-free sheets; final user review after completion. No intermediate user checkpoint required."
+    },
+    "identityRequirement": {
+      "verbatim": "i dont want to see unname thing on the chracter sheet; we should figure their indenity before trying to put them to on a chracter sheet.",
+      "rule": "Resolve each identity before generation. Use established source names; for missing names use compatible historical names or newly assigned distinct names under explicit user authorization. Record which type. Never print Unnamed/Unknown placeholders. Do not import obsolete historical abilities, ages or plots.",
+      "namingAuthorization": {
+        "verbatim": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "rule": "Always assign a distinct character name before generation when current source lacks one. Prefer recoverable compatible historical names; otherwise invent a restrained name authorized for the art. Keep the source role, evidence and assignment provenance in character specification. Never print Unnamed placeholders. No source-package prose or canon edit."
+      }
+    },
+    "parallelProduction": {
+      "authorizedBy": "make sure to do these in parrellel as much posible and make sure to do small commits as we are expecting 100s of images.",
+      "recordedAt": "2026-09-23T20:59:42.323371+00:00",
+      "assignment": "Six workers each own all story specifications and characters artwork with inventoryBatch equal to their assigned 0-5 value. Root owns gallery code, central manifest, capture, validation and all Git commits. No source prose/covers/universe edits.",
+      "commitPolicy": "Small reviewable commits: gallery support separately; then one story or a few finished sheets per commit. Workers notify root after each completed story and keep completed assets stable for staging.",
+      "rebalancing": {
+        "recordedAt": "2026-09-24T11:41:30.280323+00:00",
+        "batch3Additional": [
+          "the-star-that-followed-the-bells",
+          "the-trouble-with-tuesdays",
+          "the-upward-rain",
+          "the-weight-of-falling-up-rune-shoes",
+          "transitions-in-common",
+          "what-she-remembered-of-peace",
+          "when-the-needle-finds-you"
+        ],
+        "batch5Additional": [
+          "yavrens-return",
+          "the-weight-they-never-counted",
+          "twelve-in-the-room",
+          "what-the-gates-keep",
+          "where-it-hurts",
+          "what-the-town-owed-her",
+          "where-no-unicorn-stands"
+        ],
+        "reason": "Original batches 3 and 5 fully completed; preserve six parallel workers. Original owners notified before transfer."
+      }
+    },
+    "galleryVerification": {
+      "status": "PASS",
+      "reviewedAt": "2026-09-24T13:39:52.916107+00:00",
+      "evidence": [
+        "62 Pages unit tests passed.",
+        "Pages check passed: 193 source/published stories, 561 landscapes, 507 interiors, 649 character sheets.",
+        "Built 193 stored story readers. All 1298 character full-size/thumbnail WebP files decode and match snapshot hashes; names, alt text and reader destinations verified.",
+        "Browser checked Character sheets filter: 649 paintings across 169 stories; Leonie name search, readable full-size viewer, Open image and correct Read story link."
+      ],
+      "latestExpandedCheck": {
+        "status": "PASS",
+        "builtSheets": 649,
+        "builtStoriesWithCharacters": 169,
+        "totalReaders": 193
+      }
+    },
+    "resumeContract": {
+      "worktree": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art",
+      "scope": "Worker N owns only pages/character-specs/<slug>.json and stories/<slug>/art/characters/* for manifest stories with inventoryBatch N. Do not change source prose/covers/universe, gallery code/snapshot or central manifest. Root owns all Git, validation/capture and integration. You are not alone; preserve others edits.",
+      "generation": "Use imagegen skill and built-in image_gen only, one asset per call, max five actual inspected reference images. Read finished story fully and inspect authority/source marker before assessment; covers and relevant artwork actual pixels. New sheets named exact source name or distinctive authorized art name with recorded provenance. User full run/final review approval persists.",
+      "style": "Canadian Group of Seven oil collection: broad connected masses, directional opaque paint and selective impasto across faces too; story-motivated lighting preserves darkness. Character only on warm ivory, no locations, scene/floor patches, paint swatches or palette strips. Exact readable name and story title. Preserve anatomy and distinct identity; style anchor must not donate faces. No new isolated hand studies or speculative hand-side corrections; retain acceptable completed art.",
+      "provenance": "Follow existing spec schema and UTF-8. Preserve all attempts, exact prompt, actual returned candidate path, inspected selected reference hashes, source/output/specification hashes and PASS findings. Use pages.landscape_gallery._reviewed_character_source(Path.cwd(),spec,char) to verify final pins; character_specification_sha256 excludes status/output/outputSha256/validation and generation.attempts. Avoid self-referential mutable output paths in generation refs; use immutable original returned candidate for edits.",
+      "coordination": "Production stopped at explicit user wrap-up request. Do not start or resume image generation automatically. Finish gallery integration and PR now; a later explicit resume may continue the recorded remaining queue. Root owns Git and gallery.",
+      "resume": "Resume only on an explicit new user request. Use the sourceArchive local production branch/worktree, checkpoint remaining queue, and preserved attempts. Inspect saved candidates before any new call; never assume an interrupted attempt returned no file."
+    },
+    "recurringIdentityCoordination": [
+      {
+        "name": "Kethra",
+        "stories": [
+          "a-lock-on-the-inside",
+          "voice-of-silence"
+        ],
+        "selectedAnchor": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+        "sha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+        "rule": "Same LOCKED signing character; hearing intact, slate/chalk, no invented mouth injury/prosthetic voice. Appearance interpretation reused with source-specific states."
+      },
+      {
+        "name": "Faris",
+        "stories": [
+          "all-accounts-due",
+          "the-sky-remembers-us-return"
+        ],
+        "selectedAnchor": "stories/all-accounts-due/art/characters/faris.png",
+        "sha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8",
+        "rule": "Preserve identity if qualifying cast in Return, respect ancient vs terminal powerless states. Verify current universe and source."
+      },
+      {
+        "name": "Seyathi",
+        "stories": [
+          "all-accounts-due",
+          "the-sky-remembers-us-return"
+        ],
+        "selectedAnchor": "stories/all-accounts-due/art/characters/seyathi.png",
+        "sha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a",
+        "rule": "Preserve identity if qualifying cast in Return, respect ancient vs terminal powerless states. Verify current universe and source."
+      },
+      {
+        "name": "Nika",
+        "stories": [
+          "a-seat-for-the-sun"
+        ],
+        "rule": "Worker search found only this story and no universe entry; no evidence permits merging with other sun goddesses."
+      },
+      {
+        "name": "Solstice Evening Bell",
+        "stories": [
+          "solstice-evening-bell",
+          "the-count-was-131072"
+        ],
+        "selectedAnchor": "stories/solstice-evening-bell/art/characters/solstice-evening-bell.png",
+        "sha256": "a2be1baf7b61bdcf45f4cfa2b80cbb88b63393a854554d1e056c4cd7dc010740",
+        "rule": "Same named canon individual; retain face/silver hair. Museum state centuries later has no armor, sword, crown/chimes or restored powers; gray-cord borrowed guide with blue light only."
+      },
+      {
+        "name": "Elspeth",
+        "stories": [
+          "empire-within",
+          "the-old-percentage"
+        ],
+        "selectedAnchor": "stories/empire-within/art/characters/elspeth.png",
+        "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+        "rule": "Explicit continuation: preserve face/left-arm impairment from age23 to82 after59years imprisonment. Root reviewed both selected sheets."
+      },
+      {
+        "name": "Astral Valkyrie / Tapissier",
+        "stories": [
+          "the-astral-valkyrie",
+          "the-thread-that-held"
+        ],
+        "selectedAnchor": "stories/the-astral-valkyrie/art/characters/astral-valkyrie.png",
+        "sha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709",
+        "rule": "Explicit source/prompt identity. Same face, indigo hair, golden wings and broken violet halo; Thread disguise has wings tucked under embroidered wrap, halo fragments hidden in hairpins. Corrected opaque facial oil anchor root PASS; inspect source-specific state."
+      }
+    ],
+    "anatomyReviewCorrection": {
+      "recordedAt": "2026-09-24T10:19:03.597851+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png",
+      "evidence": "Root and worker4 inspected actual plate: explicitly LEFT DORSAL, fingers down, thumb image-left. With fingers up: LEFT dorsal thumb image-right; RIGHT dorsal thumb image-left; LEFT palm thumb image-left; RIGHT palm thumb image-right. Rotate the entire view before comparing; do not confuse viewer side with anatomical body side. Earlier root convention was reversed and withdrawn. Affected exact attempts and selection history retained in individual specs.",
+      "audit": "Workers0/1 unaffected; workers2/3/4/5 audited directed changes and restored correct immutable candidates where possible. Body accessory side checks unaffected."
+    },
+    "wrapUpAuthorization": {
+      "recordedAt": "2026-09-24T13:21:46.656072+00:00",
+      "verbatim": "ok this is seems to be stalling out wrap up now and get the character studies into the gallery and open a PR.",
+      "scope": "Publish existing acceptable finished sheets and open a PR; defer unfinished collection work."
+    },
+    "sourceArchive": {
+      "branch": "codex/character-reference-sheets",
+      "worktree": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art",
+      "commit": "69efae200b21324c161c8222fe57114cf461e691",
+      "preservation": "Original PNGs and small production commits remain in this local branch. The publication PR contains frozen full-size WebP images, thumbnails and metadata; it does not upload the full PNG archive.",
+      "publicationBranch": "codex/character-gallery"
+    },
+    "retainedUnreviewedCandidates": {
+      "directory": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166",
+      "files": [
+        "exec-a609c525-bbf2-4fd7-9df4-090e7ffcaf26.png",
+        "exec-b676f0f4-7787-4a16-92a1-e3b47954d354.png",
+        "exec-f309f62a-cc26-41df-a8ca-8aa03dafdd47.png",
+        "exec-e6e29dc6-0c87-4243-a6c2-0f08f23fd917.png"
+      ],
+      "status": "Returned before wrap-up but unreviewed and unpinned; identify from saved prompts and visible headings on a later resume. Never include automatically."
+    }
+  },
+  "stories": [
+    {
+      "slug": "a-beginner-of-considerable-age",
+      "source": "stories/a-beginner-of-considerable-age/story.md",
+      "specification": "pages/character-specs/a-beginner-of-considerable-age.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "a-busy-year-for-dying",
+      "source": "stories/a-busy-year-for-dying/story.md",
+      "specification": "pages/character-specs/a-busy-year-for-dying.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "a-crown-for-the-endless-fire",
+      "source": "stories/a-crown-for-the-endless-fire/story.md",
+      "specification": "pages/character-specs/a-crown-for-the-endless-fire.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "a-crown-in-the-bargain",
+      "source": "stories/a-crown-in-the-bargain/story.md",
+      "specification": "pages/character-specs/a-crown-in-the-bargain.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "a-curse-before-breakfast",
+      "source": "stories/a-curse-before-breakfast/story.md",
+      "specification": "pages/character-specs/a-curse-before-breakfast.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "a-darkness-written-under-skin",
+      "source": "stories/a-darkness-written-under-skin/story.md",
+      "specification": "pages/character-specs/a-darkness-written-under-skin.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "a-knock-in-someone-elses-sleep",
+      "source": "stories/a-knock-in-someone-elses-sleep/story.md",
+      "specification": "pages/character-specs/a-knock-in-someone-elses-sleep.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "a-little-more-room",
+      "source": "stories/a-little-more-room/story.md",
+      "specification": "pages/character-specs/a-little-more-room.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "a-little-winter-for-sale",
+      "source": "stories/a-little-winter-for-sale/05-story.md",
+      "specification": "pages/character-specs/a-little-winter-for-sale.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "a-lock-on-the-inside",
+      "source": "stories/a-lock-on-the-inside/story.md",
+      "specification": "pages/character-specs/a-lock-on-the-inside.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "a-note-of-spite",
+      "source": "stories/a-note-of-spite/story.md",
+      "specification": "pages/character-specs/a-note-of-spite.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "a-pet-human",
+      "source": "stories/a-pet-human/story.md",
+      "specification": "pages/character-specs/a-pet-human.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "a-place-for-sunday",
+      "source": "stories/a-place-for-sunday/story.md",
+      "specification": "pages/character-specs/a-place-for-sunday.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "a-place-for-the-living",
+      "source": "stories/a-place-for-the-living/05-story.md",
+      "specification": "pages/character-specs/a-place-for-the-living.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "a-reasonable-declaration",
+      "source": "stories/a-reasonable-declaration/story.md",
+      "specification": "pages/character-specs/a-reasonable-declaration.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "a-seat-for-the-sun",
+      "source": "stories/a-seat-for-the-sun/story.md",
+      "specification": "pages/character-specs/a-seat-for-the-sun.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "a-throne-neither-wanted",
+      "source": "stories/a-throne-neither-wanted/story.md",
+      "specification": "pages/character-specs/a-throne-neither-wanted.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "all-accounts-due",
+      "source": "stories/all-accounts-due/05-story.md",
+      "specification": "pages/character-specs/all-accounts-due.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "an-ordinary-education",
+      "source": "stories/an-ordinary-education/story.md",
+      "specification": "pages/character-specs/an-ordinary-education.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "anatomy-of-a-god",
+      "source": "stories/anatomy-of-a-god/story.md",
+      "specification": "pages/character-specs/anatomy-of-a-god.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "apes-in-orbit",
+      "source": "stories/apes-in-orbit/story.md",
+      "specification": "pages/character-specs/apes-in-orbit.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "before-lunch",
+      "source": "stories/before-lunch/story.md",
+      "specification": "pages/character-specs/before-lunch.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "before-she-gets-tired",
+      "source": "stories/before-she-gets-tired/story.md",
+      "specification": "pages/character-specs/before-she-gets-tired.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "between-the-colors",
+      "source": "stories/between-the-colors/story.md",
+      "specification": "pages/character-specs/between-the-colors.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "blade-calls-your-name",
+      "source": "stories/blade-calls-your-name/story.md",
+      "specification": "pages/character-specs/blade-calls-your-name.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "blood-types-of-immortality",
+      "source": "stories/blood-types-of-immortality/story.md",
+      "specification": "pages/character-specs/blood-types-of-immortality.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "by-tooth-and-threshold",
+      "source": "stories/by-tooth-and-threshold/story.md",
+      "specification": "pages/character-specs/by-tooth-and-threshold.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "captive-couples",
+      "source": "stories/captive-couples/story.md",
+      "specification": "pages/character-specs/captive-couples.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "clerics-infernal-ex",
+      "source": "stories/clerics-infernal-ex/story.md",
+      "specification": "pages/character-specs/clerics-infernal-ex.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "coiled-together",
+      "source": "stories/coiled-together/story.md",
+      "specification": "pages/character-specs/coiled-together.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "daughter-of-the-sun",
+      "source": "stories/daughter-of-the-sun/05-story.md",
+      "specification": "pages/character-specs/daughter-of-the-sun.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "deaths-patron",
+      "source": "stories/deaths-patron/story.md",
+      "specification": "pages/character-specs/deaths-patron.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "deja-vu-too-late",
+      "source": "stories/deja-vu-too-late/story.md",
+      "specification": "pages/character-specs/deja-vu-too-late.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "drone-down",
+      "source": "stories/drone-down/story.md",
+      "specification": "pages/character-specs/drone-down.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "empire-within",
+      "source": "stories/empire-within/story.md",
+      "specification": "pages/character-specs/empire-within.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "every-flower-she-knew",
+      "source": "stories/every-flower-she-knew/story.md",
+      "specification": "pages/character-specs/every-flower-she-knew.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "everyone-knows-her",
+      "source": "stories/everyone-knows-her/story.md",
+      "specification": "pages/character-specs/everyone-knows-her.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "fifty-seven-minutes",
+      "source": "stories/fifty-seven-minutes/story.md",
+      "specification": "pages/character-specs/fifty-seven-minutes.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "four-crowns-in-hiding",
+      "source": "stories/four-crowns-in-hiding/story.md",
+      "specification": "pages/character-specs/four-crowns-in-hiding.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "four-million-falling",
+      "source": "stories/four-million-falling/05-story.md",
+      "specification": "pages/character-specs/four-million-falling.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "fourth-house",
+      "source": "stories/fourth-house/story.md",
+      "specification": "pages/character-specs/fourth-house.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "friends-of-the-night",
+      "source": "stories/friends-of-the-night/story.md",
+      "specification": "pages/character-specs/friends-of-the-night.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "gods-afraid-of-grandma",
+      "source": "stories/gods-afraid-of-grandma/story.md",
+      "specification": "pages/character-specs/gods-afraid-of-grandma.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "golden-lion",
+      "source": "stories/golden-lion/story.md",
+      "specification": "pages/character-specs/golden-lion.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "head-priests-in-love",
+      "source": "stories/head-priests-in-love/story.md",
+      "specification": "pages/character-specs/head-priests-in-love.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "his-infernal-majesty-says-no",
+      "source": "stories/his-infernal-majesty-says-no/story.md",
+      "specification": "pages/character-specs/his-infernal-majesty-says-no.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "i-really-need-a-sidekick",
+      "source": "stories/i-really-need-a-sidekick/story.md",
+      "specification": "pages/character-specs/i-really-need-a-sidekick.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "kite-letters-below",
+      "source": "stories/kite-letters-below/story.md",
+      "specification": "pages/character-specs/kite-letters-below.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "last-watcher-of-jupiter",
+      "source": "stories/last-watcher-of-jupiter/story.md",
+      "specification": "pages/character-specs/last-watcher-of-jupiter.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "late-for-dinner",
+      "source": "stories/late-for-dinner/story.md",
+      "specification": "pages/character-specs/late-for-dinner.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "laughing-clouds",
+      "source": "stories/laughing-clouds/story.md",
+      "specification": "pages/character-specs/laughing-clouds.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "leave-the-names",
+      "source": "stories/leave-the-names/story.md",
+      "specification": "pages/character-specs/leave-the-names.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "life-with-a-girlfriend-with-shrinking-powers",
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md",
+      "specification": "pages/character-specs/life-with-a-girlfriend-with-shrinking-powers.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "lightning-carries-one",
+      "source": "stories/lightning-carries-one/story.md",
+      "specification": "pages/character-specs/lightning-carries-one.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "mother-of-monsters",
+      "source": "stories/mother-of-monsters/story.md",
+      "specification": "pages/character-specs/mother-of-monsters.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "never-a-mascot",
+      "source": "stories/never-a-mascot/story.md",
+      "specification": "pages/character-specs/never-a-mascot.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "no-need-to-worry",
+      "source": "stories/no-need-to-worry/story.md",
+      "specification": "pages/character-specs/no-need-to-worry.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "no-one-like-me",
+      "source": "stories/no-one-like-me/story.md",
+      "specification": "pages/character-specs/no-one-like-me.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "not-about-that",
+      "source": "stories/not-about-that/story.md",
+      "specification": "pages/character-specs/not-about-that.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "only-eighteen",
+      "source": "stories/only-eighteen/story.md",
+      "specification": "pages/character-specs/only-eighteen.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "pool-sovereign",
+      "source": "stories/pool-sovereign/story.md",
+      "specification": "pages/character-specs/pool-sovereign.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "postcard-garden",
+      "source": "stories/postcard-garden/story.md",
+      "specification": "pages/character-specs/postcard-garden.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "realms",
+      "source": "stories/realms/05-story.md",
+      "specification": "pages/character-specs/realms.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "roads-under-impossible-stars",
+      "source": "stories/roads-under-impossible-stars/story.md",
+      "specification": "pages/character-specs/roads-under-impossible-stars.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "rooms-before-sunrise",
+      "source": "stories/rooms-before-sunrise/story.md",
+      "specification": "pages/character-specs/rooms-before-sunrise.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "saint-and-demon",
+      "source": "stories/saint-and-demon/story.md",
+      "specification": "pages/character-specs/saint-and-demon.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "sakura-hearted",
+      "source": "stories/sakura-hearted/story.md",
+      "specification": "pages/character-specs/sakura-hearted.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "save-that-dragon",
+      "source": "stories/save-that-dragon/story.md",
+      "specification": "pages/character-specs/save-that-dragon.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "self-reflection",
+      "source": "stories/self-reflection/05-story.md",
+      "specification": "pages/character-specs/self-reflection.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "seraph-infinite-gear",
+      "source": "stories/seraph-infinite-gear/story.md",
+      "specification": "pages/character-specs/seraph-infinite-gear.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "she-literally-has-wings",
+      "source": "stories/she-literally-has-wings/story.md",
+      "specification": "pages/character-specs/she-literally-has-wings.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "solstice-evening-bell",
+      "source": "stories/solstice-evening-bell/05-story.md",
+      "specification": "pages/character-specs/solstice-evening-bell.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "stay-out-of-my-city",
+      "source": "stories/stay-out-of-my-city/story.md",
+      "specification": "pages/character-specs/stay-out-of-my-city.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "still-taking-runaways",
+      "source": "stories/still-taking-runaways/story.md",
+      "specification": "pages/character-specs/still-taking-runaways.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "storm-warning",
+      "source": "stories/storm-warning/story.md",
+      "specification": "pages/character-specs/storm-warning.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "strength-of-ten",
+      "source": "stories/strength-of-ten/05-story.md",
+      "specification": "pages/character-specs/strength-of-ten.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "tea-for-the-first-guest",
+      "source": "stories/tea-for-the-first-guest/story.md",
+      "specification": "pages/character-specs/tea-for-the-first-guest.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "tenth-world-lesson",
+      "source": "stories/tenth-world-lesson/05-story.md",
+      "specification": "pages/character-specs/tenth-world-lesson.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "terms-at-four",
+      "source": "stories/terms-at-four/story.md",
+      "specification": "pages/character-specs/terms-at-four.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-astral-valkyrie",
+      "source": "stories/the-astral-valkyrie/story.md",
+      "specification": "pages/character-specs/the-astral-valkyrie.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-attendance-ledger",
+      "source": "stories/the-attendance-ledger/05-story.md",
+      "specification": "pages/character-specs/the-attendance-ledger.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-bat-at-the-door",
+      "source": "stories/the-bat-at-the-door/story.md",
+      "specification": "pages/character-specs/the-bat-at-the-door.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-body-called-one",
+      "source": "stories/the-body-called-one/story.md",
+      "specification": "pages/character-specs/the-body-called-one.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-bride-who-came-back",
+      "source": "stories/the-bride-who-came-back/story.md",
+      "specification": "pages/character-specs/the-bride-who-came-back.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-cat-who-had-enough",
+      "source": "stories/the-cat-who-had-enough/story.md",
+      "specification": "pages/character-specs/the-cat-who-had-enough.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-cat-who-kept-the-door",
+      "source": "stories/the-cat-who-kept-the-door/story.md",
+      "specification": "pages/character-specs/the-cat-who-kept-the-door.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-chair-at-the-back",
+      "source": "stories/the-chair-at-the-back/story.md",
+      "specification": "pages/character-specs/the-chair-at-the-back.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-city-of-eleven-foundations",
+      "source": "stories/the-city-of-eleven-foundations/05-story.md",
+      "specification": "pages/character-specs/the-city-of-eleven-foundations.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-color-that-comes-home",
+      "source": "stories/the-color-that-comes-home/story.md",
+      "specification": "pages/character-specs/the-color-that-comes-home.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-count-was-131072",
+      "source": "stories/the-count-was-131072/story.md",
+      "specification": "pages/character-specs/the-count-was-131072.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-courtesy-of-blades",
+      "source": "stories/the-courtesy-of-blades/05-story.md",
+      "specification": "pages/character-specs/the-courtesy-of-blades.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-credit-book",
+      "source": "stories/the-credit-book/story.md",
+      "specification": "pages/character-specs/the-credit-book.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-door-in-the-ivy",
+      "source": "stories/the-door-in-the-ivy/story.md",
+      "specification": "pages/character-specs/the-door-in-the-ivy.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-door-knows-home",
+      "source": "stories/the-door-knows-home/story.md",
+      "specification": "pages/character-specs/the-door-knows-home.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-dress-they-brought-her",
+      "source": "stories/the-dress-they-brought-her/story.md",
+      "specification": "pages/character-specs/the-dress-they-brought-her.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-driver-the-city-could-not-see",
+      "source": "stories/the-driver-the-city-could-not-see/story.md",
+      "specification": "pages/character-specs/the-driver-the-city-could-not-see.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-emerald-relic",
+      "source": "stories/the-emerald-relic/story.md",
+      "specification": "pages/character-specs/the-emerald-relic.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-first-kingdom-was-late-on-taxes",
+      "source": "stories/the-first-kingdom-was-late-on-taxes/story.md",
+      "specification": "pages/character-specs/the-first-kingdom-was-late-on-taxes.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-first-people",
+      "source": "stories/the-first-people/story.md",
+      "specification": "pages/character-specs/the-first-people.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-first-winter",
+      "source": "stories/the-first-winter/story.md",
+      "specification": "pages/character-specs/the-first-winter.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-first-wound",
+      "source": "stories/the-first-wound/story.md",
+      "specification": "pages/character-specs/the-first-wound.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-five-minute-warranty",
+      "source": "stories/the-five-minute-warranty/05-story.md",
+      "specification": "pages/character-specs/the-five-minute-warranty.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-foundations-remember",
+      "source": "stories/the-foundations-remember/story.md",
+      "specification": "pages/character-specs/the-foundations-remember.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-friends-i-built",
+      "source": "stories/the-friends-i-built/05-story.md",
+      "specification": "pages/character-specs/the-friends-i-built.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-future-that-refused-us",
+      "source": "stories/the-future-that-refused-us/05-story.md",
+      "specification": "pages/character-specs/the-future-that-refused-us.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-gentlest-terror",
+      "source": "stories/the-gentlest-terror/05-story.md",
+      "specification": "pages/character-specs/the-gentlest-terror.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-gutter-school",
+      "source": "stories/the-gutter-school/story.md",
+      "specification": "pages/character-specs/the-gutter-school.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-healers-measure",
+      "source": "stories/the-healers-measure/story.md",
+      "specification": "pages/character-specs/the-healers-measure.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-help-network",
+      "source": "stories/the-help-network/story.md",
+      "specification": "pages/character-specs/the-help-network.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-hoarders-house",
+      "source": "stories/the-hoarders-house/story.md",
+      "specification": "pages/character-specs/the-hoarders-house.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-hollow-cask",
+      "source": "stories/the-hollow-cask/05-story.md",
+      "specification": "pages/character-specs/the-hollow-cask.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-house-beneath-the-horns",
+      "source": "stories/the-house-beneath-the-horns/story.md",
+      "specification": "pages/character-specs/the-house-beneath-the-horns.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-inheritance-remembers",
+      "source": "stories/the-inheritance-remembers/story.md",
+      "specification": "pages/character-specs/the-inheritance-remembers.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-kill-she-wouldnt-take",
+      "source": "stories/the-kill-she-wouldnt-take/story.md",
+      "specification": "pages/character-specs/the-kill-she-wouldnt-take.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-kingdom-of-later",
+      "source": "stories/the-kingdom-of-later/story.md",
+      "specification": "pages/character-specs/the-kingdom-of-later.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-kingdom-was-the-easy-part",
+      "source": "stories/the-kingdom-was-the-easy-part/story.md",
+      "specification": "pages/character-specs/the-kingdom-was-the-easy-part.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-last-bus-to-briar-hill",
+      "source": "stories/the-last-bus-to-briar-hill/05-story.md",
+      "specification": "pages/character-specs/the-last-bus-to-briar-hill.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-last-flames",
+      "source": "stories/the-last-flames/story.md",
+      "specification": "pages/character-specs/the-last-flames.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-last-monster",
+      "source": "stories/the-last-monster/05-story.md",
+      "specification": "pages/character-specs/the-last-monster.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-last-thing-i-could-fix",
+      "source": "stories/the-last-thing-i-could-fix/05-story.md",
+      "specification": "pages/character-specs/the-last-thing-i-could-fix.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-lights-beyond",
+      "source": "stories/the-lights-beyond/story.md",
+      "specification": "pages/character-specs/the-lights-beyond.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-lions-last-constellation",
+      "source": "stories/the-lions-last-constellation/story.md",
+      "specification": "pages/character-specs/the-lions-last-constellation.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-mercy-circuit",
+      "source": "stories/the-mercy-circuit/story.md",
+      "specification": "pages/character-specs/the-mercy-circuit.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-morning-her-hand-moved",
+      "source": "stories/the-morning-her-hand-moved/story.md",
+      "specification": "pages/character-specs/the-morning-her-hand-moved.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-name-i-kept",
+      "source": "stories/the-name-i-kept/story.md",
+      "specification": "pages/character-specs/the-name-i-kept.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-name-the-water-took",
+      "source": "stories/the-name-the-water-took/story.md",
+      "specification": "pages/character-specs/the-name-the-water-took.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-names-on-the-cups",
+      "source": "stories/the-names-on-the-cups/05-story.md",
+      "specification": "pages/character-specs/the-names-on-the-cups.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-next-train",
+      "source": "stories/the-next-train/story.md",
+      "specification": "pages/character-specs/the-next-train.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-night-harvest",
+      "source": "stories/the-night-harvest/story.md",
+      "specification": "pages/character-specs/the-night-harvest.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-night-she-knew",
+      "source": "stories/the-night-she-knew/story.md",
+      "specification": "pages/character-specs/the-night-she-knew.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-ninety-year-barrier",
+      "source": "stories/the-ninety-year-barrier/story.md",
+      "specification": "pages/character-specs/the-ninety-year-barrier.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-old-percentage",
+      "source": "stories/the-old-percentage/story.md",
+      "specification": "pages/character-specs/the-old-percentage.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-one-who-gets-tired",
+      "source": "stories/the-one-who-gets-tired/story.md",
+      "specification": "pages/character-specs/the-one-who-gets-tired.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-ordinary-slime",
+      "source": "stories/the-ordinary-slime/story.md",
+      "specification": "pages/character-specs/the-ordinary-slime.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-other-twin",
+      "source": "stories/the-other-twin/story.md",
+      "specification": "pages/character-specs/the-other-twin.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-peace-they-could-sleep-through",
+      "source": "stories/the-peace-they-could-sleep-through/05-story.md",
+      "specification": "pages/character-specs/the-peace-they-could-sleep-through.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-place-we-keep",
+      "source": "stories/the-place-we-keep/story.md",
+      "specification": "pages/character-specs/the-place-we-keep.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-players-above",
+      "source": "stories/the-players-above/story.md",
+      "specification": "pages/character-specs/the-players-above.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-red-dot",
+      "source": "stories/the-red-dot/story.md",
+      "specification": "pages/character-specs/the-red-dot.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-ring-between-lives",
+      "source": "stories/the-ring-between-lives/story.md",
+      "specification": "pages/character-specs/the-ring-between-lives.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-room-that-waited",
+      "source": "stories/the-room-that-waited/story.md",
+      "specification": "pages/character-specs/the-room-that-waited.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-rule-between-courses",
+      "source": "stories/the-rule-between-courses/story.md",
+      "specification": "pages/character-specs/the-rule-between-courses.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-second-wearing",
+      "source": "stories/the-second-wearing/story.md",
+      "specification": "pages/character-specs/the-second-wearing.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-seventh-night",
+      "source": "stories/the-seventh-night/story.md",
+      "specification": "pages/character-specs/the-seventh-night.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-shadow-that-nested",
+      "source": "stories/the-shadow-that-nested/story.md",
+      "specification": "pages/character-specs/the-shadow-that-nested.json",
+      "inventoryBatch": 0
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "source": "stories/the-shape-of-mercy/05-story.md",
+      "specification": "pages/character-specs/the-shape-of-mercy.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-sister-behind-her-smile",
+      "source": "stories/the-sister-behind-her-smile/story.md",
+      "specification": "pages/character-specs/the-sister-behind-her-smile.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-sky-remembers-us-return",
+      "source": "stories/the-sky-remembers-us-return/story.md",
+      "specification": "pages/character-specs/the-sky-remembers-us-return.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-small-moon-rose-first",
+      "source": "stories/the-small-moon-rose-first/05-story.md",
+      "specification": "pages/character-specs/the-small-moon-rose-first.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-spiders-hunger",
+      "source": "stories/the-spiders-hunger/story.md",
+      "specification": "pages/character-specs/the-spiders-hunger.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-star-that-followed-the-bells",
+      "source": "stories/the-star-that-followed-the-bells/story.md",
+      "specification": "pages/character-specs/the-star-that-followed-the-bells.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-station-between",
+      "source": "stories/the-station-between/05-story.md",
+      "specification": "pages/character-specs/the-station-between.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-ten-thousand-year-queen",
+      "source": "stories/the-ten-thousand-year-queen/story.md",
+      "specification": "pages/character-specs/the-ten-thousand-year-queen.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-thirteenth-command",
+      "source": "stories/the-thirteenth-command/05-story.md",
+      "specification": "pages/character-specs/the-thirteenth-command.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-thousandth-fall",
+      "source": "stories/the-thousandth-fall/story.md",
+      "specification": "pages/character-specs/the-thousandth-fall.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-thread-that-held",
+      "source": "stories/the-thread-that-held/story.md",
+      "specification": "pages/character-specs/the-thread-that-held.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-trouble-with-tuesdays",
+      "source": "stories/the-trouble-with-tuesdays/05-story.md",
+      "specification": "pages/character-specs/the-trouble-with-tuesdays.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-unfinished-sunset",
+      "source": "stories/the-unfinished-sunset/story.md",
+      "specification": "pages/character-specs/the-unfinished-sunset.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-unfixed-face",
+      "source": "stories/the-unfixed-face/story.md",
+      "specification": "pages/character-specs/the-unfixed-face.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-unfixed-song",
+      "source": "stories/the-unfixed-song/story.md",
+      "specification": "pages/character-specs/the-unfixed-song.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-unoffered-hand",
+      "source": "stories/the-unoffered-hand/story.md",
+      "specification": "pages/character-specs/the-unoffered-hand.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-unopened-ring",
+      "source": "stories/the-unopened-ring/story.md",
+      "specification": "pages/character-specs/the-unopened-ring.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-upward-rain",
+      "source": "stories/the-upward-rain/story.md",
+      "specification": "pages/character-specs/the-upward-rain.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-vacant-throne",
+      "source": "stories/the-vacant-throne/story.md",
+      "specification": "pages/character-specs/the-vacant-throne.json",
+      "inventoryBatch": 1
+    },
+    {
+      "slug": "the-villages-only-mage",
+      "source": "stories/the-villages-only-mage/story.md",
+      "specification": "pages/character-specs/the-villages-only-mage.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-walls-are-thick-enough",
+      "source": "stories/the-walls-are-thick-enough/story.md",
+      "specification": "pages/character-specs/the-walls-are-thick-enough.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-warmest-person-in-the-room",
+      "source": "stories/the-warmest-person-in-the-room/story.md",
+      "specification": "pages/character-specs/the-warmest-person-in-the-room.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "the-way-around",
+      "source": "stories/the-way-around/story.md",
+      "specification": "pages/character-specs/the-way-around.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-weight-of-falling-up-rune-shoes",
+      "source": "stories/the-weight-of-falling-up-rune-shoes/05-story.md",
+      "specification": "pages/character-specs/the-weight-of-falling-up-rune-shoes.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "the-weight-they-never-counted",
+      "source": "stories/the-weight-they-never-counted/story.md",
+      "specification": "pages/character-specs/the-weight-they-never-counted.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "the-wolf-in-the-mirror",
+      "source": "stories/the-wolf-in-the-mirror/story.md",
+      "specification": "pages/character-specs/the-wolf-in-the-mirror.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "the-wrong-side-of-the-part",
+      "source": "stories/the-wrong-side-of-the-part/05-story.md",
+      "specification": "pages/character-specs/the-wrong-side-of-the-part.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "there-goes-your-name",
+      "source": "stories/there-goes-your-name/story.md",
+      "specification": "pages/character-specs/there-goes-your-name.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "thirteen-years-borrowed",
+      "source": "stories/thirteen-years-borrowed/story.md",
+      "specification": "pages/character-specs/thirteen-years-borrowed.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "transitions-in-common",
+      "source": "stories/transitions-in-common/05-story.md",
+      "specification": "pages/character-specs/transitions-in-common.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "twelve-in-the-room",
+      "source": "stories/twelve-in-the-room/story.md",
+      "specification": "pages/character-specs/twelve-in-the-room.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "ultimate-evil-dog",
+      "source": "stories/ultimate-evil-dog/story.md",
+      "specification": "pages/character-specs/ultimate-evil-dog.json",
+      "inventoryBatch": 2
+    },
+    {
+      "slug": "undisclosed",
+      "source": "stories/undisclosed/story.md",
+      "specification": "pages/character-specs/undisclosed.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "voice-of-silence",
+      "source": "stories/voice-of-silence/05-story.md",
+      "specification": "pages/character-specs/voice-of-silence.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "what-i-hate-most",
+      "source": "stories/what-i-hate-most/05-story.md",
+      "specification": "pages/character-specs/what-i-hate-most.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "what-she-remembered-of-peace",
+      "source": "stories/what-she-remembered-of-peace/story.md",
+      "specification": "pages/character-specs/what-she-remembered-of-peace.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "what-the-gates-keep",
+      "source": "stories/what-the-gates-keep/story.md",
+      "specification": "pages/character-specs/what-the-gates-keep.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "what-the-town-owed-her",
+      "source": "stories/what-the-town-owed-her/story.md",
+      "specification": "pages/character-specs/what-the-town-owed-her.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "what-the-wind-wanted",
+      "source": "stories/what-the-wind-wanted/story.md",
+      "specification": "pages/character-specs/what-the-wind-wanted.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "what-turned-eighteen",
+      "source": "stories/what-turned-eighteen/story.md",
+      "specification": "pages/character-specs/what-turned-eighteen.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "when-the-eagle-bowed",
+      "source": "stories/when-the-eagle-bowed/story.md",
+      "specification": "pages/character-specs/when-the-eagle-bowed.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "when-the-needle-finds-you",
+      "source": "stories/when-the-needle-finds-you/story.md",
+      "specification": "pages/character-specs/when-the-needle-finds-you.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "where-it-hurts",
+      "source": "stories/where-it-hurts/story.md",
+      "specification": "pages/character-specs/where-it-hurts.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "where-no-unicorn-stands",
+      "source": "stories/where-no-unicorn-stands/story.md",
+      "specification": "pages/character-specs/where-no-unicorn-stands.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "where-sleep-takes-you",
+      "source": "stories/where-sleep-takes-you/story.md",
+      "specification": "pages/character-specs/where-sleep-takes-you.json",
+      "inventoryBatch": 3
+    },
+    {
+      "slug": "where-the-white-elk-went",
+      "source": "stories/where-the-white-elk-went/story.md",
+      "specification": "pages/character-specs/where-the-white-elk-went.json",
+      "inventoryBatch": 4
+    },
+    {
+      "slug": "witch-cold",
+      "source": "stories/witch-cold/story.md",
+      "specification": "pages/character-specs/witch-cold.json",
+      "inventoryBatch": 5
+    },
+    {
+      "slug": "yavrens-return",
+      "source": "stories/yavrens-return/story.md",
+      "specification": "pages/character-specs/yavrens-return.json",
+      "inventoryBatch": 5
+    }
+  ],
+  "checkpoint": {
+    "recordedAt": "2026-09-24T13:39:52.916107+00:00",
+    "storiesInventoried": 193,
+    "storiesAssessed": 172,
+    "mainCharactersIdentified": 669,
+    "sheetsCompleted": 649,
+    "reusedAssets": 0,
+    "documentedUnresolvedItems": [
+      {
+        "story": "head-priests-in-love",
+        "character": "farwake",
+        "status": "blocked",
+        "reasons": [
+          "No source-supported standalone character form. Current is seen through boat movement/dark tidal bands, not distinct stable morphology. Root direction forbids inventing body/water-ribbon anatomy or portraying audible command as visible text. Needs explicit art-design direction for a speculative avatar, or final-review acceptance of no sheet."
+        ]
+      },
+      {
+        "story": "the-next-train",
+        "character": "clotho",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-next-train",
+        "character": "lachesis",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-next-train",
+        "character": "atropos",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-ordinary-slime",
+        "character": "merevetch",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "the-place-we-keep",
+        "character": "selvi",
+        "status": "deferred",
+        "reasons": [
+          "Portrait-only candidate retained; full liquid-form character reference incomplete."
+        ]
+      },
+      {
+        "story": "the-place-we-keep",
+        "character": "ibby",
+        "status": "deferred",
+        "reasons": [
+          "Prepared prompt retained; image generation was not invoked."
+        ]
+      },
+      {
+        "story": "the-unopened-ring",
+        "character": "queen-vessarine",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-upward-rain",
+        "character": "anouk-verren",
+        "status": "deferred",
+        "reasons": [
+          "Third attempt was prepared but never invoked; recorded cancelled-before-call. Prior candidates require correction."
+        ]
+      },
+      {
+        "story": "the-weight-of-falling-up-rune-shoes",
+        "character": "juni-wex",
+        "status": "deferred",
+        "reasons": [
+          "Third attempt was prepared but never invoked; recorded cancelled-before-call. Prior candidates require correction."
+        ]
+      },
+      {
+        "story": "transitions-in-common",
+        "character": "cody",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "transitions-in-common",
+        "character": "hugo",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "what-she-remembered-of-peace",
+        "character": "olyne-orret",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "what-she-remembered-of-peace",
+        "character": "anvek",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "what-she-remembered-of-peace",
+        "character": "gess-miro",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "what-she-remembered-of-peace",
+        "character": "naro-tule",
+        "status": "deferred",
+        "reasons": [
+          "Deferred at user-requested wrap-up; see the character specification for saved attempts and pending work."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "elvask",
+        "status": "queued",
+        "reasons": [
+          "Returned candidate failed ivory-background/readable-heading checks; not selected."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "stavreth",
+        "status": "queued",
+        "reasons": [
+          "Returned candidate failed ivory-background/readable-heading checks; not selected."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "yelsa",
+        "status": "queued",
+        "reasons": [
+          "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "evloria",
+        "status": "queued",
+        "reasons": [
+          "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
+        ]
+      }
+    ],
+    "remainingStoryAssessments": [
+      "the-names-on-the-cups",
+      "the-one-who-gets-tired",
+      "the-red-dot",
+      "the-ring-between-lives",
+      "the-shadow-that-nested",
+      "the-shape-of-mercy",
+      "the-station-between",
+      "the-ten-thousand-year-queen",
+      "the-unfinished-sunset",
+      "the-unoffered-hand",
+      "the-vacant-throne",
+      "the-villages-only-mage",
+      "the-warmest-person-in-the-room",
+      "the-wolf-in-the-mirror",
+      "there-goes-your-name",
+      "ultimate-evil-dog",
+      "voice-of-silence",
+      "what-turned-eighteen",
+      "when-the-needle-finds-you",
+      "where-the-white-elk-went",
+      "yavrens-return"
+    ],
+    "remainingCharacterSheets": [
+      "head-priests-in-love/farwake",
+      "the-next-train/clotho",
+      "the-next-train/lachesis",
+      "the-next-train/atropos",
+      "the-ordinary-slime/merevetch",
+      "the-place-we-keep/selvi",
+      "the-place-we-keep/ibby",
+      "the-unopened-ring/queen-vessarine",
+      "the-upward-rain/anouk-verren",
+      "the-weight-of-falling-up-rune-shoes/juni-wex",
+      "transitions-in-common/cody",
+      "transitions-in-common/hugo",
+      "what-she-remembered-of-peace/olyne-orret",
+      "what-she-remembered-of-peace/anvek",
+      "what-she-remembered-of-peace/gess-miro",
+      "what-she-remembered-of-peace/naro-tule",
+      "where-no-unicorn-stands/elvask",
+      "where-no-unicorn-stands/stavreth",
+      "where-no-unicorn-stands/yelsa",
+      "where-no-unicorn-stands/evloria"
+    ],
+    "resumeRule": "Generation stopped at user request. Remaining collection work is deferred; resume only after a new explicit user request. Reuse valid saved outputs and preserve attempt history.",
+    "exampleSheetsReady": 8,
+    "gallerySheetsStored": 649,
+    "status": "existing-sheets-delivered-production-stopped",
+    "pauseRequested": false,
+    "resumeAuthorization": null,
+    "knownCorrections": [
+      {
+        "story": "the-next-train",
+        "character": "clotho",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-next-train",
+        "character": "lachesis",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-next-train",
+        "character": "atropos",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "the-unopened-ring",
+        "character": "queen-vessarine",
+        "status": "deferred",
+        "reasons": [
+          "Facial rendering retains anime structure; deferred for house-style correction. No new generation authorized during wrap-up."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "elvask",
+        "status": "queued",
+        "reasons": [
+          "Returned candidate failed ivory-background/readable-heading checks; not selected."
+        ]
+      },
+      {
+        "story": "where-no-unicorn-stands",
+        "character": "stavreth",
+        "status": "queued",
+        "reasons": [
+          "Returned candidate failed ivory-background/readable-heading checks; not selected."
+        ]
+      }
+    ],
+    "galleryStoriesStored": 169,
+    "reviewedAwaitingCapture": [],
+    "storiesWithNoQualifyingCharacters": [
+      "the-city-of-eleven-foundations"
+    ],
+    "awaitingRootReviewOrCapture": [],
+    "countingNote": "Characters are per-story main-cast appearances. Every selected sheet has a saved-pixel review and current source/specification/reference/output pins. Root and parallel reviewers additionally cross-reviewed the final batches. Remaining production is deferred by user request.",
+    "collectionComplete": false,
+    "generationStopped": true
+  }
+}
