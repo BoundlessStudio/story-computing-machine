@@ -1,0 +1,1032 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-kingdom-of-later",
+  "title": "The Kingdom of Later",
+  "source": "stories/the-kingdom-of-later/story.md",
+  "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full source read through miller's boot fitting. Unnamed cobbler's choice drives story, living fairy controls postponement/cost, slater guides/limits repair, rope-maker's single pull and refusal shape repair, roof clerk administers obstruction. Five substantial agents included with art-only assigned names.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Rent collector",
+      "reason": "Brief opening debt notice/frame, not sustained individual action."
+    },
+    {
+      "name": "Miller",
+      "reason": "Brief closing customer encounter, supporting economic frame rather than main cast."
+    },
+    {
+      "name": "Crown/royal office",
+      "reason": "Institutional background, no individual sovereign agent depicted."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; no specific story/identity entry. Source canon:false remains local evidence; visual choices and assigned names establish no shared facts.",
+    "Living fairy supplies thread grip and protects each refusal; tin token/calendar/blue thread are tools rather than independent agents. Four clear wings and awl-length body are source facts.",
+    "No reference images supplied; inspected symbolic cover/materials and relevant Group of Seven oils. Names checked against NAMES, current specs and universe; no exact matches. Names assigned only under user's explicit missing-name authorization."
+  ],
+  "referenceInputs": [
+    {
+      "path": "stories/the-kingdom-of-later/title-image.jpg",
+      "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+      "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+      "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+      "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+      "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+      "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+      "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+      "notes": "Actual pixels inspected; no attic/floor transferred.",
+      "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+      "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+      "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+      "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+      "inspected": true
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "nerrel",
+      "name": "Nerrel",
+      "sourceIdentityId": "narrator-cobbler",
+      "role": "Commoner cobbler and first-person protagonist",
+      "selectionEvidence": [
+        {
+          "quote": "I drew the closing stitch tight.",
+          "line": 11,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "I withdraw the roof claim now",
+          "line": 197,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "my cobbler's hammer",
+          "line": 137,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "The slate in my left hand skated.",
+          "line": 265,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human, gender/appearance unspecified in first-person source.",
+        "lifeStage": "Adult working craftsperson, exact age unstated.",
+        "proportions": "Ordinary capable human; trembling after roof climb.",
+        "markings": "Temporary pale thread groove across wrist, forearm pain from slate, neither permanent asserted.",
+        "materials": "Leather/canvas apron, practical work clothes.",
+        "clothing": "Apron, coat, boots; details unspecified.",
+        "equipment": "Awl, cobbler hammer/knife, brown leather boots/sole hide, blue-threaded roof token before claim withdrawal.",
+        "scale": "Ordinary human; source awl is fairy scale reference.",
+        "movement": "Skilled sewing/leatherwork, cautious strained roof climb; no power of own.",
+        "distinctiveFeatures": "Mundane craft agency; source roof repair partial."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only woman32, medium tan-olive skin, broad square jaw, broad slightly crooked nose, thick straight eyebrows, narrow practical mouth, hazel eyes, short cropped wavy russet hair above neckline with no bun/pony/braid, sturdy lean build; deliberate distinct identity from style donor.",
+        "Slate grey shirt, dark brown waistcoat/coat, weathered brown leather apron over umber trousers and workboots. Awl tucked in apron loop; main holds one finished brown boot against hip; no roof scene."
+      ],
+      "states": [
+        {
+          "label": "Due now",
+          "description": "Worried but resolute expression."
+        },
+        {
+          "label": "Dry now",
+          "description": "Tired relief, still attentive."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-kingdom-of-later:nerrel",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-kingdom-of-later/title-image.jpg",
+          "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+          "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+          "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+          "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+          "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+          "notes": "Actual pixels inspected; no attic/floor transferred.",
+          "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+          "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+          "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+          "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-kingdom-of-later/art/characters/nerrel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:15:11.876125+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL folio on light WARM IVORY. Exact heading \"Nerrel\"; subtitle \"The Kingdom of Later\". Nerrel is an art-name for the first-person COBBLER; one identity only.\nAdult human WOMAN32 interpretation, medium olive skin, strong square cheekbones, dark hazel eyes, short wavy RUSSET hair tucked behind ears, sturdy lean craftworker build, normal adult proportions. Competent practical worker, no glamour. Slate-grey plain shirt under dark brown waistcoat/coat, worn brown LEATHER APRON, umber trousers, scuffed plain work boots. Awl tucked safely into apron tool loop. Main holds one finished brown leather boot against her hip, relaxed other arm. No weapons, regalia, magical personal powers or blue glowing eyes.\nLEFT full front-threequarter, CENTER slightly smaller rear view, RIGHT two spaced chest-up expressions \"Due now\" worried resolve and \"Dry now\" tired relief but still attentive. Keep all head/boots within margins and clear ivory gutters. No isolated hand/anatomy studies or object insets. No floor/contact paint, roof/shop/scenery, magic token scene, swatches, palette strip, other people.\nRendering: Primary first story interior and second attic OILS, third approved sculpted impasto reference for broad painted face only, NEVER its person/clothing/cape. Canadian Group of Seven broad CONNECTED opaque planes, long directional bristle masses, selective thick palette-knife ridges, quieter linked shadows. Paint skin with same large decisive masses as leather and cloth. Face NOT photographically smooth or small uniform mosaic chips; natural matte eyes and strong adult form.\nLIGHT: dim rainy shop under overcast sky, low-value slate-violet/umber shading, a few restrained cool window and dull warm reflected wood planes. Most face and grey shirt in shadow, no bright day/studio fill. Leather reads dark muted brown not shiny. Page itself stays LIGHT WARM IVORY. Exact text only name/story and two captions.",
+            "references": [
+              {
+                "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+                "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+                "inspected": true,
+                "role": "Inspected primary broad oil/dim rainy shop palette and leather/boot materials only"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+                "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+                "inspected": true,
+                "role": "Inspected dark directional oil and awl/hammer/leather materials only"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Inspected approved sculpted oil handling only, no female likeness/armor/scenery donation"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b237c7aa-ab54-4c74-877b-2b5dc89047ea.png",
+            "returnedSha256": "9290ca3639c5402c26ecf13272683103ea48fb4df4d4e460b93f36d54d38e2cf",
+            "completedAt": "2026-09-24T12:20:47.457215+00:00",
+            "review": [
+              "Body/cobbler clothes/boot and bold oil pass; source-unspecified identity too closely echoes style model (tied bun instead of short hair), exposure too sunny, visible foot ground strokes. Revise to distinct short-haired square face and dim rainy shadow, remove ground only."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:20:48.425073+00:00",
+            "status": "PASS",
+            "prompt": "Edit this exact Nerrel folio; preserve composition/body poses/cobbler clothes/boot/apron/awl/entire text. Refine identity to be distinct, plus dim light and remove ground:\nNERREL is an adult32 craftswoman with a broader SQUARE jaw, broad slightly crooked nose, thick straight eyebrows, narrower practical mouth and medium TAN-OLIVE skin; NOT the attractive model face of the earlier style reference. Short wavy RUSSET CROPPED HAIR ends ABOVE neckline with small tousled curls, ears partly visible, NO bun/pony/braid or gathered hair at back. Apply the SAME new distinctive face and short haircut consistently to main front/rear and BOTH busts. Retain hazel eyes and adult sturdy lean body. One recognizable person, not three portraits of different people.\nCurrent image is sunny. Make MOST skin/shirt/apron a joined DIM GREY-VIOLET/UMBER rainy-interior shadow, skin largely dark muted olive-brown, a few small cool window or muted warm reflection planes only. Leather dark brown, grey shirt dark slate, NO brightly orange/peach whole face or sunny rims. Physical broad opaque oil texture stays.\nRemove ALL small floor/contact paint patches below and between every boot, replacing with LIGHT IVORY page. Background stays light, no vignette. Keep exact name/story/captions and full silhouettes, no added props or isolated anatomy.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b237c7aa-ab54-4c74-877b-2b5dc89047ea.png",
+                "sha256": "9290ca3639c5402c26ecf13272683103ea48fb4df4d4e460b93f36d54d38e2cf",
+                "inspected": true,
+                "role": "Inspected Nerrel target; distinct face/cropped hair, dim rainy light and clean ivory correction"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+            "returnedSha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+            "completedAt": "2026-09-24T12:28:05.916994+00:00",
+            "review": [
+              "Saved pixels inspected at full sheet: readable exact Nerrel heading and story title; one consistent short-haired identity across front/rear and two expressions.",
+              "Distinct square-jawed broad-nosed cobbler face, cropped russet waves, slate shirt and leather apron preserve art interpretation without importing reference character costume or face.",
+              "Dim subdued slate/umber paint, broad connected facial planes, boot and ordinary awl suit source; ivory character-only sheet has no environment, floor patches, isolated hand studies or swatches."
+            ]
+          }
+        ],
+        "prompt": "Edit this exact Nerrel folio; preserve composition/body poses/cobbler clothes/boot/apron/awl/entire text. Refine identity to be distinct, plus dim light and remove ground:\nNERREL is an adult32 craftswoman with a broader SQUARE jaw, broad slightly crooked nose, thick straight eyebrows, narrower practical mouth and medium TAN-OLIVE skin; NOT the attractive model face of the earlier style reference. Short wavy RUSSET CROPPED HAIR ends ABOVE neckline with small tousled curls, ears partly visible, NO bun/pony/braid or gathered hair at back. Apply the SAME new distinctive face and short haircut consistently to main front/rear and BOTH busts. Retain hazel eyes and adult sturdy lean body. One recognizable person, not three portraits of different people.\nCurrent image is sunny. Make MOST skin/shirt/apron a joined DIM GREY-VIOLET/UMBER rainy-interior shadow, skin largely dark muted olive-brown, a few small cool window or muted warm reflection planes only. Leather dark brown, grey shirt dark slate, NO brightly orange/peach whole face or sunny rims. Physical broad opaque oil texture stays.\nRemove ALL small floor/contact paint patches below and between every boot, replacing with LIGHT IVORY page. Background stays light, no vignette. Keep exact name/story/captions and full silhouettes, no added props or isolated anatomy.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b237c7aa-ab54-4c74-877b-2b5dc89047ea.png",
+            "sha256": "9290ca3639c5402c26ecf13272683103ea48fb4df4d4e460b93f36d54d38e2cf",
+            "inspected": true,
+            "role": "Inspected Nerrel target; distinct face/cropped hair, dim rainy light and clean ivory correction"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:28:05.916994+00:00",
+        "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+        "outputSha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b237c7aa-ab54-4c74-877b-2b5dc89047ea.png",
+            "sha256": "9290ca3639c5402c26ecf13272683103ea48fb4df4d4e460b93f36d54d38e2cf",
+            "inspected": true,
+            "role": "Inspected Nerrel target; distinct face/cropped hair, dim rainy light and clean ivory correction"
+          }
+        ],
+        "evidence": [
+          "Saved pixels inspected at full sheet: readable exact Nerrel heading and story title; one consistent short-haired identity across front/rear and two expressions.",
+          "Distinct square-jawed broad-nosed cobbler face, cropped russet waves, slate shirt and leather apron preserve art interpretation without importing reference character costume or face.",
+          "Dim subdued slate/umber paint, broad connected facial planes, boot and ordinary awl suit source; ivory character-only sheet has no environment, floor patches, isolated hand studies or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "675a5dbef332c24656569eec8d8a718aa3fb79359afedd65f09d45248865852f"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Commoner cobbler and first-person protagonist",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused name assigned for art only, source narrator/roles stay unnamed; no source/canon changes."
+      },
+      "outputSha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5"
+    },
+    {
+      "id": "phelva",
+      "name": "Phelva",
+      "sourceIdentityId": "living-fairy",
+      "role": "Living fairy who enforces and releases the postponement working",
+      "selectionEvidence": [
+        {
+          "quote": "no taller than the length of my awl",
+          "line": 149,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "with four clear wings folded tight",
+          "line": 149,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Blue thread passed through loops at her belt",
+          "line": 149,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "She was the one holding my knife.",
+          "line": 149,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Miniature winged adult woman",
+      "storyAppearance": {
+        "anatomy": "Tiny living adult woman with exactly FOUR clear wings; no larger than awl length.",
+        "lifeStage": "Adult woman, no child proportions.",
+        "proportions": "Miniature ordinary feminine humanoid body with4wing appendages.",
+        "markings": "No specific skin/hair details.",
+        "materials": "Clear wings, rain-dark coat, belt loops with blue thread.",
+        "clothing": "Rain-dark coat and belt.",
+        "equipment": "Blue thread through belt loops; uses own living attention to grip/release, not self-agentic thread.",
+        "scale": "Height no taller than narrator awl length; art scale120mm maximum interpretation.",
+        "movement": "Stands on tin token, hovers,4wings fold or thrash in wind.",
+        "distinctiveFeatures": "Precisely four clear wings, living agency, no wand/crown/insect extra arms."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only small adult woman with warm ochre skin, narrow long face, dark brown eyes, straight black hair in a tight low bun, rounded ears.",
+        "Near-black rain-dark navy coat to knees, simple belt with visible loops threaded in thin blue cord, charcoal leggings/boots. Two large upper and2smaller lower clear dragonfly-like wings (shape interpretation), sober adult bureaucratic face; no glitter/fairy gown. Main enlarged views; plain awl as explicit scale cue."
+      ],
+      "states": [
+        {
+          "label": "Folded wings",
+          "description": "Still exact adult form."
+        },
+        {
+          "label": "Holding the thread",
+          "description": "Hovering4wings spread, restrained blue cord at belt."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-kingdom-of-later:phelva",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-kingdom-of-later/title-image.jpg",
+          "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+          "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+          "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+          "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+          "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+          "notes": "Actual pixels inspected; no attic/floor transferred.",
+          "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+          "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+          "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+          "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-kingdom-of-later/art/characters/phelva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:28:34.028353+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY reference sheet on LIGHT WARM IVORY. Exact large heading \"Phelva\", smaller subtitle \"The Kingdom of Later\". One living adult fairy identity, not a human sorceress. Phelva is an art-only name for the story's unnamed fairy.\nSource essentials: adult woman NO TALLER THAN AN ORDINARY COBBLER'S AWL; FOUR CLEAR WINGS; rain-dark coat with thin BLUE THREAD running through belt loops. The living fairy controls the thread through attention, no independent magic object. No crown/wand/glitter.\nArt identity: warm ochre skin, LONG NARROW angular face, dark brown eyes, straight BLACK hair in tight LOW BUN, rounded human-shaped ears, small slender adult proportions. Sober and dryly exact rather than cute child. Near-black rain-dark NAVY knee-length work coat, simple belt with visible loops and thin blue cord, charcoal leggings and tiny practical boots.\nLayout: large FRONT THREE-QUARTER whole figure on LEFT hovering with FOUR clearly separate transparent dragonfly-like wings visible (2 elongated upper wings +2 smaller lower wings, attached to upper back). Four wings total, two arms and two legs only. Next to this view place ONE plain wooden-handled cobbler awl, pointed tool overall same height as her body from head to boot, caption \"Awl-height\". This is a scale cue on ivory, no scene. CENTER smaller rear-threequarter whole figure with same four wings folded back, caption \"Folded wings\". RIGHT two well-separated bust expressions \"Holding the thread\" calm concentration and \"A refusal\" firm attentive look. Exact readable name, story, captions only.\nUse first reference Nerrel for SAME broad sculpted Group of Seven OIL rendering and dim values, NEVER Nerrel's face/hair/apron/body size. Second story interior supplies rainy dark slate/umber mood only. Third cover supplies ordinary wooden awl proportions only. Broad connected opaque paint masses shape faces, hair and clothing; selective thick bristle ridges, longer planes with quieter joined dark areas. Wings translucent restrained grey-blue pale ochre films, visible veins painted economically. Natural matte eyes, strong adult face structure. Skin mainly DIM brown/olive-violet shadow with few cool grey highlights; coat almost black, no sunny full-face illumination. Page stays light warm ivory.\nNo environments, walls, floor/contact paint patches, ground shadow, floating token/calendars, swatches, isolated hand studies, anatomy inset, extra identities or decorative framing. Every wing tip/head/boot fully inside generous margins. Preserve source scale and four-wing count.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+                "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+                "inspected": true,
+                "role": "Inspected accepted same-story Nerrel broad oil and dim lighting only, no likeness/clothes/scale transfer"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+                "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+                "inspected": true,
+                "role": "Inspected rainy dim interior oil values only, no scenery"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/title-image.jpg",
+                "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+                "inspected": true,
+                "role": "Inspected ordinary wooden awl material/proportions for scale cue only"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-151efa7f-34c9-4a4d-a67c-686ac9906fab.png",
+            "returnedSha256": "3ff00822ddd20324a7e1aee4a9c66af61b174150e16aff5edc9089a36843b190",
+            "completedAt": "2026-09-24T12:30:08.369588+00:00",
+            "review": [
+              "Four clear wings, coherent adult identity, blue thread, dim oil and ivory margins pass. The left whole body is taller than adjacent awl, defeating the requested source scale comparison; reduce main view body to awl height, preserve all other art."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:30:09.386756+00:00",
+            "status": "PASS",
+            "prompt": "Edit the attached Phelva reference sheet with ONE geometric scale correction only. Keep entire ivory sheet, exact lettering, both right expression portraits, central rear view, adult face, black bun, navy coat, blue thread, four wings, painted style and subdued lighting.\nThe LARGE LEFT fairy and adjacent upright AWL are a scale comparison. Source says she is no taller than a cobbler's awl. Currently her head-to-lowest-boot span is too tall compared with the awl. SHRINK the complete LEFT fairy (all body, clothing, wings and trailing thread together proportionally) so her HEAD-TO-LOWEST-BOOT span equals the awl's top-to-tip span. Place her head at the same horizontal level as TOP of wood handle and lowest boot at same level as steel TIP. The awl stays unchanged size/position; left fairy should be roughly 70 percent of current scale. Preserve four clear wings with ample ivory around tips. Do not change other views and text. No new art, no floor paint or shadows, no hand studies. This is one adult fairy shown in enlarged studies; she has normal adult proportions, just awl-height in reality.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-151efa7f-34c9-4a4d-a67c-686ac9906fab.png",
+                "sha256": "3ff00822ddd20324a7e1aee4a9c66af61b174150e16aff5edc9089a36843b190",
+                "inspected": true,
+                "role": "Inspected Phelva target: correct left whole-body/awl size comparison only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eba6a357-3ed3-4c2e-b207-afff861e8b24.png",
+            "returnedSha256": "4005fa6596d568802d92eb14bf05baa2c7a3d6dd8df5e5f5fa08ec1846d6e5eb",
+            "completedAt": "2026-09-24T12:31:49.769186+00:00",
+            "review": [
+              "Saved revised pixels inspected: main fairy now no taller than adjacent ordinary awl; enlarged rear/portrait studies remain clearly same adult identity.",
+              "Four distinct clear wings, black bun, rain-dark navy coat, blue belt-loop thread preserve explicit source features and art interpretation.",
+              "Sculpted oil face/forms remain dim and cohesive; readable exact name/story, clean ivory with no scene, floor, swatches or hand-study inset."
+            ]
+          }
+        ],
+        "prompt": "Edit the attached Phelva reference sheet with ONE geometric scale correction only. Keep entire ivory sheet, exact lettering, both right expression portraits, central rear view, adult face, black bun, navy coat, blue thread, four wings, painted style and subdued lighting.\nThe LARGE LEFT fairy and adjacent upright AWL are a scale comparison. Source says she is no taller than a cobbler's awl. Currently her head-to-lowest-boot span is too tall compared with the awl. SHRINK the complete LEFT fairy (all body, clothing, wings and trailing thread together proportionally) so her HEAD-TO-LOWEST-BOOT span equals the awl's top-to-tip span. Place her head at the same horizontal level as TOP of wood handle and lowest boot at same level as steel TIP. The awl stays unchanged size/position; left fairy should be roughly 70 percent of current scale. Preserve four clear wings with ample ivory around tips. Do not change other views and text. No new art, no floor paint or shadows, no hand studies. This is one adult fairy shown in enlarged studies; she has normal adult proportions, just awl-height in reality.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-151efa7f-34c9-4a4d-a67c-686ac9906fab.png",
+            "sha256": "3ff00822ddd20324a7e1aee4a9c66af61b174150e16aff5edc9089a36843b190",
+            "inspected": true,
+            "role": "Inspected Phelva target: correct left whole-body/awl size comparison only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:31:49.769186+00:00",
+        "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+        "outputSha256": "4005fa6596d568802d92eb14bf05baa2c7a3d6dd8df5e5f5fa08ec1846d6e5eb",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-151efa7f-34c9-4a4d-a67c-686ac9906fab.png",
+            "sha256": "3ff00822ddd20324a7e1aee4a9c66af61b174150e16aff5edc9089a36843b190",
+            "inspected": true,
+            "role": "Inspected Phelva target: correct left whole-body/awl size comparison only"
+          }
+        ],
+        "evidence": [
+          "Saved revised pixels inspected: main fairy now no taller than adjacent ordinary awl; enlarged rear/portrait studies remain clearly same adult identity.",
+          "Four distinct clear wings, black bun, rain-dark navy coat, blue belt-loop thread preserve explicit source features and art interpretation.",
+          "Sculpted oil face/forms remain dim and cohesive; readable exact name/story, clean ivory with no scene, floor, swatches or hand-study inset."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "53ea0ec133af8e3c86c3d0de9ee7a158d4247281f7573b245d50304d9ddf7318"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Living fairy who enforces and releases the postponement working",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused name assigned for art only, source narrator/roles stay unnamed; no source/canon changes."
+      },
+      "outputSha256": "4005fa6596d568802d92eb14bf05baa2c7a3d6dd8df5e5f5fa08ec1846d6e5eb"
+    },
+    {
+      "id": "dovrin",
+      "name": "Dovrin",
+      "sourceIdentityId": "slater",
+      "role": "Bounded practical slater who diagnoses and directs the patch",
+      "selectionEvidence": [
+        {
+          "quote": "Lime dust lived in the creases of his coat.",
+          "line": 71,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "One trouser knee was bound with cloth.",
+          "line": 71,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Didn't say I would.",
+          "line": 109,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "A roof sheds it.",
+          "line": 259,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man with bad swollen cloth-bound knee, side not specified.",
+        "lifeStage": "Experienced adult tradesman, exact age unstated.",
+        "proportions": "Normal human, limited to one climb, favoring injured leg.",
+        "markings": "Lime dust in coat folds, bound knee.",
+        "materials": "Wool/workcloth, slate, trowel, rope.",
+        "clothing": "Coat, trousers with knee cloth binding, boots needing heel repair.",
+        "equipment": "Trowel and narrow ladder rope; own ladder not required on sheet.",
+        "scale": "Adult human.",
+        "movement": "Stands on sound leg, points through ordinary practical gestures, can catch slate reflexively.",
+        "distinctiveFeatures": "No magically augmented strength, one knee injury limits help."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only man50, weathered light-brown skin, grey curling short hair, short scruffy beard, broad nose and patient deep-set hazel eyes, stocky build.",
+        "Dark clay-brown work coat with lime dust, muted ochre shirt, slate trousers, ragged offwhite cloth binding over LEFT knee chosen consistently, worn boots. Narrow rope coiled over shoulder, plain trowel lowered at side."
+      ],
+      "states": [
+        {
+          "label": "From the lane",
+          "description": "Measuring look, no climbing pose."
+        },
+        {
+          "label": "Enough pitch",
+          "description": "Firm practical advice."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-kingdom-of-later:dovrin",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-kingdom-of-later/title-image.jpg",
+          "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+          "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+          "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+          "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+          "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+          "notes": "Actual pixels inspected; no attic/floor transferred.",
+          "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+          "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+          "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+          "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-kingdom-of-later/art/characters/dovrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:31:50.788926+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY OIL sheet on light warm IVORY. Exact heading \"Dovrin\", subtitle \"The Kingdom of Later\". One named adult slater, no other identity. \nDovrin is art-name for source unnamed MALE slater. Man about50, weathered LIGHT-BROWN skin, short GREY curly hair and short scruffy grey beard, BROAD flattened nose, deep-set patient hazel eyes, stocky barrel torso. Ordinary working man. Heavy DARK CLAY-BROWN work coat with lime dust caught in folds, muted ochre shirt, dark slate trousers, old leather boots needing heel repair. OFF-WHITE CLOTH BINDING over his LEFT KNEE (front view viewer's right, back view viewer's left). Favor the bound knee, weight mainly on sound leg; no heroic pose or climbing scene. Narrow ordinary rope coil over shoulder, one plain trowel held down at side. No armour/apron/swords/magic.\nLayout: LEFT whole front-threequarter figure, CENTER slightly smaller whole rear-threequarter view; generous ivory separation. RIGHT two clear busts \"From the lane\" measuring look and \"Enough pitch\" firm practical advice. Same face, beard, body/clothes all views, all head/boots intact within margins. Natural relaxed hands as part of figure only, NO detached hands/anatomy studies, palette or swatches.\nFirst accepted Nerrel sheet supplies broad painted rendering, layout and restrained shadows only; never its person/hair/clothes. Second slater-yard oil supplies rainy cool grey mood and lime/rope/coat material associations, no background. Third attic oil supplies dull umber/slate pitch/tool values. Group of Seven SCULPTED OPAQUE OIL, broad CONNECTED anatomical paint masses and directional strokes; paint the face as boldly as the coat, joined dark skin planes and small controlled highlights, matte eyes. Avoid photographic smoothness, tiny uniform mosaic chips and glossy lighting.\nLIGHT: rainy dim overcast lane, mostly slate-violet and muted umber shadow; beard grey subdued, no bright sunny full-face light. Page remains LIGHT WARM IVORY. No environment, ground or floor/contact paint patches, buildings, ladder, rain lines or inset objects. Exact heading/story/two captions only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+                "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+                "inspected": true,
+                "role": "Inspected accepted same-story broad oil/dim values and ivory layout only"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+                "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+                "inspected": true,
+                "role": "Inspected dim rainy oil palette/materials, no scenery transfer"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+                "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+                "inspected": true,
+                "role": "Inspected dull slate/umber rope/tool painterly values only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-1e11ef04-bcbd-4de9-9e8b-88e1c4d8f9ca.png",
+            "returnedSha256": "989cf61cb69c685bc806f5108cf65168d65542c21917c1c6238deb60c6cf1e33",
+            "completedAt": "2026-09-24T12:33:56.943850+00:00",
+            "review": [
+              "Saved pixels reviewed: consistent older stocky slater with grey curls/beard, lime-dust coat, trowel and shoulder rope; left knee binding correctly consistent in front/rear.",
+              "One named identity and ordinary restrained stance; source limitation survives with no heroic climb, magic or invented injury.",
+              "Readable heading/story/expressions, cohesive opaque oil face and cloth, restrained dark values on clean ivory without floor/contact patch or hand study."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY OIL sheet on light warm IVORY. Exact heading \"Dovrin\", subtitle \"The Kingdom of Later\". One named adult slater, no other identity. \nDovrin is art-name for source unnamed MALE slater. Man about50, weathered LIGHT-BROWN skin, short GREY curly hair and short scruffy grey beard, BROAD flattened nose, deep-set patient hazel eyes, stocky barrel torso. Ordinary working man. Heavy DARK CLAY-BROWN work coat with lime dust caught in folds, muted ochre shirt, dark slate trousers, old leather boots needing heel repair. OFF-WHITE CLOTH BINDING over his LEFT KNEE (front view viewer's right, back view viewer's left). Favor the bound knee, weight mainly on sound leg; no heroic pose or climbing scene. Narrow ordinary rope coil over shoulder, one plain trowel held down at side. No armour/apron/swords/magic.\nLayout: LEFT whole front-threequarter figure, CENTER slightly smaller whole rear-threequarter view; generous ivory separation. RIGHT two clear busts \"From the lane\" measuring look and \"Enough pitch\" firm practical advice. Same face, beard, body/clothes all views, all head/boots intact within margins. Natural relaxed hands as part of figure only, NO detached hands/anatomy studies, palette or swatches.\nFirst accepted Nerrel sheet supplies broad painted rendering, layout and restrained shadows only; never its person/hair/clothes. Second slater-yard oil supplies rainy cool grey mood and lime/rope/coat material associations, no background. Third attic oil supplies dull umber/slate pitch/tool values. Group of Seven SCULPTED OPAQUE OIL, broad CONNECTED anatomical paint masses and directional strokes; paint the face as boldly as the coat, joined dark skin planes and small controlled highlights, matte eyes. Avoid photographic smoothness, tiny uniform mosaic chips and glossy lighting.\nLIGHT: rainy dim overcast lane, mostly slate-violet and muted umber shadow; beard grey subdued, no bright sunny full-face light. Page remains LIGHT WARM IVORY. No environment, ground or floor/contact paint patches, buildings, ladder, rain lines or inset objects. Exact heading/story/two captions only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+            "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+            "inspected": true,
+            "role": "Inspected accepted same-story broad oil/dim values and ivory layout only"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+            "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+            "inspected": true,
+            "role": "Inspected dim rainy oil palette/materials, no scenery transfer"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+            "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+            "inspected": true,
+            "role": "Inspected dull slate/umber rope/tool painterly values only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:33:56.943850+00:00",
+        "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+        "outputSha256": "989cf61cb69c685bc806f5108cf65168d65542c21917c1c6238deb60c6cf1e33",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+            "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+            "inspected": true,
+            "role": "Inspected accepted same-story broad oil/dim values and ivory layout only"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+            "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+            "inspected": true,
+            "role": "Inspected dim rainy oil palette/materials, no scenery transfer"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+            "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+            "inspected": true,
+            "role": "Inspected dull slate/umber rope/tool painterly values only"
+          }
+        ],
+        "evidence": [
+          "Saved pixels reviewed: consistent older stocky slater with grey curls/beard, lime-dust coat, trowel and shoulder rope; left knee binding correctly consistent in front/rear.",
+          "One named identity and ordinary restrained stance; source limitation survives with no heroic climb, magic or invented injury.",
+          "Readable heading/story/expressions, cohesive opaque oil face and cloth, restrained dark values on clean ivory without floor/contact patch or hand study."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "a4d3c28bb2d57713f2032b8519c11b7ed47a9004b3778bb2172670aea4f32eb6"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Bounded practical slater who diagnoses and directs the patch",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused name assigned for art only, source narrator/roles stay unnamed; no source/canon changes."
+      },
+      "outputSha256": "989cf61cb69c685bc806f5108cf65168d65542c21917c1c6238deb60c6cf1e33"
+    },
+    {
+      "id": "yessil",
+      "name": "Yessil",
+      "sourceIdentityId": "rope-maker",
+      "role": "Rope-maker who sells ready rope and offers one bounded pull",
+      "selectionEvidence": [
+        {
+          "quote": "The skin along her thumbs had split and been wrapped in linen.",
+          "line": 121,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "One pull now",
+          "line": 131,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "That's my pull.",
+          "line": 235,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, sore split thumb skin wrapped in linen.",
+        "lifeStage": "Working adult, exact age unstated.",
+        "proportions": "Ordinary craftworker; no impairment invented beyond sore hands.",
+        "markings": "Linen-wrapped thumbs, no graphic skin required.",
+        "materials": "Tarred hemp rope, linen wraps, cloth/wool coat.",
+        "clothing": "Coat buttoned over bandaged hands in lane.",
+        "equipment": "Short finished tarred rope coil.",
+        "scale": "Adult human.",
+        "movement": "Careful grips, one pull then stops; clear refusal.",
+        "distinctiveFeatures": "No new powers, not compelled to rescue/climb."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only womanmid40s, deep brown skin, round strong face, dark eyes, dark hair with grey wisps in bun, broad sturdy build.",
+        "Dark muted plum-brown buttoned wool coat, charcoal practical trousers and dark boots, linen wraps at thumbs partly under cuffs, small tarred hemp coil carried over forearm; no detached hand details."
+      ],
+      "states": [
+        {
+          "label": "One pull",
+          "description": "Calm matter-of-fact boundaries."
+        },
+        {
+          "label": "Finished for today",
+          "description": "Tired resolved expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-kingdom-of-later:yessil",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-kingdom-of-later/title-image.jpg",
+          "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+          "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+          "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+          "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+          "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+          "notes": "Actual pixels inspected; no attic/floor transferred.",
+          "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+          "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+          "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+          "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-kingdom-of-later/art/characters/yessil.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:33:58.011435+00:00",
+            "status": "REVISE",
+            "prompt": "ONE1536x1024 landscape CHARACTER-ONLY oil reference sheet, LIGHT WARM IVORY background. Exact large heading \"Yessil\", small subtitle \"The Kingdom of Later\".\nYessil is art-name for source adult WOMAN rope-maker. Distinct identity: woman mid40s, DEEP BROWN skin, broad ROUND face, wide nose, dark eyes under gentle heavy lids, thick dark hair with grey wisps in a compact bun. Broad sturdy build, normal middle-aged working person, practical rather than glamorous.\nDark muted PLUM-BROWN wool coat buttoned, charcoal trousers and dark plain boots. Source sore split thumb skin has clean LINEN WRAPS; show wraps naturally where her two ordinary hands emerge partly from coat cuffs, no injury closeups. Short finished tarred hemp rope coil rests over one forearm. Keep tools mundane. Source says she will give one pull, then stops; calm limits, not magical strength.\nLEFT full FRONT threequarter figure, CENTER full smaller REAR threequarter, RIGHT two separated busts caption \"One pull\" (calm matter-of-fact) and \"Finished for today\" (tired and resolved). One consistent face/body/costume throughout. Hands relaxed as part of figure only. No detached hand study or anatomy inset. All silhouettes/head/boots safely within margins.\nFirst reference accepted Dovrin for broad sculpted oil and dim values only, not his identity/rope-on-shoulder/clothes. Second accepted Nerrel same-story rendering only, not her face/hair/apron. Third rainy slater-yard oil supplies overcast slate/umber value range only. Group of Seven SCULPTED OPAQUE OIL, broad CONNECTED paint planes across face, throat and wool; economical directional bristle masses and selective thick knife ridges, quieter joined shadows, matte eyes. No photographic face or uniform tiny chips. Skin stays dark muted umber with sparse cool grey-violet bounce and modest warm reflected planes, no bright sunny/studio fill. Coat subdued dark plum. Page remains light warm ivory.\nNo floor/ground/contact paint, environments, scenery, buildings, scattered rope or props, swatches, extra people, decorative frame. Exact name/story/two captions only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-1e11ef04-bcbd-4de9-9e8b-88e1c4d8f9ca.png",
+                "sha256": "989cf61cb69c685bc806f5108cf65168d65542c21917c1c6238deb60c6cf1e33",
+                "inspected": true,
+                "role": "Inspected accepted Dovrin broad sculpted oil and muted rainy values only"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+                "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+                "inspected": true,
+                "role": "Inspected Nerrel same-story paint/facial planes only, no identity transfer"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+                "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+                "inspected": true,
+                "role": "Inspected dim rainy palette only, no scenery"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-42393a00-b59f-4493-8a39-90313dbbda6c.png",
+            "returnedSha256": "d4f52adcff6e4205a25de1de2de302b1fcf5f9d4119952b456f688d1032019eb",
+            "completedAt": "2026-09-24T12:36:07.030063+00:00",
+            "review": [
+              "Incorrectly borrowed Dovrin grey hair/long face/trowel and replaced light ivory with grey-brown vignette. Correct distinct deep-brown round-faced woman, dark bun, empty lowered hand and ivory background; retain wraps/rope and good oil layout."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:36:08.018633+00:00",
+            "status": "PASS",
+            "prompt": "Correct the attached Yessil character sheet. Keep landscape dimensions, four-view layout, exact entire text, rope coil over forearm, linen wraps, plum-brown buttoned coat and broad opaque oil treatment.\nMANDATORY fixes across EVERY view:\n1. BACKGROUND must be uniform LIGHT WARM IVORY oil paper with subtle texture. Completely replace the brown/grey smoky vignette and every cast shadow around figures with CLEAN LIGHT IVORY. No floor patches/ground shadows.\n2. Yessil must be a DISTINCT MIDDLE-AGED WOMAN, not the grey-haired male slater. Make face much ROUNDER/WIDER with plump round cheeks, broader gently rounded nose, dark eyes with gentle heavy lids, broad soft jaw, DEEP DARK BROWN skin. No moustache/beard/stubble. Hair MOSTLY BLACK with just a FEW GREY WISPS at temples, smoothly swept into a compact round BUN at rear, not short grey curls. Same new face/hair in front, back, both expressions. Still sturdy broad adult build and practical dignity, not beauty model.\n3. REMOVE TROWEL entirely from lowered hand. That hand is naturally empty, with linen wrap and relaxed fingers, no tool or weapon. Only prop is short tarred rope coil on other forearm. No lime-dust splatter on coat.\nFace and clothes remain DIM muted plum/umber/slate-violet forms against LIGHT ivory; no bright studio fill. Strong broad CONNECTED oil planes model rounded cheeks/nose, bold brushwork like wool. Keep name Yessil and all other captions exactly. No new images, isolated hand studies, scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-42393a00-b59f-4493-8a39-90313dbbda6c.png",
+                "sha256": "d4f52adcff6e4205a25de1de2de302b1fcf5f9d4119952b456f688d1032019eb",
+                "inspected": true,
+                "role": "Inspected failed Yessil: correct woman face/hair/skin and ivory, remove borrowed trowel"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b1f02b74-7b88-46c4-80f9-117d76758aa3.png",
+            "returnedSha256": "7864239d167cc135ea11495cb9b30fc97281cb62240ae78b56e511b5fd029faa",
+            "completedAt": "2026-09-24T12:38:53.301147+00:00",
+            "review": [
+              "Revised saved pixels inspected: round-faced brown-skinned adult woman with dark bun and grey wisps is distinct from slater, consistent across all views.",
+              "Rope-maker coat, forearm coil and linen wraps persist; borrowed trowel gone; ordinary restrained stance and two clear expressions.",
+              "Ivory restored, no environment/floor/swatches/hand-study inset; bold oil planes and subdued plum/umber values cohesive."
+            ]
+          }
+        ],
+        "prompt": "Correct the attached Yessil character sheet. Keep landscape dimensions, four-view layout, exact entire text, rope coil over forearm, linen wraps, plum-brown buttoned coat and broad opaque oil treatment.\nMANDATORY fixes across EVERY view:\n1. BACKGROUND must be uniform LIGHT WARM IVORY oil paper with subtle texture. Completely replace the brown/grey smoky vignette and every cast shadow around figures with CLEAN LIGHT IVORY. No floor patches/ground shadows.\n2. Yessil must be a DISTINCT MIDDLE-AGED WOMAN, not the grey-haired male slater. Make face much ROUNDER/WIDER with plump round cheeks, broader gently rounded nose, dark eyes with gentle heavy lids, broad soft jaw, DEEP DARK BROWN skin. No moustache/beard/stubble. Hair MOSTLY BLACK with just a FEW GREY WISPS at temples, smoothly swept into a compact round BUN at rear, not short grey curls. Same new face/hair in front, back, both expressions. Still sturdy broad adult build and practical dignity, not beauty model.\n3. REMOVE TROWEL entirely from lowered hand. That hand is naturally empty, with linen wrap and relaxed fingers, no tool or weapon. Only prop is short tarred rope coil on other forearm. No lime-dust splatter on coat.\nFace and clothes remain DIM muted plum/umber/slate-violet forms against LIGHT ivory; no bright studio fill. Strong broad CONNECTED oil planes model rounded cheeks/nose, bold brushwork like wool. Keep name Yessil and all other captions exactly. No new images, isolated hand studies, scenery or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-42393a00-b59f-4493-8a39-90313dbbda6c.png",
+            "sha256": "d4f52adcff6e4205a25de1de2de302b1fcf5f9d4119952b456f688d1032019eb",
+            "inspected": true,
+            "role": "Inspected failed Yessil: correct woman face/hair/skin and ivory, remove borrowed trowel"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:38:53.301147+00:00",
+        "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+        "outputSha256": "7864239d167cc135ea11495cb9b30fc97281cb62240ae78b56e511b5fd029faa",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-42393a00-b59f-4493-8a39-90313dbbda6c.png",
+            "sha256": "d4f52adcff6e4205a25de1de2de302b1fcf5f9d4119952b456f688d1032019eb",
+            "inspected": true,
+            "role": "Inspected failed Yessil: correct woman face/hair/skin and ivory, remove borrowed trowel"
+          }
+        ],
+        "evidence": [
+          "Revised saved pixels inspected: round-faced brown-skinned adult woman with dark bun and grey wisps is distinct from slater, consistent across all views.",
+          "Rope-maker coat, forearm coil and linen wraps persist; borrowed trowel gone; ordinary restrained stance and two clear expressions.",
+          "Ivory restored, no environment/floor/swatches/hand-study inset; bold oil planes and subdued plum/umber values cohesive."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "51687ac5d825390cbb1f7d9767b2becfcfd4cf999ee33f8ffaca9a369c8f1d31"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Rope-maker who sells ready rope and offers one bounded pull",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused name assigned for art only, source narrator/roles stay unnamed; no source/canon changes."
+      },
+      "outputSha256": "7864239d167cc135ea11495cb9b30fc97281cb62240ae78b56e511b5fd029faa"
+    },
+    {
+      "id": "bramset",
+      "name": "Bramset",
+      "sourceIdentityId": "roof-clerk",
+      "role": "Roof clerk administering the circular eligibility process",
+      "selectionEvidence": [
+        {
+          "quote": "The clerk sat behind a high counter with three calendars",
+          "line": 49,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "He turned the token with a quill.",
+          "line": 53,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "The thread looped once around the quill.",
+          "line": 59,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, no specific appearance.",
+        "lifeStage": "Adult clerk, age unspecified.",
+        "proportions": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Office clothes, quill, calendar/paper.",
+        "clothing": "Not specified; art interpretation mundane clerk dress.",
+        "equipment": "Quill, calendar; thin blue thread can constrain first useful gesture, no personal magic.",
+        "scale": "Adult human.",
+        "movement": "Patient procedural instruction, quill held still; no independent control of working.",
+        "distinctiveFeatures": "Not sorcerer or living calendar."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only manearly40, pale warm skin, receding sandy hair neatly combed back, narrow moustache, long pointed nose and narrow grey-blue eyes, thin build.",
+        "Muted olive-brown waistcoat over high collared cream shirt, charcoal coat/trousers and plain shoes; ordinary short quill and thin folded paper held, no floating book/calendar scenery."
+      ],
+      "states": [
+        {
+          "label": "Eligible",
+          "description": "Neutral procedural assurance."
+        },
+        {
+          "label": "After the next dawn",
+          "description": "Pressed patient expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-kingdom-of-later:bramset",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-kingdom-of-later/title-image.jpg",
+          "role": "Inspected symbolic tool/leather/tin/thread cover, no established faces",
+          "notes": "Source prose controls intact thin square tin token; cover split token not imposed.",
+          "sha256": "3aa25d3b7e7d7495921c74099ccce97f289e443e57f66029f6a8c9760c5e33f0",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+          "role": "Primary Group of Seven oil, dim rainy indoor light and leather/tool materials",
+          "notes": "Actual pixels inspected; no shop/floor/environment transferred.",
+          "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/interiors/02-the-attic-underlay.png",
+          "role": "Primary dark attic oil values, rope/pitch/slate/tool material only",
+          "notes": "Actual pixels inspected; no attic/floor transferred.",
+          "sha256": "9b213ef6292aaa5fbe409c908d1d606e953ad8aa22297f20bc25e74a7e213a9a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-kingdom-of-later/art/landscapes/03-mist-over-the-slater-yard.png",
+          "role": "Rainy slate-grey exterior light and broad directional oil masses only",
+          "notes": "Actual pixels inspected; no setting or location assumed authoritative.",
+          "sha256": "b2f98a13fbc4d99257f2c2f67e72808e8b91f123200c77201a97f232b935c231",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-kingdom-of-later/art/characters/bramset.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:38:54.376270+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL folio on uniform LIGHT WARM IVORY. Exact heading \"Bramset\"; subtitle \"The Kingdom of Later\". Bramset is art-name for the source's unnamed roof clerk, one adult MALE identity.\nSpecific new identity: thin man early40s, PALE WARM skin, LONG POINTED NOSE, narrow long chin, narrow grey-blue eyes, receding SANDY hair neatly combed back, tiny narrow sandy MOUSTACHE and no beard. Slight stoop, bony shoulders and lean build. Mundane office clerk, no craftworker features or tools.\nMuted OLIVE-BROWN WAISTCOAT over high-collared cream shirt, neat charcoal long coat and charcoal trousers, plain dull dark shoes. Main view holds ONE ordinary small feather QUILL and thin FOLDED PAPER at waist. No rope, apron, trowel, bandages, sword, magic, calendar face/body or floating objects.\nLEFT full front-threequarter, CENTER smaller full rear-threequarter; RIGHT two busts captioned \"Eligible\" (neutral procedural assurance) and \"After the next dawn\" (pressed patient look). All faces agree, adult proportions, every head and shoe in frame, generous ivory gutters. Ordinary hands are part of figure only. No isolated hand/anatomy study.\nUse first Nerrel reference for oil rendering/ivory layout only; not her identity/clothes. Second story interior for DIM RAINY overcast indoor palette only, no environment. Broad CONNECTED opaque Group of Seven paint masses across skin and cloth, purposeful long bristle planes, selective impasto ridges, quieter joined shadows; avoid smooth photoreal skin or small uniform tessellation. Face pale but mostly dark grey-olive/umber lowlight, only sparse muted warm/cool planes, no bright sunny or studio illumination. Clothes in subdued charcoal/olive. Uniform page LIGHT WARM IVORY with subtle oil texture, no vignette.\nNo scenery, office counter, floor/ground/contact paint patches, swatches, palette strip, frame, extra identities or object insets. Exact name/story/two captions only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+                "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+                "inspected": true,
+                "role": "Inspected accepted same-story broad sculpted oil/ivory layout, no identity or objects"
+              },
+              {
+                "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+                "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+                "inspected": true,
+                "role": "Inspected dim rainy indoors oil palette only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-5da2254a-7211-41d7-8371-23f6a1de6c12.png",
+            "returnedSha256": "48db06a4c7c839a97b6c0c3353f03934ba5753331877b62608d411dd90c54c80",
+            "completedAt": "2026-09-24T12:40:55.391590+00:00",
+            "review": [
+              "Saved pixels reviewed: one consistent thin receding-haired clerk with narrow moustache, olive waistcoat/charcoal coat and ordinary quill/folded paper.",
+              "Distinct from craftworkers, no invented magic or source-replacing object agency; two procedural expressions and exact readable name/story.",
+              "Opaque painted facial/cloth planes, subdued olive/charcoal values, clear whole silhouettes on light ivory; no floor, scenery, swatches or isolated hand study."
+            ]
+          }
+        ],
+        "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL folio on uniform LIGHT WARM IVORY. Exact heading \"Bramset\"; subtitle \"The Kingdom of Later\". Bramset is art-name for the source's unnamed roof clerk, one adult MALE identity.\nSpecific new identity: thin man early40s, PALE WARM skin, LONG POINTED NOSE, narrow long chin, narrow grey-blue eyes, receding SANDY hair neatly combed back, tiny narrow sandy MOUSTACHE and no beard. Slight stoop, bony shoulders and lean build. Mundane office clerk, no craftworker features or tools.\nMuted OLIVE-BROWN WAISTCOAT over high-collared cream shirt, neat charcoal long coat and charcoal trousers, plain dull dark shoes. Main view holds ONE ordinary small feather QUILL and thin FOLDED PAPER at waist. No rope, apron, trowel, bandages, sword, magic, calendar face/body or floating objects.\nLEFT full front-threequarter, CENTER smaller full rear-threequarter; RIGHT two busts captioned \"Eligible\" (neutral procedural assurance) and \"After the next dawn\" (pressed patient look). All faces agree, adult proportions, every head and shoe in frame, generous ivory gutters. Ordinary hands are part of figure only. No isolated hand/anatomy study.\nUse first Nerrel reference for oil rendering/ivory layout only; not her identity/clothes. Second story interior for DIM RAINY overcast indoor palette only, no environment. Broad CONNECTED opaque Group of Seven paint masses across skin and cloth, purposeful long bristle planes, selective impasto ridges, quieter joined shadows; avoid smooth photoreal skin or small uniform tessellation. Face pale but mostly dark grey-olive/umber lowlight, only sparse muted warm/cool planes, no bright sunny or studio illumination. Clothes in subdued charcoal/olive. Uniform page LIGHT WARM IVORY with subtle oil texture, no vignette.\nNo scenery, office counter, floor/ground/contact paint patches, swatches, palette strip, frame, extra identities or object insets. Exact name/story/two captions only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+            "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+            "inspected": true,
+            "role": "Inspected accepted same-story broad sculpted oil/ivory layout, no identity or objects"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+            "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+            "inspected": true,
+            "role": "Inspected dim rainy indoors oil palette only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:40:55.391590+00:00",
+        "sourceSha256": "ba6bccc298d238342dd6c804b9f483af2464ff9543bcd5d1ba3c3d7e61ea24fb",
+        "outputSha256": "48db06a4c7c839a97b6c0c3353f03934ba5753331877b62608d411dd90c54c80",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-f2950313-dce3-40c5-ac0a-8c780ce92cc4.png",
+            "sha256": "8e89f5761e7a64cac56f707142d91f9f795cc06eb8fefc696cd14c429b01e4f5",
+            "inspected": true,
+            "role": "Inspected accepted same-story broad sculpted oil/ivory layout, no identity or objects"
+          },
+          {
+            "path": "stories/the-kingdom-of-later/art/interiors/01-the-cobblers-leaking-shop.png",
+            "sha256": "678ecb428ed0c3f3254913497291f9251c8d70a5ff61bffcb78cfd642ea6e6ba",
+            "inspected": true,
+            "role": "Inspected dim rainy indoors oil palette only"
+          }
+        ],
+        "evidence": [
+          "Saved pixels reviewed: one consistent thin receding-haired clerk with narrow moustache, olive waistcoat/charcoal coat and ordinary quill/folded paper.",
+          "Distinct from craftworkers, no invented magic or source-replacing object agency; two procedural expressions and exact readable name/story.",
+          "Opaque painted facial/cloth planes, subdued olive/charcoal values, clear whole silhouettes on light ivory; no floor, scenery, swatches or isolated hand study."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "27e4406c680e260e464b91057d8cbfda4f25bf5496f0303089b360bc77da8cf4"
+      },
+      "naming": {
+        "type": "new-art-name",
+        "sourceRole": "Roof clerk administering the circular eligibility process",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "rationale": "Distinct unused name assigned for art only, source narrator/roles stay unnamed; no source/canon changes."
+      },
+      "outputSha256": "48db06a4c7c839a97b6c0c3353f03934ba5753331877b62608d411dd90c54c80"
+    }
+  ]
+}
