@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-ring-between-lives",
+  "title": "The Ring Between Lives",
+  "source": "stories/the-ring-between-lives/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story and prompt read. Rhazelle/Sidonie carry complete proposal/marriage arc. Original attached reference recovered and visually inspected alongside cover and drawing-room oil.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "originalReferences": [
+    {
+      "displayName": "[Image #1] — codex-clipboard-f1e2cf2b-e040-44f3-a83b-ee94bd2cacae.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f1e2cf2b-e040-44f3-a83b-ee94bd2cacae.png",
+      "inspected": true
+    }
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Former carpenter and astronomer wives",
+      "reason": "Retrospective remembered lives, not current onstage identities; no blending into Sidonie."
+    },
+    {
+      "name": "Commanders, celebrant, guards, couriers and ministers",
+      "reason": "Brief supporting/witness or reported figures."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "rhazelle",
+      "name": "Rhazelle",
+      "role": "Immortal Demon Queen and romantic protagonist",
+      "form": "adult woman, immortal demon",
+      "selectionEvidence": [
+        {
+          "quote": "She spread her wings for balance, their crimson undersides briefly filling the arch",
+          "explanation": "Finished source appearance/age."
+        }
+      ],
+      "storyAppearance": "Horns, wings with crimson undersides, black velvet long coat with silver fastenings and wing slits, trousers; kept gold leaf garnet ring.",
+      "visualInterpretation": [
+        "Original compatible pale skin, long black hair, red irises and swept dark horns; original theatrical neckline replaced by source full coat/trousers. Boot design is art interpretation."
+      ],
+      "states": [
+        {
+          "name": "Proposal evening before rings exchanged",
+          "description": "Night meeting, no final wedding veil transferred to queen and no worn rings."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ring-between-lives:rhazelle",
+        "links": [],
+        "evidence": "Targeted universe and existing-spec name search found no current recurring identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33db0a3e-21f2-424d-889c-480fc55d0383.png",
+            "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+            "sha256": "8e147056067e190fb9bdd63d2ef830bb8edf349faaa62b80a771d67a53d0a456",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+            "role": "Actual night hearth/moonlight value structure; no setting",
+            "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+            "inspected": true
+          }
+        ],
+        "prompt": "EDIT Image1 only. Keep the exact mature Rhazelle identity, readable Rhazelle / The Ring Between Lives text, two horns, long black hair, two crimson-lined wings, full front/rear bodies, black velvet long coat with silver fastenings, trousers, boots and closed ring box. Repaint all faces, hair and clothing with MUCH BROADER CONNECTED colour/value masses and varied directional oil strokes like Image2, with quiet shadow passages. Remove tiny polished jewel detail, glossy black highlights and smooth anime/digital face rendering. Image3 defines NIGHT HEARTH light: a few warm ochre near face planes and connected deep muted violet/black far-side shadows, softer moon fill only. Keep same likeness in all views. Warm ivory canvas remains fully OPAQUE and plain. Do not add scenery, swatches or other figures. Preserve complete unclipped wing tips and shoes.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:10:45.373142+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies intimate NIGHT drawing-room hearth/candle light, warm modest near planes and cool connected moonlit shadows; no bright studio lighting. Image3 compatible original identity/costume only, final prose coat/trousers controls queen; replace its anime gloss with broad matte oil. Exact heading \"Rhazelle\"; subtitle \"The Ring Between Lives\". ONE unambiguously adult woman, apparent thirties, pale warm skin, long black hair half swept back, elegant angular mature face, ordinary muted RED irises, TWO swept dark horns. Human feminine body with TWO large batlike wings from upper back, dark outer surfaces and CRIMSON inner membranes. BLACK VELVET long coat, silver fastenings, purpose-made back wing slits, fitted black trousers and dark boots. Both COMPLETE bodies fully clothed: FRONT wings folded close but showing a little crimson; REAR wings half-open upward in narrow V, all tips inside frame, back wing attachment readable. Matching mature portrait with both horns. Front holds small CLOSED dark ring box low. Before mutual proposals: NO bridal veil, no worn engagement ring, no throne, no sword. Keep coherent same identity, no face copied from orchard.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad Group of Seven oil handling and connected paint masses only; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+                "role": "Night drawing-room warm hearth/candle light with restrained cooler moonlight; no setting",
+                "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f1e2cf2b-e040-44f3-a83b-ee94bd2cacae.png",
+                "role": "Original adult appearance, dark-haired horned/winged queen and pale-haired bride, dress palette; not anime render, scene or costume where prose overrides",
+                "sha256": "435da546274eff8b2ea5470bde2b693a2f083f45fc5cc953299ed150f68ff26a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33db0a3e-21f2-424d-889c-480fc55d0383.png",
+            "outputSha256": "8e147056067e190fb9bdd63d2ef830bb8edf349faaa62b80a771d67a53d0a456",
+            "finishedAt": "2026-09-24T15:14:26.988119+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Original reference influenced fine polished rendering; simplify into broad connected matte oil and motivated night values."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:14:42.328319+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "EDIT Image1 only. Keep the exact mature Rhazelle identity, readable Rhazelle / The Ring Between Lives text, two horns, long black hair, two crimson-lined wings, full front/rear bodies, black velvet long coat with silver fastenings, trousers, boots and closed ring box. Repaint all faces, hair and clothing with MUCH BROADER CONNECTED colour/value masses and varied directional oil strokes like Image2, with quiet shadow passages. Remove tiny polished jewel detail, glossy black highlights and smooth anime/digital face rendering. Image3 defines NIGHT HEARTH light: a few warm ochre near face planes and connected deep muted violet/black far-side shadows, softer moon fill only. Keep same likeness in all views. Warm ivory canvas remains fully OPAQUE and plain. Do not add scenery, swatches or other figures. Preserve complete unclipped wing tips and shoes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33db0a3e-21f2-424d-889c-480fc55d0383.png",
+                "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+                "sha256": "8e147056067e190fb9bdd63d2ef830bb8edf349faaa62b80a771d67a53d0a456",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+                "role": "Actual night hearth/moonlight value structure; no setting",
+                "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a23a4158-9882-45f4-969d-83e081717363.png",
+            "outputSha256": "d07b3a5eaa41ceeb355d679982dde1f0e3580585ba66288e6c65ce87e95f03d5",
+            "finishedAt": "2026-09-24T15:17:52.884599+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected pixels show broader directional paint and connected night-shadow masses across face, coat and wings; mature original likeness remains consistent.",
+              "Source black long coat/trousers/silver fastenings, two horns and crimson wings retained; exact title/name and two unclipped forms, opaque ivory, no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a23a4158-9882-45f4-969d-83e081717363.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-ring-between-lives/art/characters/rhazelle.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "d07b3a5eaa41ceeb355d679982dde1f0e3580585ba66288e6c65ce87e95f03d5",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:17:52.884640+00:00",
+        "sourceSha256": "cf78b9b3ba46d3394e0b57f6bb13b7fbc1b00d4a51bbe88747a0800531135663",
+        "outputSha256": "d07b3a5eaa41ceeb355d679982dde1f0e3580585ba66288e6c65ce87e95f03d5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-33db0a3e-21f2-424d-889c-480fc55d0383.png",
+            "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+            "sha256": "8e147056067e190fb9bdd63d2ef830bb8edf349faaa62b80a771d67a53d0a456",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+            "role": "Actual night hearth/moonlight value structure; no setting",
+            "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels show broader directional paint and connected night-shadow masses across face, coat and wings; mature original likeness remains consistent.",
+          "Source black long coat/trousers/silver fastenings, two horns and crimson wings retained; exact title/name and two unclipped forms, opaque ivory, no scene/swatches."
+        ],
+        "specificationSha256": "ee79f62f18100beadd0a6b6438cd4d2452b34076e9b3ef9a6ac0879c5be2917e"
+      }
+    },
+    {
+      "id": "sidonie",
+      "name": "Sidonie",
+      "role": "Twenty-nine-year-old reigning saint and prospective bride",
+      "form": "adult woman aged twenty-nine",
+      "selectionEvidence": [
+        {
+          "quote": "At twenty-nine, Sidonie had been her country's reigning saint for four years",
+          "explanation": "Finished source appearance/age."
+        }
+      ],
+      "storyAppearance": "Pale hair, white silk wedding dress with thirty-seven back buttons, veil, gloves and four compact sheets tied white ribbon.",
+      "visualInterpretation": [
+        "Original compatible pale silver hair in floral updo, fair skin, soft mature face; long opaque white floral wedding gown with lace sleeves. Tiny buttons evoke source count without needing individual exact visibility."
+      ],
+      "states": [
+        {
+          "name": "Proposal evening before rings exchanged",
+          "description": "Night meeting, no final wedding veil transferred to queen and no worn rings."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ring-between-lives:sidonie",
+        "links": [],
+        "evidence": "Targeted universe and existing-spec name search found no current recurring identity."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e7d966c3-7be4-401c-8d39-b9c26aa8199b.png",
+            "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+            "sha256": "63a42f0220632c47342e17c7dcdce5916f0f0ba5d7f1a5189f7f149167753636",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+            "role": "Actual night hearth/moonlight value structure; no setting",
+            "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+            "inspected": true
+          }
+        ],
+        "prompt": "EDIT Image1 only. Preserve Sidonie adult face, pale silver floral updo/veil, white opaque wedding gown, gloves, exact Sidonie / The Ring Between Lives text, two full bodies and matching portrait. Scale BOTH body studies slightly smaller, keep ALL gown trains and veil ends at least 35 pixels inside every page edge. Correct held compact to exactly FOUR THIN PAPER SHEETS stacked together, tied by a narrow white ribbon: a slim flat paper packet, NOT a gift box, parcel, clutch or stack of books. Repaint face/hair/gown with much BROADER CONNECTED opaque oil planes and directional brush rhythms like Image2; simplify floral lace into selected broad marks rather than glossy embroidered microdetail. Image3 defines modest NIGHT HEARTH illumination: warm near planes, connected muted grey-violet shadows on far face and white gown, no bright daylight exposure or theatrical rim. Preserve same mature face across views. Plain OPAQUE warm ivory ground, no scenery or swatches.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T15:10:46.556744+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Image2 supplies intimate NIGHT drawing-room hearth/candle light, warm modest near planes and cool connected moonlit shadows; no bright studio lighting. Image3 compatible original identity/costume only, final prose coat/trousers controls queen; replace its anime gloss with broad matte oil. Exact heading \"Sidonie\"; subtitle \"The Ring Between Lives\". ONE 29-year-old HUMAN woman, fair skin, pale SILVER hair in floral pinned updo with a few loose curls, mature softly oval face, ordinary grey eyes. White silk WEDDING DRESS: fully opaque bodice and full floor-length skirts, long floral lace sleeves over modest opaque backing, long neat row of small back buttons, light lace veil attached to floral hairpiece. Gloved hands at arrival. Front naturally holds FOUR cream PAPER sheets stacked and tied with white ribbon; no readable document writing. Full front/rear gown and veil unclipped; matching large headportrait wearing same floral hair/veil. No halo, wings, armor, active magic or worn garnet yet. Original appearance translated into broad opaque oil, no anime eyes or glossy rim.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad Group of Seven oil handling and connected paint masses only; no landscape/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+                "role": "Night drawing-room warm hearth/candle light with restrained cooler moonlight; no setting",
+                "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f1e2cf2b-e040-44f3-a83b-ee94bd2cacae.png",
+                "role": "Original adult appearance, dark-haired horned/winged queen and pale-haired bride, dress palette; not anime render, scene or costume where prose overrides",
+                "sha256": "435da546274eff8b2ea5470bde2b693a2f083f45fc5cc953299ed150f68ff26a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e7d966c3-7be4-401c-8d39-b9c26aa8199b.png",
+            "outputSha256": "63a42f0220632c47342e17c7dcdce5916f0f0ba5d7f1a5189f7f149167753636",
+            "finishedAt": "2026-09-24T15:14:28.105603+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Original reference influenced fine polished rendering; simplify into broad connected matte oil and motivated night values.",
+              "Compact reads too thick and right train touches edge; restore thin four-paper packet and full margin."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:14:43.482761+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "EDIT Image1 only. Preserve Sidonie adult face, pale silver floral updo/veil, white opaque wedding gown, gloves, exact Sidonie / The Ring Between Lives text, two full bodies and matching portrait. Scale BOTH body studies slightly smaller, keep ALL gown trains and veil ends at least 35 pixels inside every page edge. Correct held compact to exactly FOUR THIN PAPER SHEETS stacked together, tied by a narrow white ribbon: a slim flat paper packet, NOT a gift box, parcel, clutch or stack of books. Repaint face/hair/gown with much BROADER CONNECTED opaque oil planes and directional brush rhythms like Image2; simplify floral lace into selected broad marks rather than glossy embroidered microdetail. Image3 defines modest NIGHT HEARTH illumination: warm near planes, connected muted grey-violet shadows on far face and white gown, no bright daylight exposure or theatrical rim. Preserve same mature face across views. Plain OPAQUE warm ivory ground, no scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e7d966c3-7be4-401c-8d39-b9c26aa8199b.png",
+                "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+                "sha256": "63a42f0220632c47342e17c7dcdce5916f0f0ba5d7f1a5189f7f149167753636",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+                "role": "Actual night hearth/moonlight value structure; no setting",
+                "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-b31111a9-0f62-41b2-9226-48856071b58c.png",
+            "outputSha256": "faa1bca39693f7f3d5a95fa5f9f05c2977cbc95a73b9491ab4fa5b01cbf756fd",
+            "finishedAt": "2026-09-24T15:17:54.090808+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Corrected pixels simplify lace/hair/face into broader oil masses, keep mature pale-haired identity and opaque white gown; full body trains now stay within page.",
+              "Four-paper compact reads as a slimmer tied packet, same dress/veil/gloves in front/rear and portrait; exact name/title, opaque ivory without scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-b31111a9-0f62-41b2-9226-48856071b58c.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-ring-between-lives/art/characters/sidonie.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "faa1bca39693f7f3d5a95fa5f9f05c2977cbc95a73b9491ab4fa5b01cbf756fd",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:17:54.090837+00:00",
+        "sourceSha256": "cf78b9b3ba46d3394e0b57f6bb13b7fbc1b00d4a51bbe88747a0800531135663",
+        "outputSha256": "faa1bca39693f7f3d5a95fa5f9f05c2977cbc95a73b9491ab4fa5b01cbf756fd",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e7d966c3-7be4-401c-8d39-b9c26aa8199b.png",
+            "role": "Actual inspected initial candidate; preserve identity and exact composition while correcting specified rendering/source detail",
+            "sha256": "63a42f0220632c47342e17c7dcdce5916f0f0ba5d7f1a5189f7f149167753636",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary actual broad connected oil brush masses only; no orchard/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-ring-between-lives/art/interiors/01-rhazelles-drawing-room.png",
+            "role": "Actual night hearth/moonlight value structure; no setting",
+            "sha256": "2f5abef3f454b156300578af5541634844602d70142d4a043bb9c9203412a6f2",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected pixels simplify lace/hair/face into broader oil masses, keep mature pale-haired identity and opaque white gown; full body trains now stay within page.",
+          "Four-paper compact reads as a slimmer tied packet, same dress/veil/gloves in front/rear and portrait; exact name/title, opaque ivory without scenery/swatches."
+        ],
+        "specificationSha256": "3723eb50a486b8a87530074d7aee8277fb71b4caafddb0738f909ce171df4108"
+      }
+    }
+  ],
+  "sourceSha256": "cf78b9b3ba46d3394e0b57f6bb13b7fbc1b00d4a51bbe88747a0800531135663"
+}
