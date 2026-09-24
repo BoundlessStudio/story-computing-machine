@@ -1268,6 +1268,70 @@
       ]
     },
     {
+      "slug": "by-tooth-and-threshold",
+      "title": "By Tooth and Threshold",
+      "reader": "stories/by-tooth-and-threshold.html",
+      "images": [
+        {
+          "id": "audra-liske",
+          "title": "Audra Liske",
+          "alt": "Sculpted Impasto character reference sheet of Audra Liske for By Tooth and Threshold",
+          "source": "stories/by-tooth-and-threshold/art/characters/audra-liske.png",
+          "sourceSha256": "e0975b315a8140e05bbd389f0f7a40f30b69b7c3382c58585be3d0368fb4485b",
+          "full": {
+            "path": "characters/by-tooth-and-threshold/audra-liske-e0975b315a8140e0.webp",
+            "sha256": "174b33b6b68de6addc2297cc77ba5cbfd57bdc6a909590727817a39d6a1929b8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/by-tooth-and-threshold/audra-liske-e0975b315a8140e0-thumb.webp",
+            "sha256": "4d0312914c3d518b2d93f0091f71fe8f5dd985723ce623e26a60f4cf71049acb",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "dev-kaylor",
+          "title": "Dev Kaylor",
+          "alt": "Sculpted Impasto character reference sheet of Dev Kaylor for By Tooth and Threshold",
+          "source": "stories/by-tooth-and-threshold/art/characters/dev-kaylor.png",
+          "sourceSha256": "0f3f00462487a626cda984998c2af1dcc003b52f413dcb3b3ff1c847b0647e73",
+          "full": {
+            "path": "characters/by-tooth-and-threshold/dev-kaylor-0f3f00462487a626.webp",
+            "sha256": "748839b1548c52804cecef2c57d49a1da528f0defd308d7d669ef852741d8fc0",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/by-tooth-and-threshold/dev-kaylor-0f3f00462487a626-thumb.webp",
+            "sha256": "007cd1b2c43c35cd174f4e6b7b4dfe753402ccd3fb614b2786b29e694e822461",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "varric-sennock",
+          "title": "Varric Sennock",
+          "alt": "Sculpted Impasto character reference sheet of Varric Sennock for By Tooth and Threshold",
+          "source": "stories/by-tooth-and-threshold/art/characters/varric-sennock.png",
+          "sourceSha256": "d469688ca92ce64819e62af9f9f90ba5de30b6d4e24fdf047b09a7a1b019f7be",
+          "full": {
+            "path": "characters/by-tooth-and-threshold/varric-sennock-d469688ca92ce648.webp",
+            "sha256": "6c636bacd58b72ac5b86a1dd066004e175521acda14141ac6682482347bc6d2b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/by-tooth-and-threshold/varric-sennock-d469688ca92ce648-thumb.webp",
+            "sha256": "76707a2c852601d843544e378bcee85193e30727d7f8a9eb580f8c4e3996501c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "coiled-together",
       "title": "Coiled Together",
       "reader": "stories/coiled-together.html",
@@ -2027,6 +2091,70 @@
           "thumbnail": {
             "path": "characters/a-throne-neither-wanted/vesran-1180e35160d91c2c-thumb.webp",
             "sha256": "a30f862a9343955e3045c540ff1a6a22b354c635607763b26c6991f84e6937b0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deaths-patron",
+      "title": "When Death Knelt",
+      "reader": "stories/deaths-patron.html",
+      "images": [
+        {
+          "id": "derva",
+          "title": "Derva",
+          "alt": "Sculpted Impasto character reference sheet of Derva for When Death Knelt",
+          "source": "stories/deaths-patron/art/characters/derva.png",
+          "sourceSha256": "5608650c2a6ea54ac233dc04b1ae740663dd66996f801aabe140353d8c97b87e",
+          "full": {
+            "path": "characters/deaths-patron/derva-5608650c2a6ea54a.webp",
+            "sha256": "da61135e4092c9b3b3e02bc13e441202eec958652fe2ae63cc8ae7bcd523923e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deaths-patron/derva-5608650c2a6ea54a-thumb.webp",
+            "sha256": "0ed8a1b78b2e6be294baf68f7c9eb337819db4ea25d624eddad394e71b9d1912",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nereth",
+          "title": "Nereth",
+          "alt": "Sculpted Impasto character reference sheet of Nereth for When Death Knelt",
+          "source": "stories/deaths-patron/art/characters/nereth.png",
+          "sourceSha256": "cd50cf6c67225b3cbdefc4ff971fdee7f097457948bd4e64f7e42f6f220e2a4e",
+          "full": {
+            "path": "characters/deaths-patron/nereth-cd50cf6c67225b3c.webp",
+            "sha256": "e9673ca48f847dc09e39e1fc99ea1ac91ff52dcc6b148788ac9335d3245367d4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deaths-patron/nereth-cd50cf6c67225b3c-thumb.webp",
+            "sha256": "92af1d59a134b95ac518c00bd9af20fd2aca99cd3d80c48b87f4d338501f8ec2",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "saldren",
+          "title": "Saldren",
+          "alt": "Sculpted Impasto character reference sheet of Saldren for When Death Knelt",
+          "source": "stories/deaths-patron/art/characters/saldren.png",
+          "sourceSha256": "f0b6b866aa3a92e0d3b131e24bcaaf92f40c4ef52540c11bd4ee5170938dcaa7",
+          "full": {
+            "path": "characters/deaths-patron/saldren-f0b6b866aa3a92e0.webp",
+            "sha256": "a21f183be99bef9cabc150db9f72f0c37397983119091c17b764a217346d5ecb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deaths-patron/saldren-f0b6b866aa3a92e0-thumb.webp",
+            "sha256": "acb56b07ecb8fecf40707f89d97250520d5a95062ef0020a67e31a5cb555f737",
             "width": 480,
             "height": 320
           }
