@@ -1,0 +1,779 @@
+{
+  "schemaVersion": 1,
+  "slug": "stay-out-of-my-city",
+  "title": "Stay Out of My City",
+  "source": "stories/stay-out-of-my-city/story.md",
+  "sourceSha256": "afb59b27386cf88091e74d931f8703e4b1d3242e63dd8275b3115a587750574c",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose read from first harbor interception through Warren's final swimming practice. Four sustained named present agents drive repeated meetings and father/daughter arc: Warren Dovett, Elvi, Candescent, Mordant.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Escorts, armored crews, three flying men, disc rider, gangs, sporting-association hero, police, researchers, council neighbor, friends, driver and swimmers",
+      "reason": "Collective background or brief supporting figures; none has sustained individual characterization comparable to four principal cast."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; exact four names and Brackenport searched in universe with no matches. No shared identity inferred.",
+    "Warren physically moves/stops objects, people and fire in sight, intentionally leaves breathing intact, cannot narratively act out of view. No costume/beam/runes shown. Story's literal nine-year peace is not shared canon.",
+    "Elvi is10 first warning,13 Candescent meeting,16 Mordant meeting with blue hair streak,19 at university departure. Her skill is swimming, no power stated."
+  ],
+  "referenceInputs": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "warren-dovett",
+      "name": "Warren Dovett",
+      "sourceIdentityId": "warren-dovett",
+      "role": "City protector and Elvi's father",
+      "selectionEvidence": [
+        {
+          "quote": "My name is Warren Dovett. I live here.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 41
+        },
+        {
+          "quote": "He was standing on the bottom step in yellow swimming trunks, still holding a pair of pink goggles.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 35
+        },
+        {
+          "quote": "He pictured Elvi watching him from the ladder and began laughing",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 335
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human father, normal bodily form; extraordinary control of visible objects/people/fire.",
+        "lifeStage": "Middle-aged across nine years; exact age unstated. Late40s/early50s final art interpretation.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Yellow swimming trunks, barefoot; ordinary clothes for coach-station/quarry visit not specified.",
+        "equipment": "Pink child goggles at first warning, rescue loudhailer briefly used then returned; final own goggles.",
+        "scale": "Adult human.",
+        "movement": "Natural swimmer, cautious protector, ordinary awkward tired laughter; levitates by own power without effect beam.",
+        "distinctiveFeatures": "Power doesn't alter human form; preserves others breathing."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible warm tan skin, tousled short dark brown hair with silver temples, ordinary broad-shouldered somewhat soft middle-aged torso, brown eyes, rounded strong nose; light stubble.",
+        "Main final ordinary pale-blue short-sleeve button shirt and slate trousers with brown shoes; separate front/back barefoot yellow swim shorts state. Early head slightly less grey; later head visibly more grey. All clothing/face additions art-only."
+      ],
+      "states": [
+        {
+          "label": "First warning",
+          "description": "Middle-aged in yellow trunks, pink goggles."
+        },
+        {
+          "label": "Nine years later",
+          "description": "Same man older grey temples, ordinary travel-day clothes."
+        },
+        {
+          "label": "She swam faster",
+          "description": "Earned amused acceptance, no power glow."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "stay-out-of-my-city:warren-dovett",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/stay-out-of-my-city/title-image.jpg",
+          "sha256": "12f0614bdcf00bff75971a587adef332776e3de30d26a36a9da0999162a1cc13",
+          "role": "Warren rear physique, dark greying hair and yellow swim shorts; no ship/harbor/title composition",
+          "inspected": true,
+          "notes": "Viewed rear adult man natural build barefoot yellow trunks, pink goggles; no face defined."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+          "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+          "role": "Primary Group of Seven opaque oil and coastal morning light only",
+          "inspected": true,
+          "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+          "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+          "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+          "inspected": true,
+          "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+        }
+      ],
+      "output": "stories/stay-out-of-my-city/art/characters/warren-dovett.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:51:13.416816+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nEXACT NAME \"Warren Dovett\". An ordinary father in middle age, natural warm-tan body, fairly broad shoulders and slightly soft waist, NOT exaggerated muscular superhero. Brown eyes, rounded strong nose, tousled short dark-brown hair silver at temples, light stubble. Cover rear identity/physique/hair and plain YELLOW swimming shorts are appearance anchor; do not reproduce cover scene.\nPrimary left full-body front barefoot shirtless in plain yellow knee-above swimming trunks, holding PINK child swimming goggles naturally in one five-digit hand, other relaxed. Center smaller rear view in same yellow trunks; two arms/two legs natural feet. Right full-body same father NINE YEARS LATER in ordinary pale-blue short-sleeved button shirt, slate trousers and brown shoes, a little more silver hair, no goggles. Keep older everyday-view head/face closely related.\nBottom/right two mature head studies: \"First warning\" firm worried father, and \"She swam faster\" older amused relieved smile. Separate small enlarged natural hand carefully untangling pink goggles strap. No power visualization, levitating objects, ship, weapons, crowd, water, floor or extra person. Everyday humanity, not heroic posing.",
+            "references": [
+              {
+                "path": "stories/stay-out-of-my-city/title-image.jpg",
+                "sha256": "12f0614bdcf00bff75971a587adef332776e3de30d26a36a9da0999162a1cc13",
+                "role": "Warren rear physique, dark greying hair and yellow swim shorts; no ship/harbor/title composition",
+                "inspected": true,
+                "notes": "Viewed rear adult man natural build barefoot yellow trunks, pink goggles; no face defined."
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+                "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+                "role": "Primary Group of Seven opaque oil and coastal morning light only",
+                "inspected": true,
+                "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7b7ee881-01b2-43fb-80c6-879045f89920.png",
+            "returnedSha256": "6625c91796e4d38f2c3ced4ea8c27ee0a5fe03b090632249a0f80065de04d961",
+            "completedAt": "2026-09-24T07:55:04.380864+00:00",
+            "review": "Correct same ordinary middle-aged father, yellow shorts/pink goggles and everyday outfit, proportions and daylight. REVISE fine photoreal-like wrinkles/bodyhair/skin in face/hands despite painted cloth; use broader opaque skin planes. Remove ground patches under all feet. First-warning portrait should be bare-shouldered and somewhat less grey, matching swim-state, rather than blue shirt."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:55:07.437281+00:00",
+            "status": "PASS",
+            "prompt": "Correct this exact Warren Dovett folio. Preserve likeness, body proportions, all outfits, yellow trunks, pink goggles, hands' anatomical grip, all text and layout.\n\nREPAINT SKIN/FACE/HANDS as bold GROUP OF SEVEN opaque OIL: large joined planes and broad directional bristle/knife masses, fully physical thick paint. Use landscape reference2 only for this paint handling, no scenery. Simplify every cheek, nose, forehead, jaw and neck into FEWER LARGER paint planes; eliminate finely rendered wrinkles, follicles/stubble dots, veins, tiny bodyhair strands and glossy skin details. Likewise rebuild forearms/torso/hands with broad connected masses, selective strokes that follow body form. Keep natural eyes and accurate age/face, not caricature or texture filter.\nRemove every tiny grey ground/contact patch under all feet; ivory plain everywhere outside figures.\nUpper head labeled \"First warning\": replace only blue shirt shoulders with BARE shoulders to match initial yellow-trunks state, a little LESS silver at temples than the older laughing head. Keep exact face identity. Lower \"She swam faster\" remains blue-shirted and more grey.\nKeep true coastal MORNING daylight, soft warm and cool-blue shadow planes, no glow. Text exactly \"Warren Dovett\", \"Stay Out of My City\", \"First warning\", \"She swam faster\". No other scene/object/person/swatches. No anatomy changes, five digits each hand, natural feet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7b7ee881-01b2-43fb-80c6-879045f89920.png",
+                "sha256": "6625c91796e4d38f2c3ced4ea8c27ee0a5fe03b090632249a0f80065de04d961",
+                "inspected": true,
+                "role": "Exact Warren identity/layout target; stronger oil skin, remove floor, first-warning portrait wardrobe correction"
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+                "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+                "role": "Primary Group of Seven opaque oil and coastal morning light only",
+                "inspected": true,
+                "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-302163b0-d961-4fe5-8817-a755824f70ae.png",
+            "returnedSha256": "374c4ed6d8108c287d2fff130bed651c9b2db2d6d2fa41980eb3bd805cfff7d7",
+            "completedAt": "2026-09-24T07:58:43.250501+00:00",
+            "review": [
+              "Full landscape reviewed. One ordinary middle-aged father consistent with cover tan skin/greying tousled hair and normal soft torso, same brown-eyed face throughout front/back/swim/everyday states.",
+              "Yellow swim trunks, bare feet, pink goggles correct; later pale-blue shirt/slate trousers/brown shoes art-only clothes consistent. First-warning portrait corrected to bare shoulders; older smile relaxed without unearned heroic posture.",
+              "Style correction visibly enlarges opaque bristle/knife skin masses across face/torso/limbs/hands as well as cloth; natural warm coastal morning light, cool shadows, no glow. Fine photoreal follicles reduced.",
+              "Five-toed readable foreground feet and natural five-digit hands; two hands plausibly disentangle goggles strap without extra digits. All floor patches removed, ivory empty outside figure, exact headings and labels readable, no scenery/swatches."
+            ]
+          }
+        ],
+        "prompt": "Correct this exact Warren Dovett folio. Preserve likeness, body proportions, all outfits, yellow trunks, pink goggles, hands' anatomical grip, all text and layout.\n\nREPAINT SKIN/FACE/HANDS as bold GROUP OF SEVEN opaque OIL: large joined planes and broad directional bristle/knife masses, fully physical thick paint. Use landscape reference2 only for this paint handling, no scenery. Simplify every cheek, nose, forehead, jaw and neck into FEWER LARGER paint planes; eliminate finely rendered wrinkles, follicles/stubble dots, veins, tiny bodyhair strands and glossy skin details. Likewise rebuild forearms/torso/hands with broad connected masses, selective strokes that follow body form. Keep natural eyes and accurate age/face, not caricature or texture filter.\nRemove every tiny grey ground/contact patch under all feet; ivory plain everywhere outside figures.\nUpper head labeled \"First warning\": replace only blue shirt shoulders with BARE shoulders to match initial yellow-trunks state, a little LESS silver at temples than the older laughing head. Keep exact face identity. Lower \"She swam faster\" remains blue-shirted and more grey.\nKeep true coastal MORNING daylight, soft warm and cool-blue shadow planes, no glow. Text exactly \"Warren Dovett\", \"Stay Out of My City\", \"First warning\", \"She swam faster\". No other scene/object/person/swatches. No anatomy changes, five digits each hand, natural feet.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7b7ee881-01b2-43fb-80c6-879045f89920.png",
+            "sha256": "6625c91796e4d38f2c3ced4ea8c27ee0a5fe03b090632249a0f80065de04d961",
+            "inspected": true,
+            "role": "Exact Warren identity/layout target; stronger oil skin, remove floor, first-warning portrait wardrobe correction"
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:58:43.250501+00:00",
+        "sourceSha256": "afb59b27386cf88091e74d931f8703e4b1d3242e63dd8275b3115a587750574c",
+        "outputSha256": "374c4ed6d8108c287d2fff130bed651c9b2db2d6d2fa41980eb3bd805cfff7d7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7b7ee881-01b2-43fb-80c6-879045f89920.png",
+            "sha256": "6625c91796e4d38f2c3ced4ea8c27ee0a5fe03b090632249a0f80065de04d961",
+            "inspected": true,
+            "role": "Exact Warren identity/layout target; stronger oil skin, remove floor, first-warning portrait wardrobe correction"
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          }
+        ],
+        "evidence": [
+          "Full landscape reviewed. One ordinary middle-aged father consistent with cover tan skin/greying tousled hair and normal soft torso, same brown-eyed face throughout front/back/swim/everyday states.",
+          "Yellow swim trunks, bare feet, pink goggles correct; later pale-blue shirt/slate trousers/brown shoes art-only clothes consistent. First-warning portrait corrected to bare shoulders; older smile relaxed without unearned heroic posture.",
+          "Style correction visibly enlarges opaque bristle/knife skin masses across face/torso/limbs/hands as well as cloth; natural warm coastal morning light, cool shadows, no glow. Fine photoreal follicles reduced.",
+          "Five-toed readable foreground feet and natural five-digit hands; two hands plausibly disentangle goggles strap without extra digits. All floor patches removed, ivory empty outside figure, exact headings and labels readable, no scenery/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "75c58985b9c2f048f4c5c4996dbd6939e1ed77e3de75ac13ab923ae54be2eaac"
+      },
+      "outputSha256": "374c4ed6d8108c287d2fff130bed651c9b2db2d6d2fa41980eb3bd805cfff7d7"
+    },
+    {
+      "id": "elvi",
+      "name": "Elvi",
+      "sourceIdentityId": "elvi",
+      "role": "Warren's daughter and skilled swimmer leaving for university",
+      "selectionEvidence": [
+        {
+          "quote": "She was ten, all cold elbows and excitement",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 15
+        },
+        {
+          "quote": "Elvi was thirteen when Candescent next asked to see him.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 89
+        },
+        {
+          "quote": "At sixteen, Elvi went with him to meet Mordant in the same quarry. She had a new blue streak in her hair.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 111
+        },
+        {
+          "quote": "She swam faster than I did.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 315
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human girl ages10/13/16, young adult19 at final departure.",
+        "lifeStage": "Explicit10/13/16 and nine-year progression to19.",
+        "proportions": "Child at10; tall long-limbed adult swimmer19, taller than Warren by departure.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Swimwear and goggles, later swim cap; everyday university clothes unspecified. Blue streak in hair explicitly at16.",
+        "equipment": "Pink goggles at10; own goggles and cap at19, phone and waterproof notebooks.",
+        "scale": "Adult human.",
+        "movement": "Long unhurried skilled swimming stroke; confident amused young adult.",
+        "distinctiveFeatures": "No supernatural power."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Warm tan complexion familial compatible, straight darkbrown shoulder-length hair, brown eyes and open angular face, broad nose related to Warren but distinct female identity.",
+        "Main19 plain navy-teal athletic one-piece swimsuit, muted-blue swim cap and goggles, and loose-haired adult expression. Small10 study yellow T-shirt/blue swim shorts and pink goggles, natural child proportions. Sixteen head with one blue streak in dark loose hair and rust T-shirt. No extrapolated blue streak at19. Age13 present in source chronology, not a separate redundant view."
+      ],
+      "states": [
+        {
+          "label": "Ten",
+          "description": "Child initial harbor day."
+        },
+        {
+          "label": "Sixteen",
+          "description": "Teen with new blue hair streak."
+        },
+        {
+          "label": "Nineteen",
+          "description": "Adult skilled swimmer, university departure."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "stay-out-of-my-city:elvi",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/stay-out-of-my-city/title-image.jpg",
+          "sha256": "12f0614bdcf00bff75971a587adef332776e3de30d26a36a9da0999162a1cc13",
+          "role": "Warren rear physique, dark greying hair and yellow swim shorts; no ship/harbor/title composition",
+          "inspected": true,
+          "notes": "Viewed rear adult man natural build barefoot yellow trunks, pink goggles; no face defined."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+          "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+          "role": "Primary Group of Seven opaque oil and coastal morning light only",
+          "inspected": true,
+          "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+          "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+          "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+          "inspected": true,
+          "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+        }
+      ],
+      "output": "stories/stay-out-of-my-city/art/characters/elvi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:58:44.423235+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nEXACT NAME \"Elvi\". SAME PERSON in carefully SEPARATED AGE states, no father or any other identity.\nElvi: warm tan complexion, brown eyes, broad rounded nose, angular open face, straight dark-brown shoulder-length hair. At NINETEEN she is a tall long-limbed athletic ADULT swimmer, natural grown adult head/body proportions; confident ordinary young woman, no pinup posing.\nLEFT primary front/full body adult19 in plain navy-teal athletic one-piece swimsuit, muted-blue swim cap, goggles resting around neck, standing relaxed with natural knees/feet. Near center smaller rear adult19 same swimsuit/cap. Adult19 expression bust smiling assured, hair loose and ordinary dark-brown, label \"Nineteen\".\nRIGHT/BOTTOM small separate TEN-YEAR-OLD CHILD whole-body version (same facial family): child face, child head/body proportions, thin coltish elbows, yellow plain T-SHIRT and BLUE modest swim shorts, PINK goggles around neck, barefoot standing excited with one hand naturally on hip. Label \"Ten\". She looks clearly10, no mature development, no adult makeup.\nUpper-right one TEEN SIXTEEN head-and-shoulder portrait: darkbrown hair with ONE clearly BLUE STREAK, ordinary rust T-shirt, curious composed expression, label \"Sixteen\". No blue streak in other age views. Facial structure recognizable across age10/16/19, hair brown, not unrelated children.\nKeep everyone fully in frame, ages spatially separated, text clean. No hand detail or extra views necessary. Normal hands/feet, no powers, no watery aura, no scenery/boats/pool/floor shadows/swatches. Broad large opaque paint planes in each face and limb. All figures same true MORNING daylight.",
+            "references": [
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+                "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+                "role": "Primary Group of Seven opaque oil and coastal morning light only",
+                "inspected": true,
+                "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+                "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+                "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+                "inspected": true,
+                "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-dfa315ec-bef7-4165-9285-1a427edc3c4a.png",
+            "returnedSha256": "73d1be9dbfc5cb3701a6682c512ad7910586b575d70545fa560df19c5c7fed8d",
+            "completedAt": "2026-09-24T08:02:06.049451+00:00",
+            "review": [
+              "Actual landscape pixels inspected. Same tan brown-eyed dark-haired facial family clearly differentiates adult19 swimmer front/back/bust, teen16 head and fully clothed child10. Labels Ten/Sixteen/Nineteen exact, no child/adult anatomy mixing.",
+              "Adult has long athletic limbs, functional navy one-piece, blue cap and goggles; natural neutral standing pose. Child has age10 face, yellow shirt/blue shorts, pink goggles; no mature features. Blue hair streak confined to sixteen as source.",
+              "Bold opaque skin/cloth planes and bristle strokes, readable mature human faces, true coastal morning light with cool shade. Warm ivory free of locations/floor/shadows/swatches, exact name and story title clean.",
+              "Ordinary hands/feet and goggles plausible, front/rear swimsuit seam geometry consistent, same character repeated only. No powers inferred for Elvi, no father added."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nEXACT NAME \"Elvi\". SAME PERSON in carefully SEPARATED AGE states, no father or any other identity.\nElvi: warm tan complexion, brown eyes, broad rounded nose, angular open face, straight dark-brown shoulder-length hair. At NINETEEN she is a tall long-limbed athletic ADULT swimmer, natural grown adult head/body proportions; confident ordinary young woman, no pinup posing.\nLEFT primary front/full body adult19 in plain navy-teal athletic one-piece swimsuit, muted-blue swim cap, goggles resting around neck, standing relaxed with natural knees/feet. Near center smaller rear adult19 same swimsuit/cap. Adult19 expression bust smiling assured, hair loose and ordinary dark-brown, label \"Nineteen\".\nRIGHT/BOTTOM small separate TEN-YEAR-OLD CHILD whole-body version (same facial family): child face, child head/body proportions, thin coltish elbows, yellow plain T-SHIRT and BLUE modest swim shorts, PINK goggles around neck, barefoot standing excited with one hand naturally on hip. Label \"Ten\". She looks clearly10, no mature development, no adult makeup.\nUpper-right one TEEN SIXTEEN head-and-shoulder portrait: darkbrown hair with ONE clearly BLUE STREAK, ordinary rust T-shirt, curious composed expression, label \"Sixteen\". No blue streak in other age views. Facial structure recognizable across age10/16/19, hair brown, not unrelated children.\nKeep everyone fully in frame, ages spatially separated, text clean. No hand detail or extra views necessary. Normal hands/feet, no powers, no watery aura, no scenery/boats/pool/floor shadows/swatches. Broad large opaque paint planes in each face and limb. All figures same true MORNING daylight.",
+        "references": [
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:02:06.049451+00:00",
+        "sourceSha256": "afb59b27386cf88091e74d931f8703e4b1d3242e63dd8275b3115a587750574c",
+        "outputSha256": "73d1be9dbfc5cb3701a6682c512ad7910586b575d70545fa560df19c5c7fed8d",
+        "references": [
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ],
+        "evidence": [
+          "Actual landscape pixels inspected. Same tan brown-eyed dark-haired facial family clearly differentiates adult19 swimmer front/back/bust, teen16 head and fully clothed child10. Labels Ten/Sixteen/Nineteen exact, no child/adult anatomy mixing.",
+          "Adult has long athletic limbs, functional navy one-piece, blue cap and goggles; natural neutral standing pose. Child has age10 face, yellow shirt/blue shorts, pink goggles; no mature features. Blue hair streak confined to sixteen as source.",
+          "Bold opaque skin/cloth planes and bristle strokes, readable mature human faces, true coastal morning light with cool shade. Warm ivory free of locations/floor/shadows/swatches, exact name and story title clean.",
+          "Ordinary hands/feet and goggles plausible, front/rear swimsuit seam geometry consistent, same character repeated only. No powers inferred for Elvi, no father added."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "2c3cf2688dcc01b03b2ed7c33660d1b98c1aba818d7a8be2ae7edfe6ba7f6b5e"
+      },
+      "outputSha256": "73d1be9dbfc5cb3701a6682c512ad7910586b575d70545fa560df19c5c7fed8d"
+    },
+    {
+      "id": "candescent",
+      "name": "Candescent",
+      "sourceIdentityId": "candescent",
+      "role": "Hero leader and persistent recruiter",
+      "selectionEvidence": [
+        {
+          "quote": "Candescent pursued him through the morning air, drawing back one burning arm.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "There was a fresh dressing along her jaw.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 97
+        },
+        {
+          "quote": "Candescent drew off her gloves.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 249
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, flys and generates fire; unmasked face appearance unspecified.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Gloves and boots explicit; other hero outfit not described.",
+        "equipment": "Worn folding map for third-year offer; no personal gun specified.",
+        "scale": "Adult human.",
+        "movement": "Firm active hero, tired physical service, eventually restrained disappointment.",
+        "distinctiveFeatures": "Fire around arm/shoulders intensifies white while straining; jaw dressing at third-year meeting only."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Mature athletic woman dark warm brown skin, strong oval face, natural brown eyes, dark reddish-brown hair in tight long braid; broad nose.",
+        "Practical full-cover muted brick-red heroic flight suit with charcoal shoulder/chest panels, sturdy dark boots and removable gloves; no cape/logo/weapon. Separate third-year jaw dressing head vs undressed-jaw final state. Small actual warm flame on gloved hand close detail only; daylight, no radiant body or eye magic."
+      ],
+      "states": [
+        {
+          "label": "Third-year offer",
+          "description": "White jaw dressing and folded map."
+        },
+        {
+          "label": "Nine years later",
+          "description": "Same older tired hero, jaw healed, gloves removed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "stay-out-of-my-city:candescent",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/stay-out-of-my-city/title-image.jpg",
+          "sha256": "12f0614bdcf00bff75971a587adef332776e3de30d26a36a9da0999162a1cc13",
+          "role": "Warren rear physique, dark greying hair and yellow swim shorts; no ship/harbor/title composition",
+          "inspected": true,
+          "notes": "Viewed rear adult man natural build barefoot yellow trunks, pink goggles; no face defined."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+          "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+          "role": "Primary Group of Seven opaque oil and coastal morning light only",
+          "inspected": true,
+          "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+          "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+          "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+          "inspected": true,
+          "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+        }
+      ],
+      "output": "stories/stay-out-of-my-city/art/characters/candescent.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:02:07.086243+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nName exactly \"Candescent\". One SAME adult human woman, mature40s at final meeting, athletic capable build, dark warm-brown skin, strong oval face, broad nose, brown eyes, dark reddish-brown hair in one long tidy braid. Natural adult proportions and human eyes. Hero leader, patient tired courage; no mask or crown. \nPRIMARY left/front full body: practical fully covering muted BRICK-RED flight suit with CHARCOAL shoulder/chest panels, dark sturdy BOOTS, dark removable gloves. No logo/cape/armor spikes or weapon. Center smaller rear three-quarter same outfit, single braid. No floor.\nTop-right expression labeled \"Third-year offer\": slightly younger same face with a clearly small WHITE DRESSING along one JAW, concerned firm gaze, same collar. Jaw dressing present ONLY in this head study, not main final figures.\nBottom-right expression labeled \"We need help\": same woman nine-year final state, jaw healed, tired disappointment, glove removed hand lifted naturally with five bare digits.\nSmall closed worn paper MAP held in separate close view by two gloved hands (offer prop). And one small isolated gloved hand with a compact warm ORANGE physical flame rising above it, readable source fire ability, NO runes/eye glow/halo. Do not light whole sheet from flame; daylight states remain morning. All head and hand studies belong to same woman. Keep flame isolated with ivory around it, not location.\nBroad opaque oil facial and hand planes, connected shadows, no micro-wrinkle rendering. Exact headings no extra slogans. Reference landscapes only for paint/light.",
+            "references": [
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+                "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+                "role": "Primary Group of Seven opaque oil and coastal morning light only",
+                "inspected": true,
+                "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+                "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+                "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+                "inspected": true,
+                "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f2bd3e53-5309-41a4-88fc-13a342854f05.png",
+            "returnedSha256": "698902f337aae633c3de7d07c1d1df615b40c8a4678b7c088e76e1ddeb2752b9",
+            "completedAt": "2026-09-24T08:06:41.941012+00:00",
+            "review": [
+              "Full pixels inspected: one mature brown-skinned braided woman, same strong face/physique across front, rear and two expressions. Practical brick-red/charcoal flight clothes, dark gloves/boots consistent; no logo/cape or arbitrary weapon.",
+              "Third-year head alone has clear white jaw dressing; final We need help portrait shows healed jaw and natural five-digit bare hand, maintaining chronology. Folded worn map is held by plausible paired gloves.",
+              "Source fire ability represented by isolated gloved-hand orange flame, no eye glow/halo, no scene or light contamination on rest of daylight sheet. Flame-painted forms remain distinguishable from hand.",
+              "Opaque connected skin/cloth oil planes, directional impasto and natural proportions. Exact Candescent/Stay Out of My City headings and both labels readable; ivory negative space without floor/shadow/swatches, fingers/boots coherent."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nName exactly \"Candescent\". One SAME adult human woman, mature40s at final meeting, athletic capable build, dark warm-brown skin, strong oval face, broad nose, brown eyes, dark reddish-brown hair in one long tidy braid. Natural adult proportions and human eyes. Hero leader, patient tired courage; no mask or crown. \nPRIMARY left/front full body: practical fully covering muted BRICK-RED flight suit with CHARCOAL shoulder/chest panels, dark sturdy BOOTS, dark removable gloves. No logo/cape/armor spikes or weapon. Center smaller rear three-quarter same outfit, single braid. No floor.\nTop-right expression labeled \"Third-year offer\": slightly younger same face with a clearly small WHITE DRESSING along one JAW, concerned firm gaze, same collar. Jaw dressing present ONLY in this head study, not main final figures.\nBottom-right expression labeled \"We need help\": same woman nine-year final state, jaw healed, tired disappointment, glove removed hand lifted naturally with five bare digits.\nSmall closed worn paper MAP held in separate close view by two gloved hands (offer prop). And one small isolated gloved hand with a compact warm ORANGE physical flame rising above it, readable source fire ability, NO runes/eye glow/halo. Do not light whole sheet from flame; daylight states remain morning. All head and hand studies belong to same woman. Keep flame isolated with ivory around it, not location.\nBroad opaque oil facial and hand planes, connected shadows, no micro-wrinkle rendering. Exact headings no extra slogans. Reference landscapes only for paint/light.",
+        "references": [
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:06:41.941012+00:00",
+        "sourceSha256": "afb59b27386cf88091e74d931f8703e4b1d3242e63dd8275b3115a587750574c",
+        "outputSha256": "698902f337aae633c3de7d07c1d1df615b40c8a4678b7c088e76e1ddeb2752b9",
+        "references": [
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+            "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+            "role": "Primary Group of Seven opaque oil and coastal morning light only",
+            "inspected": true,
+            "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ],
+        "evidence": [
+          "Full pixels inspected: one mature brown-skinned braided woman, same strong face/physique across front, rear and two expressions. Practical brick-red/charcoal flight clothes, dark gloves/boots consistent; no logo/cape or arbitrary weapon.",
+          "Third-year head alone has clear white jaw dressing; final We need help portrait shows healed jaw and natural five-digit bare hand, maintaining chronology. Folded worn map is held by plausible paired gloves.",
+          "Source fire ability represented by isolated gloved-hand orange flame, no eye glow/halo, no scene or light contamination on rest of daylight sheet. Flame-painted forms remain distinguishable from hand.",
+          "Opaque connected skin/cloth oil planes, directional impasto and natural proportions. Exact Candescent/Stay Out of My City headings and both labels readable; ivory negative space without floor/shadow/swatches, fingers/boots coherent."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "3ebbfce72aad851809c1825fdb476c59d98d761ed8bda4453f58488d26382b79"
+      },
+      "outputSha256": "698902f337aae633c3de7d07c1d1df615b40c8a4678b7c088e76e1ddeb2752b9"
+    },
+    {
+      "id": "mordant",
+      "name": "Mordant",
+      "sourceIdentityId": "mordant",
+      "role": "Villain leader and rival recruiter",
+      "selectionEvidence": [
+        {
+          "quote": "Mordant stood between two gun turrets in a coat that streamed behind him.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "Mordant arrived without his coat, in a hired car",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 111
+        },
+        {
+          "quote": "Mordant's face had gone grey above his collar.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 275
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, no individual supernatural power depicted.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Long streaming coat at first battle, without coat during year6 negotiation, polished shoes final, collar.",
+        "equipment": "Closed folder in housing negotiation; no handheld weapons stated.",
+        "scale": "Adult human.",
+        "movement": "Smug bargaining, tightened fingers on folder, controlled fear when suspended.",
+        "distinctiveFeatures": "Normal human form, forces use vehicles."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Mature lean man light olive skin, straight swept-back black hair with narrow silver temples, long face, pointed clean-shaven chin, narrow brown eyes; natural sinister confidence but no deformity.",
+        "Long dark charcoal high-collared coat over burgundy waistcoat, cream shirt, black trousers, polished black shoes. Smaller coat-off vest view holding ordinary closed brown folder; expression states laugh to blanch. No cape/armor/magic cane/insignia."
+      ],
+      "states": [
+        {
+          "label": "The offer",
+          "description": "Coat-off closed folder, firm argument."
+        },
+        {
+          "label": "We are leaving",
+          "description": "Paler anxious face above collar."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "stay-out-of-my-city:mordant",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/stay-out-of-my-city/title-image.jpg",
+          "sha256": "12f0614bdcf00bff75971a587adef332776e3de30d26a36a9da0999162a1cc13",
+          "role": "Warren rear physique, dark greying hair and yellow swim shorts; no ship/harbor/title composition",
+          "inspected": true,
+          "notes": "Viewed rear adult man natural build barefoot yellow trunks, pink goggles; no face defined."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+          "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+          "role": "Primary Group of Seven opaque oil and coastal morning light only",
+          "inspected": true,
+          "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+        },
+        {
+          "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+          "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+          "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+          "inspected": true,
+          "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+        }
+      ],
+      "output": "stories/stay-out-of-my-city/art/characters/mordant.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:06:42.955673+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 character reference folio on clean warm ivory paper. One identity only, readable exact name plus story heading \"Stay Out of My City\" with reserved upper-left whitespace, uncluttered views/expressions/detail. No overlapping text/feet. NO scenery/location, floor/contact shadow, landscape fragments, swatches, grids or other characters.\n\nCanadian Group of Seven heavy opaque OIL painting. Large joined dark/light planes and varied long directional bristle/knife strokes sculpt skin and cloth; selective impasto. Broad connected masses, NOT tiny uniform paint-chip mosaic. Faces/hands equally painterly as clothes, normal adult eye/head proportions, no glossy realism/CGI/anime. Morning coastal/inland DAYLIGHT with warm diffuse sunlight and cool blue-violet shaded planes. Natural figure exposure, not stage spotlight or glowing outline.\nAttached landscape paintings guide paint/light ONLY, never background. Source cover may guide Warren only as specified. Stable face/build/outfit across viewpoints.\n\nEXACT NAME \"Mordant\". One adult human man, mature50s, lean tall ordinary build, light olive skin, straight swept-back black hair narrow silver temples, long face, pointed clean-shaven chin, narrow BROWN eyes. Natural human form, practiced sardonic confidence, then frightened pale face, no deformity or monster.\nMain FRONT THREE-QUARTER full body at left: long DARK CHARCOAL high-collared tailored coat worn OPEN over muted burgundy waistcoat and cream collared shirt, black trousers, polished black shoes. Arms relaxed, no weapon/cane or power. Middle smaller REAR in same long coat, no cape.\nRight smaller full-body COAT-OFF negotiation state: same burgundy waistcoat, cream long-sleeve shirt and black trousers, holding a CLOSED ordinary brown folder with both hands, tense natural fingers. No suit lapel different costume, no hat, no insignia.\nTwo expressive busts with exact labels \"The offer\" (controlled smug half smile, coat-off) and \"We are leaving\" (same face PALE/GREY from fear above dark coat collar, mouth tight, human eyes). No eye glow/runes/demonic cues. All state outfits correspond to same continuity.\nBroad opaque oil masses build face/skin/hands as well as long dark cloth folds; no photographic wrinkles, no fine hair pore detail, no uniform chips. Gentle inland morning light and cool cloud shadows; black fabric retains connected low values. No map, vehicles, quarry, gun, scenery, floor/contact patches, swatches or second identity.",
+            "references": [
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/01-brackenport-morning.png",
+                "sha256": "19b162dd04ed834ed3f7318d227534b35079a476599de0f6e4db9e232e746449",
+                "role": "Primary Group of Seven opaque oil and coastal morning light only",
+                "inspected": true,
+                "notes": "Inspected blue sky/water shadows, warm restrained sun, broad connected bristle/knife paint; exclude all scenery."
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+                "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+                "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+                "inspected": true,
+                "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-879f2ee1-33df-4369-a9d6-9e830a42b969.png",
+            "returnedSha256": "414313e8d94924b3eb2488801a50fa2466321cfe929b47eb1b8910047521e5d8",
+            "completedAt": "2026-09-24T08:10:24.555839+00:00",
+            "review": "Source states/identity/costume/folder/layout correct. REVISE unwanted blue decorative swipes behind two portrait heads; plain ivory only. Face/hands need broader joined opaque paint planes, fewer small modeled realistic wrinkles and details; retain same likeness/expression."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:10:25.488913+00:00",
+            "status": "PASS",
+            "prompt": "Edit this EXACT Mordant folio. Preserve exact same man, facial likeness, natural anatomy, all poses/expressions, coat/burgundy vest/cream shirt/black trousers/shoes/folder, all headings and layout.\n\n1 REMOVE all decorative blue brush swipe backgrounds behind BOTH portrait heads. Clean warm IVORY outside silhouette everywhere; no coloured halo/swatches. Preserve oil texture on ivory itself.\n2 Faces, necks and hands currently have too many finely modeled details. Repaint each facial/hand plane in a FEW LARGER connected opaque Group of Seven bristle/knife MASSES, using attached landscape only for paint handling. Strong directional thick brush stroke across cheek/forehead/nose/neck. Remove small wrinkles/veins/fine stippled complexion and little highlight chips. Preserve exact face/eyes/mouth/expression, no caricature, no smooth cartoon. Coat cloth remains broad oil too. Face in \"We are leaving\" still GREY/PALE fear, other faces normal warm olive.\nSame natural MORNING cloudy daylight, connected dark clothing shadows. Text unchanged and clear. No ground patches, scenery, other identity, new details or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-879f2ee1-33df-4369-a9d6-9e830a42b969.png",
+                "sha256": "414313e8d94924b3eb2488801a50fa2466321cfe929b47eb1b8910047521e5d8",
+                "inspected": true,
+                "role": "Exact identity/outfit/folder target; plain ivory background and broad oil skin correction"
+              },
+              {
+                "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+                "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+                "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+                "inspected": true,
+                "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7d485fc5-1c01-4411-b2fd-2665e50c529f.png",
+            "returnedSha256": "f25b2f08c54ba497ec8ae4f34c60fd5c0bc91ea45b3633b971ed497e39174ded",
+            "completedAt": "2026-09-24T08:20:59.596739+00:00",
+            "review": [
+              "Full landscape inspected. Same lean mature long-faced man with silver-templed dark hair and brown eyes across coat-front/rear, coat-off folder view and expressive busts.",
+              "Source long coat, polished shoes and closed folder correct; art-only charcoal/burgundy/cream palette consistent. The offer smug confidence changes to genuinely pale grey fear above collar in We are leaving.",
+              "Correction removed all blue portrait background swipes, leaving plain warm ivory. Broader joined thick opaque planes now visibly construct faces/necks/hands, connected dark coat masses, natural morning daylight.",
+              "Headings exact and readable, no floor/contact patches/swatches/scenery/second identity. Natural hands clutch folder with plausible digits and grip; costumes/coat front vs rear geometry coherent."
+            ]
+          }
+        ],
+        "prompt": "Edit this EXACT Mordant folio. Preserve exact same man, facial likeness, natural anatomy, all poses/expressions, coat/burgundy vest/cream shirt/black trousers/shoes/folder, all headings and layout.\n\n1 REMOVE all decorative blue brush swipe backgrounds behind BOTH portrait heads. Clean warm IVORY outside silhouette everywhere; no coloured halo/swatches. Preserve oil texture on ivory itself.\n2 Faces, necks and hands currently have too many finely modeled details. Repaint each facial/hand plane in a FEW LARGER connected opaque Group of Seven bristle/knife MASSES, using attached landscape only for paint handling. Strong directional thick brush stroke across cheek/forehead/nose/neck. Remove small wrinkles/veins/fine stippled complexion and little highlight chips. Preserve exact face/eyes/mouth/expression, no caricature, no smooth cartoon. Coat cloth remains broad oil too. Face in \"We are leaving\" still GREY/PALE fear, other faces normal warm olive.\nSame natural MORNING cloudy daylight, connected dark clothing shadows. Text unchanged and clear. No ground patches, scenery, other identity, new details or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-879f2ee1-33df-4369-a9d6-9e830a42b969.png",
+            "sha256": "414313e8d94924b3eb2488801a50fa2466321cfe929b47eb1b8910047521e5d8",
+            "inspected": true,
+            "role": "Exact identity/outfit/folder target; plain ivory background and broad oil skin correction"
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:20:59.596739+00:00",
+        "sourceSha256": "afb59b27386cf88091e74d931f8703e4b1d3242e63dd8275b3115a587750574c",
+        "outputSha256": "f25b2f08c54ba497ec8ae4f34c60fd5c0bc91ea45b3633b971ed497e39174ded",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-879f2ee1-33df-4369-a9d6-9e830a42b969.png",
+            "sha256": "414313e8d94924b3eb2488801a50fa2466321cfe929b47eb1b8910047521e5d8",
+            "inspected": true,
+            "role": "Exact identity/outfit/folder target; plain ivory background and broad oil skin correction"
+          },
+          {
+            "path": "stories/stay-out-of-my-city/art/landscapes/04-quarry-at-the-boundary.png",
+            "sha256": "ce21f9f0afea8eb8db1e097dfa2cb2f9568f6950a8c41c65c11892238f6aae31",
+            "role": "Broad opaque stone/sky masses translate to skin/cloth, inland morning meeting light only",
+            "inspected": true,
+            "notes": "Viewed low-contrast broken-cloud daylight, no quarry/vehicle/floor."
+          }
+        ],
+        "evidence": [
+          "Full landscape inspected. Same lean mature long-faced man with silver-templed dark hair and brown eyes across coat-front/rear, coat-off folder view and expressive busts.",
+          "Source long coat, polished shoes and closed folder correct; art-only charcoal/burgundy/cream palette consistent. The offer smug confidence changes to genuinely pale grey fear above collar in We are leaving.",
+          "Correction removed all blue portrait background swipes, leaving plain warm ivory. Broader joined thick opaque planes now visibly construct faces/necks/hands, connected dark coat masses, natural morning daylight.",
+          "Headings exact and readable, no floor/contact patches/swatches/scenery/second identity. Natural hands clutch folder with plausible digits and grip; costumes/coat front vs rear geometry coherent."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "c400bd60f163275e509ed6f632a6ba89d976599c677e3ecda35b51ac548dc4b6"
+      },
+      "outputSha256": "f25b2f08c54ba497ec8ae4f34c60fd5c0bc91ea45b3633b971ed497e39174ded"
+    }
+  ]
+}
