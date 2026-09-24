@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-unfixed-face",
+  "title": "The Unfixed Face",
+  "source": "stories/the-unfixed-face/story.md",
+  "sourceSha256": "f651a325c79b6238e5385d88d8c1de5b6109cdb963c98c8ca4a2d337f2680fe5",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Two sisters and emergency client sustain the whole current action and central agency/consent arc. Their mutable visual states remain identities, not extra characters.",
+  "excludedMinorCharacters": [
+    "Lucian is deceased and appears through memory and bodily preset; neither stored pattern nor Korrin's face/voice contains or resurrects his person. His relevant appearance is represented only as Korrin's labeled state.",
+    "Neighbors, customers and passersby are contextual, not individualized main cast."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md",
+    "Finished source controls voluntary forms, identity and no-memory preset boundary; no exact named universe recurrence found."
+  ],
+  "characters": [
+    {
+      "id": "erisel-malk",
+      "name": "Erisel Malk",
+      "role": "Revision-pattern specialist and sister",
+      "naming": {
+        "sourceName": "Erisel Malk",
+        "sourceRole": "Revision-pattern specialist and sister",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"I'm Erisel Malk. Pattern specialist. Can you hear me?\"",
+          "explanation": "Focal sister diagnoses stalled return and adapts consent procedure; ongoing relationship with Korrin resolves in shared voluntary minor revision."
+        }
+      ],
+      "form": "Human woman with voluntary genetic revisions",
+      "storyAppearance": {
+        "anatomy": "Adult woman, Korrin's sister. Temporary face selected for narrow-sinus train conditions. Uses active seedglass beneath lower lids to see living patterns, diagnostic spool/tablet, and minor low-light retinal revision. No permanent face/age/colors specified.",
+        "lifeStage": "Adult; no exact age",
+        "proportions": "Interpret compatible cover visitor: athletic medium-height woman about32, deep brown skin, shaved sides with short central crimson-red mohawk, broad cheekbones, low broad nose, dark eyes. Rust-red sleeveless high-neck top, charcoal practical trousers, dark ankle boots and small plain ear studs. Current arrival face, not permanent anatomy.",
+        "equipment": "Three complete front/side/back views of CURRENT VISITING FORM, calm precision and Listening expression portraits. Small external diagnostic thread spool and tablet personal tools, no room/mirrors/cabinet. Tiny subtle amber/rose temple capillary signals, not tattoo or magic aura. No isolated hands.",
+        "scale": "Human-scale; body proportions differ in gliding form",
+        "movement": "Source-specific voluntary revision and stabilization states"
+      },
+      "explicitCanon": [
+        "Adult woman, Korrin's sister. Temporary face selected for narrow-sinus train conditions. Uses active seedglass beneath lower lids to see living patterns, diagnostic spool/tablet, and minor low-light retinal revision. No permanent face/age/colors specified."
+      ],
+      "visualInterpretation": [
+        "Interpret compatible cover visitor: athletic medium-height woman about32, deep brown skin, shaved sides with short central crimson-red mohawk, broad cheekbones, low broad nose, dark eyes. Rust-red sleeveless high-neck top, charcoal practical trousers, dark ankle boots and small plain ear studs. Current arrival face, not permanent anatomy."
+      ],
+      "states": [
+        {
+          "name": "Current visiting form",
+          "description": "Three complete front/side/back views of CURRENT VISITING FORM, calm precision and Listening expression portraits. Small external diagnostic thread spool and tablet personal tools, no room/mirrors/cabinet. Tiny subtle amber/rose temple capillary signals, not tattoo or magic aura. No isolated hands."
+        }
+      ],
+      "lighting": {
+        "moment": "Studio sunset approaching closure",
+        "motivation": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+      },
+      "recurrence": {
+        "identityKey": "the-unfixed-face:erisel-malk",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+          "role": "Inspected source studio sunset and impasto",
+          "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+          "inspected": true,
+          "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+        },
+        {
+          "path": "stories/the-unfixed-face/title-image.jpg",
+          "role": "Inspected existing character appearance cues",
+          "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+          "inspected": true,
+          "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+        }
+      ],
+      "output": "stories/the-unfixed-face/art/characters/erisel-malk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference sheet on completely uniform light warm IVORY. Character only. Readable dark serif NAME heading, exact story subtitle. Sculpted Impasto heavy oil painting, Group of Seven: strong broad interlocking opaque slabs and directional bristle strokes construct skin, features, fabric and membranes. Face has same physical paint thickness as body, small matte eyes, no anime/gloss/photorealistic face. Source interior reference controls warm amber edges and rich cool violet/teal shadow planes on characters. No room/landscape/floor patch/contact shadows/swatches. No detached hands or side-label exercises. All forms complete, uncut and comfortably spaced; short state labels only, no printed source prose. \nHeading 'Erisel Malk', subtitle 'The Unfixed Face'.\nSource facts: Adult woman, Korrin's sister. Temporary face selected for narrow-sinus train conditions. Uses active seedglass beneath lower lids to see living patterns, diagnostic spool/tablet, and minor low-light retinal revision. No permanent face/age/colors specified.\nVisual interpretation: Interpret compatible cover visitor: athletic medium-height woman about32, deep brown skin, shaved sides with short central crimson-red mohawk, broad cheekbones, low broad nose, dark eyes. Rust-red sleeveless high-neck top, charcoal practical trousers, dark ankle boots and small plain ear studs. Current arrival face, not permanent anatomy.\nLayout: Three complete front/side/back views of CURRENT VISITING FORM, calm precision and Listening expression portraits. Small external diagnostic thread spool and tablet personal tools, no room/mirrors/cabinet. Tiny subtle amber/rose temple capillary signals, not tattoo or magic aura. No isolated hands.",
+        "references": [
+          {
+            "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+            "role": "Inspected source studio sunset and impasto",
+            "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+            "inspected": true,
+            "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+          },
+          {
+            "path": "stories/the-unfixed-face/title-image.jpg",
+            "role": "Inspected existing character appearance cues",
+            "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+            "inspected": true,
+            "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:50:33.018Z",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference sheet on completely uniform light warm IVORY. Character only. Readable dark serif NAME heading, exact story subtitle. Sculpted Impasto heavy oil painting, Group of Seven: strong broad interlocking opaque slabs and directional bristle strokes construct skin, features, fabric and membranes. Face has same physical paint thickness as body, small matte eyes, no anime/gloss/photorealistic face. Source interior reference controls warm amber edges and rich cool violet/teal shadow planes on characters. No room/landscape/floor patch/contact shadows/swatches. No detached hands or side-label exercises. All forms complete, uncut and comfortably spaced; short state labels only, no printed source prose. \nHeading 'Erisel Malk', subtitle 'The Unfixed Face'.\nSource facts: Adult woman, Korrin's sister. Temporary face selected for narrow-sinus train conditions. Uses active seedglass beneath lower lids to see living patterns, diagnostic spool/tablet, and minor low-light retinal revision. No permanent face/age/colors specified.\nVisual interpretation: Interpret compatible cover visitor: athletic medium-height woman about32, deep brown skin, shaved sides with short central crimson-red mohawk, broad cheekbones, low broad nose, dark eyes. Rust-red sleeveless high-neck top, charcoal practical trousers, dark ankle boots and small plain ear studs. Current arrival face, not permanent anatomy.\nLayout: Three complete front/side/back views of CURRENT VISITING FORM, calm precision and Listening expression portraits. Small external diagnostic thread spool and tablet personal tools, no room/mirrors/cabinet. Tiny subtle amber/rose temple capillary signals, not tattoo or magic aura. No isolated hands.",
+            "references": [
+              {
+                "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+                "role": "Inspected source studio sunset and impasto",
+                "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+                "inspected": true,
+                "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+              },
+              {
+                "path": "stories/the-unfixed-face/title-image.jpg",
+                "role": "Inspected existing character appearance cues",
+                "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+                "inspected": true,
+                "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-537bffe2-f398-44cb-9482-d5514714a618.png",
+            "savedPath": "stories/the-unfixed-face/art/characters/erisel-malk.png",
+            "outputSha256": "982c5143b2f66a2e707cbfcb2e6d78c23ad0cc29f0d232eea126fa84899f01ef",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:55:50.338734+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:55:50.338734+00:00",
+        "sourceSha256": "f651a325c79b6238e5385d88d8c1de5b6109cdb963c98c8ca4a2d337f2680fe5",
+        "outputSha256": "982c5143b2f66a2e707cbfcb2e6d78c23ad0cc29f0d232eea126fa84899f01ef",
+        "references": [
+          {
+            "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+            "role": "Inspected source studio sunset and impasto",
+            "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+            "inspected": true,
+            "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+          },
+          {
+            "path": "stories/the-unfixed-face/title-image.jpg",
+            "role": "Inspected existing character appearance cues",
+            "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+            "inspected": true,
+            "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+          }
+        ],
+        "evidence": [
+          "Current temporary visiting form preserves inspected cover-compatible red mohawk/dark skin/rust top; three consistent whole views and painted facial portraits.",
+          "Diagnostic spool/tablet and subtle living capillary signal, no magical identity claim; broad opaque oil masses, warm/cool source light, exact full name/title and clean ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "c4b958420def4c4bfc56eb0305c5bbb3efc56ce3126c3b731ca6a15c9472aaed"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source/marker fully read, actual cover/interior/exterior inspected. Borrowed face remains Korrin; Lucian deceased. Source selective stabilization does not invent baseline cure. Three named identities and feasible body-focused forms, no hand study."
+      },
+      "outputSha256": "982c5143b2f66a2e707cbfcb2e6d78c23ad0cc29f0d232eea126fa84899f01ef"
+    },
+    {
+      "id": "korrin",
+      "name": "Korrin",
+      "role": "Studio keeper wearing and releasing her father's facial preset",
+      "naming": {
+        "sourceName": "Korrin",
+        "sourceRole": "Studio keeper wearing and releasing her father's facial preset",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Korrin came through the beaded curtain wearing their father's last face.",
+          "explanation": "Sister keeps studio, carries embedded return fragment, relinquishes mourning face, and provides practical consent communication through procedure."
+        }
+      ],
+      "form": "One human woman, different facial revision states on same body",
+      "storyAppearance": {
+        "anatomy": "Adult woman; retains own height/shoulders and planted steps under work apron. Initially wears deceased father's stored face: square cheeks, dense SILVER brows, shallow chin cleft, elderly male face; this is Korrin, never Lucian resurrected. During release one brow stays silver. Final face has BROAD DARK brows, HIGH CROOKED nose bridge and familiar mouth; throat voice still settling. No permanent look fixed.",
+        "lifeStage": "Adult; exact age unprovided. Initial borrowed face is older male preset, not her own age.",
+        "proportions": "Compatible cover foreground interpretation: adult woman about35, light olive skin, average/slight build and same modest height in every state, short auburn pixie hair, loose charcoal long-sleeved blouse, gray-olive work trousers, simple off-white waist apron and brown low shoes. Hair/body/clothes constant while face changes. Final broad dark brows and noticeably high crooked bridge override cover straight-nose aesthetics.",
+        "equipment": "Three full body views: initial front labeled MOURNING PRESET, final front-three-quarter labeled RELEASED, rear final. Initial old male facial anatomy only on SAME woman body (no old man's shoulders/beard/baldness); final own face with broad dark brows and crooked bridge. Two enlarged face portraits aligned to the two states with same labels. No third identity, no separate father, no mirror or literal mask peeling, no isolated hands. Small seedglass cell plain personal object.",
+        "scale": "Human-scale; body proportions differ in gliding form",
+        "movement": "Source-specific voluntary revision and stabilization states"
+      },
+      "explicitCanon": [
+        "Adult woman; retains own height/shoulders and planted steps under work apron. Initially wears deceased father's stored face: square cheeks, dense SILVER brows, shallow chin cleft, elderly male face; this is Korrin, never Lucian resurrected. During release one brow stays silver. Final face has BROAD DARK brows, HIGH CROOKED nose bridge and familiar mouth; throat voice still settling. No permanent look fixed."
+      ],
+      "visualInterpretation": [
+        "Compatible cover foreground interpretation: adult woman about35, light olive skin, average/slight build and same modest height in every state, short auburn pixie hair, loose charcoal long-sleeved blouse, gray-olive work trousers, simple off-white waist apron and brown low shoes. Hair/body/clothes constant while face changes. Final broad dark brows and noticeably high crooked bridge override cover straight-nose aesthetics."
+      ],
+      "states": [
+        {
+          "name": "Mourning preset / released",
+          "description": "Three full body views: initial front labeled MOURNING PRESET, final front-three-quarter labeled RELEASED, rear final. Initial old male facial anatomy only on SAME woman body (no old man's shoulders/beard/baldness); final own face with broad dark brows and crooked bridge. Two enlarged face portraits aligned to the two states with same labels. No third identity, no separate father, no mirror or literal mask peeling, no isolated hands. Small seedglass cell plain personal object."
+        }
+      ],
+      "lighting": {
+        "moment": "Studio sunset approaching closure",
+        "motivation": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+      },
+      "recurrence": {
+        "identityKey": "the-unfixed-face:korrin",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+          "role": "Inspected source studio sunset and impasto",
+          "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+          "inspected": true,
+          "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+        },
+        {
+          "path": "stories/the-unfixed-face/title-image.jpg",
+          "role": "Inspected existing character appearance cues",
+          "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+          "inspected": true,
+          "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+        }
+      ],
+      "output": "stories/the-unfixed-face/art/characters/korrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Preserve this Korrin / The Unfixed Face sheet, same poses/body/hair/clothes, two face states, labels, oil painting and ivory. ONLY two source corrections. In both RELEASED face depictions, give her a clearly HIGH CROOKED NOSE BRIDGE, a subtle old angular kink that departs sideways at the upper bridge, natural rather than grotesque. Retain broad dark brows. The MOURNING PRESET elderly face is unchanged. Replace contents of small vial at bottom-right: it must contain subtle gray-gold SMOKY ABSTRACT WHORLS, not dried flowers, plants, leaves, seeds or herbs. Seedglass is a stored biological pattern, not botany. Everything else preserved; no new studies, no isolated hands, no added text, scenery or floor.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-44efc030-4b98-4deb-98b6-71b17aa36042.png",
+            "role": "Inspected immutable A1 source-correction target",
+            "sha256": "503f0dff8d45fadcd9e97d6cea40ecc874750f77b984c0473f29028a8c588957",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T12:50:33.018Z",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference sheet on completely uniform light warm IVORY. Character only. Readable dark serif NAME heading, exact story subtitle. Sculpted Impasto heavy oil painting, Group of Seven: strong broad interlocking opaque slabs and directional bristle strokes construct skin, features, fabric and membranes. Face has same physical paint thickness as body, small matte eyes, no anime/gloss/photorealistic face. Source interior reference controls warm amber edges and rich cool violet/teal shadow planes on characters. No room/landscape/floor patch/contact shadows/swatches. No detached hands or side-label exercises. All forms complete, uncut and comfortably spaced; short state labels only, no printed source prose. \nHeading 'Korrin', subtitle 'The Unfixed Face'.\nSource facts: Adult woman; retains own height/shoulders and planted steps under work apron. Initially wears deceased father's stored face: square cheeks, dense SILVER brows, shallow chin cleft, elderly male face; this is Korrin, never Lucian resurrected. During release one brow stays silver. Final face has BROAD DARK brows, HIGH CROOKED nose bridge and familiar mouth; throat voice still settling. No permanent look fixed.\nVisual interpretation: Compatible cover foreground interpretation: adult woman about35, light olive skin, average/slight build and same modest height in every state, short auburn pixie hair, loose charcoal long-sleeved blouse, gray-olive work trousers, simple off-white waist apron and brown low shoes. Hair/body/clothes constant while face changes. Final broad dark brows and noticeably high crooked bridge override cover straight-nose aesthetics.\nLayout: Three full body views: initial front labeled MOURNING PRESET, final front-three-quarter labeled RELEASED, rear final. Initial old male facial anatomy only on SAME woman body (no old man's shoulders/beard/baldness); final own face with broad dark brows and crooked bridge. Two enlarged face portraits aligned to the two states with same labels. No third identity, no separate father, no mirror or literal mask peeling, no isolated hands. Small seedglass cell plain personal object.",
+            "references": [
+              {
+                "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+                "role": "Inspected source studio sunset and impasto",
+                "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+                "inspected": true,
+                "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+              },
+              {
+                "path": "stories/the-unfixed-face/title-image.jpg",
+                "role": "Inspected existing character appearance cues",
+                "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+                "inspected": true,
+                "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-44efc030-4b98-4deb-98b6-71b17aa36042.png",
+            "review": "Source requires high crooked nose bridge in final face; tiny object wrongly interpreted seedglass as dried flowers."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:55:50.338734+00:00",
+            "prompt": "Preserve this Korrin / The Unfixed Face sheet, same poses/body/hair/clothes, two face states, labels, oil painting and ivory. ONLY two source corrections. In both RELEASED face depictions, give her a clearly HIGH CROOKED NOSE BRIDGE, a subtle old angular kink that departs sideways at the upper bridge, natural rather than grotesque. Retain broad dark brows. The MOURNING PRESET elderly face is unchanged. Replace contents of small vial at bottom-right: it must contain subtle gray-gold SMOKY ABSTRACT WHORLS, not dried flowers, plants, leaves, seeds or herbs. Seedglass is a stored biological pattern, not botany. Everything else preserved; no new studies, no isolated hands, no added text, scenery or floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-44efc030-4b98-4deb-98b6-71b17aa36042.png",
+                "role": "Inspected immutable A1 source-correction target",
+                "sha256": "503f0dff8d45fadcd9e97d6cea40ecc874750f77b984c0473f29028a8c588957",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-4f1078fb-4255-47f2-8fd6-fcc047124a58.png",
+            "savedPath": "stories/the-unfixed-face/art/characters/korrin.png",
+            "outputSha256": "d3d6900ce354c832fcc16bc9aba458472605336338c267625f62682d426f07ad",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T13:00:55.641537+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T13:00:55.641537+00:00",
+        "sourceSha256": "f651a325c79b6238e5385d88d8c1de5b6109cdb963c98c8ca4a2d337f2680fe5",
+        "outputSha256": "d3d6900ce354c832fcc16bc9aba458472605336338c267625f62682d426f07ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-44efc030-4b98-4deb-98b6-71b17aa36042.png",
+            "role": "Inspected immutable A1 source-correction target",
+            "sha256": "503f0dff8d45fadcd9e97d6cea40ecc874750f77b984c0473f29028a8c588957",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Labeled mourning preset and released states retain same woman body/hair/apron; borrowed elderly square face/silver brows vs younger broad dark brows and uneven high nose bridge. No returned Lucian person.",
+          "Seedglass corrected to abstract smoky whorls rather than plants; opaque face paint, source warm/cool light, readable exact identity and clean ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "de673ac42bef2ad3151fcb4c85661aec5180a40bae9c418c674f0fc170ccbb12"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source/marker fully read, actual cover/interior/exterior inspected. Borrowed face remains Korrin; Lucian deceased. Source selective stabilization does not invent baseline cure. Three named identities and feasible body-focused forms, no hand study."
+      },
+      "outputSha256": "d3d6900ce354c832fcc16bc9aba458472605336338c267625f62682d426f07ad"
+    },
+    {
+      "id": "mekran-foyle",
+      "name": "MEKRAN FOYLE",
+      "role": "Gliding-form client experiencing stalled biological return",
+      "naming": {
+        "sourceName": "MEKRAN FOYLE",
+        "sourceRole": "Gliding-form client experiencing stalled biological return",
+        "provenance": "Exact uppercase full name on source wrist device; ordinary Mekran is same person."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The last stage did not restore a remembered face. It restored the safe path by which his body could keep deciding later.",
+          "explanation": "Central emergency client actively communicates consent/refusal and dictates pace of stabilization; his outcome does not equal restoration of a generic human body."
+        }
+      ],
+      "form": "Genetically revised human male glider with arm-to-flank biological membranes; no extra limbs",
+      "storyAppearance": {
+        "anatomy": "Adult man with elongated arms and dark biological gliding-sail membranes. Arrival left membrane folds cleanly, right drags with outer edge thickening to skin; rear membranes trap heat. Pupils expanded, black heat-patches throat/ribs, flickering temple capillaries; right landing foot broad, left narrowing. Wrist device. After stabilization pupils contract, heat patches fade brown, jaw shortens somewhat, RIGHT arm membrane recedes to elbow and pauses; ordinary breath/heat/even hearing, not full baseline restoration. Final strap beneath elbow membrane and quiet temple pulses.",
+        "lifeStage": "Adult; exact age unprovided",
+        "proportions": "Adult about40, lean elongated-limbed brown-skinned male body, narrow shaved dark head, angular jaw that is somewhat shorter after stabilization. Two arms/two legs only, sail skin from extended arm to flank/back, NO separate bird/bat wings or extra finger-bones. Modest dark flexible knee-length shorts with open side accommodation, bare feet. Wrist device small dark band; capillary light is subtle red early and amber late.",
+        "equipment": "Two LARGE useful whole-body three-quarter views clearly labeled ARRIVAL and STABILIZED. Arrival front shows elongated arms, left sail neatly folded, right lower edge uneven and long, asymmetric broad right/narrow left feet, black throat/rib heat patches and nearly-black pupils. Stabilized view turned slightly shows the RIGHT arm membrane now stops at elbow with strap beneath the remnant, remaining left folded membrane still present, brown patches, reduced pupils, steady amber temple arc. One side-head portrait for each state. No full-human reset, no invented cured wings, no humanoid uniform poses, no flying scene, floor marks or isolated hand study. Keep membrane silhouette complete within sheet.",
+        "scale": "Human-scale; body proportions differ in gliding form",
+        "movement": "Source-specific voluntary revision and stabilization states"
+      },
+      "explicitCanon": [
+        "Adult man with elongated arms and dark biological gliding-sail membranes. Arrival left membrane folds cleanly, right drags with outer edge thickening to skin; rear membranes trap heat. Pupils expanded, black heat-patches throat/ribs, flickering temple capillaries; right landing foot broad, left narrowing. Wrist device. After stabilization pupils contract, heat patches fade brown, jaw shortens somewhat, RIGHT arm membrane recedes to elbow and pauses; ordinary breath/heat/even hearing, not full baseline restoration. Final strap beneath elbow membrane and quiet temple pulses."
+      ],
+      "visualInterpretation": [
+        "Adult about40, lean elongated-limbed brown-skinned male body, narrow shaved dark head, angular jaw that is somewhat shorter after stabilization. Two arms/two legs only, sail skin from extended arm to flank/back, NO separate bird/bat wings or extra finger-bones. Modest dark flexible knee-length shorts with open side accommodation, bare feet. Wrist device small dark band; capillary light is subtle red early and amber late."
+      ],
+      "states": [
+        {
+          "name": "Arrival / stabilized",
+          "description": "Two LARGE useful whole-body three-quarter views clearly labeled ARRIVAL and STABILIZED. Arrival front shows elongated arms, left sail neatly folded, right lower edge uneven and long, asymmetric broad right/narrow left feet, black throat/rib heat patches and nearly-black pupils. Stabilized view turned slightly shows the RIGHT arm membrane now stops at elbow with strap beneath the remnant, remaining left folded membrane still present, brown patches, reduced pupils, steady amber temple arc. One side-head portrait for each state. No full-human reset, no invented cured wings, no humanoid uniform poses, no flying scene, floor marks or isolated hand study. Keep membrane silhouette complete within sheet."
+        }
+      ],
+      "lighting": {
+        "moment": "Studio sunset approaching closure",
+        "motivation": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+      },
+      "recurrence": {
+        "identityKey": "the-unfixed-face:mekran-foyle",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+          "role": "Inspected source studio sunset and impasto",
+          "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+          "inspected": true,
+          "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+        },
+        {
+          "path": "stories/the-unfixed-face/title-image.jpg",
+          "role": "Inspected existing character appearance cues",
+          "sha256": "6cb5947fbf5cdfc95b260f15a46a2f3a973660053a46adfafa5f7dcd9c26b901",
+          "inspected": true,
+          "notes": "Unlabelled composition: adopt compatible dark-skinned red-mohawk visitor cues for Erisel and light-olive auburn-pixie foreground cues for Korrin as recorded interpretation, not source fact. Source facial states govern Korrin; mirror image is not an extra person. Paint style comes from source oil painting, not smooth cover."
+        }
+      ],
+      "output": "stories/the-unfixed-face/art/characters/mekran-foyle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this MEKRAN FOYLE / The Unfixed Face sheet. Preserve exact identity, source biological glider form, oil paint, all ARRIVAL pixels, portraits, typography, ivory layout and left membrane. ONLY correct STABILIZED full body at right: the near arm is his RIGHT arm. Its short retained sail membrane belongs to the UPPER ARM and nearby torso/back, and ends at the ELBOW. The entire forearm from elbow to wrist must be bare ordinary skin, no membrane connecting or dangling from it, no triangular fin down forearm. Place the plain support strap just beneath the membrane end at elbow. Keep wrist device at wrist separate. Preserve the long folded sail on far LEFT side/back. This is partial source stabilization, not a complete human reset; do not add/remove other limbs or membranes. Do not create close-up hands or new studies.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-88b04a28-2967-42dc-b252-22074d35f213.png",
+            "role": "Inspected immutable A1 source-correction target",
+            "sha256": "2a7801966f969f649c24b92a835bd399b58e6c5f7fb82cb452cc269d6d032847",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T12:50:33.018Z",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference sheet on completely uniform light warm IVORY. Character only. Readable dark serif NAME heading, exact story subtitle. Sculpted Impasto heavy oil painting, Group of Seven: strong broad interlocking opaque slabs and directional bristle strokes construct skin, features, fabric and membranes. Face has same physical paint thickness as body, small matte eyes, no anime/gloss/photorealistic face. Source interior reference controls warm amber edges and rich cool violet/teal shadow planes on characters. No room/landscape/floor patch/contact shadows/swatches. No detached hands or side-label exercises. All forms complete, uncut and comfortably spaced; short state labels only, no printed source prose. \nHeading 'MEKRAN FOYLE', subtitle 'The Unfixed Face'.\nSource facts: Adult man with elongated arms and dark biological gliding-sail membranes. Arrival left membrane folds cleanly, right drags with outer edge thickening to skin; rear membranes trap heat. Pupils expanded, black heat-patches throat/ribs, flickering temple capillaries; right landing foot broad, left narrowing. Wrist device. After stabilization pupils contract, heat patches fade brown, jaw shortens somewhat, RIGHT arm membrane recedes to elbow and pauses; ordinary breath/heat/even hearing, not full baseline restoration. Final strap beneath elbow membrane and quiet temple pulses.\nVisual interpretation: Adult about40, lean elongated-limbed brown-skinned male body, narrow shaved dark head, angular jaw that is somewhat shorter after stabilization. Two arms/two legs only, sail skin from extended arm to flank/back, NO separate bird/bat wings or extra finger-bones. Modest dark flexible knee-length shorts with open side accommodation, bare feet. Wrist device small dark band; capillary light is subtle red early and amber late.\nLayout: Two LARGE useful whole-body three-quarter views clearly labeled ARRIVAL and STABILIZED. Arrival front shows elongated arms, left sail neatly folded, right lower edge uneven and long, asymmetric broad right/narrow left feet, black throat/rib heat patches and nearly-black pupils. Stabilized view turned slightly shows the RIGHT arm membrane now stops at elbow with strap beneath the remnant, remaining left folded membrane still present, brown patches, reduced pupils, steady amber temple arc. One side-head portrait for each state. No full-human reset, no invented cured wings, no humanoid uniform poses, no flying scene, floor marks or isolated hand study. Keep membrane silhouette complete within sheet.",
+            "references": [
+              {
+                "path": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
+                "role": "Inspected source studio sunset and impasto",
+                "sha256": "c02596e9443f7f0c6974d8fd1b1e99089b8d90c09052be1aef7b43ff0ddcaf50",
+                "inspected": true,
+                "notes": "Orange sunset/lamp accents, deep cool violet and teal shadows. No environment."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-88b04a28-2967-42dc-b252-22074d35f213.png",
+            "review": "Stabilized membrane visibly continues down forearm to wrist, contradicting source stop at elbow."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:55:50.338734+00:00",
+            "prompt": "Edit this MEKRAN FOYLE / The Unfixed Face sheet. Preserve exact identity, source biological glider form, oil paint, all ARRIVAL pixels, portraits, typography, ivory layout and left membrane. ONLY correct STABILIZED full body at right: the near arm is his RIGHT arm. Its short retained sail membrane belongs to the UPPER ARM and nearby torso/back, and ends at the ELBOW. The entire forearm from elbow to wrist must be bare ordinary skin, no membrane connecting or dangling from it, no triangular fin down forearm. Place the plain support strap just beneath the membrane end at elbow. Keep wrist device at wrist separate. Preserve the long folded sail on far LEFT side/back. This is partial source stabilization, not a complete human reset; do not add/remove other limbs or membranes. Do not create close-up hands or new studies.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-88b04a28-2967-42dc-b252-22074d35f213.png",
+                "role": "Inspected immutable A1 source-correction target",
+                "sha256": "2a7801966f969f649c24b92a835bd399b58e6c5f7fb82cb452cc269d6d032847",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-c92d6ce9-70e1-4f5d-a2e2-2c6846eec294.png",
+            "savedPath": "stories/the-unfixed-face/art/characters/mekran-foyle.png",
+            "outputSha256": "a7fd78736c1cb8f8c8773ea3241014269bd8d1303b8994ce5d5b7b1a39502324",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T13:00:55.641537+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T13:00:55.641537+00:00",
+        "sourceSha256": "f651a325c79b6238e5385d88d8c1de5b6109cdb963c98c8ca4a2d337f2680fe5",
+        "outputSha256": "a7fd78736c1cb8f8c8773ea3241014269bd8d1303b8994ce5d5b7b1a39502324",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-88b04a28-2967-42dc-b252-22074d35f213.png",
+            "role": "Inspected immutable A1 source-correction target",
+            "sha256": "2a7801966f969f649c24b92a835bd399b58e6c5f7fb82cb452cc269d6d032847",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Labeled arrival/stabilized whole forms preserve elongated arms, two arms/two legs, biological folded membranes and asymmetric feet; no separate bird or bat limbs.",
+          "A2 clears right forearm below elbow and retains elbow support and long far-left folded membrane; black heat patches and expanded pupils give way to brown patches/amber signal. Partial stabilization, not full human reset.",
+          "Exact uppercase source full name, strong broad skin/membrane paint and complete silhouettes; ivory character-only, no detached hand studies."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "57511855161b2d54978550ef8b165ca3ab1b96527de910612e3a35b0963251de"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished source/marker fully read, actual cover/interior/exterior inspected. Borrowed face remains Korrin; Lucian deceased. Source selective stabilization does not invent baseline cure. Three named identities and feasible body-focused forms, no hand study."
+      },
+      "outputSha256": "a7fd78736c1cb8f8c8773ea3241014269bd8d1303b8994ce5d5b7b1a39502324"
+    }
+  ]
+}
