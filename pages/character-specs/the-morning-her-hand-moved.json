@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-morning-her-hand-moved",
+  "title": "The Morning Her Hand Moved",
+  "source": "stories/the-morning-her-hand-moved/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished source/prompt/review read, original restored and inspected plus cover/painting inspected. Four named human main agents and physically central unnamed stone goddess. Five thousand residents remain crowd; final cause/perception uncertainty preserved.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Temru, Burmik, Iveni, waterkeepers, bearers, residents",
+      "reason": "Functional relay/crowd appearances, not independently sustained main identities."
+    },
+    {
+      "name": "Garden goat, old dog, infants",
+      "reason": "Brief evacuation/aid subjects, no separate main-character agency."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-c45ef036-c128-405f-a924-5af25c37bddc.png",
+      "sha256": "be95f5f0990fce093b6282ac3b4277319b97c45b8b869e21b4cad6ee7f6c2a4d",
+      "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+      "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+      "line": 656,
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c45ef036-c128-405f-a924-5af25c37bddc.png",
+      "status": "recovered-and-inspected",
+      "recovery": "Original exact bytes recovered from archived user message; no reencoding."
+    }
+  ],
+  "coverInspection": "Actual original/cover show seated stone woman, a source-incompatible pose. Compatible stone facial/material/crown design retained only; source SUPINE body and unresolved agency take precedence. Human cast not identified by cover.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "zunel",
+      "name": "Zunel",
+      "role": "Palm structural lead whose failed brace forces a changed evacuation and provisional resettlement.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Zunel remained at the wall, assigning shelter loads and drawing paths on the forearm as it now lay",
+          "explanation": "Palm structural lead whose failed brace forces a changed evacuation and provisional resettlement."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman wearing boots, tool case lost in failed brace, later holds charcoal and draws shelter routes; source does not fix face/age/hair."
+      },
+      "explicitCanon": [
+        "Non-canon story-local civilization; rate change and impacts do not establish that goddess perceives, understands or answers. No divine conversation or named universe identity."
+      ],
+      "visualInterpretation": [
+        "Woman40, medium-deep brown skin, compact strong frame, short coiled black hair, square face and broad nose. Rust-brown practical work jacket, rolled sleeves, navy trousers, sturdy boots; charcoal-stained hands. No modern logos/zippers."
+      ],
+      "states": [
+        {
+          "name": "After evacuation",
+          "description": "Late morning resettlement planning; charcoal and remaining simple tools, no magically recovered lost tool case."
+        }
+      ],
+      "lighting": "Late morning after evacuation: diffuse natural daylight with subdued warm planes and connected cool stone-reflected shadows, uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Zunel"
+      },
+      "status": "completed",
+      "output": "stories/the-morning-her-hand-moved/art/characters/zunel.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Zunel; exact subtitle The Morning Her Hand Moved. One adult WOMAN40 with medium-deep brown skin, COMPACT STRONG frame, SHORT COILED BLACK hair, square face, broad nose, focused tired dark eyes. Rust-brown plain work jacket with rolled sleeves over grey tunic, navy trousers, sturdy boots. Two full-body front/rear views, one intent head and one hand holding a plain CHARCOAL STICK. Dusty clothing/sooty fingers. State After evacuation. Her tool case fell away in source, so DO NOT include a case or elaborate replenished equipment. Ordinary human no magical marks or deity clothes. Late MORNING natural light, soft blue-violet connected shadows and restrained warmer light-facing planes, no orange theatrical glow. UNIFORM LIGHT IVORY all empty space; no goddess surface, architecture, gardens, roads or scenic floor.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+            "inspected": true,
+            "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+            "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Zunel; exact subtitle The Morning Her Hand Moved. One adult WOMAN40 with medium-deep brown skin, COMPACT STRONG frame, SHORT COILED BLACK hair, square face, broad nose, focused tired dark eyes. Rust-brown plain work jacket with rolled sleeves over grey tunic, navy trousers, sturdy boots. Two full-body front/rear views, one intent head and one hand holding a plain CHARCOAL STICK. Dusty clothing/sooty fingers. State After evacuation. Her tool case fell away in source, so DO NOT include a case or elaborate replenished equipment. Ordinary human no magical marks or deity clothes. Late MORNING natural light, soft blue-violet connected shadows and restrained warmer light-facing planes, no orange theatrical glow. UNIFORM LIGHT IVORY all empty space; no goddess surface, architecture, gardens, roads or scenic floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+                "inspected": true,
+                "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+                "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:14:38.065421+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-1d1b1b45-818c-47e2-9aa0-a6a350f118d3.png",
+            "outputSha256": "95e140c6685311e1167c8dc2a7a369f3c0bdad12da0adaaec781eda483dd969e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:27.424448+00:00",
+            "generatorReview": "Actual pixels inspected: same compact strong brown-skinned woman with short coiled dark hair and rust jacket across front/rear/head; worn boots and charcoal hand detail fit after evacuation final state, no restored lost tool case. Morning diffuse daylight opaque paint, anatomy, readable exact name/title and uniform ivory pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "95e140c6685311e1167c8dc2a7a369f3c0bdad12da0adaaec781eda483dd969e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:27.424448+00:00",
+        "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba",
+        "outputSha256": "95e140c6685311e1167c8dc2a7a369f3c0bdad12da0adaaec781eda483dd969e",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+            "inspected": true,
+            "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+            "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: same compact strong brown-skinned woman with short coiled dark hair and rust jacket across front/rear/head; worn boots and charcoal hand detail fit after evacuation final state, no restored lost tool case. Morning diffuse daylight opaque paint, anatomy, readable exact name/title and uniform ivory pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "d714694f668023114a8b6b49ee3c81c7010f365da6ee8c1d775ed8f0aa8ab584"
+      }
+    },
+    {
+      "id": "aksor",
+      "name": "Aksor",
+      "role": "Wrist-garden practice keeper who notices joint motion, safely times passage and proposes spaced pressure signal.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Aksor came down from the wrist gardens without his dawn mantle, carrying one of the red clay bowls in both hands.",
+          "explanation": "Wrist-garden practice keeper who notices joint motion, safely times passage and proposes spaced pressure signal."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man arrives without dawn mantle, has sleeves and bare feet, red clay bowl with water; source pressure practice does not prove divine perception."
+      },
+      "explicitCanon": [
+        "Non-canon story-local civilization; rate change and impacts do not establish that goddess perceives, understands or answers. No divine conversation or named universe identity."
+      ],
+      "visualInterpretation": [
+        "Man55, warm brown skin, rounded face, closely curled salt-grey hair and short salt beard, sturdy middle-aged frame; plain ochre long-sleeved tunic over muted blue trousers, bare feet. No ceremonial mantle/cape."
+      ],
+      "states": [
+        {
+          "name": "Ration work after evacuation",
+          "description": "Late morning with red clay ration bowl, sleeves and bare feet; no claim goddess heard/responded."
+        }
+      ],
+      "lighting": "Late morning after evacuation: diffuse natural daylight with subdued warm planes and connected cool stone-reflected shadows, uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Aksor"
+      },
+      "status": "completed",
+      "output": "stories/the-morning-her-hand-moved/art/characters/aksor.png",
+      "generation": {
+        "prompt": "Edit this exact aksor character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b378c0aa-690c-4001-813d-73a3734872a0.png",
+            "sha256": "08dec4e7aaa44eed2803a0a3399abe27e039035d4cab6a51ca3fe066a247ba98",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Aksor; exact subtitle The Morning Her Hand Moved. One adult MAN55 with warm brown skin, rounded broad face, close-curled salt-grey hair and short salt beard, sturdy middle-aged frame, patient practical eyes. PLAIN OCHRE long-sleeved tunic over muted blue trousers, visibly BARE FEET. ABSOLUTELY NO cloak/cape/dawn mantle: source explicitly arrives without it, and sleeves remain. Two complete front/rear views, one restrained thoughtful head, one bare-hand close study holding RED CLAY BOWL partly filled with ordinary water. State Ration work. No glowing bowl, priestly staff, crown, shoes, divinity effect or speech from goddess. Late MORNING natural light, soft blue-violet connected shadows and restrained warmer light-facing planes, no orange theatrical glow. UNIFORM LIGHT IVORY all empty space; no goddess surface, architecture, gardens, roads or scenic floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+                "inspected": true,
+                "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+                "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:14:38.066763+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b378c0aa-690c-4001-813d-73a3734872a0.png",
+            "outputSha256": "08dec4e7aaa44eed2803a0a3399abe27e039035d4cab6a51ca3fe066a247ba98",
+            "generatorReview": "Actual body/face/feet/red-clay-bowl and paint pass; negative-space dark vignette hides heading and violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:42:28.421609+00:00",
+            "prompt": "Edit this exact aksor character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b378c0aa-690c-4001-813d-73a3734872a0.png",
+                "sha256": "08dec4e7aaa44eed2803a0a3399abe27e039035d4cab6a51ca3fe066a247ba98",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual body/face/feet/red-clay-bowl and paint pass; negative-space dark vignette hides heading and violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-372bd5ca-4f1a-48c4-b5fb-65ad278dac82.png",
+            "outputSha256": "e9bf2a9d4f732052f40ce6dad815324d8b8021dcb537b159e0aa1310ecea83a5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:03:55.901993+00:00",
+            "generatorReview": "Actual pixels inspected: same mature man, short salt curls/beard, ochre sleeved tunic/slate trousers, BARE FEET and no dawn mantle; red clay bowl held in plausible hands matches final ration work. Daylight paint preserved, ivory and name/title fully restored."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "e9bf2a9d4f732052f40ce6dad815324d8b8021dcb537b159e0aa1310ecea83a5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:03:55.901993+00:00",
+        "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba",
+        "outputSha256": "e9bf2a9d4f732052f40ce6dad815324d8b8021dcb537b159e0aa1310ecea83a5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b378c0aa-690c-4001-813d-73a3734872a0.png",
+            "sha256": "08dec4e7aaa44eed2803a0a3399abe27e039035d4cab6a51ca3fe066a247ba98",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same mature man, short salt curls/beard, ochre sleeved tunic/slate trousers, BARE FEET and no dawn mantle; red clay bowl held in plausible hands matches final ration work. Daylight paint preserved, ivory and name/title fully restored.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1ea477bb6345c7a6ae5ef213058c0b3ba49c7584dd99028e9878af1dff6fcf32"
+      }
+    },
+    {
+      "id": "yeshal",
+      "name": "Yeshal",
+      "role": "Forearm strain observer who measures motion and carefully preserves uncertainty.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Yeshal had set three plumbs where the forearm began to curve toward the wrist.",
+          "explanation": "Forearm strain observer who measures motion and carefully preserves uncertainty."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman with plumb reel, weighted line, water clock; physically lowers line and measures intervals. Source leaves appearance unspecified."
+      },
+      "explicitCanon": [
+        "Non-canon story-local civilization; rate change and impacts do not establish that goddess perceives, understands or answers. No divine conversation or named universe identity."
+      ],
+      "visualInterpretation": [
+        "Woman33, cool olive skin, narrow heart-shaped face, long straight black hair in one low braid, lean build, slate-grey sleeved tunic and indigo trousers/boots, compact leather belt reel."
+      ],
+      "states": [
+        {
+          "name": "New measurements",
+          "description": "Late morning after hand pauses, checking line/water clock without predicting intent."
+        }
+      ],
+      "lighting": "Late morning after evacuation: diffuse natural daylight with subdued warm planes and connected cool stone-reflected shadows, uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Yeshal"
+      },
+      "status": "completed",
+      "output": "stories/the-morning-her-hand-moved/art/characters/yeshal.png",
+      "generation": {
+        "prompt": "Edit this exact yeshal character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-e0b9efb5-39b4-496d-b3b3-d2c206e50168.png",
+            "sha256": "66cdc8ef549e4fdbace815bed69a28eda592ae58349acdd74deb8c345cc3bc7e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Yeshal; exact subtitle The Morning Her Hand Moved. One adult WOMAN33, COOL OLIVE skin, narrow heart-shaped face, long straight BLACK hair in one LOW BRAID, lean frame, careful searching brown eyes. Slate-grey long-sleeved work tunic, indigo trousers and plain boots; compact leather belt REEL. Two full-body front/rear views, one concentrated head, one hand holding a simple PLUMB REEL with cord and a single weighted metal BOB. Optional small plain measuring water-clock cup detail, no elaborate machine or digital display. State New measurements. No deity marks, magic lines or certainty-symbols, ordinary practical survey worker. Late MORNING natural light, soft blue-violet connected shadows and restrained warmer light-facing planes, no orange theatrical glow. UNIFORM LIGHT IVORY all empty space; no goddess surface, architecture, gardens, roads or scenic floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+                "inspected": true,
+                "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+                "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:14:38.068021+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-e0b9efb5-39b4-496d-b3b3-d2c206e50168.png",
+            "outputSha256": "66cdc8ef549e4fdbace815bed69a28eda592ae58349acdd74deb8c345cc3bc7e",
+            "generatorReview": "Actual face/body/braid/plumb-reel details and daylight paint pass; dark vignette hides heading and violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:42:28.425980+00:00",
+            "prompt": "Edit this exact yeshal character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-e0b9efb5-39b4-496d-b3b3-d2c206e50168.png",
+                "sha256": "66cdc8ef549e4fdbace815bed69a28eda592ae58349acdd74deb8c345cc3bc7e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual face/body/braid/plumb-reel details and daylight paint pass; dark vignette hides heading and violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-dcc3253d-243a-4f3c-9131-4690bda5914a.png",
+            "outputSha256": "0f70cefc058056df2ae1d955bae5302e0a6ea5ec486ec7545464ef20bf8a0550",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:03:55.938591+00:00",
+            "generatorReview": "Actual pixels inspected: source strain-observer with black braid, grey/indigo clothes, plumb reel/weight and measuring cup, one consistent adult face across views. Reel sits same anatomical left hip front/rear. Morning paint, anatomy, ivory and name/title legibility pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "0f70cefc058056df2ae1d955bae5302e0a6ea5ec486ec7545464ef20bf8a0550",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:03:55.938591+00:00",
+        "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba",
+        "outputSha256": "0f70cefc058056df2ae1d955bae5302e0a6ea5ec486ec7545464ef20bf8a0550",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-e0b9efb5-39b4-496d-b3b3-d2c206e50168.png",
+            "sha256": "66cdc8ef549e4fdbace815bed69a28eda592ae58349acdd74deb8c345cc3bc7e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: source strain-observer with black braid, grey/indigo clothes, plumb reel/weight and measuring cup, one consistent adult face across views. Reel sits same anatomical left hip front/rear. Morning paint, anatomy, ivory and name/title legibility pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e19a0062e06aa25c5f0583fd68dc27c36509752d125600a8dc9024070f3ff022"
+      }
+    },
+    {
+      "id": "polaq",
+      "name": "Polaq",
+      "role": "Count keeper who accounts for every living resident before irreversible bridge release.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "his register cords looped from shoulder to wrist",
+          "explanation": "Count keeper who accounts for every living resident before irreversible bridge release."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man with register cords shoulder to wrist, touches knots, marks resident groups, dust/cough and breathlessness. No fixed hair/skin/age."
+      },
+      "explicitCanon": [
+        "Non-canon story-local civilization; rate change and impacts do not establish that goddess perceives, understands or answers. No divine conversation or named universe identity."
+      ],
+      "visualInterpretation": [
+        "Man46, deep brown skin, round face, clean shaven, closely cropped black hair with light grey temples; brick-red waistcoat over dark tunic, tan trousers and boots. Register cords on anatomical left shoulder/arm/wrist consistently."
+      ],
+      "states": [
+        {
+          "name": "Full count",
+          "description": "After evacuation all5281 living residents accounted for; no need to write invented full register lists."
+        }
+      ],
+      "lighting": "Late morning after evacuation: diffuse natural daylight with subdued warm planes and connected cool stone-reflected shadows, uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Polaq"
+      },
+      "status": "completed",
+      "output": "stories/the-morning-her-hand-moved/art/characters/polaq.png",
+      "generation": {
+        "prompt": "Edit this exact polaq character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-daeacfdf-b860-4502-baba-075f9bf30037.png",
+            "sha256": "ff0fab24d574773484b5c66e25addd9e9abdfadd3bb9b8b92ab46c29164215f5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Polaq; exact subtitle The Morning Her Hand Moved. One adult MAN46 with DEEP BROWN skin, ROUND face, clean-shaven, closely cropped black hair/light-grey temples, sturdy frame, tired attentive dark eyes. Brick-red plain waistcoat over dark tunic, tan trousers and work boots. Distinct from other sheets. His thin ochre REGISTER CORDS loop from anatomical LEFT SHOULDER to LEFT WRIST in ALL views: front viewerRIGHT, rear viewerLEFT. Two unclipped front/rear views, one relieved yet vigilant head and close-up LEFT hand touching a knot on those cords. State Full count. Use irregular small knot groups, no written number inventory or magical beads. No weapons or status regalia. Late MORNING natural light, soft blue-violet connected shadows and restrained warmer light-facing planes, no orange theatrical glow. UNIFORM LIGHT IVORY all empty space; no goddess surface, architecture, gardens, roads or scenic floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+                "inspected": true,
+                "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+                "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:14:38.069309+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-daeacfdf-b860-4502-baba-075f9bf30037.png",
+            "outputSha256": "ff0fab24d574773484b5c66e25addd9e9abdfadd3bb9b8b92ab46c29164215f5",
+            "generatorReview": "Actual anatomy/name identity/LEFT register-cords correct in front (viewer right) and rear (viewer left); dark negative space hides heading and violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:42:28.430091+00:00",
+            "prompt": "Edit this exact polaq character sheet only. Replace ALL dark/grey/brown vignette background and haze in the NEGATIVE SPACE with one clean uniform LIGHT IVORY paper colour, including every edge and behind every heading and label. Restore the existing dark brown exact character heading and exact subtitle The Morning Her Hand Moved in their same positions, completely readable. Preserve every character, face, body, hair, skin, clothing, prop, anatomy, pose, daylight illumination, opaque oil brushmark and detail exactly as shown. No added scenery, floor shadow, cast shadows, border, swatches, objects or text. This is ONLY a background/readability correction. Retain the same landscape1536x1024 framing.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-daeacfdf-b860-4502-baba-075f9bf30037.png",
+                "sha256": "ff0fab24d574773484b5c66e25addd9e9abdfadd3bb9b8b92ab46c29164215f5",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual anatomy/name identity/LEFT register-cords correct in front (viewer right) and rear (viewer left); dark negative space hides heading and violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-14b9884c-2b9a-46d0-96fd-d9e5e234fc6b.png",
+            "outputSha256": "0884b878c32871d432434e59ae6fd0fa49a9b3322e192db8567ae104cfda5213",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:03:55.953621+00:00",
+            "generatorReview": "Actual pixels inspected: consistent mature brown-skinned male countkeeper, brick vest/tan trousers; register cords fixed anatomical LEFT shoulder to LEFT wrist: front viewer right, rear viewer left. No side switch, five-digit hand detail plausible. Uniform ivory restored, daylight paint/name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "0884b878c32871d432434e59ae6fd0fa49a9b3322e192db8567ae104cfda5213",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:03:55.953621+00:00",
+        "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba",
+        "outputSha256": "0884b878c32871d432434e59ae6fd0fa49a9b3322e192db8567ae104cfda5213",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-daeacfdf-b860-4502-baba-075f9bf30037.png",
+            "sha256": "ff0fab24d574773484b5c66e25addd9e9abdfadd3bb9b8b92ab46c29164215f5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent mature brown-skinned male countkeeper, brick vest/tan trousers; register cords fixed anatomical LEFT shoulder to LEFT wrist: front viewer right, rear viewer left. No side switch, five-digit hand detail plausible. Uniform ivory restored, daylight paint/name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "63b42cefd3180ba7eb6880fbcdc487bee530f36186532b6ae7d9d7cdf90c0c32"
+      }
+    },
+    {
+      "id": "elaruun",
+      "name": "Elaruun",
+      "role": "Unnamed colossal stone goddess whose right-hand movement changes the inhabited terrain; consciousness and response remain unknown.",
+      "form": "Colossal stone female body, not a human-scale new persona",
+      "selectionEvidence": [
+        {
+          "quote": "The goddess lay supine beneath every place anyone knew",
+          "explanation": "Physical central nonhuman identity; body motion drives story, no agency beyond observations asserted."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Supine colossal stone female body, warm stone; anatomical right hand initially flat then fingers curl and palm cups, wrist/forearm turn. No preserved name/origin, no confirmed face movement, intent or answer. Civilization carved into body; char folio omits locations."
+      },
+      "explicitCanon": [
+        "Non-canon and no shared deity link. Source supine posture overrides original seated artwork. Movement and later pause do not prove listening/answering or mind. No declared true name."
+      ],
+      "visualInterpretation": [
+        "Elaruun is authorized ART-ONLY label, not recovered lost name. Original supplies closed serene stone face, sculpted hair/high carved crown and draped ornate stone surfaces. Show supine study and right-hand states on ivory without external scenery/buildings; material grey weathered stone."
+      ],
+      "states": [
+        {
+          "name": "Supine body",
+          "description": "Closed eyes, unchanged silent face, no upright or sitting scene."
+        },
+        {
+          "name": "Right hand, cupped",
+          "description": "Cupped palm and curled fingers only observed changed pose; earlier open palm detail labelled separately."
+        }
+      ],
+      "lighting": "Natural morning light and cool grey-violet stone shadows, no magical glow or theatrical aura.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Elaruun",
+        "sourceRole": "Unnamed stone goddess",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only label; source explicitly has no preserved name. No source/canon identity assertion."
+      },
+      "status": "completed",
+      "output": "stories/the-morning-her-hand-moved/art/characters/elaruun.png",
+      "generation": {
+        "prompt": "Use THIS supplied earlier Elaruun sheet as the correct anatomy base. Make ONLY ONE LOCAL COMPOSITION CHANGE: slightly shrink and lower the upper-right detached head/crown study so crown, hair and jewelry have a generous LIGHT IVORY margin at the top and right edges. Preserve the entire supine stone body and BOTH upper-left palm studies exactly as shown; these original hands are anatomically RIGHT palms, source-correct, do NOT mirror/reorient/repaint them. Leftmost study Open palm and other Cupped palm stay exactly. Closed eyes, right mainhand cupped and left open, matte carvedstone oils and ivory title/headings all unchanged. No other edits, no background or architecture.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-162920ff-65d0-4787-8d12-36b5c93ecedd.png",
+            "sha256": "70a013a56d18576402412d3454f5cb45aef53e2e49d4ed6262fc696f2ee28b5a",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case illustration-story. A LANDSCAPE1536x1024 CHARACTER-ONLY reference folio, entire support uniformly LIGHT IVORY. Exact heading Elaruun; exact subtitle The Morning Her Hand Moved. One single colossal STONE FEMALE body, with original reference's serene CLOSED EYES, sculpted swept hair, intricately carved tall crown, weathered grey stone face and ornate draped stone gown/jewelry; all broad matte opaque Canadian Group of Seven oil colour masses and directional bristles, not photoreal marble. SOURCE OVERRIDE: she lies SUPINE, flat on her BACK, never seated or upright as in original. Composition: one fully visible long horizontal reclining/supine body seen from above across lower canvas, head to left/feet to right and both arms beside body with palms up, no bed/pedestal/terrain; one closed-eyed head study upper-right; two isolated anatomical RIGHT HAND/forearm studies at upper-left labelled Open palm and Cupped palm, SAME five-finger right anatomy (thumb on viewerLEFT when palm faces us). Main supine body's right palm is gently CUPPED, fingers curled. Left arm neutral, face unchanged and silent; no eyes opening or emotional response. The original's architecture, mountains, water and greenery are NOT included—retain only bodily carvings as surface material, no tiny built streets/temples or inhabitants. Her source scale is enormous but no human scale figures. All complete extremities have ivory margin. Morning daylight with restrained grey-violet shadows, no magic aura, glow, runes, speech, active crown or claimed conscious response. No swatches or scenic vignette. Name is art-only presentation; do not add process disclaimer inside artwork.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c45ef036-c128-405f-a924-5af25c37bddc.png",
+                "sha256": "be95f5f0990fce093b6282ac3b4277319b97c45b8b869e21b4cad6ee7f6c2a4d",
+                "inspected": true,
+                "role": "Original's stone female facial design, closed eyes, carved hair/crown and weathered material only. Source explicitly supine and right-hand motion overrides original seated pose. Architecture is omitted from character-only folio."
+              },
+              {
+                "path": "stories/the-morning-her-hand-moved/art/landscapes/05-gardens-above-the-crease.png",
+                "inspected": true,
+                "role": "Inspected late-morning natural light/grey-violet stone shadows and opaque oil only; no garden geography copied.",
+                "sha256": "782185dacf865412d302b1ee8e5b8d00f26ae59f6f38c9b1a50fa193c2cb4b5d"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:14:38.070471+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-162920ff-65d0-4787-8d12-36b5c93ecedd.png",
+            "outputSha256": "70a013a56d18576402412d3454f5cb45aef53e2e49d4ed6262fc696f2ee28b5a",
+            "generatorReview": "Actual supine body/closed serene identity/right cupped main hand/painting/ivory pass. Two upper-left palm studies are left hands; source explicitly RIGHT. Crown top in head study touches image edge."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:42:28.434525+00:00",
+            "prompt": "Edit this exact Elaruun character folio, preserving the full supine body, stone face identity, closed eyes, ornaments, painted grey stone, exact heading Elaruun and subtitle The Morning Her Hand Moved, ivory paper and layout. Correct ONLY the TWO small upper-left hand studies: both must be the same anatomically RIGHT hand, one labelled Open palm and one Cupped palm. Show each hand palm toward viewer, wrist below, FOUR fingers pointing UP and THUMB on VIEWER LEFT. The open study is an open relaxed RIGHT palm, cupped study bends the four fingers inward gently with a cupped RIGHT palm. Five digits each; preserve the existing carved wrist jewelry. No left hand, mirrored side or extra digit. Use available upper-left middle space; both studies must fit safely below heading, with clear ivory space between. Also shrink/reposition ONLY the upper-right head study by about 5 percent so crown has a clear ivory top margin; preserve all face/crown details and closed expression. Keep the complete main supine body absolutely unchanged. Matte broad opaque oil masses, no new glow/scenery/text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-162920ff-65d0-4787-8d12-36b5c93ecedd.png",
+                "sha256": "70a013a56d18576402412d3454f5cb45aef53e2e49d4ed6262fc696f2ee28b5a",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual supine body/closed serene identity/right cupped main hand/painting/ivory pass. Two upper-left palm studies are left hands; source explicitly RIGHT. Crown top in head study touches image edge.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-1b1c12de-d502-42f7-9937-30a2c616949d.png",
+            "outputSha256": "3ff4f63ab3154df77117cb4116f06ff6e743163fab980f9db60c82d3f5d8e5de",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:03:55.970197+00:00",
+            "generatorReview": "Actual pixels inspected: fully supine single stone goddess body (prose overrides seated original), right palm cups while left remains open, closed serene eyes and original-derived carved hair/crown/drape. Corrected both detail hands are RIGHT with four upward fingers/thumb viewer left, one open and one cupped; head crown now has ivory margin. Matte stone paint, name/title, character-only and no building/scenery pass; consciousness remains unclaimed.",
+            "reviewRevisions": [
+              {
+                "reason": "Root-coordinated anatomy audit withdrew reversed thumb convention. Earlier candidate's two right-palm insets were correct; use that correct candidate as input and fix only genuine head-crown edge clipping. Preserve exact prior calls/returns as history."
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T10:11:35.330858+00:00",
+            "prompt": "Use THIS supplied earlier Elaruun sheet as the correct anatomy base. Make ONLY ONE LOCAL COMPOSITION CHANGE: slightly shrink and lower the upper-right detached head/crown study so crown, hair and jewelry have a generous LIGHT IVORY margin at the top and right edges. Preserve the entire supine stone body and BOTH upper-left palm studies exactly as shown; these original hands are anatomically RIGHT palms, source-correct, do NOT mirror/reorient/repaint them. Leftmost study Open palm and other Cupped palm stay exactly. Closed eyes, right mainhand cupped and left open, matte carvedstone oils and ivory title/headings all unchanged. No other edits, no background or architecture.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-162920ff-65d0-4787-8d12-36b5c93ecedd.png",
+                "sha256": "70a013a56d18576402412d3454f5cb45aef53e2e49d4ed6262fc696f2ee28b5a",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Root-coordinated anatomy audit withdrew reversed thumb convention. Earlier candidate's two right-palm insets were correct; use that correct candidate as input and fix only genuine head-crown edge clipping. Preserve exact prior calls/returns as history.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-81b8efdb-5584-4b0c-8045-1aca9e7aa6bb.png",
+            "outputSha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:15:49.074335-04:00",
+            "generatorReview": "Recovered actual saved result from interrupted call; inspected after corrected hand convention. Detached RIGHT palms and crown margin now correct; near attached RIGHT palm is mirrored: fingers point image-right, thumb above instead of below. Preserve prior review history; local attached-hand correction remains.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T07:26:31.799056-04:00",
+                "reason": "User: why are still doing hand study i think we where past this... Select best existing sheet and stop hand-side variations. This supersedes the fine hand-side rejection; no generated bytes changed."
+              }
+            ],
+            "selectionReview": "Selected best existing saved candidate after user explicitly ended further hand-study variations. Actual complete sheet inspected: source-required supine colossal stone identity, cupped near hand and alternate open/cupped details, unchanged closed serene face, original-derived crown/carvings/drape, grey stone oils, repaired head-study ivory margin, complete body and exact name/title. Source does not establish a preserved name or a conscious response; art-only Elaruun naming stays provenance. No new hand correction call made; fine hand-side audit is closed by user direction rather than asserted as a fresh anatomy certification."
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "cancelled-before-call",
+            "startedAt": "2026-09-24T07:23:18.191813-04:00",
+            "prompt": "Use case: precise-object-edit. Correct ONLY the attached hand nearest the bottom edge of the large supine Elaruun body. This is her anatomical RIGHT arm, the lower/near arm. Keep this arm, bracelet, wrist location and cupped-palm state. Repaint the hand beyond its bracelet with correct RIGHT PALM anatomy: wrist at image-left, FOUR curled fingers extending toward IMAGE-RIGHT, THUMB on the LOWER edge toward IMAGE-DOWN. The little-finger edge is above, toward her body. Current thumb on the upper edge makes the attached hand a left hand and must be removed and rebuilt on the lower edge. Five digits total. The palm faces upward toward the viewer and four fingers gently curl to make a shallow cup; do not make a fist or dorsal hand. Leave enough warm ivory below every digit; reduce only this hand slightly if needed for a 30px bottom margin. Preserve the far/upper arm and its open LEFT palm, both correctly oriented detached RIGHT-palm studies at upper-left, and the corrected crowned head study with its clear ivory margin. Keep the entire body supine, both closed eyes, all stone face identity/carvings/drapery/material/oil paint, exact text, 3:2 composition and ivory support unchanged. No new background, people, scenery, powers or other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-81b8efdb-5584-4b0c-8045-1aca9e7aa6bb.png",
+                "sha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
+                "inspected": true,
+                "role": "Immutable actual inspected Elaruun edit target. Correct only lower attached RIGHT hand; preserve correct detached right palms and crown margin."
+              }
+            ],
+            "reason": "User ended hand-study detour before tool invocation. Prepared prompt retained as uncalled history; no new image or hand variant generated.",
+            "preflight": "Complete finished source, original and cover reread/reinspection completed on resume. Supine source overrides seated original. Actual near-right wrist, palm cup, finger/thumbnail topology and lower ivory margin verified against Morris anatomy plate before preparing this local correction. Detached hands and crown already accepted; do not change them.",
+            "toolInvoked": false,
+            "finishedAt": "2026-09-24T07:26:31.799056-04:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:26:31.799056-04:00",
+        "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba",
+        "outputSha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-162920ff-65d0-4787-8d12-36b5c93ecedd.png",
+            "sha256": "70a013a56d18576402412d3454f5cb45aef53e2e49d4ed6262fc696f2ee28b5a",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Selected best existing saved candidate after user explicitly ended further hand-study variations. Actual complete sheet inspected: source-required supine colossal stone identity, cupped near hand and alternate open/cupped details, unchanged closed serene face, original-derived crown/carvings/drape, grey stone oils, repaired head-study ivory margin, complete body and exact name/title. Source does not establish a preserved name or a conscious response; art-only Elaruun naming stays provenance. No new hand correction call made; fine hand-side audit is closed by user direction rather than asserted as a fresh anatomy certification.",
+        "userApproval": "Full collection generation authorized; final user review at end. User explicitly ended hand-study detour and directed selection of best existing coherent sheet.",
+        "specificationSha256": "416226ce45af8b5945339859fd9702a131336bb1bfa88d8935c89bb4916af4e8"
+      }
+    }
+  ],
+  "sourceSha256": "403e9e93aa5bcc1b151f49c45e657457d63050a4c168468d0e73960424e77bba"
+}
