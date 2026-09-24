@@ -1245,6 +1245,11 @@ def render_index(catalog: Catalog, editions=(), media=None) -> str:
     )
 
 
+def story_gallery_link(slug: str, prefix: str = '../') -> str:
+    href = html.escape(f'{prefix}gallery.html?story={slug}#story-{slug}', quote=True)
+    return f'<a href="{href}">View story gallery →</a>'
+
+
 def render_story(story: Story, editions=(), comics=(), media=None) -> str:
     comic = _graphic_novel_module().by_source(comics).get(story.slug)
     edition = _editions_by_source(editions).get(story.slug)
@@ -1257,6 +1262,7 @@ def render_story(story: Story, editions=(), comics=(), media=None) -> str:
         f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
         f'<h1>{title}</h1>'
         f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
+        f'<p class="back-link">{story_gallery_link(story.slug)}</p>'
         f'{_graphic_novel_module().download_link(comic, media=media)}'
         f'{_prompt(story.prompt)}'
         f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
