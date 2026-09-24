@@ -1,0 +1,571 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-hollow-cask",
+  "title": "The Hollow Cask",
+  "source": "stories/the-hollow-cask/05-story.md",
+  "sourceSha256": "6b2400697c8b1ff8fbaf06cdbecd97c6b23a77cd5ffcd562ebc3f8161001dd89",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Agnes Wold and Silas Cray sustain the restoration/conflict/rescue. The Underbreath is an explicitly LOCKED living fungal-and-mite colony with brood care, growth, scars, preference, refusal and consequential withdrawal; named collective subject qualifies without assuming one humanlike mind.",
+  "excludedMinorCharacters": [
+    "Conveyance clerk, carter, historical forebear/builders, old folk, musicians and neighbors are incidental, recalled or collective supporting background.",
+    "The pub/cask-shell, deed, dowels, gallery, trough, flue and grille are inert habitat/routing infrastructure, not living subjects. Do not depict them as anatomy or characters.",
+    "Individual mites are components of the one named colony, not additional invented named main characters."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy read; story.json canon:true. LOCKED universe/characters.md Agnes Wold/Silas Cray/The Underbreath and rules.md Underbreath contraction read. Ages/origins/mind/personhood/species remain unresolved; appearance art-only. No source changes."
+  ],
+  "characters": [
+    {
+      "id": "agnes-wold",
+      "name": "Agnes Wold",
+      "role": "Purchaser, carpenter/limeworker and restoration protagonist",
+      "naming": {
+        "sourceName": "Agnes Wold",
+        "sourceRole": "carpenter and limeworker",
+        "provenance": "Exact LOCKED full name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Agnes unloaded her props, wedges, adze, lime tubs, and the long box of planes",
+          "explanation": "Source working trade and personal tools."
+        },
+        {
+          "quote": "We're not shoring the front",
+          "explanation": "Agency chooses sacrifice to protect colony and independent support."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Skilled adult carpenter/limeworker; boots; knife/mallet/adze/planes/rule/long saw; no appearance or exact age established. LOCKED age and origin unresolved.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation only: middle-aged adult visual reading around40, medium height strong forearms/sturdy build, warm tawny skin, wide oval face and high broad cheekbones, dark brown eyes, copper-brown hair in high practical knot. Rolled cream shirt, moss green waistcoat, gray canvas apron tied at back, tan work trousers and brown boots dusted with lime.",
+        "markings": "Skilled adult carpenter/limeworker; boots; knife/mallet/adze/planes/rule/long saw; no appearance or exact age established. LOCKED age and origin unresolved.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation only: middle-aged adult visual reading around40, medium height strong forearms/sturdy build, warm tawny skin, wide oval face and high broad cheekbones, dark brown eyes, copper-brown hair in high practical knot. Rolled cream shirt, moss green waistcoat, gray canvas apron tied at back, tan work trousers and brown boots dusted with lime.",
+        "equipment": "Front/right/back during repair work with no injury. Heads measured curiosity and decisive resolve. Own hand with wooden hand plane and carpenter's red chalk; small cloth apron wear detail, no workshop.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation only: middle-aged adult visual reading around40, medium height strong forearms/sturdy build, warm tawny skin, wide oval face and high broad cheekbones, dark brown eyes, copper-brown hair in high practical knot. Rolled cream shirt, moss green waistcoat, gray canvas apron tied at back, tan work trousers and brown boots dusted with lime."
+      },
+      "explicitCanon": [
+        "Skilled adult carpenter/limeworker; boots; knife/mallet/adze/planes/rule/long saw; no appearance or exact age established. LOCKED age and origin unresolved."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: middle-aged adult visual reading around40, medium height strong forearms/sturdy build, warm tawny skin, wide oval face and high broad cheekbones, dark brown eyes, copper-brown hair in high practical knot. Rolled cream shirt, moss green waistcoat, gray canvas apron tied at back, tan work trousers and brown boots dusted with lime.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Front/right/back during repair work with no injury. Heads measured curiosity and decisive resolve. Own hand with wooden hand plane and carpenter's red chalk; small cloth apron wear detail, no workshop."
+        }
+      ],
+      "lighting": {
+        "moment": "Overcast repair day",
+        "motivation": "Cool roof/window daylight with restrained warm hearth side planes"
+      },
+      "recurrence": {
+        "identityKey": "agnes-wold",
+        "links": [],
+        "evidence": "Exact LOCKED character, unspecified visual attributes remain unresolved in canon."
+      },
+      "references": [
+        {
+          "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+          "role": "Inspected overcast repair-day cool light with warm hearth",
+          "notes": "Character-only lighting; no hall or ground.",
+          "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected accepted ivory folio/heavy oil rendering",
+          "notes": "Paint structure only; do not borrow character, bag or clothes.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/art/interiors/02-ancient-cask-cellar.png",
+          "role": "Inspected shaded colony discovery lamp/window light",
+          "notes": "Colony life/substrate distinction; no cask, grille, wall or scene on sheet.",
+          "sha256": "6304fc082c53fa9de83d370f1ab5f8a3ad815c5e446ccaa45b63a7b99fe28f38",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/title-image.jpg",
+          "role": "Inspected existing pale-cord visual continuity, subordinate",
+          "notes": "Dense pale network in cask is only geometry inspiration; cask is not body and omitted; repaint as heavy oil.",
+          "sha256": "8e563cf0788a078844dd835f3a2fbfb2646a4f8b6603740a19e4dc996d2b45a1",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-hollow-cask/art/characters/agnes-wold.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference folio on clean light warm IVORY, exact readable large dark serif NAME and subtitle 'The Hollow Cask'. ONE named human OR one named colonial subject only, no other identities. Canadian Group of Seven HEAVY OILS: broad connected opaque colour/value masses, thick directional bristle handling and selective impasto on all flesh, face, cloth or fungal tissue; matte oil eyes/skin, no glossy digital/CGI/photographic rendering. Preserve story-specific lighting from supplied actual interior painting but OMIT its environment. No room, building, floor, ground patch, swatches, backdrop or scenic vignette. Exact human marks/attachedclothes consistent across three views; no unrequested bags/straps/pouches. Anatomy variants stated as art interpretation, no new canon. Readable concise labels.\nHeading 'Agnes Wold'.\nAgnes Wold, ordinary ADULT skilled carpenter/limeworker; middle-aged visual interpretation around40, not asserted canon age. Medium height strong practical build/forearms, warm tawny skin, broad high cheeks/wide oval face, matte brown eyes, copper-brown hair in HIGH practical knot. Rolled CREAM shirt, MOSS GREEN waistcoat, gray CANVAS APRON tied behind waist, tan work trousers, brown work boots, light LIME dust on fabric. Front / Right side facing canvasRIGHT / Back. Same knot/apron/clothes in every view; no arbitrary asymmetrical pocket/patch, no bag or toolbelt. Heads 'Measured curiosity' and 'Resolve'. Small own hands with a wooden HAND PLANE and carpenter's RED CHALK as personal trade studies, no table or building. Cool overcast daylight through damaged roof/window with small warm hearth accents as first image, matte heavy bristle oils.",
+        "references": [
+          {
+            "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+            "role": "Inspected overcast repair-day cool light with warm hearth",
+            "notes": "Character-only lighting; no hall or ground.",
+            "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected accepted ivory folio/heavy oil rendering",
+            "notes": "Paint structure only; do not borrow character, bag or clothes.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:26:45.606227+00:00",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference folio on clean light warm IVORY, exact readable large dark serif NAME and subtitle 'The Hollow Cask'. ONE named human OR one named colonial subject only, no other identities. Canadian Group of Seven HEAVY OILS: broad connected opaque colour/value masses, thick directional bristle handling and selective impasto on all flesh, face, cloth or fungal tissue; matte oil eyes/skin, no glossy digital/CGI/photographic rendering. Preserve story-specific lighting from supplied actual interior painting but OMIT its environment. No room, building, floor, ground patch, swatches, backdrop or scenic vignette. Exact human marks/attachedclothes consistent across three views; no unrequested bags/straps/pouches. Anatomy variants stated as art interpretation, no new canon. Readable concise labels.\nHeading 'Agnes Wold'.\nAgnes Wold, ordinary ADULT skilled carpenter/limeworker; middle-aged visual interpretation around40, not asserted canon age. Medium height strong practical build/forearms, warm tawny skin, broad high cheeks/wide oval face, matte brown eyes, copper-brown hair in HIGH practical knot. Rolled CREAM shirt, MOSS GREEN waistcoat, gray CANVAS APRON tied behind waist, tan work trousers, brown work boots, light LIME dust on fabric. Front / Right side facing canvasRIGHT / Back. Same knot/apron/clothes in every view; no arbitrary asymmetrical pocket/patch, no bag or toolbelt. Heads 'Measured curiosity' and 'Resolve'. Small own hands with a wooden HAND PLANE and carpenter's RED CHALK as personal trade studies, no table or building. Cool overcast daylight through damaged roof/window with small warm hearth accents as first image, matte heavy bristle oils.",
+            "references": [
+              {
+                "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+                "role": "Inspected overcast repair-day cool light with warm hearth",
+                "notes": "Character-only lighting; no hall or ground.",
+                "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected accepted ivory folio/heavy oil rendering",
+                "notes": "Paint structure only; do not borrow character, bag or clothes.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cded0d06-5bbc-434a-a622-3b62d2721451.png",
+            "savedPath": "stories/the-hollow-cask/art/characters/agnes-wold.png",
+            "outputSha256": "baf02690dbb8f47498ef307d3718f6edc24af5dcde03626ce49f480f569ce42e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:51:22.726550+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:51:22.726550+00:00",
+        "sourceSha256": "6b2400697c8b1ff8fbaf06cdbecd97c6b23a77cd5ffcd562ebc3f8161001dd89",
+        "outputSha256": "baf02690dbb8f47498ef307d3718f6edc24af5dcde03626ce49f480f569ce42e",
+        "references": [
+          {
+            "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+            "role": "Inspected overcast repair-day cool light with warm hearth",
+            "notes": "Character-only lighting; no hall or ground.",
+            "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected accepted ivory folio/heavy oil rendering",
+            "notes": "Paint structure only; do not borrow character, bag or clothes.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 consistent adult carpenter, high copper-brown knot, cream/moss shirt-vest, gray apron with same centered back tie, lime-dusted practical trousers/boots; anatomy and curious/resolve heads clear.",
+          "Personal hand plane/red chalk readable, no workshop or ground; cool overcast/soft hearth treatment in heavy matte oils, exact name/title/ivory folio."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "66e69cbe207b3e56edc5536c6a2b9df8eb9c2b332dbce654d8aca3964150495b"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "baf02690dbb8f47498ef307d3718f6edc24af5dcde03626ce49f480f569ce42e"
+    },
+    {
+      "id": "silas-cray",
+      "name": "Silas Cray",
+      "role": "Local sawyer who withholds records then helps save occupied habitat",
+      "naming": {
+        "sourceName": "Silas Cray",
+        "sourceRole": "local sawyer",
+        "provenance": "Exact LOCKED full name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "He carried a sawyer's rule",
+          "explanation": "Explicit trade gear."
+        },
+        {
+          "quote": "carrying a wrapped book under his coat",
+          "explanation": "Family maintenance record exposed during storm."
+        }
+      ],
+      "form": "Ordinary human adult man",
+      "storyAppearance": {
+        "anatomy": "Local sawyer, coat, sawyer's rule, family-held maintenance book, later maul/wedge work. Canon leaves exact age, appearance and wider family unresolved.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation adult around55, tall thick torso, pale ruddy skin, broad square jaw, close light-gray beard and short receding dark-ash hair, blue-gray eyes. Charcoal wool knee coat over rust knit vest/cream shirt, brown work trousers and heavy black-brown boots. No hat, bag or extra weapon.",
+        "markings": "Local sawyer, coat, sawyer's rule, family-held maintenance book, later maul/wedge work. Canon leaves exact age, appearance and wider family unresolved.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation adult around55, tall thick torso, pale ruddy skin, broad square jaw, close light-gray beard and short receding dark-ash hair, blue-gray eyes. Charcoal wool knee coat over rust knit vest/cream shirt, brown work trousers and heavy black-brown boots. No hat, bag or extra weapon.",
+        "equipment": "Three views as repair-day visitor with sawyer's rule. Heads skeptical refusal and chastened cooperation; own hands with rule plus separate wrapped closed maintenance book from later storm state, no reader or archive.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation adult around55, tall thick torso, pale ruddy skin, broad square jaw, close light-gray beard and short receding dark-ash hair, blue-gray eyes. Charcoal wool knee coat over rust knit vest/cream shirt, brown work trousers and heavy black-brown boots. No hat, bag or extra weapon."
+      },
+      "explicitCanon": [
+        "Local sawyer, coat, sawyer's rule, family-held maintenance book, later maul/wedge work. Canon leaves exact age, appearance and wider family unresolved."
+      ],
+      "visualInterpretation": [
+        "Art interpretation adult around55, tall thick torso, pale ruddy skin, broad square jaw, close light-gray beard and short receding dark-ash hair, blue-gray eyes. Charcoal wool knee coat over rust knit vest/cream shirt, brown work trousers and heavy black-brown boots. No hat, bag or extra weapon.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three views as repair-day visitor with sawyer's rule. Heads skeptical refusal and chastened cooperation; own hands with rule plus separate wrapped closed maintenance book from later storm state, no reader or archive."
+        }
+      ],
+      "lighting": {
+        "moment": "Repair-day visit; book is separated later personal-object study",
+        "motivation": "Cool overcast interior daylight with muted hearth warmth"
+      },
+      "recurrence": {
+        "identityKey": "silas-cray",
+        "links": [],
+        "evidence": "Exact LOCKED identity; no specified relation to another established person."
+      },
+      "references": [
+        {
+          "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+          "role": "Inspected overcast repair-day cool light with warm hearth",
+          "notes": "Character-only lighting; no hall or ground.",
+          "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected accepted ivory folio/heavy oil rendering",
+          "notes": "Paint structure only; do not borrow character, bag or clothes.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/art/interiors/02-ancient-cask-cellar.png",
+          "role": "Inspected shaded colony discovery lamp/window light",
+          "notes": "Colony life/substrate distinction; no cask, grille, wall or scene on sheet.",
+          "sha256": "6304fc082c53fa9de83d370f1ab5f8a3ad815c5e446ccaa45b63a7b99fe28f38",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/title-image.jpg",
+          "role": "Inspected existing pale-cord visual continuity, subordinate",
+          "notes": "Dense pale network in cask is only geometry inspiration; cask is not body and omitted; repaint as heavy oil.",
+          "sha256": "8e563cf0788a078844dd835f3a2fbfb2646a4f8b6603740a19e4dc996d2b45a1",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-hollow-cask/art/characters/silas-cray.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference folio on clean light warm IVORY, exact readable large dark serif NAME and subtitle 'The Hollow Cask'. ONE named human OR one named colonial subject only, no other identities. Canadian Group of Seven HEAVY OILS: broad connected opaque colour/value masses, thick directional bristle handling and selective impasto on all flesh, face, cloth or fungal tissue; matte oil eyes/skin, no glossy digital/CGI/photographic rendering. Preserve story-specific lighting from supplied actual interior painting but OMIT its environment. No room, building, floor, ground patch, swatches, backdrop or scenic vignette. Exact human marks/attachedclothes consistent across three views; no unrequested bags/straps/pouches. Anatomy variants stated as art interpretation, no new canon. Readable concise labels.\nHeading 'Silas Cray'.\nSilas Cray, ordinary adult male SAWYER, older middle-aged visual reading around55 (canon exact age unresolved). TALL thick practical build, pale ruddy skin, broad SQUARE jaw, CLOSE short light-gray beard, short receding ash-dark hair, blue-gray matte eyes. CHARCOAL wool knee-length COAT over rust knitted vest/cream shirt, brown work trousers and heavy brown-black boots. No hat, pouch, bag, diagonal strap or weapon. Front / Right side facingRIGHT / Back all same coat/beard/proportions. Neutral-held FOLDING SAWYER'S RULE, held objects may change hands, not attached to a hip. Heads 'Refusal' and 'Chastened cooperation'. Small own-hand study of rule and separate cloth-WRAPPED CLOSED MAINTENANCE BOOK, source personal record, no readable invented page. Cool overcast repair-day lighting with soft warm hearth accents; coat stays dark, no night claim, same heavy opaque oils.",
+        "references": [
+          {
+            "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+            "role": "Inspected overcast repair-day cool light with warm hearth",
+            "notes": "Character-only lighting; no hall or ground.",
+            "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected accepted ivory folio/heavy oil rendering",
+            "notes": "Paint structure only; do not borrow character, bag or clothes.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:26:45.606227+00:00",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference folio on clean light warm IVORY, exact readable large dark serif NAME and subtitle 'The Hollow Cask'. ONE named human OR one named colonial subject only, no other identities. Canadian Group of Seven HEAVY OILS: broad connected opaque colour/value masses, thick directional bristle handling and selective impasto on all flesh, face, cloth or fungal tissue; matte oil eyes/skin, no glossy digital/CGI/photographic rendering. Preserve story-specific lighting from supplied actual interior painting but OMIT its environment. No room, building, floor, ground patch, swatches, backdrop or scenic vignette. Exact human marks/attachedclothes consistent across three views; no unrequested bags/straps/pouches. Anatomy variants stated as art interpretation, no new canon. Readable concise labels.\nHeading 'Silas Cray'.\nSilas Cray, ordinary adult male SAWYER, older middle-aged visual reading around55 (canon exact age unresolved). TALL thick practical build, pale ruddy skin, broad SQUARE jaw, CLOSE short light-gray beard, short receding ash-dark hair, blue-gray matte eyes. CHARCOAL wool knee-length COAT over rust knitted vest/cream shirt, brown work trousers and heavy brown-black boots. No hat, pouch, bag, diagonal strap or weapon. Front / Right side facingRIGHT / Back all same coat/beard/proportions. Neutral-held FOLDING SAWYER'S RULE, held objects may change hands, not attached to a hip. Heads 'Refusal' and 'Chastened cooperation'. Small own-hand study of rule and separate cloth-WRAPPED CLOSED MAINTENANCE BOOK, source personal record, no readable invented page. Cool overcast repair-day lighting with soft warm hearth accents; coat stays dark, no night claim, same heavy opaque oils.",
+            "references": [
+              {
+                "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+                "role": "Inspected overcast repair-day cool light with warm hearth",
+                "notes": "Character-only lighting; no hall or ground.",
+                "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected accepted ivory folio/heavy oil rendering",
+                "notes": "Paint structure only; do not borrow character, bag or clothes.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8ff7ae63-83ec-44ac-8fb5-a739c2d38438.png",
+            "savedPath": "stories/the-hollow-cask/art/characters/silas-cray.png",
+            "outputSha256": "1d1d80f48a89c882c714dc9baffcdcc315bb311613f3de87582139feb163fa11",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:51:22.726550+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:51:22.726550+00:00",
+        "sourceSha256": "6b2400697c8b1ff8fbaf06cdbecd97c6b23a77cd5ffcd562ebc3f8161001dd89",
+        "outputSha256": "1d1d80f48a89c882c714dc9baffcdcc315bb311613f3de87582139feb163fa11",
+        "references": [
+          {
+            "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+            "role": "Inspected overcast repair-day cool light with warm hearth",
+            "notes": "Character-only lighting; no hall or ground.",
+            "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected accepted ivory folio/heavy oil rendering",
+            "notes": "Paint structure only; do not borrow character, bag or clothes.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 consistent broad adult sawyer with close gray beard, charcoal coat/rust vest, trousers/boots; source rule held coherently, separate wrapped maintenance book.",
+          "Exact text/three views/two expressions, diffuse repair-day light and heavy connected oils, one identity, no extraneous gear or setting. Age/design stays art interpretation."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "427d436866cb5ca0c64e8aa1b4186c99a8fda3615ce0bd896fbabb91b4fee718"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "1d1d80f48a89c882c714dc9baffcdcc315bb311613f3de87582139feb163fa11"
+    },
+    {
+      "id": "the-underbreath",
+      "name": "The Underbreath",
+      "role": "Living fungal-and-mite colonial subject with preference and refusal",
+      "naming": {
+        "sourceName": "the Underbreath",
+        "sourceRole": "fungal-and-mite colony",
+        "provenance": "Exact local name; capitalized The in LOCKED character heading. No alias or invented individual mind."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Pale cords webbed the cask's broken staves",
+          "explanation": "Source fungal body."
+        },
+        {
+          "quote": "Among them moved amber mites, grain-small and glossy.",
+          "explanation": "Colony symbiont components."
+        },
+        {
+          "quote": "the colony had refused two, protected its young, and surrendered a load",
+          "explanation": "Explicit agency and central character role despite unknown cognition."
+        }
+      ],
+      "form": "Bounded nonverbal colony: pale living fungal cords and amber grain-sized mites",
+      "storyAppearance": {
+        "anatomy": "Pale cords, fresh translucent tips, fungal scar ridges over burns, amber grain-sized mites carrying damp pulp and pale brood. Novel refusal/withdrawal visible; no confirmed speech, face, individual mind or exact species. Cask is habitat, not anatomy.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation: isolated connected ivory-gray living filament web with irregular thicker tissue knots and fine tapering tips; small sepia heat-scar margins; amber oval mite bodies rendered as small opaque bristle marks with plausible eight-legged enlarged component detail. Brood rendered pale small ovals nested among same living cords. No human silhouette, mushroom head, face, eyes or monster mouth.",
+        "markings": "Pale cords, fresh translucent tips, fungal scar ridges over burns, amber grain-sized mites carrying damp pulp and pale brood. Novel refusal/withdrawal visible; no confirmed speech, face, individual mind or exact species. Cask is habitat, not anatomy.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation: isolated connected ivory-gray living filament web with irregular thicker tissue knots and fine tapering tips; small sepia heat-scar margins; amber oval mite bodies rendered as small opaque bristle marks with plausible eight-legged enlarged component detail. Brood rendered pale small ovals nested among same living cords. No human silhouette, mushroom head, face, eyes or monster mouth.",
+        "equipment": "One broad connected colony study plus smaller contracted/withdrawn state of same network; enlarged component studies for fresh tips, healed scorch ridges and mite carrying pale brood/pulp. Display specimens isolate anatomy without claiming colony naturally floats or has fixed whole-body shape. No cask-shell, wood, pipe, room or full habitat.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation: isolated connected ivory-gray living filament web with irregular thicker tissue knots and fine tapering tips; small sepia heat-scar margins; amber oval mite bodies rendered as small opaque bristle marks with plausible eight-legged enlarged component detail. Brood rendered pale small ovals nested among same living cords. No human silhouette, mushroom head, face, eyes or monster mouth."
+      },
+      "explicitCanon": [
+        "Pale cords, fresh translucent tips, fungal scar ridges over burns, amber grain-sized mites carrying damp pulp and pale brood. Novel refusal/withdrawal visible; no confirmed speech, face, individual mind or exact species. Cask is habitat, not anatomy."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: isolated connected ivory-gray living filament web with irregular thicker tissue knots and fine tapering tips; small sepia heat-scar margins; amber oval mite bodies rendered as small opaque bristle marks with plausible eight-legged enlarged component detail. Brood rendered pale small ovals nested among same living cords. No human silhouette, mushroom head, face, eyes or monster mouth.",
+        "One named colonial identity is depicted; multiple symbiont components are not an assertion of one mind. Specimen isolation is reference presentation only, not free-floating biological habit. Size relationship grain-small mites vs thread-fine cords retained; closeups clearly label magnification, no invented absolute colony dimensions."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "One broad connected colony study plus smaller contracted/withdrawn state of same network; enlarged component studies for fresh tips, healed scorch ridges and mite carrying pale brood/pulp. Display specimens isolate anatomy without claiming colony naturally floats or has fixed whole-body shape. No cask-shell, wood, pipe, room or full habitat."
+        }
+      ],
+      "lighting": {
+        "moment": "First colony discovery and later shaded viable-margin study",
+        "motivation": "Muted lamp warmth/cool damp shade, no bioluminescent glow"
+      },
+      "recurrence": {
+        "identityKey": "the-underbreath",
+        "links": [],
+        "evidence": "Exact LOCKED local colony. Internal mites/brood are components of same named ecological subject, not new named identities."
+      },
+      "references": [
+        {
+          "path": "stories/the-hollow-cask/art/interiors/01-hall-under-repair.png",
+          "role": "Inspected overcast repair-day cool light with warm hearth",
+          "notes": "Character-only lighting; no hall or ground.",
+          "sha256": "a5fd298f50b1af4320fc9017f1eb43db4d2ecbb36f5c646c65ac8f2b0bd8bba2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected accepted ivory folio/heavy oil rendering",
+          "notes": "Paint structure only; do not borrow character, bag or clothes.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/art/interiors/02-ancient-cask-cellar.png",
+          "role": "Inspected shaded colony discovery lamp/window light",
+          "notes": "Colony life/substrate distinction; no cask, grille, wall or scene on sheet.",
+          "sha256": "6304fc082c53fa9de83d370f1ab5f8a3ad815c5e446ccaa45b63a7b99fe28f38",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-hollow-cask/title-image.jpg",
+          "role": "Inspected existing pale-cord visual continuity, subordinate",
+          "notes": "Dense pale network in cask is only geometry inspiration; cask is not body and omitted; repaint as heavy oil.",
+          "sha256": "8e563cf0788a078844dd835f3a2fbfb2646a4f8b6603740a19e4dc996d2b45a1",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-hollow-cask/art/characters/the-underbreath.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Make TEXT-ONLY changes to this The Underbreath reference folio. Preserve large exact title 'The Underbreath'. Replace subtitle 'A Living Colony' with exact STORY TITLE 'The Hollow Cask'. Change the three lower study captions to 'Fresh tips (enlarged)', 'Scarred tissue (enlarged)', and 'Mite and brood (enlarged)', wrapping onto two lines if necessary. Keep 'Living network' and 'Withdrawal' unchanged. Preserve every painted fungal cord, brood, mite, light/value, layout/ivory and oil texture as closely as possible; no biological redesign, extra subject, cask, location or floor.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-dcb7ff1c-8153-44d9-82f4-f49bcf2b0084.png",
+            "sha256": "9f8f886e5bc0a7e8a442a9886f9893357ba1a3d815141fb538762a58187e5e7e",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:26:45.606227+00:00",
+            "prompt": "Use case illustration-story. ONE 1536x1024 landscape reference folio on clean light warm IVORY, exact readable large dark serif NAME and subtitle 'The Hollow Cask'. ONE named human OR one named colonial subject only, no other identities. Canadian Group of Seven HEAVY OILS: broad connected opaque colour/value masses, thick directional bristle handling and selective impasto on all flesh, face, cloth or fungal tissue; matte oil eyes/skin, no glossy digital/CGI/photographic rendering. Preserve story-specific lighting from supplied actual interior painting but OMIT its environment. No room, building, floor, ground patch, swatches, backdrop or scenic vignette. Exact human marks/attachedclothes consistent across three views; no unrequested bags/straps/pouches. Anatomy variants stated as art interpretation, no new canon. Readable concise labels.\nHeading 'The Underbreath'.\nThe Underbreath: ONE NAMED LIVING COLONY, not a person and not a building. NO human figure/head/face/eyes/mouth/limbs or mushroom caps. Main large isolated connected NETWORK OF PALE FUNGAL CORDS, thread-fine branching living filaments with irregular slightly thicker ivory-gray tissue knots. Occasional old sepia heat-scar ridges and fresh translucent tapering tips. Grain-small AMBER MITES move within this same network, small pale BROOD nest among cords; these are components of the ONE colonial subject. Show main 'Living network' occupying left half, smaller same network 'Withdrawal' contracted/receding at upper right, and three clearly labelled ENLARGED component studies below: 'Fresh tips', 'Scarred tissue', 'Mite and brood'. Enlarged amber oval adult mite with EIGHT tiny articulated legs, carrying damp pale pulp beside pale brood, scaled up only for inspection; not an unrelated giant insect. Keep main mites tiny against web. Bodies have opaque brush-stroke texture with tiny gloss accents permitted on shell, not smooth CGI. Pale network must be visible on ivory through gray-violet shaded edges and thickness, not a black background. Muted lamp amber/cool shade as source reference, NO glowing magic. Omit ALL cask, wood, stone, pipes, grille, dishes, floor, scenery or shadow patches; the cask is only habitat, never anatomy. Subject specimen studies only, no habitat vignette or frame.",
+            "references": [
+              {
+                "path": "stories/the-hollow-cask/art/interiors/02-ancient-cask-cellar.png",
+                "role": "Inspected shaded colony discovery lamp/window light",
+                "notes": "Colony life/substrate distinction; no cask, grille, wall or scene on sheet.",
+                "sha256": "6304fc082c53fa9de83d370f1ab5f8a3ad815c5e446ccaa45b63a7b99fe28f38",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected accepted ivory folio/heavy oil rendering",
+                "notes": "Paint structure only; do not borrow character, bag or clothes.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-hollow-cask/title-image.jpg",
+                "role": "Inspected existing pale-cord visual continuity, subordinate",
+                "notes": "Dense pale network in cask is only geometry inspiration; cask is not body and omitted; repaint as heavy oil.",
+                "sha256": "8e563cf0788a078844dd835f3a2fbfb2646a4f8b6603740a19e4dc996d2b45a1",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-dcb7ff1c-8153-44d9-82f4-f49bcf2b0084.png",
+            "outputSha256": "9f8f886e5bc0a7e8a442a9886f9893357ba1a3d815141fb538762a58187e5e7e",
+            "review": "Actual isolated colony, pale cords/fresh tips/scarred tissue/amber mites/brood, contracted state and heavy oil pass without cask or human anatomy. Incorrect story subtitle A Living Colony and unlabeled magnification need text-only repair."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:51:23.721521+00:00",
+            "prompt": "Make TEXT-ONLY changes to this The Underbreath reference folio. Preserve large exact title 'The Underbreath'. Replace subtitle 'A Living Colony' with exact STORY TITLE 'The Hollow Cask'. Change the three lower study captions to 'Fresh tips (enlarged)', 'Scarred tissue (enlarged)', and 'Mite and brood (enlarged)', wrapping onto two lines if necessary. Keep 'Living network' and 'Withdrawal' unchanged. Preserve every painted fungal cord, brood, mite, light/value, layout/ivory and oil texture as closely as possible; no biological redesign, extra subject, cask, location or floor.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-dcb7ff1c-8153-44d9-82f4-f49bcf2b0084.png",
+                "sha256": "9f8f886e5bc0a7e8a442a9886f9893357ba1a3d815141fb538762a58187e5e7e",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cd838086-fedd-4074-b29e-6a8abd101951.png",
+            "savedPath": "stories/the-hollow-cask/art/characters/the-underbreath.png",
+            "outputSha256": "82b3387ddc9c15902b8b3b33465110c0a390af0ad2e3a4734dac00d35eaeb6a4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:56:51.760708+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:56:51.760708+00:00",
+        "sourceSha256": "6b2400697c8b1ff8fbaf06cdbecd97c6b23a77cd5ffcd562ebc3f8161001dd89",
+        "outputSha256": "82b3387ddc9c15902b8b3b33465110c0a390af0ad2e3a4734dac00d35eaeb6a4",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-dcb7ff1c-8153-44d9-82f4-f49bcf2b0084.png",
+            "sha256": "9f8f886e5bc0a7e8a442a9886f9893357ba1a3d815141fb538762a58187e5e7e",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2 displays one named colonial subject as a connected pale fungal cord network, same contracted withdrawal form, old scar ridge, fresh translucent tips, grain-scale amber mites and pale brood; no invented human face, body or individual mind.",
+          "Components clearly labelled enlarged, exact The Hollow Cask subtitle corrected. No cask/wood/cellar/ground; ivory remains clean, gray-violet shaded cords legible and opaque-bristle body surfaces match oil vocabulary, tiny mite shell highlights preserve source gloss."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "0fe7c4c9e3da28a4cbe037c8b24d46869b61a21f9423ac07b7c9a889c62bc2d3"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished prose and LOCKED bounded-colony authority read. Fungal cords+mites/brood support visible biology; no anthropomorphic mind/body invented. Actual pale network and cellar lighting inspected; isolated specimens feasible without cask/habitat montage; component labels separate magnification from scale."
+      },
+      "outputSha256": "82b3387ddc9c15902b8b3b33465110c0a390af0ad2e3a4734dac00d35eaeb6a4"
+    }
+  ]
+}
