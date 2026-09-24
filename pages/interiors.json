@@ -7888,6 +7888,51 @@
       ]
     },
     {
+      "slug": "the-place-laid-for-her",
+      "title": "The Place Laid for Her",
+      "reader": "stories/the-place-laid-for-her.html",
+      "images": [
+        {
+          "id": "ousel-room-dining-room",
+          "title": "Ousel room dining room",
+          "alt": "Ousel room dining room — oil interior study for The Place Laid for Her",
+          "source": "stories/the-place-laid-for-her/art/interiors/ousel-room-dining-room.png",
+          "sourceSha256": "4935f3a0d42c5466709a9e98a06d86baa611f0577431e3aa6d2258c3a1fdf964",
+          "full": {
+            "path": "interiors/the-place-laid-for-her/ousel-room-dining-room-4935f3a0d42c5466.webp",
+            "sha256": "9b16305b2842234e0a7eb23868704ebd5623d40bd6e75a14a2fc8072abd90686",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-place-laid-for-her/ousel-room-dining-room-4935f3a0d42c5466-thumb.webp",
+            "sha256": "b3dc4a07d5ffdc0051a2d1a39eeddff53487630907c8ff70127b7888a02d3666",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ousel-room-entrance-lobby",
+          "title": "Ousel room entrance lobby",
+          "alt": "Ousel room entrance lobby — oil interior study for The Place Laid for Her",
+          "source": "stories/the-place-laid-for-her/art/interiors/ousel-room-entrance-lobby.png",
+          "sourceSha256": "360b041d88b8875837e06aa2a08c27caaca441f016a303bf94146e6609c93ef5",
+          "full": {
+            "path": "interiors/the-place-laid-for-her/ousel-room-entrance-lobby-360b041d88b88758.webp",
+            "sha256": "3bbfa4927e9648d54031a77a3f0aea0ca7def17ff1392d6340c24eef95a9cfeb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "interiors/the-place-laid-for-her/ousel-room-entrance-lobby-360b041d88b88758-thumb.webp",
+            "sha256": "087e7de122d0c39c4f4cd97812ba4b264d582ab315e9b76003de51a559c451ce",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-players-above",
       "title": "The Players Above",
       "reader": "stories/the-players-above.html",

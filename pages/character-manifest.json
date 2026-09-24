@@ -1502,6 +1502,11 @@
       "source": "stories/yavrens-return/story.md",
       "specification": "pages/character-specs/yavrens-return.json",
       "inventoryBatch": 5
+    },
+    {
+      "slug": "the-place-laid-for-her",
+      "source": "stories/the-place-laid-for-her/story.md",
+      "specification": "pages/character-specs/the-place-laid-for-her.json"
     }
   ],
   "checkpoint": {
