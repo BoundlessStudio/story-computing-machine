@@ -1,0 +1,600 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-lions-last-constellation",
+  "title": "The Lion's Last Constellation",
+  "source": "stories/the-lions-last-constellation/story.md",
+  "sourceSha256": "8c713564ca37bb38d079b73f592c7c0d04f94c5e8a695479981c7983326342cb",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source, prompt and PASS review read after false marker. Myrine/Kletho enact entire battle and shared-credit relationship; adaptive lion is central antagonist with sustained individual behavior. Three qualifying identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Council and water carriers",
+      "reason": "Offstage referred institutional/crowd roles, not individualized main characters."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority and non-canon source-local facts"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Myrine, Kletho and Lystrion collision/recurrence search: no matching identity outside named source"
+      ]
+    }
+  ],
+  "referenceInputs": [],
+  "referenceInputAssessment": "Prompt records no supplied originals. Actual cover, cave interior and orchard landscape inspected; approved style sheet inspected. Source overrides cover shoulder guard side and decorative star count.",
+  "characters": [
+    {
+      "id": "myrine",
+      "name": "Myrine",
+      "role": "Magical-girl slayer and viewpoint protagonist",
+      "selectionEvidence": [
+        {
+          "quote": "Seven points kindle along the sash.",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "Your right knee is turning in",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "Youâ€”your left shoulder. You set it.",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "Without the lights, your battle dress loosens into torn work clothes.",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Human girl; work dress transforms to white pleats edged red, wine-red sash with exactly seven finite lights, bronze-colored radiance guards LEFT shoulder and laces sandals to knee.",
+          "Right-knee injury and left shoulder/arm wound during fight, no permanent magical armor after lights expire; shoulder bound after battle. No invented healed body or surviving magic after final light."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Human girl; work dress transforms to white pleats edged red, wine-red sash with exactly seven finite lights, bronze-colored radiance guards LEFT shoulder and laces sandals to knee.",
+        "Source-local non-canon fact: Right-knee injury and left shoulder/arm wound during fight, no permanent magical armor after lights expire; shoulder bound after battle. No invented healed body or surviving magic after final light."
+      ],
+      "visualInterpretation": [
+        "Late-teen athletic human, warm olive skin, dark brown eyes, long loose dark brown hair from source cover; simple fine bronze leaf hairband retained as cover interpretation, not new power.",
+        "Ordinary work clothes interpreted as plain grey-brown long linen dress with modest torn outer hem; restrained injury indication no gore."
+      ],
+      "states": [
+        {
+          "name": "Source moments",
+          "description": "Heading Myrine. ONE late-teen athletic HUMAN girl, warm olive skin/dark brown eyes, long dark-brown loose waves and fine simple bronze leaf hairband. LEFT full Front: Fresh transformation, white pleated calf-length modest work-derived battle dress with RED edging, wine-red sash from right shoulder across heart to left hip and hanging tail. EXACTLY SEVEN small white luminous points total distributed clearly along this ONE sash; no other stars/sparks. ONE bronze-radiance shoulder guard on her anatomical LEFT shoulder, viewerRIGHT in front; no guard on right. Bronze luminous sandal laces up to knees. Full figure2 After the lights: SAME girl in torn plain grey-brown modest linen work dress, NO luminous points, NO armor, NO glow, LEFT shoulder bound with plain linen, right knee gingerly bent with weight off it, both legs/feet intact. This later state clearly separate, not hybrid. Two head/shoulder portraits Self-assured and Exhausted, corresponding states. Face/hair bold matte oil planes under dim cool night; early sash gives only small light, not whole-body glow. Do NOT include lion, bow, weapon, fighting scene, separate hands or anatomical diagrams."
+        }
+      ],
+      "naming": {
+        "sourceName": "Myrine",
+        "provenance": "Exact finished-source proper name."
+      },
+      "recurrence": {
+        "identityKey": "the-lions-last-constellation:myrine",
+        "links": [],
+        "evidence": "No supported matching shared identity; no myth-based import from other texts."
+      },
+      "references": [
+        {
+          "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+          "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+          "inspected": true,
+          "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+        },
+        {
+          "path": "stories/the-lions-last-constellation/title-image.jpg",
+          "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+          "inspected": true,
+          "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+        }
+      ],
+      "output": "stories/the-lions-last-constellation/art/characters/myrine.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached Myrine sheet1 preserving identity/face, left shoulder guard, posture, anatomy, dress and source states. THREE fixes only: (1) Front figure sash currently has SIX stars; add exactly ONE small white point on hanging sash below hip so that front has SEVEN total; rear already SEVEN so preserve count. No extra sparks; aftermath figure and exhausted portrait remain without magic. (2) Source is DEEP NIGHT, not day. Repaint all figures/heads with majority form in connected deep cool blue-grey shadows, restricted cool moonlit planes. White dress goes dim blue-grey in shadow; only sash points can add small localized light, NO broad sunlight/gold exposure. Keep faces broad opaque matte oil paint. (3) Remove ALL blue-gray ground marks beneath feet and blue paint BACKDROPS behind portraits, leaving those areas and every gap the same LIGHT IVORY. Do not remove character hair/skin. Add short clear labels beneath full figures 'Fresh transformation', 'Back', 'After the lights' without overlapping feet. No hand studies, scenes or new objects.1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4dff5774-4c11-49e4-b028-5a9c11b5c5f0.png",
+            "sha256": "f536b2c31e85ba228eb47d7d0ab5f834d7afa3da32a272c5962c83d15a4f74d0",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET for ONE identity. Light warm IVORY page and every gap. Exact readable name heading and smaller title The Lion's Last Constellation. Two useful complete unclipped body views/states plus two expressive portraits; NO isolated hand studies, scenery, ground/shadows, swatches, palette, other characters or notes on age/race. HEAVY MATTE SCULPTED OIL painting in Canadian Group of Seven collection: broad CONNECTED interlocking opaque forms, decisive directional knife/bristle masses, quiet joins and selected raised impasto. FACES must be equally bold tactile painted planes, not photographic/anime/CG underneath texture. Ref1 primary paint; ref2 approved paint only not subject; ref3 only individual source design. Source is NIGHT: most form/face held in dim cool blue-grey connected shadow, restricted light from moon and any explicitly described magic. Avoid generic sunny gold exposure. Story-specific cloth/fur/skin material strokes. Heading Myrine. ONE late-teen athletic HUMAN girl, warm olive skin/dark brown eyes, long dark-brown loose waves and fine simple bronze leaf hairband. LEFT full Front: Fresh transformation, white pleated calf-length modest work-derived battle dress with RED edging, wine-red sash from right shoulder across heart to left hip and hanging tail. EXACTLY SEVEN small white luminous points total distributed clearly along this ONE sash; no other stars/sparks. ONE bronze-radiance shoulder guard on her anatomical LEFT shoulder, viewerRIGHT in front; no guard on right. Bronze luminous sandal laces up to knees. Full figure2 After the lights: SAME girl in torn plain grey-brown modest linen work dress, NO luminous points, NO armor, NO glow, LEFT shoulder bound with plain linen, right knee gingerly bent with weight off it, both legs/feet intact. This later state clearly separate, not hybrid. Two head/shoulder portraits Self-assured and Exhausted, corresponding states. Face/hair bold matte oil planes under dim cool night; early sash gives only small light, not whole-body glow. Do NOT include lion, bow, weapon, fighting scene, separate hands or anatomical diagrams.",
+            "references": [
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/title-image.jpg",
+                "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+                "inspected": true,
+                "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+              }
+            ],
+            "preparedAt": "2026-09-24T11:34:10.179769+00:00",
+            "preflight": "Full source and actual selected references checked; two states separated, source finite lights/injury sides retained where explicit; no isolated hand studies under latest user steering. Cover conflicts recorded and overridden by prose.",
+            "submittedAt": "2026-09-24T11:35:23.122013+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4dff5774-4c11-49e4-b028-5a9c11b5c5f0.png",
+            "candidateSha256": "f536b2c31e85ba228eb47d7d0ab5f834d7afa3da32a272c5962c83d15a4f74d0",
+            "reviewedAt": "2026-09-24T11:42:16.709431+00:00",
+            "findings": "Rendered character forms strong, but source night light too bright, colored floor/portrait backdrop patches prohibited, front sash only six light points; exact source seven required."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit attached Myrine sheet1 preserving identity/face, left shoulder guard, posture, anatomy, dress and source states. THREE fixes only: (1) Front figure sash currently has SIX stars; add exactly ONE small white point on hanging sash below hip so that front has SEVEN total; rear already SEVEN so preserve count. No extra sparks; aftermath figure and exhausted portrait remain without magic. (2) Source is DEEP NIGHT, not day. Repaint all figures/heads with majority form in connected deep cool blue-grey shadows, restricted cool moonlit planes. White dress goes dim blue-grey in shadow; only sash points can add small localized light, NO broad sunlight/gold exposure. Keep faces broad opaque matte oil paint. (3) Remove ALL blue-gray ground marks beneath feet and blue paint BACKDROPS behind portraits, leaving those areas and every gap the same LIGHT IVORY. Do not remove character hair/skin. Add short clear labels beneath full figures 'Fresh transformation', 'Back', 'After the lights' without overlapping feet. No hand studies, scenes or new objects.1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4dff5774-4c11-49e4-b028-5a9c11b5c5f0.png",
+                "sha256": "f536b2c31e85ba228eb47d7d0ab5f834d7afa3da32a272c5962c83d15a4f74d0",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:42:16.709483+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-b700e7c7-b14e-4418-a84a-e79c7f3100db.png",
+            "candidateSha256": "98280746d502a4fc423e7a08e7a3d8e8b0b7e3c60d142f269a614fda17388bdd",
+            "reviewedAt": "2026-09-24T11:56:37.074560+00:00",
+            "findings": [
+              "Actual corrected pixels inspected: same dark-haired protagonist, exact source LEFT shoulder guard, white red-edged pleats and wine-red sash; SEVEN light points in each intact transformed view.",
+              "Separate aftermath has torn plain work dress and bound shoulder, no light points/armor; right-knee protective stance retained. No hybrid magical/recovery state.",
+              "Corrected deep cool night light, broad matte connected oils on faces and bodies, clear ivory gaps without floor or portrait backdrops. Legible exact name/title and state labels, full silhouettes, no hand studies."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "98280746d502a4fc423e7a08e7a3d8e8b0b7e3c60d142f269a614fda17388bdd",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:56:37.077328+00:00",
+        "sourceSha256": "8c713564ca37bb38d079b73f592c7c0d04f94c5e8a695479981c7983326342cb",
+        "outputSha256": "98280746d502a4fc423e7a08e7a3d8e8b0b7e3c60d142f269a614fda17388bdd",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4dff5774-4c11-49e4-b028-5a9c11b5c5f0.png",
+            "sha256": "f536b2c31e85ba228eb47d7d0ab5f834d7afa3da32a272c5962c83d15a4f74d0",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: same dark-haired protagonist, exact source LEFT shoulder guard, white red-edged pleats and wine-red sash; SEVEN light points in each intact transformed view.",
+          "Separate aftermath has torn plain work dress and bound shoulder, no light points/armor; right-knee protective stance retained. No hybrid magical/recovery state.",
+          "Corrected deep cool night light, broad matte connected oils on faces and bodies, clear ivory gaps without floor or portrait backdrops. Legible exact name/title and state labels, full silhouettes, no hand studies."
+        ],
+        "specificationSha256": "a004610396d239f79045a316cebc84e5f18bfcd738771f5353dbfe7b8b287c69"
+      }
+    },
+    {
+      "id": "kletho",
+      "name": "Kletho",
+      "role": "Constellation witness, former training rival and active battle partner",
+      "selectionEvidence": [
+        {
+          "quote": "tightening the witness cord around your wrist",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "wax tablet at her belt",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "above her braid",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "writes with her hairpin",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Human girl, former training rival; one braid, hairpin used to write surviving wax, tablet at belt with cord; witness wrist cord released in cave.",
+          "She throws stones, suffers split sleeve/scored arm and swollen ankle; survives and writes shared-credit account. Injury sides unspecified, no magical aura."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Human girl, former training rival; one braid, hairpin used to write surviving wax, tablet at belt with cord; witness wrist cord released in cave.",
+        "Source-local non-canon fact: She throws stones, suffers split sleeve/scored arm and swollen ankle; survives and writes shared-credit account. Injury sides unspecified, no magical aura."
+      ],
+      "visualInterpretation": [
+        "Late-teen wiry human, copper-brown skin, dark eyes, angular cheekbones, long dark auburn hair in a single braid; no source cover depiction so distinct new appearance, not copied Myrine.",
+        "Dusty blue practical tunic and unbleached skirt are art interpretation. Selected after-state places simple arm bandage on LEFT forearm; prose leaves side unspecified. No speculative side correction made. Ordinary weary stance, intact limbs."
+      ],
+      "states": [
+        {
+          "name": "Before",
+          "description": "Intact tablet/witness cord and precise attention"
+        },
+        {
+          "name": "After",
+          "description": "Torn sleeve, simple arm bandage and small wax remnant/hairpin; source leaves injury side unspecified."
+        }
+      ],
+      "naming": {
+        "sourceName": "Kletho",
+        "provenance": "Exact finished-source proper name."
+      },
+      "recurrence": {
+        "identityKey": "the-lions-last-constellation:kletho",
+        "links": [],
+        "evidence": "No supported matching shared identity; no myth-based import from other texts."
+      },
+      "references": [
+        {
+          "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+          "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+          "inspected": true,
+          "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+        },
+        {
+          "path": "stories/the-lions-last-constellation/title-image.jpg",
+          "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+          "inspected": true,
+          "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+        }
+      ],
+      "output": "stories/the-lions-last-constellation/art/characters/kletho.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached Kletho sheet1 only lighting/presentation. Preserve identity, face, hair, blue/cream clothes, wax tablet and witness cord in first view, torn sleeve/bandage and small wax sliver in second, ALL anatomy exactly as now. Source is DIM NIGHT: most face/body connected deep cool blue-grey shadows, very restrained cool moon highlights, NO warm sunlight or golden studio exposure. Paint flesh in broad matte opaque oil planes with selective impasto. Keep LIGHT WARM IVORY page completely clear, remove small floor shadows under feet. Add clear short labels 'Before' under left full figure and 'After' under middle full figure. Do not correct or add hands, limbs or side labels. No scene, swatches or objects.1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-8c6d9ca3-ba7b-43d2-8918-b205ee35be6d.png",
+            "sha256": "9bfb6508aa4de39f1d097db1b3c5f151f3f7a75ed6190ba9cfc1fc938946af65",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET for ONE identity. Light warm IVORY page and every gap. Exact readable name heading and smaller title The Lion's Last Constellation. Two useful complete unclipped body views/states plus two expressive portraits; NO isolated hand studies, scenery, ground/shadows, swatches, palette, other characters or notes on age/race. HEAVY MATTE SCULPTED OIL painting in Canadian Group of Seven collection: broad CONNECTED interlocking opaque forms, decisive directional knife/bristle masses, quiet joins and selected raised impasto. FACES must be equally bold tactile painted planes, not photographic/anime/CG underneath texture. Ref1 primary paint; ref2 approved paint only not subject; ref3 only individual source design. Source is NIGHT: most form/face held in dim cool blue-grey connected shadow, restricted light from moon and any explicitly described magic. Avoid generic sunny gold exposure. Story-specific cloth/fur/skin material strokes. Heading Kletho. ONE late-teen wiry HUMAN girl, distinct copper-brown skin/dark eyes/angular cheekbones, long dark AUBURN hair in ONE practical braid, simple visible hairpin. No likeness borrowed from cover or approved style woman. Full Front Before: dusty muted BLUE long-sleeve knee-length tunic over cream calf-length skirt, plain belt, worn sandals. Ordinary wax tablet in wooden frame hangs at belt by cord; witness cord loosely looped at wrist with coiled free end, not connected to another person. Full three-quarter After: same dusty clothes now rumpled/torn sleeve, small cloth bandage on RIGHT forearm, tablet reduced to a SMALL WAX SLIVER held at waist with hairpin, no intact tablet in this state, both legs intact slightly weary uneven stance. Non-graphic no blood. Two head portraits Exacting and Afraid. Subdued blue night shadow, cool moon planes, no magical light/halo/weapon/regalia. No separated hand study or other person.",
+            "references": [
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/title-image.jpg",
+                "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+                "inspected": true,
+                "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+              }
+            ],
+            "preparedAt": "2026-09-24T11:34:10.179798+00:00",
+            "preflight": "Full source and actual selected references checked; two states separated, source finite lights/injury sides retained where explicit; no isolated hand studies under latest user steering. Cover conflicts recorded and overridden by prose.",
+            "submittedAt": "2026-09-24T11:35:23.122748+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-8c6d9ca3-ba7b-43d2-8918-b205ee35be6d.png",
+            "candidateSha256": "9bfb6508aa4de39f1d097db1b3c5f151f3f7a75ed6190ba9cfc1fc938946af65",
+            "reviewedAt": "2026-09-24T11:42:16.765599+00:00",
+            "findings": "Useful identity/state separation, but figures broadly lit rather than night and slight foot shadows; injury side unspecified by prose so retain actual selected side."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit attached Kletho sheet1 only lighting/presentation. Preserve identity, face, hair, blue/cream clothes, wax tablet and witness cord in first view, torn sleeve/bandage and small wax sliver in second, ALL anatomy exactly as now. Source is DIM NIGHT: most face/body connected deep cool blue-grey shadows, very restrained cool moon highlights, NO warm sunlight or golden studio exposure. Paint flesh in broad matte opaque oil planes with selective impasto. Keep LIGHT WARM IVORY page completely clear, remove small floor shadows under feet. Add clear short labels 'Before' under left full figure and 'After' under middle full figure. Do not correct or add hands, limbs or side labels. No scene, swatches or objects.1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-8c6d9ca3-ba7b-43d2-8918-b205ee35be6d.png",
+                "sha256": "9bfb6508aa4de39f1d097db1b3c5f151f3f7a75ed6190ba9cfc1fc938946af65",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:42:16.765636+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-52cea120-51bb-4747-821b-960cad6a3bf6.png",
+            "candidateSha256": "8f750b3f1c22d52c5498dcdde6a499af7793ad753df825a3da35a49f625ef08e",
+            "reviewedAt": "2026-09-24T11:56:37.141274+00:00",
+            "findings": [
+              "Actual corrected pixels inspected: distinct auburn-braided witness with blue/cream clothes and clear before/after states. Intact tablet/cord before; wax fragment and torn/bound sleeve after, no magical aura.",
+              "Source does not specify injury side; selected left-arm bandage recorded as interpretation and left unchanged. No hand studies or speculative side exercises.",
+              "Dim cool moonlit figure illumination and broad connected opaque facial paint, full unclipped silhouettes, readable name/title and state labels, ivory without scene/ground/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "8f750b3f1c22d52c5498dcdde6a499af7793ad753df825a3da35a49f625ef08e",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:56:37.143403+00:00",
+        "sourceSha256": "8c713564ca37bb38d079b73f592c7c0d04f94c5e8a695479981c7983326342cb",
+        "outputSha256": "8f750b3f1c22d52c5498dcdde6a499af7793ad753df825a3da35a49f625ef08e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-8c6d9ca3-ba7b-43d2-8918-b205ee35be6d.png",
+            "sha256": "9bfb6508aa4de39f1d097db1b3c5f151f3f7a75ed6190ba9cfc1fc938946af65",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: distinct auburn-braided witness with blue/cream clothes and clear before/after states. Intact tablet/cord before; wax fragment and torn/bound sleeve after, no magical aura.",
+          "Source does not specify injury side; selected left-arm bandage recorded as interpretation and left unchanged. No hand studies or speculative side exercises.",
+          "Dim cool moonlit figure illumination and broad connected opaque facial paint, full unclipped silhouettes, readable name/title and state labels, ivory without scene/ground/swatches."
+        ],
+        "specificationSha256": "57acef9dde51fa26e4d78136bfff044948c52cb911c240c006822f2c221061a2"
+      }
+    },
+    {
+      "id": "lystrion",
+      "name": "Lystrion",
+      "role": "The source Nemean Lion, central adaptive predator",
+      "selectionEvidence": [
+        {
+          "quote": "Dust has dulled its pelt to old straw",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "Its shoulders nearly reach yours.",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "four claws shear the air",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        },
+        {
+          "quote": "The lion's pelt bears no mark.",
+          "explanation": "Exact finished-source evidence for enacted role, form or state."
+        }
+      ],
+      "form": "Natural quadrupedal lion",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed Nemean Lion; huge natural lion form, shoulders nearly human shoulder height; old-straw dust-dulled pelt, burrs in mane, pale long sharp claws and armor-breaking teeth.",
+          "Intact impervious pelt without wounds/scars even after lethal non-weapon throat hold; adaptive gaze tracking witness and lights, not a speaking humanoid."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed Nemean Lion; huge natural lion form, shoulders nearly human shoulder height; old-straw dust-dulled pelt, burrs in mane, pale long sharp claws and armor-breaking teeth.",
+        "Source-local non-canon fact: Intact impervious pelt without wounds/scars even after lethal non-weapon throat hold; adaptive gaze tracking witness and lights, not a speaking humanoid."
+      ],
+      "visualInterpretation": [
+        "Art-only name Lystrion assigned under explicit user naming instruction; existing Nemean Lion role preserved. No divine human form, zodiac accessories or connection to other lions inferred.",
+        "Mature male lion anatomy: four legs/paws, two round ears, single long tufted tail, broad shoulders and deep tawny mane with burrs. Amber eyes and facial shape echo source cover, dust-muted flesh/fur not metallic gold."
+      ],
+      "states": [
+        {
+          "name": "Source moments",
+          "description": "Heading Lystrion. Smaller role line Nemean Lion above exact story title. ONE huge natural MALE LION, full quadrupedal animal anatomy: FOUR legs/paws, TWO round ears, ONE long tufted tail; high broad shoulders nearly human shoulder-height but no other human included. Old-STRAW dusty tawny pelt and massive deeper ochre-brown mane with a few small burrs; amber eyes, black nose/lips. Lion face shaped like cover but NO metallic golden sculpture. Large whole Side view: deliberate stalking lowered head, all four legs arranged legibly, complete tail. Smaller whole three-quarter Watchful pose, shoulders powerful. Two large head expressions Watching and Jaws: latter open enough to show enormous ordinary lion canine teeth and dark mouth, no gore, no extra rows/fangs. Short accurate label Shoulder: near human shoulder-height, no numerical measurement. Pale extended front claws long/sharp but normal lion paw anatomy. Pelt unscarred, no arrowholes, burns or blood. NIGHT dim blue/cool shadows dominate fur with limited moonlit planes; broad MATTE oil mane clumps not tiny photoreal fur. No clothes/harness/crown, no human anatomy or hand studies."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Nemean Lion",
+        "artOnlyName": "Lystrion",
+        "provenance": "New distinctive art-only reference name authorized by user. rg exact name over universe/stories/specs returned no match before creation; no source/canon change."
+      },
+      "recurrence": {
+        "identityKey": "the-lions-last-constellation:lystrion",
+        "links": [],
+        "evidence": "No supported matching shared identity; no myth-based import from other texts."
+      },
+      "references": [
+        {
+          "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+          "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+          "inspected": true,
+          "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+        },
+        {
+          "path": "stories/the-lions-last-constellation/title-image.jpg",
+          "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+          "inspected": true,
+          "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+        }
+      ],
+      "output": "stories/the-lions-last-constellation/art/characters/lystrion.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached Lystrion character sheet1 ONLY LIGHTING. Keep exact name/Nemean Lion/source-title/scale note, all natural lion anatomy, four legs/two ears/one tail, intact straw-tawny pelt, burrs, mane, teeth/claws and composition. This is a DIM NIGHT predator: TWO THIRDS or more of each body/head should be connected DEEP COOL BLUE-BROWN shadow, with only small muted cool moonlight planes; NO warm sunshine or metallic golden illumination. Fur remains natural dusty straw-color material viewed in dark, not black material. Broad connected MATTE oil mane and flesh masses, selective raised bristles; no tiny detailed realistic fur. Page remains LIGHT WARM IVORY, no ground, shadows outside animal, scenes or swatches.1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-0e36ba50-9e7c-424b-9c27-392e8f1fc747.png",
+            "sha256": "24016de0e5806258c2d8b85b0fb14f6b029f0bf847768d0574c9544cb2f3e495",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET for ONE identity. Light warm IVORY page and every gap. Exact readable name heading and smaller title The Lion's Last Constellation. Two useful complete unclipped body views/states plus two expressive portraits; NO isolated hand studies, scenery, ground/shadows, swatches, palette, other characters or notes on age/race. HEAVY MATTE SCULPTED OIL painting in Canadian Group of Seven collection: broad CONNECTED interlocking opaque forms, decisive directional knife/bristle masses, quiet joins and selected raised impasto. FACES must be equally bold tactile painted planes, not photographic/anime/CG underneath texture. Ref1 primary paint; ref2 approved paint only not subject; ref3 only individual source design. Source is NIGHT: most form/face held in dim cool blue-grey connected shadow, restricted light from moon and any explicitly described magic. Avoid generic sunny gold exposure. Story-specific cloth/fur/skin material strokes. Heading Lystrion. Smaller role line Nemean Lion above exact story title. ONE huge natural MALE LION, full quadrupedal animal anatomy: FOUR legs/paws, TWO round ears, ONE long tufted tail; high broad shoulders nearly human shoulder-height but no other human included. Old-STRAW dusty tawny pelt and massive deeper ochre-brown mane with a few small burrs; amber eyes, black nose/lips. Lion face shaped like cover but NO metallic golden sculpture. Large whole Side view: deliberate stalking lowered head, all four legs arranged legibly, complete tail. Smaller whole three-quarter Watchful pose, shoulders powerful. Two large head expressions Watching and Jaws: latter open enough to show enormous ordinary lion canine teeth and dark mouth, no gore, no extra rows/fangs. Short accurate label Shoulder: near human shoulder-height, no numerical measurement. Pale extended front claws long/sharp but normal lion paw anatomy. Pelt unscarred, no arrowholes, burns or blood. NIGHT dim blue/cool shadows dominate fur with limited moonlit planes; broad MATTE oil mane clumps not tiny photoreal fur. No clothes/harness/crown, no human anatomy or hand studies.",
+            "references": [
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto paint and ivory sheet treatment only; NEVER donor identity, face, costume, floor, landscape or swatches."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/title-image.jpg",
+                "sha256": "eac31a6bb3f872051865e43acf568d2f28140e362d85f806588b355601d0066d",
+                "inspected": true,
+                "role": "Subordinate same-story identity: Myrine long dark hair/white red-edged battle dress/wine-red sash and lion golden-straw coloring. Source overrides cover opposite shoulder guard and decorative light count; no flat anime finish."
+              }
+            ],
+            "preparedAt": "2026-09-24T11:34:10.179809+00:00",
+            "preflight": "Full source and actual selected references checked; two states separated, source finite lights/injury sides retained where explicit; no isolated hand studies under latest user steering. Cover conflicts recorded and overridden by prose.",
+            "submittedAt": "2026-09-24T11:35:23.123395+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-0e36ba50-9e7c-424b-9c27-392e8f1fc747.png",
+            "candidateSha256": "24016de0e5806258c2d8b85b0fb14f6b029f0bf847768d0574c9544cb2f3e495",
+            "reviewedAt": "2026-09-24T11:42:16.806505+00:00",
+            "findings": "Lion anatomy, identity and shoulder scale good; pelt lighting broadly gold/daylit rather than source night."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit attached Lystrion character sheet1 ONLY LIGHTING. Keep exact name/Nemean Lion/source-title/scale note, all natural lion anatomy, four legs/two ears/one tail, intact straw-tawny pelt, burrs, mane, teeth/claws and composition. This is a DIM NIGHT predator: TWO THIRDS or more of each body/head should be connected DEEP COOL BLUE-BROWN shadow, with only small muted cool moonlight planes; NO warm sunshine or metallic golden illumination. Fur remains natural dusty straw-color material viewed in dark, not black material. Broad connected MATTE oil mane and flesh masses, selective raised bristles; no tiny detailed realistic fur. Page remains LIGHT WARM IVORY, no ground, shadows outside animal, scenes or swatches.1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-0e36ba50-9e7c-424b-9c27-392e8f1fc747.png",
+                "sha256": "24016de0e5806258c2d8b85b0fb14f6b029f0bf847768d0574c9544cb2f3e495",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+                "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:42:16.806541+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-afb27861-8920-4ad2-9fa6-4a892b341b49.png",
+            "candidateSha256": "e6a07cbb631e92bf26b1df424875fa6e2ca4ae4b639ad9c6872640a4ed2892cd",
+            "reviewedAt": "2026-09-24T11:56:37.160184+00:00",
+            "findings": [
+              "Actual corrected pixels inspected: huge natural male lion, four legs/two ears/one tail in each body view, old-straw pelt with ochre mane, pale long claws, ordinary large canine teeth and natural amber eyes.",
+              "Intact unmarked pelt and purposeful watchful/prowling states preserve adaptive predator role; art-only name explicitly distinguished in spec and sheet secondary role identifies Nemean Lion.",
+              "Dim connected cool night shadow across fur with restrained moon planes; broad directional matte oil masses, readable title/name and source-relative scale note, no human anatomy/location/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "e6a07cbb631e92bf26b1df424875fa6e2ca4ae4b639ad9c6872640a4ed2892cd",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:56:37.162173+00:00",
+        "sourceSha256": "8c713564ca37bb38d079b73f592c7c0d04f94c5e8a695479981c7983326342cb",
+        "outputSha256": "e6a07cbb631e92bf26b1df424875fa6e2ca4ae4b639ad9c6872640a4ed2892cd",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-0e36ba50-9e7c-424b-9c27-392e8f1fc747.png",
+            "sha256": "24016de0e5806258c2d8b85b0fb14f6b029f0bf847768d0574c9544cb2f3e495",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-lions-last-constellation/art/interiors/01-the-cistern-cave.png",
+            "sha256": "9e1309a7f1d6a41d2acd0b03dc9109d0366d53aaebae80e2ad7c575f713b9ffc",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven matte oil treatment and cool deep moonlit cave shadows; no location copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: huge natural male lion, four legs/two ears/one tail in each body view, old-straw pelt with ochre mane, pale long claws, ordinary large canine teeth and natural amber eyes.",
+          "Intact unmarked pelt and purposeful watchful/prowling states preserve adaptive predator role; art-only name explicitly distinguished in spec and sheet secondary role identifies Nemean Lion.",
+          "Dim connected cool night shadow across fur with restrained moon planes; broad directional matte oil masses, readable title/name and source-relative scale note, no human anatomy/location/swatches."
+        ],
+        "specificationSha256": "34413a169a1f778c6228b25ff53281822321bb90df9f504acc11c70ba2ab4e95"
+      }
+    }
+  ]
+}
