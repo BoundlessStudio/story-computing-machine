@@ -1,0 +1,1293 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-first-kingdom-was-late-on-taxes",
+  "title": "Where the Mountain Used to Be",
+  "source": "stories/the-first-kingdom-was-late-on-taxes/story.md",
+  "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished source and full prompt/review read. Five named central organisers plus recurring preservation official shaping central opposition and upper-lane widow whose repeated burial custody decisions shape major scenes: seven main identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Cooper",
+      "reason": "Recurring supporting comic/social voice and one practical latrine correction, but no sustained independent objective or central decision arc; remains secondary to seven chosen organisers/opposition/claimant."
+    },
+    {
+      "name": "Adjudicator, east-house owner, runners, patients, healers, drovers and other villagers/officials",
+      "reason": "Brief supporting/functional interactions without sustained individual arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency; local one-time deep-time displacement no universal travel rule"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No named shared identity found; source review says new"
+      ]
+    }
+  ],
+  "referenceInputs": [],
+  "referenceInputAssessment": "Recorded original prompt has no image inventory; rewrite explicitly says none supplied. Source cover and same-story generated art inspected as visual inputs, not originals/canon.",
+  "characters": [
+    {
+      "id": "ormela",
+      "name": "Ormela",
+      "role": "Village tax reeve and focal organiser",
+      "selectionEvidence": [
+        {
+          "quote": "Ormela woke beneath the table",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "She tucked the bundle inside her coat",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "I'm the tax reeve.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Ormela poured to the chalk line Belkin had marked",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, no fixed age/features; ordinary tired worker, not ruler.",
+        "clothing": "Coat containing tied tax bundle; otherwise practical village clothing.",
+        "equipment": "Cord-bound tax papers later limited loading tallies, jug/brown ale. No royal regalia or copied public household archive.",
+        "states": "White daylight first-day organising, refusal of artifact/royal classification, predawn tired pouring rationed ale."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Ormela woke beneath the table",
+        "Non-canon source fact: She tucked the bundle inside her coat",
+        "Non-canon source fact: I'm the tax reeve.",
+        "Non-canon source fact: Ormela poured to the chalk line Belkin had marked"
+      ],
+      "visualInterpretation": [
+        "Age44, round fair freckled face, broad mouth, reddish-brown wavy hair pinned low in loose braid-coil, solid working build.",
+        "Brown wool coat over deep rust blouse/ochre skirt, leather ankle boots; tax bundle tucked inside coat, no crown or official sash."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "White daylight first-day organising, refusal of artifact/royal classification, predawn tired pouring rationed ale."
+        }
+      ],
+      "naming": {
+        "sourceName": "Ormela",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:ormela",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/ormela.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:32:48.074822+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "d72175a613a004920fb33f06b624cbbc4d40d769f511038e2d41447fcb287d3c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9ce35804-df5e-4565-b1d3-4e851ea26250.png",
+            "sha256": "a3087ab5a85510467be6913db46718cd1e77d1e42d59719e5fd7cb42959d7403",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "evidence": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Cord tax bundle and inside-coat detail, tired predawn pouring into chalk-marked cup, anonymous tally intact.",
+        "specificationSha256": "82875efbe45d8f8726fbabf4242ed10557262dda0e4ad6859385f4fdf414aeb1"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Label full bodies Front and Back, upper portraits Counting and Firm refusal, lower pouring study Predawn. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9ce35804-df5e-4565-b1d3-4e851ea26250.png",
+            "sha256": "a3087ab5a85510467be6913db46718cd1e77d1e42d59719e5fd7cb42959d7403",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Ormela. One solidly built HUMAN woman44 with round freckled fair face, broad mouth, reddish-brown wavy hair in loose low braid-coil. Practical BROWN WOOL COAT over rust blouse and ochre skirt, leather ankle boots. Front holding small thick uneven TAX PAPER BUNDLE tied with plain CORD, rear coat and braid view; paper bundle shown tucked INSIDE open coat in small detail. DAYLIGHT white/cool shadows for full figures, no royal bearing/regalia. Heads Counting and Firm refusal, not generic smile. Third waist-up Predawn pours brown ALE from pottery jug toward one cup with CHALK LINE: tired face/drooping shoulders, mostly connected DARK COOL CYAN/blue shadows with tiny warm practical light on cheek/knuckles, clearly DIM unlike daylight. Small loading tally with a few anonymous marks, no readable invented household names. Do not depict book, crown, museum label, taxchest as ceremonial object, other person or room. Bright ivory persists around all figures.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+                "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+                "inspected": true,
+                "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+                "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+                "inspected": true,
+                "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9ce35804-df5e-4565-b1d3-4e851ea26250.png",
+            "candidateSha256": "a3087ab5a85510467be6913db46718cd1e77d1e42d59719e5fd7cb42959d7403",
+            "completedAt": "2026-09-24T08:22:39.511782+00:00",
+            "visualInspection": "Actual pixels inspected. Identity, face, ordinary anatomy, wardrobe, props and matte connected oil rendering pass. REVISE: dark backdrop rectangle/patch behind night study and small ground shadows must be ivory; label source states clearly. Sevri also has unrequested sound-wave graphic and lamp behind night figure."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Label full bodies Front and Back, upper portraits Counting and Firm refusal, lower pouring study Predawn. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9ce35804-df5e-4565-b1d3-4e851ea26250.png",
+                "sha256": "a3087ab5a85510467be6913db46718cd1e77d1e42d59719e5fd7cb42959d7403",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:22:39.511782+00:00",
+            "preflight": "Actual output inspected; narrow isolation and label edit preserves correct source states.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ce05f87b-78f6-482b-a324-418a88fd9753.png",
+            "candidateSha256": "d72175a613a004920fb33f06b624cbbc4d40d769f511038e2d41447fcb287d3c",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Cord tax bundle and inside-coat detail, tired predawn pouring into chalk-marked cup, anonymous tally intact."
+          }
+        ]
+      },
+      "outputSha256": "d72175a613a004920fb33f06b624cbbc4d40d769f511038e2d41447fcb287d3c"
+    },
+    {
+      "id": "belkin",
+      "name": "Belkin",
+      "role": "Well steward controlling water, waste and safe loading",
+      "selectionEvidence": [
+        {
+          "quote": "His usual stoop had vanished.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Twenty-eight handspans. No spring coming in.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "a cord running through his fingers",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Belkin had chalked drinking times",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "he rapped the pipe with his wrench",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, usual stoop temporarily straightened in crisis; no exact age/skin.",
+        "clothing": "Village work clothes unspecified.",
+        "equipment": "Measuring cord and dripping weight, chalk, wrench, water test cup; no magic devices.",
+        "states": "Day measuring/control, predawn ration/washing chalk and wrench."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: His usual stoop had vanished.",
+        "Non-canon source fact: Twenty-eight handspans. No spring coming in.",
+        "Non-canon source fact: a cord running through his fingers",
+        "Non-canon source fact: Belkin had chalked drinking times",
+        "Non-canon source fact: he rapped the pipe with his wrench"
+      ],
+      "visualInterpretation": [
+        "Age61, lean weathered dark-tan man, hawk nose, short grizzled beard and close hair under plain brown wool cap.",
+        "Moss-green shirt, old brown leather waistcoat, charcoal breeches, stout boots, small front belt pouch."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day measuring/control, predawn ration/washing chalk and wrench."
+        }
+      ],
+      "naming": {
+        "sourceName": "Belkin",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:belkin",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/belkin.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:32:48.074822+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "12ba0fdf495117f5a947519f181eea656841ade3b67539149a922aad8611e4e8",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-64c17ad8-793e-4455-af74-ecd85fc903c2.png",
+            "sha256": "fc142f7ac952c1fd9119e2a71c320ed12ef16ad93972fc0afca854b00c2ec552",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "evidence": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Front upright and back stoop, cord/weight/cup/chalk/wrench and dim predawn counting intact.",
+        "specificationSha256": "f7ff22e9fc6c52be2bc0f5cef2907a5b1d804c025ed969830e4e5ce3c30dc4a3"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Keep existing correct labels; add Front and Back below full figures. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-64c17ad8-793e-4455-af74-ecd85fc903c2.png",
+            "sha256": "fc142f7ac952c1fd9119e2a71c320ed12ef16ad93972fc0afca854b00c2ec552",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Belkin. One lean HUMAN well steward61, weathered DARK TAN skin, hawk nose, short grizzled beard, close grey hair under plain BROWN wool cap. Moss-green rolled-sleeve shirt, old brown leather waistcoat, charcoal breeches and sturdy boots. Front crisis stance temporarily upright with MEASURING CORD and small metal WEIGHT dangling; Back usual modest STOOP, no spinal distortion. Daylight full figures cool-white sun/shadow masses. Heads Testing water and Impatient. Hand details ordinary five digits holding cord, small cup and chalk; isolated old iron WRENCH. Third small waist-up Predawn counting, predominantly DARK COOL cyan shadow with limited warm lamp edge from actual hall, fatigued but attentive. No futuristic suit or glowing magical water, no pipe/cistern/room/landscape. All tools mundane and unclipped, ivory page light.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+                "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+                "inspected": true,
+                "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-64c17ad8-793e-4455-af74-ecd85fc903c2.png",
+            "candidateSha256": "fc142f7ac952c1fd9119e2a71c320ed12ef16ad93972fc0afca854b00c2ec552",
+            "completedAt": "2026-09-24T08:22:39.511782+00:00",
+            "visualInspection": "Actual pixels inspected. Identity, face, ordinary anatomy, wardrobe, props and matte connected oil rendering pass. REVISE: dark backdrop rectangle/patch behind night study and small ground shadows must be ivory; label source states clearly. Sevri also has unrequested sound-wave graphic and lamp behind night figure."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Keep existing correct labels; add Front and Back below full figures. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-64c17ad8-793e-4455-af74-ecd85fc903c2.png",
+                "sha256": "fc142f7ac952c1fd9119e2a71c320ed12ef16ad93972fc0afca854b00c2ec552",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:22:39.511782+00:00",
+            "preflight": "Actual output inspected; narrow isolation and label edit preserves correct source states.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1ac9d5ac-4c85-4d49-82d9-36b99806f20f.png",
+            "candidateSha256": "12ba0fdf495117f5a947519f181eea656841ade3b67539149a922aad8611e4e8",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Front upright and back stoop, cord/weight/cup/chalk/wrench and dim predawn counting intact."
+          }
+        ]
+      },
+      "outputSha256": "12ba0fdf495117f5a947519f181eea656841ade3b67539149a922aad8611e4e8"
+    },
+    {
+      "id": "aruz",
+      "name": "Aruz",
+      "role": "Village healer protecting informed care and patient choices",
+      "selectionEvidence": [
+        {
+          "quote": "Aruz pushed through the lane with her sleeves rolled",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Ask again when the person understands what you're asking.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "touched the adhesive to her own wrist",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, competent village healer.",
+        "clothing": "Rolled sleeves, other clothes unspecified.",
+        "equipment": "Simple cloth medical supplies; tests future removable patch on own wrist; not magic cure or imposed treatment.",
+        "states": "Day triage and consent explanation, self-testing patch, predawn fatigue optional not required."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Aruz pushed through the lane with her sleeves rolled",
+        "Non-canon source fact: Ask again when the person understands what you're asking.",
+        "Non-canon source fact: touched the adhesive to her own wrist"
+      ],
+      "visualInterpretation": [
+        "Age42, muscular dark-brown woman, short dense black curls, wide-set eyes, squared jaw and strong broad nose.",
+        "Clay-red linen tunic with rolled sleeves, dark blue practical apron, brown trousers/soft boots, canvas supply satchel at RIGHT hip as interpretation; patch test on LEFT wrist."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day triage and consent explanation, self-testing patch, predawn fatigue optional not required."
+        }
+      ],
+      "naming": {
+        "sourceName": "Aruz",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:aruz",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/aruz.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:22:39.511782+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "a082dd78d1c6656fba604657a1b3a5e1c8defdfbb7ec0cf59c943d6341a83e90",
+        "references": [
+          {
+            "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+            "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+            "inspected": true,
+            "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+          }
+        ],
+        "evidence": "Actual pixels inspected. Identity, face, ordinary anatomy, wardrobe, props and matte connected oil rendering pass. Correct right-hip supply bag in front/rear and left-wrist test patch, rolled sleeves, short curls and daylight. Clear exact heading/title, ivory isolation.",
+        "specificationSha256": "f32f20b719eaaa698b460adcdaa3ae6af21d0cef382bec50a1d9c288f625afd4"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Aruz. One HUMAN woman42 healer, muscular dark-brown body, squared jaw, strong broad nose, wide-set dark eyes, SHORT dense BLACK curls. Clay-red linen tunic sleeves ROLLED, dark blue practical APRON, brown trousers and soft boots. Plain canvas supply satchel on anatomical RIGHT hip (viewerLEFT front, viewerRIGHT back), strap from LEFT shoulder. Full front/rear, portraits Triage and Ask again, patient firm humanity rather than mystical serenity. One hand detail shows a SMALL plain future adhesive PATCH she tests on her own LEFT wrist, gently peeling an edge with right fingers, exactly five digits per hand. Roll of clean linen and basic pouch, no syringe/surgery/sparkles, no patient/other person. WHITE DAYLIGHT with cool blue-grey shadows and broad matte oil skin/cloth. No modern lab coat, stethoscope, red cross or royal costume.",
+        "references": [
+          {
+            "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+            "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+            "inspected": true,
+            "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Aruz. One HUMAN woman42 healer, muscular dark-brown body, squared jaw, strong broad nose, wide-set dark eyes, SHORT dense BLACK curls. Clay-red linen tunic sleeves ROLLED, dark blue practical APRON, brown trousers and soft boots. Plain canvas supply satchel on anatomical RIGHT hip (viewerLEFT front, viewerRIGHT back), strap from LEFT shoulder. Full front/rear, portraits Triage and Ask again, patient firm humanity rather than mystical serenity. One hand detail shows a SMALL plain future adhesive PATCH she tests on her own LEFT wrist, gently peeling an edge with right fingers, exactly five digits per hand. Roll of clean linen and basic pouch, no syringe/surgery/sparkles, no patient/other person. WHITE DAYLIGHT with cool blue-grey shadows and broad matte oil skin/cloth. No modern lab coat, stethoscope, red cross or royal costume.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a2f0bd8d-0372-405a-898a-1f4e22472e9a.png",
+            "candidateSha256": "a082dd78d1c6656fba604657a1b3a5e1c8defdfbb7ec0cf59c943d6341a83e90",
+            "completedAt": "2026-09-24T08:22:39.511782+00:00",
+            "visualInspection": "Actual pixels inspected. Identity, face, ordinary anatomy, wardrobe, props and matte connected oil rendering pass. Correct right-hip supply bag in front/rear and left-wrist test patch, rolled sleeves, short curls and daylight. Clear exact heading/title, ivory isolation."
+          }
+        ]
+      },
+      "outputSha256": "a082dd78d1c6656fba604657a1b3a5e1c8defdfbb7ec0cf59c943d6341a83e90"
+    },
+    {
+      "id": "sevri",
+      "name": "Sevri",
+      "role": "Future language specialist translating limits and consent",
+      "selectionEvidence": [
+        {
+          "quote": "She tapped her chest",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "A device at her throat offered sounds",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Sevri took off her throat device.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, speech fatigues through long day; no fixed features.",
+        "clothing": "Smooth grey future clothing shared with workers.",
+        "equipment": "Flat picture/translation board with moving diagrams, throat translator she removes when meanings need attention.",
+        "states": "Day translating, device removed for burial-meaning distinction, tired midnight translation."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: She tapped her chest",
+        "Non-canon source fact: A device at her throat offered sounds",
+        "Non-canon source fact: Sevri took off her throat device."
+      ],
+      "visualInterpretation": [
+        "Age32, pale olive complexion, neat straight black chin-length bob tucked behind ears, long small nose, thin lips, slim build.",
+        "Smooth light grey collarless practical jacket/trousers/soft grey boots with quiet asymmetrical seams; small oval throat device, no visor/cybernetic body."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day translating, device removed for burial-meaning distinction, tired midnight translation."
+        }
+      ],
+      "naming": {
+        "sourceName": "Sevri",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:sevri",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/sevri.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:32:48.074822+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "132fd94101e7a6de0746d5a02592d1659c8f70c44b5ea7bb4788e5ffc787a57e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-82840710-b060-4351-a17f-0cf4b03357d4.png",
+            "sha256": "29559151f28fac46785f16cc37f056c52f8e19d3a8ef20407aacb9c48da63bcc",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "evidence": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Light gray workwear, throat translator on Translating and off Listening, board three required pictograms, nighttime state; extraneous sound-wave/lamp removed.",
+        "specificationSha256": "8b95b6112082d960ff645fce24e4ff9a534b258b064facc38ae63bba033adca6"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Label full figures Front and Back; upper portraits Translating and Listening; lower study Midnight. Remove blue sound-wave icon and the little floating lamp behind the lower figure. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-82840710-b060-4351-a17f-0cf4b03357d4.png",
+            "sha256": "29559151f28fac46785f16cc37f056c52f8e19d3a8ef20407aacb9c48da63bcc",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Sevri. One HUMAN future linguist32, pale-olive skin, straight BLACK chin-length BOB tucked behind ears, small long nose/thin lips, slim frame. Smooth LIGHT GREY practical collarless jacket and trousers, soft grey boots, subtle asymmetric seams but NO armor, skirt, military rank or logos. Small OVAL TRANSLATOR rests at centre THROAT on thin band. Full Front holding FLAT rectangular picture board at waist and Back showing clean grey workwear. Screen has simple water-drop, lying-person pictogram, crossed-out flame, no legible invented foreign text. One portrait Translating with throat device ON, one careful Listening with throat device REMOVED and held in hand, bare natural throat. Third small waist-up Midnight, tired eyes and loose shoulders, very DIM COOL BLUE shadows with small silver work-lamp planes; never daylit orange studio, ivory page stays light. Ordinary five-digit human hands. One board/device detail if useful, no hovering heads/people, no city/location.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+                "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+                "inspected": true,
+                "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+                "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+                "inspected": true,
+                "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-82840710-b060-4351-a17f-0cf4b03357d4.png",
+            "candidateSha256": "29559151f28fac46785f16cc37f056c52f8e19d3a8ef20407aacb9c48da63bcc",
+            "completedAt": "2026-09-24T08:22:39.511782+00:00",
+            "visualInspection": "Actual pixels inspected. Identity, face, ordinary anatomy, wardrobe, props and matte connected oil rendering pass. REVISE: dark backdrop rectangle/patch behind night study and small ground shadows must be ivory; label source states clearly. Sevri also has unrequested sound-wave graphic and lamp behind night figure."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character sheet only. Preserve every person/face, anatomy, hands, hair, wardrobe, equipment, heading/title, positions and existing heavy matte painted rendering. Replace ALL blue/dark backdrop patches OUTSIDE the character silhouettes with the SAME LIGHT WARM IVORY page. Remove tiny ground/cast shadows beneath feet and equipment; no floor, lamp, scene or background panel. Preserve the DARK DIM blue/cyan night illumination ON the lower character and their props exactly; do not relight their face or lighten clothing. Label full figures Front and Back; upper portraits Translating and Listening; lower study Midnight. Remove blue sound-wave icon and the little floating lamp behind the lower figure. Labels small readable dark type on ivory with clear space; no other text changes. Do not recompose or copy another identity.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-82840710-b060-4351-a17f-0cf4b03357d4.png",
+                "sha256": "29559151f28fac46785f16cc37f056c52f8e19d3a8ef20407aacb9c48da63bcc",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve identity, anatomy, painted rendering and dim source-state light while isolating on ivory"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:22:39.511782+00:00",
+            "preflight": "Actual output inspected; narrow isolation and label edit preserves correct source states.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-603fc85b-e635-4a52-8408-a62b20285005.png",
+            "candidateSha256": "132fd94101e7a6de0746d5a02592d1659c8f70c44b5ea7bb4788e5ffc787a57e",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: backdrop and ground shadows removed, exact readable heading/story title and state labels on light ivory. Distinct source day and dim predawn/midnight illumination preserved on figures. Matte oil rendering, one identity, full front/rear anatomy and props pass. Light gray workwear, throat translator on Translating and off Listening, board three required pictograms, nighttime state; extraneous sound-wave/lamp removed."
+          }
+        ]
+      },
+      "outputSha256": "132fd94101e7a6de0746d5a02592d1659c8f70c44b5ea7bb4788e5ffc787a57e"
+    },
+    {
+      "id": "odan",
+      "name": "Odan",
+      "role": "Future excavation director coordinating practical limits",
+      "selectionEvidence": [
+        {
+          "quote": "the director of the place around them",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "never promising past what he controlled",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Then he stripped both labels off.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "He checked that the number aboard matched the number arriving",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, practical excavation worker/director.",
+        "clothing": "Smooth grey future clothing, not regal/archeological costume.",
+        "equipment": "Loading sheets returned to households, practical portable display inferred; no retained household archive.",
+        "states": "Day coordinating and listening, midnight checking loads; removes mistaken royal labels."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: the director of the place around them",
+        "Non-canon source fact: never promising past what he controlled",
+        "Non-canon source fact: Then he stripped both labels off.",
+        "Non-canon source fact: He checked that the number aboard matched the number arriving"
+      ],
+      "visualInterpretation": [
+        "Age51, lean medium-brown man, shaved bald head, close neat black-grey beard, round dark eyes and broad flat nose.",
+        "Charcoal-grey unadorned technical jacket, slate trousers and sensible boots; slightly worn cuffs, no logos/medals."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day coordinating and listening, midnight checking loads; removes mistaken royal labels."
+        }
+      ],
+      "naming": {
+        "sourceName": "Odan",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:odan",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/odan.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:46:00.638757+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "baf272e490d5c79ee8808cd1bae32e68097d5ce25b4709e1a29f9eaa04b8b100",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-67924502-2504-4768-bb4e-e0b8c859e448.png",
+            "sha256": "fe3837233e48d333b1919b781b06dec09165b5ca8ef3b71363a3a01973d77764",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Bald dark-brown director, plain charcoal workwear, empty ordinary hands and anonymous loading sheets preserved. Lower checking study has dim cool blue illumination and limited white practical light; superfluous cap/backpack removed.",
+        "specificationSha256": "db6d673d4bcdd29afe252ce695c42a7846b14e2a8cb9347dd02b72405e64dca3"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. Remove the unrequested backpack and cap prop drawings and leave that area ivory. Retain loading papers and two hand studies. The character wears plain charcoal workwear, not camouflage; preserve broad charcoal paint masses.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-67924502-2504-4768-bb4e-e0b8c859e448.png",
+            "sha256": "fe3837233e48d333b1919b781b06dec09165b5ca8ef3b71363a3a01973d77764",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Odan. One HUMAN future excavation director51, lean medium-brown build, SHAVED bald head, close neat salt-black beard, round dark eyes and broad flat nose. Plain CHARCOAL-GREY technical work jacket, slate trousers, practical grey boots, slightly worn cuffs, no medals/crown or suit tie. Full front and rear under white daylight with cool rock-reflected shadows. Front EMPTY OPEN hands, unthreatening competence. Portraits Listening and Weary decision. Third waist-up Midnight checking simple loading SHEETS (anonymous marks only, no royal labels) with very DIM cool blue shadows and limited silver-white work-lamp edge, clearly night unlike day bodies; actual nightref controls. One ordinary hand passing paper outward, not holding copied archive. No tabletglow/magic/weapon/security escort, no excavation machines/scenery. Heavy matte oil on clean ivory. Every figure, portrait and prop is completely isolated on light ivory, INCLUDING the Midnight study: NO blue backdrop patches, NO floor or cast ground shadows. Add small readable state labels directly beneath each view on ivory; Front, Back and names of source states only.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+                "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+                "inspected": true,
+                "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-67924502-2504-4768-bb4e-e0b8c859e448.png",
+            "candidateSha256": "fe3837233e48d333b1919b781b06dec09165b5ca8ef3b71363a3a01973d77764",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: character identity/anatomy/wardrobe and painted medium usable, but dark studio backdrop obscures all headings, violates warm ivory requirement. Requires narrow background and heading correction, not relighting."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. Remove the unrequested backpack and cap prop drawings and leave that area ivory. Retain loading papers and two hand studies. The character wears plain charcoal workwear, not camouflage; preserve broad charcoal paint masses.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-67924502-2504-4768-bb4e-e0b8c859e448.png",
+                "sha256": "fe3837233e48d333b1919b781b06dec09165b5ca8ef3b71363a3a01973d77764",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:32:48.074822+00:00",
+            "preflight": "Inspected target actual pixels. Background does not determine character source illumination; preserve figure values exactly while restoring mandated ivory.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a55c3155-f53f-43a1-8f14-8dfd856bfcde.png",
+            "candidateSha256": "baf272e490d5c79ee8808cd1bae32e68097d5ce25b4709e1a29f9eaa04b8b100",
+            "completedAt": "2026-09-24T08:46:00.638757+00:00",
+            "visualInspection": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Bald dark-brown director, plain charcoal workwear, empty ordinary hands and anonymous loading sheets preserved. Lower checking study has dim cool blue illumination and limited white practical light; superfluous cap/backpack removed."
+          }
+        ]
+      },
+      "outputSha256": "baf272e490d5c79ee8808cd1bae32e68097d5ce25b4709e1a29f9eaa04b8b100"
+    },
+    {
+      "id": "tervan-gell",
+      "name": "Tervan Gell",
+      "role": "Art-only name for recurring preservation official asserting artifact/royal custody",
+      "selectionEvidence": [
+        {
+          "quote": "a polished official whose pale clothes seemed designed never to encounter mud",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "The official's preservation office disagreed",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "a single authorized delegation",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "royal household roll",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, polished bearing, age/features unspecified.",
+        "clothing": "Pale clothes kept clean.",
+        "equipment": "Institutional proclamations; no crown/royal household identity. Historical crown is projected display, not worn.",
+        "states": "Day public categorization/proclamation, frustrated negotiation, request for royal roll. No personal name in source."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: a polished official whose pale clothes seemed designed never to encounter mud",
+        "Non-canon source fact: The official's preservation office disagreed",
+        "Non-canon source fact: a single authorized delegation",
+        "Non-canon source fact: royal household roll"
+      ],
+      "visualInterpretation": [
+        "User-authorized art-only name Tervan Gell; age56 tall broad-shouldered fair man, neat swept-back silver hair, clean-shaven angular cheeks, cool grey eyes.",
+        "Immaculate ivory long tailored future jacket, pale grey trousers and spotless low shoes, discreet silver fastenings, no military/crown/holy icon."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day public categorization/proclamation, frustrated negotiation, request for royal roll. No personal name in source."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "provenance": "User-authorized art-only name for unnamed main figure; exact/first/surname checks in universe/frozen names/passing reviews/current and bundle prose/character specs clear; source and shared authority unchanged."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:tervan-gell",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/tervan-gell.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:46:00.638757+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "ed39700433ae14949305fd369a5e00d9e736cd4a56cef0e41d3586571f766e2e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ed51c973-effc-4680-b68e-9a8c0f19e065.png",
+            "sha256": "3983b2fb2a53cbb4a59e16c7d866160db79799af52d3826978c5584fb44facc9",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Silver-haired fair angular clean-shaven official, ivory tailored future coat, anonymous tally and normal hands preserved. All three complete views, expressions, indoor-neutral state and added accurate role readable; no regalia.",
+        "specificationSha256": "7d146ab1230679a14ef7def8823d832e0e782ea7730b5ea8328861bafb798946"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. Keep exact heading Tervan Gell and story title Where the Mountain Used to Be. Add the small readable role Preservation official below the title. Preserve light ivory tailored coat visible by cool grey shadow values.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ed51c973-effc-4680-b68e-9a8c0f19e065.png",
+            "sha256": "3983b2fb2a53cbb4a59e16c7d866160db79799af52d3826978c5584fb44facc9",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Tervan Gell. Small role Preservation official, exact story title required. ONE HUMAN future bureaucrat56, tall broad shoulders, fair cool skin, neat swept-back SILVER hair, clean-shaven angular cheeks, cool grey eyes. Immaculate IVORY long tailored futuristic jacket, pale-grey trousers, spotless low grey shoes, discreet silver fastenings. No crown, sceptre, medals, church icon or medieval costume. Complete Front and Back, third three-quarter speaking with open explanatory hand. Heads Proclamation and Thwarted request, self-assured but ordinary human expression, no monstrous villain caricature. Hands normal five digits, one holding BLANK loading tally given to him (no royal roll). WHITE DAYLIGHT with cool shadows plus one neutral indoor head from secondref; clothing edges legible on warm ivory with paint values, not scenery/background darkening. Thick matte broad oils, no shiny science-fiction CGI. Art-only name identifies otherwise unnamed source main official. Every figure, portrait and prop is completely isolated on light ivory, INCLUDING every portrait study: NO blue backdrop patches, NO floor or cast ground shadows. Add small readable state labels directly beneath each view on ivory; Front, Back and names of source states only.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+                "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+                "inspected": true,
+                "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ed51c973-effc-4680-b68e-9a8c0f19e065.png",
+            "candidateSha256": "3983b2fb2a53cbb4a59e16c7d866160db79799af52d3826978c5584fb44facc9",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: character identity/anatomy/wardrobe and painted medium usable, but dark studio backdrop obscures all headings, violates warm ivory requirement. Requires narrow background and heading correction, not relighting."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. Keep exact heading Tervan Gell and story title Where the Mountain Used to Be. Add the small readable role Preservation official below the title. Preserve light ivory tailored coat visible by cool grey shadow values.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ed51c973-effc-4680-b68e-9a8c0f19e065.png",
+                "sha256": "3983b2fb2a53cbb4a59e16c7d866160db79799af52d3826978c5584fb44facc9",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:32:48.074822+00:00",
+            "preflight": "Inspected target actual pixels. Background does not determine character source illumination; preserve figure values exactly while restoring mandated ivory.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a78abb20-7ae0-4def-bf3a-673698a88a15.png",
+            "candidateSha256": "ed39700433ae14949305fd369a5e00d9e736cd4a56cef0e41d3586571f766e2e",
+            "completedAt": "2026-09-24T08:46:00.638757+00:00",
+            "visualInspection": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Silver-haired fair angular clean-shaven official, ivory tailored future coat, anonymous tally and normal hands preserved. All three complete views, expressions, indoor-neutral state and added accurate role readable; no regalia."
+          }
+        ]
+      },
+      "outputSha256": "ed39700433ae14949305fd369a5e00d9e736cd4a56cef0e41d3586571f766e2e"
+    },
+    {
+      "id": "orsiva-drann",
+      "name": "Orsiva Drann",
+      "role": "Art-only name for upper-lane widow choosing burial representatives and sealed custody",
+      "selectionEvidence": [
+        {
+          "quote": "Where's the cemetery?",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "The widow chose two people to remain with her at the window.",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "She asked for the room to stay locked",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        },
+        {
+          "quote": "Paused isn't ended",
+          "explanation": "Direct source identity/appearance/state or sustained main action; short phrase anchors where narration is longer."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human widow of upper lane, adult age/features unspecified; grief and firm specific choices.",
+        "clothing": "Village clothing unspecified; no imposed universal mourning costume.",
+        "equipment": "No bones/urns or opened containers carried; source explicitly requests sealed room, time and representatives.",
+        "states": "Day search for vanished cemetery, interior request for protected custody, refusal to confuse pause with closure."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Where's the cemetery?",
+        "Non-canon source fact: The widow chose two people to remain with her at the window.",
+        "Non-canon source fact: She asked for the room to stay locked",
+        "Non-canon source fact: Paused isn't ended"
+      ],
+      "visualInterpretation": [
+        "Art-only name Orsiva Drann; age59 lean short woman, muted tawny skin, angular cheekbones, long black-grey hair braided around head, deep-set brown eyes.",
+        "Faded plum shawl over plain stone-grey dress and worn brown boots, no black mourning veil or ceremonial regalia."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day search for vanished cemetery, interior request for protected custody, refusal to confuse pause with closure."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "provenance": "User-authorized art-only name for unnamed main figure; exact/first/surname checks in universe/frozen names/passing reviews/current and bundle prose/character specs clear; source and shared authority unchanged."
+      },
+      "recurrence": {
+        "identityKey": "the-first-kingdom-was-late-on-taxes:orsiva-drann",
+        "links": [],
+        "evidence": "No matching shared identity; source review all named cast new, art-only names collision checked."
+      },
+      "references": [
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\title-image.jpg",
+          "sha256": "e29d774be0181e10fa4d523b6717b6b5905899021c8c12c4e5b35709b77823dd",
+          "inspected": true,
+          "role": "Inspected actual source cover tax bundle paper/cord; no rendering/aurora/mountain authority"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+          "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+          "inspected": true,
+          "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\05-work-lamps-at-midnight.png",
+          "sha256": "7e0b6e44c1f92704984ba1e6c61da394f8695c7a6d89aaf770ad3a6910d0a687",
+          "inspected": true,
+          "role": "Actual deep cool NIGHT palette with small silver work-lamp planes on Midnight states only; no location"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\03-freight-hall-nine.png",
+          "sha256": "1f490bd43fc0f0665c0a25e680b86960933c564f853c18c7ab18bf2e24fd1575",
+          "inspected": true,
+          "role": "Actual predawn cool-cyan reflected vent light and limited warm lamp spill on figures only; no hall"
+        },
+        {
+          "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+          "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+          "inspected": true,
+          "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+        }
+      ],
+      "output": "stories/the-first-kingdom-was-late-on-taxes/art/characters/orsiva-drann.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:46:00.638757+00:00",
+        "sourceSha256": "958aefbf68ca3afca5d0df86c52b8051197316b1bc9a871d429be1b4304babf1",
+        "outputSha256": "4a175d5780cc8798b8ba5617cee738caa825f0c445dda56a22a0c046217c17ca",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ca4b3910-90bf-4d50-91eb-e1560d9e3ef6.png",
+            "sha256": "19b3c6bea0c246d2103d382759ecfae674b1ddd783fe6daf495413564e52c667",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Gray-black braid crown, lean older widow, plum shawl and stone dress, searching/firm/careful-waiting states, natural five-digit hands preserved. No remains/veil introduced.",
+        "specificationSha256": "fa9c08b8485ab7620af9835acd97a2701d152ff325e031f7ee3647c4ffe63255"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. ",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ca4b3910-90bf-4d50-91eb-e1560d9e3ef6.png",
+            "sha256": "19b3c6bea0c246d2103d382759ecfae674b1ddd783fe6daf495413564e52c667",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape1536x1024 CHARACTER REFERENCE SHEET, ONE IDENTITY only. Large exact NAME and smaller readable story title Where the Mountain Used to Be. Page ALL LIGHT WARM IVORY, no scenery, floor, ground shadows, swatches or decorative text. Two complete unclipped full bodies Front/Back plus useful portraits/hands/equipment, optional source state waist-up as specified. Canadian Group of Seven HEAVY MATTE OILS matching actual story painting: broad connected opaque colour/value masses, directional bristle/dragged knife, quiet joins, selective impasto. All skin/hair/cloth painted equally; no smooth CGI/anime/photos, no uniformly beveled glittering mosaic chips. Story-specific figure illumination, ordinary coherent hands/anatomy. Do not copy style-reference person/costume. Heading Orsiva Drann. Small role Upper-lane widow and exact story title. ONE HUMAN village woman59, SHORT lean body, muted tawny skin, angular cheekbones, deep-set BROWN eyes, long BLACK-GREY hair in practical braid wrapped around crown, no jewellery. Faded PLUM wool shawl over plain stone-grey dress, worn brown boots. Front/rear full bodies in clear WHITE DAYLIGHT/cool-blue shadows; hands held naturally, not clutching remains. Two head studies Searching and Firm request; one waist-up Careful waiting under neutral cooler indoor light from reference2, listening with clasped ordinary five-digit hands. Grief and agency, not melodramatic wailing. No skull/bones/urns, no opened burial containers, no widow veil/royal symbols/other people, no window/room/landscape. Thick matte oil values, ivory page remains light. Art-only name for unnamed recurring main widow. Every figure, portrait and prop is completely isolated on light ivory, INCLUDING every portrait study: NO blue backdrop patches, NO floor or cast ground shadows. Add small readable state labels directly beneath each view on ivory; Front, Back and names of source states only.",
+            "references": [
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\landscapes\\02-village-in-the-stepped-hollow.png",
+                "sha256": "3c7206b2cd409e73f73aff052a5844a58786692cd3ead599a7619a6300a892c8",
+                "inspected": true,
+                "role": "PRIMARY actual broad connected matte oils, white morning/daylight and cool blue-grey reflected rock shadows; no excavation view"
+              },
+              {
+                "path": "stories\\the-first-kingdom-was-late-on-taxes\\art\\interiors\\02-the-cemetery-room.png",
+                "sha256": "1d869b416188c1e7f4e0ee0003f845224637b325e3526fe73590743d44cd3995",
+                "inspected": true,
+                "role": "Actual cool neutral interior artificial illumination and opaque restrained oil masses; no room/containers/remains"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil paint only; no person/armor/scene/swatches/light copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:34:55.291417+00:00",
+            "preflight": "Full finished prose, original/rewrite prompt and current PASS review read after false marker. No original images supplied; actual cover/day/night/hall/cemetery paintings inspected. Seven separate distinct identities, archaic villager vs smooth future workwear, no false regal promotion, sealed remains and source light/time states bound; clean ivory and hands checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ca4b3910-90bf-4d50-91eb-e1560d9e3ef6.png",
+            "candidateSha256": "19b3c6bea0c246d2103d382759ecfae674b1ddd783fe6daf495413564e52c667",
+            "completedAt": "2026-09-24T08:32:48.074822+00:00",
+            "visualInspection": "Actual saved pixels: character identity/anatomy/wardrobe and painted medium usable, but dark studio backdrop obscures all headings, violates warm ivory requirement. Requires narrow background and heading correction, not relighting."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit this exact character reference sheet. Change the entire dark brown/grey background ONLY to CLEAN LIGHT WARM IVORY. This includes all negative space around and between the bodies, heads, hands and objects. Keep every character pixel, face, body, hair, outfit, pose and existing heavy matte oil rendering; preserve current lighting ON the character including the dark cool Midnight figure if present. All existing headings and labels must be solid dark brown and clearly readable on ivory. Remove ground/cast shadows or glows outside all silhouettes. No dark gradients, vignette, scenery or floor. Do not change composition. ",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ca4b3910-90bf-4d50-91eb-e1560d9e3ef6.png",
+                "sha256": "19b3c6bea0c246d2103d382759ecfae674b1ddd783fe6daf495413564e52c667",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; only light ivory background, readable lettering and specified extraneous props changed"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:32:48.074822+00:00",
+            "preflight": "Inspected target actual pixels. Background does not determine character source illumination; preserve figure values exactly while restoring mandated ivory.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-5c31b734-1532-463c-82c8-fdebd452c765.png",
+            "candidateSha256": "4a175d5780cc8798b8ba5617cee738caa825f0c445dda56a22a0c046217c17ca",
+            "completedAt": "2026-09-24T08:46:00.638757+00:00",
+            "visualInspection": "Actual saved-pixel review: clean warm ivory background restored and exact heading/title fully readable. One identity with heavy painted oil surfaces, full front/rear anatomy and consistent clothes. Gray-black braid crown, lean older widow, plum shawl and stone dress, searching/firm/careful-waiting states, natural five-digit hands preserved. No remains/veil introduced."
+          }
+        ]
+      },
+      "outputSha256": "4a175d5780cc8798b8ba5617cee738caa825f0c445dda56a22a0c046217c17ca"
+    }
+  ]
+}
