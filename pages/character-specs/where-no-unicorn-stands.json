@@ -60,34 +60,26 @@
         "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
       },
       "output": "stories/where-no-unicorn-stands/art/characters/elvask.png",
-      "status": "queued",
-      "blockers": [
-        "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen",
+        "tool": "image_gen__imagegen",
         "backend": "codex-imagegen",
-        "backendModel": null,
+        "backendModel": "Not reported by built-in tool",
         "format": "1536x1024",
-        "prompt": "Use case: stylized-concept. One 1536x1024 LANDSCAPE3:2 character-only folio, uniform light WARM IVORY background to all edges and every gap. ONE fully EQUINE identity, not human or humanoid. Two complete uncropped QUADRUPED body views (front-side three-quarter and rear-side three-quarter), one large matching EQUINE HEAD portrait, one small personal equipment object. Every head, tail, hoof, wing, horn stays inside margins. Four equine legs, hooves, horse muzzle and ears, horizontal torso. No human faces, hands, bipedal pose, human clothing or extra animals. Unicorns have ONE forehead horn and NO wings; Pegasi have TWO feathered wings and NO horn. Distinctive realistic horse proportions in stylized paint, no cartoon eyes. Opaque BROAD CONNECTED oil strokes and selective sculptural impasto from first reference, matte painted eyes/muzzle as broad as body and gear; no photographic smooth horse skin, shiny CGI, uniform tiny chips or anime. First ref is brush construction ONLY. Second ref species/content only; third palette/light only. No floor, cloud footing, ground patches, landscape, scenic montage, palette strip/swatches, detached anatomy or studies. Plain ivory folio means neutral display, never imply a unicorn stands on clouds. Exact readable name, smaller exact story title, brief role and concise view/equipment labels. One identity with coherent coat, mane, muzzle, marking, gear and anatomy across views.\nExact name \"Elvask\"; exact story title \"Where No Unicorn Stands\"; subtitle \"Unicorn prince and witnessed heir\". MALE UNICORN, young fully-grown graceful horse proportions, clean WHITE coat, flowing pale SILVER mane and tail, ONE long gently tapering IVORY spiral horn centered on forehead, deep blue-gray small HORSE eyes like white prince in second image. Absolutely NO wings. FOUR hooves shown, all complete. Wears modest GREEN coronation blanket with narrow GOLD embroidered edge and a soft chest tie; no crown. Both body views show same blanket. Head portrait horn completely visible. Personal object neatly folded corner of matching green/gold embroidered blanket, no net, rider, captor, cloud or platform. Cool soft storm-dawn light with restrained gold highlights on painted white coat.",
+        "prompt": "Edit the attached Elvask character folio. Replace every dark/transparent background pixel and foggy vignette with FULLY OPAQUE warm ivory paper. Write heading \"Elvask\" and subtitle \"Where No Unicorn Stands\" in legible dark charcoal. Remove low-contrast labels or repaint in dark charcoal. Keep the exact equine identity, species anatomy, gear, two whole views and head portrait. Elvask is young adult male unicorn with white coat, silver mane/tail, ONE ivory spiral horn, FOUR hooves, NO wings, green/gold coronation blanket. Repaint excessively fine strands/feather details into broader connected oil masses using the second painting's brushwork and restrained storm light. 1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. ",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
-            "role": "Inspected selected Sculpted Impasto paint only, broad connected planes; do not import human anatomy, props, scenery or swatches.",
-            "inspected": true,
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/title-image.jpg",
-            "role": "Inspected equine species shapes: white unicorn prince and slate-gray winged captain. Source hood/gear/no cloud footing override simplified cover.",
-            "inspected": true,
-            "sha256": "ae6c4871d8b782643a8604b3f3fde87196af049d9ffae58cedad3f52c26de291"
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-0a7eecc3-c9f7-476b-b41c-cf43dfe29cd4.png",
+            "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+            "sha256": "c0a89ae975592d9803c885fdbdb198faa1eed001972b78d1ddba5629ff61efb9",
+            "inspected": true
           },
           {
             "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
-            "role": "Inspected cool storm daylight with sparse gold edge, broad Group of Seven oil; no storm/city/background.",
-            "inspected": true,
-            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9"
+            "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -131,11 +123,62 @@
             "generatorReview": [
               "Rejected: dark vignetted brown-gray background makes exact name and title unreadable; violates light ivory requirement. No further correction under user wrap-up."
             ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:40:13.580656+00:00",
+            "prompt": "Edit the attached Elvask character folio. Replace every dark/transparent background pixel and foggy vignette with FULLY OPAQUE warm ivory paper. Write heading \"Elvask\" and subtitle \"Where No Unicorn Stands\" in legible dark charcoal. Remove low-contrast labels or repaint in dark charcoal. Keep the exact equine identity, species anatomy, gear, two whole views and head portrait. Elvask is young adult male unicorn with white coat, silver mane/tail, ONE ivory spiral horn, FOUR hooves, NO wings, green/gold coronation blanket. Repaint excessively fine strands/feather details into broader connected oil masses using the second painting's brushwork and restrained storm light. 1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. ",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-0a7eecc3-c9f7-476b-b41c-cf43dfe29cd4.png",
+                "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+                "sha256": "c0a89ae975592d9803c885fdbdb198faa1eed001972b78d1ddba5629ff61efb9",
+                "inspected": true
+              },
+              {
+                "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+                "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+                "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root fully read finished story. Two actual candidates inspected; source matches named art-only role/species/gear and no cloud footing. Rejected for alpha/background/text; preserve successful forms while repairing presentation and broad oil handling.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-41f6448d-cfc2-4657-81fd-73a7ebe46c91.png",
+            "candidateSha256": "1b42ba12568eb66c86bd99e4f99903925564b151c5a3cc2e7eef3ef28619a4ce",
+            "reviewedAt": "2026-09-24T16:10:57.256411+00:00",
+            "findings": [
+              "Root inspected actual returned pixels: ivory now opaque and heading legible; one horn/four hooves/no wings, green-gold blanket, white young equine identity consistent. Broad bristle/knife masses; two whole views and horn portrait/blanket detail all on sheet."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 2
       },
       "validation": {
-        "status": "REVISE"
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:10:57.274842+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual returned pixels: ivory now opaque and heading legible; one horn/four hooves/no wings, green-gold blanket, white young equine identity consistent. Broad bristle/knife masses; two whole views and horn portrait/blanket detail all on sheet."
+        ],
+        "sourceSha256": "28a2c1263e9308b407ded8fd52d0b1f5c1d0ae7d8ba5153c9e3e0c3b1861fc67",
+        "outputSha256": "1b42ba12568eb66c86bd99e4f99903925564b151c5a3cc2e7eef3ef28619a4ce",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-0a7eecc3-c9f7-476b-b41c-cf43dfe29cd4.png",
+            "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+            "sha256": "c0a89ae975592d9803c885fdbdb198faa1eed001972b78d1ddba5629ff61efb9",
+            "inspected": true
+          },
+          {
+            "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+            "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "c6c77f4d3c2003534fcdd4ae67c03a69f648307b7bb85ed639f0188972505e3c"
       },
       "presentation": {
         "characterOnly": true,
@@ -144,7 +187,8 @@
         "paletteStrip": false,
         "handStudies": false,
         "userApproval": "Full collection production authorized, user review at end."
-      }
+      },
+      "outputSha256": "1b42ba12568eb66c86bd99e4f99903925564b151c5a3cc2e7eef3ef28619a4ce"
     },
     {
       "id": "rhuden",
@@ -336,34 +380,26 @@
         "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
       },
       "output": "stories/where-no-unicorn-stands/art/characters/stavreth.png",
-      "status": "queued",
-      "blockers": [
-        "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen",
+        "tool": "image_gen__imagegen",
         "backend": "codex-imagegen",
-        "backendModel": null,
+        "backendModel": "Not reported by built-in tool",
         "format": "1536x1024",
-        "prompt": "Use case: stylized-concept. One 1536x1024 LANDSCAPE3:2 character-only folio, uniform light WARM IVORY background to all edges and every gap. ONE fully EQUINE identity, not human or humanoid. Two complete uncropped QUADRUPED body views (front-side three-quarter and rear-side three-quarter), one large matching EQUINE HEAD portrait, one small personal equipment object. Every head, tail, hoof, wing, horn stays inside margins. Four equine legs, hooves, horse muzzle and ears, horizontal torso. No human faces, hands, bipedal pose, human clothing or extra animals. Unicorns have ONE forehead horn and NO wings; Pegasi have TWO feathered wings and NO horn. Distinctive realistic horse proportions in stylized paint, no cartoon eyes. Opaque BROAD CONNECTED oil strokes and selective sculptural impasto from first reference, matte painted eyes/muzzle as broad as body and gear; no photographic smooth horse skin, shiny CGI, uniform tiny chips or anime. First ref is brush construction ONLY. Second ref species/content only; third palette/light only. No floor, cloud footing, ground patches, landscape, scenic montage, palette strip/swatches, detached anatomy or studies. Plain ivory folio means neutral display, never imply a unicorn stands on clouds. Exact readable name, smaller exact story title, brief role and concise view/equipment labels. One identity with coherent coat, mane, muzzle, marking, gear and anatomy across views.\nExact name \"Stavreth\"; exact story title \"Where No Unicorn Stands\"; subtitle \"Pegasus regent\". OLDER FEMALE PEGASUS MARE, lean dignified HORSE body with subtly hollowed mature cheeks, warm DUN GRAY dappled coat, short IRON GRAY mane and long matching tail, small dark brown HORSE eyes. Two distinctly NARROW gray-brown feathered wings folded along body; four equine legs/hooves. No horn, no human face or human hair. A CHAIN of PLAIN IRON LINKS loosely circles ONE FORELEG, simple practical links not jewelry gemstones; no crown, dress or armour. Calm stern attentive expression, all views same mare. Isolated personal object short matching iron-link chain. Soft cool storm-day light and quiet warm coat planes, white ivory untouched.",
+        "prompt": "Edit the attached Stavreth character folio. Replace every dark/transparent background pixel and foggy vignette with FULLY OPAQUE warm ivory paper. Write heading \"Stavreth\" and subtitle \"Where No Unicorn Stands\" in legible dark charcoal. Remove low-contrast labels or repaint in dark charcoal. Keep the exact equine identity, species anatomy, gear, two whole views and head portrait. Stavreth is older dun-grey mare Pegasus with iron-grey mane/tail, FOUR hooves, TWO narrow feathered wings, NO horn, a plain iron chain at one foreleg. Repaint excessively fine strands/feather details into broader connected oil masses using the second painting's brushwork and restrained storm light. 1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. ",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
-            "role": "Inspected selected Sculpted Impasto paint only, broad connected planes; do not import human anatomy, props, scenery or swatches.",
-            "inspected": true,
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/title-image.jpg",
-            "role": "Inspected equine species shapes: white unicorn prince and slate-gray winged captain. Source hood/gear/no cloud footing override simplified cover.",
-            "inspected": true,
-            "sha256": "ae6c4871d8b782643a8604b3f3fde87196af049d9ffae58cedad3f52c26de291"
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-cc55cf3f-1d3a-46e7-8fd0-9a5723be5991.png",
+            "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+            "sha256": "23bae30a6e68706504e7c6c1108822b417a2c29e91b1e84da00cfb83974d421f",
+            "inspected": true
           },
           {
             "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
-            "role": "Inspected cool storm daylight with sparse gold edge, broad Group of Seven oil; no storm/city/background.",
-            "inspected": true,
-            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9"
+            "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -407,11 +443,62 @@
             "generatorReview": [
               "Rejected: dark vignetted brown-gray background makes exact name and title unreadable; violates light ivory requirement. No further correction under user wrap-up."
             ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T15:40:13.586942+00:00",
+            "prompt": "Edit the attached Stavreth character folio. Replace every dark/transparent background pixel and foggy vignette with FULLY OPAQUE warm ivory paper. Write heading \"Stavreth\" and subtitle \"Where No Unicorn Stands\" in legible dark charcoal. Remove low-contrast labels or repaint in dark charcoal. Keep the exact equine identity, species anatomy, gear, two whole views and head portrait. Stavreth is older dun-grey mare Pegasus with iron-grey mane/tail, FOUR hooves, TWO narrow feathered wings, NO horn, a plain iron chain at one foreleg. Repaint excessively fine strands/feather details into broader connected oil masses using the second painting's brushwork and restrained storm light. 1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. ",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-cc55cf3f-1d3a-46e7-8fd0-9a5723be5991.png",
+                "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+                "sha256": "23bae30a6e68706504e7c6c1108822b417a2c29e91b1e84da00cfb83974d421f",
+                "inspected": true
+              },
+              {
+                "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+                "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+                "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root fully read finished story. Two actual candidates inspected; source matches named art-only role/species/gear and no cloud footing. Rejected for alpha/background/text; preserve successful forms while repairing presentation and broad oil handling.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-aff8a646-ae29-4b2e-8c81-3e12f0d7dfee.png",
+            "candidateSha256": "9a5edf7b8a6ab56a6027913c06e790e88c83690f09ad418c526e8db8babb1cea",
+            "reviewedAt": "2026-09-24T16:10:57.290223+00:00",
+            "findings": [
+              "Root actual pixels: mature narrow-winged mare, two wings/four hooves/no horn, plain iron chain, consistent dun-grey body. Opaque ivory repair and exact readable heading/title; source gear and broad oil treatment retained."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 2
       },
       "validation": {
-        "status": "REVISE"
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:10:57.296093+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root actual pixels: mature narrow-winged mare, two wings/four hooves/no horn, plain iron chain, consistent dun-grey body. Opaque ivory repair and exact readable heading/title; source gear and broad oil treatment retained."
+        ],
+        "sourceSha256": "28a2c1263e9308b407ded8fd52d0b1f5c1d0ae7d8ba5153c9e3e0c3b1861fc67",
+        "outputSha256": "9a5edf7b8a6ab56a6027913c06e790e88c83690f09ad418c526e8db8babb1cea",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-cc55cf3f-1d3a-46e7-8fd0-9a5723be5991.png",
+            "role": "Actually inspected interrupted candidate: established artist identity/equipment, repair opaque ground and readability.",
+            "sha256": "23bae30a6e68706504e7c6c1108822b417a2c29e91b1e84da00cfb83974d421f",
+            "inspected": true
+          },
+          {
+            "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+            "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "73b3c137dbc99a66f766448e5a6f02fb7d4a6dc74489fb8ae1e0696883d105cd"
       },
       "presentation": {
         "characterOnly": true,
@@ -420,7 +507,8 @@
         "paletteStrip": false,
         "handStudies": false,
         "userApproval": "Full collection production authorized, user review at end."
-      }
+      },
+      "outputSha256": "9a5edf7b8a6ab56a6027913c06e790e88c83690f09ad418c526e8db8babb1cea"
     },
     {
       "id": "yelsa",
@@ -459,34 +547,20 @@
         "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
       },
       "output": "stories/where-no-unicorn-stands/art/characters/yelsa.png",
-      "status": "queued",
-      "blockers": [
-        "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen",
+        "tool": "image_gen__imagegen",
         "backend": "codex-imagegen",
-        "backendModel": null,
+        "backendModel": "Not reported by built-in tool",
         "format": "1536x1024",
-        "prompt": "Use case: stylized-concept. One 1536x1024 LANDSCAPE3:2 character-only folio, uniform light WARM IVORY background to all edges and every gap. ONE fully EQUINE identity, not human or humanoid. Two complete uncropped QUADRUPED body views (front-side three-quarter and rear-side three-quarter), one large matching EQUINE HEAD portrait, one small personal equipment object. Every head, tail, hoof, wing, horn stays inside margins. Four equine legs, hooves, horse muzzle and ears, horizontal torso. No human faces, hands, bipedal pose, human clothing or extra animals. Unicorns have ONE forehead horn and NO wings; Pegasi have TWO feathered wings and NO horn. Distinctive realistic horse proportions in stylized paint, no cartoon eyes. Opaque BROAD CONNECTED oil strokes and selective sculptural impasto from first reference, matte painted eyes/muzzle as broad as body and gear; no photographic smooth horse skin, shiny CGI, uniform tiny chips or anime. First ref is brush construction ONLY. Second ref species/content only; third palette/light only. No floor, cloud footing, ground patches, landscape, scenic montage, palette strip/swatches, detached anatomy or studies. Plain ivory folio means neutral display, never imply a unicorn stands on clouds. Exact readable name, smaller exact story title, brief role and concise view/equipment labels. One identity with coherent coat, mane, muzzle, marking, gear and anatomy across views.\nExact name \"Yelsa\"; exact story title \"Where No Unicorn Stands\"; subtitle \"Pegasus harness-keeper\". Adult FEMALE PEGASUS MARE, BROAD sturdy heavy-bodied horse build, warm CHESTNUT coat, dark BROWN short mane/long tail, slightly cream-toned muzzle, small matte brown horse eyes. TWO chestnut feathered wings, right wing has ONE PRIMARY FEATHER MISSING as a small natural gap at folded flight-feather edge; do not make side-label/anatomy exercises, no detached wings. Four equine legs/hooves. NO HORN. Fur around BOTH FRONT KNEES slightly darkened/slicked by practical WAX, painterly not glossy. Plain leather EQUINE TOOL BELT lies around torso with short measuring strip, small pouch and spare BUCKLE; no human trousers or hands. Isolated personal item spare buckle and folded measuring strip, no person inside. Patient blunt horse expression; cool storm daylight with muted chestnut/ochre warmth.",
+        "prompt": "Edit the attached Yelsa character folio. Remove ALL blue-grey decorative cloud-like paint patches around and behind the character views and equipment. Outside actual character/gear silhouettes, every pixel must be plain FULLY OPAQUE warm pale IVORY paper, with only subtle ivory paper texture. No cloud, ground/floor patch, floating pigment frame, haze or colored swatch. Retain cool blue-grey shadow paint INSIDE the character forms. In the small REAR spread-wing view at lower right, remove ONE long PRIMARY FEATHER from the character's RIGHT wing (the wing extending toward the right edge in this rear view). Leave a distinct single-feather gap in the OUTER third of its trailing edge, clearly wider than normal feather separations. The wing itself remains healthy, no wound or missing limb, exactly TWO wings. Keep all other feather groupings; this is the prose's missing primary. Preserve same equine identity, anatomy, full views, head, equipment, costume, exact name/story title and bold connected oil treatment. No other edits. All complete forms remain comfortably inside 1536x1024.",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
-            "role": "Inspected selected Sculpted Impasto paint only, broad connected planes; do not import human anatomy, props, scenery or swatches.",
-            "inspected": true,
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/title-image.jpg",
-            "role": "Inspected equine species shapes: white unicorn prince and slate-gray winged captain. Source hood/gear/no cloud footing override simplified cover.",
-            "inspected": true,
-            "sha256": "ae6c4871d8b782643a8604b3f3fde87196af049d9ffae58cedad3f52c26de291"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
-            "role": "Inspected cool storm daylight with sparse gold edge, broad Group of Seven oil; no storm/city/background.",
-            "inspected": true,
-            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9"
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-d7961232-591f-456a-981b-f436aa0f8eb0.png",
+            "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+            "sha256": "47e66e828be22993fc9a8b671e79e8b91fab2d4ed45b9e3656faa76964d52150",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -524,11 +598,82 @@
             ],
             "finishedAt": "2026-09-24T13:27:44.222678+00:00",
             "interruptionEvidence": "User changed scope to wrap up now; orchestration cell67 gone after turn abort. No corresponding returned file available in generation directory; no retry authorized under current scope."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T15:40:13.594158+00:00",
+            "prompt": "1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. Heading \"Yelsa\". Adult female broad-chested sturdy Pegasus mare, chestnut coat with darker brown mane/tail, cream muzzle, quiet matte brown eyes, two russet feathered wings with darker primaries. FOUR equine legs. NO horn. Source: one missing primary in RIGHT wing, wax rubbed around BOTH foreleg knees, practical leather harness-keeper tool belt holding a sheathed knife, rolled measuring strip and buckles. This is an experienced equine craftsperson, not a human centaur. Layout one full broadside standing view with wings folded, one smaller rear three-quarter view with both wings comfortably partially spread to reveal one distinct missing outer primary on right wing, plus large head/neck portrait and small belt-equipment arrangement without detached legs/wings. No human hands, no rider, no cradle, no royal crown/armor. Both full horse bodies use exactly the same chestnut coat, broad build, belt and wax knees. Wax is subtle opaque pale coating, not injury/glow.",
+            "references": [
+              {
+                "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+                "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+                "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Inspected broad connected oil masses; no scenery/subject transfer.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source read and actual cover/oil inspected. Source selects broad mare, absent right primary, wax knees and toolbelt; other design decisions recorded art-only. Lower three-quarter wing view makes missing feather feasible; no duplicate horse identity or human tools held in hands.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-d7961232-591f-456a-981b-f436aa0f8eb0.png",
+            "candidateSha256": "47e66e828be22993fc9a8b671e79e8b91fab2d4ed45b9e3656faa76964d52150",
+            "reviewedAt": "2026-09-24T16:10:57.311627+00:00",
+            "findings": [
+              "Source species/body/wax knees/tools correct, but blue cloud-like paint patches surround every view; remove for plain ivory. Missing right primary not distinctly legible in rear spread wing; create one clear outer-feather gap."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:10:58.410259+00:00",
+            "prompt": "Edit the attached Yelsa character folio. Remove ALL blue-grey decorative cloud-like paint patches around and behind the character views and equipment. Outside actual character/gear silhouettes, every pixel must be plain FULLY OPAQUE warm pale IVORY paper, with only subtle ivory paper texture. No cloud, ground/floor patch, floating pigment frame, haze or colored swatch. Retain cool blue-grey shadow paint INSIDE the character forms. In the small REAR spread-wing view at lower right, remove ONE long PRIMARY FEATHER from the character's RIGHT wing (the wing extending toward the right edge in this rear view). Leave a distinct single-feather gap in the OUTER third of its trailing edge, clearly wider than normal feather separations. The wing itself remains healthy, no wound or missing limb, exactly TWO wings. Keep all other feather groupings; this is the prose's missing primary. Preserve same equine identity, anatomy, full views, head, equipment, costume, exact name/story title and bold connected oil treatment. No other edits. All complete forms remain comfortably inside 1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-d7961232-591f-456a-981b-f436aa0f8eb0.png",
+                "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+                "sha256": "47e66e828be22993fc9a8b671e79e8b91fab2d4ed45b9e3656faa76964d52150",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source and actual candidate reviewed. Successful art identity/anatomy/gear retained. Contradiction is decorative cloud underpainting outside character and, for Yelsa, absent distinct source primary gap; narrow targeted correction.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-d24beaff-ed13-4a39-a6cf-c0f840dd38d9.png",
+            "candidateSha256": "8ace0514cc59121ab8a2bb53fb9dfc342a69b17e8e527e4c09be32564a15b896",
+            "reviewedAt": "2026-09-24T16:21:30.807090+00:00",
+            "findings": [
+              "Root inspected corrected actual pixels: broad chestnut pegasus mare retains four hooves and two wings, wax at both knees and coherent knife/measuring belt.",
+              "Rear spread-wing study now clearly shows the missing outer primary on her right wing; no added horn. Muzzle and body identity are consistent.",
+              "All blue cloud-like patches were removed from the ivory background. Exact name/title, complete forms, source-specific equipment and strongly painted fur/feathers, no location or swatches."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 3
       },
       "validation": {
-        "status": "PENDING"
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:21:30.812441+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected corrected actual pixels: broad chestnut pegasus mare retains four hooves and two wings, wax at both knees and coherent knife/measuring belt.",
+          "Rear spread-wing study now clearly shows the missing outer primary on her right wing; no added horn. Muzzle and body identity are consistent.",
+          "All blue cloud-like patches were removed from the ivory background. Exact name/title, complete forms, source-specific equipment and strongly painted fur/feathers, no location or swatches."
+        ],
+        "sourceSha256": "28a2c1263e9308b407ded8fd52d0b1f5c1d0ae7d8ba5153c9e3e0c3b1861fc67",
+        "outputSha256": "8ace0514cc59121ab8a2bb53fb9dfc342a69b17e8e527e4c09be32564a15b896",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-d7961232-591f-456a-981b-f436aa0f8eb0.png",
+            "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+            "sha256": "47e66e828be22993fc9a8b671e79e8b91fab2d4ed45b9e3656faa76964d52150",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "804fdbf371613844639dcbf3843f7ab179e9313228ece8afc4fa423715edce53"
       },
       "presentation": {
         "characterOnly": true,
@@ -537,7 +682,8 @@
         "paletteStrip": false,
         "handStudies": false,
         "userApproval": "Full collection production authorized, user review at end."
-      }
+      },
+      "outputSha256": "8ace0514cc59121ab8a2bb53fb9dfc342a69b17e8e527e4c09be32564a15b896"
     },
     {
       "id": "evloria",
@@ -576,34 +722,20 @@
         "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
       },
       "output": "stories/where-no-unicorn-stands/art/characters/evloria.png",
-      "status": "queued",
-      "blockers": [
-        "Deferred by explicit user wrap-up: retain attempt evidence; no new generation/correction calls."
-      ],
+      "status": "completed",
+      "blockers": [],
       "generation": {
-        "tool": "image_gen",
+        "tool": "image_gen__imagegen",
         "backend": "codex-imagegen",
-        "backendModel": null,
+        "backendModel": "Not reported by built-in tool",
         "format": "1536x1024",
-        "prompt": "Use case: stylized-concept. One 1536x1024 LANDSCAPE3:2 character-only folio, uniform light WARM IVORY background to all edges and every gap. ONE fully EQUINE identity, not human or humanoid. Two complete uncropped QUADRUPED body views (front-side three-quarter and rear-side three-quarter), one large matching EQUINE HEAD portrait, one small personal equipment object. Every head, tail, hoof, wing, horn stays inside margins. Four equine legs, hooves, horse muzzle and ears, horizontal torso. No human faces, hands, bipedal pose, human clothing or extra animals. Unicorns have ONE forehead horn and NO wings; Pegasi have TWO feathered wings and NO horn. Distinctive realistic horse proportions in stylized paint, no cartoon eyes. Opaque BROAD CONNECTED oil strokes and selective sculptural impasto from first reference, matte painted eyes/muzzle as broad as body and gear; no photographic smooth horse skin, shiny CGI, uniform tiny chips or anime. First ref is brush construction ONLY. Second ref species/content only; third palette/light only. No floor, cloud footing, ground patches, landscape, scenic montage, palette strip/swatches, detached anatomy or studies. Plain ivory folio means neutral display, never imply a unicorn stands on clouds. Exact readable name, smaller exact story title, brief role and concise view/equipment labels. One identity with coherent coat, mane, muzzle, marking, gear and anatomy across views.\nExact name \"Evloria\"; exact story title \"Where No Unicorn Stands\"; subtitle \"Newly crowned unicorn queen\". MATURE FEMALE UNICORN MARE, graceful solid fully-grown HORSE body, pearly WHITE-GRAY coat built of matte opaque paint, long SILVER GRAY mane and tail, gentle mature muzzle, small dark brown HORSE eyes. ONE ivory spiral horn centered forward on forehead, NO WINGS. A simple GOLD CROWN rests BETWEEN her EARS behind the horn, not impaled by it. Fine muted GREEN royal blanket with gold edge across back, light dampness expressed only in darkened lower mane. Four complete normal equine legs/hooves, no human anatomy. Isolated personal object her simple gold crown, no stone, root cord, glow or magical scenery. Cool rainy dusk face/coat with restrained palegold highlights, determined protective expression.",
+        "prompt": "Edit the attached Evloria character folio. Remove ALL blue-grey decorative cloud-like paint patches around and behind the character views and equipment. Outside actual character/gear silhouettes, every pixel must be plain FULLY OPAQUE warm pale IVORY paper, with only subtle ivory paper texture. No cloud, ground/floor patch, floating pigment frame, haze or colored swatch. Retain cool blue-grey shadow paint INSIDE the character forms.  Preserve same equine identity, anatomy, full views, head, equipment, costume, exact name/story title and bold connected oil treatment. No other edits. All complete forms remain comfortably inside 1536x1024.",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
-            "role": "Inspected selected Sculpted Impasto paint only, broad connected planes; do not import human anatomy, props, scenery or swatches.",
-            "inspected": true,
-            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/title-image.jpg",
-            "role": "Inspected equine species shapes: white unicorn prince and slate-gray winged captain. Source hood/gear/no cloud footing override simplified cover.",
-            "inspected": true,
-            "sha256": "ae6c4871d8b782643a8604b3f3fde87196af049d9ffae58cedad3f52c26de291"
-          },
-          {
-            "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
-            "role": "Inspected cool storm daylight with sparse gold edge, broad Group of Seven oil; no storm/city/background.",
-            "inspected": true,
-            "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9"
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0cee9390-edfa-48e4-95ad-677e7b05d899.png",
+            "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+            "sha256": "75f52e73751af577dd4ea97f90fd3dafb67166ed4195a5ebd1620ff7849e0ea3",
+            "inspected": true
           }
         ],
         "attempts": [
@@ -641,11 +773,88 @@
             ],
             "finishedAt": "2026-09-24T13:27:44.222698+00:00",
             "interruptionEvidence": "User changed scope to wrap up now; orchestration cell67 gone after turn abort. No corresponding returned file available in generation directory; no retry authorized under current scope."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T15:40:13.601596+00:00",
+            "prompt": "1536x1024 landscape character folio, fully OPAQUE warm ivory paper. Exact name heading and exact subtitle \"Where No Unicorn Stands\" in readable dark charcoal. Natural four-legged equine anatomy and quiet nonhuman horse eyes, all hooves/tail/horn/wingtips comfortably inside margins. One character only. Broad connected Group of Seven oil masses, bristle and knife strokes, selective impasto, strong cool storm-blue grey shadows and restrained pale warm light. No anime/photoreal/3D, no floor patch, cloud footing, city, scenery, human limbs, props unrelated to character, swatches or palette strips. Heading \"Evloria\". Mature adult female unicorn queen, white-grey coat, long silver-grey mane and tail, ONE long ivory spiral horn, FOUR equine legs, NO wings. Natural mature mare proportions, graceful powerful neck, small dark horse eyes, small plain GOLD CROWN between the two upright ears behind the horn, simple dark green coronation blanket with narrow gold edging. State after releasing the stone, no active magic, no injury, no harness. Layout two complete equine views: true side and rear three-quarter, plus distinct mature calm attentive head-neck portrait and small folded blanket/crown object detail. Both full bodies have identical crown and blanket; generous clear ivory margins around tail, all hooves and horn tips. Do not depict palace, stone, cord, wing, human anatomy or any other character.",
+            "references": [
+              {
+                "path": "stories/where-no-unicorn-stands/art/landscapes/02-the-rooted-storm-city.png",
+                "role": "Inspected source storm-light value palette and broad connected Group of Seven oil handling only, no city or cloud footing.",
+                "sha256": "2fde562029574e3c0363f7282a7fcc38ea09489c4dbde8beba2608a8734856d9",
+                "inspected": true
+              },
+              {
+                "path": "stories/where-no-unicorn-stands/title-image.jpg",
+                "role": "Inspected compatible white unicorn equine anatomy/palette only; male prince/winged captain not queen identity and no anime rendering/cloud footing.",
+                "sha256": "ae6c4871d8b782643a8604b3f3fde87196af049d9ffae58cedad3f52c26de291",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary inspected broad connected oil paint treatment only; no orchard.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source read and cover/paintings inspected. Queen equine species, crown, one horn and no wings source; mature white-grey appearance/blanket art-only. Neutral post-release state avoids unsupported binding/staging. Two full form views fit canvas.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-0cee9390-edfa-48e4-95ad-677e7b05d899.png",
+            "candidateSha256": "75f52e73751af577dd4ea97f90fd3dafb67166ed4195a5ebd1620ff7849e0ea3",
+            "reviewedAt": "2026-09-24T16:10:57.316201+00:00",
+            "findings": [
+              "Mature unicorn/crown/blanket and full forms correct, but blue cloud-like paint patches surround views and props; remove for character-only plain ivory presentation."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:10:58.414871+00:00",
+            "prompt": "Edit the attached Evloria character folio. Remove ALL blue-grey decorative cloud-like paint patches around and behind the character views and equipment. Outside actual character/gear silhouettes, every pixel must be plain FULLY OPAQUE warm pale IVORY paper, with only subtle ivory paper texture. No cloud, ground/floor patch, floating pigment frame, haze or colored swatch. Retain cool blue-grey shadow paint INSIDE the character forms.  Preserve same equine identity, anatomy, full views, head, equipment, costume, exact name/story title and bold connected oil treatment. No other edits. All complete forms remain comfortably inside 1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0cee9390-edfa-48e4-95ad-677e7b05d899.png",
+                "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+                "sha256": "75f52e73751af577dd4ea97f90fd3dafb67166ed4195a5ebd1620ff7849e0ea3",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root full source and actual candidate reviewed. Successful art identity/anatomy/gear retained. Contradiction is decorative cloud underpainting outside character and, for Yelsa, absent distinct source primary gap; narrow targeted correction.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-7d840279-317b-4f27-854b-c673cf552176.png",
+            "candidateSha256": "4d595479d446257b3d9ce439bc469343a4430d5d30cc8c04385813b8fbb7a535",
+            "reviewedAt": "2026-09-24T16:21:30.843142+00:00",
+            "findings": [
+              "Root inspected corrected actual pixels: one adult unicorn queen, four hooves, two ears and one horn, no wings; crown and green-gold blanket consistent in front/rear/portrait views.",
+              "Quiet opaque ivory now replaces all cloud-like background patches; character and equipment only, readable exact name and story title.",
+              "Painted white-gray coat, mane and dark green fabric retain selected broad oil handling and accepted distinct identity."
+            ]
           }
-        ]
+        ],
+        "selectedAttempt": 3
       },
       "validation": {
-        "status": "PENDING"
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:21:30.848269+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected corrected actual pixels: one adult unicorn queen, four hooves, two ears and one horn, no wings; crown and green-gold blanket consistent in front/rear/portrait views.",
+          "Quiet opaque ivory now replaces all cloud-like background patches; character and equipment only, readable exact name and story title.",
+          "Painted white-gray coat, mane and dark green fabric retain selected broad oil handling and accepted distinct identity."
+        ],
+        "sourceSha256": "28a2c1263e9308b407ded8fd52d0b1f5c1d0ae7d8ba5153c9e3e0c3b1861fc67",
+        "outputSha256": "4d595479d446257b3d9ce439bc469343a4430d5d30cc8c04385813b8fbb7a535",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0cee9390-edfa-48e4-95ad-677e7b05d899.png",
+            "role": "Actual reviewed complete equine folio; narrow correction to background and source distinguishing feather only.",
+            "sha256": "75f52e73751af577dd4ea97f90fd3dafb67166ed4195a5ebd1620ff7849e0ea3",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "7ed349e1d1f35f2b9da4751256cea75b5e59c15a8db4b317f8bb80fb2634329e"
       },
       "presentation": {
         "characterOnly": true,
@@ -654,9 +863,10 @@
         "paletteStrip": false,
         "handStudies": false,
         "userApproval": "Full collection production authorized, user review at end."
-      }
+      },
+      "outputSha256": "4d595479d446257b3d9ce439bc469343a4430d5d30cc8c04385813b8fbb7a535"
     }
   ],
   "sourceSha256": "28a2c1263e9308b407ded8fd52d0b1f5c1d0ae7d8ba5153c9e3e0c3b1861fc67",
-  "completionNote": "Production frozen by explicit user wrap-up. Only Rhuden completed. Elvask/Stavreth rejected for dark background and illegible heading; Yelsa/Evloria interrupted without returned output. Remaining sheets queued, not passed."
+  "completionNote": "All five source-supported identities completed. Root independently reviewed the four resumed sheets; the previously accepted Rhuden is retained."
 }
