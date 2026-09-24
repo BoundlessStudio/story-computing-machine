@@ -1,0 +1,1184 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-rule-between-courses",
+  "title": "All the Good Things",
+  "source": "stories/the-rule-between-courses/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final rewritten source and complete prompt read; five named sustained present catfolk identities selected, removed hunting premise/prior characters not revived. Original Image #1 restored exact archived bytes and inspected; original left/right diners/centre server/background musician mapped only where source traits agree; Mezzara independently designed.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Veslina's partner, Ceret's sister/niece or nephew, clarinet boy, landlord, other diners/child",
+      "reason": "Offstage reports or incidental minor people, not sustained main cast."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "Image #1",
+      "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+      "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+      "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+      "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+      "line": 9,
+      "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+      "inspected": true
+    }
+  ],
+  "coverInspection": "Actual cover inspected: three diners, but centre visual derives from original server. Original plus final prose control identity mapping; do not silently make server Mezzara. Cover anime rendering not used.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ceret",
+      "name": "Ceret",
+      "role": "Focal catfolk friend arranging the supper and learning to ask.",
+      "form": "Adult catfolk woman",
+      "selectionEvidence": [
+        {
+          "quote": "silver-speckled fur at the base of her ear",
+          "explanation": "Focal catfolk friend arranging the supper and learning to ask."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Silver-speckled ear-base fur, fringe, tail; ordinary adult friend, no ancestral hunt instinct."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Original LEFT silver-spotted diner anchors silver long hair/loose braids, pale skin, gold-brown eyes, spotted feline ears; art-only mature apparent36, soft round face and silver-spotted tail, practical full-length grey dress with worn soft trim."
+      ],
+      "states": [
+        {
+          "name": "Listening at supper",
+          "description": "During final warm dinner conversation, coat absent, fully clothed and relaxed."
+        }
+      ],
+      "lighting": "Night interior candle/shaded practical lamps: warm limited facing planes and connected deep umber-violet shadows; bright ivory paper does not become daylight.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Ceret"
+      },
+      "status": "completed",
+      "output": "stories/the-rule-between-courses/art/characters/ceret.png",
+      "generation": {
+        "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Ceret identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Ceret, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Ceret's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  ",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ef73f690-2606-4510-a269-0618d85934c7.png",
+            "sha256": "76106b424575edf870992f05950aa0fdead87ee0a6bcca9b414d759f234dff90",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Ceret; exact subtitle All the Good Things. Select ONLY the LEFT silver-haired spotted catfolk woman from the ORIGINAL restaurant image as identity. Mature adult apparent36, soft round face, gold-brown eyes, pale skin with source silver-speckled fur at feline ear bases, long SILVER hair with loose small braids and a slightly uneven fringe. Two spotted feline ears, ONE long SILVER tail with dark spots. Practical full-length GREY dress with modest neckline, worn soft fur-edged cuffs/shoulders, flat dark shoes; no glamour styling. Quiet affectionate attentive expression and one conversational open hand. No cup required. Main state Listening at supper. EVERY view uses restrained night CANDLE/LAMP light, limited warm amber facing planes and broad CONNECTED deep umber-violet shadows; do not fully expose the face. Uniform LIGHT IVORY everywhere outside figures. Paint all faces/fur with bold opaque varied bristle strokes, NOT anime, glassy eyes, CGI or fur-by-fur rendering. Two full-body front/rear views and one head plus useful hand/prop study, all ears/tail/feet inside clear margins. One tail and two ears, ordinary humanlike arms/hands/legs. No other people, restaurant, chair, fish platter or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "displayName": "Image #1",
+                "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+                "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+                "line": 9,
+                "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+                "inspected": true,
+                "role": "Original LEFT silver-spotted diner identity traits only; never anime rendering, other diners, server or restaurant."
+              },
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Actual inspected source-specific warm practical light and broad painted shadow reference only, never room/furniture.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.006366+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4858bd46-0ddf-44a8-93d2-4b55b6cbd599.png",
+            "outputSha256": "43f98c30321b6263f2e868c794124c5391b21d9ff4c3cf3a953ff788104296ee",
+            "generatorReview": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:07.074906+00:00",
+            "prompt": "Correct this exact Ceret folio. PRESERVE same character's face identity/proportions, hair, feline ears, ONE tail, fur pattern, outfit, props, pose/layout and exact heading Ceret, subtitle All the Good Things. Replace entire background negative space/haze with clean uniform LIGHT IVORY, including all edges, so existing dark text is clear. Repaint face/eyes/skin/fur/hair/hands using the TWO attached OIL PAINTINGS' broad opaque brush-built planes and matte edges: eliminate smooth anime face fills, ink eyelash outlines, glossy doll eyes and uniform raised gold chips. Eye sockets/lids should be quiet painted shadow shapes with restrained small natural catchlights; do not change the individual's identity or enlarge eyes. Vary strokes and keep broad connected masses, not shiny sculpted scales. Relight every pose/head as dim NIGHT candle/practical lamp: only one side of face/nose/hand catches subdued warm amber, opposite face/neck and most clothing remain deep connected umber-violet shadow, no broad daylight fill/rimlight. Preserve all accepted geometry; give upper-right portrait ears/crown a small clear ivory margin if touching edge. No scenery, floor, extra person, new props or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4858bd46-0ddf-44a8-93d2-4b55b6cbd599.png",
+                "sha256": "43f98c30321b6263f2e868c794124c5391b21d9ff4c3cf3a953ff788104296ee",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ef73f690-2606-4510-a269-0618d85934c7.png",
+            "outputSha256": "76106b424575edf870992f05950aa0fdead87ee0a6bcca9b414d759f234dff90",
+            "generatorReview": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:53:14.280928+00:00",
+            "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Ceret identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Ceret, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Ceret's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  ",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ef73f690-2606-4510-a269-0618d85934c7.png",
+                "sha256": "76106b424575edf870992f05950aa0fdead87ee0a6bcca9b414d759f234dff90",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-5bbb3124-a705-48fc-8450-9922431b0382.png",
+            "outputSha256": "d39c432cd15d47f98d62665c6c10ced0b635f8e2cbeb9f2d2a9f99253720f969",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:28.688572+00:00",
+            "generatorReview": "Actual pixels inspected: recovered-original Ceret identity retained with silver long hair, ears, one spotted tail and grey dress; repeated body/head consistent, five-digit hands plausible and complete framing. Repainted broad matte opaque planes and connected subdued lamplit nighttime shadows replace prior glossy bright face. Uniform ivory, exact heading/title and character-only format pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "d39c432cd15d47f98d62665c6c10ced0b635f8e2cbeb9f2d2a9f99253720f969",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:28.688572+00:00",
+        "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25",
+        "outputSha256": "d39c432cd15d47f98d62665c6c10ced0b635f8e2cbeb9f2d2a9f99253720f969",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ef73f690-2606-4510-a269-0618d85934c7.png",
+            "sha256": "76106b424575edf870992f05950aa0fdead87ee0a6bcca9b414d759f234dff90",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: recovered-original Ceret identity retained with silver long hair, ears, one spotted tail and grey dress; repeated body/head consistent, five-digit hands plausible and complete framing. Repainted broad matte opaque planes and connected subdued lamplit nighttime shadows replace prior glossy bright face. Uniform ivory, exact heading/title and character-only format pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "445798b63c690cfd313ff6947e021994392590da4fc3cc64bd4aaec5bb3e80e1"
+      }
+    },
+    {
+      "id": "veslina",
+      "name": "Veslina",
+      "role": "Tawny-tailed friend whose relationship news and invitation shape dinner.",
+      "form": "Adult catfolk woman",
+      "selectionEvidence": [
+        {
+          "quote": "her tawny, dark-ringed tail",
+          "explanation": "Tawny-tailed friend whose relationship news and invitation shape dinner."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Tawny dark-ringed tail, striped shawl on rainy arrival, soap parcel; adult friend and unseen partner."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Original RIGHT tawny spotted/striped diner provides long tawny-black hair, brown-gold eyes and cat muzzle stripes; art-only apparent34 mature face, rust/cream striped shawl, simple dark dress and ankle boots."
+      ],
+      "states": [
+        {
+          "name": "At supper",
+          "description": "Striped shawl loosened around shoulders; ordinary small wrapped two-bar soap parcel."
+        }
+      ],
+      "lighting": "Night interior candle/shaded practical lamps: warm limited facing planes and connected deep umber-violet shadows; bright ivory paper does not become daylight.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Veslina"
+      },
+      "status": "completed",
+      "output": "stories/the-rule-between-courses/art/characters/veslina.png",
+      "generation": {
+        "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Veslina identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Veslina, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Veslina's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  ",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-82af28b5-b4c5-400a-9892-45039fd34bb2.png",
+            "sha256": "ee48bcd9ec39b9c61c1dda1f9ff555cc36b56298260b789ca8f7eb34cc3e3b41",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Veslina; exact subtitle All the Good Things. Select ONLY the RIGHT tawny catfolk diner in original as identity. Mature adult apparent34, warm tawny skin/fur with dark stripes/spots, softly rounded black feline nose, long tawny and BLACK hair, brown-gold eyes and two large tawny ears with black tips. ONE tawny tail has dark RINGS as source; keep tail visible and unclipped. Rust/cream STRIPED SHAWL loosened around shoulders over simple dark full-length modest dress, ordinary ankle boots. Friendly hesitant smile and head listening with ears slightly outward. Small hand study holds paper parcel containing two SOAP bars. No weapon, predatory expression or extra original person. State At supper. EVERY view uses restrained night CANDLE/LAMP light, limited warm amber facing planes and broad CONNECTED deep umber-violet shadows; do not fully expose the face. Uniform LIGHT IVORY everywhere outside figures. Paint all faces/fur with bold opaque varied bristle strokes, NOT anime, glassy eyes, CGI or fur-by-fur rendering. Two full-body front/rear views and one head plus useful hand/prop study, all ears/tail/feet inside clear margins. One tail and two ears, ordinary humanlike arms/hands/legs. No other people, restaurant, chair, fish platter or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "displayName": "Image #1",
+                "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+                "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+                "line": 9,
+                "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+                "inspected": true,
+                "role": "Original RIGHT tawny diner identity only; source overrides tail to dark-ringed tawny and shawl state. No other people/style/scenery."
+              },
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Actual inspected source-specific warm practical light and broad painted shadow reference only, never room/furniture.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.008007+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-fbbdd0d9-2ab7-4e73-aae4-f4bd73ff04cd.png",
+            "outputSha256": "c7ae36894186ee4296810fa5f911744750335542e8fe28a860adc06dfe91d649",
+            "generatorReview": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:07.086987+00:00",
+            "prompt": "Correct this exact Veslina folio. PRESERVE same character's face identity/proportions, hair, feline ears, ONE tail, fur pattern, outfit, props, pose/layout and exact heading Veslina, subtitle All the Good Things. Replace entire background negative space/haze with clean uniform LIGHT IVORY, including all edges, so existing dark text is clear. Repaint face/eyes/skin/fur/hair/hands using the TWO attached OIL PAINTINGS' broad opaque brush-built planes and matte edges: eliminate smooth anime face fills, ink eyelash outlines, glossy doll eyes and uniform raised gold chips. Eye sockets/lids should be quiet painted shadow shapes with restrained small natural catchlights; do not change the individual's identity or enlarge eyes. Vary strokes and keep broad connected masses, not shiny sculpted scales. Relight every pose/head as dim NIGHT candle/practical lamp: only one side of face/nose/hand catches subdued warm amber, opposite face/neck and most clothing remain deep connected umber-violet shadow, no broad daylight fill/rimlight. Preserve all accepted geometry; give upper-right portrait ears/crown a small clear ivory margin if touching edge. No scenery, floor, extra person, new props or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-fbbdd0d9-2ab7-4e73-aae4-f4bd73ff04cd.png",
+                "sha256": "c7ae36894186ee4296810fa5f911744750335542e8fe28a860adc06dfe91d649",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-82af28b5-b4c5-400a-9892-45039fd34bb2.png",
+            "outputSha256": "ee48bcd9ec39b9c61c1dda1f9ff555cc36b56298260b789ca8f7eb34cc3e3b41",
+            "generatorReview": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:53:14.291159+00:00",
+            "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Veslina identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Veslina, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Veslina's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  ",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-82af28b5-b4c5-400a-9892-45039fd34bb2.png",
+                "sha256": "ee48bcd9ec39b9c61c1dda1f9ff555cc36b56298260b789ca8f7eb34cc3e3b41",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-6e38e290-5d61-46a4-925a-4505a283f8ec.png",
+            "outputSha256": "2e4528d0e6ea3b968e70ae0102998dabc46beac0ef437085b859305766aa2b74",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:28.726099+00:00",
+            "generatorReview": "Actual pixels inspected: same recovered-original tawny fur/black long hair, spotted anatomy, ringed tail and striped shawl identity across two bodies/head. Two soap bars preserved, all anatomy and extremities framed. Low-lamp connected shadows and broad matte opaque skin/cloth oils now pass; light ivory, exact heading/title and no scenery pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "2e4528d0e6ea3b968e70ae0102998dabc46beac0ef437085b859305766aa2b74",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:28.726099+00:00",
+        "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25",
+        "outputSha256": "2e4528d0e6ea3b968e70ae0102998dabc46beac0ef437085b859305766aa2b74",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-82af28b5-b4c5-400a-9892-45039fd34bb2.png",
+            "sha256": "ee48bcd9ec39b9c61c1dda1f9ff555cc36b56298260b789ca8f7eb34cc3e3b41",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same recovered-original tawny fur/black long hair, spotted anatomy, ringed tail and striped shawl identity across two bodies/head. Two soap bars preserved, all anatomy and extremities framed. Low-lamp connected shadows and broad matte opaque skin/cloth oils now pass; light ivory, exact heading/title and no scenery pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "199da3d2c113f7f8ca83e8de4725ef767cce267332924f2d4ae71a83bfe81f7e"
+      }
+    },
+    {
+      "id": "mezzara",
+      "name": "Mezzara",
+      "role": "Dark-furred friend planning a settled room and correcting shared memories.",
+      "form": "Adult catfolk woman",
+      "selectionEvidence": [
+        {
+          "quote": "the candle traced a narrow line along the dark fur of her cheek",
+          "explanation": "Dark-furred friend planning a settled room and correcting shared memories."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Dark ear and cheek fur, green coat removed after rainy entry; sleeve bears white plaster dust."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only apparent41, long oval humanlike face with subtle black feline muzzle, dark warm skin/short BLACK bob, amber eyes, dark feline ears/one black tail; plum long-sleeved blouse with small white plaster streak and olive skirt, simple shoes. Distinct from server original center."
+      ],
+      "states": [
+        {
+          "name": "After arrival",
+          "description": "Green outer coat removed; small white plaster streak on inner blouse sleeve, never broad snow or injury."
+        }
+      ],
+      "lighting": "Night interior candle/shaded practical lamps: warm limited facing planes and connected deep umber-violet shadows; bright ivory paper does not become daylight.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Mezzara"
+      },
+      "status": "completed",
+      "output": "stories/the-rule-between-courses/art/characters/mezzara.png",
+      "generation": {
+        "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Mezzara identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Mezzara, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Mezzara's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference. White plaster streak on ANATOMICAL RIGHT sleeve (front viewerLEFT, rear viewerRIGHT) exactly; detached green coat unchanged. ",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-251cf695-e291-4268-bfb9-a1419e432b3d.png",
+            "sha256": "88bdc128e40f027bdfd15621be3fceea21545b23bdedb28c7d706f1afec8f26e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Mezzara; exact subtitle All the Good Things. ONE adult female catfolk friend, apparent41, LONG OVAL face, subtle feline nose, dark warm brown skin with BLACK fur along cheeks and ear bases, short straight BLACK BOB hair, amber eyes, two black feline ears and ONE BLACK tail. She is a separate friend whose exact face is not visible in the original, NOT its centre server. Wear PLUM long-sleeved blouse with a small WHITE PLASTER streak on one sleeve, olive long skirt and simple dark shoes. Her GREEN outer coat has been removed; show folded green coat as small separate detail if space, never worn on main views. Gentle dryly amused face, relaxed adult posture. State After arrival. No ornate cap, apron or bell choker. EVERY view uses restrained night CANDLE/LAMP light, limited warm amber facing planes and broad CONNECTED deep umber-violet shadows; do not fully expose the face. Uniform LIGHT IVORY everywhere outside figures. Paint all faces/fur with bold opaque varied bristle strokes, NOT anime, glassy eyes, CGI or fur-by-fur rendering. Two full-body front/rear views and one head plus useful hand/prop study, all ears/tail/feet inside clear margins. One tail and two ears, ordinary humanlike arms/hands/legs. No other people, restaurant, chair, fish platter or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "displayName": "Image #1",
+                "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+                "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+                "line": 9,
+                "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+                "inspected": true,
+                "role": "Community catfolk anatomy/evening mood only; Mezzara has no assigned original face, do not duplicate original centre server."
+              },
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Actual inspected source-specific warm practical light and broad painted shadow reference only, never room/furniture.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.009423+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-530a0edc-b36d-448c-bf3f-ea6c163a6e31.png",
+            "outputSha256": "4e9a29d2e2ce1ce4efc884bb49e547a94c4ee599f55c6c905df98613d2249aa1",
+            "generatorReview": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:07.098996+00:00",
+            "prompt": "Correct this exact Mezzara folio. PRESERVE same character's face identity/proportions, hair, feline ears, ONE tail, fur pattern, outfit, props, pose/layout and exact heading Mezzara, subtitle All the Good Things. Replace entire background negative space/haze with clean uniform LIGHT IVORY, including all edges, so existing dark text is clear. Repaint face/eyes/skin/fur/hair/hands using the TWO attached OIL PAINTINGS' broad opaque brush-built planes and matte edges: eliminate smooth anime face fills, ink eyelash outlines, glossy doll eyes and uniform raised gold chips. Eye sockets/lids should be quiet painted shadow shapes with restrained small natural catchlights; do not change the individual's identity or enlarge eyes. Vary strokes and keep broad connected masses, not shiny sculpted scales. Relight every pose/head as dim NIGHT candle/practical lamp: only one side of face/nose/hand catches subdued warm amber, opposite face/neck and most clothing remain deep connected umber-violet shadow, no broad daylight fill/rimlight. Preserve all accepted geometry; give upper-right portrait ears/crown a small clear ivory margin if touching edge. No scenery, floor, extra person, new props or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-530a0edc-b36d-448c-bf3f-ea6c163a6e31.png",
+                "sha256": "4e9a29d2e2ce1ce4efc884bb49e547a94c4ee599f55c6c905df98613d2249aa1",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-251cf695-e291-4268-bfb9-a1419e432b3d.png",
+            "outputSha256": "88bdc128e40f027bdfd15621be3fceea21545b23bdedb28c7d706f1afec8f26e",
+            "generatorReview": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:53:14.300900+00:00",
+            "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Mezzara identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Mezzara, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Mezzara's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference. White plaster streak on ANATOMICAL RIGHT sleeve (front viewerLEFT, rear viewerRIGHT) exactly; detached green coat unchanged. ",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-251cf695-e291-4268-bfb9-a1419e432b3d.png",
+                "sha256": "88bdc128e40f027bdfd15621be3fceea21545b23bdedb28c7d706f1afec8f26e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-989a6c73-2ee1-4af1-83cb-7c2536f4d8cd.png",
+            "outputSha256": "e98ad7f6c52e890a416e271eb8afc52c9d8d143287bbd14e8f80a00ccf6da0c4",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:28.751955+00:00",
+            "generatorReview": "Actual pixels inspected: independent Mezzara identity black bob/ears/tail, plum blouse, green skirt consistent across bodies/portrait; source plaster stays on RIGHT sleeve (front viewer-left, rear viewer-right), removed green coat detail preserved, cup-hand anatomy plausible. Restrained nighttime shadow masses/matte oil repaint, exact heading/title, ivory and framing pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "e98ad7f6c52e890a416e271eb8afc52c9d8d143287bbd14e8f80a00ccf6da0c4",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:28.751955+00:00",
+        "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25",
+        "outputSha256": "e98ad7f6c52e890a416e271eb8afc52c9d8d143287bbd14e8f80a00ccf6da0c4",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-251cf695-e291-4268-bfb9-a1419e432b3d.png",
+            "sha256": "88bdc128e40f027bdfd15621be3fceea21545b23bdedb28c7d706f1afec8f26e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: independent Mezzara identity black bob/ears/tail, plum blouse, green skirt consistent across bodies/portrait; source plaster stays on RIGHT sleeve (front viewer-left, rear viewer-right), removed green coat detail preserved, cup-hand anatomy plausible. Restrained nighttime shadow masses/matte oil repaint, exact heading/title, ivory and framing pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "3ab3090b4a702343f1758939277a2bd9f6da4ff9a43fab5a12f4a06209c4973e"
+      }
+    },
+    {
+      "id": "linette",
+      "name": "Linette",
+      "role": "Recurring server whose attentive exchanges structure the evening.",
+      "form": "Adult catfolk woman",
+      "selectionEvidence": [
+        {
+          "quote": "Her black tail curved behind her apron",
+          "explanation": "Recurring server whose attentive exchanges structure the evening."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Black tail/apron, hands serving menus/water, composed practical manner."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Original CENTER server anchors dark long hair/feline ears, patterned red/cream cap and garments, black apron and small brass bell collar. Art apparent32 mature expression, full length clothing and plain shoes; signage removed."
+      ],
+      "states": [
+        {
+          "name": "Taking orders",
+          "description": "Menus and folded cloth; practical calm service, no removed hunt/house rule."
+        }
+      ],
+      "lighting": "Night interior candle/shaded practical lamps: warm limited facing planes and connected deep umber-violet shadows; bright ivory paper does not become daylight.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Linette"
+      },
+      "status": "completed",
+      "output": "stories/the-rule-between-courses/art/characters/linette.png",
+      "generation": {
+        "prompt": "Use case: identity-preserve. The FIRST TWO attached images are PAINT HANDLING references only; the LAST image is the exact Linette folio to edit. Change only facial skin and eyes in Linette's front body and detached portrait: retain precisely her face proportions, identity, mature adult age, expression, gaze and hairline, but render these surfaces in broad connected matte opaque OIL masses matching the first two paintings. Replace thin black anime eyelash outlines with soft brush-built lid and socket shadow planes; simplify cheeks and nose into larger connected bristle shapes. Use subdued warm lamp planes with deep connected umber-violet shadow, no glassy doll highlights or smooth cel shading. Face paint must be as physically brushed and broad as the existing clothing. Preserve all clothing, hair, ears, cap, bell collar, ONE black tail per view, hands, menus and service cloth, poses, full ivory margins, exact Linette heading and All the Good Things subtitle. Do not borrow any face or scenery from style refs. Keep the entire sheet layout and every other element unchanged.",
+        "references": [
+          {
+            "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+            "role": "Inspected source nighttime lamplight and broad matte connected oil paint only; no location or props.",
+            "inspected": true,
+            "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected broad connected opaque masses and directional bristle strokes only; no scenery/daylight.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7a6a8c14-eb98-4557-a7c0-40858491d198.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "14d3e80c33ccb872e4d771869abbcc7bbf86844fcdcefd4478b192a3b7fc7268"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Linette; exact subtitle All the Good Things. Select ONLY ORIGINAL CENTRE SERVER identity: mature adult female catfolk apparent32, warm brown humanlike face, long dark brown-black hair/bangs, two dark feline ears with cream inner fur, ONE source BLACK tail. Wear original red/cream/dark patterned ear-open knitted cap, patterned blouse sleeves and simple BLACK APRON over full-length dark trousers, plain flat shoes; small brass bell choker. Apron is plain without copied branding, letters or paw logo. Composed attentive small smile. Hands carry three plain folded menus in one pose and a folded service cloth detail. State Taking orders. Do not duplicate any diner or original room. EVERY view uses restrained night CANDLE/LAMP light, limited warm amber facing planes and broad CONNECTED deep umber-violet shadows; do not fully expose the face. Uniform LIGHT IVORY everywhere outside figures. Paint all faces/fur with bold opaque varied bristle strokes, NOT anime, glassy eyes, CGI or fur-by-fur rendering. Two full-body front/rear views and one head plus useful hand/prop study, all ears/tail/feet inside clear margins. One tail and two ears, ordinary humanlike arms/hands/legs. No other people, restaurant, chair, fish platter or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "displayName": "Image #1",
+                "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+                "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+                "line": 9,
+                "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+                "inspected": true,
+                "role": "Original CENTER standing server identity/clothing only. Source black tail retained; original restaurant signage and logo not copied."
+              },
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Actual inspected source-specific warm practical light and broad painted shadow reference only, never room/furniture.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.011269+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-35a1f954-8122-4d54-af4a-bfe3ca0eb367.png",
+            "outputSha256": "bb9c23aa13a7a58008f33deaf1e94f7e92fd74380f74a9779fd6d97d3269c9aa",
+            "generatorReview": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:07.109155+00:00",
+            "prompt": "Correct this exact Linette folio. PRESERVE same character's face identity/proportions, hair, feline ears, ONE tail, fur pattern, outfit, props, pose/layout and exact heading Linette, subtitle All the Good Things. Replace entire background negative space/haze with clean uniform LIGHT IVORY, including all edges, so existing dark text is clear. Repaint face/eyes/skin/fur/hair/hands using the TWO attached OIL PAINTINGS' broad opaque brush-built planes and matte edges: eliminate smooth anime face fills, ink eyelash outlines, glossy doll eyes and uniform raised gold chips. Eye sockets/lids should be quiet painted shadow shapes with restrained small natural catchlights; do not change the individual's identity or enlarge eyes. Vary strokes and keep broad connected masses, not shiny sculpted scales. Relight every pose/head as dim NIGHT candle/practical lamp: only one side of face/nose/hand catches subdued warm amber, opposite face/neck and most clothing remain deep connected umber-violet shadow, no broad daylight fill/rimlight. Preserve all accepted geometry; give upper-right portrait ears/crown a small clear ivory margin if touching edge. No scenery, floor, extra person, new props or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-35a1f954-8122-4d54-af4a-bfe3ca0eb367.png",
+                "sha256": "bb9c23aa13a7a58008f33deaf1e94f7e92fd74380f74a9779fd6d97d3269c9aa",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-789ac3e9-719d-431c-b311-1154d75e1a0f.png",
+            "outputSha256": "34b37fe9bcb6eb2dfef7ab81c4d97d2d569e6f06b23c179a1a3341f51a3c3090",
+            "generatorReview": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:53:14.310491+00:00",
+            "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Linette identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Linette, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Linette's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  ",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-789ac3e9-719d-431c-b311-1154d75e1a0f.png",
+                "sha256": "34b37fe9bcb6eb2dfef7ab81c4d97d2d569e6f06b23c179a1a3341f51a3c3090",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5b29d8f8-cfab-48ce-a089-9d9648e03d6e.png",
+            "outputSha256": "02e2147aa13adbe05839549b6c7835471a1f03eee7d8d0c90cd81ab97b5b137e",
+            "generatorReview": "Matte broad paint and nighttime shadow correction pass; top-right portrait ear tip is clipped by upper canvas boundary. Local composition correction only."
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:31:23.068687+00:00",
+            "prompt": "Edit ONLY the upper-right detached head portrait of Linette in this exact sheet: shrink and lower that portrait slightly so both cat ears and all hair have a clear generous ivory margin of at least 35 pixels at the TOP and RIGHT. Preserve exact face, long black hair, ears, cap, red/cream outfit, expression, subdued lamplit nighttime shadows and matte broad oil brush rendering. Preserve both full-body views, tail, all menu/towel studies, exact readable name/title/captions and light ivory background unchanged. No new anatomy, clothing, lights, scenery or other changes. One local portrait framing correction.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5b29d8f8-cfab-48ce-a089-9d9648e03d6e.png",
+                "sha256": "02e2147aa13adbe05839549b6c7835471a1f03eee7d8d0c90cd81ab97b5b137e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Matte broad paint and nighttime shadow correction pass; top-right portrait ear tip is clipped by upper canvas boundary. Local composition correction only.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7a6a8c14-eb98-4557-a7c0-40858491d198.png",
+            "outputSha256": "14d3e80c33ccb872e4d771869abbcc7bbf86844fcdcefd4478b192a3b7fc7268",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:35:02.692949-04:00",
+            "generatorReview": "Recovered actual saved result. Head study now wholly inside ivory margin. Source/reference reinspection before final pin.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T07:08:59.418914-04:00",
+                "reason": "Compared with inspected approved Impasto sheet and Group of Seven paintings: residual thin anime eyeliner and smooth nose/cheek fill differ materially from broad body paint. Local face-only rendering correction preserves source-original identity."
+              }
+            ]
+          },
+          {
+            "attempt": 5,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:08:59.476739-04:00",
+            "prompt": "Use case: identity-preserve. The FIRST TWO attached images are PAINT HANDLING references only; the LAST image is the exact Linette folio to edit. Change only facial skin and eyes in Linette's front body and detached portrait: retain precisely her face proportions, identity, mature adult age, expression, gaze and hairline, but render these surfaces in broad connected matte opaque OIL masses matching the first two paintings. Replace thin black anime eyelash outlines with soft brush-built lid and socket shadow planes; simplify cheeks and nose into larger connected bristle shapes. Use subdued warm lamp planes with deep connected umber-violet shadow, no glassy doll highlights or smooth cel shading. Face paint must be as physically brushed and broad as the existing clothing. Preserve all clothing, hair, ears, cap, bell collar, ONE black tail per view, hands, menus and service cloth, poses, full ivory margins, exact Linette heading and All the Good Things subtitle. Do not borrow any face or scenery from style refs. Keep the entire sheet layout and every other element unchanged.",
+            "references": [
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Inspected source nighttime lamplight and broad matte connected oil paint only; no location or props.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Inspected broad connected opaque masses and directional bristle strokes only; no scenery/daylight.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7a6a8c14-eb98-4557-a7c0-40858491d198.png",
+                "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+                "inspected": true,
+                "sha256": "14d3e80c33ccb872e4d771869abbcc7bbf86844fcdcefd4478b192a3b7fc7268"
+              }
+            ],
+            "reason": "Compared with inspected approved Impasto sheet and Group of Seven paintings: residual thin anime eyeliner and smooth nose/cheek fill differ materially from broad body paint. Local face-only rendering correction preserves source-original identity.",
+            "preflight": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d309-1ec2-7493-8aae-09c8c133e166/exec-0355d8ce-8505-49f4-8af7-8ee9ae9cc948.png",
+            "outputSha256": "d92b08375346bc5eef8ecffeec57e1f4b2f55fd59f15918bc20152eaf63a227b",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:23:18.171902-04:00",
+            "generatorReview": "Saved actual pixels inspected against full finished source, actual original center-server identity, cover and amber dining-room oil. Face repaint now carries broad opaque connected strokes through cheek/nose/lid shadows, matching clothing and approved Impasto treatment; same face proportions, dark long hair, two feline ears, patterned red/cream cap, black apron and one black tail per view retained. Subdued nighttime lamp shadows preserved. Portrait ears and both bodies fully inside ivory margins, menus/service cloth and exact Linette / All the Good Things headings pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned."
+      },
+      "outputSha256": "d92b08375346bc5eef8ecffeec57e1f4b2f55fd59f15918bc20152eaf63a227b",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:23:18.171902-04:00",
+        "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25",
+        "outputSha256": "d92b08375346bc5eef8ecffeec57e1f4b2f55fd59f15918bc20152eaf63a227b",
+        "references": [
+          {
+            "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+            "role": "Inspected source nighttime lamplight and broad matte connected oil paint only; no location or props.",
+            "inspected": true,
+            "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Inspected broad connected opaque masses and directional bristle strokes only; no scenery/daylight.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7a6a8c14-eb98-4557-a7c0-40858491d198.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "14d3e80c33ccb872e4d771869abbcc7bbf86844fcdcefd4478b192a3b7fc7268"
+          }
+        ],
+        "evidence": "Saved actual pixels inspected against full finished source, actual original center-server identity, cover and amber dining-room oil. Face repaint now carries broad opaque connected strokes through cheek/nose/lid shadows, matching clothing and approved Impasto treatment; same face proportions, dark long hair, two feline ears, patterned red/cream cap, black apron and one black tail per view retained. Subdued nighttime lamp shadows preserved. Portrait ears and both bodies fully inside ivory margins, menus/service cloth and exact Linette / All the Good Things headings pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "8469140dc9e1cacf54518581d5d49274ad2438c9b7b062fd077c2602876a183a"
+      }
+    },
+    {
+      "id": "joia",
+      "name": "Joia",
+      "role": "Guitarist whose complete recurring sets change the room's pace.",
+      "form": "Adult catfolk woman",
+      "selectionEvidence": [
+        {
+          "quote": "one russet ear inclined",
+          "explanation": "Guitarist whose complete recurring sets change the room's pace."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Russet feline ear, guitar with low-string thumb pattern, adult woman seated in story."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Original background musician limited dark hair/green clothing/guitar; art-only apparent29 angular soft face, warm olive skin, russet cat ears/one russet tail, shoulder-length dark chestnut waves and green shirt/brown trousers."
+      ],
+      "states": [
+        {
+          "name": "Between tunes",
+          "description": "Standing reference poses of same musician with guitar on plain strap; no stool/room, not a literal scene."
+        }
+      ],
+      "lighting": "Night interior candle/shaded practical lamps: warm limited facing planes and connected deep umber-violet shadows; bright ivory paper does not become daylight.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Joia"
+      },
+      "status": "completed",
+      "output": "stories/the-rule-between-courses/art/characters/joia.png",
+      "generation": {
+        "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Joia identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Joia, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Joia's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  Guitar six strings normal hands, left hand on neck right hand thumb-plucking; no neck or finger deformation.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bc54d610-1a4f-42d4-a310-259bce3bbe20.png",
+            "sha256": "93e7f7c524f16df3e6ae4e5ecd59c9bf550028d9b46289e4c01a971b023f96ef",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Joia; exact subtitle All the Good Things. ONE adult female catfolk guitarist apparent29, warm olive skin, gently angular face, dark CHESTNUT shoulder-length waves, source RUSSET feline ears and ONE russet tail, brown eyes. Use only small BACKGROUND MUSICIAN in original for green-shirt/guitar cues, not any foreground face. Simple moss-GREEN long-sleeved shirt, brown trousers and flat boots. Two complete standing reference poses with ordinary six-string acoustic guitar on plain strap, rear shows same outfit and tail; one listening head with ear inclined, one detailed five-finger hand thumb plucking lower strings. Quiet ordinary musician, no microphone/amp/stool. State Between tunes. EVERY view uses restrained night CANDLE/LAMP light, limited warm amber facing planes and broad CONNECTED deep umber-violet shadows; do not fully expose the face. Uniform LIGHT IVORY everywhere outside figures. Paint all faces/fur with bold opaque varied bristle strokes, NOT anime, glassy eyes, CGI or fur-by-fur rendering. Two full-body front/rear views and one head plus useful hand/prop study, all ears/tail/feet inside clear margins. One tail and two ears, ordinary humanlike arms/hands/legs. No other people, restaurant, chair, fish platter or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "displayName": "Image #1",
+                "filename": "codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b8f0e7d3-f866-4e0f-912e-51aaf7ab7c18.png",
+                "sha256": "465181a668545fca00df596dc1aba643ac3426e53f7773bc1f34f8b6d53dbbdc",
+                "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-24T19-40-41-01a03625-c995-7683-8c68-afdaafd434eb.jsonl",
+                "sourceSessionSha256": "58700df74af75110f2eceb16f500743dad2d038f0ddd5cb397dafa6978d86171",
+                "line": 9,
+                "method": "Exact original PNG bytes decoded from user input_image adjacent to original input_text Image #1 mapping; no re-encoding.",
+                "inspected": true,
+                "role": "Original distant background musician only supplies loose green-shirt/dark-hair/guitar context, no invented precise original face."
+              },
+              {
+                "path": "stories/the-rule-between-courses/art/interiors/01-the-amber-dining-room.png",
+                "role": "Actual inspected source-specific warm practical light and broad painted shadow reference only, never room/furniture.",
+                "inspected": true,
+                "sha256": "e1e8a353763f6c9510d4af876a1cd71a82621f19c02977b254ef20b25b863cc7"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.012636+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2701eccb-39b9-4dca-b465-91ae190d80df.png",
+            "outputSha256": "775dcd3af01002cbf7da097e022004a09bd2864d2c5b50af8d6983db7ae107fc",
+            "generatorReview": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:07.120428+00:00",
+            "prompt": "Correct this exact Joia folio. PRESERVE same character's face identity/proportions, hair, feline ears, ONE tail, fur pattern, outfit, props, pose/layout and exact heading Joia, subtitle All the Good Things. Replace entire background negative space/haze with clean uniform LIGHT IVORY, including all edges, so existing dark text is clear. Repaint face/eyes/skin/fur/hair/hands using the TWO attached OIL PAINTINGS' broad opaque brush-built planes and matte edges: eliminate smooth anime face fills, ink eyelash outlines, glossy doll eyes and uniform raised gold chips. Eye sockets/lids should be quiet painted shadow shapes with restrained small natural catchlights; do not change the individual's identity or enlarge eyes. Vary strokes and keep broad connected masses, not shiny sculpted scales. Relight every pose/head as dim NIGHT candle/practical lamp: only one side of face/nose/hand catches subdued warm amber, opposite face/neck and most clothing remain deep connected umber-violet shadow, no broad daylight fill/rimlight. Preserve all accepted geometry; give upper-right portrait ears/crown a small clear ivory margin if touching edge. No scenery, floor, extra person, new props or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2701eccb-39b9-4dca-b465-91ae190d80df.png",
+                "sha256": "775dcd3af01002cbf7da097e022004a09bd2864d2c5b50af8d6983db7ae107fc",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Actual identities/fur/tail/outfits/props/anatomy pass; dark background obscures heading, faces retain smooth anime/glassy eye/ink lash rendering and overly broad exposure instead of bold night oil masses.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bc54d610-1a4f-42d4-a310-259bce3bbe20.png",
+            "outputSha256": "93e7f7c524f16df3e6ae4e5ecd59c9bf550028d9b46289e4c01a971b023f96ef",
+            "generatorReview": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:53:14.320271+00:00",
+            "prompt": "Make a NEW PAINTED INTERPRETATION of the last reference's exact Joia identity and clothes. FIRST TWO REFERENCES control all paint handling: broad connected opaque matte colour shapes with varied bristle edges. LAST reference controls identity, ears, tail, colours, clothing and props ONLY, not surface rendering. Fresh landscape1536x1024 ivory folio, exact heading Joia, exact subtitle All the Good Things. Change arrangement: two complete front and rear bodies centered-left, smaller head study upper right with generous ivory margin above ALL ears/hair, existing useful personal-object detail lower right. Preserve Joia's face shape, distinctive hair/fur, feline ears and exactly one tail, outfit and equipment; no other identity. Major repaint: 70 percent fewer, much BROADER strokes. Face laid down as a simple connected umber-violet SHADOW BLOCK with just forehead ridge, nose and one cheek picked out by weak candlelight. Small eyes built from quiet paint dashes/lid shadow planes, NO ink-eyelash rims, doll sparkle or anime cel face. Hair/fabric connect into substantial dark masses; only a few quiet dry-brush directional passages. Absolutely NO repeated small raised leaf/scales, metallic outlines, golden crackle/chips, or shiny plastic bevels. NIGHT supper by candles: deliberately low illumination, most face/neck/body in deep umber/indigo shadow, lit plane not orange luminous. Background stays LIGHT IVORY despite dark subjects, no lighting halo, scene, furniture or floor. No costume changes, no extra necklaces/objects. Preserve all original personal props as in last reference.  Guitar six strings normal hands, left hand on neck right hand thumb-plucking; no neck or finger deformation.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bc54d610-1a4f-42d4-a310-259bce3bbe20.png",
+                "sha256": "93e7f7c524f16df3e6ae4e5ecd59c9bf550028d9b46289e4c01a971b023f96ef",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Second actual candidate retained anime eye outlines/smooth facial modelling and repeated shiny bevel-edged chips despite style edit. Diagnosis: candidate rendering/layout dominated the painted references. Change composition to a fresh airy arrangement and make two oil paintings primary ahead of candidate-only identity; repaint broad matte shadow masses rather than retaining rendering.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-6ac5c1f8-1e6c-48ea-9786-2c12846c73ca.png",
+            "outputSha256": "55141136fa6c8f31c8cd0d098a394f97434ae01071611f14234769ba9c5e096e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:28.777356+00:00",
+            "generatorReview": "Actual pixels inspected: recovered-original chestnut wavy hair, russet ears/tail and green blouse identity consistent, one tail and plausible guitar neck-left/plucking-right playing anatomy; full shoes/ear margins retained. Broad matte lamplit nighttime shadow planes now read as painted oil; exact heading/title and ivory character-only format pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "55141136fa6c8f31c8cd0d098a394f97434ae01071611f14234769ba9c5e096e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:28.777356+00:00",
+        "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25",
+        "outputSha256": "55141136fa6c8f31c8cd0d098a394f97434ae01071611f14234769ba9c5e096e",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "PRIMARY paint structure only. Rebuild connected matte oil masses; no face or scene inheritance.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bc54d610-1a4f-42d4-a310-259bce3bbe20.png",
+            "sha256": "93e7f7c524f16df3e6ae4e5ecd59c9bf550028d9b46289e4c01a971b023f96ef",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: recovered-original chestnut wavy hair, russet ears/tail and green blouse identity consistent, one tail and plausible guitar neck-left/plucking-right playing anatomy; full shoes/ear margins retained. Broad matte lamplit nighttime shadow planes now read as painted oil; exact heading/title and ivory character-only format pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "f27ad574b7754d53e95d49dc56ffdf049b6a2f188563300e3e7f2ed5c98aafcd"
+      }
+    }
+  ],
+  "sourceSha256": "a045c8428946af94ac29ef3e79f042ed827dbd99191db4eed763f45a62386f25"
+}
