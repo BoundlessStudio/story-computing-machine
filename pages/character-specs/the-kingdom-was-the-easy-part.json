@@ -1,0 +1,1781 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-kingdom-was-the-easy-part",
+  "title": "The Kingdom Was the Easy Part",
+  "source": "stories/the-kingdom-was-the-easy-part/story.md",
+  "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source, prompt and PASS review read after false marker; nine recurring household identities: five named central relationship actors, ordinary wolf, plus all three individually active campaign hands. The latter read/mend/sustain lights and perform distinct intervention and return actions across every major gathering, not incidental crowd. Seven-adult cast explicitly required by final source and image-driven prompt; original extra figures do not expand it.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Ministers, generals, healers, prince, old king and necromancer",
+      "reason": "Offstage historical/referred figures without enacted current individual arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order; source-local facts remain non-canon"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Exact names/aliases checked: no existing recurrence found"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "No universal dragon ontology or magical-wolf status inferred; finite hedge-light behavior remains local"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+      "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+      "inspected": true,
+      "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied.",
+      "displayName": "codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+      "recoveryProvenance": "Root recovered exact archived user input_image bytes, Aug24 19:43 archived rollout identifier prefix01a03628, zero-based line7; no regenerated substitute."
+    }
+  ],
+  "referenceInputAssessment": "Original and source-adapted cover actually inspected. Original has extra adults; finished seven-adult text and edited cover resolve selection. Character-specific positions recorded as visual interpretation. Original supplies recognizable identities/design, cover their source-adapted mapping; broad matte same-story library/sky paintings govern finish and scene-motivated figure light.",
+  "characters": [
+    {
+      "id": "dabria-finne",
+      "name": "Dabria Finne",
+      "role": "Focal retired organiser whose friendship practice changes",
+      "selectionEvidence": [
+        {
+          "quote": "Dabria Finne got everyone",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "evening card",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "empty pockets",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult woman; source card with differently colored activity words, empty pockets at voluntary departure, history book at third-evening return.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Human adult woman; source card with differently colored activity words, empty pockets at voluntary departure, history book at third-evening return.",
+        "states": "Library-night card/reading; Listening; predawn empty pockets."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Human adult woman; source card with differently colored activity words, empty pockets at voluntary departure, history book at third-evening return."
+      ],
+      "visualInterpretation": [
+        "Cover foreground-left brown-curled woman reading in cream knit clothing. Art age35, warm fair skin, brown eyes, oval face and strong brows; cream cable-knit cardigan over long grey-cream linen dress, grey wool leggings and practical soft boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night card/reading; Listening; predawn empty pockets."
+        }
+      ],
+      "naming": {
+        "sourceName": "Dabria Finne",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:dabria-finne",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\landscapes\\03-whitening-sky-over-the-parapet.png",
+          "sha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
+          "inspected": true,
+          "role": "Actual same-story predawn cool lilac/silver figure light for Departure state only, broad matte oils; no parapet, sky or landscape copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/dabria-finne.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY attached character sheet1. Preserve all exact text, identities, anatomy, clothing, four card lines, book, arrangement and ivory page. Repaint the TWO full standing figures and upper expression heads in genuinely DIM NIGHT illumination matching reference2: most face/body connected cool grey-blue/brown deep shadow, only narrow warm firelight planes. Cream fabric must be dim grey-blue in shadow, not broadly beige daylit. In lower Departure study remove warm facial glow, use cool low predawn silver/lilac only, both hands in empty pockets. Keep raised broad matte impasto on face and cloth, no photographic skin. No dark background, no ground/floors/swatches/other persons. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-cb5a2db1-bc1f-472d-8e9f-6c702662a966.png",
+            "sha256": "9844416628654e5195ae4ab7636dcc55ebd73b6a208e92d64462c43d49289855",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Dabria Finne. Extract ONLY foreground-left long BROWN CURLY-haired cream-knit reader from cover2 and original3. Same warm-fair adult woman apparent35, oval face/strong brows/brown eyes, cream cable-knit cardigan over long grey-cream dress, grey wool leggings and soft boots. TWO full standing Front/Back in DIM NIGHT light; front holds a small cream EVENING CARD with four short differently colored anonymous lines (no invented readable schedule). Two heads Counting and Listening. Small waist-up Departure study with BOTH hands fully inside EMPTY cardigan pockets, cool predawn silver/lilac figure light from reference4, no card/book in that state. Separate ordinary five-digit hand holding closed brown history book. Broad matte PAINTED facial planes and curls, no photo skin. No chair/other household figures.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\landscapes\\03-whitening-sky-over-the-parapet.png",
+                "sha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
+                "inspected": true,
+                "role": "Actual same-story predawn cool lilac/silver figure light for Departure state only, broad matte oils; no parapet, sky or landscape copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T10:49:36.186646+00:00",
+            "resumptionPreflight": "Resume worker re-read full source and inspected actual library/cover/recovered original/predawn/style sheet. No prior generated candidate or output exists; prepared attempt now submitted once.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-cb5a2db1-bc1f-472d-8e9f-6c702662a966.png",
+            "candidateSha256": "9844416628654e5195ae4ab7636dcc55ebd73b6a208e92d64462c43d49289855",
+            "reviewedAt": "2026-09-24T10:54:45.498955+00:00",
+            "findings": "Identity/layout good; dim source-night main figure and cool predawn state need stronger distinction."
+          },
+          {
+            "attempt": 2,
+            "status": "interrupted-no-output",
+            "prompt": "Edit ONLY attached character sheet1. Preserve all exact text, identities, anatomy, clothing, four card lines, book, arrangement and ivory page. Repaint the TWO full standing figures and upper expression heads in genuinely DIM NIGHT illumination matching reference2: most face/body connected cool grey-blue/brown deep shadow, only narrow warm firelight planes. Cream fabric must be dim grey-blue in shadow, not broadly beige daylit. In lower Departure study remove warm facial glow, use cool low predawn silver/lilac only, both hands in empty pockets. Keep raised broad matte impasto on face and cloth, no photographic skin. No dark background, no ground/floors/swatches/other persons. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-cb5a2db1-bc1f-472d-8e9f-6c702662a966.png",
+                "sha256": "9844416628654e5195ae4ab7636dcc55ebd73b6a208e92d64462c43d49289855",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T10:54:45.498982+00:00",
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "resumptionEvidence": "Call interrupted after 28 seconds; on explicit user resume 2026-09-24T11:00Z generated directory contains only first three original candidates, no correction candidates and no live generation handle. Reuse originals as immutable edit inputs."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit ONLY attached character sheet1. Preserve all exact text, identities, anatomy, clothing, four card lines, book, arrangement and ivory page. Repaint the TWO full standing figures and upper expression heads in genuinely DIM NIGHT illumination matching reference2: most face/body connected cool grey-blue/brown deep shadow, only narrow warm firelight planes. Cream fabric must be dim grey-blue in shadow, not broadly beige daylit. In lower Departure study remove warm facial glow, use cool low predawn silver/lilac only, both hands in empty pockets. Keep raised broad matte impasto on face and cloth, no photographic skin. No dark background, no ground/floors/swatches/other persons. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-cb5a2db1-bc1f-472d-8e9f-6c702662a966.png",
+                "sha256": "9844416628654e5195ae4ab7636dcc55ebd73b6a208e92d64462c43d49289855",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "submittedAt": "2026-09-24T11:01:08.653746+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-d0e2c000-d488-4780-8667-c3fef3f653ed.png",
+            "candidateSha256": "099402ababf93ff31c144c0bec3d5ba68e8037945b1a2cbf6ab8e10a9acf243e",
+            "reviewedAt": "2026-09-24T11:05:35.255565+00:00",
+            "findings": [
+              "Actual corrected 1536x1024 pixels inspected: same cover-mapped brown curls/cream knit identity through front/back, counting/listening and departure states; card four lines and book readable as source props.",
+              "Majority of night figures now connected cool shadow with limited fire rims; departure cooler predawn and both hands in pockets. Broad matte connected oils across flesh/clothes, ivory clear and no scenes/swatches.",
+              "Two full silhouettes uncropped; normal attached hands and anatomy; exact name and source title legible."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "099402ababf93ff31c144c0bec3d5ba68e8037945b1a2cbf6ab8e10a9acf243e",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:05:35.258308+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "099402ababf93ff31c144c0bec3d5ba68e8037945b1a2cbf6ab8e10a9acf243e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-cb5a2db1-bc1f-472d-8e9f-6c702662a966.png",
+            "sha256": "9844416628654e5195ae4ab7636dcc55ebd73b6a208e92d64462c43d49289855",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected 1536x1024 pixels inspected: same cover-mapped brown curls/cream knit identity through front/back, counting/listening and departure states; card four lines and book readable as source props.",
+          "Majority of night figures now connected cool shadow with limited fire rims; departure cooler predawn and both hands in pockets. Broad matte connected oils across flesh/clothes, ivory clear and no scenes/swatches.",
+          "Two full silhouettes uncropped; normal attached hands and anatomy; exact name and source title legible."
+        ],
+        "specificationSha256": "1fea45fa558677e2831f8f7348d63378477bb2c2c2121679d93515cf74f7d98e"
+      }
+    },
+    {
+      "id": "cavren",
+      "name": "Cavren",
+      "role": "Retired shield-bearer with final-stair grievance and east-road plans",
+      "selectionEvidence": [
+        {
+          "quote": "shield pack",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "His left forearm shook",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "East road.",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man; aching left forearm, road strap, shield pack with whetstone/road kettle/oiled wool, later packed chest. No current wound, prosthesis or magical cure stated.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Adult man; aching left forearm, road strap, shield pack with whetstone/road kettle/oiled wool, later packed chest. No current wound, prosthesis or magical cure stated.",
+        "states": "Library-night unyielding; left forearm strain; packed east-road equipment."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Adult man; aching left forearm, road strap, shield pack with whetstone/road kettle/oiled wool, later packed chest. No current wound, prosthesis or magical cure stated."
+      ],
+      "visualInterpretation": [
+        "Cover solo seated short dark-haired man beneath dragon; art apparent38, sturdy lean warm-olive build, tousled short black hair, brown eyes, long jaw. Weathered black leather jacket with restrained copper trim, dark shirt, charcoal trousers, boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night unyielding; left forearm strain; packed east-road equipment."
+        }
+      ],
+      "naming": {
+        "sourceName": "Cavren",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:cavren",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/cavren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY bottom-center waist-up arm study on attached sheet1; EVERYTHING else unchanged, all text/identity/body studies/pack/ivory and matte oils. Current wrong anatomical RIGHT forearm crosses torso. Replace with anatomically clear LEFT-FOREARM strain study: front-facing Cavren, his LEFT shoulder/upper arm is imageRIGHT, that upper arm connects to LEFT elbow at imageRIGHT, bent LEFT FOREARM rises on imageRIGHT and LEFT hand grips leather road strap close to his LEFT shoulder on imageRIGHT. His RIGHT arm relaxed at imageLEFT, does NOT cross chest or grasp strap. Five normal digits, no injury/bandage/prosthesis. Natural connected shoulders/elbow/wrist; source LEFT forearm shown straining. Maintain dim night light/broad matte oil facial planes and all else. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9c59714f-fd46-412c-8565-36792e4a103c.png",
+            "sha256": "b29db193e0d208c8746701969a1daa1e9fe7e1d175494d5c1eea10fbf8453fcf",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Cavren. Extract ONLY solo seated man in black leather under the dragon head at middle-left of cover2, short dark-haired campaign companion from original3. Adult38 warm-olive sturdy lean man, tousled short BLACK hair, long jaw/brown eyes, clean shaven. Weathered black leather jacket with subtle copper trim, charcoal shirt/trousers and practical black boots. Full Front/Back in DIM NIGHT firelight, no armor. Heads Unyielding and Choosing. One attached waist-up study LEFT forearm strain: anatomical LEFT forearm viewerRIGHT visibly tense while own LEFT hand grips plain leather ROAD STRAP, ordinary five digits, no wound/bandage/prosthesis. Small isolated OPEN SHIELD PACK holding whetstone, small road kettle and roll of oiled wool; no giant shield or sword, no chest/furniture scene. Original face fully repainted in broad matte opaque skin planes. No wolf/person included.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T10:49:36.186662+00:00",
+            "resumptionPreflight": "Resume worker re-read full source and inspected actual library/cover/recovered original/predawn/style sheet. No prior generated candidate or output exists; prepared attempt now submitted once.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9c59714f-fd46-412c-8565-36792e4a103c.png",
+            "candidateSha256": "b29db193e0d208c8746701969a1daa1e9fe7e1d175494d5c1eea10fbf8453fcf",
+            "reviewedAt": "2026-09-24T10:54:45.501682+00:00",
+            "findings": "Anatomy failure in lower strain study: wrong right forearm gripping; source requires left. Other identity/paint/pack good."
+          },
+          {
+            "attempt": 2,
+            "status": "interrupted-no-output",
+            "prompt": "Edit ONLY bottom-center waist-up arm study on attached sheet1; EVERYTHING else unchanged, all text/identity/body studies/pack/ivory and matte oils. Current wrong anatomical RIGHT forearm crosses torso. Replace with anatomically clear LEFT-FOREARM strain study: front-facing Cavren, his LEFT shoulder/upper arm is imageRIGHT, that upper arm connects to LEFT elbow at imageRIGHT, bent LEFT FOREARM rises on imageRIGHT and LEFT hand grips leather road strap close to his LEFT shoulder on imageRIGHT. His RIGHT arm relaxed at imageLEFT, does NOT cross chest or grasp strap. Five normal digits, no injury/bandage/prosthesis. Natural connected shoulders/elbow/wrist; source LEFT forearm shown straining. Maintain dim night light/broad matte oil facial planes and all else. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9c59714f-fd46-412c-8565-36792e4a103c.png",
+                "sha256": "b29db193e0d208c8746701969a1daa1e9fe7e1d175494d5c1eea10fbf8453fcf",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T10:54:45.501730+00:00",
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "resumptionEvidence": "Call interrupted after 28 seconds; on explicit user resume 2026-09-24T11:00Z generated directory contains only first three original candidates, no correction candidates and no live generation handle. Reuse originals as immutable edit inputs."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit ONLY bottom-center waist-up arm study on attached sheet1; EVERYTHING else unchanged, all text/identity/body studies/pack/ivory and matte oils. Current wrong anatomical RIGHT forearm crosses torso. Replace with anatomically clear LEFT-FOREARM strain study: front-facing Cavren, his LEFT shoulder/upper arm is imageRIGHT, that upper arm connects to LEFT elbow at imageRIGHT, bent LEFT FOREARM rises on imageRIGHT and LEFT hand grips leather road strap close to his LEFT shoulder on imageRIGHT. His RIGHT arm relaxed at imageLEFT, does NOT cross chest or grasp strap. Five normal digits, no injury/bandage/prosthesis. Natural connected shoulders/elbow/wrist; source LEFT forearm shown straining. Maintain dim night light/broad matte oil facial planes and all else. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9c59714f-fd46-412c-8565-36792e4a103c.png",
+                "sha256": "b29db193e0d208c8746701969a1daa1e9fe7e1d175494d5c1eea10fbf8453fcf",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "submittedAt": "2026-09-24T11:01:08.653765+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-7ce3c1a9-8020-40f9-adf8-17153803d782.png",
+            "candidateSha256": "1efa6c36904c8a3d0af671cede796721b34884e90e2608dbbee8a5fd3a9aa22b",
+            "reviewedAt": "2026-09-24T11:05:35.289914+00:00",
+            "findings": [
+              "Actual corrected 1536x1024 pixels inspected: source-cover black-haired leather-clad identity consistent; front/back and decision faces, pack with kettle/whetstone/oiled wool.",
+              "Corrected lower study explicitly uses anatomical LEFT arm on viewer-right from shoulder through elbow/forearm to strap-gripping hand. Right arm relaxed; no invented wound or prosthesis.",
+              "Matte opaque face/body oil planes, dim night shadows and small warm edges; all silhouettes and heading/title legible on ivory without scene/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "1efa6c36904c8a3d0af671cede796721b34884e90e2608dbbee8a5fd3a9aa22b",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:05:35.292074+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "1efa6c36904c8a3d0af671cede796721b34884e90e2608dbbee8a5fd3a9aa22b",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9c59714f-fd46-412c-8565-36792e4a103c.png",
+            "sha256": "b29db193e0d208c8746701969a1daa1e9fe7e1d175494d5c1eea10fbf8453fcf",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected 1536x1024 pixels inspected: source-cover black-haired leather-clad identity consistent; front/back and decision faces, pack with kettle/whetstone/oiled wool.",
+          "Corrected lower study explicitly uses anatomical LEFT arm on viewer-right from shoulder through elbow/forearm to strap-gripping hand. Right arm relaxed; no invented wound or prosthesis.",
+          "Matte opaque face/body oil planes, dim night shadows and small warm edges; all silhouettes and heading/title legible on ivory without scene/swatches."
+        ],
+        "specificationSha256": "a1ccc5c3ffe8028f9ed785b641578f4e78ab22cc1da6c0a214833fabe61ff661"
+      }
+    },
+    {
+      "id": "oshara",
+      "name": "Oshara",
+      "role": "Retired adventurer and adult partner defending privacy",
+      "selectionEvidence": [
+        {
+          "quote": "Oshara lowered the book",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "robe over her nightclothes",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "We moved it twice.",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult woman, Torvik partner, reader; robe over nightclothes during seventh-night interruption, direct refusal/privacy boundary.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Adult woman, Torvik partner, reader; robe over nightclothes during seventh-night interruption, direct refusal/privacy boundary.",
+        "states": "Library-night reading/direct refusal; seventh-night robe."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Adult woman, Torvik partner, reader; robe over nightclothes during seventh-night interruption, direct refusal/privacy boundary."
+      ],
+      "visualInterpretation": [
+        "Cover lower-right couple blonde woman, isolated from partner. Art age30, fair skin, grey-green eyes, long golden-blonde waves, oval face, ivory long modest lace-trim gown and soft slippers."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night reading/direct refusal; seventh-night robe."
+        }
+      ],
+      "naming": {
+        "sourceName": "Oshara",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:oshara",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/oshara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached sheet1 with TWO precise corrections; preserve exact headings, character likeness, blonde hair, layout and ivory page. 1) All figure and head studies must have genuinely DIM library NIGHT illumination matching reference2: majority of face and cream dress in connected deep cool blue-grey shadows, only restricted warm firelight slivers. Avoid broad warm beige daylight exposure; keep readable large opaque matte oil planes and selective impasto across faces too. 2) Bottom Seventh night waist-up: replace outer garment with unmistakable plain CREAM WRAP ROBE with wide simple lapels over plain CLOSED-NECK NIGHTCLOTHES; no ornate lace on robe. Same tousled hair and tired annoyed face. Other views keep existing lace gown. No background/scene/ground/swatches/other person. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-6fb86ef3-2a3d-4043-8de1-3656ae88613c.png",
+            "sha256": "9cae00f8a13959bc35bbc06c5d7f31551f8727c182c41ad0c287ad5b5fad657f",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Oshara. Extract ONLY BLONDE woman of lower-right adult couple in cover2 and original3, never her partner. Same adult30 fair skin/grey-green eyes, long GOLDEN-BLONDE waves, oval face with pointed chin. Ivory ankle-length MODEST lace-trim long-sleeve gown, closed neckline, soft cream slippers. Full Front/Back in DIM NIGHT light; closed reading book held in front. Heads Reading and Direct refusal. Small waist-up Seventh night wearing plain cream ROBE over closed-neck NIGHTCLOTHES, tousled same hair and annoyed tired expression; no undress. Hands ordinary five digits, one book-opening study. Face and lace PAINTED broad opaque matte oils; mostly cool shadow with restricted warm fireplanes, no bridal glow/daylight. No partner/chair/location.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T10:49:36.186665+00:00",
+            "resumptionPreflight": "Resume worker re-read full source and inspected actual library/cover/recovered original/predawn/style sheet. No prior generated candidate or output exists; prepared attempt now submitted once.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-6fb86ef3-2a3d-4043-8de1-3656ae88613c.png",
+            "candidateSha256": "9cae00f8a13959bc35bbc06c5d7f31551f8727c182c41ad0c287ad5b5fad657f",
+            "reviewedAt": "2026-09-24T10:54:45.504572+00:00",
+            "findings": "Identity/layout good; cream dress too broadly lit for night and seventh-night robe insufficiently distinct from lace gown."
+          },
+          {
+            "attempt": 2,
+            "status": "interrupted-no-output",
+            "prompt": "Edit attached sheet1 with TWO precise corrections; preserve exact headings, character likeness, blonde hair, layout and ivory page. 1) All figure and head studies must have genuinely DIM library NIGHT illumination matching reference2: majority of face and cream dress in connected deep cool blue-grey shadows, only restricted warm firelight slivers. Avoid broad warm beige daylight exposure; keep readable large opaque matte oil planes and selective impasto across faces too. 2) Bottom Seventh night waist-up: replace outer garment with unmistakable plain CREAM WRAP ROBE with wide simple lapels over plain CLOSED-NECK NIGHTCLOTHES; no ornate lace on robe. Same tousled hair and tired annoyed face. Other views keep existing lace gown. No background/scene/ground/swatches/other person. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-6fb86ef3-2a3d-4043-8de1-3656ae88613c.png",
+                "sha256": "9cae00f8a13959bc35bbc06c5d7f31551f8727c182c41ad0c287ad5b5fad657f",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T10:54:45.504600+00:00",
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "resumptionEvidence": "Call interrupted after 28 seconds; on explicit user resume 2026-09-24T11:00Z generated directory contains only first three original candidates, no correction candidates and no live generation handle. Reuse originals as immutable edit inputs."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit attached sheet1 with TWO precise corrections; preserve exact headings, character likeness, blonde hair, layout and ivory page. 1) All figure and head studies must have genuinely DIM library NIGHT illumination matching reference2: majority of face and cream dress in connected deep cool blue-grey shadows, only restricted warm firelight slivers. Avoid broad warm beige daylight exposure; keep readable large opaque matte oil planes and selective impasto across faces too. 2) Bottom Seventh night waist-up: replace outer garment with unmistakable plain CREAM WRAP ROBE with wide simple lapels over plain CLOSED-NECK NIGHTCLOTHES; no ornate lace on robe. Same tousled hair and tired annoyed face. Other views keep existing lace gown. No background/scene/ground/swatches/other person. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-6fb86ef3-2a3d-4043-8de1-3656ae88613c.png",
+                "sha256": "9cae00f8a13959bc35bbc06c5d7f31551f8727c182c41ad0c287ad5b5fad657f",
+                "inspected": true,
+                "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "preflight": "Actual returned pixels inspected against full source; targeted correction identifies observed defect and preserves successful invariants.",
+            "submittedAt": "2026-09-24T11:01:08.653772+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9e5ca98b-e1c7-444e-ab61-3f5e736b4fc3.png",
+            "candidateSha256": "3e1b2e31f4da4c317d0be32a312ae95a4a0b5c768aae93e678605b4f5e1941a2",
+            "reviewedAt": "2026-09-24T11:05:35.304087+00:00",
+            "findings": [
+              "Actual corrected 1536x1024 pixels inspected: mapped golden-blonde identity across front/back, reading and refusal heads; adult modest ivory lace gown and ordinary book hands.",
+              "Seventh-night study now distinct plain cream wrap robe over closed nightclothes; tired refusal expression. Main cream clothes and face in connected cool dim night shadow with restricted warm fire rims.",
+              "Normal hands and unclipped full silhouettes; broad matte oils across face/cloth; exact name/title and clear ivory background without location/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "3e1b2e31f4da4c317d0be32a312ae95a4a0b5c768aae93e678605b4f5e1941a2",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:05:35.317629+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "3e1b2e31f4da4c317d0be32a312ae95a4a0b5c768aae93e678605b4f5e1941a2",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-6fb86ef3-2a3d-4043-8de1-3656ae88613c.png",
+            "sha256": "9cae00f8a13959bc35bbc06c5d7f31551f8727c182c41ad0c287ad5b5fad657f",
+            "inspected": true,
+            "role": "Immutable original candidate edit target; preserve successful identity/layout and correct only specified defects."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected 1536x1024 pixels inspected: mapped golden-blonde identity across front/back, reading and refusal heads; adult modest ivory lace gown and ordinary book hands.",
+          "Seventh-night study now distinct plain cream wrap robe over closed nightclothes; tired refusal expression. Main cream clothes and face in connected cool dim night shadow with restricted warm fire rims.",
+          "Normal hands and unclipped full silhouettes; broad matte oils across face/cloth; exact name/title and clear ivory background without location/swatches."
+        ],
+        "specificationSha256": "03da4e0d9d431e3774ed4974164923a7124b5645f70ff1c45e14fa7f10cb2b02"
+      }
+    },
+    {
+      "id": "torvik",
+      "name": "Torvik",
+      "role": "Retired adventurer and adult partner whose jokes yield to care",
+      "selectionEvidence": [
+        {
+          "quote": "Torvik one-booted",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "road strap around his own forehead",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "Whatever joke had offered itself",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man, Oshara partner; road strap worn briefly as a joke, one-booted at seventh-night maze; uninjured ordinary anatomy.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Adult man, Oshara partner; road strap worn briefly as a joke, one-booted at seventh-night maze; uninjured ordinary anatomy.",
+        "states": "Library-night playful/serious; seventh night one boot; strap joke head."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Adult man, Oshara partner; road strap worn briefly as a joke, one-booted at seventh-night maze; uninjured ordinary anatomy."
+      ],
+      "visualInterpretation": [
+        "Cover lower-right couple long dark-brown-haired man. Art apparent32, warm fair-tan skin, hazel eyes, long wavy brown hair, clean-shaven oval face; brown-black soft leather jacket, dark shirt/trousers, boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night playful/serious; seventh night one boot; strap joke head."
+        }
+      ],
+      "naming": {
+        "sourceName": "Torvik",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:torvik",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/torvik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Torvik. Extract ONLY long BROWN WAVY-haired man partnered with blonde woman at lower-right of cover2/original3; no partner depicted. Adult32 warm fair-tan skin, hazel eyes, clean-shaven oval face, shoulder-length wavy chestnut BROWN hair. Brown-black soft leather jacket over dark shirt/trousers and dark boots. Full Front/Back DIM NIGHT light. Heads Pleading and Serious; ONE small third head Road strap with plain leather strap loosely around forehead as joke, NO crown/regalia. Third smaller FULL FIGURE Seventh night in plain brown shirt/charcoal trousers, exactly ONE BOOT on his anatomical RIGHT foot (viewerLEFT in front), LEFT foot in grey sock without boot; both feet visible, no missing limb. Broad matte painted flesh/hair, no photo finish. No sword/other person/furniture.",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Torvik. Extract ONLY long BROWN WAVY-haired man partnered with blonde woman at lower-right of cover2/original3; no partner depicted. Adult32 warm fair-tan skin, hazel eyes, clean-shaven oval face, shoulder-length wavy chestnut BROWN hair. Brown-black soft leather jacket over dark shirt/trousers and dark boots. Full Front/Back DIM NIGHT light. Heads Pleading and Serious; ONE small third head Road strap with plain leather strap loosely around forehead as joke, NO crown/regalia. Third smaller FULL FIGURE Seventh night in plain brown shirt/charcoal trousers, exactly ONE BOOT on his anatomical RIGHT foot (viewerLEFT in front), LEFT foot in grey sock without boot; both feet visible, no missing limb. Broad matte painted flesh/hair, no photo finish. No sword/other person/furniture.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:07:01.807453+00:00",
+            "resumptionPreflight": "Full source and all actual selected references rechecked by resumed worker; clear one-identity composition and required count/side states.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-94558e5a-17d6-4631-a13b-7b2d013109b9.png",
+            "candidateSha256": "69e166de26777e7eb841f797e545e15e9cc7a9455bbcdc95f8c0b95024571bde",
+            "reviewedAt": "2026-09-24T11:12:53.890712+00:00",
+            "findings": [
+              "Actual 1536x1024 pixels inspected: same mapped chestnut long-haired adult, brown-black leather, front/back and three expressive heads; humorous road strap is ordinary leather not crown.",
+              "Seventh-night full figure has exactly one boot on anatomical RIGHT/viewer-left and grey sock on LEFT/viewer-right, both limbs intact.",
+              "Correct ordinary hands, broad matte oil planes over skin/cloth, dim near-black body masses with restricted warm edges, all labels/name/title readable on ivory without other figures or setting."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "69e166de26777e7eb841f797e545e15e9cc7a9455bbcdc95f8c0b95024571bde",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:12:53.893919+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "69e166de26777e7eb841f797e545e15e9cc7a9455bbcdc95f8c0b95024571bde",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "evidence": [
+          "Actual 1536x1024 pixels inspected: same mapped chestnut long-haired adult, brown-black leather, front/back and three expressive heads; humorous road strap is ordinary leather not crown.",
+          "Seventh-night full figure has exactly one boot on anatomical RIGHT/viewer-left and grey sock on LEFT/viewer-right, both limbs intact.",
+          "Correct ordinary hands, broad matte oil planes over skin/cloth, dim near-black body masses with restricted warm edges, all labels/name/title readable on ivory without other figures or setting."
+        ],
+        "specificationSha256": "05d8f8a07238ccc6f8351d20507024be2ada3403a0173897f0044000c926ce7b"
+      }
+    },
+    {
+      "id": "oruvane",
+      "name": "Oruvane",
+      "role": "Enormous blue dragon choosing departure and return",
+      "selectionEvidence": [
+        {
+          "quote": "deep-blue wings",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "Fine gold chains",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "No saddle. No battle harness.",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "two small casks",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Dragon",
+      "storyAppearance": {
+        "anatomy": "Huge dragon; four legs and two wings implied by body/foreclaws, deep-blue with swept horns and gold chains horn-to-throat, tarnished gold/green victory paint, voluntary departure bags beneath wings, two casks, blanket, brass sand-warming pan; no saddle/harness/rider.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Huge dragon; four legs and two wings implied by body/foreclaws, deep-blue with swept horns and gold chains horn-to-throat, tarnished gold/green victory paint, voluntary departure bags beneath wings, two casks, blanket, brass sand-warming pan; no saddle/harness/rider.",
+        "states": "Library-night folded wings/bored; predawn departure equipment; vulnerable head."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Huge dragon; four legs and two wings implied by body/foreclaws, deep-blue with swept horns and gold chains horn-to-throat, tarnished gold/green victory paint, voluntary departure bags beneath wings, two casks, blanket, brass sand-warming pan; no saddle/harness/rider."
+      ],
+      "visualInterpretation": [
+        "Preserve exact inspected original and cover long refined horned blue dragon identity; quadrupedal natural dragon, two batlike wings, one long tail, amber eyes; paint tracery matte and visibly surface-applied, not glowing runes."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night folded wings/bored; predawn departure equipment; vulnerable head."
+        }
+      ],
+      "naming": {
+        "sourceName": "Oruvane",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:oruvane",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\landscapes\\03-whitening-sky-over-the-parapet.png",
+          "sha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
+          "inspected": true,
+          "role": "Actual same-story predawn cool lilac/silver figure light for Departure state only, broad matte oils; no parapet, sky or landscape copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/oruvane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "PRECISION EDIT attached Oruvane sheet1. Change ONLY the wooden cask area hanging under the near wing in UPPER-RIGHT Departure figure. Current single horizontal barrel must be replaced by TWO SMALLER VERTICAL WOODEN CASKS SIDE BY SIDE, with a clear narrow ivory gap between their complete silhouettes so viewer can count exactly TWO. Each cask has its own round top, wooden staves and TWO dark metal bands; each tied separately from under-wing baggage cord. Do not stack/overlap/fuse the casks; do not mistake rings of one barrel for two barrels. Keep existing blanket above, canvas pouches to right and brass shallow pan below-right. All other artwork, anatomy, chains, paints, dim profile lighting, predawn departure, headings and ivory background unchanged. Do not add separate duplicate detail or labels. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-de357aa9-b08b-48b7-95a2-611bb6d9b141.png",
+            "sha256": "907417a397726911e148e1bb4d3550c6a4447358efa701395b701c0c7ad8a7df",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Oruvane. ONE huge BLUE DRAGON identity matching references2/3: long refined horned face, amber eyes, swept-back horns/crown spines, exactly FOUR legs, TWO batlike wings and ONE long tail. DEEP BLUE scales, fine GOLD CHAINS looping from horns to throat ridges; TARNISHED GOLD AND GREEN curling VICTORY PAINT across wings, no glowing runes. Large whole profile Folded wings in DIM NIGHT practical light; body/tail/claws completely inside margins. SECOND whole three-quarter Departure figure in cool PREDawn silver/lilac light from ref4, wings partly lifted enough to reveal under-wing travel bags: simple CANVAS POUCHES, exactly TWO SMALL CASKS total (both visible on near side), one rolled BLANKET and ONE BRASS SAND-WARMING PAN. Simple baggage ties only; NO saddle, rider seat, battle harness, human or weapon. Heads Bored and Vulnerable; one small wing-paint detail if space. Keep leg/wing roots anatomically clear, no extra toes/legs/tails. Broad matte oils for scales and face, no polished 3D reptile texture. Entire background warm ivory, no sky/court/scene.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\landscapes\\03-whitening-sky-over-the-parapet.png",
+                "sha256": "08d853c6bb79eb5aefddb74eae0e4167ca19ed17aac7772fb484d49376cb7560",
+                "inspected": true,
+                "role": "Actual same-story predawn cool lilac/silver figure light for Departure state only, broad matte oils; no parapet, sky or landscape copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:07:01.808204+00:00",
+            "resumptionPreflight": "Full source and all actual selected references rechecked by resumed worker; clear one-identity composition and required count/side states.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-a5a93c46-7662-4933-9a34-67aba792b53e.png",
+            "candidateSha256": "0683434d69ee170a2ce0960909444ce2b7c8a828969f793e7df6a1801efafef8",
+            "reviewedAt": "2026-09-24T11:12:54.924597+00:00",
+            "findings": "Two visible travel casks and brass sand-warming pan absent; main profile too light for library night. Dragon proportions and paint identity good."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Edit the attached Oruvane sheet1. Preserve exact text, blue dragon identity, four legs/two wings/one tail, horn-to-throat chains, gold-and-green painted wing tracery, expressions and ivory page. TWO corrections. In upper-right DEPARTURE figure, show EXACTLY TWO SMALL WOODEN CASKS visible together hung underneath near wing, one rolled blanket, simple canvas pouches and ONE shallow round BRASS SAND-WARMING PAN visibly tied below pouches. Replace surplus bags if necessary for clarity. Baggage tied simply, NO saddle/rider/harness. Both casks and pan distinct, do not append limbs/tails. In upper-left library-night PROFILE and bottom heads, repaint majority of blue face/body in DEEP connected cool navy shadow with tiny warm firelight edge; much darker than departure figure. Departure keeps cool predawn silver-blue light. Bold broad connected matte oil masses/raised knife strokes, not tiny glossy scale tiles; preserve actual scales/shape and lettering. No scenery, floor, paint swatches or person.1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-a5a93c46-7662-4933-9a34-67aba792b53e.png",
+                "sha256": "0683434d69ee170a2ce0960909444ce2b7c8a828969f793e7df6a1801efafef8",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:12:54.924648+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-de357aa9-b08b-48b7-95a2-611bb6d9b141.png",
+            "candidateSha256": "907417a397726911e148e1bb4d3550c6a4447358efa701395b701c0c7ad8a7df",
+            "reviewedAt": "2026-09-24T11:16:57.437640+00:00",
+            "findings": "Pan corrected and night/dawn light separated; still only one distinguishable travel cask in upper-right figure."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "PRECISION EDIT attached Oruvane sheet1. Change ONLY the wooden cask area hanging under the near wing in UPPER-RIGHT Departure figure. Current single horizontal barrel must be replaced by TWO SMALLER VERTICAL WOODEN CASKS SIDE BY SIDE, with a clear narrow ivory gap between their complete silhouettes so viewer can count exactly TWO. Each cask has its own round top, wooden staves and TWO dark metal bands; each tied separately from under-wing baggage cord. Do not stack/overlap/fuse the casks; do not mistake rings of one barrel for two barrels. Keep existing blanket above, canvas pouches to right and brass shallow pan below-right. All other artwork, anatomy, chains, paints, dim profile lighting, predawn departure, headings and ivory background unchanged. Do not add separate duplicate detail or labels. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-de357aa9-b08b-48b7-95a2-611bb6d9b141.png",
+                "sha256": "907417a397726911e148e1bb4d3550c6a4447358efa701395b701c0c7ad8a7df",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:16:57.437670+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-2dcf437b-7a12-4a93-8630-639dfd826a20.png",
+            "candidateSha256": "2a8ad3c863cb348dbd7ebbb1998305dfee5610c8f3c18fcdf1b0a5783074bdfc",
+            "reviewedAt": "2026-09-24T11:27:11.223470+00:00",
+            "findings": [
+              "Actual corrected pixels inspected: exact inspected blue horned dragon identity, four legs/two wings/one tail, horn-to-throat gold chains and non-glowing gold/green surface victory paint.",
+              "Departure now distinctly has TWO separate upright small casks, canvas pouches, rolled blanket and shallow brass pan under near wing, without saddle/rider/battle harness. Main profile remains materially darker than predawn departure.",
+              "Broad matte scale and facial oil masses; expressions/title legible, complete uncropped bodies on ivory without scene or palette strip."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "2a8ad3c863cb348dbd7ebbb1998305dfee5610c8f3c18fcdf1b0a5783074bdfc",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:27:11.226487+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "2a8ad3c863cb348dbd7ebbb1998305dfee5610c8f3c18fcdf1b0a5783074bdfc",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-de357aa9-b08b-48b7-95a2-611bb6d9b141.png",
+            "sha256": "907417a397726911e148e1bb4d3550c6a4447358efa701395b701c0c7ad8a7df",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: exact inspected blue horned dragon identity, four legs/two wings/one tail, horn-to-throat gold chains and non-glowing gold/green surface victory paint.",
+          "Departure now distinctly has TWO separate upright small casks, canvas pouches, rolled blanket and shallow brass pan under near wing, without saddle/rider/battle harness. Main profile remains materially darker than predawn departure.",
+          "Broad matte scale and facial oil masses; expressions/title legible, complete uncropped bodies on ivory without scene or palette strip."
+        ],
+        "specificationSha256": "14b223c15b4ba0975a806475807b268838dfc790d88d9c47116038cf6560064e"
+      }
+    },
+    {
+      "id": "brum",
+      "name": "Brum",
+      "role": "Ordinary white wolf whose mischievous actions link household",
+      "selectionEvidence": [
+        {
+          "quote": "large white wolf",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "ordinary, heavy-pawed wolf",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "leather loop between his teeth",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Ordinary wolf",
+      "storyAppearance": {
+        "anatomy": "Ordinary large white heavy-pawed wolf, not enchanted guardian; carries road strap and presses against familiar household members.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Ordinary large white heavy-pawed wolf, not enchanted guardian; carries road strap and presses against familiar household members.",
+        "states": "Library-night attentive, resting and road-strap mischief."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary large white heavy-pawed wolf, not enchanted guardian; carries road strap and presses against familiar household members."
+      ],
+      "visualInterpretation": [
+        "Actual original and cover white wolf: heavy body, thick creamy-white ruff, yellow-amber natural eyes, black nose; four canine legs/paws, two ears, one tail, no accessories or magic."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Library-night attentive, resting and road-strap mischief."
+        }
+      ],
+      "naming": {
+        "sourceName": "Brum",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:brum",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/brum.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached Brum sheet1 only LIGHTING, preserving exact text, layout, white wolf identity, all canine anatomy, four legs, one tail, natural amber eyes and ordinary leather loop. Bring wolf light into genuinely DIM NIGHT like reference2: about TWO THIRDS of each animal/head silhouette is connected DEEP COOL BLUE-GREY shadow, with only a narrow LIMITED warm firelight ridge at selected ear/ruff edges. White fur must remain recognizably WHITE MATERIAL IN DARKNESS, not broadly ivory/cream daylight as now. Broad matte opaque connected oil fur masses, naturally directional selective impasto; no shiny photoreal hairs. Page stays LIGHT WARM IVORY unchanged. Do not add ground/cast shadow, location, swatches, collars or magical eye glow.1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-b9e374e7-09a3-4e9f-9955-a4261e54762b.png",
+            "sha256": "9570aae88c22b5e6da761bab75849bb7d1fc8b6ebb39a6a2a0b57ef81387c3c3",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Brum. ONE ordinary LARGE WHITE WOLF exactly matching cover2/original3 animal: broad heavy-pawed body, thick CREAM-WHITE ruff, long canine muzzle/black nose, natural YELLOW-AMBER eyes, two ears, FOUR legs/paws and ONE tail. Whole Side view standing and whole Rear three-quarter resting pose, no floor or shadows beneath; two large head studies Attentive and Mischief, latter carries ONE plain leather road-strap LOOP lightly between teeth. All animal anatomy ordinary, no human hand/extra leg, NO enchanted glow, runes, harness/collar or clothes. DIM library NIGHT figurelight: connected blue-grey shadows over most white fur with limited warm firelight edge, never luminous white daytime fur. Fur built from broad directional matte opaque oil masses, not photoreal individual strands or smooth rendered plush. No dragon/human/furniture.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:07:01.808953+00:00",
+            "resumptionPreflight": "Full source and all actual selected references rechecked by resumed worker; clear one-identity composition and required count/side states.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-b9e374e7-09a3-4e9f-9955-a4261e54762b.png",
+            "candidateSha256": "9570aae88c22b5e6da761bab75849bb7d1fc8b6ebb39a6a2a0b57ef81387c3c3",
+            "reviewedAt": "2026-09-24T11:12:54.927784+00:00",
+            "findings": "Animal and sheet anatomy strong but fur too broadly bright for source library night."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit attached Brum sheet1 only LIGHTING, preserving exact text, layout, white wolf identity, all canine anatomy, four legs, one tail, natural amber eyes and ordinary leather loop. Bring wolf light into genuinely DIM NIGHT like reference2: about TWO THIRDS of each animal/head silhouette is connected DEEP COOL BLUE-GREY shadow, with only a narrow LIMITED warm firelight ridge at selected ear/ruff edges. White fur must remain recognizably WHITE MATERIAL IN DARKNESS, not broadly ivory/cream daylight as now. Broad matte opaque connected oil fur masses, naturally directional selective impasto; no shiny photoreal hairs. Page stays LIGHT WARM IVORY unchanged. Do not add ground/cast shadow, location, swatches, collars or magical eye glow.1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-b9e374e7-09a3-4e9f-9955-a4261e54762b.png",
+                "sha256": "9570aae88c22b5e6da761bab75849bb7d1fc8b6ebb39a6a2a0b57ef81387c3c3",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:12:54.927807+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-d821e498-3734-495e-bc5d-65225dd7e3be.png",
+            "candidateSha256": "84c5ca08846420dc179b252b496df8645c90a3da1d8fcffc013f92d98e7f7032",
+            "reviewedAt": "2026-09-24T11:16:56.346501+00:00",
+            "findings": [
+              "Actual corrected pixels inspected: ordinary large white wolf, four canine legs/two ears/one tail across whole side/rear/front studies, natural amber eyes and black nose; mischievous mouth holds only plain leather loop.",
+              "White fur now receives dim library night light as connected cool blue-grey shadow with limited warm edge, broad raised matte directional oil fur. No magical features/accessories or human anatomy.",
+              "Full silhouettes and exact heading/title legible on warm ivory, no floor/scene/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "84c5ca08846420dc179b252b496df8645c90a3da1d8fcffc013f92d98e7f7032",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:16:56.349409+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "84c5ca08846420dc179b252b496df8645c90a3da1d8fcffc013f92d98e7f7032",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-b9e374e7-09a3-4e9f-9955-a4261e54762b.png",
+            "sha256": "9570aae88c22b5e6da761bab75849bb7d1fc8b6ebb39a6a2a0b57ef81387c3c3",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: ordinary large white wolf, four canine legs/two ears/one tail across whole side/rear/front studies, natural amber eyes and black nose; mischievous mouth holds only plain leather loop.",
+          "White fur now receives dim library night light as connected cool blue-grey shadow with limited warm edge, broad raised matte directional oil fur. No magical features/accessories or human anatomy.",
+          "Full silhouettes and exact heading/title legible on warm ivory, no floor/scene/swatches."
+        ],
+        "specificationSha256": "fa4db0486212a0c11aa803e130722ed05733c51940a6d42bda97b06184a0d2af"
+      }
+    },
+    {
+      "id": "velisse-norr",
+      "name": "Velisse Norr",
+      "role": "Retired silver-braided scout, recurrent household reader and practical helper",
+      "selectionEvidence": [
+        {
+          "quote": "silver-braided scout",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "The scout braced a ladder",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "The scout shifted closer",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Unnamed adult scout, silver braid and book, braces ladder/pushes books aside, joins return gathering. Art-only new name authorized for reference collection.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Unnamed adult scout, silver braid and book, braces ladder/pushes books aside, joins return gathering. Art-only new name authorized for reference collection.",
+        "states": "Night reading/amused/alert; practical relaxed stance."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Unnamed adult scout, silver braid and book, braces ladder/pushes books aside, joins return gathering. Art-only new name authorized for reference collection."
+      ],
+      "visualInterpretation": [
+        "Map cover upper-right silver-haired reader and original middle-right silver reader; source braid controls. Art age40, fair cool skin, grey eyes, narrow cheekbones, one long silver braid; practical black soft leather long tunic, charcoal leggings, boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Night reading/amused/alert; practical relaxed stance."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "silver-braided scout",
+        "artOnlyName": "Velisse Norr",
+        "provenance": "New art-only reference name under explicit collection naming authorization; not inserted into prose or canon. No prior proper name in read source/prompt/review. Exact whole/first/surname collisions checked with rg over universe, stories, character specifications; no matches before creation.",
+        "checkedNames": [
+          "Velisse Norr",
+          "Velisse",
+          "Norr"
+        ]
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:velisse-norr",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/velisse-norr.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Velisse Norr. ONE HUMAN woman, the source silver-braided scout. Map ONLY upper-right SILVER-haired reading woman beneath wing in cover2 and original3 silver reader near middle-right. Adult40 cool fair skin, grey eyes, narrow cheekbones, SILVER hair in ONE long thick BRAID from nape over shoulder (same braid in rear). Black soft leather knee-length tunic/coat with restrained old gold seams, charcoal fitted practical trousers and boots. Full Front/Back in DIM NIGHT light, front holds open brown book. Heads Amused and Alert. Hand study five normal digits loosely around closed book spine, no weapons or adventure equipment invented. Slight veteran work posture, broad matte painted skin/hair matching ref1. Do not include ladder/dragon/chair/other figure, no age/race notes. Main face and body should be mostly DARK connected blue-brown shadow, like actual lamp-lit night, with only narrow small warm planes. Even faces must be broad opaque raised oil paint, never portrait photo beneath tiny texture.",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Velisse Norr. ONE HUMAN woman, the source silver-braided scout. Map ONLY upper-right SILVER-haired reading woman beneath wing in cover2 and original3 silver reader near middle-right. Adult40 cool fair skin, grey eyes, narrow cheekbones, SILVER hair in ONE long thick BRAID from nape over shoulder (same braid in rear). Black soft leather knee-length tunic/coat with restrained old gold seams, charcoal fitted practical trousers and boots. Full Front/Back in DIM NIGHT light, front holds open brown book. Heads Amused and Alert. Hand study five normal digits loosely around closed book spine, no weapons or adventure equipment invented. Slight veteran work posture, broad matte painted skin/hair matching ref1. Do not include ladder/dragon/chair/other figure, no age/race notes. Main face and body should be mostly DARK connected blue-brown shadow, like actual lamp-lit night, with only narrow small warm planes. Even faces must be broad opaque raised oil paint, never portrait photo beneath tiny texture.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:16:58.482328+00:00",
+            "resumptionPreflight": "Source/references and successful first household sheets checked; current prompt reinforces observed under-lighting risk before generation.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-80cf6a0a-57a0-4353-8481-0817787fcde2.png",
+            "candidateSha256": "58564a8a2d4ec70f915ae7127f28cd44ce64f8642464552505bcd033d127d1a8",
+            "reviewedAt": "2026-09-24T11:27:11.239759+00:00",
+            "findings": [
+              "Actual pixels inspected: art-named source silver-braided scout mapped to cover; one silver braid and same grey-haired face across front/back and amused/alert/reading states; book retained.",
+              "Matte broad connected facial and black-leather oil masses, dim night body shadows with narrow warm firelight edges; source-specific quiet reader posture.",
+              "Readable exact art name/source title and full clear silhouettes on ivory; no weapon, scene or swatches. Existing generated book-grip detail retained; no further hand-study production following user steering."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "58564a8a2d4ec70f915ae7127f28cd44ce64f8642464552505bcd033d127d1a8",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:27:11.241937+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "58564a8a2d4ec70f915ae7127f28cd44ce64f8642464552505bcd033d127d1a8",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: art-named source silver-braided scout mapped to cover; one silver braid and same grey-haired face across front/back and amused/alert/reading states; book retained.",
+          "Matte broad connected facial and black-leather oil masses, dim night body shadows with narrow warm firelight edges; source-specific quiet reader posture.",
+          "Readable exact art name/source title and full clear silhouettes on ivory; no weapon, scene or swatches. Existing generated book-grip detail retained; no further hand-study production following user steering."
+        ],
+        "specificationSha256": "fead182c266c86e34bd3bedbc05bd53995024ac32af5dfb0feb35db168f116ec"
+      }
+    },
+    {
+      "id": "ruvetta-skell",
+      "name": "Ruvetta Skell",
+      "role": "Retired quartermaster, mender and recurring practical household support",
+      "selectionEvidence": [
+        {
+          "quote": "former quartermaster",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "collecting hinge pins in her apron",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "The quartermaster brought the cushion",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Unnamed former quartermaster, sewing split cushion and collecting hinge pins in apron; source adult woman. Art-only new name authorized for reference collection.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Unnamed former quartermaster, sewing split cushion and collecting hinge pins in apron; source adult woman. Art-only new name authorized for reference collection.",
+        "states": "Night dry wit/concentrating, mending and hinge-pin work."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Unnamed former quartermaster, sewing split cushion and collecting hinge pins in apron; source adult woman. Art-only new name authorized for reference collection."
+      ],
+      "visualInterpretation": [
+        "Map cover and original lower-right purple-clad seamstress. Art45, warm olive skin, brown eyes, rounder nose/cheeks, upswept curly dark chestnut hair; worn purple long dress with tarnished gold trim, plain brown work apron and slippers."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Night dry wit/concentrating, mending and hinge-pin work."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "former quartermaster",
+        "artOnlyName": "Ruvetta Skell",
+        "provenance": "New art-only reference name under explicit collection naming authorization; not inserted into prose or canon. No prior proper name in read source/prompt/review. Exact whole/first/surname collisions checked with rg over universe, stories, character specifications; no matches before creation.",
+        "checkedNames": [
+          "Ruvetta Skell",
+          "Ruvetta",
+          "Skell"
+        ]
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:ruvetta-skell",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/ruvetta-skell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit attached Ruvetta Skell sheet1: completely REMOVE ONLY the LOWER-RIGHT isolated apron/pins/hand inset and its label 'Collecting three hinge pins', filling that one region with the exact same warm ivory page ground. Do not replace it with anything; let the composition breathe. KEEP every other pixel/character feature/layout/text as close as possible: exact title and name, two full front/back figures, two expression heads and lower sewing-a-small-split-cushion waist-up figure, all anatomy and the broad matte night oil rendering. NO hand correction, no new study or object, no new text, swatches or location. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-73bb6d2f-99d3-4018-9ea9-57d065dd948f.png",
+            "sha256": "a928f48e747e29b3aee98f90ae5414371c819763cb99670a99c1acd5a3977b1f",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Ruvetta Skell. ONE HUMAN woman, source former quartermaster. Extract ONLY lower-right PURPLE-clad sewing woman in cover2 and original3. Adult45 warm olive skin, brown eyes, rounded cheeks/nose, CURLY DARK-CHESTNUT hair pinned high with loose tendrils. Worn purple full-length dress with muted tarnished GOLD trim, plain BROWN WORK APRON and soft dark slippers. Full Front/Back DIM NIGHT. Heads Dry wit and Concentrating. Waist-up sewing a SMALL SPLIT RED CUSHION with plain needle/thread; arms/hands attached naturally, five digits each. Isolated apron-pocket/hand study collecting THREE plain iron HINGE PINS, no table/doors/scenery. Matte painted flesh as broad as cloth, deep cool shadows and limited warm practical light. No magic jewelry/weapon/other person. Main face and body should be mostly DARK connected blue-brown shadow, like actual lamp-lit night, with only narrow small warm planes. Even faces must be broad opaque raised oil paint, never portrait photo beneath tiny texture.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:16:58.483135+00:00",
+            "resumptionPreflight": "Source/references and successful first household sheets checked; current prompt reinforces observed under-lighting risk before generation.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-73bb6d2f-99d3-4018-9ea9-57d065dd948f.png",
+            "candidateSha256": "a928f48e747e29b3aee98f90ae5414371c819763cb99670a99c1acd5a3977b1f",
+            "reviewedAt": "2026-09-24T11:27:12.244550+00:00",
+            "findings": "Lower-right isolated apron/hand inset has inaccurate numeral caption versus visible pins; unnecessary inset removed under user instruction to end hand-study detour. Do not revise hands."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit attached Ruvetta Skell sheet1: completely REMOVE ONLY the LOWER-RIGHT isolated apron/pins/hand inset and its label 'Collecting three hinge pins', filling that one region with the exact same warm ivory page ground. Do not replace it with anything; let the composition breathe. KEEP every other pixel/character feature/layout/text as close as possible: exact title and name, two full front/back figures, two expression heads and lower sewing-a-small-split-cushion waist-up figure, all anatomy and the broad matte night oil rendering. NO hand correction, no new study or object, no new text, swatches or location. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-73bb6d2f-99d3-4018-9ea9-57d065dd948f.png",
+                "sha256": "a928f48e747e29b3aee98f90ae5414371c819763cb99670a99c1acd5a3977b1f",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T11:27:12.244599+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-ee0b52a6-ef1c-420d-9b8e-89c1dcd7fc93.png",
+            "candidateSha256": "acdaa371d3b258b7de7b5e0edebdbb5b208063af4a9825b041e2c3d51a37bbb5",
+            "reviewedAt": "2026-09-24T11:30:45.114934+00:00",
+            "findings": [
+              "Actual revised pixels inspected: art-named quartermaster retains cover-derived chestnut updo, purple/gold dress and brown work apron across front/back, dry-wit/concentrating portraits and source small split red cushion mending.",
+              "Unnecessary isolated apron/hand inset and inaccurate numerical caption removed under user steering; no replacement study or speculative anatomy correction.",
+              "Adult likeness, full silhouettes, exact name/title and meaningful sewing posture clear. Broad opaque matte face/clothing oil masses under subdued practical night light; ivory clean without scene/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "acdaa371d3b258b7de7b5e0edebdbb5b208063af4a9825b041e2c3d51a37bbb5",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:30:45.117693+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "acdaa371d3b258b7de7b5e0edebdbb5b208063af4a9825b041e2c3d51a37bbb5",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-73bb6d2f-99d3-4018-9ea9-57d065dd948f.png",
+            "sha256": "a928f48e747e29b3aee98f90ae5414371c819763cb99670a99c1acd5a3977b1f",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: art-named quartermaster retains cover-derived chestnut updo, purple/gold dress and brown work apron across front/back, dry-wit/concentrating portraits and source small split red cushion mending.",
+          "Unnecessary isolated apron/hand inset and inaccurate numerical caption removed under user steering; no replacement study or speculative anatomy correction.",
+          "Adult likeness, full silhouettes, exact name/title and meaningful sewing posture clear. Broad opaque matte face/clothing oil masses under subdued practical night light; ivory clean without scene/swatches."
+        ],
+        "specificationSha256": "835ca62552d02b77dd18576f9a268e968e9048144bd7c246855c0f4df4b5f0cc"
+      }
+    },
+    {
+      "id": "tamsira-vornet",
+      "name": "Tamsira Vornet",
+      "role": "Hedge-worker sustaining finite lights through breath and attention",
+      "selectionEvidence": [
+        {
+          "quote": "hedge-worker coaxing amber lights",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "breath and attention",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        },
+        {
+          "quote": "lit only two lanterns",
+          "explanation": "Exact finished-source phrase supporting repeated individual action, anatomy, state or equipment."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Unnamed adult female hedge-worker; amber lights require active breath/attention, source three lanterns and later only two; no unlimited ambient magic. Art-only new name authorized for reference collection.",
+        "clothing": "As exact source facts above; other cover-based wardrobe below is art interpretation.",
+        "equipment": "Unnamed adult female hedge-worker; amber lights require active breath/attention, source three lanterns and later only two; no unlimited ambient magic. Art-only new name authorized for reference collection.",
+        "states": "Night breath/attention with three amber lights, third-evening two-light state."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Unnamed adult female hedge-worker; amber lights require active breath/attention, source three lanterns and later only two; no unlimited ambient magic. Art-only new name authorized for reference collection."
+      ],
+      "visualInterpretation": [
+        "Map cover upper-central black-haired light-worker and original left black-clad adult identity translated to source magical function; art38 warm-light olive skin, dark eyes, long black waves, narrow face/straight nose; black soft gown with muted gold trim and soft boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Night breath/attention with three amber lights, third-evening two-light state."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "hedge-worker",
+        "artOnlyName": "Tamsira Vornet",
+        "provenance": "New art-only reference name under explicit collection naming authorization; not inserted into prose or canon. No prior proper name in read source/prompt/review. Exact whole/first/surname collisions checked with rg over universe, stories, character specifications; no matches before creation.",
+        "checkedNames": [
+          "Tamsira Vornet",
+          "Tamsira",
+          "Vornet"
+        ]
+      },
+      "recurrence": {
+        "identityKey": "the-kingdom-was-the-easy-part:tamsira-vornet",
+        "links": [],
+        "evidence": "No exact/alias shared identity found; named source review lists new identities."
+      },
+      "references": [
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+          "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+          "inspected": true,
+          "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+        },
+        {
+          "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+          "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+          "inspected": true,
+          "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+          "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+          "inspected": true,
+          "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+        }
+      ],
+      "output": "stories/the-kingdom-was-the-easy-part/art/characters/tamsira-vornet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Tamsira Vornet. ONE HUMAN woman, source hedge-worker. Extract ONLY upper-central LONG BLACK WAVY-haired woman holding amber light in cover2, with original3 left black-haired adult as face/hair echo. Adult38 warm-light olive skin, dark eyes, narrow face/straight nose, long BLACK WAVES, ordinary human ears. Soft long BLACK gown with subdued antique-gold trim, full sleeves, closed neckline and dark ankle boots. Full Front/Back in DIM NIGHT light. Front cups two ordinary five-digit hands supporting EXACTLY THREE small separated AMBER LIGHTS close over palms, with concentrating breath; no extra sparks. Heads Breath and Attention. Small separate waist-up Third evening: hands cup EXACTLY TWO small amber lights, no third and no extra sparkle; powered only while attentive, no glowing skin/eyes. No lantern/room/sigil/other person. Most body/face connected cool shadow, tiny limited amber hand/cheek plane; broad opaque MATTE OIL flesh, no photo/anime/CG. Main face and body should be mostly DARK connected blue-brown shadow, like actual lamp-lit night, with only narrow small warm planes. Even faces must be broad opaque raised oil paint, never portrait photo beneath tiny texture.",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, ONE identity only, exact NAME as readable heading and exact smaller story title The Kingdom Was the Easy Part. Entire page and every gap LIGHT WARM IVORY; dark character illumination must NOT darken the page. No locations, furniture, ground/shadows, swatches, other figures or explanatory demographic text. Canadian Group of Seven HEAVY MATTE OILS: broad CONNECTED opaque masses, decisive directional bristle/knife strokes, quiet joins, selective thick impasto. Paint facial skin, eyes and hair in equally broad opaque oil planes, NEVER smooth photograph/anime/CG beneath texture, no glossy repeated bevel chips. Reference1 is PRIMARY paint and lighting, references2/3 ONLY mapped identity/design; never reproduce their photographic finish. Source NIGHT on main figure: majority of body/face in connected dim cool blue/brown shadows, LIMITED warm practical fire/lantern planes, no broad studio/daylight exposure. Useful full unclipped front/back and expression studies with short labels, generous ivory margins. Heading Tamsira Vornet. ONE HUMAN woman, source hedge-worker. Extract ONLY upper-central LONG BLACK WAVY-haired woman holding amber light in cover2, with original3 left black-haired adult as face/hair echo. Adult38 warm-light olive skin, dark eyes, narrow face/straight nose, long BLACK WAVES, ordinary human ears. Soft long BLACK gown with subdued antique-gold trim, full sleeves, closed neckline and dark ankle boots. Full Front/Back in DIM NIGHT light. Front cups two ordinary five-digit hands supporting EXACTLY THREE small separated AMBER LIGHTS close over palms, with concentrating breath; no extra sparks. Heads Breath and Attention. Small separate waist-up Third evening: hands cup EXACTLY TWO small amber lights, no third and no extra sparkle; powered only while attentive, no glowing skin/eyes. No lantern/room/sigil/other person. Most body/face connected cool shadow, tiny limited amber hand/cheek plane; broad opaque MATTE OIL flesh, no photo/anime/CG. Main face and body should be mostly DARK connected blue-brown shadow, like actual lamp-lit night, with only narrow small warm planes. Even faces must be broad opaque raised oil paint, never portrait photo beneath tiny texture.",
+            "references": [
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+                "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+                "inspected": true,
+                "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+              },
+              {
+                "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+                "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+                "inspected": true,
+                "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+                "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+                "inspected": true,
+                "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:35:14.427408+00:00",
+            "preflight": "Full finished story and original image/corrected source cover inspected. Exactly one of nine recurring identities per sheet; source seven-adult count, literal body/prop limits and art-only names checked. Cover-position identity mapping and source-night/predawn figure light separated from ivory page. Complete prompt checked against source and actual references; no canon/source mutation.",
+            "submittedAt": "2026-09-24T11:16:58.483731+00:00",
+            "resumptionPreflight": "Source/references and successful first household sheets checked; current prompt reinforces observed under-lighting risk before generation.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-e894a4d5-0517-4a96-bcc3-69ea206c60ec.png",
+            "candidateSha256": "8b874639160d6abc2de345d3d1a295366bced4ea6ad3c37ab6f47ee2f9dbfa22",
+            "reviewedAt": "2026-09-24T11:27:11.255197+00:00",
+            "findings": [
+              "Actual pixels inspected: art-named hedge-worker mapped to black-haired source-cover adult; consistent long black waves and subdued gold-trim black gown across full front/back and expressions.",
+              "Front cupped palms support exactly THREE discrete amber lights; third-evening separate study exactly TWO. No unlimited particles, glowing eyes/skin or other character; lighting localized to palms/lower face with dark painted clothing.",
+              "Matte opaque skin and cloth planes, readable name/source title and unclipped whole figures on warm ivory without locations/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "8b874639160d6abc2de345d3d1a295366bced4ea6ad3c37ab6f47ee2f9dbfa22",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T11:27:11.257011+00:00",
+        "sourceSha256": "6b2f7b61ed101f7968aa141734755deeb90ca7290c78e9b22f3481493136f423",
+        "outputSha256": "8b874639160d6abc2de345d3d1a295366bced4ea6ad3c37ab6f47ee2f9dbfa22",
+        "references": [
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\art\\interiors\\01-manydoor-library.png",
+            "sha256": "ff8f6f369bff59a3e9b4b47202e8e230c6777a50c485f99d82fe0833b3b65592",
+            "inspected": true,
+            "role": "PRIMARY rendering and source-night figure lighting: broad opaque matte Group of Seven oils, deep connected blue/brown shadow with restricted warm fire/lamp planes. No library or objects copied."
+          },
+          {
+            "path": "stories\\the-kingdom-was-the-easy-part\\title-image.jpg",
+            "sha256": "bb6d515d47ce9e691e8b93ce97b9265b484069b34ae6ebb3a6f1d007337a7cef",
+            "inspected": true,
+            "role": "Source edited cover inspected: seven adults, blue dragon and white wolf. Subordinate identity and wardrobe content only; completely replace photographic rendering with matte oils. Individual mapping specified in character brief."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-c1ee46b3-d79a-4ae3-a979-0dd1ba40e803.png",
+            "sha256": "846a441415c776493198938bf4d6a452311f0b7a3bdee5df488979aefd697b60",
+            "inspected": true,
+            "role": "Recovered exact user original inspected; useful preserved household identity/design, deep-blue decorated dragon, white wolf and warm/cool night material relationships. Edited cover and finished seven-adult source control extra original figures; no photographic finish or scene copied."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: art-named hedge-worker mapped to black-haired source-cover adult; consistent long black waves and subdued gold-trim black gown across full front/back and expressions.",
+          "Front cupped palms support exactly THREE discrete amber lights; third-evening separate study exactly TWO. No unlimited particles, glowing eyes/skin or other character; lighting localized to palms/lower face with dark painted clothing.",
+          "Matte opaque skin and cloth planes, readable name/source title and unclipped whole figures on warm ivory without locations/swatches."
+        ],
+        "specificationSha256": "aa3622ef8369b1862571cca4fc657a943949f3e5cd9794989061b1b0865aa312"
+      }
+    }
+  ]
+}
