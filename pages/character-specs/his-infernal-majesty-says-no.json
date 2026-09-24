@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "slug": "his-infernal-majesty-says-no",
+  "title": "His Infernal Majesty Says No",
+  "source": "stories/his-infernal-majesty-says-no/story.md",
+  "sourceSha256": "6ee4e29e6d96122cf8b3cea8b24b13d06a504182942701abd18a35cbcae24ff2",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose read. Father POV and Nimelza carry the full conflict; registrar has extensive individualized admissions dialogue and causal final enrollment.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Marshal, chancellor, chamberlain",
+      "reason": "Functional advisers/collective coercive proposals; recurring marshal remains enforcer without independent developed stakes."
+    },
+    {
+      "name": "Tax reeve and family, courtiers, guards, servants and remembered assassins",
+      "reason": "Brief demonstration, background or remembered incidents; not developed main cast."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "vuldrazh",
+      "name": "Vuldrazh",
+      "role": "First-person hell-lord father drives denial, control and eventual release without moral absolution.",
+      "selectionEvidence": [
+        {
+          "quote": "I replaced the seal without closing it to her token.",
+          "explanation": "First-person hell-lord father drives denial, control and eventual release without moral absolution."
+        }
+      ],
+      "form": "Adult male humanoid; two arms/two legs. Daughter has foldable horns; father horns interpretive.",
+      "storyAppearance": {
+        "anatomy": "Adult male humanoid; two arms/two legs. Daughter has foldable horns; father horns interpretive.",
+        "lifeStage": "Mature adult, exact age unspecified.",
+        "proportions": "Tall broad upright build interpretation.",
+        "clothing": "Source coat; black formal knee-length coat, charcoal trousers, dark boots interpreted.",
+        "equipment": [
+          "Plain copper unmarked one-use home token"
+        ],
+        "distinctiveFeatures": [
+          "After opening his seal, palm skin split; side unspecified."
+        ]
+      },
+      "explicitCanon": [
+        "Source non-canon story; no shared facts established.",
+        "Reigning hell lord and Nimelza's father; remains cruel to subjects.",
+        "Copper token permits brief return without tracking/following; palm splits removing seal."
+      ],
+      "visualInterpretation": [
+        "Dusky reddish-brown skin, black swept-back hair with gray temples, strong square face, two modest backward curving dark horns; all non-canon visual interpretation.",
+        "Black formal long coat with restrained dark embroidery, no armour or gigantic crown."
+      ],
+      "states": [
+        {
+          "name": "Court",
+          "description": "Firm composed authority; hands intact."
+        },
+        {
+          "name": "After seal",
+          "description": "Small shallow palm cut in isolated hand study only."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "his-infernal-majesty-says-no:vuldrazh",
+        "links": [],
+        "evidence": "No shared-universe name or identity match found; same-story evidence only."
+      },
+      "nameAssignment": {
+        "kind": "new-art-name",
+        "name": "Vuldrazh",
+        "sourceRole": "First-person hell-lord father drives denial, control and eventual release without moral absolution.",
+        "scope": "New distinctive art-only name under explicit user authorization to name missing identities; source remains unnamed and unedited; no universe fact. Checked universe, frozen names, stories/reviews and existing specifications."
+      },
+      "output": "stories/his-infernal-majesty-says-no/art/characters/vuldrazh.png",
+      "status": "completed",
+      "blockers": [],
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+          "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+          "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+          "inspected": true,
+          "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+        }
+      ],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Vuldrazh\". Exact subtitle \"His Infernal Majesty Says No\". Figure is the adult male hell lord and father of eighteen-year-old Nimelza. Art-only resolved name Vuldrazh. Mature tall broad humanoid, dusky reddish-brown skin, square lined face, long straight nose, black hair swept back with gray temples, two modest dark backward-curved horns, clean-shaven. Ordinary two arms/two legs, human-sized hands and booted feet; no wings or tail. Formal black knee-length coat with quiet dark embroidery, charcoal trousers and simple boots; no armour, weapons, oversized crown, fire body or aura. Two complete front/rear-three-quarter views, stern controlled posture. One weary restrained face study. One small bare palm study with a shallow thin cut labelled 'After seal', not gore, plus plain copper token without sigils. First three images render/style only; fourth provides low evening lamp/fire reflection as broad subdued ochre planes with deep plum-charcoal shadow; no room, orange rim or daylight.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+            "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+            "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+            "inspected": true,
+            "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Vuldrazh\". Exact subtitle \"His Infernal Majesty Says No\". Figure is the adult male hell lord and father of eighteen-year-old Nimelza. Art-only resolved name Vuldrazh. Mature tall broad humanoid, dusky reddish-brown skin, square lined face, long straight nose, black hair swept back with gray temples, two modest dark backward-curved horns, clean-shaven. Ordinary two arms/two legs, human-sized hands and booted feet; no wings or tail. Formal black knee-length coat with quiet dark embroidery, charcoal trousers and simple boots; no armour, weapons, oversized crown, fire body or aura. Two complete front/rear-three-quarter views, stern controlled posture. One weary restrained face study. One small bare palm study with a shallow thin cut labelled 'After seal', not gore, plus plain copper token without sigils. First three images render/style only; fourth provides low evening lamp/fire reflection as broad subdued ochre planes with deep plum-charcoal shadow; no room, orange rim or daylight.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+                "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+                "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+                "inspected": true,
+                "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+              }
+            ],
+            "reason": "Initial complete-source cast folio.",
+            "startedAt": "2026-09-24T02:32:49.804Z",
+            "preflight": "Finished story read completely; marker checked; selected reference actual pixels inspected; name resolution completed before generation. Anatomy, clothing, state separation, source-specific light and all reference roles checked against exact prompt.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-77ae077e-05e2-44d2-bd04-28960c85b56a.png",
+            "outputSha256": "709a923ae3e3f40a941fe80b0a83aefd729067e7292f135145b15676090b6039",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:37:56.955889+00:00",
+            "generatorReview": "Actual pixels inspected: consistent mature male identity, two complete dark formal coat views, stern and weary restrained expression; modest horns are recorded interpretation. Small separated palm cut labelled After seal and plain copper token fit source limits. Normal anatomy, no source-extraneous power spectacle. Readable exact name/title, ivory edges, no scene/swatches; broad warm-dark matte skin/clothes with opaque directional impasto and deep connected coat shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:37:56.955889+00:00",
+        "sourceSha256": "6ee4e29e6d96122cf8b3cea8b24b13d06a504182942701abd18a35cbcae24ff2",
+        "outputSha256": "709a923ae3e3f40a941fe80b0a83aefd729067e7292f135145b15676090b6039",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+            "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+            "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+            "inspected": true,
+            "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent mature male identity, two complete dark formal coat views, stern and weary restrained expression; modest horns are recorded interpretation. Small separated palm cut labelled After seal and plain copper token fit source limits. Normal anatomy, no source-extraneous power spectacle. Readable exact name/title, ivory edges, no scene/swatches; broad warm-dark matte skin/clothes with opaque directional impasto and deep connected coat shadows.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "97af7e0a25ca06ed4eecb536d5dd9dc1ff61b59e17f4feb46c7bd7d0be83e9bc"
+      },
+      "outputSha256": "709a923ae3e3f40a941fe80b0a83aefd729067e7292f135145b15676090b6039"
+    },
+    {
+      "id": "nimelza",
+      "name": "Nimelza",
+      "role": "Eighteen-year-old daughter prepares college entry, rejects covert surveillance and accepts imperfect independence.",
+      "selectionEvidence": [
+        {
+          "quote": "But I won't go with people spying on my roommate.",
+          "explanation": "Eighteen-year-old daughter prepares college entry, rejects covert surveillance and accepts imperfect independence."
+        }
+      ],
+      "form": "Young adult female humanoid, two arms/two legs and foldable horns.",
+      "storyAppearance": {
+        "anatomy": "Young adult female humanoid, two arms/two legs and foldable horns.",
+        "lifeStage": "Eighteen on depicted birthday.",
+        "proportions": "Ordinary young-adult humanlike proportions, interpretation.",
+        "clothing": "Smoke-gray dress, soft-soled slippers; knitted cap at departure; no crown.",
+        "equipment": [
+          "Bent silver hair clasp",
+          "Ordinary small travel case",
+          "Plain copper token"
+        ],
+        "distinctiveFeatures": [
+          "Dark hair pinned up by bent silver clasp.",
+          "Folds horns under cap; one horn makes small peak."
+        ]
+      },
+      "explicitCanon": [
+        "Source named eighteen-year-old Nimelza; no universe entry.",
+        "Dark hair, smoke-gray dress, soft slippers, no crown, bent silver clasp.",
+        "Foldable horns tucked under cap on departure; travels alone with ordinary case."
+      ],
+      "visualInterpretation": [
+        "Warm dusky olive/reddish-brown skin related to father, oval face, dark eyes; subtle flexible curved horns interpreted.",
+        "Dress knee/calf length with practical long sleeves; cap charcoal; not childlike or sexualized."
+      ],
+      "states": [
+        {
+          "name": "Birthday",
+          "description": "Pinned hair with clasp, bare horns, smoke-gray dress/slippers."
+        },
+        {
+          "name": "Departure",
+          "description": "Same dress, knitted cap over folded horns with one subtle wool peak, small case."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "his-infernal-majesty-says-no:nimelza",
+        "links": [],
+        "evidence": "No shared-universe name or identity match found; same-story evidence only."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Nimelza",
+        "sourceRole": "Eighteen-year-old daughter prepares college entry, rejects covert surveillance and accepts imperfect independence.",
+        "scope": "Exact finished-story name."
+      },
+      "output": "stories/his-infernal-majesty-says-no/art/characters/nimelza.png",
+      "status": "completed",
+      "blockers": [],
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+          "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+          "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+          "inspected": true,
+          "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+        },
+        {
+          "path": "stories/his-infernal-majesty-says-no/title-image.jpg",
+          "role": "Original source cover props only for Nimelza: knitted cap and ordinary travel case.",
+          "notes": "No character face present; ornate portal, visual glow and doorway composition are excluded.",
+          "inspected": true,
+          "sha256": "b7277008c62ce04c2e249767d5ee62b1c96634c5fa781683570a1b2ed34a2e27"
+        }
+      ],
+      "generation": {
+        "prompt": "Make one precise correction to the right-hand full-body Departure view on this exact Nimelza sheet. Her horns must be completely covered by the knitted cap. Remove the exposed brown horn projecting out of the cap at top-left, replace it with intact charcoal knitted wool smoothly covering the folded horn underneath; only a small SOFT WOOL peak, same knitted texture as hat, can show. No bare horn material, no hole or tear in cap. Keep all other pixels and layout as closely as possible: face identity, birthday bare horns, dark hair, smoke-gray dress/slippers, case, clasp, copper token, all exact text, ivory background and thick matte oil treatment. Do not introduce scenery or palette swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-dad02e00-634a-4b74-be4e-308817b752c8.png",
+            "role": "Inspected immutable initial candidate; change departure cap only.",
+            "inspected": true,
+            "sha256": "a1d23f760f7dcc5b76ab7ee2c2b7297c65a87f83fe6519348c5cb3acd8036f68"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Nimelza\". Exact subtitle \"His Infernal Majesty Says No\". Young adult woman EXACTLY eighteen, Nimelza, alert intelligent ordinary proportions, dark eyes, warm dusky olive-brown skin, fine oval face and dark hair pinned up with one bent silver clasp. She is humanoid with two small flexible dark horns that can fold down under a cap; no wings, tail, crown, armour or fantasy staff. TWO complete views of this same identity: front three-quarter 'Birthday' with smoke-gray modest long-sleeved calf-length dress and soft-soled slippers, pinned hair and visible small horns; rear three-quarter 'Departure' in SAME dress and slippers, charcoal knitted cap covering folded horns, only one subtle horn peak in wool, carrying small dark travel case. One thoughtful determined face study with bare horns, one bent silver clasp/copper token detail if room. First3 references render only; fourth low evening practical warm ochre lighting and connected dark plum shadows; fifth cover is cap/case only, never portal, floor or flashy edge light. No screens/desks/background. Keep her adult, no schoolgirl uniform or sexualization. Token plain, no tracking glyphs.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
+                "role": "Infernal evening practical lamp/fire reflected illumination only, never location.",
+                "notes": "Low warm ochre lamplight on forms, deep connected muted plum/charcoal shadows, not edge rims.",
+                "inspected": true,
+                "sha256": "620c6dbe5cdb091a7a590322f869fc0c4c372573161e5f2a18f570108e56e9b2"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/his-infernal-majesty-says-no/title-image.jpg",
+                "role": "Original source cover props only for Nimelza: knitted cap and ordinary travel case.",
+                "notes": "No character face present; ornate portal, visual glow and doorway composition are excluded.",
+                "inspected": true,
+                "sha256": "b7277008c62ce04c2e249767d5ee62b1c96634c5fa781683570a1b2ed34a2e27"
+              }
+            ],
+            "reason": "Initial complete-source cast folio.",
+            "startedAt": "2026-09-24T02:32:49.804Z",
+            "preflight": "Finished story read completely; marker checked; selected reference actual pixels inspected; name resolution completed before generation. Anatomy, clothing, state separation, source-specific light and all reference roles checked against exact prompt.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-dad02e00-634a-4b74-be4e-308817b752c8.png",
+            "outputSha256": "a1d23f760f7dcc5b76ab7ee2c2b7297c65a87f83fe6519348c5cb3acd8036f68",
+            "generatorReview": "Departure cap shows exposed horn rather than intact wool over folded horn. All other identity/source/format gates pass."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Make one precise correction to the right-hand full-body Departure view on this exact Nimelza sheet. Her horns must be completely covered by the knitted cap. Remove the exposed brown horn projecting out of the cap at top-left, replace it with intact charcoal knitted wool smoothly covering the folded horn underneath; only a small SOFT WOOL peak, same knitted texture as hat, can show. No bare horn material, no hole or tear in cap. Keep all other pixels and layout as closely as possible: face identity, birthday bare horns, dark hair, smoke-gray dress/slippers, case, clasp, copper token, all exact text, ivory background and thick matte oil treatment. Do not introduce scenery or palette swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-dad02e00-634a-4b74-be4e-308817b752c8.png",
+                "role": "Inspected immutable initial candidate; change departure cap only.",
+                "inspected": true,
+                "sha256": "a1d23f760f7dcc5b76ab7ee2c2b7297c65a87f83fe6519348c5cb3acd8036f68"
+              }
+            ],
+            "startedAt": "2026-09-24T02:37:58.002683+00:00",
+            "reason": "Correct source-specific covered folded-horn departure state.",
+            "preflight": "Exact initial candidate pixels inspected; one local cap change required; all other states and identity preserved.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-732077e3-8286-4d2f-8d8b-93126e6d13ee.png",
+            "outputSha256": "dbc55f4729bf769f587a6ce6e445556d3f39bacef5658ffc6713319c625382d5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:40:04.330610+00:00",
+            "generatorReview": "Corrected actual pixels inspected: Departure cap now intact charcoal knitted wool with one subtle raised covered peak, no exposed horn. Birthday bare small horns and dark hair, bent silver clasp, smoke-gray dress, soft slippers, ordinary case and plain copper token preserved. Young adult eighteen identity consistent across two complete body views and thoughtful head. State labels make costume variation legible. Exact name/title readable; ivory no scene/swatches; matte broad oil planes, restrained warm light and connected gray-plum cloth shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:40:04.330610+00:00",
+        "sourceSha256": "6ee4e29e6d96122cf8b3cea8b24b13d06a504182942701abd18a35cbcae24ff2",
+        "outputSha256": "dbc55f4729bf769f587a6ce6e445556d3f39bacef5658ffc6713319c625382d5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-dad02e00-634a-4b74-be4e-308817b752c8.png",
+            "role": "Inspected immutable initial candidate; change departure cap only.",
+            "inspected": true,
+            "sha256": "a1d23f760f7dcc5b76ab7ee2c2b7297c65a87f83fe6519348c5cb3acd8036f68"
+          }
+        ],
+        "evidence": "Corrected actual pixels inspected: Departure cap now intact charcoal knitted wool with one subtle raised covered peak, no exposed horn. Birthday bare small horns and dark hair, bent silver clasp, smoke-gray dress, soft slippers, ordinary case and plain copper token preserved. Young adult eighteen identity consistent across two complete body views and thoughtful head. State labels make costume variation legible. Exact name/title readable; ivory no scene/swatches; matte broad oil planes, restrained warm light and connected gray-plum cloth shadows.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c180f664034f76199e8ca2ea3a768a23875bac79406e4efa9734eec7b54a0c63"
+      },
+      "outputSha256": "dbc55f4729bf769f587a6ce6e445556d3f39bacef5658ffc6713319c625382d5"
+    },
+    {
+      "id": "arlisse-penrow",
+      "name": "Arlisse Penrow",
+      "role": "Human registrar repeatedly tests Nimelza's intent and emergency plan, enabling the closing enrollment.",
+      "selectionEvidence": [
+        {
+          "quote": "I need the applicant to answer.",
+          "explanation": "Human registrar repeatedly tests Nimelza's intent and emergency plan, enabling the closing enrollment."
+        }
+      ],
+      "form": "Ordinary adult human woman, two arms/two legs.",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human woman, two arms/two legs.",
+        "lifeStage": "Adult; mid-fifties visual interpretation.",
+        "proportions": "Average build interpretation.",
+        "clothing": "Blue sweater and spectacles are explicit; navy skirt and low shoes interpreted.",
+        "equipment": [],
+        "distinctiveFeatures": [
+          "Calm direct professional expression; no magical identity."
+        ]
+      },
+      "explicitCanon": [
+        "Blue sweater and spectacles; woman conducting remote admissions check.",
+        "No exact age, hairstyle, ethnicity, full outfit or personal name in source.",
+        "Human college staff, ordinary admission role; not infernal or magical."
+      ],
+      "visualInterpretation": [
+        "Art-only name Arlisse Penrow assigned distinctly after no existing matches.",
+        "Medium-brown complexion, round soft-lined face, short gray coiled hair, navy calf-length skirt and low black shoes."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "his-infernal-majesty-says-no:arlisse-penrow",
+        "links": [],
+        "evidence": "No shared-universe name or identity match found; same-story evidence only."
+      },
+      "nameAssignment": {
+        "kind": "new-art-name",
+        "name": "Arlisse Penrow",
+        "sourceRole": "Human registrar repeatedly tests Nimelza's intent and emergency plan, enabling the closing enrollment.",
+        "scope": "New distinctive art-only name under explicit user authorization to name missing identities; source remains unnamed and unedited; no universe fact. Checked universe, frozen names, stories/reviews and existing specifications."
+      },
+      "output": "stories/his-infernal-majesty-says-no/art/characters/arlisse-penrow.png",
+      "status": "completed",
+      "blockers": [],
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        }
+      ],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Arlisse Penrow\". Exact subtitle \"His Infernal Majesty Says No\". Ordinary HUMAN adult woman registrar, resolved art-only name Arlisse Penrow. Mid-fifties visual interpretation, medium-brown complexion, soft round face, short gray coiled hair, simple oval spectacles. Explicit blue knitted sweater; interpret navy calf-length skirt, plain low black shoes. Two complete front/rear three-quarter views, comfortable professional stance with hands naturally resting together; one calm attentive face study and one speaking face study. No clipboard needed, no tablet, office furniture, video screen/frame, filing cabinet or room. No horns, crown, magic, tail, infernal ornaments. Ordinary indoor office diffuse overhead light: muted neutral cream with restrained cool shadows, no orange infernal lamp glow, no rimlight. All three supplied images are painting/presentation only and donate no clothing, face, landscape or sun.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Arlisse Penrow\". Exact subtitle \"His Infernal Majesty Says No\". Ordinary HUMAN adult woman registrar, resolved art-only name Arlisse Penrow. Mid-fifties visual interpretation, medium-brown complexion, soft round face, short gray coiled hair, simple oval spectacles. Explicit blue knitted sweater; interpret navy calf-length skirt, plain low black shoes. Two complete front/rear three-quarter views, comfortable professional stance with hands naturally resting together; one calm attentive face study and one speaking face study. No clipboard needed, no tablet, office furniture, video screen/frame, filing cabinet or room. No horns, crown, magic, tail, infernal ornaments. Ordinary indoor office diffuse overhead light: muted neutral cream with restrained cool shadows, no orange infernal lamp glow, no rimlight. All three supplied images are painting/presentation only and donate no clothing, face, landscape or sun.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial complete-source cast folio.",
+            "startedAt": "2026-09-24T02:32:49.804Z",
+            "preflight": "Finished story read completely; marker checked; selected reference actual pixels inspected; name resolution completed before generation. Anatomy, clothing, state separation, source-specific light and all reference roles checked against exact prompt.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-618b5707-b7b8-4b5a-a79a-1bc4ee62aae7.png",
+            "outputSha256": "b318b81d19482ad23dcee7c0b6eed32676a0959736ddd8470dfe63530d5d9e66",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:37:56.991190+00:00",
+            "generatorReview": "Actual pixels inspected: distinct consistent mature human registrar with blue sweater and spectacles explicitly from source; gray coiled hair and modest navy skirt recorded as interpretation. Two complete body views and attentive/speaking heads retain face proportions. No office backdrop, screen frame, infernal horns or ungrounded props. Exact art name and story title readable. Ivory character-only folio, matte directional oils across face/cloth with neutral office light and connected cool shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:37:56.991190+00:00",
+        "sourceSha256": "6ee4e29e6d96122cf8b3cea8b24b13d06a504182942701abd18a35cbcae24ff2",
+        "outputSha256": "b318b81d19482ad23dcee7c0b6eed32676a0959736ddd8470dfe63530d5d9e66",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct consistent mature human registrar with blue sweater and spectacles explicitly from source; gray coiled hair and modest navy skirt recorded as interpretation. Two complete body views and attentive/speaking heads retain face proportions. No office backdrop, screen frame, infernal horns or ungrounded props. Exact art name and story title readable. Ivory character-only folio, matte directional oils across face/cloth with neutral office light and connected cool shadows.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "eabfb0009cf6763ce7a4d003baa8b3585abb75c7f413b7514629544c936419e9"
+      },
+      "outputSha256": "b318b81d19482ad23dcee7c0b6eed32676a0959736ddd8470dfe63530d5d9e66"
+    }
+  ]
+}
