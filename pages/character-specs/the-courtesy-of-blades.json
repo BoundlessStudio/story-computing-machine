@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-courtesy-of-blades",
+  "title": "The Courtesy of Blades",
+  "source": "stories/the-courtesy-of-blades/05-story.md",
+  "sourceSha256": "72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished bundle prose read through agreed supper and unchanged dawn departure. Three named canon principal agents: Fiora Halwick, Jasper Renlow and Quade. No other principal cast.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Spectators, unofficial heckler, pupils, supper vendors and hired-cart driver",
+      "reason": "Collective/brief or offstage roles, no sustained individual identity or named character."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy and CANON entries: characters.md Fiora Halwick/Jasper Renlow/Quade; factions.md Lacebridge civic blade-yard practice; glossary.md Courtesy bout/Self-call/Trial badge; locations.md Lacebridge/yard/East Weir; timeline.md Undated Lacebridge trial and courtesy bout.",
+    "Fiora accomplished adult assistant instructor/new East Weir head instructor, prior trial3–2 winner; Jasper adult river-patrol fencer/rematch3–2 winner, mutual romantic interest; Quade adult qualified official and friend. Consent independent of score; no ownership/magic/equipment agency.",
+    "Blunt flexible chalk-edged blades, dark padded torso and upper-arm targets, eye/throat guards; hands/head/joints off-target. Before-ready depictions keep guards raised for likeness, no dangerous action or sharp duel blades.",
+    "Canon:true marker inspected; original package/canon/cover/source remain read-only. Added character art/spec separately authorized, visual inventions do not amend universe facts."
+  ],
+  "referenceInputs": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "fiora-halwick",
+      "name": "Fiora Halwick",
+      "sourceIdentityId": "fiora-halwick",
+      "role": "Canon accomplished fencer and newly appointed East Weir head instructor",
+      "selectionEvidence": [
+        {
+          "quote": "Fiora Halwick set her travel case beneath the spectator rail",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 9
+        },
+        {
+          "quote": "Fiora standing in the Lacebridge civic blade",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 15
+        },
+        {
+          "quote": "Fiora pushed up her eye guard.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 275
+        },
+        {
+          "quote": "The point is Jasper's.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 457
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, skilled fencer; exact physical appearance/age unstated.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Padded practice coat with dark torso and upper-arm target panels; eye guard/throat protection; boots.",
+        "equipment": "Flexible blunted chalk-edged practice blade, travel case; bronze trial badge stays pinned inside case.",
+        "scale": "Adult human.",
+        "movement": "Balanced low pivot, assertive skilled footwork, honest self-call and voluntary affection.",
+        "distinctiveFeatures": "Mundane trained skill; no magic, badge glow or weapon sentience."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Fiora Halwick",
+          "status": "CANON",
+          "summary": "Canon accomplished fencer and newly appointed East Weir head instructor"
+        },
+        "Mundane local courtesy-bout rules and skills only; appearance details art interpretation."
+      ],
+      "visualInterpretation": [
+        "Art-only visual interpretation: adultearly30 woman, warm olive skin, small freckles, green-brown eyes, angular oval face, auburn-copper hair in low tight braid, lean strong fencer's build.",
+        "Cream quilted practice coat with plain very dark indigo torso and upper-arm target panels, slate breeches, dark brown ankle boots and simple padded dark gloves. Dark padded throat guard and hinged leather-framed perforated eye visor. Main before-ready: visor raised, blade lowered and no chalk score marks. Close lowered-eye-guard state separate; no badge worn outside case."
+      ],
+      "states": [
+        {
+          "label": "Before ready",
+          "description": "Resting prepared posture, guard raised."
+        },
+        {
+          "label": "Guard lowered",
+          "description": "Proper eye protection down over eyes."
+        },
+        {
+          "label": "The point is Jasper's",
+          "description": "Truthful earnest self-call, visor lifted for expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:fiora-halwick",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "heading": "Fiora Halwick"
+          }
+        ],
+        "evidence": "Exact CANON identity originating in this story; no other selected character spec found for these names."
+      },
+      "references": [
+        {
+          "path": "stories/the-courtesy-of-blades/title-image.jpg",
+          "sha256": "92225736c2776ea81096d68dc6f3f278b42ddfe1efb433a6a21db985c081b15c",
+          "role": "Padded dark practice target material and blunt rounded sword vocabulary, no faces established",
+          "inspected": true,
+          "notes": "Inspected cover crossed blunt blades over navy quilted coat/case; symbolic evening still-life not human appearance."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+          "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+          "role": "Primary Group of Seven oil and evening roofed-yard shade with slanted warm light only",
+          "inspected": true,
+          "notes": "Dark connected violet/umber under-roof masses; no yard/river/floor/sunset scene transferred."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+          "sha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+          "role": "Blunt chalk-edged flexible practice blade/guard and cream-dark padded clothing construction, broad oil",
+          "inspected": true,
+          "notes": "Inspected ordinary rounded tips, disc handguards, padded practice gear/eye guards; source throat guards must also be included."
+        }
+      ],
+      "output": "stories/the-courtesy-of-blades/art/characters/fiora-halwick.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:02:37.699492+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER REFERENCE FOLIO on clean WARM LIGHT IVORY support. One named identity, full front/three-quarter and rear views, expression/gear details. Readable exact name and \"The Courtesy of Blades\" in reserved upper-left space. No scene/location/floor/contact patches, swatches, decorative backgrounds, opponents or crowd.\n\nCanadian Group of Seven heavy OPAQUE OIL: broad connected form/value masses, varied long directional bristle strokes, selective knife impasto, quiet joins. Paint human faces/hands as physically and broadly as landscapes, no finely rendered skin/small even chips, glossy eyes, anime or 3D. Supplied oils primary paint/gear anchors only.\nLIGHT: EVENING in a roofed open-sided practice yard, warm low sun from one side. Figures MOSTLY under-roof connected low-value violet/umber shade; a few restrained warm-lit planes. NO broad daylight exposure, no orange rim around entire body, no studio fill. White/cream fabric appears mostly subdued grey-violet in shade. Ivory page itself stays light.\nMundane nonlethal training gear: rounded BLUNT flexible chalk-edged steel blade, disc guard, dark padded torso and upper-arm targets, separate padded throat guard and eye visor. No sharp weapon, blood, magical effects or symbol. Every full body in rest with sword lowered, no combat action.\n\nEXACT NAME \"Fiora Halwick\". One grown human WOMAN early30s: warm OLIVE skin, a few subtle freckles, hazel green-brown eyes, angular oval face, AUBURN-COPPER hair in a LOW TIGHT BRAID, lean strong athletic ordinary build. A self-possessed trained instructor. Natural adult eyes/head/body. No elderly/teenage face.\nFull body left front in CREAM quilted padded practice coat, very DARK INDIGO torso target panel covering chest/ribs and dark panels over BOTH upper arms. Coat practical hip-length, no cleavage. Slate breeches, dark brown ankle boots, simple dark padded gloves. Separate dark padded THROAT GUARD protects neck. Leather-framed perforated EYE VISOR raised above brow in primary, hinged safely up, face visible. Visor is not glasses, no crown.\nOne right hand holds a single blunted rounded-tip chalk-edged practice blade DOWN beside body, edge lightly WHITE with CHALK not glow, broad disc handguard and wrapped grip. Blade continuous correct length, no blade intersecting feet/body/other view. Other arm rests loose. Smaller rear view same braid/coat/padding/boots and visor strap, no additional sword necessary.\nTwo bust studies: \"Guard lowered\" shows eye visor DOWN protecting BOTH EYES plus throat guard, recognizable hair/face lower half; \"The point is Jasper's\" shows visor raised, mature earnest face and proud honest self-call.\nSmall glove-and-HILT detail, same natural five-digit grip/disc guard and chalked blunt blade base. No detached bare weapon display needed. Before-ready state all coat target panels CLEAN, no score marks; bronze badge stays in packed case and MUST NOT be worn. No travelcase/rail/river, no letter/logos or romantic partner. Broad matte shadowed face paint, small warm lit cheek only.",
+            "references": [
+              {
+                "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+                "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+                "role": "Primary Group of Seven oil and evening roofed-yard shade with slanted warm light only",
+                "inspected": true,
+                "notes": "Dark connected violet/umber under-roof masses; no yard/river/floor/sunset scene transferred."
+              },
+              {
+                "path": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+                "sha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+                "role": "Blunt chalk-edged flexible practice blade/guard and cream-dark padded clothing construction, broad oil",
+                "inspected": true,
+                "notes": "Inspected ordinary rounded tips, disc handguards, padded practice gear/eye guards; source throat guards must also be included."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-04bd910d-683a-4c56-9650-5e9a0496dc48.png",
+            "returnedSha256": "f41840295916f810a6d59a9eb739cd3fdf6c98ecefdc7e740a0913afccf2bade",
+            "completedAt": "2026-09-24T10:11:47.451758+00:00",
+            "review": "One consistent adult Fiora, all safe practice gear/round blunt tip/dark targets/raised and lowered eye guard/neck guard pass. REVISE unwanted ground paint under all boots. Cream coat/face too broadly bright for roofed evening shade; darken to mostly connected grey-violet/umber with restricted small warm side planes, keep ivory light."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:11:48.479433+00:00",
+            "status": "PASS",
+            "prompt": "Correct ONLY light and ground in this EXACT Fiora Halwick character folio. Preserve all identities/face expressions/hair, body/poses/gear and sword shape, hands, labels/layout, broad opaque OIL.\n\n1 Remove EVERY little ground/contact paint patch under ALL boots. Clean light warm IVORY outside silhouette, no floor shadows.\n2 Current coat/face exposure is broad daylight. The character is UNDER A ROOF at EVENING. Make MOST of cream fabric, face, hands and back a joined LOW-VALUE GREY-VIOLET/UMBER shaded mass. Cream cloth must be mostly dim muted grey, not almost white. Dark navy targets/gloves/visor remain dark. Front face and two portrait faces: one small muted warm plane at near cheek/nose, the rest shadowed; keep readable adult identity without bright fill. Hair mostly dark auburn, no bright orange outline. Back darker under-roof shade. Keep the precise chalk-white edge merely faint offwhite, not glow.\nA little late low sun can strike narrow selected coat fold/cheek planes, not full exposed body or bright rims. Skin mostly subdued, protect natural eyes.\nThe page remains LIGHT WARM IVORY exactly; don't add vignette or darkness outside character.\nNothing else changes: blunt rounded blade, disc handguard, throat guard, dark target panels, eye-guard lowered/raised geometry, all exact text. No new objects/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-04bd910d-683a-4c56-9650-5e9a0496dc48.png",
+                "sha256": "f41840295916f810a6d59a9eb739cd3fdf6c98ecefdc7e740a0913afccf2bade",
+                "inspected": true,
+                "role": "Exact Fiora target; evening shaded exposure and ground removal only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4531ea68-cb4a-472f-910e-f8e2b6dc774d.png",
+            "returnedSha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+            "completedAt": "2026-09-24T10:18:17.541390+00:00",
+            "review": [
+              "Returned pixels reviewed: consistent mature auburn-braided olive-skinned Fiora, strong natural adult face/proportions across front/back and portraits, no canon appearance invented as authority.",
+              "Blunt rounded flexible-looking steel practice blade with chalked dull edge, disc handguard, safe lowered rest; dark torso/upper-arm padded targets, separate throat guard and hinged perforated eye guard all coherent. Raised main vs fully lowered eye protection separate, no bronze badge worn.",
+              "Correction gives roofed-evening low-value grey-violet cream fabric, connected navy/umber shadows and small motivated low warm sun planes; no bright studio exposure. Broad opaque oil shape handling across skin/gear/cloth.",
+              "Ground patches removed, no scenery/swatches, exact name/title/labels clean and readable. Natural glove grip/digits, gear doesn't intersect body or neighboring view; before-ready clean coat, not misleading bout score."
+            ]
+          }
+        ],
+        "prompt": "Correct ONLY light and ground in this EXACT Fiora Halwick character folio. Preserve all identities/face expressions/hair, body/poses/gear and sword shape, hands, labels/layout, broad opaque OIL.\n\n1 Remove EVERY little ground/contact paint patch under ALL boots. Clean light warm IVORY outside silhouette, no floor shadows.\n2 Current coat/face exposure is broad daylight. The character is UNDER A ROOF at EVENING. Make MOST of cream fabric, face, hands and back a joined LOW-VALUE GREY-VIOLET/UMBER shaded mass. Cream cloth must be mostly dim muted grey, not almost white. Dark navy targets/gloves/visor remain dark. Front face and two portrait faces: one small muted warm plane at near cheek/nose, the rest shadowed; keep readable adult identity without bright fill. Hair mostly dark auburn, no bright orange outline. Back darker under-roof shade. Keep the precise chalk-white edge merely faint offwhite, not glow.\nA little late low sun can strike narrow selected coat fold/cheek planes, not full exposed body or bright rims. Skin mostly subdued, protect natural eyes.\nThe page remains LIGHT WARM IVORY exactly; don't add vignette or darkness outside character.\nNothing else changes: blunt rounded blade, disc handguard, throat guard, dark target panels, eye-guard lowered/raised geometry, all exact text. No new objects/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-04bd910d-683a-4c56-9650-5e9a0496dc48.png",
+            "sha256": "f41840295916f810a6d59a9eb739cd3fdf6c98ecefdc7e740a0913afccf2bade",
+            "inspected": true,
+            "role": "Exact Fiora target; evening shaded exposure and ground removal only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:18:17.541390+00:00",
+        "sourceSha256": "72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20",
+        "outputSha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-04bd910d-683a-4c56-9650-5e9a0496dc48.png",
+            "sha256": "f41840295916f810a6d59a9eb739cd3fdf6c98ecefdc7e740a0913afccf2bade",
+            "inspected": true,
+            "role": "Exact Fiora target; evening shaded exposure and ground removal only"
+          }
+        ],
+        "evidence": [
+          "Returned pixels reviewed: consistent mature auburn-braided olive-skinned Fiora, strong natural adult face/proportions across front/back and portraits, no canon appearance invented as authority.",
+          "Blunt rounded flexible-looking steel practice blade with chalked dull edge, disc handguard, safe lowered rest; dark torso/upper-arm padded targets, separate throat guard and hinged perforated eye guard all coherent. Raised main vs fully lowered eye protection separate, no bronze badge worn.",
+          "Correction gives roofed-evening low-value grey-violet cream fabric, connected navy/umber shadows and small motivated low warm sun planes; no bright studio exposure. Broad opaque oil shape handling across skin/gear/cloth.",
+          "Ground patches removed, no scenery/swatches, exact name/title/labels clean and readable. Natural glove grip/digits, gear doesn't intersect body or neighboring view; before-ready clean coat, not misleading bout score."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "99638b34e8c133dd4150c0608e077a15f7bf9796e1dfde8ef12d869f563a2d8e"
+      },
+      "outputSha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6"
+    },
+    {
+      "id": "jasper-renlow",
+      "name": "Jasper Renlow",
+      "sourceIdentityId": "jasper-renlow",
+      "role": "Canon river-patrol fencer, rival and romantic interest",
+      "selectionEvidence": [
+        {
+          "quote": "Across the strip, Jasper Renlow tightened his throat guard.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 18
+        },
+        {
+          "quote": "Jasper lowered his eye guard.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 76
+        },
+        {
+          "quote": "My touch first.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 452
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, accomplished balanced fencer, exact physical appearance/age unstated.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Padded practice coat/dark torso-upper-arm targets, eye/throat guards, boots.",
+        "equipment": "Flexible blunted chalk-edged practice blade; carries both guards only after bout, not necessary sheet prop.",
+        "scale": "Adult human.",
+        "movement": "Crisp economical balance, controlled parries; vulnerable earnest invitation after match.",
+        "distinctiveFeatures": "Mundane skill only, no magical blades/patrol insignia required."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Jasper Renlow",
+          "status": "CANON",
+          "summary": "Canon river-patrol fencer, rival and romantic interest"
+        },
+        "Mundane local courtesy-bout rules and skills only; appearance details art interpretation."
+      ],
+      "visualInterpretation": [
+        "Art-only: adultmid30 man, warm light-brown skin, dark brown wavy short hair, brown eyes, straight nose/square jaw, clean shaven, tall athletic ordinary build; distinct from copper-braided Fiora.",
+        "Matching yard cream quilted coat with dark charcoal/indigo padded torso and upper-arm targets, slate breeches/brown boots/dark gloves. Same practical hinged eye guard and separate padded throat guard. Main before-ready clean coat/guard raised/blade safely lowered; guard-down portrait and sincere invitation face separate."
+      ],
+      "states": [
+        {
+          "label": "Before ready",
+          "description": "Alert balanced resting stance, guard lifted."
+        },
+        {
+          "label": "Guard lowered",
+          "description": "Eye visor covers eyes."
+        },
+        {
+          "label": "One supper",
+          "description": "Hopeful nervous invitation, no claim on Fiora."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:jasper-renlow",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "heading": "Jasper Renlow"
+          }
+        ],
+        "evidence": "Exact CANON identity originating in this story; no other selected character spec found for these names."
+      },
+      "references": [
+        {
+          "path": "stories/the-courtesy-of-blades/title-image.jpg",
+          "sha256": "92225736c2776ea81096d68dc6f3f278b42ddfe1efb433a6a21db985c081b15c",
+          "role": "Padded dark practice target material and blunt rounded sword vocabulary, no faces established",
+          "inspected": true,
+          "notes": "Inspected cover crossed blunt blades over navy quilted coat/case; symbolic evening still-life not human appearance."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+          "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+          "role": "Primary Group of Seven oil and evening roofed-yard shade with slanted warm light only",
+          "inspected": true,
+          "notes": "Dark connected violet/umber under-roof masses; no yard/river/floor/sunset scene transferred."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+          "sha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+          "role": "Blunt chalk-edged flexible practice blade/guard and cream-dark padded clothing construction, broad oil",
+          "inspected": true,
+          "notes": "Inspected ordinary rounded tips, disc handguards, padded practice gear/eye guards; source throat guards must also be included."
+        }
+      ],
+      "output": "stories/the-courtesy-of-blades/art/characters/jasper-renlow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:21:12.837726+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER REFERENCE FOLIO on clean WARM LIGHT IVORY support. One named identity, full front/three-quarter and rear views, expression/gear details. Readable exact name and \"The Courtesy of Blades\" in reserved upper-left space. No scene/location/floor/contact patches, swatches, decorative backgrounds, opponents or crowd.\n\nCanadian Group of Seven heavy OPAQUE OIL: broad connected form/value masses, varied long directional bristle strokes, selective knife impasto, quiet joins. Paint human faces/hands as physically and broadly as landscapes, no finely rendered skin/small even chips, glossy eyes, anime or 3D. Supplied oils primary paint/gear anchors only.\nLIGHT: EVENING in a roofed open-sided practice yard, warm low sun from one side. Figures MOSTLY under-roof connected low-value violet/umber shade; a few restrained warm-lit planes. NO broad daylight exposure, no orange rim around entire body, no studio fill. White/cream fabric appears mostly subdued grey-violet in shade. Ivory page itself stays light.\nMundane nonlethal training gear: rounded BLUNT flexible chalk-edged steel blade, disc guard, dark padded torso and upper-arm targets, separate padded throat guard and eye visor. No sharp weapon, blood, magical effects or symbol. Every full body in rest with sword lowered, no combat action.\n\nEXACT NAME \"Jasper Renlow\". One ADULT MAN mid30s, warm light-BROWN skin, short WAVY DARK BROWN hair (no auburn braid), brown eyes, STRAIGHT nose and SQUARE male jaw, clean-shaven, TALL ATHLETIC normal body, shoulders broader than hips. Economical fencer, serious controlled calm, handsome without model glamour. Different individual from woman in first reference: DO NOT copy her face or hair. First reference supplies ONLY EXACT YARD EQUIPMENT, paint, DIM EVENING LIGHT and ivory format.\nMatch same cream quilted hip-length practice coat (cream mostly muted grey-violet in roofed shade), very DARK INDIGO torso panel and BOTH upper-arm panels, slate breeches, dark brown ankle boots, dark padded gloves. Same separate dark padded THROAT GUARD and hinged perforated metal/leather EYE VISOR.\nPrimary full front-threequarter: visor UP above brow with face visible; one right gloved hand holds rounded-tip BLUNT white-chalk-edged practice sword DOWN safely to side. Disc handguard and wrapped grip. Body balanced resting, no strike/duel action. Rear smaller same masculine build/cropped hair/equipment, visor strap; no extra blade needed.\nPortrait \"Guard lowered\": visor DOWN over both eyes, throat protected, same lower face/jaw. Portrait \"One supper\": visor UP, same man a little nervous/hopeful, natural restrained smile. One enlarged GLOVE-and-HILT detail shows correct five-digit grip/same disc guard and blade base.\nNo chalk scores on coat (prebout state), badge/cape/medals/patrol logo, no companion/Fiora/river/yard/ground/contact patches. Broad joined opaque face planes with shadow over most face, tiny muted warm planes, NO bright daytime face or smooth anime face. Exact source name and story title, no additional slogans.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4531ea68-cb4a-472f-910e-f8e2b6dc774d.png",
+                "sha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+                "inspected": true,
+                "role": "Selected Fiora equipment/ivory format/dim evening oil anchor ONLY; do not donate female face/hair"
+              },
+              {
+                "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+                "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+                "role": "Primary Group of Seven oil and evening roofed-yard shade with slanted warm light only",
+                "inspected": true,
+                "notes": "Dark connected violet/umber under-roof masses; no yard/river/floor/sunset scene transferred."
+              },
+              {
+                "path": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+                "sha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+                "role": "Blunt chalk-edged flexible practice blade/guard and cream-dark padded clothing construction, broad oil",
+                "inspected": true,
+                "notes": "Inspected ordinary rounded tips, disc handguards, padded practice gear/eye guards; source throat guards must also be included."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-d3c59c48-0c3d-45e7-9eae-1c6453ec1425.png",
+            "returnedSha256": "5ef7b3ad6d94f41584af09a8ffdc4a182bb44e7abccfaff1eb45753cae84f0e2",
+            "completedAt": "2026-09-24T10:27:18.249840+00:00",
+            "review": "Adult male face distinct and consistent, exact gear/oil/dim evening/exact texts pass. Front and rear fullbody gloves overlap/nearly merge near middle: separate rear view slightly to viewer-right for clear ivory gutter. Preserve all else."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:27:19.179454+00:00",
+            "status": "REVISE",
+            "prompt": "ONLY fix spacing in this exact Jasper Renlow folio. The front full-body's hanging left glove nearly overlaps/merges with the rear full-body's left glove. Move the ENTIRE rear full-body study a little RIGHT (about40pixels on this1536wide page), keeping its size and identity/pose/gear identical, so there is a clear visible IVORY GUTTER between the two bodies and their hands. If necessary reduce rear full-body very slightly to preserve free space from portraits too. No shared/touching hand silhouettes.\n\nKeep front body, all faces/portraits, glove-hilt detail and every text EXACTLY. Same adult male face, no other identity. Same dark roofed-evening light, broad oil rendering, blade/visor/neck protection, ivory page. No new objects/ground/shadow. All toes/boots/heads remain fully in frame. No changes except modest rear-view placement for unambiguous separate views.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-d3c59c48-0c3d-45e7-9eae-1c6453ec1425.png",
+                "sha256": "5ef7b3ad6d94f41584af09a8ffdc4a182bb44e7abccfaff1eb45753cae84f0e2",
+                "inspected": true,
+                "role": "Exact Jasper target; separate front/rear gloves by small ivory gutter"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8aaef02f-5fd8-46b5-b1fc-8c34c10c92bc.png",
+            "returnedSha256": "9d7168e6686b6af01ad6433a8c6676251e6cf3ffc24b531229c0210322bc770b",
+            "completedAt": "2026-09-24T10:32:33.409107+00:00",
+            "review": "Front/rear gloves now separate, but shifted rear upper arm touches lower-left edge of Guard lowered portrait. Diagnose width crowding: rear must be smaller whole-body view instead of another lateral shift. Reduce rear to80percent while retaining foot level and center, ensuring all gutters."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:32:34.433351+00:00",
+            "status": "PASS",
+            "prompt": "Single COMPOSITION correction. Current central REAR FULL-BODY view touches/merges into the lower-left edge of the \"Guard lowered\" portrait. SHRINK the entire rear full-body study to about80percent of its current height and width, keeping its boots at the SAME vertical level and its horizontal center near current position. This makes rear head lower on page and gives a clear IVORY MARGIN around its head, arms, hands and whole body. It must not touch the main front figure OR the portrait. Shrink uniformly; preserve body proportions. A smaller back study is correct.\n\nDo NOT shift or change main front figure, sword, two portraits, glove detail or text. Preserve exact Jasper identity, male face, same outfit/visor/blunt blade, dim evening shade, ivory page, opaque oil. Rear exact same pose/equipment/identity just uniformly smaller. No other changes, no background/shadow patches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8aaef02f-5fd8-46b5-b1fc-8c34c10c92bc.png",
+                "sha256": "9d7168e6686b6af01ad6433a8c6676251e6cf3ffc24b531229c0210322bc770b",
+                "inspected": true,
+                "role": "Exact Jasper layout target; shrink rear to avoid any contact with portrait"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-335bb643-fea4-4c78-96ad-e50fa4e577fe.png",
+            "returnedSha256": "ace30b185e97862bb33c4fc37f4e18d5c8f6467ced3fc8bf58813a509cf664c3",
+            "completedAt": "2026-09-24T10:47:47.100981+00:00",
+            "review": [
+              "Recovered actual returned attempt3 candidate after interrupted worker. Uniformly smaller rear full-body now has clear ivory gutters from primary and portrait; identity, scale and whole silhouettes remain coherent.",
+              "One consistent mature short-wavy dark-haired male Jasper; visor raised and fully lowered states, dark torso/upper-arm targets and separate throat guard remain clear. Blunt rounded chalk-edged practice blade safely lowered, normal gloved grip, no score/badge/magic.",
+              "Broad opaque directional oil across face and gear, low-value grey-violet/umber roofed-evening light with limited warm planes; ivory-only ground, no shadows/scenery/swatches.",
+              "Exact readable Jasper Renlow and The Courtesy of Blades, portrait labels and glove detail; anatomy and spacing reviewed at actual pixels."
+            ],
+            "recovery": "Pending attempt had already returned the newly dated matching composition correction; actual pixels inspected before selection. No repeat generation."
+          }
+        ],
+        "prompt": "Single COMPOSITION correction. Current central REAR FULL-BODY view touches/merges into the lower-left edge of the \"Guard lowered\" portrait. SHRINK the entire rear full-body study to about80percent of its current height and width, keeping its boots at the SAME vertical level and its horizontal center near current position. This makes rear head lower on page and gives a clear IVORY MARGIN around its head, arms, hands and whole body. It must not touch the main front figure OR the portrait. Shrink uniformly; preserve body proportions. A smaller back study is correct.\n\nDo NOT shift or change main front figure, sword, two portraits, glove detail or text. Preserve exact Jasper identity, male face, same outfit/visor/blunt blade, dim evening shade, ivory page, opaque oil. Rear exact same pose/equipment/identity just uniformly smaller. No other changes, no background/shadow patches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8aaef02f-5fd8-46b5-b1fc-8c34c10c92bc.png",
+            "sha256": "9d7168e6686b6af01ad6433a8c6676251e6cf3ffc24b531229c0210322bc770b",
+            "inspected": true,
+            "role": "Exact Jasper layout target; shrink rear to avoid any contact with portrait"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:47:47.100981+00:00",
+        "sourceSha256": "72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20",
+        "outputSha256": "ace30b185e97862bb33c4fc37f4e18d5c8f6467ced3fc8bf58813a509cf664c3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8aaef02f-5fd8-46b5-b1fc-8c34c10c92bc.png",
+            "sha256": "9d7168e6686b6af01ad6433a8c6676251e6cf3ffc24b531229c0210322bc770b",
+            "inspected": true,
+            "role": "Exact Jasper layout target; shrink rear to avoid any contact with portrait"
+          }
+        ],
+        "evidence": [
+          "Recovered actual returned attempt3 candidate after interrupted worker. Uniformly smaller rear full-body now has clear ivory gutters from primary and portrait; identity, scale and whole silhouettes remain coherent.",
+          "One consistent mature short-wavy dark-haired male Jasper; visor raised and fully lowered states, dark torso/upper-arm targets and separate throat guard remain clear. Blunt rounded chalk-edged practice blade safely lowered, normal gloved grip, no score/badge/magic.",
+          "Broad opaque directional oil across face and gear, low-value grey-violet/umber roofed-evening light with limited warm planes; ivory-only ground, no shadows/scenery/swatches.",
+          "Exact readable Jasper Renlow and The Courtesy of Blades, portrait labels and glove detail; anatomy and spacing reviewed at actual pixels."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "0d46197c57cd6f4aa1249cfae6dbd458072e67efe6e5371ee6edc34668e34832"
+      },
+      "outputSha256": "ace30b185e97862bb33c4fc37f4e18d5c8f6467ced3fc8bf58813a509cf664c3"
+    },
+    {
+      "id": "quade",
+      "name": "Quade",
+      "sourceIdentityId": "quade",
+      "role": "Canon qualified bout official and adult friend",
+      "selectionEvidence": [
+        {
+          "quote": "Between them, Quade inspected the flex of one chalk-edged blade",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 24
+        },
+        {
+          "quote": "Quade pinched the bridge of his nose.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 270
+        },
+        {
+          "quote": "Quade carried the ledger to the rail and wrote the result in a firm hand",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 471
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, age/appearance unspecified.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Official's clothing not described; no duelist safety gear asserted.",
+        "equipment": "Yard ledger, writing implement, chalk for edges; inspects both practice blades.",
+        "scale": "Adult human.",
+        "movement": "Firm open-hand halt, patient safety inspection, exasperated humor; no deciding unseen order.",
+        "distinctiveFeatures": "Qualified human judge of local mundane rules; no truth-detection magic."
+      },
+      "explicitCanon": [
+        {
+          "source": "universe/characters.md",
+          "heading": "Quade",
+          "status": "CANON",
+          "summary": "Canon qualified bout official and adult friend"
+        },
+        "Mundane local courtesy-bout rules and skills only; appearance details art interpretation."
+      ],
+      "visualInterpretation": [
+        "Art-only maturemid40 man, deep brown skin, short black hair with grey temples, close salt/pepper beard, broad kind face and nose, stocky average build.",
+        "Plain muted moss/olive waistcoat over oatmeal rolled-sleeve shirt, umber trousers and sturdy dark shoes. Small plain dark leather ledger/wood pencil, separate chalk-holding hand and open halt palm. No ceremonial robe/insignia/swordbelt/hammer or floating score."
+      ],
+      "states": [
+        {
+          "label": "Halt",
+          "description": "Measured firm open palm."
+        },
+        {
+          "label": "Two sentences",
+          "description": "Exasperated amused official."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:quade",
+        "links": [
+          {
+            "path": "universe/characters.md",
+            "heading": "Quade"
+          }
+        ],
+        "evidence": "Exact CANON identity originating in this story; no other selected character spec found for these names."
+      },
+      "references": [
+        {
+          "path": "stories/the-courtesy-of-blades/title-image.jpg",
+          "sha256": "92225736c2776ea81096d68dc6f3f278b42ddfe1efb433a6a21db985c081b15c",
+          "role": "Padded dark practice target material and blunt rounded sword vocabulary, no faces established",
+          "inspected": true,
+          "notes": "Inspected cover crossed blunt blades over navy quilted coat/case; symbolic evening still-life not human appearance."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+          "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+          "role": "Primary Group of Seven oil and evening roofed-yard shade with slanted warm light only",
+          "inspected": true,
+          "notes": "Dark connected violet/umber under-roof masses; no yard/river/floor/sunset scene transferred."
+        },
+        {
+          "path": "stories/the-courtesy-of-blades/art/interiors/03-the-chalking-bench.png",
+          "sha256": "e843efc06a603d461a154f59bd0d7c795e502481e87fcb000707bb8712fdb16d",
+          "role": "Blunt chalk-edged flexible practice blade/guard and cream-dark padded clothing construction, broad oil",
+          "inspected": true,
+          "notes": "Inspected ordinary rounded tips, disc handguards, padded practice gear/eye guards; source throat guards must also be included."
+        }
+      ],
+      "output": "stories/the-courtesy-of-blades/art/characters/quade.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:48:33.377458+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 1536x1024, warm light ivory support. Exact readable heading \"Quade\" and subtitle \"The Courtesy of Blades\". CHARACTER ONLY, no setting, ground/contact shadow, vignettes, swatches or palette. One identity throughout.\nQuade is a grown human MAN in his mid40s, deep brown skin, short black hair grey at temples, close salt-and-pepper beard, broad kindly square face and broad nose, stocky average height. Serious patient bout official with dry humor. Natural adult anatomy, normal eyes, same face and body every view. These unspecified appearance choices are an art interpretation.\nClothing: plain muted moss-olive wool waistcoat over oatmeal rolled-sleeve shirt, umber trousers and sturdy dark shoes. No duelist armor, visor, throat guard, badges, crown or swordbelt. Carries a small plain dark-leather ledger against his ribs in one arm; the other hand raised open in a firm HALT gesture. Simple five-digit human hands. No weapons required.\nComposition: large complete full-body front-threequarter on LEFT, slightly smaller complete rear-threequarter in CENTER with at least clear ivory gutter around every limb; on RIGHT one broad chest-up portrait caption \"Two sentences\", a gently exasperated amused face with one raised eyebrow. Below portrait a close study of his hand holding a short stick of ordinary chalk between thumb and fingers, caption \"Chalk\". Small ledger with plain closed leather cover, no writing necessary. All feet/hands fully in frame. No overlap between studies. Main hand and close hand each 5 digits.\nSTYLE: primary references are Group of Seven heavy opaque OIL: broad CONNECTED painted masses, decisive wide bristle strokes and sculptural palette-knife ridges describing body, face and material. Do not turn face into smooth portrait realism or tiny uniform mosaic chips. Join broad shadow masses; use quiet areas and a few long directional strokes. Skin has the same broad physical paint as cloth. Matte wool vs coarse linen vs leather through paint. No digital gloss, 3D, anime, photographic rendering.\nLIGHTING: Quade is under the roof of an evening blade yard. MOST of body/face/shirt in DIM connected violet-umber shade. Oatmeal shirt reads mainly low-value grey-violet, NOT white. Only small restrained amber late-sun planes on one cheek, temple and sleeve edge. No bright studio/daylight fill or full orange rim. Keep page ivory light. First reference supplies only broad sculpted oil and evening value treatment; DO NOT copy female face, hair, armor or weapons. Second reference supplies story-specific dark roof shade and muted warm light only; NO environment painted.\nExact text only name/title, \"Two sentences\", \"Chalk\". No other people. Preserve humane capable official, no magical ability or truth-detection effects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4531ea68-cb4a-472f-910e-f8e2b6dc774d.png",
+                "sha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+                "inspected": true,
+                "role": "Inspected selected Fiora: broad oil, ivory format and dim evening light ONLY, no face or equipment transfer"
+              },
+              {
+                "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+                "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+                "inspected": true,
+                "role": "Inspected Group of Seven oil and roofed evening shade, no environment transfer"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b82ca267-754a-4465-9a76-305e5e5088ee.png",
+            "returnedSha256": "a7296e74a078b95e5e8a3b4bb5221493d20bdb22e921886adfeb8dced0b4e084",
+            "completedAt": "2026-09-24T10:50:03.230732+00:00",
+            "review": [
+              "Actual generated pixels inspected: one distinct mature deep-brown-skinned Quade, greying short hair/beard, stocky natural proportions; consistent full/rear/portrait identity.",
+              "Clear five-digit halt palm and chalk grip, normal limbs and complete silhouettes; ordinary ledger/chalk, plain official clothing, no magical effects or duelist gear.",
+              "Mostly dark violet-umber roofed-evening values with small restrained warm planes; broad opaque sculpted oil across face, hands and clothing, distinct linen/wool/leather surfaces.",
+              "Exact readable name/title and captions, ivory gutters, no scenery, ground/contact patches or swatches."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. Create ONE character reference folio, landscape 1536x1024, warm light ivory support. Exact readable heading \"Quade\" and subtitle \"The Courtesy of Blades\". CHARACTER ONLY, no setting, ground/contact shadow, vignettes, swatches or palette. One identity throughout.\nQuade is a grown human MAN in his mid40s, deep brown skin, short black hair grey at temples, close salt-and-pepper beard, broad kindly square face and broad nose, stocky average height. Serious patient bout official with dry humor. Natural adult anatomy, normal eyes, same face and body every view. These unspecified appearance choices are an art interpretation.\nClothing: plain muted moss-olive wool waistcoat over oatmeal rolled-sleeve shirt, umber trousers and sturdy dark shoes. No duelist armor, visor, throat guard, badges, crown or swordbelt. Carries a small plain dark-leather ledger against his ribs in one arm; the other hand raised open in a firm HALT gesture. Simple five-digit human hands. No weapons required.\nComposition: large complete full-body front-threequarter on LEFT, slightly smaller complete rear-threequarter in CENTER with at least clear ivory gutter around every limb; on RIGHT one broad chest-up portrait caption \"Two sentences\", a gently exasperated amused face with one raised eyebrow. Below portrait a close study of his hand holding a short stick of ordinary chalk between thumb and fingers, caption \"Chalk\". Small ledger with plain closed leather cover, no writing necessary. All feet/hands fully in frame. No overlap between studies. Main hand and close hand each 5 digits.\nSTYLE: primary references are Group of Seven heavy opaque OIL: broad CONNECTED painted masses, decisive wide bristle strokes and sculptural palette-knife ridges describing body, face and material. Do not turn face into smooth portrait realism or tiny uniform mosaic chips. Join broad shadow masses; use quiet areas and a few long directional strokes. Skin has the same broad physical paint as cloth. Matte wool vs coarse linen vs leather through paint. No digital gloss, 3D, anime, photographic rendering.\nLIGHTING: Quade is under the roof of an evening blade yard. MOST of body/face/shirt in DIM connected violet-umber shade. Oatmeal shirt reads mainly low-value grey-violet, NOT white. Only small restrained amber late-sun planes on one cheek, temple and sleeve edge. No bright studio/daylight fill or full orange rim. Keep page ivory light. First reference supplies only broad sculpted oil and evening value treatment; DO NOT copy female face, hair, armor or weapons. Second reference supplies story-specific dark roof shade and muted warm light only; NO environment painted.\nExact text only name/title, \"Two sentences\", \"Chalk\". No other people. Preserve humane capable official, no magical ability or truth-detection effects.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4531ea68-cb4a-472f-910e-f8e2b6dc774d.png",
+            "sha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+            "inspected": true,
+            "role": "Inspected selected Fiora: broad oil, ivory format and dim evening light ONLY, no face or equipment transfer"
+          },
+          {
+            "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+            "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil and roofed evening shade, no environment transfer"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:50:03.230732+00:00",
+        "sourceSha256": "72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20",
+        "outputSha256": "a7296e74a078b95e5e8a3b4bb5221493d20bdb22e921886adfeb8dced0b4e084",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4531ea68-cb4a-472f-910e-f8e2b6dc774d.png",
+            "sha256": "ece26590c8c77fd26d00512e7370f2a489d9602d206b02e17da8ff0ec9a45ad6",
+            "inspected": true,
+            "role": "Inspected selected Fiora: broad oil, ivory format and dim evening light ONLY, no face or equipment transfer"
+          },
+          {
+            "path": "stories/the-courtesy-of-blades/art/interiors/01-lacebridge-blade-yard.png",
+            "sha256": "41599a99ad74a1feff0a9b2ad5a177adf35f3b7bb1104c05b907433ab21b8108",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil and roofed evening shade, no environment transfer"
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected: one distinct mature deep-brown-skinned Quade, greying short hair/beard, stocky natural proportions; consistent full/rear/portrait identity.",
+          "Clear five-digit halt palm and chalk grip, normal limbs and complete silhouettes; ordinary ledger/chalk, plain official clothing, no magical effects or duelist gear.",
+          "Mostly dark violet-umber roofed-evening values with small restrained warm planes; broad opaque sculpted oil across face, hands and clothing, distinct linen/wool/leather surfaces.",
+          "Exact readable name/title and captions, ivory gutters, no scenery, ground/contact patches or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "f4243d06152e952c9cac29361efe4fe8f4565ed174c574a0dabf9093cb62743c"
+      },
+      "outputSha256": "a7296e74a078b95e5e8a3b4bb5221493d20bdb22e921886adfeb8dced0b4e084"
+    }
+  ]
+}
