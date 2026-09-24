@@ -1019,6 +1019,108 @@
       ]
     },
     {
+      "slug": "a-seat-for-the-sun",
+      "title": "A Seat for the Sun",
+      "reader": "stories/a-seat-for-the-sun.html",
+      "images": [
+        {
+          "id": "dovessa",
+          "title": "Dovessa",
+          "alt": "Sculpted Impasto character reference sheet of Dovessa for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/characters/dovessa.png",
+          "sourceSha256": "28e81e60d3f9506fab0271fcce374e7b5d6ec5ec1622de3cefafd165f223c0bf",
+          "full": {
+            "path": "characters/a-seat-for-the-sun/dovessa-28e81e60d3f9506f.webp",
+            "sha256": "1b7ff27d238671680fefe56faf7bad7d914d60ad89028c587912325241b63aa2",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-seat-for-the-sun/dovessa-28e81e60d3f9506f-thumb.webp",
+            "sha256": "15e9aa5aa7b061ab6d08719825cfa692eabc81dcb66c38fc2e61b59c1a75cd11",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lillune",
+          "title": "Lillune",
+          "alt": "Sculpted Impasto character reference sheet of Lillune for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/characters/lillune.png",
+          "sourceSha256": "9355931ff891453446b584438fef99e8348050a7e93170e430c86e95d0f99a3e",
+          "full": {
+            "path": "characters/a-seat-for-the-sun/lillune-9355931ff8914534.webp",
+            "sha256": "dcc8561754bb2a365cde319d9a9668ab3049efa92627c587dc7252388fd93a92",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-seat-for-the-sun/lillune-9355931ff8914534-thumb.webp",
+            "sha256": "26e2cad7b0d389bae424525fa34f8c477b99ad6535bd2dc408555bb007577b68",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "nika",
+          "title": "Nika",
+          "alt": "Sculpted Impasto character reference sheet of Nika for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/characters/nika.png",
+          "sourceSha256": "35a25293226edbffcd395df6fe7cbe0a84343132805308b9864479d2151fd6d5",
+          "full": {
+            "path": "characters/a-seat-for-the-sun/nika-35a25293226edbff.webp",
+            "sha256": "abdae0e064b70f0b8639c20f92551648ab8a3cc779500f8580db4c699dd973f8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-seat-for-the-sun/nika-35a25293226edbff-thumb.webp",
+            "sha256": "ac5582d8f27b475914a5cb6ac865309548c27e2e3c266e39139b9c8ec7757975",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "soreli",
+          "title": "Soreli",
+          "alt": "Sculpted Impasto character reference sheet of Soreli for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/characters/soreli.png",
+          "sourceSha256": "b2486b77a97aa53b3d82497344b33a4af2fb0a150ffc7fe6d94753d67dc37c99",
+          "full": {
+            "path": "characters/a-seat-for-the-sun/soreli-b2486b77a97aa53b.webp",
+            "sha256": "de8eae3db870ed35ffdde00e79628d34f229e9db4341b6f58a9f5f9f1e9678e7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-seat-for-the-sun/soreli-b2486b77a97aa53b-thumb.webp",
+            "sha256": "44e8655f92a526beca7196e721ae48c1309913e5d870de932f4a53d7e33f3c16",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tebbit",
+          "title": "Tebbit",
+          "alt": "Sculpted Impasto character reference sheet of Tebbit for A Seat for the Sun",
+          "source": "stories/a-seat-for-the-sun/art/characters/tebbit.png",
+          "sourceSha256": "a8ca5247e8c504cf33d092cce002c7a8aff31f06a12c587510b861bdd25b5967",
+          "full": {
+            "path": "characters/a-seat-for-the-sun/tebbit-a8ca5247e8c504cf.webp",
+            "sha256": "b1161ba18e1eb1419f8cb23195e990286d2b7442fef3a420170ea69a5ea4b703",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/a-seat-for-the-sun/tebbit-a8ca5247e8c504cf-thumb.webp",
+            "sha256": "3ad4bce4de4a75bcbe0fd7c2ff8a39cf565105ba9c87cba2bc279994a51f8ede",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "an-ordinary-education",
       "title": "An Ordinary Education",
       "reader": "stories/an-ordinary-education.html",
@@ -1057,6 +1159,108 @@
           "thumbnail": {
             "path": "characters/an-ordinary-education/delsie-14da238101118d1c-thumb.webp",
             "sha256": "a8f0545e2be1d456bdbdf62c746e599a2eee1a8da0566e542c7dc2a4bdb40757",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "before-lunch",
+      "title": "Before Lunch",
+      "reader": "stories/before-lunch.html",
+      "images": [
+        {
+          "id": "dott",
+          "title": "Mr. Dott",
+          "alt": "Sculpted Impasto character reference sheet of Mr. Dott for Before Lunch",
+          "source": "stories/before-lunch/art/characters/dott.png",
+          "sourceSha256": "3989cbb439118581e24b4640a2ca6403307512dc584cb71a59e500b6ad0ea470",
+          "full": {
+            "path": "characters/before-lunch/dott-3989cbb439118581.webp",
+            "sha256": "c6e7e20eb27315be13b9765e6c15889d1dd7253ce5a07e25afb3a2b3747143aa",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-lunch/dott-3989cbb439118581-thumb.webp",
+            "sha256": "5ff5eb1786db0a68e4de1806e4f149a3d57b621d026c891ea0d9be519b016849",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pavrel",
+          "title": "Pavrel",
+          "alt": "Sculpted Impasto character reference sheet of Pavrel for Before Lunch",
+          "source": "stories/before-lunch/art/characters/pavrel.png",
+          "sourceSha256": "5bd56f0ec094dd6dbf206aa1c93aeb9134ddffa1bf93edc1d77213a1b506580f",
+          "full": {
+            "path": "characters/before-lunch/pavrel-5bd56f0ec094dd6d.webp",
+            "sha256": "b18b0d00a27201f7f1c64f42bb5aaa1b1400b668955e3825ac825bcb3361d868",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-lunch/pavrel-5bd56f0ec094dd6d-thumb.webp",
+            "sha256": "9275d9f984d7bfd347df19ea613583da3b4cc1dc0486ae1a3f0eda784fa8c726",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "sathrie",
+          "title": "Sathrie",
+          "alt": "Sculpted Impasto character reference sheet of Sathrie for Before Lunch",
+          "source": "stories/before-lunch/art/characters/sathrie.png",
+          "sourceSha256": "d5d15b40afa2aab098eac87e818086af8c3dedc570d6331c00e425224bfa2e39",
+          "full": {
+            "path": "characters/before-lunch/sathrie-d5d15b40afa2aab0.webp",
+            "sha256": "2342312ad78ea4974ef81f8cb702426ac4db336b1e29f14f6d045368dc4ff82b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-lunch/sathrie-d5d15b40afa2aab0-thumb.webp",
+            "sha256": "6b5b0a3325a4e7ec2ac02d128e8ba8344839e0216c2ded80f12033c3961cb4b0",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "velthren",
+          "title": "Velthren",
+          "alt": "Sculpted Impasto character reference sheet of Velthren for Before Lunch",
+          "source": "stories/before-lunch/art/characters/velthren.png",
+          "sourceSha256": "87e0b03f38e54c36098b103c9f058af62860a0999f6ed7e8a17525d42859ab7d",
+          "full": {
+            "path": "characters/before-lunch/velthren-87e0b03f38e54c36.webp",
+            "sha256": "915d7bcf2b93e60dc33da486ddeef64e2759d28bf049fe0a40f1d0ce0e82cef8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-lunch/velthren-87e0b03f38e54c36-thumb.webp",
+            "sha256": "dc4bae5af95189ed1235fabad3703e12e1cf5129aebee46dfcfae126741671e6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "vhulcren",
+          "title": "Vhulcren",
+          "alt": "Sculpted Impasto character reference sheet of Vhulcren for Before Lunch",
+          "source": "stories/before-lunch/art/characters/vhulcren.png",
+          "sourceSha256": "4df33f80760d12bf4e5b5b56b12d3a7352ad00bc50b8ae153d12dad440466603",
+          "full": {
+            "path": "characters/before-lunch/vhulcren-4df33f80760d12bf.webp",
+            "sha256": "66de15a9c1563f287f672be8210d27b7cbc9a6ac674a0276de3b0e669714fdf8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/before-lunch/vhulcren-4df33f80760d12bf-thumb.webp",
+            "sha256": "58c3f20cc1149e38752794b54db349022411e70cf2ffa35feea75040826d557b",
             "width": 480,
             "height": 320
           }
@@ -1261,6 +1465,89 @@
           "thumbnail": {
             "path": "characters/friends-of-the-night/torma-f958b804cc2bd790-thumb.webp",
             "sha256": "e9b41e9db66b3079089b633579ced33588bd963df41bd1a2b3702d72a61de73c",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "clerics-infernal-ex",
+      "title": "Hello, Lover",
+      "reader": "stories/clerics-infernal-ex.html",
+      "images": [
+        {
+          "id": "bosk",
+          "title": "Bosk",
+          "alt": "Sculpted Impasto character reference sheet of Bosk for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/characters/bosk.png",
+          "sourceSha256": "c5c0053be437121db604f031c55e52cc4206ff8a018e115d3367f60ccc4ff024",
+          "full": {
+            "path": "characters/clerics-infernal-ex/bosk-c5c0053be437121d.webp",
+            "sha256": "205cd166e37463651900335ccffa693a01cad0c4c2b3adc743479a4d0754e85a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/clerics-infernal-ex/bosk-c5c0053be437121d-thumb.webp",
+            "sha256": "2c4b00ff0faa6738d10316b24e79762e874f60f00454d5a4bd6ad8ec401a372a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "emet-sarn",
+          "title": "Emet Sarn",
+          "alt": "Sculpted Impasto character reference sheet of Emet Sarn for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+          "sourceSha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+          "full": {
+            "path": "characters/clerics-infernal-ex/emet-sarn-b8253ab2673731b9.webp",
+            "sha256": "7fd9bed26c8d237438b4b59294561b65ae20e667f81947b7a83ae7d36cb1d271",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/clerics-infernal-ex/emet-sarn-b8253ab2673731b9-thumb.webp",
+            "sha256": "a8e62038516d05c9d8cd395e4a5937a306865b9c2507a271dfea9bf7d4c5692e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "lacrixa",
+          "title": "Lacrixa",
+          "alt": "Sculpted Impasto character reference sheet of Lacrixa for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/characters/lacrixa.png",
+          "sourceSha256": "4caa38b4b31121815dda78fec1c088e532aea9d2d0e2af8396496d04240d0a3c",
+          "full": {
+            "path": "characters/clerics-infernal-ex/lacrixa-4caa38b4b3112181.webp",
+            "sha256": "341147feec8f58dbf54114e32c6e0c2853e5f624d76ea231dc494c749121cfbf",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/clerics-infernal-ex/lacrixa-4caa38b4b3112181-thumb.webp",
+            "sha256": "369856c12917928260b5963592b5435a5a18f2c451374a672aa991c2097f72ce",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "udren",
+          "title": "Udren",
+          "alt": "Sculpted Impasto character reference sheet of Udren for Hello, Lover",
+          "source": "stories/clerics-infernal-ex/art/characters/udren.png",
+          "sourceSha256": "1d73de0a946f6ff3104d7b3b2e24c48c54c1910e1f2ae4bd9a1642e5a5544252",
+          "full": {
+            "path": "characters/clerics-infernal-ex/udren-1d73de0a946f6ff3.webp",
+            "sha256": "41884b277cf15900fc29178c06c285c45ea30b8131acf6a1a81a6259a6f796b1",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/clerics-infernal-ex/udren-1d73de0a946f6ff3-thumb.webp",
+            "sha256": "cca07582936a560cc4ac1f585081e159a67b93e1d69a6aaa0bfa92994cbb1a35",
             "width": 480,
             "height": 320
           }
