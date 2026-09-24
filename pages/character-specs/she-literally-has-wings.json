@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "slug": "she-literally-has-wings",
+  "title": "She Literally Has Wings",
+  "source": "stories/she-literally-has-wings/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Coralie, Tomas and Julian sustain central disagreement and resolution.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Green-coated woman, cap owner, broad-shouldered diner, bread regulars, mitten family",
+      "reason": "Brief supper encounters without sustained individual arc."
+    },
+    {
+      "name": "Tomas's aunt and Coralie's parents",
+      "reason": "Offstage mentions."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#System categories",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Divinity",
+    "universe/style-guide.md#Personhood and moral consequence"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover daytime used only for winggeometry; prose evening controls light.",
+    "Angel self-description establishes no divineoffice/healing/glow/compelledhappiness."
+  ],
+  "characters": [
+    {
+      "id": "coralie",
+      "name": "Coralie",
+      "role": "Winged supper volunteer and wife who claims her identity and asks to be heard.",
+      "selectionEvidence": [
+        {
+          "quote": "Angel is the truthful word for me.",
+          "explanation": "Source evidence for sustained central relationship role."
+        }
+      ],
+      "form": "Adult woman, human body plus feathered back wings, self-described angel",
+      "storyAppearance": {
+        "anatomy": "Two human arms, two human legs, one pair of large feathered wings rooted in upper back; not replacing arms.",
+        "lifeStage": "Adult, exactage unspecified.",
+        "proportions": "Adult human with room-filling wings.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, ordinary cloth/tools; Coralie has real featheredwings.",
+        "clothing": "Split-backed coat explicit; supper clothing unspecified.",
+        "equipment": "Ordinary wooden comb for long feathers, softbrush for new feathers.",
+        "scale": "Humanadult; Coralie's wings need wide clearance.",
+        "movement": "Careful folding/sideways clearance, sore trembling left wing; flight uses wings and living power, depleted muscle alone insufficient.",
+        "distinctiveFeatures": "Adult woman, human body plus feathered back wings, self-described angel"
+      },
+      "explicitCanon": [
+        "Wife of Tomas, met ten years ago, married seven.",
+        "Angel truthful self-description, no cosmic office, halo, healing or forced-happiness aura established.",
+        "Real feathers get wet; left wing aches and trembles from cold.",
+        "Coat split back for wings, ordinary woodencomb and softbrush."
+      ],
+      "visualInterpretation": [
+        "Art-only age38, warmfair freckles, broad roundcheeks, small upturnednose, green-grayeyes, copper-auburn practical loosebun, mediumsturdy build.",
+        "Navy kneelength knitdress, opaque charcoalleggings, teal supperapron, flatbrownshoes; darkplum split-backed coat outside.",
+        "Cover-compatible graycoverts and ivoryprimaries; evening electric warm light with quiet shadows."
+      ],
+      "states": [
+        {
+          "name": "Supper work",
+          "description": "Folded wings and apron; human arms visible."
+        },
+        {
+          "name": "Walk home",
+          "description": "Same woman in split-backed coat, folded damp wings, no flight."
+        },
+        {
+          "name": "Quiet first",
+          "description": "Same tiredface; feather/comb detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "she-literally-has-wings:coralie",
+        "links": [],
+        "evidence": "No matching universe entries or established cross-storyidentity."
+      },
+      "references": [
+        {
+          "path": "stories/she-literally-has-wings/title-image.jpg",
+          "role": "Coralie's gray/ivory feather and woodencomb geometry only",
+          "notes": "No character face. Cover daylight is not source's evening light.",
+          "sha256": "b9847570d80e85fb00b92335cd30b28f095dd2d61055715bfabe8c4f7513f74f",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+          "role": "evening electric hall light and broad oil only",
+          "notes": "Warm overhead bulbs, cold wet exterior, no environment copied.",
+          "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+          "role": "local home lamp exposure and oil only",
+          "notes": "Small lamp and cool dark shadow; ordinary comb/brush.",
+          "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Coralie"
+      },
+      "output": "stories/she-literally-has-wings/art/characters/coralie.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Preserve this exact Coralie sheet, identity, ordinary woman anatomy plus TWO back wings, copperbun/freckles, wardrobe/apron/splitbackcoat, poses, winggeometry/feathercolors, heldobjects, name/title/labels and warmivory paper. Lighting corrections only: CENTER rear 'Walk home' fullfigure is outdoors in COLDMIST AFTER DARK, so reduce ONLY that figure's exposure by 1.5stops with broad connected muted COOL bluegray/umber shadow across coat, face, legs AND wings. Ivoryprimary feathers must look subdued gray in this eveningstate, not bright daytime white. A little dim neutral reflected streetlight keeps forms clear; NO goldsun/brightwarmrim. Keep left 'Supper work' lighting unchanged under warm ordinary electric halllamps. RIGHTupper 'Quiet first' portrait reduce skin exposure slightly halfstop, with a connected soft shadow down farcheek/neck and modest warm nearcheek from one small homelamp, keep tiredface legible. Lower featherandcomb detail unchanged. Preserve painterly Canadian GroupofSeven broad matte opaque paint, not photographic feathers or face. No halo/lightaura or newpowers, no scene/floor/groundpatch/swatches. All othercontent unchanged.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T04:43:58.340805+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 characterreference folio on warmivory. Exact 'Coralie' / 'She Literally Has Wings'. ONE ADULT WOMAN age38 interpretation, warmfair FRECKLED skin, BROAD ROUND CHEEKS, smallUPTURNED nose, smallgreen-gray eyes, copperAUBURN hair in practical looseBUN, mediumsturdy build. NO face from priorcharacters. Ordinary human TWO ARMS and TWO LEGS plus ONE PAIR OF LARGE FEATHERED WINGS attached anatomically to upperback shoulderblade region; wings DO NOT replace arms. Real feathers like image2: smokyGRAY uppercoverts layered over long IVORY/offwhite primaries. Large enough to needdoorclearance; no halo, lightaura, glowingeyes or biblicalornaments. Contemporary modest everyday clothing: NAVY kneelength knitdress, fullyOPAQUE charcoalleggings, mutedTEAL apron at supper and flatBROWN shoes. LEFT large complete frontthreequarter 'Supper work': BOTH wings foldedclose behind shoulders extending down to calves, humanarms clearly separate and visible, onehand holding ordinary small paperfoodcarton, otherrelaxed; shoes visible. CENTER large complete BACK threequarter 'Walk home': samewoman wears DARKPLUM kneelength COAT with a functional SPLIT BACK through which two correctlyrooted folded wings emerge, dampfeathers subtly clumped, no holes in torso or extrawings. Hairbun and same dress/leggings/shoes, noflight, body naturallytired. Both wings fullyfit withinfolio, no croppedwingtips. RIGHT upper large consistentface study 'Quiet first' tiredgentle focusedlook, navy neckline, no coat; lower useful partial wing feather/ownhumanhand holding simple WOODENCOMB labelled 'Long feathers'. No secondpersonhand; comb ordinarynoglow. Humanfigure naturaladultanatomy, twowings/twoarms/twolegs, fingersclear. LIGHT: supperform warmordinary electric overhead light, connected darkblue/umber shadows, limited soft warmcheekplanes, not brightdaylight; coatedform DIM COOL COLDMIST evening, headportrait gentle localhome-lamp light. Do not make every plane brightorange or rimlit. STYLE image1's ACTUAL broad Canadian GroupofSeven OPAQUE OILS across face/hair/fabric/FEATHERS too: large connected matte color masses and deliberate bristle/knife strokes, selective impasto, quietconnectingpassages, simplify finefeatherbarbs into painted masses. No photoreal/anime/CGI/airbrushedface, no uniformlybevelledchips. Exactreadable headings and state labels, warmivorynegative space, NO setting/room/floor/groundpatches/table/chair/bird/scenery/others/swatches/palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "actual substantive broad opaque oil technique and ivory folio only; no robot design/content",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/title-image.jpg",
+                "role": "physical wing layered graycoverts/ivoryprimaries and ordinary woodcomb only; source evening overrides cover daylight",
+                "sha256": "b9847570d80e85fb00b92335cd30b28f095dd2d61055715bfabe8c4f7513f74f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+                "role": "warm electric hall light and shadow only; no room",
+                "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+                "role": "quiet home lamp exposure only, no furniture",
+                "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-209ad335-13a3-43cc-9f89-92c7cc25db4c.png",
+            "reviewFindings": [
+              "Physical anatomy/identity/wardrobe accepted; center walkhome coatform needs distinctly dim coldmist evening exposure. Slightly soften quietportrait into localhomelamp shadow."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:47:38.838122+00:00",
+            "prompt": "Preserve this exact Coralie sheet, identity, ordinary woman anatomy plus TWO back wings, copperbun/freckles, wardrobe/apron/splitbackcoat, poses, winggeometry/feathercolors, heldobjects, name/title/labels and warmivory paper. Lighting corrections only: CENTER rear 'Walk home' fullfigure is outdoors in COLDMIST AFTER DARK, so reduce ONLY that figure's exposure by 1.5stops with broad connected muted COOL bluegray/umber shadow across coat, face, legs AND wings. Ivoryprimary feathers must look subdued gray in this eveningstate, not bright daytime white. A little dim neutral reflected streetlight keeps forms clear; NO goldsun/brightwarmrim. Keep left 'Supper work' lighting unchanged under warm ordinary electric halllamps. RIGHTupper 'Quiet first' portrait reduce skin exposure slightly halfstop, with a connected soft shadow down farcheek/neck and modest warm nearcheek from one small homelamp, keep tiredface legible. Lower featherandcomb detail unchanged. Preserve painterly Canadian GroupofSeven broad matte opaque paint, not photographic feathers or face. No halo/lightaura or newpowers, no scene/floor/groundpatch/swatches. All othercontent unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-209ad335-13a3-43cc-9f89-92c7cc25db4c.png",
+                "role": "immutable first candidate; correct outdoor evening exposure and quiet portrait lamp only",
+                "sha256": "91cd469006c63529ee334fb132a36b272fbbb3b1c2499c2ad3f10ddd9b4b23a8",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-223db7fb-daec-42a9-bad5-64264c655f60.png",
+            "outputSha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:51:29.173622+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-209ad335-13a3-43cc-9f89-92c7cc25db4c.png",
+            "role": "immutable first candidate; correct outdoor evening exposure and quiet portrait lamp only",
+            "sha256": "91cd469006c63529ee334fb132a36b272fbbb3b1c2499c2ad3f10ddd9b4b23a8",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:51:29.173622+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326",
+        "sourceSha256": "1b1cf47fb50967c2cd7252280ff47c5309a9edb4735b4aa887304666651cfbd5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-209ad335-13a3-43cc-9f89-92c7cc25db4c.png",
+            "role": "immutable first candidate; correct outdoor evening exposure and quiet portrait lamp only",
+            "sha256": "91cd469006c63529ee334fb132a36b272fbbb3b1c2499c2ad3f10ddd9b4b23a8",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: same freckled adult auburn-bun woman in front/back/head; two ordinary human arms and legs plus one pair of large gray/ivory feathered backwings. All body/wingtips fit sheet, no halo or invented aura.",
+          "Teal apron/navydress/opaqueleggings/flats; rear plum coat opens functionally around wingroots, complete two folded wings distinct from humanarms. Ordinary foodcarton and woodcomb held by her own hand.",
+          "Corrected walkhome form distinctly cooler/dimmer across face, coat, limbs and feathers; supper warm ordinaryhall light and portrait quietlamplight remain coherent. Broad matte oil faces/fabric/feathers, exact labels, warmivory without scenery/swatches."
+        ],
+        "specificationSha256": "88f23add8dd3812050b4795473a82f0e293d51587aa5ec8bae8170c652935f66"
+      },
+      "lighting": "Supper figure ordinary warm hall light; Walkhome substantially dimmer neutralcool evening mist; portrait soft warm local lamp, no aura.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326"
+    },
+    {
+      "id": "tomas",
+      "name": "Tomas",
+      "role": "Attentive husband whose mistaken assumption yields to direct questions and consent.",
+      "selectionEvidence": [
+        {
+          "quote": "A damp crescent darkened one cuff",
+          "explanation": "Source evidence for sustained central relationship role."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs; no wings.",
+        "lifeStage": "Adult, exactage unspecified.",
+        "proportions": "Ordinary adult.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, ordinary cloth/tools; Coralie has real featheredwings.",
+        "clothing": "Cuffed shirt with one dampcuff, outdoorcoat.",
+        "equipment": "Wooden comb accepted by handle after permission.",
+        "scale": "Humanadult; Coralie's wings need wide clearance.",
+        "movement": "Practical careful movements, makes space, listens rather than grabs.",
+        "distinctiveFeatures": "Adult human man"
+      },
+      "explicitCanon": [
+        "Coralie's husband, knows wingclearance and feathercare tools.",
+        "Damp cuff from sink, outdoorcoat for coldmist.",
+        "Receives comb after consent; no magic."
+      ],
+      "visualInterpretation": [
+        "Art-only age40, mediumolive skin, narrowrectangular face, longstraightnose, shortwavy blackhair, trimmeddarkbeard, browneyes, slimtallbuild.",
+        "Mossgreen buttonshirt, tan worktrousers, blackflatshoes; simple darkbrowncoat for outdoorstate.",
+        "Warm hall electricity and quiet home entrylamp."
+      ],
+      "states": [
+        {
+          "name": "Clearing up",
+          "description": "Shirt/trousers frontform, one dampcuff."
+        },
+        {
+          "name": "Ready to listen",
+          "description": "Sameidentity with coat and ordinary woodcomb held handle."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "she-literally-has-wings:tomas",
+        "links": [],
+        "evidence": "No matching universe entries or established cross-storyidentity."
+      },
+      "references": [
+        {
+          "path": "stories/she-literally-has-wings/title-image.jpg",
+          "role": "Coralie's gray/ivory feather and woodencomb geometry only",
+          "notes": "No character face. Cover daylight is not source's evening light.",
+          "sha256": "b9847570d80e85fb00b92335cd30b28f095dd2d61055715bfabe8c4f7513f74f",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+          "role": "evening electric hall light and broad oil only",
+          "notes": "Warm overhead bulbs, cold wet exterior, no environment copied.",
+          "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+          "role": "local home lamp exposure and oil only",
+          "notes": "Small lamp and cool dark shadow; ordinary comb/brush.",
+          "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Tomas"
+      },
+      "output": "stories/she-literally-has-wings/art/characters/tomas.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 characterfolio on warmivory, exact 'Tomas' / 'She Literally Has Wings'. ONE ordinary HUMAN MAN, NO WINGS. Age40 interpretation, mediumOLIVE skin, distinctive NARROW RECTANGULAR FACE and LONG STRAIGHT NOSE, small browneyes, SHORT WAVY BLACK HAIR, neatlytrimmed darkBEARD, slimtall adultbuild. Must not copy Coralie's freckled roundwomanface/redhair. Practical MOSS-GREEN buttonshirt with cuffsslightlyrolled, TAN worktrousers, plain black flatlaceshoes. LEFT complete upright frontthreequarter 'Clearing up': hands at rest, one cuff has small DARK DAMP CRESCENT from leaningonsink, no injury. CENTER complete rearthreequarter 'Ready to listen': same man in simple DARKBROWN knee-length outdoorcoat openfront, headturned enough to matchhair/beard, holds ordinary WOODENCOMB by HANDLE at waist, no feather/otherperson. RIGHT sameface headstudies 'Thinking' and 'Listening', reserved vulnerable attentive expression, no angrycaricature. Small closeuphand holding woodcomb handle, coarse teeth visible; label 'Wooden comb'. Two arms/twolegs, naturalhands, completeunclipped bodyfeet. Sameactual broad Canadian GroupofSeven oil painting as image1 across skin/hair/clothing, large quiet MATTE connected planes, deliberatebristle/knife strokes selectiveimpasto; no photograph/CGI/anime/polishedskin or uniformlychippedtexture. Warmordinary evening hall electriclight for workform; coat/listening forms darker and softer under small entrylamp, MOST farface/neck/cloth in connected umber/slate shadow, one limitedwarmnearplane, no daylight or rimhalo. Exactheading and state labels. Character only, NO Coralie/wings/feather scene/furniture/room/floor/groundpatch/scenery/swatches/palette.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:51:30.200615+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 characterfolio on warmivory, exact 'Tomas' / 'She Literally Has Wings'. ONE ordinary HUMAN MAN, NO WINGS. Age40 interpretation, mediumOLIVE skin, distinctive NARROW RECTANGULAR FACE and LONG STRAIGHT NOSE, small browneyes, SHORT WAVY BLACK HAIR, neatlytrimmed darkBEARD, slimtall adultbuild. Must not copy Coralie's freckled roundwomanface/redhair. Practical MOSS-GREEN buttonshirt with cuffsslightlyrolled, TAN worktrousers, plain black flatlaceshoes. LEFT complete upright frontthreequarter 'Clearing up': hands at rest, one cuff has small DARK DAMP CRESCENT from leaningonsink, no injury. CENTER complete rearthreequarter 'Ready to listen': same man in simple DARKBROWN knee-length outdoorcoat openfront, headturned enough to matchhair/beard, holds ordinary WOODENCOMB by HANDLE at waist, no feather/otherperson. RIGHT sameface headstudies 'Thinking' and 'Listening', reserved vulnerable attentive expression, no angrycaricature. Small closeuphand holding woodcomb handle, coarse teeth visible; label 'Wooden comb'. Two arms/twolegs, naturalhands, completeunclipped bodyfeet. Sameactual broad Canadian GroupofSeven oil painting as image1 across skin/hair/clothing, large quiet MATTE connected planes, deliberatebristle/knife strokes selectiveimpasto; no photograph/CGI/anime/polishedskin or uniformlychippedtexture. Warmordinary evening hall electriclight for workform; coat/listening forms darker and softer under small entrylamp, MOST farface/neck/cloth in connected umber/slate shadow, one limitedwarmnearplane, no daylight or rimhalo. Exactheading and state labels. Character only, NO Coralie/wings/feather scene/furniture/room/floor/groundpatch/scenery/swatches/palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/coralie.png",
+                "role": "same-story broad oil and warm electric state style only; not woman's face, hair, freckles or wings",
+                "sha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+                "role": "quiet homelamp light and ordinary woodcomb only; no setting",
+                "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-563e771a-570a-4d11-b9f9-d3dd589ce7b1.png",
+            "outputSha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:56:10.138416+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/coralie.png",
+            "role": "same-story broad oil and warm electric state style only; not woman's face, hair, freckles or wings",
+            "sha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+            "role": "quiet homelamp light and ordinary woodcomb only; no setting",
+            "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:56:10.138416+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175",
+        "sourceSha256": "1b1cf47fb50967c2cd7252280ff47c5309a9edb4735b4aa887304666651cfbd5",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/coralie.png",
+            "role": "same-story broad oil and warm electric state style only; not woman's face, hair, freckles or wings",
+            "sha256": "4820f7b1d635f2fe4f5c8bfc83c4e26e9f55fb1f57cf2db2970b091e08314326",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+            "role": "quiet homelamp light and ordinary woodcomb only; no setting",
+            "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: same slimtall olive man with narrow rectangular face/straightnose/wavyblackhair/trimmeddarkbeard in complete front/rear and two heads. No wings or Coralie features transferred.",
+          "Moss shirt with subtle dark cuff edge, tan trousers/flatblackshoes; darkbrown coat in second form. Ordinary wooden comb held at blunt handle/spine end in body and hand study, not supernatural.",
+          "Warm ordinary indoor skin planes with connected darker green/brown cloth and face shadow; broad matte oil strokes cover face/hair/fabric, restrained attentive expressions. Exact name/title/state labels, unclippedfeet, warm ivory without scene/swatches."
+        ],
+        "specificationSha256": "97659db123159c943b6037d87d1f9d4d48445bc9f7488a5afa1d7bb5fd34ee73"
+      },
+      "lighting": "Ordinary evening hall warm overhead electricity for work form, softer dimmer entrylamp for coat/comb form; connected dark umber/slate shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175"
+    },
+    {
+      "id": "julian",
+      "name": "Julian",
+      "role": "Friend whose incredulity exposes assumptions, then recognizes his own overreach.",
+      "selectionEvidence": [
+        {
+          "quote": "Julian had always believed silence was a faulty appliance.",
+          "explanation": "Source evidence for sustained central relationship role."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs, no wings.",
+        "lifeStage": "Adult, exactage unspecified.",
+        "proportions": "Source says he never occupied much space; precisebuild unspecified.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, ordinary cloth/tools; Coralie has real featheredwings.",
+        "clothing": "Coat at departure, otherclothing unspecified.",
+        "equipment": "BLUE drying towels, broom/dustpan.",
+        "scale": "Humanadult; Coralie's wings need wide clearance.",
+        "movement": "Expressive question, rubsneck, then restrainedsweeping.",
+        "distinctiveFeatures": "Adult human man"
+      },
+      "explicitCanon": [
+        "Friend/volunteer; people smile from specific care, not proven angeliccompulsion.",
+        "Handles blue towels and broom/dustpan, locksrear door, collectscoat.",
+        "No supernaturalperception or cosmic expertise."
+      ],
+      "visualInterpretation": [
+        "Art-only age34, pale skin, longtriangularface, prominentears, straightlightbrown sidepartedhair, cleanshaven, grayeyes, shortslenderbuild.",
+        "Mustardcardigan over offwhiteshirt, navypants, brownsneakers; slatecoat at departure.",
+        "Same warmhall electriclight, connected umbershadow."
+      ],
+      "states": [
+        {
+          "name": "Questions",
+          "description": "Folded blue towels, curious expression."
+        },
+        {
+          "name": "Cleaning up",
+          "description": "Ordinary broom/dustpan, quieter expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "she-literally-has-wings:julian",
+        "links": [],
+        "evidence": "No matching universe entries or established cross-storyidentity."
+      },
+      "references": [
+        {
+          "path": "stories/she-literally-has-wings/title-image.jpg",
+          "role": "Coralie's gray/ivory feather and woodencomb geometry only",
+          "notes": "No character face. Cover daylight is not source's evening light.",
+          "sha256": "b9847570d80e85fb00b92335cd30b28f095dd2d61055715bfabe8c4f7513f74f",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+          "role": "evening electric hall light and broad oil only",
+          "notes": "Warm overhead bulbs, cold wet exterior, no environment copied.",
+          "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+          "inspected": true
+        },
+        {
+          "path": "stories/she-literally-has-wings/art/interiors/03-home-entryway.png",
+          "role": "local home lamp exposure and oil only",
+          "notes": "Small lamp and cool dark shadow; ordinary comb/brush.",
+          "sha256": "3a71808392018dfd532697a086ead22fec5daa936b84915bbbf3672cc8010d30",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Julian"
+      },
+      "output": "stories/she-literally-has-wings/art/characters/julian.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character folio on warmivory, exact 'Julian' / 'She Literally Has Wings'. ONE ordinary HUMAN MAN age34, SHORT SLENDER build, PALE skin, distinctive LONG TRIANGULAR face with NARROW POINTED CHIN, smallthin straightnose, prominent projecting EARS, fine straight eyebrows, smallgrayeyes, straightLIGHTBROWN side-partedhair; CLEANSHAVEN, absolutely no beard/stubble/mustache/blackcurls or face from Tomas. Completely ordinaryvolunteer, no wings/magic. Clothing MUSTARD cardigan over plain OFFWHITE cottonshirt, NAVY trousers and plain BROWN low sneakers. LEFT fullbodyfrontthreequarter 'Questions': holds folded BLUE drying towels against chest with one arm, otherhand lightlyrubbackofneck, expressive curious eyebrows, not mocking/caricature. CENTER complete rear-threequarter 'Cleaning up': same man holds ordinary WOODENBROOM upright in one hand and a small METALDUSTPAN by handle in other, quieter posture, tools fullyinsideimage, nofloor visible. RIGHT upper sameface headstudy 'Incredulous' with open questioning eyebrows and partedmouth; rightlower sameface 'Listening' closedmouth subduedembarrassedattention. Small folded-blue-towel detail optional; no coffee gift bottle (not source action). Sameidentity/clothes acrossallviews, clear TWOarms/twolegs and naturalfingers, completefeet. Storyevening indoor ELECTRIC overheadlight from hall: modestwarm nearface planes, connected dark umber/coolgray farface/neck/clothing shadows, no golden outdoor sunshine/rim. Match image1 actual broad CanadianGroupofSeven OPAQUE OILPAINT, large connected matte masses on face/hair/fabric, deliberatebristle/knife strokes, quietjoiningpassages and selectiveimpasto, no photograph/CGI/anime/smoothglossyface or uniformlybevelledchips. Exactreadableheading/state labels. NO Coralie/wings/otherpeople/room/scenery/furniture/floorplane/groundpatch/swatches/palette.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:56:11.341743+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character folio on warmivory, exact 'Julian' / 'She Literally Has Wings'. ONE ordinary HUMAN MAN age34, SHORT SLENDER build, PALE skin, distinctive LONG TRIANGULAR face with NARROW POINTED CHIN, smallthin straightnose, prominent projecting EARS, fine straight eyebrows, smallgrayeyes, straightLIGHTBROWN side-partedhair; CLEANSHAVEN, absolutely no beard/stubble/mustache/blackcurls or face from Tomas. Completely ordinaryvolunteer, no wings/magic. Clothing MUSTARD cardigan over plain OFFWHITE cottonshirt, NAVY trousers and plain BROWN low sneakers. LEFT fullbodyfrontthreequarter 'Questions': holds folded BLUE drying towels against chest with one arm, otherhand lightlyrubbackofneck, expressive curious eyebrows, not mocking/caricature. CENTER complete rear-threequarter 'Cleaning up': same man holds ordinary WOODENBROOM upright in one hand and a small METALDUSTPAN by handle in other, quieter posture, tools fullyinsideimage, nofloor visible. RIGHT upper sameface headstudy 'Incredulous' with open questioning eyebrows and partedmouth; rightlower sameface 'Listening' closedmouth subduedembarrassedattention. Small folded-blue-towel detail optional; no coffee gift bottle (not source action). Sameidentity/clothes acrossallviews, clear TWOarms/twolegs and naturalfingers, completefeet. Storyevening indoor ELECTRIC overheadlight from hall: modestwarm nearface planes, connected dark umber/coolgray farface/neck/clothing shadows, no golden outdoor sunshine/rim. Match image1 actual broad CanadianGroupofSeven OPAQUE OILPAINT, large connected matte masses on face/hair/fabric, deliberatebristle/knife strokes, quietjoiningpassages and selectiveimpasto, no photograph/CGI/anime/smoothglossyface or uniformlybevelledchips. Exactreadableheading/state labels. NO Coralie/wings/otherpeople/room/scenery/furniture/floorplane/groundpatch/swatches/palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/tomas.png",
+                "role": "same-story broad matte oil and folio/electric light only; no face/beard/hair identity transfer",
+                "sha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+                "role": "hall electric light and blue towel color only; no room",
+                "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-57663d57-a719-405d-aeeb-0687919ab4e1.png",
+            "outputSha256": "2cfd51fb4477bafa94e896e8a73abddd4e636cb12afcdf4ab61a88cbf1e5a34d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:00:50.973680+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/tomas.png",
+            "role": "same-story broad matte oil and folio/electric light only; no face/beard/hair identity transfer",
+            "sha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+            "role": "hall electric light and blue towel color only; no room",
+            "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:00:50.973680+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "2cfd51fb4477bafa94e896e8a73abddd4e636cb12afcdf4ab61a88cbf1e5a34d",
+        "sourceSha256": "1b1cf47fb50967c2cd7252280ff47c5309a9edb4735b4aa887304666651cfbd5",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/characters/tomas.png",
+            "role": "same-story broad matte oil and folio/electric light only; no face/beard/hair identity transfer",
+            "sha256": "209221a57c92d89236aeda09fbd251be91476b1b5ba9532fdf7bfffcbbef7175",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/she-literally-has-wings/art/interiors/01-supper-hall.png",
+            "role": "hall electric light and blue towel color only; no room",
+            "sha256": "ca47e0cbec7e0bfd6213e0a5363e24f41c2599a4ecad007e7ce1ff25e8499cc5",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: distinct pale slender clean-shaven man with triangularface/prominentears/lightbrownsidepart, consistent in complete front/back and two head studies. Expressions clearly curious/incredulous then subdued listening.",
+          "Mustardcardigan/offwhiteshirt/navytrousers/brownsneakers with BLUE towels, ordinary broom/dustpan. Natural human twoarms/twolegs and intact fingers; no wings or powers.",
+          "Warm ordinary hall electric color with connected cooler shadow passages; broad matte painted face/cloth/hair, exact name/title/labels, fulltools/feet insideframe. Ivory background no floor/scenery/swatches."
+        ],
+        "specificationSha256": "ac5e65c56a8507f15c98de393708d8df171476294d32acc0f766888f771b370d"
+      },
+      "lighting": "Ordinary hall electric light, restrained warm near planes and connected umber/coolgray shadow, no daylight.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "2cfd51fb4477bafa94e896e8a73abddd4e636cb12afcdf4ab61a88cbf1e5a34d"
+    }
+  ],
+  "sourceSha256": "1b1cf47fb50967c2cd7252280ff47c5309a9edb4735b4aa887304666651cfbd5"
+}
