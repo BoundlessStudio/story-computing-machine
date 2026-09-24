@@ -1,0 +1,842 @@
+{
+  "schemaVersion": 1,
+  "slug": "never-a-mascot",
+  "title": "The First Call",
+  "source": "stories/never-a-mascot/story.md",
+  "sourceSha256": "762f05ff851708bebb28f36a4f5b9a71b3664cae6acda1e95653a0599a036ed8",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose, complete prompt and final review read. Silent rooster and three surviving soldiers each sustain central agency: rescue, consent repair, observation/countdown and clinical decisions. Four unnamed identities resolved with authorized art-only names.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Junior officer, dead final officer, recruits, wagon refugees and armies",
+      "reason": "Brief or collective role; no sustained individual arc comparable to four central survivors."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency and magic LOCKED; local mechanisms and costs CANON"
+      ]
+    },
+    {
+      "path": "universe/style-guide.md",
+      "entries": [
+        "Personhood and moral consequence LOCKED; agency/consent retained"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No matching local story identity entry found"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "rookspur",
+      "name": "Rookspur",
+      "role": "Independent armored rooster rescuer",
+      "selectionEvidence": [
+        {
+          "quote": "He came up no higher than the buckle on an infantryman's boot.",
+          "explanation": "Small ordinary scale."
+        },
+        {
+          "quote": "Mud darkened his red feathers",
+          "explanation": "Feather color."
+        },
+        {
+          "quote": "He did not change",
+          "explanation": "First direct light does not force choice."
+        },
+        {
+          "quote": "His armor opened first",
+          "explanation": "Mechanical telescoping armor."
+        },
+        {
+          "quote": "a small wounded rooster lay inside armor suddenly too cold",
+          "explanation": "Injury and cold persist."
+        }
+      ],
+      "form": "Rooster",
+      "storyAppearance": {
+        "anatomy": "Ordinary male chicken anatomy: red feathers, two wings and two bird legs; giant form remains same rooster, no human torso/hands.",
+        "scale": "Ordinary boot-buckle high; voluntarily grows beyond siege-tower height for nine minutes at first direct dawn light.",
+        "materials": "Battered narrow breast/back/shoulder plates, jointed wing guards with hidden lames, kettle patch and varied rivets.",
+        "states": "Small repaired, giant bracing, small cold after change. Injuries do not heal, arrows do not scale, no flight or invulnerability.",
+        "markings": "Late soot, burned tail tips, damaged left wing guard, favors right foot; final bandaged foot."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: He came up no higher than the buckle on an infantryman's boot.",
+        "Non-canon source fact: Mud darkened his red feathers",
+        "Non-canon source fact: He did not change",
+        "Non-canon source fact: His armor opened first",
+        "Non-canon source fact: a small wounded rooster lay inside armor suddenly too cold"
+      ],
+      "visualInterpretation": [
+        "Art-only name Rookspur. Rust-red neck/body, deeper maroon tail, scarlet comb/wattles and ochre beak/feet; same bird features in all scales.",
+        "Armor utilitarian dull iron with brown straps and small varied rivets; no crown, coat of arms, sword or blue mascot ribbon.",
+        "Giant-study silhouette is ordinary chicken proportions enlarged, not cover anthropomorphism; no wound gore."
+      ],
+      "states": [
+        {
+          "name": "Ordinary",
+          "description": "Boot-buckle-high repaired armored bird."
+        },
+        {
+          "name": "Dawn form",
+          "description": "Same anatomy enlarged, plates expanded for nine minutes; no flight."
+        },
+        {
+          "name": "After change",
+          "description": "Small, cold, soot and bandaged right foot."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Independent armored rooster rescuer",
+        "displayName": "Rookspur",
+        "provenance": "New distinctive art-only name under explicit always-name authorization; current source/outline have no person names. Exact search in universe, NAMES, current and bundle prose/reviews found no collision. No source or canon edits."
+      },
+      "recurrence": {
+        "identityKey": "never-a-mascot:rookspur",
+        "links": [],
+        "evidence": "No shared-universe identity link established."
+      },
+      "references": [
+        {
+          "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+          "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+          "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+          "inspected": true,
+          "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+          "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+          "notes": "No scene or causeway in sheets.",
+          "inspected": true,
+          "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+        },
+        {
+          "path": "stories/never-a-mascot/title-image.jpg",
+          "role": "Inspected cover red feathers, comb, battered armour; subordinate to prose anatomy",
+          "notes": "Cover has strongly stylized giant frontal silhouette and more arrows; do not import anthropomorphic shape, anime linework or cover arrow count. Not sent for generation.",
+          "inspected": true,
+          "sha256": "3bf4e2a1df52071fed5d5cc147b73b8bff0a785d2f2d9e35868290d012f54927"
+        }
+      ],
+      "output": "stories/never-a-mascot/art/characters/rookspur.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make ONE tiny anatomical repair to the LEFTMOST ORDINARY ROOSTER only: its foot on the VIEWER LEFT is currently detached because the lower leg/shank was erased. Restore a natural continuous golden-brown scaly chicken shank joining that existing viewer-left foot to the body above, with the correct hock bend and same thickness as the other ordinary leg. The foot stays in its current place, connected to the body. This rooster has exactly TWO intact bird legs and TWO clawed feet. Do not add a third leg or a ground shadow. Preserve absolutely everything else in this approved sheet: all other bird views/poses, identical red-feathered identity, same armor and expanded hinges, after-change bandage, exact Rookspur and The First Call headings and every label, heavy broad opaque oil masses, quiet ivory, dim/dawn figure light. Only reconnect that single detached leg. 1536x1024 landscape.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d338042-feeb-4035-870d-054e2f51adf3.png",
+            "role": "Immutable latest Rookspur candidate; single disconnected leg repair only",
+            "sha256": "e0aa6553c1e5d37a5c00e38b668594f028bbd55d1e1b070bb223ac99ca620a9f",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only reference sheet on UNIFORM LIGHT WARM IVORY. Clear BLACK serif exact character heading and exact subtitle \"The First Call\". Keep PAPER light; only the figures receive story-specific dim/dawn lighting. Broad connected colour/value masses, varied opaque bristle marks, thick selective impasto and quiet connecting passages in Canadian Group of Seven oil treatment. Faces/feathers/cloth/metal equally painted; no photoreal face, glossy CGI, anime, plastic, uniform embossed chips or theatrical rim-light. Kelro reference is STYLE/FORMAT ONLY, never its face, red coat or name. Landscape inputs guide paint and restrained light, never scenery. No location, floor patch, scene vignette, swatches or palette strip. One identity per sheet; all whole views unclipped. Heading \"Rookspur\". One RED-FEATHERED ROOSTER, actual CHICKEN anatomy at every size: horizontal avian torso, short muscular bird neck, round chest, two feathered wings, two bird legs with clawed feet, tail fan, red comb/wattles, yellow-ochre beak. No human chest, arms, hands, boots, trousers or weapon. Left half contains two complete ordinary rooster views front-three-quarter and rear-three-quarter, labeled \"Ordinary — boot-buckle high\"; red feathers under close narrow battered iron plates and jointed wing guards, small kettle patch and varied rivets. Right upper half: SAME rooster in complete side-three-quarter bracing stance, labeled \"Dawn form — nine minutes\"; enlarged body, sliding armor bands and lames spread over same bird anatomy, wings slightly opened but no flying. Explicit small caption \"Forms shown at different scales\" avoids fake direct scale. Lower-right small full bird \"After change\" crouched cold, soot-blackened red feathers, singed tail tips, RIGHT FOOT bandaged and left wing guard strap damaged; no arrows remaining after treatment. Close equipment study of telescoping wing hinge and kettle patch. Do not give giant a muscular human torso, cape, shield or sword. No arrows/gore in this anatomy sheet; injury represented by packed linen under wing, no healing glow. Dim cool predawn ordinary views; quiet first direct dawn touches giant upper feathers, connected subdued grey shadows. Uniform IVORY paper, no battlefield or fire vignette.",
+            "references": [
+              {
+                "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+                "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+                "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+                "inspected": true,
+                "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+                "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+                "notes": "No scene or causeway in sheets.",
+                "inspected": true,
+                "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+              }
+            ],
+            "startedAt": "2026-09-24T02:43:46.416346+00:00",
+            "preflight": "Full source and marker read, actual cover and three same-story oil paintings inspected; new names checked. Bird anatomy versus cover stylization resolved in favor of prose, no foreign-object scaling or healing; human age/gear/mobility and figure lighting checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-28f821e9-1e94-4380-9c68-0a7e6d5fbce5.png",
+            "candidateSha256": "5586a7946f22ba002731503add0c8185acfeb10685dd0b5a83b2aa52ad616f72",
+            "completedAt": "2026-09-24T02:49:32.995325+00:00",
+            "visualInspection": [
+              "Rendering too fine/digital compared with approved collection, and visible ground patches beneath bird views."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Restyle image 1, the ROOKSPUR SHEET, while preserving its excellent exact avian anatomy, each pose, all armor mechanics, cold injured state, names, labels, layout and sizes. Image 2 SENNA VOST supplies PAINT HANDLING ONLY, not human identity, clothes or text. Match its LARGE connected opaque oil planes and heavy directional bristle/knife marks, substantial selective impasto and quieter joined passages on EVERY surface. Simplify the rooster feathers into broad interlocking RUST-RED masses with selective feather indications; simplify metal into large dull iron planes, no glossy 3D filigree or fine feather-by-feather render. Keep all rooster forms the same avian individual, no humanoid anatomy. Keep small and giant scale labels and telescope hinge detail. Completely REMOVE ALL pale grey/brown painted ground and cast-shadow patches from beneath every bird; replace with clean light warm ivory matching blank paper. Nothing except characters and isolated gear may appear. Keep subdued predawn/first-dawn light on figures and a mild dawn warmth on giant upper feathers, no artificial glowing rim. Do not brighten paper into white or darken it. Exact heading Rookspur and subtitle The First Call. 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-28f821e9-1e94-4380-9c68-0a7e6d5fbce5.png",
+                "role": "Immutable candidate edit target; preserve identity and untargeted features",
+                "sha256": "5586a7946f22ba002731503add0c8185acfeb10685dd0b5a83b2aa52ad616f72",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1c0c6fcb-f933-4c09-beab-88425e181ff3.png",
+                "role": "Approved same-story character oil paint style only, no identity or text transfer",
+                "sha256": "8a03829666bb1483ee082a30d49d0d151149377cb7f007e69640cc61e9be6dab",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:49:32.995325+00:00",
+            "preflight": "Actual candidate reviewed against source and views; repair specific visible defect, preserve anatomy, lighting, names and art-only identity.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d338042-feeb-4035-870d-054e2f51adf3.png",
+            "candidateSha256": "e0aa6553c1e5d37a5c00e38b668594f028bbd55d1e1b070bb223ac99ca620a9f",
+            "completedAt": "2026-09-24T02:54:19.339923+00:00",
+            "visualInspection": [
+              "Heavy connected paint and clean ivory now pass.",
+              "Style/background repair passed but erased the shank above viewer-left foot of leftmost ordinary bird, leaving foot detached."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Make ONE tiny anatomical repair to the LEFTMOST ORDINARY ROOSTER only: its foot on the VIEWER LEFT is currently detached because the lower leg/shank was erased. Restore a natural continuous golden-brown scaly chicken shank joining that existing viewer-left foot to the body above, with the correct hock bend and same thickness as the other ordinary leg. The foot stays in its current place, connected to the body. This rooster has exactly TWO intact bird legs and TWO clawed feet. Do not add a third leg or a ground shadow. Preserve absolutely everything else in this approved sheet: all other bird views/poses, identical red-feathered identity, same armor and expanded hinges, after-change bandage, exact Rookspur and The First Call headings and every label, heavy broad opaque oil masses, quiet ivory, dim/dawn figure light. Only reconnect that single detached leg. 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d338042-feeb-4035-870d-054e2f51adf3.png",
+                "role": "Immutable latest Rookspur candidate; single disconnected leg repair only",
+                "sha256": "e0aa6553c1e5d37a5c00e38b668594f028bbd55d1e1b070bb223ac99ca620a9f",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:54:19.339923+00:00",
+            "preflight": "Actual restyled image inspected; only leftmost ordinary shank discontinuity remains. No change to approved paint, source states or anatomy elsewhere.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-8b03af80-b5ed-4bb8-a2be-1da9033d05bf.png",
+            "candidateSha256": "2c30bfca80090cea3001ec4648fd6c9e8239e497469fbba99bb2a13fb530bdf6",
+            "completedAt": "2026-09-24T02:56:30.744510+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: both legs fully connect in ordinary views; same avian rooster anatomy across ordinary, giant and cold after-change forms; no human limbs or weapons.",
+              "Expanded mechanical lames and telescoping hinge retain source rule, explicit nine-minute/different-scale labels; aftermath bandaged foot, soot and damaged strap preserve physical cost without gore or magical healing.",
+              "Warm ivory is clear of every former ground patch. Broad opaque red feather masses and dull iron paint planes now match collection weight, exact art name/story title readable, unclipped bird forms and isolated gear only."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T02:56:30.744510+00:00",
+        "sourceSha256": "762f05ff851708bebb28f36a4f5b9a71b3664cae6acda1e95653a0599a036ed8",
+        "outputSha256": "2c30bfca80090cea3001ec4648fd6c9e8239e497469fbba99bb2a13fb530bdf6",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d338042-feeb-4035-870d-054e2f51adf3.png",
+            "role": "Immutable latest Rookspur candidate; single disconnected leg repair only",
+            "sha256": "e0aa6553c1e5d37a5c00e38b668594f028bbd55d1e1b070bb223ac99ca620a9f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: both legs fully connect in ordinary views; same avian rooster anatomy across ordinary, giant and cold after-change forms; no human limbs or weapons.",
+          "Expanded mechanical lames and telescoping hinge retain source rule, explicit nine-minute/different-scale labels; aftermath bandaged foot, soot and damaged strap preserve physical cost without gore or magical healing.",
+          "Warm ivory is clear of every former ground patch. Broad opaque red feather masses and dull iron paint planes now match collection weight, exact art name/story title readable, unclipped bird forms and isolated gear only."
+        ],
+        "specificationSha256": "b49ac839ff02b6c735aea5c9ba9204bf8b952eaf07b7beaf04a8a3b0fd539b2f"
+      },
+      "outputSha256": "2c30bfca80090cea3001ec4648fd6c9e8239e497469fbba99bb2a13fb530bdf6"
+    },
+    {
+      "id": "senna-vost",
+      "name": "Senna Vost",
+      "role": "Armorer-sergeant whose repair relationship changes from imposed mascot story to consent-based care",
+      "selectionEvidence": [
+        {
+          "quote": "She was nineteen",
+          "explanation": "First-call age."
+        },
+        {
+          "quote": "For seven years",
+          "explanation": "Seven-year development."
+        },
+        {
+          "quote": "The armorer was a sergeant now",
+          "explanation": "Current role."
+        },
+        {
+          "quote": "She stopped.",
+          "explanation": "Respects rooster refusal."
+        },
+        {
+          "quote": "The sergeant took the heavier end.",
+          "explanation": "Carries wounded surgeon at end."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Human woman, nineteen initially and twenty-six seven years later.",
+        "clothing": "Work apron, boots and wrist leather guard; royal host context but no exact uniform description.",
+        "equipment": "Rivet pliers, narrow rivets, tinder horn, striker, knife and wool lining.",
+        "movement": "Repairs armor, cuts burning slowcord, removes arrows with consent and carries litter."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: She was nineteen",
+        "Non-canon source fact: For seven years",
+        "Non-canon source fact: The armorer was a sergeant now",
+        "Non-canon source fact: She stopped.",
+        "Non-canon source fact: The sergeant took the heavier end."
+      ],
+      "visualInterpretation": [
+        "Medium-brown skin, compact strong build, short tightly coiled black hair, broad square face, dark eyes; age nineteen to twenty-six same identity.",
+        "Dull grey-blue army shirt, heavy brown leather work apron, dark trousers and boots; wrist guard retained, no decorative rank insignia invented."
+      ],
+      "states": [
+        {
+          "name": "Sergeant — 26",
+          "description": "Current smoke-stained work clothes."
+        },
+        {
+          "name": "First call — 19",
+          "description": "Younger same face, cleaner apron; seven years before."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Armorer-sergeant whose repair relationship changes from imposed mascot story to consent-based care",
+        "displayName": "Senna Vost",
+        "provenance": "New distinctive art-only name under explicit always-name authorization; current source/outline have no person names. Exact search in universe, NAMES, current and bundle prose/reviews found no collision. No source or canon edits."
+      },
+      "recurrence": {
+        "identityKey": "never-a-mascot:senna-vost",
+        "links": [],
+        "evidence": "No shared-universe identity link established."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+          "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+          "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+          "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+          "inspected": true,
+          "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+          "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+          "notes": "No scene or causeway in sheets.",
+          "inspected": true,
+          "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+        },
+        {
+          "path": "stories/never-a-mascot/title-image.jpg",
+          "role": "Inspected cover red feathers, comb, battered armour; subordinate to prose anatomy",
+          "notes": "Cover has strongly stylized giant frontal silhouette and more arrows; do not import anthropomorphic shape, anime linework or cover arrow count. Not sent for generation.",
+          "inspected": true,
+          "sha256": "3bf4e2a1df52071fed5d5cc147b73b8bff0a785d2f2d9e35868290d012f54927"
+        }
+      ],
+      "output": "stories/never-a-mascot/art/characters/senna-vost.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only reference sheet on UNIFORM LIGHT WARM IVORY. Clear BLACK serif exact character heading and exact subtitle \"The First Call\". Keep PAPER light; only the figures receive story-specific dim/dawn lighting. Broad connected colour/value masses, varied opaque bristle marks, thick selective impasto and quiet connecting passages in Canadian Group of Seven oil treatment. Faces/feathers/cloth/metal equally painted; no photoreal face, glossy CGI, anime, plastic, uniform embossed chips or theatrical rim-light. Kelro reference is STYLE/FORMAT ONLY, never its face, red coat or name. Landscape inputs guide paint and restrained light, never scenery. No location, floor patch, scene vignette, swatches or palette strip. One identity per sheet; all whole views unclipped. Heading \"Senna Vost\". One human WOMAN, medium-brown skin, compact strong worker build, broad SQUARE face, short tightly COILED BLACK hair, dark eyes. Two full front/rear current forms labeled \"Sergeant — 26\": dull grey-blue army shirt, thick brown leather work APRON, dark trousers and sturdy boots, soot on sleeves, leather wrist guard on anatomical LEFT wrist consistently. Narrow rivet pliers in right hand front. Third smaller halfbody \"First call — 19\": same face and hair identity seven years younger, cleaner apron, inspecting one small loose armor plate in her hands, no bird figure. Heads Listening and Deciding are current age26. Isolated tools pliers, narrow rivets in open small box, ordinary tinder horn and striker. No badges invented, helmet, magical toolglow or extra character. Predawn current forms have muted cool-grey light and shadow; first-call study a modest early-morning warmth, no spectacle. Ivory paper stays light. Faces as broadly oil-painted as clothing.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+            "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+            "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+            "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+            "inspected": true,
+            "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+          },
+          {
+            "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+            "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+            "notes": "No scene or causeway in sheets.",
+            "inspected": true,
+            "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only reference sheet on UNIFORM LIGHT WARM IVORY. Clear BLACK serif exact character heading and exact subtitle \"The First Call\". Keep PAPER light; only the figures receive story-specific dim/dawn lighting. Broad connected colour/value masses, varied opaque bristle marks, thick selective impasto and quiet connecting passages in Canadian Group of Seven oil treatment. Faces/feathers/cloth/metal equally painted; no photoreal face, glossy CGI, anime, plastic, uniform embossed chips or theatrical rim-light. Kelro reference is STYLE/FORMAT ONLY, never its face, red coat or name. Landscape inputs guide paint and restrained light, never scenery. No location, floor patch, scene vignette, swatches or palette strip. One identity per sheet; all whole views unclipped. Heading \"Senna Vost\". One human WOMAN, medium-brown skin, compact strong worker build, broad SQUARE face, short tightly COILED BLACK hair, dark eyes. Two full front/rear current forms labeled \"Sergeant — 26\": dull grey-blue army shirt, thick brown leather work APRON, dark trousers and sturdy boots, soot on sleeves, leather wrist guard on anatomical LEFT wrist consistently. Narrow rivet pliers in right hand front. Third smaller halfbody \"First call — 19\": same face and hair identity seven years younger, cleaner apron, inspecting one small loose armor plate in her hands, no bird figure. Heads Listening and Deciding are current age26. Isolated tools pliers, narrow rivets in open small box, ordinary tinder horn and striker. No badges invented, helmet, magical toolglow or extra character. Predawn current forms have muted cool-grey light and shadow; first-call study a modest early-morning warmth, no spectacle. Ivory paper stays light. Faces as broadly oil-painted as clothing.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+                "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+                "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+                "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+                "inspected": true,
+                "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+                "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+                "notes": "No scene or causeway in sheets.",
+                "inspected": true,
+                "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+              }
+            ],
+            "startedAt": "2026-09-24T02:43:46.416346+00:00",
+            "preflight": "Full source and marker read, actual cover and three same-story oil paintings inspected; new names checked. Bird anatomy versus cover stylization resolved in favor of prose, no foreign-object scaling or healing; human age/gear/mobility and figure lighting checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1c0c6fcb-f933-4c09-beab-88425e181ff3.png",
+            "candidateSha256": "8a03829666bb1483ee082a30d49d0d151149377cb7f007e69640cc61e9be6dab",
+            "completedAt": "2026-09-24T02:49:32.995325+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: coherent age19 and age26 versions of same woman, compact worker build, coiled black hair, square face and broad painted skin planes.",
+              "Apron construction and anatomical left wrist guard consistent in front/rear; pliers, rivets, tinder horn and striker are source-supported; no added insignia.",
+              "Exact art name and source title readable; current/younger labels explicit, unclipped whole figures, ivory without scenery/swatches. Predawn figure shadows and collection oil style retained."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 saved-pixel review",
+        "reviewedAt": "2026-09-24T02:49:32.995325+00:00",
+        "sourceSha256": "762f05ff851708bebb28f36a4f5b9a71b3664cae6acda1e95653a0599a036ed8",
+        "outputSha256": "8a03829666bb1483ee082a30d49d0d151149377cb7f007e69640cc61e9be6dab",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+            "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+            "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+            "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+            "inspected": true,
+            "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+          },
+          {
+            "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+            "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+            "notes": "No scene or causeway in sheets.",
+            "inspected": true,
+            "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: coherent age19 and age26 versions of same woman, compact worker build, coiled black hair, square face and broad painted skin planes.",
+          "Apron construction and anatomical left wrist guard consistent in front/rear; pliers, rivets, tinder horn and striker are source-supported; no added insignia.",
+          "Exact art name and source title readable; current/younger labels explicit, unclipped whole figures, ivory without scenery/swatches. Predawn figure shadows and collection oil style retained."
+        ],
+        "specificationSha256": "d953a42daf658ac1dd960fc2bf32238af48828677176e6ce5afe156591b5f337"
+      },
+      "outputSha256": "8a03829666bb1483ee082a30d49d0d151149377cb7f007e69640cc61e9be6dab"
+    },
+    {
+      "id": "odrin-pell",
+      "name": "Odrin Pell",
+      "role": "Surviving scout who corrects observations, measures transformation time and helps carry surgeon",
+      "selectionEvidence": [
+        {
+          "quote": "The scout lay on the bank",
+          "explanation": "Field observer."
+        },
+        {
+          "quote": "Smoke moved.",
+          "explanation": "Owns uncertainty and corrections."
+        },
+        {
+          "quote": "The scout turned the quarter-hour sandglass from his map case.",
+          "explanation": "Source equipment."
+        },
+        {
+          "quote": "East branch drops more gently",
+          "explanation": "Chooses practical route."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human man; smoke-streaming eyes, exhausted.",
+        "clothing": "Royal infantry survivor, exact uniform unspecified.",
+        "equipment": "Map case and quarter-hour sandglass with ninth-minute scratch.",
+        "movement": "Listens prone, observes, kneels with clock, carries litter."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: The scout lay on the bank",
+        "Non-canon source fact: Smoke moved.",
+        "Non-canon source fact: The scout turned the quarter-hour sandglass from his map case.",
+        "Non-canon source fact: East branch drops more gently"
+      ],
+      "visualInterpretation": [
+        "Late-twenties lean tall man, pale freckled skin, narrow long nose, straight flax-brown hair cropped close, clean-shaven.",
+        "Muted grey-blue short field jacket, brown leather map case on anatomical right hip, dull trousers and boots."
+      ],
+      "states": [
+        {
+          "name": "Scout",
+          "description": "Same current soot-worn form and map case in all views."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Surviving scout who corrects observations, measures transformation time and helps carry surgeon",
+        "displayName": "Odrin Pell",
+        "provenance": "New distinctive art-only name under explicit always-name authorization; current source/outline have no person names. Exact search in universe, NAMES, current and bundle prose/reviews found no collision. No source or canon edits."
+      },
+      "recurrence": {
+        "identityKey": "never-a-mascot:odrin-pell",
+        "links": [],
+        "evidence": "No shared-universe identity link established."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+          "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+          "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+          "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+          "inspected": true,
+          "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+          "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+          "notes": "No scene or causeway in sheets.",
+          "inspected": true,
+          "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+        },
+        {
+          "path": "stories/never-a-mascot/title-image.jpg",
+          "role": "Inspected cover red feathers, comb, battered armour; subordinate to prose anatomy",
+          "notes": "Cover has strongly stylized giant frontal silhouette and more arrows; do not import anthropomorphic shape, anime linework or cover arrow count. Not sent for generation.",
+          "inspected": true,
+          "sha256": "3bf4e2a1df52071fed5d5cc147b73b8bff0a785d2f2d9e35868290d012f54927"
+        }
+      ],
+      "output": "stories/never-a-mascot/art/characters/odrin-pell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct ONLY second-from-left REAR FULL-BODY view. His brown map case must hang on ANATOMICAL RIGHT HIP, VIEWER RIGHT in this rear view. It is currently viewer LEFT. Move the rear case to viewer RIGHT hip and reroute its diagonal strap from VIEWER LEFT SHOULDER to VIEWER RIGHT HIP. Front figure map case remains viewer LEFT/anatomical right as already correct. Preserve all other pixels, head/body proportions, front view, crouching view, hourglass/scratch, hair/face, slate clothes, exact Odrin Pell / The First Call headings, warm ivory, thick connected oil paint and subdued light. No added person, weapon, scenery or swatch. 1536x1024 landscape.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e41f54e6-cd8a-4a68-a791-a668f29ee70b.png",
+            "role": "Immutable candidate edit target; preserve identity and untargeted features",
+            "sha256": "178ab1d2f5f1ce7377470df144b423417ccee3693f05a5b0cd85610bdd502c2d",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only reference sheet on UNIFORM LIGHT WARM IVORY. Clear BLACK serif exact character heading and exact subtitle \"The First Call\". Keep PAPER light; only the figures receive story-specific dim/dawn lighting. Broad connected colour/value masses, varied opaque bristle marks, thick selective impasto and quiet connecting passages in Canadian Group of Seven oil treatment. Faces/feathers/cloth/metal equally painted; no photoreal face, glossy CGI, anime, plastic, uniform embossed chips or theatrical rim-light. Kelro reference is STYLE/FORMAT ONLY, never its face, red coat or name. Landscape inputs guide paint and restrained light, never scenery. No location, floor patch, scene vignette, swatches or palette strip. One identity per sheet; all whole views unclipped. Heading \"Odrin Pell\". One late-twenties tall LEAN man, pale FRECKLED skin, long narrow nose, cropped straight FLAX-BROWN hair, clean shaven; clearly distinct from young Kelro reference. Worn short GREY-BLUE field jacket, dull brown trousers, ordinary leather boots, brown map case at ANATOMICAL RIGHT HIP, diagonal strap from left shoulder; keep side correct front/rear. Two complete front/rear figures, plus isolated crouching full figure holding a compact plain quarter-hour SANDGLASS, all feet and head fully shown, no ground. Heads Watching and Counting with tired reddened smoky eyes (not glossy). Small map case and hourglass studies; glass wooden frame has one little calibration scratch labelled \"Ninth-minute scratch\", no digital numbers or clock dial; sandglass label \"Quarter-hour glass\". No new weapon, badge, compass invention or map landscape. Subdued grey predawn light with restrained first-dawn warm top planes, broad shadow masses; ivory page remains bright.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+                "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+                "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+                "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+                "inspected": true,
+                "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+                "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+                "notes": "No scene or causeway in sheets.",
+                "inspected": true,
+                "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+              }
+            ],
+            "startedAt": "2026-09-24T02:43:46.416346+00:00",
+            "preflight": "Full source and marker read, actual cover and three same-story oil paintings inspected; new names checked. Bird anatomy versus cover stylization resolved in favor of prose, no foreign-object scaling or healing; human age/gear/mobility and figure lighting checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e41f54e6-cd8a-4a68-a791-a668f29ee70b.png",
+            "candidateSha256": "178ab1d2f5f1ce7377470df144b423417ccee3693f05a5b0cd85610bdd502c2d",
+            "completedAt": "2026-09-24T02:49:32.995325+00:00",
+            "visualInspection": [
+              "Rear map case/strap is mirrored onto anatomical left hip; match source design on anatomical right."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Correct ONLY second-from-left REAR FULL-BODY view. His brown map case must hang on ANATOMICAL RIGHT HIP, VIEWER RIGHT in this rear view. It is currently viewer LEFT. Move the rear case to viewer RIGHT hip and reroute its diagonal strap from VIEWER LEFT SHOULDER to VIEWER RIGHT HIP. Front figure map case remains viewer LEFT/anatomical right as already correct. Preserve all other pixels, head/body proportions, front view, crouching view, hourglass/scratch, hair/face, slate clothes, exact Odrin Pell / The First Call headings, warm ivory, thick connected oil paint and subdued light. No added person, weapon, scenery or swatch. 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e41f54e6-cd8a-4a68-a791-a668f29ee70b.png",
+                "role": "Immutable candidate edit target; preserve identity and untargeted features",
+                "sha256": "178ab1d2f5f1ce7377470df144b423417ccee3693f05a5b0cd85610bdd502c2d",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:49:32.995325+00:00",
+            "preflight": "Actual candidate reviewed against source and views; repair specific visible defect, preserve anatomy, lighting, names and art-only identity.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-eed43ad8-78a7-47a5-88ac-09c6ef26418b.png",
+            "candidateSha256": "ee6886246c5daf7e171532ab1689923f5fb820ddddbf97e321ac7a94a2f03ad1",
+            "completedAt": "2026-09-24T02:54:19.339923+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: rear map case now on anatomical right hip, strap left shoulder to right hip, matching front and crouch.",
+              "Same lean pale freckled young scout across whole views/heads; quarter-hour glass, ninth-minute scratch and map case remain source-supported.",
+              "Exact name/title, three whole poses, broad connected thick oil marks with subdued early light; warm ivory with no scenery or swatches."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T02:54:19.339923+00:00",
+        "sourceSha256": "762f05ff851708bebb28f36a4f5b9a71b3664cae6acda1e95653a0599a036ed8",
+        "outputSha256": "ee6886246c5daf7e171532ab1689923f5fb820ddddbf97e321ac7a94a2f03ad1",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e41f54e6-cd8a-4a68-a791-a668f29ee70b.png",
+            "role": "Immutable candidate edit target; preserve identity and untargeted features",
+            "sha256": "178ab1d2f5f1ce7377470df144b423417ccee3693f05a5b0cd85610bdd502c2d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: rear map case now on anatomical right hip, strap left shoulder to right hip, matching front and crouch.",
+          "Same lean pale freckled young scout across whole views/heads; quarter-hour glass, ninth-minute scratch and map case remain source-supported.",
+          "Exact name/title, three whole poses, broad connected thick oil marks with subdued early light; warm ivory with no scenery or swatches."
+        ],
+        "specificationSha256": "1fcde3da13e2abf67e4cb5cccec5883f846aae9d2d4f3992cf3d41315f6eeef2"
+      },
+      "outputSha256": "ee6886246c5daf7e171532ab1689923f5fb820ddddbf97e321ac7a94a2f03ad1"
+    },
+    {
+      "id": "malvern-creel",
+      "name": "Malvern Creel",
+      "role": "Wounded field surgeon who directs consent-based arrow removal and needs transport",
+      "selectionEvidence": [
+        {
+          "quote": "binding his own thigh above a deep cut",
+          "explanation": "Own injury and posture."
+        },
+        {
+          "quote": "May we pull this one?",
+          "explanation": "Consent and clinical agency."
+        },
+        {
+          "quote": "The shafts stay their size. You won't.",
+          "explanation": "Understands dangerous scale change."
+        },
+        {
+          "quote": "The surgeon eased himself onto the litter",
+          "explanation": "Transport need at end."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, deep thigh injury with limited mobility; no exact age or appearance fixed.",
+        "clothing": "Field medical attire unspecified; bandage above thigh cut.",
+        "equipment": "Forceps, linen dressings, spear-shaft litter lashed with unburned cord.",
+        "movement": "Seated/reclining, cannot stand unsupported; carefully demonstrates tools."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: binding his own thigh above a deep cut",
+        "Non-canon source fact: May we pull this one?",
+        "Non-canon source fact: The shafts stay their size. You won't.",
+        "Non-canon source fact: The surgeon eased himself onto the litter"
+      ],
+      "visualInterpretation": [
+        "Late-fifties stocky dark-brown man with bald crown, close white-grey beard, broad nose and tired deep-set eyes.",
+        "Dull slate field coat, ochre vest, brown trousers/boots; left thigh wrapped in linen, covered modest stain with no open wound.",
+        "Isolated litter is portable equipment, not location; no rock, ground patch, hospital or Red Cross symbol."
+      ],
+      "states": [
+        {
+          "name": "After bandaging",
+          "description": "Seated/reclined with protected left thigh."
+        },
+        {
+          "name": "Treatment",
+          "description": "Hands show forceps and linen, not active injury procedure."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Wounded field surgeon who directs consent-based arrow removal and needs transport",
+        "displayName": "Malvern Creel",
+        "provenance": "New distinctive art-only name under explicit always-name authorization; current source/outline have no person names. Exact search in universe, NAMES, current and bundle prose/reviews found no collision. No source or canon edits."
+      },
+      "recurrence": {
+        "identityKey": "never-a-mascot:malvern-creel",
+        "links": [],
+        "evidence": "No shared-universe identity link established."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+          "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+          "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+          "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+          "inspected": true,
+          "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+        },
+        {
+          "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+          "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+          "notes": "No scene or causeway in sheets.",
+          "inspected": true,
+          "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+        },
+        {
+          "path": "stories/never-a-mascot/title-image.jpg",
+          "role": "Inspected cover red feathers, comb, battered armour; subordinate to prose anatomy",
+          "notes": "Cover has strongly stylized giant frontal silhouette and more arrows; do not import anthropomorphic shape, anime linework or cover arrow count. Not sent for generation.",
+          "inspected": true,
+          "sha256": "3bf4e2a1df52071fed5d5cc147b73b8bff0a785d2f2d9e35868290d012f54927"
+        }
+      ],
+      "output": "stories/never-a-mascot/art/characters/malvern-creel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct ONLY the smaller seated figure at lower right. Its injured bandaged leg must be ANATOMICAL LEFT, matching the large litter figure where the bandage is on anatomical left. Recompose that seated study in a FRONT-FACING seated pose: his LEFT LEG (viewer RIGHT) extends carefully diagonally toward the lower-right corner, with thigh bandage; his RIGHT LEG (viewer LEFT) is bent with unbandaged knee up. Both thighs must connect naturally to the correct hip, no crossed or twisted legs. Keep his left hand resting on left bandage and right arm near bent right knee. Do NOT change the large litter figure, portraits, medical-hand studies, name Malvern Creel, subtitle The First Call, dark skin/white beard/bald head, clothes, warm ivory or heavy oil brushwork. No standing pose, scenery, chair, floor or shadow patch. This is one identity with the SAME LEFT thigh injury throughout. 1536x1024 landscape.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e91117be-c3ab-46c9-b661-b59326d0f94f.png",
+            "role": "Immutable candidate edit target; preserve identity and untargeted features",
+            "sha256": "d1bb6588b6277551e2d87cbeb7d10689841d355bd0b5443f8f302b2fb83d139a",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only reference sheet on UNIFORM LIGHT WARM IVORY. Clear BLACK serif exact character heading and exact subtitle \"The First Call\". Keep PAPER light; only the figures receive story-specific dim/dawn lighting. Broad connected colour/value masses, varied opaque bristle marks, thick selective impasto and quiet connecting passages in Canadian Group of Seven oil treatment. Faces/feathers/cloth/metal equally painted; no photoreal face, glossy CGI, anime, plastic, uniform embossed chips or theatrical rim-light. Kelro reference is STYLE/FORMAT ONLY, never its face, red coat or name. Landscape inputs guide paint and restrained light, never scenery. No location, floor patch, scene vignette, swatches or palette strip. One identity per sheet; all whole views unclipped. Heading \"Malvern Creel\". One late-fifties stocky DARK-BROWN man with BALD CROWN, short grey-white beard, broad nose and deep-set tired eyes. Dull SLATE field coat, ochre vest, brown trousers and boots. His anatomical LEFT THIGH is injured and bandaged; thick linen wrapping outside trousers, modest dull stain, no exposed wound/gore. He CANNOT stand unsupported. Main full-body study reclines on a SIMPLE PORTABLE cloth LITTER with two straight wooden spear shafts and visible cord lashings, all tips/feet/head unclipped, isolated on ivory with NO carriers, floor or scenery. Second full-body seated side study at smaller scale shows same bandaged LEFT thigh extended carefully and healthy leg bent; omit seat/environment rather than adding milestone. Upper body front and rear studies preserve same identity. Heads Pain and Patient focus. Close hands holding plain forceps and folded linen, no operation or patient shown; five fingers per hand. Source-motivated subdued predawn grey shadows and restrained soft first-dawn touch on face, no bright studio fill or healing glow. Portable litter is gear only. Keep ivory paper light, no insignia or palette swatches.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved sheet oil rendering and ivory format only; not identity or clothing",
+                "notes": "Actual inspected pixels; connected paint masses and selective impasto.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/03-the-marsh-before-sunrise.png",
+                "role": "Same-story predawn/dawn subdued light and oil rhythm only",
+                "notes": "Smoke-dark grey/ochre connected masses, no terrain to transfer.",
+                "inspected": true,
+                "sha256": "38bdb3cd7dbefb67f2e3542eb74eff2af966a3eda63239116a9e01f77a0eb62b"
+              },
+              {
+                "path": "stories/never-a-mascot/art/landscapes/04-the-causeway-through-smoke.png",
+                "role": "Same-story smoke-filtered first-light palette and substantial oil marks only",
+                "notes": "No scene or causeway in sheets.",
+                "inspected": true,
+                "sha256": "adaa0f2b253b920d5c6a9c86f270c2ba79cb942cf3a2148ede4dfd4e4b3d904e"
+              }
+            ],
+            "startedAt": "2026-09-24T02:43:46.416346+00:00",
+            "preflight": "Full source and marker read, actual cover and three same-story oil paintings inspected; new names checked. Bird anatomy versus cover stylization resolved in favor of prose, no foreign-object scaling or healing; human age/gear/mobility and figure lighting checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e91117be-c3ab-46c9-b661-b59326d0f94f.png",
+            "candidateSha256": "d1bb6588b6277551e2d87cbeb7d10689841d355bd0b5443f8f302b2fb83d139a",
+            "completedAt": "2026-09-24T02:49:32.995325+00:00",
+            "visualInspection": [
+              "Smaller seated figure has bandage on anatomical right thigh whereas primary litter view is left; reconcile left-leg injury."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Correct ONLY the smaller seated figure at lower right. Its injured bandaged leg must be ANATOMICAL LEFT, matching the large litter figure where the bandage is on anatomical left. Recompose that seated study in a FRONT-FACING seated pose: his LEFT LEG (viewer RIGHT) extends carefully diagonally toward the lower-right corner, with thigh bandage; his RIGHT LEG (viewer LEFT) is bent with unbandaged knee up. Both thighs must connect naturally to the correct hip, no crossed or twisted legs. Keep his left hand resting on left bandage and right arm near bent right knee. Do NOT change the large litter figure, portraits, medical-hand studies, name Malvern Creel, subtitle The First Call, dark skin/white beard/bald head, clothes, warm ivory or heavy oil brushwork. No standing pose, scenery, chair, floor or shadow patch. This is one identity with the SAME LEFT thigh injury throughout. 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e91117be-c3ab-46c9-b661-b59326d0f94f.png",
+                "role": "Immutable candidate edit target; preserve identity and untargeted features",
+                "sha256": "d1bb6588b6277551e2d87cbeb7d10689841d355bd0b5443f8f302b2fb83d139a",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:49:32.995325+00:00",
+            "preflight": "Actual candidate reviewed against source and views; repair specific visible defect, preserve anatomy, lighting, names and art-only identity.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-2c3d74a3-4de8-4264-b0bd-2744d687aafa.png",
+            "candidateSha256": "739893f0338da508ca4517117830bd8f9443d2e260dbe6daa3521505d2a7e461",
+            "completedAt": "2026-09-24T02:54:19.339923+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: both litter and seated figures show the same anatomical LEFT thigh wrapped; lower-right pose now faces front with healthy right knee raised.",
+              "No unsupported standing or healed injury; portable spear-shaft litter, forceps/linen and ordinary five-digit hands; consistent stocky elder bald/bearded identity.",
+              "Whole forms unclipped and readable exact name/title; thick directional oil, ivory with no terrain or scene, restrained predawn shadow."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T02:54:19.339923+00:00",
+        "sourceSha256": "762f05ff851708bebb28f36a4f5b9a71b3664cae6acda1e95653a0599a036ed8",
+        "outputSha256": "739893f0338da508ca4517117830bd8f9443d2e260dbe6daa3521505d2a7e461",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e91117be-c3ab-46c9-b661-b59326d0f94f.png",
+            "role": "Immutable candidate edit target; preserve identity and untargeted features",
+            "sha256": "d1bb6588b6277551e2d87cbeb7d10689841d355bd0b5443f8f302b2fb83d139a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: both litter and seated figures show the same anatomical LEFT thigh wrapped; lower-right pose now faces front with healthy right knee raised.",
+          "No unsupported standing or healed injury; portable spear-shaft litter, forceps/linen and ordinary five-digit hands; consistent stocky elder bald/bearded identity.",
+          "Whole forms unclipped and readable exact name/title; thick directional oil, ivory with no terrain or scene, restrained predawn shadow."
+        ],
+        "specificationSha256": "355a1962826ae49c0ddf3542b11e6cc6c78c467d7abcd205ee032b04116af5cc"
+      },
+      "outputSha256": "739893f0338da508ca4517117830bd8f9443d2e260dbe6daa3521505d2a7e461"
+    }
+  ]
+}
