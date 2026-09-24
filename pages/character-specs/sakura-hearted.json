@@ -1,0 +1,581 @@
+{
+  "schemaVersion": 1,
+  "slug": "sakura-hearted",
+  "title": "Sakura-Hearted",
+  "source": "stories/sakura-hearted/story.md",
+  "sourceSha256": "12f705666095d4bb6a9f156ac570db65f8951990659ebe8ad3da92842c859912",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read through third ride/final kiss. Exactly two sustained present characters: named Celestine36 and unnamed narrator husband38. Original prompt explicitly calls him husband, resolving gender not spelled by first-person pronouns. Both selected.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Moon-ride prerecorded announcer, cover dog and background people",
+      "reason": "Recording is equipment; dog only incidental source reference/cover, not finished prose character; no other sustained onstage person."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; no Celestine universe entry or shared identity found.",
+    "Local technology: handheld emitter moves receiver-disc inert objects up to3kg within roughly apartment/kitchen range, timed20min lowering needs landing support, charge and clearance matter; ride separately floor-motor powered. No people lifting, weapons or divine powers.",
+    "Both exact original-reference display aliases recovered and individually viewed; same image bytes. Current character-only scope supersedes historical cover-only scene direction.",
+    "Tervin exact name searched across universe, NAMES and story Markdown: no matches. Name art-only under user authorization."
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+      "displayName": "codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+      "reattachedAs": "codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+      "identicalReattachmentPath": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+      "sha256": "8eacf225fc0f2f45a9cd02c0fe73ad691b1f6703b1599e85f0bacd76a7b866be",
+      "inspected": true,
+      "role": "Original Celestine face/updo/white headband, exact pink-white retro dress/gloves/belt/boots and one-hand pink controller; no scene, dog, smooth anime rendering or daylight override",
+      "notes": "Both aliases viewed; exact byte-identical same original. Prose fixes her adult age36 and dusk/lamplight present moment. Cover request for scene retained only for original cover; current authorized character-only scope controls this folio.",
+      "recovery": {
+        "method": "Coordinator decoded exact original user input_image bytes from archived sessions, not regenerated.",
+        "originalArchiveLocator": "2026-09-07 rollout 01a07e08, zero-based user-message line7",
+        "reattachmentArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+        "zeroBasedReattachmentUserMessageLine": 1137,
+        "originalArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-07T18-41-46-01a07e08-e223-7c51-9ebc-03cb0a37ccc5.jsonl",
+        "zeroBasedOriginalUserMessageLine": 7
+      }
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "celestine",
+      "name": "Celestine",
+      "sourceIdentityId": "celestine",
+      "role": "Adult inventor wife who rebuilds first-date moon ride for anniversary",
+      "selectionEvidence": [
+        {
+          "quote": "I was thirty-eight, she was thirty-six",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 125
+        },
+        {
+          "quote": "her brown hair pinned up behind a white headband.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 39
+        },
+        {
+          "quote": "Her white opera gloves reached her elbows",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 47
+        },
+        {
+          "quote": "Three kilos on one disc.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 119
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman, explicitly36; quiet affectionate genius, no bodily supernatural features.",
+        "lifeStage": "Explicit36; married8years.",
+        "proportions": "Ordinary adult woman; original reference's adult proportions translated into oil.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Pink retro-futuristic short dress with white front panel, high collar and circular throat opening; white elbow-length opera gloves, broad white cinch belt/circular buckle, white knee-high go-go boots, white headband/brown pinned-up hair.",
+        "equipment": "One-hand sakura-pink raygun/controller, small silver muzzle, dial under thumb, chrome bands and charge needle; limited receiver-disc object lifting.",
+        "scale": "Adult human.",
+        "movement": "Gentle wrist control, practical adjustments, warm affectionate smile/laugh/touch.",
+        "distinctiveFeatures": "Invention/local technology with charge/range/weight limits, not innate power; no weapon beam."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Original compatible light warm complexion, oval/heart-shaped adult face, soft brown eyes/brows, brown upswept bun and side fringe behind white headband; readable36 rather than anime teen.",
+        "Preserve exact outfit and coherent five-digit one-handed controller grip; main dusk dress views plus warm smile/quiet amusement heads and controller hand detail. All skin/hair/clothes converted to broad opaque oils."
+      ],
+      "states": [
+        {
+          "label": "Happy anniversary",
+          "description": "Warm adult affection, no caricature baby face."
+        },
+        {
+          "label": "Ninety seconds",
+          "description": "Quiet amused expression."
+        },
+        {
+          "label": "Three kilos",
+          "description": "Ordinary limited model controller held in one gloved hand, no target/beam."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "sakura-hearted:celestine",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/sakura-hearted/title-image.jpg",
+          "sha256": "b66f793329fb5e875e3a3dbea6c7e125903295b7b4ac20a01010090dca7b3e2c",
+          "role": "Celestine original-compatible face/outfit and corrected one-hand controller grip only",
+          "inspected": true,
+          "notes": "Inspected adult-looking brown-haired woman with updo/headband, pink-white short dress, gloves/elbow and boots/knee; exclude workshop/dog."
+        },
+        {
+          "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+          "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+          "role": "Primary opaque oil, dusk room practical amber lamps and connected muted blue/earth shadows only; no scene",
+          "inspected": true,
+          "notes": "Dusk interior muted warm light, cool window shade; keep character shade and omit planets/ride/furniture."
+        },
+        {
+          "path": "stories/sakura-hearted/art/landscapes/04-towers-in-evening-light.png",
+          "sha256": "37b608bb46a890e87c7161e6b562d6674a9c70894ee7e9cae513ca69daf08c5a",
+          "role": "Large directional opaque Group of Seven paint and dusk-violet shadow vocabulary only; no city or sunset spectacle",
+          "inspected": true,
+          "notes": "Broad evening oil masses; do not cast uniform sunset gold on body."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+          "displayName": "codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+          "reattachedAs": "codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+          "identicalReattachmentPath": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+          "sha256": "8eacf225fc0f2f45a9cd02c0fe73ad691b1f6703b1599e85f0bacd76a7b866be",
+          "inspected": true,
+          "role": "Original Celestine face/updo/white headband, exact pink-white retro dress/gloves/belt/boots and one-hand pink controller; no scene, dog, smooth anime rendering or daylight override",
+          "notes": "Both aliases viewed; exact byte-identical same original. Prose fixes her adult age36 and dusk/lamplight present moment. Cover request for scene retained only for original cover; current authorized character-only scope controls this folio.",
+          "recovery": {
+            "method": "Coordinator decoded exact original user input_image bytes from archived sessions, not regenerated.",
+            "originalArchiveLocator": "2026-09-07 rollout 01a07e08, zero-based user-message line7",
+            "reattachmentArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedReattachmentUserMessageLine": 1137,
+            "originalArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-07T18-41-46-01a07e08-e223-7c51-9ebc-03cb0a37ccc5.jsonl",
+            "zeroBasedOriginalUserMessageLine": 7
+          }
+        }
+      ],
+      "output": "stories/sakura-hearted/art/characters/celestine.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:16:30.552564+00:00",
+            "status": "REVISE",
+            "prompt": "Paint ONE 3:2 landscape CHARACTER-ONLY OIL folio on clean light warm IVORY. Exact large heading \"Celestine\", smaller exact story title \"Sakura-Hearted\". One human WOMAN explicitly THIRTY-SIX, repeated same mature adult identity. Use input3's face, hairstyle, clothing and compact one-hand controller, translated completely from anime into broad opaque OIL. Preserve her gentle brown eyes, soft adult oval/heart face, brown updo and side fringe; no teenage/doll face, oversized anime eyes or child proportions.\n\nBROWN hair pinned in a loose high BUN behind a WHITE HEADBAND. Exact pink-and-white retro-futuristic outfit: sakura PINK sleeveless short A-line DRESS with WHITE FRONT PANEL, white HIGH COLLAR and small ROUND OPENING AT THROAT. Broad WHITE CINCH BELT with one WHITE CIRCULAR BUCKLE centered at FRONT only; belt back plain. White OPERA GLOVES reaching ELBOWS, upper arms bare. WHITE knee-high GO-GO BOOTS with rounded toes and modest block heels. Back of dress mostly pink, discreet closure, no invented white front opening on back. Same outfit through every view.\n\nThree full unclipped front/profile/back views left/centre, relaxed adult posture, natural hands. Front holds small SAKURA-PINK RAYGUN/controller DOWN beside thigh in ONE WHITE-GLOVED hand. It fits one hand: rounded pink body, little silver muzzle, chrome bands, small dial under thumb/charge needle. No giant rifle, blade, military grip pose or beam. Right upper matching face \"Happy anniversary\" (gentle warm smile); right middle same face \"Ninety seconds\" (quiet amused laugh). Lower right LARGE close ONE natural gloved hand gripping the SAME compact controller, label \"Three kilos\". Exactly five digits: thumb at side dial, index at trigger, three fingers around short grip, coherent wrist. The device only moves light inert receiver-disc models; NO attack, floating person, target, magical aura or emitted beam.\n\nScene moment is EVENING/LAMPLIGHT in their apartment, not input3's bright sunlit workshop. Inputs1/2 set this: dominate white gloves/boots/panel with LARGE CONNECTED low-to-mid dark GREY-VIOLET/umber shadows. Pink mostly muted rose/plum in shade. Warm small practical-lamp light touches narrow near cheek, collar/buckle plane and hand; far cheek/back quiet cool dark. Keep white material identifiable without bright studio-wide white clothing. No sunset orange-blue rim spectacle, no universal daylight. Plain IVORY PAGE remains light/unshaded.\n\nInputs1/2 PRIMARY Group of Seven oil massing: broad decisive OPAQUE bristle/knife shapes, varied directional strokes, selective substantial impasto, quiet connected darks; face/hair/gloves as boldly painted as cloth. Input3 ONLY likeness and exact outfit/controller shape, NOT anime eyes, glossy skin, pose pinup, background or sun. No photoreal/CGI/anime face under tiny shiny paint-chip texture. Consistent adult facial/head/body proportions, exact readable headings/labels. No workshop, dog, skyline, planets, furniture, location, floor/contact shadows/ground patches, swatches or palette bars.",
+            "references": [
+              {
+                "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+                "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+                "role": "Primary opaque oil, dusk room practical amber lamps and connected muted blue/earth shadows only; no scene",
+                "inspected": true,
+                "notes": "Dusk interior muted warm light, cool window shade; keep character shade and omit planets/ride/furniture."
+              },
+              {
+                "path": "stories/sakura-hearted/art/landscapes/04-towers-in-evening-light.png",
+                "sha256": "37b608bb46a890e87c7161e6b562d6674a9c70894ee7e9cae513ca69daf08c5a",
+                "role": "Large directional opaque Group of Seven paint and dusk-violet shadow vocabulary only; no city or sunset spectacle",
+                "inspected": true,
+                "notes": "Broad evening oil masses; do not cast uniform sunset gold on body."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+                "displayName": "codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+                "reattachedAs": "codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+                "identicalReattachmentPath": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+                "sha256": "8eacf225fc0f2f45a9cd02c0fe73ad691b1f6703b1599e85f0bacd76a7b866be",
+                "inspected": true,
+                "role": "Original Celestine face/updo/white headband, exact pink-white retro dress/gloves/belt/boots and one-hand pink controller; no scene, dog, smooth anime rendering or daylight override",
+                "notes": "Both aliases viewed; exact byte-identical same original. Prose fixes her adult age36 and dusk/lamplight present moment. Cover request for scene retained only for original cover; current authorized character-only scope controls this folio.",
+                "recovery": {
+                  "method": "Coordinator decoded exact original user input_image bytes from archived sessions, not regenerated.",
+                  "originalArchiveLocator": "2026-09-07 rollout 01a07e08, zero-based user-message line7",
+                  "reattachmentArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+                  "zeroBasedReattachmentUserMessageLine": 1137
+                }
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-0fd61c72-3639-4375-848b-27a38e71c063.png",
+            "returnedSha256": "9624791c764db48349be2605d8ad9750b619610a9bc9440e109d370d8e879e0b",
+            "completedAt": "2026-09-24T07:24:31.868834+00:00",
+            "review": "REVISE: source-compatible outfit/hair/controller but anime face rendering remains, figures bright studio/daylight instead of dusk, heading obscured by heads, floor/contact patches present, and unsolicited extra slogan text. Repaint with landscape oil/dusk primary, preserve source appearance while natural adult face treatment, clear top heading band, plain ivory under boots and remove invented slogan."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:24:35.583938+00:00",
+            "status": "REVISE",
+            "prompt": "Completely REPAINT the THIRD image's Celestine folio as a Canadian Group of Seven OIL painting. FIRST reference is PRIMARY PAINT LANGUAGE; SECOND is PRIMARY DUSK LIGHT. Third is ONLY outfit/likeness/prop geometry, its anime rendering and daylight are rejected.\n\nONE same 36-year-old adult woman, gentle brown eyes, soft adult oval/heart face, brown updo/side fringe and white headband. Keep recognizable facial relationships and sweetness, but render naturally proportioned ADULT eyes and features through large opaque painted cheek/brow/nose/jaw masses; REMOVE smooth anime/doll face rendering. The face must be built from the same broad bristle/knife strokes as landscape trunks/rocks, not an anime face with paint texture. Adult mature cheekbone/jaw structure, no giant shining cartoon irises. Broad bold strokes on skin, hair, gloves, dress and boots, quiet connected darks, selective substantial impasto. No tiny glossy bevelled chips.\n\nPreserve exact outfit: pink sleeveless A-line short dress, white FRONT panel/high collar/round throat cutout, elbow-length white gloves, broad white belt/FRONT circular buckle, plain belt back, knee-high white go-go boots. Same compact pink controller in one gloved hand, little silver muzzle/dial/charge indicator; natural FIVE digits on enlarged hand, no beam or weapon pose. Same three front/profile/back full figures and two head expressions plus large gripping hand.\n\nCHANGE LIGHT decisively: EVENING in dim living room. Most WHITE gloves, boots, panel, collar and headband become LOW-TO-MID DARK muted GREY-VIOLET in shade. Pink mostly dark rose/plum. Most face/forehead/far cheek/legs are connected umber/cool-violet shadow. Only a small warm practical lamp reaches a narrow near cheek, a few buckle/glove/boot planes. No bright full white surfaces, sunlit orange rim or studio fill. Ivory PAGE stays light and unshaded so dim figures read clearly. Use second image's shaded interior values, not the first painting's daylight/greens.\n\nFIX LAYOUT: reserve a clear TOP LEFT heading band with exact \"Celestine\" and smaller \"Sakura-Hearted\", entirely unobscuredâ€”NO head/body in front of letters. Resize/reposition body studies slightly within the sheet to leave title clear and all boots unclipped. Keep only labels \"Happy anniversary\", \"Ninety seconds\", \"Three kilos\". REMOVE all other wording including the 'Thirty-six' slogan and 'Same woman...' lines. Remove decorative underline streaks if they resemble palette swatches.\n\nREMOVE every floor/contact shadow and paint patch under the boots; feet end against perfectly plain warm ivory. No floor, ground, setting, workshop, dog, furniture, planets, swatches or palette bars. Same source character, correct mature oil treatment, dim story light and clean readable folio.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+                "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+                "role": "Primary opaque oil, dusk room practical amber lamps and connected muted blue/earth shadows only; no scene",
+                "inspected": true,
+                "notes": "Dusk interior muted warm light, cool window shade; keep character shade and omit planets/ride/furniture."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-0fd61c72-3639-4375-848b-27a38e71c063.png",
+                "sha256": "",
+                "inspected": true,
+                "role": "Only Celestine identity, outfit/controller geometry; REMOVE anime rendering, white daylight, ground shadows, extra text and heading overlap"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-44d319c4-72fd-4dc3-9a7a-3c072d7f6c8d.png",
+            "returnedSha256": "3f236e2dbaa866db6dcd74bb2efa113bb1d8e21b6cf993bf8a252f504d683b5b",
+            "completedAt": "2026-09-24T07:31:09.227662+00:00",
+            "review": "Clear name/title, no extra slogan/floor patches, broader opaque face/body paint and naturally reduced adult eyes now improve style while source face/outfit/controller remain consistent. REVISE remaining bright all-over white clothing and warm edge illumination; need connected dusk room shade, no daylight rim."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:31:10.176590+00:00",
+            "status": "PASS",
+            "prompt": "Lighting-only correction of this EXACT Celestine OIL folio. Preserve mature adult facial identity/expression, hairstyle, headband, every pose/outfit/controller/hand, all text, clear layout and painterly broad shapes.\n\nThe current broad brightness still looks DAYTIME. Change to DIM EVENING LAMPLIGHT. Most face/forehead, bare arms/legs, gloves, boots, collar and white panel must become LARGE CONNECTED LOW-VALUE cool violet-grey/umber SHADOW. White clothing is mostly DARK GREY-VIOLET in this light, only small muted pale near-lamp planes. Pink mostly deep subdued rose/plum. The back and far cheek/forehead are markedly darker. Reduce exposed silver-white highlight across every panel, glove and boot. Remove the bright orange tracing along hair/shoulders/arms/legs; no outlining rim.\nA SMALL nearby warm practical lamp gives only a restricted cheek plane, a few glove/boot creases and a small pale circle on belt buckle. These tiny planes are sufficient to identify white material. Face still readable through dark broad painted planes, no bright fill light. Enlarged controller hand also chiefly subdued grey-violet; chrome edges muted. No beam/glow.\n\nKeep warm IVORY PAGE exactly LIGHT and plain, no vignette or dark background. Preserve oil massing and natural adult feature proportions; don't smooth skin or restore anime/CGI rendering. Same exact \"Celestine\", \"Sakura-Hearted\", \"Happy anniversary\", \"Ninety seconds\", \"Three kilos\". Add nothing. No floor/contact shadow, scene, decorative paint streaks or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-44d319c4-72fd-4dc3-9a7a-3c072d7f6c8d.png",
+                "sha256": "3f236e2dbaa866db6dcd74bb2efa113bb1d8e21b6cf993bf8a252f504d683b5b",
+                "inspected": true,
+                "role": "Exact improved Celestine identity/layout/oil target; dusk-light-only correction"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8f4fd900-832b-4472-84b7-5e0dbdf88f09.png",
+            "returnedSha256": "3ac2d0c52b2f1e009594a653799b73878ee3d474c131cd28259efa8d018f7f79",
+            "completedAt": "2026-09-24T07:41:04.705985+00:00",
+            "review": [
+              "Viewed returned pixels at full landscape size. Same adult brown-eyed updo/headband identity across front, side, back and two expressions; adult proportions preserved, no child state.",
+              "All-over daylight and orange tracing removed: skin and pink-white dress/gloves/boots now chiefly connected low-value brown and violet-grey dusk shadow with restrained small warm lamp planes. Ivory paper remains bright without scenery or ground shadows.",
+              "Opaque bristle/knife paint articulates skin, cloth and hair; exact Celestine and Sakura-Hearted headings unobstructed, secondary labels correct. No swatches or unsolicited slogans.",
+              "Front round belt buckle, knee boots, elbow gloves and one-hand pink controller consistent. Enlarged gloved hand has thumb on dial and four bent fingers with believable grip, no beam or spell. Previous rejected attempts retained."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "evidence": [
+                "Coordinator pixel review: dim dusk/layout/outfit/controller pass; face retains smooth anime-template treatment, especially two portraits. Rebuild flesh/eyes with broad connected opaque oil while preserving original adult36 identity and dim light."
+              ]
+            }
+          },
+          {
+            "attempt": 4,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:23:55.865440+00:00",
+            "status": "REVISE",
+            "prompt": "FACE-ONLY OIL REPAINT of image1, this exact Celestine reference folio. Keep ALL existing dim dusk exposure, same woman age36, same warm expressions, hair/updo/headband, body/anatomy/poses, pink-white outfit/gloves/boots/buckle/controller and hand, ivory layout and text. No lightening or aging. Landscape2 is ONLY physical paint construction anchor, NO landscape content or daylight.\n\nCurrent two close portraits and small figure faces still use smooth anime rendering underneath texture. RECONSTRUCT facial flesh as an actual Group of Seven opaque OIL painting, not grain overlay:\n- Fewer LARGE CONNECTED matte masses for forehead, temples, cheekbones, cheek shadow, nose bridge/side, chin, neck. Lay a broad opaque stroke across each cheek plane and jaw; quiet flat painted joins instead of smooth airbrushed gradient. No tiny uniform bevel chips or detailed texture dots.\n- Eyes must belong to a natural adult36 woman: painted upper eyelid ledges, small subdued brown irises, restrained off-white sclera in shadow, no glossy cartoon shine, long ink lashes or smooth oversized anime sockets. Keep original eye direction and warm expression. Same gentle nose, smile/lips and facial identity. Do NOT replace with another face, sharpen into masculine planes, or add elder wrinkles.\n- Warm cheek planes stay LOW VALUE muted brown-rose; shadow side remains dark muted violet/umber. Very few small lighter lamp planes. No new orange rims/sunlight/bright fill.\n- Apply same physical facial construction to front and side tiny figure faces so they match the TWO close portraits.\n\nEverything outside faces/necks invariant. Keep plain warm LIGHT ivory page, broad clothing paint, labels exactly \"Celestine\", \"Sakura-Hearted\", \"Happy anniversary\", \"Ninety seconds\", \"Three kilos\". No scenery/ground/swatches. Paint the face itself; no filter, no added paper grain.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-8f4fd900-832b-4472-84b7-5e0dbdf88f09.png",
+                "sha256": "3ac2d0c52b2f1e009594a653799b73878ee3d474c131cd28259efa8d018f7f79",
+                "inspected": true,
+                "role": "Selected dim-dusk Celestine exact identity/light/outfit target; face-only physical oil correction"
+              },
+              {
+                "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+                "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+                "inspected": true,
+                "role": "Connected opaque physical oil/shadow planes only; no scene and no brightening"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2d5a04ad-79c2-43a9-8c72-dcb576454fc1.png",
+            "returnedSha256": "d4ec3fd2046fbfc71fe6c88ed7b2a92426f80c9c622297f1508104f06ac285a3",
+            "completedAt": "2026-09-24T08:28:32.601973+00:00",
+            "review": "Face planes more opaque and dusk unchanged, but large dark smoothly outlined anime eye treatment remains; merely adding cheek patches insufficient. REVISE structure of eyelids/irises and broaden whole forehead-cheek-nose modelling so eyes embedded in painted planes, preserve adult36 identity not elderly."
+          },
+          {
+            "attempt": 5,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:28:33.573829+00:00",
+            "status": "PASS",
+            "prompt": "Repaint ONLY the four visible faces of this folio. Previous edit put paint patches onto a still-anime face. Now actually replace the anime facial RENDERING with mature figurative Canadian Group of Seven OIL PAINTING. Keep the SAME woman36, brown eyes, gentle nose, full warm mouth and joyful expressions, updo/side fringe, body/wardrobe/equipment, exact dim-light exposure, layout/text. She must not look elderly or like another person.\n\nEYES: remove the smoothly drawn black anime eye line and glossy black enlarged iris shapes. Use ordinary adult human eye opening scale, natural smaller brown iris half sheltered by the upper lid. Paint the eyelid as a thick opaque flesh/shadow plane attached to the eye socket, no ink outline or long cosmetic eyelash fan. Sclera is subdued dark warm grey, no glint. Brow is one broad dark stroke. Eye socket one joined violet-umber shadow.\nFLESH: not small polygons glued on. Broad CONTINUOUS opaque masses across brow and forehead, nose bridge, cheek and jaw; large directional bristle strokes with visible ridges, fewer value changes, quiet connected shadow. One broad cheek-plane stroke, one nose-side stroke, one lip plane; facial feature edges often lost in paint. Raw expressive hand-painted adult portrait, no smooth porcelain digital portrait. All faces same mature36 likeness. No extra wrinkles or grey hair.\nSecond reference is ONLY physical opaque paint vocabulary, not scene/colors/light.\n\nDo not alter ANYTHING outside faces. Dusk remains DARK with muted low-value skin; tiny restrained warm lamp planes only. Keep ivory background LIGHT. Exact headings/labels and all other things unchanged. No filter or grain overlay. Do not just repeat previous face.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2d5a04ad-79c2-43a9-8c72-dcb576454fc1.png",
+                "sha256": "d4ec3fd2046fbfc71fe6c88ed7b2a92426f80c9c622297f1508104f06ac285a3",
+                "inspected": true,
+                "role": "Exact Celestine target; revise remaining anime eye structure while preserving identity/light"
+              },
+              {
+                "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+                "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+                "inspected": true,
+                "role": "Connected opaque physical oil/shadow planes only; no scene and no brightening"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-a6a0396d-a406-416e-848f-fe49796adaf0.png",
+            "returnedSha256": "a8d699e1b38e10ef0b4a48a9050ff8952e64428d6c90826e154dba4e74950189",
+            "completedAt": "2026-09-24T08:32:37.431137+00:00",
+            "review": [
+              "Actual returned pixels compared to attempt3 and rejected4: facial flesh now constructed by joined opaque rose/brown/violet cheek/forehead/nose masses, face planes directly painted, no smooth porcelain underneath; eye openings/irises subdued with flesh lids and lost shadow edges.",
+              "Same adult36 brown-eyed face/updo/headband and original warm smiles preserved across front/side and both close portraits; not aged into elderly or replaced by another identity. Attempt4 retained as insufficient eye-render correction.",
+              "Previously accepted dim dusk exposure preserved: low-value grey-violet whites/rose dress and shadowed flesh, no universal daylight; no changes to body/boots/gloves/round belt/controller and five-digit hand.",
+              "Exact heading/story title/three labels, ivory landscape/layout and blank ground retained. Producer PASS on requested face repaint; coordinator review renewal requested."
+            ]
+          }
+        ],
+        "prompt": "Repaint ONLY the four visible faces of this folio. Previous edit put paint patches onto a still-anime face. Now actually replace the anime facial RENDERING with mature figurative Canadian Group of Seven OIL PAINTING. Keep the SAME woman36, brown eyes, gentle nose, full warm mouth and joyful expressions, updo/side fringe, body/wardrobe/equipment, exact dim-light exposure, layout/text. She must not look elderly or like another person.\n\nEYES: remove the smoothly drawn black anime eye line and glossy black enlarged iris shapes. Use ordinary adult human eye opening scale, natural smaller brown iris half sheltered by the upper lid. Paint the eyelid as a thick opaque flesh/shadow plane attached to the eye socket, no ink outline or long cosmetic eyelash fan. Sclera is subdued dark warm grey, no glint. Brow is one broad dark stroke. Eye socket one joined violet-umber shadow.\nFLESH: not small polygons glued on. Broad CONTINUOUS opaque masses across brow and forehead, nose bridge, cheek and jaw; large directional bristle strokes with visible ridges, fewer value changes, quiet connected shadow. One broad cheek-plane stroke, one nose-side stroke, one lip plane; facial feature edges often lost in paint. Raw expressive hand-painted adult portrait, no smooth porcelain digital portrait. All faces same mature36 likeness. No extra wrinkles or grey hair.\nSecond reference is ONLY physical opaque paint vocabulary, not scene/colors/light.\n\nDo not alter ANYTHING outside faces. Dusk remains DARK with muted low-value skin; tiny restrained warm lamp planes only. Keep ivory background LIGHT. Exact headings/labels and all other things unchanged. No filter or grain overlay. Do not just repeat previous face.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2d5a04ad-79c2-43a9-8c72-dcb576454fc1.png",
+            "sha256": "d4ec3fd2046fbfc71fe6c88ed7b2a92426f80c9c622297f1508104f06ac285a3",
+            "inspected": true,
+            "role": "Exact Celestine target; revise remaining anime eye structure while preserving identity/light"
+          },
+          {
+            "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+            "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+            "inspected": true,
+            "role": "Connected opaque physical oil/shadow planes only; no scene and no brightening"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:32:37.431137+00:00",
+        "sourceSha256": "12f705666095d4bb6a9f156ac570db65f8951990659ebe8ad3da92842c859912",
+        "outputSha256": "a8d699e1b38e10ef0b4a48a9050ff8952e64428d6c90826e154dba4e74950189",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2d5a04ad-79c2-43a9-8c72-dcb576454fc1.png",
+            "sha256": "d4ec3fd2046fbfc71fe6c88ed7b2a92426f80c9c622297f1508104f06ac285a3",
+            "inspected": true,
+            "role": "Exact Celestine target; revise remaining anime eye structure while preserving identity/light"
+          },
+          {
+            "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+            "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+            "inspected": true,
+            "role": "Connected opaque physical oil/shadow planes only; no scene and no brightening"
+          }
+        ],
+        "evidence": [
+          "Actual returned pixels compared to attempt3 and rejected4: facial flesh now constructed by joined opaque rose/brown/violet cheek/forehead/nose masses, face planes directly painted, no smooth porcelain underneath; eye openings/irises subdued with flesh lids and lost shadow edges.",
+          "Same adult36 brown-eyed face/updo/headband and original warm smiles preserved across front/side and both close portraits; not aged into elderly or replaced by another identity. Attempt4 retained as insufficient eye-render correction.",
+          "Previously accepted dim dusk exposure preserved: low-value grey-violet whites/rose dress and shadowed flesh, no universal daylight; no changes to body/boots/gloves/round belt/controller and five-digit hand.",
+          "Exact heading/story title/three labels, ivory landscape/layout and blank ground retained. Producer PASS on requested face repaint; coordinator review renewal requested."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "17e3eb41fd4814c8a80fb1882fd8915ed87cb7547820ed69cb0107ebee4847cc"
+      },
+      "outputSha256": "a8d699e1b38e10ef0b4a48a9050ff8952e64428d6c90826e154dba4e74950189",
+      "resolvedCorrections": [
+        "Coordinator pixel review: dim dusk/layout/outfit/controller pass; face retains smooth anime-template treatment, especially two portraits. Rebuild flesh/eyes with broad connected opaque oil while preserving original adult36 identity and dim light."
+      ]
+    },
+    {
+      "id": "tervin",
+      "name": "Tervin",
+      "sourceIdentityId": "tervin",
+      "role": "Unnamed adult husband, anniversary narrator",
+      "selectionEvidence": [
+        {
+          "quote": "I stood in our doorway with the anniversary flowers.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "I was thirty-eight, she was thirty-six",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 125
+        },
+        {
+          "quote": "She smoothed the front of my shirt.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 363
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man per explicit prompt husband; source first-person narrator, ordinary adult.",
+        "lifeStage": "Explicit38; married8years, first date10years earlier.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Coat hung on arrival, collared shirt and trousers; detailed palette unspecified.",
+        "equipment": "Anniversary flowers, old square coins for ride and ordinary drink; no invention or power.",
+        "scale": "Adult human.",
+        "movement": "Eagerly examines work, comic self-consciousness, relaxed affection and delight.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Tervin; light warm tan complexion, short chestnut side-parted wavy hair, average soft adult build, oval face with broad nose, short neat brown beard/stubble, kind brown eyes; distinct from young Hewlin.",
+        "Plain muted teal collared shirt with rolled sleeves, charcoal-brown trousers, simple brown loafers; optional taupe arrival coat omitted from main present-evening views. Hold untidy wrapped anniversary bouquet, close hand/square coin detail."
+      ],
+      "states": [
+        {
+          "label": "You found it",
+          "description": "Surprised recognition."
+        },
+        {
+          "label": "Another go",
+          "description": "Relaxed adult delight."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "sakura-hearted:tervin",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/sakura-hearted/title-image.jpg",
+          "sha256": "b66f793329fb5e875e3a3dbea6c7e125903295b7b4ac20a01010090dca7b3e2c",
+          "role": "Celestine original-compatible face/outfit and corrected one-hand controller grip only",
+          "inspected": true,
+          "notes": "Inspected adult-looking brown-haired woman with updo/headband, pink-white short dress, gloves/elbow and boots/knee; exclude workshop/dog."
+        },
+        {
+          "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+          "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+          "role": "Primary opaque oil, dusk room practical amber lamps and connected muted blue/earth shadows only; no scene",
+          "inspected": true,
+          "notes": "Dusk interior muted warm light, cool window shade; keep character shade and omit planets/ride/furniture."
+        },
+        {
+          "path": "stories/sakura-hearted/art/landscapes/04-towers-in-evening-light.png",
+          "sha256": "37b608bb46a890e87c7161e6b562d6674a9c70894ee7e9cae513ca69daf08c5a",
+          "role": "Large directional opaque Group of Seven paint and dusk-violet shadow vocabulary only; no city or sunset spectacle",
+          "inspected": true,
+          "notes": "Broad evening oil masses; do not cast uniform sunset gold on body."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+          "displayName": "codex-clipboard-a956b52a-e703-4b3e-8243-8d1782b329a4.png",
+          "reattachedAs": "codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+          "identicalReattachmentPath": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a9f77ffa-ada7-48ee-92f0-2f990fee2194.png",
+          "sha256": "8eacf225fc0f2f45a9cd02c0fe73ad691b1f6703b1599e85f0bacd76a7b866be",
+          "inspected": true,
+          "role": "Original Celestine face/updo/white headband, exact pink-white retro dress/gloves/belt/boots and one-hand pink controller; no scene, dog, smooth anime rendering or daylight override",
+          "notes": "Both aliases viewed; exact byte-identical same original. Prose fixes her adult age36 and dusk/lamplight present moment. Cover request for scene retained only for original cover; current authorized character-only scope controls this folio.",
+          "recovery": {
+            "method": "Coordinator decoded exact original user input_image bytes from archived sessions, not regenerated.",
+            "originalArchiveLocator": "2026-09-07 rollout 01a07e08, zero-based user-message line7",
+            "reattachmentArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedReattachmentUserMessageLine": 1137,
+            "originalArchive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-07T18-41-46-01a07e08-e223-7c51-9ebc-03cb0a37ccc5.jsonl",
+            "zeroBasedOriginalUserMessageLine": 7
+          }
+        }
+      ],
+      "output": "stories/sakura-hearted/art/characters/tervin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:41:47.223792+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. One landscape 1536x1024 character reference oil folio, warm plain ivory page. Readable elegant headings \"Tervin\" and \"Sakura-Hearted\" in reserved upper-left whitespace. ONLY ONE IDENTITY, adult male38. Front three-quarter full body, side/back smaller full body, two readable expressive head studies and one enlarged hand/square coin detail. Plenty of negative space, no overlap with headings.\n\nTERVIN, Celestine's husband: light warm tan complexion, short chestnut wavy side-parted hair, oval face, broad nose, kind brown eyes, neat short brown beard/stubble. Mature38 average slightly soft body, normal head/eyes/anatomy, shoulders broader than hips, a thoughtful unpretentious man. Plain muted TEAL collared shirt with sleeves rolled to midforearm, charcoal-brown trousers, simple brown loafers. Hold a modest slightly untidy paper-wrapped anniversary bouquet in one hand in front view, other arm relaxed. Side/back no bouquet required. Plain shirt and practical pants, no suit/jewelry/symbols/powers.\nExpressions labeled exactly \"You found it\" (surprised pleased recognition) and \"Another go\" (relaxed amused affection). Enlarged five-digit bare hand holding one small flat SQUARE coin between thumb and index finger. Square coin ordinary muted metal, no orb/gadget.\n\nCanadian Group of Seven PAINTING, heavy opaque oil. Attached images are paint/light inputs ONLY: large joined dark shapes, directional broad bristle/knife folds, selective impasto; no architecture/planets/scenery from them. Faces/hands build with broad opaque planes as deliberately as clothes, no glossy photographic skin, no tiny uniform mosaic chips, no CGI/anime. Maintain likeness across all views.\nTIME: dim interior evening lamplight, after dusk. Skin, teal shirt and trousers MOSTLY large connected cool violet/umber/navy SHADOWS. Only a small warm cheek/forearm plane catches a nearby shaded lamp. No bright face fill, no day/sun/broad orange rim. Paper remains clean LIGHT ivory while figures remain DARK under their evening exposure.\nNo partner, workshop, room, horizon, ground/contact shadow, floor paint, swatches, grids, small labels, extra objects, slogans, glowing effects.",
+            "references": [
+              {
+                "path": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
+                "sha256": "10b7e9ad6f092f65c3b8432b9d1f485df73702bff70087220b5811d636db7ab1",
+                "inspected": true,
+                "role": "Primary story evening oil and dim practical light only; no scenery"
+              },
+              {
+                "path": "stories/sakura-hearted/art/landscapes/04-towers-in-evening-light.png",
+                "sha256": "37b608bb46a890e87c7161e6b562d6674a9c70894ee7e9cae513ca69daf08c5a",
+                "inspected": true,
+                "role": "Connected opaque Group of Seven paint and muted violet shadows only; no sunset rim or city"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ede25ff4-d83f-4c0b-a102-db4e06f04c4e.png",
+            "returnedSha256": "b14a9baf566f100b88e25a315920e1a69212d0800027849a5f16793918b75ff0",
+            "completedAt": "2026-09-24T07:43:48.665645+00:00",
+            "review": "Identity/ordinary teal shirt, trousers/flowers/square coin and five-digit hand, broad oil/layout pass. Warm skin planes across whole face/forearms/large hand too broadly bright and orange for dim evening lamplight; darken skin/flowers light only, preserve anatomy/paint/text."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T07:44:22.104431+00:00",
+            "status": "PASS",
+            "prompt": "Edit ONLY lighting of this exact Tervin reference folio. Same mature male identity, hair, beard, facial features, teal shirt/charcoal trousers/brown shoes, bouquet, coin and hand anatomy, every pose/expression/heading and oil paint marks unchanged.\n\nDIM EVENING indoor practical light: the skin is currently far too broadly bright ORANGE. Make 75 percent of every face, forehead, nose, neck, forearm and enlarged hand connected dark cool violet-brown/umber shadows. Most cheek and forehead clearly LOW VALUE. Only one small muted warm cheek plane and a few knuckles face a shaded nearby lamp. Greatly reduce gold outlines/highlight traces on hair, ears, arms, clothing folds and shoes. Bouquet paper and flowers subdued; no bright cream patch. Shirt and trousers remain naturally dark.\nWarm IVORY PAPER remains clean and LIGHT exactly; do not darken page. No glows or props added. Broader opaque dark brush masses, no smooth realism. Exact \"Tervin\", \"Sakura-Hearted\", \"You found it\", \"Another go\". No floor shadow, scene, swatches, labels added. Preserve five fingers and square coin.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ede25ff4-d83f-4c0b-a102-db4e06f04c4e.png",
+                "sha256": "b14a9baf566f100b88e25a315920e1a69212d0800027849a5f16793918b75ff0",
+                "inspected": true,
+                "role": "Exact Tervin target, lighting-only evening correction"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-b9767dca-bec1-40b7-8135-e8b8fada2509.png",
+            "returnedSha256": "717f5466c10f0388272a3db8727118d1c41938217e74b8139ae6a576368e339d",
+            "completedAt": "2026-09-24T07:46:29.331633+00:00",
+            "review": [
+              "Full landscape pixels inspected: one mature male38 with consistent chestnut hair, short beard and broad-nosed oval face through front, side/back and two expressive busts; human ordinary anatomy and shoulders/hips.",
+              "Dusk correction gives faces, hands, arms and teal/charcoal clothes connected low-value violet-brown shadows with small muted warm light only; bouquet subdued, ivory page remains light without scene/floor/shadow/swatch.",
+              "Strong opaque directional paint in face, neck, enlarged hand and long cloth folds. Tervin/Sakura-Hearted headings and both expression labels clear and exact. No source identity claim from invented art-only name.",
+              "Five-digit enlarged hand correctly pinches square coin with thumb/index and three curled fingers; front hand grips paper-wrapped bouquet, relaxed hand plausible. No magic/object drift. Prior lighting-rejected candidate retained."
+            ]
+          }
+        ],
+        "prompt": "Edit ONLY lighting of this exact Tervin reference folio. Same mature male identity, hair, beard, facial features, teal shirt/charcoal trousers/brown shoes, bouquet, coin and hand anatomy, every pose/expression/heading and oil paint marks unchanged.\n\nDIM EVENING indoor practical light: the skin is currently far too broadly bright ORANGE. Make 75 percent of every face, forehead, nose, neck, forearm and enlarged hand connected dark cool violet-brown/umber shadows. Most cheek and forehead clearly LOW VALUE. Only one small muted warm cheek plane and a few knuckles face a shaded nearby lamp. Greatly reduce gold outlines/highlight traces on hair, ears, arms, clothing folds and shoes. Bouquet paper and flowers subdued; no bright cream patch. Shirt and trousers remain naturally dark.\nWarm IVORY PAPER remains clean and LIGHT exactly; do not darken page. No glows or props added. Broader opaque dark brush masses, no smooth realism. Exact \"Tervin\", \"Sakura-Hearted\", \"You found it\", \"Another go\". No floor shadow, scene, swatches, labels added. Preserve five fingers and square coin.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ede25ff4-d83f-4c0b-a102-db4e06f04c4e.png",
+            "sha256": "b14a9baf566f100b88e25a315920e1a69212d0800027849a5f16793918b75ff0",
+            "inspected": true,
+            "role": "Exact Tervin target, lighting-only evening correction"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:46:29.331633+00:00",
+        "sourceSha256": "12f705666095d4bb6a9f156ac570db65f8951990659ebe8ad3da92842c859912",
+        "outputSha256": "717f5466c10f0388272a3db8727118d1c41938217e74b8139ae6a576368e339d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ede25ff4-d83f-4c0b-a102-db4e06f04c4e.png",
+            "sha256": "b14a9baf566f100b88e25a315920e1a69212d0800027849a5f16793918b75ff0",
+            "inspected": true,
+            "role": "Exact Tervin target, lighting-only evening correction"
+          }
+        ],
+        "evidence": [
+          "Full landscape pixels inspected: one mature male38 with consistent chestnut hair, short beard and broad-nosed oval face through front, side/back and two expressive busts; human ordinary anatomy and shoulders/hips.",
+          "Dusk correction gives faces, hands, arms and teal/charcoal clothes connected low-value violet-brown shadows with small muted warm light only; bouquet subdued, ivory page remains light without scene/floor/shadow/swatch.",
+          "Strong opaque directional paint in face, neck, enlarged hand and long cloth folds. Tervin/Sakura-Hearted headings and both expression labels clear and exact. No source identity claim from invented art-only name.",
+          "Five-digit enlarged hand correctly pinches square coin with thumb/index and three curled fingers; front hand grips paper-wrapped bouquet, relaxed hand plausible. No magic/object drift. Prior lighting-rejected candidate retained."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "aa84499788ee126d4e573241ff7e47fd51f31de0bf13c5ef3a25b7603a020622"
+      },
+      "nameAssignment": {
+        "name": "Tervin",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed adult husband, anniversary narrator",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Tervin searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "717f5466c10f0388272a3db8727118d1c41938217e74b8139ae6a576368e339d"
+    }
+  ]
+}
