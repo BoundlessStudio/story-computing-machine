@@ -1,0 +1,1008 @@
+{
+  "slug": "fourth-house",
+  "title": "The Fourth House",
+  "source": "stories/fourth-house/story.md",
+  "canon": false,
+  "mainCastEvidence": "All five sustained participants make independent decisions that drive the licensing test and outcome.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Cistern keeper",
+      "reason": "Offstage employer repeatedly mentioned, no sustained appearance."
+    },
+    {
+      "name": "Pelmara's parents and hypothetical children",
+      "reason": "Referenced family history only."
+    },
+    {
+      "name": "Clay, load frame, seal and register",
+      "reason": "Explicitly ordinary nonliving apparatus, not characters."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#System categories",
+    "universe/characters.md (no matching named entries)"
+  ],
+  "referenceConflicts": [
+    {
+      "reference": "stories/fourth-house/title-image.jpg",
+      "finding": "Glowing ribbons/effects and house symbols unsupported by source's explicit absence of light.",
+      "resolution": "Higher-authority final prose controls; reuse only compatible worker identity and ordinary apron, omit all glow/symbols."
+    }
+  ],
+  "characters": [
+    {
+      "id": "zorevi-nask",
+      "name": "Zorevi Nask",
+      "role": "Junior source assessor and viewpoint protagonist who certifies the fourth category.",
+      "selectionEvidence": [
+        {
+          "quote": "Her first certification chaired without a senior assessor in the room,",
+          "line": 45,
+          "explanation": "Responsibility and novice status drive arc."
+        },
+        {
+          "quote": "Cultivated",
+          "line": 321,
+          "explanation": "Coins bounded certification category."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult, two arms/two legs.",
+        "lifeStage": "Adult, age not specified.",
+        "proportions": "Natural human adult proportions.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, practical cloth and leather; portable clay/tools as specified.",
+        "clothing": "Practical civic/work clothing; exact designs interpreted.",
+        "equipment": "Pen, forms, municipal seal; later carries worker's tool crate.",
+        "scale": "Human adult scale.",
+        "movement": "Initially meticulous arrangements, later practical carrying.",
+        "distinctiveFeatures": "No full facial description in prose."
+      },
+      "explicitCanon": [
+        "Woman, first certification chaired without senior assessor.",
+        "Junior material-working qualification; writes forms and uses municipal ink seal.",
+        "Carries Pelmara's tool crate at end.",
+        "No magical glow or agency from forms/seal."
+      ],
+      "visualInterpretation": [
+        "About27, dark brown skin, long narrow face, neat close-coiled hair in compact low knot, brown eyes.",
+        "Plain pale blue linen blouse, desaturated navy waistcoat, charcoal ankle-length skirt and practical shoes; no house colors or magical emblems assumed.",
+        "Soft late-morning window light, quiet cool violet shadows."
+      ],
+      "states": [
+        {
+          "name": "Assessment",
+          "description": "Complete work posture and source tools."
+        },
+        {
+          "name": "Practical support",
+          "description": "Same identity in alternate work view."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "fourth-house:zorevi-nask",
+        "links": [],
+        "evidence": "No matching shared-universe names or recurring identity established."
+      },
+      "references": [
+        {
+          "path": "stories/fourth-house/title-image.jpg",
+          "role": "Pelmara compatible face/hair/work-apron identity only",
+          "inspected": true,
+          "notes": "Dark curly pinned bun, mature tan/olive face, cream rolled sleeves and worn apron useful. Golden ribbons, luminous effects and house emblems conflict with explicit prose 'Nothing in the room lit' and are not used.",
+          "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/01-source-room.png",
+          "role": "late-morning daylight palette and oil rhythm only",
+          "inspected": true,
+          "notes": "Warm window daylight and quiet violet-gray shadow, matte clay/wood; no room transferred.",
+          "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "role": "clay coupling geometry/material and oil handling only",
+          "inspected": true,
+          "notes": "Short flanged green-stained ceramic coupling, matte fired clay. Frame/table do not belong to character sheet.",
+          "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte painted character and clean ivory format; no identity/clothing borrowing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/fourth-house/art/characters/zorevi-nask.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE sheet heading exactly 'Zorevi Nask' and 'The Fourth House'. Adult human woman about27, dark brown skin, long narrow thoughtful face, brown eyes, neat tightly coiled hair in compact low knot. Slender adult proportions, not teen. Plain pale BLUE linen blouse, desaturated NAVY waistcoat, charcoal ankle-length skirt, practical dark shoes; no house emblem or fantastical wizardwear. Two complete unclipped poses: frontthreequarter holding ordinary FORMS and PEN, careful alert posture; rearthreequarter carrying small plain wooden TOOL CRATE at hip with both hands to support weight, same body/clothes. Right head studies 'Exact' and 'Listening', same matte dark face. Small ordinary wooden INK SEAL and folded linen-paper forms, no readable madeup law necessary. These objects absolutely nonmagical, no light or animated effects. Soft LATE MORNING window daylight, restrained warm nearplanes and quiet cool violet-gray shadows, source-room image for light/paint only; lighter than previous noir story but no glowing rim. Bold connected oil masses, varied bristle and selective thick impasto, dark skin rendered broad and matte. Ivoryonly no room/table/windows/stairs/floor/ground patches/palette strips.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:44:50.582692+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE sheet heading exactly 'Zorevi Nask' and 'The Fourth House'. Adult human woman about27, dark brown skin, long narrow thoughtful face, brown eyes, neat tightly coiled hair in compact low knot. Slender adult proportions, not teen. Plain pale BLUE linen blouse, desaturated NAVY waistcoat, charcoal ankle-length skirt, practical dark shoes; no house emblem or fantastical wizardwear. Two complete unclipped poses: frontthreequarter holding ordinary FORMS and PEN, careful alert posture; rearthreequarter carrying small plain wooden TOOL CRATE at hip with both hands to support weight, same body/clothes. Right head studies 'Exact' and 'Listening', same matte dark face. Small ordinary wooden INK SEAL and folded linen-paper forms, no readable madeup law necessary. These objects absolutely nonmagical, no light or animated effects. Soft LATE MORNING window daylight, restrained warm nearplanes and quiet cool violet-gray shadows, source-room image for light/paint only; lighter than previous noir story but no glowing rim. Bold connected oil masses, varied bristle and selective thick impasto, dark skin rendered broad and matte. Ivoryonly no room/table/windows/stairs/floor/ground patches/palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+                "role": "late-morning daylight palette and oil rhythm only",
+                "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-c276845d-936f-47dc-815a-ec052c01f590.png",
+            "outputSha256": "2fc269c07c44bafea29c2d2d070f4b1126b3a37f806a52fd89d28b15f772f4af",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:52:27.034316+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning daylight palette and oil rhythm only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:52:27.034342+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "2fc269c07c44bafea29c2d2d070f4b1126b3a37f806a52fd89d28b15f772f4af",
+        "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning daylight palette and oil rhythm only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: consistent young adult assessor, dark coiled low knot and narrow face; two full unclipped poses with sensible anatomy and crate support.",
+          "Forms, pen, ink seal and tool crate support source; no magical effects or house emblems.",
+          "Matte broad skin planes, directional cloth impasto, restrained morning daylight, exact name/title, ivory only no scenery/swatches."
+        ],
+        "specificationSha256": "9ad13370f4564ba345f0bc64f70b6d2b129fd800fd6d6480242ba04c9c509333"
+      },
+      "lighting": "Soft late-morning window daylight with subdued warm planes and cool violet-gray shadow.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Zorevi Nask"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "2fc269c07c44bafea29c2d2d070f4b1126b3a37f806a52fd89d28b15f772f4af"
+    },
+    {
+      "id": "pelmara-jossan",
+      "name": "Pelmara Jossan",
+      "role": "Worker whose own stress-sensing and redistribution faculty emerges after gift recall.",
+      "selectionEvidence": [
+        {
+          "quote": "Today it stays hard and tells me where it won’t hold.",
+          "line": 163,
+          "explanation": "Distinguishes new faculty from withdrawn softening."
+        },
+        {
+          "quote": "Her fingers were locked around the clay.",
+          "line": 257,
+          "explanation": "Critical embodied cost."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult, two arms/two legs.",
+        "lifeStage": "Adult, age not specified.",
+        "proportions": "Natural human adult proportions.",
+        "markings": "Temporary pale prominent knuckles and stiff locked fingers after use; ordinary callus.",
+        "materials": "Human skin/hair, practical cloth and leather; portable clay/tools as specified.",
+        "clothing": "Practical civic/work clothing; exact designs interpreted.",
+        "equipment": "Green-stained ceramic coupling, chalk, wedges and cord; tool crate exists but she cannot lift it after use.",
+        "scale": "Human adult scale.",
+        "movement": "Precise tactile diagnosis; slight opposed wrist turn; stiff hands after use.",
+        "distinctiveFeatures": "Callused worker hands; no visible magical effect."
+      },
+      "explicitCanon": [
+        "Adult worker who used Beral's supplied clay-softening faculty for ten years.",
+        "Own new faculty senses and redistributes existing stress in fired pipe/couplings, does not soften.",
+        "Hands lock and become stiff/pale after one redistribution.",
+        "No luminous magic; ordinary tools still required."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible mature tan olive face with dark wavy hair pinned in high practical bun, loose curls; about38.",
+        "Worn brown leather work apron over cream rolled-sleeve linen shirt, dark trousers and sturdy boots.",
+        "Warm morning daylight and cool reflected shadow; no glowing ribbons from cover."
+      ],
+      "states": [
+        {
+          "name": "Diagnosis",
+          "description": "Natural hands holding coupling, no glow."
+        },
+        {
+          "name": "After one use",
+          "description": "Pale knuckles, fingers partly stiff, no object held tightly."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "fourth-house:pelmara-jossan",
+        "links": [],
+        "evidence": "No matching shared-universe names or recurring identity established."
+      },
+      "references": [
+        {
+          "path": "stories/fourth-house/title-image.jpg",
+          "role": "Pelmara compatible face/hair/work-apron identity only",
+          "inspected": true,
+          "notes": "Dark curly pinned bun, mature tan/olive face, cream rolled sleeves and worn apron useful. Golden ribbons, luminous effects and house emblems conflict with explicit prose 'Nothing in the room lit' and are not used.",
+          "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/01-source-room.png",
+          "role": "late-morning daylight palette and oil rhythm only",
+          "inspected": true,
+          "notes": "Warm window daylight and quiet violet-gray shadow, matte clay/wood; no room transferred.",
+          "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "role": "clay coupling geometry/material and oil handling only",
+          "inspected": true,
+          "notes": "Short flanged green-stained ceramic coupling, matte fired clay. Frame/table do not belong to character sheet.",
+          "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte painted character and clean ivory format; no identity/clothing borrowing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/fourth-house/art/characters/pelmara-jossan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory.\nText verbatim upper left: \"Pelmara Jossan\" and below \"The Fourth House\".\nReferences: image 1 Coris sheet is PAINTING AND FOLIO STYLE ONLY, never identity or clothing. Image 2 cover gives Pelmara's compatible face, practical dark wavy pinned bun, mature tan/olive skin, work apron and cream shirt ONLY: entirely discard cover's glowing ribbons, sparkle, house emblems, gilded light, architecture and photorealism. Image 3 source room gives restrained late-morning window-light palette and broad oil rhythm only. Image 4 gives the short green-stained flanged fired ceramic coupling geometry/material only.\nCharacter: one adult human female pipe worker about 38, mature tan/olive angular face, expressive strong brows, brown eyes, dark wavy hair pinned in high practical bun with loose curls, strong ordinary work-worn body and callused hands. Worn brown leather work apron over cream rolled-sleeve linen shirt, dark trousers, sturdy boots. Same identity and proportions in all views.\nLayout: two large complete unclipped full-body views, separated by clear ivory. Left front three-quarter labelled \"Diagnosis\": holding short green-stained ceramic coupling at waist with two natural hands, thoughtful tactile inspection, no forceful bent pose. Center side/rear three-quarter labelled \"After one use\": empty hands held loosely before abdomen with partly stiff open fingers and pale raised knuckles; can no longer lift tool crate, so NO crate held. Right upper two broad painted head studies \"Concentration\" and \"Refusal\". Right lower one enlarged pair of hands labelled \"Stiff hands\": ordinary fingers, pale prominent knuckles after exertion, no cuts or deformations. Small chalk, wedge and cord are portable tools only, cleanly isolated, no table.\nStory mechanics: senses and redistributes already-present stress in fired clay; hands stiffen after one redistribution. Clay remains hard. Absolutely NO visible magical glow, lines of light, aura, animated objects or house insignia. All effects bodily and understated.\nStyle: Canadian Group of Seven oil collection: bold connected color and value masses, directional opaque bristle strokes and selective palette-knife impasto; broad matte painted faces as decisively simplified as clothes, no smooth photographic face, no anime, CGI or glossy eyes. Warm subdued near planes and cool violet-gray connected shadows under soft natural late-morning daylight. No theatrical rim lighting, no universal orange/blue split, no uniformly bevel-lit paint chips.\nOnly character and tiny carried equipment on ivory. No locations, floor, ground patches, room, windows, furniture, landscape, scenery, swatches or palette strip. Exact names, concise functional labels, anatomical hands and uncut full forms.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:24:09.796857+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory.\nText verbatim upper left: \"Pelmara Jossan\" and below \"The Fourth House\".\nReferences: image 1 Coris sheet is PAINTING AND FOLIO STYLE ONLY, never identity or clothing. Image 2 cover gives Pelmara's compatible face, practical dark wavy pinned bun, mature tan/olive skin, work apron and cream shirt ONLY: entirely discard cover's glowing ribbons, sparkle, house emblems, gilded light, architecture and photorealism. Image 3 source room gives restrained late-morning window-light palette and broad oil rhythm only. Image 4 gives the short green-stained flanged fired ceramic coupling geometry/material only.\nCharacter: one adult human female pipe worker about 38, mature tan/olive angular face, expressive strong brows, brown eyes, dark wavy hair pinned in high practical bun with loose curls, strong ordinary work-worn body and callused hands. Worn brown leather work apron over cream rolled-sleeve linen shirt, dark trousers, sturdy boots. Same identity and proportions in all views.\nLayout: two large complete unclipped full-body views, separated by clear ivory. Left front three-quarter labelled \"Diagnosis\": holding short green-stained ceramic coupling at waist with two natural hands, thoughtful tactile inspection, no forceful bent pose. Center side/rear three-quarter labelled \"After one use\": empty hands held loosely before abdomen with partly stiff open fingers and pale raised knuckles; can no longer lift tool crate, so NO crate held. Right upper two broad painted head studies \"Concentration\" and \"Refusal\". Right lower one enlarged pair of hands labelled \"Stiff hands\": ordinary fingers, pale prominent knuckles after exertion, no cuts or deformations. Small chalk, wedge and cord are portable tools only, cleanly isolated, no table.\nStory mechanics: senses and redistributes already-present stress in fired clay; hands stiffen after one redistribution. Clay remains hard. Absolutely NO visible magical glow, lines of light, aura, animated objects or house insignia. All effects bodily and understated.\nStyle: Canadian Group of Seven oil collection: bold connected color and value masses, directional opaque bristle strokes and selective palette-knife impasto; broad matte painted faces as decisively simplified as clothes, no smooth photographic face, no anime, CGI or glossy eyes. Warm subdued near planes and cool violet-gray connected shadows under soft natural late-morning daylight. No theatrical rim lighting, no universal orange/blue split, no uniformly bevel-lit paint chips.\nOnly character and tiny carried equipment on ivory. No locations, floor, ground patches, room, windows, furniture, landscape, scenery, swatches or palette strip. Exact names, concise functional labels, anatomical hands and uncut full forms.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/title-image.jpg",
+                "role": "compatible Pelmara identity/clothing only; omit unsupported glow and architecture",
+                "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+                "role": "late-morning light palette and oil handling only",
+                "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+                "role": "green-stained ceramic coupling geometry only",
+                "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-f2901418-71d3-4e20-8ef1-958af318c502.png",
+            "outputSha256": "8cdfb27fa12f4fd6e1a0699c42d1a09178ff667a11743ee2a1f4bd24a167bd34",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:26:10.773263+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/title-image.jpg",
+            "role": "compatible Pelmara identity/clothing only; omit unsupported glow and architecture",
+            "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning light palette and oil handling only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+            "role": "green-stained ceramic coupling geometry only",
+            "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:26:10.773263+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "8cdfb27fa12f4fd6e1a0699c42d1a09178ff667a11743ee2a1f4bd24a167bd34",
+        "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/title-image.jpg",
+            "role": "compatible Pelmara identity/clothing only; omit unsupported glow and architecture",
+            "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning light palette and oil handling only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+            "role": "green-stained ceramic coupling geometry only",
+            "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: two complete unclipped adult work forms, consistent mature angular face and high wavy bun across body and expression views; anatomical hands, five fingers each in enlargement.",
+          "Diagnosis holds ceramic coupling; after-use empty partly stiff hands and pale knuckles reflect source cost. No glow, aura, house insignia or invented wounds.",
+          "Broad matte painted face/clothes, connected directional oil masses, restrained late-morning light. Exact name/title and clear state labels, warm ivory with no scenery or swatches."
+        ],
+        "specificationSha256": "9bfb2c1aaab0691dd1c394029a66eafca75c51ec30995581f5a0ac26b660db0b"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Pelmara Jossan"
+      },
+      "lighting": "Soft late-morning window daylight; restrained warm nearplanes, connected cool violet-gray shadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "8cdfb27fa12f4fd6e1a0699c42d1a09178ff667a11743ee2a1f4bd24a167bd34"
+    },
+    {
+      "id": "beral-quor",
+      "name": "Beral Quor",
+      "role": "Living giver who recalls his clay-softening gift and refuses to claim Pelmara's new faculty.",
+      "selectionEvidence": [
+        {
+          "quote": "His grey lips never had.",
+          "line": 35,
+          "explanation": "Explicit cold body sign before withdrawal."
+        },
+        {
+          "quote": "Beral unbuttoned his coat. A little color had come back to his mouth.",
+          "line": 83,
+          "explanation": "Warmth returns after gift recall."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult, two arms/two legs.",
+        "lifeStage": "Adult, age not specified.",
+        "proportions": "Natural human adult proportions.",
+        "markings": "Gray lips while cold; warmth/flush returns at hands, wrists, collar and face.",
+        "materials": "Human skin/hair, practical cloth and leather; portable clay/tools as specified.",
+        "clothing": "Coat buttoned to neck while cold, unbuttoned then carried after heat returns.",
+        "equipment": "Warm-water vessel during assistance; fired clay strip.",
+        "scale": "Human adult scale.",
+        "movement": "Gentle precise hand contact and breathing during recall, practical assistance afterward.",
+        "distinctiveFeatures": "No full facial description in prose."
+      },
+      "explicitCanon": [
+        "Man whose living gift of clay softening had been supplied for ten years.",
+        "Before recall coat buttoned to neck despite warm room, gray lips.",
+        "After recall returns bodily warmth; flush and improved lip color, coat removed.",
+        "No object glow; no power over Pelmara's own faculty."
+      ],
+      "visualInterpretation": [
+        "About48, pale skin, long narrow face, fine straight brown hair graying at temples, clean-shaven, tall slim frame.",
+        "Plain deep umber wool coat over muted moss shirt and charcoal trousers/boots.",
+        "Temperature change through skin color/posture, never magical aura."
+      ],
+      "states": [
+        {
+          "name": "Before recall",
+          "description": "Cold gray lips, coat fastened to neck."
+        },
+        {
+          "name": "Returned heat",
+          "description": "Natural flush and lip color, coat open/over arm."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "fourth-house:beral-quor",
+        "links": [],
+        "evidence": "No matching shared-universe names or recurring identity established."
+      },
+      "references": [
+        {
+          "path": "stories/fourth-house/title-image.jpg",
+          "role": "Pelmara compatible face/hair/work-apron identity only",
+          "inspected": true,
+          "notes": "Dark curly pinned bun, mature tan/olive face, cream rolled sleeves and worn apron useful. Golden ribbons, luminous effects and house emblems conflict with explicit prose 'Nothing in the room lit' and are not used.",
+          "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/01-source-room.png",
+          "role": "late-morning daylight palette and oil rhythm only",
+          "inspected": true,
+          "notes": "Warm window daylight and quiet violet-gray shadow, matte clay/wood; no room transferred.",
+          "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "role": "clay coupling geometry/material and oil handling only",
+          "inspected": true,
+          "notes": "Short flanged green-stained ceramic coupling, matte fired clay. Frame/table do not belong to character sheet.",
+          "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte painted character and clean ivory format; no identity/clothing borrowing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/fourth-house/art/characters/beral-quor.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Beral Quor\" and \"The Fourth House\". One adult human man about 48, pale skin, long narrow somewhat tired face, fine straight brown hair graying at temples, clean-shaven, tall slim natural adult proportions, ordinary ears/eyes. Plain deep umber knee-length wool coat, muted moss-green shirt, charcoal trousers and dark practical boots. Image 2 gives source-room soft late-morning window daylight and quiet violet-gray shadows only, never setting. LEFT complete frontthreequarter \"Before recall\": coat buttoned all the way to neck despite a warm room, shoulders slightly hunched, gray lips, hands drawn close. CENTER complete front/side view \"Returned heat\": exact same face/hair/body, coat REMOVED and carried over one forearm, moss shirt plainly visible, naturally pinker lips and modest warm flush at wrists and collar, posture easier. This is bodily warmth after his supplied clay-softening gift is recalled, never fire or visible magical light. Right upper matched head studies \"Cold\" and \"Warm\" with same anatomy but gray vs ordinary rosy lips. Right lower small isolated plain warm-water vessel and a short curved FIRED CLAY strip, no basin or table. Source softening can bend fired clay under living touch, but show no magical effects and do not suggest objects alive. Two arms/two legs per full view, all limbs coherent, boots fully visible. Natural quiet daylight on both states, color change restricted to appropriate skin and posture. Ivory only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:26:28.780015+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Beral Quor\" and \"The Fourth House\". One adult human man about 48, pale skin, long narrow somewhat tired face, fine straight brown hair graying at temples, clean-shaven, tall slim natural adult proportions, ordinary ears/eyes. Plain deep umber knee-length wool coat, muted moss-green shirt, charcoal trousers and dark practical boots. Image 2 gives source-room soft late-morning window daylight and quiet violet-gray shadows only, never setting. LEFT complete frontthreequarter \"Before recall\": coat buttoned all the way to neck despite a warm room, shoulders slightly hunched, gray lips, hands drawn close. CENTER complete front/side view \"Returned heat\": exact same face/hair/body, coat REMOVED and carried over one forearm, moss shirt plainly visible, naturally pinker lips and modest warm flush at wrists and collar, posture easier. This is bodily warmth after his supplied clay-softening gift is recalled, never fire or visible magical light. Right upper matched head studies \"Cold\" and \"Warm\" with same anatomy but gray vs ordinary rosy lips. Right lower small isolated plain warm-water vessel and a short curved FIRED CLAY strip, no basin or table. Source softening can bend fired clay under living touch, but show no magical effects and do not suggest objects alive. Two arms/two legs per full view, all limbs coherent, boots fully visible. Natural quiet daylight on both states, color change restricted to appropriate skin and posture. Ivory only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; do not reuse face or clothing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+                "role": "late-morning daylight palette and oil handling only; no room transferred",
+                "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0084332-9e6f-4814-b489-45a9df28684e.png",
+            "outputSha256": "debaf4f8fcebf42b6e9cc9278fe4f5750b72ab12df45dfbc48766129e3ae2917",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:27:44.876420+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; do not reuse face or clothing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning daylight palette and oil handling only; no room transferred",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:27:44.876420+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "debaf4f8fcebf42b6e9cc9278fe4f5750b72ab12df45dfbc48766129e3ae2917",
+        "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; do not reuse face or clothing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning daylight palette and oil handling only; no room transferred",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same long narrow clean-shaven face, graying brown hair and tall slim proportions across both full forms and paired head views; all limbs coherent and boots unclipped.",
+          "Before recall coat fastened to neck and gray lips contrast with removed coat, moss shirt, eased stance and warmer lips/skin after heat returns. No magical glow or unsupported powers.",
+          "Ordinary warm-water vessel and curved fired clay strip are isolated equipment; exact name/title and state labels, broad matte face/cloth oil planes, subdued morning light, ivory only with no scenery or swatches."
+        ],
+        "specificationSha256": "d05b96373a5259dbbf961cba400d8f79e8e36229eec30d99943ba5decd9c63eb"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Beral Quor"
+      },
+      "lighting": "Soft late-morning window daylight; ordinary skin grayness before recall and warm flush after recall.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "debaf4f8fcebf42b6e9cc9278fe4f5750b72ab12df45dfbc48766129e3ae2917"
+    },
+    {
+      "id": "ishket",
+      "name": "Ishket",
+      "role": "Studied examiner who conducts tests and maintains safety/insurance objections.",
+      "selectionEvidence": [
+        {
+          "quote": "only a leather cuff crosshatched with old burns.",
+          "line": 109,
+          "explanation": "Specific equipment, explicitly no house colors."
+        },
+        {
+          "quote": "My safety objection remains.",
+          "line": 345,
+          "explanation": "Sustained counterpressure after provisional license."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult, two arms/two legs.",
+        "lifeStage": "Adult, age not specified.",
+        "proportions": "Natural human adult proportions.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, practical cloth and leather; portable clay/tools as specified.",
+        "clothing": "No house colors; leather cuff crosshatched with old burns.",
+        "equipment": "Calipers, frame readings and standard fired-clay strips; large load frame itself excluded as setting apparatus.",
+        "scale": "Human adult scale.",
+        "movement": "Demonstrates precise left-hand sequence and careful measurements.",
+        "distinctiveFeatures": "Old burn crosshatching belongs to leather cuff, not skin."
+      },
+      "explicitCanon": [
+        "Male Studied examiner.",
+        "No house colors; leather cuff with old burn marks.",
+        "Uses calipers and frame records, demonstrates left hand.",
+        "Cannot reproduce Pelmara's stress perception by instruction."
+      ],
+      "visualInterpretation": [
+        "About50, medium brown skin, compact broad face, short receding black hair, neat dark mustache; average build.",
+        "Unadorned charcoal work coat and gray shirt/trousers, cuff on left wrist as restrained placement choice.",
+        "Soft morning daylight without stage effects."
+      ],
+      "states": [
+        {
+          "name": "Assessment",
+          "description": "Complete work posture and source tools."
+        },
+        {
+          "name": "Practical support",
+          "description": "Same identity in alternate work view."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "fourth-house:ishket",
+        "links": [],
+        "evidence": "No matching shared-universe names or recurring identity established."
+      },
+      "references": [
+        {
+          "path": "stories/fourth-house/title-image.jpg",
+          "role": "Pelmara compatible face/hair/work-apron identity only",
+          "inspected": true,
+          "notes": "Dark curly pinned bun, mature tan/olive face, cream rolled sleeves and worn apron useful. Golden ribbons, luminous effects and house emblems conflict with explicit prose 'Nothing in the room lit' and are not used.",
+          "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/01-source-room.png",
+          "role": "late-morning daylight palette and oil rhythm only",
+          "inspected": true,
+          "notes": "Warm window daylight and quiet violet-gray shadow, matte clay/wood; no room transferred.",
+          "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "role": "clay coupling geometry/material and oil handling only",
+          "inspected": true,
+          "notes": "Short flanged green-stained ceramic coupling, matte fired clay. Frame/table do not belong to character sheet.",
+          "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte painted character and clean ivory format; no identity/clothing borrowing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/fourth-house/art/characters/ishket.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this existing Ishket character sheet with ONE targeted correction: the CENTER full-body \"Transfer sequence\" pose currently uses the wrong arm. Replace only that center pose with a FRONT three-quarter view of precisely the same man, facing mostly toward the viewer with a slight turn to image right. His anatomical LEFT shoulder/arm is on the viewer's RIGHT; extend that LEFT forearm toward image right, wearing the same burn-crosshatched brown leather cuff on his LEFT wrist, with left thumb and two fingers gently demonstrating. His anatomical RIGHT hand rests low at his side with NO cuff. Preserve head, face, proportions, charcoal coat/gray shirt/trousers and full boots. Keep one cuff consistently on the LEFT wrist in the left main figure and wrist detail too; the wrist detail must anatomically be a LEFT hand viewed from the back, its thumb on the viewer's RIGHT. Burn marks belong to leather only, skin intact. Do not mirror or change the heading, faces, tools or other text. Preserve the exact upper-left \"Ishket\" / \"The Fourth House\", the existing broad matte Canadian Group of Seven-inspired directional impasto oils, quiet late-morning light, two serious mustached head studies, calipers and fired-clay strip, all layout positions and labels. No other changes. Same warm ivory 1536x1024 landscape, character only, no scenery or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T02:28:07.163678+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Ishket\" and \"The Fourth House\". One adult human man about 50, medium brown skin, compact broad square face, short receding black hair, neat dark mustache, broad nose, average stocky working build. Keep this identity distinct from the reference woman. Unadorned CHARCOAL work coat over GRAY shirt and trousers, practical black shoes. No house colors or insignia. His only specified ornament is a leather cuff on LEFT wrist crosshatched with old burn marks: the BURNS ARE IN THE LEATHER, his skin is intact. Left large frontthreequarter complete form labelled \"Examiner\": holds ordinary metal calipers and small paper record, methodical serious attention. Center complete rear/side view labelled \"Transfer sequence\": left forearm extended naturally, left thumb and two fingers make a controlled teaching demonstration in empty air, no object or light. Right upper same broad mustached head in \"Questioning\" and \"Objection\" expressions, differing subtly, restrained not villainous. Right lower enlarged LEFT wrist showing plain old brown leather cuff with dark crosshatched burn scoring; nearby isolated small plain calipers and straight fired-clay test strip only. These tools are ordinary nonliving objects. Do not draw a load frame or table. Source-room reference light only: soft natural late-morning window daylight, restrained warm planes and connected cool violet-gray shadows; matte oils and lost edges. No magical effects, glowing lines, house emblems, scenery, swatches or palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; no face or clothing borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+                "role": "late-morning light palette and oil handling only",
+                "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dd6ea5c6-ed54-419c-bb06-daac172a4938.png",
+            "reviewFindings": [
+              "Rear demonstration reverses the cuff arm; source requires left-hand demonstration. Correct center pose and detail to anatomical left, retain accepted face/style/text."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:29:41.545595+00:00",
+            "prompt": "Edit this existing Ishket character sheet with ONE targeted correction: the CENTER full-body \"Transfer sequence\" pose currently uses the wrong arm. Replace only that center pose with a FRONT three-quarter view of precisely the same man, facing mostly toward the viewer with a slight turn to image right. His anatomical LEFT shoulder/arm is on the viewer's RIGHT; extend that LEFT forearm toward image right, wearing the same burn-crosshatched brown leather cuff on his LEFT wrist, with left thumb and two fingers gently demonstrating. His anatomical RIGHT hand rests low at his side with NO cuff. Preserve head, face, proportions, charcoal coat/gray shirt/trousers and full boots. Keep one cuff consistently on the LEFT wrist in the left main figure and wrist detail too; the wrist detail must anatomically be a LEFT hand viewed from the back, its thumb on the viewer's RIGHT. Burn marks belong to leather only, skin intact. Do not mirror or change the heading, faces, tools or other text. Preserve the exact upper-left \"Ishket\" / \"The Fourth House\", the existing broad matte Canadian Group of Seven-inspired directional impasto oils, quiet late-morning light, two serious mustached head studies, calipers and fired-clay strip, all layout positions and labels. No other changes. Same warm ivory 1536x1024 landscape, character only, no scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dd6ea5c6-ed54-419c-bb06-daac172a4938.png",
+                "role": "edit target; preserve accepted identity, oil rendering, folio and objects, correct anatomical left cuff/teaching pose",
+                "sha256": "f3c335e122625c821b490ab59f4d1e875a7b4386a07639b9ef770473ab7b00d0",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-924524c0-e912-43ba-8195-116df937c566.png",
+            "outputSha256": "219651e50f8f738908de6686848c1778ed359ad302e096c879781cca86d26e96",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:31:02.596449+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dd6ea5c6-ed54-419c-bb06-daac172a4938.png",
+            "role": "edit target; preserve accepted identity, oil rendering, folio and objects, correct anatomical left cuff/teaching pose",
+            "sha256": "f3c335e122625c821b490ab59f4d1e875a7b4386a07639b9ef770473ab7b00d0",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:31:02.596449+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "219651e50f8f738908de6686848c1778ed359ad302e096c879781cca86d26e96",
+        "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dd6ea5c6-ed54-419c-bb06-daac172a4938.png",
+            "role": "edit target; preserve accepted identity, oil rendering, folio and objects, correct anatomical left cuff/teaching pose",
+            "sha256": "f3c335e122625c821b490ab59f4d1e875a7b4386a07639b9ef770473ab7b00d0",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: consistent broad mustached examiner identity and stocky proportions across complete full-body views and paired heads; no clipped boots or anomalous limbs.",
+          "Corrected center view now extends anatomical left hand, cuff matches front figure's left wrist; crosshatched burn marks clearly belong to leather, intact skin. Ordinary calipers, record and fired-clay strip retained.",
+          "Exact name/title, concise labels, unadorned charcoal/gray clothing, broad matte oil faces and restrained morning light; warm ivory without setting, glow or swatches."
+        ],
+        "specificationSha256": "d1c6476078178a8f6a9b1886803b310148ff079057e95ba6548056eca2503b47"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Ishket"
+      },
+      "lighting": "Soft late-morning window daylight with restrained warm planes and cool violet-gray shadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "219651e50f8f738908de6686848c1778ed359ad302e096c879781cca86d26e96"
+    },
+    {
+      "id": "uvena",
+      "name": "Uvena",
+      "role": "Examiner of inherited history and practical advocate for Pelmara's safety.",
+      "selectionEvidence": [
+        {
+          "quote": "No developmental onset. No known recurrence.",
+          "line": 173,
+          "explanation": "Rules out current Inherited certification."
+        },
+        {
+          "quote": "Uvena took the coupling’s whole weight.",
+          "line": 283,
+          "explanation": "Sustained direct assistance during dangerous hand lock."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult, two arms/two legs.",
+        "lifeStage": "Adult, age not specified.",
+        "proportions": "Natural human adult proportions.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, practical cloth and leather; portable clay/tools as specified.",
+        "clothing": "Practical civic/work clothing; exact designs interpreted.",
+        "equipment": "Observation card, wrapped coupling, cloth and warm-water assistance.",
+        "scale": "Human adult scale.",
+        "movement": "Crouches for inspection, supports coupling without pulling stiff hands, halts questioning.",
+        "distinctiveFeatures": "No full facial description in prose."
+      },
+      "explicitCanon": [
+        "Woman, examines developmental/family history.",
+        "Uses observation card, supports and wraps coupling.",
+        "Insists on waiting when worker in pain and asks safe capacity."
+      ],
+      "visualInterpretation": [
+        "About52, fair lightly freckled skin, broad kind face, gray-blond hair braided low, sturdy average build.",
+        "Muted russet plain jacket over cream blouse, dark brown skirt and flat shoes.",
+        "No house emblems or inherited-family insignia invented."
+      ],
+      "states": [
+        {
+          "name": "Assessment",
+          "description": "Complete work posture and source tools."
+        },
+        {
+          "name": "Practical support",
+          "description": "Same identity in alternate work view."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "fourth-house:uvena",
+        "links": [],
+        "evidence": "No matching shared-universe names or recurring identity established."
+      },
+      "references": [
+        {
+          "path": "stories/fourth-house/title-image.jpg",
+          "role": "Pelmara compatible face/hair/work-apron identity only",
+          "inspected": true,
+          "notes": "Dark curly pinned bun, mature tan/olive face, cream rolled sleeves and worn apron useful. Golden ribbons, luminous effects and house emblems conflict with explicit prose 'Nothing in the room lit' and are not used.",
+          "sha256": "d6d3826d85b2fd075aaedd52264f536b00fbe7cefdcb1e60818d89cdbb956b99"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/01-source-room.png",
+          "role": "late-morning daylight palette and oil rhythm only",
+          "inspected": true,
+          "notes": "Warm window daylight and quiet violet-gray shadow, matte clay/wood; no room transferred.",
+          "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8"
+        },
+        {
+          "path": "stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+          "role": "clay coupling geometry/material and oil handling only",
+          "inspected": true,
+          "notes": "Short flanged green-stained ceramic coupling, matte fired clay. Frame/table do not belong to character sheet.",
+          "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte painted character and clean ivory format; no identity/clothing borrowing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/fourth-house/art/characters/uvena.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Uvena\" and \"The Fourth House\". One adult human woman about52 with FAIR lightly freckled skin, broad kind face, wide cheekbones, gray-blond hair in a LOW braided coil at nape, brown eyes, sturdy average build. Clearly mature, not reference woman's face. Practical muted RUSSET plain jacket, cream blouse, dark brown full-length skirt and flat dark leather shoes. No insignia or house colors. LEFT complete frontthreequarter \"Assessment\": ordinary observation card and pen in hands, direct watchful expression. CENTER complete side/back threequarter \"Practical support\": holds a cloth-wrapped short green-stained ceramic coupling securely underneath with both hands; chipped outer flange stays visible, supports all weight. Same identity, low braid and clothes in all views. No second person or injured hands in this sheet. Right upper two broad painted head studies \"Listening\" and \"Enough\", ordinary concentration and calm firm boundary, no anger caricature. Right lower small isolated observation card and folded offwhite cloth. References2/3 source-room palette and coupling only, not a location: soft late-morning window daylight, connected muted violet-gray shadows, broad matte natural skin. Correct adult anatomy, unclipped forms, the coupling ordinary inert fired clay. No glow, house emblems, magic effects, scenery, floor, furniture, swatches or palette strips.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:31:03.585020+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Uvena\" and \"The Fourth House\". One adult human woman about52 with FAIR lightly freckled skin, broad kind face, wide cheekbones, gray-blond hair in a LOW braided coil at nape, brown eyes, sturdy average build. Clearly mature, not reference woman's face. Practical muted RUSSET plain jacket, cream blouse, dark brown full-length skirt and flat dark leather shoes. No insignia or house colors. LEFT complete frontthreequarter \"Assessment\": ordinary observation card and pen in hands, direct watchful expression. CENTER complete side/back threequarter \"Practical support\": holds a cloth-wrapped short green-stained ceramic coupling securely underneath with both hands; chipped outer flange stays visible, supports all weight. Same identity, low braid and clothes in all views. No second person or injured hands in this sheet. Right upper two broad painted head studies \"Listening\" and \"Enough\", ordinary concentration and calm firm boundary, no anger caricature. Right lower small isolated observation card and folded offwhite cloth. References2/3 source-room palette and coupling only, not a location: soft late-morning window daylight, connected muted violet-gray shadows, broad matte natural skin. Correct adult anatomy, unclipped forms, the coupling ordinary inert fired clay. No glow, house emblems, magic effects, scenery, floor, furniture, swatches or palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; no face or clothing borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+                "role": "late-morning light palette and broad oil handling only",
+                "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+                "role": "green-stained ceramic coupling geometry/material only",
+                "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-2f2b2bfd-ed44-46f1-b644-123fd9667445.png",
+            "outputSha256": "dd55782380343ddde26494c3c4ac44573b0dc886fa20cac8dae051fc710a79ce",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:32:27.243608+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; no face or clothing borrowing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning light palette and broad oil handling only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+            "role": "green-stained ceramic coupling geometry/material only",
+            "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:32:27.243608+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "dd55782380343ddde26494c3c4ac44573b0dc886fa20cac8dae051fc710a79ce",
+        "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; no face or clothing borrowing",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/01-source-room.png",
+            "role": "late-morning light palette and broad oil handling only",
+            "sha256": "50d7da1b9d07ba7c7f25d50292963820f014f197eeeec4f70ab5cee6f2290ed8",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/fourth-house/art/interiors/03-coupling-and-load-frame.png",
+            "role": "green-stained ceramic coupling geometry/material only",
+            "sha256": "bb3304fea0c7e14459ceb5a38505e44d999cc8b03aa0797cfc0e05226613ecf7",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: mature broad-faced woman with consistent gray-blond low braid, russet jacket, sturdy proportions and complete unclipped forms across front/support views and paired expressions.",
+          "Observation card/pen and securely cloth-supported green ceramic coupling reflect source actions, paired hands support weight without another character, ordinary inert tools only.",
+          "Exact name/title and useful labels, broad matte oil face and directional cloth paint, restrained natural morning light, warm ivory character-only field with no scenery or swatches."
+        ],
+        "specificationSha256": "1603a239991ccfeac46a726fb71ce00171d4db1bb8255683195223eadd88ac67"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Uvena"
+      },
+      "lighting": "Soft late-morning window daylight; warm subdued planes, cool violet-gray shadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "dd55782380343ddde26494c3c4ac44573b0dc886fa20cac8dae051fc710a79ce"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "7d2bdf82f7ec3a5e60579573dbd0fea31a910755a7fa6330f91b332e9a140ca4",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
