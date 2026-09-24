@@ -1,0 +1,513 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-trouble-with-tuesdays",
+  "title": "The Trouble With Tuesdays",
+  "source": "stories/the-trouble-with-tuesdays/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete final bundle prose and prompt read. Eli, Mae, the Time-title visitor and adult Rose each drive the watch's consequential uses, refusal and continuing cycle. Source/universe clarify personhood and limits; art does not assert visitor godhood or a true name.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Grandfather, Aunt Linda, Mara, drivers/courier and reported card-game figure",
+      "reason": "Offstage/background causes or brief examples, without sustained narrative agency in the primary story. The watch is explicitly nonliving equipment, not a cast identity."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md: Eli Fenwick, Mae, Rose, The woman claiming the Goddess of Time title",
+    "universe/rules.md: Fenwick watch, overwrite, ownership audit and tea-window entries"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual source cover inspected: scratched copper pocket watch with oversized stem in shoebox, no people. Pocket-watch exterior only; its photographic rendering and reflected symbolic chair are not used. Same-story kitchen painting actually inspected for practical-night light and connected oil masses.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "eli-fenwick",
+      "name": "Eli Fenwick",
+      "role": "Focal watch-holder who repeatedly tries to save Mae, confronts the harm and chooses not to activate again.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "He had also not shaved, opened the curtains, or washed the two cups beside the sink.",
+          "explanation": "Focal watch-holder who repeatedly tries to save Mae, confronts the harm and chooses not to activate again."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Younger brother of Mae, uncle of Rose; visibly unshaven/grieving at the tea visit, owns scratched copper pocket watch with oversized stem. Does not touch it again after the visit."
+      },
+      "explicitCanon": [
+        "Younger brother of Mae, uncle of Rose; visibly unshaven/grieving at the tea visit, owns scratched copper pocket watch with oversized stem. Does not touch it again after the visit."
+      ],
+      "visualInterpretation": [
+        "Tea-visit interpretation: apparent33, slender stooped body, light freckled skin, narrow long nose, unruly short auburn hair and ginger-brown stubble; navy cotton pullover and rumpled tan trousers, plain worn slippers."
+      ],
+      "states": [
+        {
+          "name": "Seven Tuesdays after Mae's death",
+          "description": "Younger brother of Mae, uncle of Rose; visibly unshaven/grieving at the tea visit, owns scratched copper pocket watch with oversized stem. Does not touch it again after the visit."
+        }
+      ],
+      "lighting": "Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Eli Fenwick"
+      },
+      "status": "completed",
+      "output": "stories/the-trouble-with-tuesdays/art/characters/eli-fenwick.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Eli Fenwick\". Adult man apparent33, slim slightly stooped build, light freckled skin, long narrow nose, short unruly AUBURN hair, clear ginger-brown stubble. Grieving restless expression, tired painted eye sockets. Plain navy cotton pullover, rumpled tan trousers, worn soft dark house slippers. First full view quietly holds a small scratched COPPER POCKET WATCH in one hand without pressing it; other view shows same clothes/back. No wristwatch. Small separate detail of copper pocket-watch face with three hands and an oversized stem, no fantastical glow or personification. Portrait shows listening remorse. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+            "inspected": true,
+            "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+            "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Eli Fenwick\". Adult man apparent33, slim slightly stooped build, light freckled skin, long narrow nose, short unruly AUBURN hair, clear ginger-brown stubble. Grieving restless expression, tired painted eye sockets. Plain navy cotton pullover, rumpled tan trousers, worn soft dark house slippers. First full view quietly holds a small scratched COPPER POCKET WATCH in one hand without pressing it; other view shows same clothes/back. No wristwatch. Small separate detail of copper pocket-watch face with three hands and an oversized stem, no fantastical glow or personification. Portrait shows listening remorse. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+            "references": [
+              {
+                "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+                "inspected": true,
+                "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+                "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "inspected": true,
+                "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+                "inspected": true,
+                "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+                "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset.",
+            "startedAt": "2026-09-24T12:11:55.426433+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-d51dd415-d259-48a0-a39e-1b688da5df56.png",
+            "outputSha256": "cb7740075d06a77a556b369f2fa92f709ecb6202a00c6393e3079b135815d129",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:25:35.995562+00:00",
+            "generatorReview": "Actual pixels inspected: coherent unshaven auburn/freckled adult Eli, navy pullover/tan trousers and house footwear; two complete repeated views, weary portrait and source-compatible scratched copper pocket watch with oversized stem/three hands. Broad directional matte oil across face/clothes, warm practical lamp planes and cooler shadows, ivory spacing and exact text pass. No living watch effects."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset."
+      },
+      "outputSha256": "cb7740075d06a77a556b369f2fa92f709ecb6202a00c6393e3079b135815d129",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:25:35.995562+00:00",
+        "sourceSha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a",
+        "outputSha256": "cb7740075d06a77a556b369f2fa92f709ecb6202a00c6393e3079b135815d129",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+            "inspected": true,
+            "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+            "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+          }
+        ],
+        "evidence": "Actual pixels inspected: coherent unshaven auburn/freckled adult Eli, navy pullover/tan trousers and house footwear; two complete repeated views, weary portrait and source-compatible scratched copper pocket watch with oversized stem/three hands. Broad directional matte oil across face/clothes, warm practical lamp planes and cooler shadows, ivory spacing and exact text pass. No living watch effects.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "0d880d7a2c6a379451d5aeb54af05e75b5f1185c3ff3e3d6abff5fee0170aca8"
+      }
+    },
+    {
+      "id": "mae",
+      "name": "Mae",
+      "role": "Eli's older sister whose consented continuing post-death self remembers all thirty-one deaths and chooses to end their conversation.",
+      "form": "Adult human woman in an intact person-like tea-window appearance",
+      "selectionEvidence": [
+        {
+          "quote": "She wore the blue jumper from the week before April twenty-second",
+          "explanation": "Eli's older sister whose consented continuing post-death self remembers all thirty-one deaths and chooses to end their conversation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Older sister of Eli, mother of Rose. Blue jumper at consented tea window, hair tucked behind one ear, tightly folded hands, crooked smile. Same continuing self, not copy/recording; no asserted mechanism or translucent body."
+      },
+      "explicitCanon": [
+        "Older sister of Eli, mother of Rose. Blue jumper at consented tea window, hair tucked behind one ear, tightly folded hands, crooked smile. Same continuing self, not copy/recording; no asserted mechanism or translucent body."
+      ],
+      "visualInterpretation": [
+        "Apparent36, light freckled skin, softly square face, auburn shoulder-length hair, green-brown eyes; ordinary blue knit jumper, dark charcoal trousers and low brown shoes. Similar broad family colouring to Eli without copying face."
+      ],
+      "states": [
+        {
+          "name": "Consented three-minute tea window",
+          "description": "Older sister of Eli, mother of Rose. Blue jumper at consented tea window, hair tucked behind one ear, tightly folded hands, crooked smile. Same continuing self, not copy/recording; no asserted mechanism or translucent body."
+        }
+      ],
+      "lighting": "Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Mae"
+      },
+      "status": "completed",
+      "output": "stories/the-trouble-with-tuesdays/art/characters/mae.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Mae\". Adult woman apparent36, light freckled skin, softly square face, shoulder-length auburn hair tucked behind one ear in an impatient curve, small green-brown eyes. Older sister of Eli; same broad family colouring, her face fuller with strong brows and a crooked wry smile. Ordinary BLUE KNIT JUMPER, charcoal trousers, low brown shoes. Two full-body views and two small facial moods \"Guarded\" and \"Crooked smile\"; hands naturally folded before body, no detached hands. She appears completely intact and opaque, a present continuing person, no ghost aura/transparency/corpse wounds or magical costume. No cup/props required. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Mae\". Adult woman apparent36, light freckled skin, softly square face, shoulder-length auburn hair tucked behind one ear in an impatient curve, small green-brown eyes. Older sister of Eli; same broad family colouring, her face fuller with strong brows and a crooked wry smile. Ordinary BLUE KNIT JUMPER, charcoal trousers, low brown shoes. Two full-body views and two small facial moods \"Guarded\" and \"Crooked smile\"; hands naturally folded before body, no detached hands. She appears completely intact and opaque, a present continuing person, no ghost aura/transparency/corpse wounds or magical costume. No cup/props required. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+            "references": [
+              {
+                "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+                "inspected": true,
+                "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+                "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "inspected": true,
+                "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset.",
+            "startedAt": "2026-09-24T12:11:55.426433+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-715a7932-ebb5-4e1e-b081-dc1f1ddac8fd.png",
+            "outputSha256": "eb40371d4a9697ae5b471949fb7659493cf2e2b003581a4ba88ed1d148484bf4",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:25:35.995562+00:00",
+            "generatorReview": "Actual pixels inspected: consistent adult Mae with blue jumper, one-ear-tucked auburn hair, folded hands and guarded/crooked-smile expressions. Entirely opaque intact continuing self, not ghost/copy. Broad oil facial planes and warm kitchen practical-light colour with cool shadow, two complete views, character-only ivory and exact name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset."
+      },
+      "outputSha256": "eb40371d4a9697ae5b471949fb7659493cf2e2b003581a4ba88ed1d148484bf4",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:25:35.995562+00:00",
+        "sourceSha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a",
+        "outputSha256": "eb40371d4a9697ae5b471949fb7659493cf2e2b003581a4ba88ed1d148484bf4",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent adult Mae with blue jumper, one-ear-tucked auburn hair, folded hands and guarded/crooked-smile expressions. Entirely opaque intact continuing self, not ghost/copy. Broad oil facial planes and warm kitchen practical-light colour with cool shadow, two complete views, character-only ivory and exact name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e9c4060533ca679a22fc2b6c0df5f42a5b562c64a1aac94037db4f18dac0d064"
+      }
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "role": "Mae's grown daughter and Eli's niece; finds the unlabelled watch and initiates the final nine-day overwrite.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She was grown now. Grief made her feel nine years old.",
+          "explanation": "Mae's grown daughter and Eli's niece; finds the unlabelled watch and initiates the final nine-day overwrite."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Grown adult after many years. Finds shoebox with six keys, cufflinks, pencil stub, cards, scratched copper watch; activates by sustained living grip. No child state in the final scene."
+      },
+      "explicitCanon": [
+        "Grown adult after many years. Finds shoebox with six keys, cufflinks, pencil stub, cards, scratched copper watch; activates by sustained living grip. No child state in the final scene."
+      ],
+      "visualInterpretation": [
+        "Adult apparent32; fair freckled skin, rounded face and curly auburn chin-length hair with a subtly different face from Mae; worn burgundy cardigan, cream tee, faded blue jeans and flat brown ankle shoes. Exact age/appearance are art-only."
+      ],
+      "states": [
+        {
+          "name": "Finding the watch / returned Sunday morning",
+          "description": "Grown adult after many years. Finds shoebox with six keys, cufflinks, pencil stub, cards, scratched copper watch; activates by sustained living grip. No child state in the final scene."
+        }
+      ],
+      "lighting": "Sunday morning window light: restrained warm pale facing planes and substantial cool grey-blue shadows; ordinary grief, no fantasy glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Rose"
+      },
+      "status": "completed",
+      "output": "stories/the-trouble-with-tuesdays/art/characters/rose.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Rose\". One clearly ADULT woman apparent32, fair freckled skin, rounded face, curly auburn CHIN-LENGTH hair, hazel-brown eyes. Familiar family colouring from Mae, distinct broader cheek shape and younger adulthood. Worn burgundy cardigan over cream T-shirt, faded blue jeans and plain flat brown ankle shoes. One front-three-quarter full body holds scratched copper POCKET WATCH close, shoulders tense with fresh grief; second full rear-three-quarter shows consistent hair/clothes. Larger portrait attentive/stunned, no magical eyes. Small object study copper pocket watch with oversized stem and three hands plus the plain closed shoebox; no other objects necessary. No wristwatch. Label only \"Returned Sunday\" near portrait. Ordinary soft Sunday-morning window light, pale warm highlights and broad cool grey-blue shadow. Ivory ground stays uniform, no actual window or room.",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+            "inspected": true,
+            "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+            "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Rose\". One clearly ADULT woman apparent32, fair freckled skin, rounded face, curly auburn CHIN-LENGTH hair, hazel-brown eyes. Familiar family colouring from Mae, distinct broader cheek shape and younger adulthood. Worn burgundy cardigan over cream T-shirt, faded blue jeans and plain flat brown ankle shoes. One front-three-quarter full body holds scratched copper POCKET WATCH close, shoulders tense with fresh grief; second full rear-three-quarter shows consistent hair/clothes. Larger portrait attentive/stunned, no magical eyes. Small object study copper pocket watch with oversized stem and three hands plus the plain closed shoebox; no other objects necessary. No wristwatch. Label only \"Returned Sunday\" near portrait. Ordinary soft Sunday-morning window light, pale warm highlights and broad cool grey-blue shadow. Ivory ground stays uniform, no actual window or room.",
+            "references": [
+              {
+                "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+                "inspected": true,
+                "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+                "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "inspected": true,
+                "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+                "inspected": true,
+                "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+                "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset.",
+            "startedAt": "2026-09-24T12:11:55.426433+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-f0985e87-caf2-4427-97ac-41094826d6c4.png",
+            "outputSha256": "149232845270881c56c3073feaf94b4e3afe17dded0b9c6c16cd064d69d87c4f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:25:35.995562+00:00",
+            "generatorReview": "Actual pixels inspected: unmistakably grown Rose, family auburn/freckled cues but distinct curly bob/rounder face, burgundy cardigan/cream shirt/jeans repeated consistently. Oversized-stem copper pocket watch matches Eli's; no invented sentience. Sunday light, broad oil across face/clothes, ivory and readable exact titles pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset."
+      },
+      "outputSha256": "149232845270881c56c3073feaf94b4e3afe17dded0b9c6c16cd064d69d87c4f",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:25:35.995562+00:00",
+        "sourceSha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a",
+        "outputSha256": "149232845270881c56c3073feaf94b4e3afe17dded0b9c6c16cd064d69d87c4f",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/the-trouble-with-tuesdays/title-image.jpg",
+            "inspected": true,
+            "role": "Actual source pocket watch silhouette/material only; no reflective scene or rendering.",
+            "sha256": "51a5b7295533f702e9eeab7763e9386d2c8324c4fa55727ab298f4c4e036473f"
+          }
+        ],
+        "evidence": "Actual pixels inspected: unmistakably grown Rose, family auburn/freckled cues but distinct curly bob/rounder face, burgundy cardigan/cream shirt/jeans repeated consistently. Oversized-stem copper pocket watch matches Eli's; no invented sentience. Sunday light, broad oil across face/clothes, ivory and readable exact titles pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "3a5dd3ca85c9c864265cb105a998f9c243862a7b7fbc33212ddc2433693149ae"
+      }
+    },
+    {
+      "id": "virelle",
+      "name": "Virelle",
+      "role": "The woman claiming the Goddess of Time title, who audits the watch and sustains Mae's consented contact within local limits.",
+      "form": "Living person-like chronal visitor",
+      "selectionEvidence": [
+        {
+          "quote": "The woman outside wore a charcoal coat and carried a round biscuit tin.",
+          "explanation": "The woman claiming the Goddess of Time title, who audits the watch and sustains Mae's consented contact within local limits."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman with charcoal coat and round shortbread tin; exact personal name, origin and objective godhood unresolved. Audits by finger moving above watch, physically strains while sustaining tea contact; no crown/halo established."
+      },
+      "explicitCanon": [
+        "Woman with charcoal coat and round shortbread tin; exact personal name, origin and objective godhood unresolved. Audits by finger moving above watch, physically strains while sustaining tea contact; no crown/halo established."
+      ],
+      "visualInterpretation": [
+        "Virelle is user-authorized art-only name, explicitly not an in-world true-name disclosure. Apparent55, medium brown skin, tall spare posture, long oval face, black hair with grey temples in a low twist; dark trousers and plain shoes beneath charcoal coat."
+      ],
+      "states": [
+        {
+          "name": "Late-night tea visit",
+          "description": "Woman with charcoal coat and round shortbread tin; exact personal name, origin and objective godhood unresolved. Audits by finger moving above watch, physically strains while sustaining tea contact; no crown/halo established."
+        }
+      ],
+      "lighting": "Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+      "naming": {
+        "type": "art-only-assigned",
+        "assignedName": "Virelle",
+        "sourceRole": "The woman claiming the Goddess of Time title",
+        "authorization": "User explicitly requested names for unnamed main cast. Full collection art and final-review authorization.",
+        "scope": "Art heading and metadata only; personal name remains unresolved in canon, not a true-name assertion.",
+        "search": "Case-insensitive exact name checked across universe, story Markdown/JSON and existing character specs; no prior match."
+      },
+      "status": "completed",
+      "output": "stories/the-trouble-with-tuesdays/art/characters/virelle.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Virelle\". Smaller descriptor \"The woman called Time\" below the exact story subtitle. One composed older adult woman apparent55, tall spare upright build, medium brown skin, long oval face, black hair with GREY TEMPLES neatly in low twist, small dark thoughtful eyes, subtle dry-humored mouth. CHARCOAL ordinary long coat over plum-grey blouse, dark trousers and simple black low shoes, no robes/armor/halo/crown/wings or magic body. Front and rear complete full-body views plus head study. Carries a ROUND BISCUIT TIN, blue enamel with modest ordinary decoration, open small object study containing four rectangles of shortbread. Second small portrait shows slight effort around eyes. No watch carried by her, no clocks floating, no scenery. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create one 1536x1024 landscape character-reference folio, uniform LIGHT WARM IVORY background all the way to all four edges. EXACT one person repeated consistently: two complete front/three-quarter and rear full-length views left/centre, a larger expressive portrait and small personal-object study right, all hair/feet with clear margins. Exact name heading and exact subtitle \"The Trouble With Tuesdays\". References are OIL PAINT HANDLING and lighting only: do not depict their rooms, landscape or furnishings. Use broad connected matte colour/value masses, varied decisive directional bristle strokes and selective substantial impasto as in the Canadian Group of Seven collection. Faces must also be built from broad opaque paint planes, quiet small painted eyes in shadow, no delicate ink contours, smooth/photographic skin, anime, CGI, glossy repeated chips or texture-filter flakes. Character only, no room/scenery, floor/ground patch, other people, furniture, palette strips/swatches, detached hand studies or production text. Heading \"Virelle\". Smaller descriptor \"The woman called Time\" below the exact story subtitle. One composed older adult woman apparent55, tall spare upright build, medium brown skin, long oval face, black hair with GREY TEMPLES neatly in low twist, small dark thoughtful eyes, subtle dry-humored mouth. CHARCOAL ordinary long coat over plum-grey blouse, dark trousers and simple black low shoes, no robes/armor/halo/crown/wings or magic body. Front and rear complete full-body views plus head study. Carries a ROUND BISCUIT TIN, blue enamel with modest ordinary decoration, open small object study containing four rectangles of shortbread. Second small portrait shows slight effort around eyes. No watch carried by her, no clocks floating, no scenery. Late-night kitchen practical lamp only: limited subdued amber on a few facial/body planes, broad connected dark umber/indigo shadows, no full-face studio/daylight fill. Ivory negative space remains bright and uniform independently of figure lighting.",
+            "references": [
+              {
+                "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+                "inspected": true,
+                "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+                "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "inspected": true,
+                "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset.",
+            "startedAt": "2026-09-24T12:11:55.426433+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-851fae1a-0970-4b48-8fe4-2068669f3db8.png",
+            "outputSha256": "e73c2026bac75e75a449437986ad5713add6ba3187bcda3682e73167a57686ca",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:25:35.995562+00:00",
+            "generatorReview": "Actual pixels inspected: distinct older person-like visitor with charcoal coat, grey-templed dark low twist, round shortbread tin and calm/strained expressions. No objective deity traits or magic anatomy. Warm practical lamp, opaque broad painted face/cloth, two full views, clear art-only name plus source-role descriptor and title, ivory and margins pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished prose/prompt and canonical identity/rules read; actual cover and selected paintings inspected. Four distinct cast identities, consented opaque Mae, grown Rose, nondivinized visitor and nonliving watch checked. Art-only name does not assert unresolved canon. Character-only ivory, exact title, two full views and lighting checked; 2-3 inputs, one asset."
+      },
+      "outputSha256": "e73c2026bac75e75a449437986ad5713add6ba3187bcda3682e73167a57686ca",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:25:35.995562+00:00",
+        "sourceSha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a",
+        "outputSha256": "e73c2026bac75e75a449437986ad5713add6ba3187bcda3682e73167a57686ca",
+        "references": [
+          {
+            "path": "stories/the-trouble-with-tuesdays/art/interiors/01-tea-at-the-kitchen-table.png",
+            "inspected": true,
+            "role": "Actual same-story oil interior: paint and practical-light relationships only; no room/furniture.",
+            "sha256": "15d29df61dff1ccc815dbeaf560735a434acb7e70c03a75b8e46a18981ffdb1f"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "inspected": true,
+            "role": "Primary connected opaque oil paint mass reference only; no landscape/daylight.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct older person-like visitor with charcoal coat, grey-templed dark low twist, round shortbread tin and calm/strained expressions. No objective deity traits or magic anatomy. Warm practical lamp, opaque broad painted face/cloth, two full views, clear art-only name plus source-role descriptor and title, ivory and margins pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "9342f181fb2b39d5e6d3bd924993235665e88db329a97c410c466fc27f2ae3dd"
+      }
+    }
+  ],
+  "sourceSha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a"
+}
