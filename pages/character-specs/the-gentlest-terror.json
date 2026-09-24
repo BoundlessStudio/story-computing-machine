@@ -1,0 +1,970 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-gentlest-terror",
+  "title": "The Gentlest Terror",
+  "source": "stories/the-gentlest-terror/05-story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished bundle prose and prompt read; all seven CANON character entries plus Ersene focus/alliance rules read. Seven actively sustained agents alter renewal/rescue outcome. Bundle marker false remains read-only; CANON universe facts separately control.",
+  "excludedMinorCharacters": [
+    {
+      "name": "King Ambric",
+      "reason": "Dead three weeks before main action, recollection only."
+    },
+    {
+      "name": "Swallow and clutch",
+      "reason": "Unindividualized animals rescued by main agents; no sustained independent main-character decisions."
+    },
+    {
+      "name": "Courier, court workers, other noble pairs",
+      "reason": "Functional brief appearances or crowd, not main identities."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/characters.md#olyra",
+    "universe/characters.md#nyrzath",
+    "universe/characters.md#lord-osric-fane",
+    "universe/characters.md#duchess-yselle-flint",
+    "universe/characters.md#mossback",
+    "universe/characters.md#lord-ruvik-cress",
+    "universe/characters.md#larkspur",
+    "universe/rules.md#ersene-alliance-focuses-and-calls",
+    "universe/factions.md#ersene-noble-dragon-alliance-law"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover inspected: black hooked-horn/tusked Nyrzath, one milky eye; only compatible head geometry used. Cover's photoreal style, swallow, autonomous-looking scale glow are not imported.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "olyra",
+      "name": "Olyra",
+      "role": "Princess then confirmed queen, freely renews Nyrzath's alliance and rescues valley through sluice.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Their assent confirmed Queen Olyra only after she had accepted that it might not.",
+          "explanation": "Princess then confirmed queen, freely renews Nyrzath's alliance and rescues valley through sluice."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman, boots, coat and scarf; palms can hold palm-sized black scale. Source does not fix age/hair/skin/crown form."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Young adult woman26, dark warm brown skin, broad cheekbones, deep-set brown eyes, black curls braided into a practical crown braid; navy knee-length fitted wool coat with restrained dull-gold edging, practical trousers/boots, plain small gold circlet. Physical design and circlet art interpretation."
+      ],
+      "states": [
+        {
+          "name": "Confirmed queen",
+          "description": "Final resumed court after quarry; new freely offered black scale only, plain nonluminous object. No paired old/new active foci."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Olyra"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/olyra.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Olyra; exact subtitle The Gentlest Terror. State label Confirmed queen. One young adult woman26, dark warm brown skin, broad cheekbones, deep-set brown eyes, BLACK CURLS in practical crown braid, self-possessed but tired. Distinct from style reference face. Navy knee-length wool coat with restrained dull-gold edging, plain small gold circlet, charcoal trousers, practical boots and soft blue scarf. Two full-body front/rear views, one attentive head study and hand holding ONE small flat black scale as a plain nonluminous material focus. No throne, dragon, crown jewels explosion, wand or glowing spell. Final resumed-court diffuse cool daylight with quiet warm reflected planes and connected soft shadows. Uniform LIGHT IVORY support everywhere.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Olyra; exact subtitle The Gentlest Terror. State label Confirmed queen. One young adult woman26, dark warm brown skin, broad cheekbones, deep-set brown eyes, BLACK CURLS in practical crown braid, self-possessed but tired. Distinct from style reference face. Navy knee-length wool coat with restrained dull-gold edging, plain small gold circlet, charcoal trousers, practical boots and soft blue scarf. Two full-body front/rear views, one attentive head study and hand holding ONE small flat black scale as a plain nonluminous material focus. No throne, dragon, crown jewels explosion, wand or glowing spell. Final resumed-court diffuse cool daylight with quiet warm reflected planes and connected soft shadows. Uniform LIGHT IVORY support everywhere.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.018406+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-46a6a82b-e16e-4d7d-a92b-da7e7c02650d.png",
+            "outputSha256": "a95988a4c64ed135534753d8d546a4a763031c41582dcd63e44a2c02cdadd4b6",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:37:59.001829+00:00",
+            "generatorReview": "Actual pixels inspected: distinct young adult crowned queen consistent front/rear/portrait; navy practical coat, scarf and boots; single black nonluminous scale held plausibly in detail, no autonomous focus effect. Whole figures complete on ivory with readable exact heading/title; subdued court daylight and opaque painted face/cloth."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "a95988a4c64ed135534753d8d546a4a763031c41582dcd63e44a2c02cdadd4b6",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:37:59.001829+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "a95988a4c64ed135534753d8d546a4a763031c41582dcd63e44a2c02cdadd4b6",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct young adult crowned queen consistent front/rear/portrait; navy practical coat, scarf and boots; single black nonluminous scale held plausibly in detail, no autonomous focus effect. Whole figures complete on ivory with readable exact heading/title; subdued court daylight and opaque painted face/cloth.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "ff450ae765d867bddff80bc0285b507d9d359e911722582fb2244cae8a6d6428"
+      }
+    },
+    {
+      "id": "nyrzath",
+      "name": "Nyrzath",
+      "role": "Centuries-old terrifying-looking but gentle royal dragon, voluntary witness and injured quarry rescuer.",
+      "form": "Sentient adult dragon",
+      "selectionEvidence": [
+        {
+          "quote": "Nyrzath's wing required splints the length of roof beams.",
+          "explanation": "Centuries-old terrifying-looking but gentle royal dragon, voluntary witness and injured quarry rescuer."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Largest Ersene dragon; black overlapping shield-like plates, hooked horns, tusks curving past lower jaw, one gold eye and one scarred milky-white eye, ragged wing edges; severe anatomical LEFT wing injury requires long splints and bandage after quarry. Controllable furnace heat quenched in final scene."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Six-limbed dragon: four load-bearing clawed legs plus two separate wings, long massive body/tail, heavy horn crown. Source leaves eye side unspecified; choose anatomical LEFT scarred milky-white, RIGHT gold consistently. Match compatible cover head silhouette without its photoreal sheen."
+      ],
+      "states": [
+        {
+          "name": "After the quarry",
+          "description": "Final court, severely injured left wing folded and immobilized with long timber splints and cloth wrappings; right ragged wing healthy. Furnace-mouth heat quenched."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Nyrzath"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/nyrzath.png",
+      "generation": {
+        "prompt": "Correct Nyrzath's WING INJURY SIDES while keeping his exact black plated dragon identity, horns, tusks, four legs, two wings, tail, scarred LEFT milky eye and RIGHT gold eye, matte opaque oil treatment, ivory and exact heading/subtitle. His ANATOMICAL LEFT WING ONLY is injured and wrapped with long timber splints and beige bandages. The current large view mistakenly braces the gold-eye/right side. For maximum clarity, turn the LARGE full-body view to face almost straight toward us: LEFT injured braced wing must be on VIEWER RIGHT of his body; healthy ragged RIGHT wing must be on VIEWER LEFT. Fold both wings to fit, show timber/cloth only on viewer-right wing. Turn the SMALL full-body view to show a clear REAR body view: LEFT injured braced wing must be VIEWER LEFT; healthy ragged RIGHT wing VIEWER RIGHT. Tail and four paws complete, no fifth leg. Do NOT flip the head portrait: it already correctly has gold eye viewer LEFT and scarred milky-white eye viewer RIGHT. Keep head portrait and text exact. No flames, scenery, ground shadow, riders or new elements. All body/horn/wing/tail tips at least30px inside canvas on clean LIGHT IVORY; maintain cool court-window light and connected dark black-violet painted masses.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8afae8a5-8739-41cd-b664-ad1130601d8a.png",
+            "sha256": "d51efdf3bc34cff514bf98c5caa7132ecc95fe7a9e7f5fe9b0574162d7cef86b",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Nyrzath; exact subtitle The Gentlest Terror; small state label After the quarry. ONE immense ancient BLACK DRAGON: overlapping broad black shield-like scale plates, great hooked horn crown, curved lower-jaw tusks, brutally heavy yet gentle attentive head. Anatomy FOUR clawed legs plus TWO separate shoulder wings, long muscular tail. His anatomical LEFT eye is scarred milky-white; anatomical RIGHT eye gold, consistent in every view. Both full-body views are FINAL AFTER QUARRY: anatomical LEFT wing is folded close and completely IMMOBILIZED with obvious long timber splints and wide beige cloth bandages; right wing remains ragged-edged but unbroken. Need large front-three-quarter view and smaller rear-three-quarter view with entire horns, feet, wing and tail contained at least30px inside frame; curl tail to fit, fold wings. A paired head detail may show both eyes, no third full body. Gentle calm expression within fearsome adult head, not cute baby. Mouth heat deliberately quenched: no red glow, flame or smoke. No tiny people, swallow, saddle, bridle, chain, ground, architecture or swatches. Broad matte opaque dark oil masses; do not import cover's photographic texture. Cool high-window daylight on selected facing planes with connected deep violet-black shadows. ALL empty canvas is clean UNIFORM LIGHT IVORY with readable dark text.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/title-image.jpg",
+                "inspected": true,
+                "role": "Nyrzath only: source-compatible black hooked-horn/tusked threatening head silhouette. Do not copy photoreal style, small swallow, glow around scale, cover typography or scene.",
+                "sha256": "4fd68ce35b78ea7143d8fc0a55850681bcb89ab44c60248939bce8c37a3cc2e4"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.019718+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8afae8a5-8739-41cd-b664-ad1130601d8a.png",
+            "outputSha256": "d51efdf3bc34cff514bf98c5caa7132ecc95fe7a9e7f5fe9b0574162d7cef86b",
+            "generatorReview": "Actual pixels show bandages on anatomical right (gold-eye side) in large near-side view, contradicting source left-wing injury. Reframe only body views for unambiguous same-side bandaged left wing, retain accepted head/identity."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:40:38.968541+00:00",
+            "prompt": "Correct Nyrzath's WING INJURY SIDES while keeping his exact black plated dragon identity, horns, tusks, four legs, two wings, tail, scarred LEFT milky eye and RIGHT gold eye, matte opaque oil treatment, ivory and exact heading/subtitle. His ANATOMICAL LEFT WING ONLY is injured and wrapped with long timber splints and beige bandages. The current large view mistakenly braces the gold-eye/right side. For maximum clarity, turn the LARGE full-body view to face almost straight toward us: LEFT injured braced wing must be on VIEWER RIGHT of his body; healthy ragged RIGHT wing must be on VIEWER LEFT. Fold both wings to fit, show timber/cloth only on viewer-right wing. Turn the SMALL full-body view to show a clear REAR body view: LEFT injured braced wing must be VIEWER LEFT; healthy ragged RIGHT wing VIEWER RIGHT. Tail and four paws complete, no fifth leg. Do NOT flip the head portrait: it already correctly has gold eye viewer LEFT and scarred milky-white eye viewer RIGHT. Keep head portrait and text exact. No flames, scenery, ground shadow, riders or new elements. All body/horn/wing/tail tips at least30px inside canvas on clean LIGHT IVORY; maintain cool court-window light and connected dark black-violet painted masses.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8afae8a5-8739-41cd-b664-ad1130601d8a.png",
+                "sha256": "d51efdf3bc34cff514bf98c5caa7132ecc95fe7a9e7f5fe9b0574162d7cef86b",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual pixels show bandages on anatomical right (gold-eye side) in large near-side view, contradicting source left-wing injury. Reframe only body views for unambiguous same-side bandaged left wing, retain accepted head/identity.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-7201ff48-6eaf-4841-8e0e-c348fb9e654d.png",
+            "outputSha256": "ba7116ee13862d9dd5d1bac3747c8b6794239facf93e373e8e67d0964cfa68c4",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:57:13.538795+00:00",
+            "generatorReview": "Actual corrected pixels inspected: large near-frontal dragon has splinted anatomical LEFT wing on viewer right, smaller rear has same LEFT wing on viewer left; healthy right wing ragged, four clawed legs/two wings/one tail complete. Gold anatomical right and scarred milky anatomical left eye agree front and portrait. Final after-quarry state, no furnace heat/rider/saddle, matte black connected paint and exact heading/title on ivory."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "ba7116ee13862d9dd5d1bac3747c8b6794239facf93e373e8e67d0964cfa68c4",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:57:13.538795+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "ba7116ee13862d9dd5d1bac3747c8b6794239facf93e373e8e67d0964cfa68c4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8afae8a5-8739-41cd-b664-ad1130601d8a.png",
+            "sha256": "d51efdf3bc34cff514bf98c5caa7132ecc95fe7a9e7f5fe9b0574162d7cef86b",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: large near-frontal dragon has splinted anatomical LEFT wing on viewer right, smaller rear has same LEFT wing on viewer left; healthy right wing ragged, four clawed legs/two wings/one tail complete. Gold anatomical right and scarred milky anatomical left eye agree front and portrait. Final after-quarry state, no furnace heat/rider/saddle, matte black connected paint and exact heading/title on ivory.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "256fdb41d732db2dd2e1e7c573e5ee9a2c9c0f2696c7f3e6329fdc5bba546eca"
+      }
+    },
+    {
+      "id": "lord-osric-fane",
+      "name": "Lord Osric Fane",
+      "role": "Traditionalist court official urges command but finally presents proclamation ending the Dread Passage.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Lord Osric presented her first proclamation with the expression of a man who had survived the collapse of civilization and found it required only modest changes to the filing system.",
+          "explanation": "Traditionalist court official urges command but finally presents proclamation ending the Dread Passage."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man with measured polished-shoe pace, pressed mouth and formal public manner, presents proclamation. No explicit age/skin/hair/body details."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Man58, light tawny skin, long thin rectangular face, high lined forehead, swept-back greying hair and neat moustache; erect narrow frame, high-collared charcoal court coat with burgundy waistcoat, polished black shoes and proclamation."
+      ],
+      "states": [
+        {
+          "name": "First proclamation",
+          "description": "Final court official with proclamation; no quarry guilt implied."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Lord Osric Fane"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/lord-osric-fane.png",
+      "generation": {
+        "prompt": "Edit ONLY the surrounding background of this folio to uniform LIGHT WARM IVORY everywhere, to every edge and between every isolated view/detail. Remove every brown/grey/dark vignette, gradient, floor patch and halo. Preserve all character pixels, face, age, outfit, props, gestures and broad oil paint exactly. Make existing exact heading Lord Osric Fane and subtitle The Gentlest Terror fully readable in dark-brown on the clear ivory. Preserve existing state/detail labels and diffuse court daylight on figure. No new objects, scenes or other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-66d153d3-27cf-46ec-bcd4-32f3487048d5.png",
+            "sha256": "77eb44f45c4c499024245d590c97117462cfe2a730418986fabd0b6130711fbb",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Lord Osric Fane; exact subtitle The Gentlest Terror. ONE man58, light tawny skin, long thin rectangular face, high lined forehead, swept-back greying hair, neat narrow moustache and small sharp grey eyes. Erect slim frame. High-collared CHARCOAL court coat, BURGUNDY waistcoat, grey trousers, highly polished black shoes painted as matte opaque masses. Two fully unclipped front/rear views; one pursed bureaucratic expression then a faint reluctant dry smile; hands hold one ordinary unrolled proclamation. Readable small label First proclamation. No invented writing paragraphs, magical seals, weapons, throne or scenery. Cool diffuse resumed-court window light, modest warm reflected skin planes and connected shadows. Clear UNIFORM LIGHT IVORY all around figures and text.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.021512+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-66d153d3-27cf-46ec-bcd4-32f3487048d5.png",
+            "outputSha256": "77eb44f45c4c499024245d590c97117462cfe2a730418986fabd0b6130711fbb",
+            "generatorReview": "Actual identity/anatomy/source-state pass, but dark vignette obscures title and violates uniform ivory background."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:40:38.972696+00:00",
+            "prompt": "Edit ONLY the surrounding background of this folio to uniform LIGHT WARM IVORY everywhere, to every edge and between every isolated view/detail. Remove every brown/grey/dark vignette, gradient, floor patch and halo. Preserve all character pixels, face, age, outfit, props, gestures and broad oil paint exactly. Make existing exact heading Lord Osric Fane and subtitle The Gentlest Terror fully readable in dark-brown on the clear ivory. Preserve existing state/detail labels and diffuse court daylight on figure. No new objects, scenes or other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-66d153d3-27cf-46ec-bcd4-32f3487048d5.png",
+                "sha256": "77eb44f45c4c499024245d590c97117462cfe2a730418986fabd0b6130711fbb",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity/anatomy/source-state pass, but dark vignette obscures title and violates uniform ivory background.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-ee3f4eb2-bfa8-4f8f-984d-9790436a7270.png",
+            "outputSha256": "d9168ce5b37bf89687a055df957012fcc8b47ba090809ea489aad2527a02ccc0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:57:13.560355+00:00",
+            "generatorReview": "Actual corrected pixels inspected: ivory replaces vignette, source exact full name/title legible. Distinct mature slim official with greying hair/moustache, charcoal/burgundy formal clothes, ordinary proclamation and plausible hands; front/rear consistent, unclipped feet, court daylight retained."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "d9168ce5b37bf89687a055df957012fcc8b47ba090809ea489aad2527a02ccc0",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:57:13.560355+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "d9168ce5b37bf89687a055df957012fcc8b47ba090809ea489aad2527a02ccc0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-66d153d3-27cf-46ec-bcd4-32f3487048d5.png",
+            "sha256": "77eb44f45c4c499024245d590c97117462cfe2a730418986fabd0b6130711fbb",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: ivory replaces vignette, source exact full name/title legible. Distinct mature slim official with greying hair/moustache, charcoal/burgundy formal clothes, ordinary proclamation and plausible hands; front/rear consistent, unclipped feet, court daylight retained.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "2b863f41bb04f2cf5c1977e2aafec6adcfcc6dcc0039bdadfd64f3b23022da35"
+      }
+    },
+    {
+      "id": "duchess-yselle-flint",
+      "name": "Duchess Yselle Flint",
+      "role": "House Flint representative who concealed illegal quarry work and tries to compel renewal.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Duchess Yselle kept her hands extended. \"We are waiting.\"",
+          "explanation": "House Flint representative who concealed illegal quarry work and tries to compel renewal."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman in formal court clothing; extended hands for scale; later white-faced and soaked at quarry, focus inert once refusal witnessed. Source has no fixed appearance."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Woman48, pale cool skin, short broad face, close dark-brown side-parted hair in low knot, angular dark brows; stocky dignified frame, plum structured court coat/gown, grey gloves carried rather than worn during scale use. No heroic armor or villain supernatural marks."
+      ],
+      "states": [
+        {
+          "name": "Refusal witnessed",
+          "description": "Court immediately after alliance refusal: old slate-green scale dull and inert, no remaining frost/smoke or active connection."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Duchess Yselle Flint"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/duchess-yselle-flint.png",
+      "generation": {
+        "prompt": "Edit ONLY the surrounding background of this folio to uniform LIGHT WARM IVORY everywhere, to every edge and between every isolated view/detail. Remove every brown/grey/dark vignette, gradient, floor patch and halo. Preserve all character pixels, face, age, outfit, props, gestures and broad oil paint exactly. Make existing exact heading Duchess Yselle Flint and subtitle The Gentlest Terror fully readable in dark-brown on the clear ivory. Preserve existing state/detail labels and diffuse court daylight on figure. No new objects, scenes or other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4750d57b-c63b-4e0f-bc21-7372413c4acd.png",
+            "sha256": "8bbf700dbb9af542fb78010de893297255f599e4e132adc307f7b669fc93b9c0",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Duchess Yselle Flint; exact subtitle The Gentlest Terror. One mature woman48 with pale cool skin, short broad face, firmly set dark brows, dark-brown side-parted hair sleekly gathered low, stocky dignified frame. PLUM formal structured long court gown/coat, slate-grey sleeves, modest dark metal clasp, closed boots. Two full-body front/rear views and one strained pale expression study; inset bare hands hold a SINGLE dull SLATE-GREEN scale. State label Refusal witnessed: scale is now plain inert and nonluminous, no frost, smoke, commands, flame or magical glyph. Her old title remains exact SOURCE heading but no restoration scene. Cool diffuse court-window daylight with soft shadows. UNIFORM LIGHT IVORY support everywhere; no castle, floor or other identities.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.023230+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4750d57b-c63b-4e0f-bc21-7372413c4acd.png",
+            "outputSha256": "8bbf700dbb9af542fb78010de893297255f599e4e132adc307f7b669fc93b9c0",
+            "generatorReview": "Actual identity/anatomy/source-state pass, but dark vignette obscures title and violates uniform ivory background."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:40:38.976541+00:00",
+            "prompt": "Edit ONLY the surrounding background of this folio to uniform LIGHT WARM IVORY everywhere, to every edge and between every isolated view/detail. Remove every brown/grey/dark vignette, gradient, floor patch and halo. Preserve all character pixels, face, age, outfit, props, gestures and broad oil paint exactly. Make existing exact heading Duchess Yselle Flint and subtitle The Gentlest Terror fully readable in dark-brown on the clear ivory. Preserve existing state/detail labels and diffuse court daylight on figure. No new objects, scenes or other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4750d57b-c63b-4e0f-bc21-7372413c4acd.png",
+                "sha256": "8bbf700dbb9af542fb78010de893297255f599e4e132adc307f7b669fc93b9c0",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity/anatomy/source-state pass, but dark vignette obscures title and violates uniform ivory background.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-4848a2f2-4171-4d1e-ba6c-0efda0d8e14b.png",
+            "outputSha256": "6356ba1d81f77cb95a7f43924ceff95e739c90d79a9e8926a2d8434982b61757",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:57:13.585228+00:00",
+            "generatorReview": "Actual corrected pixels inspected: uniform ivory and exact full source heading/title, mature pale woman/plum gown consistent front/rear/head, hands anatomically coherent holding dull slate-green inert scale. Refusal state has no smoke/frost/active magic; full gown/feet inside canvas and court daylight retained."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "6356ba1d81f77cb95a7f43924ceff95e739c90d79a9e8926a2d8434982b61757",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:57:13.585228+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "6356ba1d81f77cb95a7f43924ceff95e739c90d79a9e8926a2d8434982b61757",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-4750d57b-c63b-4e0f-bc21-7372413c4acd.png",
+            "sha256": "8bbf700dbb9af542fb78010de893297255f599e4e132adc307f7b669fc93b9c0",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: uniform ivory and exact full source heading/title, mature pale woman/plum gown consistent front/rear/head, hands anatomically coherent holding dull slate-green inert scale. Refusal state has no smoke/frost/active magic; full gown/feet inside canvas and court daylight retained.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "a686aa93558d777d43a0d61b2b0322cbbcd801a2dbd954d11390cee83514799a"
+      }
+    },
+    {
+      "id": "mossback",
+      "name": "Mossback",
+      "role": "Broad slate-green dragon refuses House Flint and freely rescues his clutch and valley people.",
+      "form": "Sentient adult dragon",
+      "selectionEvidence": [
+        {
+          "quote": "Mossback was slate-green, broad through the chest, and furred with lichen along his spine.",
+          "explanation": "Broad slate-green dragon refuses House Flint and freely rescues his clutch and valley people."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Slate-green broad-chested dragon with lichen along spine and brow; capable of flight, claws and gentle carrying. Half Nyrzath in every measure, still giant; no saddle/chain."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Six-limbed broad squat-bodied dragon with four sturdy clawed legs, two separate folded wings, blunt wedge head, muted amber eyes, short swept-back blunt horns and tapering tail. Art form choices compatible source; no shared dragon biology claims."
+      ],
+      "states": [
+        {
+          "name": "Free refusal",
+          "description": "Court refusal before quarry: healthy unfrosted scales, living agency, no alliance focus or human rider."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Mossback"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/mossback.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Mossback; exact subtitle The Gentlest Terror; state label Free refusal. ONE gigantic adult dragon with BROAD CHEST, heavy low slate-green body, FOUR sturdy clawed legs, TWO separate wings folded along shoulders, thick tapering tail curled to fit. Soft pale grey-green lichen grows as thin fur along spine and across brow; do not add trees or miniature landscape. Blunt wedge head, amber eyes, short swept-back blunt horns, firm intelligent restrained expression. Distinct from black tusked Nyrzath: no long ivory tusks, no black armor plates, no milky eye or bandaged wing. Two complete isolated views front-three-quarter and rear-three-quarter plus one head detail; all claws, horns, tail and folded wings unclipped. Warm-cool muted SLATE-GREEN painted masses with broad opaque bristle strokes; no shiny reptile CGI. Cool court-window daylight and deep green-violet connected shadows on figure only. Entire negative space solid LIGHT IVORY, readable headings; no rider, harness, chain, eggs, people, buildings or scenic ground.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Mossback; exact subtitle The Gentlest Terror; state label Free refusal. ONE gigantic adult dragon with BROAD CHEST, heavy low slate-green body, FOUR sturdy clawed legs, TWO separate wings folded along shoulders, thick tapering tail curled to fit. Soft pale grey-green lichen grows as thin fur along spine and across brow; do not add trees or miniature landscape. Blunt wedge head, amber eyes, short swept-back blunt horns, firm intelligent restrained expression. Distinct from black tusked Nyrzath: no long ivory tusks, no black armor plates, no milky eye or bandaged wing. Two complete isolated views front-three-quarter and rear-three-quarter plus one head detail; all claws, horns, tail and folded wings unclipped. Warm-cool muted SLATE-GREEN painted masses with broad opaque bristle strokes; no shiny reptile CGI. Cool court-window daylight and deep green-violet connected shadows on figure only. Entire negative space solid LIGHT IVORY, readable headings; no rider, harness, chain, eggs, people, buildings or scenic ground.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.025161+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-c8ea5966-73be-40d6-b492-e4c19ee7d4e0.png",
+            "outputSha256": "335ab03e190fea00a53d9df6c20e766b39482bf127ab1c880e4f45c5a81a92ae",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:50:19.324319+00:00",
+            "generatorReview": "Actual pixels inspected: one broad slate-green adult dragon with distinct blunt head and lichen along spine/brow, four legs and two wings consistent across views, no rider/saddle/chain or wing injury borrowed from Nyrzath. Whole tail/horns/feet within ivory; exact name/title and Free refusal readable. Matte painted scale masses and court daylight appropriate."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "335ab03e190fea00a53d9df6c20e766b39482bf127ab1c880e4f45c5a81a92ae",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:50:19.324319+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "335ab03e190fea00a53d9df6c20e766b39482bf127ab1c880e4f45c5a81a92ae",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: one broad slate-green adult dragon with distinct blunt head and lichen along spine/brow, four legs and two wings consistent across views, no rider/saddle/chain or wing injury borrowed from Nyrzath. Whole tail/horns/feet within ivory; exact name/title and Free refusal readable. Matte painted scale masses and court daylight appropriate.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "01c25962b7e7ce48d5d7f24b4018ccb7e56349253744e7f9479d26d9fe032163"
+      }
+    },
+    {
+      "id": "lord-ruvik-cress",
+      "name": "Lord Ruvik Cress",
+      "role": "Larkspur's voluntary human partner maintains nesting/sluice infrastructure and calls during rescue.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "one foreclaw could have covered Lord Ruvik Cress from polished boot to thinning hair.",
+          "explanation": "Larkspur's voluntary human partner maintains nesting/sluice infrastructure and calls during rescue."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man with thinning hair and polished boots, coat containing scale. Source partner's repeated calls cause cold/stamina cost later."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Man55, warm medium brown skin, broad round kindly face, thinning greying dark hair at sides, clean shaven, stocky frame; forest-green coat with modest copper buttons, buff waistcoat, brown trousers/polished boots."
+      ],
+      "states": [
+        {
+          "name": "At renewal",
+          "description": "Pre-crisis dry court, no accumulated cold exhaustion. One freely offered green-violet scale in palms."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Lord Ruvik Cress"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/lord-ruvik-cress.png",
+      "generation": {
+        "prompt": "Change ONLY the blurred dark brown/green vignette BACKGROUND to uniform clean LIGHT WARM IVORY everywhere to all canvas edges, also between figures and behind all text. Preserve every character pixel and exact face, thinning hair, stout body, forest-green coat, buff waistcoat, boots, green-violet scale, hand, pose, cool court light and broad opaque oil paint. Reletter existing exact Lord Ruvik Cress and The Gentlest Terror legibly in dark-brown on ivory, preserve At renewal. No floor patch, halo, scene or new elements. Nothing else changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7af6e597-927c-4517-b390-51bd6e1beef3.png",
+            "sha256": "edf24c1c7647cd5200ed694b277bde207f054712ee76c0e63ce9739af7d53c49",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Lord Ruvik Cress; exact subtitle The Gentlest Terror; state label At renewal. ONE man55 with warm medium brown skin, BROAD ROUND face, thinning greying dark hair at sides and receding top, clean shaven, stocky frame, slightly embarrassed good-humored eyes. FOREST-GREEN long court coat with modest copper buttons, buff waistcoat, brown trousers and polished brown boots. Two fully unclipped front/rear views, one apologetic expression and hand detail holding single palm-sized GREEN-AND-VIOLET dragon scale. Scale is nonliving/nonluminous; no fire, floating runes or command gesture. Pre-crisis renewal, healthy dry skin and clothing, not frozen rescue collapse. Cool court-window daylight with quiet warm reflected planes and soft connected shadows. All empty space UNIFORM LIGHT IVORY; no architecture or dragon.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.026437+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7af6e597-927c-4517-b390-51bd6e1beef3.png",
+            "outputSha256": "edf24c1c7647cd5200ed694b277bde207f054712ee76c0e63ce9739af7d53c49",
+            "generatorReview": "Actual identity, costume, thinning hair, anatomy and nonluminous scale pass; dark vignette obscures title and violates ivory ground."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:50:20.394130+00:00",
+            "prompt": "Change ONLY the blurred dark brown/green vignette BACKGROUND to uniform clean LIGHT WARM IVORY everywhere to all canvas edges, also between figures and behind all text. Preserve every character pixel and exact face, thinning hair, stout body, forest-green coat, buff waistcoat, boots, green-violet scale, hand, pose, cool court light and broad opaque oil paint. Reletter existing exact Lord Ruvik Cress and The Gentlest Terror legibly in dark-brown on ivory, preserve At renewal. No floor patch, halo, scene or new elements. Nothing else changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7af6e597-927c-4517-b390-51bd6e1beef3.png",
+                "sha256": "edf24c1c7647cd5200ed694b277bde207f054712ee76c0e63ce9739af7d53c49",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity, costume, thinning hair, anatomy and nonluminous scale pass; dark vignette obscures title and violates ivory ground.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b05d89bf-58e9-4dc5-be2f-2a51d69b228b.png",
+            "outputSha256": "dcb3fb385420f58d5479fd83233a3a140cc9748b9a1b2bf1da9eb54b4bd6a672",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:14:35.026250+00:00",
+            "generatorReview": "Actual corrected pixels inspected: ivory and exact full name/title legible, stocky thinning-haired kindly mature lord distinct from Osric, forest-green/buff costume consistent, plausible hand with nonluminous green-violet scale. Healthy At renewal state, whole boots and subdued court light."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "dcb3fb385420f58d5479fd83233a3a140cc9748b9a1b2bf1da9eb54b4bd6a672",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:14:35.026250+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "dcb3fb385420f58d5479fd83233a3a140cc9748b9a1b2bf1da9eb54b4bd6a672",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7af6e597-927c-4517-b390-51bd6e1beef3.png",
+            "sha256": "edf24c1c7647cd5200ed694b277bde207f054712ee76c0e63ce9739af7d53c49",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: ivory and exact full name/title legible, stocky thinning-haired kindly mature lord distinct from Osric, forest-green/buff costume consistent, plausible hand with nonluminous green-violet scale. Healthy At renewal state, whole boots and subdued court light.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "bcb3f8bc6cc84e8c1f6fe35ce649ec12ac60448ef626d6d7f421745d4c5268a7"
+      }
+    },
+    {
+      "id": "larkspur",
+      "name": "Larkspur",
+      "role": "Large green-violet dragon freely renews Cress alliance and diverts flood through maintained cisterns.",
+      "form": "Sentient adult dragon",
+      "selectionEvidence": [
+        {
+          "quote": "Beside him, the green-and-violet dragon looked almost delicate, though one foreclaw could have covered Lord Ruvik Cress from polished boot to thinning hair.",
+          "explanation": "Large green-violet dragon freely renews Cress alliance and diverts flood through maintained cisterns."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Large female dragon with green-and-violet scales, formidable foreclaws, winged flight. Freely sheds shoulder scale at renewal; later frost and trembling wings from calls."
+      },
+      "explicitCanon": [
+        "CANON universe/characters.md entries for all seven and rules.md/factions.md Ersene entries control: dragons are free living allies, never ridden/saddled/chained. Nonliving scale focuses have no autonomous will/glow; calls cost both living partners body heat. These are local individual facts, no Urumet link."
+      ],
+      "visualInterpretation": [
+        "Elegant but enormous adult six-limbed dragon, four strong legs with long slender foreclaws and two separate shoulder wings, long supple neck and sweeping tail; small swept-back horns, gold-green eyes. No juvenile/pet qualities or humanoid sexual traits."
+      ],
+      "states": [
+        {
+          "name": "At renewal",
+          "description": "Court before costly rescue; green/violet unfrosted scales and healthy folded wings. Loose shoulder scale detail is a normal shed, no bleeding wound."
+        }
+      ],
+      "lighting": "Chosen court state: cool diffuse high-window daylight, subdued warm reflected planes and connected painted shadows. Uniform ivory support, no copied court scene.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Larkspur"
+      },
+      "status": "completed",
+      "output": "stories/the-gentlest-terror/art/characters/larkspur.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Larkspur; exact subtitle The Gentlest Terror; state label At renewal. ONE enormous elegant adult female DRAGON with interlocking GREEN AND VIOLET scale masses, long supple neck, FOUR strong clawed legs, TWO separate folded shoulder wings, sweeping tail curled inside page. Slender long foreclaws, small swept-back horns, intelligent gold-green eyes, mildly amused patient expression. Dragon only, no humanoid breasts or costume, not cute hatchling. Two complete isolated front-three-quarter/rear-three-quarter views and one expressive head study; small detached shoulder-scale detail optional. Court renewal before rescue: healthy unfrosted skin and wings, no weakness, no bandages. Broad matte opaque emerald/olive/violet oil masses and decisive bristle marks, no shiny CGI scale texture. Cool court daylight casts connected deep green-violet shadows; full LIGHT IVORY negative space with dark readable title. No rider, harness, chain, person, egg, architectural/scenic patch.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Larkspur; exact subtitle The Gentlest Terror; state label At renewal. ONE enormous elegant adult female DRAGON with interlocking GREEN AND VIOLET scale masses, long supple neck, FOUR strong clawed legs, TWO separate folded shoulder wings, sweeping tail curled inside page. Slender long foreclaws, small swept-back horns, intelligent gold-green eyes, mildly amused patient expression. Dragon only, no humanoid breasts or costume, not cute hatchling. Two complete isolated front-three-quarter/rear-three-quarter views and one expressive head study; small detached shoulder-scale detail optional. Court renewal before rescue: healthy unfrosted skin and wings, no weakness, no bandages. Broad matte opaque emerald/olive/violet oil masses and decisive bristle marks, no shiny CGI scale texture. Cool court daylight casts connected deep green-violet shadows; full LIGHT IVORY negative space with dark readable title. No rider, harness, chain, person, egg, architectural/scenic patch.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+                "inspected": true,
+                "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+                "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:24:30.027665+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-88cb9218-ac78-4e3c-a8e8-14143d9ef41f.png",
+            "outputSha256": "8b241ec68c8a274f835079292299d36a6569ebfc4528cdce6f64cf75c1365245",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:50:19.418086+00:00",
+            "generatorReview": "Actual pixels inspected: one elegant enormous green-violet adult dragon, long neck/tail and foreclaws, four legs plus two wings consistent, unfrosted healthy At renewal state. Identity distinct from Mossback/Nyrzath, no rider or focus agency, exact heading/title and complete forms on ivory. Broad matte opaque green-violet planes retain collection style."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "8b241ec68c8a274f835079292299d36a6569ebfc4528cdce6f64cf75c1365245",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:50:19.418086+00:00",
+        "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173",
+        "outputSha256": "8b241ec68c8a274f835079292299d36a6569ebfc4528cdce6f64cf75c1365245",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-gentlest-terror/art/interiors/01-convocation-court.png",
+            "inspected": true,
+            "role": "Actual inspected court daylight and Group of Seven oil paint treatment only; absolutely no architectural background.",
+            "sha256": "792568b511f3c35d33136a08e81ee893cd5a75d76488761a30190019e6a6fd39"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: one elegant enormous green-violet adult dragon, long neck/tail and foreclaws, four legs plus two wings consistent, unfrosted healthy At renewal state. Identity distinct from Mossback/Nyrzath, no rider or focus agency, exact heading/title and complete forms on ivory. Broad matte opaque green-violet planes retain collection style.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e24fc390b0264c2f3e0e0a70e5fb4129427f3e9eca14432d278935af92fc28dc"
+      }
+    }
+  ],
+  "sourceSha256": "5e5df66e4e4b3896a6351702f1b4a6925de6987a49e40d6ef51bfdd678444173"
+}
