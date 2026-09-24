@@ -587,7 +587,7 @@
       "output": "stories/head-priests-in-love/art/characters/farwake.png",
       "status": "blocked",
       "blockers": [
-        "No source-supported standalone character form. Current is seen through boat movement/dark tidal bands, not distinct stable morphology. Root direction forbids inventing body/water-ribbon anatomy or portraying audible command as visible text. Needs explicit art-design direction for a speculative avatar, or final-review acceptance of no sheet."
+        "No source-supported standalone character form: the god is heard through a channel and observed through currents moving a boat. A humanoid/avatar, stable water-ribbon body or visible command text would be invented. No character-only sheet selected; source remains unchanged."
       ],
       "generation": {
         "tool": "image_gen.imagegen",
@@ -596,7 +596,10 @@
         "attempts": []
       },
       "validation": {
-        "status": "blocked"
+        "status": "blocked",
+        "evidence": [
+          "Root reread the entire finished story during resumed production. No stable visible body or character interface exists beyond environmental current effects. Source limitation confirmed, not a generation failure."
+        ]
       }
     }
   ]
