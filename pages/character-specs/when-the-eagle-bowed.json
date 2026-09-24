@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "slug": "when-the-eagle-bowed",
+  "title": "When the Eagle Bowed",
+  "source": "stories/when-the-eagle-bowed/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source and complete recorded prompt read; marker false. Originals (three, first pair duplicates), cover, dusk landscape and chapel interior pixels inspected. Six sustained identities: Yavren, Pelka, wild eagle, weir officer, final ash king, and living talonmail/Eagle shadow. Main named humans source exact; unnamed identities have authorized art-only names with provenance. Current story resolves conquest then emerging loss of control; later bookend remains excluded.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Ash rider and road captain",
+      "reason": "Brief field antagonists limited to initial pursuit; lack sustained role after ridge unlike weir officer and final ash king."
+    },
+    {
+      "name": "Weir king and road king",
+      "reason": "Short transitional confrontations summarized during conquest; final ash king receives the sustained climax."
+    },
+    {
+      "name": "Soldiers, servants, shepherds, eaglet and wounded standard-bearer",
+      "reason": "Background or brief functional appearances without sustained individual characterization."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "yavren",
+      "name": "Yavren",
+      "role": "Huntress, returned Eagle Queen and living talonmail bearer",
+      "form": "Adult human woman; two source states",
+      "selectionEvidence": [
+        {
+          "quote": "The plates had not put a dead stranger inside her.",
+          "explanation": "One continuous identity, not a separate possessed host."
+        },
+        {
+          "quote": "Pelka stared through the narrow eye gaps.",
+          "explanation": "Closed face-plates belong to armored state."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Young adult huntress and foster sister; capable climber. Exact facial/hair details supplied by inspected original and cover.",
+        "clothing": "Before molt: hunter's clothes, leather bracer, boots, pack. After molt: black living mineral-bright hooked overlapping plates and dark filaments enclose body and skull, narrow eye gaps.",
+        "equipment": "Bow, knife, pack, leather bracer and rope in early huntress state. Colony is separate living main-cast identity."
+      },
+      "visualInterpretation": [
+        "Preserve original/cover long dark hair, warm tan skin, angular face and dark feather-shaped face marks as established art identity, not universe canon.",
+        "Interpret ordinary hunting layers as charcoal-brown wool, practical brown leather, full trousers and boots. Do not import original exposed-thigh costume or decorative gold jewellery where the source specifies full living armor.",
+        "Two labeled chronology studies separate unarmored huntress from later full talonmail; close portrait shows before-molt face. No future-bookend fire, lover or full-power Eagle."
+      ],
+      "states": [
+        {
+          "name": "Before the molt",
+          "description": "Opening huntress, no attached plates yet."
+        },
+        {
+          "name": "Armored bearer",
+          "description": "After the cleft, before the first keep; closed skull/face plates, no crown."
+        }
+      ],
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c7745896-546f-4320-941a-ea9444e508c9.png",
+          "role": "Inspected original current-story identity/feathered armor silhouette; source black mineral plates and closed skull override material/costume departures.",
+          "inspected": true,
+          "sha256": "58c316c09e45172677b395faaf1367eabb2a1afa0d26e2219018cd3d5482b307"
+        },
+        {
+          "path": "stories/when-the-eagle-bowed/title-image.jpg",
+          "role": "Inspected established Yavren face/hair/feather motif; source governs actual plate coverage.",
+          "inspected": true,
+          "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+        }
+      ],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:yavren",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished story."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/yavren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this reference folio and preserve the exact painted people, faces, dark hair, face marks, human body proportions, dark clothing, fully enclosed black armor, poses and complete boots. Change the ENTIRE BACKGROUND to flat, uniform, LIGHT warm IVORY #FFF8E8. Ivory must reach every page edge and every space between studies. Dark dusk lighting applies only to the subjects, not the paper. No vignette, gradient, brown ground, floor/shadow patch or scenery. Repaint the barely visible text as bold clear dark charcoal ink: heading upper left \"Yavren\" and beneath \"When the Eagle Bowed\"; labels \"Before the molt\" under left body, \"Armored bearer\" under middle body, \"Before the molt\" under face. Keep ample margins. In lower-right leather bracer study retain exactly FOUR separate dark hooked plates, large enough to count, not more, label \"First plates\". Preserve all other painted forms. Do not introduce hands, body parts, crown, new character or effects.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f41ae19e-a0fe-4d34-a33e-3177d260b9df.png",
+            "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+            "inspected": true,
+            "sha256": "80741bb4ebd69f2a83a6818dface857b7c778f86c32c907549bc35a5ec6c63dd"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:19:35.417452+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Yavren\"; exact title \"When the Eagle Bowed\". ONE same young ADULT woman about 26 in two explicitly different STORY STATES. Match IMAGE 3/4 warm tan face, long dark brown hair, strong straight nose, brown matte eyes, dark feather-shaped cheek marks; no cosmetic gloss. Left full body label \"Before the molt\": athletic ordinary human huntress, practical charcoal wool tunic over full brown trousers, brown leather bracers and boots, small worn pack, wooden bow in lowered right hand; no armor/crown. Middle full body three-quarter label \"Armored bearer\": SAME human proportions but whole body and SKULL ENCLOSED in black mineral-bright overlapping hooked FEATHER-SHAPED TALONMAIL plates, dark flexible filaments at joints, narrow eye slits, no exposed face or hair in this state, two human arms/two legs, no anatomical wings/tail, NO gold jewellery/cape/crown. Plates charcoal/blueblack with muted bronze edge-light; not polished decorative gold metal. Right large matching unhelmeted face label \"Before the molt\"; bottom-right isolated early leather bracer with FOUR black hooked plates attached label \"First plates\". Two complete full bodies/boots, no blood or other eagle/person/shadow. Low dusk light: restrained ochre edges, most forms cool slate-violet shadow, broad opaque painted faces.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+                "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+                "inspected": true,
+                "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c7745896-546f-4320-941a-ea9444e508c9.png",
+                "role": "Inspected supplied current-story reference for Yavren face/dark hair/feather motif; source limits equipment and covered armor; no photoreal style.",
+                "inspected": true,
+                "sha256": "58c316c09e45172677b395faaf1367eabb2a1afa0d26e2219018cd3d5482b307"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/title-image.jpg",
+                "role": "Inspected Yavren face/hair identity and wild eagle coloration; source wins on full skull armor and black mineral material.",
+                "inspected": true,
+                "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f41ae19e-a0fe-4d34-a33e-3177d260b9df.png",
+            "outputSha256": "80741bb4ebd69f2a83a6818dface857b7c778f86c32c907549bc35a5ec6c63dd",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:29:32.764845+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Actual identity, facial mark/hair, source early huntress and fully enclosed black living-armor state pass. Oil paint consistent across face/body. Generator made background dark brown, rendering heading/title unreadable; restore ivory and readable text. Isolated first-plate bracer requires four readable plates matching source."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:29:33.734615+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this reference folio and preserve the exact painted people, faces, dark hair, face marks, human body proportions, dark clothing, fully enclosed black armor, poses and complete boots. Change the ENTIRE BACKGROUND to flat, uniform, LIGHT warm IVORY #FFF8E8. Ivory must reach every page edge and every space between studies. Dark dusk lighting applies only to the subjects, not the paper. No vignette, gradient, brown ground, floor/shadow patch or scenery. Repaint the barely visible text as bold clear dark charcoal ink: heading upper left \"Yavren\" and beneath \"When the Eagle Bowed\"; labels \"Before the molt\" under left body, \"Armored bearer\" under middle body, \"Before the molt\" under face. Keep ample margins. In lower-right leather bracer study retain exactly FOUR separate dark hooked plates, large enough to count, not more, label \"First plates\". Preserve all other painted forms. Do not introduce hands, body parts, crown, new character or effects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f41ae19e-a0fe-4d34-a33e-3177d260b9df.png",
+                "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+                "inspected": true,
+                "sha256": "80741bb4ebd69f2a83a6818dface857b7c778f86c32c907549bc35a5ec6c63dd"
+              }
+            ],
+            "preflight": [
+              "Actual target inspected. Subject forms and identity preserved; restore user-mandated ivory and readable exact name/title. Source four plate count or flat shadow morphology corrected without changing chronology.",
+              "No hand study, side-label exercise or speculative anatomy correction."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-a05d72a7-c7c1-4f81-bf3d-3c01c62deccf.png",
+            "outputSha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:36:24.927046+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual revised pixels inspected: exact readable Yavren/story title, bright uninterrupted ivory, complete unarmored and armored forms clearly state-labeled. The same adult face/hair and feather-like marks follow original/cover; source controls fully enclosed talonmail with narrow eye gaps.",
+              "Black mineral plate armor remains a worn living source state, no anatomical wings/crown/fire; close early leather bracer has four distinguishable plates. Head portrait is explicitly before molt rather than exposed in sealed armor.",
+              "Faces/clothes use broad connected opaque sculptural oil and dusk edge light with cool shadows. No floor, scenery, swatches or extra people."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-a05d72a7-c7c1-4f81-bf3d-3c01c62deccf.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f41ae19e-a0fe-4d34-a33e-3177d260b9df.png",
+            "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+            "inspected": true,
+            "sha256": "80741bb4ebd69f2a83a6818dface857b7c778f86c32c907549bc35a5ec6c63dd"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: exact readable Yavren/story title, bright uninterrupted ivory, complete unarmored and armored forms clearly state-labeled. The same adult face/hair and feather-like marks follow original/cover; source controls fully enclosed talonmail with narrow eye gaps.",
+          "Black mineral plate armor remains a worn living source state, no anatomical wings/crown/fire; close early leather bracer has four distinguishable plates. Head portrait is explicitly before molt rather than exposed in sealed armor.",
+          "Faces/clothes use broad connected opaque sculptural oil and dusk edge light with cool shadows. No floor, scenery, swatches or extra people."
+        ],
+        "specificationSha256": "c7f8db34eeae81b7a6add76c87e302d85efc96066cb2ae5882ce841e057de737"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef"
+    },
+    {
+      "id": "pelka",
+      "name": "Pelka",
+      "role": "Yavren's foster sister and sustained moral partner",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Pelka, Yavren's foster sister",
+          "explanation": "Named sustained relationship and central companion."
+        },
+        {
+          "quote": "Pelka was wrapping a strip torn from her undershirt around a slice on her calf.",
+          "explanation": "Selected later climbing state's non-graphic bandage."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult foster sister, capable hunter/climber, fatigued later in source.",
+        "clothing": "Undershirt, boots, working clothes; later calf bandage, side unspecified.",
+        "equipment": "Short rope from shoulder, six empty snares initially, cloth-wrapped half grouse pie, knife with wooden handle."
+      },
+      "visualInterpretation": [
+        "Distinct art-only design: early thirties, medium olive skin, short blunt russet-brown braid, broad square jaw, hazel eyes; no resemblance inferred from foster relationship.",
+        "Dusky moss wool tunic, brown trousers, leather boots and rope chosen; bandage on anatomical right calf as consistent art-only side.",
+        "Select dusk after calf bandage, with rope and wrapped pie. Omit six initial snares to avoid mixing uncertain retained inventory."
+      ],
+      "states": [
+        {
+          "name": "Dusk climb",
+          "description": "Calf bandaged before the molting cleft; still human and unarmored."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:pelka",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Name verbatim in finished story."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/pelka.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Pelka\"; exact title \"When the Eagle Bowed\"; subtitle \"Foster sister\". ONE adult woman about 31, medium OLIVE skin, broad square face, wide strong nose, small matte HAZEL eyes, RUSSET BROWN hair in short practical braid, practical alert expression. Distinct from Yavren: no long black hair, no feather marks. Worn MOSS-GREEN wool tunic with side slits over brown trousers, pale linen undershirt, brown leather ankle boots. Short coil of hemp rope hangs centered over both shoulders, small knife with WOODEN handle sheathed at belt, cloth-wrapped half pie held in both hands centered at waist; no visible food close-up needed. A simple CLEAN unbleached cloth bandage around anatomical RIGHT calf above boot (front viewer-left, rear viewer-right), trouser leg rolled only there; no blood. Two full FRONT and REAR body views with same garment and side; large matching face study; isolated rope knot detail. Low dusk light warm muted ochre edges and connected cool slate-violet shadows. Entire adult faces/hands painted with broad opaque oil, no polished illustration.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:19:35.423711+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Pelka\"; exact title \"When the Eagle Bowed\"; subtitle \"Foster sister\". ONE adult woman about 31, medium OLIVE skin, broad square face, wide strong nose, small matte HAZEL eyes, RUSSET BROWN hair in short practical braid, practical alert expression. Distinct from Yavren: no long black hair, no feather marks. Worn MOSS-GREEN wool tunic with side slits over brown trousers, pale linen undershirt, brown leather ankle boots. Short coil of hemp rope hangs centered over both shoulders, small knife with WOODEN handle sheathed at belt, cloth-wrapped half pie held in both hands centered at waist; no visible food close-up needed. A simple CLEAN unbleached cloth bandage around anatomical RIGHT calf above boot (front viewer-left, rear viewer-right), trouser leg rolled only there; no blood. Two full FRONT and REAR body views with same garment and side; large matching face study; isolated rope knot detail. Low dusk light warm muted ochre edges and connected cool slate-violet shadows. Entire adult faces/hands painted with broad opaque oil, no polished illustration.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+                "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+                "inspected": true,
+                "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-825750c5-c67d-4126-a726-f47c4650069a.png",
+            "outputSha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:36:24.949130+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual pixels inspected: source foster sister as distinct adult human, same face/hair/work clothes across two full body views and portrait. Rope, wooden knife handle, wrapped pie and clean calf bandage communicate selected dusk climb; no blood or armor.",
+              "Paint remains broad and opaque across face/hair/clothing and rope, coherent dusk shadows and muted warm edges. Exact source name/title, plain ivory and all silhouettes unclipped, no scenic/floor/swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-825750c5-c67d-4126-a726-f47c4650069a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: source foster sister as distinct adult human, same face/hair/work clothes across two full body views and portrait. Rope, wooden knife handle, wrapped pie and clean calf bandage communicate selected dusk climb; no blood or armor.",
+          "Paint remains broad and opaque across face/hair/clothing and rope, coherent dusk shadows and muted warm edges. Exact source name/title, plain ivory and all silhouettes unclipped, no scenic/floor/swatches or hand studies."
+        ],
+        "specificationSha256": "ca6cf01c168e93ee8692ed585a86a2a78b7dc9e7b9d71514d73e5f24df98f841"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463"
+    },
+    {
+      "id": "selveth",
+      "name": "Selveth",
+      "role": "The wild eagle whose distress bow leads to the cleft",
+      "form": "Ordinary nonmagical adult wild eagle",
+      "selectionEvidence": [
+        {
+          "quote": "Gold irises fixed on her face.",
+          "explanation": "Explicit eye colour."
+        },
+        {
+          "quote": "Not allegiance. Not recognition of a throne. Distress.",
+          "explanation": "Natural nesting bird, not royal magical familiar."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult wild eagle with golden irises, hooked beak, clean feathers except limestone dust along breast. Two wings, two feet, no dragging pinion or clouded eye. Bow lowers whole body, wings open a handspan. Carries wool to nest.",
+        "clothing": "None.",
+        "equipment": "None; transient wool strip can appear as a small personal activity detail."
+      },
+      "visualInterpretation": [
+        "Selveth is an explicitly authorized art-only name for source's wild eagle, not a new canon name.",
+        "Retain original/cover brown mottled plumage and pale head/neck tones, use natural eagle scale (about 90 cm body, 2 m wingspan as illustrative proportions), never the enormous supernatural Eagle shadow.",
+        "Two main configurations folded wings and fully spread flight wings, plus low distress-bow and head studies; no perch or nest scene."
+      ],
+      "states": [
+        {
+          "name": "Wild eagle",
+          "description": "Source living nesting bird before final conquest; ordinary anatomy and behavior."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/when-the-eagle-bowed/title-image.jpg",
+          "role": "Inspected natural eagle brown/pale plumage design and Yavren relationship context; no human subject in sheet.",
+          "inspected": true,
+          "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+        }
+      ],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:selveth",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The wild eagle whose distress bow leads to the cleft",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No compatible historical/current name recovered; distinct selected name searched across universe, frozen names and current story/review inventories; no matches. Source text and canon unchanged."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/selveth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Selveth\"; exact title \"When the Eagle Bowed\"; subtitle \"Wild eagle\". ONE ordinary nonmagical adult EAGLE, NOT a humanoid, giant spirit or armor. Natural eagle anatomy: TWO feathered wings with layered long primary feathers, TWO feathered lower legs and scaly feet, each foot three forward toes and one rear hallux with dark hooked talons, single hooked dark beak with muted yellow cere, golden irises. Rich dark BROWN mantle, bronze-brown wings with cream mottling and pale tawny/cream head and neck as IMAGE 3 bird; dusting of pale limestone on breast. Large main LEFT lateral full bird with folded wings; main CENTER fully spread FLIGHT configuration, both entire wings and tail unclipped; small RIGHT head study and lower RIGHT distress BOW study with body lowered and wings open only a handspan. Labels \"Rest\", \"Flight\", \"Distress bow\", \"Head\". No branch, stone perch, nest, other eagle, human, crown, bands, ropes, magical glow, fire or eagle-shaped cast shadow. Let natural feather mass be built of BROAD opaque bristle strokes and directional impasto, not individual hairline feather etching. Dusk warm touches and cool slate shadows on bird, uninterrupted ivory.",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/title-image.jpg",
+            "role": "Inspected Yavren face/hair identity and wild eagle coloration; source wins on full skull armor and black mineral material.",
+            "inspected": true,
+            "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:19:35.431385+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Selveth\"; exact title \"When the Eagle Bowed\"; subtitle \"Wild eagle\". ONE ordinary nonmagical adult EAGLE, NOT a humanoid, giant spirit or armor. Natural eagle anatomy: TWO feathered wings with layered long primary feathers, TWO feathered lower legs and scaly feet, each foot three forward toes and one rear hallux with dark hooked talons, single hooked dark beak with muted yellow cere, golden irises. Rich dark BROWN mantle, bronze-brown wings with cream mottling and pale tawny/cream head and neck as IMAGE 3 bird; dusting of pale limestone on breast. Large main LEFT lateral full bird with folded wings; main CENTER fully spread FLIGHT configuration, both entire wings and tail unclipped; small RIGHT head study and lower RIGHT distress BOW study with body lowered and wings open only a handspan. Labels \"Rest\", \"Flight\", \"Distress bow\", \"Head\". No branch, stone perch, nest, other eagle, human, crown, bands, ropes, magical glow, fire or eagle-shaped cast shadow. Let natural feather mass be built of BROAD opaque bristle strokes and directional impasto, not individual hairline feather etching. Dusk warm touches and cool slate shadows on bird, uninterrupted ivory.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+                "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+                "inspected": true,
+                "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/title-image.jpg",
+                "role": "Inspected Yavren face/hair identity and wild eagle coloration; source wins on full skull armor and black mineral material.",
+                "inspected": true,
+                "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-900146b5-1042-42a4-9ea0-9fdff9d47a27.png",
+            "outputSha256": "5edacc846bed948bc14e178aa9064182e28df34b394d1569e717960873091efc",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:29:32.748528+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual pixels inspected: one natural eagle identity consistent across complete rest, flight, lowered distress posture and head study. Two wings, two legs, layered primaries and hooked feet; golden eyes, hooked beak, brown/cream feather masses.",
+              "Broad opaque directional oil strokes describe feather form; clear exact title and authorized art-only name; full spread wings uncropped on ivory, no scenery/perch/floor or palette.",
+              "Natural living bird remains distinct from colony's Eagle shadow; no magical glow, regalia or future bookend imagery."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-900146b5-1042-42a4-9ea0-9fdff9d47a27.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "5edacc846bed948bc14e178aa9064182e28df34b394d1569e717960873091efc",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/title-image.jpg",
+            "role": "Inspected Yavren face/hair identity and wild eagle coloration; source wins on full skull armor and black mineral material.",
+            "inspected": true,
+            "sha256": "75e73f1b74ad13a08b01d24cd5d1d8c8b24ce91724c86667e6a240000708d35a"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one natural eagle identity consistent across complete rest, flight, lowered distress posture and head study. Two wings, two legs, layered primaries and hooked feet; golden eyes, hooked beak, brown/cream feather masses.",
+          "Broad opaque directional oil strokes describe feather form; clear exact title and authorized art-only name; full spread wings uncropped on ivory, no scenery/perch/floor or palette.",
+          "Natural living bird remains distinct from colony's Eagle shadow; no magical glow, regalia or future bookend imagery."
+        ],
+        "specificationSha256": "e2d5cbf8c531d8900f93dbefef5dfb20c37ac1517ed2e850ae32d2f32aadca7d"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "5edacc846bed948bc14e178aa9064182e28df34b394d1569e717960873091efc"
+    },
+    {
+      "id": "ulvaret",
+      "name": "Ulvaret",
+      "role": "The weir officer who protects civilians and later recognizes Yavren",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "The weir officer dropped his weapon and ordered his men to follow him off the ridge.",
+          "explanation": "Continuing supporting character, chooses retreat."
+        },
+        {
+          "quote": "When the weir officer knelt and called her Queen of the Valley",
+          "explanation": "Persists through resolution and coronation."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult officer, male pronouns, detailed face unspecified.",
+        "clothing": "Officer's field clothing; ivory warrant tube at belt with cracked seal in opening.",
+        "equipment": "Initially weapon, later dropped; no weapon in selected retreat state."
+      },
+      "visualInterpretation": [
+        "Ulvaret is an authorized new art-only name for source's unnamed weir officer; no canon or source text change.",
+        "Interpret late forties, brown skin, short salt-and-pepper hair and beard, slate-water-blue wool coat, cream shirt, gray trousers, tall worn boots. Water-blue derives faction motif but is not source explicit for this officer.",
+        "Selected after ridge retreat; hands empty, warrant tube retains cracked seal. No crown or invented magical equipment."
+      ],
+      "states": [
+        {
+          "name": "After the ridge retreat",
+          "description": "Unarmed officer before first keep appeal; source repeated supporting identity."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:ulvaret",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The weir officer who protects civilians and later recognizes Yavren",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No compatible historical/current name recovered; distinct selected name searched across universe, frozen names and current story/review inventories; no matches. Source text and canon unchanged."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/ulvaret.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Ulvaret\"; exact title \"When the Eagle Bowed\"; subtitle \"Weir officer\". ONE human MAN about 48, brown skin, broad weathered nose, deep-set small matte dark eyes, cropped salt-and-pepper hair, short squared beard, upright tired and concerned expression. Plain SLATE-WATER-BLUE knee-length wool military field coat with simple horn toggles, cream shirt, gray wool trousers, tall brown leather boots. No breastplate, helmet, crown, sword, spear or metallic jewelry. Both hands empty and lowered after retreat. Small cylindrical IVORY warrant tube at anatomical LEFT belt, with an opened cap secured by cord and visible CRACKED dull red wax seal; front viewer-right/rear viewer-left. Source supplied tube and broken seal, do not invent readable royal letters. Full FRONT and REAR views same attire, large matching face and isolated warrant-tube study. Outdoor declining daylight, cool slate shadow masses with muted ochre touching face, all matte sculptural oil on uninterrupted warm ivory.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:19:35.436393+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Ulvaret\"; exact title \"When the Eagle Bowed\"; subtitle \"Weir officer\". ONE human MAN about 48, brown skin, broad weathered nose, deep-set small matte dark eyes, cropped salt-and-pepper hair, short squared beard, upright tired and concerned expression. Plain SLATE-WATER-BLUE knee-length wool military field coat with simple horn toggles, cream shirt, gray wool trousers, tall brown leather boots. No breastplate, helmet, crown, sword, spear or metallic jewelry. Both hands empty and lowered after retreat. Small cylindrical IVORY warrant tube at anatomical LEFT belt, with an opened cap secured by cord and visible CRACKED dull red wax seal; front viewer-right/rear viewer-left. Source supplied tube and broken seal, do not invent readable royal letters. Full FRONT and REAR views same attire, large matching face and isolated warrant-tube study. Outdoor declining daylight, cool slate shadow masses with muted ochre touching face, all matte sculptural oil on uninterrupted warm ivory.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+                "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+                "inspected": true,
+                "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-a7abdedc-806e-4d1f-86d4-93374426f45a.png",
+            "outputSha256": "7881f7ea3a6b78e9591658248c1fd1cfca11fd75e76bacf5b766a70e30bd578b",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:36:24.961876+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual pixels inspected: consistent adult officer identity, salt-and-pepper beard, plain field coat and boots; empty hands match post-retreat state. Ivory opened warrant tube with broken red seal faithfully uses source distinguishing object.",
+              "Exact authorized art-only name and story title legible. Whole front/rear views and face maintained in opaque directional oil, dusk lighting appropriate and no added powers/crown, no scenery/floor/swatches."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-a7abdedc-806e-4d1f-86d4-93374426f45a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "7881f7ea3a6b78e9591658248c1fd1cfca11fd75e76bacf5b766a70e30bd578b",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+            "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+            "inspected": true,
+            "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent adult officer identity, salt-and-pepper beard, plain field coat and boots; empty hands match post-retreat state. Ivory opened warrant tube with broken red seal faithfully uses source distinguishing object.",
+          "Exact authorized art-only name and story title legible. Whole front/rear views and face maintained in opaque directional oil, dusk lighting appropriate and no added powers/crown, no scenery/floor/swatches."
+        ],
+        "specificationSha256": "8a6678da3f9c36ba49c2e112a91f6fbe8f93276a842736ba99aaa9e04a3e2909"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "7881f7ea3a6b78e9591658248c1fd1cfca11fd75e76bacf5b766a70e30bd578b"
+    },
+    {
+      "id": "grethan",
+      "name": "Grethan",
+      "role": "The ash king, final royal antagonist",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "the king wore no iron at all.",
+          "explanation": "Critical costume boundary."
+        },
+        {
+          "quote": "Leave me this one and I'll recognize your claim.",
+          "explanation": "Final antagonist negotiates then attacks."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult king, male; appearance not detailed. His circlet is too wide for Yavren later.",
+        "clothing": "Royal clothing without any iron.",
+        "equipment": "Circlet/crown, unspecified non-iron material. No supported weapon held."
+      },
+      "visualInterpretation": [
+        "Grethan is a distinct authorized art-only name for source's unnamed ash king, not historical canon.",
+        "Interpret late fifties, light weathered complexion, receding silver-and-black hair, close short beard, charcoal wool/velvet layers with bronze clasps and bronze circlet; no iron/steel, sword or metal armor.",
+        "Do not transfer ash rider's veiled ash-painted mouth to the king; separate identities."
+      ],
+      "states": [
+        {
+          "name": "Before the chapel attack",
+          "description": "Alive final antagonist, no iron, crown still his."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:grethan",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The ash king, final royal antagonist",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No compatible historical/current name recovered; distinct selected name searched across universe, frozen names and current story/review inventories; no matches. Source text and canon unchanged."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/grethan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Grethan\"; exact title \"When the Eagle Bowed\"; subtitle \"Ash king\". ONE human MAN about 58, light weathered skin, long rectangular face, narrow slightly hooked nose, small gray matte eyes, receding silver-and-black hair to collar, short neat silver beard; guarded fearful authority. CHARCOAL wool and muted dark brown velvet calf-length robe, black-brown leather boots, simple solid BRONZE circlet broad enough for his head, bronze clasp at collar, no jewelry elsewhere. Absolutely NO iron or steel, no chainmail, blade, sword, gauntlets or metal breastplate. Hands empty, one against chest and other lowered. Full FRONT/REAR bodies same clothes/circlet, large same-face study and isolated BRONZE CIRCLET. Do not paint ash on mouth or add veil; that belongs to a different officer. Chapel late daylight from IMAGE 2: restrained warm ochre sideplanes and deep cool violet shadows without any chapel/floor visible. Broad painted face, ivory presentation.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/interiors/03-the-ash-kings-chapel.png",
+            "role": "Inspected same-story chapel ochre/violet light and oil handling only; no location.",
+            "inspected": true,
+            "sha256": "906b1245ecd052275951f6c7508c15389e18499e585c4713f0603eb5cdbc33b2"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:19:35.441161+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Grethan\"; exact title \"When the Eagle Bowed\"; subtitle \"Ash king\". ONE human MAN about 58, light weathered skin, long rectangular face, narrow slightly hooked nose, small gray matte eyes, receding silver-and-black hair to collar, short neat silver beard; guarded fearful authority. CHARCOAL wool and muted dark brown velvet calf-length robe, black-brown leather boots, simple solid BRONZE circlet broad enough for his head, bronze clasp at collar, no jewelry elsewhere. Absolutely NO iron or steel, no chainmail, blade, sword, gauntlets or metal breastplate. Hands empty, one against chest and other lowered. Full FRONT/REAR bodies same clothes/circlet, large same-face study and isolated BRONZE CIRCLET. Do not paint ash on mouth or add veil; that belongs to a different officer. Chapel late daylight from IMAGE 2: restrained warm ochre sideplanes and deep cool violet shadows without any chapel/floor visible. Broad painted face, ivory presentation.\nFINAL PRESENTATION PRIORITY: The canvas is uniformly LIGHT warm IVORY #FFF8E8 to every edge and between all studies. Dark lighting belongs ONLY on the character. No brown/black background or vignette. All headings/labels are clear dark charcoal against that ivory.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/interiors/03-the-ash-kings-chapel.png",
+                "role": "Inspected same-story chapel ochre/violet light and oil handling only; no location.",
+                "inspected": true,
+                "sha256": "906b1245ecd052275951f6c7508c15389e18499e585c4713f0603eb5cdbc33b2"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2a81a8a3-4ca9-4ee8-89cb-204cf233ac74.png",
+            "outputSha256": "38c02c769010262274b493c8d89d41c96125bcd4c3f2333eec66d385086b7671",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:36:24.974595+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual pixels inspected: consistent late-middle-aged king with charcoal/brown robe, bronze circlet and bronze clasp; no visible iron, weapon or armor. No ash-painted veil transferred from separate rider. Whole front/rear/portrait and circlet studies readable.",
+              "Same-story chapel-derived warm side light and rich violet shadows preserve dark material masses. Bold opaque painted facial planes, exact authorized art-only name/story title, unclipped ivory character-only format without scenery/floor/swatches."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2a81a8a3-4ca9-4ee8-89cb-204cf233ac74.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "38c02c769010262274b493c8d89d41c96125bcd4c3f2333eec66d385086b7671",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          },
+          {
+            "path": "stories/when-the-eagle-bowed/art/interiors/03-the-ash-kings-chapel.png",
+            "role": "Inspected same-story chapel ochre/violet light and oil handling only; no location.",
+            "inspected": true,
+            "sha256": "906b1245ecd052275951f6c7508c15389e18499e585c4713f0603eb5cdbc33b2"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent late-middle-aged king with charcoal/brown robe, bronze circlet and bronze clasp; no visible iron, weapon or armor. No ash-painted veil transferred from separate rider. Whole front/rear/portrait and circlet studies readable.",
+          "Same-story chapel-derived warm side light and rich violet shadows preserve dark material masses. Bold opaque painted facial planes, exact authorized art-only name/story title, unclipped ivory character-only format without scenery/floor/swatches."
+        ],
+        "specificationSha256": "3117fb3f47a112eb9217550cab77c881c57e670d96bf2d36f8086cf4ee7847a5"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "38c02c769010262274b493c8d89d41c96125bcd4c3f2333eec66d385086b7671"
+    },
+    {
+      "id": "vorrask",
+      "name": "Vorrask",
+      "role": "The living talonmail colony and its emerging Eagle shadow",
+      "form": "Nonhuman many-bodied mineral colony with shadow manifestation",
+      "selectionEvidence": [
+        {
+          "quote": "Each flexed at its pale joint and clawed free, dragging a braid of dark filaments after it.",
+          "explanation": "Living constituent anatomy."
+        },
+        {
+          "quote": "The eagle's feet were still joined to her heels.",
+          "explanation": "Shadow belongs to colony-bearer relation, not a separate ordinary bird."
+        },
+        {
+          "quote": "Across the square, the shadow began to lift one wing.",
+          "explanation": "Unresolved emerging loss of control, no later full-power finale."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Many black mineral-bright hooked plates with pale flexing joints, dark braided filaments, rasping mouth-parts; thumbnail-size edge plates to shovel-blade central plates. Mobile aggregate, no intrinsic human body. Eats iron and responds to heat/raised weapons. Eagle-shaped shadow with hooked beak/feathers/feet can rise, remain linked to bearer and begin autonomous movement.",
+        "clothing": "The colony itself is armor when fitted over Yavren; no unrelated empty suit or human wearer for isolated study.",
+        "equipment": "None."
+      },
+      "visualInterpretation": [
+        "Vorrask is an authorized art-only name for the living colony, also labeling its Eagle shadow as one source-linked identity; no new canon being or separable spirit body.",
+        "Present unattached colony as a low sinuous overlapping aggregate, close studies of hooked plate underside/pale joint/filaments, and a clearly labeled flat eagle-shadow morphology study on ivory.",
+        "Reference bookend images inspected only for eagle silhouette vocabulary; red eclipse, fire, glowing eyes, giant physical full-power bird, romance and reconstruction are excluded. Abstract isolated shadow study communicates morphology, not independent detachment from bearer."
+      ],
+      "states": [
+        {
+          "name": "Unattached colony",
+          "description": "Opening material body before enveloping Yavren."
+        },
+        {
+          "name": "Eagle shadow — emerging",
+          "description": "Current ending's partially lifting wing; diagrammatic morphology only, source remains connected to bearer."
+        }
+      ],
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-ac97df8e-840f-4019-a228-ac069b37d0b0.png",
+          "role": "Inspected later-bookend original: eagle silhouette only; all future state, red fire, lovers and giant scale excluded.",
+          "inspected": true,
+          "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1258888e-1797-40e3-974b-41a9af579585.png",
+          "role": "Inspected re-supplied duplicate of later-bookend reference; same morphology-only boundary; not attached redundantly.",
+          "inspected": true,
+          "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3"
+        }
+      ],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:vorrask",
+        "links": [],
+        "evidence": "No exact current universe or name-memory identity match; source-local unless sequel explicitly connects."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The living talonmail colony and its emerging Eagle shadow",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No compatible historical/current name recovered; distinct selected name searched across universe, frozen names and current story/review inventories; no matches. Source text and canon unchanged."
+      },
+      "output": "stories/when-the-eagle-bowed/art/characters/vorrask.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this reference folio preserving both full low crawling/coiled mineral-colony configurations and plate/joint/filament details exactly. Replace the ENTIRE BACKGROUND with uniform very LIGHT warm IVORY #FFF8E8, including every margin/gap; no brown, gradient, vignette, floor or scenic shadow patch. Keep mineral body dark; subject darkness must not tint the page. Restore CLEAR DARK CHARCOAL lettering: heading \"Vorrask\", title \"When the Eagle Bowed\", subtitle \"Living talonmail\". Preserve concise labels \"Crawling configuration\", \"Plate and joint\", \"Rasping mouth-parts\". Replace only the lower-right bird-like study with a FLAT dark charcoal eagle-shaped SHADOW SILHOUETTE: solid connected shadow paint, hooked beak in profile, two feet tapering to two attachment ends, feather-scalloped edge with its wings otherwise folded and just ONE wing beginning to lift. No internal modeled feathers, eyes, highlights or physical bird body. Label \"Eagle shadow — emerging\". This is a morphology study of the colony's source-linked shadow, not a new separate creature. No human wearer, no red glow/fire/eclipse or full-power wingspread.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-97f41c60-3e06-40d9-b7ba-d24604b518a9.png",
+            "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+            "inspected": true,
+            "sha256": "7519f014e0e79a3dc188f844db548dae84b984ec5f174e7ce7e0f5d59c3e6cbc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:19:35.456601+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. One finished character reference folio, 1536x1024 landscape 3:2, uninterrupted warm ivory ground. Character studies only, no scenic vignette, scenery, floor or grounding patches, palette strip, colour swatches, ornamental border, or other character. Readable exact name and story title at upper left, short useful labels only. Canadian Group of Seven sculptural oil: BROAD CONNECTED opaque colour masses, large decisive directional bristle strokes, selective thick palette-knife impasto, scraped edges, quiet deep shadow masses. Apply equally to faces, hands and costume; small ordinary MATTE eyes, simple painted lids/lips, no realistic skin, glossy anime eyes, photo lashes, digital bevel texture or plastic. Attached character reference supplies PAINT HANDLING ONLY, never identity, clothes, hair or skin tone. Same-story landscape/interior provides light and palette only; no location from it. Two complete uncropped body/form views plus distinguishing detail studies, clear spacing and readable silhouettes.\nExact heading \"Vorrask\"; exact title \"When the Eagle Bowed\"; subtitle \"Living talonmail\". ONE NONHUMAN MANY-BODIED mineral colony, not a person, robot, animal skeleton or empty humanoid suit. LEFT large three-quarter view of UNATTACHED colony as a LOW flowing coiled/sinuous aggregate of hundreds of overlapping BLACK mineral-bright hook-backed plates, small thumbnail-size edge scales to shovel-blade central slabs, each plate supported by small pale flexing joints with hooked undersides; braided charcoal filaments connect them. Lower LEFT second lateral configuration of SAME aggregate crawling, never upright or humanoid. RIGHT upper two close studies: a single curved black plate with pale joint/underside hooks and fine rasping mouth-parts; twisted connecting dark filaments. RIGHT lower isolated flat CHARCOAL EAGLE-SHAPED SHADOW morphology: hooked beak in profile, feather-scalloped outline, body and folded wings with only ONE wing beginning to lift, two feet tapering into two thin attachment ends. Label this ONLY \"Eagle shadow — emerging\", not a separate bird. Shadow is flat dark paint silhouette, no red eyes, fire, physical plumage, eclipse or giant wingspread. No Yavren or other human body, no helmet/empty suit, no scene/floor/background rock or actual cast-shadow patch. These are isolated morphological studies of source-linked body and effect on warm ivory. Dim slate mineral backs with restrained dusk ochre edges, opaque sculpted paint, broad masses not photoreal armor.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil and connected directional brush masses only; never identity/costume/skin or night-light source.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              },
+              {
+                "path": "stories/when-the-eagle-bowed/art/landscapes/03-limestone-fin-at-dusk.png",
+                "role": "Inspected same-story dusk palette and broad oil handling only; no landscape copied into character sheet.",
+                "inspected": true,
+                "sha256": "f023e706c2ef213e17d901581c68853c111c71bf7e2d65bd5e39a277b889daa6"
+              }
+            ],
+            "preflight": [
+              "Entire source, prompt and original pixels inspected. Scope excludes later bookend full-power/fire/romance; six cast identities distinguished and absent names authorized as art-only.",
+              "Prepared prompt checked against selected source states, anatomy, actual inspected references and 3:2 reading space. Only 2-4 useful images; source governs all cover departures."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-97f41c60-3e06-40d9-b7ba-d24604b518a9.png",
+            "outputSha256": "7519f014e0e79a3dc188f844db548dae84b984ec5f174e7ce7e0f5d59c3e6cbc",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:29:32.767579+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Actual mineral colony has low aggregate form, hooked plates, pale joints and filaments without a humanoid donor body. Generator made brown background with unreadable title. Shadow effect appears too material/feathered rather than a flat dark source manifestation; make diagrammatic silhouette with only one wing lifting."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:29:33.737663+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this reference folio preserving both full low crawling/coiled mineral-colony configurations and plate/joint/filament details exactly. Replace the ENTIRE BACKGROUND with uniform very LIGHT warm IVORY #FFF8E8, including every margin/gap; no brown, gradient, vignette, floor or scenic shadow patch. Keep mineral body dark; subject darkness must not tint the page. Restore CLEAR DARK CHARCOAL lettering: heading \"Vorrask\", title \"When the Eagle Bowed\", subtitle \"Living talonmail\". Preserve concise labels \"Crawling configuration\", \"Plate and joint\", \"Rasping mouth-parts\". Replace only the lower-right bird-like study with a FLAT dark charcoal eagle-shaped SHADOW SILHOUETTE: solid connected shadow paint, hooked beak in profile, two feet tapering to two attachment ends, feather-scalloped edge with its wings otherwise folded and just ONE wing beginning to lift. No internal modeled feathers, eyes, highlights or physical bird body. Label \"Eagle shadow — emerging\". This is a morphology study of the colony's source-linked shadow, not a new separate creature. No human wearer, no red glow/fire/eclipse or full-power wingspread.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-97f41c60-3e06-40d9-b7ba-d24604b518a9.png",
+                "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+                "inspected": true,
+                "sha256": "7519f014e0e79a3dc188f844db548dae84b984ec5f174e7ce7e0f5d59c3e6cbc"
+              }
+            ],
+            "preflight": [
+              "Actual target inspected. Subject forms and identity preserved; restore user-mandated ivory and readable exact name/title. Source four plate count or flat shadow morphology corrected without changing chronology.",
+              "No hand study, side-label exercise or speculative anatomy correction."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-68e753cf-f5c3-4ff0-923e-59727f5372b8.png",
+            "outputSha256": "e82f6aa5ae64584fad64239314171ef981e8d799dd05fc36253a4f7bf75330e6",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:36:24.938598+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual revised pixels inspected: low crawling/coiled colony configurations preserve overlapping hooked black mineral plates, pale joints, dark connecting filaments and mouth-part study; no human wearer or invented humanoid body.",
+              "Separate labeled emerging shadow study is a flat connected dark silhouette with one wing raised and tapered attachment ends. It diagrams the source-linked effect, not an independently detached physical bird; no late-bookend red eyes, fire, eclipse or full-power giant body.",
+              "Exact authorized art-only name/title and useful detail labels legible on restored bright ivory. Bold sculpted mineral paint, complete unclipped body configurations, no scenic backdrop/floor or palette."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-68e753cf-f5c3-4ff0-923e-59727f5372b8.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5",
+        "outputSha256": "e82f6aa5ae64584fad64239314171ef981e8d799dd05fc36253a4f7bf75330e6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-97f41c60-3e06-40d9-b7ba-d24604b518a9.png",
+            "role": "Inspected actual first candidate; preserve source body and identity, correct ivory/readability and documented morphology only.",
+            "inspected": true,
+            "sha256": "7519f014e0e79a3dc188f844db548dae84b984ec5f174e7ce7e0f5d59c3e6cbc"
+          }
+        ],
+        "evidence": [
+          "Actual revised pixels inspected: low crawling/coiled colony configurations preserve overlapping hooked black mineral plates, pale joints, dark connecting filaments and mouth-part study; no human wearer or invented humanoid body.",
+          "Separate labeled emerging shadow study is a flat connected dark silhouette with one wing raised and tapered attachment ends. It diagrams the source-linked effect, not an independently detached physical bird; no late-bookend red eyes, fire, eclipse or full-power giant body.",
+          "Exact authorized art-only name/title and useful detail labels legible on restored bright ivory. Bold sculpted mineral paint, complete unclipped body configurations, no scenic backdrop/floor or palette."
+        ],
+        "specificationSha256": "7e65368be8e02ac63b2ea433c45e24ee7ab63666101cd6d6029725e0a6257a1c"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e82f6aa5ae64584fad64239314171ef981e8d799dd05fc36253a4f7bf75330e6"
+    }
+  ],
+  "sourceSha256": "4910695ac7a113b0be5f9a1ca225d8072a564839ab00838be93d47da2d87a8c5"
+}
