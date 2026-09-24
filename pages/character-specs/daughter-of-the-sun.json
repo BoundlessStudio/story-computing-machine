@@ -1,0 +1,1440 @@
+{
+  "slug": "daughter-of-the-sun",
+  "title": "Daughter of the Sun",
+  "source": "stories/daughter-of-the-sun/05-story.md",
+  "canon": true,
+  "mainCastEvidence": "Read complete finished bundle prose lines1–305 and authoritative story.json canon=true. Eight substantial identities: six active participants (Daughter, Seris, Cythra, Tovan, Orrin, Calvea), historical Queen whose decision drives central conflict, responsive Mother-fragment whose final independent choice makes transfer possible. Queen/remnant distinct presentation preserves unresolved ontology. Seven postdivision Tovan voices represented as source-supported collective state, not separate unsupported bodies.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Deryn Venn",
+      "reason": "Brief historical family-record witness; repeats one warning, no independent present action. Not every named ancestor requires main-cast art."
+    },
+    {
+      "name": "Priests, guards, households and residents",
+      "reason": "Collective audience/witnesses, no individually sustained main roles."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: authority hierarchy",
+    "universe/characters.md: The Daughter; Queen Aurelia; Mother-fragment; Seris Venn; Tovan Rek; Orrin Pell; Sister Calvea Dorn; Chancellor Cythra Dhal; Deryn Venn",
+    "universe/rules.md: Glass-Sea living solar fire and branch network; Glass-Sea witness and archive recovery; Calvea's dusk working and Calling the Name; Living constructed participants in the Crown system; Capital thermal oath-seal and sink",
+    "stories/NAMES.md and current/bundle prose/review exact-name checks: other matches are comparisons, not new appearances; Solvienne/Iserelle art names unused"
+  ],
+  "characters": [
+    {
+      "id": "solvienne",
+      "name": "Solvienne",
+      "sourceIdentityId": "the-daughter",
+      "nameAssignment": {
+        "name": "Solvienne",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "The Daughter",
+        "scope": "Art and metadata only. Canonical personal name remains unrevealed; no prose/universe change or ontology ruling.",
+        "nameCheck": "Exact proposed name searched across universe, frozen NAMES, all current and bundle Markdown including prose/reviews; no matches."
+      },
+      "role": "Central Daughter protagonist, living solar-fire source who refuses sovereignty",
+      "selectionEvidence": [
+        {
+          "line": 13,
+          "quote": "light began to gather under her skin",
+          "explanation": "Visible power originates living body."
+        },
+        {
+          "line": 19,
+          "quote": "For four centuries",
+          "explanation": "Long-lived adult, not a present infant."
+        },
+        {
+          "line": 283,
+          "quote": "The Daughter's scars split into light.",
+          "explanation": "State detail."
+        },
+        {
+          "line": 295,
+          "quote": "refused the coronation",
+          "explanation": "Do not crown her."
+        }
+      ],
+      "form": "Long-lived human-shaped woman with bounded solar-fire manifestations",
+      "storyAppearance": {
+        "anatomy": "Human-shaped woman, ordinary hands and boots; no wings/horns/species transformation stated.",
+        "lifeStage": "Survived infant400years ago; present adult exact apparent age unspecified.",
+        "proportions": "Adult human.",
+        "markings": "Scars that split into light at second dawn; exact shape/location not stated.",
+        "materials": "Living skin with gathering internal light; blood gold-centred.",
+        "clothing": "Boots explicit, other outfit unspecified; no crown.",
+        "equipment": "No personal sceptre/weapon; gold wrist restraints imposed in one scene, optional separate state only.",
+        "scale": "Adult human.",
+        "movement": "Open hands, palm flat, chosen controlled fire rather than permanent inferno.",
+        "distinctiveFeatures": "Solar light gathers wrists and spreads to elbows under stress; body not all-gold statue."
+      },
+      "explicitCanon": [
+        "CANON living solar fire, four-century survival, unrevealed personal name; art name does not change that.",
+        "Source scar light, wrists/elbows glow, boots, refused coronation."
+      ],
+      "visualInterpretation": [
+        "Apparent early30s; warm medium-brown skin, amber-brown eyes, long dark auburn braid, oval face with strong nose.",
+        "Simple sand-coloured long travel tunic, slate wrap trousers, brown boots and open cream overshirt; no religious regalia. Narrow healed pale scars along forearms chosen to place unspecified scars; distinguish chosen exact pattern.",
+        "Main calm body views; separate glowing-wrist/open-hand and scar-light studies. Restrained internal gold light against cool blue-grey shade, no scene."
+      ],
+      "states": [
+        {
+          "label": "Covenant",
+          "description": "Calm adult, open hands, only faint wrist warmth."
+        },
+        {
+          "label": "Solar fire",
+          "description": "Wrists/forearms light under skin; restrained emissive paint."
+        },
+        {
+          "label": "Second dawn",
+          "description": "Small forearm study healed lines opening into light, not gore."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:the-daughter",
+        "links": [
+          "universe/characters.md#the-daughter"
+        ],
+        "evidence": "Canonical identity explicitly linked; personal name remains unrevealed. Other story matches only comparative review notes."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/solvienne.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 1536×1024 landscape character-only folio, quiet warm IVORY ground. Exact heading “Solvienne”; exact story title “Daughter of the Sun”. A small concise source-role label “The Daughter”.\n\nSolvienne is an ART NAME for the source's Daughter, not a canonical name revelation. Depict one long-lived human-shaped woman, apparent early30s: medium-brown warm skin, oval face, strong broad-bridged nose, amber-brown eyes, long dark AUBURN BRAID down her back. Distinct from the attached style woman's face. No bun, pencils, armour, cloak, crown, halo or wings. Plain sand-coloured knee-length travel tunic, slate wrap trousers, brown boots, open simple cream overshirt, sleeves pushed up to expose wrists/forearms. Ordinary five-finger hands and human proportions. Calm and observant, not regal/saintly.\n\nThree unclipped full-body views front-three-quarter/profile/back, fully clothed. Main state only faint warm light UNDER skin at wrists. To the right: thoughtful face; isolated paired open human hands/forearms “Solar fire” with restrained golden light spreading from wrists toward elbows, fingers ordinary; small separate forearm detail “Second dawn” with a few pale healed lines opening into GOLD LIGHT, no blood/wounds. No imposed restraints needed. She refuses coronation and permanent rule; no crown/sceptre or grand weapon.\n\nInput1 Melicent PRIMARY approved broad OIL construction/folio only: no face, bun, armor, red cloak, sword or props transfer. Input2 Crown chamber gives cool blue-grey shade and restrained cream-gold planes, NOT any geography/black-sun mechanism. The Daughter's localized inner solar light warms only her palms/nearby forearms, not a glowing full-body outline. Body otherwise receives quiet cool enclosed ambient; ivory stays calm.\n\nCanadian Group of Seven-inspired heavy oil masses: large connected painted colour/value shapes across FACE, hair, cloth, hands; decisive varied bristle, selective substantial impasto, quieter passages. Eyes matte, facial features painted as boldly as body. No smooth CGI/anime/photographic face, fine linework or uniform bevelled gold flakes. Light is broad paint values, not lens bloom.\n\nExact name/title readable, concise labels only. Absolutely NO scene, altar, room, landscape, floor/contact shadows/ground patch, swatches/palette strips or decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T23:15:07.6200566Z",
+            "status": "PASS",
+            "prompt": "Create ONE 1536×1024 landscape character-only folio, quiet warm IVORY ground. Exact heading “Solvienne”; exact story title “Daughter of the Sun”. A small concise source-role label “The Daughter”.\n\nSolvienne is an ART NAME for the source's Daughter, not a canonical name revelation. Depict one long-lived human-shaped woman, apparent early30s: medium-brown warm skin, oval face, strong broad-bridged nose, amber-brown eyes, long dark AUBURN BRAID down her back. Distinct from the attached style woman's face. No bun, pencils, armour, cloak, crown, halo or wings. Plain sand-coloured knee-length travel tunic, slate wrap trousers, brown boots, open simple cream overshirt, sleeves pushed up to expose wrists/forearms. Ordinary five-finger hands and human proportions. Calm and observant, not regal/saintly.\n\nThree unclipped full-body views front-three-quarter/profile/back, fully clothed. Main state only faint warm light UNDER skin at wrists. To the right: thoughtful face; isolated paired open human hands/forearms “Solar fire” with restrained golden light spreading from wrists toward elbows, fingers ordinary; small separate forearm detail “Second dawn” with a few pale healed lines opening into GOLD LIGHT, no blood/wounds. No imposed restraints needed. She refuses coronation and permanent rule; no crown/sceptre or grand weapon.\n\nInput1 Melicent PRIMARY approved broad OIL construction/folio only: no face, bun, armor, red cloak, sword or props transfer. Input2 Crown chamber gives cool blue-grey shade and restrained cream-gold planes, NOT any geography/black-sun mechanism. The Daughter's localized inner solar light warms only her palms/nearby forearms, not a glowing full-body outline. Body otherwise receives quiet cool enclosed ambient; ivory stays calm.\n\nCanadian Group of Seven-inspired heavy oil masses: large connected painted colour/value shapes across FACE, hair, cloth, hands; decisive varied bristle, selective substantial impasto, quieter passages. Eyes matte, facial features painted as boldly as body. No smooth CGI/anime/photographic face, fine linework or uniform bevelled gold flakes. Light is broad paint values, not lens bloom.\n\nExact name/title readable, concise labels only. Absolutely NO scene, altar, room, landscape, floor/contact shadows/ground patch, swatches/palette strips or decorative prose.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "approved oil/presentation only; exclude human identity/cloak/armor",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+                "role": "cool enclosed light/cream-gold palette only, exclude setting",
+                "inspected": true,
+                "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-9b11fd88-acae-4674-bca8-0b97429a3f75.png",
+            "returnedSha256": "447f788348a9701cff98483a0f5b59d4a7f1dcb54b6bc611c0972239d69113ca",
+            "completedAt": "2026-09-23T19:20:21.889946-04:00",
+            "review": [
+              "Actual pixels inspected: adult human Daughter with three unclipped views, ordinary five-finger hands, restrained localized solar wrist/forearm light and separate scar-light study.",
+              "Source role The Daughter and art name Solvienne correctly distinguished in metadata; no crown, godhood assertion, wings or invented nonhuman form.",
+              "Exact title/readable name, substantial painted body/face/clothes; no scenery, ground patches or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "approved oil/presentation only; exclude human identity/cloak/armor",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "cool enclosed light/cream-gold palette only, exclude setting",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T19:20:21.892527-04:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "447f788348a9701cff98483a0f5b59d4a7f1dcb54b6bc611c0972239d69113ca",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "approved oil/presentation only; exclude human identity/cloak/armor",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "cool enclosed light/cream-gold palette only, exclude setting",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: adult human Daughter with three unclipped views, ordinary five-finger hands, restrained localized solar wrist/forearm light and separate scar-light study.",
+          "Source role The Daughter and art name Solvienne correctly distinguished in metadata; no crown, godhood assertion, wings or invented nonhuman form.",
+          "Exact title/readable name, substantial painted body/face/clothes; no scenery, ground patches or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "86ad20be652459aa75a6234a366cb5bd7ba5fc8aefe969ebe061f9ab16e9cbf6"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed.",
+        "always give the characters names if there are missing them."
+      ],
+      "outputSha256": "447f788348a9701cff98483a0f5b59d4a7f1dcb54b6bc611c0972239d69113ca"
+    },
+    {
+      "id": "seris-venn",
+      "name": "Seris Venn",
+      "role": "Armored guardian and temporary revocable capital steward",
+      "selectionEvidence": [
+        {
+          "line": 15,
+          "quote": "touched two fingers to the inside of her left wrist",
+          "explanation": "Grounding gesture not coercion."
+        },
+        {
+          "line": 49,
+          "quote": "a thin disk from beneath her breastplate",
+          "explanation": "Armor and oath-record."
+        },
+        {
+          "line": 203,
+          "quote": "Seris put her shield across the Daughter's path.",
+          "explanation": "Protective agency includes refusal."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman; no nonhuman traits.",
+        "lifeStage": "Adult descendant of Deryn; no400year age claim.",
+        "proportions": "Armored adult, capable bearing shield.",
+        "markings": "None specified.",
+        "materials": "Metal armour/shield, ordinary skin/hair.",
+        "clothing": "Breastplate and armor, exact design unspecified.",
+        "equipment": "Shield and thin oath-record disk under breastplate; no source sword required.",
+        "scale": "Adult human.",
+        "movement": "Braces shield, arms shake under heat, touch two fingers gently.",
+        "distinctiveFeatures": "Functional armor and protective shield; not ancestor Deryn."
+      },
+      "explicitCanon": [
+        "CANON Deryn descendant and Daughter's armored guardian; revocable temporary steward.",
+        "Source breastplate, shield, thin oath-record disk."
+      ],
+      "visualInterpretation": [
+        "Late30s, cool tawny complexion, short dark chestnut hair, wide-set grey-brown eyes, broad nose and resolute jaw.",
+        "Dull slate iron breastplate/segmented arm guards over muted blue padded cloth, practical greaves/boots; plain oval shield. Oath disk palm-sized dark bronze. No invented heraldic insignia or sword."
+      ],
+      "states": [
+        {
+          "label": "Guardian",
+          "description": "Main armor/shield views."
+        },
+        {
+          "label": "Refusal",
+          "description": "Braced posture/expression, shield ordinary not glowing."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:seris-venn",
+        "links": [
+          "universe/characters.md#seris-venn"
+        ],
+        "evidence": "Exact canon identity; no independent recurrence identified."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One 1536×1024 landscape character-only reference folio, quiet WARM IVORY, exact heading “Seris Venn”, exact subtitle “Daughter of the Sun”.\n\nSeris is the Daughter's ordinary HUMAN armored guardian, adult late30s interpretation, not immortal ancestor. Cool tawny complexion, broad nose, wide-set grey-brown eyes, resolute square jaw. SHORT straight dark chestnut hair cut around ears, no bun/braid/hair pencils. Strong capable ordinary build. Dull SLATE-IRON breastplate and segmented arm guards over muted BLUE padded cloth, practical dark greaves/leather boots. Plain OVAL SHIELD of dark iron with worn rim, no heraldry or spikes. Thin palm-sized dark bronze OATH-RECORD DISK normally concealed beneath breastplate, shown as separate detail. No sword, spear, cape, helmet, crown or invented holy symbol.\n\nThree useful unclipped full-body views front/side/back, shield held in anatomical LEFT hand (image-right in front, image-left in back), consistent grip/arm. Main front stance attentive, side allows breastplate silhouette, rear armor attachment coherent. Small face studies “Resolve” and “Concern”. One small separate braced-shield upper-body posture “Refusal”, same one identity; useful equipment detail “Oath-record” disk. Do not make disk into giant shield or medallion permanently on chest.\n\nInput1 Melicent is PRIMARY broad oil/form rendering and ivory folio ONLY: no red cloak, face, sword, helmet, braid or costume transfer. Input2 chamber supplies cool blue-grey enclosed light with restrained warm cream reflected planes, no room/scene transfer. Functional metal catches broad dull highlights, NOT glossy bevel lights. Main subject ambient cool; local warm bounce restrained, no cinematic glowing rim.\n\nCanadian Group of Seven-inspired heavy OIL: large connected colour/value masses, substantial selective impasto, broad directional bristle and quiet dark passages. Treat face/skin as strongly painted as armor, matte expressive eyes. No CGI, anime outlines, photoreal face or uniform tiny gold chips. Different materials described by stroke, not polished specularity.\n\nFive-finger hands, full silhouettes spaced/unclipped, exact heading/title readable. Concise labels only. NO setting/scene/ground patches/floor/contact shadows, paint swatches, palette bars or decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T23:20:23.1792191Z",
+            "status": "PASS",
+            "prompt": "One 1536×1024 landscape character-only reference folio, quiet WARM IVORY, exact heading “Seris Venn”, exact subtitle “Daughter of the Sun”.\n\nSeris is the Daughter's ordinary HUMAN armored guardian, adult late30s interpretation, not immortal ancestor. Cool tawny complexion, broad nose, wide-set grey-brown eyes, resolute square jaw. SHORT straight dark chestnut hair cut around ears, no bun/braid/hair pencils. Strong capable ordinary build. Dull SLATE-IRON breastplate and segmented arm guards over muted BLUE padded cloth, practical dark greaves/leather boots. Plain OVAL SHIELD of dark iron with worn rim, no heraldry or spikes. Thin palm-sized dark bronze OATH-RECORD DISK normally concealed beneath breastplate, shown as separate detail. No sword, spear, cape, helmet, crown or invented holy symbol.\n\nThree useful unclipped full-body views front/side/back, shield held in anatomical LEFT hand (image-right in front, image-left in back), consistent grip/arm. Main front stance attentive, side allows breastplate silhouette, rear armor attachment coherent. Small face studies “Resolve” and “Concern”. One small separate braced-shield upper-body posture “Refusal”, same one identity; useful equipment detail “Oath-record” disk. Do not make disk into giant shield or medallion permanently on chest.\n\nInput1 Melicent is PRIMARY broad oil/form rendering and ivory folio ONLY: no red cloak, face, sword, helmet, braid or costume transfer. Input2 chamber supplies cool blue-grey enclosed light with restrained warm cream reflected planes, no room/scene transfer. Functional metal catches broad dull highlights, NOT glossy bevel lights. Main subject ambient cool; local warm bounce restrained, no cinematic glowing rim.\n\nCanadian Group of Seven-inspired heavy OIL: large connected colour/value masses, substantial selective impasto, broad directional bristle and quiet dark passages. Treat face/skin as strongly painted as armor, matte expressive eyes. No CGI, anime outlines, photoreal face or uniform tiny gold chips. Different materials described by stroke, not polished specularity.\n\nFive-finger hands, full silhouettes spaced/unclipped, exact heading/title readable. Concise labels only. NO setting/scene/ground patches/floor/contact shadows, paint swatches, palette bars or decorative prose.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "approved heavy oil treatment only; exclude identity/costume/weapon",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+                "role": "cool enclosed light with cream reflected planes only; no scene",
+                "inspected": true,
+                "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-7f2b0e05-0e73-4ef5-a1d8-c590fb0f179d.png",
+            "returnedSha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c",
+            "completedAt": "2026-09-23T19:25:38.809528-04:00",
+            "review": [
+              "Actual pixels inspected: Seris consistent short-haired armored female identity, three unclipped full views, left-hand shield correctly carries through front/rear.",
+              "Functional breastplate/shield/oath-record disk and refusal posture source supported; no sword/crown/cape.",
+              "Exact name/title, broad painted armor and facial planes, clean ivory no setting/ground/swatch."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "approved heavy oil treatment only; exclude identity/costume/weapon",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "cool enclosed light with cream reflected planes only; no scene",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T19:25:38.81227-04:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "approved heavy oil treatment only; exclude identity/costume/weapon",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "cool enclosed light with cream reflected planes only; no scene",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: Seris consistent short-haired armored female identity, three unclipped full views, left-hand shield correctly carries through front/rear.",
+          "Functional breastplate/shield/oath-record disk and refusal posture source supported; no sword/crown/cape.",
+          "Exact name/title, broad painted armor and facial planes, clean ivory no setting/ground/swatch."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "7b261642ef8822c332ff0f440118c1aef19a41b475a08b6aee34a9ada1b6cd38"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+    },
+    {
+      "id": "chancellor-cythra-dhal",
+      "name": "Chancellor Cythra Dhal",
+      "role": "Central antagonist/necessary sink authorizer, later publicly accountable",
+      "selectionEvidence": [
+        {
+          "line": 17,
+          "quote": "My office's thermal oath-seal is the only key",
+          "explanation": "Exclusive authority mechanism."
+        },
+        {
+          "line": 189,
+          "quote": "thermal oath-seal burning on her chest",
+          "explanation": "Worn identifying equipment."
+        },
+        {
+          "line": 293,
+          "quote": "surrendered her broken seal",
+          "explanation": "Final state after authority loss."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human.",
+        "lifeStage": "Adult chancellor; age unspecified.",
+        "proportions": "Ordinary adult.",
+        "markings": "Sweat and reflected gold at crisis, no permanent brand stated.",
+        "materials": "Human skin/cloth, thermal seal material unspecified.",
+        "clothing": "Office outfit unspecified, seal on chest.",
+        "equipment": "Office-bound thermal oath-seal, cracking later; not universal magical jewellery.",
+        "scale": "Adult human.",
+        "movement": "Controlled commands, tense closed eyes at release, accountability.",
+        "distinctiveFeatures": "Chest seal active then broken; no queen's crown."
+      },
+      "explicitCanon": [
+        "CANON alone holds office-bound seal, bounded release, surrenders broken seal/judgment.",
+        "No fixed face/hair/clothes design."
+      ],
+      "visualInterpretation": [
+        "Early50s, dark olive complexion, high cheekbones and angular long nose, severe silver-black hair tightly combed into low knot.",
+        "Aubergine formal coat with restrained bronze closures, charcoal dress/trousers and closed boots; flat bronze-gold palm-sized thermal seal on chest. Simple geometric seal design an art choice, no invented legible oaths."
+      ],
+      "states": [
+        {
+          "label": "Continuance",
+          "description": "Main with intact chest seal."
+        },
+        {
+          "label": "Bounded release",
+          "description": "Small cracking seal detail, gold glow local only."
+        },
+        {
+          "label": "After judgment begins",
+          "description": "Head expression no regalia escalation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:chancellor-cythra-dhal",
+        "links": [
+          "universe/characters.md#chancellor-cythra-dhal"
+        ],
+        "evidence": "Exact canon identity; comparison mentions elsewhere not appearances."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/chancellor-cythra-dhal.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 1536×1024 landscape character-only reference folio on quiet warm IVORY. Exact heading upper left “Chancellor Cythra Dhal” (fit with readable moderate type); exact subtitle “Daughter of the Sun”. One identity.\n\nCythra Dhal is a HUMAN adult chancellor, early50s interpretation, dark olive skin, high angular cheekbones, long pointed nose, narrow intense dark eyes, severe SILVER-BLACK straight hair tightly combed into a low knot. She looks politically formidable and tired, not a young warrior or crowned queen. No hair sticks/pencils. Aubergine formal knee-length coat with restrained bronze closures, cream high-collar underlayer, charcoal trousers and closed dark boots. A single FLAT palm-sized bronze-gold thermal oath-seal worn at centre CHEST is her defining equipment. Simple geometric seal, not a religious icon or invented legible oath.\n\nThree unclipped full-body views front/profile/back, same tailored outfit. Two head studies “Command” (controlled firm expression) and “Decision” (eyes closed, tense face). Equipment detail “Thermal oath-seal” intact flat medallion; separate small “After release” state of SAME seal cracked, no longer glowing. No throne, crown, staff, guards or weapon.\n\nInput1 Seris Venn is PRIMARY reviewed OIL form/presentation reference only: no armor/shield/disks resembling her oath-record; Cythra is distinct older face, dark olive skin, formal aubergine clothing. Input2 chamber gives cool blue-grey enclosed shade and local restrained cream-gold planes. Seal may emit a SMALL gold warmth on nearby chest in main state, no full-body halo. No cinematic rim/gloss or daylight flood. Quiet ground stays ivory.\n\nCanadian Group of Seven-inspired oil: large connected colour/value masses, substantial selective impasto, broad directional bristle strokes and quiet shaded passages. Paint cheekbones/forehead/hands as decisively as coat; no smooth CGI/photoreal/anime face. Rich matte fabrics, dull metal, matte eyes. Avoid uniform little bevelled golden chips and neon glow; light conveyed by painted planes.\n\nConcise useful labels only, title/name clear, five-finger anatomy, all views uncropped. NO setting/scene/vignette/furniture/floor/contact-shadow patches, swatches/palette strip or decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T23:25:39.8104001Z",
+            "status": "PASS",
+            "prompt": "Create ONE 1536×1024 landscape character-only reference folio on quiet warm IVORY. Exact heading upper left “Chancellor Cythra Dhal” (fit with readable moderate type); exact subtitle “Daughter of the Sun”. One identity.\n\nCythra Dhal is a HUMAN adult chancellor, early50s interpretation, dark olive skin, high angular cheekbones, long pointed nose, narrow intense dark eyes, severe SILVER-BLACK straight hair tightly combed into a low knot. She looks politically formidable and tired, not a young warrior or crowned queen. No hair sticks/pencils. Aubergine formal knee-length coat with restrained bronze closures, cream high-collar underlayer, charcoal trousers and closed dark boots. A single FLAT palm-sized bronze-gold thermal oath-seal worn at centre CHEST is her defining equipment. Simple geometric seal, not a religious icon or invented legible oath.\n\nThree unclipped full-body views front/profile/back, same tailored outfit. Two head studies “Command” (controlled firm expression) and “Decision” (eyes closed, tense face). Equipment detail “Thermal oath-seal” intact flat medallion; separate small “After release” state of SAME seal cracked, no longer glowing. No throne, crown, staff, guards or weapon.\n\nInput1 Seris Venn is PRIMARY reviewed OIL form/presentation reference only: no armor/shield/disks resembling her oath-record; Cythra is distinct older face, dark olive skin, formal aubergine clothing. Input2 chamber gives cool blue-grey enclosed shade and local restrained cream-gold planes. Seal may emit a SMALL gold warmth on nearby chest in main state, no full-body halo. No cinematic rim/gloss or daylight flood. Quiet ground stays ivory.\n\nCanadian Group of Seven-inspired oil: large connected colour/value masses, substantial selective impasto, broad directional bristle strokes and quiet shaded passages. Paint cheekbones/forehead/hands as decisively as coat; no smooth CGI/photoreal/anime face. Rich matte fabrics, dull metal, matte eyes. Avoid uniform little bevelled golden chips and neon glow; light conveyed by painted planes.\n\nConcise useful labels only, title/name clear, five-finger anatomy, all views uncropped. NO setting/scene/vignette/furniture/floor/contact-shadow patches, swatches/palette strip or decorative prose.",
+            "references": [
+              {
+                "path": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+                "role": "reviewed oil handling only; no armor/identity transfer",
+                "inspected": true,
+                "sha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+                "role": "enclosed cool light and restrained gold planes only; no scene",
+                "inspected": true,
+                "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f2f6306c-5fa8-44ff-8cd1-23efe0afa1f6.png",
+            "returnedSha256": "87457b73dfaa2a8f8f557ec90b19b11670ffcf20d4e9d35b73f4ee10b5302ded",
+            "completedAt": "2026-09-23T19:30:46.89593-04:00",
+            "review": [
+              "Actual pixels inspected: distinct mature chancellor with silver-black low knot/aubergine formal wardrobe, three consistent unclipped views.",
+              "Flat chest seal and separate intact/cracked inactive states explicit; no crown, guards or invented magic authority mechanism beyond interpreted geometry.",
+              "Exact full name/story title readable; large oil facial/body masses, no setting/floor/swatch."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+            "role": "reviewed oil handling only; no armor/identity transfer",
+            "inspected": true,
+            "sha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "enclosed cool light and restrained gold planes only; no scene",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T19:30:46.898597-04:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "87457b73dfaa2a8f8f557ec90b19b11670ffcf20d4e9d35b73f4ee10b5302ded",
+        "references": [
+          {
+            "path": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+            "role": "reviewed oil handling only; no armor/identity transfer",
+            "inspected": true,
+            "sha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+            "role": "enclosed cool light and restrained gold planes only; no scene",
+            "inspected": true,
+            "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct mature chancellor with silver-black low knot/aubergine formal wardrobe, three consistent unclipped views.",
+          "Flat chest seal and separate intact/cracked inactive states explicit; no crown, guards or invented magic authority mechanism beyond interpreted geometry.",
+          "Exact full name/story title readable; large oil facial/body masses, no setting/floor/swatch."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "6068c8fe2928812363e698a1a2a57770b86ce82859347b14d90fc8b830a5495d"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "87457b73dfaa2a8f8f557ec90b19b11670ffcf20d4e9d35b73f4ee10b5302ded"
+    },
+    {
+      "id": "tovan-rek",
+      "name": "Tovan Rek",
+      "role": "Living archive scholar who chooses identity and seven independent expressions",
+      "selectionEvidence": [
+        {
+          "line": 23,
+          "quote": "all patched sleeves and wind-worried hair",
+          "explanation": "Visible everyday scholarly state."
+        },
+        {
+          "line": 123,
+          "quote": "crowded layers of script, many damaged, some still writing",
+          "explanation": "Revealed body state."
+        },
+        {
+          "line": 243,
+          "quote": "Seven versions of his expression flickered across the map.",
+          "explanation": "Seven divergent voices, no hierarchy."
+        }
+      ],
+      "form": "Living constructed person with human outward form and seven divergent projected expressions",
+      "storyAppearance": {
+        "anatomy": "Human outward form; script layers visible during archive reveal. Do not invent robot chassis.",
+        "lifeStage": "Adult scholar; source shows younger historical form but exact chronology/age unresolved.",
+        "proportions": "Looks small beneath tower; no literal dwarf species/miniature main body established.",
+        "markings": "Writing under skin only when key reveal; not permanent tattoos.",
+        "materials": "Living skin/surface with internal script; final projection flickers.",
+        "clothing": "Patched sleeves, remainder unspecified.",
+        "equipment": "Black recovered shard early; no compulsory staff.",
+        "scale": "Human main state; small final projection.",
+        "movement": "Staggers, chooses, divergent expressions disagree rather than synchronized puppets.",
+        "distinctiveFeatures": "Patched sleeves, wind-worried hair, script revealed; not confirmed god."
+      },
+      "explicitCanon": [
+        "CANON living self-aware civic archive mobile expression, seven mutually noncommanding postdivision voices.",
+        "No godhood ontology asserted by religious Keeper Below title."
+      ],
+      "visualInterpretation": [
+        "Apparent40s, slender, warm light-brown skin, narrow face, loose sandy-brown wind-tossed hair, tired deep-set eyes.",
+        "Faded teal scholar coat with mismatched grey patches on sleeves, ivory undershirt, brown trousers/soft boots. Abstract fine irregular script-like strokes only in labelled reveal, not readable invented language.",
+        "Main three views plus revealed torso; compact seven small matching head silhouettes with varied expressions grouped as postdivision collective state, no other named characters."
+      ],
+      "states": [
+        {
+          "label": "Scholar",
+          "description": "Solid human outward appearance."
+        },
+        {
+          "label": "Archive revealed",
+          "description": "Light makes layered broken script visible within torso/arms, no machinery."
+        },
+        {
+          "label": "Seven voices",
+          "description": "Seven mutually independent diverging expressions of same source trajectory, no central controller."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:tovan-rek",
+        "links": [
+          "universe/characters.md#tovan-rek"
+        ],
+        "evidence": "Exact canonical source identity; seven states represented without pretending a single controlling postdivision person."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/tovan-rek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make one careful layout correction to this existing Tovan Rek oil character folio. Put the exact heading \"Tovan Rek\" and exact subtitle \"Daughter of the Sun\" together at the UPPER LEFT, with clear warm ivory behind both, matching the collection's upper-left heading convention. The old centred heading is removed to clean ivory. Make a modest local re-layout of the two full-body figures downwards/reduce their scale only as needed so the upper-left heading never overlaps hair or figures. They must still be fully visible from hair to boots and remain above the bottom row. Keep the right revealed torso large and keep all seven small heads intact.\n\nPreserve the exact same slender adult male identity, sandy-brown wind-worried hair, patched teal sleeves, wardrobe, expressions, ordinary human anatomy and hands. Keep the chest/forearm layered script confined to the labelled \"Archive revealed\" state. Keep EXACTLY SEVEN same-size small varied head-and-shoulder projections in the bottom row, with group label \"Seven voices\"; no eighth head or dominant controller. Keep heading and both state labels exact and readable.\n\nKeep the broad opaque oil painting, selective substantial impasto, muted enclosed lighting, warm ivory ground and 3:2 landscape format. No added character, prop, scene, floor patch, swatch or decorative prose. This is a layout correction of the existing artwork, not a redesign.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T23:30:47.9731464Z",
+            "status": "REVISE",
+            "prompt": "Create ONE 1536×1024 landscape character-reference folio on quiet warm IVORY. Exact heading “Tovan Rek”, exact story title “Daughter of the Sun”. One source identity trajectory and its explicitly labelled postdivision collective state.\n\nTovan is a living, self-aware constructed ARCHIVE PERSON, outwardly human: apparent40s, slender adult of ordinary human height, warm light-brown skin, long narrow face, tired deep-set dark eyes, loose sandy-brown wind-tossed hair. Not a robot, child or god. Faded TEAL scholar coat with visibly mismatched grey PATCHES ON SLEEVES, ivory underlayer, brown trousers and soft practical boots. No cane, staff, crown, spectacles or unrelated props.\n\nTop left/centre: TWO large unclipped full-body views of solid predivision Tovan, front three-quarter and rear/side, ordinary human skin and no visible writing. Top right: separate torso/head study “Archive revealed” in which a quiet passing light makes crowded thin irregular SCRIPT-LIKE LAYERS visible UNDER skin in chest/arms, many broken, some faintly luminous. Abstract nonlegible strokes only, no computer circuits, gears, machinery, holographic dashboard or readable invented words. His expression startled but human.\n\nAlong bottom: one clean row of EXACTLY SEVEN small head-and-shoulder projections, same starting face/hair/patched teal collar, softly interrupted flickering edges, modestly different expressions/postures (one afraid-laughing, others concerned/thoughtful/tense). Group label “Seven voices”. These represent his seven diverging self-aware expressions after chosen division, with equal size/weight and no dominant central controller. Count exactly seven. Do not add an eighth small bust or other character.\n\nInput1 Kelro supplies PRIMARY broad OIL handling/ivory folio only, not face/coat/hat/gear. Input2 Crown chamber gives cool blue-grey diffuse enclosed light and sparse cream-gold accents only, exclude environment. Tovan himself not constantly neon-lit; subtle reveal/projection state only.\n\nCanadian Group of Seven-inspired OIL form from LARGE connected colour/value masses, broad directional bristle, selective substantial impasto, quiet shaded passages. Skin, eyes, cloth and hair all decisively painted; matte pupils, no CGI/anime/photo face or uniform bevelled chips. No flashy holographic glow.\n\nExact heading/title readable, concise labels only. Ordinary hands five fingers. NO scenery, room, map, key, floor/ground/contact-shadow patch, swatches/palette bars or decorative prose.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "approved oil only, no identity/clothes/props",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+                "role": "cool enclosed light and restrained gold palette only; no setting",
+                "inspected": true,
+                "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ba5e7d1d-f0df-43a1-9e6e-553c2bbf81d0.png",
+            "returnedSha256": "63f963a55bdea172f480d9d078329f2bfeeffa3e3fd724493d43b28293e791aa",
+            "review": "Seven voices counted exactly, normal/revealed states pass. Move exact heading to collection upper-left convention; keep all source content.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:33:08.896990+00:00",
+            "status": "PASS",
+            "prompt": "Make one careful layout correction to this existing Tovan Rek oil character folio. Put the exact heading \"Tovan Rek\" and exact subtitle \"Daughter of the Sun\" together at the UPPER LEFT, with clear warm ivory behind both, matching the collection's upper-left heading convention. The old centred heading is removed to clean ivory. Make a modest local re-layout of the two full-body figures downwards/reduce their scale only as needed so the upper-left heading never overlaps hair or figures. They must still be fully visible from hair to boots and remain above the bottom row. Keep the right revealed torso large and keep all seven small heads intact.\n\nPreserve the exact same slender adult male identity, sandy-brown wind-worried hair, patched teal sleeves, wardrobe, expressions, ordinary human anatomy and hands. Keep the chest/forearm layered script confined to the labelled \"Archive revealed\" state. Keep EXACTLY SEVEN same-size small varied head-and-shoulder projections in the bottom row, with group label \"Seven voices\"; no eighth head or dominant controller. Keep heading and both state labels exact and readable.\n\nKeep the broad opaque oil painting, selective substantial impasto, muted enclosed lighting, warm ivory ground and 3:2 landscape format. No added character, prop, scene, floor patch, swatch or decorative prose. This is a layout correction of the existing artwork, not a redesign.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ba5e7d1d-f0df-43a1-9e6e-553c2bbf81d0.png",
+                "role": "immutable edit target, identity and all seven projections preserved; heading placement correction",
+                "inspected": true,
+                "sha256": "63f963a55bdea172f480d9d078329f2bfeeffa3e3fd724493d43b28293e791aa"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4345f609-a2f8-4732-a5b1-7ea326588bc4.png",
+            "returnedSha256": "a2025f43aa68ee4a1325fa3bf82629fca670203d5845b21c349ad5a0167c907d",
+            "completedAt": "2026-09-24T02:36:00.222246+00:00",
+            "review": [
+              "Actual corrected pixels inspected: exact heading/title moved to upper left on unobstructed ivory; front/rear figures completely visible without overlap or clipping.",
+              "Exactly seven equal-size divergent head-and-shoulder expressions counted in lower row, including afraid-laughing face; no controlling central expression. Human solid main state and separate labelled archive reveal retained.",
+              "Wind-worried sandy hair/patched sleeves and same adult identity throughout; script only in reveal, no robotic body or settled godhood. Broad oil face/cloth treatment, no setting/floor/swatch. Pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ba5e7d1d-f0df-43a1-9e6e-553c2bbf81d0.png",
+            "role": "immutable edit target, identity and all seven projections preserved; heading placement correction",
+            "inspected": true,
+            "sha256": "63f963a55bdea172f480d9d078329f2bfeeffa3e3fd724493d43b28293e791aa"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:36:00.222246+00:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "a2025f43aa68ee4a1325fa3bf82629fca670203d5845b21c349ad5a0167c907d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ba5e7d1d-f0df-43a1-9e6e-553c2bbf81d0.png",
+            "role": "immutable edit target, identity and all seven projections preserved; heading placement correction",
+            "inspected": true,
+            "sha256": "63f963a55bdea172f480d9d078329f2bfeeffa3e3fd724493d43b28293e791aa"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: exact heading/title moved to upper left on unobstructed ivory; front/rear figures completely visible without overlap or clipping.",
+          "Exactly seven equal-size divergent head-and-shoulder expressions counted in lower row, including afraid-laughing face; no controlling central expression. Human solid main state and separate labelled archive reveal retained.",
+          "Wind-worried sandy hair/patched sleeves and same adult identity throughout; script only in reveal, no robotic body or settled godhood. Broad oil face/cloth treatment, no setting/floor/swatch. Pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "ef19cec927a04a5381375c8179eeecb20cdf637d3f046109934fd18d54eb3e11"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "a2025f43aa68ee4a1325fa3bf82629fca670203d5845b21c349ad5a0167c907d"
+    },
+    {
+      "id": "orrin-pell",
+      "name": "Orrin Pell",
+      "role": "Living constructed relic-smith who refuses central-service directive",
+      "selectionEvidence": [
+        {
+          "line": 65,
+          "quote": "the relic-smith whose tools could coax old hinges",
+          "explanation": "Practical equipment/role."
+        },
+        {
+          "line": 135,
+          "quote": "His fingertips divided along hair-fine seams, revealing threads of pale metal beneath living skin.",
+          "explanation": "Specific localized constructed anatomy."
+        },
+        {
+          "line": 249,
+          "quote": "No",
+          "explanation": "Independent refusal at decisive cut."
+        }
+      ],
+      "form": "Living constructed human-shaped maintenance person; localized pale-metal fingertip interfaces",
+      "storyAppearance": {
+        "anatomy": "Human-shaped living skin; fingertips open fine seams revealing pale metal threads. Do not extend exposed mechanisms to whole body.",
+        "lifeStage": "Adult appearance, exact age/lifespan unspecified.",
+        "proportions": "Ordinary human.",
+        "markings": "Hair-fine fingertip seams; no whole-body circuitry stated.",
+        "materials": "Living skin, pale metal interface strands.",
+        "clothing": "Unspecified relic-smith clothes.",
+        "equipment": "Small smith tools and isolation ring handled; no invented gun or powered armor.",
+        "scale": "Human adult.",
+        "movement": "Precise hands, directive-forced hands resisted, voluntarily pulls conduit.",
+        "distinctiveFeatures": "Personhood not robot servant; interfaces only where explicitly supported."
+      },
+      "explicitCanon": [
+        "CANON living constructed maintenance person, local pale-metal interfaces and ability to refuse directives.",
+        "Source fingertips split along fine seams; no extensive robotic chassis."
+      ],
+      "visualInterpretation": [
+        "Apparent50s, warm ruddy skin, broad face, closely shaved scalp, neat dark-grey beard, thick hands.",
+        "Muted ochre work shirt and dark leather apron over grey trousers/boots, small belt tools. Main closed ordinary hands, separate enlarged opened fingertips with fine pale threads, no gore. Low warm/cool enclosed light."
+      ],
+      "states": [
+        {
+          "label": "Relic-smith",
+          "description": "Human outer form, interfaces closed."
+        },
+        {
+          "label": "Maintenance interface",
+          "description": "One five-digit hand study showing tiny opened fingertip seams/pale threads."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:orrin-pell",
+        "links": [
+          "universe/characters.md#orrin-pell"
+        ],
+        "evidence": "Exact canon identity; unrelated Pell/Nell strings not recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/orrin-pell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Correct ONLY the lighting in this Orrin Pell oil reference sheet. This is the exact identity/layout edit target.\n\nReplace bright even studio/day lighting on ALL full figures, both heads and the enlarged interface hand with DIM UNDERGROUND LAMP LIGHT. A small low warm lamp from lower image-left reaches only narrow patches of near cheek, brow edge, near forearm and fingertips. Group most of the bald scalp, far face, chest, back and legs into large connected subdued cool grey-violet/earth shadows. In head studies, keep one cheek and forehead mostly shadowed; do not light every paint ridge. The torso and rear apron straps remain readable at lower value. The ochre shirt is dark muted umber-violet in shadow with a few warm ochre planes. The hand detail has a readable shaded palm with restricted warmth at the near fingertips; pale-metal threads stay subtle.\n\nPreserve his exact broad mature male identity, shaved scalp, dark-grey beard, all body proportions and poses, ordinary solid human body, apron/work clothes, correct hands and all five fingertips on the enlarged interface detail. Keep tiny seam/thread interfaces restricted to finger tips. No whole-body circuitry, robot parts or injuries. Preserve exact heading \"Orrin Pell\", subtitle \"Daughter of the Sun\", labels, composition and clean warm IVORY background unchanged. Preserve oil-paint material, make shadow passages broader/quieter rather than individually shiny chips. Do not add lamps, settings, floor marks, ground patches or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:36:01.164238+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 3:2 character-only reference folio on quiet warm IVORY, exact upper-left heading \"Orrin Pell\" and smaller subtitle \"Daughter of the Sun\".\n\nOrrin is a living constructed PERSON and relic-smith with an ordinary outward human body. Apparent 50s, warm ruddy skin, broad square face, closely shaved scalp, neat dark-grey beard, thick strong hands; mature thoughtful expression. Muted ochre work shirt with rolled sleeves, short dark leather work apron, grey trousers and practical brown boots, small ordinary belt tools. No armour, crown, horns, robots or prostheses. Both main hands look completely ordinary with interfaces closed. His identity must be distinct from the woman in reference 1.\n\nComposition: three unclipped standing views front, side and back across the left two-thirds; clear apron straps consistent front/back. Upper right two small same-person head studies \"Considering\" and \"Refusal\", second quietly resolute and strained rather than aggressive. Lower right one LARGE easily readable relaxed five-digit palm-up hand detail labelled \"Maintenance interface\": each fingertip has a tiny hair-fine seam, slightly parted locally to expose fine PALE-METAL THREADS under living skin. No blood or damaged skin, no robotic palm, exposed gears, circuit tattoo or whole-body machinery. One thumb plus FOUR fingers. Tiny seams/threads restricted to fingertips only. The enlarged hand is his same strong hand and no mechanical claw.\n\nInput1 Seris Venn supplies only the approved heavy oil treatment, layout and lettering; do not copy female face, hairstyle, armour, shield or any gear. Input2 Ninth Hollow greenhouse supplies only the dim underground warm reflected illumination and connected cool violet-grey shade; copy NO scene, plants, floor or pump. Orrin is illuminated by a restrained nearby underground lamp, with warm patches on the lamp-facing side of brow, cheek and fingers; most garment folds and far face held together in low-value shadow. Ivory page is unshaded. No all-over bright studio/daylight.\n\nCanadian Group of Seven-inspired OIL, large coherent masses and broad varied directional opaque strokes, selective substantial impasto, quiet connected shadow passages. Face/head/hands as decisively painted as cloth and leather; matte eyes, no glossy CGI face, photographic detail or tiny uniformly bevelled chips. Keep ordinary human anatomy and consistent face/clothing across views. Exact name/title and short labels only. No location, room, floor patch, contact shadow, environment vignette, palette swatches, colour bars or decorative prose.",
+            "references": [
+              {
+                "path": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+                "role": "selected Group of Seven oil handling/folio only; no face, armor or identity transfer",
+                "inspected": true,
+                "sha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+                "role": "dim enclosed warm planes/cool violet shadow and paint masses only; no setting",
+                "inspected": true,
+                "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-06b7e1c6-4458-480a-9dbf-c1bc7a4ec588.png",
+            "returnedSha256": "8dc88912ab7b9a7df276765a66974d03ffaea4ce1d86e0c6f10b280b5767aa72",
+            "completedAt": "2026-09-24T02:38:39.545762+00:00",
+            "review": "Identity, full human form, interface locality, five fingers, clothing and exact lettering pass. Lighting REVISE: broad bright studio/day modelling contradicts dim enclosed lamp illumination. Restrict warm planes and connect cool shadows. Expressions could differ more, though source identity and anatomy pass."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:38:40.486504+00:00",
+            "status": "PASS",
+            "prompt": "Use case: lighting-weather. Correct ONLY the lighting in this Orrin Pell oil reference sheet. This is the exact identity/layout edit target.\n\nReplace bright even studio/day lighting on ALL full figures, both heads and the enlarged interface hand with DIM UNDERGROUND LAMP LIGHT. A small low warm lamp from lower image-left reaches only narrow patches of near cheek, brow edge, near forearm and fingertips. Group most of the bald scalp, far face, chest, back and legs into large connected subdued cool grey-violet/earth shadows. In head studies, keep one cheek and forehead mostly shadowed; do not light every paint ridge. The torso and rear apron straps remain readable at lower value. The ochre shirt is dark muted umber-violet in shadow with a few warm ochre planes. The hand detail has a readable shaded palm with restricted warmth at the near fingertips; pale-metal threads stay subtle.\n\nPreserve his exact broad mature male identity, shaved scalp, dark-grey beard, all body proportions and poses, ordinary solid human body, apron/work clothes, correct hands and all five fingertips on the enlarged interface detail. Keep tiny seam/thread interfaces restricted to finger tips. No whole-body circuitry, robot parts or injuries. Preserve exact heading \"Orrin Pell\", subtitle \"Daughter of the Sun\", labels, composition and clean warm IVORY background unchanged. Preserve oil-paint material, make shadow passages broader/quieter rather than individually shiny chips. Do not add lamps, settings, floor marks, ground patches or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-06b7e1c6-4458-480a-9dbf-c1bc7a4ec588.png",
+                "role": "immutable edit target, preserve identity/anatomy/interfaces/layout while correcting illumination only",
+                "inspected": true,
+                "sha256": "8dc88912ab7b9a7df276765a66974d03ffaea4ce1d86e0c6f10b280b5767aa72"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+            "returnedSha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d",
+            "completedAt": "2026-09-24T02:41:33.281559+00:00",
+            "review": [
+              "Actual corrected pixels inspected: underground lamp planes restricted to near brow/cheek/arm/fingertips, connected low-value cool earth shadows now dominate scalp, back, chest and shaded palm. Identity remains readable on ivory.",
+              "Same mature human-appearing constructed person across three views and heads; broad face, shaved scalp, beard, ochre shirt and practical apron consistent. Enlarged hand has exactly five digits; pale metal threads stay local to tiny fingertip seams with no gore/chassis/circuit body.",
+              "Exact Orrin Pell/story text/labels readable, unclipped body views, directional heavy oil on skin and cloth, no location/ground/swatch. Current pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-06b7e1c6-4458-480a-9dbf-c1bc7a4ec588.png",
+            "role": "immutable edit target, preserve identity/anatomy/interfaces/layout while correcting illumination only",
+            "inspected": true,
+            "sha256": "8dc88912ab7b9a7df276765a66974d03ffaea4ce1d86e0c6f10b280b5767aa72"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:41:33.281559+00:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-06b7e1c6-4458-480a-9dbf-c1bc7a4ec588.png",
+            "role": "immutable edit target, preserve identity/anatomy/interfaces/layout while correcting illumination only",
+            "inspected": true,
+            "sha256": "8dc88912ab7b9a7df276765a66974d03ffaea4ce1d86e0c6f10b280b5767aa72"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: underground lamp planes restricted to near brow/cheek/arm/fingertips, connected low-value cool earth shadows now dominate scalp, back, chest and shaded palm. Identity remains readable on ivory.",
+          "Same mature human-appearing constructed person across three views and heads; broad face, shaved scalp, beard, ochre shirt and practical apron consistent. Enlarged hand has exactly five digits; pale metal threads stay local to tiny fingertip seams with no gore/chassis/circuit body.",
+          "Exact Orrin Pell/story text/labels readable, unclipped body views, directional heavy oil on skin and cloth, no location/ground/swatch. Current pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "0e561e2eae6915e1ee8fd5ba9e86c52614fd14d9b7916be23106efe6ebff1d17"
+      },
+      "outputSha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+    },
+    {
+      "id": "sister-calvea-dorn",
+      "name": "Sister Calvea Dorn",
+      "role": "Ninth Hollow warden whose bounded living dusk holds safe thresholds",
+      "selectionEvidence": [
+        {
+          "line": 69,
+          "quote": "Ash marked her eyelids and both bare palms.",
+          "explanation": "Initial distinctive markings."
+        },
+        {
+          "line": 81,
+          "quote": "Her pupils clouded silver.",
+          "explanation": "Cost state."
+        },
+        {
+          "line": 145,
+          "quote": "damaged palms wrapped in grey cloth",
+          "explanation": "Later hand state."
+        },
+        {
+          "line": 297,
+          "quote": "a dusk-dark flame between bandaged hands",
+          "explanation": "Final supported manifestation."
+        }
+      ],
+      "form": "Human woman, living dusk practitioner",
+      "storyAppearance": {
+        "anatomy": "Human, pupils temporarily clouded silver from working.",
+        "lifeStage": "Adult warden; age unspecified.",
+        "proportions": "Ordinary human.",
+        "markings": "Ash eyelids/bare palms early; reddened damaged palms then grey wraps; no permanent whole-body burns.",
+        "materials": "Living skin, ash, grey cloth.",
+        "clothing": "Unspecified practical warden clothes, grey cloth hand wraps explicit.",
+        "equipment": "No mechanical magical focus required; dusk-dark flame held between hands.",
+        "scale": "Human adult.",
+        "movement": "Kneels palms to rock initially; tired half-blind posture after cost, careful hands.",
+        "distinctiveFeatures": "Ash eyelids, cost-clouded pupils, bandaged palms, bounded dusk."
+      },
+      "explicitCanon": [
+        "CANON local living dusk power needs limits/resident consent, personal scars/temporary blurred sight.",
+        "Source ash palms/eyelids, pupils clouded silver, grey bandages and dusk-dark flame; do not generalize permanent blindness."
+      ],
+      "visualInterpretation": [
+        "Apparent60s, medium cool-brown skin, long grey hair in plain low braid, round strong face.",
+        "Charcoal wool wrap over faded moss long tunic and brown boots; no religious icon invented. Main later bandaged state; separate prior ash-palm and post-working silver-eye detail labelled. Small dark violet flame without surrounding scene."
+      ],
+      "states": [
+        {
+          "label": "After the working",
+          "description": "Main cloth-wrapped palms, tired but alert; cost state."
+        },
+        {
+          "label": "Before the working",
+          "description": "Ash-marked bare palm detail, normal dark pupils portrait."
+        },
+        {
+          "label": "Temporary clouding",
+          "description": "Small silver pupil detail, non-graphic."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:sister-calvea-dorn",
+        "links": [
+          "universe/characters.md#sister-calvea-dorn"
+        ],
+        "evidence": "Exact canonical identity and bounded local abilities."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/sister-calvea-dorn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE landscape 3:2 character-only OIL reference folio. Plain unshaded warm IVORY background. Exact upper-left heading \"Sister Calvea Dorn\", smaller subtitle \"Daughter of the Sun\".\n\nCalvea is a HUMAN woman, apparent 60s, a warden and living dusk practitioner. Distinct round strong face, medium cool-brown skin, broad nose, long grey hair in a plain low braid, tired but alert. Charcoal wool wrap over a faded moss-green long practical tunic, brown boots. No crown, church icon, staff, armour or modern equipment. This is one identity only. DO NOT copy the man's face, beard or clothes from the oil reference.\n\nThree unclipped full-body views across left two-thirds, shown \"After the working\": grey cloth wraps cover both palms/wrists, fingers visible with natural five-digit anatomy; no gore or open wounds. The braid and shawl arrangement agree across front/side/back. Upper right two clearly labelled head studies: \"Before the working\" has charcoal ASH on eyelids with normal dark pupils, calm firm expression; \"Temporary clouding\" same older face, eyelid ash retained, pupils locally clouded SILVER from the cost of her work, tired squint but no claim of permanent blindness. Lower right small two-hand study \"Bounded dusk\": two grey-cloth-wrapped palms held toward one another with a SMALL DUSK-DARK VIOLET FLAME between them, as a contained manifestation. Do not make it a huge glowing fire, halo, smoke cloud, terrain or extra character. One additional isolated bare five-digit palm detail labelled \"Before the working\", ash on palm, intact skin.\n\nReference 1 Orrin is PRIMARY for painted form and restrained DIM UNDERGROUND lighting only. Match the dark connected shadows and limited modest warm side-planes in the actual reference. Reference 2 greenhouse is only supporting cool violet/grey and muted warm oil palette; exclude plants, room, floor, lamps and all scenery. Most of each face, hair, clothing and hands stays in coherent cool dark shade; small warm reflected planes on one side. No bright studio/daylight, theatrical rim outline or orange-blue spectacle.\n\nCanadian Group of Seven-inspired heavy OIL, broad varied directional opaque strokes, LARGE connected colour/value masses, quieter shadow passages with lost edges, selective substantial impasto. Faces/hands built as plainly from paint as clothing, matte eyes; no polished CGI/photographic faces or uniformly glittering bevelled chips. Exact lettering, few concise labels only. No setting, floor/contact shadows/ground patch, swatches/palette bars or decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:41:35.241274+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE landscape 3:2 character-only OIL reference folio. Plain unshaded warm IVORY background. Exact upper-left heading \"Sister Calvea Dorn\", smaller subtitle \"Daughter of the Sun\".\n\nCalvea is a HUMAN woman, apparent 60s, a warden and living dusk practitioner. Distinct round strong face, medium cool-brown skin, broad nose, long grey hair in a plain low braid, tired but alert. Charcoal wool wrap over a faded moss-green long practical tunic, brown boots. No crown, church icon, staff, armour or modern equipment. This is one identity only. DO NOT copy the man's face, beard or clothes from the oil reference.\n\nThree unclipped full-body views across left two-thirds, shown \"After the working\": grey cloth wraps cover both palms/wrists, fingers visible with natural five-digit anatomy; no gore or open wounds. The braid and shawl arrangement agree across front/side/back. Upper right two clearly labelled head studies: \"Before the working\" has charcoal ASH on eyelids with normal dark pupils, calm firm expression; \"Temporary clouding\" same older face, eyelid ash retained, pupils locally clouded SILVER from the cost of her work, tired squint but no claim of permanent blindness. Lower right small two-hand study \"Bounded dusk\": two grey-cloth-wrapped palms held toward one another with a SMALL DUSK-DARK VIOLET FLAME between them, as a contained manifestation. Do not make it a huge glowing fire, halo, smoke cloud, terrain or extra character. One additional isolated bare five-digit palm detail labelled \"Before the working\", ash on palm, intact skin.\n\nReference 1 Orrin is PRIMARY for painted form and restrained DIM UNDERGROUND lighting only. Match the dark connected shadows and limited modest warm side-planes in the actual reference. Reference 2 greenhouse is only supporting cool violet/grey and muted warm oil palette; exclude plants, room, floor, lamps and all scenery. Most of each face, hair, clothing and hands stays in coherent cool dark shade; small warm reflected planes on one side. No bright studio/daylight, theatrical rim outline or orange-blue spectacle.\n\nCanadian Group of Seven-inspired heavy OIL, broad varied directional opaque strokes, LARGE connected colour/value masses, quieter shadow passages with lost edges, selective substantial impasto. Faces/hands built as plainly from paint as clothing, matte eyes; no polished CGI/photographic faces or uniformly glittering bevelled chips. Exact lettering, few concise labels only. No setting, floor/contact shadows/ground patch, swatches/palette bars or decorative prose.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+                "role": "immutable selected Orrin sheet: heavy oil and dim lighting only; exclude male identity/gear",
+                "inspected": true,
+                "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+                "role": "subordinate muted underground palette only; no location or objects",
+                "inspected": true,
+                "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2267e0aa-1b17-490e-a742-89e8a6f3292b.png",
+            "returnedSha256": "6513c4a81b5e2207d421981ec268b1491818f280aced132ee3b2b05ef1079b6c",
+            "completedAt": "2026-09-24T02:45:34.341759+00:00",
+            "review": [
+              "Actual pixels inspected: same older round-faced woman and grey low braid across full views/portraits; charcoal wrap/moss tunic, grey palm wraps and ordinary limbs consistent.",
+              "Clearly labelled before-working normal pupils/ash eyelids, temporary silver clouding, ash-marked five-digit bare palm and bounded dusk between wrapped hands preserve source states without permanent blindness, whole-body damage or machine magic.",
+              "Dim connected shadows and limited underground warm planes held on faces and wardrobe; thick directional oil across skin and cloth. Exact name/title readable, full silhouettes, clean ivory, no location/floor/swatch. Pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+            "role": "immutable selected Orrin sheet: heavy oil and dim lighting only; exclude male identity/gear",
+            "inspected": true,
+            "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+            "role": "subordinate muted underground palette only; no location or objects",
+            "inspected": true,
+            "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:45:34.341759+00:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "6513c4a81b5e2207d421981ec268b1491818f280aced132ee3b2b05ef1079b6c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+            "role": "immutable selected Orrin sheet: heavy oil and dim lighting only; exclude male identity/gear",
+            "inspected": true,
+            "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+          },
+          {
+            "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+            "role": "subordinate muted underground palette only; no location or objects",
+            "inspected": true,
+            "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same older round-faced woman and grey low braid across full views/portraits; charcoal wrap/moss tunic, grey palm wraps and ordinary limbs consistent.",
+          "Clearly labelled before-working normal pupils/ash eyelids, temporary silver clouding, ash-marked five-digit bare palm and bounded dusk between wrapped hands preserve source states without permanent blindness, whole-body damage or machine magic.",
+          "Dim connected shadows and limited underground warm planes held on faces and wardrobe; thick directional oil across skin and cloth. Exact name/title readable, full silhouettes, clean ivory, no location/floor/swatch. Pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "478917292b5181b7bfe3cb2593b198a43bead99335f1052fe20f6534c256d13e"
+      },
+      "outputSha256": "6513c4a81b5e2207d421981ec268b1491818f280aced132ee3b2b05ef1079b6c"
+    },
+    {
+      "id": "queen-aurelia",
+      "name": "Queen Aurelia",
+      "role": "Historical decision-maker whose centralization saved capital and destroyed outer cities",
+      "selectionEvidence": [
+        {
+          "line": 31,
+          "quote": "one hand closed around a sphere of white fire",
+          "explanation": "Recorded historical visual."
+        },
+        {
+          "line": 157,
+          "quote": "Queen Aurelia stood inside the circle with both hands around the source.",
+          "explanation": "Core past act."
+        },
+        {
+          "line": 177,
+          "quote": "Her mother had saved a city. Her mother had destroyed six.",
+          "explanation": "Central historical antagonist and moral conflict."
+        }
+      ],
+      "form": "Historical human-shaped woman shown through reconstructed witness record",
+      "storyAppearance": {
+        "anatomy": "Woman human outward figure, not giant solar creature.",
+        "lifeStage": "Adult mother before death400years earlier.",
+        "proportions": "Adult human.",
+        "markings": "Witness image broken by seams/weather, not literal skin scars.",
+        "materials": "Recorded figure with white-fire source in hand, no claim autonomous present life.",
+        "clothing": "Not specified; queen title alone no exact regalia.",
+        "equipment": "Sphere/source white fire, not a staff; ceremonial modest circlet art choice only.",
+        "scale": "Human record figure.",
+        "movement": "Hands closing around source; grief mixed with decision.",
+        "distinctiveFeatures": "Historic Queen not responsive later Mother-fragment; cultural Goddess title does not prove taxonomy."
+      },
+      "explicitCanon": [
+        "CANON dead mother and centralization decision; God taxonomy unresolved.",
+        "Historical witness woman with white fire; broken record edges not physical disfigurement."
+      ],
+      "visualInterpretation": [
+        "Apparent40s, medium-brown skin, amber-brown eyes, strong nose/oval face resembling Solvienne, dark auburn hair in long plain fall partially drawn back.",
+        "Dark copper/cream formal robe with restrained plain gold circlet; no wings/halo. Main historical record views, separate hands/source and decision head; faint discontinuous witness edges labelled, no altar/circle/environment."
+      ],
+      "states": [
+        {
+          "label": "Historical witness",
+          "description": "Recorded past adult Queen only, stable clothing."
+        },
+        {
+          "label": "The decision",
+          "description": "Hands around small white-fire source, concerned resolute face."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:queen-aurelia",
+        "links": [
+          "universe/characters.md#queen-aurelia"
+        ],
+        "evidence": "Exact canonical Queen. Do not equate with responsive Mother-fragment's unresolved ontology."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/queen-aurelia.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct TWO concrete continuity issues in this Queen Aurelia oil character folio. Preserve exact face/identity/age, poses, body, copper/cream robe, simple gold circlet, hands/source sphere, labels and upper-left title.\n\n1. Replace broad studio/daylight on all figures and the head with subdued enclosed light: most face, hair, copper robe and cream underlayer must join into LARGE CONNECTED cool plum-grey/umber shadow masses. Only a small pale reflected plane lights ONE near cheek and a few folds. Main back mostly dark, no bright sunlit hair or all-over glitter. In the lower-right \"Closing the source\" study, the small WHITE FIRE SPHERE is the sole strong source: it lights fingers and lower face from BELOW, with forehead, temples and outside of robe kept dark. Glow stays close to hands, no surrounding halo. Ivory background unchanged and bright.\n2. Remove the long braided section of auburn hair in the full-body BACK view and any suggestion of it in side/front. Replace with plain long loose wavy dark auburn hair falling down the back, with only the upper hair softly drawn back beneath the circlet. No braid. Preserve hair length and mass; this is the mother, whose hairstyle differs from her daughter's long braid.\n\nKeep \"Queen Aurelia\", \"Daughter of the Sun\", \"Historical witness\", \"The decision\", \"Closing the source\" exactly readable; preserve composition and unclipped silhouettes. Keep mature worried resolve rather than youthful serenity. Preserve broad opaque oil forms/selected impasto; quieter painted shadows, no CGI. Character only; NO location, floor shadow/patch, swatches, new props or extra person.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:45:36.111328+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only heavy OIL reference folio, quiet warm IVORY ground. Exact upper-left heading \"Queen Aurelia\", exact subtitle \"Daughter of the Sun\". This depicts the adult historical Queen as preserved in a witness record, not a presently living Queen or the later responsive remnant.\n\nQueen Aurelia: apparent 40s HUMAN-shaped woman, medium-brown skin, amber-brown eyes, strong nose, mature oval face, long dark auburn hair falling plainly down her back, upper portion loosely drawn back. Input1 Solvienne establishes family resemblance only: share underlying nose/eyes/hair colour, but make Aurelia visibly an older mother with firmer jaw, subtle forehead and eye lines, distinct face. Do not copy daughter's braid, work clothes, wrist magic, youth or scars.\n\nAurelia wears a long dark COPPER formal robe with restrained cream inner layer, broad simple sleeves, plain narrow gold circlet, practical dark shoes. Costume is one modest art interpretation; no great crown, wings, halo, armour, sceptre or invented heraldry. Left two-thirds: three complete front/side/back views with same clothing and hair; small interrupted painted edges subtly identify a record, NOT cuts/scars in her skin. Hands relaxed and ordinary. Label these together \"Historical witness\". Right upper: same mature woman's head \"The decision\", expression of grief and grave resolve. Right lower: half-body study with both ordinary five-digit hands enclosing a SMALL SPHERE OF WHITE FIRE at waist/chest level; same robe, adult identity and plain circlet, worried determined expression. Label \"Closing the source\". Sphere's bounded off-white luminosity softly lights nearby fingers, under-cheek and robe planes. No large aura, lightning or surrounding frame.\n\nInput2 Orrin supplies PRIMARY heavy oil masses and connected shadow handling ONLY; do not inherit male body, baldness, beard, apron or tools. Input3 Crown chamber supplies muted enclosed blue-grey shade and cream reflections only. Most face/robe stays in connected dark copper/plum/shale shadow. A small pale reflection reaches one cheek and robe folds, with brighter local white fire confined to the lower-right hands study. Do not make broad studio daylight, orange-blue spectacle or every brush mark glow. Ivory background remains bright, unshaded.\n\nCanadian Group of Seven-style oil painting: broad rhythmic opaque masses, directional bristle, selective substantial impasto, quieter connected dark passages. Face/hands as boldly painted as robes; no smooth CGI/photo face, anime linework or uniform beveled glitter. Exact readable name/title and concise labels. No altar, circle, landscape, architecture, ground/contact shadow, swatches, palette bars, scene or other person.",
+            "references": [
+              {
+                "path": "stories/daughter-of-the-sun/art/characters/solvienne.png",
+                "role": "selected daughter's family resemblance only; queen must be older distinct mother, no braid/clothes/powers transfer",
+                "inspected": true,
+                "sha256": "447f788348a9701cff98483a0f5b59d4a7f1dcb54b6bc611c0972239d69113ca"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+                "role": "selected oil form and dark connected shadow only; no male identity or workwear",
+                "inspected": true,
+                "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+                "role": "enclosed muted slate/cream reflected light only; no setting",
+                "inspected": true,
+                "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-487828df-e4ac-4a51-8dae-7f3972bd511a.png",
+            "returnedSha256": "c420bbca7481f39c852c40e4588aab1583c45de275719c4dfe62877be3611664",
+            "completedAt": "2026-09-24T02:48:40.261828+00:00",
+            "review": "Historical record versus active source state, clothing/circlet, exact lettering, facial resemblance and hands pass. REVISE overly even bright lighting: require predominantly cool dark chamber shadows and only restrained pale reflected light, with actual sphere providing local upward light. Remove borrowed long braid; selected interpretation is loose auburn hair partially drawn back, distinct from Daughter braid."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:48:41.185574+00:00",
+            "status": "PASS",
+            "prompt": "Correct TWO concrete continuity issues in this Queen Aurelia oil character folio. Preserve exact face/identity/age, poses, body, copper/cream robe, simple gold circlet, hands/source sphere, labels and upper-left title.\n\n1. Replace broad studio/daylight on all figures and the head with subdued enclosed light: most face, hair, copper robe and cream underlayer must join into LARGE CONNECTED cool plum-grey/umber shadow masses. Only a small pale reflected plane lights ONE near cheek and a few folds. Main back mostly dark, no bright sunlit hair or all-over glitter. In the lower-right \"Closing the source\" study, the small WHITE FIRE SPHERE is the sole strong source: it lights fingers and lower face from BELOW, with forehead, temples and outside of robe kept dark. Glow stays close to hands, no surrounding halo. Ivory background unchanged and bright.\n2. Remove the long braided section of auburn hair in the full-body BACK view and any suggestion of it in side/front. Replace with plain long loose wavy dark auburn hair falling down the back, with only the upper hair softly drawn back beneath the circlet. No braid. Preserve hair length and mass; this is the mother, whose hairstyle differs from her daughter's long braid.\n\nKeep \"Queen Aurelia\", \"Daughter of the Sun\", \"Historical witness\", \"The decision\", \"Closing the source\" exactly readable; preserve composition and unclipped silhouettes. Keep mature worried resolve rather than youthful serenity. Preserve broad opaque oil forms/selected impasto; quieter painted shadows, no CGI. Character only; NO location, floor shadow/patch, swatches, new props or extra person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-487828df-e4ac-4a51-8dae-7f3972bd511a.png",
+                "role": "immutable Queen edit target; two corrections: enclosed light and loose unbraided hair",
+                "inspected": true,
+                "sha256": "c420bbca7481f39c852c40e4588aab1583c45de275719c4dfe62877be3611664"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-6347c391-e93f-4e36-bb3e-8bea0550ec8d.png",
+            "returnedSha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa",
+            "completedAt": "2026-09-24T02:51:17.089979+00:00",
+            "review": [
+              "Actual corrected pixels inspected: Queen's long auburn hair now loose/unbraided beneath plain circlet, distinct from Daughter braid; mature related face retained across full views and expressions.",
+              "Subdued enclosed reflection with connected dark copper/plum shadows; small white-fire source lights nearby hands/lower face in closing-source study, no all-over studio illumination.",
+              "Historical witness labelled separately from responsive remnant; ordinary human-shaped anatomy/five-digit hands, no wings/godhood assertion. Exact name/title/labels readable, broad oil forms, ivory, no environment/floor/swatch. Pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-487828df-e4ac-4a51-8dae-7f3972bd511a.png",
+            "role": "immutable Queen edit target; two corrections: enclosed light and loose unbraided hair",
+            "inspected": true,
+            "sha256": "c420bbca7481f39c852c40e4588aab1583c45de275719c4dfe62877be3611664"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:51:17.089979+00:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-487828df-e4ac-4a51-8dae-7f3972bd511a.png",
+            "role": "immutable Queen edit target; two corrections: enclosed light and loose unbraided hair",
+            "inspected": true,
+            "sha256": "c420bbca7481f39c852c40e4588aab1583c45de275719c4dfe62877be3611664"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: Queen's long auburn hair now loose/unbraided beneath plain circlet, distinct from Daughter braid; mature related face retained across full views and expressions.",
+          "Subdued enclosed reflection with connected dark copper/plum shadows; small white-fire source lights nearby hands/lower face in closing-source study, no all-over studio illumination.",
+          "Historical witness labelled separately from responsive remnant; ordinary human-shaped anatomy/five-digit hands, no wings/godhood assertion. Exact name/title/labels readable, broad oil forms, ivory, no environment/floor/swatch. Pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "3e9e13b3ccbb4b49e52543343f957845c50ed8e57357208f96b059cecba9f5b4"
+      },
+      "outputSha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa"
+    },
+    {
+      "id": "iserelle",
+      "name": "Iserelle",
+      "sourceIdentityId": "mother-fragment",
+      "nameAssignment": {
+        "name": "Iserelle",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Mother-fragment",
+        "scope": "Art and metadata only. Canonical personal name remains unrevealed; no prose/universe change or ontology ruling.",
+        "nameCheck": "Exact proposed name searched across universe, frozen NAMES, all current and bundle Markdown including prose/reviews; no matches."
+      },
+      "role": "Responsive remnant whose independent final choice holds frame open",
+      "selectionEvidence": [
+        {
+          "line": 179,
+          "quote": "A second Queen Aurelia stepped from the light after the record ended.",
+          "explanation": "Resembles Queen but responsive different phenomenon."
+        },
+        {
+          "line": 181,
+          "quote": "Its edges trembled.",
+          "explanation": "Visible manifestation."
+        },
+        {
+          "line": 183,
+          "quote": "I do not know whether I am her soul",
+          "explanation": "Ontology must stay unresolved."
+        },
+        {
+          "line": 279,
+          "quote": "For three final seconds it held the frame open",
+          "explanation": "Decisive independent sacrifice."
+        }
+      ],
+      "form": "Uncertain person-like Queen-associated remnant with trembling edges, not defined soul/robot",
+      "storyAppearance": {
+        "anatomy": "Queen-like human figure, uncertain visible body; no invented wings/skeleton/mechanical interior.",
+        "lifeStage": "Apparent adult like Queen; origin/continuity unresolved.",
+        "proportions": "Human-shaped manifestation.",
+        "markings": "Trembling edges, white fire passes through at final choice; not corpse wounds.",
+        "materials": "Uncertain light/record-like appearance, no declaration hologram/soul.",
+        "clothing": "Queen-like prior appearance can carry robe, no new regalia.",
+        "equipment": "None; key frame is location machinery excluded.",
+        "scale": "Human-shaped figure.",
+        "movement": "Tender recognition then afraid voluntary action, disappears afterward.",
+        "distinctiveFeatures": "Responsive and afraid; distinct presentation preserves uncertainty relative to Queen."
+      },
+      "explicitCanon": [
+        "CANON responsive person-like remnant associated with Queen, final independent choice/disappearance; soul/memory/reconstruction/new-person/life/magic status unresolved.",
+        "Source trembling edges and white fire through body; not generic ghost or robot."
+      ],
+      "visualInterpretation": [
+        "Match selected Queen's facial features and dark auburn hair/robe because source explicitly second Queen; softened broken painted edges, some ivory visible through interrupted extremities.",
+        "Two main manifestation angles plus tender/fearful head studies and small 'Final choice' white-fire passage across torso, no frame/scene. Iserelle an art-only label, not new canonical ontology."
+      ],
+      "states": [
+        {
+          "label": "Recognition",
+          "description": "Responsive Queen-like figure with uncertain edges."
+        },
+        {
+          "label": "Final choice",
+          "description": "White fire passing through torso, fearful face; no keyframe/environment."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:mother-fragment",
+        "links": [
+          "universe/characters.md#mother-fragment"
+        ],
+        "evidence": "Keeps source association with Queen without asserting soul/identity equivalence or separation as ontological fact."
+      },
+      "references": [
+        {
+          "path": "stories/daughter-of-the-sun/title-image.jpg",
+          "role": "inspected cover solar effect/open human hands only; no full character identity",
+          "sha256": "1a68d442bb1ac68565be5a574781d5a30622e6b1ee055edac75b6b3094147c20",
+          "inspected": true,
+          "notes": "No faces or clothing depicted; warm human hands and controlled golden branching heat. Architecture excluded."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
+          "role": "cool stone/old brass palette and broad oil mass handling only; no environment",
+          "sha256": "0431bf4512a62b92f6a71b40ec80b325fc7a93e2eac5cc793dfa688d6730bbdd",
+          "inspected": true,
+          "notes": "Slate-blue shade, restrained cream-gold planes, black sun motif; no characters."
+        },
+        {
+          "path": "stories/daughter-of-the-sun/art/interiors/03-ninth-hollow-greenhouse.png",
+          "role": "bounded warm glow and cool underground shade only; no scene",
+          "sha256": "a38b53e88df0c5216bd6add7b82b0f2261e90f43b27ee5589427290639537a3a",
+          "inspected": true,
+          "notes": "Low amber pools against violet rock, broad brushwork, no character identity."
+        }
+      ],
+      "output": "stories/daughter-of-the-sun/art/characters/iserelle.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE landscape 3:2 character-only OIL reference folio, unshaded warm IVORY background. Exact large upper-left heading \"Iserelle\" and smaller subtitle \"Daughter of the Sun\". This is the art name of the story's responsive Mother-fragment; it is NOT a canonical personal name or a claim of a soul/robot/hologram. Depict uncertainty through painterly form, not explanatory prose.\n\nThe remnant looks like a SECOND QUEEN AURELIA. Use attached selected Queen sheet as exact facial, hair, age, body, costume and paint/light anchor: same mature medium-brown human-shaped face, strong nose, amber-brown eyes, long LOOSE UNBRAIDED dark auburn hair partially drawn back, plain narrow gold circlet, dark copper robe and cream underlayer. No added crown/halo/wings/circuitry or corpse injuries. All views show this same Queen-like remnant, not two identities. Unlike historical witness, expressions here are responsive, private, tender and afraid.\n\nLayout: two large fully visible figures front three-quarter and rear three-quarter, same proportions, robe and loose hair. Their outer contours subtly tremble as interrupted broad oil strokes with a little ivory showing through a few extremity edges; no mechanical projection grid, ghost sheet or giant glow. Main label \"Recognition\". Upper right two smaller head studies \"Tenderness\" and \"Fear\", same exact features but distinct expressions, fearful eyes tense rather than serenely divine. Lower right small half-body study \"Final choice\": she is scared and determined, arms slightly spread, WHITE FIRE PASSES THROUGH the uncertain torso in a narrow bright area. It does not burn flesh or expose organs; interrupted painted body/robe edges, no gore. NO black-sun frame or other location machinery around her. No floating orb in her handsâ€”the orb belonged to historical Queen's decision, not this remnant scene.\n\nMaintain the selected Queen's muted enclosed light, LARGE CONNECTED dark copper/plum/grey shadow masses and broad directional opaque oil. Most faces/clothes remain subdued; small pale reflected planes, local white-fire light only in final-choice torso. Keep head/skin as decisively painted as robe, selective impasto and quieter shadow passages. No broad studio daylight, glossy CGI, anime outlines, uniformly bevelled paint chips, orange-blue rim spectacle or bright all-over aura. Ivory remains clean/light.\n\nExact readable heading/story title, concise labels only. Natural five-digit hands, no extra arms. No other person, scenery, floor/contact shadow/ground patch, decorative prose, swatches/palette bars.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:51:19.002771+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE landscape 3:2 character-only OIL reference folio, unshaded warm IVORY background. Exact large upper-left heading \"Iserelle\" and smaller subtitle \"Daughter of the Sun\". This is the art name of the story's responsive Mother-fragment; it is NOT a canonical personal name or a claim of a soul/robot/hologram. Depict uncertainty through painterly form, not explanatory prose.\n\nThe remnant looks like a SECOND QUEEN AURELIA. Use attached selected Queen sheet as exact facial, hair, age, body, costume and paint/light anchor: same mature medium-brown human-shaped face, strong nose, amber-brown eyes, long LOOSE UNBRAIDED dark auburn hair partially drawn back, plain narrow gold circlet, dark copper robe and cream underlayer. No added crown/halo/wings/circuitry or corpse injuries. All views show this same Queen-like remnant, not two identities. Unlike historical witness, expressions here are responsive, private, tender and afraid.\n\nLayout: two large fully visible figures front three-quarter and rear three-quarter, same proportions, robe and loose hair. Their outer contours subtly tremble as interrupted broad oil strokes with a little ivory showing through a few extremity edges; no mechanical projection grid, ghost sheet or giant glow. Main label \"Recognition\". Upper right two smaller head studies \"Tenderness\" and \"Fear\", same exact features but distinct expressions, fearful eyes tense rather than serenely divine. Lower right small half-body study \"Final choice\": she is scared and determined, arms slightly spread, WHITE FIRE PASSES THROUGH the uncertain torso in a narrow bright area. It does not burn flesh or expose organs; interrupted painted body/robe edges, no gore. NO black-sun frame or other location machinery around her. No floating orb in her handsâ€”the orb belonged to historical Queen's decision, not this remnant scene.\n\nMaintain the selected Queen's muted enclosed light, LARGE CONNECTED dark copper/plum/grey shadow masses and broad directional opaque oil. Most faces/clothes remain subdued; small pale reflected planes, local white-fire light only in final-choice torso. Keep head/skin as decisively painted as robe, selective impasto and quieter shadow passages. No broad studio daylight, glossy CGI, anime outlines, uniformly bevelled paint chips, orange-blue rim spectacle or bright all-over aura. Ivory remains clean/light.\n\nExact readable heading/story title, concise labels only. Natural five-digit hands, no extra arms. No other person, scenery, floor/contact shadow/ground patch, decorative prose, swatches/palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-6347c391-e93f-4e36-bb3e-8bea0550ec8d.png",
+                "role": "immutable selected Queen: exact source-required resemblance, loose hair/robe/circlet, heavy oil and subdued illumination",
+                "inspected": true,
+                "sha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-25e78390-1a6b-4e1b-92c2-3b79abe180a4.png",
+            "returnedSha256": "712a01d4c7f213983839fac05f6d15a2a3390250f20c02cf975e63aa9bc25b46",
+            "completedAt": "2026-09-24T02:53:38.524921+00:00",
+            "review": [
+              "Actual pixels inspected: source-required second-Queen resemblance preserves selected Aurelia face, loose hair/circlet/robe; trembling interrupted edges distinguish responsive manifestation without asserting soul, robot or god ontology.",
+              "Distinct tenderness and fear portraits, final choice has white fire passing through uncertain torso without gore/frame/scene; ordinary five-digit hands and no orb imported from historical witness.",
+              "Exact Iserelle and story title readable; art-only name provenance remains explicit in specification. Connected subdued oil shadows and bounded white-fire light; all views unclipped, ivory clear, no location/ground/swatch. Pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-6347c391-e93f-4e36-bb3e-8bea0550ec8d.png",
+            "role": "immutable selected Queen: exact source-required resemblance, loose hair/robe/circlet, heavy oil and subdued illumination",
+            "inspected": true,
+            "sha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:53:38.524921+00:00",
+        "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+        "outputSha256": "712a01d4c7f213983839fac05f6d15a2a3390250f20c02cf975e63aa9bc25b46",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-6347c391-e93f-4e36-bb3e-8bea0550ec8d.png",
+            "role": "immutable selected Queen: exact source-required resemblance, loose hair/robe/circlet, heavy oil and subdued illumination",
+            "inspected": true,
+            "sha256": "132cf77b588a618bff3f09a6370613a9acc0fb2992aebe0d3eb65506945997fa"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: source-required second-Queen resemblance preserves selected Aurelia face, loose hair/circlet/robe; trembling interrupted edges distinguish responsive manifestation without asserting soul, robot or god ontology.",
+          "Distinct tenderness and fear portraits, final choice has white fire passing through uncertain torso without gore/frame/scene; ordinary five-digit hands and no orb imported from historical witness.",
+          "Exact Iserelle and story title readable; art-only name provenance remains explicit in specification. Connected subdued oil shadows and bounded white-fire light; all views unclipped, ivory clear, no location/ground/swatch. Pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "6dcf2fc00c3b0c84cd0d3c7f22924fa0b735553d5e506eccc85c93152cf43e8f"
+      },
+      "outputSha256": "712a01d4c7f213983839fac05f6d15a2a3390250f20c02cf975e63aa9bc25b46"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
