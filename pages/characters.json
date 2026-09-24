@@ -1121,6 +1121,165 @@
       ]
     },
     {
+      "slug": "all-accounts-due",
+      "title": "All Accounts Due",
+      "reader": "stories/all-accounts-due.html",
+      "images": [
+        {
+          "id": "bound-ascendancy",
+          "title": "Bound Ascendancy",
+          "alt": "Sculpted Impasto character reference sheet of Bound Ascendancy for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/bound-ascendancy.png",
+          "sourceSha256": "198612217eed69d3a216b4df1e14536454249963eabd8c17d30f844f2bd50578",
+          "full": {
+            "path": "characters/all-accounts-due/bound-ascendancy-198612217eed69d3.webp",
+            "sha256": "cc6d2679aea62815196598d588037badd03151d569daf0c641c979ab10c250be",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/bound-ascendancy-198612217eed69d3-thumb.webp",
+            "sha256": "14fabe1944118a770089f2e4bb7798c2c08ddfc4073aa34b5d9939d45e2ae12e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ekkorath",
+          "title": "Ekkorath",
+          "alt": "Sculpted Impasto character reference sheet of Ekkorath for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/ekkorath.png",
+          "sourceSha256": "8808f27d75e8c5a250cad056320b694e84c39947d36a1d7e64cc184601688870",
+          "full": {
+            "path": "characters/all-accounts-due/ekkorath-8808f27d75e8c5a2.webp",
+            "sha256": "6d04b6534a07f2feedcf52d78c49916470b6716fc4b930ed3981c03a5c9db90b",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/ekkorath-8808f27d75e8c5a2-thumb.webp",
+            "sha256": "b71127207b7c12fd6549901e5f8d45500c400664c1c6ea8cfacafe15ce286f8a",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "faris",
+          "title": "Faris",
+          "alt": "Sculpted Impasto character reference sheet of Faris for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/faris.png",
+          "sourceSha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8",
+          "full": {
+            "path": "characters/all-accounts-due/faris-962e5b9238bcef9a.webp",
+            "sha256": "9cfde663434fb91c4eb2ba9e5b98204298e445a86c16f084b2036ceac1b2404a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/faris-962e5b9238bcef9a-thumb.webp",
+            "sha256": "a2ccb17eb136380f36d65b6ad5cfab6a8ad15a97a2de9994a47b4052d87b78cf",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "hurzai",
+          "title": "Hurzai",
+          "alt": "Sculpted Impasto character reference sheet of Hurzai for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/hurzai.png",
+          "sourceSha256": "f6dd35b276d8cb0241681269fd17a766218560f03b12bf88c58c4780a015a6e8",
+          "full": {
+            "path": "characters/all-accounts-due/hurzai-f6dd35b276d8cb02.webp",
+            "sha256": "c1c6263bfd045f18d45221d5cd5114f3da2a736c97b904a81ae5d11b458f561e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/hurzai-f6dd35b276d8cb02-thumb.webp",
+            "sha256": "7c4b4544b6fb9d1f58bb288ce8d66499c461c197261a518f734122185f168caf",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "jelveth-sorn",
+          "title": "Jelveth Sorn",
+          "alt": "Sculpted Impasto character reference sheet of Jelveth Sorn for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/jelveth-sorn.png",
+          "sourceSha256": "ace184314ff1a75d8c10526e6d490001ad972ca11d189811ac0cbf104a1cf19a",
+          "full": {
+            "path": "characters/all-accounts-due/jelveth-sorn-ace184314ff1a75d.webp",
+            "sha256": "a8080c8907cce8d0e3ef225c56229e104be60e945f676248f1fdd3f45267fa8a",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/jelveth-sorn-ace184314ff1a75d-thumb.webp",
+            "sha256": "ac4d962d2ae99b03f36dbddd28ce452c3b0fc486efee8c64ebe91eb014208f55",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "king-malrec",
+          "title": "King Malrec",
+          "alt": "Sculpted Impasto character reference sheet of King Malrec for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/king-malrec.png",
+          "sourceSha256": "daddff4ed2bfcab26e006f2db258005d762a702efed1b042f24e3070482154cf",
+          "full": {
+            "path": "characters/all-accounts-due/king-malrec-daddff4ed2bfcab2.webp",
+            "sha256": "40eea41059c75a7c1a7a5ba31284dfde3f130fc13d0e7e7ed3acabd10a5aeb50",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/king-malrec-daddff4ed2bfcab2-thumb.webp",
+            "sha256": "999c4cbee7de4ecd085e8ef5bbd0810fff217e9a5ed4d3fbc690969b0f3448a6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "qeluun",
+          "title": "Qeluun",
+          "alt": "Sculpted Impasto character reference sheet of Qeluun for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/qeluun.png",
+          "sourceSha256": "87a464c0b2706e14b09b41db582f358fed2205fa12b26f4c213676be1edd4663",
+          "full": {
+            "path": "characters/all-accounts-due/qeluun-87a464c0b2706e14.webp",
+            "sha256": "b585200c8c257036090890b87d6acc78837dc787bdf520f0c7d610a0df1532ba",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/qeluun-87a464c0b2706e14-thumb.webp",
+            "sha256": "146282a32c2c1859f6e83d4f8670c71f7c2b670fc4d40e9b9d56d4cfe93d7c38",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "seyathi",
+          "title": "Seyathi",
+          "alt": "Sculpted Impasto character reference sheet of Seyathi for All Accounts Due",
+          "source": "stories/all-accounts-due/art/characters/seyathi.png",
+          "sourceSha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a",
+          "full": {
+            "path": "characters/all-accounts-due/seyathi-6bbde90aaf08c416.webp",
+            "sha256": "ac0210b38db8d568998cde2268cacdeac699f1b65f9e1e2691983dac27956aa7",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/all-accounts-due/seyathi-6bbde90aaf08c416-thumb.webp",
+            "sha256": "fae41af35bc74f76daf03a4ec000823b783ecee522e0eeee7834b36d72c11abf",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "an-ordinary-education",
       "title": "An Ordinary Education",
       "reader": "stories/an-ordinary-education.html",
@@ -1842,6 +2001,89 @@
           "thumbnail": {
             "path": "characters/anatomy-of-a-god/vesrin-a0bdb59b31495e05-thumb.webp",
             "sha256": "37707bb68bfa1e6aaeeb213c0674f4058768fcb77010ac1811b4ca7e8a6bb544",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "blade-calls-your-name",
+      "title": "The Blade Calls Your Name",
+      "reader": "stories/blade-calls-your-name.html",
+      "images": [
+        {
+          "id": "felrin",
+          "title": "Felrin",
+          "alt": "Sculpted Impasto character reference sheet of Felrin for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/characters/felrin.png",
+          "sourceSha256": "48ff002642862e21c9c315f5db4dd29300be56adc7bcd40c7290cc4d7e3bbed1",
+          "full": {
+            "path": "characters/blade-calls-your-name/felrin-48ff002642862e21.webp",
+            "sha256": "d3d2365c09c2d5141130d316e85ff5d6d7f71e543a5295acb775cc91771ba367",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blade-calls-your-name/felrin-48ff002642862e21-thumb.webp",
+            "sha256": "6483fdad4a81d2a41d29a25d2351bcbabab27a5163fc4f27c72a4f9ea48b3a81",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "kosca",
+          "title": "Kosca",
+          "alt": "Sculpted Impasto character reference sheet of Kosca for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/characters/kosca.png",
+          "sourceSha256": "e881650984b5be34eebeb206e1dda1453e66ed429008488e312646a029875ab1",
+          "full": {
+            "path": "characters/blade-calls-your-name/kosca-e881650984b5be34.webp",
+            "sha256": "f4cb7cad869eef7ab59bb3f9d76521eb2dcf354bf8c64d69f1d1f9becb9fc009",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blade-calls-your-name/kosca-e881650984b5be34-thumb.webp",
+            "sha256": "eb5d0da638b4103bc106e71c8b91f8f1c0e1f6fa280fd711c28a7694a8b83648",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "odmara",
+          "title": "Odmara",
+          "alt": "Sculpted Impasto character reference sheet of Odmara for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/characters/odmara.png",
+          "sourceSha256": "5e20d8bbb19eedddad0086244927f1e79503f30af774f785e92f40de7312142a",
+          "full": {
+            "path": "characters/blade-calls-your-name/odmara-5e20d8bbb19eeddd.webp",
+            "sha256": "9c449819506209c7721cda057640ae0c8ab64eaa41fee33efd3e5a8c0531d557",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blade-calls-your-name/odmara-5e20d8bbb19eeddd-thumb.webp",
+            "sha256": "68932d289f0d70b509418564af9c045bbe104d441efb05fbed46f5615ffcf61e",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "yevet",
+          "title": "Yevet",
+          "alt": "Sculpted Impasto character reference sheet of Yevet for The Blade Calls Your Name",
+          "source": "stories/blade-calls-your-name/art/characters/yevet.png",
+          "sourceSha256": "561a12af3e0bc9926713e6ec16dfda870bc2db1586f69f469fde944d40c5a49f",
+          "full": {
+            "path": "characters/blade-calls-your-name/yevet-561a12af3e0bc992.webp",
+            "sha256": "8121fc50604f0673b14083ed1b70c9550e809f9d22b7e45ae2a6613fbf3f82c8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/blade-calls-your-name/yevet-561a12af3e0bc992-thumb.webp",
+            "sha256": "fd7764538e732b8ae7595c026ab5b118a33b3ec7d034e3d8fc4a3ab7cdc5d8cb",
             "width": 480,
             "height": 320
           }
