@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-attendance-ledger",
+  "title": "The Attendance Ledger",
+  "source": "stories/the-attendance-ledger/05-story.md",
+  "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source and full prompt/review read. Five identities: Gideon Tolland/Night Clerk; three independently acting students with exact canonical ages and established aliases; one living Rollcaller antagonist. Each student's civilian/transformed states belong to one sheet. Source marker false, universe CANON entries still binding and preserved. No character added for an ordinary object or generic group.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Other classmates, guardians and administrator",
+      "reason": "Functional background group/incidental voice, no sustained individualized cast."
+    },
+    {
+      "name": "Ledger, focus tokens, relay, cameras and equipment",
+      "reason": "Nonliving ordinary tools; no independent agency. Personal focus-token detail may accompany its living user."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Gideon Tolland",
+    "universe/characters.md#Drita Ademi",
+    "universe/characters.md#Bryn Ahn",
+    "universe/characters.md#Cassia Dominguez",
+    "universe/characters.md#The Rollcaller",
+    "universe/rules.md#Northbridge trio transformation and support practice",
+    "universe/rules.md#Rollcaller mimicry and short-term containment",
+    "universe/glossary.md#Refraction veil"
+  ],
+  "characters": [
+    {
+      "id": "gideon-tolland",
+      "name": "Gideon Tolland",
+      "role": "Teacher and anonymous support operator Night Clerk",
+      "naming": {
+        "sourceName": "Gideon Tolland",
+        "sourceRole": "Teacher and anonymous support operator Night Clerk",
+        "provenance": "Exact established source/canonical name; aliases retained as same-person states"
+      },
+      "selectionEvidence": [
+        {
+          "line": 10,
+          "quote": "Gideon Tolland",
+          "explanation": "Protagonist teacher named in opening."
+        },
+        {
+          "line": 506,
+          "quote": "Night Clerk reopened the reset relay.",
+          "explanation": "Same person's support identity."
+        }
+      ],
+      "form": "Human adult",
+      "storyAppearance": {
+        "anatomy": "Ordinary human teacher/radio volunteer. Source wears ordinary headset/phone; gray paper ledger with coffee stain is mundane. Strains shoulder in evacuation, not magic; no authority to order girls.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man44 artage, broad comfortable build, dark beige-brown skin, round lined face, broad nose, short dark brown curly hair graying at temples, neatly trimmed small beard, thin rectangular glasses. Russet corduroy blazer over pale blue collared shirt, charcoal trousers, brown lace shoes. No fantasy uniform.",
+        "markings": "Ordinary human teacher/radio volunteer. Source wears ordinary headset/phone; gray paper ledger with coffee stain is mundane. Strains shoulder in evacuation, not magic; no authority to order girls.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man44 artage, broad comfortable build, dark beige-brown skin, round lined face, broad nose, short dark brown curly hair graying at temples, neatly trimmed small beard, thin rectangular glasses. Russet corduroy blazer over pale blue collared shirt, charcoal trousers, brown lace shoes. No fantasy uniform.",
+        "equipment": "Three full-body daytime Front/Side/Back, two civilian heads Dry humor and Listening. Small evening support chest/head study wearing ordinary headset and holding ordinary phone, no interface names; ledger held in front mainview.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man44 artage, broad comfortable build, dark beige-brown skin, round lined face, broad nose, short dark brown curly hair graying at temples, neatly trimmed small beard, thin rectangular glasses. Russet corduroy blazer over pale blue collared shirt, charcoal trousers, brown lace shoes. No fantasy uniform."
+      },
+      "explicitCanon": [
+        "Ordinary human teacher/radio volunteer. Source wears ordinary headset/phone; gray paper ledger with coffee stain is mundane. Strains shoulder in evacuation, not magic; no authority to order girls."
+      ],
+      "visualInterpretation": [
+        "Man44 artage, broad comfortable build, dark beige-brown skin, round lined face, broad nose, short dark brown curly hair graying at temples, neatly trimmed small beard, thin rectangular glasses. Russet corduroy blazer over pale blue collared shirt, charcoal trousers, brown lace shoes. No fantasy uniform.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three full-body daytime Front/Side/Back, two civilian heads Dry humor and Listening. Small evening support chest/head study wearing ordinary headset and holding ordinary phone, no interface names; ledger held in front mainview."
+        }
+      ],
+      "lighting": {
+        "moment": "Daytime teacher and evening support",
+        "motivation": "Civilian natural school window light; transformed/blackout studies low-key amber emergency and bounded user-generated effects"
+      },
+      "recurrence": {
+        "identityKey": "the-attendance-ledger:gideon-tolland",
+        "links": [
+          "universe/characters.md#Gideon Tolland"
+        ],
+        "evidence": "Exact established local identity; no Solstice relation or other crossover"
+      },
+      "references": [
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "role": "Actual daytime school oil/light source",
+          "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+          "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted ivory oil folio rendering only",
+          "notes": "No identity/age/clothes transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+          "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+          "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/title-image.jpg",
+          "role": "Inspected symbolic nonfigurative cover",
+          "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+          "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-attendance-ledger/art/characters/gideon-tolland.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Gideon Tolland'.\nGideon Tolland, HUMAN man44 art interpretation, broad comfortable build, dark beige-brown skin, round face, broad nose, short dark brown curls gray at temples, neat small beard and thin rectangular spectacles. Russet corduroy blazer, pale blue collar shirt, charcoal trousers, brown lace shoes. Three complete fullbody Front/Side/Back dayteacher, simple gray administrative ledger with small coffee stain held in frontview; NO magical writing. Two heads dry humor/listening. Small separate upperbody 'Night Clerk' evening state with ordinary black headset and phone, sameclothes; quiet warm practical light and dark cool shadows, no room. Day figures warm school windowlight and cool shadows. No visible injury state needed, no girls shown.",
+        "references": [
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+            "role": "Actual daytime school oil/light source",
+            "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+            "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual accepted ivory oil folio rendering only",
+            "notes": "No identity/age/clothes transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+            "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+            "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+            "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:33:52.569077+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Gideon Tolland'.\nGideon Tolland, HUMAN man44 art interpretation, broad comfortable build, dark beige-brown skin, round face, broad nose, short dark brown curls gray at temples, neat small beard and thin rectangular spectacles. Russet corduroy blazer, pale blue collar shirt, charcoal trousers, brown lace shoes. Three complete fullbody Front/Side/Back dayteacher, simple gray administrative ledger with small coffee stain held in frontview; NO magical writing. Two heads dry humor/listening. Small separate upperbody 'Night Clerk' evening state with ordinary black headset and phone, sameclothes; quiet warm practical light and dark cool shadows, no room. Day figures warm school windowlight and cool shadows. No visible injury state needed, no girls shown.",
+            "references": [
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+                "role": "Actual daytime school oil/light source",
+                "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+                "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted ivory oil folio rendering only",
+                "notes": "No identity/age/clothes transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+                "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+                "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+                "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a970e8cd-fc27-49f2-8427-51a1b3aa3f04.png",
+            "savedPath": "stories/the-attendance-ledger/art/characters/gideon-tolland.png",
+            "outputSha256": "0f572933973b3576f30352782ec6bf5037f87cb67c922a5beb13b69db3c73024",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:13:52.708794+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:13:52.708794+00:00",
+        "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+        "outputSha256": "0f572933973b3576f30352782ec6bf5037f87cb67c922a5beb13b69db3c73024",
+        "references": [
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+            "role": "Actual daytime school oil/light source",
+            "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+            "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual accepted ivory oil folio rendering only",
+            "notes": "No identity/age/clothes transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+            "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+            "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+            "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1: one consistent ordinary adult teacher, three fullviews/two clear expressive heads and same-person Night Clerk headset/phone study; inert gray coffee-stained ledger.",
+          "Daytime natural school planes and evening support warm practical shadow state separated; no magical role uniform or another character.",
+          "Exact name/title, matte eyes, physical oil face/cloth and ivory character-only folio pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "b867febba69c6bf6f08140ad7af7447af5ccef9c1d269b92aaffe2766dc2ad07"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "0f572933973b3576f30352782ec6bf5037f87cb67c922a5beb13b69db3c73024"
+    },
+    {
+      "id": "drita-ademi",
+      "name": "Drita Ademi",
+      "role": "Tactical student who chooses to defend the evacuation route",
+      "naming": {
+        "sourceName": "Drita Ademi",
+        "sourceRole": "Tactical student who chooses to defend the evacuation route",
+        "provenance": "Exact established source/canonical name; aliases retained as same-person states"
+      },
+      "selectionEvidence": [
+        {
+          "line": 22,
+          "quote": "Drita held her left wrist close to her body.",
+          "explanation": "Fixed injury laterality."
+        },
+        {
+          "line": 378,
+          "quote": "Kiteglass held one arm tight against her ribs.",
+          "explanation": "Defensive transformed posture, same injured person."
+        }
+      ],
+      "form": "Human teenager",
+      "storyAppearance": {
+        "anatomy": "Canonical age 15. LEFT wrist bruised under uniform jumper cuff, pale cold fingertips; barrier use drains heat. Voluntary transformed identity Kiteglass; angled translucent barriers and face/voice refraction. Alias Kiteglass is the same living person.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl15, small wiry ordinary build, fair olive skin, long narrow face, brown almond-shaped eyes, dark chestnut hair in a single low loose braid with center part. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "markings": "Canonical age 15. LEFT wrist bruised under uniform jumper cuff, pale cold fingertips; barrier use drains heat. Voluntary transformed identity Kiteglass; angled translucent barriers and face/voice refraction. Alias Kiteglass is the same living person.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl15, small wiry ordinary build, fair olive skin, long narrow face, brown almond-shaped eyes, dark chestnut hair in a single low loose braid with center part. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "equipment": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Kiteglass state, two civilian heads Thoughtful / Resolute, restrained detail. Same teen in modest dark teal long-sleeve knee-length practical tunic over dark trousers and ankle boots, pale angular seam accents; no armor. One angled translucent plane beside outstretched RIGHT hand, LEFT wrist held close to ribs; face obscured by shifting opaque oil refraction planes. Subtle LEFT wrist bruise with cuff partly hiding it, frontviewerRIGHT backviewerLEFT. Tiny plain copper oval focus disk in RIGHT hand close-up, not glowing. No hard medical brace invented.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl15, small wiry ordinary build, fair olive skin, long narrow face, brown almond-shaped eyes, dark chestnut hair in a single low loose braid with center part. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes."
+      },
+      "explicitCanon": [
+        "Canonical age 15. LEFT wrist bruised under uniform jumper cuff, pale cold fingertips; barrier use drains heat. Voluntary transformed identity Kiteglass; angled translucent barriers and face/voice refraction. Alias Kiteglass is the same living person."
+      ],
+      "visualInterpretation": [
+        "Girl15, small wiry ordinary build, fair olive skin, long narrow face, brown almond-shaped eyes, dark chestnut hair in a single low loose braid with center part. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Kiteglass state, two civilian heads Thoughtful / Resolute, restrained detail. Same teen in modest dark teal long-sleeve knee-length practical tunic over dark trousers and ankle boots, pale angular seam accents; no armor. One angled translucent plane beside outstretched RIGHT hand, LEFT wrist held close to ribs; face obscured by shifting opaque oil refraction planes. Subtle LEFT wrist bruise with cuff partly hiding it, frontviewerRIGHT backviewerLEFT. Tiny plain copper oval focus disk in RIGHT hand close-up, not glowing. No hard medical brace invented."
+        }
+      ],
+      "lighting": {
+        "moment": "Daytime civilian and blackout transformed state",
+        "motivation": "Civilian natural school window light; transformed/blackout studies low-key amber emergency and bounded user-generated effects"
+      },
+      "recurrence": {
+        "identityKey": "the-attendance-ledger:drita-ademi",
+        "links": [
+          "universe/characters.md#Drita Ademi"
+        ],
+        "evidence": "Exact established local identity; no Solstice relation or other crossover"
+      },
+      "references": [
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "role": "Actual daytime school oil/light source",
+          "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+          "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted ivory oil folio rendering only",
+          "notes": "No identity/age/clothes transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+          "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+          "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/title-image.jpg",
+          "role": "Inspected symbolic nonfigurative cover",
+          "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+          "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit Drita Ademi / The Attendance Ledger supplied sheet minimally. Preserve every character pose, identity, teen age/proportions, clothing, actual skin/face/hair oil planes, correct anatomical LEFT wrist bruise, inert focus disk, all text and layout. Remove ALL decorative brush-stroke BACKGROUNDS: the big dark blue/gold/amber slashing swath behind the transformed Kiteglass figure, pale blue/ochre patches behind two portrait heads, and background paint around isolated hand details. Replace those with the SAME clean warm ivory as the sheet. Character silhouettes should be cleanly isolated, with their own heavy painted edges and shadows retained. The ONLY allowed shape outside her body is ONE small bounded sharp-edged translucent pale blue angled barrier plane projecting beside her outstretched RIGHT palm, keep that recognizable source power but no wide halo/background wash. Preserve transformed face's exact refracted obscuring planes and its dark blackout-lit outfit. Keep civilian expression faces CLEAR and unchanged. No room/location/floor/scene/swatches/extra person. One1536x1024 landscapefolio.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-7b1cb4b6-984f-4733-b3e7-2101f4436bf7.png",
+            "sha256": "b4c4199911dbe3f17cec0b6fd92cec595f7ec4455cb6848eac32209b1e724662",
+            "inspected": true,
+            "role": "Immutable inspected Drita A1; isolate character studies and bounded barrier only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:33:52.569077+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Drita Ademi'.\nDrita Ademi, exactly15, ordinary fullyclothed teenage anatomy. Girl15, small wiry ordinary build, fair olive skin, long narrow face, brown almond-shaped eyes, dark chestnut hair in a single low loose braid with center part. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes. Layout ONLY TWO civilian wholebody views FRONT/BACK at left, two clear CIVILIAN expression heads 'Thoughtful / Resolute' upper right, one wholebody 'Kiteglass — refraction veil' lower/right and tiny personal detail. Never put a second character. Civilian heads stable specific appearance in natural daytime windowlight; no blur there. TRANSFORMED STATE: Same teen in modest dark teal long-sleeve knee-length practical tunic over dark trousers and ankle boots, pale angular seam accents; no armor. One angled translucent plane beside outstretched RIGHT hand, LEFT wrist held close to ribs; face obscured by shifting opaque oil refraction planes. Main civilian and transformed body proportions/hair identical despite face blurring. Transformed state in BLACKOUT: predominantly cool deep-blue shadows and narrow weak amber emergency planes; bounded character power highlights as described. Subtle LEFT wrist bruise with cuff partly hiding it, frontviewerRIGHT backviewerLEFT. Tiny plain copper oval focus disk in RIGHT hand close-up, not glowing. No hard medical brace invented. Plain small copper oval disk shape is art interpretation. No lens haze across whole sheet, no room/scene, no magical source in objects.",
+            "references": [
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+                "role": "Actual daytime school oil/light source",
+                "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+                "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted ivory oil folio rendering only",
+                "notes": "No identity/age/clothes transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+                "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+                "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+                "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-7b1cb4b6-984f-4733-b3e7-2101f4436bf7.png",
+            "outputSha256": "b4c4199911dbe3f17cec0b6fd92cec595f7ec4455cb6848eac32209b1e724662",
+            "review": "Actual A1 identity/teen anatomy/left bruise/refraction veil pass; excessive decorative blue/gold brush backgrounds. Remove only non-character backing patches and retain bounded barrier."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:13:53.743020+00:00",
+            "prompt": "Edit Drita Ademi / The Attendance Ledger supplied sheet minimally. Preserve every character pose, identity, teen age/proportions, clothing, actual skin/face/hair oil planes, correct anatomical LEFT wrist bruise, inert focus disk, all text and layout. Remove ALL decorative brush-stroke BACKGROUNDS: the big dark blue/gold/amber slashing swath behind the transformed Kiteglass figure, pale blue/ochre patches behind two portrait heads, and background paint around isolated hand details. Replace those with the SAME clean warm ivory as the sheet. Character silhouettes should be cleanly isolated, with their own heavy painted edges and shadows retained. The ONLY allowed shape outside her body is ONE small bounded sharp-edged translucent pale blue angled barrier plane projecting beside her outstretched RIGHT palm, keep that recognizable source power but no wide halo/background wash. Preserve transformed face's exact refracted obscuring planes and its dark blackout-lit outfit. Keep civilian expression faces CLEAR and unchanged. No room/location/floor/scene/swatches/extra person. One1536x1024 landscapefolio.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-7b1cb4b6-984f-4733-b3e7-2101f4436bf7.png",
+                "sha256": "b4c4199911dbe3f17cec0b6fd92cec595f7ec4455cb6848eac32209b1e724662",
+                "inspected": true,
+                "role": "Immutable inspected Drita A1; isolate character studies and bounded barrier only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8d12a03c-ddbd-4911-ba2f-ff0e14b8b6d3.png",
+            "savedPath": "stories/the-attendance-ledger/art/characters/drita-ademi.png",
+            "outputSha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:25:43.580758+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:25:43.580758+00:00",
+        "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+        "outputSha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-7b1cb4b6-984f-4733-b3e7-2101f4436bf7.png",
+            "sha256": "b4c4199911dbe3f17cec0b6fd92cec595f7ec4455cb6848eac32209b1e724662",
+            "inspected": true,
+            "role": "Immutable inspected Drita A1; isolate character studies and bounded barrier only"
+          }
+        ],
+        "evidence": [
+          "Actual A2: fifteen-year-old civilian front/back/head studies consistent, navy jumper, own braid and anatomy; LEFT wrist bruise correct and naturally supported, inert focus disk.",
+          "One transformed Kiteglass state of same person with deliberately blurred refracted face, fully clothed modest tunic and bounded angled translucent barrier from RIGHT hand; LEFT arm held close. No otheridentity.",
+          "Removed all decorative background swashes; light ivory clean around every study, source daylight vs blackout wardrobe planes coherent, readable name/title and physical oil pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "b430b42e2b3dad4b607195337dd5f942458b79a1f3cbba2ec8928e4fa09795a7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "fb6ae9589245942edc512d67dadfff7dc1b18ac4b3f33c2564524eefaeeef914"
+    },
+    {
+      "id": "bryn-ahn",
+      "name": "Bryn Ahn",
+      "role": "Systems-minded student who consents to and performs magical severance",
+      "naming": {
+        "sourceName": "Bryn Ahn",
+        "sourceRole": "Systems-minded student who consents to and performs magical severance",
+        "provenance": "Exact established source/canonical name; aliases retained as same-person states"
+      },
+      "selectionEvidence": [
+        {
+          "line": 26,
+          "quote": "Bryn had already drawn two routes out of the problem",
+          "explanation": "Systems planning."
+        },
+        {
+          "line": 448,
+          "quote": "Blue-white light snapped through every black strand.",
+          "explanation": "Bounded severance effect."
+        }
+      ],
+      "form": "Human teenager",
+      "storyAppearance": {
+        "anatomy": "Canonical age 16. Voluntary Pulsewire transformation, senses/severs active magical connections at close range; tremor, sensory halos, headache and sound sensitivity. Source blue-white flicker during severance. Faces blurred under veil. Alias Pulsewire is the same living person.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "markings": "Canonical age 16. Voluntary Pulsewire transformation, senses/severs active magical connections at close range; tremor, sensory halos, headache and sound sensitivity. Source blue-white flicker during severance. Faces blurred under veil. Alias Pulsewire is the same living person.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "equipment": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Pulsewire state, two civilian heads Concentrating / Sensory strain, restrained detail. Same teen in modest indigo high-collar long-sleeve long tunic, straight charcoal trousers and ankle boots, simple pale blue piping; a short restrained blue-white flicker spans her natural fingers, never a sword or technology power-source. Face smeared by refraction planes. Natural hand holding pencil with slight tremor gesture, and small plain copper oval focus disk resting in open other hand; inert object no runes. Avoid room cables or opponent.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes."
+      },
+      "explicitCanon": [
+        "Canonical age 16. Voluntary Pulsewire transformation, senses/severs active magical connections at close range; tremor, sensory halos, headache and sound sensitivity. Source blue-white flicker during severance. Faces blurred under veil. Alias Pulsewire is the same living person."
+      ],
+      "visualInterpretation": [
+        "Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Pulsewire state, two civilian heads Concentrating / Sensory strain, restrained detail. Same teen in modest indigo high-collar long-sleeve long tunic, straight charcoal trousers and ankle boots, simple pale blue piping; a short restrained blue-white flicker spans her natural fingers, never a sword or technology power-source. Face smeared by refraction planes. Natural hand holding pencil with slight tremor gesture, and small plain copper oval focus disk resting in open other hand; inert object no runes. Avoid room cables or opponent."
+        }
+      ],
+      "lighting": {
+        "moment": "Daytime civilian and blackout transformed state",
+        "motivation": "Civilian natural school window light; transformed/blackout studies low-key amber emergency and bounded user-generated effects"
+      },
+      "recurrence": {
+        "identityKey": "the-attendance-ledger:bryn-ahn",
+        "links": [
+          "universe/characters.md#Bryn Ahn"
+        ],
+        "evidence": "Exact established local identity; no Solstice relation or other crossover"
+      },
+      "references": [
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "role": "Actual daytime school oil/light source",
+          "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+          "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted ivory oil folio rendering only",
+          "notes": "No identity/age/clothes transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+          "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+          "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/title-image.jpg",
+          "role": "Inspected symbolic nonfigurative cover",
+          "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+          "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Bryn Ahn'.\nBryn Ahn, exactly16, ordinary fullyclothed teenage anatomy. Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes. Layout ONLY TWO civilian wholebody views FRONT/BACK at left, two clear CIVILIAN expression heads 'Concentrating / Sensory strain' upper right, one wholebody 'Pulsewire — refraction veil' lower/right and tiny personal detail. Never put a second character. Civilian heads stable specific appearance in natural daytime windowlight; no blur there. TRANSFORMED STATE: Same teen in modest indigo high-collar long-sleeve long tunic, straight charcoal trousers and ankle boots, simple pale blue piping; a short restrained blue-white flicker spans her natural fingers, never a sword or technology power-source. Face smeared by refraction planes. Main civilian and transformed body proportions/hair identical despite face blurring. Transformed state in BLACKOUT: predominantly cool deep-blue shadows and narrow weak amber emergency planes; bounded character power highlights as described. Natural hand holding pencil with slight tremor gesture, and small plain copper oval focus disk resting in open other hand; inert object no runes. Avoid room cables or opponent. Plain small copper oval disk shape is art interpretation. No lens haze across whole sheet, no room/scene, no magical source in objects.",
+        "references": [
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+            "role": "Actual daytime school oil/light source",
+            "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+            "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual accepted ivory oil folio rendering only",
+            "notes": "No identity/age/clothes transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+            "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+            "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+            "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:33:52.569077+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Bryn Ahn'.\nBryn Ahn, exactly16, ordinary fullyclothed teenage anatomy. Girl16, ordinary tall lean teenager, medium warm-beige skin, square face with broad cheekbones, dark eyes, straight black jaw-length bob with deep sidepart, no braid. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes. Layout ONLY TWO civilian wholebody views FRONT/BACK at left, two clear CIVILIAN expression heads 'Concentrating / Sensory strain' upper right, one wholebody 'Pulsewire — refraction veil' lower/right and tiny personal detail. Never put a second character. Civilian heads stable specific appearance in natural daytime windowlight; no blur there. TRANSFORMED STATE: Same teen in modest indigo high-collar long-sleeve long tunic, straight charcoal trousers and ankle boots, simple pale blue piping; a short restrained blue-white flicker spans her natural fingers, never a sword or technology power-source. Face smeared by refraction planes. Main civilian and transformed body proportions/hair identical despite face blurring. Transformed state in BLACKOUT: predominantly cool deep-blue shadows and narrow weak amber emergency planes; bounded character power highlights as described. Natural hand holding pencil with slight tremor gesture, and small plain copper oval focus disk resting in open other hand; inert object no runes. Avoid room cables or opponent. Plain small copper oval disk shape is art interpretation. No lens haze across whole sheet, no room/scene, no magical source in objects.",
+            "references": [
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+                "role": "Actual daytime school oil/light source",
+                "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+                "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted ivory oil folio rendering only",
+                "notes": "No identity/age/clothes transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+                "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+                "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+                "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-68a8eaec-d5e3-45a4-9c21-5c934fe448b8.png",
+            "savedPath": "stories/the-attendance-ledger/art/characters/bryn-ahn.png",
+            "outputSha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:13:52.708794+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:13:52.708794+00:00",
+        "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+        "outputSha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c",
+        "references": [
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+            "role": "Actual daytime school oil/light source",
+            "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+            "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual accepted ivory oil folio rendering only",
+            "notes": "No identity/age/clothes transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+            "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+            "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+            "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1: ordinary fully clothed sixteen-year-old proportions and stable bob/face through clear civilian front/back and two heads; own navy uniform.",
+          "Pulsewire transformed state same identity/proportions, face visually smeared by refraction veil, dark indigo clothes and modest blue-white finger flicker under weak amber blackout edge; no extraneous powers.",
+          "Non-glowing inert plain focus disk separate in hand, source tremor/sensory-strain expressions, exact name/title, heavy oil and ivory no-setting layout pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "7dabdfb045fa2322bdec661dc1f467e4f3a8637510f6dc6ff48ece72e3a318ff"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "7ab939d4270dda301308d7b7d549ef91e2652286e602f457720ab02d57230c6c"
+    },
+    {
+      "id": "cassia-dominguez",
+      "name": "Cassia Dominguez",
+      "role": "Humorous student who takes a breath and creates decisive decoys",
+      "naming": {
+        "sourceName": "Cassia Dominguez",
+        "sourceRole": "Humorous student who takes a breath and creates decisive decoys",
+        "provenance": "Exact established source/canonical name; aliases retained as same-person states"
+      },
+      "selectionEvidence": [
+        {
+          "line": 37,
+          "quote": "Cassia offered them a thin grin",
+          "explanation": "Humorous cover for exhaustion."
+        },
+        {
+          "line": 420,
+          "quote": "Then Mothlight filled the rehearsal corridor with liars.",
+          "explanation": "Chosen decoy action after own requested breath."
+        }
+      ],
+      "form": "Human teenager",
+      "storyAppearance": {
+        "anatomy": "Canonical age 15. Voluntary Mothlight transformation; moving luminous silhouettes/displaced voice echoes, costs glucose and concentration. Needs food/grounding and chooses action. Pale hand glimpse in climax. Face/voice refraction. Alias Mothlight is the same living person.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl15, ordinary compact build, light warm skin, round cheeks and small rounded nose, brown eyes, short loose honey-brown curls to jaw. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "markings": "Canonical age 15. Voluntary Mothlight transformation; moving luminous silhouettes/displaced voice echoes, costs glucose and concentration. Needs food/grounding and chooses action. Pale hand glimpse in climax. Face/voice refraction. Alias Mothlight is the same living person.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl15, ordinary compact build, light warm skin, round cheeks and small rounded nose, brown eyes, short loose honey-brown curls to jaw. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "equipment": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Mothlight state, two civilian heads Thin joke / Taking one breath, restrained detail. Same teen in modest deep-plum long-sleeve knee-length tunic over dark trousers/ankle boots, small pale gold piping. Lifted pale hands have restrained warm luminosity, one faint half-body luminous silhouette echo OF HERSELF behind her; veil distorts own facial features. No insect wings, antennae or literal moth anatomy. Small natural hand with half-open plain oat-bar wrapper and plain copper oval focus disk isolated; no brand, no magical food/token. Own echo same identity only, not other students.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl15, ordinary compact build, light warm skin, round cheeks and small rounded nose, brown eyes, short loose honey-brown curls to jaw. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes."
+      },
+      "explicitCanon": [
+        "Canonical age 15. Voluntary Mothlight transformation; moving luminous silhouettes/displaced voice echoes, costs glucose and concentration. Needs food/grounding and chooses action. Pale hand glimpse in climax. Face/voice refraction. Alias Mothlight is the same living person."
+      ],
+      "visualInterpretation": [
+        "Girl15, ordinary compact build, light warm skin, round cheeks and small rounded nose, brown eyes, short loose honey-brown curls to jaw. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two CIVILIAN full-body views Front/Back and one separate full-body transformed Mothlight state, two civilian heads Thin joke / Taking one breath, restrained detail. Same teen in modest deep-plum long-sleeve knee-length tunic over dark trousers/ankle boots, small pale gold piping. Lifted pale hands have restrained warm luminosity, one faint half-body luminous silhouette echo OF HERSELF behind her; veil distorts own facial features. No insect wings, antennae or literal moth anatomy. Small natural hand with half-open plain oat-bar wrapper and plain copper oval focus disk isolated; no brand, no magical food/token. Own echo same identity only, not other students."
+        }
+      ],
+      "lighting": {
+        "moment": "Daytime civilian and blackout transformed state",
+        "motivation": "Civilian natural school window light; transformed/blackout studies low-key amber emergency and bounded user-generated effects"
+      },
+      "recurrence": {
+        "identityKey": "the-attendance-ledger:cassia-dominguez",
+        "links": [
+          "universe/characters.md#Cassia Dominguez"
+        ],
+        "evidence": "Exact established local identity; no Solstice relation or other crossover"
+      },
+      "references": [
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "role": "Actual daytime school oil/light source",
+          "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+          "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted ivory oil folio rendering only",
+          "notes": "No identity/age/clothes transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+          "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+          "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/title-image.jpg",
+          "role": "Inspected symbolic nonfigurative cover",
+          "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+          "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this one reference folio. Keep ONE identity, exact source title/name and1536x1024 landscape, broad Canadian Group of Seven oil rendering. Remove the entire decorative BLUE/VIOLET painted swath behind Mothlight and ground patch under her feet; also remove tiny ground marks under civilian figures. Replace these with same LIGHT WARM IVORY paper. Keep transformed Mothlight and her SINGLE luminous silhouette echo OF HERSELF, with the echo's fine golden outline/dim light-blue body fill isolated on ivory; preserve its matching same-person anatomy. Keep the Mothlight face refraction, raised luminous hands, plum tunic, dark trousers and narrow amber/blue blackout lighting on her body. Preserve all civilian figures, two clear expression heads, oatbar hand and inert disk. No backdrop, halo, room, floor, swatches or extra identity.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9c54808b-1c64-4b6a-8c06-5467679b130d.png",
+            "sha256": "1d37e9acf06514b2dc643ca9dec9ae87578c4f40922efcbc7d8ad30ae438542b",
+            "inspected": true,
+            "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:33:52.569077+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'Cassia Dominguez'.\nCassia Dominguez, exactly15, ordinary fullyclothed teenage anatomy. Girl15, ordinary compact build, light warm skin, round cheeks and small rounded nose, brown eyes, short loose honey-brown curls to jaw. Navy uniform jumper, white collar, gray straight trousers, black sensible lace shoes. Layout ONLY TWO civilian wholebody views FRONT/BACK at left, two clear CIVILIAN expression heads 'Thin joke / Taking one breath' upper right, one wholebody 'Mothlight — refraction veil' lower/right and tiny personal detail. Never put a second character. Civilian heads stable specific appearance in natural daytime windowlight; no blur there. TRANSFORMED STATE: Same teen in modest deep-plum long-sleeve knee-length tunic over dark trousers/ankle boots, small pale gold piping. Lifted pale hands have restrained warm luminosity, one faint half-body luminous silhouette echo OF HERSELF behind her; veil distorts own facial features. No insect wings, antennae or literal moth anatomy. Main civilian and transformed body proportions/hair identical despite face blurring. Transformed state in BLACKOUT: predominantly cool deep-blue shadows and narrow weak amber emergency planes; bounded character power highlights as described. Small natural hand with half-open plain oat-bar wrapper and plain copper oval focus disk isolated; no brand, no magical food/token. Own echo same identity only, not other students. Plain small copper oval disk shape is art interpretation. No lens haze across whole sheet, no room/scene, no magical source in objects.",
+            "references": [
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+                "role": "Actual daytime school oil/light source",
+                "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+                "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted ivory oil folio rendering only",
+                "notes": "No identity/age/clothes transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+                "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+                "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+                "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9c54808b-1c64-4b6a-8c06-5467679b130d.png",
+            "outputSha256": "1d37e9acf06514b2dc643ca9dec9ae87578c4f40922efcbc7d8ad30ae438542b",
+            "review": "Actual A1 identities, civilian15/transformed proportions, refraction veil and own echo pass; unwanted blue background and ground patch need removal."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:25:44.690190+00:00",
+            "prompt": "Edit this one reference folio. Keep ONE identity, exact source title/name and1536x1024 landscape, broad Canadian Group of Seven oil rendering. Remove the entire decorative BLUE/VIOLET painted swath behind Mothlight and ground patch under her feet; also remove tiny ground marks under civilian figures. Replace these with same LIGHT WARM IVORY paper. Keep transformed Mothlight and her SINGLE luminous silhouette echo OF HERSELF, with the echo's fine golden outline/dim light-blue body fill isolated on ivory; preserve its matching same-person anatomy. Keep the Mothlight face refraction, raised luminous hands, plum tunic, dark trousers and narrow amber/blue blackout lighting on her body. Preserve all civilian figures, two clear expression heads, oatbar hand and inert disk. No backdrop, halo, room, floor, swatches or extra identity.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9c54808b-1c64-4b6a-8c06-5467679b130d.png",
+                "sha256": "1d37e9acf06514b2dc643ca9dec9ae87578c4f40922efcbc7d8ad30ae438542b",
+                "inspected": true,
+                "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ddd57b6e-9485-4acd-9f30-438f1d214fd4.png",
+            "savedPath": "stories/the-attendance-ledger/art/characters/cassia-dominguez.png",
+            "outputSha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:45:25.091132+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:45:25.091132+00:00",
+        "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+        "outputSha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9c54808b-1c64-4b6a-8c06-5467679b130d.png",
+            "sha256": "1d37e9acf06514b2dc643ca9dec9ae87578c4f40922efcbc7d8ad30ae438542b",
+            "inspected": true,
+            "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+          }
+        ],
+        "evidence": [
+          "Actual A2: fifteen-year-old civilian uniform/body/front-back and own expressive heads stable; one Mothlight transformation plus luminous decoy of HERSELF only.",
+          "Face-refraction obscures transformed features, light hands and own same-shaped decoy are source powers, no insect wings or token agency; non-glowing disk/oatbar details pass.",
+          "Removed blue background/ground swashes; isolated character on ivory, civilian daylight vs transformed dark plum/amber planes, thick oil and exact name/title pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "19e1a0b6f06cc872ebc400d44bb13c93ef217837d30c820fc293517d74519c71"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "adaf457b1314424b0d35a0587123bade32e0597e695656f2ca98ed3d9b877d0d"
+    },
+    {
+      "id": "the-rollcaller",
+      "name": "The Rollcaller",
+      "role": "Living identity-hunting antagonist",
+      "naming": {
+        "sourceName": "The Rollcaller",
+        "sourceRole": "Living identity-hunting antagonist",
+        "provenance": "Exact established source/canonical name; aliases retained as same-person states"
+      },
+      "selectionEvidence": [
+        {
+          "line": 433,
+          "quote": "a narrow living body, ink-dark and sheet-thin",
+          "explanation": "Explicit visible body."
+        },
+        {
+          "line": 434,
+          "quote": "its many extended pieces pulled taut toward false targets.",
+          "explanation": "Tissue filaments link to agency."
+        }
+      ],
+      "form": "One living nonhuman sheet-thin anomaly",
+      "storyAppearance": {
+        "anatomy": "One narrow ink-dark sheet-thin living body with many extended living filaments, including hair-thin pieces. Tissue enters ordinary machines physically. Observation/voice imitation/attention, no inherent name truth. Later folded small in short-term containment.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Nonhuman narrow flexible charcoal-black membrane body, vertical ragged folded strip tapering irregularly, no humanoid head/face/eyes/teeth/limbs. Numerous fine living tendrils merge continuously with its membrane, wetly reflective with dull cool-blue edge and limited amber. Exact outline/scale unspecified art interpretation.",
+        "markings": "One narrow ink-dark sheet-thin living body with many extended living filaments, including hair-thin pieces. Tissue enters ordinary machines physically. Observation/voice imitation/attention, no inherent name truth. Later folded small in short-term containment.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Nonhuman narrow flexible charcoal-black membrane body, vertical ragged folded strip tapering irregularly, no humanoid head/face/eyes/teeth/limbs. Numerous fine living tendrils merge continuously with its membrane, wetly reflective with dull cool-blue edge and limited amber. Exact outline/scale unspecified art interpretation.",
+        "equipment": "Three isolated whole-body studies Expanded / Edge view / Folded, plus detail of membrane merging into filaments. No cage/case/equipment/network/letters or camera shown, no invented humanoid anatomy.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Nonhuman narrow flexible charcoal-black membrane body, vertical ragged folded strip tapering irregularly, no humanoid head/face/eyes/teeth/limbs. Numerous fine living tendrils merge continuously with its membrane, wetly reflective with dull cool-blue edge and limited amber. Exact outline/scale unspecified art interpretation."
+      },
+      "explicitCanon": [
+        "One narrow ink-dark sheet-thin living body with many extended living filaments, including hair-thin pieces. Tissue enters ordinary machines physically. Observation/voice imitation/attention, no inherent name truth. Later folded small in short-term containment."
+      ],
+      "visualInterpretation": [
+        "Nonhuman narrow flexible charcoal-black membrane body, vertical ragged folded strip tapering irregularly, no humanoid head/face/eyes/teeth/limbs. Numerous fine living tendrils merge continuously with its membrane, wetly reflective with dull cool-blue edge and limited amber. Exact outline/scale unspecified art interpretation.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three isolated whole-body studies Expanded / Edge view / Folded, plus detail of membrane merging into filaments. No cage/case/equipment/network/letters or camera shown, no invented humanoid anatomy."
+        }
+      ],
+      "lighting": {
+        "moment": "Blackout confrontation",
+        "motivation": "Weak amber emergency reflection on ink-dark tissue, deep cool shadows"
+      },
+      "recurrence": {
+        "identityKey": "the-attendance-ledger:the-rollcaller",
+        "links": [
+          "universe/characters.md#The Rollcaller"
+        ],
+        "evidence": "Exact established local identity; no Solstice relation or other crossover"
+      },
+      "references": [
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/01-northbridge-science-lab.png",
+          "role": "Actual daytime school oil/light source",
+          "notes": "Inspected broad warm window planes and cool slate shadows, daytime studies only; no laboratory scene.",
+          "sha256": "2d20d5b6f575f42bb772c360c3a73c5d450dc0688af5b622724c2b22b6b31240",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted ivory oil folio rendering only",
+          "notes": "No identity/age/clothes transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+          "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+          "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+          "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-attendance-ledger/title-image.jpg",
+          "role": "Inspected symbolic nonfigurative cover",
+          "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+          "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-attendance-ledger/art/characters/the-rollcaller.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this one reference folio. Keep ONE identity, exact source title/name and1536x1024 landscape, broad Canadian Group of Seven oil rendering. Replace ALL DARK/GRAY/BLACK BACKGROUND with clean LIGHT WARM IVORY of accepted folio. Keep the INK-DARK living membrane and every fine attached tendril dark, with its same shape in Expanded/Edge view/Folded small studies. Make labels fully legible DARK charcoal: large exact heading 'The Rollcaller', smaller 'The Attendance Ledger', and study captions. No dark vignette or gray atmosphere at all; separation comes from dark subject on ivory. Body surface should read flexible almost PAPER-THIN LIVING TISSUE with broad matte directional oil brushstrokes, not a metallic/chiseled 3D stone sculpture: simplify granular stone texture into broad dark flexible folds, retaining thin edges and continuous fine living filaments. Preserve dim amber reflections ONLY ON subject edges and dark cool local planes, no self-glow. Detail background also same ivory, no border or panel. No face/eyes/head/person, scene, floor or equipment.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cc12a79f-73cb-481d-bed4-b5e34cd28f51.png",
+            "sha256": "9d95413fa2f2732cb8ce0d90e15725c7febe0cc57e3d538e1411d89e99a304f6",
+            "inspected": true,
+            "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:33:52.569077+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character folio on LIGHT WARM IVORY. Exact dark serif CHARACTER NAME, exact smaller subtitle 'The Attendance Ledger'. ONE identity only; same identity may have civilian/transformed state. Character-specific layout below. Heavy Canadian Group of Seven oils: broad connected masses, opaque directional paint and selective impasto on faces, hair, bodies and cloth alike. Matte eyes and simplified shadow planes, no polished face islands, photo, CGI, manga fine lines. Second reference anchors physical oils/ivory layout ONLY, not identity. Lighting is motivated by the specified source moments, not automatic studio fill. No scene, room, floor patch, location, swatches, brands, extra people or magical records. All minors ordinary age-appropriate proportions, fully clothed practical garments. Personal focus token is inert; living user supplies magic. Source face-refraction obscures transformed face without transforming into another person. No glamour, armor cleavage, crowns, revealing outfits or unrelated magical-girl tradition.\nHeading 'The Rollcaller'.\nThe Rollcaller. NONHUMAN single living anomaly, not a human in cloak. Source narrow ink-dark SHEET-THIN living membrane body with many extended hair-thin living filaments. Depict an irregular vertically elongated folded charcoal-black membrane with no face, eyes, mouth, head, limbs or typography on tissue. Filaments grow continuously from body's margins, sleek wet living tissue not mechanical wire; same core shape in different states. Landscape folio3isolated studies 'Expanded', 'Edge view', 'Folded small', plus small membrane-to-filament detail. In edge view explicitly almost paper thin, irregular fold, not thick tentacled monster. Dark mostly cool blue-charcoal tissue with weak amber emergency reflection, NO self-glow or magicrunes. No equipment, cage, case, corridor, other person or scene. Second image accepted oil style only, must not copy its human identity. Source third cover gives thinfilamenttextureonly, avoidphoto.",
+            "references": [
+              {
+                "path": "stories/the-attendance-ledger/art/interiors/03-amber-service-corridor.png",
+                "role": "Blackout state dim amber emergency light and cold blue-gray shadows",
+                "notes": "Inspected; transformed state bodies low-key under weak amber, own bounded light effects allowed.",
+                "sha256": "d12cfdc83d422d930b1376464af7bc1d5ff3fd2a56b3b65a2cf4357444031096",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted ivory oil folio rendering only",
+                "notes": "No identity/age/clothes transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-attendance-ledger/title-image.jpg",
+                "role": "Inspected symbolic nonfigurative cover",
+                "notes": "Ordinary ledger/breaker and thin black filament; no character face or token shape established. Photographic cover rendering not imported.",
+                "sha256": "75aa2e85dd04e987842d1e054941d8095a01fef1fac9e065f1d8cbb82219feda",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cc12a79f-73cb-481d-bed4-b5e34cd28f51.png",
+            "outputSha256": "9d95413fa2f2732cb8ce0d90e15725c7febe0cc57e3d538e1411d89e99a304f6",
+            "review": "Actual A1 source sheet-thin body/continuous filaments/no human anatomy present, but dark gray backdrop hides heading and creates 3D rendering drift. Reset background to ivory, label contrast and physical oil tissue planes."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:25:44.694562+00:00",
+            "prompt": "Edit this one reference folio. Keep ONE identity, exact source title/name and1536x1024 landscape, broad Canadian Group of Seven oil rendering. Replace ALL DARK/GRAY/BLACK BACKGROUND with clean LIGHT WARM IVORY of accepted folio. Keep the INK-DARK living membrane and every fine attached tendril dark, with its same shape in Expanded/Edge view/Folded small studies. Make labels fully legible DARK charcoal: large exact heading 'The Rollcaller', smaller 'The Attendance Ledger', and study captions. No dark vignette or gray atmosphere at all; separation comes from dark subject on ivory. Body surface should read flexible almost PAPER-THIN LIVING TISSUE with broad matte directional oil brushstrokes, not a metallic/chiseled 3D stone sculpture: simplify granular stone texture into broad dark flexible folds, retaining thin edges and continuous fine living filaments. Preserve dim amber reflections ONLY ON subject edges and dark cool local planes, no self-glow. Detail background also same ivory, no border or panel. No face/eyes/head/person, scene, floor or equipment.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cc12a79f-73cb-481d-bed4-b5e34cd28f51.png",
+                "sha256": "9d95413fa2f2732cb8ce0d90e15725c7febe0cc57e3d538e1411d89e99a304f6",
+                "inspected": true,
+                "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-78a98791-2533-4a5f-924c-c0c6a25f2a58.png",
+            "savedPath": "stories/the-attendance-ledger/art/characters/the-rollcaller.png",
+            "outputSha256": "9103613253eff16b01592e6cd7471253c249c168ae88ce0ccdf9874c027001a6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:45:25.091132+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:45:25.091132+00:00",
+        "sourceSha256": "8a600b57243c60a41bc1c79173a8d8bcab07dfb88f0555c64c8064dc10b82e3c",
+        "outputSha256": "9103613253eff16b01592e6cd7471253c249c168ae88ce0ccdf9874c027001a6",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cc12a79f-73cb-481d-bed4-b5e34cd28f51.png",
+            "sha256": "9d95413fa2f2732cb8ce0d90e15725c7febe0cc57e3d538e1411d89e99a304f6",
+            "inspected": true,
+            "role": "Immutable inspected rejected A1; targeted folio/oil repair"
+          }
+        ],
+        "evidence": [
+          "Actual A2: readable exact name/title on restored light ivory; one nonhuman core in expanded/very thin edge/folded small states, continuous living ink-dark filaments.",
+          "No invented face/head/eyes/limbs, apparatus or records, source narrow sheet-thin body faithfully represented. Outline/scale documented art interpretation.",
+          "Matte broad directional oil on flexible dark folds with restrained amber reflection/cool shadow; gray vignette and 3D stone granularity removed, labels readable, no setting/swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a9514a78bd280655026d203f205bb1a82811e0c4c1fee12785c6f3a7d1cbe19d"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "9103613253eff16b01592e6cd7471253c249c168ae88ce0ccdf9874c027001a6"
+    }
+  ]
+}
