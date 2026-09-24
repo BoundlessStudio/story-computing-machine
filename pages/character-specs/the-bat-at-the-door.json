@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-bat-at-the-door",
+  "title": "By Wing and Welcome",
+  "source": "stories/the-bat-at-the-door/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished prose/prompt/review read completely; cast selected for sustained physical presence and decisions across the story.",
+  "excludedMinorCharacters": [],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "marivel-rooke",
+      "name": "Marivel Rooke",
+      "role": "Art-only name for first-person parent and experienced wildlife carer; conducts consent, warmth and safety decisions throughout.",
+      "form": "Adult human parent",
+      "selectionEvidence": [
+        {
+          "quote": "Marivel Rooke",
+          "explanation": "Art-only name for first-person parent and experienced wildlife carer; conducts consent, warmth and safety decisions throughout."
+        }
+      ],
+      "storyAppearance": {
+        "clothing": "Handling gloves when caring for bat; ordinary domestic clothing.",
+        "equipment": [
+          "Care log",
+          "Wildlife handling gloves"
+        ],
+        "anatomy": "Adult parent of eleven-year-old Pippa; no explicit gender/appearance given."
+      },
+      "explicitCanon": [
+        "Non-canon same-story identity only; no universal shapeshifter family biology inferred beyond source."
+      ],
+      "visualInterpretation": [
+        "Marivel Rooke art-only name; whole-word universe/stories name search found no reuse. Interpret adult woman42 with medium warm-brown skin, brown hair tied in short low bun, soft square face, quiet practical build; navy cardigan, grey T-shirt, long olive trousers and house shoes. Cover human figure age/bun not reliable narrator identity."
+      ],
+      "states": [
+        {
+          "name": "Night care",
+          "description": "Parent clothed, gloved hands handling no other character on this sheet."
+        }
+      ],
+      "lighting": "Power outage after7:13PM, low covered lamp; shadow dominates face and clothing, no window daylight.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "First-person narrator, Pippa's parent",
+        "assignedName": "Marivel Rooke",
+        "authorization": "User requires names for missing identities.",
+        "scope": "Art-only no prose/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-bat-at-the-door/art/characters/marivel-rooke.png",
+      "generation": {
+        "prompt": "Use case: lighting-weather. Change ONLY the illumination of Marivel Rooke herself in every view: storm NIGHT power outage with a LOW COVERED LAMP. Her face, neck, hands, hair and clothing should be mostly broad connected DARK muted blue-grey/umber shadow, leaving a small gentle dull amber-grey cheek-facing lamp plane so the same features remain readable. Reduce the brightly peach skin/white highlights especially across front of face and throat. No orange rim or blue glow; no edge tracing. Keep SAME mature face, bun, clothes/gloves/log, all poses and exact typography. Keep entire background to all edges UNIFORM LIGHT IVORY absolutely unchanged. Never darken paper or lettering, no vignette/scene/floor additions. Opaque oil large shadow planes, not shiny skin.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3dcdd997-92b6-4fd0-8d7f-9c4f5e86a112.png",
+            "sha256": "5c95cef417aab67bd9879b5fe2b39bf3c0450915bff90411544280bc86ca9486",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  LIGHTING FIRST: story storm NIGHT during power outage. EVERY skin/clothing view mostly connected DARK blue-grey/umber shadows with a small dull covered-lamp-facing cheek plane. Ivory background remains bright; no daylight or gold/blue rim. Exact heading \"Marivel Rooke\", subtitle \"By Wing and Welcome\". One adult human parent age42, interpreted WOMAN medium warm-brown skin, soft square mature face, brown eyes, dark brown hair in short practical low bun, average sturdy body. Navy cardigan over grey T-shirt, LONG olive trousers, plain house shoes. Front and rear-three-quarter full views, wildlife-handling gloves worn in one pose, same gloves held in other; care log small in hand. Mature calm expression and gloved-hand detail. She is a parent/carer, NOT magical, no nurse uniform/coat/stethoscope or badge. No child/bat/other people, no bare legs, no scenes. First ref supplies nighttime exposure only, other refs painted folio style. Keep broad quiet oil planes on face, readable but dim.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Night storm, low domestic lamp; blue-grey connected shadows. Do not inherit sunny flight-room painting.",
+                "inspected": true,
+                "sha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "startedAt": "2026-09-24T04:44:04.292568+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-d6508750-8b15-4678-ab25-526593036644.png",
+            "outputSha256": "ba7d96e37d2056bdbaa9ab707135a6122a5982c5582f8e259a97b109d3555beb",
+            "generatorReview": "Dark background obscures all headings; restore uniform ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:56:09.372368+00:00",
+            "prompt": "Replace ONLY the entire background/support with uniform LIGHT WARM IVORY matching the quiet collection folio. Remove every dark vignette, grey-brown mist, shadow gradient and shadow behind the lettering. Every edge and all negative space must be the same light ivory. Repaint exact existing headings/labels crisp dark brown-black against ivory, same content and positions. Do not change the character's face, body, poses, costume, props, anatomy, sizes or paint treatment. Keep all figures and text completely inside margins. Exact heading \"Marivel Rooke\", subtitle \"By Wing and Welcome\". Preserve low night lamp light on person, navy cardigan, gloves/log and adult42 face. Make no scene or floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-d6508750-8b15-4678-ab25-526593036644.png",
+                "sha256": "ba7d96e37d2056bdbaa9ab707135a6122a5982c5582f8e259a97b109d3555beb",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark background obscures all headings; restore uniform ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3dcdd997-92b6-4fd0-8d7f-9c4f5e86a112.png",
+            "outputSha256": "5c95cef417aab67bd9879b5fe2b39bf3c0450915bff90411544280bc86ca9486",
+            "generatorReview": "Restored paper but character exposure still too broad/bright for low covered-lamp outage."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:10:39.616656+00:00",
+            "prompt": "Use case: lighting-weather. Change ONLY the illumination of Marivel Rooke herself in every view: storm NIGHT power outage with a LOW COVERED LAMP. Her face, neck, hands, hair and clothing should be mostly broad connected DARK muted blue-grey/umber shadow, leaving a small gentle dull amber-grey cheek-facing lamp plane so the same features remain readable. Reduce the brightly peach skin/white highlights especially across front of face and throat. No orange rim or blue glow; no edge tracing. Keep SAME mature face, bun, clothes/gloves/log, all poses and exact typography. Keep entire background to all edges UNIFORM LIGHT IVORY absolutely unchanged. Never darken paper or lettering, no vignette/scene/floor additions. Opaque oil large shadow planes, not shiny skin.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3dcdd997-92b6-4fd0-8d7f-9c4f5e86a112.png",
+                "sha256": "5c95cef417aab67bd9879b5fe2b39bf3c0450915bff90411544280bc86ca9486",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Restored paper but character exposure still too broad/bright for low covered-lamp outage.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-0553ee92-328f-410d-9bd3-6cb64f92ba58.png",
+            "outputSha256": "b26ad7b7863c214a2c39f455638d3a07bdfc8c6530a61aed2f0de473c7d443c3",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:33:54.383847+00:00",
+            "generatorReview": "Actual third candidate inspected. Same mature parent face/bun and complete ordinary body, gloves/log all natural; art-only name/gender interpretation recorded. Uniform ivory and exact readable heading/title. Covered-lamp nighttime dark blue/umber face and clothing planes now subdued and connected, no scene/rim/swatches. Source role/consent does not confer nurse/magic identity."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "b26ad7b7863c214a2c39f455638d3a07bdfc8c6530a61aed2f0de473c7d443c3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:33:54.383847+00:00",
+        "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07",
+        "outputSha256": "b26ad7b7863c214a2c39f455638d3a07bdfc8c6530a61aed2f0de473c7d443c3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3dcdd997-92b6-4fd0-8d7f-9c4f5e86a112.png",
+            "sha256": "5c95cef417aab67bd9879b5fe2b39bf3c0450915bff90411544280bc86ca9486",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual third candidate inspected. Same mature parent face/bun and complete ordinary body, gloves/log all natural; art-only name/gender interpretation recorded. Uniform ivory and exact readable heading/title. Covered-lamp nighttime dark blue/umber face and clothing planes now subdued and connected, no scene/rim/swatches. Source role/consent does not confer nurse/magic identity.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "dc6b3d178b3a1ec7dd4f47f6684017a107ba564cae8a08fce48bb01558de4c38"
+      }
+    },
+    {
+      "id": "pippa",
+      "name": "Pippa",
+      "role": "Eleven-year-old daughter who cares for Teyo, checks adult consent assumptions and negotiates pledge.",
+      "form": "Human child",
+      "selectionEvidence": [
+        {
+          "quote": "Pippa",
+          "explanation": "Eleven-year-old daughter who cares for Teyo, checks adult consent assumptions and negotiates pledge."
+        }
+      ],
+      "storyAppearance": {
+        "age": 11,
+        "anatomy": "Braid; explicitly child.",
+        "clothing": "Slippers in final scene; practical domestic clothes.",
+        "equipment": [
+          "Care log",
+          "Pen",
+          "Phone"
+        ]
+      },
+      "explicitCanon": [
+        "Non-canon same-story identity only; no universal shapeshifter family biology inferred beyond source."
+      ],
+      "visualInterpretation": [
+        "Interpret child fair warm skin, brown single braid, round cheeks and brown eyes, loose teal sweatshirt/long charcoal trousers/slippers. Do not use historical cover bun/older-looking girl."
+      ],
+      "states": [
+        {
+          "name": "Night care",
+          "description": "Age11, log and pen; no barehanded bat handling."
+        }
+      ],
+      "lighting": "Night storm/power outage, low covered lamp, connected dark shadows.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Pippa"
+      },
+      "status": "completed",
+      "output": "stories/the-bat-at-the-door/art/characters/pippa.png",
+      "generation": {
+        "prompt": "Use case: lighting-weather. Correct ONLY light on the now-correct ELEVEN-YEAR-OLD CHILD Pippa in every view. Preserve her child round face/young body proportions/small hands, single brown braid, teal sweatshirt/long charcoal trousers/slippers and care log. Source is storm NIGHT in a power outage with LOW COVERED LAMP: most face, neck and hands should be connected subdued DARK blue-grey/umber shadow with a small gentle dull warm-grey lamp-facing cheek plane. Reduce bright peach daytime flesh. Keep child identity and all poses absolutely unchanged. Entire background and negative space remains UNIFORM LIGHT IVORY to every edge; remove tiny foot shadow patches so figures isolate. Exact \"Pippa\" and \"By Wing and Welcome\" and all labels stay crisp dark. No orange edges, glow, rim outlines, scene or vignettes. Only character illumination; never darken support.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bf5f3ee9-0339-42aa-8997-ef1cf0c9117f.png",
+            "sha256": "170baa25993160a4ad93ee15db685a6d425375876fe2be92eac09368b5440ba1",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  LIGHTING FIRST: NIGHT storm during outage, dim covered lamp; all face/hand planes mostly connected cool blue-grey/brown shadow, limited broad dull warm cheek plane. Keep ivory support light. Exact heading \"Pippa\", subtitle \"By Wing and Welcome\". One ELEVEN-YEAR-OLD HUMAN GIRL, child proportions, round young cheeks, warm fair skin, brown eyes and long BROWN HAIR in ONE SINGLE BRAID. Loose teal long-sleeve sweatshirt, LONG charcoal trousers, practical slippers; fully clothed ordinary CHILD, not teenage/adult proportions, no makeup or fashion posing. Front full view holding care log and pencil, rear-three-quarter same single braid, one attentive face study and pen/log hand detail. No bat in hands, no animals/other characters, no science lab, no floor. She records care and speaks firmly, expression curious and self-possessed. Source braid supersedes cover bun. Never adult curves. Dark low lamp illumination with broad opaque oil planes, no rim/sparkle.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Night storm, low domestic lamp; blue-grey connected shadows. Do not inherit sunny flight-room painting.",
+                "inspected": true,
+                "sha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "startedAt": "2026-09-24T04:44:04.293909+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-d9973bad-7983-4e9c-844a-2b6dba3e2139.png",
+            "outputSha256": "e4e3973f13307e07c5afac0ef62265bb795e745229b00bff942a311b8a7f8c55",
+            "generatorReview": "Pippa reads as late-teen/adult despite explicit11; dark support also hides headings."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:56:09.376708+00:00",
+            "prompt": "Correct the AGE and support of this Pippa character reference. She is ELEVEN YEARS OLD, a preteen CHILD. Redraw every repeated face/body as the SAME11-year-old: child round cheeks, small soft nose/chin, no pronounced adult cheekbones/jaw, naturally larger head-to-body ratio, narrow undeveloped child shoulders/torso, child-sized hands and shorter juvenile proportions. Keep her recognizable brown eyes and one long brown braid, ordinary thoughtful expression. Keep loose TEAL SWEATSHIRT and LONG charcoal trousers/slippers fully covering her body, no makeup or glamour. Do not depict an adult woman or older teenager. Same front/back/face/hand-log layout, same care log/pen. Replace ENTIRE dark vignetted background with uniform LIGHT WARM IVORY to every edge and between studies; exact clear dark heading \"Pippa\", subtitle \"By Wing and Welcome\", existing useful labels. Night covered-lamp light stays restrained on CHILD: connected cool muted shadows on face/hands, small subdued lamp-facing planes, not bright peach daylight. No other people, bat, scene, floor or swatches. Preserve broad opaque Group of Seven oil treatment.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-d9973bad-7983-4e9c-844a-2b6dba3e2139.png",
+                "sha256": "e4e3973f13307e07c5afac0ef62265bb795e745229b00bff942a311b8a7f8c55",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Pippa reads as late-teen/adult despite explicit11; dark support also hides headings.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bf5f3ee9-0339-42aa-8997-ef1cf0c9117f.png",
+            "outputSha256": "170baa25993160a4ad93ee15db685a6d425375876fe2be92eac09368b5440ba1",
+            "generatorReview": "Age now reads11 and format correct; character exposure still daylight bright for selected low lamp moment."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:10:39.622342+00:00",
+            "prompt": "Use case: lighting-weather. Correct ONLY light on the now-correct ELEVEN-YEAR-OLD CHILD Pippa in every view. Preserve her child round face/young body proportions/small hands, single brown braid, teal sweatshirt/long charcoal trousers/slippers and care log. Source is storm NIGHT in a power outage with LOW COVERED LAMP: most face, neck and hands should be connected subdued DARK blue-grey/umber shadow with a small gentle dull warm-grey lamp-facing cheek plane. Reduce bright peach daytime flesh. Keep child identity and all poses absolutely unchanged. Entire background and negative space remains UNIFORM LIGHT IVORY to every edge; remove tiny foot shadow patches so figures isolate. Exact \"Pippa\" and \"By Wing and Welcome\" and all labels stay crisp dark. No orange edges, glow, rim outlines, scene or vignettes. Only character illumination; never darken support.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bf5f3ee9-0339-42aa-8997-ef1cf0c9117f.png",
+                "sha256": "170baa25993160a4ad93ee15db685a6d425375876fe2be92eac09368b5440ba1",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Age now reads11 and format correct; character exposure still daylight bright for selected low lamp moment.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-08fdbfd7-a484-4b8a-a6ca-86ae994a11c1.png",
+            "outputSha256": "4b7596103bc369a62122e820224b82f9e68422c970bea83b18fdcb610c47c736",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:33:54.424924+00:00",
+            "generatorReview": "Actual third candidate inspected: face is clearly preteen11 with round cheeks/small chin, narrow child shoulders and non-adult body proportions, fully clothed sweatshirt/long trousers/slippers. Same single brown braid and face in front/rear/detail; log/pencil hands child-sized, no animal handling. Low covered-lamp shadows now preserve night; uniformly light ivory, exact name/title, no floor or swatches."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "4b7596103bc369a62122e820224b82f9e68422c970bea83b18fdcb610c47c736",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:33:54.424924+00:00",
+        "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07",
+        "outputSha256": "4b7596103bc369a62122e820224b82f9e68422c970bea83b18fdcb610c47c736",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-bf5f3ee9-0339-42aa-8997-ef1cf0c9117f.png",
+            "sha256": "170baa25993160a4ad93ee15db685a6d425375876fe2be92eac09368b5440ba1",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual third candidate inspected: face is clearly preteen11 with round cheeks/small chin, narrow child shoulders and non-adult body proportions, fully clothed sweatshirt/long trousers/slippers. Same single brown braid and face in front/rear/detail; log/pencil hands child-sized, no animal handling. Low covered-lamp shadows now preserve night; uniformly light ivory, exact name/title, no floor or swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "826d586bfa54ff02b26ff3218a69f27f50ee0dbcf533b3c5b4d9572f196976f8"
+      }
+    },
+    {
+      "id": "teyo",
+      "name": "Teyo",
+      "role": "Twelve-year-old shapeshifter recovering from forearm injury, chooses transition and family reunion.",
+      "form": "Same person in small brown bat and twelve-year-old boy forms",
+      "selectionEvidence": [
+        {
+          "quote": "Teyo",
+          "explanation": "Twelve-year-old shapeshifter recovering from forearm injury, chooses transition and family reunion."
+        }
+      ],
+      "storyAppearance": {
+        "age": 12,
+        "anatomy": "Bat12.9g, healed notch on left ear, recovering RIGHT forearm with thin pink wing seam. Boy narrow shoulders, fine mobile ear tips, bronze-catching eyes, thin healing inside-right-wrist abrasion, guarded right forearm.",
+        "clothing": "After transformation initially coat; departure dry borrowed clothes and fitted sling.",
+        "equipment": [
+          "Right-arm sling"
+        ],
+        "scale": "Bat tiny, full grown-like bat form; boy child, not adult."
+      },
+      "explicitCanon": [
+        "Non-canon same-story identity only; no universal shapeshifter family biology inferred beyond source."
+      ],
+      "visualInterpretation": [
+        "Human interpretation pale olive skin, short ash-brown hair echoing parents, brown/bronze eyes. Borrowed loose grey sweatshirt and dark trousers, ordinary shoes. Bat enlarged diagrammatically with explicit size label, no claim human-scale."
+      ],
+      "states": [
+        {
+          "name": "Bat form",
+          "description": "12.9g small brown bat with left-ear healed notch, right-wing pink seam."
+        },
+        {
+          "name": "Boy, departure",
+          "description": "Twelve-year-old fully dressed with right forearm supported in sling; no added bat wings."
+        }
+      ],
+      "lighting": "Night low covered lamp; same body injuries retain across voluntary three-minute heat-costing transition, no magic flash.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Teyo"
+      },
+      "status": "completed",
+      "output": "stories/the-bat-at-the-door/art/characters/teyo.png",
+      "generation": {
+        "prompt": "Keep ALL anatomy and injury positions exactly as they now are: boy RIGHT arm is correctly in sling, bat injured right wing is correctly VIEWER LEFT, left ear notch correctly VIEWER RIGHT. Do not move any limb, sling or seam. Change ONLY the incorrect lower-left label to exact text \"Healed seam (right forearm)\" replacing its word left with right. Then lower exposure ONLY on the character drawings for source NIGHT with low covered lamp: face/neck/hands/clothing and bat are mostly connected subdued cool-grey/umber shadow masses with a few small dull lamp-facing planes. Remove bright peach daylight face planes. Preserve twelve-year-old child features, both bat views, fine ear tips, same face/hair, precise poses, all proportions and other text. Entire background remains uniform LIGHT IVORY; never darken paper, no vignette, no glow/rim/scene. Keep title/name clear.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1773ed88-e019-4fff-8386-1cde3d06f681.png",
+            "sha256": "f4730f89ad9ca107055a67d40172ba55a1c309bfd59f42452d1722499efbbb80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  LIGHTING FIRST: night storm power outage, dim covered lamp with broad restrained shadows, no daylight. Exact heading \"Teyo\", subtitle \"By Wing and Welcome\". ONE IDENTITY with TWO SOURCE FORMS. Compose LEFT two bat studies: tiny brown insect-eating BAT enlarged for visibility, one folded wings and one gently open wings entirely within sheet; exactly two wings/front limbs and two small hind feet, fine ears, healed NOTCH on anatomical LEFT EAR and thin PINK HEALED SEAM on anatomical RIGHT forearm/inner wing near wrist, not fresh blood. Label \"Bat form · 12.9 g\" to prevent scale confusion. RIGHT two full-boy views front/rear-three-quarter of a TWELVE-YEAR-OLD child with NARROW SHOULDERS, pale olive skin, short ash-brown hair, brown eyes with bronze edge, subtle fine mobile pointed ear tips. Fully dressed departure state: loose grey sweatshirt and long dark trousers, ordinary shoes, RIGHT FOREARM supported in cloth sling; no adult face/body, no bare torso, no transformation nudity, no bat wings attached to boy. Small face/ear or hand detail only if readable. Both are the SAME Teyo; no third character, no parent, cage, perch, floor or scene. Source injury retained; no regeneration or magical aura. First refs oil/night only; last cover guides brown bat silhouette only, not red eyes or adult male body. No anthropomorphic mouse bat. FINAL NON-NEGOTIABLE FORMAT: ALL negative space and the ENTIRE background to every edge is uniformly PALE LIGHT IVORY. No dark wall colour, vignette, mist, gradients or scene shadows on the paper. Dark NIGHT light applies solely to the character pixels, never the paper. All headings are crisp dark-brown letters on light ivory.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Night storm, low domestic lamp; blue-grey connected shadows. Do not inherit sunny flight-room painting.",
+                "inspected": true,
+                "sha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/title-image.jpg",
+                "role": "Inspected same-story compatible identity only; prose controls conflicting details.",
+                "notes": "Olya short ash hair/fine mobile ears; Corven tall black hair/pale face; brown bat only. Cover human girl's bun conflicts with Pippa braid and is not binding.",
+                "inspected": true,
+                "sha256": "7eb62ef0ac42c8b8816fc8334d3af16766931a1484f8f6b908d2d53806e299ad"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "preparedRevision": "Strengthened ivory and reordered folio before night painting based on earlier returned candidates; no prior call for this identity.",
+            "startedAt": "2026-09-24T05:10:40.596878+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ecf43886-693e-4aaf-9992-fd4b61cd1de0.png",
+            "outputSha256": "e5aa504e38fc7ddf555accd1c147d8c3078957ac6d26c18e1c0af625b69558b1",
+            "generatorReview": "Background dark; anatomical right forearm injury drawn on wrong side in boy and bat."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T05:33:55.418433+00:00",
+            "prompt": "Correct Teyo side continuity with surgical precision. BOY front full-body view: injured RIGHT forearm is on VIEWER LEFT; it must bend in the sling. His LEFT arm on VIEWER RIGHT hangs normally. Currently these are reversed: move sling to anatomical RIGHT arm in front and rear-three-quarter full views, straps appropriate. Preserve same12-year-old face/hair/ears/clothes/body. BAT front open-wing view: thin healed pink seam belongs on BAT ANATOMICAL RIGHT WING/FOREARM = VIEWER LEFT, not viewer right; move seam and its leader to that side. Healed NOTCH remains in BAT ANATOMICAL LEFT EAR = VIEWER RIGHT as already correct, preserve it in both bat views. Folded bat right injury same side. Keep \"Sling detail (right arm)\" detail as consistent right arm. Replace ENTIRE dark blurred vignette/background with uniform LIGHT WARM IVORY from corner to corner, behind lettering and between every view. Keep layout, character identities, clothing, pose and all details unchanged. Reletter exact title/name and existing labels crisply dark brown on light ivory.  Exact heading \"Teyo\", subtitle \"By Wing and Welcome\". Keep small \"Bat form · 12.9 g\" scale labels. Low covered-lamp NIGHT light: reduce bright peach/white character planes into muted connected blue-grey/umber shadows with small broad lamp-facing planes, NO outline or glowing rim. Ivory is light regardless. Never grow bat wings on child, never adult-age him, no wounds/gore, no scene/floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ecf43886-693e-4aaf-9992-fd4b61cd1de0.png",
+                "sha256": "e5aa504e38fc7ddf555accd1c147d8c3078957ac6d26c18e1c0af625b69558b1",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Background dark; anatomical right forearm injury drawn on wrong side in boy and bat.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1773ed88-e019-4fff-8386-1cde3d06f681.png",
+            "outputSha256": "f4730f89ad9ca107055a67d40172ba55a1c309bfd59f42452d1722499efbbb80",
+            "generatorReview": "Physical sides now correct but lower-left injury label erroneously says left; night exposure still too bright."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:57:11.761387+00:00",
+            "prompt": "Keep ALL anatomy and injury positions exactly as they now are: boy RIGHT arm is correctly in sling, bat injured right wing is correctly VIEWER LEFT, left ear notch correctly VIEWER RIGHT. Do not move any limb, sling or seam. Change ONLY the incorrect lower-left label to exact text \"Healed seam (right forearm)\" replacing its word left with right. Then lower exposure ONLY on the character drawings for source NIGHT with low covered lamp: face/neck/hands/clothing and bat are mostly connected subdued cool-grey/umber shadow masses with a few small dull lamp-facing planes. Remove bright peach daylight face planes. Preserve twelve-year-old child features, both bat views, fine ear tips, same face/hair, precise poses, all proportions and other text. Entire background remains uniform LIGHT IVORY; never darken paper, no vignette, no glow/rim/scene. Keep title/name clear.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1773ed88-e019-4fff-8386-1cde3d06f681.png",
+                "sha256": "f4730f89ad9ca107055a67d40172ba55a1c309bfd59f42452d1722499efbbb80",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Physical sides now correct but lower-left injury label erroneously says left; night exposure still too bright.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b410c07f-a975-4db9-bbe7-5e2902bc8a1c.png",
+            "outputSha256": "8758d977ab09ccc630004a02db2090e9600a8b8bef3ef1170d364798ffaec02c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:08:29.210381+00:00",
+            "generatorReview": "Actual pixels inspected: twelve-year-old proportions and consistent single bat/boy identity; anatomical right arm is supported in front/rear and detail; bat anatomical right forearm healed seam and anatomical left ear notch correctly placed and correctly labelled. Small bat scale stated 12.9 g. Connected low covered-lamp night shadows across face and clothes; ivory ground preserved and all exact headings/readable details clear. No healed-by-transformation implication."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "8758d977ab09ccc630004a02db2090e9600a8b8bef3ef1170d364798ffaec02c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:08:29.210381+00:00",
+        "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07",
+        "outputSha256": "8758d977ab09ccc630004a02db2090e9600a8b8bef3ef1170d364798ffaec02c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1773ed88-e019-4fff-8386-1cde3d06f681.png",
+            "sha256": "f4730f89ad9ca107055a67d40172ba55a1c309bfd59f42452d1722499efbbb80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: twelve-year-old proportions and consistent single bat/boy identity; anatomical right arm is supported in front/rear and detail; bat anatomical right forearm healed seam and anatomical left ear notch correctly placed and correctly labelled. Small bat scale stated 12.9 g. Connected low covered-lamp night shadows across face and clothes; ivory ground preserved and all exact headings/readable details clear. No healed-by-transformation implication.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b9f64c9ab23d031fd48563060c23c192aca28ad2cd8c137cc72ee6883112d366"
+      }
+    },
+    {
+      "id": "olya",
+      "name": "Olya",
+      "role": "Mother whose recognition, restraint and pledge carry sustained reunion decisions.",
+      "form": "Adult humanoid shapeshifter mother",
+      "selectionEvidence": [
+        {
+          "quote": "Olya",
+          "explanation": "Mother whose recognition, restraint and pledge carry sustained reunion decisions."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "Thin mobile ear edges rise through soaked hair, large light-catching eyes; source does not show her bat form.",
+        "clothing": "Coat diagonal many dull horn toggles; lining patched in three browns, smells cedar/burnt sugar.",
+        "equipment": [
+          "Phone"
+        ],
+        "scale": "Adult mother of12yearold; ordinary bipedal form."
+      },
+      "explicitCanon": [
+        "Non-canon same-story identity only; no universal shapeshifter family biology inferred beyond source."
+      ],
+      "visualInterpretation": [
+        "Compatible cover short ash-grey hair and pale narrow face; soften cover red eyes to nonluminous grey-brown/light-catching. Brown patch-lined coat follows prose over cover black buttoned garment."
+      ],
+      "states": [
+        {
+          "name": "Rain coat",
+          "description": "Diagonal horn toggles and brown patched lining."
+        }
+      ],
+      "lighting": "Night after storm arrival, low house lamp mostly shadow; no vampire glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Olya"
+      },
+      "status": "completed",
+      "output": "stories/the-bat-at-the-door/art/characters/olya.png",
+      "generation": {
+        "prompt": "Replace ENTIRE dark blurred vignette/background with uniform LIGHT WARM IVORY from corner to corner, behind lettering and between every view. Keep layout, character identities, clothing, pose and all details unchanged. Reletter exact title/name and existing labels crisply dark brown on light ivory.  Exact heading \"Olya\", subtitle \"By Wing and Welcome\". Keep same adult40ish mother face, short ash hair, fine ears, brown diagonal-toggle coat/patch lining, complete figures. Source power-outage covered lamp means lower skin/clothing exposure: large cool muted shadow masses across most faces/hands, only small dull lamp-facing plane. Remove orange outer edge tracing. Do not add actual wings or vampire traits. All artwork remains on light ivory, no scene/floor.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9dce0e9f-708a-4ed3-ae4b-2536140597b8.png",
+            "sha256": "9c73dec7fbebcb6989eb9338b31ba1b5ca29f932450ba974ab86421539c765b9",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  LIGHTING FIRST: NIGHT storm after outage, dim house covered-lamp glow, most skin and coat in connected blue-grey/umber shadow. Keep light ivory and NO rim. Exact heading \"Olya\", subtitle \"By Wing and Welcome\". One ADULT mother40ish with compatible cover short ASH-GREY cropped hair, pale narrow mature face and large grey-brown eyes, thin fine pointed mobile ears rising through damp hair. NO glowing red vampire eyes, no fangs. Long BROWN worn coat fastens DIAGONALLY with MANY dull horn toggles, brown trousers and plain boots. Two complete poses front and rear-three-quarter: one coat slightly opened ONLY to show lining patched in THREE shades of brown; fully clothed tunic under it. One face study showing fine mobile ears and a small coat-lining detail. Hands folded safely at chest/away, worry settling to careful warmth. Ordinary humanoid form, no invented body wings or bat alternate form. First two refs oil/layout, third night values, fourth cover ONLY compatible ash hair/face/ear identity; replace its black buttons per prose. No other characters, rooms, doors or floor. FINAL NON-NEGOTIABLE FORMAT: ALL negative space and the ENTIRE background to every edge is uniformly PALE LIGHT IVORY. No dark wall colour, vignette, mist, gradients or scene shadows on the paper. Dark NIGHT light applies solely to the character pixels, never the paper. All headings are crisp dark-brown letters on light ivory.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Night storm, low domestic lamp; blue-grey connected shadows. Do not inherit sunny flight-room painting.",
+                "inspected": true,
+                "sha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/title-image.jpg",
+                "role": "Inspected same-story compatible identity only; prose controls conflicting details.",
+                "notes": "Olya short ash hair/fine mobile ears; Corven tall black hair/pale face; brown bat only. Cover human girl's bun conflicts with Pippa braid and is not binding.",
+                "inspected": true,
+                "sha256": "7eb62ef0ac42c8b8816fc8334d3af16766931a1484f8f6b908d2d53806e299ad"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "preparedRevision": "Strengthened ivory and reordered folio before night painting based on earlier returned candidates; no prior call for this identity.",
+            "startedAt": "2026-09-24T05:10:40.598481+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9dce0e9f-708a-4ed3-ae4b-2536140597b8.png",
+            "outputSha256": "9c73dec7fbebcb6989eb9338b31ba1b5ca29f932450ba974ab86421539c765b9",
+            "generatorReview": "Dark support hides typography; faces too broadly lit for low covered lamp."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:33:55.422202+00:00",
+            "prompt": "Replace ENTIRE dark blurred vignette/background with uniform LIGHT WARM IVORY from corner to corner, behind lettering and between every view. Keep layout, character identities, clothing, pose and all details unchanged. Reletter exact title/name and existing labels crisply dark brown on light ivory.  Exact heading \"Olya\", subtitle \"By Wing and Welcome\". Keep same adult40ish mother face, short ash hair, fine ears, brown diagonal-toggle coat/patch lining, complete figures. Source power-outage covered lamp means lower skin/clothing exposure: large cool muted shadow masses across most faces/hands, only small dull lamp-facing plane. Remove orange outer edge tracing. Do not add actual wings or vampire traits. All artwork remains on light ivory, no scene/floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9dce0e9f-708a-4ed3-ae4b-2536140597b8.png",
+                "sha256": "9c73dec7fbebcb6989eb9338b31ba1b5ca29f932450ba974ab86421539c765b9",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark support hides typography; faces too broadly lit for low covered lamp.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-fc12b95e-fc1c-4e0d-a12f-3633250d135b.png",
+            "outputSha256": "970e0c35a32717a0e697d8dde28a45ac49b6d864409d5d285cf3f2be15070cee",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:57:13.758223+00:00",
+            "generatorReview": "Actual second candidate inspected: ivory/title restored, adult mother compatible ash cropped hair/fine mobile ears and stable face in all views. Brown diagonal horn-toggle coat has patched brown lining; no invented bat form/fangs/red eyes. Restrained muted lamp-facing skin planes and connected night shadow, no orange rim. Whole figures and coat detail on ivory without scenery."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "970e0c35a32717a0e697d8dde28a45ac49b6d864409d5d285cf3f2be15070cee",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:57:13.758223+00:00",
+        "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07",
+        "outputSha256": "970e0c35a32717a0e697d8dde28a45ac49b6d864409d5d285cf3f2be15070cee",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9dce0e9f-708a-4ed3-ae4b-2536140597b8.png",
+            "sha256": "9c73dec7fbebcb6989eb9338b31ba1b5ca29f932450ba974ab86421539c765b9",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual second candidate inspected: ivory/title restored, adult mother compatible ash cropped hair/fine mobile ears and stable face in all views. Brown diagonal horn-toggle coat has patched brown lining; no invented bat form/fangs/red eyes. Restrained muted lamp-facing skin planes and connected night shadow, no orange rim. Whole figures and coat detail on ivory without scenery.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1b19fadaa0efdea106e08a0cfe872086df0aa7a7493804aeefea6f1175724352"
+      }
+    },
+    {
+      "id": "corven",
+      "name": "Corven",
+      "role": "Father verifies Teyo's identity and change constraints, learns concise restraint, explains and accepts pledge.",
+      "form": "Adult humanoid shapeshifter father",
+      "selectionEvidence": [
+        {
+          "quote": "Corven",
+          "explanation": "Father verifies Teyo's identity and change constraints, learns concise restraint, explains and accepts pledge."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "Tall man, throat skin pulses before speech, no source alternate bat form.",
+        "clothing": "Waxed coat with deep triangular pleats under arms, wet gloves.",
+        "equipment": [
+          "Phone"
+        ],
+        "scale": "Adult father of12yearold; no anatomical external wings established in humanoid form."
+      },
+      "explicitCanon": [
+        "Non-canon same-story identity only; no universal shapeshifter family biology inferred beyond source."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible tall narrow adult with pale skin, black swept-back hair, long angular face, fine pointed ear tips. Blue-black waxed coat pleats resemble wings as fabric, not extra limbs."
+      ],
+      "states": [
+        {
+          "name": "Storm arrival",
+          "description": "Wet waxed wing-cut sleeves, phone/glove."
+        }
+      ],
+      "lighting": "Night/low covered lamp, dark waxed coat and face shadows; no gold edging.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Corven"
+      },
+      "status": "completed",
+      "output": "stories/the-bat-at-the-door/art/characters/corven.png",
+      "generation": {
+        "prompt": "Replace ENTIRE dark blurred vignette/background with uniform LIGHT WARM IVORY from corner to corner, behind lettering and between every view. Keep layout, character identities, clothing, pose and all details unchanged. Reletter exact title/name and existing labels crisply dark brown on light ivory.  Exact heading \"Corven\", subtitle \"By Wing and Welcome\". Keep same adult angular father face/black hair, pointed ears, blue-black coat with fabric underarm pleats, phone/glove, two complete figures. Remove ALL bright gold/orange edge outlines from hair, neck, face, hands and coat; replace with ordinary connected quiet dark shadow planes. Covered-lamp night with a SMALL broad neutral lamp-facing plane, no rim light or glowing outline. Keep pale face but most in subdued grey-mauve shadow. Only rendering light/support correction; no body wings, fangs, scenery or floor.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6d9bf414-c154-4c25-9898-16242b44bbe3.png",
+            "sha256": "fdba3799ed5494e08a4aa9a9af717823f127407b4e2fe85a0d70cb3af0e813dc",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  LIGHTING FIRST: source storm NIGHT under dim covered lamp. All skin mostly deep connected grey-mauve shadow, only small broad neutral warm lamp-facing cheek plane. Ivory unchanged. Exact heading \"Corven\", subtitle \"By Wing and Welcome\". One tall adult father40s with compatible last-cover identity: pale skin, black swept-back short hair, long angular face, fine pointed ear tips and dark nonluminous eyes, clean-shaven; mature not teenage. Source BLUE-BLACK WAXED LONG COAT with deep TRIANGULAR FABRIC PLEATS UNDER ARMS, like wing-cut sleeves but NO actual wings/extra arms. Plain dark trousers, sensible shoes, one wet glove removed for phone use. Front full view phone held in bare hand with glove in other; rear-three-quarter relaxed slight arm spread revealing fabric pleat architecture; one same-face/throat study (ordinary throat, no magic marks). Wet waxcloth described with few dull broad paint planes, no glossy CGI highlights. Distinct tall angular father, no crown/fangs/vampire powers. First two refs oil/layout, third night paint only, fourth cover identity only. No child/bat/mother, room, rain streak background, floor or location. FINAL NON-NEGOTIABLE FORMAT: ALL negative space and the ENTIRE background to every edge is uniformly PALE LIGHT IVORY. No dark wall colour, vignette, mist, gradients or scene shadows on the paper. Dark NIGHT light applies solely to the character pixels, never the paper. All headings are crisp dark-brown letters on light ivory.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/art/interiors/02-tiled-vestibule.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Night storm, low domestic lamp; blue-grey connected shadows. Do not inherit sunny flight-room painting.",
+                "inspected": true,
+                "sha256": "7f4a88c3811b33f14bc0fdb065aabfc29c7c3101779f77c2aa103fcd6242a4b3"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-bat-at-the-door/title-image.jpg",
+                "role": "Inspected same-story compatible identity only; prose controls conflicting details.",
+                "notes": "Olya short ash hair/fine mobile ears; Corven tall black hair/pale face; brown bat only. Cover human girl's bun conflicts with Pippa braid and is not binding.",
+                "inspected": true,
+                "sha256": "7eb62ef0ac42c8b8816fc8334d3af16766931a1484f8f6b908d2d53806e299ad"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "preparedRevision": "Strengthened ivory and reordered folio before night painting based on earlier returned candidates; no prior call for this identity.",
+            "startedAt": "2026-09-24T05:10:40.599822+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6d9bf414-c154-4c25-9898-16242b44bbe3.png",
+            "outputSha256": "fdba3799ed5494e08a4aa9a9af717823f127407b4e2fe85a0d70cb3af0e813dc",
+            "generatorReview": "Dark support hides typography and coat/face has bright golden rim unrelated to covered lamp."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:33:55.425829+00:00",
+            "prompt": "Replace ENTIRE dark blurred vignette/background with uniform LIGHT WARM IVORY from corner to corner, behind lettering and between every view. Keep layout, character identities, clothing, pose and all details unchanged. Reletter exact title/name and existing labels crisply dark brown on light ivory.  Exact heading \"Corven\", subtitle \"By Wing and Welcome\". Keep same adult angular father face/black hair, pointed ears, blue-black coat with fabric underarm pleats, phone/glove, two complete figures. Remove ALL bright gold/orange edge outlines from hair, neck, face, hands and coat; replace with ordinary connected quiet dark shadow planes. Covered-lamp night with a SMALL broad neutral lamp-facing plane, no rim light or glowing outline. Keep pale face but most in subdued grey-mauve shadow. Only rendering light/support correction; no body wings, fangs, scenery or floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6d9bf414-c154-4c25-9898-16242b44bbe3.png",
+                "sha256": "fdba3799ed5494e08a4aa9a9af717823f127407b4e2fe85a0d70cb3af0e813dc",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark support hides typography and coat/face has bright golden rim unrelated to covered lamp.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-887bc700-5fc7-43bb-b16a-3a94dda290ce.png",
+            "outputSha256": "d5935a35711520e8bff609b9679048bb158a9b99613fad82a894e9e1cc3449eb",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:57:13.799864+00:00",
+            "generatorReview": "Actual second candidate inspected: same tall angular adult father, black swept hair and pale nonluminous grey-mauve face across views. Fabric wing-cut underarm pleats are cloth, no extra limbs/body wings. Phone/glove hand anatomy coherent; bright golden rim removed, low night values restrained. Uniform ivory, exact readable headings, entire shoes/hands unclipped, no scenery/swatches."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "d5935a35711520e8bff609b9679048bb158a9b99613fad82a894e9e1cc3449eb",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:57:13.799864+00:00",
+        "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07",
+        "outputSha256": "d5935a35711520e8bff609b9679048bb158a9b99613fad82a894e9e1cc3449eb",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6d9bf414-c154-4c25-9898-16242b44bbe3.png",
+            "sha256": "fdba3799ed5494e08a4aa9a9af717823f127407b4e2fe85a0d70cb3af0e813dc",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual second candidate inspected: same tall angular adult father, black swept hair and pale nonluminous grey-mauve face across views. Fabric wing-cut underarm pleats are cloth, no extra limbs/body wings. Phone/glove hand anatomy coherent; bright golden rim removed, low night values restrained. Uniform ivory, exact readable headings, entire shoes/hands unclipped, no scenery/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "6b7f57197e60fa6efb33e512b10d44f3941cc115aa658345a65992bfbc353474"
+      }
+    }
+  ],
+  "sourceSha256": "0dc29f3d2f9839c356552f848cc4b7df68e7f28af0bc65e9b694dce7e6851f07"
+}
